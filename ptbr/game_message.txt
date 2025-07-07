@@ -1,0 +1,194 @@
+
+< GAME_MESSAGE_YOURTURN >
+Seu turno.
+
+< GAME_MESSAGE_OPPONENTTURN >
+Turno do oponente.
+
+< GAME_MESSAGE_CHALLENGEBATTLE >
+Desafiar para uma batalha?
+
+< GAME_MESSAGE_HEALTEAMMATE >
+Recuperar esta unidade por 1HP?
+
+< GAME_MESSAGE_REVIVETEAMMATE >
+Reanimar esta unidade? (%d estrelas)
+
+< GAME_MESSAGE_CHOOSECARDUSE >
+Escolha uma carta para usar.
+
+< GAME_MESSAGE_CHOOSECARDDISCARD >
+Escolha uma carta para descartar.
+
+< GAME_MESSAGE_CONFIRMCARDUSE >
+Usar esta carta?
+
+< GAME_MESSAGE_BOSSAPPEARED >
+Um Chefão apareceu!
+
+< GAME_MESSAGE_RAIDBOSS_APPEAR >
+%s desceu!
+
+< GAME_MESSAGE_RAIDBOSS_UNLOCK >
+%s agora pode usar %s!
+
+< GAME_MESSAGE_RAIDBOSS_REMOVE >
+%s não irá mais usar %s.
+
+< GAME_MESSAGE_RAIDBOSS_USE_ABILITY >
+%s está ativando %s!
+
+< GAME_MESSAGE_RAIDBOSS_SKIP_ABILITY >
+%s vai deixar de usar %s.
+
+< GAME_MESSAGE_RAIDBOSS_ENRAGE >
+%s está com raiva!
+
+< GAME_MESSAGE_COOP_TERROR_EVENT >
+%s pode ser desafiado por painéis!
+
+< GAME_MESSAGE_COOP_ANNOUNCE_ABILITY >
+%s vai usar %s no próximo turno!
+
+< GAME_MESSAGE_COOP_LEVELUP_ABILITY >
+%s foi substituído por %s!
+
+< GAME_MESSAGE_TURNSKIP >
+Pulou de turno.
+
+< GAME_MESSAGE_CHOOSENORMA >
+Escolha a próxima Norma.
+
+< GAME_MESSAGE_NORMANOTACHIEVED >
+A Norma ainda não foi atingida.
+
+< GAME_MESSAGE_CARDDRAWN >
+Carta comprada.
+
+< GAME_MESSAGE_TRAPSET >
+Carta de Armadilha colocada.
+
+< GAME_MESSAGE_TRAPTRIGGER >
+Carta de Armadilha ativada.
+
+< GAME_MESSAGE_CARDEFFECTSTOCKED >
+Efeito da Carta foi estocado.
+
+< GAME_MESSAGE_STOCKEFFECT >
+Efeito em Estoque ativado.
+
+< GAME_MESSAGE_FIELDEFFECT >
+Efeito de Campo ativado.
+
+< GAME_MESSAGE_REVIVESUCCESS >
+Reanimado!
+
+< GAME_MESSAGE_REVIVEFAIL >
+Não conseguiu reanimar...
+
+< GAME_MESSAGE_CHOOSETARGET >
+Escolha um jogador alvo.
+
+< GAME_MESSAGE_CHOOSEMOVEPANEL >
+Escolha um painel para se mover.
+
+< GAME_MESSAGE_HOMESTOP >
+Você deseja parar em Casa?
+
+< GAME_MESSAGE_HEALING >
+Se recuperando!
+
+< GAME_MESSAGE_EVENTPREFIX >
+
+< GAME_MESSAGE_EVENTSUFFIX >
+!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATEFRENZY >
+Delírio dos Chocolates!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_SUCCESS >
+Chocolate armazenado!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_FAIL >
+Chocolate insuficiente para armazenar...
+
+< GAME_MESSAGE_HLWN2018_CHOOSECANDY >
+Escolha uma bala.
+
+< GAME_MESSAGE_HLWN2018_GIVECANDY >
+Deseja entregar esta bala?
+
+< GAME_MESSAGE_CHOOSETARGETPANEL >
+Escolha o painel alvo.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE >
+Escolha um painel para atirar.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE_CARD >
+Escolha um painel para atirar / jogue uma carta.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_MULTIPLE >
+Escolha os painéis para atirar.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND >
+Escolha um painel para se mover.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND_CARD >
+Escolha um painel para se mover / jogue uma carta.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_WAITING >
+Esperando pelos outros jogadores...
+
+< GAME_MESSAGE_XMAS2018_CASTLE_ROTATE >
+Rotacionar no sentido horário
+
+< GAME_MESSAGE_XMAS2018_CASTLE_PLACE >
+Colocar peça
+
+< GAME_MESSAGE_XMAS2018_CASTLE_CHANGE >
+Trocar peça
+
+< GAME_MESSAGE_CONFIRMCARDUSE >
+Usar esta carta?
+
+< GAME_MESSAGE_SHOPSTOP >
+Você deseja parar na Loja?
+
+< GAME_MESSAGE_MONSTERCHALLENGE >
+Desafiar este monstro?
+
+< GAME_MESSAGE_SUMMER2020_SPEEDUP >
+Aumentou velocidade!
+
+< GAME_MESSAGE_TELEPORT >
+Selecione um painel para teleportar.
+
+< GAME_MESSAGE_SELECT_PANEL >
+Selecione um painel.
+
+< GAME_MESSAGE_AWAIT_ACTION >
+Aguardando ação do jogador...
+
+< GAME_MESSAGE_PICK_UNIT >
+Escolha sua Unidade
+
+< GAME_MESSAGE_PET_PLAYER >
+Fazer carinho neste jogador?
+
+< GAME_MESSAGE_PET_DOG >
+Você gostaria de fazer carinho no cachorro?
+
+< GAME_MESSAGE_CHOOSE_BLUFF >
+Que tipo de carta você acha que irá ser jogada agora?
+
+< GAME_MESSAGE_DECLARE_BLUFF >
+Que tipo de carta você quer mostrar aos outros jogadores?
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_1 >
+A carta que você vai jogar...
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_2 >
+...é esta!
+
+< GAME_MESSAGE_BLUFF_NOTICE >
+Esta carta foi prevista para ser jogada a seguir por {}.

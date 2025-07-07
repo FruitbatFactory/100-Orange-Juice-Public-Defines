@@ -1,0 +1,160 @@
+<0000> Ali.
+<0001> E lá vai você.
+<0002> Yah!
+<0003> Tô jogando isso!
+<0004> Aqui vai uma carta!
+<0005> Eu vou jogar isso! Que tal!
+<0006> Eu vou usar isso, certo?
+<0007> Mal posso esperar para ver o que vai acontecer.
+<0008> A gente vai colocar uma armadilha aqui?
+<0009> Estamos fazendo isso corretamente?
+<0010> Hmm, talvez algo assim.
+<0011> Aqui vai uma carta armadilha.
+<0012> Aqui vai uma carta de batalha.
+<0013> Eu sou forte o suficiente mesmo sem isso! Eu ainda irei usar, entretanto!
+<0014> Essa carta te faz mais forte!? Que incrível!
+<0015> Eu vou jogar isso! Tenho certeza que vai me dar muito mais poder!
+<0016> Awooo! Feras, me deem seu poder!
+<0017> Eu errei de forma absurda...
+<0018> Eu não terminei ainda...!
+<0019> Eu posso fazer mais disso!
+<0020> Certo, terminei de descansar!
+<0021> Você está de zoeira comigo!?
+<0022> Oh não, eu achei que poderia me levantar.
+<0023> O que foi que eu fiz...
+<0024> Ugh. Ainda não? Ainda não?
+<0025> Ey!
+<0026> Oryah!
+<0027> Tey!
+<0028> Ora seu!
+<0029> Ouch!
+<0030> Owah!
+<0031> Qual é!
+<0032> Porcaria!
+<0033> Certo, eu estou cheia de energia agora.
+<0034> É uma sensação tão boa, que posso até cair no sono.
+<0035> Estou muito melhor agora.
+<0036> Nunca estive melhor.
+<0037> Owaaah!
+<0038> O que é isso?
+<0039> Muwaaah!
+<0040> Girando... girando!
+<0041> Vocêêê meeee pegooou...
+<0042> Eu devia ter ficado mais alerta...
+<0043> Eu não consigo me levantar...
+<0044> Eu vou descansar um pouco aqui...
+<0045> Você lutará comigo agora!
+<0046> Rawr!
+<0047> Isso é o que a Bruxa Feroz é capaz de fazer.
+<0048> Meow! Eu quero que você brinque comigo!
+<0049> Você quer brincar comigo? Claro!
+<0050> Certo, pode vir.
+<0051> Você cometeu um erro ao desafiar a Bruxa Feroz.
+<0052> Farei você se arrepender disso!
+<0053> Ataque da cauda!
+<0054> Eu vou te acertar com a minha cauda!
+<0055> Que tal!
+<0056> Tome isso! Yah!
+<0057> Kyua!
+<0058> O que você está fazendo!?
+<0059> Uh oh.
+<0060> Ohaah!
+<0061> Isso doeu demais!
+<0062> Por que que você faria isso!?
+<0063> O que fiz para você!?
+<0064> Eu odeio me machucar!
+<0065> Isso nunca me acertaria.
+<0066> Veja só meus movimentos rápidos!
+<0067> Ku-ku-ku, eu sou muito rápida para ver, não é!
+<0068> Você é surpreendentemente devagar.
+<0069> Foi uma vitória fácil.
+<0070> Eu me diverti.
+<0071> Já te derrotei?
+<0072> *Suspira*... Eu queria me divertir mais.
+<0073> Ugyaah! Eu fui derrotada!
+<0074> Eu não acredito que alguém assim me derrotou.
+<0075> Eu vou te derrotar da próxima vez...
+<0076> Ugyaah.
+<0077> Ugyaah, Eu consegui um montão disso.
+<0078> Quantas eu consegui!? São muitas para contar.
+<0079> Me sinto tão bem!
+<0080> Eu quero mais! Mais, eu disse!
+<0081> Espera aí! Estas são meus...!
+<0082> Ninguém me disse sobre isso! Espera aí!
+<0083> Ãhn? Para onde minhas estrelas foram?
+<0084> Minhas economias...!!!
+<0085> Isso deve ser o trabalho de humanos perversos...!
+<0086> Ugyah! Minha cauda está presa!
+<0087> Armadilha Idiota...! Mas que saco...!
+<0088> Não acredito que caí nisso... Muuh..!
+<0089> Oh, olhe só para aquela fera gigante!
+<0090> Fu-fu-fu! Isso é algo especial!
+<0091> Muito fera! Wahaha! Não irei perder essa oportunidade!
+<0092> Certo, farei disso rápido!
+<0093> Eu vou conseguir para mim um montão de estrelas! *Soco soco*!
+<0094> Quanto mais estrelas, melhor, né?
+<0095> Eu vou conseguir mais e mais dessas!
+<0096> Eu sou muito boa em achar esse tipo de coisa.
+<0097> Eu vou mostrar a todos vocês o que o instinto de uma fera é capaz de fazer.
+<0098> Eu serei selvagem agora!
+<0099> Rawr rawr! Irei lutar!
+<0100> Minha cauda está ficando realmente impaciente!
+<0101> I'm Teotoratta! A Bruxa Feroz!
+<0102> Eu estava a sua espera! Nós vamos jogar agora!
+<0103> Você quer ver o quão forte eu sou? Certo, me siga!
+<0104> Meu turno? Eu estava ficando cansada de esperar!
+<0105> Eu estou mais do que pronta! Vamos lá!
+<0106> Isso aí! Vamos lá!
+<0107> Eu estou cheia de energia! Awooo!
+<0108> Estou pronta! Pode vir!
+<0109> Awoooooo! Venci! Venci!
+<0110> Sou a número um! Impressionante, né?
+<0111> Ei, você viu o quão bem eu joguei?
+<0112> Uhihi! Eu estou tão feliz!
+<0113> Olha o que eu acabei de conseguir. Você quer?
+<0114> Bow wow! Eu achei isso aqui! Espero que te faça feliz!
+<0115> Oh, isso aí é um item? Quer jogar com ele agora?
+<0116> Você quer isso aqui? Você terá que me elogiar primeiro!
+<0117> Fique com meu lugar!
+<0118> É hora de irmos.
+<0119> Troque comigo um pouco.
+<0120> Preciso de uma pausa, você consegue.
+<0121> Ok.
+<0122> Bom trabalho!
+<0123> Bow wow!
+<0124> Não.
+<0125> Que desapontante.
+<0126> Que sorte! Que felicidade!
+<0127> Mas o que raios é isso?
+<0128> Vamos começar!
+<0129> É hora de rolar os dados.
+<0130> Lá vamos nós!
+<0131> Yoo-hoo.
+<0132> *Choraminga*
+<0133> Bom trabalho!
+<0134> Que incrível! Você é demais!
+<0135> *Choraminga choraminga*
+<0136> Deveria usar isso? Vai ajudar?
+<0137> *Cheira cheira*... Que cheiro bom! Eu vou usar!
+<0138> Eu vou apenas usar isso aqui e ver como vai ficar!
+<0139> O que vai acontecer? Estou empolgada!
+<0140> Miusaki! Awooo! Se prepare para lutar comigo!
+<0141> Eu não estou atacando ferozmente. Estou apenas jogando!
+<0142> Miusakiii, você já era!?
+<0143> *Choraminga*... Miusakiii, não em deixe sozinha.
+<0144> O que é você? Fera? Humana?
+<0145> Oh, ãhn? Uma humana? Uma fera? Qual dos dois você é!?
+<0146> Então você era uma fera! De jeito nenhum que você poderia derrotar a Bruxa Feroz!
+<0147> Meu poder não funcionou em você... Então você era uma humana...
+<0148> Certo, bom trabalho, minhas feras.
+<0149> Bom trabalho, minhas feras camaradas!
+<0150> Vocês fizeram um trabalho realmente muito bom! Eu não aguento tanto...!
+<0151> Aqui, eu posso usar meu poder em sua extensão máxima...!
+<0152> Eu posso sentir feras em todo canto aqui.
+<0153> Fufufu, eu gosto daqui.
+<0154> Awooo! Bow wow!
+<0155> Minha mágica não está funcionando nessa coisa...?
+<0156> É o quê!? Não sou a única Bruxa Feroz por aqui?
+<0157> Hmm? Existe algo curioso acontecendo aqui...
+<0158> Isso é confuso. Mas o que raios está acontecendo aqui?
+<0159> Então, existe mais de uma de mim? O que está acontecendo aqui!?

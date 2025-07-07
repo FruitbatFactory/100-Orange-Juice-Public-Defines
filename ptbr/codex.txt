@@ -1,0 +1,370 @@
+< LORE_SUGURI >
+1=Uma garota que irá aparentar ter 14 anos para sempre.
+2=Gosta: Planeta Terra\nOdeia: Conflitos
+3=Suguri passou mais de 10 mil anos restaurando a Terra arruinada. A garota calma e quieta nunca hesita em lutar para proteger a Terra e seus habitantes.
+4=Ela é capaz de criar quaisquer ferramentas que ela precise e de voar pelos céus em velocidades incríveis.
+
+< LORE_QP >
+1=Uma garota híbrida de Humana e Pomeriana que está sempre cheia de energia, QP é uma garota brincalhona e honesta que costuma ficar empolgada.
+2=Gosta: Pudim\nOdeia: Bullies
+3=A garota cachorro adora pudim acima de tudo, e sua empolgação por pudim nunca falha em atingir limites.
+4=Ela se dá bem com coelhos.
+
+< LORE_KAI >
+1=Kai é um garoto ordinário de 18 anos.
+2=Gosta: Notas de 100 conto\nOdeia: Problemas
+3=Após uma criatura misteriosa chamada Marie Poppo roubar sua carteira, ele começa uma caça por ela e acaba caindo em diversos mundos diferentes. 
+4=Mesmo que seja o protagonista de 100% Orange Juice, Kai não tem nenhuma característica espetácular. Este é um fato que o irrita, mas ele tenta se forçar a estar alegre para se sobressair a isso.
+
+< LORE_MARC >
+1=Uma garota de 16 anos que sonhou se tornar uma aviadora quando criança, e ao crescer realizou seu sonho. Ela é motivada, diligente e trabalhadora, mas pode ser extremamente teimosa.
+2=Gosta: Coisas vermelhas, maçãs\nOdeia: Aqueles que causam problemas aos outros
+3=Marc é mais jovem do que todo mundo na Guilda, uma organização formada por aviadores. Seu avião de confiança "Barril Vermelho" literalmente se parece com um barril vermelho.
+4=As duas pedras no sapato da Marc são um garoto chamado Peat que constantemente enche o saco dela por ter roubado sua posição de mais novo da Guilda, e sua melhor amiga Fernet lhe atrapalhando após uma briga que encerrou a amizade.
+5=A frustração mais recente de Marc é ter que achar seus próprios trabalhos pois o Mestre da Guilda enlouqueceu e levou a Guilda ao colapso.
+
+< LORE_HIME >
+1=Uma garota gentil que aparenta ter 14 anos.
+2=Gosta: A Atmosfera\nOdeia: O Vácuo do Espaço
+3=Hime viveu por mais de 10 mil anos sem envelhecer físicamente. Ela costumava ser a guardiã dos humanos que deixaram a Terra para viajar ao espaço por motivos específicos. 
+4=Agora que ela está de volta na Terra e terminou de proteger as pessoas, Hime está vivendo uma vida quieta e pacata.
+5=O comportamento elegante e relaxado de Hime lembra aquele de uma garota bem educada que aceita a tudo e a todos. Sua vida longa lhe deu uma visão calma e reservada dos eventos diários da vida, embora ela ainda aja e fale de uma maneira que lembre sua idade de aparência.
+
+< LORE_FERNET >
+1=A filha de uma família rica, Fernet tem 16 anos e é amiga de infância da Marc.
+2=Gosta: Seus pais\nOdeia: Pessoas/Coisas Deselegantes
+3=Fernet não vem da nobreza. Em vez disso, seu pai ficou milionário durante o rápido crescimento da indústria da aviação. Quando Fernet era pequena, ela estava tendo dificuldades para se enturmar com crianças de outras famílias ricas, então seus pais decidiram colocá-la numa escola para crianças ordinárias, onde ela conheceu e se tornou amiga de Marc. 
+4=Quando as duas garotas cresceram, a amizade entre elas teve problemas pois Marc decidiu que gostaria de se tornar uma aviadora, e Fernet não gostou da ideia.
+5=Fernet não é egoísta, mas ela está na idade onde ela acha vergonhoso espressar seus sentimentos, e, como resultado, pode soar contundente e impensada. Ela também sente que precisa ir além para poder se encaixar com outras famílias ricas.
+
+< LORE_YUKI >
+1=Uma garota com orelhas de gato que aparenta ter 16 anos e fala no dialeto Kansai.
+2=Gosta: Mangá\nOdeia: Pessoas Vaidosas
+3=Yuki adora fazer bullying com a garota cachorro QP; No jogo QP Shooting, Yuki rouba a comida favorita de QP, pudim, dela e ainda arruína a sobremesa colocando molho shoyu bem na frente dela.
+4=Esta dominante, segura de si ditadora comanda um grupo de crianças travessas chamado de Waruda, e passa a maior parte de seu tempo com os membros do grupo.
+
+< LORE_POPPO >
+1=Marie Poppo é a mascote travessa de 100% Orange Juice.
+2=Gosta: Estrelas\nOdeia: Locais Quietos
+3=Ela zoa outras pessoas e acha que é a coisa mais fofa de todo o mundo.
+4=Poppo costuma falar em sons fofos de "poppo", mas na verdade é perfeitamente capaz de falar normalmente.
+5=Na verdade existe mais de uma Poppo! As estranhas criaturas são capangas criadas por Tomomo, a criadora de 100% Orange Juice.
+
+< LORE_ARU >
+1=Uma garota com orelhas de coelho que está treinando para ser Mamãe Noel. Ela é uma garota feliz, honesta e direta.
+2=Gosta: Folhas\nOdeia: Alimentos gordurosos
+3=Aru é diligente e trabalha duro para tornar o sonho de todas as crianças realidade. 
+4=Houve um tempo em que alguém roubou todos os presentes de Natal que Aru deveria entregar, e ela fez de tudo para pegá-los de volta.
+
+< LORE_SORA >
+1=A protagonista de seu jogo titular, Sora sempre parece ter 16 anos devido às modificações corporais que ela foi forçada a ter que a transformaram em uma arma suprema de guerra.
+2=Gosta: Chocolate\nOdeia: Medicina
+3=10.000 anos após o fim da guerra, Sora acordou em uma Terra que havia se recuperado dos graves danos causados pelos combates e agora está vivendo uma vida tranquila.
+4=Todas as experiências angustiantes que ela teve na guerra fizeram com que a Sora seja terrível em expressar seus sentimentos.
+5=No mundo pacífico de 100% Orange Juice, ela gosta do jogo de tabuleiro e não mostra nenhum sentimento de depressão de seu passado trágico, embora a parte competitiva de sua personalidade a faça se esforçar ao máximo para vencer.
+
+< LORE_PEAT >
+1=Um aviador de 17 anos que trabalha para a Guilda, pilotando seu avião chamado de Corvo Azul. Ele é um cara honesto e diligente de coração, mas seus esforços tendem a ir na direção errada. 
+2=Gosta: Ser o melhor\nOdeia: Perder
+3=Peat costumava ser o membro mais jovem da Guilda e gostava de ser o centro das atenções antes de Marc se juntar à organização e roubar os holofotes.
+4=Peat é o segundo filho de uma família com uma história consagrada pelo tempo. Afirmando que seu irmão mais velho é o sucessor do nome da família, Peat entrou no mundo dos aviadores e vem trabalhando duro para ser o número um nos céus.
+5=Além de sua rivalidade com Marc, Peat também nutre um sentimento romântico por ela que ele mesmo não reconhece. Peat não é o melhor com as garotas, provavelmente porque ele frequenta uma escola de garotos. Suas tentativas de agir como um cavalheiro rapidamente dão errado.
+
+< LORE_TOMOMO >
+1=A mestra de 100% Orange Juice de 27 anos de idade, Tomomo tem uma personalidade preguiçosa e descontraída.
+2=Gosta: Chantilly\nOdeia: Vegetais
+3=Tomomo costumava ser uma funcionária de escritório cansada e desmotivada, mas um dia, um milagre aconteceu e a transformou em uma garota mágica.
+4=Mesmo que ela seja na verdade uma pessoa inofensiva e pé no chão, o fato de ela ser velha demais para sua fantasia de garota mágica e ter sido colocada em uma posição tão peculiar a deixou tão chateada que causou muitos problemas para outras pessoas. 
+
+< LORE_SYURA >
+1=Syura tem 14 anos e está no segundo ano do ensino fundamental. Ela é a melhor amiga compreensiva da QP.
+2=Gosta: Camarão\nOdeia: Cogumelos
+3=Essa grande gamer geek está sempre alegre e cheia de energia, exceto quando ela entra em pânico e olheiras se formam sob seus olhos devido à falta de sono, porque ela está lutando para terminar seu mangá para vender no Mercado de Comics. 
+4=Independentemente do gênero, Syura ama tanto pessoas fofas e bonitas que fica louca quando as vê.
+5=Syura e Piyo, uma galinha amiga dela, sempre conversam entre elas como se fossem comediantes. 
+
+< LORE_NANAKO >
+1=Uma das Shifu Brands, Nanako é uma humana alterada que luta controlando sete armas autônomas chamadas Bits ao mesmo tempo. Sua idade física é de 12 anos.
+2=Gosta: Todos os tipos de fruta\nOdeia: Comida apimentada
+3=Ela lutou contra Suguri sob o comando de Shifu, que estava tentando dominar a Terra, após o que as duas garotas fizeram as pazes. Ela agora está vivendo uma vida despreocupada.
+4=Nanako é sempre dura e fria, ou irritada. No entanto, ela é uma garota gentil com uma perspectiva ampla, que ajudará qualquer um que tiver problemas.
+5=Ela se dá especialmente bem com Kae. Por outro lado, ela odeia Shifu, que a alterou, e sua cópia robô NoName, e fica irritada ao encontrar qualquer um deles.
+
+< LORE_SAKI >
+1=Uma das Shifu Brands, Saki é uma humana alterada que luta usando armas explosivas modeladas a partir de instrumentos musicais. Sua idade física é de 16 anos. 
+2=Gosta: Qualquer coisa deliciosa\nOdeia: Coisas super azedas
+3=Saki tem uma personalidade calorosa e relaxante, embora possa ser bastante cruel as vezes.
+4=Ela fica desconfortável e se envergonha quando Shifu, aquele que a alterou, ou sua cópia robô NoName estão por perto.
+5=Saki é boa em fazer doces. Seu sucesso em recriar o pudim de sobremesa lendário a transformou em uma das seis Deusas dos Doces, Sweet Maker. Saki e QP se dão bem porque são ambas Deusas dos Doces e compartilham uma personalidade semelhante e uma cor de tema.
+
+< LORE_KYOUSUKE >
+1=Kyousuke tem 18 anos e está no terceiro ano do ensino médio. 
+2=Gosta: Sushi\nOdeia: Natto
+3=Ele é um presidente de escola competente e adorável, com uma língua espirituosa e um mau hábito de tirar a roupa quando está animado.
+4=Kyousuke aparece originalmente em um jogo falso de primeiro de Abril, e sua primeira aparição real é em QP Shooting - Dangerous!!
+5=Tendo sentimentos românticos por um garoto chamado Kyupita, Kyousuke está em busca persistente da QP, que é a cara do garoto por quem está apaixonado.
+
+< LORE_KRILA >
+1=Krilalaris é uma menina de 13 anos que vive em extrema pobreza, muitas vezes vista sofrendo de fome e carregando brinquedos de pelúcia.
+2=Gosta: Ensopada\nOdeia: Comida em conserva
+3=Ela é abençoada com um forte caso de Chuunibyou, também conhecida como Síndrome da Oitava Série, e você sempre pode encontrá-la vestida com um vestido estilo gothic lolita.
+4=Krilalaris acredita que usar palavras como "sangue" e "escuridão" a faz parecer legal. Seu verdadeiro eu é apenas uma garota pateta e desajeitada.
+5=Krilalaris é excelente em costura, e as roupas elaboradas que ela usa são feitas por ela mesma.
+
+< LORE_KAE >
+1=Uma garota imprudente e enérgica que vive sua vida livremente, Kae é uma das Shifu Brands, humanos alterados para lutar. 
+2=Gosta: Bolo\nOdeia: Escuridão, espaços fechados, comida picante
+3=Kae costuma usar onomatopeias para se expressar.
+4=A temperatura de seu corpo aumenta e seu corpo arde como resultado de sua operação quando ela usa seus poderes.
+5=Kae tem 18 anos, mas a cirurgia de modificação imprudente realizada nela a fez regredir à infância, e depois ela foi trancada em um lugar escuro até um certo incidente.
+
+< LORE_ALTE >
+1=Até os 24 anos, Alte lutou em uma grande guerra.
+2=Gosta: Comida caseira de seu noivo\nOdeia: Comida instantânea
+3=Ela no fim se auto-detonou quando encurralada por Sora, deixando seu noivo para trás.
+4=O Alte em 100% Orange Juice é uma cópia com as memórias do original.
+5=A soldado obstinada adora seu noivo. No entanto, ela não é muito boa em cozinhar e quer melhorar nisso.
+
+< LORE_KYOKO >
+1=Com vinte e poucos anos, Kyoko é a mais velha das Shifu Brands, humanos alterados para lutar.
+2=Gosta: Frutas da estação\nOdeia: Nada
+3=Sempre parecendo calma e equilibrada, Kyoko pode parecer uma rainha do gelo inacessível, mas na realidade ela é muito carinhosa e solidária.
+4=Após uma cirurgia de modificação, ela ganhou a habilidade de manipular cristais de gelo, mas com um efeito colateral de ondas de dor em todo o corpo.
+5=Por isso, ela não gosta de usar a palavra "dor" para descrever meros aborrecimentos e prefere usar a palavra "irritante". Conseqüentemente, quando ela diz que algo é irritante, ela também pode querer dizer que é doloroso.
+
+< LORE_SHAM >
+1=Sham é uma humana fisicamente alterada, com um corpo projetado para o combate. Ela está em seus vinte e poucos anos.
+2=Gosta: Chocolate\nOdeia: Nada
+3=Sham é a operadora que ensinou a Sora o básico do combate. Quando está de folga, ela geralmente é uma bola de energia a ponto de irritar as pessoas ao seu redor.
+4=Sua experiência de guerra a torna intransigente quando em batalha. Após o fim da guerra, Sham procura fazer algo novo.
+5=Sham não se importa com a cicatriz em seu rosto, acreditando que ela é extremamente fofa mesmo com ela.
+
+< LORE_SHERRY >
+1=Uma aviadora de 23 anos, Sherry fala de maneira calma e educada e quase nunca levanta a voz. Isso a faz parecer uma pessoa muito pacífica e distante, mas na verdade ela tem uma natureza sensível, atenciosa e competitiva por dentro.
+2=Gosta: Overhauling\nOdeia: Nada
+3=Ela pode se perder em tudo o que decidiu fazer, e essa tendência é ainda mais amplificada quando ela está segurando o manche.
+4=Sherry costumava pertencer a uma organização piloto chamada Guild, mas a deixou para voar livremente no céu. Em seus dias de Guilda, ela costumava trabalhar com Islay, sua amiga e rival. Elas ainda se dão bem.
+5=O pai de Sherry é mecânico de aeronaves. Ajudar o pai com o trabalho a levou a decidir que poderia se tornar uma mecânica melhor tornando-se piloto, em vez de simplesmente perguntar aos pilotos sobre seus aviões - e ela o fez.
+
+< LORE_SWEETBREAKER >
+1=Como uma das seis Sweet Gods, Sweet Breaker tem o papel de apagar todos os registros de doces que tenham potencial para causar o caos no mundo. Certa vez, ela lutou contra QP pela existência de Pudding e foi derrotada.
+2=Gosta: Doces que não são tão doces, ordem\nOdeia: Comidas extremamente picantes
+3=Sweet Breaker é uma moralista rígida com uma atitude semelhante à de uma prefeita de escola. Ela faz seu trabalho sem deixar que seus sentimentos pessoais atrapalhem.
+4=O nome verdadeiro da menina de 16 anos é Amami.
+
+< LORE_STARBREAKER >
+1=Star Breaker tem 16 anos.
+2=Gosta: Cozinhar, fogos de artifício\nOdeia: Perder
+3=Ela era originalmente um ser humano alterado produzido por um determinado país em uma tentativa de acabar com uma guerra paralisada destruindo todo o planeta, que até então estava fortemente contaminado.
+4=Star Breaker foi a detonadora de uma bomba capaz de destruir todo o planeta. Na operação para transformá-la em um fusível vivo, Star Breaker morreu e foi trazida de volta à vida tantas vezes que perdeu completamente a sanidade. No final, Sora a parou.
+5=No mundo pacífico de 100% Orange Juice, Star Breaker ainda faz comentários ameaçadores, mas é consideravelmente mais suave que a original.
+
+< LORE_NATH >
+1=Nath é uma humana fisicamente alterada e designada a lutar usando seu próprio corpo. Sua idade física é de 22.
+2=Gosta: Cachorros, descansar, pegar atalhos\nOdeia: Roupas complicadas, pressa, fracasso
+3=Ela é outra arma suprema produzida às pressas para repor a arma suprema inicial Sora, após ela ter desaparecido. 
+4=A remodelação do corpo de Nath foi feita de forma tão grosseira que ambos os braços tiveram que ser removidos. Independentemente disso, ela não guarda ressentimentos sobre a modificação de seu corpo; ela simplesmente segue o fluxo. Ela está tão acostumada a não ter braços que vive uma vida preguiçosa sem nenhum inconveniente.
+5=Nath possui um grande cachorro de estimação chamado Noopy.
+
+< LORE_TOMATO >
+1=Com cerca de 11 anos, Tomato é membro júnior da equipe de trapaceiros Waruda. Ela é a melhor amiga de sua assistente Mimyuu, e elas quase sempre estão juntas.
+2=Gosta: Consertar coisas, bugigangas, trapaças\nOdeia: Ficar no tédio, bullying
+3=Ela adora pregar peças sem se importar com as pessoas ao seu redor quando está se divertindo.
+4=A ferramenta de trapaças exclusiva da Tomato é o robô gigante "Máquina Waruda".
+
+< LORE_MIMYUU >
+1=Com cerca de 5 anos de idade, Mimyuu é o membro mais jovem da equipe de trapaceiros Waruda. Ela é a melhor amiga de Tomato, a quem ela chama de Chefe.
+2=Gosta: trapaças, jogos\nOdeia: Ficar entediada
+3=Mimyuu ama trapaças, e curte destruir coisas com seu martelo gigante.
+4=Ela fala uma mistura de diferentes dialetos e padrões de fala porque é jovem e impressionável e assiste a muitos vídeos estranhos.
+5=Mimyuu esconde orelhas de gato em seu macacão.
+
+< LORE_KIRIKO >
+1=Com pouco mais de 20 anos, Kiriko é o membro mais velho do time de trapaceiros Waruda.
+2=Gosta: Injeções\nOdeia: Tudo que prejudique a saúde
+3=Brandindo facas cirúrgicas, Kiriko tem uma personalidade sombria e provavelmente tem alguns parafusos soltos.
+4=Ela está sempre à procura de cobaias para realizar experimentos involuntários e apóia Waruda com suas misturas.
+5=Kiriko não é uma médica licenciada, mas simplesmente faz cosplay de médica. Pacientes tomem cuidado.
+
+< LORE_NONAME >
+1=NoName é um andróide masculino projetado com base no cientista Shifu, que tentou dominar a Terra. A inteligência de NoName é bem menor que a do original, mas ao invés disso ele tem alto poder de combate e a habilidade de voar no ar.
+2=Gosta: Si mesmo, robôs\nOdeia: Avarias
+3=O andróide é tão egoísta e egocêntrico quanto o original e fica bravo quando as coisas não saem como ele quer, mas muitas vezes se deixa enganar ou se convence facilmente por causa de sua falta de inteligência.
+4=NoName tem autoridade para comandar os humanos alterados produzidos por Shifu porque eles recebem comandos emitidos na voz de Shifu e NoNome tem a voz de Shifu.
+5=NoName pode funcionar sem um corpo, então ele frequentemente tem sua cabeça removida de seu corpo e plantada em um vaso para punição. Ele tem uma queda por coxas, o que muitas vezes o coloca nessa situação.
+
+< LORE_MIUSAKI >
+1=Uma garota de cerca de 15 anos que pode repelir qualquer tipo de ataque com magia, Miusaki também é conhecida como a Bruxa Sólida. 
+2=Gosta: Exercícios, diversão\nOdeia: O frio
+3=Miusaki costuma trabalhar em um hotel para atrair clientes. Ela é extrovertida, alegre, gentil e gosta de coisas divertidas.
+4=Miusaki se dá bem com crianças e é carinhosamente chamada de Miu-nee pelas crianças de sua vizinhança.
+
+< LORE_REPA >
+1=Ceoreparque é uma menina de cerca de 13 anos que consegue controlar o próprio cabelo com magia e também é conhecida como Bruxa das Tranças.
+2=Gosta: Brincar com o cabelo\nOdeia: Umidade
+3=Ela prefere ser chamada de Repa pelos amigos.
+4=Apesar de parecer recatada por fora, Repa é na verdade uma pessoa bastante egocêntrica. Quando emocionada, ela transforma o cabelo em agulhas afiadas para atacar com elas.
+5=Recentemente, ela está bastante interessada em um jogo de tabuleiro apresentado a ela pela Bruxa da Floresta.
+
+< LORE_TSIH >
+1=Tsih lutou no lado oposto de Sora durante a guerra. Ela parece e age como uma garotinha.
+2=Gosta: Suco\nOdeia: Lugares apertados
+3=Tendo sido transformada em uma arma, Tsih luta usando sua força física bruta e fios para pegar e atirar pedras. Ela também está equipada com um sistema de camuflagem óptica.
+4=Ela se faz parecer pateta ao adicionar "nanora" no final de suas frases, mas na verdade é uma mulher sinistra e astuta. Em 100% Orange Juice, no entanto, ela é simplesmente uma personagem despreocupada com uma tendência mesquinha, despojada de sua natureza séria de sempre.
+5=As roupas fofas de manga comprida que Tsih sempre usa se encaixam na imagem que ela cultivou, mas seu verdadeiro propósito é esconder suas mãos danificadas.
+
+< LORE_TEQUILA >
+1=Diante das adversidades onde quase teve que desistir de sua carreira de pirata, Tequila colocou hélices em seu navio para navegar no céu ao invés do mar. No entanto, ele afirma ainda ser um pirata dos mares.
+2=Gosta: Saquear, Família\nOdeia: Terreno firme
+3=Embora seja um fora da lei, Tequila acredita em seu estilo de vida e não hesita em lutar para proteger suas crenças.
+4=O homem, já com a idade de um avô, sonha em voltar a ser um mar um dia junto com seus capangas, alguns que o admiram e outros não.
+5=Tequila adora sua filha enjeitada Mescal.
+
+< LORE_MEI >
+1=Mei é uma garota de 13 anos um tanto travessa, que não consegue evitar fazer bullying na QP quando a vê.
+2=Gosta: Pássaros\nOdeia: Estudar
+3=Mei gosta tanto de Natsumi, sua amiga de escola mais velha, que sua presença calmante mantém Mei se comportando.
+4=A única obsessão de Mei são pássaros incomuns. Ela mantém dois pinguins chamados Vermelho e Azul, que são grandes o suficiente para serem montados.
+
+< LORE_NATSUMI >
+1=Natsumi tem 15 anos e está no terceiro ano do ensino médio. Ela é uma alma gentil e inocente que é difícil de perturbar.
+2=Gosta: Laranja, Cozinhar\nOdeia: Que lhe apressem, violência
+3=Natsumi costuma sair com Mei, de quem ela é uma boa amiga, apesar de Mei ser mais jovem e ter uma personalidade totalmente oposta à de Natsumi.
+4=Natsumi cozinha muito bem e passa a maior parte do tempo praticando em casa. Como resultado, ela às vezes acaba saindo de casa com uma faca de cozinha ainda na mão, o que combinado com seu sorriso angelical pode deixá-la com uma aparência bastante assustadora. No entanto, ela não machucaria sequer uma mosca.
+
+< LORE_ARTHUR >
+1=Um homem legal de meia-idade, Arthur mantém uma loja de brinquedos chamada 'Rbit Hobby Shop'.
+2=Gosta: Produtos Populares, família\nOdeia: Escalpeamento, Café Adocicado
+3=Arthur tem uma filha jovem chamada Nico, por quem ele adora à sua maneira.
+4=Em uma linha do tempo que pode ou não ter acontecido, Arthur é o chefe final do Xmas Shooting. Para protestar contra a Mamãe Noel que tira suas vendas no Natal dando presentes grátis, Arthur rouba todos os presentes de Natal. Eventualmente as duas partes conversam e Arthur ajuda a Mamãe Noel a entregar os presentes. Depois disso, a Mamãe Noel também pode ser encontrada trabalhando meio período em sua loja de brinquedos.
+
+< LORE_NICO >
+1=Nico é uma menina de 12 anos um pouco egoísta e inocente. Ela parece ainda mais nova do que sua idade.
+2=Gosta: Carne de Peru, Presentes\nOdeia: Raios e Trovões, Natal, Mochi
+3=Nico ajuda seu pai Arthur na loja de brinquedos da família.
+4=Em Xmas Shooting - Scramble!! ela roubou todos os presentes da Mamãe Noel para ajudar a loja que estava em dificuldades financeiras devido a todos os presentes de Natal gratuitos que a Mamãe Noel estava distribuindo. Eventualmente, as duas partes conversam e Nico ajuda a Mamãe Noel a entregar os presentes.
+
+< LORE_IRU >
+1=Uma garota enérgica de 15 anos, Iru é uma das Marcas Shifu, humanos alterados para lutar. 
+2=Gosta: Maioria dos Esportes, Artilharia Pesada, Mecha, Churrasco\nOdeia: Ver um Doutor, Ser confundida com um garoto, Pimentões
+3=Ela foi modificada para combate contra sua vontade por Shifu, e obrigada a lutar contra Suguri nos céus da Terra. Depois de perder para Suguri, Iru tem levado uma vida de boa. 
+4=Graças à personalidade carinhosa e gentil de Iru, ela é admirada por crianças mais novas que ela.
+
+< LORE_MIRA >
+1=Mira é uma humana alterada que lutou na grande guerra. Eventualmente eles enfrentam Sora e são derrotados.
+2=Gosta: Sushi, Séries de Super-heróis, Cachorros\nOdeia: Cogumelos
+3=Quando a soldado altamente qualificada foi ferida sem possibilidade de recuperação, o exército transferiu sua mente para o corpo de um homem com morte cerebral e um estilo de combate semelhante. 
+4=Apesar de terem cérebro de mulher no corpo de homem, ninguém pensava que eram diferentes porque sempre tiveram personalidade masculina. O corpo deles tem cerca de 17 anos, enquanto por dentro eles têm 20 e poucos anos.
+5=Mira aspira serem heróis, por isso usam o lenço vermelho que para elas é o símbolo de uma. Eles lutam mais como ninjas do que como heróis.
+
+< LORE_CUTIES >
+1=Uma unidade de ídolos cheia de fofura que consiste em Sora e Sham seguindo uma possível série de eventos.
+2=Gosta: Concertos com espectadores, Fãs leais\nOdeia: Drama de Internet
+3=Depois de conhecer Saki, Sham ascendeu ao próximo nível de fofura e forçou Sora a formar um grupo ídolo com ela.
+4=Trazida junta pela agressiva Sham, Sora hesitou em ser uma ídolo no início, mas agora gosta de ser uma e de receber incentivo de todos os seus fãs.
+
+< LORE_YUUKI >
+1=Yuuki é uma garota de 17 anos que usa um boneco de anjo em uma mão e um de demônio na outra.
+2=Gosta: Pelúcias, crianças\nOdeia: Desmancha prazeres
+3=Ela fala toda na forma de ventriloquismo através dos dois bonecos, embora a ventríloqua inexperiente muitas vezes se confunde e mistura um boneco com o outro.
+4=Yuuki faz sua performance por vários motivos - em primeiro lugar, ela quer se apresentar em um palco para o entretenimento das crianças. Infelizmente, como ela é estranha e autodidata, as pessoas muitas vezes a acham estranha e as crianças para quem ela quer se apresentar têm medo dela. Porém, tais coisas não acontecem com ela no alegre mundo de 100% Orange Juice.
+
+< LORE_ISLAY >
+1=Como uma piloto de 23 anos, Islay está em no auge. Ela pertence à Guilda e ama nada mais do que pilotar seu amado avião branco, Cruz Branca.
+2=Gosta: Voar\nOdeia: Agitação, problemas
+3=Islay é a sênior de Marc e trabalha como sua mentora e parceira ocasional. Tem uma personalidade séria e responsável, mas raramente demonstra iniciativa. Islay é respeitosa com aqueles com habilidade, mas não quer perder tempo com as pessoas e é seletiva com quem ela se associa.
+4=Sua ex-parceira Sherry é uma de suas poucas amigas e rivais, mas elas se separaram depois que ela deixou a Guilda. Após o colapso da Guilda, elas trabalharam juntas mais uma vez como parceiras de negócios. Islay gosta de evitar coisas problemáticas, mas às vezes é pressionada por Sherry, que consegue superar sua atitude indiferente com sua abordagem direta e irritá-la.
+
+< LORE_SUGURI46 >
+1=Mesmo depois de terminar seu trabalho de rejuvenescer a Terra devastada pela guerra, a garota imortal continuou contribuindo para a humanidade até o fim do próprio planeta.
+2=Gosta: Doces, jogos\nOdeia: Viagens longas
+3=Desde o fim da Terra, Suguri e sua única amiga imortal, Sumika, viajam sem rumo pelo espaço sideral.
+4=Suguri agora tem sérios problemas de comunicação porque ela não tem mais nada a realizar depois de levar com sucesso sua longa, longa missão até o fim e não tem ninguém além de Sumika com quem conversar.
+
+< LORE_SUMIKA >
+1=a chefe final de Acceleration of SUGURI 2, Sumika recebeu o nome da nave espacial na qual a raça humana vagou no espaço sideral por 10.000 anos.
+2=Gosta: Dela mesma, mexer nas coisas\nOdeia: Viagens longas, punição
+3=Ela é uma humana artificial inacabada construída para substituir Hime, a mais poderosa residente e guardiã da nave.
+4=Como Sumika ficou inacabada quando a nave espacial caiu na Terra, ela tem uma personalidade alegre e despreocupada, mas um senso de moralidade perturbado que a fez reanimar lutadores da guerra de 10.000 anos atrás.
+5=Depois de refletir sobre suas ações, ela se tornou onipotente, e mesmo após a destruição da Terra, ela continuou a viajar sem rumo pelo universo com Suguri por cerca de 46 bilhões de anos.
+
+< LORE_MIO >
+1=Com a aparência de uma mulher de vinte e tantos anos, Mio é a mente por trás dos poderes de Tomomo.
+2=Gosta: Trapacear, festas\nOdeia: Argumentos morais, sermões, perder
+3=Como uma demônio com mãos e asas brilhantes, ela é a personificação de chuunibyou, também conhecida como síndrome da oitava série.
+4=Mio é super arrogante quando tem vantagem, mas se transforma em uma bolha com lágrimas nos olhos na menor desvantagem possível.
+5=Mio viu todos se divertindo e quis participar também, mas sendo incapaz de agir honestamente, ela assumiu o papel de uma mente maligna. Ela tenta interpretar a vilã sexy e arquetípica, mas perde a personalidade facilmente.
+
+< LORE_LULU >
+1=Uma garota que parece ter cerca de 13 anos, Lulu tem um aspecto um tanto ameaçador, que lembra um demônio ou um dragão.
+2=Gosta: Ellie\nOdeia: Pessoas assustadoras, pessoas irritantes 
+3=Lulu é uma pessoa tímida que fala com um sotaque estranho. Depois de acordar sem lembranças, Lulu conhece Ellie, faz amizade com ela e decide viajar junto com ela.
+4=Quando Lulu está perta de alguém que tem carinho por ela, ela pode sentir isso e é capaz de botar um ovo com um item útil dentro.
+
+< LORE_ELLIE >
+1=Ellie é uma menina de 12 anos em uma jornada para encontrar sua mãe, de quem ela não consegue se lembrar de nada, mas sente que está em algum lugar por aí.
+2=Gosta: Lulu, ser elogiada, pirulitos\nOdeia: Pessoas irritantes, ratos
+3=Em sua jornada, um instinto que ela não entende faz Ellie atacar qualquer Mousse que encontra, chamando-os de ratos.
+4=Ellie é uma criança precoce que fica mandona sempre que está na vantagem. A aguda risada "Ahaa!" é sua marca característica.
+
+< LORE_ALICIANRONE >
+1=Uma garota aparentemente de 16 anos que pode usar magia para correr em grande velocidade, Alicianrone é conhecida como a Bruxa da Velocidade. No entanto, ela é mais comumente chamada pelo apelido de "Rone".
+2=Gosta: Chá, concursos\nOdeia: Coisas apimentadas, perder
+3=Rone tem uma personalidade arrogante e egoísta, e ela tem o hábito de falar o que pensa sem hesitação.
+4=Rone não pensa duas vezes antes de dizer às pessoas na cara delas que ela gosta ou não delas. No entanto, é difícil encontrar pessoas de quem ela não goste, e ela é muito querida pelos habitantes da floresta.
+
+< LORE_TEOTORATTA >
+1=Teotoratta é uma menina de aproximadamente 11 anos com habilidade para comandar animais. Ela também é conhecida como a Bruxa Feroz – ou Teo entre amigos.
+2=Gosta: Bestas, jogos\nOdeia: Coisas que cheiram igual ferro
+3=A própria Teotoratta também tem o imediatismo de uma fera - ela faz o que quer, assim que quer, muitas vezes arrastando todos ao seu redor para o meio das coisas.
+4=Quando emocionada, Teo faz todos os tipos de sons de animais.
+
+< LORE_ARNELLE >
+1=Arnelle é uma ladra egocêntrica que vai atrás de tesouros famosos ao redor do mundo. Sua personagem foi inspirada por Doronjo de Yatterman.
+2=Gosta: Tesouros, bebidas alcoólicas, trabalhar em conjunto\nOdeia: Comida fedorenta
+3=Junto com seu grupo de seguidores, Arnelle está sempre em sua caça por itens raros. Ela fica irritada com Ellie e Lulu e fica no caminho delas.
+4=Embora você possa não perceber pela sua aparência, Arnelle é de fato uma demônio de 30 anos.
+
+< LORE_MAYNIE >
+1=Maynie é uma seguidora da caçadora de tesouros Arnelle, e a chama de Dona Arnelle.
+2=Gosta: Arnelle, bebidas doces\nOdeia: Vegetais amargos
+3=Ela tem 15 anos e normalmente age e fala como uma garota fofa da sua idade, mas isso esconde uma personalidade obsessiva e hardcore, e ela fica irritada com coisas triviais.
+4=Presume-se que Maynie seja humana; no entanto, quando sua raiva atinge seu limite, a cor de seu cabelo e braços mudam e ela entra em modo fúria. Originalmente, sua cor dos olhos e braços iam mudar quando isso ocorresse. Às vezes, ela esquece tudo o que aconteceu durante esse tempo.
+
+< LORE_HALENA >
+1=Halena é uma garota misteriosa que guia as pessoas para onde quer que elas queiram ir no mundo. Ela tem todos os mapas que já viu perfeitamente instalados em sua cabeça. 
+2=Gosta: Viajar, beber após um dia difícil no trabalho\nOdeia: Rações, especialmente biscoitos duros
+3=Halena tem uma personalidade calma e amigável, e uma mentalidade muito independente que lhe permite aproveitar para viajar pelo mundo, não importa onde suas jornadas a levem.
+4=A garota de 19 anos gosta de um bom jantar ao chegar a uma nova cidade, comendo e bebendo suas iguarias locais. Alguns podem dizer que ela gosta um pouco demais disso, mas seu estilo de vida ativo compensa seu apetite.
+5=Quando Halena era criança, ela tropeçou em um grimório mágico e, ao realizar o ritual inscrito nele, conjurou uma fada.
+
+< LORE_COOK >
+1=Uma fada galinha cata-vento que não gosta de ser confundida com um pássaro. A idade real de Cook é desconhecida, mas ela tem a mentalidade de uma criança de 6 anos. Ela é uma garota de espírito livre, egocêntrica e franca.
+2=Gosta: Refeições de ovo, viajar, pessoas gentis\nOdeia: Refeições de frango, pessoas rudes
+3=Como convém a alguém de sua estimada espécie, Cook levará você aonde você quiser ir, ou a qualquer coisa que você esteja procurando, em troca de ajudá-la. Ela tem uma habilidade mística de identificar o que você realmente está procurando.
+4=Assim como muitos pássaros, Cook é capaz de comer muito mais do que você esperaria de alguém do seu tamanho. Ela tem a habilidade de sempre farejar a comida da mais alta qualidade ao redor.
+
+< LORE_MERCHANT >
+1=Um comerciante descontrolado que vai e vem pelas ferrovias no deserto, sob seu lema de "entregar cargas mais rápido que qualquer outro". Obcecado por seu próprio lema, ele faz de tudo para alcançá-lo, como ignorar os horários dos trens ou blindar seu trem.
+2=Gosta: Fazer dinheiro, investir\nOdeia: Atrasos, distrações
+3=Ninguém sabe de onde ele veio originalmente, exceto por um rumor de que ele pode ser de algum lugar mais ao sul. Ele gosta mais do processo de ganhar dinheiro do que do dinheiro em si. Isso o deixa aberto a investir sua fortuna em novas buscas.
+4=Após sua derrota para Marc, Mercador parece ter perdido algo importante dentro de si, e decidiu que não poderia ir mais longe com seu negócio ferroviário, e modificou seu trem para poder voar. Ele frequentemente começa suas frases dizendo "Sim." e repete as mesmas palavras várias vezes na mesma conversa.
+
+< LORE_LONERIDER >
+1=Ele dirige seu veículo modificado pelo deserto em solidão. Ele odeia se importar com outras pessoas e dificilmente fala com outra pessoa.
+2=Gosta: Solidão, liberdade\nOdeia: O mundo, socializar
+3=Solitude não invoca solidão ou ressentimento em Lone Rider. Em vez disso, para ele, representa liberdade de espírito e libertação de outras pessoas. Ele acha o mundo um medo misterioso e ambíguo pressionando-o. 
+4=O homem pessimista e insociável fica sozinho e busca apenas velocidade para se livrar "daquilo que não pode ser descrito com palavras" que assombra todos os que vivem na sociedade humana moderna. 
+5=Depois da sua briga com Marc, o homem de mente simples, na faixa dos vinte e poucos anos, se abriu para os encrenqueiros que o seguiam, e agora eles dirigem pelo deserto como uma gangue de motociclistas, o que o torna uma pessoa ainda mais difícil de lidar.
+
+< LORE_CHRIS >
+1=Chris é uma garçonete que serve em um restaurante familiar chamado "Pures". Ela é uma garota comum de 18 anos que está sempre cheia de energia.
+2=Gosta: Batatas fritas, clientes gentis\nOdeia: Todas as outras comidas fritas (pois são ruins para o tamanho da sua cintura), caloteiros
+3=Acima de tudo, Chris adora ser paga, mas também gosta de trabalhar no restaurante, onde ela também pode curtir uma comida saborosa.
+4=A garota trabalhadora de meio período é conhecida por seu excelente serviço e é querida pelos outros funcionários. Quando está em apuros, o chef e o gerente do restaurante a ajudam imediatamente.
+
+< LORE_KYUPITA >
+1=Um garoto cachorro de 15 anos. Um estudante comum do ensino médio.
+2=Gosta: Pudim, justiça\nOdeia: Pudim com molho shoyu, assédio
+3=Kyupita é uma versão masculina de QP. Ele apareceu pela primeira vez no jogo de 1º de abril "QP Kiss", que apresenta versões de um universo alternativo do elenco do QP-verso.
+4=Kyupita é tão puro e honesto quanto seu típico herói de mangá shounen. Ele tem sentimentos românticos por seu senpai Kyousuke.

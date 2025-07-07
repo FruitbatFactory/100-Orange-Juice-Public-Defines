@@ -1,0 +1,162 @@
+
+<0000> Aqui!
+<0001> Toh!
+<0002> Yah!
+<0003> Vai!
+<0004> Irei com esta aqui!
+<0005> É hora de usar esta aqui!
+<0006> Mas que conveniente!
+<0007> Eu escolho esta carta!
+<0008> Eu odeio coisas assim, mas tanto faz...
+<0009> Então eu coloco isso aqui desse jeito, né?
+<0010> Essa é uma boa partida para um imbecil.
+<0011> Vamos ver quem vai ser o trouxa que vai cair nisso.
+<0012> Eu sempre dou o meu melhor.
+<0013> Eu estava guardando isso para esse momento!
+<0014> Você se surpreendeu, né!?
+<0015> Isso vai me trazer a vitória!
+<0016> Vou acabar com isso!
+<0017> Hora de chamar reforços!
+<0018> É minha vez de ir atrás dos outros!
+<0019> Estou pronto novamente!
+<0020> Desistir não é uma opção!
+<0021> A reignição falhou!?
+<0022> Maldição, preciso começar de novo!
+<0023> Droga!
+<0024> Um fracasso!
+<0025> Coma isso!
+<0026> Seja atingido!
+<0027> Que tal isso?
+<0028> Isso será o suficiente!
+<0029> Você me pegou!
+<0030> Mas que droga!
+<0031> De onde que aquilo veio!?
+<0032> Eu fui atingido!?
+<0033> Certo, já está arrumado.
+<0034> Eu tive uma boa pausa.
+<0035> Continue por mim, parceiro.
+<0036> Desculpa, Corvo Azul...
+<0037> Ugh, fui mandado para fora da rota!
+<0038> Aonde que eu irei parar!?
+<0039> O que está acontecendo!?
+<0040> Perdi o controle do meu avião!
+<0041> Eu cai!?
+<0042> Ugh, fui explodido...
+<0043> Preciso fazer um pouso forçado!
+<0044> Mano, preciso de novo de um novo revestimento...
+<0045> Lute comigo!
+<0046> Vou te derrubar!
+<0047> Alvo adqurido!
+<0048> Estou atrás de você!
+<0049> Estou pronto para interceptar!
+<0050> Beleza!
+<0051> Desafio aceito!
+<0052> Melhor você saber seu limite!
+<0053> Caindo!
+<0054> Toma!
+<0055> Estou te atacando!
+<0056> Tente desviar disso!
+<0057> Ai!
+<0058> Mas que fraco!
+<0059> Fui atingido!?
+<0060> Você não vai escapar depois dessa!
+<0061> Guhah!
+<0062> Gyaah!
+<0063> Tiro certeiro!?
+<0064> Isso dói pra caramba!
+<0065> Isso não vai funcionar!
+<0066> Eu posso desviar disso!
+<0067> Consigo ver seus movimentos!
+<0068> Isso foi ridiculamente perto!
+<0069> Você pode vir me desafiar de novo!
+<0070> Não me culpe por ganhar!
+<0071> A vitória é minha!
+<0072> Você é o perdedor!
+<0073> Isso é ridículo!
+<0074> Você foi sortudo só!
+<0075> Isso não pode estar acontecendo...
+<0076> Eu fui... derrotado...
+<0077> Por enquanto está tudo bem.
+<0078> Consegui um bônus!
+<0079> Vou ficar com estas.
+<0080> Quanto isso custa?
+<0081> Mas o quê!?
+<0082> E-espera um pouco!
+<0083> O que acabou de acontecer!?
+<0084> Agh!
+<0085> Quem fez isso!?
+<0086> Eu cometi um erro!?
+<0087> Como sou idiota!
+<0088> O quão imbecil eu sou!?
+<0089> Outro inimigo!?
+<0090> ...Gigantesco.
+<0091> Ter mais um inimigo não faz diferença para mim.
+<0092> Eu deveria atirar naquele grandalhão também, não é mesmo?
+<0093> Eu só preciso coletar estrelas, né?
+<0094> Parece um trabalho tedioso para mim.
+<0095> Isso vai ser uma confusão.
+<0096> Eu vou pegar todas as estrelas de lá.
+<0097> Simples e eficiente!
+<0098> Não importa quantos, farei todos caírem!
+<0099> Quantos mais preciso abater?!
+<0100> Está na hora de fazer um novo recorde!
+<0101> É hora do jogo para nós, Corvo Azul!
+<0102> Você pode contar conosco.
+<0103> Estamos prontos para ir.
+<0104> Vamos ver como é meu novo equipamento!
+<0105> Vamos decolar, Corvo Azul!
+<0106> Vamos lá, Corvo Azul!
+<0107> Nos entretenha!
+<0108> Decolar!
+<0109> Tranquilo!
+<0110> É apenas natural.
+<0111> Eu sempre mereço ganhar.
+<0112> Sou o número um.
+<0113> Uma nova peça de equipamento.
+<0114> Acho que vou usar aquilo.
+<0115> Acho que vou testar isso.
+<0116> Eu não tinha esse.
+<0117> É seu turno!
+<0118> Você consegue!
+<0119> Lide com o resto.
+<0120> Eu poderia continuar, mas quer saber...
+<0121> Certo.
+<0122> Ótimo.
+<0123> Sim.
+<0124> Nah.
+<0125> Isso é uma porcaria.
+<0126> Eu gosto desse!
+<0127> Mas o quê...?
+<0128> Vamos lá, Corvo Azul!
+<0129> Estou contando com você.
+<0130> Vamos lá!
+<0131> Ei!
+<0132> Droga...
+<0133> Ótimo!
+<0134> Esse é o melhor!
+<0135> Ah não!
+<0136> Esse não é meu estilo, mas enfim!
+<0137> Não há escolhas!
+<0138> Essa não é a melhor carta, mas tanto faz!
+<0139> Eu vou usar tudo que for preciso!
+<0140> Seu estilo de voo é bizarro como sempre.
+<0141> Você devia desistir de ser uma pilota!
+<0142> Vejo que você melhorou. Te vejo da próxima vez!
+<0143> Eu vencerei da próxima vez... Você irá se arrepender disso!
+<0144> Outra derrota... Por quê!?
+<0145> Continue discreta, jovem moça.
+<0146> Continue discreta... uh... jovem moça?
+<0147> Um... Peço desculpas.
+<0148> Perdi... De novo...
+<0149> Por que... não consigo vencer?
+<0150> Bom, só por questões de segurança.
+<0151> É contra minha política lutar contra moças, mas...!
+<0152> Eu perdi para uma pirralha dessas...!
+<0153> Estou no topo!
+<0154> Vou te corrigir até você se tornar um humano decente!
+<0155> Mas que sem vergonha...!
+<0156> Você ainda não tem velocidade o bastante!
+<0157> Saia do meu caminho, grandalhão!
+<0158> Você é... aquela pirralha?
+<0159> Eu te desafio para uma luta!
+<0160> Grem... lin!?

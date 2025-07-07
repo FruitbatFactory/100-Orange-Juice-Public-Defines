@@ -1,0 +1,259 @@
+	
+
+< CAMPAIGN_QP_ONE >
+QP: Episodio 1
+
+< CAMPAIGN_QP_TWO >
+QP: Episodio 2
+
+< CAMPAIGN_QP_THREE >
+QP: Episodio 3
+
+< CAMPAIGN_QP_FOUR >
+QP: Episodio 4
+
+< CAMPAIGN_QP_FIVE >
+QP: Episodio 5
+
+< CAMPAIGN_QP_FINAL >
+QP: Episodio Final
+
+< CAMPAIGN_SUGURI_ONE >
+Suguri: Episodio 1
+
+< CAMPAIGN_SUGURI_TWO >
+Suguri: Episodio 2
+
+< CAMPAIGN_SUGURI_THREE >
+Suguri: Episodio 3
+
+< CAMPAIGN_SUGURI_FOUR >
+Suguri: Episodio 4
+
+< CAMPAIGN_SUGURI_FIVE >
+Suguri: Episodio 5
+
+< CAMPAIGN_SUGURI_FINAL >
+Suguri: Episodio Final
+
+< CAMPAIGN_MARC_ONE >
+Marc: Episodio 1
+
+< CAMPAIGN_MARC_TWO >
+Marc: Episodio 2
+
+< CAMPAIGN_MARC_THREE >
+Marc: Episodio 3
+
+< CAMPAIGN_MARC_FOUR >
+Marc: Episodio 4
+
+< CAMPAIGN_MARC_FIVE >
+Marc. Episodio 5
+
+< CAMPAIGN_MARC_FINAL >
+Marc: Episodio Final
+
+< CAMPAIGN_KAI_ONE >
+Kai: Episodio 1
+
+< CAMPAIGN_KAI_TWO >
+Kai: Episodio 2
+
+< CAMPAIGN_KAI_THREE >
+Kai: Episodio 3
+
+< CAMPAIGN_KAI_FOUR >
+Kai: Episodio 4
+
+< CAMPAIGN_KAI_FIVE >
+Kai: Episodio 5
+
+< CAMPAIGN_KAI_FINAL >
+Kai: Episodio Final
+
+< CAMPAIGN_EXTRA_ONE >
+Noche de Kemonomimis
+
+< CAMPAIGN_EXTRA_TWO >
+La Batalla de los Cyborg
+
+< CAMPAIGN_EXTRA_THREE >
+Atardecer de los Pilotos
+
+< CAMPAIGN_EXTRA_FOUR >
+Misteriosa Odisea Espacial
+
+< CAMPAIGN_EXTRA_FIVE >
+El Infierno de Tomomo
+
+< CAMPAIGN_EXTRA_SIX > 
+La Ciudadela Oscura de Mio
+
+< CAMPAIGN_EXTRA_SEVEN > 
+Santa Secreto
+
+< CAMPAIGN_EXTRA_EIGHT >
+Castigo Divino
+
+< CAMPAIGN_STARBREAKER_ONE >
+Star Breaker: Episodio 1
+
+< CAMPAIGN_STARBREAKER_TWO >
+Star Breaker: Episodio 2
+
+< CAMPAIGN_STARBREAKER_THREE >
+Star Breaker: Episodio 3
+
+< CAMPAIGN_STARBREAKER_FOUR >
+Star Breaker: Episodio 4
+
+< CAMPAIGN_STARBREAKER_FIVE >
+Star Breaker: Episodio 5
+
+< CAMPAIGN_STARBREAKER_FINAL >
+Star Breaker: Episodio Final
+
+< CAMPAIGN_SWEETBREAKER_ONE >
+Sweet Breaker: Episodio 1
+
+< CAMPAIGN_SWEETBREAKER_TWO >
+Sweet Breaker: Episodio 2
+
+< CAMPAIGN_SWEETBREAKER_THREE >
+Sweet Breaker: Episodio 3
+
+< CAMPAIGN_SWEETBREAKER_FOUR >
+Sweet Breaker: Episodio 4
+
+< CAMPAIGN_SWEETBREAKER_FIVE >
+Sweet Breaker: Episodio 5
+
+< CAMPAIGN_SWEETBREAKER_FINAL >
+Sweet Breaker: Episodio Final
+
+< CAMPAIGN_BREAKER_EXTRA >
+El Caos de los Guardianes
+
+< CAMPAIGN_MIUCEORE_ONE >
+Poder Femenino: Episodio 1
+
+< CAMPAIGN_MIUCEORE_TWO >
+Poder Femenino: Episodio 2
+
+< CAMPAIGN_MIUCEORE_THREE >
+Poder Femenino: Episodio 3
+
+< CAMPAIGN_MIUCEORE_FOUR >
+Poder Femenino: Episodio 4
+
+< CAMPAIGN_MIUCEORE_FIVE >
+Poder Femenino: Episodio 5
+
+< CAMPAIGN_MIUCEORE_SIX >
+Poder Femenino: Episodio 6
+
+< CAMPAIGN_MIUCEORE_SEVEN >
+Poder Femenino: Episodio 7
+
+< CAMPAIGN_MIUCEORE_EIGHT >
+Poder Femenino: Episodio 8
+
+< CAMPAIGN_MIUCEORE_NINE >
+Poder Femenino: Episodio 9
+
+< CAMPAIGN_MIUCEORE_FINAL >
+Poder Femenino: Episodio Final
+
+< CAMPAIGN_NICOARTHUR_ONE >
+Navidades Cruzadas: Episodio 1
+
+< CAMPAIGN_NICOARTHUR_TWO >
+Navidades Cruzadas: Episodio 2
+
+< CAMPAIGN_NICOARTHUR_THREE >
+Navidades Cruzadas: Episodio 3
+
+< CAMPAIGN_NICOARTHUR_FOUR >
+Navidades Cruzadas: Episodio 4
+
+< CAMPAIGN_NICOARTHUR_FIVE >
+Navidades Cruzadas: Episodio 5
+
+< CAMPAIGN_NICOARTHUR_FINAL >
+Navidades Cruzadas: Episodio Final
+
+< CAMPAIGN_SUGURISUMIKA_ONE >
+Guardianas del Pasado: Episodio 1
+
+< CAMPAIGN_SUGURISUMIKA_TWO >
+Guardianas del Pasado: Episodio 2
+
+< CAMPAIGN_SUGURISUMIKA_THREE >
+Guardianas del Pasado: Episodio 3
+
+< CAMPAIGN_SUGURISUMIKA_FOUR >
+Guardianas del Pasado: Episodio 4
+
+< CAMPAIGN_SUGURISUMIKA_FIVE >
+Guardianas del Pasado: Episodio 5
+
+< CAMPAIGN_SUGURISUMIKA_SIX >
+Guardianas del Pasado: Episodio 6
+
+< CAMPAIGN_SUGURISUMIKA_SEVEN >
+Guardianas del Pasado: Episodio 7
+
+< CAMPAIGN_SUGURISUMIKA_EIGHT >
+Guardianas del Pasado: Episodio 8
+
+< CAMPAIGN_SUGURISUMIKA_NINE >
+Guardianas del Pasado: Episodio 9
+
+< CAMPAIGN_SUGURISUMIKA_TEN >
+Guardianas del Pasado: Episodio 10
+
+< CAMPAIGN_SUGURISUMIKA_FINAL >
+Guardianas del Pasado: Episodio Final
+
+< CAMPAIGN_ELLIELULU_NUMBER >
+Viajeras: Episodio %d
+
+< CAMPAIGN_ELLIELULU_FINAL >
+Viajeras: Episodio Final
+
+< CAMPAIGN_WARUDAPRISONBREAK_NUMBER >
+Escape de Prisión: Episodio %d
+
+< CAMPAIGN_WARUDAPRISONBREAK_FINAL >
+Escape de Prisión: Episodio Final
+
+< CAMPAIGN_CHRISTMAS_2017 >
+Navidad con los Waruda
+
+< CAMPAIGN_RONETEO >
+Noche de Juegos y Brujas
+
+< CAMPAIGN_DIFFICULTY_CASUAL >
+Las computadoras serán mucho más fáciles de derrotar.
+
+< CAMPAIGN_DIFFICULTY_NORMAL >
+No se le hacen cambios a la computadora.
+
+< CAMPAIGN_DIFFICULTY_ORIGINAL >
+El rendimiento de cada computadora se verá afectado dependiendo de su personaje.
+
+< CAMPAIGN_DIFFICULTY_EXTREME >
+Todas las computadoras serán mucho más difíciles de derrotar.
+
+< CAMPAIGN_RETURN >
+Atrás
+
+< CAMPAIGN_RONETEO_MESSAGE >
+¡Una misión extra se encuentra disponible! Recomendamos terminar las campañas de Poder Femenino y Guardianas del Pasado primero.
+
+< CAMPAIGN_WINTER2023_MESSAGE >
+¡Una misión extra se encuentra disponible!: ¡"%s"!
+
+[EOF]
+

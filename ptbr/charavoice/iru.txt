@@ -1,0 +1,161 @@
+
+<0000> Hoy!
+<0001> Seja uma boa rolada.
+<0002> Toh!
+<0003> Me dê um bom número.
+<0004> Eu vou jogar uma carta!
+<0005> Aqui é aonde eu irei usar isto!
+<0006> Certo, eu irei com esta aqui.
+<0007> Ehehe, aqui vou eu.
+<0008> Uma armadilha!
+<0009> Isto é totalmente meu estilo, também.
+<0010> Vamos ver se alguém vai cair para isto.
+<0011> Mhfuu, esta é uma boa armadilha.
+<0012> Para ter certeza em dobro!
+<0013> Eu vou dar um upgrade em mim.
+<0014> Uma carta de batalha.
+<0015> Eu irei te destruir.
+<0016> Tome isto!
+<0017> Ufa, é melhor eu tomar mais cuidado.
+<0018> Certo, eu posso me mover agora.
+<0019> Eu vou virar o jogo agora!
+<0020> O jogo não acabou ainda.
+<0021> Eu errei feio...
+<0022> Ainda não está bom? Que droga.
+<0023> Eu creio que irei descansar um pouco.
+<0024> Uuu.
+<0025> Eu vou atirar através de você!
+<0026> Aí vai!
+<0027> Eu vou te acertar.
+<0028> O que acha?!
+<0029> Ai.
+<0030> Como ousa?!
+<0031> Oww!
+<0032> Whoa.
+<0033> Estou curada!
+<0034> Ufa, me sinto viva novamente.
+<0035> Wow, estou melhorando.
+<0036> Certo, eu ainda posso vencer isto aqui!
+<0037> Um teleporte!?
+<0038> Uwaah...
+<0039> Mas o quê?!
+<0040> Eu estou teleportando!
+<0041> Deixe-me descansar.
+<0042> Ugh, eu não consigo levantar.
+<0043> Kyuu...
+<0044> Eu errei...
+<0045> Vamos batalhar!
+<0046> Eu vou te dar uma batalha intensa!
+<0047> Agora, vamos lutar.
+<0048> É hora da batalha!
+<0049> Oh, claro, absolutamente!
+<0050> Hehe, certo! Pode vir!
+<0051> Nossa, você está mesmo ansioso por isso.
+<0052> Eu não vou perder!
+<0053> Teyah!
+<0054> Fique parado, okay?
+<0055> Tome isto!
+<0056> Tiro!
+<0057> Kyah.
+<0058> Wah.
+<0059> Você é bom!
+<0060> Wafu!
+<0061> Isto dói!
+<0062> Uwah!
+<0063> Isto não é divertido!
+<0064> Isto foi intenso!
+<0065> Você não pode me acertar!
+<0066> Que lerdeza.
+<0067> Yoh.
+<0068> Ahaha, aonde você está mirando?
+<0069> Facinho!
+<0070> Eu consegui.
+<0071> Isto foi divertido. Vamos fazer de novo uma outra hora.
+<0072> Eu venci!
+<0073> Rapaz, você me pegou...
+<0074> Você é forte. Estou impressionada.
+<0075> Uuu, não acredito que perdi.
+<0076> Mano, não consigo mover nem mais um dedo.
+<0077> Eu consegui estrelas!
+<0078> Então, eu posso conseguir estrelas desse jeito né?
+<0079> Wow, estrelas.
+<0080> Sou sortuda!
+<0081> Isto foi um fracasso!
+<0082> Eu deixei cair estrelas!?
+<0083> Gyaan!
+<0084> Pera, espera ae!
+<0085> Uma armadilha!?
+<0086> Porque aqui!?
+<0087> Eu caí nisso!
+<0088> Não aqui...!
+<0089> Whoa, um chefão apareceu!
+<0090> Aqui vem um que parece fortão.
+<0091> Eu preciso manter atenta quando chego perto.
+<0092> Consigo perceber... que esse cara é forte.
+<0093> Mhm, estou a fim de ir por estrelas.
+<0094> Eu vou vencer em estrelas e ganhar este jogo!
+<0095> Coletar estrelas? Okay!
+<0096> Estrelas parecem adoráveis, né?
+<0097> Eu vou batalhar demais!
+<0098> Batalha, batalha!
+<0099> Eu decido lutar!
+<0100> Lutar é a minha especialidade.
+<0101> Oi, eu sou a Iru.
+<0102> Eu? claro, por que não? Vamos lá!
+<0103> Certo, vamos logo a isso!
+<0104> Conte comigo!
+<0105> Certo, eu vou dar o meu melhor nisso.
+<0106> Eu vencerei essa luta.
+<0107> Certo, vamos nos divertir um pouco por aqui.
+<0108> Eu vou acabar com todos.
+<0109> Isto foi tão divertido. Vamos mais uma vez!
+<0110> Yay! Venci!
+<0111> Venci! Venci!
+<0112> Venci... nenhuma novidade.
+<0113> Nossa, que bom! Você conseguiu algo novo!
+<0114> Você conseguiu algo bom? Estou feliz por você!
+<0115> Você conseguiu o que queria?
+<0116> Você conseguiu algo bom!
+<0117> É seu turno!
+<0118> Se importa em trocar?
+<0119> Deixa te passar o bastão!
+<0120> Devíamos trocar agora.
+<0121> Okay!
+<0122> Claro.
+<0123> Yeah.
+<0124> Não.
+<0125> Uee...
+<0126> Parece bom!
+<0127> Mhm?
+<0128> Qual é, vamos lá!
+<0129> Dado!
+<0130> Aqui vamos nós!
+<0131> Yah!
+<0132> Mhm...
+<0133> Oh, que daora!
+<0134> Isto é incrível, na moral!
+<0135> Quê... Você está de zoeira comigo...
+<0136> Eu vou usar esta carta.
+<0137> Hehe, eu queria jogar esta aqui.
+<0138> Eu me pergunto o que esta aqui faz.
+<0139> Não tenho certeza do que vai acontecer, mas eu vou usar de qualquer forma.
+<0140> Saki, nós deviamos lutar de vez em quando!
+<0141> Oh, você está a fim de lutar? Você irá fazer alguns doces para mim se eu ganhar, okay?
+<0142> Certo, você irá me fazer um bolo hoje.
+<0143> Ehehe, você é forte.
+<0144> Hey, deixe-me ver o que você está equipada com!
+<0145> Wow, este é um mecha muito daora que você tem aí!
+<0146> Esta foi uma luta boa! Nós deviamos lutar de novo!
+<0147> Seu equipamente é incrível... Eu não me arrependo de perder.
+<0148> Wow, sua aeronave é de um estilo antigo, mas é muito bonita!
+<0149> Isto é uma aeronave? Wow, que massa.
+<0150> Me dê uma carona em sua aeronave mais tarde, okay?
+<0151> Eu não estava pegando leve contra sua aeronave de estilo antigo... mas você é melhor do que eu pensei.
+<0152> Hey, Kyouko... Espera, quem é você!?
+<0153> O quê!? Kyouko... Não, não é ela!
+<0154> Mano, quem era este cara?
+<0155> Uu... Então, quem é você?
+<0156> Whoa, não tem problema lutar contar isto? Eu acho que tem!
+<0157> Quê? Eu tenho que enfrentar esta... coisa!?
+<0158> E-eu venci! Certo!
+<0159> Uu, como RAIOS eu vou derrotar um robô gigante que nem este?

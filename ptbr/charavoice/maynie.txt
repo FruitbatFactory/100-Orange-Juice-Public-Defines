@@ -1,0 +1,160 @@
+<0000> Hmm, Aqui!
+<0001> Aqui!
+<0002> Yah!
+<0003> Mhm nah!
+<0004> Bom... Maynie vai jogar isto!
+<0005> Hora da carta!
+<0006> Talvez Maynie deva usar isto?
+<0007> Que tal!
+<0008> E isto vai aqui... desse jeito.
+<0009> Mhm, parece um bom local por aqui...
+<0010> Maynie conseguiu uma armadilha! Ela pode colocar aqui?
+<0011> Maynie vai colocar uma armadilha rapidamente.
+<0012> *Balança balança*
+<0013> Está na hora de jogar esta carta!
+<0014> Maynie vai melhorar a si mesma!
+<0015> Maynie está mais forte agora!
+<0016> Nossa! Porque você está fazendo bullying na Maynie!!!!
+<0017> *Resmunga resmunga*
+<0018> Oh! O que Maynie estava fazendo...?
+<0019> Huh...? Maynie estava dormindo...?
+<0020> Bom dia...
+<0021> Argh... Por quê? Por quê...?
+<0022> Maynie não gosta de dor... *Soluça soluça*
+<0023> Aaah... Maynie está ficando irritada.
+<0024> Por quê...?
+<0025> Maynie vai te derrotar!
+<0026> Ey!
+<0027> Caia morto!
+<0028> Maldito!
+<0029> Ugh.
+<0030> Qual o teu problema!!!
+<0031> Aaaaah!!!
+<0032> Nossa! Nossa!
+<0033> *Respira respira*
+<0034> Maynie se sente um pouquinho melhor agora.
+<0035> Ufa...
+<0036> Ãhn? Maynie não se lembra do que ela estava fazendo.
+<0037> Isto é um teleporte?
+<0038> Waaah!
+<0039> Pare de rodopiar a Maynie por aí!
+<0040> Minha nossa!!
+<0041> Maldito...!
+<0042> Droga!
+<0043> Maynie fará você pagar por isso...
+<0044> Droga, droga, droga, droga!
+<0045> Maynie vai te machucar.
+<0046> Te achei!
+<0047> Kyufufufu!
+<0048> Maynie vai te esmagar!
+<0049> O que você pretende fazer?
+<0050> Nããããoooo, por favor não faça isso para Maynie!
+<0051> Qual o teu problema? Nossa meu!
+<0052> Maynie odeia dor!
+<0053> Comece a rezar!
+<0054> Kyahahaha!
+<0055> Você deixou Maynie brava!
+<0056> Você vai perder agora!
+<0057> Gya gya!
+<0058> Você acabou de... acertar Maynie?
+<0059> Maynie te disse que ela odeia isso...
+<0060> Você está sendo terrível para...!
+<0061> Isto doí muito!!!
+<0062> Maynie te disse que ela odeia dor!!!
+<0063> Gyaah! Eu não vou esquecer seu rosto!!!
+<0064> Gyaaaaaaaah!!!
+<0065> Isto é assustador!
+<0066> Heeh!
+<0067> Nem pense!
+<0068> O que você está fazendo?! Cuidado!
+<0069> *Respira respira*... Ufa.
+<0070> Isto foi por deixar Maynie irritada.
+<0071> Levante-se e me deixe bater em você mais!
+<0072> Fufu... Hahaha... Ahyahya!
+<0073> In... acei... tável.
+<0074> Mu... kyu...
+<0075> Por que Maynie está deitando...?
+<0076> Droga...
+<0077> Eeeba!
+<0078> Isto deixará a Dona Arnelle feliz!
+<0079> Maynie conseguirá um elogio da Dona Arnelle por isto!
+<0080> Ótimo!
+<0081> Não deixe Maynie!
+<0082> Ei! Não vá embora!
+<0083> Por que raios isto está acontecendo!
+<0084> Maynie deixou cair algumas estrelas...
+<0085> Que raios é isto!!!
+<0086> Quem colocou essa armadilha aqui?!
+<0087> Maynie não pode perder para essa coisa estúpida...!!!
+<0088> Ugh... Quem botou isto aqui é horrível.
+<0089> O que é aquilo?
+<0090> O ar aqui é tenso.
+<0091> Veja o que surgiu.
+<0092> Só porque você é grande, não pense que você irá assustar Maynie!
+<0093> Se Maynie conseguir um montão de tesouro, Dona Arnelle vai me elogiar!
+<0094> Por Dona Arnelle...
+<0095> Se Maynie conseguir um montão dessas... a Dona Arnelle vai me dar muito carinho...?
+<0096> Maynie vai coletar um montão delas e dar para a Dona Arnelle!
+<0097> Existe alguém... que Maynie quer muito esmagar...
+<0098> Maynie está irritada no momento... Ela quer bater em alguém.
+<0099> Aaaah, Maynie está muito irritada!
+<0100> *Respira respira* Minhas mãos estão tremendo de raiva...
+<0101> Maynie está aqui!
+<0102> Maynie pode ajudar.
+<0103> Maynie não vai te perdoar se você pegar outra pessoa.
+<0104> Vamos nos divertir juntos!
+<0105> C-começou?
+<0106> O que Maynie deveria fazer primeiro?
+<0107> M-Maynie vai dar seu melhor.
+<0108> Maynie quer ganhar este jogo!
+<0109> Hooray! Maynie quer um elogio!
+<0110> Maynie ganhou? Eeeba!
+<0111> Fufufu, vocês perderam pois irritaram a Maynie.
+<0112> Vamos jogar outra partida qualquer momento.
+<0113> Maynie te trouxe algo legal.
+<0114> Você queria este né? Vá em frente, me elogie.
+<0115> Maynie nunca viu este aí.
+<0116> Como que se usa isso?
+<0117> Vamos trocar de lugar!
+<0118> Maynie precisa de uma pausa.
+<0119> *Boceja* Maynie vai tirar um cochilo.
+<0120> Se importa de tomar meu lugar?
+<0121> Ok!
+<0122> Que bom!
+<0123> Maynie conseguiu!
+<0124> Não.
+<0125> Maynie está prestes a se irritar.
+<0126> Você está com sorte!
+<0127> O que é isso...? Apenas, o que é isso...?
+<0128> Vamos lá!
+<0129> Maynie vai dar seu melhor!
+<0130> Simbora!
+<0131> Olá!
+<0132> Ãhn... Quê...?
+<0133> Incrível!
+<0134> Eita! Que incrível! Impressionante!
+<0135> Como... Ousa...!
+<0136> Maynie pode usar isto?
+<0137> Maynie vai usar isto!
+<0138> Esta carta não é a...
+<0139> Está na hora de jogar uma carta super especial!
+<0140> Dona Arnelle! Você pode brincar com a Maynie?!
+<0141> Dona Arnelle... Bem... Ãhn...
+<0142> Maynie apenas pensou que, ela não brincou muito com você recentemente...
+<0143> Dona Arnelle~ *acaricia acaricia*
+<0144> Certo! Dona Arnelle deseja brincar com a Maynie!
+<0145> Sim! Maynie vai lutar com tudo que ela tem!
+<0146> I-isto é punição para mim...?
+<0147> Sim! Maynie mal pode esperar!
+<0148> Maynie está um pouco irritada.
+<0149> Aaaaah... Maynie está um pouco mais irritada que antes.
+<0150> *Respira respira* As pessoas deviam parar de irritar Maynie...
+<0151> Aaaaah! Mas que raios! Nossa!! Mano!!
+<0152> Isto é o que você recebe por ter irritado Maynie.
+<0153> Ãhn? O que Maynie estava fazendo? Você está bem?
+<0154> Ahahaha! Bem feito!
+<0155> O que você está fazendo caído? Maynie sofreu muito mais.
+<0156> Oh... Maynie está se sentindo melhor agora.
+<0157> Ufa... Maynie está exausta.
+<0158> Minha nossa, o alvo de Maynie caiu.
+<0159> Maynie ia esmagar seu alvo ela mesma... Bem, ela se sente rejuvenescida.

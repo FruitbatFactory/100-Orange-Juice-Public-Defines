@@ -1,0 +1,111 @@
+< MIXER_AIR_RAID >
+name=エアレイド
+descr=チャプター開始時に全プレイヤーは1ダメージを受ける。
+
+< MIXER_AMPLIFY >
+name=増幅
+descr=全ユニットはいずれかの能力値が+1。\n持続：2チャプター
+
+< MIXER_BACKTRACK >
+name=バックトラック
+descr=全ユニットの進行方向が逆になる。\n持続：1チャプター
+
+< MIXER_BOMBER >
+name=ボンバー
+descr=爆弾が1つランダムなマスに設置され、1～4チャプター後に十字に爆発する。\n\n爆発範囲内の全ユニットはダメージを受ける。
+
+< MIXER_CHARITY >
+name=チャリティ
+descr=チャプター開始時に全プレイヤーは1枚カードを引く。
+
+< MIXER_CONFUSION >
+name=コンフュージョン
+descr=全プレイヤーの手札はシャッフルされ、表側が見られなくなる。
+
+< MIXER_FREEZE >
+name=フリーズ
+descr=全マスの3分の1をいアイスマスに変える。
+
+< MIXER_MINELAYER >
+name=マインレイヤー
+descr=トラップカード1枚がランダムなマスに設置される。
+
+< MIXER_MIRACLE >
+name=ミラクル
+descr=バトル、ボーナス、ドロー、ドロップのマスの効果が2倍になる。バトルで2ウィンを得る。カードを2枚引く。HPが2回復する。
+
+< MIXER_RANDOM_WARP >
+name=ランダムワープ
+descr=チャプター開始時に全ユニットはランダムなマスにワープする。
+
+< MIXER_REGENERATION >
+name=リジェネレーション
+descr=チャプター開始時に全ユニットのHPが1回復する。
+
+< MIXER_SPRINT >
+name=スプリント
+descr=全ユニットの基本移動ダイスが2個になる。
+
+< MIXER_TREASURE >
+name=トレジャー
+descr=宝箱がランダムなマスに配置される。
+
+< MIXER_HEALTHY_BOSS >
+name=健康なボス
+descr=ボスのHP+10。
+
+< MIXER_STAR_CHASER >
+name=星を追う者
+descr=ボーナスマスで得るスターが倍になる。
+
+< MIXER_BEGGAR >
+name=物乞い
+descr=ドロップマスで失うスターが倍になる。
+
+< MIXER_AGGRESSIVE_HEROES >
+name=攻めるヒーロー
+descr=全味方のATK+1。
+
+< MIXER_DEFENSIVE_HEROES >
+name=守るヒーロー
+descr=全味方のDEF+1。
+
+< MIXER_EVASIVE_HEROES >
+name=避けるヒーロー
+descr=全味方のEVD+1。
+
+< MIXER_BLAZING >
+name=ブレイジング
+descr=全ユニットATK+1・DEF-1。
+
+< MIXER_FLIPPED >
+name=反転
+descr=バトル開始時にユニット能力値が反転する。
+
+< MIXER_MENACING_BOSS >
+name=よく攻めるボス
+descr=ボスのATK+1。
+
+< MIXER_HARD_SHELLED_BOSS >
+name=よく防ぐボス
+descr=ボスのDEF+1。
+
+< MIXER_SLIPPERY_BOSS >
+name=よく滑るボス
+descr=ボスのEVD+1。
+
+< MIXER_JOKER >
+name=ジョーカー
+descr=全カードをコストなしで使える。
+
+< MIXER_BANKRUPT >
+name=破産
+descr=カードコストが10スター増える。
+
+< MIXER_GOO >
+name=ベトベト
+descr=フィールド上のベトベトでない1/3のマスが1チャプターの間、ベトベトになる。
+
+< MIXER_SPORES >
+name=胞子
+descr=フィールド上にキノコが生える。

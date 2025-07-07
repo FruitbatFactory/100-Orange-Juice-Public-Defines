@@ -1,0 +1,1338 @@
+< MENU_CONTROLLER_PRESS >
+
+
+< MENU_CONTROLLER_PROCEED >
+を押して進む
+
+< MENU_CLICKPROCEED >
+左クリックで進む
+
+< MAINMENU_NEWGAME >
+NEW GAME
+
+< MAINMENU_LOADGAME >
+CONTINUE
+
+< MAINMENU_CONFIGURATION >
+CONFIGURATION
+
+< MAINMENU_EXIT >
+EXIT
+
+
+< MENU_BUTTON_OK >
+OK
+
+< MENU_BUTTON_BACK >
+戻る
+
+< MENU_BUTTON_HOME >
+ホーム
+
+< MENU_BUTTON_CANCEL >
+キャンセル
+
+< MENU_BUTTON_READY >
+完了
+
+< MENU_BUTTON_BEGIN >
+開始
+
+< MENU_BUTTON_RETRY >
+リトライ
+
+< MENU_BUTTON_NEXT >
+次
+
+< MENU_BUTTON_PREVIOUS >
+前
+
+< MENU_BUTTON_CLEAR >
+閉じる
+
+< MENU_BUTTON_YES >
+はい
+
+< MENU_BUTTON_NO >
+いいえ
+
+< MENU_BUTTON_STORY >
+STORY
+
+< MENU_BUTTON_SKIPALL >
+全スキップ
+
+< MENU_BUTTON_TUTORIAL >
+TUTORIAL
+
+< MENU_BUTTON_REFRESH >
+更新
+
+< MENU_BUTTON_SEARCH >
+検索
+
+< MENU_BUTTON_CHAT >
+チャット
+
+< MENU_BUTTON_CREATE >
+作成
+
+< MENU_BUTTON_JOIN >
+参加
+
+< MENU_BUTTON_SPECTATE >
+観戦
+
+< MENU_BUTTON_DIFFICULTY_CASUAL >
+CASUAL
+
+< MENU_BUTTON_DIFFICULTY_NORMAL >
+NORMAL
+
+< MENU_BUTTON_DIFFICULTY_ORIGINAL >
+ORIGINAL
+
+< MENU_BUTTON_DIFFICULTY_EXTREME >
+EXTREME
+
+
+< MENU_BUTTON_LOBBYLIST_LOBBYNAME >
+ロビー名
+
+< MENU_BUTTON_LOBBYLIST_PUBLIC >
+公開
+
+< MENU_BUTTON_LOBBYLIST_PLAYERS >
+プレイヤー数
+
+< MENU_BUTTON_LOBBYLIST_SPEED >
+スピード
+
+< MENU_BUTTON_LOBBYLIST_EVENTS >
+イベント
+
+< MENU_BUTTON_LOBBYLIST_FIELDNAME >
+フィールド名
+
+< MENU_BUTTON_LOBBYLIST_HW2018 >
+トリック・アンド・トリート
+
+< MENU_BUTTON_LOBBYLIST_XMAS >
+クリスマス
+
+< MENU_BUTTON_LOBBYLIST_BOUNTYHUNTER >
+バウンティハント
+
+< MENU_BUTTON_LOBBYLIST_TAGTEAM >
+タッグチーム
+
+< MENU_BUTTON_LOBBYLIST_MASTERANGLERS >
+フィッシュ・ア・フィッシュ
+
+< MENU_ON >
+On
+
+< MENU_OFF >
+Off
+
+
+< MENU_LOBBYSETTING_EVENT >
+季節イベント
+
+< MENU_LOBBYSETTING_PASSWORD >
+パスワード
+
+< MENU_LOBBYSETTING_HIDEPASSWORD >
+隠す
+
+< MENU_LOBBYSETTING_OPTIONAL >
+(任意)
+
+< MENU_LOBBYSETTING_MIXERS >
+ミキサー
+
+< MENU_LOBBYSETTING_CPUEVENT >
+CPUのみのイベントをスキップ
+
+< MENU_LOBBYSETTING_TURNTIMER >
+タイマー
+
+< MENU_LOBBYSETTING_CHAOSMUTATOR >
+カオス化因子
+
+< MENU_LOBBYSETTING_INVADER >
+侵略者
+
+< MENU_LOBBYSETTING_PVPBOUNTIES >
+プレイヤーバウンティ
+
+< MENU_BUTTON_GAME_RETURN >
+戻る
+
+< MENU_BUTTON_GAME_CONFIG >
+コンフィグ
+
+< MENU_BUTTON_GAME_RETIRE >
+リタイア
+
+
+< MENU_BUTTON_GAME_MOVE >
+MOVE
+
+< MENU_BUTTON_GAME_CARD >
+CARD
+
+< MENU_BUTTON_GAME_INFO >
+INFO
+
+< MENU_BUTTON_GAME_PROTECT >
+PROTECT
+
+< MENU_BUTTON_GAME_GIFT >
+GIFT
+
+< MENU_BUTTON_GAME_THROW >
+THROW
+
+< MENU_BUTTON_GAME_FURY >
+FURY
+
+< MENU_BUTTON_GAME_GUARDIANSPIRIT >
+SPIRIT
+
+< MENU_BUTTON_GAME_IRONDEFENSE >
+IRON
+
+< MENU_BUTTON_GAME_RESTORINGLIGHT >
+RESTORE
+
+< MENU_BUTTON_GAME_FROMBEYOND >
+BEYOND
+
+< MENU_BUTTON_GAME_DEAL >
+DEAL
+
+< MENU_BUTTON_GAME_DEMAND >
+DEMAND
+
+< MENU_BUTTON_GAME_CLICK >
+CLICK
+
+< MENU_BUTTON_GAME_DEFEND >
+DEFEND
+
+< MENU_BUTTON_GAME_EVADE >
+EVADE
+
+< MENU_BUTTON_GAME_FIGHT >
+FIGHT
+
+< MENU_BUTTON_GAME_END >
+END
+
+< MENU_BUTTON_GAME_ITEMS >
+ITEMS
+
+< MENU_BUTTON_GAME_SELLCARDS >
+カード売却
+
+< MENU_BUTTON_GAME_BOMB >
+BOMB
+
+< MENU_BUTTON_GAME_DASH >
+DASH
+
+< MENU_BUTTON_GAME_FORECAST >
+FORECAST
+
+< MENU_BUTTON_GAME_EAT >
+EAT
+
+< MENU_GAME_MIMYUUJ_HYPER_BREAKOUT >
+脱獄！
+
+< MENU_BUTTON_GAME_TAG >
+TAG
+
+< MENU_BUTTON_GAME_BOUNTY >
+BOUNTY
+
+< PLAYMENU_FREEBATTLE >
+ONLINE
+
+< PLAYMENU_SHOP >
+SHOPPING
+
+< PLAYMENU_CAMPAIGN >
+SINGLE PLAYER
+
+< PLAYMENU_PROFILE >
+PLAYER\nINFO
+
+< PLAYMENU_CODEX >
+OJDEX
+
+< PLAYMENU_MANUAL >
+GUIDE
+
+< PLAYMENU_WIKI >
+WIKI
+
+< PLAYMENU_EXIT >
+EXIT
+
+< PLAYMENU_TOOLTIP_FREEPLAY >
+オンラインで他のプレイヤーと遊べます。
+
+< PLAYMENU_TOOLTIP_SHOP >
+カードパック、キャラ、アクセサリーなどを購入できます。
+
+< PLAYMENU_TOOLTIP_CAMPAIGN >
+キャラを1人選んでシングルプレイヤーでストーリーを進めていきます。
+
+< PLAYMENU_TOOLTIP_PROFILE >
+プレイ情報の確認、カードの閲覧、アバターの変更ができます。
+
+< PLAYMENU_TOOLTIP_CODEX >
+キャラクタープロフィールなどが閲覧できます。
+
+< PLAYMENU_TOOLTIP_MANUAL >
+ゲームマニュアルを開きます。
+
+< PLAYMENU_TOOLTIP_WIKI >
+ファンによる情報満載のコミュニティwikiを開きます。（英語のみ）
+
+< PLAYMENU_TOOLTIP_CHALLENGES >
+マルチプレイヤーでのチャレンジ内容を確認できます。
+
+< PLAYMENU_TOOLTIP_CONFIGMENU >
+コンフィグ画面を開きます。
+
+< PLAYMENU_TOOLTIP_EXIT >
+タイトル画面へ戻ります。
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_01 >
+トナちゃんからのチャレンジをチャレンジボードで確認しましょう。\nクリアするとプレゼントがもらえます！
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_02 >
+集めたプレゼントは、ゲーム中に他のプレイヤーへ渡しましょう。
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_03 >
+ゲーム終了時、プレゼントを渡したプレイヤーも含め、\n全員がプレゼントを開けることができます。
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_04 >
+一定量のプレゼントを渡し終えると、わるだ組の隠れ家が見つかり、\nわるだ組に挑戦できるようになります。
+
+< PLAYMENU_EVENT_XMAS2017_GIFTPROGRESS >
+プレゼント配布完了度 (%d/%d)
+
+< PLAYMENU_EVENT_XMAS2017_STAGEPROGRESS >
+追加シナリオをクリア %s
+
+< PLAYMENU_EVENT_XMAS2017_COMPLETE >
+クリスマスを救うことができました！\n(わるだ組が改心したかどうかは不明・・・)
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_MAIN >
+ミッションクリアのために20,000個のチョコを集めよう！
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_01 >
+チョコは、特定のマスから、または敵を倒すことで獲得できます。
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_02 >
+敵プレイヤーを倒すと、そのプレイヤーが保持しているチョコの半分を奪うことができます。
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_03 >
+チョコを500個以上保持している場合、ホームマスに保存でき、他のプレイヤーから盗まれなくなります。
+
+< PLAYMENU_EVENT_VALENTINE2018_COMPLETE >
+世界中のスイーツが救われました！\n（とりあえず今のところは・・・）
+
+< PLAYMENU_EVENT_GAMESPLAYED >
+プレイしたゲーム数：%d
+
+< PLAYMENU_EVENT_BONUSITEMS >
+ボーナスアイテム：%d/%d
+
+< PLAYMENU_EVENT_VIEWPROGRESS >
+達成度を確認
+
+< PLAYMENU_EVENT_MILESTONE >
+次のゴール：
+
+< RANDOMFILTER_EVENTS >
+「ランダム」の選択候補イベントを選んでください。
+
+< RANDOMFILTER_MAPS >
+「ランダム」の選択候補マップを選んでください。
+
+< RANDOMFILTER_CHARACTERS >
+「ランダム」で選択候補キャラクターを選んでください。
+
+< POPPOMARCH_CLICKTHESE >
+この%d種類のぽっぽをクリック！
+
+< PEEKSHROOM_MEMORIZE >
+おぼえよう！
+
+< PEEKSHROOM_ORDER >
+えらぼう！
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_MAIN >
+NoName先生の足りないパーツをぽっぽから取り返して、先生を組み立てなおせ！
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_01 >
+3ターン毎にゲームマスが出現するので、マスを踏んでぽっぽとゲームをしましょう！
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_02 >
+『神経衰弱』\n同じカードをそろえましょう。少しのミスは大丈夫！　最後にそろえたカードがご褒美になります。失敗すると効果がランダムに選ばれます。
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_03 >
+『カードを追え』\nご褒美をを選んで、そのカードを目で追いかけてください！　ぽっぽがカードをシャッフルしてご褒美を隠そうとします。
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_04 >
+『ルーレット』\nぽっぽが回転させるルーレットを、クリックで止めてください！　ルーレットの位置と速度にうまくタイミングを合わせましょう。
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_05 >
+『ぽっぽ叩き』\n樽の中から素早く飛び出すぽっぽを叩いてください！　ただし、ぽっぽ以外のキャラクターを叩かないように・・・！
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_06 >
+『ぽっぽ・しゅーてぃんぐ』\n風船に向かってダーツを投げてください！\nご褒美付きの風船があり、同じタイプを3つ割るとご褒美を獲得できます。
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_07 >
+『ぽっぽ・まーち』\n指定された3種類のぽっぽを、行進してるぽっぽたちの中から見つけてクリックしてください！全員見つけるとご褒美です。
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_08 >
+『サキのベーカリー』\nサキを操作して、クッキーやキャンディーを集めましょう。ただし、爆弾が混ざっていることもあるので要注意！　高スコアでご褒美です。
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_09 >
+『キノコのぞき』\n目の前を横切るいろいろなキノコを見たあと、出てきた順番を答えてください。正解数が多いほど、ご褒美も豪華になります。
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_10 >
+レッドバレルを操作して障害物を避けて、ハイスコアを狙いましょう！　スコアが高いほど、賞品も豪華になります！
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_11 >
+NoName先生のパーツがミニゲームの賞品になることがあります。
+
+< PLAYMENU_EVENT_SPRING2018_COMPLETE >
+NONAME先生の身体が元に戻ったので、マールたちは留年を回避できました！
+
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_MAIN >
+ビッグ・ザ・ジョナサンを倒せ！
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_01 >
+CO-OPモードでプレイして、ビッグ・ザ・ジョナサンを追い払いましょう。ビッグ・ザ・ジョナサンのHPを0にする、もしくは50チャプターを経過させるのいずれかを達成すると勝利です。
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_02 >
+CO-OPモードでは、各プレイヤーは役割を選択します。\n役割により、能力、使用できるカード、ハイパーが変化します。
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_03 >
+各役割の能力は以下の通りです。\nアタッカー：攻撃+ 先攻\nガーディアン：防御+ プロテクト\nサポーター：移動+ リバイブ
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_04 >
+ユニットのリカバリー値には特別調整が入ります。\n値は、攻撃で上がり、回避で下がります。最低値は3です。
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_05 >
+ノルマ、スター、ウィンはプレイヤー全員に共有されます。ノルマ達成条件は、スターは通常の1.5倍に、バトルは通常の2倍に設定されています。また、他のプレイヤーの手札を見ることができます。
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_06 >
+CO-OPモードでは、フィールド上のボスマスが次第に増えていきます。ボスマスに止まることで、ビッグ・ザ・ジョナサンに挑戦できます。
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_07 >
+プレイヤーがダウンした場合、所持スターの8分の1を失います。\nユニットはどのホームマスにも止まることができます。
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_08 >
+通常のフィールドイベントの代わりに、ビッグ・ザ・ジョナサンがプレイヤーを倒そうと様々な能力を使ってきます。時間経過で能力がより多彩になります…。
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_09 >
+チャプター数には注意しましょう。30チャプターになると、ビッグ・ザ・ジョナサンが怒り、ホームマスを全て破壊してしまう上、、極悪能力を発動させます。
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_10 >
+味方が同時に全員ダウンした場合、その時点でゲームオーバーとなり、ビッグ・ザ・ジョナサンの勝利となります。それまでに与えたダメージはイベントの進捗に反映されます。
+
+< PLAYMENU_EVENT_SUMMER2018_COMPLETE >
+ビッグ・ザ・ジョナサンは鎮まり、海とビーチに平和が戻った！
+
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_MAIN >
+お菓子で満腹になるために「トリック・アンド・トリート」！
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_01 >
+所持しているお菓子1つにつき1スターを毎チャプター獲得。3チャプター毎にランダムにお菓子がもらえます。
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_02 >
+自身のプレートと同じお菓子は、ホームマスで10スターと1ウィンに交換できます。
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_03 >
+他のプレイヤーと出会ったら、そのプレイヤーが持っているお菓子を1つ選んで「トリック・オア・トリート」。\nお菓子をくれなかったプレイヤーにはペナルティー！
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_04 >
+そのプレイヤーをダウンさせてお菓子を奪っちゃいましょう。
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_05 >
+ゲーム終了時、順位によってお菓子が獲得できます。\nお腹を満たすため、1500個のお菓子を集めましょう！
+
+< PLAYMENU_EVENT_HALLOWEEN2018_COMPLETE >
+斬子の薬の効果を打ち消すだけのお菓子が集まりました！\nそれでは、魔女のお茶会を楽しみましょう！
+
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_ATTACKER >
+アタッカー\n\n先攻：バトルで常に先攻\nノルマレベル2：ATK+1\nノルマレベル4：ATK+1\nボスHP+5
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_DEFENDER >
+ガーディアン\n\nプロテクト：HPを1支払うことで対象が次のバトルで受けるダメージを2減らす\nノルマレベル2：DEF+1\nノルマレベル4：DEF+1\nボスHP-5
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_SUPPORT >
+サポーター\n\nリバイブ：ダウンしたユニットがいるマスを通り、スターを支払うことで、そのユニットを復活させる\nノルマレベル2：移動+1\nノルマレベル4：移動+1
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_AVENGER >
+アヴェンジャー\n\n復讐心：バトルで失ったHP分ATK+\nノルマレベル2：HP+1\nノルマレベル4：HP+1\nボスHP+10
+
+< PLAYMENU_EVENT_SUMMER2018_AVENGER_UNLOCK >
+CO-OPモードの新たな役割「アヴェンジャー」が解除されました！
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_MAIN >
+子供たちのために、みんなで協力して\nクリスマス前に雪のお城を完成させよう！
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_01 >
+デイリー目標達成で賞品が解除されます。\nXmasゲームモードでリースを集めて、\nストアでアイテムと交換しましょう。
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_02 >
+Xmasゲームモードでは、6チャプター毎にプレイヤー全員で雪のお城を作ります。\n25ターン経過で、ゲームが終了し、\nお城作りを1番頑張った人が勝ちです。
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_03 >
+お城を作るのには雪が必要です。\n誰も通っていないマスに雪が積もり、\nマスを通ると集めることができます。
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_04 >
+雪がたくさん欲しい時は、他のユニットを\nバトルでダウンさせるか、雪合戦で\n雪玉を当てると奪うことができます。
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_05 >
+雪合戦を始めるには、このアイコンを\nクリックして、3～4マス離れた\n他のユニットを選択してください。\n（コスト：10雪）
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_06 >
+自ユニットの1マス以内のユニットと\nチームを組んで雪合戦に参加できます。\n相手となった他のユニットも1マス以内の\nユニットとチームを組めます。
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_07 >
+お互いが攻守を3回やり終えるか、\n一方(チームでは全員)に雪玉が当たると\n雪合戦が終了します。
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_08 >
+【守備】\n雪玉が飛んでくるマスを予想して、\n安全なマスに移動します。
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_09 >
+【攻撃】\n相手の動きを予想して雪玉を投げます。\n見事当てることができれば、\n相手の雪の半分を獲得できます。
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_10 >
+このイベント限定の新カードもあります。\nぜひ雪合戦で使ってみてください。
+
+< PLAYMENU_EVENT_XMAS2018_COMPLETE >
+雪のお城が完成し、子供たちは楽しいクリスマスを過ごせました！
+
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_MAIN >
+みんなが怠惰な豚に変身してしまいました！\n豚ハートを集めて、仲間たちを豚化から\n救い出しましょう！
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_01 >
+豚ハートが獲得できるのは、ノーマルモードかバウンティハントモードです。いずれかのモードで最後までプレイして、高順位になるか、他のプレイヤーをバトルでダウンさせてください(1ゲームに各プレイヤーから1つずつ）。また、CO-OPモードでも獲得できるようになりました。
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_02 >
+集めた豚ハートで、ショップ内の\n豚アクセサリーを解除したり、\n仲間の豚化をといてあげましょう！
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_03 >
+豚化を食い止めるため、\n仲間全員を元に戻してあげてください！
+
+
+< PLAYMENU_EVENT_FRB2019_COMPLETE >
+仲間を救い出すことができました！\nが、豚化はまだ世界中で進行しているようです…。
+
+
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_MAIN >
+突如現れた謎のモンスターたちが暴れています！\n新しいCO-OPモードで他のプレイヤーと協力してモンスターを倒し、平和を取り戻しましょう！
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_01 >
+CO-OPモードをプレイするには、\nオンラインロビー作成時や\nシングルプレイヤーカスタムでモードトグルを「CO-OP」に切り替えてください。
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_02 >
+ボスには4つの難易度があります。\n高難易度ほどボスが強くなりますが、獲得できる経験値やオレンジが増えます。
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_03 >
+フィールドはボスと難易度に影響されます。\n
+カジュアル：所持済みの通常フィールド\n
+ノーマル：CO-OP用新フィールド\n
+エクストリーム：CO-OP用新フィールド\n
+ハイパー：スペシャルボスアリーナ
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_04 >
+難易度ハイパーのボスは強力な固有能力を持っています…。\n究極の腕試しがしてみたい方はぜひ挑戦してみてください！
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_05 >
+アタッカー、ガーディアン、サポーターの役割から1つを選んでプレイします。\n役割ごとに経験値がたまり、強力な能力を解除できます。
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_06 >
+新機能「デッキポイントシステム」で\nCO-OPデッキを作りましょう。\n強力なカードほど多くのデッキポイントを必要とします。\nデッキのカードは自身と味方全員で使用します。
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_07 >
+CO-OPモードでは、ハイパーカードの効果が通常と異なるキャラが多くいますので注意してください。\nカードバインダーで該当カードの説明文を切り替えることで詳細が確認できます。
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_08 >
+デッキポイント上限はキャラのランクにより決定します。\nAランクキャラはその役割に最も適しており、10デッキポイントを持っています。
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_09 >
+低ランクキャラはその役割に不向きですが、デッキポイントが高いです。\n様々なキャラと役割の組み合わせを試してみてください。
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_10 >
+ボスはフィールドを動き回り攻撃してきますが、ボスに対して効果が発動するマスはMoveやWarpなどの移動系マスのみです。\nボスの位置を把握して、うまく立ち回りましょう。
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_11 >
+ボスは固有のカード5枚で組まれたデッキを持っており、カードには0~3のレベルがあります。\n5枚を使い切ると、最低レベルの1枚が1レベル上がり、デッキがシャッフルされます。
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_12 >
+ボスの能力はチャプター開始時に明らかになり、チャプター終了時のボスのターン前に発動されます。計画的に備えましょう。
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_13 >
+説明は以上です。\n仲間と協力してモンスターを倒しましょう！
+
+< PLAYMENU_EVENT_SPRING2019_COMPLETE >
+暴走するモンスターたちから世界を救うことができました！\nしかし、今回の騒ぎには黒幕がいるようです…。
+
+
+< PLAYMENU_EVENT_SUMMER2019_INSTRUCTION_MAIN >
+夏の太陽でおかしくなったきゅーぴー！\n課されるミッションをクリアしつつ、一緒に遊んできゅーぴーを疲れさせましょう！
+
+
+< PLAYMENU_EVENT_SUMMER2019_COMPLETE >
+夏の海を満喫しつつ、きゅーぴーを元に戻すことができました！\n\nでも、きゅーぴーがおかしくなったのは本当に夏の太陽だけのせいだったのでしょうか…？
+
+
+
+
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_MAIN >
+大人のハロウィン作戦開始！\nツィーと協力して\n女子会用のおつまみを集めましょう！
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_01>
+ゲーム中、カボチャがフィールド上に\n現れて動き回ります。
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_02>
+カボチャと同じマスに止まるとそのカボチャを捕まえられます。\n捕獲と同時に、フィールド上の他のマスにカボチャが現れます。
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_03>
+カボチャを集めて作戦を完了しましょう！\nカボチャをたくさん集めると、ゲーム終了時に獲得できるキャンディが増えます。
+
+< PLAYMENU_EVENT_HALLOWEEN2019_COMPLETE >
+作戦成功です！\nもっとキャンディが欲しい人は、もっとカボチャを集めてみてください。
+
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_MAIN >
+ロポチを倒せ！
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_01 >
+「あのやろー\n好き勝手してくれちゃって…！」
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_02 >
+「あいつの力は私より強いけど…\n私にだってキミをサポートするくらいの\n力はあるんだ！」
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_03 >
+「一緒にアイツを倒して\nこの世界を守ろう！」
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_04 >
+どのボスと戦っても、\nイベント進行度が上がります。
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_05 >
+トモモのマジカルブーストで、\nCO-OP能力をより早く獲得できます！
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_06 >
+ゲーム開始時からCO-OPの全特性ボーナス付加に加え、レベル10までの全能力が解除されます。\n役割レベルの上限も上がりました。
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_COMPLETE >
+ロポチを倒しましたが、\nまだ真の黒幕が待ち受けています！\n新しいミッションが解除されました。\n物語はついに終幕を迎えます。
+
+< PLAYMENU_EVENT_MIO_MISSIONUNLOCK >
+物語の終幕を見る：%s
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_MAIN >
+新ゲームモード「バウンティハント」では新たな冒険があなたを待ち受けています！\nエリィとルルゥが、ギルドランクBとなり、路銀稼ぎができるよう協力をお願いします！
+
+// Instruction about the game mode button
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_01 >
+バウンティモードをプレイするには、オンラインロビー作成時、またはシングルプレイヤーカスタムでモードトグルを「バウンティハント」に切り替えてください。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_02 >
+バウンティモード専用かつ唯一のノルマタイプ「名声（Fame）ノルマ」が追加されました。(※特定のキャラクターにあるノルマ選択制限は無効になります。）
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_03 >
+名声を増やすためには、クエストやバウンティを契約して達成する必要があります。クエストやバウンティは任意のホームマスにて契約することができます。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_04 >
+クエストを達成するには、契約書に示された場所でアイテムを入手し、矢印で示されたショップまで届ける必要があります。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_05 >
+バウンティを達成するには、契約書に示された場所でモンスターをと討伐する必要があります。モンスターの討伐難易度によって獲得できる名声が変化します。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_06 >
+モンスターはフィールド全体にいます。バウンティ対象のモンスターとのバトルは最長10ラウンドまで継続しますので、挑戦前にしっかり準備しましょう！
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_07 >
+モンスターを倒しやすくなるよう、このモードでは全プレイヤーにMOV+1が永続付与され、さらに毎チャプター獲得できるスターも増量されます。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_08 >
+クエスト対象の場所と便利なアイテムが並ぶショップはフィールド全体に出現します。ショップではアイテムを購入したり、カードを売却したりできます！
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_09 >
+キャラクターの能力がショップアイテムの価格に影響します。能力が低いキャラクターほど割引額が大きくなり、様々な戦略を立てやすくなります！
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_10 >
+フィールド上に出現する「蜃気楼」は、バウンティモンスターが討伐されたり、ショップでアイテムが完売したりした際に、バウンティやショップが次にどこへ移動するかを示しています。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_11 >
+ノルマを達成すると特典を獲得できます。特定は複数のランダムな選択肢の中から1つを選びます。特典は永続で、能力値アップやショップでのディスカウントなど様々です。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_12 >
+プレイヤーが初めてノルマ3️に到達すると、フィールド上にが「侵略者」が出現します。侵略者は固有能力を持った敵で、様々な形でゲームを妨害します。倒すとボーナスを獲得できます！
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_13 >
+プレイヤーがノルマ4に到達すると、フィールド上にボスが出現します。とても強いので注意してください！　倒すと6名声を獲得できます！
+
+// Final introduction msg
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_14 >
+富と名声、どちらも手にしたバウンティハンターを目指しましょう！
+
+// Completed.
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_COMPLETE >
+おめでとうございます！\nエリィとルルゥが十分な路銀を集めることができました！\n2人はまだ余力があるようですので、よかったらもう少し手伝ってあげてください。
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_MAIN >
+河原でのBBQパーティーを開くため、サキ、カエ、ナートの3人を手伝ってあげてください！
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_01 >
+イベントに参加するには、「Fish a Fish」モードを選んでゲームを開始してください。
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_02 >
+釣りミニゲームは10チャプターごとに発生して、全プレイヤーが参加します。
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_03 >
+左クリックで釣り針を投げて、魚を釣り上げてください。水中でマウスカーソルを動かして、目当ての魚を見つけましょう。
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_04 >
+釣り針を投げると、針は垂直に沈んでいき、底に達すると浮き上がってきます。途中で、魚やゴミが針にかかると自動的に釣り糸が巻き上げられます。
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_05 >
+魚には複数の種類があり、大きさと移動速度が異なります。より大きな魚や速い魚を釣り上げると、スコアが高くなります。
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_06 >
+ランダムなタイミングで、魚と釣り針の移動速度が上がることがあります。
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_07 >
+ミニゲームが終わると、釣った魚のスコアが高いプレイヤー順にランキング付けされます。スコア数によって獲得スター数が、ランキング順位によって獲得ウィン数が決定します。
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_08 >
+BBQグリルにも要注目です！ グリルには3種類の魚が表示されており、制限時間内に全種釣り上げると、ボーナスとして15ポイントを獲得できます。
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_09 >
+グリルは各プレイヤーごとに用意されていますので、指定の魚をどんどん釣り上げてポイントを獲得して高スコアを狙いましょう！
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_10 >
+さらに、同じ種類の魚を連続で釣るとコンボポイントがスコアに加算されます。
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_11 >
+ミニゲームで獲得した合計スコアが、イベント進行度に適用されます。楽しいBBQパーティーのために頑張りましょう！
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_COMPLETE >
+BBQパーティーができるようになりました！\n食べたりない人は、もっと釣っちゃいましょう！
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_MAIN >
+キノコ争奪戦が勃発！ 持てる力を総動員して、2つの希少キノコを探しましょう！
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_01 >
+イベントに参加するには、ロビー作成時またはシングルプレイヤー開始時に「季節イベント」に切り替えてください。
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_02 >
+フィールドイベント「胞子」を有効にしてゲームに参加することもできます。ただし、その場合はキノコの発生頻度が低くなります。
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_03 >
+新ゲームモードでは、2チャプターごと(「胞子」有効にしたノーマルモードでは3チャプターごと)に、ランダムなマスにキノコが生えます。キノコのあるマスに止まると、キノコを拾うことができます。
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_04 >
+キノコを拾うと、キノコカード1枚が手札に加えられます。カード効果はランダムで、カードを使った時に初めてどんな効果かが分かります。
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_05 >
+いずれかのプレイヤーのノルマレベルが4になると、2種類の希少キノコが生えてきます。このキノコは、1ゲームにつき、どちらか1本しか入手できません。
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_06 >
+希少キノコを拾うと、特別なギフトカードが手札に加えられます。このカードは、持ち主をダウンさせることで奪うことができます。
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_07 >
+2種類ある希少キノコのどちらを拾ったかで、イベント進行度が変化していきます。
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_08 >
+果たして、このキノコ争奪戦に勝利するのはどちらのチームなのか?!
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_COMPLETE >
+争奪戦の結果は引き分け(？)となったようです…。でも、キノコ探しはまだまだできますよ！
+
+< PLAYMENU_TOOLTIP_5YEARANNIVERSARY >
+Steam版5周年記念ボーナス！\n新ホームマスは「アバター」画面の「ホームマーク」で変更可能です。
+
+< PLAYMENU_1MILLIONCHARA_UNLOCK >
+おめでとうございます！\n100万DL記念キャラ「ミオ」がボイス付きで遊べるようになりました！
+
+< PLAYMENU_TOOLTIP_10YEARANNIVERSARY >
+Steam版10周年記念プレゼント！\nアバター画面で、カードアイコンをクリックすると裏面のデザインを切り替えられます。
+
+< PLAYMENU_SUMMER2019_RERUN_REVIVE >
+きゅーぴーがもっと遊びたがっています！\n夏の獣、復活です！
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_MAIN >
+クックにおいしいものをたくさん食べさせれば、エリィの探しものを見つける手助けをしてくれるとのことですが、果たして？\nでも、もし本当ならとても助かりますね！\nひとまず食べ物を探しに行きましょう！
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_01 >
+バウンティモードをプレイするには、オンラインロビー作成時、またはシングルプレイヤーカスタムでモードトグルを「バウンティハント」に切り替えてください。
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_02 >
+バウンティハントモードでプレイすると、ショップに食べ物アイコンが表示される場合があります。アイコンのあるショップにとまって、おいしいものを集めましょう。
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_03 >
+クエストスポットと便利なアイテムを扱うショップがフィールドに出現し、6チャプターごとに更新されます。
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_04 >
+ホームマス、ショップ、クエストスポットには任意で止まることができます。\nただし、クエストスポットのみ、関連するクエストカードを所持している必要があります。
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_05 >
+バウンティハントモードにはノルマタイプ「名声（Fame）ノルマ」が用意されており、これが唯一のノルマとなります。\n(※特定のキャラクターにあるノルマ選択制限は無効になります。）
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_06 >
+バウンティ(モンスター討伐)やクエスト(アイテム収集)をクリアすると名声を獲得できます。バウンティで得られる名声の量は、そのバウンティの難易度によって異なります。
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_07 >
+バウンティの難易度には「イージー」、「ミディアム」、「ハード」があります。1ゲームにつき、各難易度のバウンティが2つずつ発生し、クエストはランダムに6つ発生します。
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_08 >
+バウンティバトルは最長10ラウンドです。\n戦う前の準備をお忘れなく！
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_09 >
+バウンティハントを達成しやすくするため、このモードでは常時手札が1枚多く持てるようになっています。
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_10 >
+さらに、行動範囲を広げられるよう、MOV+1の効果があるブーツを最初から装備しています。ショップにはさらに強力な装備品がありますので、ぜひ使ってみてください！
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_11 >
+ショップでカードを売るとスターが獲得できます。買取スター額はショップによって異なります。
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_12 >
+アイテムを買ったり、カードを売ったりすると、ショップがアップグレードされます。レベルの高いショップには、在庫が豊富になるなどのメリットがあります！
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_13 >
+プレイヤーのレベルが4になると、ボスが1体出現します。非常に強力で、倒すと6名声を獲得できます！
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_14 >
+さらに、15チャプター経過すると、謎の「先駆者」が出現し、プレイヤーを狩りはじめます。先駆者に倒されると1名声失いますが、先駆者を倒した時に得られる名声が増えます。
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_COMPLETE >
+クックがお腹いっぱいになったので、道案内してくれるようです！ でもその前に、バウンティハントをもっとプレイしてイベント限定報酬を狙うのもありです！
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_MAIN >
+ミオの水泳レッスンで泳げるようになろう！\n新CO-OPボス「スイミングコーチ」の登場です！
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_01 >
+「スイミングコーチ」へのダメージは、全体のイベント進行度に影響します。
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_02 >
+他のCO-OPボスを選んでもイベント進行度は上がります。
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_COMPLETE >
+トモモが泳げるようになりました！\nイベントクリアとなりましたが、「スイミングコーチ」とはもっと練習できますよ！
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_MAIN >
+アイテムを集めてスミカのおうちを\nトリックアウト（飾りつけ）しよう！
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_01 >
+フィールド上に時おり出現する「デコレーションマス」にとまると飾りつけアイテムを獲得できます。
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_02 >
+アイテム獲得方法が他にもあり、各ゲームモードごとに異なります。
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_03 >
+ノーマルモード\n①他のプレイヤーのホームマスにとまる\n②高い順位でゲームを終える
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_04 >
+CO-Oモード\n①ボスの手下をダウンさせる\n②高い難易度でボスを倒す
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_05 >
+バウンティハントモード\n①マークがついたショップへ行く\n②高い順位でゲームを終える
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_06 >
+1ゲームにつき最大4つまで獲得でき、ゲーム終了後の報酬として追加獲得できます。
+
+< PLAYMENU_EVENT_HALLOWEEN2021_COMPLETE >
+すてきな飾りつけが完成しました！\nイベントクリアなりましたが、アイテムをもっと集めて、ぜひショップでコスチュームと交換してみてください！
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_MAIN >
+カオスが解き放たれ、新ゲームモード「カオスモード」で遊べるようになりました！　イベント「フールズ・ギャンビット」開催中限定のモードです！
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_01 >
+カオスモードで遊ぶには、オンラインでのロビー作成時、またはシングルプレイヤーでのゲーム開始時に、ゲームモードをカオスに設定します。その後、好きなカオス化因子を選択します。
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_02 >
+ゲームバランス上の理由から、報酬や実績解除が発生しないカオス化因子があります。各因子の説明を確認してください。
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_03 >
+このイベントにはエンディングや限定報酬はありません。代わりに、カオスモードでのゲーム終了時にアーケードトークンを獲得できます。獲得できるトークンは1日に最大20個です。
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_04 >
+それでは、これまでのルールが通用しないカオスな世界をお楽しみください！
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_MAIN >
+目的地はすぐそこ！　アーネルたちより先にエリィたちを湖の祠まで連れていきましょう！
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_01 >
+任意のゲームモードでプレイすると移動ポイントを獲得できます。それを使うとマップ上を移動できます。
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_02 >
+その日の最初のゲームでは3移動ポイントを獲得できます。2ゲーム目以降は1ポイントです。
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_03 >
+1移動ポイントの消費でマップ上を1マス動くことができます。
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_04 >
+移動ポイントは自動的に消費され、選択したルートを交差点に達するまで移動します。どのルートかはお好みで。
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_05 >
+特定のマスから、スター、オレンジ、アクセサリ、イベント報酬が獲得できます！
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_06 >
+果たして、隠された宝を手に入れるのは一体誰なのか…？
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_COMPLETE >
+祠に到着しました！　もっと報酬が欲しい場合は、何度でもマップに再挑戦できます。
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_MAIN >
+世界中のクリスマスケーキがピンチです！　みんなで協力してミオのケーキを一掃しましょう！
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_01 >
+6チャプターごとに、各プレイヤーの手札に「ミオのケーキ」という特別なカードが加えられます。
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_02 >
+このカードを安全に処理する方法は2つ。食べてランダムな効果を発動させるか、敵に投げつけて1ダメージを与えましょう。
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_03 >
+どのゲームモードでもイベントゲームがプレイ可能で、ゲーム終了後美味しいクリスマスケーキを獲得できます。このケーキはショップにて別のアイテムと交換できます。ゲーム作成時にイベントのオン・オフをトグルボタンで切り替え可能です。
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_04 >
+世界中からミオのケーキをなくすことがイベントの成功条件です。
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_05 >
+今回は2つのイベントカウンターがあり、ミオのケーキがどちらの方法で処理されたかをカウントします。どちらの方法を使ってもイベント進行度は上がります。
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_06 >
+イベントのエンディングを解除するには、イベントゲームを特定回数プレイするという個人目標を達成する必要があります。達成すると、追加で賞品が獲得できます。
+
+< PLAYMENU_EVENT_WINTER2022_COMPLETE_01 >
+世界が救われました！　これで美味しいクリスマスケーキが食べられるようになりました！　もし余力があれば、まだ残っているミオのケーキを探してみましょう。
+
+< PLAYMENU_EVENT_WINTER2022_COMPLETE_02 >
+ミオの斬新なケーキが世界中で大ブームになりました！　もしまだお腹が空いてるなら、もっとケーキを探してみましょう。
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_MAIN >
+大量発生したマゥスを倒して、宝物をゲットしよう！
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_01 >
+「トレジャー・テイル」イベントモードか、バウンティハントモードでゲームをプレイすることでマゥスをやっつけることができます。
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_02 >
+トレジャー・テイルはバウンティ・ハントモードに調整を加えたもので、ノルマの易化、ショップアイテム50％オフ、手札上限＋1などが含まれています。
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_03 >
+選択できる3つのバウンティは常に、「マゥス（イージー）」、「キーライム・マゥス（ミディアム）」、「いちごマゥス（ハード）」です。どのマゥスを倒してもイベントが進行します。
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_04 >
+さらに、クエストを完了させると、本来の報酬である2名声をすぐに獲得する代わりに、HP2のマゥスとのバトルになります。
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_05 >
+最後に、今回新たに実装された侵略者「ダークチョコレート・マゥス」は、プレイヤーの命……ではなくスターを狙ってきます。この侵略者を倒すとイベント進行ポイントを3得ることができます。
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_06 >
+マゥスたちが守っているものとは？　そしてそれを守る理由とは？
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_COMPLETE >
+エリィが探していた「宝物」を見つけることができました……が、今度は一体何が起こっているのか？
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_MAIN >
+バッドエンドを狙う世界の神が登場！ これまでの旅の記憶を思い出し、神に対抗しましょう。
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_01 >
+任意のゲームモードをプレイして「記憶の欠片」を集めましょう。集めた記憶の欠片を消費して、イベントマップ上を進むことができます。
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_02 >
+その日最初のゲームでは記憶の欠片を3つ獲得できます。その後のゲームでは1つになります。
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_03 >
+記憶の欠片1つにつき、イベントマップ上で1マス進むことができます。
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_04 >
+イベントマップ上で進みたい道を選ぶと、記憶の欠片が消費され、分かれ道に到達するまで自動的に移動することができます。どの道を選ぶかはあなたしだいです。
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_05 >
+特定のマスを通過すると、スター、オレンジ、ランダムなアクセサリが獲得できます！
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_06 >
+旅の記憶を思い出し、ルルゥを闇から救い出しましょう。
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_MAIN2 >
+いよいよ最終決戦です！　エクストラミッション「神罰」でミオを倒しましょう！
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_COMPLETE >
+世界の神が企てたバッドエンドを回避することができました！　しかし、旅はまだ終わっていません！　報酬獲得のために引き続きプレイしてみましょう。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_MAIN >
+ファミリーレストラン「ぴゅあーず」での食事をかけた勝負に勝とう！ ポイントをためて報酬も獲得できます！
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_01 >
+このイベントの期間中、新たなゲームモード「タッグチーム」がプレイできます！
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_02 >
+タッグチームで1ゲームをプレイすると、ファミリーレストラン「ぴゅあーず」のポイントカードにスタンプが1つ押されます。他のゲームモードでは2ゲームで1スタンプです。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_03 >
+タッグチームでは、リーダーキャラとパートナーキャラの合計2人を選択します。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_04 >
+自身のターン中、Tagを選択するとパートナーキャラと交代できます。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_05 >
+一度Tagを選択すると、3チャプターの間選択できなくなりますので、ご注意ください！
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_06 >
+リーダーがダウンした時、パートナーがダウンしていなければ強制的にTagが実行されます。この場合でも、3チャプターのクールダウンが発生するのでご注意ください。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_07 >
+一定チャプターが経過すると、パートナーのHPが自動的に回復します。パートナーがダウンした場合、そのキャラのRECと同じ数のターンが経過すると復活します。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_08 >
+プレイヤープレートのパートナーの顔にマウスカーソルをあわせると、次の回復・復活がいつなのか確認できます。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_09 >
+パートナーにカード効果が付与されている場合、パートナーがフィールド上にいなければその効果の持続時間は減少しません。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_10 >
+パートナーがゲームに影響するユニット効果を持っている場合、パートナーがフィールド上にいなければその効果は有効になりません。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_11 >
+ダウンからの復活後に自身に適用される効果については、ダウンから復活後にパートナーに適用されます。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_12 >
+最強のタッグチームを作って、100おれチャンピオンを目指しましょう！
+
+< PLAYMENU_EVENT_NEXT_GOAL >
+次の目標：
+
+< PLAYMENU_EVENT_FINAL_GOAL >
+最終目標：
+
+< PLAYMENU_EVENT_DATE_MONTH >
+%d.%d
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_BEGINNING >
+オープニング
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_ENDING >
+エンディング
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_INTERLUDE >
+幕あい
+
+< PLAYMENU_EVENT_BOUNTYHUNTERS_FAME >
+名声：%d
+
+< PLAYMENU_EVENT_BOUNTYHUNTERS_RIBBON >
+ルルゥのリボンを獲得しました！
+
+< PLAYMENU_LOADING_TEXT >
+ロード中…
+
+< PLAYMENU_CONNECTING_TEXT >
+接続中…
+
+< PLAYMENU_INVENTORY_STACKING_TEXT >
+インベントリアイテムを並べています…
+
+< PLAYMENU_2MDOWNLOADS_MESSAGE >
+200万ダウンロードを祝して、新しいエクストラミッションが登場！\n今回のミオは何をするつもりのか…？
+
+< MENU_BOSS_DIFFICULTY_CASUAL >
+カジュアル
+
+< MENU_BOSS_DIFFICULTY_NORMAL >
+ノーマル
+
+< MENU_BOSS_DIFFICULTY_EXTREME >
+エクストリーム
+
+< MENU_BOSS_DIFFICULTY_HYPER >
+ハイパー
+
+
+< MENU_COOPCLASS_ATTACKER >
+アタッカー
+
+< MENU_COOPCLASS_GUARDIAN >
+ガーディアン
+
+< MENU_COOPCLASS_SUPPORT >
+サポーター
+
+< MENU_COOPCLASS_AVENGER >
+アベンジャー
+
+< MENU_COOPCLASS_DEALER >
+ディーラー
+
+< MENU_COOPUNLOCK_LEVEL >
+レベル%d： %s
+
+< MENU_COOPUNLOCK_ABILITY >
+能力： %s\n%s
+
+< MENU_COOPUNLOCK_ORANGES >
+オレンジ +%d
+
+< MENU_COOPUNLOCK_DECKPOINT >
+デッキポイント +%d
+
+< MENU_COOPUNLOCK_ROLEHYPER >
+役割ハイパー
+
+< MENU_COOPUNLOCK_NEWBOSS >
+%sとCO-OPモードで戦えるようになりました！\nロビー作成時にボス名欄の矢印をクリックすることで、ボスを切り替えられます。
+
+< MENU_COOPUNLOCK_HYPERDIFFICULTY >
+CO-OPモードで「%s」に難易度「ハイパー」で挑戦できるようになりました！
+
+< MENU_COOPUNLOCK_NEWCLASS >
+CO-OPモードで新クラス「%s」が使用可能になりました！
+
+< MENU_SHOP_RETIREDEVENTITEM >
+「%s」のイベント報酬がショップに追加されました！
+
+< MENU_WEEKLY_FREE_LABEL >
+今週のお試しキャラ
+
+< MENU_WEEKLY_FREE_TOOLTIP >
+今週はこの2キャラクターをボイス付きでお試しできます。システムボイスも利用可能です。
+
+< MENU_MODMENU_DETAIL_1 >
+説明
+
+< MENU_MODMENU_DETAIL_2 >
+更新履歴
+
+< MENU_MODMENU_DETAIL_3 >
+変更したファイル
+
+< MENU_VISIT_STEAM_WORKSHOP >
+Steam Workshop へ行く
+
+< MENU_WORKSHOP_THUMBNAIL_REQUIRED >
+MODを公開するには、カスタムサムネイルの設定が必要です。\n\n詳細は「MODマニュアル」をご覧ください。
+
+< MENU_WORKSHOP_CONTEST_UNAVAILABLE >
+このアイテムは投稿できません。\n現在開催中のコンテストがありません。
+
+< MENU_WORKSHOP_AGREEMENT_ERROR >
+このアイテムは投稿できません。\nSteamワークショップの利用規約に同意する必要があります。
+
+< MENU_WORKSHOP_PUBLISH >
+公開
+
+< MENU_WORKSHOP_WORKSHOP_BTN >
+ワークショップ
+
+< MENU_WORKSHOP_PUBLISHING >
+MODをSteamワークショップで公開する準備をしています…
+
+// The website will be below this message as a link
+< MENU_WORKSHOP_PREMESSAGE >
+SteamワークショップにてMODを公開または更新した時点で、下記のウェブページに記載された利用規約に同意したものとします。
+
+< MENU_WORKSHOP_ERROR >
+Steamワークショップからエラーが返されました。\n\n %s
+
+< MENU_WORKSHOP_ERROR_1 >
+権限がないため実行できません。
+
+< MENU_WORKSHOP_ERROR_2 >
+ワークショップへのコンテンツアップロードを禁止されています。\n詳細はSteamサポートへお問い合わせください。
+
+< MENU_WORKSHOP_ERROR_3 >
+タイムアウトしました。しばらくしてから、もう一度お試しください。
+
+< MENU_WORKSHOP_ERROR_4 >
+Steamへ接続されていません。
+
+< MENU_WORKSHOP_ERROR_5 >
+現在、ワークショップサーバーが動作していません。\nしばらくしてから、もう一度お試しください。
+
+< MENU_WORKSHOP_ERROR_6 >
+入力欄に有効でないものがあるようです。
+
+< MENU_WORKSHOP_ERROR_7 >
+容量不足のためアップロードできません。\nアップロード済みのアイテムを削除して、もう一度お試しください。
+
+< MENU_WORKSHOP_ERROR_8 >
+ファイルが見つかりませんでした。\nMODディレクトリの中の「workshop.dat」ファイルを削除して、もう一度お試しください。
+
+< MENU_WORKSHOP_ERROR_9 >
+このアイテムは投稿済みです。\n投稿済み一覧を更新してください。
+
+< MENU_WORKSHOP_ERROR_10 >
+同名のアイテムが既にあります。\nアイテムは全て異なる名前にしてください。
+
+< MENU_WORKSHOP_ERROR_11 >
+Eメールアドレス、またはパスワードを変更したため、新しいコンテンツのアップロードはできません。
+
+< MENU_WORKSHOP_ERROR_12 >
+アクセスが拒否されました。
+
+< MENU_WORKSHOP_ERROR_13 >
+不明なエラーです。
+
+< MENU_PLATE_FIRSTTIMEUNLOCK >
+プレイヤープレートがカスタマイズできるようになりました！\nこのメッセージのあと、過去のイベントやキャンペーンのクリア状況や、現在のオンラインレベルに応じて、プレート関連アイテムが解除されます。カスタマイズは「PLAYER INFO」→「アバター」画面でできます。
+
+< MENU_PREVIEW >
+プレビュー
+
+< MENU_PLATEBG_UNLOCK >
+新しいプレート背景が解除されました！
+
+< MENU_PLATEFRAME_UNLOCK >
+新しいプレート枠が解除されました！
+
+< MENU_PLATEFRAME_PIN >
+新しいプレートピンバッジが解除されました！
+
+// eg.: Online Level 200 Reward
+< MENU_PLATE_STEAMLEVEL_REWARD >
+オンラインレベル%d報酬
+
+< MENU_PLATE_EVENTCLEAR_REWARD >
+イベントクリア報酬
+
+< MENU_PLATE_CAMPAIGNCLEAR_REWARD >
+キャンペーンクリア報酬
+
+< MENU_PLATE_DLCPURCHASE_REWARD >
+DLC購入報酬
+
+< MENU_NOW_SAVING >
+セーブ中…
+
+// %% is not a typo. Keep it as is.
+< MENU_FRIENDLIST_HEADER >
+%d人のフレンドがオンラインです。%d人が100おれを遊んでいます！
+
+< MENU_FRIENDLIST_INVITE >
+フレンドを招待。
+
+< MENU_CPU_CUSTOMIZATION_BTN >
+CPUカスタマイズ
+
+< MENU_CPU_CUSTOMIZATION_TITLE >
+CPUカスタマイズ
+
+< MENU_VOCALIZER_GENERIC_CATEGORY >
+汎用
+
+< MENU_VOCALIZER_NORMAL_CATEGORY >
+通常
+
+< MENU_VOCALIZER_SPECIAL_CATEGORY >
+特殊
+
+< MENU_ENDGAME_REWARDS_DISABLED >
+ゲーム終了時の報酬が無効です。
+
+< MENU_ACHIEVEMENTS_DISABLED >
+実績解除無効
+
+< MENU_CODEX_INFO_LABEL >
+Information
+
+< MENU_CODEX_MORESOON_LABEL >
+随時更新予定！
+
+< MENU_CODEX_INSTRUCTION_1 >
+OJDexではユニットのプロフィールを確認できます。
+
+< MENU_CODEX_INSTRUCTION_2 >
+プロフィール項目を解除するには、該当ユニットで一定回数ゲームをプレイしてください。ゲームモードは任意ですが、オンラインである必要があります。過去にプレイしたオンライン・ノーマルモードの記録はプレイカウントに反映されます。
+
+< MENU_CODEX_INSTRUCTION_3 >
+ゲーム数が50回に達すると、そのユニットのプレートピンバッジを解除できます。
+
+< MENU_CODEX_INSTRUCTION_4 >
+キャラクター情報とピンバッジ、ぜひ全解除を目指してみてください！本機能のご意見・ご感想は、SteamフォーラムやDiscordでご共有ください！
+
+< MENU_CODEX_TAB_LORE >
+プロフィール
+
+< MENU_CODEX_TAB_STORIES >
+サイドストーリー
+
+< MENU_CODEX_READSTORY >
+読む
+
+< MENU_CODEXSTORY_TITLE_FAMILY >
+家族
+
+< MENU_CODEXSTORY_TITLE_CLASSCHANGE >
+クラスチェンジ
+
+< MENU_CODEXSTORY_TITLE_LULUWATTY >
+思いやり
+
+< MENU_CODEXSTORY_TITLE_CONCIERGE >
+コンシェルジュ
+
+< MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
+{1}で{0}ゲームをプレイする。
+
+< MENU_CODEXSTORY_UNLOCKCOND_2UNITS >
+{1}か{2}のいずれかで{0}ゲームをプレイする。
+
+< MENU_CODEXSTORY_UNLOCKCOND_NUNITS >
+以下のいずれかのユニットで{0}ゲームをプレイする：{1}
+
+< MENU_CODEXSTORY_UNLOCKCOND_EVENT >
+『{0}』イベントをクリアする。
+
+< MENU_CODEXSTORY_UNLOCKCOND_HATS_1UNIT >
+{0}のアクサセリーか髪色を解除する
+
+< MENU_CODEXSTORY_UNLOCKCOND_HATS_NUNITS >
+以下のいずれかのユニットのアクサセリーか髪色を解除する：{0}
+
+< MENU_NORMABOARD >
+ノルマアップグレード
+
+< MENU_HIDE_UI >
+UIを非表示
+
+< MENU_SHOW_UI >
+UIを表示
+
+< MENU_CARDBACK_UNLOCK >
+新しいカード裏面デザインが解除されました！
+
+< MENU_CHAPTER_LABEL >
+チャプター
+
+< MENU_UNAVAILABLE_LABEL >
+現在利用不可
+
+< MENU_DIRECT_TO_SHOP_BUY_CARD >
+ゲームで獲得したスターを使ってショップでカードのブースターパックを購入できます！
+
+< MENU_HOLD_CLICK_SPEEDUP >
+左クリック長押しでスピードアップ
+
+[EOF]

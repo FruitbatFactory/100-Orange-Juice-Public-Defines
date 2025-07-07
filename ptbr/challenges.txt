@@ -1,0 +1,107 @@
+< CHALLENGE_TOOLTIP_REROLL >
+Pague %d estrelas para rerolar para outro desafio desse tipo.
+
+< CHALLENGE_TOOLTIP_STARCOUNT >
+Estrelas no momento: %d
+
+< CHALLENGE_GENERIC_PLAYS >
+Jogue %d jogos.
+
+< CHALLENGE_GENERIC_WINS >
+Vença %d jogo.
+
+< CHALLENGE_GENERIC_STARS >
+Colete %d estrelas de jogos concluídos.
+
+< CHALLENGE_GENERIC_KOS >
+Consiga %d vitórias de jogos concluídos.
+
+< CHALLENGE_GENERIC_STAR_WINS >
+Ganhe %d jogo com Norma de Estrela.
+
+< CHALLENGE_GENERIC_KO_WINS >
+Ganhe %d jogo com Norma de Vitória.
+
+< CHALLENGE_GENERIC_PANELS >
+Viaje %d painéis em jogos concluídos.
+
+< CHALLENGE_GENERIC_TRAPS >
+Posicione %d armadilhas em jogos concluídos.
+
+< CHALLENGE_GENERIC_STAR_NORMAS >
+Complete %d normas de estrela em jogos concluídos.
+
+< CHALLENGE_GENERIC_WIN_NORMAS >
+Complete %d normas de vitória em jogos concluídos.
+
+< CHALLENGE_GENERIC_DAMAGE_DEALT >
+Desfira %d de dano em jogos concluídos.
+
+< CHALLENGE_GENERIC_HEALING >
+Cure %d de HP em jogos concluídos.
+
+< CHALLENGE_GENERIC_PLAY_BOOST >
+Jogue %d cartas de Boost em jogos concluídos.
+
+< CHALLENGE_GENERIC_PLAY_EVENT >
+Jogue %d cartas de Evento em jogos concluídos.
+
+< CHALLENGE_GENERIC_PLAY_BATTLE >
+Jogue %d cartas de Batalha em jogos concluídos.
+
+< CHALLENGE_UNIT_PLAYS >
+Jogue %d jogos como %s.
+
+< CHALLENGE_UNIT2_PLAYS >
+Jogue %d jogos como %s ou %s.
+
+< CHALLENGE_UNIT_WINS >
+Vença %d jogo como %s.
+
+< CHALLENGE_TYPE_UNIT_STAR_NORMAS >
+Complete %d normas de estrela como %s.
+
+< CHALLENGE_TYPE_UNIT_WIN_NORMAS >
+Complete %d normas de vitória como %s.
+
+< CHALLENGE_CARD_BRING >
+Traga pelo menos uma %s para %d jogos.
+
+< CHALLENGE_CARD_PLAY >
+Jogue %s %d vezes em jogos concluídos.
+
+< CHALLENGE_CARD2_BRING >
+Traga pelo menos uma %s ou %s para %d jogos.
+
+< CHALLENGE_CARD2_PLAY >
+Jogue %s ou %s %d vezes em jogos concluídos.
+
+< CHALLENGE_MAP_PLAY >
+Jogue %d jogo em %s.
+
+< CHALLENGE_MAP2_PLAY >
+Jogue %d jogo em %s ou %s.
+
+< CHALLENGE_TYPE_EVENT_VDAY_CHOCOLATE >
+Use o dado de chocolate para nocautear %d jogadores.
+
+< CHALLENGE_TYPE_EVENT_VDAY_HEARTS >
+Use o dado de coração para coletar %d estrelas de painéis bônus.
+
+< CHALLENGE_TYPE_EVENT_XMAS_ICE >
+Deslize sobre %d painéis de gelo.
+
+< CHALLENGE_LABEL_CURRENT >
+Desafios Atuais
+
+< CHALLENGE_MESSAGE_EVENT_NOT_LOADED >
+Por favor espere, buscando o status atual do evento...
+
+< CHALLENGE_MESSAGE_DAYS >
+d
+
+< CHALLENGE_MESSAGE_REROLL_CONFIRM >
+Você tem certeza que deseja rerolar esse desafio?
+
+[EOF]
+

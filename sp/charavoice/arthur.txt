@@ -1,0 +1,173 @@
+<0117> Tomalo desde aquí, ¿de acuerdo?
+<0118> Gracias.
+<0119> Encárgate del resto.
+<0120> Dependo de ti.
+
+<0000> Muy bien.
+<0001> ¿Qué recibiré?
+<0002> Aquí voy.
+<0003> Dame un buen tiro.
+<0004> Simplemente usaré esta.
+<0005> Es hora de usar una carta.
+<0006> Tornearé las mesas.
+<0007> Voy a usar esto.
+<0008> Hora de las trampas.
+<0009> Colocaré esto aquí.
+<0010> Supongo que este es un buen lugar.
+<0011> Aquí, una trampa.
+<0012> Sé que es infantil hacer esto, pero...
+<0013> No habrá hueso que enterrar.
+<0014> Te derribaré.
+<0015> Yo te acabaré.
+<0016> ¡Por el futuro de mi tienda de juguetes!
+<0017> Ugh...
+<0018> No puedo perder el tiempo durmiendo.
+<0019> Compensaré el tiempo perdido.
+<0020> Al fin...
+<0021> Demonios...
+<0022> Mierda...
+<0023> Soy una decepción.
+<0024> La edad no está jugando a mi favor.
+<0025> ¡Hah!
+<0026> ¡Húndete!
+<0027> ¡Te destrozaré!
+<0028> ¡Urah!
+<0029> Gah.
+<0030> Ugh.
+<0031> Nuh.
+<0032> Ow.
+<0033> Phew...
+<0034> Las heridas se han ido.
+<0035> Bien, puedo seguir.
+<0036> ¡El juego continúa!
+<0037> Hmm.
+<0038> ¿A dónde me llevan?
+<0039> ¿En dónde estoy?
+<0040> ¿Estoy siendo transportado?
+<0041> Me siento miserable.
+<0042> Tsk.
+<0043> Pude haberlo hecho mejor.
+<0044> Ah...
+<0045> ¡Pelea contra mí!
+<0046> Vamos a trabajar.
+<0047> ¿Estás desafiándome?
+<0048> ¿Ya terminaste de preparar tu derrota?
+<0049> ¡Fuera de mi camino!
+<0050> Supongo que pelear será la única opción.
+<0051> Si algo sucede, no tendré la culpa.
+<0052> Pagarás por esto.
+<0053> ¡Dah!
+<0054> ¡Toma esto!
+<0055> ¡Hah!
+<0056> Vas a caer.
+<0057> Oww.
+<0058> Guh.
+<0059> Lo haces bien..
+<0060> Ugh.
+<0061> ¿Pero qué...?
+<0062> Eres mejor de lo que imaginé.
+<0063> Estoy impresionado.
+<0064> ¡Guoooh!
+<0065> Eso no me alcanzará.
+<0066> No es lo suficientemente bueno.
+<0067> Hmph.
+<0068> ¿A dónde estabas apuntando?
+<0069> Debo ganar.
+<0070> No puedo perder.
+<0071> Puedes quedarte a dormir por aquí.
+<0072> Perdedor.
+<0073> No de esta forma...
+<0074> Hijo de...
+<0075> Tienes que estar bromeando...
+<0076> ......
+<0077> Más.
+<0078> Tengo que conseguir más de estas.
+<0079> Dame muchas más.
+<0080> Necesito juntar más de estas.
+<0081> No puedo perder ninguna de estas.
+<0082> Se cayeron fuera de mis manos.
+<0083> Mis estrellas.
+<0084> Demonios.
+<0085> ¡Ah rayos!
+<0086> Caí en la trampa de alguien.
+<0087> Una trampa, ¿eh?
+<0088> Algo acaba de ocurrir.
+<0089> Ese tipo parece ser duro.
+<0090> Deja que los adultos se encarguen de esto.
+<0091> Esto será un poco difícil.
+<0092> Aquí viene el villano.
+<0093> Iré por estrellas.
+<0094> Escogeré estrellas.
+<0095> En fin, juntaré algunas de estas.
+<0096> Lo que necesito son estrellas.
+<0097> Parece que tendré que quitar a algunas personas fuera de mi camino.
+<0098> Los derribaré a todos.
+<0099> Derrotaré hasta el último de mis oponentes.
+<0100> Los derrotaré a todos y a cada uno.
+<0101> Arturo aquí.
+<0102> Por el bien del futuro.
+<0103> Tendré mis manos sobre la victoria.
+<0104> Hagamos esto juntos.
+<0105> Así que ha comenzado.
+<0106> Muy bien...
+<0107> Es la hora de trabajar.
+<0108> Está bien, vamos.
+<0109> Parece que he ganado.
+<0110> Hmph, eso fue fácil.
+<0111> Esto marca un paso adelante sobre mi brillante futuro.
+<0112> Supongo que ahora debería abrir la tienda.
+<0113> Tenemos lo mejor de lo mejor en el repertorio.
+<0114> Es un nuevo producto.
+<0115> Tómalo.
+<0116> Es un buen objeto.
+<0121> Okay.
+<0122> Bien.
+<0123> Claro...
+<0124> No.
+<0125> ¿Qué...?
+<0126> Tienes suerte.
+<0127> ¿Hmm?
+<0128> Vamos.
+<0129> Tirando los dados.
+<0130> Aquí vamos.
+<0131> Oh, eres tú.
+<0132> Hmph...
+<0133> Bien.
+<0134> Buen trabajo.
+<0135> Oh mierda.
+<0136> No es como si hiciera esto seguido.
+<0137> Tomaré esto prestado.
+<0138> Permíteme usar esto.
+<0139> Me gusta esto.
+<0140> Tienes mi gratitud.
+<0141> Santa...
+<0142> Eres tú, eh...
+<0143> Parece que soy el ganador esta vez.
+<0144> Tenía el presentimiento de que perdería.
+<0145> Nico.
+<0146> ¿Estás pasando por una fase de rebeldía?
+<0147> Se una niña buena y quédate aquí, ¿está bien?
+<0148> Ugh, has crecido.
+<0149> ¿Es eso un muñeco...? ¿Supongo que no?
+<0150> Es la hora de trabajar.
+<0151> Pequeña niña, ¿te gustan los juguetes?
+<0152> ¿Por qué... estás aquí...?
+<0153> Ya era la hora de este evento.
+<0154> Es la mejor epoca del año para mi negocio.
+<0155> Hoy será un día con mucho trabajo.
+<0156> Muy bien, ayudaré a entregar los regalos.
+<0157> Pequeña niña, tenemos muchos juguetes en mi tienda.
+<0158> ¿Acaso mis juguetes han llamado a tu atención, pequeña niña?
+<0159> Ven y compra en la tienda de pasatiempos Rbit.
+<0160> Ugh... te conseguiré un cupón por 30% de descuento.
+<0161> Bienvenido.
+<0162> ¿Quieres jugar aquí?
+<0163> Hmph.
+<0164> Bueno, así es como debería ser.
+<0165> Eso es muy bueno.
+<0166> No está mal.
+<0167> Anímate. Esa es una edición limitada. Cuida bien de él.
+<0168> Se acabó tu suerte. Ten, toma.
+<0169> Pe-pero qué...
+<0170> Tienes demasiada suerte.
+<0171> ¡Feliz navidad!

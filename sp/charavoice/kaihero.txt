@@ -1,0 +1,162 @@
+<0000> Está bien, haré esto...
+<0001> Hmph.
+<0002> Okay.
+<0003> Aquí tienes.
+<0004> ¿A lo mejor esto funcionará?
+<0005> Supongo que iré con esto.
+<0006> Oh vaya.
+<0007> Escojo esta carta.
+<0008> Mira lo astuto que soy ahora.
+<0009> Este es el verdadero significado de bricolaje.
+<0010> Aquí tienes. Estoy orgulloso de esto.
+<0011> Dejaré una trampa para ratones aquí.
+<0012> Haré que esta batalla sea más fácil para mí.
+<0013> Solo para que no me sienta más cansado.
+<0014> Será mejor que te prepares, porque no mostraré piedad.
+<0015> Acabaré contigo.
+<0016> No hagas que un adulto se esfuerce tanto, ¿sí?
+<0017> ¿Acaso debo seguir trabajando?
+<0018> No tengo la ventaja en esta partida, pero...
+<0019> Aún tengo asuntos pendientes que terminar.
+<0020> Parece que mi descanso ha acabado...
+<0021> No ser joven apesta.
+<0022> Oww... Supongo que necesito descansar aún más.
+<0023> Aún sigo cansado...
+<0024> Pensé que sería mejor esta vez.
+<0025> Hagámoslo, supongo.
+<0026> Espero que pueda hacerte daño.
+<0027> No quiero hacer ejercicios intensos.
+<0028> Hagámoslo.
+<0029> Guah.
+<0030> Eso fue muy efectivo.
+<0031> Ouch.
+<0032> Ah, por favor.
+<0033> Esto es de gran ayuda.
+<0034> Esto es... simplemente fantástico.
+<0035> Estupendo.
+<0036> Phew, me siento tan agradecido.
+<0037> Ugh.
+<0038> ¿A dónde me llevan?
+<0039> Lo único que puedo hacer es seguir la corriente.
+<0040> Creo que me estoy mareando un poco.
+<0041> Ugh, estoy acabado...
+<0042> Metí la pata.
+<0043> Supongo que eso fue todo.
+<0044> Puedo haber perdido un poco el toque.
+<0045> Haré el primer movimiento.
+<0046> Permíteme tomar la iniciativa.
+<0047> Iré primero.
+<0048> Te mostraré como un adulto pelea.
+<0049> Vamos, dame un respiro.
+<0050> No haría esto si fuera tú.
+<0051> Mira en dónde estoy.
+<0052> Ya, ya, cálmate.
+<0053> Toma eso.
+<0054> Estoy a punto de aplastarte.
+<0055> Quiero hacer esto rápido.
+<0056> No lo haré fácil.
+<0057> Ya basta.
+<0058> Argh.
+<0059> Hombre.
+<0060> ¿Pero qué...?
+<0061> ¡Al diablo con esto...!
+<0062> Decir que es "doloroso" no es suficiente.
+<0063> Esto es de lo peor.
+<0064> Eso es mucho más de lo que puedo recibir.
+<0065> Acabo de sentir que alguien caminaba sobre mi tumba.
+<0066> Podrías practicar un poco más en tu puntería.
+<0067> ¡¿Qué habrías hecho si eso me hubiera dado?!
+<0068> Vaya, eso estuvo cerca.
+<0069> Apenas conseguí lograrlo... supongo.
+<0070> Logré sobrevivir esta partida.
+<0071> Ugh... Ahora me siento tan cansado.
+<0072> Lo logré, de alguna forma.
+<0073> Estoy siendo tan poco genial...
+<0074> Vaya que metí la pata.
+<0075> Demonios...
+<0076> No puedo creer que haya perdido.
+<0077> ¿Un beneficio especial?
+<0078> El negocio está explotando.
+<0079> Hablando de suerte.
+<0080> Estoy agradecido por esto.
+<0081> Qué triste.
+<0082> ¡Mis estrellas!
+<0083> Espera.
+<0084> Debes estar bromeando.
+<0085> Qué, ¿acaso me veo como un idiota?
+<0086> *Tsk.*
+<0087> Oh, cielos, no no no.
+<0088> Eso es muy astuto.
+<0089> Aquí tenemos algo muy alocado.
+<0090> Aquí viene.
+<0091> Esto será un poco peligroso.
+<0092> El bastardo ha llegado.
+<0093> Si consigo hacer esto, seré rico.
+<0094> Soy un planificador financiero estrella.
+<0095> La paz es lo que más me gusta.
+<0096> Sé perfectamente lo valioso que esas estrellas pueden ser.
+<0097> Observa como los adultos pelean.
+<0098> Odiaría hacerle daño a los demás, pero...
+<0099> Haremos que esto sea simple.
+<0100> Adelante.
+<0101> Hola, cuanto tiempo sin vernos.
+<0102> ¿Acaso estoy a punto de ir ahí?
+<0103> Deberíamos trabajar un poco de vez en cuando, supongo.
+<0104> Okay, puedes contar conmigo.
+<0105> Podemos hacer esto.
+<0106> Muy bien, vamos a disfrutar de esta partida.
+<0107> Estoy más que preparado para esto.
+<0108> Haré esto con una cantidad mínima de esfuerzo.
+<0109> Una victoria rápida es la forma en la que un adulto gana.
+<0110> Puede que me haya excedido un poco.
+<0111> Bueno, esto es lo que consigo cuando me esfuerzo un poco.
+<0112> Esa fue una gran victoria, ¿no lo crees?
+<0113> ¿Acaso nos ayudará a ganar?
+<0114> Tu expresión me dice que has obtenido algo bueno.
+<0115> Genial, eso es algo fantástico.
+<0116> Apuesto a que eso será de ayuda.
+<0117> Es hora de cambiar nuestras posiciones.
+<0118> Vamos a cambiar ahora.
+<0119> Es tu turno de seguir.
+<0120> En el momento perfecto.
+<0121> Claro.
+<0122> Creo que está bien.
+<0123> Lo tengo.
+<0124> Paso.
+<0125> Jaah.
+<0126> Diría que esto es muy afortunado.
+<0127> ¿Qué es lo que ocurre?
+<0128> Vamos.
+<0129> Tirando los dados.
+<0130> Tú puedes hacerlo.
+<0131> ¡Yo!
+<0132> Hmm.
+<0133> Eso es genial.
+<0134> Bien hecho.
+<0135> No puedo seguir en este estado.
+<0136> Déjame usar esto.
+<0137> Vaya, mira esto.
+<0138> Parece que esta carta contiene un poder increíble.
+<0139> Esta carta se ve bien para mí.
+<0140> Gracias.
+<0141> Esto es lo que un adulto puede hacer.
+<0142> No puedo perder esta vez, aunque signifique que deba morir.
+<0143> ¿No es genial?
+<0144> Realmente me estoy esforzando esta vez.
+<0145> Estaría acabado si eso me hubiera dado.
+<0146> Fácil de esquivar.
+<0147> No puedes darme.
+<0148> Esta es la definición de estilo adulto.
+<0149> Ven a jugar con Papá, Ellie.
+<0150> ¿Has venido a jugar con Papá?
+<0151> Has crecido bien. Papá está orgulloso.
+<0152> Oh vaya... Pareces ser muy dotada, Ellie.
+<0153> Nunca hubiera pensado que pelearíamos.
+<0154> ¿Quieres luchar contra mí como en los viejos tiempos?
+<0155> Detesto ser derrotado por ti.
+<0156> Rayos, ella me venció.
+<0157> Supongo que formaré un equipo contigo.
+<0158> Poppo, vamos a mostrarles de lo que somos capaces.
+<0159> Ellie, ¿quieres formar un equipo con papá?
+<0160> Ellie, déjame ver lo mucho que has crecido.
+

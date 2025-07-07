@@ -1,0 +1,106 @@
+< ITEMDEF_PET_DISPLAY_TYPE > 
+宠物
+
+< ITEMDEF_TOKEN_DISPLAY_TYPE > 
+街机代币
+
+
+
+
+< RARITY_COMMON >
+普通
+
+< RARITY_UNCOMMON >
+罕见
+
+< RARITY_RARE >
+稀有
+
+< RARITY_SUPER_RARE >
+超级稀有
+
+< PET_SELECT_NOPET >
+不使用宠物
+
+
+< ARCADE_ORANGE_GET >
+你获得了橙子！
+
+< ARCADE_PET_GET >
+获得了宠物！
+
+< ARCADE_COMMON_GET >
+你获得了普通物品！
+
+< ARCADE_NEW_PET_COLOR >
+获得了宠物的新颜色！
+
+< ARCADE_PLAY>
+开始
+
+< ARCADE_EXCHANGE >
+交换
+
+< ARCADE_LOADING >
+读取中……
+
+
+< ARCADE_EXCHANGE_NOPET >
+没有选择宠物。
+
+< ARCADE_EXCHANGE_CONFIRM >
+要交换这个宠物吗？
+
+< ARCADE_ERROR_STEAM >
+你没有连接到Steam。
+
+< ARCADE_ERROR_MISC >
+错误。请稍后再试。
+
+< ARCADE_ERROR_TOKEN_COUNT >
+你没有足够的代币。
+
+< ARCADE_ERROR_EXCHANGE_QUANTITY >
+没有足够的宠物可以用于交换。
+
+< ARCADE_ERROR_TIMEOUT >
+超时。请稍后再试。
+
+< ARCADE_TOOLTIP_PETCATCHER >
+使用3枚代币来获取1只宠物或普通物品！
+
+< ARCADE_TOOLTIP_EXCHANGE >
+使用2只从抓宠物机获得的相同宠物来换取1只新颜色的！
+
+< ARCADE_TOOLTIP_EMOTES >
+获取新的聊天表情！
+
+< ARCADE_TOOLTIP_CONSUMABLES >
+购买能在游戏中使用的物品！
+
+< ARCADE_TOOLTIP_GAMEMACHINE >
+玩过去加入的小游戏！
+
+< ARCADE_MACHINE_PETCATCHER >
+抓宠物机
+
+< ARCADE_MACHINE_SUMMER >
+夏日抓宠物机
+
+< ARCADE_MACHINE_BOUNTYHUNT >
+赏金猎人抓宠物机
+
+< ARCADE_MACHINE_EXCHANGE >
+宠物交换
+
+< ARCADE_MACHINE_EMOTES >
+表情扭蛋机
+
+< ARCADE_MACHINE_CONSUMABLES >
+自动售货机
+
+< ARCADE_MACHINE_BUILD_A_CASTLE >
+搭建城堡
+
+< ARCADE_MACHINE_SCHOOL_CRASHERS >
+校园撞机

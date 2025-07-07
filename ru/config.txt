@@ -1,0 +1,231 @@
+
+< CONFIG_LABEL_SYSTEM >
+Основные
+
+< CONFIG_LABEL_SCREEN >
+Видео
+
+< CONFIG_LABEL_SOUND >
+Аудио
+
+< CONFIG_LABEL_VOICE >
+Голос
+
+< CONFIG_LABEL_MODS >
+Модификации
+
+< CONFIG_ENABLE >
+Вкл.
+
+< CONFIG_DISABLE >
+Выкл.
+
+< CONFIG_SHOW >
+Показать
+
+< CONFIG_HIDE >
+Скрыть
+
+< CONFIG_SYSTEM_GAMESPEED_LABEL >
+Скорость игры
+
+< CONFIG_SYSTEM_GAMESPEED_SLOW >
+Медленная
+
+< CONFIG_SYSTEM_GAMESPEED_NORMAL >
+Обычная
+
+< CONFIG_SYSTEM_GAMESPEED_FAST >
+Быстрая
+
+< CONFIG_SYSTEM_GAMESPEED_SUPERFAST >
+Супербыстрая
+
+< CONFIG_SYSTEM_STREAMERMODE_HEADER >
+Режим стримера
+
+< CONFIG_SYSTEM_STREAMERMODE_USERNAMES >
+Никнейм
+
+< CONFIG_SYSTEM_STREAMERMODE_LOBBYNAMES >
+Название лобби
+
+< CONFIG_SYSTEM_CPU_LABEL >
+Персонажи-боты
+
+< CONFIG_SYSTEM_CPU_RANDOM >
+Случайные
+
+< CONFIG_SYSTEM_CPU_UNIQUE >
+Уникальные
+
+< CONFIG_SYSTEM_PROFANITYFILTER >
+Фильтр чата
+
+< CONFIG_SYSTEM_RICH_PRESENCE >
+Расширенный статус для Steam и Discord
+
+< CONFIG_SYSTEM_CPU_COSMETICS >
+Случайные украшения у ботов (только для хоста)
+
+< CONFIG_SYSTEM_ALT_MINIGAME_CONTROLS >
+Использовать альтернативного управления в мини играх.
+
+< CONFIG_SYSTEM_REDUCED_CLICKS >
+Меньше кликов мышкой
+
+< CONFIG_SYSTEM_MOVEMENT_ANIMATION_SPEED >
+Скорость анимации движения
+
+< CONFIG_SYSTEM_MOVEMENT_ANIMATION_SPEED_LABEL >
+Скорость
+
+< CONFIG_SYSTEM_FIELD_LUMINOSITY >
+Яркость фона поля
+
+< CONFIG_SYSTEM_FIELD_LUMINOSITY_LABEL >
+Яркость
+
+< CONFIG_SYSTEM_TAUNTS >
+Насмешки
+
+< CONFIG_SYSTEM_PLAYERINFO >
+Информация о игроке.
+
+< CONFIG_SYSTEM_PLAYERINFO_PLAYERSTAT_LABEL >
+Статистика игрока.
+
+< CONFIG_SYSTEM_PLAYERINFO_PLAYERSTAT_SHOWALL >
+Показывать всё.
+
+< CONFIG_SYSTEM_PLAYERINFO_PLAYERSTAT_SHOWLEVELONLY >
+Показывать только ЛВЛ.
+
+< CONFIG_SYSTEM_PLAYERINFO_PLAYERSTAT_SHOWWINSONLY >
+Показывать только победы.
+
+< CONFIG_SYSTEM_PLAYERINFO_PLAYERSTAT_HIDEALL >
+Скрыть всё.
+
+< CONFIG_SCREEN_SCREENMODE_LABEL >
+Режим окна
+
+< CONFIG_SCREEN_SCREENMODE_FULLSCREEN >
+Полный экран
+
+< CONFIG_SCREEN_SCREENMODE_WINDOWED >
+Оконный режим
+
+< CONFIG_SCREEN_SCREENMODE_BORDERLESS >
+Окно без рамки
+
+< CONFIG_SCREEN_FULLCOLORSCREEN_LABEL >
+Все цвета
+
+< CONFIG_SCREEN_FULLCOLORTEXTURES_LABEL >
+Полноцветные текстуры
+
+< CONFIG_SCREEN_BACKGROUNDANIMATION_LABEL >
+Скорость анимации фона
+
+< CONFIG_SCREEN_LANGUAGE_LABEL >
+Язык
+
+< CONFIG_SCREEN_RESOLUTION_LABEL >
+Разрешение
+
+< CONFIG_SCREEN_ENABLERESIZE_LABEL >
+Разрешить изменение размера окна
+
+< CONFIG_SCREEN_RESETWINDOWSIZE>
+Размер окна по\n   умолчанию
+
+< CONFIG_SCREEN_RESTARTNOTICE >
+Некоторым опциям нужен перезапуск игры.
+
+< CONFIG_SOUND_SOUNDVOLUME_LABEL >
+Громкость
+
+< CONFIG_SOUND_SOUNDVOLUME_MASTER >
+Общая громкость
+
+< CONFIG_SOUND_SOUNDVOLUME_MUSIC >
+Музыка
+
+< CONFIG_SOUND_SOUNDVOLUME_EFFECT >
+Звуки
+
+< CONFIG_SOUND_SOUNDVOLUME_VOICE >
+Голос меню
+
+< CONFIG_SOUND_SYSTEMSOUND_LABEL >
+Звуки меню
+
+< CONFIG_SOUND_SYSTEMSOUND_A >
+Тип А
+
+< CONFIG_SOUND_SYSTEMSOUND_B >
+Тип Б
+
+< CONFIG_SOUND_SYSTEMSOUND_C >
+Тип В
+
+< CONFIG_SOUND_SYSTEMSOUND_D >
+Тип Г
+
+< CONFIG_SOUND_SYSTEMSOUND_VA >
+(Озвучка : %s)
+
+< CONFIG_SOUND_FOCUSMUTE_LABEL >
+Глушить игру, если она неактивна
+
+< CONFIG_VOICE_CHARACTER_VOLUME >
+Громкость персонажа
+
+< CONFIG_SOUND_SOUNDVOLUME_CHARACTERVOICE >
+Все голоса
+
+< CONFIG_VOICE_CHARACTER_ONLYME >
+Озвучка только моего персонажа
+
+< CONFIG_VOICE_DISPLAY_TEXT >
+Показывать текст
+
+< CONFIG_VOICE_AVOID_OVERLAP >
+Не перебивать голоса
+
+< CONFIG_MODS_MODLIST_HEADER >
+Список модификаций — %d установлено.
+
+< CONFIG_MODS_MODLIST_AUTHOR >
+Создано: %s
+
+< CONFIG_MODS_MODLIST_DOCUMENTATION >
+Онлайн Документация
+
+< CONFIG_MODS_NONE >
+Моды не установлены.
+
+< CONFIG_MODS_STEAMWORKSHOP >
+Псоетите Мастерскую Steam
+
+< CONFIG_SCREEN_VISUAL_ACCESSIBILITY >
+Визуальная доступность
+
+< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_NONE >
+Отсутствует
+
+< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_PROTANOPIA >
+Протанопия
+
+< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_DEUTERANOPIA >
+Дейтеранопия
+
+< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_TRITANOPIA >
+Тританопия
+
+< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_INTENSITY >
+Интенсивность
+
+[EOF]
+

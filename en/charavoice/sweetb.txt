@@ -1,0 +1,161 @@
+<0000> It's time to roll the dice.
+<0001> Eeey.
+<0002> Show me a good number.
+<0003> Here I go.
+<0004> It's time for a card.
+<0005> This will turn the tables.
+<0006> So I can get an advantage...
+<0007> I'm going to play a card.
+<0008> It's time for a trap.
+<0009> I'm setting a trap here.
+<0010> I know that as a god I shouldn't be acting sneaky, but...
+<0011> All for victory.
+<0012> It's time for a battle card.
+<0013> I'll aim for a come-from-behind victory.
+<0014> I'll triumph.
+<0015> I use everything I can use to win.
+<0016> Melt like chocolate.
+<0017> I've been revived.
+<0018> Let's start over.
+<0019> Phew... Breaktime is over.
+<0020> Now, I'm ready to go again.
+<0021> How disappointing of me.
+<0022> I'm not ready to get up just yet.
+<0023> I'm ashamed of myself.
+<0024> I have to get revived now.
+<0025> It's time for an attack.
+<0026> I won't show mercy to you.
+<0027> I'm attacking you.
+<0028> Take that.
+<0029> Mhm.
+<0030> You...
+<0031> Ugh.
+<0032> Oh, shoot.
+<0033> It's time for a heal.
+<0034> Let the wounds be treated.
+<0035> I don't have time to lay down.
+<0036> I need to fire myself up again.
+<0037> I'm warping.
+<0038> It doesn't matter where I'll end up.
+<0039> Where am I?
+<0040> I feel dizzy.
+<0041> I could have done better...
+<0042> This is dreadful.
+<0043> I got defeated.
+<0044> I have to recover quickly.
+<0045> It's time for a battle.
+<0046> I'm challenging you.
+<0047> I'm sorry, but you're in my way.
+<0048> I'll end you.
+<0049> You challenge me?
+<0050> How reckless of you.
+<0051> Very well. I accept your challenge.
+<0052> Come at me.
+<0053> I won't be gentle.
+<0054> Break!
+<0055> Be gone.
+<0056> Ey.
+<0057> Ugh.
+<0058> Arrgh.
+<0059> Did that hit me?
+<0060> That was nothing...!
+<0061> How powerful...
+<0062> That was a great deal of damage.
+<0063> Not a great turn of events...
+<0064> I'll be doomed if it goes on like this...
+<0065> I'll dodge it.
+<0066> Evasion.
+<0067> I won't get hit.
+<0068> That will be evaded.
+<0069> This is only natural.
+<0070> It's my victory.
+<0071> I won.
+<0072> Easy as pie.
+<0073> I lost...
+<0074> This can't be.
+<0075> I accept defeat.
+<0076> I might have underestimated you.
+<0077> That makes my day.
+<0078> These stars are mine.
+<0079> Bonus has been gained.
+<0080> I've gotten stars.
+<0081> I've dropped some.
+<0082> I have to gather them again.
+<0083> Oh, no...
+<0084> Ah, my stars.
+<0085> I'm disappointed at myself for falling for that.
+<0086> How careless of me.
+<0087> A trap...?
+<0088> Ugh, that was one tricky trap.
+<0089> I sense a greater power.
+<0090> So, it's finally here.
+<0091> Warm-up time is over now.
+<0092> I can't let that thing overwhelm me.
+<0093> Star norma it is.
+<0094> I'm going to gather stars.
+<0095> I'm rather fond of stars.
+<0096> I'd rather do this, because stars are pretty.
+<0097> Let us go fighting.
+<0098> Fools must be punished.
+<0099> No one can get in my way.
+<0100> I'll fight anyone if I must.
+<0101> I am Sweet Breaker.
+<0102> My real name? What good does knowing that do you?
+<0103> Would you like to go with me?
+<0104> Very well.
+<0105> And so it has begun.
+<0106> It started.
+<0107> Let us do this.
+<0108> All right then...
+<0109> I'm victorious.
+<0110> This was a given.
+<0111> An unsurprising result.
+<0112> I look happy...? No, I'm not.
+<0113> We've gained an item.
+<0114> Please receive it.
+<0115> Good for you.
+<0116> Does that please you?
+<0117> It's substitute time.
+<0118> I need you to go out there, please.
+<0119> We'll change places.
+<0120> This is where we switch.
+<0121> That's okay.
+<0122> That's good.
+<0123> Yes.
+<0124> No.
+<0125> Oh, my...
+<0126> You're in luck.
+<0127> Mhm.
+<0128> Now, let's go.
+<0129> I'm going to roll the dice.
+<0130> Let's go, shall we?
+<0131> Hi.
+<0132> Mhm.
+<0133> That's good.
+<0134> That's extremely good.
+<0135> I'm speechless.
+<0136> I think I'll play this.
+<0137> This card... How did it end up in my hand?
+<0138> I'm going to try using this.
+<0139> I don't know what this is capable of, but I guess I'll just play it.
+<0140> My real name? It's... Amami.
+<0141> Sweet Guardian, we fight again.
+<0142> Sweet Guardian... Not you again.
+<0143> I'm the winner this time.
+<0144> Ugh, you're very good.
+<0145> You're... Sweet Blogger.
+<0146> I didn't expect you to challenge me, Sweet Blogger.
+<0147> All your posts about sweets... Please treasure them.
+<0148> How can a blogger have this much strength?
+<0149> Sweet Maker...!
+<0150> I never even imagined fighting you. 
+<0151> The sweets you make... Don't make me destroy them.
+<0152> So, you defeated me... Great work, Sweet Maker.
+<0153> Now I'm against a guardian.
+<0154> I know you're also called a god.
+<0155> Your power was noble and beautiful.
+<0156> Maybe guardians are nemeses to me...
+<0157> Pudding... I just don't know what to say about it.
+<0158> How did this pudding get to me?
+<0159> What's the meaning of this...? Am I being tested?
+<0160> Should I forgive pudding?

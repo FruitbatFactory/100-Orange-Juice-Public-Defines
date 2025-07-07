@@ -1,0 +1,215 @@
+< CARD_BOUNTY_TURNISLIME_HUNT >
+name=蕪萊姆
+descr=蕪萊姆在戰鬥時會使你ATK-1。\n當你在戰鬥開始時擁有2點或以上的ATK，\n額外ATK-1。
+flavor=
+
+< CARD_BOUNTY_TROLLITE_HUNT >
+name=小巨魔
+descr=戰鬥每經過1回合，小巨魔ATK-1。
+flavor=
+
+< CARD_BOUNTY_MOUSSE_HUNT >
+name=嘮鼠
+descr=嘮鼠每次造成傷害都能偷取等級數的STAR。
+flavor=
+
+< CARD_BOUNTY_STRANGEMOUSSE_HUNT >
+name=青檸嘮鼠
+descr=青檸嘮鼠每次造成傷害都能偷取等級數\n的STAR。
+flavor=
+
+< CARD_BOUNTY_POWERMOUSSE_HUNT >
+name=草莓嘮鼠
+descr=草莓嘮鼠每次造成傷害都能偷取等級數\n的STAR。
+flavor=
+
+< CARD_BOUNTY_DOLL_HUNT >
+name=詛咒人偶
+descr=詛咒人偶在每回合結束時都會嚇掉你1點HP。
+flavor=
+
+< CARD_BOUNTY_HELISEED_HUNT >
+name=直升種
+descr=如果在3回合內沒有擊敗直升種，\n戰鬥將會結束。
+flavor=
+
+< CARD_BOUNTY_BLIZARD_HUNT >
+name=兔蜥
+descr=兔蜥在每回合結束時隨機獲得1點ATK、DEF\n或EVD。
+flavor=
+
+< CARD_BOUNTY_WOLLY_HUNT >
+name=絨絨
+descr=絨絨在受到傷害時，額外受到1點傷害。
+
+< CARD_BOUNTY_TERRAWYRMER_HUNT >
+name=潛地蛟
+descr=一次受到3點及以上傷害時，\n潛地蛟ATK·DEF+1、EVD-1，\n直到戰鬥結束。\n此效果可疊加。
+
+< CARD_BOUNTY_RUFFSHROOM_HUNT >
+name=杏鮑狗
+descr=杏鮑狗被擊敗時，你獲得2點HP。
+
+< CARD_BOUNTY_GOST_HUNT >
+name=阿鬼
+descr=你的每點ATK都會使阿鬼獲得EVD+1\n的效果。
+
+< CARD_BOUNTY_EMERANGLER_HUNT >
+name=燈籠鼴
+descr=當燈籠鼴受到傷害，\n它在下次攻擊時ATK+1。\n當燈籠鼴對你造成傷害，\n它在下次防禦時DEF+1。
+
+< CARD_BOUNTY_GLOBBU_HUNT >
+name=火泡
+descr=每當你受到火泡攻擊時，DEF-1，\n直到戰鬥結束。
+
+< CARD_BOUNTY_GRASSINFIMARY_QUEST >
+name=
+descr=我想用生長在田野上的藥草創作新菜色，你可以\n幫我去採一些嗎？
+flavor=—旅店店主
+
+< CARD_BOUNTY_SWAMPINFIMARY_QUEST >
+name=
+descr=有位客人說史萊姆能用來調製飲品。\n我想試試看是不是真的……
+flavor=—旅店店主
+
+< CARD_BOUNTY_CAVEBAKERY_QUEST >
+name=
+descr=做冰淇淋的材料被我不小心掉在山洞裡了……
+flavor=—空之糕點師
+
+< CARD_BOUNTY_CASTLEBAKERY_QUEST >
+name=
+descr=呵呵呵，我們向城堡訂了些麵粉，但一直\n沒有送來。他們一定是想被我炸飛吧？
+flavor=—星之糕點師
+
+< CARD_BOUNTY_RUINARMORY_QUEST >
+name=
+descr=你想要個能切食物的東西？\n你只要把材料帶來，我就能幫你做一個。\n就算是壞掉的武器也可以。
+flavor=—鐵匠
+
+< CARD_BOUNTY_CAVEARMORY_QUEST >
+name=
+descr=小巨魔的角是做廚具的好材料，可我的庫存\n已經快用完了。\n它們每三天就會換一次角，你應該能在它們的\n巢穴裡找到一些角。
+flavor=—鐵匠
+
+< CARD_BOUNTY_VOLCANOALCHEMER_QUEST >
+name=
+descr=我能幫你轉換出一些食物，但我需要一個\n持久的熱源。\n你可以帶只火泡來嗎？\n聽說它們喜歡幹這種活。
+flavor=—鍊金術士
+
+< CARD_BOUNTY_FORESTINFIRMARY_QUEST >
+name=
+descr=你想要甜品？要是能把迷霧森林裡的樹液帶來，\n也許我就能給你做一些了。\n我聽說它的味道很甜。
+flavor=—旅店店主
+
+< CARD_BOUNTY_MOUNTAINBAKERY_QUEST >
+name=
+descr=牛奶用完了！我們店裡的麵包需要使用山上的\n絨絨所產出的奶，請快幫我帶來吧！
+flavor=—空之糕點師
+
+< CARD_BOUNTY_REDFORESTALCHEMER_QUEST >
+name=
+descr=附近緋紅森林裡的鬼魂有些很有趣的特性。\n你能給我帶個樣本來嗎？我應該能用它做些\n可以食用的東西。
+flavor=—鍊金術士
+
+< CARD_BOUNTY_DESERTARMORY_QUEST >
+name=
+descr=口好渴……沙漠裡的仙人掌應該能幫我解渴。\n等我喝完以後，剩下的部分你可以隨意處置。
+flavor=—鐵匠
+
+< CARD_BOUNTY_SLIMEBOMB_ITEM >
+name=史萊姆炸彈
+descr=向周圍7×7範圍內的1個格子投擲\n史萊姆炸彈。\n所選擇的格子的3×3範圍內被粘液覆蓋2輪。
+flavor=「整整一罐粘液，隨時等待投擲！」\n—鍊金術士
+
+< CARD_BOUNTY_TELEPORT_ITEM >
+name=傳送藥水
+descr=傳送至任意選中的格子，然後繼續你的回合。
+flavor=「只消一小口，人影去無蹤！」\n—鍊金術士
+
+< CARD_BOUNTY_LURE_ITEM >
+name=誘餌
+descr=持續效果（3輪）\n向周圍7×7範圍內的1個格子投擲誘餌，\n所選擇的格子的3×3範圍內變為遭遇\n或BOSS格3輪。
+flavor=「這氣味應該足夠引來周圍的大部分\n雜魚……」—鍊金術士
+
+< CARD_BOUNTY_SHOKUPAN_ITEM >
+name=生吐司
+descr=持續效果（3輪）\n每回合恢復1點HP。\n倒下時效果結束，效果無法疊加。
+flavor=「別家店可沒這麼烤得這麼好的東西了。」\n—星之糕點師
+
+< CARD_BOUNTY_SSR_SHOKUPAN_ITEM >
+name=軟綿綿的生吐司
+descr=每回合恢復2點HP。\n倒下時效果結束，效果無法疊加。
+flavor=「能夠征服世界的柔軟！」—空之糕點師
+
+< CARD_BOUNTY_PUREWATER_ITEM >
+name=聖水
+descr=這場戰鬥中，獲得5點HP，\n並且ATK·DEF·EVD+1。
+flavor=「呵呵呵，這可是杯能消除乾渴的純淨水，\n信我的準沒錯！」—旅店店主
+
+< CARD_BOUNTY_CURSEDSYRUP_ITEM >
+name=詛咒糖漿
+descr=這場戰鬥中，獲得10點HP，\n並且ATK·DEF·EVD+2，此外戰鬥\n時長將限制為5回合。
+flavor=「你一定會想買這個的……你在乎的就只有\n獲得更強大的力量……不是嗎？」—可疑商人
+
+< CARD_BOUNTY_POISONPHIAL_ITEM >
+name=毒性爆破藥
+descr=向周圍7×7範圍內的1個格子投擲毒性爆破藥。\n所有區域內被擊中的玩家中毒，2輪內每回合\n受到1點傷害。\n不會和其它爆破藥疊加。
+flavor=「我在製作的時候用了些很危險的原料……\n要小心使用啊！」—鍊金術士
+
+< CARD_BOUNTY_VENOMPHIAL_ITEM >
+name=毒液爆破藥
+descr=向周圍7×7範圍內的1個格子投擲毒液爆破藥。\n所有區域內被擊中的玩家中毒，3輪內每回合\n受到1點傷害。\n不會和其它爆破藥疊加。
+flavor=「這是我用一種危險的爬行動物的毒液\n做出來的……」—鍊金術士
+
+< CARD_BOUNTY_CORROSIONPHIAL_ITEM >
+name=腐蝕爆破藥
+descr=向周圍7×7範圍內的1個格子投擲腐蝕爆破藥。\n所有區域內被擊中的玩家中毒，3輪內每回合\n受到2點傷害。\n不會和其它爆破藥疊加。
+flavor=「腐蝕試劑是用一些可以致命的材料\n製作而成的……」—鍊金術士
+
+< CARD_BOUNTY_SPARKLEBOMB_ITEM >
+name=火花炸彈
+descr=2輪內強制場地路線反轉。
+flavor=「如果你既想往前走又想往後走，可你又不能\n像往前走一樣往後走？\n……呃，當我沒說……」—鍊金術士
+
+< CARD_BOUNTY_SMOKELOSTMEMORIES_ITEM >
+name=失落記憶的煙霧
+descr=忘卻過去犯下的錯誤，觸發一場懸賞戰。\n只能在已經發現了怪物的格子上使用。\n需要擁有懸賞才能開始戰鬥。\n使用這張卡後回合結束。
+flavor=「別讓它跑了！」—鍊金術士
+
+< CARD_BOUNTY_RADAR_ITEM >
+name=冒險者用探測器
+descr=持續效果（2至5輪）\n效果持續期間可以獲悉所有怪物的所在地點。
+flavor=「它會是你旅途中的好幫手……\n只要它能運作足夠久的話！」—鐵匠
+
+< CARD_HYPER_BOUNTY_ELLIE >
+name=艾莉的奇蹟
+descr=★COST（等級×10）\n持續效果（2輪）\nATK+X，DEF+Y，EVD+Z。\nX為完成目標的總次數。\nY為你當前的聲望÷5。\nZ為你當前的STAR÷50。
+flavor=「嚐嚐我的奇蹟吧！」—艾莉
+
+< CARD_BOUNTY_SCRAMBLED_EVE >
+name=大爭奪·聖誕夜
+descr=所有玩家的手牌送回卡堆，然後重洗卡堆。\n3輪後，所有玩家抽取各自因該效果棄牌張數\n相同數量的卡片。\n不會影響懸賞或任務。
+flavor=「等等！把禮物還給我！」—亞琉
+
+< CARD_BOUNTY_TRAP_WANTED >
+name=通緝令
+descr=儲備效果\n被戰鬥擊倒時對方獲得雙倍WIN。\n倒下時效果結束。\n觸發玩家將會在懸賞欄內出現懸賞，並獲得\n「刺客的徽章」。
+flavor=「在這邊！我的鼻子是不會錯的！」—QP
+
+< CARD_HYPER_BOUNTY_COOK >
+name=風信雞的指引
+descr=儲備效果\n除戰鬥外，骰子枚數變為2枚。\n當你停留在HOME格時效果結束。
+flavor=「嘰嘰，庫克想去這邊。」—庫克
+
+< CARD_BOUNTY_PLAYER >
+name=新鮮通緝
+descr=因危害社會而受到通緝。
+flavor=
+
+< CARD_BOUNTY_PLAYER_ITEM >
+name=???
+descr=已標記為剿滅對象。請務必小心行事。
+flavor=
+
+[EOF]

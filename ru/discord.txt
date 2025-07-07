@@ -1,0 +1,56 @@
+< DISCORD_MAIN_MENU_STATE >
+В Главном Меню
+
+< DISCORD_SHOP_STATE >
+В Магазине
+
+// Lobby: <lobby name>
+< DISCORD_LOBBY_STATE >
+Команата: %s
+
+< DISCORD_LOBBY_STATE_PRIVATE >
+В Комнате
+
+< DISCORD_INGAME_STATE >
+В Игре
+
+// After the game ended, the screen where xp and potential unlocks are given 
+< DISCORD_RESULTS_STATE >
+Смотрит Результаты
+
+// Pvp mode
+< DISCORD_INGAME_NORMAL_MODE >
+Обычный Режим
+
+< DISCORD_INGAME_COOP_MODE >
+Кооперативный Режим
+
+// Co-op: <boss name>, <difficulty name>
+< DISCORD_INGAME_COOP_MODE_DETAILS >
+В кооперативе: %s — %s
+
+// <player name>, Level <lvl>
+< DISCORD_INGAME_PLAYER_DETAILS >
+%s — %d Уровень
+
+// <player name>, <coop role>, Level <lvl>
+< DISCORD_INGAME_PLAYER_DETAILS_COOP >
+%s, %s — %d Уровень
+
+< DISCORD_INGAME_BOUNTYHUNTER_MODE >
+Охота за Головами
+
+< DISCORD_INGAME_SUMMER2020_MODE >
+Ловись, Рыбка
+
+< DISCORD_INGAME_SHROOM_MODE >
+Гонка за Грибами
+
+< DISCORD_INGAME_TAGTEAM_MODE >
+Режим командного боя
+
+< DISCORD_INGAME_CHAOS_MODE >
+Режим хаоса
+
+< DISCORD_INGAME_SCHOOL_MODE >
+Режим «Школьные разрушители»

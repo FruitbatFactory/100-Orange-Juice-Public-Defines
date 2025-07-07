@@ -1,0 +1,301 @@
+< CARD_DECEPTIVELYDISARMED_EFFECT >
+name=Desarmamento Enganoso
+descr=Pule a próxima ação.
+
+< CARD_STUFFED_EFFECT >
+name=Cheia
+descr=Ganhe -1 ATK na próxima batalha.
+
+< CARD_BURNOUT_EFFECT >
+name=Desgastado
+descr=Atrase a recuperação em 1 turno por cada estoque.
+
+< CARD_PROTAGONISTPRIVILEGE_EFFECT >
+name=Privilégio do Protagonista
+descr=Sempre ataque primeiro, seu oponente não poderá contra-atacar (Uma vez por combate).
+
+< CARD_AIRSUPPORT_EFFECT >
+name=Suporte Aéreo
+descr=Ganhe Defesa +2 durante sua próxima batalha.
+
+< CARD_COOP_BLAZING_EFFECT >
+name=Ardente!
+descr=Ganhe ATK +1 (aliado) ou DEF -1 (inimigo) por cada estoque. O efeito expira no nocaute.
+
+< CARD_COOP_MELTINGMEMORIES_EFFECT >
+name=Dissolvendo Memórias
+descr=Sweet Breaker ganha +1 ATK, DEF e EVD ao lutar com você.
+
+< CARD_COOP_EVILSPYWORKEXEC_EFFECT >
+name=Trabalho de Espião Malígno - Execução
+descr=Cure 2 de dano no final de seu turno.
+
+< CARD_COOP_BANNEDFORLIFE_GIFT_EFFECT >
+name=Banido para Sempre
+descr=Pode forçar o Chefão a pular sua próxima ação.
+
+< CARD_COOP_GUIDANCE_EFFECT >
+name=Conselho da Galinha Cata-Vento
+descr=Role 2 de dado para tudo menos para batalhas. Este efeito acaba ao ser nocauteado.
+
+< CARD_COOP_BEASTWITCH_EFFECT >
+name=Bruxa Feroz
+descr=Não pode perder estrelas para um Chefão ou Capanga.
+
+< CARD_COOP_BANNEDFORLIFE_EFFECT >
+name=Banido para Sempre
+descr=Pule próxima ação.
+
+< CARD_COOP_FINALSURGERY_EFFECT >
+name=Cirurgia Final
+descr=Ganhe -2 REC até reviver.
+
+< CARD_COOP_STEALTHON_EFFECT >
+name=Camuflagem Ativa
+descr=Não pode ser desafiado por inimigos.\nNão ativa painéis de Encontro ou de Chefão.\nEfeito expira ao entrar em batalha.\nGanhe +2 ATK ao entrar em batalha.
+
+< CARD_COOP_SPECIALSTAGE_EFFECT >
+name=Modo Ao Vivo
+descr=Ganhe -3 MOV, só pode ativar painéis do tipo de movimento e não pode usar cartas. Não pode ser desafiado por inimigos. Se um oponente terminar seu turno em um raio de 2 painéis, roube (seu Nível) x5 estrelas deles. Termina ao ser nocauteado.
+
+< CARD_COOP_IDEALWORLD_EFFECT >
+name=Parceiros Robóticos
+descr=Unidades robóticas irão lutar em batalha em nome do jogador. Estas unidades robóticas ganharão +1 ATK durante a batalha.
+
+< CARD_COOP_GOODESTBOY_EFFECT >
+name=O Melhor Garoto
+descr=Ignore painéis de Chefão. Ao ficar em um painel com outro jogador ao final do turno de um dos dois, ambos compram uma carta.\nVocê não pode desafiar nem ser desafiado. Jogadores podem parar para te fazer Carinho.
+
+< CARD_BOSS_HYPE_EFFECT >
+name=Hype
+descr=Quando 10 estoques forem atingidos, chefão irá usar "Alvoroço".
+
+< CARD_BOSS_RUMBLE_EFFECT >
+name=Estrondo
+descr=Ganhe +1 ATK por estoque.
+
+< CARD_BOSS_DANCEOFSEAGULLS_EFFECT >
+name=Dança das Gaivotas
+descr=Na próxima batalha, ganhe -2 ATK.
+
+< CARD_BOSS_BEAKOFGODBIRD_EFFECT >
+name=Bico do Deus Pássaro
+descr=Ganhe +1 ATK.
+
+< CARD_BOSS_BEAKOFDEMIBIRD_EFFECT >
+name=Bico do Demi-Passaro
+descr=Gain +2 ATK.
+
+< CARD_BOSS_FLIGHT_EFFECT >
+name=Voo
+descr=Movimentação invertida. Dê dano equivalente ao nível de cada jogador que ultrapassar.
+
+< CARD_BOSS_PIYOMARCH_EFFECT >
+name=Passeata dos Piyo
+descr=Ganhe +2 EVD em sua próxima batalha.
+
+< CARD_BOSS_HEADLESSCHICKENMINION_EFFECT >
+name=Galinha Sem Cabeça
+descr=Ganhe +2 ATK e +2 EVD em sua próxima batalha.
+
+< CARD_BOSS_HEADLESSCHICKEN_EFFECT >
+name=Galinha Sem Cabeça
+descr=Ganhe +2 ATK.
+
+< CARD_BOSS_WIRELESSCHICKEN_EFFECT >
+name=Galinha sem fio
+descr=Ganhe +2 ATK.
+
+< CARD_BOSS_ATTACKDOWN_EFFECT >
+name=Baixo no Ataque
+descr=Ganhe -1 ATK para cada estoque.
+
+< CARD_BOSS_DEFENSEDOWN_EFFECT >
+name=Baixo na Defesa
+descr=Ganhe -1 DEF para cada estoque.
+
+< CARD_BOSS_EVASIONDOWN_EFFECT >
+name=Baixo na Evasiva
+descr=Ganhe -1 EVD para cada estoque.
+
+< CARD_BOSS_TURBO_EFFECT >
+name=Turbo
+descr=Role três dados de movimento.
+
+< CARD_BOSS_EMP_EFFECT >
+name=EMP
+descr=Não pode usar cartas.
+
+< CARD_BOSS_DELTAFIELD_EFFECT >
+name=Campo Delta Mexido
+descr=Todos os valores dos dados serão 1, 2 ou 3.
+
+< CARD_BOSS_IMAGINARYNUMBERS_EFFECT >
+name=Números Imaginários
+descr=Jogue 7 naturais.
+
+< CARD_BOSS_DELUSIONALNUMBERS_EFFECT >
+name=Números Ilusórios
+descr=Role 0 ou 7 naturais.
+
+< CARD_BOSS_HEALTHDOWN_EFFECT >
+name=Baixa na Vitalidade
+descr=HP máximo é reduzido em 1 por cada estoque.
+
+< CARD_BOSS_RECOVERYMODE_EFFECT >
+name=Modo de Recuperação
+descr=Até a próxima batalha, pule a etapa de movimentação e recupere 2 HP por turno.
+
+< CARD_BOSS_PERFECTREFLECTIVESHELL_EFFECT >
+name=Escudo Refletor Perfeito
+descr=Dê 1 de dano de volta para cada dano recebido.
+
+< CARD_BOSS_PROTECT_EFFECT >
+name=Proteger
+descr=Para cada dano que você tomar, use um estoque por cada para até 3 de dano para diminuí-lo em 1.\nSe os estoques acabarem, ganhe -2 DEF, -2 EVD E -1 MOV por 3 capítulos.
+
+< CARD_BOSS_SCRAMBLED_EFFECT >
+name=Mexidos
+descr=Ganhe -2 DEF, EVD e -1 MOV.
+
+< CARD_BOSS_POTECT_EFFECT >
+name=Po-tect
+descr=Para cada dano que você tomar, use um estoque por cada para até 2 de dano para diminuí-lo em 1.\nSe os estoques acabarem, ganhe -1 DEF, -1 EVD E -1 MOV por 3 capítulos.
+
+< CARD_BOSS_SCRAMBLEDPO_EFFECT >
+name=Mexidos
+descr=Ganhe -1 DEF, EVD e MOV.
+
+< CARD_BOSS_ELUSIVE_EFFECT >
+name=Elusivo
+descr=Roube Nível do Chefão x 5 estrelas e o Chefão ganha Nível do Chefão x 5 estrelas toda vez que o Chefão ou um de seus capangas entrarem em seus painéis.
+
+< CARD_BOSS_STARMANIA_EFFECT >
+name=Mania Estelar
+descr=Todo capítulo, ganhe estrelas equivalente ao seu estoque.
+
+< CARD_BOSS_ROBOTAX_EFFECT >
+name=Imposto é Robô
+descr=Ganhe +1 DEF para cada estoque.
+
+< CARD_BOSS_HIGHWAYROBBERY_EFFECT >
+name=Roubo na Rodovia
+descr=Ganhe +3 ATK.\nMovimente-se em reverso e não pare até desafiar um jogador.\nPara cada ponto de dano que o Chefe teria dado, roube 10 estrelas no lugar.
+
+< CARD_BOSS_GREED_EFFECT >
+name=Ganância
+descr=Ganhe 5 estrelas por dano que você ou capanga ativo desferir em batalha.
+
+< CARD_BOSS_CHASE_EFFECT >
+name=Caça
+descr=Jogue dois dados de movimento e ganhe 1 de Hype para cada inimigo enfrentado.
+
+< CARD_BOSS_TIRED_EFFECT >
+name=Exausto
+descr=Ganhe +1 REC no próximo nocaute.
+
+< CARD_BOSS_EXHAUSTED_EFFECT >
+name=Exaustão
+descr=Ganhe +2 REC no próximo nocaute.
+
+< CARD_BOSS_PLAYTAG_EFFECT >
+name=Pega-pega
+descr=Ganhe +2 ATK. Ganhe 1 Hype por cada inimigo enfrentado.
+
+< CARD_BOSS_HIDENSEEK_EFFECT >
+name=Esconde-esconde
+descr=Até a próxima batalha, pule a rolagem de movimento e ganhe 2 Hype.
+
+< CARD_BOSS_PSYCHEDUP_EFFECT >
+name=Entusiasmada
+descr=Ganhe +2 MOV.
+
+< CARD_BOSS_WATERMELONSPLIT_EFFECT >
+name=Divisão da Melância
+descr=Ganhe +5 ATK e não irá pare quando desafiar um jogador. Para cada jogador nocauteado, ganhe 2 de Hype.
+
+< CARD_BOSS_HYPEITUP_EFFECT >
+name=Hypando com tudo
+descr=Ganhe +1 ATK, +1 DEF e -1 EVD.\nPerca 1 Hype ao tomar dano em batalha.\nPerca 2 Hype se nocauteado em batalha.
+
+< CARD_BOSS_RAMPAGE_EFFECT >
+name=Alvoroço
+descr=Ganhe Nível do Chefão x 1 HP.
+
+< CARD_BOSS_RAMPAGEHYPER_EFFECT >
+name=Alvoroço
+descr=ATK é aumentado em 1 por cada estoque.
+
+< CARD_BOSS_HYPEMODE_EFFECT >
+name=Modo Hype
+descr=Ganhe +2 ATK e +1 DEF. Em nocaute, se recupere no próximo turno.
+
+< CARD_BOSS_QUAKE_EFFECT >
+name=Tremor
+descr=Ganhe -2 MOV.
+
+< CARD_BOSS_POPPOMARCH_EFFECT >
+name=Marcha da Poppo
+descr=Ganhe +2 EVD.
+
+< CARD_BOSS_TURBOCHICKEN_EFFECT >
+name=Galinha Turbo
+descr=Ganhe +1 movimento de dado e não pare ao desafiar um jogador. Ganhe +1 ATK e 25 estrelas para cada jogador enfrentado até o fim do turno.
+
+< CARD_BOSS_SWARM_EFFECT >
+name=Enxame
+descr=Na próxima batalha, ganhe +2 ATK e se estiver atacando primeiro, o inimigo não pode contra atacar (uma vez por combate).
+
+< CARD_SKILL_COOP_FURY_EFFECT >
+name=Fúria
+descr=Dê +1 de dano por estoque em batalha.
+
+< CARD_COOP_HYPER_ATTACKER_EFFECT >
+name=Arma Suprema no Sol
+descr=Dê 3 de dano adicionais em batalha.
+
+< CARD_COOP_PROTECT_EFFECT >
+name=Proteger
+descr=Próximo dano tomado é reduzido em 1 para cada estoque. Efeito é reomvido ao defender dano.
+
+< CARD_SKILL_COOP_GUARDIANSPIRIT_EFFECT >
+name=Espírito Guardião
+descr=Ganhe uma redução de dano de 1 por estoque na próxima vez que tomar dano em batalha.
+
+< CARD_COOP_HYPER_GUARDIAN_EFFECT >
+name=Guarda-vidas na Praia Branca
+descr=Ganhe uma redução de dano de 2 na próxima vez que tomar dano em batalha.
+
+< CARD_SKILL_COOP_FROMBEYOND_EFFECT >
+name=Do Além
+descr=Se nocauteado durante a batalha, retorne para 1 x Efeito de Estoque HP.
+
+< CARD_COOP_HYPER_AVENGER_EFFECT >
+name=Vingador Imperdoável
+descr=Se nocauteado durante batalha, reviva com 1 HP por cada estoque.
+
+< CARD_COOP_RANSOMNOTE_EFFECT >
+name=Nota de Sequestro
+descr=No fim do turno, sofra nocaute.
+
+< CARD_COOP_DEMAND_EFFECT >
+name=Demanda
+descr=Trate o próximo painel que você para como painel de Compra.
+
+< CARD_COOP_HYPER_DEALER_EFFECT >
+name=Jogos de Verão
+descr=Trate qualquer painel que você pararia nesse turno como painel de Compra 2x.
+
+< CARD_COOP_PRISONBREAK_EFFECT >
+name=Escapada da Prisão de Faz de Conta
+descr=Move para seu painel de Casa sem ativá-lo. Não pode ser desafiada ou ser o alvo de cartas de Boost de outros jogadores. Imune a cartas de Armadilha e dano de carta do Chefão. Role 2 dados de movimento. Efeito acaba ao atravessar 20 painéis.
+
+< CARD_COOP_POPPOSNATCHER_EFFECT >
+name=Poppo, a Ladra
+descr=Ganhe -1 de Defesa. Sempre que passar por um inimigo em seu turno, roube [nível do alvo x 3] estrelas dele. Não pode concluir Norma.
+
+< CARD_COOP_INTELLECTUALBLUFF_EFFECT >
+name=Blefe Pseudointelectual
+descr=Sempre que uma carta desse tipo é jogada, o jogador compra uma carta.
+
+[EOF]

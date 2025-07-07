@@ -1,0 +1,121 @@
+< CARD_SHROOM_BLUE >
+name=アオキノコ
+descr=臭い。
+
+< CARD_SHROOM_BROWN >
+name=チャキノコ
+descr=臭い。
+
+< CARD_SHROOM_GREEN >
+name=ミドリキノコ
+descr=臭い。
+
+< CARD_SHROOM_ORANGE >
+name=ダイダイキノコ
+descr=臭い。
+
+< CARD_SHROOM_PINK >
+name=ピンクキノコ
+descr=臭い。
+
+< CARD_SHROOM_PURPLE >
+name=ムラサキキノコ
+descr=臭い。
+
+< CARD_SHROOM_RAINBOW >
+name=ナナイロキノコ
+descr=臭い。
+
+< CARD_SHROOM_RED >
+name=アカキノコ
+descr=臭い。
+
+< CARD_SHROOM_WHITE >
+name=シロキノコ
+descr=臭い。
+
+< CARD_SHROOM_YELLOW >
+name=キイロキノコ
+descr=臭い。
+
+< CARD_SHROOM_PHANTOMBLUE >
+name=幻のアオキノコ
+descr=異常に臭い。
+
+< CARD_SHROOM_LEGENDARYRED >
+name=伝説のアカキノコ
+descr=とんでもなく臭い。
+
+< CARD_SHROOM_MOVEUP >
+descr=次の移動ダイスで移動+%d。
+
+< CARD_SHROOM_MOVEDOWN >
+descr=次の移動ダイスで移動-%d。
+
+< CARD_SHROOM_GAINSTARS >
+descr=レベル×%dのスターを得る。
+
+< CARD_SHROOM_LOSESTARS >
+descr=レベル×%dのスターを失う。
+
+< CARD_SHROOM_HEALTHUP >
+descr=HP+%d。
+
+< CARD_SHROOM_HEALTHDOWN >
+descr=HP-%d。
+
+< CARD_SHROOM_ATTACKUP >
+descr=このバトル中、ATK+%d。
+
+< CARD_SHROOM_ATTACKDOWN >
+descr=このバトル中、ATK-%d。
+
+< CARD_SHROOM_DEFENSEUP >
+descr=このバトル中、DEF+%d
+
+< CARD_SHROOM_DEFENSEDOWN >
+descr=このバトル中、DEF-%d。
+
+< CARD_SHROOM_EVADEUP >
+descr=このバトル中、EVD+%d。
+
+< CARD_SHROOM_EVADEDOWN >
+descr=このバトル中、EVD-%d。
+
+< CARD_SHROOM_HEAL >
+descr=HPが%d回復。
+
+< CARD_SHROOM_DAMAGE >
+descr=被ダメージ%d。
+
+< CARD_SHROOM_ROLLONE >
+descr=このバトル中、ダイスの目が必ず1になる。
+
+< CARD_SHROOM_ROLLSIX >
+descr=このバトル中、ダイスの目が必ず6になる。
+
+< CARD_SHROOM_FROSTWALKER >
+descr=%dチャプターの間、フロストウォーカー。
+
+< CARD_SHROOM_WARP >
+descr=ランダムなマスへワープする。
+
+< CARD_SHROOM_CONFUSION >
+descr=%dチャプターの間、手札が全て裏返し(自身にはカードの裏が、他のプレイヤーには表が見えるよう)になる。
+
+< CARD_SHROOM_DRAW >
+descr=カードを2枚引く。
+
+< CARD_SHROOM_DISCARD >
+descr=ランダムなカードを1枚捨てる。
+
+< CARD_SHROOM_WIN >
+descr=1ウィンを得る。
+
+< CARD_SHROOM_LEGEND_STARS >
+descr=全ての方法で、獲得できるスターがレベル分増える。バトルでダウンした時、このカードは勝利したプレイヤーの手札に移る。
+
+< CARD_SHROOM_LEGEND_WINS >
+descr=全ての方法で、獲得できるウィンの数が+1になる。バトルでダウンした時、このカードは勝利したプレイヤーの手札に移る。
+
+[EOF]

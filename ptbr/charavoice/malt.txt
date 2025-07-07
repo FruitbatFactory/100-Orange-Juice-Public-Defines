@@ -1,0 +1,159 @@
+<0000> Hmph.
+<0001> Que insignificante.
+<0002> Hmm...
+<0003> Os resultados são o que importa.
+<0004> Certo então, vamos fazer as coisas interessantes.
+<0005> Eu guardo minhas cartas perto do meu coração.
+<0006> Está na hora!
+<0007> Vamos LÁ!
+<0008> Certo então. O que isso deve ser...?
+<0009> Hmph. Eu tenho tudo isso planejado já.
+<0010> Esse é um bloco de construção do futuro.
+<0011> Não use isto contra mim.
+<0012> Eu estou sempre preparado.
+<0013> Isso vai mudar as coisas ao meu favor.
+<0014> Hmph. Isso deve funcionar.
+<0015> Isto é um risco calculado.
+<0016> Esta é a cor do céu que eu vi uma vez...
+<0017> Eu não tenho tempo para descansar sob meus louros.
+<0018> Oh? Já é de manhã de novo...?
+<0019> Mm... este foi um sonho desagradável...
+<0020> Está na hora de acordar e levantar.
+<0021> Eu vou sonhar apenas um pouquinho mais...
+<0022> Mmmh.
+<0023> O-oh...
+<0024> Eu vou ficar aqui... esperando...
+<0025> Canhões!
+<0026> Abrir fogo!
+<0027> Hmph. Ali!
+<0028> Vá!
+<0029> A-apenas um arranhão.
+<0030> Como isto aconteceu?
+<0031> Minha nossa.
+<0032> Mmh!
+<0033> Meus agradecimentos.
+<0034> Ahh... foi bem no lugar certo.
+<0035> Eu realmente precisava disso.
+<0036> Hrmh, muito bom.
+<0037> Hmm... isso muda as coisas.
+<0038> Entendi, entendi. Eu preciso ajustar meus planos.
+<0039> Um céu desconhecido...
+<0040> Hmph. Não importa.
+<0041> Harumph!
+<0042> Meu sonho!
+<0043> Esse não é o fim! Estarei de volta...
+<0044> Foi bom enquanto durou.
+<0045> Minha luta ainda não acabou!
+<0046> Eu acho que você está no meu caminho.
+<0047> Você ficaria no meu caminho?
+<0048> Eu acho que preciso insistir.
+<0049> Eu estava te esperando.
+<0050> Eu reconsideraria se fosse você.
+<0051> Tente se você for capaz!
+<0052> A que devo o prazer?
+<0053> Me perdoe.
+<0054> Eu recomendo que você saia do caminho.
+<0055> Vá!
+<0056> É assim que se faz!
+<0057> Hmmh!
+<0058> Ooof.
+<0059> Ugh!
+<0060> Isso é um tanto...
+<0061> Hnngh!
+<0062> H-hmm!
+<0063> Quanta asneira!
+<0064> Eu, eu já passei por coisa pior...
+<0065> Hmph.
+<0066> Um esforço inútil.
+<0067> Tente novamente!
+<0068> Esta é uma simples manobra que aprendi durante minha juventude.
+<0069> Era apenas natural.
+<0070> Eu não esperava menos.
+<0071> Não me diga que não te avisei.
+<0072> Eu aceito sua rendição.
+<0073> De novo não!
+<0074> Eu estou caindo...!
+<0075> Dano crítico...!
+<0076> Você venceu desta vez.
+<0077> Garantir os fundos é essencial.
+<0078> Não é muito, mas eu vou pegar.
+<0079> Eu farei uso disso.
+<0080> Eu vou manter esses.
+<0081> Um contratempo temporário...
+<0082> Isto não foi de acordo com os planos...
+<0083> O quê?! Isto é um roubo!
+<0084> Os impostos... bah!
+<0085> Todos os meus planos...!
+<0086> O que é isto?!
+<0087> Bom, eu irei...
+<0088> Hmmh... Um erro.
+<0089> Hmph. Um desafio a altura.
+<0090> Não existe espaço para nós dois nos céus.
+<0091> Bah. Você acha que algo assim me assusta?
+<0092> Que interessante.
+<0093> Existem diversos caminhos para a vitória.
+<0094> Hrmh. Eu farei dos céus meus.
+<0095> Faz um tempo desde que fui atrás das estrelas...
+<0096> Este é um caminho para a vitória, também.
+<0097> Hmph. Eu sempre jogo para ganhar.
+<0098> Minha vitória está garantida.
+<0099> Uma vitória final antes que eu cumpra meu sonho.
+<0100> Por um novo futuro.
+<0101> Apenas me chame de Malt.
+<0102> Hmph. Irei botar você para bom uso.
+<0103> Hmmh... Então o momento chegou para eu ir ao palco novamente?
+<0104> Meu sonho... ainda está vivo.
+<0105> Isto é apenas o começo.
+<0106> Eu vou buscar o futuro!
+<0107> Está na hora de concretizar meus planos? 
+<0108> Todas as peças estão se encaixando.
+<0109> O céu é belo, afinal de contas.
+<0110> Eu ainda estou vendo aquele sonho.
+<0111> Ninguém vai te dar o futuro que você deseja. Você deve concretiza-lo com suas próprias mãos.
+<0112> A visão daqui é como um sonho.
+<0113> Não perca isto. É necessário para meus planos.
+<0114> Outra peça se encaixa em seu lugar.
+<0115> Isto é apenas prosperidade.
+<0116> Fumu. Merecido.
+<0117> Me arranje tempo, por favor!
+<0118> Distraia-os enquanto eu preparo.
+<0119> Vá. Mostre-os do que você é capaz.
+<0120> Hmph. Me faça ter orgulho.
+<0121> Hmm-h.
+<0122> Nada mal.
+<0123> Muito bem.
+<0124> Eu refuso.
+<0125> Que pena.
+<0126> Dona sorte brilha sobre você hoje.
+<0127> O que é isto?
+<0128> Levantando.
+<0129> Hora de jogar o dado.
+<0130> Está na hora!
+<0131> Bom encontro.
+<0132> Hmm, hmm...
+<0133> Bom, bom.
+<0134> Excelente.
+<0135> Sacanagem!
+<0136> Eu consigo ver o potencial nisso.
+<0137> Hmph. Veja e aprenda.
+<0138> Eu farei isto funcionar.
+<0139> Muito bem. Eu vou usar o que for preciso.
+<0140> Muito obrigado.
+<0141> Mestre da Guilda? Eu não carrego mais esse título.
+<0142> Aqui vou eu, novata!
+<0143> Tente me parar, Barril Vermelho!
+<0144> É o dever da geração mais velha ensinar bons modos aos mais jovens.
+<0145> Hmph. Eu te reconheço.
+<0146> Então você veio para me parar, velho amigo?
+<0147> Você finalmente decidiu se juntar a mim para uma bebida? Não?
+<0148> Hmph. Nada como ser jovem e audacioso...
+<0149> Saiam dos meus céus, piratas malditos!
+<0150> Olá donzela. Você está com seu pai novamente?
+<0151> Eu me pergunto o que uma jovem moça gostaria com um homem velho como eu.
+<0152> Você mostraria suas presas para mim? Muito bem.
+<0153> Não é muito tarde para se juntar a mim de novo, Senhorita. Eu sempre preciso de bons pilotos.
+<0154> O símbolo da guilda... Eu ainda devo estar sonhando...
+<0155> Ahem. O que lhe trás aqui, jovem moça? Por acaso estaria perdida? 
+<0156> Para mim, todo mun- *tosse*, ahem. Velhos hábitos...
+<0157> É assim que um cavalheiro deveria conduzir seus negócios.
+<0158> S-senhorita... Eu não sei para onde olhar.

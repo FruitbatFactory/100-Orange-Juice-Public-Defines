@@ -1,0 +1,161 @@
+
+<0000> Alright.
+<0001> Here!
+<0002> Roll around...
+<0003> Hey!
+<0004> I think I'll use this.
+<0005> I guess I'll do this.
+<0006> I'll pick this.
+<0007> I choose this.
+<0008> Trap set.
+<0009> Okay.
+<0010> It's a trap.
+<0011> Maybe like this?
+<0012> I'm using this.
+<0013> I can't lose this game.
+<0014> I'll do this.
+<0015> This!
+<0016> Accelerator!
+<0017> Phew...
+<0018> Alright, I can move again.
+<0019> Okay then, I'll go again.
+<0020> This is where it begins.
+<0021> Huh? This wasn't supposed to happen...
+<0022> Ugh.
+<0023> What?
+<0024> Oh no.
+<0025> Let's do this.
+<0026> Yah!
+<0027> Hah!
+<0028> There!
+<0029> Ugh.
+<0030> Augh.
+<0031> Wah.
+<0032> Wawah.
+<0033> Pheeew...
+<0034> I'm feeling warm.
+<0035> I've recovered.
+<0036> Feels good.
+<0037> I'm getting blown away.
+<0038> Where am I going?
+<0039> I'm flying.
+<0040> Warping.
+<0041> Aaaaugh.
+<0042> I need to rest a little bit...
+<0043> Ugh, I messed up.
+<0044> *Sigh*...
+<0045> It's time to fight.
+<0046> If you stand in my way...
+<0047> I'm coming for you.
+<0048> We're fighting.
+<0049> Are you hoping for a battle?
+<0050> Sure, bring it on.
+<0051> I'm not losing.
+<0052> You want to fight me?
+<0053> Hah!
+<0054> I'll get you!
+<0055> Yah!
+<0056> Tah!
+<0057> Ugh.
+<0058> Uuu.
+<0059> Augh.
+<0060> Guhh.
+<0061> Hmm...
+<0062> Uwaah.
+<0063> Hey now.
+<0064> Aaargh.
+<0065> Can't touch this.
+<0066> I dodged it.
+<0067> That was close.
+<0068> Whoa.
+<0069> Phew, I made it.
+<0070> I'm okay.
+<0071> Looks like I won.
+<0072> I did my best.
+<0073> Hmm...
+<0074> Hauu.
+<0075> You're strong.
+<0076> You're amazing.
+<0077> They're shining.
+<0078> I'm glad.
+<0079> Well done.
+<0080> So many of them...
+<0081> No, my stars...
+<0082> Uh...
+<0083> My stars...
+<0084> Mhmm...
+<0085> A trap?!
+<0086> I never noticed that...
+<0087> Ugh, shoot.
+<0088> Isn't this...
+<0089> A big one appeared...
+<0090> Danger approaches...
+<0091> I'd better be cautious.
+<0092> A strong one came out.
+<0093> I'm gathering stars.
+<0094> I choose stars.
+<0095> I'll get a lot of stars.
+<0096> Stars...
+<0097> I guess I'll pick battles.
+<0098> I'll go get wins.
+<0099> I choose to fight.
+<0100> Alright, I'll win.
+<0101> Okay, good to play with you.
+<0102> You can count on me.
+<0103> Let's do our best.
+<0104> Alright then.
+<0105> I'll go all out.
+<0106> Let's get going.
+<0107> It began.
+<0108> What should I do?
+<0109> Well played.
+<0110> We managed to get through this.
+<0111> Hehheh, I did a good job, didn't I?
+<0112> We won!
+<0113> We've got something new.
+<0114> It's a new item.
+<0115> Haven't seen that before.
+<0116> Did you get something good?
+<0117> Let's tag out.
+<0118> Will you take my place?
+<0119> I'll leave the game to you.
+<0120> I'm rooting for you.
+<0121> Okay.
+<0122> That's good.
+<0123> Yeah.
+<0124> No.
+<0125> Mhmm...
+<0126> Good job.
+<0127> Huh?
+<0128> Okay, let's go.
+<0129> Be a good roll.
+<0130> Let's do this.
+<0131> Hi.
+<0132> Hmm.
+<0133> Great.
+<0134> That is amazing.
+<0135> Ugh...
+<0136> Let me borrow this for a bit.
+<0137> Can I use this?
+<0138> This isn't my own power, but...
+<0139> I'll try this one...!
+<0140> Let's play, Hime.
+<0141> It's a little child...
+<0142> Here I come, Sora.
+<0143> I'm dashing through!
+<0144> The god of... Pudding...
+<0145> Star Breaker... I'm stopping you.
+<0146> Wow, that is one big castle...
+<0147> I won't let you do whatever you please.
+<0148> Is that another me...?
+<0149> "The past me"...? What do you mean?
+<0150> This is a complicated feeling...
+<0151> Are you really me?
+<0152> It's reassuring to have you with me.
+<0153> Hime, let's switch.
+<0154> Sure, I'm in.
+<0155> You got carried away, Hime.
+<0156> Yeah, I had fun, too.
+<0157> I know you're not easy to beat, Sora.
+<0158> Fufu, that was fun, Sora.
+<0159> I'm impressed how strong you still are.

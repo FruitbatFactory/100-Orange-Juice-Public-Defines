@@ -1,0 +1,772 @@
+< CARD_DASH_EFFECT >
+name=冲刺！
+descr=移动骰枚数变为2倍。
+
+< CARD_FLIPOUT_EFFECT >
+name=迁怒于人
+descr=当在掉落格失去STAR时，除本角色以外拥有\n最多STAR的所有玩家失去相同数量的\nSTAR。
+
+< CARD_NICEJINGLE_EFFECT >
+name=美妙的叮铃铃
+descr=奖励格获得的STAR变为2倍。
+
+< CARD_EXTEND_EFFECT >
+name=残机奖励
+descr=倒下时在下一个回合复活。
+
+< CARD_STIFFCRYSTAL_EFFECT >
+name=坚固的结晶
+descr=抵消陷阱的效果。\n获得抵消的陷阱等级×5的STAR。
+
+< CARD_DANGEROUSPUDDING_EFFECT >
+name=危险布丁
+descr=跳过下一个回合。
+
+< CARD_HEAT300_EFFECT >
+name=热度300%
+descr=DEF-2。
+
+< CARD_SUPERALLOUTMODE_EFFECT >
+name=超绝全力模式
+descr=在下一场战斗中ATK+2。
+
+< CARD_PROTAGONISTPRIVILEGE_EFFECT >
+name=主角的特权
+descr=必定先攻。对方无法反击。\n（每场战斗只能起效1次）
+
+< CARD_ACCELERATOR_EFFECT >
+name=极速装置
+descr=移动·战斗·奖励·掉落时，骰子枚数变为\n2倍。
+
+< CARD_BINDINGCHAIN_EFFECT >
+name=束缚之锁
+descr=跳过下一个回合。
+
+< CARD_EXTRAORDINARYSPECS_EFFECT >
+name=荒唐的性能
+descr=移动·战斗·奖励·掉落时，骰子投出的点数为6。
+
+< CARD_MAGICALMASSACRE_EFFECT >
+name=杀戮魔法
+descr=每层储备使下次复活时REC-1。
+
+< CARD_CASTOFF_EFFECT >
+name=脱衣
+descr=交换角色的基础ATK和DEF。\n倒下或再次使用「脱衣」时效果结束。
+
+< CARD_LONGEAREDBEASTS_EFFECT >
+name=起舞吧长耳兽
+descr=在下一场战斗中ATK-2。
+
+< CARD_BLAZING_EFFECT >
+name=爆燃！
+descr=每层储备使ATK+1·DEF-1。\n倒下时效果结束。
+
+< CARD_SEALEDMEMORIES_EFFECT >
+name=融化的记忆
+descr=手牌全部翻转。
+
+< CARD_SELFDESTRUCT_EFFECT >
+name=自爆
+descr=每层储备使ATK+1。
+
+< CARD_CRYSTALBARRIER_EFFECT >
+name=水晶障壁
+descr=消耗1层储备抵御1次陷阱、战斗或掉落格，\n并受到1点伤害。\n倒下时效果结束。
+
+< CARD_DELTAFIELD_EFFECT >
+name=三角力场
+descr=骰子投出的点数为1。
+
+< CARD_WHIMSICALWINDMILL_EFFECT >
+name=变化无常的风车
+descr=战斗时EVD+1。
+
+< CARD_HYPER_ARUSCRAMBLE_EFFECT >
+name=圣诞小姐的礼物
+descr=无法发起挑战。
+
+< CARD_HYPER_SORAMILITARY_EFFECT >
+name=才气觉醒
+descr=移动·战斗·奖励·掉落时，骰子投出的点数\n为5。
+
+< CARD_JONATHANRUSH_EFFECT >
+name=乔纳桑·速袭
+descr=战斗时DEF-1。
+
+< CARD_TURBOCHARGED_EFFECT >
+name=涡轮满载
+descr=每层储备使ATK+1。倒下时效果结束。
+
+< CARD_IMMOVABLEOBJECT_EFFECT >
+name=不动之物
+descr=无法移动，敌人移动到你所在的格子时必须与你\n战斗。\nDEF+2且可以反击。
+
+< CARD_GOLDENEGG_CHICKEN_EFFECT >
+name=金蛋
+descr=在掉落格获得奖励格的效果。
+
+< CARD_GOLDENEGG_NOTCHICKEN_EFFECT >
+name=金蛋
+descr=在奖励格获得掉落格的效果。
+
+< CARD_NATH_EFFECT >
+name=主动·部件扩张
+descr=每层储备使ATK·DEF+1，EVD-1。
+
+< CARD_NONAME_EFFECT >
+name=盆栽头
+descr=所有基础数值都变为-1。\n效果持续至复活或到达HOME格。
+
+< CARD_AMPATK_EFFECT >
+name=攻击强化
+descr=每层储备使ATK+1。
+
+< CARD_AMPDEF_EFFECT >
+name=防御强化
+descr=每层储备使DEF+1。
+
+< CARD_AMPEVD_EFFECT >
+name=闪避强化
+descr=每层储备使EVD+1。
+
+< CARD_AMPMOV_EFFECT >
+name=移动强化
+descr=MOV+1。
+
+< CARD_AMPHP_EFFECT >
+name=生命强化
+descr=每层储备使HP上限+1。
+
+< CARD_AMPRECOVERY_EFFECT >
+name=恢复强化
+descr=REC-1。
+
+< CARD_BOUNTY_AMPATK_EFFECT >
+name=攻击强化
+descr=每层储备使ATK+1。
+
+< CARD_BOUNTY_AMPDEF_EFFECT >
+name=防御强化
+descr=每层储备使DEF+1。
+
+< CARD_BOUNTY_AMPEVD_EFFECT >
+name=闪避强化
+descr=每层储备使EVD+1。
+
+< CARD_SOLIDWITCH_EFFECT >
+name=坚实魔女
+descr=不会受到伤害。
+
+< CARD_HYPER_SWEETEATER_EFFECT >
+name=甜点品尝者
+descr=基础数值变为3ATK和0DEF·EVD。\n效果持续至复活。
+
+< CARD_STEALTHON_EFFECT >
+name=隐身启动
+descr=无法被挑战或被其他玩家的增益卡指定为目标。\n不会触发遭遇格或BOSS格。\n进入战斗时效果结束，但在这场战斗中\nATK+2。
+
+< CARD_SMOKESCREEN_EFFECT >
+name=束缚的烟幕
+descr=移动骰只能投出1、2或3。
+
+< CARD_KIRIKO_EFFECT >
+name=奇怪的药
+descr=每层储备使HP上限-1。
+
+< CARD_CUTIES_EFFECT >
+name=闯入活动
+descr=从奖励格获得STAR时额外获得1个。
+
+< CARD_SPECIALSTAGE_EFFECT >
+name=演唱会模式
+descr=MOV-3，只能触发移动类型的格子，不能\n使用卡片。\n无法被挑战或被增益卡指定为目标。\n当对手在5×5范围内结束回合时，从其手中\n夺取本角色等级×5的STAR。\n倒下时效果结束。
+
+< CARD_PATHBLOCKERS_EFFECT >
+name=拦路者
+descr=移动到设置了陷阱卡的格子时，必须停留在\n那一格。
+
+< CARD_POPPOFORMATION_EFFECT >
+name=啵噗化
+descr=在下一场战斗中，ATK·DEF·EVD变为-1。
+
+< CARD_HAND_BOOST_EFFECT >
+name=手牌提升
+descr=每层储备使手牌上限+1，最大上限为5。
+
+< CARD_CHEAT_EFFECT >
+name=? ? ? ? ? ?
+descr=????
+
+< CARD_CHAINBOUND_EFFECT >
+name=束缚
+descr=EVD-2，MOV-1。
+
+< CARD_JOKER_EFFECT >
+name=啵噗鬼牌
+descr=卡片在使用时视为1级且无需COST。
+
+< CARD_HERBAL_REMEDY_EFFECT >
+name=草药汤
+descr=不会受到伤害。
+
+< CARD_ACCEL_CANDY_EFFECT >
+name=极速超能糖
+descr=任何行动的骰子枚数变为2倍。
+
+< CARD_COTTONCAKE_EFFECT >
+name=免费卡片
+descr=卡片无需COST。同时移除卡片的等级需求。
+
+< CARD_REDBEANCREAM_EFFECT >
+name=红豆冰淇淋
+descr=ATK+1。\n倒下时效果结束。\n此效果无法叠加。
+
+< CARD_ZAPPERSWORD_EFFECT >
+name=魔法附魔剑
+descr=永久ATK+1，但DEF-1。
+
+< CARD_MELONPAN_EFFECT >
+name=蜜瓜包
+descr=永久DEF·EVD+1，但ATK-1。
+
+< CARD_SMOKEBOMB_EFFECT >
+name=烟雾炸弹
+descr=在下一场战斗中，对方的ATK·DEF·EVD-1。
+
+< CARD_SHIELD_EFFECT >
+name=盾
+descr=降低受到的伤害，随受伤次数减少储备层数。
+
+< CARD_ELLIEATK_EFFECT >
+name=艾莉的奇迹（ATK）
+descr=每层储备使ATK+1。
+
+< CARD_ELLIEDEF_EFFECT >
+name=艾莉的奇迹（DEF）
+descr=每层储备使DEF+1。
+
+< CARD_ELLIEEVD_EFFECT >
+name=艾莉的奇迹（EVD）
+descr=每层储备使EVD+1。
+
+< CARD_LUCKYLUNCH_EFFECT >
+name=幸运餐
+descr=ATK·DEF·EVD+1。
+
+< CARD_ALICIANRONE_ATK_EFFECT >
+name=急速伤害
+descr=经过敌人时造成储备层数的伤害。
+
+< CARD_BEASTWITCH_EFFECT >
+name=野兽的贡品
+descr=在回合结束时丢弃「兽之魔女」。
+
+< CARD_SLOW_EFFECT >
+name=迟缓
+descr=每层储备使MOV-1。
+
+< CARD_SHROOMZOOM_EFFECT >
+name=奇异蘑菇
+descr=每层储备使MOV-1。
+
+< CARD_SUGURI46_EFFECT >
+name=重获新生
+descr=下次移动骰枚数+1。
+
+< CARD_SUGURI46_ATK_EFFECT >
+name=追忆
+descr=ATK+1。
+
+< CARD_MAYNIECOUNT_EFFECT >
+name=愤怒值
+descr=在使用愤怒狂暴后，每层储备使\nATK·EVD+1。
+
+< CARD_MAYNIERAGE_EFFECT >
+name=狂暴模式
+descr=每层储备使ATK·EVD+1。
+
+< CARD_PASSIONATERESEARCH_EFFECT >
+name=探究心
+descr=能够看到卡堆顶部的X张卡，X为储备层数。
+
+< CARD_MINIGAME_TURNSKIP >
+name=啵噗停留
+descr=跳过下一个回合。
+flavor=
+
+< CARD_MINIGAME_REVERSEMOVEMENT >
+name=啵噗逆行
+descr=必须逆行。
+flavor=
+
+< CARD_MINIGAME_DOUBLEDICE >
+name=啵噗骰子
+descr=投掷骰子时枚数+1。
+flavor=
+
+< CARD_MINIGAME_FROSTWALKER >
+name=啵噗寒冰步
+descr=走过的格子将被冰冻1轮。
+flavor=
+
+< CARD_XMAS2018_SNOWBALLFIGHTBAN >
+name=寒冷
+descr=无法发起打雪仗。
+flavor=
+
+< CARD_WANTED_EFFECT >
+name=通缉
+descr=被战斗击倒时对方获得双倍WIN。\n倒下时效果结束。
+
+< CARD_SWEETDESTROYER_EFFECT >
+name=甜点的破坏者
+descr=抽取的所有非Hyper甜点类卡片\n随机永久变为「危险布丁」或「糟糕的布丁」。
+
+< CARD_LONELYCHARIOT_EFFECT >
+name=孤独的暴走车
+descr=移动骰的点数为5。\n在回合结束时受到1点伤害。\n倒下时效果结束。\n因这个效果而倒下时失去等级×5的STAR。
+
+< CARD_PRESIDENTPRIVILEGE_EFFECT >
+name=学生会长的权益
+descr=使用卡片无需COST。
+
+< CARD_SANTASJOB_EFFECT >
+name=圣诞小姐的工作
+descr=在待命时，可以选择1张可用等级的手牌转让给\n另1名随机玩家。\n获得转让卡片的等级×5的STAR。
+
+< CARD_BANNEDFORLIFE_EFFECT >
+name=永久驱逐
+descr=只能使用礼物卡。
+
+< CARD_EVILSPYWORKEXEC_EFFECT >
+name=阴谋的间谍行动～执行
+descr=在回合结束时受到3点伤害。
+
+< CARD_REDBEANICECREAM_EFFECT >
+name=奇迹红豆冰淇淋
+descr=每层储备使ATK+1。
+
+< CARD_REDBLUE_EFFECT >
+name=小红＆小蓝
+descr=每层储备使ATK·DEF·EVD+1。
+
+< CARD_BEASTWITCHGIFT_EFFECT >
+name=兽之魔女
+descr=当其他玩家在遭遇格的战斗中失去STAR，\n且这些STAR将由遭遇格角色获得时，这些\nSTAR会由此角色获得。
+
+< CARD_UNLUCKYCHARM_EFFECT >
+name=不幸护符
+descr=在回合开始时失去等级数的STAR。
+
+< CARD_WINDYENCHANTMENT_EFFECT >
+name=疾风附魔
+descr=MOV+1。\n无法进行目标检测。
+
+< CARD_LOSTCHILD_EFFECT >
+name=迷路的孩子
+descr=反向移动。\n无法进行目标检测。
+
+< CARD_PRICEOFPOWER_EFFECT >
+name=力量的代价
+descr=可以使用比当前等级高1级的卡片。\n所有卡片COST+5。
+
+< CARD_POPPOSNATCHER_EFFECT >
+name=掠夺者啵噗
+descr=DEF-1。\n经过敌人时偷取其等级×3的STAR。\n无法进行目标检测。
+
+< CARD_BLOODLUST_EFFECT >
+name=鲜血渴望
+descr=在回合开始时失去1点HP。每造成1点伤害时\n恢复1点HP。\n无法进行目标检测。
+
+< CARD_LUCKYCHARM_EFFECT >
+name=幸运护符
+descr=在回合开始时获得等级数的STAR。\n无法使用其它卡片。\n被战斗击倒时，需额外给予等级×3的STAR。
+
+< CARD_MONOCOQUE_EFFECT >
+name=全金属单体结构
+descr=受到战斗外效果的造成伤害时，这个伤害降低\n1点，失去等级×2的STAR。
+
+< CARD_SAINTEYES_EFFECT >
+name=圣露眼
+descr=在由你先攻的战斗中，\n每奇数层储备使ATK+1，\n每偶数层储备使DEF+1。
+
+< CARD_CHEFSUMMON_EFFECT >
+name=拜托了厨师长！
+descr=「厨师长」会代替你进行战斗。\n允许克丽丝向其他角色发起挑战。
+
+< CARD_MANAGERSUMMON_EFFECT >
+name=拜托了店长！
+descr=「店长」会代替你进行战斗。\n允许克丽丝向其他角色发起挑战。
+
+< CARD_MANAGERCOUNTER_EFFECT >
+name=店长值
+descr=在使用上限为1的卡片时获得。当店长值\n大于等于4且你的等级大于等于4时，\n「拜托了厨师长！」会变为「拜托了店长！」。
+
+< CARD_BOSSROBOBARRIER_EFFECT >
+name=吸收外壳
+descr=吸收1点伤害。自动修复时移除。
+
+< CARD_BOSSROBOREPAIR_EFFECT >
+name=自动修复
+descr=如果你在回合开始时拥有3层自动修复，恢复\n1点HP并将其全部移除。
+
+< CARD_BOSSROBOSLOWSTART_EFFECT >
+name=慢启动
+descr=MOV-1。
+
+< CARD_PHILOSOPHERSTONE_EFFECT >
+name=贤者之石
+descr=每轮开始时获得4颗STAR，每5轮额外获得1颗STAR。
+
+< CARD_PERMARECREDUCTION_EFFECT >
+name=精力充沛
+descr=永久REC-1。
+
+< CARD_TEMPRECREDUCTION_EFFECT >
+name=体力增强
+descr=下次倒下时REC将依照储备层数减少。
+
+< CARD_SHOKUPAN_EFFECT >
+name=生命力充盈
+descr=在你的回合开始时，恢复储备层数的HP。
+
+< CARD_RADAR_EFFECT >
+name=观察者
+descr=获悉所有怪物的所在地点。
+
+< CARD_PRECISIONGOGGLES_EFFECT >
+name=目光敏锐
+descr=投掷范围增加2格。
+
+< CARD_POISONED_EFFECT >
+name=中毒
+descr=在你的回合开始时，受到储备层数的伤害。
+
+< CARD_HARBINGER_FAME >
+name=臭名昭著的欺凌者
+descr=每层储备增加1点声望，上限为6。\n累积的声望将在击败噩兆时追加到基础的声望\n奖励中。
+
+< CARD_HARBINGER_SOULEATER >
+name=噬魂者
+descr=当储备达到3层时，完全恢复自己的HP，\n并对所有角色降下灾厄。
+
+< CARD_HARBINGER_AWAKENED >
+name=觉醒的噬魂者
+descr=永久HP上限+1，ATK+1、DEF-1。
+
+< CARD_DOOM_EFFECT >
+name=灾厄
+descr=如在回合开始时持续时间到达0，将会直接造成\n击倒。\n击败效果来源、倒下或进入旅馆时移除效果。\n若在拥有此效果时倒下，给予\n噩兆1层噬魂者。
+
+< CARD_DARKCHOCOMOUSSE_STAREATER >
+name=噬星者
+descr=当储备达到3层时，完全恢复自己的HP，\n并对所有角色降下欠条。
+
+< CARD_DARKCHOCOMOUSSE_AWAKENED >
+name=觉醒的噬星者
+descr=永久HP上限+1，ATK+1、DEF-1。
+
+< CARD_CHOCOLATEDOOM_EFFECT >
+name=欠条
+descr=如在回合开始时持续时间到达0，\n黑巧克力唠鼠将会偷取你等级×10的STAR\n并获得1层噬星者。\n击败效果来源、倒下或进入旅馆时移除效果。
+
+< CARD_DARKCHOCOMOUSSE_FAME >
+name=臭名昭著的欺凌者
+descr=每层储备增加1点声望，上限为6。\n累积的声望将在击败黑巧克力唠鼠时\n追加到基础的声望奖励中。
+
+< CARD_SPIKEDSHIELD_EFFECT >
+name=刺盾
+descr=受到的伤害减少1点。\n当你的防御骰点数大于对方的攻击骰点数时，\n将攻击数值一半的伤害返还给对方。
+
+< CARD_BATTLEAXE_EFFECT >
+name=处刑者
+descr=永久ATK+1，但EVD-1。
+
+< CARD_CURSEDSWORD_EFFECT >
+name=诅咒之剑
+descr=ATK+2，但DEF·EVD·HP上限-1。
+
+< CARD_CURSEDAXE_EFFECT >
+name=诅咒战斧
+descr=20%几率造成暴击，10%几率攻击落空。
+
+< CARD_CURSEDBOUNTY_EFFECT >
+name=诅咒悬赏
+descr=你完成的下一个悬赏将额外给予2点声望，\n并将你的HP与HP上限设为1，直至倒下或\n进入旅馆。
+
+< CARD_CURSEDMARK_EFFECT >
+name=诅咒标记
+descr=作为完成诅咒悬赏的代价，将会迎来命中注定的\n陨落。
+
+< CARD_CURSEDICECREAM_EFFECT >
+name=紫豆冰淇淋
+descr=ATK+2，但HP上限-3（最低为1）。\n倒下时效果结束。
+
+< CARD_BRAVERYUP_EFFECT >
+name=无畏猎人
+descr=击败噩兆为你带来了勇气，在接下来储备层数\n场数的战斗中，所有受到的战斗伤害减少1点。
+
+< CARD_CONTRACTCURSE_EFFECT >
+name=契约诅咒
+descr=你持有至少1张诅咒契约。如果它们未能\n得到净化，经过3轮时间将丢弃1张诅咒契约。
+
+< CARD_OVERTIME_EFFECT >
+name=加班
+descr=移动骰枚数变为3枚。
+
+< CARD_CLOCKEDOUT_EFFECT >
+name=下班
+descr=跳过下一个回合。
+
+< CARD_HOMEIMPROVER_EFFECT >
+name=家居翻修
+descr=当效果结束时，随机交换HOME格的位置。
+
+< CARD_LUCKYSEVENS_EFFECT >
+name=幸运7
+descr=骰子的投点范围变为0～7，\n投出0时最小结果为0。
+
+< CARD_LUCKYZERO_EFFECT >
+name=幸运0
+descr=无法进行目标检测。
+
+< CARD_LOSTPRESENTS_EFFECT >
+name=丢失的礼物
+descr=当效果结束时，抽取储备层数的卡片。
+
+< CARD_GUIDANCE_EFFECT >
+name=风信鸡的指引
+descr=除战斗外，骰子枚数变为2枚。\n当你停留在自己的HOME格时效果结束。\n只能在自己的HOME格进行目标检测。
+
+< CARD_SAFEJOURNEY_EFFECT >
+name=平安的旅途
+descr=每当回合开始时失去5颗STAR。\n忽略掉落格、陷阱及来自卡片效果的伤害。\n当你停留在自己的HOME格或持有的STAR\n少于5个时效果结束。
+
+< CARD_HUNGRY_EFFECT >
+name=饥饿
+descr=拥有3层饥饿时EVD-1，直到你停留在\n自己的HOME格。
+
+< CARD_GUIDANCE_BH_EFFECT >
+name=风信鸡的指引
+descr=储备效果\n除战斗外，骰子枚数变为2枚。\n当你停留在HOME格时效果结束。
+
+< CARD_UPSHIFT_EFFECT >
+name=升档
+descr=每层储备使MOV+1。
+
+< CARD_LONELYRIDE_EFFECT >
+name=孤独之路
+descr=ATK+1·DEF+1·EVD+2。
+
+< CARD_ZEALOUSSALESMAN_EFFECT >
+name=炽热的商人之魂
+descr=每层储备使ATK+1。
+
+< CARD_NEWNOBILITY_EFFECT >
+name=贵族魅力
+descr=在你的下一场战斗开始时，ATK·DEF·EVD中的一项-1。
+
+< CARD_AFFLUENCE_EFFECT >
+name=大小姐的邀请
+descr=战斗时ATK-3。
+
+< CARD_RECOVERY_DOWN_EFFECT >
+name=恢复下降
+descr=每层储备使REC+1。
+flavor=
+
+< CARD_MESCAL_COOLDOWN_EFFECT >
+name=我才不需要帮忙！
+descr=当梅丝卡尔被挑战时，「海贼小弟」不会现身。
+flavor=
+
+< CARD_FORCED_DEPARTURE_EFFECT >
+name=强制离场
+descr=被勒令在此储备效果耗尽时离开战场。
+
+< CARD_IDEALWORLD_EFFECT >
+name=机械支配
+descr=你的下次遭遇战将会是机械系野怪，且此机械系\n角色将ATK+1。
+
+< CARD_HARDENEDSCALES_EFFECT >
+name=硬化鳞片
+descr=每层储备使ATK+1。倒下时效果结束。
+
+< CARD_GOODESTBOY_EFFECT >
+name=可爱到犯规的小狗狗
+descr=免疫立即击倒效果。\n当你与另一名玩家在同一格，且其中一方回合\n结束时，你获得对方一张随机手牌的副本。\n无法发起挑战或受到挑战，相对的，对方可以\n停下来摸摸你。倒下时效果结束。
+
+< CARD_BOMBIMMUNITY_EFFECT >
+name=爆炸免疫
+descr=不会受到炸弹的爆炸伤害，直到下一轮开始。
+
+< CARD_ARTOFSWORD_EFFECT >
+name=剑之技艺
+descr=你的战斗能力提升了。永久ATK+1。
+
+< CARD_ARTOFSHIELD_EFFECT >
+name=盾之技艺
+descr=你抵抗伤害的能力提升了。永久DEF+1。
+
+< CARD_ARTOFEVASION_EFFECT >
+name=闪避之技艺
+descr=你的闪避能力提升了。永久EVD+1。
+
+< CARD_RESOLUTE_EFFECT >
+name=顽强意志
+descr=永久REC-1。
+
+< CARD_STIMULATION_EFFECT >
+name=精神振奋
+descr=永久HP上限+1。
+
+< CARD_CARRIER_EFFECT >
+name=尽收囊中
+descr=永久手牌上限+1，契约上限+1。
+
+< CARD_PREMIUMMEMBERSHIP_EFFECT >
+name=高级会员
+descr=所有商店（不含可疑商人）的价格在完成价格\n计算后获得30%折扣。
+
+< CARD_JOGGER_EFFECT >
+name=健步如飞
+descr=如果你在回合结束时耗尽移动点数，下次移动骰MOV+1。
+
+< CARD_JOGGING_EFFECT >
+name=健步
+descr=每层储备使下次移动骰MOV+1。
+
+< CARD_PLENTIFULHARVEST_EFFECT >
+name=日进斗金
+descr=能够在完成悬赏时获得STAR。
+
+< CARD_COMMANDER_EFFECT >
+name=发号施令
+descr=能够操作你的召唤物。
+
+< CARD_SWEETMOUNTAIN_EFFECT >
+name=甜点成堆大作战
+descr=可以额外使用增益卡，且使用时只需\n1/3的COST。
+
+< CARD_CHAOS_PROTECT_EFFECT >
+name=混沌保护
+descr=在你受到任意伤害时，每消耗1层储备可以\n将2点伤害降至1点。
+
+< CARD_CHAOS_HYPE_EFFECT >
+name=兴奋
+descr=她好兴奋。
+
+< CARD_CHAOS_RAMPAGE_EFFECT >
+name=混沌撒野
+descr=每层储备使ATK+1。
+
+< CARD_CHAOS_MUSCLE_EFFECT >
+name=混沌肌肉
+descr=每层储备使基础ATK+1（上限为\n基础ATK+3）。
+
+< CARD_CHAOS_GUARD_EFFECT >
+name=混沌防守
+descr=每层储备使基础DEF+1（上限为\n基础DEF+3）。
+
+< CARD_CHAOS_SPEED_EFFECT >
+name=混沌速度
+descr=每层储备使基础EVD+1（上限为\n基础EVD+3）。
+
+< CARD_CHAOS_LAUNCH_EFFECT >
+name=混沌发射
+descr=在你的回合开始时，俯冲至所选的格子，\n对5×5范围内的角色造成你等级数的伤害，\n对3×3范围内的角色则造成你等级×2的伤害。
+
+< CARD_CHAOS_DIVE_FATIGUE_EFFECT >
+name=俯冲疲劳
+descr=存在此效果时无法进行目标检测。
+
+< CARD_BOMBIMMUNITY_EFFECT >
+name=爆炸免疫
+descr=不会受到炸弹的爆炸伤害，直到下一轮开始。
+
+< CARD_HOTPOTATO_EFFECT >
+name=烫手小精怪
+descr=早晚要炸！
+
+< CARD_SLUMBERTHREATS_EFFECT >
+name=将吾封印撼动之物
+descr=每当你消除1点伤害，获得1层苏醒。
+
+< CARD_WAKING_EFFECT >
+name=苏醒
+descr=你的睡眠遭受威胁的次数。
+
+< CARD_PRISONBREAK_EFFECT >
+name=假想越狱
+descr=无法被挑战或被其他玩家的增益卡指定为目标。\n免疫来自其他玩家的陷阱卡、立即击倒效果与\n卡片伤害。\n移动骰枚数变为2枚。\n每移动1格失去1层。
+
+< CARD_MOTHERPOWER_EFFECT >
+name=母亲之力
+descr=你受到的每点伤害使你获得等级数的STAR。\n当效果在存活时结束或被刷新，恢复所有HP。\n倒下时效果结束。
+
+< CARD_HYPERMIRACLE_EFFECT >
+name=艾莉的超能奇迹
+descr=持续效果（2轮）\n在先攻的战斗中ATK+X。\n在后攻的战斗中DEF·EVD+X。\nX为完成目标的总次数。
+
+< CARD_MOMENTOFGLORY_EFFECT >
+name=前主角的光辉时刻
+descr=★COST（等级×10）\nHP降至1。\n持续效果（3轮）\nATK+4，EVD+5。
+
+< CARD_HKAIPASSIVE_EFFECT >
+name=最后一搏
+descr=因战斗外伤害使HP低于1点时，残留1点HP；\n若下次经历你的回合结束时依然只有1点HP，\n则会被击倒。
+
+< CARD_WARPCONTROL_EFFECT >
+name=传送操控
+descr=下次触发传送或传送移动格时，消耗此效果，\n选择另一个传送或传送移动格作为传送目标。
+
+< CARD_NANAKOBIT_EFFECT >
+name=奈奈子的浮游炮
+descr=持有这张卡时，进入战斗随机获得\nATK+1、DEF+1或EVD+1，并失去\n7颗STAR。
+
+< CARD_CANNONBALL_EFFECT >
+name=炮弹
+descr=使用卡片时获得。
+
+< CARD_BOURBON_EFFECT >
+name=断叶
+descr=每层储备使HP上限-1。倒下时效果结束。
+
+< CARD_HEART_OF_RESISTANCE_EFFECT >
+name=抵抗之心
+descr=若存活，在你指定的玩家受到挑战或进行挑战时，代替其进行战斗。
+
+< CARD_HYPER_POYO_EFFECT >
+name=超级青春Time
+descr=攻击·防御·闪避·移动·奖励·掉落骰\n投点翻倍。
+
+< CARD_HYPER_CHUU_EFFECT >
+name=该拿出点真本事了
+descr=每层储备使ATK+1。\n击倒敌人时不会获得STAR。\n效果存在期间初次战斗击倒玩家额外获得\n2WIN。
+
+< CARD_CHAOS_SLAYER_EFFECT >
+name=歼灭者之魂
+descr=你与其他的灵魂战友被一种神秘的牵绊连接着。\nREC-1，移动骰为2枚。\n你可以治疗和复活其他的灵魂战友。
+
+< CARD_CHAOS_TANK_EFFECT >
+name=坦克之魂
+descr=你奉命击溃敌人。\nATK+2，HP上限大幅提升，免疫立即击倒\n和HP减少效果。恢复无效。
+
+< CARD_CHAOS_TERRORIZE_EFFECT >
+name=惧怕
+descr=应用效果后，复活时REC+3。
+
+< CARD_HYPER_HARUKA_GLOBAL_EFFECT >
+name=暖场高手
+descr=每当其他玩家倒下时，其立即以最大HP复活。
+
+< CARD_HYPER_HARUKA_PERSONAL_EFFECT >
+name=激动！
+descr=当其他玩家倒下时，获得其等级×5的STAR。\n当有多个「暖场高手」激活时，该效果叠加。
+
+< CARD_INTELLECTUALBLUFF_EFFECT >
+name=故弄玄虚
+descr=当你使用的下一张卡片：\n·符合指定者暗自选择：其获得2WIN和等级×10的STAR。\n·仅符合指定者宣称：其受到2点伤害。
+
+[EOF]

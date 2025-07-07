@@ -1,0 +1,121 @@
+< CARD_SHROOM_BLUE >
+name=Blue Mushroom
+descr=Smells funky.
+
+< CARD_SHROOM_BROWN >
+name=Brown Mushroom
+descr=Smells funky.
+
+< CARD_SHROOM_GREEN >
+name=Green Mushroom
+descr=Smells funky.
+
+< CARD_SHROOM_ORANGE >
+name=Orange Mushroom
+descr=Smells funky.
+
+< CARD_SHROOM_PINK >
+name=Pink Mushroom
+descr=Smells funky.
+
+< CARD_SHROOM_PURPLE >
+name=Purple Mushroom
+descr=Smells funky.
+
+< CARD_SHROOM_RAINBOW >
+name=Rainbow Mushroom
+descr=Smells funky.
+
+< CARD_SHROOM_RED >
+name=Red Mushroom
+descr=Smells funky.
+
+< CARD_SHROOM_WHITE >
+name=White Mushroom
+descr=Smells funky.
+
+< CARD_SHROOM_YELLOW >
+name=Yellow Mushroom
+descr=Smells funky.
+
+< CARD_SHROOM_PHANTOMBLUE >
+name=Phantom Blue Mushroom
+descr=Smells eerily funky.
+
+< CARD_SHROOM_LEGENDARYRED >
+name=Legendary Red Mushroom
+descr=Smells notoriously funky.
+
+< CARD_SHROOM_MOVEUP >
+descr=Gain +%d MOV on your next movement roll.
+
+< CARD_SHROOM_MOVEDOWN >
+descr=Gain -%d MOV on your next movement roll.
+
+< CARD_SHROOM_GAINSTARS >
+descr=Gain Lvl x %d stars.
+
+< CARD_SHROOM_LOSESTARS >
+descr=Lose Lvl x %d stars.
+
+< CARD_SHROOM_HEALTHUP >
+descr=Gain %d HP.
+
+< CARD_SHROOM_HEALTHDOWN >
+descr=Lose %d HP.
+
+< CARD_SHROOM_ATTACKUP >
+descr=Gain +%d ATK during this battle.
+
+< CARD_SHROOM_ATTACKDOWN >
+descr=Gain -%d ATK during this battle.
+
+< CARD_SHROOM_DEFENSEUP >
+descr=Gain +%d DEF during this battle.
+
+< CARD_SHROOM_DEFENSEDOWN >
+descr=Gain -%d DEF during this battle.
+
+< CARD_SHROOM_EVADEUP >
+descr=Gain +%d EVD during this battle.
+
+< CARD_SHROOM_EVADEDOWN >
+descr=Gain -%d EVD during this battle.
+
+< CARD_SHROOM_HEAL >
+descr=Heal %d HP.
+
+< CARD_SHROOM_DAMAGE >
+descr=Take %d damage.
+
+< CARD_SHROOM_ROLLONE >
+descr=Only roll 1 in this battle.
+
+< CARD_SHROOM_ROLLSIX >
+descr=Only roll 6 in this battle.
+
+< CARD_SHROOM_FROSTWALKER >
+descr=Gain Frostwalker for %d chapter(s).
+
+< CARD_SHROOM_WARP >
+descr=Warp to a random panel.
+
+< CARD_SHROOM_CONFUSION >
+descr=For %d chapter(s), all your cards are reversed (you see them face down, and other players can see your cards).
+
+< CARD_SHROOM_DRAW >
+descr=Draw 2 cards.
+
+< CARD_SHROOM_DISCARD >
+descr=Discard a random card.
+
+< CARD_SHROOM_WIN >
+descr=Gain 1 win.
+
+< CARD_SHROOM_LEGEND_STARS >
+descr=Gain +Lvl stars from all sources. On Battle KO, winner steals this card if it's a player.
+
+< CARD_SHROOM_LEGEND_WINS >
+descr=Gain +1 Win from all sources. On Battle KO, winner steals this card if it's a player.
+
+[EOF]

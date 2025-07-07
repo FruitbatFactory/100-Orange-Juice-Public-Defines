@@ -1,0 +1,294 @@
+< PET_BARREL >
+name=Red Barrel
+descr=Red Barrel is ready to fly! 
+
+< PET_CAT >
+name=Cat
+descr=An elusive creature with a smug aura.
+
+
+< PET_CHICKEN >
+name=Chicken
+descr=Evades when no else would.
+
+
+< PET_FRUITBAT >
+name=Fruitbat
+descr=A bat that has an obsession with oranges.
+
+
+< PET_GHOST >
+name=Ghost
+descr=Who's that behind you?
+
+
+< PET_LEO >
+name=Leo
+descr=The beast of darkness will dance again.
+
+
+< PET_NAVI >
+name=Navi
+descr=What kind of creature is this?
+
+< PET_PLANT >
+name=Plant
+descr=Bites the hand that feeds it.
+
+
+< PET_RABBITPLUSH >
+name=Rabbit Plushie
+descr=This plush might be possessed.
+
+
+< PET_RACCOON >
+name=Raccoon
+descr=Is it a raccoon? Is it a dog? Can it transform?
+
+
+< PET_RBIT >
+name=Rbit
+descr=Formation Orbit!
+
+
+< PET_REDBLUE >
+name=Red & Blue
+descr=White Christsmasher!
+
+
+< PET_ROBOBALL >
+name=Roboball
+descr=For the little mechanic in everyone's heart.
+
+
+< PET_SB_BOMB >
+name=SB Bomb
+descr=Don't drop this.
+
+
+< PET_SEAGULL >
+name=Seagull
+descr=Its favourite number is seven.
+
+< PET_SEARCHLIGHT >
+name=Searchlight
+descr=Seems to be searching for somebody in particular.
+
+
+< PET_SHIBE >
+name=Shiba Inu
+descr=Loyal to a fault.
+
+< PET_SNOWBUNNY >
+name=Snowbunny
+descr=Keep it cool.
+
+
+< PET_THINKBUBBLE >
+name=Thinking Bubble
+descr=What are you thinking about?
+
+< PET_EVENT_REIN >
+name=Rein
+descr=Aru's trusty helper. On vacation 364 days a year.
+
+
+< PET_EVENT_PRESENT >
+name=Present
+descr=A wonderful gift that warms the heart.
+
+
+
+< PET_EVENT_PIG>
+name=Pig
+descr=Can pigs really fly?
+
+< PET_LIZARD >
+name=Lizard
+descr=May or may not live in the center of the earth.
+
+< PET_DWARF>
+name=Dwarf
+descr=Now actually living up to its name.
+
+< PET_PIYO_EGGSHELL>
+name=Piyo (Eggshell)
+descr=Which came first - the piyo or the egg?
+
+< PET_PIYO>
+name=Piyo
+descr=The piyo that came first.
+
+< PET_TORTOISE>
+name=Tortoise
+descr=Is known to always win the race... eventually.
+
+< PET_UFO>
+name=UFO
+descr=Always trying to catch rare things. 
+
+< PET_SHARK>
+name=Shark
+descr=Its menacing jaws would look great on a poster.
+
+< PET_FROG>
+name=Frog
+descr=A frog that isn't too fond of the rain.
+
+< PET_BIT>
+name=Bit
+descr=A little bit energetic.
+
+< PET_SLIME>
+name=Slime
+descr=Said to have a sweet flavour.
+
+< PET_GOLDENEGG >
+name=Golden Egg
+descr=A special egg that can hatch more than once.
+
+< PET_M10EYE >
+name=M10 Eye
+descr=It sees imaginary numbers, can you?
+
+< PET_STAR >
+name=Elusive Star
+descr=Comes from a different galaxy.
+
+
+< PET_AIRSHIP >
+name=Airship
+descr=Coming to give you air support.
+
+< PET_BUTTERFLY >
+name=Butterfly
+descr=50% Butter, 50% Fly.
+
+< PET_CUPCAKE >
+name=Cupcake
+descr=Baked at 350 degrees Fahrenheit.
+
+< PET_BOSS_HARUO >
+name=Haruo
+descr=Has a golden heart.
+
+< PET_BOSS_JONATHAN >
+name=Big the Jonathan
+descr=Not exactly all that big.
+
+< PET_BOSS_M10 >
+name=M10
+descr=Natural 7 out of M10.
+
+< PET_BOSS_ROPOCHI >
+name=RoPoChi
+descr=GUPPIPOO!
+
+< PET_BOSS_STARDEV >
+name=Star Devourer
+descr=Able to warp to anywhere in the world.
+
+< PET_OCTOPUS >
+name=Octopus
+descr=Can handle eight tasks at once.
+
+< PET_SEAL >
+name=Seal
+descr=Seals the Deal.
+
+< PET_SQUID >
+name=Squid
+descr=Release the Kraken.
+
+< PET_MANDRAKE >
+name=Mandrake
+descr=Dealing with some deep rooted problems.
+
+< PET_SUN >
+name=Sun
+descr=Radiates radness.
+
+< PET_SEABUNNY >
+name=Seabunny
+descr=Santa of the sea.
+
+< PET_ROBOFISH >
+name=Robofish
+descr=Programmed to keep on swimming.
+
+< PET_WATERMELON >
+name=Watermelon
+descr=Saved from Summer Beast's wrath.
+
+< PET_EVENT_POMENARIAN >
+name=Pomeranian
+descr=A bit of a fool dog.
+
+< PET_EVENT_PUDDING >
+name=Pudding
+descr=A favorite treat of dogs and witches across the universe.
+
+< PET_EVENT_PUFFERFISH >
+name=Pufferfish
+descr=Puffed up with pride.
+
+
+< PET_FUNKYFUNGUS >
+name=Funky Fungus
+descr=A fungus in trying times.
+
+< PET_ROBOCRAB >
+name=Robocrab
+descr=It's got the moves.
+
+< PET_PONYCORN >
+name=Ponycorn
+descr=Spreading the magic of friendship.
+
+< PET_WOLLIL>
+name=Wolli'l
+descr=So fluffy you could die.
+
+< PET_GLOBLET >
+name=Globlet
+descr=Globlet of fire.
+
+< PET_TROLLITE >
+name=Trol-lite
+descr=One fear.
+
+< PET_SPOOKYDOLL >
+name=Spooky Doll
+descr=Its cuteness will haunt your dreams.
+
+< PET_HELISEEDLING >
+name=Heliseedling
+descr=Gone with the wind.
+
+< PET_TERRAWORMER >
+name=Terrawormer
+descr=Terrably cute.
+
+< PET_MINIMOSS >
+name=Mini Moss
+descr=Has a heart of gold.
+
+< PET_GEMERANGLER >
+name=Gemerangler
+descr=A hidden gem.
+
+< PET_WUFFSHROOM >
+name=Wuffshroom
+descr=Man's best fungi.
+
+< PET_TURNISLIM >
+name=Turnislim
+descr=Took one turn too many.
+
+< PET_PUNYZARD >
+name=Punyzard	
+descr=It has been asleep for many long ears.
+
+< PET_MASHIRO >
+name=Masshiro
+descr=No longer unlucky.

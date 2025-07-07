@@ -1,0 +1,160 @@
+<0000> There.
+<0001> Here I go.
+<0002> I figure I'm supposed to make a dice roll here.
+<0003> Allow me to throw the dice.
+<0004> I suppose I should play a card here, yes I should.
+<0005> This is a good investment, I say.
+<0006> Nothing ventured, nothing gained!
+<0007> My intuition is saying this is the right call.
+<0008> They won't be able to resist my offer...
+<0009> Discretion is the better part of valor, yes it is.
+<0010> A good product sells itself.
+<0011> A wise man plans ahead...
+<0012> Time to invest.
+<0013> I should go all out here, yes I should.
+<0014> I must press ahead!
+<0015> Hmm, maybe this one?
+<0016> The cargo's all loaded up, time to deliver!
+<0017> You can't keep a businessman down for long, no you can't.
+<0018> Rise and shine, yes I will!
+<0019> Enough lounging around.
+<0020> Gotta make up for lost time.
+<0021> Such misfortune...
+<0022> I'll bide my time... yes I will...
+<0023> What a waste of time.
+<0024> This is the worst.
+<0025> Hey hey hey!
+<0026> Accept my deal!
+<0027> Sign now!
+<0028> Order today!
+<0029> Guh!
+<0030> What was that?!
+<0031> Hey, stop that!
+<0032> Why?!
+<0033> There's nothing time and money can't heal.
+<0034> Ah, that's better.
+<0035> Mmm, that hits the spot.
+<0036> Excellent service.
+<0037> Uwah!
+<0038> A sudden... opportunity?!
+<0039> Ahem, I seem to have lost my bearings for a bit.
+<0040> Uwoh...!
+<0041> Blasted!
+<0042> Looks like I'll need to pay off the ferryman...
+<0043> Early to bed, early to rise!
+<0044> I must reflect on this...
+<0045> It's time for you to pay the piper!
+<0046> Ante up!
+<0047> You'll be my cash cow, won't you?
+<0048> Sometimes you've gotta take out the competition.
+<0049> If you want to play rough, we can play rough!
+<0050> Yes, sure thing.
+<0051> If you think my train's an easy mark, you've got another thing coming!
+<0052> After my cargo, are you?
+<0053> Ramming speed!
+<0054> There!
+<0055> Alright, fork it over!
+<0056> Take this, why won't you!
+<0057> Why you!
+<0058> Ugh!
+<0059> Watch it, I have fragile cargo!
+<0060> Stop that!
+<0061> I'll make you pay for that! Literally!
+<0062> You'll pay for that! Yes you will!
+<0063> Ugyoooh!
+<0064> Gyaah!
+<0065> Why don't you realize you can't stop me?
+<0066> I won't slow down! No I won't!
+<0067> Phew!
+<0068> Close call.
+<0069> Thank you for your business.
+<0070> Another satisfied customer.
+<0071> Happy to do business with you!
+<0072> So long, sucker!
+<0073> Daylight shrubbery! I mean robbery!
+<0074> Blasted! What a failure...
+<0075> Seems I bet on the wrong horse... yes I did.
+<0076> Cheapskate!
+<0077> Nothing better than free money!
+<0078> Money can't buy happiness, they say? Bah!
+<0079> From rags to riches!
+<0080> I hit it big, yes I did!
+<0081> What a blunder...!
+<0082> No, all my profits...!
+<0083> Easy come, easy go...
+<0084> So long, my dreams...
+<0085> Ugyah!?
+<0086> The cargo?!
+<0087> Are my goods okay?!
+<0088> An ambush!
+<0089> Mmm, a tough customer!
+<0090> This will be a challenging negotiation.
+<0091> Hmm... you don't look willing to haggle.
+<0092> Perhaps I should've picked the other route...
+<0093> Time to make some money.
+<0094> Business as usual.
+<0095> Money makes the world go around!
+<0096> It's all about money!
+<0097> How many customers can we win over today?
+<0098> I'll make them an offer they can't refuse. No they can't!
+<0099> Money is power!
+<0100> A fool and his money are soon parted. Yes they are!
+<0101> You called?
+<0102> You have need of my services?
+<0103> I'm always ready to do business, yes I am.
+<0104> You have goods you need delivered?
+<0105> Buy low, sell high.
+<0106> We deliver faster than anyone, yes we do!
+<0107> Aiming for a speedy delivery!
+<0108> I'm on the clock now.
+<0109> We're number one in the business! Yes we are!
+<0110> Our terms cannot be beat!
+<0111> The market is all mine!
+<0112> I always come out on top in the end!
+<0113> I wonder if this would sell well?
+<0114> An excellent item, I say!
+<0115> The customer has a discerning eye.
+<0116> Such rare goods!
+<0117> Sorry, gotta go!
+<0118> I've got another delivery to do, yes I do.
+<0119> Remember, there's no payment on failure!
+<0120> I'll entrust the cargo to you!
+<0121> It's a deal.
+<0122> Excellent!
+<0123> Deal!
+<0124> Hah, no way.
+<0125> Don't fret, no one always wins.
+<0126> Fortune smiles upon us!
+<0127> What's that about?
+<0128> Let's go for a new record!
+<0129> I have a feeling this will be the winning throw!
+<0130> It's time to roll out!
+<0131> Why, hello there.
+<0132> Fumu fumu...
+<0133> Fufu, excellent.
+<0134> How marvelous!
+<0135> Curses!
+<0136> Waste not, want not.
+<0137> One man's trash is another's treasure.
+<0138> Finders keepers!
+<0139> Let's make them work for us.
+<0140> Stay away from the tracks, will you!
+<0141> Need another delivery? I've got you covered, yes I do!
+<0142> Time is money!
+<0143> A penny saved is a penny earned!
+<0144> Time to cut my losses...
+<0145> Fuhuhu! This is what you make connections for.
+<0146> Your supply, my delivery - think what we could accomplish!
+<0147> Oh, I smell a fellow businessman, yes I do.
+<0148> If you can just sign here...
+<0149> You drive a tough bargain!
+<0150> And a fine day to you too!
+<0151> Just let me know if you need more. We have a good resupply plan!
+<0152> Mm, a worthwhile compromise.
+<0153> I'll just write that one off as a loss.
+<0154> You look like you could use an upgrade!
+<0155> Allow me to make a counter-proposal!
+<0156> I'm right on schedule, yes I am.
+<0157> Another perfect delivery!
+<0158> Don't mind if I do.
+<0159> Neither snow nor rain can keep me down, no it can't!

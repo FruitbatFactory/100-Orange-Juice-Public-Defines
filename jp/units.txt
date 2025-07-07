@@ -1,0 +1,627 @@
+
+< CARD_UNIT_ALTE >
+name=アルテ
+descr=バトルで、相手のバトルカードをランダムに1枚見る。「自爆」でATK+1（最大+3）。
+
+< CARD_UNIT_ARTHUR >
+name=アーサー
+descr=店舗と同数の追加スターをボーナスマスと店舗から得る(追加スター上限：現在のレベル)。
+
+< CARD_UNIT_ARU >
+name=アル
+descr=手札を4枚持てる。
+
+< CARD_UNIT_ARUSCRAMBLE >
+name=アル (スクランブル)
+descr=手札を4枚持てる。
+
+< CARD_UNIT_BIG_THE_JONATHAN >
+name=ビッグ・ザ・ジョナサン
+descr=プレイヤーダウン時、1チャプターの間ATK+1。4チャプターごとに、自身のターン終了時に「打ち上げ」。10チャプターごとに永続ATK+1とDEF・EVD-1。
+
+< CARD_UNIT_BIG_THE_JONATHAN_HYPER >
+name=ビッグ・ザ・ジョナサン
+descr=プレイヤーダウン時、1チャプターの間ATK+1。3チャプターごとに、自身のターン終了時に「打ち上げ」。10チャプターごとに永続ATK+1とDEF・EVD-1。
+
+< CARD_UNIT_BOSS_CHICKEN >
+name=ビッグ・ザ・ハルオ
+descr=フィールド上の「ニワトリ」1羽ごとに、攻撃ダイス時にATK・DEF-1、ダイス+1。5チャプターごとに「ニワトリ」1羽を召喚。
+
+< CARD_UNIT_BOSS_CHICKEN_HYPER >
+name=ビッグ・ザ・ハルオ
+descr=フィールド上の「ニワトリ」1羽ごとに、攻撃ダイスを振る時ATK・DEF-1、ダイス+1。5チャプターごとに「ニワトリ」2羽を召喚。
+
+< CARD_UNIT_BOSS_POPPO >
+name=星を貪る者
+descr=プレイヤーのチャプタースターボーナスが倍増。被ダメージでチャプター終了までDEF+1。所持スター300ごとに与バトルダメージ+1。1与バトルダメージごとにスター5個を得、1被バトルダメージごとに3個を与える。所持スター1000でゲームに勝利し、0で敗北。
+
+< CARD_UNIT_BOSS_POPPO_HYPER >
+name=星を貪る者
+descr=プレイヤーのチャプタースターボーナスが倍増。被ダメージでチャプター終了までDEF+1。所持スター300ごとに与バトルダメージ+1。1与バトルダメージごとにスター5個を得る。所持スター1000でゲームに勝利し、0で敗北。
+
+< CARD_UNIT_BIG_POPPO >
+name=びっぐ・ぽっぽ
+descr=ダメージを与えない代わりに、与ダメージ量×3のスターを相手から奪う。ダウンした時、3ウィンとボスの100スターを与える。REC10。
+
+< CARD_UNIT_BIG_POPPO_NM >
+name=びっぐ・ぽっぽ
+descr=
+
+< CARD_UNIT_BOSS_ROBOBALL >
+name=M10ロボット
+descr=自身のターン中、敵にバトルを挑んでも止まらない。「プロテクト」と「スクランブル」が有効でない時、「プロテクト」を使う。
+
+< CARD_UNIT_BOSS_QP >
+name=夏の獣
+descr=カモメの手下を毎ターン召喚(上限：ボスのレベル)。手下ダウンで-1テンション、プレイヤーダウンで+1テンション。ターン開始時に10テンション以上で「暴走」。
+
+< CARD_UNIT_BOSS_ROPOCHI >
+name=ロポチ
+descr=「ポーテクト」と「スクランブル」が有効でない時「ポーロテクト」。フィールド上の手下1につき、攻撃ダイス時にATK-2・ダイス+1。6チャプターごとに「止まり木ブースト」。1与バトルダメージごとに3スター。
+
+< CARD_UNIT_BOSS_ROPOCHI_HYPER >
+name=ロポチ
+descr=「ポーテクト」と「スクランブル」が有効でない時「ポーロテクト」。フィールド上の手下1につき、攻撃ダイス時にATK-2・ダイス+1。6チャプターごとに「止まり木ブースト」。1与バトルダメージ毎に5スター。
+
+< CARD_UNIT_BOSS_COACH >
+name=スイミングコーチ
+descr=2チャプターごとに、ブイを使う。\nバルーンジャークがいない時、バルーンジャークを使う。\nスイミングリンガーが1体以下の時、スイミングリンガーを使う。
+
+< CARD_UNIT_BOSS_COACH_HYPER >
+name=スイミングコーチ
+descr=2チャプターごとに、ブイを使う。\n毎チャプター、バルーンジャークとスイミングリンガーを使う。バトルでダメージを受けない。
+
+< CARD_UNIT_GOALPOST >
+name=ブイ
+descr=移動せず、回避しない。ダメージ量が1の攻撃でしかダメージを受けない。
+
+< CARD_UNIT_BALLOON_JERK >
+name=バルーンジャーク
+descr=
+
+< CARD_UNIT_SWIMMING_RINGER >
+name=スイミングリンガー
+descr=MOV-1。
+
+< CARD_UNIT_CHICKEN >
+name=ニワトリ
+descr=
+
+< CARD_UNIT_CHICKEN_MP >
+name=ニワトリ
+descr=バトルでダウンした時、失うスターの数が1/4、与えるウィンの数が1。
+
+< CARD_UNIT_CASTLE >
+name=空飛ぶ城
+descr=
+
+< CARD_UNIT_CASTLE_MP >
+name=空飛ぶ城
+descr=「不動の物体」の効果が有効な時のみ反撃できる。バトルで相手は攻撃時にバトルカードを使えない。
+
+< CARD_COOP_UNIT_CASTLE_MP >
+name=空飛ぶ城
+descr=バトルを挑まれた時、反撃できない。
+
+< CARD_UNIT_CEOREPARQUE >
+name=ケオレパルケ
+descr=回避成功で相手に1ダメージ。
+
+< CARD_UNIT_CUTIES >
+name=ソラ＆シャム（アイドル）
+descr=スターノルマのみ選択可。使用した異なるイベントカード1枚ごとに、ボーナスマスからのスター+1。バトルで、ランダムでATKかDEFが+1。
+
+< CARD_UNIT_FERNET >
+name=フェルネット
+descr=
+
+< CARD_UNIT_HIME >
+name=ヒメ
+descr=
+
+< CARD_UNIT_IRU >
+name=イル
+descr=バトルを挑んだ時、相手に1ダメージ与える。この効果でのダウンはバトルダウン扱い。
+
+< CARD_UNIT_ISLAY >
+name=アイラ
+descr=バトルを挑めない。
+
+< CARD_UNIT_KAE >
+name=カエ
+descr=DEFの逆の値をATKに加える。攻撃時、DEF-1。
+
+< CARD_COOP_UNIT_KAE >
+name=カエ
+descr=DEFの逆の値をATKに加える。
+
+< CARD_UNIT_KAI >
+name=カイ
+descr=
+
+< CARD_UNIT_KIRIKO >
+name=斬子
+descr=回復効果を受けつけない。\nバトルカード使用で、バトル中ATK・EVD+1、最大HP-1(下限：-2)。最大HP減少はバトル後も継続。
+
+< CARD_UNIT_KRILA >
+name=クリララリス
+descr=
+
+< CARD_UNIT_KYOKO >
+name=キョウコ
+descr=回避不可。
+
+< CARD_UNIT_KYOUSUKE >
+name=キョウスケ
+descr=
+
+< CARD_UNIT_MALT >
+name=モルト
+descr=バトルダウンで3ウィンを与える。バトルを挑めない。特別な使用条件がないバトルカードをトラップカードとし、コストなしでセットできる。そのカードを踏んだ敵と、お互いがそのカードの効果を付与した状態でバトルする。そのバトルで他のバトルカードは使えない。
+
+< CARD_UNIT_MANAGER >
+name=店長
+descr=
+
+< CARD_UNIT_MANAGER_MP >
+name=店長
+descr=ボーナスマスからスターを獲得不可。\nギフトカードのみ使用可。\nカード1枚を捨てる度に1ダメージ。
+
+< CARD_UNIT_MARC >
+name=マール
+descr=
+
+< CARD_UNIT_MEI >
+name=メイ
+descr=ターン終了時に手札がない時、\n「アカ＆アオ」を手札に加える。
+
+< CARD_UNIT_MESCAL >
+name=メスカル
+descr=バトルを挑まれた時、50%の確率で「海賊子分」が代わりにバトルする。海賊子分がバトルでKOした時、3チャプターの間出現しなくなる。海賊子分はバトルで得たスターをこのユニットへ与え、ダウンすると1ウィンを相手に与える。
+
+< CARD_UNIT_MIMYUU >
+name=みみゅう
+descr=トマトとして復活する。復活した時、同じマスにいる敵とバトルできる。バトルでダウンした時、1/4のスターを失い、1ウィンを与える。
+
+< CARD_UNIT_MIRA >
+name=ミラ
+descr=自身のセットしたトラップに他のプレイヤーがかかった時、以下の効果を付与。\n束縛のエンマク(2チャプター持続：移動ダイスの目が1、2、3のいずれかになる)
+
+< CARD_UNIT_MIUSAKI >
+name=ミウサキ
+descr=バトルでの防御時、1回あたりの最大被ダメージが2。
+
+< CARD_COOP_UNIT_MIUSAKI >
+name=ミウサキ
+descr=バトルでの防御時、1回あたりの被ダメージが自身の最大HPの半分を超えない（四捨五入）。
+
+< CARD_UNIT_MIXEDPOPPO >
+name=まりーぽっぽ(ミックス)
+descr=ワープ時にレベルが\n奇数：レベル×3のスターを得る\n偶数：カードを1枚引く\n※カード効果やイベントによるワープも含む
+
+< CARD_UNIT_MIO >
+name=ミオ
+descr=
+
+< CARD_UNIT_NANAKO >
+name=ななこ
+descr=
+
+< CARD_UNIT_NATH >
+name=ナート
+descr=バトルカードを使うと「アクティブ・エクステンション」が1ストックされる(上限:3)\nダウン時に1ストックを失う\n1ストックにつき、ATK・DEF+1、EVD-1
+
+< CARD_UNIT_NATSUMI >
+name=ナツミ
+descr=非ダウン状態での自ターン終了時、\n同じマスのアクティブな他の各ユニットのHPが1回復。\n回復したユニット数×5スターを得る。
+
+< CARD_COOP_UNIT_NATSUMI >
+name=ナツミ
+descr=非ダウン状態での自ターン終了時、\n同じマスのアクティブな他の各味方のHPが1回復。\n回復した味方数×5スターを得る。
+
+< CARD_UNIT_NICO >
+name=ニコ
+descr=手札を4枚持てる。\nギフトカードの効果を受けない。\n手札のギフトカードの枚数分、追加スター。
+
+< CARD_UNIT_NONAME >
+name=NoName
+descr=ダウンした時、「NoName(Head)」になる。バトルでダウンした時、スターやウィンを与えない。
+
+< CARD_UNIT_NONAME_HEAD >
+name=NoName(Head)
+descr=ホームマス、またはダウン時、\n「NoName」になる。MOV-1。
+
+< CARD_UNIT_POPPO >
+name=まりーぽっぽ
+descr=
+
+< CARD_UNIT_PEAT >
+name=ピート
+descr=
+
+< CARD_UNIT_QP >
+name=きゅーぴー
+descr=
+
+< CARD_UNIT_QPD >
+name=きゅーぴー(DANGEROUS)
+descr=「プリン」系の手札で、バトルでプラス補正。\nデンジャラスプリン:ATK+1・台無しプリン：DEF+1・プリン：EVD+1・携帯プリン：バトルでのダウン時にHPを1回復。
+
+< CARD_UNIT_ROBOBALL >
+name=ロボボール
+descr=
+
+< CARD_UNIT_ROBOBALL_MP >
+name=ロボボール
+descr=バトルでダウンした時、失うスターの数が1/4、与えるウィンの数が1。
+
+< CARD_UNIT_SAKI >
+name=サキ
+descr=
+
+< CARD_UNIT_SEAGULL >
+name=カモメ
+descr=
+
+< CARD_UNIT_SEAGULL_MP >
+name=カモメ
+descr=バトルダウンで、失うスター1/4、与破数1。
+
+< CARD_UNIT_SHAM >
+name=シャム
+descr=
+
+< CARD_UNIT_SHERRY >
+name=シェリー
+descr=バトルで後攻。\n相手もシェリーの時は無効。
+
+< CARD_UNIT_SHIFUROBOT >
+name=シフロボ
+descr=
+
+< CARD_UNIT_SHIFUROBOT_MP >
+name=シフロボ
+descr=開始時と自動復活時、HP1で1HP分のダメージ吸収シェルを装備。3チャプターごとの自ターン開始時、1HPを回復してシェルを失う。復活後3チャプターの間、MOV-1。
+
+< CARD_COOP_UNIT_SHIFUROBOT >
+name=シフロボ
+descr=開始時と、2ターン後の自動復活時、HP1で1HP分のダメージ吸収シェルを装備。3チャプターごとの自ターン開始時、1HPを回復してシェルを失う。\n復活ごとに燃え尽きをストックする。ストック効果：1ストックごとに復活が1ターン遅れる。
+
+< CARD_UNIT_SORA >
+name=ソラ
+descr=
+
+< CARD_UNIT_SORAMILITARY >
+name=ソラ(軍服)
+descr=バトルでダウンした時、\n次の自ターンにHP2で復活。
+
+< CARD_COOP_UNIT_SORAMILITARY >
+name=ソラ(軍服)
+descr=バトルでダウンした時、\n次の自ターンHP2で復活。バトルダウンから復活する度に「燃え尽き」を1ストック得る。ストック効果：1ストックにつき、復活を1ターン遅らせる。
+
+< CARD_UNIT_STARBREAKER >
+name=スターブレイカー
+descr=バトルノルマのみ選択可。
+
+< CARD_UNIT_SUGURI >
+name=スグリ
+descr=
+
+< CARD_UNIT_SUGURI_V2 >
+name=スグリ(Ver.2)
+descr=手札を2枚持てる。\n毎ターン開始時にHPを1回復。
+
+< CARD_UNIT_SWEETBREAKER >
+name=スイートブレイカー
+descr=裏向きカードを持つ相手とのバトル時、\nその枚数分ATK・DEF・EVDが+。
+
+< CARD_COOP_UNIT_SWEETBREAKER >
+name=スイートブレイカー
+descr=「とろける記憶」の効果が付与された相手とのバトルでATK・DEF・EVD+1。
+
+< CARD_UNIT_SYURA >
+name=しゅら
+descr=バトル開始時にHP1の時、そのバトル終了までATK・EVD+1
+
+< CARD_UNIT_TEQUILA >
+name=テキーラ
+descr=エネミーユニットに「海賊子分」を含める。バトル時、1HP減少につきATK+1。
+
+< CARD_UNIT_TEQUILA_BH >
+name=テキーラ
+descr=エネミーユニットに「海賊子分」を含める。HPが減ったバトル中、ATK+1。
+
+< CARD_UNIT_TEQMINION >
+name=海賊子分
+descr=負けたプレイヤーはレベル×10スターを失い、\nこの子分を呼び出したプレイヤーがそれを得る。\n呼び出したプレイヤーとはエンカウントなし。
+
+< CARD_UNIT_TOMATO >
+name=トマト
+descr=みみゅうとして復活して、すぐに行動できる。\nバトルでダウンした時、1/3のスターを失う。「悪の工作活動～始末」は「わるだマシン発進！」になる。
+
+< CARD_UNIT_TOMOMO >
+name=トモモ
+descr=
+
+< CARD_UNIT_TOMOMO_MP >
+name=トモモ
+descr=弱体化：友達と遊んでいるので能力低下。
+
+< CARD_UNIT_TOMOMO_CASUAL >
+name=トモモ（すっぴん）
+descr=
+
+< CARD_UNIT_TOMOMO_SWEETEATER >
+name=トモモ（スイートイーター）
+descr=ダウンで、全手札を捨て、\n「トモモ（すっぴん）」に戻る。
+
+< CARD_UNIT_TSIH >
+name=ツィー
+descr=ギフトカードが手札にある時、ATK+2。
+
+< CARD_UNIT_YUKI >
+name=ユキ
+descr=
+
+< CARD_UNIT_YUKI_DANGEROUS >
+name=ユキ（DANGEROUS）
+descr=永続的に「プリン」系の手札を「真夜中の惨劇」に変化させる。自身がセットしたトラップの効果を誰かが発動させた時、1ウィンを得る。野生のユニットとのバトルでウィンを獲得できない。
+
+< CARD_UNIT_YUUKI >
+name=ユウキ
+descr=奇数チャプターでATK-1・DEF+2。\n偶数チャプターでATK+2・DEF-1。
+
+< CARD_UNIT_SUGURI46 >
+name=スグリ(460億年)
+descr=ダメージを与えるブースト・イベントカードを使った時、次の移動時にダイス+1。そのカードの1.5倍(端数切上げ)のコストを支払うと、そのダメージを倍にできる。
+
+< CARD_UNIT_SUMIKA >
+name=スミカ
+descr=
+
+< CARD_UNIT_ELLIE >
+name=エリィ
+descr=
+
+< CARD_UNIT_LULU >
+name=ルルゥ
+descr=
+
+< CARD_UNIT_MARC_PILOT >
+name=マール（パイロット）
+descr=
+
+< CARD_UNIT_ALICIANRONE >
+name=アリシアンローネ
+descr=ATK+1以上の相手とのバトルで、バトル終了までEVD+1。\nATK+2以上の時、さらにEVD+1。
+
+< CARD_UNIT_TEOTORATTA >
+name=テオトラッタ
+descr=エネミーマスでバトルが発生しない。
+
+< CARD_UNIT_ARNELLE >
+name=アーネル
+descr=「インテリジェンス・オフィサー」が手札にある時、デッキの一番上のカードを確認できる。
+
+< CARD_UNIT_MAYNIE >
+name=メイニー
+descr=レイジングモードでない時、被ダメージで怒りカウンターを1つ得て、回復で怒りカウンターを1つ失う。
+
+< CARD_UNIT_KYUPITA >
+name=きゅぴた
+descr=
+
+< CARD_UNIT_CHRIS >
+name=クリス
+descr=手札を4枚持てる。「料理長」か「店長」がいる時だけバトルを挑める。ギフトタイプ以外の1枚制限カードを使うと、店長カウンターを1得る。
+
+< CARD_UNIT_CHEF >
+name=料理長
+descr=
+
+< CARD_UNIT_GOLEM >
+name=モスゴーレム
+descr=
+
+< CARD_UNIT_GUARDIAN >
+name=守護者
+descr=他のプレイヤーにバトルを挑めない。召喚者とバウンティを共有する。
+
+< CARD_UNIT_GUARDIAN_CHAOS >
+name=守護者
+descr=エネミーマスのユニットを倒した時、追加で5スターを得る。
+
+< CARD_UNIT_EVILGUARDIAN >
+name=先駆者
+descr=バトル以外でダメージを受けず、ダウンもしない。他のプレイヤーを通過する時にバトルする。勝利すると1名声を奪い、目覚めた状態でなければ「ソウルイーター」を1ストック獲得し、HPが1回復する。ダウンすると2名声と奪った名声を相手に与える。
+
+< CARD_UNIT_EVILMOUSSE >
+name=ダークチョコレート・マゥス
+descr=バトル以外でダメージを受けず、ダウンもしない。相手がバトルでダウンした時、1名声を奪う。目覚めた状態でなければ「スターイーター」を1ストック獲得し、HPが1回復する。ダウンすると2名声と奪った名声を相手に与える。バトル終了後、ランダムなマスにワープする。
+
+< CARD_UNIT_FAE >
+name=オーロラ
+descr=MOV+1。他のプレイヤーにバトルを挑めない。偶数チャプターで、召喚者のHPを1回復するか、HP半分で復活させる。
+
+< CARD_UNIT_FAE_CHAOS >
+name=オーロラ
+descr=MOV+1。偶数チャプターで、自身のHPを1回復するか、HP半分で復活する。
+
+< CARD_UNIT_MERCENARY >
+name=傭兵
+descr=他のプレイヤーを通過する時にバトルする。バトル勝利で奪ったスターを召喚者と等分する。
+
+< CARD_UNIT_HALENA >
+name=ハレナ
+descr=自ホームマスに止まったあと、レベル×2スターを得る。
+
+< CARD_UNIT_COOK >
+name=クック
+descr=回避を使うと1空腹得る（上限：3）。3空腹になるとEVD-1。自ホームマスに止まると空腹が消える。
+
+< CARD_UNIT_LONERIDER >
+name=孤独の車乗り
+descr=移動ダイスで7以上を出した時、次の自ターン開始までATK・DEF+1、EVD+2。
+
+< CARD_UNIT_MERCHANT >
+name=商人
+descr=手札を4枚持てる。\n他のプレイヤーのホームマスで「積荷（バトル）」のカードを得る。
+
+< CARD_UNIT_HIMEV2 >
+name=月夜のヒメ
+descr=満月（5チャプターごと）の間、ベース能力値がATK・DEF-1/EVD+3になる。
+
+< CARD_UNIT_FERNETNOBLE >
+name=社交界のフェルネット
+descr=フィールド上でこのユニットにバトルを挑んだ時、相手は自身のレベル分のスターを支払う。
+
+< CARD_COOP_UNIT_FERNETNOBLE >
+name=社交界のフェルネット
+descr=フィールド上でこのユニットにバトルを挑んだ時、相手はこのユニットのレベル分のスターを支払う。
+
+< CARD_UNIT_SHIFU >
+name=シフ
+descr=ロボット系敵ユニットへのバトルダメージ+2。ロボット系敵ユニットが他のプレイヤーをダウンさせた時、1ウィンを得る。
+
+< CARD_UNIT_REIKA >
+name=星乃レイカ
+descr=スターノルマのみ選択可。チャプターボーナスと「スターコレクター」の効果以外でのスター獲得時、+1スター。
+
+< CARD_UNIT_WATTY >
+name=ウォーティー
+descr=バトル終了後、防御して減らしたダメージ分の硬い鱗をストックする（ストック上限：5）。3チャプターの間、1ストックにつきATK+1。ダウンすると効果を失う。
+
+< CARD_UNIT_POMERANIUS >
+name=ポメラニアス
+descr=HPが最大値以上の時、自身が踏んだトラップを無視できる。
+
+< CARD_COOP_UNIT_WATTY >
+name=ウォーティー
+descr=バトル終了後、防御して減らしたダメージ量2につき、硬い鱗を1つストックする（ストック上限：5）。3チャプターの間、1ストックにつきATK+1。ダウンすると効果を失う。
+
+< CARD_UNIT_LOSTROGUE >
+name=ロスト・ローグ
+descr=バトル以外でダメージを受けず、ダウンもしない。他のユニットを通りすぎる時にバトルを挑む。バトルでのクリティカルヒット率25%。5ターンごとに、自身の周囲1マス以内のランダムな3マスにいるユニットに2ダメージを与え、ランダムに契約を1つ呪い状態にする。
+
+< CARD_UNIT_SHADYMERCHANT >
+name=怪しげな商人
+descr=プレイヤーにアイテムを売ることができる。イベント効果とカード効果を受けない。
+
+< CARD_UNIT_SWEETCREATOR >
+name=スイートクリエイター
+descr=自身以外がスイーツ系非トラップカードを使用、またはスイーツ系トラップカードを発動させた時、そのカードのレベル✕2のスターを得る。
+
+< CARD_UNIT_SWEETMAKER >
+name=スイートメイカー
+descr=エネミーマスの効果後にアクティブの時、使用可能レベルのスイーツ系カードを1枚引く。
+
+< CARD_UNIT_SWEETBLOGGER >
+name=スイートブロガー
+descr=全てのスイーツ系カードをコストなしで使える。ドロップマスの効果後にアクティブの時、使用可能レベルのスイーツ系カードを1枚引く。
+
+< CARD_UNIT_BOSSJONATHAN_CHAOS >
+name=ビッグ・ザ・ジョナサン
+descr=
+
+< CARD_UNIT_BOSSHARUO_CHAOS >
+name=ビッグ・ザ・ハルオ
+descr=
+
+< CARD_UNIT_AGGRESSIVECHICKEN_CHAOS >
+name=アグレッシブなニワトリ
+descr=自身の召喚者がバトルで攻撃ダイスを振る時、ダイスが1つ増え、自身のATKとDEFが2減る。バトルの相手のベースATKが2以上の時、自身のATK+1。
+
+< CARD_UNIT_BOSSM10_CHAOS >
+name=M10ロボット
+descr=自身のターン中、敵にバトルを挑んでも止まらない。
+
+< CARD_UNIT_BOSSSTARDEV_CHAOS >
+name=星を貪る者
+descr=バトルで、相手への与ダメージ分のスターを相手から盗み、自身の被ダメージ分のスターを相手に与える。最終ノルマ挑戦中に所持スターが200に到達すると自動的にゲームに勝利する。
+
+< CARD_UNIT_POPPO_CHAOS >
+name=かおす・ぽっぽ
+descr=ダメージを与える代わりに、その与ダメージ量×2のスターを相手から奪い、自身の召喚者に与える。バトルでダウンした時、2ウィンと自身の召喚者から10スターを相手に与える。
+
+< CARD_UNIT_BOSSQP_CHAOS >
+name=夏の獣
+descr=バトルでダメージを与えたり、受けたりした時、1テンションを得る。他のプレイヤーがダウンした時、2テンションを得る。4テンション以上持っている時にダウンすると、全てのテンションを消費してHP全回復状態で復活する。
+
+< CARD_UNIT_BOSSROPOCHI_CHAOS >
+name=ロポチ
+descr=
+
+< CARD_UNIT_BOSSCOACH_CHAOS >
+name=スイミングコーチ
+descr=ブイが召喚されている時：ATK+2。バルーンジャークが召喚されている時：DEF+2。スイミングリンガーが召喚されている時：毎ターン3スター獲得。
+
+< CARD_UNIT_MIOFESTIVE >
+name=祝祭のミオ
+descr=
+
+< CARD_UNIT_KRILAPAJAMAS >
+name=寝衣のクリララリス
+descr=バトルで回避を選べない。バトルで防御して、かつ相手からのダメージが1の時、そのダメージを無効化し、自レベル分のスターを相手に渡す。
+
+< CARD_UNIT_MIMYUUJAILBIRD >
+name=監獄のみみゅう
+descr=バトルでダウンした時、自身のホームマスに移動する。
+
+< CARD_UNIT_MOTHERP >
+name=まざーぽっぽ
+descr=ワープ時、1ダメージ受ける。ワープ後にダウンしていなければ、カードを1枚引き、自身のレベル分のスターを得る。
+
+< CARD_UNIT_DARKL >
+name=ダークルルゥ
+descr=バトルの挑戦を拒否した時、自身のレベル×2のスターを失う。
+
+< CARD_COOP_UNIT_DARKL >
+name=ダークルルゥ
+descr=バトルの挑戦を拒否した時、自身のレベル×1のスターを失う。
+
+< CARD_UNIT_HELLIE >
+name=ハイパーエリィ
+descr=バトルでの先攻時、ATK+1、DEF・EVD-1。
+
+< CARD_UNIT_HKAI >
+name=ダディカイ
+descr=バトル以外のダメージでHPが1を下回る時、HPが1残る。次の自身のターン終了時までHPが1だった時、ダウンする。
+
+< CARD_UNIT_GRAIN >
+name=グレーン
+descr=MOV-1。カードを使った時、砲弾カウンターを1つ得る（上限9）。
+
+< CARD_UNIT_BOURBON >
+name=バーボン
+descr=バトルでダメージを受ける度に、ダウンするまで最大HPを1失う（下限3）。
+
+< CARD_UNIT_POYO >
+name=ポヨ
+descr=全プレイヤーの合計レベルが4の倍数になる度に、自身の攻撃・防御・回避・移動・ボーナス・ドロップのダイスの出目に+1される。
+
+< CARD_UNIT_CHUU >
+name=チュー
+descr=
+
+< CARD_COOP_UNIT_POYO >
+name=ポヨ
+descr=ボスが次に使うカードがハイパーかレベル3カードの時、自身の攻撃・防御・回避・移動・ボーナス・ドロップのダイスの出目に+1される。
+
+< CARD_UNIT_HARUKA >
+name=ハルカ
+descr=現在ダウンしているプレイヤー1人につき、バトル開始時にATK-1。
+
+< CARD_COOP_UNIT_HARUKA >
+name=ハルカ
+descr=現在ダウンしている味方1人につき、バトル開始時にATK-1。
+
+< CARD_UNIT_KANATA >
+name=カナタ
+descr=「賢そうなハッタリ」が手札にある時、敵が引いたカードの基本カードタイプを50%の確率で確率でことができる。
+
+< CARD_COOP_UNIT_YUKI_DANGEROUS >
+name=ユキ（DANGEROUS）
+descr=Permanently turn every Tragedy in the Dead of Night held into Pudding. When an enemy triggers your trap, gain 1 Win. Gain a maximum of 1 Win from defeating wild units.
+descr=永続的に手札にある「真夜中の惨劇」を「プリン」に変化させる。自身がセットしたトラップの効果を敵が発動させた時、1ウィンを得る。野生のユニットを倒した時、最大で1ウィンを得る。
+
+[EOF]

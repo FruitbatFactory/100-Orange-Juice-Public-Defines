@@ -1,0 +1,165 @@
+<0000> Eiya!
+<0001> Hoh!
+<0002> Tey!
+<0003> Like this?
+<0004> Here's the card I'll play!
+<0005> At times like these, what I do is...!
+<0006> I'll show you what I've got.
+<0007> This me is playing a card!
+<0008> Trap time!
+<0009> Behold this trap of mine!
+<0010> This me is  setting a trap.
+<0011> Who'll suffer from this, I wonder! Kukuku!
+<0012> Battle card time!
+<0013> This me is getting stronger!
+<0014> Fuhahahaha!
+<0015> I'll get this settled once and for all!
+<0016> Show yourselves, my siblings!
+<0017> This me is standing back up.
+<0018> I thought I was done for...
+<0019> My body, my body...
+<0020> Complete recovery!
+<0021> You've got to be kidding me...
+<0022> Damn it!
+<0023> Seriously...
+<0024> My body! You've got to come back to me!
+<0025> Here's my attack!
+<0026> Nobody can stop me!
+<0027> Orayo!
+<0028> Drop dead!
+<0029> That hurts!
+<0030> Knock it off.
+<0031> You suck!
+<0032> Ugoe!
+<0033> This refreshes me.
+<0034> This me is getting healed.
+<0035> Feels freaking good.
+<0036> Thank god.
+<0037> This me is warping...!?
+<0038> Nuaah!
+<0039> Hey, my neck is going to come off!
+<0040> Where are you taking me!
+<0041> No... way.
+<0042> M-my body, I need it...
+<0043> I feel so miserable...
+<0044> D-damn it...
+<0045> Fight me!
+<0046> We make battle, you and I.
+<0047> I'll defeat you.
+<0048> Let's begin a fight here!
+<0049> Any idea who you're challenging?
+<0050> Challenge accepted. Bring it.
+<0051> Up for a fight? Come.
+<0052> You're so fearless.
+<0053> Ora!
+<0054> Eat my punch!
+<0055> Take this!
+<0056> Uooh!
+<0057> That freaking hurts!
+<0058> Uha!
+<0059> Ugh!
+<0060> Crap!
+<0061> Guaaah!
+<0062> Nuaaa, this precious meee!
+<0063> Wait, wait, wait!!
+<0064> Please don't... Guhaah!
+<0065> This me is dodging like a dancer.
+<0066> I'm no easy target.
+<0067> You can't hit me.
+<0068> You're too slow.
+<0069> An unsurprising victory.
+<0070> It was obvious that I'd beat you!
+<0071> Fuhahaha, this feels so nice.
+<0072> Phew, what an excellent job I just did...
+<0073> No way... This can't be...
+<0074> This is a joke... right?
+<0075> My body!
+<0076> I... got... defeated...?
+<0077> This me is gathering stars.
+<0078> In a sense, I'm also a star.
+<0079> Those that shine brightly attract each other.
+<0080> You're shining well.
+<0081> I lost that which makes me shine...
+<0082> No, don't go away...!
+<0083> My stars... where are you disappearing into...?
+<0084> Shoot.. I lost some...
+<0085> A trap...? Be more fair and square.
+<0086> I'm too good to end up like this.
+<0087> This me fell into a trap...
+<0088> Who the heck set this thing here... Screw them!
+<0089> *whistle* Here they come.
+<0090> I can feel... that guy's vibe.
+<0091> Seems like someone's here to cause some havoc.
+<0092> Things are getting better around here.
+<0093> I'm a star who gathers stars!
+<0094> I'll get myself a whole bunch of twinkle.
+<0095> All the stars twinkle only for me.
+<0096> Pretty, aren't they? That's why I gather them. It's that simple.
+<0097> My blood's telling me to fight. Not that any blood flows inside me, though.
+<0098> The battlefield is calling to me.
+<0099> Why do I fight? I need no reason.
+<0100> Can I go wild out there?
+<0101> Is it my turn now?
+<0102> Okay, I'll go make things more interesting.
+<0103> This me will cause tremendous devastation!
+<0104> Wanna see how strong I am? Then I'll show you.
+<0105> This me is getting started.
+<0106> Alright, game on.
+<0107> So this is the stage for my show, huh.
+<0108> Just watch how amazing I am.
+<0109> Friendship + effort + victory = me.
+<0110> Fuhahaha, this me is being happy over the easily predicted victory.
+<0111> Not a hard goal to do this with my power.
+<0112> Well, not bad.
+<0113> Here's the special item chosen by me.
+<0114> This is how lucky I am at pulling good stuff.
+<0115> You wanted this, right? I can tell.
+<0116> This me is being super lucky.
+<0117> Change places.
+<0118> Switch.
+<0119> It's your turn to go.
+<0120> This me is retreating for now.
+<0121> Oh.
+<0122> Good.
+<0123> Yeah.
+<0124> What?
+<0125> Damn it.
+<0126> Lucky day.
+<0127> Hmm.
+<0128> Let's get going.
+<0129> I'll roll the dice.
+<0130> Go.
+<0131> Hey, it's me.
+<0132> Hmm..
+<0133> Nice.
+<0134> You're good.
+<0135> What the...
+<0136> I'm capable of anything.
+<0137> I'll turn this into part of my power, too.
+<0138> You know what? I can use this better.
+<0139> Other people's cards are mine, too!
+<0140> Thank you.
+<0141> Yo, my friend, how you hanging?
+<0142> Oh, you want to fight me, my friend?
+<0143> That was a hell of a fight.
+<0144> You're a great fighter, my friend.
+<0145> Kyoko, we should have some fun together.
+<0146> Whoa, what are you up to, Kyoko?
+<0147> I'm tired now. I need your lap pillow, Kyoko.
+<0148> H-hold on, I'll apologize... Gyaaah!
+<0149> Oh, if it isn't Sumika.
+<0150> Don't call me "fake Papa".
+<0151> I win, you brat.
+<0152> Crap... You sassy shortie...
+<0153> What the heck am I supposed to do like this?
+<0154> This sucks... What kind of joke is it?
+<0155> Where'd that perfect body of mine go...?
+<0156> Ugh... I really have to not get caught...
+<0157> How I missed you, my body!
+<0158> Phew... Here's the complete me coming back.
+<0159> Having arms and legs is the best...
+<0160> Alright then... it's revenge time...
+<0161> If you're gone, I'll be the real deal.
+<0162> C'mon, we should get along as twinsies.
+<0163> I'm the real one from this moment on!
+<0164> Forgive me. I won't go against you again...

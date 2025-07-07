@@ -1,0 +1,190 @@
+< ITEM_UNKNOWN >
+name=？？？
+descr=
+
+// Tavern
+< ITEM_HEAL_LV1 >
+name=咖啡
+descr=恢復2點HP。
+
+< ITEM_HEAL_LV2 >
+name=檸檬水
+descr=恢復4點HP。
+
+< ITEM_HEAL_LV3 >
+name=靈藥
+descr=使用可恢復所有HP。\n同時消除入侵者造成的狀態效果與手中契約的\n詛咒。
+
+< ITEM_OVERHEAL_LV1 >
+name=能量飲料
+descr=恢復2點HP，再獲得1點HP。
+
+< ITEM_OVERHEAL_LV2 >
+name=布丁搖搖樂
+descr=恢復2點HP，再獲得2點HP。
+
+< ITEM_OVERHEAL_LV3 >
+name=黃昏海平線
+descr=恢復4點HP，再獲得3點HP。
+
+< ITEM_HEALTHSHOT >
+name=甘美秘藥
+descr=永久HP上限+1。只能購買一次。
+
+< ITEM_INVULNERABILITY >
+name=藥草茶
+descr=持續效果（1輪）\n不會受到傷害。
+
+// Bakery
+< ITEM_ATK_BOOST_LV1 >
+name=曲奇
+descr=使用時獲得ATK+1，效果持續2場戰鬥。\n相同效果無法疊加。
+
+< ITEM_ATK_BOOST_LV2 >
+name=瑪芬
+descr=使用時獲得ATK+2，效果持續2場戰鬥。\n相同效果無法疊加。
+
+< ITEM_ATK_BOOST_LV3 >
+name=糕點
+descr=使用時獲得ATK+3，效果持續2場戰鬥。\n相同效果無法疊加。
+
+< ITEM_DEF_BOOST_LV1 >
+name=糖果
+descr=使用時獲得DEF+1，效果持續2場戰鬥。\n相同效果無法疊加。
+
+< ITEM_DEF_BOOST_LV2 >
+name=焦糖糖果
+descr=使用時獲得DEF+2，效果持續2場戰鬥。\n相同效果無法疊加。
+
+< ITEM_DEF_BOOST_LV3 >
+name=巧克力
+descr=使用時獲得DEF+3，效果持續2場戰鬥。\n相同效果無法疊加。
+
+< ITEM_EVA_BOOST_LV1 >
+name=冰淇淋
+descr=使用時獲得EVD+1，效果持續2場戰鬥。\n相同效果無法疊加。
+
+< ITEM_EVA_BOOST_LV2 >
+name=雪葩
+descr=使用時獲得EVD+2，效果持續2場戰鬥。\n相同效果無法疊加。
+
+< ITEM_EVA_BOOST_LV3 >
+name=意式冰淇淋
+descr=使用時獲得EVD+3，效果持續2場戰鬥。\n相同效果無法疊加。
+
+< ITEM_ACCELCANDY >
+name=極速超能糖
+descr=持續效果（1輪）\n任何行動的骰子枚數變為2倍。
+
+< ITEM_COTTONSPONGE >
+name=海綿蛋糕
+descr=持續效果（1輪）\n卡片無需COST。同時移除卡片的等級需求。
+
+< ITEM_PUDDING >
+name=布丁
+descr=儲備效果\n戰鬥中倒下時，以3HP復活並繼續戰鬥。
+
+< ITEM_MELONPAN >
+name=蜜瓜包
+descr=永久DEF·EVD+1，但ATK-1。\n只能購買一次。
+
+< ITEM_REDBEANCREAM >
+name=紅豆冰淇淋
+descr=儲備效果\nATK+1。倒下時效果結束。\n此效果無法疊加。
+
+// Armory
+< ITEM_WOODENSHIELD >
+name=木盾
+descr=能將受到的傷害降低1點的盾。\n受到2次攻擊後移除。
+
+< ITEM_IRONSHIELD >
+name=鐵盾
+descr=能將受到的傷害降低1點的盾。\n受到4次攻擊後移除。
+
+< ITEM_MITHRILSHIELD >
+name=秘銀盾
+descr=能將受到的傷害降低2點的盾。\n受到4次攻擊後移除。
+
+< ITEM_ZAPPERSWORD >
+name=魔法附魔劍
+descr=永久ATK+1，但DEF-1。只能購買一次。
+
+< ITEM_SMOKEBOMB >
+name=煙霧炸彈
+descr=儲備效果\n在下一場戰鬥中，對方的ATK·DEF·EVD-1。
+
+< ITEM_PRECISIONGOGGLES >
+name=精準護目鏡
+descr=增加2格投擲距離。只能購買一次。
+
+< ITEM_MERCENARY >
+name=傭兵
+descr=將1名傭兵召喚至場上。他會攻擊除召喚者外\n所有他經過的角色。當一名角色被傭兵擊倒時，\n失去STAR的50%由召喚者獲得，\n其餘歸傭兵所有。
+
+< ITEM_PHILOSOPHERSTONE >
+name=賢者之石
+descr=每輪獲得4顆STAR，每經過5輪額外+1。\n只能購買一次，需要花費所有STAR\n（最低為120）。
+
+< ITEM_REC_BOOST_LV1 >
+name=精力藥水
+descr=下次復活時REC-1。\n無法與類似效果疊加（最好的效果優先）。
+
+< ITEM_REC_BOOST_LV2 >
+name=活力藥水
+descr=下次復活時REC-2。\n無法與類似效果疊加（最好的效果優先）。
+
+< ITEM_REC_BOOST_LV3 >
+name=鳳凰精髓
+descr=下次復活時REC-3。\n無法與類似效果疊加（最好的效果優先）。
+
+< ITEM_ANTITIRED >
+name=提神藥
+descr=永久REC-1。只能購買一次。
+
+< ITEM_GUARDIAN >
+name=守護者
+descr=將1名守護者召喚至場上。會試圖完成\n你手中的懸賞。無法挑戰其他玩家，\n但可以被其他玩家挑戰。\n等級：與召喚時你的等級一致。\n持有STAR：召喚時支付的數量。
+
+< ITEM_FAE >
+name=奧羅拉
+descr=將奧羅拉召喚至場上。\n她將每偶數輪恢復你1點HP，如果你倒下了，\n則會轉而以最大HP的一半將你復活。\n她無法挑戰其他玩家，但可以被其他玩家挑戰。
+
+< ITEM_LEATHERBOOTS >
+name=皮靴
+descr=MOV+2。\n購買此物品將替換掉你現有的鞋子。
+
+< ITEM_GALESHOES >
+name=疾風之靴
+descr=MOV+2，持有不超過2張契約時額外+1。\n購買此物品將替換掉你現有的鞋子。
+
+< ITEM_SPIKEDSHIELD >
+name=刺盾
+descr=能將受到的傷害減少1點的刺盾。\n當你的防禦骰點數大於對方攻擊骰點數時，\n將攻擊數值一半的傷害返還給對方。\n在1場戰鬥後移除。
+
+< ITEM_BATTLEAXE >
+name=處刑者
+descr=永久ATK+1，但EVD-1。只能購買一次。
+
+< ITEM_BLACKMARKET_CURSEDSWORD >
+name=詛咒之劍
+descr=永久ATK+2，但DEF·EVD·HP上限-1。
+
+< ITEM_BLACKMARKET_CURSEDAXE >
+name=詛咒戰斧
+descr=獲得在攻擊時有20%幾率造成暴擊\n的能力。攻擊有10%幾率落空。
+
+< ITEM_BLACKMARKET_CURSEDBOUNTY >
+name=詛咒懸賞
+descr=下次懸賞獎勵的聲望+2。\n完成懸賞時將HP與HP上限設為1，直至\n倒下。
+
+< ITEM_BLACKMARKET_CURSEDICECREAM >
+name=紫豆冰淇淋
+descr=ATK+2，但HP上限-3（最低為1），\n直至倒下。
+
+< ITEM_BLACKMARKET_CURSEDSHOES >
+name=附魔疾風之靴
+descr=MOV+4，只能持有1張契約。\n購買此物品將替換掉你現有的鞋子。
+
+< ITEM_BLACKMARKET_CURSEDSUMMON >
+name=召喚大師
+descr=將出現一個隨機召喚物或中立入侵者。\n召喚物初始擁有12HP。\n場上已有入侵者時不會召喚到入侵者。

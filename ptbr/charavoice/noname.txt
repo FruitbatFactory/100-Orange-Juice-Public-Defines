@@ -1,0 +1,165 @@
+<0000> Eiya!
+<0001> Hoh!
+<0002> Tey!
+<0003> Desse jeito?
+<0004> Esta é a carta que irei jogar!
+<0005> Em momentos como esse, o que eu faço é...!
+<0006> Eu vou te mostrar o que eu tenho.
+<0007> Este sou eu jogando uma carta!
+<0008> Hora da armadilha!
+<0009> Contemple esta minha armadilha!
+<0010> Este sou eu colocando uma armadilha.
+<0011> Me pergunto, quem irá sofrer disso! Kukuku!
+<0012> Hora da carta de batalha!
+<0013> Este sou eu ficando mais forte!
+<0014> Fuhahahaha!
+<0015> Vou terminar com isto de uma vez por todas!
+<0016> Apareçam, meus irmãos!
+<0017> Este sou eu levantando de novo.
+<0018> Eu pensava que eu estava acabado...
+<0019> Meu corpo, meu corpo...
+<0020> Recuperação completa!
+<0021> Você só pode estar brincando...
+<0022> Droga!
+<0023> Sério...
+<0024> Meu corpo! Você precisa me devolver ele!
+<0025> Aqui vai meu ataque!
+<0026> Ninguém pode me parar!
+<0027> Orayo!
+<0028> Caia morto!
+<0029> Isso dói!
+<0030> Sai para lá.
+<0031> Você é horrível!
+<0032> Ugoe!
+<0033> Isto me refresca.
+<0034> Este sou eu sendo curado.
+<0035> Uma sensação excelente.
+<0036> Graças a deus.
+<0037> Este sou eu teleportando...!?
+<0038> Nuaah!
+<0039> Ei, meu pescoço está saindo!
+<0040> Para onde você está me levando!
+<0041> De jeito... nenhum.
+<0042> M-meu corpo, eu preciso dele...
+<0043> Eu me sinto tão miserável...
+<0044> D-droga...
+<0045> Lute comigo!
+<0046> Fazemos batalha, eu e você.
+<0047> Eu vou te derrotar.
+<0048> Vamos começar uma batalha aqui!
+<0049> Você tem ideia de quem você está desafiando?
+<0050> Desafio aceito. Pode vir.
+<0051> Quer lutar? Venha.
+<0052> Você é tão sem medo.
+<0053> Ora!
+<0054> Coma meu soco!
+<0055> Tome isto!
+<0056> Uooh!
+<0057> Isto dói demais!
+<0058> Uha!
+<0059> Ugh!
+<0060> Droga!
+<0061> Guaaah!
+<0062> Nuaaa, este precioso que soooou!
+<0063> Espera, espera, espera!!
+<0064> Por favor não... Guhaah!
+<0065> Este sou eu desviando como um dançarino.
+<0066> Eu não sou um alvo fácil.
+<0067> Você não pode me acertar.
+<0068> Você é muito lerdo.
+<0069> Uma vitória nada surpreendente.
+<0070> Era óbvio que eu iria te derrotar!
+<0071> Fuhahaha, isto é tão bom.
+<0072> Phew, que trabalho excelente que eu acabei de fazer...
+<0073> Não é possível... Não pode ser...
+<0074> Isto é uma piada... certo?
+<0075> Meu corpo!
+<0076> Eu... fui... derrotado...?
+<0077> Este eu estará coletando estrelas.
+<0078> De certa forma, também sou uma estrela.
+<0079> Aqueles que brilham atraem uns aos outros.
+<0080> Você está brilhando bem.
+<0081> Eu perdi isso que me faz brilhar...
+<0082> Não, não vá embora...!
+<0083> Minhas estrelas... para onde vocês estão desaparecendo...?
+<0084> Droga.. Perdi algumas...
+<0085> Uma armadilha...? Seja mais justo e honesto.
+<0086> Eu sou muito bom para acabar desse jeito.
+<0087> Este eu caiu em uma armadilha...
+<0088> Quem raios colocou isto aqui... Vão se ferrar!
+<0089> *assobia* Aqui vem eles.
+<0090> Eu consigo sentir... a vibe daquele cara.
+<0091> Parece que alguém está aqui para causar confusão.
+<0092> As coisas estão melhorando por aqui.
+<0093> Eu sou uma estrela que coleta estrelas!
+<0094> Eu vou conseguir para mim um montão de brilhantes.
+<0095> Todas as estrelas brilham só para mim.
+<0096> Lindas, não é mesmo? É por isso que eu coleto elas. É simples assim.
+<0097> Meu sangue está me dizendo para lutar. Não que tenha qualquer sangue dentro de mim, entretanto.
+<0098> O campo de batalhe me chama.
+<0099> Por que eu luto? Não preciso de motivos.
+<0100> Posso ir com tudo aqui?
+<0101> É o meu turno agora?
+<0102> Ok, eu irei fazer as coisas mais interessantes.
+<0103> Este eu está causando uma devastação tremenda!
+<0104> Quer ver o quão forte eu sou? Então eu irei te mostrar.
+<0105> Este eu está começando.
+<0106> Certo, vamos jogar.
+<0107> Então este é o estágio para meu show...
+<0108> Apenas assista o quão incrível eu sou.
+<0109> Amizade + esforço + vitória = eu.
+<0110> Fuhahaha, este eu está feliz sobre a vitória fácil de se prever.
+<0111> Não é um objetivo difícil com meu poder.
+<0112> Bom, nada mal.
+<0113> Aqui está o item especial escolhido por mim.
+<0114> Isto é o quão sortudo eu sou em conseguir coisas boas.
+<0115> Você queria isto, né? Eu consigo sentir.
+<0116> Este sou eu sendo super sortudo.
+<0117> Trocar de lugar.
+<0118> Troca.
+<0119> É seu turno de ir.
+<0120> Este sou eu recuando por agora.
+<0121> Oh.
+<0122> Bom.
+<0123> Sim.
+<0124> O quê?
+<0125> Droga.
+<0126> Dia de sorte.
+<0127> Hmm.
+<0128> Vamos continuar.
+<0129> Eu vou jogar o dado.
+<0130> Vá.
+<0131> Ei, sou eu.
+<0132> Hmm..
+<0133> Ótimo.
+<0134> Você é bom.
+<0135> Mas o que...
+<0136> Eu sou capaz de tudo.
+<0137> Eu vou tornar isto parte do meu poder, também.
+<0138> Quer saber? Eu posso usar isto melhor.
+<0139> As cartas dos outros são minhas, também!
+<0140> Obrigado.
+<0141> Yo, meu amigo, como andam as coisas?
+<0142> Oh, você quer lutar comigo, meu amigo?
+<0143> Essa foi uma luta intensa.
+<0144> Você é o melhor lutador, meu amigo.
+<0145> Kyoko, nós devíamos ter um pouco de diversão juntos.
+<0146> Whoa, o que você está fazendo, Kyoko?
+<0147> Eu estou cansado agora. Eu preciso usar seu colo de travesseiro, Kyoko.
+<0148> E-Espera aí, eu peço desculpas... Gyaaah!
+<0149> Oh, se não é a Sumika.
+<0150> Não me chame de "Papai falso".
+<0151> Venci, sua pirralha.
+<0152> Droga... Sua baixinha atrevida...
+<0153> O que raios eu devo fazer desse jeito?
+<0154> Isto é horrível... Que tipo de piada é essa?
+<0155> Onde que aquele corpo perfeito meu foi parar...?
+<0156> Ugh... eu realmente preciso não ser pego...
+<0157> Como senti saudades de você, meu corpo!
+<0158> Ufa... Este sou eu completo voltando.
+<0159> Ter braços e pernas é a melhor coisa...
+<0160> Certo então... hora da vingança...
+<0161> Se você sumir, eu serei o melhor.
+<0162> Qualé, devíamos nos dar bem como gêmeos.
+<0163> Eu sou o melhor desse momento em diante!
+<0164> Me perdoe. Eu não irei te contrariar novamente...

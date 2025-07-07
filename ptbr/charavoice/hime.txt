@@ -1,0 +1,171 @@
+
+<0000> É assim?
+<0001> Por favor...
+<0002> Que tal?
+<0003> Aqui!
+<0004> Fufufu.
+<0005> Acho que vou usar isso.
+<0006> No que isso vai dar?
+<0007> Aqui vou eu...
+<0008> Aqui deve estar bom.
+<0009> Fufufu... parece que vai ser divertido.
+<0010> Certo, vou colocar uma armadilha.
+<0011> Aqui está perigoso, ou não?
+<0012> Me empreste seu poder.
+<0013> Que tal este?
+<0014> Fufufu, aqui vou eu.
+<0015> Fufu, isto é divertido.
+<0016> Estou enrolando vocês em correntes.
+<0017> Fuwaa... foi uma boa soneca.
+<0018> Nossa, já está de manhã?
+<0019> Será que já é uma boa hora?
+<0020> Talvez eu tenha relaxado demais.
+<0021> Acho que vou descansar um pouco mais.
+<0022> Fuu...
+<0023> Ainda é hora do descanso.
+<0024> Nossa, que pena.
+<0025> Tome isso.
+<0026> Certo.
+<0027> Fufufufufu.
+<0028> É desse jeito, né.
+<0029> Nossa.
+<0030> Yan.
+<0031> Minha nossa.
+<0032> Que coisa.
+<0033> Mas que vento gostoso.
+<0034> Que confortável.
+<0035> Quentinho.
+<0036> Que relaxante.
+<0037> Minha nossa?
+<0038> Para onde será que eu vou?
+<0039> Por favor me leve para um lugar maravilhoso.
+<0040> Saalto.
+<0041> Noite...
+<0042> Hah, hora de descansar.
+<0043> Boa noite.
+<0044> Será que fui relaxada?
+<0045> Certo, vamos dançar?
+<0046> Vamos jogar?
+<0047> Fufufu, vamos nos divertir.
+<0048> Certo, vou ir primeiro.
+<0049> Nossa, um convite?
+<0050> Por favor me entretenha.
+<0051> Eu serei sua oponente.
+<0052> Você é bem energético.
+<0053> Ei!
+<0054> Me perdoe se isto doer.
+<0055> É desse jeito.
+<0056> Yaah.
+<0057> Que coisa.
+<0058> Kyaa.
+<0059> Nossa.
+<0060> Muu.
+<0061> Minha nossa.
+<0062> Mas que surpreendente.
+<0063> Você é forte.
+<0064> Minha nossa?
+<0065> Pulo.
+<0066> Tenha cuidado.
+<0067> Fufu, estou aqui.
+<0068> Sim, essa foi boa.
+<0069> Isso foi divertido.
+<0070> Vamos jogar de novo alguma hora.
+<0071> Ainda não dancei o suficiente.
+<0072> Já acabou?
+<0073> Fufu, você até que é vívido.
+<0074> Estou um pouco cansada...
+<0075> É meu dia de folga.
+<0076> Hora de fazer uma pausa...
+<0077> Nossa, tão brilhante.
+<0078> Fascinante.
+<0079> Fufu, são muitas.
+<0080> Estrelas... que lindas.
+<0081> Minhas estrelas...
+<0082> Deixei cair algumas.
+<0083> Minhas estrelas se esparramaram...
+<0084> Nossa... minhas estrelas foram...
+<0085> Uma armadilha...?
+<0086> É uma armadilha...
+<0087> Eu fui pega...
+<0088> Poxa, que coisa mais cruel de se fazer.
+<0089> Parece forte.
+<0090> Nossa, o que será que apareceu.
+<0091> Fufu, parece que isso vai ficar mais divertido.
+<0092> Minha nossa, parece que eu tenho um problemão.
+<0093> Eu quero estrelas.
+<0094> Coisas brilhantes... gosto delas.
+<0095> Acho que vou coletar estrelas.
+<0096> Eu quero coletar diversas estrelas.
+<0097> Fufufu, vamos dançar muito.
+<0098> Eu quero jogar bastante.
+<0099> Eu quero dançar com vários jovens.
+<0100> Acho que eu deveria tentar me divertir de vez em quando.
+<0101> Tudo bem me escolher?
+<0102> Fufufu, por favor, tome conta de mim.
+<0103> Certo, vamos dançar juntos.
+<0104> Obrigada pelo convite.
+<0105> Certo, vamos nos divertir?
+<0106> Todo mundo parece cheio de energia.
+<0107> Fufu...
+<0108> Bom, vamos começar.
+<0109> Isso foi incrivelmente divertido.
+<0110> Eu sou a número um...?
+<0111> Fufufu, vamos jogar novamente.
+<0112> Nossa, só porque eu queria brincar um pouco mais...
+<0113> Eu encontrei algo bom.
+<0114> Isto é maravilhoso, não é mesmo?
+<0115> Era isso que você queria?
+<0116> Nossa, que maravilhoso.
+<0117> Está na hora de trocar.
+<0118> Você pode tomar meu lugar?
+<0119> Fufu, vamos trocar.
+<0120> Eu estou contando com você.
+<0121> Ótimo.
+<0122> Que bom.
+<0123> Sim.
+<0124> Não pode.
+<0125> Minha nossa...
+<0126> Estou feliz.
+<0127> Hmm...
+<0128> Vamos lá?
+<0129> Eu jogo estes, então?
+<0130> Vamos lá.
+<0131> Saudações.
+<0132> O que eu deveria fazer...?
+<0133> Que maravilhoso.
+<0134> Incrível.
+<0135> Minha nossa.
+<0136> Estou pegando isto emprestado...
+<0137> Isso é... que tipo de coisa é essa?
+<0138> Estou pegando isso emprestado um pouco.
+<0139> Então este é o poder daquele jovem.
+<0140> Você tem minha gratidão.
+<0141> Certo Suguri, vamos dançar?
+<0142> Fufu, e pensar que a Suguri iria me convidar.
+<0143> Fufufu, isto foi muito divertido, Suguri.
+<0144> Hah, jogar com a Suguri é realmente muito divertido.
+<0145> Vamos jogar juntas, mana.
+<0146> Dançar com a mana também parece divertido.
+<0147> Minha mana é realmente maravilhosa.
+<0148> A mana usou... o raio um pouco quente...
+<0149> Nossa, será que você é o clone daquele Zé Mané?
+<0150> Espera um pouco... Eu não gosto de gente da sua laia.
+<0151> Espancar você, é um pouco divertido.
+<0152> Você realmente é outro Zé Mané...
+<0153> Sem mais violência, beleza?
+<0154> Seu Zé Mané...
+<0155> Fique quietinho.
+<0156> Sério... você realmente é uma escória.
+<0157> Nossa, esse é um avião vermelho bem fofo.
+<0158> Certo, vamos começar. Para proteger a todos...
+<0159> Pessoal, as coisas vão começar a ficar difíceis.
+<0160> Fufufu, essas roupas realmente ficam boas em você.
+<0161> Você está vestindo as roupas que escolhi para você.
+<0162> Fufufu, você me mostrou algo legal.
+<0163> Mesmo quando está vestindo roupas fofas, a Suguri é forte.
+<0164> Isto será muito mais divertido se eu e você trabalharmos juntos.
+<0165> Deixe-me te ajudar.
+<0166> Fufu, que aparência fofa.
+<0167> Como eu estou? Combinou comigo?
+<0168> Você quer jogar comigo hoje de novo? Fufu, claro, com prazer.
+

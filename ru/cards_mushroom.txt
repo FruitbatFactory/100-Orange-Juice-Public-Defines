@@ -1,0 +1,121 @@
+< CARD_SHROOM_BLUE >
+name=Синий Гриб
+descr=Странно пахнет.
+
+< CARD_SHROOM_BROWN >
+name=Коричневый Гриб
+descr=Странно пахнет.
+
+< CARD_SHROOM_GREEN >
+name=Зелёный Гриб
+descr=Странно пахнет.
+
+< CARD_SHROOM_ORANGE >
+name=Рыжий Гриб
+descr=Странно пахнет.
+
+< CARD_SHROOM_PINK >
+name=Розовый Гриб
+descr=Странно пахнет.
+
+< CARD_SHROOM_PURPLE >
+name=Фиолетовый Гриб
+descr=Странно пахнет.
+
+< CARD_SHROOM_RAINBOW >
+name=Радужный Гриб
+descr=Странно пахнет.
+
+< CARD_SHROOM_RED >
+name=Красный Криб
+descr=Странно пахнет.
+
+< CARD_SHROOM_WHITE >
+name=Белый Гриб
+descr=Странно пахнет.
+
+< CARD_SHROOM_YELLOW >
+name=Жёлтый Гриб
+descr=Странно пахнет.
+
+< CARD_SHROOM_PHANTOMBLUE >
+name=Призрачный Синий Гриб
+descr=Жутко странно пахнет.
+
+< CARD_SHROOM_LEGENDARYRED >
+name=Легендарный Красный Гриб
+descr=Крайне странно пахнет.
+
+< CARD_SHROOM_MOVEUP >
+descr=Получите +%d ДВЖ к следующему броску для хода.
+
+< CARD_SHROOM_MOVEDOWN >
+descr=Получите -%d ДВЖ к следующему броску для хода.
+
+< CARD_SHROOM_GAINSTARS >
+descr=Получите Уровень ×%d Звёзд.
+
+< CARD_SHROOM_LOSESTARS >
+descr=Потеряйте Уровень ×%d Звёзд.
+
+< CARD_SHROOM_HEALTHUP >
+descr=Получите %d ОЗ.
+
+< CARD_SHROOM_HEALTHDOWN >
+descr=Потеряйте %d ОЗ.
+
+< CARD_SHROOM_ATTACKUP >
+descr=Получите +%d АТК в этом бою.
+
+< CARD_SHROOM_ATTACKDOWN >
+descr=Получите -%d АТК в этом бою.
+
+< CARD_SHROOM_DEFENSEUP >
+descr=Получите +%d ЗЩТ в этом бою.
+
+< CARD_SHROOM_DEFENSEDOWN >
+descr=Получите -%d ЗЩТ в этом бою.
+
+< CARD_SHROOM_EVADEUP >
+descr=Получите +%d УВРТ в этом бою.
+
+< CARD_SHROOM_EVADEDOWN >
+descr=Получите -%d УВРТ в этом бою.
+
+< CARD_SHROOM_HEAL >
+descr=Восстановите %d ОЗ.
+
+< CARD_SHROOM_DAMAGE >
+descr=Получите %d урона.
+
+< CARD_SHROOM_ROLLONE >
+descr=В этом бою вам выпадает только 1.
+
+< CARD_SHROOM_ROLLSIX >
+descr=В этом бою вам выпадает только 6.
+
+< CARD_SHROOM_FROSTWALKER >
+descr=Получите Ледоход на %d Глав(у).
+
+< CARD_SHROOM_WARP >
+descr=Телепортируйтесь на случайную панель.
+
+< CARD_SHROOM_CONFUSION >
+descr=На %d Глав(у), все ваши карты перевёрнуты (вы не видите свои карты, но остальные игроки могут их видеть).
+
+< CARD_SHROOM_DRAW >
+descr=Возьмите 2 карты.
+
+< CARD_SHROOM_DISCARD >
+descr=Сбросьте случайную карту.
+
+< CARD_SHROOM_WIN >
+descr=Получите 1 Победу.
+
+< CARD_SHROOM_LEGEND_STARS >
+descr=Получите +Уровень Звёзд из всех источников. При нокауте в бою, эта карта переходит к победителю если он является игроком.
+
+< CARD_SHROOM_LEGEND_WINS >
+descr=Получите +1 к Победам из всех источников. При нокауте в бою, эта карта переходит к победителю если он является игроком.
+
+[EOF]

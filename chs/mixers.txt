@@ -1,0 +1,111 @@
+< MIXER_AIR_RAID >
+name=空袭
+descr=发动轮开始时，所有角色受到\n1点伤害。
+
+< MIXER_AMPLIFY >
+name=增幅
+descr=所有角色随机ATK、DEF或\nEVD+1。效果持续2轮。
+
+< MIXER_BACKTRACK >
+name=返回
+descr=所有角色移动方向反转。效果\n持续1轮。
+
+< MIXER_BOMBER >
+name=炸弹
+descr=在随机格子设置1个可见的\n炸弹、1～4轮后以十字爆炸。
+
+< MIXER_CHARITY >
+name=恩惠
+descr=发动轮开始时，所有玩家从卡堆\n抽取1张卡片。
+
+< MIXER_CONFUSION >
+name=混乱
+descr=所有玩家手牌洗牌并翻转，无论\n是持有者还是其他玩家都无法\n看到正面。
+
+< MIXER_FREEZE >
+name=冰冻
+descr=场地上三分之一的格子变为\n冰冻格，持续1轮。
+
+< MIXER_MINELAYER >
+name=布雷
+descr=将1张陷阱卡设置在随机的格子\n上。
+
+< MIXER_MIRACLE >
+name=奇迹
+descr=奖励、掉落、移动和传送移动格\n的骰子枚数变为2枚。\n从遭遇格中获得2WIN。\n抽卡格抽取2张卡片。\n治疗格恢复2HP。
+
+< MIXER_RANDOM_WARP >
+name=随机传送
+descr=发动轮开始时，所有角色传送至\n随机的格子。
+
+< MIXER_REGENERATION >
+name=恢复
+descr=发动轮开始时，所有角色恢复\n1点HP。
+
+< MIXER_SPRINT >
+name=疾走
+descr=所有角色移动骰枚数变为\n2枚。
+
+< MIXER_TREASURE >
+name=宝箱
+descr=将1个宝箱放置在随机的\n格子上。
+
+< MIXER_HEALTHY_BOSS >
+name=健壮的BOSS
+descr=BOSS拥有额外的10HP。
+
+< MIXER_STAR_CHASER >
+name=追星者
+descr=在奖励格获得双倍的STAR。
+
+< MIXER_BEGGAR >
+name=乞丐
+descr=在掉落格失去双倍的STAR。
+
+< MIXER_AGGRESSIVE_HEROES >
+name=进攻型英雄
+descr=所有友方的ATK+1。
+
+< MIXER_DEFENSIVE_HEROES >
+name=防守型英雄
+descr=所有友方的DEF+1。
+
+< MIXER_EVASIVE_HEROES >
+name=闪避型英雄
+descr=所有友方的EVD+1。
+
+< MIXER_BLAZING >
+name=爆燃
+descr=所有角色ATK+1·DEF-1。
+
+< MIXER_FLIPPED >
+name=翻转
+descr=所有角色经过修正后的能力值\n正负反转。
+
+< MIXER_MENACING_BOSS >
+name=凶暴的BOSS
+descr=BOSS的ATK+1。
+
+< MIXER_HARD_SHELLED_BOSS >
+name=坚硬的BOSS
+descr=BOSS的DEF+1。
+
+< MIXER_SLIPPERY_BOSS >
+name=滑溜的BOSS
+descr=BOSS的EVD+1。
+
+< MIXER_JOKER >
+name=鬼牌
+descr=所有卡片无需COST。
+
+< MIXER_BANKRUPT >
+name=破产
+descr=卡片COST增加10个\nSTAR。
+
+< MIXER_GOO >
+name=粘液
+descr=场地上三分之一的未被粘液覆盖\n的格子被粘液覆盖，持续1轮。
+
+< MIXER_SPORES >
+name=孢子
+descr=在场地上生成蘑菇。

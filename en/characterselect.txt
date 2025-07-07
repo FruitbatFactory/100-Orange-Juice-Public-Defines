@@ -1,0 +1,17 @@
+
+< CHARACTERSELECT_QP >
+A fool of a dog. Will do anything for the sake of pudding.\nThe perfect all-rounder who can adjust to any situation. Medium difficulty.
+
+< CHARACTERSELECT_SUGURI >
+Over ten thousand years old. Really fast.\nAn all-or-nothing character who relies on her high evasion for survival. Expert difficulty.
+
+< CHARACTERSELECT_MARC >
+A girl who loves to fly through the sky.\nGood attack and defense. Can deal direct damage with her Hyper card. Medium difficulty.
+
+< CHARACTERSELECT_KAI >
+A regular guy who lost his wallet.\nA well-rounded battle character. Easy difficulty.
+
+< CHARACTERSELECT_DLC >
+Note: You can choose to play with a DLC character\nyou own later on the Deck Creation screen.
+
+[EOF]

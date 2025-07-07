@@ -1,0 +1,626 @@
+
+< CARD_UNIT_ALTE >
+name=Alte
+descr=Na batalha, veja uma carta aleatória de batalha nas mãos do oponente. Ao usar auto-destruição, ganhe +1 de ataque (Máximo de até +3).
+
+< CARD_UNIT_ARTHUR >
+name=Arthur
+descr=Ganhe X estrelas adicionais de painéis de Bônus e Lojas, sendo que X é a quantidade de Lojas em jogo, até no máximo o level atual.
+
+< CARD_UNIT_ARU >
+name=Aru
+descr=Pode segurar 4 cartas na mão.
+
+< CARD_UNIT_ARUSCRAMBLE >
+name=Aru (Scramble)
+descr=Pode segurar 4 cartas na mão.
+
+< CARD_UNIT_BIG_THE_JONATHAN >
+name=Jonathan o Grande
+descr=Quando um jogador sofrer nocaute, ganhe +1 ATK por 1 Capítulo. A cada 4 capítulos, use Lançar ao final do turno do Chefão. A cada 10 capítulos, ganhe permanentemente +1 ATK e -1 DEF & EVD.
+
+< CARD_UNIT_BIG_THE_JONATHAN_HYPER >
+name=Jonathan o Grande
+descr=Quando um jogador sofrer nocaute, ganhe +1 ATK por 1 Capítulo. A cada 3 capítulos, use Lançar ao final do turno do Chefão. A cada 10 capítulos, ganhe permanentemente +1 ATK e -1 DEF & EVD.
+
+< CARD_UNIT_BOSS_CHICKEN >
+name=Haruo o Grande
+descr=Ganhe -1 ATK, -1 DEF e +1 dado no ataque para cada Galinha capanga em campo. Convoca uma Galinha capangas a cada 5 capítulos.
+
+< CARD_UNIT_BOSS_CHICKEN_HYPER >
+name=Haruo o Grande
+descr=Ganhe -1 ATK e +1 dado no ataque para cada Galinha minion em campo. Convoca duas Galinhas capangas a cada 5 capítulos.
+
+< CARD_UNIT_BOSS_POPPO >
+name=Star Devourer
+descr=Jogadores ganham 2x estrelas bônus de capítulos. Ao ser machucado, ganhe +1 DEF até o fim do capítulo. Dê +1 dano de batalha por cada 300 estrelas em mãos. Ganhe 5 estrelas ou dê 3 estrelas para cada dano de ponto de combate perdido ou desferido. Se possuir 1000 estrelas, automaticamente ganha o jogo. Se possuir 0 estrelas: automaticamente perde o jogo.
+
+< CARD_UNIT_BOSS_POPPO_HYPER >
+name=Star Devourer
+descr=Jogadores ganham 2x estrelas bônus de capítulos. Ao ser machucado, ganhe +1 DEF até o fim do capítulo. Dê +1 dano de batalha por cada 300 estrelas em mãos e ganhe 5 estrelas para cada dano de ponto de combate desferido. Ao ser machucado, ganhe +1 DEF até o fim do capítulo. Se possuir 1000 estrelas, automaticamente ganha o jogo. Se possuir 0 estrelas: automaticamente perde o jogo.
+
+< CARD_UNIT_BIG_POPPO >
+name=Grande Poppo
+descr=Não dê dano de combate mas roube 3 estrelas por cada dano que teria sido desferido. Ao ser derrotado, ganhe REC 10 e dê 100 estrelas e 3 Vitórias.
+
+< CARD_UNIT_BIG_POPPO_NM >
+name=Grande Poppo
+descr=
+
+< CARD_UNIT_BOSS_ROBOBALL >
+name=Robô M10
+descr=No turno do Chefão, não pare quando estiver desafiando um inimigo. Se Proteger e Mexidos não estiverem ativos, use Proteger.
+
+< CARD_UNIT_BOSS_QP >
+name=Fera do Verão
+descr=Em cada turno, invoque uma gaivota Capanga (até o nível do Chefão). Quando um Capanga é derrotado, perca 1 de Hype. Quando um jogador sofrer nocaute, ganhe 1 de Hype. Se o Chefão tiver 10+ de Hype no começo do turno do Chefão, Fúria.
+
+< CARD_UNIT_BOSS_ROPOCHI >
+name=RoPoChi
+descr=Quando Po-teção e Mexidos não estiverem ativos, use Po-teção. Ganhe -2 ATK e +1 no dado quando rolar ataque para cada Capanga em campo. Use Impulso do Poleiro a cada 6 capítulos. Ganhe 3 estrelas por dano de combate desferido.
+
+< CARD_UNIT_BOSS_ROPOCHI_HYPER >
+name=RoPoChi
+descr=Quando Po-teção e Mexidos não estiverem ativos, use Po-teção. Ganhe -2 ATK e +1 no dado quando rolar ataque para cada Capanga em campo. Use Impulso do Poleiro a cada 6 capítulos. Ganhe 5 estrelas por dano de combate desferido.
+
+< CARD_UNIT_BOSS_COACH >
+name=Técnico de Natação
+descr=A cada 2 capítulos, use Poste.\nSe não tiver nenhum Balão, use Balão.\nSe tiver menos que 2 Boias de Natação, use Boia de Natação.
+
+< CARD_UNIT_BOSS_COACH_HYPER >
+name=Técnico de Natação
+descr=A cada 2 capítulos, use Posto.\nSe não tiver nenhum Balão, use Balão.\nSe tiver menos que 2 Boias de Natação, use Boia de Natação.\nNão pode tomar dano em batalha.
+
+< CARD_UNIT_GOALPOST >
+name=Poste
+descr=Nunca se move ou faz evasiva. Só pode ser atingido por ataques que causam 1 de dano.
+
+< CARD_UNIT_BALLOON_JERK >
+name=Balão
+descr=
+
+< CARD_UNIT_SWIMMING_RINGER >
+name=Boia de Natação
+descr=Ganhe -1 MOV.
+
+< CARD_UNIT_CHICKEN >
+name=Galinha
+descr=
+
+< CARD_UNIT_CHICKEN_MP >
+name=Galinha
+descr=Perca 1/4 de estrelas e 1 de Vitória quando nocauteado em batalha.
+
+< CARD_UNIT_CASTLE >
+name=Castelo Voador
+descr=
+
+< CARD_UNIT_CASTLE_MP >
+name=Castelo Voador
+descr=Quando defensor, oponente não pode usar Cartas de Batalha.\nNão pode Contra-Atacar a não ser que Objeto Imóvel esteja ativo.
+
+< CARD_COOP_UNIT_CASTLE_MP >
+name=Castelo Voador
+descr=Não pode Contra-Atacar ao ser desafiado.
+
+< CARD_UNIT_CEOREPARQUE >
+name=Ceoreparque
+descr=Em uma evasiva bem sucedida, cause 1 de dano ao oponente.
+
+< CARD_UNIT_CUTIES >
+name=Fofuras
+descr=Só pode escolher norma de Estrela. Ganhe X estrelas adicionais de painéis de bônus, onde X é o número de diferente cartas de Evento que você jogou. Em batalha, ganhe +1 ATK ou DEF aleatórios.
+
+< CARD_UNIT_FERNET >
+name=Fernet
+descr=
+
+< CARD_UNIT_HIME >
+name=Hime
+descr=
+
+< CARD_UNIT_IRU >
+name=Iru
+descr=Ao desafiar um inimigo, ele toma 1 de dano. Nocautes desse efeito contam como nocautes de batalha.
+
+< CARD_UNIT_ISLAY >
+name=Islay
+descr=Não pode desafiar para batalhas.
+
+< CARD_UNIT_KAE >
+name=Kae
+descr=Adicione valor inverso da Defesa para Ataque.\n-1 de Defesa quando estiver atacando.
+
+< CARD_COOP_UNIT_KAE >
+name=Kae
+descr=Adicione valor inverso da Defesa para Ataque.
+
+< CARD_UNIT_KAI >
+name=Kai
+descr=
+
+< CARD_UNIT_KIRIKO >
+name=Kiriko
+descr=Ignore efeitos de recuperação. Quando estiver jogando uma Carta de Batalha, ganhe +1 ATK & EVD na batalha e um estoque de Medicina Estranha. O HP Máximo é reduzido em 1 (Para um mínimo de 2).
+
+< CARD_UNIT_KRILA >
+name=Krila
+descr=
+
+< CARD_UNIT_KYOKO >
+name=Kyoko
+descr=Não pode usar o comando de Evasiva em batalha.
+
+< CARD_UNIT_KYOUSUKE >
+name=Kyousuke
+descr=
+
+< CARD_UNIT_MALT >
+name=Malt
+descr=Dá 3 Vitórias ao ser nocauteado em batalha. Não pode desafiar para batalhas. Pode usar uma carta de Batalha sem requerimentos especiais de uso como uma carta de Armadilha sem pagar teu custo. Quando outro jogador parar nela, vocês irão batalhar e ambas unidades de jogador ganharão o efeito da carta. Nenhuma outra carta de Batalha pode ser jogada nessa batalha.
+
+< CARD_UNIT_MANAGER >
+name=Gerente da Loja
+descr=
+
+< CARD_UNIT_MANAGER_MP >
+name=Gerente da Loja
+descr=Não ganhe estrelas de painéis de bônus. Só pode usar cartas do tipo Presente. Recebe 1 de dano ao descartar uma carta.
+
+< CARD_UNIT_MARC >
+name=Marc
+descr=
+
+< CARD_UNIT_MEI >
+name=Mei
+descr=Ganhe "Vermelho & Azul" quando não possuir cartas na mão ao fim de um turno.
+
+< CARD_UNIT_MESCAL >
+name=Mescal
+descr=Ao ser desafiada para uma batalha, existe 50% de chances de um Membro da Tripulação Pirata lutar em seu lugar. Se esse Membro da Tripulação Pirata for nocauteado em batalha, ele não irá lutar por você durante 3 capítulos. Membro da Tripulação Pirata dá 1 Vitória em nocaute e dá as estrelas ganhas em batalha para sua unidade.
+
+< CARD_UNIT_MIMYUU >
+name=Mimyuu
+descr=Reanime como Tomato e jogue no turno que reanimou. Quando o fizer, você pode desafiar qualquer inimigo no mesmo painel. Perca 1/4 das estrelas e dê 1 de Vitória quando nocauteada em batalha.
+
+< CARD_UNIT_MIRA >
+name=Mira
+descr=Armadilhas colocadas ganham o seguinte efeito adicional por dois capítulos: Dados de movimento são limitados em ter apenas os números 1, 2, e 3.
+
+< CARD_UNIT_MIUSAKI >
+name=Miusaki
+descr=Quando estiver usando o comando de Defesa em batalha, nunca tome mais do que 2 de dano de uma vez só.
+
+< CARD_COOP_UNIT_MIUSAKI >
+name=Miusaki
+descr=Quando estiver usando o comando de Defesa em batalha, nunca tome mais do que metade de seu HP máximo em dano em batalha (arredondado para cima).
+
+< CARD_UNIT_MIXEDPOPPO >
+name=Marie Poppo (Mixed)
+descr=Quando teleportar a partir de qualquer efeito: Se o nível do jogador for ímpar, ganhe o Nvl x3 em estrelas. Se o nível do jogador for par, compre uma carta.
+
+< CARD_UNIT_MIO >
+name=Mio
+descr=
+
+< CARD_UNIT_NANAKO >
+name=Nanako
+descr=
+
+< CARD_UNIT_NATH >
+name=Nath
+descr=Ganhe 1 estoque de Extensão Ativa em cada batalha aonde uma Carta de Batalha é jogada (máx 3). Perca 1 de estoque ao ser nocauteado.\nEfeito do Estoque: ganhe +1 ATK, +1 DEF, e -1 EVD.
+
+< CARD_UNIT_NATSUMI >
+name=Natsumi
+descr=Quando o turno acabar, se não estiver nocauteada e existirem outras unidades ativas no mesmo painel, as unidades ativas naquele painel recuperam 1 HP.\nPara cada unidade curada, ganhe 5 estrelas.
+
+< CARD_COOP_UNIT_NATSUMI >
+name=Natsumi
+descr=Quando o turno acabar, se não estiver nocauteada e existirem outros aliados ativos no mesmo painel, os aliados ativos naquele painel recuperam 1 HP.\nPara cada aliado curado, ganhe 5 estrelas.
+
+< CARD_UNIT_NATSUMI_BH >
+name=Natsumi
+descr=Quando o turno acabar, se não estiver nocauteada e existirem outros jogadores ativos no mesmo painel, as unidades ativas naquele painel recuperam 1 HP.\nPara cada unidade curada, ganhe 5 estrelas.
+
+< CARD_UNIT_NICO >
+name=Nico
+descr=Sem efeitos de cartas de Presente.\nQuando for ganhar estrelas, ganhe X estrelas adicionais, sendo que X é o número de cartas de Presente em mãos.\nPode segurar 4 cartas.
+
+< CARD_UNIT_NONAME >
+name=NoName
+descr=Caso seja nocauteado, se transforme em NoName (Cabeça). Não dê estrelas ou vitórias se nocauteado em batalha.
+
+< CARD_UNIT_NONAME_HEAD >
+name=NoName (Cabeça)
+descr=Mude para NoName ao parar em uma casa ou ao ser nocauteado.\n-1 para Movimento.
+
+< CARD_UNIT_POPPO >
+name=Marie Poppo
+descr=
+
+< CARD_UNIT_PEAT >
+name=Peat
+descr=
+
+< CARD_UNIT_QP >
+name=QP
+descr=
+
+< CARD_UNIT_QPD >
+name=QP (Dangerous)
+descr=Ganhe bônus de combate por carregar cartas com 'Pudim' no nome.\nPudim Perigoso (+1ATK) Pudim Ruim (+1DEF) Pudim (+1EVD) Pudim Portátil (Cure 1 por cada nocaute de batalha)
+
+< CARD_UNIT_ROBOBALL >
+name=Robô Bola
+descr=
+
+< CARD_UNIT_ROBOBALL_MP >
+name=Robô Bola
+descr=Perca 1/4 das suas estrelas e dê 1 Vitória quando nocauteado em batalha.
+
+< CARD_UNIT_SAKI >
+name=Saki
+descr=
+
+< CARD_UNIT_SEAGULL >
+name=Gaivota
+descr=
+
+< CARD_UNIT_SEAGULL_MP >
+name=Gaivota
+descr=Perca 1/4 das suas estrelas e dê 1 Vitória quando nocauteado em batalha.
+
+< CARD_UNIT_SHAM >
+name=Sham
+descr=
+
+< CARD_UNIT_SHERRY >
+name=Sherry
+descr=O inimigo sempre irá atacar primeiro. Se a inimiga for a Sherry, ignore este efeito.
+
+< CARD_UNIT_SHIFUROBOT >
+name=Robô Shifu
+descr=
+
+< CARD_UNIT_SHIFUROBOT_MP >
+name=Robô Shifu
+descr=Começa e Reanima com 1 de HP e 1 de HP de Barreira.\nAuto-reparo: No começo do seu turno, a cada 3 capítulos, cure 1 HP e remova uma Barreira.\n-1 MOV por 2 turnos após reanimar.
+
+< CARD_COOP_UNIT_SHIFUROBOT >
+name=Shifu Robot
+descr=Começa e Reanima após 2 turnos com 1 de HP e 1 de HP de Barreira.\nAuto-reparo: No começo do seu turno, a cada 3 capítulos, cure 1 HP e remova uma Barreira.\nGanhe um estoque de Exausto toda vez que você for revivido.\nEfeito de Estoque: Recuperação é atrasada em um turno por cada estoque.
+
+< CARD_UNIT_SORA >
+name=Sora
+descr=
+
+< CARD_UNIT_SORAMILITARY >
+name=Sora (Military)
+descr=Quando nocauteada em batalha, reanima com 2 HP no próximo turno.
+
+< CARD_COOP_UNIT_SORAMILITARY >
+name=Sora (Military)
+descr=Quando nocauteada em batalha, reanima com 2 HP no próximo turno.\nGanhe um estoque de Exausto toda vez que você reviver de um nocaute em batalha.\nEfeito de Estoque: Recuperação é atrasada em um turno por cada estoque.
+
+< CARD_UNIT_STARBREAKER >
+name=Star Breaker
+descr=Apenas pode escolher a norma de Vitórias.
+
+< CARD_UNIT_SUGURI >
+name=Suguri
+descr=
+
+< CARD_UNIT_SUGURI_V2 >
+name=Suguri (Ver.2)
+descr=Pode segurar apenas 2 cartas na mão.\nRecupere 1 HP no começo de cada turno.
+
+< CARD_UNIT_SWEETBREAKER >
+name=Sweet Breaker
+descr=Quando estiver batalhando um jogador com cartas invertidas, ganhe +1 em ATK, DEF e EVD por cada carta.
+
+< CARD_COOP_UNIT_SWEETBREAKER >
+name=Sweet Breaker
+descr=Quando estiver batalhando um jogador sob o efeito de Dissolvendo Memórias, ganhe +1 em ATK, DEF e EVD por cada carta.
+
+< CARD_UNIT_SYURA >
+name=Syura
+descr=Quando estiver com 1 HP ao começo da batalha, ganhe +1 ATK e EVD até o fim da batalha.
+
+< CARD_UNIT_TOMATO >
+name=Tomato
+descr=Reanime como Mimyuu e jogue no turno que reanimou.\nPerca 1/3 das estrelas quando nocauteado em batalha. Caso compre a carta Trabalho de Espião Malígno - Execução ela é convertida no Decole! Máquina Waruda!
+
+< CARD_UNIT_TEQUILA >
+name=Tequila
+descr=Um Membro da Tripulação Pirata aparece como uma unidade inimiga.\nGanhe +1 ATK para cada HP perdido durante uma batalha.
+
+< CARD_UNIT_TEQUILA_BH >
+name=Tequila
+descr=Um Membro da Tripulação Pirata aparece como uma unidade inimiga.\nGanhe +1 ATK em uma batalha onde você perde HP.
+
+< CARD_UNIT_TEQMINION >
+name=Membro da Tripulação Pirata
+descr=Oponente perde o nvl x10 em estrelas se derrotado.\nO jogador que invocou essa unidade ganha as estrelas.\nNão aparece como inimigo para quem o invocou.
+
+< CARD_UNIT_TOMOMO >
+name=Tomomo
+descr=
+
+< CARD_UNIT_TOMOMO_MP >
+name=Tomomo
+descr=Suavizada: Tomomo está jogando com seus amigos, e diminuiu seus atributos.
+
+< CARD_UNIT_TOMOMO_CASUAL >
+name=Tomomo (Casual)
+descr=
+
+< CARD_UNIT_TOMOMO_SWEETEATER >
+name=Tomomo (Sweet Eater)
+descr=Quando nocauteada, descarte toda sua mão e volte a ser Tomomo (Casual).
+
+< CARD_UNIT_TSIH >
+name=Tsih
+descr=Ganhe +2 ATK se estiver segurando uma carta de Presente.
+
+< CARD_UNIT_YUKI >
+name=Yuki
+descr=
+
+< CARD_UNIT_YUKI_DANGEROUS >
+name=Yuki (Dangerous)
+descr=Transforme permanentemente todas as cartas em sua mão com 'Pudim' no nome em Tragédia na Calada da Noite. Quando outro jogador ativar sua armadilha, ganhe 1 Vitória. Não ganhe Vitórias ao enfrentar inimigos selvagens.
+
+< CARD_UNIT_YUUKI >
+name=Yuuki
+descr=Em capítulos ímpares, ganhe -1 ATK e +2 DEF.\nEm capítulos pares, ganhe +2 ATK e -1 DEF.
+
+< CARD_UNIT_SUGURI46 >
+name=Suguri (46 Bilhões de Anos)
+descr=Ao escolher uma carta de Boost/Event para jogar e que cause dano, ganhe +1 dado para sua próxima rolagem de movimento. Você pode escolher pagar 1.5x de seu custo (arredondado pra cima) para desferir o dobro de dano em seu uso.
+
+< CARD_UNIT_SUMIKA >
+name=Sumika
+descr=
+
+< CARD_UNIT_ELLIE >
+name=Ellie
+descr=
+
+< CARD_UNIT_LULU >
+name=Lulu
+descr=
+
+< CARD_UNIT_MARC_PILOT >
+name=Marc (Piloto)
+descr=
+
+< CARD_UNIT_ALICIANRONE >
+name=Alicianrone
+descr=Quando estiver batalhando um oponente com mais do que +1 ATK, ganhe +1 EVD até o fim da batalha. Se eles têm equivalente ou mais do que +2 ATK, ganhe um adicional de +1 EVD.
+
+< CARD_UNIT_TEOTORATTA >
+name=Teotoratta
+descr=Não ative Paineis de Encontro.
+
+< CARD_UNIT_ARNELLE >
+name=Arnelle
+descr=Pode ver a carta no topo do baralho ao ter a carta Oficial da Inteligência em mãos.
+
+< CARD_UNIT_MAYNIE >
+name=Maynie
+descr=Enquanto não estiver em Modo de Fúria, ganhe um Contador de Fúria ao tomar dano e perca um Contador de Fúria ao ser curada.
+
+< CARD_UNIT_KYUPITA >
+name=Kyupita
+descr=
+
+< CARD_UNIT_CHRIS >
+name=Chris
+descr=Pode segurar 4 cartas. Não pode desafiar para batalhas sem o Chefe ou o Gerente da Loja por perto. Ganhe um Contador de Gerente da Loja ao usar uma carta Max 1 de limite de cópia.
+
+< CARD_UNIT_CHEF >
+name=Chef
+descr=
+
+< CARD_UNIT_GOLEM >
+name=Golem de Musgo
+descr=
+
+< CARD_UNIT_GUARDIAN >
+name=Guardião
+descr=Não pode desafiar outros jogadores. Compartilha das caças do invocador.
+
+< CARD_UNIT_GUARDIAN_CHAOS >
+name=Guardião
+descr=Ganhe Nível x 1 estrelas adicionais após derrotar unidades de paineis de Encontro.
+
+< CARD_UNIT_EVILGUARDIAN >
+name=O Prenúncio
+descr=Não pode ser danificado ou nocauteado fora de batalha. Desafia outros jogadores ao passar por eles. Rouba 1 de Fama do oponente se o oponente for derrotado em batalha. Dê 2 de fama + a fama roubada ao ser nocauteado.
+
+< CARD_UNIT_EVILMOUSSE >
+name=Mousse de Chocolate Sombria
+descr=Não pode tomar dano nem ser nocauteada fora de batalha. Se o oponente for derrotado em batalha, roube 1 de fama, ganhe um estoque de Star Eater e cure 1 HP se não estiver Despertada. Dê 2 de fama + fama roubada quando nocauteada. Após a batalha, teleporte para um painel aleatório.
+
+< CARD_UNIT_FAE >
+name=Aurora
+descr=+1 MOV. Não pode desafiar outros jogadores. Cure o invocador em 1 HP, ou reviva-o com metade do HP a cada capítulo par.
+
+< CARD_UNIT_FAE_CHAOS >
+name=Aurora
+descr=+1 MOV. Cura a si mesmo em 1 HP, ou revive a si mesmo com metade do HP a cada capítulo par. Se não for nocauteado e estiver no mesmo painél que outros jogadores ativos ao fim de seu turno, cada jogador ativo no painél recupera 1 HP.\nPara cada outro jogador que você cura, ganhe 5 estrelas.
+
+< CARD_UNIT_MERCENARY >
+name=Mercenário
+descr=Desafie outros jogadores ao passar por eles. 50% das estrelas conquistadas em batalha serão entregues ao invocador.
+
+< CARD_UNIT_HALENA >
+name=Halena
+descr=Ganhe Nível x2 em estrelas ao visitar sua própria casa.
+
+< CARD_UNIT_COOK >
+name=Cook
+descr=Receba um estoque de Fome quando usando EVD (máx 3). Com 3 de Fome, ganhe -1 EVD até visitar sua própria casa.
+
+< CARD_UNIT_LONERIDER >
+name=Cavaleiro Solitário
+descr=Se sua rolagem de Movimento resultar em um valor superior a 6, ganhe +1 ATK, +1 DEF e +2 EVD até o começo de seu próximo turno.
+
+< CARD_UNIT_MERCHANT >
+name=Mercador
+descr=Pode segurar até 4 cartas.\nGanha uma carta de Carga ao parar no painel de casa de outro jogador.
+
+< CARD_UNIT_HIMEV2 >
+name=Hime (Luar)
+descr=Durante a lua cheia (a cada 5 capítulos), atributos base serão -1 ATK, -1 DEF, +3 EVD.
+
+< CARD_UNIT_FERNETNOBLE >
+name=Fernet (Nobre)
+descr=Qualquer jogador desafiando você em campo de batalha deve pagar o Nível deles x Estrelas para tal.
+
+< CARD_COOP_UNIT_FERNETNOBLE >
+name=Fernet (Nobre)
+descr=Qualquer inimigo te desafiando em campo irá pagar seu Nível x Estrelas.
+
+< CARD_UNIT_SHIFU >
+name=Shifu
+descr=Dê +2 dano de batalha a unidades selvagens robóticas. Quando uma unidade selvagem robótica derrota um jogador oponente, ganhe 1 Vitória.
+
+< CARD_UNIT_REIKA >
+name=Hoshino Reika
+descr=Só pode escolher norma de Estrelas.\nGanhe +1 estrela de todas as fontes exceto por bônus de capítulo ou por Colecionadora de Estrelas.
+
+< CARD_UNIT_WATTY >
+name=Watty
+descr=Após batalha, ganhe 1 estoque de Escama Endurecida para cada ponto de dano reduzido ao usar Defesa (max 5).\n(Durante 3 Capítulos: ganhe +1 ATK por estoque. Efeito expira em nocaute).
+
+< CARD_UNIT_POMERANIUS >
+name=Pomeranius
+descr=Ignore qualquer Carta de Armadilha que você parar quando seu HP estiver cheio ou superior.
+
+< CARD_COOP_UNIT_WATTY >
+name=Watty
+descr=Após batalha, ganhe 1 estoque de Escama Endurecida para cada 2 pontos de dano reduzido ao usar Defesa (max 5).\n(Durante 3 Capítulos: ganhe +1 ATK por estoque. Efeito expira em nocaute).
+
+< CARD_UNIT_SHADYMERCHANT >
+name=Mercador Não Confiável
+descr=Pode vender itens aos jogadores. Imune a eventos, e efeitos de cartas.
+
+< CARD_UNIT_SWEETCREATOR >
+name=Sweet Creator
+descr=Quando alguém além de você jogar uma carta do tipo Doces que não seja uma carta armadilha, ou quando ativarem uma carta armadilha do tipo Doces, ganhe estrelas equivalente a duas vezes o Nível da carta.
+
+< CARD_UNIT_SWEETMAKER >
+name=Saki (Sweet Maker)
+descr=Se ativa após ativar um painel de Encontro, compre uma carta do tipo Doces de um nível usável.
+
+< CARD_UNIT_SWEETBLOGGER >
+name=Natsumi (Sweet Blogger)
+descr=Todas as cartas do tipo Doces são de graça para usar. Se ativa após ativar um painel de Perda, compre uma carta do tipo Doces de um nível usável.
+
+< CARD_UNIT_LOSTROGUE >
+name=O Vampiro Perdido
+descr=Não pode levar dano ou ser nocauteado fora de batalhas. Desafie outras unidades ao passar por elas. Em batalha, pode fazer Acertos Críticos numa taxa de 25%.\nA cada 5 turnos, dê 2 de dano em unidades até 1 raio de distância de 3 painéis aleatórios e recebem um contrato amaldiçoado aleatório.
+
+< CARD_UNIT_BOSSJONATHAN_CHAOS >
+name=Jonathan o Grande
+descr=
+
+< CARD_UNIT_BOSSHARUO_CHAOS >
+name=Haruo o Grande
+descr=
+
+< CARD_UNIT_AGGRESSIVECHICKEN_CHAOS >
+name=Galinha Agressiva
+descr=Garante um dado adicional ao invocador ao rolar ataque em batalha, enquanto reduz ATK e DEF por 2.\nGanhe +1 ATK se seu oponente em batalha tiver mais do que 1 ATK base.
+
+< CARD_UNIT_BOSSM10_CHAOS >
+name=M10 Robot
+descr=No seu turno, não pare ao desafiar um inimigo.
+
+< CARD_UNIT_BOSSSTARDEV_CHAOS >
+name=Star Devourer
+descr=Roube 1 estrela por dano dado aos inimigos em batalha, e dê 1 estrela por dano tomado em batalha. Ganhe automaticamente o jogo se você chegar a 200 estrelas, enquanto estiver no requerimento da última norma.
+
+< CARD_UNIT_POPPO_CHAOS >
+name=Poppo Caótica
+descr=Não dê dano de combate mas roube 2 estrelas por dano dado que é dado direto ao invocador. Quando nocauteado em batalha, dê 10 Estrelas do invocador e 2 Vitórias.
+
+< CARD_UNIT_BOSSQP_CHAOS >
+name=Fera do Verão
+descr=1 Hype é adquirido ao tomar dano, e tomando dano em batalha. 2 Hype é adquirido no nocaute de outro jogador. Max 10. Automaticamente reviva com HP cheio se tiver 4 Hype ou mais, que então serão consumidos.
+
+< CARD_UNIT_BOSSROPOCHI_CHAOS >
+name=RoPoChi
+descr=
+
+< CARD_UNIT_BOSSCOACH_CHAOS >
+name=Técnico de Natação
+descr=Se Poste for invocado: Ganhe +2 ATK. Se Balão for invocado: Ganhe +2 DEF. Se Boia de Natação for invocada: Ganhe 3 estrelas por turno.
+
+< CARD_UNIT_MIOFESTIVE >
+name=Mio (Festiva)
+descr=
+
+< CARD_UNIT_KRILAPAJAMAS >
+name=Krilalaris (Pijamas)
+descr=Não pode usar o comando de Evasiva em batalha. Se você fosse sofrer 1 de dano ao usar o comando de Defesa, cancele este dano e pague seu Nível x estrelas para o oponente.
+
+< CARD_UNIT_MIMYUUJAILBIRD >
+name=Mimyuu (Presidiária)
+descr=Quando nocauteada em batalha, mova para seu painel de Casa.
+
+< CARD_UNIT_MOTHERP >
+name=Mãe Poppo
+descr=Ao teleportar, tome 1 de dano. Se ativo após teleportar, compre uma carta e ganhe Nvl x1 estrelas.
+
+< CARD_UNIT_DARKL >
+name=Lulu Sombria
+descr=Perca seu Nvl x2 estrelas ao recusar um desafio.
+
+< CARD_COOP_UNIT_DARKL >
+name=Lulu Sombria
+descr=Perca seu Nvl x1 estrelas ao recusar um desafio.
+
+< CARD_UNIT_HELLIE >
+name=Hiper Ellie
+descr=Ganhe +1 ATK, -1 DEF e -1 EVD em batalha quando for atacante.
+
+< CARD_UNIT_HKAI >
+name=Kai (Pai)
+descr=Se você fosse abaixo de 1 HP por conta de dano de fora de batalha, mantenha em 1 HP. Se você ainda estiver em 1 HP no seu próximo final de turno, sofra nocaute.
+
+< CARD_UNIT_GRAIN >
+name=Grain
+descr=-1 MOV. Ganhe um Contador de Bola de Canhão ao jogar uma carta (max 9).
+
+< CARD_UNIT_BOURBON >
+name=Bourbon
+descr=Toda vez que você tomar dano em batalha, perca 1 HP máximo (de um mínimo de 3) até nocaute.
+
+< CARD_UNIT_POYO >
+name=Poyo
+descr=Toda vez que o nível total de todos os jogadores for múltiplo de 4, ganhe +1 em jogadas de dado de Ataque, Defesa, Evasiva, Movimentação, Bônus e Perda.
+
+< CARD_UNIT_CHUU >
+name=Chuu
+descr=
+
+< CARD_UNIT_HARUKA >
+name=Haruka
+descr=Ganhe -1 ATK no começo da batalha para cada oponente nocauteado no momento.
+
+< CARD_COOP_UNIT_HARUKA >
+name=Haruka
+descr=Ganhe -1 ATK no começo da batalha para cada aliado nocauteado no momento.
+
+< CARD_UNIT_KANATA >
+name=Kanata
+descr=Se estiver com "Blefe Pseudointelectual" na mão, 50% de chance de ver o tipo de carta básico de qualquer carta um oponente pegar do baralho.
+
+< CARD_COOP_UNIT_YUKI_DANGEROUS >
+name=Yuki (Dangerous)
+descr=Transforme permanentemente todas as cartas em sua mão com 'Pudim' no nome em Tragédia na Calada da Noite. Quando outro jogador ativar sua armadilha, ganhe 1 Vitória. Não ganhe Vitórias ao enfrentar inimigos selvagens.
+
+[EOF]

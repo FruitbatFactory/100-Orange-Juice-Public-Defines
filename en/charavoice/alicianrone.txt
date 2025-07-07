@@ -1,0 +1,160 @@
+<0000> Is it like this?
+<0001> Here I go.
+<0002> There.
+<0003> Hah!
+<0004> These can help me win, right?
+<0005> I suppose it's time for this.
+<0006> Let's do this!
+<0007> Well, at times like these, what I do is...
+<0008> I'm going to set a trap here.
+<0009> This goes down here.
+<0010> *sneak sneak* I'm not good with these things... Phew.
+<0011> Phew, it's been set.
+<0012> Give me some power, won't you?
+<0013> Mhm, I'm getting stronger.
+<0014> This makes me invincible.
+<0015> Now I'm stronger than ever.
+<0016> Alright, fast I go...!
+<0017> It's not too late to overtake you all.
+<0018> The rest ends here...!
+<0019> I can move again... Well then...
+<0020> No worries. It's not too late for me to win the game!
+<0021> What? Why!
+<0022> This is unbelievable! I just want to play the game!
+<0023> Fue... I guess this means I should stay here a little longer.
+<0024> Hey, when can I get back up...
+<0025> Here I come.
+<0026> There!
+<0027> Yah!
+<0028> Attack!
+<0029> Kyah!
+<0030> What in the...!?
+<0031> Geez.
+<0032> What's your deal?
+<0033> Talk about healing.
+<0034> Ah, this feels good.
+<0035> I'm full of energy now!
+<0036> What is this!? It feels so good!
+<0037> Huh? What's happening?
+<0038> What gives!?
+<0039> Fuaaah! I'm flying!
+<0040> Where are you taking me?
+<0041> Noo! You've got to be kidding me!
+<0042> That one didn't count! Geez!
+<0043> Oh no.
+<0044> Ugh...
+<0045> Now, prepare yourself.
+<0046> I'll go first!
+<0047> Fufu, found you!
+<0048> It's battle time!
+<0049> Okay, bring it!
+<0050> I accept your challenge.
+<0051> Fufu, I'll take care of you.
+<0052> Come at me!
+<0053> My scissors are sharp.
+<0054> I'll cut through you!
+<0055> Eiyah!
+<0056> Let's see if you can dodge this!
+<0057> Au!
+<0058> Hey, that hurts!
+<0059> Geez!
+<0060> Yan!
+<0061> You're the worst! The worst!
+<0062> That hurts like crazy!
+<0063> That huuurts!
+<0064> Au! Geez!
+<0065> Did you think I wasn't capable of dodging that?
+<0066> Fufufu, way too slow.
+<0067> I'm over here.
+<0068> Where are you facing?
+<0069> Fufu, nothing to it.
+<0070> That was pretty entertaining.
+<0071> Looks like I won. Ufufu.
+<0072> My name's Alicianrone. You'd better remember it.
+<0073> Whaaat? I got... defeated?
+<0074> That doesn't count. It does! Not! Cooount!
+<0075> What? I lost? I lost?
+<0076> We'll do it over! One more time! Uuu...
+<0077> Stars? Can I have them?
+<0078> Fufu, they look quite beautiful.
+<0079> I like these things.
+<0080> Yes, yes!
+<0081> What? Are they gone?
+<0082> Oh, I dropped some...!
+<0083> No! Don't disappear on me...!
+<0084> Wah, my stars...!
+<0085> How come it's here...!?
+<0086> Geez, who set this here!?
+<0087> What!? A trap!?
+<0088> Geez, this is terrible!
+<0089> What's that thing...?
+<0090> A huge shadow... Is it a monster?
+<0091> This is getting more entertaining.
+<0092> Am I supposed to defeat that thing?
+<0093> Okay, I'm going to go around and get myself some stars.
+<0094> I can choose which norma? Hmm, this one!
+<0095> I'd like to go with this one.
+<0096> Let's get ourselves a lot of those pretty things.
+<0097> Exercise, let's get some exercise!
+<0098> Fufu, I have so much energy now, so... This one it is.
+<0099> I'll show you all one heck of a show.
+<0100> I'll take every one of you down.
+<0101> I'm Alicianrone. Just call me Rone.
+<0102> Want to go with me? Sure, let's go, then.
+<0103> Fufu, alright then, let's go have some fun out there.
+<0104> Fufu, I hope we'll have a fun time.
+<0105> What do I do first?
+<0106> So it begins.
+<0107> Game started!
+<0108> Ready, steady, go!
+<0109> I did it! I won the game!
+<0110> Fufufu, I win!
+<0111> How was that? This is my true mettle! Amazing, aren't I?
+<0112> I had so much fun! Thanks a bunch, everyone!
+<0113> Look what I found.
+<0114> Does that help? You happy to have it?
+<0115> Is that a new item?
+<0116> Fufufu, guess what this is.
+<0117> Switch!
+<0118> I'll be right back.
+<0119> It's your turn.
+<0120> Take it from here, will you?
+<0121> Okay.
+<0122> Good.
+<0123> Yes.
+<0124> No.
+<0125> That's too bad.
+<0126> Very lucky.
+<0127> Fuee?
+<0128> Let's get started.
+<0129> I'm throwing the die.
+<0130> Go, go!
+<0131> Hello there.
+<0132> What? What...?
+<0133> Nice.
+<0134> Fufu, that's splendid.
+<0135> Mhm...!
+<0136> Okay, so... do I use it like this?
+<0137> I should play this card now anyway, right?
+<0138> Well, um, this?
+<0139> Here goes nothing!
+<0140> Repa, can I have some of your time?
+<0141> OK Repa, I'll give you some of my time.
+<0142> E-hem! Your hair can't catch me.
+<0143> Okay, fine, would you get your hair off of me already?
+<0144> Two.
+<0145> Three!
+<0146> Four!!
+<0147> All together!
+<0148> Shouldn't have been in front of me!
+<0149> Defeated you all together!
+<0150> Not powerful enough...?
+<0151> That makes me fast enough...!
+<0152> Forest Witch... You look a bit different, though.
+<0153> Forest Witch... No, who are you?
+<0154> Who in the world are you...?
+<0155> You seem as strong as the Forest Witch...
+<0156> What? There are two Forest Witches...?
+<0157> Who's who? That's confusing!
+<0158> Forest Witch... Are you even capable of creating copies of yourself?
+<0159> That over there is Forest Witch... and that over there is also Forest Witch?

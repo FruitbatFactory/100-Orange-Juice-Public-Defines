@@ -1,0 +1,276 @@
+
+< COM_CONFIG_SYSTEM >
+Основные настройки.
+
+< COM_CONFIG_SCREEN >
+Настройки видео.
+
+< COM_CONFIG_AUDIO >
+Настройки аудио.
+
+< COM_CONFIG_VOICE >
+Настройки голосов.
+
+< COM_CONFIG_MODS >
+Установленные модификации.
+
+< COM_NEWGAME_SELECTSLOT >
+Выберите слот для сохранения.
+
+< COM_NEWGAME_SLOTCONFIRM >
+Вы точно хотите использовать этот слот?
+
+< COM_NEWGAME_ENTERNAME >
+Введите своё имя.
+
+< COM_NEWGAME_SELECTCHARACTER >
+Выберите персонажа.
+
+< COM_NEWGAME_CHARACTERCONFIRM >
+Вы точно хотите выбрать этого персонажа?
+
+< COM_LOADGAME_SELECTSLOT >
+Выберите слот для загрузки.
+
+< COM_LOADGAME_LOADCONFIRM >
+Вы уверены, что хотите загрузить это сохранение?
+
+< COM_SHOP_SELECTITEM >
+Выберите предмет для покупки.
+
+< COM_SHOP_BUYCONFIRM >
+Вы точно хотите это купить?
+
+< COM_SHOP_BUYEVENTCONFIRM >
+Продолжить прогресс события "%s"?
+
+< COM_SHOP_ITEMSOLDOUT >
+Предмет распродан.
+
+< COM_SHOP_ITEMNOTINSTOCK >
+Этого предмета еще нет в наличии.
+
+< COM_SHOP_NOTENOUGHCURRENCY >
+У вас недостаточно валюты.
+
+< COM_SHOP_NOSTEAMCONNECTION >
+Этот предмет требует соединения со Steam.
+
+< COM_SHOP_NOSTEAMCONNECTIONDLC >
+Невозможно подтвердить владение DLC без подключения к Steam.
+
+< COM_SHOP_ALREADYOWNDLC >
+У вас уже есть этот DLC.
+
+< COM_SHOP_BONUSITEM >
+Этот предмет доступен всем владельцам "%s" в Steam.
+
+< COM_SHOP_CHARACTERITEM >
+Этот предмет принадлежит персонажу, которого у вас нет.
+
+< COM_SHOP_LEVELTOOLOW >
+Ваш уровень недостаточно высок для этой покупки.
+
+< COM_SHOP_BOUGHTCARDPACK >
+Вы купили набор карт!
+
+< COM_SHOP_BOUGHTCARD >
+Вы купили карту!
+
+< COM_SHOP_BOUGHTDISCOUNT >
+Вы получили скидочный талон!
+
+< COM_SHOP_BOUGHTCHARACTER >
+Вы купили нового персонажа!
+
+< COM_SHOP_BOUGHTFIELD >
+Вы купили новое игровое поле!
+
+< COM_SHOP_BOUGHTCOLORS >
+Вы купили новые расцветки!
+
+< COM_SHOP_BOUGHTHAIR >
+Вы купили новую причёску!
+
+< COM_SHOP_BOUGHTACCESSORY >
+Вы купили новый аксессуар!
+
+< COM_SHOP_BOUGHTDICE >
+Вы купили новый кубик!
+
+< COM_SHOP_BOUGHTCANDY1 >
+Вы купили конфету!
+
+< COM_SHOP_BOUGHTCANDY10 >
+Вы купили 10 конфет!
+
+< COM_SHOP_BOUGHTCRATE >
+Вы купили ящик!
+
+< COM_SHOP_BOUGHTPET >
+Вы купили нового питомца!
+
+< COM_SHOP_BOUGHTHOMEMARK >
+Вы купили новый знак для дома!
+
+< COM_SHOP_BOUGHTGENERICITEM >
+Вы купили новый предмет!
+
+< COM_SHOP_BOUGHTEMOTE >
+Вы купили новую эмоцию!
+
+< COM_SHOP_BOUGHTCOSTUME >
+Вы купили новый костюм!
+
+< COM_SHOP_CONVERTCURRENCY >
+Конвертирование завершено!
+
+< COM_USERINFO_PLAYERINFO >
+Посмотрите информацию об игроке.
+
+< COM_USERINFO_GAMEINFO >
+Посмотрите информацию об играх.
+
+< COM_USERINFO_BROWSECARDS >
+Просмотрите ваши карты.
+
+< COM_USERINFO_CARDSINFO >
+Просмотрите информацию о вашей коллекции карт.
+
+< COM_USERINFO_AVATAR >
+Смените внешность аватара.
+
+< COM_USERINFO_TAUNTS >
+Выберите насмешки для каждого персонажа чтобы использовать их в игре.
+
+< COM_USERINFO_GALLERY >
+Просмотрите различные илюстрации, видео, музыку и голоса.
+
+< COM_USERINFO_STATS >
+Проверьте статистику ваших игр по сети.
+
+< COM_CAMPAIGN_SELECTSCENARIO >
+Выберите сценарий.
+
+< COM_CAMPAIGN_SELECTSTAGE >
+Выберите эпизод.
+
+< COM_CAMPAIGN_BREAKERPACKONLY >
+Сценарий доступен только для обладателей набора "Breaker"
+
+< COM_CAMPAIGN_WITCHPACKONLY >
+Сценарий доступен только для обладателей набора "Witch".
+
+< COM_CAMPAIGN_TOYSTOREPACKONLY >
+Сценарий доступен только для обладателей набора "Toy Store".
+
+< COM_CAMPAIGN_OLDGUARDIANPACKONLY >
+Сценарий доступен только для обладателей набора "Old Guardian".
+
+< COM_CAMPAIGN_WANDERERPACKONLY >
+Сценарий доступен только для обладателей набора "Wanderer".
+
+< COM_FREEBATTLE_CHOOSEGAMETYPE >
+Выберите режим игры.
+
+< COM_FIELDSELECT >
+Выберите игровое поле.
+
+< COM_RANDOMFIELD_MINIMUMREQUIRED >
+Нужно выбрать минимум 3 игровых поля.
+
+< COM_RANDOMFIELDEVENT_MINIMUMREQUIRED >
+Нужно выбрать минимум 3 события игрового поля.
+
+< COM_DECK_PREPARE >
+Выберите персонажа / подготовьте колоду.
+
+< COM_DECK_NOTPREPARED >
+Вы ещё не готовы.
+
+< COM_DECK_CARDLIMITREACHED >
+Лимит карт этого типа исчерпан.
+
+< COM_DECK_DLCONLYCARD >
+Эта карта доступна только для обладателей DLC.
+
+< COM_DECK_WAITING >
+Ждём других игроков...
+
+< COM_DECK_READY >
+Игра вот-вот начнётся!
+
+< COM_GAME_PAUSED >
+Пауза.
+
+< COM_GAME_QUITCONFIRM >
+Вы точно хотите выйти из игры?
+
+< COM_RESULT_STARSGAINED >
+Звёзды, полученные с этой игры.
+
+< COM_CREATELOBBY_SETOPTIONS >
+Настройте комнату.
+
+< COM_CREATELOBBY_CREATING >
+Создаётся Steam-комната...
+
+< COM_CREATELOBBY_FAILED >
+Не удалось создать Steam-комнату.
+
+< COM_CREATELOBBY_NAMEEMPTY >
+Название комнаты не может быть пустым.
+
+< COM_LOBBYLIST_SELECTLOBBY >
+Выберите комнату. Друзья в Steam отмечены зелёными звёздами.
+
+< COM_LOBBYLIST_JOINLOBBY >
+Войти в выбранную комнату или связаться с её хозяином.
+
+< COM_LOBBYLIST_PASSWORDEMPTY >
+Введите пароль.
+
+< COM_LOBBYLIST_SEARCHEMPTY >
+Введите что-нибудь в поле поиска.
+
+< COM_LOBBYLIST_CONNECTFAILED >
+Не удалось войти в комнату.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOSELECT >
+Нельзя выбрать комнату — данные комнаты не получены.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOCONTACT >
+Нельзя связаться с хозяином комнаты — данные комнаты не получены.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOJOIN >
+Нельзя войти в комнату — данные комнаты не получены.
+
+< COM_LOBBY_WAITINGFORPARTICIPANTS >
+Ждём других участников...
+
+< COM_LOBBY_WAITINGFORPLAYERS >
+Ждём других игроков...
+
+< COM_LOBBY_PLAYERSNOTREADY >
+Нельзя начать игру пока все не будут готовы.
+
+< COM_LOBBY_KICKREADYPLAYER >
+Нельзя выгнать готового игрока.
+
+< COM_LOBBY_KICKNOTREADY >
+Пока что нельзя выгнать этого игрока.
+
+< COM_LOBBY_MIDGAME_JOINED >
+Вы присоединились! В игру вы войдёте со следующей Главы.
+
+< COM_LOBBY_SPECTATOR_WAITINGDECKS >
+Игра началась! Ждём, пока игроки составят колоды...
+
+< COM_SHOP_REACHEDCURRENCYCAP >
+Вы не можете получить больше этой валюты.
+
+< COM_CAMPAIGN_WARUDAPRISONBREAKPACKONLY >
+Эта кампания доступна только владельцам пака Варуда: Побег из тюрьмы.
+
+[EOF]
+

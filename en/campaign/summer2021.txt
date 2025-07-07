@@ -1,0 +1,193 @@
+
+// ========= Scene: Summer 2021 Event Start =========
+
+<9999> This is a story of a summer dream that may or may not have happened.
+
+// (tomomo)
+<0000> Man, nothing better than ice-cold orange juice on a hot summer day!
+
+// (yuki)
+<0001> I know, right? I dig it, too.
+
+// (tomomo)
+<0002> Well, I like hanging out in an air-conditioned room like this, but I kind of want to go to the beach before the summer is over.
+
+// (tomomo)
+<0003> I mean, I would if I could swim...
+
+// (yuki)
+<0004> Huh? You can't swim? Want me to teach you?
+
+// (tomomo)
+<0005> What? You can swim? I thought cats couldn't.
+
+// (yuki)
+<0006> I'm no ordinary cat. There's pretty much nothing a cat like me can't do.
+
+// (tomomo)
+<0007> Teach me! Make me able to swim!
+
+// (yuki)
+<0008> Sure, but you'll owe me an otoro sushi dinner.
+
+// (tomomo)
+<0009> Otoro is super expensive! B-but I've got no choice... Fine, whatever you say!
+
+// (yuki)
+<0010> Okay, it's a deal.
+
+// (yuki)
+<0011> Alright, why don't we go to the nearby public swimming pool for now?
+
+// (mio)
+<0012> Hehehe, my sweet angel is going to the pool, huh.
+
+// (tomomo&yuki)
+<0013> We're at the pool!
+
+// (yuki)
+<0014> Wait, what's with that big-ass swim ring?
+
+// (tomomo)
+<0015> Well, I'm too afraid to get into the water without it!
+
+// (yuki)
+<0016> What are you, a five-year-old?
+
+// (tomomo)
+<0017> Shut up! I need it, no matter what you say!
+
+// (yuki)
+<0018> *Sigh* Oh well, I guess we should start off by getting you used to the water, then.
+
+// (tomomo)
+<0019> Oh, look, isn't that Kai over there?
+
+// (yuki)
+<0020> Oh, yeah. Looks like he's on his own.
+
+// (tomomo)
+<0021> Hehehe, what a sad boy. I'm sure he'll be pleased if a kind and cute girl like me says hi to him.
+
+// (tomomo)
+<0022> Hey, Kaaai!
+
+// (kai)
+<0023> Huh? Oh, it's just you guys.
+
+// (tomomo)
+<0024> Didn't your mom teach you how to greet people? Anyway, you want to join us? I'm just going to practice swimming, though.
+
+// (kai)
+<0025> I'm having fun swimming by myself here. Leave me alone.
+
+// (yuki)
+<0026> Tomomo, stop wasting time on that jerk. We should go someplace else and get started.
+
+// (mio)
+<0027> Tomomooo ♥
+
+// (tomomo)
+<0028> Oh my god, Mio!? What the heck are you here for?
+
+// (mio)
+<0029> To play with you, of course ♥ What else?
+
+// (tomomo)
+<0030> I'm here to learn how to swim! Not to play!
+
+// (mio)
+<0031> Then, let mama help you with that. There!
+
+// (tomomo)
+<0032> Stop saying you're my mama! Huh, what the, my swim ring...!
+
+// (yuki)
+<0033> Other people's swim rings and beach balls are rising into the air, too... and they're combining into one!
+
+// (mio)
+<0034> Ta-da. You can practice as much as you want with this big boy here.
+
+// (tomomo)
+<0035> You idiot! Give my swim ring back! I can't get into the water without it!
+
+// (tomomo)
+<0036> I mean, another gigantic monster? Can't you do something better than those!
+
+// (mio)
+<0037> Such hurtful words. Well, maybe you'll get your stuff back if you beat him.
+
+// (tomomo)
+<0038> Dang it! Fine, I'll get it back no matter what it takes! Yuki, Kai, you guys help me!
+
+// (yuki)
+<0039> This is going to be fun.
+
+// (kai)
+<0040> Huh? Why me?
+
+// (tomomo)
+<0041> Just shut up and help me!
+
+// (kai)
+<0042> Yes, ma'am...
+
+// (mio)
+<0043> Good luck ♥
+
+// ========= Scene: Summer 2021 Event Ending =========
+
+// (tomomo)
+<0044> Alright! We beat the monster! And I got my swim ring back!
+
+// (yuki)
+<0045> He wasn't as strong as he looked.
+
+// (kai)
+<0046> What did I do to deserve this...
+
+// (mio)
+<0047> How was it, Tomomo? Did you have fun?
+
+// (tomomo)
+<0048> No way! I could've learned how to swim by now if it weren't for you!
+
+// (yuki)
+<0049> Didn't you realize, Tomomo?
+
+// (kai)
+<0050> You were swimming when we were fighting that monster.
+
+// (tomomo)
+<0051> Really?! I was way too focused to notice...
+
+// (mio)
+<0052> I told you I'd help you ♥
+
+// (tomomo)
+<0053> Mio, you actually are a goo-...
+
+// (mio)
+<0054> That said, you don't need that swim ring anymore, right?
+
+// (tomomo)
+<0055> Huh, I guess not...
+
+// (mio)
+<0056> To celebrate your growth, I'll create a stronger monster for you to swim with!
+
+// (tomomo)
+<0057> What, wait, what?
+
+// (kai)
+<0058> What the heck is she saying...?
+
+// (yuki)
+<0059> I didn't see that coming. That girl never gets boring.
+
+// (mio)
+<0060> And it's done. Now you can swim with him to your heart's content, Tomomo ♥
+
+// (tomomo)
+<0061> That's why no one wants to be friends with you!
+

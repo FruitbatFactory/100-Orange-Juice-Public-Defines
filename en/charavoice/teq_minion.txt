@@ -1,0 +1,34 @@
+
+<0000> Aye aye sir!
+<0001> Here we go!
+<0002> There's game!
+<0003> Come fight us!
+<0004> We'll make you proud, Capt'n!
+<0005> Bring it on!
+<0006> Challenge accepted!
+<0007> That's what I'm talkin' about!
+<0008> The prey finds its hunter!
+<0009> Eeeey!
+<0010> Shaah!
+<0011> Kieeey!
+<0012> Deeey!
+<0013> Whoa!
+<0014> Gyah!
+<0015> Guwah!
+<0016> Guoh!
+<0017> That bloody hurrrrts!
+<0018> Agyaah!
+<0019> Hieeeh!
+<0020> Gyoooh!
+<0021> Ye missed!
+<0022> That was close!
+<0023> Whoa, whoa!
+<0024> Hieeh!
+<0025> I did it, Capt'n!
+<0026> We got some booty, Capt'n!
+<0027> Hyahoy!
+<0028> Yo ho ho!
+<0029> Capt'n...
+<0030> My bad... Capt'n...
+<0031> I messed up!
+<0032> Oh... God...

@@ -1,0 +1,294 @@
+< PET_BARREL >
+name=レッドバレル
+descr=飛び立つ準備は万全！
+
+< PET_CAT >
+name=ネコ
+descr=ドヤ感を身にまとう\n神出鬼没の生き物
+
+
+< PET_CHICKEN >
+name=ニワトリ
+descr=回避に積極的
+
+
+< PET_FRUITBAT >
+name=フルーツバット
+descr=オレンジが大好きなコウモリ
+
+
+< PET_GHOST >
+name=オバケ
+descr=ねぇ、\nその後ろにいるのって…
+
+
+< PET_LEO >
+name=レオ
+descr=闇の獣が再び踊りだす
+
+
+< PET_NAVI >
+name=ナビ
+descr=どういう生き物なのか\n詳細は不明
+
+< PET_PLANT >
+name=プラント
+descr=餌をやる時は\n手を噛まれないように注意
+
+
+< PET_RABBITPLUSH >
+name=ウサギのぬいぐるみ
+descr=このぬいぐるみは\n呪われている…かも
+
+
+< PET_RACCOON >
+name=タヌキ
+descr=タヌキ？ イヌ？\n化けたりするの？
+
+
+< PET_RBIT >
+name=ウサビット
+descr=フォーメーション\nオービット！
+
+
+< PET_REDBLUE >
+name=アカ＆アオ
+descr=ホワイトクリスマッシャー！
+
+
+< PET_ROBOBALL >
+name=ロボボール
+descr=ロボットへの憧れは\n誰しも持っているはず
+
+
+< PET_SB_BOMB >
+name=SBボム
+descr=決して落とさないでください
+
+
+< PET_SEAGULL >
+name=カモメ
+descr=好きな数字は7
+
+< PET_SEARCHLIGHT >
+name=サーチライト
+descr=誰かを探してるようです
+
+
+< PET_SHIBE >
+name=シバイヌ
+descr=忠実さが過ぎることも
+
+< PET_SNOWBUNNY >
+name=ユキウサギ
+descr=暑いところは苦手
+
+
+< PET_THINKBUBBLE >
+name=フキダシ
+descr=いま何考えてる？
+
+< PET_EVENT_REIN >
+name=トナちゃん
+descr=アルの頼れる相棒\n1年のうち364日はお休み
+
+
+< PET_EVENT_PRESENT >
+name=プレゼント
+descr=心のこもった素敵な贈り物
+
+
+
+< PET_EVENT_PIG>
+name=ブタ
+descr=ブタは本当に\n空を飛べるのだろうか？
+
+< PET_LIZARD >
+name=トカゲ
+descr=地球の中心に\nいるかもしれないし\nいないかもしれない
+
+< PET_DWARF>
+name=ドワーフ
+descr=名に恥じぬ生き方実践中
+
+< PET_PIYO_EGGSHELL>
+name=ピヨ(卵)
+descr=ピヨが先か？ 卵が先か？ 
+
+< PET_PIYO>
+name=ピヨ
+descr=ピヨが先
+
+< PET_TORTOISE>
+name=カメ
+descr=レースとなれば\n最終的にはいつも勝つ
+
+< PET_UFO>
+name=UFO
+descr=狙うは常にレアもの
+
+< PET_SHARK>
+name=サメ
+descr=ポスター向きの良い顎してる
+
+< PET_FROG>
+name=カエル
+descr=雨はそんなに好きじゃない派
+
+< PET_BIT>
+name=ビット
+descr=ちょびっと元気
+
+< PET_SLIME>
+name=スライム
+descr=甘い味がするらしい
+
+< PET_GOLDENEGG >
+name=金の卵
+descr=何度も孵化する特別な卵
+
+< PET_M10EYE >
+name=M10の目
+descr=虚数を見る目…らしい
+
+< PET_STAR >
+name=隠れ上手な星
+descr=他の銀河系出身
+
+
+< PET_AIRSHIP >
+name=飛行船
+descr=航空支援はお任せ
+
+< PET_BUTTERFLY >
+name=チョウチョウ
+descr=町の長ではありません
+
+< PET_CUPCAKE >
+name=カップケーキ
+descr=焼き温度は176℃
+
+< PET_BOSS_HARUO >
+name=ハルオ
+descr=金のハートの持ち主
+
+< PET_BOSS_JONATHAN >
+name=ビッグ・ザ・ジョナサン
+descr=実はそんなに大きくない
+
+< PET_BOSS_M10 >
+name=M10
+descr=M10より生まれし自然数7
+
+< PET_BOSS_ROPOCHI >
+name=ロポチ
+descr=グピポー！
+
+< PET_BOSS_STARDEV >
+name=星を貪る者
+descr=どこにでもワープできちゃう
+
+< PET_OCTOPUS >
+name=タコ
+descr=一度にこなせる作業は8つ
+
+< PET_SEAL >
+name=アザラシ
+descr=アザラシの模様はアザらしい
+
+< PET_SQUID >
+name=イカ
+descr=クラーケンを解き放つ時
+
+< PET_MANDRAKE >
+name=マンドレイク
+descr=根深い問題に対応中
+
+< PET_SUN >
+name=太陽
+descr=降り注ぐ偉大さ
+
+< PET_SEABUNNY >
+name=海のウサギ
+descr=海のサンタ
+
+< PET_ROBOFISH >
+name=ロボフィッシュ
+descr=常に泳ぐようプログラム済み
+
+< PET_WATERMELON >
+name=スイカ
+descr=夏の獣の怒りを鎮められる
+
+< PET_EVENT_POMENARIAN >
+name=ポメラニアン
+descr=ちょっと頭の弱いワンちゃん
+
+< PET_EVENT_PUDDING >
+name=プリン
+descr=宇宙中の犬と魔女に愛される一品
+
+< PET_EVENT_PUFFERFISH >
+name=フグ
+descr=ふらくみに\nプライド持ってます
+
+
+< PET_FUNKYFUNGUS >
+name=ファンキーキノコ
+descr=試練の時を迎えています
+
+< PET_ROBOCRAB >
+name=ロボカニ
+descr=その道のプロ
+
+< PET_PONYCORN >
+name=ポニーコーン
+descr=友情の魔法を拡散中
+
+< PET_WOLLIL>
+name=ウーリィル
+descr=死に至るモフモフ感
+
+< PET_GLOBLET >
+name=マグンマ
+descr=出身地は群馬との説も
+
+< PET_TROLLITE >
+name=トロールライト
+descr=1つだけ怖いものがある
+
+< PET_SPOOKYDOLL >
+name=呪われた人形
+descr=夢に出るほどのかわいさ
+
+< PET_HELISEEDLING >
+name=ヘリシードリング
+descr=風と共に去りぬ
+
+< PET_TERRAWORMER >
+name=テラスネック
+descr=すねーくかわいい
+
+< PET_MINIMOSS >
+name=ミニモス
+descr=心臓は金（きん）で\nできている
+
+< PET_GEMERANGLER >
+name=ジェムモングラー
+descr=隠された宝石
+
+< PET_WUFFSHROOM >
+name=エリンガー
+descr=人類にとって最良のキノコ
+
+< PET_TURNISLIM >
+name=ターニスライメ
+descr=曲がらなくていいとこ\n曲がっちゃいました
+
+< PET_PUNYZARD >
+name=ミニザード	
+descr=耳寄り情報に敏感
+
+< PET_MASHIRO >
+name=まっしろ
+descr=もう不幸じゃない

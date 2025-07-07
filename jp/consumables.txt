@@ -1,0 +1,33 @@
+< CONSUMABLE_HEART_PINK >
+name=ハート(ピンク)
+descr=友達や大切な人に贈ろう！
+
+< CONSUMABLE_HEART_BLACK >
+name=ハート(黒)
+descr=友達や大切な人に贈ろう！
+
+< CONSUMABLE_FIREWORKS_YELLOW >
+name=花火(黄色)
+descr=ゲーム中に打ち上げよう！
+
+< CONSUMABLE_FIREWORKS_RED >
+name=花火(赤)
+descr=ゲーム中に打ち上げよう！
+
+< CONSUMABLE_FIREWORKS_GREEN >
+name=花火(緑)
+descr=ゲーム中に打ち上げよう！
+
+< CONSUMABLE_FIREWORKS_BLUE >
+name=花火(青)
+descr=ゲーム中に打ち上げよう！
+
+< CONSUMABLE_RAINYCLOUD >
+name=雨雲
+descr=ちょっと嫌な気分かも？
+
+< CONSUMABLE_BALLOONS >
+name=風船
+descr=少しの間あなたのお供をしてくれます
+
+

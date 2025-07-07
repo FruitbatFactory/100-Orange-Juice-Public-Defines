@@ -1,0 +1,161 @@
+<0000> There!
+<0001> Ey!
+<0002> Here it goes!
+<0003> Tey!
+<0004> It's card time!
+<0005> I guess I'll use this.
+<0006> I have a card for times like this!
+<0007> This looks like fun! Yaaay!
+<0008> Don't underestimate me...
+<0009> I'm the smartest aviator in the sky.
+<0010> He he he...
+<0011> This will be a fun surprise.
+<0012> This is my secret technique!
+<0013> I just learned this trick the other day!
+<0014> Let's see... I use this here...
+<0015> Mmm... it's time to go all out!
+<0016> Go! Little Magnum!
+<0017> Fue...? It's morning...?
+<0018> Daddy! Is breakfast ready?
+<0019> Today's gonna be a good day!
+<0020> It's GO time!
+<0021> No fun!
+<0022> So boring!
+<0023> This is boring! I wanna do something!
+<0024> I wanna go out!
+<0025> Waaai!
+<0026> Punishment!
+<0027> Justice cannon!
+<0028> Attaaaack!
+<0029> Waah!
+<0030> No!
+<0031> That hurt!
+<0032> Stop that!
+<0033> Nice! You have my thanks!
+<0034> Good, keep on healing me!
+<0035> Fu-fu-fu, this is very good.
+<0036> Fuee... that hit the spot!
+<0037> It's a new destination...!
+<0038> Oooh... What is this?
+<0039> T-that was surprising...
+<0040> I-I feel a bit dizzy...
+<0041> Uu... I don't want to have a nap yet...
+<0042> Nooo... I want to play more!
+<0043> Ueeeeh...
+<0044> Okay okay, I gotta get serious now...
+<0045> I challenge you!
+<0046> I'm the best pilot around! Fight me!
+<0047> Let's play - I mean, train!
+<0048> Hey you! Hand over whatever it is you're holding!
+<0049> You're pretty brave to challenge me...!
+<0050> I accept!
+<0051> O-ho, we have a daring challenger...
+<0052> It's a match!
+<0053> Ready... go!
+<0054> Dodge this if you can!
+<0055> Hahaa!
+<0056> Wa ha ha ha.
+<0057> Uwah...
+<0058> Hey!
+<0059> N-not bad...
+<0060> I'll tell Daddy!
+<0061> Waah! Daddy!!!
+<0062> Ueeh! I won't forgive you...
+<0063> I'm losing altitude!
+<0064> No way! I'm going down!
+<0065> I think it was like this... go! Phew, easy.
+<0066> I did it!
+<0067> Oh...? It wasn't that hard.
+<0068> Mmm... there!
+<0069> E-hem!
+<0070> Fu-fu-fu. I'm just too good at this.
+<0071> I'm simply the best aviator around.
+<0072> How was that, Daddy!
+<0073> I wanna go home now...
+<0074> Waaan, I just got bullied!
+<0075> Daddy, come kick this bully's butt!
+<0076> Waah! Bully!
+<0077> Yaaaay! Shiny!
+<0078> Oooh! It's like I'm flying in the night sky...
+<0079> Oh, what's this on the ground?
+<0080> A treasure!?
+<0081> Did I just drop something? Well, whatever.
+<0082> What?! My pocket money!
+<0083> Hey! Where'd they go?!
+<0084> Not the treasure!
+<0085> Whoever did this is a bully!
+<0086> Geez, this is the worst.
+<0087> Waaah! I hate this!
+<0088> Why would anyone do this!
+<0089> O-ho... Finally a worthy opponent!
+<0090> You don't scare me!
+<0091> What's this? Looks funny!
+<0092> It's big but looks slow... no problem!
+<0093> I wanna do some treasure hunting!
+<0094> I like pretty things.
+<0095> So busy, so busy.
+<0096> Let's see, the first task of the day is...
+<0097> This will be no problem at all.
+<0098> I'm the best, after all.
+<0099> Okay, I'll train hard today!
+<0100> Time to find some easy marks.
+<0101> I'm Mescal. Nice to meetcha.
+<0102> Can you play with me?
+<0103> I feel like playing a board game.
+<0104> Let's have some fun out there!
+<0105> Alright, I'll go all out!
+<0106> I'll win this game, whatever it takes!
+<0107> This field looks like tons of fun!
+<0108> Let's do this!
+<0109> Whee! We won!
+<0110> I'm super happy!
+<0111> We did it!
+<0112> This is only the beginning!
+<0113> This looks cool!
+<0114> O-ho! Treasure!
+<0115> O-ho-ho, this is very very precious...
+<0116> You should treasure this.
+<0117> You there, take over!
+<0118> I wanna do something else for a change of pace...
+<0119> Snack ti- I mean, it's time for a tactical break.
+<0120> You got this!
+<0121> Roger that!
+<0122> Good.
+<0123> Okay~
+<0124> Ehh... no.
+<0125> That's a bummer.
+<0126> Oooh! Good for you!
+<0127> Um.... what?
+<0128> Let's get going!
+<0129> Time to roll!
+<0130> Go go go!
+<0131> Wassup!
+<0132> Oh...? Um...
+<0133> Cool!
+<0134> Whoa! 
+<0135> What the heck? What the heck!
+<0136> This is my bounty! I can do what I want with it!
+<0137> Finders keepers!
+<0138> Okay, okay~ I know what I'm doing.
+<0139> Secret weapon, go!
+<0140> Hey, thanks!
+<0141> Hey, sis! Whatcha doing?
+<0142> Heeyyy, sis! You look bored! Let's play!
+<0143> I'm getting better, aren't I?
+<0144> Waaaah! She keeps bullying me!
+<0145> Daaaaddyy! Stop hanging about and go back to the farm!
+<0146> Daddy, what are you doing here? You should be working on the farm.
+<0147> You do the dishes today!
+<0148> Stupid Daddy! You should go work on the farm!
+<0149> Hey! It's time for your training!
+<0150> What, you need more training? Guess it can't be helped...
+<0151> Wa ha ha, train another few years and maybe you can beat me!
+<0152> This one didn't count! Another one, another one!
+<0153> New Mescal Pirates, go!
+<0154> Are you the big bad boss Daddy told me about?
+<0155> That's a great whale! You have good taste!
+<0156> That's a cool ride! It's mine now!
+<0157> Hey guys, I don't need your help!
+<0158> Hey! I could've taken care of this on my own!
+<0159> Oh? Thanks! I'll patch you up later.
+<0160> You guys had better not lose, you hear!

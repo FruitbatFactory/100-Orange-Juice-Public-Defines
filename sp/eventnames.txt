@@ -1,0 +1,40 @@
+< EVENTNAME_MINIONS_OF_THE_MASTER >
+Secuaces de la maestra
+
+< EVENTNAME_MASTER_OF_THE_MINIONS >
+Maestra de los secuaces
+
+< EVENTNAME_BOUNTY_HUNTERS >
+Caza-recompensas
+
+< EVENTNAME_MASTER_ANGLERS >
+Pescadoras profesionales
+
+< EVENTNAME_BEACH_PARTY >
+Fiesta veraniega
+
+< EVENTNAME_SHROOM_ZOOM >
+Hongo bongo
+
+< EVENTNAME_BOUNTY_HUNGERS >
+Caza-delicadezas
+
+< EVENTNAME_POOL_PARTY >
+Fiesta en la piscina
+
+< EVENTNAME_SCHOOL_CRASHERS >
+Rompe-escuelas
+
+< EVENTNAME_CHAOS_MODE >
+Modos Caóticos
+
+< EVENTNAME_WINTER2023 >
+Reparadores de Memorias
+
+< EVENTNAME_S3_TAGTEAM_MODE >
+Crisis Extracurricular
+
+< EVENTNAME_POPPO >
+Poppo-evento
+
+[EOF]

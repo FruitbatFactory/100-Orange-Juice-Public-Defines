@@ -1,0 +1,161 @@
+
+<0000> Hah!
+<0001> There!
+<0002> Ey!
+<0003> Yah!
+<0004> I'll play this!
+<0005> It's time to use this.
+<0006> Starting now...!
+<0007> With this...
+<0008> Trap!
+<0009> I guess I'll bury this around here.
+<0010> Trap card!
+<0011> Let's see which one of the idiots will fall for it.
+<0012> I'll show you all how flawless my strategies are!
+<0013> Well, I wonder... how more powerful will I get?
+<0014> How about you dance to my fists?
+<0015> As they say, better safe than sorry.
+<0016> Here we go, bits!
+<0017> I can't be lying down forever.
+<0018> Fufufu! I'm back!
+<0019> All right then, it's revenge time.
+<0020> Enough resting.
+<0021> Tsk, I screwed up...
+<0022> I guess I'll rest for a bit longer.
+<0023> Ahh damn it!
+<0024> Why?!
+<0025> Let's get ourselves ready!
+<0026> Go, bits!
+<0027> I'm shooting you down!
+<0028> You can go ahead and sink!
+<0029> Ugh!
+<0030> That hurts!
+<0031> Damn!
+<0032> Knock it off!
+<0033> I'm being healed...
+<0034> Now I can keep going.
+<0035> I like this.
+<0036> It's warm.
+<0037> Where will I end up?
+<0038> Treat me with more care, will you?!
+<0039> I'm flying!
+<0040> What's going on?!
+<0041> I think I need some rest...
+<0042> Ugh... I can't move...
+<0043> I'll go lie down for a bit...
+<0044> Ahh, geez, I hate this...
+<0045> Now, are you ready for this?
+<0046> Bits, it's time to fight, okay?
+<0047> The fun begins here!
+<0048> You're just asking to be attacked!
+<0049> Challenge accepted! Bring it on!
+<0050> You wanna fight me? What are you, an idiot?
+<0051> Fufufu, you'll regret this!
+<0052> Tsk, that's annoying!
+<0053> Attack!
+<0054> Shoot!
+<0055> Can you dodge this?
+<0056> In formation!
+<0057> That grazed me...!
+<0058> Not as much damage as I thought!
+<0059> I screwed up dodging...!
+<0060> Argh!
+<0061> That hurt!
+<0062> Ugh, can you guys still go on?!
+<0063> Kyaah!
+<0064> This isn't good!
+<0065> No way it'll hit me!
+<0066> That's a terrible move!
+<0067> You missed!
+<0068> Where were you aiming for?
+<0069> This is only natural.
+<0070> You're boring.
+<0071> Is that all you've got?
+<0072> Are you done already?
+<0073> Ugh, you're good.
+<0074> This can't be happening to me...
+<0075> Kuuu!
+<0076> I'll make you pay for this later, mark my words!
+<0077> Feels good.
+<0078> I'll gratefully accept these.
+<0079> Come and let me have you all!
+<0080> Fufufu... more, much more!
+<0081> Hey, where do you think you're going?!
+<0082> My stars...!! Ugh!
+<0083> Aargh, damn!
+<0084> I messed up...
+<0085> What, a trap?!
+<0086> This is not acceptable!
+<0087> I can't believe there's a trap here!
+<0088> Aargh, screw it all, why is there a trap here?!
+<0089> Something huge is here.
+<0090> Oh boy... I'd better get ready for whatever just showed up.
+<0091> Hmph, I don't like this vibe.
+<0092> Here comes the real thing.
+<0093> I think I'll choose stars.
+<0094> I'll gather stars.
+<0095> I'm going to go for stars, of course.
+<0096> I'm supposed to get a lot of stars, right?
+<0097> I choose to fight.
+<0098> I'll fight and win.
+<0099> I'm going to get a whole load of wins.
+<0100> Victory's a piece of cake for me.
+<0101> I'm Nanako, what's up?
+<0102> Looks like you need my help.
+<0103> Okay, I'll go out there with you.
+<0104> All right... let's go.
+<0105> We will be the winners.
+<0106> Well, how should we do this?
+<0107> The bits are in great shape too. Let's get this started.
+<0108> And so the game begins.
+<0109> Well, this is hardly surprising, is it?
+<0110> I win... Well, I guess I deserve this.
+<0111> Being in the first place feels pretty good.
+<0112> Okay then, I think I'll go get something good to eat.
+<0113> It's a new item.
+<0114> We're stronger now.
+<0115> That's good to have.
+<0116> Fufu, you're in luck.
+<0117> It's your turn to go.
+<0118> Work hard out there, okay?
+<0119> You got this.
+<0120> Time to switch.
+<0121> Okay.
+<0122> That's good.
+<0123> Yeah.
+<0124> No.
+<0125> That's not good.
+<0126> You're lucky.
+<0127> Hm?
+<0128> Now, let's go.
+<0129> I'm throwing the dice.
+<0130> Off I go.
+<0131> Hi.
+<0132> Hmm.
+<0133> Good work.
+<0134> That's fascinating.
+<0135> Damn, what was that about?
+<0136> I'll use this.
+<0137> So this is that power in my hands...
+<0138> I can get the most out of this.
+<0139> Now, let's see how this'll turn out!
+<0140> Kae, it's play time!
+<0141> You want play together? Fine, bring it on.
+<0142> It was fun. We should do this again sometime.
+<0143> Fufu, you're very good.
+<0144> Is that you, Kyoko...? No, who the hell are you?
+<0145> I really want to smash him down, but at the same time I don't...
+<0146> Stay away from me, will you?
+<0147> Do I feel good about this or not... What's wrong with me!
+<0148> Ugh... Defeated by a man with that face...
+<0149> Fufu, look how miserable you are!
+<0150> Actually, I rather like dogs.
+<0151> Hey, still thinking?
+<0152> Make it quick.
+<0153> What's taking so damn long?!
+<0154> *Sigh* I don't mind waiting, but I hope you'll get it together.
+<0155> Bits, full power assault!
+<0156> I think I'm done warming up now!
+<0157> Oh, there's a tiny kitty cat... No, is that actually a human?
+<0158> Oh, there's a tiny... What is this thing?
+<0159> Maybe I shouldn't have destroyed it?

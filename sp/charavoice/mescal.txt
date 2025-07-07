@@ -1,0 +1,161 @@
+<0000> ¡Ahí!
+<0001> ¡Ey!
+<0002> ¡Aquí va!
+<0003> ¡Tey!
+<0004> ¡Hora de usar una carta!
+<0005> Supongo que usaré esto.
+<0006> ¡Siempre tengo una carta lista para momentos como este!
+<0007> ¡Esto se ve divertido! ¡Yaaay!
+<0008> No deberías subestimarme...
+<0009> Soy la aviadora más lista de todos los cielos.
+<0010> Je je je...
+<0011> Esta será una sorpresa divertida.
+<0012> ¡Esta es mi técnica secreta!
+<0013> ¡Aprendí a usar este truco el otro día!
+<0014> Veamos... usaré esto aquí...
+<0015> Mmm... ¡Es la hora de darlo todo!
+<0016> ¡Ve! ¡Magno Pequeño!
+<0017> ¿Fueh...? ¿Ya es mañana...?
+<0018> ¡Papi! ¿Has preparado el desayuno?
+<0019> ¡Hoy será un buen día!
+<0020> ¡Hora de LA acción!
+<0021> ¡Eso no es divertido!
+<0022> ¡Qué aburrido!
+<0023> ¡Esto es aburrido! ¡Quiero hacer algo!
+<0024> ¡Quiero darlo todo!
+<0025> ¡Waaai!
+<0026> ¡Castigo!
+<0027> ¡Cañon justiciero!
+<0028> ¡Ataaqueeee!
+<0029> ¡Waah!
+<0030> ¡No!
+<0031> ¡Eso duele!
+<0032> ¡Ya basta!
+<0033> ¡Bien! ¡Tienes mi gratitud!
+<0034> ¡Bien, continúa con tu curación!
+<0035> Fu-fu-fu, esto es muy bueno.
+<0036> Fueeh... ¡Eso sí que ayuda!
+<0037> ¡Es una nueva destinación...!
+<0038> Oooh... ¿Qué es esto?
+<0039> E-eso fue sorprendente...
+<0040> M-me siento un poco mareada...
+<0041> Uu... No es la hora de una siesta aún...
+<0042> Nooo... ¡Quiero seguir jugando!
+<0043> Ueeeeh...
+<0044> Ya, ya, debería tomar esto en serio...
+<0045> ¡Yo te desafiaré!
+<0046> ¡Soy la mejor piloto de todos los cielos! ¡Pruébame!
+<0047> Vamos a juga- es decir... ¡Vamos a entrenar!
+<0048> ¡Eh, tú! ¡Suelta eso que llevas contigo!
+<0049> ¡Eres valiente, desafiándome de esa manera...!
+<0050> ¡Acepto!
+<0051> O-jo, tenemos a un contrincante muy atrevido...
+<0052> ¡Es un duelo!
+<0053> Listos... ¡Ya!
+<0054> ¡Esquiva esto si es que puedes!
+<0055> ¡Jajaa!
+<0056> Wa ja ja ja.
+<0057> Uwah...
+<0058> ¡Eh!
+<0059> N-no está mal...
+<0060> ¡Te acusaré con mi papi!
+<0061> ¡Waah! ¡¡¡Papi!!!
+<0062> ¡Ueeh! No te perdonaré...
+<0063> ¡Estoy perdiendo altitud!
+<0064> ¡No puede ser! ¡Estoy cayendo!
+<0065> Creo que esto se hacía... ¡Así! Vaya, eso fue fácil.
+<0066> ¡Lo hice!
+<0067> ¿Oh...? Eso no ha sido tan difícil.
+<0068> Mmm... ¡Ahí!
+<0069> ¡E-jem!
+<0070> Fu-fu-fu. Soy demasiado buena en esto.
+<0071> Simplemente soy la mejor aviadora de todos los tiempos.
+<0072> ¡Cómo estuvo eso, papi!
+<0073> Quiero volver a casa...
+<0074> ¡Waaan, me han acosado!
+<0075> ¡Papi, ven a patear el trasero de este acosador!
+<0076> ¡Waah! ¡Abusivo!
+<0077> ¡Yaaaay! ¡Brilla!
+<0078> ¡Oooh! Siento que estoy volando en una noche estrellada...
+<0079> Oh, ¿qué es esto en el suelo?
+<0080> ¿¡Un tesoro!?
+<0081> ¿Acaso se me ha caído algo? Bueno, no importa.
+<0082> ¡¿Qué?! ¡El dinero de mi bolsillo!
+<0083> ¡Eh! ¡¿A dónde se han ido?!
+<0084> ¡El tesoro no!
+<0085> ¡Quién haya hecho esto es un abusivo!
+<0086> Cielos, esto es lo peor.
+<0087> ¡Waaah! ¡Odio esto!
+<0088> ¿¡Por qué alguien haría esto!?
+<0089> O-jo... ¡Finalmente ha llegado un oponente digno!
+<0090> ¡No te temo!
+<0091> ¿Qué es esto? ¡Se ve gracioso!
+<0092> Se ve grande pero lento... ¡No hay problema!
+<0093> ¡Quiero ir en busca de un tesoro!
+<0094> Me gustan las cosas bonitas.
+<0095> Muy ocupada, muy ocupada.
+<0096> Veamos, la primera tarea del día es...
+<0097> Esto no será ningún problema.
+<0098> Después de todo, soy la mejor.
+<0099> ¡Muy bien! ¡Hoy entrenaré mucho más!
+<0100> Hora de encontrar unos blancos fáciles.
+<0101> Soy Mescal. Gusto en conocerte.
+<0102> ¿Quieres jugar?
+<0103> Quiero jugar a un juego de mesa.
+<0104> ¡Vamos a divertirnos ahí afuera!
+<0105> ¡Muy bien, hora de darlo todo!
+<0106> ¡Seré la ganadora, cueste lo que cueste!
+<0107> ¡Este campo de juego se ve muy divertido!
+<0108> ¡Hagámoslo!
+<0109> ¡Síii! ¡Somos los ganadores!
+<0110> ¡Estoy muy feliz!
+<0111> ¡Lo hicimos!
+<0112> ¡Esto es sólo el comienzo!
+<0113> ¡Se ve bien!
+<0114> ¡O-jo! ¡Un tesoro!
+<0115> O-jo-jo, esto es muy, muy precioso...
+<0116> Deberías atesorar esto.
+<0117> ¡Oye tú, toma mi lugar!
+<0118> Quiero hacer algo diferente esta vez...
+<0119> Hora de come-- es decir, hora de un escape estratégico.
+<0120> ¡Tú puedes hacerlo!
+<0121> ¡Comprendido!
+<0122> Bien.
+<0123> Está bien~
+<0124> Ehh... no.
+<0125> Eso es una lástima.
+<0126> ¡Oooh! ¡Bien por ti!
+<0127> Uh.... ¿Qué?
+<0128> ¡Hora de irnos!
+<0129> ¡A rodar
+<0130> ¡Ve ve ve!
+<0131> ¡Qué onda!
+<0132> ¿Oh...? Uh...
+<0133> ¡Genial!
+<0134> ¡Vaya! 
+<0135> ¿Qué rayos...? ¡Qué rayos!
+<0136> ¡Esta es mi recompensa, y puedo hacer lo que quiera con ella!
+<0137> ¡El que se lo encuentra se lo queda!
+<0138> Bien, bien~ Sé lo que debo hacer.
+<0139> ¡Arma secreta, ve!
+<0140> ¡Eh, gracias!
+<0141> ¡Hola, hermanita! ¿Qué es lo que haces?
+<0142> ¡Hooolaaa, hermanita! ¡Te ves aburrida! ¡Vamos a jugar!
+<0143> Estoy mejorando, ¿no lo crees?
+<0144> ¡Waaaah! ¡Ella no para de acosarme!
+<0145> ¡Paaaapiiiii! ¡Deja de holgazanear y vuelve a la granja!
+<0146> Papi, ¿por qué estás aquí? Deberías estar trabajando en la granja.
+<0147> ¡Tú te encargarás del lavado de platos!
+<0148> ¡Papi estúpido! ¡Deberías estar trabajando en la granja!
+<0149> ¡Es la hora de tu entrenamiento!
+<0150> ¿Qué? ¿Necesitas entrenar más? Supongo que no puede ser evitado...
+<0151> Wa ja ja, ¡solo después de entrenar unos años más podrás derrotarme!
+<0152> ¡Eso no vale! ¡Otra vez, otra vez!
+<0153> ¡Nuevos piratas de Mescal, vayan!
+<0154> ¿Acaso eres tú el gran jefe malévolo del que mi papi me ha hablado?
+<0155> ¡Esa es una gran ballena! ¡Tienes buen gusto!
+<0156> ¡Ese es un carro genial! ¡Pero ahora es mío!
+<0157> ¡No necesito de sus ayudas!
+<0158> ¡Eh! ¡Podría haberme encargado de eso yo misma!
+<0159> ¿Oh? ¡Gracias! Te curaré más tarde.
+<0160> ¡Será mejor que no sean los perdedores, entienden!

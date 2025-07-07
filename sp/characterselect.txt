@@ -1,0 +1,17 @@
+
+< CHARACTERSELECT_QP >
+Un perro tonto. Hará lo que sea por el bien del pudín.\nEl todoterreno perfecto que se ajusta a cualquier situación.\nDificultad: Media.
+
+< CHARACTERSELECT_SUGURI >
+Una chica con más de diez mil años de edad. Súper veloz.\nUn personaje a todo o nada que depende de su alta evasión para sobrevivir.\nDificultad: Experta.
+
+< CHARACTERSELECT_MARC >
+Un piloto al cual le encanta volar por los cielos.\nBuen ataque y defensa. Puede causar daño directo con su carta personal.\nDificultad: Media.
+
+< CHARACTERSELECT_KAI >
+Un chico cualquiera que perdió su billetera.\nUn personaje combativo de buen balance.\nDificultad: Fácil.
+
+< CHARACTERSELECT_DLC >
+Nota: Podrá jugar como un personaje perteneciente a un DLC\nsi este mismo está registrado en su cuenta de Steam.
+
+[EOF]

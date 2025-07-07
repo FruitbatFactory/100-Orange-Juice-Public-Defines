@@ -1,0 +1,160 @@
+<0000> ¡Déjame hacer esto!
+<0001> ¡Ahí!
+<0002> ¡Yah!
+<0003> ¡Toryah!
+<0004> ¡Usaré esta carta!
+<0005> ¡Es la hora de usar esto!
+<0006> ¡Tomen esto! ¡Despejaré el camino!
+<0007> Parece que debo usar esto.
+<0008> Kufufu, amo usar estas cosas.
+<0009> Dejaré una trampa aquí.
+<0010> ¿Quién caerá por esto, me pregunto?
+<0011> La especialidad de los Waruda: ¡Trampas brutales!
+<0012> ¡Carta de batalla!
+<0013> Creo que debo usar esto.
+<0014> ¡Tomato se hará invencible con esto!
+<0015> ¡Esta es mi estrategia!
+<0016> ¡Máquina Waruda, dispara!
+<0017> ¡Cómo se atreven a burlarse de Mimyuu!
+<0018> Bien hecho, Mimyuu. Yo lo tomaré desde aquí.
+<0019> Mimyuu, te daré una recompensa por tus esfuerzos.
+<0020> ¡Los enemigos de Mimyuu son mis enemigos!
+<0021> Ugh...
+<0022> Demonios...
+<0023> Mimyuu...
+<0024> ¡¿Metí la pata al intentar regresar...?!
+<0025> ¡Ataque Waruda!
+<0026> ¡Te derribaré!
+<0027> ¡Kufufu!
+<0028> ¡Tooryaaah!
+<0029> ¡Eso duele!
+<0030> ¡¿Qué rayos estás haciendo?!
+<0031> ¡Kuu!
+<0032> ¡Uwah!
+<0033> ¡Eso ayuda mucho!
+<0034> ¡Ese fue un buen descanso!
+<0035> ¡Kufuu, fui salvada!
+<0036> ¡Me siento mucho mejor ahora!
+<0037> ¡Una teletransportación!
+<0038> ¡Guwaah, estoy siendo secuestrada!
+<0039> ¡¿A dónde voy?!
+<0040> ¡Mi estómago se siente raro!
+<0041> D-demonios...
+<0042> G-gloria a los Waruda...
+<0043> Aún si soy noqueada, Mimyuu va a...
+<0044> Mimyuu, tú puedes hacerlo... *colapso*
+<0045> ¡Es la hora de la batalla!
+<0046> ¡Admira mi increíble tecnología!
+<0047> ¡Fufufu! ¡Te golpearé hasta cansarme!
+<0048> ¡Si deseas disculparte, entonces ahora es el momento!
+<0049> ¡Muy bien, desafío aceptado!
+<0050> ¡Kufufu, adelante!
+<0051> ¡¿Un enemigo?!
+<0052> ¡Qué osadía!
+<0053> ¡Toryah!
+<0054> ¡Toma esto!
+<0055> ¡Imbécil!
+<0056> ¡Bang!
+<0057> ¡Ouch!
+<0058> ¡Basta ya!
+<0059> ¡¿Qué demonios estás haciendo?!
+<0060> ¡Gyan!
+<0061> ¡Cómo te atreves! ¡Voy a llorar!
+<0062> ¡¿Qué demonios piensas que estás haciendo?!
+<0063> ¡Eso dueleeee!
+<0064> ¡Bieee!
+<0065> ¿Acaso me estabas apuntando a mí?
+<0066> ¡Fallaste!
+<0067> ¡Apestas!
+<0068> ¡Idiota!
+<0069> ¡Muy bien, lo hice!
+<0070> ¡Sí, gané!
+<0071> Lo hicimos, Mimyuu.
+<0072> ¡Bien, siguiente!
+<0073> Rayos... no es mi día...
+<0074> ¿Cómo puede ser que alguien así me haya derrotado?
+<0075> ¡Maldita sea!
+<0076> ¡Estoy tan enojada conmigo!
+<0077> ¡Estas estrellas son mías!
+<0078> ¡Me llevaré estas!
+<0079> ¡Me encanta tenerlas!
+<0080> Le compraré unos bocadillos a Mimyuu con estas.
+<0081> ¡Nuoo! ¡Mis estrellas!
+<0082> ¡Esperen! ¡No se vayan!
+<0083> ¡Vamos, no pueden desaparecer así como así!
+<0084> Las estrellas me están dejando...
+<0085> ¡Guwah, es una trampa!
+<0086> ¡Qué trampa tan sigilosa!
+<0087> ¡Gee! ¡¿Por qué dejarían algo como esto aquí?!
+<0088> No suelo caer en trampas como estas...
+<0089> Algo muy temible acaba de aparecer.
+<0090> ¿Qué es eso? Es grande y aterrador.
+<0091> Mimyuu, tú te alejarás de esa cosa, ¿entendido...?
+<0092> Eso se ve como un gran problema... Ugh.
+<0093> ¿Conseguir estrellas? ¡Lo tengo!
+<0094> ¡Todas las estrellas en el mundo le pertenecerán a los Waruda!
+<0095> ¡Kufufu, conseguiré miles de estrellas y compraré miles de caramelos!
+<0096> ¿Quieres ir por estrellas junto a mí, Mimyuu? ¡Entonces hagámoslo!
+<0097> ¡No eres un miembro de los Waruda si te rehúsas a pelear!
+<0098> ¡Mimyuu y yo iremos a destrozarlo todo! 
+<0099> ¡Mantén los ojos abiertos por mi maquina Waruda!
+<0100> ¡Los aplastaré a todos!
+<0101> ¡Soy Tomato! ¡Mimyuu también está aquí!
+<0102> ¡Somos los Waruda!
+<0103> ¡Mimyuu, vamos a jugar!
+<0104> ¡Estamos listas para traer el orden al caos!
+<0105> ¡Mimyuu, hagámoslo!
+<0106> ¡Vamos, Mimyuu! ¡Le demostraremos al mundo lo geniales que son los Waruda!
+<0107> ¡Vamos a jugar hasta cansarnos, Mimyuu!
+<0108> ¡Qué comience el juego!
+<0109> ¡Ganamos!
+<0110> ¡Mimyuu, haremos una fiesta de caramelos para celebrar!
+<0111> ¡Este es el poder de los Waruda! ¡Fufufu!
+<0112> ¡Mimyuu, somos el dúo más fuerte de todos!
+<0113> Oh, parece que eso será útil.
+<0114> Fufufu, me pregunto qué clase de broma podremos jugar con eso.
+<0115> ¡Bien, es algo nuevo!
+<0116> ¡Deberíamos ir a probar esto ahora!
+<0117> ¡Cámbia conmigo!
+<0118> ¡Cambio!
+<0119> ¡Creo en ti!
+<0120> ¡Vamos a cambiar de lugar!
+<0121> Okay.
+<0122> Bueno.
+<0123> Bien.
+<0124> Nop.
+<0125> Hmm.
+<0126> Tuviste suerte.
+<0127> ¿Eh?
+<0128> Aquí vamos.
+<0129> ¡Tirar los dados!
+<0130> ¡Ve!
+<0131> ¡Yo!
+<0132> Mhm...
+<0133> Genial.
+<0134> ¡Fantástico!
+<0135> ¡Pero qué rayos!
+<0136> ¡Haré que los poderes de alguien más sean míos!
+<0137> ¡Wow! ¡Esto no es mío, pero lo usaré de todos modos!
+<0138> ¡Estoy desesperada por saber cuál es el beneficio de esta carta!
+<0139> ¡Puedo manejar el poder de mis oponentes!
+<0140> Mimyuu, estoy aquí para jugar contigo.
+<0141> ¿Qué, Mimyuu? Estoy ocupada.
+<0142> Estoy orgullosa de ti, Mimyuu. Eres cada vez más fuerte.
+<0143> ¿Fue divertido, Mimyuu?
+<0144> ¡El artilugio de Mimyuu acaba de dispararse!
+<0145> Sobrestimaste a Mimyuu por ser pequeña, ¿no?
+<0146> Jeh, me gusta saber que estás de mi lado... Mimyuu.
+<0147> ¡Ahora, Mimyuu!
+<0148> ¡Jefa, quiero jugar contigo!
+<0149> ¡¿Jefa...?! ¿Nos pondrás a prueba?
+<0150> Vencimos a nuestra jefa...
+<0151> La jefa es fuerte...
+<0152> ¡Puedo ver que es un tipo malo!
+<0153> ¡Vaya, se ve aterrador!
+<0154> Se veía aterrador, pero era sólo su aspecto.
+<0155> Así que en verdad era un tipo malo...
+<0156> ¡Siento mucha pena por esos pingüinos!
+<0157> Tú... ¡Tú eres la que siempre está maltratando a esos pingüinos!
+<0158> Ahora has aprendido una lección. ¡Nada de abusos!
+<0159> Demonios... lo siento, pingüinos...

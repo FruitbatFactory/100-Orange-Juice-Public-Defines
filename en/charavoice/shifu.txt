@@ -1,0 +1,161 @@
+<0000> Hmph.
+<0001> There.
+<0002> Yo.
+<0003> *Sigh*
+<0004> I've got many options to choose from.
+<0005> Don't bother me, okay?
+<0006> How would you like this one?
+<0007> No reason to hold onto this.
+<0008> I'm setting this here.
+<0009> Here's a trap.
+<0010> I suppose I'll put this down here too.
+<0011> Baby steps.
+<0012> I suppose I'll play this card now.
+<0013> Did you expect me to fight unarmed?
+<0014> Bring it on. I have this with me.
+<0015> I'll destroy you.
+<0016> I'll show you my secret weapon.
+<0017> Don't you guys ever think I'll let myself be beaten again.
+<0018> It's payback time.
+<0019> Damn it, I'm not done for yet.
+<0020> I can go on.
+<0021> Why fail?
+<0022> Something's wrong with me.
+<0023> You've got to be kidding me.
+<0024> No way.
+<0025> Here.
+<0026> Ora.
+<0027> Hmph.
+<0028> How's this?
+<0029> That hurt.
+<0030> What's your deal?
+<0031> Damn it...
+<0032> Aaaargh!
+<0033> Gotta heal now.
+<0034> I have to calm down.
+<0035> Alright, I'm good to go.
+<0036> I feel better now.
+<0037> Forced teleportation?
+<0038> Who said you could teleport me?
+<0039> What's happening?
+<0040> Guh.
+<0041> Crap.
+<0042> I screwed up.
+<0043> Damn it.
+<0044> Oh man.
+<0045> Now, here I come.
+<0046> Now's my chance.
+<0047> I'll strike you now.
+<0048> Say your prayers.
+<0049> You're going to regret challenging me.
+<0050> What a pain in the butt.
+<0051> Moron.
+<0052> You annoy me.
+<0053> Drop dead already, will ya?
+<0054> You're going down with this.
+<0055> Orah.
+<0056> I'll crush you!
+<0057> Ugh.
+<0058> That freaking hurt!
+<0059> Tsk.
+<0060> Get the hell out of my way.
+<0061> What the?
+<0062> Aaaaaah!
+<0063> What the hell's your problem?
+<0064> You little...!
+<0065> Why would I let you hit me?
+<0066> You just wasted your shot.
+<0067> Your aim sucks.
+<0068> Easy breezy.
+<0069> You sure wasted my time.
+<0070> *Sigh*
+<0071> Why would I lose to you?
+<0072> You were no match for me.
+<0073> Damn it! Damn it!
+<0074> Just what the hell are you?
+<0075> I can't believe this happened.
+<0076> Screw you.
+<0077> Let's go smoothly.
+<0078> Alright.
+<0079> I'm on a roll.
+<0080> Huhah!
+<0081> Huh?
+<0082> No kidding.
+<0083> Oh, come on.
+<0084> Give me a break.
+<0085> A trap, huh?
+<0086> Tsk, they got me.
+<0087> Ugh, no fair.
+<0088> I messed up.
+<0089> Here comes trouble.
+<0090> Oh god.
+<0091> I don't like the looks of that.
+<0092> So you're on the move, huh.
+<0093> Making steady progress isn't so bad.
+<0094> This is the most efficient way to achieve my victory.
+<0095> Baby steps.
+<0096> Time for star gathering.
+<0097> I'll go around and destroy all of ya.
+<0098> I'll go nuts and destroy everything.
+<0099> Excuse me, I'm just a regular unarmed human.
+<0100> Let's have a blast out here.
+<0101> You need my help?
+<0102> Guess I'll make a move myself.
+<0103> Seems like it's go time.
+<0104> What a pain, but oh well.
+<0105> Let's win this game already.
+<0106> Alright, let's get started.
+<0107> Time to work.
+<0108> The sooner we start, the sooner we finish.
+<0109> Well, that wasn't so bad.
+<0110> Why wouldn't I win?
+<0111> That was good.
+<0112> Hmph, that was stupid.
+<0113> We have more power now.
+<0114> Isn't this...
+<0115> Well, I'd say that's good stuff.
+<0116> Nice.
+<0117> You're gonna have to take this from here.
+<0118> Switch with me.
+<0119> You go work your ass off out there.
+<0120> You're in charge now.
+<0121> Go ahead.
+<0122> Well done.
+<0123> Yeah.
+<0124> No.
+<0125> Oh no.
+<0126> It's your lucky day.
+<0127> Huuuh?
+<0128> Okay then.
+<0129> Like this, I suppose.
+<0130> Go.
+<0131> Yo.
+<0132> Umm.
+<0133> Well played.
+<0134> You have my compliments.
+<0135> Goddamnit!
+<0136> Tsk, I don't even know what this thing's capable of...
+<0137> I'll use this one.
+<0138> Did I surprise you?
+<0139> I like this one.
+<0140> Well, thanks.
+<0141> I've got to destroy this thing.
+<0142> How can this thing still be moving around?
+<0143> I feel so disgusted.
+<0144> What in the...?
+<0145> Get out of my way, you girls.
+<0146> You girls are coming up against me?
+<0147> You can't defy me.
+<0148> Why? You girls are my...
+<0149> You're not the Sumika I knew, are you?
+<0150> You've upgraded yourself, haven't you?
+<0151> You're a long way from that damned guardian.
+<0152> Maybe you're strong enough to take down that damned guardian.
+<0153> If only you didn't exist.
+<0154> Damn it, why do you always get in my way?
+<0155> Seems like I beat her...
+<0156> Damn it, damn it, damn it!
+<0157> Just what are you...?
+<0158> You damn crazy weapon.
+<0159> What would make anyone build a weapon like this?
+<0160> What a crazy chick...

@@ -1,0 +1,17 @@
+
+< CHARACTERSELECT_QP >
+Uma totó tola. Fará de tudo por causa de pudim.\nA perfeita faz-de-tudo que pode se adaptar a qualquer situação. Dificuldade média.
+
+< CHARACTERSELECT_SUGURI >
+Possui mais de dez mil anos de idade. Muito rápida.\nUma personagem de tudo-ou-nada que depende de sua boa evasiva para sobreviver. Dificuldade profissional.
+
+< CHARACTERSELECT_MARC >
+Uma garota que ama voar pelos céus.\nPossui bom ataque e defesa. Pode dar dano direto com sua carta Hyper. Dificuldade média.
+
+< CHARACTERSELECT_KAI >
+Um cara normal que perdeu sua carteira.\nUma personagem de batalha bem balanceada. Dificuldade fácil.
+
+< CHARACTERSELECT_DLC >
+Nota: Você poderá escolher jogar com uma personagem DLC\nque você possui mais tarde na tela de Criação de Deck.
+
+[EOF]

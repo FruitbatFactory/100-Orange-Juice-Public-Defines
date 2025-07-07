@@ -1,0 +1,302 @@
+
+< CARD_BOOST_DASH >
+name=대시!
+descr=이번 턴 동안 이동 주사위를 2개 굴린다.
+flavor="빠르게!" ―스구리
+
+< CARD_BOOST_EXTEND >
+name=익스텐드
+descr=스톡 효과.\nKO당한 뒤 다음 턴에 부활한다.
+flavor="일단은 안심이야!" ―마르
+
+< CARD_BOOST_FLIPOUT >
+name=화풀이
+descr=스톡 효과.\n드롭 패널에서 스타를 잃을 때 자신을 제외하고 스타를 가장 많이 가진 플레이어 모두 같은 수의 스타를 잃는다.
+flavor="으그으...!" ―메이
+
+< CARD_BOOST_LONGSHOT >
+name=원거리 사격
+descr=적 유닛에게 피해 1을 준다.
+flavor="어디서든 맞힐 수 있어." ―이루
+
+< CARD_BOOST_NICEJINGLE >
+name=근사한 종소리
+descr=스톡 효과.\n다음 보너스 패널에서 받는 스타의 수가 두 배가 된다.
+flavor="잔뜩 모았네." ―아루
+
+< CARD_BOOST_NICEPRESENT >
+name=근사한 선물
+descr=카드를 두 장 뽑는다.
+flavor="선물 나눠주는 거 도와줘야 해." ―아루
+
+< CARD_BOOST_PRINCESS >
+name=공주님의 특권
+descr=패를 전부 버린 뒤 카드를 세 장 뽑는다.\n패에 공주님의 특권만 있거나 카드가 세 장 이상 있을 때만 사용할 수 있다.
+flavor="다음에 내 집에 오렴." ―페르넷
+
+< CARD_BOOST_PUDDING >
+name=푸딩
+descr=HP를 전부 회복한다.
+flavor="와-아!" ―큐피
+
+< CARD_BOOST_COOKIE >
+name=사키의 쿠키
+descr=HP를 1 회복한다.
+flavor="쿠키 드세요!" ―사키
+
+< CARD_BOOST_STIFFCRYSTAL >
+name=견고한 수정
+descr=스톡 효과.\n트랩의 효과를 무효로 한다. 무효화된 트랩의 레벨 *5만큼의 스타를 얻는다.
+flavor="성가셔라." ―쿄코
+
+< CARD_BATTLE_BIGMAGNUM >
+name=빅 매그넘
+descr=HP 1을 잃고 이 배틀 동안 공격력 +2를 얻는다. 이 카드의 효과로 KO될 수 있을 경우 사용할 수 없다.
+flavor="나와라! 빅 매그넘!" ―테킬라 선장
+
+< CARD_BATTLE_FINALBATTLE >
+name=파이널 배틀
+descr=한 쪽이 KO될 때까지 (최대 10라운드까지) 배틀을 계속한다.
+flavor="모두를 지키기 위해." ―스구리, 히메
+
+< CARD_BATTLE_ONFIRE >
+name=불타오른다!
+descr=이 배틀 동안 공격력 +1, 방어력 -1을 얻는다.
+flavor="마음껏 놀자!" ―카에
+
+< CARD_BATTLE_RAINBOW >
+name=무지갯빛 원
+descr=이 배틀 동안 회피력 +2, 방어력 -1을 얻는다.
+flavor=마치 무지갯빛 원을 그리듯이.
+
+< CARD_BATTLE_RBITS >
+name=우사비트
+descr=이 배틀 동안 방어력 +2를 얻는다. 회피 커맨드를 선택할 수 없다.
+flavor="포메이션 오빗!" ―큐피
+
+< CARD_BATTLE_REVERSE >
+name=성격 반전 필드
+descr=이 배틀 동안 양 쪽 유닛의 보정 이후 능력치가 반전된다.
+flavor="놀이 따위에 진지하기는! 어른답지도 않...군요." ―메이
+
+< CARD_BATTLE_SHIELD >
+name=실드
+descr=이 배틀 동안 방어력 +3을 얻는다. 공격할 수 없다. 이 카드는 후공 플레이어만 쓸 수 있다.
+flavor="가장 중요한 건 살아서 돌아오는 일이야." ―샴
+
+< CARD_TRAP_ASSAULT >
+name=돌격
+descr=후공으로 이 카드를 세팅한 플레이어와 배틀을 한다.
+flavor="오늘에야말로 길드를 관두게 해주마!" ―피트
+
+< CARD_TRAP_BADPUDDING >
+name=나쁜 푸딩
+descr=무작위로 패 한 장을 버린다.
+flavor="푸딩에, 간장을 뿌리면, 성게 맛!" ―유키
+
+< CARD_TRAP_DANGEROUSPUDDING >
+name=데인저러스 푸딩
+descr=스톡 효과.\n다음 턴을 넘긴다.
+flavor=한 눈에 그 푸딩에 마음을 빼앗겼어요.
+
+< CARD_TRAP_EXCHANGE >
+name=맞바꾸기
+descr=이 카드를 세팅한 플레이어와 패, 스타, 패널 위치를 교환한다.
+flavor="...무거워." ―스구리\n"허전해..." ―마르
+
+< CARD_TRAP_FLAMETHROWER >
+name=화염 방사
+descr=패를 전부 버린다. 패가 한 장도 없을 경우 대신 KO당한다.
+flavor="히이이야하아아아!" ―폭주족
+
+< CARD_TRAP_TOYSTORE >
+name=장난감 가게의 미래를 위해
+descr=스타를 절반 잃는다. 잃은 스타는 이 카드를 세팅한 플레이어에게 간다. 이 카드는 가진 스타가 50개 미만일 때만 세팅할 수 있다.
+flavor="산타만! 산타만 없으면!" ―아서
+
+< CARD_TRAP_GOAWAY >
+name=저리 가
+descr=무작위 패널로 워프한다.
+flavor="아하하, 마음에 들었어." ―나나코
+
+< CARD_TRAP_HEAT300 >
+name=히트 300%
+descr=스톡 효과 (1)\n다음 배틀에서 방어력 -2를 얻는다.
+flavor="윽, 맞지만 않으면 돼!" ―스구리
+
+< CARD_TRAP_INVASION >
+name=침공
+descr=적 선공으로 엔카운터가 발생한다.
+flavor="공격을 해오는데...?" ―스구리
+
+< CARD_TRAP_MIMYUU >
+name=미뮤우찡 해머
+descr=피해 1을 받는다.
+flavor="답례로 죽어주세요!" ―미뮤우
+
+< CARD_TRAP_PIGGYBANK >
+name=돼지 저금통
+descr=이 카드를 세팅하고 지난 챕터 수*5만큼의 스타를 얻는다.
+flavor="아빠, 아직 열면 안 돼?" ―메스칼
+
+< CARD_TRAP_PURES >
+name=공중 레스토랑 '퓨어즈'
+descr=스타를 절반 잃고 HP를 완전히 회복한다.
+flavor="손님 한 분 안내합니다아!" ―크리스
+
+< CARD_TRAP_TRAGEDY >
+name=한밤중의 참극
+descr=무작위로 카드를 한 장 버린다. 버린 카드는 이 카드를 세팅한 플레이어에게 간다.
+flavor=그런 행복은 한순간에 사라지고 마는 거예요.
+
+< CARD_EVENT_SEAGULLS >
+name=갈매기 떼
+descr=무작위 유닛 하나가 피해 2를 받는다.
+flavor="끼에에에에엑!" ―갈매기
+
+< CARD_EVENT_DINNER >
+name=디너
+descr=모든 유닛의 HP를 3씩 회복한다.
+flavor="같이 밥 먹자." ―나츠미
+
+< CARD_EVENT_FORCEDREVIVAL >
+name=강제 소생
+descr=KO된 유닛 모두 HP 1을 가지고 부활한다.
+flavor="좀 있으면 나을 거야." ―키리코
+
+< CARD_EVENT_GIFTEXCHANGE >
+name=선물 교환
+descr=모든 플레이어의 패를 모아 무작위로 나눠준다. 각 플레이어의 패 장수는 변하지 않는다.
+flavor="교환해요, 교환해요!" ―우사, 아카, 아오
+
+< CARD_EVENT_HEREANDTHERE >
+name=여기저기
+descr=모든 유닛이 무작위 패널로 워프한다.
+flavor="다음 세계로, 렛츠 포!" ―마리 폿포
+
+< CARD_EVENT_HOLYNIGHT >
+name=거룩한 밤
+descr=영구 효과.\n챕터 시작 보너스 스타 수가 1 늘어난다.
+flavor="그래서 오늘 밤은 파티구나." ―히메
+
+< CARD_EVENT_LITTLEWAR >
+name=작은 전쟁
+descr=지속 효과(3챕터)\n모든 배틀에서 공방이 두 번 치뤄진다.
+flavor="나의 힘이라면... 막을 수 있을 거야..." ―스구리
+
+< CARD_EVENT_OHMYFRIEND >
+name=나의 친구여
+descr=보스 엔카운터가 발생한다.
+flavor="머신이라도 우정은 있다고." ―NoName
+
+< CARD_EVENT_OUTOFAMMO >
+name=탄약 소진
+descr=지속 효과(1챕터)\n모든 플레이어는 카드를 쓸 수 없다.
+flavor="탄이 다 떨어졌어!" ―피트
+
+< CARD_EVENT_SEALEDGUARDIAN >
+name=봉인된 수호자
+descr=모든 유닛의 HP가 1이 된다.
+flavor="이 배의 수호신이지." ―시후
+
+< CARD_EVENT_ALLOUTMODE >
+name=초절 진심 모드
+descr=스톡 효과.\n모든 유닛은 다음 배틀에서 공격력 +2를 얻는다.
+flavor="각오해도 아플 거야!!" ―토모모
+
+< CARD_EVENT_WARUDA >
+name=우리는 와루다
+descr=세팅된 모든 트랩 카드가 무작위 칸으로 이동한다.
+flavor="무리야 무리. 토마토는 무적이거든!" ―토마토
+
+< CARD_HYPER_SUGURI >
+name=액셀러레이터
+descr=지속 효과(1챕터)\n이동, 배틀, 보너스, 드롭에서 굴리는 주사위 수가 2개가 된다.
+flavor="날아오른다." ―스구리
+
+< CARD_HYPER_FERNET >
+name=비행선 폭격
+descr=모든 적에게 피해 1~3을 준다. 이 효과로 KO당한 유닛당 15스타를 얻는다.
+flavor="흥, 떨어져버리렴." ―페르넷
+
+< CARD_HYPER_HIME >
+name=속박의 사슬
+descr=스톡 효과.\n자신을 제외한 모든 유닛이 다음 턴을 스킵한다. 행동 가능한 모든 적에게 다음 효과의 "속박"을 부여한다: \n지속 시간: 2챕터. 회피력 -2와 이동력 -1을 얻는다.
+flavor="이런 일은 마음에 안 들어." ―히메
+
+< CARD_HYPER_PEAT >
+name=블루 크로우 더 세컨드
+descr=이 배틀 동안 이 카드를 포함한 패 장수만큼 공격력과 방어력을 얻되, 회피력을 잃는다.
+flavor="결판을 내겠어!" ―피트
+
+< CARD_HYPER_SORA >
+name=비범한 성능
+descr=지속 효과(1챕터)\n이동, 배틀, 보너스, 드롭에서 굴리는 주사위의 눈이 6이 된다.
+flavor="무기, 버려주시면 좋겠어요." ―소라
+
+< CARD_HYPER_YUKI >
+name=갬블!
+descr=무작위로 선택된 유닛이 KO된다.
+flavor="누구 차례인지 이걸로 정할까?" ―유키
+
+< CARD_HYPER_QP >
+name=하이퍼 모드!
+descr=이 배틀 동안 공격력 +2를 얻는다. 이 배틀에서 KO당해도 상대에게 스타도 승리 수도 주지 않고 다음 턴에 부활한다.
+flavor="하이퍼 모드!" ―큐피
+
+< CARD_HYPER_TOMOMO >
+name=살육 마법
+descr=HP가 가득하거나 초과된 유닛을 모두 KO시킨다. 이 효과로 KO시킨 유닛당 (자신 제외) 다음 부활 굴림 시 부활값에 -1을 얻는다.
+flavor="사라져버려라." ―토모모
+
+< CARD_HYPER_ARU >
+name=프레젠트 포 유
+descr=모든 플레이어는 패가 가득해질 때까지 카드를 뽑는다. 이미 패가 가득해도 한 장을 뽑는다. 이 카드의 효과로 뽑힌 카드의 수*10스타를 얻는다.
+flavor="착한 아이들에겐 선물이야-" ―아루
+
+< CARD_HYPER_KAI >
+name=주인공의 특권
+descr=지속 효과(3챕터)\n자신 선공으로 배틀을 할 시 상대 유닛은 첫 공격을 스킵한다.
+flavor="이게 주인공의 특권이란 거다!" ―카이
+
+< CARD_HYPER_POPPO >
+name=신출귀몰
+descr=행동 가능한 적의 패널로 워프한다.\n그 적의 레벨*10만큼 스타를 훔친다.
+flavor="폿포! 폿포포포포포-!" ―마리 폿포
+
+< CARD_HYPER_MARC >
+name=x16 빅 로켓
+descr=★코스트: 레벨*10\n선택한 적에게 자신 레벨만큼의 피해를 준다. 이 효과로 유닛을 KO시키면 2승을 얻는다.
+flavor="차지 완료! 가라-앗!" ―마르
+
+< CARD_HYPER_MASTER >
+name=영구 추방
+descr=★코스트: 보유 스타/10\n기프트 카드만 사용할 수 있다. 사용할 시 이 카드를 무작위 다른 플레이어에게 보낸다.\n이 카드를 버리면 나머지 패도 전부 버린다.
+flavor="점장님, 부탁해요-!!" ―크리스
+
+< CARD_HYPER_BOSSROBO >
+name=터보 만땅
+descr=HP를 1로 낮추고 이 효과로 잃은 HP만큼의 터보 만땅 중첩을 얻는다.\n지속 시간: 터보 만땅의 중첩 수만큼의 챕터.\n중첩당 공격력 +1을 얻는다. 매 턴 1중첩을 잃는다.\n대상이 시후 로보일 경우 턴 시작 시 HP 1을 회복하고 완충 장갑을 제거하지만 자동 수리로 인한 회복을 무효화한다.\nKO 시 효과는 사라진다.
+flavor="두두두!" ―시후 로보
+
+< CARD_HYPER_CASTLE >
+name=움직이지 않는 물체
+descr=지속 시간: 2챕터\n이 효과가 지속되는 동안 턴을 스킵한다.\n워프할 수 없다 \n방어력 +2를 얻는다.\n자신의 유닛과 같은 칸에 온 적은 반드시 자신의 유닛과 배틀해야만 한다.
+flavor="이 힘으로, 하늘의 모든 것을 장악하겠다." ―길드장
+
+< CARD_HYPER_CHICKEN >
+name=황금 달걀
+descr=대상이 닭일 경우, 스톡 효과 (3): 드롭 패널이 보너스 패널로 작용한다.\n그 외의 경우, 스톡 효과(3): 보너스 패널이 드롭 패널로 작용한다.
+flavor="꼬꼬댁-!" ―닭
+
+< CARD_HYPER_BALL >
+name=반사 외갑
+descr=이 배틀 동안 기본 공격력이 0이 된다.\n피해를 최대 2까지 흡수한다.\n흡수한 피해 1당 공격력 +2를 얻는다.\n후공 시에만 사용할 수 있다.
+flavor="적을_발견,_제거." ―로보 볼
+
+< CARD_HYPER_SEAGULL >
+name=조나단 러시
+descr=상대의 패널로 워프해 자신 선공으로 배틀을 한다.\n이 배틀 동안 상대는 방어력 -1을 얻는다.\n배틀 종료 후 턴을 종료한다.
+flavor="꾸에에에엑!" ―갈매기 
+
+[EOF]

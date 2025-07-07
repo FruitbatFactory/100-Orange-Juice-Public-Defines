@@ -1,0 +1,111 @@
+< MIXER_AIR_RAID >
+name=공습
+descr=챕터 시작 시 모든 유닛이 피해 1을 받는다.
+
+< MIXER_AMPLIFY >
+name=증폭
+descr=모든 유닛이 2챕터동안 지속되는 공격력, 방어력, 회피력 중 한 가지 능력치 +1 보너스를 받는다.
+
+< MIXER_BACKTRACK >
+name=백트랙
+descr=모든 유닛이 역방향으로 이동한다. 챕터 내내 지속.
+
+< MIXER_BOMBER >
+name=봄버
+descr=무작위 패널에 보이는 폭탄을 설치한다. 폭탄은 1~4챕터 뒤에 한 팔이 2패널 길이인 십자형으로 폭발하여 폭발 범위 안에 있는 유닛에게 피해를 준다.
+
+< MIXER_CHARITY >
+name=자선
+descr=챕터 시작 시에 모든 플레이어가 카드 1장을 받는다.
+
+< MIXER_CONFUSION >
+name=혼란
+descr=모든 플레이어의 패가 뒤섞여, 정면을 볼 수 없게 된다.
+
+< MIXER_FREEZE >
+name=프리즈
+descr=판의 패널 1/3을 얼린 패널로 만든다.
+
+< MIXER_MINELAYER >
+name=마인레이어
+descr=트랩 카드가 무작위 칸에 한 장 세팅된다.
+
+< MIXER_MIRACLE >
+name=기적
+descr=모든 배틀, 보너스, 드로우, 드롭, 이동, 워프 이동, 힐, 데미지 패널의 효과가 2배가 된다.
+
+< MIXER_RANDOM_WARP >
+name=랜덤 워프
+descr=챕터 시작 시 모든 플레이어가 무작위 칸으로 워프한다. 
+
+< MIXER_REGENERATION >
+name=재생
+descr=챕터 시작 시 모든 플레이어의 HP가 1 회복된다.
+
+< MIXER_SPRINT >
+name=질주
+descr=기본 이동 주사위가 2개가 된다.
+
+< MIXER_TREASURE >
+name=보물
+descr=무작위 패널에 보물 상자를 놓는다.
+
+< MIXER_HEALTHY_BOSS >
+name=건강한 보스
+descr=보스가 HP 10을 추가로 갖는다.
+
+< MIXER_STAR_CHASER >
+name=스타 체이서
+descr=보너스 패널에서 스타를 두 배로 받는다.
+
+< MIXER_BEGGAR >
+name=거지
+descr=드롭 패널에서 스타를 두 배로 잃는다.
+
+< MIXER_AGGRESSIVE_HEROES >
+name=공격형 영웅
+descr=모든 플레이어가 공격력 +1을 받는다.
+
+< MIXER_DEFENSIVE_HEROES >
+name=방어형 영웅
+descr=모든 플레이어가 방어력 +1을 받는다.
+
+< MIXER_EVASIVE_HEROES >
+name=회피형 영웅
+descr=모든 플레이어가 회피력 +1을 받는다.
+
+< MIXER_BLAZING >
+name=블레이징
+descr=모든 유닛이 공격력 +1과 방어력 -1을 받는다.
+
+< MIXER_FLIPPED >
+name=뒤집기
+descr=배틀 시작 시 유닛 능력치가 반전된다.
+
+< MIXER_MENACING_BOSS >
+name=흉포한 보스
+descr=보스가 공격력 +1을 받는다.
+
+< MIXER_HARD_SHELLED_BOSS >
+name=튼튼한 보스
+descr=보스가 방어력 +1을 받는다.
+
+< MIXER_SLIPPERY_BOSS >
+name=미끈한 보스
+descr=보스가 회피력 +1을 받는다.
+
+< MIXER_JOKER >
+name=조커
+descr=모든 카드의 코스트가 없어진다.
+
+< MIXER_GOO >
+name=끈적이
+descr=필드에서 끈적이가 없는 패널의 1/3을 1챕터동안 끈적이로 덮는다.
+
+< MIXER_SPORES >
+name=포자
+descr=필드에 버섯이 나타난다.
+
+< MIXER_BANKRUPT >
+name=도산
+descr=카드 코스트가 10스타 증가한다.

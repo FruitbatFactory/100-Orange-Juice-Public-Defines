@@ -1,0 +1,167 @@
+
+// ========= Scene: Spring 2020 Event Start =========
+
+// (No Speaker)
+<0000> Após começarem a viajar juntas, Ellie e Lulu chegam em uma cidade.
+
+// (ellie)
+<0001> A-a-ahaaa! Ohmeudeus, ohmeudeus! Nós estamos na maior encrenca de todas, Lulu!
+
+// (lulu)
+<0002> O que foi, Ellie?
+
+// (ellie)
+<0003> Estamos sem dinheiro de viagem...
+
+// (lulu)
+<0004> Sem o quê?
+
+// (ellie)
+<0005> Dinheiro de viagem! Nós não conseguimos ficar em um hotel ou comprar comida sem ele!
+
+// (lulu)
+<0006> Nós não podemos comprar comida?! I-isso é uma crise!
+
+// (ellie)
+<0007> Ugh, não tenho escolha além de persuadir alguns caras a me darem dinheiro!
+
+// (lulu)
+<0008> Você tem certeza que consegue fazer isso?
+
+// (ellie)
+<0009> Vai dar tudo bem. Sou uma garota muito fofa, aposto que consigo fazer dinheiro o suficiente para comprar um país em um dia...!
+
+// (lulu)
+<0010> Uma casa de cachorro é o melhor que você conseguiria.
+
+// (ellie)
+<0011> Ãhn? Você acabou de me insultar?
+
+// (lulu)
+<0012> De jeito nenhum.
+
+// (ellie)
+<0013> Hmm, mas falando sério, o que devíamos fazer? Não conseguir comprar comida significa não conseguir manter meu belo corpooo.
+
+// (lulu)
+<0014> Ei, Ellie, sobre o que são aqueles papéis ali?
+
+// (ellie)
+<0015> Ãhn? Eles são...
+
+// (ellie)
+<0016> Desafios de caça a monstros...!
+
+// (ellie)
+<0017> Ok, certo... Eu posso derrotar esses monstros rapidamente!
+
+// (lulu)
+<0018> O que irá acontecer se você derrotá-los?
+
+// (ellie)
+<0019> Você será recompensada com dinheiro!
+
+// (lulu)
+<0020> Então isso significa...
+
+// (ellie)
+<0021> Nós poderemos ter um jantar chique e dormir em camas confortáveis hoje a noite!
+
+// (ellieandlulu)
+<0022> Ahaaa!"
+
+// (ellie)
+<0023> Certo, Lulu, nós iremos caçar alguns monstros agora!
+
+// (lulu)
+<0024> Aham!
+
+// ========= Scene: Spring 2020 Event Ending =========
+
+// (ellie)
+<0025> Comtemple! Esse é a recompensa que conseguimos! Ahaaa!
+
+// (lulu)
+<0026> Nossaaa, isso é incrível, Ellie! Com isso, nós poderemos comprar comida por um tempo, né?
+
+// (ellie)
+<0027> Definitivamente. Quer dizer, eu até tenho o suficiente para festejar um pouco... Ku-fu-fu.
+
+// (lulu)
+<0028> Wah, você parece estar pensando em algo tenebroso.
+
+// (ellie)
+<0029> Oh certo, eu tenho que te recompensar por todo seu trabalho duro lá, também.
+
+// (lulu)
+<0030> Aham, Lulu deu o seu melhor, também!
+
+// (ellie)
+<0031> Deseja alguma coisa em específico?
+
+// (lulu)
+<0032> Hmm... Lulu deseja comida boa, e é isso.
+
+// (ellie)
+<0033> Ahaaa!♥ É claro, eu vou conseguir algo delicioso para você!
+
+// (ellie)
+<0034> Mas eu queria te dar mais alguma coisa de presente.
+
+// (lulu)
+<0035> Um presente? Hmm, o que a Lulu deseja é...
+
+// (lulu)
+<0036> Ela não consegue pensar em nada.
+
+// (ellie)
+<0037> Você não tem nenhum sonho, Lulu!
+
+// (ellie)
+<0038> Se você realmente não tem ideia do que deseja, eu vou escolher por você.
+
+// (lulu)
+<0039> Ah, Lulu gosta dessa ideia! Ela quer que você escolha algo por ela!
+
+// (ellie)
+<0040> Certo, pode deixar comigo! Com meu gosto excelente em presentes, eu vou te conseguir o melhor presente que você sequer já teve.
+
+// (ellie)
+<0041> Agora, ta-da!
+
+// (lulu)
+<0042> Howah. Isso é... um pedaço de roupa?
+
+// (ellie)
+<0043> Isso é colocado em torno de seu rabo desse jeito e...
+
+// (ellie)
+<0044> Pronto!
+
+// (lulu)
+<0045> Uou, é uma fita!
+
+// (ellie)
+<0046> Ahaaa♥ Você fica super fofa com isso!
+
+// (lulu)
+<0047> Esse é um presente bem normal de alguém com o gosto mais excelente de todos, mas sim, realmente é fofo.
+
+// (ellie)
+<0048> Espera, você acabou de insultar meu gos-
+
+// (lulu)
+<0049> Lulu amou. Muito obrigada, Ellie!
+
+// (ellie)
+<0050> Ahaaa, de nada! Tem muito mais a espera, entretanto!
+
+// (ellie)
+<0051> Olha, Lulu, a gente ainda tem tudo isso de dinheiro sobrando. Vamos festejar! Festejar!
+
+// (lulu)
+<0052> Eita, Ellie, me espera!
+
+// (ellie)
+<0053> Ahaaa♥
+

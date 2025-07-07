@@ -1,0 +1,161 @@
+<000> Com elegância.
+<001> Com suavidade.
+<002> Dona Sorte esteja do meu lado.
+<003> Certo então.
+<004> É melhor você não me subestimar.
+<005> Que ridículo.
+<006> Graciosamente.
+<007> Não existe outra saída.
+<008> Terei meu trabalho pronto com cuidado.
+<009> Bom, parece o correto.
+<010> É melhor todo mundo ter cuidado por aqui.
+<011> Sorte favorece a mente preparada.
+<012> Todo cuidado é pouco.
+<013> Eu vou acabar com você.
+<014> Prepare-se.
+<015> Isto deve garantir o seu fim.
+<016> Permita-me demonstrar meu poder.
+<017> Eu jamais vou colapsar de novo.
+<018> Eu ainda não acabei.
+<019> Minha desgraça termina aqui.
+<020> A hora do cochilo acabou.
+<021> Ugh.
+<022> Minha nossa.
+<023> Eu estou... desapontado comigo mesmo...
+<024> Argh...
+<025> *Rosna*
+<026> Roar!
+<027> Tema meu lado selvagem.
+<028> Hmph.
+<029> Guoh.
+<030> *Chora*
+<031> Minha nossa.
+<032> Raios.
+<033> Faz carinho na minha cabeça.
+<034> Eu deveria dar a pata?
+<035> Excelente.
+<036> Esta deve ser a definição de curar.
+<037> Oh.
+<038> O que é isto?
+<039> Você está me levando para uma caminhada?
+<040> Bow!
+<041> Isto não seria abuso animal?
+<042> Não me acha adorável?
+<043> Que coisa horrível de se dizer.
+<044> *Chora*
+<045> Deixe-me ver do que você é capaz.
+<046> Permita-me atacar primeiro.
+<047> Eu irei primeiro.
+<048> Minhas garras são muito mais perigosas do que você possa imaginar.
+<049> Você é corajoso.
+<050> Eu sabia que você viria até mim.
+<051> Eu aceito seu desafio.
+<052> Bow?
+<053> Bow wow!
+<054> *Rosna*
+<055> Sinta minhas garras.
+<056> Eu sou mais do que apenas adorável.
+<057> Guh.
+<058> Não é possível.
+<059> Nuh.
+<060> Poderia parar com isso?
+<061> Como você pode ser tão impiedoso com alguém tão adorável quanto eu?
+<062> Você é daqueles que fazem bullying com animais pequenos?
+<063> Agh!
+<064> Eu estou com muita dor.
+<065> Isto não é nada.
+<066> Eu sou mais rápido do que você pode imaginar.
+<067> Você é terrívelmente devagar.
+<068> Hmph.
+<069> Agora está decidido.
+<070> Olha o quão ingrato você parece agora.
+<071> Você devia ser mais inteligente na próxima vez que você buscar briga com alguém.
+<072> Então, isto foi tão fácil quanto cair do tronco de uma árvore.
+<073> Wafuu...
+<074> Você não tem nenhuma piedade?
+<075> Estou acabado.
+<076> O que você fez comigo...
+<077> Eu vou receber estas como um dinheiro extra.
+<078> Olha o quão brilhante estão...!
+<079> Lindo.
+<080> Vou manter estas por agora.
+<081> Como ousa roubar de mim.
+<082> Ah fala sério...
+<083> Eu não costumo ser desajeitado assim.
+<084> O quê...? Eu não acredito nisso...
+<085> Eu não tomei cuidado...!
+<086> Eu estou a fim de cavar-... é uma armadilha!?
+<087> Raios, eu não sou um animal selvagem aleatório.
+<088> Eu fiz besteira!!!
+<089> Sinto o cheiro de algo perigoso.
+<090> Hmm, este parece fortão.
+<091> Eu imagino que terei que fazer mais do que ser apenas fofo.
+<092> Eu sinto algo incomum...
+<093> Eu acho que vou escolher este daqui.
+<094> Esta opção deve ser onde eu vá usar minhas habilidades.
+<095> Este aqui falou comigo.
+<096> Este é o caminho mais curto para a vitória.
+<097> Já estava na hora de eu soltar meu lado selvagem.
+<098> Animais adoráveis podem ser letais também.
+<099> Minhas garras são afiadas.
+<100> Eu vou com tudo.
+<101> Eu sou Pomeranius.
+<102> Você está tentando me fazer trabalhar para você?
+<103> Meu preço não é barato.
+<104> Eu vou completar isto perfeitamente.
+<105> Vamos começar o jogo, pode ser?
+<106> Que empolgante.
+<107> Eu prometo que trarei a vitória.
+<108> Por favor não pega pesado comigo.
+<109> Este é o resultado óbvio.
+<110> Vitória é minha.
+<111> Este é o melhor momento até agora.
+<112> Eu me diverti bastante aqui.
+<113> Eu tenho algo legal para você.
+<114> Por que você não dá uma boa olhada nisso comigo?
+<115> É isso que você desejou?
+<116> Eu estou bem grato que você tenha gostado.
+<117> É hora de trocar.
+<118> Me dê uma ajuda aqui.
+<119> Eu vou sair por agora.
+<120> Eu acredito em você.
+<0121> Okay.
+<0122> Hmm, isto não é nada mal.
+<0123> Sim.
+<0124> Não.
+<0125> *Lamenta*
+<0126> Dona Sorte está do meu lado.
+<0127> Mas que raios?
+<0128> Vamos começar, pode ser?
+<0129> Bow!
+<0130> Você tem o meu apoio.
+<0131> Olá.
+<0132> Hmm.
+<0133> Bom.
+<0134> Muito bom.
+<0135> Qual o problema com você?
+<0136> Isto parece ser bom.
+<0137> Eu nunca vi algo parecido com isto.
+<0138> Agora, o que você de algo assim?
+<0139> Eu sou capaz até de usar isto.
+<0140> Obrigado.
+<0141> Se é isso que minha Dona deseja.
+<0142> Por favor permita-me, minha Dona.
+<0143> Isso foi impressionante, minha Dona. Eu fui quase derrotado.
+<0144> Excelente, minha Dona.
+<0145> Isto que é amor.
+<0146> Aqui vou eu, minha Dona.
+<0147> O que minhas patas desajeitadas fizeram?
+<0148> Isso é incrível, minha Dona.
+<0149> Esta vitória vai para minha Dona.
+<0150> Seu pirralho.
+<0151> Quem você pensa que você é?
+<0152> Apesar de tudo, é disso que você é capaz.
+<0153> Como um pirralho como você pode me derrotar...
+<0154> Uma cadela... ou uma humana... o que é você?
+<0155> Uma monstra meio humana e meio cadela!?
+<0156> Uma meio cadela não pode ser melhor que um de verdade.
+<0157> Isto significa que não sou um cão?
+<0158> Oh sua fofinha.
+<0159> Nós vamos sempre estar juntos, okay?
+<0160> Você pode olhar o quão adorável é meu bichinho de estimação?

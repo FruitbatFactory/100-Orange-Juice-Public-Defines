@@ -1,0 +1,163 @@
+
+<0000> Estou jogando o dado.
+<0001> É desse jeito?
+<0002> Joguei certo?
+<0003> Por favor, que saia... um bom número.
+<0004> Eu vou usar esta.
+<0005> Isso vai me ajudar de algum jeito.
+<0006> Carta...
+<0007> Com esse poder...
+<0008> Eu vou colocar uma armadilha.
+<0009> Uma armadilha.
+<0010> Tome cuidado com esse lugar.
+<0011> Armadilha.
+<0012> Vou usar um pouco de poder.
+<0013> Uma carta de batalha.
+<0014> Um raio levemente quente...
+<0015> Um power-up.
+<0016> Eu vou usar todo o meu poder...!
+<0017> Eu fiquei melhor.
+<0018> Ainda posso continuar.
+<0019> Ainda não fui derrotada.
+<0020> Me sinto viva de novo.
+<0021> Au...
+<0022> Deu ruim...
+<0023> Fuaah...
+<0024> Ainda... falta pouco...
+<0025> Estou atacando.
+<0026> Yah.
+<0027> Toh.
+<0028> Tah.
+<0029> Mu.
+<0030> Muah.
+<0031> Fua...
+<0032> Kuh.
+<0033> Meus machucados foram curados ...
+<0034> Quentinho...
+<0035> Eu estou ficando melhor.
+<0036> Neste caso, ainda posso lutar.
+<0037> Fue?
+<0038> Wah.
+<0039> Aonde eu estou indo?
+<0040> Um teleporte...?
+<0041> Eu preciso dar uma pausa.
+<0042> Eu perdi toda minha energia...
+<0043> Hau...
+<0044> Gutee...
+<0045> Me desculpe.
+<0046> Vamos nessa.
+<0047> Eu darei meu melhor.
+<0048> Uma batalha...
+<0049> Eu não vou perder.
+<0050> Você vai vir até mim?
+<0051> Eu gostaria que você saísse do caminho.
+<0052> Se você quer lutar, eu não vou perder.
+<0053> Ei.
+<0054> Hah.
+<0055> Yah.
+<0056> Eei.
+<0057> Mu.
+<0058> Fua.
+<0059> Au.
+<0060> Ai.
+<0061> Wawawa.
+<0062> Isso doeu muito.
+<0063> Wah, que problemão.
+<0064> Muaah!
+<0065> Não consegue me atingir.
+<0066> Desviando.
+<0067> Evadindo.
+<0068> Eu estou bem aqui.
+<0069> Ufa... Eu venci.
+<0070> Eu consegui.
+<0071> Ufa.
+<0072> De alguma forma eu consegui.
+<0073> Nuu.
+<0074> Muu.
+<0075> Uuu.
+<0076> Aaa.
+<0077> Estrelas...
+<0078> São estrelas...
+<0079> Estou feliz.
+<0080> São muitas.
+<0081> Minhas estrelas...
+<0082> Trágico.
+<0083> Ah não...
+<0084> Estrelas... Para onde elas foram...
+<0085> É uma armadilha.
+<0086> Uma armadilha?
+<0087> Raios.
+<0088> Eu fui pega na cilada.
+<0089> Algo apareceu.
+<0090> É melhor eu me cuidar.
+<0091> Essa presença é muito poderosa.
+<0092> Aquilo parece um tanto forte.
+<0093> Estrelas...
+<0094> Estrelas...
+<0095> Vou coletar... estrelas.
+<0096> Estrelas são bonitas… eu gosto delas.
+<0097> Eu vou vencer.
+<0098> Eu vou lutar.
+<0099> Não vou perder pra nenhum tipo de pessoa.
+<0100> Então essa Norma é sobre batalhar?
+<0101> Eu?
+<0102> Espero que tenhamos bons momentos juntos.
+<0103> É hora de ir trabalhar, certo?
+<0104> Eu vou com tudo...!
+<0105> Eu vou começar o meu serviço.
+<0106> Vamos dar o nosso melhor.
+<0107> Vamos lá... para ganhar.
+<0108> Mesmo em jogos, eu não vou perder.
+<0109> Eu venci.
+<0110> Eu fiz tudo que podia.
+<0111> Meu trabalho aqui está encerrado.
+<0112> É a minha vitória... Estou grata.
+<0113> Parece que é uma coisa nova.
+<0114> Parece que conseguimos algo bom.
+<0115> Isso... foi feito.
+<0116> O que é que se faz com isso?
+<0117> Você pode tomar meu lugar?
+<0118> Se importaria de trocar?
+<0119> Estou ansiosa para ver os frutos de seu trabalho.
+<0120> Te desejo sorte.
+<0121> Entendido.
+<0122> Eu acho isso ótimo.
+<0123> Sim.
+<0124> Não pode.
+<0125> Hau.
+<0126> Fufu.
+<0127> Muu...
+<0128> Certo, é hora de ir.
+<0129> Eu vou jogar... o dado.
+<0130> Vamos lá.
+<0131> Olá.
+<0132> Muaa...
+<0133> Que bom.
+<0134> Incrível.
+<0135> O que...?
+<0136> Eu vou pegar isso emprestado.
+<0137> Me permita emprestar essa carta.
+<0138> É um poder desconhecido, mas vou usá-lo de qualquer forma.
+<0139> Será que vou usar isso certo?
+<0140> Eu vou começar... o meu trabalho!
+<0141> Suguri... vamos jogar.
+<0142> Suguri... você quer jogar?
+<0143> Fufu, eu ganhei da Suguri.
+<0144> Você realmente é forte.
+<0145> Hime, quer dançar?
+<0146> Hime, eu serei sua companheira.
+<0147> Fufu, foi divertido.
+<0148> A Hime também é poderosa.
+<0149> Sham, aqui vou eu.
+<0150> Idol... que brilho incrível...
+<0151> E-eu nunca irei dançar ou cantar que nem você.
+<0152> E-eu também tenho que dançar...?
+<0153> Star... Breaker...
+<0154> Eu não vou perder para você.
+<0155> Não é aceitável que você fique causando tumulto.
+<0156> Por favor pare de causar problemas...
+<0157> Escudo!
+<0158> Escudo, inverter!
+<0159> Carga ilimitada...!
+<0160> Mikki Mou-...!
+

@@ -1,0 +1,233 @@
+
+// ========= Scene: Summer 2020 Event Start =========
+
+// (kae)
+<0000> "Boy, sure is hot today!"
+
+// (saki)
+<0001> "You always bring your own personal heat island, don't you, Kae... But, yes, it really is hot today."
+
+// (nath)
+<0002> "......"
+
+// (saki)
+<0003> "The heat seems to even be affecting Nath. She's not usually spaced out like that... I should do something about this... Ah, I know!"
+
+// (saki)
+<0004> "Hey, listen Kae."
+
+// (kae)
+<0005> "Whaat?"
+
+// (saki)
+<0006> "*Whisper whisper whisper*"
+
+// (kae)
+<0007> "...! That's a great idea! I'm in!"
+
+// (saki)
+<0008> "Alright then, no time like the present..."
+
+// (nath)
+<0009> "...Sigh."
+
+// (saki)
+<0010> "Naaath."
+
+// (kae)
+<0011> "Hiya."
+
+// (nath)
+<0012> "Saki, Kae, what is it?"
+
+// (saki)
+<0013> "Do you happen to have... any plans for the rest of the day?"
+
+// (nath)
+<0014> "Not particularly..."
+
+// (saki)
+<0015> "Why don't we go out for a bit, then?"
+
+// (kae)
+<0016> "Go out!"
+
+// (nath)
+<0017> "On a hot summer day like this...?"
+
+// (saki)
+<0018> "We go out to deal with the heat!"
+
+// (saki)
+<0019> "By the way, do you two like fish?"
+
+// (kae)
+<0020> "Yeah, I love fish!"
+
+// (nath)
+<0021> "If I have to choose... I suppose I like it."
+
+// (saki)
+<0022> "It's the summer season, and summer season should be spent at the riverside, and the riverside is the perfect place for BBQ!"
+
+// (nath)
+<0023> "So, the idea is cool down and grill fish by a river?"
+
+// (saki)
+<0024> "That's right! We'll catch the fish on site, by the way."
+
+// (kae)
+<0025> "Sounds like wicked fun! Let's do it!"
+
+// (nath)
+<0026> "Um, I'm not familiar with outdoor activities, so I'll pa-..."
+
+// (saki)
+<0027> "Alright then, let's get ourselves ready!"
+
+// (nath)
+<0028> "Would you list-..."
+
+// (kae)
+<0029> "Nana and me went shopping before, and I picked up a new bikini. I'll wear it today!"
+
+// (nath)
+<0030> "Hey, I'm saying I'm not go-..."
+
+// (sakiandkae)
+<0031> "It's the river!"
+
+// (sakiandkae)
+<0032> "Wheee!"
+
+// (nath)
+<0033> "I ended up getting dragged out here."
+
+// (kae)
+<0034> "Nath, you should come join us in the water!"
+
+// (nath)
+<0035> "I'm good. I'm not wearing a swimsuit, and playing with water isn't my thing. By the way, you two remember what we're actually here for, don't you?"
+
+// (saki)
+<0036> "Of course! We'll catch and eat fish to blow off the heat!"
+
+// (kae)
+<0037> "I'm gonna work so hard! Nath and me will get the fish, so you get the grill fired up, Saki!"
+
+// (saki)
+<0038> "Roger that!"
+
+// (kae)
+<0039> "Speaking of, how do you catch fish, Nath?"
+
+// (nath)
+<0040> "I sit on the ground like this..."
+
+// (saki)
+<0041> "Sit with your knees bent, huh?"
+
+// (nath)
+<0042> "And then I fix the fishing pole between my feet... This is how I fish."
+
+// (kae)
+<0043> "Wow, that's an amazing skill."
+
+// (kae)
+<0044> "I'll grab my prey by hand!"
+
+// (saki)
+<0045> "Alright, girls, let's work hard for the sake of a tasty dinner!"
+
+// (kaeandnath)
+<0046> "Yeah!"
+
+// ========= Scene: Summer 2020 Event Ending =========
+
+// (kae)
+<0047> "Look at how much we caught, Saki!"
+
+// (saki)
+<0048> "Mauuu! You two did an excellent job!"
+
+// (nath)
+<0049> "I think we even have enough to bring home and share with friends."
+
+// (saki)
+<0050> "Alright then, let me prepare them for the grill real quick. Mauryaaah!"
+
+// (nath)
+<0051> "What skills... She's removing the fish guts and putting the fish on skewers at an incredible speed."
+
+// (kae)
+<0052> "You're the best chef, Saki!"
+
+// (saki)
+<0053> "And done! It's time to grill! Kae, fire please."
+
+// (kae)
+<0054> "Sure! Here ya go!"
+
+// (nath)
+<0055> "That's good teamwork... Fufu."
+
+// (kae)
+<0056> "Let me ask you something, Nath!"
+
+// (nath)
+<0057> "Yes?"
+
+// (kae)
+<0058> "Did you have fun fishing?"
+
+// (nath)
+<0059> "Yes, I did. Spending time in nature like this isn't as bad as I imagined."
+
+// (kae)
+<0060> "Glad to hear that. Actually, this whole riverside BBQ thing was..."
+
+// (saki)
+<0061> "Something Kae and I planned to hang out with you outdoors, Nath."
+
+// (kae)
+<0062> "Yeah."
+
+// (nath)
+<0063> "What?"
+
+// (kae)
+<0064> "We noticed the heat was getting to you badly back home."
+
+// (saki)
+<0065> "So we decided we might as well go out with you for a change of pace. Plus, I thought we could make a good summer memory that way."
+
+// (saki)
+<0066> "I knew you weren't too interested when I invited you, but I forced you out here anyway. Sorry."
+
+// (nath)
+<0067> "Fufu, that sounds like you. I appreciate it, though."
+
+// (nath)
+<0068> "It's been fun. I'm glad I came here."
+
+// (kae)
+<0069> "Yay! We did it, Saki!"
+
+// (saki)
+<0070> "Yes, Kae!"
+
+// (nath)
+<0071> "Fufufu."
+
+// (saki)
+<0072> "Oh, the fish are ready. Let's dig in with gusto!"
+
+// (kae)
+<0073> "Whee, finally."
+
+// (nath)
+<0074> "They look very good."
+
+// (saki)
+<0075> "Eat all you want, girls!"
+

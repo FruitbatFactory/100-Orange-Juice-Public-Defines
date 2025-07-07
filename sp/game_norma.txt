@@ -1,0 +1,106 @@
+
+< GAME_NORMA_CLEAR >
+¡NORMA COMPLETA!
+
+< GAME_NORMA_ACHIEVED >
+Norma Lograda
+
+< GAME_NORMA_STARS >
+Consiga <normaamount> o más estrellas.
+
+< GAME_NORMA_STARS_REV >
+Consiga <normaamount> o menos estrellas.
+
+< GAME_NORMA_STARS_10 >
+Consiga 10 o más estrellas.
+
+< GAME_NORMA_STARS_30 >
+Consiga 30 o más estrellas.
+
+< GAME_NORMA_STARS_70 >
+Consiga 70 o más estrellas.
+
+< GAME_NORMA_STARS_120 >
+Consiga 120 o más estrellas.
+
+< GAME_NORMA_STARS_200 >
+Consiga 200 o más estrellas.
+
+< GAME_NORMA_STARS_10_REV >
+Consiga 10 o menos estrellas.
+
+< GAME_NORMA_STARS_30_REV >
+Consiga 30 o menos estrellas.
+
+< GAME_NORMA_STARS_70_REV >
+Consiga 70 o menos estrellas.
+
+< GAME_NORMA_STARS_120_REV >
+Consiga 120 o menos estrellas.
+
+< GAME_NORMA_STARS_200_REV >
+Consiga 200 o menos estrellas.
+
+< GAME_NORMA_WINS_SINGLE >
+Derrote a un enemigo.
+
+< GAME_NORMA_WINS_MULTIPLE >
+Derrote a <normaamount> o más enemigos.
+
+< GAME_NORMA_WINS_MULTIPLE_REV >
+Derrota a <normaamount> o menos enemigos.
+
+< GAME_NORMA_WINS_1 >
+Derrote a un enemigo.
+
+< GAME_NORMA_WINS_2 >
+Derrote a 2 o más enemigos.
+
+< GAME_NORMA_WINS_5 >
+Derrote a 5 o más enemigos.
+
+< GAME_NORMA_WINS_9 >
+Derrote a 9 o más enemigos.
+
+< GAME_NORMA_WINS_14 >
+Derrote a 14 o más enemigos.
+
+< GAME_NORMA_WINS_1_REV >
+Derrota a un enemigo.
+
+< GAME_NORMA_WINS_2_REV >
+Derrota a 2 o menos enemigos.
+
+< GAME_NORMA_WINS_5_REV >
+Derrota a 5 o menos enemigos.
+
+< GAME_NORMA_WINS_9_REV >
+Derrota a 9 o menos enemigos.
+
+< GAME_NORMA_WINS_14_REV >
+Derrota a 14 o menos enemigos.
+
+< GAME_NORMA_FAME >
+Ten <normaamount> o más puntos de fama.
+
+< GAME_NORMA_SELECT >
+Selecciona la Norma
+
+< GAME_NORMA_ALREADYMET >
+¡El requerimiento ya ha sido conseguido!
+
+< GAME_NORMA_STARS_LEFT >
+¡%d Estrellas restantes!
+
+< GAME_NORMA_WINS_LEFT >
+¡%d Victorias restantes!
+
+< GAME_NORMA_STARS_BUTTONDISPLAY >
+%d\nEstrellas
+
+< GAME_NORMA_WINS_BUTTONDISPLAY >
+%d\nVictorias
+
+
+[EOF]
+

@@ -1,0 +1,302 @@
+
+< CARD_BOOST_DASH >
+name=Impulso!
+descr=Neste turno, jogue dois dados para movimento.
+flavor="Mais rápido!" ―Suguri
+
+< CARD_BOOST_EXTEND >
+name=Vida Extra
+descr=Efeito de Estoque\nApós ser nocauteado, você irá reviver no próximo turno.
+flavor="Está tudo bem por enquanto!" ―Marc
+
+< CARD_BOOST_FLIPOUT >
+name=Frustração
+descr=Efeito de Estoque\nNa próxima vez que sua personagem parar em um painel de perda, o(s) jogador(es) com a maior quantidade de estrelas vai(vão) perder a mesma quantidade de estrelas que você.
+flavor="......!" ―Mei
+
+< CARD_BOOST_LONGSHOT >
+name=Tiro a Longa Distância
+descr=Cause 1 de dano a uma unidade inimiga escolhida.
+flavor="Eu posso te acertar de qualquer lugar." ―Iru
+
+< CARD_BOOST_NICEJINGLE >
+name=Bônus Natalino
+descr=Efeito de Estoque.\nO próximo painel de bônus lhe dará o dobro de estrelas.
+flavor="Nós temos um montão." ―Aru
+
+< CARD_BOOST_NICEPRESENT >
+name=Ótimo Presente
+descr=Compre 2 cartas.
+flavor="Você vai me ajudar a entregar os presentes." ―Aru
+
+< CARD_BOOST_PRINCESS >
+name=Privilégio da Princesa
+descr=Descarte todas as cartas de sua mão.\nCompre 3 cartas novas.\nSó pode ser usado ao ter apenas Privilégio da Princesa em mãos ou quando você tiver pelo menos 3 cartas em sua mão.
+flavor="Você pode vir me visitar qualquer dia." ―Fernet
+
+< CARD_BOOST_PUDDING >
+name=Pudim
+descr=Recupera todo o HP.
+flavor="Ebaaa!" ―QP
+
+< CARD_BOOST_COOKIE >
+name=Doces da Saki
+descr=Cura 1 HP.
+flavor="Pegue uns docinhos!" ―Saki
+
+< CARD_BOOST_STIFFCRYSTAL >
+name=Cristal Resistente
+descr=Efeito de Estoque.\nNegue os efeitos de uma carta armadilha. Ganhe 5 estrelas por nível da armadilha cancelada.
+flavor="Isso é um saco." ―Kyoko
+
+< CARD_BATTLE_BIGMAGNUM >
+name=Grande Magnum
+descr=Pague 1 HP quando usar esta carta. Durante esta batalha, ganhe +2 de Ataque. Caso existir a possibilidade de sua personagem sofrer nocaute por causa do efeito, essa carta não poderá ser utilizada.
+flavor="Vá! Grande Magnum!" ―Capitão Tequila
+
+< CARD_BATTLE_FINALBATTLE >
+name=Batalha Final
+descr=Esta batalha só se encerrará caso uma unidade leve nocaute (Máximo de 10 turnos).
+flavor="Para proteger a todos!"\n―Suguri & Hime
+
+< CARD_BATTLE_ONFIRE >
+name=Estou em Chamas!
+descr=Durante esta batalha,\nGanhe +1 de Ataque e -1 de Defesa.
+flavor="Vamos brincar com as nossas vidas!" ―Kae
+
+< CARD_BATTLE_RAINBOW >
+name=Círculo Arco-Íris
+descr=Durante esta batalha, ganhe +2 de Evasão e -1 de Defesa.
+flavor=É que nem desenhar um círculo de arco-íris.
+
+< CARD_BATTLE_RBITS >
+name=Rbits
+descr=Durante esta batalha, ganhe +2 de Defesa. Você não pode usar o comando de Evasiva.
+flavor="Formação Orbital!" ―QP
+
+< CARD_BATTLE_REVERSE >
+name=Campo de Atributos Reversos
+descr=Durante esta batalha, os valores positivos e negativos de cada atributo de ambas as unidades são invertidos após ajustes.
+flavor="Você não está levando o jogo a sério demais? Você é tão idio... quer dizer, infantil!" ―Mei
+
+< CARD_BATTLE_SHIELD >
+name=Escudo
+descr=Ganhe +3 de Defesa durante esta batalha. Entretanto, você não pode atacar. Esta carta só pode ser usada pelo defensor.
+flavor="A coisa mais importante é: voltar aqui com vida." ―Sham
+
+< CARD_TRAP_ASSAULT >
+name=Perseguição
+descr=Batalhe com o jogador que colocou esta carta, porém ele ataca primeiro.
+flavor="Hoje com certeza farei você sair da guilda!" ―Peat
+
+< CARD_TRAP_BADPUDDING >
+name=Pudim Ruim
+descr=Descarte uma carta aleatória de sua mão.
+flavor="Pudim com molho shoyu, tem gosto de ouriço-do-mar!" ―Yuki
+
+< CARD_TRAP_DANGEROUSPUDDING >
+name=Pudim Perigoso
+descr=Efeito de Estoque\nSeu próximo turno será pulado.
+flavor='Bastou um olhar para aquele pudim roubar meu coração.'
+
+< CARD_TRAP_EXCHANGE >
+name=Troca
+descr=Troque as cartas de sua mão, suas estrelas e sua posição atual no tabuleiro com o jogador que colocou essa carta.
+flavor="Pesado..." ―Suguri\n"Que desconfortável sem meu capacete..." ― Marc
+
+< CARD_TRAP_FLAMETHROWER >
+name=Lança-chamas
+descr=Nocauteia a unidade. Se o jogador possuir cartas em sua mão, então perderá todas ao invés da unidade sofrer nocaute.
+flavor="Heeehaaaaah!" ―Punk
+
+< CARD_TRAP_TOYSTORE >
+name=Pelo Futuro da Loja de Brinquedos
+descr=Perca metade de suas estrelas. O jogador que colocou esta carta ganha a quantidade de estrelas perdidas. Essa carta apenas poderá será utilizada caso o jogador possua menos de 50 estrelas.
+flavor="Se ao menos... se ao menos não existisse uma Mamãe Noel!" ―Arthur
+
+< CARD_TRAP_GOAWAY >
+name=Vá Embora
+descr=Sua unidade é teleportada para um painel aleatório.
+flavor="Ahaha, eu gosto disso." ―Nanako
+
+< CARD_TRAP_HEAT300 >
+name=Aquecimento de 300%
+descr=Efeito de Estoque(1):\nEm sua próxima batalha, aplique -2 ao atributo de Defesa.
+flavor="Tudo que preciso fazer é me esquivar de todos os ataques!" ―Suguri
+
+< CARD_TRAP_INVASION >
+name=Invasão
+descr=Você terá uma luta. O inimigo atacará primeiro.
+flavor="O quê...? Eu fui atacada?" ― Suguri
+
+< CARD_TRAP_MIMYUU >
+name=Martelo da Mimyuu
+descr=Causa 1 de dano.
+flavor="Obrigada por morrer!" ―Mimyuu
+
+< CARD_TRAP_PIGGYBANK >
+name=Cofrinho
+descr=Ganhe estrelas o equivalente a cinco vezes o número de capítulos que passaram desde que esta carta foi colocada.
+flavor="Papai, já posso quebrar o porquinho?" ―Mescal
+
+< CARD_TRAP_PURES >
+name=Restaurante do Céu 'Pures'
+descr=Perca metade das suas estrelas e cure todo o seu HP.
+flavor="Temos um convidado para servir!" ― Chris
+
+< CARD_TRAP_TRAGEDY >
+name=Tragédia na Calada da Noite
+descr=Descarte uma carta aleatória. A carta descartada irá para o jogador que colocou esta armadilha.
+flavor='Uma felicidade destas, roubada assim do nada.'
+
+< CARD_EVENT_SEAGULLS >
+name=Nuvem de Gaivotas
+descr=Uma unidade escolhida aleatoriamente receberá 2 de dano.
+flavor="Grasnaado!" ―Gaivota
+
+< CARD_EVENT_DINNER >
+name=Jantar
+descr=Cura todas as unidades em 3 HP.
+flavor="Vamos ter uma ceia juntos." ―Natsumi
+
+< CARD_EVENT_FORCEDREVIVAL >
+name=Reanimação Forçada
+descr=Todas as unidades nocauteadas são reanimadas com 1 HP.
+flavor="Vocês vão se levantar em um segundinho." ―Kiriko
+
+< CARD_EVENT_GIFTEXCHANGE >
+name=Troca de Presentes
+descr=Todas as cartas nas mãos dos jogadores serão redistribuídas. O número total de cartas na mão dos jogadores não sofrerá alterações após o efeito.
+flavor="Uma troca de presentes? Parece uma ótima ideia!"\n―Rbit, Vermelho e Azul
+
+< CARD_EVENT_HEREANDTHERE >
+name=Aqui e Ali
+descr=Todos as unidades são teleportadas para painéis aleatórios.
+flavor="Para o próximo mundo!" ― Marie Poppo
+
+< CARD_EVENT_HOLYNIGHT >
+name=Noite Feliz
+descr=Efeito Permanente\nOs bonus de estrelas no inicio de capitulo são aumentados em um.
+flavor="Aha, é por isso que é uma noite de festa." ―Hime
+
+< CARD_EVENT_LITTLEWAR >
+name=Pequena Guerra
+descr=Duração do Efeito: 3 capítulos\nDefesa e Ataque irão acontecer duas vezes durante as batalhas.
+flavor="Eu acredito... que tenho o poder para parar isso..." ― Suguri
+
+< CARD_EVENT_OHMYFRIEND >
+name=Ah, Meu Amigo!
+descr=Um chefão aparecerá.
+flavor="Máquinas tem amigos também." ―NoName
+
+< CARD_EVENT_OUTOFAMMO >
+name=Sem Munição
+descr=Duração do Efeito: 1 capítulo\nNinguém pode usar cartas.
+flavor="Acabou a munição!" ― Peat
+
+< CARD_EVENT_SEALEDGUARDIAN >
+name=Guardiã Selada
+descr=O HP de todas as unidades cai para 1.
+flavor="Conheça o anjo guardião desta nave." ―Shifu
+
+< CARD_EVENT_ALLOUTMODE >
+name=Modo de Super Impulso
+descr=Efeito de Estoque\nTodas as unidades ganharão +2 de Ataque em sua próxima batalha.
+flavor="Isto vai doer mesmo você sabendo o que está por vir!!" ―Tomomo
+
+< CARD_EVENT_WARUDA >
+name=Nós Somos Waruda
+descr=Todas as armadilhas no campo são movidas para painéis aleatórios.
+flavor="Inútil. Ninguém pode derrotar a Tomato." ―Tomato
+
+< CARD_HYPER_SUGURI >
+name=Acelerador
+descr=Duração do Efeito: 1 capítulo\nJogue dois dados para movimento, batalha, bônus e perda.
+flavor="Estou acelerando." ―Suguri
+
+< CARD_HYPER_FERNET >
+name=Ataque Aéreo
+descr=Todas os inimigos recebem de 1 a 3 de dano. Ganhe 15 estrelas por cada nocaute.
+flavor="Hmph, pereçam, todos vocês." ―Fernet
+
+< CARD_HYPER_HIME >
+name=Correntes Desabilitadoras
+descr=Efeito de Estoque\nTodas as unidades com exceção da sua pularão seu próximo turno. Aplique "Desabilitado" em todos os inimigos ativos. Duração do Efeito: 2 Capítulos. Ganhe -2 EVD e -1 MOV.
+flavor="Eu não gosto de fazer esse tipo de coisa." ―Hime
+
+< CARD_HYPER_PEAT >
+name=Corvo Azul, o Segundo
+descr=Durante esta batalha, sua unidade ganha Ataque e Defesa mas perde Evasão igual ao número de cartas em sua mão.
+flavor="Eu vou acabar com isso!" ―Peat
+
+< CARD_HYPER_SORA >
+name=Especialidades Extraordinárias
+descr=Duração do Efeito: 1 capítulo\nSua unidade terá 6 garantido no dado para movimento, batalha, bônus e perda.
+flavor="Eu agradeceria se você largasse as suas armas." ― Sora
+
+< CARD_HYPER_YUKI >
+name=Aposta! 
+descr=Uma unidade aleatória será nocauteada.
+flavor=Por que não usamos isto para ver quem vai primeiro?" ― Yuki
+
+< CARD_HYPER_QP >
+name=Modo Hiper
+descr=Durante esta batalha, sua unidade ganha +2 de Ataque. Caso sua unidade seja nocauteada, não dê estrelas ou vitórias e se reanimará no próximo turno.
+flavor="MODO HIPER!" - QP
+
+< CARD_HYPER_TOMOMO >
+name=Massacre Mágico
+descr=Todas as unidades com HP cheio ou acima do máximo serão nocauteadas. Ganhe -1 para a próxima jogada de Reanimar para cada unidade nocauteada (que não seja você).
+flavor="Desapareçam." ―Tomomo
+
+< CARD_HYPER_ARU >
+name=Presentes para Vocês
+descr=Todos os jogadores compram cartas até terem uma mão cheia. Aqueles com a mão cheia compram somente 1 carta. Ganhe estrelas igual ao número de cartas compradas x10.
+flavor="Presentes para bons garotos e garotas." ―Aru
+
+< CARD_HYPER_KAI >
+name=Privilégio do Protagonista
+descr=Duração do Efeito: 3 capítulos\nQuando for permitido que você ataque primeiro, seu oponente não poderá contra-atacar (Uma vez por combate).
+flavor="Este é o privilégio do personagem principal!" ―Kai
+
+< CARD_HYPER_POPPO >
+name=Onipresença
+descr=Se teleporte para o painel da unidade escolhida. Além disso, roube estrelas igual ao nível do alvo x10.
+flavor="Poppo! Poppopopopopo!"\n―Marie Poppo
+
+< CARD_HYPER_MARC >
+name=Grande Míssil x16
+descr=★Custo: Seu nível x10\nCause dano equivalente ao seu nível a uma unidade alvo selecionada. Um nocaute por este efeito lhe dará 2 Vitórias.
+flavor="Preparar! Fogo!" ―Marc
+
+< CARD_HYPER_MASTER >
+name=Banido para Sempre
+descr=★Custo: Suas estrelas divididas por 10.\nSó pode jogar cartas Presente. Usar esta carta a envia para outro jogador.\nDescarte toda sua mão ao descartá-la.
+flavor="Gerente, é a sua vez!!" ―Chris
+
+< CARD_HYPER_BOSSROBO >
+name=Sobrecarga de Turbo
+descr=Seu HP cai para 1. Ganhe +1 estoque de Sobrecarga de Turbo por cada HP perdido.\nDuração do Efeito: A mesma quantidade de capítulos que a de estoques de Sobrecarga de Turbo. Ganhe +1 ATK por estoque. Perca 1 estoque por turno.\nSe o alvo for Robô Shifu, no começo do turno também cure 1 HP e remova uma Barreira, mas não cure de Auto-Reparo.\nO efeito é perdido caso leve nocaute.
+flavor="Estrondo ronco estrondo." ―Robô Shifu
+
+< CARD_HYPER_CASTLE >
+name=Objeto Imóvel
+descr=Duração do Efeito: 2 capítulos\nPule seus turnos enquanto este efeito estiver ativo.\nNão pode se teleportar.\nGanhe +2 Defesa. Pode contra-atacar.\nUnidades que se moverem pelo seu painel atual são obrigadas a batalhar com você.
+flavor="Com este poder, tudo nos céus será nosso." ―Mestre da Guilda
+
+< CARD_HYPER_CHICKEN >
+name=Ovo Dourado
+descr=Se o alvo for "Galinha", Efeito de Estoque (3). Painéis de Perda vão agir como painéis de Bônus. Caso não seja "Galinha", Efeito de Estoque (3). Painéis de Bônus vão agir como painéis de Perda.
+flavor="Cocóricóóóóó!" ―Galinha
+
+< CARD_HYPER_BALL >
+name=Escudo Refletor
+descr=Seu Ataque Base é 0 durante esta batalha.\nAbsorve até 2 de dano.\nGanhe +2 Ataque para cada dano absorvido.\nSó pode ser usado se você for o segundo a atacar.
+flavor="Inimigo detectado. Destruindo." ―Robô Bola
+
+< CARD_HYPER_SEAGULL >
+name=Investida de Jonathan
+descr=Mova-se até uma unidade e a ataque.\nAlvo ganha -1 Defesa.\nApós a batalha, seu turno acaba.
+flavor="Grasnaaado!" ―Gaivota
+
+[EOF]

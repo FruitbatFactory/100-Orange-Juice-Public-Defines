@@ -1,0 +1,56 @@
+< DISCORD_MAIN_MENU_STATE >
+On the Main Menu
+
+< DISCORD_SHOP_STATE >
+In the Shop
+
+// Lobby: <lobby name>
+< DISCORD_LOBBY_STATE >
+Lobby: %s
+
+< DISCORD_LOBBY_STATE_PRIVATE >
+In a Lobby
+
+< DISCORD_INGAME_STATE >
+In-Game
+
+// After the game ended, the screen where xp and potential unlocks are given 
+< DISCORD_RESULTS_STATE >
+Results
+
+// Pvp mode
+< DISCORD_INGAME_NORMAL_MODE >
+Normal Mode
+
+< DISCORD_INGAME_COOP_MODE >
+Co-op Mode
+
+// Co-op: <boss name>, <difficulty name>
+< DISCORD_INGAME_COOP_MODE_DETAILS >
+Co-op: %s, %s
+
+// <player name>, Level <lvl>
+< DISCORD_INGAME_PLAYER_DETAILS >
+%s, Level %d
+
+// <player name>, <coop role>, Level <lvl>
+< DISCORD_INGAME_PLAYER_DETAILS_COOP >
+%s, %s, Level %d
+
+< DISCORD_INGAME_BOUNTYHUNTER_MODE >
+Bounty Hunt Mode
+
+< DISCORD_INGAME_SUMMER2020_MODE >
+Fish-a-Fish Mode
+
+< DISCORD_INGAME_SHROOM_MODE >
+Shroom Zoom Mode
+
+< DISCORD_INGAME_SCHOOL_MODE >
+School Crashers Mode
+
+< DISCORD_INGAME_CHAOS_MODE >
+Chaos Mode
+
+< DISCORD_INGAME_TAGTEAM_MODE >
+Tag Team Mode

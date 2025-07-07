@@ -1,0 +1,163 @@
+<0000> Se sinta a vontade e jogue um dado.
+<0001> Vamos ver.
+<0002> Você gostaria de um dado?
+<0003> E aqui rola.
+<0004> A ordem é uma carta?
+<0005> A carta está prestes a ser servida.
+<0006> Nós recomendamos essa carta.
+<0007> Você estava aqui por uma carta?
+<0008> Aqui vai uma carta de armadilha.
+<0009> Por aqui, por favor!
+<0010> Venha por aqui!
+<0011> Este serviço inclui uma armadilha complementar.
+<0012> Eu vou jogar uma carta de batalha agora.
+<0013> Isto fará nosso trabalho mais fácil.
+<0014> Estou pronto para dar o meu melhor!
+<0015> Esta é uma carta de batalha, então? Entendi, entendi...!
+<0016> Essa foi uma boa pausa!
+<0017> Minha pausa acabou agora!
+<0018> Certo, eu vou trabalhar duro!
+<0019> Eu vou trabalhar com um sorriso.
+<0020> Eu acho que não tem problema extender minha pausa um pouco...
+<0021> Fuee, eu podia descansar um pouco mais...
+<0022> Talvez eu trabalhei mais do que devia...
+<0023> Uhum, estou me sentindo cansada.
+<0024> Ataaacar!
+<0025> Eey!
+<0026> Bem-vindo ao nosso restaurante!
+<0027> Uma toalha de mão molhada e um copo de água fria...!
+<0028> Ai!
+<0029> Por que você fez isso comigo?!
+<0030> Por favor!
+<0031> Você pode parar com isso!
+<0032> Ah, eu gosto disso.
+<0033> Isso ajuda muito!
+<0034> Haah, eu estou me sentindo melhor.
+<0035> Isso é muito bom.
+<0036> Wa-wa-wah!
+<0037> Nããooo!
+<0038> Nossa, eu vou deixar cair a comida!
+<0039> Eu não gosto disso!
+<0040> Ugh, eu acho que estou cansada...
+<0041> Pode ser... Estou exausta...
+<0042> Ai, minhas costas!
+<0043> Kyuu...
+<0044> Alguém está lutando comigo!
+<0045> Isso é onde ele vem.
+<0046> Oh não, me ajude!
+<0047> Eu vou te avisar: Ele é muito forte!
+<0048> Nããooo, eu apenas sou uma trabalhadora de meio período!
+<0049> Cliente, eu vou pedir para você se comportar!
+<0050> Com licença, esse tipo de coisa não é permitida aqui.
+<0051> Heeen!
+<0052> Yah!
+<0053> Tome este ataque!
+<0054> Tapa!
+<0055> Eeey!
+<0056> Ueeh!
+<0057> Espera, espera!
+<0058> Por favor pare!
+<0059> Awawah!
+<0060> Cliente, isso nos deixa muito desconfortáveis!
+<0061> Whoa, isso é mau!
+<0062> Como você pode fazer algo tão terrível!?
+<0063> Eu vou chamar a polícia por sua causa! Nossa!
+<0064> Wa-wa-wah!
+<0065> Essa foi por pouco! Muito pouco!
+<0066> Por favor comporte-se!
+<0067> Isto quase me atingiu, nossa!
+<0068> Eu aprecio a vitória!
+<0069> Ebaaaa!
+<0070> Por favor volte ao nosso restaurante em breve.
+<0071> Ufa, nós fizemos um bom trabalho ali.
+<0072> Oh não...
+<0073> Estamos esgotado...
+<0074> Ugh... Talvez eu devia desistir desse emprego...
+<0075> Isto é cruel!
+<0076> Isto é um bônus para mim!?
+<0077> Sim, eu fui pago!
+<0078> Isto é pelo qual eu trabalho!
+<0079> Wahah! Essa é a melhor!
+<0080> Ãhn? Ãhn? Isto não significa que receberei menos, certo...?
+<0081> Ei, este é o meu bônus!
+<0082> Meu motivo para trabalhar!
+<0083> Pieeen!
+<0084> Por que alguém colocaria isto aqui?!
+<0085> Fue! Por favor!
+<0086> Isto é sequer permitido?!
+<0087> Eu caí em uma armadilha!?
+<0088> Um, há algo de errado aqui.
+<0089> Mhm, tem alguém aqui.
+<0090> Eu ouso dizer... este não é um cliente fácil de se lidar...?
+<0091> Fuee! Eu estou muito assustada!
+<0092> Pelo dever de ser pago!
+<0093> Pagamento bônus!? Quem não iria querer isso!
+<0094> Eu vou lá ficar rico!
+<0095> Tenha certeza de adicionar estes no meu pagamento!
+<0096> E-eu não me importo se alguém fizer a luta por mim.
+<0097> O quê? Quem vai fazer a luta?
+<0098> Lutar? Isso é algo que não posso fazer...
+<0099> Eu vou ter que pedir ao Gerente ou ao Chefe de Cozinha por ajuda.
+<0100> Sou a Chris! Bem-vindo ao Pures!
+<0101> Minha recomendação? Este seria o Bunny Hamburg!
+<0102> Eu trabalhar duro como sempre!
+<0103> Trabalho! Trabalho!
+<0104> Bem-vindo ao Pures!
+<0105> Eu estou muito animada para o trabalho!
+<0106> Certo, deixe-me passar meu cartão.
+<0107> Vamos dar nosso melhor!
+<0108> Obrigado por vir ao nosso restaurante!
+<0109> Eu certamente fiz um monte de trabalho de novo~.
+<0110> Certo, eu estou finalmente fora do trabalho!
+<0111> Bom trabalho, todo mundo!
+<0112> Está é a ordem?
+<0113> Esta é uma de nossas recomendações!
+<0114> Gostaria desse também?
+<0115> Obrigado por encomendar com a gente!
+<0116> Eu vou descansar agora.
+<0117> Eu poderia ter uma assistência aqui.
+<0118> Você pode me dar uma mãozinha?
+<0119> Troca de lugar, por favor!
+<0120> Siiim.
+<0121> Isto é bom.
+<0122> Certamente!
+<0123> Eu acho que não sou capaz disso...
+<0124> Uhum, Estou me sentindo cansada.
+<0125> Você está com sorte!
+<0126> Bom... Uhum.
+<0127> Certo então, vamos trabalhar.
+<0128> Hora dos dados!
+<0129> Eu estou torcendo por você!
+<0130> Bom dia!
+<0131> O que eu deveria fazer? ...Uhum.
+<0132> Parabéns!
+<0133> Isto é incrível! Parabéns!
+<0134> P-por quê!
+<0135> Oh, eu não conheço este ítem do menu.
+<0136> Isto sempre esteve no menu?
+<0137> Bom... Não problema... usar isto?
+<0138> Eu falei para usar o que fosse possível!
+<0139> O quê!? Gerente!?
+<0140> P-por que raios o Gerente está aqui!?
+<0141> Gerente, você acabou de chegar ao trabalho?
+<0142> Oh não... Gerente parece irritado.
+<0143> O quê!? Eu errei algo!?
+<0144> Gerente... Você não e-está irritado, não é?
+<0145> Não devíamos fazer isto, Gerente!
+<0146> P-por que você está se aproximando de mim!
+<0147> Chefe! Eu preciso de seu apoio aqui!
+<0148> Chefe, talvez uma faca não seja uma boa ideia...
+<0149> Chefe, está na hora de mostrar suas habilidades!
+<0150> Chefe, eu estou contando com você!
+<0151> Gerente, eu aceitaria uma ajuda!
+<0152> Quando o Gerente fica sério... ninguém pode pará-lo!
+<0153> Agora que o Gerente veio até aqui, vitória é nossa!
+<0154> Gerente! Por favor não trabalhe demais!
+<0155> Cheeefeee!!!
+<0156> O quê? Chefe foi nocauteado...!?
+<0157> Oh nãooo, Chefe!
+<0158> Você está bem...? Melhor você fazer uma pausa.
+<0159> G-Gerente... foi derrotado...?
+<0160> Oh não... Gerente, não...!
+<0161> Gerente, você tem que acordar, Gerente!
+<0162> Gerenteeeeee!!!

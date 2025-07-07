@@ -1,0 +1,157 @@
+
+<0000> ¡Ahí!
+<0001> ¡Aquí voy!
+<0002> ¡Ve!
+<0003> ¡Necesito un buen tiro!
+<0004> ¡Muy bien, puedo hacerlo!
+<0005> ¡Esto me llevará a la victoria!
+<0006> Usaré una carta.
+<0007> ¡Ya lo tengo!
+<0008> Hora de una trampa.
+<0009> Aquí hay una trampa.
+<0010> Dejaré una trampa por aquí.
+<0011> Estoy seguro de que esto funcionará.
+<0012> ¡Ayúdame a ganar!
+<0013> ¡Dame más poder!
+<0014> Je-je-je, ¡la victoria será mía!
+<0015> ¡Les demostraré de lo que soy capaz!
+<0016> ¡Este es el privilegio de un protagonista!
+<0017> ¡Fuí revivido!
+<0018> Todavía no he terminado.
+<0019> Esto es solo el comienzo.
+<0020> Podré seguir.
+<0021> ¡¿Por qué un protagonista como yo falla esto?!
+<0022> No puede ser cierto...
+<0023> ¡Tienes que estar bromeando!
+<0024> Que... diablos...
+<0025> ¡Aquí!
+<0026> ¡Así!
+<0027> ¡Cómete esto!
+<0028> ¡Ya está!
+<0029> ¡Ugh!
+<0030> ¡Guh!
+<0031> ¡Eso duele!
+<0032> Urrh...
+<0033> Salvado por la campana.
+<0034> Me han curado...
+<0035> Phew...
+<0036> Eso estuvo cerca.
+<0037> ¡Transportación!
+<0038> ¡Estoy volando!
+<0039> ¿A dónde voy?
+<0040> ¡Noooo!
+<0041> ¡Guhaah!
+<0042> No... esto no puede ser cierto.
+<0043> Estoy acabado...
+<0044> Me rindo.
+<0045> ¡Vamos, pelea!
+<0046> ¡A luchar!
+<0047> ¡El primero en actuar será el ganador!
+<0048> ¡Iré primero!
+<0049> ¿Quieres pelear? Suena bien.
+<0050> Desafío aceptado.
+<0051> ¿Buscas una pelea?
+<0052> ¡Adelante!
+<0053> ¡Toma esto!
+<0054> ¡Te acabaré!
+<0055> ¡Cómete mi puño!
+<0056> ¡Aaaahí!
+<0057> Ugh.
+<0058> ¡Duele!
+<0059> Eres muy bueno.
+<0060> Oww...
+<0061> ¡Gaaargh!
+<0062> ¡Uoooogh!
+<0063> ¡Eso realmente duele!
+<0064> Uuugh...
+<0065> Wow.
+<0066> No puedes darme.
+<0067> ¡Admira mis movimientos!
+<0068> Muy lento.
+<0069> Mi victoria es simplemente natural.
+<0070> Al fin y al cabo, soy el protagonista.
+<0071> Esa fue una buena batalla.
+<0072> Bueno, era de esperarse.
+<0073> ¡Demonios!
+<0074> Urrrrgh...
+<0075> ¡No puedo creerlo!
+<0076> ¿Perdí? ¡Imposible!
+<0077> ¡Sí! ¡Fui recompensado!
+<0078> ¡Hoy estoy rodando en dinero!
+<0079> ¡Más cerca de la victoria!
+<0080> ¡Woo! ¡Esto es lo mejor!
+<0081> ¡Mis estrellas...!
+<0082> Mierda...
+<0083> Y me esforcé tanto para juntarlas...
+<0084> ¡Me equivoqué!
+<0085> ¡Ah, rayos!
+<0086> ¡¿Era una trampa?!
+<0087> ¡¿Q-qué?!
+<0088> Esto no puede estar pasando...
+<0089> Siento a un oponente muy fuerte.
+<0090> Así que llegaron...
+<0091> Se aproxima una tormenta.
+<0092> Bien... necesito mostrar todo lo que tengo.
+<0093> ¡Las estrellas son mías!
+<0094> Escojo estrellas, claro.
+<0095> ¡Estrellas será!
+<0096> ¡Iré por estrellas!
+<0097> ¡Solo necesito batallas!
+<0098> La batalla es el romance de un hombre.
+<0099> ¡Todas las victorias son mías!
+<0100> ¡Mis puños escupirán fuego!
+<0101> ¡Cuenten conmigo!
+<0102> Hola, es bueno poder jugar contigo.
+<0103> ¡Muy bien, ahora es mi turno!
+<0104> ¡Déjamelo a mí!
+<0105> Ya veremos cómo se tornará este juego.
+<0106> Supongo que iré a todo o nada.
+<0107> Así que empezó.
+<0108> Haré lo mejor que pueda.
+<0109> ¡Soy el ganador! ¡Claro que sí!
+<0110> ¡Fantástico! ¡Lo hice!
+<0111> Phew, de alguna forma lo conseguí.
+<0112> Ese fue un buen juego.
+<0113> Oh, conseguí algo nuevo.
+<0114> ¡Algo nuevo!
+<0115> A este no lo tenía.
+<0116> Bien, eso fue bueno.
+<0117> Vamos a cambiar de posiciones.
+<0118> Cambia de lugar conmigo, ¿quieres?
+<0119> Es hora de volverse locos.
+<0120> Dejaré que tú te encargues del resto.
+<0121> Déjamelo a mí.
+<0122> Se ve bien.
+<0123> ¡Sí!
+<0124> Nop.
+<0125> ¡Mierda!
+<0126> ¡Genial!
+<0127> ¡¿Pero qué-?!
+<0128> ¡Aquí voy!
+<0129> Veamos en qué lado caerá.
+<0130> ¡Ve!
+<0131> ¡Yo!
+<0132> Hmm...
+<0133> Eso es increíble.
+<0134> ¡Oh dios mío!
+<0135> Mierda...
+<0136> ¡Gracias!
+<0137> ¡Te encontré!
+<0138> ¡¿Una mujer hermosa...?!
+<0139> ¿No estás un poco vieja para usar esa ropa?
+<0140> ¡¿Un robot gigante?! ¡Qué emocionante!
+<0141> Tengo que acabar con ella de inmediato.
+<0142> ¡Aquí viene esa loca mujer...!
+<0143> ¡Logré derrotarla!
+<0144> Ugh... sabía que estaba loca.
+<0145> ¡Oye oye oye! ¡¿Qué crees que estás haciendo?!
+<0146> Mi billetera se siente más ligera por alguna razón.
+<0147> ¿En dónde estoy...?
+<0148> Vaya, tu vehiculo se ve bastante bien.
+<0149> Muy bien, vamos a nadar un poco.
+<0150> "¿Qué le ha ocurrido a Poppo...?"
+<0151> "¿Diosa...?"
+<0152> "Cielos... cálmate un poco..."
+<0153> "¿En serio? ¿A tu edad...?"
+<0154> Esta es una verdadera obra de arte.
+<0155> ¡¿Por qué rayos estás cantando esta canción?!

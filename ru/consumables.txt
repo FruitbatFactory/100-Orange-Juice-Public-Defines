@@ -1,0 +1,33 @@
+< CONSUMABLE_HEART_PINK >
+name=Сердечко (Розовое)
+descr=Отправьте сердечко другу или кому-нибудь особенному!
+
+< CONSUMABLE_HEART_BLACK >
+name=Сердечко (Чёрное)
+descr=Отправьте сердечко другу или кому-нибудь особенному!
+
+< CONSUMABLE_FIREWORKS_YELLOW >
+name=Фейерверки (Жёлтые)
+descr=Запустите салют во время игры!
+
+< CONSUMABLE_FIREWORKS_RED >
+name=Фейерверки (Красные)
+descr=Запустите салют во время игры!
+
+< CONSUMABLE_FIREWORKS_GREEN >
+name=Фейерверки (Зелёные)
+descr=Запустите салют во время игры!
+
+< CONSUMABLE_FIREWORKS_BLUE >
+name=Фейерверки (Синие)
+descr=Запустите салют во время игры!
+
+< CONSUMABLE_RAINYCLOUD >
+name=Дождевое Облачко
+descr=Чувствуете себя хмуро?
+
+< CONSUMABLE_BALLOONS >
+name=Воздушные Шарики
+descr=Разноцветные шарики побудут с вами какое-то время.
+
+

@@ -1,0 +1,161 @@
+<0000> É assim, né?
+<0001> É agora.
+<0002> Aqui.
+<0003> Hmm.
+<0004> Isto é para o futuro.
+<0005> Devo fazer isso perfeitamente.
+<0006> Estou preparado.
+<0007> Hmm... acho que devo usar isso aqui.
+<0008> Eu vou ensinar o pessoal a importância de ser cauteloso.
+<0009> O que acha desse método?
+<0010> Tomem muito cuidado.
+<0011> Devo usar uma estratégia mais sutil?
+<0012> Eu vou com tudo.
+<0013> Não tenho nenhuma partícula de hesitação!
+<0014> Vou mostrar todo o meu poder.
+<0015> Hmm... esse aqui!
+<0016> Todas as armas preparadas... FOGO!
+<0017> Já descansei o suficiente.
+<0018> Parece que os preparativos para o retorno estão prontos.
+<0019> Reiniciando motores,  decolar.
+<0020> Vou inspecionar todas as partes novamente.
+<0021> Parece que preciso de mais um tempinho...
+<0022> A pressa é fatal.
+<0023> Não vou deixar nada passar na reparação.
+<0024> Que vergonha...
+<0025> Avançar!
+<0026> Avante!
+<0027> Mire!
+<0028> Ali!
+<0029> Recebi um ataque!
+<0030> Um ataque inimigo?!
+<0031> Ugh...
+<0032> Apenas um pequeno inconveniente.
+<0033> Bom.
+<0034> Oh, isso é maravilhoso.
+<0035> O-oh...
+<0036> Que agradável.
+<0037> Localize a posição atual imediatamente.
+<0038> Estou desviando da rota!
+<0039> Kuuh...
+<0040> É uma turbulência horrível...
+<0041> O meu plano foi...
+<0042> Sinto a idade pesando.
+<0043> Evacuação temporária.
+<0044> É necessário arrumar minhas táticas.
+<0045> Vou me livrar dos obstáculos.
+<0046> Saiba o seu lugar.
+<0047> Aprenda com esta batalha.
+<0048> Não vou permitir mais isso.
+<0049> Muito ousado da sua parte.
+<0050> O que é isso, o que significa esse absurdo?
+<0051> Hum...?
+<0052> Um ataque surpresa...
+<0053> Renda-se.
+<0054> Disparar!
+<0055> Fogo!
+<0056> Aqui!
+<0057> Mhm.
+<0058> Muh!
+<0059> Guh!
+<0060> Uu.
+<0061> Nunca tinha acontecido algo assim!
+<0062> Guu!
+<0063> Os danos são enormes...!
+<0064> Inicie o controle de danos, rápido!
+<0065> Estou aqui.
+<0066> Sua mira ainda não é das boas.
+<0067> Sem dificuldades.
+<0068> Tomando medidas evasivas.
+<0069> A experiência é poderosa.
+<0070> Se isso serviu de aprendizado para você, fico feliz.
+<0071> Você é insuficientemente treinado.
+<0072> É realmente uma pena.
+<0073> A vitória é sua.
+<0074> Acabou.
+<0075> Perder pra você é...
+<0076> Prossiga.
+<0077> Farei bom uso disso.
+<0078> Obtive um novo financiamento.
+<0079> Maravilhoso.
+<0080> Um som agradável.
+<0081> Que azar...!
+<0082> Guh, fui roubado!
+<0083> Não devia acontecer algo assim!
+<0084> É um terrível desastre...
+<0085> Cometi um deslize.
+<0086> Que erro!
+<0087> Uohh!
+<0088> O quê?!
+<0089> É um oponente poderoso.
+<0090> Devo lidar com isso com cuidado.
+<0091> Precisamos coletar dados suficientes sobre o inimigo.
+<0092> Meus instintos estão me alertando.
+<0093> Preciso reunir fundos.
+<0094> As estrelas são minhas velhas amigas.
+<0095> Gestão empresarial também é meu trabalho.
+<0096> Gerenciar orçamento é minha especialidade.
+<0097> Não sou tão jovem como costumava ser, mas...
+<0098> Afinal, esta ainda é a minha vocação.
+<0099> Estou acostumado com a batalha.
+<0100> Tem vezes que lutar é a única opção.
+<0101> Vou trocar a experiência pela juventude.
+<0102> Muito bem. Eu vou guia-lo para a vitória.
+<0103> Hm, eu? Bem, porque não.
+<0104> Parece que a minha ajuda ainda é necessária
+<0105> Vou fazer mais um trabalho.
+<0106> Quando decidir fazer algo, faça na hora.
+<0107> Não temos tempo de relaxar.
+<0108> Vamos colocar nossa estratégia em prática.
+<0109> Perfeitamente como planejado.
+<0110> Um desempenho aceitável. Da próxima vez farei melhor.
+<0111> Vamos celebrar essa vitória.
+<0112> Parece que ainda tenho valor.
+<0113> Uma recompensa pelo bom trabalho.
+<0114> Um prêmio adequado para você.
+<0115> É um belo achado.
+<0116> Isto certamente será útil.
+<0117> Eu espero que meu exemplo tenha sido útil.
+<0118> Eu confio em você para lidar com o resto.
+<0119> Rápido, você deve tomar meu lugar!
+<0120> Você está pronto? Hora de trocar de lugar.
+<0121> Positivo.
+<0122> Excelente.
+<0123> Muito bem.
+<0124> Não posso aceitar isso.
+<0125> Minhas condolências.
+<0126> A sorte sorri para você hoje.
+<0127> Hmm, eu...
+<0128> Chegou a hora.
+<0129> Vamos lançar os dados.
+<0130> Vamos começar.
+<0131> Até logo.
+<0132> Hum...?
+<0133> Excelente.
+<0134> Fiquei impressionado!
+<0135> Que vergonha!
+<0136> Acredito que entendo os princípio básicos.
+<0137> Parece que usar isso me dará uma vantagem.
+<0138> Pela vitória...
+<0139> Espero que isso me ajude a dar a volta por cima.
+<0140> Meus agradecimentos.
+<0141> Parece que o cenário está montado.
+<0142> Você tem um momento?
+<0143> Você está planejando me testar?
+<0144> Será problemático se você não se recompor.
+<0145> Não acho que, só porque vencemos, devemos dizer coisas como "vamos beber juntos".
+<0146> Parece que você ainda não consegue entender.
+<0147> Estou pedindo para você parar de me chamar assim.
+<0148> Parece que desta vez eu venci.
+<0149> Entendo... sua determinação parece muito forte.
+<0150> Sua genialidade é necessária novamente.
+<0151> Muito bem. Eu vou te dar uma ajuda mais uma vez.
+<0152> Não tenho nada a reclamar.
+<0153> Continue com o bom trabalho.
+<0154> Ah, cara.
+<0155> Esse é o pior resultado até agora.
+<0156> Você parece ser perigoso.
+<0157> O fusível... eu falhei?
+<0158> Que misterioso.
+<0159> Eu estava me preparando há muito tempo para esse momento.
+<0160> Todos os canhões estão carregados.

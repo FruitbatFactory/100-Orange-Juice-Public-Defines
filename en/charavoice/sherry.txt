@@ -1,0 +1,161 @@
+
+<0000> Ey!
+<0001> Toh.
+<0002> There!
+<0003> There you go!
+<0004> I'll use a card.
+<0005> How about I play this?
+<0006> Like this?
+<0007> This is it!
+<0008> I'm setting this here.
+<0009> This ought to be fun.
+<0010> I'm putting a card down here.
+<0011> Who's going to walk into this, I wonder?
+<0012> Here's my special card.
+<0013> It's now or never.
+<0014> I'll play this card here!
+<0015> I have something good.
+<0016> All right, let's get started!
+<0017> I got her running again.
+<0018> All right, we're back up.
+<0019> Repairs complete.
+<0020> Okay, it's time to resume!
+<0021> Failed to restart the engine.
+<0022> We can't move yet.
+<0023> Guess we'll have to wait a little more.
+<0024> We'll be ready soon.
+<0025> Take that!
+<0026> Fire!
+<0027> Eeey!
+<0028> How do you like that!
+<0029> Ouch!
+<0030> How dare you!
+<0031> That hurts.
+<0032> That came from a blind spot!
+<0033> Time for repairs...
+<0034> With this... everything's fine.
+<0035> Ah, it saved my life.
+<0036> That's a relief.
+<0037> Oh, dear.
+<0038> Goodness.
+<0039> Where will it fly me over?
+<0040> This is so thrilling!
+<0041> We got beaten.
+<0042> Oh no, she's broken...
+<0043> She needs repairs.
+<0044> We won't be able to fly for a while.
+<0045> Bring it on!
+<0046> I request that you fight me.
+<0047> Here I come!
+<0048> I won't go easy!
+<0049> So you want to fight me?
+<0050> Let me see what you've got.
+<0051> If you want to fight, I am game.
+<0052> Don't be shy to challenge me.
+<0053> Prepare yourself!
+<0054> Can you dodge this!
+<0055> There!
+<0056> Got you!
+<0057> Good work.
+<0058> Ouch!
+<0059> Did I get hit!?
+<0060> I got hit!
+<0061> Owww!
+<0062> That was very good!
+<0063> This is bad.
+<0064> That really hurt.
+<0065> That was so close.
+<0066> You can't hit me.
+<0067> Not good enough.
+<0068> You still have a long way to go.
+<0069> Victory!
+<0070> One down!
+<0071> I won this one.
+<0072> I hope to fight you again.
+<0073> You defeated me.
+<0074> I lost.
+<0075> You're good.
+<0076> I surrender.
+<0077> I like this.
+<0078> Good progress.
+<0079> How nice!
+<0080> I'll keep getting more and more.
+<0081> Oh, that's unfortunate.
+<0082> I don't like this.
+<0083> Not fair.
+<0084> Oh no.
+<0085> Oh, dear.
+<0086> Someone got me.
+<0087> Ah, this is annoying.
+<0088> Who set this up?
+<0089> That's some enemy. 
+<0090> Oh, what a surprise.
+<0091> Looks like big trouble.
+<0092> Well, what should I do now?
+<0093> I'll gather stars.
+<0094> I'd rather go for stars.
+<0095> Let's gather plenty.
+<0096> This is my choice.
+<0097> Fufu, I guess I feel like doing this.
+<0098> I'm enjoying myself.
+<0099> How savage.
+<0100> This is what I usually do.
+<0101> Me? Sure.
+<0102> So you want to go with me.
+<0103> I believe in you.
+<0104> Let's give it our all.
+<0105> Let's get pumped.
+<0106> I'm so excited.
+<0107> I can't wait to have fun.
+<0108> Bring it!
+<0109> Boy, was that fun.
+<0110> Easy win.
+<0111> Let's go get Islay and toast to my victory.
+<0112> Let's have another round.
+<0113> I had no idea there was something like this.
+<0114> Oh, I'm glad I got this.
+<0115> Let's add it to the collection.
+<0116> I'll take it.
+<0117> Let's switch.
+<0118> All right, you handle the rest.
+<0119> It's your turn!
+<0120> I'll leave this to you.
+<0121> Good.
+<0122> Nice.
+<0123> Yes.
+<0124> No.
+<0125> That's bad.
+<0126> Ah, talk about lucky.
+<0127> What is it?
+<0128> Now, let's go!
+<0129> Here goes!
+<0130> Go, go.
+<0131> Hello.
+<0132> Hmm...
+<0133> There, there.
+<0134> You impressed me.
+<0135> Uh-oh.
+<0136> Seems like a fun card to play!
+<0137> Good to know I can do this.
+<0138> Not sure what this does... but, here goes!
+<0139> Allow me to use this one.
+<0140> Come at me, Marc!
+<0141> Fufu, I've been waiting for this moment.
+<0142> You still have a lot to work on, little rascal.
+<0143> Are those ears in fashion these days?
+<0144> No going easy on me, please.
+<0145> Do you have any idea how ungentlemanly you look right now?
+<0146> Behave yourself, okay?
+<0147> You're one dangerous girl.
+<0148> Wow, that's quite a magic trick.
+<0149> Just looking at her... makes me wanna like her; I wonder why.
+<0150> You're as much of a small fry as you look.
+<0151> It's not as safe as it used to be around here.
+<0152> I'm getting the thrills!
+<0153> We'll decide who's stronger once and for all.
+<0154> It's mine now.
+<0155> Taking aim.
+<0156> I'll challenge you! Just kidding.
+<0157> What kind of equipment will I get?
+<0158> It's not good for you to sleep down there.
+<0159> Maybe I overdid it a little.

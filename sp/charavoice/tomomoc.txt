@@ -1,0 +1,151 @@
+<0000> Eeey.
+<0001> Aquí tienes.
+<0002> Ten.
+<0003> Bien.
+<0004> Usaré esta carta.
+<0005> Liiiisto.
+<0006> Usaré esta.
+<0007> Aaay.
+<0008> Aquí se quedará.
+<0009> ¿Puedo simplemente dejar esto aquí?
+<0010> Solo dejaré esto aquí.
+<0011> Este panel se ve bien.
+<0012> No quiero esforzarme demasiado~
+<0013> Ueeeey.
+<0014> No lo recuerdo bien, ¿qué es lo que hace esta carta?
+<0015> ¿Debería usarla ahora?
+<0016> Helado Milagroso de Frijoles Rojos~
+<0017> ¿Quéee? ¿Ya es hora de levantarse...?
+<0018> Necesito dormir un poco más~
+<0019> Ya, está bien, me levantaré...
+<0020> Hmmm.
+<0021> Creo que descansaré un poco más.
+<0022> La holgazanería es lo mejor~
+<0023> Nunca más volveré a levantarme.
+<0024> Bien, podré seguir descansando.
+<0025> Tey.
+<0026> ¡Yoh!
+<0027> ¡Oryah!
+<0028> ¡Soy!
+<0029> Ouch.
+<0030> ¿Cuál es tu problema?
+<0031> Um... ¿Qué fue eso?
+<0032> Hoooombre.
+<0033> Aaaaaaaah.
+<0034> Eso sí que dio en el clavo~
+<0035> Esto sí que es vida~
+<0036> ¡Se siente tan bieeeen!
+<0037> Ew.
+<0038> Nooo.
+<0039> Ueeeh.
+<0040> ¿Qué está sucediendo?
+<0041> Estoy acabada...
+<0042> Hora de descansar.
+<0043> Tomaré una siesta~
+<0044> ¡Buenas noches!
+<0045> Quítate del camino.
+<0046> Bien, estoy lista para esto.
+<0047> Vamos.
+<0048> Prepárate para perder.
+<0049> Realmente no deberíamos hacer esto.
+<0050> Nooo, no quiero moverme.
+<0051> ¿Por qué a mí?
+<0052> Déjame descansar en paz...
+<0053> Eyeeey.
+<0054> Ioo-ioo.
+<0055> Orya-rya.
+<0056> Toma esto.
+<0057> Ouch.
+<0058> ¡Ya basta!
+<0059> Eso es más de lo que puedo recibir.
+<0060> Eres horrible.
+<0061> ¡Eso fue de lo peor!
+<0062> Esto es demasiado dolor.
+<0063> Todo mi cuerpo está adolorido.
+<0064> Gyaaaaah.
+<0065> No sé cómo he esquivado eso...
+<0066> ¿Qué? Pero si no he hecho nada.
+<0067> ¡Ten cuidado!
+<0068> ¡Me asustas!
+<0069> Yaaay.
+<0070> Yupiii.
+<0071> Sí, claro, yo gané.
+<0072> Te derroté... ¿Te sientes bien?
+<0073> Argh.
+<0074> Me han golpeado...
+<0075> Se que soy una persona adulta, pero quisiera llorar en este momento.
+<0076> Gujee.
+<0077> Esto es muy pesado.
+<0078> No puedo llevar tantas.
+<0079> Me estoy hundiendo en estrellas.
+<0080> B-bien.
+<0081> Ahora me siento mucho más ligera.
+<0082> Ah, he perdido algunas estrellas...
+<0083> ¿A dónde van todos?
+<0084> Uh... eh, no importa.
+<0085> ¡Gue! ¿Qué rayos es esto?
+<0086> ¡Quién ha hecho esto!
+<0087> Esto es horrible. Realmente horrible.
+<0088> Ayúdame.
+<0089> Esta situación está siendo un poco molesta.
+<0090> ¿Qué? Ha llegado algo extraño.
+<0091> Solo quiero tener una vida pacífica...
+<0092> Ah, parece que tendremos problemas.
+<0093> Si tuviera que escoger... iría con esto, supongo.
+<0094> Suena mejor que pelear.
+<0095> Sí, está bien, iré a conseguir algunas de ellas.
+<0096> Bien, me haré millonaria con ellas.
+<0097> Escogeré de forma aleatoria.
+<0098> Eh, esta.
+<0099> Iré con esto.
+<0100> Creo que necesitaré más ejercicio para perder un poco de peso...
+<0101> ¿Qué? ¿Es mi turno?
+<0102> Iba a usar este día para descansar.
+<0103> Nooo, quiero quedarme en mi cama.
+<0104> Solo quiero holgazanear un poco por ahí...
+<0105> Uuh, vamos a divertirnos...
+<0106> Supongo que lo intentaré...
+<0107> ¿Cuál es la definición de trabajar duro?
+<0108> Vamos...
+<0109> Ahora podré volver a la cama.
+<0110> Finalmente puedo descansar...
+<0111> Buenas... noches...
+<0112> Yaaay, lo hice, hurra.
+<0113> Ten, toma esto.
+<0114> Hemos conseguido algo nuevo.
+<0115> Ah, eso se ve bien. Déjame ver.
+<0116> Aquí.
+<0117> Saldré de aquí.
+<0118> Tú puedes hacerlo.
+<0119> Muy bien, iré a descansar.
+<0120> Vaya, estaba pensando en dormir cinco minutos más. Gracias.
+<0121> Bien.
+<0122> Buen trabajo.
+<0123> Por supuesto.
+<0124> ¡No, nunca!
+<0125> ¿Quéeeee?
+<0126> Tienes suerte.
+<0127> ¿Ueeeh?
+<0128> Supongo que lo intentaré un poco...
+<0129> Hora de los dados.
+<0130> Tú puedes hacerlo~
+<0131> ¡Io!
+<0132> Hmmaaah.
+<0133> Genial.
+<0134> ¿En serio? Eso es super genial.
+<0135> Ugh... Ugh...
+<0136> ¿Por qué tengo esto?
+<0137> Eh, qué importa, solo usaré esto.
+<0138> ¿Qué es esto?
+<0139> ¡Aquí voy!
+<0140> Gracias.
+<0141> ¡Nooo! ¡Mi descanso no puede haber acabado aún!
+<0142> ¿Qué? Nadie me había advertido que tendría que levantarme tan temprano...
+<0143> Solo... 5 minutos más...
+<0144> Dejame descansar un po-... un poco más...
+<0145> Wiiii, una siesta grupal.
+<0146> No hay nada mejor que una siesta grupal.
+<0147> ¿No es esta la definición de la felicidad?
+<0148> Todas deberíamos descansar.
+<0149> Pijamada.
+<0150> *Mordisco, mordisco, mastico, mastico*...

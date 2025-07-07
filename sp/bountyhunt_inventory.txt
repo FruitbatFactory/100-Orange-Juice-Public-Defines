@@ -1,0 +1,134 @@
+< INVENTORY_MEDICINALHERB >
+name=Hierba Medicinal
+descr=Una hierba con propiedades curativas. La posadera lo necesita para hacer comida.
+
+< INVENTORY_TURNISLIME >
+name=Rába-limo
+descr=Solía ser una parte del cuerpo de Rábalimo. La posadera lo necesita para hacer un elixir.
+
+< INVENTORY_CHILLINGWIND >
+name=Bolsa de Viento Helado
+descr=Una bolsa repleta de una brisa extremadamente helada. Sostenerlo sin cuidado podría congelar tus manos en un instante. La Pastelera del Cielo lo necesita para hacer helado.
+
+< INVENTORY_FLOUR >
+name=Harina Infinita
+descr=Una bolsa repleta de harina que no parece tener fin. ¿Acaso qué es lo que tiene esa harina?  La Pastelera del Cielo lo necesita para hacer dulces.
+
+< INVENTORY_BROKENBLADE >
+name=Espada Rota
+descr=Un arma usada y tirada por aquellos que han caído. La Herrera lo necesita para crear herramientas para cortar.
+
+< INVENTORY_TROLLITEHORN >
+name=Cuerno de Duendito
+descr=Un viejo cuerno usado, perteneciente a un Duendito. Al encontrar uno de estos, podrás sentir que tus problemas se están acercando. La Herrera lo necesita para crear herramientas para cocinar.
+
+< INVENTORY_MISTYSAP >
+name=Savia Nebulosa
+descr=Savia de árbol. Tiene un sabor dulce. La Posadera lo necesita para hacer dulces.
+
+< INVENTORY_CACTUS >
+name=Cactus
+descr=Un cactus del desierto. Tiene agua dentro de él. La Herrera quiere tomar su jugo.
+
+< INVENTORY_GOST >
+name=Espíritu Poltasma
+descr=Un Poltasma amistoso pero derrotado. La Alquimista quiere hacer algo comestible con él.
+
+< INVENTORY_WOLLY >
+name=Leche de Laneja
+descr=Leche fresca de Laneja. La Pastelera del Cielo lo necesita para hacer pan.
+
+< INVENTORY_BUCKET >
+name=Balde Vacío
+descr=Un balde vacío que puede ser usado para llevar algunas cosas.
+
+< INVENTORY_HEATGLOVES >
+name=Guantes Resistentes al Calor
+descr=Estos guantes podrán ayudarte a soportar incluso hasta las más altas temperaturas.
+
+< INVENTORY_GLOBBU >
+name=Fundita
+descr=Un bromista magmático al que le gusta incendiar a los demás.
+
+< INVENTORY_SANDALS >
+name=Sandalias de Madera
+descr=Un par común de zapatos que te permiten correr sin el riesgo de lastimar tus pies. Recibes +1 MOV al tenerlos.
+
+// Winter 2020 Event Special Item (hola)
+< INVENTORY_DELICACY >
+name=Delicadeza
+descr=Un bocado para Cook. Podrás conseguir hasta un máximo de 3 por juego. 
+
+< INVENTORY_LEATHERBOOTS >
+name=Botas de Cuero
+descr=La creación más reciente de los famosos talabarteros, y una mejora directa de las sandalias de madera. Añade +2 MOV.
+
+< INVENTORY_GALESHOES >
+name=Zapatos de Vendaval
+descr=Impulsados por una magia muy poderosa. Nunca te sentirás cansado al usar este par de zapatos. Añade +2 MOV, y +1 MOV adicional al tener 2 o menos contratos en mano.
+
+// Winter 2020 Event Special Item (hola)
+< INVENTORY_DELICACY >
+name=Delicadeza
+descr=Un bocado para Cook. Podrás conseguir hasta un máximo de 3 por juego.
+
+< INVENTORY_CURSEDSHOES >
+name=Zapatos Mejorados de Vendaval
+descr=Añade +4 MOV, pero solo podrás tener un contrato en mano.
+
+< INVENTORY_ATK1 >
+name=Galleta
+descr=Úsala para recibir +1 ATK durante las próximas 2 batallas. No puedes recibir este efecto dos veces (el efecto más reciente tiene mayor prioridad).
+
+< INVENTORY_ATK2 >
+name=Pastelito
+descr=Úsalo para recibir +2 ATK durante las próximas 2 batallas. No puedes recibir este efecto dos veces (el efecto más reciente tiene mayor prioridad).
+
+< INVENTORY_ATK3 >
+name=Pastel
+descr=Úsalo para recibir +3 ATK durante las próximas 2 batallas. No puedes recibir este efecto dos veces (el efecto más reciente tiene mayor prioridad).
+
+< INVENTORY_DEF1 >
+name=Dulce
+descr=Úsalo para recibir +1 DEF durante las próximas 2 batallas. No puedes recibir este efecto dos veces (el efecto más reciente tiene mayor prioridad).
+
+< INVENTORY_DEF2 >
+name=Caramelo
+descr=Úsalo para recibir +2 DEF durante las próximas 2 batallas. No puedes recibir este efecto dos veces (el efecto más reciente tiene mayor prioridad).
+
+< INVENTORY_DEF3 >
+name=Chocolate
+descr=Úsalo para recibir +3 DEF durante las próximas 2 batallas. No puedes recibir este efecto dos veces (el efecto más reciente tiene mayor prioridad).
+
+< INVENTORY_EVD1 >
+name=Helado
+descr=Úsalo para recibir +1 EVD durante las próximas 2 batallas. No puedes recibir este efecto dos veces (el efecto más reciente tiene mayor prioridad).
+
+< INVENTORY_EVD2 >
+name=Sorbete
+descr=Úsalo para recibir +2 EVD durante las próximas 2 batallas. No puedes recibir este efecto dos veces (el efecto más reciente tiene mayor prioridad).
+
+< INVENTORY_EVD3 >
+name=Gelato
+descr=Úsalo para recibir +3 EVD durante las próximas 2 batallas. No puedes recibir este efecto dos veces (el efecto más reciente tiene mayor prioridad).
+
+< INVENTORY_ASSASSINBADGE >
+name=Insignia de Asesino
+descr=Una insignia marcando la membresía en un gremio de asesinos expertos. Todo aquél que porte esta insignia será recompensado por derrotar a otros jugadores.
+
+< INVENTORY_ELIXIR >
+name=Elixir
+descr=Úsalo para recuperar todos tus PV. También te curará de los efectos inflijidos por los Invasores y limpiará las maldiciones recibidas por contratos en mano.
+
+< INVENTORY_HARBINGERSHIELD >
+name=Escudo Intrépido
+descr=La prueba de que El Presagio ha sido derrotado. Usar este escudo incrementará tu valentia, reduciendo todo el daño recibido dentro de un combate por 1.
+
+< INVENTORY_ROGUEBLADE >
+name=Rogue's Twin Blades
+Las Cuchillas Gemelas del Rufián
+descr=La prueba de que El Rufián Perdido ha sido derrotado. Usar estas cuchillas te otorgará un 20% de probabilidades de que un daño sea crítico. (Un Daño Crítico duplica el valor otorgado por los dados de ataque de una unidad.) 
+
+< INVENTORY_DARKCHOCOMOUSSE >
+name=Estrella de Chocolate Oscuro
+descr=La prueba de que el Espumatón de Chocolate Oscuro ha sido derrotado. Su misterioso y dulce poder te otorgará 3 estrellas por cada punto de daño realizado en un combate. Tus enemigos también perderán 3 estrellas por cada punto de daño recibido en un combate.

@@ -1,0 +1,165 @@
+<000> Aqui.
+<001> Ali.
+<002> Fufufu.
+<003> Lá vai.
+<004> Okay eu irei com este.
+<005> Eu espero que isto ajude.
+<006> Vejamos.
+<007> Por que eu não faço isso?
+<008> eu me sinto um tanto travessa.
+<009> *Coloca uma carta sorrateiramente*...
+<010> Fufu, eu acabei de fazer algo ruim.
+<011> Isso até que é divertido.
+<012> Farei de mim mais forte.
+<013> Bons super poderes.
+<014> Entendi. É assim que isto funciona, então~?
+<015> Eu acho que isto me dará forças.
+<016> Aqui vai uma montanha de doces!
+<017> Eu me pergunto o que está acontecendo no jogo agora.
+<018> Rapaaaz, descansei bastante.
+<019> Hmm...?
+<020> Eu estou totalmente pronta para ir!
+<021> Vou demorar só mais um pouquinho...
+<022> Hmm, não se saiu bem?
+<023> Bem, não é preciso ter pressa.
+<024> Eu tenho que esperar aqui um pouco mais... Imagino?
+<025> Bonk!
+<026> Desculpa se isto dói.
+<027> Toryah!
+<028> Ey!
+<029> Wah!
+<030> Isso doeu.
+<031> Gee.
+<032> Não seja tão duro, okay?
+<033> Estou bem melhor agora.
+<034> Eu sinto como se minha energia estivesse voltando a mim.
+<035> Isto é incrível.
+<036> Wow... Eu não me sinto nem um pouco cansada mais.
+<037> Oh?
+<038> O que está acontecendo?
+<039> Fuaaah.
+<040> Isso é engraçado.
+<041> Eu acho que estou um pouco cansada agora.
+<042> Hora de dormir...
+<043> Estou exausta.
+<044> *Boceja*
+<045> Vamos lutar uma luta divertida.
+<046> Eu trouxe diversos snacks comigo... Você quer alguns?
+<047> Irei com tudo nessa luta.
+<048> Vamos lá!
+<049> Você deseja alguns snacks também?
+<050> Fufu, claro, eu posso jogar com você.
+<051> Eu não sou uma boa lutadora.
+<052> Ãhn, você quer lutar comigo...?
+<053> O poder da... Sweet Blogger?
+<054> Parece que posso fazer magia agora.
+<055> Eu não sei o que fazer exatamente, mas...
+<056> Mágica... Desse jeito?
+<057> Eita.
+<058> Você me machucou.
+<059> Boo.
+<060> Ow!
+<061> Uwah!
+<062> Isto pode ser mais do que consigo aguentar.
+<063> De jeito nenhum.
+<064> Eu posso ficar brava, sabia?
+<065> Meu corpo se sente leve como uma pena.
+<066> Você acabou de fazer algo?
+<067> Minha nossa?
+<068> Fufufu.
+<069> Rapaz, isto foi divertido.
+<070> Nós devíamos jogar de novo no futuro.
+<071> Me convide para jogar este jogo de novo a qualquer momento.
+<072> Foi um bom exercício para mim.
+<073> Eu acho que acabei de queimar muitas calorias.
+<074> Agora estou com muita fome para se mover.
+<075> Eu devo ter passado dos limites em batalha. 
+<076> Ahaha, você é bem forte.
+<077> Oh? Acabei de ser paga por algo?
+<078> Fufufu, essas me fazem feliz.
+<079> Eu acho que vou comprar alguns doces com essas depois.
+<080> Certo!
+<081> Hmm, que pena...
+<082> Eu não estou muito feliz com isso.
+<083> minha mesada...
+<084> Ãhn? Um buraco na minha carteira...?
+<085> Isso me pegou de surpresa.
+<086> Deve ser uma pegadinha de alguém.
+<087> Santo! Deus!
+<088> Hmm?
+<089> Eita, me arrepiou.
+<090> Estou em uma crise?
+<091> Eu estou com muito mal pressentimento...
+<092> Isto... não pode ser bom...
+<093> Eu quero fazer diversos doces, então... Irei com isto.
+<094> Eu farei uma sobremesa com essas estrelas.
+<095> As estrelas são lindas, não são?
+<096> Certo, vou conseguir pra mim diversas estrelas.
+<097> Vamos nos divertir bastante juntos, pessoal.
+<098> Com quem eu quero jogar?
+<099> Talvez eu deva usar meu poder de Sweet God.
+<100> Fufufu, se exercitar é divertido, né?
+<101> Uma Sweet God... É o que eu sou, aparentemente.
+<102> Parece que sou capaz de usar mágica. Mal podemos esperar para ver como funciona, não é?
+<103> Sweet... God... Então, é uma deusa dos doces?
+<104> Olhe para mim... Quando foi que fiquei assim?
+<105> Vamos nos divertir muuuuito e ter um moooontão de doces.
+<106> Começo de jogo. Vamos lá.
+<107> Agora que sou uma Sweet God, eu devia ser capaz de fazer mais e melhor.
+<108> O que esse jogo pode acabar se tornando?
+<109> É minha vitória. Pessoal, vamos celebrar.
+<110> Foi muito divertido, fufufu.
+<111> Venci o jogo? Por que não celebramos?
+<112> Eu estou empolgada para jogar de novo com vocês.
+<113> Você conseguiu algo bom?
+<114> Se o que você acabou de conseguir é uma sobremesa... você deixaria eu prová-la?
+<115> Fufu, este é um ótimo presente.
+<116> O que você conseguiu? Era algo que queria?
+<117> Certo, vou sair e você entra.
+<118> Você quer trocar? Obrigada.
+<119> Creio que está na hora de trocar?
+<120> Confio em você.
+<0121> Okay.
+<0122> Wow.
+<0123> Claro, você pode deixar comigo.
+<0124> Eu tenho que dizer não...
+<0125> Um, okay...
+<0126> Você conseguiu!
+<0127> Mhm?
+<0128> Lá vai!
+<0129> Vamos rolar!
+<0130> Eu sei que você consegue!
+<0131> Olá!
+<0132> Bem, ãhn?
+<0133> Boa.
+<0134> Isso é realmente incrível.
+<0135> Minha nossa...
+<0136> Quando eu consegui esta carta?
+<0137> Isso também é algo que sou capaz de fazer como uma Sweet God?
+<0138> Aqui vou eu!
+<0139> O que isto faz? Mal posso esperar para descobrir.
+<0140> Obrigada.
+<0141> Woow, estas asas nas suas costas são muito belas.
+<0142> Sweet Creator...?
+<0143> Próxima vez que você criar uma sobremesa, deixe-me provar, okay?
+<0144> Esse cheiro doce seu estava me distraindo muito~
+<0145> Eu não fazia ideia de que você era uma Sweet God também, Q.
+<0146> O que é isso? Você quer tanto assim jogar comigo?
+<0147> Minha nossa, você também está com um cheiro bem doce, Q...
+<0148> Isso foi incrível~
+<0149> Uma Sweet God?
+<0150> E-Eu sou uma Sweet God também, sabia?
+<0151> Nós devíamos ter uma festa de doces em algum momento.
+<0152> Sweet Gods são fortes.
+<0153> Sim, o sabor é incrível.
+<0154> Que tal esse? Parece delicioso, né?
+<0155> Macio e derrete na sua boca.
+<0156> Agora estou com fome.
+<0157> Eu tenho que tirar ótimas fotos disso...
+<0158> Isso parece bem fofo e saboroso.
+<0159> Fufu, olhar para os doces me faz feliz.
+<0160> Este aqui parece delicioso também~
+<0161> O que você quer para a hora do lanche hoje?
+<0162> Qual o problema? Você está com fome?
+<0163> Vamos comprar alguns snacks mais tarde.
+<0164> Eu farei o que quer que você queira comer hoje.

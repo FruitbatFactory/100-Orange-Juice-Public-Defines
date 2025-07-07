@@ -1,0 +1,172 @@
+<0000> All right.
+<0001> What will I get?
+<0002> Off I go.
+<0003> Give me a good one.
+<0004> I'll just use this one.
+<0005> It's time to play a card.
+<0006> I'll turn the tables.
+<0007> I'm using this.
+<0008> It's trap time.
+<0009> I'm setting this here.
+<0010> I guess this is a good spot.
+<0011> Here, a trap.
+<0012> I know it's childish if I do this, but...
+<0013> There won't even be a bone left to bury.
+<0014> I'll smash you down.
+<0015> Let me finish you off.
+<0016> For the future of my toy store!
+<0017> Ugh...
+<0018> I can't waste my time sleeping.
+<0019> I'll make up for lost time.
+<0020> At last...
+<0021> Damn...
+<0022> Crap...
+<0023> I'm disappointed in myself.
+<0024> Age is taking its toll on me.
+<0025> Hah!
+<0026> Go down!
+<0027> I'll crush you!
+<0028> Urah!
+<0029> Gah.
+<0030> Ugh.
+<0031> Nuh.
+<0032> Ow.
+<0033> Phew...
+<0034> The wounds are gone.
+<0035> Okay, I can keep going.
+<0036> The game goes on!
+<0037> Hmm.
+<0038> Where am I going?
+<0039> Where am I?
+<0040> I'm warping?
+<0041> I feel miserable.
+<0042> Tsk.
+<0043> I could've done better.
+<0044> Ah...
+<0045> Fight me!
+<0046> Let's get the job done.
+<0047> Are you opposing me?
+<0048> Are you ready to get beaten?
+<0049> Out of my way!
+<0050> I guess fighting is the only choice.
+<0051> Whatever happens, don't blame me.
+<0052> You're paying the price for this.
+<0053> Dah!
+<0054> Take this!
+<0055> Hah!
+<0056> You're going down.
+<0057> Oww.
+<0058> Guh.
+<0059> You're good.
+<0060> Ugh.
+<0061> What the?
+<0062> You're better than I thought.
+<0063> I'm impressed.
+<0064> Guoooh!
+<0065> It won't reach me.
+<0066> Not good enough.
+<0067> Hmph.
+<0068> Where did you aim at?
+<0069> I must win.
+<0070> I can't afford to lose.
+<0071> You can sleep down there.
+<0072> Loser.
+<0073> Not like this...
+<0074> Son of a...
+<0075> You've gotta be kidding me...
+<0076> ......
+<0077> More.
+<0078> I have to get myself more of these.
+<0079> Gimme much more.
+<0080> I need to gather more of these.
+<0081> I can't afford to lose any of these.
+<0082> They dropped out of my hands.
+<0083> My stars.
+<0084> Damn it.
+<0085> Oh shoot!
+<0086> Someone got me.
+<0087> A trap, huh.
+<0088> Something just happened.
+<0089> That guy looks hard to beat.
+<0090> Let the grown up handle this.
+<0091> This is going to be challenging.
+<0092> Here comes a big guy.
+<0093> I'll go for stars.
+<0094> I choose to get stars.
+<0095> Anyway, I'll gather these.
+<0096> What I need is stars.
+<0097> Looks like I need to get some people out of my way.
+<0098> I'll knock everyone down.
+<0099> I'll beat every last one of my opponents.
+<0100> I'm gonna defeat all of you.
+<0101> Arthur here.
+<0102> For the future's sake.
+<0103> I'll get my hands on victory.
+<0104> Let's do this together.
+<0105> So it's begun.
+<0106> All right...
+<0107> It's time to work.
+<0108> All right, let's go.
+<0109> Seems like I won.
+<0110> Hmph, that was easy.
+<0111> This marks another step toward my brilliant future.
+<0112> I guess I should open the store now.
+<0113> We've got good stuff in stock.
+<0114> It's a new product.
+<0115> Take it.
+<0116> This is a good item.
+<0117> Take it from here, will you?
+<0118> Thanks.
+<0119> Take care of the rest.
+<0120> I'm depending on you.
+<0121> Okay.
+<0122> Nice.
+<0123> Sure...
+<0124> No.
+<0125> What...?
+<0126> You're in luck.
+<0127> Hmm?
+<0128> Let's go.
+<0129> Rolling the dice.
+<0130> Here we go.
+<0131> Oh, it's you.
+<0132> Hmph...
+<0133> Good.
+<0134> Great job.
+<0135> Oh crap.
+<0136> Not that I do this oftentimes.
+<0137> I'm gonna borrow this.
+<0138> Let me use this.
+<0139> I like this.
+<0140> You have my thanks.
+<0141> Santa...
+<0142> It's you, huh...
+<0143> Looks like I'm the winner this time.
+<0144> I thought I might lose.
+<0145> Nico.
+<0146> Are you going through a rebellious phase now?
+<0147> Be a good girl and stay put, okay?
+<0148> Ugh, you have grown up.
+<0149> Is that a plush... I guess not?
+<0150> Now, it's business time.
+<0151> Little girl, do you like toys?
+<0152> Why... are you here...?
+<0153> It's about the time for that event.
+<0154> It's the best time of year for my business.
+<0155> Today's going to be a very busy day.
+<0156> All right, I'm going to go help deliver gifts.
+<0157> Little girl, we have a lot of toys at our store.
+<0158> Oh, did our toys call to you, little girl?
+<0159> Come and buy at Rbit hobby shop.
+<0160> Ugh... I'll get you a 30% discount voucher.
+<0161> Welcome.
+<0162> You want to play here?
+<0163> Hmph.
+<0164> Well, that's the way it is.
+<0165> That's pretty good.
+<0166> Not bad.
+<0167> Cheer up. This is a special one-time thing. Take good care of it.
+<0168> Boy, are you out of luck. Here, take it.
+<0169> Wh-what the...
+<0170> You're crazy lucky.
+<0171> Happy Christmas!

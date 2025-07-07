@@ -1,0 +1,1284 @@
+< CARD_BOOST_COOP_MYWILDFRIENDS >
+name=Mis Amigos Salvajes
+descr=Convoca a una unidad aliada (que sea una unidad salvaje disponible) en tu panel actual.\nEsta unidad recibe 2 PV, desafiará a todos sus enemigos y otorgará las estrellas recibidas a su convocante.\nConvocaciones ya activas serán reemplazadas al usar esta carta. 
+flavor="Tomarse un descanso puede ser bueno de vez en cuando." ―Teotoratta
+
+< CARD_TRAP_COOP_BANKOFPOPPO >
+name=Bank of Poppo
+descr=El jefe pierde estrellas por un valor equivalente al Número del Capítulo x2, la misma cantidad de estrellas son depositadas en la trampa, y la misma se queda en el campo de juego..\nLa segunda unidad en activar esta trampa recibe esas estrellas.
+flavor="¡Mi dinero...!" ―Kai
+
+< CARD_BATTLE_COOP_CONTESTOFCUTENESS >
+name=Contest of Cuteness
+descr=Esta carta solo puede ser usada por el atacante. La batalla será decidida por un concurso de lindura.\nLindura = 10 - Máx. PV - ATK + EVD, pero no puede ser menos de 0.\nEn vez de atacar, ambas unidades tirarán dos dados y añadirán a su valor total de Lindura. La unidad que tenga un mayor valor de Lindura se robará estrellas equivalentes al Nivel del Jugador x 5 y una victoria. La batalla entonces acabará.
+flavor="¡Ahora dinos! ¡¿Quién es la más linda aquí?!" ―Saki
+
+< CARD_BOOST_COOP_GENTLEMANSBATTLE >
+name=Batalla de Caballeros
+descr=Escoja a un enemigo cuyos PV estén enteros. Una vez que esta batalla termina, tu turno se acabará.
+flavor="¡Toma esto!" ―Maestro del Gremio
+
+< CARD_GIFT_COOP_POPPOTHESNATCHER >
+name=Poppo la Ladrona
+descr=Pierdes -1 DEF. Al encontrarte con otro enemigo en tu turno, roba estrellas equivalentes a su nivel x 3. Deshabilita la verificación de normas. Esta carta es descartada al ser usada o al morir.
+flavor="Pokyakya!!" ―Poppo
+
+< CARD_BATTLE_COOP_SINKORSWIM >
+name=Nadar o Hundirse
+descr=Recibes -1 ATK, -1 DEF, -1 EVD. Si ganas la batalla, recibes 10 estrellas y 1 victoria.
+flavor="¡Muy bien, es hora de apostarle a las probabilidades más grandes!" ―Yuki
+
+< CARD_BATTLE_COOP_DECEPTIVEDISARMING >
+name=Desarmamiento Engañoso
+descr=Si no te noquean en esta batalla, la próxima carta del jefe no se activará. Esta carta solo puede ser usada contra el jefe.
+flavor="¡¿El tren está repleto de cosas peligrosas?!" ―Tomato
+
+< CARD_EVENT_COOP_PETSNACKS >
+name=Bocadillos Para Mascotas
+descr=El jefe y todos sus secuaces recibirán -1 ATK en su próxima batalla. Este efecto puede ser aplicado más de una vez.
+flavor="¡Es la hora de la merienda! ¡A comer!" ―Syura
+
+< CARD_BOOST_COOP_FREIGHT >
+name=Mercancía
+descr=Al detenerte en tu propio hogar, esta carta será descartada y recibirás 5 estrellas.\nEsta carta será descartada al ser usada.
+flavor="Podrás quedarte con toda esa mercancía, si, podrás hacer eso." ―Negociante
+
+< CARD_EVENT_COOP_UNPAIDWORK >
+name=Trabajo Sin Dinero
+descr=Duración: 1 capítulo.\nMientras este efecto se encuentre activo, los jugadores no podrán ser forzados a perder estrellas.
+flavor="¿¡En dónde está mi dinero!?" ―Chris
+
+< CARD_EVENT_COOP_INDISCRIMINATEFIRESUPPORT >
+name=Apoyo Aéreo Indiscriminado
+descr=Duración: Infinita.\nUna unidad escogida de forma aleatoria recibe un punto de daño. Este efecto se repite al comienzo de tu turno. Este efecto se acaba cuando una unidad es noqueada.\nLos aliados no sufrirán daño causado por este efecto.
+flavor="......" ―Sora
+
+< CARD_EVENT_COOP_DINNER >
+name=La Cena
+descr=Cura a todas tus aliados por 3 PV.
+flavor="Vamos a cenar todos juntos." ―Natsumi
+
+< CARD_EVENT_COOP_FORCEDREVIVAL >
+name=Resurrección Forzada
+descr=Todas las unidades noqueadas serán revividas con la mitad de sus puntos de vida.
+flavor="Todos ustedes se levantarán muy pronto." ―Kiriko
+
+< CARD_EVENT_COOP_REBELLION >
+name=Rebelión
+descr=Duración: 2 capítulos.\nSi la cantidad de PV del jefe es mayor a la suma de los PV de todos los jugadores, todos los jugadores recibirán +1 ATK, +1 DEF y +1 EVD en el comienzo de cada batalla contra el jefe.
+flavor="El gremio te traicionará en poco tiempo... recuerda mis palabras." ―Sherry
+
+< CARD_TRAP_COOP_BANKOFPOPPO >
+name=El Banco de Poppo
+descr=Si un enemigo activa esta trampa, el Jefe perderá estrellas equivalentes al Número de Capítulo x 2, depositando estrellas esta trampa por el mismo valor. La trampa se encontrará en el campo de juego hasta que sea activada una vez más: Entonces recibirás las estrellas depositadas.
+flavor="¡Mi dinero...!" ―Kai
+
+< CARD_BATTLE_COOP_CONTESTOFCUTENESS >
+name=Concurso de Lindura
+descr=Solo puede ser usada por el atacante. Esta batalla será decidida por un concurso de lindura.\nLindura = 10 - Máx. PV - ATK + EVD, pero no menos de 0.\nEn vez de tirar dados para atacar, ambas unidades tirarán 2 dados y añadirán al valor total de Lindura. La unidad que tenga una mayor cantidad de Lindura le robará estrellas equivalentes al Nivel del Jugador x5 y recibirán 1 Victoria; entonces, la batalla acabará.
+flavor="Ahora dinos, ¡¿quién es la más linda aquí?!" ―Saki
+
+< CARD_HYPER_COOP_ALTE >
+name=Autodestrucción
+descr=Al morir, daña al enemigo con un valor equivalente a los PV máximos del jugador. El enemigo no recibe estrellas ni victorias, pero pierde la mitad de sus estrellas.
+flavor="Lo siento... no podré regresar..." ―Alte
+
+< CARD_HYPER_COOP_ARU >
+name=Regalo Para Ti
+descr=Todas las unidades toman cartas del mazo hasta llenar sus manos. Si la mano ya está llena, toma una sola carta.
+flavor="Estos regalos son para los niños buenos." ―Aru
+
+< CARD_HYPER_COOP_ARTHUR2 >
+name=Tienda de Pasatiempos Rbit
+descr=Toma una carta del mazo. Esta carta permanece en el campo de juego al ser activada, pero puede ser reemplazada por otra trampa. No afecta a los enemigos y al dueño de esta carta.
+flavor="Muy bien, es hora de abrir la tienda." ―Arturo
+
+< CARD_HYPER_COOP_ARUSCRAMBLE >
+name=El Trabajo de Santa
+descr=Al comienzo de tu turno, podrás enviar una carta de nivel usable desde tu mano a la de un jugador aleatorio. Recibes estrellas equivalentes al nivel de la carta enviada x5. Esta carta se perderá al ser noqueado o al ser usada.
+flavor="¡Niños en todo el mundo, ahí vamos!" ―Aru
+
+< CARD_HYPER_COOP_CHICKEN >
+name=El Huevo Dorado
+descr=Recibe estrellas equivalentes a tu nivel x10.
+flavor="¡Cluuuuck!" ―Gallina
+
+< CARD_HYPER_COOP_COOK >
+name=La Guía de la Hada Veleta
+descr=Efecto Guardado.\nTiras 2 dados para todas tus acciones. Este efecto no se activará dentro de una batalla, y se perderá al morir.
+flavor="¡*Pío, pío*! Cook quiere ir por aquí." ―Cook
+
+< CARD_HYPER_COOP_FERNET >
+name=Derribo Aéreo
+descr=Todos los enemigos reciben 1-2 puntos de daño. Recibes 15 estrellas por cada unidad noqueada.
+flavor="Hmph, haré que todos caigan." ―Fernet
+
+< CARD_HYPER_COOP_HIME >
+name=Cadenas Unidas
+descr=Efecto Guardado\nTodos los enemigos perderán su próximo turno. Aplica el efecto de "Encadenado" a todos los enemigos afectados. (Recibe -2 EVD y -1 MOV) Duración: 2 capítulos. 
+flavor="No me gusta hacer este tipo de cosas." ―Hime
+
+< CARD_HYPER_COOP_IRU >
+name=Rifle Extendido de Fotones
+descr=★Costo: Nivel x5.\nUn enemigo escogido al azar perderá 1 PV. Si el mismo es noqueado, recibes una victoria. Este efecto se repite la misma cantidad de veces que tu nivel actual.
+flavor="Les dispararé a todos ustedes." ―Iru
+
+< CARD_HYPER_COOP_KAE >
+name=¡Ardiente!
+descr=Inflige "¡Ardiente!" en todas las unidades adyacentes a 2 paneles y restaura la duración del mismo. ¡Flameante! Duración: 2 capítulos; ATK +1 a los jugadores y -1 DEF a los enemigos. Este efecto se pierde al morir, y puede ser guardado más de una vez.
+flavor="¡Bien, bien! ¡Esta sensación es realmente la mejor!" ―Kae
+
+< CARD_HYPER_COOP_KAI >
+name=Privilegio de Protagonista
+descr=Duración: 3 capítulos.\nSiempre atacas primero, el enemigo no podrá contraatacar (una sola vez por combate).
+flavor="¡Este es el privilegio de un verdadero protagonista!" ―Kai
+
+< CARD_HYPER_COOP_KIRIKO >
+name=La Última Cirugía
+descr=Noquea a todas las unidades que tengan 1 PV.\nRecuperas 1 Máx. PV perdido y recibes 25 estrellas por cada unidad noqueada. Los aliados noqueados reciben -2 REC.
+flavor="Tranquilízate, esto solo tomará un segundo." ―Kiriko
+
+< CARD_HYPER_COOP_KRILAEVENT >
+name=Maestra de los Títeres
+descr=Coloca la trampa: "¡Bailen, Bestias Orejudas!" en 3-5 paneles aleatorios.
+flavor="¡Bailen, Bestias Orejudas!" ―Krilalaris
+
+< CARD_HYPER_COOP_KRILATRAP >
+name=¡Bailen, Bestias Orejudas!
+descr=Pierdes 2 PV. El jugador que colocó esta carta recibe +1 PV. Efecto Guardado: -2 ATK durante la próxima batalla.\nEste efecto es ignorado por el equipo que colocó esta carta.
+flavor="¡Bailen, Bestias Orejudas!" ―Krilalaris
+
+< CARD_HYPER_COOP_MALT >
+name=Sueño de Color Crepúsculo
+descr=★Costo: Nivel x7.\nDuración: (Tu nivel) x Capítulos.\nTodos tus aliados recibirán +1 ATK al estar sobre un panel del jefe. Si un enemigo se mueve a un panel de Batalla o del Jefe que esté debajo de una carta de Batalla convertida en Trampa, ese enemigo tendrá que detenerse en ese panel.
+flavor="Ver a todos esos aviones cruzando los cielos... es igual que estar soñando, ¿no lo crees?" ―Malta
+
+< CARD_HYPER_COOP_MASTER >
+name=Prohibido De Por Vida
+descr=★Costo: Estrellas / 10.\nAl ser usado, evitará que el jefe use su próxima carta.
+flavor="¡Señor Gerente, es su turno!" ―Chris
+
+< CARD_HYPER_COOP_MAYNIE >
+name=Furia Alocada
+descr=Recibe un Punto de Furia y entra en el Modo Furioso. Mientras el Modo Furioso se encuentra activo, recibe +X/2 ATK y EVD de forma redondeada, X siendo la cantidad de Puntos de Furia del jugador. Al comienzo de cada turno, pierde un Punto de Furia. El Modo Furioso acabará cuando la cantidad de Puntos de Furia sea 0.
+flavor="¡Gyaoooh!" ―Maynie
+
+< CARD_HYPER_COOP_MEI >
+name=Arruinavidades Blanco
+descr=Descarta tu mano actual, todos los enemigos a un panel de distancia que tú reciben 2 puntos de daño.\nPor cada enemigo noqueado, recibes una victoria y estrellas equivalentes a tu Nivel x5.\nCon la carta "Rojo y Azul" en mano, esta se transforma en: "El Verdadero Arruinavidades Blanco". 
+flavor="¡Arruinavidades Blanco!" ―Mei
+
+< CARD_HYPER_COOP_MEITRUE >
+name=El Verdadero Arruinavidades Blanco
+descr=Todos los enemigos a 2 paneles de distancia reciben 4 puntos de daño.\nPor cada enemigo noqueado, recibes 2 victorias y estrellas equivalentes a tu Nivel x10.\nSin la carta "Rojo y Azul" en mano, esta se transforma en: "Arruinavidades Blanco". 
+flavor="¡Arruinavidades Blanco!" ―Mei, Rojo & Azul
+
+< CARD_HYPER_COOP_NATH >
+name=Otra Arma Definitiva
+descr=★Cost: 10 Estrellas por cada +1 ATK (máx. +9 ATK).\nConsigues +1 ATK / DEF y +1 ATK / DEF por cada 10 estrellas gastadas en esta carta.
+flavor="Contigo fuera del mapa, yo soy su arma más poderosa." ―Nath
+
+< CARD_HYPER_COOP_NONAME >
+name=Capataz
+descr=Acaba el combate. El oponente tendrá que combatir a Shifu Robot. Solo puede ser usado contra el jefe del campo.
+flavor="¡Jajaja! ¡Aquí viene mi amigo!" ―NoName
+
+< CARD_HYPER_COOP_POPPO >
+name=Ubicuo
+descr=Escoge a un enemigo.\nIrás hacia el mismo panel que ese enemigo, y les robarás estrellas por un valor equivalente a tu nivel x 10.
+flavor="¡Poppo! ¡Poppopopopopo!"\n―Marie Poppo
+
+< CARD_HYPER_COOP_QPD >
+name=Guardiana de los Dulces
+descr=Toma 2 cartas cuyos nombres tengan "Pudín" en el mismo.
+flavor="Mi pequeño... pudín..." ―QP
+
+< CARD_HYPER_COOP_SAKI >
+name=Campana Big Bang
+descr=Todos los enemigos en este y 2 paneles adyacentes pierden 2 PV, +1 por cada 2 capítulos ocurridos desde que esta trampa fue colocada. La mitad de las estrellas perdidas al morir van al dueño de esta trampa.
+flavor="¡Mauuuuuryaaaaaaahh!" ―Saki
+
+< CARD_HYPER_COOP_SHAM >
+name=Campo Delta
+descr=El enemigo recibe el siguiente efecto hasta su próximo turno: Todos los dados caerán en 1.
+flavor="¡Si insistes en quedarte aquí, tendré que llevarte a casa por la fuerza!" ―Sham
+
+< CARD_HYPER_COOP_SHERRY >
+name=Molino Caprichoso
+descr=Entra en un combate con el jefe. El jefe ataca primero. Durante la batalla, recibes +1 EVD.
+flavor="Solo queremos volar libremente." ―Sherry
+
+< CARD_HYPER_COOP_STARBREAKER >
+name=Fusible Explota-Estrellas
+descr=Coloca la trampa: "Bomba Invisible" en 3-5 paneles aleatorios.
+flavor="Porque soy Star Breaker, el fusible que le pondrá un fin a este mundo." ―Star Breaker
+
+< CARD_HYPER_COOP_STARBREAKER2 >
+name=Bomba Invisible
+descr=Pierdes 4 PV. No afecta al jugador que colocó esta trampa. Solamente es visible para el equipo que colocó esta carta.
+flavor="Porque soy Star Breaker, el fusible que le pondrá un fin a este mundo." ―Star Breaker
+
+< CARD_HYPER_COOP_SWEETBREAKER >
+name=Memorias Derretidas
+descr=★Costo: Estrellas / 10.\nCambia el orden de las cartas sostenidas por el jefe.\nTodos los enemigos recibirán el efecto de Memorias Derretidas. Duración: 3 capítulos. Este efecto se perderá al morir.
+flavor="Qué imprudente eres al haber desafiado a un Dios. ¡Prepárate para sentir el sabor de tu dulce derrota!" ―Sweet Breaker
+
+< CARD_HYPER_COOP_TEQUILA >
+name=¿Pueden los Piratas Volar?
+descr=Convoca a 2 Piratas Tripulantes para atacar a un enemigo aleatorio. El enemigo ataca segundo.
+flavor="No hay ninguna ley que vaya en contra de nuestro régimen." ―Tequila
+
+< CARD_HYPER_COOP_TOMATO >
+name=¡Máquina Waruda, Dispara!
+descr=Durante esta batalla, consigues +1 ATK y +1 DEF pero pierdes -1 EVD por cada 2 cartas que tus aliados tengan en sus manos.
+flavor="¡Venganza!" ―Tomato
+
+< CARD_HYPER_COOP_TOMOMO >
+name=Masacre Mágica
+descr=Todos los enemigos pierden 3 PV por cada aliado noqueado.
+flavor="Desaparezcan." ―Tomomo
+
+< CARD_HYPER_COOP_TOMOMOSWEETEATER >
+name=Venganza Mágica
+descr=Por cada PV faltante, un enemigo al azar recibe un punto de daño. Si esa unidad es noqueada, recibes una victoria.\nAl no estar en la mano de Tomomo (SE), esta carta se transforma en Helado.
+flavor="¡Es hora de la venganza!" ―Tomomo
+
+< CARD_HYPER_COOP_TSIH >
+name=Invisibilidad
+descr=Duración: 3 capítulos.\nEl jugador no podrá ser desafiado por el enemigo.\nEste efecto se acabará al entrar en una batalla, pero no se activará en paneles de batalla o de un jefe.\nRecibes +2 ATK al entrar en una batalla. 
+flavor="¡Mira como desaparezco!" ―Tsih
+
+< CARD_HYPER_COOP_YUKI >
+name=¡A Jugar!
+descr=Daña al dueño de esta carta o al jefe del campo. El daño es equivalente a los puntos de vida máximos del jugador.
+flavor="¿Por qué no usamos esto para decidir de quién será el turno?" ―Yuki
+
+< CARD_HYPER_COOP_YUKIDANGEROUS >
+name=Mente Maestra
+descr=Toma 3 trampas del mazo, y luego coloca todas las Cartas Trampa en mano en paneles aleatorios.
+flavor="¡Témanle a mis poderes!" ―Yuki
+
+< CARD_HYPER_COOP_ARTHUR >
+name=Expandiendo Sucursales
+descr=★Costo: Número de cartas en mano x5.\nTransforma todas tus cartas en "Tienda de Pasatiempos Rbit". Podrás jugar una carta adicional durante este turno. 
+flavor="Haah..." ―Arturo
+
+< CARD_HYPER_COOP_MIMYUU >
+name=Plan Malévolo ― Ejecución
+descr=Esta carta no puede ser jugada.\nSi la carta está en mano al final de tu turno, recuperas 2 PV y la misma es removida del juego.
+flavor="¡Caíste! ¡¡Cómete eso!!" ―Mimyuu
+
+< CARD_HYPER_COOP_NATSUMI >
+name=Hora de la Cocina
+descr=★Costo: Nivel x5\nTodos los jugadores recuperan la misma cantidad de PV que el nivel del jugador que usó esta carta.
+flavor="¡Es la hora de cocinar!" ―Natsumi
+
+< CARD_HYPER_COOP_YUUKI_DEVIL >
+name=Mano Demoniaca
+descr=El enemigo perderá 5 puntos de vida, hasta un máximo de 1. Recibe 10 estrellas por cada PV reducido. En capítulos con número impar, esta carta se transforma en Mano Angelical.
+flavor="¡Cómete el poder del demonio!" ―Yuuki
+
+< CARD_HYPER_COOP_MIO >
+name=Infierno Mágico
+descr=Todas las unidades en la misma fila y columna que tu panel actual reciben 5 puntos de daño. Recibes estrellas por cada enemigo noqueado como si fuera una victoria de combate. Una vez que esta carta es usada, tu turno acabará.
+flavor="¡Infierno!" ―Mio
+
+< CARD_HYPER_COOP_ISLAY >
+name=Rival
+descr=Entra en combate con un enemigo. Atacarás primero. Durante la batalla, recibes +1 ATK.
+flavor="Al igual que tú... yo también tengo combates pendientes." ―Islay
+
+< CARD_HYPER_COOP_TEOTORATTA >
+name=Bruja Salvaje
+descr=El jefe y sus secuaces no podrán quedarse con las estrellas del jugador al tener esta carta en mano. Esta carta será descartada al activarse este efecto.
+flavor="¡Todas las bestias! ¡Obedezcan!" ―Teotoratta
+
+< CARD_HYPER_COOP_CUTIES >
+name=Escenario Especial
+descr=★Costo: Nivel x10.\nEntra en el modo En Vivo por X turnos, la X siendo tu nivel. Recibes MOV -3, no podrás usar cartas y únicamente los paneles de movimiento podrán ser activados. La unidad no podrá ser desafiada por el enemigo. Si un oponente acaba su turno en uno o dos paneles adyacentes, roba estrellas equivalentes a su Nivel x5. Este efecto se pierde al morir.
+flavor="¡Somos las ídolos más fuertes!" ―Sora & Sham
+
+< CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE >
+name=Afluencia (X)
+descr=Entra en un combate con el jefe. Recibirán -X ATK, la X siendo el nivel de Afluencia. No podrás atacar. Si no eres noqueado en el combate, el oponente otorgará estrellas equivalentes a X por 20.\nSi esta carta no es Afluencia (4), esta carta será mejorada.\nAl no ser sostenida por Fernet, esta carta se transformará en Nueva Nobleza.
+flavor="¿Deseas pedirme un favor...? Está bien, me encantaría ayudar a una de mis amistades." ―Fernet
+
+< CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE_V >
+name=Afluencia (%d)
+descr=Entra en un combate con el jefe. Recibirán -X ATK, la X siendo el nivel de Afluencia. No podrás atacar. Si no eres noqueado en el combate, el oponente otorgará estrellas equivalentes a X por 20.\nSi esta carta no es Afluencia (4), esta carta será mejorada.\nAl no ser sostenida por Fernet, esta carta se transformará en Nueva Nobleza.
+flavor="¿Deseas pedirme un favor...? Está bien, me encantaría ayudar a una de mis amistades." ―Fernet
+
+< CARD_HYPER_COOP_SHIFU >
+name=Un Mundo Ideal
+descr=Duración: 2 capítulos.\nEscoge a un jugador. Unidades robóticas lucharán en el lugar de ese jugador. Estas unidades robóticas recibirán +1 ATK.
+flavor="Todo está bajo mi control." ―Shifu
+
+< CARD_HYPER_COOP_REIKA >
+name=Coleccionista de Estrellas
+descr=Duración: 3 capítulos.\nCuando un jugador recibe estrellas de un panel o al derrotar a un oponente dentro de una batalla, reciben estrellas adicionales equivalentes a su nivel.
+flavor="Fufufu, mira cuantas estrellas llevo aquí." ―Reika
+
+< CARD_HYPER_COOP_WATTY >
+name=Torrente de Magia
+descr=Duración: 3 capítulos.\nRecibes +2 DEF. La cantidad máxima de Escamas Endurecidas son incrementadas a 10.\nSi consigues 10 efectos guardados de Escamas Endurecidas, el Jefe recibirá daño equivalente a tú Nivel x Daño, y la mitad de ese daño a todos los otros enemigos en el campo de juego.
+flavor="E-eso es peligroso... lo siento mucho." ―Watty
+
+< CARD_HYPER_COOP_POMERANIUS >
+name=El Mejor de los Amigos
+descr=Duración: 3 capítulos.\nIgnora los paneles del Jefe. Al estar en un panel con otro jugador al término de tú o su turno, ambos toman una carta del mazo.\nNo podrás desafiar o ser desafiado a un combate. Los jugadores podrían detenerse para acariciarte.
+flavor="*Quejido*" ―Pomeranius
+
+< CARD_HYPER_COOP_SWEETCREATOR >
+name=Dulce Paraíso
+descr=Coloca la trampa: "Dulce Indulgencia" en 3-5 paneles aleatorios.
+flavor="¡Este es el poder de una Sweet God!"  ―Sweet Creator
+
+< CARD_HYPER_COOP_SWEETCREATOR2 >
+name=Dulce Indulgencia
+descr=Recibes 3 Cartas no Especiales, relacionadas a los Dulces. Estas trampas solo podrán ser activadas por tus aliados. 
+flavor="Te llenaré el cuerpo de Dulces, quieras o no."  ―Sweet Creator
+
+< CARD_HYPER_COOP_MIOFESTIVE >
+name=Infierno Navideño
+descr=Tus PV son reducidos a 1. El jefe será dañado por un valor equivalente a la cantidad de PV que hayas perdido, mientras que los otros enemigos serán dañados por la mitad de ese valor. Recibirás la carta: "El Pastel Navideño de Mio" por cada jugador noqueado en el campo de juego.
+flavor="Les mostraré el infierno." ―Mio
+
+< CARD_HYPER_COOP_KRILAPAJAMA2 >
+name=Cuando Mi Sueño Se Rompe
+descr=El jefe recibirá X+1 puntos de daño, y los enemigos recibirán la mitad de ese daño, la x siendo la cantidad de Despertar.\nPierdes todos los efectos de Despertar y recibes +1 PV por cada 2 efectos de Despertar removidos de esta forma.
+flavor="El tiempo ha llegado para decir buenos días..." ―Krilalaris
+
+< CARD_HYPER_COOP_MIMYUUJAILBIRD >
+name=Escape de Prisión Fingido
+descr=Regresa a tu Hogar sin activarlo.\nTiras 2 dados al moverte.\nNo podrás ser desafiado, serás inmune a las cartas Trampa, a los efectos de noqueo instantáneos y al daño realizado por las cartas del jefe.\nEste efecto se perderá al moverse por 20 paneles.
+flavor="¡Golpeteo, golpeteo!" ―Mimyuu
+
+< CARD_HYPER_COOP_DARKL >
+name=Lulu es una Dragona Desafortunada
+descr=Solo puede ser usado al tener 2 PV o menos. Activa uno de los siguientes efectos de forma aleatoria:\n-Tira un dado. Todos los enemigos perderán estrellas por un valor equivalente al de ese dado x tu nivel x2, y tú recibes la misma cantidad.\n-El jefe omitirá su próxima acción.\n-Todos los enemigos pierden 3 PV.
+flavor="Lulu es... una dragona muy desafortunada..." ―Lulu (Oscura)
+
+< CARD_BOOST_COOP_XMASCAKE >
+name=El Pastel Navideño de Mio
+descr=Escoge uno de los siguientes efectos:\n-Come esta carta para recibir 2 PV.\n-Comparte esta carta con el aliado seleccionado, ese aliado recuperará 2 PV y tú recibirás la misma cantidad de PV.
+flavor="Estoy muy orgullosa de este pastel que horneé. Disfrútalo~ ♡" ―Mio
+
+< CARD_HYPER_COOP_GRAIN >
+name=Todas Las Armas Preparadas
+descr=Paga todos los efectos guardados de Cañón. Un enemigo aleatorio recibe 1 punto de daño. Si el enemigo es noqueado por este efecto, recibes 1 Victoria y Estrellas equivalentes a tu Nivel x 10. Este efecto se repite por cada Cañón pagado.
+flavor="Todas las armas preparadas, y... ¡FUEGO!" ―Grain
+
+< CARD_HYPER_COOP_HARUKA >
+name=Hype Bringer
+descr=Duración: 2 capítulos.\nCuando otro jugador sea noqueado, podrá recuperarse de forma instantánea con todos sus PV, pero tendrán que pagar Estrellas (valor: Nivel x 5).
+flavor="¡Vamos a animar el juego juntos!" ―Haruka
+
+< CARD_HYPER_COOP_KANATA >
+name=Engaño Que Suena Intelectual
+descr=Duración: 3 Capítulos.\nEscoge el tipo de carta (Batalla/Impulso/Evento/Otro)\nCada vez que ese tipo de carta sea usado, el jugador toma una carta.
+flavor="Puedo ver las cartas que tienes." ―Kanata
+
+< CARD_BOSS_COOP_DOZE >
+name=Sueño
+descr=Sin efectos.
+flavor=
+
+< CARD_BOSS_COOP_GROUPUP >
+name=Agrupamiento
+descr=El jefe y sus secuaces se teletransportarán a un mismo panel aleatorio.
+flavor=
+
+< CARD_BOSS_COOP_PECK >
+name=Picoteo
+descr=Todos los jugadores en el mismo panel que el jefe perderán 2 PV.
+flavor=
+
+< CARD_BOSS_COOP_FLIGHT >
+name=Vuelo
+descr=El jefe cambia la dirección de su movimiento, y todo jugador que se encuentre con él será dañado con un valor equivalente al de su nivel actual.
+flavor=
+
+< CARD_BOSS_COOP_CHICKEN_ATTACK >
+name=Ataque de Gallina
+descr=El jefe emboscará a todos los jugadores que se encuentren en el mismo panel que él.
+flavor=
+
+< CARD_BOSS_COOP_PIYO_MARCH >
+name=Marcha Piyo
+descr=El jefe y sus secuaces recibirán +2 EVD durante sus próximas batallas.
+flavor=
+
+< CARD_BOSS_COOP_REGENERATION >
+name=Regeneración
+descr=Todas las unidades en el campo recuperarán 1 PV.
+flavor=
+
+< CARD_BOSS_COOP_PRESENT >
+name=Regalo
+descr=Una trampa es colocada en un panel aleatorio.
+flavor=
+
+< CARD_BOSS_COOP_HEADLESS_CHICKEN >
+name=Gallina Sin Cabeza
+descr=El jefe recibe +2 ATK hasta el final de su turno. Si el jefe tiene menos del 50% de sus puntos de vida, cada uno de sus secuaces recibe +2 ATK y +2 EVD, atacando a cada jugador a un panel de distancia.
+flavor=
+
+< CARD_BOSS_COOP_CALL_OF_CHICKEN >
+name=La Llamada de las Gallinas
+descr=Toma y juega una nueva carta.
+flavor=
+
+< CARD_BOSS_COOP_CHICKEN_RUN >
+name=Carrera de Gallinas
+descr=Duración: 2 capítulos. Todos los secuaces en el campo de juego reciben +2 MOV y +1 EVD.
+flavor=
+
+< CARD_BOSS_COOP_HEN_PECKED >
+name=Gallina Picadora
+descr=El jefe dañará a todos los jugadores a un panel de distancia, el daño tendrá un valor equivalente al Nivel del Jefe.
+flavor=
+
+< CARD_BOSS_COOP_SECOND_WING >
+name=Segunda Ala
+descr=El jefe y sus secuaces son curados por un valor igual al Nivel del Jefe.
+flavor=
+
+< CARD_BOSS_COOP_SWARM >
+name=Multitud
+descr=Todos los secuaces del jefe recibirán +2 ATK en su próxima batalla, y entonces volarán hacia un jugador aleatorio y entrarán en combate con él. Los jugadores no pueden contraatacar. Una vez que las batallas terminan, el jefe correrá.
+flavor=
+
+< CARD_BOSS_COOP_FINAL_WARNING >
+name=Última Advertencia
+descr=El jefe daña a un jugador aleatorio con un valor igual al de sus puntos de vida actuales. Si el jefe tiene menos del 50% de sus puntos de vida, un jugador escogido de forma aleatoria recibe puntos de daño con un valor equivalente al Nivel del Jefe.
+flavor=
+
+< CARD_BOSS_COOP_SAVAGE_TALONS >
+name=Garras Salvajes
+descr=El jugador con menos puntos de vida es dañado con un valor igual al de sus puntos de vida actuales. Un jugador escogido de forma aleatoria recibirá la misma cantidad de daño que el jugador anterior.
+flavor=
+
+< CARD_BOSS_COOP_BEAK_OF_GODBIRD >
+name=La Boca del Ave
+descr=Ataca a todos los jugadores a un panel de distancia, empezando con el que menos puntos de vida tenga. Por cada enemigo noqueado, el jefe recibirá +1 ATK permanentemente.
+flavor=
+
+< CARD_BOSS_COOP_ROOST >
+name=El Gallinero
+descr=El jefe convocará a una gallina en su panel actual, hasta un máximo de 4 gallinas.
+flavor=
+
+< CARD_BOSS_COOP_ROOST_HYPER >
+name=El Gallinero
+descr=El jefe convocará a dos gallinas en su panel actual, hasta un máximo de 4 gallinas.
+flavor=
+
+< CARD_BOSS_COOP_MALFUNCTION >
+name=Defectuoso 
+descr=El jefe pierde 1 PV. No puede ser derrotado con este efecto.
+flavor=
+
+< CARD_BOSS_COOP_ATTACK_DOWN >
+name=Falta de Ataque
+descr=Duración: 2 capítulos. Todos los jugadores reciben -2 ATK. El jefe recibe +2 ATK.
+flavor=
+
+< CARD_BOSS_COOP_QUICK_REPAIR >
+name=Reparo Rápido
+descr=El jefe recupera 1 PV.
+flavor=
+
+< CARD_BOSS_COOP_BALANCE_CURRENTS >
+name=Corrientes de Equilibrio
+descr=Todos los jugadores reciben un punto de daño por cada punto de ATK positivo que tengan. Todos los jugadores reciben un punto de vida por cada punto de ATK negativo que tengan.
+flavor=
+
+< CARD_BOSS_COOP_IMMOVABLE_OBJECT >
+name=Objeto Inamovible
+descr=Duración: 2 capítulos.\nAl usar esta carta, la unidad no podrá moverse pero recibirá +2 DEF y podrá contraatacar. Los enemigos que caigan en el mismo panel que este deberán pelear. 
+flavor=
+
+< CARD_BOSS_COOP_EXTENDED_PHOTON_RIFLE >
+name=Robo-Rayo
+descr=Un jugador escogido al azar recibe un punto de daño. Esta carta se repite por cada 5 capítulos transcurridos dentro de la partida.
+flavor=
+
+< CARD_BOSS_COOP_PROTECT >
+name=Protección
+descr=Efecto Guardado (Nivel del Jefe +1): Reduce todo daño recibido por 3, hasta 1. Si el jefe pierde su protección, recibe -2 DEF, -2 EVD y -1 MOV por 3 capítulos.
+flavor=
+
+< CARD_BOSS_COOP_TURBO >
+name=Turbo
+descr=Tira 3 dados de movimiento durante este turno.
+flavor=
+
+< CARD_BOSS_COOP_ASSAULTFIELD >
+name=Campo de Asaltos
+descr=Coloca la trampa: "Asalto" en 3-5 paneles aleatorios.
+flavor=
+
+< CARD_BOSS_COOP_EVASION_DOWN >
+name=Falta de Evasión
+descr=Duración: 2 capítulos. Todos los jugadores reciben -2 EVD. El jefe recibe +2 EVD.
+flavor=
+
+< CARD_BOSS_COOP_DEFENSE_DOWN >
+name=Falta de Defensa
+descr=Duración: 2 capítulos. Todos los jugadores reciben -2 DEF. El jefe recibe +2 DEF.
+flavor=
+
+< CARD_BOSS_COOP_ENGAGE >
+name=Modo de Ataque
+descr=Entra en combate con un jugador aleatorio. Recibe +2 ATK durante esta batalla.
+flavor=
+
+< CARD_BOSS_COOP_SELF_DESTRUCTION >
+name=Auto-Destrucción
+descr=El jefe pierde 3 PV. Los jugadores a 3 paneles de distancia reciben un punto de daño. Los jugadores a 2 paneles de distancia reciben dos puntos de daño. Los jugadores a un panel de distancia reciben tres puntos de daño. El jefe no puede ser noqueado por este efecto.
+flavor=
+
+< CARD_BOSS_COOP_SOLID_WITCH >
+name=Bruja Solida
+descr=Duración: 1 capítulo.\nEl jefe niega todo tipo de daño.
+flavor=
+
+< CARD_BOSS_COOP_DELTA_FIELD >
+name=Campo Delta Revuelto
+descr=Duración: 2 capítulos. Todos los jugadores reciben el siguiente efecto hasta tu próximo turno: Todos los dados caerán en 1, 2 o 3.
+flavor=
+
+< CARD_BOSS_COOP_IMAGINARY_NUMBERS >
+name=Números Imaginarios
+descr=Duración: 1 capítulo. Todos los dados del jefe caerán en 7.
+flavor=
+
+< CARD_BOSS_COOP_HEALTH_DOWN >
+name=Falta de Vida
+descr=Todos los jugadores reciben el siguiente Efecto Guardado(1): Los PV máximos son reducidos por 1 (hasta un mínimo de 2). Al morir, el jugador recupera dos de esos puntos.
+flavor=
+
+< CARD_BOSS_COOP_RECOVERY_MODE >
+name=Modo de Recuperación
+descr=Efecto Guardado(1): Hasta su próxima batalla, el jefe ignorará su fase de movimiento y recuperará 2 PV por turno.
+flavor=
+
+< CARD_BOSS_COOP_PERFECT_REFLECTIVE_SHELL >
+name=La Cáscara Reflectante Perfecta
+descr=El jefe recibirá y le devolverá todo el daño que sea causado hacia él a los jugadores.
+flavor=
+
+< CARD_BOSS_COOP_RECOVERY_DOWN >
+name=Falta de Recuperación
+descr=Todos los jugadores reciben +1 REC.
+flavor=
+
+< CARD_BOSS_COOP_EMP >
+name=PEM
+descr=Todos los jugadores reciben un punto de daño. Duración: 2 capítulos. Los jugadores afectados no podrán usar cartas.
+flavor=
+
+< CARD_BOSS_COOP_BIG_POPPO >
+name=Desde el Abismo
+descr=La jefa convocará a La Gran Poppo al campo de juego. En vez de hacer daño, La Gran Poppo roba 3 estrellas por cada punto de daño hecho en combate. Comparte sus estrellas con el jefe. Al ser derrotada, recibe REC 10, otorga 100 estrellas y 3 victorias.
+flavor=
+
+< CARD_BOSS_COOP_NAP >
+name=Siesta
+descr=La jefa pierde 5 estrellas.
+flavor=
+
+< CARD_BOSS_COOP_ELUSIVE >
+name=Eludir
+descr=Los eventos de Caridad y Teletransportación ocurrirán. Durante este turno, los jugadores pierden estrellas (equivalentes al Nivel del Jefe x 5) y la jefa recibirá estrellas (equivalentes al Nivel del Jefe x 5) cada vez que ella o La Gran Poppo se encuentren en el mismo panel que el de un jugador.
+flavor=
+
+< CARD_BOSS_COOP_STAR_MANIA >
+name=Manía por las Estrellas
+descr=Efecto Guardado(1):\nDurante todos los capítulos, la jefa recibirá estrellas por cada efecto de Manía por las Estrellas activo.
+flavor=
+
+< CARD_BOSS_COOP_POPPO_TAX >
+name=Los Impuestos de Poppo
+descr=Todos los jugadores a menos de dos paneles de distancia de la Jefa o La Gran Poppo perderán 5 estrellas. La jefa recibirá 5 estrellas por cada jugador afectado. Una vez ocurrido este efecto, el evento de Teletransportación se activará.
+flavor=
+
+< CARD_BOSS_COOP_TITHE >
+name=Diezmo
+descr=Cada jugador a una distancia de paneles equivalentes al Nivel de la Jefa de la Jefa o La Gran Poppo perderá 10 estrellas. La jefa recibirá 10 estrellas por cada jugador afectado.
+flavor=
+
+< CARD_BOSS_COOP_UBIQUITOUS >
+name=Ubicuo
+descr=La jefa se moverá al jugador más lejano y robará estrellas equivalentes a su nivel x5.\nTodos sus secuaces se teletransportarán al jugador más cercano y le robarán 5 estrellas.\nSi otros jugadores se encuentran a la misma distancia, uno de ellos es escogido al azar.
+flavor=
+
+< CARD_BOSS_COOP_SNATCHER >
+name=Ladrona
+descr=Un jugador escogido al azar descartará una carta. La jefa recibirá 5 estrellas por cada nivel de la carta descartada.
+flavor=
+
+< CARD_BOSS_COOP_SKY_RESTAURANT_POPPO >
+name='Poppo', el Restaurante en el Cielo
+descr=Coloca la siguiente trampa: "'Poppo', el Restaurante en el Cielo" en el panel actual de la Jefa y La Gran Poppo. Recuperas todos tus puntos de vida, pero pagas 10 estrellas por cada PV recuperado. La jefa recibirá esas estrellas.
+flavor=
+
+< CARD_BOSS_COOP_SKY_RESTAURANT_POPPO_TRAP >
+name='Poppo', el Restaurante en el Cielo
+descr=Recuperas todos tus puntos de vida, pero pagas 10 estrellas por cada PV recuperado. La jefa recibirá esas estrellas.
+flavor=
+
+< CARD_BOSS_COOP_HIGHWAY_ROBBERY >
+name=Atraco
+descr=Durante este turno, la jefa recibirá +3 ATK, se moverá en reversa y no se detendrá al desafiar a un enemigo. Por cada punto de daño que sería realizado por la jefa en cada combate, roba 10 estrellas.
+flavor=
+
+< CARD_BOSS_COOP_GREED >
+name=Codicia
+descr=Duración: 1 capítulo.\nLa jefa recibirá 5 estrellas por cada punto de daño que ella o La Gran Poppo realizan en combate contra otros jugadores.
+flavor=
+
+< CARD_BOSS_COOP_TEMPTATION >
+name=Tentación
+descr=Hasta el próximo turno de la jefa, todas las cartas podrán ser jugadas. La jefa recibirá estrellas equivalentes al Costo de la Carta x10 cuando un jugador use una carta.
+flavor=
+
+< CARD_BOSS_COOP_WARP_PHENOMENON >
+name=Fenómeno de la Teletransportación
+descr=El evento de Teletransportación se activará 3 veces. Después de cada teletransportación, los jugadores a un panel de distancia de la jefa o un secuaz activo reciben un punto de daño y pierden 5 estrellas.
+flavor=
+
+< CARD_BOSS_COOP_POPPOFORMATION >
+name=Poppoformación
+descr=Todos los jugadores reciben el siguiente Efecto Guardado(1):\nLos puntos de ATK, DEF y EVD cambiarán a -1 durante la próxima batalla.
+flavor=
+
+< CARD_BOSS_COOP_POPPO_GALAXY >
+name=Poppo-Galaxia
+descr=Los jugadores a menos de dos paneles de la jefa o La Gran Poppo recibirán un punto de daño por cada 100 estrellas que la jefa esté sosteniendo, hasta 1 PV.
+flavor=
+
+< CARD_BOSS_COOP_DEATH_AND_TAXES >
+name=Muerte e Impuestos
+descr=Los jugadores a menos de dos paneles de distancia de la jefa o La Gran Poppo recibirán un punto de daño por cada 50 estrellas que estén sosteniendo.\nPor cada jugador noqueado, la jefa recibirá 50 estrellas.
+flavor=
+
+< CARD_BOSS_COOP_VALUE_JUDGMENT >
+name=El Juicio del Valor
+descr=Si el valor principal del ATK de todos los jugadores es positivo, todos los jugadores reciben esa cantidad de daño. Si es negativo, cura a todos los jugadores por la misma cantidad.\nRoba o recibe 10 estrellas por cada punto de vida curado o dañado.
+flavor=
+
+< CARD_BOSS_COOP_RANSOM_NOTE >
+name=Nota Redimida
+descr=Todos los jugadores activos reciben la carta: "Nota Redimida".\nCosto: El número de otras Notas Redimidas usadas durante este capítulo x10. Paga el costo a la jefa al descartar Nota redimida. Si el jugador sostiene la carta al fin de su turno, es noqueado.\nSi esta carta es descartada de otras formas, descarta la mano del jugador.
+flavor=
+
+< CARD_COOP_BOOST_RANSOM_NOTE >
+name=Nota Redimida
+descr=Costo: El número de otras Notas Redimidas usadas durante este capítulo x10. Paga el costo a la jefa al descartar Nota redimida. Si el jugador sostiene la carta al fin de su turno, es noqueado.\nSi esta carta es descartada de otras formas, descarta la mano del jugador.
+flavor=
+
+< CARD_BOSS_COOP_POPPOCALYPSE >
+name=Poppo-Apocalipsis
+descr=Duración: 1 capítulo.\nTodos los paneles que no sean del jefe, hogares o de teletransportación son transformados a paneles de batalla. Todo Poppo en el juego recibe +2 ATK. Las Poppo salvajes otorgan 5 estrellas por cada punto de daño realizado hacia la jefa.
+flavor=
+
+< CARD_BOSS_COOP_HOARDER >
+name=Acaparador
+descr=Al ser dañada, la jefa recibe +1 DEF hasta el fin del capítulo. Este efecto puede ser guardado más de una vez.
+flavor=
+
+< CARD_BOSS_COOP_REST >
+name=Descanso
+descr=Pierde 1 Ánimo.
+flavor=
+
+< CARD_BOSS_COOP_CHASE >
+name=Persecución
+descr=La jefa correrá. Por cada jugador que la jefa haya combatido durante este turno, recibe 1 Ánimo.
+flavor=
+
+< CARD_BOSS_COOP_PLAY >
+name=Juego
+descr=Recibe 1 Ánimo.
+flavor=
+
+< CARD_BOSS_COOP_TIRE_OUT >
+name=Cansar
+descr=Todos los jugadores sufrirán el efecto de Cansancio. Duración: 2 capítulos. +1 REC al morir.
+flavor=
+
+< CARD_BOSS_COOP_TIRED >
+name=Cansancio
+descr=Duración: 2 capítulos. +1 REC al morir.
+flavor=
+
+< CARD_BOSS_COOP_PUDDING_SEEKER >
+name=Busca-Pudines
+descr=Pierde 1 Ánimo. La jefa toma y usa una nueva carta.
+flavor=
+
+< CARD_BOSS_COOP_BIRDS >
+name=Pájaros
+descr=Todos los jugadores reciben un punto de daño. Recibe 1 Ánimo por cada jugador noqueado con este efecto.
+flavor=
+
+< CARD_BOSS_COOP_SEAGULL_FRIEND >
+name=Amigo Gaviota
+descr=Coloca la trampa: "El Baile de las Gaviotas" debajo de la jefa: El jugador recibe 2 puntos de daño, la jefa recibirá 1 PV y 1 Ánimo. Efecto Guardado(1): En la próxima batalla, recibe -2 ATK.
+flavor=
+
+< CARD_BOSS_COOP_DANCE_OF_SEAGULLS >
+name=El Baile de las Gaviotas
+descr=El jugador recibe 2 puntos de daño y la jefa recibe 1 PV y 1 Ánimo. Efecto Guardado(1): En la próxima batalla, recibe -2 ATK.
+flavor=
+
+< CARD_BOSS_COOP_PLAY_TAG >
+name=Las Atrapadas
+descr=La jefa recibirá +2 ATK hasta su próximo turno. Recibe 1 Ánimo por cada jugador desafiado por la jefa hasta su próximo turno.
+flavor=
+
+< CARD_BOSS_COOP_HIDE_AND_SEEK >
+name=Las Escondidas
+descr=La jefa será teletransportada a un panel aleatorio, y no se moverá hasta su próxima batalla. Recibe 2 Ánimo por el resto de sus turnos hasta que este efecto se haya acabado.
+flavor=
+
+< CARD_BOSS_COOP_SPLASH_WATER >
+name=Salpicando Agua
+descr=Todos los jugadores a 2 paneles de distancia de la jefa recibirán (Nivel del Jefe) puntos de daño. Recibe 1 Ánimo por cada jugador afectado.
+flavor=
+
+< CARD_BOSS_COOP_PSYCHED_UP >
+name=Entusiasmo
+descr=Duración: 2 capítulos. Recibe +2 MOV. Recibe 1 Ánimo.
+flavor=
+
+< CARD_BOSS_COOP_PLAY_WITH_BIRDS >
+name=Juego de Gaviotas
+descr=Duración: 1 capítulo. Cuando un secuaz reciba daño durante un combate, la jefa recibirá 1 Ánimo y, junto a todos los secuaces, +1 ATK.
+flavor=
+
+< CARD_BOSS_COOP_SEAGULL_MASTER >
+name=Maestra de las Gaviotas
+descr=Coloca la trampa: "El Baile de las Gaviotas" debajo de la jefa y todos sus secuaces: El jugador recibe 2 puntos de daño, la jefa recibirá 1 PV y 1 Ánimo. Efecto Guardado(1): En la próxima batalla, recibe -2 ATK.
+flavor=
+
+< CARD_BOSS_COOP_WATERMELON_SPLITTING >
+name=Rompe-Melones
+descr=Hasta el fin de su turno, la jefa recibirá +5 ATK y no se detendrá al desafiar a un jugador. Por cada jugador noqueado, recibe 2 Ánimo.
+flavor=
+
+< CARD_BOSS_COOP_EXHAUSTION >
+name=Agotamiento
+descr=Recibe 1 Ánimo.\nTodos los jugadores activos sufrirán del efecto de Exhausto. Duración: 2 capítulos. +2 REC al morir.
+flavor=
+
+< CARD_BOSS_COOP_EXHAUSTED >
+name=Exhausto
+descr=Duración: 2 capítulos. +2 REC al morir.
+flavor=
+
+< CARD_BOSS_COOP_PUDDING_BREAK >
+name=Receso
+descr=La jefa recupera todos sus puntos de vida. Recibe 2 Ánimo.
+flavor=
+
+< CARD_BOSS_COOP_HYPE_IT_UP >
+name=Exageración
+descr=Recibe 4 Ánimo. Hasta su próximo turno, la jefa recibirá +1 ATK, +1 DEF, -1 EVD y perderá 1 Ánimo al ser dañada en combate. Pierde 2 Ánimo si es noqueada en combate.
+flavor=
+
+< CARD_BOSS_COOP_SANDWICH_THIEVES >
+name=Ladrones de Sándwiches
+descr=Todos los jugadores reciben 1-3 puntos de daño. Recibe 1 Ánimo por cada jugador noqueado por este efecto.
+flavor=
+
+< CARD_BOSS_COOP_HYPE_MODE >
+name=Animada
+descr=Recibe +2 ATK y +1 DEF en combate. Si la jefa es noqueada, se recuperará en su próximo turno.
+flavor=
+
+< CARD_BOSS_COOP_RAMPAGE >
+name=Alboroto
+descr=El Ánimo se reduce a 0. Todos los jugadores reciben un punto de daño por cada Alboroto. Durante este turno, tira el doble de dados al moverse y no se detendrá al desafiar a un enemigo. Recibe PV máximos equivalentes al Nivel del Jefe x 1.
+flavor=
+
+< CARD_BOSS_COOP_RAMPAGE_HYPER >
+name=Alboroto
+descr=El Ánimo se reduce a 0. Todos los jugadores reciben un punto de daño por cada Alboroto. Durante este turno, tira el doble de dados al moverse y no se detendrá al desafiar a un enemigo. Recibe +1 ATK permanentemente y PV máximos equivalentes al Nivel del Jefe x 1.
+flavor=
+
+< CARD_BOSS_COOP_HYPE >
+name=Ánimo
+descr=
+flavor=
+
+< CARD_BOSS_COOP_SNACKS >
+name=Bocadillos
+descr=Un jugador escogido de forma aleatoria recibirá 1 PV.
+flavor=
+
+< CARD_BOSS_COOP_SCREECH >
+name=Chillido
+descr=Los jugadores a un cierto radio (Nivel del Jefe) reciben un punto de daño.
+flavor=
+
+< CARD_BOSS_COOP_RAKE >
+name=Rastrillo
+descr=Los jugadores a un panel de distancia del jefe son dañados (el valor es equivalente al Nivel del Jefe).
+flavor=
+
+< CARD_BOSS_COOP_CLOUD_OF_SEAGULLS >
+name=Nube de Gaviotas
+descr=Un jugador escogido de forma aleatoria recibirá 2 puntos de daño.
+flavor=
+
+< CARD_BOSS_COOP_RUSH >
+name=Acometida
+descr=El jefe se moverá hacia un jugador y comenzará una batalla.
+flavor=
+
+< CARD_BOSS_COOP_CHASE_AROUND >
+name=Persecución
+descr=Todas las unidades son enviadas a un panel aleatorio.
+flavor=
+
+< CARD_BOSS_COOP_QUAKE >
+name=Terremoto
+descr=Duración: 1 capítulo.\nTodos los jugadores recibirán -2 MOV.
+flavor=
+
+< CARD_BOSS_COOP_AIR_RAID >
+name=Ataque Aéreo
+descr=Todos los jugadores reciben un punto de daño.
+flavor=
+
+< CARD_BOSS_COOP_RUSH2 >
+name=Acometida Doble
+descr=El jefe se moverá hacia un jugador y comenzará una batalla.. Después, el jefe repetirá esa misma acción en otro jugador.
+flavor=
+
+< CARD_BOSS_COOP_SWIPE >
+name=Golpe
+descr=Un jugador escogido de forma aleatoria será transportado al mismo panel que el jefe, y entonces serán desafiados por él.
+flavor=
+
+< CARD_BOSS_COOP_HUNT >
+name=Caza
+descr=Después del movimiento del jefe, todos los jugadores a un panel de distancia serán desafiados de forma aleatoria.
+flavor=
+
+< CARD_BOSS_COOP_FALSE_HOPE >
+name=Falsas Esperanzas
+descr=Un jugador escogido de forma aleatoria recuperará todos sus puntos de vida. Daña al resto de los jugadores por un valor equivalente a los PV curados.
+flavor=
+
+< CARD_BOSS_COOP_SNATCH >
+name=Arrebato
+descr=Un jugador escogido de forma aleatoria perderá una carta. Si esta era una carta de impulso, el jefe recibirá 1 PV. Si esta era una carta de batalla, el jugador recibirá 2 puntos de daño.
+flavor=
+
+< CARD_BOSS_COOP_AIR_STRIKE >
+name=Derribo Aéreo
+descr=Todos los jugadores reciben 1-3 puntos de daño.
+flavor=
+
+< CARD_BOSS_COOP_MEGA_RUSH >
+name=Super Acometida
+descr=El jefe se moverá hacia cada jugador y los atacará en un orden aleatorio.
+flavor=
+
+< CARD_BOSS_COOP_FRANTIC >
+name=Frenesí
+descr=El jefe será transportado a un panel aleatorio 3 veces. Todos los jugadores a 2 paneles de distancia del jefe recibirán 2 puntos de daño después de cada transportación.
+flavor=
+
+< CARD_BOSS_COOP_WAVE_OF_DESPAIR >
+name=Ola de Desesperación
+descr=Todos los jugadores reciben 2 puntos de daño por cada jugador noqueado.
+flavor=
+
+< CARD_BOSS_COOP_AURA_OF_TERROR >
+name=Aura Aterradora
+descr=Todos los jugadores reciben un punto de daño. Si al menos 1 jugador es noqueado por este efecto, la acción se repite.
+flavor=
+
+< CARD_BOSS_COOP_LAUNCH >
+name=Lanzamiento
+descr=Marca un panel aleatorio (exceptuando los paneles de transportación). Durante 1 capítulo, los paneles (exceptuando los paneles de transportación) a 2 paneles de distancia del panel marcado serán convertidos en paneles del jefe. El jefe se irá del campo de juego. Si el jefe no se encuentra en el campo al comienzo de su turno, usa la carta: Zambullida.
+flavor=
+
+< CARD_BOSS_COOP_DIVE >
+name=Zambullida
+descr=El jefe regresará al panel marcado. Todos los jugadores en el panel marcado serán noqueados. Los jugadores a 2 paneles de distancia del panel marcado serán dañados con un valor equivalente al Nivel del Jefe. El panel marcado se transforma en un panel de daño. El jefe toma y usa una nueva carta.
+flavor=
+
+< CARD_BOSS_COOP_IDENTITY_CRISIS >
+name=Crisis de Identidad
+descr=El jefe recibe un punto de daño. Recibe 5 estrellas.
+flavor=
+
+< CARD_BOSS_COOP_ROBO_TAX >
+name=Robo-Impuesto
+descr=Los jugadores a menos de tres paneles de distancia del jefe o un secuaz pierden 5 estrellas. Recibe 5 estrellas y +1 DEF hasta el próximo turno del jefe por cada jugador afectado. 
+flavor=
+
+< CARD_BOSS_COOP_PLUCK >
+name=Desplumar
+descr=Todos los jugadores en el mismo panel que el jefe reciben 2 puntos de daño. El jefe recibe 10 estrellas por cada jugador afectado.
+flavor=
+
+< CARD_BOSS_COOP_CATCHER >
+name=Receptor
+descr=Un jugador escogido de forma aleatoria pierde una carta y toma otra. Recibe 5 estrellas por cada Nivel de la carta tomada. 
+flavor=
+
+< CARD_BOSS_COOP_POPPO_MARCH >
+name=Marcha de Poppo
+descr=Efecto Guardado (1) para el jefe y todos los secuaces en el campo de juego.\nEn la próxima batalla, recibe +2 EVD. El jefe recibe 20 estrellas.
+flavor=
+
+< CARD_BOSS_COOP_PREMIUM_REGENERATION >
+name=Regeneración Superior
+descr=Todas las unidades en el campo de juego reciben un punto de vida. El jefe recibe 20 estrellas.
+flavor=
+
+< CARD_BOSS_COOP_WIRELESS_CHICKEN >
+name=Gallina Inalámbrica
+descr=Si el jefe tiene menos del 50% de su vida, el jefe y todos sus aliados reciben +2 ATK hasta el próximo turno del jefe y atacarán a todos los jugadores a un panel de distancia. Recibe 10 estrellas por cada jugador afectado.
+flavor=
+
+< CARD_BOSS_COOP_ROPO_BARRAGE >
+name=RoPo-Bombardeo
+descr=Costo: 30 estrellas. Duración: Infinita. Un jugador escogido de forma aleatoria recibe un punto de daño. Al comienzo de cada turno del jefe, este efecto se repite. Este efecto se acaba cuando una unidad es noqueada. Si la carta no puede ser pagada, recibe 60 estrellas.
+flavor=
+
+< CARD_BOSS_COOP_DELUSIONAL_NUMBERS >
+name=Números Delirantes
+descr=Costo: 20 estrellas. Duración: 1 capítulo. Los dados del jefe caerán en 0 o 7. Si la carta no puede ser pagada, recibe 40 estrellas.
+flavor=
+
+< CARD_BOSS_COOP_SECOND_WING2 >
+name=Segunda Ala
+descr=El jefe y todos los secuaces en el campo son curados por un valor equivalente al Nivel del Jefe. Roba 2 estrellas por cada punto de vida curado.
+flavor=
+
+< CARD_BOSS_COOP_PO_BOMBER >
+name=Po-mbardeo
+descr=Costo: 5 estrellas por bomba. Coloca la trampa: "Bomba Invisible" en 2-3 paneles aleatorios.
+flavor=
+
+< CARD_BOSS_COOP_PO_BOMBER_TRAP >
+name=Bomba Invisible
+descr=Reduce los PV a 1. No tiene efecto sobre el jefe o sus aliados.
+flavor=
+
+< CARD_BOSS_COOP_POPPO_UNIVERSE >
+name=Poppo-Universo
+descr=Costo: 50 estrellas. Por cada 50 estrellas en manos del jefe, todas las unidades a más de 3 paneles de distancia del jefe o un secuaz reciben un punto de daño. Si esta carta no puede ser pagada, recibe 100 estrellas.
+flavor=
+
+< CARD_BOSS_COOP_POPPOCARE >
+name=Poppo-Salud
+descr=Todos los jugadores noqueados serán revividos con un punto de vida. El jefe se moverá al panel de cada jugador con 1 PV en orden aleatorio y los desafiará. Recibe 30 estrellas por cada jugador noqueado.
+flavor=
+
+< CARD_BOSS_COOP_REFINED_TALONS >
+name=Talones Refinados
+descr=Costo: 50 estrellas. El jugador con la cantidad más baja de puntos de vida será marcado, él y un jugador escogido de forma aleatoria recibirán X puntos de daño, la X siendo los puntos de vida del jugador marcado. Si la carta no puede ser pagada, recibe 100 estrellas.
+flavor=
+
+< CARD_BOSS_COOP_BEAK_OF_DEMIBIRD >
+name=La Boca del Ave
+descr=Hasta el fin del turno del jefe, recibe +2 ATK. Ataca a todos los enemigos a 2 paneles de distancia en orden de menos a más puntos de vida. Por cada jugador noqueado, recibe 100 estrellas.
+flavor=
+
+< CARD_BOSS_COOP_TURBO_CHICKEN >
+name=Gallina Veloz
+descr=Hasta el fin del turno del jefe, el jefe recibirá un dado adicional al moverse, no se detendrá al desafiar a un enemigo, +1 ATK y 25 estrellas por cada jugador desafiado hasta el fin de su turno.
+flavor=
+
+< CARD_BOSS_COOP_BIG_PO_SPECIAL >
+name=El Especial de la Gran Poppo
+descr=Costo: 100 estrellas. Efecto Guardado (2): Al comienzo del turno del jefe, un jugador escogido de forma aleatoria es dañado con un valor equivalente al Nivel del Jefe. Si esta carta no puede ser pagada, recibe 200 estrellas.
+flavor=
+
+< CARD_BOSS_COOP_BALANCE_CURRENCY >
+name=Equilibrio de Balanzas
+descr=Roba 5 estrellas de cada jugador por cada punto positivo de ATK que tengan. Todos los jugadores reciben 5 estrellas por cada punto negativo de ATK que tengan.
+flavor=
+
+< CARD_BOSS_COOP_ROOST_BOOST >
+name=El Gallinero Mejorado
+descr=Si no hay Gallinas Secuaces en el campo de juego, convoca a una Gallina Secuaz en el panel actual del jefe.
+flavor=
+
+< CARD_BOSS_COOP_ROOST_BOOST_HYPER >
+name=El Gallinero Mejorado
+descr=Si hay menos de dos Gallinas Secuaces en el campo de juego, convoca a una Gallina Secuaz en el panel actual del jefe.
+flavor=
+
+< CARD_BOSS_COOP_PO_TECT >
+name=Po-tección
+descr=Costo: 20 estrellas. Efecto Guardado (Nivel del Jefe): Reduce todo daño recibido por 2, hasta 1. Si el jefe pierde su po-tección, recibe -1 DEF, -1 EVD y -1 MOV por 3 capítulos.
+flavor=
+
+< CARD_BOSS_COOP_FLOAT >
+name=Flotar
+descr=Esta carta no tiene efecto.
+flavor=
+
+< CARD_BOSS_COOP_WHIRL >
+name=Giro
+descr=Todos los jugadores a (Nivel del Jefe) paneles de distancia de un secuaz son teletransportados a un panel aleatorio.
+flavor=
+
+< CARD_BOSS_COOP_BUBBLE_BATH >
+name=Baño de Burbujas
+descr=Un secuaz escogido de forma aleatoria recibirá 1 PV.
+flavor=
+
+< CARD_BOSS_COOP_ENTRY_FEE >
+name=Precio de Entrada
+descr=Todos los jugadores a 2 paneles de distancia de un secuaz pierden estrellas equivalentes al Nivel del Jefe.
+flavor=
+
+< CARD_BOSS_COOP_GULP_OF_WATER >
+name=Tragando un Poco de Agua
+descr=Un jugador escogido de forma aleatoria recibe 2 puntos de daño.
+flavor=
+
+< CARD_BOSS_COOP_COACHING >
+name=Entrenamiento
+descr=Todos los secuaces reciben +1 ATK hasta el fin del capítulo.
+flavor=
+
+< CARD_BOSS_COOP_CONFISCATE >
+name=Confiscar
+descr=Todos los jugadores con vida que se encuentren en el mismo panel que un secuaz descartarán una carta.
+flavor=
+
+< CARD_BOSS_COOP_SHOCK >
+name=Conmoción
+descr=Todos los secuaces realizarán un punto de daño a todos los jugadores que se encuentren a (Nivel del Jefe) paneles de distancia.
+flavor=
+
+< CARD_BOSS_COOP_GO_FASTER >
+name=¡Más Rápido!
+descr=Duración: 2 capítulos.\nTodos los Nadadaros reciben +2 MOV y +2 ATK.
+flavor=
+
+< CARD_BOSS_COOP_RESPITE >
+name=Respiro
+descr=Todas las unidades a 2 paneles de distancia de una Portería recuperarán un punto de vida.
+flavor=
+
+< CARD_BOSS_COOP_PACE_UP >
+name=Cambio de Ritmo
+descr=Duración: 3 capítulos. Todos los secuaces reciben +1 ATK y -1 EVD.
+flavor=
+
+< CARD_BOSS_COOP_HUSTLE >
+name=Empujón
+descr=Un jugador escogido de forma aleatoria en el mismo panel que una Portería recibirá 5 puntos de daño.
+flavor=
+
+< CARD_BOSS_COOP_MOTIVATE >
+name=Motivación
+descr=Un jugador escogido de forma aleatoria recibirá un daño equivalente al número de Porterías en el campo de juego.
+flavor=
+
+< CARD_BOSS_COOP_TROPICAL_CYCLONE >
+name=Ciclón Tropical
+descr=Todos los secuaces marcarán un panel aleatorio en el mapa (exceptuando los de teletransportación). Después de 1 capítulo, todos los secuaces serán teletransportados a los paneles marcados. Todos los jugadores a 2 paneles de distancia de los mismos recibirán un daño equivalente al Nivel del Jefe.
+flavor=
+
+< CARD_BOSS_COOP_BUTTERFLY >
+name=Mariposa
+descr=Duración: 2 capítulos. Todos los secuaces reciben +2 ATK y +1 MOV.
+flavor=
+
+< CARD_BOSS_COOP_ZAP >
+name=Chispa
+descr=Todos los jugadores a un panel de distancia de un secuaz reciben un daño equivalente al Nivel del Jefe.
+flavor=
+
+< CARD_BOSS_COOP_ENCOURAGE >
+name=Alentando
+descr=Tu Bola Mala se moverá hacia el panel del jugador más cercano y comenzará una batalla. Bola Mala recibirá +3 ATK durante la batalla, y repetirán la misma acción si ese jugador es noqueado.
+flavor=
+
+< CARD_BOSS_COOP_MOVING_GOALPOST >
+name=Moviendo la Portería
+descr=Todos los jugadores a 2 paneles de distancia de una Bola Mala o un Nadadaro recibirán un daño equivalente a la cantidad de Porterías en el campo de juego.
+flavor=
+
+< CARD_BOSS_COOP_GOALPOST >
+name=Portería
+descr=Si hay menos de 5 Porterías en el campo de juego, convoca a una Portería y recibe 2 puntos de daño. No puede moverse ni evadir. Las Porterías solo pueden ser dañadas por ataques que realicen un punto de daño.
+flavor=
+
+< CARD_BOSS_COOP_BALLOON_JERK >
+name=Bola Mala
+descr=Si no hay una Bola Mala en el campo de juego, convoca a una Bola Mapa y recibe 12 puntos de daño.
+flavor=
+
+< CARD_BOSS_COOP_SWIMMING_RINGER >
+name=Nadadaro
+descr=Si hay 2 o menos Nadadaros en el campo de juego, convoca a un Nadadaro y recibe 6 puntos de daño.
+flavor=
+
+< CARD_BOSS_COOP_HOME_SWEEPER >
+name=Busca-Hogares
+descr=Todos los hogares serán removidos por el resto de la partida.
+flavor=
+
+
+
+
+< CARD_HYPER_COOP_CLASS_ATTACKER >
+name=El Arma Definitiva Bajo el Sol
+descr=Durante la próxima batalla, el enemigo recibirá tres puntos de daño por cada uno de tus ataques.
+flavor="Comenzando mi vacación... ahora." ―Sora
+
+< CARD_HYPER_COOP_CLASS_GUARDIAN >
+name=Salvavidas en la Playa Blanca
+descr=Todos los aliados reciben el siguiente Efecto Guardado(1): Durante la próxima batalla, recibe dos puntos menos de daño.
+flavor="Cielos, te estás excediendo." ―Suguri
+
+< CARD_HYPER_COOP_CLASS_SUPPORT >
+name=El Guardián de las Flores
+descr=Revive a un aliado que se encuentre noqueado, restaurando su PV al máximo.
+flavor="Ya estás bien. El dolor se ha ido." ―Hime
+
+< CARD_HYPER_COOP_CLASS_AVENGER >
+name=El Vengador Sin Piedad
+descr=Duración: 3 capítulos.\nSi el jugador es noqueado dentro de una batalla, recupera todos sus puntos de vida.
+flavor="¡Mimyuu! Quién te hizo esto..." ―Tomato
+
+< CARD_HYPER_COOP_CLASS_DEALER >
+name=Juegos Veraniegos
+descr=Durante este turno, trata todos los paneles como si fueran paneles de cartas dobles.
+flavor=
+
+
+
+< CARD_SKILL_COOP_ADVANTAGE >
+name=Ventaja
+descr=El jugador siempre atacará primero al desafiar a un jefe.
+flavor=
+
+< CARD_SKILL_COOP_RECOVERYDOWN >
+name=Falta de Recuperación
+descr=Norma 1: REC +1.
+flavor=
+
+< CARD_SKILL_COOP_ATTACKBOOST >
+name=Mejora de Ataque
+descr=Norma 2: ATK +1. Norma 4: ATK +2.
+flavor=
+
+< CARD_SKILL_COOP_FURY >
+name=Furia
+descr=Todos los ataques del jugador reciben un punto de daño adicional.\nEnfriamiento: 6 capítulos.
+flavor=
+
+
+
+
+< CARD_SKILL_COOP_PROTECT >
+name=Proteger
+descr=Reduce el daño recibido en otro jugador por 2 puntos.\nEnfriamiento: 1 capítulo.
+flavor=
+
+< CARD_SKILL_COOP_IRONDEFENSE >
+name=Defensa de Metal
+descr=Recibe un minimo de 0 puntos de daño al defender durante esta batalla.\nEnfriamiento: 3 capítulos.
+flavor=
+
+< CARD_SKILL_COOP_DEFENSEBOOST >
+name=Mejora de Defensa
+descr=Norma 2: DEF +1. Norma 4: DEF +2
+flavor=
+
+< CARD_SKILL_COOP_GUARDIANSPIRIT >
+name=Espíritu Guardián
+descr=Todos los aliados reciben el efecto del Espíritu Guardián.\nDuración: 2 capítulos. Este jugador recibirá un punto menos de daño en combate.\nEnfriamiento: 8 capítulos.
+flavor=
+
+
+
+< CARD_SKILL_COOP_MOVEMENTBOOST > 
+name=Mejora de Movimiento
+descr=Norma 2: MOV +1. Norma 4: MOV +2
+flavor=
+
+< CARD_SKILL_COOP_HEAL >
+name=Curación
+descr=El jugador puede curar a un aliado por un punto de vida al caminar sobre su panel.
+flavor=
+
+< CARD_SKILL_COOP_REVIVE >
+name=Revivir
+descr=El jugador puede revivir a un aliado al pagar estrellas equivalentes a 3 x la cantidad de REC restantes al caminar sobre su panel.
+flavor=
+
+< CARD_SKILL_COOP_EVASIONBOOST >
+name=Mejora de Evasión
+descr=Norma 3: EVD +1
+flavor=
+	
+< CARD_SKILL_COOP_RESTORINGLIGHT >
+name=Lúz Recuperadora
+descr=Revive a un aliado noqueado con 50% PV.\nEnfriamiento: 8 capítulos.
+flavor=
+
+
+
+
+
+< CARD_SKILL_COOP_HEALTHBOOST >
+name=Mejora de Vida
+descr=Norma 2: Máx. PV +1. Norma 4: Máx. PV +2
+flavor=
+
+< CARD_SKILL_COOP_AVENGER >
+name=Vengador
+descr=Por cada punto de vida perdido en combate, el jugador recibe +1 ATK.
+flavor=
+
+< CARD_SKILL_COOP_RECOVERY >
+name=Mejora de Recuperación
+descr=Norma 3: REC -1
+flavor=
+
+< CARD_SKILL_COOP_FROMBEYOND >
+name=Del Más Allá
+descr=Duración: 2 capítulos.\nSi el jugador es noqueado en combate, recupera 3 PV.\nEnfriamiento: 8 capítulos.
+flavor=
+
+
+< CARD_SKILL_COOP_HANDBOOST >
+name=Mejora de Mano
+descr=Norma 2: Cartas en mano +1. Norma 4: Cartas en mano +2. Máx. 5
+flavor=
+
+< CARD_SKILL_COOP_DEAL >
+name=Trato
+descr=Si hay 2 o más cartas en la mano del jugador, envía una carta escogida al azar a otro jugador.
+flavor=
+
+< CARD_SKILL_COOP_SUPPLY >
+name=Suministro
+descr=Toma una carta adicional cada vez que una carta es tomada.
+flavor=
+
+< CARD_SKILL_COOP_DEALER_HEALTHBOOST >
+name=Mejora de Vida
+descr=Norma 3: PV +1
+flavor=
+
+< CARD_SKILL_COOP_DEMAND >
+name=Demanda
+descr=Trata al próximo panel como uno de Cartas.\nEnfriamiento: 6 capítulos.
+flavor=

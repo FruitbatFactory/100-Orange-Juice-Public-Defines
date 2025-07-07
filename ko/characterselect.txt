@@ -1,0 +1,17 @@
+
+< CHARACTERSELECT_QP >
+푸딩을 위해서라면 무엇이든지 할 수 있는 바보 멍멍이.\n어떤 상황에도 대응할 수 있는 올라운더. 난이도: 중간.
+
+< CHARACTERSELECT_SUGURI >
+1만 살 먹은 엄청나게 빠른 여자아이.\n생사를 높은 회피에 맡기는 모 아니면 도 캐릭터. 난이도: 전문가.
+
+< CHARACTERSELECT_MARC >
+하늘을 날아다니는 게 좋은 소녀.\n높은 공방과 직접 피해를 가하는 하이퍼 카드. 난이도: 중간.
+
+< CHARACTERSELECT_KAI >
+지갑을 잃은 평범한 청년.\n균형잡힌 능력치를 가진 배틀 캐릭터. 난이도: 쉬움.
+
+< CHARACTERSELECT_DLC >
+※DLC 캐릭터는 덱 생성 화면에서 선택할 수 있습니다.
+
+[EOF]

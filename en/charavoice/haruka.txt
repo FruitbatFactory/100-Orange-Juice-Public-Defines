@@ -1,0 +1,164 @@
+<0000> Ey.
+<0001> There.
+<0002> Hoy.
+<0003> There you go.
+<0004> Now's the time to play a card!
+<0005> Well, I think I'll use this one.
+<0006> Something's telling me this is my chance!
+<0007> Hmm, I'll just play this.
+<0008> Gonna set a trap here.
+<0009> It's dangerous around here. Better watch out.
+<0010> I'm sneakily putting something unsafe down here.
+<0011> Boy, this trap is insane ♥
+<0012> I'll smash you with this card!
+<0013> I'm gonna win this one whatever it takes!
+<0014> Sorry, but no mercy!
+<0015> Here comes a chaaance!
+<0016> Heheh, this is getting fun.
+<0017> That was close.
+<0018> The game isn't over yet!
+<0019> Ugh, is it just me or am falling way behind the others?
+<0020> Let's get going again!
+<0021> There's not much you can do while you're down, huh?
+<0022> I wanna go around the field agaaain.
+<0023> No use in feeling rushed. I'll have some juice.
+<0024> Not my lucky daaay.
+<0025> Boom!
+<0026> Attack!
+<0027> I'll go attack now!
+<0028> Karate chop!
+<0029> Ouch!
+<0030> Oww!
+<0031> That's not good.
+<0032> Argh!
+<0033> I have to get myself ready to go again.
+<0034> This is awesome.
+<0035> HP management is crucial.
+<0036> Phew, I was almost done for.
+<0037> Warp!?
+<0038> Where will I get to?
+<0039> Awawah.
+<0040> Whoa, it's a warp.
+<0041> Gyaah.
+<0042> You've gotta be kidding me, no?
+<0043> For reals!?
+<0044> I messed uuup!
+<0045> I'm about to hunt you!
+<0046> You're getting knocked down.
+<0047> I think I have a fair chance against you!
+<0048> Fighting a battle here seems like a good idea to me.
+<0049> So you want a piece of me, huh?
+<0050> Getting physical isn't good.
+<0051> Look at how aggressive you're being.
+<0052> I don't feel like getting my butt kicked right now...
+<0053> Punch!
+<0054> Kick!
+<0055> Home run!
+<0056> Drop dead!
+<0057> That hurt!
+<0058> You suck!
+<0059> Knock it off!
+<0060> Uwaah!
+<0061> Gyan!
+<0062> Couldn't you have taken it a bit easier on me?
+<0063> Can something like this really be allowed to happen?
+<0064> I am in huge trouble...!
+<0065> I have amazing reflexes, don't I?
+<0066> Dodging like a pro!
+<0067> You can dodge it, Haruka.
+<0068> This makes me pretty nervous.
+<0069> Yaaay, I won!
+<0070> I'm quite a fighter, aren't I?
+<0071> That's tasty ♥
+<0072> Hooray, I did it!
+<0073> Ugh.
+<0074> I could've done better.
+<0075> Damn, I got that wrong.
+<0076> Um, damn it.
+<0077> Got some allowance.
+<0078> Boy, this feels great.
+<0079> Yes, yes!
+<0080> Oh, I got lucky.
+<0081> Nooo!
+<0082> You've got to be kidding me.
+<0083> Stop! Stop! I said stooop!
+<0084> Ahhh!!!
+<0085> What the? A trap?
+<0086> Seriously?
+<0087> Here, of all places?
+<0088> I fell for it...!
+<0089> Here comes the boss!
+<0090> I might be in trouble.
+<0091> Things are getting a bit tense.
+<0092> Can you please kick everyone's ass but mine?
+<0093> Let me demonstrate how skilled I am at saving money.
+<0094> Because I'm aiming to be rich!
+<0095> Feels amazing to have a bunch of stars, doesn't it?
+<0096> I'm not an awesome fighter, so... my choice is this.
+<0097> Maybe I'll do better if I treat fighting like a sport...?
+<0098> Given the current situation, this would be a better choice.
+<0099> Hmm, I'm torn, but I've got a feeling this is the right choice!
+<0100> I'm gonna go for fighting!
+<0101> Haruka here. Good to meet you.
+<0102> 100% OJ again today? Sure, let's play!
+<0103> Playing 100% OJ with me? I'm not that good; is that okay?
+<0104> I'm feeling lucky today, so I'll probably win!
+<0105> Alright, let's get going!
+<0106> Let's play a good game.
+<0107> Here we go!
+<0108> Time to start ♥
+<0109> Hooray! I won!
+<0110> That was so much fun. We should do this again sometime.
+<0111> I think I've been on my game lately.
+<0112> This is a feel-good victory.
+<0113> I like gacha.
+<0114> Can't wait to see what we got, right?
+<0115> Did you get something cute?
+<0116> Are we gonna get stronger with that?
+<0117> I don't push myself too hard.
+<0118> I have to ask for a switch.
+<0119> Alright, you got this.
+<0120> About time to change positions.
+<0121> Gotcha.
+<0122> Oh, that's double good.
+<0123> Yes!
+<0124> Uh-uh.
+<0125> Oh no...
+<0126> You're so lucky! I'm happy for you!
+<0127> Uuum?
+<0128> Let's get started.
+<0129> Dice roll!
+<0130> You can do it! I'm rooting for you!
+<0131> Hello!
+<0132> Um... Hmm?
+<0133> Well done! Amazing!
+<0134> That's so super fantastic!
+<0135> I hate this...
+<0136> I'll play a card that I stole.
+<0137> This card, let's find out if it'll get along with me.
+<0138> It's a gamble to see what happens.
+<0139> Not too familiar, but I hope it'll work out!
+<0140> Thanks!
+<0141> You better not say that out loud!
+<0142> I know, but following your hunch is also valuable!
+<0143> I know, right! You can praise me more ♥
+<0144> You didn't, did you? I can see you're kind of sweating, Big Sis ♥
+<0145> Kana's doing her thing again, giving off that strong-player vibe.
+<0146> Kana's playing without thinking a lot...
+<0147> Kana, don't be too tough on me, okay?
+<0148> Okay, let's show everyone how well we're getting along!
+<0149> Oh, there's Poyo.
+<0150> Let's have a blast, Poyo.
+<0151> Of course I'll play with everything I've got.
+<0152> They say those who have fun, win!
+<0153> You're so cool, Sora. I can't get enough of you.
+<0154> Oh, it's Sora.
+<0155> OMG, I won a battle against Sora...
+<0156> Awesome, the ultimate weapon's pretty strong.
+<0157> Hey, Kana, you okay?
+<0158> That's my sister...!
+<0159> We are the strongest!
+<0160> 100% OJ Club, let's go!
+<0161> Oh my god! That's really them!
+<0162> C-Can I have your... autographs...?
+<0163> Man, idols are super cute.

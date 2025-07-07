@@ -1,0 +1,182 @@
+
+// ========= Scene: Halloween 2021 Event Start =========
+
+// (puyopuyomascot)
+<0000> "What a beautiful autumn day to walk outside! Feels good, doesn't it, Suguri!"
+
+// (suguri46b)
+<0001> "Yeah, it's not bad walking outside like this once in a while... technically, you're flying, though."
+
+// (puyopuyomascot)
+<0002> "Don't sweat the details! Oh, there are students over there. What are they doing?"
+
+// (kyupita)
+<0003> "This is fun, Kyousuke!"
+
+// (kyousuke)
+<0004> "At the whim of our student council president, we're toiling away decorating our school gate for Halloween... I'm not gonna lie, this is not as bad as I imagined."
+
+// (kyupita)
+<0005> "I agree, and I'm really happy that... I get to work with you like this, Kyousuke...!"
+
+// (kyousuke)
+<0006> "So am I, Kyupita."
+
+// (kyupita)
+<0007> "Kyousuke..."
+
+// (kyousuke)
+<0008> "Kyupita..."
+
+// (puyopuyomascot)
+<0009> "Sumika wouldn't have thought that at a place like this, she'd come across something ladies with particular interests would be thrilled to see... By the way, those Halloween decorations look pretty nice, don't they, Suguri?"
+
+// (suguri46b)
+<0010> "Yes, that's true."
+
+// (puyopuyomascot)
+<0011> "We should do the same with our place!"
+
+// (suguri46b)
+<0012> "No way. That'd be so much effort."
+
+// (puyopuyomascot)
+<0013> "Sumika knew you'd say that... Fine! Sumika has two new friends now, and she'll go ask them for help!"
+
+// (suguri46b)
+<0014> "What!? Someone like you, who won't show her true form just because it's embarrassing, has friends!?"
+
+// (puyopuyomascot)
+<0015> "It's been a few decades since you last showed a surprised expression like that. Anyway, Sumika feels highly offended by what you just said about her! She's upgraded her social skills lately!"
+
+// (suguri46b)
+<0016> "Sorry. Well, you can do whatever you want with our place as long as I don't have to do anything."
+
+// (puyopuyomascot)
+<0017> "Okay, that's a promise! Now Sumika's off to see these new friends of hers!"
+
+// (suguri46b)
+<0018> "Okay, see ya."
+
+// (sumika)
+<0019> "Meeei! Nanakooo!"
+
+// (mei)
+<0020> "Oh, Sumika."
+
+// (nanako)
+<0021> "If it isn't Sumika."
+
+// (sumika)
+<0022> "Hi there. Seems like you two are doing well. Sumika's lucky to find you both at the same time."
+
+// (mei)
+<0023> "I'm doing great 24/7!"
+
+// (nanako)
+<0024> "You're talking like you were looking for the two of us. What's going on?"
+
+// (sumika)
+<0025> "Well, Sumika wants to decorate her place for Halloween, and she's wondering if you two can help her do that... She'll invite you to dinner tonight as a thank you!"
+
+// (mei)
+<0026> "Oh, that sounds like a ton of fun! I'm in. Actually, I happen to be awesome at decorating!"
+
+// (nanako)
+<0027> "Halloween decorations, huh... Kae keeps saying she wants to try decorating. But she never actually does because she's not good at it."
+
+// (mei)
+<0028> "Why don't you do it for her?"
+
+// (nanako)
+<0029> "I-I'm not the best decorator, either... But I think it might work out if you two are on the team."
+
+// (sumika)
+<0030> "Sure will! Sumika's already done the simulation in her head, so all we have to do is get the ornaments and stuff and decorate her house with them!"
+
+// (mei)
+<0031> "I wanna show the decorations to Natsumi!"
+
+// (nanako)
+<0032> "I'll help you too if Kae can see it."
+
+// (sumika)
+<0033> "Of course!"
+
+// (mei)
+<0034> "I knew it! Nanako's such a sweet friend to Kae, after all!"
+
+// (nanako)
+<0035> "Don't say it like that. What's wrong with being a good friend?"
+
+// (sumika)
+<0036> "Now that Nanako has reminded us of how much she likes Kae, let's go gather what we need!"
+
+// (nanako)
+<0037> "Sumika, you're mocking me too, aren't you!"
+
+// (mei)
+<0038> "Okay! Let's go!"
+
+// ========= Scene: Halloween 2021 Event Ending =========
+
+// (sumika)
+<0039> "This goes up here, and... it's all done!"
+
+// (mei)
+<0040> "Yeah!"
+
+// (nanako)
+<0041> "It looks quite nice."
+
+// (sumika)
+<0042> "Mei, Nanako, thank you so much for your help! Sumika's house now looks 100 times nicer!"
+
+// (suguri46b)
+<0043> "Great work, girls. I feel like I'm in someone else's house."
+
+// (nanako)
+<0044> "Since it's gotten late already, I'll come back here with Kae some other day."
+
+// (mei)
+<0045> "Natsumi and I will do the same!"
+
+// (sumika)
+<0046> "Sure, come visit anytime! Alright, Sumika needs to make dinner now. Suguri, you're in charge of entertaining Nanako and Mei while she's at it."
+
+// (suguri46b)
+<0047> "Roger that. There's this board game we can play."
+
+// (mei)
+<0048> "What the heck? Why do I keep rolling a 1!"
+
+// (nanako)
+<0049> "And how does this Seagull always get a 7 when it attacks?"
+
+// (suguri46b)
+<0050> "It's just how the game always goes."
+
+// (sumika)
+<0051> "Everyone, dinner's ready. Tell you what, why don't we get the most out of this occasion and enjoy the dinner in costumes? Sumika's so well-prepared, she has many kinds of costumes in her closet."
+
+// (mei)
+<0052> "Oh, sure, why not!"
+
+// (nanako)
+<0053> "If that's what the host wishes for."
+
+// (suguri46b)
+<0054> "Ugh, even me? Oh well, this much is fine, I suppose..."
+
+// (sumika)
+<0055> "You look fantastic in that, Suguri. And so do you, Mei, Nanako."
+
+// (nanako)
+<0056> "Thank you."
+
+// (mei)
+<0057> "I'm starving. We should start eating now."
+
+// (sumika)
+<0058> "Sure, let's dig in! Having dinner nicely dressed in a nicely decorated house... Sumika's the happiest girl on the whole planet!"
+

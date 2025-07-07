@@ -1,0 +1,56 @@
+< DISCORD_MAIN_MENU_STATE >
+主菜單
+
+< DISCORD_SHOP_STATE >
+商店
+
+// Lobby: <lobby name>
+< DISCORD_LOBBY_STATE >
+房間：%s
+
+< DISCORD_LOBBY_STATE_PRIVATE >
+在房間裡
+
+< DISCORD_INGAME_STATE >
+遊戲中
+
+// After the game ended, the screen where xp and potential unlocks are given 
+< DISCORD_RESULTS_STATE >
+結算
+
+// Pvp mode
+< DISCORD_INGAME_NORMAL_MODE >
+普通模式
+
+< DISCORD_INGAME_COOP_MODE >
+合作模式
+
+// Co-op: <boss name>, <difficulty name>
+< DISCORD_INGAME_COOP_MODE_DETAILS >
+合作：%s，%s
+
+// <player name>, Level <lvl>
+< DISCORD_INGAME_PLAYER_DETAILS >
+%s，等級 %d
+
+// <player name>, <coop role>, Level <lvl>
+< DISCORD_INGAME_PLAYER_DETAILS_COOP >
+%s，%s，等級 %d
+
+< DISCORD_INGAME_BOUNTYHUNTER_MODE >
+賞金獵人模式
+
+< DISCORD_INGAME_SUMMER2020_MODE >
+捉魚模式
+
+< DISCORD_INGAME_SHROOM_MODE >
+奇異蘑菇模式
+
+< DISCORD_INGAME_SCHOOL_MODE >
+校園撞機模式
+
+< DISCORD_INGAME_CHAOS_MODE >
+混沌模式
+
+< DISCORD_INGAME_TAGTEAM_MODE >
+搭檔模式

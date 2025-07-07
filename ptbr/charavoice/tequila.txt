@@ -1,0 +1,167 @@
+
+<0000> Mhm.
+<0001> Hmm.
+<0002> Mhmm.
+<0003> Aqui.
+<0004> Eu vou usar isto!
+<0005> Hmm, isso deve funcionar.
+<0006> Eu farei as coisas mais divertidas.
+<0007> Contemple!
+<0008> Mal educados, você diz? Piratas não estão nem aê, mermão.
+<0009> Estou pouco me lixando para como faço para ganhar.
+<0010> Eu faço de tudo para conseguir o que desejo.
+<0011> Cuidado, pessoal!.
+<0012> Isso vai acabar com você.
+<0013> Eu consegui essa carta top!
+<0014> Surpreendam-se, galera!
+<0015> Deixe eu te mostrar meu às na manga.
+<0016> Vão pegá-los!
+<0017> Piratas não morrem fácil.
+<0018> Tenho que conseguir minhas coisas de volta.
+<0019> Piratas estão de volta a ativa.
+<0020> Para cima eu vou.
+<0021> Mano.
+<0022> Droga, ainda não?
+<0023> Tsk, estraguei o plano.
+<0024> Sem pressa.
+<0025> Aqui vou eu!
+<0026> Coma isso!
+<0027> Uryaah!
+<0028> Toma!
+<0029> Nuguwah!
+<0030> Guwah!
+<0031> Gahah!
+<0032> Guhah!
+<0033> Ô parça.
+<0034> O-ooh.
+<0035> Ufa...
+<0036> Phee.
+<0037> O-o-o que raios está acontecendo!
+<0038> Argh, estou teleportando!
+<0039> Ar-ar-arrrgghh!
+<0040> O-o-oh!
+<0041> Estou acabado.
+<0042> Eu vou ficar deitado aqui um pouco.
+<0043> Mas que droga!
+<0044> Só pode estar brincando!
+<0045> Se prepare para morrer!
+<0046> Nenhuma presa pode fugir de mim.
+<0047> Ha-hah! Cê não pode fugir de mim!
+<0048> Prepare-se para lutar!
+<0049> Te ponha no teu lugar!
+<0050> Cê vai se arrepender disso!
+<0051> Cê quem vai perder aqui, parça!
+<0052> O tolo caça o infortúnio!
+<0053> Kyeeeeeey!
+<0054> Hah hah!
+<0055> Seeeeey!
+<0056> Doryaah!
+<0057> Kufuu!
+<0058> Nuu!
+<0059> Guu!
+<0060> Nuo!
+<0061> Kahah!
+<0062> Nuguaa!
+<0063> Kuwaha!
+<0064> Guooh!
+<0065> Cê errô!
+<0066> Mire melhor da próxima vez.
+<0067> Cê é terrível nisso.
+<0068> Whoa!
+<0069> Guhahahaha!
+<0070> Pois bem, vou pegar tuas estrelas.
+<0071> Tu tá morto parça!
+<0072> Guhaha, tô me sentindo bem demais!
+<0073> É o que!
+<0074> Como você ousa maldito!
+<0075> Seu filho da puta!
+<0076> Eu deixei cê ganhar.
+<0077> Ótimo.
+<0078> Não ligo de conseguir mais disso.
+<0079> Ei, me dá mais.
+<0080> Quanta grana vale tudo isso ae?
+<0081> Tsk.
+<0082> Maldito roubado.
+<0083> A vida é uma porcaria.
+<0084> Mão de vaca.
+<0085> Quem quer que fez isso é um imbecil.
+<0086> Devia ter sido... mais cuidadoso.
+<0087> Oh, Tequila!
+<0088> Obrigado por essa merda de coisa.
+<0089> M-mas cê é grandão, ein.
+<0090> C-cê não vai me assustá não.
+<0091> B-beleza então! Pode vir, seu idiota gigantesco.
+<0092> De-devia ter ficado longe do que quer que isso seja.
+<0093> Veja como piratas conseguem coisas.
+<0094> Eu vou roubar até o último pedaço de tesouro que tiver por aqui.
+<0095> Vô voltar com uma pilha de coisas roubadas.
+<0096> Roubar é permitido, né?
+<0097> Vô criar mó tumulto ali.
+<0098> Lutar é um meio, não um fim.
+<0099> Não espere misericórdia de mim.
+<0100> Vô espancar eles e roubá-los.
+<0101> Cê tem que ser um vilão que nem eu, chefia.
+<0102> Vamo jogar sujo!
+<0103> Olhe e aprenda como piratas vivem suas vidas!
+<0104> Não tem uma lei contra piratas voando no céu.
+<0105> Pesar âncora, galera!
+<0106> Nós vamos pegá-los!
+<0107> Tamo aqui pra roubar tudo.
+<0108> Vamo com tudo.
+<0109> Bom trabalho, galera.
+<0110> Hora de vazar, galera.
+<0111> Bom trabalho.
+<0112> Gahaha, eu conquistei até mesmo esse jogo de tabuleiro.
+<0113> Cê é um de nós agora, tolo.
+<0114> Nunca te vi antes.
+<0115> Isso nos fará mais fortes.
+<0116> Certo, alguém leve para nosso armazenamento.
+<0117> Hmm, cuide do resto.
+<0118> Certo, nois vamos trocar de lugar.
+<0119> Não cometa erros ein.
+<0120> Vô descansar um pouco.
+<0121> Beleza, marujo.
+<0122> Ótimo.
+<0123> Okay.
+<0124> Não.
+<0125> Droga!
+<0126> Dia de sorte.
+<0127> Hmm.
+<0128> Vamos lá!
+<0129> Hmph!
+<0130> Aqui vamos nós!
+<0131> Ahoy.
+<0132> Hmm.
+<0133> Que bom.
+<0134> Gahaha, isso é fantástico!
+<0135> Filho da puta!
+<0136> Não tem motivos para não usar isso.
+<0137> Nunca vi este. Interessante.
+<0138> Este aqui parece bonzão.
+<0139> Deixa eu pegar isso empresado.
+<0140> Ha ha ha, esse é o espírito da coisa!
+<0141> Grande magnum, atire!!
+<0142> Cê tem o mesmo cheiro que nós!
+<0143> Não irei pegar leve, nem contra pirralhos!
+<0144> Oh, eu gosto da tua cara. É a de um vilão real.
+<0145> Esvazie sua porcaria de mochila agora mesmo!
+<0146> Alguém ta cheirando a ouro!
+<0147> Cê pode ficar com esses, então adios!
+<0148> Filho da puta, você realmente atirou em mim!
+<0149> Isto é o que nós piratas fazem!
+<0150> Cê pode trabalhar pra mim!
+<0151> Ahoy, se não é a garotinha barril de vinho!
+<0152> Kuwaha! O que tem de errado comigo, sendo derrotado por uma garotinha!
+<0153> O-o-ooh! Eu no fim consegui derrotar não importa o que era...
+<0154> Mano a mano, eu e tu! Justo, né?
+<0155> Esse treco de carta foi feito para mim!
+<0156> Existem batalhas que você simplesmente não pode fugir!
+<0157> Gaaahahaha! Perfeito, simplesmente perfeito!
+<0158> Tsk, robalheira.
+<0159> Kuwahahaha, não podia ser melhor.
+<0160> Nem ouse mexer comigo!
+<0161> Gahaha, tentando fugir do treinamento?
+<0162> Piratas precisam de tempo para descansar, também!
+<0163> Wahaha, lave sua louça hoje!
+<0164> Guoh... Você deixa o papai orgulhoso!
+<0165> Quê-, comunidade!

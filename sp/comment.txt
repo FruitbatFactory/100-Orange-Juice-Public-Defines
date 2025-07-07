@@ -1,0 +1,277 @@
+
+< COM_CONFIG_SYSTEM >
+Configuración del Sistema.
+
+< COM_CONFIG_SCREEN >
+Configuración de la Pantalla.
+
+< COM_CONFIG_AUDIO >
+Configuración del Audio.
+
+< COM_CONFIG_VOICE >
+Configuración de las Voces.
+
+< COM_CONFIG_MODS >
+Mods instalados actualmente.
+
+< COM_NEWGAME_SELECTSLOT >
+Seleccione una ranura de guardado.
+
+< COM_NEWGAME_SLOTCONFIRM >
+¿Quiere hacer un nuevo perfil?
+
+< COM_NEWGAME_ENTERNAME >
+¿Cuál es tu nombre?
+
+< COM_NEWGAME_SELECTCHARACTER >
+Seleccione un personaje.
+
+< COM_NEWGAME_CHARACTERCONFIRM >
+¿Está seguro de que quiere usar este personaje?
+
+< COM_LOADGAME_SELECTSLOT >
+Seleccione el perfil que quiera cargar.
+
+< COM_LOADGAME_LOADCONFIRM >
+¿Está seguro de que quiere cargar este perfil?
+
+< COM_SHOP_SELECTITEM >
+Seleccione el objeto que quiera comprar.
+
+< COM_SHOP_BUYCONFIRM >
+¿Está seguro de que quiere comprar esto?
+
+< COM_SHOP_BUYEVENTCONFIRM >
+¿Quieres desbloquear el progreso de este evento?
+
+< COM_SHOP_ITEMSOLDOUT >
+Esto ya fue comprado anteriormente.
+
+< COM_SHOP_ITEMNOTINSTOCK >
+Esto todavía no se ha puesto a la venta.
+
+< COM_SHOP_NOTENOUGHCURRENCY >
+No tienes lo que se necesita para comprar esto.
+
+< COM_SHOP_CONVERTCURRENCY >
+¡Has realizado un intercambio!
+
+< COM_SHOP_NOSTEAMCONNECTION >
+Este objeto requiere una conexión a Steam para ser comprado.
+
+< COM_SHOP_NOSTEAMCONNECTIONDLC >
+No se puede verificar el DLC sin una conexión a Steam.
+
+< COM_SHOP_ALREADYOWNDLC >
+Ya ha comprado este DLC.
+
+< COM_SHOP_BONUSITEM >
+Este personaje es regalado a todos los propietarios de %s en Steam.
+
+< COM_SHOP_CHARACTERITEM >
+Este objeto le pertenece a un personaje que no tienes.
+
+< COM_SHOP_LEVELTOOLOW >
+Su nivel no es lo suficientemente alto para comprar este objeto.
+
+< COM_SHOP_BOUGHTCARDPACK >
+¡Has comprado un paquete de cartas!
+
+< COM_SHOP_BOUGHTCARD >
+¡Has comprado una sola carta!
+
+< COM_SHOP_BOUGHTDISCOUNT >
+¡Has conseguido un descuento!
+
+< COM_SHOP_BOUGHTCHARACTER >
+¡Has comprado un nuevo personaje!
+
+< COM_SHOP_BOUGHTFIELD >
+¡Has comprado un nuevo mapa!
+
+< COM_SHOP_BOUGHTCOLORS >
+¡Has comprado nuevos colores!
+
+< COM_SHOP_BOUGHTHAIR >
+¡Has comprado un nuevo color de cabello!
+
+< COM_SHOP_BOUGHTACCESSORY >
+¡Has conseguido un nuevo accesorio!
+
+< COM_SHOP_BOUGHTDICE >
+¡Has comprado un nuevo par de dados!
+
+< COM_SHOP_BOUGHTCANDY1 >
+¡Has comprado un caramelo!
+
+< COM_SHOP_BOUGHTCANDY10 >
+¡Has comprado 10 caramelos!
+
+< COM_SHOP_BOUGHTCRATE >
+¡Has comprado una caja!
+
+< COM_SHOP_BOUGHTPET >
+¡Has comprado una nueva mascota!
+
+< COM_SHOP_BOUGHTHOMEMARK >
+¡Has comprado un nuevo hogar!
+
+< COM_SHOP_BOUGHTGENERICITEM >
+¡Has comprado un objeto!
+
+< COM_SHOP_BOUGHTEMOTE >
+¡Has comprado un emoticon!
+
+< COM_SHOP_BOUGHTCOSTUME >
+¡Has comprado un atuendo
+
+< COM_USERINFO_PLAYERINFO >
+Ver la información del jugador.
+
+< COM_USERINFO_GAMEINFO >
+Ver la información del juego.
+
+< COM_USERINFO_BROWSECARDS >
+Mire sus cartas.
+
+< COM_USERINFO_CARDSINFO >
+Revise la información de su colección de cartas.
+
+< COM_USERINFO_AVATAR >
+Cambie la forma en la que se ve su avatar.
+
+< COM_USERINFO_TAUNTS >
+Personaliza las burlas de cada unidad.
+
+< COM_USERINFO_GALLERY >
+Disfruta de varias ilustraciones, escenas, voces y canciones.
+
+< COM_CAMPAIGN_SELECTSCENARIO >
+Escoja un escenario.
+
+< COM_CAMPAIGN_SELECTSTAGE >
+Escoja un capitulo.
+
+< COM_CAMPAIGN_BREAKERPACKONLY >
+Esta campaña solo puede ser jugada por los propietarios del DLC: "Breakers".
+
+< COM_CAMPAIGN_WITCHPACKONLY >
+Esta campaña solo puede ser jugada por los propietarios del DLC: "Brujas".
+
+< COM_CAMPAIGN_TOYSTOREPACKONLY >
+Esta campaña solo puede ser jugada por los propietarios del DLC: "Tienda de Regalos".
+
+< COM_CAMPAIGN_OLDGUARDIANPACKONLY >
+Esta campaña solo puede ser jugada por los propietarios del DLC: "Guardianas del Pasado".
+
+< COM_CAMPAIGN_WANDERERPACKONLY >
+Esta campaña solo puede ser jugada por los propietarios del DLC: "Viajeras".
+
+< COM_CAMPAIGN_WARUDAPRISONBREAKPACKONLY >
+Esta campaña solo puede ser jugada por los propietarios del DLC: "Escape de Prisión Al Estilo Waruda".
+
+< COM_FREEBATTLE_CHOOSEGAMETYPE >
+Escoja un modo de juego.
+
+< COM_FREEBATTLE_CHOOSEGAMETYPE >
+Juegue una partida en línea o en soledad.
+
+< COM_FIELDSELECT >
+Escoja un mapa.
+
+< COM_RANDOMFIELD_MINIMUMREQUIRED >
+Tiene que seleccionar al menos 3 eventos distintos.
+
+< COM_RANDOMFIELDEVENT_MINIMUMREQUIRED >
+Tiene que seleccionar al menos 3 mapas distintos.
+
+< COM_DECK_PREPARE >
+Escoja un personaje y prepare su mazo de cartas.
+
+< COM_DECK_NOTPREPARED >
+Todavía no está preparado.
+
+< COM_DECK_CARDLIMITREACHED >
+No se pueden usar más cartas de este tipo.
+
+< COM_DECK_DLCONLYCARD >
+Esta carta solo puede ser usada por los propietarios de su DLC.
+
+< COM_DECK_WAITING >
+Esperando a que el resto de los jugadores estén listos...
+
+< COM_DECK_READY >
+¡Listo para jugar!
+
+< COM_GAME_PAUSED >
+Juego pausado.
+
+< COM_GAME_QUITCONFIRM >
+¿Está seguro de que quiere abandonar el juego?
+
+< COM_RESULT_STARSGAINED >
+Las estrellas que consiguió en este juego.
+
+< COM_CREATELOBBY_SETOPTIONS >
+Configure las opciones de la sala.
+
+< COM_CREATELOBBY_CREATING >
+Creando la sala...
+
+< COM_CREATELOBBY_FAILED >
+No se pudo crear la sala.
+
+< COM_CREATELOBBY_NAMEEMPTY >
+La sala tiene que tener un nombre.
+
+< COM_LOBBYLIST_SELECTLOBBY >
+Escoja una sala. La estrella verde significa que uno de sus amigos de Steam está dentro de ella.
+
+< COM_LOBBYLIST_JOINLOBBY >
+Únase a la sala o contacte al dueño de la misma.
+
+< COM_LOBBYLIST_PASSWORDEMPTY >
+¿Escribió la contraseña?
+
+< COM_LOBBYLIST_SEARCHEMPTY >
+¿Qué está buscando?
+
+< COM_LOBBYLIST_CONNECTFAILED >
+No se pudo conectar a la sala.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOSELECT >
+No se seleccionó la sala - No se recibieron datos.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOCONTACT >
+No se pudo contactar con el dueño - No se recibieron datos.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOJOIN >
+No se pudo conectar a la sala - No se recibieron datos.
+
+< COM_LOBBY_WAITINGFORPARTICIPANTS >
+Esperando a otros participantes...
+
+< COM_LOBBY_WAITINGFORPLAYERS >
+Esperando a otros jugadores...
+
+< COM_LOBBY_PLAYERSNOTREADY >
+No se puede comenzar el juego a menos de que todos estén listos.
+
+< COM_LOBBY_KICKREADYPLAYER >
+No puede echar a un jugador que ya está listo.
+
+< COM_LOBBY_KICKNOTREADY >
+Todavía no puede echar a ese jugador.
+
+< COM_LOBBY_MIDGAME_JOINED >
+¡Se unió al juego! Entrará en el comienzo del próximo capítulo.
+
+< COM_LOBBY_SPECTATOR_WAITINGDECKS >
+¡El juego comenzó! Esperando a que los jugadores terminen sus mazos...
+
+< COM_USERINFO_STATS >
+Revisa tus estadísticas con cada personaje usado en línea.
+
+
+[EOF]
+

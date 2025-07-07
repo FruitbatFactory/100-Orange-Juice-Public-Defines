@@ -1,0 +1,307 @@
+
+// ========= Scene:  Opening =========
+
+// (No Speaker)
+<0000> Dentro do Restaurante de Família Pures
+
+// (poyo)
+<0001> *Mastiga mastiga*... Comer faz você se sentir viva, né?
+
+// (chuu)
+<0002> Quê?
+
+// (poyo)
+<0003> Mesmo comendo três vezes ao dia, todos os dias, por que será que me sinto tão feliz quando estou comendo?
+
+// (chuu)
+<0004> Porque é uma das três grandes necessidades humanas, né?
+
+// (poyo)
+<0005> Ei, Chuu, sem conversa suja!
+
+// (chuu)
+<0006> Não é suja.
+
+// (chuu)
+<0007> Aliás, Poyo, não tem alguma coisa que você queira fazer?
+
+// (poyo)
+<0008> Uma refeição completa em um restaurante caríssimo, que com nossa poupança, definitivamente não podemos bancar...
+
+// (chuu)
+<0009> Não é isso que quis dizer. Somos estudantes, lembra?
+
+// (chuu)
+<0010> Você não quer fazer algo que você só pode curtir quando se é jovem?
+
+// (poyo)
+<0011> Conversa suja de novo!?
+
+// (chuu)
+<0012> Que foi, você está na puberdade!
+
+// (poyo)
+<0013> Sim, eu estou!
+
+// (chuu)
+<0014> Sim, nós duas estamos... Mas olha, nós entramos na escola faz alguns meses, e isso passou em um piscar de olhos.
+
+// (poyo)
+<0015> É verdade. Até agora, estudar não é tão ruim, e jogar conversa fora com os amigos depois da aula enquanto comemos também é divertido.
+
+// (poyo)
+<0016> Essas coisas me dão uma sensação de ser jovem, sabe...
+
+// (poyo)
+<0017> Mas às vezes sinto que falta alguma coisinha...
+
+// (chuu)
+<0018> Eu também. Quero fazer algo especial! Mas...
+
+// (poyo)
+<0019> Nada parece bom. Nenhum dos clubes escolares parecem bons.
+
+// (chuu)
+<0020> Mano, nossa juventude vai acabar antes que percebamos.
+
+// (haruka)
+<0021> Ei. Do que vocês estão falando sobre?
+
+// (kanata)
+<0022> ......
+
+// (poyo)
+<0023> Oh, Haru-Kana.
+
+// (chuu)
+<0024> Nós estamos tendo uma discussão sobre nossas vidas de estudantes.
+
+// (kanata)
+<0025> ...Você quer dizer, conversa suja?
+
+// (chuu)
+<0026> De novo isso não!
+
+// (haruka)
+<0027> Entendo. Então você não tem nada em particular que queira fazer, certo?
+
+// (poyo)
+<0028> Eu gosto do jeito que minha vida está agora, mas parece que falta algo comparado com o pessoal dos clubes.
+
+// (kanata)
+<0029> Na minha opinião, seu período de juventude é um terço tão bom quanto o deles.
+
+// (poyo)
+<0030> Ou seja, não é nada bom!
+
+// (haruka)
+<0031> E você, Kanata?
+
+// (kanata)
+<0032> O mesmo que a Poyo.
+
+// (chuu)
+<0033> Então, ninguém está feliz com suas vidas, pelo visto.
+
+// (haruka)
+<0034> Se você realmente não gosta do jeito que sua vida está, por que você não a torna melhor? ♥
+
+// (poyo)
+<0035> Eu faria se pudesse!
+
+// (chuu)
+<0036> Você não disse há alguns minutos que comer te deixa feliz?
+
+// (poyo)
+<0037> Daí você começou a falar sobre nossas vidas!
+
+// (haruka)
+<0038> Bem, entrar para um clube seria a melhor opção... Eu acho.
+
+// (poyo)
+<0039> Isso é verdade, mas... não há nenhum clube que me interesse.
+
+// (poyo)
+<0040> Eu queria que houvesse um em que nós quatro pudéssemos nos engajar completamente...
+
+// (chuu)
+<0041> Somos amigas desde o jardim de infância, então seria ótimo se a gente pudesse estar no mesmo clube.
+
+// (haruka)
+<0042> Um clube que a gente possa fazer juntas. Se a gente quiser fazer isso...
+
+// (chuu)
+<0043> Nada de esportes, por favor.
+
+// (kanata)
+<0044> ...Concordo.
+
+// (haruka)
+<0045> Eu gosto de esportes. Que tal cozinhar?
+
+// (poyo)
+<0046> Eu não cozinho. Apenas como.
+
+// (kanata)
+<0047> Ciência.
+
+// (haruka)
+<0048> Isso nos faria cheirar a produtos químicos.
+
+// (kanata)
+<0049> Você tem uma ideia completamente errada, Haruka.
+
+// (poyo)
+<0050> Chega de discussão!
+
+// (poyo)
+<0051> E nós não chegamos em um acordo! Não existe nenhum clube que podemos todas entrar juntas!
+
+// (kanata)
+<0052> Eu sabia que isso ia acontecer logo quando a discussão começou.
+
+// (chuu)
+<0053> Deixe para a gênia da casa.
+
+// (kanata)
+<0054> Para, você está me deixando envergonhada.
+
+// (haruka)
+<0055> Eu pensei que seria muito mais divertido se a gente pudesse fazer algo como uma atividade de clube. *Embaralha embaralha*
+
+// (poyo)
+<0056> De repente, Haruka está embaralhando um baralho de cartas.
+
+// (haruka)
+<0057> Vocês todas querem jogar, né? Digo, 100% Orange Juice.
+
+// (kanata)
+<0058> Eu estava a espera.
+
+// (chuu)
+<0059> Nós terminamos a conversa, então é uma boa hora, eu acho.
+
+// (haruka)
+<0060> As mesmas regras de sempre?
+
+// (poyo)
+<0061> Claro. A perdedora comprará para a vencedora algo do menu.
+
+// (chuu)
+<0062> Eu tenho que ganhar.
+
+// (kanata)
+<0063> Eu estou com vontade de comer uma picanha.
+
+// (haruka)
+<0064> Vamos começar, então.
+
+// (poyo)
+<0065> 100% Orange Juice, vamos lá!
+
+
+// ========= Scene:  Ending =========
+
+
+// (poyo)
+<0066> Eba, eu venci!!!
+
+// (chuu)
+<0067> Raios. Eu tenho certeza que usei as cartas nos momentos certos.
+
+// (kanata)
+<0068> Você não pode vencer apenas com habilidade em 100% Orange Juice.
+
+// (haruka)
+<0069> Ugh, eu sou a perdedora... e já estou com pouco dinheiro.
+
+// (kanata)
+<0070> Porque você desperdiça seu dinheiro.
+
+// (haruka)
+<0071> Uma ajudinha, Kana?
+
+// (kanata)
+<0072> Não.
+
+// (haruka)
+<0073> Você é tão cruel...
+
+// (chuu)
+<0074> Bom, creio que podemos chamar isto de uma boa página do nosso livro da juventude.
+
+// (poyo)
+<0075> Sim, né?
+
+// (chuu)
+<0076> ?
+
+// (poyo)
+<0077> Sabe quando é que eu sinto que estou curtindo minha juventude ao máximo? Quando eu estou com vocês.
+
+// (kanata)
+<0078> Se cada uma de nossas vidas é apenas 33% boa como a de outras pessoas, então serão 132% boas quando combinadas.
+
+// (chuu)
+<0079> É assim que funciona? Você tem certeza?
+
+// (poyo)
+<0080> Eu não acho que está errado, pois nós estamos nos divertindo!
+
+// (haruka)
+<0081> Sim.
+
+// (haruka)
+<0082> Depois que todas nós conseguirmos empregos e coisas assim, não vamos mais poder jogar um jogo de tabuleiro em um restaurante desse jeito.
+
+// (haruka)
+<0083> Então eu acho que essa é a nossa maneira de aproveitar ao máximo nossa juventude.
+
+// (poyo)
+<0084> Eu vou chorar.
+
+// (chuu)
+<0085> Bem dito, Haru... O que você acabou de dizer já melhorou minha percepção da vida.
+
+// (kanata)
+<0086> No meu cálculo, está 150% bom agora.
+
+// (haruka)
+<0087> Então, isso significa que não precisamos entrar para um clube escolar para melhorar nossa vida como alunas?
+
+// (chuu)
+<0088> Acho que sim.
+
+// (poyo)
+<0089> Não, deveríamos fazer um clube!
+
+// (haruka)
+<0090> Ãhn?
+
+// (poyo)
+<0091> Com todas nós juntos, podemos tornar nossas vidas muito melhores e mais divertidas, então deveríamos fazer alguma atividade de clube!
+
+// (chuu)
+<0092> Mas decidimos que não há clubes para participarmos.
+
+// (kanata)
+<0093> Então teremos que criar um.
+
+// (poyo)
+<0094> Sim! Criaremos um! Um novo clube!
+
+// (haruka)
+<0095> E o que faremos lá?
+
+// (kanata)
+<0096> Você já deveria ter descoberto.
+
+// (chuu)
+<0097> Bem, é muito fácil adivinhar... não é?
+
+// (haruka)
+<0098> Ah, entendi.
+
+// (poyo)
+<0099> Estamos criando um clube 100%OJ na nossa Shiny Sparkling Academy!!!
+

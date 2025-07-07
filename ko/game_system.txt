@@ -1,0 +1,131 @@
+
+< GAME_SYSTEM_ROLLTOREVIVE >
+이상을 굴려서\n \n부활!
+
+< GAME_SYSTEM_ROLL_MULTIPLE >
+주사위 \n \n%d개 굴리기!
+
+< GAME_SYSTEM_WINNERSCREEN_STARS >
+스타
+
+< GAME_SYSTEM_WINNERSCREEN_WINS >
+승리
+
+< GAME_SYSTEM_WINNERSCREEN_FAME >
+명성
+
+< GAME_SYSTEM_HUD_LVL >
+레벨
+
+< GAME_SYSTEM_HUD_HP >
+HP
+
+< GAME_SYSTEM_HUD_NORMA >
+노르마
+
+< GAME_SYSTEM_HUD_NORMA_MAX >
+MAX!
+
+< GAME_SYSTEM_HUD_CARDEFFECTS >
+카드 효과
+
+< GAME_SYSTEM_HUD_CARDEFFECTS_STACKS >
+중첩
+
+< GAME_SYSTEM_HUD_CARDEFFECTS_DURATION >
+지속 시간
+
+< GAME_SYSTEM_SHOP_LEVEL >
+레벨 %d
+
+< GAME_SYSTEM_SHOP_NO_BONUS >
+개방된 이점이 없습니다.
+
+// %% is normal here.
+< GAME_SYSTEM_SHOP_BONUS_1 >
+SSR 아이템이 나타날 확률이 %d %% 상승합니다.
+
+// %% is normal here.
+< GAME_SYSTEM_SHOP_BONUS_2 >
+아이템의 최종 가격이 %d %% 인하됩니다.
+
+< GAME_SYSTEM_SHOP_BONUS_3 >
+카드를 팔면 %d스타를 추가로 받습니다.
+
+< GAME_SYSTEM_SHOP_BONUS_4 >
+각 아이템의 재고가 하나씩 늘어날 수 있습니다.
+
+< GAME_SYSTEM_SHOP_BONUS_5 >
+아이템 배달 퀘스트를 완료할 시 %d스타를 더 얻습니다.
+
+< GAME_SYSTEM_SHOP_BONUS_6 >
+각 아이템의 재고가 최대 2개씩 늘어날 수 있습니다.\n- 이 종류의 상점이 필드에 하나 더 나타납니다.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_1_NAME >
+검술
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_1_DESC >
+공격력 +1을 영구히 얻는다.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_2_NAME >
+방패술
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_2_DESC >
+방어력 +1을 영구히 얻는다.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_3_NAME >
+회피술
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_3_DESC >
+회피력 +1을 영구히 얻는다.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_4_NAME >
+결심
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_4_DESC >
+부활값이 영구히 1 감소한다.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_5_NAME >
+자극
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_5_DESC >
+최대 HP +1을 영구히 얻는다. 이 강화를 고를 시 유닛이 완전히 회복된다.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_6_NAME >
+운반수
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_6_DESC >
+패 용량과 의뢰 용량이 영구히 1장씩 증가한다.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_7_NAME >
+프리미엄 멤버십
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_7_DESC >
+(수상쩍은 상인을 제외한) 모든 상점의 최종 코스트가 30% 감소한다.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_8_NAME >
+산책가
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_8_DESC >
+마지막 이동 굴림의 칸수를 소진하고 턴을 마치면 다음 이동 굴림에서 이동력 +1을 얻는다.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_9_NAME >
+풍작
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_9_DESC >
+즉시 100스타를 얻으며 현상수배를 완수할 때마다 스타를 얻는다.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_10_NAME >
+집 지킴이
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_10_DESC >
+내 홈에 다른 플레이어가 멈출 때 피해 2점을 준다.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_11_NAME >
+사령관
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_11_DESC >
+아군 소환체가 최대 HP +2를 얻고 완전한 통제가 가능해진다. 필드에 아군 소환체가 있으면 이 강화를 고를 시 완전히 회복된다. 아군 소환체가 현상수배를 완수할 수 있게 된다.
+
+[EOF]
+

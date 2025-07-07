@@ -1,0 +1,161 @@
+
+<0000> Yassai!
+<0001> Mossai!
+<0002> Essa!
+<0003> Hoisa!
+<0004> Glowing!
+<0005> Throwing!
+<0006> I'll turn the tide!
+<0007> The time has come to play this card!
+<0008> Guhihihihi!
+<0009> I'll sneak this in here...
+<0010> I'm done setting a trap!
+<0011> Trap card!
+<0012> Battle card!
+<0013> This is for my victory!
+<0014> Battle card, open!
+<0015> This is the moment!
+<0016> Ababababaaaa!!
+<0017> Sigh... I feel like I stayed up all night...
+<0018> Refreeeeeesh!!
+<0019> I can go on!
+<0020> I can do more of this...!! I can play more!!
+<0021> Funyaheh...
+<0022> Arrgh, just kill me now!
+<0023> Gosh darn it...
+<0024> My Luck isn't high enough...
+<0025> Smash!!
+<0026> Oraah!
+<0027> Syura Cutie Punch!!
+<0028> Take them down with a hook!
+<0029> Habua!!
+<0030> Gubee!
+<0031> You're the worst!
+<0032> Oof!
+<0033> I'm gradually feeling better...
+<0034> Heal!
+<0035> Boy, I feel alive again!
+<0036> An herb... munch munch...
+<0037> Going through a warp zone!
+<0038> Oh my goooood, I'm flying!!
+<0039> Where ever will I end up!
+<0040> Guess I'll give this a twirl!
+<0041> Death should not have taken thee...
+<0042> Game over...?
+<0043> Oh... I'm out of energy...
+<0044> I couldn't make it...!
+<0045> Behold! Syura-chan's here!
+<0046> I must go fight someone stronger than myself!
+<0047> Time to hunt!
+<0048> Why don't we fight!?
+<0049> A new challenger has appeared!
+<0050> I accept this duel!
+<0051> Let's not go easy on each other!
+<0052> I see you're not afraid of death... *snigger*
+<0053> Critical hit!!
+<0054> Oryaah!
+<0055> 16-shot-button-combo!
+<0056> Take this and this and this!
+<0057> Tskaaaaa!!
+<0058> Fue!
+<0059> How dare you!
+<0060> Ugh!
+<0061> Aaargh!
+<0062> Brooooah!
+<0063> That friggin' hurt!
+<0064> Buheeeee...!
+<0065> Piyo-chan barrier!
+<0066> Invincibility mode active!
+<0067> A successful dodge!
+<0068> Think you can hit me?!
+<0069> Yaaay! Wiiin!
+<0070> I'm the... winner!
+<0071> I did it! I did it!
+<0072> I won! I won!
+<0073> I got beaten up so hard...
+<0074> This is the worst...
+<0075> I admit... that you're a little strong...
+<0076> You're... good...
+<0077> Gimme a lot, you damn panel!
+<0078> Syura has gained a 1-up!
+<0079> Ding-ding-ding!
+<0080> All right, it's a plus panel!
+<0081> Aaargh!! My darn moneyyyy!
+<0082> Don't leave meee!!
+<0083> My staaaaars...!
+<0084> Oh boy, it's a minus panel...
+<0085> Guwah, who the hell set a trap here!!
+<0086> This is mean...!
+<0087> Crap, it's a trap!
+<0088> Kuwah! God darn it!
+<0089> Oh, I sense a boss...!
+<0090> I-I'd better find a save point...!
+<0091> This is freaking crazy!
+<0092> So gigantic!!!
+<0093> Score attack!
+<0094> I'll gather stars!
+<0095> I could go for stars!
+<0096> Stars! More stars!!
+<0097> Something's telling me to fight...!
+<0098> My fists desire blood...!
+<0099> Battles!
+<0100> Let's fight!
+<0101> Syura's here! What's up!
+<0102> Oh, me?
+<0103> Trust me, I'm very good at games!
+<0104> All right, let's work together!
+<0105> Round one, fight!
+<0106> Now... let's see how good the other guys are!
+<0107> It's time... to show what Syura's got!
+<0108> Let's go hunting!
+<0109> All right! I won, I won!
+<0110> Not surprising... at all!
+<0111> Yaay! Victory is mine!
+<0112> I did iiiiiiit!!! I'm in the first place!
+<0113> Got a new one!
+<0114> Oh, is that a rare item?
+<0115> Behold... this is what I've been looking for!
+<0116> Treasure obtained!
+<0117> Time for substitution, high-five!
+<0118> Take care of the rest, please.
+<0119> Retreating is also a good strategy!
+<0120> Body replacement technique…!
+<0121> Okay!
+<0122> I think it's good!
+<0123> Sure!
+<0124> Hmm.
+<0125> Hmm... this is bad.
+<0126> Lucky you!
+<0127> Hmm?
+<0128> Here we go!
+<0129> Roll over and over!
+<0130> Gooooo!
+<0131> Yahoo!
+<0132> Um...
+<0133> That's very good!
+<0134> Incredible! You're super!
+<0135> Howah, what a mess!
+<0136> I'll power myself up with this card I stole!
+<0137> Ohoo! What the heck's this card!!
+<0138> I'll just randomly use this card!
+<0139> You wouldn't think I'd play this card, would you!
+<0140> We should fight, Q-chan! The loser will treat the winner!
+<0141> So we finally face each other...!
+<0142> Booyah! You owe me a ramen after school!
+<0143> Heee, I lost again...!
+<0144> Ohhoo! Blonde! Silky and smooth hair! Cutie!!
+<0145> She's got green eyes...!! So charming!!
+<0146> Ah! You've got to be Piyo's dad!!
+<0147> What? You're not Piyo's dad?
+<0148> Piyo's dad... so strong...!
+<0149> Oh hello, Natt! How you doin'?
+<0150> Meeeeeeiy! We're going to fight, you and me!
+<0151> Mei, I can tell this is going to be one furious battle!
+<0152> I won this time! Fufufu!
+<0153> Guwah! Come on, go easier on me!!
+<0154> Howaaaah! Fine skin! Blonde! What kind of pretty girl is this?!
+<0155> Howah, tiny! And with silver hair! Shining! Kewt!
+<0156> Impressive... A pretty girl like her can even handle an airplane!
+<0157> Santa with bunny ears!! Wait, is Santa real?
+<0158> Are you a cosplayer? Wow, that's one amazing costume!
+<0159> Do-do-do-do-dooo!

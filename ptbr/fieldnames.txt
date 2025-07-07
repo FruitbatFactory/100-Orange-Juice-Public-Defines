@@ -1,0 +1,231 @@
+
+< FIELD_RANDOM >
+Aleatório
+
+< FIELD_UNKNOWN >
+Desconhecido
+
+< FIELD_PRACTICE >
+Campo de treinamento
+
+< FIELD_SPACEWANDERER >
+Andarilho do Espaço
+
+< FIELD_PUDDINGCHASE >
+Caça ao Pudim
+
+< FIELD_CHRISTMASMIRACLE >
+O Milagre de Natal
+
+< FIELD_PLANETEARTH >
+Planeta Terra
+
+< FIELD_LAGOONFLIGHT >
+Voo da Lagoa
+
+< FIELD_WARFARE >
+Estado de Guerra
+
+< FIELD_HIGHWAYHEIST >
+Rodovia do Roubo
+
+< FIELD_SEALEDARCHIVE >
+Arquivo Selado
+
+< FIELD_SUNSET >
+Pôr do Sol
+
+< FIELD_TOMOMOABYSS >
+Abismo de Tomomo
+
+< FIELD_WHITEWINTER >
+Inverno Branco
+
+< FIELD_NIGHTFLIGHT >
+Voo Noturno
+
+< FIELD_CLOVER >
+Trevo
+
+< FIELD_FARM >
+Fazenda
+
+< FIELD_STARCIRCUIT >
+Circuito Estelar
+
+< FIELD_TRAININGPROGRAM >
+Programa de Treinamento
+
+< FIELD_VORTEX >
+Vortex
+
+< FIELD_SWEETHEAVEN >
+Paraíso dos Doces
+
+< FIELD_STARSHIP >
+Nave Estelar
+
+< FIELD_FROSTCAVE >
+Caverna Congelada
+
+< FIELD_SHIPYARD >
+Estaleiro
+
+< FIELD_TREASUREISLAND >
+Ilha do Tesouro
+
+< FIELD_FUNGUSCAVE >
+Caverna dos Fungos
+
+< FIELD_TREASUREISLANDNIGHT >
+Ilha do Tesouro (Noite)
+
+< FIELD_WITCHFOREST >
+Floresta da Bruxa
+
+< FIELD_ICYHIDEOUT >
+Esconderijo Gelado
+
+< FIELD_SAKURA >
+Pancadaria Sakura
+
+< FIELD_WORKSHOP >
+A Oficina de Santa
+
+< FIELD_OCEANDIVE >
+Mergulho no Oceano
+
+< FIELD_OVERTHESEA >
+Sobre o Mar
+
+< FIELD_DARKCITADEL >
+Cidadela Escura
+
+< FIELD_BEGINNERTOWN >
+Cidade dos Iniciantes
+
+< FIELD_SCARREDLAND >
+Terra Marcada
+
+< FIELD_WINTERTOWN >
+Cidade dos Iniciantes (Inverno)
+
+< FIELD_DESERT >
+Estrada Solitária
+
+< FIELD_CIRCUS >
+Circo
+
+< FIELD_VOID >
+O Vazio
+
+< FIELD_PURES >
+Rally De Estampas Pures
+
+< FIELD_COOP_LAGOONFLIGHT >
+Voo da Lagoa CO
+
+< FIELD_COOP_SUNSET >
+Pôr do Sol CO
+
+< FIELD_COOP_POPPOABYSS >
+Abismo de Poppo
+
+< FIELD_COOP_STARCIRCUIT >
+Circuito Estelar CO
+
+< FIELD_COOP_SPACEWANDERER >
+Andarilho do Espaço CO
+
+< FIELD_COOP_HIGHWAYHEIST >
+Rodovia do Roubo CO
+
+< FIELD_COOP_FARM >
+Fazenda CO
+
+< FIELD_COOP_SHIPYARD >
+Estaleiro CO
+
+< FIELD_COOP_TRAININGPROGRAM >
+Programa de Treinamento CO
+
+< FIELD_COOP_NIGHTFLIGHT >
+Voo Noturno CO
+
+< FIELD_COOP_VORTEX >
+Vortex CO
+
+< FIELD_COOP_CYBERSPACE >
+Ciberespaço
+
+< FIELD_COOP_PLANETEARTH >
+Planeta Terra CO
+
+< FIELD_COOP_WITCHFOREST >
+Floresta da Bruxa CO
+
+< FIELD_COOP_WORKSHOP >
+A Oficina de Santa CO
+
+< FIELD_COOP_SAKURA >
+Pancadaria Sakura CO
+
+< FIELD_COOP_PUDDINGCHASE >
+Caça ao Pudim CO
+
+< FIELD_COOP_TREASUREISLAND >
+Ilha do Tesouro CO
+
+< FIELD_COOP_TREASUREISLANDNIGHT >
+Ilha do Tesouro CO (Noite)
+
+< FIELD_COOP_OCEANDIVE >
+Mergulho no Oceano CO
+
+< FIELD_COOP_OVERTHESEA >
+Sobre o Mar CO
+
+< FIELD_COOP_CLOVER >
+Trevo CO
+
+< FIELD_COOP_FROSTCAVE >
+Caverna Congelada CO
+
+< FIELD_COOP_ICYHIDEOUT >
+Esconderijo Gelado CO
+
+< FIELD_COOP_STARSHIP >
+Nave Estelar CO
+
+< FIELD_COOP_TOMOMOABYSS >
+Abismo de Tomomo CO
+
+< FIELD_COOP_WHITEWINTER >
+Inverno Branco CO
+
+< FIELD_COOP_BEGINNERTOWN >
+Cidade dos Iniciantes CO
+
+< FIELD_COOP_CHRISTMASMIRACLE >
+O Milagre de Natal CO
+
+< FIELD_COOP_DARKCITADEL >
+Cidadela Escura CO
+
+< FIELD_COOP_FUNGUSCAVE >
+Caverna dos Fungos CO
+
+< FIELD_COOP_PRACTICEFIELD >
+Campo de treinamento CO
+
+< FIELD_COOP_SEALEDARCHIVE >
+Arquivo Selado CO
+
+< FIELD_COOP_SWEETHEAVEN >
+Paraíso dos Doces CO
+
+< FIELD_COOP_WHIRLPOOL >
+Redemoinho
+
+[EOF]
+

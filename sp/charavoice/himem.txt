@@ -1,0 +1,161 @@
+<0000> Aquí.
+<0001> Ahí.
+<0002> Con elegancia.
+<0003> Permítenos.
+<0004> Fufu.
+<0005> Esto es para ti.
+<0006> Muy divertido, ¿no es así?
+<0007> Creo que ha llegado la hora.
+<0008> Mis cadenas.
+<0009> Ven aquí.
+<0010> Una pequeña travesura.
+<0011> Fufu, difícilmente puedo esperar para ver el resultado de esta acción.
+<0012> Esto será un poco violento.
+<0013> Haré que esto sea mejor para mí.
+<0014> ¿Como afectará esto al balance?
+<0015> Fufu, excelente.
+<0016> Que la diversión comience.
+<0017> ¿Podré hacerlo una vez más?
+<0018> Mi descanso parece haber acabado.
+<0019> Es la hora de que yo me vaya.
+<0020> Aún estoy ansiosa por ser quien obtenga la victoria.
+<0021> Oh cielos.
+<0022> Me pregunto por qué ha ocurrido algo como esto.
+<0023> Ha salido mal.
+<0024> ¿Por cuánto tiempo más tendré que quedarme aquí?
+<0025> ¡Foo!
+<0026> Ya.
+<0027> Aquí tienes.
+<0028> ¡Aja!
+<0029> Ugh.
+<0030> Cielos.
+<0031> Oh vaya.
+<0032> ¡Kya!
+<0033> Esta es una linda brisa.
+<0034> Qué refrescante.
+<0035> Mi energía está regresando.
+<0036> Wow.
+<0037> Oh vaya, eso no es muy gentil.
+<0038> Vaya.
+<0039> Estoy girando.
+<0040> Ajaja~
+<0041> Permíteme descansar aquí.
+<0042> Estoy un poco cansada.
+<0043> Necesito descansar.
+<0044> *Suspiro*
+<0045> Esta es mi oportunidad.
+<0046> Supongo que te has expuesto demasiado.
+<0047> Vamos a jugar, ¿sí?
+<0048> Seré un poco agresiva aquí.
+<0049> Vaya vaya.
+<0050> Me has sorprendido.
+<0051> ¿Quieres jugar?
+<0052> Qué emoción.
+<0053> ¡Foo!
+<0054> Ahí~
+<0055> Aquí~
+<0056> Por favor, toma esto.
+<0057> Yan.
+<0058> Boy.
+<0059> Ey.
+<0060> ¡Kya!
+<0061> Eso fue horrible.
+<0062> Owww.
+<0063> Oh, por favor.
+<0064> Esa fue una gran sorpresa.
+<0065> Ya no estoy ahí.
+<0066> Soy muy buena esquivando, ¿no es así?
+<0067> Estoy por aquí.
+<0068> Con facilidad.
+<0069> Aún no he jugado lo suficiente.
+<0070> Discúlpame.
+<0071> Fufu, eso ha sido divertido.
+<0072> Oh, ¿te has cansado?
+<0073> Esa ha sido mi pérdida.
+<0074> *Bostezo*
+<0075> Tienes mucha energía.
+<0076> Oh vaya.
+<0077> Eso se ve lindo.
+<0078> ¿En dónde debería dejar esto?
+<0079> Lo hice.
+<0080> ¿Podré llevarme esto a casa?
+<0081> Oh vaya, oh vaya, oh vaya.
+<0082> ¿A dónde crees que vas?
+<0083> Esas eran mis favoritas...
+<0084> Qué pena...
+<0085> Me ha sorprendido un poco.
+<0086> Kya... Ese fue un grito intencional.
+<0087> Cielos, esto no me gusta.
+<0088> Esta es... ¿una trampa...?
+<0089> Siento que algo muy grande se está acercando.
+<0090> Creo que vamos a tener un gran problema.
+<0091> Esto... me emociona un poco.
+<0092> Fufu, esto será divertido.
+<0093> No podré sostener muchas de ellas al mismo tiempo, pero...
+<0094> A lo mejor podría conseguir más para compartirlas con los demás.
+<0095> ¿Te gustan las cosas bellas? A mí sí.
+<0096> Fufu, vamos a juntar muchas de ellas.
+<0097> Me gusta hacer ejercicio de vez en cuando.
+<0098> No quiero que te contengas, ¿está bien?
+<0099> Esta opción también parece ser aceptable.
+<0100> Hacer ejercicio de forma ocasional nunca está mal.
+<0101> ¿Tienes un poco de tiempo libre?
+<0102> ¿Te importaría estar a mi lado por un rato?
+<0103> ¿Qué es lo que haremos el día de hoy?
+<0104> ¿Acaso estás invitándome a salir?
+<0105> En caso de ser una competencia, usaré todo lo que tenga para ganar.
+<0106> Muy bien, la victoria es lo único que importa.
+<0107> No puedo esperar para ver los resultados de este juego.
+<0108> Vamos a jugar hasta hacer felices a nuestros corazones.
+<0109> Me he divertido mucho.
+<0110> Fufufu, estoy muy feliz.
+<0111> Deberíamos volver a jugar en otra ocasión.
+<0112> Ese fue un buen juego.
+<0113> ¿Has obtenido algo? ¿Es bueno?
+<0114> Oh, eso es bueno, ¿no es así?
+<0115> Pareces estar feliz. ¿Has obtenido algo bueno?
+<0116> Eso parece ser lindo.
+<0117> Creo que es hora de irme.
+<0118> Me gustaría verte brillar ahí afuera.
+<0119> Buena suerte con el resto del juego.
+<0120> Es hora de cambiar.
+<0121> Sí.
+<0122> Eso es increíble.
+<0123> Sí, por supuesto.
+<0124> Eso no parece ser muy bueno.
+<0125> Lo siento mucho.
+<0126> Fufu, qué buena suerte.
+<0127> Bieeeen.
+<0128> Vamonos, ¿sí?
+<0129> ¡Ahí!
+<0130> Te deseo la mejor de las suertes.
+<0131> Te doy la bienvenida.
+<0132> No estoy segura de cómo reaccionar.
+<0133> Fufu, eso es realmente impresionante.
+<0134> Has hecho un gran trabajo. Estoy orgullosa de ti.
+<0135> Oh cielos.
+<0136> Me pregunto qué es lo que hará.
+<0137> ¿También puedo usar esto?
+<0138> Bien... ¿Estaré usando esto correctamente?
+<0139> ¿Qué es lo que esto hará? Ya quiero verlo.
+<0140> Muchas gracias.
+<0141> Suguri... ¿Acaso no puedes ver lo perezosa que pareces ser en este momento?
+<0142> Cielos, Suguri, tienes que explicarme por qué te ves así.
+<0143> No deberías ser perezosa, aún si no hay nadie más por aquí.
+<0144> No importa lo perezosa que luzcas, siempre sigues siendo igual de fuerte que antes.
+<0145> Realmente deberías intentarlo un poco más.
+<0146> Cielos, realmente eres perezosa.
+<0147> Pareces tener una vida muy bonita.
+<0148> Oh, ¿tú también estás aquí?
+<0149> No permitiré que tú me derrotes.
+<0150> Tú eres lo suficientemente fuerte para substituirme.
+<0151> ¿Creería que ella pueda tener un día libre?
+<0152> Jugar de forma casual es divertido. Tú también estás de acuerdo, ¿no?
+<0153> ¿Qué es lo que está usando...? Me pregunto si yo también podría usar algo así.
+<0154> Eres muy buena en el juego.
+<0155> Estoy aburrida.
+<0156> Ansío poder jugar con ustedes.
+<0157> Fufu, puedo ver que vamos a divertirnos mucho.
+<0158> No puedo creer que tenga a Suguri y a mi pequeña hermanita aquí.
+<0159> Ahora que estamos todas aquí, vamos a disfrutar del juego hasta más no poder.
+<0160> Siento el aroma de brujas malvadas por aquí.

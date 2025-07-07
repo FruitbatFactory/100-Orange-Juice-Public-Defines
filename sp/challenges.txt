@@ -1,0 +1,109 @@
+
+< CHALLENGE_TOOLTIP_REROLL >
+Paga %d estrellas para obtener un desafío diferente.
+
+< CHALLENGE_TOOLTIP_STARCOUNT >
+Estrellas Guardadas: %d
+
+< CHALLENGE_GENERIC_PLAYS >
+Juega en línea %d veces.
+
+< CHALLENGE_GENERIC_WINS >
+Gana un juego en línea.
+
+< CHALLENGE_GENERIC_STARS >
+Consigue %d estrellas.
+
+< CHALLENGE_GENERIC_KOS >
+Consigue %d victorias.
+
+< CHALLENGE_GENERIC_STAR_WINS >
+Gana %d juegos con Estrellas de Norma.
+
+< CHALLENGE_GENERIC_KO_WINS >
+Gana %d juegos con Victorias de Norma.
+
+< CHALLENGE_GENERIC_PANELS >
+Camina a través de %d paneles.
+
+< CHALLENGE_GENERIC_TRAPS >
+Coloca %d trampas.
+
+< CHALLENGE_GENERIC_STAR_NORMAS >
+Completa %d Normas de Estrellas.
+
+< CHALLENGE_GENERIC_WIN_NORMAS >
+Completa %d Normas de Victorias.
+
+< CHALLENGE_GENERIC_DAMAGE_DEALT >
+Realiza %d puntos de daño.
+
+< CHALLENGE_GENERIC_HEALING >
+Recupera %d puntos de vida.
+
+< CHALLENGE_GENERIC_PLAY_BOOST >
+Usa %d cartas de Impulso.
+
+< CHALLENGE_GENERIC_PLAY_EVENT >
+Usa %d cartas de Evento.
+
+< CHALLENGE_GENERIC_PLAY_BATTLE >
+Usa %d cartas de Batalla.
+
+
+< CHALLENGE_UNIT_PLAYS >
+Juega %d veces como %s.
+
+< CHALLENGE_UNIT2_PLAYS >
+Juega %d veces como %s o %s.
+
+< CHALLENGE_UNIT_WINS >
+Gana %d juegos como %s.
+
+< CHALLENGE_TYPE_UNIT_STAR_NORMAS >
+Completa %d Normas de Estrellas como %s.
+
+< CHALLENGE_TYPE_UNIT_WIN_NORMAS >
+Completa %d Normas de Victorias como %s.
+
+< CHALLENGE_CARD_BRING >
+Deja la carta: %s en el mazo %d veces.
+
+< CHALLENGE_CARD_PLAY >
+Juega la carta: %s %d veces.
+
+< CHALLENGE_CARD2_BRING >
+Deja la carta: %s o %s en el mazo %d veces.
+
+< CHALLENGE_CARD2_PLAY >
+Usa la carta: %s o %s %d veces.
+
+< CHALLENGE_MAP_PLAY >
+Juega %d veces en %s.
+
+< CHALLENGE_MAP2_PLAY >
+Juega %d veces en %s o %s.
+
+< CHALLENGE_TYPE_EVENT_VDAY_CHOCOLATE >
+Usa el dado de chocolate para noquear %d jugadores.
+
+< CHALLENGE_TYPE_EVENT_VDAY_HEARTS >
+Usa el dado de corazones para obtener %d estrellas de bonuses.
+
+< CHALLENGE_TYPE_EVENT_XMAS_ICE >
+Deslízate sobre %d paneles helados.
+
+< CHALLENGE_LABEL_CURRENT >
+Desafíos Actuales
+
+< CHALLENGE_MESSAGE_EVENT_NOT_LOADED >
+Obteniendo datos, por favor espera...
+
+< CHALLENGE_MESSAGE_DAYS >
+d
+
+< CHALLENGE_MESSAGE_REROLL_CONFIRM >
+¿Estás seguro de que quieres cambiar este desafío?
+
+[EOF]
+

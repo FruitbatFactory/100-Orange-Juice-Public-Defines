@@ -1,0 +1,110 @@
+// CampaignScenario_CodexStory_Commiseration
+// (lulu)
+<0000> Ahora que todo se ha calmado, Lulu pensaba que finalmente podría tomar un poco de tiempo para nadar y relajarse en el lago.
+// (lulu)
+<0001> Pero... Ella siente que está siendo observada.
+// (watty)
+<0002> O-oh. Um. Eso es mi culpa. Hola.
+// (lulu)
+<0003> ¡Ah, es la chica sirena!
+// (watty)
+<0004> Mi nombre es Watty, aunque... no te culpo por no recordar a alguien tan patética como yo...
+// (lulu)
+<0005> Cielos, eres muy deprimente.
+// (watty)
+<0006> ¡¿E-eh?!
+// (lulu)
+<0007> Lulu decía que ella quería aliviarse un poco.
+// (watty)
+<0008> Um... no soy tan tonta como para caer en algo así...
+// (lulu)
+<0009> P-pero siempre funciona en Ellie.
+// (watty)
+<0010> Creo que eso es más un problema con ella más que otra cosa.
+// (lulu)
+<0011> A-así que, ¿por qué observabas a Lulu desde el agua? ¿Querías ver a Lulu...?
+// (watty)
+<0012> ¡No! Yo solo... ahhh... lo siento... me iré...
+// (lulu)
+<0013> Eres un trabajo duro... Ejem.
+// (lulu)
+<0014> Lulu no está enfadada ni nada por el estilo, así que, ¿quieres hablar?
+// (watty)
+<0015> B-bueno... No en realidad. Solo quería... estar junto a ti, ya que...
+// (lulu)
+<0016> ¿Ya que?
+// (watty)
+<0017> ...ya que te veías más deprimente que yo aquella vez.
+// (lulu)
+<0018> Ahhhhhh... ¡Por favor no le recuerdes a Lulu acerca de eso! Era simplemente una fase que estaba atravesando.
+// (watty)
+<0019> L-lo siento. No quería sacar tu pasado oscuro a la luz.
+// (lulu)
+<0020> Lulu simplemente se sentía muy sensible en la etapa de su desarrollo... Ella no quiere pensar en eso.
+// (watty)
+<0021> U-um, no fue tan malo. Parte de eso fue... un poco increíble, supongo.
+// (watty)
+<0022> Tal como, decir que eres una dragona desafortunada que iba a repartir la desgracia en el mundo...
+// (watty)
+<0023> Hay muchos cantos mágicos que suenan así.
+// (lulu)
+<0024> ¡Waaaaaah! Lulu siente tanta verguenza que podría morirse.
+// (watty)
+<0025> Aunque ahora parece que has regresado a la normalidad...
+// (lulu)
+<0026> Gracias a todos los amigos de Lulu.
+// (watty)
+<0027> Eso es, bueno, una lástima. Pensé que me vería más alegre en comparación si me paraba junto a ti.
+// (lulu)
+<0028> Eso suena un poco mal.
+// (watty)
+<0029> Lo siento...
+// (lulu)
+<0030> Ah, no. ¡Lulu piensa que deberías intentar tener un poco más de confianza en ti misma!
+// (lulu)
+<0031> ¡De hecho... ugh!
+// (watty)
+<0032> ¿Q-qué es lo que ocurre?
+// (lulu)
+<0033> ¡Lulu siente que va a poner un huevo de la suerte por primera vez en mucho tiempo!
+// (watty)
+<0034> ¿Un huevo de la suerte? ¿Para alguien como yo? ¿En serio?
+// (lulu)
+<0035> ¡De hecho, los huevos de Lulu se han sentido un poco raros desde que todo ocurrió, pero... aquí va!
+// (lulu)
+<0036> ¡Oh, tiene una cinta en su interior!
+// (watty)
+<0037> ¿Un cosmético? Debo haber obtenido algo común.
+// (lulu)
+<0038> ¡Con esto, puedes ser tan linda por fuera como lo eres por dentro!
+// (watty)
+<0039> El interior de un pez no es algo muy lindo.
+// (lulu)
+<0040> Cielos, solo póntelo.
+// (watty)
+<0041> Oh... de hecho, sí me siento un poco más linda, pero... es muy avergonzante...
+// (lulu)
+<0042> No hay de qué avergonzarse.
+// (watty)
+<0043> Es avergonzante en el buen sentido. Me hace querer ir al lago y relajarme por un rato.
+// (watty)
+<0044> Así que, bueno, si no te importa...
+// (lulu)
+<0045> ¡Espera! Lulu no cree que esa cinta sea -
+// (lulu)
+<0046> ...a prueba de agua.
+// (watty)
+<0047> ¡Lo arruiné en un segundo...! ¡Lo siento mucho!
+// (lulu)
+<0048> Está bien. Ya, ya. Lulu acariciará tu cabeza por ti.
+// (watty)
+<0049> *sniff* Tu pelaje se siente muy bien.
+// (lulu)
+<0050> Muchos dicen eso.
+// (lulu)
+<0051> Lulu... parece que probablemente no podrá nadar hoy...
+// (watty)
+<0052> Wo shiento...
+// (lulu)
+<0053> ¡Está bien! Quizás si Lulu pone otro huevo, podrá conseguir un pañuelo para limpiar tu nariz... Ya, ya.
+

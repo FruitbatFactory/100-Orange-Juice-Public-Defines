@@ -1,0 +1,128 @@
+
+< GAME_SYSTEM_ROLLTOREVIVE >
+ou superior\npara reanimar!
+
+< GAME_SYSTEM_WINNERSCREEN_STARS >
+Estrelas
+
+< GAME_SYSTEM_WINNERSCREEN_WINS >
+Vitórias
+
+< GAME_SYSTEM_WINNERSCREEN_FAME >
+Fama
+
+< GAME_SYSTEM_HUD_LVL >
+NVL
+
+< GAME_SYSTEM_HUD_HP >
+HP
+
+< GAME_SYSTEM_HUD_NORMA >
+Norma
+
+< GAME_SYSTEM_HUD_NORMA_MAX >
+MÁX!
+
+< GAME_SYSTEM_HUD_CARDEFFECTS >
+Efeitos das cartas
+
+< GAME_SYSTEM_HUD_CARDEFFECTS_STACKS >
+Estoques
+
+< GAME_SYSTEM_HUD_CARDEFFECTS_DURATION >
+Duração
+
+< GAME_SYSTEM_SHOP_LEVEL >
+NÍVEL %d
+
+< GAME_SYSTEM_SHOP_NO_BONUS >
+Nenhuma vantagem destravadada.
+
+// %% is normal here.
+< GAME_SYSTEM_SHOP_BONUS_1 >
+%d %% chance adicional de ter itens SSR aparecendo.
+
+// %% is normal here.
+< GAME_SYSTEM_SHOP_BONUS_2 >
+%d %% de redução de preço do item após outros cálculos.
+
+< GAME_SYSTEM_SHOP_BONUS_3 >
+Um adicional de %d estrelas vai ser dado ao vender uma carta.
+
+< GAME_SYSTEM_SHOP_BONUS_4 >
+Um estoque adicional de item pode ficar disponível.
+
+< GAME_SYSTEM_SHOP_BONUS_5 >
+Entregar itens vai lhe garantir um extra de %d estrelas após completar o desafio.
+
+< GAME_SYSTEM_SHOP_BONUS_6 >
+Até dois estoques adicionais de itens podem estar disponíveis,/ne uma loja adicional desse tipo irá aparecer no campo.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_1_NAME >
+Arte da Espada
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_1_DESC >
+Ganhe permanentemente +1 ATK.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_2_NAME >
+Arte do Escudo
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_2_DESC >
+Ganhe permanentemente +1 DEF.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_3_NAME >
+Arte da Evasão
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_3_DESC >
+Ganhe permanentemente +1 EVD.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_4_NAME >
+Resoluto
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_4_DESC >
+Reduz permanentemente a rolagem de recuperação por 1.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_5_NAME >
+Estimulação
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_5_DESC >
+Ganhe permanentemente +1 Max HP. Sua unidade será curada completamente ao escolher esse aprimoramento.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_6_NAME >
+Carregador
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_6_DESC >
+Ganhe permanentemente +1 tamanho da Mão e +1 tamanho da Mão de contrato.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_7_NAME >
+Assinante Premium
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_7_DESC >
+Todos os custos de loja (menos do Mercador Ambulante) serão reduzidos por 30% após outros cálculos.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_8_NAME >
+Corredor
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_8_DESC >
+Ao terminar seu turno após mover até o final da sua última rolagem de movimento, ganhe +1 MOV na sua próxima rolagem de movimento.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_9_NAME >
+Colheita Abundante
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_9_DESC >
+Ganhe imediatamente 100 estrelas, e ganhe a habilidade de receber estrelas ao completar Recompensas.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_10_NAME >
+Defesa da Casa
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_10_DESC >
+Sua própria casa dará 2 de dano a outros jogadores se eles pararem nela.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_11_NAME >
+Comandante
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_11_DESC >
+Invocações amigáveis ​​ganham permanentemente +2 HP Máximo, sendo também totalmente controláveis. Se uma invocação amigável estiver em campo, ela será totalmente curada ao escolher esta melhoria. Invocações amigáveis ​​também poderão completar Recompensas.
+
+[EOF]
+

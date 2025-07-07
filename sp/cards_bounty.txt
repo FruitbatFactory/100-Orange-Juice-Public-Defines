@@ -1,0 +1,215 @@
+< CARD_BOUNTY_TURNISLIME_HUNT >
+name=Rábalimo
+descr=Rábalimo hará que el jugador reciba -1 ATK dentro de la batalla. -1 ATK adicional si el ATK de su oponente es de 2 o mayor.
+flavor=
+
+< CARD_BOUNTY_TROLLITE_HUNT >
+name=Duendito
+descr=Después de cada ronda en una batalla, Duendito recibirá -1 ATK.
+flavor=
+
+< CARD_BOUNTY_MOUSSE_HUNT >
+name=Espumatón
+descr=Espumatón robará estrellas equivalentes al Nivel cada vez que le haga daño al jugador.
+flavor=
+
+< CARD_BOUNTY_STRANGEMOUSSE_HUNT >
+name=Espumatón Lima Limón
+descr=Espumatón Lima Limón robará estrellas equivalentes al Nivel cada vez que le haga daño al jugador.
+flavor=
+
+< CARD_BOUNTY_POWERMOUSSE_HUNT >
+name=Espumatón de Frutilla
+descr=Espumatón de Frutilla robará estrellas equivalentes al Nivel cada vez que le haga daño al jugador.
+flavor=
+
+< CARD_BOUNTY_DOLL_HUNT >
+name=Muñeca Embrujada
+descr=La Muñeca Embrujada te quitará un punto de vida después de cada ronda en una batalla.
+flavor=
+
+< CARD_BOUNTY_HELISEED_HUNT >
+name=Semicoptero
+descr=El encuentro se acabará si Semicoptero no es derrotado después de 3 rondas en una batalla.
+flavor=
+
+< CARD_BOUNTY_BLIZARD_HUNT >
+name=Coneptíl
+descr=Coneptíl recibirá +1 ATK, DEF o EVD de forma aleatoria después de cada ronda en una batalla.
+flavor=
+
+< CARD_BOUNTY_WOLLY_HUNT >
+name=Laneja
+descr=Al ser dañado, Laneja recibirá un punto extra de daño.
+
+< CARD_BOUNTY_TERRAWYRMER_HUNT >
+name=Terrafusano
+descr=Al recibir más de 2 puntos de daño con un sólo ataque, Terrafusano recibirá +1 ATK, +1 DEF y -1 EVD hasta el final de la batalla. Este efecto puede ser guardado más de una vez.
+
+< CARD_BOUNTY_RUFFSHROOM_HUNT >
+name=Perrongo
+descr=Al derrotar a Perrongo, recibes 2 PV.
+
+< CARD_BOUNTY_GOST_HUNT >
+name=Poltasma
+descr=Poltasma recibe +1 EVD por cada punto de ATK positivo de su oponente.
+
+< CARD_BOUNTY_EMERANGLER_HUNT >
+name=Pesmeralda
+descr=Pesmeralda recibe +1 ATK en su próximo ataque al ser dañado. Al dañar a su oponente, Pesmeralda recibe +1 DEF al defenderse.
+
+< CARD_BOUNTY_GLOBBU_HUNT >
+name=Fundita
+descr=El oponente dañado por Fundita recibe -1 DEF hasta el fin de la batalla.
+
+< CARD_BOUNTY_GRASSINFIMARY_QUEST >
+name=
+descr=Me gustaría preparar un plato usando las hierbas que crecen en el campo. ¿Podrías ayudarme a conseguir algunas?
+flavor=―Posadera
+
+< CARD_BOUNTY_SWAMPINFIMARY_QUEST >
+name=
+descr=Uno de nuestros clientes nos ha dicho que los limos pueden ser usados en las bebidas. ¿Estará diciendo la verdad...?
+flavor=―Posadera
+
+< CARD_BOUNTY_CAVEBAKERY_QUEST >
+name=
+descr=Perdí algo que necesitaba para hacer helado dentro de una cueva...
+flavor=―Pastelera del Cielo
+
+< CARD_BOUNTY_CASTLEBAKERY_QUEST >
+name=
+descr=Fufufu, habíamos pedido un poco de harina del castillo, pero aún no ha llegado. ¿Debería destrozar el castillo y volarlo en mil pedazos?
+flavor=―Pastelera del Cielo
+
+< CARD_BOUNTY_RUINARMORY_QUEST >
+name=
+descr=Muchas aventuras llegan a su fin de forma abrupta dentro de las ruinas. ¿Podrías echarles un vistazo y traer algún arma abandonada que haya tirada por ahí?
+flavor=―Herrera
+
+< CARD_BOUNTY_CAVEARMORY_QUEST >
+name=
+descr=Los cuernos de Duendito son un material increíble para crear elementos de cocina, pero se me han acabado. Sus cuernos crecen cada 3 días, así que deberían tener unos pocos dentro de sus cuevas.
+flavor=―Herrera
+
+< CARD_BOUNTY_VOLCANOALCHEMER_QUEST >
+name=
+descr=Puedo transmutar un poco de comida para ti, pero necesito una fuente de calor para hacer eso. ¿Podrías conseguir una Fundita? He oído que les encanta cumplir con trabajos como este.
+flavor=―Alquimista
+
+< CARD_BOUNTY_FORESTINFIRMARY_QUEST >
+name=
+descr=¿Un postre? Podría preparar uno si es que me traes savia de árbol del bosque nebuloso. Me han dicho que es muy dulce.
+flavor=―Posadera
+
+< CARD_BOUNTY_MOUNTAINBAKERY_QUEST >
+name=
+descr=¡Se nos ha acabado la leche! ¡El pan requiere leche fresca de las Lanejas en la montaña, ve rápido!
+flavor=―Pastelera del Cielo
+
+< CARD_BOUNTY_REDFORESTALCHEMER_QUEST >
+name=
+descr=Los fantasmas de los bosques carmesí tienen características interesantes. ¿Podrías conseguir una muestra? Haría algo comestible con ella.
+flavor=―Alquimista
+
+< CARD_BOUNTY_DESERTARMORY_QUEST >
+name=
+descr=Estoy sedienta... Un cactus del desierto podría ayudar con esto. Luego podrás quedarte con lo que queda de él.
+flavor=―Herrera
+
+< CARD_BOUNTY_SLIMEBOMB_ITEM >
+name=Rábabomba
+descr=Tira una rábabomba en un panel cercano (radio: 3). Todos los paneles alrededor del mismo (radio: 1) serán cubiertos con viscosidad por 2 capítulos.
+flavor="¡Viscosidad en una botella, lista para ser tirada!" ―Alquimista
+
+< CARD_BOUNTY_TELEPORT_ITEM >
+name=Poción de Teletransportación
+descr=Te mueves al panel escogido, y luego sigues con el turno.
+flavor="¡Un sorbo y, poof!" ―Alquimista
+
+< CARD_BOUNTY_LURE_ITEM >
+name=Cebo
+descr=Tira un cebo en un panel cercano (radio: 3). Todos los paneles alrededor del mismo (radio: 1) se convertirán en paneles de batalla por 3 capítulos.
+flavor="El aroma de esta cosa debería ser lo suficientemente fuerte para atraer a las criaturas de este lugar..." ―Alquimista
+
+< CARD_BOUNTY_SHOKUPAN_ITEM >
+name=Shokupan
+descr=Duración: 3 capítulos.\nRecupera 1 PV cada turno. Este efecto se pierde al morir, y no puede ser aplicado más de una vez al mismo tiempo.
+flavor="Nadie podrá cocinar algo mejor que esta maravillosa obra de arte." ―Star Baker
+
+< CARD_BOUNTY_SSR_SHOKUPAN_ITEM >
+name=Shokupan Esponjoso
+descr=Recupera 2 PV cada turno. Este efecto se pierde al morir, y no puede ser aplicado más de una vez al mismo tiempo.
+flavor="¡La esponjosidad conquistará el mundo!" ―Pastelera del Cielo
+
+< CARD_BOUNTY_PUREWATER_ITEM >
+name=Agua Bendita
+descr=Recibes 5 PV, +1 ATK, DEF y EVD en esta batalla.
+flavor="¡Esta agua bendita saciará tu sed, puedes contar con ella!" ―Posadera
+
+< CARD_BOUNTY_CURSEDSYRUP_ITEM >
+name=Jarabe Maldito
+descr=Durante esta batalla, recibes 10 PV, +2 ATK, DEF y EVD. El límite de turnos dentro de la batalla será 5.
+flavor="Comprarás esto, por supuesto... después de todo, lo que más te importa es el poder... ¿No es así?" ―Comerciante Sospechoso
+
+< CARD_BOUNTY_POISONPHIAL_ITEM >
+name=Lanzador de Venenos
+descr=Tira un frasco de Veneno en un panel cercano a ti (distancia máxima: 3 paneles). Todos los jugadores en esa área serán envenenados y recibirán 1 punto de daño cada turno durante 2 capítulos. No podrá ser aplicado junto con el efecto de otros Lanzadores.
+flavor="Hice esto con ingredientes muy peligrosos... ¡Así que ten cuidado!" ―Alquimista
+
+< CARD_BOUNTY_VENOMPHIAL_ITEM >
+name=Lanzador de Ponzoña
+descr=Tira un frasco de Ponzoña en un panel cercano a ti (distancia máxima: 3 paneles). Todos los jugadores en esa área serán envenenados y recibirán 1 punto de daño cada turno durante 3 capítulos. No podrá ser aplicado junto con el efecto de otros Lanzadores.
+flavor="Hice esto con el veneno de un reptil muy peligroso..." ―Alquimista
+
+< CARD_BOUNTY_CORROSIONPHIAL_ITEM >
+name=Lanzador de Corrosión
+descr=Tira un frasco de Corrosión en un panel cercano a ti (distancia máxima: 3 paneles). Todos los jugadores en esa área serán envenenados y recibirán 2 puntos de daño cada turno durante 3 capítulos. No podrá ser aplicado junto con el efecto de otros Lanzadores.
+flavor="Hice esto al combinar materiales muy peligrosos..." ―Alquimista
+
+< CARD_BOUNTY_SPARKLEBOMB_ITEM >
+name=Bomba de Chispas
+descr=El campo de juego se verá forzado a ir en reversa por 2 capítulos.
+flavor="¿Qué pasaría si tú quisieras seguir adelante y atrás al mismo tiempo, pero ir atrás no se sintiera como ir adelante...? Ah, olvídalo." ―Alquimista
+
+< CARD_BOUNTY_SMOKELOSTMEMORIES_ITEM >
+name=Humo de las Memorias Perdidas
+descr=Olvida tu pasado y entra en un nuevo combate con tu objetivo. Sólo puede ser usado en un panel con un monstruo descubierto, y debes tener el objetivo en mano para empezar la batalla. Tu turno acabará al usar esta carta.
+flavor="Tu presa no recordará su nombre al inhalar este humo. Ten cuidado, podría ser un arma peligrosa..." ―Herrera
+
+< CARD_BOUNTY_RADAR_ITEM >
+name=Radar de Aventurero
+descr=Duración: 2 a 5 capítulos. Con este objeto, podrás percibir la ubicación de todos los monstruos.
+flavor="Facilitará tu expedición de una gran manera... ¡si es que no deja de funcionar!" ―Proveedor de Armas
+
+< CARD_HYPER_BOUNTY_ELLIE >
+name=El Milagro de Ellie
+descr=★Costo: Nivel x10. Duración: 2 capítulos. Recibe +X ATK, +Y DEF y +Z EVD. X = tu número de Normas completadas, Y = tu cantidad de Fama y Z = tu número de Estrellas / 50.
+flavor="¡Todos recibirán mi milagro!" ―Ellie
+
+< CARD_BOUNTY_SCRAMBLED_EVE >
+name=Víspera Revuelta
+descr=Todos los jugadores regresan sus cartas al mazo, en donde son mezcladas. Después de 1 capítulo, todos los jugadores tomarán la misma cantidad de cartas que las que han descartado por causa de este efecto. Las misiones y objetivos no podrán regresar.
+flavor="¡Espera! ¡Dame mis regalos!" ―Aru
+
+< CARD_BOUNTY_TRAP_WANTED >
+name=Se Busca
+descr=Efecto Guardado\nOtorgarás el doble de vicotiras al ser noqueado en un combate. Este efecto se perderá al morir.\nUna recompensa por este jugador también se colocará en el Tablero de Recompensas, y recibirán la Insignia de Asesino.
+flavor="¡Por aquí! ¡Mi nariz nunca se equivoca!" ―QP
+
+< CARD_HYPER_BOUNTY_COOK >
+name=La Guía de la Hada Veleta
+descr=Efecto Guardado.\nTiras 2 dados para todas tus acciones. Este efecto no se activará dentro de una batalla, y se acabará al detenerte en un hogar.
+flavor="¡*Pío, pío*! Cook quiere ir por aquí." ―Cook
+
+< CARD_BOUNTY_PLAYER >
+name=Se Busca Con Urgencia
+descr=Este jugador está siendo buscado por cometer crímenes en contra de la sociedad.
+flavor=
+
+< CARD_BOUNTY_PLAYER_ITEM >
+name=
+descr=La marca de la muerte. Se recomienda discreción.
+flavor=
+
+[EOF]

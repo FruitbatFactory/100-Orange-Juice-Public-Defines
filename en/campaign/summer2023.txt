@@ -1,0 +1,275 @@
+
+// ========= Scene:  Opening =========
+
+// (lulu)
+<0000> Everyone... We can get out of the shell now.
+
+// (halena)
+<0001> Phew, we almost got buried alive.
+
+// (arnelle)
+<0002> I've got to admit the big eggshell was phenomenal.
+
+// (cook)
+<0003> Its roundness didn't let the rubble pile up on it!
+
+// (ellie)
+<0004> That's my girl! I'm impressed, Lulu!
+
+// (lulu)
+<0005> Ehehe.
+
+// (arnelle)
+<0006> You even saved our lives...  We owe you one.
+
+// (ellie)
+<0007> If you really think so, you should let us have the treasure.
+
+// (arnelle)
+<0008> This is this, and that is that.
+
+// (maynie)
+<0009> Lady Arnelle is absolutely correct! It's mostly you guys that set off that trap, to begin with!
+
+// (ellie)
+<0010> How dare you blame that on us!
+
+// (halena)
+<0011> I can't believe you guys are fighting right after a near-death experience.
+
+// (cook)
+<0012> Cook's heart's still racing so fast...
+
+// (ellie)
+<0013> Anyway, the treasure hidden in here could be something I've been looking for! So, I won't let you have it no matter what!
+
+// (maynie)
+<0014> Like we care!
+
+// (watty)
+<0015> E-everyone! Please calm down... W-well, this place is... still not completely safe...
+
+// (arnelle)
+<0016> Really? What else do you think could be here, Watty?
+
+// (pomeranius)
+<0017> My nose is also telling me that we're still in danger.
+
+// (watty)
+<0018> Th-there are so many sources of magic power... Each of them is pretty tiny, but...
+
+// (maynie)
+<0019> There's more than that crazy rubble trap!?
+
+// (ellie)
+<0020> Oh man!
+
+// (ellie)
+<0021> I can feel it... That creepy feeling that I hate...!
+
+// (poppo)
+<0022> Poppooo!!!
+
+// (ellie)
+<0023> Ahaa! It's those rats!!!
+
+// (lulu)
+<0024> There're so many of them!!!
+
+// (pomeranius)
+<0025> This smell, worse than the fish girl's... it's been coming from them, huh.
+
+// (ellie)
+<0026> I'm 'boutta kick all your tiny asses!
+
+// ========= Scene:  Ending =========
+
+// (lulu)
+<0027> Ugh, they keep on coming.
+
+// (ellie)
+<0028> I'm gonna kick every rat's ass!
+
+// (halena)
+<0029> You need to relax, Ellie.
+
+// (arnelle)
+<0030> There's no end to it. Watty!
+
+// (watty)
+<0031> Y-yes!
+
+// (arnelle)
+<0032> Remove all these rats without damaging the shrine any further. You can do that, can't you?
+
+// (watty)
+<0033> P-probably.
+
+// (pomeranius)
+<0034> That's the only thing you're capable of. Just do it.
+
+// (watty)
+<0035> Mr. Pom... O-okay, I will!
+
+// (maynie)
+<0036> You damn kids get over here! We're about to clean out the entire place!
+
+// (ellie)
+<0037> Aha? What are you going to do exactly?
+
+// (arnelle)
+<0038> Just shut up and come over here.
+
+// (cook)
+<0039> Cook's instinct is saying we should do as they say.
+
+// (lulu)
+<0040> Alright then!
+
+// (watty)
+<0041> ......
+
+// (watty)
+<0042> I'm... ready.
+
+// (arnelle)
+<0043> Alright, now shoot it!
+
+// (watty)
+<0044> Magic power... release...!
+
+// (halena)
+<0045> Isn't this magic too powerful in this tiny space...!?
+
+// (arnelle)
+<0046> Watty's better at controlling magic than anyone else. It's a no-brainer for her to get rid of the rats and keep the shrine intact at the same time.
+
+// (pomeranius)
+<0047> You should have more faith in yourself, and you'll be able to be of further service to our lady.
+
+// (watty)
+<0048> O-okay... Thank you for saying that, Mr. Pom...
+
+// (arnelle)
+<0049> Anyhow, this makes us and the kids even.
+
+// (maynie)
+<0050> Now we can make the treasure ours without any hesitation.
+
+// (ellie)
+<0051> What the heck did you just say!?
+
+// (lulu)
+<0052> *Sigh* They won't stop arguing.
+
+// (lulu)
+<0053> So, this place is safe now, right?
+
+// (pomeranius)
+<0054> *Sniff*sniff*
+
+// (pomeranius)
+<0055> ......There's still something here.
+
+// (watty)
+<0056> Yes... And it has quite an amount of magic power.
+
+// (lulu)
+<0057> For real?
+
+// (ellie)
+<0058> Yeah, for real.
+
+// (ellie)
+<0059> I can tell... I can definitely tell this is... what I've been looking for.
+
+// (???)
+<0060> Children...
+
+// (arnelle)
+<0061> Who the heck are you!
+
+// (???)
+<0062> Seems like you pofeated all the imitations.
+
+// (halena)
+<0063> Wh-what's going on...?
+
+// (???)
+<0064> Mother has been locked poway in this shrine.
+
+// (lulu)
+<0065> M-Mother? Could it be... she's...
+
+// (ellie)
+<0066> I've been looking for you.
+
+// (ellie)
+<0067> Mama!!!
+
+// (motherpoppo)
+<0068> Ellie...
+
+// (arnelle)
+<0069> I-is that a big rat?
+
+// (pomeranius)
+<0070> However, I can tell that's not a mere animal. The noble aura of a fine lady surrounds her.
+
+// (ellie)
+<0071> Mama! I really wanted to see you!
+
+// (motherpoppo)
+<0072> Mother wanted to see you, too.
+
+// (arnelle)
+<0073> ...Wait a minute. So, she's the treasure of the shrine we were after?
+
+// (pomeranius)
+<0074> A mouse that carries the elegance and grace of a high-ranking lady... You could say it's worth a treasure...
+
+// (lulu)
+<0075> Ellie... Lulu's happy for you.
+
+// (lulu)
+<0076> (But... will this end our journey?)
+
+// (lulu)
+<0077> (Lulu's happy Ellie's happy, but... Lulu's feeling kind of sad.)
+
+// (???)
+<0078> (Kind of? That's not true. You are very very sad, aren't you?)
+
+// (???)
+<0079> (You and her have been traveling together for a long time, and yet, only she's gained something good at the end.)
+
+// (???)
+<0080> (And there's nothing for you to have.)
+
+// (lulu)
+<0081> What is this...? Where's this voice coming from?
+
+// (???)
+<0082> (You can go ahead and destroy other people's happiness.)
+
+// (lulu)
+<0083> Ugh... Agh...
+
+// (???)
+<0084> (That's what you exist for.)
+
+// (???)
+<0085> (Come on, let's go destroy this stupid happy ending of hers.)
+
+// (lulu)
+<0086> Uaaaaaaah!!!
+
+// (ellie)
+<0087> What's wrong, Lulu!?
+
+// (motherpoppo)
+<0088> It can't be...
+
+// (darklulu)
+<0089> Lulu's... mind feels dark...
+

@@ -1,0 +1,161 @@
+<0000> Certo, eu farei isto...
+<0001> Hmph.
+<0002> Okay.
+<0003> Aqui vai.
+<0004> Talvez isso funcionará?
+<0005> Creio que irei com este.
+<0006> Ah meu.
+<0007> Eu escolho esta carta.
+<0008> Olha quão astuto fiquei.
+<0009> Este é o significado de "Faça você mesmo".
+<0010> Aqui está. Eu estou orgulhoso desse meu trabalho.
+<0011> Colocando uma armadilha de rato aqui.
+<0012> Eu farei esta luta mais fácil para mim.
+<0013> Só para que eu não fique cansado.
+<0014> É melhor você se preparar para não receber misericórdia.
+<0015> Eu estou acabando com você agora.
+<0016> Não faça um adulto ir com tudo, beleza?
+<0017> Eu tenho que trabalhar mais?
+<0018> Eu não tenho a melhor mão neste jogo, mas...
+<0019> Eu ainda tenho negócios não resolvidos a tratar.
+<0020> Parece que minha pausa já acabou.
+<0021> Não ser jovem é ruim.
+<0022> Oww... Creio que eu preciso de mais descanso.
+<0023> Eu ainda estou cansado...
+<0024> Achava que iria bem dessa vez.
+<0025> Vamos fazer isso, acho.
+<0026> Eu espero que posso causar qualquer dano a você.
+<0027> Eu não quero fazer exercício intenso.
+<0028> Vamos lá.
+<0029> Guah.
+<0030> Isso foi altamente efetivo.
+<0031> Ai.
+<0032> Ah, qual é.
+<0033> Isto é de grande ajuda.
+<0034> Isto é... simplesmente ótimo.
+<0035> Maravilhoso.
+<0036> Ufa, me sinto tão grato.
+<0037> Ugh.
+<0038> Para onde você está me levando?
+<0039> Tudo que posso fazer agora é seguir em frente.
+<0040> Eu acho que vou ficar enjoado por ter teleportado.
+<0041> Ugh, estou acabado...
+<0042> Ferrei com tudo.
+<0043> Creio que isto é isto.
+<0044> Eu devo estar enferrujado.
+<0045> Eu farei o primeiro movimento.
+<0046> Permita-me tomar a iniciativa.
+<0047> Eu irei primeiro.
+<0048> Eu vou te mostrar como adultos lutam.
+<0049> Qual é, me dá um tempo.
+<0050> Eu não faria isto se fosse você.
+<0051> Olha onde fui parar.
+<0052> Calma, calma, vamos nos acalmar.
+<0053> Tome isto.
+<0054> Eu estou prestes a te esmagar.
+<0055> Pois quero fazer isso logo.
+<0056> Eu não irei pegar leve.
+<0057> Para com isso.
+<0058> Argh.
+<0059> Mano.
+<0060> Mas o quê?
+<0061> Raios...!
+<0062> "Doloroso" não é o suficiente para descrever isto.
+<0063> Isto é o pior.
+<0064> Isto é muito mais do que posso tomar.
+<0065> Eu acabei de sentir alguém andar sobre minha tumba.
+<0066> Você poderia praticar mais sua mira.
+<0067> O que você faria se tivesse acidentalmente me atingido?!
+<0068> Nossa, essa foi por pouco.
+<0069> Eu consegui por pouco... Acho?
+<0070> Eu consegui passar pelo jogo.
+<0071> Ugh... Agora me sinto cansado.
+<0072> Eu consegui de alguma forma.
+<0073> Eu estou sendo chato...
+<0074> Mano eu errei.
+<0075> Raios...
+<0076> Eu não acredito que perdi.
+<0077> Um bônus especial?
+<0078> Os negócios estão a todo vapor.
+<0079> Mas que sorte.
+<0080> Eu estou grato por isso.
+<0081> Que triste.
+<0082> Minhas estrelas!
+<0083> Espere.
+<0084> Você só pode estar brincando comigo.
+<0085> O que eu sou, um idiota?
+<0086> *Tsk.*
+<0087> Ah, mano, não não não.
+<0088> Que sorrateiro.
+<0089> Nós temos algo doido aqui.
+<0090> Lá vem.
+<0091> Isto será perigoso.
+<0092> O maldito está aqui.
+<0093> Se eu conseguir, serei rico.
+<0094> Eu sou um bom planejador financeiro de estrelas.
+<0095> Paz é o que eu mais gosto.
+<0096> Eu sei com certeza o quão valiosa estas estrelas podem ser.
+<0097> Veja como um adulto luta.
+<0098> Eu odeio machucar outras pessoas, mas...
+<0099> Vamos fazer disso simples.
+<0100> Pode vir.
+<0101> Ei, quanto tempo.
+<0102> Eu estou prestes a ir lá?
+<0103> Vamos fazer um trabalho de vez em quando, creio.
+<0104> Okay, você pode contar comigo.
+<0105> Nós conseguimos.
+<0106> Certo, vamos curtir este jogo.
+<0107> Eu estou preparado para isto.
+<0108> Vou fazer um mínimo de esforço.
+<0109> Vencer rapidamente é a maneira como adultos vencem.
+<0110> Talvez eu tenha me empolgado um pouco.
+<0111> Bom, é isto que consigo quando tento um pouco.
+<0112> Esta foi uma boa vitória, não foi?
+<0113> Isto vai nos ajudar em jogos?
+<0114> Sua cara está me dizendo que você conseguiu algo bom.
+<0115> Excelente, conseguiu algo bom.
+<0116> Aposto que será útil.
+<0117> Está na hora de trocarmos de posição.
+<0118> Vamos trocar agora.
+<0119> É seu turno.
+<0120> Na hora certa.
+<0121> Claro.
+<0122> Eu acho que isto é bom.
+<0123> Eu consigo.
+<0124> Vou deixar passsar.
+<0125> Haah.
+<0126> Eu chamo isto de sorte.
+<0127> O que está acontecendo?
+<0128> Vamos lá.
+<0129> Rolando o dado.
+<0130> Você consegue.
+<0131> Yo!
+<0132> Hmm.
+<0133> Isto é incrível.
+<0134> Boa.
+<0135> Não posso continuar desse jeito.
+<0136> Permita-me usar este aqui.
+<0137> Oh, olha este aqui.
+<0138> Parece que esta carta possui um poder incrível.
+<0139> Esta carta parece boa para mim.
+<0140> Obrigado.
+<0141> Isto é o que um adulto pode fazer.
+<0142> Eu não posso perder esta aqui mesmo que signifique minha morte.
+<0143> Isto não é legal?
+<0144> Estou realmente me expondo aqui.
+<0145> Eu estaria acabado se pegasse essa.
+<0146> Evasiva fácil.
+<0147> Você não pode me acertar.
+<0148> Esta é a definição de estilo adulto.
+<0149> Vamos brincar com o Papai, Ellie.
+<0150> Você veio para brincar com o Papai?
+<0151> Você cresceu tanto. Papai está orgulhoso.
+<0152> Ah mano... Você não é talentosa, Ellie?
+<0153> Nunca achei que lutaríamos.
+<0154> Quer ter uma batalha comigo como antes?
+<0155> Eu não aguento ser derrotado por você.
+<0156> Mano, ela me derrotou.
+<0157> Creio que vou formar um time com você.
+<0158> Poppo, nós vamos mostrar para as pessoas do que somos capazes.
+<0159> Ellie, você quer formar um time com o papai?
+<0160> Ellie, me mostre o quanto você cresceu.

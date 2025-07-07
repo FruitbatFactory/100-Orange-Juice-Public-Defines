@@ -1,0 +1,21 @@
+
+// ========= Scene: Chaos Event Start =========
+
+<0000> En un día completamente aburrido...
+
+// (poppo)
+<0001> "Pomu.... Poppo está aburrida."
+
+// (poppo)
+<0002> "¡Poppo!"
+
+// (poppo)
+<0003> "¿Poppo?"
+
+// (poppo)
+<0004> "Caos... ¡¡¡Poppo!!!"
+
+// (poppo)
+<0005> "¡Po! ¡Caos! ¡Poppo!"
+
+<0006> ...y de pronto, el día rápidamente había dejado de ser aburrido.

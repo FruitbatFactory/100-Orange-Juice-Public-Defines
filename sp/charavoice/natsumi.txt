@@ -1,0 +1,163 @@
+
+<0000> ¡Ey!
+<0001> Yah.
+<0002> Ahí.
+<0003> Eey.
+<0004> ¡Usaré esta!
+<0005> ¿A lo mejor debería usar esta?
+<0006> Muy bien, entonces usaré esta.
+<0007> Usaré una carta.
+<0008> ¿Una trampa?
+<0009> Hmm, a lo mejor debería dejar esto aquí...
+<0010> Colocaré esto aquí.
+<0011> Esto va aquí...
+<0012> Carta de batalla.
+<0013> Supongo que jugaré esto.
+<0014> Fufu, ¿no es esto divertido?
+<0015> Cuidado. Estoy a punto de usar una carta.
+<0016> Cocinaré mucho.
+<0017> Hmm... ¿ya es la hora de levantarse?
+<0018> *Bostezo* Dormí bien...
+<0019> Todavía tengo sueño...
+<0020> Mei, tienes que levantarte.
+<0021> ¿Puedo dormir un poco más...?
+<0022> *Zzz, Zzz*
+<0023> Hmm...
+<0024> Puedo seguir durmiendo...
+<0025> ¡Ey ey!
+<0026> Te atacaré.
+<0027> Yah.
+<0028> ¡Toh!
+<0029> Ow.
+<0030> Oww.
+<0031> ¿Owww?
+<0032> ¿Fah?
+<0033> Eso se siente bien.
+<0034> Es cálido.
+<0035> Me estoy sintiendo genial.
+<0036> ¡Curada!
+<0037> ¿Transportación?
+<0038> Wah, ¿a dónde voy?
+<0039> Oooh noooo...
+<0040> Waah...
+<0041> ¿Puedo tomar una siesta aquí?
+<0042> *Zzz*
+<0043> Amo a mi futón.
+<0044> Munyaah...
+<0045> ¿Por qué no juegas conmigo?
+<0046> Fufufu, es la hora de un breve calentamiento.
+<0047> Vamos a jugar mucho, ¿está bien?
+<0048> Ufufu, ¿qué haremos para divertirnos?
+<0049> ¿Hmm? ¿Quieres jugar conmigo?
+<0050> Claro, juguemos un poco.
+<0051> Waah, pareces tener mucha energía.
+<0052> Fufufu, eso suena divertido.
+<0053> *Puñalada*
+<0054> ¡Toh!
+<0055> No te lastimes, ¿está bien?
+<0056> ¡Tah!
+<0057> ¡Wah!
+<0058> ¿Uu?
+<0059> ¡Fue!
+<0060> ¡Fuwah!
+<0061> ¡Fuwawah!
+<0062> Eso fue increíble.
+<0063> Waah.
+<0064> Simplemente increíble.
+<0065> ¿Oh?
+<0066> ¿A lo mejor me debería mover por aquí?
+<0067> Oh, lo esquivé.
+<0068> Ufufu.
+<0069> Phew, eso fue divertido.
+<0070> Juguemos otra vez.
+<0071> Ese fue un buen calentamiento.
+<0072> Ehehe.
+<0073> Increíblemente fuerte...
+<0074> Me has impresionado.
+<0075> Wah, perdí.
+<0076> Tú ganas.
+<0077> Wah, eso es bonito.
+<0078> Mira lo brillantes son.
+<0079> ¿Está bien si me las quedo?
+<0080> Estoy feliz.
+<0081> Se me cayeron algunas...
+<0082> No, mis estrellas...
+<0083> Oh cielos...
+<0084> ¿Mis estrellas se han ido...?
+<0085> ¿Qué es esto?
+<0086> Wah, eso me asustó.
+<0087> Wawawah.
+<0088> Vaya, me dio.
+<0089> Wah, que grande eres.
+<0090> Mira lo grande que eres.
+<0091> Wah, la situación se vuelve emocionante.
+<0092> Fufufu, ahora siento que esto será divertido.
+<0093> Creo que me gustaría conseguir estrellas.
+<0094> Bueno... elijo estrellas.
+<0095> Espero obtener muchas de ellas.
+<0096> Ver miles de estrellas esparcidas sería algo muy bello.
+<0097> Quiero jugar con todos.
+<0098> Voy a jugar mucho.
+<0099> Escojo esto.
+<0100> Supongo que practicaré un poco.
+<0101> Hola, soy Natsumi.
+<0102> Juguemos un rato, ¿está bien?
+<0103> Ehehe, me alegra que me hayas escogido a mí.
+<0104> ¿Yo? Claro, ¿por qué no?
+<0105> ¿Ya empezó?
+<0106> Fufufu, no puedo esperar.
+<0107> ¡El juego empezó!
+<0108> *Tarareando*
+<0109> Wah, ¿yo gané?
+<0110> Gracias a todos. Me divertí muchísimo.
+<0111> Fufufu, todos deberíamos volver a jugar.
+<0112> Muy bien, haré una cena especial esta noche.
+<0113> Wah, parece que obtuviste uno bueno.
+<0114> ¿Tú... querías esto?
+<0115> Fufufu, aquí tienes.
+<0116> ¿No te alegra conseguir algo nuevo?
+<0117> ¿Te importaría cambiar?
+<0118> Wah, gracias.
+<0119> Cuento contigo.
+<0120> Muy bien, vamos a cambiar de lugar ahora.
+<0121> Okay.
+<0122> Eso es bueno.
+<0123> Claro.
+<0124> Lo siento.
+<0125> Oh no.
+<0126> Fufufu, tienes suerte.
+<0127> ¿Oh?
+<0128> ¡Vamos!
+<0129> Es la hora de jugar.
+<0130> ¿Nos vamos?
+<0131> Hola.
+<0132> Oh, cielo santo.
+<0133> Eso es maravilloso.
+<0134> ¡Eso es genial!
+<0135> Wah... ¿Qué hago ahora?
+<0136> Wah, ¿está bien usar esto?
+<0137> ¿Cómo uso esto?
+<0138> Tomaré esto prestado por un rato.
+<0139> Esta carta es increíble.
+<0140> Gracias.
+<0141> Q, vamos a jugar.
+<0142> Oh, ¿quieres que juegue contigo?
+<0143> Oh, Q, ¿tienes sueño?
+<0144> Q, eres tan poderosa.
+<0145> Yuki, no debes jugar muchas trampas, ¿está bien?
+<0146> Fufufu, no me molesta jugar contigo.
+<0147> Fufufu, hoy te pondré a cargo de lavar los platos.
+<0148> Oh cielos, Yuki.
+<0149> Mei, ¿quieres jugar conmigo?
+<0150> Mei, hola.
+<0151> Fufu, yo gano, Mei.
+<0152> Tú ganas, Mei. Eso es increíble.
+<0153> Tomaré una siesta contigo...
+<0154> ¿Hora del té? ¿Quieres que vaya a conseguir dulces?
+<0155> ¿Por qué no hacemos dulces?
+<0156> ¿Quieres cocinar algo conmigo?
+<0157> Fufufu, hazme algo delicioso, ¿está bien?
+<0158> Muy bien, hoy serás la cena.
+<0159> Ufufu, todos parecen estar divirtiéndose.
+<0160> ¡Hmmm! ¡La lah!
+<0161> ¡Es la hora de comer!

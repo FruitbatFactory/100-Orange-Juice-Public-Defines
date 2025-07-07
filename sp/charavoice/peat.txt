@@ -1,0 +1,162 @@
+
+<0000> ¡Ya está!
+<0001> ¡Toh!
+<0002> ¡Yah!
+<0003> ¡Ve!
+<0004> ¡Iré con esta!
+<0005> ¡Es la hora de usar esto!
+<0006> ¡Buen momento para usar esto!
+<0007> ¡Escojo esta carta!
+<0008> Odio tener que hacerlo, pero no tengo otra opción.
+<0009> Debo colocarlo boca abajo justo así, ¿verdad?
+<0010> Esta será una buena trampa a prueba de idiotas.
+<0011> Veamos que imbécil caerá en esta.
+<0012> Siempre doy todo lo que tengo.
+<0013> ¡La estaba guardando para esta ocasión!
+<0014> ¿¡Te sorprendí, no!?
+<0015> ¡Esto me llevará a la victoria!
+<0016> ¡Voy a acabar con esto!
+<0017> ¡Hora de levantarse!
+<0018> ¡Ahora es mi turno para acabar con los demás!
+<0019> ¡Listo para el combate!
+<0020> ¡Rendirse no es una opción!
+<0021> ¡¿La re-ignición falló?!
+<0022> ¡Demonios! ¡Tengo que empezar de nuevo!
+<0023> ¡Mierda!
+<0024> ¡Una falla!
+<0025> ¡Cómete esto!
+<0026> ¡Le di justo en el blanco!
+<0027> ¿Y, qué tal?
+<0028> ¡Esto lo hará!
+<0029> ¡Me diste!
+<0030> ¡Maldita sea!
+<0031> ¡¿De dónde vino eso?!
+<0032> ¡¿Me dieron?!
+<0033> Okay, todo está mejor.
+<0034> Tuve unos buenos minutos de receso.
+<0035> Sigue adelante. Hazlo por mí, compañero.
+<0036> Lo siento, Cuervo Azul...
+<0037> ¡Ugh, me vuelan fuera del terreno!
+<0038> ¡¿A dónde caeré?!
+<0039> ¡¿Qué está pasando?!
+<0040> ¡Perdí el control sobre mi avión!
+<0041> ¡¿Me estrellé?!
+<0042> Ugh, me descarrilé...
+<0043> ¡Necesito tener un buen aterrizaje!
+<0044> Voy a necesitar un blindaje nuevo...
+<0045> ¡Vamos, pelea!
+<0046> ¡Te derribaré!
+<0047> ¡Objetivo localizado!
+<0048> ¡Detrás de ti!
+<0049> ¡Listo para interceptar!
+<0050> ¡Está bien!
+<0051> ¡Desafío aceptado!
+<0052> ¡Será mejor que conozcas tu limite!
+<0053> ¡Caerás!
+<0054> ¡Ahí!
+<0055> ¡Le daré en donde más le duele!
+<0056> ¡Intenta evadir esto!
+<0057> ¡Ugh!
+<0058> ¡Muy débil!
+<0059> ¡¿Me dieron?!
+<0060> ¡No te saldrás con la tuya!
+<0061> ¡Guhah!
+<0062> ¡Gyaah!
+<0063> ¡¿Disparo directo?!
+<0064> ¡Eso duele!
+<0065> ¡Eso no funcionará!
+<0066> ¡Puedo esquivar eso!
+<0067> ¡Tengo todos tus movimientos calculados!
+<0068> ¡Demonios, eso estuvo cerca!
+<0069> ¡Quizás puedas volver cuando seas más fuerte!
+<0070> ¡No me eches la culpa por ganar!
+<0071> ¡La victoria es mía!
+<0072> ¡Ustedes son unos perdedores!
+<0073> ¡Esto es ridículo!
+<0074> ¡Suerte de principiante!
+<0075> Esto no puede estar sucediendo...
+<0076> Me... derrotaron...
+<0077> Todo en orden... por ahora.
+<0078> ¡Una recompensa!
+<0079> Me llevaré estas.
+<0080> ¿Cuánto valdrán estas cosas?
+<0081> ¡¿Pero qué-?!
+<0082> ¡E-espera!
+<0083> ¡¿Qué acaba de suceder?!
+<0084> ¡Agh!
+<0085> ¡¿Quién hizo esto?!
+<0086> ¡¿Me equivoqué?!
+<0087> ¡Soy un idiota!
+<0088> ¡¿Por qué soy tan tonto?!
+<0089> ¡¿Un nuevo enemigo?!
+<0090> ...Gigantesco.
+<0091> Un enemigo más no hará diferencia sobre mí.
+<0092> Tendré que derribar a ese idiota también, ¿no?
+<0093> Solo debo juntar estrellas, ¿verdad?
+<0094> Que trabajo tan tedioso.
+<0095> Esto solamente será una molestia.
+<0096> Juntaré todas las estrellas del mundo.
+<0097> ¡Simple y claro!
+<0098> ¡No me importa cuántos sean, los derribaré!
+<0099> ¡¿Cuántos debería derribar?!
+<0100> ¡Es hora de hacer un nuevo record!
+<0101> ¡Hora del juego, Cuervo Azul!
+<0102> Cuenten con nosotros.
+<0103> Estoy listo.
+<0104> ¡Veamos qué tan bueno es mi nuevo equipo!
+<0105> ¡Vamos a volar, Cuervo Azul!
+<0106> ¡Hagámoslo, Cuervo Azul!
+<0107> ¡Sorpréndenos!
+<0108> ¡Despegue!
+<0109> ¡Ninguna preocupación!
+<0110> Simplemente natural.
+<0111> Siempre merezco ganar.
+<0112> Soy el número uno.
+<0113> Un material nuevo para mi equipo...
+<0114> Supongo que usaré eso.
+<0115> Supongo que lo intentaré.
+<0116> No he tenido esto antes.
+<0117> ¡Es tu turno!
+<0118> ¡Tú puedes hacerlo!
+<0119> Encárgate del resto.
+<0120> Podría seguir, pero, eh, qué importa.
+<0121> Okay.
+<0122> Genial.
+<0123> Bien.
+<0124> Nah.
+<0125> Esto apesta.
+<0126> ¡Me gusta!
+<0127> ¿Qué...?
+<0128> ¡Vamos, Cuervo Azul!
+<0129> Cuento contigo.
+<0130> ¡A jugar!
+<0131> ¡Ey!
+<0132> Mierda...
+<0133> ¡Bien!
+<0134> ¡Eso es lo mejor!
+<0135> ¡Oh no!
+<0136> ¡Esto no es de mi estilo, pero no importa!
+<0137> ¡No hay otra opción!
+<0138> ¡No será la mejor carta, pero servirá!
+<0139> ¡Usaré todo lo que tenga!
+<0140> Tu manera de volar sigue siendo realmente mala.
+<0141> ¡Deberías renunciar a tu trabajo de piloto!
+<0142> Veo que has mejorado. ¡En fin, nos vemos!
+<0143> Ganaré la próxima vez... ¡Te arrepentirás de esto!
+<0144> Otra derrota... ¡¿Por qué?!
+<0145> Mantén el perfil bajo, jovencita.
+<0146> Mantén el perfil bajo... eh... ¿señorita?
+<0147> Um... le pido perdón.
+<0148> Perdí... otra vez...
+<0149> ¿Por qué...? ¿Por qué no puedo ganar...?
+<0150> Bueno, solo para asegurarme...
+<0151> ¡Pelear contra damas va contra de mi ley, pero...!
+<0152> ¡Perdí contra esa sabandija...!
+<0153> ¡Estoy en la cima!
+<0154> ¡Te arreglaré para ser un humano normal!
+<0155> ¡Qué sinvergüenza...!
+<0156> ¡Todavía no eres lo suficientemente rápido!
+<0157> ¡Apártate, imbécil!
+<0158> ¿Serás tú la sabandija...?
+<0159> ¡Te desafiaré a un combate!
+<0160> ¿¡Grem... lin!?

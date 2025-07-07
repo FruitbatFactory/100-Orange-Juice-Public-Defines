@@ -1,0 +1,161 @@
+<0117> ¿Podemos cambiar ahora?
+<0118> ¡Buena suerte!
+<0119> Lo siento, pero tendré que pedirte que tomes mi lugar.
+<0120> ¡Gracias! ¡Dejaré el resto en tus manos!
+
+<0000> ¡Aquí!
+<0001> ¡Yah!
+<0002> ¡Tah!
+<0003> ¡Ahí!
+<0004> Creo que usaré una carta.
+<0005> ¡Carta!
+<0006> ¡Está bien, iré con esta!
+<0007> ¡Aquí va!
+<0008> *Escurro escurro*...
+<0009> Esto va... aquí abajo.
+<0010> La trampa de Santa... colocada.
+<0011> ¡Trampa!
+<0012> ¡No puedo perder!
+<0013> ¡Usaré esto!
+<0014> ¡Está será entonces!
+<0015> ¡Carta de batalla!
+<0016> ¡Es hora de que todos obtengan sus regalos!
+<0017> ¡Realmente necesito recuperar el tiempo perdido!
+<0018> ¡No perderé más tiempo! ¡Debo irme!
+<0019> ¡Esto es solamente el comienzo!
+<0020> ¡No volveré a ser derrotada!
+<0021> ¡Esto no puede estar sucediendo!
+<0022> Hauu...
+<0023> ¡¿Queeeé?!
+<0024> ¡Oh no!
+<0025> ¡Eiyaah!
+<0026> ¡Ahí!
+<0027> ¡Aquí vamos!
+<0028> ¿Cómo está eso?
+<0029> ¡Oww!
+<0030> ¡Unan!
+<0031> ¡Hee!
+<0032> ¡Owah!
+<0033> Se siente tan cómodo...
+<0034> Fuaah... me estoy recuperando...
+<0035> Que buena sensación...
+<0036> ¡Curando!
+<0037> ¿¡Wah wah!?
+<0038> ¡¿A dónde me llevan?!
+<0039> ¿En dónde caeré?
+<0040> ¡Wawah!
+<0041> Ahora... no...
+<0042> Estoy acabada...
+<0043> Simplemente colapsaré...
+<0044> No puedo mover un dedo...
+<0045> ¡Ven y pelea!
+<0046> ¡Te mostraré los poderes de Santa!
+<0047> ¡Estoy lista!
+<0048> ¡Adelante!
+<0049> ¡¿Puedes quitarte de mi camino?!
+<0050> ¿Qué? ¡¿Quieres pelear?!
+<0051> Deja de bloquear mi camino, o si no...
+<0052> ¡Acepto tu desafío!
+<0053> ¡Ataque de regalos!
+<0054> ¡Toma eso! ¡Y eso!
+<0055> ¡Cómete esto!
+<0056> ¡Toryaah!
+<0057> ¡Uheh!
+<0058> ¡Mhma!
+<0059> ¡Eso duele!
+<0060> ¡Awawah!
+<0061> ¡Ugh!
+<0062> ¡Gyaa!
+<0063> ¡Goff!
+<0064> ¡Awawawawah!
+<0065> ¡Salto!
+<0066> ¡Fallaste!
+<0067> ¡Mira lo bien que puedo esquivar!
+<0068> ¡Demasiado lento!
+<0069> ¡Muy bien, gané!
+<0070> ¡Lo hice bien!
+<0071> Bien, es hora de movernos.
+<0072> Phew, logré ganar.
+<0073> Ugh, esto no es bueno...
+<0074> Perdí...
+<0075> Auu, eres demasiado fuerte...
+<0076> No puedo creer que perdí...
+<0077> ¡Estrellas!
+<0078> ¡Las estrellas están brillando!
+<0079> ¡Wow, son hermosas!
+<0080> ¡Un regalo de estrellas!
+<0081> ¡Wawawah, mis estrellas!
+<0082> ¡Wah, perdí algunas estrellas!
+<0083> ¡Estrellas, no se vayan sin mí!
+<0084> Auu... Las estrellas se fueron...
+<0085> ¡¿Una trampa?!
+<0086> Uaaah, ¡es una trampa!
+<0087> ¡Howah!
+<0088> ¡Oh rayos!
+<0089> ¡¿Fue?! ¡¿Alguien salió de la nada?!
+<0090> Awawah...
+<0091> ¡Acabaré con todo aquél en mi camino!
+<0092> Ese tipo se ve muy fuerte...
+<0093> ¡Juntaré estrellas!
+<0094> Me gusta la recolección de estrellas.
+<0095> Supongo que conseguiré algunas estrellas.
+<0096> ¡Estrellas será!
+<0097> Sé que no soy buena peleando, pero...
+<0098> ¡No mostraré piedad a todo aquél que quiera detenerme!
+<0099> ¡Lucharé con mis poderes de Santa!
+<0100> ¡Los niños malos deberán ser castigados!
+<0101> Bienvenidos a la Sala Rbi-... Oh no, ¡no importa!
+<0102> ¿Quieres ayudarme a entregar los regalos?
+<0103> ¡Muy bien, es la hora de trabajar!
+<0104> ¡Niños en el mundo, allí voy!
+<0105> ¡Y así comienza!
+<0106> ¡Haré lo mejor que pueda!
+<0107> ¡Usaré todo lo que tengo para ganar!
+<0108> ¡No perderé!
+<0109> ¡Feliz navidad!
+<0110> ¡Niños y niñas, aquí están sus regalos!
+<0111> ¡Fufufu, lo hice!
+<0112> ¡Hurra, gané!
+<0113> Aquí hay un regalo para ti.
+<0114> Fufu, ahora Santa te dará un regalo.
+<0115> Espero que te guste.
+<0116> Ten, este es para ti.
+<0121> ¡Okay!
+<0122> ¡Bien!
+<0123> ¡Sí!
+<0124> ¡No!
+<0125> ¡Oh no!
+<0126> ¡Tienes suerte!
+<0127> ¿Huh?
+<0128> Vamos.
+<0129> ¡Hora de los dados!
+<0130> ¡Hora de irnos!
+<0131> ¡Hola!
+<0132> Hmm...
+<0133> ¡Eso es genial!
+<0134> ¡Eso es increíble!
+<0135> Diantres...
+<0136> ¡Tomaré esto prestado por un segundo!
+<0137> ¿Qué clase de poder tendrá esto?
+<0138> Usaré este.
+<0139> ¡No puedo esperar para ver qué ocurrirá!
+<0140> ¡Aquí hay un regalo para ti!
+<0141> Oh, Sra. Q... Espera, no tengo por qué llamarla así ahora.
+<0142> Bienvenidos a la Sala Rbi-... ¡Oh, se me escapó!
+<0143> Perdónenme, conejitos...
+<0144> Uu, me alegra que alguien así de fuerte visite mi tienda...
+<0145> ¡Tú! ¡Sé que eres una mala persona!
+<0146> Vaya, esa es una mujer peligrosa.
+<0147> ¡No hay regalos para los niños malos!
+<0148> Lo único rojo aquí es mi ropa...
+<0149> Wow, eres un niño pequeño.
+<0150> ¿Qué? ¿Ustedes dos son niños malos?
+<0151> Compórtense bien y obtendrán regalos.
+<0152> Uu, sabía que ustedes dos no eran nada bueno...
+<0153> ¿Acaso eres una niña buena?
+<0154> ¡Wawah, una niña pequeña!
+<0155> Fufufu, muy pronto tendrás tu regalo.
+<0156> Pensé que eras una niña buena...
+<0157> ¡Wawah, mis regalos!
+<0158> ¡Aquí hay presentes para ti!
+<0159> ¡En formación, tal como lo practicamos!

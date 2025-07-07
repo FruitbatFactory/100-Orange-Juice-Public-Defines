@@ -1,0 +1,161 @@
+
+<0000> ¡Yassai!
+<0001> ¡Mossai!
+<0002> ¡Essa!
+<0003> ¡Hoisa!
+<0004> ¡Brillando!
+<0005> ¡Tirando!
+<0006> ¡Cambiaré las cosas!
+<0007> ¡La hora llegó, jugaré esta carta!
+<0008> ¡Guhihihihi!
+<0009> Dejaré esto aquí...
+<0010> ¡Ya coloqué la trampa!
+<0011> ¡Carta trampa!
+<0012> ¡Carta de batalla!
+<0013> ¡Esto es por mi victoria!
+<0014> ¡Carta de batalla, abierta!
+<0015> ¡Este es el momento!
+<0016> ¡¡Ababababaaaa!!
+<0017> *Suspiro*... estuve despierta por mucho tiempo...
+<0018> ¡¡Refrescaaaaaar!!
+<0019> ¡Puedo continuar!
+<0020> ¡¡Puedo hacer más de esto...!! ¡¡Puedo seguir jugando!!
+<0021> Funyaheh...
+<0022> ¡Arrgh, solo mátame ahora!
+<0023> La santa madre...
+<0024> Mi suerte no es lo suficientemente alta...
+<0025> ¡¡Golpe!!
+<0026> ¡Oraah!
+<0027> ¡¡Puño Bonito de Syura!!
+<0028> ¡Derríbalos con un golpe!
+<0029> ¡¡Habua!!
+<0030> ¡Gubee!
+<0031> ¡Eres de lo peor!
+<0032> ¡Oof!
+<0033> Comienzo a sentirme mejor...
+<0034> ¡Curación!
+<0035> ¡Me siento con vida otra vez!
+<0036> Un hierba... mordisco mordisco...
+<0037> ¡Voy por la zona de transportación!
+<0038> ¡¡Oh mi diooooooos, estoy volando!!
+<0039> ¡¿A dónde iré a parar?!
+<0040> ¡Le daré una vuelta!
+<0041> La muerte se ha llevado al elegido...
+<0042> ¿Fin del juego...?
+<0043> Oh... ya no tengo energía...
+<0044> ¡No pude hacerlo...!
+<0045> ¡Admirad! ¡Syura-chan ya llegó!
+<0046> ¡Tendré que pelear contra alguien más fuerte que yo!
+<0047> ¡Hora de la caza!
+<0048> ¿¡Por qué no peleamos!?
+<0049> ¡Un nuevo retador ha aparecido!
+<0050> ¡Acepto este duelo!
+<0051> ¡No tengamos piedad!
+<0052> Veo que no te da miedo la muerte... *Risa *
+<0053> ¡¡Golpe crítico!!
+<0054> ¡Oryaah!
+<0055> ¡Combo de 16 botones!
+<0056> ¡Toma esto y esto y esto!
+<0057> ¡¡Tskaaaaa!!
+<0058> ¡Fue!
+<0059> ¡Cómo te atreves!
+<0060> ¡Ugh!
+<0061> ¡Aaargh!
+<0062> ¡Brooooah!
+<0063> ¡Eso dolió!
+<0064> ¡Buheeeee...!
+<0065> ¡Barrera de piyo-chan!
+<0066> ¡Modo de invencibilidad activado!
+<0067> ¡Una evasión exitosa!
+<0068> ¡¿Crees que puedes darme?!
+<0069> ¡Yaaay! ¡Victoriaaaaa!
+<0070> ¡Soy la ganadora!
+<0071> ¡Lo hice! ¡Lo hice!
+<0072> ¡Gané! ¡Gané!
+<0073> Fueron muy duros...
+<0074> Esto es lo peor...
+<0075> Lo admito eres un poco fuerte...
+<0076> Bien hecho...
+<0077> ¡Dame muchos, estúpido panel!
+<0078> ¡Syura ha conseguido una vida extra!
+<0079> ¡Ding-ding-ding!
+<0080> ¡Muy bien, es un panel de estrellas!
+<0081> ¡¡Aaargh!! ¡Mi dineroooooo!
+<0082> ¡¡No me dejeeeeen!!
+<0083> ¡Mis estrellaaaas...!
+<0084> Oh vaya, es un panel menos
+<0085> Guwah, ¡¡Quién dejó una trampa aquí!!
+<0086> ¡Esto es malévolo...!
+<0087> ¡Mierda, es una trampa!
+<0088> ¡Kuwah! ¡Maldita sea!
+<0089> ¡Oh, siento un jefe...!
+<0090> ¡S-será mejor que encuentre el punto de guardado...!
+<0091> ¡Esto es una locura!
+<0092> ¡¡¡Gigantesco!!!
+<0093> ¡Ataque de puntos!
+<0094> ¡Conseguiré estrellas!
+<0095> ¡Puedo ir por estrellas!
+<0096> ¡Estrellas! ¡¡Más estrellas!!
+<0097> ¡Algo me dice que tengo que pelear...!
+<0098> ¡Mis puños desean sangre...!
+<0099> ¡Batallas!
+<0100> ¡Vamos a pelear!
+<0101> ¡Syura está aquí! ¡Qué onda!
+<0102> ¿Oh, yo?
+<0103> ¡Confía en mí, soy buena en los juegos!
+<0104> ¡Muy bien, a trabajar!
+<0105> ¡Primera ronda, a pelear!
+<0106> ¡Ahora veamos qué tan fuertes son los demás!
+<0107> ¡Es la hora de demostrar el poder de Syura!
+<0108> ¡Vamos de cacería!
+<0109> ¡Genial! ¡Yo gané, yo gané!
+<0110> ¡Nada de lo qué sorprenderse!
+<0111> ¡Yaay! ¡La victoria es mía!
+<0112> ¡¡¡Lo hiceeeeee!!! ¡Estoy en el primer lugar!
+<0113> ¡Tengo uno nuevo!
+<0114> Oh, ¿es un objeto raro?
+<0115> Admirad ¡Esto era lo que estaba buscando!
+<0116> ¡Tesoro obtenido!
+<0117> Hora de la substitución, choca esos cinco.
+<0118> Encárgate del resto por favor.
+<0119> ¡Retirarse también es una buena estratégia!
+<0120> ¡Técnica de reemplazamiento de cuerpo!
+<0121> ¡Okay!
+<0122> ¡Eso es bueno!
+<0123> ¡Claro!
+<0124> Hmm.
+<0125> Hmm... Esto es malo.
+<0126> ¡Qué suerte!
+<0127> ¿Hmm?
+<0128> ¡Aquí vamos!
+<0129> ¡A rodar y rodar!
+<0130> ¡Vamoooos!
+<0131> ¡Yahoo!
+<0132> Um...
+<0133> ¡Eso es muy bueno!
+<0134> ¡Increíble! ¡Eres genial!
+<0135> ¡Howah, qué horrible!
+<0136> ¡Aumentaré mis poderes con esta carta que robé!
+<0137> ¡Ohoo! ¡¡Qué demonios es esta carta!!
+<0138> ¡Usaré esta carta al azar!
+<0139> ¡No ibas a pensar que jugaría esta carta, cierto!
+<0140> ¡Deberíamos pelear, Q-chan! ¡El perdedor pagará!
+<0141> ¡Finalmente nos enfrentamos...!
+<0142> ¡Booyah! ¡Me debes ramen después de clases!
+<0143> ¡Heee, perdí otra vez...!
+<0144> ¡Ohhoo! ¡Rubia! ¡Cabello suave y sedoso! ¡¡Lindura!!
+<0145> ¡¡Tiene ojos verdes...!! ¡¡Qué encantador!!
+<0146> ¡Ah! ¡¡Debes de ser el padre de piyo!!
+<0147> ¿Qué? ¿No eres el padre de piyo?
+<0148> ¡El padre de piyo tan fuerte...!
+<0149> ¡Oh, hola Natt! ¿Qué onda?
+<0150> ¡Meeeeeeiy! ¡Vamos a pelear, tú y yo!
+<0151> ¡Mei, puedo ver que nuestra batalla será una muy furiosa!
+<0152> ¡Gané esta vez! ¡Fufufu!
+<0153> ¡Guwah! ¡¡Vamos, sean menos duros conmigo!!
+<0154> ¡Howaaaah! ¡Rubia! ¡Buena piel! ¡¿Qué clase de chica hermosa es esta?!
+<0155> ¡Howah, enana! ¡Y con cabello plateado! ¡Brillante! ¡Lindura!
+<0156> Impresionante ¡Una chica linda como ella puede pilotear un avión!
+<0157> ¡¡Santa con orejas de conejo!! Espera, ¿Santa es real?
+<0158> ¿Eres un cosplayer? ¡Wow, ese es un atuendo fantástico!
+<0159> ¡Do-do-do-do-dooo!

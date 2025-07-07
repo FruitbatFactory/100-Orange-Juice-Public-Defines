@@ -1,0 +1,294 @@
+< PET_BARREL >
+name=赤紅酒桶
+descr=赤紅酒桶隨時可以起飛！ 
+
+< PET_CAT >
+name=貓
+descr=讓人難以捉摸又自命清高的生物。
+
+
+< PET_CHICKEN >
+name=雞
+descr=不畏一切的閃避。
+
+
+< PET_FRUITBAT >
+name=果蝠
+descr=痴迷於橙子的蝙蝠。
+
+
+< PET_GHOST >
+name=幽靈
+descr=誰在你背後？
+
+
+< PET_LEO >
+name=小獅子
+descr=暗黑之獸將會再次起舞。
+
+
+< PET_NAVI >
+name=娜比
+descr=這到底是什麼生物啦？
+
+< PET_PLANT >
+name=植物
+descr=你敬我一尺，我敬你一齒。
+
+
+< PET_RABBITPLUSH >
+name=兔子玩偶
+descr=這個玩偶可能被附身了。
+
+
+< PET_RACCOON >
+name=浣熊
+descr=它是浣熊嗎？還是一隻狗呢？\n它會變身嗎？
+
+
+< PET_RBIT >
+name=小兔子
+descr=陣型「環繞」！
+
+
+< PET_REDBLUE >
+name=小紅＆小藍
+descr=白色聖誕大粉碎！
+
+
+< PET_ROBOBALL >
+name=機器球
+descr=為每個人心中的機械師夢想而存在。
+
+
+< PET_SB_BOMB >
+name=星破炸彈
+descr=千萬別摔著它！
+
+
+< PET_SEAGULL >
+name=海鷗
+descr=它最喜歡的數字是7。
+
+< PET_SEARCHLIGHT >
+name=探照燈
+descr=似乎在尋找某個特別的人。
+
+
+< PET_SHIBE >
+name=柴犬
+descr=愚忠。
+
+< PET_SNOWBUNNY >
+name=雪兔
+descr=讓它保持冷凍。
+
+
+< PET_THINKBUBBLE >
+name=思考氣泡
+descr=你在想什麼呢？
+
+< PET_EVENT_REIN >
+name=小馴鹿
+descr=亞琉的忠實搭檔。\n一年休假364天。
+
+
+< PET_EVENT_PRESENT >
+name=禮物
+descr=溫暖人心的美妙禮物。
+
+
+
+< PET_EVENT_PIG>
+name=豬
+descr=豬真的能飛嗎？
+
+< PET_LIZARD >
+name=蜥蜴
+descr=可能也可能並沒有生活在地球的\n中心。
+
+< PET_DWARF>
+name=矮人
+descr=現在真的名副其實了。
+
+< PET_PIYO_EGGSHELL>
+name=小雞（蛋殼）
+descr=先有小雞還是先有蛋？
+
+< PET_PIYO>
+name=小雞
+descr=先有小雞。
+
+< PET_TORTOISE>
+name=烏龜
+descr=眾所周知，它肯定能跑贏……遲早。
+
+< PET_UFO>
+name=UFO
+descr=總想抓走罕見的東西。 
+
+< PET_SHARK>
+name=鯊魚
+descr=它可怕的大嘴在海報上看起來就是\n那麼帥氣。
+
+< PET_FROG>
+name=青蛙
+descr=一隻不太喜歡下雨的青蛙。
+
+< PET_BIT>
+name=浮游砲
+descr=有一點點精力充沛。
+
+< PET_SLIME>
+name=史萊姆
+descr=據說有甜味。
+
+< PET_GOLDENEGG >
+name=金蛋
+descr=一個特別的蛋，可以孵化很多次。
+
+< PET_M10EYE >
+name=M10之眼
+descr=它能看見虛數……大概吧。
+
+< PET_STAR >
+name=飄忽不定的星星
+descr=來自另一個星系。
+
+
+< PET_AIRSHIP >
+name=飛艇
+descr=為你提供空中支援。
+
+< PET_BUTTERFLY >
+name=蝴蝶
+descr=它能造成龍捲風。
+
+< PET_CUPCAKE >
+name=紙杯蛋糕
+descr=350華氏度烘焙。
+
+< PET_BOSS_HARUO >
+name=春夫
+descr=有著一顆金子般的心。
+
+< PET_BOSS_JONATHAN >
+name=大喬納桑
+descr=也沒那麼大啦。
+
+< PET_BOSS_M10 >
+name=M10
+descr=M10分之7。
+
+< PET_BOSS_ROPOCHI >
+name=蘿啵雞
+descr=轟嘰啵——！
+
+< PET_BOSS_STARDEV >
+name=星星吞噬者
+descr=能傳送至世界上的任何角落。
+
+< PET_OCTOPUS >
+name=章魚
+descr=一次能做八件事。
+
+< PET_SEAL >
+name=海豹
+descr=豹力十足。
+
+< PET_SQUID >
+name=烏賊
+descr=放出克拉肯。
+
+< PET_MANDRAKE >
+name=曼德拉草
+descr=解決一些根深蒂固的問題。
+
+< PET_SUN >
+name=太陽
+descr=射出拉風射線。
+
+< PET_SEABUNNY >
+name=海兔
+descr=海里的聖誕小姐。
+
+< PET_ROBOFISH >
+name=機器魚
+descr=被編制了不斷游泳的程序。
+
+< PET_WATERMELON >
+name=西瓜
+descr=從夏日野獸的怒火中救出來的。
+
+< PET_EVENT_POMENARIAN >
+name=博美
+descr=有點笨的小狗。
+
+< PET_EVENT_PUDDING >
+name=布丁
+descr=小狗和魔女跨越宇宙的最愛。
+
+< PET_EVENT_PUFFERFISH >
+name=河豚
+descr=圓形畢露。
+
+
+< PET_FUNKYFUNGUS >
+name=怪味菇
+descr=處於困難時期的蘑菇。
+
+< PET_ROBOCRAB >
+name=機器蟹
+descr=步法別具一格。
+
+< PET_PONYCORN >
+name=獨角小馬
+descr=傳播著友誼的魔法。
+
+< PET_WOLLIL>
+name=綿綿
+descr=毛得要死。
+
+< PET_GLOBLET >
+name=火沫
+descr=火焰的泡沫。
+
+< PET_TROLLITE >
+name=小小巨魔
+descr=恐懼。
+
+< PET_SPOOKYDOLL >
+name=恐怖人偶
+descr=它的可愛會使你魂牽夢繞。
+
+< PET_HELISEEDLING >
+name=直升胚
+descr=隨風而去。
+
+< PET_TERRAWORMER >
+name=潛地蟲
+descr=地道可愛。
+
+< PET_MINIMOSS >
+name=迷你苔魔像
+descr=有著一顆金子做的心臟。
+
+< PET_GEMERANGLER >
+name=燭光鼴
+descr=守燭待兔。
+
+< PET_WUFFSHROOM >
+name=幼杏鮑狗
+descr=菇是人類最好的朋友。
+
+< PET_TURNISLIM >
+name=蕪萊姆芽
+descr=蕪與倫比。
+
+< PET_PUNYZARD >
+name=崽兔蜥
+descr=耳朵都睡長了。
+
+< PET_MASHIRO >
+name=真白
+descr=不再不幸。

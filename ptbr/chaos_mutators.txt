@@ -1,0 +1,119 @@
+< MUTATOR_RANDOM >
+name=Aleatório
+descr=Um Mutador de Caos aleatório será escolhido.
+
+< MUTATOR_HYPER_DECK >
+name=Baralho Hiper
+descr=Todas as cartas no baralho serão alteradas para Hipers pré-gerados.
+
+< MUTATOR_RANDOM_GENERATION >
+name=Verdadeira Geração Aleatória
+descr=Todos os painéis com exceção de painéis de Teleporte e de Casa serão alterados aleatoriamente a cada capítulo.
+
+< MUTATOR_POPPOMANIA >
+name=Poppomania Supremo
+descr=Todas as cartas Hiper compradas serão Onipresença.
+
+< MUTATOR_NEMESIS_DRAFT >
+name=Esboço de Inimigo
+descr=Unidades seletas vão trocar de donos no começo da partida.
+
+< MUTATOR_ULTIMATE_JOKER >
+name=Coringa Supremo
+descr=Todas as cartas vão agir como se fossem nível 1 e não terão custos.
+
+< MUTATOR_UNSTABLE_SELECTION >
+name=Seleção Instável
+descr=Personagens escolhidos são alterados para um personagem aleatório.
+
+< MUTATOR_MIXED_JUICE >
+name=100% Mixed Juice!
+descr=Todos os atributos são aleatorizados no começo do jogo. Todos os Hipers comprados serão aleatórios.
+
+< MUTATOR_MULTIPLICATION >
+name=Sensação de Multiplicação
+descr=Todos os atributos, efeitos e durações são multiplicados por 2.
+
+< MUTATOR_FAERIZE >
+name=Fadarizar
+descr=Todos os jogadores serão alterados em Aurora. \n Um bot amigo que tomará controle da unidade que você escolheu inicialmente irá se juntar a você em seu painel, e compartilhar vitórias e estrelas./n/n Seu bot amigo é a única unidade capaz de concluir normas./n Guie seu bot para a vitória.
+
+< MUTATOR_MAXTENSION >
+name=Maxtensão
+descr=Todas as cartas de batalha são trocadas por Extensão, que nesse modificador será Nível 1.
+
+< MUTATOR_POPPOFORMATION >
+name=Poppoformação
+descr=Todos os jogadores se transformam na Poppo por dois capítulos após um intervalo aleatório de 2-10 capítulos.
+
+< MUTATOR_FORCED_EXCHANGE >
+name=Troca Forçada
+descr=A cada 5 capítulos, no começo do capítulo, todas as cartas nas mãos dos jogadores são redistribuídas como se Troca de Presentes tivesse sido jogada.
+
+< MUTATOR_BOMBERJAM >
+name=Bomberjam
+descr=Todo mundo coloca bombas em seu turno. Elas irão explodir após uma duração aleatória.\n Você também pode correr uma pequena distância.
+
+< MUTATOR_DYNAMIS_DICE >
+name=Dado Dinâmico
+descr=Escolha o resultado de sua rolagem de dado.\n Após um número ser escolhido, ele estará indisponível até todos os outros números forem utilizados.
+
+< MUTATOR_SHOPAHOLIC >
+name=Viciado em compras
+descr=Lojas de Caça de Recompensa vão surgir em painéis aleatórios, com uma seleção alterada de itens.
+
+< MUTATOR_KNIGHTS_AND_FAERIES >
+name=Cavaleiros e Fadas
+descr=No começo da partida, escolha entre jogar como Guardião, ou Aurora, com atributos modificados.\n Todas as cartas Hipers compradas serão aleatórias, e eventos inesperados podem ocorrer.
+
+< MUTATOR_FOURHEAVENLYKINGS >
+name=Quatro Reis Divinos
+descr=No começo da partida, escolha um chefão co-op para jogar pelo resto do jogo.
+
+< MUTATOR_CHAOS_BATTLEFIELD >
+name=Campo de Batalha Caótico
+descr=Todas as batalhas durarão 2 turnos por padrão.\nA cada 10 capítulos, torne todos os painéis de jogador em um painel de Encontro com Jogador. Essas lutas vão durar 10 turnos.\nGanhe +1 de um atributo de sua escolha a cada Norma Level Up.
+
+< MUTATOR_HOT_POTATO >
+name=Segure o Gremlin
+descr=Um jogador aleatório ganha a carta de presente "Segure o Gremlin". Segurá-la vai ou te dar estrelas ou explode antes de ser dada forçadamente a outro jogador.
+
+< MUTATOR_SHARING_IS_CARING >
+name=Compartilhar é se Importar
+descr=A cada capítulo, todo mundo dá sua mão atual para o jogador seguinte.
+
+< MUTATOR_OVERINDULGENCE >
+name=Excesso de Indulgência
+descr=Todas as unidades tem seu atributo de HP máximo colocado em 99, mas começam o jogo e revivem instantâneamente em 1 HP. Toda carta que não seja Hiper do baralho é aleatóriamente trocada por cartas do tipo Doce. Jogadores são recompensados por ter bastante HP. Mas cuidado, comer demais te deixa devagar!
+
+< MUTATOR_UNLIKELY_ALLIANCE >
+name=Aliança Improvável
+descr=Requerimentos de Norma são compartilhadas com um aliado escolhido. Aliados não podem batalhar, mas podem curar e reviver uns aos outros.
+
+< MUTATOR_TRUE_CONVERGENCE >
+name=Verdadeira Convergência
+descr=Experimente o quebrador de campo original, acontecendo a cada 6 capítulos.
+
+< MUTATOR_CARD_MANIA >
+name=Carta Mania
+descr=Todas as cartas escolhidas no seu baralho inicial serão duplicadas. Serão adicionados 16 hipers em vez de 8. O máximo de cartas na mão passa a ser 5 para todas as unidades, e você pode jogar qualquer quantidade de cartas no seu turno. Todo mundo compra uma carta a cada capítulo.
+
+< MUTATOR_BDTT >
+name=Intankável
+descr=Se juntem contra um jogador aleatório designado para ser o Tanque. Os três Ceifadores ganharão o jogo se o chefão for derrotado, enquanto o Tanque deve ou sobreviver 30 capítulos, ou nocautear todos os Ceifadores.
+
+< MUTATOR_SINGLE_CREDIT >
+name=Uma Única Ficha
+descr=Reviva instantaneamente quando nocauteado. Ao ser revivido, mude para uma unidade designada aleatóriamente.
+
+< MUTATOR_REVERSIBLE_FORTUNE >
+name=Fortuna Reversível
+descr=Comece com 200 Estrelas, e 14 Vitórias. Ganhe o jogo ao perder níveis de Norma, e atingir ou 0 Estrelas ou 0 Vitórias. Custo de carta será cortado pela metade e não pode exceder 30 estrelas.
+
+< MUTATOR_TAG_TEAM >
+name=Trabalho Em Equipe
+descr=Una-se a um parceiro para se tornar o campeão de 100% Orange Juice de seu bairro!
+
+< MUTATOR_ULTIMATE_TAG_TEAM >
+name=Trabalho Em Equipe Supremo
+descr=Trabalho em Equipe com uma reviravolta! Tempo de espera para troca é reduzido para 1 capítulo. Troca pode ser efetuada em batalhas.

@@ -1,0 +1,131 @@
+
+// ========= Scene: Stage 1 =========
+
+// (alicianrone)
+<0000> "...So, how exactly do you play this game?"
+
+// (suguri)
+<0001> "Well, the fastest way to learn is to actually play it."
+
+// (teotoratta)
+<0002> "Let's play! Let's play! And where're my sweets?"
+
+// (puyopuyomascot)
+<0003> "Just a moment, Teo. Sheesh, you sure get impatient when you're hungry."
+
+// (puyopuyomascot)
+<0004> "We don't have much pudding left, so we need something else..."
+
+// (suguri)
+<0005> "Haha, today has been like a party."
+
+// (suguri)
+<0006> "Since there are four of us here, we might as well take our time and enjoy the game."
+
+// (alicianrone)
+<0007> "Definitely! I'll secure myself a brilliant victory, no matter what type of game."
+
+// (teotoratta)
+<0008> "Says you! I'm the one who'll win! Prepare to go down, Rone!"
+
+// (puyopuyomascot)
+<0009> "Here, tea and sweets. Enjoy to your hearts' content."
+
+// (teotoratta)
+<0010> "That smells good! Let's dig in!"
+
+// (alicianrone)
+<0011> "Hey, Teo! Where are your manners?"
+
+// (teotoratta)
+<0012> "*Munch munch* Now, wets pwai da gweim."
+
+// (alicianrone)
+<0013> "Don't talk with your mouth full..."
+
+// (suguri)
+<0014> "Fufu."
+
+// (alicianrone)
+<0015> "What are you chuckling about, Forest Witch?"
+
+// (suguri)
+<0016> "Well, the way you two are so friendly with each other, I can't help but smile."
+
+// (alicianrone)
+<0017> "What? We are?"
+
+// (teotoratta)
+<0018> "Shweware?"
+
+// (suguri)
+<0019> "Ahahaha."
+
+// (puyopuyomascot)
+<0020> "Wow, it's unusual to see you laugh like that, Suguri."
+
+// (suguri)
+<0021> "I'm having so much fun."
+
+// (suguri)
+<0022> "Alright then, let's play the game now."
+
+// ========= Scene: Ending =========
+
+// (alicianrone)
+<0023> "...Sheesh, I can't believe how excited I got while playing."
+
+// (teotoratta)
+<0024> "The sweets were good, and the game was so much fun!"
+
+// (puyopuyomascot)
+<0025> "Glad to hear that."
+
+// (suguri)
+<0026> "I had a good time, too."
+
+// (alicianrone)
+<0027> "Okay then, thanks for having me today. I think I'll take my lea-. Hold on a second."
+
+// (alicianrone)
+<0028> "It's already dark out! How long have we been playing?"
+
+// (teotoratta)
+<0029> "What? Really?"
+
+// (teotoratta)
+<0030> "...Whoa! You're right!"
+
+// (suguri)
+<0031> "Tell you what, since it got so late, why don't you guys just stay the night here?"
+
+// (alicianrone)
+<0032> "We couldn't possibly trouble you like that."
+
+// (suguri)
+<0033> "It's no trouble at all. Today has been so much fun, I don't want it to end."
+
+// (teotoratta)
+<0034> "Woof?"
+
+// (puyopuyomascot)
+<0035> "You just want them to stay because you'd be sad to see them leave, don't you, Suguri."
+
+// (suguri)
+<0036> "...Well, that's one way of looking at it."
+
+// (alicianrone)
+<0037> "I see. That's cute of you, Forest Witch."
+
+// (alicianrone)
+<0038> "Well, if that's the case, I'll take you up on your kind offer."
+
+// (teotoratta)
+<0039> "Alright! Now we can play as much as we want! Bow wow!"
+
+// (puyopuyomascot)
+<0040> "In that case, this mascot will cook up something with the wild vegetables they gave us."
+
+// (suguri)
+<0041> "Fufufu, I can't wait."
+

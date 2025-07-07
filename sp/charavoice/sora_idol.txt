@@ -1,0 +1,116 @@
+
+<0000> Sí.
+<0001> Tres, dos, uno.
+<0003> ¡Ey!
+<0004> Creo que es una buena idea.
+<0005> Sí, hagámoslo.
+<0006> Sham, deberíamos usar esto.
+<0007> ¿Podemos usar esto?
+<0008> Ahh.
+<0009> ¿T-te parece bien?
+<0010> ¿Y qué tal esto?
+<0011> Siento que hicimos algo mal.
+<0013> ¡Sí!
+<0014> A tú lado, yo podré...
+<0015> ¡Puedo hacer esto!
+<0016> Miren aquí.
+<0017> Sham, ¿te encuentras bien?
+<0018> Gracias.
+<0019> No hay tiempo para perder el ánimo.
+<0020> ¡Haré lo mejor que pueda!
+<0023> Estoy segura... de que puedo seguir bailando.
+<0024> *Jadeo jadeo*
+<0025> ¡Tal como lo practicamos...!
+<0026> ¿A-así?
+<0028> ¡Sí, ya sé qué hacer!
+<0031> Ugh...
+<0032> Perdí el equilibrio...
+<0034> Aaaang.
+<0035> Sham, abre tu boca.
+<0036> Yo también puedo.
+<0037> Sham, sostén mi mano.
+<0038> ¿T-teletransportación?
+<0040> ¿Es esto una broma pesada?
+<0041> Sí...
+<0042> Sham, ¿te encuentras bien?
+<0043> Ahora sí que estamos en problemas...
+<0044> Auu...
+<0047> ¿Y qué tal... una competencia de canto conmigo?
+<0048> Hay que pelear de manera justa.
+<0051> U-um, dicen que las ídolos no pueden mostrarse agresivas...
+<0052> U-una competencia de baile no suena mal... Aunque no tengo mucha confianza.
+<0053> ¡Ahí!
+<0054> ¡Jah!
+<0055> ¡Yo soy!
+<0056> ¡Sham!
+<0059> ¡Pueh!
+<0060> ¡Puah!
+<0063> No puedo ensuciar mi vestido...
+<0064> Por favor no arruines mi cabello...
+<0067> Al ritmo de la música.
+<0068> Mi cuerpo se siente ligero.
+<0069> ¡Las chicas armas definitivas!
+<0070> ¡El brillo de una ídolo!
+<0071> Estoy empezando a divertirme.
+<0072> ¿A-acaso lo hicimos?
+<0075> Ahora si estoy acabada...
+<0076> Lo siento...
+<0079> Están brillando...
+<0080> Sham, decoraré tu cabello con una de estas.
+<0083> ¡Las estrellas se fueron...!
+<0084> Uuu... No puedo creer esto...
+<0085> ¡Sham, cuidado!
+<0086> ¿Huh? ¡Wah! ¡Wah!
+<0088> ¡Dicen que esto es algo que las ídolos tienen que evitar...!
+<0090> Sham, decirlo así suena tan genial...
+<0091> Algo acaba de salir.
+<0092> Sham, ¿las ídolos no escapan de los problemas, no es así?
+<0095> Trabajaremos muy duro para juntar muchas de ellas.
+<0096> ¿Crees que yo pueda brillar de esa manera?
+<0099> Ídolos de combate... ¿A lo mejor eso podría funcionar?
+<0100> ¿Será esto una parte de nuestra carrera como ídolos?
+<0101> Gracias...
+<0102> Mi corazón late fuerte.
+<0103> Sham, estoy nerviosa.
+<0104> Uu, pienso que no podré hacerlo muy bien.
+<0106> Awawa, no estoy lista.
+<0107> *Inhalo*... *Exhalo*...
+<0108> Trabajaré muy duro siendo una ídolo.
+<0111> *Jadeo jadeo* Muchísimas gracias.
+<0112> Creo que ya soy una ídolo.
+<0115> ¿Eh? ¿Quieres que firme eso?
+<0116> ¿Conseguiste algo bueno?
+<0117> Bien, lo tengo.
+<0118> Te dejaré esto a ti.
+<0119> Okay.
+<0120> Oh...
+<0121> Sí...
+<0123> Wawa...
+<0126> Vamos.
+<0127> ¿Qué conseguiremos...?
+<0128> Ve.
+<0131> Wow, eso es increíble.
+<0132> *Aplaudiendo*
+<0133> No lo entiendo...
+<0134> Eso creo. Hagámoslo.
+<0135> Será esto...
+<0136> No estoy muy familiarizada con esto.
+<0137> Mi corazón está latiendo muy fuerte.
+<0138> Bien, demostremos nuestras habilidades.
+<0141> Creo que puedo continuar. Puedo seguir adelante.
+<0142> No hay tiempo para descansar, no a la vista de nuestros fans.
+<0145> Puedo escuchar el aliento de nuestros fans.
+<0146> Seguiremos corriendo y entonces...
+<0147> Sí.
+<0148> Sí, estoy muy feliz acerca de esto.
+<0149> Muchas gracias a todos.
+<0150> Absolutamente, eso es lo que será.
+<0151> Sham, lo hicimos.
+<0152> Wow, es muy bonito.
+<0153> Sham... Quiero este.
+<0154> Creo que me gusta ese.
+<0155> También me siento relajada...
+<0156> ¿E-en serio?
+<0157> Sham, quiero que uses esto.
+<0158> Es perfecto.
+<0159> Pienso que se ve adorable.

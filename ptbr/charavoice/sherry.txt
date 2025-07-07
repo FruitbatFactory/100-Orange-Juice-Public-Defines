@@ -1,0 +1,161 @@
+
+<0000> Ey!
+<0001> Toh.
+<0002> Ali!
+<0003> Aqui está!
+<0004> Eu vou usar uma carta.
+<0005> E se eu jogar isto aqui?
+<0006> Desse jeito?
+<0007> É isto!
+<0008> Eu estou colocando esta aqui.
+<0009> Isto deve ser divertido.
+<0010> Eu estou colocando uma carta aqui.
+<0011> Me pergunto, quem será que vai pisar nisto?
+<0012> Aqui está minha carta especial.
+<0013> É agora ou nunca.
+<0014> Eu vou jogar esta carta aqui!
+<0015> Eu tenho algo bom.
+<0016> Certo, vamos começar!
+<0017> Consegui fazer ela voltar a funcionar.
+<0018> Certo, estamos de volta.
+<0019> Reparos completos.
+<0020> Okay, é hora de continuar!
+<0021> Falha ao reiniciar o motor.
+<0022> Não conseguimos nos mover ainda.
+<0023> Creio que teremos que esperar um pouco mais.
+<0024> Nós estaremos prontos em breve.
+<0025> Tome isto!
+<0026> Fogo!
+<0027> Eeey!
+<0028> Gostou dessa?
+<0029> Aie!
+<0030> Como você ousa!
+<0031> Isto dói.
+<0032> Isto veio de um ponto cego!
+<0033> Hora para reparos...
+<0034> Com isto... tudo está bem.
+<0035> Ah, salvou minha vida.
+<0036> Que alívio.
+<0037> Oh, nossa.
+<0038> Minha nossa.
+<0039> Para onde isto está me levando?
+<0040> Isto é tão emocionante!
+<0041> Nós fomos derrotadas.
+<0042> Oh não, ela está quebrada...
+<0043> Ela precisa de reparos.
+<0044> Nós não iremos conseguir voar por um tempo.
+<0045> Pode vir!
+<0046> Eu peço que você lute comigo.
+<0047> Aqui vou eu!
+<0048> Eu não pegarei leve!
+<0049> Então você quer lutar comigo?
+<0050> Deixe-me ver o que você consegue fazer.
+<0051> Se você quiser lutar, eu aceito.
+<0052> Não precisa ter vergonha, pode me desafiar.
+<0053> Prepare-se!
+<0054> Você consegue desviar disso!
+<0055> Ali!
+<0056> Te peguei!
+<0057> Bom trabalho.
+<0058> Ai!
+<0059> Eu fui atingida!?
+<0060> Eu fui atingida!
+<0061> Aiiii!
+<0062> Esta foi muito boa!
+<0063> Isto é ruim.
+<0064> Esta realmente doeu.
+<0065> Esta foi por pouco.
+<0066> Você não pode me acertar.
+<0067> Não é bom o bastante.
+<0068> Você ainda tem um longo caminho a seguir.
+<0069> Vitória!
+<0070> Derrotei um!
+<0071> Eu venci este aqui.
+<0072> Eu espero lutar com você de novo.
+<0073> Você me derrotou.
+<0074> Eu perdi.
+<0075> Você é bom.
+<0076> Eu desisto.
+<0077> Eu gosto disso.
+<0078> Bom progresso.
+<0079> Que ótimo!
+<0080> Eu vou continuar conseguindo mais e mais.
+<0081> Oh, é uma pena.
+<0082> Eu não gosto disso.
+<0083> Não é justo.
+<0084> Oh não.
+<0085> Oh, nossa.
+<0086> Alguém me acertou.
+<0087> Ah, isto é irritante.
+<0088> Quem colocou isto aqui?
+<0089> Que inimigo complicado. 
+<0090> Oh, que surpresa.
+<0091> Parece ser um problemão.
+<0092> Bom, o que eu devia fazer agora?
+<0093> Eu vou coletar estrelas.
+<0094> Eu prefiro ir pelas estrelas.
+<0095> Vamos coletar um monte.
+<0096> Esta é minha escolha.
+<0097> Fufu, creio que me sinto afim de fazer isto.
+<0098> Eu estou curtindo.
+<0099> Mas que feroz.
+<0100> Isto é o que costumo fazer.
+<0101> Eu? Claro.
+<0102> Então você quer ir comigo.
+<0103> Eu acredito em você.
+<0104> Vamos dar o nosso melhor.
+<0105> Vamos nos empolgar.
+<0106> Eu estou muito empolgada.
+<0107> Eu mal posso esperar para me divertir.
+<0108> Pode vir!
+<0109> Rapaz, isto foi divertido.
+<0110> Vitória fácil.
+<0111> Vamos buscar Islay e celebrar a minha vitória.
+<0112> Vamos ter outra rodada.
+<0113> Eu não fazia ideia que existia algo desse jeito.
+<0114> Oh, eu estou grata que consegui isto.
+<0115> Vamos adicionar isto para a coleção.
+<0116> Eu aceito.
+<0117> Vamos trocar.
+<0118> Certo, você cuida do resto.
+<0119> É seu turno!
+<0120> Vou deixar isso com você.
+<0121> Bom.
+<0122> Ótimo.
+<0123> Sim.
+<0124> Não.
+<0125> Isto é ruim.
+<0126> Ah, mas que sorte.
+<0127> O que é isto?
+<0128> Agora, vamos lá!
+<0129> Aqui vai!
+<0130> Vá, vá.
+<0131> Olá.
+<0132> Hmm...
+<0133> Ali, ali.
+<0134> Você me impressionou.
+<0135> Uh-oh.
+<0136> Parece uma carta divertida de se jogar!
+<0137> Bom saber que posso fazer isso.
+<0138> Não tenho certeza do que isso faz... mas, aqui vai!
+<0139> Permita-me usar isto aqui.
+<0140> Venha até mim, Marc!
+<0141> Fufu, eu estive esperando por este momento.
+<0142> Você ainda tem bastante para aperfeiçoar, sua ladrãozinha.
+<0143> Estas orelhas estão na moda é?
+<0144> Nada de pegar leve comigo, por favor.
+<0145> Você tem ideia do quão rude você está sendo agora?
+<0146> Se comporte, okay?
+<0147> Você é uma garota perigosa.
+<0148> Uau, que truque de mágica interessante.
+<0149> Só de olhar para ela... me faz querer ser que nem ela; me pergunto o por quê.
+<0150> Você é tão fraca quanto parece.
+<0151> Aqui não é mais tão seguro como costumava ser.
+<0152> Eu estou me empolgando!
+<0153> Nós vamos decidir quem é mais forte de uma vez por todas.
+<0154> É minha agora.
+<0155> Mirando.
+<0156> Eu vou te desafiar! Brincadeira.
+<0157> Que tipo de equipamento eu vou receber?
+<0158> Não é bom para você dormir aí.
+<0159> Talvez eu tenha feito demais.

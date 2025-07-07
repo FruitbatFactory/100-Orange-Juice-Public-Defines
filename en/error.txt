@@ -1,0 +1,8 @@
+< ERROR_CAPTION >
+Error
+
+< ERROR_SAVE_TOO_NEW >
+Your save file appears to be from a later version than your current copy of the game. Please update to the latest version to continue playing. The game will now close.
+
+[EOF]
+

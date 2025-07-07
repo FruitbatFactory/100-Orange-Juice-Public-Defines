@@ -1,0 +1,276 @@
+
+< COM_CONFIG_SYSTEM >
+System config.
+
+< COM_CONFIG_SCREEN >
+Screen settings.
+
+< COM_CONFIG_AUDIO >
+Audio settings.
+
+< COM_CONFIG_VOICE >
+Voice settings.
+
+< COM_CONFIG_MODS >
+Currently installed mods.
+
+< COM_NEWGAME_SELECTSLOT >
+Select a save slot.
+
+< COM_NEWGAME_SLOTCONFIRM >
+Are you sure you wish to use this slot?
+
+< COM_NEWGAME_ENTERNAME >
+Enter your player name.
+
+< COM_NEWGAME_SELECTCHARACTER >
+Select a character.
+
+< COM_NEWGAME_CHARACTERCONFIRM >
+Are you sure you wish to use this character?
+
+< COM_LOADGAME_SELECTSLOT >
+Select a save slot to load.
+
+< COM_LOADGAME_LOADCONFIRM >
+Are you sure you wish to load this save?
+
+< COM_SHOP_SELECTITEM >
+Select an item to buy.
+
+< COM_SHOP_BUYCONFIRM >
+Are you sure you wish to buy this item?
+
+< COM_SHOP_BUYEVENTCONFIRM >
+Unlock event progress for %s?
+
+< COM_SHOP_ITEMSOLDOUT >
+This item is sold out.
+
+< COM_SHOP_ITEMNOTINSTOCK >
+This item has yet to be stocked.
+
+< COM_SHOP_NOTENOUGHCURRENCY >
+You cannot afford this item.
+
+< COM_SHOP_REACHEDCURRENCYCAP >
+You won't be able to hold more of this currency.
+
+< COM_SHOP_NOSTEAMCONNECTION >
+This item requires Steam connection.
+
+< COM_SHOP_NOSTEAMCONNECTIONDLC >
+Can't verify DLC ownership without Steam connection.
+
+< COM_SHOP_ALREADYOWNDLC >
+You already own this DLC.
+
+< COM_SHOP_BONUSITEM >
+This item is gifted to all owners of %s on Steam.
+
+< COM_SHOP_CHARACTERITEM >
+This item belongs to a character you don't own.
+
+< COM_SHOP_LEVELTOOLOW >
+Your level isn't high enough to buy this item.
+
+< COM_SHOP_BOUGHTCARDPACK >
+You bought a card pack!
+
+< COM_SHOP_BOUGHTCARD >
+You bought a single card!
+
+< COM_SHOP_BOUGHTDISCOUNT >
+You bought a shop discount ticket!
+
+< COM_SHOP_BOUGHTCHARACTER >
+You bought a new playable character!
+
+< COM_SHOP_BOUGHTFIELD >
+You bought a new field!
+
+< COM_SHOP_BOUGHTCOLORS >
+You bought new unit colors!
+
+< COM_SHOP_BOUGHTHAIR >
+You bought a new unit hair!
+
+< COM_SHOP_BOUGHTACCESSORY >
+You bought a new accessory!
+
+< COM_SHOP_BOUGHTDICE >
+You bought new dice!
+
+< COM_SHOP_BOUGHTCANDY1 >
+You bought a candy!
+
+< COM_SHOP_BOUGHTCANDY10 >
+You bought 10 candy!
+
+< COM_SHOP_BOUGHTCRATE >
+You bought a crate!
+
+< COM_SHOP_BOUGHTPET >
+You bought a new pet!
+
+< COM_SHOP_BOUGHTHOMEMARK >
+You bought a new homemark!
+
+< COM_SHOP_BOUGHTGENERICITEM >
+You bought a new item!
+
+< COM_SHOP_BOUGHTEMOTE >
+You bought a new emote!
+
+< COM_SHOP_BOUGHTCOSTUME >
+You bought a new costume!
+
+< COM_SHOP_CONVERTCURRENCY >
+Converted currency!
+
+< COM_USERINFO_PLAYERINFO >
+View player information.
+
+< COM_USERINFO_GAMEINFO >
+View game information.
+
+< COM_USERINFO_BROWSECARDS >
+Browse your cards.
+
+< COM_USERINFO_CARDSINFO >
+Check your card collection info.
+
+< COM_USERINFO_AVATAR >
+Change your avatar looks.
+
+< COM_USERINFO_TAUNTS >
+Customize taunts per unit for use in-game.
+
+< COM_USERINFO_GALLERY >
+Enjoy various images, cutscenes, BGMs and voices.
+
+< COM_USERINFO_STATS >
+Check your stats with each character on online matches.
+
+< COM_CAMPAIGN_SELECTSCENARIO >
+Select scenario.
+
+< COM_CAMPAIGN_SELECTSTAGE >
+Select stage.
+
+< COM_CAMPAIGN_BREAKERPACKONLY >
+This campaign can only be played by Breaker Pack owners.
+
+< COM_CAMPAIGN_WITCHPACKONLY >
+This campaign can only be played by Witch Pack owners.
+
+< COM_CAMPAIGN_TOYSTOREPACKONLY >
+This campaign can only be played by Toy Store Pack owners.
+
+< COM_CAMPAIGN_OLDGUARDIANPACKONLY >
+This campaign can only be played by Old Guardian Pack owners.
+
+< COM_CAMPAIGN_WANDERERPACKONLY >
+This campaign can only be played by Wanderer Pack owners.
+
+< COM_CAMPAIGN_WARUDAPRISONBREAKPACKONLY >
+This campaign can only be played by Waruda Prison Break Pack owners.
+
+< COM_FREEBATTLE_CHOOSEGAMETYPE >
+Select a game mode.
+
+< COM_FIELDSELECT >
+Select a game field.
+
+< COM_RANDOMFIELD_MINIMUMREQUIRED >
+You need to set at least 3 available random levels.
+
+< COM_RANDOMFIELDEVENT_MINIMUMREQUIRED >
+You need to set at least 3 available random field events.
+
+< COM_DECK_PREPARE >
+Select a character / create a deck.
+
+< COM_DECK_NOTPREPARED >
+Not yet prepared.
+
+< COM_DECK_CARDLIMITREACHED >
+No more cards of this type can be used.
+
+< COM_DECK_DLCONLYCARD >
+This card is only usable by DLC owners.
+
+< COM_DECK_WAITING >
+Waiting for the other players to get ready...
+
+< COM_DECK_READY >
+Ready to play the game!
+
+< COM_GAME_PAUSED >
+Paused.
+
+< COM_GAME_QUITCONFIRM >
+Are you sure you want to quit the game?
+
+< COM_RESULT_STARSGAINED >
+The stars you gained from this game.
+
+< COM_CREATELOBBY_SETOPTIONS >
+Set lobby options.
+
+< COM_CREATELOBBY_CREATING >
+Creating Steam lobby...
+
+< COM_CREATELOBBY_FAILED >
+Could not create Steam lobby.
+
+< COM_CREATELOBBY_NAMEEMPTY >
+The Lobby Name field cannot be empty.
+
+< COM_LOBBYLIST_SELECTLOBBY >
+Select a lobby. Steam friends appear as green stars.
+
+< COM_LOBBYLIST_JOINLOBBY >
+Join the selected lobby or contact the lobby owner.
+
+< COM_LOBBYLIST_PASSWORDEMPTY >
+The Password field cannot be empty.
+
+< COM_LOBBYLIST_SEARCHEMPTY >
+The search field cannot be empty.
+
+< COM_LOBBYLIST_CONNECTFAILED >
+Could not connect to the lobby.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOSELECT >
+Can't select lobby - lobby data not retrieved.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOCONTACT >
+Can't contact lobby owner - lobby data not retrieved.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOJOIN >
+Can't join lobby - lobby data not retrieved.
+
+< COM_LOBBY_WAITINGFORPARTICIPANTS >
+Waiting for other participants...
+
+< COM_LOBBY_WAITINGFORPLAYERS >
+Waiting for other players...
+
+< COM_LOBBY_PLAYERSNOTREADY >
+Can't start the game until everyone is ready.
+
+< COM_LOBBY_KICKREADYPLAYER >
+Can't kick a player who's ready.
+
+< COM_LOBBY_KICKNOTREADY >
+Can't kick that player yet.
+
+< COM_LOBBY_MIDGAME_JOINED >
+Joined game! You can enter at the start of next chapter.
+
+< COM_LOBBY_SPECTATOR_WAITINGDECKS >
+Game started! Waiting for players to finish their decks...
+
+[EOF]
+

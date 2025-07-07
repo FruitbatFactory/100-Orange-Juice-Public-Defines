@@ -1,0 +1,131 @@
+
+// ========= Scene: Stage 1 =========
+
+// (alicianrone)
+<0000> "...Então, como exatamente se joga esse jogo?"
+
+// (suguri)
+<0001> "Bom, a maneira mais rápida de se aprender é jogando."
+
+// (teotoratta)
+<0002> "Vamos jogar! Vamos jogar! E onde estão meus doces?"
+
+// (puyopuyomascot)
+<0003> "Espere só um momento, Teo. Nossa, você realmente fica impaciente quando está com fome."
+
+// (puyopuyomascot)
+<0004> "Nós não temos muito pudim sobrando, então a gente precisa de algo diferente..."
+
+// (suguri)
+<0005> "Haha, hoje foi como uma festa."
+
+// (suguri)
+<0006> "Já que tem quatro de nós aqui, a gente devia relaxar e curtir o jogo."
+
+// (alicianrone)
+<0007> "Definitivamente! Eu vou conseguir para mim uma vitória brilhante, não importa que tipo de jogo."
+
+// (teotoratta)
+<0008> "Até parece! Eu vou ser a vencedora! Prepare-se para perder, Rone!"
+
+// (puyopuyomascot)
+<0009> "Aqui, chá e doces. Aproveitem ao máximo."
+
+// (teotoratta)
+<0010> "Possui um cheiro bom! E que comece a degustação!"
+
+// (alicianrone)
+<0011> "Ei, Teo! Cadê os seus modos?"
+
+// (teotoratta)
+<0012> "*Mastiga mastiga* Agora, Vamus jugar u jugu."
+
+// (alicianrone)
+<0013> "Não fale com sua boca cheia..."
+
+// (suguri)
+<0014> "Fufu."
+
+// (alicianrone)
+<0015> "Do que você está rindo, Bruxa da Floresta?"
+
+// (suguri)
+<0016> "Bem, da forma como vocês duas são amigáveis uma com a outra, eu acabo rindo."
+
+// (alicianrone)
+<0017> "O quê? Nós somos?"
+
+// (teotoratta)
+<0018> "Nús Sumus?"
+
+// (suguri)
+<0019> "Ahahaha."
+
+// (puyopuyomascot)
+<0020> "Uou, é incomum ver você rir desse jeito, Suguri."
+
+// (suguri)
+<0021> "Eu estou me divertindo demais."
+
+// (suguri)
+<0022> "Certo então, vamos jogar o jogo agora."
+
+// ========= Scene: Ending =========
+
+// (alicianrone)
+<0023> "...Nossa, não acredito no quanto fiquem empolgada enquanto jogava."
+
+// (teotoratta)
+<0024> "Os doces estavam bons, e o jogo foi muito divertido!"
+
+// (puyopuyomascot)
+<0025> "Fico feliz em ouvir isso."
+
+// (suguri)
+<0026> "Me diverti muito, também."
+
+// (alicianrone)
+<0027> "Certo então, obrigada pelo dia de hoje. Eu acho que vou indo nes-. Espera um pouco."
+
+// (alicianrone)
+<0028> "Já está escuro lá fora! Por quanto tempo a gente jogou?"
+
+// (teotoratta)
+<0029> "O quê? Sério?"
+
+// (teotoratta)
+<0030> "...Eita! Você tem razão!"
+
+// (suguri)
+<0031> "Vamos fazer o seguinte, já que está tão tarde, por que vocês não passam a noite aqui?"
+
+// (alicianrone)
+<0032> "Nós não queremos te incomodar desse jeito."
+
+// (suguri)
+<0033> "Não tem problema nenhum. Hoje foi tão divertido, que eu não quero que acabe."
+
+// (teotoratta)
+<0034> "Woof?"
+
+// (puyopuyomascot)
+<0035> "Você só quer que elas fiquem pois você ficaria triste de ver elas indo embora, não é, Suguri."
+
+// (suguri)
+<0036> "...Bom, você pode falar que sim."
+
+// (alicianrone)
+<0037> "Entendi. Que fofo de sua parte, Bruxa da Floresta."
+
+// (alicianrone)
+<0038> "Bom, se é esse o caso, eu vou aceitar sua oferta gentil."
+
+// (teotoratta)
+<0039> "Certo! Agora a gente pode jogar o quanto quiser! Bow wow!"
+
+// (puyopuyomascot)
+<0040> "Já que é o caso, a mascote aqui irá conzinhar algo com os vegetais selvagens que elas nos deram."
+
+// (suguri)
+<0041> "Fufufu, mal posso esperar."
+

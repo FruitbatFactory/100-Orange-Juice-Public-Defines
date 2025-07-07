@@ -1,0 +1,162 @@
+<0000> Here's a dice roll.
+<0001> Sorah.
+<0002> There.
+<0003> Eiyah.
+<0004> Lulu will play this.
+<0005> Ehehe, can Lulu use this?
+<0006> Lulu will dare to play this!
+<0007> Ehehe, Lulu's starting to enjoy this!
+<0008> Lulu knows little about these things... Like this?
+<0009> Hohee, so this is a trap!
+<0010> What happens when you step on it?
+<0011> Lulu's set a trap here ♥
+<0012> Lulu's going to play a card to fight well!
+<0013> Lulu doesn't like losing!
+<0014> If Lulu has to fight, she'll use this!
+<0015> Lulu will show you her best!
+<0016> Aah... Uu... An egg's... coming out...!
+<0017> *sigh* That was so close. Lulu saw a glimpse of the afterlife.
+<0018> Lulu's back up. She's still got a chance to win the game!
+<0019> Lulu had a tad too long of a break... She'll catch up on lost time!
+<0020> Auau, Lulu's finally good to go.
+<0021> Oh no, come on...
+<0022> Lulu's having a bad day.
+<0023> Lulu is going to rest a little longer.
+<0024> Lulu still can't stand back up... Uu...
+<0025> Lulu's going to attack!
+<0026> Here Lulu comes!
+<0027> Lulu will get you!
+<0028> Lulu is going to finish you!
+<0029> That hurts...
+<0030> Oho!
+<0031> That worked really well...!
+<0032> Quit it!
+<0033> Ehehe, Lulu's into this.
+<0034> Oh, Lulu's feeling very relaxed.
+<0035> Fuee, this makes Lulu feel alive again.
+<0036> That's nice and warm.
+<0037> Oh no, oh no, oh no, oh no.
+<0038> Lulu's head's spinning...
+<0039> Where's Lulu going?
+<0040> Warp time!
+<0041> Lulu can't move...
+<0042> This is horrible. It's abuse!
+<0043> *sob* You're so cruel.
+<0044> Why would you do that to Lulu...!
+<0045> It's a bad thing to get in Lulu's way!
+<0046> Lulu will kick your butt!
+<0047> Lulu's gonna get you!
+<0048> Yay, let's play together!
+<0049> Oh, you up for a fight? Challenge accepted.
+<0050> Oh? Hold on a sec!
+<0051> Awawa, what do you want from Lulu?!
+<0052> You look scary! Get away from Lulu!
+<0053> Orah!
+<0054> Atah!
+<0055> Howah!
+<0056> Oryaryah!
+<0057> Howah!?
+<0058> Hey!
+<0059> Hold on!
+<0060> Ah!
+<0061> That hurts! You animal!
+<0062> Nooo!
+<0063> Stop iiit!
+<0064> How could you do that? Unbelievable!
+<0065> Awah!
+<0066> Watch it, gee!
+<0067> Whoa, that was scary!
+<0068> Nooo!
+<0069> Phew, Lulu managed somehow.
+<0070> That was such a close call.
+<0071> Lulu worked up a good sweat.
+<0072> It worked out somehow.
+<0073> This is terrible.
+<0074> How come this happened to Lulu...
+<0075> What did Lulu do to deserve this...
+<0076> *sob sob*... *sniffle*...
+<0077> Look, it's stars.
+<0078> Lulu could use some stars.
+<0079> Lulu will get more of these.
+<0080> Lulu will gather these until she can't hold more!
+<0081> Nooo! Staaars!
+<0082> Lulu can't stand this!
+<0083> No, don't take them away...! Don't do that!
+<0084> Lulu can't believe this... She just lost so many stars...
+<0085> Gyaaah!
+<0086> Who the heck set the trap here?!
+<0087> Gyan! Why did Lulu end up like this!
+<0088> Mukyaaah!
+<0089> Oh no... That thing's scary...
+<0090> Lu-Lulu wants to go home now...
+<0091> Somebody help me... Lulu's scared...
+<0092> *shiver shiver shiver shiver*
+<0093> Lulu wants to see so many stars.
+<0094> Alright, Lulu's gonna get a lot of these real quick.
+<0095> Lulu got this! She'll be right back with so many of them!
+<0096> Lulu wants some stars.
+<0097> Lulu's ready to show what she's really made of!
+<0098> Lulu can fight too.
+<0099> Not too confident, but Lulu will try.
+<0100> Uuu, Lulu's worried if she can fight well...
+<0101> Lulu here! Hi!
+<0102> Oh, you want to play with Lulu?
+<0103> Sure, let's go have some fun out there.
+<0104> Yay, thanks for choosing Lulu.
+<0105> Alright, let's do this!
+<0106> We're gonna have plenty of fun, okay?
+<0107> Lulu hopes she'll win the game...
+<0108> Lulu can get things done when she needs to...!
+<0109> Lulu won the game...? She did it!
+<0110> Lulu finished in first place!? Yay! Hooray!
+<0111> Lulu's so super happy...!
+<0112> Oh no, Lulu won the game! She's so stoked!
+<0113> Hey, this is for you. You like it?
+<0114> Not sure if that'll be helpful...
+<0115> Found something useful!
+<0116> Item get!
+<0117> Lulu would like a switch.
+<0118> Lulu believes in you!
+<0119> Take it from here, will you?
+<0120> Change, please!
+<0121> Aye.
+<0122> Good.
+<0123> Nice.
+<0124> No!
+<0125> Auu.
+<0126> Lucky you.
+<0127> Hmm?
+<0128> Let's do this!
+<0129> Dice!
+<0130> Lulu's rooting for you!
+<0131> Yo!
+<0132> Mhmm.
+<0133> That's super!
+<0134> Incredible! Lulu's surprised.
+<0135> Fuee... That sucks.
+<0136> We'll play this? What's gonna happen?
+<0137> Lulu's curious about what this does!
+<0138> Lulu wants to try using this.
+<0139> Awah, does this card do something amazing?
+<0140> Fuah, she looks scary.
+<0141> Wh-what do you want from Lulu...!
+<0142> Oh? She was weaker than Lulu thought.
+<0143> No, don't bully Lulu...!
+<0144> What a cute pet you've got there!
+<0145> Ehehe, mind if Lulu pets your pet a bit?
+<0146> Lulu will switch with Ellie.
+<0147> Ellie, you got this!
+<0148> Lulu's sure Ellie can turn the tables for us.
+<0149> Ellie can take care of this situation better than Lulu!
+<0150> Ohoo, so many stars!
+<0151> Stars came out of the egg!
+<0152> Nihehe, these stars are all Lulu's.
+<0153> Lucky Stars!
+<0154> Wow, so many cards. Which ones should Lulu pick...?
+<0155> Plenty of options! Which ones does Lulu want to play...?
+<0156> Awah, that's way many cards for Lulu to hold!
+<0157> It's a Lucky Card Pack!
+<0158> A very good lunch. Lulu's happy.
+<0159> *munch munch* This is amazing. Lulu's got a bunch of energy now!
+<0160> The lunch's blown off Lulu's fatigue!
+<0161> Lucky Lunch!

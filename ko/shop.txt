@@ -1,0 +1,296 @@
+
+< SHOP_LABEL_HOME >
+홈
+
+< SHOP_LABEL_CARDS >
+카드
+
+< SHOP_LABEL_CHARACTERS >
+캐릭터
+
+< SHOP_LABEL_CHALLENGES >
+챌린지
+
+< SHOP_LABEL_FIELDS >
+필드
+
+< SHOP_LABEL_MISC >
+기타
+
+< SHOP_LABEL_EMOTES >
+이모티콘
+
+< SHOP_LABEL_DLC >
+DLC
+
+< SHOP_LABEL_PETS >
+펫
+
+< SHOP_LABEL_ARCADE >
+아케이드
+
+< SHOP_LABEL_ALL >
+전부
+
+< SHOP_LABEL_HALLOWEEN >
+할로윈
+
+< SHOP_LABEL_CHRISTMAS >
+크리스마스
+
+< SHOP_LABEL_PIGFORMATION >
+돼지화
+
+< SHOP_LABEL_COWKIGU >
+소 인형옷
+
+< SHOP_LABEL_TIGERKIGU >
+호랑이 인형옷
+
+< SHOP_LABEL_RETIREDEVENTS >
+퇴역 이벤트
+
+< SHOP_LABEL_PLAYERPLATES >
+플레이어 이름판
+
+< SHOP_LEVEL >
+레벨
+
+< SHOP_OFFLINE >
+스팀 연결 없음
+
+< SHOP_DLC_SYURANANAKO >
+슈라 & 나나코
+
+< SHOP_DLC_SAKIKYOUSUKE >
+사키 & 쿄스케
+
+< SHOP_DLC_MIXED >
+믹스드 팩
+
+< SHOP_DLC_KRILAKAE >
+크릴라 & 카에
+
+< SHOP_DLC_ALTEKYOKO >
+알테 & 쿄코
+
+< SHOP_DLC_SHAMSHERRY >
+샴 & 셰리
+
+< SHOP_DLC_BREAKERPACK >
+브레이커 팩
+
+< SHOP_DLC_ACCELERATIONPACK >
+액셀러레이션 팩
+
+< SHOP_DLC_NATHTOMATOMIMYUU >
+나트 & 토마토 + 미뮤우
+
+< SHOP_DLC_SUGURIHIMEWINTER >
+스구리 & 히메 동복
+
+< SHOP_DLC_KIRIKONONAME >
+키리코 & NoName
+
+< SHOP_DLC_STARTERVOICEPACK >
+스타터 보이스 팩
+
+< SHOP_DLC_CEOREPARQUEMIUSAKI >
+윗치 팩
+
+< SHOP_DLC_COREVOICEPACK1 >
+코어 보이스 팩 1
+
+< SHOP_DLC_YUKITOMOMORENEWAL >
+유키 & 토모모 리뉴얼 팩
+
+< SHOP_DLC_COREVOICEPACK2 >
+코어 보이스 팩 2
+
+< SHOP_DLC_TSIHTEQUILA >
+츠이 & 테킬라
+
+< SHOP_DLC_MEINATSUMI >
+메이 & 나츠미
+
+< SHOP_DLC_NICOARTHUR >
+장난감 가게 팩
+
+< SHOP_DLC_IRUMIRA >
+이루 & 미라
+
+< SHOP_DLC_CUTIES >
+귀염둥이(아이돌)들
+
+< SHOP_DLC_ULTIMATEWEAPONGIRL >
+Ultimate Weapon Girl
+
+< SHOP_DLC_YUUKIISLAY >
+유우키 & 아일레이
+
+< SHOP_DLC_PUDDINGPACK >
+푸딩 팩
+
+< SHOP_DLC_SUGURI46SUMIKA >
+옛 수호신 팩
+
+< SHOP_DLC_ELLIELULU >
+방랑자 팩
+
+< SHOP_DLC_RONETEO >
+앨리시안로네 & 테오토라타
+
+< SHOP_DLC_ARNELLEMAYNIE >
+아넬 & 메이니
+
+< SHOP_DLC_CHRISKYUPITA >
+크리스 & 큐피타
+
+< SHOP_DLC_HALENACOOK >
+할레나 & 쿡
+
+< SHOP_DLC_RIDERMERCHANT >
+레일웨이 러너 팩
+
+< SHOP_DLC_HIMEFERNETRENEWAL >
+공주 팩
+
+< SHOP_DLC_MALTMESCAL >
+몰트 & 메스칼
+
+< SHOP_DLC_SHIFUREIKA >
+시후 & 레이카
+
+< SHOP_DLC_PUDDINGPOP >
+푸딩 팝
+
+< SHOP_DLC_WATTYPOMERANIUS >
+와티 & 포메라니우스
+
+< SHOP_DLC_SWEETGODS >
+스위트 신
+
+< SHOP_DLC_KRILAMIMYUURENEWAL >
+와루다 탈옥 팩
+
+< SHOP_DLC_ALTEREGOPACK >
+얼터 에고 팩
+
+< SHOP_DLC_STARBAKERBREAKER >
+스타 베이커 브레이커
+
+< SHOP_DLC_NEWELLIEKAI >
+주인공 팩
+
+< SHOP_DLC_OLDGUARDPACK >
+버번 & 그레인
+
+< SHOP_DLC_POYOCHUU >
+포요 & 츄
+
+< SHOP_DLC_HARUKANA >
+하루카 & 카나타
+
+< SHOP_ERROR_INVENTORY_PURCHASE >
+구매할 수 없었습니다. 나중에 다시 시도해주세요.
+
+< SHOP_TOOLTIP_HOME >
+카테고리 아이콘으로 아이템을 찾습니다.
+
+< SHOP_TOOLTIP_CARDS >
+해금한 카드 팩과 새 유닛을 삽니다.
+
+< SHOP_TOOLTIP_CHARACTERS >
+캐릭터 별로 정렬된 치장품들을 구매합니다.
+
+< SHOP_TOOLTIP_CHALLENGES >
+오렌지를 소모해 챌린지 한정 상자와 머리 색을 구매합니다.
+
+< SHOP_TOOLTIP_FIELDS >
+새 필드를 해금합니다.
+
+< SHOP_TOOLTIP_HALLOWEEN >
+할로윈 이벤트 장식을 해금합니다.
+
+< SHOP_TOOLTIP_CHRISTMAS >
+크리스마스 이벤트 장식을 해금합니다.
+
+< SHOP_TOOLTIP_MISC >
+멀티플레이어 보너스와 기타 아이템을 해금합니다.
+
+< SHOP_TOOLTIP_DLC >
+실제 화폐로 새 DLC를 구매합니다.
+
+< SHOP_TOOLTIP_PLAYERPLATES >
+온라인 플레이어 이름판에 쓰이는 새 배경, 테두리 등을 구매합니다!
+
+< SHOP_TOOLTIP_EMOTES >
+채팅에서 쓸 수 있는 새 이모티콘을 구매합니다.
+
+< SHOP_TOOLTIP_PETS >
+펫을 구매합니다.
+
+< SHOP_TOOLTIP_ARCADE >
+아케이드 토큰을 소모해 멋진 경품을 획득합니다!
+
+< SHOP_TOOLTIP_PIGFORMATION >
+"돼지화 주의" 이벤트 액세서리를 해금합니다.
+
+< SHOP_TOOLTIP_COWKIGU >
+소 인형옷 코스튬을 해금합니다.
+
+< SHOP_TOOLTIP_TIGERKIGU >
+호랑이 인형옷 코스튬을 해금합니다.
+
+< SHOP_TOOLTIP_RETIREDEVENTS >
+퇴역한 이벤트 보상을 구매합니다.
+
+< SHOP_TOOLTIP_ALL >
+모든 상품을 표시합니다.
+
+< SHOP_CRATE_CONTENTS >
+~구성품~
+
+< SHOP_CRATE_LOOT_NONE >
+없음:
+
+< SHOP_CRATE_LOOT_STARS >
+스타:
+
+< SHOP_CRATE_LOOT_HALLOWEEN >
+할로윈 액세서리:
+
+< SHOP_CRATE_LOOT_CHRISTMAS >
+크리스마스 복장:
+
+< SHOP_CRATE_LOOT_SUNGLASSES >
+여름 선글라스:
+
+< SHOP_CRATE_LOOT_RADPOPPO >
+간지 폿포:
+
+< SHOP_CRATE_LOOT_HOMEMARK >
+홈 마커:
+
+< SHOP_CRATE_LOOT_POSE >
+포즈:
+
+< SHOP_CRATE_LOOT_HAIR >
+머리:
+
+< SHOP_CRATE_LOOT_DICE >
+다이스:
+
+< SHOP_CRATE_LOOT_ORANGES >
+오렌지:
+
+< SHOP_CRATE_LOOT_CHARACTER >
+캐릭터:
+
+< SHOP_CRATE_LOOT_MYSTERY >
+???
+
+< SHOP_FILTER_OWNED >
+보유 아이템 숨기기
+
+[EOF]

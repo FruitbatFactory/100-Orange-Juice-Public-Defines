@@ -1,0 +1,160 @@
+<0000> Hoy.
+<0001> Repa vai jogar isto.
+<0002> Aqui Repa vai.
+<0003> Whoosh!
+<0004> Contemple o plano brilhante de Repa.
+<0005> Repa possui uma ideia incrível.
+<0006> E se Repa fizer isto?
+<0007> Fufufu.
+<0008> Repa joga uma carta no chão!
+<0009> Isto vai aqui.
+<0010> Repa sente vontade de fazer isso.
+<0011> Aqui vai uma armadilha.
+<0012> Repa sente que isso vai aumentar seu PF.
+<0013> Isso vai levar Repa para a vitória.
+<0014> Repa é o tipo de garota que usa esse tipo de coisa.
+<0015> Você deve olhar para Repa com medo em seus olhos.
+<0016> Repa é capaz de controlar seu próprio cabelo.
+<0017> Repa pode fazer muito mais.
+<0018> Certo, Repa vai tentar ainda mais.
+<0019> Para cima Repa vai.
+<0020> A pausa acabou agora.
+<0021> Repa vai descansar um pouco mais...
+<0022> Repa não aguenta ficar parada.
+<0023> Uuu.
+<0024> Repa odeia isso.
+<0025> Hoatah!
+<0026> Achooh!
+<0027> Pronto, pronto.
+<0028> Orah!
+<0029> Isso dói.
+<0030> Pare com isso.
+<0031> Isso é tão cruel.
+<0032> Repa vai chorar.
+<0033> A dor foi embora.
+<0034> Repa se sente melhor agora.
+<0035> Hoooh, Repa se sente assustada.
+<0036> Ohoooh...
+<0037> Para onde você está levando a Repa?
+<0038> Nuaaah.
+<0039> Nooooo.
+<0040> Repa está girando e girando.
+<0041> Isso foi muito ruim.
+<0042> Repa não consegue mais ficar de pé.
+<0043> Uuuu... Repa está chorando.
+<0044> Repa está de saco cheio disso.
+<0045> Repa percebe que você abaixou a guarda.
+<0046> Ninguém imaginaria uma fofura como a Repa atacando outras pessoas.
+<0047> Você luta com a Repa agora.
+<0048> Você está preparada?
+<0049> Hieh! Você é um monstro...
+<0050> Desafio aceito.
+<0051> Repa não aceita violência.
+<0052> Você vai dar um soco na Repa?! Uma garota fofa como a Repa?!
+<0053> Caia morto.
+<0054> Seu imbecil.
+<0055> Oryah!
+<0056> Repa vai te esmagar!
+<0057> Kyaah.
+<0058> Ugh.
+<0059> Desista!
+<0060> Nossa!
+<0061> Isso dói demais, maaaano!
+<0062> Kyaaah.
+<0063> Repa vai... morrer...
+<0064> Hiiiii.
+<0065> Foi por pouco.
+<0066> *Desvia*.
+<0067> Você é incrívelmente previsível.
+<0068> Isso foi um desvio fácil.
+<0069> Não diga a Repa que você achou que poderia derrotá-la.
+<0070> Esse foi um bom exercício.
+<0071> *Suspira*. Repa é incrívelmente forte...
+<0072> Fufufu, isso foi previsível.
+<0073> Re-Repa vai se vingar de você...
+<0074> Imperdoável...
+<0075> Isso é muito ruim... Repa vai chorar...
+<0076> Repa está cansada disso. Ela quer voltar para casa.
+<0077> Ebaaa!
+<0078> Ohoh!
+<0079> Isso é bom.
+<0080> Repa conseguiu algo bom.
+<0081> Espera um momento.
+<0082> Nããããão deixeeeee Reee-paaa!
+<0083> Aaaah.
+<0084> Repa está triste...
+<0085> Nuah! isso é injusto!
+<0086> Uma armadilha!?
+<0087> Repa cometeu um erro grave.
+<0088> Nyaah!
+<0089> Existe algo perigoso perto de mim.
+<0090> Repa está sentindo vibes assustadoras...
+<0091> Existe um chefão!
+<0092> Lá vem problema.
+<0093> Coletando estrelas? Do céu?
+<0094> Repa vai coletar um monte.
+<0095> Repa vai nadar em um mar de estrelas.
+<0096> Repa está a fim de estrelas.
+<0097> Repa está completamente empolgada.
+<0098> Pois o cabelo de Repa é forte.
+<0099> Repa vai enlouquecer.
+<0100> Repa acredita que ela precisa de exercício.
+<0101> Ceoreparque... Mas pode chamar a Repa de Repa.
+<0102> Você vai escolher Repa?
+<0103> Vamos jogar um bom jogo.
+<0104> Gostaria de fazer amizade com a Repa?
+<0105> Repa acredita em si mesma.
+<0106> O jogo começa!
+<0107> Vamos todos nos divertir.
+<0108> Repa ganhará este jogo, custe o que custar.
+<0109> Repa ganhou...? Ótimo!
+<0110> Fufufu, essa vitória fará do lanche pós jogo de Repa ainda mais saboroso.
+<0111> Repa é a número um?
+<0112> É assim que é feito...!
+<0113> Dê uma olhada no que a gente acabou de conseguir!
+<0114> Repa está empolgada.
+<0115> O que é isto? Repa está curiosa.
+<0116> Aqui está o presente de Repa. Cuide bem dele.
+<0117> Está na hora de trocar.
+<0118> Você poderia tomar meu lugar um pouco?
+<0119> Você consegue.
+<0120> Repa acredita em você.
+<0121> Sim.
+<0122> Bom trabalho.
+<0123> Repa entende.
+<0124> Não.
+<0125> Uma pena...
+<0126> Repa conseguiu! Muito sortuda!
+<0127> O quê...
+<0128> Aqui Repa vai.
+<0129> Lá vem uma rolagem de dado.
+<0130> Você consegue.
+<0131> Olá~.
+<0132> Repa está perplexa...
+<0133> Isso é muito bom.
+<0134> Isso é excelente.
+<0135> Awww...!
+<0136> Repa desconhece este poder.
+<0137> Isto não é familiar... mas Repa irá usar de qualquer forma.
+<0138> Repa não tem certeza do que isso faz, também.
+<0139> Lá vai!
+<0140> Rone, é melhor você se preparar.
+<0141> Tá bom, Rone. Repa vai lutar com você.
+<0142> Fufufu, Repa está feliz porque derrotou a Rone.
+<0143> Boo... Rone, sua idiota...
+<0144> Sua aparência... Repa sente-se familiarizada com isso.
+<0145> Você acredita que isso é nosso destino...? Mas que coincidência. Repa sente o mesmo.
+<0146> Fufu, Repa está melhor e mais forte, pelo visto.
+<0147> Ugh, essa derrota da Repa também é o destino dela?
+<0148> Minha nossa, Repa emaranhou seu próprio cabelo.
+<0149> *Mastiga mastiga*... Repa está tão feliz...
+<0150> *Suspira*... Se ao menos tivesse um chá também.
+<0151> Repa ama doces.
+<0152> Mhmm, nada é melhor que isso.
+<0153> Seu rosto é assustador...! Não chegue perto de Repa!
+<0154> Uma garota jovem...? Você parece linda!
+<0155> Olha só esse cabelo liso e sedoso... Fabuloso!
+<0156> Esta foi uma luta charmosa.
+<0157> Não apenas uma dama, mas forte também...!
+<0158> Essa música... Repa sente muito poder emanando dela...!
+<0159> Eita, Repa não consegue segurar tantas assim.

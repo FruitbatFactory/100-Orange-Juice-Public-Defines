@@ -1,0 +1,167 @@
+<0117> ¿Podrías encargarte de este lío?
+<0118> *Bostezo*, con permiso.
+<0119> Confío en que podrás hacerlo bien.
+<0120> Esto no debería ser un problema para ti, ¿o sí?
+
+<0145> Una inversión inteligente siempre rendirá frutos.
+<0146> Todos están cordialmente invitados a mi debút. ¡Sean agradecidos!
+<0147> Vaya, pero si no es nada más que mi derecha.
+<0148> ¿No es esa espada demasiado pesada para llevar contigo?
+
+<0000> Así es como se hace.
+<0001> Este es el camino.
+<0002> ¡Hmph!
+<0003> Es la hora de jugar con las probabilidades.
+<0004> Yo siempre lo hago de esta forma.
+<0005> Esta es una buena oportunidad.
+<0006> Este es el juego.
+<0007> ¿Cómo ves esto?
+<0008> Si lo deseas, puedes llamarme deshonesta.
+<0009> Una pequeña travesura no estará demás.
+<0010> O-jojo~, ver esto será divertido.
+<0011> Nadie parece estar mirando... ¡Ya!
+<0012> He escogido esta carta.
+<0013> Espero que esta no sea una gran sorpresa para ti.
+<0014> Espero que te hayas preparado para esto.
+<0015> Haré que la suerte se encuentre de mi lado.
+<0016> ¿Acaso no sabes con quién estás hablando?
+<0017> Cielo santo...
+<0018> Esto fue una gran pérdida de tiempo.
+<0019> Todo lo bueno les llegará a aquellos que son pacientes.
+<0020> Haremos unos reajustes y seguiremos adelante.
+<0021> Paciencia... ten paciencia...
+<0022> ¡Ahh, pero qué molestia!
+<0023> ¿¡A qué se debe!?
+<0024> ¡Mi tiempo no puede ser malgastado en esto!
+<0025> Deduzco que esto te pertenece a ti.
+<0026> Espero que no te moleste.
+<0027> ¡En guardia!
+<0028> Esto no es nada personal.
+<0029> Ouch...
+<0030> ¡¿Y por qué has hecho eso?!
+<0031> ¡Eso arde!
+<0032> Ow...
+<0033> Qué placentero.
+<0034> Bien hecho. Te doy las gracias.
+<0035> Excelente servicio.
+<0036> Faaa... qué bien...
+<0037> Al cerrar mis ojos, esto no tendrá efecto sobre mí...
+<0038> ¡Concentración, necesito concentración...!
+<0039> Brújula, necesito mi brújula... muy bien, aquí está.
+<0040> Hmph, ¿un pequeño cambio de posición? ¡No será problema!
+<0041> ¡Vaya! ¡Vaya, vaya, vaya!
+<0042> ¡Yo! ¡No! ¡Lo aprobaré!
+<0043> Ahh, hoy no parece ser mi día...
+<0044> ¡Cielos! Nada parece estar funcionando el día de hoy...
+<0045> Espero que te hayas preparado.
+<0046> ¿Te importaría permanecer fuera de mi camino?
+<0047> La puerta se encuentra de ese lado.
+<0048> Tengo unas pocas palabras que decirte.
+<0049> No estoy de humor para esto.
+<0050> Qué acción tan tosca.
+<0051> Un movimiento muy audaz, sin dudas.
+<0052> ¿Acaso has concertado una cita con mi mayordomo?
+<0053> Oh vaya, oh vaya.
+<0054> Disculpa.
+<0055> Hum di dum~
+<0056> ¡Ahí!
+<0057> Huy.
+<0058> Ay.
+<0059> Eso no es muy amable de tu parte.
+<0060> ¡Oh vaya!
+<0061> Ow-ow-ow...
+<0062> ¡Ay, eso duele!
+<0063> ¡Si serás...!
+<0064> ¡Gueh!
+<0065> ¡Podré hacerlo cuando necesite hacerlo!
+<0066> ¿De qué se podrá haber tratado todo eso?
+<0067> Difícilmente será un problema.
+<0068> Esto no es nada más que un pequeño ejercicio.
+<0069> ¿Por qué no te quedas en el suelo por un rato?
+<0070> Tú te lo estabas buscando.
+<0071> ¡O-jo-jo! ¿Acaso eso fue todo?
+<0072> Vaya, vaya, eso ha sido demasiado fácil.
+<0073> ¡Juro que no lo olvidaré!
+<0074> ¡Te devolveré el favor, me aseguraré de hacerlo!
+<0075> No sabes... qué te espera...
+<0076> Maldecirás el día en el que tu mente pensó en hacer esto...
+<0077> Qué bien.
+<0078> Un regalo cortés.
+<0079> Le daré un uso a todo esto.
+<0080> Puedo ver que hoy será un gran día.
+<0081> Oh... bueno, yo me encargaré.
+<0082> Esta sí que es una pequeña inconveniencia.
+<0083> Qué desafortunada...
+<0084> Tendré que intercambiar unas pocas palabras con el recaudador de impuestos...
+<0085> ¡Ahh, pero qué torpeza!
+<0086> ¡No de esta manera!
+<0087> ¿Ueh?
+<0088> Una vez más, he caído en ella...
+<0089> Oh vaya. ¿Acaso debo suponer que se trata de un oponente muy duro?
+<0090> Vaya, vaya... ¿Qué es lo que haré?
+<0091> Esto podría ser un poco desafiante...
+<0092> Hmph. Tu presencia no me aterra.
+<0093> Coleccionar estas estrellas no debería ser un problema.
+<0094> Parece que la línea de acción más fácil será la siguiente.
+<0095> Al fin y al cabo, es la acción más razonable.
+<0096> Este será el camino hacia mi futura victoria.
+<0097> Uno de nosotros tendrá que ensuciarse las manos.
+<0098> Cuando la necesidad aprieta el diablo guía.
+<0099> Una pequeña payasada no estará demás.
+<0100> No tienes por qué preocuparte, sé cómo funciona este mundo.
+<0101> Estoy aquí para ser victoriosa. ¡No aceptaré defraudaciones!
+<0102> Mi nombre es Fernet. Será mejor que lo recuerdes.
+<0103> El placer es todo mío.
+<0104> Estoy más que preparada.
+<0105> Es la hora de hacer mi debut.
+<0106> Podríamos hacer una entrada llamativa.
+<0107> Debería explorar el campo de batalla.
+<0108> Este juego será todo mío, esa es una gran obviedad.
+<0109> Hmph, eso era de esperarse.
+<0110> ¡¡¡Sí!!! Lo lo-- *Tos*, Es decir... tal como lo había planeado.
+<0111> ¡O-jo-jo! Un juego perfecto, si se me permite decirlo.
+<0112> Otro día, otra victoria.
+<0113> Qué esplendido.
+<0114> Esto parece ser pasable.
+<0115> Parece que has hecho un buen hallazgo.
+<0116> ¡Qué maravilla!
+<0121> Muy bien.
+<0122> Excelente.
+<0123> Bien.
+<0124> No puede ser.
+<0125> Oh bueno, son cosas que pasan.
+<0126> Qué fortuito.
+<0127> ¿Vaya, vaya?
+<0128> Vamos a proceder.
+<0129> Probaremos nuestra suerte.
+<0130> ¡Ve!
+<0131> Encantada de conocerte.
+<0132> Hmmmmh...
+<0133> ¡Perfecto!
+<0134> ¡Realmente sorprendente!
+<0135> Ahhh... ¡esto no puede ser cierto!
+<0136> ¿Por qué tener contactos si nunca serán usados?
+<0137> Esto simplemente es un pequeño truco bajo mi manga.
+<0138> Esto requerirá un poco de audacia.
+<0139> Qué artilugio tan curioso. Veremos qué ocurre al usarlo.
+<0140> Tienes mi gratitud.
+<0141> La mejor forma de comenzar es al establecer contactos.
+<0142> Hay ciertas puertas que el dinero no puede abrir.
+<0143> Haré que mendiguen frente a mí.
+<0144> Siento pena por todo necio que se oponga ante mí.
+<0145> Una inversión inteligente siempre dará frutos.
+<0146> Todos serán cordialmente invitados a mi debut. ¡Deberían estar agradecidos!
+<0147> Vaya, pero si esto no va más allá de mis derechos.
+<0148> ¿No es esa espada muy pesada para ti?
+<0149> Sin preocupaciones, tomaré esto por un momento. Alguien necesita aprender una lección.
+<0150> Bienvenida, ha pasado un largo tiempo. ¿Cómo has estado?
+<0151> He estado esperando tu visita.
+<0152> Podrás quedarte durante la noche si insistes. Mi mayordomo te preparará una habitación.
+<0153> ¿Te vas tan rápido? Cielos, supongo que es algo muy esperable de ti.
+<0154> Si tan solo la vida fuera así de simple...
+<0155> Siento un gran respeto hacia tu intelecto. Te verías bien como mi aliado, aunque...
+<0156> Tus ropas llevan un diseño interesante. Permíteme tomar notas.
+<0157> Tú simplemente careces de formas para resistir mi poder.
+<0158> ¡Bestia estúpida! ¡¿Cómo se atreve?!
+<0159> Podrás quedarte con el trabajo físico. No desearía ensuciar mi vestido.
+<0160> ¿Qué clase de atuendo es ese? Qué atrevida...

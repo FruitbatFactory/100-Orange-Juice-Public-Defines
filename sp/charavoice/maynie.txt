@@ -1,0 +1,160 @@
+<0000> Hmm, ¡ahí!
+<0001> ¡Ahí!
+<0002> ¡Yah!
+<0003> ¡Mhm-nah!
+<0004> Eh... ¡Maynie usará esto!
+<0005> ¡Hora de una carta!
+<0006> ¿A lo mejor Maynie debería usar esto?
+<0007> ¡Cómo lo ves!
+<0008> Esto va aquí... así.
+<0009> Mhm, esto parecer ser un buen lugar...
+<0010> ¡Maynie tiene una trampa! ¿Podrá dejarla aquí?
+<0011> Maynie va a colocar una trampa.
+<0012> *Swing, swing*
+<0013> ¡Es la hora de usar esta carta
+<0014> ¡Maynie va a aumentar su poder!
+<0015> ¡Maynie se ha vuelto más fuerte!
+<0016> ¡Cielos! ¡¡¡¡Por qué torturan a Maynie!!!!
+<0017> *Murmullo, murmullo
+<0018> ¡Ah! ¿Qué estaba haciendo Maynie...?
+<0019> ¿Eh...? ¿Acaso Maynie se durmió...?
+<0020> Buenos días...
+<0021> Argh... ¿Por qué? ¿Por qué...?
+<0022> A Maynie no le gusta el dolor... *Sollozo, sollozo*
+<0023> Aaah... Estás molestando a Maynie.
+<0024> ¿Por qué...?
+<0025> ¡Maynie te derribará!
+<0026> ¡Ey!
+<0027> ¡Muérete!
+<0028> ¡Eres horrible!
+<0029> Ugh.
+<0030> ¡¡¡Qué rayos quieres!!!
+<0031> ¡¡¡Aaaaah!!!
+<0032> ¡Cielos! ¡Cielos!
+<0033> *Jadeo, jadeo*
+<0034> Maynie se siente un poco mejor.
+<0035> Phew...
+<0036> ¿Eh? Maynie no recuerda lo que estaba haciendo.
+<0037> ¿Es esta una teletransportación?
+<0038> ¡Waaah!
+<0039> ¡Paren de mover a Maynie!
+<0040> ¡¡Oh vaya!!
+<0041> ¡Eres horrible...!
+<0042> ¡Demonios!
+<0043> Maynie hará que pagues por esto...
+<0044> ¡Demonios, demonios, demonios, demonios!
+<0045> Maynie te derribará.
+<0046> ¡Te encontré!
+<0047> ¡Kyufufufu!
+<0048> ¡Maynie te aplastará!
+<0049> ¿Qué es lo que haces?
+<0050> ¡Por favor, no le hagas esto a Maynie!
+<0051> ¿Cuál es tu problema? ¡Cielos! ¡Cielos!
+<0052> ¡Maynie odia el dolor!
+<0053> ¡Dí tus últimas palabras!
+<0054> ¡Kyajajaja!
+<0055> ¡Has enfurecido a Maynie!
+<0056> ¡Cáete al suelo!
+<0057> ¡Gya gya!
+<0058> Acaso... ¿acabas de golpear a Maynie?
+<0059> Maynie ha dicho que odia eso...
+<0060> ¡Estás siendo horrible con Maynie...!
+<0061> ¡¡¡Eso duele mucho, mucho, mucho!!!
+<0062> ¡¡¡Maynie ha dicho que odia el dolor!!!
+<0063> ¡Gyaah! ¡¡¡Maynie no olvidará tu rostro!!!
+<0064> ¡¡¡Gyaaaaaaaah!!!
+<0065> ¡Eso es aterrador!
+<0066> ¡Jeeh!
+<0067> ¡No!
+<0068> ¡¿Qué es lo que haces?! ¡Ten más cuidado!
+<0069> *Jadeo, jadeo*... Phew.
+<0070> Y eso es por enojar a Maynie.
+<0071> ¡Levanta tu trasero del suelo para que Maynie pueda golpearte aún más!
+<0072> Fufu... Jajaja... ¡Ajyajya!
+<0073> Im... per... do... nable.
+<0074> Mu... kyu...
+<0075> ¿Por qué está Maynie tirada en el suelo...?
+<0076> Demonios...
+<0077> ¡Hurra!
+<0078> ¡Esto hará feliz a la Dama Arnelle!
+<0079> ¡Maynie recibirá cumplidos de la Dama Arnelle por esto!
+<0080> ¡Genial!
+<0081> ¡No abandones a Maynie!
+<0082> ¡Eh! ¡No te vayas!
+<0083> ¡¿Por qué está ocurriendo esto?!
+<0084> Maynie ha perdido unas estrellas...
+<0085> ¡¡¡Qué rayos es esto!!!
+<0086> ¡¿Quién rayos dejó esta trampa aquí?!
+<0087> ¡¡¡Maynie no soporta caer en estas trampas estúpidas...!!!
+<0088> Ugh... Quién haya dejado esto aquí es horrible.
+<0089> ¿Qué es esa cosa?
+<0090> El aire es tenso por aquí.
+<0091> Mira lo que acaba de suceder.
+<0092> ¡No asustarás a Maynie sólo por ser grande!
+<0093> ¡Si Maynie consigue muchos tesoros, la Dama Arnelle me elogiará!
+<0094> Por el bien de la Dama Arnelle...
+<0095> Si Maynie consigue muchas de estas... ¿acaso la Dama Arnelle me hará muchas caricias...?
+<0096> ¡Maynie conseguirá muchas de ellas y se las dará a la Dama Arnelle!
+<0097> Hay una persona... que Maynie quiere destrozar...
+<0098> Maynie está enojada... Ella quiere golpear a alguien más.
+<0099> ¡Aaaah, Maynie está tan irritada!
+<0100> *Jadeo, jadeo* Las manos de Maynie están temblando con furia...
+<0101> ¡Maynie está aquí!
+<0102> Maynie podrá ayudarte.
+<0103> Maynie no te perdonará si escoges a alguien diferente.
+<0104> ¡Vamos a divertirnos!
+<0105> ¿A-acaso ha comenzado?
+<0106> ¿Qué debería hacer Maynie primero??
+<0107> M-Maynie hará lo mejor que pueda.
+<0108> ¡Maynie quiere ganar el juego!
+<0109> ¡Hurra! ¡Maynie quiere recibir un cumplido!
+<0110> ¿Maynie ganó? ¡Hurra!
+<0111> Fufufu, todos perdieron por enojar a Maynie.
+<0112> Espero volver a jugar en otro momento.
+<0113> Maynie ha conseguido algo bonito.
+<0114> Querías esto, ¿verdad? Tómalo y elogia a Maynie.
+<0115> Maynie nunca había visto eso.
+<0116> ¿Cómo es que se usa?
+<0117> ¡Vamos a cambiar de lugar!
+<0118> Maynie necesita un pequeño descanso.
+<0119> *Bostezo* Maynie tomará una siesta.
+<0120> ¿Te importaría cambiar de lugar?
+<0121> ¡Bien!
+<0122> ¡Eso es bueno!
+<0123> ¡Maynie lo tiene!
+<0124> No.
+<0125> Maynie perderá la paciencia.
+<0126> ¡Tienes suerte!
+<0127> ¿Qué es eso...? ¿Qué es lo que es...?
+<0128> ¡Vamos!
+<0129> ¡Maynie hará lo mejor que pueda!
+<0130> ¡Vamos, vamos!
+<0131> ¡Hola!
+<0132> Eh... ¿Qué...?
+<0133> ¡Increíble!
+<0134> ¡Vaya! ¡Eso es increíble! ¡Sorprendente!
+<0135> ¡Pequeña... sabandija...!
+<0136> ¿Puede Maynie usar esto?
+<0137> ¡Maynie usará esto!
+<0138> Esta carta es...
+<0139> ¡Hora de usar una carta super especial!
+<0140> ¡Dama Arnelle! ¡¿Podrías jugar con Maynie?!
+<0141> Dama Arnelle... esto... eh...
+<0142> Maynie solo estaba pensando que podría pasar más tiempo junto a ti...
+<0143> Dama Arnelle~ *Caricia, caricia*
+<0144> ¡Muy bien! ¡La Dama Arnelle quiere jugar con Maynie!
+<0145> ¡Bien! ¡Maynie peleará con todo su poder!
+<0146> ¿A-Acaso Maynie está castigada...?
+<0147> ¡Sí! ¡Maynie no puede esperar!
+<0148> Maynie está un poco molesta.
+<0149> Aaaaah... Maynie se siente más irritada que antes.
+<0150> *Jadeo, jadeo* Deberían dejar de molestar a Maynie...
+<0151> ¡Aaaaah! ¡Qué rayos! ¡¡Cielos!! ¡¡Cielos!!
+<0152> Esto es lo que sucede cuando molestan a Maynie.
+<0153> ¿Eh? ¿Qué era lo que Maynie estaba haciendo? ¿Te sientes bien?
+<0154> ¡Ajajaja! ¡Te lo mereces!
+<0155> ¿Por qué te tiras en el suelo de esa forma? Maynie ha sufrido mucho más que tú.
+<0156> Oh... Maynie se siente mejor.
+<0157> Phew... Maynie está exhausta.
+<0158> Oh cielos, el blanco de Maynie fue derrotado.
+<0159> Maynie quería derrotar a su blanco ella misma... Oh bueno, al menos se siente bien.

@@ -1,0 +1,157 @@
+
+<0000> Bien.
+<0001> Toma.
+<0002> Ahí.
+<0003> *Suspiro*...
+<0004> Supongo que iré con esto.
+<0005> Voy a usar esta carta.
+<0006> Que fastidio.
+<0007> Usaré una carta.
+<0008> Aquí hay una trampa.
+<0009> Dejaré esto aquí.
+<0010> Me pregunto si alguien caerá por esto.
+<0011> Parece un buen lugar para dejar una trampa.
+<0012> Esto hará que todo sea más fácil.
+<0013> Es la hora de revertir esta situación.
+<0014> Perder sería problemático... así que.
+<0015> Voy a usar esto.
+<0016> Barrera.
+<0017> *Tsk*... Que estorbo.
+<0018> Mi ropa está cubierta de tierra...
+<0019> No te olvides de mi salud tan frágil.
+<0020> Supongo que iré a terminar el trabajo.
+<0021> Estoy harta de estar en mala forma.
+<0022> Esto es una gran molestia.
+<0023> No quiero esforzarme más de lo que debo.
+<0024> Ugh...
+<0025> No soy buena atacando.
+<0026> Esta es una buena chance para atacar.
+<0027> Cristal.
+<0028> Mis disculpas.
+<0029> Ugh...
+<0030> ¿Por qué estás haciendo que todo sea más difícil para mí?
+<0031> Guh.
+<0032> Argh.
+<0033> Me siento un poco mejor ahora.
+<0034> Me gusta.
+<0035> No debería esforzarme tanto.
+<0036> Tomo esto como... una invitación para volver al trabajo.
+<0037> ¿Transportación?
+<0038> ¿A dónde me llevarán?
+<0039> Esto no parece una forma segura de viajar.
+<0040> No me sacudan de esa forma.
+<0041> Parece que puedo tomar un respiro...
+<0042> Por el amor de dios...
+<0043> Soy un pedazo de chatarra.
+<0044> *Tsk*... Esto no es más que una molestia.
+<0045> Te sugiero mejorar la guardia.
+<0046> Iré primero.
+<0047> No perderé la chance de derrotar a mis enemigos.
+<0048> Tienes la guardia muy baja.
+<0049> Confío en mis defensas.
+<0050> Hacerme daño no será fácil.
+<0051> Veamos si puedes romper mi barrera.
+<0052> No podrás herirme.
+<0053> Haz un cristal y después tíralo...
+<0054> Te mostraré mi cristal.
+<0055> Esto te perforará.
+<0056> Esta será una puñalada simple pero dolorosa.
+<0057> Ugh.
+<0058> Guh.
+<0059> Auh.
+<0060> Uu...
+<0061> Guh, que molestia.
+<0062> No tan duro por favor.
+<0063> Increíble.
+<0064> Mi cuerpo no soportará mucho más.
+<0065> Gracias al cielo, funcionó.
+<0066> No seamos inconsiderados.
+<0067> Deberías quedarte aquí por un rato.
+<0068> Vaya, conseguí la victoria...
+<0069> Me has derrotado.
+<0070> Esto es lo más lejos que puedo llegar...
+<0071> Mi cuerpo... es tan inútil.
+<0072> Fui demasiado lejos.
+<0073> Me llevaré estas.
+<0074> Tendré que juntar más de estas, ¿no?
+<0075> Intentaré conseguir una gran cantidad de estas.
+<0076> Que placer.
+<0077> Se me cayeron algunas.
+<0078> Perdí algunas.
+<0079> Oh cielos...
+<0080> Tuve poco cuidado.
+<0081> ¿Una trampa...?
+<0082> No puedo creer que caí por algo como esto.
+<0083> Bien colocado.
+<0084> La trampa me atrapó.
+<0085> Tengo un mal presentimiento.
+<0086> Aquí llega una molestia.
+<0087> Será mejor que me aleje de esa cosa.
+<0088> Lidiar con eso será mucho trabajo.
+<0089> Esta opción parece ser mejor que la otra.
+<0090> Espero poder juntarlas con facilidad.
+<0091> Tengo que conseguir estrellas, ¿verdad?
+<0092> Iré a conseguir estrellas.
+<0093> *Suspiro*... No tengo otra opción.
+<0094> No seré buena atacando, pero...
+<0095> Acabar con ellos parece ser la única opción que me queda.
+<0096> Si pelear es lo único que puedo hacer...
+<0097> Soy Kyoko.
+<0098> No me molestaría pasar el tiempo contigo por un rato.
+<0099> Que molestia.
+<0100> Debería hacer un poco de ejercicio de vez en cuando.
+<0101> Acabemos con esto.
+<0102> ¿Cómo debería moverme?
+<0103> Ha comenzado.
+<0104> Haré lo mejor que pueda.
+<0105> Terminó mejor de lo que yo esperaba.
+<0106> Sorprendentemente, yo gané.
+<0107> ¿Gané el juego? Bien.
+<0108> No está mal hacer esto de vez en cuando.
+<0109> Asegúrate de no gastar mucho.
+<0110> ¿Acaso obtuviste lo que tú esperabas?
+<0111> Bien por ti.
+<0112> ¿Es algo útil?
+<0113> Me gustaría que tomes mi lugar.
+<0114> ¿Te importaría cambiar de lugar?
+<0115> Déjame descansar un poco.
+<0116> Dejaré el resto en tus manos.
+<0117> Bien.
+<0118> Genial.
+<0119> Sí.
+<0120> No.
+<0121> Mala suerte.
+<0122> Bien por ti.
+<0123> ¿Oh?
+<0124> ¿Y bien, vamos?
+<0125> Ve adelante y tira el dado.
+<0126> Ahora.
+<0127> Hola.
+<0128> Hm...
+<0129> Bien hecho.
+<0130> Eso es sorprendente.
+<0131> No hagas eso.
+<0132> No estoy familiarizada con esto... estoy preocupada.
+<0133> No sé de quién será esto, pero lo usaré de todas formas.
+<0134> Encontré algo interesante.
+<0135> ¿Y si uso esto?
+<0136> Hm... Parece que ahora está aquí.
+<0137> *Suspiro*... Esta batalla será algo difícil para mí.
+<0138> Solo quiero que se quede quieto para siempre.
+<0139> Ah, cielos... Es demasiado trabajo.
+<0140> Acaso eres...
+<0141> Creo que no quiero estar a tu alrededor.
+<0142> Espero que nunca volvamos a vernos.
+<0143> Eres difícil de combatir... en serio.
+<0144> ¿¡Por qué estás TÚ aquí...!?
+<0145> Te reduciré a nada más que una cabeza otra vez.
+<0146> Eres desagradable...
+<0147> Te ves mejor como una simple cabeza.
+<0148> No puedo creer que perdí contra ti...
+<0149> Esto es una pesadilla... La peor pesadilla de todas.
+<0150> Iru, creo que deberías actuar con más calma.
+<0151> ¿Cómo se encuentran tus bits?
+<0152> Parece que te estás divirtiendo... eso me agrada.
+<0153> Te ves... bien. Bueno, no tengo nada que decirte.
+<0154> Eso no es nada.
+<0155> No eres lo suficientemente fuerte para romper mi cristal.

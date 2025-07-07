@@ -1,0 +1,157 @@
+
+<0000> Certo.
+<0001> Aqui.
+<0002> Aqui está.
+<0003> *Suspira*...
+<0004> Acho que vou com isto.
+<0005> Eu estou jogando esta certa.
+<0006> Mas que pé no saco viu.
+<0007> Eu vou usar uma carta.
+<0008> Aqui vai uma armadilha hein.
+<0009> Eu estou colocando isto aqui.
+<0010> Eu me pergunto se alguém vai cair nisto.
+<0011> Este parece ser um bom lugar para uma armadilha.
+<0012> Isto vai fazer as coisas mais fáceis para mim.
+<0013> Está na hora de reverter a situação, né?
+<0014> Perder seria um problema... né?
+<0015> Certo, eu vou usar isto aqui.
+<0016> Barreira.
+<0017> *Tsk*... Mas que droga viu.
+<0018> Estou cheia de pó na roupa.
+<0019> Não se esqueça da minha saúde frágil.
+<0020> Acho que vou lá cumprir um pouco de trabalho.
+<0021> Eu estou cansada de não estar em boa forma.
+<0022> Isto é realmente irritante.
+<0023> Eu não quero me esforçar demais.
+<0024> Ugh...
+<0025> Eu não sou uma boa atacante, entretanto.
+<0026> Uma boa oportunidade para atacar.
+<0027> Cristal.
+<0028> Desculpa aí!
+<0029> Ugh...
+<0030> Por que fazer disso algo mais difícil para mim?
+<0031> Guh.
+<0032> Argh.
+<0033> Me sinto um pouquinho melhor.
+<0034> Este aqui é bom, né?
+<0035> Eu não devia me dedicar tanto, né?
+<0036> Devo entender isso... como um sinal de que eu devia me dedicar mais, né?
+<0037> Teleporte?
+<0038> Para onde irá me levar?
+<0039> Essa não é uma maneira segura de se viajar, né?
+<0040> Não me assuste desse jeito.
+<0041> Eu posso descansar um pouco... né?
+<0042> Pelo amor de deus...
+<0043> Eu sou um lixo, né?
+<0044> *Tsk*... Mas que porcaria.
+<0045> Eu sugiro que você fique alerta.
+<0046> Estou atacando.
+<0047> Não vou perder uma chance de bater nos meus inimigos.
+<0048> Você está aberto aos meus ataques.
+<0049> Eu confio bastante na minha defesa.
+<0050> Eu sou durona.
+<0051> Veremos se você consegue destruir minha barreira.
+<0052> Seu ataque não vai chegar até mim.
+<0053> Fazer um cristal e jogá-lo...
+<0054> Eu vou te mostrar meu cristal.
+<0055> Isto irá te perfurar.
+<0056> Isto irá te punhalar de forma dolorosa.
+<0057> Ugh.
+<0058> Guh.
+<0059> Auh.
+<0060> Uu...
+<0061> Guh, porcaria.
+<0062> Pega leve comigo.
+<0063> Inacreditável.
+<0064> Meu corpo não vai aguentar.
+<0065> Ufa, ainda bem que funcionou, né?
+<0066> Vamos evitar ser imprudentes, você e eu.
+<0067> Você devia ficar parado por um tempo.
+<0068> Ufa, consegui ganhar de alguma forma
+<0069> Você me derrotou.
+<0070> Este é o mais longe que consigo chegar...
+<0071> Meu corpo... É tão inútil.
+<0072> Eu exagerei.
+<0073> Eu vou pegar estas.
+<0074> Eu tenho que coletar estas, né?
+<0075> Eu vou fazer o máximo dessas.
+<0076> Muito prazeroso, né?
+<0077> Eu deixei cair algumas.
+<0078> Eu perdi algumas delas.
+<0079> Ai ai...
+<0080> Eu fui descuidada.
+<0081> Uma armadilha...?
+<0082> Eu não acredito que cai para algo assim.
+<0083> Bem colocado.
+<0084> A armadilha me pegou.
+<0085> Eu tenho um mau pressentimento.
+<0086> Chegou o incômodo.
+<0087> É preferível se manter longe disso.
+<0088> Lidar com isso vai ser muito trabalhoso.
+<0089> Viu, essa opção parece mais fácil que a outra.
+<0090> Eu espero que eu consiga diversas dela com facilidade.
+<0091> Supostamente, eu preciso coletar estrelas, né?
+<0092> Eu vou coletar estrelas.
+<0093> *Suspira*... é né, não tenho escolha.
+<0094> Eu não sou uma atacante agressiva, mas...
+<0095> Derrotar eles parece ser a única escolha.
+<0096> Se lutar é a única opção sobrando para mim...
+<0097> Sou a Kyoko.
+<0098> Eu? Acho que não me importo de passar um tempo com você.
+<0099> Mas que irritância.
+<0100> Eu provavelmente devia me exercitar de vez em quando.
+<0101> Vamos terminar logo com isso.
+<0102> Como eu deveria me mover?
+<0103> Começou, né?
+<0104> Eu vou dar o meu melhor.
+<0105> Foi melhor do que o imaginado, não é mesmo?
+<0106> Supreendentemente, eu venci.
+<0107> Eu venci o jogo? Então tá.
+<0108> Não é ruim, dá para fazer esse tipo de coisa de vez em quando, né?
+<0109> Vê se não gasta muito viu.
+<0110> Você conseguiu o que queria?
+<0111> Que bom, né?
+<0112> Aquela coisa é útil?
+<0113> Eu gostaria que você tomasse meu lugar.
+<0114> Você se importa em trocar?
+<0115> Deixe-me descansar.
+<0116> Irei deixar o resto com você.
+<0117> Bom.
+<0118> Ótimo.
+<0119> Sim.
+<0120> Não.
+<0121> Isso é ruim.
+<0122> Que bom, né?
+<0123> Oh?
+<0124> Vamos lá, beleza?
+<0125> Vá em frente e jogue o dado.
+<0126> Agora.
+<0127> Olá.
+<0128> Hm...
+<0129> Bom trabalho.
+<0130> Isto é surpreendente.
+<0131> Não faça isso.
+<0132> Eu não estou familiarizada com isso... Eu estou preocupada.
+<0133> Eu não sei de quem é isso aqui, mas me permita usar.
+<0134> Isto foi um bom achado.
+<0135> E se eu jogar este aqui?
+<0136> Hm... Parece que ele está aqui fora agora.
+<0137> *Suspira*... Esta será uma luta difícil para mim.
+<0138> Eu só quero que ele permaneça imóvel para sempre.
+<0139> Aw, caramba... Ele é um trabalhão.
+<0140> Você é...
+<0141> Eu realmente não quero estar próxima de você.
+<0142> Espero que a gente nunca mais se veja.
+<0143> Você é difícil para eu enfrentar... né?
+<0144> Por que você está aqui...!
+<0145> Vou te reduzir de volta a apenas uma cabeça de novo.
+<0146> Você é repugnante...
+<0147> Você fica melhor como uma cabeça.
+<0148> Eu não acredito que perdi para você de todas as pessoas.
+<0149> Isto é um pesadelo... O pior pesadelo possível.
+<0150> Iru, eu acho que você devia agir de forma mais calma.
+<0151> Como estão os seus Bits?
+<0152> Você está se divertindo, né? Estou grata por isso.
+<0153> Você parece... bem. Eu não tenho o que falar se você está se mantendo saudável.
+<0154> Isto não é nada para mim.
+<0155> Você não é forte o suficiente para quebrar meu cristal.

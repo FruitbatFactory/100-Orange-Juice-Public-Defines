@@ -1,0 +1,296 @@
+< SHOP_LABEL_TIGERKIGU > 
+Киругуми Тигра
+
+< SHOP_TOOLTIP_TIGERKIGU > 
+Разблокировать киругуми тигра.
+
+< SHOP_LABEL_HOME >
+Главная
+
+< SHOP_LABEL_CARDS >
+Карты
+
+< SHOP_LABEL_CHARACTERS >
+Персонажи
+
+< SHOP_LABEL_CHALLENGES >
+Испытания
+
+< SHOP_LABEL_FIELDS >
+Поля
+
+< SHOP_LABEL_HALLOWEEN >
+Хэллоуин
+
+< SHOP_LABEL_CHRISTMAS >
+Рождество
+
+< SHOP_LABEL_PIGFORMATION >
+Свинформация
+
+< SHOP_LABEL_COWKIGU >
+Кигуруми-Коровка
+
+< SHOP_LABEL_RETIREDEVENTS >
+Прошлые События
+
+< SHOP_LABEL_PLAYERPLATES >
+Таблицы Игроков
+
+< SHOP_LABEL_MISC >
+Остальное
+
+< SHOP_LABEL_EMOTES >
+Эмоции
+
+< SHOP_LABEL_PETS >
+Питомцы
+
+< SHOP_LABEL_ARCADE >
+Аркада
+
+< SHOP_LABEL_DLC >
+DLC
+
+< SHOP_LABEL_ALL >
+Всё
+
+< SHOP_LEVEL >
+Уровень
+
+< SHOP_OFFLINE >
+Нет соединения со Steam
+
+< SHOP_DLC_SYURANANAKO >
+Сюра и Нанако
+
+< SHOP_DLC_SAKIKYOUSUKE >
+Саки и Кьёске
+
+< SHOP_DLC_MIXED >
+Набор смешанных карт 
+
+< SHOP_DLC_KRILAKAE >
+Крила и Каэ
+
+< SHOP_DLC_ALTEKYOKO >
+Альте и Кьёко
+
+< SHOP_DLC_SHAMSHERRY >
+Шам и Шерри
+
+< SHOP_DLC_BREAKERPACK >
+Набор "Breaker"
+
+< SHOP_DLC_ACCELERATIONPACK >
+Набор карт "Acceleration"
+
+< SHOP_DLC_NATHTOMATOMIMYUU >
+Томато/Мимью и Нат
+
+< SHOP_DLC_SUGURIHIMEWINTER >
+Зимние Сугури и Химе
+
+< SHOP_DLC_KIRIKONONAME >
+Кирико и NoName
+
+< SHOP_DLC_STARTERVOICEPACK >
+Озвучка стартового персонажа
+
+< SHOP_DLC_CEOREPARQUEMIUSAKI >
+Набор "Witch"
+
+< SHOP_DLC_COREVOICEPACK1 >
+Озвучка основных голосов 1
+
+< SHOP_DLC_YUKITOMOMORENEWAL >
+Новые Юки и Томомо
+
+< SHOP_DLC_COREVOICEPACK2 >
+Озвучка основных голосов 2
+
+< SHOP_DLC_TSIHTEQUILA >
+Тси и Текила
+
+< SHOP_DLC_MEINATSUMI >
+Мэй и Нацуми
+
+< SHOP_DLC_NICOARTHUR >
+Набор "Toy Store"
+
+< SHOP_DLC_IRUMIRA >
+Иру и Мира
+
+< SHOP_DLC_CUTIES >
+Милашки
+
+< SHOP_DLC_ULTIMATEWEAPONGIRL >
+Девушка-ультимативное оружие
+
+< SHOP_DLC_YUUKIISLAY >
+Юуки и Айла
+
+< SHOP_DLC_PUDDINGPACK >
+Набор карт "Pudding"
+
+< SHOP_DLC_SUGURI46SUMIKA >
+Набор "Old Guardian"
+
+< SHOP_DLC_ELLIELULU >
+Набор "Wanderer"
+
+< SHOP_DLC_RONETEO >
+Алисианроун и Теоторатта
+
+< SHOP_DLC_ARNELLEMAYNIE >
+Арнелль и Мэйни
+
+< SHOP_DLC_CHRISKYUPITA >
+Крис и Кьюпита
+
+< SHOP_DLC_HALENACOOK >
+Халена и Кук
+
+< SHOP_DLC_RIDERMERCHANT >
+Набор "Railway Runners"
+
+< SHOP_DLC_HIMEFERNETRENEWAL >
+Набор Принцесс
+
+< SHOP_DLC_MALTMESCAL >
+Мальт и Мескаль
+
+< SHOP_DLC_STARBAKERBREAKER >
+Пекарь-уничтожитель звезд
+
+< SHOP_DLC_NEWELLIEKAI >
+Набор "Protagonist"
+
+< SHOP_TOOLTIP_HOME >
+Используйте кнопки категорий для навигации по магазину.
+
+< SHOP_TOOLTIP_CARDS >
+Купить наборы карт и открытых вами персонажей.
+
+< SHOP_TOOLTIP_CHARACTERS >
+Купить новые украшения для персонажей.
+
+< SHOP_TOOLTIP_CHALLENGES >
+Обменять Апельсины на связанные с испытаниями ящики и краски для волос.
+
+< SHOP_TOOLTIP_FIELDS >
+Приобрести новые поля для игры.
+
+< SHOP_TOOLTIP_HALLOWEEN >
+Приобрести Хэллоуинские украшения.
+
+< SHOP_TOOLTIP_CHRISTMAS >
+Приобрести Рождественские украшения.
+
+< SHOP_TOOLTIP_PIGFORMATION >
+Приобрести аксессуары из События "Берегись Свинформации".
+
+< SHOP_TOOLTIP_COWKIGU >
+Приобрести костюм Коровка-Кигуруми.
+
+< SHOP_TOOLTIP_RETIREDEVENTS >
+Приобрести награды из прошедших Событий.
+
+< SHOP_TOOLTIP_MISC >
+Приобрести бонусы с сетевой игры и прочие вещи.
+
+< SHOP_TOOLTIP_EMOTES >
+Приобрести новые эмоции для чата!
+
+< SHOP_TOOLTIP_PETS >
+Купить новых питомцев!
+
+< SHOP_TOOLTIP_ARCADE >
+Используйте жетоны, чтобы выиграть замечательные призы!
+
+< SHOP_TOOLTIP_DLC >
+Покупка новых DLC за реальные деньги.
+
+< SHOP_TOOLTIP_ALL >
+Осмотреть весь ассортимент.
+
+< SHOP_CRATE_CONTENTS >
+~Содержимое~
+
+< SHOP_CRATE_LOOT_NONE >
+Ничего:
+
+< SHOP_CRATE_LOOT_STARS >
+Звёзды:
+
+< SHOP_CRATE_LOOT_HALLOWEEN >
+Хэллоуинские вещи:
+
+< SHOP_CRATE_LOOT_CHRISTMAS >
+Рождественские вещи:
+
+< SHOP_CRATE_LOOT_SUNGLASSES >
+Летние очки:
+
+< SHOP_CRATE_LOOT_RADPOPPO >
+Крутая Поппо:
+
+< SHOP_CRATE_LOOT_HOMEMARK >
+Знак для Дома:
+
+< SHOP_CRATE_LOOT_POSE >
+Поза:
+
+< SHOP_CRATE_LOOT_HAIR >
+Краска для волос:
+
+< SHOP_CRATE_LOOT_DICE >
+Кубик:
+
+< SHOP_CRATE_LOOT_ORANGES >
+Апельсины:
+
+< SHOP_CRATE_LOOT_CHARACTER >
+Персонаж:
+
+< SHOP_CRATE_LOOT_MYSTERY >
+???
+
+< SHOP_FILTER_OWNED >
+Скрыть купленное
+
+< SHOP_ERROR_INVENTORY_PURCHASE >
+Покупка невозможна. Попробуйте позже.
+
+< SHOP_DLC_SHIFUREIKA >
+Шифу и Рейка
+
+< SHOP_DLC_WATTYPOMERANIUS >
+Ватти и Помераниус
+
+< SHOP_DLC_SWEETGODS >
+Боги Сладостей
+
+< SHOP_DLC_PUDDINGPOP >
+Пудинг-Поп
+
+< SHOP_DLC_KRILAMIMYUURENEWAL >
+Пак Варуда: Побег из тюрьмы 
+
+< SHOP_DLC_ALTEREGOPACK >
+Пак Альтер Эго
+
+< SHOP_TOOLTIP_PLAYERPLATES >
+Приобретите новые фоны, границы и многое другое для вашей онлайн-плиты игрока!
+
+< SHOP_DLC_OLDGUARDPACK >
+Бурбон & Грейн
+
+< SHOP_DLC_POYOCHUU >
+Пойо & Чуу
+
+< SHOP_DLC_HARUKANA >
+Харука и Каната
+
+[EOF]
+

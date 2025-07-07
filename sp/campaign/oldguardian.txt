@@ -1,0 +1,511 @@
+
+// ========= Scene: Stage 1 =========
+
+// (miusaki)
+<0000> ¡La próxima vez que consigan un juego tan divertido como este, queremos ser avisadas!
+
+// (ceoreparque)
+<0001> La traeremos a Rone la próxima vez. Bye.
+
+// (forestwitch)
+<0002> Adiós.
+
+// (suguri46b)
+<0003> Vaya, el silencio ha regresado.
+
+// (sumika)
+<0004> Has sido una buena anfitriona.\nY también les has hecho un poco de pudín.\n¿No piensas que fue demasiado?
+
+// (suguri46b)
+<0005> Quería comer un poco, así que no se trató de algo tan malo.
+
+// (sumika)
+<0006> ¿Estás segura de que ese es el caso...?\nTe veías muy feliz a la hora de cocinar.
+
+// (sumika)
+<0007> Y también te veías nerviosa en el momento que probaron los dulces.\nSumika notó por tu expresión que por dentro sólo podías pensar, "¿Acaso sabe bien?" y "¿Qué es lo que pasará si no les gusta?"
+
+// (suguri46b)
+<0008> Ugh...
+
+// (sumika)
+<0009> Ufufufufu.
+
+// (suguri46b)
+<0010> Muu...
+
+// (suguri46b)
+<0011> Ah, Sumika.
+
+// (sumika)
+<0012> ¿Qué sucede?
+
+// (suguri46b)
+<0013> Este juego ha regresado a mis manos...\n¿Quieres jugar?
+
+// (sumika)
+<0014> Oh, claro.\n¡Al parecer, verlas disfrutar tanto del juego fue suficiente para desear por primera vez en años!
+
+// (suguri46b)
+<0015> No leas mi mente...
+
+// (sumika)
+<0016> Así que, ¿qué recibirá la ganadora?
+
+// (suguri46b)
+<0017> Bueno, hay una pieza de pudín aquí.
+
+// (sumika)
+<0018> ¡Muy bien!\n¡Suguri, prepárate!
+
+// ========= Scene: Stage 2 =========
+
+// (sumika)
+<0019> Así es como se juega, ¿eh...?
+
+// (suguri46b)
+<0020> Fufufu, y ahora, ¿qué es lo que harás?
+
+// (sumika)
+<0021> Hmmmmm...
+
+// (suguri46b)
+<0022> ♪
+// (sumika)
+<0023> Demonios. ¡Estás silbando!\n¿Acaso sabías que tu felicidad se hace visible en el momento que empiezas a ganar?
+
+// (suguri46b)
+<0024> Porque es divertido.
+
+// (sumika)
+<0025> A Sumika le gusta eso de ti.
+
+// (suguri46b)
+<0026> Sí, claro.
+
+// (sumika)
+<0027> Sumika sabe que puedes ser muy expresiva.
+
+// (suguri46b)
+<0028> No estaría tan segura.\nA lo mejor puedo estar fingiendo.
+
+// (sumika)
+<0029> Jajaja, Sumika no lo cree.\nToma.
+
+// (suguri46b)
+<0030> ¡Ah! ¡No puedo creer que ese dado haya caído en seis! ¡Mmm!
+
+// (sumika)
+<0031> ¿Lo ves?
+
+// ========= Scene: Stage 3 =========
+
+// (sumika)
+<0032> Por cierto, Suguri.
+
+// (suguri46b)
+<0033> ¿Qué?
+
+// (sumika)
+<0034> ¿Qué piensas de Sumika?
+
+// (suguri46b)
+<0035> ¿Por qué haces una pregunta tan repentina?
+
+// (sumika)
+<0036> Esas dos brujas parecían ser mejores amigas...
+
+// (suguri46b)
+<0037> Ah, sí. Eso fue inesperado, pensé que no pasaban mucho tiempo juntas.
+
+// (sumika)
+<0038> ¡Sí, así es!\nAsí que Sumika estaba pensando, aunque sueles ser muy brusca con ella...
+
+// (sumika)
+<0039> ¿Podría ser que la amas como loca...?
+
+// (suguri46b)
+<0040> Ya veo.
+
+// (sumika)
+<0041> ¿Tu respuesta?
+
+// (suguri46b)
+<0042> Hmm.\nSí me gustas o no...
+
+// (sumika)
+<0043> ¿Te gusta Sumika?
+
+// (suguri46b)
+<0044> Ahí.
+
+// (sumika)
+<0045> ¡Aaaah! ¡Algo muy malo acaba de suceder en el juego mientras Sumika estaba distraída!\n¡Cómo te atreves a usar ese truco en mí! ¡Demonios! ¡Demonio! ¡Monstruo!
+
+// (suguri46b)
+<0046> Me gustas en tiempos como este.
+
+// (sumika)
+<0047> ¡Sumika te aconseja que no la sobreestimes!\n¡Ella sabía que esto iba a pasar, así que tenía algo preparado para la ocasión!\n¡Ahí!
+
+// (suguri46b)
+<0048> ¡¿Qué?! Debes estar bromeando.
+
+// (sumika)
+<0049> Noqueada...\n¡Kukuku, jajajajaja! ¡Grandioso!
+
+// (suguri46b)
+<0050> ...y te odio en tiempos como este.
+
+// ========= Scene: Stage 4 =========
+
+// (suguri46b)
+<0051> Permíteme preguntarte algo.
+
+// (sumika)
+<0052> ¿Sí?
+
+// (suguri46b)
+<0053> ¿En qué versión te encuentras ahora mismo?
+
+// (sumika)
+<0054> ¿Estás interesada en algo como eso?
+
+// (suguri46b)
+<0055> Un poco. Incluso ahora, sólo te actualizas una vez al mes.
+
+// (sumika)
+<0056> Por supuesto que Sumika se actualiza.\nY especialmente en estos momentos, cuando nuestro ambiente ha cambiado de una forma tan drástica.
+
+// (sumika)
+<0057> Sumika ha perdido la cuenta de todas esas actualizaciones mayores que se ha hecho a ella misma.
+
+// (suguri46b)
+<0058> Mi vida se ha vuelto más cómoda gracias a ti.
+
+// (sumika)
+<0059> No tienes idea de lo esmeradas que son esas actualizaciones.\nSumika cree que se merece más apreciación de tu parte.
+
+// (suguri46b)
+<0060> Excelente trabajo.
+
+// (sumika)
+<0061> No estás siendo honesta.\nCielos.
+
+// (suguri46b)
+<0062> Detente. Usaré una carta.
+
+// (sumika)
+<0063> ¡¿Pero qué?! ¡Eso no es justo!\n¡¿Cómo puedes ser tan horrible?! ¡Por todos los cielos!
+
+// (suguri46b)
+<0064> Fufufu.
+
+// (sumika)
+<0065> ¡Sumika está muy enojada ahora!\n¡Ella acaba de ser actualizada de cierta forma para que tú no puedas engañarla otra vez!
+
+// (suguri46b)
+<0066> Lo mismo habías dicho la última vez que el mismo truco fue usado en tu contra.
+
+// (sumika)
+<0067> ......
+
+// ========= Scene: Stage 5 =========
+
+// (sumika)
+<0068> Este planeta es tan raro.
+
+// (suguri46b)
+<0069> ¿Eh?
+
+// (sumika)
+<0070> Hay chicas que se hacen llamar brujas, al igual que este poder tan extraño llamado Poder Femenino...
+
+// (suguri46b)
+<0071> Ah. Es el poder que se hace más fuerte lo más bonita que eres, ¿no?\nAunque en realidad no entiendo cómo funciona.
+
+// (sumika)
+<0072> ¡Sumika tampoco lo entiende!\nY a ella no le gusta cuando hay algo que no entiende.
+
+// (suguri46b)
+<0073> Relajate. Ya que tenemos un poco de tiempo, podemos aprender acerca de lo que es.
+
+// (sumika)
+<0074> Hmm.
+
+// (sumika)
+<0075> Por cierto, a ti también te llaman una bruja, ¿no es así?
+
+// (suguri46b)
+<0076> La "Bruja del Bosque" porque vivo en un bosque... hm.
+
+// (sumika)
+<0077> Podrían haber hecho un mejor trabajo con tu nombre.
+
+// (suguri46b)
+<0078> Bueno, sin importar como me llamen, nos han aceptado aquí, y estoy feliz acerca de eso.
+
+// (sumika)
+<0079> ¡Y también han aceptado a Sumika como la "Mascota Puyo Puyo"!\nPiensan que es tu accesorio, o algo así.
+
+// (suguri46b)
+<0080> No deberías haberte presentado en esa forma a la hora de sus primeras visitas.
+
+// (sumika)
+<0081> Sumika es una chica muy cuidadosa, así que difícilmente mostrará su forma tan bella y especial.
+
+// (suguri46b)
+<0082> Entonces no hay nada que pueda hacerse al respecto.
+
+// (sumika)
+<0083> Uuu, Sumika quiere ser llamada la "Bruja Linda" o algo así...
+
+// ========= Scene: Stage 6 =========
+
+// (suguri46b)
+<0084> Deberíamos tomar un descanso.
+
+// (sumika)
+<0085> Ha sido un juego tan duro...\n¡Sumika prepará té verde!
+
+// (suguri46b)
+<0086> Gracias.
+
+// (sumika)
+<0087> ¡Y aquí está el té! *golpe*
+
+// (suguri46b)
+<0088> Eso fue rápido.
+
+// (sumika)
+<0089> Porque Sumika es muy avanzada.
+
+// (suguri46b)
+<0090> *sorbo* Mm, realmente me gusta el té que haces.
+
+// (sumika)
+<0091> ¡Porque Sumika es muy avanzada!
+
+// (suguri46b)
+<0092> Fufu.\nEso te convierte en la "Bruja del Té".
+
+// (sumika)
+<0093> ¡A Sumika no le gusta eso, porque la hace sonar como una abuela!
+
+// (suguri46b)
+<0094> ¿De verdad? Pienso que suena bonito.
+
+// (sumika)
+<0095> Tienes un horrible sentido para los nombres.\nY la moda. Siempre usas las mismas ropas de siempre.
+
+// (suguri46b)
+<0096> Dame un respiro. Son ropas muy cómodas.
+
+// ========= Scene: Stage 7 =========
+
+// (sumika)
+<0097> *sorbo* *suspiro* El té caliente es fantástico.
+
+// (suguri46b)
+<0098> Empiezas a hablar como abuela.
+
+// (sumika)
+<0099> ¡Cierra la boca!\nTú también sueles actuar como una abuela, Suguri.
+
+// (suguri46b)
+<0100> No puedo evitarlo. Se podría decir que yo también soy una, en cierto sentido.
+
+// (sumika)
+<0101> Tú eres mucho más que una abuela.
+
+// (suguri46b)
+<0102> A lo mejor tienes razón...
+
+// (suguri46b)
+<0103> *sorbo* ¿Qué es lo que soy?
+
+// (sumika)
+<0104> Eres la persona más misteriosa en todo el universo.
+
+// (suguri46b)
+<0105> Intento no pensar en eso...
+
+// (suguri46b)
+<0106> Aunque ese pensamiento es lo que me mantiene despierta a la hora de dormir.
+
+// (sumika)
+<0107> ¿Qué eres, un adolescente pasando por la pubertad?
+
+// (suguri46b)
+<0108> Como puedes ver, yo también soy una chica.
+
+// (sumika)
+<0109> No estás tomando esto con seriedad, ¿verdad?
+
+// (sumika)
+<0110> *sorbo* Lo repetiré una vez más, tú eres la entidad más misteriosa que Sumika conoce.
+
+// ========= Scene: Stage 8 =========
+
+// (suguri46b)
+<0111> Bueno, yo soy yo, y eso es lo que importa.\nPensar en eso no tiene sentido.
+
+// (suguri46b)
+<0112> Aunque haya existido por más de una eternidad, algo nuevo sigue ocurriendo de vez en cuando.
+
+// (suguri46b)
+<0113> Y este juego es divertido...
+
+// (suguri46b)
+<0114> No necesito nada más que eso.
+
+// (sumika)
+<0115> Suguri... ¿Por qué hablas tanto?
+
+// (suguri46b)
+<0116> Sólo intento relajarme.
+
+// (sumika)
+<0117> ¿Qué ocurrió con esa chica tan hostil aquella vez en el primer encuentro de Sumika?
+
+// (suguri46b)
+<0118> No recordaré algo que sucedió billones de años atrás.
+
+// (sumika)
+<0119> Sumika tiene los datos de ese encuentro. ¿Quieres verlos?
+
+// (suguri46b)
+<0120> No. Ver mi pasado es algo vergonzoso.
+
+// (sumika)
+<0121> Siempre tienes esa excusa.
+
+// (suguri46b)
+<0122> Ah, aun así, ¿podrías guardarlo?\nQuizás lo vea en otra ocasión.
+
+// (sumika)
+<0123> Y siempre haces la misma pregunta.
+
+// ========= Scene: Stage 9 =========
+
+// (sumika)
+<0124> Suguri, ¿qué tanto recuerdas de tu pasado?
+
+// (suguri46b)
+<0125> No puedo recordar cual fue la cena de anoche.
+
+// (sumika)
+<0126> Eso... no es bueno.
+
+// (suguri46b)
+<0127> Aunque… ¿sabes?
+
+// (suguri46b)
+<0128> No olvido a las personas importantes, ni tampoco los eventos importantes.
+
+// (suguri46b)
+<0129> Incluso ahora mismo, recordar los nombres de esta chica o aquella chica no son un problema.
+
+// (sumika)
+<0130> No has mencionado sus nombres.
+
+// (suguri46b)
+<0131> Bailar con esta chica era tan divertido...
+
+// (sumika)
+<0132> Eso suena un poco incierto.
+
+// (suguri46b)
+<0133> Hmm... confía en mí, lo recuerdo muy bien.
+
+// ========= Scene: Stage 10 =========
+
+// (suguri46b)
+<0134> Supongo que es la hora de acabar con este juego.
+
+// (sumika)
+<0135> Fufufu, todavía tenemos la misma chance de ganar.
+
+// (suguri46b)
+<0136> Sólo los dados sabrán.
+
+// (sumika)
+<0137> ¡Sí, y el pudín será de Sumika!
+
+// (suguri46b)
+<0138> No permitiré que eso suceda. Usaré la carta que he estado guardando para este preciso momento.
+
+// (sumika)
+<0139> Fufu, ¡Sumika también tiene una carta para usar...!
+
+// ========= Scene: Ending =========
+
+// (sumika)
+<0140> Sin Suguri y con Sumika a un paso de su hogar... ¡La victoria de Sumika está garantizada!
+
+// (suguri46b)
+<0141> Ughh.
+
+// (sumika)
+<0142> Muy bien, entonces... ¡Este dado acabará con el juego!
+
+// (alicianrone)
+<0143> Buenos días, ¿se encuentra la Bruja del Bosque por aquí?
+
+// (teotrutta)
+<0144> Hola.
+
+// (suguri46b)
+<0145> Vaya, que sorpresa.
+
+// (puyopuyomascot)
+<0146> Esa es una combinación extraña.
+
+// (suguri46b)
+<0147> Hola, Rone. ¿Qué ocurre?
+
+// (alicianrone)
+<0148> Encontramos a Repa y Miu por el camino.
+
+// (suguri46b)
+<0149> Ah, ya veo.
+
+// (teotrutta)
+<0150> ¡Nos hablaron de un juego divertido y dulces deliciosos!
+
+// (suguri46b)
+<0151> Aquí tenemos ambas cosas. ¿Es eso lo que las trae por aquí?
+
+// (teotrutta)
+<0152> ¡Claro que sí!
+
+// (alicianrone)
+<0153> Sabes, no nos habíamos visto por un buen tiempo.\n¿Me extrañaste?
+
+// (teotrutta)
+<0154> Toma un regalo: Vegetales que encontramos por ahí.
+
+// (puyopuyomascot)
+<0155> ¡Vaya! ¡Muchísimas gracias!
+
+// (suguri46b)
+<0156> Muy bien, entonces volvamos a empezar para que ustedes dos puedan jugar con nosotras.
+
+// (puyopuyomascot)
+<0157> ¡Ah, Suguri! ¡Eso no es justo!\n¡Tú solo quieres volver a empezar porque estás a punto de perder!
+
+// (suguri46b)
+<0158> El hacer esperar a los invitados es de mala cortesía.
+
+// (puyopuyomascot)
+<0159> ¡Boo!
+
+// (teotrutta)
+<0160> Como sea. Vamos a jugar ahora.
+
+// (suguri46b)
+<0161> Sí, hagámoslo.
+
+// (puyopuyomascot)
+<0162> ¡No puedo creerlo! ¡La mascota te derrotará una vez más!
+

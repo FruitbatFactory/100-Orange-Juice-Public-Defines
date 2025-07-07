@@ -1,0 +1,164 @@
+<0116> Iré a tomar un descanso.
+<0117> Podría usar un poco de ayuda.
+<0118> ¿Podrías darme una mano, por favor?
+<0119> ¡Cambio de lugar, por favor!
+
+<0000> Ayudaré con este pequeño dado.
+<0001> Veamos...
+<0002> ¿Te gustaría un dado?
+<0003> Rodará aquí.
+<0004> ¿Es la orden una carta?
+<0005> La carta estará servida.
+<0006> Recomiendo esta carta.
+<0007> ¿Estás aquí por una carta?
+<0008> Ten una carta trampa.
+<0009> ¡Por aquí, por favor!
+<0010> ¡Ven por aquí!
+<0011> Este servicio incluye una trampa complementaria.
+<0012> Ahora usaré una carta de batalla.
+<0013> Esto facilitará mi trabajo.
+<0014> ¡Estoy lista para el trabajo!
+<0015> ¿Esta es una carta de batalla? ¡Ya veo, ya veo...!
+<0016> ¡Ese fue un buen descanso!
+<0017> ¡Aquí acaba mi descanso!
+<0018> ¡Muy bien, a trabajar!
+<0019> Trabajaré con una sonrisa.
+<0020> Supongo que extender mi descanso un poco estará bien...
+<0021> Debería descansar un poco más...
+<0022> A lo mejor ya he trabajado más de lo que debería...
+<0023> Mhm, mi cuerpo se siente pesado.
+<0024> ¡Ataqueeee!
+<0025> ¡Eey!
+<0026> ¡Bienvenidos a nuestro restaurante!
+<0027> ¡Una toalla mojada y agua fría...!
+<0028> ¡Ouch!
+<0029> ¡¿Por qué me harías eso?!
+<0030> ¡Por favor!
+<0031> ¡¿Podrías detenerte?!
+<0032> Ah, esto me gusta.
+<0033> ¡Esto sí me ayuda!
+<0034> Aah, me siento mejor ahora.
+<0035> Eso es muy bueno.
+<0036> ¡Wa-wa-wah!
+<0037> ¡Nooo!
+<0038> ¡Cielos, podría perder este plato!
+<0039> ¡Esto no me gusta!
+<0040> Estoy un poco cansada...
+<0041> Acaso... no puedo continuar...
+<0042> ¡Ow, mi espalda!
+<0043> Kyuu...
+<0044> ¡Alguien más peleará por mí!
+<0045> Y aquí es donde él entrará.
+<0046> ¡Oh no, ayúdame!
+<0047> Te lo advierto: ¡Él es muy fuerte!
+<0048> ¡Nooo! ¡Yo soy sólo una empleada de medio tiempo!
+<0049> ¡Querido cliente, tendré que pedirle que se comporte de una buena manera!
+<0050> Lo siento, eso está prohibido en este lugar.
+<0051> ¡Heeen!
+<0052> ¡Yah!
+<0053> ¡Toma su ataque!
+<0054> ¡Bofetada!
+<0055> ¡Eeey!
+<0056> ¡Ueeh!
+<0057> ¡Espera, espera!
+<0058> ¡Detente, por favor!
+<0059> ¡Awawah!
+<0060> ¡Querido cliente, eso nos hace sentir incomodos!
+<0061> ¡Ah, esto es malo!
+<0062> ¡¿Cómo puedes hacer algo tan horrible?!
+<0063> ¡Cielos! ¡Llamaré a la policía!
+<0064> ¡Wa-wa-wah!
+<0065> ¡Eso estuvo cerca! ¡Muy cerca!
+<0066> ¡Compórtate bien, por favor!
+<0067> ¡Cielos! ¡Eso casi me da!
+<0068> ¡Aprecio la victoria!
+<0069> ¡Yaaay!
+<0070> Esperamos su próximo regreso en nuestro restaurante.
+<0071> Hemos hecho un gran trabajo.
+<0072> Oh no...
+<0073> Estamos acabados...
+<0074> Ugh... A lo mejor debería dejar este trabajo...
+<0075> ¡Esto es cruel!
+<0076> ¡¿Acaso esto es una recompensa para mí?!
+<0077> ¡Sí, mi pago!
+<0078> ¡Esta es la razón por la que estaba trabajando!
+<0079> ¡Wajah! ¡Esto es de lo mejor!
+<0080> ¿Eh? ¿Qué? Esto no significa que reducirán mi salario, ¿verdad...?
+<0081> ¡Ah, esa es mi recompensa!
+<0082> ¡Mi razón para trabajar!
+<0083> ¡Pieeen!
+<0084> ¡¿Quién dejaría esto aquí?!
+<0085> ¡Eeh! ¡Por favor!
+<0086> ¡¿Esto está permitido?!
+<0087> ¡¿Caí en una trampa?!
+<0088> Um, siento que algo no está bien.
+<0089> Mhm, definitivamente hay alguien aquí.
+<0090> Podría decirse... que este no va a ser un cliente fácil...
+<0091> ¡Aaah! ¡Tengo mucho miedo!
+<0092> ¡Por el bien de recibir una recompensa mejor!
+<0093> ¡¿Dinero extra?! ¡¿Quién no querría eso?!
+<0094> ¡Me haré millonaria!
+<0095> ¡Asegúrate de añadirlas a mi salario!
+<0096> S-si no soy la que pelea, supongo que no hay ningún problema.
+<0097> ¿Qué? ¿Quién va a pelear?
+<0098> ¿Pelear? Yo no puedo hacer eso...
+<0099> Necesitaré la ayuda del Gerente o Chef...
+<0100> ¡Soy Chris! ¡Bienvenido a Pures!
+<0101> ¿Mi recomendación? ¡La hamburguesa de conejo!
+<0102> ¡Trabajaré duro, como siempre!
+<0103> ¡Trabajo! ¡Trabajo!
+<0104> ¡Bienvenido a Pures!
+<0105> ¡Ansío mucho trabajar el día de hoy!
+<0106> Bien, es la hora de usar mi tarjeta.
+<0107> ¡Vamos a darlo todo!
+<0108> ¡Gracias por detenerte en nuestro restaurante!
+<0109> Sí que he acabado con mucho trabajo el día de hoy~.
+<0110> ¡Muy bien, finalmente he acabado!
+<0111> ¡Todos han hecho un buen trabajo!
+<0112> ¿Es esa la orden?
+<0113> ¡Esa es una de nuestras recomendaciones!
+<0114> ¿Te gustaría llevar uno de estos también?
+<0115> ¡Le damos las gracias por comprar en nuestro restaurante!
+<0120> Síiii.
+<0121> Eso es bueno.
+<0122> ¡Con certeza!
+<0123> Me temo que no puedo hacer eso...
+<0124> Mhm, mi cuerpo se siente pesado.
+<0125> ¡Tienes suerte!
+<0126> Bueno... Mhm.
+<0127> Muy bien, a trabajar.
+<0128> ¡Hora de tirar los dados!
+<0129> ¡Podrás contar con mi apoyo!
+<0130> ¡Buenos días!
+<0131> ¿Qué es lo que debería hacer? ...Mhm.
+<0132> ¡Felicitaciones!
+<0133> ¡Eso es increíble! ¡Felicitaciones!
+<0134> ¡¿P-por qué?!
+<0135> Ah, esto no se encontraba en el menú.
+<0136> ¿Acaso esto siempre estuvo en el menú?
+<0137> Bueno... ¿Podré usar esto?
+<0138> ¡Me han dicho que puedo usar todo lo que necesite!
+<0139> ¡¿Qué?! ¡¿Señor Gerente?!
+<0140> ¡¿P-por qué está aquí, Señor Gerente?!
+<0141> Señor Gerente, ¿acaso acaba de llegar?
+<0142> Oh no... El Señor Gerente parece estar enojado.
+<0143> ¡¿Qué?! ¡¿Acaso metí la pata?!
+<0144> Señor Gerente... U-usted no está enojado, ¿o sí?
+<0145> ¡No deberíamos hacer esto, Señor Gerente!
+<0146> ¡¿P-por qué te acercas a mí?!
+<0147> ¡Chef! ¡Necesito tu apoyo!
+<0148> Chef, a lo mejor no deberías usar un cuchillo...
+<0149> ¡Chef, es la hora de enseñar tus habilidades!
+<0150> ¡Chef, cuento con tu ayuda!
+<0151> ¡Señor Gerente, podría usar su ayuda!
+<0152> Una vez que el Señor Gerente aparece... ¡Nadie puede detenerlo!
+<0153> ¡Ahora que el Señor Gerente está aquí, la victoria es nuestra!
+<0154> ¡Señor Gerente! ¡No sea tan duro!
+<0155> ¡¡¡Cheeef!!!
+<0156> ¿Qué? ¡¿Chef ha sido noqueado...?!
+<0157> ¡Oh nooo, Chef!
+<0158> ¿Te encuentras bien...? Será mejor que tomes un descanso.
+<0159> ¿E-El Señor Gerente... ha sido derrotado...?
+<0160> Oh no... ¡Señor Gerente, no...!
+<0161> ¡Señor Gerente, tiene que despertarse! ¡Señor Gerente!
+<0162> ¡¡¡Señor Gerenteeeeeeeeee!!!

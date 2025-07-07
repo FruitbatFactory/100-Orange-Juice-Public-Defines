@@ -1,0 +1,192 @@
+< ITEM_UNKNOWN >
+name=???
+descr=
+
+// Tavern
+< ITEM_HEAL_LV1 >
+name=コーヒー
+descr=HPを2回復する。
+
+< ITEM_HEAL_LV2 >
+name=レモネード
+descr=HPを4回復する。
+
+< ITEM_HEAL_LV3 >
+name=エリクサー
+descr=HPを全回復する。さらに、侵略者から付与された状態異常を回復し、所持している契約から呪いを取り除く。
+
+< ITEM_OVERHEAL_LV1 >
+name=エナジードリンク
+descr=HPを2回復し、1HPを得る。
+
+< ITEM_OVERHEAL_LV2 >
+name=プリンシェイク
+descr=HPを2回復し、2HPを得る。
+
+< ITEM_OVERHEAL_LV3 >
+name=レッド＆ブルーアイランド
+descr=HPを4回復し、3HPを得る。
+
+< ITEM_HEALTHSHOT >
+name=スウィート・トニック
+descr=永続的に最大HP+1。このアイテムは一度しか購入できない。
+
+< ITEM_INVULNERABILITY >
+name=薬草剤
+descr=☆1チャプター持続 ダメージを受けない。
+
+// Bakery
+
+< ITEM_ATK_BOOST_LV1 >
+name=クッキー
+descr=☆3チャプター持続 ATK+1。この効果は重複しない。
+
+< ITEM_ATK_BOOST_LV2 >
+name=マフィン
+descr=☆3チャプター持続 ATK+2。この効果は重複しない。
+
+< ITEM_ATK_BOOST_LV3 >
+name=ペイストリー
+descr=☆3チャプター持続 ATK+3。この効果は重複しない。
+
+< ITEM_DEF_BOOST_LV1 >
+name=キャンディー
+descr=☆3チャプター持続 DEF+1。この効果は重複しない。
+
+< ITEM_DEF_BOOST_LV2 >
+name=キャラメル
+descr=☆3チャプター持続 DEF+2。この効果は重複しない。
+
+< ITEM_DEF_BOOST_LV3 >
+name=チョコレート
+descr=☆3チャプター持続 DEF+3。この効果は重複しない。
+
+< ITEM_EVA_BOOST_LV1 >
+name=アイスクリーム
+descr=☆3チャプター持続 EVD+1。この効果は重複しない。
+
+< ITEM_EVA_BOOST_LV2 >
+name=ソルベ
+descr=☆3チャプター持続 EVD+2。この効果は重複しない。
+
+< ITEM_EVA_BOOST_LV3 >
+name=ジェラート
+descr=☆3チャプター持続 EVD+3。この効果は重複しない。
+
+< ITEM_ACCELCANDY >
+name=アクセルハイパーキャンディー
+descr=☆1チャプター持続 ダイスが2つになる。
+
+< ITEM_COTTONSPONGE >
+name=コットンスポンジケーキ
+descr=☆1チャプター持続 カードコストが0になり、カード使用レベル制限も解除される。
+
+< ITEM_PUDDING >
+name=プリン
+descr=ストック効果 バトルダウン時、3HPで復活しバトルを続ける。
+
+< ITEM_MELONPAN >
+name=メロンパン
+descr=永続的にATK-1・DEF+1・EVD+1。このアイテムは一度しか購入できない。
+
+< ITEM_REDBEANCREAM >
+name=あずきアイス
+descr=ストック効果 ATK+1。ダウンすると、この効果は失われる。この効果は重複しない。
+
+// Armory
+
+< ITEM_WOODENSHIELD >
+name=木の盾
+descr=被ダメージ-1。攻撃を2回受けた後、またはバトル終了後、効果は失われる。
+
+< ITEM_IRONSHIELD >
+name=鉄の盾
+descr=被ダメージ-2。攻撃を4回受けた後、またはバトル終了後、効果は失われる。
+
+< ITEM_MITHRILSHIELD >
+name=ミスリルの盾
+descr=被ダメージ-3。攻撃を6回受けた後、またはバトル終了後、効果は失われる。
+
+< ITEM_ZAPPERSWORD >
+name=強化剣
+descr=永続的にATK+1、DEF-1。このアイテムは一度しか購入できない。
+
+< ITEM_SMOKEBOMB >
+name=発煙弾
+descr=ストック効果 次のバトル時、敵のATK・DEF・EVD-1。
+
+< ITEM_PRECISIONGOGGLES >
+name=精密ゴーグル
+descr=アイテムを飛ばせる距離が2マス増える。このアイテムは一度しか購入できない。
+
+< ITEM_MERCENARY >
+name=傭兵
+descr=傭兵を召喚する(スターやカードの所持なし)。召喚者以外のユニットを通過する時、そのユニットにバトルを挑む。バトル勝利で奪ったスターを召喚者と等分する。
+
+< ITEM_PHILOSOPHERSTONE >
+name=賢者の石
+descr=チャプター開始の獲得スター+4。5チャプターごとにさらに+1。所持スター全て(最低120)を支払って購入できる。一度しか購入できない。
+
+< ITEM_REC_BOOST_LV1 >
+name=元気ポーション
+descr=次に自分がダウンした時、REC-1。
+
+< ITEM_REC_BOOST_LV2 >
+name=活力ポーション
+descr=次に自分がダウンした時、REC-2。
+
+< ITEM_REC_BOOST_LV3 >
+name=不死鳥のエキス
+descr=次に自分がダウンした時、REC-3。
+
+< ITEM_ANTITIRED >
+name=ヘトヘト打破
+descr=このゲーム中ずっとREC-1。一度しか購入できない。
+
+< ITEM_GUARDIAN >
+name=守護者
+descr=守護者を召喚する。召喚者のクエストのアイテムを見つけたり、モンスターを倒したりしてくれる。他のプレイヤーユニットに攻撃できないが、攻撃は受ける。\nレベル：召喚時のプレイヤーレベル\n所持スター：召喚に支払ったスター\n手札：「ビッグマグナム」、「ウサビット」、「エクステンション」、「サキのクッキー」
+
+< ITEM_FAE >
+name=オーロラ
+descr=オーロラを召喚する(スターやカードの所持なし)。偶数チャプターで、召喚者のHPを1回復するか、HP半分で復活させる。他のプレイヤーユニットには攻撃できないが、攻撃は受ける。
+
+< ITEM_LEATHERBOOTS >
+name=レザーブーツ
+descr=MOV+1。クエストアイテムを持っていないとき、さらに+1。別の靴を装備中に購入すると、その靴と置き換えられる。
+
+< ITEM_GALESHOES >
+name=疾風シューズ
+descr=MOV+2。契約数が2以下の時、さらに+1。別の靴を装備中に購入すると、その靴と置き換えられる。
+
+< ITEM_SPIKEDSHIELD >
+name=スパイクシールド
+descr=被ダメージ-1の効果がある盾。自身の防御ダイスの目が相手の攻撃ダイスの目より大きかったとき、被ダメージの半分を相手に与える。一度バトルすると、この装備は失われる。
+
+< ITEM_BATTLEAXE >
+name=エグゼキューショナー
+descr=永続的にATK+1、EVD-1。このアイテムは一度しか購入できない。
+
+< ITEM_BLACKMARKET_CURSEDSWORD >
+name=呪われた剣
+descr=永続的にATK+2、DEF・EVD・最大HP-1。
+
+< ITEM_BLACKMARKET_CURSEDAXE >
+name=呪われたバトルアックス
+descr=攻撃のクリティカル率20%アップ。10%の確率で攻撃をはずす。
+
+< ITEM_BLACKMARKET_CURSEDBOUNTY >
+name=呪われたバウンティ
+descr=次にバウンティの報酬として受け取る名声+2。その後、ダウンするまでHPと最大HPが1になる。
+
+< ITEM_BLACKMARKET_CURSEDICECREAM >
+name=紫豆アイスクリーム
+descr=ダウンするまで、ATK+2、最大HP-3(1以下にはならない)。
+
+< ITEM_BLACKMARKET_CURSEDSHOES >
+name=改良版疾風シューズ
+descr=MOV+4。ただし、1契約しか持てない。別の靴を装備中に購入すると、その靴と置き換えられる。
+
+< ITEM_BLACKMARKET_CURSEDSUMMON >
+name=マスター召喚師
+descr=ランダムな召喚ユニット1体か中立な侵略者1体が召喚される。召喚ユニットの開始HPは12。既に侵略者がアクティブなとき、新たに侵略者は召喚されない。

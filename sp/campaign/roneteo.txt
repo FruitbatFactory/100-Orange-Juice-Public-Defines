@@ -1,0 +1,131 @@
+
+// ========= Scene: Stage 1 =========
+
+// (alicianrone)
+<0000> "Así que... ¿Cómo es que se juega?"
+
+// (suguri)
+<0001> "La forma más rápida de aprender a jugar es jugando."
+
+// (teotoratta)
+<0002> "¡Vamos a jugar! ¡Vamos a jugar! ¿Y en dónde están los dulces?"
+
+// (puyopuyomascot)
+<0003> "Espera un momento, Teo. Cielos, sí que eres impaciente cuando tienes hambre."
+
+// (puyopuyomascot)
+<0004> "Ya no queda mucho pudín, así que necesitaremos algo más..."
+
+// (suguri)
+<0005> "El día de hoy ha sido como una fiesta."
+
+// (suguri)
+<0006> "Ya que hay cuatro de nosotras presentes, podríamos tomarnos el tiempo y disfrutar del juego."
+
+// (alicianrone)
+<0007> "¡Definitivamente! Me aseguraré de obtener una brillante victoria, sin importar qué tipo de juego sea."
+
+// (teotoratta)
+<0008> "¡Eso dices tú! ¡Pero yo seré la ganadora! ¡Prepárate para ser derribada, Rone!"
+
+// (puyopuyomascot)
+<0009> "Aquí están, té y dulces. Esperamos que lo disfruten."
+
+// (teotoratta)
+<0010> "¡Eso huele bien! ¡Hora de comer!"
+
+// (alicianrone)
+<0011> "¡Espera, Teo! ¿En dónde están tus modales?"
+
+// (teotoratta)
+<0012> "*Mordisco, mordisco* Ahoda, vamod a judad al juedo."
+
+// (alicianrone)
+<0013> "No deberías hablar con la boca llena de comida..."
+
+// (suguri)
+<0014> "Fufu."
+
+// (alicianrone)
+<0015> "¿De qué te ríes, bruja del bosque?"
+
+// (suguri)
+<0016> "Ustedes dos son muy amables entre sí, verlas me hace sonreír."
+
+// (alicianrone)
+<0017> "¿Qué? ¿Lo somos?"
+
+// (teotoratta)
+<0018> "¿Loshomom?"
+
+// (suguri)
+<0019> "Jajajaja."
+
+// (puyopuyomascot)
+<0020> "Vaya, verte reír de esa forma es algo inusual, Suguri."
+
+// (suguri)
+<0021> "Me estoy divirtiendo mucho."
+
+// (suguri)
+<0022> "Muy bien, entonces vamos a jugar."
+
+// ========= Scene: Ending =========
+
+// (alicianrone)
+<0023> "...Cielos, es increíble que me haya emocionado de esa forma al jugar."
+
+// (teotoratta)
+<0024> "¡Los dulces fueron deliciosos, y el juego fue muy divertido!"
+
+// (puyopuyomascot)
+<0025> "Me alegra oír eso."
+
+// (suguri)
+<0026> "Yo también me he divertido."
+
+// (alicianrone)
+<0027> "En fin, gracias por dejarme estar aquí. Ahora debo irm-- Espera un segundo."
+
+// (alicianrone)
+<0028> "¡El cielo está oscuro! ¿Por cuánto tiempo hemos jugado?"
+
+// (teotoratta)
+<0029> "¿Qué? ¿En serio?"
+
+// (teotoratta)
+<0030> "¡Vaya...! ¡Tienes razón!"
+
+// (suguri)
+<0031> "Sabes, ya que el cielo está tan oscuro, ¿por qué no se quedan a dormir aquí esta noche?"
+
+// (alicianrone)
+<0032> "No deberíamos causarles tantos problemas."
+
+// (suguri)
+<0033> "No es ningún problema. El día de hoy ha sido muy divertido para mí, no me gustaría verlo terminar."
+
+// (teotoratta)
+<0034> "¿Woof?"
+
+// (puyopuyomascot)
+<0035> "Sólo quieres que duerman aquí porque te entristecería verlas ir, ¿no es así, Suguri?"
+
+// (suguri)
+<0036> "Bueno... esa es una forma de verlo."
+
+// (alicianrone)
+<0037> "Ya veo. Eso es muy lindo de tu parte, bruja del bosque."
+
+// (alicianrone)
+<0038> "Si ese es el caso, entonces tomaré la oferta."
+
+// (teotoratta)
+<0039> "¡Muy bien! ¡Ahora podemos seguir jugando! ¡Bow wow!"
+
+// (puyopuyomascot)
+<0040> "En ese caso, esta mascota cocinará algo con los vegetales que nos han dado."
+
+// (suguri)
+<0041> "Fufufu, no puedo esperar."
+

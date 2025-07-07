@@ -1,0 +1,163 @@
+<0000> Help yourself to a die roll.
+<0001> Let's see.
+<0002> Would you like a die?
+<0003> Here it rolls.
+<0004> Is the order a card?
+<0005> A card's about to be served.
+<0006> We recommend this card.
+<0007> Are you here for a card?
+<0008> Here's a trap card.
+<0009> This way, please!
+<0010> Come this way!
+<0011> This service includes a complimentary trap.
+<0012> I'm going to play a battle card now.
+<0013> This will make our work easier.
+<0014> I'm ready to work my hardest!
+<0015> This is a battle card, huh? I see, I see...!
+<0016> That was a good break!
+<0017> My break is over now!
+<0018> Alright, I'm going to work hard!
+<0019> I'll work with a smile.
+<0020> I think it's okay to extend my break a little...
+<0021> Fuee, I could use a little more rest...
+<0022> Maybe I overworked myself a little bit...
+<0023> Mhm, I'm feeling heavy.
+<0024> Attaaack!
+<0025> Eey!
+<0026> Welcome to our restaurant!
+<0027> A wet hand towel and a glass of cold water...!
+<0028> Ouch!
+<0029> Why would you do that to me?!
+<0030> Please!
+<0031> Would you knock that off!
+<0032> Ah, I like this.
+<0033> This helps a lot!
+<0034> Haah, I'm feeling better now.
+<0035> That's real nice.
+<0036> Wa-wa-wah!
+<0037> Nooo!
+<0038> Whoa, I'm gonna drop the dish!
+<0039> I don't like this!
+<0040> Ugh, I think I'm tired...
+<0041> Could it be... I'm burned out...
+<0042> Ow, my back!
+<0043> Kyuu...
+<0044> Someone else is going to fight in my stead!
+<0045> This is where he comes in.
+<0046> Oh no, help me!
+<0047> I'll warn you: He's very strong!
+<0048> Nooo, I'm just a part-time worker!
+<0049> I'm going to have to ask you to behave, customer!
+<0050> Excuse me, that kind of stuff is not allowed here.
+<0051> Heeen!
+<0052> Yah!
+<0053> Take this attack!
+<0054> Slap!
+<0055> Eeey!
+<0056> Ueeh!
+<0057> Wait, wait!
+<0058> Please cut that out!
+<0059> Awawah!
+<0060> That makes us very uncomfortable, customer!
+<0061> Whoa, this is bad!
+<0062> How could you do such a horrible thing!?
+<0063> I'll call the police on you! Geez!
+<0064> Wa-wa-wah!
+<0065> That was close! So close!
+<0066> Please behave!
+<0067> That almost hit me, geez!
+<0068> I appreciate the victory!
+<0069> Yaaay!
+<0070> Please come back to our restaurant soon.
+<0071> Phew, we did a great job here.
+<0072> Oh no...
+<0073> We're worn out...
+<0074> Ugh... Maybe I should quit this job...
+<0075> This is cruel!
+<0076> Is this a bonus for me!?
+<0077> Yes, I got paid!
+<0078> This is what I work for!
+<0079> Wahah! This is the best!
+<0080> Huh? Huh? This doesn't mean I'll get paid less, right...?
+<0081> Hey, that's my bonus!
+<0082> My reason to work!
+<0083> Pieeen!
+<0084> Why would anyone put this down here?!
+<0085> Fue! Please!
+<0086> Is this even allowed?!
+<0087> I fell for a trap!?
+<0088> Um, something's wrong here.
+<0089> Mhm, there's someone here.
+<0090> I dare say... this is not a easy customer to deal with...?
+<0091> Fuee! I'm very scared!
+<0092> For the sake of getting paid more!
+<0093> Bonus pay!? Who wouldn't want that!
+<0094> I'll go make myself rich!
+<0095> Make sure to add these to my pay!
+<0096> I-I don't mind if someone else does the fighting.
+<0097> What? Who's going to do the fighting?
+<0098> Fighting? That's something I can't do...
+<0099> I'm going to have to ask Manager or Chef for help.
+<0100> I'm Chris! Welcome to Pures!
+<0101> My recommendation? That'd be the Bunny Hamburg!
+<0102> I'll work hard as usual!
+<0103> Work! Work!
+<0104> Welcome to Pures!
+<0105> I'm so fired up for work!
+<0106> Alright, let me punch in my time card.
+<0107> Let's try our hardest!
+<0108> Thank you for coming to our restaurant!
+<0109> I sure did get a bunch of work done again~.
+<0110> Alright, I'm finally off work!
+<0111> Good work, everyone!
+<0112> Is that the order?
+<0113> That's one of our recommendations!
+<0114> Would you like this one as well?
+<0115> Thank you for ordering with us!
+<0116> I'll go take a break now.
+<0117> I could use some assistance here.
+<0118> Could you give me a hand please?
+<0119> Switch places, please!
+<0120> Yeees.
+<0121> That's nice.
+<0122> Certainly!
+<0123> I'm afraid I'm not able to do that...
+<0124> Mhm, I'm feeling heavy.
+<0125> You're in luck!
+<0126> Well... Mhm.
+<0127> Alright then, let's get working.
+<0128> Dice time!
+<0129> I'm rooting for you!
+<0130> Good morning!
+<0131> What should I do? ...Mhm.
+<0132> Congratulations!
+<0133> That's amazing! Congratulations!
+<0134> W-why!
+<0135> Oh, I don't know this menu item.
+<0136> Has this always been on the menu?
+<0137> Well... Is it okay to... use this?
+<0138> I'm told to use whatever I can!
+<0139> What!? Manager!?
+<0140> H-how come Manager's here!?
+<0141> Manager, did you just get to work?
+<0142> Oh no... Manager looks angry.
+<0143> What!? Did I screw something up!?
+<0144> Manager... You're m-mad, aren't you?
+<0145> We shouldn't do this, Manager!
+<0146> W-why are you approaching me!
+<0147> Chef! I need your support here!
+<0148> Chef, maybe a knife isn't a good idea...
+<0149> Chef, it's time to show your skills!
+<0150> Chef, I'm counting on you!
+<0151> Manager, I could use some help!
+<0152> Once Manager steps out... nobody can stop him!
+<0153> Now that Manager's come out here, victory is ours!
+<0154> Manager! Please don't overdo it!
+<0155> Cheeef!!!
+<0156> What? Chef's knocked out...!?
+<0157> Oh nooo, Chef!
+<0158> Are you okay...? You'd better take a break.
+<0159> M-Manager... is defeated...?
+<0160> Oh no... Manager, no...!
+<0161> Manager, you have to wake up, Manager!
+<0162> Manageeeeeer!!!

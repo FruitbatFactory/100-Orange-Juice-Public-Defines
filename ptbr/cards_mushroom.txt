@@ -1,0 +1,121 @@
+< CARD_SHROOM_BLUE >
+name=Cogumelo Azul
+descr=Tem um cheiro esquisito.
+
+< CARD_SHROOM_BROWN >
+name=Cogumelo Marrom
+descr=Tem um cheiro esquisito.
+
+< CARD_SHROOM_GREEN >
+name=Cogumelo Verde
+descr=Tem um cheiro esquisito.
+
+< CARD_SHROOM_ORANGE >
+name=Cogumelo Laranja
+descr=Tem um cheiro esquisito.
+
+< CARD_SHROOM_PINK >
+name=Cogumelo Rosa
+descr=Tem um cheiro esquisito.
+
+< CARD_SHROOM_PURPLE >
+name=Cogumelo Roxo
+descr=Tem um cheiro esquisito.
+
+< CARD_SHROOM_RAINBOW >
+name=Cogumelo Arco-Íris
+descr=Tem um cheiro esquisito.
+
+< CARD_SHROOM_RED >
+name=Cogumelo Vermelho
+descr=Tem um cheiro esquisito.
+
+< CARD_SHROOM_WHITE >
+name=Cogumelo Branco
+descr=Tem um cheiro esquisito.
+
+< CARD_SHROOM_YELLOW >
+name=Cogumelo Amarelo
+descr=Tem um cheiro esquisito.
+
+< CARD_SHROOM_PHANTOMBLUE >
+name=Cogumelo Azul Fantasma
+descr=Tem um cheiro bizarramente esquisito.
+
+< CARD_SHROOM_LEGENDARYRED >
+name=Cogumelo Vermelho Lendário
+descr=Tem um cheiro notoriosamente esquisito.
+
+< CARD_SHROOM_MOVEUP >
+descr=Ganhe +%d MOV na sua próxima rolagem de movimento.
+
+< CARD_SHROOM_MOVEDOWN >
+descr=Ganhe -%d MOV na sua próxima rolagem de movimento.
+
+< CARD_SHROOM_GAINSTARS >
+descr=Ganhe Nível x %d em estrelas.
+
+< CARD_SHROOM_LOSESTARS >
+descr=Perca Nível x %d em estrelas.
+
+< CARD_SHROOM_HEALTHUP >
+descr=Ganhe %d de vida.
+
+< CARD_SHROOM_HEALTHDOWN >
+descr=Perca %d de vida.
+
+< CARD_SHROOM_ATTACKUP >
+descr=Ganhe +%d ATK durante esta batalha.
+
+< CARD_SHROOM_ATTACKDOWN >
+descr=Ganhe -%d ATK durante esta batalha.
+
+< CARD_SHROOM_DEFENSEUP >
+descr=Ganhe +%d DEF durante esta batalha.
+
+< CARD_SHROOM_DEFENSEDOWN >
+descr=Ganhe -%d DEF durante esta batalha.
+
+< CARD_SHROOM_EVADEUP >
+descr=Ganhe +%d EVD durante esta batalha.
+
+< CARD_SHROOM_EVADEDOWN >
+descr=Ganhe -%d EVD durante esta batalha.
+
+< CARD_SHROOM_HEAL >
+descr=Recupere %d HP.
+
+< CARD_SHROOM_DAMAGE >
+descr=Tome %d de dano.
+
+< CARD_SHROOM_ROLLONE >
+descr=Role apenas 1 nessa batalha.
+
+< CARD_SHROOM_ROLLSIX >
+descr=Role apenas 6 nessa batalha.
+
+< CARD_SHROOM_FROSTWALKER >
+descr=Ganhe Caminhante Gélido por %d capítulos.
+
+< CARD_SHROOM_WARP >
+descr=Teleporte para um painel aleatório.
+
+< CARD_SHROOM_CONFUSION >
+descr=Durante %d capítulo(s), todas suas cartas são viradas ao contrário (você não pode ver elas, mas seus oponentes podem).
+
+< CARD_SHROOM_DRAW >
+descr=Compre 2 cartas.
+
+< CARD_SHROOM_DISCARD >
+descr=Descarte uma carta aleatória.
+
+< CARD_SHROOM_WIN >
+descr=Ganhe 1 vitória.
+
+< CARD_SHROOM_LEGEND_STARS >
+descr=Ganhe +Lvl estrelas de todas as fontes. Em Nocaute de Batalha, vencedor rouba esta carta se for um jogador.
+
+< CARD_SHROOM_LEGEND_WINS >
+descr=Ganhe +1 Vitória de todas as fontes. Em Nocaute de Batalha, vencedor rouba esta carta se for um jogador.
+
+[EOF]

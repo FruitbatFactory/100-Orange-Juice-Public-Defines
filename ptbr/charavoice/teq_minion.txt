@@ -1,0 +1,34 @@
+
+<0000> Sim, sim senhor!
+<0001> Aqui vamos nós!
+<0002> Têm jogo!
+<0003> Venha lutar contra a gente!
+<0004> Nós vamos te fazer orgulhoso, Capitão!
+<0005> Pode vir!
+<0006> Desafio aceito!
+<0007> É disso que estou falando!
+<0008> A presa encontra seu caçador!
+<0009> Eeeey!
+<0010> Shaah!
+<0011> Kieeey!
+<0012> Deeey!
+<0013> Eita!
+<0014> Gyah!
+<0015> Guwah!
+<0016> Guoh!
+<0017> Isso dói pra caraaaaaaaamba!
+<0018> Agyaah!
+<0019> Hieeeh!
+<0020> Gyoooh!
+<0021> Errrrôôôôuuu!
+<0022> Essa foi por pouco!
+<0023> Whoa, whoa!
+<0024> Hieeh!
+<0025> Eu consegui, Capitão!
+<0026> Nós conseguimos um bom saque, Capitão!
+<0027> Hyahoy!
+<0028> Yo ho ho!
+<0029> Capitão~...
+<0030> Foi mal... Capitão...
+<0031> Eu cometi um erro!
+<0032> Oh... Deus...

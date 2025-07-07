@@ -1,0 +1,239 @@
+
+< FREEBATTLE_CREATELOBBY >
+Modo Campaña
+
+< FREEBATTLE_JOINLOBBY >
+Unirse a una Sala
+
+< FREEBATTLE_SINGLEPLAYER >
+Juego Libre
+
+< FREEBATTLE_RETURN >
+Atrás
+
+< LOBBYLIST_RETRIEVINGLOBBIES >
+Buscando salas.\nPor favor, espere...
+
+< LOBBYLIST_RETRIEVINGDATA >
+Recibiendo información...
+
+< LOBBYLIST_DATATIMEOUT >
+Se ha perdido el contacto con la sala.
+
+< LOBBY_NOSTEAM >
+No hay conexión a Steam.
+
+< LOBBY_CREATING >
+Creando una sala de espera...
+
+< LOBBY_CREATEFAILED >
+La sala no ha podido se creada.
+
+< LOBBY_CONNECTING >
+Conectándose a la sala...
+
+< LOBBY_CONNECTED >
+Conectado.
+
+< LOBBY_CONNECTFAILED >
+No se ha podido conectar con la sala.
+
+< LOBBY_NORESPONSE >
+Sin respuestas.
+
+< LOBBY_GAMEABORTED >
+El juego ha sido abortado.
+
+< LOBBY_JOINRESPONSE >
+Esperando la respuesta del servidor...
+
+< LOBBY_JOINFAILED >
+No se ha podido unir al juego.
+
+< LOBBY_FULL >
+La sala está llena.
+
+< LOBBY_STEAMID_EXISTS >
+Su ID de Steam ya está dentro del juego.
+
+< LOBBY_WRONGPASSWORD >
+Contraseña incorrecta.
+
+< LOBBY_VERSIONDIFFERENCE >
+Su versión no es compatible con esta sala.
+
+< LOBBY_VERSIONUPDATE >
+Por favor actualice su juego a la última versión.
+
+< LOBBY_HOSTHASOLDVERSION >
+La sala está usando una versión vieja del juego.
+
+< LOBBY_LEAVECONFIRM >
+¿Abandonar?
+
+< LOBBY_LEAVEWAIT >
+Volviendo atrás...
+
+< LOBBY_PLAYERLEFT >
+Un jugador abandonó la sala.
+
+< LOBBY_KICKCONFIRM >
+¿De verdad quiere echar a este jugador?
+
+< LOBBY_KICKED >
+Te han echado de la sala.
+
+< LOBBY_BANNEDFROMLOBBY >
+Has sido expulsado de esta sala.
+
+< LOBBY_PLAYERCONNECTIONLOST >
+Se perdió la conexión con otro jugador.
+
+< LOBBY_HOSTCONNECTIONLOST >
+Se perdió la conexión con el creador.
+
+< LOBBY_REMOVEDFORIDLING >
+Has sido echado por inactividad.
+
+< LOBBY_CHANGING_OWNER >
+Cambiando el dueño de la sala...
+
+< LOBBY_REPLACINGPLAYER >
+Remplazando a un jugador.
+
+< LOBBY_SPECTATOR_CONNECTING >
+Un espectador se está conectando.
+
+// Prefix: Spectator's name. 
+< LOBBY_SPECTATOR_JOINREQUEST >
+quiere unirse a la partida.
+
+< LOBBY_SPECTATOR_JOINREQUESTING >
+Pidiendo el permiso para jugar...
+
+< LOBBY_SPECTATOR_JOINDENIED >
+Permiso rechazado.
+
+< LOBBY_SPECTATOR_JOINNOPLAYERSLOTS >
+No hay más espacios libres.
+
+// LOBBY_SPECTATOR_JOIN + name + LOBBY_SPECTATOR_JOIN2
+// Spectator Domdi wants to join as player.
+< LOBBY_SPECTATOR_JOIN1 >
+El espectador
+
+< LOBBY_SPECTATOR_JOIN2 >
+quiere unirse a la partida.
+
+< LOBBY_PLAYERTOSPECTATOR_CONFIRM >
+¿Cambiar a espectador?
+
+< LOBBY_SPECTATORTOPLAYER_CONFIRM >
+¿Cambiar a jugador?
+
+< CHAT_TYPEPROMPT >
+<Presione ENTER para escribir un mensaje.>
+
+// 10 characters max.
+< CHAT_NAME_SYSTEM >
+SISTEMA
+
+// 10 characters max.
+< CHAT_NAME_EMPTY >
+<empty>
+
+< CHAT_NAME_DASHES >
+--------
+
+< CHAT_MUTE_SELF_ERROR >
+No puedes ser silenciado por tu propia cuenta.
+
+< CHAT_MUTED_USER > 
+Has silenciado a %s.
+
+< CHAT_UNMUTED_USER > 
+%s ya no se encuentra silenciado.
+
+< CHAT_SYSTEM_LOBBYCREATED >
+¡La sala "%s" ha sido creada!
+
+< CHAT_SYSTEM_LOBBYJOINED >
+¡Te uniste a %s!
+
+< CHAT_SYSTEM_PLAYERJOINEDLOBBY >
+¡%s ha entrado en la sala!
+
+< CHAT_SYSTEM_GAMEENDED >
+¡El juego terminó! Regresando a la sala de espera.
+
+< CHAT_SYSTEM_REQUESTEDPLAYERSLOT >
+Pidiendo permiso para transformarse en jugador...
+
+< CHAT_SYSTEM_REQUESTEDSPECTATORSLOT >
+Pidiendo permiso para transformarse en espectador...
+
+< CHAT_SYSTEM_PLAYERSLOTREQUESTTIMEOUT >
+El tiempo para el permiso terminó.
+
+< CHAT_SYSTEM_SPECTATORSLOTREQUESTTIMEOUT >
+El tiempo para el permiso terminó.
+
+< CHAT_SYSTEM_PLAYERTAKEOVER >
+%s está tomando el lugar del Jugador %d.
+
+< CHAT_SYSTEM_SWITCHEDTOPLAYER >
+¡Cambiado a jugador!
+
+< CHAT_SYSTEM_SWITCHEDTOSPECTATOR >
+¡Cambiado a espectador!
+
+< CHAT_SYSTEM_PLAYERSWITCHEDTOSPECTATOR >
+%s se cambió de jugador a espectador.
+
+< CHAT_SYSTEM_SPECTATORSWITCHEDTOPLAYER >
+%s se cambió de espectador a jugador.
+
+< CHAT_SYSTEM_PLAYERHASLEFTGAME >
+%s ha abandonado la partida.
+
+< CHAT_SYSTEM_LOSTCONNECTIONTOPLAYER >
+Se perdió la conexión con %s.
+
+< GAMEINVITE_PENDING_TITLE >
+Invitación pendiente
+
+< GAMEINVITE_JOIN_TOOLTIP >
+Go to the Main Menu to join the game.
+Ve al Menú Principal para unirte a la partida.
+
+// Game speed: <nb>
+< GAMEINVITE_NORMAL_MODE_DETAILS >
+Velocidad: %d
+
+// Game speed: <nb>, <boss name>, <boss difficulty>
+< GAMEINVITE_COOP_MODE_DETAILS >
+Velocidad: %d, %s, %s
+
+< LOBBY_QUICKJOIN_TOOLTIP >
+Únete a una partida rápidamente.
+
+< CHAT_SYSTEM_CHEATDETECTED_CLIENT >
+%s intentó hacer trampa al usar una carta invalida.
+
+< CHAT_SYSTEM_CHEATDETECTED_HOST >
+%s intentó hacer trampa al usar una carta invalida, y han sido echados de la sala.
+
+< CHAT_CONTROLLERTYPEPROMPT_1 >
+<Presiona
+
+< CHAT_CONTROLLERTYPEPROMPT_2 >
+para abrir el teclado del juego y escribir.>
+
+< PLAYERPLATE_STEAMLEVEL >
+NIVEL %d
+
+< PLAYERPLATE_STEAMWINS >
+Victorias: %d
+
+[EOF]
+

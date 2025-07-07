@@ -1,0 +1,160 @@
+<0000> Más rápido.
+<0001> Admira estos movimientos.
+<0002> A rodar.
+<0003> ¡Por ahí!
+<0004> Siempre mantengo mis cartas cerca de mi pecho.
+<0005> Ha llegado la hora, ¡impulsando motores!
+<0006> ¡Activaré los impulsos!
+<0007> No hay tarea que mi compañero no pueda realizar.
+<0008> Ten cuidado con el golpe.
+<0009> Si yo fuera tú, me desviaría por otra carretera.
+<0010> Será mejor que esto se quede aquí.
+<0011> Una advertencia para todo aquél que me siga.
+<0012> ¡En marcha!
+<0013> ¡Aumentando el ritmo!
+<0014> ¡Es la hora de impulsarnos!
+<0015> ¡Máxima velocidad!
+<0016> ¿Pensabas que este sería el límite de nuestra velocidad? Piénsalo una vez más.
+<0017> ¿Podrás seguir corriendo...?
+<0018> La recarga se ha completado, es hora de irnos.
+<0019> Ya está, como si nada hubiera ocurrido.
+<0020> Ha quedado como nuevo.
+<0021> Sigue roto, ¿eh?
+<0022> Este viejo motor siempre ha traído problemas... ¡Vamos, ya!
+<0023> Tendremos que cambiar la rueda, ¿eh?
+<0024> ¿Esta parte también se ha roto...? Ya veo.
+<0025> ¡Apártate del camino!
+<0026> Será mejor que te apartes de mi camino.
+<0027> ¡Esquiva esto si quieres vivir!
+<0028> ¡Espero que tu piel sea lo suficientemente resistente!
+<0029> Nada que no pueda reparar.
+<0030> ¡Vaya, me han estropeado un poco!
+<0031> Muchos escombros están volando con el viento.
+<0032> ¡Eh, ten cuidado!
+<0033> Será algo rápido, pero estaremos bien.
+<0034> Con eso debería bastar.
+<0035> Podré seguir adelante.
+<0036> Ha quedado bien pulido.
+<0037> ¿O-oh...?
+<0038> Un camino es igual de bueno que los demás.
+<0039> Lo que importa es la aventura.
+<0040> ¿Una niebla repentina?
+<0041> Es la hora de hacer una parada.
+<0042> Hasta aquí llegaré hoy.
+<0043> ¡Ese viejo motor otra vez...!
+<0044> ¡¿Una falla mecánica?!
+<0045> Es una carrera de gallinas.
+<0046> ¿Podrás mantenerte al ritmo?
+<0047> Estás en mi camino.
+<0048> ¡Apártate!
+<0049> Déjame solo.
+<0050> ¿Podrías dejarme solo, por favor?
+<0051> ¿Por qué me molestas?
+<0052> Ten cuidado, podrían atropellarte.
+<0053> ¡Ahí!
+<0054> ¡Puedo verlo!
+<0055> ¡Ve!
+<0056> ¡Misiles fuera!
+<0057> ¡Hmh!
+<0058> No está mal.
+<0059> ¡Eh, cuidado con la pintura!
+<0060> ¡Será mejor que eso no deje una marca!
+<0061> ¡Eh! ¡Esa era una parte nueva!
+<0062> ¡Acababa de instalarla!
+<0063> ¡Guhh!
+<0064> ¡Augh!
+<0065> Sin problemas.
+<0066> Esto será muy fácil.
+<0067> Lo que importa es el control, no la velocidad.
+<0068> Toda la velocidad es relativa.
+<0069> ¡Good-bye!
+<0070> No intentes detenerme otra vez.
+<0071> Hasta nunca.
+<0072> Nadie podrá detenernos.
+<0073> Supongo que eso será todo...
+<0074> Parece que este será el final del camino, compañero.
+<0075> Tendré que dejar de correr por un tiempo...
+<0076> ...Me has atrapado.
+<0077> ¡A llenar el tanque!
+<0078> Lo mejor que puedes tener es un tanque lleno.
+<0079> Con esto estaré bien por el resto del día.
+<0080> ¡Reabasteciendo el combustible!
+<0081> Necesitaré más combustible muy pronto.
+<0082> El combustible se acaba...
+<0083> ¿Acaso podré seguir con lo que queda de él...?
+<0084> ¡¿Un hoyo en el tanque de combustible?!
+<0085> Solo es una pequeña roca en el camino.
+<0086> ¿Quién ha estado por aquí?
+<0087> ¿Acaso se reventó un neumático?
+<0088> ¡¿Minas terrestres?!
+<0089> ¡Nunca sabes que podrás encontrar en la carretera!
+<0090> Algo extraño se mete en mi camino.
+<0091> ¿Tú también intentarás detenerme?
+<0092> ¿Un espejismo? No, eso es...
+<0093> Solo necesito más combustible para seguir adelante.
+<0094> Estaré bien, siempre y cuando pueda conseguir más combustible.
+<0095> Encontrar suministros es la mayor prioridad.
+<0096> Tendré que mantenerme abastecido.
+<0097> A veces dejo que el ánimo me lleve.
+<0098> El viento no se detiene...
+<0099> Es la hora de una carrera.
+<0100> Mi sangre está en su límite el día de hoy.
+<0101> Soy un viajero solitario.
+<0102> No necesito compañía.
+<0103> Podrás conseguir un poco de espacio atrás si te comportas bien y no tocas nada.
+<0104> Haz lo que tú quieras.
+<0105> El camino nunca se acaba.
+<0106> Ningún camino es siempre el mismo.
+<0107> ¡Es la hora de poner el pedal en marcha!
+<0108> Iré por una victoria simple y fácil.
+<0109> La carretera me llama. ¡Hasta la vista!
+<0110> A veces puedes sentirte un poco solitario por aquí.
+<0111> Nadie podrá alcanzarme.
+<0112> Una navegación fácil.
+<0113> ¿Una nueva parte adicional?
+<0114> Esto podrá ser útil.
+<0115> Esto se verá bien en el parabrisas.
+<0116> Un trofeo más para el camino.
+<0117> Iré por mi camino ahora.
+<0118> Tú haz lo tuyo, y yo haré lo mío.
+<0119> ¿Podrías tomar el mando un segundo?
+<0120> Iré a tomar una siesta rápida. Cuida de las cosas mientras no estoy.
+<0121> Te tengo.
+<0122> ¡Muy bien!
+<0123> Comprendido.
+<0124> Mis viajes no son así.
+<0125> No te lo tomes muy a pecho.
+<0126> ¡Nunca sabes que podrás encontrar en el día!
+<0127> ¿Eh? ¿Qué?
+<0128> ¡Jii-yaah!
+<0129> ¡Vamos a rodar!
+<0130> ¡Hora de irnos!
+<0131> ¿Qué onda?
+<0132> Mmh...
+<0133> No está nada mal.
+<0134> Vaya, ¡qué sorprendente!
+<0135> Este no es nuestro día de suerte...
+<0136> Todo se encuentra en cómo lo uses.
+<0137> Todo lo que encuentro tiene un uso.
+<0138> Que objeto tan extraño. Veamos...
+<0139> Esto podría otorgarme el impulso que necesito.
+<0140> ¡No quiero que me sigan!
+<0141> Siento como todos los problemas del mundo se quedan atrás.
+<0142> Hasta luego, mi juventud...
+<0143> ¡Será mejor que mi vehículo no sea destrozado otra vez!
+<0144> ¡Pero si las reparaciones acaban de terminar!
+<0145> No, esta vez no.
+<0146> Esto sí que es vivir.
+<0147> Puedo desafiar a la velocidad del viento.
+<0148> Tú puedes ir más rápido, ¿no es así?
+<0149> El horizonte me llama.
+<0150> ¿Hm? Solo apártate de mi camino.
+<0151> ¿Cuántas veces debo decirles que no se metan en mis asuntos?
+<0152> O-oh, ¡¿una rueda pinchada?!
+<0153> La carretera es el romance de un hombre, ¿no?
+<0154> ¡Cambiando a modo de reversa!
+<0155> ¡Reversa!
+<0156> Este no es el camino correcto... deberíamos voltearnos.
+<0157> Esta es la mejor manera de librarse de las persecuciones.
+<0158> ¡Seré solitario, pero al menos no seré tan solitario contigo a mi lado!
+<0159> Me siento como en casa.

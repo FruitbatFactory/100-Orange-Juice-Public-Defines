@@ -1,0 +1,161 @@
+<000> Con elegancia.
+<001> Con certeza.
+<002> La dama de la suerte estará de mi lado.
+<003> Veamos.
+<004> Será mejor que no me subestimes.
+<005> Qué ridículo.
+<006> Con gracia.
+<007> No hay otra forma.
+<008> Yo me encargo de completar el trabajo con seguridad.
+<009> Esto parece ser correcto.
+<010> Será mejor que todos tengan cuidado por aquí.
+<011> Las probabilidades favorecen a las mentes preparadas.
+<012> Mejor cuidarse que arrepentirse.
+<013> Te acabaré.
+<014> Prepárate.
+<015> Esto se asegurará de acabar contigo.
+<016> Permíteme demostrar mi verdadero poder.
+<017> No volveré a colapsarme nuevamente.
+<018> Aún no estoy acabado.
+<019> Mi desgracia acaba aquí.
+<020> La hora de la siesta se ha acabado.
+<021> Ugh.
+<022> Oh cielos.
+<023> Estoy... decepcionado en mí mismo...
+<024> Argh...
+<025> *Gruñido*
+<026> ¡Roar!
+<027> Temédle a mi lado salvaje.
+<028> Hmph.
+<029> Guoh.
+<030> *Quejido*
+<031> Dios mío.
+<032> Ratas.
+<033> Hazle una caricia a mi cabeza.
+<034> ¿Acaso debería darte la pata?
+<035> Excelente.
+<036> Esto debe ser la definición de ser curado.
+<037> Oh.
+<038> ¿Qué es esto?
+<039> ¿Me estás llevando de paseo?
+<040> ¡Bow!
+<041> ¿Qué no es esto abuso animal?
+<042> ¿No crees que soy adorable?
+<043> Eso es algo muy horrible de hacer.
+<044> *Gimoteo*
+<045> Permíteme ver que llevas ahí.
+<046> Permíteme realizar el primer ataque.
+<047> Iré primero.
+<048> Mis garras son más peligrosas de lo que tú crees.
+<049> Tienes coraje, debo admitirlo.
+<050> Sabía que vendrías hasta mí.
+<051> Acepto tu desafío.
+<052> ¿Bow?
+<053> ¡Bow wow!
+<054> *Gruñido*
+<055> Toma mis garras.
+<056> Soy más que simplemente adorable.
+<057> Guh.
+<058> No puede ser.
+<059> Nuh.
+<060> ¿Podrías detenerte?
+<061> ¿Cómo es que puedes hacerle esto a alguien tan adorable como yo?
+<062> ¿Acaso eres una de esas personas que maltratan a los animales pequeños?
+<063> ¡Agh!
+<064> Estoy muy adolorido.
+<065> Eso no es nada.
+<066> Soy más rápido de lo que tú crees.
+<067> Tienes una horrible lentitud.
+<068> Hmph.
+<069> Ya está hecho.
+<070> Mira qué mal te ves ahora.
+<071> Deberías ser más inteligente al escoger tus batallas.
+<072> Eso ha sido tan fácil como caerse de un tronco.
+<073> Wafuu...
+<074> ¿Acaso no tienes piedad?
+<075> Estoy acabado.
+<076> Qué es lo que me han hecho...
+<077> Recibiré esto como una pensión adicional.
+<078> ¡Mira como brillan...!
+<079> Hermoso.
+<080> Me quedaré con esto.
+<081> Cómo se atreven a robarme.
+<082> Por todos los cielos...
+<083> No suelo ser así de torpe.
+<084> ¿Qué...? No puedo creer esto...
+<085> ¡Me he descuidado...!
+<086> Siento que debería cavar a-... ¿¡Es una trampa!?
+<087> Ratas, no soy un animal salvaje.
+<088> ¡¡¡Metí la pata!!!
+<089> Huelo algo peligroso.
+<090> Hmm, parece ser algo con fuerza.
+<091> Supongo que tendré que hacer más que verme esponjoso y adorable.
+<092> Siento algo inusual...
+<093> Supongo que escogeré esto.
+<094> Esta es la opción que necesito para demostrar mis habilidades.
+<095> Esto me ha hablado.
+<096> Este es el camino más corto hacia la victoria.
+<097> Ya era hora de liberar mi lado salvaje.
+<098> Los animales adorables también pueden ser muy letales.
+<099> Mis garras tienen mucho filo.
+<100> Usaré todo lo que tengo.
+<101> Yo soy Pomeranius.
+<102> ¿Acaso estás buscando que trabaje para ti?
+<103> Mis trabajos no son baratos.
+<104> Completaré este trabajo de forma perfecta.
+<105> Comencemos con el juego, ¿sí?
+<106> Qué emocionante.
+<107> Prometo regresar con la victoria en mis patas.
+<108> No sean tan rudos conmigo, ¿sí?
+<109> Este era el resultado más obvio.
+<110> La victoria es mía.
+<111> Este es definitivamente el mejor momento.
+<112> Me he divertido mucho estando aquí.
+<113> Tengo algo bueno para ti.
+<114> ¿Por qué no le echamos un vistazo a esto?
+<115> ¿Era esto lo que tú deseabas?
+<116> Me alegro de que sea de tu agrado.
+<117> Es hora de cambiar.
+<118> Dame una mano.
+<119> Me retiraré por el momento.
+<120> Creo en ti.
+<0121> Okay.
+<0122> Hmm, eso no está mal.
+<0123> Sí.
+<0124> No.
+<0125> *Quejido*
+<0126> La dama de la suerte está de mi lado.
+<0127> ¿Pero qué demonios...?
+<0128> Permitamos que el juego comience, ¿sí?
+<0129> ¡Bow!
+<0130> Tienes mi apoyo.
+<0131> Buenos días.
+<0132> Um.
+<0133> Bien.
+<0134> Muy bien.
+<0135> ¿Qué es lo que ocurre contigo?
+<0136> Esto parece ser bueno.
+<0137> Nunca había visto nada como esto.
+<0138> ¿Cómo te gustaría algo como esto?
+<0139> Incluso soy capaz de usar esto.
+<0140> Muchas gracias.
+<0141> Si esto es lo que mi señora desea.
+<0142> Por favor permíteme, mi señora.
+<0143> Eso fue impresionante, mi señora. Estuvo cerca de haberme derrotado.
+<0144> Excelente, mi señora.
+<0145> Esto es el amor.
+<0146> Aquí voy, mi señora.
+<0147> ¿Qué han hecho estas patas descuidadas?
+<0148> Eso fue magnífico, mi señora.
+<0149> Esta victoria irá hacia mi señora.
+<0150> Pequeña mocosa.
+<0151> ¿Quién te crees que eres?
+<0152> Al fin y al cabo, de eso eres capaz.
+<0153> Cómo es que esta mocosa pudo haberme derrotado...
+<0154> Un perro... o un humano... ¿qué eres tú?
+<0155> ¿¡Un monstruo mitad perro mitad humano!?
+<0156> Un medio-perro nunca podrá ser mejor que un perro de verdad.
+<0157> ¿Acaso esto significa que no soy un perro de verdad?
+<0158> Oh, tú sí que eres una belleza.
+<0159> Siempre estaremos juntos, ¿está bien?
+<0160> ¿Te gustaría ver lo adorable que mi mascota puede ser?

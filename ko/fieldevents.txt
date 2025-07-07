@@ -1,0 +1,116 @@
+
+< FIELDEVENT_NONE >
+name=없음
+descr=
+
+< FIELDEVENT_DEFAULT >
+name=기본
+descr=
+
+< FIELDEVENT_RANDOM >
+name=랜덤
+descr=
+
+< FIELDEVENT_BOSSENCOUNTER >
+name=보스 엔카운터
+descr=
+
+< FIELDEVENT_REGENERATION >
+name=재생
+descr=모든 유닛의 HP가 1 회복된다.\n\n빈도: 5챕터마다
+
+< FIELDEVENT_RANDOMWARP >
+name=랜덤 워프
+descr=모든 유닛이 무작위 칸으로 워프한다. \n\n빈도: 5챕터마다
+
+< FIELDEVENT_CHARITY >
+name=자선
+descr=모든 플레이어가 덱에서 카드를 한 장 뽑는다.\n\n빈도: 5챕터마다
+
+< FIELDEVENT_AIRRAID >
+name=공습
+descr=모든 유닛이 피해 1을 입는다.\n\n 빈도: 5챕터마다
+
+< FIELDEVENT_MINELAYER >
+name=마인레이어
+descr=트랩 카드가 무작위 칸에 한 장 세팅된다.\n\n빈도: 3챕터마다
+
+< FIELDEVENT_MIRACLE >
+name=기적
+descr=모든 배틀, 보너스, 드로우, 드롭 칸의 효과가 2배가 된다.\n\n빈도: 5챕터마다\n지속 시간: 1챕터
+
+< FIELDEVENT_BATTLEFIELD >
+name=전장
+descr=모든 보너스와 드롭 칸이 배틀 칸이 된다. \n\n빈도: 6챕터마다\n지속 시간: 3챕터
+
+< FIELDEVENT_CONFUSION >
+name=혼란
+descr=모든 플레이어의 패가 뒤섞여, 정면을 볼 수 없게 된다.\n\n빈도: 7챕터마다\n지속 시간: 1챕터
+
+< FIELDEVENT_BACKTRACK >
+name=백트랙
+descr=모든 유닛의 진행 방향이 반대가 된다.\n\n빈도: 8챕터마다\n지속 시간: 1챕터
+
+< FIELDEVENT_SPRINT >
+name=질주
+descr=이동 주사위가 2개가 된다.\n(최대 4개)\n\n빈도: 6챕터마다\n지속 시간: 1챕터
+
+< FIELDEVENT_HOMEROULETTE >
+name=홈 룰렛
+descr=모든 홈이 뒤섞인다.\n\n빈도: 9챕터마다
+
+< FIELDEVENT_BOMBER >
+name=봄버
+descr=폭탄이 무작위 칸에 하나 세팅되어 1~4챕터 뒤에 십자 모양으로 폭발하여,\n 범위 내 플레이어에게 피해 2를 준다.\n\n빈도: 2챕터마다
+
+< FIELDEVENT_MYSTERY >
+name=미스터리
+descr=무작위로 선택된 필드 이벤트가 하나 발생한다.\n\n빈도: 5챕터마다
+
+< FIELDEVENT_FREEZE >
+name=프리즈
+descr=필드의 얼지 않은 패널의 1/3을 얼려 아이스 패널로 만든다.\n\n빈도: 5챕터마다\n지속 시간: 1챕터
+
+< FIELDEVENT_TREASURE >
+name=보물
+descr=무작위 패널에 보너스가 담긴 보물 상자가 놓인다.\n상자를 열려면 그 패널에서 멈춰야 한다.\n\n빈도: 5챕터마다
+
+< FIELDEVENT_AMP >
+name=증폭
+descr=무작위 배틀 능력치가 1 상승한다.\n\n빈도: 6챕터마다\n지속 시간: 2챕터
+
+< FIELDEVENT_PLAYGROUND >
+name=놀이터
+descr=놀이터 패널에 멈춰 미니게임을 한다.\n\n빈도: 5챕터마다
+
+< FIELDEVENT_TERROR >
+name=공포
+descr=일부 패널들이 조나단과 싸울 수 있도록 변한다.\n빈도: 변동 있음.\n지속 시간: 1챕터
+
+< FIELDEVENT_GOO >
+name=끈적이
+descr=필드에서 끈적이가 없는 패널의 1/3을 1챕터동안 끈적이로 덮는다.\n\n빈도: 5챕터마다
+
+< FIELDEVENT_FISHING >
+name=생선 낚시
+descr=다른 플레이어에게 낚시 미니게임으로 도전한다.\n\n빈도: 9챕터마다
+
+< FIELDEVENT_SPORES >
+name=포자
+descr=필드에 버섯이 나타난다.\n\n빈도: 3챕터마다
+
+< FIELDEVENT_CHAOS_BATTLEFIELD >
+name=혼돈의 전장
+descr=
+
+< FIELDEVENT_CHAOS_STARVATION >
+name=기아
+descr=
+
+< FIELDEVENT_CHAOS_OVERINDULGENCE >
+name=과잉섭식
+descr=
+
+< FIELDEVENT_CONVERGENCE >
+name=수렴
+descr=현재 필드가 다른 무작위 필드로 변경된다.\n\n빈도: 6챕터마다

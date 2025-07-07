@@ -1,0 +1,121 @@
+< CARD_SHROOM_BLUE >
+name=파랑 버섯
+descr=이상한 냄새가 난다.
+
+< CARD_SHROOM_BROWN >
+name=갈색 버섯
+descr=이상한 냄새가 난다.
+
+< CARD_SHROOM_GREEN >
+name=초록 버섯
+descr=이상한 냄새가 난다.
+
+< CARD_SHROOM_ORANGE >
+name=주황 버섯
+descr=이상한 냄새가 난다.
+
+< CARD_SHROOM_PINK >
+name=분홍 버섯
+descr=이상한 냄새가 난다.
+
+< CARD_SHROOM_PURPLE >
+name=보라 버섯
+descr=이상한 냄새가 난다.
+
+< CARD_SHROOM_RAINBOW >
+name=무지개 버섯
+descr=이상한 냄새가 난다.
+
+< CARD_SHROOM_RED >
+name=빨강 버섯
+descr=이상한 냄새가 난다.
+
+< CARD_SHROOM_WHITE >
+name=하양 버섯
+descr=이상한 냄새가 난다.
+
+< CARD_SHROOM_YELLOW >
+name=노랑 버섯
+descr=이상한 냄새가 난다.
+
+< CARD_SHROOM_PHANTOMBLUE >
+name=진파랑 버섯
+descr=이상한 냄새가 진하게 난다.
+
+< CARD_SHROOM_LEGENDARYRED >
+name=전설의 빨강 버섯
+descr=지독하게 이상한 냄새가 난다.
+
+< CARD_SHROOM_MOVEUP >
+descr=다음 이동 굴림에서 이동력을 +%d 얻는다.
+
+< CARD_SHROOM_MOVEDOWN >
+descr=다음 이동 굴림에서 이동력을 -%d 얻는다.
+
+< CARD_SHROOM_GAINSTARS >
+descr=레벨 x %d스타를 얻는다.
+
+< CARD_SHROOM_LOSESTARS >
+descr=레벨 x %d스타를 잃는다.
+
+< CARD_SHROOM_HEALTHUP >
+descr=HP를 %d 획득한다.
+
+< CARD_SHROOM_HEALTHDOWN >
+descr=HP를 %d 잃는다.
+
+< CARD_SHROOM_ATTACKUP >
+descr=이 배틀 동안 공격력을 +%d 얻는다.
+
+< CARD_SHROOM_ATTACKDOWN >
+descr=이 배틀 동안 공격력을 -%d 얻는다.
+
+< CARD_SHROOM_DEFENSEUP >
+descr=이 배틀 동안 방어력을 +%d 얻는다.
+
+< CARD_SHROOM_DEFENSEDOWN >
+descr=이 배틀 동안 방어력을 -%d 얻는다.
+
+< CARD_SHROOM_EVADEUP >
+descr=이 배틀 동안 회피력을 +%d 얻는다.
+
+< CARD_SHROOM_EVADEDOWN >
+descr=이 배틀 동안 회피력을 -%d 얻는다.
+
+< CARD_SHROOM_HEAL >
+descr=HP를 %d 회복한다.
+
+< CARD_SHROOM_DAMAGE >
+descr=피해를 %d 받는다.
+
+< CARD_SHROOM_ROLLONE >
+descr=이 배틀 동안 주사위에서 1만 나온다.
+
+< CARD_SHROOM_ROLLSIX >
+descr=이 배틀 동안 주사위에서 6만 나온다.
+
+< CARD_SHROOM_FROSTWALKER >
+descr=%d챕터 동안 프로스트워커를 얻는다.
+
+< CARD_SHROOM_WARP >
+descr=무작위 패널로 워프한다.
+
+< CARD_SHROOM_CONFUSION >
+descr=%d챕터동안 패가 모두 반전(카드를 뒷면밖에 볼 수 없으며 다른 플레이어에게는 카드의 앞면이 보임)된다.
+
+< CARD_SHROOM_DRAW >
+descr=카드 2장을 뽑는다.
+
+< CARD_SHROOM_DISCARD >
+descr=무작위로 패 1장을 버린다.
+
+< CARD_SHROOM_WIN >
+descr=1승을 얻는다.
+
+< CARD_SHROOM_LEGEND_STARS >
+descr=스타를 얻을 때마다 레벨 만큼의 스타를 추가로 얻는다. 배틀에서 KO당할 시, 승자가 플레이어일 경우 승자가 이 카드를 가진다.
+
+< CARD_SHROOM_LEGEND_WINS >
+descr=승리 수를 얻을 때마다 1승을 추가로 얻는다. 배틀에서 KO당할 시, 승자가 플레이어일 경우 승자가 이 카드를 가진다.
+
+[EOF]

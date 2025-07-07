@@ -1,0 +1,160 @@
+<0000> Faster.
+<0001> Watch these moves.
+<0002> Let's ride.
+<0003> That way!
+<0004> I play my cards close to my chest.
+<0005> It's time - boost the engines!
+<0006> I'll activate the boosters!
+<0007> There's nothing my partner here can't do.
+<0008> Watch out for the bump.
+<0009> I'd take a detour around here if I were you.
+<0010> It's best if this stays buried here.
+<0011> A warning for any who'd follow.
+<0012> Full throttle!
+<0013> Shift up!
+<0014> Time for a boost!
+<0015> Full speed ahead!
+<0016> You thought this is our top speed? Think again.
+<0017> Can you still run...?
+<0018> Refueling complete, it's time to go.
+<0019> There, all patched up.
+<0020> Good as new again.
+<0021> Still busted, huh.
+<0022> This old engine, always giving me trouble. C'mon now!
+<0023> Gotta swap the tire, huh...
+<0024> So this part is busted too... Got it.
+<0025> Outta the way!
+<0026> You'd better get out of the way.
+<0027> Dodge if you value your life!
+<0028> I hope you got a sturdy hide!
+<0029> Nothing I can't fix.
+<0030> Getting a little banged up!
+<0031> Lots of debris in the wind today.
+<0032> Hey, watch it!
+<0033> Just a quick fix, but it'll do.
+<0034> That should take care of it.
+<0035> I can keep going again.
+<0036> That's a good polish.
+<0037> O-oh...?
+<0038> One road is as good as another.
+<0039> It's the journey that matters.
+<0040> A sudden fog?
+<0041> Time for a rest stop.
+<0042> This is as far as I go today.
+<0043> Not the engine again!
+<0044> A mechanical failure?!
+<0045> It's a game of chicken.
+<0046> Can you keep up with me?
+<0047> You're in my way.
+<0048> Make way!
+<0049> Leave me alone.
+<0050> Let me be, will you?
+<0051> Why do you bother me?
+<0052> Be careful you don't end up roadkill.
+<0053> There!
+<0054> I can see it!
+<0055> Go!
+<0056> Missiles go!
+<0057> Hmh!
+<0058> Not too bad.
+<0059> Hey, mind the chrome!
+<0060> That'd better not leave a mark!
+<0061> Hey! That's a new part!
+<0062> I just installed that!
+<0063> Guhh!
+<0064> Augh!
+<0065> No sweat.
+<0066> I got this, easy.
+<0067> It's not about speed, it's about control.
+<0068> All speed is relative.
+<0069> Adios!
+<0070> Don't try to stop me again.
+<0071> So long.
+<0072> No one can stop my ride.
+<0073> Guess I'm done for...
+<0074> Seems like it's the end of the road, old buddy.
+<0075> Looks like I have to stop running now, huh...
+<0076> ...You got me.
+<0077> Fill her up!
+<0078> A full tank is best.
+<0079> With this, I can keep going all day.
+<0080> Refueling!
+<0081> I'll need to refuel soon.
+<0082> Getting low on fuel...
+<0083> Can I afford to stock up...
+<0084> A hole in the fuel tank?!
+<0085> Just a little bump in the road.
+<0086> Who's been littering here?
+<0087> Did I just blow a tire?
+<0088> Land mines?!
+<0089> You never know what you'll meet on the road!
+<0090> Something strange stands in my way.
+<0091> Do you mean to stop me too?
+<0092> A mirage? No, that's...
+<0093> All I need is the fuel to keep me going.
+<0094> As long as I can refuel, I'll be fine.
+<0095> Finding supplies is a high priority.
+<0096> Gotta stay stocked up.
+<0097> Sometimes I let the mood take me.
+<0098> The wind is restless today...
+<0099> I feel it's time to race.
+<0100> My blood is up tonight.
+<0101> I ride alone.
+<0102> I don't need company.
+<0103> There's room in the back if you behave yourself. And touch nothing.
+<0104> Do as you please.
+<0105> The road never ends.
+<0106> No path is the same twice.
+<0107> It's time to put the pedal to the metal!
+<0108> I'll cruise to an easy victory.
+<0109> The road is calling. So long!
+<0110> It's sometimes lonely up top.
+<0111> No one can keep up with me.
+<0112> Easy cruising.
+<0113> A new spare part?
+<0114> This could be useful.
+<0115> This will look good on the windshield.
+<0116> Another trophy from the road.
+<0117> I'll go my way now.
+<0118> You do your thing, I'll do mine.
+<0119> Can you take the wheel for a while?
+<0120> I'll take a power nap. Take care of things for a while.
+<0121> Gotcha.
+<0122> Alright!
+<0123> Roger that.
+<0124> That's not how I ride.
+<0125> Well, don't take it to heart.
+<0126> You never know what the day will bring!
+<0127> Eh, what?
+<0128> Hee-yaah!
+<0129> Let's roll out!
+<0130> It's go time!
+<0131> Sup?
+<0132> Mmh...
+<0133> Not bad at all.
+<0134> Well I'll be!
+<0135> Ugh, this isn't our lucky day...
+<0136> It's all in how you use it.
+<0137> I put anything I find to use.
+<0138> What a strange gadget. Let's see what it does.
+<0139> Maybe this will give me the boost I need.
+<0140> Don't follow me!
+<0141> I feel like all the burdens of the world are left behind.
+<0142> So long, my youth...
+<0143> You'd better not wreck my ride again!
+<0144> Just when I'd gotten her all fixed up!
+<0145> Not this time, you don't.
+<0146> Now this is living.
+<0147> I can race the wind.
+<0148> You can still go faster, can't you?
+<0149> The horizon is calling.
+<0150> Hm? Just don't get in my way.
+<0151> How many times do I have to tell you guys to stay out of this?
+<0152> O-oh, a flat tire?!
+<0153> The road is a man's romance, huh?
+<0154> Shifting to reverse gear!
+<0155> Reverse!
+<0156> Wrong turn... let's backtrack a little.
+<0157> This is the best way to throw off pursuit.
+<0158> I may be alone, but I won't be lonely as long as I've got you!
+<0159> Feels like home.

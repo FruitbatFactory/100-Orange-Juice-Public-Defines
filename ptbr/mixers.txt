@@ -1,0 +1,111 @@
+< MIXER_AIR_RAID >
+name=Ataque Aéreo
+descr=Todos os jogadores tomam um de dano no começo do Capítulo.
+
+< MIXER_AMPLIFY >
+name=Amplificar
+descr=Todas as unidades vão receber aleatoriamente +1 de bônus para seu atributo de ATK, DEF ou EVD. Este efeito dura 2 Capítulos.
+
+< MIXER_BACKTRACK >
+name=Sentido oposto
+descr=A direção de movimento é invertida para todas as unidades. Esse efeito dura durante todo o Capítulo.
+
+< MIXER_BOMBER >
+name=Bombardeiro
+descr=Coloque uma bomba visível em um painel aleatório. Uma bomba irá explodir em 1 a 4 capítulos, e as unidades em até 2 painéis de distância em uma área no formato de cruz tomarão dano.
+
+< MIXER_CHARITY >
+name=Caridade
+descr=Todos os jogadores compram uma carta extra no começo do Capítulo.
+
+< MIXER_CONFUSION >
+name=Confusão
+descr=Todas as cartas da mão do jogador são embaralhadas e colocadas viradas para baixo, não podem ser vistas por ele ou por outros jogadores.
+
+< MIXER_FREEZE >
+name=Congelar
+descr=1/3 dos painéis se tornam congelados.
+
+< MIXER_MINELAYER >
+name=Campo minado
+descr=Uma armadilha é colocada em um painél aleatório.
+
+< MIXER_MIRACLE >
+name=Milagre
+descr=Jogue 2 dados para bônus, perda, movimento e teleporte. Ganhe duas vitórias em batalhas. Compre duas cartas. Cure 2HP.
+
+< MIXER_RANDOM_WARP >
+name=Teleporte Aleatório
+descr=Todos os jogadores são teleportados para painéis aleatórios no começo do Capítulo.
+
+< MIXER_REGENERATION >
+name=Regeneração
+descr=Todos os jogadores recuperam 1 HP no começo do Capítulo.
+
+< MIXER_SPRINT >
+name=Corrida de velocidade
+descr=Todas as unidades ganham o dobro de dados na rolagem de Movimento.
+
+< MIXER_TREASURE >
+name=Tesouro
+descr=Uma caixa de tesouro é colocada em um painél aleatório.
+
+< MIXER_HEALTHY_BOSS >
+name=Chefão saudável
+descr=Chefão terá um adicional de 10 HP.
+
+< MIXER_STAR_CHASER >
+name=Star-chaser
+descr=Efeito permanente de "Bônus Natalino" em todos os jogadores.
+
+< MIXER_BEGGAR >
+name=Pedinte
+descr=Perca o dobro de estrelas em painéis de perda.
+
+< MIXER_AGGRESSIVE_HEROES >
+name=Atacante
+descr=Todos os aliados ganham um adicional de +1 em ATK.
+
+< MIXER_DEFENSIVE_HEROES >
+name=Guardião
+descr=Todos os aliados ganham um adicional de +1 em DEF.
+
+< MIXER_EVASIVE_HEROES >
+name=Suporte
+descr=Todos os aliados ganham um adicional de +1 em EVD.
+
+< MIXER_BLAZING >
+name=Estou em Chamas!
+descr=Todas as unidades ganharam +1 ATK e +1 DEF.
+
+< MIXER_FLIPPED >
+name=Virado
+descr=Atributos das unidades serão invertidos no começo da batalha.
+
+< MIXER_MENACING_BOSS >
+name=Ameaçador
+descr=Chefão possui +1 ATK.
+
+< MIXER_HARD_SHELLED_BOSS >
+name=Casco duro
+descr=Chefão possui +1 DEF.
+
+< MIXER_SLIPPERY_BOSS >
+name=Onipresença
+descr=Chefão possui +1 EVD.
+
+< MIXER_JOKER >
+name=Coringa
+descr=Todas as cartas podem ser jogadas sem nenhum custo.
+
+< MIXER_BANKRUPT >
+name=Pedir falência
+descr=Os custos das cartas são aumentados em 10 estrelas.
+
+< MIXER_GOO >
+name=Barro
+descr=Um terço dos painéis sem barro no campo serão cobertos por barro durante um capítulo.
+
+< MIXER_SPORES >
+name=Esporos
+descr=Cogumelos aparecerão em campo.

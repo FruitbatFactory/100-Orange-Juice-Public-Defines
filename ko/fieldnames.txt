@@ -1,0 +1,231 @@
+
+< FIELD_RANDOM >
+랜덤
+
+< FIELD_UNKNOWN >
+불명
+
+< FIELD_PRACTICE >
+연습 필드
+
+< FIELD_SPACEWANDERER >
+불가사의 우주
+
+< FIELD_PUDDINGCHASE >
+오후께의 가로수길
+
+< FIELD_CHRISTMASMIRACLE >
+거룩한 밤
+
+< FIELD_PLANETEARTH >
+초록 지구별
+
+< FIELD_LAGOONFLIGHT >
+라군 플라이트
+
+< FIELD_WARFARE >
+격전지대
+
+< FIELD_HIGHWAYHEIST >
+미드나잇 하이웨이
+
+< FIELD_SEALEDARCHIVE >
+봉인의 틈
+
+< FIELD_SUNSET >
+선셋 시티
+
+< FIELD_TOMOMOABYSS >
+토모모 공간
+
+< FIELD_WHITEWINTER >
+하얀 겨울
+
+< FIELD_NIGHTFLIGHT >
+야간 비행
+
+< FIELD_CLOVER >
+클로버
+
+< FIELD_FARM >
+농장
+
+< FIELD_STARCIRCUIT >
+스타 서킷
+
+< FIELD_TRAININGPROGRAM >
+훈련 프로그램
+
+< FIELD_VORTEX >
+소용돌이
+
+< FIELD_SWEETHEAVEN >
+과자 천국
+
+< FIELD_STARSHIP >
+우주선
+
+< FIELD_FROSTCAVE >
+얼음 동굴
+
+< FIELD_SHIPYARD >
+조선소
+
+< FIELD_TREASUREISLAND >
+보물섬
+
+< FIELD_TREASUREISLANDNIGHT >
+보물섬 (밤)
+
+< FIELD_WITCHFOREST >
+마녀의 숲
+
+< FIELD_ICYHIDEOUT >
+꽁꽁 아지트
+
+< FIELD_SAKURA >
+사쿠라 스맥다운
+
+< FIELD_WORKSHOP >
+산타의 공작소
+
+< FIELD_OCEANDIVE >
+오션 다이브
+
+< FIELD_OVERTHESEA >
+바다 건너
+
+< FIELD_DARKCITADEL >
+어스름 나라
+
+< FIELD_BEGINNERTOWN >
+초보자 마을
+
+< FIELD_SCARREDLAND >
+갈라진 땅
+ 
+< FIELD_FUNGUSCAVE >
+버섯 동굴
+ 
+< FIELD_WINTERTOWN >
+초보자 마을 (겨울)
+ 
+< FIELD_DESERT >
+고독한 레일웨이
+ 
+< FIELD_CIRCUS >
+서커스
+ 
+< FIELD_VOID >
+공허
+ 
+ < FIELD_PURES >
+퓨어즈 스탬프 랠리
+ 
+< FIELD_COOP_LAGOONFLIGHT >
+라군 플라이트: 협
+
+< FIELD_COOP_SUNSET >
+선셋 시티: 협
+
+< FIELD_COOP_POPPOABYSS >
+폿포 공간
+
+< FIELD_COOP_STARCIRCUIT >
+스타 서킷: 협
+
+< FIELD_COOP_SPACEWANDERER >
+불가사의 우주: 협
+
+< FIELD_COOP_HIGHWAYHEIST >
+미드나잇 하이웨이: 협
+
+< FIELD_COOP_FARM >
+농장: 협
+
+< FIELD_COOP_SHIPYARD >
+조선소: 협
+
+< FIELD_COOP_TRAININGPROGRAM >
+훈련 프로그램: 협
+
+< FIELD_COOP_NIGHTFLIGHT >
+야간 비행: 협
+
+< FIELD_COOP_VORTEX >
+소용돌이: 협
+
+< FIELD_COOP_CYBERSPACE >
+사이버 공간
+
+< FIELD_COOP_PLANETEARTH >
+초록 지구별: 협
+
+< FIELD_COOP_WITCHFOREST >
+마녀의 숲: 협
+
+< FIELD_COOP_WORKSHOP >
+산타의 공작소: 협
+
+< FIELD_COOP_SAKURA >
+사쿠라 스맥다운: 협
+
+< FIELD_COOP_PUDDINGCHASE >
+오후께의 가로수길: 협
+
+< FIELD_COOP_TREASUREISLAND >
+보물섬: 협
+
+< FIELD_COOP_TREASUREISLANDNIGHT >
+보물섬 (밤): 협
+
+< FIELD_COOP_OCEANDIVE >
+오션 다이브: 협
+
+< FIELD_COOP_OVERTHESEA >
+바다 건너: 협
+
+< FIELD_COOP_CLOVER >
+클로버: 협
+
+< FIELD_COOP_FROSTCAVE >
+얼음 동굴: 협
+
+< FIELD_COOP_ICYHIDEOUT >
+꽁꽁 아지트: 협
+
+< FIELD_COOP_STARSHIP >
+우주선: 협
+
+< FIELD_COOP_TOMOMOABYSS >
+토모모 공간: 협
+
+< FIELD_COOP_WHITEWINTER >
+하얀 겨울: 협
+
+< FIELD_COOP_BEGINNERTOWN >
+초보자 마을: 협
+
+< FIELD_COOP_CHRISTMASMIRACLE >
+거룩한 밤: 협
+
+< FIELD_COOP_DARKCITADEL >
+어스름 나라: 협
+
+< FIELD_COOP_FUNGUSCAVE >
+버섯 동굴: 협
+
+< FIELD_COOP_PRACTICEFIELD >
+연습 필드: 협
+
+< FIELD_COOP_SEALEDARCHIVE >
+봉인의 틈: 협
+
+< FIELD_COOP_SWEETHEAVEN >
+과자 천국: 협
+
+< FIELD_COOP_WHIRLPOOL >
+회오리 풀장
+
+[EOF]
+

@@ -1,0 +1,161 @@
+<0000> Joi.
+<0001> Aquí.
+<0002> Aquí voy.
+<0003> Ahí.
+<0004> Usaré una carta.
+<0005> ¡Ya está!
+<0006> Son cartas, nada serio.
+<0007> Muy bien, iré con esto.
+<0008> Ku-ku-ku.
+<0009> Dejaré algo pequeño por aquí...
+<0010> Esto será divertido.
+<0011> Ten, una trampa.
+<0012> Kujiji.
+<0013> Prepárate para ver esto.
+<0014> Seré más salvaje.
+<0015> ¡Cómete esto!
+<0016> ¡Fujajajaja! ¡Témanme!
+<0017> ¡Ohh síii!
+<0018> Supongo que es la hora de volver a la acción.
+<0019> Bien, ya estaba cansada de dormir sobre los laureles.
+<0020> El juego no ha acabado aún.
+<0021> ¿Qué? ¿De verdad?
+<0022> ¿Aaaargh?
+<0023> Debes estar bromeando.
+<0024> Esto apesta demasiado.
+<0025> ¡Ahí!
+<0026> ¡Shaah!
+<0027> ¡Atah!
+<0028> ¡Uryah!
+<0029> ¡Gya!
+<0030> No está mal.
+<0031> ¡Demonios!
+<0032> ¡Ugh!
+<0033> Esa es una gran ayuda.
+<0034> Oh, esto me gusta.
+<0035> Eso se siente bien.
+<0036> Esto es genial.
+<0037> ¿¡Jowah!?
+<0038> Owawah.
+<0039> ¡Meow!
+<0040> ¿¡Qué rayos está ocurriendo!?
+<0041> ¡Gooo!
+<0042> No puede ser...
+<0043> ¿Cómo le puede pasar algo así a alguien como yo?
+<0044> Ugu-ugu...
+<0045> ¡Fujajaja!
+<0046> ¡Aquí voy!
+<0047> ¡Te encontré!
+<0048> ¡Ven a pelear!
+<0049> Imprudente es lo que eres.
+<0050> Oh, ¿quieres un poco de esto?
+<0051> Muy bien, intenta vencerme.
+<0052> No puedo creer que estés buscando una pelea con alguien de mi estilo...
+<0053> ¡Ora!
+<0054> ¡Toma eso!
+<0055> ¡Sey!
+<0056> ¡Yah!
+<0057> ¡Ow!
+<0058> ¡Ouch!
+<0059> ¡Koooo!
+<0060> ¡Eso arde...!
+<0061> ¡Gyaaa!
+<0062> ¡Guwaah!
+<0063> ¡Imbécil! ¡¿Qué rayos te pasa?!
+<0064> ¡Bueeeeh!
+<0065> ¡Admirad mi agilidad!
+<0066> Esquivar eso fue muy fácil.
+<0067> Hoh.
+<0068> Hmph, qué torpe.
+<0069> Esto siempre acabará de la misma forma.
+<0070> Hablar de esto no valdrá la pena.
+<0071> Pensaba que podías hacer algo un poco mejor.
+<0072> Qué débil.
+<0073> Pero... qué...
+<0074> Perdí...
+<0075> ¡Debería haber sido más cuidadosa...!
+<0076> No puedo creer esto...
+<0077> Muy bien, estas estrellas serán mías.
+<0078> Me llevaré estas.
+<0079> Las aceptaré con mucho gusto.
+<0080> Qué buena sorpresa.
+<0081> ¡Eh, espera!
+<0082> Demonios, cometí un error.
+<0083> Esto es ridículo.
+<0084> ¡Ah, rayos!
+<0085> ¡Tú...!
+<0086> ¡¿P-por qué demonios tenía que estar aquí?!
+<0087> ¡¿Quién rayos dejó esto aquí?!
+<0088> ¡Maldita sea!
+<0089> Esto me agrada.
+<0090> Una parte de mi piensa que esto será divertido.
+<0091> Las cosas están siendo un poco salvajes por aquí.
+<0092> Aquí viene.
+<0093> Haré que todas las estrellas del mundo sean mías.
+<0094> Me haré multimillonaria.
+<0095> Kukuku, el dinero hace que el mundo gire.
+<0096> Conseguiré muchas de ellas...
+<0097> Todos se rendirán ante mis poderes.
+<0098> La fuerza es todo lo que importa.
+<0099> Ansío tener una buena pelea.
+<0100> Haré la guerra.
+<0101> ¿Crees que tienes lo que se necesita para seguirme?
+<0102> Bien, es hora de moverse.
+<0103> Veamos, ¿qué debería hacer para burlarme de los demás?
+<0104> El objetivo de este juego será divertirse, ¿entendido?
+<0105> El juego ha comenzado.
+<0106> Kukuku, yo seré la ganadora.
+<0107> Bien, hagámoslo.
+<0108> Ganar este juego será muy fácil.
+<0109> Bueno, esta no es una sorpresa.
+<0110> Todos ustedes trabajarán para mí.
+<0111> Qué victoria tan fácil, fufufu.
+<0112> Kukuku, tal como lo había planeado.
+<0113> Oh, eso se ve fantástico.
+<0114> ¡Hemos conseguido lo mejor de lo mejor!
+<0115> ¡Ahora es nuestro!
+<0116> ¡Oooooh!
+<0117> ¿Te importaría seguirlo desde aquí por mí?
+<0118> Muy bien, es tu turno.
+<0119> Puedes encargarte del resto, ¿sí?
+<0120> Buena suerte ahí afuera.
+<0121> Okay.
+<0122> Wow.
+<0123> ¡Bien!
+<0124> ¡No!
+<0125> ¿Pero qué demonios?
+<0126> Hoy es mi día de suerte.
+<0127> ¿Qué rayos~?
+<0128> Hora de irnos.
+<0129> Aquí va.
+<0130> ¡Ve, ve!
+<0131> ¡Yo!
+<0132> ¿Ngaah?
+<0133> Oh, buen trabajo.
+<0134> Has superado mis expectativas. Bien hecho.
+<0135> ¡Hijo de pulga!
+<0136> ¡Ni siquiera sé qué es lo que esto puede hacer!
+<0137> ¡Ahora tu habilidad es mi habilidad!
+<0138> ¡Esto no es mío, pero eso no me importa!
+<0139> ¡Nunca había visto una carta como esta!
+<0140> Saludos.
+<0141> Q... ¡¿Quién rayos eres tú?!
+<0142> Tú... ¿Ahora eres un hombre?
+<0143> ¿Q-qué es lo que le sucede a este tipo...?
+<0144> Estoy tan confundida...
+<0145> ¡Kukuku! ¡Ahora he obtenido el control sobre el juego!
+<0146> Ahora no tienen escapatoria.
+<0147> ¡Esto es de lo que soy capaz!
+<0148> Fufufu, será mejor que corran por sus vidas.
+<0149> Siento el olor de muchos perros por aquí...
+<0150> Claramente te ves como una villana.
+<0151> Ugh, parece que tú me darás problemas.
+<0152> Ahora sabemos quién de las dos es la mejor villana.
+<0153> Ugh, qué extraña tan rara...
+<0154> ¡Pedazo de chatarra!
+<0155> ¿¡Estás traicionándome!?
+<0156> Seguirás trabajando para mí, ¿entendido?
+<0157> M-mi sirviente se ha convertido en un rebelde...
+<0158> Tú serás mi comida.
+<0159> Oh, esto parece ser interesante.
+<0160> Hora de cazar ratas.

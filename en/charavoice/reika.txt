@@ -1,0 +1,161 @@
+<0000> Here.
+<0001> Phew.
+<0002> Hoh.
+<0003> Yah!
+<0004> Time to go on the offensive?
+<0005> Guess what I'm holding here?
+<0006> I'm starting to enjoy this.
+<0007> Ufufufu.
+<0008> I feel like being a little mean.
+<0009> I'm setting a trap here.
+<0010> Maybe someone'll step on it here.
+<0011> Fufu, guess what I just set here?
+<0012> A battle card?
+<0013> I think this is where I should play a card.
+<0014> I'm going to count on this one.
+<0015> Because I don't want to lose the game.
+<0016> Fufu, ahahaha!
+<0017> Hmm, I really went through a rough patch.
+<0018> Geez, what was that about?
+<0019> Huh? Was I asleep?
+<0020> I'll be the one to shine from this moment on.
+<0021> I'm getting sick of this...
+<0022> Come on.
+<0023> Is it normal to fail this so often?
+<0024> Why does it have to be like this?
+<0025> Ey.
+<0026> Eeey.
+<0027> *Bonk bonk*
+<0028> How was that?
+<0029> Hey.
+<0030> What's wrong with you?
+<0031> Stop it.
+<0032> Ugh.
+<0033> Staying calm is the key.
+<0034> Yes, this is just what I needed.
+<0035> I'd rather not push myself.
+<0036> Being in good shape is important.
+<0037> Huuuh?
+<0038> Oh my?
+<0039> What's this?
+<0040> A forced move?
+<0041> That does it. I'm taking a nap.
+<0042> I won't budge ever again.
+<0043> Good night.
+<0044> Boo.
+<0045> I'm feeling good.
+<0046> I'll get aggressive from here on.
+<0047> Fufufu, it's my turn.
+<0048> Are you spacing out?
+<0049> Fufu, let's play.
+<0050> Whoa, what do you want from me?
+<0051> You seem raring to fight me.
+<0052> I'm not that easy to beat.
+<0053> Yah!
+<0054> How'd you like this?
+<0055> Take this.
+<0056> Here's my attack.
+<0057> Ugh!
+<0058> Mhmm.
+<0059> Why, you.
+<0060> Huh?
+<0061> How can you be so cruel?
+<0062> You want to make me cry?
+<0063> You jerk.
+<0064> I hate you!
+<0065> That was so close.
+<0066> Whoaah!
+<0067> Whoa, that was a close one.
+<0068> *Sigh* What a surprise.
+<0069> So I won?
+<0070> It worked out somehow.
+<0071> I thought I'd lose the battle.
+<0072> That was quite thrilling.
+<0073> Bully...
+<0074> This is terrible...
+<0075> Gee, look how worn out I am.
+<0076> I can't believe you've done this to me.
+<0077> More points obtained.
+<0078> Oh, I'm doing pretty well.
+<0079> Fufu, this is getting fun.
+<0080> I'm playing well, aren't I?
+<0081> These are very mean panels.
+<0082> Huh? How's this even allowed?
+<0083> Hey!
+<0084> This actually puts me off.
+<0085> What a rough deal.
+<0086> Gee, this is tricky.
+<0087> What a spiteful trap.
+<0088> I'm mad.
+<0089> A boss character?
+<0090> I'd rather not be around you.
+<0091> Whoa, I'm scared.
+<0092> Why should I bother to deal with you?
+<0093> I'm supposed to score a lot, correct?
+<0094> I like simple rules.
+<0095> So this game's about gathering stars, huh.
+<0096> Fufufu, I think this is going to be fun.
+<0097> Actually, I'm not a big fan of exercising.
+<0098> To tell the truth, I'm bad at things like this.
+<0099> Hmm, I'm not sure I can do this well.
+<0100> I'm not confident about this.
+<0101> You need me? Okay then, let's go play.
+<0102> Good timing - I have nothing to do right now.
+<0103> I'm Reika. Nice to meet you.
+<0104> Why don't you give me some of your time?
+<0105> Fufufu.
+<0106> So it begins.
+<0107> I take games seriously too.
+<0108> How should I play this game?
+<0109> Oh my, I won.
+<0110> I did it! I'm so happy!
+<0111> Fufufu, ahahaha.
+<0112> See that? I did pretty well.
+<0113> Did you get what you wanted?
+<0114> I'm sure this'll look good on you.
+<0115> Fufu, how exciting.
+<0116> Getting stuff like this makes you happy?
+<0117> I'm tired.
+<0118> You can do this.
+<0119> I'm going to get some rest now.
+<0120> Let's switch now.
+<0121> Okay.
+<0122> Wow.
+<0123> Sure.
+<0124> No.
+<0125> That's a bummer.
+<0126> You're in luck.
+<0127> Hmph.
+<0128> Let's begin, shall we?
+<0129> Time to roll up my sleeves.
+<0130> I believe in you!
+<0131> Hello there.
+<0132> Hmm.
+<0133> Nicely done.
+<0134> I must praise you.
+<0135> Oh, come on!
+<0136> Guess what this is?
+<0137> I'm hyped.
+<0138> Such fun.
+<0139> I'm going to play this card, okay?
+<0140> Thank you.
+<0141> She looks so identical to me... disgusting.
+<0142> Are you my doppelganger?
+<0143> Her face looks just like mine... but she seems terrifying.
+<0144> We have the same face... So why's she so brutal?
+<0145> I'm not feeling comfortable working with her.
+<0146> Can I even communicate with her?
+<0147> Why do we share the same face?
+<0148> Ahahaha.
+<0149> There's a cute kitty here.
+<0150> Can I pet you?
+<0151> Here, come have some treats.
+<0152> Come over here.
+<0153> A little animal?
+<0154> I'll take good care of you.
+<0155> Mmm, you're really adorable.
+<0156> Maybe I should take you home.
+<0157> Alright, these are mine now.
+<0158> Fufufufufu.
+<0159> Let's keep going like this.
+<0160> Effortless earning's just wonderful.

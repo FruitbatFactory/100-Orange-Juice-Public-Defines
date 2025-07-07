@@ -1,0 +1,168 @@
+<0000> Perdón por la patada, las circunstancias lo dictan...
+<0001> ¿Puedo patearlo?
+<0002> ¡Hmph!
+<0003> Patearé el dado.
+<0004> Para ganar la delantera...
+<0005> Estoy acostumbrada a estas cosas.
+<0006> Iré a la ofensiva.
+<0007> Alteraré la situación con esta carta.
+<0008> Aquí hay una trampa.
+<0009> Dejaré una aquí...
+<0010> Soy buena en esto.
+<0011> Será mejor que te apartes del camino.
+<0012> Mi fuerza ha sido mejorada.
+<0013> Si debo pelear.
+<0014> Te lo advierto: Tengo muchísima fuerza.
+<0015> Prepárate.
+<0016> Esta es mi última oportunidad.
+<0017> Seguiré con mi deber.
+<0018> Puedo continuar.
+<0019> Aún no he terminado.
+<0020> Todas las funciones han vuelto a la normalidad.
+<0021> No puedo seguir con mi deber.
+<0022> Todavía estoy recuperándome.
+<0023> Necesito más tiempo.
+<0024> Esto es frustrante.
+<0025> Te atacaré.
+<0026> Me aproximaré a ti.
+<0027> Haré esto.
+<0028> Comenzando el ataque.
+<0029> Ugh.
+<0030> He tomado mucho daño.
+<0031> Ugh, ¿de dónde salió eso...?
+<0032> No es un desarrollo ideal...
+<0033> Estoy recuperada.
+<0034> Con esto podré mantenerme en pie por un poco más de tiempo.
+<0035> Estoy lista para el combate.
+<0036> He sido salvada.
+<0037> ¿Transportación?
+<0038> ¿Acaso me están llevando a otra parte?
+<0039> Esto es completamente inesperado...
+<0040> ¿En dónde caeré...?
+<0041> Ugh, ¿por dónde me han atacado...?
+<0042> He sido noqueada.
+<0043> Nunca me hubiera imaginado esta situación.
+<0044> Saqué lo peor de esto.
+<0045> Me desharé de ti.
+<0046> Voy a desafiarte.
+<0047> Aquí voy.
+<0048> Comenzando el combate.
+<0049> ¿Acaso eres un enemigo?
+<0050> Enemigo encontrado.
+<0051> Lista para contraatacar.
+<0052> Desafío aceptado. Ven.
+<0053> Te dispararé.
+<0054> Voy a derribarte.
+<0055> Voy a golpearte.
+<0056> Ataque.
+<0057> Me dieron.
+<0058> Puedo continuar.
+<0059> ¿Acaso me dieron?
+<0060> Ugh.
+<0061> Daños severos.
+<0062> Esto es...
+<0063> Debo hacer algo al respecto.
+<0064> Argh.
+<0065> Esquivado con éxito.
+<0066> Ningún problema para esquivar eso.
+<0067> ¿Acaso pensaste que podías darme?
+<0068> Ningún problema.
+<0069> He ganado el juego.
+<0070> La victoria es mía.
+<0071> Hagámoslo otra vez.
+<0072> A lo mejor para la próxima vez...
+<0073> ¿Una derrota...?
+<0074> Así que perdí la partida, eh.
+<0075> No puedo moverme.
+<0076> Oh dios santo.
+<0077> He conseguido estrellas.
+<0078> Así que, ¿debería conseguir más de estas?
+<0079> ¿Qué rayos son estas?
+<0080> ¿Para qué sirven estas estrellas...?
+<0081> Se cayeron.
+<0082> Las estrellas han sido perdidas.
+<0083> ¿Acaso debí haberlas protegido...?
+<0084> Las he perdido.
+<0085> Así que es una trampa.
+<0086> ¿Estoy en una... trampa?
+<0087> Caí.
+<0088> Ugh... ¿Una trampa?
+<0089> Una entidad muy larga ha sido detectada.
+<0090> ¿Un enemigo gigante...?
+<0091> Una gran cantidad de energía ha sido detectada.
+<0092> Un simple mal movimiento y estaré acabada...
+<0093> Parece que debo juntar estrellas.
+<0094> Entendido. Comenzando la cosecha de estrellas.
+<0095> ¿Acaso podré conseguir estas estrellas?
+<0096> ¿Podré realmente saber para qué sirven estas estrellas si llevo tantas de ellas...?
+<0097> Combate. Entendido.
+<0098> Nací para luchar.
+<0099> Sí, comenzaré el combate.
+<0100> Sí, continuaré con el combate.
+<0101> Soy Nath.
+<0102> Puedo unirme a ti, si quieres.
+<0103> Tengamos un buen juego.
+<0104> ¿Conmigo...? Sí, por supuesto.
+<0105> Ha comenzado.
+<0106> Es el comienzo del juego.
+<0107> Comenzando con mi deber.
+<0108> Muy bien... es la hora de salir.
+<0109> Hemos ganado la partida... al parecer.
+<0110> Misión cumplida.
+<0111> He obtenido buenos resultados.
+<0112> La victoria es nuestra. Mi trabajo duro rindió frutos.
+<0113> Hemos conseguido una recompensa.
+<0114> Me satisface saber que has conseguido algo bueno.
+<0115> No estoy segura de cómo usar eso, así que te lo dejaré a ti.
+<0116> Parece que es nuestra primera vez consiguiendo eso.
+<0117> Cambia de lugar conmigo, por favor.
+<0118> Cuento contigo.
+<0119> Estoy segura de que harás un mejor trabajo en esta situación.
+<0120> Encárgate del resto, por favor.
+<0121> Sí.
+<0122> Estoy feliz por ti.
+<0123> Muy bien.
+<0124> No.
+<0125> Ugh...
+<0126> Tienes suerte.
+<0127> Mhm...
+<0128> ¿Qué te parece si nos marchamos?
+<0129> Dados.
+<0130> Aquí voy.
+<0131> Hola.
+<0132> Hmm...
+<0133> Eso es bueno.
+<0134> Eso es fantástico.
+<0135> ......
+<0136> ¿No será una carta especial...?
+<0137> ¿La carta de un enemigo...?
+<0138> Usaré lo que necesite para ganar...
+<0139> Lo que sea necesario...
+<0140> Una perrita... que linda...
+<0141> ¿Estás extraviada?
+<0142> ¿Te gustaría ir a mi hogar?
+<0143> Esa es una perrita con mucha energía.
+<0144> No esperaba un segundo combate contra ti.
+<0145> Tú eres...
+<0146> Esta vez seré victoriosa.
+<0147> Sigues siendo igual de fuerte que antes.
+<0148> Debo acabar contigo.
+<0149> Acabo de detectarla.
+<0150> No puedo permitir que me derrotes una vez más.
+<0151> Ugh... No otra vez...
+<0152> ¿Qué rayos... están haciendo...?
+<0153> Sora, Sham... necesito una buena explicación.
+<0154> Puedo ver que ustedes dos disfrutan de lo que hacen... Estoy feliz por ustedes.
+<0155> Ustedes están apoderándose del día... Qué envidia.
+<0156> ¿Te gustaría comer algo?
+<0157> ¿No tienes sueño?
+<0158> ¿Me permites frotar mi mejilla con la tuya?
+<0159> Fufu, ¿te estás divirtiendo?
+<0160> Qué perrito tan esponjoso.
+<0161> Fufu... Oh, no parece ser nada.
+<0162> Me permites frotar mi mejilla con-... ¿No?
+<0163> Qué adorable...
+<0164> Qué increíble flexibilidad.
+<0165> ¿Acaso me podrías ofrecer una de tus plumas?
+<0166> Esas grandes orejas... Qué lindas son.
+<0167> ¿Me permites tocarte solo por un rato?

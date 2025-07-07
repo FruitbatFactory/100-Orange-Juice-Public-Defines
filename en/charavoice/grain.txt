@@ -1,0 +1,161 @@
+<0000> Like this.
+<0001> It's time.
+<0002> Here.
+<0003> Hmph.
+<0004> This is for the future.
+<0005> I must execute this flawlessly.
+<0006> I am prepared.
+<0007> Hmm... is it time?
+<0008> I should give them a lesson in prudence.
+<0009> How would you like this?
+<0010> You all must be alert around here.
+<0011> Why not employ a more subtle strategy?
+<0012> This is the time to go all out.
+<0013> Never hesitate!
+<0014> I'll give it my all.
+<0015> Hrmm... this one!
+<0016> All guns at the ready... FIRE!
+<0017> I've had enough rest.
+<0018> I'm ready to rise up again.
+<0019> Restart all engines and take off.
+<0020> Each division is required to conduct a re-inspection.
+<0021> Seems I need a few more moments...
+<0022> Haste makes waste.
+<0023> Repairs must be done without oversights.
+<0024> How embarrassing...
+<0025> Advance!
+<0026> Forward!
+<0027> Take aim!
+<0028> There!
+<0029> Taking damage!
+<0030> An enemy attack?!
+<0031> Ugoh...
+<0032> A minor inconvenience.
+<0033> Good.
+<0034> Oh, that feels nice.
+<0035> O-ooh...
+<0036> How pleasant.
+<0037> Identify the current location immediately.
+<0038> The storm is blowing me off course!
+<0039> Ooo...
+<0040> Such turbulent movement...
+<0041> Best laid plans...
+<0042> I feel my age today.
+<0043> We're pulling back for now.
+<0044> I must adjust my tactics.
+<0045> I must get rid of obstacles.
+<0046> Your stance needs work.
+<0047> Let this be a lesson.
+<0048> That's far enough.
+<0049> Very bold of you.
+<0050> Now what is this nonsense about?
+<0051> Hm...?
+<0052> A surprise attack...
+<0053> Submit.
+<0054> Guns ablaze!
+<0055> Fire!
+<0056> Here!
+<0057> Mhm.
+<0058> Hmm!
+<0059> Omph!
+<0060> Guoh.
+<0061> Unprecedented!
+<0062> Guu!
+<0063> I'm sustaining major damage...!
+<0064> Initiate damage control now!
+<0065> Take note.
+<0066> Your aim needs more work.
+<0067> Like this.
+<0068> Taking evasive action.
+<0069> It all boils down to experience.
+<0070> I hope this was a learning moment for you.
+<0071> You need more discipline.
+<0072> It really is a shame.
+<0073> It's your win.
+<0074> It's over.
+<0075> I never thought you'd defeat me.
+<0076> You may go ahead.
+<0077> I'll put these to good use.
+<0078> New funding secured.
+<0079> How lovely.
+<0080> A pleasant sound.
+<0081> How unlucky...!
+<0082> Ah, I've been robbed!
+<0083> Not like this!
+<0084> It's a disaster...
+<0085> I slipped up.
+<0086> What a blunder!
+<0087> Uohh!
+<0088> What?!
+<0089> A mighty opponent.
+<0090> I must approach carefully.
+<0091> I believe I have gathered sufficient intelligence.
+<0092> My instincts are warning me.
+<0093> I must gather funding again.
+<0094> The stars are an old friend to me.
+<0095> I run a tight ship.
+<0096> Budgeting is my specialty.
+<0097> I'm not as young as I used to be, but...
+<0098> This is my calling, after all.
+<0099> This is what I'm used to.
+<0100> Sometimes fighting is the only option.
+<0101> What I may lack in vigor I will make up in experience.
+<0102> Very well. I will guide you to victory.
+<0103> Hm, me? Well, why not.
+<0104> So my expertise is still needed.
+<0105> Time to get some more work done.
+<0106> No time like the present.
+<0107> I can't afford to slack off now.
+<0108> Let's put our strategy to practice.
+<0109> Perfectly according to plan.
+<0110> A passable performance. Next time I will do better.
+<0111> This calls for a celebration.
+<0112> Looks like I've still got it in me.
+<0113> A reward for a job well done.
+<0114> A fitting prize.
+<0115> That's quite the find.
+<0116> This will certainly come in handy.
+<0117> I hope my example was useful.
+<0118> I trust in you to handle the rest.
+<0119> Quick, you must take over!
+<0120> Are you ready? Time to take over.
+<0121> Roger that.
+<0122> Excellent.
+<0123> Very well.
+<0124> I'm afraid I must refuse.
+<0125> My condolences.
+<0126> Fortune smiles upon you today.
+<0127> Well I'll be...
+<0128> The time has come.
+<0129> Let us cast the die.
+<0130> Let us go.
+<0131> Well met.
+<0132> Hmm...?
+<0133> Most excellent.
+<0134> Marvelous!
+<0135> Blasted!
+<0136> I believe I understand the basic principle.
+<0137> This seems like it'll give me the advantage.
+<0138> For the sake of victory...
+<0139> Desperate times call for desperate measures.
+<0140> My thanks.
+<0141> So the stage has been set.
+<0142> May I have a moment of your time?
+<0143> Is this a test?
+<0144> You must pull yourself together.
+<0145> Your victory isn't a free pass to grab a drink with me, you know.
+<0146> It seems I still cannot see eye to eye with you.
+<0147> I'm telling you to stop calling me that.
+<0148> It looks like I have the last word this time.
+<0149> I see... you must do what you will.
+<0150> Your genius is needed once again.
+<0151> Very well. I'll lend you a hand once more.
+<0152> No complaints whatsoever.
+<0153> Keep up the good work.
+<0154> Oh boy.
+<0155> Worst job ever done.
+<0156> You seem to me like a significant security risk.
+<0157> The fuse... have I failed?
+<0158> Talk about mysterious.
+<0159> I was preparing long for this moment.
+<0160> All the cannons are loaded.

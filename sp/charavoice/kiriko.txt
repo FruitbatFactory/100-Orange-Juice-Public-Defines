@@ -1,0 +1,160 @@
+<0000> Hoy.
+<0001> Veamos qué tan afortunada puedo ser.
+<0002> Veamos como esto acabará.
+<0003> ¿Podré obtener un buen número?
+<0004> La sincronización es importante.
+<0005> Ufufu, usaré esta carta.
+<0006> Bueno, supongo que intentaré usar esto.
+<0007> Veamos.
+<0008> Aquí hay una trampa.
+<0009> ¿Qué pasaría si dejo una trampa por aquí?
+<0010> ¿Quieres adivinar qué acabo de dejar aquí?
+<0011> ¿Te gustan las trampas?
+<0012> No soy una buena luchadora... así que aumentaré mi fuerza con esto.
+<0013> Fufufu... Es la hora del dopaje.
+<0014> *jadeo, jadeo* Me siento cada vez más fuerte.
+<0015> Kukuku... Esta carta está funcionando muy bien...
+<0016> Y ahora, esta será tu última cirugía.
+<0017> Fufu... Fufu... He regresado...
+<0018> Aja... Me siento genial.
+<0019> E-e-e-estoy bien... Cuanta energía...
+<0020> Jajaja, estoy llena de energía.
+<0021> Siento que nunca podré despertarme otra vez...
+<0022> Sólo déjame en paz por ahora, ¿podrías hacer eso?
+<0023> Todavía no.
+<0024> Si me tocas, una fatalidad ocurrirá... Y será la mía.
+<0025> Apuñalar o cortar, ¿cuál te gustaría más?
+<0026> Da un paso en falso, y verás tu propia sangre.
+<0027> Relájate, soy excelente a la hora de apuñalar.
+<0028> Esta parte de mi cuerpo no siente tanto dolor... Supongo.
+<0029> Eso duele.
+<0030> ¡Aja!
+<0031> ¡Kyaah!
+<0032> ¡Ogo!
+<0033> Fufu... Esto me gusta...
+<0034> Aww... Estoy recibiendo cada vez más energía...
+<0035> Esto está... funcionando de maravilla.
+<0036> Se siente tan bien...
+<0037> ¿Oh? ¿Y qué está ocurriendo ahora?
+<0038> Una teletransportación, eh.
+<0039> ¿A dónde me llevan?
+<0040> Vaya, vaya, vaya.
+<0041> Supongo que estoy acabada.
+<0042> Ugh... esto no es... nada bueno.
+<0043> Trabajar en horas extra es una terrible idea.
+<0044> Esto es terrible... cielos.
+<0045> ¿Me permitirías cortarte un poco? Sólo un poco.
+<0046> Es la hora de una batalla.
+<0047> Comenzaremos la operación ahora.
+<0048> Fufu, ¿no te gusta el dolor?
+<0049> ¿Quieres que te apuñalen?
+<0050> Fufu, ven a mí.
+<0051> Sin violencia, ¿está bien?
+<0052> ¿De verdad deseas tanto mi atención?
+<0053> Te daré un corte profundo.
+<0054> ¡Te cortaré!
+<0055> Perdóname si acabas con una herida grave en tu cuerpo.
+<0056> Mis cuchillos cortan muy bien.
+<0057> ¡Au!
+<0058> ¡Ouch!
+<0059> ¡Cielos!
+<0060> ¡Jie!
+<0061> Recibí más daño de lo que esperaba.
+<0062> Nuoooh... Mi espalda...
+<0063> Eso no es gracioso.
+<0064> El dolor... me hace recordar que estoy viva.
+<0065> ¿Tienes una vista mala? ¿O acaso tienes dolor en las articulaciones?
+<0066> No estoy ahí.
+<0067> Fallaste.
+<0068> Cielos, no tienes habilidad para esto.
+<0069> Quiero jugar un poco más.
+<0070> Fufufu... gané.
+<0071> No he tenido suficiente...
+<0072> Me pregunto en dónde está mi próximo objetivo...
+<0073> Esto... se siente tan bien...
+<0074> Todas mis articulaciones están temblando...
+<0075> No puedo hacerlo... no puedo continuar...
+<0076> A... Aja... Jajaja...
+<0077> Qué bonito... Ufufu.
+<0078> Supongo que me llevaré estas.
+<0079> Fufufu... Fantástico.
+<0080> Oh, ¿todas estas?
+<0081> Y así como si nada, se han ido.
+<0082> Vaya, ¿a dónde se han ido?
+<0083> ¿Qué hice para merecer esto?
+<0084> Mis estrellas... ¿En dónde están...?
+<0085> ¿Una trampa?
+<0086> ¡Ja...! Me atraparon.
+<0087> Quien haya dejado esta trampa aquí debe de ser muy malo...
+<0088> Gee... ¡Ahh!
+<0089> Ah, esto acabará mal.
+<0090> ¿Y ahora qué tenemos aquí? ¿Un monstruo gigante? 
+<0091> Eso se ve muy peligroso.
+<0092> Preferiría mantener la distancia.
+<0093> ¿Ir por la riqueza? Me gusta como suena eso.
+<0094> Necesito el dinero para mis experimentos. 
+<0095> ¡Jajaja, dinero, dinero!
+<0096> Esto puede solucionar la mayor parte de los problemas en el mundo.
+<0097> El luchar es un instinto humano...
+<0098> Fufufu... Quiero cortar a alguien...
+<0099> Si tuvieras un cuchillo nuevo, te gustaría probarlo, ¿verdad?
+<0100> *suspiro* Quiero cortar carne... Limpiamente.
+<0101> Soy Kiriko.
+<0102> Oh, qué bien. Ya me estaba aburriendo.
+<0103> Fufu... Vamos a divertirnos un poco.
+<0104> Disfrutemos del juego.
+<0105> Es la hora de un juego.
+<0106> Wow, tengo muchos pacientes en la lista de espera...
+<0107> Fufufufufu...
+<0108> ¿A quién debería escoger?
+<0109> Fufufu, estoy emocionada.
+<0110> Ja... Jajajaja.
+<0111> No esperaba ganar... ah, bueno.
+<0112> Por favor, celebrad mi victoria.
+<0113> Fufu, algo bueno acaba de salir.
+<0114> Quiero ir a jugar con esa cosa nueva.
+<0115> Vaya, vaya, tienes suerte.
+<0116> Fufufu, veo que estás feliz.
+<0117> ¿Te importaría cambiar de lugar?
+<0118> Síguelo desde aquí, ¿quieres?
+<0119> Fufu, necesito un pequeño descanso.
+<0120> Buena suerte ahí afuera.
+<0121> Okay.
+<0122> Bien.
+<0123> Sí.
+<0124> No.
+<0125> Nugu.
+<0126> Es tu día de suerte.
+<0127> ¿Hmm?
+<0128> Ahora, vamos.
+<0129> Dados.
+<0130> Aquí voy.
+<0131> Hola.
+<0132> Hmm...
+<0133> Eso es bueno.
+<0134> Fantástico.
+<0135> Oh cielos.
+<0136> Permíteme usar tu habilidad especial.
+<0137> No esperaba recibir esta carta... Fufu.
+<0138> Esta es una buena carta. Esto será divertido.
+<0139> ¿Supongo que esta carta debería ser usada de esta forma?
+<0140> Krila, ¿te apetece una cirugía?
+<0141> Ah, Krila, ¿estás aquí por una cirugía?
+<0142> Fufufu, mi diagnóstico es que eres pobre por culpa de una enfermedad... Te curaré...
+<0143> Tus bestias, ¿no están siendo demasiado salvajes?
+<0144> ¡Tu cuerpo entero está rojo! ¡Debes estar muy enferma!
+<0145> Tus orejas están tan horriblemente hinchadas... necesitan una cirugía.
+<0146> Ahora, es la hora de realizar una cirugía.
+<0147> ¡V-ve con un doctor antes de que sea muy tarde...!
+<0148> ¡La otra mitad de tu cuerpo no está! Es por culpa de una enfermedad, ¿no es así?
+<0149> ¿Cómo es que se perdió la otra mitad de tu cuerpo...?
+<0150> Estoy segura de que realizarle una cirugía a alguien tan grande como tú será muy desafiante.
+<0151> ¿Cómo es que puedes tener tanta energía con la mitad de tu cuerpo...? Es una locura.
+<0152> Sólo mira tus hombros... Debes estar sufriendo de una enfermedad muy seria...
+<0153> Tus ojos se ven como los de un pez muerto... ¡Debe ser por causa de una enfermedad mental...!
+<0154> Relájate, yo te trataré.
+<0155> Mis cuchillos no cortaron tus hombros... ¿Qué tienen...?
+<0156> ¿Te encuentras bien? ¿Necesitas una cirugía?
+<0157> Vaya, ¿te hirieron? ¿Te gustaría que yo te tratara?
+<0158> Vaya, vaya... parece que tenemos una emergencia por aquí.
+<0159> Alguien acaba de perder la consciencia... debería ir y ayudarlos.

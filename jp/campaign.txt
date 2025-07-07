@@ -1,0 +1,260 @@
+
+< CAMPAIGN_QP_ONE >
+きゅーぴー　第1話
+
+< CAMPAIGN_QP_TWO >
+きゅーぴー　第2話
+
+< CAMPAIGN_QP_THREE >
+きゅーぴー　第3話
+
+< CAMPAIGN_QP_FOUR >
+きゅーぴー　第4話
+
+< CAMPAIGN_QP_FIVE >
+きゅーぴー　第5話
+
+< CAMPAIGN_QP_FINAL >
+きゅーぴー　最終話
+
+< CAMPAIGN_SUGURI_ONE >
+スグリ　第1話
+
+< CAMPAIGN_SUGURI_TWO >
+スグリ　第2話
+
+< CAMPAIGN_SUGURI_THREE >
+スグリ　第3話
+
+< CAMPAIGN_SUGURI_FOUR >
+スグリ　第4話
+
+< CAMPAIGN_SUGURI_FIVE >
+スグリ　第5話
+
+< CAMPAIGN_SUGURI_FINAL >
+スグリ　最終話
+
+< CAMPAIGN_MARC_ONE >
+マール　第1話
+
+< CAMPAIGN_MARC_TWO >
+マール　第2話
+
+< CAMPAIGN_MARC_THREE >
+マール　第3話
+
+< CAMPAIGN_MARC_FOUR >
+マール　第4話
+
+< CAMPAIGN_MARC_FIVE >
+マール　第5話
+
+< CAMPAIGN_MARC_FINAL >
+マール　最終話
+
+< CAMPAIGN_KAI_ONE >
+カイ　第1話
+
+< CAMPAIGN_KAI_TWO >
+カイ　第2話
+
+< CAMPAIGN_KAI_THREE >
+カイ　第3話
+
+< CAMPAIGN_KAI_FOUR >
+カイ　第4話
+
+< CAMPAIGN_KAI_FIVE >
+カイ　第5話
+
+< CAMPAIGN_KAI_FINAL >
+カイ　最終話
+
+< CAMPAIGN_EXTRA_ONE >
+ミッドナイト＝ケモノミミ
+
+< CAMPAIGN_EXTRA_TWO >
+死闘　改造人間
+
+< CAMPAIGN_EXTRA_THREE >
+飛行士達の黄昏
+
+< CAMPAIGN_EXTRA_FOUR >
+不思議宇宙の旅
+
+< CAMPAIGN_EXTRA_FIVE >
+トモモ地獄
+
+< CAMPAIGN_EXTRA_SIX > 
+ミオの暗黒要塞
+
+< CAMPAIGN_EXTRA_SEVEN > 
+シークレット・サンタ
+
+< CAMPAIGN_EXTRA_EIGHT >
+神罰
+
+< CAMPAIGN_STARBREAKER_ONE >
+スターブレイカー　第1話
+
+< CAMPAIGN_STARBREAKER_TWO >
+スターブレイカー　第2話
+
+< CAMPAIGN_STARBREAKER_THREE >
+スターブレイカー　第3話
+
+< CAMPAIGN_STARBREAKER_FOUR >
+スターブレイカー　第4話
+
+< CAMPAIGN_STARBREAKER_FIVE >
+スターブレイカー　第5話
+
+< CAMPAIGN_STARBREAKER_FINAL >
+スターブレイカー　最終話
+
+< CAMPAIGN_SWEETBREAKER_ONE >
+スイートブレイカー　第1話
+
+< CAMPAIGN_SWEETBREAKER_TWO >
+スイートブレイカー　第2話
+
+< CAMPAIGN_SWEETBREAKER_THREE >
+スイートブレイカー　第3話
+
+< CAMPAIGN_SWEETBREAKER_FOUR >
+スイートブレイカー　第4話
+
+< CAMPAIGN_SWEETBREAKER_FIVE >
+スイートブレイカー　第5話
+
+< CAMPAIGN_SWEETBREAKER_FINAL >
+スイートブレイカー　最終話
+
+< CAMPAIGN_BREAKER_EXTRA >
+スイーツ六神の混沌
+
+< CAMPAIGN_MIUCEORE_ONE >
+女子力　第1話
+
+< CAMPAIGN_MIUCEORE_TWO >
+女子力　第2話
+
+< CAMPAIGN_MIUCEORE_THREE >
+女子力　第3話
+
+< CAMPAIGN_MIUCEORE_FOUR >
+女子力　第4話
+
+< CAMPAIGN_MIUCEORE_FIVE >
+女子力　第5話
+
+< CAMPAIGN_MIUCEORE_SIX >
+女子力　第6話
+
+< CAMPAIGN_MIUCEORE_SEVEN >
+女子力　第7話
+
+< CAMPAIGN_MIUCEORE_EIGHT >
+女子力　第8話
+
+< CAMPAIGN_MIUCEORE_NINE >
+女子力　第9話
+
+< CAMPAIGN_MIUCEORE_FINAL >
+女子力　最終話
+
+< CAMPAIGN_CHRISTMAS_2017 >
+わるだクリスマスパーティー
+
+< CAMPAIGN_NICOARTHUR_ONE >
+クロスクリスマス　第1話
+
+< CAMPAIGN_NICOARTHUR_TWO >
+クロスクリスマス　第2話
+
+< CAMPAIGN_NICOARTHUR_THREE >
+クロスクリスマス　第3話
+
+< CAMPAIGN_NICOARTHUR_FOUR >
+クロスクリスマス　第4話
+
+< CAMPAIGN_NICOARTHUR_FIVE >
+クロスクリスマス　第5話
+
+< CAMPAIGN_NICOARTHUR_FINAL >
+クロスクリスマス　最終話
+
+
+< CAMPAIGN_SUGURISUMIKA_ONE >
+古の守護者　第1話
+
+< CAMPAIGN_SUGURISUMIKA_TWO >
+古の守護者　第2話
+
+< CAMPAIGN_SUGURISUMIKA_THREE >
+古の守護者　第3話
+
+< CAMPAIGN_SUGURISUMIKA_FOUR >
+古の守護者　第4話
+
+< CAMPAIGN_SUGURISUMIKA_FIVE >
+古の守護者　第5話
+
+< CAMPAIGN_SUGURISUMIKA_SIX >
+古の守護者　第6話
+
+< CAMPAIGN_SUGURISUMIKA_SEVEN >
+古の守護者　第7話
+
+< CAMPAIGN_SUGURISUMIKA_EIGHT >
+古の守護者　第8話
+
+< CAMPAIGN_SUGURISUMIKA_NINE >
+古の守護者　第9話
+
+< CAMPAIGN_SUGURISUMIKA_TEN >
+古の守護者　第10話
+
+< CAMPAIGN_SUGURISUMIKA_FINAL >
+古の守護者　最終話
+
+
+< CAMPAIGN_ELLIELULU_NUMBER >
+旅人　第%d話
+
+< CAMPAIGN_ELLIELULU_FINAL >
+旅人　最終話
+
+< CAMPAIGN_RONETEO >
+ゲームナイト・オブ・ザ・ウィッチーズ
+
+< CAMPAIGN_WARUDAPRISONBREAK_NUMBER >
+わるだプリズンブレイク　第%d話
+
+< CAMPAIGN_WARUDAPRISONBREAK_FINAL >
+わるだプリズンブレイク　最終話
+
+< CAMPAIGN_DIFFICULTY_CASUAL >
+敵の能力：低め
+
+< CAMPAIGN_DIFFICULTY_NORMAL >
+敵の能力：そのまま
+
+< CAMPAIGN_DIFFICULTY_ORIGINAL >
+敵の能力：個別にカスタマイズ済み
+
+< CAMPAIGN_DIFFICULTY_EXTREME >
+敵の能力：だいぶ高め
+
+< CAMPAIGN_RETURN >
+戻る
+
+< CAMPAIGN_RONETEO_MESSAGE >
+エクストラミッションが開放されました！\nキャンペーン「女子力」と「古の守護者」をプレイ済みですと、より楽しめます。
+
+< CAMPAIGN_WINTER2023_MESSAGE >
+エクストラミッション「%s」が開放されました！
+
+[EOF]
+

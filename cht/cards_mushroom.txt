@@ -1,0 +1,121 @@
+< CARD_SHROOM_BLUE >
+name=藍蘑菇
+descr=散發著怪味。
+
+< CARD_SHROOM_BROWN >
+name=棕蘑菇
+descr=散發著怪味。
+
+< CARD_SHROOM_GREEN >
+name=綠蘑菇
+descr=散發著怪味。
+
+< CARD_SHROOM_ORANGE >
+name=橙蘑菇
+descr=散發著怪味。
+
+< CARD_SHROOM_PINK >
+name=粉蘑菇
+descr=散發著怪味。
+
+< CARD_SHROOM_PURPLE >
+name=紫蘑菇
+descr=散發著怪味。
+
+< CARD_SHROOM_RAINBOW >
+name=彩虹蘑菇
+descr=散發著怪味。
+
+< CARD_SHROOM_RED >
+name=紅蘑菇
+descr=散發著怪味。
+
+< CARD_SHROOM_WHITE >
+name=白蘑菇
+descr=散發著怪味。
+
+< CARD_SHROOM_YELLOW >
+name=黃蘑菇
+descr=散發著怪味。
+
+< CARD_SHROOM_PHANTOMBLUE >
+name=夢幻般的藍蘑菇
+descr=散發著奇幻般的怪味。
+
+< CARD_SHROOM_LEGENDARYRED >
+name=傳說中的紅蘑菇
+descr=散發著傳奇般的怪味。
+
+< CARD_SHROOM_MOVEUP >
+descr=下次移動時MOV+%d。
+
+< CARD_SHROOM_MOVEDOWN >
+descr=下次移動時MOV-%d。
+
+< CARD_SHROOM_GAINSTARS >
+descr=獲得等級數×%d顆STAR。
+
+< CARD_SHROOM_LOSESTARS >
+descr=失去等級數×%d顆STAR。
+
+< CARD_SHROOM_HEALTHUP >
+descr=獲得%d點HP。
+
+< CARD_SHROOM_HEALTHDOWN >
+descr=失去%d點HP。
+
+< CARD_SHROOM_ATTACKUP >
+descr=這場戰鬥中，ATK+%d。
+
+< CARD_SHROOM_ATTACKDOWN >
+descr=這場戰鬥中，ATK-%d。
+
+< CARD_SHROOM_DEFENSEUP >
+descr=這場戰鬥中，DEF+%d。
+
+< CARD_SHROOM_DEFENSEDOWN >
+descr=這場戰鬥中，DEF-%d。
+
+< CARD_SHROOM_EVADEUP >
+descr=這場戰鬥中，EVD+%d。
+
+< CARD_SHROOM_EVADEDOWN >
+descr=這場戰鬥中，EVD-%d。
+
+< CARD_SHROOM_HEAL >
+descr=恢復%d點HP。
+
+< CARD_SHROOM_DAMAGE >
+descr=受到%d點傷害。
+
+< CARD_SHROOM_ROLLONE >
+descr=這場戰鬥中，投出的點數為1。
+
+< CARD_SHROOM_ROLLSIX >
+descr=這場戰鬥中，投出的點數為6。
+
+< CARD_SHROOM_FROSTWALKER >
+descr=獲得%d輪寒冰步效果。
+
+< CARD_SHROOM_WARP >
+descr=傳送至隨機的格子。
+
+< CARD_SHROOM_CONFUSION >
+descr=持續%d輪手牌翻轉。\n（你只能看到手牌背面，\n其他玩家能看到正面。）
+
+< CARD_SHROOM_DRAW >
+descr=抽取2張卡。
+
+< CARD_SHROOM_DISCARD >
+descr=隨機丟棄1張手牌。
+
+< CARD_SHROOM_WIN >
+descr=獲得1WIN。
+
+< CARD_SHROOM_LEGEND_STARS >
+descr=任意來源獲得STAR時額外獲得等級數\n的STAR。\n被戰鬥擊倒時，勝者獲得這張卡。
+
+< CARD_SHROOM_LEGEND_WINS >
+descr=任意來源獲得WIN時額外獲得1WIN。\n被戰鬥擊倒時，勝者獲得這張卡。
+
+[EOF]

@@ -1,0 +1,161 @@
+<000> Ahí...
+<001> Aquí voy...
+<002> Oh cielos.
+<003> Veamos.
+<004> Usaré esta.
+<005> ¿Qué es lo que podría ser?
+<006> Oh no, debo hacer algo al respecto.
+<007> Um, ¿podría usar esto?
+<008> Esto va aquí abajo...
+<009> ¿Acaso está bien si dejo algo como esto aquí en el suelo?
+<010> Aquí tienes...
+<011> Esto debería funcionar.
+<012> ¡Ayuda, por favor!
+<013> Oh no, ¡lo siento tanto!
+<014> Espero que esto me ayude.
+<015> ¡Aquí tienes!
+<016> Tendré que hacer lo que debo hacer... ¿no es así?
+<017> Parece que debo seguir adelante.
+<018> Ugh, quiero ir a casa.
+<019> ¿Acaso debo seguir jugando?
+<020> Ugh, otra vez llegué a mis pies...
+<021> Por favor, solo conviérteme en burbujas...
+<022> No me molestaría quedarme aquí un rato más...
+<023> Pueden dejarme aquí sola.
+<024> ¿Podré dormir aquí?
+<025> ¡Ey!
+<026> ¡Jah!
+<027> ¡Toh!
+<028> ¡Yah!
+<029> ¡Eso duele!
+<030> ¡Oww!
+<031> Por favor, basta.
+<032> ¿Por quéee?
+<033> Pensé que estaría acabada...
+<034> No quiero seguir jugando.
+<035> Jaah.
+<036> Uff.
+<037> ¿Quéeee?
+<038> ¿Qué es esto?
+<039> ¿Magia de teletransportación?
+<040> Nadie me había hablado sobre esto.
+<041> Paah.
+<042> Sabía que esto iba a suceder.
+<043> Lo siento, no soy buena luchando.
+<044> Ueeeen.
+<045> Lo siento, pero ordenes son órdenes.
+<046> Lo siento.
+<047> Perdóname por molestar...
+<048> ¡T-tomaré tu vida!
+<049> ¡Jieeeeh!
+<050> ¿P-por qué me sigues?
+<051> Tengo mucho miedo.
+<052> ¡Uwaaaah!
+<053> Ey-ey.
+<054> ¡No te acerques, ni un paso más!
+<055> ¡Yaaah!
+<056> ¡T-tú saldras con el cuerpo herido...!
+<057> ¡Au!
+<058> Eso es terrible.
+<059> Kyan.
+<060> ¡Jee!
+<061> ¡Mis escamas se saldrán!
+<062> Esto es lo peor del mundo.
+<063> ¡Necesito ayuda!
+<064> ¡Gyaaaah!
+<065> ¡Eso estuvo cerca!
+<066> ¡Nooo!
+<067> ¡Seré torturada y asesinada!
+<068> No puedo continuar.
+<069> ¿A-acaso gané la batalla?
+<070> Awawa, ¿qué debería hacer ahora?
+<071> *Jadeo, jadeo*
+<072> Eso ha sido mucho trabajo.
+<073> Oh no.
+<074> ¿Por qué debo hacer esto?
+<075> Lo siento tanto...
+<076> Perdóname por ser tan inútil.
+<077> ¿Podría quedarme con esto?
+<078> ¿E-esto es mío?
+<079> Uwawa.
+<080> Esto se siente bien.
+<081> No me las merezco.
+<082> La felicidad es algo pasajero...
+<083> Jaja... jaja...
+<084> Estoy triste.
+<085> ¡Van a comerme!
+<086> ¡No quiero salir del agua!
+<087> Mi vida fue corta.
+<088> ¡Aaargh!
+<089> Hay algo muy aterrador aquí.
+<090> ¿Por qué estoy en este lugar tan aterrador?
+<091> Por favor, permíteme ir a casa... Ugh.
+<092> Esto es demasiado para mí.
+<093> Tal como lo había dicho, usaré todo lo que tengo.
+<094> Prometo conseguir muchas de ellas...
+<095> Estrellas de mar... ah, no, solo estrellas.
+<096> Son brillantes y relucientes... no como yo...
+<097> Necesito acabar con sus vidas antes de que acaben con la mía...
+<098> Puedo hacerlo...
+<099> P-podría funcionar si uso mi magia...
+<100> No me siento... muy confiada en esto...
+<101> Soy Watty... una sirena.
+<102> Perdóname por oler mal.
+<103> H-haré todo lo que pueda.
+<104> ¿Realmente quieres escoger a alguien como yo?
+<105> J-juguemos de forma limpia y segura...
+<106> L-lo intentaré...
+<107> Todos se ven tan aterradores...
+<108> Estoy muy fuera de lugar, ¿no lo crees?
+<109> ¿En serio?
+<110> ¿Así que podré hacerlo si lo intento?
+<111> Me siento un poco más feliz ahora.
+<112> Gracias al cielo...
+<113> Oh, me siento muy feliz... por ti.
+<114> Vaya, pareces estar feliz de haber conseguido eso.
+<115> Ejeje.
+<116> Vaya, eso es lindo.
+<117> Saldré de aquí.
+<118> Por favor tómalo desde aquí.
+<119> Saldré ahora.
+<120> Te importaría... ¿cambiar?
+<0121> Sí...
+<0122> Eso es increíble.
+<0123> Si tú lo dices...
+<0124> N-no... es decir, no importa.
+<0125> Qué mal...
+<0126> Hoy tienes mucha suerte...
+<0127> Uaaaah...
+<0128> Vamos.
+<0129> ¡Ey!
+<0130> Tú puedes hacerlo.
+<0131> H-hola...
+<0132> Um...
+<0133> Eso fue algo bueno.
+<0134> Eso fue... super increíble.
+<0135> Ugh... Argh...
+<0136> Uh... ¿Cómo uso esto...?
+<0137> Esto, eh... no sé cómo usar esto. 
+<0138> Espero que esto pueda funcionar.
+<0139> Esto no me pertenece.
+<0140> Gracias.
+<0141> Mi señora... permíteme luchar contigo.
+<0142> Oh cielos, ¿acaso estoy en problemas?
+<0143> O-oh no, derroté a mi señora... qué voy a hacer...
+<0144> Haré todo lo que me pidas...
+<0145> El agua me hace sentir calma...
+<0146> No quiero salir del agua...
+<0147> Mi dulce hogar...
+<0148> *Salpico, salpico*
+<0149> ¿Acaso vas a comerme...?
+<0150> ¡No quiero ser devorada!
+<0151> Oh, ¿acaso huelo bien para ti...?
+<0152> ¡No tengo un buen sabor, lo juro!
+<0153> Voy a secarme hasta convertirme en una cáscara...
+<0154> Perdónenme por oler a pescado...
+<0155> Creo que no... podré seguir adelante...
+<0156> A... agua...
+<0157> ¿Prefieres comer pez asado?
+<0158> ¡Seré asada de una buena forma!
+<0159> ¡Eso hará que mi sabor sea muy delicioso...!
+<0160> ¡Por favor, no quiero ser asada...!

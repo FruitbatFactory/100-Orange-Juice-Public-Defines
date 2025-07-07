@@ -1,0 +1,155 @@
+<0000> ¡Es mi turno!
+<0001> ¡Vamos!
+<0002> ¡Ahí!
+<0003> Rodando.
+<0004> ¡Déjame mostrarte mi estrategia!
+<0005> Déjame usar una carta.
+<0006> ¡Veamos cómo es que esta carta ayudará!
+<0007> ¡Toma esto! ¡Ba-bang!
+<0008> ¡Una trampa!
+<0009> Jejeje, hay una trampa aquí.
+<0010> Oh cielos, qué es lo que estoy haciendo, dejando una trampa aquí~ ♪
+<0011> Veamos cómo es que esto funcionará.
+<0012> Creo que debo ganar esta vez.
+<0013> ¡No te lo haré fácil!
+<0014> Perder esta batalla sería una gran molestia, así que...
+<0015> ¡Cambiaré las cosas!
+<0016> ¡Aquí tienes la técnica especial de Poyo Oage!
+<0017> Cielos, eso sí que fue una molestia.
+<0018> Aún sigo de pie. Puedo ganar.
+<0019> Ugh, creo que estoy en un gran aprieto... Pero aún puedo alcanzar mi victoria...
+<0020> ¡Ahora que he regresado, todos verán lo que es una gran victoria!
+<0021> Uwoo, realmente pensé que me levantaría.
+<0022> ¡Ah rayos! Esto es malo...
+<0023> Hombre, las cosas no se ven lindas para mí.
+<0024> Ugh, esto no se siente bien...
+<0025> ¡Tomaré la ofensiva!
+<0026> ¡Hora de atacar!
+<0027> Supongo que tomaré unas victorias.
+<0028> Prepárate para mi ataque.
+<0029> Ugh.
+<0030> Basta, basta.
+<0031> Vaya.
+<0032> ¿Pero qué rayos?
+<0033> Eso estuvo cerca.
+<0034> Debo recuperar mis PV.
+<0035> No me derribarán ahora.
+<0036> ¡La recuperación es importante!
+<0037> Wa-wa.
+<0038> Oh cielos.
+<0039> ¡Teletransportación!
+<0040> ¿Hmm?
+<0041> Oops.
+<0042> ¿En serio?
+<0043> Debes estar bromeando.
+<0044> Metí la pata...
+<0045> ¡Ya no puedes escapar!
+<0046> ¡No dejaré de presionarte!
+<0047> ¡Vamos a derribarte!
+<0048> Muy bien, comenzaré con mi ataque.
+<0049> ¡Desafío aceptado!
+<0050> Vaya vaya, ¿quieres pelear conmigo?
+<0051> Oh, quieres pelear.
+<0052> ¿A lo mejor esto será algo difícil para mí?
+<0053> ¡Toma esto!
+<0054> ¡Te derribaré un poco!
+<0055> ¡Ataaaque!
+<0056> ¡Veee!
+<0057> Gyafu.
+<0058> ¡Oh rayos!
+<0059> ¡Ugh, esto no es nada...!
+<0060> ¡Wah!
+<0061> ¡Oh em gee, esto es malo!
+<0062> Alto un segundo.
+<0063> ¿No es eso injusto?
+<0064> Noo, esto no puede estar ocurriendo.
+<0065> Eso realmente estuvo cerca.
+<0066> Esquivado correctamente.
+<0067> Phew.
+<0068> ¡Muy bien, sin recibir daño!
+<0069> ¡Muy bien!
+<0070> Jeje, he conseguido derribarte.
+<0071> ¡Yaaay!
+<0072> ¡Lo hice!
+<0073> ¡Oh, vamos!
+<0074> Heeen, estoy en agonía.
+<0075> ¿Por qué?
+<0076> Esto no es bueno...
+<0077> Bien.
+<0078> Los bonuses me hacen feliz.
+<0079> El que tenga más victorias ganará en OJ.
+<0080> ¡Estrellas obtenidas!
+<0081> Oh no, oh no, oh no.
+<0082> ¡OMG, OMG, OMG!
+<0083> Hm-m-mmm.
+<0084> ¡Esto no me gusta!
+<0085> ¿¡Quién rayos dejó una trampa aquí!?
+<0086> ¡Heen!
+<0087> Qué demonios, qué demonios, qué demonios.
+<0088> Agyaah, esto no es bueno.
+<0089> ¿No te da nervios cuando aparece el jefe?
+<0090> Ah, aquí viene uno grande.
+<0091> La pregunta es: ¿debería vencerlo o correr...?
+<0092> ¡Ah rayos, el jefe está aquí...!
+<0093> ¡Escogeré estrellas!
+<0094> ¡Estrellas serán!
+<0095> Vamos a jugar a la recolección de estrellas.
+<0096> ¡Debido a las circunstancias, esta será mi elección!
+<0097> ¿Que si estoy lista para pelear?
+<0098> ¡Basado en las circunstancias, batallas serán!
+<0099> Muy bien, vamos a pelear un poco.
+<0100> ¿Sabes que me gusta? Los acercamientos agresivos.
+<0101> ¡Club de 100% OJ, vamos!
+<0102> Déjame mostrarte lo buena que soy en OJ.
+<0103> Claro, vamos a jugar.
+<0104> No puedo esperar para mostrarme.
+<0105> Estoy encantada.
+<0106> Seré la ganadora del día.
+<0107> Jejeje, siento que hoy seré la ganadora.
+<0108> Muy bien, traeré un remolino de caos al campo de juego.
+<0109> ¡¡¡¡¡Sí!!!!! ¡Esta es la fuerza del club de 100% OJ!
+<0110> Que partida tan estresante. ¡Eso fue divertido!
+<0111> Nada es mejor que la victoria.
+<0112> ¡¡¡Poyo gana!!! ¡¡¡Poyo gana!!!
+<0113> Esos momentos en el que recibes algo nuevo son de lo mejor.
+<0114> Bueno, veamos qué podemos conseguir.
+<0115> Oh, ¿qué es esto?
+<0116> Vaya, esa es una de esas cosas que te hacen feliz.
+<0117> ¡Vamos a cambiar!
+<0118> Es la hora de cambiar.
+<0119> Te permitiré encargarte de esto.
+<0120> Es la hora de brillar.
+<0121> Okay.
+<0122> ¡Bien, bien!
+<0123> ¡Muy bien!
+<0124> ¡Nop!
+<0125> Ugh...
+<0126> ¡Te mostraré lo afortunada que Poyo puede ser!
+<0127> Uh oh...
+<0128> ¡Vamos!
+<0129> ¡Yah!
+<0130> ¡Tú puedes hacerlo!
+<0131> ¡Yahoooy!
+<0132> ¿Hmm?
+<0133> Eso es bueno.
+<0134> ¡Eso es super!
+<0135> ¡Hombre, qué molestia...!
+<0136> ¡Usaré la carta especial de alguien más!
+<0137> Jeje, ¡aquí tienes una carta especial!
+<0138> ¡Daré vuelta el tablero!
+<0139> ¡Esto es lo que me traerá la victoria!
+<0140> ¡Estoy agradecida! ¡Gracias, gracias!
+<0141> Yo ganaré esta partida, Chuu.
+<0142> Tú cuida mi espalda, Chuu.
+<0149> ¡Muy bien, vamos a empezar con las actividades del club!
+<0150> ¡Ah, soy una gran fan de ti, Q!
+<0151> ¡Ah, es Q!
+<0152> ¡Me gustan tus orejas; podríamos combinar!
+<0153> ¡N-no estaba distraída!
+<0154> ¡Oh vaya, es Ellie!
+<0155> ¡Ehh, Ellie!
+<0156> Sé que Ellie también tiene orejas de animal.
+<0157> No esperaba menos de la protagonista de la segunda temporada...
+<0158> ¡Mira cuántas estrellas llevo ahora mismo!
+<0159> Parece que estoy encaminada hacia una gran victoria, ¿no es así?
+<0160> Todos siguen cayendo ante mí. ¿Acaso mis puños son demasiados fuertes?

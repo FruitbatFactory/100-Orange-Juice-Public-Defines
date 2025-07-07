@@ -1,0 +1,119 @@
+< MUTATOR_RANDOM >
+name=Aleatorio
+descr=Un mutador aleatorio será escogido.
+
+< MUTATOR_HYPER_DECK >
+name=Mazo Especial
+descr=Todas las cartas en el mazo serán transformadas en Cartas Especiales predeterminadas.
+
+< MUTATOR_RANDOM_GENERATION >
+name=Generación Completamente Aleatoria
+descr=Todos los paneles, exceptuando los de Teletransportación y Hogar, cambiarán a otros tipos de paneles al comienzo de cada capítulo.
+
+< MUTATOR_POPPOMANIA >
+name=Ultra Poppomanía
+descr=Todas las Cartas Especiales automáticamente se transformarán en Ubicuo (la Carta Especial de Poppo).
+
+< MUTATOR_NEMESIS_DRAFT >
+name=Corriente Enemiga
+descr=Las unidades seleccionadas cambiarán de dueño al comienzo de cada partida.
+
+< MUTATOR_ULTIMATE_JOKER >
+name=El Mejor Bromista
+descr=Todas las cartas serán de Nivel 1 y podrán ser usadas sin pagar por su costo.
+
+< MUTATOR_UNSTABLE_SELECTION >
+name=Selección Inestable
+descr=Los personajes seleccionados cambiarán a un personaje aleatorio.
+
+< MUTATOR_MIXED_JUICE >
+name=¡100% Jugo Mixto!
+descr=Todos los valores de un jugador cambiarán de forma aleatoria al comienzo de la partida. Todas las Cartas Especiales tomadas del mazo serán aleatorias.
+
+< MUTATOR_MULTIPLICATION >
+name=Sensación de Multiplicación
+descr=Todos los valores, efectos y duraciones son multiplicados por 2.
+
+< MUTATOR_FAERIZE >
+name=Hadificación
+descr=(aún no está en uso)
+
+< MUTATOR_MAXTENSION >
+name=Máxitensión
+descr=Todas las Cartas de Batalla serán reemplazadas con Extensión, la cual también será de Nivel 1.
+
+< MUTATOR_POPPOFORMATION >
+name=Poppoformación
+descr=Todos los jugadores se convertirán en Poppo for 2 capítulos luego de un intervalo de 2-10 capítulos.si ves esto es porque abriste el archivo, buen trabajo
+
+< MUTATOR_FORCED_EXCHANGE >
+name=Intercambio Forzado
+descr=Cada 5 capítulos, al comienzo del capítulo, todas las cartas en mano de los jugadores son intercambiadas de forma aleatoria, imitando el efecto de Intercambio de Regalos.
+
+< MUTATOR_BOMBERJAM >
+name=Bombarderos
+descr=Todos podrán colocar bombas en el comienzo de cada uno de sus turnos. La explosión tendrá una duración aleatoria.\n También podrás moverte en una corta distancia.
+
+< MUTATOR_DYNAMIS_DICE >
+name=Dados Dinámicos
+descr=Podrás elegir el valor de tus dados.\n Una vez que un número haya sido seleccionado, permanecerá indisponible hasta que todos los otros números sean usados.
+
+< MUTATOR_SHOPAHOLIC >
+name=Adicción a las Compras
+descr=Tiendas del modo Caza-recompensas aparecerán en paneles aleatorios, con una selección de objetos modificada.
+
+< MUTATOR_KNIGHTS_AND_FAERIES >
+name=Hadas y Caballeros
+descr=Al comienzo de cada partida, podrás jugar como un Guardián o como Aurora, con atributos modificados.\n Todas las Cartas Especiales serán aleatorias, y eventos inesperados podrán ocurrir.
+
+< MUTATOR_FOURHEAVENLYKINGS >
+name=Cuatro Caballeros Celestiales
+descr=Al comienzo de cada partida, podrás escoger a un jefe del modo cooperativo para usar durante toda la partida.
+
+< MUTATOR_CHAOS_BATTLEFIELD >
+name=Campo Caótico
+descr=Todas las batallas tendrán 2 rondas en vez de 1. Cada 10 capítulos, todos los paneles se transformarán en paneles de Batalla. Esas batallas tendrán una duración de 10 turnos. Recibes +1 ATK, DEF o EVD al subir de Nivel.
+
+< MUTATOR_HOT_POTATO >
+name=Sostén a la Diablilla
+descr=Un jugador escogido de forma aleatoria recibirá la carta de regalo: "Sostén a la Diablilla". Tenerla en mano le otorgará estrellas a ese jugador o causará que Mimyuu explote antes de ser enviada a otro jugador.
+
+< MUTATOR_SHARING_IS_CARING >
+name=Compartir es Solidario
+descr=Cada capítulo, todos los jugadores le otorgarán su mano actual al próximo jugador.
+
+< MUTATOR_OVERINDULGENCE >
+name=Exceso
+descr=Todos los jugadores tendrán 99 Máx. PV, pero revivirán instantáneamente con 1 PV. Las cartas en el mazo serán reemplazadas con cartas de Dulces. Los jugadores serán recompensados por tener muchos PV, ¡pero ten cuidado, comer mucho te hará lento! 
+
+< MUTATOR_UNLIKELY_ALLIANCE >
+name=Alianza Improbable
+descr=Los requerimientos para cada Norma serán compartidos con un aliado. Los aliados no podrán luchar entre sí, pero podrán curarse y revivirse entre sí.
+
+< MUTATOR_TRUE_CONVERGENCE >
+name=Convergencia Extrema
+descr=Siente la experiencia del verdadero terror en el campo de juego, ocurriendo cada 6 capítulos.
+
+< MUTATOR_CARD_MANIA >
+name=Cartas Frenéticas
+descr=Todas las cartas escogidas en tu mazo inicial serán duplicadas. 16 Cartas Especiales serán añadidas en vez de 8. El máximo de cartas en mano será 5 para todas las unidades, y podrás usar una cantidad infinita de cartas durante tu turno. Todos  toman una carta al comienzo de cada capítulo.
+
+< MUTATOR_BDTT >
+name=Acaba Con el Tanque
+descr=Forma un equipo contra un jugador aleatorio designado a ser el Tanque. Los tres Asesinos ganarán la partida si el Tanque es derrotado, mientras que el Tanque debe sobrevivir 30 capítulos o derrotar a todos los Asesinos.
+
+< MUTATOR_SINGLE_CREDIT >
+name=Un Solo Crédito
+descr=Revivirás de forma instantánea al ser noqueado. Al revivir, cambiarás a una unidad escogida de forma aleatoria.
+
+< MUTATOR_REVERSIBLE_FORTUNE >
+name=Fortuna Reversible
+descr=Comienza con 200 Estrellas y 14 Victorias. Gana la partida al perder niveles de Norma, alcanzando 0 Estrellas o 0 Victorias. El costo de todas las cartas es reducido a la mitad, y no puede superar las 30 estrellas.
+
+< MUTATOR_TAG_TEAM >
+name=Equipos
+descr=¡Forma un equipo con otro jugador para convertirte en el campeón local de 100% Jugo de Naranja!
+
+< MUTATOR_ULTIMATE_TAG_TEAM >
+name=Equipos Definitivos
+descr=¡Equipos con un giro! Podrás cambiar de lugar cada 1 capítulo, y podrás usar el comando dentro de una batalla.

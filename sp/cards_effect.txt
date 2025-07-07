@@ -1,0 +1,770 @@
+
+< CARD_DASH_EFFECT >
+name=¡Velocidad!
+descr=Esta unidad tirará un dado extra al moverse.
+
+< CARD_FLIPOUT_EFFECT >
+name=Enojo
+descr=Al caer en un panel de pérdidas, la unidad (o las unidades) con el mayor número de estrellas perderán la misma cantidad que esta unidad.
+
+< CARD_NICEJINGLE_EFFECT >
+name=Lindo Tintineo
+descr=Los paneles de estrellas duplicarán su efecto.
+
+< CARD_EXTEND_EFFECT >
+name=Renacimiento
+descr=Al ser noqueada, esta unidad revivirá en su siguiente turno.
+
+< CARD_STIFFCRYSTAL_EFFECT >
+name=Cristal Rígido
+descr=Niega los efectos de una carta trampa. Esta unidad recibirá 5 estrellas por el nivel de la trampa cancelada.
+
+< CARD_DANGEROUSPUDDING_EFFECT >
+name=Pudín Peligroso
+descr=El próximo turno de esta unidad será omitido.
+
+< CARD_HEAT300_EFFECT >
+name=Temperatura al 300%
+descr=Esta unidad recibirá -2 DEF.
+
+< CARD_SUPERALLOUTMODE_EFFECT >
+name=Modo Super Máximo
+descr=Esta unidad recibirá +2 ATK en su próxima batalla.
+
+< CARD_PROTAGONISTPRIVILEGE_EFFECT >
+name=Privilegio de Protagonista
+descr=Al ser el atacante, la unidad contraria no podrá atacar (una sola vez por combate).
+
+< CARD_ACCELERATOR_EFFECT >
+name=Acelerador
+descr=Esta unidad tirará el doble de dados para todas sus acciones.
+
+< CARD_BINDINGCHAIN_EFFECT >
+name=Cadenas Unidas
+descr=El próximo turno de esta unidad será omitido.
+
+< CARD_EXTRAORDINARYSPECS_EFFECT >
+name=Especificaciones Extraordinarias
+descr=Los dados de esta unidad caerán en 6 para todas sus acciones.
+
+< CARD_MAGICALMASSACRE_EFFECT >
+name=Masacre Mágica
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá -1 REC al tirar un dado para revivir.
+
+< CARD_CASTOFF_EFFECT >
+name=Desecho
+descr=Los valores principales de ATK y DEF en esta unidad serán invertidos. Este efecto se perderá al noquear a la unidad, o hasta que Cuerpo Revelado sea usado una vez más.
+
+< CARD_LONGEAREDBEASTS_EFFECT >
+name=¡Bailen, Bestias Orejudas!
+descr=Esta unidad recibirá -2 ATK en su próxima batalla.
+
+< CARD_BLAZING_EFFECT >
+name=¡Ardiente!
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK y -1 DEF. Este efecto también se pierde al morir.
+
+< CARD_SEALEDMEMORIES_EFFECT >
+name=Memorias Selladas
+descr=Las cartas de esta unidad serán invertidas.
+
+< CARD_SELFDESTRUCT_EFFECT >
+name=Autodestrucción
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK.
+
+< CARD_CRYSTALBARRIER_EFFECT >
+name=Barrera de Cristal
+descr=Esta unidad consumirá una carga del efecto guardado para cancelar una trampa, una batalla o un panel de pérdidas y tomará un punto de daño. Este efecto también se pierde al morir.
+
+< CARD_DELTAFIELD_EFFECT >
+name=Campo Delta
+descr=Los dados de esta unidad caerán en 1 para todas sus acciones.
+
+< CARD_WHIMSICALWINDMILL_EFFECT >
+name=Molino Caprichoso
+descr=Esta unidad recibirá +1 EVD.
+
+< CARD_HYPER_ARUSCRAMBLE_EFFECT >
+name=El Regalo de Santa
+descr=Esta unidad no podrá iniciar una batalla contra otras.
+
+< CARD_HYPER_SORAMILITARY_EFFECT >
+name=Talento Despertado
+descr=Los dados de esta unidad caerán en 5 para todas sus acciones.
+
+< CARD_JONATHANRUSH_EFFECT >
+name=La Acometida de Jonathan
+descr=Esta unidad recibirá -1 DEF.
+
+< CARD_TURBOCHARGED_EFFECT >
+name=Turbo-Carga
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK. Este efecto también se pierde al morir.
+
+< CARD_IMMOVABLEOBJECT_EFFECT >
+name=Objeto Inamovible
+descr=Esta unidad no podrá moverse y tendrá que desafiar a todo aquél que se mueva hacia su mismo panel. Esta unidad recibirá +2 DEF y obtendrá la habilidad de contraatacar.
+
+< CARD_GOLDENEGG_CHICKEN_EFFECT >
+name=Huevo Dorado
+descr=Los paneles de pérdidas actuarán como paneles de estrellas.
+
+< CARD_GOLDENEGG_NOTCHICKEN_EFFECT >
+name=Huevo Dorado
+descr=Los paneles de estrellas actuarán como paneles de pérdidas.
+
+< CARD_NATH_EFFECT >
+name=Extensión Activa
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK/DEF y -1 EVD.
+
+< CARD_NONAME_EFFECT >
+name=Encabezado
+descr=Los valores principales de esta unidad cambiarán a -1 ATK/DEF/EVD y 2 PV. Este efecto se perderá al detenerse en un hogar o al morir.
+
+< CARD_AMPATK_EFFECT >
+name=Ataque Mejorado
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK.
+
+< CARD_AMPDEF_EFFECT >
+name=Defensa Mejorada
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 DEF.
+
+< CARD_AMPEVD_EFFECT >
+name=Evasión Mejorada
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 EVD.
+
+< CARD_AMPMOV_EFFECT >
+name=Movimiento Mejorado
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 MOV.
+
+< CARD_AMPHP_EFFECT >
+name=Vida Mejorada
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 PV.
+
+< CARD_AMPRECOVERY_EFFECT >
+name=Resurrección Mejorada
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá -1 REC.
+
+< CARD_BOUNTY_AMPATK_EFFECT >
+name=Ataque Mejorado
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK.
+
+< CARD_BOUNTY_AMPDEF_EFFECT >
+name=Defensa Mejorada
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 DEF.
+
+< CARD_BOUNTY_AMPEVD_EFFECT >
+name=Evasión Mejorada
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 EVD.
+
+< CARD_SOLIDWITCH_EFFECT >
+name=Bruja Sólida
+descr=Esta unidad no podrá ser dañada.
+
+< CARD_HYPER_SWEETEATER_EFFECT >
+name=Sweet Eater
+descr=Los valores principales de la unidad cambiarán a +3 ATK y 0 DEF/EVD. Este efecto se perderá al morir.
+
+< CARD_STEALTHON_EFFECT >
+name=Invisibilidad
+descr=Esta unidad no podrá ser desafiada o ser el blanco de otras cartas, y recibirá +2 ATK en su próxima batalla.\nEste efecto se perderá al entrar en combate, pero no se activará en los paneles de batalla o del jefe.
+
+< CARD_SMOKESCREEN_EFFECT >
+name=Humo Atrapante
+descr=Los dados de movimiento de esta unidad caerán en 1, 2 o 3.
+
+< CARD_KIRIKO_EFFECT >
+name=Medicina Extraña
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá -1 PV.
+
+< CARD_CUTIES_EFFECT >
+name=Eventos Estrellados
+descr=Esta unidad recibirá una estrella más de todas las fuentes.
+
+< CARD_SPECIALSTAGE_EFFECT >
+name=En Vivo
+descr=Esta unidad recibirá -3 MOV, sólo podrá activar paneles de movimiento, no podrá usar cartas, ser desafiada y ser el blanco de otras cartas.\nSi el oponente acaba su turno a 2 paneles de distancia, esta unidad robará estrellas equivalentes a tu Nivel x5.\nEste efecto también se perderá al morir.
+
+< CARD_PATHBLOCKERS_EFFECT >
+name=Camino Bloqueado
+descr=Esta unidad se detendrá sobre el primer panel que tenga una trampa.
+
+< CARD_POPPOFORMATION_EFFECT >
+name=Poppo-Transformación
+descr=Los valores principales de esta unidad cambiarán a -1 ATK/DEF/EVD en su próxima batalla.
+
+< CARD_HAND_BOOST_EFFECT >
+name=Mano Mejorada
+descr=Esta unidad podrá sostener una carta adicional en su mano, hasta un máximo de 5 cartas en mano.
+
+< CARD_CHEAT_EFFECT >
+name=? ? ? ? ? ?
+descr=????
+
+< CARD_CHAINBOUND_EFFECT >
+name=Encadenado
+descr=Esta unidad recibirá -2 EVD y -1 MOV.
+
+< CARD_JOKER_EFFECT >
+name=Poppo-Bromista
+descr=Todas las cartas de esta unidad ignorarán su nivel y costo.
+
+< CARD_HERBAL_REMEDY_EFFECT >
+name=Remedio de Hierbas
+descr=Duración: 1 capítulo. Esta unidad no podrá ser dañada.
+
+< CARD_ACCEL_CANDY_EFFECT >
+name=Caramelo Sobrecargado
+descr=Duración: 1 capítulo. Esta unidad tirará el doble de dados para todas sus acciones.
+
+< CARD_COTTONCAKE_EFFECT >
+name=Cartas Gratis
+descr=Duración: 1 capítulo. Todas las cartas de esta unidad ignorarán su nivel y costo.
+
+< CARD_REDBEANCREAM_EFFECT >
+name=Helado de Frijoles Rojos
+descr=Esta unidad recibirá +1 ATK. Este efecto se perderá al morir, y no puede ser activado más de una vez al mismo tiempo.
+
+< CARD_ZAPPERSWORD_EFFECT >
+name=Espada Mágica Encantada
+descr=Esta unidad recibirá +1 ATK y -1 DEF de forma permanente.
+
+< CARD_MELONPAN_EFFECT >
+name=Melonpan
+descr=Esta unidad recibirá +1 DEF, EVD y -1 ATK de forma permanente.
+
+< CARD_SMOKEBOMB_EFFECT >
+name=Bomba de Humo
+descr=En la próxima batalla, el enemigo de esta unidad recibirá -1 ATK, DEF y EVD.
+
+< CARD_SHIELD_EFFECT >
+name=Escudo
+descr=Reduce el daño recibido, y la cantidad de efectos guardados de este mismo tipo al comienzo de cada turno.
+
+< CARD_ELLIEATK_EFFECT >
+name=El Milagro de Ellie (ATK)
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK.
+
+< CARD_ELLIEDEF_EFFECT >
+name=El Milagro de Ellie (DEF)
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 DEF.
+
+< CARD_ELLIEEVD_EFFECT >
+name=El Milagro de Ellie (EVD)
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 EVD.
+
+< CARD_LUCKYLUNCH_EFFECT >
+name=Almuerzo de la Suerte
+descr=Esta unidad recibirá +1 ATK, DEF y EVD de forma permanente.
+
+< CARD_ALICIANRONE_ATK_EFFECT >
+name=Velocidad Dañina
+descr=Por el número de cada efecto guardado de este mismo tipo, esta unidad dañará a todo aquél en su camino.
+
+< CARD_BEASTWITCH_EFFECT >
+name=Tributo Bestial
+descr=Esta unidad descartará "Bruja Salvaje" al final de su turno.
+
+< CARD_SLOW_EFFECT >
+name=Lentitud
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá -1 MOV.
+
+< CARD_SHROOMZOOM_EFFECT >
+name=Shroom Zoom
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 MOV.
+
+< CARD_SUGURI46_EFFECT >
+name=Rejuvenecimiento
+descr=Esta unidad tirará un dado extra al moverse.
+
+< CARD_SUGURI46_ATK_EFFECT >
+name=Reminiscencia
+descr=Esta unidad recibirá +1 ATK.
+
+< CARD_MAYNIECOUNT_EFFECT >
+name=Puntos de Furia
+descr=Por el número de cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK y EVD al usar "Furia Alocada".
+
+< CARD_MAYNIERAGE_EFFECT >
+name=Modo Furioso
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK y EVD.
+
+< CARD_PASSIONATERESEARCH_EFFECT >
+name=Investigación Apasionada
+descr=Esta unidad podrá ver las próximas X cartas en el mazo, la X siendo el número de cada efecto guardado de este mismo tipo.
+
+< CARD_MINIGAME_TURNSKIP >
+name=Poppo Para
+descr=El próximo turno de esta unidad será omitido.
+flavor=
+
+< CARD_MINIGAME_REVERSEMOVEMENT >
+name=Poppo Reversa
+descr=El movimiento de esta unidad será invertido.
+flavor=
+
+< CARD_MINIGAME_DOUBLEDICE >
+name=Poppo Dado
+descr=Esta unidad tirará el doble de dados para todas sus acciones.
+flavor=
+
+< CARD_MINIGAME_FROSTWALKER >
+name=Poppo Helado
+descr=Esta unidad congelará todos los paneles en su camino por 1 capítulo.
+flavor=
+
+< CARD_XMAS2018_SNOWBALLFIGHTBAN >
+name=Frío
+descr=Esta unidad no podrá comenzar una Guerra de Nieve.
+flavor=
+
+< CARD_WANTED_EFFECT >
+name=Se Busca
+descr=Esta unidad otorgará el doble de victorias al ser derrotada dentro de una batalla. Este efecto se perderá al morir.
+
+< CARD_SWEETDESTROYER_EFFECT >
+name=Dulces Destrozados
+descr=Todas las cartas relacionadas a los Dulces tomadas del mazo se transformarán en Pudín Peligroso o Pudín en Mal Estado.
+
+< CARD_LONELYCHARIOT_EFFECT >
+name=Carruaje Solitario
+descr=Al moverse, los dados de esta unidad siempre caerán en 5. Al final de su turno, esta unidad recibirá un punto de daño. Este efecto se perderá al morir.\nSi esta unidad es noqueada por este efecto, paga estrellas equivalentes a su Nivel x5.
+
+< CARD_PRESIDENTPRIVILEGE_EFFECT >
+name=Privilegio de Presidente
+descr=Las cartas de esta unidad ignorarán sus costos.
+
+< CARD_SANTASJOB_EFFECT >
+name=El Trabajo de Santa
+descr=Al comienzo de cada turno, esta unidad podrá enviar una carta de Nivel usable desde su mano a la de un jugador aleatorio, y recibirá estrellas equivalentes al nivel de la carta x5 por hacerlo.
+
+< CARD_BANNEDFORLIFE_EFFECT >
+name=Prohibido De Por Vida
+descr=Esta unidad sólo podrá usar cartas de regalo.
+
+< CARD_EVILSPYWORKEXEC_EFFECT >
+name=Plan Malévolo ― Ejecución
+descr=Al final de su turno, esta unidad recibirá 3 puntos de daño.
+
+< CARD_REDBEANICECREAM_EFFECT >
+name=Helado Milagroso de Frijoles Rojos
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK.
+
+< CARD_REDBLUE_EFFECT >
+name=Rojo y Azul
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK, DEF y EVD.
+
+< CARD_BEASTWITCHGIFT_EFFECT >
+name=Bruja Salvaje
+descr=En el momento que otra unidad pierda estrellas en un panel de batallas, esta unidad recibirá esas estrellas.
+
+< CARD_UNLUCKYCHARM_EFFECT >
+name=Amuleto de la Desgracia
+descr=Al comienzo de su turno, esta unidad perderá estrellas equivalentes a su nivel x1.
+
+< CARD_WINDYENCHANTMENT_EFFECT >
+name=Velocidad Encantada
+descr=Esta unidad recibirá +1 MOV, pero no podrá subir de nivel.
+
+< CARD_LOSTCHILD_EFFECT >
+name=Niño Perdido
+descr=El movimiento de esta unidad será invertido, pero no podrá subir de nivel.
+
+< CARD_PRICEOFPOWER_EFFECT >
+name=El Precio del Poder
+descr=Esta unidad podrá usar las cartas con un sólo nivel mayor a su nivel actual, pero todos sus costos serán incrementados por 5.
+
+< CARD_POPPOSNATCHER_EFFECT >
+name=Poppo la Ladrona
+descr=Esta unidad recibirá -1 DEF, y le robará estrellas a todo aquél en su camino equivalentes al nivel del enemigo x 3. Al tener esta carta en mano, esta unidad no podrá subir de nivel.
+
+< CARD_BLOODLUST_EFFECT >
+name=Sed de Sangre
+descr=Al comienzo de su turno, esta unidad perderá un punto de vida, pero será curada por cada punto de daño causado. Al tener esta carta en mano, esta unidad no podrá subir de nivel.
+
+< CARD_LUCKYCHARM_EFFECT >
+name=Amuleto de la Suerte
+descr=Al comienzo de su turno, esta unidad recibirá estrellas equivalentes a su nivel x1, pero no podrá usar otras cartas.\nAl ser derrotada dentro de un combate, esta unidad otorgará estrellas equivalentes a su nivel x3.
+
+< CARD_MONOCOQUE_EFFECT >
+name=Monocasco Metálico
+descr=Al recibir daño fuera de un combate, esta unidad recibirá un punto menos de daño, pero perderá estrellas equivalentes a su nivel x2.
+
+< CARD_SAINTEYES_EFFECT >
+name=Ojos de Santo
+descr=Al ser el atacante, esta unidad recibirá +1 ATK por cada efecto guardado de este mismo tipo con un valor impar, y +1 DEF por cada efecto guardado de este mismpo tipo con un valor par.
+
+< CARD_CHEFSUMMON_EFFECT >
+name=¡Chef, Necesito Ayuda!
+descr=Chef luchará para esta unidad. Esta unidad podrá desafiar a otras a un combate.
+
+< CARD_MANAGERSUMMON_EFFECT >
+name=¡Señor Gerente, Necesito Ayuda!
+descr=El Gerente luchará para esta unidad. Esta unidad podrá desafiar a otras a un combate.
+
+< CARD_MANAGERCOUNTER_EFFECT >
+name=Número del Gerente
+descr=Este efecto será otorgado al usar una carta (exceptuando las cartas de regalo) de límite "Máx. 1". Obtener 4 o más al alcanzar la cuarta norma cambiará la carta "¡Chef, Necesito Ayuda!" a "¡Señor Gerente, Necesito Ayuda!".
+
+< CARD_PHILOSOPHERSTONE_EFFECT >
+name=Piedra Filosofal
+descr=Al comienzo de un nuevo capítulo, esta unidad recibirá 4 estrellas y una adicional cada 5 capítulos.
+
+< CARD_PERMARECREDUCTION_EFFECT >
+name=Energizado
+descr=Esta unidad recibirá -1 REC de forma permanente.
+
+< CARD_TEMPRECREDUCTION_EFFECT >
+name=Impulso de Vitalidad
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá -1 REC en su próximo intento para revivir.
+
+< CARD_SHOKUPAN_EFFECT >
+name=Revitalizar
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 PV al comienzo de su turno.
+
+< CARD_RADAR_EFFECT >
+name=Observador
+descr=Esta unidad podrá percibir la ubicación de todos los monstruos.
+
+< CARD_PRECISIONGOGGLES_EFFECT >
+name=Perspicaz
+descr=El rango de lanzamiento de esta unidad es incrementado por 2 paneles.
+
+< CARD_POISONED_EFFECT >
+name=Envenenado
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá un punto de daño al comienzo de su turno.
+
+< CARD_HARBINGER_FAME >
+name=Famoso Asesino de Enclenques
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 Fama, hasta un máximo de 6. Esta Fama será otorgada junto con la fama obtenida por derrotar al Presagio.
+
+< CARD_HARBINGER_SOULEATER >
+name=Come-Almas
+descr=Al obtener 3 efectos guardados de este mismo tipo, esta unidad recuperará todos sus puntos de vida y Condenará a todas las otras unidades.
+
+< CARD_HARBINGER_AWAKENED >
+name=El Despertar del Come-Almas
+descr=Esta unidad recibirá +1 Máx PV, +1 ATK y -1 DEF de forma permanente.
+
+< CARD_DOOM_EFFECT >
+name=Condena
+descr=Esta unidad será noqueada al haberse agotada la duración de este efecto. Este efecto se perderá al derrotar a la fuente de este efecto, al ser noqueado o al ser curado en una posada. Si la unidad es noqueada por causa de este efecto, el Presagio recibirá el efecto de Come-Almas.
+
+< CARD_CONTRACTCURSE_EFFECT >
+name=La Maldición del Contrato
+descr=Esta unidad está en posesión de uno o más contratos malditos. Un contrato maldito será descartado en 3 capítulos si este efecto no es curado.
+
+< CARD_DARKCHOCOMOUSSE_STAREATER >
+name=Come-Estrellas
+descr=Al obtener 3 efectos guardados de este mismo tipo, esta unidad recuperará todos sus puntos de vida y Condenará a todas las unidades.
+
+< CARD_DARKCHOCOMOUSSE_AWAKENED >
+name=El Despertar del Come-Estrellas
+descr=Esta unidad recibirá +1 Máx PV, +1 ATK y -1 DEF de forma permanente.
+
+< CARD_CHOCOLATEDOOM_EFFECT >
+name=Condena
+descr=Espumatón de Chocolate Oscuro robará las estrellas de esta unidad por un valor de su Nivel x 10 y recibirá un efecto de Come-Estrellas al comienzo de su turno una vez que se agote la duración de este efecto. Este efecto se perderá al derrotar a la fuente de este efecto, al ser noqueado o al ser curado en una posada.
+
+< CARD_DARKCHOCOMOUSSE_FAME >
+name=Un Matadébiles Muy Reconocido
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 Fama hasta un máximo de 6. La fama recibida será otorgada en adición a la cantidad de Fama otorgada al derrotar a un Espumatón de Chocolate Oscuro.
+
+< CARD_SPIKEDSHIELD_EFFECT >
+name=Escudo de Púas
+descr=Reduce el daño recibido por 1. Si el tiro de tu defensa tiene un valor mayor a la del ataque, el daño recibido será enviado de regreso a tu oponente (cantidad: la mitad del valor en el tiro de ataque).
+
+< CARD_BATTLEAXE_EFFECT >
+name=Verdugo
+descr=Esta unidad recibirá +1 ATK y -1 EVD de forma permanente.
+
+< CARD_CURSEDSWORD_EFFECT >
+name=Espada Maldita
+descr=Esta unidad recibirá +2 ATK, -1 DEF, -1 EVD y +1 Máx. PV. de forma permanente.
+
+< CARD_CURSEDAXE_EFFECT >
+name=Hacha Maldita
+descr=Esta unidad tendrá un 20% de probabilidades de realizar daño crítico al atacar, y un 10% de probabilidad de fallar un ataque.
+
+< CARD_CURSEDBOUNTY_EFFECT >
+name=Objetivo Maldito
+descr=El próximo Objetivo completado de esta unidad otorgará +2 Fama, pero hará que su PV y Máx. PV se reduzcan a 1 hasta ser noqueado o curado en una posada.
+
+< CARD_CURSEDMARK_EFFECT >
+name=Maldición
+descr=Esta unidad será condenada a fallar debido a la realización de un Objetivo Maldito. Este efecto se puede curar en una posada.
+
+< CARD_CURSEDICECREAM_EFFECT >
+name=Helado Milagroso de Frijoles Púrpura
+descr=Esta unidad recibirá +2 ATK y -3 Máx. PV (min. 1). Este efecto se perderá al morir.
+
+< CARD_BRAVERYUP_EFFECT >
+name=Cazador Valiente
+descr=La valentía de esta unidad será incrementada al derrotar al Presagio, reduciendo todos los puntos de daño dentro de una batalla por 1 en las siguientes x (la cantidad de efectos guardados de este mismo tipo) batallas.
+
+< CARD_OVERTIME_EFFECT >
+name=Tiempo Suplementario
+descr=Esta unidad tirará tres dados al moverse.
+
+< CARD_CLOCKEDOUT_EFFECT >
+name=Salida Marcada
+descr=El próximo turno de esta unidad será omitido.
+
+< CARD_HOMEIMPROVER_EFFECT >
+name=Reformador de Hogares
+descr=Una vez que este efecto se haya acabado, todos los hogares cambiarán de posición.
+
+< CARD_LUCKYSEVENS_EFFECT >
+name=Sietes de la Suerte
+descr=El valor natural de los dados en esta unidad tendrá un rango de 0 a 7, el resultado mínimo siendo 0.
+
+< CARD_LUCKYZERO_EFFECT >
+name=Cero de la Suerte
+descr=Esta unidad no podrá verificar su norma.
+
+< CARD_LOSTPRESENTS_EFFECT >
+name=Regalos Perdidos
+descr=Por cada efecto guardado de este mismo tipo, esta unidad tomará cartas del mazo al comienzo del próximo capítulo.
+
+< CARD_GUIDANCE_EFFECT >
+name=La Guía de la Hada Veleta
+descr=Esta unidad tirará dos dados para todas sus acciones, con la excepción de las batallas. Este efecto se perderá en el momento que esta unidad se detenga en su propio hogar. Además, solo podrá subir de nivel en su propio hogar.
+
+< CARD_SAFEJOURNEY_EFFECT >
+name=Aventura Asegurada
+descr=Este jugador perderá 5 estrellas al comienzo de cada turno, pero ignorará los paneles de perdidas, las trampas y el daño causado por cartas. Este efecto se perderá en el momento que este jugador se detenga en su propio hogar, o en el momento que tenga menos de 5 estrellas en mano.
+
+< CARD_HUNGRY_EFFECT >
+name=Hambre
+descr=Al obtener 3 efectos guardados de este mismo tipo, esta unidad recibirá -1 EVD. Este efecto se perderá en el momento que la unidad se detenga en su propio hogar.
+
+< CARD_GUIDANCE_BH_EFFECT >
+name=La Guía de la Hada Veleta
+descr=Esta unidad tirará 2 dados para todas sus acciones. Este efecto no se activará dentro de una batalla, y se acabará en el momento que esta unidad regrese a su propio hogar.
+
+< CARD_UPSHIFT_EFFECT >
+name=Cambio de Marcha
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 MOV.
+
+< CARD_LONELYRIDE_EFFECT >
+name=Camino Solitario
+descr=Esta unidad recibirá +1 ATK, +1 DEF y +2 EVD.
+
+< CARD_ZEALOUSSALESMAN_EFFECT >
+name=Vendedor Entusiasta
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK.
+
+< CARD_NEWNOBILITY_EFFECT >
+name=Encanto Noble
+descr=Esta unidad recibirá -1 ATK, DEF o EVD de forma aleatoria en su próxima batalla.
+
+< CARD_AFFLUENCE_EFFECT >
+name=La Invitación de la Princesa
+descr=Esta unidad recibirá -3 ATK durante la batalla.
+
+< CARD_RECOVERY_DOWN_EFFECT >
+name=Recuperación Empeorada
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 REC.
+flavor=
+
+< CARD_MESCAL_COOLDOWN_EFFECT >
+name=¡No Necesito tú Ayuda!
+descr=El Pirata Tripulante no podrá aparecer al desafiar a Mescal.
+flavor=
+
+< CARD_FORCED_DEPARTURE_EFFECT >
+name=Salida Forzada
+descr=Una vez que este efecto haya expirado, esta unidad deberá abandonar el campo de batalla.
+
+< CARD_BOSSROBOBARRIER_EFFECT >
+name=Escudo Absorbente
+descr=Esta unidad absorberá 1 punto de daño. Este efecto se perderá al activar el efecto de Autoreparación.
+
+< CARD_BOSSROBOREPAIR_EFFECT >
+name=Autoreparación
+descr=Al obtener 3 efectos guardados de este mismo tipo, esta unidad recibirá 1 PV y el efecto se perderá.
+
+< CARD_IDEALWORLD_EFFECT >
+name=Asunción Robótica
+descr=Tu próximo encuentro será con una unidad robótica salvaje. Esta unidad robótica salvaje recibirá +1 ATK.
+
+< CARD_BOSSROBOSLOWSTART_EFFECT >
+name=Comienzo Lento
+descr=Esta unidad recibirá -1 MOV.
+
+< CARD_HARDENEDSCALES_EFFECT >
+name=Escamas Endurecidas
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK. Este efecto se perderá al morir.
+
+< CARD_GOODESTBOY_EFFECT >
+name=El Mejor de los Amigos
+descr=Esta unidad no podrá desafiar o ser desafiada a un combate, tendrá inmunidad a los efectos de noqueo instantáneos, y copiará una carta de otros jugadores al estar en el mismo panel que ellos en el fin de ambos turnos; aun así, los oponentes podrían detenerse para acariciar a esta unidad. Este efecto se perderá al morir.
+
+< CARD_ARTOFSWORD_EFFECT >
+name=El Arte de la Espada
+descr=La habilidad de esta unidad se ha incrementado. Recibirá +1 ATK de forma permanente.
+
+< CARD_ARTOFSHIELD_EFFECT >
+name=El Arte del Escudo
+descr=La resistencia de esta unidad se ha incrementado. Recibirá +1 DEF de forma permanente.
+
+< CARD_ARTOFEVASION_EFFECT >
+name=El Arte de la Evasión
+descr=La evasión de esta unidad se ha incrementado. Recibirá +1 EVD de forma permanente.
+
+< CARD_RESOLUTE_EFFECT >
+name=Determinación
+descr=Esta unidad recibirá -1 REC de forma permanente.
+
+< CARD_STIMULATION_EFFECT >
+name=Estimulación
+descr=Esta unidad recibirá +1 PV de forma permanente.
+
+< CARD_CARRIER_EFFECT >
+name=Transportador
+descr=Esta unidad recibirá +1 Cartas y Contratos en Mano de forma permanente.
+
+< CARD_PREMIUMMEMBERSHIP_EFFECT >
+name=Afiliación de Primera Calidad
+descr=Esta unidad recibirá una reducción de costos para todas las tiendas (exceptuando la del Comerciante Ambulante), por un valor de 30% luego de todas las calculaciones.
+
+< CARD_JOGGER_EFFECT >
+name=Corredor
+descr=Esta unidad recibirá +1 MOV de forma permanente.
+
+< CARD_JOGGER_EFFECT >
+name=Corredor
+descr=Al finalizar su turno tras usar todos los puntos de movimiento, esta unidad recibirá +1 MOV la próxima vez que intente tirar dados de movimiento.
+
+< CARD_JOGGING_EFFECT >
+name=Corriendo
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 MOV al tirar dados de movimiento.
+
+< CARD_PLENTIFULHARVEST_EFFECT >
+name=Cosecha Abundante
+descr=Esta unidad recibirá estrellas al completar Cazas o Misiones.
+
+< CARD_COMMANDER_EFFECT >
+name=Comandante
+descr=Puede tomar el control de los secuaces convocados.
+
+< CARD_SWEETMOUNTAIN_EFFECT >
+name=Montaña de Dulces
+descr=Esta unidad podrá usar Cartas de Impulso por un 1/3 de su costo.
+
+< CARD_CHAOS_PROTECT_EFFECT >
+name=Protección Caótica
+descr=Por cada efecto guardado de este mismo tipo, todo daño recibido será reducido por 2, hasta un mínimo de 1.
+
+< CARD_CHAOS_HYPE_EFFECT >
+name=Ánimo
+descr=Esta unidad parece estar muy animada.
+
+< CARD_CHAOS_RAMPAGE_EFFECT >
+name=Alboroto
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK.
+
+< CARD_CHAOS_MUSCLE_EFFECT >
+name=Músculo Caótico
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK (hasta un máximo de +3 ATK).
+
+< CARD_CHAOS_GUARD_EFFECT >
+name=Guardia Caótica
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 DEF (hasta un máximo de +3 DEF).
+
+< CARD_CHAOS_SPEED_EFFECT >
+name=Velocidad Caótica
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 EVD (hasta un máximo de +3 EVD).
+
+< CARD_CHAOS_LAUNCH_EFFECT >
+name=Lanzamiento Caótico
+descr=Al comienzo de su turno, esta unidad se zambullirá en el panel escogido, dañando a todas las unidades a 2 paneles de distancia por un valor equivalente a su Nivel x1, y a todas las unidades a 1 panel de distancia por un valor equivalente a su Nivel x2.
+
+< CARD_BOMBIMMUNITY_EFFECT >
+name=Inmunidad a las Explosiones
+descr=Esta unidad no será dañada por explosiones hasta el comienzo de su próximo capítulo.
+
+< CARD_CHAOS_DIVE_FATIGUE_EFFECT >
+name=Fatiga de Zambullida
+descr=Esta unidad no podrá subir de Norma mientras que este efecto se encuentre activo.
+
+< CARD_HOTPOTATO_EFFECT >
+name=Sostén a la Diablilla
+descr=¡Podría explotar en cualquier momento!
+
+< CARD_SLUMBERTHREATS_EFFECT >
+name=Amenazas a Mi Sueño
+descr=Al cancelar exáctamente un punto de daño dentro de una batalla, esta unidad recibirá un efecto de Despertar.
+
+< CARD_WAKING_EFFECT >
+name=Despertar
+descr=La cantidad de veces que tu sueño ha sido amenazado.
+
+< CARD_PRISONBREAK_EFFECT >
+name=Escape de Prisión Fingido
+descr=Esta unidad tirará dos dados al moverse y no podrá ser desafiada o ser el blanco de las cartas de Impulso de otros jugadores. También será inmune a las cartas Trampa, a los efectos de noqueo instantáneos y al daño recibido por las cartas de otros jugadores. Se perderá un efecto de este mismo tipo por cada panel atravesado.
+
+< CARD_HYPERMIRACLE_EFFECT >
+name=El Hiper Milagro de Ellie
+descr=Duración: 2 capítulos. Esta unidad recibirá +X ATK en una batalla al ser el atacante, y +1 DEF y +1 EVD al ser el defensor. X = la cantidad de Normas completadas por esta unidad.
+
+< CARD_WARPCONTROL_EFFECT >
+name=Teletransportación Controlada
+descr=Al activar el efecto de Teletransportación o Teletransportación y Movimiento, este efecto será consumido y la unidad podrá escoger el panel de Teletransportación en el que caerá.
+
+< CARD_MOMENTOFGLORY_EFFECT >
+name=Ex-Protagonist's Moment of Glory
+El Momento de Gloria del Ex-Protagonista
+descr=Costo: Nivel x10. Duración: 3 capítulos. Los puntos de vida de esta unidad son reducidos a 1, pero recibe +4 ATK y +5 EVD. 
+
+< CARD_HKAIPASSIVE_EFFECT >
+name=Kai (Héroe)
+descr=Si el daño recibido fuera de un combate fuera a dejar a esta unidad con menos de 1 PV, se queda en 1 PV, pero pierde 1 PV en el comienzo de su próximo turno. 
+
+< CARD_MOTHERPOWER_EFFECT >
+name=Poder de Madre
+descr=Esta unidad recibirá Estrellas por un valor equivalente al Nivel del Jugador x1 por cada punto de daño recibido, y recuperará todos sus puntos de vida una vez que este efecto se acabe o sea reemplazado por otro. Este efecto también se perderá al ser noqueado.
+
+< CARD_CANNONBALL_EFFECT >
+name=Cañón
+descr=Recibido al usar una carta.
+
+< CARD_BOURBON_EFFECT >
+name=Ala Rota
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá -1 Máx. PV. Este efecto se perderá al morir.
+
+< CARD_HEART_OF_RESISTANCE_EFFECT >
+name=El Corazón de la Resistencia
+descr=Cuando este efecto se encuentre activo, esta unidad tomará el lugar de la otra dentro de la batalla la próxima vez que sean desafiados o desafíen a otra unidad.
+
+< CARD_HYPER_POYO_EFFECT >
+name=Hora de la Super Juventud
+descr=Esta unidad duplicará el valor de sus dados de Ataque, Defensa, Evasión, Movimiento, Estrellas y Pérdidas.
+
+< CARD_HYPER_CHUU_EFFECT >
+name=Lo Intentaré Al Menos Un Poco
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK, no recibirá estrellas al derrotar a enemigos, y recibirá 2 Victorias al derrotar a un jugador por primera vez mientras este efecto se encuentre activo.
+
+< CARD_CHAOS_SLAYER_EFFECT >
+name=Alma de Asesino
+descr=Tú y tus compañeros están conectados por una unión mística.\nEsta unidad tendrá el valor de su REC reducido por 1, y siempre tirará 2 dados de movimiento. También podrá curar y revivir a cada compañero.
+
+< CARD_CHAOS_TANK_EFFECT >
+name=Alma de Tanque
+descr=Tienes la orden de destrozar a tus enemigos.\nEsta unidad tendrá ATK +2, Máx. PV incrementados, y será inmune a los efectos de noqueo instantáneos y reducción de PV. No podrá curarse.
+
+< CARD_CHAOS_TERRORIZE_EFFECT >
+name=Aterrorizado
+descr=Esta unidad recibirá REC +3 cada vez que sea noqueada una vez que este efecto sea aplicado.
+
+< CARD_HYPER_HARUKA_GLOBAL_EFFECT >
+name=Portadora de Ánimos
+descr=Si un jugador es noqueado, se recuperarán de forma instantánea con todos sus puntos de vida.
+
+< CARD_HYPER_HARUKA_PERSONAL_EFFECT >
+name=¡Ánimo!
+descr=Esta unidad recibirá Estrellas (valor: Nivel x 5) cada vez que un jugador sea noqueado. Este efecto puede ser guardado más de una vez mientras que el efecto de Portadora de Ánimos se encuentre activo.
+
+< CARD_INTELLECTUALBLUFF_EFFECT >
+name=Engaño Que Suena Intelectual
+descr=Si la próxima carta escogida por otro jugador es del tipo correcto: esta unidad recibirá +2 Victorias y Estrellas (valor: Nivel x 10)\nSi no lo es: recibirá 2 puntos de daño.
+
+[EOF]

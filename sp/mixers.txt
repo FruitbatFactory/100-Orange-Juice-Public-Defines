@@ -1,0 +1,111 @@
+< MIXER_AIR_RAID >
+name=Ataque Aéreo
+descr=Todas las unidades recibirán un punto de daño al comienzo del capítulo. Frecuencia: 5 capítulos.
+
+< MIXER_AMPLIFY >
+name=Amplificación
+descr=El valor del ataque, defensa o evasión de todas las unidades se incrementará por 1. Duración: 2 capítulos.
+
+< MIXER_BACKTRACK >
+name=Reversa
+descr=La dirección del movimiento es revertida para todas las unidades. Duración: 1 capítulo.
+
+< MIXER_BOMBER >
+name=Bomba
+descr=Una bomba es colocada en un panel al azar y explota después de 1-4 capítulos, todas las unidades a dos paneles de distancia en forma de cruz reciben dos puntos de daño.
+
+< MIXER_CHARITY >
+name=Caridad
+descr=Todos los jugadores toman una carta al comienzo de cada capítulo.
+
+< MIXER_CONFUSION >
+name=Confusión
+descr=Todas las cartas de los jugadores son revertidas y reordenadas, ningún jugador podrá verlas.
+
+< MIXER_FREEZE >
+name=Congelados
+descr=El 1/3 de los paneles en el campo son congelados.
+
+< MIXER_MINELAYER >
+name=Buscaminas
+descr=Una trampa es colocada en un panel aleatorio.
+
+< MIXER_MIRACLE >
+name=Milagro
+descr=Todos los paneles, salvo los del jefe, multiplícan sus efectos x2. 
+
+< MIXER_RANDOM_WARP >
+name=Teletransportación
+descr=Todas las unidades son enviadas a un panel aleatorio.
+
+< MIXER_REGENERATION >
+name=Regeneración
+descr=Todas las unidades recuperan un punto de vida.
+
+< MIXER_SPRINT >
+name=Carrera
+descr=Todos los Dados de Movimiento se multiplican x2.
+
+< MIXER_TREASURE >
+name=Tesoro
+descr=Un cofre del tesoro es colocado en un panel al azar.
+
+< MIXER_HEALTHY_BOSS >
+name=Jefe Saludable
+descr=Los jefes tendrán 10 PV adicionales.
+
+< MIXER_STAR_CHASER >
+name=Cazador de Estrellas
+descr=Recibe el doble de estrellas en todos los paneles de estrellas.
+
+< MIXER_BEGGAR >
+name=Mendigo
+descr=Pierde el doble de estrellas en todos los paneles de pérdidas.
+
+< MIXER_AGGRESSIVE_HEROES >
+name=Héroes Agresivos
+descr=Todos los aliados reciben +1 ATK.
+
+< MIXER_DEFENSIVE_HEROES >
+name=Héroes Defensivos
+descr=Todos los aliados reciben +1 DEF.
+
+< MIXER_EVASIVE_HEROES >
+name=Héroes Rápidos
+descr=Todos los aliados reciben +1 EVD.
+
+< MIXER_BLAZING >
+name=Flameante
+descr=Todas las unidades reciben +1 ATK y -1 DEF.
+
+< MIXER_FLIPPED >
+name=Volteado
+descr=El efecto de "Campo Invertido" se aplicará por 3 capítulos en todos los jugadores.
+
+< MIXER_MENACING_BOSS >
+name=Jefe Amenazante
+descr=Los jefes reciben +1 ATK.
+
+< MIXER_HARD_SHELLED_BOSS >
+name=Jefe de Cáscara Dura
+descr=Los jefes reciben +1 DEF.
+
+< MIXER_SLIPPERY_BOSS >
+name=Jefe Resbaladizo
+descr=Los jefes reciben +1 EVD.
+
+< MIXER_JOKER >
+name=Bromista
+descr=Todas las cartas podrán ser usadas sin pagar por su costo.
+
+< MIXER_BANKRUPT >
+name=Bancarrota
+descr=El costo de todas las cartas es incrementado por 10 estrellas.
+
+< MIXER_GOO >
+name=Viscosidad
+descr=El 1/3 de los paneles sin viscosidad son cubiertos con viscosidad por 1 capítulo.
+
+< MIXER_SPORES >
+name=Esporas
+descr=Hongos aparecerán en el campo de juego.

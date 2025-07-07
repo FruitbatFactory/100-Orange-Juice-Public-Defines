@@ -1,0 +1,207 @@
+
+<0000> Un par de Navidades atrás, en dos mundos diferentes, dos confrontaciones distintas tomaron lugar.
+<0001> Ambas batallas ocurrieron entre Santa Claus y un empleado de una tienda de juguetes intentando impedir la entrega de los regalos.
+<0002> Los dos incidentes eran casi iguales en todo sentido.
+<0003> La única diferencia fue que ambos culpables no eran los mismos.
+<0004> Navidades Cruzadas: Prologo.
+<0005> La Navidad se acerca.\nPara mi trabajo, es la mejor época del año.
+<0006> Phew...
+<0007> Pero, antes de eso, hay algo que debo hacer.
+<0008> Le estoy debiendo a alguien, y necesito devolver el favor.
+<0009> *Llamada llamada*
+<0010> ¿Mhm?\nHablando de favores...
+<0011> Diga.
+<0012> ¡Señor Arturo, necesito que me ayude a conseguir algunos regalos de Navidad para este año!
+<0013> Llamas en un buen momento.\nEstaba a punto de hacerlo yo mismo.
+<0014> Hiciste mucho por mí en el pasado, así que esta vez haré lo mejor que pueda para ayudarte.
+<0015> ¡Muchísimas gracias, Señor Arturo!
+<0016> Así que, lo que sucede, es que hay un par de pedidos en los que necesito un poco de ayuda...
+<0017> Continúa.
+<0018> ¿Has oído hablar acerca de "¡Abatida! Tomomo, El Saco de Boxeo"?
+<0019> ¿¡QUÉ!? ¿¡TOMOMO, EL SACO DE BOXEO!?
+<0020> Tiene un diseño exquisitamente molesto pero satisfactorio, y ofrece la mejor experiencia para tus golpes...
+<0021> Cuando es golpeado, emite un sonido que te hace sentir muy, pero muy bien.\nEs uno de los productos anti estrés que mejor se vende, los niños y adultos matarían por esto...
+<0022> Escuché que es tan popular que la demanda es mucho más grande que el suministro de los mismos.
+<0023> Así es. Y por eso, se me hace difícil para mí adquirirlos.
+<0024> Sí que son difíciles de encontrar, pero...
+<0025> Yo me encargo. Conseguiré toda la cantidad que necesites.
+<0026> ¡Gracias, Señor Arturo!
+<0027> Tú eres...
+<0028> ¡...!
+<0029> ¿Qué tramas...? Fuera de mi camino.
+<0030> ¡T-tú primero!
+<0031> Estoy trabajando, y llevándome estos sacos de boxeo.
+<0032> ¡Espera! ¡Esos son de Nico!
+<0033> ¿¡Nico...!?
+<0034> Santa le pidió a Nico que le lleve un par de esos, así que tienes que dejar que Nico termine su trabajo.
+<0035> ¿Santa... te lo pidió a ti?
+<0036> ¿También estás trabajando para ella?
+<0037> ¿Eh?
+<0038> Qué coincidencia, también estoy haciendo esto por Santa.
+<0039> ¿En serio?
+<0040> Sí. Me pidió que por favor la ayudara a conseguir lo último en productos de la tienda de regalos.
+<0041> *Llamada llamada*
+<0042> En el momento perfecto. Es ella.
+<0043> ¡Señor Arturo!
+<0044> Eh.\nYa tengo en mis manos los sacos de boxeo que habías pedido.
+<0045> ¡Sabía que lo harías! ¡Muchísimas gracias!
+<0046> ...y, hay una cosa más que necesito que me consigas...
+<0047> Sólo dime.
+<0048> ¿Has oído hablar de "La Gran y Cariñosa Almohada x16"?
+<0049> ¿Qué...? ¿¡LA GRAN Y CARIÑOSA ALMOHADA x16!?
+<0050> ¿¡ACASO DIJISTE LA GRAN Y CARIÑOSA ALMOHADA x16!?\nDicen que abrazar esas almohadas te ayudan a relajarte 16 veces más de lo normal, consiguiéndote sueños dulces y fantásticos...
+<0051> Sí, y eso las hace extremadamente populares.\nLa opción para pre-ordenar en línea siempre se agota el minuto después de que se encuentra disponible.\nRealmente son difíciles de encontrar...
+<0052> Esto... ¿Podrías...?
+<0053> Ja, considéralo hecho.
+<0054> ¿Estás seguro...?
+<0055> Si Santa me lo está pidiendo, significa que hay niños que los necesitan.
+<0056> Hacer felices a los niños es mi trabajo.
+<0057> Está bien...
+<0058> ¡Entonces, Nico piensa que debe trabajar contigo!
+<0059> ¿Eh?
+<0060> Nico y tú están trabajando para Santa, así que será mucho más rápido si se hace entre dos, ¿verdad?
+<0061> Aun así, esto no es un trabajo fácil.
+<0062> Es por eso que se debería hacer entre tú y Nico.\nMientras más trabajen, más rápido se terminará el trabajo.
+<0063> Ya veo...\nBien, haremos esto juntos.
+<0064> ¡Genial!
+<0065> De alguna forma, conseguimos muchas de esas almohadas...
+<0066> Sí, Nico se siente aliviada.
+<0067> *Llamada llamada*
+<0068> Parece que no podremos relajarnos todavía.
+<0069> Au... Nico se pregunta qué es lo que quiere Santa esta vez.
+<0070> ¿¡Pe-pero qué...!?
+<0071> ¿¡Qu-qué, qué!? ¿¡Qué es esta vez!?
+<0072> "El Acelerador"...
+<0073> ¿¡EL ACELERADOR!?\n¿¡Ese juguete tan popular que por alguna razón te hará sentir mucho más veloz si lo colocas en tu espalda!?
+<0074> Muchos niños quieren eso en las temporadas deportivas.\nBueno, no estamos en una de esas temporadas, así que debería ser un poco más fácil de encontrar que el resto de las cosas...
+<0075> ¡Estamos en problemas!
+<0076> ¿Qué dices?
+<0077> El Acelerador... está fuera de producción.
+<0078> ¿¡Eso no puede ser cierto!?\nPero si eran extremadamente populares...
+<0079> Aparentemente llegaban muchas quejas acerca de la temperatura extrema que el juguete otorgaba...
+<0080> Correr aumenta la temperatura corporal.\nEs algo natural... idiotas.
+<0081> Uuu, Nico también quería uno de esos.
+<0082> ...En fin, hay una sola manera de encontrar esas cosas: Buscándolos en todos lados.
+<0083> Jaah, jaah...
+<0084> Aquí.
+<0085> ¡Oh dios mío, es chocolate helado!
+<0086> Tú prefieres las bebidas frías incluso en temporadas de invierno, ¿no?
+<0087> Así es. A Nico no le gustan las bebidas calientes.\n...Espera, ¿cómo sabías eso?
+<0088> Sólo lo pensé.
+<0089> Está bien... ¡Gracias de todas formas!
+<0090> Seguiremos con nuestro camino una vez que termines esa bebida y descansemos un poco.
+<0091> ¿Qué sigue?
+<0092> Es un muñeco de la serie: "Bestias Bailando en la Oscuridad".
+<0093> Si Nico recuerda bien, supone que son hechos a mano y sólo unos pocos se encuentran en el mercado...
+<0094> Sí...\n¿Por qué los niños querrán todas estas cosas tan difíciles de obtener?
+<0095> Porque son niños, claro que los van a querer de una u otra forma.
+<0096> Tú eres uno de ellos.
+<0097> Uuu...
+<0098> Y dime, ¿qué quieres para navidad?\n¿Uno de esos Aceleradores?
+<0099> Nico no quiere nada.
+<0100> ¿No quieres nada...?
+<0101> No.
+<0102> Eso es lo último que un padre quisiera escuchar de su hija en esta época del año.
+<0103> Nico hizo algo muy malo, y tiene que ver con los regalos de Navidad.
+<0104> ¿Qué? ¿Acaso te pelease con Santa o algo así?
+<0105> ¿Cómo lo sabes?
+<0106> Sólo lo pensé.
+<0107> ...Debes estar haciendo telepatía.
+<0108> Es porque soy un adulto.
+<0109> Los adultos son increíbles.
+<0110> En fin, después de que eso ocurrió, Nico quiere ser la que entregue los regalos.
+<0111> Pero, en realidad... lo que Nico quiere es ver las sonrisas alegres en todos los niños del mundo.
+<0112> ...Muy bien, deberíamos empezar a movernos.
+<0113> ¡¡Eh, Nico acaba de decir algo realmente genial!!
+<0114> Aun así, Nico piensa que hoy tendrá dulces sueños.
+<0115> Si estás cansada, deberías volver a casa.
+<0116> Nico está cansada, pero sólo volverá a casa una vez que termine con este trabajo.
+<0117> Ya veo. Una buena noticia para ti es que una vez que tengamos nuestras manos en el siguiente objeto, podremos terminar el día.\nNo te duermas por el camino.
+<0118> ¡No lo haré!
+<0119> Pero, la mala noticia es que este siguiente objeto podría ser el más difícil de obtener.
+<0120> Oh, Nico recibió un mensaje de Santa en su celular.\nVeamos...
+<0121> ¿Qué...? No puede ser...
+<0122> Un castillo volador.
+<0123> Un castillo como regalo de Navidad...\n¿¡Cómo alguien puede ser tan codicioso!?
+<0124> Je-je-je, bueno, acepto el desafío.
+<0125> Déjame adivinar, ¿porque piensas que un niño de verdad podría pedir un castillo volador como regalo?
+<0126> Así es.
+<0127> Sigue pareciendo ser un poco imposible, aun así...\n¿Cómo se supone que conseguiremos un castillo volador?
+<0128> Hemos resuelto todos los problemas anteriores.\nDeberíamos poder trabajar con esto.
+<0129> ¿Tú crees?
+<0130> ¿Tú no?
+<0131> Nico piensa que es posible si trabaja contigo.
+<0132> Está bien, entonces es hora de ir adelante y terminar nuestro trabajo con el pedido más grande hasta el momento.
+<0133> ¡Sí! ¡Haremos el intento!
+<0134> ¡Lo hicimos! ¡Hemos terminado!
+<0135> Sí, buen trabajo.
+<0136> ¿Y qué haremos ahora?\n¿Quieres conseguir algo para comer?
+<0137> Nico se muere de hambre.\n...Pero está segura de que Mamá le preparó algo delicioso en casa.
+<0138> A lo mejor tienes razón.
+<0139> ¿Y qué hay de ti?
+<0140> Le dije a mi esposa que llegaría tarde esta noche.\nYa no sé qué hacer.
+<0141> Así que, estás casado.
+<0142> Sí, y también tengo una hija.
+<0143> ¿Y acaso se parece a Nico?
+<0144> Se parece tanto que por un momento habría jurado que eras tú.
+<0145> El papá de Nico también se ve como tú.\n¿Será una coincidencia?
+<0146> Incluso tienes el mismo nombre que mi hija.\nSi todo esto es una simple coincidencia, estaré impresionado... Pero quién sabe...
+<0147> ¡Señor Arturo! ¡Perdóneme por pedirle tantos favores!
+<0148> Aquí viene Santa.
+<0149> ¡Nico! ¡Muchísimas gracias! ¡Realmente me ayudaste mucho!
+<0150> Santa llegó.
+<0151> ¿¡Qué...!? ¿¡Eres... yo!?
+<0152> ¿¡Hay dos de mí!?
+<0153> Uh... ¿Qué crees que está ocurriendo aquí?
+<0154> A lo mejor... tú y yo somos de dos mundos distintos.
+<0155> En mi mundo, yo metí a Santa en problemas.
+<0156> Y Nico lo hizo en el suyo.
+<0157> Supongo que tú eres la hija de Arturo en tu propio mundo.
+<0158> Eso tiene sentido... ¿Pero cómo es que ocurrió esto?
+<0159> No me lo preguntes a mí. Aunque, hay un gran problema entre todo esto.
+<0160> ¿Y cuál es?
+<0161> ¿Quién de nosotras se llevará los regalos que consiguieron?
+<0162> Ah.
+<0163> Yo... estoy con la Santa de mi mundo.
+<0164> Nico...
+<0165> Tú le hiciste cosas malas a la Santa de tu mundo, ¿no es así?
+<0166> Sí.
+<0167> Entonces ya sabes que hacer.\nTú serás mi hija, pero...\nNo. Incluso si eres mi hija, no lo haré una tarea fácil.
+<0168> Nico tampoco lo hará.
+<0169> ¿Qué es lo que va a suceder, Señor Arturo?
+<0170> Nico, necesito que dejes de hablarle y te unas a mí.
+<0171> ¡Bien! ¡No podrás vencerme, Papá!
+<0172> Adelante, Nico.
+<0173> Buen trabajo.\nLos regalos son suyos.
+<0174> ¿Qué es lo que harán con los regalos de su mundo?
+<0175> Fácil, iré a conseguirlos otra vez.
+<0176> Uuu, eso no será para nada fácil...
+<0177> Pero es la única opción que tengo.
+<0178> ¿Vas a buscar todos esos regalos una vez más...?\n¡Eek!
+<0179> Uuu...
+<0180> ¿Se encuentra todo bien?
+<0181> ¡Uuu! ¡Nico está exhausta!\n¡Y su cena se enfriará si no vuelve a casa!
+<0182> Pero.
+<0183> ¡Nico te ayudará!
+<0184> ¿Qué?
+<0185> No tienes que forzarte a hacerlo.
+<0186> ¡Nico dijo que te ayudará!
+<0187> Vete a casa ahora o te meterás en problemas.
+<0188> Uu... ¿Papá me gritará?
+<0189> Estoy seguro de que lo hará.\nY tampoco te dará nada del dinero que consiguió en su trabajo.
+<0190> ¡Uuu! ¡Pero, pero!
+<0191> ¡Nico realmente te ayudará!\n¡Pero porque no está bien meter a tú Santa en problemas por nuestra culpa! ¡Ya que le di problemas a mí Santa, ayudaré a la tuya también!
+<0192> ¡Y aun así, Nico quiere ver las sonrisas en todos los niños del mundo, no importa de qué mundo sean!
+<0193> Papá, ¿está mal hacer esto por ellos?
+<0194> ...
+<0195> ...
+<0196> *Suspiro*
+<0197> Has crecido, Nico.
+<0198> Nico ya sabía eso.
+<0199> Hay que apresurarse y terminar esto lo antes posible para que puedas volver a casa a tiempo.
+<0200> ¡Sí!
+<0201> ¡Y yo también haré lo mejor que pueda para ayudar a la otra parte de mí!
+<0202> ¡Gracias, yo!\n¡Y muchas gracias, Nico!
+<0203> ¡Muy bien, es la hora de la búsqueda de regalos: parte 2!\n¡Vamos!
+<0204> ¡Claro!
+<0205> Sí.

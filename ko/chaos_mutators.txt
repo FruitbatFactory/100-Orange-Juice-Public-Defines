@@ -1,0 +1,123 @@
+< MUTATOR_RANDOM >
+name=무작위
+descr=무작위 혼돈 변이가 선택된다.
+
+< MUTATOR_HYPER_DECK >
+name=하이퍼 덱
+descr=덱의 모든 카드가 미리 생성된 하이퍼로 변경된다.
+
+< MUTATOR_RANDOM_GENERATION >
+name=패널 섞기
+descr=워프와 홈 패널을 제외한 모든 패널이 매 챕터마다 무작위로 변한다.
+
+< MUTATOR_POPPOMANIA >
+name=궁극의 폿포광
+descr=뽑는 하이퍼가 모두 신출귀몰이 된다.
+
+< MUTATOR_NEMESIS_DRAFT >
+name=적 선발
+descr=게임 시작 시 선택된 유닛들의 주인이 바뀐다.
+
+< MUTATOR_ULTIMATE_JOKER >
+name=궁극 조커
+descr=모든 카드가 레벨 1에 코스트 없음으로 취급된다.
+
+< MUTATOR_BDTT >
+name=탱크를 잡아라
+descr=무작위 플레이어 1명의 HP가 50 증가하고 기본 공격력이 2가 되며 KO 카드 효과에 면역이 된다. 다른 플레이어는 영구적으로 대시를 얻는다.\n모든 카드는 무료에 레벨 1로 취급된다.\n탱크가 KO될 시 나머지 플레이어 3명이 승리한다.\n30챕터동안 탱크가 KO되지 않으면 탱크가 승리한다.
+
+< MUTATOR_UNSTABLE_SELECTION >
+name=불안정한 선택지
+descr=선택 캐릭터 대상이 무작위 캐릭터 대상으로 변경된다.
+
+< MUTATOR_MIXED_JUICE >
+name=100% 믹스 주스!
+descr=게임 시작과 함께 모든 능력치가 무작위로 배분된다. 뽑는 모든 하이퍼가 무작위가 된다.
+
+< MUTATOR_MULTIPLICATION >
+name=배가된 감각
+descr=모든 능력치, 효과, 지속 시간이 2배가 된다.
+
+< MUTATOR_FAERIZE >
+name=요정화
+descr=모든 플레이어가 오로라가 된다. \n처음에 선택한 유닛을 우호 봇이 조종하고 스타와 승리 수를 공유한다.\n노르마 체크는 자신의 봇만이 할 수 있다.\n자신의 봇을 승리로 이끌어가자.
+
+< MUTATOR_MAXTENSION >
+name=맥스텐션
+descr=모든 배틀 카드가 레벨 1로 취급되는 익스텐션으로 변경된다.
+
+< MUTATOR_POPPOFORMATION >
+name=폿포메이션
+descr=모든 플레이어가 2~10챕터 사이 간격으로 2챕터 동안 폿포가 된다.
+
+< MUTATOR_FORCED_EXCHANGE >
+name=강제 교환
+descr=매 5챕터마다 챕터 시작 시 모든 플레이어의 카드가 선물 교환이 발동했을 때처럼 재분배된다.
+
+< MUTATOR_BOMBERJAM >
+name=봄버잼
+descr=모두가 자신의 턴에 파란 폭탄을 설치할 수 있다. 폭탄은 무작위 지연 시간 이후 폭발한다.\n또한 짧은 거리를 대시할 수 있다.
+
+< MUTATOR_DYNAMIS_DICE >
+name=잠재 주사위
+descr=주사위 굴림값을 직접 정한다. \n한 번 쓴 값은 나머지 값을 전부 쓸 때까지 쓸 수 없다.
+
+< MUTATOR_SHOPAHOLIC >
+name=쇼핑중독
+descr=아이템 품목이 조정된 현상금 사냥 상점이 무작위 패널에 나타난다.
+
+< MUTATOR_KNIGHTS_AND_FAERIES >
+name=기사와 요정
+descr=게임 시작 시 수호자와 배틀 도전 제한이 없는 오로라 중 어느 쪽으로 플레이할지 선택한다. \n뽑는 하이퍼는 모두 무작위가 되며 예기치 못한 일이 발생할 수 있다.
+
+< MUTATOR_FOURHEAVENLYKINGS >
+name=사천왕
+descr=게임 시작 시 협동전 보스를 골라 그것으로 플레이한다.
+
+< MUTATOR_CHAOS_BATTLEFIELD >
+name=혼돈의 전장
+descr=모든 배틀이 2라운드 동안 진행된다.\n매 10챕터마다 모든 패널이 플레이어 엔카운터 패널이 된다. 이를 통한 배틀은 10라운드 동안 진행된다.\n노르마 레벨을 올릴 때마다 원하는 능력치를 +1씩 얻을 수 있다.
+
+< MUTATOR_HOT_POTATO >
+name=성가신 꼬맹이
+descr=무작위 플레이어가 "성가신 꼬맹이" 기프트 카드를 얻는다. 가지고 있으면 스타를 주거나 폭발한 뒤 다른 플레이어에게 옮겨간다.
+
+< MUTATOR_SHARING_IS_CARING >
+name=나누면 기쁨이 두 배
+descr=매 챕터, 모두가 각자의 패를 다음 플레이어에게 준다.
+
+< MUTATOR_OVERINDULGENCE >
+name=과잉섭식
+descr=최대 HP가 99가 되지만 HP 1으로 즉시 부활한다. 덱에 있는 모든 비 하이퍼 카드는 무작위 스위트 타입 카드로 대체된다. HP가 많으면 보상을 받지만 과식을 하면 둔해지니 조심!
+
+< MUTATOR_UNLIKELY_ALLIANCE >
+name=상상도 못한 동맹
+descr=노르마 요구 조건이 특정된 동료와 공유된다. 동료끼리는 배틀을 할 수 없으나 서로를 회복시키거나 부활시킬 수 있다.
+
+< MUTATOR_TRUE_CONVERGENCE >
+name=진정한 수렴
+descr=매 6챕터마다 발생하는 원조 필드 분쇄기를 경험한다.
+
+< MUTATOR_CARD_MANIA >
+name=카드광
+descr=시작 덱에서 고른 모든 카드가 2배가 된다. 하이퍼 역시 8장 대신 16장이 들어간다. 모든 유닛의 패 보유 한도가 5장이 되며 자신의 턴에 카드를 몇 장이든 쓸 수 있다. 모두가 매 챕터마다 카드 한 장을 뽑는다.
+
+< MUTATOR_BDTT >
+name=탱크를 무찔러라
+descr=탱크로 무작위로 지정되는 무작위 플레이어를 상대로 나머지가 한 편이 됩니다. 탱크가 격퇴당하면 세 도전자가 승리하며, 탱크는 30챕터를 버티거나 세 도전자 모두를 KO 상태로 만들어야 합니다.
+
+< MUTATOR_SINGLE_CREDIT >
+name=원 코인
+descr=KO 시 즉시 부활한다. 부활 시 무작위로 지정된 유닛으로 변한다.
+
+< MUTATOR_REVERSIBLE_FORTUNE >
+name=뒤집힌 운명
+descr=200스타와 14승을 가지고 시작한다. 노르마 레벨을 잃고 0스타나 0승에 도달하여 승리한다. 카드 코스트가 반감되며 30스타를 넘지 않는다.
+
+< MUTATOR_TAG_TEAM >
+name=태그 팀
+descr=지역 100% 오렌지 주스 챔피언의 자리를 위해 파트너와 한 팀이 되어라!
+
+< MUTATOR_ULTIMATE_TAG_TEAM >
+name=궁극의 태그 팀
+descr=변칙 태그팀! 태그 쿨타임이 1챕터로 감소한다. 배틀 중에 태그할 수 있다.

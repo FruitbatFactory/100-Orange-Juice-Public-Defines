@@ -1,0 +1,231 @@
+
+< FIELD_RANDOM >
+Random
+
+< FIELD_UNKNOWN >
+Unknown
+
+< FIELD_PRACTICE >
+Practice Field
+
+< FIELD_SPACEWANDERER >
+Space Wanderer
+
+< FIELD_PUDDINGCHASE >
+Pudding Chase
+
+< FIELD_CHRISTMASMIRACLE >
+Christmas Miracle
+
+< FIELD_PLANETEARTH >
+Planet Earth
+
+< FIELD_LAGOONFLIGHT >
+Lagoon Flight
+
+< FIELD_WARFARE >
+Warfare
+
+< FIELD_HIGHWAYHEIST >
+Highway Heist
+
+< FIELD_SEALEDARCHIVE >
+Sealed Archive
+
+< FIELD_SUNSET >
+Sunset
+
+< FIELD_TOMOMOABYSS >
+Tomomo's Abyss
+
+< FIELD_WHITEWINTER >
+White Winter
+
+< FIELD_NIGHTFLIGHT >
+Night Flight
+
+< FIELD_CLOVER >
+Clover
+
+< FIELD_FARM >
+Farm
+
+< FIELD_STARCIRCUIT >
+Star Circuit
+
+< FIELD_TRAININGPROGRAM >
+Training Program
+
+< FIELD_VORTEX >
+Vortex
+
+< FIELD_SWEETHEAVEN >
+Sweet Heaven
+
+< FIELD_STARSHIP >
+Starship
+
+< FIELD_FROSTCAVE >
+Frost Cave
+
+< FIELD_SHIPYARD >
+Shipyard
+
+< FIELD_TREASUREISLAND >
+Treasure Island
+
+< FIELD_TREASUREISLANDNIGHT >
+Treasure Island (Night)
+
+< FIELD_WITCHFOREST >
+Witch Forest
+
+< FIELD_ICYHIDEOUT >
+Icy Hideout
+
+< FIELD_SAKURA >
+Sakura Smackdown
+
+< FIELD_WORKSHOP >
+Santa's Workshop
+
+< FIELD_OCEANDIVE >
+Ocean Dive
+
+< FIELD_OVERTHESEA >
+Over the Sea
+
+< FIELD_DARKCITADEL >
+Dark Citadel
+
+< FIELD_BEGINNERTOWN >
+Beginner Town
+
+< FIELD_SCARREDLAND >
+Scarred Land
+
+< FIELD_FUNGUSCAVE >
+Fungus Cave
+
+< FIELD_WINTERTOWN >
+Beginner Town (Winter)
+
+< FIELD_DESERT >
+Lonely Railway
+
+< FIELD_CIRCUS >
+Circus
+
+< FIELD_VOID >
+The Void
+
+< FIELD_PURES >
+Pures Stamp Rally
+
+< FIELD_COOP_LAGOONFLIGHT >
+Lagoon Flight CO
+
+< FIELD_COOP_SUNSET >
+Sunset CO
+
+< FIELD_COOP_POPPOABYSS >
+Poppo's Abyss
+
+< FIELD_COOP_STARCIRCUIT >
+Star Circuit CO
+
+< FIELD_COOP_SPACEWANDERER >
+Space Wanderer CO
+
+< FIELD_COOP_HIGHWAYHEIST >
+Highway Heist CO
+
+< FIELD_COOP_FARM >
+Farm CO
+
+< FIELD_COOP_SHIPYARD >
+Shipyard CO
+
+< FIELD_COOP_TRAININGPROGRAM >
+Training Program CO
+
+< FIELD_COOP_NIGHTFLIGHT >
+Night Flight CO
+
+< FIELD_COOP_VORTEX >
+Vortex CO
+
+< FIELD_COOP_CYBERSPACE >
+Cyberspace
+
+< FIELD_COOP_PLANETEARTH >
+Planet Earth CO
+
+< FIELD_COOP_WITCHFOREST >
+Witch Forest CO
+
+< FIELD_COOP_WORKSHOP >
+Santa's Workshop CO
+
+< FIELD_COOP_SAKURA >
+Sakura Smackdown CO
+
+< FIELD_COOP_PUDDINGCHASE >
+Pudding Chase CO
+
+< FIELD_COOP_TREASUREISLAND >
+Treasure Island CO
+
+< FIELD_COOP_TREASUREISLANDNIGHT >
+Treasure Island CO (Night)
+
+< FIELD_COOP_OCEANDIVE >
+Ocean Dive CO
+
+< FIELD_COOP_OVERTHESEA >
+Over the Sea CO
+
+< FIELD_COOP_CLOVER >
+Clover CO
+
+< FIELD_COOP_FROSTCAVE >
+Frost Cave CO
+
+< FIELD_COOP_ICYHIDEOUT >
+Icy Hideout CO
+
+< FIELD_COOP_STARSHIP >
+Starship CO
+
+< FIELD_COOP_TOMOMOABYSS >
+Tomomo's Abyss CO
+
+< FIELD_COOP_WHITEWINTER >
+White Winter CO
+
+< FIELD_COOP_BEGINNERTOWN >
+Beginner Town CO
+
+< FIELD_COOP_CHRISTMASMIRACLE >
+Christmas Miracle CO
+
+< FIELD_COOP_DARKCITADEL >
+Dark Citadel CO
+
+< FIELD_COOP_FUNGUSCAVE >
+Fungus Cave CO
+
+< FIELD_COOP_PRACTICEFIELD >
+Practice Field CO
+
+< FIELD_COOP_SEALEDARCHIVE >
+Sealed Archive CO
+
+< FIELD_COOP_SWEETHEAVEN >
+Sweet Heaven CO
+
+< FIELD_COOP_WHIRLPOOL >
+Whirlpool
+
+[EOF]
+

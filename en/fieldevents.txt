@@ -1,0 +1,116 @@
+
+< FIELDEVENT_NONE >
+name=None
+descr=
+
+< FIELDEVENT_DEFAULT >
+name=Default
+descr=
+
+< FIELDEVENT_RANDOM >
+name=Random
+descr=
+
+< FIELDEVENT_BOSSENCOUNTER >
+name=Boss Encounter
+descr=
+
+< FIELDEVENT_REGENERATION >
+name=Regeneration
+descr=All units are healed by 1 HP.\n\nFrequency: Every 5th chapter.
+
+< FIELDEVENT_RANDOMWARP >
+name=Random Warp
+descr=All units are warped to random panels.\n\nFrequency: Every 5th chapter.
+
+< FIELDEVENT_CHARITY >
+name=Charity
+descr=All players draw an extra card.\n\nFrequency: Every 5th chapter.
+
+< FIELDEVENT_AIRRAID >
+name=Air Raid
+descr=All units take 1 damage.\n\nFrequency: Every 5th chapter.
+
+< FIELDEVENT_MINELAYER >
+name=Minelayer
+descr=A trap is set on a random panel.\n\nFrequency: Every 3rd chapter.
+
+< FIELDEVENT_MIRACLE >
+name=Miracle
+descr=All Battle, Bonus, Draw, Drop and Move panels have 2x effect.\n\nFrequency: Every 5th chapter.\nDuration: 1 chapter.
+
+< FIELDEVENT_BATTLEFIELD >
+name=Battlefield
+descr=All Bonus and Drop panels become Battle panels.\n\nFrequency: Every 6th chapter.\nDuration: 3 chapters.
+
+< FIELDEVENT_CONFUSION >
+name=Confusion
+descr=All cards players hold are shuffled and cannot be seen by the player.\n\nFrequency: Every 7th chapter.\nDuration: 1 chapter.
+
+< FIELDEVENT_BACKTRACK >
+name=Backtrack
+descr=The movement direction is reversed for all units.\n\nFrequency: Every 8th chapter.\nDuration: 1 chapter.
+
+< FIELDEVENT_SPRINT >
+name=Sprint
+descr=Move rolls gain 2x dice.\n(Maximum of 4 dice.)\n\nFrequency: Every 6th chapter.\nDuration: 1 chapter.
+
+< FIELDEVENT_HOMEROULETTE >
+name=Home Roulette
+descr=All home panels are reshuffled.\n\nFrequency: Every 9th chapter.
+
+< FIELDEVENT_BOMBER >
+name=Bomber
+descr=A bomb is placed on a random panel that explodes after 1-4 chapters,\ninflicting 2 damage to all units in a cross-shaped area.\n\nFrequency: Every 2nd chapter.
+
+< FIELDEVENT_MYSTERY >
+name=Mystery
+descr=A randomly selected field event is launched.\n\nFrequency: Every 5th chapter.
+
+< FIELDEVENT_FREEZE >
+name=Freeze
+descr=1/3 of the field's unfrozen panels become frozen for 1 chapter.\n\nFrequency: Every 5th chapter.
+
+< FIELDEVENT_TREASURE >
+name=Treasure
+descr=A treasure chest containing a bonus is placed on a random panel.\nLand on the panel to open the chest.\n\nFrequency: Every chapter.
+
+< FIELDEVENT_AMP >
+name=Amplify
+descr=A random battle stat is buffed by 1.\n\nFrequency: Every 6th chapter.\nDuration: 2 chapters.
+
+< FIELDEVENT_PLAYGROUND >
+name=Playground!
+descr=Land on Playground panels to play a minigame.\n\nFrequency: Every 5th chapter.
+
+< FIELDEVENT_TERROR >
+name=Terror
+descr=Some panels will change to allow you to fight Jonathan.\nFrequency: Variable.\nDuration: 1 chapter.
+
+< FIELDEVENT_FISHING >
+name=Fish-a-Fish
+descr=Challenge other players in a fishing minigame.\n\nFrequency: Every 9th chapter.
+
+< FIELDEVENT_GOO >
+name=Goo
+descr=1/3 of the field's ungooped panels become covered with goo for 1 chapter.\n\nFrequency: Every 5th chapter.
+
+< FIELDEVENT_SPORES >
+name=Spores
+descr=Mushrooms will spawn on the field.\n\nFrequency: Every 3rd chapter.
+
+< FIELDEVENT_CHAOS_BATTLEFIELD >
+name=Chaos Battlefield
+descr=
+
+< FIELDEVENT_CHAOS_STARVATION >
+name=Starvation
+descr=
+
+< FIELDEVENT_CHAOS_OVERINDULGENCE >
+name=Overindulgence
+descr=
+
+< FIELDEVENT_CONVERGENCE >
+name=Convergence
+descr=Current field will change to another random one.\n\nFrequency: Every 6th chapter.

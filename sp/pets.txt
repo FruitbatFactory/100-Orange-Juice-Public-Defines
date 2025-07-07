@@ -1,0 +1,290 @@
+< PET_BARREL >
+name=Barril Rojo
+descr=¡El Barril Rojo está listo para volar!
+
+< PET_CAT >
+name=Gato
+descr=Una criatura elusiva con una mirada presumida.
+
+
+< PET_CHICKEN >
+name=Gallina
+descr=Evadió cuando nadie más lo hizo.
+
+
+< PET_FRUITBAT >
+name=Murciélago de la Fruta
+descr=Un murciélago con una leve obsesión hacia las naranjas.
+
+
+< PET_GHOST >
+name=Fantasma
+descr=¿Quién es ese detrás de ti?
+
+
+< PET_LEO >
+name=Leo
+descr=La bestia de la oscuridad bailará una vez más.
+
+
+< PET_NAVI >
+name=Navi
+descr=¿Qué clase de criatura es esta?
+
+< PET_PLANT >
+name=Planta Carnívora
+descr=Muerde la mano que le da de comer.
+
+
+< PET_RABBITPLUSH >
+name=Conejo de Peluche
+descr=Este peluche podría estar poseído.
+
+
+< PET_RACCOON >
+name=Mapache
+descr=¿Será un mapache? ¿Será un perro? ¿Podrá transformarse?
+
+
+< PET_RBIT >
+name=Rbit
+descr=¡Formación orbital!
+
+
+< PET_REDBLUE >
+name=Rojo & Azul
+descr=¡Arruinavidades Blanco!
+
+
+< PET_ROBOBALL >
+name=Robo-ball
+descr=Para el pequeño mecánico que todos llevamos dentro.
+
+
+< PET_SB_BOMB >
+name=La Bomba de SB
+descr=No la tires.
+
+
+< PET_SEAGULL >
+name=Gaviota
+descr=Su número favorito es el 7.
+
+< PET_SEARCHLIGHT >
+name=Reflector
+descr=Parece que está buscando a una persona en particular.
+
+
+< PET_SHIBE >
+name=Shiba Inu
+descr=Leal en todo momento.
+
+< PET_SNOWBUNNY >
+name=Conejo de la Nieve
+descr=Mantenlo frío.
+
+
+< PET_THINKBUBBLE >
+name=Burbuja Pensativa
+descr=¿En qué estás pensando?
+
+< PET_EVENT_REIN >
+name=Rein
+descr=El fiel ayudante de Aru. En vacaciones 364 días del año.
+
+
+< PET_EVENT_PRESENT >
+name=Regalo
+descr=Un bello regalo que calma el corazón.
+
+< PET_EVENT_PIG>
+name=Cerdo
+descr=¿Podrán los cerdos volar realmente?
+
+< PET_LIZARD >
+name=Lagartija
+descr=Puede que esté viviendo en el centro de la tierra.
+
+< PET_DWARF>
+name=Enano
+descr=Ahora realmente vive a la altura de su nombre.
+
+< PET_PIYO_EGGSHELL>
+name=Piyo (Huevo)
+descr=¿Qué llegó primero - el huevo o el piyo?
+
+< PET_PIYO>
+name=Piyo
+descr=El piyo que llegó primero.
+
+< PET_TORTOISE>
+name=Tortuga
+descr=Dicen que siempre gana en las carreras... eventualmente.
+
+< PET_UFO>
+name=OVNI
+descr=Siempre intentando atrapar cosas extrañas.
+
+< PET_SHARK>
+name=Tiburón
+descr=Sus mandíbulas se verían geniales en un poster.
+
+< PET_FROG>
+name=Rana
+descr=No le gusta mucho la lluvia.
+
+< PET_BIT>
+name=Bit
+descr=Un poco energético.
+
+< PET_SLIME>
+name=Baba
+descr=Dicen que tiene un sabor muy dulce.
+
+< PET_GOLDENEGG >
+name=Huevo Dorado
+descr=Un huevo especial que puede ser incubado más de una vez.
+
+< PET_M10EYE >
+name=El Ojo de M10
+descr=¿Puedes ver todos los números imaginarios que él ve?
+
+< PET_STAR >
+name=Estrella Elusiva
+descr=Es de otra galaxia.
+
+< PET_AIRSHIP >
+name=Dirigible
+descr=El soporte aéreo está en camino.
+
+< PET_BUTTERFLY >
+name=Mariposa
+descr=Es más peligrosa de lo que parece.
+
+< PET_CUPCAKE >
+name=Magdalena
+descr=Horneada a 350 grados Fahrenheit.
+
+< PET_BOSS_HARUO >
+name=Haruo
+descr=Tiene un corazón de oro.
+
+< PET_BOSS_JONATHAN >
+name=Jonny el Grande
+descr=Aunque no realmente tan grande.
+
+< PET_BOSS_M10 >
+name=M10
+descr=Natural 7 de 10.
+
+< PET_BOSS_ROPOCHI >
+name=RoPoChi
+descr=¡GUPPIPOO!
+
+< PET_BOSS_STARDEV >
+name=La Devoradora de Estrellas
+descr=Puede teletransportarse a todas las partes del mundo.
+
+< PET_OCTOPUS >
+name=Pulpo
+descr=Puede manejar 8 tareas diferentes al mismo tiempo.
+
+< PET_SEAL >
+name=Foca
+descr=Te enfoca en el juego.
+
+< PET_SQUID >
+name=Calamar
+descr=Liberen al kraken.
+
+< PET_MANDRAKE >
+name=Mandrágora
+descr=Está lidiando con unos problemas bastante arraigados.
+
+< PET_SUN >
+name=Sol
+descr=Irradia genialidad.
+
+< PET_SEABUNNY >
+name=Conejo del Mar
+descr=La navidad del oceano.
+
+< PET_ROBOFISH >
+name=Pescado Robótico
+descr=Está programado para seguir nadando.
+
+< PET_WATERMELON >
+name=Sandía
+descr=Fue salvado de la ira de la Bestia Veraniega.
+
+< PET_EVENT_POMENARIAN >
+name=Pomeraniana
+descr=Es un poco tonta.
+
+< PET_EVENT_PUDDING >
+name=Pudín
+descr=El plato favorito de todos los perros y brujas en el universo.
+
+< PET_EVENT_PUFFERFISH >
+name=Pez Globo
+descr=Inflado con orgullo.
+
+< PET_FUNKYFUNGUS >
+name=Hongo Miedoso
+descr=Un hongo en tiempos duros.
+
+< PET_ROBOCRAB >
+name=Robocangrejo
+descr=Se mueve bien.
+
+< PET_PONYCORN >
+name=Ponicornio
+descr=Esparciendo el poder de la amistad.
+
+< PET_WOLLIL>
+name=Lanejita
+descr=Es tan esponjoso que podría morir.
+
+< PET_GLOBLET >
+name=Cáliz
+descr=Un cáliz de fuego.
+
+< PET_TROLLITE >
+name=Duenditito
+descr=Ten cuidado.
+
+< PET_SPOOKYDOLL >
+name=Muñequita Tenebrosa
+descr=Su lindura te llenará de pesadillas.
+
+< PET_HELISEEDLING >
+name=Semicopterito
+descr=Se irá volando en días de viento.
+
+< PET_TERRAWORMER >
+name=Terrafusanito
+descr=Terriblemente adorable.
+
+< PET_MINIMOSS >
+name=Mini Musgo
+descr=Tiene un corazón de oro.
+
+< PET_GEMERANGLER >
+name=Pesmeraldita
+descr=Una gema oculta.
+
+< PET_WUFFSHROOM >
+name=Perrongito
+descr=El mejor amigongo del hombre.
+
+< PET_TURNISLIM >
+name=Rábalimita
+descr=Se tómo más de un turno.
+
+< PET_PUNYZARD >
+name=Coneptílito	
+descr=Ha estado dormido por mucho, muuucho tiempo.
+
+< PET_MASHIRO >
+name=Masshiro
+descr=Ya no es de mala suerte.

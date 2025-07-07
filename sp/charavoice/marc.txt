@@ -1,0 +1,145 @@
+
+<0000> ¡Ahí!
+<0001> ¡Aquí!
+<0002> ¡Así!
+<0003> ¡Ve!
+<0004> ¡Usaré esto!
+<0005> ¡El poder de la carta!
+<0006> Esta será mi carta triunfante.
+<0007> Un poder misterioso...
+<0008> Dejaré esto aquí.
+<0009> ¡Alguien tendrá que caer en esto!
+<0010> Solo dejaré esto por aquí...
+<0011> Esto me ayudará.
+<0012> Usaré un equipo nuevo.
+<0013> ¡Te mostraré mis habilidades!
+<0014> ¡Esto te acabará!
+<0015> ¡Voy a usar esto!
+<0016> ¡Misil cargado! ¡AHORA!
+<0017> ¡Puedo seguir!
+<0018> ¡Los motores están listos!
+<0019> De vuelta a la acción.
+<0020> ¡Reparos completos!
+<0021> Debo seguir esforzándome...
+<0022> No puedo moverme...
+<0023> El reinicio no funcionó...
+<0024> Nada bueno...
+<0025> ¡Toma eso!
+<0026> ¡Vamos!
+<0027> ¡Ya está!
+<0028> ¡Aquí va!
+<0029> Ouch.
+<0030> ¡Eso duele!
+<0031> ¿Me dieron?
+<0032> ¿De dónde vino eso?
+<0033> ¡El trabajo está terminado!
+<0034> ¡Arreglado!
+<0035> Ahora me siento mejor.
+<0036> Justo a tiempo...
+<0037> ¡Mi avión está fuera de control!
+<0038> ¡Estoy volando fuera de la pista!
+<0039> O-o-oh nooooo...
+<0040> ¿A dónde voy?
+<0041> Lo siento, Barril Rojo.
+<0042> ¡Estoy cayendo!
+<0043> No, no puedo continuar...
+<0044> ¡Estoy acabada!
+<0045> ¡Alto ahí!
+<0046> ¡Prepárate para ser derrotado!
+<0047> ¡Aceptarás mi desafío!
+<0048> ¡Te derribaré!
+<0049> ¡Fuera de mi camino!
+<0050> Lista para la intercepción.
+<0051> ¡Si así es como lo quieres...!
+<0052> ¡¿Están detrás de mí?!
+<0053> ¡Disparando!
+<0054> ¡Esta no es una amenaza!
+<0055> ¡Toma esto!
+<0056> ¡Fuego!
+<0057> ¡Eso duele!
+<0058> ¡Kyaaah!
+<0059> Ouch.
+<0060> Oww...
+<0061> Eso duele mucho...
+<0062> Eso me aturdió...
+<0063> ¡Fue un disparo directo!
+<0064> ¡Owwww!
+<0065> ¡Esquívalo, Barril Rojo!
+<0066> ¡Haz un circulo, Barril Rojo!
+<0067> ¡Eso no nos dará!
+<0068> ¡Puedo verlo!
+<0069> ¡Lo hice!
+<0070> Soy genial, ¿no?
+<0071> ¡Te vencí!
+<0072> ¡Uno menos!
+<0073> No lo logré...
+<0074> Perdí...
+<0075> Me dieron...
+<0076> Demasiado fuerte...
+<0077> ¡Es un bonus!
+<0078> ¡Me ayudaré a mí misma!
+<0079> ¡Las estrellas vienen por mí!
+<0080> ¡Encontré estrellas!
+<0081> ¡Oh no!
+<0082> ¡Mis estrellas...!
+<0083> ¡Las estrellas están corriendo de mí!
+<0084> ¡Oh no, espera!
+<0085> ¡Owwww!
+<0086> ¿Qué está pasando aquí?
+<0087> ¡Cometí un error!
+<0088> ¡¿Caí por una trampa?!
+<0089> ¡Wow, es muy grande!
+<0090> ¡¿Un nuevo enemigo?!
+<0091> ¡Aquí viene uno grande!
+<0092> ¿Acaso tengo que pelear contra eso...?
+<0093> ¡Conseguiré miles de estrellas!
+<0094> ¡Iré a buscar más estrellas!
+<0095> Espero conseguir lo suficiente.
+<0096> ¿Cuántas tendré que juntar?
+<0097> ¡Iré a derribarlos a todos!
+<0098> ¡Derribaré a muchos de ellos!
+<0099> ¡Les mostraré de lo que soy capaz!
+<0100> ¡Derrotaré a todos!
+<0101> ¡Haré lo mejor que pueda!
+<0102> ¡En espera!
+<0103> ¡Lista para jugar en cualquier momento!
+<0104> Somos los siguientes, Barril Rojo.
+<0105> Vamos a jugar, Barril Rojo.
+<0106> Lo daremos todo, Barril Rojo.
+<0107> ¡Despegue!
+<0108> ¡El Barril Rojo está listo para volar!
+<0109> ¡Lo hice! ¡Seré la ganadora la próxima vez también!
+<0110> ¡Ganemos el juego siguiente también, Barril Rojo!
+<0111> ¡Realmente lo hicimos, Barril Rojo!
+<0112> ¡Un trabajo bien hecho!
+<0113> ¡Yay!
+<0114> ¡Una nueva mejora!
+<0115> ¿Que podrá ser esto?
+<0116> ¡Esto es bueno de tener!
+<0117> ¡Tú puedes hacerlo!
+<0118> ¡Cambio!
+<0119> ¡Te daré el bastón!
+<0120> ¡Alentaré por ti!
+<0121> Okay.
+<0122> Eso salió bien.
+<0123> Sí.
+<0124> Negativo.
+<0125> Que horrible.
+<0126> ¡Algo bueno acaba de ocurrir!
+<0127> Bueno, eh...
+<0128> Vamos allá, Barril Rojo.
+<0129> ¡Por favor sé un buen tiro!
+<0130> Aquí voy.
+<0131> ¡Hola!
+<0132> Hmm...
+<0133> ¡Genial!
+<0134> Perfecto.
+<0135> Oh no...
+<0136> ¡Sr. Gaviota, lo siento tanto...!
+<0137> Ugh, estás equipado con algo estúpido otra vez.
+<0138> ¡Te mereces un castigo!
+<0139> ¡Ugh, construiste algo raro otra vez!
+<0140> ¡Fui demasiado lejos!
+<0141> ¡Te dije que no te metieras en mi camino!
+<0142> ¡Aquí voy yo!
+<0143> Un pervertido... ¿volando?

@@ -1,0 +1,163 @@
+<000> Noja!
+<001> Nojah!
+<002> Aqui.
+<003> Plonk.
+<004> Eu estou jogando uma carta.
+<005> Eu vou te encurralar com tudo com isso.
+<006> Kuuu-ku-ku.
+<007> Eu gosto de trazer caos para a ordem.
+<008> Eu estou enterrando um pouco de mel aqui.
+<009> Eu estou cuspindo chiclete aqui. *Cospe*
+<010> Venha se cobrir com massa de biscoito.
+<011> Eu simplesmente amo fazer pegadinhas.
+<012> Ku-ku-ku, doping no campo de batalha.
+<013> Conceda-me o poder dos doces!
+<014> Eu posso ser uma Sweet God, mas eu não sou tão doce assim com meu inimigo.
+<015> Eu não vou perder esta chance.
+<016> Super Hora do Doce!
+<017> Guuh, eu não posso ficar dormindo mais.
+<018> Boa manhã.
+<019> Aquele que me atingiu mais cedo, para onde que foi?
+<020> Você tem ideia do quão irritada estou?
+<021> É claro que as vezes eu falho.
+<022> Ufa, existe algo que nem uma deusa consegue fazer algo sobre, então.
+<023> Estou descansando um pouco mais aqui.
+<024> Eu creio que era mais sério do que eu pensava?
+<025> Uoryaaah!
+<026> Você fez eu usar este poder, impressionante.
+<027> Eu vou ficar agressiva aqui.
+<028> Não espere por misericórdia!
+<029> Ai.
+<030> Isto não é nada doce.
+<031> Bue.
+<032> Eu vou chorar.
+<033> Doçura ♡
+<034> Isso é bem relaxante.
+<035> Eu estou recuperando minhas energias.
+<036> Que ótimo.
+<037> Oh?
+<038> Ãhn?
+<039> Eu acabei de voar no ar?
+<040> Mano mano mano.
+<041> Argh...
+<042> Eu estou com tanta dor.
+<043> Meus olhos estão ficando embaçados.
+<044> Eu vou sair por um pouco.
+<045> As vezes até eu quero um pouco de contato físico, sabe.
+<046> Me faz um favor e permita-me chutar seu traseiro ♡
+<047> Eu vou te esmagar bem forte com esse bolo.
+<048> Você quer que eu te sufoque em mel?
+<049> Oh? Você está sendo moderadamente agressivo, né?
+<050> Força física não resolve nada.
+<051> Qual o teu problema?
+<052> Eu sou uma deusa, sabe. O que você vai fazer comigo?
+<053> Ataque de Açúcar!
+<054> Raio de Mel!
+<055> Spray de Creme!
+<056> Explosão de Chocolate!
+<057> Guwaaaah!
+<058> Para com isso.
+<059> Buheh.
+<060> Guaah.
+<061> Isso dói demais!
+<062> Isso é fatal!
+<063> Estou lacrimejando.
+<064> Gyaaaaah!
+<065> Hieh!
+<066> Você tem que se acalmar, okay?
+<067> Essa foi por pouco!
+<068> Eu senti isso vindo...!
+<069> Huh, isso é tudo que você tem?
+<070> Eu me sinto relativamente bem.
+<071> Um bom exercício.
+<072> Eu sou forte.
+<073> Isso não é demais?
+<074> Eu realmente estou com dor.
+<075> E se eu tivesse quebrado um osso? Você não sente nenhuma culpa?
+<076> Fazendo me rastejar assim, impressionante...
+<077> O que quer que você faça, você precisa de dinheiro.
+<078> Bem, não é como se eu odiasse fazer coisas assim.
+<079> Criar doces também custa dinheiro.
+<080> Obrigado por isso.
+<081> Eu estou ficando mais pobre a cada minuto...
+<082> Não, essa é minha.
+<083> Eu estou ficando com um monte de stress emocional.
+<084> DINHEIRO!!!
+<085> Whoa! Mas o quê!
+<086> Pior armadilha de todas...
+<087> Minhas asas podem sair.
+<088> O que fizeste com uma deusa?
+<089> Ah, é melhor eu ficar longe.
+<090> De certa forma tenho um mau pressentimento sobre aquela coisa.
+<091> Oh, você quer uma parte de mim?
+<092> Aquela coisa está cercada em uma aura maldosa.
+<093> Vamos coletar algum dinheiro.
+<094> Este seria o tal do "jogo do dinheiro"?
+<095> Ajudar a estimular a economia não é ruim, né?
+<096> Quer saber... Até uma deusa quer ser rica.
+<097> A essência doce correndo nas minhas veias está me dizendo para fazer isso.
+<098> Eu imagino que seja hora de mostrar meu grande poder.
+<099> Eu quero apenas aleatoriamente... bater em outras pessoas.
+<100> Hora da batalha.
+<101> Oh, consegui sua atenção?
+<102> Fu-fu, eu sou a Sweet Creator, líder das Sweet Gods.
+<103> Você quer jogar comigo?
+<104> Certo, vamos sair e jogar!
+<105> *Estala os dedos*
+<106> Nunca estive mais preparada.
+<107> Qual deles eu devia começar contra?
+<108> E que o jogo divertido comece.
+<109> Admira-me na extensão máxima.
+<110> Elogie-me, elogie-me.
+<111> Vamos ter uma festa de doces e celebrar.
+<112> Você viu? Eu me sai muito bem ali, não foi! *Smug*
+<113> Oh, esse é um novo produto?
+<114> Oh, parece que essa coisa realmente agradou seu dia.
+<115> Deixa eu ver o que você ganhou aí.
+<116> Isso provavelmente irá te ajudar no próximo jogo.
+<117> Vá agora!
+<118> Seu turno.
+<119> Você consegue.
+<120> Conto com você!
+<0121> Okay.
+<0122> Parabéns.
+<0123> Isso é bom.
+<0124> Não.
+<0125> Oh mano...
+<0126> Você está com sorte.
+<0127> Mas o quê...?
+<0128> Vamos lá!
+<0129> Ali!
+<0130> Você é capaz disso, okay?
+<0131> Yo!
+<0132> Hmm.
+<0133> Bom trabalho.
+<0134> Que fantástico.
+<0135> Raios!
+<0136> Eu estou usando este aqui.
+<0137> Hmm, eu nunca vi poder como esse.
+<0138> Deixe-me fazer um pequeno tumulto aqui.
+<0139> Isto é o poder divino!
+<0140> Obrigada.
+<0141> Eu vou te punir se você continuar agindo mal, okay?
+<0142> Você trabalha demais e diligente, se quer saber.
+<0143> *Sorri*. Pensou que me derrotar seria como tirar o doce de uma criança? Trocadilho intencional!
+<0144> Você é uma garota teimosa...
+<0145> Oh, você deve ser a mais nova entre nós. Deixe-me ver do que é capaz.
+<0146> Oh, que cão energético.
+<0147> Bem, boa sorte me apoiando como uma das Sweet Gods, okay?
+<0148> Ugh, é melhor você aprender a respeitar sua chefe...
+<0149> Eu vou te mostrar que sou a melhor entre nós.
+<0150> Você está se virando contra mim!?
+<0151> Bem, afinal de contas, sou a melhor. A melhor!
+<0152> Es-essa derrota me faz parecer um tanto ruim...
+<0153> Um jogo de Sweet Gods, que interessante...
+<0154> Eu tenho certeza que isso irá se tornar um jogo divertido.
+<0155> Este jogo vai decidir... quem é que mais ama doces.
+<0156> Olha só para isso! O que temos aqui? Estou emocionada.
+<0157> Eu espero que você aprecie.
+<0158> Esta é uma das minhas criações... aproveite ao máximo!
+<0159> Doces trazem felicidades, né... Ku-ku-ku.
+<0160> Vá em frente e coma tudo que quiser!
+<0161> Essa é uma das habilidades da Breaker...
+<0162> Sweet Breaker, preciso de sua ajuda.

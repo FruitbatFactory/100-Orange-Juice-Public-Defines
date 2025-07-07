@@ -1,0 +1,190 @@
+< ITEM_UNKNOWN >
+name=???
+descr=
+
+// Tavern
+< ITEM_HEAL_LV1 >
+name=Cup of Coffee
+descr=Heal yourself by 2 HP.
+
+< ITEM_HEAL_LV2 >
+name=Lemonade
+descr=Heal yourself by 4 HP.
+
+< ITEM_HEAL_LV3 >
+name=Elixir
+descr=Use to fully heal yourself. Also cures the user from status effects inflicted by Invaders and removes curses from held contracts.
+
+< ITEM_OVERHEAL_LV1 >
+name=Energy Drink
+descr=Heal 2 HP, then gain 1 HP.
+
+< ITEM_OVERHEAL_LV2 >
+name=Pudding Mixture
+descr=Heal 2 HP, then gain 2 HP.
+
+< ITEM_OVERHEAL_LV3 >
+name=Red & Blue Island
+descr=Heal 4 HP, then gain 3 HP.
+
+< ITEM_HEALTHSHOT >
+name=Sweet Tonic
+descr=Permanently increase your Max HP by 1. This can be purchased only once.
+
+< ITEM_INVULNERABILITY >
+name=Herbal Remedy
+descr=Effect Duration: 1 Chapter. Cannot take damage.
+
+// Bakery
+< ITEM_ATK_BOOST_LV1 >
+name=Cookie
+descr=Use to gain +1 ATK for the next 2 battles. Cannot stack the same effect twice.
+
+< ITEM_ATK_BOOST_LV2 >
+name=Muffin
+descr=Use to gain +2 ATK for the next 2 battles. Cannot stack the same effect twice.
+
+< ITEM_ATK_BOOST_LV3 >
+name=Pastry
+descr=Use to gain +3 ATK for the next 2 battles. Cannot stack the same effect twice.
+
+< ITEM_DEF_BOOST_LV1 >
+name=Candy
+descr=Use to gain +1 DEF for the next 2 battles. Cannot stack the same effect twice.
+
+< ITEM_DEF_BOOST_LV2 >
+name=Caramel
+descr=Use to gain +2 DEF for the next 2 battles. Cannot stack the same effect twice.
+
+< ITEM_DEF_BOOST_LV3 >
+name=Chocolate
+descr=Use to gain +3 DEF for the next 2 battles. Cannot stack the same effect twice.
+
+< ITEM_EVA_BOOST_LV1 >
+name=Ice Cream
+descr=Use to gain +1 EVD for the next 2 battles. Cannot stack the same effect twice.
+
+< ITEM_EVA_BOOST_LV2 >
+name=Sorbet
+descr=Use to gain +2 EVD for the next 2 battles. Cannot stack the same effect twice.
+
+< ITEM_EVA_BOOST_LV3 >
+name=Gelato
+descr=Use to gain +3 EVD for the next 2 battles. Cannot stack the same effect twice.
+
+< ITEM_ACCELCANDY >
+name=Accel Hyper Candy
+descr=Effect Duration: 1 Chapter. Roll two dice for any action.
+
+< ITEM_COTTONSPONGE >
+name=Cotton Sponge Cake
+descr=Effect Duration: 1 Chapter. Cards will have no base cost and no level requirement.
+
+< ITEM_PUDDING >
+name=Pudding
+descr=Stock Effect. If KO'd in battle, revive with 3 HP and continue the battle.
+
+< ITEM_MELONPAN >
+name=Melonpan
+descr=Permanently gain +1 DEF and EVD, but also -1 ATK. This can be purchased only once.
+
+< ITEM_REDBEANCREAM >
+name=Red Bean Ice Cream
+descr=Stock Effect: Gain +1 ATK. This effect is removed upon KO. This effect cannot stack.
+
+// Armory
+< ITEM_WOODENSHIELD >
+name=Wooden Shield
+descr=A shield reducing incoming damage by 1. Removed after 2 hits.
+
+< ITEM_IRONSHIELD >
+name=Iron Shield
+descr=A shield reducing incoming damage by 1. Removed after 4 hits.
+
+< ITEM_MITHRILSHIELD >
+name=Mithril Shield
+descr=A shield reducing incoming damage by 2. Removed after 4 hits.
+
+< ITEM_ZAPPERSWORD >
+name=Magical Enchanted Sword
+descr=Permanently gain +1 ATK, but also -1 DEF. This can be purchased only once.
+
+< ITEM_SMOKEBOMB >
+name=Smoke Bomb
+descr=Stock Effect: In the next battle, the enemy gains -1 ATK, DEF and EVD.
+
+< ITEM_PRECISIONGOGGLES >
+name=Precision Goggles
+descr=You may throw items two panels further. This can be purchased only once.
+
+< ITEM_MERCENARY >
+name=Mercenary
+descr=Summon a Mercenary on the field. It will attack any unit (excepted the summoner) when passing them on the field. If a unit is KO'd by the Mercenary, 50% of the stars lost go to the player, and the rest to the Mercenary.
+
+< ITEM_PHILOSOPHERSTONE >
+name=Philosopher's Stone
+descr=Gain +4 stars each chapter, and +1 extra star every 5 chapters. Can only be purchased once, for the cost of all your stars (minimum 120).
+
+< ITEM_REC_BOOST_LV1 >
+name=Potion of Vigor
+descr=Reduce your REC by 1 the next time you're KO'd. Does not stack with similar effects (the most potent one takes priority).
+
+< ITEM_REC_BOOST_LV2 >
+name=Potion of Vitality
+descr=Reduce your REC by 2 the next time you're KO'd. Does not stack with similar effects (the most potent one takes priority).
+
+< ITEM_REC_BOOST_LV3 >
+name=Phoenix Essence
+descr=Reduce your REC by 3 the next time you're KO'd. Does not stack with similar effects (the most potent one takes priority).
+
+< ITEM_ANTITIRED >
+name=Energizer
+descr=Permanently reduce your REC by 1. This can be purchased only once.
+
+< ITEM_GUARDIAN >
+name=Guardian
+descr=Summon a Guardian on the field. It will scout and fight any Bounty quests you are holding. Cannot challenge other players, but other players can challenge it.\nLevel: Your level at the time of summoning.\nHeld stars: Cost of summoning.
+
+< ITEM_FAE >
+name=Aurora
+descr=Summon Aurora on the field. She will heal your unit by 1 HP every even-numbered chapter. If you are KO'd, she will revive you instead with half your max HP. Cannot challenge other players, but other players can challenge her.
+
+< ITEM_LEATHERBOOTS >
+name=Leather Boots
+descr=+2 MOV. Purchasing this item will replace your current pair of shoes.
+
+< ITEM_GALESHOES >
+name=Gale Shoes
+descr=+2 MOV, and an additional +1 if holding 2 contracts or less. Purchasing this item will replace your current pair of shoes.
+
+< ITEM_SPIKEDSHIELD >
+name=Spiked Shield
+descr=A shield with spikes reducing incoming damage by 1. If your defense roll is greater than the opponent's attack roll, reflect damage equal to half of the attack value back to the opponent. Removed after 1 battle.
+
+< ITEM_BATTLEAXE >
+name=Executioner
+descr=Permanently gain +1 ATK, but also -1 EVD. This can only be purchased once.
+
+< ITEM_BLACKMARKET_CURSEDSWORD >
+name=Cursed Sword
+descr=Permanently gain +2 ATK, but also -1 DEF, EVD, Max HP.
+
+< ITEM_BLACKMARKET_CURSEDAXE >
+name=Cursed Battle Axe
+descr=Gain the ability to attain critical hits when attacking, at a 20% rate. You may miss attacks, with a 10% chance.
+
+< ITEM_BLACKMARKET_CURSEDBOUNTY >
+name=Cursed Bounty
+descr=Increase your next bounty's reward by +2 fame. Set your HP and Max HP to 1 until KO after completing it.
+
+< ITEM_BLACKMARKET_CURSEDICECREAM >
+name=Purple Bean Ice Cream
+descr=Gain +2 ATK and -3 Max HP (min. 1) until KO'd.
+
+< ITEM_BLACKMARKET_CURSEDSHOES >
+name=Enhanced Gale Shoes
+descr=Adds +4 MOV, but can only carry a single contract. Purchasing this item will replace your current pair of shoes.
+
+< ITEM_BLACKMARKET_CURSEDSUMMON >
+name=Master Summoner
+descr=A random summon or neutral Invader will spawn.\nSummons start with 12 HP. Invaders cannot be summoned if one is already active.

@@ -1,0 +1,172 @@
+
+<0000> Eeey!
+<0001> Aqui vamos nós.
+<0002> Mhm!
+<0003> Saaai!
+<0004> Nico pode usar isto?
+<0005> Nico deseja usar isto!
+<0006> Nico vai tentar jogar uma boa carta.
+<0007> Esta daqui parece boa.
+<0008> Obaaaaa, Nico pode fazer uma pegadinha com isso.
+<0009> Fufufu, vai ficar bem aqui.
+<0010> Ehehe, uma armadilha aqui.
+<0011> Nico vai colocar isto aqui... Certo.
+<0012> Isto vai tornar a Nico forte?
+<0013> Nico vai dar o seu melhor!
+<0014> Wow, Nico sente que ela pode lutar melhor!
+<0015> Nico vai usar isto! Ela disse que vai usar isto!
+<0016> Nico pode fazer um milagre tornar realidade!
+<0017> Nico deseja jogar muito mais.
+<0018> Caramba! Nico não irá perder da próxima vez!
+<0019> Nico ainda não perdeu.
+<0020> Boa Noite. Nico já era.
+<0021> É o quê! Nico deseja jogar novamente agora.
+<0022> Uuu! Nico odeia isto!
+<0023> Nico precisa descansar mais...?
+<0024> Nico odeia isto, odeia isto, odeia isto!
+<0025> Tah!
+<0026> Bon!
+<0027> Waai!
+<0028> Yah!
+<0029> Kyan.
+<0030> Você não é gentil.
+<0031> Uee...
+<0032> Não!
+<0033> Nico está melhorando.
+<0034> Nico ama isto.
+<0035> Deixa a Nico quentinha.
+<0036> Nico está cheia de energia agora.
+<0037> Wah!
+<0038> Isto é meio assustador!
+<0039> Kyah! Aonde está a Nico!?
+<0040> Teleporte!?
+<0041> Nico não quer mais fazer isto..
+<0042> Biee...
+<0043> *Soluça*... *Soluça*...
+<0044> Isto é o pior... O pior...
+<0045> Batalha!
+<0046> Nico vai acabar com você.
+<0047> Ei, por quê não lutamos?
+<0048> Prepare-se!
+<0049> Nico não quer se machucar!
+<0050> Uu, Nico não irá perder.
+<0051> Nós iremos lutar?
+<0052> Uu... P-pode vir!
+<0053> Ey-ey!
+<0054> Bam!
+<0055> Eeey!
+<0056> Yah!
+<0057> Wah!
+<0058> O que você está fazendo?!
+<0059> Jeez!
+<0060> Kyaa!
+<0061> Você é horrível!
+<0062> Jeez! Jeez!
+<0063> Yaan!
+<0064> Você é o horrível dos horríveis! 
+<0065> Essa foi por pouco!
+<0066> Tenho que desviar!
+<0067> Heeen!
+<0068> Ãhn, você errou?
+<0069> E-heen.
+<0070> Nico conseguiu, Nico conseguiu!
+<0071> Você está bem? Me perdoe por isto.
+<0072> Isto está ficando divertido.
+<0073> *Soluça*... *Soluça*...
+<0074> *Soluça soluça* ... *Espia*.
+<0075> Boo...
+<0076> O quê há de errado com você...
+<0077> Certo! Um montão de estrelas.
+<0078> Nico está feliz!
+<0079> Oh meu Deus, Nico não consegue segurar tudo isso.
+<0080> Nunca estive tão feliz.
+<0081> Oh não! Nico deixou cair algumas!
+<0082> Para onde elas foram!? Esperem, esperem!
+<0083> Não! Por quê!
+<0084> Uuu... Nico está triste...
+<0085> Whoa! Isso assustou a Nico!
+<0086> Mhm! Nico caiu nessa.
+<0087> Uma armadilha!? Heeen!
+<0088> Quem colocou isto aqui é um covarde!
+<0089> Nico está assustada!
+<0090> Oh não, aquele cara parece assustador!
+<0091> O quê? O quê? Ninguém contou para a Nico sobre aquele cara!
+<0092> *Chora* Nico deseja ir para casa agora!
+<0093> Vou com estrelas!
+<0094> Nico deseja fazer isto!
+<0095> Fufufu, Nico está pronta para isto!
+<0096> Nico vai conseguir uma quantidade surpreendente de estrelas.
+<0097> Nico se sente a fim de se exercitar.
+<0098> Batalhar? Nico espera que ela consiga lutar bem.
+<0099> Nico acha que ela pode lutar boas batalhas se ela tentar seu melhor.
+<0100> Nico deseja muito muito mesmo jogar!
+<0101> Esta é a Nico.
+<0102> Nico vai fazer o seu melhor! Vamos lá!
+<0103> Você quer ir com a Nico? Tudo bem, já que insiste.
+<0104> Claro, vamos lá brincar.
+<0105> Nico está empolgada.
+<0106> O coração da Nico está batendo forte.
+<0107> Uu, Nico deseja ganhar.
+<0108> Eita, existem diversas pessoas por aqui.
+<0109> Nico vence! Beleza!
+<0110> Conseguimos! Conseguimos! Nico está tão feliz!
+<0111> Ebaaa! Conseguimos! Isto foi tão divertido!
+<0112> Boo, Nico deseja jogar mais! Vamos jogar mais!
+<0113> Hey, não era isto que você queria?
+<0114> Oh, talvez nós conseguimos algo bom. Nico está empolgada.
+<0115> Okay! Nico está com um pressentimento de que este aqui definitivamente é bom!
+<0116> Wow, isto é algo novo! Bom para você!
+<0117> Nico gostaria de trocar, por favor.
+<0118> Nico está cansada.
+<0119> Você pode continuar daqui já que você insiste.
+<0120> Agora é hora de trocar! 
+<0121> Certo.
+<0122> Hooray!
+<0123> Claro.
+<0124> Não!
+<0125> Jeez! Jeez!
+<0126> Ehehe, sortudo!
+<0127> Huh?
+<0128> Certo, aqui vamos nós!
+<0129> Role, dadinho, role!
+<0130> Yay!
+<0131> Olá! Como você está?
+<0132> Hmmm.
+<0133> Bom trabalho!
+<0134> Wow! Isto foi impressionante! Nico está surpresa!
+<0135> Pare! *Cora as bochechas*
+<0136> Nico vai usar esta carta!
+<0137> Ehehe! Nico vai jogar a carta Hiper de alguém!
+<0138> Nico pode usar qualquer carta!
+<0139> Não tem problema usar esta aqui também? Então Nico irá usar!
+<0140> Oh jeez, por quê você está aqui!?
+<0141> Uuu! Agora foi longe demais, nós vamos lutar!
+<0142> Jeez! Qual que é o teu problema!
+<0143> Nico não é mais uma criança.
+<0144> D-desculpa...
+<0145> Mamãe Noel! Vamos lutar de novo!
+<0146> Oh, Nico não fez nenhuma pegadinha!
+<0147> Nico derrota Mamãe Noel!
+<0148> Fuee... Nico perdeu de novo.
+<0149> Wow! Olhe só para ela! Ela é uma princesa!
+<0150> Aww, ela é tão fofa... Nico deseja ser que nem ela.
+<0151> Então diga para a Nico, o que ela precisa fazer para ser igual a você?
+<0152> Kyaaa! Tem um esquisitão aqui! Biee!
+<0153> Tenho que ativar o alarme pessoal! Bubiii!
+<0154> Um pervertido aqui! Alguém ajude a Nico!
+<0155> Oh não, é aquele cara pelado assustador... Nico precisa correr!
+<0156> Está um dia tão atarefado!
+<0157> Nico está entregando presentes para todo mundo!
+<0158> Aquele dia está para vir, Nico mal pode esperar.
+<0159> Fufufu, advinha que dia é hoje!
+<0160> Bem-vindo!
+<0161> Nico está feliz que você veio!
+<0162> Você gosta desse? Não exatamente? Nico espera que você cuide bem disso.
+<0163> Não diga que você conseguiu algo ruim.
+<0164> Wow, isto é algo muito bom.
+<0165> Ah, você conseguiu um bom!
+<0166> Vai, levanta a cabeça! Você pode pegar este, mas só desta vez.
+<0167> *Suspira*... Isto faz com que a Nico não tenha escolhas. Aqui, esta é uma oferta especial para você.
+<0168> Hey, este é super raro!
+<0169> Você está com muuuuita sorte!
+<0170> Feliz Natal!

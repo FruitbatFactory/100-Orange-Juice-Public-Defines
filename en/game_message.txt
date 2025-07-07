@@ -1,0 +1,191 @@
+
+< GAME_MESSAGE_YOURTURN >
+Your turn.
+
+< GAME_MESSAGE_OPPONENTTURN >
+Opponent's turn.
+
+< GAME_MESSAGE_CHALLENGEBATTLE >
+Challenge to battle?
+
+< GAME_MESSAGE_HEALTEAMMATE >
+Heal this teammate for 1HP?
+
+< GAME_MESSAGE_REVIVETEAMMATE >
+Revive this teammate? (%d stars)
+
+< GAME_MESSAGE_CHOOSECARDUSE >
+Choose a card to use.
+
+< GAME_MESSAGE_CHOOSECARDDISCARD >
+Choose a card to discard.
+
+< GAME_MESSAGE_CONFIRMCARDUSE >
+Use this card?
+
+< GAME_MESSAGE_BOSSAPPEARED >
+A boss appeared!
+
+< GAME_MESSAGE_RAIDBOSS_APPEAR >
+%s has descended!
+
+< GAME_MESSAGE_RAIDBOSS_UNLOCK >
+%s can now use %s!
+
+< GAME_MESSAGE_RAIDBOSS_REMOVE >
+%s will no longer use %s.
+
+< GAME_MESSAGE_RAIDBOSS_USE_ABILITY >
+%s is activating %s!
+
+< GAME_MESSAGE_RAIDBOSS_SKIP_ABILITY >
+%s will skip using %s.
+
+< GAME_MESSAGE_RAIDBOSS_ENRAGE >
+%s is angry!
+
+< GAME_MESSAGE_COOP_TERROR_EVENT >
+%s can be challenged through panels!
+
+< GAME_MESSAGE_COOP_ANNOUNCE_ABILITY >
+%s will use %s in the next turn!
+
+< GAME_MESSAGE_COOP_LEVELUP_ABILITY >
+%s has been replaced by %s!
+
+< GAME_MESSAGE_TURNSKIP >
+Turn skipped.
+
+< GAME_MESSAGE_CHOOSENORMA >
+Choose the next Norma.
+
+< GAME_MESSAGE_NORMANOTACHIEVED >
+The norma hasn't been achieved.
+
+< GAME_MESSAGE_CARDDRAWN >
+Card drawn.
+
+< GAME_MESSAGE_TRAPSET >
+Trap card set.
+
+< GAME_MESSAGE_TRAPTRIGGER >
+Trap card triggered.
+
+< GAME_MESSAGE_CARDEFFECTSTOCKED >
+Card effect stocked.
+
+< GAME_MESSAGE_STOCKEFFECT >
+Stock effect activated.
+
+< GAME_MESSAGE_FIELDEFFECT >
+Field effect activated.
+
+< GAME_MESSAGE_REVIVESUCCESS >
+Revived!
+
+< GAME_MESSAGE_REVIVEFAIL >
+Failed to revive...
+
+< GAME_MESSAGE_CHOOSETARGET >
+Choose target player.
+
+< GAME_MESSAGE_CHOOSEMOVEPANEL >
+Choose panel to move to.
+
+< GAME_MESSAGE_HOMESTOP >
+Do you want to stop at Home?
+
+< GAME_MESSAGE_HEALING >
+Healing!
+
+< GAME_MESSAGE_EVENTPREFIX >
+
+< GAME_MESSAGE_EVENTSUFFIX >
+!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATEFRENZY >
+Chocolate Frenzy!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_SUCCESS >
+Chocolate stored!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_FAIL >
+Not enough chocolate to store...
+
+< GAME_MESSAGE_HLWN2018_CHOOSECANDY >
+Choose a candy.
+
+< GAME_MESSAGE_HLWN2018_GIVECANDY >
+Give this candy away?
+
+< GAME_MESSAGE_CHOOSETARGETPANEL >
+Choose target panel.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE >
+Choose panel to throw at.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE_CARD >
+Choose panel to throw at / play a card.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_MULTIPLE >
+Choose panels to throw at.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND >
+Choose panel to move to.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND_CARD >
+Choose panel to move to / play a card.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_WAITING >
+Waiting for other players...
+
+< GAME_MESSAGE_XMAS2018_CASTLE_ROTATE >
+Rotate clockwise
+
+< GAME_MESSAGE_XMAS2018_CASTLE_PLACE >
+Place piece
+
+< GAME_MESSAGE_XMAS2018_CASTLE_CHANGE >
+Change piece
+
+< GAME_MESSAGE_SHOPSTOP >
+Do you want to stop at the Shop?
+
+< GAME_MESSAGE_MONSTERCHALLENGE >
+Challenge this monster?
+
+< GAME_MESSAGE_SUMMER2020_SPEEDUP >
+Speed Up!
+
+< GAME_MESSAGE_TELEPORT >
+Select a panel to teleport to.
+
+< GAME_MESSAGE_SELECT_PANEL >
+Select a panel.
+
+< GAME_MESSAGE_AWAIT_ACTION >
+Awaiting player action...
+
+< GAME_MESSAGE_PICK_UNIT >
+Pick your Unit
+
+< GAME_MESSAGE_PET_PLAYER >
+Pet this player?
+
+< GAME_MESSAGE_PET_DOG >
+Would you like to pet the dog?
+
+< GAME_MESSAGE_CHOOSE_BLUFF >
+What type of card do you think will be played next?
+
+< GAME_MESSAGE_DECLARE_BLUFF >
+What type of card do you want to show to the other players?
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_1 >
+The card you will play...
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_2 >
+...is this!
+
+< GAME_MESSAGE_BLUFF_NOTICE >
+This card has been predicted to be played next by {}.

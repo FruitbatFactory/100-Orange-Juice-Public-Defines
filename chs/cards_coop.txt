@@ -1,0 +1,1258 @@
+< CARD_BOOST_COOP_GENTLEMANSBATTLE >
+name=绅士的决斗
+descr=指定1个HP为上限的敌人，与其进行战斗。\n战斗结束时回合结束。
+flavor=「接受我的挑战吧！」—公会会长
+
+< CARD_EVENT_COOP_DINNER >
+name=晚餐
+descr=所有友方恢复3点HP。
+flavor=「一起来吃饭吧。」—夏美
+
+< CARD_BATTLE_COOP_SINKORSWIM >
+name=赌命一搏
+descr=ATK·DEF·EVD-1。\n如果你在这场战斗中取得胜利，\n获得10颗STAR和1WIN。
+flavor=「好了，来赌波大的吧！」—由希
+
+< CARD_EVENT_COOP_UNPAIDWORK >
+name=劳而无薪
+descr=持续效果（1轮）\n在效果持续时，玩家不会被强制失去STAR。
+flavor=「里面根本没有工资啊！」—克丽丝
+
+< CARD_EVENT_COOP_INDISCRIMINATEFIRESUPPORT >
+name=无差别火力支援
+descr=持续效果（无限）\n随机1名角色成为目标并受到1点伤害。\n在你的回合开始时重复这个效果。\n当有角色倒下时效果结束。\n友方不会因这个效果受到伤害。
+flavor=「……」—优空
+
+< CARD_BATTLE_COOP_DECEPTIVEDISARMING >
+name=虚假除械
+descr=如果你未在这场战斗中被击倒，取消\nBOSS下次的卡片激活。\n只能对BOSS使用。
+flavor=「里面竟然都是危险品！」—托玛特
+
+< CARD_EVENT_COOP_PETSNACKS >
+name=宠物零食
+descr=BOSS和所有存活手下在它们的\n下一场战斗中ATK-1。该效果可叠加。
+flavor=「快过来，点心时间到啦！吃吧吃吧！」—秀拉
+
+< CARD_BOOST_COOP_FREIGHT >
+name=货物
+descr=当你停留在自己的HOME格时，\n此卡将被丢弃，并获得5颗STAR。\n使用将丢弃这张卡。
+flavor=「那个货物就让给你了。是的，让给你了。」\n—商人
+
+< CARD_EVENT_COOP_FORCEDREVIVAL >
+name=强制复活
+descr=所有倒下的角色以一半的HP复活，向上取整。
+flavor=「我这就给你治疗。」—斩子
+
+< CARD_EVENT_COOP_REBELLION >
+name=反抗
+descr=持续效果（2轮）\n若BOSS的HP大于所有玩家的HP总和，\n与BOSS战斗时ATK·DEF·EVD+1。
+flavor=「在不久的将来，公会将会背叛你。\n……记住这件事吧」—雪莉
+
+< CARD_GIFT_COOP_POPPOTHESNATCHER >
+name=掠夺者啵噗
+descr=DEF-1。\n在你的回合，经过敌人时偷取\n你等级×3的STAR。\n无法进行目标检测。\n在使用或倒下时，将丢弃这张卡。
+flavor=「啵嘻嘻！！」—啵噗
+
+< CARD_TRAP_COOP_BANKOFPOPPO >
+name=啵噗银行
+descr=BOSS失去轮数×2的STAR，将轮数×2\n的STAR存入此陷阱。\n陷阱将存留至第二次发动，第二个触发此陷阱的\n角色获得存入的STAR。
+flavor=「我的钱竟然被……！」—凯
+
+< CARD_BOOST_COOP_MYWILDFRIENDS >
+name=我的野生朋友们
+descr=将一个可能出现的随机野怪类型的友好角色召唤\n至同一格，并让其获得2点HP。\n召唤物将自动挑战敌人，战斗中获得的STAR\n将给予召唤者。\n它将替代之前的召唤物。
+flavor=「偶尔放松一下也不错啊。」—缇欧特拉塔
+
+< CARD_BATTLE_COOP_CONTESTOFCUTENESS >
+name=可爱大对决
+descr=先攻时才能使用。战斗结果将由一场可爱对决来决定。\n可爱度=10-HP上限-ATK+EVD，最低为0。\n双方不再投掷进攻骰，而是投掷两枚骰子，并将\n结果累加至可爱度中。可爱度较高者将夺取\n玩家等级×5的STAR，并获得1WIN。\n然后结束战斗。
+flavor=「那么谁才是最可爱的人呢！？」—纱季
+
+< CARD_HYPER_COOP_ALTE >
+name=自爆
+descr=倒下时对敌人造成HP上限的伤害。\n对方不会获得STAR和WIN，\n且在因此效果而倒下时会失去一半的STAR。
+flavor=「我没法回去了……抱歉。」—阿露特
+
+< CARD_HYPER_COOP_ARU >
+name=给你的礼物
+descr=所有玩家抽卡直到上限。\n如果原本已达上限则抽取1张卡。
+flavor=「这是给好孩子礼物哟～」—亚琉
+
+< CARD_HYPER_COOP_ARTHUR2 >
+name=兔子模玩店
+descr=玩家从卡堆抽取1张卡。\n这张卡在触发后仍会留在场上，\n但能够被新的陷阱替换。\n这张卡对敌人或设置它的玩家不会起效。
+flavor=「接下来该开店了。」—亚瑟
+
+< CARD_HYPER_COOP_ARUSCRAMBLE >
+name=圣诞小姐的工作
+descr=在待命时，你可以选择这张卡以外的1张\n可用等级的手牌转让给另1名随机玩家。\n获得转让卡片等级×5的STAR。\n在使用或倒下时，将丢弃这张卡。
+flavor=「等着我们吧，全世界的孩子们！」—亚琉
+
+< CARD_HYPER_COOP_CHICKEN >
+name=金蛋
+descr=获得等级×10的STAR。
+flavor=「咯咯——！」—鸡
+
+< CARD_HYPER_COOP_FERNET >
+name=飞艇轰炸
+descr=所有敌人受到1～2点伤害。\n获得击倒角色数×15的STAR。
+flavor=「哼，给我击坠她。」—菲尔涅特
+
+< CARD_HYPER_COOP_HIME >
+name=束缚之锁
+descr=储备效果\n所有敌人跳过各自的下一个回合。\n所有存活的敌人受到束缚效果。\n持续效果（2轮）\nEVD-2，MOV-1。
+flavor=「才不是喜欢这种事呢。」—姬梦
+
+< CARD_HYPER_COOP_IRU >
+name=扩散光子步枪
+descr=★COST（等级×5）\n随机敌人受到1点伤害。\n造成击倒时获得1WIN。\n该效果发动次数为你的等级数。
+flavor=「我要把你们都击坠。」—依琉
+
+< CARD_HYPER_COOP_KAE >
+name=爆燃！
+descr=5×5范围内的角色获得「爆燃！」效果，\n并刷新已有「爆燃！」效果的持续时间。\n持续效果（2轮）\n友方ATK+1。敌人DEF-1。\n倒下时效果结束。该效果可叠加。
+flavor=「很好！很好！现在的感觉，最棒了！」—佳爱
+
+< CARD_HYPER_COOP_KAI >
+name=主角的特权
+descr=持续效果（3轮）\n先攻，敌人无法反击。\n（每场战斗只能起效1次）
+flavor=「这就是，主角的特权啊！」—凯
+
+< CARD_HYPER_COOP_KIRIKO >
+name=决杀手术
+descr=击倒所有HP为1的角色。\n每通过该效果击倒1名角色，移除1层「奇怪的药」，获得25颗STAR。\n因此倒下的同伴REC-2。
+flavor=「我这就给你治疗，\n乖乖待着别动。」—斩子
+
+< CARD_HYPER_COOP_KRILAEVENT >
+name=玩偶使
+descr=将3～5张「起舞吧长耳兽」\n设置在随机的格子上。
+flavor=「起舞吧长耳兽！」—克里拉拉莉丝
+
+< CARD_HYPER_COOP_KRILATRAP >
+name=起舞吧长耳兽
+descr=受到2点伤害。\n设置这张卡的玩家获得1点HP。\n储备效果\n在下一场战斗中ATK-2。\n友方不会触发这张卡。
+flavor=「起舞吧长耳兽！」—克里拉拉莉丝
+
+< CARD_HYPER_COOP_MALT >
+name=黄昏色的梦
+descr=★COST（等级×7）\n持续效果（等级数轮）\n所有友方在BOSS格上战斗时ATK+1。\n当敌人移动到你设置了战斗卡陷阱的格子时，\n必须停在这一格。
+flavor=「天空中飞舞着无数的飞翼。\n你不觉得这简直就是梦境般的景象吗？」\n—莫尔特
+
+< CARD_HYPER_COOP_MASTER >
+name=永久驱逐
+descr=★COST（所持STAR÷10）\n使用这张卡后，BOSS跳过下次行动。
+flavor=「拜托您了店长——！！」—克丽丝
+
+< CARD_HYPER_COOP_MAYNIE >
+name=愤怒狂暴
+descr=获得1点愤怒值，进入「狂暴模式」。\n在「狂暴模式」下ATK·EVD+X，\nX为你的愤怒值÷2（向上取整）。\n在你的回合开始时，失去1点愤怒值。\n愤怒值归0时狂暴模式结束。
+flavor=「嘎哦哦哦哦！」—梅妮
+
+< CARD_HYPER_COOP_MEI >
+name=白色圣诞大粉碎
+descr=丢弃所有手牌并对3×3范围内的敌人造成\n2点伤害。\n每击倒1名敌人，你获得1WIN与你等级×5\n的STAR。\n如果手中持有「小红＆小蓝」，\n这张卡会变为「真·白色圣诞大粉碎」。
+flavor=「白色圣诞大粉碎！」—梅依
+
+< CARD_HYPER_COOP_MEITRUE >
+name=真·白色圣诞大粉碎
+descr=对5×5范围内的敌人造成4点伤害。\n每击倒1名敌人，你获得1WIN与你等级×10\n的STAR。\n如果手中没有「小红＆小蓝」, 这张卡会变为\n「白色圣诞大粉碎」。
+flavor=「白色圣诞大粉碎！」—梅依、小红和小蓝
+
+< CARD_HYPER_COOP_NATH >
+name=另一个最终兵器
+descr=★COST（ATK每+1 10STAR）\nATK·DEF+1。\n此外，COST每消耗10颗STAR，\nATK·DEF+1，ATK最高能达到+9。
+flavor=「因为你不在了，\n所以我代替你成为了最终兵器。」—娜德
+
+< CARD_HYPER_COOP_NONAME >
+name=统治者
+descr=战斗结束，对方转而与希夫机器人战斗。\n只能对BOSS使用。
+flavor=「哈哈哈，我的朋友来啦！」—NoName
+
+< CARD_HYPER_COOP_POPPO >
+name=神出鬼没
+descr=传送至指定存活敌人所在的格子。\n从该敌人处偷取你等级×10的STAR。
+flavor=「啵噗！啵噗噗噗噗噗～！」—玛丽啵噗
+
+< CARD_HYPER_COOP_QPD >
+name=甜点守护者
+descr=获得2张「布丁」。\n这些卡在使用或丢弃时，会从游戏中除外。
+flavor=「小布丁……\n我、我……爱死你了。」—QP
+
+< CARD_HYPER_COOP_SAKI >
+name=大爆炸铃
+descr=以这张卡为中心的5×5范围内的敌人\n受到X点伤害。\nX=2+（设置后经过的轮数÷2）。\n因这个效果而倒下的敌人失去一半的STAR，\n由设置这张卡的玩家获得所失去的STAR。
+flavor=「嘛呜呜呜哩呀呀呀呀呀！！」—纱季
+
+< CARD_HYPER_COOP_SHAM >
+name=三角力场
+descr=这场战斗中对方受到以下效果：\n骰子投出的点数为1。
+flavor=「既然你无论如何都不肯回去，\n那我就只好不择手段把你带回去了！」—夏姆
+
+< CARD_HYPER_COOP_SHERRY >
+name=变化无常的风车
+descr=与BOSS进行对方先攻的战斗。\n战斗中EVD+1。
+flavor=「我们只是，想要自由地飞翔而已。」—雪莉
+
+< CARD_HYPER_COOP_STARBREAKER >
+name=星球的导火线
+descr=将3～5个「不可视的炸弹」\n设置在随机的格子上。
+flavor=「因为我是星球破坏者，\n破坏星球的导火线。」—星球破坏者
+
+< CARD_HYPER_COOP_STARBREAKER2 >
+name=不可视的炸弹
+descr=敌人受到4点伤害。\n同伴不会触发这张卡。\n只有设置这张卡的玩家自己和同伴\n可以看到这张卡。
+flavor=「因为我是星球破坏者，\n破坏星球的导火线。」—星球破坏者
+
+< CARD_HYPER_COOP_SWEETBREAKER >
+name=融化的记忆
+descr=★COST（所持STAR÷10）\n打乱BOSS当前的手牌顺序。\n对所有敌人造成融化的记忆效果。\n持续效果（3轮）\n倒下时效果结束。
+flavor=「向身为神明的我发出挑战的愚蠢，\n就让你切身品味一下吧。」—甜点破坏者
+
+< CARD_HYPER_COOP_TEQUILA >
+name=海贼在天上飞？
+descr=召唤2名「海贼小弟」与随机1名敌人战斗。\n敌人后攻。
+flavor=「又没有不让海贼在天上飞的法律！」—铁基拉
+
+< CARD_HYPER_COOP_TOMATO >
+name=阴谋机器人出动！
+descr=这场战斗中ATK+X，DEF+X，EVD-X。\nX为所有友方的手牌张数÷2。
+flavor=「复仇！」—托玛特
+
+< CARD_HYPER_COOP_TOMOMO >
+name=杀戮魔法
+descr=对所有敌人造成X点伤害。\nX为倒下的同伴人数×3。
+flavor=「消失吧。」—兔萌萌
+
+< CARD_HYPER_COOP_TOMOMOSWEETEATER >
+name=魔法复仇
+descr=你目前所缺失的每点HP，\n使除你以外的随机1名敌人受到1点伤害。\n造成击倒时获得1WIN。\n当持有者不是「兔萌萌（甜点品尝者）」时，\n此卡会变为「奇迹红豆冰淇淋」。
+flavor=「魔法复仇的时间到了！」 —兔萌萌
+
+< CARD_HYPER_COOP_TSIH >
+name=隐身启动
+descr=持续效果（3轮）\n无法被敌人挑战。\n不会触发遭遇格或BOSS格。\n进入战斗时效果结束，\n并且这场战斗中ATK+2。
+flavor=「一下子就消失了啦！」—杏
+
+< CARD_HYPER_COOP_YUKI >
+name=赌博！
+descr=随机对你或BOSS造成\n你当前HP上限的伤害。
+flavor=「谁会死去，就用这个来决定吧？」—由希
+
+< CARD_HYPER_COOP_YUKIDANGEROUS >
+name=阴谋的操纵者
+descr=从卡堆抽取3张陷阱卡，\n将手牌中的所有陷阱卡设置在随机的格子上。 
+flavor=「因我的力量而颤抖吧！」—由希
+
+< CARD_HYPER_COOP_ARTHUR >
+name=店铺扩张战略
+descr=★COST（手牌数×5）\n所有的手牌（包括这张卡）\n变为「兔子模玩店」。\n这个回合你可以再使用1张卡片。
+flavor=「哼。」—亚瑟
+
+< CARD_HYPER_COOP_MIMYUU >
+name=阴谋的间谍行动～执行
+descr=这张卡无法使用。\n持有这张卡时，\n在回合结束时恢复2点HP。\n然后，这张卡从游戏中除外。
+flavor=「中计了吧！接招吧！！」—米缪
+
+< CARD_HYPER_COOP_NATSUMI >
+name=烹饪时间
+descr=★COST（等级×5）\n为所有玩家恢复你等级数的HP。
+flavor=「开饭啦～♪」—夏美
+
+< CARD_HYPER_COOP_YUUKI_DEVIL >
+name=恶魔之手
+descr=对随机1名敌人造成最多5点伤害，\n最少剩余1点HP，\n获得伤害量×10的STAR。\n在奇数轮时，这张卡会变为「天使之手」 。
+flavor=「尝尝恶魔之力吧。」—夕希
+
+< CARD_HYPER_COOP_MIO >
+name=魔法狱火
+descr=对除你所在的格子外，与其相连通的\n十字方向的格子上的所有敌人造成5点伤害。\n击倒敌人时，你获得等同于战斗击倒的\nSTAR。\n然后回合结束。
+flavor=「狱火！」—魅樱
+
+< CARD_HYPER_COOP_ISLAY >
+name=劲敌
+descr=与指定敌人战斗，由你先攻。\n这场战斗中ATK+1。
+flavor=「我也有……我自己的战斗。」—艾拉
+
+< CARD_HYPER_COOP_COOK >
+name=风信鸡的指引
+descr=储备效果\n除战斗外，骰子枚数变为2枚。\n倒下时效果结束。
+flavor=「叽叽，库克想去这边。」—库克
+
+< CARD_HYPER_COOP_TEOTORATTA >
+name=兽之魔女
+descr=免疫BOSS及其手下造成的STAR丢失效果。\n效果发动后将丢弃这张卡。
+flavor=「服从我吧！野兽们！」—缇欧特拉塔
+
+< CARD_HYPER_COOP_CUTIES >
+name=特别演出
+descr=★COST（等级×10）\n进入X回合的演唱会模式，X为你的等级数。\nMOV-3，只能触发移动类型的格子，无法使用卡片。\n不会被敌人挑战。\n当对手在5×5范围内结束回合时，\n从其手中夺取你等级×5的STAR。\n倒下时演唱会结束。
+flavor=「这就是最强的可爱者！」—优空和夏姆
+
+< CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE >
+name=富豪（X）
+descr=与BOSS战斗。对方ATK-X，\nX=富豪等级数。你无法攻击。如果\n你未被击倒，对方给予你X×20的STAR。\n此卡为「富豪（4）」以下时：你可以选择\n支付COST升级此卡。当持有者不是菲尔涅特\n时，此卡会变为「社交界亮相」。
+flavor=「你想请我帮忙……？\n哎呀哎呀，我当然乐意帮助朋友了。」\n—菲尔涅特
+
+< CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE_V >
+name=富豪（%d）
+descr=与BOSS战斗。对方ATK-X，\nX=富豪等级数。你无法攻击。如果\n你未被击倒，对方给予你X×20的STAR。\n此卡为「富豪（4）」以下时：你可以选择\n支付COST升级此卡。当持有者不是菲尔涅特\n时，此卡会变为「社交界亮相」。
+flavor=「你想请我帮忙……？\n哎呀哎呀，我当然乐意帮助朋友了。」\n—菲尔涅特
+
+< CARD_HYPER_COOP_SHIFU >
+name=梦寐以求的世界
+descr=持续效果（2轮）\n选择一名存活玩家。\n机械系角色将会代替那名玩家进行战斗，\n且此机械系角色将ATK+1。
+flavor=「一切都如我所愿。」—希夫
+
+< CARD_HYPER_COOP_REIKA >
+name=星星收集者
+descr=持续效果（3轮）\n当一名玩家从格子或战斗击倒获得STAR时，\n将额外获得其等级数的STAR。
+flavor=「呵呵呵，好多星星啊。」—丽华
+
+< CARD_HYPER_COOP_WATTY >
+name=魔力解放
+descr=持续效果（3轮）\nDEF+2。硬化鳞片的最大层数增加至10。\n当你获得10层硬化鳞片时，对BOSS造成\n你等级数的伤害，对场上的其它所有敌人造成\n一半的伤害。
+flavor=「这、这很危险的……对不起。」—沃缇
+
+< CARD_HYPER_COOP_POMERANIUS >
+name=可爱到犯规的小狗狗
+descr=持续效果（3轮）\n不会触发BOSS格。\n当你与另一名玩家在同一格，且其中一方回合\n结束时，双方皆抽取一张卡。无法发起挑战\n或受到挑战。\n玩家可以停下来摸摸你。
+flavor=「呜呜～」—波美拉尼亚斯
+
+< CARD_HYPER_COOP_SWEETCREATOR >
+name=甜点天堂
+descr=将3～5张「甜点纵溺」正面向上设置在\n随机的格子上。
+flavor=「这就是甜点神的力量！」—甜点创造者
+
+< CARD_HYPER_COOP_SWEETCREATOR2 >
+name=甜点纵溺
+descr=获得3张随机的非Hyper甜点类卡片。\n甜点天堂只会被友方触发。
+flavor=「我想用甜点填满你。」—甜点创造者
+
+< CARD_HYPER_COOP_MIOFESTIVE >
+name=圣诞狱火
+descr=HP降为1。\n对BOSS造成等同于你失去HP数量的伤害。\n其它敌人受到你失去HP数量一半的伤害\n（向上取整）。\n每有1名倒下的同伴获得一张「魅樱的圣诞\n蛋糕」。
+flavor=「给各位展示一下地狱之景。」—节庆魅樱
+
+< CARD_BOOST_COOP_XMASCAKE >
+name=魅樱的圣诞蛋糕
+descr=选择以下一种效果：\n·吃掉获得2点HP。\n·与指定同伴分享，为其恢复2点HP，再为你\n恢复相同数量的HP。
+flavor=「这是我的得意之作，请慢用♡」—节庆魅樱
+
+< CARD_HYPER_COOP_KRILAPAJAMA2 >
+name=当吾封印破除之时
+descr=对BOSS造成X+1点伤害，对其它所有敌人\n造成一半的伤害，向上取整，X等于苏醒层数。\n移除所有苏醒层数。\n每移除2层苏醒获得1点HP。
+flavor=「道早安的时候到了……」—克里拉拉莉丝
+
+< CARD_HYPER_COOP_MIMYUUJAILBIRD >
+name=假想越狱
+descr=移动至自己的HOME格且不对其进行触发。\n无法被挑战。\n免疫来自BOSS的陷阱卡与卡片伤害。\n移动骰枚数变为2枚。\n移动20格后效果结束。
+flavor=「撒丫子跑呀！」—米缪
+
+< CARD_HYPER_COOP_DARKL >
+name=露露是厄运之龙
+descr=只能在2HP及以下使用。\n随机获得以下一种效果：\n・投掷一枚骰子，所有敌人失去骰子点数×\n　你的等级×2的STAR，然后你获得相同\n　数量的STAR。\n・BOSS跳过下次行动。\n・所有敌人失去3点HP。
+flavor=「露露是……厄运之龙……」—黑暗露露
+
+< CARD_HYPER_COOP_GRAIN >
+name=全炮门开启
+descr=消耗所有炮弹。对随机1名敌人造成1点伤害。\n造成击倒时，你获得1WIN与你等级×10的\nSTAR。\n每消耗1枚炮弹重复一次此行为。
+flavor=「全炮门开启……发射！」—格雷因
+
+< CARD_HYPER_COOP_HARUKA >
+name=暖场高手
+descr=持续效果（2轮）\n每当其他玩家倒下时，支付等级×5\n的STAR，该玩家将立即以最大HP复活。
+flavor=「大家都来热热闹闹地玩起来吧！」—春留果
+
+< CARD_HYPER_COOP_KANATA >
+name=故弄玄虚
+descr=持续效果（3轮）\n选择一种卡片类型（战斗、增益、事件、\n其它）。\n每当有玩家使用这种类型的卡片时，该玩家\n抽1张卡。
+flavor=「你的手牌已经被我看透了。」—夏奈多
+
+< CARD_BOSS_COOP_DOZE >
+name=打盹
+descr=没有效果。
+flavor=
+
+< CARD_BOSS_COOP_GROUPUP >
+name=集合
+descr=所有友方随机传送至同一格。
+flavor=
+
+< CARD_BOSS_COOP_PECK >
+name=啄
+descr=BOSS对同一格的所有玩家造成2点伤害。
+flavor=
+
+< CARD_BOSS_COOP_FLIGHT >
+name=飞行
+descr=反向移动。\n对遇到的每名敌人造成BOSS等级数的伤害。
+flavor=
+
+< CARD_BOSS_COOP_CHICKEN_ATTACK >
+name=鸡攻击之术
+descr=偷袭所有同一格的所有玩家。
+flavor=
+
+< CARD_BOSS_COOP_PIYO_MARCH >
+name=小鸡游行
+descr=所有友方在下一场战斗中EVD+2。
+flavor=
+
+< CARD_BOSS_COOP_REGENERATION >
+name=恢复
+descr=场上的所有角色恢复1点HP。
+flavor=
+
+< CARD_BOSS_COOP_PRESENT >
+name=礼物
+descr=设置1张陷阱卡到随机的格子。
+flavor=
+
+< CARD_BOSS_COOP_HEADLESS_CHICKEN >
+name=群鸡无首
+descr=BOSS的ATK+2直到它的回合结束。\n如果BOSS的HP少于50%，\n其他所有手下ATK·EVD+2，并攻击\n3×3范围内的所有敌人。
+flavor=
+
+< CARD_BOSS_COOP_CALL_OF_CHICKEN >
+name=鸡呼卡应
+descr=抽取1张卡并使用。
+flavor=
+
+< CARD_BOSS_COOP_CHICKEN_RUN >
+name=小鸡快跑
+descr=持续效果（2轮）\n场上的所有手下MOV+2·EVD+1。
+flavor=
+
+< CARD_BOSS_COOP_HEN_PECKED >
+name=母鸡啄人
+descr=BOSS对3×3范围内的所有玩家造成\nBOSS等级数的伤害。
+flavor=
+
+< CARD_BOSS_COOP_SECOND_WING >
+name=卷羽重来
+descr=所有友方恢复BOSS等级数的HP。
+flavor=
+
+< CARD_BOSS_COOP_SWARM >
+name=群鸡起舞
+descr=场上的所有手下在下一场战斗中\nATK+2，然后跃向1名随机玩家\n并与其战斗。\n玩家无法反击。\n之后BOSS会使用冲刺。
+flavor=
+
+< CARD_BOSS_COOP_FINAL_WARNING >
+name=最终警告
+descr=对1名随机玩家造成其当前HP数量的伤害。\n如果BOSS的HP少于50%，额外对1名\n随机玩家造成BOSS等级数的伤害。
+flavor=
+
+< CARD_BOSS_COOP_SAVAGE_TALONS >
+name=残暴利爪
+descr=对HP最低的玩家造成其当前HP数量的伤害。\n随机1名玩家受到该玩家所拥有HP数的\n伤害。
+flavor=
+
+< CARD_BOSS_COOP_BEAK_OF_GODBIRD >
+name=神鸟之喙
+descr=攻击3×3范围内的所有玩家，\n从HP最低的玩家开始。\n每击倒1名玩家，BOSS获得永久ATK+1。
+flavor=
+
+< CARD_BOSS_COOP_ROOST >
+name=鸡窝
+descr=BOSS在当前所在的格子产生1只鸡手下，\n最多4只。
+flavor=
+
+< CARD_BOSS_COOP_ROOST_HYPER >
+name=鸡窝
+descr=BOSS在当前所在的格子产生2只鸡手下，\n最多4只。
+flavor=
+
+< CARD_BOSS_COOP_MALFUNCTION >
+name=故障
+descr=对自己造成1点伤害。\n不会使HP降到1以下。
+flavor=
+
+< CARD_BOSS_COOP_ATTACK_DOWN >
+name=攻击下降
+descr=持续效果（2轮）\n所有玩家ATK-2。\nBOSS的ATK+2。
+flavor=
+
+< CARD_BOSS_COOP_QUICK_REPAIR >
+name=快速修复
+descr=恢复1点HP。
+flavor=
+
+< CARD_BOSS_COOP_BALANCE_CURRENTS >
+name=平衡电流
+descr=各玩家每拥有1点正数ATK受到1点伤害，\n每拥有1点负数ATK恢复1点HP。
+flavor=
+
+< CARD_BOSS_COOP_IMMOVABLE_OBJECT >
+name=不动之物
+descr=持续效果（2轮）\n无法移动。DEF+2。可以反击。\n敌人移动到你所在的格子时，\n必须与你战斗。
+flavor=
+
+< CARD_BOSS_COOP_EXTENDED_PHOTON_RIFLE >
+name=机器光束
+descr=对随机1名玩家造成1点伤害。\n额外重复已经过的轮数÷5次，\n最多BOSS等级数×2次。
+flavor=
+
+< CARD_BOSS_COOP_PROTECT >
+name=保护
+descr=储备效果（BOSS等级数+1）\n当BOSS受到伤害时，每消耗1层储备最多可降低3点伤害，直至伤害变为1点。\n当储备层数耗尽时，获得\n3轮负面效果：DEF·EVD-2、MOV-1。
+flavor=
+
+< CARD_BOSS_COOP_TURBO >
+name=涡轮
+descr=移动骰枚数变为3枚。
+flavor=
+
+< CARD_BOSS_COOP_ASSAULTFIELD >
+name=突击领域
+descr=将3～5张「突击」设置在随机的格子上。
+flavor=
+
+< CARD_BOSS_COOP_EVASION_DOWN >
+name=闪避下降
+descr=持续效果（2轮）\n所有玩家EVD-2。\nBOSS的EVD+2。
+flavor=
+
+< CARD_BOSS_COOP_DEFENSE_DOWN >
+name=防御下降
+descr=持续效果（2轮）\n所有玩家DEF-2。\nBOSS的DEF+2。
+flavor=
+
+< CARD_BOSS_COOP_ENGAGE >
+name=啮合
+descr=与1名随机玩家战斗。\n这场战斗中ATK+2。\n这个回合移动骰枚数+1。
+flavor=
+
+< CARD_BOSS_COOP_SELF_DESTRUCTION >
+name=自毁
+descr=对自己造成3点伤害。\n7×7范围内的玩家受到1点伤害。\n5×5范围内的玩家多受到1点伤害。\n3×3范围内的玩家再多受到1点伤害。\n不会使BOSS的HP降到1以下。
+flavor=
+
+< CARD_BOSS_COOP_SOLID_WITCH >
+name=坚实魔女
+descr=持续效果（1轮）\nBOSS不会受到伤害。
+flavor=
+
+< CARD_BOSS_COOP_DELTA_FIELD >
+name=被扰乱的三角力场
+descr=持续效果（2轮）\n所有玩家受到以下效果：\n骰子投出的点数为1～3。
+flavor=
+
+< CARD_BOSS_COOP_IMAGINARY_NUMBERS >
+name=虚数
+descr=持续效果（1轮）\nBOSS的骰子投点为7。
+flavor=
+
+< CARD_BOSS_COOP_HEALTH_DOWN >
+name=生命下降
+descr=所有玩家获得储备效果（1）\nHP上限-1（下限为2）。\n玩家倒下时减少2层储备。
+flavor=
+
+< CARD_BOSS_COOP_RECOVERY_MODE >
+name=恢复模式
+descr=储备效果（1）\n直到下一场战斗，\n跳过移动骰并每回合恢复2点HP。
+flavor=
+
+< CARD_BOSS_COOP_PERFECT_REFLECTIVE_SHELL >
+name=完美反射外壳
+descr=受到的每点伤害都将返还给攻击者。
+flavor=
+
+< CARD_BOSS_COOP_EMP >
+name=电磁脉冲
+descr=对所有玩家造成1点伤害。\n持续效果（2轮）\n受影响的玩家无法使用卡片。
+flavor=
+
+< CARD_BOSS_COOP_BIG_POPPO >
+name=来自深渊
+descr=召唤1名大啵噗手下至场上。\n大啵噗造成的每点伤害改为偷取3颗STAR。\n与BOSS共享STAR。\n倒下时给予100个BOSS的STAR和3WIN。\nREC为10。
+flavor=
+
+< CARD_BOSS_COOP_NAP >
+name=小睡
+descr=失去5颗STAR。
+flavor=
+
+< CARD_BOSS_COOP_ELUSIVE >
+name=飘忽不定
+descr=发生恩惠和随机传送事件。\n在这个回合，BOSS或存活手下在进入玩家\n所在的格子时玩家失去X颗STAR，BOSS获得\nX颗STAR。\nX为BOSS等级数×5。
+flavor=
+
+< CARD_BOSS_COOP_STAR_MANIA >
+name=星星狂热
+descr=储备效果（1）\nBOSS每轮获得星星狂热储备层数的STAR。
+flavor=
+
+< CARD_BOSS_COOP_POPPO_TAX >
+name=啵噗税
+descr=每个不在BOSS或存活手下的5×5范围内的\n玩家失去5颗STAR，BOSS获得受影响的\n玩家数×5的STAR。\n之后发生随机传送事件。
+flavor=
+
+< CARD_BOSS_COOP_TITHE >
+name=信仰税
+descr=每个在BOSS或存活手下的（BOSS等级数的\n格子）范围内的玩家失去10颗STAR，\nBOSS获得受影响的玩家数×10的STAR。
+flavor=
+
+< CARD_BOSS_COOP_UBIQUITOUS >
+name=神出鬼没
+descr=BOSS传送至离BOSS最远的存活玩家，\n从该玩家处偷取其等级×5的STAR。\n存活手下传送至最近的存活玩家，\n从该玩家处偷取5颗STAR。\n如果有多个玩家符合要求，随机选择其中1名。
+flavor=
+
+< CARD_BOSS_COOP_SNATCHER >
+name=掠夺者
+descr=随机1名玩家丢弃1张卡片。\nBOSS获得丢弃卡片的等级×5的STAR。
+flavor=
+
+< CARD_BOSS_COOP_SKY_RESTAURANT_POPPO >
+name=空中餐厅「啵噗」
+descr=在BOSS和存活手下所在的格子放置\n「空中餐厅「啵噗」」陷阱：\n恢复所有HP。\n将恢复的HP数×10的STAR支付给BOSS。
+flavor=
+
+< CARD_BOSS_COOP_SKY_RESTAURANT_POPPO_TRAP >
+name=空中餐厅「啵噗」
+descr=恢复所有HP。\n将恢复的HP数×10的STAR支付给BOSS。
+flavor=
+
+< CARD_BOSS_COOP_HIGHWAY_ROBBERY >
+name=拦路抢劫
+descr=在这个回合，\nBOSS的ATK+3，反向移动，\n在挑战敌人时不会停步。\nBOSS造成的每点伤害改为偷取10颗STAR。
+flavor=
+
+< CARD_BOSS_COOP_GREED >
+name=贪婪
+descr=持续效果（1轮）\nBOSS或存活手下每对玩家造成1点\n战斗伤害，BOSS获得5颗STAR。
+flavor=
+
+< CARD_BOSS_COOP_WARP_PHENOMENON >
+name=传送现象
+descr=发生3次随机传送事件。\n每次传送后BOSS和存活手下对3×3范围内\n的玩家造成1点伤害并偷取5颗STAR。
+flavor=
+
+< CARD_BOSS_COOP_POPPOFORMATION >
+name=啵噗化
+descr=所有玩家获得储备效果（1）\n在下一场战斗中，基础ATK·DEF·EVD\n变为-1。
+flavor=
+
+< CARD_BOSS_COOP_TEMPTATION >
+name=诱惑
+descr=直到下一个BOSS的回合前，使用卡片\n无需COST。\nBOSS获得玩家使用的卡片等级×10\n的STAR。
+flavor=
+
+< CARD_BOSS_COOP_POPPO_GALAXY >
+name=啵噗银河
+descr=BOSS每拥有100颗STAR，对不在BOSS\n或存活手下5×5范围内的所有玩家\n造成1点伤害，最少保留1点HP。
+flavor=
+
+< CARD_BOSS_COOP_DEATH_AND_TAXES >
+name=死亡与纳税
+descr=BOSS或存活手下5×5范围内的所有玩家，\n每拥有50颗STAR受到1点伤害。\n每击倒1名玩家，BOSS获得50颗STAR。
+flavor=
+
+< CARD_BOSS_COOP_VALUE_JUDGMENT >
+name=价值判断
+descr=如果所有玩家的总基础ATK为正数，\n对所有玩家造成这个数值的伤害。\n如果为负数，对所有玩家治疗这个数值的HP。\n偷取或给予造成伤害或治疗HP的点数×10的\nSTAR。
+flavor=
+
+< CARD_BOSS_COOP_RANSOM_NOTE >
+name=赎金勒索信
+descr=给予存活玩家1张「赎金勒索信」礼物卡：\n★COST(本轮用过的「赎金勒索信」×10)\n支付COST给BOSS可以丢弃「赎金勒索信」。\n持有这张卡时，在回合结束时倒下。\n通过使用以外的方式丢弃时，\n其余手牌也被丢弃。
+flavor=
+
+< CARD_COOP_BOOST_RANSOM_NOTE >
+name=赎金勒索信
+descr=★COST(本轮用过的「赎金勒索信」×10)\n支付COST给BOSS可以丢弃「赎金勒索信」。\n持有这张卡时，在回合结束时倒下。\n通过使用以外的方式丢弃时，\n其余手牌也被丢弃。
+flavor=
+
+< CARD_BOSS_COOP_POPPOCALYPSE >
+name=啵噗末日
+descr=持续效果（1轮）\n所有BOSS、HOME、传送以外的格子\n变为遭遇格。所有啵噗ATK+2。\n野生啵噗在战斗中造成的每点伤害\n额外给予BOSS 5颗STAR。
+flavor=
+
+< CARD_BOSS_COOP_HOARDER >
+name=囤积者
+descr=受到战斗伤害时DEF+1，直到该轮结束。\n此效果可叠加。
+flavor=
+
+< CARD_BOSS_COOP_REST >
+name=休息
+descr=失去1点兴奋。
+flavor=
+
+< CARD_BOSS_COOP_CHASE >
+name=追逐
+descr=冲刺。这个回合BOSS每与1名玩家战斗过，获得1点兴奋。
+flavor=
+
+< CARD_BOSS_COOP_PLAY >
+name=玩耍
+descr=获得1点兴奋。
+flavor=
+
+< CARD_BOSS_COOP_TIRE_OUT >
+name=消耗
+descr=所有存活的玩家变得疲劳。\n持续效果（2轮）\n下次倒下时的REC+1。
+flavor=
+
+< CARD_BOSS_COOP_TIRED >
+name=疲劳
+descr=持续效果（2轮）\n下次倒下时的REC+1。
+flavor=
+
+< CARD_BOSS_COOP_PUDDING_SEEKER >
+name=布丁猎人
+descr=失去1点兴奋。抽取1张卡并使用。
+flavor=
+
+< CARD_BOSS_COOP_BIRDS >
+name=鸟群
+descr=所有玩家受到1点伤害。\n每因此击倒1名玩家获得1点兴奋。
+flavor=
+
+< CARD_BOSS_COOP_SEAGULL_FRIEND >
+name=海鸥朋友
+descr=在BOSS所在的格子放置「海鸥之舞」：\n造成2点伤害，\nBOSS恢复1点HP并获得1点兴奋。\n储备效果（1）\n在下一场战斗中ATK-2。
+flavor=
+
+< CARD_BOSS_COOP_DANCE_OF_SEAGULLS >
+name=海鸥之舞
+descr=造成2点伤害，\nBOSS恢复1点HP并获得1点兴奋。\n储备效果（1）\n在下一场战斗中ATK-2。
+flavor=
+
+< CARD_BOSS_COOP_PLAY_TAG >
+name=鬼抓人
+descr=在这个回合，BOSS的ATK+2。\n这个回合BOSS每与1名玩家战斗过，\n获得1点兴奋。
+flavor=
+
+< CARD_BOSS_COOP_HIDE_AND_SEEK >
+name=捉迷藏
+descr=传送至随机格子。\n下一场战斗前BOSS无法移动。\n在此期间每个BOSS的回合获得2点兴奋。
+flavor=
+
+< CARD_BOSS_COOP_SPLASH_WATER >
+name=泼水
+descr=5×5范围内的所有玩家受到BOSS等级数\n的伤害。每泼中1个目标获得1点兴奋。
+flavor=
+
+< CARD_BOSS_COOP_PSYCHED_UP >
+name=跃跃欲试
+descr=持续效果（2轮）\nMOV+2。获得1点兴奋。
+flavor=
+
+< CARD_BOSS_COOP_PLAY_WITH_BIRDS >
+name=和鸟玩
+descr=持续效果（1轮）\n手下在战斗中受到伤害时，\nBOSS获得1点兴奋，\n并和存活的手下一起ATK+1。
+flavor=
+
+< CARD_BOSS_COOP_SEAGULL_MASTER >
+name=海鸥大师
+descr=在BOSS和所有手下所在的格子放置\n「海鸥之舞」：\n造成2点伤害，\nBOSS恢复1点HP并获得1点兴奋。\n储备效果（1）\n在下一场战斗中ATK-2。
+flavor=
+
+< CARD_BOSS_COOP_WATERMELON_SPLITTING >
+name=打西瓜
+descr=BOSS在回合结束前，ATK+5，在挑战敌人时\n不会停步。每击倒1名玩家获得2点兴奋。
+flavor=
+
+< CARD_BOSS_COOP_EXHAUSTION >
+name=耗尽
+descr=获得1点兴奋。\n所有存活的玩家变得疲惫不堪。\n持续效果（2轮）\n下次倒下时的REC+2。
+flavor=
+
+< CARD_BOSS_COOP_EXHAUSTED >
+name=疲惫不堪
+descr=持续效果（2轮）\n下次倒下时的REC+2。
+flavor=
+
+< CARD_BOSS_COOP_PUDDING_BREAK >
+name=吃布丁
+descr=恢复4点HP。获得2点兴奋。
+flavor=
+
+< CARD_BOSS_COOP_HYPE_IT_UP >
+name=兴奋起来
+descr=获得4点兴奋。\n直到下一个BOSS的回合前，\nATK·DEF+1、EVD-1，\n在战斗中受到伤害时失去1点兴奋，\n被战斗击倒时失去2点兴奋。
+flavor=
+
+< CARD_BOSS_COOP_SANDWICH_THIEVES >
+name=三明治小偷
+descr=所有玩家受到1～3点伤害。\n每因此击倒1名玩家获得1点兴奋。
+flavor=
+
+< CARD_BOSS_COOP_HYPE_MODE >
+name=兴奋模式
+descr=在战斗中ATK+2·DEF+1。当BOSS倒下时，在下一个BOSS的回合复活。
+flavor=
+
+< CARD_BOSS_COOP_RAMPAGE >
+name=撒野
+descr=兴奋降至0。\n每层撒野储备使所有玩家受到1点伤害。\n这个回合，移动骰枚数变为2枚，\n在挑战敌人时不会停步。\n获得等于BOSS等级的HP。
+flavor=
+
+< CARD_BOSS_COOP_RAMPAGE_HYPER >
+name=撒野
+descr=兴奋降至0。\n每层撒野储备使所有玩家受到1点伤害。\n这个回合，移动骰枚数变为2枚，\n在挑战敌人时不会停步。\n永久ATK+1，获得等于BOSS等级的HP。
+flavor=
+
+< CARD_BOSS_COOP_HYPE >
+name=兴奋
+descr=
+flavor=
+
+< CARD_BOSS_COOP_SNACKS >
+name=零食
+descr=随机1名玩家恢复1点HP。
+flavor=
+
+< CARD_BOSS_COOP_SCREECH >
+name=尖鸣
+descr=对BOSS等级数范围内的玩家造成1点伤害。
+flavor=
+
+< CARD_BOSS_COOP_RAKE >
+name=耙扫
+descr=对3×3范围内的玩家造成BOSS等级数\n的伤害。
+flavor=
+
+< CARD_BOSS_COOP_CLOUD_OF_SEAGULLS >
+name=大群的海鸥
+descr=对随机1名玩家造成2点伤害。
+flavor=
+
+< CARD_BOSS_COOP_RUSH >
+name=速袭
+descr=BOSS移动至随机1名玩家所在的格子并与其\n战斗。
+flavor=
+
+< CARD_BOSS_COOP_CHASE_AROUND >
+name=四处追逐
+descr=所有角色传送至随机的格子。
+flavor=
+
+< CARD_BOSS_COOP_QUAKE >
+name=地震
+descr=持续效果（1轮）\n所有玩家MOV-2。
+flavor=
+
+< CARD_BOSS_COOP_AIR_RAID >
+name=空袭
+descr=对所有玩家造成1点伤害。
+flavor=
+
+< CARD_BOSS_COOP_RUSH2 >
+name=双重速袭
+descr=BOSS移动至随机1名玩家所在的格子并与其\n战斗。\n然后BOSS对另一名随机玩家重复一次。
+flavor=
+
+< CARD_BOSS_COOP_SWIPE >
+name=绑架
+descr=将随机1名玩家传送至BOSS所在的格子，\n然后与其战斗。
+flavor=
+
+< CARD_BOSS_COOP_HUNT >
+name=狩猎
+descr=在BOSS结束移动后，\n按随机顺序与3×3范围内的所有玩家战斗。
+flavor=
+
+< CARD_BOSS_COOP_FALSE_HOPE >
+name=虚假的希望
+descr=随机1名玩家恢复所有HP。\n对其他所有玩家造成等同恢复量的伤害。
+flavor=
+
+< CARD_BOSS_COOP_SNATCH >
+name=抢夺
+descr=随机1名玩家丢弃1张卡片。\n如果是增益卡，BOSS恢复1点HP。\n如果是战斗卡，玩家受到2点伤害。
+flavor=
+
+< CARD_BOSS_COOP_AIR_STRIKE >
+name=轰炸
+descr=对所有玩家造成1～3点伤害。
+flavor=
+
+< CARD_BOSS_COOP_MEGA_RUSH >
+name=超级速袭
+descr=BOSS按随机顺序移动至每一名玩家所在的格子\n并向其发起挑战。
+flavor=
+
+< CARD_BOSS_COOP_FRANTIC >
+name=发狂
+descr=BOSS传送至随机的格子3次。\n每次传送后，对5×5范围内的所有角色\n造成2点伤害。
+flavor=
+
+< CARD_BOSS_COOP_WAVE_OF_DESPAIR >
+name=绝望狂潮
+descr=每有1名倒下的玩家，\n对所有玩家造成2点伤害。
+flavor=
+
+< CARD_BOSS_COOP_AURA_OF_TERROR >
+name=恐惧蔓延
+descr=对所有玩家造成1点伤害。\n如果至少有1名玩家因此倒下，重复此行为。
+flavor=
+
+< CARD_BOSS_COOP_LAUNCH >
+name=发射
+descr=对随机的非传送格进行标记。\n在1轮中，被标记的格子5×5范围内的\n非传送格变为BOSS格。\nBOSS从场上离开。\n如果BOSS在回合开始时不在场上，\n使用「俯冲」。
+flavor=
+
+< CARD_BOSS_COOP_DIVE >
+name=俯冲
+descr=BOSS回到被标记的格子。\n所有在被标记的格子上的玩家被击倒。\n5×5范围内的角色受到BOSS等级数的伤害。\n被标记的格子变为伤害格。\n抽取1张卡并使用。
+flavor=
+
+< CARD_BOSS_COOP_IDENTITY_CRISIS >
+name=身份认同危机
+descr=对自己造成1点伤害。获得5颗STAR。
+flavor=
+
+< CARD_BOSS_COOP_ROBO_TAX >
+name=机器税
+descr=每个不在BOSS或存活手下的7×7范围内的\n玩家失去5颗STAR，BOSS获得受影响的\n玩家数×5的STAR，并获得受影响的玩家数\n的DEF，直到下一个BOSS的回合。
+flavor=
+
+< CARD_BOSS_COOP_PLUCK >
+name=拔毛
+descr=对同一格的所有玩家造成2点伤害。\nBOSS获得受影响的玩家数×10的STAR。
+flavor=
+
+< CARD_BOSS_COOP_CATCHER >
+name=捕获手
+descr=随机1名玩家丢弃1张卡片\n然后抽取1张卡片。\nBOSS获得抽取卡片等级×5的STAR。
+flavor=
+
+< CARD_BOSS_COOP_POPPO_MARCH >
+name=啵噗游行
+descr=BOSS和场上的所有手下获得：\n储备效果（1）\n在下一场战斗中，EVD+2。\nBOSS获得20颗STAR。
+flavor=
+
+< CARD_BOSS_COOP_PREMIUM_REGENERATION >
+name=特权恢复
+descr=场上的所有角色恢复1点HP。\nBOSS获得20颗STAR。
+flavor=
+
+< CARD_BOSS_COOP_WIRELESS_CHICKEN >
+name=遥控鸡
+descr=如果BOSS的HP少于50%，\nBOSS及其他所有同伴ATK+2，直到BOSS的\n回合结束，并攻击所有3×3范围内的玩家。\nBOSS获得受影响的玩家数×10的STAR。
+flavor=
+
+< CARD_BOSS_COOP_ROPO_BARRAGE >
+name=萝啵弹幕
+descr=★COST（30）\n持续效果（无限）\n随机1名玩家受到1点伤害。\n在BOSS的回合开始时重复这个效果。\n当有角色倒下时效果结束。\n无法支付COST时，变为获得60颗STAR。
+flavor=
+
+< CARD_BOSS_COOP_DELUSIONAL_NUMBERS >
+name=妄数
+descr=★COST（20）\n持续效果（1轮）\nBOSS的骰子投点为0或7，\n投出0时最小结果为0。\n无法支付COST时，变为获得40颗STAR。
+flavor=
+
+< CARD_BOSS_COOP_SECOND_WING2 >
+name=卷羽重来
+descr=BOSS和所有手下恢复BOSS等级数的HP。\n偷取治疗HP的点数×2的STAR。
+flavor=
+
+< CARD_BOSS_COOP_PO_BOMBER >
+name=啵可视的炸弹
+descr=★COST（创造炸弹数×5）\n创造2～3个不可视的炸弹陷阱\n设置在随机的格子上。
+flavor=
+
+< CARD_BOSS_COOP_PO_BOMBER_TRAP >
+name=不可视的炸弹
+descr=HP变为1。\n这张卡对BOSS及其盟友不会起效。
+flavor=
+
+< CARD_BOSS_COOP_POPPO_UNIVERSE >
+name=啵噗宇宙
+descr=★COST（50）\nBOSS每拥有50颗STAR，对不在BOSS\n或存活手下7×7范围内的所有玩家\n造成1点伤害。\n无法支付COST时，变为获得100颗STAR。
+flavor=
+
+< CARD_BOSS_COOP_POPPOCARE >
+name=啵噗照护
+descr=所有倒下的角色以1HP复活。\nBOSS按随机顺序传送至每名HP为1的玩家\n所在的格子并与其战斗。\n每击倒1名玩家，BOSS获得30颗STAR。
+flavor=
+
+< CARD_BOSS_COOP_REFINED_TALONS >
+name=精良利爪
+descr=★COST（50）\n对HP最低的玩家与随机1名玩家造成前者\n所拥有的HP数的伤害。\n无法支付COST时，变为获得100颗STAR。
+flavor=
+
+< CARD_BOSS_COOP_BEAK_OF_DEMIBIRD >
+name=半鸟之喙
+descr=BOSS的ATK+2直到它的回合结束。\n攻击5×5范围内的所有玩家，\n从HP最低的玩家开始。\n每击倒1名玩家，BOSS获得100颗STAR。
+flavor=
+
+< CARD_BOSS_COOP_TURBO_CHICKEN >
+name=涡轮鸡
+descr=直到BOSS的回合结束，\n移动骰枚数+1，\n在挑战敌人时不会停步。\n每与1名玩家战斗过，ATK+1\n并获得25颗STAR，直到回合结束。
+flavor=
+
+< CARD_BOSS_COOP_BIG_PO_SPECIAL >
+name=大老啵特别服务
+descr=★COST（100）\n储备效果（2）\n在BOSS的回合开始时，随机1名玩家\n受到BOSS等级数的伤害。\n无法支付COST时，变为获得200颗STAR。
+flavor=
+
+< CARD_BOSS_COOP_BALANCE_CURRENCY >
+name=货币结余
+descr=各玩家每拥有1点正数ATK\nBOSS偷取5颗STAR，\n每拥有1点负数ATK BOSS给予5颗STAR。
+flavor=
+
+< CARD_BOSS_COOP_ROOST_BOOST >
+name=增强鸡窝
+descr=如果场上没有鸡手下，\nBOSS在当前所在的格子召唤1只鸡手下。
+flavor=
+
+< CARD_BOSS_COOP_ROOST_BOOST_HYPER >
+name=增强鸡窝
+descr=如果场上少于2只鸡手下，\nBOSS在当前所在的格子召唤1只鸡手下。
+flavor=
+
+< CARD_BOSS_COOP_PO_TECT >
+name=啵护
+descr=★COST（20）\n储备效果（BOSS等级数）\n当BOSS受到伤害时，每消耗1层储备最多可降低2点伤害，直至伤害变为1点。\n在储备层数耗尽时，获得\n3轮负面效果：DEF·EVD·MOV-1。
+flavor=
+
+< CARD_BOSS_COOP_FLOAT >
+name=漂浮
+descr=没有效果。
+flavor=
+
+< CARD_BOSS_COOP_WHIRL >
+name=旋转
+descr=在手下的BOSS等级数范围内的玩家传送至\n随机的格子。
+flavor=
+
+< CARD_BOSS_COOP_BUBBLE_BATH >
+name=泡泡浴
+descr=治疗随机1名手下1点HP。
+flavor=
+
+< CARD_BOSS_COOP_ENTRY_FEE >
+name=入场费
+descr=在手下5×5范围内的玩家失去BOSS\n等级数的STAR。
+flavor=
+
+< CARD_BOSS_COOP_GULP_OF_WATER >
+name=吞水
+descr=对随机1名玩家造成2点伤害。
+flavor=
+
+< CARD_BOSS_COOP_COACHING >
+name=指导
+descr=所有手下ATK+1，直到本轮结束。
+flavor=
+
+< CARD_BOSS_COOP_CONFISCATE >
+name=没收
+descr=与存活手下在同一格的所有存活玩家丢弃1张\n卡片。
+flavor=
+
+< CARD_BOSS_COOP_SHOCK >
+name=冲击
+descr=所有手下对BOSS等级数范围内的所有玩家\n造成1点伤害。
+flavor=
+
+< CARD_BOSS_COOP_GO_FASTER >
+name=冲锋
+descr=持续效果（2轮）\n你的游泳圈套MOV·ATK+2。
+flavor=
+
+< CARD_BOSS_COOP_RESPITE >
+name=暂歇
+descr=所有浮标为5×5范围内的所有角色治疗1点HP。
+flavor=
+
+< CARD_BOSS_COOP_PACE_UP >
+name=加快节奏
+descr=持续效果（3轮）\n所有手下ATK+1·EVD-1。
+flavor=
+
+< CARD_BOSS_COOP_HUSTLE >
+name=督促
+descr=所有浮标对同一格的随机1名玩家造成5点\n伤害。
+flavor=
+
+< CARD_BOSS_COOP_MOTIVATE >
+name=激励
+descr=随机1名玩家受到存活浮标数的伤害。
+flavor=
+
+< CARD_BOSS_COOP_TROPICAL_CYCLONE >
+name=热带气旋
+descr=所有手下标记一个随机的非传送格。\n在1轮后，所有手下传送至各自标记的格子，\n对5×5范围内的玩家造成BOSS等级数\n的伤害。
+flavor=
+
+< CARD_BOSS_COOP_BUTTERFLY >
+name=蝶泳
+descr=持续效果（2轮）\n所有手下ATK+2·MOV+1。
+flavor=
+
+< CARD_BOSS_COOP_ZAP >
+name=电击
+descr=所有手下对3×3范围内的所有玩家造成\nBOSS等级数的伤害。
+flavor=
+
+< CARD_BOSS_COOP_ENCOURAGE >
+name=鼓励
+descr=你的沙滩球力士将会移动至距离最近的\n随机1名玩家所在的格子，并与其战斗。\n沙滩球力士在这场战斗中ATK+3。\n如果玩家被击败，沙滩球力士将对下一个最近的\n玩家重复此行为。
+flavor=
+
+< CARD_BOSS_COOP_MOVING_GOALPOST >
+name=搬运浮标
+descr=所有沙滩球力士和游泳圈套对所有5×5范围内\n的玩家造成浮标数的伤害。
+flavor=
+
+< CARD_BOSS_COOP_GOALPOST >
+name=浮标
+descr=如果场上的浮标少于5个，召唤1个浮标手下，\n并受到2点伤害。\n无法移动和闪避，且只能被伤害为1的攻击\n所伤害。
+flavor=
+
+< CARD_BOSS_COOP_BALLOON_JERK >
+name=沙滩球力士
+descr=如果场上没有沙滩球力士，召唤1名沙滩球力士手下，并受到12点伤害。
+flavor=
+
+< CARD_BOSS_COOP_SWIMMING_RINGER >
+name=游泳圈套
+descr=如果场上的游泳圈套少于2个，召唤1个游泳圈套手下，并受到6点伤害。游泳圈套的MOV为-1。
+flavor=
+
+< CARD_BOSS_COOP_HOME_SWEEPER >
+name=HOME清扫者
+descr=永久移除所有玩家的HOME标志。
+flavor=
+
+
+
+< CARD_HYPER_COOP_CLASS_ATTACKER >
+name=炎炎烈日的最终兵器
+descr=在下一场战斗中每次攻击造成的伤害+3。
+flavor=「休假开始了。」—优空
+
+< CARD_HYPER_COOP_CLASS_GUARDIAN >
+name=白色海滩的再生者
+descr=所有友方获得储备效果（1）\n在下一场战斗中受到的伤害-2。
+flavor=「你们太闹腾啦，真是的。」—须玖莉
+
+< CARD_HYPER_COOP_CLASS_SUPPORT >
+name=烂漫鲜花的守护神
+descr=指定1名倒下的同伴以最大HP复活。
+flavor=「没事的。看，已经不疼了吧。」—姬梦
+
+< CARD_HYPER_COOP_CLASS_AVENGER >
+name=充满执念的复仇者
+descr=持续效果（3轮）\n被战斗击倒时以最大HP复活。
+flavor=「米缪！\n是谁对你做了这么过分的事……」—托玛特
+
+< CARD_HYPER_COOP_CLASS_DEALER >
+name=夏日游戏
+descr=储备效果\n将下一个踩到的格子视为抽卡×2格。
+flavor=
+
+
+< CARD_SKILL_COOP_ADVANTAGE >
+name=优势
+descr=与BOSS战斗时永远先攻。
+flavor=
+
+< CARD_SKILL_COOP_RECOVERYDOWN >
+name=恢复下降
+descr=目标1：REC+1。
+flavor=
+
+< CARD_SKILL_COOP_ATTACKBOOST >
+name=攻击提升
+descr=目标2：ATK+1。目标4：ATK+2。
+flavor=
+
+< CARD_SKILL_COOP_FURY >
+name=愤怒
+descr=你每次攻击造成的伤害+1。\n冷却时间：6轮。
+flavor=
+
+< CARD_SKILL_COOP_PROTECT >
+name=保护
+descr=使目标受到的伤害最高-2。\n冷却时间：1轮。
+flavor=
+
+< CARD_SKILL_COOP_IRONDEFENSE >
+name=钢铁防御
+descr=这场战斗中，防御时受到的最小伤害为0。\n冷却时间：3轮。
+flavor=
+
+< CARD_SKILL_COOP_DEFENSEBOOST >
+name=防御提升
+descr=目标2：DEF+1。目标4：DEF+2。
+flavor=
+
+< CARD_SKILL_COOP_GUARDIANSPIRIT >
+name=守护灵
+descr=所有友方获得守护灵效果。\n持续效果（2轮）\n战斗中受到的伤害-1。\n冷却时间：8轮。
+flavor=
+
+< CARD_SKILL_COOP_MOVEMENTBOOST > 
+name=移动提升
+descr=目标2：MOV+1。目标4：MOV+2。
+flavor=
+
+< CARD_SKILL_COOP_HEAL >
+name=治疗
+descr=进入同伴所在的格子时可以为其恢复1点HP。
+flavor=
+
+< CARD_SKILL_COOP_REVIVE >
+name=复活
+descr=进入同伴所在的格子时可以花费3×剩余REC\n的STAR为其复活。
+flavor=
+
+< CARD_SKILL_COOP_EVASIONBOOST >
+name=闪避提升
+descr=目标3：EVD+1。
+flavor=
+	
+< CARD_SKILL_COOP_RESTORINGLIGHT >
+name=复原之光
+descr=指定1名倒下的同伴以50%HP复活。\n冷却时间：8轮。
+flavor=
+
+< CARD_SKILL_COOP_HEALTHBOOST >
+name=生命提升
+descr=目标2：HP上限+1。目标4：HP上限+2。
+flavor=
+
+< CARD_SKILL_COOP_AVENGER >
+name=复仇
+descr=战斗中每失去1点HP，ATK+1。
+flavor=
+
+< CARD_SKILL_COOP_RECOVERY >
+name=恢复
+descr=目标3：REC-1。
+flavor=
+
+< CARD_SKILL_COOP_FROMBEYOND >
+name=绝境重生
+descr=持续效果（2轮）\n被战斗击倒时以最多3点HP复活。\n冷却时间：8轮。
+flavor=
+
+< CARD_SKILL_COOP_HANDBOOST >
+name=手牌提升
+descr=目标2：手牌上限+1。目标4：手牌上限+2。最大为5。
+flavor=
+
+< CARD_SKILL_COOP_DEAL >
+name=发牌
+descr=拥有3张或以上的卡片时，选择1张手牌发给\n指定的玩家。
+flavor=
+
+< CARD_SKILL_COOP_SUPPLY >
+name=补给
+descr=抽卡时额外抽取1张卡。
+flavor=
+
+< CARD_SKILL_COOP_DEALER_HEALTHBOOST >
+name=生命提升
+descr=目标3：HP上限+1。
+flavor=
+
+< CARD_SKILL_COOP_DEMAND >
+name=索取
+descr=将下一个你踩到的格子视为抽卡格。\n冷却时间：6轮。
+flavor=
+

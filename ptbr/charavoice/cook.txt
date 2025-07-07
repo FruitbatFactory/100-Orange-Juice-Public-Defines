@@ -1,0 +1,160 @@
+<0000> Aqui!
+<0001> Vá!
+<0002> *Pia pia*
+<0003> Yoh!
+<0004> Cook vai jogar isto!
+<0005> Olha o que Cook tem aqui!
+<0006> Vamos lá!
+<0007> Oraaah!
+<0008> Armadilha da Cook!
+<0009> Kukuku!
+<0010> Este aqui é perigoso!
+<0011> É hora da armadilha!
+<0012> Não subestime Cook!
+<0013> Cook pode usar cartas como essa, também!
+<0014> Certo, hora do power-up!
+<0015> O que isto faz?
+<0016> Cook vai aonde ela desejar!
+<0017> Que sensação boa.
+<0018> Essa foi por pouco.
+<0019> Mmm, Cook não vai perdoar isso!
+<0020> Cook está de volta novamente.
+<0021> Isso foi um erro.
+<0022> Ãhn? Isso não está certo...
+<0023> Por quê?
+<0024> Não!
+<0025> *Bicada bicada*
+<0026> Teyah!
+<0027> Ataque das asas!
+<0028> Oraah!
+<0029> Isto dói!
+<0030> Para com isso.
+<0031> Mano...
+<0032> Sem bullinagem!
+<0033> Cook está com mais energia agora.
+<0034> A dor sumiu.
+<0035> *Pia*
+<0036> Cook sente que pode fazer tudo o que quiser!
+<0037> Este painel está engolindo a Cook!?
+<0038> *Pia pia*!
+<0039> Waaah!
+<0040> O que está aconteceeeeendo?!
+<0041> Você é terrível...
+<0042> Hieeeh.
+<0043> *Pia pia*...
+<0044> Uaaaah!
+<0045> Cook é uma galinha feroz.
+<0046> Seu maldito!
+<0047> Saia do caminho da Cook.
+<0048> Aqui vem a Cook!
+<0049> Mas que raios?!
+<0050> Você deseja derrotar a Cook?
+<0051> Você irá bullinar a Cook?
+<0052> Wawah!
+<0053> *Pia*!
+<0054> Ey-ey!
+<0055> Que tal isso!
+<0056> Orah!
+<0057> Essa doeu!
+<0058> Kyuuun!
+<0059> Paraaaaaaa!
+<0060> Gyah!
+<0061> Pare de bulinar a Cook.
+<0062> Oww!
+<0063> Kyaaan.
+<0064> *Pia*!
+<0065> Você não pode acertar a Cook.
+<0066> Cook pode voar!
+<0067> Hah!
+<0068> *Pia pia*
+<0069> Cook é forte!
+<0070> Você já era!
+<0071> Kukuku!
+<0072> Hooray!
+<0073> Cook perdeu.
+<0074> Cook acaba de ser bullinada.
+<0075> Isso foi cruel...
+<0076> *Pia, soluça soluça*...
+<0077> Está bem bonito!
+<0078> Cook vai levar esses para casa.
+<0079> Cook ama esses!
+<0080> Cook está feliz!
+<0081> Por quê?!
+<0082> Sumiram...
+<0083> Cook está triste agora...
+<0084> Para onde elas foram?
+<0085> *Piaaaaaa*!
+<0086> Mas o que raios é isso?
+<0087> A-armadilha?!
+<0088> Heeeh!
+<0089> Um vento malicioso está soprando..
+<0090> Cook tem um mau pressentimento quanto a isso.
+<0091> O que é aquilo?
+<0092> Hmm, algo de ruim irá acontecer.
+<0093> Cook deseja mais colecionáveis!
+<0094> Cook ama colecionar coisas.
+<0095> Essas coisas parecem fofas! Assim como Cook!
+<0096> Cook gosta de tudo que possui glitter.
+<0097> Cook está a fim de ser selvagem.
+<0098> Cook vai bicar cada um de vocês.
+<0099> Cook está preparada para isso!
+<0100> O bico da Cook é muito afiado!
+<0101> É o turno da Cook?
+<0102> Certo, vamos voar.
+<0103> Yo! Cook está aqui.
+<0104> Hmm, você precisa da Cook?
+<0105> Vamos começar.
+<0106> Cook irá com tudo!
+<0107> Você consegue, Cook!
+<0108> Cook está com pique!
+<0109> Kukukuku!
+<0110> *Pia pia pia pia*
+<0111> Eeebaaaaa, Cook venceu! É isso aí!
+<0112> Bom, esse é o verdadeiro vigor de Cook.
+<0113> O que é isso? Parece tão bom!
+<0114> Isso parece bom! Cook deseja também!
+<0115> Oh? Ãhn? Cook deseja saber o que é isso! 
+<0116> Fico feliz por você!
+<0117> É seu turno de ir em frente.
+<0118> Cook precisa de uma pausa.
+<0119> *Pia*...
+<0120> Cook acredita em você.
+<0121> OK.
+<0122> Bom trabalho.
+<0123> Certo.
+<0124> *Pia*!
+<0125> Aww...
+<0126> Que sortudo!
+<0127> *Piaaaaa*?
+<0128> Vamos piar!
+<0129> Hoy!
+<0130> Você consegue fazer isto!
+<0131> Yo!
+<0132> Quê?
+<0133> Incrível!
+<0134> Nossa, isso foi impressionante. Cook está surpresa.
+<0135> Cook está irritada... Ugh...
+<0136> O que é isto? Cook vai jogar!
+<0137> Cook está desesperada o suficiente para isto!
+<0138> *Pia*? *Pia pia*!
+<0139> Cook vai usar esta coisa!
+<0140> Halena! Cook deseja ir selvagem!
+<0141> Eita! Você está assustadora, Halena!
+<0142> Cook venceu hoje!
+<0143> Pega leve com a Cook...
+<0144> Ãhn!? Seria você... um inimigo? Ou um amigo?
+<0145> Oh! Você é da espécie da Cook, né!?
+<0146> Cook é a melhor entre todos os pássaros.
+<0147> Ugh... Cook não suporta ser derrotada por outro pássaro...
+<0148> Cook voa super rápido!
+<0149> A velocidade da Cook é fantástica!
+<0150> Esse foi um voo muito bom.
+<0151> Cook é tão rááápida!
+<0152> E Cook está aqui.
+<0153> Mano, lá em cima foi uma sensação muito boa.
+<0154> Cook se exercitou legal agora.
+<0155> Cook está em casa.
+<0156> Cook não é um peru!
+<0157> Você... Você vai capturar e comer a Cook!?
+<0158> Espera, Cook não é comestível!
+<0159> Por que você está com água na boca?

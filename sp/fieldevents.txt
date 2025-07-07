@@ -1,0 +1,116 @@
+
+< FIELDEVENT_NONE >
+name=Ninguno
+descr=
+
+< FIELDEVENT_DEFAULT >
+name=Por Defecto
+descr=
+
+< FIELDEVENT_RANDOM >
+name=Al Azar
+descr=
+
+< FIELDEVENT_BOSSENCOUNTER >
+name=Jefe Encontrado
+descr=
+
+< FIELDEVENT_REGENERATION >
+name=Regeneración
+descr=Todas las unidades recuperan un punto de vida\n\nFrecuencia: Cada 5 capítulos.
+
+< FIELDEVENT_RANDOMWARP >
+name=Teletransportación
+descr=Todas las unidades son enviados a un panel aleatorio.\n\nFrecuencia: Cada 5 capítulos.
+
+< FIELDEVENT_CHARITY >
+name=Caridad
+descr=Todos los jugadores toman una carta.\n\nFrecuencia: Cada 5 capítulos.
+
+< FIELDEVENT_AIRRAID >
+name=Ataque Aéreo
+descr=Todas las unidades reciben un punto de daño.\n\nFrecuencia: Cada 5 capítulos.
+
+< FIELDEVENT_MINELAYER >
+name=Buscaminas
+descr=Una trampa es colocada en un panel aleatorio.\n\nFrecuencia: Cada 3 capítulos.
+
+< FIELDEVENT_MIRACLE >
+name=Milagro
+descr=Todos los paneles multiplican sus efectos x2.\n\nFrecuencia: Cada 5 capítulos.\nDuración: 1 capítulo.
+
+< FIELDEVENT_BATTLEFIELD >
+name=Guerra
+descr=Todos los paneles de Bonus y Pérdidas se transforman en Batallas.\n\nFrecuencia: Cada 6 capítulos.\nDuración: 3 capítulos
+
+< FIELDEVENT_CONFUSION >
+name=Confusión
+descr=Todas las cartas son revertidas y no pueden ser vistas por ningún jugador.\n\nFrecuencia: Cada 7 capítulos.\nDuración: 1 capítulo.
+
+< FIELDEVENT_BACKTRACK >
+name=Reversa
+descr=La dirección del movimiento es invertida para todas las unidades.\n\nFrecuencia: Cada 8 capítulos.\nDuración: 1 capítulo
+
+< FIELDEVENT_SPRINT >
+name=Carrera
+descr=Todos los Dados de Movimiento se multiplican.\n(Máximo: 4 dados.)\n\nFrecuencia: Cada 6 capítulos.\nDuración: 1 capítulo
+
+< FIELDEVENT_HOMEROULETTE >
+name=Ruleta de Hogares
+descr=Todos los hogares cambian de lugar.\n\nFrecuencia: Cada 9 capítulos.
+
+< FIELDEVENT_BOMBER >
+name=Bomba
+descr=Una bomba es colocada en un panel al azar y explota después de 1-4 capítulos,\ntodas las unidades a dos paneles de distancia en forma de cruz reciben dos puntos de daño.\n\nFrecuencia: Cada 2 capítulos.
+
+< FIELDEVENT_MYSTERY >
+name=Misterio
+descr=Un evento de campo aleatorio es jugado.\n\nFrecuencia: Cada 5 capítulos.
+
+< FIELDEVENT_FREEZE >
+name=Congelados
+descr=El 1/3 de los paneles en el campo se congelan durante 1 capítulo.\n\nFrecuencia: Cada 5 capítulos.
+
+< FIELDEVENT_TREASURE >
+name=Tesoro
+descr=Un cofre del tesoro es colocado en un panel al azar.\nDeténgase en el mismo panel que este para abrirlo.\n\nFrecuencia: Todos los capítulos.
+
+< FIELDEVENT_AMP >
+name=Amplificación
+descr=Todas los jugadores recibirán una mejora de ataque, defensa o evasión.\n\nFrecuencia: Cada 6 capítulos.\nDuración: 2 capítulos.
+
+< FIELDEVENT_PLAYGROUND >
+name=Minijuegos
+descr=Detente en uno de los paneles indicados para jugar a un mini-juego.\n\nFrecuencia: Cada 5 capítulos.
+
+< FIELDEVENT_TERROR >
+name=Terror en el Cielo
+descr=Algunos de los paneles cambiarán para poder pelear contra Jonny.\nFrecuencia: Variable.\nDuración: 1 capítulo.
+
+< FIELDEVENT_FISHING >
+name=Pesca-un-pez
+descr=Desafía a otros jugadores en un minijuego de pesca.\n\nFrecuencia: Cada 9 capítulos.
+
+< FIELDEVENT_GOO >
+name=Viscosidad
+descr=El 1/3 de los paneles sin viscosidad son cubiertos con viscosidad por 1 capítulo.\n\nFrecuencia: Cada 5 capítulos.
+
+< FIELDEVENT_SPORES >
+name=Esporas
+descr=Hongos aparecerán en el campo de juego.\n\nFrecuencia: Cada 3 capítulos.
+
+< FIELDEVENT_CHAOS_BATTLEFIELD >
+name=Campo Caótico
+descr=
+
+< FIELDEVENT_CHAOS_STARVATION >
+name=Hambruna
+descr=
+
+< FIELDEVENT_CHAOS_OVERINDULGENCE >
+name=Exceso
+descr=
+
+< FIELDEVENT_CONVERGENCE >
+name=Convergencia
+descr=El campo de juego actual cambiará a uno aleatorio.\n\nFrecuencia: Cada 6 capítulos.

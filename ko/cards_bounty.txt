@@ -1,0 +1,215 @@
+< CARD_BOUNTY_TURNISLIME_HUNT >
+name=무슬라임
+descr=무슬라임은 상대할 때 배틀 동안 공격력 -1을 준다. 배틀 시작 시 공격력이 2 이상일 경우 공격력 -1을 추가로 준다.
+flavor=
+
+< CARD_BOUNTY_TROLLITE_HUNT >
+name=트롤라이트
+descr=트롤라이트는 매 라운드가 끝날 때마다 공격력 -1을 얻는다.
+flavor=
+
+< CARD_BOUNTY_MOUSSE_HUNT >
+name=마우쓰
+descr=마우쓰는 피해를 줄 때마다 상대 레벨만큼의 스타를 빼앗는다.
+flavor=
+
+< CARD_BOUNTY_STRANGEMOUSSE_HUNT >
+name=키라임 마우쓰
+descr=키라임 마우쓰는 피해를 줄 때마다 상대 레벨만큼의 스타를 빼앗는다.
+flavor=
+
+< CARD_BOUNTY_POWERMOUSSE_HUNT >
+name=스트로베리 마우쓰
+descr=스트로베리 마우쓰는 피해를 줄 때마다 상대 레벨만큼의 스타를 빼앗는다.
+flavor=
+
+< CARD_BOUNTY_DOLL_HUNT >
+name=귀신들린 인형
+descr=귀신들린 인형은 배틀에서 매 라운드가 끝날 때마다 놀래켜서 피해를 1씩 준다.
+flavor=
+
+< CARD_BOUNTY_HELISEED_HUNT >
+name=헬기씨
+descr=헬기씨가 3라운드동안 살아남으면 엔카운터를 끝낸다.
+flavor=
+
+< CARD_BOUNTY_BLIZARD_HUNT >
+name=토마뱀
+descr=토마뱀은 매 라운드가 끝날 때마다 무작위로 공격력, 방어력, 회피력 중 하나의 능력치 +1을 얻는다.
+flavor=
+
+< CARD_BOUNTY_WOLLY_HUNT >
+name=양털이
+descr=양털이는 피해를 입을 때마다 피해 1을 추가로 입는다.
+
+< CARD_BOUNTY_TERRAWYRMER_HUNT >
+name=지구렁이
+descr=지구렁이는 한 번에 3 이상의 피해를 입을 때마다 배틀이 끝날 때까지 공격력과 방어력 +1, 회피력 -1을 얻는다. 이 효과는 중첩된다.
+
+< CARD_BOUNTY_RUFFSHROOM_HUNT >
+name=멍버섯
+descr=멍버섯을 격퇴하면 HP 2를 얻는다.
+
+< CARD_BOUNTY_GOST_HUNT >
+name=괴스트
+descr=괴스트는 상대의 양수인 공격력만큼의 회피력을 얻는다.
+
+< CARD_BOUNTY_EMERANGLER_HUNT >
+name=불쑥아귀
+descr=불쑥아귀는 피해를 입으면 다음 공격 때 공격력 +1을 얻고 상대에게 피해를 주면 다음 방어 때 방어력 +1을 얻는다.
+
+< CARD_BOUNTY_GLOBBU_HUNT >
+name=불컹이
+descr=불컹이에게 피해를 입을 때마다 배틀이 끝날 때까지 방어력 -1을 얻는다.
+
+< CARD_BOUNTY_GRASSINFIMARY_QUEST >
+name=
+descr=초원에서 자라는 약초를 써서 새 요리를 만들고 싶어. 도와주지 않을래?
+flavor=―여관장
+
+< CARD_BOUNTY_SWAMPINFIMARY_QUEST >
+name=
+descr=어떤 손님이 그러는데 음료에 슬라임을 쓸 수 있대. 정말이려나...
+flavor=―여관장
+
+< CARD_BOUNTY_CAVEBAKERY_QUEST >
+name=
+descr=아이스크림을 만드는 데 필요한 재료를 동굴에 떨어트렸어요...
+flavor=―스카이 베이커
+
+< CARD_BOUNTY_CASTLEBAKERY_QUEST >
+name=
+descr=후후후, 성에 밀가루 배달을 시켰는데 아직도 오지 않네. 확 터트릴까?
+flavor=―스타 베이커
+
+< CARD_BOUNTY_RUINARMORY_QUEST >
+name=
+descr=아, 조리용 칼이 필요하세요? 재료만 가져다주시면 하나 만들어드릴게요. 부서진 무기라도 괜찮을 거예요.
+flavor=―대장장이
+
+< CARD_BOUNTY_CAVEARMORY_QUEST >
+name=
+descr=트롤라이트 뿔은 굉장한 요리도구 재료인데 재고가 떨어져가요. 사흘에 한 번씩 뿔을 가니까 서식지 주변을 살펴보면 찾을 수 있을 거예요.
+flavor=―대장장이
+
+< CARD_BOUNTY_VOLCANOALCHEMER_QUEST >
+name=
+descr=음식을 만들어드릴 수 있지만 그러려면 오래가는 열원이 필요해요. 불컹이 한 마리만 잡아와주실래요? 걔네들은 이런 일을 좋아한다고 들었어요.
+flavor=―연금술사
+
+< CARD_BOUNTY_FORESTINFIRMARY_QUEST >
+name=
+descr=간식? 안개 숲에서 수액을 얻어와주면 만들어줄게. 엄청 단맛이 난다더라.
+flavor=―여관장
+
+< CARD_BOUNTY_MOUNTAINBAKERY_QUEST >
+name=
+descr=우유가 다 떨어졌어요! 저희 빵에는 산에서 사는 양털이한테서 짜낸 신선한 양털이유가 필요하니까 서둘러주세요!
+flavor=―스카이 베이커
+
+< CARD_BOUNTY_REDFORESTALCHEMER_QUEST >
+name=
+descr=붉은 숲의 유령들에겐 흥미로운 성분이 있어요. 샘플을 가져와주실 수 있나요? 먹을 수 있는 것도 만들 수 있을 거예요.
+flavor=―연금술사
+
+< CARD_BOUNTY_DESERTARMORY_QUEST >
+name=
+descr=목이 마르네요... 사막에서 자라는 선인장이 있으면 갈증이 가실 것 같아요. 남는 선인장은 가지셔도 돼요.
+flavor=―대장장이
+
+< CARD_BOUNTY_SLIMEBOMB_ITEM >
+name=슬라임 폭탄
+descr=주변 (3패널 범위 이내) 패널에 슬라임 폭탄을 던진다. 선택한 패널 주변 모든 패널이 (범위 1) 2챕터동안 끈끈이로 덮인다.
+flavor="끈끈이 병, 준비됐습니다!" ―연금술사
+
+< CARD_BOUNTY_TELEPORT_ITEM >
+name=텔레포트 물약
+descr=아무 패널로 순간이동하고 턴을 진행한다.
+flavor="한 모금만 마시면 뿅!" ―연금술사
+
+< CARD_BOUNTY_LURE_ITEM >
+name=미끼
+descr=3패널 거리 이내의 패널에 미끼를 던져 그 패널의 1패널 거리 이내의 패널 모두를 3챕터동안 엔카운터 패널로 만든다.
+flavor="주변에 있는 것들을 전부 끌어들일 정도로 냄새가 강하답니다..." ―연금술사
+
+< CARD_BOUNTY_SHOKUPAN_ITEM >
+name=우유식빵
+descr=지속 시간: 3챕터\n매 턴 HP 1을 회복한다. 이 효과는 KO시 제거되며 중첩되지 않는다.
+flavor="그 누구도 이 걸작보다 더 나은 걸 만들 수 없을 걸." ―스타 베이커
+
+< CARD_BOUNTY_SSR_SHOKUPAN_ITEM >
+name=푹신한 우유식빵
+descr=KO될 때까지 매 턴 HP 2를 회복한다. 이 효과는 중첩되지 않는다.
+flavor="푹신함이 세상을 평정할 거예요!" ―스카이 베이커
+
+< CARD_BOUNTY_PUREWATER_ITEM >
+name=성수
+descr=이번 배틀 동안 HP 5와 공격력, 방어력, 회피력 +1을 얻는다.
+flavor="후후후, 이걸 마시면 틀림없이 갈증이 가실 거야!" ―여관장
+
+< CARD_BOUNTY_CURSEDSYRUP_ITEM >
+name=저주받은 시럽
+descr=이 배틀 동안 HP 10, 공격력, 방어력, 회피력 +2를 얻고, 배틀 턴 제한이 5턴이 된다.
+flavor="더 많은 힘 말고는 안중에도 없으실 테니 손님께서는 당연히 이걸 사실 겁니다... 네, 사고 말고요." ―수상쩍은 상인
+
+< CARD_BOUNTY_POISONPHIAL_ITEM >
+name=독 병폭탄
+descr=주변 (범위 3패널 거리 이내) 패널에 독병을 던진다. 휘말린 모든 플레이어는 중독되어 2챕터동안 매 턴 피해 1을 받는다. 다른 병폭탄과 중첩되지 않는다.
+flavor="꽤 위험한 재료로 만들었으니까... 조심하셔야 해요!" ―연금술사
+
+< CARD_BOUNTY_VENOMPHIAL_ITEM >
+name=맹독 병폭탄
+descr=주변 (3패널 거리 이내) 패널에 맹독병을 던진다. 휘말린 모든 플레이어는 중독되어 3챕터동안 매 턴 피해 1을 받는다. 다른 병폭탄과 중첩되지 않는다.
+flavor="위험한 파충류의 독을 가지고 만든 거예요..." ―연금술사
+
+< CARD_BOUNTY_CORROSIONPHIAL_ITEM >
+name=부식독 병폭탄
+descr=주변 (3패널 거리 이내) 패널에 부식독병을 던진다. 휘말린 모든 플레이어는 중독되어 3챕터동안 매 턴 피해 2을 받는다. 다른 병폭탄과 중첩되지 않는다.
+flavor="이 부식독은 온갖 위험한 재료들을 가지고 만든 거예요..." ―연금술사
+
+< CARD_BOUNTY_SPARKLEBOMB_ITEM >
+name=반짝이 폭탄
+descr=2챕터동안 필드 진행 방향을 거꾸로 한다.
+flavor="앞으로 갔다가 뒤로 가고 싶은데 선뜻 돌아갈 수 없는 때가 있다면 어떡하시겠어요? ...으, 아무것도 아녜요..." ―연금술사
+
+< CARD_BOUNTY_SMOKELOSTMEMORIES_ITEM >
+name=잃어버린 기억의 연기
+descr=지난 실수를 잊고 현상수배 배틀을 발동한다. 이미 발견된 몬스터 서식지가 있는 패널에서만 쓸 수 있다. 배틀을 시작하려면 현상수배 임무를 가지고 있어야 한다. 이 카드를 쓴 뒤 턴을 종료한다.
+flavor="놓치지 마세요!" ―연금술사
+
+< CARD_BOUNTY_RADAR_ITEM >
+name=모험가의 레이더
+descr=지속 시간: 2 ~ 5챕터\n 지속 시간동안 모든 몬스터의 위치를 구별할 수 있다.
+flavor="탐험이 훨씬 쉬워질 거예요... 충분히 오래 돌아가기만 하면요!" ―대장장이
+
+< CARD_HYPER_BOUNTY_ELLIE >
+name=엘리의 미라클
+descr=★코스트: 레벨 x 10\n지속 시간: 2챕터. 노르마 달성 횟수만큼의 공격력, 현재 명성/5 만큼의 방어력, 현재 스타/50 만큼의 회피력을 얻는다.
+flavor="내 기적을 받아라!" ―엘리
+
+< CARD_BOUNTY_SCRAMBLED_EVE >
+name=스크램블드 이브
+descr=모든 플레이어의 패를 덱으로 돌려놓은 뒤 덱을 섞는다. 3챕터 뒤 각 플레이어는 반납했던 카드 수만큼 카드를 뽑는다. 현상수배나 퀘스트는 반납하지 않는다.
+flavor="기다려! 선물 돌려줘!" ―아루
+
+< CARD_BOUNTY_TRAP_WANTED >
+name=현상수배
+descr=스톡 효과.\n배틀에서 KO당할 시 상대에게 승리를 두 배로 준다. KO 시 효과는 사라진다.\n또한 현상수배 게시판에 이 플레이어에 대한 현상수배가 붙는다.
+flavor="이쪽이에요! 제 코는 확실해요!" ―큐피
+
+< CARD_HYPER_BOUNTY_COOK >
+name=풍향계의 인도
+descr=스톡 효과.\n배틀을 제외한 모든 굴림에서 주사위 2개를 굴린다. 이 효과는 홈 패널에서 멈출 때 끝난다.
+flavor="짹짹! 쿡 이쪽으로 갈래." ―쿡
+
+< CARD_BOUNTY_PLAYER >
+name=신선한 현상수배
+descr=사회에 범죄를 저질러 현상금이 걸렸다.
+flavor=
+
+< CARD_BOUNTY_PLAYER_ITEM >
+name=
+descr=제거의 대상으로 낙인찍혔다. 신중을 기할 것.
+flavor=
+
+[EOF]

@@ -1,0 +1,160 @@
+<0000> Mais rápido.
+<0001> Preste atenção nestes movimentos.
+<0002> Vamos dirigir.
+<0003> Por ali!
+<0004> Eu jogo minhas cartas baseado em sentimentos.
+<0005> Está na hora - Impulsionem os motores!
+<0006> Eu vou ativar os impulsionadores!
+<0007> Não há nada que meu parceiro não possa fazer.
+<0008> Cuidado com o solavanco.
+<0009> Eu pegaria um desvio por aqui se fosse você.
+<0010> É melhor se isso ficar enterrado aqui.
+<0011> Um aviso para qualquer um que seguir.
+<0012> Potência máxima!
+<0013> Subindo de marcha!
+<0014> Hora de um impulso!
+<0015> Velocidade máxima!
+<0016> Você pensou que essa era nossa velocidade máxima? Pense de novo.
+<0017> Você ainda pode correr...?
+<0018> Reabastecimento concluído, hora de irmos.
+<0019> Pronto, tudo consertado.
+<0020> Novinho em folha novamente.
+<0021> Ainda está quebrado, então.
+<0022> Este motor antigo, sempre me dando problemas. Ah, qual é agora!
+<0023> Preciso trocar a roda, então...
+<0024> Então essa parte está quebrada também... Certo.
+<0025> Saia do caminho!
+<0026> É melhor você sair do caminho.
+<0027> Desvie se você dá valor a sua vida!
+<0028> Eu espero que você tenha um esconderijo robusto!
+<0029> Nada que eu não possa arrumar.
+<0030> Ficando um pouco machucado!
+<0031> Cheio de detritos no vento hoje.
+<0032> Ei, olha por onde anda!
+<0033> Só uma correção simples, mas serve.
+<0034> Isso deve cuidar desse problema.
+<0035> Eu posso ir de novo.
+<0036> Este é um bom polimento.
+<0037> O-oh...?
+<0038> Uma estrada é tão boa quanto outra.
+<0039> É a jornada que importa.
+<0040> Neblina de repente?
+<0041> Hora de uma pausa para descansar.
+<0042> Isso é o meu limite de hoje.
+<0043> De novo os motores não!
+<0044> Uma falha mecânica?!
+<0045> É um jogo de galinhas.
+<0046> Você aguenta me seguir?
+<0047> Você está no caminho.
+<0048> Saia do caminho!
+<0049> Me deixe sozinho.
+<0050> Me deixa, tá?
+<0051> Por que você fica no meu pé?
+<0052> Cuidado para não acabar atropelado.
+<0053> Ali!
+<0054> Eu consigo compreender!
+<0055> Vá!
+<0056> Mísseis, vá!
+<0057> Hmh!
+<0058> Nada mal.
+<0059> Ei, toma cuidado com o cromo!
+<0060> É melhor que isto não deixe uma marca!
+<0061> Ei! Esta é uma parte nova!
+<0062> Eu acabei de instalar isso!
+<0063> Guhh!
+<0064> Augh!
+<0065> De boas.
+<0066> Eu faço isso de boas.
+<0067> Não é sobre velocidade, é sobre controle.
+<0068> Toda velocidade é relativa.
+<0069> Adios!
+<0070> Não tente me parar de novo.
+<0071> Até mais.
+<0072> Ninguém pode me parar em movimento.
+<0073> Parece que é o fim para mim...
+<0074> Parece que é o fim da estrada, velho amigo.
+<0075> Parece que tenho que parar de correr agora, então...
+<0076> ...Você me pegou.
+<0077> Enche o tanque!
+<0078> Um tanque cheio é o melhor.
+<0079> Com isso, posso continuar fazendo o dia todo.
+<0080> Reabastecendo!
+<0081> Terei que reabastecer em breve.
+<0082> O combustível está acabando...
+<0083> Posso me dar o luxo de estocar...
+<0084> Um buraco no taque de combustível?!
+<0085> Um pequeno buraco na estrada.
+<0086> Quem está jogando lixo aqui?
+<0087> Um pneu acabou de furar?
+<0088> Minas terrestres?!
+<0089> Você nunca sabe o que você vai encontrar na estrada!
+<0090> Algo estranho está no meu caminho.
+<0091> Você pretende me parar também?
+<0092> Uma miragem? Não, isto é...
+<0093> Tudo o que preciso é gasolina para me manter indo.
+<0094> Contanto que eu possa reabastecer, vai ficar tudo bem.
+<0095> Encontrar suprimentos é alta prioridade.
+<0096> É preciso ficar estocado.
+<0097> As vezes eu acabo agindo por impulso.
+<0098> O vento está forte hoje...
+<0099> Eu sinto que é hora de correr.
+<0100> Meu sangue está ardendo hoje a noite.
+<0101> Eu dirijo sozinho.
+<0102> Eu não preciso de companhia.
+<0103> Existe espaço no fundo se você se comportar. E não toque em nada.
+<0104> Faça como desejar.
+<0105> A estrada nunca acaba.
+<0106> Nenhum caminho é o mesmo duas vezes.
+<0107> Está na hora de botar o pedal no metal!
+<0108> Eu vou dirigir para uma vitória fácil.
+<0109> A estrada me chama. Até mais!
+<0110> As vezes é solitário aqui em cima.
+<0111> Ninguém aguenta comigo.
+<0112> Viagem fácil.
+<0113> Uma nova peça de reposição?
+<0114> Isto pode ser útil.
+<0115> Isso ficará bem no para-brisa.
+<0116> Mais um troféu da estrada.
+<0117> Eu vou indo nessa.
+<0118> Faça sua parte, que eu faço a minha.
+<0119> Você pode pegar no volante um pouco?
+<0120> Vou tirar um cochilo. Cuide das coisas enquanto isso.
+<0121> Te peguei.
+<0122> Certo!
+<0123> Entendido.
+<0124> Não é assim que eu dirijo.
+<0125> Bom, não leve isto a sério.
+<0126> Nunca se sabe o que o dia irá trazer!
+<0127> É... quê?
+<0128> Hee-yaah!
+<0129> Vamos lá!
+<0130> Está na hora!
+<0131> E aí?
+<0132> Mmh...
+<0133> Nada mal.
+<0134> Bom eu farei!
+<0135> Ugh, hoje não é nosso dia de sorte...
+<0136> É tudo sobre como você usa.
+<0137> Eu vou botar qualquer coisa que eu achar para usar.
+<0138> Que engenhoca estranha. Vamos ver o que ela faz.
+<0139> Talvez isso me dê o impulso que preciso.
+<0140> Não me siga!
+<0141> Eu sinto como se todos os problemas do mundo foram deixados de lado.
+<0142> Até mais, minha juventude...
+<0143> É melhor você não destruir meu veículo de novo!
+<0144> Logo quando eu tinha acabado de consertar ela!
+<0145> Não dessa vez, não vai não.
+<0146> Isso que é viver.
+<0147> Eu posso correr no vento.
+<0148> Você ainda pode ir rápido, não pode?
+<0149> O horizonte está me chamando.
+<0150> Hm? Não fica no meu caminho.
+<0151> Quantas vezes eu tenho que falar para vocês ficarem fora disso?
+<0152> O-oh, um pneu furado?!
+<0153> A estrada é o romance de um homem, né?
+<0154> Mudando para marcha a ré!
+<0155> Marcha a ré!
+<0156> Curva errada... vamos voltar um pouco.
+<0157> Essa é a melhor maneira de escapar de uma perseguição.
+<0158> Eu posso até estar sozinho, mas eu não me sentirei solitário contanto que tenha você!
+<0159> Sinto-me em casa.

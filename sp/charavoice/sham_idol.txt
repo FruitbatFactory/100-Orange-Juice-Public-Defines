@@ -1,0 +1,118 @@
+
+<0000> A la cuenta de tres, ¿está bien?
+<0001> ¡Tres, dos, uno!
+<0002> ¡Vamos dado!
+<0004> ¿Qué piensas de esto?
+<0005> Eh, ¿quieres jugar con esto?
+<0006> Oh, eso se ve bien.
+<0007> ¡Claro!
+<0008> Así es como colocas una trampa. ¿Entendido?
+<0009> ¿Por qué no dejamos una trampa aquí?
+<0010> ¿Cuál de todas quieres dejar?
+<0011> Fufufu.
+<0012> ¡Trabajemos en equipo usando esta carta!
+<0013> ¡Pelea con todas tus fuerzas!
+<0014> ¡Sí, ahora podrás brillar muchísimo más!
+<0016> ¡Brillante!
+<0017> Oww, eso dolió.
+<0018> Sora, toma mi mano.
+<0019> ¡Vamos!
+<0020> ¡Muy bien, a cantar otra canción!
+<0021> Hora de un descanso...
+<0022> N-nuestros fans están esperándonos...
+<0026> ¡Se ve bien!
+<0027> ¡Aquí vamos!
+<0028> ¡Sora!
+<0029> Wow.
+<0030> ¡Me equivoqué!
+<0033> Hora de reponer.
+<0034> Sora, abre la boca.
+<0035> Ujiji, aaang.
+<0036> ¡Puedo bailar más!
+<0037> ¡Oh no!
+<0038> ¡Sora, sostén tu falda!
+<0039> ¡Mi cabello!
+<0041> ¿Por qué no tomamos un descanso?
+<0042> Sí, solo necesito descansar...
+<0043> Nos equivocamos...
+<0044> Uuu...
+<0045> ¡Esta es una batalla de ídolos!
+<0046> ¡Es una batalla para decidir quién es más bonita!
+<0049> Oh, ¿acaso eres un fan?
+<0050> ¡Veo que tu amor está ardiente!
+<0053> ¡Ahí!
+<0054> ¡Jah!
+<0055> ¿Listo?
+<0056> ¡Lo tengo!
+<0057> ¡Pujeh!
+<0058> ¡Wau!
+<0061> ¡A mi cara no!
+<0062> ¡No significa no!
+<0065> ¡Mira y aprende de mis bellos pasos de baile!
+<0066> ¡Toh!
+<0069> Somos...
+<0070> Lo que ves a nuestro alrededor es...
+<0071> Lo estamos haciendo increíble, Sora.
+<0072> ¡Perfectamente!
+<0073> Uuu...
+<0074> ¡¿Cómo te atreves a atacar a una ídolo?!
+<0077> ¡Wow, míralas brillar!
+<0078> ¡Un día, nosotras también seremos estrellas!
+<0081> ¡Noo! ¡No pierdas tu resplandor!
+<0082> ¡Eran nuestro cupón hacia la fama!
+<0085> ¡Wow! ¿¡Una trampa!?
+<0086> ¡Sora, cuidado!
+<0087> ¿Huh? ¿Acaso es esta una broma?
+<0089> Las ídolos necesitan rivales...
+<0090> Fufu, esto se está poniendo interesante.
+<0091> Tendremos que demostrar nuestras habilidades.
+<0093> Duh. Claro que usaré esto.
+<0094> ¡Si obtenemos más estrellas brillantes, brillaremos aún más!
+<0097> Nosotras también podemos bailar con intensidad.
+<0098> Las ídolos también pueden pelear.
+<0101> ¡Gracias por elegirnos!
+<0102> Finalmente podremos subirnos al escenario.
+<0103> Estarás bien junto a mí.
+<0104> ¡Sí, lo harás! ¡Eres una preciosura!
+<0105> ¡Es la hora de nuestro concierto!
+<0106> ¡Vamos, Sora!
+<0107> Fufufu, puedo sentir tus nervios.
+<0109> ¡Muchísimas gracias a todos!
+<0110> ¡Espero verlos la próxima vez!
+<0113> ¿Eh? ¿Quieres una foto de mí?
+<0114> Permíteme firmar eso de inmediato.
+<0115> Permíteme encargárme del resto.
+<0116> ¡Cambio de miembro!
+<0117> Sora, nos retiraremos por el momento.
+<0120> ¡Bien!
+<0121> ¡Genial!
+<0122> ¡Síii!
+<0123> Eso no es bueno.
+<0125> ¡Estás de suerte!
+<0126> ¿Mhm?
+<0128> ¿Qué es lo que conseguiremos?
+<0130> ¡Yahoo!
+<0131> Mhmmm.
+<0133> Wow, eso es increíble.
+<0135> ¿Sora, crees que puedes usar esto?
+<0136> ¿Qué es eso? ¿La carta de un fan?
+<0137> ¡No hay que temerle a lo nuevo, usemos esto!
+<0138> No puedo esperar a ver qué es lo que esto hace.
+<0139> Ídolos contra ídolos... Sora, no podemos bajar la guardia.
+<0140> Las ídolos... no se rinden ante la adversidad.
+<0141> ¡Los tiempos duros crean las oportunidades!
+<0144> ¡Todo esto es gracias a su apoyo!
+<0145> ¡Muy bien! ¡Estamos liderando el juego!
+<0148> ¡Sigamos adelante!
+<0149> ¡Estamos en una racha!
+<0150> ¡El apoyo de nuestros fans es lo que nos da fuerza!
+<0151> ¡Estamos tan cerca de ser las ídolos más populares!
+<0152> Ahora definitivamente somos los mejores ídolos.
+<0153> ¡Mira, Sora! ¿Qué es lo que piensas?
+<0154> Buena elección.
+<0155> Oh, que rostro tan único... ¿Es lindo? ...No estoy muy segura.
+<0156> Me siento tan relajada teniéndolo a mi lado.
+<0157> Ah, creo que esto se verá bien en ti.
+<0158> ¡Oh, claro!
+<0159> ¿Qué piensas de esto? Lindo, ¿no?
+<0160> ¡Estoy segura de que esto se verá genial en ti!

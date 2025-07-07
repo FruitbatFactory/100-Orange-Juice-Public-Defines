@@ -1,0 +1,80 @@
+// CampaignScenario_CodexStory_ClassChange
+// (cook)
+<0000> Halena! Halena! Cook finalmente conseguiu te alcançar!
+// (halena)
+<0001> A gente concordou de se encontrar aqui, não foi? Mas você está meio atrasada. Aconteceu algo no caminho?
+// (cook)
+<0002> Cook sabia que você saberia que ela não estava apenas procrastinando! Algo muito bizarro está acontecendo!
+// (halena)
+<0003> Parece que muitas coisas bizarras acontecem nessa região.
+// (cook)
+<0004> Ouça! Diversas pessoas começaram a perseguir a Cook assim que ela voltou para a cidade!
+// (cook)
+<0005> Eles todos estavam com garfos e facas! Foi muito assustador!
+// (halena)
+<0006> Eita!? Você se machucou?
+// (cook)
+<0007> Não. Cook conseguiu escapar deles por um tempo.
+// (cook)
+<0008> Mas daí ela ficou cansada, e eles chegaram cada vez mais perto... Cook pensou que era seu fim!
+// (cook)
+<0009> Mas daí...
+// (halena)
+<0010> Por favor não coloque uma pausa suspensa após uma sentença dessa. Eu realmente to preocupada, pô!
+// (cook)
+<0011> Fweehee. Mas daí, eles todos fizeram uma fila de forma educada atrás de Cook!
+// (cook)
+<0012> Então ela perguntou a eles, "Ué? Vocês não queriam me comer?"
+// (halena)
+<0013> E?
+// (cook)
+<0014> Eles falaram "Não! Quem é que comeria a Galinha Vermelha Mística?!"
+// (cook)
+<0015> Que rude! Eles sequer sabem o que é uma galinha?! Hmph!
+// (halena)
+<0016> Bem, deixando isso de lado, eu acho que sei o que está acontecendo.
+// (cook)
+<0017> Sério?! Só com isso?
+// (halena)
+<0018> Há um rumor por aí na cidade recentemente sobre uma incrível degustadora de comidas.
+// (cook)
+<0019> Cook não entende como isso é relevante.
+// (halena)
+<0020> Ela não escreve análises nem nada, mas se você a seguir, é garantido que você irá encontrar uma boa refeição.
+// (cook)
+<0021> Eita?! Cook precisa encontra-la e segui-la, então!
+// (halena)
+<0022> Isso... provavelmente não é possível.
+// (halena)
+<0023> Cook, você come toda vez que você volta de um voo, correto?
+// (cook)
+<0024> Claro! Voar abre o apetite.
+// (halena)
+<0025> E você sabe onde todos os restaurantes estão, e todos os especiais diários deles.
+// (cook)
+<0026> A habilidade de Cook's para achar sua próxima refeição é a melhor!
+// (halena)
+<0027> Você fica bem visível nos céus.
+// (halena)
+<0028> Aposto que eles veem você voando, e onde quer que você pouse possui comida melhor por um preço mais barato, então...
+// (cook)
+<0029> Em outras palavras...
+// (halena)
+<0030> Em outras palavras...
+// (cook)
+<0031> Piáááá! Cook virou uma degustadora de comida sem nem perceber?!
+// (cook)
+<0032> E ela esteve dando propaganda grátis todo esse tempo?!
+// (halena)
+<0033> Ahaha. Acho que é verdade.
+// (cook)
+<0034> É nojento ter tanta gente vendo Cook comer, entretanto. Existe apenas uma coisa a se fazer!
+// (halena)
+<0035> Oh?
+// (cook)
+<0036> Cook vai achar um desses locais com comida maravilhosa que ficam num buraco que ninguém conhece e comer lá!
+// (halena)
+<0037> Isso é exatamente o que uma degustadora de comida falaria.
+// (halena)
+<0038> É isso que chamam de "mudança de classe?"
+

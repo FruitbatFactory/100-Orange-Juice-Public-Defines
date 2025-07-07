@@ -1,0 +1,161 @@
+
+<0000> Poy!
+<0001> Popoy!
+<0002> Pooy!
+<0003> Poy poy!
+<0004> Unii, esta aqui!
+<0005> O que é esta coisa?
+<0006> Uma carta?
+<0007> Esta aqui!
+<0008> Eu vou colocar esta aqui.
+<0009> Uma armadilha? Deveria ir aqui?
+<0010> Ahaha, eu vou enterrar bem aqui.
+<0011> Uma armadilha!
+<0012> Eu vou trabalhar um monte!
+<0013> Esta aqui!
+<0014> Eu não vou perder!
+<0015> Eu estou começando a me divertir.
+<0016> Shupaaan! Eu estou em chamas!
+<0017> Vamos jogar mais um bocado!
+<0018> Já terminei minha pausa! Eu irei zupaan!
+<0019> Hmm! Eu estou muito bem e posso ir!
+<0020> Ta-da!
+<0021> Hawah...
+<0022> Uuu...
+<0023> Eu ainda não me sinto melhor.
+<0024> Eu me sinto tonta...
+<0025> Supaan!
+<0026> Zbaan!
+<0027> Kaboom!
+<0028> Zubaba!
+<0029> Wah!
+<0030> Isso dói.
+<0031> Hnuuuu.
+<0032> Waah!
+<0033> Fizz fizz.
+<0034> Isto trás uma sensação boa.
+<0035> É bom e quentinho.
+<0036> Yahoo! Estou cheia de energia agora!
+<0037> Eu estou flutuando!
+<0038> Oh?
+<0039> Shun shun shuun!
+<0040> Teleporte!
+<0041> Mhmm, eu não consigo me levantar.
+<0042> Hauu.
+<0043> Eu vou dar uma pausa.
+<0044> Huh? Eu não consigo me mover.
+<0045> Vamos batalhar!
+<0046> Ta-da, lute comigo!
+<0047> Por que a gente não se diverte!
+<0048> Whir! Kaboom!
+<0049> Ahaha! Claro! Nós podemos jogar!
+<0050> Nós vamos nos divertir muito, okay?
+<0051> Hm, você quer brincar comigo?
+<0052> Eu estou mais do que pronta!
+<0053> Shupa!
+<0054> Spapa!
+<0055> Zban!
+<0056> Gyuuun!!
+<0057> Ue!
+<0058> Wah!
+<0059> Nue!
+<0060> Howah!
+<0061> Kyun!
+<0062> Gue!
+<0063> Isto dói!
+<0064> Ueeee!
+<0065> Shun!
+<0066> Shushun!
+<0067> Hira!
+<0068> Hoy!
+<0069> Consegui, consegui! Eu venci!
+<0070> Eu ainda não tive o suficiente.
+<0071> Vamos lutar mais! Mais!
+<0072> Shupa! Shakeen!
+<0073> Haee.
+<0074> Faah... Isto foi divertido...
+<0075> Oh, perdi.
+<0076> Uu, eu não gosto disso.
+<0077> O que são estes?!
+<0078> Wow, são bonitos.
+<0079> Eu consegui coisas boas!
+<0080> Hooray!
+<0081> Oh não!
+<0082> Oh, onde você está indo!
+<0083> Wa wa waah.
+<0084> Eles foram para algum lugar...
+<0085> Isto me assustou!
+<0086> Wah! O que é isto!
+<0087> Yaan!
+<0088> Cometi um erro!
+<0089> Wah, tem algo divertido.
+<0090> Parece que eu vou ter como me divertir bastante!
+<0091> Hahaha! Nunca me diverti tanto assim!
+<0092> Wow, aquele cara parece super forte!
+<0093> Brilha brilhante!
+<0094> Um jogo sobre coletar estrelas? É divertido?
+<0095> Eu não sei se consigo carregar tantas assim.
+<0096> Eu vou coletar um montão delas e trazer para casa.
+<0097> Eu posso ir com tudo? Ebaaa!
+<0098> Eu vou jogar muito!
+<0099> Eu vou jogar até me cansar!
+<0100> Estou em chamas!
+<0101> Eu sou a Kae! Muito prazer!
+<0102> Eu estou pronta para queimar coisas!
+<0103> Jogue bastante, se divirta bastante!
+<0104> Eu posso ir com tudo? Ebaaaa!
+<0105> Ebaaa, aqui vou eu!
+<0106> Ahahahaha!
+<0107> Com quem eu quero jogar?
+<0108> Vamos dar nosso melhor para ganhar.
+<0109> Eu consegui! Eu estou em primeiro lugar!?
+<0110> Ahahahahahahahahahaha!!
+<0111> Nossa, como isso foi divertido!
+<0112> Vamos jogar mais alguma vez no futuro.
+<0113> Eu achei algo bom!
+<0114> Ahaha! Encontrei algo bom!
+<0115> Você quer isto? Então, pode ficar.
+<0116> Eu nunca vi este antes! Yahoooo!
+<0117> Nós trocamos!
+<0118> Eu quero brincar um pouco mais, entretanto.
+<0119> Certo! Sua vez de ir com tudo!
+<0120> Até mais!
+<0121> Aham!
+<0122> Isto é muito bom!
+<0123> Claro.
+<0124> Não.
+<0125> O quê, sério?
+<0126> Wah! Eu estou feliz!
+<0127> Oh?
+<0128> Certo, vamos jogar!
+<0129> Jogar isto aqui? Okay então!
+<0130> Shupaaan!
+<0131> Yahoooy!
+<0132> Hmmm...
+<0133> Whoa!
+<0134> Incrível, incrível, incrível!
+<0135> Uuu... Oh não...
+<0136> Eu acho que eu quero tentar usar isto.
+<0137> Mhm? Devo usar este aqui?
+<0138> Ahahahaha! Não tenho certeza do que isto faz, mas vou jogar de qualquer forma.
+<0139> O que vai acontecer? Eu estou muito empolgada!
+<0140> Ebaaa! Nana está aqui! Vamos jogar!
+<0141> Claro, com certeza!
+<0142> Ah, foi muito divertido!
+<0143> Aham, vamos jogar de novo.
+<0144> O quê? Posso mesmo bater?
+<0145> Wah! Lá vem!
+<0146> Rapaz, isto foi assustador!
+<0147> Uuu...
+<0148> Wow, é uma gatinha!
+<0149> Oh? Uma gatinha!
+<0150> Ahaha, você é tão adorável!
+<0151> Você é uma gatinha forte.
+<0152> É-é uma totó!
+<0153> Hey, deixa eu fazer carinho em você!
+<0154> Você é tão fofinha!
+<0155> A totó é forte...!
+<0156> Wow, é uma coelhinha! Boing boing!
+<0157> Uma coelhinha fofinha!
+<0158> Você é uma coelhinha energética!
+<0159> Coelhinhas são fortes...

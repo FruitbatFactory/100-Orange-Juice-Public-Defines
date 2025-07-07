@@ -1,0 +1,170 @@
+
+<0000> Así.
+<0001> Se bueno...
+<0002> ¿Cómo está esto?
+<0003> ¡Ahí!
+<0004> O~hoho.
+<0005> Usaré esto.
+<0006> ¿Cómo irá esto?
+<0007> Aquí voy...
+<0008> Esto debería ser bueno.
+<0009> O~hoho... esto será divertido.
+<0010> Muy bien, colocaré una trampa.
+<0011> Este lugar es muy peligroso, ¿sabes?
+<0012> Tomaré prestado tu poder.
+<0013> ¿Y qué tal esto?
+<0014> O~hoho, aquí voy.
+<0015> O~hoho, esto es divertido.
+<0016> No se escaparán de mis cadenas.
+<0017> *Bostezo*... esa fue una buena siesta.
+<0018> Oh, ¿ya amaneció?
+<0019> Ahora es un buen momento.
+<0020> Quizás haya sido un poco ociosa...
+<0021> Descansaré un poco más...
+<0022> Haa...
+<0023> Todavía descansando.
+<0024> Oh, eso no es bueno.
+<0025> Toma eso.
+<0026> Okay.
+<0027> O~hohohoho.
+<0028> Se hace así.
+<0029> Oh.
+<0030> Oww.
+<0031> Oh vaya.
+<0032> Basta.
+<0033> Hay una buena brisa...
+<0034> Eso se siente bien.
+<0035> Que cálido...
+<0036> Que relajante.
+<0037> ¿Oh?
+<0038> ¿A dónde voy?
+<0039> Llévame a un lugar bonito, por favor...
+<0040> Boing.
+<0041> Zzzz....
+<0042> Hah, hora de la siesta.
+<0043> Buenas noches.
+<0044> ¿Podemos tomarlo a la ligera?
+<0045> ¿Y bien, quieres bailar?
+<0046> ¿Jugamos?
+<0047> O~hoho, divirtámonos un poco.
+<0048> Muy bien, empezaré yo.
+<0049> Oh, ¿una invitación?
+<0050> Por favor, permíteme divertirme.
+<0051> Te enfrentaré.
+<0052> Eres bastante energética.
+<0053> ¡Toma!
+<0054> Perdóname si esto duele.
+<0055> De esta forma.
+<0056> Haah.
+<0057> Cielos.
+<0058> Kyaa...
+<0059> Oh.
+<0060> Ngh.
+<0061> Oooh.
+<0062> Sorprendente.
+<0063> Eres fuerte.
+<0064> ¿Ooooooooh?
+<0065> Simple.
+<0066> Eso estuvo cerca.
+<0067> O~hoho, por aquí.
+<0068> Si, eso fue bueno.
+<0069> Eso fue divertido.
+<0070> Volvamos a jugar en otra ocasión.
+<0071> No bailamos lo suficiente.
+<0072> ¿Se terminó tan pronto...?
+<0073> O~hoho, debes de tener mucha energía.
+<0074> Estoy exhausta...
+<0075> Voy a descansar.
+<0076> Hora de un descanso...
+<0077> Oh, que brillo.
+<0078> Hermoso.
+<0079> O~hoho, hay tantas de ellas.
+<0080> Estrellas... son hermosas.
+<0081> Mis estrellas...
+<0082> Perdí algunas estrellas.
+<0083> Mis estrellas se esparcieron alrededor...
+<0084> Oh... mis estrellas...
+<0085> ¿Una trampa...?
+<0086> Es una trampa...
+<0087> Caí por una trampa...
+<0088> Cielos, eso es horrible...
+<0089> Parece ser fuerte.
+<0090> Oh, hay algo por aquí.
+<0091> O~hoho, disfrutaré de esto un poco más.
+<0092> Oh vaya, esto se pondrá difícil.
+<0093> Quiero estrellas.
+<0094> Me gustan las cosas brillantes.
+<0095> Recolectaré estrellas.
+<0096> Juntaré muchas estrellas.
+<0097> O~hoho, bailemos el día entero.
+<0098> Quiero jugar mucho.
+<0099> Quisiera bailar con muchas personas.
+<0100> Me gustaría festejar con otros más seguido.
+<0101> ¿Te molesto?
+<0102> O~hoho, ansío trabajar a tu lado.
+<0103> Sí, bailemos.
+<0104> Gracias por la invitación.
+<0105> Ahora, ¿qué dices si disfrutamos del juego?
+<0106> Todos parecen tener mucha energía.
+<0107> O~hoho...
+<0108> Muy bien, empecemos.
+<0109> Eso fue realmente divertido.
+<0110> ¿Soy la número uno...?
+<0111> O~hoho, juguemos otra vez.
+<0112> Aw, quería jugar un poco más...
+<0113> Encontré algo lindo.
+<0114> Esto es fantástico, ¿no?
+<0115> ¿Era esto lo que deseabas?
+<0116> Oh, qué bonito.
+<0117> Es hora de cambiar.
+<0118> ¿Podrías tomar mi lugar?
+<0119> Fufu, vamos a cambiar.
+<0120> Confiaré en ti.
+<0121> Bien.
+<0122> Que bien.
+<0123> Sí.
+<0124> No.
+<0125> Wow...
+<0126> Estoy tan feliz.
+<0127> Hmm...
+<0128> ¿Nos vamos?
+<0129> Así que... ¿Estos se tiran?
+<0130> Vamos.
+<0131> Saludos.
+<0132> ¿Qué debería hacer?
+<0133> Que fantástico.
+<0134> Increíble.
+<0135> Oh vaya.
+<0136> Tomaré esto prestado...
+<0137> Me pregunto que hace.
+<0138> Tomaré esto prestado por unos minutos.
+<0139> Así que este es su poder...
+<0140> Te doy las gracias.
+<0141> ¿Y bien, Suguri? ¿Bailamos?
+<0142> O~hoho, Suguri me está invitando a bailar...
+<0143> O~hoho, eso fue muy divertido, Suguri.
+<0144> Hah, jugar contigo siempre es genial, Suguri.
+<0145> Juguemos un rato, hermana.
+<0146> Bailar con mi hermana suena divertido.
+<0147> Mi hermana es fantástica.
+<0148> Tus rayos son muy calientes, hermana...
+<0149> Ah, debes de ser el doble de ese bueno para nada.
+<0150> Espera un segundo... tú no me caes bien.
+<0151> Golpearte se siente algo satisfactorio.
+<0152> Realmente eres un bueno para nada...
+<0153> No más violencia, ¿está bien?
+<0154> Eres un inútil...
+<0155> Cálmate.
+<0156> En serio... realmente eres un inútil.
+<0157> Oh, ese es un avión muy lindo.
+<0158> Muy bien, empecemos. Para proteger a todos...
+<0159> Las cosas están por ponerse un poco más duras.
+<0160> O~hoho, esas prendas realmente van contigo.
+<0161> Ah, estás usando la ropa que yo elegí para ti.
+<0162> O~hoho, me has mostrado algo muy lindo.
+<0163> Incluso con ropa bonita, sigues igual de fuerte, Suguri.
+<0164> Esto será mucho más divertido si tú y yo trabajamos en equipo.
+<0165> Permíteme ayudar.
+<0166> Fufu, te ves realmente adorable con esa ropa.
+<0167> ¿Cómo me veo? ¿Bien?
+<0168> ¿Quieres jugar una vez más? Fufu, con gusto lo haré.

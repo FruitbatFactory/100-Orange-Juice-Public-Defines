@@ -1,0 +1,1336 @@
+< MENU_CONTROLLER_PRESS >
+按
+
+< MENU_CONTROLLER_PROCEED >
+繼續
+
+< MENU_CLICKPROCEED >
+點擊左鍵繼續
+
+< MAINMENU_NEWGAME >
+新遊戲
+
+< MAINMENU_LOADGAME >
+繼續遊戲
+
+< MAINMENU_CONFIGURATION >
+設置
+
+< MAINMENU_EXIT >
+離開遊戲
+
+< MENU_BUTTON_OK >
+確定
+
+< MENU_BUTTON_BACK >
+返回
+
+< MENU_BUTTON_HOME >
+主頁
+
+< MENU_BUTTON_CANCEL >
+取消
+
+< MENU_BUTTON_READY >
+準備
+
+< MENU_BUTTON_BEGIN >
+開始
+
+< MENU_BUTTON_RETRY >
+重試
+
+< MENU_BUTTON_NEXT >
+下一頁
+
+< MENU_BUTTON_PREVIOUS >
+上一頁
+
+< MENU_BUTTON_CLEAR >
+清空
+
+< MENU_BUTTON_YES >
+是
+
+< MENU_BUTTON_NO >
+否
+
+< MENU_BUTTON_STORY >
+故事
+
+< MENU_BUTTON_SKIPALL >
+全部跳過
+
+< MENU_BUTTON_TUTORIAL >
+教程
+
+< MENU_BUTTON_REFRESH >
+刷新
+
+< MENU_BUTTON_SEARCH >
+搜索
+
+< MENU_BUTTON_CHAT >
+聊天
+
+< MENU_BUTTON_CREATE >
+建立
+
+< MENU_BUTTON_JOIN >
+加入
+
+< MENU_BUTTON_SPECTATE >
+觀戰
+
+< MENU_BUTTON_DIFFICULTY_CASUAL >
+休閒
+
+< MENU_BUTTON_DIFFICULTY_NORMAL >
+普通
+
+< MENU_BUTTON_DIFFICULTY_ORIGINAL >
+原始
+
+< MENU_BUTTON_DIFFICULTY_EXTREME >
+極端
+
+
+< MENU_BUTTON_LOBBYLIST_LOBBYNAME >
+房間名稱
+
+< MENU_BUTTON_LOBBYLIST_PUBLIC >
+公開
+
+< MENU_BUTTON_LOBBYLIST_PLAYERS >
+玩家數
+
+< MENU_BUTTON_LOBBYLIST_SPEED >
+速度
+
+< MENU_BUTTON_LOBBYLIST_EVENTS >
+場地事件
+
+< MENU_BUTTON_LOBBYLIST_FIELDNAME >
+場地
+
+< MENU_BUTTON_LOBBYLIST_HW2018 >
+拿糖又搗蛋
+
+< MENU_BUTTON_LOBBYLIST_XMAS >
+聖誕
+
+< MENU_BUTTON_LOBBYLIST_BOUNTYHUNTER >
+賞金獵人
+
+< MENU_BUTTON_LOBBYLIST_TAGTEAM >
+搭檔
+
+< MENU_BUTTON_LOBBYLIST_MASTERANGLERS >
+捉魚
+
+< MENU_ON >
+開
+
+< MENU_OFF >
+關
+
+
+< MENU_LOBBYSETTING_EVENT >
+季節性活動
+
+< MENU_LOBBYSETTING_PASSWORD >
+密碼
+
+< MENU_LOBBYSETTING_HIDEPASSWORD >
+隱藏
+
+< MENU_LOBBYSETTING_OPTIONAL >
+             （可選）
+
+< MENU_LOBBYSETTING_MIXERS >
+混合器
+
+< MENU_LOBBYSETTING_CPUEVENT >
+跳過僅有CPU參與的事件
+
+< MENU_LOBBYSETTING_TURNTIMER >
+時限
+
+< MENU_LOBBYSETTING_CHAOSMUTATOR >
+混沌突變
+
+< MENU_LOBBYSETTING_INVADER >
+入侵者
+
+< MENU_LOBBYSETTING_PVPBOUNTIES >
+玩家懸賞
+
+< MENU_BUTTON_GAME_RETURN >
+回到遊戲
+
+< MENU_BUTTON_GAME_CONFIG >
+遊戲設置
+
+< MENU_BUTTON_GAME_RETIRE >
+離開遊戲
+
+
+< MENU_BUTTON_GAME_MOVE >
+移動
+
+< MENU_BUTTON_GAME_CARD >
+卡片
+
+< MENU_BUTTON_GAME_INFO >
+信息
+
+< MENU_BUTTON_GAME_PROTECT >
+保護
+
+< MENU_BUTTON_GAME_GIFT >
+禮物
+
+< MENU_BUTTON_GAME_THROW >
+投擲
+
+< MENU_BUTTON_GAME_FURY >
+憤怒
+
+< MENU_BUTTON_GAME_GUARDIANSPIRIT >
+守護靈
+
+< MENU_BUTTON_GAME_IRONDEFENSE >
+鋼鐵
+
+< MENU_BUTTON_GAME_RESTORINGLIGHT >
+復原
+
+< MENU_BUTTON_GAME_FROMBEYOND >
+重生
+
+< MENU_BUTTON_GAME_DEAL >
+發牌
+
+< MENU_BUTTON_GAME_DEMAND >
+索取
+
+< MENU_BUTTON_GAME_CLICK >
+點擊
+
+< MENU_BUTTON_GAME_DEFEND >
+防禦
+
+< MENU_BUTTON_GAME_EVADE >
+閃避
+
+< MENU_BUTTON_GAME_FIGHT >
+戰鬥
+
+< MENU_BUTTON_GAME_END >
+結束
+
+< MENU_BUTTON_GAME_ITEMS >
+物品
+
+< MENU_BUTTON_GAME_SELLCARDS >
+出售卡片
+
+< MENU_BUTTON_GAME_BOMB >
+炸彈
+
+< MENU_BUTTON_GAME_DASH >
+衝刺
+
+< MENU_BUTTON_GAME_FORECAST >
+預測
+
+< MENU_BUTTON_GAME_EAT >
+吃
+
+< MENU_BUTTON_GAME_BOUNTY >
+懸賞
+
+< MENU_GAME_MIMYUUJ_HYPER_BREAKOUT >
+越獄！
+
+< MENU_BUTTON_GAME_TAG >
+換人
+
+< PLAYMENU_FREEBATTLE >
+在線遊戲
+
+< PLAYMENU_SHOP >
+商店
+
+< PLAYMENU_CAMPAIGN >
+單人遊戲
+
+< PLAYMENU_PROFILE >
+玩家信息
+
+< PLAYMENU_CODEX >
+橙汁事典
+
+< PLAYMENU_MANUAL >
+規則解說
+
+< PLAYMENU_WIKI >
+維基百科
+
+< PLAYMENU_EXIT >
+退出
+
+< PLAYMENU_TOOLTIP_FREEPLAY >
+在線與其他玩家進行對戰。
+
+< PLAYMENU_TOOLTIP_SHOP >
+購買卡包、角色、裝扮等物品。
+
+< PLAYMENU_TOOLTIP_CAMPAIGN >
+選擇角色，並以單人遊戲體驗他們的故事。
+
+< PLAYMENU_TOOLTIP_PROFILE >
+查看玩家信息、瀏覽卡片、修改個人形象。
+
+< PLAYMENU_TOOLTIP_CODEX >
+瀏覽角色簡介等內容。
+
+< PLAYMENU_TOOLTIP_MANUAL >
+打開遊戲手冊。
+
+< PLAYMENU_TOOLTIP_WIKI >
+訪問由粉絲維護的維基頁面，獲取更深入的遊戲信息。
+
+< PLAYMENU_TOOLTIP_CHALLENGES >
+查看多人遊戲的每日挑戰內容。
+
+< PLAYMENU_TOOLTIP_CONFIGMENU >
+打開設置界面。
+
+< PLAYMENU_TOOLTIP_EXIT >
+返回標題界面。
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_01 >
+在挑戰板上查看小馴鹿給你的任務，\n完成它們來獲得禮物吧！
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_02 >
+當你收集到一些禮物後，\n在遊戲期間將它們送給其他人。
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_03 >
+在遊戲結束時所有人都能打開他們的禮物，\n包括送禮物的人！
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_04 >
+在你贈送了足夠多的禮物後，\n你可以在陰謀組的秘密基地\n對她們發起最終決戰！
+
+< PLAYMENU_EVENT_XMAS2017_GIFTPROGRESS >
+將禮物送給好孩子們（%d/%d）。
+
+< PLAYMENU_EVENT_XMAS2017_STAGEPROGRESS >
+完成額外劇情戰役 %s。
+
+< PLAYMENU_EVENT_XMAS2017_COMPLETE >
+聖誕節被拯救了！\n（但還不清楚陰謀組是否有所反省……）
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_MAIN >
+通過收集20000個巧克力來完成任務吧！
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_01 >
+經過特定的格子與打倒敵人可以\n獲得巧克力。
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_02 >
+打倒敵方玩家可偷取他們手中一半的\n巧克力。
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_03 >
+當持有至少500個巧克力時，可以將其存放於\nHOME格以避免被盜。
+
+< PLAYMENU_EVENT_VALENTINE2018_COMPLETE >
+全世界的甜點被拯救了！\n（至少這一次……）
+
+< PLAYMENU_EVENT_GAMESPLAYED >
+已進行場數：%d
+
+< PLAYMENU_EVENT_BONUSITEMS >
+獎勵物品：%d/%d
+
+< PLAYMENU_EVENT_VIEWPROGRESS >
+查看進度
+
+< PLAYMENU_EVENT_MILESTONE >
+下一個目標：
+
+< RANDOMFILTER_EVENTS >
+請設置「隨機」的候選事件。
+
+< RANDOMFILTER_MAPS >
+請設置「隨機」的候選地圖。
+
+< RANDOMFILTER_CHARACTERS >
+請設置「隨機」的候選角色。
+
+< POPPOMARCH_CLICKTHESE >
+需要點擊的目標：%d
+
+< PEEKSHROOM_MEMORIZE >
+記住它們！
+
+< PEEKSHROOM_ORDER >
+排序！
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_MAIN >
+從啵噗手中取回NoName老師丟失的身體部件，\n然後將他重新組裝起來吧！
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_01 >
+每經過3回合就會有遊戲格出現在場上，\n停在上面就可以和啵噗一起玩遊戲！
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_02 >
+配對遊戲！\n將卡片配對。就算有一些失誤也沒關係！\n最後完成的一對將會成為給你的獎勵。\n失敗時則會隨機獲得一個效果。
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_03 >
+卡片追蹤遊戲！\n挑選想要的獎品並盯緊那張卡片！\n之後啵噗會打亂卡片將你的獎勵藏起來。
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_04 >
+轉盤遊戲！\n啵噗在轉轉盤！努力讓轉盤停在好東西上吧！
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_05 >
+敲啵噗遊戲！\n啵噗會不斷從桶中鑽出，在她們躲起來以前\n打中她們吧！\n小心不要敲到其他人，否則……
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_06 >
+啵噗射擊！\n投擲飛鏢扎爆氣球！有些氣球帶有獎勵，\n射爆3個相同類型的氣球就能獲得獎勵！
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_07 >
+啵噗遊行！\n在啵噗們的遊行中點擊3個正確的啵噗。\n找到全部3個就可以獲得最好的獎勵！
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_08 >
+紗季糕餅店！\n移動紗季收集曲奇和糖果。\n但是請務必小心混入其中的炸彈！努力獲得高分\n取得更好的獎勵吧！
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_09 >
+林中窺菇！\n記住蘑菇經過的順序。然後按相同順序點擊\n它們。答對的越多，獎勵越豐厚！
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_10 >
+瑪兒的飛行訓練！\n控制赤紅酒桶躲避障礙物爭取獲得更高的分數，\n分數越高獎勵越好！
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_11 >
+NoName的部件偶爾會出現在小遊戲的獎勵中。\n要是遇到了的話，就想辦法將它們拿到手吧！
+
+< PLAYMENU_EVENT_SPRING2018_COMPLETE >
+NoName老師恢復了原狀，\n所有人都避免了留級危機！
+
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_MAIN >
+擊敗大喬納桑！
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_01 >
+在玩合作模式時，通過將大喬納桑的HP降至0或生存50輪即可將其趕走並獲得勝利！
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_02 >
+在合作模式下，所有玩家都需要選擇一種職業！所有職業都擁有不同的能力、卡片、與HYPER！
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_03 >
+進攻者能獲得額外ATK且可以先攻，守護者能獲得額外DEF且可以使用保護能力，支援者能獲得額外MOVE且可以復活同伴。
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_04 >
+角色REC使用特殊規則進行調整，ATK增加REC，EVD減少REC。REC最低為3。
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_05 >
+四個玩家共享目標、WIN與STAR。目標達成需求是正常規則1.5倍的STAR和2倍的WIN。各玩家可互相觀看手牌。
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_06 >
+在合作模式下，BOSS格在場地上大量增加。在上面停留就可以向大喬納桑進行挑戰！
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_07 >
+作為普通場地效果的替代，大喬納桑會使用各種能力來擊敗你！隨著遊戲進行它還能解鎖更多能力……
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_08 >
+注意時間！在第30輪，大喬納桑會開始發怒並破壞所有的HOME格還會激活它最強大的能力！
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_09 >
+如果所有友方都倒下了，遊戲結束，大喬納桑獲得勝利！而你對它造成的傷害依然會影響活動完成進度。
+
+< PLAYMENU_EVENT_SUMMER2018_COMPLETE >
+大喬納桑被制服了，大海與沙灘恢復了安全！
+
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_MAIN >
+拿糖又搗蛋，填滿你的胃！
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_01 >
+持有糖果時，每個糖果每輪可以獲得\n1顆STAR。每3輪能獲得更多的糖果。
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_02 >
+如果糖果和你的糖果槽相匹配，帶到HOME\n可以獲得10顆STAR和1WIN。
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_03 >
+如果你遇到其他玩家，選擇對方持有的1個糖果進行不給糖就搗蛋。如果對方選擇不給糖果，\n就會受到懲罰！
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_04 >
+如果對方拒絕給糖，打倒對方可以偷得1個糖果。
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_05 >
+在遊戲結束時根據你的排名獲得相應的\n糖果獎勵，收集1500個糖果來填滿胃的渴望吧！
+
+< PLAYMENU_EVENT_HALLOWEEN2018_COMPLETE >
+收集到足夠克服斬子藥物的糖果了，\n一起來享受魔女的茶會吧！
+
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_ATTACKER >
+進攻者\n\n先攻：在戰鬥中優先行動\n目標2：ATK+1\n目標4：ATK+1\nBoss HP+5
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_DEFENDER >
+守護者\n\n保護：花費1點HP使目標在下次戰鬥中受到的傷害值-2\n目標2：DEF+1\n目標4：DEF+1\nBoss HP-5
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_SUPPORT >
+支援者\n\n復活/恢復：經過同伴時可以為其恢復1點HP，\n或消耗STAR將其復活\n目標2：Move+1\n目標4：Move+1
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_AVENGER >
+復仇者\n\n戰鬥中每失去1點HP，ATK+1\n目標2：HP上限+1\n目標4：HP上限+1\nBoss HP+10
+
+< PLAYMENU_EVENT_SUMMER2018_AVENGER_UNLOCK >
+一個新的職業可以在合作模式使用了：復仇者！
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_MAIN >
+大家一起齊心協力，在聖誕節前\n為孩子們造出一座雪城堡吧！
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_01 >
+完成每日目標可以解鎖獎勵！\n用聖誕模式中獲得的花環，\n可以在商店中兌換物品！
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_02 >
+在聖誕模式中，每經過6輪，所有玩家便會一同\n建造一座雪城堡。在經過24輪後遊戲結束，\n建造部分最多的人獲勝！
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_03 >
+建造雪城堡需要雪。雪會隨著時間堆積在\n沒人踩到的格子，走過雪堆就可以\n收集它們。
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_04 >
+在戰鬥中擊倒其他角色，或是在打雪仗中用\n雪球擊中其他角色可以奪取更多的雪！
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_05 >
+點擊這個圖標並選擇距離你3至4格遠的\n一個目標可以發起一場打雪仗\n（消耗：10雪）。
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_06 >
+任何距離你1格內的角色將加入你的隊伍，\n任何距離目標1格內的角色將加入他的隊伍。
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_07 >
+打雪仗將持續3輪攻防，或是直至其中一方的\n所有成員都被雪球擊中為止。
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_08 >
+在防守時，猜測對手將要投擲的格子，\n並選擇一格躲避。
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_09 >
+在進攻時，預測對手將要躲避的格子，\n然後試著擊中他們。\n成功擊中時將給予你對方所擁有的一半的雪！
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_10 >
+在此模式下，卡堆中加入了新的活動卡片。\n它們可以在打雪仗中造成一些有趣的效果……
+
+< PLAYMENU_EVENT_XMAS2018_COMPLETE >
+雪城堡完成了，孩子們可以順利過上聖誕節了！
+
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_MAIN >
+所有人都變成了懶豬！收集豬豬之心拯救\n你的朋友們吧！
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_01 >
+豬豬之心可以通過在普通或賞金獵人模式下\n完成一場遊戲、擊倒敵方玩家（每場遊戲中\n每名玩家一次），或是得到更高的結算名次，\n或是進行合作模式遊戲來獲得。
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_02 >
+用豬豬之心在商店解鎖豬豬裝扮，將角色\n從豬豬化的詛咒中解放出來吧！
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_03 >
+只有拯救了所有角色才能阻止豬豬化！
+
+
+< PLAYMENU_EVENT_FRB2019_COMPLETE >
+你的朋友們已經得救了，但全球豬豬化\n仍在繼續……
+
+
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_MAIN >
+神秘的新敵人正在四處破壞！通過遊玩全新的合作模式和\n其他玩家一起終結這場騷亂吧！
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_01 >
+在創建房間或開始單人遊戲時，\n可以將遊戲模式切換至合作模式。
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_02 >
+BOSS有4種難度級別可供選擇。在更高\n的難度下BOSS會使用更強大的能力！\n而你在獲勝時也可以得到更豐厚的經驗和\n橙子獎勵。
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_03 >
+可以選擇的地圖會被BOSS和難度影響。\n
+休閒：任何你擁有的常規地圖。\n
+普通和極端：一組全新的合作地圖。\n
+HYPER：一個特別的BOSS競技場地圖。\n
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_04 >
+HYPER難度的BOSS還會擁有獨特而又強大\n的能力……在你想要尋找真正的挑戰時\n再去試試看吧！
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_05 >
+在3個角色職業選擇1個進行遊戲：\n進攻者，守護者，支援者。每個職業都\n可以在你進行遊戲時獲得經驗並解鎖新的\n強大能力。
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_06 >
+用新的卡組點數系統隨意構建你的\n合作卡組吧！放入強大的卡片需要更多的\n卡組點數。別忘了這些卡片都能被你和\n你的同伴使用。
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_07 >
+要注意的是，很多角色的HYPER卡\n在合作模式下有所不同！你可以\n在卡片圖鑑中通過切換常規卡片與\n合作卡片查看具體效果。
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_08 >
+你的卡組點數上限由角色的評級決定。\n最適合該職業的角色會被評為A級，\n初始擁有10點卡組點數。
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_09 >
+評級更低的角色擁有更多的卡組點數作為\n補償。試試不同的角色+職業組合吧！
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_10 >
+BOSS會在地圖上移動並且能夠攻擊你！\n它們只會觸發移動相關的格子（例如\n移動和傳送）時刻注意他們的位置\n並以此制定戰略。
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_11 >
+BOSS擁有一套由5張0至3級的獨特卡片\n組成的卡組。在用完5張後，BOSS會將\n一張最低等級的卡片升級為高一等級的\n卡片，然後重洗它的卡組。
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_12 >
+BOSS的能力會在每輪開始時展示，\n在這輪結束時，BOSS會在行動前\n發動能力，以此制定計劃吧！
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_13 >
+上吧，該去平息那些怪物了！
+
+< PLAYMENU_EVENT_SPRING2019_COMPLETE >
+世界從狂暴的怪物手中被拯救了！\n但在真正的幕後黑手仍然逍遙法外的\n情況下威脅依然存在……\n躲在幕後的人究竟是誰？
+
+
+< PLAYMENU_EVENT_SUMMER2019_INSTRUCTION_MAIN >
+QP被太陽曬得發瘋了！與她和她的新小弟們玩到讓她累趴下吧！
+
+
+< PLAYMENU_EVENT_SUMMER2019_COMPLETE >
+多虧了你，每個人都能在海灘上玩得很開心，QP也恢復了原狀！不過……那真的只是被曬的嗎？
+
+
+
+
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_MAIN >
+大人的萬聖節行動開始了！\n為杏的少女之夜收集下酒菜吧！
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_01>
+在遊戲過程中，南瓜會在地圖上\n四處移動。
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_02>
+停留在同一格可以收集南瓜，\n之後它會在別處重生。
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_03>
+通過收集南瓜來完成行動！\n南瓜還能使你在遊戲結束後獲得糖果。
+
+< PLAYMENU_EVENT_HALLOWEEN2019_COMPLETE >
+行動完成了！\n你依然能通過收集南瓜獲取糖果。
+
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_MAIN >
+擊敗蘿啵雞！
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_01 >
+那個傢伙在對我的世界為所欲為……！
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_02 >
+她可能比我還要強……\n但我仍然可以幫助你！
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_03 >
+將她擊敗拯救這個世界吧！
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_04 >
+你可以通過與任意一個BOSS戰鬥\n來幫助我們進行抗爭。
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_05 >
+兔萌萌正在為玩家們提供強化魔法！\n現在可以更快地獲得合作模式能力了！
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_06 >
+你現在擁有全部合作模式屬性加成，\n且只需10級就可以解鎖所有能力。\n合作模式的職業等級上限也提升了。
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_COMPLETE >
+蘿啵雞被擊敗了，但真正的罪魁禍首\n還在等著我們！\n在新解鎖的戰役關卡中體驗故事的結局吧。
+
+< PLAYMENU_EVENT_MIO_MISSIONUNLOCK >
+在新解鎖的戰役關卡中體驗故事的結局吧：%s
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_MAIN >
+新的委託正在全新的賞金獵人模式中等待著你！\n幫助艾莉和露露在公會中達到B級來籌集到足夠的資金吧！
+
+// Instruction about the game mode button
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_01 >
+在創建房間或開始單人遊戲時，\n可以將遊戲模式切換至賞金獵人模式。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_02 >
+此模式下只有唯一一種全新的\n目標類型：聲望（FAME）。\n（在此模式下，被限制了目標類型的角色\n依然可以完成聲望目標。）
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_03 >
+完成委託或懸賞可以獲得聲望。\n當你停留在任意HOME格時，你可以選擇一張\n委託或懸賞的契約。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_04 >
+委託將要求你前往契約上顯示的地點取得物品，\n獲得物品後需要將其送往帶有箭頭標記的商店。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_05 >
+懸賞將要求你捕獵契約上顯示的魔物，\n可獲得的聲望數量依懸賞難度而定。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_06 >
+魔物可在場上各處發現。\n懸賞戰鬥將持續10回合，戰鬥前請務必做好\n充分準備！
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_07 >
+為協助你擊敗侵襲而來的魔物，在此模式下\n所有角色永久MOV+1，並且每輪開始時\n都可以獲得額外的STAR！
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_08 >
+任務地點與可購買好用道具的商店會隨機出現在\n場上。你可以在任意商店選擇停步，並在店內\n購買道具或是賣出卡片。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_09 >
+要注意的是，角色數值將會影響到商店價格。\n較弱的角色能得到較高的折扣，你可以以此來\n制定遊戲策略。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_10 >
+場上存在著一個不斷變換的幻影，所在的格子\n即是下一個被清除的地點將轉移到的位置。\n當任務地點的懸賞魔物被擊敗或是商店的\n所有商品售罄時，將立即轉移至被標記的位置，\n同時幻影也將出現在新的格子上。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_11 >
+當你完成目標時，你將可以從幾個隨機特長中\n選擇一個獲取。\n這些特長將永久起效，從中可獲得諸如提高\n角色數值與降低商店價格等效果。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_12 >
+當一名玩家到達3級時，一名入侵者將會\n抵達場上。\n入侵者具有獨特的能力，他們會以各種方式\n影響遊戲的進行。擊敗他們可獲得特殊道具！
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_13 >
+當一名玩家到達4級時將會出現強大的BOSS，\n請務必小心！\n將其擊敗可獲得6點聲望！
+
+// Final introduction msg
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_14 >
+成為最聲名顯赫家財萬貫的賞金獵人吧！
+
+// Completed.
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_COMPLETE >
+恭喜你！艾莉和露露賺到了足夠繼續旅程\n的賞金！不過你也可以讓她們繼續收集下去。
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_MAIN >
+是時候來一場河邊派對了！幫助紗季、娜德和佳愛抓魚吧！
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_01 >
+在開始遊戲時選擇捉魚模式即可參與活動。
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_02 >
+新加入的小遊戲每10輪觸發1次。所有玩家將會一同參與其中！
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_03 >
+點擊鼠標左鍵拋竿。移動鼠標可以四處查看。
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_04 >
+選擇好位置後魚鉤會逐漸下沉，當魚鉤接觸到第一條魚或第一個垃圾時會自動收線。
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_05 >
+每條魚都有不同的重量和速度。釣到更快或更大的魚可以得到更多分數！
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_06 >
+遊戲中途可能會隨機加速。加速不僅會影響魚的游動速度，還會影響魚鉤的速度。
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_07 >
+在釣魚階段結束後，玩家會按照釣魚分數進行排名。玩家將會依據排名得到WIN，依據分數得到STAR。
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_08 >
+注意烤架！它總會有3條一組的魚等待捕獲，抓齊它們可以額外獲得15點分數！
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_09 >
+每個人都有各自的烤架需要填滿，所以努力在時限內比其他人完成更多組需求吧！
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_10 >
+此外，連續多次捕獲同一種魚可以得到額外的連擊分數。
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_11 >
+每場遊戲的釣魚總分將會計入你的活動進度。釣個大豐收吧！
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_COMPLETE >
+幹得好！紗季、娜德和佳愛可以好好享受她們的河邊BBQ派對了！如果你還沒玩夠的話，還可以繼續去釣魚！
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_MAIN >
+蘑菇爭奪戰開始了！發揮你的獵人技巧去找到兩個珍奇蘑菇吧！
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_01 >
+在建立遊戲時開啟“季節性活動”即可參加活動。
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_02 >
+在其它模式下選擇孢子場地事件也可參與活動。但需要注意的是，在作為場地事件時，蘑菇的出現頻率會更低一些。
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_03 >
+蘑菇每2輪（季節性活動關閉時為3輪）都會生成在隨機格子上（除賞金獵人模式外），只要停在對應的格子上即可撿起它們。
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_04 >
+在撿起蘑菇時，你會得到一張擁有隨機效果的卡片。卡片的效果只有在使用後才能得知，而且每局遊戲都會隨機決定。
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_05 >
+珍奇蘑菇會在玩家到達4級後生成！每局遊戲中只能撿到一個。在賞金獵人模式中，它們會出現在商店裡。
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_06 >
+撿起珍奇蘑菇時可獲得一張強大的禮物卡，且他人可以通過擊敗持有者搶走它。
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_07 >
+活動進度會依據撿起的珍奇蘑菇類型增加。
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_08 >
+誰將贏得蘑菇爭奪戰？時間將會證明一切……
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_COMPLETE >
+這場蘑菇爭奪戰的結果是平局（？）……但你依然可以尋找更多的蘑菇！
+
+< PLAYMENU_TOOLTIP_5YEARANNIVERSARY >
+Steam版5週年紀念禮物！\n你可以在個人形象界面中點擊對應圖標切換HOME標誌。
+
+< PLAYMENU_1MILLIONCHARA_UNLOCK >
+恭喜你！下載量達到100萬次的獎勵角色\n魅櫻已經可供使用了！\n她的角色語音和播音員語音也一同被解鎖了！
+
+< PLAYMENU_TOOLTIP_10YEARANNIVERSARY >
+Steam版10週年紀念禮物！\n你可以在個人形象界面中點擊對應圖標切換卡背。
+
+< PLAYMENU_SUMMER2019_RERUN_REVIVE >
+QP還想多玩一會！夏日野獸復活了！
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_MAIN >
+把庫克餵飽以後她應該就會幫助艾莉找到\n她在尋找的東西了……？為了以防萬一，去給她收集一堆食物吧！
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_01 >
+在創建新房間或開始單人遊戲時，\n可以將遊戲模式切換至賞金獵人模式。
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_02 >
+在進行賞金獵人模式時，商店有時會出現\n食物標記。\n停在有標記的商店時就可以得到好吃的東西。
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_03 >
+任務地點和出售有用道具的商店會隨機\n出現在場地上，每6輪刷新一次。
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_04 >
+你可以在任何HOME、商店或\n持有相關委託的任務地點停步。
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_05 >
+在此模式下只有唯一一種全新的\n目標類型：聲望（FAME）。\n（此模式下，被限制了目標類型的角色\n同樣可以完成聲望目標。）
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_06 >
+你可以通過完成委託或懸賞來獲得聲望。\n懸賞會基於難度獎勵數量不等的聲望！
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_07 >
+每場遊戲會在簡單、中等、困難難度的懸賞目標\n中各隨機選取2種供狩獵，並隨機選取6種任務\n地點供探索。
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_08 >
+懸賞戰鬥將持續10個回合。\n戰鬥前請務必做好充分的準備！
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_09 >
+為協助你擊敗侵襲而來的魔物，在此模式下\n所有角色永久手牌上限+1。
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_10 >
+此外，玩家在開始遊戲時會擁有\n一雙MOV+1的鞋子，之後還能從商店裡\n買到更好的鞋子。
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_11 >
+將卡片賣給商店可獲得額外的STAR。\n不同商店可能會為卡片開出不同的價格！
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_12 >
+每種商店都可以通過在店內購買物品\n和販賣卡片升級數次。\n高等級的商店會擁有更好的庫存，而且還會有\n額外的好處！
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_13 >
+當一名玩家到達4級時將會出現一個\n全新的BOSS，請千萬小心！\n擊敗它的人將會獲得6點聲望！
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_14 >
+除此以外，在到達第15輪後神秘的噩兆\n將會現身，並開始狩獵玩家。\n被他打敗後玩家將失去1點聲望，\n同時也會增加在擊敗噩兆時可獲得的聲望。
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_COMPLETE >
+庫克已經吃飽了，冒險就要開始了！\n但你也可以繼續進行賞金獵人模式，\n解鎖額外的活動獎勵。
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_MAIN >
+接受魅櫻的指導學習如何游泳吧！\n全新合作模式BOSS，游泳教練，\n現已可供挑戰！
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_01 >
+你對游泳教練造成的一切傷害都會為所有玩家\n推進活動進度。
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_02 >
+你也可以通過與其他活動模式BOSS戰鬥來\n貢獻活動進度。
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_COMPLETE >
+活動完成了，兔萌萌也已經學會如何游泳了！\n不過你依然能參加游泳教練的訓練課程。
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_MAIN >
+去爭奪裝飾品裝點屋子吧！
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_01 >
+裝飾品可以通過停留於任意模式中偶然會出現\n的裝飾品格收集。
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_02 >
+每種遊戲模式都有其它方式可以收集裝飾品。
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_03 >
+在普通模式下，你在停留於其他人的HOME\n格時可以獲得一個裝飾品。在遊戲結束時還會\n依據排名獲得裝飾品。
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_04 >
+在合作模式下，你在擊敗BOSS的手下時\n可以獲得一個裝飾品。在獲勝時還會依據\nBOSS難度獲得裝飾品。
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_05 >
+在賞金獵人模式下，你在停留於被標記的商店\n時可以獲得一個裝飾品。在遊戲結束時還會依據\n排名獲得裝飾品。
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_06 >
+除遊戲結算外，每局最多可以獲得4個裝飾品。
+
+< PLAYMENU_EVENT_HALLOWEEN2021_COMPLETE >
+屋子已經裝飾好了，和朋友們一起欣賞你的\n傑作吧！你還可以收集更多裝飾品來解鎖商店裡\n的裝扮。
+
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_MAIN >
+混沌已至！在愚人計活動期間，遊戲提供了\n全新的帶有多種混沌突變可供選擇的混沌模式。
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_01 >
+在創建房間或開始單人遊戲時，將遊戲切換至\n混沌模式，即可選擇一種混沌突變進行遊戲。
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_02 >
+出於平衡目的，部分混沌突變禁用了遊戲獎勵或\n成就。你可以通過混沌突變說明進行確認。
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_03 >
+本活動沒有活動結局與限定獎勵。但在進行\n混沌模式遊戲時，每局遊戲結束皆可獲得1枚\n街機代幣，每日最多可獲得20枚。
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_04 >
+打破一切規則！投入混沌的懷抱吧！
+
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_MAIN >
+目的地已近在咫尺！帶領艾莉和露露趕在阿妮爾\n一行人之前抵達湖畔的神殿吧！
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_01 >
+進行任意模式遊戲可獲得移動點數，使用\n移動點數即可探索活動地圖！
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_02 >
+每日的首場遊戲可以獲得3點移動點數，之後\n每場遊戲可獲得1點。
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_03 >
+每點移動點數都可以讓你在活動地圖上\n移動1格。
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_04 >
+移動點數會自動用於沿當前的路線前進，\n直到遭遇岔路為止。\n你可以選擇要從哪條路線前進。
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_05 >
+經過某些格子時將獲得星星、橙子、隨機裝扮\n甚至活動獎勵！
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_06 >
+誰將獲得傳說中的寶藏？讓我們拭目以待吧……
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_COMPLETE >
+你已經到達了神殿！但你還可以重複這次旅程\n以獲得更多獎勵。
+
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_MAIN >
+全世界的聖誕蛋糕都危在旦夕！我們必須盡力\n找到魅櫻那些討人厭的蛋糕並將它們銷燬！
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_01 >
+所有玩家每6輪將獲得一張名為“魅櫻的\n假蛋糕”的特殊卡片。
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_02 >
+要想安全地銷燬這些噁心的傑作，你可以選擇\n吃掉它們（後果自負）獲得一種隨機效果，或是\n將它們丟向對手造成1點傷害。
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_03 >
+在任意模式下進行活動將獲得美味的\n聖誕蛋糕，可用於在商店內解鎖獎勵。\n如有需要，也可在創建遊戲時關閉活動。
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_04 >
+當全世界的玩家齊心協力將所有魅櫻的“蛋糕”\n安全銷燬時，活動完成。
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_05 >
+兩個活動計數器對應著兩種銷燬蛋糕的方式，\n兩者都可以推進活動進度。
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_06 >
+為解鎖活動結局，你需要到達你的個人活動場數\n目標，同時還可以獲得獨立於全局活動進度的\n獎勵。
+
+< PLAYMENU_EVENT_WINTER2022_COMPLETE_01 >
+世界得救了！大家又可以愉快地品嚐美味的\n聖誕蛋糕了，而不用吃那不知道什麼東西！\n你還能繼續搜尋剩餘的蛋糕。
+
+< PLAYMENU_EVENT_WINTER2022_COMPLETE_02 >
+蛋糕的新潮流席捲而來！大家都可以盡情享受\n魅櫻的新潮傑作了！\n如果你沒吃夠，你還能繼續搜尋更多蛋糕。
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_MAIN >
+我們被包圍了！\n幫助艾莉和露露擊退洶湧而來的嘮鼠，拿到她們\n應得的寶藏吧！
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_01 >
+通過進行探寶之末活動模式或賞金獵人模式的\n遊戲來擊退嘮鼠！
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_02 >
+探寶之末模式在賞金獵人模式的基礎上存在一些\n關鍵差異，其中包括了：降低目標需求、\n商店半價和手牌上限+1。
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_03 >
+活動具有三種懸賞目標：嘮鼠（簡單）、\n青檸嘮鼠（中等）和草莓嘮鼠（困難）。\n擊敗它們可以獲取活動進度！
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_04 >
+此外，完成委託將會與一隻2HP的嘮鼠\n展開戰鬥，而不是直接獲得2聲望。
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_05 >
+最後，全新的入侵者，黑巧克力嘮鼠將會\n對玩家的STAR降下災厄……\n擊敗黑巧克力嘮鼠可以獲得3點活動進度！
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_06 >
+嘮鼠們究竟在把守著什麼東西……？\n它們又為何要這麼做？
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_COMPLETE >
+你發現了艾莉所尋找的“寶藏”……\n可現在這又是怎麼一回事呢？
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_MAIN >
+新的對手現身了！\n統治世界的神明想讓這個世界迎來壞結局！\n快用你和露露共度的回憶來向她發起反擊吧。
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_01 >
+進行任意模式遊戲可獲得記憶碎片，使用記憶\n碎片可以推進活動地圖的進度！
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_02 >
+每日的首場遊戲可以獲得3個記憶碎片，之後\n每場遊戲可獲得1個記憶碎片。
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_03 >
+每個記憶碎片都可以讓你在活動地圖上\n前進1格。
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_04 >
+記憶碎片會自動用於沿當前的路線前進，\n直到遭遇岔路為止。\n你可以選擇要從哪條路線前進。
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_05 >
+經過某些格子時將獲得星星、橙子或隨機裝扮！
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_06 >
+你能回想起那些記憶，幫助露露克服心中的\n黑暗嗎？
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_MAIN2 >
+最終決戰正等待著你！\n前往附加關卡“挑戰神權”把魅櫻擊敗吧！
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_COMPLETE >
+你成功打破了神明設下的壞結局！\n前方還有著無盡的旅程！你可以繼續前進收集\n更多獎勵。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_MAIN >
+在家庭餐廳純潔中為美食而奪取勝利吧！\n持續光顧即可獲得集章獎勵！
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_01 >
+在此活動期間，你將能夠體驗到一種\n全新的遊戲模式：搭檔模式！
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_02 >
+只需進行1場搭檔模式或2場其它模式的遊戲，\n即可在家庭餐廳純潔的集章卡中蓋上一枚印章！
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_03 >
+在搭檔模式中，你可以額外選擇一名角色作為\n搭檔。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_04 >
+在你的回合中，你可以使用換人按鈕將兩名角色\n在領隊與搭檔位置間交換。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_05 >
+每次進行交換後，在3輪內時間將無法再次進行\n交換，一定要三思而後行！
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_06 >
+一旦當前領隊被擊倒，存活的搭檔將會被強制\n切換至場上。此類交換同樣會使換人進入\n冷卻狀態，請多加註意！
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_07 >
+每經過一定輪數，搭檔角色將自動恢復HP。\n若搭檔已被擊倒，在經過等同於REC的輪數後\n搭檔將自動復活。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_08 >
+懸停在搭檔頭像上時，可以看到他們距離\n下次恢復或復活的剩餘時間。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_09 >
+處於搭檔位置的角色所攜帶的儲備效果不會消耗\n持續時間。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_10 >
+搭檔所具有的會對遊戲產生影響的角色效果，\n在他們重返場地前不會起效。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_11 >
+搭檔所具有的在復活時對自身起效的效果\n依然有效。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_12 >
+打造你的最強小隊，成為本地100%鮮橙汁\n比賽冠軍吧！
+
+< PLAYMENU_EVENT_NEXT_GOAL >
+下一個目標：
+
+< PLAYMENU_EVENT_FINAL_GOAL >
+最終目標：
+
+< PLAYMENU_EVENT_DATE_MONTH >
+%d日（%d月）
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_BEGINNING >
+開場
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_ENDING >
+結局
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_INTERLUDE >
+間歇
+
+< PLAYMENU_EVENT_BOUNTYHUNTERS_FAME > 
+聲望：%d
+
+< PLAYMENU_EVENT_BOUNTYHUNTERS_RIBBON > 
+你得到了露露的蝴蝶結！
+
+< PLAYMENU_LOADING_TEXT > 
+讀取中……
+
+< PLAYMENU_CONNECTING_TEXT > 
+連接中……
+
+< PLAYMENU_INVENTORY_STACKING_TEXT >
+正在堆疊庫存物品……
+
+< PLAYMENU_2MDOWNLOADS_MESSAGE >
+為慶祝200萬下載量，遊戲更新了全新的額外\n關卡！\n魅櫻這次又會有什麼打算……？
+
+< MENU_BOSS_DIFFICULTY_CASUAL >
+休閒
+
+< MENU_BOSS_DIFFICULTY_NORMAL >
+普通
+
+< MENU_BOSS_DIFFICULTY_EXTREME >
+極端
+
+< MENU_BOSS_DIFFICULTY_HYPER >
+HYPER
+
+
+< MENU_COOPCLASS_ATTACKER >
+進攻者
+
+< MENU_COOPCLASS_GUARDIAN >
+守護者
+
+< MENU_COOPCLASS_SUPPORT >
+支援者
+
+< MENU_COOPCLASS_AVENGER >
+復仇者
+
+< MENU_COOPCLASS_DEALER >
+發牌者
+
+< MENU_COOPUNLOCK_LEVEL >
+等級 %d： %s
+
+< MENU_COOPUNLOCK_ABILITY >
+能力： %s\n%s
+
+< MENU_COOPUNLOCK_ORANGES >
+橙子 +%d
+
+< MENU_COOPUNLOCK_DECKPOINT >
+卡組點數 +%d
+
+< MENU_COOPUNLOCK_ROLEHYPER >
+職業HYPER
+
+< MENU_COOPUNLOCK_NEWBOSS >
+可以在合作模式中與%s進行戰鬥了！\n在創建遊戲時可以使用BOSS名稱旁的箭頭切換BOSS。
+
+< MENU_COOPUNLOCK_HYPERDIFFICULTY >
+可以在合作模式中，\n選擇%s的HYPER難度了！
+
+< MENU_COOPUNLOCK_NEWCLASS >
+一個新的職業可以在合作模式使用了：%s！
+
+< MENU_SHOP_RETIREDEVENTITEM >
+%s活動的獎勵已經可以在商店中購買了！
+
+< MENU_WEEKLY_FREE_LABEL >
+本週免費
+
+< MENU_WEEKLY_FREE_TOOLTIP >
+本週你可以免費使用這兩名DLC/獎勵角色。\n同時播音員語音也可免費使用。
+
+< MENU_MODMENU_DETAIL_1 >
+描述
+
+< MENU_MODMENU_DETAIL_2 >
+更新日誌
+
+< MENU_MODMENU_DETAIL_3 >
+影響文件
+
+< MENU_VISIT_STEAM_WORKSHOP >
+在創意工坊中瀏覽
+
+< MENU_WORKSHOP_THUMBNAIL_REQUIRED >
+需要擁有縮略圖才能發佈MOD。\n\n更多信息請檢查MOD製作參考文檔。
+
+< MENU_WORKSHOP_CONTEST_UNAVAILABLE >
+你無法發佈這個物品：\n目前沒有正在進行的比賽。
+
+< MENU_WORKSHOP_AGREEMENT_ERROR >
+你無法發佈這個物品：\n尚未接受Steam創意工坊法律協議。
+
+< MENU_WORKSHOP_PUBLISH >
+發佈
+
+< MENU_WORKSHOP_WORKSHOP_BTN >
+創意工坊
+
+< MENU_WORKSHOP_PUBLISHING >
+正在將你的MOD發佈至Steam創意工坊……
+
+// The website will be below this message as a link
+< MENU_WORKSHOP_PREMESSAGE >
+在將MOD發佈或更新至Steam創意工坊前，你需要同意以下頁面中的服務條款：
+
+< MENU_WORKSHOP_ERROR >
+Steam創意工坊返回了一個錯誤。\n\n %s
+
+< MENU_WORKSHOP_ERROR_1 >
+沒有足夠權限進行此操作。
+
+< MENU_WORKSHOP_ERROR_2 >
+你已被禁止將內容上傳至創意工坊。\n請聯繫Steam客服。
+
+< MENU_WORKSHOP_ERROR_3 >
+超時，請稍後再試。
+
+< MENU_WORKSHOP_ERROR_4 >
+未連接至Steam。
+
+< MENU_WORKSHOP_ERROR_5 >
+創意工坊服務器目前不可用。\n請稍後再試。
+
+< MENU_WORKSHOP_ERROR_6 >
+某個提交區域中的數據無效。
+
+< MENU_WORKSHOP_ERROR_7 >
+已經超出了你的上傳限額。\n請刪除一些創意工坊物品後再試。
+
+< MENU_WORKSHOP_ERROR_8 >
+無法找到文件。\n請嘗試刪除mod文件夾下的workshop.dat後再試。
+
+< MENU_WORKSHOP_ERROR_9 >
+該項目已被提交。\n請刷新你的已提交項目。
+
+< MENU_WORKSHOP_ERROR_10 >
+一個項目已經使用了這個名稱。\n請確保你的項目名稱未被佔用。
+
+< MENU_WORKSHOP_ERROR_11 >
+由於最近發生過密碼或郵箱更改，你暫時無法上傳新內容。
+
+< MENU_WORKSHOP_ERROR_12 >
+拒絕訪問。
+
+< MENU_WORKSHOP_ERROR_13 >
+未知錯誤。
+
+< MENU_PLATE_FIRSTTIMEUNLOCK >
+你現在可以自定義你的玩家面板了！\n在此消息後會依據你所完成的活動、戰役\n與到達的等級解鎖一些項目。\n你可以在玩家信息->個人形象界面中自定義\n你的面板。
+
+< MENU_PREVIEW >
+預覽
+
+< MENU_PLATEBG_UNLOCK >
+解鎖了新的面板背景！
+
+< MENU_PLATEFRAME_UNLOCK >
+解鎖了新的面板邊框！
+
+< MENU_PLATEFRAME_PIN >
+解鎖了新的面板掛件！
+
+// eg.: Online Level 200 Reward
+< MENU_PLATE_STEAMLEVEL_REWARD >
+在線遊戲%d級獎勵
+
+< MENU_PLATE_EVENTCLEAR_REWARD >
+活動完成獎勵
+
+< MENU_PLATE_CAMPAIGNCLEAR_REWARD >
+戰役完成獎勵
+
+< MENU_PLATE_DLCPURCHASE_REWARD >
+DLC購買獎勵
+
+< MENU_NOW_SAVING >
+正在保存……
+
+// %% is not a typo. Keep it as is.
+< MENU_FRIENDLIST_HEADER >
+%d位好友在線。%d位好友正在玩100%%鮮橙汁！
+
+< MENU_FRIENDLIST_INVITE >
+邀請好友
+
+< MENU_CPU_CUSTOMIZATION_BTN >
+CPU設定
+
+< MENU_CPU_CUSTOMIZATION_TITLE >
+CPU自定義
+
+< MENU_VOCALIZER_GENERIC_CATEGORY >
+常規
+
+< MENU_VOCALIZER_NORMAL_CATEGORY >
+普通
+
+< MENU_VOCALIZER_SPECIAL_CATEGORY >
+特殊
+
+< MENU_ENDGAME_REWARDS_DISABLED >
+已禁用結算獎勵。
+
+< MENU_ACHIEVEMENTS_DISABLED >
+已禁用成就。
+
+< MENU_CODEX_INFO_LABEL >
+角色信息
+
+< MENU_CODEX_MORESOON_LABEL >
+將陸續更新更多角色！
+
+< MENU_CODEX_INSTRUCTION_1 >
+歡迎來到橙汁事典！\n你可以在這充滿了無窮智慧的界面中瀏覽角色簡介，\n未來還將更新更多內容。
+
+< MENU_CODEX_INSTRUCTION_2 >
+你可以通過用特定角色進行一定場數的任意在線遊戲模式\n解鎖角色信息。而過去已記錄的普通模式在線遊戲也將被\n計入進度內。
+
+< MENU_CODEX_INSTRUCTION_3 >
+當你使用一名角色進行50場在線遊戲時，將會解鎖\n對應角色的面板掛件。
+
+< MENU_CODEX_INSTRUCTION_4 >
+希望你能喜歡這項新功能。歡迎前往Steam論壇或我們的\nDiscord服務器進行反饋！
+
+< MENU_CODEX_TAB_LORE >
+角色背景
+
+< MENU_CODEX_TAB_STORIES >
+短篇故事
+
+< MENU_CODEX_READSTORY >
+閱讀故事
+
+< MENU_CODEXSTORY_TITLE_FAMILY >
+家人
+
+< MENU_CODEXSTORY_TITLE_CLASSCHANGE >
+轉職
+
+< MENU_CODEXSTORY_TITLE_LULUWATTY >
+同情
+
+< MENU_CODEXSTORY_TITLE_CONCIERGE >
+隨行
+
+< MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
+使用「{1}」進行{0}場遊戲。
+
+< MENU_CODEXSTORY_UNLOCKCOND_2UNITS >
+使用「{1}」或「{2}」進行{0}場遊戲。
+
+< MENU_CODEXSTORY_UNLOCKCOND_NUNITS >
+使用以下任意角色進行{0}場遊戲：{1}。
+
+< MENU_CODEXSTORY_UNLOCKCOND_EVENT >
+完成「{0}」活動。
+
+< MENU_CODEXSTORY_UNLOCKCOND_HATS_1UNIT >
+為「{0}」解鎖飾品或髮色。
+
+< MENU_CODEXSTORY_UNLOCKCOND_HATS_NUNITS >
+為以下任意角色解鎖飾品或髮色：{0}。
+
+< MENU_NORMABOARD >
+目標達成獎勵特長
+
+< MENU_HIDE_UI >
+隱藏界面
+
+< MENU_SHOW_UI >
+顯示界面
+
+< MENU_CARDBACK_UNLOCK >
+已解鎖新卡背！
+
+< MENU_CHAPTER_LABEL >
+輪數
+
+< MENU_UNAVAILABLE_LABEL >
+當前無法使用。
+
+< MENU_DIRECT_TO_SHOP_BUY_CARD >
+你可以用完成遊戲時獲得的星星，在商店購買卡包獲取更多卡片！
+
+< MENU_HOLD_CLICK_SPEEDUP >
+按住鼠標左鍵可加速
+
+[EOF]

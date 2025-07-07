@@ -1,0 +1,238 @@
+< PLAYERPLATE_STEAMLEVEL > 
+Уровень %d 
+
+< PLAYERPLATE_STEAMWINS > 
+Победы: %d
+
+< FREEBATTLE_CREATELOBBY >
+Режим истории
+
+< FREEBATTLE_JOINLOBBY >
+Войти в комнату
+
+< FREEBATTLE_SINGLEPLAYER >
+Свободная игра
+
+< FREEBATTLE_RETURN >
+Назад
+
+< LOBBYLIST_RETRIEVINGLOBBIES >
+Получаем список комнат.\nПодождите...
+
+< LOBBYLIST_RETRIEVINGDATA >
+Получаем информацию о комнатах...
+
+< LOBBYLIST_DATATIMEOUT >
+Время на получение информации истекло.
+
+< LOBBY_NOSTEAM >
+Не удалось соединиться со Steam.
+
+< LOBBY_CREATING >
+Создаём Steam-комнату...
+
+< LOBBY_CREATEFAILED >
+Не удалось создать Steam-комнату.
+
+< LOBBY_CONNECTING >
+Вход в комнату. Подождите...
+
+< LOBBY_CONNECTED >
+Вход в комнату удался.
+
+< LOBBY_CONNECTFAILED >
+Вход в комнату не удался.
+
+< LOBBY_NORESPONSE >
+Нет ответа.
+
+< LOBBY_GAMEABORTED >
+Игра была прервана.
+
+< LOBBY_JOINRESPONSE >
+Ждём ответа от сервера...
+
+< LOBBY_JOINFAILED >
+Не удалось присоединиться к игре.
+
+< LOBBY_FULL >
+В комнате нет мест.
+
+< LOBBY_STEAMID_EXISTS >
+Игрок с этим SteamID уже в игре.
+
+< LOBBY_WRONGPASSWORD >
+Неверный пароль.
+
+< LOBBY_BANNEDFROMLOBBY >
+Вам запрещён вход в эту комнату.
+
+< LOBBY_VERSIONDIFFERENCE >
+Версии не совместимы.
+
+< LOBBY_VERSIONUPDATE >
+Пожалуйста, обновите игру до последней версии.
+
+< LOBBY_HOSTHASOLDVERSION >
+Комната создана в старой версии игры.
+
+< LOBBY_LEAVECONFIRM >
+Выйти из комнаты?
+
+< LOBBY_LEAVEWAIT >
+Выходим, подождите...
+
+< LOBBY_PLAYERLEFT >
+Игрок вышел из игры.
+
+< LOBBY_KICKCONFIRM >
+Выгнать игрока?
+
+< LOBBY_KICKED >
+Выгнан из комнаты.
+
+< LOBBY_PLAYERCONNECTIONLOST >
+Связь с игроком потеряна.
+
+< LOBBY_HOSTCONNECTIONLOST >
+Связь с хостом потеряна.
+
+< LOBBY_REMOVEDFORIDLING >
+Вы исключены из-за долгого отсутствия в игре.
+
+< LOBBY_CHANGING_OWNER >
+Назначаем владельца комнаты...
+
+< LOBBY_REPLACINGPLAYER >
+Заменяем игрока ботом.
+
+< LOBBY_SPECTATOR_CONNECTING >
+Наблюдатель подключается...
+
+// Prefix: Spectator's name. 
+< LOBBY_SPECTATOR_JOINREQUEST >
+хочет присоединиться...
+
+< LOBBY_SPECTATOR_JOINREQUESTING >
+Ждём разрешения войти...
+
+< LOBBY_SPECTATOR_JOINDENIED >
+Отказано в присоединении.
+
+< LOBBY_SPECTATOR_JOINNOPLAYERSLOTS >
+Нет свободных мест для игроков.
+
+// LOBBY_SPECTATOR_JOIN + name + LOBBY_SPECTATOR_JOIN2
+// Spectator Domdi wants to join as player.
+< LOBBY_SPECTATOR_JOIN1 >
+Наблюдатель
+
+< LOBBY_SPECTATOR_JOIN2 >
+хочет присоединиться как игрок.
+
+< LOBBY_PLAYERTOSPECTATOR_CONFIRM >
+Смотреть за игрой?
+
+< LOBBY_SPECTATORTOPLAYER_CONFIRM >
+Стать игроком?
+
+< CHAT_TYPEPROMPT >
+<Введите сообщение и нажмите ENTER.>
+
+< CHAT_CONTROLLERTYPEPROMPT_1 >
+<Нажмите
+
+< CHAT_CONTROLLERTYPEPROMPT_2 >
+Чтобы открыть внутриигровую  клавиатуру и начать писать.>
+
+// 10 characters max.
+< CHAT_NAME_SYSTEM >
+СИСТЕМА
+
+// 10 characters max.
+< CHAT_NAME_EMPTY >
+<...>
+
+< CHAT_NAME_DASHES >
+--------
+
+< CHAT_MUTE_SELF_ERROR >
+Нельзя заглушить себя.
+
+< CHAT_MUTED_USER > 
+Вы заглушили игрока %s.
+
+< CHAT_UNMUTED_USER > 
+Игрок %s больше не заглушен.
+
+< CHAT_SYSTEM_LOBBYCREATED >
+Комната "%s" создана!
+
+< CHAT_SYSTEM_LOBBYJOINED >
+Вы присоединились к "%s"!
+
+< CHAT_SYSTEM_PLAYERJOINEDLOBBY >
+%s присоединился!
+
+< CHAT_SYSTEM_GAMEENDED >
+Игра окончена! Возвращаемся в комнату.
+
+< CHAT_SYSTEM_REQUESTEDPLAYERSLOT >
+Запрашиваем у хоста место для игрока...
+
+< CHAT_SYSTEM_REQUESTEDSPECTATORSLOT >
+Запрашиваем у хоста место для наблюдения...
+
+< CHAT_SYSTEM_PLAYERSLOTREQUESTTIMEOUT >
+Время запроса истекло.
+
+< CHAT_SYSTEM_SPECTATORSLOTREQUESTTIMEOUT >
+Время запроса истекло.
+
+< CHAT_SYSTEM_PLAYERTAKEOVER >
+%s стал игроком №%d.
+
+< CHAT_SYSTEM_SWITCHEDTOPLAYER >
+Вы стали игроком!
+
+< CHAT_SYSTEM_SWITCHEDTOSPECTATOR >
+Вы стали наблюдателем!
+
+< CHAT_SYSTEM_PLAYERSWITCHEDTOSPECTATOR >
+%s становится наблюдателем.
+
+< CHAT_SYSTEM_SPECTATORSWITCHEDTOPLAYER >
+%s становится игроком.
+
+< CHAT_SYSTEM_PLAYERHASLEFTGAME >
+%s выходит из игры.
+
+< CHAT_SYSTEM_LOSTCONNECTIONTOPLAYER >
+Потеряно соединение с %s.
+
+< CHAT_SYSTEM_CHEATDETECTED_CLIENT >
+%s попытался обмануть, разыграв недействительную карту.
+
+< CHAT_SYSTEM_CHEATDETECTED_HOST >
+%s попытался обмануть, разыграв недействительной картой, и был выгнан.
+
+// Invite = game invitation
+< GAMEINVITE_PENDING_TITLE >
+Приглашение в ожидании
+
+< GAMEINVITE_JOIN_TOOLTIP >
+Вернитесь в Главное меню чтобы присоединиться к игре.
+
+// Game speed: <nb>
+< GAMEINVITE_NORMAL_MODE_DETAILS >
+Скорость: %d
+
+// Game speed: <nb>, <boss name> — <boss difficulty>
+< GAMEINVITE_COOP_MODE_DETAILS >
+Скорость: %d, %s, %s
+
+< LOBBY_QUICKJOIN_TOOLTIP >
+Быстрая игра.
+
+[EOF]
+

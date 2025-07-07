@@ -1,0 +1,80 @@
+// CampaignScenario_CodexStory_ClassChange
+// (cook)
+<0000> Halena! Halena! Cook finally managed to catch up to you!
+// (halena)
+<0001> We agreed to meet here, didn't we? But you're quite late. Did something happen on the way?
+// (cook)
+<0002> Cook knew you'd know she wasn't just loafing off! Something very weird is happening!
+// (halena)
+<0003> It feels like a lot of weird things happen around this area.
+// (cook)
+<0004> Listen! A whole bunch of people started following Cook as soon as she came back to town!
+// (cook)
+<0005> They all had knives and forks in their hands! It was super scary!
+// (halena)
+<0006> Whoa!? Were you hurt?
+// (cook)
+<0007> No. Cook managed to give them the run around for a while.
+// (cook)
+<0008> But then she got tired, and they came closer and closer... Cook thought she was done for!
+// (cook)
+<0009> But then...
+// (halena)
+<0010> Please don't put a suspenseful pause after a sentence like that. I really am worried, you know!
+// (cook)
+<0011> Fweehee. But then, they all lined up politely behind Cook in an orderly queue!
+// (cook)
+<0012> So she asked them, "Huh? Didn't you want to eat me?"
+// (halena)
+<0013> And?
+// (cook)
+<0014> They said "No! Who would ever eat the Mythical Red Rooster?!"
+// (cook)
+<0015> How rude! Do they even know what a rooster is?! Hmph!
+// (halena)
+<0016> Well, putting that aside, I think I know what's going on.
+// (cook)
+<0017> You do?! From just that?
+// (halena)
+<0018> There's been a rumor flying around town lately about an amazing food critic.
+// (cook)
+<0019> Cook doesn't see how that's relevant.
+// (halena)
+<0020> She doesn't write reviews or anything, but if you follow her, you're guaranteed to find a good meal.
+// (cook)
+<0021> Whoa?! Cook needs to find her and follow her, then!
+// (halena)
+<0022> That's... probably not possible.
+// (halena)
+<0023> Cook, you go for food every time you come back after a flight, right?
+// (cook)
+<0024> Of course! Flying is hungry work.
+// (halena)
+<0025> And you know where all the best restaurants are, and all of their daily specials.
+// (cook)
+<0026> Cook's ability to find her next meal is second to none!
+// (halena)
+<0027> You're pretty visible up in the sky.
+// (halena)
+<0028> I bet they see you flying in, and then wherever you land has better food for cheaper than usual, so...
+// (cook)
+<0029> In other words...
+// (halena)
+<0030> In other words...
+// (cook)
+<0031> Cheep! Cook's become a food critic without even realizing it?!
+// (cook)
+<0032> And she's been giving out free advertising this whole time?!
+// (halena)
+<0033> Ahaha. I think that's probably true.
+// (cook)
+<0034> It's gross to have so many people watching Cook eat though. There's only one thing to do!
+// (halena)
+<0035> Oh?
+// (cook)
+<0036> Cook's gonna find one of those hidden gem, hole in the wall places nobody knows about and eat there!
+// (halena)
+<0037> That's exactly what a food critic would say.
+// (halena)
+<0038> Is this what they call a "class change?"
+

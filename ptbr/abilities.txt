@@ -1,0 +1,25 @@
+< SUMMER2020_A_CAST >
+name=Lançar
+descr=Lança a vara de pescar. Desativa o uso de outras habilidades enquanto estiver recarregando. Tempo de recarga: 2 segundos.
+
+< SUMMER2020_A_SIRENSIGHT >
+name=Visão de Sirene	
+descr=Olhe pela água, revelando lixo e peixes. Duração: 10 segundos. Tempo de recarga: 30 segundos.
+
+< SUMMER2020_A_IMPROVEDHOOK >
+name=Anzol Melhorado
+descr=Seu anzol irá submergir 50% mais rápido. Duração: 10 segundos. Tempo de recarga: 45 segundos.
+
+< SUMMER2020_A_TREASURE >
+name=Tesouro do mar
+descr=O próximo peixe que você pegar terá 2x o seu valor inicial. Uso único.
+
+< SUMMER2020_A_BLESSING >
+name=Benção do Rio
+descr=Peixe irá se mover 25% mais rápido. Desativa o uso de outras habilidades além de Lançar enquanto ativo. Pode estocar. Duração: 10 segundos. Tempo de recarga: 20 segundos.
+
+< SUMMER2020_A_MASTERY >
+name=Pescador Mestre
+descr=Reseta o tempo de recarga de todas as habilidades, exceto habilidades de uso único e Lançar. Uso único.
+
+[EOF]

@@ -1,0 +1,193 @@
+
+// ========= Scene: Summer 2021 Event Start =========
+
+<9999> Esta é a história de um sonho de verão que pode ou não ter acontecido.
+
+// (tomomo)
+<0000> "Mano, nada melhor que um suco de laranja bem gelado em um dia quente de verão!"
+
+// (yuki)
+<0001> "Né? To amando também."
+
+// (tomomo)
+<0002> "Bom, eu curto ficar em salas com ar condicionado como essa, mas eu meio que queria ir até a praia antes que o verão acabe."
+
+// (tomomo)
+<0003> "Quer dizer, se eu conseguisse nadar..."
+
+// (yuki)
+<0004> "Quê? Você não sabe nadar? Quer que eu te ensine?"
+
+// (tomomo)
+<0005> "O quê? Você sabe nadar? Achava que gatos não sabiam."
+
+// (yuki)
+<0006> "Eu não sou uma gata ordinária. Não existe nada que uma gata como eu não possa fazer."
+
+// (tomomo)
+<0007> "Me ensine! Me faça poder nadar!"
+
+// (yuki)
+<0008> "Claro, mas você vai me dever um sushi de otoro de jantar."
+
+// (tomomo)
+<0009> "Otoro é super caro! M-mas não tenho escolha... Certo, o que você disser!"
+
+// (yuki)
+<0010> "Certo, é um acordo então."
+
+// (yuki)
+<0011> "Então, por que não vamos até a piscina pública daqui de perto por agora?"
+
+// (mio)
+<0012> "Hehehe, minha doce anja está indo até a piscina, então."
+
+// (tomomo&yuki)
+<0013> "Estamos na piscina!"
+
+// (yuki)
+<0014> "Espera, o que é aquela boia enorme de natação?"
+
+// (tomomo)
+<0015> "Bom, eu estou com muito medo de entrar na água sem ela!"
+
+// (yuki)
+<0016> "Você tem 5 anos de idade por acaso?"
+
+// (tomomo)
+<0017> "Calada! Eu preciso disso, não importa o que você diga!"
+
+// (yuki)
+<0018> "*Suspira* Bem, creio que devíamos começar fazendo você se acostumar com a água, então."
+
+// (tomomo)
+<0019> "Oh, olhe, não é o Kai ali?"
+
+// (yuki)
+<0020> "Oh, sim. Parece que ele está sozinho."
+
+// (tomomo)
+<0021> "Hehehe, que rapaz triste. Eu tenho certeza que ele iria gostar se uma garota fofa e carinhosa como eu falasse oi para ele."
+
+// (tomomo)
+<0022> "Ei, Kaaai!"
+
+// (kai)
+<0023> "Ãhn? Oh, são vocês."
+
+// (tomomo)
+<0024> "Sua mãe não te ensinou como cumprimentar pessoas? Enfim, quer se juntar a nós? Eu só vou praticar natação, entretanto."
+
+// (kai)
+<0025> "Eu estou me divertindo nadando sozinho aqui. Me deixe em paz."
+
+// (yuki)
+<0026> "Tomomo, pare de perder tempo com esse babaca. Nós devíamos ir a algum outro local para começarmos."
+
+// (mio)
+<0027> "Tomomooo♥"
+
+// (tomomo)
+<0028> "Ah não, Mio!? Que raios você está fazendo aqui?"
+
+// (mio)
+<0029> "Para brincar com você, é claro♥ Pra que mais seria?"
+
+// (tomomo)
+<0030> "Eu estou aqui para aprender a nadar! Não para brincar!"
+
+// (mio)
+<0031> "Então, deixe sua mamãe te ajudar com isso. Aqui vai!"
+
+// (tomomo)
+<0032> "Pare de falar que você é minha mamãe! Ãhn, mas o que, minha boia...!"
+
+// (yuki)
+<0033> "As boias e bolas de praia de outras pessoas estão subindo até os céus, também... e estão combinando em uma coisa só!"
+
+// (mio)
+<0034> "Ta-da. Você pode praticar o quanto você desejar com esse grandalhão aqui."
+
+// (tomomo)
+<0035> "Idiota! Me dê de volta minha boia! Eu não posso entrar na água sem ela!"
+
+// (tomomo)
+<0036> "Quer dizer, outro monstro gigante? Você não sabe fazer nada melhor não?"
+
+// (mio)
+<0037> "Que rude. Bom, talvez vocês consigam suas coisas de volta se vocês o derrotarem."
+
+// (tomomo)
+<0038> "Raios! Certo, vou pegar de voltar custe o que custar! Yuki, Kai, me ajudem!"
+
+// (yuki)
+<0039> "Isso será divertido."
+
+// (kai)
+<0040> "Quê? Por que eu?"
+
+// (tomomo)
+<0041> "Apenas cale-se e me ajude!"
+
+// (kai)
+<0042> "Tá bom, tá bom..."
+
+// (mio)
+<0043> "Boa sorte♥"
+
+// ========= Scene: Summer 2021 Event Ending =========
+
+// (tomomo)
+<0044> "Certo! Derrotamos o monstro! E eu consegui minha boia de volta!"
+
+// (yuki)
+<0045> "Ele não era tão forte quanto parecia."
+
+// (kai)
+<0046> "O que eu fiz para merecer isso..."
+
+// (mio)
+<0047> "O que você achou, Tomomo? Você se divertiu?"
+
+// (tomomo)
+<0048> "De jeito nenhum! Eu poderia ter aprendido a nadar já se não fosse por você!"
+
+// (yuki)
+<0049> "Você não percebeu, Tomomo?"
+
+// (kai)
+<0050> "Você estava nadando enquanto a gente estava lutando contra aquele monstro."
+
+// (tomomo)
+<0051> "Sério?! Eu estava muito focada para perceber..."
+
+// (mio)
+<0052> "Eu disse que ia te ajudar♥"
+
+// (tomomo)
+<0053> "Mio, você de fato é uma bo-..."
+
+// (mio)
+<0054> "Com isso dito, você não precisa dessa boia mais, né?"
+
+// (tomomo)
+<0055> "Hmm, acho que não..."
+
+// (mio)
+<0056> "Para celebrar seu crescimento, eu vou criar um monstro mais forte para você nadar com ele!"
+
+// (tomomo)
+<0057> "Espera, como é que é?"
+
+// (kai)
+<0058> "O que raios ela está falando...?"
+
+// (yuki)
+<0059> "Eu não esperava por essa. Aquela garota nunca se cansa."
+
+// (mio)
+<0060> "Prontinho. Agora você pode nadar o quanto quiser, Tomomo♥"
+
+// (tomomo)
+<0061> "E é por isso que ninguém quer ser seu amigo!"
+

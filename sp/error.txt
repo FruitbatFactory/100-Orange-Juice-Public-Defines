@@ -1,0 +1,9 @@
+
+< ERROR_CAPTION >
+Error
+
+< ERROR_SAVE_TOO_NEW >
+Su partida parece ser de una versión no compatible con la actual. Por favor, actualice su juego a la última versión para continuar. El juego va a cerrarse.
+
+[EOF]
+

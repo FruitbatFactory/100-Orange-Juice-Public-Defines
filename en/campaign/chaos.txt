@@ -1,0 +1,21 @@
+
+// ========= Scene: Chaos Event Start =========
+
+<0000> On one perfectly boring day...
+
+// (poppo)
+<0001> "Pomu.... Poppo is bored."
+
+// (poppo)
+<0002> "Poppo!"
+
+// (poppo)
+<0003> "Poppo?"
+
+// (poppo)
+<0004> "Chaos... Poppo!!!"
+
+// (poppo)
+<0005> "Po! Chaos! Poppo!"
+
+<0006> ...Suddenly it was no longer a perfectly boring day.

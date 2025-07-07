@@ -1,0 +1,40 @@
+< EVENTNAME_MINIONS_OF_THE_MASTER >
+Capangas do Mestre
+
+< EVENTNAME_MASTER_OF_THE_MINIONS >
+Mestre dos Capangas
+
+< EVENTNAME_BOUNTY_HUNTERS >
+Caçadores de Recompensa
+
+< EVENTNAME_MASTER_ANGLERS >
+Pescadores Mestres
+
+< EVENTNAME_POOL_PARTY >
+Festa na Piscina
+
+< EVENTNAME_BEACH_PARTY >
+Festa na Praia
+
+< EVENTNAME_SHROOM_ZOOM >
+Zoom do Cogumelo
+
+< EVENTNAME_BOUNTY_HUNGERS >
+Caçadores de Guloseimas
+
+< EVENTNAME_SCHOOL_CRASHERS >
+Penetras Escolares
+
+< EVENTNAME_CHAOS_MODE >
+Modo do Caos
+
+< EVENTNAME_S3_TAGTEAM_MODE >
+Crise Extracurricular
+
+< EVENTNAME_WINTER2023 >
+Reparadores de Memórias
+
+< EVENTNAME_POPPO >
+Evento Poppo
+
+[EOF]

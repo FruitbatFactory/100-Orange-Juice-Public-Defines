@@ -1,0 +1,116 @@
+< TUTORIAL_SECTION_BASICS > 
+Básicos
+
+< TUTORIAL_SECTION_BATTLE > 
+Batalha
+
+< TUTORIAL_SECTION_PANELS > 
+Painéis
+
+< TUTORIAL_SECTION_CARDS > 
+Cartas
+
+< TUTORIAL_SECTION_COOP > 
+Co-op
+
+< TUTORIAL_SECTION_BOUNTYHUNT > 
+Caça de Recompensa
+
+< TUTORIAL_VIDEO_OFFER >
+Bem-vindos a Orange Juice! Você gostaria de assistir a um vídeo tutorial de 4 minutos? (RECOMENDADO)\nVocê pode assistir esse vídeo quando quiser no Guia.
+
+< TUTORIAL_00 >
+Bem-vindos a 100% Orange Juice! Nós vamos explicar alguns dos básicos - se desejar, você pode apenas pular a explicação.
+
+< TUTORIAL_01 >
+Este é um jogo de tabuleiro para 4 jogadores onde o desafio comum é atingir a "Norma" de nível 6 para ganhar.
+
+< TUTORIAL_02 >
+Você joga dados para se mover em um tabuleiro de jogo - painéis de cores diferentes possuem efeitos diferentes.
+
+< TUTORIAL_03 >
+Este é um painel de casa. Você sempre começa em um, e deve parar em um desses para poder evoluir ou ganhar o jogo.
+
+< TUTORIAL_04 >
+Cada jogador possui sua própria casa numerada que eles podem decidir parar. Você pode visitar a casa de qualquer outro jogador rolando o número exato, entretanto.
+
+< TUTORIAL_05 >
+Seu primeiro objetivo é coletar 10 estrelas para evoluir, e então parar em uma casa. Após isso você pode escolher entre coletar estrelas ou lutar batalhas para ganhar mais Vitórias para sua próxima evolução.
+
+< TUTORIAL_06 >
+A propósito, nós recomendamos tentar uma norma de estrela se você estiver em dúvida sobre qual escolher. Você receberá mais estrelas a cada capítulos, então você nunca vai estar impedido de prosseguir.
+
+< TUTORIAL_07 >
+Painéis amarelos são painéis de Bônus, e irão deixar você jogar um dado para receber estrelas. Você receberá em estrela seu nível atual multiplicado pelo número que conseguiu no dado (até um multiplicador máximo de 3).
+
+< TUTORIAL_08 >
+Painéis azuis são painéis de Perda, e você perderá estrelas se pisar em um. Você perderá estrelas equivalente ao seu nível atual multiplicado pelo número que conseguiu no dado (até um multiplicador máximo de 5).
+
+< TUTORIAL_09 >
+Verde é um painel de Compra, e te permite comprar uma carta.
+
+< TUTORIAL_10 >
+Vermelho é um painel de Encontro, e você será forçado a lutar com um inimigo selvagem. Se você vencer, você receberá Vitórias e estrelas.
+
+< TUTORIAL_11 >
+Roxo é o painel de Teleporte - e irá te mandar para outro painel de Teleporte aleatório que tenha uma saída.
+
+< TUTORIAL_12 >
+Existem outros painéis mais avançados também... você irá aprender como funcionam conforme você joga!
+
+< TUTORIAL_13 >
+Se você atravessar outra unidade enquanto se move, você terá a oportunidade de desafiá-la para uma batalha!
+
+< TUTORIAL_14 >
+Você pode posicionar o mouse em cima do retrato de uma unidade no canto da tela para ver suas habilidades. Elas afetam o quão boa tal unidade é em batalha.
+
+< TUTORIAL_15 >
+Em batalha, o atacante primeiro joga o dado para dano, e se eles tiverem qualquer valor Bônus de Ataque, este será adicionado ao valor do dado.
+
+< TUTORIAL_16 >
+O defensor pode escolher usar a Defesa, que irá diminuir o dano que ele irá tomar de acordo com seu valor de dado, a um mínimo de 1.
+
+< TUTORIAL_17 >
+Se você escolher Evasão, então deverá tirar um valor maior do que o de ataque para anular todo o dano. Caso contrário, irá tomar o dano completo.
+
+< TUTORIAL_18 >
+Se sobreviver ao primeiro ataque, o defensor terá seu turno para atacar de volta!
+
+< TUTORIAL_19 >
+Se o HP de um dos jogadores chegar a zero, ele sofrerá nocaute e o vencedor receberá 50% de suas estrelas, e ganhará duas Vitórias!
+
+< TUTORIAL_20 >
+Agora, vamos falar das cartas! Cada jogador escolhe 10 cartas para trazer ao jogo, e elas são embaralhadas juntas em um Baralho Central, junto com outras 8 Cartas de Hiper, que estão em branco.
+
+< TUTORIAL_21 >
+Você deve tentar trazer cartas que irão ajudar a sua unidade escolhida mais do que irão ajudar seus inimigos.
+
+< TUTORIAL_22 >
+Cada unidade possui uma Carta de Hiper única. Se você pegar uma Carta de Hiper em branco, ela irá se tornar na Carta de Hiper de sua unidade. Elas costumam ter efeitos poderosos que alteram o jogo inteiro!
+
+< TUTORIAL_23 >
+Repare que cada carta tem um nível de 1 a 5, marcado à esquerda. Você precisa evoluir para o nível equivalente para usar a carta. A maioria delas também custam estrelas para usar (marcado à direita).
+
+< TUTORIAL_24 >
+Muitos campos possuem 'Efeitos de Campo', que ativam em certos intervalos. Você pode passar o mouse sobre o botão 'Info' para ver os efeitos de campo, e muito mais.
+
+< TUTORIAL_25 >
+Por exemplo, o Efeito de Campo 'Caridade' permite que cada jogador compre uma carta do Baralho Central a cada 5 capítulos.
+
+< TUTORIAL_26 >
+Assim que o primeiro jogador alcançar a Norma nível 4 no modo Versus, um Chefão poderoso irá aparecer no campo, alterando todos os painéis de encontro em painéis de Chefão. Tenha cuidado e evite lutar contra ele!
+
+< TUTORIAL_27 >
+Após cada partida você irá receber algumas Estrelas como recompensa, que você pode usar para comprar novas cartas e muito mais na Loja.
+
+< TUTORIAL_28 >
+Ao jogar online ou no modo Co-op, você também receberá Laranjas que podem ser usadas para destravar diversos tipos de cosméticos na Loja.
+
+< TUTORIAL_29 >
+Se existir no momento um evento ativo, você pode achar mais detalhes sobre ele clicando no banner de evento no menu principal.
+
+< TUTORIAL_30 >
+Por favor, aproveite o jogo... e tome cuidado com a Marie Poppo!
+
+
+[EOF]

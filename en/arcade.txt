@@ -1,0 +1,106 @@
+< ITEMDEF_PET_DISPLAY_TYPE > 
+Pet
+
+< ITEMDEF_TOKEN_DISPLAY_TYPE > 
+Arcade Token
+
+
+
+
+< RARITY_COMMON >
+Common
+
+< RARITY_UNCOMMON >
+Uncommon
+
+< RARITY_RARE >
+Rare
+
+< RARITY_SUPER_RARE >
+Super Rare
+
+< PET_SELECT_NOPET >
+No Pet
+
+
+< ARCADE_ORANGE_GET >
+You Got Oranges!
+
+< ARCADE_PET_GET >
+Pet Get!
+
+< ARCADE_COMMON_GET >
+You Got a Common Item!
+
+< ARCADE_NEW_PET_COLOR >
+New Color Obtained!
+
+< ARCADE_PLAY>
+PLAY
+
+< ARCADE_EXCHANGE >
+Exchange
+
+< ARCADE_LOADING >
+Loading...
+
+
+< ARCADE_EXCHANGE_NOPET >
+No pet selected.
+
+< ARCADE_EXCHANGE_CONFIRM >
+Exchange this pet?
+
+< ARCADE_ERROR_STEAM >
+You are not connected to Steam.
+
+< ARCADE_ERROR_MISC >
+Error. Please try again later.
+
+< ARCADE_ERROR_TOKEN_COUNT >
+You do not have enough tokens.
+
+< ARCADE_ERROR_EXCHANGE_QUANTITY >
+Not enough pets to exchange.
+
+< ARCADE_ERROR_TIMEOUT >
+Timeout. Please try again later.
+
+< ARCADE_TOOLTIP_PETCATCHER >
+Use 3 tokens to earn a pet or common item!
+
+< ARCADE_TOOLTIP_EXCHANGE >
+Exchange 2 of the same pet catcher pet for a new color!
+
+< ARCADE_TOOLTIP_EMOTES >
+Obtain new chat emotes!
+
+< ARCADE_TOOLTIP_CONSUMABLES >
+Purchase items for use in-game!
+
+< ARCADE_TOOLTIP_GAMEMACHINE >
+Play previously released minigames!
+
+< ARCADE_MACHINE_PETCATCHER >
+Pet Catcher
+
+< ARCADE_MACHINE_SUMMER >
+Summer Pet Catcher
+
+< ARCADE_MACHINE_BOUNTYHUNT >
+Bounty Hunt Pet Catcher
+
+< ARCADE_MACHINE_EXCHANGE >
+Pet Exchange
+
+< ARCADE_MACHINE_EMOTES >
+Emote Gachapon
+
+< ARCADE_MACHINE_CONSUMABLES >
+Vending Machine
+
+< ARCADE_MACHINE_BUILD_A_CASTLE >
+Build-a-Castle
+
+< ARCADE_MACHINE_SCHOOL_CRASHERS >
+School Crashers

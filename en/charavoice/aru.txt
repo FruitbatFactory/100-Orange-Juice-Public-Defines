@@ -1,0 +1,161 @@
+
+<0000> Here!
+<0001> Yah!
+<0002> Tah!
+<0003> There!
+<0004> I think I'll use a card.
+<0005> Card!
+<0006> Okay, I'll go with this one!
+<0007> Here I go!
+<0008> *Sneaky sneaky*...
+<0009> This goes... down here.
+<0010> Santa trap... all set.
+<0011> Trap!
+<0012> I cannot afford to lose!
+<0013> I'm going to use something like this!
+<0014> This one it is!
+<0015> Battle card!
+<0016> Everyone, it's time for presents!
+<0017> Uu, I really need to make up for lost time!
+<0018> I have no more time to waste! I've got to go!
+<0019> This is only the beginning!
+<0020> I'm never going to go down again!
+<0021> This can't be happening!
+<0022> Hauu...
+<0023> Whaaat!?
+<0024> Oh no!
+<0025> Eiyaah!
+<0026> There!
+<0027> Here I go!
+<0028> How's that?
+<0029> Oww!
+<0030> Unan!
+<0031> Hee!
+<0032> Owah!
+<0033> It's so comfy.
+<0034> Fuaah... I'm getting better...
+<0035> This feels so good...
+<0036> Healing!
+<0037> Wah wah!?
+<0038> Where are you flying me over!?
+<0039> Where will I end up?
+<0040> Wawah!
+<0041> Not... now...
+<0042> I'm finished...
+<0043> I'll just collapse...
+<0044> I can't budge an inch...
+<0045> Battle me!
+<0046> I'm going to show you my Santa powers!
+<0047> I'm raring to go!
+<0048> Bring it on!
+<0049> Will you get out of my way!?
+<0050> What? You want to fight me!?
+<0051> Stop blocking my way or else...
+<0052> I accept your challenge!
+<0053> Present attack!
+<0054> Take that! Take that!
+<0055> Eat this!
+<0056> Toryaah!
+<0057> Uheh!
+<0058> Mhma!
+<0059> That hurts!
+<0060> Awawah!
+<0061> Ugh!
+<0062> Gyaa!
+<0063> Goff!
+<0064> Awawawawah!
+<0065> Jump!
+<0066> You missed!
+<0067> Look how well I can dodge!
+<0068> That's too slow!
+<0069> Alright, I won!
+<0070> Nailed it!
+<0071> Okay, I'm moving on.
+<0072> Phew, I managed to win.
+<0073> Ugh, this is not good...
+<0074> I lost...
+<0075> Auu, you're so strong...
+<0076> Can't believe I lost...
+<0077> Stars!
+<0078> The stars are shining!
+<0079> Wow, they're pretty!
+<0080> A gift of stars!
+<0081> Wawawah, my stars!
+<0082> Wah, I dropped some stars!
+<0083> Stars, wait for me!
+<0084> Auu... The stars are gone...
+<0085> A trap!?
+<0086> Uaah, it's a trap!
+<0087> Howah!
+<0088> Oh shoot!
+<0089> Fue!? Someone came out of nowhere!?
+<0090> Awawah...
+<0091> I'll beat whoever is standing in my way!
+<0092> This guy looks pretty strong...
+<0093> I choose to gather stars!
+<0094> I like star-gathering.
+<0095> I guess I'll get myself a bunch of stars.
+<0096> Stars it is!
+<0097> I know I'm not a good fighter, but still...
+<0098> I'll give no mercy to anyone who tries to stop me!
+<0099> I'll fight with the support of my Santa powers!
+<0100> Bad kids must be punished!
+<0101> Welcome to Rbit Room... Oh no, never mind!
+<0102> You wanna help me give kids presents?
+<0103> Okay, it's time for work!
+<0104> Kids around the world, I'm on my way!
+<0105> And thus it begins!
+<0106> Alright, I'll do my best!
+<0107> I'm going to use everything I have to win!
+<0108> I won't lose!
+<0109> Merry Christmas!
+<0110> Here are your presents, good boys and girls!
+<0111> Fufufu, I did it!
+<0112> Hooray, I won!
+<0113> Here's a present for you.
+<0114> Fufu, Santa will give you a present now.
+<0115> I hope you like it.
+<0116> Here, this is for you.
+<0117> Can we switch now?
+<0118> Good luck!
+<0119> Sorry, but I have to ask you to take over.
+<0120> Thanks, I'm leaving the rest to you!
+<0121> Okay!
+<0122> Good!
+<0123> Yeah!
+<0124> No!
+<0125> Oh no!
+<0126> Lucky you!
+<0127> Huh?
+<0128> Let's go.
+<0129> It's dice time!
+<0130> Let's get going!
+<0131> Hello!
+<0132> Hmm...
+<0133> That's great!
+<0134> That's incredible!
+<0135> Darn...
+<0136> Let me borrow this for a bit!
+<0137> What kind of power does this have?
+<0138> I'm using this one.
+<0139> Can't wait to see what will happen!
+<0140> Here's a present for you!
+<0141> Oh, Ms. Q... Whoops, I don't need to call her that now.
+<0142> Welcome to the Rbit Room... Whoops, it just slipped out of my mouth.
+<0143> I'm sorry, bunnies...
+<0144> Uu, I'm glad that someone this strong is a regular at my shop...
+<0145> You, I know you're a bad person!
+<0146> Boy, that's one dangerous woman.
+<0147> No presents for bad people!
+<0148> It's just my outfit that's red...
+<0149> Wow, such a little kid.
+<0150> What? You two are bad kids?
+<0151> Be good girls and I'll give you two presents.
+<0152> Uu, I knew you two were bad kids...
+<0153> Are you a good girl?
+<0154> Wawah, a little girl!
+<0155> Fufufu, look forward to my present for you.
+<0156> I thought you were a good girl...
+<0157> Wawah, my presents!
+<0158> Here are presents for you!
+<0159> Now everyone, in formation, just like we've trained!

@@ -1,0 +1,359 @@
+
+// ========= Scene: Fall 2020 Event Start =========
+
+// (lulu)
+<0000> ¿D-dices que están aquí?
+
+// (ellie)
+<0001> Si los rumores son ciertos... ¡Sí!
+
+// (lulu)
+<0002> Está tan oscuro... Lulu tiene miedo...
+
+// (ellie)
+<0003> Camina con cuidado, Lulu. Tómalo con calma, ¿está bien?
+
+// (lulu)
+<0004> Gracias... Aunque tú no pareces estar muy preocupada, Ellie.
+
+// (ellie)
+<0005> Podría decirse que la exploración de mazmorras es todo dentro de una aventura. ¡No le temo a este tipo de lugares!
+
+// (lulu)
+<0006> Joaah... Realmente estamos dentro de una aventura...
+
+// (lulu)
+<0007> ¡De ser así, Lulu tampoco debería sentir mucho temor!
+
+// (ellie)
+<0008> ¡Ese es el espíritu, Lulu!
+
+// (ellie)
+<0009> ¡Si encontramos los tesoros enterrados en esta cueva, seremos ricas y tendremos el dinero suficiente para comprar lujos en nuestra jornada!
+
+// (lulu)
+<0010> ¡Lujos...! A Lulu le gusta cómo suena.
+
+// (ellie)
+<0011> ¡Aja! Así que debemos encontrarlos, no importa lo que suceda.
+
+// (ellie)
+<0012> ¡El legendario Hongo Rojo y el super raro Hongo Azul!
+
+// (lulu)
+<0013> ¡Sí! ¡Lulu trabajará muy duro para encontrarlos!
+
+// (???)
+<0014> ¡No tan rápido!
+
+// (ellie)
+<0015> ¡¿?!
+
+// (lulu)
+<0016> ¡¿Quién está ahí?!
+
+// (maynie)
+<0017> ¡Todos los hongos de esta cueva serán de la Señora Arnelle!
+
+// (lulu)
+<0018> ¿¿¿???
+
+// (maynie)
+<0019> ¡Si es que realmente pueden llamarse aventureras, deberían saber el nombre de esta gran individua! ¡Una persona qué creará miles de logros y metas!
+
+// (arnelle)
+<0020> Ku-ku-ku... ¡Fujajajaja!
+
+// (arnelle)
+<0021> ¡Yo soy Arnelle, considerada la cazadora de tesoros más grande que el mundo haya visto!
+
+// (maynie)
+<0022> ¡Kyaa! ¡Eres tan genial, Señora Arnelle!
+
+// (ellie)
+<0023> ......
+
+// (lulu)
+<0024> ¿Sra. Arnelle...? ¿Ellie, acaso tú sabes quién es?
+
+// (ellie)
+<0025> Aja, nunca oí hablar de ella.
+
+// (ellie)
+<0026> Además, esa chica dijo que "creará" logros y metas. Eso significa que aún no ha creado ni logrado nada.
+
+// (lulu)
+<0027> ¡Ah, tienes razón!
+
+// (arnelle)
+<0028> ¡Ugh...!
+
+// (maynie)
+<0029> ¡¿Pero qué rayos?! ¿Cómo pueden no conocer a la Señora Arnelle? ¡Deberían sentirse avergonzadas!
+
+// (maynie)
+<0030> ¡Deberíamos patear sus traseros aquí y ahora, Señora Arnelle!
+
+// (arnelle)
+<0031> No hay que ir tan lejos...
+
+// (ellie)
+<0032> ¿Qué? ¿Quieres pelear? ¡Entonces ven y pelea!
+
+// (maynie)
+<0033> ¡Qué osadía! Si te lastimas, no será mi problema...
+
+// (arnelle)
+<0034> ¡Ya cálmate, Maynie!
+
+// (maynie)
+<0035> ...Oh.
+
+// (arnelle)
+<0036> Pelear con ellas no tendría ningún sentido.
+
+// (maynie)
+<0037> Señora Arnelle...
+
+// (arnelle)
+<0038> Todas estamos aquí por los hongos, por lo que deberíamos competir por ellos. ¡Sería una guerra de hongos!
+
+// (ellie)
+<0039> ¡¿Una guerra de hongos?!
+
+// (arnelle)
+<0040> El hongo legendario y el hongo super raro... Aún si ambos crecen en este lugar, esto se trata de algo muy escaso.
+
+// (arnelle)
+<0041> Así que, quien obtenga ambos hongos gana. Las reglas son simples y claras, ¿verdad?
+
+// (ellie)
+<0042> Aja ♥ ¡Muy bien, desafío aceptado!
+
+// (lulu)
+<0043> Ellie, ¿estás segura de esto?
+
+// (ellie)
+<0044> ¡No te preocupes! No hay forma de que una cazadora de tesoros tan poco popular pueda vencerme.
+
+// (maynie)
+<0045> ¡¿Qué rayos?! ¡La Señora Arnelle será la que encuentre ambos hongos primero, ya lo verán!
+
+// (arnelle)
+<0046> Qué la guerra de hongos...
+
+// (lulu)
+<0047> ¡Comience!
+
+// ========= Scene: Fall 2020 Event Ending =========
+
+// (lulu)
+<0048> ¡A-aquí está! ¡El legendario Hongo Rojo!
+
+// (ellie)
+<0049> Mira ese aspecto tan rojo y venenoso... ¡Es este, definitivamente!
+
+// (ellie)
+<0050> Aja ♥ ¡Bien hecho, Lulu!
+
+// (arnelle)
+<0051> Ku-ku-ku...
+
+// (ellie)
+<0052> ¡¿?!
+
+// (arnelle)
+<0053> Parece que han encontrado uno de los hongos.
+
+// (ellie)
+<0054> ¡Es la cazadora de tesoros!
+
+// (maynie)
+<0055> ¡Qué bien, Señora Arnelle! Ahora que tenemos el Hongo Azul, podríamos quitarles ese Hongo Rojo que llevan ahí...
+
+// (arnelle)
+<0056> ¡Ambos hongos serán nuestros!
+
+// (ellie)
+<0057> ¿Ajaaa? ¡Eso nunca sucederá! ¡Nos quedaremos con el hongo que llevan ahí!
+
+// (ellie)
+<0058> *Jadeo, jadeo* Eres buena en esto, debo admitirlo.
+
+// (maynie)
+<0059> *Jadeo, jadeo* También tú.
+
+// (lulu)
+<0060> Es-esta ha sido una batalla intensa...
+
+// (arnelle)
+<0061> Ha sido un combate muy entretenido...
+
+// (arnelle)
+<0062> Pero, aun así, esta es una guerra de hongos. Así que, niñita, si estás tan concentrada en la pelea...
+
+// (arnelle)
+<0063> ¡Permíteme sostener ese hongo por ti!
+
+// (lulu)
+<0064> ¿Qué?
+
+// (ellie)
+<0065> ¡¿?! ¡No lo permitiré!
+
+// (arnelle)
+<0066> Ugh.
+
+// (ellie)
+<0067> Lulu, ¿te encuentras bien?
+
+// (lulu)
+<0068> ¿Qué, Ellie? Lulu se encuentra bien... Pero... el hongo... está...
+
+// (ellie)
+<0069> ¡Dios mío! ¡Tiene un rasguño...!
+
+// (arnelle)
+<0070> Oh-oh. Nadie compraría un hongo dañado... Qué desperdicio.
+
+// (ellie)
+<0071> ¡No deberías actuar como si fuera gracias a nosotras! ¡Tú eres la que lo dañó!
+
+// (ellie)
+<0072> ¿No te sientes avergonzada de llamarte a ti misma una cazadora de tesoros, al intentar robar un tesoro, fallar y entonces arruinarlo?
+
+// (arnelle)
+<0073> ¡Arrgh! ¡N-no necesito que le añadas sal a la herida con un argumento justo...!
+
+// (maynie)
+<0074> ¡No te preocupes, Señora Arnelle! ¡Todo lo que ella diga suena como las uvas malas de una mala perdedora!
+
+// (arnelle)
+<0075> S-sí, tienes razón.
+
+// (arnelle)
+<0076> Muy bien, me quedaré con ese Hongo Rojo. Ya no tienes uso para él.
+
+// (arnelle)
+<0077> Aún si está dañado, podría venderse por una poca cantidad de dinero.
+
+// (ellie)
+<0078> ¡Ajaaa! ¿Entregártelo a ti? ¡Preferiría hacer esto...!
+
+// (ellie)
+<0079> *Mordisco*
+
+// (maynie)
+<0080> ¡¿Aaaah?! Ella...
+
+// (arnelle)
+<0081> ¡¿Se comió el hongo?!
+
+// (ellie)
+<0082> *Mordisco, mordisco* B-bueno, el hongo legendario parece tener un buen sabor...
+
+// (maynie)
+<0083> ¡Está loca...!
+
+// (arnelle)
+<0084> Comer los hongos de esa forma no es nada bueno...
+
+// (lulu)
+<0085> ¿Qué?
+
+// (arnelle)
+<0086> Tendremos que salir de aquí antes de que esa chica pierda el control, Maynie.
+
+// (maynie)
+<0087> E-está bien, Señora Arnelle...
+
+// (ellie)
+<0088> No, nOooo lOoo haráaaAan.
+
+// (lulu)
+<0089> ¡¿Ellie?! ¡¿Qué es lo que ocurre?!
+
+// (ellie)
+<0090> ¡Ukyaaaaaah!
+
+// (maynie)
+<0091> ¡¿Qué le está ocurriendo?!
+
+// (arnelle)
+<0092> ¡Los hongos son venenosos, comerlos sin cocinarlos causarían fuertes alucinaciones!
+
+// (lulu)
+<0093> ¡¿Wuuuu?!
+
+// (ellie)
+<0094> CóMeElOo...
+
+// (ellie)
+<0095> ¡DáAaMe EeSeE hOnGoOo!
+
+// (arnelle)
+<0096> Ah, rayos...
+
+// (maynie)
+<0097> ¡Nuestro Hongo Azul...!
+
+// (ellie)
+<0098> AjAaA AjAaA...
+
+// (maynie)
+<0099> ¡Regrésalo!
+
+// (ellie)
+<0100> CoOoÓmEeE.
+
+// (maynie)
+<0101> ¡¿Agh?!
+
+// (ellie)
+<0102> ¡TúU tAaMbIeÉeN lO cOoOmErÁaS!
+
+// (arnelle)
+<0103> ¡El hongo entró en la boca de Maynie!
+
+// (maynie)
+<0104> Ugh... *Trago*
+
+// (arnelle)
+<0105> Y lo comió...
+
+// (lulu)
+<0106> Uuuh... ¿Qué es lo que sucedería al comer el Hongo Azul...?
+
+// (arnelle)
+<0107> Lo mismo que sucedería al comer el Hongo Rojo.
+
+// (lulu)
+<0108> Eso quiere decir...
+
+// (maynie)
+<0109> ¡GYAOOOOOH!
+
+// (ellie)
+<0110> ¡AJAAAAAAAA!
+
+// (lulu)
+<0111> ¡Esto es lo que sucedería!
+
+// (maynie)
+<0112> ¡MaYnIe tE aMa, SeÑoRa ArNeLlE!
+
+// (ellie)
+<0113> ¡AjAaAa! ¡VoY a QuEmArLo ToDoOoOo!
+
+// (arnelle)
+<0114> ¡Santo cielo! ¡Alto! ¡No pueden hacer esto en una cueva tan pequeña!
+
+// (lulu)
+<0115> ¡Ti-ti-tienes que calmarte, Ellie!
+
+// (ellie&maynie)
+<0116> ¡GYAOOOOOOH!
+
+// (lulu&arnelle)
+<0117> ¡Nooooooo!
+

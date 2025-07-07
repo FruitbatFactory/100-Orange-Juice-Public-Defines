@@ -1,0 +1,166 @@
+
+<0000> Eeey!
+<0001> Like thiiiiis!
+<0002> Whoop!
+<0003> Here I goooo!
+<0004> Time to play a card!
+<0005> A card!
+<0006> Ta-daaaa!
+<0007> I'm going to use this one!
+<0008> Fufufu... Trap time!
+<0009> Setting a trap down here...
+<0010> Fufufu... Ambush time!
+<0011> Let's see what'll happen!
+<0012> I'm going to upgrade myself!
+<0013> All for a victory!
+<0014> All righty, here I go!
+<0015> Battle card!
+<0016> Big baaang bell!
+<0017> Nugugu... I have no more time to be lying down!
+<0018> Saki, you've got to get to your feet!
+<0019> I'm not done yet!
+<0020> Nuoooh! I have to catch up!
+<0021> Mauu, it didn't work...
+<0022> Fuee, that was a bust.
+<0023> Auu...
+<0024> I didn't make it...!
+<0025> I'm attacking!
+<0026> Attack!
+<0027> I'm going to make this real quick!
+<0028> Eryaah!
+<0029> Mau!!
+<0030> That hurts!
+<0031> Naaan!!
+<0032> Fuee!
+<0033> Healing!
+<0034> Warm energy!
+<0035> I'm fully charged!
+<0036> I'm feeling well rested!
+<0037> Hiee! Where am I going!
+<0038> I'm getting tossed!
+<0039> Get me somewhere peaceful, please!
+<0040> I'm feeling dizzyyyy...
+<0041> Mauu... I'm... done for.
+<0042> Uh, I can't do this... anymore...
+<0043> *Zzz*...
+<0044> This is... not good...!
+<0045> Now, please prepare yourself!
+<0046> Please die... Just kidding!
+<0047> A battle's about to begin!
+<0048> All right, I'll just beat you up!
+<0049> Oh, what what what? Are we going to fight?
+<0050> Hiee! I'm not ready yet!
+<0051> Bring it on!
+<0052> I won't lose!
+<0053> Mauryaah!
+<0054> Hoy!
+<0055> Tey tey!
+<0056> Poy poy!
+<0057> Mau!!
+<0058> Nya!
+<0059> Oww!
+<0060> Hege!
+<0061> Mau mau!!
+<0062> That hurts so much!!!
+<0063> Hyoeeeh!
+<0064> Oh noooo!!
+<0065> Dodging!
+<0066> Evading!
+<0067> Hie! That was a close call!
+<0068> Wawah! I almost got hit!
+<0069> Looks like I win! Ehehe!
+<0070> I got a win just like that!
+<0071> Oh my, are you hurt?
+<0072> Hmphew, easy peasy!
+<0073> Mauee...
+<0074> I'm speechless...
+<0075> I lost...
+<0076> I wanted you to go easy on me...
+<0077> Wow! Stars!
+<0078> They're shining! I like stuff like this!
+<0079> A bunch of stars!
+<0080> I'm so happy!
+<0081> Aaaah! My stars!
+<0082> Holy cookies!
+<0083> Ueee! I dropped some!
+<0084> Wait for meeee!
+<0085> O-oh no, there was a trap here?!
+<0086> Hey, who set the trap here?!
+<0087> Gue! I hate traps!
+<0088> Gyaah!
+<0089> Oh, I'm getting a dangerous vibe around here...
+<0090> This is going to be tough...
+<0091> I'd better stay away from this one...
+<0092> I can sense something gigantic...
+<0093> I'm gathering stars! I'm good at stuff like that!
+<0094> I hope I can get so many stars!
+<0095> Stars are beautiful... I want a lot of them!
+<0096> It's fun collecting something, isn't it...
+<0097> I feel like fighting!
+<0098> I want a bunch of wins!
+<0099> Winning feels good, doesn't it?
+<0100> Fighting is necessary, sometimes!
+<0101> Mauu, nice to meet you!
+<0102> My name's Saki!
+<0103> I'll do my hardest!
+<0104> Fufufu, I'll get us victory, just you watch.
+<0105> So it begins!
+<0106> Now, let's do this!
+<0107> Go go!
+<0108> All righty, let's do our best!
+<0109> We did it! We won!
+<0110> I can do this much!
+<0111> Yaay! I'm going to make some sweets to celebrate!
+<0112> We're throwing a party tonight!
+<0113> Got an item!
+<0114> This'll make us stronger!
+<0115> Did you find something good?
+<0116> Oh, you wanted this? I'm happy for you!
+<0117> I need you to replace me.
+<0118> Let's switch. I'm counting on you.
+<0119> You can do it!
+<0120> Let me get some rest.
+<0121> I like that!
+<0122> I love that!
+<0123> Yes!
+<0124> No!
+<0125> No good.
+<0126> Lucky you!
+<0127> Hmm?
+<0128> Now, let's roll up our sleeves!
+<0129> Dice!
+<0130> Let's hit the road!
+<0131> Hello!
+<0132> Hmm...
+<0133> That's fantastic!
+<0134> That's incredible!
+<0135> Mauuuuu...
+<0136> Can I really use this?
+<0137> I'm not familiar with this, but I'll play it anyway!
+<0138> It's funny using someone else's powers.
+<0139> Let me borrow your powers!
+<0140> Wow, thank you so much.
+<0141> Let's fight a sweet battle!
+<0142> Whoa, it's you, Sweet B!
+<0143> Fufu, it looks like I'm on a higher level as a god.
+<0144> You're very good, Sweet B...
+<0145> Q! here I come!
+<0146> Q! Bring it on!
+<0147> Good fight! I'm going to make you some pudding later.
+<0148> You're very good, Q! We should get some pudding together!
+<0149> Th-this is... a legendary sweet...
+<0150> You are...!!
+<0151> Hie! It's hard fighting him!
+<0152> Phew... I was a nervous wreck for many reasons.
+<0153> I can't even imagine defeating him...
+<0154> Just so you know, you're always doing a nice job!
+<0155> Whoa, I feel like something bad's happening right now.
+<0156> An idol...!
+<0157> Sweet Eater...!
+<0158> I sense Guardian...!
+<0159> Battle between Sweet Gods... Let's get started!
+<0160> Hmmmm~♪　Mau~mau~♪
+<0161> Mauuuuuuuryaaaaaaaah!
+<0162> Why don't you go to sleeeeeep!
+<0163> Droooop deaaaaad!!
+<0164> Sweet dreams!

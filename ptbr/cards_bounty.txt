@@ -1,0 +1,215 @@
+< CARD_BOUNTY_TURNISLIME_HUNT >
+name=Turnislime
+descr=Turnislime fará você ganhar -1 ATK durante a batalha.
+flavor=
+
+< CARD_BOUNTY_TROLLITE_HUNT >
+name=Trollite
+descr=Após cada rodada da batalha, Trollite ganha -1 ATK.
+flavor=
+
+< CARD_BOUNTY_MOUSSE_HUNT >
+name=Mousse
+descr=Mousse irá levar seu Nível x estrelas toda vez que te der dano.
+flavor=
+
+< CARD_BOUNTY_STRANGEMOUSSE_HUNT >
+name=Mousse de Lima Limão
+descr=Mousse de Lima Limão vai pegar seu Nvl x estrelas toda vez que te der dano.
+flavor=
+
+< CARD_BOUNTY_POWERMOUSSE_HUNT >
+name=Mousse de Morango
+descr=Mousse de Morango vai pegar seu Nvl x estrelas toda vez que te der dano.
+flavor=
+
+< CARD_BOUNTY_DOLL_HUNT >
+name=Boneca Amaldiçoada
+descr=Boneca Amaldiçoada irá te assustar e te tirar 1 HP ao fim de cada rodada da batalha.
+flavor=
+
+< CARD_BOUNTY_HELISEED_HUNT >
+name=Heliseed
+descr=O encontro acaba se Heliseed não for nocauteado após 3 rodadas de batalha.
+flavor=
+
+< CARD_BOUNTY_BLIZARD_HUNT >
+name=Bunnizard
+descr=Bunnizard aleatóriamente ganha +1 ATK, DEF ou EVD após cada rodada da batalha.
+flavor=
+
+< CARD_BOUNTY_WOLLY_HUNT >
+name=Wolly
+descr=Quando atingido, Wolly toma 1 dano extra.
+
+< CARD_BOUNTY_TERRAWYRMER_HUNT >
+name=Terrawyrmer
+descr=Se atingido com mais de 2 de dano de uma vez, Terrawyrmer ganha +1 ATK & +1 DEF & -1 EVD até o fim da batalha. Esse efeito pode estocar.
+
+< CARD_BOUNTY_RUFFSHROOM_HUNT >
+name=Cogumelo Babado
+descr=Quando Cogumelo Babado é derrotado, você ganha 2 HP.
+
+< CARD_BOUNTY_GOST_HUNT >
+name=Göst
+descr=Göst ganha +1 EVD para cada ponto positivo de ATK que você tiver.
+
+< CARD_BOUNTY_EMERANGLER_HUNT >
+name=Emerangler
+descr=Quando Emerangler é atingido, ele ganha +1 ATK no próximo ataque. Quando Emerangler te atinge, ele ganha +1 DEF na próxima defesa.
+
+< CARD_BOUNTY_GLOBBU_HUNT >
+name=Globbu
+descr=Toda vez que Globbu te danifica, ganhe -1 DEF até o fim da batalha.
+
+< CARD_BOUNTY_GRASSINFIMARY_QUEST >
+name=
+descr=Eu desejo fazer um novo remédio usando algumas ervas que crescem no campo. Você pode me ajudar e coletar algumas?
+flavor=- Dono do hotel
+
+< CARD_BOUNTY_SWAMPINFIMARY_QUEST >
+name=
+descr=Um de nossos clientes disse que slimes podem ser usados para fazer bebidas. Eu me pergunto se isso é verdade...
+flavor=- Dono do hotel
+
+< CARD_BOUNTY_CAVEBAKERY_QUEST >
+name=
+descr=Eu acidentalmente deixei cair algo que precisamos para fazer sorvete em uma caverna...
+flavor=- Sky Baker
+
+< CARD_BOUNTY_CASTLEBAKERY_QUEST >
+name=
+descr=Fufufu, nós pedimos que farinha fosse entregue do castelo mas ainda não chegou. Me pergunto se devo explodi-los?
+flavor=- Star Baker
+
+< CARD_BOUNTY_RUINARMORY_QUEST >
+name=
+descr=Oh, você precisa de algo afiado para cortar sua comida? Se você me trouxer os materiais eu farei algo para você com todo prazer. Até uma arma quebrada serve.
+flavor=- Ferreiro
+
+< CARD_BOUNTY_CAVEARMORY_QUEST >
+name=
+descr=Chifres de Trollite são materiais incríveis para se fazer utensilios de comida, mas estou ficando sem estoque. Eles trocam seus chifres a cada 3 dias então deve ter alguns por aí em seus esconderijos.
+flavor=- Ferreiro
+
+< CARD_BOUNTY_VOLCANOALCHEMER_QUEST >
+name=
+descr=Eu posso transmutar comida para você, mas eu preciso de uma fonte de fogo. Talvez você pode conseguir um Globbu? Eu ouvi falar que eles amam fazer trabalhos assim.
+flavor=― Alquimista
+
+< CARD_BOUNTY_FORESTINFIRMARY_QUEST >
+name=
+descr=Uma sobremesa? Eu posso tentar preparar algo se você me trouxer seiva de árvores das florestas enevoadas. Ouvi falar que são bem doces.
+flavor=― Dono do Hotel
+
+< CARD_BOUNTY_MOUNTAINBAKERY_QUEST >
+name=
+descr=Acabou nosso leite! Nosso pão requer leite fresco dos Wollies da montanha, por favor busque rapidamente!
+flavor=―Sky Baker
+
+< CARD_BOUNTY_REDFORESTALCHEMER_QUEST >
+name=
+descr=Os fantasmas das florestas de carmesim por aqui possuem propriedades interessantes. Você pode buscar uma amostra para mim? Eu devo ser capaz de comprar algo comível com isso também.
+flavor=― Alquimista
+
+< CARD_BOUNTY_DESERTARMORY_QUEST >
+name=
+descr=Eu estou ficando com sede... Alguns cactos do deserto devem ser o suficiente para matar essa sede. Você pode manter o que sobrar após eu terminar de beber.
+flavor=― Ferreiro
+
+< CARD_BOUNTY_SLIMEBOMB_ITEM >
+name=Bomba Slime
+descr=Jogue uma bomba slime em um painel ao seu redor (raio de 3 painéis). Todos os painéis ao redor do escolhido (raio de 1 painel) irão ficar coberto por barro durante 2 capítulos.
+flavor="Barro puro em um pote, pronto para atirar!" ―Alquimista
+
+< CARD_BOUNTY_TELEPORT_ITEM >
+name=Poção de teleporte
+descr=Teleporte para qualquer painél, e então jogue seu turno.
+flavor="Um gole, e poof!" ―Alquimista
+
+< CARD_BOUNTY_LURE_ITEM >
+name=Isca
+descr=Jogue uma isca em um painel ao seu redor (raio de 3 painéis). Todos os painéis ao redor do painel escolhido (raio de 1 painel) irão se tornar em um painel de encontro por 3 capítulos.
+flavor="O cheiro dessa coisa deve ser forte o suficiente para atrair a maioria dos mooks ao redor..." ―Alquimista
+
+< CARD_BOUNTY_SHOKUPAN_ITEM >
+name=Shokupan
+descr=Duração do efeito: 3 capítulos\nCure 1 HP em todos os turnos, até seu próximo nocaute. O efeito não pode ser estocado.
+flavor="Ninguém pode conzinhar algo melhor do que essa obra-prima." ―Star Baker
+
+< CARD_BOUNTY_SSR_SHOKUPAN_ITEM >
+name=Shokupan Fofucho
+descr=Cure 2 HP em todos os turnos, até seu próximo nocaute. O efeito não pode ser estocado.
+flavor="Fofuras irão conquistar o mundo!" ―Sky Baker
+
+< CARD_BOUNTY_PUREWATER_ITEM >
+name=Água Divina
+descr=Para esta batalha, ganhe 5 HP e +1 ATK, DEF, EVD.
+flavor="Fufufu, essa água pura irá curar sua sede, confia!" ―Hoteleira
+
+< CARD_BOUNTY_CURSEDSYRUP_ITEM >
+name=Xarope Amaldiçoado
+descr=Para esta batalha, ganhe 10 HP e +2 ATK, DEF & EVD, e coloque o limite do turno de batalha em 5.
+flavor="É claro que você vai comprar isto... Tudo com o que você se importa é com mais poder... Não é?" ―Shady Merchant
+
+< CARD_BOUNTY_POISONPHIAL_ITEM >
+name=Explosivo Tóxico
+descr=Jogue um frasco de Explosivo Tóxico em um painel ao redor de você (raio 3). Todos os jogadores atingidos na área serão envenenados e tomarão 1 de dano a cada turno durante 2 capítulos. Não faz estoque com outros Explosivos.
+flavor="Eu fiz isto com ingredientes razoavelmente perigosos... Então tome cuidado!" ―Alquimista
+
+< CARD_BOUNTY_VENOMPHIAL_ITEM >
+name=Explosivo Venenoso
+descr=Jogue um frasco de Explosivo Venenoso em um painel ao redor de você (raio 3). Todos os jogadores atingidos na área serão envenenados e tomarão 1 de dano a cada turno durante 3 capítulos. Não faz estoque com outros Explosivos.
+flavor="Eu fiz isto usando o veneno de um réptil perigoso..." ―Alquimista 
+
+< CARD_BOUNTY_CORROSIONPHIAL_ITEM >
+name=Explosivo Corrosivo
+descr=Jogue um frasco de Explosivo Corrosivo em um painel ao redor de você (raio 3). Todos os jogadores atingidos na área serão envenenados e tomarão 2 de dano a cada turno durante 3 capítulos. Não faz estoque com outros Explosivos.
+flavor="O Explosivo Corrosivo foi feito combinando materiais mortais..." ―Alquimista 
+
+< CARD_BOUNTY_SPARKLEBOMB_ITEM >
+name=Sparkle Bomb
+descr=Force the field to reverse paths for 2 chapters.
+flavor="E se você quisesse ir para frente e para trás mas indo para trás não parece que está indo para frente? ...Ugh, deixa para lá..." ―Alquimista
+
+< CARD_BOUNTY_SMOKELOSTMEMORIES_ITEM >
+name=Fumaça das Memórias Perdidas
+descr=Esqueça os seus erros do passado e ative uma Batalha de Caça. Só pode ser usado em um painel com uma localização de monstro descoberta. Você deve possuir caça para poder começar a batalha. Seu turno acaba ao usar essa carta.
+flavor="Não deixe fugir!" ―Alquimista
+
+< CARD_BOUNTY_RADAR_ITEM >
+name=O Radar dos Aventureiros
+descr=Duração do Efeito: 2 a 5 capítulos\nCapaz de discernir todas as localizações dos monstros durante toda a duração do efeito.
+flavor="Irá ajudar muito nossa expedição... se funcionar o suficiente!" ―Armeiro
+
+< CARD_HYPER_BOUNTY_ELLIE >
+name=O Milagre de Ellie
+descr=★Custo: Nível x10\nDuração do Efeito: 2 capítulos. Ganhe +X ATK, +Y DEF, e +Z EVD, onde X = Seu total de Norma completado, Y = Sua Fama atual / 5, e Z = Suas Estrelas atuais / 50.
+flavor="Receba meu milagre!" ―Ellie
+
+< CARD_BOUNTY_SCRAMBLED_EVE >
+name=Véspera Desastrosa
+descr=Todos os jogadores devolvem suas cartas para o baralho central, e o deck central é embaralhado. Após 1 capítulo, todos os jogadores compram a mesma quantidade de cartas que descartaram com esse efeito. Não retorna caças ou missões.
+flavor="Espere! Devolva-me os presentes!" ―Aru
+
+< CARD_BOUNTY_TRAP_WANTED >
+name=Procurado
+descr=Efeito de Estoque\nDê o dobro de vitórias em nocaute por batalha. Efeito expira em nocaute.\nUma caça para o jogador alvo também é colocada no Tabuleiro de Caça, e eles recebem um Emblema de Assassino.
+flavor="Por aqui! Meu nariz nunca está errado!" ―QP
+
+< CARD_HYPER_BOUNTY_COOK >
+name=Conselho da Galinha Cata-Vento
+descr=Efeito de Estoque.\nRole 2 de dado para tudo menos para batalhas. Este efeito acaba ao parar no seu próprio painel de Casa.
+flavor="*Pia pia*! Cook deseja ir por aqui." ―Cook
+
+< CARD_BOUNTY_PLAYER >
+name=VIVO OU MORTO
+descr=Procurado por ter cometido crimes contra a sociedade.
+flavor=
+
+< CARD_BOUNTY_PLAYER_ITEM >
+name=
+descr=Marcado para remoção. Recomenda-se discrição.
+flavor=
+
+[EOF]

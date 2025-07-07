@@ -1,0 +1,106 @@
+// CampaignScenario_CodexStory_Concierge
+// (watty)
+<0000> E-eh, ¿Señor Pomeranius? ¿En dónde se encuentra la Dama Arnelle? H-habíamos hecho planes para salir de compras hoy...
+// (pomeranius)
+<0001> Ah, mi señora está muy ocupada intentando controlar a esa niña salvaje.
+// (watty)
+<0002> Maynie sí parecía estar un poco celosa cuando accedió a ir de compras conmigo... Perdón por causar problemas, yo... yo me iré a casa.
+// (pomeranius)
+<0003> No hay por qué temer. Mi señora me ha otorgado la tarea de ser tu conserje por el día de hoy.
+// (watty)
+<0004> O-oh, no puedo pedirte que hagas eso, Señor Pomeranius.
+// (pomeranius)
+<0005> Correcto, pero mi señora sí puede, y lo ha hecho. Me ha instruido a mí para tratarte con el cariño y respeto que normalmente reservaría para ella.
+// (watty)
+<0006> Señor Pomeranius, p-puedo escuchar como rechinan sus dientes desde aquí...
+// (pomeranius)
+<0007> Grrr. Simplemente tengo algo atorado en mis colmillos. Hacia adelante, entonces. Mientras más antes comencemos, más temprano terminaremos.
+// (watty)
+<0008> Oh no... Desearía que pudiera hundirme hasta el fondo del mar...
+// (pomeranius)
+<0009> Si puedo preguntar, ¿por qué requieres del apoyo de mi señora para ir de compras?
+// (watty)
+<0010> Oh, em, bueno... N-no suelo venir al pueblo muy seguido, así que ir de compras es algo muy problemático para mí. Mi cuerpo puede causar muchos problemas.
+// (pomeranius)
+<0011> ¿Cómo?
+// (watty)
+<0012> Bueno, em... Si ves por ahí, ¿puedes ver cómo hay muchas ventanas rotas y basura tirada en el suelo?
+// (pomeranius)
+<0013> Grrr. Qué mala educación. Estas personas viven como animales.
+// (watty)
+<0014> Señor Pomeranius, tú eres un animal...
+// (pomeranius)
+<0015> Eso es algo irrelevante. Hasta un perro como yo puede vivir con dignidad.
+// (watty)
+<0016> E-en fin, ya que mi cuerpo está en contacto con el suelo, podría lastimarme severamente o algo así, y me ensucio mucho de tan solo moverme. Me hace sentir muy horrible.
+// (pomeranius)
+<0017> ¿Qué no puedes simplemente limpiarte con magia?
+// (watty)
+<0018> P-podría... pero las personas suelen preocuparse mucho cuando conjuro magia en el pueblo...
+// (pomeranius)
+<0019> Hrumph. Solo por hoy, podrás límpiate cuando lo veas necesario. Si alguien se atreve a hablar demás, se las verán con mis garras.
+// (watty)
+<0020> Muchas gracias, Señor Pomeranius. Eso ayuda mucho. Si estoy sucia cuando entro a la tienda, los comerciantes suelen mirarme con ojos muy horribles...
+// (watty)
+<0021> Perdón por ser una chica pescado tan sucia y olorosa...
+// (pomeranius)
+<0022> Suena a que necesitaremos buscar una mejor clase de comerciante. Aquellos de los que hablas parecen ser indignos de tener tales profesiones.
+// (watty)
+<0023> También debo llevar mucha agua para no secarme, y pesa mucho... ¡Ah!
+// (pomeranius)
+<0024> Alto. Hay muchos pedazos de vidrios esparcidos por el suelo. Yo despejaré el camino. Chica pe- ah. Lo siento, "mi señora", ¿a dónde iremos primero?
+// (watty)
+<0025> Bueno... estaba pensando... que sería lindo ver algunas camisas. Me encanta ver ropa linda, aunque nada haya sido pensado para un cuerpo como el mío...
+// (pomeranius)
+<0026> Entonces les pediremos que se hagan en el momento. Vamos. Te introduciré al sastre de mi señora.
+// (watty)
+<0027> Ah, muchísimas gracias... E-espera. ¿El sastre de la Dama Arnelle?
+// (pomeranius)
+<0028> Woof. Sí, garantizo personalmente sus habilidades.
+// (watty)
+<0029> A-así que... ¿hacen el tipo de ropa que la Dama Arnelle suele usar?
+// (pomeranius)
+<0030> Así es.
+// (watty)
+<0031> ¿I-incluso el traje de mucama, y los uniformes escolares? Y-y... el... ¿el 'traje de infiltración para casinos'?
+// (pomeranius)
+<0032> ¿Infiltración para casinos...? Ah, el traje de conejo. A mi señora le gusta mucho. Suele dice que le hace sentir que la deja un paso más cerca de obtener la máxima sabiduría.
+// (watty)
+<0033> ¡S-s-s-señor Pomeranius, no podemos ir con ese sastre! Los atuendos de la Dama Arnelle son tan, bueno, reveladores, que no podría usar algo así...
+// (pomeranius)
+<0034> Nada de eso. Tira tu pecho hacia adelante y levanta tu cabeza. Eres un miembro del Equipo Arnelle, y mi señora ha invertido su tiempo en ti. Camina con orgullo, Watty.
+// (watty)
+<0035> D-de hecho, yo me deslizo... E-espera, lo que quiero decir es, que esto y eso son dos cosas muy distintas. Simplemente no puedo vestirme de la misma manera que la Dama Arnelle. Me moriría de vergüenza.
+// (pomeranius)
+<0036> ¿Oho? ¿Acaso osas decir que la moda de mi señora es vergonzosa?
+// (watty)
+<0037> No, pero-
+// (pomeranius)
+<0038> Entonces vamos. Aunque sé que no podrás alcanzar la altura de mi señora, un nuevo ropero te hará ver muy bien.
+// (watty)
+<0039> G-gracias, Señor Pomeranius, pero...
+// (pomeranius)
+<0040> Oho. Si acaso deseas agradecerme, entonces te permitiré cepillar mi cabello más tarde.
+// (watty)
+<0041> G... ¿gracias...?
+// (pomeranius)
+<0042> Usualmente es un privilegio exclusivo reservado para mi señora, pero... Entiendo que el cuidado presenta grandes desafíos tanto para ti como para mí. Así que te confiaré el cepillado de mi grandioso cabello.
+// (watty)
+<0043> Pero, yo...
+// (pomeranius)
+<0044> Y, aunque me pese decir esto... también puedes llamarme para obtener mis servicios en futuras compras, si es que lo deseas.
+// (watty)
+<0045> Aprecio que esté siendo tan amable conmigo, Señor Pomeranius, pero...
+// (pomeranius)
+<0046> ¿Pero?
+// (watty)
+<0047> ¡¡¡N-no hay forma de que pueda usar un atuendo de conejoooo!!!
+// (pomeranius)
+<0048> Nada de eso. Considéralo un ejercicio vital para mejorar tu confianza.
+// (watty)
+<0049> ¡¡Pero Señor Pomeranius!! ¡¿Cómo esperas que use medias ajustadas y tacos altos cuando no tengo piernas?!
+// (pomeranius)
+<0050> De la misma forma que enfrentaremos todos los desafíos como los seguidores de mi señora: con elegancia y dignidad. ¡En marcha, Watty!
+// (watty)
+<0051> Ahhhh... por favor, déjeme iiiiiir...
+

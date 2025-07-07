@@ -1,0 +1,305 @@
+< CARD_DECEPTIVELYDISARMED_EFFECT >
+name=사기로 무장해제됨
+descr=다음 행동을 넘긴다.
+
+< CARD_STUFFED_EFFECT >
+name=배부름
+descr=다음 배틀에서 공격력 -1을 얻는다.
+
+< CARD_BURNOUT_EFFECT >
+name=탈력
+descr=부활을 중첩당 1턴씩 지연시킨다.
+
+< CARD_PROTAGONISTPRIVILEGE_EFFECT >
+name=주인공의 특권
+descr=항상 먼저 공격한다. 상대 유닛은 (배틀당 한 번) 반격할 수 없다.
+
+< CARD_AIRSUPPORT_EFFECT >
+name=공중 지원
+descr=다음 배틀에서 방어력 +2를 얻는다.
+
+< CARD_COOP_BLAZING_EFFECT >
+name=블레이징!
+descr=중첩당 아군이라면 공격력 +1을, 적이라면 방어력 -1을 얻는다. KO 시 효과 종료.
+
+< CARD_COOP_MELTINGMEMORIES_EFFECT >
+name=녹아가는 기억
+descr=스위트 브레이커와 싸울 때 스위트 브레이커가 공격력, 방어력, 회피력 +1을 얻는다.
+
+< CARD_COOP_MELTINGMEMORIES_EFFECT >
+name=녹아가는 기억
+descr=다음 행동을 넘긴다.
+
+< CARD_COOP_EVILSPYWORKEXEC_EFFECT >
+name=악의 공작 활동 ― 실행
+descr=턴 종료 시 HP 2를 회복한다.
+
+< CARD_COOP_BANNEDFORLIFE_GIFT_EFFECT >
+name=영구 추방
+descr=보스의 다음 행동을 넘기게 만들 수 있다.
+
+< CARD_COOP_GUIDANCE_EFFECT >
+name=풍향계의 인도
+descr=배틀을 제외한 모든 굴림에서 주사위 2개를 굴린다. KO시 효과를 종료한다.
+
+< CARD_COOP_BEASTWITCH_EFFECT >
+name=야수 마녀
+descr=보스나 부하에게 스타를 잃지 않는다.
+
+< CARD_COOP_BANNEDFORLIFE_EFFECT >
+name=영구 추방
+descr=다음 행동을 넘긴다.
+
+< CARD_COOP_FINALSURGERY_EFFECT >
+name=마무리 수술
+descr=부활 시까지 회복값 -2를 얻는다.
+
+< CARD_COOP_STEALTHON_EFFECT >
+name=스텔스 온
+descr=적에게 배틀 도전을 받지 않는다.\n엔카운터와 보스 패널을 발동하지 않는다.\n배틀 진입 시 해제되나 그 배틀 동안 공격력 +2를 얻는다.
+
+< CARD_COOP_SPECIALSTAGE_EFFECT >
+name=라이브 모드
+descr=이동력 -3을 얻고 이동 타입 패널만을 발동할 수 있으며 카드를 사용할 수 없다.\n적에게 배틀 도전을 받지 않는다.\n적이 2패널 범위 이내에서 턴을 종료하면 그 적으로부터 레벨 x5만큼의 스타를 빼앗는다.\nKO 시 효과 종료.
+
+< CARD_COOP_IDEALWORLD_EFFECT >
+name=로봇 친구
+descr=배틀에서 로봇 유닛이 플레이어를 대신해 싸운다. 로봇 유닛은 배틀에서 공격력 +1을 얻는다.
+
+< CARD_COOP_GOODESTBOY_EFFECT >
+name=세상에서 제일 착한 애
+descr=보스 패널을 무시한다.\n자신 또는 다른 플레이어의 턴이 끝날 때 서로가 같은 패널에 위치하면 양쪽 모두 카드를 1장씩 뽑는다.\n배틀에 도전하거나 도전받지 않는다. 플레이어가 멈춰서 당신을 쓰다듬을 수 있다.
+
+< CARD_COOP_PRISONBREAK_EFFECT >
+name=탈옥 놀이
+descr=도전받지 않는다. 보스로부터 비롯한 트랩 카드, 카드 효과로 인한 피해에 면역이 된다. 이동 시 주사위 2개를 굴린다. 패널 한 칸을 이동할 때마다 1중첩을 잃는다.
+
+< CARD_COOP_POPPOSNATCHER_EFFECT >
+name=소매치기 폿포
+descr=방어력 -1을 얻는다. 적을 지나칠 때 내 레벨 x3만큼의 스타를 빼앗는다. 노르마 판정을 할 수 없다.
+
+< CARD_BOSS_HYPE_EFFECT >
+name=신남
+descr=10중첩이 있을 시 보스가 "광분"을 쓴다.
+
+< CARD_BOSS_RUMBLE_EFFECT >
+name=럼블
+descr=중첩당 공격력 +1을 얻는다.
+
+< CARD_BOSS_DANCEOFSEAGULLS_EFFECT >
+name=갈매기의 춤
+descr=다음 배틀에서 공격력 -2를 얻는다.
+
+< CARD_BOSS_BEAKOFGODBIRD_EFFECT >
+name=새 신의 부리
+descr=공격력 +1.
+
+< CARD_BOSS_BEAKOFDEMIBIRD_EFFECT >
+name=반조의 부리
+descr=공격력 +2.
+
+< CARD_BOSS_FLIGHT_EFFECT >
+name=비행
+descr=반대 방향으로 이동하고 지나가는 적에게 레벨 만큼의 피해를 준다.
+
+< CARD_BOSS_PIYOMARCH_EFFECT >
+name=피요 행진
+descr=다음 배틀에서 회피력 +2를 얻는다.
+
+< CARD_BOSS_HEADLESSCHICKENMINION_EFFECT >
+name=목 없는 닭
+descr=다음 배틀에서 공격력 +2와 방어력 +2를 얻는다.
+
+< CARD_BOSS_HEADLESSCHICKEN_EFFECT >
+name=목 없는 닭
+descr=공격력 +2를 얻는다.
+
+< CARD_BOSS_WIRELESSCHICKEN_EFFECT >
+name=무선 닭
+descr=공격력 +2를 얻는다.
+
+< CARD_BOSS_ATTACKDOWN_EFFECT >
+name=공격력 다운
+descr=중첩당 공격력 -1을 얻는다.
+
+< CARD_BOSS_DEFENSEDOWN_EFFECT >
+name=방어력 다운
+descr=중첩당 방어력 -1을 얻는다.
+
+< CARD_BOSS_EVASIONDOWN_EFFECT >
+name=회피력 다운
+descr=중첩당 회피력 -1을 얻는다.
+
+< CARD_BOSS_TURBO_EFFECT >
+name=터보
+descr=이동 시 주사위 3개를 굴린다.
+
+< CARD_BOSS_EMP_EFFECT >
+name=전자기 펄스
+descr=카드를 사용할 수 없다.
+
+< CARD_BOSS_DELTAFIELD_EFFECT >
+name=교란 델타 필드
+descr=모든 주사위 굴림이 1, 2, 3이 된다.
+
+< CARD_BOSS_IMAGINARYNUMBERS_EFFECT >
+name=허수
+descr=주사위 눈 7을 굴린다.
+
+< CARD_BOSS_DELUSIONALNUMBERS_EFFECT >
+name=무리수
+descr=주사위 눈 0 또는 7을 굴린다.
+
+< CARD_BOSS_HEALTHDOWN_EFFECT >
+name=체력 다운
+descr=중첩당 최대 HP가 1 감소한다.
+
+< CARD_BOSS_RECOVERYMODE_EFFECT >
+name=회복 모드
+descr=다음 배틀까지 이동을 넘기고 HP 2를 회복한다.
+
+< CARD_BOSS_PERFECTREFLECTIVESHELL_EFFECT >
+name=완벽 반사 외갑
+descr=받은 피해만큼 공격자에게 피해를 준다.
+
+< CARD_BOSS_PROTECT_EFFECT >
+name=보호
+descr=피해를 받을 때마다 중첩을 하나 이상 소모해 소모한 중첩당 피해 3을 경감시켜 받는 피해를 1로 줄인다.\n중첩이 소진되면 3챕터동안 방어력 -2, 회피력 -1, 이동력 -1을 얻는다.
+
+< CARD_BOSS_SCRAMBLED_EFFECT >
+name=교란됨
+descr=방어력과 회피력 -2, 이동력 -1.
+
+< CARD_BOSS_POTECT_EFFECT >
+name=포호
+descr=피해를 받을 때마다 중첩 하나 이상 소모해 소모한 중첩당 최대 피해 2을 경감시켜 받는 피해를 1로 줄인다.\n중첩이 소진되면 3챕터동안 방어력, 회피력, 이동력 -1을 얻는다.
+
+< CARD_BOSS_SCRAMBLEDPO_EFFECT >
+name=교란됨
+descr=방어력과 회피력 -1, 이동력 -1.
+
+< CARD_BOSS_ELUSIVE_EFFECT >
+name=교묘
+descr=적을 지나갈 때마다 보스 레벨 x5만큼의 스타를 뺏는다.\n보스 유닛이 아니라면 스타는 활동중인 보스에게 간다.
+
+< CARD_BOSS_STARMANIA_EFFECT >
+name=스타광
+descr=매 챕터마다 중첩 수만큼의 스타를 얻는다.
+
+< CARD_BOSS_ROBOTAX_EFFECT >
+name=로보세
+descr=중첩당 방어력 +1을 얻는다.
+
+< CARD_BOSS_HIGHWAYROBBERY_EFFECT >
+name=노상강도
+descr=공격력 +3.\n역방향으로 이동하며 유닛에게 도전한 뒤 멈춤 효과를 무시한다.\n입혀야 할 HP 피해 대신에 피해 1당 10스타를 빼앗는다.
+
+< CARD_BOSS_GREED_EFFECT >
+name=욕망
+descr=이 유닛 또는 그 부하가 배틀에서 주는 피해 1점당 5스타를 얻는다.
+
+< CARD_BOSS_CHASE_EFFECT >
+name=뒤쫓기
+descr=이동 시 주사위를 2개 굴리며 적과 싸울 때마다 신남 1을 얻는다.
+
+< CARD_BOSS_TIRED_EFFECT >
+name=피로
+descr=다음 KO 시 부활값 +1을 얻는다.
+
+< CARD_BOSS_EXHAUSTED_EFFECT >
+name=탈진
+descr=다음 KO 시 부활값 +2를 얻는다.
+
+< CARD_BOSS_PLAYTAG_EFFECT >
+name=술래잡기
+descr=공격력 +2를 얻고 적과 싸울 때마다 신남 1을 얻는다.
+
+< CARD_BOSS_HIDENSEEK_EFFECT >
+name=숨바꼭질
+descr=다음 배틀까지 이동 굴림을 넘기고 신남 2를 얻는다.
+
+< CARD_BOSS_PSYCHEDUP_EFFECT >
+name=흥분
+descr=이동력 +2를 얻는다.
+
+< CARD_BOSS_WATERMELONSPLIT_EFFECT >
+name=수박 깨기
+descr=공격력 +5를 얻고 적에게 도전한 뒤 멈추지 않는다. 적이 KO될 때마다 신남 2를 얻는다.
+
+< CARD_BOSS_HYPEITUP_EFFECT >
+name=신바람
+descr=공격력 +1, 방어력 +1, 회피력 -1을 얻는다.\n배틀에서 피해를 입을 때마다 신남 1을 잃는다. 배틀에서 KO될 시 신남 2를 잃는다.
+
+< CARD_BOSS_RAMPAGE_EFFECT >
+name=광분
+descr=중첩당 광분의 피해량이 1 증가한다.
+
+< CARD_BOSS_RAMPAGEHYPER_EFFECT >
+name=광분
+descr=중첩당 공격력이 1 상승한다. 중첩당 광분의 피해량이 1 증가한다.
+
+< CARD_BOSS_HYPEMODE_EFFECT >
+name=신바람 모드
+descr=공격력 +2, 방어력 +1. KO 시 다음 턴에 부활한다.
+
+< CARD_BOSS_QUAKE_EFFECT >
+name=지진
+descr=이동력 -2.
+
+< CARD_BOSS_POPPOMARCH_EFFECT >
+name=폿포 행진
+descr=회피력 +2.
+
+< CARD_BOSS_TURBOCHICKEN_EFFECT >
+name=터보 닭
+descr=이동 주사위를 하나 더 얻고 적에게 도전한 뒤 멈추지 않는다.\n추가 중첩당 공격력 +1을 얻는다.\n적에게 배틀로 도전을 할 때마다 중첩 수와 무관히 25스타를 얻는다.
+
+< CARD_BOSS_SWARM_EFFECT >
+name=닭떼
+descr=다음 배틀에서 선공 시 공격력 +2를 얻으며 적은 반격할 수 없다 (전투당 1회).
+
+< CARD_SKILL_COOP_FURY_EFFECT >
+name=분노
+descr=중첩당 배틀에서 피해 1을 추가로 준다.
+
+< CARD_COOP_HYPER_ATTACKER_EFFECT >
+name=햇볕 아래의 최종병기
+descr=배틀에서 공격이 피해 3을 추가로 준다.
+
+< CARD_COOP_PROTECT_EFFECT >
+name=보호
+descr=다음에 받는 피해가 중첩당 1 줄어든다. 피해를 막은 후 효과 종료.
+
+< CARD_SKILL_COOP_GUARDIANSPIRIT_EFFECT >
+name=수호령
+descr=다음 배틀에서 받는 피해가 중첩당 1 줄어든다..
+
+< CARD_COOP_HYPER_GUARDIAN_EFFECT >
+name=백사장의 구조요원
+descr=배틀에서 받는 다음 피해가 2 줄어든다.
+
+< CARD_SKILL_COOP_FROMBEYOND_EFFECT >
+name=저 편에서
+descr=배틀 중에 KO될 시, 중첩당 HP 1을 갖고 부활한다.
+
+< CARD_COOP_HYPER_AVENGER_EFFECT >
+name=피도 눈물도 없는 복수자
+descr=배틀 중에 KO될 시, 중첩당 HP 1을 갖고 부활한다.
+
+< CARD_COOP_DEMAND_EFFECT >
+name=수요
+descr=다음에 도착하는 패널을 드로우 패널로 취급한다.
+
+< CARD_COOP_RANSOMNOTE_EFFECT >
+name=몸값 요구서
+descr=턴 종료 시 KO된다.
+
+< CARD_COOP_HYPER_DEALER_EFFECT >
+name=여름날의 놀이
+descr=이번 턴에 도착하는 패널을 더블 드로우 패널로 취급한다.
+
+< CARD_COOP_INTELLECTUALBLUFF_EFFECT >
+name=지적인 블러핑
+descr=누군가가 그 타입의 카드를 내면 카드 한 장을 뽑는다.
+
+[EOF]

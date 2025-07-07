@@ -1,0 +1,165 @@
+<000> Aquí
+<001> Ahí.
+<002> Fufufu.
+<003> Aquí voy.
+<004> Bien, usaré este.
+<005> Espero que esto sea de ayuda.
+<006> Veamos.
+<007> ¿Y si mejor hago esto?
+<008> Me siento un poco traviesa.
+<009> *Colocando una carta en el suelo muy sigilosamente*...
+<010> Fufu, acabo de cometer una pequeña travesura.
+<011> Esto es un poco divertido.
+<012> Me haré más fuerte.
+<013> Hablando de superpoderes...
+<014> Ya veo. Es así como funciona, ¿no~?
+<015> Creo que esto me dará un poco de fuerza.
+<016> ¡Aquí tienes una montaña de dulces!
+<017> Me pregunto qué es lo que ocurrirá en el juego ahora.
+<018> Vaya, esa sí que fue una buena siesta.
+<019> ¿Hmm...?
+<020> ¡Estoy más que lista para continuar!
+<021> Me tomará un poco más de tiempo...
+<022> Hmm, ¿no salió bien?
+<023> Bueno, no hay razón para apresurarse.
+<024> ¿Supongo que tendré que esperar un poco más...?
+<025> ¡Bonk!
+<026> Perdóname si esto duele.
+<027> ¡Toryah!
+<028> ¡Ey!
+<029> ¡Wah!
+<030> Eso duele.
+<031> Caramba.
+<032> Se más amable conmigo.
+<033> Me siento mucho mejor ahora.
+<034> Siento que mi energía está regresando.
+<035> Esto es increíble.
+<036> Wow... ya no me siento tan cansada.
+<037> ¿Oh?
+<038> ¿Qué está ocurriendo?
+<039> Fuaaah.
+<040> Esto se siente raro.
+<041> Creo que me siento un poco cansada.
+<042> Hora de dormir...
+<043> Estoy exhausta.
+<044> *Bostezo*
+<045> Espero que esta sea una batalla divertida.
+<046> He traído muchos dulces conmigo... ¿Quieres comer algunos?
+<047> Lo dejaré todo en esta batalla.
+<048> ¡Hagámoslo!
+<049> ¿Acaso tú también quieres unos dulces?
+<050> Fufu, claro, puedo jugar contigo.
+<051> No soy buena para luchar.
+<052> Huh, ¿quieres luchar conmigo...?
+<053> ¿El poder de Sweet Blogger...?
+<054> Parece que ahora puedo hacer un poco de magia.
+<055> No sé qué es lo que podría hacer, pero...
+<056> Magia... ¿Así?
+<057> Wow.
+<058> Me lastimas.
+<059> Boo.
+<060> ¡Ow!
+<061> ¡Uwah!
+<062> Esto podría ser más de lo que puedo recibir.
+<063> Eso no está nada bien.
+<064> Yo también puedo enojarme, ¿sabes?
+<065> Mi cuerpo se siente ligero como una pluma.
+<066> ¿Acabas de hacer algo?
+<067> ¿Oh cielos?
+<068> Fufufu.
+<069> Vaya, eso fue divertido.
+<070> Deberíamos volver a jugar en otra ocasión.
+<071> Puedes invitarme a jugar en cualquier momento.
+<072> Eso ha sido un buen ejercicio.
+<073> Creo que acabo de quemar muchas calorías.
+<074> Me siento demasiado hambrienta para poder moverme.
+<075> Creo que he ido demasiado lejos esta vez.
+<076> Ajaja, eres muy fuerte.
+<077> ¿Oh? ¿Acaso acaban de pagarme por algo?
+<078> Fufufu, esto me hace feliz.
+<079> Creo que luego compraré muchos más dulces con esto.
+<080> ¡Bien!
+<081> Hmm, qué pena...
+<082> No me siento muy feliz acerca de esto.
+<083> Mi dinero...
+<084> ¿Eh? ¿Un hoyo en mi billetera...?
+<085> Eso me ha sorprendido.
+<086> Alguien me debe haber jugado una broma.
+<087> ¡Vaya! ¡Cielos!
+<088> ¿Hmm?
+<089> Cielos, eso me ha dado escalofríos.
+<090> ¿Estoy en una crisis?
+<091> Tengo un muy mal presentimiento...
+<092> Esto... no puede ser bueno...
+<093> Quiero hacer muchos dulces, así que... iré con esto.
+<094> Haré un buen postre con esas estrellas.
+<095> Esas estrellas son hermosas, ¿no lo crees?
+<096> Muy bien, conseguiré muchas estrellas.
+<097> Espero que todas podamos divertirnos.
+<098> ¿Con quién debería jugar?
+<099> A lo mejor debería usar mi poder de Sweet God.
+<100> Fufufu, ejercitarse es divertido, ¿no lo crees?
+<101> Una Sweet God... Aparentemente, eso es lo que soy.
+<102> Parece que puedo usar magia... No puedes esperar a ver de qué se trata, ¿no?
+<103> Sweet... God... Así que, ¿una Diosa de los Dulces?
+<104> Mírame... ¿Cuándo me he convertido en esto?
+<105> Vamos a tener muuuuucha diversión y muuuuuchos dulces.
+<106> El juego ha comenzado. Hagámoslox	.
+<107> Ahora que soy una Sweet God, debería poder hacer más y mejor.
+<108> ¿Cuál será el resultado de esta partida?
+<109> Esta es mi victoria. Ahora, vamos a celebrar.
+<110> Eso ha sido muy divertido, fufufu.
+<111> ¿He ganado? ¿Por qué no lo celebramos?
+<112> Ansío volver a jugar con todos nuevamente.
+<113> ¿Has obtenido algo bueno?
+<114> Si lo que acabas de obtener es un postre... ¿puedo probarlo?
+<115> Fufu, eso es un buen regalo.
+<116> ¿Qué has obtenido? ¿Algo que deseabas?
+<117> Bien, te dejaré entrar y me dejaré salir.
+<118> ¿Quieres cambiar? Gracias.
+<119> ¿Creo que es la hora de cambiar?
+<120> Tengo fe en ti.
+<0121> Okay.
+<0122> Wow.
+<0123> Sí, puedes dejármelo a mí.
+<0124> Tendré que decir que no...
+<0125> Um, está bien...
+<0126> ¡Lo hiciste!
+<0127> ¿Mhm?
+<0128> ¡Aquí va!
+<0129> ¡A rodar!
+<0130> ¡Sé que puedes hacerlo!
+<0131> ¡Hola!
+<0132> Emm, este...
+<0133> Bien.
+<0134> Eso es realmente increíble.
+<0135> Cielo santo...
+<0136> ¿Cuándo llegó esta carta a mi mano?
+<0137> ¿Es esta una de mis habilidades como Sweet God?
+<0138> ¡Aquí voy!
+<0139> ¿Qué es lo que hace? No puedo esperar para ver.
+<0140> Gracias.
+<0141> Wooow, qué alas tan hermosas llevas en tu espalda.
+<0142> ¿Sweet Creator...?
+<0143> La próxima vez que vayas a crear un nuevo postre, permíteme probarlo, ¿sí?
+<0144> Ese aroma tan dulce que tienes me ha distraído demasiado...
+<0145> No sabía que tú también eras una Sweet God, Q.
+<0146> ¿Qué es esto? ¿Realmente ansías tanto jugar conmigo?
+<0147> Cielos, tú también tienes un aroma muy dulce, Q...
+<0148> Eso ha sido genial~
+<0149> ¿Una Sweet God?
+<0150> Y-Yo también soy una Sweet God, ¿sabes?
+<0151> Deberíamos tener una fiesta de dulces en algún momento.
+<0152> Las Sweet Gods son poderosas.
+<0153> Sí, el sabor es genial.
+<0154> ¿Y qué tal este? Se ve delicioso, ¿no lo crees?
+<0155> Suave y se derrite en tu boca.
+<0156> Ahora tengo hambre.
+<0157> Tomaré muy buenas fotos de esto...
+<0158> Esto se ve lindo y delicioso.
+<0159> Fufu, el tan solo ver a los dulces me hace feliz.
+<0160> Este también se ve delicioso~
+<0161> ¿Qué es lo que quieres merendar el día de hoy?
+<0162> ¿Qué ocurre? ¿Te sientes hambrienta?
+<0163> Deberíamos ir a comprar dulces.
+<0164> Hoy haré lo que sea que quieras comer.

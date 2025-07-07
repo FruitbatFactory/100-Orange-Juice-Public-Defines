@@ -1,0 +1,161 @@
+
+<0000> Bien.
+<0001> ¡Aquí!
+<0002> Rodando alrededor...
+<0003> ¡Ey!
+<0004> Creo que usaré esto.
+<0005> Supongo que haré esto.
+<0006> Te elijo a ti.
+<0007> Esta es mi decisión.
+<0008> Trampa colocada.
+<0009> Okay.
+<0010> Esta una trampa.
+<0011> ¿Quizás de esta forma...?
+<0012> Voy a usar esto.
+<0013> No puedo perder este juego.
+<0014> Haré esto.
+<0015> ¡Esto!
+<0016> ¡Acelerador!
+<0017> Ah...
+<0018> Muy bien, es hora de moverse.
+<0019> Lo intentaré otra vez.
+<0020> Aquí es donde comienza.
+<0021> ¿Eh? Esto no debería estar sucediendo...
+<0022> Ugh.
+<0023> ¿Qué?
+<0024> Oh no.
+<0025> Hagámoslo.
+<0026> ¡Yah!
+<0027> ¡Hah!
+<0028> ¡Ahí!
+<0029> Ugh.
+<0030> Augh.
+<0031> Wah.
+<0032> Wawah.
+<0033> Aaaaah...
+<0034> Me siento acalorada.
+<0035> Estoy recuperada.
+<0036> Se siente bien...
+<0037> Me llevan a otra parte...
+<0038> ¿A dónde voy?
+<0039> Estoy volando..
+<0040> Teletransportación...
+<0041> Aaaaugh...
+<0042> Necesito descansar un rato...
+<0043> Ugh, me equivoqué.
+<0044> *Suspiro*...
+<0045> Es hora de pelear.
+<0046> Si te metes en mi camino...
+<0047> Voy por ti.
+<0048> Vamos a pelear.
+<0049> ¿Estás esperando una batalla?
+<0050> Está bien, hagámoslo.
+<0051> No perderé.
+<0052> ¿Quieres pelear?
+<0053> ¡Hah!
+<0054> ¡Ya verás!
+<0055> ¡Yah!
+<0056> ¡Tah!
+<0057> ¡Ugh.
+<0058> Uuu..
+<0059> Augh..
+<0060> Guhh..
+<0061> Hmm...
+<0062> Uwaah..
+<0063> Detente.
+<0064> Aaargh..
+<0065> No puedes tocarme.
+<0066> Lo esquivé.
+<0067> Eso estuvo cerca...
+<0068> Wow...
+<0069> Vaya, lo hice..
+<0070> Estoy bien.
+<0071> Parece que he ganado...
+<0072> Hice lo mejor que pude.
+<0073> Hmm...
+<0074> Hauu...
+<0075> Eres muy fuerte.
+<0076> Eres increíble.
+<0077> Están brillando...
+<0078> Me alegro...
+<0079> Bien hecho.
+<0080> Hay tantas de ellas...
+<0081> ¡No! Mis estrellas...
+<0082> Uh...
+<0083> Mis estrellas...
+<0084> Mhmm...
+<0085> ¡¿Una trampa?!
+<0086> No la había visto...
+<0087> Ugh, vientos.
+<0088> Esto es...
+<0089> Apareció uno grande...
+<0090> El peligro se acerca...
+<0091> Será mejor que tenga cuidado.
+<0092> Algo muy peligroso acaba de salir.
+<0093> Juntaré estrellas.
+<0094> Elijo estrellas.
+<0095> Conseguiré muchas estrellas.
+<0096> Estrellas...
+<0097> Supongo que iré por victorias.
+<0098> Conseguiré victorias.
+<0099> Prefiero pelear.
+<0100> Muy bien, ganaré más batallas.
+<0101> Okay, es bueno jugar contigo.
+<0102> Puedes contar conmigo.
+<0103> Demos lo mejor de nosotros mismos.
+<0104> Bien entonces.
+<0105> Lo daré todo.
+<0106> En marcha.
+<0107> Comenzó.
+<0108> ¿Que debería hacer?
+<0109> Buena jugada
+<0110> A pesar de todo, lo logramos.
+<0111> Hice un buen trabajo, ¿no?
+<0112> ¡Ganamos!
+<0113> Obtuvimos algo nuevo.
+<0114> Es algo nuevo.
+<0115> No había visto eso antes.
+<0116> ¿Conseguiste algo bueno?
+<0117> Vamos a cambiar.
+<0118> ¿Podrías tomar mi lugar?
+<0119> Te dejaré el resto a ti.
+<0120> Alentaré por ti.
+<0121> Okay.
+<0122> Eso es bueno.
+<0123> Sí.
+<0124> No.
+<0125> Mhmm...
+<0126> Buen trabajo.
+<0127> ¿Huh?
+<0128> Bien, vamos.
+<0129> Que sea un buen tiro...
+<0130> Hagámoslo.
+<0131> Hola.
+<0132> Hmm.
+<0133> Genial.
+<0134> Eso es increíble.
+<0135> Ugh...
+<0136> Tomaré esto por un segundo.
+<0137> ¿Puedo usar esto?
+<0138> Este poder no es el mío, pero...
+<0139> ¡Intentaré usar esta...!
+<0140> Hime, vamos a jugar.
+<0141> Es un niño pequeño...
+<0142> Aquí voy, Sora.
+<0143> ¡Apártense!
+<0144> La diosa del pudín...
+<0145> Star Breaker... te detendré.
+<0146> Ese es un castillo muy grande...
+<0147> No dejaré que hagas lo que se te plazca.
+<0148> ¿Es esa otra versión de mí...?
+<0149> ¿"La yo del pasado"...? ¿A qué te refieres?
+<0150> Este es un sentimiento muy complicado...
+<0151> ¿De verdad soy yo?
+<0152> Es recomfortante tenerte a mi lado.
+<0153> Hime, vamos a cambiar.
+<0154> Está bien, lo haré.
+<0155> Te dejaste llevar, Hime.
+<0156> Sí, también me divertí.
+<0157> Sé qué no eres fácil de vencer, Sora.
+<0158> Fufu, eso fue divertido, Sora.
+<0159> Me impresiona ver lo fuerte que eres.

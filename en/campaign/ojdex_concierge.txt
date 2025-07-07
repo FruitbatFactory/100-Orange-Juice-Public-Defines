@@ -1,0 +1,106 @@
+// CampaignScenario_CodexStory_Concierge
+// (watty)
+<0000> U-um, Mister Pomeranius? Where's Miss Arnelle? W-we made plans to go out shopping today...
+// (pomeranius)
+<0001> Alas, m'lady has her hands full containing that wild child.
+// (watty)
+<0002> Oh no... Maynie did seem kind of jealous when she agreed to come with me... I'm sorry for causing problems. I'll... I'll just go home.
+// (pomeranius)
+<0003> Fear not. M'lady has appointed me to be your concierge for the day.
+// (watty)
+<0004> O-oh, I couldn't ask you to do that, Mr. Pomeranius.
+// (pomeranius)
+<0005> Correct, but m'lady can, and has. She has also instructed me to treat you with the care and respect I would reserve for her.
+// (watty)
+<0006> Mr. Pomeranius, I-I can hear you grinding your teeth from here...
+// (pomeranius)
+<0007> Grrr. I simply have something stuck in my fangs. Let's be off, then. The sooner begun, the sooner done.
+// (watty)
+<0008> Oh no... I wish I could just sink to the bottom of the sea.
+// (pomeranius)
+<0009> If I might be so bold, why do you require m'lady's support for a simple shopping trip?
+// (watty)
+<0010> Oh, um, well... I-I don't come into town very often, actually, so shopping is a big deal. My body causes all sorts of problems.
+// (pomeranius)
+<0011> How so?
+// (watty)
+<0012> Well, um... You see over there, where there's a bunch of broken glass and trash on the ground?
+// (pomeranius)
+<0013> Grrr. How unsightly. These people live like animals.
+// (watty)
+<0014> Mr. Pomeranius, you are an animal...
+// (pomeranius)
+<0015> That's irrelevant. Even a dog can live with dignity.
+// (watty)
+<0016> A-anyway, because my whole body is in contact with the ground, I could really hurt myself on something like that. And I get so filthy just from moving around. It makes me feel hideous.
+// (pomeranius)
+<0017> You can't simply clean yourself with magic?
+// (watty)
+<0018> I-I could... but people get worried when they see you casting magic spells in town...
+// (pomeranius)
+<0019> Hrumph. Today, clean yourself as necessary. If anybody dares to speak out of line, they shall taste my claws.
+// (watty)
+<0020> Thank you, Mr. Pomeranius. That helps a lot. If I'm dirty when I go into the shop, the shopkeepers give me such awful looks...
+// (watty)
+<0021> I'm sorry for being a dirty, smelly fish woman.
+// (pomeranius)
+<0022> It sounds like we need only seek a better class of shopkeep. The ones you speak of seem unworthy of the profession.
+// (watty)
+<0023> I also need to carry lots of water to stop from drying out, and it's so heavy... Ah!
+// (pomeranius)
+<0024> Hold. There's glass on the floor here. I shall clear it away. Fish wo- ah. I mean, "m'lady", what are we shopping for first?
+// (watty)
+<0025> Um... I was thinking... it might be nice to look at some shirts. I love looking at cute clothes, but none of them are made to account for my body...
+// (pomeranius)
+<0026> Then we shall simply have them made bespoke. Come. I shall introduce you to m'lady's tailor.
+// (watty)
+<0027> Oh, thank you very much... W-wait. Miss Arnelle's tailor?
+// (pomeranius)
+<0028> Woof. Yes, I personally guarantee their skills.
+// (watty)
+<0029> S-so they make the... kinds of clothes that Miss Arnelle usually wears?
+// (pomeranius)
+<0030> Just so.
+// (watty)
+<0031> E-even the low-cut maid outfit, and the school uniform? A-And the... um... the 'casino infiltration gear'?
+// (pomeranius)
+<0032> Casino infiltration...? Ah, the bunny suit. M'lady is quite fond of it. She says it makes her feel but one step away from sagehood.
+// (watty)
+<0033> M-m-m-Mr Pomeranius, we can't go to that tailor! Miss Arnelle's outfits are so, um, daring, and there's no way somebody like me could ever...
+// (pomeranius)
+<0034> Nonsense. Throw out your chest and raise your head. You are a member of Team Arnelle, and m'lady and I have invested our time into you. Walk with pride, Watty.
+// (watty)
+<0035> Actually, I kind of slither... W-wait, what I mean is, this and that are separate things. I just can't dress the way Miss Arnelle does. I'd die of shame.
+// (pomeranius)
+<0036> Oho? Are you saying m'lady's fashion sense is shameful?
+// (watty)
+<0037> No, but-
+// (pomeranius)
+<0038> Then come. Though I'm sure you will not reach the heights of m'lady, a new wardrobe will make you look quite the catch.
+// (watty)
+<0039> T-thank you, Mr. Pomeranius, but...
+// (pomeranius)
+<0040> Oho. If you wish to thank me, then I shall allow you to brush my coat later.
+// (watty)
+<0041> T... thanks...?
+// (pomeranius)
+<0042> It's usually m'lady's exclusive privilege, but... I understand now that grooming presents unique challenges for both you and I. I shall trust you with my gorgeous fur.
+// (watty)
+<0043> But, um...
+// (pomeranius)
+<0044> And, though I hesitate to say this... you may call for my services on future shopping trips, should you wish to.
+// (watty)
+<0045> I really appreciate that you're being so nice, Mr. Pomeranius, but...
+// (pomeranius)
+<0046> But?
+// (watty)
+<0047> There's still no way I can wear a b-b-bunny suit!!!
+// (pomeranius)
+<0048> Nonsense. Consider it a vital exercise in building your confidence.
+// (watty)
+<0049> But Mr. Pomeranius!! How are you expecting me to wear tights and high heels when I have no legs?!
+// (pomeranius)
+<0050> The same way we should endeavour to face all challenges as m'lady's followers: with poise, and dignity. Onwards, Watty!
+// (watty)
+<0051> Ahhhh... please, let me goooooo...
+

@@ -1,0 +1,66 @@
+// CampaignScenario_CodexStory_Family
+// (poppomama)
+<0000> Welcome home, you two. Oh?
+// (poppomama)
+<0001> Lulu, why are you carrying Ellie on your back? Is she hurt?
+// (elliehyper)
+<0002> Zzz... Srrnt.
+// (lulu)
+<0003> Oof... No. She started throwing a tantrum in the middle of town, saying she wanted to be a dragon rider because it would look super heroic.
+// (lulu)
+<0004> So Lulu gave in and gave her a piggy back, just for a second...
+// (poppomama)
+<0005> And she fell asleep.
+// (lulu)
+<0006> She fell asleep! Nothing Lulu tried will wake her up... She's been drooling on the back of Lulu's neck the whole time.
+// (poppomama)
+<0007> Ufufu. She must feel very safe with you to po-tect her.
+// (lulu)
+<0008> Lulu wonders about that...
+// (poppomama)
+<0009> Oh, dear. Come over here. You can tell Mother what's bothering you.
+// (lulu)
+<0010> Well... Lulu's just worried, since now she knows she was created by an evil lady and she has a dark side and everything...
+// (lulu)
+<0011> She's worried about what that means, and whether Lulu can be a regular person or not.
+// (poppomama)
+<0012> Ufufu. I don't think you need to worry about that. Actually... Mother is exactly the same way ♥
+// (lulu)
+<0013> W-what?
+// (poppomama)
+<0014> You see, Mother - and actually, Ellie's papa as well - were created by Tomomo, just like you were created by Mio.
+// (lulu)
+<0015> R-really? So, Lulu... and Ellie's mama... we're the same?
+// (poppomama)
+<0016> Yes, dear. But despite being created by a middle-aged lady...
+// (poppomama)
+<0017> Mother still managed to have many adventures, fall in love, and have a wonderful baby girl.
+// (poppomama)
+<0018> If I can do it, I'm sure that you can, too.
+// (lulu)
+<0019> ...Thank you very much. That makes Lulu feel a lot better.
+// (poppomama)
+<0020> No, thank you for being a good friend to my daughter. Please keep looking after her.
+// (lulu)
+<0021> Lulu will do her very best!
+// (poppomama)
+<0022> Good girl ♥\nActually, you could treat Mother as your Mother too, if you like.
+// (lulu)
+<0023> Uwawawa! Lulu's... Lulu's heart isn't ready for that kind of commitment...
+// (poppomama)
+<0024> Well, please think about it. After seeing the way Mio treated you, Mother got the urge to steal you away for herself.
+// (lulu)
+<0025> Eek... Lulu feels like she just heard something dangerous...
+// (lulu)
+<0026> Oh! But, can Lulu please put Ellie down now? She's still drooling, and Lulu's back is getting sore...
+// (poppomama)
+<0027> Only if you say the magic word.
+// (lulu)
+<0028> Please? But Lulu already said please, though.
+// (poppomama)
+<0029> No. It's "Please, Mother." ♥
+// (elliehyper)
+<0030> Zzz... Let's have... even more adventures tomorrow... Lulu... *drool*
+// (lulu)
+<0031> Waaahh... At this rate, Lulu can't tell if she's a lucky dragon or not...
+

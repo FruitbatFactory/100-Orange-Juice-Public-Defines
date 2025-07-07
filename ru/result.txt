@@ -1,0 +1,57 @@
+
+< RESULT_HEADER >
+Подсчёт полученных Звёзд
+
+< RESULT_SCORE_OWNEDSTARS >
+Получено в игре
+
+< RESULT_SCORE_LEVELBONUS >
+Бонус за Уровни
+
+< RESULT_SCORE_ENEMYBONUS >
+Бонус за Победы
+
+< RESULT_SCORE_RANKBONUS >
+Бонус за ранг
+
+< RESULT_SCORE_CAMPAIGNBONUS >
+Бонус истории
+
+< RESULT_SCORE_BOSSBONUS >
+Бонус за Боссов
+
+< RESULT_SCORE_CARDMASTER >
+Мастер карт
+
+< RESULT_SCORE_TRAPMEISTER >
+Мастер ловушек
+
+< RESULT_SCORE_AVENGER >
+Мститель
+
+< RESULT_SCORE_SURVIVOR >
+Остаться в живых
+
+< RESULT_SCORE_MISFORTUNE >
+Невезение
+
+< RESULT_SCORE_STARDECAY >
+Звёздный распад
+
+< RESULT_SCORE_TOTAL >
+Итого
+
+< RESULT_EXP_LEVEL >
+Уровень
+
+< RESULT_EXP_EXPERIENCE >
+Опыт
+
+< RESULT_EXP_EXPERIENCETONEXTLEVEL >
+Следующий
+
+< RESULT_SPEEDADJUST >
+Итого с учётом скорости
+
+[EOF]
+

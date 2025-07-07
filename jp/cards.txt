@@ -1,0 +1,302 @@
+
+< CARD_BOOST_DASH >
+name=ダッシュ！
+descr=このターン、移動ダイスの数が倍になる。
+flavor=「速く！」―スグリ
+
+< CARD_BOOST_EXTEND >
+name=エクステンド
+descr=ストック効果\nダウンした次の自ターンに復活する。
+flavor=「ひとまず安心！」―マール
+
+< CARD_BOOST_FLIPOUT >
+name=八つ当たり
+descr=ストック効果\nドロップマスでスターを失った時、スターを最も多く持つ他の全ユニットは同数のスターを失う。
+flavor=「～～～っ」―メイ
+
+< CARD_BOOST_LONGSHOT >
+name=遠距離射撃
+descr=指定ユニットに1ダメージを与える。
+flavor=「どっからでも当てるよ」―イル
+
+< CARD_BOOST_NICEJINGLE >
+name=素敵なジャラジャラ感
+descr=ストック効果\n次のボーナスマスでのスター獲得数が倍になる。
+flavor=「いっぱい集まったね」―アル
+
+< CARD_BOOST_NICEPRESENT >
+name=素敵なプレゼント
+descr=カードを2枚引く。
+flavor=「プレゼント配るの手伝ってもらうからね」\n―アル
+
+< CARD_BOOST_PRINCESS >
+name=お嬢様の特権
+descr=手札が3枚以上か、このカードのみの時使える。\n全手札を捨て、カードを3枚引く。
+flavor=「今度、家にいらっしゃい」―フェルネット
+
+< CARD_BOOST_PUDDING >
+name=プリン
+descr=HPを全回復する。
+flavor=「わーい！」―きゅーぴー
+
+< CARD_BOOST_COOKIE >
+name=サキのクッキー
+descr=HPを1回復する。
+flavor=「クッキーどうぞ！」―サキ
+
+< CARD_BOOST_STIFFCRYSTAL >
+name=強固な結晶
+descr=ストック効果\nトラップ効果を無効化する。そのトラップのレベル×5のスターを得る。
+flavor=「面倒ね」―キョウコ
+
+< CARD_BATTLE_BIGMAGNUM >
+name=ビッグマグナム
+descr=この効果でダウンしない時使える。\nHP-1。このバトルでATK+2。
+flavor=「出ろ！ビッグマグナム！」―御頭
+
+< CARD_BATTLE_FINALBATTLE >
+name=ラストバトル
+descr=一方がダウンするまでバトルする(10ラウンド上限)。
+flavor=「皆を守るために」―スグリ・ヒメ
+
+< CARD_BATTLE_ONFIRE >
+name=燃えるよ！
+descr=このバトルでATK+1・DEF-1。
+flavor=「思いっきり遊ぼう！」―カエ
+
+< CARD_BATTLE_RAINBOW >
+name=虹色の環
+descr=このバトルでDEF-1・EVD+2。
+flavor=まるで虹色の環を描くよう
+
+< CARD_BATTLE_RBITS >
+name=ウサビット
+descr=このバトルでDEF+2。回避できない。
+flavor=「フォーメーション"オービット"！」\n―きゅーぴー
+
+< CARD_BATTLE_REVERSE >
+name=性格反転フィールド
+descr=このバトルで、両者は補正後の各能力値の+と－が反転される。
+flavor=「遊びなのに本気になっちゃって！\n大人げね・・・ないですわ」―メイ
+
+< CARD_BATTLE_SHIELD >
+name=シールド
+descr=このカードは防御時のみ使える。\nこのバトルでDEF+3。攻撃できない。
+flavor=「一番大切な事は\n生きて帰ってくる事だから」―シャム
+
+< CARD_TRAP_ASSAULT >
+name=アサルト
+descr=敵の先攻で、設置者とバトルする。
+flavor=「今日こそギルドをやめてもらう！」\n―ピート
+
+< CARD_TRAP_BADPUDDING >
+name=台無しプリン
+descr=ランダムに手札を1枚失う。
+flavor=「プリンに　醤油で　ウニの味！」―ユキ
+
+< CARD_TRAP_DANGEROUSPUDDING >
+name=デンジャラスプリン
+descr=ストック効果\n次の自ターンをスキップする。
+flavor=一目でそのプリンに心を奪われました
+
+< CARD_TRAP_EXCHANGE >
+name=とりかえっこ
+descr=設置ユニットと手札・スター・マス位置を交換する。
+flavor=「・・・重い」―スグリ\n「すーすーする・・・」―マール
+
+< CARD_TRAP_FLAMETHROWER >
+name=火炎放射
+descr=ダウンする。ただし、手札が1枚以上ある時、ダウンする代わりに全手札を失う。
+flavor=「ヒイィヤッハー」―チンピラ
+
+< CARD_TRAP_TOYSTORE >
+name=おもちゃ屋の未来のために
+descr=スターが50未満の時しかこのカードは使えない。スターを半分失う。設置者は失った分のスターを得る。
+flavor=「サンタさえ！サンタさえいなければ！！」\n―アーサー
+
+< CARD_TRAP_GOAWAY >
+name=とんでっけー
+descr=ランダムなマスへ移動する。
+flavor=「あはは、これはいいわ」―ナナコ
+
+< CARD_TRAP_HEAT300 >
+name=ヒート300%
+descr=ストック効果（1）\n次のバトルで、DEF-2。
+flavor=「っ、当たらなければ！」―スグリ
+
+< CARD_TRAP_INVASION >
+name=襲来
+descr=敵の先攻でエンカウントが発生する。
+flavor=「攻撃をしてきた・・・？」―スグリ
+
+< CARD_TRAP_MIMYUU >
+name=みみゅうちんハンマー
+descr=1ダメージを受ける。
+flavor=「お礼に死んでください！」―みみゅう
+
+< CARD_TRAP_PIGGYBANK >
+name=貯金箱
+descr=このカードの設置から\n経過したチャプター数\n×5スターを得る。
+flavor=「おとーさん、まだ開けちゃだめ？」\n―メスカル
+
+< CARD_TRAP_PURES >
+name=空中レストラン「ぴゅあーず」
+descr=スターを半分失いHPを全回復する。
+flavor=「一名様ご案内でーす！」―クリス
+
+< CARD_TRAP_TRAGEDY >
+name=真夜中の惨劇
+descr=ランダムに手札を1枚失う。\n失ったカードは設置ユニットが得る。
+flavor=そんな幸せは一瞬で奪われてしまうのです
+
+< CARD_EVENT_SEAGULLS >
+name=カモメの大群
+descr=ランダムなユニットに\n2ダメージを与える。
+flavor=「くけぇぇぇぇぇぇ！」―カモメ
+
+< CARD_EVENT_DINNER >
+name=ディナー
+descr=全ユニットのHPを3回復する。
+flavor=「一緒にご飯を食べよう」―なつき
+
+< CARD_EVENT_FORCEDREVIVAL >
+name=強制蘇生
+descr=ダウン中の全ユニットがHP1で復活する。
+flavor=「さっさーと治療しちゃうから」―斬子
+
+< CARD_EVENT_GIFTEXCHANGE >
+name=プレゼント交換
+descr=全員の手札を集めランダムに配りなおす。手札枚数は変わらない。
+flavor=「交換しましょ、そうしましょ」\n―ウサ・アカ・アオ
+
+< CARD_EVENT_HEREANDTHERE >
+name=あっちこっち
+descr=全ユニットはランダムに選ばれたマスへ移動する。
+flavor=「次の世界へ、レッツぽー！」\n―まりーぽっぽ
+
+< CARD_EVENT_HOLYNIGHT >
+name=聖なる夜
+descr=永続効果\nチャプター開始時のボーナススター数+1。
+flavor=「それで今夜はパーティーなのね」―ヒメ
+
+< CARD_EVENT_LITTLEWAR >
+name=小さな戦争
+descr=☆3チャプター持続\n全バトルで攻防を2回行う。
+flavor=「止められるはず・・・私の力なら・・・」\n―スグリ
+
+< CARD_EVENT_OHMYFRIEND >
+name=我が友よ
+descr=ボスエンカウントが発生する。
+flavor=「マシーンにだって友情はあるんだぜ」\n―NONAME
+
+< CARD_EVENT_OUTOFAMMO >
+name=弾切れ
+descr=☆1チャプター持続\n全ユニットはカードを使えない。
+flavor=「弾切れっ！」―ピート
+
+< CARD_EVENT_SEALEDGUARDIAN >
+name=封印された守護者
+descr=全ユニットのHPが1になる。
+flavor=「この船の守り神さ」―シフ
+
+< CARD_EVENT_ALLOUTMODE >
+name=超絶本気モード
+descr=ストック効果\n全ユニットは次のバトルでATK+2。
+flavor=「覚悟してても痛いんだから！！」―トモモ
+
+< CARD_EVENT_WARUDA >
+name=我等わるだ組
+descr=全トラップカードは\nランダムに選ばれたマスへ移動する。
+flavor=「無理無理\nトマトちゃんは無敵なのだ！」―トマト
+
+< CARD_HYPER_SUGURI >
+name=アクセラレータ
+descr=☆1チャプター持続\n移動・バトル・ボーナス・ドロップの\nダイスの数が倍になる。
+flavor=「飛ばすよ」―スグリ
+
+< CARD_HYPER_FERNET >
+name=飛行船爆撃
+descr=全ての敵は1~3ダメージを受ける。ダウンした敵の数×15スターを得る。
+flavor=「ふん、落としてしまいなさい」\n―フェルネット
+
+< CARD_HYPER_HIME >
+name=束縛の鎖
+descr=ストック効果\n他の全ユニットは次のターンがスキップされる。アクティブな敵に「束縛」を付与する。☆2チャプター持続・EVD-2・移動-1。
+flavor=「こういう事は好きじゃないの」―ヒメ
+
+< CARD_HYPER_PEAT >
+name=ブルークロウ・セカンド
+descr=ATK・DEF+X、EVD-X。Xは手札枚数とする。
+flavor=「決着をつける！」―ピート
+
+< CARD_HYPER_SORA >
+name=出鱈目な性能
+descr=☆1チャプター持続\n移動・バトル・ボーナス・ドロップの\nダイスの目が6になる。
+flavor=「武器、捨ててくれると嬉しいです」―ソラ
+
+< CARD_HYPER_YUKI >
+name=ギャンブル！
+descr=ランダムなユニットがダウンする。
+flavor=「誰が逝くか、これで決めるか？」―ユキ
+
+< CARD_HYPER_QP >
+name=はいぱーもーど！
+descr=ATK+2。\nダウンしても、スターを失わず、ウィンも与えない。次の自ターンに復活する。
+flavor=「ハイパーモード！」―きゅーぴー
+
+< CARD_HYPER_TOMOMO >
+name=殺戮魔法
+descr=HPが最大以上の全ユニットをダウンさせる。次の復活ダイス時、自身以外のダウンしたユニット数×-1がRECに加算される。
+flavor=「消えちゃえ」―トモモ
+
+< CARD_HYPER_ARU >
+name=プレゼントフォーユー
+descr=全ユニットは手札上限までカードを引く。\n既に上限ならば1枚だけ引く。\nその後、全体で引かれたカード数×10スターをこのカードの使用者が得る。
+flavor=「良い子にプレゼントだよー」―アル
+
+< CARD_HYPER_KAI >
+name=主役の特権
+descr=☆3チャプター持続\n自身が先攻の時、相手は攻撃できない。\n(1バトルにつき1回)
+flavor=「これが、主役の特権ってヤツだ！」―カイ
+
+< CARD_HYPER_POPPO >
+name=神出鬼没
+descr=アクティブな敵がいるマスを指定し、そこへワープする。\nその敵のレベル×10スターを奪う。
+flavor=「ぽっぽ！ぽっぽぽぽぽぽー！」\n―まりーぽっぽ
+
+< CARD_HYPER_MARC >
+name=×16ビッグロケット
+descr=★コスト：レベル×10\n指定の敵に自レベル分のダメージを与える。この効果で敵がダウンした時、2ウィンを得る。
+flavor=「チャージ完了！いっけぇーっ！」―マール
+
+< CARD_HYPER_MASTER >
+name=永久追放
+descr=★コスト：所持スター÷10\nギフトカードのみ使える。このカードを使うと、このカードを他のユニットへ渡せる。このカードを捨てると、他の手札も捨てられる。
+flavor=「店長お願いしますーっ！！」―クリス
+
+< CARD_HYPER_BOSSROBO >
+name=ターボ満タン
+descr=HPが1になる。失ったHP分の「ターボ満タン」をストックする。\n☆ストックされたターボ満タンと同数のチャプター\n1ストックごとにATK+1。1ターンごとに1ストック失う。\n対象がシフロボの時、自動修復が発動せず、代わりにターン開始時に1HP回復してダメージ吸収シェルを失う。\nダウンすると効果を失う。
+flavor=「ゴゴゴ！」―シフロボ
+
+< CARD_HYPER_CASTLE >
+name=不動の物体
+descr=☆2チャプター持続\nこのカードの効果が有効な時、自身のターンがスキップされる。\nワープできない。\nDEF+2。\n自身と同じマスに止まった相手とバトルする。
+flavor=「この力で、空のすべてを掌握するのだ」-ギルド長
+
+< CARD_HYPER_CHICKEN >
+name=金の卵
+descr=対象がニワトリ：ストック効果(3)\nドロップマスでボーナスマスの効果を得る。\nニワトリ以外：ストック効果(3)\nボーナスマスでドロップマスの効果を得る。
+flavor=「こっけぇー！」―ニワトリ
+
+< CARD_HYPER_BALL >
+name=反射外装
+descr=このカードは防御時にのみ使える。\nこのバトルで、ベースATKが0になる。被ダメージを最大2まで吸収する。吸収したダメージ1につきATK+2。
+flavor=「テキヲハッケン　ハイジョ」―ロボボール
+
+< CARD_HYPER_SEAGULL >
+name=ジョナサン・ラッシュ
+descr=相手のマスへワープしバトルする。バトル時、相手はDEF-1。その後、ターンを終了する。
+flavor=「くえぇえっ！」―カモメ 
+
+[EOF]

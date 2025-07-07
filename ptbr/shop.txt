@@ -1,0 +1,298 @@
+
+< SHOP_LABEL_HOME >
+Casa
+
+< SHOP_LABEL_CARDS >
+Cartas
+
+< SHOP_LABEL_CHARACTERS >
+Personagens
+
+< SHOP_LABEL_CHALLENGES >
+Desafios
+
+< SHOP_LABEL_FIELDS >
+Campos
+
+< SHOP_LABEL_HALLOWEEN >
+Halloween
+
+< SHOP_LABEL_CHRISTMAS >
+Natal
+
+< SHOP_LABEL_MISC >
+Outros
+
+< SHOP_LABEL_DLC >
+DLC
+
+< SHOP_LABEL_EMOTES >
+Emotes
+
+< SHOP_LABEL_PETS >
+Mascotes
+
+< SHOP_LABEL_ARCADE >
+Arcade
+
+< SHOP_LABEL_ALL >
+Tudo
+
+< SHOP_LEVEL >
+Nível
+
+< SHOP_OFFLINE >
+Sem conexão com o Steam
+
+< SHOP_DLC_SYURANANAKO >
+Syura & Nanako
+
+< SHOP_DLC_SAKIKYOUSUKE >
+Saki & Kyousuke
+
+< SHOP_DLC_MIXED >
+Pacote misto
+
+< SHOP_DLC_KRILAKAE >
+Krila & Kae
+
+< SHOP_DLC_ALTEKYOKO >
+Alte & Kyoko
+
+< SHOP_DLC_SHAMSHERRY >
+Sham & Sherry
+
+< SHOP_DLC_BREAKERPACK >
+Pacote Breaker
+
+< SHOP_DLC_ACCELERATIONPACK >
+Pacote Acelerador
+
+< SHOP_DLC_NATHTOMATOMIMYUU >
+Nath & Tomato + Mimyuu
+
+< SHOP_DLC_SUGURIHIMEWINTER >
+Suguri & Hime Winter
+
+< SHOP_DLC_KIRIKONONAME >
+Kiriko & NoName
+
+< SHOP_DLC_STARTERVOICEPACK >
+Pacote de vozes de personagens iniciais
+
+< SHOP_DLC_CEOREPARQUEMIUSAKI >
+Pacote das Bruxas
+
+< SHOP_DLC_COREVOICEPACK1 >
+Pacote de Vozes Núcleo 1
+
+< SHOP_DLC_YUKITOMOMORENEWAL >
+Pacote Yuki & Tomomo Renovada
+
+< SHOP_DLC_COREVOICEPACK2 >
+Pacote de Vozes Núcleo 2
+
+< SHOP_DLC_TSIHTEQUILA >
+Tsih & Tequila
+
+< SHOP_DLC_MEINATSUMI >
+Mei & Natsumi
+
+< SHOP_DLC_NICOARTHUR >
+Pacote da Loja de Brinquedos
+
+< SHOP_DLC_IRUMIRA >
+Iru & Mira
+
+< SHOP_DLC_CUTIES >
+Fofuras
+
+< SHOP_DLC_ULTIMATEWEAPONGIRL >
+Garota Arma Suprema
+
+< SHOP_DLC_YUUKIISLAY >
+Yuuki & Islay
+
+< SHOP_DLC_PUDDINGPACK >
+Pacote do Pudim
+
+< SHOP_DLC_SUGURI46SUMIKA >
+Pacote da Guardiã Anciã
+
+< SHOP_DLC_ELLIELULU >
+Pacote das Andarilhas
+
+< SHOP_DLC_RONETEO >
+Alicianrone & Teotoratta
+
+< SHOP_DLC_ARNELLEMAYNIE >
+Arnelle & Maynie
+
+< SHOP_DLC_CHRISKYUPITA >
+Chris & Kyupita
+
+< SHOP_DLC_HALENACOOK >
+Halena & Cook
+
+< SHOP_DLC_RIDERMERCHANT >
+Cavaleiro Solitário & Mercador
+
+< SHOP_DLC_HIMEFERNETRENEWAL >
+Pacote das Princesas
+
+< SHOP_DLC_MALTMESCAL >
+Malt & Mescal
+
+< SHOP_DLC_SHIFUREIKA >
+Shifu & Reika
+
+< SHOP_DLC_PUDDINGPOP >
+Pudim Pop
+
+< SHOP_DLC_WATTYPOMERANIUS >
+Watty & Pomeranius
+
+< SHOP_DLC_SWEETGODS >
+Deusas dos Doces
+
+< SHOP_DLC_ALTEREGOPACK >
+Pacote Alter Ego
+
+< SHOP_DLC_STARBAKERBREAKER >
+Star Baker Breaker
+
+< SHOP_DLC_KRILAMIMYUURENEWAL >
+Pacote Escapada de Prisão Waruda
+
+< SHOP_DLC_NEWELLIEKAI >
+Pacote Protagonista
+
+< SHOP_DLC_OLDGUARDPACK >
+Bourbon & Grain
+
+< SHOP_DLC_POYOCHUU >
+Poyo & Chuu
+
+< SHOP_DLC_HARUKANA >
+Haruka & Kanata
+
+< SHOP_TOOLTIP_HOME >
+Navegue pela loja pelos ícones de categoria.
+
+< SHOP_TOOLTIP_CARDS >
+Compre Pacotes de Cartas e novas unidades que você destravou.
+
+< SHOP_TOOLTIP_CHARACTERS >
+Compre novos cosméticos classificados por personagem.
+
+< SHOP_TOOLTIP_CHALLENGES >
+Use Laranjas para comprar Caixas e cores de cabelo específicas de desafios.
+
+< SHOP_TOOLTIP_FIELDS >
+Destrave novos campos para jogar.
+
+< SHOP_TOOLTIP_HALLOWEEN >
+Destrave acessórios do Evento de Halloween.
+
+< SHOP_TOOLTIP_CHRISTMAS >
+Destrave acessórios do Evento de Natal.
+
+< SHOP_TOOLTIP_MISC >
+Destrave bônus de multi-jogador e outros bônus diversos.
+
+< SHOP_TOOLTIP_EMOTES >
+Compre novos emotes para usar no chat!
+
+< SHOP_TOOLTIP_DLC >
+Compre novo conteúdo DLC com dinheiro real.
+
+< SHOP_TOOLTIP_PLAYERPLATES >
+Compre novos fundos, bordas, e mais para seu painel de jogador online!
+
+< SHOP_TOOLTIP_PETS >
+Comprar novos mascotes!
+
+< SHOP_TOOLTIP_ARCADE >
+Use fichas de arcade para ganhar prêmios incríveis!
+
+< SHOP_TOOLTIP_ALL >
+Veja todo o conteúdo da Loja.
+
+< SHOP_CRATE_CONTENTS >
+~Conteúdos~
+
+< SHOP_CRATE_LOOT_NONE >
+Nenhum:
+
+< SHOP_CRATE_LOOT_STARS >
+Estrelas:
+
+< SHOP_CRATE_LOOT_HALLOWEEN >
+Acessórios de Halloween:
+
+< SHOP_CRATE_LOOT_CHRISTMAS >
+Roupas de Natal:
+
+< SHOP_CRATE_LOOT_SUNGLASSES >
+Óculos de Sol de Verão:
+
+< SHOP_CRATE_LOOT_RADPOPPO >
+Poppo Radical:
+
+< SHOP_CRATE_LOOT_HOMEMARK >
+Marcador de Casa:
+
+< SHOP_CRATE_LOOT_POSE >
+Pose:
+
+< SHOP_CRATE_LOOT_HAIR >
+Cabelo:
+
+< SHOP_CRATE_LOOT_DICE >
+Dado:
+
+< SHOP_CRATE_LOOT_ORANGES >
+Laranjas:
+
+< SHOP_CRATE_LOOT_CHARACTER >
+Personagem:
+
+< SHOP_CRATE_LOOT_MYSTERY >
+???
+
+< SHOP_FILTER_OWNED >
+Esconder itens que já possúi
+
+< SHOP_ERROR_INVENTORY_PURCHASE >
+Não foi possível comprar. Por favor tente novamente mais tarde.
+
+< SHOP_LABEL_PIGFORMATION >
+Porcoformação
+
+< SHOP_LABEL_COWKIGU >
+Kigurumi de Vaca
+
+< SHOP_LABEL_TIGERKIGU >
+Kigurumi de Tigre
+
+< SHOP_LABEL_RETIREDEVENTS >
+Eventos Aposentados
+
+< SHOP_LABEL_PLAYERPLATES >
+Painéis de Jogador
+
+< SHOP_TOOLTIP_PIGFORMATION >
+Destrave os acessórios do evento "Cuidado com a Porcoformação".
+
+< SHOP_TOOLTIP_COWKIGU >
+Destrave as roupas de Kigurumi de Vaca.
+
+< SHOP_TOOLTIP_TIGERKIGU >
+Destrave as roupas de Kigurumi de Tigre.
+
+< SHOP_TOOLTIP_RETIREDEVENTS >
+Compre recompensas de eventos aposentados.
+
+
+[EOF]
+

@@ -1,0 +1,111 @@
+< MIXER_AIR_RAID >
+name=Air Raid
+descr=All units will take 1 damage at the beginning of the Chapter.
+
+< MIXER_AMPLIFY >
+name=Amplify
+descr=All units will randomly receive a +1 bonus to their ATK, DEF, or EVD stat. This effect lasts for 2 Chapters.
+
+< MIXER_BACKTRACK >
+name=Backtrack
+descr=All units move in the reverse direction. This effect lasts for the duration of the Chapter.
+
+< MIXER_BOMBER >
+name=Bomber
+descr=Place a visible bomb on a random panel. The bomb will explode within 1 to 4 Chapters, and units within 2 panels in a cross-shaped area of the bomb panel will take damage.
+
+< MIXER_CHARITY >
+name=Charity
+descr=All Players will receive 1 Card at the beginning of the Chapter.
+
+< MIXER_CONFUSION >
+name=Confusion
+descr=All player's cards are rearranged and put face-down, making the cards unreadable to both the owner and other players.
+
+< MIXER_FREEZE >
+name=Freeze
+descr=1/3 of the board's panels become frozen panels.
+
+< MIXER_MINELAYER >
+name=Minelayer
+descr=A Trap Card will be set on a randomly determined panel.
+
+< MIXER_MIRACLE >
+name=Miracle
+descr=Roll two dice for bonus, drop, move, and warp-move. Gain two wins for battles. Draw two cards. Heal 2HP.
+
+< MIXER_RANDOM_WARP >
+name=Random Warp
+descr=All units will be warped to a randomly chosen panel at the beginning of the Chapter.
+
+< MIXER_REGENERATION >
+name=Regeneration
+descr=All units recover 1 HP at the beginning of the Chapter.
+
+< MIXER_SPRINT >
+name=Sprint
+descr=All units roll a base two dice for movement.
+
+< MIXER_TREASURE >
+name=Treasure
+descr=Places a chest on a random panel.
+
+< MIXER_HEALTHY_BOSS >
+name=Healthy Boss
+descr=Boss has an additional 10 HP.
+
+< MIXER_STAR_CHASER >
+name=Star-chaser
+descr=Gain double stars on Bonus panels.
+
+< MIXER_BEGGAR >
+name=Beggar
+descr=Drop double stars on Drop panels.
+
+< MIXER_AGGRESSIVE_HEROES >
+name=Aggressive Heroes
+descr=All allies gain an additional +1 to ATK.
+
+< MIXER_DEFENSIVE_HEROES >
+name=Defensive Heroes
+descr=All allies gain an additional +1 to DEF.
+
+< MIXER_EVASIVE_HEROES >
+name=Evasive Heroes
+descr=All allies gain an additional +1 to EVD.
+
+< MIXER_BLAZING >
+name=Blazing
+descr=All units will gain +1 ATK and -1 DEF.
+
+< MIXER_FLIPPED >
+name=Flipped
+descr=Unit stats will be reversed at the start of battle.
+
+< MIXER_MENACING_BOSS >
+name=Menacing Boss
+descr=Boss has +1 ATK.
+
+< MIXER_HARD_SHELLED_BOSS >
+name=Hard-shelled Boss
+descr=Boss has +1 DEF.
+
+< MIXER_SLIPPERY_BOSS >
+name=Slippery Boss
+descr=Boss has +1 EVD.
+
+< MIXER_JOKER >
+name=Joker
+descr=All cards can be played for no cost.
+
+< MIXER_BANKRUPT >
+name=Bankrupt
+descr=Card costs are increased by 10 stars.
+
+< MIXER_GOO >
+name=Goo
+descr=1/3 of the field's ungooped panels become covered with goo for 1 chapter.
+
+< MIXER_SPORES >
+name=Spores
+descr=Mushrooms will spawn on the field.

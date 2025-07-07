@@ -1,0 +1,116 @@
+< TUTORIAL_SECTION_BASICS > 
+Basics
+
+< TUTORIAL_SECTION_BATTLE > 
+Battle
+
+< TUTORIAL_SECTION_PANELS > 
+Panels
+
+< TUTORIAL_SECTION_CARDS > 
+Cards
+
+< TUTORIAL_SECTION_COOP > 
+Co-op
+
+< TUTORIAL_SECTION_BOUNTYHUNT > 
+Bounty Hunt
+
+< TUTORIAL_VIDEO_OFFER >
+Welcome to Orange Juice! Would you want to view a 4 minute gameplay tutorial? (RECOMMENDED)\nYou can view the video whenever from the Guide.
+
+< TUTORIAL_00 >
+Welcome to 100% Orange Juice! We will explain a few basics - if you wish, you can just skip over them.
+
+< TUTORIAL_01 >
+This is a 4-player board game where the usual goal is to reach "Norma" level 6 to win.
+
+< TUTORIAL_02 >
+You roll dice to move on a game board - different colored panels have different effects.
+
+< TUTORIAL_03 >
+This is a home panel. You always start in one, and must land on one to level up or to win the game.
+
+< TUTORIAL_04 >
+Each player has their own, numbered home and you can choose to stop there. You can visit any player's home with an exact roll, though.
+
+< TUTORIAL_05 >
+Your first objective is to gather 10 stars to level up, and then land on a home. After that you can choose whether to collect stars or fight battles to get more Wins for your next level-up.
+
+< TUTORIAL_06 >
+By the way, we recommend aiming for a star norma if you're unsure which to choose. You receive more stars every chapter, so you will never get stuck.
+
+< TUTORIAL_07 >
+Yellow panels are Bonus panels, and let you roll to gain stars. You will receive your current Level x rolled number stars (up to a multiplier of 3).
+
+< TUTORIAL_08 >
+Blue panels are Drop panels, and you will lose stars if you land on one. You will lose your current Level x rolled number stars (up to a multiplier of 5).
+
+< TUTORIAL_09 >
+Green is a Draw panel, and lets you draw a card.
+
+< TUTORIAL_10 >
+Red is an Encounter panel, and you will be forced to fight a wild enemy. If you win, you will receive Wins and stars.
+
+< TUTORIAL_11 >
+Purple is a Warp panel - it will take you to another random warp panel that has an exit.
+
+< TUTORIAL_12 >
+There are other, more advanced panels too... you will learn how they work as you play!
+
+< TUTORIAL_13 >
+If you run into another unit while moving, you get the opportunity to challenge them into a battle!
+
+< TUTORIAL_14 >
+You can hover over the unit portrait in the corner of the field to see the abilities of other units. They affect how good they are in battle.
+
+< TUTORIAL_15 >
+In battle, the attacker first rolls for damage, and if they have any +Attack bonus it's added to the roll.
+
+< TUTORIAL_16 >
+The defender can choose to Defend, which will lower the damage they take according to their roll, down to 1.
+
+< TUTORIAL_17 >
+If you choose Evade, the defender must roll higher than the attack roll to take no damage at all. Otherwise they take full damage.
+
+< TUTORIAL_18 >
+After surviving the first attack, the defender then gets a chance to attack back!
+
+< TUTORIAL_19 >
+If one of the players goes down to 0 HP, they suffer KO and the winner receives 50% of their held stars, and gains 2 Wins!
+
+< TUTORIAL_20 >
+Next, let's talk about cards! Each player chooses 10 cards to bring to the game, and they are shuffled together into the Center Deck, alongside 8 blank Hyper Cards.
+
+< TUTORIAL_21 >
+You should aim to bring cards that will help your chosen unit more than they will help your enemies.
+
+< TUTORIAL_22 >
+Each unit has a unique Hyper Card. If you draw a blank Hyper Card from the deck, it will turn into your unit's own Hyper Card. They usually have game-changingly powerful effects!
+
+< TUTORIAL_23 >
+Note that each card has a level from 1 to 5, marked on the left. You need to level up to the matching level to use the card. Most of them also cost stars to use (marked on the right).
+
+< TUTORIAL_24 >
+Many fields have 'Field Effects', which activate at certain intervals. You can hover over the 'Info' button to see field events and more.
+
+< TUTORIAL_25 >
+For example, the 'Charity' Field Effect lets each player draw a card from the Center Deck every 5 chapters.
+
+< TUTORIAL_26 >
+Once the first player reaches Norma level 4 in Versus mode, a powerful Boss will appear on the field, replacing all Encounter panels with Boss panels. Be careful to avoid fighting it!
+
+< TUTORIAL_27 >
+After each match you will receive some Stars as a reward, which you can use to purchase new cards and more in the Shop.
+
+< TUTORIAL_28 >
+When playing online or in Co-op mode, you will also receive Oranges which can be used to unlock various kinds of cosmetics in the Shop.
+
+< TUTORIAL_29 >
+If there is currently an event active, you can find more details on it by clicking the event banner in the main menu.
+
+< TUTORIAL_30 >
+Please enjoy the game... and beware of Marie Poppo!
+
+
+[EOF]

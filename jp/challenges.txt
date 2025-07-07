@@ -1,0 +1,107 @@
+< CHALLENGE_TOOLTIP_REROLL >
+スターを%d個を支払い、種類が同じ他のチャレンジ内容に変更する。
+
+< CHALLENGE_TOOLTIP_STARCOUNT >
+所持スター数：%d個
+
+< CHALLENGE_GENERIC_PLAYS >
+ゲームを%d回プレイ
+
+< CHALLENGE_GENERIC_WINS >
+ゲームに%d回勝利
+
+< CHALLENGE_GENERIC_STARS >
+スターを%d個集める
+
+< CHALLENGE_GENERIC_KOS >
+バトルに%d回勝利
+
+< CHALLENGE_GENERIC_STAR_WINS >
+スターノルマでゲームに%d回勝利
+
+< CHALLENGE_GENERIC_KO_WINS >
+バトルノルマでゲームに%d回勝利
+
+< CHALLENGE_GENERIC_PANELS >
+%dパネル移動
+
+< CHALLENGE_GENERIC_TRAPS >
+トラップを%d回セット
+
+< CHALLENGE_GENERIC_STAR_NORMAS >
+スターノルマを%d回達成
+
+< CHALLENGE_GENERIC_WIN_NORMAS >
+バトルノルマを%d回達成
+
+< CHALLENGE_GENERIC_DAMAGE_DEALT >
+%d与ダメージ
+
+< CHALLENGE_GENERIC_HEALING >
+HPを%d回復
+
+< CHALLENGE_GENERIC_PLAY_BOOST >
+ブーストカードを%d回使用
+
+< CHALLENGE_GENERIC_PLAY_EVENT >
+イベントカードを%d回使用
+
+< CHALLENGE_GENERIC_PLAY_BATTLE >
+バトルカードを%d回使用
+
+< CHALLENGE_UNIT_PLAYS >
+%sで%d回プレイ
+
+< CHALLENGE_UNIT2_PLAYS >
+%sか%sで%d回プレイ
+
+< CHALLENGE_UNIT_WINS >
+%sでゲームに%d回勝利
+
+< CHALLENGE_TYPE_UNIT_STAR_NORMAS >
+%sでスターノルマを%d回達成
+
+< CHALLENGE_TYPE_UNIT_WIN_NORMAS >
+%sでバトルノルマを%d回達成
+
+< CHALLENGE_CARD_BRING >
+%sを最低1枚デッキに入れ%d回プレイ
+
+< CHALLENGE_CARD_PLAY >
+%sを%d回使用
+
+< CHALLENGE_CARD2_BRING >
+%sか%sを最低1枚デッキに入れ%d回プレイ
+
+< CHALLENGE_CARD2_PLAY >
+%sか%sを%d回使用
+
+< CHALLENGE_MAP_PLAY >
+%sで%d回プレイ
+
+< CHALLENGE_MAP2_PLAY >
+%sか%sで%d回プレイ
+
+< CHALLENGE_TYPE_EVENT_VDAY_CHOCOLATE >
+チョコダイスを使用しプレイヤー×%dをダウンさせる
+
+< CHALLENGE_TYPE_EVENT_VDAY_HEARTS >
+ハートダイスを使用しボーナスマスからスター×%d集める
+
+< CHALLENGE_TYPE_EVENT_XMAS_ICE >
+アイスマスを%d枚滑る
+
+< CHALLENGE_LABEL_CURRENT >
+挑戦中のチャレンジ
+
+< CHALLENGE_MESSAGE_EVENT_NOT_LOADED >
+現在のイベント状況を取得中です・・・
+
+< CHALLENGE_MESSAGE_DAYS >
+日
+
+< CHALLENGE_MESSAGE_REROLL_CONFIRM >
+このチャレンジを変更しますか？
+
+[EOF]
+

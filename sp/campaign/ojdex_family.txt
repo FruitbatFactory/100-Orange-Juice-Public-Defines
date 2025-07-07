@@ -1,0 +1,66 @@
+// CampaignScenario_CodexStory_Family
+// (poppomama)
+<0000> Bievenidos a casa, ustedes dos. ¿Oh?
+// (poppomama)
+<0001> ¿Lulu, por qué llevas a Ellie en tu espalda? ¿Acaso se ha lastimado?
+// (elliehyper)
+<0002> Zzz... Srrnt.
+// (lulu)
+<0003> Oof... No. Ella estaba causando una escena en medio del pueblo, diciendo que quería montar un dragon porque la haría ver super heróica.
+// (lulu)
+<0004> Así que Lulu se rindió y dejó que se monte en su espalda, solo por un segundo...
+// (poppomama)
+<0005> Y se quedó dormida.
+// (lulu)
+<0006> Se quedó dormida! Lulu no pudo despertarla de ninguna forma... Ha estado babeando en el cuello de Lulu todo este tiempo.
+// (poppomama)
+<0007> Ufufu. Debe sentirse muy segura contigo, a lo mejor sabe que puedes po-tegerla.
+// (lulu)
+<0008> Lulu a veces se pregunta eso...
+// (poppomama)
+<0009> Oh, cielos. Ven aquí. Puedes contarle a Mamá lo que te está sucediendo.
+// (lulu)
+<0010> Bueno... Lulu solo está preocupada, ya que ahora sabe que fue creada por una mujer malvada y tiene su lado oscuro y todo...
+// (lulu)
+<0011> Ella está preocupada acerca de lo que podría significar, y si Lulu en verdad puede ser una persona común y corriente o no.
+// (poppomama)
+<0012> Ufufu. No creo que necesites preocuparte por eso. De hecho... Mamá es exactamente igual. ♥
+// (lulu)
+<0013> ¿Q-qué?
+// (poppomama)
+<0014> Sabes, Mamá - y de hecho, el Papá de Ellie también - fueron creaciones de Tomomo, tal como a ti te creó Mio.
+// (lulu)
+<0015> ¿E-en serio? Así que, Lulu... y la mamá de Ellie... ¿son iguales?
+// (poppomama)
+<0016> Sí, cariño. Y a pesar de ser creada por una mujer en la mediana edad...
+// (poppomama)
+<0017> Mamá ha podido ser participe de muchas aventuras, enamorarse, y tener una dulce y bella niña.
+// (poppomama)
+<0018> Si yo pude hacerlo, estoy segura de que tú también podrás.
+// (lulu)
+<0019> ...Muchas gracias. Eso hace que Lulu se sienta mucho mejor.
+// (poppomama)
+<0020> No, gracias a ti por ser una buena amiga para mi hija. Por favor, continúa pensando en ella a su lado.
+// (lulu)
+<0021> ¡Lulu hará sus mejores esfuerzos!
+// (poppomama)
+<0022> Buena niña. ♥\nDe hecho, también podrías tratar a Mamá como tu Mamá, si gustas.
+// (lulu)
+<0023> ¡Uwawawa! Lulu... El corazón de Lulu aún no está listo para esa clase de compromiso...
+// (poppomama)
+<0024> Bueno, espero que lo pienses. Después de ver como Mio te ha tratado, Mamá solo quiere robarte para ser de ella misma.
+// (lulu)
+<0025> Eek... Lulu siente que acaba de escuchar algo muy peligroso...
+// (lulu)
+<0026> ¡Oh! Pero, ¿puede Lulu bajar a Ellie ahora? Ella sigue babeando, y la espalda de Lulu se está cansando...
+// (poppomama)
+<0027> Solo si dices la palabra mágica.
+// (lulu)
+<0028> ¿Por favor? Aunque Lulu ya ha dicho por favor.
+// (poppomama)
+<0029> No. Es "Por favor, Mamá". ♥
+// (elliehyper)
+<0030> Zzz... Vamos a... tener más aventuras mañana... Lulu... *babeo*
+// (lulu)
+<0031> Waaahh... A este ritmo, Lulu no sabe si en verdad es un dragón de la suerte o no...
+

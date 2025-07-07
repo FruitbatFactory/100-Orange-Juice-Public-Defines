@@ -1,0 +1,646 @@
+
+// ========= Scene: 1-A =========
+
+// (krilap)
+<0000> Zzz... I call upon the dark spirits... zzz... this is my ultimate attack... zzz...
+
+// (mimyuuj)
+<0001> Hey, you. You're finally awake.
+
+// (krilap)
+<0002> Zzz...
+
+// (mimyuuj)
+<0003> Mimyuu said, YOU'RE FINALLY AWAKE!
+
+// (krilap)
+<0004> Huwha?!
+
+// (mimyuuj)
+<0005> Listen up, partner. We ain't meant to be here.
+
+// (krilap)
+<0006> What are you doing in my room?
+
+// (mimyuuj)
+<0007> We ain't in your room. We're in the big house. The pokey. The government's four star bed and breakfast!
+
+// (krilap)
+<0008> Why doth thou speak so oddly? Have the dark spirits possessed your tongue?
+
+// (mimyuuj)
+<0009> Prison changes a girl.
+
+// (krilap)
+<0010> How long have we been in here...?
+
+// (mimyuuj)
+<0011> About four hours. Mimyuu went crazy hour one, got bored of being crazy by hour three. Now Mimyuu's a hard-boiled tough customer.
+
+// (krilap)
+<0012> If I go to sleep for another four hours, will you get bored of this character too?
+
+// (mimyuuj)
+<0013> You can't go to sleep. We've been framed. Two clowns were running around with our faces and causing a ruckus, so we got caught holding the bag.
+
+// (krilap)
+<0014> I'll deal with it in the morning.
+
+// (mimyuuj)
+<0015> Don't worry. Mimyuu's got a plan. All we gotta do is bust out of this joint. And to do that, we just need to distract the guard.
+
+// (sorasp)
+<0016> Hello. It's breakfast time.
+
+// (krilap)
+<0017> B-breakfast? We get food here? For free?
+
+// (sorasp)
+<0018> Yes. In prison, you get three meals a day.
+
+// (krilap)
+<0019> What a devilish bargain... I may settle here and make this place into my dark stronghold.
+
+// (mimyuuj)
+<0020> Ain't this a little burnt, though?
+
+// (sorasp)
+<0021> It's Sham's cooking. She's doing her best.
+
+// (krilap)
+<0022> Even burnt toast is still a meal... The dark crunchy bits call to my black soul.
+
+// (mimyuuj)
+<0023> Hey, guard. What's a girl like you doing working in the clink?
+
+// (sorasp)
+<0024> I'm protecting people from bad guys.
+
+// (mimyuuj)
+<0025> So why are you wearing a school uniform?
+
+// (sorasp)
+<0026> It's only a morning job. I go to school after my shift.
+
+// (mimyuuj)
+<0027> It's 10 AM. School already started.
+
+// (sorasp)
+<0028> Oh no! I'm late! But if I go, all the prisoners will escape... auuuu...
+
+// (mimyuuj)
+<0029> Quick, partner! She's distracted! Bonk her on the head and make a break for it!
+
+// (krilap)
+<0030> But... my breakfast! My pillow! I don't want to go!
+
+// (mimyuuj)
+<0031> No time! Let's bust on out, partner!
+
+// (sorasp)
+<0032> Uuuu... I hope this won't go on my permanent record...
+
+// ========= Scene: 1-B =========
+
+// (mimyuuj)
+<0033> We got her! Come on, partner. Let's split.
+
+// (krilap)
+<0034> Indeed. You can scout the way, and I, the dark Krilalaris, will go back into the cell and enjoy three square meals a day.
+
+// (mimyuuj)
+<0035> You gotta be kidding. You won't last a day in this place.
+
+// (krilap)
+<0036> I know much of cages and bars. They cannot contain my fell powers.
+
+// (mimyuuj)
+<0037> It ain't that. It's just... there's mandatory hard labour!
+
+// (krilap)
+<0038> Ah.
+
+// (mimyuuj)
+<0039> And they won't let you browse comics to think up new special attacks!
+
+// (krilap)
+<0040> Ahh!
+
+// (mimyuuj)
+<0041> And... there's no such thing as a gothic lolita prison jumpsuit!
+
+// (krilap)
+<0042> Ahhhh! Quickly! We must flee this place!
+
+// (mimyuuj)
+<0043> That's what Mimyuu wanted to hear.
+
+// (sorasp)
+<0044> Auuuu...
+
+// (mimyuuj)
+<0045> Sorry, kid. Nothing personal. Hate to dump you in a bunch of trouble, but we're outta here.
+
+// (krilap)
+<0046> Simply recite this dark spell at the moment of judgement: "I hath suffered an accident in the workplace, and I believe I am entitled to compensation."
+
+// (sorasp)
+<0047> Uuuuu... Maybe I can get a sick note.
+
+// ========= Scene: 2-A =========
+
+// (mimyuuj)
+<0048> Heh heh! We did it, partner. We're officially on the lam!
+
+// (krilap)
+<0049> Lamb... Delicious meat skewers... So hungry... Can't move...
+
+// (mimyuuj)
+<0050> You didn't eat breakfast before we made a break for it?
+
+// (krilap)
+<0051> You broke us out before I could!
+
+// (mimyuuj)
+<0052> Guess we'll duck in here for a snack.
+
+// (mimyuuj)
+<0053> Gimme two cups of boiled leaves, a couple bow wows, then take two cackleberries and wreck 'em.
+
+// (chris)
+<0054> Will that be all?
+
+// (mimyuuj)
+<0055> One glass of moo juice, too.
+
+// (krilap)
+<0056> What kind of incantation was that? I don't even know what you ordered...
+
+// (mimyuuj)
+<0057> Neither does Mimyuu. But it sounded cool.
+
+// (krilap)
+<0058> Coolness is very important. One must always strive to impress the dark forces that surround us.
+
+// (mimyuuj)
+<0059> You got that right, partner.
+
+// (krilap)
+<0060> I also bestow upon you my thanks for remunerating the establishment in my stead.
+
+// (mimyuuj)
+<0061> Huh? Mimyuu ain't paying.
+
+// (krilap)
+<0062> I-I have forsaken material possessions as a tenet of my dark faith...
+
+// (mimyuuj)
+<0063> We're on the lam, partner. Hardened criminals. And you know what that means.
+
+// (krilap)
+<0064> We must rely on it... the dark and forbidden art...
+
+// (mimyuuj)
+<0065> That's right - the Dine and Dash.
+
+// (chris)
+<0066> Oh, really?
+
+// (krilap)
+<0067> Gulp.
+
+// (chris)
+<0068> Oh, manager!
+
+// (master)
+<0069> ...
+
+// (krilap)
+<0070> This day is the worst.
+
+// ========= Scene: 2-B =========
+
+// (mimyuuj)
+<0071> Alright, partner! Stuff your pockets with complimentary bread rolls and let's bounce.
+
+// (krilap)
+<0072> *nom nom* Thish will be a fine catalysht for my dark powersh...
+
+// (mimyuuj)
+<0073> Whoa, your cheeks have ballooned up like a squirrel's. That's talent.
+
+// (chris)
+<0074> Oh no... they even took out the manager. This is crazy...
+
+// (mimyuuj)
+<0075> Mimyuu's starting to think we maybe deserved that prison sentence.
+
+// (krilap)
+<0076> We will bestow upon thee a five star review in recompense.
+
+// (master)
+<0077> ...
+
+// (chris)
+<0078> In the end, they only took the free bread rolls.
+
+// (master)
+<0079> ...
+
+// (chris)
+<0080> You really do meet the weirdest people in customer service, huh...
+
+// (master)
+<0081> *nod*
+
+// ========= Scene: 3-A =========
+
+// (krilap)
+<0082> All I want to do is go back to sleep... Being on the run is so tiring.
+
+// (mescal)
+<0083> Hey, you! If you're looking for a comfy way to travel, try Big Magnum Airlines! Around the world in eighty minutes, or your trip is free!
+
+// (mimyuuj)
+<0084> Sounds like a good way to shake the fuzz.
+
+// (tequila)
+<0085> Aye. But before I can let ye aboard me airship, ye'll have to answer me riddles three.
+
+// (krilap)
+<0086> I see... Truly, a devilish bargain.
+
+// (mimyuuj)
+<0087> Is he a sphinx or something?
+
+// (tequila)
+<0088> First, riddle me this. What has four legs in the -
+
+// (mimyuuj)
+<0089> He IS a sphinx!
+
+// (tequila)
+<0090> Alright, I'll let ye skip that one. Second riddle: who be the cutest young lass to ever sail the skies?
+
+// (mimyuuj)
+<0091> Mescal?
+
+// (tequila)
+<0092> Aye, so it be.
+
+// (mimyuuj)
+<0093> You looked right at her when you said it.
+
+// (mescal)
+<0094> Oh, Daddy.
+
+// (tequila)
+<0095> For me last and hardest riddle... What be the sixteen digits on the front of your bank card?
+
+// (krilap)
+<0096> That's forbidden knowledge!
+
+// (mimyuuj)
+<0097> It was a grift the whole time, huh?
+
+// (tequila)
+<0098> O' course! This is piracy in the modern age! But if ye'd prefer, we can be more traditional. Mescal, man the cannons!
+
+// (krilap)
+<0099> Please just let me sleep already... Oh, I give up.
+
+// ========= Scene: 3-B =========
+
+// (tequila)
+<0100> Grrr... So be it. Ye can ride. I'd best not be hearin' any complaints out of you, though.
+
+// (krilap)
+<0101> I have a complaint!
+
+// (mimyuuj)
+<0102> Already? We ain't even on the boat yet.
+
+// (krilap)
+<0103> Why do you not wear an eyepatch?
+
+// (tequila)
+<0104> Because I still have both me eyes, lass.
+
+// (krilap)
+<0105> So do I, yet I still clad my evil eye in blackened silk.
+
+// (mescal)
+<0106> You know that's no good for your vision, right?
+
+// (krilap)
+<0107> You're a pirate, so you have the perfect excuse for eyepatchery! Let us call forth a Federation of Eyepatch Appreciation together.
+
+// (tequila)
+<0108> No chance, lass.
+
+// (krilap)
+<0109> Hmph. In that case, I will retreat below deck to catch up on my napping.
+
+// (tequila)
+<0110> Mescal?
+
+// (mescal)
+<0111> Yes, Daddy?
+
+// (tequila)
+<0112> Set the engines to full power. A little turbulence will teach her not to take her eyes off a pirate.
+
+// (mescal)
+<0113> Right!
+
+// (tequila)
+<0114> Me head's aching already... This looks to be a long flight.
+
+// ========= Scene: 4-A =========
+
+// (mimyuuj)
+<0115> End of the road, partner.
+
+// (krilap)
+<0116> We're right back where we started, though!
+
+// (mimyuuj)
+<0117> Obviously. We went around the world, so we came back to the same place. Mimyuu thinks we shook 'em off, though.
+
+// (qp)
+<0118> Not so fast!
+
+// (krilap)
+<0119> Ahh, the fell incarnation of the beast god... QP.
+
+// (qp)
+<0120> Who's QP?! I'm the Great Dog Detective, Sherlock Bones, and I've come to take you in.
+
+// (mimyuuj)
+<0121> Mimyuu ain't going back to the big house again. Let's split, partner.
+
+// (krilap)
+<0122> I, Krilalaris, will handle this. QP! Hear my cry. I will deliver unto you one cup of convenience store pudding tomorrow, in exchange for safe passage today!
+
+// (qp)
+<0123> Sorry, but I can't...
+
+// (krilap)
+<0124> What? But... it's pudding. The QP I know would disregard all morality for pudding!
+
+// (qp)
+<0125> I told you, I'm Sherlock Bones...
+
+// (krilap)
+<0126> She's a kind, gullible soul who always shares her lunch scraps with me if I ask, so much that my stomach rumbles even looking at her.
+
+// (mimyuuj)
+<0127> So you're just tricking her into being your meal ticket?
+
+// (krilap)
+<0128> You aren't like her at all! You must be a shadow doppelgänger sent from the Organization to sow havoc! I will not let you besmirch the name of the beast god!
+
+// (qp)
+<0129> Wait, but - the tables turned all of a sudden?! Uwaaa!
+
+// ========= Scene: 4-B =========
+
+// (mimyuuj)
+<0130> We actually beat the mutt?
+
+// (krilap)
+<0131> Hmph. The true QP's power is much more intense than this imposter's.
+
+// (mimyuuj)
+<0132> Really? Kinda felt like the usual, though.
+
+// (krilap)
+<0133> The true QP has a powerful mind-control forcefield to prevent people attacking her. If you gaze upon her charming tail fluff, thou art already under her spell...
+
+// (mimyuuj)
+<0134> So, she's a cute puppy. So's this one, though.
+
+// (krilap)
+<0135> Also, if attacked, the true QP refuses to give lunch scraps the day after. It's a technique for fermenting economic turmoil.
+
+// (mimyuuj)
+<0136> If you say so, partner. Let's leave this defective detective in the dust.
+
+// (qp)
+<0137> I'm not defective... and don't insult my tail fluff!
+
+// (mimyuuj)
+<0138> Detectives are boring anyway. For a real hard-boiled character, private eyes are the way to go.
+
+// (krilap)
+<0139> You're only saying that because Yuki has that kind of outfit.
+
+// (mimyuuj)
+<0140> The Big Boss is Mimyuu's goal, after all.
+
+// (krilap)
+<0141> Your loyalty as a minion of darkness is admirable.
+
+// ========= Scene: 5-A =========
+
+// (mimyuuj)
+<0142> Looks like we shook 'em off. Good work, partner.
+
+// (krilap)
+<0143> Huff... huff... Hah...
+
+// (mimyuuj)
+<0144> That dame with the tail is giving you the side-eye, though.
+
+// (krilap)
+<0145> Ufufu... Perhaps she's sensed my dark power.
+
+// (teotoratta)
+<0146> Hey, you over there! You've got the scent of a beast.
+
+// (krilap)
+<0147> *sniff sniff* I do?
+
+// (mimyuuj)
+<0148> Mimyuu didn't want to say anything, but she's right.
+
+// (krilap)
+<0149> Ah, no... I've been on the run and I haven't had time to shower... I-I mean, this miasma is simply my dark power escaping through my pores!
+
+// (teotoratta)
+<0150> You might know something. I'm sensing some kind of hugely powerful beast over in that direction. As the Beast Witch, I've gotta make it mine!
+
+// (krilap)
+<0151> But the circus is over that way... All the animals there are my precious minions already! Has something happened to them?
+
+// (teotoratta)
+<0152> Circus? A bunch of dastardly humans lording it over the animals, huh?
+
+// (krilap)
+<0153> I won't accept anybody hurting my dark minions! We must depart at once!
+
+// (teotoratta)
+<0154> Hey, hey! You're gonna try and cut ahead of me to make that beast your minion, even though I was the one who told you about it? Kinda rude, don't you think?
+
+// (mimyuuj)
+<0155> She's got you there, Stinky.
+
+// (krilap)
+<0156> S-silence! If you stand in my way, I will enact a carnival of blood!
+
+// (teotoratta)
+<0157> Fu-fu-fu. So it's survival of the fittest, huh? Let me show you how a real beast dances! Gaaao!
+
+// ========= Scene: 5-B =========
+
+// (teotoratta)
+<0158> Ugh... I never thought I'd lose to another beast master. My pride as a witch just took serious damage.
+
+// (mimyuuj)
+<0159> My partner's kind of a dork, but she's got some real skill.
+
+// (krilap)
+<0160> Ufufu. You still fail to understand my dark aesthetic... Anyway. Beast Witch, I will bestow this upon you.
+
+// (teotoratta)
+<0161> Huh? I-Is this pet food?
+
+// (krilap)
+<0162> It is one of the treats with which I tempt the mighty lions of our circus.
+
+// (teotoratta)
+<0163> I don't know how to feel about this... It does smell good, though.
+
+// (krilap)
+<0164> Indeed. I get the best lion treats, for they can function as rations of last resort on long winter days...
+
+// (teotoratta)
+<0165> That's just depressing.
+
+// (krilap)
+<0166> Regardless, it is my parting gift to thee. Farewell!
+
+// (teotoratta)
+<0167> ... *crunch*
+
+// (teotoratta)
+<0168> Huh. Not bad.
+
+// ========= Scene: 6-A =========
+
+// (mimyuuj)
+<0169> This is it, partner. The big time.
+
+// (krilap)
+<0170> You mean the big top.
+
+// (mimyuuj)
+<0171> That too.
+
+// (unknown)
+<0172> Fuhuhu... Finally, you've arrived... My other self!
+
+// (krilap)
+<0173> You!
+
+// (krila)
+<0174> It is I, the dark Krilalaris!
+
+// (mimyuu&tomato)
+<0175> Plus the up and coming stars of Waruda!
+
+// (krila)
+<0176> I knew you would come here, my dark nemesis. But you are too late. I have enacted the blood ritual! Leo has ascended!
+
+// (No Speaker)
+<0177> *roaaaaaar*
+
+// (krila)
+<0178> He is now Dark Calamity Leo, the Apocalypse Liger!
+
+// (mimyuuj)
+<0179> Mimyuu ain't no animal doctor, but wasn't he a lion before?
+
+// (krilap)
+<0180> Ligers are cooler.
+
+// (krila)
+<0181> Silence! Now, our fated duel is at hand. We must battle for control of the ultimate Leo!
+
+// (mimyuu&tomato)
+<0182> Hey you, other Mimyuu! Aren't you missing somebody? Sure you can challenge us solo like that?
+
+// (mimyuuj)
+<0183> Heh. Joke's on you. Mimyuu may not have her own Boss, but her partner's been right beside her the whole time.
+
+// (krilap)
+<0184> My dark other self... you are destined to fall. Because I, the dark-ER Krilalaris, possess something you do not!
+
+// (krila)
+<0185> Oh?
+
+// (krilap)
+<0186> At long last, I have stolen it - the power of friendship!
+
+// (mimyuuj)
+<0187> You tell them, partner!
+
+// (krilap)
+<0188> Actually, I was talking about my friendship with Leo.
+
+// (mimyuuj)
+<0189> Guh...
+
+// (krila)
+<0190> Enough! I will defeat myself for control of the ultimate darkness! Let the mad beasts dance.
+
+// ========= Scene: 6-B =========
+
+// (mimyuuj)
+<0191> Well, we beat those guys... But that lion's still raising the roof.
+
+// (krilap)
+<0192> His right paw... I can feel the dark power emanating from it!
+
+// (mimyuuj)
+<0193> Whoa, he's coming this way! Calm him down, would ya?!
+
+// (krilap)
+<0194> The unsealed king of beasts approaches... N-N-Now is the time to draw forth my hidden power!
+
+// (mimyuuj)
+<0195> I'll watch your back, partner. From over here.
+
+// (krilap)
+<0196> W-w-wait, come back! The dark power is having an off day today -
+
+// (krilap)
+<0197> Ah... I've been consumed by darkness...
+
+// (krilap)
+<0198> This is... Calamity Leo's fur...? So warm... and comfy... finally... my eternal... rest... zzzzzzz...
+
+// (mimyuu)
+<0199> Oi, Krila! Get up already!
+
+// (krilap)
+<0200> Uwaah! I was travelling the realm of dreams the whole time?
+
+// (yukid)
+<0201> Better get up soon. Those lions need feeding, you know? Better not underestimate the wrath of a big cat.
+
+// (krilap)
+<0202> I feel like I didn't sleep at all...
+
+// (yukid)
+<0203> Well, get up and get ready to move out. We've got big plans today. If we pull this off, there's some extra lunch in it for you.
+
+// (krilap)
+<0204> A nice meal... I'll use all my power to obtain it!
+
+// (mimyuu)
+<0205> Looks like you and Mimyuu are partnering up today. Let's get out there and cause some trouble.
+
+// (krilap)
+<0206> It seems our destinies are tied together... Partner.
+

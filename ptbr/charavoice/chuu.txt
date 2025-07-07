@@ -1,0 +1,155 @@
+<0000> Lá vai.
+<0001> Mandando o dado.
+<0002> Dado, me dê algo bom.
+<0003> O verdadeiro jogo começa agora.
+<0004> Eu creio que esta vai funcionar melhor nesta situação.
+<0005> Eu deveria jogar uma carta agora.
+<0006> Hmm, esta aqui deve funcionar.
+<0007> Esta aqui, talvez?
+<0008> Colocando uma armadilha aqui.
+<0009> Isso poderá ser um desastre pra alguém depois.
+<0010> Hora de botar uma armadilha.
+<0011> Hmm, eu deveria botar esta aqui?
+<0012> Vamos jogar esta carta, só por garantia.
+<0013> Eu vou ganhar a luta com esta carta.
+<0014> Certo, eu vou jogar esta carta para tomar vantagem.
+<0015> Vamos ver como esta carta vai ajudar.
+<0016> Okay, eu acho que é hora de fazer isto.
+<0017> Eu pensei que teria que ficar caída.
+<0018> Nossa, estou grata que estou de pé de novo.
+<0019> Eu não estou na melhor das posições... mas creio que vai funcionar de alguma forma.
+<0020> Certo, estou de volta a ação. Eu ainda posso virar este jogo.
+<0021> Ugh, isto não é bom.
+<0022> Estou seguindo por um caminho perigoso.
+<0023> Sério...? Tsk.
+<0024> Oh mano, eu errei?
+<0025> Eu creio que irei para a ofensiva.
+<0026> Eu vou ficar agressiva, beleza?
+<0027> Eu vou atacar primeiro e prevenir que você me ataque.
+<0028> Você precisa estar preparado para um pouco de dor.
+<0029> Oops.
+<0030> Isto dói!
+<0031> Oh, qual é.
+<0032> Eu errei.
+<0033> Se curar é crucial.
+<0034> Certo, creio que estou muito melhor agora?
+<0035> O dano de antes se foi todo.
+<0036> Creio que me recuperei o suficiente para ir com tudo?
+<0037> Certo, então é isso.
+<0038> Oops, onde irei parar?
+<0039> Oh, whoa.
+<0040> Onde eu parar vai decidir minha situação...
+<0041> Raios, isto é horrível!
+<0042> Você está brincando comigo!!!
+<0043> Aaaaaaaah!!!
+<0044> Meu estilo de jogo é responsável por este nocaute...?
+<0045> Aceite meu desafio!
+<0046> Eu vou te derrotar.
+<0047> Hora de uma luta de punhos!
+<0048> É o momento para atacar!
+<0049> Eita, eu não percebi este desafio.
+<0050> Okay, eu vou pensar em algo.
+<0051> Oh, você está explodindo em energia, né?
+<0052> Parece que você está pronto para lutar!
+<0053> Ora!
+<0054> Como ousa!
+<0055> Pereça!
+<0056> Caia morto!
+<0057> Goh!
+<0058> Uge.
+<0059> Tsk.
+<0060> Não é um grande problema, mas...
+<0061> Espera um pouco.
+<0062> Isto não é justo...
+<0063> Você poderia ter pego leve comigo.
+<0064> Raios!
+<0065> Fui quase atingida.
+<0066> Não tomei dano.
+<0067> Não posso me dar ao luxo de tomar dano.
+<0068> Deu um frio na barriga.
+<0069> Hah-hah-hah!
+<0070> Pensou que você poderia me derrotar?
+<0071> Você é pateticamente fraco... Oh, desculpa pelas palavras duras.
+<0072> Mano, as coisas estão indo bem para mim! ...Estou ficando empolgada demais?
+<0073> Raios!!!
+<0074> Oh, qual é!
+<0075> Por que eu sequer estou fazendo isso!?
+<0076> Oh, sério!?
+<0077> Certo, estrelas obtidas.
+<0078> Você precisa de estrelas, não importa o que faça.
+<0079> Certo, isto é incrível.
+<0080> Estou levando estas.
+<0081> Oh...
+<0082> Para com isso, por favor!
+<0083> Isso foi um desastre financeiro.
+<0084> Mano, foi tudo de mal a pior pra mim.
+<0085> E eu fui direto para uma armadilha.
+<0086> Não, pare com isso!
+<0087> Não, um montão de nãos.
+<0088> Ugh, uma armadilha?
+<0089> Eu tenho que ser ainda mais cuidadosa agora.
+<0090> Oh mano, um chefe está aqui agora.
+<0091> Aqui vem um chefe. O que isso vai mudar, me pergunto.
+<0092> Por que você não vai derrotar outro jogador?
+<0093> Creio que vou coletar estrelas.
+<0094> Eu irei com estrelas.
+<0095> Eu vou aproveitar e conseguir pra mim mais estrelas.
+<0096> Estou fixada em coletar estrelas.
+<0097> Batalhas... Eu vou tentar não ficar tão empolgada.
+<0098> Bem, batalhas me dão um ápice de adrenalina.
+<0099> Relaxe, Chuu. Você não quer virar o tipo de pessoa que busca brigas.
+<0100> Uh, eu odeio ter que admitir isso, mas... Eu sinto que tem uma parte de mim que é sedenta por brigas.
+<0101> Me chame de Chuu.
+<0102> Oh, você quer jogar uma partida? Mas é claro.
+<0103> Eu não tinha nada para fazer, chegou numa boa hora.
+<0104> Eu posso ficar empolgada facilmente. Não deixe isso te intimidar, beleza?
+<0105> Eu não me saio bem em jogos baseados em sorte, mas...
+<0106> Eu uso estratégias para conquistar minhas vitórias.
+<0107> Certo, onde eu começo?
+<0108> Vamos lá.
+<0109> Eu venci. Fufu.
+<0110> Eu acho que me empolguei um pouquinho demais.
+<0111> É ISSO AÍ POURA! Oh, desculpa pelo berro.
+<0112> Parece que meus planos funcionaram perfeitamente...
+<0113> Vejamos.
+<0114> Conseguiu algo novo?
+<0115> Eu acho que conseguimos algo bom...
+<0116> Oh, o que é isso?
+<0117> Vamos trocar.
+<0118> Eu acho que está na hora de uma troca de jogadores.
+<0119> Eu preciso descansar um pouco. Está nas suas mãos agora.
+<0120> Que ótimo fazer time com você.
+<0121> OK.
+<0122> Oh.
+<0123> Eu consigo.
+<0124> Não.
+<0125> Aff, mano.
+<0126> Eu fui sortuda.
+<0127> O quê... Ãhn?
+<0128> Certo!
+<0129> Vamos lá.
+<0130> Boa sorte.
+<0131> Yo.
+<0132> Bem.
+<0133> Muito bom.
+<0134> Isto é incrível.
+<0135> Aaaaaaaah!!! Raios!
+<0136> Aqui uma carta que eu apanhei.
+<0137> Não tenho certeza de quando eu devia jogar esta aqui, mas eu creio que a hora é agora.
+<0138> Não que eu use essa carta muito, mas eu acho que vai ajudar.
+<0139> Permita-me usar a carta Hiper de outra pessoa.
+<0140> Obrigada.
+<0141> Preciso ficar de olho na sorte da Poyo.
+<0142> Estou contando com você para tirar boas cartas.
+<0149> Jogar com a galera de sempre é aliviante.
+<0150> Marc e eu somos um tanto parecidas, né?
+<0151> Oh, eu pensei que você era eu.
+<0152> Voar num avião é algo que gostaria de experimentar logo.
+<0153> Aviões e foguetes de fato parecem formidáveis...
+<0154> Chris, obrigada pelo seu excelente serviço no restaurante.
+<0155> Chris!?
+<0156> É meio estranho vencer de alguém conhecido...
+<0157> Você realmente não pegou leve comigo...
+<0158> Você foi um pouco longe demais, Chuu. Toma mais cuidado.
+<0159> Você não é assim, Chuu. Acalme-se.
+<0160> Isto não é bom. Este tipo de empolgação não é bom.

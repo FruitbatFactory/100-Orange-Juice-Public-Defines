@@ -1,0 +1,163 @@
+<0117> Espero que mi ejemplo haya sido útil.
+<0118> Confío en que podrás encargarte del resto.
+<0119> ¡Rápido, debes tomar mi lugar!
+<0120> ¿Todo listo? Debes tomar mi lugar.
+
+<0150> Tu genio es necesitado nuevamente.
+<0151> Muy bien. Te daré una mano una vez más.
+
+<0000> Así.
+<0001> Es hora.
+<0002> Aquí.
+<0003> Hmph.
+<0004> Esto es para el futuro.
+<0005> Debo ejecutar este movimiento a la perfección.
+<0006> Estoy preparado.
+<0007> Hmm... ¿Acaso es hora?
+<0008> Debería enseñarles una lección de prudencia.
+<0009> ¿Cómo te gustaría esto?
+<0010> Todos deben estar alertas por aquí.
+<0011> ¿Por qué no usamos una estrategia más sutil?
+<0012> Es la hora de usar todo mi arsenal.
+<0013> ¡Nunca te precipites!
+<0014> Debería darlo todo.
+<0015> Hrmm... ¡Este!
+<0016> Todas las armas preparadas... ¡FUEGO!
+<0017> He descansado lo suficiente.
+<0018> Estoy listo para volver a levantarme.
+<0019> Reinicia todos los motores y despega una vez más.
+<0020> Cada división está obligada a conducir una nueva inspección.
+<0021> Parece que necesitaré unos minutos más...
+<0022> La prisa desperdicia.
+<0023> Los reparos deben ser hechos sin descuidos.
+<0024> Qué vergonzoso...
+<0025> ¡Avancen!
+<0026> ¡En marcha!
+<0027> ¡Apunten!
+<0028> ¡Ahí!
+<0029> ¡Recibiendo daño!
+<0030> ¡¿Fuego enemigo?!
+<0031> Ugoh...
+<0032> Una pequeña inconveniencia.
+<0033> Bien.
+<0034> Oh, eso se siente bien.
+<0035> O-ooh...
+<0036> Qué placentero.
+<0037> Identifiquen la ubicación actual de inmediato.
+<0038> ¡La tormenta me está llevando fuera de curso!
+<0039> Ooo...
+<0040> Qué movimientos tan turbulentos...
+<0041> Los planes mejor trazados...
+<0042> Hoy me siento como alguien de mi edad.
+<0043> Nos retiraremos por el momento.
+<0044> Debo ajustar mis tácticas.
+<0045> Debo quitar todos los obstáculos del camino.
+<0046> Tu postura necesita más trabajo.
+<0047> Permite que esto sea una lección para ti.
+<0048> Ya es suficiente.
+<0049> Qué audaz.
+<0050> ¿Qué es esta tontería?
+<0051> ¿Hm...?
+<0052> Un ataque sorpresa...
+<0053> Ríndete.
+<0054> ¡Armas preparadas!
+<0055> ¡Fuego!
+<0056> ¡Aquí!
+<0057> Mhm.
+<0058> ¡Hmm!
+<0059> ¡Omph!
+<0060> Guoh.
+<0061> ¡Sin precedentes!
+<0062> ¡Guu!
+<0063> ¡Estoy recibiendo daños graves...!
+<0064> ¡Iniciando el control de daño!
+<0065> Toma nota.
+<0066> Tu puntería necesita más trabajo.
+<0067> De esta forma.
+<0068> Tomando acción evasiva.
+<0069> Todo se reduce a la experiencia.
+<0070> Espero que con esto hayas aprendido una lección.
+<0071> Necesitas más disciplina.
+<0072> Realmente es una pena.
+<0073> Es tu victoria.
+<0074> Se ha acabado.
+<0075> Nunca pensé que me derrotarías.
+<0076> Adelante.
+<0077> Les daré un buen uso.
+<0078> Una nueva financiación ha sido asegurada.
+<0079> Qué maravilla.
+<0080> Un sonido placentero.
+<0081> ¡Qué mala suerte...!
+<0082> ¡Ah, me están robando!
+<0083> ¡No de esta forma!
+<0084> Esto es un desastre...
+<0085> Cometí un error.
+<0086> ¡Qué torpeza!
+<0087> ¡Uohh!
+<0088> ¡¿Qué?!
+<0089> Un oponente poderoso.
+<0090> Debo acercarme con mucha precaución.
+<0091> Creería que he adquirido la inteligencia suficiente.
+<0092> Mis instintos están advirtiéndome.
+<0093> Debo recuperar los fondos necesarios una vez más.
+<0094> Las estrellas son mis viejas amigas.
+<0095> Vuelo en una nave muy ajustada.
+<0096> Hacer un presupuesto es mi especialidad.
+<0097> Ya no soy tan joven como lo solía ser, pero...
+<0098> Después de todo, este es mi llamado.
+<0099> Ya estoy acostumbrado a esto.
+<0100> A veces luchar es la única opción.
+<0101> Lo que carezco en vigor lo reemplazo con experiencia.
+<0102> Muy bien. Te guiaré hacia la victoria.
+<0103> ¿Hm? ¿Yo? Bueno, por qué no.
+<0104> Así que mis habilidades vuelven a ser necesitadas una vez más.
+<0105> Hora de acabar con más trabajo.
+<0106> No hay hora como el presente
+<0107> No puedo perder más tiempo.
+<0108> Vamos a practicar con la nueva estrategia.
+<0109> Perfectamente de acuerdo con el plan.
+<0110> Una actuación pasable. La próxima vez, lo haré aún mejor.
+<0111> Esto requiere de una celebración.
+<0112> Parece que aún sigo siendo el mismo.
+<0113> Una recompensa por un trabajo bien realizado.
+<0114> Una recompensa adecuada.
+<0115> Qué gran hallazgo.
+<0116> Esto sin dudas será de mucha utilidad.
+<0121> Comprendido.
+<0122> Excelente.
+<0123> Muy bien.
+<0124> Lamento decirte que debo rehusarme.
+<0125> Mis condolencias.
+<0126> La fortuna te sonríe el día de hoy.
+<0127> No me digas...
+<0128> El tiempo ha llegado.
+<0129> Permítenos tirar los dados.
+<0130> Iremos adelante.
+<0131> Bien hallado.
+<0132> ¿Hmm...?
+<0133> Qué excelente.
+<0134> ¡Maravilloso!
+<0135> ¡Maldito!
+<0136> Creo entender sus principios básicos.
+<0137> Parece que esto me otorgará una ventaja.
+<0138> Por el bien de la victoria...
+<0139> Los tiempos de desesperación requieren medidas desesperadas.
+<0140> Te doy las gracias.
+<0141> Así que el escenario ha sido establecido.
+<0142> ¿Podría obtener un momento de tu tiempo?
+<0143> ¿Es esta una prueba?
+<0144> Debes intentar calmarte.
+<0145> Tu victoria no es un pase libre para ir por unas bebidas juntos, sabes.
+<0146> Parece que aún no puedo volver a verte a los ojos.
+<0147> Te he pedido que me dejes de llamar así.
+<0148> Parece que esta vez yo soy el que tendrá la última palabra.
+<0149> Ya veo... haz lo que debas hacer.
+<0152> Sin queja alguna.
+<0153> Mantén el buen trabajo.
+<0154> Oh vaya.
+<0155> El peor trabajo que se ha hecho.
+<0156> Tú pareces ser un riesgo muy significante para mi seguridad.
+<0157> El fusible... ¿Acaso he fallado?
+<0158> Qué misterio.
+<0159> Me he preparado por mucho tiempo para este momento.
+<0160> Todos los cañones han sido cargados.

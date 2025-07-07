@@ -1,0 +1,167 @@
+
+// ========= Scene: Spring 2020 Event Start =========
+
+// (No Speaker)
+<0000> After starting to travel together, Ellie and Lulu arrive at a town.
+
+// (ellie)
+<0001> A-a-ahaaa! Ohmigawd, ohmigawd! We're in the biggest trouble ever, Lulu!
+
+// (lulu)
+<0002> What's the problem, Ellie?
+
+// (ellie)
+<0003> We're all out of travel money...
+
+// (lulu)
+<0004> Out of what?
+
+// (ellie)
+<0005> Travel money! We can't stay at an inn or get food without it!
+
+// (lulu)
+<0006> We can't get food?! T-this is a crisis!
+
+// (ellie)
+<0007> Ugh, I've got no choice but to string along some suckers for cash!
+
+// (lulu)
+<0008> You sure you can do that?
+
+// (ellie)
+<0009> It's gonna be fine. I'm such a super cute girl, I bet I can make enough money to buy a country in a day...!
+
+// (lulu)
+<0010> A doghouse would be the best you could get.
+
+// (ellie)
+<0011> Huh? Did you just insult me?
+
+// (lulu)
+<0012> No way.
+
+// (ellie)
+<0013> Hmm, but seriously, what should we do? Not being able to get food means not being able to maintain my stunning bodyyy.
+
+// (lulu)
+<0014> Hey, Ellie, what are those papers over there about?
+
+// (ellie)
+<0015> Huh? They're...
+
+// (ellie)
+<0016> Monster hunting quests...!
+
+// (ellie)
+<0017> Okay, alright... I can beat all these monsters up real easy!
+
+// (lulu)
+<0018> What will happen if you beat them?
+
+// (ellie)
+<0019> You'll get rewarded with money!
+
+// (lulu)
+<0020> So that means...
+
+// (ellie)
+<0021> We can get a fancy dinner and sleep in comfy beds tonight!
+
+// (ellieandlulu)
+<0022> Ahaaa!"
+
+// (ellie)
+<0023> Alright, Lulu, we'll go hunt some monsters right now!
+
+// (lulu)
+<0024> Yeah!
+
+// ========= Scene: Spring 2020 Event Ending =========
+
+// (ellie)
+<0025> Behold! This is the bounty we earned! Ahaaa!
+
+// (lulu)
+<0026> Whoaaa, that's amazing, Ellie! With that, we'll be able to afford food for a while, won't we?
+
+// (ellie)
+<0027> Definitely. I mean, I even got enough to party a bit... Ku-fu-fu.
+
+// (lulu)
+<0028> Wah, you look like you're thinking of something wicked.
+
+// (ellie)
+<0029> Oh right, I've got to reward you for all your hard work out there, too.
+
+// (lulu)
+<0030> Yeah, Lulu worked real hard, too!
+
+// (ellie)
+<0031> Anything you want?
+
+// (lulu)
+<0032> Hmm... Lulu wants some good food, and that's it.
+
+// (ellie)
+<0033> Ahaaa! ♥ Of course, I'm going to get you good food!
+
+// (ellie)
+<0034> But I want to get you something else as a gift.
+
+// (lulu)
+<0035> A gift? Hmm, what Lulu wants is...
+
+// (lulu)
+<0036> She can't think of anything.
+
+// (ellie)
+<0037> You've got no dreams, Lulu!
+
+// (ellie)
+<0038> If you really have no idea what you want, I'll choose for you.
+
+// (lulu)
+<0039> Ah, Lulu likes the sound of that! She wants you to choose for her!
+
+// (ellie)
+<0040> Alright, I got this! With my most excellent taste in gifting, I'll get you the best gift you ever got.
+
+// (ellie)
+<0041> Now, ta-da!
+
+// (lulu)
+<0042> Howah. Is that a... strip of cloth?
+
+// (ellie)
+<0043> This goes around your big tail like this and...
+
+// (ellie)
+<0044> Done!
+
+// (lulu)
+<0045> Wow, it's a ribbon!
+
+// (ellie)
+<0046> Ahaaa ♥ You look super cute with it on!
+
+// (lulu)
+<0047> That's quite a normal gift from someone with the most excellent taste, but yeah, it sure is cute.
+
+// (ellie)
+<0048> Wait, did you just insult my tas-
+
+// (lulu)
+<0049> Lulu loves it. Thanks so much, Ellie!
+
+// (ellie)
+<0050> Ahaaa, you're welcome! There's a whole lot more, though!
+
+// (ellie)
+<0051> Look, Lulu, we still have this much money left. Let's go party! Party!
+
+// (lulu)
+<0052> Whoa, Ellie, wait up!
+
+// (ellie)
+<0053> Ahaaa ♥
+

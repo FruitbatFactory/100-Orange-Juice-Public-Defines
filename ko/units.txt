@@ -1,0 +1,628 @@
+
+< CARD_UNIT_ALTE >
+name=알테
+descr=배틀에서 무작위로 상대 패의 배틀 카드 한 장을 볼 수 있다.\n"자폭" 성공 시 공격력 +1을 (+3까지) 얻는다.
+
+< CARD_UNIT_ARTHUR >
+name=아서
+descr=보너스 패널과 하비샵 효과를 통해 스타를 얻을 때마다 세팅된 하비샵의 갯수만큼 스타를 추가로 얻는다. 하비샵의 갯수는 현재 레벨만큼까지만 센다.
+
+< CARD_UNIT_ARU >
+name=아루
+descr=패를 4장까지 가질 수 있다.
+
+< CARD_UNIT_ARUSCRAMBLE >
+name=아루 (스크램블)
+descr=패를 4장까지 가질 수 있다.
+
+< CARD_UNIT_BIG_THE_JONATHAN >
+name=대왕 조나단
+descr=플레이어가 KO될 때마다 1챕터 동안 공격력 +1을 얻는다. 매 4챕터마다 보스 턴 종료 시에 날아오르기를 쓴다. 매 10챕터마다 공격력 +1, 방어력과 회피력 -1을 영구히 얻는다.
+
+< CARD_UNIT_BIG_THE_JONATHAN_HYPER >
+name=대왕 조나단
+descr=플레이어가 KO될 때마다 1챕터 동안 공격력 +1을 얻는다. 매 3챕터마다 보스 턴 종료 시에 날아오르기를 쓴다. 매 10챕터마다 공격력 +1, 방어력과 회피력 -1을 영구히 얻는다.
+
+< CARD_UNIT_BOSS_CHICKEN >
+name=대왕 하루오
+descr=필드에 있는 부하 닭의 수만큼 공격 주사위 1개와 공격력과 방어력 -1을 얻는다. 5챕터마다 부하 닭을 소환한다.
+
+< CARD_UNIT_BOSS_CHICKEN_HYPER >
+name=대왕 하루오
+descr=필드에 있는 부하 닭의 수만큼 공격 주사위 1개와 공격력과 방어력 -1을 얻는다. 5챕터마다 부하 닭을 2마리 소환한다.
+
+< CARD_UNIT_BOSS_POPPO >
+name=스타 디바우러
+descr=플레이어의 챕터 스타 보너스가 2배가 된다. 배틀 피해를 입을 때마다 챕터 끝까지 중첩 가능한 방어력 +1을 얻는다. 소지한 스타 300개마다 배틀 피해 1을 추가로 주며 플레이어에게 입히는 배틀 피해 1점당 5스타를 얻고 플레이어에게 입는 배틀 피해 1점당 3스타를 상대에게 준다. 1000스타 보유 시 승리하고, 0스타 보유 시 패배한다.
+
+< CARD_UNIT_BOSS_POPPO_HYPER >
+name=스타 디바우러
+descr=플레이어의 챕터 스타 보너스가 2배가 된다. 배틀 피해를 입을 때마다 챕터 끝까지 중첩 가능한 방어력 +1을 얻는다. 소지한 스타 300개마다 배틀 피해 1점을 추가로 주며 플레이어에게 입히는 배틀 피해 1점당 5스타를 얻는다. 1000스타 보유 시 승리하고, 0스타 보유 시 패배한다.
+
+< CARD_UNIT_BOSS_QP >
+name=섬머 비스트
+descr=매 턴 부하 갈매기를 하나 (최대 보스 레벨만큼까지) 소환한다. 부하가 KO될 때마다 신남 1을 잃는다. 플레이어가 KO될 때마다 신남 1을 얻는다. 보스 턴 시작 시 신남이 10 이상일 때 광분한다.
+
+< CARD_UNIT_BIG_POPPO >
+name=큰 폿포
+descr=배틀에서 HP 피해를 주지 않으나 입히는 피해 1점당 3스타를 빼앗는다. KO당할 시 부활값 10을 얻고 상대에게 100스타와 3승을 준다.
+
+< CARD_UNIT_BIG_POPPO_NM >
+name=큰 폿포
+descr=
+
+< CARD_UNIT_BOSS_ROBOBALL >
+name=M10 로봇
+descr=보스 턴에 적에게 도전해도 이동을 멈추지 않는다. 보호도 교란됨도 없을 시 보호를 사용한다.
+
+< CARD_UNIT_BOSS_ROPOCHI >
+name=로포닭
+descr=포호도 교란됨도 없을 때 포호를 쓴다. 필드에 있는 부하 하나당 공격력 -2와 공격 주사위 +1을 얻는다. 6챕터마다 횃대 추진을 쓴다. 플레이어에게 주는 배틀 피해 1점당 3스타를 얻는다.
+
+< CARD_UNIT_BOSS_ROPOCHI_HYPER >
+name=로포닭
+descr=포호도 교란됨도 없을 때 포호를 쓴다. 필드에 있는 부하 하나당 공격력 -2와 공격 주사위 +1을 얻는다. 6챕터마다 횃대 추진을 쓴다. 플레이어에게 주는 배틀 피해 1점당 5스타를 얻는다.
+
+< CARD_UNIT_BOSS_COACH >
+name=수영 코치
+descr=2챕터마다 골포스트를 사용한다.\n몸짱 풍선이 없다면 몸짱 풍선을 쓴다.\n수영 튜브가 둘 미만이면 수영 튜브를 사용한다.
+
+< CARD_UNIT_BOSS_COACH_HYPER >
+name=수영 코치
+descr=2챕터마다 골포스트를 사용한다.\n몸짱 풍선이 없다면 몸짱 풍선을 쓴다.\n수영 튜브가 둘 미만이면 수영 튜브를 사용한다.\n배틀에서 피해를 입지 않는다.
+
+< CARD_UNIT_GOALPOST >
+name=골포스트
+descr=이동이나 회피를 하지 않으며 피해 1을 주는 공격에만 피해를 입는다.
+
+< CARD_UNIT_BALLOON_JERK >
+name=몸짱 풍선
+descr=
+
+< CARD_UNIT_SWIMMING_RINGER >
+name=수영 튜브
+descr=이동력 -1을 얻는다.
+
+< CARD_UNIT_CHICKEN >
+name=닭
+descr=
+
+< CARD_UNIT_CHICKEN_MP >
+name=닭
+descr=배틀에서 KO당할 때 상대에게 소지 스타의 1/4과 1승을 준다.
+
+< CARD_UNIT_CASTLE >
+name=하늘을 나는 성
+descr=
+
+< CARD_UNIT_CASTLE_MP >
+name=하늘을 나는 성
+descr=방어 시 상대는 배틀 카드를 사용할 수 없다.\n움직이지 않는 물체의 효과를 받지 않는 한 반격 불가.
+
+< CARD_COOP_UNIT_CASTLE_MP >
+name=하늘을 나는 성
+descr=도전을 받았을 때 반격할 수 없다.
+
+< CARD_UNIT_CEOREPARQUE >
+name=케오레파르퀘
+descr=회피 성공 시 상대에게 피해 1을 준다.
+
+< CARD_UNIT_CUTIES >
+name=귀염둥이
+descr=스타 노르마만 선택할 수 있다. 보너스 패널로부터 스타를 얻을 때마다 사용한 이벤트 카드의 가짓수만큼 추가 스타를 얻는다. 배틀에서 공격력 +1 또는 방어력 +1을 무작위로 얻는다.
+
+< CARD_UNIT_FERNET >
+name=페르넷
+descr=
+
+< CARD_UNIT_HIME >
+name=히메
+descr=
+
+< CARD_UNIT_IRU >
+name=이루
+descr=적에게 배틀로 도전할 때 상대는 피해 1을 받는다. 이 효과로 인한 KO는 배틀 KO로 간주한다.
+
+< CARD_UNIT_ISLAY >
+name=아일레이
+descr=배틀에 도전할 수 없다.
+
+< CARD_UNIT_KAE >
+name=카에
+descr=배틀 시 방어력의 반전값만큼 공격력에 더한다.\n선공 시 방어력 -1을 얻는다.
+
+< CARD_COOP_UNIT_KAE >
+name=카에
+descr=배틀 시 방어력의 반전값만큼 공격력에 더한다.
+
+< CARD_UNIT_KAI >
+name=카이
+descr=
+
+< CARD_UNIT_KIRIKO >
+name=키리코
+descr=회복 효과를 무시한다. 배틀 카드를 낼 시 해당 배틀에서 공격력과 회피력 +1을 얻으며, 이상한 약 (최대 HP가 1만큼 (최저 2까지) 영구적으로 감소) 1중첩을 얻는다.
+
+< CARD_UNIT_KRILA >
+name=크릴라라리스
+descr=
+
+< CARD_UNIT_KYOKO >
+name=쿄코
+descr=배틀에서 회피 커맨드를 선택할 수 없다.
+
+< CARD_UNIT_KYOUSUKE >
+name=쿄스케
+descr=
+
+< CARD_UNIT_MALT >
+name=몰트
+descr=배틀에서 KO당할 시 상대에게 3승을 준다. 배틀에 도전할 수 없다. 특수한 사용 조건이 없는 배틀 카드를 트랩 카드로 취급하여 코스트 없이 세팅할 수 있다. 다른 적이 이를 밟을 경우 그 유닛과 배틀하며 양측은 트랩으로 사용한 배틀 카드의 효과를 받으나 배틀 카드를 낼 수 없다.
+
+< CARD_UNIT_MANAGER >
+name=점장
+descr=
+
+< CARD_UNIT_MANAGER_MP >
+name=점장
+descr=보너스 칸에서 스타를 얻을 수 없다. 기프트 타입 카드만 사용할 수 있다. 카드를 한 장 버릴 때마다 피해 1을 받는다.
+
+< CARD_UNIT_MARC >
+name=마르
+descr=
+
+< CARD_UNIT_MEI >
+name=메이
+descr=턴 종료시 패가 한 장도 없으면 "아카와 아오"를 얻는다.
+
+< CARD_UNIT_MESCAL >
+name=메스칼
+descr=배틀 도전을 받을 때 50% 확률로 해적 부하가 대신 싸운다. 이 해적 부하가 배틀에서 KO되면 3챕터 동안 나를 대신해 싸우지 않는다. 해적 부하는 배틀에서 획득한 스타를 내 유닛에게 주며 KO당할 시 상대에게 1승만 준다.
+
+< CARD_UNIT_MIMYUU >
+name=미뮤우
+descr=토마토로 부활하고 부활한 턴에 같은 패널의 아무 적에게 도전할 수 있다.\n배틀에서 KO당할 시 가진 스타의 1/4을 잃으며 승리는 1승을 준다.
+
+< CARD_UNIT_MIRA >
+name=미라
+descr=적이 발동시키는 자신의 트랩이 "속박의 연막" (2챕터간 이동 굴림 범위가 1~3으로 제한됨) 추가 효과를 얻는다.
+
+< CARD_UNIT_MIUSAKI >
+name=미우사키
+descr=배틀에서 방어 시 한 번에 받는 피해가 2를 넘지 않는다.
+
+< CARD_COOP_UNIT_MIUSAKI >
+name=미우사키
+descr=배틀에서 방어 시 한 번에 받는 피해가 최대 HP의 절반(소숫점 올림)을 넘지 않는다.
+
+< CARD_UNIT_MIXEDPOPPO >
+name=마리 폿포 (믹스)
+descr=어떤 효과로든 워프할 시 레벨이 홀수일 때 레벨*3스타를 얻고 짝수일 때 카드 한 장을 뽑는다.
+
+< CARD_UNIT_MIO >
+name=미오
+descr=
+
+< CARD_UNIT_NANAKO >
+name=나나코
+descr=
+
+< CARD_UNIT_NATH >
+name=나트
+descr=배틀 카드가 쓰인 배틀마다 액티브 익스텐션 스택을 얻는다. KO 시 스택을 하나 잃는다.\n스톡 효과: 공격력 +1, 방어력 +1, 회피력 -1을 얻는다.
+
+< CARD_UNIT_NATSUMI >
+name=나츠미
+descr=턴 종료 시에 KO되지 않았으며 같은 패널에 다른 활동중인 유닛이 있으면 해당 타일의 모든 활동중인 유닛은 HP 1을 회복한다.\n다른 유닛을 회복시킬 때마다 5스타를 얻는다.
+
+< CARD_COOP_UNIT_NATSUMI >
+name=나츠미
+descr=턴 종료 시에 KO되지 않았으며 같은 패널에 다른 활동중인 아군이 있으면 해당 타일의 모든 활동중인 아군은 HP 1을 회복한다.\n아군을 회복시킬 때마다 5스타를 얻는다.
+
+< CARD_UNIT_NICO >
+name=니코
+descr=기프트 카드의 효과를 받지 않음.\n스타를 얻을 때마다 패의 기프트 카드의 장수만큼 스타를 추가로 얻는다.\n카드를 4장까지 가질 수 있다.
+
+< CARD_UNIT_NONAME >
+name=NoName
+descr=KO당할 시 NoName (머리)가 되며 배틀에서는 스타도 승리 수도 주지 않는다.
+
+< CARD_UNIT_NONAME_HEAD >
+name=NoName (머리)
+descr=홈에 도착하거나 KO당한 뒤 NoName이 된다. \n이동력 -1을 얻는다.
+
+< CARD_UNIT_POPPO >
+name=마리 폿포
+descr=
+
+< CARD_UNIT_PEAT >
+name=피트
+descr=
+
+< CARD_UNIT_QP >
+name=큐피
+descr=
+
+< CARD_UNIT_QPD >
+name=큐피 (데인저러스)
+descr=배틀 시 패에 있는 이름에 '푸딩'이 든 카드에서 스탯 보너스를 받는다.\n데인저러스 푸딩(공격력 +1) 나쁜 푸딩(방어력 +1) 푸딩(회피력 +1) 휴대용 푸딩 (배틀 KO 시 HP 1 회복)
+
+< CARD_UNIT_ROBOBALL >
+name=로보 볼
+descr=
+
+< CARD_UNIT_ROBOBALL_MP >
+name=로보 볼
+descr=배틀에서 KO당할 때 상대에게 소지 스타의 1/4과 1승을 준다.
+
+< CARD_UNIT_SAKI >
+name=사키
+descr=
+
+< CARD_UNIT_SEAGULL >
+name=갈매기
+descr=
+
+< CARD_UNIT_SEAGULL_MP >
+name=갈매기
+descr=배틀에서 KO당할 때 상대에게 소지 스타의 1/4과 1승을 준다.
+
+< CARD_UNIT_SHAM >
+name=샴
+descr=
+
+< CARD_UNIT_SHERRY >
+name=셰리
+descr=항상 적이 선공한다. 상대가 셰리일 때엔 이 효과를 무시한다.
+
+< CARD_UNIT_SHIFUROBOT >
+name=시후 로보
+descr=
+
+< CARD_UNIT_SHIFUROBOT_MP >
+name=시후 로보
+descr=HP 1과 완충 장갑 1점을 갖고 시작 및 자동으로 부활한다. \n자동 수리: 매 3챕터마다 턴 시작 시 HP 1을 회복하고 완충 장갑을 해제한다.\n부활한 뒤 2챕터 동안 이동력 -1을 얻는다.
+
+< CARD_COOP_UNIT_SHIFUROBOT >
+name=시후 로보
+descr=HP 1과 완충 장갑 1점을 갖고 시작 및 KO 후 2턴 뒤에 자동으로 부활한다. \n자동 수리: 매 3챕터마다 턴 시작 시 HP 1을 회복하고 완충 장갑을 해제한다.\n부활할 때마다 탈력 1중첩을 얻는다. 스톡 효과: 중첩당 회복이 1턴씩 지연된다.
+
+
+< CARD_UNIT_SORA >
+name=소라
+descr=
+
+< CARD_UNIT_SORAMILITARY >
+name=소라 (군복)
+descr=배틀에서 KO당했을 때 다음 턴에 HP 2를 갖고 부활한다.
+
+< CARD_COOP_UNIT_SORAMILITARY >
+name=소라 (군복)
+descr=배틀에서 KO당했을 때 다음 턴에 HP 2를 갖고 부활한다.\n배틀 KO에서 부활할 때마다 탈력 중첩을 얻는다. 스톡 효과: 중첩당 회복이 1턴씩 지연된다.
+
+< CARD_UNIT_STARBREAKER >
+name=스타 브레이커
+descr=승리 노르마만 선택 가능.
+
+< CARD_UNIT_SUGURI >
+name=스구리
+descr=
+
+< CARD_UNIT_SUGURI_V2 >
+name=스구리 (Ver.2)
+descr=패를 2장까지 가질 수 있다.\n매 턴 시작시마다 HP 1을 회복한다.
+
+< CARD_UNIT_SWEETBREAKER >
+name=스위트 브레이커
+descr=반전된 카드를 가진 상대와 배틀 시 반전된 카드의 장수만큼 공격력, 방어력, 회피력을 +1씩 얻는다.
+
+< CARD_COOP_UNIT_SWEETBREAKER >
+name=스위트 브레이커
+descr=녹아가는 기억의 효과를 받는 유닛과 배틀 시 공격력, 방어력, 회피력 +1을 얻는다.
+
+< CARD_UNIT_SYURA >
+name=슈라
+descr=배틀 시작 시 HP가 1만 남아있을 경우, 배틀이 끝날 때까지 공격력과 회피력 +1을 얻는다.
+
+< CARD_UNIT_TEQUILA >
+name=테킬라
+descr=적 유닛으로 "해적 부하"가 등장한다.\n배틀에서 HP를 잃으면 그만큼의 공격력을 그 배틀 동안 얻는다.
+
+< CARD_UNIT_TEQUILA_BH >
+name=테킬라
+descr=적 유닛으로 "해적 부하"가 등장한다.\n배틀에서 HP를 잃으면 공격력 +1을 그 배틀 동안 얻는다.
+
+
+< CARD_UNIT_TEQMINION >
+name=해적 부하
+descr=상대는 패배할 시 레벨 *10스타를 잃으며 이 스타는 해적 부하의 주인 플레이어에게 간다. \n주인 플레이어에게는 엔카운터에서 등장하지 않는다.
+
+< CARD_UNIT_TOMATO >
+name=토마토
+descr=미뮤우로 부활하고 부활한 턴에 행동한다.\n배틀에서 KO당할 시 스타의 1/3을 잃는다. '악의 비밀 공작 - 실행'을 '와루다 머신 발진!'으로 뽑는다.
+
+< CARD_UNIT_TOMOMO >
+name=토모모
+descr=
+
+< CARD_UNIT_TOMOMO_MP >
+name=토모모
+descr=순화: 친구들과 놀고 있어 능력치가 낮아졌습니다.
+
+< CARD_UNIT_TOMOMO_CASUAL >
+name=토모모 (민낯)
+descr=
+
+< CARD_UNIT_TOMOMO_SWEETEATER >
+name=토모모 (스위트 이터)
+descr=KO당할 시 패 전부를 버리고 토모모 (민낯)으로 돌아간다.
+
+< CARD_UNIT_TSIH >
+name=츠이
+descr=패에 기프트 카드가 있으면 공격력 +2를 얻는다.
+
+< CARD_UNIT_YUKI >
+name=유키
+descr=
+
+< CARD_UNIT_YUKI_DANGEROUS >
+name=유키 (데인저러스)
+descr=패에서 이름에 푸딩이 든 카드는 전부 영구히 '한밤중의 참극'이 된다. 자신의 트랩을 다른 누군가가 발동할 시 1승을 얻는다. 야생 유닛에게서 승리를 얻지 못한다.
+
+< CARD_COOP_UNIT_YUKI_DANGEROUS >
+name=유키 (데인저러스)
+descr=패에서 '한밤중의 참극'은 전부 영구히 '푸딩'이 된다. 자신의 트랩을 적이 발동할 시 1승을 얻는다. 야생 유닛에게서 승리를 1승까지밖에 얻지 못한다.
+
+< CARD_UNIT_YUUKI >
+name=유우키
+descr=홀수 챕터에서 공격력 -1과 방어력 +2를 얻는다.\n짝수 챕터에서 공격력 +2와 방어력 -1을 얻는다.
+
+< CARD_UNIT_SUGURI46 >
+name=스구리 (460억년)
+descr=피해를 주는 부스트/이벤트 카드를 내면 다음 이동 굴림 시 주사위를 1개 더 굴린다. 코스트를 1.5배로 (소숫점 올림) 지불해 피해량을 두 배로 늘릴 수도 있다.
+
+< CARD_UNIT_SUMIKA >
+name=스미카
+descr=
+
+< CARD_UNIT_ELLIE >
+name=엘리
+descr=
+
+< CARD_UNIT_LULU >
+name=룰루
+descr=
+
+< CARD_UNIT_MARC_PILOT >
+name=마르 (비행사)
+descr=
+
+< CARD_UNIT_ALICIANRONE >
+name=앨리시안로네
+descr=공격력이 +1 이상인 상대와 배틀을 할 때 그 배틀 동안 회피력 +1을 얻는다. 상대의 공격력이 +2 이상일 경우 회피력 +1을 추가로 얻는다.
+
+< CARD_UNIT_TEOTORATTA >
+name=테오토라타
+descr=엔카운터 패널을 발동시키지 않는다.
+
+< CARD_UNIT_ARNELLE >
+name=아넬
+descr=패에 첩보원이 있으면 덱 맨 위의 카드를 볼 수 있다.
+
+< CARD_UNIT_MAYNIE >
+name=메이니
+descr=분노 모드가 아닐 때 피해를 받을 때마다 분노 카운터를 얻고 HP를 회복할 때마다 분노 카운터를 잃는다.
+
+< CARD_UNIT_KYUPITA >
+name=큐피타
+descr=
+
+< CARD_UNIT_CHRIS >
+name=크리스
+descr=카드를 4장 가질 수 있다. 주방장이나 점장이 없으면 배틀에 도전할 수 없다. 기프트 외 덱 1장 제한 카드를 사용할 때마다 점장 카운터를 얻는다.
+
+< CARD_UNIT_CHEF >
+name=주방장
+descr=
+
+< CARD_UNIT_GOLEM >
+name=이끼 골렘
+descr=
+
+< CARD_UNIT_GUARDIAN >
+name=수호자
+descr=다른 플레이어에게 도전할 수 없다. 소환한 플레이어와 현상금 목표를 공유한다.
+
+< CARD_UNIT_GUARDIAN_CHAOS >
+name=수호자
+descr=엔카운터 패널에서 등장하는 유닛을 격퇴할 때마다 레벨만큼의 스타를 추가로 얻는다.
+
+< CARD_UNIT_EVILGUARDIAN >
+name=전령
+descr=배틀 외에서 피해를 입거나 KO당하지 않는다. 다른 플레이어를 지나갈 때 배틀에 도전한다. 배틀에서 승리하면 상대로부터 명성 1을 빼앗으며 각성 상태가 아니라면 HP 1을 회복하고 소울 이터 1중첩을 얻는다. KO당할 시 상대에게 명성 2에 더해 빼앗았던 명성을 준다.
+
+< CARD_UNIT_EVILMOUSSE >
+name=다크 초콜렛 마우쓰
+descr=배틀 외에서 피해를 입거나 KO당하지 않는다. 다른 플레이어를 지나갈 때 배틀에 도전한다. 배틀에서 승리하면 상대로부터 명성 1을 빼앗고 각성 상태가 아니라면 스타 이터 1중첩을 얻으며 HP 1을 회복한다. KO당할 시 상대에게 명성 2에 더해 빼앗았던 명성을 준다. 배틀 후 무작위 패널로 워프한다.
+
+< CARD_UNIT_FAE >
+name=오로라
+descr=이동력 +1. 다른 플레이어에게 도전할 수 없다. 짝수 챕터마다 자신을 소환한 플레이어를 HP 1만큼 회복시키거나 절반의 HP로 부활시킨다.
+
+< CARD_UNIT_FAE_CHAOS >
+name=오로라
+descr=이동력 +1. 짝수 챕터마다 HP 1을 회복 또는 절반의 HP로 부활한다. 턴 종료 시 다른 활동중인 플레이어와 같은 패널에 서 있을 시 그 패널의 각 플레이어의 HP가 1만큼 회복된다.\n다른 플레이어를 회복시킬 때마다 5스타를 얻는다.
+
+< CARD_UNIT_MERCENARY >
+name=용병
+descr=다른 플레이어를 지나갈 때 배틀에 도전한다. 배틀에서 얻는 스타의 50%를 소환한 플레이어에게 준다.
+
+< CARD_UNIT_HALENA >
+name=할레나
+descr=자신의 홈 패널에서 멈출 때마다 레벨 x2스타를 얻는다.
+
+< CARD_UNIT_COOK >
+name=쿡
+descr=배틀에서 회피를 사용할 때마다 배고픔 중첩을 하나 얻는다(최대 3중첩). 3중첩일 동안 회피력 -1을 얻는다. 자신의 홈에서 멈출 때 배고픔 중첩을 모두 잃는다.
+
+< CARD_UNIT_LONERIDER >
+name=고독한 운전수
+descr=카드 효과를 받는 여부와 상관 없이 이동 굴림에서 6을 초과하여 굴리면 다음 턴 시작 시까지 공격력과 방어력 +1과 회피력 +2를 얻는다.
+
+< CARD_UNIT_MERCHANT >
+name=상인
+descr=패를 4장까지 가질 수 있다.\n다른 플레이어의 홈 패널에서 '화물' 배틀 카드를 얻는다.
+
+< CARD_UNIT_HIMEV2 >
+name=히메 (월광)
+descr=(5챕터마다 오는) 보름달 동안, 기본 능력치가 공격력 -1, 방어력 -1, 회피력 +3이 된다.
+
+< CARD_UNIT_FERNETNOBLE >
+name=페르넷 (귀족)
+descr=필드에서 이 캐릭터에게 도전하려는 캐릭터는 자신의 레벨만큼의 스타를 지불해야 한다.
+
+< CARD_COOP_UNIT_FERNETNOBLE >
+name=페르넷 (귀족)
+descr=필드에서 이 캐릭터에게 도전하려는 적은 이 캐릭터의 레벨만큼의 스타를 지불해야 한다.
+
+< CARD_UNIT_SHIFU >
+name=시후
+descr=로봇 야생 유닛에게 주는 배틀 피해가 2 증가한다. 로봇 야생 유닛이 적대 플레이어를 KO시킬 때 1승을 얻는다.
+
+< CARD_UNIT_REIKA >
+name=호시노 레이카
+descr=스타 노르마만을 선택할 수 있다.\n챕터 보너스와 스타 콜렉터를 제외한 모든 스타 수입원에서 1스타를 더 얻는다.
+
+< CARD_UNIT_WATTY >
+name=와티
+descr=배틀 후 방어 행동으로 감소시킨 피해 1점당 단단한 비늘 1중첩을 얻는다. (최대 5중첩)\n(3챕터 동안 중첩당 공격력 +1을 얻는다. KO 시 효과는 사라진다)
+
+< CARD_UNIT_POMERANIUS >
+name=포메라니우스
+descr=HP가 최대치 이상일 때 모든 트랩을 무시한다.
+
+< CARD_COOP_UNIT_WATTY >
+name=와티
+descr=배틀 후 방어 행동으로 감소시킨 피해 2점당 단단한 비늘 1중첩을 얻는다. (최대 5중첩)\n(3챕터 동안 중첩당 공격력 +1을 얻는다. KO 시 효과는 사라진다)
+
+< CARD_UNIT_LOSTROGUE >
+name=길 잃은 도적
+descr=배틀 외에서 피해를 입거나 KO되지 않는다. 다른 유닛을 지나갈 때 그 유닛에게 도전한다. 배틀에서 25% 확률로 치명타를 일으킬 수 있다. (치명타 시 유닛의 공격 굴림 결과값이 2배가 된다)\n5턴마다 무작위 패널 3군데로부터 1패널 범위 안의 유닛들에게 피해 2를 주고 보유한 무작위 의뢰에 저주를 건다.
+
+< CARD_UNIT_SHADYMERCHANT >
+name=수상쩍은 상인
+descr=플레이어에게 아이템을 팔 수 있다. 이벤트와 카드 효과에 면역.
+
+< CARD_UNIT_SWEETCREATOR >
+name=스위트 크리에이터
+descr=다른 사람이 트랩이 아닌 스위트 계열 카드를 사용하거나 스위트 계열 트랩 카드를 발동시킬 때마다 그 카드의 레벨 x2만큼의 스타를 얻는다.
+
+< CARD_UNIT_SWEETMAKER >
+name=사키 (스위트 메이커)
+descr=엔카운터 패널을 발동시킨 뒤에도 행동 가능할 시, 사용 가능한 레벨의 스위트 계열 카드 한 장을 뽑는다.
+
+< CARD_UNIT_SWEETBLOGGER >
+name=나츠미 (스위트 블로거)
+descr=모든 스위트 계열 카드를 공짜로 낼 수 있다. 드롭 패널을 발동시킨 뒤에도 행동 가능할 시, 사용 가능한 레벨의 스위트 계열 카드 한 장을 뽑는다.
+
+< CARD_UNIT_MIOFESTIVE >
+name=미오 (축제)
+descr=
+
+< CARD_UNIT_BOSSJONATHAN_CHAOS >
+name=대왕 조나단
+descr=
+
+< CARD_UNIT_BOSSHARUO_CHAOS >
+name=대왕 하루오
+descr=
+
+< CARD_UNIT_AGGRESSIVECHICKEN_CHAOS >
+name=성난 닭
+descr=소환자의 공격력과 방어력을 2씩 낮추고 소환자에게 배틀에서 공격 시 추가 주사위 1개를 준다. 배틀에서 상대가 기본 공격력이 1 이상이라면 공격력 +1을 얻는다.
+
+< CARD_UNIT_BOSSM10_CHAOS >
+name=M10 로봇
+descr=자신의 턴에 적에게 도전해도 멈추지 않는다.
+
+< CARD_UNIT_BOSSSTARDEV_CHAOS >
+name=스타 디바우러
+descr=배틀에서 상대에게 준 피해 1점당 1스타를 빼앗고, 받는 피해 1점당 1스타를 상대에게 준다. 최종 노르마 단계에서 200스타를 모으면 자동으로 승리한다.
+
+< CARD_UNIT_POPPO_CHAOS >
+name=혼돈 폿포
+descr=전투 피해를 주지 않으나 원래 줄 피해 1점당 2스타를 빼앗아 소환자에게 준다. 배틀 KO 시 소환자가 가진 10스타와 2승을 준다.
+
+< CARD_UNIT_BOSSQP_CHAOS >
+name=섬머 비스트
+descr=배틀에서 피해를 주거나 받을 때마다 신남 1점을 얻는다. 다른 플레이어를 KO시킬 때마다 신남 2점을 받는다. 최대 10점. 신남 수치가 4점 이상일 때 자동으로 부활하고 신남 수치를 전부 소모한다.
+
+< CARD_UNIT_BOSSROPOCHI_CHAOS >
+name=로포닭
+descr=
+
+< CARD_UNIT_BOSSCOACH_CHAOS >
+name=수영 코치
+descr=골포스트가 소환되었다면 공격력 +2를 얻는다. 몸짱 풍선이 소환되었다면 방어력 +2를 얻는다. 수영 튜브가 소환되었다면 매 턴 3스타를 얻는다.
+
+< CARD_UNIT_KRILAPAJAMAS >
+name=크릴라라리스 (잠옷)
+descr=배틀에서 회피 커맨드를 쓸 수 없다. 배틀에서 방어 중 피해 1점을 받게 될 때 그 피해를 무효화한 뒤 상대에게 레벨만큼의 스타를 준다.
+
+< CARD_UNIT_MIMYUUJAILBIRD >
+name=미뮤우 (전과자)
+descr=배틀에서 KO당할 시, 자신의 홈 패널로 이동한다.
+
+< CARD_UNIT_MOTHERP >
+name=마더 폿포
+descr=워프 시 피해 1점을 받는다. 워프 후에도 활동 중이라면 카드 한 장을 뽑고 레벨만큼의 스타를 얻는다.
+
+< CARD_UNIT_DARKL >
+name=다크 룰루
+descr=도전을 거부하면 레벨 x2만큼의 스타를 잃는다.
+
+< CARD_COOP_UNIT_DARKL >
+name=다크 룰루
+descr=도전을 거부하면 레벨만큼의 스타를 잃는다.
+
+< CARD_UNIT_HELLIE >
+name=하이퍼 엘리
+descr=선공 시 공격력 +1, 방어력과 회피력 -1을 얻는다.
+
+< CARD_UNIT_HKAI >
+name=카이 (용사)
+descr=배틀 외 피해로 HP가 1점 미만으로 내려갈 때에도 HP 1점이 남는다. 이후 내 턴이 끝날 때 남은 HP가 여전히 1점이라면 KO된다.
+
+< CARD_UNIT_GRAIN >
+name=그레인
+descr=이동력 -1. 카드를 낼 때마다 대포알 카운터를 얻는다. (최대치 9)
+
+< CARD_UNIT_BOURBON >
+name=버번
+descr=배틀에서 피해를 입을 때마다 KO 시까지 최대 HP가 1씩 감소한다. (최저치 3)
+
+< CARD_UNIT_POYO >
+name=포요
+descr=모든 플레이어의 레벨의 합이 4의 배수일 때 공격, 방어, 회피, 이동, 보너스, 드롭 굴림에 +1을 얻는다.
+
+< CARD_COOP_UNIT_POYO >
+name=포요
+descr=다음 보스 카드가 하이퍼 또는 레벨 3 카드라면 공격, 방어, 회피, 이동, 보너스, 드롭 굴림에 +1을 얻는다.
+
+< CARD_UNIT_CHUU >
+name=츄
+descr=
+
+< CARD_UNIT_HARUKA >
+name=하루카
+descr=배틀 시작 시 현재 KO된 상대마다 공격력 -1을 얻는다.
+
+< CARD_COOP_UNIT_HARUKA >
+name=하루카
+descr=배틀 시작 시 현재 KO된 아군마다 공격력 -1을 얻는다.
+
+< CARD_UNIT_KANATA >
+name=카나타
+descr=패에 "지적인 블러핑"이 있다면 상대가 카드를 뽑을 때마다 50% 확률로 그 타입을 본다.
+
+[EOF]

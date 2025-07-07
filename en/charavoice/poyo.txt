@@ -1,0 +1,155 @@
+<0000> It's my turn!
+<0001> Let's go!
+<0002> There!
+<0003> Rolling.
+<0004> Let me show you my strat!
+<0005> Lemme play a card.
+<0006> Let's see how this card will help!
+<0007> Take this, ba-bang!
+<0008> A trap!
+<0009> Hehehe, there's a trap here.
+<0010> Oh boy, what am I doing, setting a trap in a place like this ♪
+<0011> Let's see how this'll work out.
+<0012> I think I have to win this one.
+<0013> I won't go easy on you!
+<0014> Losing this battle would be a pain, so.
+<0015> I'm turning the tide!
+<0016> Here's Poyo Oage's special technique!
+<0017> Phew, that was upsetting.
+<0018> I'm still in this. I can win this game.
+<0019> Ugh, I think I'm in a real bind... But I can still claw my way to victory...
+<0020> Now that I'm back up, you'll all witness a dramatic comeback win!
+<0021> Uwoo, I thought I'd get back up for sure.
+<0022> Oh shoot! This is bad...
+<0023> Man, things aren't going well for me.
+<0024> Ugh, this doesn't feel great...
+<0025> I'll go on the offensive!
+<0026> Time to attack!
+<0027> Guess I'll grab myself some wins.
+<0028> Brace for my attack.
+<0029> Ugh.
+<0030> Stop, stop.
+<0031> Whoa.
+<0032> What the heck?
+<0033> That was a close one.
+<0034> Gotta restore my HP.
+<0035> I ain't gonna go down now.
+<0036> Recovery is important!
+<0037> Wa-wa.
+<0038> Oh boy.
+<0039> Warp!
+<0040> Hmm?
+<0041> Oops.
+<0042> For real?
+<0043> You gotta be kidding me.
+<0044> I screwed up...
+<0045> I've got you cornered!
+<0046> I won't let up the pressure!
+<0047> Let's knock you down!
+<0048> Alright, I'm kicking off my attack.
+<0049> Challenge accepted!
+<0050> Whoa whoa, you wanna fight me?
+<0051> Oh, you wanna fight me.
+<0052> Maybe this'll be a hard one for me?
+<0053> Take this!
+<0054> I'm knocking you down a peg!
+<0055> Attaaack!
+<0056> Gooo!
+<0057> Gyafu.
+<0058> Oh shoot!
+<0059> Ugh, this is nothing...!
+<0060> Wah!
+<0061> Oh em gee, this is so bad!
+<0062> Hold on a second.
+<0063> Isn't that unfair?
+<0064> Noo, this ain't happening.
+<0065> That was seriously so close.
+<0066> Dodged successfully.
+<0067> Phew.
+<0068> Alright, no damage taken!
+<0069> Alright!
+<0070> Hehe, I knocked you down.
+<0071> Yaaay!
+<0072> I did it!
+<0073> Oh, come on!
+<0074> Heeen, I'm in agony.
+<0075> Why?
+<0076> This ain't good...
+<0077> Nice.
+<0078> Bonuses make me happy.
+<0079> The one who wins the most stars wins OJ.
+<0080> Stars obtained!
+<0081> Oh no, oh no, oh no.
+<0082> OMG, OMG, OMG!
+<0083> Hm-m-mmm.
+<0084> I don't like this!
+<0085> Who the heck set the trap here!?
+<0086> Heen!
+<0087> What the heck, what the heck, what the heck.
+<0088> Agyaah, this isn't great.
+<0089> Doesn't it make you nervous when a boss appears?
+<0090> Oh, here comes a big one.
+<0091> Question is: should I beat it or run...?
+<0092> Oh crap, a boss's here...!
+<0093> I choose stars!
+<0094> Stars it is!
+<0095> Let's play a star-collecting game.
+<0096> Given the circumstances, this is my choice!
+<0097> Am I ready to fight battles?
+<0098> Based on the current scenario, battle it is!
+<0099> Alright, let's do some hand-to-hand combat.
+<0100> You know what I like? Taking aggressive approaches.
+<0101> 100% OJ Club, let's go!
+<0102> Let me show you how well I play OJ.
+<0103> Sure, let's play.
+<0104> I can't wait to show off.
+<0105> I'm thrilled.
+<0106> I'll be the winner of the day.
+<0107> Heheheh, I have a feeling that I'll come out on top.
+<0108> Alright, I'm bringing a whirlwind of chaos to the board.
+<0109> Yes!!!!! This is the strength of the 100% OJ Club!
+<0110> What a tight match. That was fun!
+<0111> Nothing's better than winning.
+<0112> Poyo wins!!! Poyo wins!!!
+<0113> Those moments when you get a new item are the best.
+<0114> Well, let's see what we'll get.
+<0115> Oh, what's this?
+<0116> Wow, that's one of those things that make you happy.
+<0117> Let's switch!
+<0118> Now's the time to swap.
+<0119> I'll let you take charge of this now.
+<0120> It's your turn to shine.
+<0121> Okay.
+<0122> Good, good!
+<0123> Alright!
+<0124> Nope!
+<0125> Ugh...
+<0126> This is how lucky Poyo is!
+<0127> Uh oh...
+<0128> Let's go!
+<0129> Yah!
+<0130> You can do it!
+<0131> Yahoooy!
+<0132> Hmm?
+<0133> That's nice.
+<0134> That's super!
+<0135> Man, this is annoying...!
+<0136> I'm playing someone else's hyper card!
+<0137> Hehe, here's a hyper card!
+<0138> I'm turning the tables!
+<0139> This is what will bring me victory!
+<0140> I'm grateful! Thank you, thank you!
+<0141> I'm gonna win this game, Chuu.
+<0142> You got my back, Chuu.
+<0149> Alright, let's get started with our club activity!
+<0150> Oh, I'm fan of yours, Q!
+<0151> Oh, it's Q!
+<0152> I like your ears; we almost match!
+<0153> N-not that I was distracted!
+<0154> Oh boy, it's Ellie!
+<0155> Hey, Ellie!
+<0156> I know Ellie's also got animal ears.
+<0157> I'd expect nothing less of the Season Two main character...
+<0158> Will you look at how many stars I've got right now!
+<0159> Looks like I'm headed for an overwhelming victory, doesn't it?
+<0160> Everyone keeps falling before me. Could it be that my fists are just too strong?

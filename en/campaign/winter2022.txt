@@ -1,0 +1,199 @@
+
+// ========= Scene:  Winter 2022 Opening =========
+
+// (mio)
+<0000> Fufufu, I nailed it. I know Tomomo will like it ♥
+
+// (sweetcreator)
+<0001> Everyone, merry Christmas! And cheers!
+
+// (othersweetgods)
+<0002> Cheers!
+
+// (natsumi)
+<0003> A Sweet Gods Christmas party, it's so much fun.
+
+// (saki)
+<0004> I want you all to enjoy the Christmas cookies that I baked!
+
+// (natsumi)
+<0005> I brought home-made pudding crepes. They're really good.
+
+// (qp)
+<0006> Pudding crepes!? Natsumi, I'll respect you for the rest of my life!!!
+
+// (tomomo)
+<0007> Everything looks so good! Wait a sec, where's the Christmas cake?
+
+// (sweetcreator)
+<0008> I believe Sweet Breaker was in charge of it.
+
+// (sweetbreaker)
+<0009> I tried to make one myself but it didn't go well. I'm sorry...
+
+// (saki)
+<0010> Well, Sweebo is better at destroying or sealing off sweets than making them.
+
+// (qp)
+<0011> That reminds me of my dream from the other night where she tried to make pudding disappear from the world and I stopped her.
+
+// (sweetbreaker)
+<0012> You two are being very blunt, aren't you? Also, could you not call me Sweebo?
+
+// (natsumi)
+<0013> That's no biggie. We can make one here and now.
+
+// (mio)
+<0014> Tomomooo ♥
+
+// (tomomo)
+<0015> Mio!? What the heck are you doing breaking into someone's house!
+
+// (mio)
+<0016> I baked a Christmas cake. Let's eat it ♥
+
+// (sweetbreaker)
+<0017> That's perfect timing. I suggest we gratefully accept her kind offer.
+
+// (sweetcreator)
+<0018> Seems like we attracted a cake... Our divine power did it again!
+
+// (natsumi)
+<0019> Mio, you can sit over here.
+
+// (tomomo)
+<0020> Well, guess I'll let you join us for the cake.
+
+// (mio)
+<0021> Hooray ♥
+
+// (allsweetgods)
+<0022> Let's dig in! *Bite* ...Ugh.
+
+// (mio)
+<0023> It's delicious, isn't it? As a sweets lover, I put a lot of effort into it ♥
+
+// (sweetcreator)
+<0024> Are you truly a sweets lover...?
+
+// (sweetbreaker)
+<0025> I-is this thing really cake...?
+
+// (natsumi&saki&qp)
+<0026> ......
+
+// (tomomo)
+<0027> What the heck! This is disgusting!
+
+// (mio)
+<0028> No way, you've got to be kidding me!? ...*Bite*... Hey, it's tasty!
+
+// (saki)
+<0029> It does look like a chocolate cake, but...
+
+// (natsumi)
+<0030> It doesn't taste like the way it looks, I'd say.
+
+// (mio)
+<0031> How could you not appreciate my delicious cake? What kind of cakes do you eat?
+
+// (tomomo)
+<0032> Ones that don't taste like garbage.
+
+// (mio)
+<0033> You called it garbage again! I'm so mad right now! Okay, I know what I'm going to do...
+
+// (mio)
+<0034> I'm using my magic power to make a lot of cakes and swap all the cakes out there with them! I'll prove my cakes are better than any other!
+
+// (tomomo)
+<0035> Oh, so you're not gonna turn things gigantic this time, huh. ...Wait a minute, what the heck did you just say you would do!?
+
+// (sweetcreator)
+<0036> Mio, was it? We can't let what you just said pass.
+
+// (sweetbreaker)
+<0037> If you're going to pose a threat to the order of sweets, we have to stand against you.
+
+// (qp)
+<0038> We, the Sweet Gods, will protect the Christmas cakes all over the world!
+
+// (saki)
+<0039> This crisis of sweets is making me so super pumped up!!!
+
+// (natsumi)
+<0040> All right, I'll do everything I can for the cakes.
+
+// (mio)
+<0041> That's lovely. Bring it on, all of you. Nobody can stop me when I'm furious ♥
+
+// ========= Scene:  Ending 1 (Sweet Gods win) =========
+
+// (sweetcreator)
+<0042> It's our massive victory!
+
+// (mio)
+<0043> *Sob* I just wanted to see everyone enjoy my cake...
+
+// (sweeteater)
+<0044> I don't think you're lying about loving sweets, but you need to admit you're not a very skilled pastrymaker...
+
+// (sweetblogger)
+<0045> We can teach you how to make cake.
+
+// (sweetmaker)
+<0046> You seem to know the basics, so I'll bet you'll get better quickly enough!
+
+// (mio)
+<0047> You mean it?
+
+// (sweetbreaker)
+<0048> Of course, because we're the Sweet Gods.
+
+// (sweetguardian)
+<0049> If you become a better pastry chef, you'll be happy and we will be happy too!
+
+// (mio)
+<0050> Okay...! Teach me how ♥
+
+// (sweetcreator)
+<0051> Alright, we're going to get back to my place and make some cake!
+
+// (everyone)
+<0052> Yeah!
+
+// ========= Scene:  Ending 2 (Mio wins) =========
+
+// (mio)
+<0053> Ufufu, I won ♥ I told you nobody can stop me when I'm angry.
+
+// (sweeteater)
+<0054> How could people actually like that terrible cake more than a real one!?
+
+// (sweetguardian)
+<0055> Actually, I just ate some of it again and it's not as bad as I first thought.
+
+// (sweetblogger)
+<0056> Tons of sweets bloggers are writing about the cake. It's the new trend now.
+
+// (sweetcreator)
+<0057> It seems that the world of sweets is deeper than I knew. There's still much for me to learn.
+
+// (sweetbreaker)
+<0058> I guess that's right. We shouldn't have been so hasty in deciding that the cake is objectively bad.
+
+// (sweetmaker)
+<0059> Mio, could you teach me how to make that cake? As a patissier, I believe I need to learn the recipe!
+
+// (mio)
+<0060> Of course ♥
+
+// (sweetcreator)
+<0061> Alright, we're going to get back to my place and make some cake!
+
+// (everyone)
+<0062> Yeah!
+
+// (sweeteater)
+<0063> Hey, hey, heeey! Wait up! Don't leave me alone here!
+

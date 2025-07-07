@@ -1,0 +1,56 @@
+< DISCORD_MAIN_MENU_STATE >
+No Menu Principal
+
+< DISCORD_SHOP_STATE >
+Na loja
+
+// Lobby: <lobby name>
+< DISCORD_LOBBY_STATE >
+Sala: %s
+
+< DISCORD_LOBBY_STATE_PRIVATE >
+Em uma Sala
+
+< DISCORD_INGAME_STATE >
+Em uma Partida
+
+// After the game ended, the screen where xp and potential unlocks are given 
+< DISCORD_RESULTS_STATE >
+Resultados
+
+// Pvp mode
+< DISCORD_INGAME_NORMAL_MODE >
+Modo Normal
+
+< DISCORD_INGAME_COOP_MODE >
+Modo Cooperativo
+
+// Co-op: <boss name>, <difficulty name>
+< DISCORD_INGAME_COOP_MODE_DETAILS >
+Cooperativo: %s, %s
+
+// <player name>, Level <lvl>
+< DISCORD_INGAME_PLAYER_DETAILS >
+%s, Nível %d
+
+// <player name>, <coop role>, Level <lvl>
+< DISCORD_INGAME_PLAYER_DETAILS_COOP >
+%s, %s, Nível %d
+
+< DISCORD_INGAME_BOUNTYHUNTER_MODE >
+Modo Caçador de Recompensas
+
+< DISCORD_INGAME_SUMMER2020_MODE >
+Modo Pescar-um-Peixe
+
+< DISCORD_INGAME_SHROOM_MODE >
+Modo Zoom do Cogumelo
+
+< DISCORD_INGAME_SCHOOL_MODE >
+Modo Penetras Escolares
+
+< DISCORD_INGAME_CHAOS_MODE >
+Modo Caos
+
+< DISCORD_INGAME_TAGTEAM_MODE >
+Modo de Time de Tag

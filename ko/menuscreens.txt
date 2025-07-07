@@ -1,0 +1,1314 @@
+< MENU_CONTROLLER_PRESS >
+
+
+< MENU_CONTROLLER_PROCEED >
+버튼을 눌러 계속
+
+< MENU_CLICKPROCEED >
+좌클릭으로 계속
+
+< MAINMENU_NEWGAME >
+새 게임
+
+< MAINMENU_LOADGAME >
+계속
+
+< MAINMENU_CONFIGURATION >
+옵션
+
+< MAINMENU_EXIT >
+나가기
+
+
+< MENU_BUTTON_OK >
+확인
+
+< MENU_BUTTON_BACK >
+뒤로
+
+< MENU_BUTTON_HOME >
+홈
+
+< MENU_BUTTON_CANCEL >
+취소
+
+< MENU_BUTTON_READY >
+준비
+
+< MENU_BUTTON_BEGIN >
+시작
+
+< MENU_BUTTON_RETRY >
+재시도
+
+< MENU_BUTTON_NEXT >
+다음
+
+< MENU_BUTTON_PREVIOUS >
+이전
+
+< MENU_BUTTON_CLEAR >
+클리어
+
+< MENU_BUTTON_YES >
+예
+
+< MENU_BUTTON_NO >
+아니요
+
+< MENU_BUTTON_STORY >
+스토리
+
+< MENU_BUTTON_SKIPALL >
+전부 스킵
+
+< MENU_BUTTON_REFRESH >
+새로고침
+
+< MENU_BUTTON_SEARCH >
+검색
+
+< MENU_BUTTON_CHAT >
+채팅
+
+< MENU_BUTTON_CREATE >
+개설
+
+< MENU_BUTTON_JOIN >
+입장
+
+< MENU_BUTTON_SPECTATE >
+관전
+
+< MENU_BUTTON_DIFFICULTY_CASUAL >
+캐주얼
+
+< MENU_BUTTON_DIFFICULTY_NORMAL >
+노멀
+
+< MENU_BUTTON_DIFFICULTY_ORIGINAL >
+오리지널
+
+< MENU_BUTTON_DIFFICULTY_EXTREME >
+익스트림
+
+
+< MENU_BUTTON_LOBBYLIST_LOBBYNAME >
+로비명
+
+< MENU_BUTTON_LOBBYLIST_PUBLIC >
+공개
+
+< MENU_BUTTON_LOBBYLIST_PLAYERS >
+인원 수
+
+< MENU_BUTTON_LOBBYLIST_SPEED >
+속도
+
+< MENU_BUTTON_LOBBYLIST_EVENTS >
+이벤트
+
+< MENU_BUTTON_LOBBYLIST_FIELDNAME >
+필드명
+
+< MENU_BUTTON_LOBBYLIST_HW2018 >
+트릭 앤 트리트
+
+< MENU_BUTTON_LOBBYLIST_XMAS >
+크리스마스
+
+< MENU_BUTTON_LOBBYLIST_BOUNTYHUNTER >
+현상금 사냥
+
+< MENU_BUTTON_LOBBYLIST_TAGTEAM >
+이인조
+
+< MENU_BUTTON_LOBBYLIST_MASTERANGLERS >
+생선 낚시
+
+< MENU_ON >
+켬
+
+< MENU_OFF >
+끔
+
+< MENU_LOBBYSETTING_EVENT >
+시즌 이벤트
+
+< MENU_LOBBYSETTING_PASSWORD >
+암호
+
+< MENU_LOBBYSETTING_HIDEPASSWORD >
+숨김
+
+< MENU_LOBBYSETTING_OPTIONAL >
+(비필수)
+
+< MENU_LOBBYSETTING_MIXERS >
+믹서
+
+< MENU_LOBBYSETTING_CPUEVENT >
+CPU 대상 이벤트 넘기기
+
+< MENU_LOBBYSETTING_TURNTIMER >
+타이머
+
+< MENU_LOBBYSETTING_CHAOSMUTATOR >
+변칙
+
+< MENU_LOBBYSETTING_INVADER >
+침략자
+
+< MENU_LOBBYSETTING_PVPBOUNTIES >
+플레이어 현상수배
+
+< MENU_BUTTON_GAME_RETURN >
+돌아간다
+
+< MENU_BUTTON_GAME_CONFIG >
+환경설정
+
+< MENU_BUTTON_GAME_RETIRE >
+퇴장
+
+
+< MENU_BUTTON_GAME_MOVE >
+이동
+
+< MENU_BUTTON_GAME_CARD >
+카드
+
+< MENU_BUTTON_GAME_INFO >
+정보
+
+< MENU_BUTTON_GAME_PROTECT >
+보호
+
+< MENU_BUTTON_GAME_GIFT >
+선물
+
+< MENU_BUTTON_GAME_THROW >
+던지기
+
+< MENU_BUTTON_GAME_FURY >
+분노
+
+< MENU_BUTTON_GAME_GUARDIANSPIRIT >
+수호령
+
+< MENU_BUTTON_GAME_IRONDEFENSE >
+철벽
+
+< MENU_BUTTON_GAME_RESTORINGLIGHT >
+소생
+
+< MENU_BUTTON_GAME_FROMBEYOND >
+저 너머
+
+< MENU_BUTTON_GAME_DEAL >
+분배
+
+< MENU_BUTTON_GAME_DEMAND >
+수요
+
+< MENU_BUTTON_GAME_CLICK >
+클릭
+
+< MENU_BUTTON_GAME_DEFEND >
+방어
+
+< MENU_BUTTON_GAME_EVADE >
+회피
+
+< MENU_BUTTON_GAME_FIGHT >
+싸우기
+
+< MENU_BUTTON_GAME_END >
+끝내기
+
+< MENU_BUTTON_GAME_ITEMS >
+아이템
+
+< MENU_BUTTON_GAME_SELLCARDS >
+카드 팔기
+
+< MENU_BUTTON_GAME_BOMB >
+폭탄
+
+< MENU_BUTTON_GAME_DASH >
+대시
+
+< MENU_BUTTON_GAME_FORECAST >
+예견
+
+< MENU_BUTTON_GAME_EAT >
+먹기
+
+< MENU_GAME_MIMYUUJ_HYPER_BREAKOUT >
+탈옥!
+
+< MENU_BUTTON_GAME_TAG >
+교대
+
+< MENU_BUTTON_GAME_BOUNTY >
+현상수배
+
+< PLAYMENU_FREEBATTLE >
+온라인
+
+< PLAYMENU_SHOP >
+쇼핑
+
+< PLAYMENU_CAMPAIGN >
+싱글 플레이어
+
+< PLAYMENU_PROFILE >
+플레이어\n정보
+
+< PLAYMENU_CODEX >
+도감
+
+< PLAYMENU_MANUAL >
+가이드
+
+< PLAYMENU_WIKI >
+위키
+
+< PLAYMENU_EXIT >
+나가기
+
+< MENU_BUTTON_TUTORIAL >
+튜토리얼
+
+< PLAYMENU_TOOLTIP_FREEPLAY >
+온라인에서 다른 플레이어와 플레이합니다.
+
+< PLAYMENU_TOOLTIP_SHOP >
+새 카드팩, 유닛, 치장품 등을 삽니다.
+
+< PLAYMENU_TOOLTIP_CAMPAIGN >
+캐릭터를 골라 싱글 플레이어로 스토리를 진행합니다.
+
+< PLAYMENU_TOOLTIP_PROFILE >
+플레이 통계 확인, 카드 열람, 아바타 커스터마이즈를 합니다.
+
+< PLAYMENU_TOOLTIP_CODEX >
+캐릭터 프로필 등을 봅니다.
+
+< PLAYMENU_TOOLTIP_MANUAL >
+게임 매뉴얼을 엽니다.
+
+< PLAYMENU_TOOLTIP_WIKI >
+팬들에 의해 관리되는 심도 깊은 정보가 담긴 커뮤니티 위키에 방문합니다.
+
+< PLAYMENU_TOOLTIP_CHALLENGES >
+일간 멀티플레이어 챌린지를 확인합니다.
+
+< PLAYMENU_TOOLTIP_CONFIGMENU >
+옵션 화면으로 갑니다.
+
+< PLAYMENU_TOOLTIP_EXIT >
+타이틀 화면으로 돌아갑니다.
+
+< PLAYMENU_INVENTORY_STACKING_TEXT >
+보관함 아이템 겹치는 중...
+
+< PLAYMENU_EVENT_NEXT_GOAL >
+다음 목표:
+
+< PLAYMENU_EVENT_FINAL_GOAL >
+최종 목표:
+
+< PLAYMENU_EVENT_DATE_MONTH >
+%d. %d
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_01 >
+챌린지 보드에서 토나의 챌린지를 확인한 뒤 그것들을 완수해 선물을 얻으세요!
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_02 >
+선물을 받고 나면 게임 진행 중에 다른 사람들에게 전달하세요.
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_03 >
+게임이 끝나면 선물을 보낸 사람을 포함해 모두가 선물을 열 수 있습니다!
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_04 >
+선물을 충분히 보내면 와루다의 아지트에서 마지막 승부를 벌일 수 있게 됩니다.
+
+< PLAYMENU_EVENT_XMAS2017_GIFTPROGRESS >
+착한 아이들에게 선물 보내기 (%d/%d).
+
+< PLAYMENU_EVENT_XMAS2017_STAGEPROGRESS >
+엑스트라 시나리오: %s를 클리어하기.
+
+< PLAYMENU_EVENT_XMAS2017_COMPLETE >
+크리스마스를 구했다!\n(와루다가 마음을 고칠는지는 앞으로 지켜봐야겠지만...)
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_MAIN >
+초콜렛 20000개를 모아 임무를 완수하자!
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_01 >
+패널에서 줍거나 적을 이겨 초콜렛을 모으세요.
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_02 >
+상대 플레이어를 격퇴하면 상대가 소지한 초콜렛의 반을 빼앗을 수 있습니다.
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_03 >
+초콜렛을 500개 이상 갖고 있을 때, 홈에 멈춰서 초콜렛을 저장해 빼앗기는 것을 방지하세요.
+
+< PLAYMENU_EVENT_VALENTINE2018_COMPLETE >
+세상의 스위트를 지켜냈다!\n(적어도 지금은...)
+
+< PLAYMENU_EVENT_GAMESPLAYED >
+플레이한 게임 판 수: %d
+
+< PLAYMENU_EVENT_BONUSITEMS >
+보너스 아이템: %d/%d
+
+< PLAYMENU_EVENT_VIEWPROGRESS >
+진행도 보기
+
+< PLAYMENU_EVENT_MILESTONE >
+다음 중간목표:
+
+< RANDOMFILTER_EVENTS >
+"랜덤" 이벤트 선택
+
+< RANDOMFILTER_MAPS >
+"랜덤" 맵 선택
+
+< RANDOMFILTER_CHARACTERS >
+"랜덤" 캐릭터 선택
+
+< POPPOMARCH_CLICKTHESE >
+이 %d마리를 클릭하세요!
+
+< PEEKSHROOM_MEMORIZE >
+외우세요!
+
+< PEEKSHROOM_ORDER >
+순서!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_MAIN >
+사라진 NoName 선생님의 부품을 폿포에게서 되찾아 다시 끼워맞추자!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_01 >
+매 3챕터마다 게임 패널이 출현하니 패널에서 멈춰 폿포와 게임을 하자!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_02 >
+같은 짝의 카드를 모두 맞추세요. 실수 몇 번은 해도 괜찮습니다! 마지막으로 맞추는 짝이 상품이 됩니다. 실패하면 상품이 무작위로 선택됩니다.
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_03 >
+원하는 상품 카드를 정해 그 카드를 눈으로 쫓으세요! 폿포가 카드를 섞어서 상품을 숨기려 합니다.
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_04 >
+폿포가 돌림판을 돌립니다! 맞는 타이밍에 클릭으로 돌림판을 멈춰 좋은 상품을 받으세요!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_05 >
+폿포가 통에서 튀어나옵니다! 사라지기 전에 때려잡으세요! 하지만 다른 캐릭터를 때리지 않게 조심하세요...
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_06 >
+다트를 던져서 풍선을 맞히세요! 일부 풍선은 상품이 들어있습니다. 같은 종류의 풍선 3개를 터트려 상품을 받으세요!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_07 >
+시작할 때 보여준 폿포 셋을 행진하는 수많은 폿포 속에서 찾아 클릭하세요. 셋 모두를 찾아서 최고의 보상을 얻으세요.
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_08 >
+사키를 움직여 쿠키와 사탕을 모으세요. 폭탄도 섞여 들어가 있으니 조심하세요! 고득점을 얻어 좋은 보상을 노리세요!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_09 >
+버섯이 지나가는 순서를 지켜보세요. 그 뒤에 같은 순서대로 버섯을 클릭하세요. 순서가 정확히 맞을수록 보상도 좋아집니다!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_10 >
+레드 배럴을 조종하며 장애물을 피해 최대한 높은 점수를 얻으세요. 점수가 높을수록 보상도 좋아집니다!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_11 >
+가끔씩 미니게임 보상에 NoName의 부품이 나타납니다. 부품이 보인다면 노려보세요!
+
+< PLAYMENU_EVENT_SPRING2018_COMPLETE >
+NoName 선생님을 무사히 원래대로 돌려놓아 마르와 친구들은 유급을 피할 수 있었습니다!
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_MAIN >
+대왕 조나단을 무찌르자!
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_01 >
+협동 모드로 플레이하여 대왕 조나단의 HP를 0으로 만들거나 50챕터를 버티세요.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_02 >
+협동 모드에서는 모든 플레이어가 역할을 하나씩 선택해야 합니다! 이 역할은 능력, 가져오는 카드, 하이퍼에 영향을 줍니다!
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_03 >
+공격수는 공격력을 얻고 대왕 조나단을 상대로 선공을 하며, 수호자는 방어력을 얻고 보호 능력을 사용할 수 있으며, 지원가는 이동력을 얻고 동료를 부활시킬 수 있습니다.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_04 >
+특별한 규칙의 일환으로써 유닛 부활값이 조정되어 공격력이 부활값을 높이고, 회피력이 부활값을 낮춥니다. 최소 부활값은 3입니다.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_05 >
+플레이어 전원이 노르마, 승리 수, 스타를 공유합니다. 노르마 요구치는 스타는 1.5배, 승리 수는 2배입니다. 플레이어들은 서로의 카드를 볼 수 있습니다.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_06 >
+협동 모드에서는 필드에 보스 패널이 나타나며 그 수가 점진적으로 증가합니다. 보스 패널에 멈춰 대왕 조나단에게 도전하세요!
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_07 >
+KO 시 팀 소지 스타의 1/8을 잃습니다. 유닛은 아무 플레이어의 홈에서 멈출 수 있습니다.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_08>
+일반 필드 이벤트 대신에 대왕 조나단이 여러분을 쓰러트리기 위해 여러 능력을 발동합니다! 게임이 계속될 수록 더 많은 능력을 개방합니다...
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_09 >
+시간을 잊지 말고 확인하세요! 챕터 30에서 화가 난 대왕 조나단이 모든 홈 패널을 파괴하고 가장 강력한 능력을 활성화합니다!
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_10 >
+모든 동료가 함께 KO되면 게임에서 패배하고 대왕 조나단이 승리합니다! 패배 시에도 가한 피해는 이벤트 진행에 영향을 줍니다.
+
+< PLAYMENU_EVENT_SUMMER2018_COMPLETE >
+대왕 조나단이 얌전해지고 바다와 해변은 다시 안전해졌습니다!
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_ATTACKER >
+공격수\n\n선공: 배틀에서 먼저 공격함\n노르마 2: 공격력 +1\n노르마 4: 공격력 +1\n보스 HP +5
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_DEFENDER >
+수호자\n\n보호: 1HP를 지불해 동료 1명이 다음 배틀에서 받을 피해 2를 경감함\n노르마 2: 방어력 +1\n노르마 4: 방어력 +1\n보스 HP -5
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_SUPPORT >
+지원가\n\n부활: 동료의 칸을 지나가면서 1HP를 회복시키거나 스타를 지불하고 그 동료를 부활시킬 수 있음\n노르마 2: 이동력 +1 \n노르마 4: 이동력 +1
+	
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_AVENGER >
+복수자\n\n복수: 배틀에서 잃은 HP 1당 공격력 +1\n노르마 2: 최대 HP +1\n노르마 4: 최대 HP +1\n보스 HP +10
+
+< PLAYMENU_EVENT_SUMMER2018_AVENGER_UNLOCK >
+새 역할 복수자를 협동 모드에서 사용할 수 있습니다!
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_MAIN >
+트릭 오어 트리트로 사탕을 모아 배를 채우자!
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_01 >
+매 챕터마다 소지한 사탕의 갯수만큼 스타를 얻습니다. 3챕터마다 사탕을 더 받게 됩니다.
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_02 >
+플레이어 점수판에 맞는 사탕이 있으면 홈에서 10스타와 1승과 맞바꿉니다.
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_03 >
+다른 플레이어와 만나면 그 플레이어가 갖고 있는 사탕을 선택해 트릭 오어 트리트를 시도하세요. 사탕을 주는 걸 거부하면 페널티를 받습니다!
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_04 >
+거부당했다고요? 방금 트릭 오어 트리트를 한 플레이어를 KO시키면 원했던 사탕을 빼앗을 수 있습니다!
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_05 >
+매치 종료 후 등수에 맞춰 사탕을 보상으로 받게 됩니다. 사탕 1500개를 모아 허기를 달래세요!
+
+< PLAYMENU_EVENT_HALLOWEEN2018_COMPLETE >
+키리코의 약을 이겨낼 만큼 사탕을 충분히 모았습니다! 마녀의 티타임을 즐깁시다.
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_MAIN >
+크리스마스가 오기 전에 모두와 함께 아이들을 위한 눈 성을 짓자!
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_01 >
+새 보상을 해금하기 위해 일간 진행도 목표를 클리어하세요! 크리스마스 게임 모드에서 리스를 모아 상점에서 아이템을 수령합시다!
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_02 >
+크리스마스 게임 모드에서는 모든 플레이어가 6챕터마다 다함께 눈 성을 만듭니다. 24챕터 후에 게임이 끝나고 성을 가장 많이 지은 사람이 이깁니다!
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_03 >
+눈 성은 눈을 써서 짓습니다. 눈은 매 챕터마다 패널에 쌓입니다. 눈더미를 지나 눈을 모으세요. 
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_04 >
+눈이 더 필요하다고요? 친구를 배틀로 KO시키거나 눈덩이를 맞혀서 빼앗으세요!
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_05 >
+이 아이콘을 누르고 3~4패널 거리에 있는 대상을 골라 눈싸움을 시작하세요(코스트: 눈덩이 10개).
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_06 >
+자신의 1패널 거리 안에 있는 유닛이 자신과 같은 편이 되고, 대상의 1패널 거리 안에 있는 유닛도 대상과 같은 편이 됩니다.
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_07 >
+눈싸움에서는 서로 번갈아서 공방을 주고받으며 3라운드까지, 혹은 한 쪽이 모두 눈덩이에 맞을 때까지 계속됩니다.
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_08 >
+방어 시에는 상대가 던질 곳을 예측하고 피할 패널을 선택하세요.
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_09 >
+공격 시에는 상대가 피할 곳을 예측하고 맞혀보세요. 성공하면 맞힌 유닛의 눈 절반을 얻습니다!
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_10 >
+이 게임 모드에는 덱에 새 이벤트 카드가 있습니다. 이 카드들은 눈싸움에서 흥미로운 효과를 낼 수 있습니다...
+
+< PLAYMENU_EVENT_XMAS2018_COMPLETE >
+눈 성이 완성되었고, 아이들의 크리스마스도 지켜냈습니다!
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_MAIN >
+모두가 게으름뱅이 돼지로 변해가고 있습니다! 돼지 하트를 모아 돼지화로부터 친구들을 구하세요! 
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_01 >
+돼지 하트는 일반전 또는 현상금 사냥 모드 배틀에서 적 플레이어를 KO시키거나 매치 결과에서 높은 순위에 들거나 (한 매치에 각 상대마다 하나씩) 혹은 협동전에서 획득할 수 있습니다.
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_02 >
+축적한 돼지 하트를 사용해 상점에서 돼지 코스튬을 해금해 해당 캐릭터를 돼지화의 저주에서 해방시키세요!
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_03 >
+돼지화는 모든 캐릭터가 풀려나야만 멈출 수 있습니다!
+
+< PLAYMENU_EVENT_FRB2019_COMPLETE >
+친구들은 구했지만 세계의 돼지화는 계속되어갑니다...
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_MAIN >
+정체불명의 새 적들이 날뛰고 있습니다! 다른 사람들과 힘을 합쳐 새 협동전을 플레이하여 이 난장판을 끝내세요!
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_01 >
+협동전을 하려면 로비를 생성하거나 싱글 플레이어 게임을 시작할 때 게임 모드를 협동전으로 변경하세요.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_02 >
+보스는 마음대로 바꿀 수 있는 4가지 난이도 레벨이 있습니다. 난이도가 높을수록 보스도 더 강한 능력을 씁니다! 또 승리 시 더 많은 경험치와 오렌지를 받습니다.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_03 >
+선택할 수 있는 필드의 폭이 보스와 난이도에 따라 달라집니다.\n
+캐주얼: 보유 중인 아무 일반 필드에서 진행합니다.\n
+노멀과 익스트림: 새 협동전 필드에서 진행합니다.\n
+하이퍼: 각 보스 전용 필드에서 진행합니다.\n
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_04 >
+하이퍼 난이도 보스는 고유의 강한 능력도 지니고 있습니다... 진짜 도전을 원할 때만 시도하세요!
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_05 >
+공격수, 수호자, 지원가 3가지 역할 중 하나로 플레이합니다. 각 역할은 경험치를 얻어 새 강력한 능력을 해금할 수 있습니다.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_06 >
+새 덱 포인트 시스템을 이용해 입맛대로 협동전 덱을 짜세요! 강력한 카드일수록 요구하는 덱 포인트도 많아집니다. 모든 카드는 동료들과 함께 쓴다는 걸 기억하세요.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_07 >
+많은 캐릭터들의 하이퍼 카드가 협동전에서는 다른 방식으로 작용합니다! 자세한 효과는 바인더에서 일반과 협동전 카드를 전환해서 볼 수 있습니다.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_08 >
+덱 포인트는 캐릭터 등급에 따라 결정됩니다. A급 캐릭터는 해당 역할에 가장 알맞은 것으로 고려되어 덱 포인트 10점을 갖고 시작합니다. 
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_09 >
+등급이 낮은 캐릭터는 보완책으로 더 많은 덱 포인트를 갖습니다. 여러가지 캐릭터와 역할 조합을 실험해보세요!
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_10 >
+보스가 필드에서 움직이고 여러분을 공격할 수 있습니다! 보스는 이동, 워프 등 이동 관련 패널만 발동합니다. 전략을 짤 때는 보스의 위치를 명심하세요.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_11 >
+보스는 레벨 0에서 3까지 변하는 고유 카드 5장으로 구성된 덱을 갖습니다. 보스가 5장을 모두 내면 레벨이 가장 낮은 카드 한 장을 업그레이드하고 덱을 섞습니다.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_12 >
+보스 능력은 매 챕터가 시작할 때 공개되고 챕터가 끝나기 직전 자신의 턴을 시작할 때 발동하니 그에 맞춰 계획을 짜세요!
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_13 >
+이제, 괴물들을 제압합시다!
+
+< PLAYMENU_EVENT_SPRING2019_COMPLETE >
+세상을 날뛰는 괴물들로부터 지켰습니다! 하지만 배후자가 남아있는 한 위협은 끝나지 않습니다... 과연 그 뒤에는 누가 있을까요?
+
+< PLAYMENU_EVENT_SUMMER2019_INSTRUCTION_MAIN >
+햇빛을 너무 많이 쬐버린 큐피가 맛이 가버렸습니다! 큐피와 새 부하들과 놀아주어 지치게 만들어야 합니다!
+
+< PLAYMENU_EVENT_SUMMER2019_COMPLETE >
+여러분의 노력 덕분에 모두가 해변에서 재밌게 놀았고 큐피도 원래대로 돌아왔습니다! 근데 그게 햇볕 때문이었다고요...?
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_MAIN >
+어른들의 할로윈 작전 개시! 츠이를 도와 여자들의 술자리를 위한 안주거리를 모으세요!
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_01>
+게임 중 맵상에 호박이 나타나 돌아다닐 것입니다.
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_02>
+호박이 있는 자리에 멈추면 호박을 획득하고 맵 어딘가에 호박이 바로 재생성됩니다.
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_03>
+호박을 모아 작전을 완수하세요! 경기가 끝난 뒤에 추가 캔디도 줍니다.
+
+< PLAYMENU_EVENT_HALLOWEEN2019_COMPLETE >
+작전은 성공적이었습니다! 원한다면 호박을 더 모아 캔디를 더 얻을 수도 있습니다.
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_MAIN >
+로포닭을 쓰러트리세요!
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_01 >
+저 녀석이 내가 만든 세계를 제 것마냥 다루고 있어...!
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_02 >
+녀석은 나보다 강할지도 모르지만... 내가 도와줄 수 있어!
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_03 >
+저 녀석을 쓰러트리고 이 세계를 구하자!
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_04 >
+아무 보스나 상대해서 이 싸움을 도울 수 있습니다.
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_05 >
+토모모가 플레이어에게 마법으로 힘을 북돋워주고 있습니다! 협동전 능력을 훨씬 더 빨리 습득할 수 있습니다!
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_06 >
+이제 처음부터 모든 협동전 능력치 보너스를 얻으며 능력은 레벨 10까지 전부 해금됩니다. 협동전 역할 레벨 상한도 해제되었습니다.
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_COMPLETE >
+로포닭은 쓰러졌지만, 진짜 배후자가 기다리고 있습니다! 새로 해금된 엑스트라 미션에서 스토리의 대단원을 보세요.
+
+< PLAYMENU_EVENT_MIO_MISSIONUNLOCK >
+새로 해금된 엑스트라 미션 %s에서 스토리의 대단원을 확인하세요.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_MAIN >
+새 현상금 사냥꾼 게임 모드에서 새로운 모험이 기다립니다! 엘리와 룰루가 길드 등급을 B까지 올려 돈을 충분히 모으도록 도웁시다!
+
+// Instruction about the game mode button
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_01 >
+현상금 사냥 모드를 플레이하려면 새 로비를 생성하거나 싱글 플레이어 게임을 시작할 때 게임 모드를 현상금 사냥 모드로 전환하세요.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_02 >
+새로운 노르마 타입 '명성'이 추가되며, 유일한 노르마로 적용됩니다. (주의: 노르마 제한이 있는 캐릭터도 이 모드에서는 명성 노르마를 완수할 수 있습니다)
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_03 >
+명성은 퀘스트나 현상수배를 완수하여 획득할 수 있습니다. 퀘스트와 현상수배는 아무 홈 패널에서 멈춰서 의뢰를 선택하여 수주할 수 있습니다.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_04 >
+퀘스트는 의뢰에서 가리키는 지점에서 아이템을 획득하여 화살표로 표시된 상점에 배달해야 합니다.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_05 >
+현상수배는 의뢰에서 가리키는 몬스터를 사냥해야 하며 난이도에 따라 주는 명성의 양이 다릅니다.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_06 >
+몬스터는 필드 전역에 걸쳐 찾을 수 있으며 현상수배 배틀은 최장 10라운드까지 지속됩니다. 싸움에 돌입하기 전에 단단히 준비하세요!
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_07 >
+들끓는 마물과 싸우는 걸 돕기 위해 이 모드에서는 모든 캐릭터가 이동력 +1을 영구히 얻고 매 챕터마다 받는 스타가 늘어납니다!
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_08 >
+퀘스트 지점과 여러가지 유용한 아이템을 파는 상점이 필드 전역에 등장합니다. 아무 상점에 들러서 아이템을 사거나 카드를 팔 수도 있습니다!
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_09 >
+캐릭터의 능력치는 상점 가격에 영향을 주는 점을 주의하세요 - 약한 캐릭터일수록 더 큰 할인폭으로 다른 전략을 구상할 수 있습니다!
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_10 >
+흐릿한 신기루가 필드 어딘가에 나타나 다음에 클리어된 장소가 어디로 이동할지를 보여줄 것입니다. 현상수배 몬스터가 격퇴당하거나 상점의 물건이 매진될 때 즉시 자리를 옮깁니다. 그 뒤 새 신기루 패널이 생성됩니다.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_11 >
+노르마를 완수하면 무작위로 선택된 특전 여러 개 중에 하나를 고를 수 있습니다. 특전은 영구하며 추가 능력치와 상점가 할인 등이 있습니다.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_12 >
+아무 플레이어가 처음으로 노르마 3에 도달하면 침략자가 필드에 나타납니다. 침략자는 여러 방식으로 판을 어지럽힐 고유한 능력을 가진 적입니다. 침략자를 쓰러뜨리면 보너스를 줍니다!
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_13 >
+아무 플레이어가 처음으로 노르마 4에 도달하면 강력한 신규 보스가 나타납니다. 보스의 힘을 주의하세요! 쓰러뜨린 플레이어는 명성 6점을 받습니다!
+
+// Final introduction msg
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_14 >
+이제 가장 최고로 명망있는 (데다 돈도 많은) 현상금 사냥꾼이 될 시간입니다!
+// Completed.
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_COMPLETE >
+축하합니다! 엘리와 룰루가 여행을 계속할 수 있을 만큼 충분한 현상금을 모았습니다! 원한다면 더 모아볼수도 있겠지만요.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_MAIN >
+강변 파티를 할 시간입니다! 사키, 나트, 카에를 도와 구워먹을 생선을 낚으세요!
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_01 >
+이벤트에 참여하려면 게임을 시작할 때 생선 낚시 게임 모드를 선택하세요.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_02 >
+새 미니게임이 매 10챕터마다 발동합니다. 여기에는 모든 플레이어가 동시에 참여합니다!
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_03 >
+물고기를 낚으려면 마우스 왼쪽 버튼으로 낚싯바늘을 던지세요. 낚고 싶은 물고기를 찾으려면 마우스를 움직여서 물 속을 들여다보세요.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_04 >
+자리를 고른 뒤에 낚싯바늘이 바닥까지 가라앉고, 도중에 먼저 걸린 물고기나 쓰레기를 낚아올립니다.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_05 >
+물고기는 무게와 속도가 각각 다릅니다. 점수를 더 얻으려면 빠르거나 큰 물고기를 낚으세요!
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_06 >
+미니게임이 간혹 빨라지는 경우가 있습니다. 물고기와 낚싯바늘 모두 빨라집니다.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_07 >
+모든 플레이어가 낚시 단계가 끝날 때 생선 점수로 등수가 매겨집니다. 등수에 따라 승리 수를 얻습니다.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_08 >
+불판을 눈여겨보세요! 불판에서는 항상 특정한 물고기 3마리를 요구하며, 3마리 모두를 낚으면 15점을 얻습니다!
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_09 >
+불판에서 요구하는 물고기는 각자 다르니 시간내로 상대보다 더 많은 세트를 완성하세요.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_10 >
+그리고, 같은 물고기를 여러 번 연속으로 낚으면 콤보 점수를 추가로 얻습니다.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_11 >
+각 게임에서 낚시 점수의 총합이 이벤트 진행도에 가산됩니다. 어디 한 번 진수성찬을 차려봅시다!
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_COMPLETE >
+해냈습니다! 이제 사키, 나트, 카에가 강변에서 생선구이 파티를 즐길 수 있게 되었습니다! 그래도 아직 물고기가 더 먹고 싶다면 계속 낚시를 할 수도 있답니다!
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_MAIN >
+버섯 쟁탈전이 시작되었습니다! 두 전설의 버섯들을 찾기 위해 실력을 발휘하세요!
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_01 >
+이벤트에 참여하기 위해서는 새 로비를 생성하거나 싱글 플레이어 게임을 시작할 때 "시즌 이벤트"를 활성화하세요. 
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_02 >
+일반전에서 포자 필드 이벤트를 활성화시키는 식으로 참여할 수도 있습니다. 일반전 필드 이벤트의 경우 빈도가 시즌 이벤트 효과에 비해 상대적으로 낮음을 주의하세요.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_03 >
+매 2챕터마다 (시즌 이벤트 비활성화 시 3챕터마다), 버섯이 무작위 패널에서 생겨납니다. 버섯이 있는 패널에 멈춰서 버섯을 딸 수 있습니다.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_04 >
+버섯을 따면 무작위 효과가 담긴 카드를 얻습니다. 효과는 카드를 사용할 때에만 드러나며, 매 게임마다 무작위로 배정됩니다.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_05 >
+아무 플레이어가 노르마 레벨 4에 도달하면 전설의 버섯이 나타납니다! 게임 한 판에 하나만 나타납니다. 현상금 사냥에서는 대신 상점에서 나타납니다.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_06 >
+특별한 버섯을 따면 강력한 기프트 카드를 주는데, 다른 플레이어가 기존 소유자를 KO시키면 빼앗을 수 있습니다.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_07 >
+이벤트 진행도는 해당 게임에서 어느 전설의 버섯을 땄는가에 따라 증가합니다.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_08 >
+과연 버섯 쟁탈전의 승자는 누가 될까요? 두고 봅시다...
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_COMPLETE >
+이번 버섯 사냥의 결과는 무승부(?)로 판가름났습니다... 그래도 계속해서 버섯을 찾을 수는 있습니다!
+
+< PLAYMENU_TOOLTIP_5YEARANNIVERSARY >
+스팀판 5주년 선물!\n아바타 화면에서 홈 포스트 아이콘을 클릭해 홈 포스트를 변경할 수 있습니다.
+
+< PLAYMENU_1MILLIONCHARA_UNLOCK >
+축하합니다! 100만 다운로드 보너스 캐릭터 미오를 사용할 수 있습니다!\n 캐릭터와 아나운서 보이스 옵션도 해금되었습니다!
+
+< PLAYMENU_TOOLTIP_10YEARANNIVERSARY >
+스팀판 10주년 기념 선물입니다!\n아바타 화면에서 카드 뒷면 아이콘을 클릭해 카드 뒷면을 바꿀 수 있습니다.
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_BEGINNING >
+오프닝
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_ENDING >
+엔딩
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_INTERLUDE >
+막간
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_MAIN >
+쿡의 배를 채워주면 마마를 찾는 걸 도와준다고요...? 도움이 될지도 모르니 쿡에게 줄 음식을 잔뜩 모으러 다녀봅시다!
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_01 >
+현상금 사냥 모드를 플레이하려면 새 로비를 만들거나 싱글플레이어 게임을 시작할 때 게임 모드를 일반전에서 현상금 사냥으로 전환하세요.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_02 >
+현상금 사냥 모드를 플레이할 때 상점에 음식 마커가 나타납니다. 마커가 붙은 상점에서 멈춰 진미를 수집하세요.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_03 >
+퀘스트 지점과 여러가지 유용한 물품을 파는 상점이 필드 전역에 나타나며, 매 6챕터마다 갱신됩니다.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_04 >
+아무 홈, 상점, 보유한 퀘스트와 이어진 지점에서 멈출 수 있습니다!
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_05 >
+새로운 노르마 타입, 명성 노르마가 추가되었으며, 이는 이 모드에만 존재합니다. (주: 노르마 제한을 가진 캐릭터도 이 모드에서는 명성 노르마를 고를 수 있습니다).
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_06 >
+명성은 퀘스트나 현상수배를 완수해서 쌓을 수 있습니다. 현상수배는 난이도에 따라 주는 명성이 다릅니다!
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_07 >
+각 판마다 쉬움, 중간, 어려움 세 난이도의 현상수배 대상이 2가지씩 나타나며 무작위 퀘스트 지점이 나타납니다.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_08 >
+현상수배 배틀은 10라운드까지 지속됩니다. 싸움에 뛰어들기 전에 장비를 챙겨입으세요!
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_09 >
+이 모드에서는 들끓는 몬스터와 싸우는 데 도움이 되도록 모든 캐릭터의 패 한도가 1장씩 늘어납니다!
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_10 >
+덤으로 각 플레이어는 이동력을 +1만큼 추가해주고 상점에서 더 좋은 것으로 강화시킬 수 있는 신발을 갖고 시작합니다.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_11 >
+상점에 카드를 플아서 스타를 얻을 수 있습니다. 상점마다 카드에 매기는 값이 다를 수 있습니다!
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_12 >
+각 상점 타입은 물건을 사고 카드를 팔아 여러 번 업그레이드할 수 있습니다. 상점의 레벨이 높으면 재고 확장 등의 이득을 갖습니다!
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_13 >
+플레이어가 레벨 4를 달성하면 새 고유 보스가 나타납니다. 보스의 힘을 주의하세요! 쓰러트리면 명성을 6이나 줍니다!
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_14 >
+그리고, 챕터 15 이후 수수께끼의 전령이 플레이어를 사냥하러 나옵니다. 플레이어가 전령에게 패배하면 명성을 1 잃고, 전령이 쓰러질 때 주는 명성이 늘어납니다.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_COMPLETE >
+쿡도 배가 부르겠다 이제 여행이 시작되려 합니다! 그래도 가는 길에 현상금 사냥을 더 플레이해서 보너스 이벤트 보상을 얻을 수 있습니다.
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_MAIN >
+미오의 코칭에 따라 즐겁게 수영을 배워봅시다! 신규 협동전 보스, 수영 코치가 등장했습니다!
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_01 >
+수영 코치에게 입히는 모든 피해가 모든 플레이어의 이벤트 진척에 추가됩니다.
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_02 >
+다른 협동전 보스와 싸워도 이벤트에 기여할 수 있습니다.
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_COMPLETE >
+이벤트는 완료되었고, 토모모도 수영하는 법을 배웠습니다! 그래도 아직 수영 코치랑 특훈을 더 할 수 있답니다.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_MAIN >
+할로윈에 맞춰 집을 꾸밀 장식을 찾아 뛸 시간입니다!
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_01 >
+장식은 모든 게임 모드에서 이따금씩 나타나는 장식 패널에 멈춰서 수집할 수 있습니다.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_02 >
+각 게임 모드마다 장식을 모으는 방법이 더 존재합니다.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_03 >
+일반전에서는 다른 플레이어의 홈 패널에 방문하면 장식을 얻습니다. 매 판이 끝날 때 순위에 따라서도 장식을 얻습니다.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_04 >
+협동전에서는 부하를 KO시키면 장식을 얻습니다. 그리고 승리 시 보스 난이도에 따라서도 장식을 얻습니다.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_05 >
+현상금 사냥에서는 표식이 달린 상점에 방문하면 장식을 얻습니다. 매 판이 끝날 때 순위에 따라서도 장식을 얻습니다.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_06 >
+장식은 매치 결과 보상에 더해 한 판에 4개까지 모을 수 있습니다.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_COMPLETE >
+집 장식이 다 끝났고 친구들과 함께 손재주의 결과를 즐길 시간입니다! 상점에서 코스튬을 해금하기 위해 계속 장식을 모을 수 있습니다.
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_MAIN >
+혼돈이 걷잡을 수 없어졌습니다! 바보의 도박 이벤트 기간동안 카오스 모드에서 여러가지 변칙을 적용해서 게임을 플레이하세요.
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_01 >
+변칙을 적용하려면 로비를 생성하거나 싱글 플레이어 게임을 시작할 때 일반전과 카오스 모드 여부를 변경하세요. \n그 뒤에 원하는 변칙을 적용할 수 있습니다.
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_02 >
+일부 변칙은 밸런싱 관계상 게임 보상이나 도전 과제가 비활성화됩니다. 변칙 설명에서 확인할 수 있습니다.
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_03 >
+이 이벤트는 엔딩이나 특별 보상이 없습니다. 대신 카오스 모드를 플레이하면 매 판마다 아케이드 토큰 하나를 하루 20개까지 획득할 수 있습니다.
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_04 >
+온갖 규칙을 다 깰 시간입니다! 혼돈을 만끽하세요! 
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_MAIN >
+목표가 눈앞에 있습니다! 엘리와 룰루를 아넬 콤비보다 먼저 호수의 사당으로 이끄세요!
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_01 >
+아무 모드로 게임을 진행해 얻은 이동 포인트를 써서 이벤트 맵을 탐사하세요!
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_02 >
+매일 처음 플레이하는 판에 이동 포인트 3점을, 그 뒤 한 판에 1점씩을 얻습니다.
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_03 >
+이동 포인트 1점으로 이벤트 맵에서 1칸을 이동할 수 있습니다.
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_04 >
+이동 포인트는 갈림길이 있을 때까지 자동으로 사용되어 길을 따라 움직입니다. \n어느 쪽 길을 고를지는 당신의 선택입니다.
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_05 >
+특정한 패널을 지나가면 이벤트 보상으로 스타, 오렌지, 무작위 치장 아이템을 받게 됩니다!
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_06 >
+과연 설화 속 보물은 누구의 차지가 될까요? 시간만이 가르쳐줄 것입니다...
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_COMPLETE >
+사당에 도착했습니다! 하지만 더 많은 보상을 위해서라면 길을 얼마든지 다시 돌 수 있습니다.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_MAIN >
+전 세계의 크리스마스 케이크가 위험에 처했습니다! 세상 곳곳을 뒤져서 미오의 흉물스러운 케이크를 처리해야 합니다!
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_01 >
+"미오의 잘못된 케이크" 특별 카드가 매 6챕터마다 모든 플레이어의 패에 들어옵니다.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_02 >
+이 악독한 창조물을 안전히 처리하려면 무작위 효과를 받기 위해 (신변의 위험을 감수하고) 먹거나, 피해 1을 주기 위해 적에게 던지세요.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_03 >
+아무 모드로 이벤트 게임을 플레이하면 상점에서 보상을 해금하는 데 쓰이는 맛있는 크리스마스 케이크를 보상으로 받습니다. 이벤트는 게임을 생성할 때 켜고 끌 수 있습니다.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_04 >
+이벤트는 전 세계의 플레이어들이 미오의 "케이크"를 전부 안전히 처리했을 때 성공으로 끝납니다.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_05 >
+두 이벤트 카운터는 케이크의 처리법에 대응하며 양쪽 모두 엔딩 진척도에 기여합니다.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_06 >
+이벤트의 엔딩을 해금하려면 개인 이벤트 게임 플레이 횟수를 달성해야 하며, 달성 시 글로벌 이벤트 진척도와 별도로 보상을 지급합니다.
+
+< PLAYMENU_EVENT_WINTER2022_COMPLETE_01 >
+세계가 구원받았습니다! 그것들이 뭐였는지는 몰라도 모두가 맛있는 크리스마스 케이크를 행복하게 즐길 수 있게 되었습니다! 아직 남은 케이크가 있나 더 찾을 수도 있습니다. 
+
+< PLAYMENU_EVENT_WINTER2022_COMPLETE_02 >
+새 케이크 유행이 왔습니다! 전 세계에서 모두가 미오의 핫한 창조물을 즐길 수 있게 되었습니다! 아직 더 먹고 싶다면 케이크를 더 찾을 수도 있습니다. 
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_MAIN >
+포위당했습니다! 엘리와 룰루를 도와 공격적인 마우쓰 떼와 싸워 약속된 보물을 손에 넣으세요!
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_01 >
+보물 이야기 이벤트 모드 또는 현상금 사냥꾼 모드에서 게임을 진행하며 마우쓰와 싸우세요!
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_02 >
+보물 이야기는 완화된 노르마, 상점가 50% 인하, 패 용량 +1장을 비롯한 여러 변경점으로 조정된 현상금 사냥꾼 모드입니다.
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_03 >
+수주 가능한 현상수배 3종은 항상 마우쓰 (쉬움), 키라임 마우쓰 (보통) 스트로베리 마우쓰 (어려움)입니다.\n해치워서 이벤트 진행도를 얻으세요!
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_04 >
+그리고, 퀘스트 완수 시에는 즉시 명성 2를 주지 않고 HP 2점짜리 마우쓰 현상수배 전투를 발동합니다. 
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_05 >
+마지막으로, 신규 침략자, 다크 초콜렛 마우쓰가 플레이어들의 목숨 대신 지갑에 파멸을 내립니다...\n다크 초콜렛 마우쓰를 격퇴하면 이벤트 진행도에 3점을 추가합니다.
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_06 >
+마우쓰들은 무엇을, 왜 지키고 있는 것을까요...?
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_COMPLETE >
+엘리가 찾던 "보물"을 찾았지만... 이젠 어떻게 되려는 걸까요?
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_MAIN >
+새로운 적이 나타났습니다! 세계의 신이 배드 엔딩을 원합니다! 함께한 동안 만든 추억을 떠올려 신에게 저항하세요.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_01 >
+아무 게임 모드를 플레이해 기억 파편을 획득하고 기억 파편을 소모해서 이벤트 지도를 진행하세요!
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_02 >
+매일 첫 판에 기억 파편 3개를 획득하고 그 뒤 추가로 매 판마다 파편 1개를 얻습니다.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_03 >
+기억 파편 하나는 이벤트 맵에서 패널 한 칸을 진행하게 해줍니다.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_04 >
+기억 파편은 새 갈림길에 도착할 때까지 자동으로 사용되어 선택한 길을 진행합니다.\n어느 길을 갈지는 당신의 선택입니다.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_05 >
+특정한 패널을 지나가면 스타, 오렌지, 무작위 치장품을 받을 수 있습니다!
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_06 >
+기억을 떠올리고 룰루가 어둠을 이겨내는 걸 도와주실 수 있나요?
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_MAIN2 >
+마지막 싸움이 기다립니다! 추가 미션 "천벌"에서 미오를 무찌르세요!
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_COMPLETE >
+세계의 신이 깔아놓은 배드 엔딩을 극복했습니다! 끝없는 여행이 저 앞에 펼쳐져 있습니다! 계속 진행하며 보상을 더 수집할 수 있게 되었습니다.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_MAIN >
+패밀리 레스토랑 퓨어스에서 맛있는 식사를 걸고 한 판 붙으세요! 단골 고객에게는 단골 상품도 있습니다!
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_01 >
+이 이벤트 기간 동안 플레이어는 신규 게임 모드 태그 팀을 플레이할 수 있습니다!
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_02 >
+태그 팀 한 판 또는 다른 게임 모드 두 판을 플레이할 때마다 패밀리 레스토랑 퓨어스 단골 카드에 도장 하나를 받습니다! 
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_03 >
+태그 팀에서는 파트너로 게임에 함께할 캐릭터를 한 명 더 고를 수 있습니다.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_04 >
+내 턴에 태그를 골라 선택했던 캐릭터를 교대시킬 수 있습니다. 그러면 리더 캐릭터가 파트너와 자리를 바꿉니다!
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_05 >
+태그를 하면 3챕터동안 다시 태그를 할 수 없습니다. 사용 전에 잘 생각하세요!
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_06 >
+리더가 KO당하면 파트너까지 KO당하지 않은 한 자동으로 태그합니다. 이렇게 한 태그로도 쿨타임이 생기므로 주의하세요!
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_07 >
+파트너는 일정 챕터가 지날 때마다 자동으로 HP를 회복합니다. KO당했다면 부활값 능력치만큼의 턴이 지난 뒤에 부활합니다.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_08 >
+파트너 초상화에 커서를 대면 다음 부활은 언제인지가 보입니다.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_09 >
+파트너가 보유하는 카드 효과는 지속 시간이 줄어들지 않습니다.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_10 >
+파트너가 게임에 영향을 주는 유닛 효과를 보유하고 있다면 파트너가 필드에 올라올 때까지 효과가 적용되지 않습니다.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_11 >
+파트너가 가진 KO에서 회복한 뒤 자신에게 적용되는 효과는 파트너가 KO에서 회복할 때 여전히 적용됩니다.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_12 >
+최고의 태그 팀을 짜서 동네 100% 오렌지 주스 챔피언이 됩시다!
+
+
+< PLAYMENU_EVENT_BOUNTYHUNTERS_FAME > 
+명성: %d
+
+< PLAYMENU_EVENT_BOUNTYHUNTERS_RIBBON > 
+룰루의 리본을 얻었습니다!
+
+< PLAYMENU_LOADING_TEXT > 
+불러오는 중...
+
+< PLAYMENU_CONNECTING_TEXT > 
+연결 중...
+
+< PLAYMENU_2MDOWNLOADS_MESSAGE >
+200만 다운로드 달성 감사드립니다!\n신규 엑스트라 미션이 추가되었습니다!\n미오가 무슨 꿍꿍이속일까요...?
+
+< MENU_BOSS_DIFFICULTY_CASUAL >
+캐주얼
+
+< MENU_BOSS_DIFFICULTY_NORMAL >
+노멀
+
+< MENU_BOSS_DIFFICULTY_EXTREME >
+익스트림
+
+< MENU_BOSS_DIFFICULTY_HYPER >
+하이퍼
+
+< MENU_COOPCLASS_ATTACKER >
+공격수
+
+< MENU_COOPCLASS_GUARDIAN >
+수호자
+
+< MENU_COOPCLASS_SUPPORT >
+지원가
+
+< MENU_COOPCLASS_AVENGER >
+복수자
+
+< MENU_COOPCLASS_DEALER >
+딜러
+
+< MENU_COOPUNLOCK_LEVEL >
+레벨 %d: %s
+
+< MENU_COOPUNLOCK_ABILITY >
+능력: %s\n%s
+
+< MENU_COOPUNLOCK_ORANGES >
+오렌지 +%d
+
+< MENU_COOPUNLOCK_DECKPOINT >
+덱 포인트 +%d
+
+< MENU_COOPUNLOCK_ROLEHYPER >
+역할 하이퍼
+
+< MENU_COOPUNLOCK_HYPERDIFFICULTY >
+협동전에서 %s의 하이퍼 난이도를 선택할 수 있습니다!
+
+< MENU_COOPUNLOCK_NEWBOSS >
+협동전 게임 모드에서 %s와(과) 싸울 수 있습니다! 게임을 생성할 때 보스 이름 옆의 화살표를 이용해 보스를 변경할 수 있습니다.
+
+< MENU_COOPUNLOCK_NEWCLASS >
+협동전에서 새 역할 %s를 사용할 수 있습니다!
+
+< MENU_SHOP_RETIREDEVENTITEM >
+%s의 이벤트 보상이 상점에 추가되었습니다!
+
+< MENU_WEEKLY_FREE_LABEL >
+이번 주동안 공짜
+
+< MENU_WEEKLY_FREE_TOOLTIP >
+이번 주동안 공짜로 이 DLC 캐릭터 둘로 플레이할 수 있습니다.\n아나운서 보이스도 사용할 수 있습니다.
+
+< MENU_MODMENU_DETAIL_1 >
+설명
+
+< MENU_MODMENU_DETAIL_2 >
+변경 사항
+
+< MENU_MODMENU_DETAIL_3 >
+변경하는 파일
+
+< MENU_VISIT_STEAM_WORKSHOP >
+스팀 창작마당 방문
+
+< PLAYMENU_SUMMER2019_RERUN_REVIVE >
+큐피가 더 놀고 싶어합니다! 섬머 비스트가 되살아났습니다!
+
+< MENU_WORKSHOP_THUMBNAIL_REQUIRED >
+모드를 배포하려면 섬네일이 필요합니다.\n\n자세한 정보는 모딩 문서를 참고해주세요.
+
+< MENU_WORKSHOP_CONTEST_UNAVAILABLE >
+이 항목을 등록할 수 없습니다:\n 현재 진행중인 컨테스트가 없습니다.
+
+< MENU_WORKSHOP_AGREEMENT_ERROR >
+이 항목을 등록할 수 없습니다:\n 스팀 창작마당 약관에 동의하지 않았습니다.
+
+< MENU_WORKSHOP_PUBLISH >
+배포
+
+< MENU_WORKSHOP_WORKSHOP_BTN >
+창작마당
+
+< MENU_WORKSHOP_PUBLISHING >
+모드를 스팀 창작마당에 배포하는 중입니다...
+
+// The website will be below this message as a link
+< MENU_WORKSHOP_PREMESSAGE >
+모드를 스팀 창작마당에 배포 또는 갱신함으로써 다음 웹페이지에 기재된 이용 약관에 동의하게 됩니다.
+
+< MENU_WORKSHOP_ERROR >
+스팀 창작마당 서비스에 오류가 있습니다. \n\n %s
+
+< MENU_WORKSHOP_ERROR_1 >
+이 행동을 할 권한이 없습니다.
+
+< MENU_WORKSHOP_ERROR_2 >
+창작마당 컨텐츠 등록을 금지당했습니다.\n스팀 고객지원과 상담하세요.
+
+< MENU_WORKSHOP_ERROR_3 >
+타임 아웃이 일어났습니다. 나중에 다시 시도해주세요.
+
+< MENU_WORKSHOP_ERROR_4 >
+스팀에 연결되지 않았습니다.
+
+< MENU_WORKSHOP_ERROR_5 >
+현재 창작마당 서버가 응답하지 않습니다.\n나중에 다시 시도해주세요.
+
+< MENU_WORKSHOP_ERROR_6 >
+등록 분야를 하나만 고를 수는 없습니다.
+
+< MENU_WORKSHOP_ERROR_7 >
+등록 허용분을 초과했습니다.\n창작마당에서 이미 올린 항목을 내린 뒤에 다시 시도해주세요.
+
+< MENU_WORKSHOP_ERROR_8 >
+파일을 찾을 수 없습니다.\n모드 경로에 있는 workshop.dat 파일을 지운 뒤에 다시 시도해주세요.
+
+< MENU_WORKSHOP_ERROR_9 >
+이 항목은 이미 등록되었습니다.\n새로고침을 해주세요.
+
+< MENU_WORKSHOP_ERROR_10 >
+그 이름을 가진 항목이 이미 있습니다.\n항목의 이름이 중복되지 않도록 해주세요.
+
+< MENU_WORKSHOP_ERROR_11 >
+최근의 암호 또는 메일 주소 변경으로 인해 새 컨텐츠 등록이 불가능합니다.
+
+< MENU_WORKSHOP_ERROR_12 >
+접근이 거부되었습니다.
+
+< MENU_WORKSHOP_ERROR_13 >
+알 수 없는 오류가 일어났습니다.
+
+< MENU_PLATE_FIRSTTIMEUNLOCK >
+이제 플레이어 이름판을 커스텀할 수 있습니다!\n기존 이벤트 혹은 캠페인 완료, 일정 레벨 달성 해금 품목들이 뒤이어 나올 것입니다. \n유저 정보 -> 아바타에서 이름판을 꾸밀 수 있습니다.
+
+< MENU_PREVIEW >
+미리보기
+
+< MENU_PLATEBG_UNLOCK >
+새 이름판 배경이 해금되었습니다!
+
+< MENU_PLATEFRAME_UNLOCK >
+새 이름판 테두리가 해금되었습니다!
+
+< MENU_PLATEFRAME_PIN >
+새 이름판 핀이 해금되었습니다!
+
+// eg.: Online Level 200 Reward
+< MENU_PLATE_STEAMLEVEL_REWARD >
+온라인 레벨 %d 보상
+
+< MENU_PLATE_EVENTCLEAR_REWARD >
+이벤트 클리어 보상
+
+< MENU_PLATE_CAMPAIGNCLEAR_REWARD >
+캠페인 클리어 보상
+
+< MENU_PLATE_DLCPURCHASE_REWARD >
+DLC 구매 특전
+
+< MENU_NOW_SAVING >
+저장 중...
+
+< MENU_FRIENDLIST_HEADER >
+친구 %d명이 온라인 상태입니다. %d명이 100%% 오렌지 주스 플레이 중!
+
+< MENU_FRIENDLIST_INVITE >
+친구 초대
+
+< MENU_CPU_CUSTOMIZATION_BTN >
+CPU 편집하기
+
+< MENU_CPU_CUSTOMIZATION_TITLE >
+CPU 편집
+
+< MENU_VOCALIZER_GENERIC_CATEGORY >
+범용
+
+< MENU_VOCALIZER_NORMAL_CATEGORY >
+일반
+
+< MENU_VOCALIZER_SPECIAL_CATEGORY >
+특수
+
+< MENU_ENDGAME_REWARDS_DISABLED >
+게임 완료 보상이 비활성화됩니다.
+
+< MENU_ACHIEVEMENTS_DISABLED >
+도전 과제가 비활성화됩니다.
+
+< MENU_CODEX_INFO_LABEL >
+정보
+
+< MENU_CODEX_MORESOON_LABEL >
+추후 더 많은 유닛이 추가될 예정입니다!
+
+< MENU_CODEX_INSTRUCTION_1 >
+귤즙 도감에 어서오세요!\n이 무한한 지식의 인터페이스에서는 유닛들의 프로필을 둘러보실 수 있으며 추후 더 많은 유닛이 등재될 예정입니다.
+
+< MENU_CODEX_INSTRUCTION_2 >
+캐릭터 정보를 해금하려면 그 캐릭터로 모드와 상관없이 특정 판수를 플레이해야 합니다. 기존에 적립된 일반전 온라인 게임 판수도 진행도에 가산되었음을 유의해주세요.
+
+< MENU_CODEX_INSTRUCTION_3 >
+한 유닛으로 온라인 게임 50판에 도달하면 그 캐릭터의 플레이어 이름판용 핀을 해금합니다.
+
+< MENU_CODEX_INSTRUCTION_4 >
+이 새 기능을 즐겨주시길 바랍니다. 스팀 토론이나 저희 디스코드 서버에 피드백을 남겨주세요!
+
+< MENU_CODEX_TAB_LORE >
+유닛 로어
+
+< MENU_CODEX_TAB_STORIES >
+사이드 스토리
+
+< MENU_CODEXSTORY_TITLE_FAMILY >
+가족
+
+< MENU_CODEXSTORY_TITLE_CLASSCHANGE >
+전직
+
+< MENU_CODEXSTORY_TITLE_LULUWATTY >
+동정
+
+< MENU_CODEXSTORY_TITLE_CONCIERGE >
+수행원
+
+< MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
+{1}(으)로 게임 {0}판 플레이.
+
+< MENU_CODEXSTORY_UNLOCKCOND_2UNITS >
+{1}(이)나 {2}(으)로 게임 {0}판 플레이.
+
+< MENU_CODEXSTORY_UNLOCKCOND_NUNITS >
+{1} 중 아무 유닛으로 게임 {0}판 플레이.
+
+< MENU_CODEXSTORY_UNLOCKCOND_EVENT >
+"{0}" 이벤트 클리어.
+
+< MENU_CODEXSTORY_UNLOCKCOND_HATS_1UNIT >
+{0}의 액세서리나 헤어 컬러를 해금.
+
+< MENU_CODEXSTORY_UNLOCKCOND_HATS_NUNITS >
+{0} 중 아무 유닛의 액세서리나 헤어 컬러를 해금.
+
+< MENU_NORMABOARD >
+노르마 강화
+
+< MENU_HIDE_UI >
+UI 숨김
+
+< MENU_SHOW_UI >
+UI 표시
+
+< MENU_CHAPTER_LABEL >
+챕터
+
+< MENU_UNAVAILABLE_LABEL >
+현재 이용할 수 없습니다.
+
+< MENU_DIRECT_TO_SHOP_BUY_CARD >
+게임에서 얻은 스타로 상점에서 새 카드가 든 부스터 팩을 살 수 있습니다!
+
+< MENU_HOLD_CLICK_SPEEDUP >
+좌클릭 버튼을 길게 눌러 가속
+
+[EOF]

@@ -1,0 +1,512 @@
+
+// ========= Scene: Stage 1 =========
+
+// (miusaki)
+<0000> Let us know when you get a fun game like that one again!
+
+// (ceoreparque)
+<0001> We'll bring Rone next time. Adios.
+
+// (forestwitch)
+<0002> Goodbye.
+
+// (suguri46b)
+<0003> Phew, it's suddenly quiet again.
+
+// (sumika)
+<0004> You've been a good host.\nYou even made them some pudding.\nDon't you think that was a bit overkill?
+
+// (suguri46b)
+<0005> I was in the mood for pudding, so it wasn't that big a deal.
+
+// (sumika)
+<0006> Are you sure that's it...?\nYou looked so happy when you were cooking.
+
+// (sumika)
+<0007> Also, you looked nervous when they were having the sweets.\nSumika could tell from your face that inside you were like, "Did it turn out well?" and "What if they don't like it?".
+
+// (suguri46b)
+<0008> Ugh...
+
+// (sumika)
+<0009> Ufufufufu.
+
+// (suguri46b)
+<0010> Muu...
+
+// (suguri46b)
+<0011> By the way, Sumika.
+
+// (sumika)
+<0012> What is it?
+
+// (suguri46b)
+<0013> This game they returned to me...\nYou wanna play it with me?
+
+// (sumika)
+<0014> Oh, sure.\nSeeing those girls enjoying it so much made you want to play it too for the first time in ages, didn't it!
+
+// (suguri46b)
+<0015> Don't read my mind...
+
+// (sumika)
+<0016> So, what will the winner get?
+
+// (suguri46b)
+<0017> As a matter of fact, we have one pudding left here.
+
+// (sumika)
+<0018> Very well!\nAlright, Suguri, you're on!
+
+// ========= Scene: Stage 2 =========
+
+// (sumika)
+<0019> Okay, that's how you play, huh...
+
+// (suguri46b)
+<0020> Fufufu, now, what are you going to do?
+
+// (sumika)
+<0021> Hmmmmm...
+
+// (suguri46b)
+<0022> ♪
+
+// (sumika)
+<0023> Dang it. You're even humming!\nAre you aware you get visibly happy as soon as you know you're winning?
+
+// (suguri46b)
+<0024> Because it's fun.
+
+// (sumika)
+<0025> That's one thing Sumika likes about you.
+
+// (suguri46b)
+<0026> Yeah, right.
+
+// (sumika)
+<0027> Sumika knows you can be quite expressive.
+
+// (suguri46b)
+<0028> I wouldn't be so sure.\nI might just be pretending that way.
+
+// (sumika)
+<0029> Ahaha, Sumika doesn't buy that.\nThere.
+
+// (suguri46b)
+<0030> Oh! Can't believe you rolled a six there! Mmm!
+
+// (sumika)
+<0031> See?
+
+// ========= Scene: Stage 3 =========
+
+// (sumika)
+<0032> By the way, Suguri.
+
+// (suguri46b)
+<0033> What?
+
+// (sumika)
+<0034> What do you think of Sumika?
+
+// (suguri46b)
+<0035> Why that question, all of a sudden?
+
+// (sumika)
+<0036> You know, those two witches looked like they were best friends...
+
+// (suguri46b)
+<0037> Ah, yeah. That was unexpected, because I thought they didn't hang out much.
+
+// (sumika)
+<0038> Yes, that's right!\nSo Sumika is thinking that even though you're usually curt with her...
+
+// (sumika)
+<0039> Could it be that you actually love her like crazy...
+
+// (suguri46b)
+<0040> I see.
+
+// (sumika)
+<0041> So what's your answer?
+
+// (suguri46b)
+<0042> Hmm.\nIn terms of liking you or not...
+
+// (sumika)
+<0043> Do you like Sumika or not?
+
+// (suguri46b)
+<0044> There.
+
+// (sumika)
+<0045> Aaaah! Something really bad happened in the game while Sumika was distracted with chitchatting!\nHow dare you play a nasty trick like that! Damn it! You devil! Monster!
+
+// (suguri46b)
+<0046> I like you at times like these.
+
+// (sumika)
+<0047> But Sumika advises you not to underestimate her!\nShe saw that coming and had something prepped for it!\nThere!
+
+// (suguri46b)
+<0048> What?! You're kidding me, right?
+
+// (sumika)
+<0049> You're KO'd now...\nKukuku, ahahahaha! Booya!
+
+// (suguri46b)
+<0050> ...And I hate you at times like these.
+
+// ========= Scene: Stage 4 =========
+
+// (suguri46b)
+<0051> Let me ask you something.
+
+// (sumika)
+<0052> Yes?
+
+// (suguri46b)
+<0053> What's your version number at now?
+
+// (sumika)
+<0054> You're interested in something like that?
+
+// (suguri46b)
+<0055> Kind of. Even now, you update yourself like once a month.
+
+// (sumika)
+<0056> Of course Sumika does.\nAnd especially so because our environment has changed dramatically lately.
+
+// (sumika)
+<0057> Sumika has lost count of all those big updates that she gave herself.
+
+// (suguri46b)
+<0058> My life has been comfortable because of you.
+
+// (sumika)
+<0059> You have no idea how painstaking all those updates are.\nSumika believes she deserves more appreciation from you.
+
+// (suguri46b)
+<0060> Excellent work.
+
+// (sumika)
+<0061> You don't sound like you mean it.\nGeez.
+
+// (suguri46b)
+<0062> Hold that battle. I'm going to play a card.
+
+// (sumika)
+<0063> What the! That's not fair!\nHow can you be so nasty! For goodness' sake!
+
+// (suguri46b)
+<0064> Fufufu.
+
+// (sumika)
+<0065> Sumika's super mad now!\nShe's updated herself just now so you can't use any more foul plays against her!
+
+// (suguri46b)
+<0066> You said exactly the same thing to me last time I used exactly the same method against you.
+
+// (sumika)
+<0067> ......
+
+// ========= Scene: Stage 5 =========
+
+// (sumika)
+<0068> This planet is so unusual.
+
+// (suguri46b)
+<0069> Huh?
+
+// (sumika)
+<0070> There are girls who call themselves witches, and there's this mysterious power called Girl Power...
+
+// (suguri46b)
+<0071> Ah. it's the power that gets stronger the cuter you are, right?\nI don't really understand how it works, though.
+
+// (sumika)
+<0072> Sumika doesn't understand, either!\nAnd she doesn't like it when there's something she doesn't understand.
+
+// (suguri46b)
+<0073> Relax. Since we have plenty of time, we can learn what it is bit by bit, you know.
+
+// (sumika)
+<0074> Hmm.
+
+// (sumika)
+<0075> Speaking of, they call you a witch too, don't they?
+
+// (suguri46b)
+<0076> "Forest Witch" because I live in the forest... huh.
+
+// (sumika)
+<0077> They could've done a better job with your name.
+
+// (suguri46b)
+<0078> Well, no matter what they call me, they've accepted us here, and I'm really happy about that.
+
+// (sumika)
+<0079> They've accepted Sumika as the "Puyo Puyo Mascot", though!\nThey think she's your accessory or something.
+
+// (suguri46b)
+<0080> You shouldn't have been in that form when they visited us here.
+
+// (sumika)
+<0081> Sumika is a very cautious girl, so she hardly shows people this special, cute form.
+
+// (suguri46b)
+<0082> There's nothing I can do about that, then.
+
+// (sumika)
+<0083> Uuu, Sumika wants to be called "Cutie Witch" or something...
+
+// ========= Scene: Stage 6 =========
+
+// (suguri46b)
+<0084> Phew, we should take a break.
+
+// (sumika)
+<0085> It's been such a heated game...\nSumika will make us green tea!
+
+// (suguri46b)
+<0086> Thanks.
+
+// (sumika)
+<0087> And here's the tea! *thud*
+
+// (suguri46b)
+<0088> That was fast.
+
+// (sumika)
+<0089> Because Sumika is high-spec.
+
+// (suguri46b)
+<0090> *sip* Mm, I really like the tea you make.
+
+// (sumika)
+<0091> Because Sumika is high-spec!
+
+// (suguri46b)
+<0092> Fufu.\nI think that'd make you "Tea Witch".
+
+// (sumika)
+<0093> Sumika doesn't like that, because it makes her sound like a grandma!
+
+// (suguri46b)
+<0094> Oh really? I think it's cute.
+
+// (sumika)
+<0095> You have terrible sense when it comes to names.\nAnd fashion. You're always wearing that sweatshirt and those pants.
+
+// (suguri46b)
+<0096> Give it a rest. I wear them because they're comfy.
+
+// ========= Scene: Stage 7 =========
+
+// (sumika)
+<0097> *sip* *sigh* Hot tea is so good.
+
+// (suguri46b)
+<0098> You sound like a grandma.
+
+// (sumika)
+<0099> Would you shut your mouth!\nYou often act like quite the grandma as well, Suguri.
+
+// (suguri46b)
+<0100> I can't help it. In fact, you could say I am one in a sense.
+
+// (sumika)
+<0101> You're something way beyond a grandma.
+
+// (suguri46b)
+<0102> Maybe you're right...
+
+// (suguri46b)
+<0103> *sip* What in the world am I?
+
+// (sumika)
+<0104> Actually, you're the most mysterious thing in the whole universe.
+
+// (suguri46b)
+<0105> I try not to think about that...
+
+// (suguri46b)
+<0106> But I sometimes think about that in bed and it keeps me awake.
+
+// (sumika)
+<0107> What are you, a kid going through puberty?
+
+// (suguri46b)
+<0108> As you can see, I'm just a girl too.
+
+// (sumika)
+<0109> You're not taking this conversation seriously, are you?
+
+// (sumika)
+<0110> *sip* Again, you're the most mysterious entity that Sumika knows.
+
+// ========= Scene: Stage 8 =========
+
+// (suguri46b)
+<0111> Well, I am me, and that's all there is to it.\nNo point in thinking about that.
+
+// (suguri46b)
+<0112> Even though I've been around for eternity, something new still keeps coming up every now and then.
+
+// (suguri46b)
+<0113> And this game is fun...
+
+// (suguri46b)
+<0114> I don't think I need anything more than that.
+
+// (sumika)
+<0115> Suguri... What's with all the talking?
+
+// (suguri46b)
+<0116> I'm just trying to relax.
+
+// (sumika)
+<0117> What's happened to the girl who was rather hostile when she met Sumika for the first time?
+
+// (suguri46b)
+<0118> Don't expect me to remember something that happened billions of years ago.
+
+// (sumika)
+<0119> Sumika has backup data from then. Would you like to see it?
+
+// (suguri46b)
+<0120> I'll pass. It's just embarrassing to see my past self.
+
+// (sumika)
+<0121> You always use that excuse.
+
+// (suguri46b)
+<0122> Oh, will you keep it, though?\nMaybe I'm going to want to see it some day.
+
+// (sumika)
+<0123> And you always ask that.
+
+// ========= Scene: Stage 9 =========
+
+// (sumika)
+<0124> Suguri, how much of your past do you remember?
+
+// (suguri46b)
+<0125> I can barely remember what I ate for dinner yesterday.
+
+// (sumika)
+<0126> That's... pretty bad.
+
+// (suguri46b)
+<0127> But you know.
+
+// (suguri46b)
+<0128> Well... I don't forget interesting people or interesting events.
+
+// (suguri46b)
+<0129> Even now, I don't have any difficulty recalling the names of this girl or that girl.
+
+// (sumika)
+<0130> You haven't even said one single name yet.
+
+// (suguri46b)
+<0131> It was so much fun dancing with this one girl.
+
+// (sumika)
+<0132> That sounds rather vague.
+
+// (suguri46b)
+<0133> Hmm... Trust me, I really do remember.
+
+// ========= Scene: Stage 10 =========
+
+// (suguri46b)
+<0134> I guess it's about time to finish this game.
+
+// (sumika)
+<0135> Fufufu, we both still have an equal chance to win.
+
+// (suguri46b)
+<0136> The dice only know.
+
+// (sumika)
+<0137> Yes, and the pudding will be Sumika's!
+
+// (suguri46b)
+<0138> I won't let that happen. I'll play the card I've been keeping for this moment.
+
+// (sumika)
+<0139> Fufu, Sumika also has her card to play here and now...!
+
+// ========= Scene: Ending =========
+
+// (sumika)
+<0140> With Suguri down and one dice roll being able to get Sumika to a home... Sumika's victory is guaranteed!
+
+// (suguri46b)
+<0141> Ughh.
+
+// (sumika)
+<0142> Alright then, this dice roll... will end the game!
+
+// (alicianrone)
+<0143> Hello, is Forest Witch home?
+
+// (teotrutta)
+<0144> Hi there.
+
+// (suguri46b)
+<0145> Whoa, you girls surprised me.
+
+// (puyopuyomascot)
+<0146> That's an unusual combination.
+
+// (suguri46b)
+<0147> Hi, Rone. What's up?
+
+// (alicianrone)
+<0148> We ran into Repa and Miu out there earlier.
+
+// (suguri46b)
+<0149> Ah, I see.
+
+// (teotrutta)
+<0150> They told us you have a fun board game and good sweets here!
+
+// (suguri46b)
+<0151> We do have both. Is that what brought you here?
+
+// (teotrutta)
+<0152> Right on!
+
+// (alicianrone)
+<0153> You know, we haven't seen each other for a good while.\nDid you miss me?
+
+// (teotrutta)
+<0154> Here, we brought you a gift: wild vegetables we collected.
+
+// (puyopuyomascot)
+<0155> Wow! Thank you so much!
+
+// (suguri46b)
+<0156> Okay then, let's start over so all four of us can play.
+
+// (puyopuyomascot)
+<0157> Ah, Suguri! That's not fair!\nYou just want to start over because you were about to lose!
+
+// (suguri46b)
+<0158> It's rude to make guests wait.
+
+// (puyopuyomascot)
+<0159> Boo!
+
+// (teotrutta)
+<0160> Whatever. We're all going to play the game now.
+
+// (suguri46b)
+<0161> Yeah, let's do it.
+
+// (puyopuyomascot)
+<0162> You're unbelievable! Mascot will beat you again!
+

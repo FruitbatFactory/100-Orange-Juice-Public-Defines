@@ -1,0 +1,109 @@
+< ITEMDEF_PET_DISPLAY_TYPE > 
+Mascote
+
+< ITEMDEF_TOKEN_DISPLAY_TYPE > 
+Ficha de Arcade
+
+
+
+
+< RARITY_COMMON >
+Comum
+
+< RARITY_UNCOMMON >
+Incomum
+
+< RARITY_RARE >
+Raro
+
+< RARITY_SUPER_RARE >
+Super Raro
+
+< PET_SELECT_NOPET >
+Sem Mascotes
+
+
+< ARCADE_ORANGE_GET >
+Você conseguiu Laranjas!
+
+< ARCADE_PET_GET >
+Você conseguiu um Mascote!
+
+< ARCADE_COMMON_GET >
+Você conseguiu um Item Comum!
+
+
+< ARCADE_PLAY>
+JOGAR
+
+< ARCADE_EXCHANGE >
+Trocar
+
+< ARCADE_LOADING >
+Carregando...
+
+
+< ARCADE_EXCHANGE_NOPET >
+Nenhum mascote selecionado.
+
+< ARCADE_EXCHANGE_CONFIRM >
+Trocar este Mascote?
+
+< ARCADE_ERROR_STEAM >
+Você não está conectado ao Steam.
+
+< ARCADE_ERROR_MISC >
+Erro. Por favor tente mais tarde.
+
+< ARCADE_ERROR_EXCHANGE_QUANTITY >
+Sem Mascotes o suficiente para a troca.
+
+< ARCADE_ERROR_TIMEOUT >
+Tempo Esgotado. Por favor, tente mais tarde.
+
+< ARCADE_NEW_PET_COLOR >
+Conseguiu nova cor!
+
+< ARCADE_ERROR_TOKEN_COUNT >
+Você não tem fichas o suficiente.
+
+< ARCADE_TOOLTIP_GAMEMACHINE >
+Jogue minigames lançados anteriormente!
+
+< ARCADE_TOOLTIP_PETCATCHER >
+Use 3 fichas para ganhar um mascote ou item comum!
+
+< ARCADE_TOOLTIP_EXCHANGE >
+Troque dois do mesmo mascote da máquina de pegar mascotes por uma nova cor!
+
+< ARCADE_TOOLTIP_EMOTES >
+Obtenha novos emotes de chat!
+
+
+< ARCADE_TOOLTIP_CONSUMABLES >
+Compre itens para uso dentro do jogo!
+
+< ARCADE_MACHINE_PETCATCHER >
+Máquina de Pegar Mascotes
+
+< ARCADE_MACHINE_SUMMER >
+Máquina de Verão de Pegar Mascotes
+
+< ARCADE_MACHINE_BOUNTYHUNT >
+Máquina de Caça de Recompensas de Pegar Mascotes
+
+< ARCADE_MACHINE_EXCHANGE >
+Troca de Mascotes
+
+< ARCADE_MACHINE_EMOTES >
+Emote Gachapon
+
+< ARCADE_MACHINE_CONSUMABLES >
+Máquina de venda
+
+
+< ARCADE_MACHINE_BUILD_A_CASTLE >
+Build-a-Castle
+
+< ARCADE_MACHINE_SCHOOL_CRASHERS >
+School Crashers

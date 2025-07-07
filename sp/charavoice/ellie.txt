@@ -1,0 +1,164 @@
+<0117> Hora del cambio.
+<0118> Ajaaa~ ♥ ¡Vamos a cambiar de lugar!
+<0119> Cambiaremos ahora.
+<0120> Iré a tomar cinco.
+
+<0148> ¡Lulu, es tu turno!
+<0149> Tú puedes hacerlo, Lulu.
+<0150> Ajaaa~ ♥ ¡Luluuu!
+<0151> ¡Creo en ti, Lulu!
+
+<0000> Joy.
+<0001> ¡Toh!
+<0002> Aquí va.
+<0003> ¡Poy!
+<0004> Mira lo que usaré ahora.
+<0005> *Presumiendo*... ¡Es mi turno!
+<0006> Qué inteligente soy, al usar esto en este momento ♥
+<0007> Les mostraré a todos lo que realmente puedo hacer.
+<0008> *Sonrisa, sonrisa*
+<0009> Ajaaaa ♥ ¡Lo tengo!
+<0010> ¡Aquí va una traaampaaa!
+<0011> Jeje, dejaré esto aquí...
+<0012> ¡Carta de batalla!
+<0013> Puedo ganar fácilmente sin usar una carta... Pero usaré una de todas formas ♥
+<0014> Ajaa ♥
+<0015> Me haré muchísimo más fuerte.
+<0016> ¡Abrid bien los ojos, les mostraré un increíble milagro!
+<0017> ¿Hmm? ¿Ya amaneció...?
+<0018> No seré noqueada una vez más.
+<0019> Agh, esto no me ayuda...
+<0020> ¡¿Quién fue la persona que osó desafiarme?! ¡Demonios!
+<0021> ¿Jaee?
+<0022> No puede ser, no puede ser.
+<0023> ¡¿Pero qué demonios?! ¡Ya! ¡Levántate!
+<0024> Au... Mamá...
+<0025> ¡Ajaaa!
+<0026> ¡Toma eso!
+<0027> ¡Ey-eeey!
+<0028> Te derribaré.
+<0029> ¡Eso duele!
+<0030> ¿Pero qué rayos haces?
+<0031> ¡Paaa!
+<0032> ¡Kyan!
+<0033> Ohdios, esto se siente bien.
+<0034> Esto se convertirá en una de mis cosas favoritas.
+<0035> Ajaaaa ♥ Qué encantador.
+<0036> Estoy mejorando cada vez más ♥
+<0037> ¡¿A dónde rayos me llevan?!
+<0038> ¡Ajaaaaaaa!
+<0039> ¡Ohdios, ohdios!
+<0040> ¡¿Pero qué rayos es esto?!
+<0041> E-esto es... imperdonable...
+<0042> No te lo perdonaré...
+<0043> Jaaaa... Jaaaa...
+<0044> E-esto me volverá loca...
+<0045> ¡Ajaaaa! ¡Te encontré!
+<0046> ¡Prepárate! ¡Yah!
+<0047> ¡Ajaa, te haré pedazos aquí y ahora!
+<0048> Mira lo fuerte que soy.
+<0049> Oh, ¿quieres pelear?
+<0050> Ajaaaa, parece que buscas una pelea.
+<0051> ¿Osas desafiarme? ¡Qué tontería!
+<0052> ¿Qué? ¿En verdad ansías tanto mi atención?
+<0053> ¡Yah!
+<0054> ¡Toma eso!
+<0055> ¡Te cortaré!
+<0056> Ajaaaa ♥ 
+<0057> ¡Ogu!
+<0058> ¡Geje!
+<0059> ¡Pokyu!
+<0060> ¡Ogo!
+<0061> ¡No me toques, criatura pervertida!
+<0062> ¡No, no, no puedo!
+<0063> Esto... ¡Esto me volverá locaaaaaaa!
+<0064> ¡Jae-aaah!
+<0065> Te lo acabas de perder ♥
+<0066> Demasiaaado lento.
+<0067> Mírate a ti, criatura inferior a mí ♥
+<0068> Estoy aquí, idiota.
+<0069> Ajaaaa ♥ Te ves tan miserable...
+<0070> Eres muy débil. Me gustaría ver a alguien con más fuerza.
+<0071> ¿Qué? ¿Eso fue todo?
+<0072> ¿Qué, te sientes miserable? ¿Te sientes muy miserable? Ajaaa ♥
+<0073> ¡Mamáaa!
+<0074> Lección aprendida...
+<0075> Gu gu ga ga...
+<0076> No podré resistir por mucho más tiempo, por favor... ten piedad...
+<0077> Ajaaaa ♥ ¡Están brillando!
+<0078> ¡Lo mejor del mundo!
+<0079> Me siento tan feliz ♥
+<0080> Esto me gusta. ¡Me encanta!
+<0081> ¡Ajaaaaah! ¡Alto!
+<0082> ¡No, no, son mías...! ¡Nooooo!
+<0083> ¡Aaah! ¡¿Por qué?!
+<0084> ¡Esto es horrible!
+<0085> ¡Gyaaa! ¡¿Una trampa?!
+<0086> ¡Esto no me gustaaa!
+<0087> ¡Debes estar bromeando...! ¡Gya!
+<0088> ¡Lo peor del mundo!
+<0089> Tenemos a un gran objetivo de caza por aquí.
+<0090> ¡E-espero que no pienses que eres mejor que yo solo por ser un poco más grande y temible...!
+<0091> ¡N-no estoy asustada...! ¡Soy más fuerte que tú!
+<0092> ¡E-está bien, pareces ser un poco aterrador...!
+<0093> ¡Conseguiré estrellas! ¡Brillo, brillo!
+<0094> Todas las estrellas serán mías.
+<0095> Conseguiré muchas estrellas, y entonces les daré un abrazo... Ajaaaa ♥ 
+<0096> Ajaaaa ♥ Con esto, me haré millonaria.
+<0097> ¡Iré a pelear!
+<0098> Hay muchos objetivos para cazar, me pregunto por cuál debería empezar.
+<0099> Los cortaré, uno por uno ♥
+<0100> ¡Iré a cazar, cazar y cazaaaaar!
+<0101> ¡Me llamo Ellie! Estoy viajando para encontrar a mi mamá.
+<0102> ¿Qué, en verdad me quieres tanto? ¡Criatura pervertida!
+<0103> Está bien, me quedaré un rato contigo.
+<0104> Ajaaa ♥ Vamos a divertirnos.
+<0105> Les mostraré a todos lo que realmente puedo hacer.
+<0106> Los derribaré a todos.
+<0107> Ajaaa ♥ Estoy tan emocionada.
+<0108> ¿Es este el lugar en el que jugaremos? ¡Se ve bien!
+<0109> ¡Sabía que ganaría! ¡Síii!
+<0110> Ajaaa ♥ ¡Esto en verdad es lo mejor del mundo!
+<0111> Qué es esto? Todo fue tan fácil... ¡Qué débiles!
+<0112> Vaya, ganar en este juego sí que fue fácil.
+<0113> Eh, ¿quieres esto? ¿Lo quieres?
+<0114> Hmm, ¿en verdad lo quieres tanto? Bueno, veré que puedo hacer...
+<0115> Mira lo que tengo aquí. Si lo quieres... sabes qué hacer, ¿verdad?
+<0116> ¡Si en verdad lo quieres, tendrás que quitármelo de las manos! Ajaaa ♥
+<0121> Ya, está bien.
+<0122> Buen trabajo.
+<0123> Ajaaaa ♥
+<0124> ¡De eso nada, monada!
+<0125> ¿Aaah?
+<0126> ¡Qué suerte!
+<0127> Um...
+<0128> ¡Hagámoslo!
+<0129> ¡Tirando los dados!
+<0130> ¡Eso es! ¡Ve, ve!
+<0131> ¡Yajuuu!
+<0132> ¿Aa... jaaaa?
+<0133> Bien hecho.
+<0134> ¡Eso fue increíble...!
+<0135> ¡Arrrrrgh, demonios! *Voltea la mesa*
+<0136> ¿Qué tipo de carta es esta? ¡No importa, la usará de todas formas!
+<0137> Usaré esta carta.
+<0138> Usaré esta carta. Eso no te molestará, ¿o sí?
+<0139> ¡Mira lo que tengo aquí! Ajaa ♥
+<0140> ¡Prepárate, rata!
+<0141> ¡Te encontré, rata estúpida!
+<0142> ¡Deja de decir "poppo poppo"!
+<0143> ¡Hora de deshacerse de una rata!
+<0144> La plaga ha sido exterminada.
+<0145> Acabaré con cada una de esas ratas...
+<0146> Me siento mucho mejor ahora ♥
+<0147> ¿Ahora puedes ver lo fuerte que soy?
+<0152> Ajaaaa ♥ ¡Soy mucho más fuerte ahora!
+<0153> Soy lo suficientemente fuerte para vencerlos ahora, supongo.
+<0154> Ajaaaa ♥ Me he convertido en alguien muy fuerte.
+<0155> ¡Soy milagrosamente fuerte ahora!
+<0156> Aaa... jaa... jaaaaaa ♥ ♥ ♥
+<0157> S-soy demasiado fuerte ahora... Ajaa!
+<0158> Puedo sentir un par de ratas por aquí...
+<0159> ¡Ajaaaa! ¡Hora de la cacería!
+<0160> ¡Digan sus últimas palabras, ratas estúpidas!
+<0161> Puedo olerlas... ¡Puedo oler a esas ratas!

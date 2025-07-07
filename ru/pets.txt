@@ -1,0 +1,296 @@
+
+< PET_MASHIRO > 
+name=Машширо 
+descr=Больше не невезучий.
+
+< PET_BARREL >
+name=Алая Бочка
+descr=Алая Бочка к полёту готова! 
+
+< PET_CAT >
+name=Кошка
+descr=Неуловимое и самодовольное создание.
+
+
+< PET_CHICKEN >
+name=Курица
+descr=Уклоняется как никто другой.
+
+
+< PET_FRUITBAT >
+name=Фруктовая Мышь
+descr=Летучая мышь, без ума от апельсинов.
+
+
+< PET_GHOST >
+name=Привидение
+descr=Это кто у тебя за спиной?
+
+
+< PET_LEO >
+name=Лео
+descr=Зверь тьмы снова будет танцевать.
+
+
+< PET_NAVI >
+name=Нави
+descr=Что это за существо такое?
+
+< PET_PLANT >
+name=Растение
+descr=Кусает руки, которые его кормят.
+
+
+< PET_RABBITPLUSH >
+name=Плюшевый Кролик
+descr=Эта игрушка возможно одержима.
+
+
+< PET_RACCOON >
+name=Енот
+descr=Это енот? Собака? А превращаться умеет?
+
+
+< PET_RBIT >
+name=Кр-лик
+descr=Построение — Орбита!
+
+
+< PET_REDBLUE >
+name=Красная и Синий
+descr=Белый Рождестегром!
+
+
+< PET_ROBOBALL >
+name=Робо-Шар
+descr=Для маленьких механиков в каждом из нас.
+
+
+< PET_SB_BOMB >
+name=Бомба Разрушительницы
+descr=Только не урони.
+
+
+< PET_SEAGULL >
+name=Чайка
+descr=Её любимое число — семь.
+
+< PET_SEARCHLIGHT >
+name=Маячок
+descr=Похоже, что он кого-то ищет.
+
+
+< PET_SHIBE >
+name=Шиба-Ину
+descr=Чересчур верный питомец.
+
+< PET_SNOWBUNNY >
+name=Снежный Зайчик
+descr=Держать в холоде.
+
+
+< PET_THINKBUBBLE >
+name=Думающее Облачко
+descr=О чём думаешь?
+
+< PET_EVENT_REIN >
+name=Рейн
+descr=Верный помощник Ару. В отпуске 364 дня в году.
+
+
+< PET_EVENT_PRESENT >
+name=Подарок
+descr=Чудесный подарок, греющий сердце.
+
+
+
+< PET_EVENT_PIG>
+name=Свинка
+descr=Так могут ли свиньи летать?
+
+< PET_LIZARD >
+name=Ящерица
+descr=Может живёт, а может и не живёт в центре земли.
+
+< PET_DWARF>
+name=Дворф
+descr=Теперь оправдывает своё имя.
+
+< PET_PIYO_EGGSHELL>
+name=Пьо (Скорлупа)
+descr=Что появилось раньше — яйцо или пьо?
+
+< PET_PIYO>
+name=Пьо
+descr=Пьо, который появился первым.
+
+< PET_TORTOISE>
+name=Черепаха
+descr=Известна тем, что всегда побеждает в гонках... рано или поздно.
+
+< PET_UFO>
+name=Н.Л.О.
+descr=Постоянно пытается схватить что-то редкое. 
+
+< PET_SHARK>
+name=Акула
+descr=Эти жуткие челюсти хорошо смотрелись бы на постере.
+
+< PET_FROG>
+name=Лягушка
+descr=Лягушка, и она не очень рада дождю.
+
+< PET_BIT>
+name=Бит
+descr=Слегка энергичный.
+
+< PET_SLIME>
+name=Слайм
+descr=Говорят, сладкий на вкус.
+
+< PET_GOLDENEGG >
+name=Золотое Яйцо
+descr=Особое яйцо, которое может вылупиться не один раз.
+
+< PET_M10EYE >
+name=Глаз M10
+descr=Он видит мнимые числа, а ты?
+
+< PET_STAR >
+name=Неуловимая Звезда
+descr=Родом из другой галактики.
+
+
+< PET_AIRSHIP >
+name=Дирижабль
+descr=Всегда готов поддержать с воздуха.
+
+< PET_BUTTERFLY >
+name=Бабочка
+descr=Наполовину бабушка, наполовину бочка.
+
+< PET_CUPCAKE >
+name=Кексик
+descr=Испечён при 350 градусах по Фаренгейту.
+
+< PET_BOSS_HARUO >
+name=Харуо
+descr=С золотым сердцем.
+
+< PET_BOSS_JONATHAN >
+name=Большой Джонатан
+descr=Не такой уж и большой.
+
+< PET_BOSS_M10 >
+name=M10
+descr=Натуральные 7 из M10.
+
+< PET_BOSS_ROPOCHI >
+name=РоПоЧи
+descr=ГУППИПОО!
+
+< PET_BOSS_STARDEV >
+name=Пожирающая Звёзды
+descr=Может оказаться в любой точке мира.
+
+< PET_OCTOPUS >
+name=Осьминог
+descr=Способен делать восемь дел сразу.
+
+< PET_SEAL >
+name=Тюлень
+descr=Ему всё лень.
+
+< PET_SQUID >
+name=Кальмар
+descr=Выпустить Кракена!
+
+< PET_MANDRAKE >
+name=Мандрагора
+descr=Зарывает свои проблемы под землю.
+
+< PET_SUN >
+name=Солнце
+descr=Излучает лучезарность.
+
+< PET_SEABUNNY >
+name=Морской Кролик
+descr=Подводный Санта.
+
+< PET_ROBOFISH >
+name=Робо-рыба
+descr=Запрограммирована плыть по течению.
+
+< PET_WATERMELON >
+name=Арбуз
+descr=Спасён от гнёта Летнего Зверя.
+
+< PET_EVENT_POMENARIAN >
+name=Померанский Шпиц
+descr=Немножечко глупая собачка.
+
+< PET_EVENT_PUDDING >
+name=Пудинг
+descr=Любимое лакомство собак и ведьм во всей вселенной.
+
+< PET_EVENT_PUFFERFISH >
+name=Фугу
+descr=Слишком быстро дуется.
+
+
+
+< PET_FUNKYFUNGUS >
+name=Весёлый Грибок
+descr=Протянет гриб помощи.
+
+< PET_ROBOCRAB >
+name=Робокраб
+descr="Я робот-краб. Я должен танцевать".
+
+< PET_PONYCORN >
+name=Понирог
+descr=Распространяет чудо дружбы.
+
+< PET_WOLLIL>
+name=Волли
+descr=Такой пушистый, с ума сойти.
+
+< PET_GLOBLET >
+name=Шарубок
+descr=Шарубок огня.
+
+< PET_TROLLITE >
+name=Троллит
+descr=Именно.
+
+< PET_SPOOKYDOLL >
+name=Жуткая Кукла
+descr=Её милота будет преследовать вас по ночам.
+
+< PET_HELISEEDLING >
+name=Вертолёженец
+descr=Унесённый ветром.
+
+< PET_TERRAWORMER >
+name=Землечервь
+descr=Почвенно милый.
+
+< PET_MINIMOSS >
+name=Мини Мох
+descr=С золотым сердцем.
+
+< PET_GEMERANGLER >
+name=Gemerangler
+descr=A hidden gem.
+
+< PET_WUFFSHROOM >
+name=Пёсогриб
+descr=Лучший гриб человека.
+
+< PET_TURNISLIM >
+name=Репослизь
+descr=Пережил слишком много репетиций.
+
+< PET_PUNYZARD >
+name=Мелкощер	
+descr=Наверное уж слишком мелкий.

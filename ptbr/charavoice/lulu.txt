@@ -1,0 +1,162 @@
+<0000> Aqui vai um dado.
+<0001> Sorah.
+<0002> Ali.
+<0003> Eiyah.
+<0004> Lulu irá jogar isso.
+<0005> Ehehe, a Lulu pode usar isso?
+<0006> Lulu vai ousar usar isso!
+<0007> Ehehe, Lulu está começando a curtir isso!
+<0008> Lulu sabe pouco sobre essas coisas... Desse jeito?
+<0009> Hohee, então é uma armadilha!
+<0010> O que acontece se você pisa nisso?
+<0011> Lulu colocou uma armadilha aqui♥
+<0012> Lulu vai jogar uma carta para lutar bem!
+<0013> Lulu não gosta de perder!
+<0014> Se Lulu tem que lutar, ela vai usar isso!
+<0015> Lulu irá mostrar seu melhor!
+<0016> Aah... Uu... Um ovo... saindo...!
+<0017> *suspira* Essa foi por pouco. Lulu viu a vida após a morte.
+<0018> Lulu está de volta. Ela ainda tem uma chance de vencer o jogo!
+<0019> Lulu teve uma pausa longa até demais... Ela vai recuperar o tempo perdido!
+<0020> Auau, Lulu está finalmente pronta para ir.
+<0021> Oh não, qual é...
+<0022> Lulu está tendo um mau dia.
+<0023> Lulu irá descansar um pouco mais.
+<0024> Lulu ainda não pode se levantar... Uu...
+<0025> Lulu irá atacar!
+<0026> Aqui vem a Lulu!
+<0027> Lulu vai te pegar!
+<0028> Lulu irá acabar com você!
+<0029> Isso dói...
+<0030> Oho!
+<0031> Isso funcionou muito bem...!
+<0032> Desista!
+<0033> Ehehe, Lulu adora isso.
+<0034> Oh, Lulu está se sentindo muito relaxada.
+<0035> Fuee, isso faz Lulu se sentir viva novamente.
+<0036> Isso é bom e relaxante.
+<0037> Oh não, oh não, oh não, oh não.
+<0038> A cabeça de Lulu está girando...
+<0039> Para onde Lulu está indo?
+<0040> Hora do teleporte!
+<0041> Lulu não consegue se mover...
+<0042> Isso é horrível. É abuso!
+<0043> *soluça* Você é tão cruel.
+<0044> Por que você faria isso a Lulu...!
+<0045> É uma má escolha ficar no caminho de Lulu!
+<0046> Lulu vai chutar seu traseiro!
+<0047> Lulu vai te pegar!
+<0048> Eba, vamos brincar juntos!
+<0049> Oh, está a fim de uma luta? Desafio aceito.
+<0050> Oh? Espere um segundo!
+<0051> Awawa, o que você quer de Lulu?!
+<0052> Você parece assustador! Fique longe de Lulu!
+<0053> Orah!
+<0054> Atah!
+<0055> Howah!
+<0056> Oryaryah!
+<0057> Howah!?
+<0058> Ei!
+<0059> Espera aí!
+<0060> Ah!
+<0061> Isso dói! Seu animal!
+<0062> Nãooo!
+<0063> Pareeee!
+<0064> Como você pode fazer isso? Inacreditável!
+<0065> Awah!
+<0066> Toma cuidado, caramba!
+<0067> Eita, isso foi assustador!
+<0068> Nãooo!
+<0069> Ufa, Lulu conseguiu de alguma forma.
+<0070> Essa foi por pouco.
+<0071> Lulu se exercitou bastante.
+<0072> De alguma forma funcionou.
+<0073> Isto é terrível.
+<0074> Como assim isso aconteceu com Lulu...
+<0075> O que a Lulu fez para merecer isso...
+<0076> *soluça soluça*... *cheira*...
+<0077> Olha, são estrelas.
+<0078> Lulu poderia usar algumas estrelas.
+<0079> Lulu vai coletar mais dessas.
+<0080> Lulu vai coletar essas até não conseguir segurar mais!
+<0081> Nãooo! Estrelaaas!
+<0082> Lulu não aguenta isso!
+<0083> Não, não as leve embora...! Não faça isso!
+<0084> Lulu não acredita nisso... Ela acabou de perder muitas estrelas...
+<0085> Gyaaah!
+<0086> Quem raios botou uma armadilha aqui?!
+<0087> Gyan! Por que Lulu acabou desse jeito!
+<0088> Mukyaaah!
+<0089> Oh não... Aquela coisa é assustadora...
+<0090> Lu-Lulu quer ir para casa agora...
+<0091> Alguém me ajude... Lulu está assustada...
+<0092> *arrepia arrepia arrepia arrepia*
+<0093> Lulu deseja ver muito mais estrelas.
+<0094> Certo, Lulu vai conseguir um montão dessas bem rápido.
+<0095> Lulu conseguirá! Ela vai voltar com muitas delas!
+<0096> Lulu deseja algumas estrelas.
+<0097> Lulu está pronta para mostrar do que ela realmente é capaz!
+<0098> Lulu pode lutar também.
+<0099> Não muito confiante, mas Lulu irá tentar.
+<0100> Uuu, Lulu está preocupada se ela poderá lutar bem...
+<0101> Aqui é a Lulu! Oi!
+<0102> Oh, você quer jogar com a Lulu?
+<0103> Certo, vamos lá nos divertir um pouco.
+<0104> Eba, obrigada por me escolher.
+<0105> Certo, vamos lá!
+<0106> Nós vamos nos divertir muito, beleza?
+<0107> Lulu espera ganhar o jogo...
+<0108> Lulu pode cumprir as coisas quando ela precisa...!
+<0109> Lulu ganhou o jogo...? Ela conseguiu!
+<0110> Lulu terminou em primeiro!? Eba! Eeeba!
+<0111> Lulu está tão feliz...!
+<0112> Oh não, Lulu venceu o jogo! Ela está tão feliz!
+<0113> Ei, isso é para você. Você gosta disso?
+<0114> Não tenho certeza se isso será útil...
+<0115> Achei algo útil!
+<0116> Item conquistado!
+<0117> Lulu gostaria de trocar.
+<0118> Lulu acredita em você!
+<0119> Cuide disso a partir daqui, por favor!
+<0120> Mudar, por favor!
+<0121> Aye.
+<0122> Bom.
+<0123> Ótimo.
+<0124> Não!
+<0125> Auu.
+<0126> Sortudo.
+<0127> Hmm?
+<0128> Vamos lá!
+<0129> Dado!
+<0130> Lulu estará torcendo por você!
+<0131> Yo!
+<0132> Mhmm.
+<0133> Isso é super!
+<0134> Incrível! Lulu está surpresa.
+<0135> Fuee... Isso é horrível.
+<0136> Nós vamos jogar isso? O que irá acontecer?
+<0137> Lulu está curiosa sobre o que isso faz!
+<0138> Lulu deseja tentar usar isso.
+<0139> Awah, essa carta faz algo incrível?
+<0140> Fuah, ela parece assustadora.
+<0141> O-o que você deseja de Lulu...!
+<0142> Oh? Ela era mais fraca do que a Lulu pensava.
+<0143> Não, não faça bullying a Lulu...!
+<0144> Mas que mascote fofo você tem aí!
+<0145> Ehehe, se importa se a Lulu acariciar seu mascote um pouco?
+<0146> Lulu vai trocar com a Ellie.
+<0147> Ellie, você consegue!
+<0148> Lulu tem certeza que a Ellie pode virar o jogo para nós.
+<0149> Ellie pode cuidar dessa situação melhor que a Lulu!
+<0150> Ohoo, quantas estrelas!
+<0151> Estrelas sairam do ovo!
+<0152> Nihehe, essas estrelas são todas de Lulu.
+<0153> Lucky Stars!
+<0154> Uou, quantas cartas. Quais a Lulu deveria pegar...?
+<0155> Diversas opções! Qual dessas opções a Lulu deseja jogar...?
+<0156> Awah, são muitas cartas para a Lulu segurar!
+<0157> É um Pacote de Cartas da Sorte!
+<0158> Um bom almoço. Lulu está feliz.
+<0159> *mastiga mastiga* Isso é incrível. Lulu possui bastante energia agora!
+<0160> Esse almoço acabou com a fadiga de Lulu!
+<0161> Almoço da Sorte!

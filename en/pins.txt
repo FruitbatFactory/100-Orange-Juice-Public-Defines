@@ -1,0 +1,299 @@
+< PIN_FBAT >
+name=Fruitbat
+desc=
+artist=
+
+< PIN_FLYING_SUGURI >
+name=Flying Suguri
+desc=Granted to the players who played as Suguri a lot.\nShe may ever dash to the sky!
+artist=Sora
+
+< PIN_FLYING_KAI >
+name=Flying Kai
+desc=Granted to the players who played as Kai a lot.\nWill he ever get his wallet back?
+artist=Sora
+
+< PIN_FLYING_QP >
+name=Flying QP
+desc=Granted to the players who played as QP a lot.\nAlways having some Pudding.
+artist=Sora
+
+< PIN_FLYING_MARC >
+name=Flying Marc
+desc=Granted to the players who played as Marc a lot.\nNever leaving without her rocket.
+artist=Sora
+
+< PIN_FACTORY >
+name=Orange Factory
+desc=Granted to players who are part of the Fruitbat Factory staff.
+artist=
+
+< PIN_CONTEST_WINNER >
+name=Contest Winner
+desc=Granted to players who won an official contest.
+artist=Yulay Devlet
+
+< PIN_CONTRIBUTOR >
+name=Contributor
+desc=Granted to players who officially contributed to 100% Orange Juice in a way or another.
+artist=Yulay Devlet
+
+< PIN_FLYING_HIME >
+name=Flying Hime
+desc=Granted to the players who played as Hime a lot.\nDo not underestimate the chains of the Guardian.
+artist=Sora
+
+< PIN_FLYING_FERNET >
+name=Flying Fernet
+desc=Granted to the players who played as Fernet a lot.\nWould you like a cup of tea?
+artist=Sora
+
+< PIN_FLYING_YUKI >
+name=Flying Yuki
+desc=Granted to the players who played as Yuki a lot.\nWhat about gambling our lives away?
+artist=Sora
+
+< PIN_FLYING_POPPO >
+name=Flying Poppo
+desc=Granted to the players who played as Poppo a lot.\nProof of a deeper understanding of the game.
+artist=Sora
+
+< PIN_FLYING_ARU >
+name=Flying Aru
+desc=Granted to the players who played as Aru a lot.\nOn her way to deliver the presents!
+artist=Sora
+
+< PIN_FLYING_SORA >
+name=Flying Sora
+desc=Granted to the players who played as Sora a lot.\nShe fought hard to see the blue sky again...
+artist=Sora
+
+< PIN_FLYING_PEAT >
+name=Flying Peat
+desc=Granted to the players who played as Peat a lot.\nPossibly still trying to defeat Red Barrel.
+artist=Sora
+
+< PIN_FLYING_TOMOMO >
+name=Flying Tomomo
+desc=Granted to the players who played as Tomomo a lot.\nTruly Magical.
+artist=Sora
+
+< PIN_FLYING_SYURA >
+name=Flying Syura
+desc=Granted to the players who played as Syura a lot.\nShe can be Beyond Cute as well.
+artist=Sora
+
+< PIN_FLYING_NANAKO >
+name=Flying Nanako
+desc=Granted to the players who played as Nanako a lot.\nDon't call her short!
+artist=Sora
+
+< PIN_FLYING_SAKI >
+name=Flying Saki
+desc=Granted to the players who played as Saki a lot.\nWould you like a cookie?
+artist=Sora
+
+< PIN_FLYING_KYOUSUKE >
+name=Flying Kyousuke
+desc=Granted to the players who played as Kyousuke a lot.\nIn search of a special someone.
+artist=Sora
+
+< PIN_FLYING_KRILA >
+name=Flying Krilalaris
+desc=Granted to the players who played as Krilalaris a lot.\nFlying to eternal Darkness.
+artist=Sora
+
+< PIN_FLYING_KAE >
+name=Flying Kae
+desc=Granted to the players who played as Kae a lot.\nAlways having Heat 300% in her deck.
+artist=Sora
+
+< PIN_FLYING_ALTE >
+name=Flying Alte
+desc=Granted to the players who played as Alte a lot.\nThis pin will not self-destruct upon use.
+artist=Sora
+
+< PIN_FLYING_KYOKO >
+name=Flying Kyoko
+desc=Granted to the players who played as Kyoko a lot.\nKeep it cool!
+artist=Sora
+
+< PIN_FLYING_SHAM >
+name=Flying Sham
+desc=Granted to the players who played as Sham a lot.\nThe cutest Operator!
+artist=Sora
+
+< PIN_FLYING_SHERRY >
+name=Flying Sherry
+desc=Granted to the players who played as Sherry a lot.\nFlying freely.
+artist=Sora
+
+< PIN_FLYING_SWEETBREAKER >
+name=Flying Sweet Breaker
+desc=Granted to the players who played as Sweet Breaker a lot.\nMemory melting in progress!
+artist=Sora
+
+< PIN_FLYING_STARBREAKER >
+name=Flying Star Breaker
+desc=Granted to the players who played as Star Breaker a lot.\nBeware of explosions.
+artist=Sora
+
+< PIN_FLYING_NATH >
+name=Flying Nath
+desc=Granted to the players who played as Nath a lot.\nLazy life is the best...
+artist=Sora
+
+< PIN_FLYING_TOMATOMIMYUU >
+name=Flying Tomato & Mimyuu
+desc=Granted to the players who played as Tomato & Mimyuu a lot.\nThe best pranksters!
+artist=Sora
+
+< PIN_FLYING_KIRIKO >
+name=Flying Kiriko
+desc=Granted to the players who played as Kiriko a lot.\nIt's probably best to stay healthy.
+artist=Sora
+
+< PIN_FLYING_NONAME >
+name=Flying NoName
+desc=Granted to the players who played as NoName a lot.\nDon't lose your head!
+artist=Sora
+
+< PIN_FLYING_TEQUILA >
+name=Flying Tequila
+desc=Granted to the players who played as Tequila a lot.\nA pirate you were meant to be!
+artist=Sora
+
+< PIN_FLYING_TSIH >
+name=Flying Tsih
+desc=Granted to the players who played as Tsih a lot.\nDon't lose sight of her!
+artist=Sora
+
+< PIN_FLYING_MIUSAKI >
+name=Flying Miusaki
+desc=Granted to the players who played as Miusaki a lot.\nThis pin cannot be broken either.
+artist=Sora
+
+< PIN_FLYING_REPA >
+name=Flying Ceoreparque
+desc=Granted to the players who played as Ceoreparque a lot.\nWatch out for wandering hair!
+artist=Sora
+
+< PIN_IDLE_MEI >
+name=Idle Mei
+desc=Granted to the players who played as Mei a lot.\nLet's get rowdy!
+artist=Sora
+
+< PIN_IDLE_NATSUMI >
+name=Idle Natsumi
+desc=Granted to the players who played as Natsumi a lot.\nWould you like to come over for dinner?
+artist=Sora
+
+< PIN_IDLE_ARTHUR >
+name=Idle Arthur
+desc=Granted to the players who played as Arthur a lot.\nThanks for your patronage!
+artist=Sora
+
+< PIN_IDLE_NICO >
+name=Idle Nico
+desc=Granted to the players who played as Nico a lot.\nShe will always try her best!
+artist=Sora
+
+< PIN_FLYING_CUTIES >
+name=Flying Cuties
+desc=Granted to the players who played as the Cuties a lot.\nA career on the stage awaits!
+artist=Sora
+
+< PIN_FLYING_IRU >
+name=Flying Iru
+desc=Granted to the players who played as Iru a lot.\nHow about some exercise?
+artist=Sora
+
+< PIN_FLYING_MIRA >
+name=Flying Mira
+desc=Granted to the players who played as Mira a lot.\nThis pin is the mark of a hero.
+artist=Sora
+
+< PIN_FLYING_YUUKI >
+name=Flying Yuuki
+desc=Granted to the players who played as Yuuki a lot.\nOra ora ora ora!
+artist=Sora
+
+< PIN_FLYING_ISLAY >
+name=Flying Islay
+desc=Granted to the players who played as Islay a lot.\nFlying gracefully.
+artist=Sora
+
+< PIN_FLYING_SUGURI46 >
+name=Flying Suguri (46 Billion Years)
+desc=Granted to the players who played as Suguri (46 Billion Years) a lot.\nShe applied 2x cuteness to this pin.
+artist=Sora
+
+< PIN_FLYING_SUMIKA >
+name=Flying Sumika
+desc=Granted to the players who played as Sumika a lot.\nThis Sumika pin is Sumika.
+artist=Sora
+
+< PIN_FLYING_MIO >
+name=Flying Mio
+desc=Granted to the players who played as Mio a lot.\nThe life (and death) of any party she crashes.
+artist=Sora
+
+< PIN_FLYING_LULU >
+name=Flying Lulu
+desc=Granted to the players who played as Lulu a lot.\nLet's keep on playing together in the future!
+artist=Sora
+
+< PIN_FLYING_ELLIE >
+name=Flying Ellie
+desc=Granted to the players who played as Ellie a lot.\nIt's time for an adventure!
+artist=Sora
+
+< PIN_FLYING_ALICIANRONE >
+name=Flying Alicianrone
+desc=Granted to the players who played as Alicianrone a lot.\nThe fastest witch on this side of the forest!
+artist=Sora
+
+< PIN_FLYING_TEOTORATTA >
+name=Flying Teotoratta
+desc=Granted to the players who played as Teotoratta a lot.\nA friend in a beast is a friend indeed.
+artist=Sora
+
+< PIN_FLYING_ARNELLE >
+name=Flying Arnelle
+desc=Granted to the players who played as Arnelle a lot.\nPerhaps the true treasure was the friends we made along the way?
+artist=Sora
+
+< PIN_FLYING_MAYNIE >
+name=Flying Maynie
+desc=Granted to the players who played as Maynie a lot.\nLook deep into her odd-colored eyes, and ignore the fist coming your way...
+artist=Sora
+
+< PIN_FLYING_HALENA >
+name=Flying Halena
+desc=Granted to the players who played as Halena a lot.\nThis pin will always guide you to the correct lobby.
+artist=Sora
+
+< PIN_FLYING_COOK >
+name=Flying Cook
+desc=Granted to the players who played as Cook a lot.\nNot even this pin should be considered a chicken.
+artist=Sora
+
+< PIN_FLYING_LONERIDER >
+name=Flying Lone Rider
+desc=Granted to the players who played as Lone Rider a lot.\nNo longer riding quite so alone.
+artist=Sora
+
+< PIN_FLYING_MERCHANT >
+name=Flying Merchant
+desc=Granted to the players who played as Merchant a lot.\nYou will buy this pin of course, yes you will!
+artist=Sora
+
+< PIN_FLYING_CHRIS >
+name=Flying Chris
+desc=Granted to the players who played as Chris a lot.\nVoted top waitress of the year, every year!
+artist=Sora
+
+< PIN_FLYING_KYUPITA >
+name=Flying Kyupita
+desc=Granted to the players who played as Kyupita a lot.\nThis pin is full of the burning passion of youth.
+artist=Sora

@@ -1,0 +1,161 @@
+
+<0000> Hah!
+<0001> Here!
+<0002> Fufu!
+<0003> There!
+<0004> Card.
+<0005> I'm going to play this one.
+<0006> Off you go.
+<0007> Okay... let's go with this.
+<0008> Here's a trap.
+<0009> I think I'll place a trap here.
+<0010> I wonder who'll fall for it.
+<0011> Keep your guard up.
+<0012> Battle card.
+<0013> I'm going to show you my everything.
+<0014> I'll be the winner, thank you.
+<0015> Now is the time to do this.
+<0016> Allow me to show you my true self.
+<0017> Very well... I suppose it's about time to strike back.
+<0018> I can go on.
+<0019> Fufu, this is getting fun.
+<0020> This much is nothing.
+<0021> Mhm...
+<0022> It doesn't seem to be time for me to get up yet.
+<0023> No need to rush.
+<0024> Fufufu...
+<0025> Here I go.
+<0026> Mystic dark hand!
+<0027> You may meet your maker!
+<0028> I shall whack you down!
+<0029> Nugh!
+<0030> I seem to have taken a grazing blow.
+<0031> This pain will make me...
+<0032> Gugah!
+<0033> Such a pleasant breeze.
+<0034> I am surrounded by warmth.
+<0035> It's comforting me...
+<0036> Fufufu... This is very good.
+<0037> No matter where I end up...!
+<0038> I shall come right over to you.
+<0039> Where will this lead me?
+<0040> Warp, huh...
+<0041> Phew... I need a small break.
+<0042> Ah...
+<0043> Seems like a good time to take five.
+<0044> Well...
+<0045> I will take you down.
+<0046> Now, I'll go for the offense.
+<0047> It's my turn now.
+<0048> Allow me to take action.
+<0049> Sure thing... You may come at me.
+<0050> Now, let's have some fun, shall we?
+<0051> Would you like to fight me?
+<0052> Challenge accepted. Now let us begin.
+<0053> Sey!
+<0054> Hah!
+<0055> Try to dodge this!
+<0056> Rose strike!
+<0057> Guh!
+<0058> Aargh!
+<0059> That's good...!
+<0060> Oww!
+<0061> How enthusiastic.
+<0062> A pleasant pain.
+<0063> How splendid.
+<0064> Yes, that's it!
+<0065> That won't reach me.
+<0066> I am right here.
+<0067> Close but no cigar.
+<0068> Hmph.
+<0069> So I win...
+<0070> Good fight.
+<0071> It was fun.
+<0072> We should fight again.
+<0073> Incredible.
+<0074> Fufufu, kudos to you.
+<0075> You are the winner.
+<0076> Yes, you did very well.
+<0077> Stars.
+<0078> The stars glow with beauty and grace.
+<0079> Light's surrounding me.
+<0080> Shine more...!
+<0081> Are you leaving me, too?
+<0082> Oh no...
+<0083> No... I'm losing... light...
+<0084> I don't believe this.
+<0085> Hmph, I fell for it.
+<0086> Oh, it's a trap...
+<0087> I messed up.
+<0088> What's the matter with me?
+<0089> Hmm... I can feel that it's here...
+<0090> Here comes a strong one...
+<0091> I can't overlook this dangerous power.
+<0092> Things are getting serious around here...
+<0093> Stars are calling to me.
+<0094> I'm going to make a pile of stars.
+<0095> I desire strong light.
+<0096> I'll let the stars tempt me.
+<0097> I believe I should desire confrontation...
+<0098> As a man... I'm thrilled to go for victory.
+<0099> I choose to... fight.
+<0100> I look forward to intense battles.
+<0101> Kyousuke.
+<0102> Hello there.
+<0103> A fun time is about to begin.
+<0104> I'll go out there with you.
+<0105> The game is on now...
+<0106> Well... Let's see what kind of plans my enemies have.
+<0107> I'll go and have as much fun as I can.
+<0108> There's fresh air out here.
+<0109> Hmph... My triumph...
+<0110> Oh boy, does this feel good.
+<0111> Hmm... Did I end up winning?
+<0112> I feel wonderful.
+<0113> Did you find something good?
+<0114> Hmm, that's a nice thing.
+<0115> So we've got a new item.
+<0116> I see... This is...
+<0117> Care to take over?
+<0118> I'm relying on you.
+<0119> Would you mind?
+<0120> I'm sorry, but I need you to switch with me.
+<0121> Sure.
+<0122> Good.
+<0123> Yes, let's do that.
+<0124> I'm sorry... about that...
+<0125> One of these days...
+<0126> Your lucky day.
+<0127> What?
+<0128> Shall we go...
+<0129> I'm throwing the dice.
+<0130> Shall we go...
+<0131> Why hello there, how do you do?
+<0132> Hmm...
+<0133> Nice!
+<0134> Fantastic!
+<0135> Oh no...
+<0136> It's make-or-break time.
+<0137> This doesn't look too bad.
+<0138> Now... Allow me to use this.
+<0139> This power... Will it work out for me?
+<0140> Kyu... Kyupita...!
+<0141> Come at me, Kyupita!
+<0142> Fufufu, what made you think you'd defeat me?
+<0143> Excellent, Kyupita... I was right... to fall in love with you...
+<0144> I found you, Kyupita!
+<0145> I sense Kyupita's presence...
+<0146> What in the...!? There are two Kyupitas...?!
+<0147> W-what... There are... so many... Kyupitas...!!
+<0148> Fufu, congratulations, Kyupita.
+<0149> Excellent work. You'll get stronger.
+<0150> Kyupita... You're capable of shining so much brighter...
+<0151> Fufufu... I'm having a lot of fun, Kyupita...
+<0152> Kyupitaaaaaaaaaaa!!!
+<0153> Hm... You are...
+<0154> So you're the opponent, huh.
+<0155> Hm... Words can't describe the strange feeling I have now.
+<0156> I have no regrets being defeated by you.
+<0157> Women outnumber men around here. We should support each other.
+<0158> Service time is over.
+<0159> Achoo! ...This is a bit of a tough situation.

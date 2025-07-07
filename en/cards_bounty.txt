@@ -1,0 +1,215 @@
+< CARD_BOUNTY_TURNISLIME_HUNT >
+name=Turnislime
+descr=Turnislime will make you gain -1 ATK during the battle. If you have 2 or more ATK at the start of the battle, gain another -1 ATK.
+flavor=
+
+< CARD_BOUNTY_TROLLITE_HUNT >
+name=Trollite
+descr=After each round of battle, Trollite gains -1 ATK.
+flavor=
+
+< CARD_BOUNTY_MOUSSE_HUNT >
+name=Mousse
+descr=Mousse will take your Lvl x stars every time it damages you.
+flavor=
+
+< CARD_BOUNTY_STRANGEMOUSSE_HUNT >
+name=Key Lime Mousse
+descr=Key Lime Mousse will take your Lvl x stars every time it damages you.
+flavor=
+
+< CARD_BOUNTY_POWERMOUSSE_HUNT >
+name=Strawberry Mousse
+descr=Strawberry Mousse will take your Lvl x stars every time it damages you.
+flavor=
+
+< CARD_BOUNTY_DOLL_HUNT >
+name=Haunted Doll
+descr=Haunted Doll will spook you out of 1 HP at the end of each round of battle.
+flavor=
+
+< CARD_BOUNTY_HELISEED_HUNT >
+name=Heliseed
+descr=Encounter ends if Heliseed is not KO'd after 3 rounds of battle.
+flavor=
+
+< CARD_BOUNTY_BLIZARD_HUNT >
+name=Bunnizard
+descr=Bunnizard randomly gains +1 ATK, DEF or EVD after each round of battle.
+flavor=
+
+< CARD_BOUNTY_WOLLY_HUNT >
+name=Wolly
+descr=When damaged, Wolly takes 1 extra damage.
+
+< CARD_BOUNTY_TERRAWYRMER_HUNT >
+name=Terrawyrmer
+descr=If hit for more than 2 damage at once, Terrawyrmer gains +1 ATK, +1 DEF & -1 EVD until end of battle. This effect can stack.
+
+< CARD_BOUNTY_RUFFSHROOM_HUNT >
+name=Ruffshroom
+descr=When Ruffshroom is defeated, you gain 2 HP.
+
+< CARD_BOUNTY_GOST_HUNT >
+name=Göst
+descr=Göst gains +1 EVD for every positive point of ATK you have.
+
+< CARD_BOUNTY_EMERANGLER_HUNT >
+name=Emerangler
+descr=When Emerangler is damaged, it gains +1 ATK on next attack. When Emerangler damages you, it gains +1 DEF on next defense.
+
+< CARD_BOUNTY_GLOBBU_HUNT >
+name=Globbu
+descr=Every time Globbu damages you, gain -1 DEF until end of battle.
+
+< CARD_BOUNTY_GRASSINFIMARY_QUEST >
+name=
+descr=I want to make a new dish using some herbs that grow in the field. Could you help me out and get some?
+flavor=―Innkeeper
+
+< CARD_BOUNTY_SWAMPINFIMARY_QUEST >
+name=
+descr=One of our customers said that slimes can be used to make drinks. I wonder if that's true...
+flavor=―Innkeeper
+
+< CARD_BOUNTY_CAVEBAKERY_QUEST >
+name=
+descr=I accidentally dropped something in a cave that we need to make ice cream...
+flavor=―Sky Baker
+
+< CARD_BOUNTY_CASTLEBAKERY_QUEST >
+name=
+descr=Fufufu, we've asked for some flour to be delivered from the castle but it still hasn't arrived. I wonder if I should blow them up?
+flavor=―Star Baker
+
+< CARD_BOUNTY_RUINARMORY_QUEST >
+name=
+descr=Oh, you need something sharp to cut food? If you bring me the materials I'll gladly make something for you. Even a broken weapon would do.
+flavor=―Blacksmith
+
+< CARD_BOUNTY_CAVEARMORY_QUEST >
+name=
+descr=Trollite horns are an amazing material to make cooking tools with, but I'm running out. They replace their horns every 3 days so there should be some just lying around in their hideouts.
+flavor=―Blacksmith
+
+< CARD_BOUNTY_VOLCANOALCHEMER_QUEST >
+name=
+descr=I can transmute some food for you, but I need a lasting source of heat. Perhaps you could retrieve a Globbu? I've heard they love doing jobs like these.
+flavor=―Alchemist
+
+< CARD_BOUNTY_FORESTINFIRMARY_QUEST >
+name=
+descr=A dessert? I could try to prepare some if you bring me tree sap from the misty forests. I've heard it's very sweet.
+flavor=―Innkeeper
+
+< CARD_BOUNTY_MOUNTAINBAKERY_QUEST >
+name=
+descr=We have run out of milk! Our bread requires fresh milk from Wollies on the mountain, please be quick about it!
+flavor=―Sky Baker
+
+< CARD_BOUNTY_REDFORESTALCHEMER_QUEST >
+name=
+descr=The ghosts from the crimson forests around here have interesting properties. Could you please bring me a sample? I should be able to make something edible with it as well.
+flavor=―Alchemist
+
+< CARD_BOUNTY_DESERTARMORY_QUEST >
+name=
+descr=I'm getting thirsty... Some cacti from the desert should help quench this thirst. You can keep what's left over after I'm done drinking.
+flavor=―Blacksmith
+
+< CARD_BOUNTY_SLIMEBOMB_ITEM >
+name=Slimebomb
+descr=Throw a slimebomb on a panel around you (radius 3). All panels in 1 panel radius will be covered with Goo for 2 chapters.
+flavor="Pure goo in a bottle, ready to throw!" ―Alchemist
+
+< CARD_BOUNTY_TELEPORT_ITEM >
+name=Teleportation Potion
+descr=Teleport on any panel, then play your turn.
+flavor="One sip, and poof!" ―Alchemist
+
+< CARD_BOUNTY_LURE_ITEM >
+name=Lure
+descr=Throw a lure on a panel around you (radius 3). All panels around in 1 panel radius will turn into encounter panels for 3 chapters.
+flavor="The smell of this thing should be strong enough to attract most small fry around the place..." ―Alchemist
+
+< CARD_BOUNTY_SHOKUPAN_ITEM >
+name=Shokupan
+descr=Effect duration: 3 chapters\nHeal 1 HP every turn. The effect is removed upon getting KO'd, and cannot stack.
+flavor="No one can ever bake something better than this masterpiece." ―Star Baker
+
+< CARD_BOUNTY_SSR_SHOKUPAN_ITEM >
+name=Fluffy Shokupan
+descr=Heal 2 HP every turn until your next KO. The effect cannot stack.
+flavor="Fluffiness will conquer the world!" ―Sky Baker
+
+< CARD_BOUNTY_PUREWATER_ITEM >
+name=Holy Water
+descr=For this battle, gain 5 HP and +1 ATK, DEF, EVD.
+flavor="Fufufu, this pure water will cure your thirst, you have my word on it!" ―Innkeeper
+
+< CARD_BOUNTY_CURSEDSYRUP_ITEM >
+name=Cursed Syrup
+descr=For this battle, gain 10 HP and +2 ATK, DEF & EVD, and set the battle turn limit to 5.
+flavor="You will buy this of course... All you care about is more power... Don't you?" ―Shady Merchant
+
+< CARD_BOUNTY_POISONPHIAL_ITEM >
+name=Poison Blaster
+descr=Throw a Poison Blaster phial on a panel around you (radius 3). All players caught in the area will be poisoned and take 1 damage every turn for 2 chapters. Does not stack with other Blasters.
+flavor="I made this with fairly dangerous ingredients... So be careful!" ―Alchemist
+
+< CARD_BOUNTY_VENOMPHIAL_ITEM >
+name=Venom Blaster
+descr=Throw a Venom Blaster phial on a panel around you (radius 3). All players caught in the area will be poisoned and take 1 damage every turn for 3 chapters. Does not stack with other Blasters.
+flavor="I made this by using the venom of a dangerous reptile..." ―Alchemist 
+
+< CARD_BOUNTY_CORROSIONPHIAL_ITEM >
+name=Corrosion Blaster
+descr=Throw a Corrosion Blaster phial on a panel around you (radius 3). All players caught in the area will be poisoned and take 2 damage every turn for 3 chapters. Does not stack with other Blasters.
+flavor="The Corrosion Blaster was made by combining deadly materials..." ―Alchemist 
+
+< CARD_BOUNTY_SPARKLEBOMB_ITEM >
+name=Sparkle Bomb
+descr=Force the field to reverse paths for 2 chapters.
+flavor="What if you wanted to go forward and back but going back does not feel like going forward? ...Ugh, nevermind..." ―Alchemist
+
+< CARD_BOUNTY_SMOKELOSTMEMORIES_ITEM >
+name=Smoke of the Lost Memories
+descr=Forget your past mistakes and trigger a Bounty Battle. Can only be used on a panel with a discovered monster location. You must possess the bounty to start the battle. Your turn ends after playing this card.
+flavor="Don't let it run away!" ―Alchemist
+
+< CARD_BOUNTY_RADAR_ITEM >
+name=Adventurer's Radar
+descr=Effect Duration: 2 to 5 chapters\nAble to discern all monster locations for the duration of the effect.
+flavor="It will greatly ease your expedition... if it works long enough!" ―Blacksmith
+
+< CARD_HYPER_BOUNTY_ELLIE >
+name=Ellie's Miracle
+descr=★Cost: Level x10\nEffect Duration: 2 chapters. Gain +X ATK, +Y DEF, and +Z EVD, where X = Your total Norma completed, Y = your current Fame / 5, and Z = your current Stars / 50.
+flavor="Receive my miracle!" ―Ellie
+
+< CARD_BOUNTY_SCRAMBLED_EVE >
+name=Scrambled Eve
+descr=All players return their hand to the deck, and the deck is shuffled. After 3 chapters, all players draw as many cards as they discarded from this effect. Does not return bounties or quests.
+flavor="Wait! Give me back the presents!" ―Aru
+
+< CARD_BOUNTY_TRAP_WANTED >
+name=Wanted
+descr=Stock Effect\nGive double wins on KO from battle. Effect expires on KO.\nA bounty for the target player is also placed on the Bounty Board, and they receive the Assassin's Badge.
+flavor="Over here! My nose is never wrong!" ―QP
+
+< CARD_HYPER_BOUNTY_COOK >
+name=Guidance of the Weathercock
+descr=Stock Effect.\nRoll 2 dice for everything except for battle. This effect ends when you stop on a Home panel.
+flavor="*Cheep cheep*! Cook wants to go this way." ―Cook
+
+< CARD_BOUNTY_PLAYER >
+name=Wanted Freshly Squeezed
+descr=Wanted for committing crimes against society.
+flavor=
+
+< CARD_BOUNTY_PLAYER_ITEM >
+name=???
+descr=Marked for removal. Discretion is advised.
+flavor=
+
+[EOF]

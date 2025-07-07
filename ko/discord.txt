@@ -1,0 +1,56 @@
+< DISCORD_MAIN_MENU_STATE >
+메인 화면에 있음
+
+< DISCORD_SHOP_STATE >
+상점에 있음
+
+// Lobby: <lobby name>
+< DISCORD_LOBBY_STATE >
+로비: %s
+
+< DISCORD_LOBBY_STATE_PRIVATE >
+로비에 있음
+
+< DISCORD_INGAME_STATE >
+게임 중
+
+// After the game ended, the screen where xp and potential unlocks are given 
+< DISCORD_RESULTS_STATE >
+결과
+
+// Pvp mode
+< DISCORD_INGAME_NORMAL_MODE >
+일반전
+
+< DISCORD_INGAME_COOP_MODE >
+협동전
+
+// Co-op: <boss name>, <difficulty name>
+< DISCORD_INGAME_COOP_MODE_DETAILS >
+협동전: %s, %s
+
+// <player name>, Level <lvl>
+< DISCORD_INGAME_PLAYER_DETAILS >
+%s, 레벨 %d
+
+// <player name>, <coop role>, Level <lvl>
+< DISCORD_INGAME_PLAYER_DETAILS_COOP >
+%s, %s, 레벨 %d
+
+< DISCORD_INGAME_BOUNTYHUNTER_MODE >
+현상금 사냥 모드
+
+< DISCORD_INGAME_SUMMER2020_MODE >
+생선 낚시 모드
+
+< DISCORD_INGAME_SHROOM_MODE >
+버섯아 게섯거라 모드
+
+< DISCORD_INGAME_SCHOOL_MODE >
+좌충우돌 학교생활 모드
+
+< DISCORD_INGAME_CHAOS_MODE >
+카오스 모드
+
+< DISCORD_INGAME_TAGTEAM_MODE >
+이인조 모드

@@ -1,0 +1,161 @@
+<0000> Hoi.
+<0001> Aqui.
+<0002> Aqui vou eu.
+<0003> Aqui vai.
+<0004> Eu vou jogar uma carta.
+<0005> Aqui está!
+<0006> Cartas, nada demais.
+<0007> Certo, irei tentar com essa.
+<0008> Ku-ku-ku.
+<0009> Deixe-me preparar uma coisinha aqui...
+<0010> Isso será divertido.
+<0011> Aqui, uma armadilha.
+<0012> Kuhihi.
+<0013> Prepare-se para isso.
+<0014> Eu irei com tudo.
+<0015> Tome isto!
+<0016> Fuhahahaha! Tenha medo de mim!
+<0017> Aí sim!
+<0018> Acho que está na hora de eu seguir em frente novamente.
+<0019> Bom, terminei de descansar.
+<0020> Este jogo não acabou ainda.
+<0021> Mas o quê? É sério isso?
+<0022> Aaaargh?
+<0023> Você só pode estar brincando.
+<0024> Isso é horrível.
+<0025> Aqui vai!
+<0026> Shaah!
+<0027> Atah!
+<0028> Uryah!
+<0029> Gya!
+<0030> Nada mal.
+<0031> Droga!
+<0032> Ugh!
+<0033> É de grande ajuda.
+<0034> Oh, eu gosto disso.
+<0035> Isso é tão bom.
+<0036> Isso é incrível.
+<0037> Howah!?
+<0038> Owawah.
+<0039> Meow!
+<0040> O que raios está acontecendo!
+<0041> Váááá!
+<0042> Não pode ser...
+<0043> Como isso pôde acontecer comigo?
+<0044> Ugu-ugu...
+<0045> Fuhahaha!
+<0046> Aqui vou eu!
+<0047> Eu te achei!
+<0048> Venha lutar comigo!
+<0049> Irresponsável, é isso que você é.
+<0050> Oh, você quer me derrotar?
+<0051> Certo, tente me derrotar.
+<0052> Eu não acredito que você quis lutar comigo...
+<0053> Ora!
+<0054> Toma essa!
+<0055> Sey!
+<0056> Yah!
+<0057> Ow!
+<0058> Ai!
+<0059> Koooo!
+<0060> Que inteligente...!
+<0061> Gyaaa!
+<0062> Guwaah!
+<0063> Ei maldito, que raios é teu problema!?
+<0064> Bueeeeh!
+<0065> Contemple minha agilidade!
+<0066> Isso foi tão fácil de desviar.
+<0067> Hoh.
+<0068> Hmph, seu lerdo.
+<0069> Isso é o que sempre acontece.
+<0070> Não valeu a pena falar sobre isso.
+<0071> Eu esperava que você fosse agir um pouco melhor que isso.
+<0072> Fracote.
+<0073> Mas... o que...
+<0074> Perdi...
+<0075> Eu devia ter sido mais cuidadosa...!
+<0076> Eu não acredito nisso...
+<0077> Certo, estes são meus.
+<0078> Estou pegando estes.
+<0079> Eu graciosamente aceito estes.
+<0080> Mas que surpresa agradável.
+<0081> Ei, espere!
+<0082> Droga, eu errei feio.
+<0083> Isso é ridículo.
+<0084> Oh raios!
+<0085> Ora seu...!
+<0086> P-por que raios isso tinha que estar aqui!?
+<0087> Quem raios colocou isto aqui!?
+<0088> Droga!
+<0089> Eu gosto dessa sensação.
+<0090> Parte de mim acredita que isso será divertido.
+<0091> As coisas estão ficando realmente selvagens por aqui.
+<0092> Lá vem.
+<0093> Eu farei de todas as estrelas do mundo inteiro minhas.
+<0094> Eu me farei super rica.
+<0095> Kukuku, dinheiro faz o mundo girar.
+<0096> Eu vou coletar um montão...
+<0097> Vocês irão todos ajoelharem-se perante meus poderes.
+<0098> Força é tudo que importa.
+<0099> Estou a fim de uma treta.
+<0100> Vou criar uma guerra.
+<0101> Você é durão o bastante para me acompanhar?
+<0102> Certo então, vamos indo.
+<0103> Bom, o que eu deveria fazer para provocá-los?
+<0104> Este jogo será sobre se divertir, beleza?
+<0105> E o jogo começa.
+<0106> Kukuku, serei a vencedora.
+<0107> Certo, vamos lá.
+<0108> Será tão fácil para mim vencer este jogo.
+<0109> Bom, isto não é uma surpresa.
+<0110> Vocês todos trabalham para mim agora.
+<0111> Mas que vitória fácil, fufufu.
+<0112> Kukuku, como planejado.
+<0113> Oh, isso parece realmente bom.
+<0114> Nós conseguimos a melhor coisa!
+<0115> Isso é nosso agora!
+<0116> Oooooh!
+<0117> Se importa de continuar do meu lugar?
+<0118> Certo, é seu turno.
+<0119> Lide com o resto, beleza?
+<0120> Boa sorte.
+<0121> Okay.
+<0122> Wow.
+<0123> Certo!
+<0124> Não!
+<0125> Mas que raios?
+<0126> Hoje é meu dia de sorte.
+<0127> Mas que raios~?
+<0128> Vamos indo.
+<0129> Aqui vai.
+<0130> Vá vá!
+<0131> Yo!
+<0132> Ngaah?
+<0133> Oh, bom trabalho.
+<0134> Você superou minhas expectativas. Bom trabalho.
+<0135> Féladapota!
+<0136> Eu nem sei o que este aqui faz!
+<0137> Suas habilidades são minhas agora!
+<0138> Isso não é meu, mas não importa!
+<0139> Nunca vi uma carta dessas!
+<0140> Saúde.
+<0141> Q... Quem raios é você!?
+<0142> Você... é um cara agora?
+<0143> Q-qual o problema desse cara?
+<0144> Eu estava tão confusa...
+<0145> Kukuku! Agora tenho o controle do jogo!
+<0146> Vocês não tem para onde fugir agora
+<0147> Isso é o que sou capaz de fazer!
+<0148> Fufufu, melhor vocês correrem pelas suas vidas.
+<0149> Eu sinto o cheiro de tantos cachorros por aqui...
+<0150> Você claramente se parece com uma vilã.
+<0151> Ugh, você parece que será um problemão.
+<0152> Agora ambos sabemos quem é o melhor vilão.
+<0153> Ugh, você é um desconhecido estranho...
+<0154> Seu pedaço de lixo!
+<0155> Você me traiu!?
+<0156> Você vai continuar trabalhando para mim, queira ou não.
+<0157> R-rebelião de servos...
+<0158> Você será minha comida.
+<0159> Oh, isso é um tanto interessante.
+<0160> Está na hora de caçar ratos.

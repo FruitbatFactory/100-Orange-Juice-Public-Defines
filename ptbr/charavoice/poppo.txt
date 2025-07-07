@@ -1,0 +1,169 @@
+
+<0000> Poh.
+<0001> Poppoh!
+<0002> Poippo!
+<0003> Popoh!
+<0004> Poopo!
+<0005> Popoopoh!
+<0006> Popopoopo!
+<0007> Pokkyu!
+<0008> Popoppo!
+<0009> Pokyuuppo!
+<0010> Popooi!
+<0011> Popon!
+<0012> Poopoopoo!
+<0013> Pokkyuppo!
+<0014> Popaah!
+<0015> Poryaa!
+<0016> Pokyukyukyukyu!
+<0017> Pokkyaa!
+<0018> Pokkyupokkyuu!
+<0019> Kyupoon!
+<0020> Mokyuu!
+<0021> Kyuu.
+<0022> Poo...
+<0023> Pogeh...
+<0024> Pupipo...
+<0025> Popyaa!
+<0026> Uporyaah!
+<0027> Poppo!
+<0028> Poppoo!
+<0029> Pokya!
+<0030> Pooh.
+<0031> Pofuu.
+<0032> Pomyaa!
+<0033> Popopoo...
+<0034> Popii... Pi...
+<0035> Ponyahaah.
+<0036> Pokiin!
+<0037> Powawawawa.
+<0038> Popoo?
+<0039> Pohehpopoh.
+<0040> Posha!
+<0041> Pofuheh...
+<0042> Popii...
+<0043> Po... Poh...
+<0044> Puii...
+<0045> Popoppopopo!
+<0046> Pokkyaan!
+<0047> Poppoi! Poppu!
+<0048> Pokkyupokkyu, popoo!
+<0049> Poh... Popoppopo...
+<0050> Poipoppi!
+<0051> Popoppo!
+<0052> Popippopoh!
+<0053> Popopopopopo!!
+<0054> Potah!
+<0055> Popapapapapa!!
+<0056> Poo!
+<0057> Pokyun.
+<0058> Pokyooh!
+<0059> Poppoaaah!
+<0060> Ponyuu.
+<0061> Pokkyaan!!
+<0062> Pokyupoa!!
+<0063> Opopopopopo...
+<0064> Popaaah!
+<0065> Poppo.
+<0066> Poppon!
+<0067> Pohaan.
+<0068> Pohii...
+<0069> Popopopoh!
+<0070> Popoooh!
+<0071> Poppopopo...!
+<0072> Poppopoppo!
+<0073> Po... Pomyah...
+<0074> Po... Popo... Po...
+<0075> Pogyaamo...
+<0076> Pokyupo...
+<0077> Poppo!
+<0078> Poppooh!
+<0079> Pohyaapo!
+<0080> Pohihihihi.
+<0081> Pohyaan.
+<0082> Pokyoh?!
+<0083> Popo... Poah...
+<0084> Pukyuu!
+<0085> Poah!!
+<0086> Poheh!
+<0087> Ponun...
+<0088> Pooppo...
+<0089> Pokyuun?!
+<0090> Popo... Poppo!
+<0091> Popopopopopopopopo...
+<0092> Po... Poaaaah...
+<0093> Poppo!
+<0094> Poppoppo!
+<0095> Poppoppopopo!
+<0096> Poppoi! Poppo!
+<0097> Pokyu... Pokyu......
+<0098> Poppo... Popopoppo... Popoppoppopopo...
+<0099> Popopo.
+<0100> Popopoopoo.
+<0101> Poppo.
+<0102> Pokyuu?
+<0103> Poppopopopo!
+<0104> Poppopopoppo!
+<0105> Popoppo!
+<0106> Popopoppoo!
+<0107> Poopoopooi!
+<0108> Poppooi!
+<0109> Poppopopopoppo oppoooppooppoppo opopo!!
+<0110> Poppopopopo!
+<0111> Pokyupoppo! Pokyuppa!
+<0112> Pumu... Poppo.
+<0113> Poppoo!
+<0114> Popoppoo!
+<0115> Popoon!
+<0116> Popo!
+<0117> Poppo!
+<0118> Pomyah-po!
+<0119> Pomyun! Poppo!
+<0120> Pokyupo-ah!
+<0121> Pokay.
+<0122> Poppo.
+<0123> Pyes!
+<0124> Pooh.
+<0125> Pogeh...
+<0126> Poppyaa!
+<0127> Poh...
+<0128> Poppopoo!
+<0129> Poron.
+<0130> Poh!
+<0131> Popoh!
+<0132> Pomumumu...
+<0133> Poppo!
+<0134> Pohyaa!!!
+<0135> Pofun...
+<0136> Popoppo!
+<0137> Pokkyuupo!
+<0138> Popoon!
+<0139> Popyaa!
+<0140> Pokyupokyupopooh.
+<0141> Poi!
+<0142> Popopoi popoi?!
+<0143> Pogyapii! Pokyakkyakka!
+<0144> Pokyaapi!!
+<0145> Pooipopupoppiii.
+<0146> Hahah, popopokyopokyokkyo!
+<0147> Hahah.
+<0148> Pokyupokkyupokyupo!!
+<0149> Pokyuun!
+<0150> Pokkyakkyakkyakkya!!
+<0151> Pokyaamo! Pokyapokyaa!
+<0152> Pokyaa... Pokkyuu!
+<0153> Kyupopopopo! Pokkyaa!
+<0154> Pokya... Pokyakya...
+<0155> Pokyuu?
+<0156> Pokyuuu!
+<0157> Poppo, Poppo!
+<0158> Popoppoppopooh...
+<0159> Poppoh!!!!
+<0160> Pokyuuuuuun!
+<0161> Upoaaaaaaah!!
+<0162> Pokyuuuuuuuu!!!!
+<0163> Poppo pode falar agora! Poppo!
+<0164> Poppo pode falar agora! Poppo!
+<0165> Poppo pode falar agora! Poppo!
+<0166> Poppo pode falar agora! Poppo!
+<0167> Poppo pode falar agora! Poppo!

@@ -1,0 +1,160 @@
+<0000> Heey.
+<0001> Greetings.
+<0002> I'm on a roll.
+<0003> I have faith in you.
+<0004> Fu-fu-fu.
+<0005> May I?
+<0006> I'll change the flow with this.
+<0007> This'll do.
+<0008> I'll thank myself for this later.
+<0009> It's just a little prank.
+<0010> Fufu, this trap will be your nightmare.
+<0011> This goes right down here.
+<0012> I'll do whatever it takes to win.
+<0013> No hard feelings, okay?
+<0014> For the sake of my victory.
+<0015> I suppose this is the right course of action.
+<0016> I suppose I'll show y'all what my eyes are capable of.
+<0017> You'll pay for what you did to me.
+<0018> Alright, I'll pay you back with interest.
+<0019> I'm done lying down on the ground.
+<0020> That was so humiliating...
+<0021> I suppose I'll pretend now's not the right time...
+<0022> Mhm?
+<0023> I can't stand lazing around down here anymore.
+<0024> *Tsk* Things aren't going my way.
+<0025> Here I come.
+<0026> I'm coming for you.
+<0027> Be careful or you'll get hurt.
+<0028> There we go.
+<0029> Not bad.
+<0030> You little...
+<0031> Ugyah!
+<0032> What's your deal?!
+<0033> I suppose I'll take five.
+<0034> Health is wealth.
+<0035> Made it.
+<0036> Nice, I can do my job again.
+<0037> Where will I go?
+<0038> Mhm, this is pretty amusing.
+<0039> Where will I end up?
+<0040> A warp?
+<0041> This can't be happening...
+<0042> Oh man, I feel off.
+<0043> I screwed up.
+<0044> Man, this is bad...
+<0045> I'll beat you up.
+<0046> I'm gonna kick the butt of anyone in my way.
+<0047> Ready to grovel?
+<0048> Easy target spotted.
+<0049> You got some nerve challenging me...
+<0050> Get the heck out of my way.
+<0051> I dare you.
+<0052> You should choose your fights more wisely!
+<0053> Orah!
+<0054> I won't go any easy on you.
+<0055> Sorah!
+<0056> Ahahaha!
+<0057> *Tsk*
+<0058> What are you doing?
+<0059> Ow!
+<0060> What the!?
+<0061> Gyah!
+<0062> Gyaah!
+<0063> That hurts!!
+<0064> Guboh!
+<0065> You're such a slowpoke.
+<0066> Kukuku.
+<0067> That was a close one.
+<0068> What are you trying to do?
+<0069> Well, that wasn't so bad.
+<0070> Have fun groveling for a while.
+<0071> Wimp.
+<0072> I suppose I'll move on to the next one.
+<0073> What a mess I made.
+<0074> Ugh, you're ridiculously strong.
+<0075> Gyaaah!
+<0076> Go easy on me, damn it.
+<0077> Treasure♪
+<0078> This is so good, this is so good!
+<0079> I just made a killing.
+<0080> Uhihihi!
+<0081> C'mon, that's not fair!
+<0082> Wait up!
+<0083> Agyagyah!
+<0084> That's all mine... Nooo!!!
+<0085> How could someone like me fall for a trap!?
+<0086> Who did this!?
+<0087> Getting caught in a trap is the uncoolest thing possible.
+<0088> Damn it! I stepped onto a trap!
+<0089> There's something foul in the air.
+<0090> I wanna keep away from whatever that is.
+<0091> I never saw this coming.
+<0092> Here comes a boss, huh?
+<0093> Treasure, of course.
+<0094> I'll make all the treasure out there mine.
+<0095> I'll go get the treasure.
+<0096> I can't wait to discover hidden treasures around here.
+<0097> Well, I'll take whatever chance I get to beat whoever's in my way.
+<0098> Which one of them should I start with?
+<0099> I'll smash down anyone in my way.
+<0100> I suppose I'll go a bit wild.
+<0101> Name's Arnelle. Good to meet ya.
+<0102> You wanna buddy up with me, you say?
+<0103> Well, I'll work good if you pay me good.
+<0104> So, you wanna accompany me, huh?
+<0105> Here starts the treasure hunt!
+<0106> Well, well, where should I start?
+<0107> Man, am I thrilled.
+<0108> I'm winning this game for sure.
+<0109> Well, that was pretty fun.
+<0110> Look how much treasure I got! Ahahaha, I can't stop laughing!
+<0111> And the winner is... the great Arnelle!
+<0112> I'm gonna throw a party tonight.
+<0113> Well done! That's a good catch.
+<0114> Hey, you wanna give that to me? No?
+<0115> How should we play with this stuff?
+<0116> Oh, that's a good one.
+<0117> Take my place, will you?
+<0118> Let me take a little rest now.
+<0119> I'm counting on you.
+<0120> Switch time!
+<0121> Got it.
+<0122> I like that.
+<0123> Sure.
+<0124> No.
+<0125> That's a bummer.
+<0126> Got lucky.
+<0127> What in the...?
+<0128> I suppose it's go time.
+<0129> There!
+<0130> Good luck.
+<0131> Yo!
+<0132> This is uh... Mhm?
+<0133> You're good.
+<0134> Oh, I'm impressed.
+<0135> Damn it...
+<0136> Let me use this.
+<0137> Mhm, this seems interesting.
+<0138> Well, I hope something fun will happen.
+<0139> Fufufu... I suppose I'll play this one.
+<0140> How did you just take my treasure from me?!
+<0141> What have you done to me?! I won't forgive you!
+<0142> Oh no, my treasure! You bastard!
+<0143> I can't believe I had my treasure stolen...
+<0144> Should've kept your guard up.
+<0145> Now this is mine.
+<0146> Kukuku, you're such an easy mark.
+<0147> That's worth too much for you to keep.
+<0148> Okay, we can play for a bit.
+<0149> Maynie, you gotta show me what you've got.
+<0150> Maynie, you need punishment.
+<0151> Playing with you like this once in a while isn't bad.
+<0152> Fine, I'll spare you some time.
+<0153> I'll play with you for a bit. Bring it.
+<0154> Alright, alright, we'll play together, okay?
+<0155> Huh? You want me to play with you, Maynie?
+<0156> Give it up for us, the strongest team ever.
+<0157> Together we can hunt whatever we want, Maynie.
+<0158> You freaking out, Maynie?
+<0159> Anything's possible when you and I work together.

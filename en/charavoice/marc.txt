@@ -1,0 +1,145 @@
+
+<0000> There!
+<0001> Here!
+<0002> Like this!
+<0003> Go!
+<0004> I'll use this one!
+<0005> The power of the card!
+<0006> This is my trump card.
+<0007> A mysterious power...
+<0008> I'll set this here.
+<0009> Someone fall for this!
+<0010> I'm just putting this card here.
+<0011> This could help.
+<0012> I'll put on new gear.
+<0013> I'll show you what I've got!
+<0014> This'll finish you!
+<0015> I'm using this!
+<0016> Fully charged! GO!
+<0017> I can keep going!
+<0018> Engines ready to go again!
+<0019> Back to the front lines.
+<0020> Repairs complete!
+<0021> I must work harder.
+<0022> I can't move...
+<0023> Restart failed...
+<0024> It's still no good...
+<0025> Take that!
+<0026> Go!
+<0027> There!
+<0028> Here!
+<0029> Ouch.
+<0030> That hurts!
+<0031> Was I hit?
+<0032> Where did that come from?
+<0033> Metal work complete!
+<0034> All fixed!
+<0035> I'm all okay now.
+<0036> Just in time...
+<0037> My plane is out of control!
+<0038> I'm getting thrown off course!
+<0039> O-o-oh nooooo...
+<0040> Where am I going?
+<0041> I'm sorry, Red Barrel.
+<0042> I'm going down!
+<0043> No, I can't last anymore.
+<0044> I'm done for!
+<0045> Hold it right there!
+<0046> Prepare to get beaten!
+<0047> Just accept my challenge!
+<0048> I'm taking you down!
+<0049> Out of my way!
+<0050> Ready to intercept.
+<0051> If that's how you want it!
+<0052> They're in my back?!
+<0053> Firing away!
+<0054> This is not a threat!
+<0055> Take this!
+<0056> Fire!
+<0057> That hurts!
+<0058> Kyaaah!
+<0059> Ouch.
+<0060> Oww.
+<0061> That hurt so much...
+<0062> That stings...
+<0063> It was a direct hit!
+<0064> Owwww!
+<0065> Dodge it, Red Barrel!
+<0066> Make a circle, Red Barrel!
+<0067> It's not gonna hit us!
+<0068> I can see it!
+<0069> I did it!
+<0070> I'm great, aren't I?
+<0071> I beat you!
+<0072> One down!
+<0073> I didn't make it...
+<0074> I lost...
+<0075> They got me...
+<0076> Too strong...
+<0077> It's a bonus!
+<0078> I'll help myself!
+<0079> The stars are coming to me!
+<0080> I found stars!
+<0081> Oh no!
+<0082> My stars...!
+<0083> My stars are running from me!
+<0084> Oh no, wait!
+<0085> Owwww!
+<0086> What's going on here?
+<0087> I messed up!
+<0088> I fell for a trap?!
+<0089> Wow, so big!
+<0090> A new enemy?!
+<0091> Here comes one big guy!
+<0092> Do I have to fight that...?
+<0093> I'm earning a ton of stars!
+<0094> I'll go gather stars!
+<0095> I hope to get a bunch.
+<0096> How many am I supposed to gather?
+<0097> I'll go shoot them down!
+<0098> I'll go take a lot down!
+<0099> I'll show them what I can do!
+<0100> I'll go beat them all!
+<0101> I'll do my best!
+<0102> Standing by!
+<0103> I'm good to go anytime!
+<0104> We're up, Red Barrel.
+<0105> Let's roll out, Red Barrel.
+<0106> We'll give it all we've got, Red Barrel.
+<0107> Take off!
+<0108> Red Barrel is ready to fly!
+<0109> I did it! I'll be the winner next time too!
+<0110> Let's win the next game too, Red Barrel!
+<0111> We really did it, Red Barrel!
+<0112> A job well done!
+<0113> Yay!
+<0114> A new upgrade!
+<0115> What could this be?
+<0116> This is good to have!
+<0117> You got this!
+<0118> Switching!
+<0119> I'm gonna pass you the baton!
+<0120> I'm rooting for you!
+<0121> Okay.
+<0122> That went pretty well.
+<0123> Yes.
+<0124> Negative.
+<0125> That's horrible.
+<0126> Something good just happened!
+<0127> Well, um...
+<0128> Let's go, Red Barrel.
+<0129> Please be a good roll!
+<0130> Here I go.
+<0131> Hello!
+<0132> Hmm...
+<0133> Nice!
+<0134> Perfect.
+<0135> Oh no...
+<0136> Mr. Seagull, I'm so sorry!
+<0137> Geez, you're equipped with something stupid again.
+<0138> You deserved a punishment!
+<0139> Geez, you built something like that again!
+<0140> I went too far!
+<0141> I told you not to get in my way!
+<0142> Here I come!
+<0143> A flying... pervert?

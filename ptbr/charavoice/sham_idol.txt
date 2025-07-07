@@ -1,0 +1,118 @@
+
+<0000> No três, okay?
+<0001> Três, dois, um!
+<0002> Vamos lá!
+<0004> O que você acha deste aqui?
+<0005> Ei, nós queremos jogar isto?
+<0006> Oh, este parece muito bom.
+<0007> É claro!
+<0008> É assim que você coloca uma armadilha. Entendeu?
+<0009> Por que não colocamos uma armadilha aqui?
+<0010> Qual você deseja colocar?
+<0011> Fufufu.
+<0012> Vamos trabalhar juntas usando esta carta!
+<0013> Nada de pegar leve, okay!
+<0014> Isso, você pode brilhar muito mais!
+<0016> Brilhando!
+<0017> Oww, esta doeu.
+<0018> Sora, me dê sua mão.
+<0019> Na mosca!
+<0020> Certo, vamos cantar outra música!
+<0021> Hora de relaxar...
+<0022> N-nossos fãs estão esperando por nós...
+<0026> Está parecendo bom!
+<0027> Aqui vamos nós!
+<0028> Sora!
+<0029> Whoa.
+<0030> Eu errei!
+<0033> Hora de reabastecer.
+<0034> Sora, abra bem a sua boca.
+<0035> Uhihi, aaang.
+<0036> Eu posso dançar mais!
+<0037> Oh não!
+<0038> Sora, segure sua saia!
+<0039> Meu cabelo!
+<0041> Vamos fazer uma pausa, certo?
+<0042> Sim, eu só preciso descansar um pouco...
+<0043> Nós erramos...
+<0044> Uuu...
+<0045> Isto é uma batalha de ídolos!
+<0046> Batalhamos para decidir quem é a mais fofa!
+<0049> Oh, creio que você seja um dos meus fãs?
+<0050> Consigo sentir que seu amor está ardente!
+<0053> Ali!
+<0054> Hah!
+<0055> Preparado?
+<0056> Eu vou conseguir!
+<0057> Puheh!
+<0058> Wau!
+<0061> Não a minha cara!
+<0062> Não é não!
+<0065> Olhe os meus passos de dança esplêndidos!
+<0066> Toh!
+<0069> Nós somos...
+<0070> O que você vê ao nosso redor é...
+<0071> Nós estamos nos saindo muito bem, Sora.
+<0072> Perfeitamente!
+<0073> Uuu...
+<0074> Como ousa atacar uma ídolo?!
+<0077> Wow, olhe para elas brilhando!
+<0078> Um dia, seremos estrelas, também!
+<0081> Nãoo! Não perca seu brilho!
+<0082> Elas eram nosso bilhete para o estrelato!
+<0085> Whoa! Uma armadilha!?
+<0086> Sora, cuidado!
+<0087> Huh? Isso é alguma pegadinha?
+<0089> Ídolos precisam de rivais...
+<0090> Fufu, as coisas estão começando a ficar interessantes.
+<0091> Hora de mostrar nossas habilidades lidando com problemas.
+<0093> Dããã. Claro que escolhemos este aqui.
+<0094> Vamos conseguir estrelas brilhantes para que consigamos ficar ainda mais brilhantes!
+<0097> Nós podemos fazer danças intensas, também.
+<0098> Ídolos podem lutar, também.
+<0101> Obrigada por nos escolher!
+<0102> Nós iremos finalmente subir ao palco.
+<0103> Você ficará bem comigo.
+<0104> Sim, você irá! Você é absolutamente fofa!
+<0105> Agora, está na hora do concerto ao vivo!
+<0106> Vamos lá, Sora!
+<0107> Fufufu, consigo perceber que você está nervosa.
+<0109> Muito obrigada a todos!
+<0110> Venham nos ver novamente na nossa próxima performance!
+<0113> Huh? Você quer uma foto minha?
+<0114> Vou autografar rapidinho.
+<0115> Por favor continue daqui.
+<0116> Hora de trocar de membro!
+<0117> Sora, nós vamos recuar por agora.
+<0117> Okay!
+<0118> Isso!
+<0119> Siim!
+<0120> Isto não é nada bom.
+<0122> Que sorte!
+<0123> Mhm?
+<0125> O que nós vamos conseguir?
+<0127> Yahoo!
+<0128> Mhmmm.
+<0130> Wow, isto é incrível.
+<0132> Sora, você acha que podemos usar isto?
+<0133> O que é isto? Uma carta de fã?
+<0134> Vamos tentar jogar! Não tenha medo de coisas novas!
+<0135> Mal posso esperar para descobrir o que isto faz.
+<0136> Ídolos contra ídolos... Sora, não podemos abaixar a guarda.
+<0137> Ídolos... não desista para a adversidade.
+<0138> Tempos difíceis abrem portas para oportunidades! 
+<0141> Isto é graças a todo teu suporte!
+<0142> Certo! Ficamos em primeiro no jogo!
+<0145> Nós vamos continuar seguindo!
+<0146> Estamos indo com tudo!
+<0147> O suporte de nossos fãs nos dá forças!
+<0148> Nós estamos muito perto de se tornar ídolos populares!
+<0149> Agora nós definitivamente estamos no topo das ídolos.
+<0150> Olha, Sora! O que você acha deste aqui?
+<0151> Boa escolha.
+<0152> Oh, este aqui tem uma cara única... Fofo? ...Não tenho certeza.
+<0153> Me sinto relaxada com este aqui por perto.
+<0154> Ah, acho que este vai lhe servir bem.
+<0155> Oh, claro!
+<0156> Que tal este aqui? Fofo, não é mesmo?
+<0157> Tenho certeza que este aqui vai ficar incrível em você!

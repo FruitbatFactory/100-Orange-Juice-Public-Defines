@@ -1,0 +1,162 @@
+
+<0000> Guie o meu destino.
+<0001> Tudo isto é a vontade do dado.
+<0002> Me guie para a escuridão.
+<0003> Isto deve me levar adiante.
+<0004> A carta para pintar tudo em escuro.
+<0005> A chave para o poder selado.
+<0006> O poder para distorcer o próprio destino.
+<0007> Um convite para a derrota.
+<0008> O pecado deve ser capturado por isto.
+<0009> Dance na palma da minha mão.
+<0010> Uma carta armadilha *presunçosa*.
+<0011> Um medo que surge.
+<0012> Uma carta para trazer um destino sangrento, aqui!
+<0013> Libere o poder de dentro dos meus olhos.
+<0014> Agora, se irrite, tenha medo, e chore.
+<0015> Se eu exijo poder? Sim, eu exijo.
+<0016> Meus servos... Vão atrás deles.
+<0017> O príncipe da escuridão acabou de se despertar.
+<0018> Meu selo foi removido.
+<0019> O poder que rasteja por aí na escuridão...
+<0020> O retorno de Krilalaris...
+<0021> Não é preciso se apressar ainda... Acho.
+<0022> Minha fome é monstruosa.
+<0023> Eu me sinto muito fraca... Eu quero comer algo...
+<0024> O poder selado é muito forte para eu lutar contra.
+<0025> Batismo de dor.
+<0026> Desapareça na escuridão.
+<0027> Violência irracional.
+<0028> Fuhahaha.
+<0029> Au.
+<0030> Bufuu...
+<0031> Kyan.
+<0032> Isto dói.
+<0033> A escuridão circula nos meus ferimentos.
+<0034> É hora do rango, então eu poderei remover a escuridão da minha barriga.
+<0035> Uma habilidade incrível de regeneração.
+<0036> Ah, a dor sumiu...
+<0037> Eu vou deixar a escuridão me carregar.
+<0038> Um caminho desordenado.
+<0039> Por um espaço desordenado.
+<0040> Aonde eu irei parar...
+<0041> A escuridão deve me engolir...
+<0042> Aaaaah... Estou morrendo de fome...
+<0043> Agora é a hora de selar a mim mesma...
+<0044> Fuaaaa, isto é tão horrível...
+<0045> Nós estamos destinados a lutar um com o outro.
+<0046> Vamos começar uma batalha...
+<0047> Rios de sangue devem fluir...
+<0048> Agora, é hora do duelo.
+<0049> Que arrogância a sua me desafiar.
+<0050> Esta deve ser uma luta escura e cheia de sangue...
+<0051> Eu realmente não preciso de dor, okay?
+<0052> Hmph... Que atitude imprudente.
+<0053> As garras afiadas exigem sangue.
+<0054> As garras das minhas criaturas...
+<0055> Me perdoe se eu irei te machucar demais.
+<0056> Ataque.
+<0057> Isto dói.
+<0058> Escuro... Ugh...
+<0059> Hego!
+<0060> Oww.
+<0061> Isto dói, por favor pare.
+<0062> O quê, ah, fueee!
+<0063> Escuridão, está em um problemão, então por favor pare!
+<0064> Hmbuhah!
+<0065> Escuridão te cegou.
+<0066> Uma esquiva esplêndida.
+<0067> Aquele ataque estava destinado a não me acertar.
+<0068> Tão perto! Quer dizer, desviar foi facinho. 
+<0069> O Néctar da vitória... O teu sabor é bom?
+<0070> Este é o meu poder do destino...
+<0071> Ufa, essa foi por pouco... Quer dizer, essa foi moleza.
+<0072> Desculpa se eu te machuquei demais.
+<0073> Eu estou numa dor tremenda...
+<0074> Escuridão... *tosse*tosse*!
+<0075> Isto não é divertido...
+<0076> Hau... exausta...
+<0077> Dinheiro! Dinheiro!
+<0078> Estes podem me comprar comida?
+<0079> O destino aonde eu exijo encher o meu estômago.
+<0080> Hoje, eu irei devorar uma peça deliciosa de carne animal... 
+<0081> D-di-dinheiroooo!
+<0082> Não, não despareça, por fav-... Não...
+<0083> Agagagagah...
+<0084> Como assim eles tiveram que me deixar...
+<0085> Um medo que vem lá de baixo.
+<0086> Hpmh, eu não cairia para uma armadilha que nem essa... Ah velho, eu caí nela.
+<0087> Armadilhas são trapaças...
+<0088> Unyuu.
+<0089> Rei da escuridão...!
+<0090> Quem libertou aquela coisa...
+<0091> Este cheiro me faz lembrar de boas memórias.
+<0092> E-Estou assustada...
+<0093> Dinheiro, eu vou conseguir um montão de dinheiro.
+<0094> Estrelas devem brilhar em minhas mãos.
+<0095> Estrelas são dinheiro. Elas podem me comprar comida que foi feita misturada e assada.
+<0096> Pelo bem das comidas futuras...
+<0097> O rei das criaturas exige sangue.
+<0098> As lutas devem começar.
+<0099> Eu irei trazer vitórias ao meu rei...
+<0100> Meu poder... está fora de controle... Uooh.
+<0101> Você deseja ser encantado pela escuridão que eu sou?
+<0102> Eu sou a Krilalaris... Prazer em te conhecer.
+<0103> Eu sou a pessoa presa na escuridão e na fome. Me traga um pouco de comida.
+<0104> Eu vou trabalhar duro, então me compre uma refeição.
+<0105> É hora do duelo...
+<0106> A escuridão já me ensinou como ganhar este jogo.
+<0107> Eu vou conseguir uma boa refeição se eu ganhar este jogo...
+<0108> Fufu... Um jogo de escuridão...
+<0109> Eu previ esta minha vitória...
+<0110> Isto é o que meu poder escondido é capaz de fazer.
+<0111> Eu estou morrendo de fome... Eu preciso de um pouco de comida...
+<0112> Eu quero comer um pouco de carne...
+<0113> Bem-vindo a nova escuridão.
+<0114> Um poder no qual eu nunca vi antes.
+<0115> Outro selo foi quebrado.
+<0116> Você queria isto? Eu fico feliz se você tiver gostado.
+<0117> Troca sombria.
+<0118> Eu quero que você continue daqui.
+<0119> Eu quero ter um tempo de comilança.
+<0120> Saia, meu outro eu.
+<0121> Ótimo.
+<0122> Grande escuridão...
+<0123> Certamente.
+<0124> Nope.
+<0125> Mas que hediondo...
+<0126> Você tem muita sorte.
+<0127> Oh...?
+<0128> Junto com a escuridão.
+<0129> O dado do destino foi usado...
+<0130> Agora.
+<0131> Como você está?
+<0132> Auu.
+<0133> Exultação.
+<0134> Muita... muita... escuridão?
+<0135> Affe...
+<0136> Eu devo usar este poder.
+<0137> Eu devo pegar emprestado a escuridão de alguém.
+<0138> Esta carta selada se chama... Espera, eu não conheço esta carta.
+<0139> Ãhn? Não tem problema usar esta carta?
+<0140> Obrigada...
+<0141> Dancem, criaturas orelhudas...
+<0142> Comtemplem os meus servos dançando.
+<0143> Hm... Meu sangue está me dizendo para te derrotar.
+<0144> Da maneira que você aparece... Tenho certeza que devemos lutar.
+<0145> Eu sinto que nós estamos conectados de alguma forma. Alguma coisa deve ter acontecido entre nós em nossa vida passada.
+<0146> Mesmo sem mim por perto, diversos outros irão manter... *resmunga*resmunga*.
+<0147> Eu estou no sétimo paraíso! *Chora*
+<0148> A escuridão me invocou até este local.
+<0149> Este logal me agrada... Me assusta um pouco também, entretanto.
+<0150> Humpf, este é o santuário da escuridão.
+<0151> Este é de longe o melhor campo de batalha para uma luta decisiva.
+<0152> Papai Noel... realmente existe, pelo visto.
+<0153> Papai NoelSanta... O coberto em sangue.
+<0154> Eu venci esta luta de escuridão. Agora, me dê todos os presentes que você possui.
+<0155> M-mamãe Noel me deu uma surra...
+<0156> Eu nunca esperei ter que lugar com você.
+<0157> Ãhn? Por que temos que lutar?
+<0158> Eu sou a mestra de agora em diante.
+<0159> Horrível...
+<0160> G-gerente, por que ele está aqui...?

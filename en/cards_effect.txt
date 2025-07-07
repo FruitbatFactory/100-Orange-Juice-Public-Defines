@@ -1,0 +1,772 @@
+< CARD_DASH_EFFECT >
+name=Dash!
+descr=Roll two dice for movement.
+
+< CARD_FLIPOUT_EFFECT >
+name=Flip Out
+descr=When landing on a drop panel, the player(s) with the highest number of stars will lose the same number of stars as this unit.
+
+< CARD_NICEJINGLE_EFFECT >
+name=Nice Jingle
+descr=Receive double stars from bonus panels.
+
+< CARD_EXTEND_EFFECT >
+name=Extend
+descr=After suffering KO, revive on the following turn.
+
+< CARD_STIFFCRYSTAL_EFFECT >
+name=Stiff Crystal
+descr=Negate the effect of a trap card. Gain 5 stars per level of cancelled trap.
+
+< CARD_DANGEROUSPUDDING_EFFECT >
+name=Dangerous Pudding
+descr=Next turn will be skipped.
+
+< CARD_HEAT300_EFFECT >
+name=Heat 300%
+descr=Gain -2 DEF.
+
+< CARD_SUPERALLOUTMODE_EFFECT >
+name=Super All-Out Mode
+descr=Gain +2 ATK on next battle.
+
+< CARD_PROTAGONISTPRIVILEGE_EFFECT >
+name=Protagonist's Privilege
+descr=When allowed to attack first, the opposing unit cannot attack (once per combat).
+
+< CARD_ACCELERATOR_EFFECT >
+name=Accelerator
+descr=Roll two dice for movement, battle, bonus and drop.
+
+< CARD_BINDINGCHAIN_EFFECT >
+name=Binding Chains
+descr=Next turn will be skipped.
+
+< CARD_EXTRAORDINARYSPECS_EFFECT >
+name=Extraordinary Specs
+descr=Roll 6 for movement, battle, bonus and drop.
+
+< CARD_MAGICALMASSACRE_EFFECT >
+name=Magical Massacre
+descr=For each stack, gain -1 REC on next revive roll.
+
+< CARD_CASTOFF_EFFECT >
+name=Cast Off
+descr=Swap unit's base ATK and DEF. Effect expires on KO, or when Cast Off is used again.
+
+< CARD_LONGEAREDBEASTS_EFFECT >
+name=Dance, Long-Eared Beasts!
+descr=Gain -2 ATK on next battle.
+
+< CARD_BLAZING_EFFECT >
+name=Blazing!
+descr=Gain +1 ATK and -1 DEF for each stack. Effect expires on KO.
+
+< CARD_SEALEDMEMORIES_EFFECT >
+name=Sealed Memories
+descr=Carried cards will be reversed.
+
+< CARD_SELFDESTRUCT_EFFECT >
+name=Self-Destruct
+descr=Gain +1 ATK for each stack.
+
+< CARD_CRYSTALBARRIER_EFFECT >
+name=Crystal Barrier
+descr=Consume 1 stack to cancel a trap, a battle, or drop panel and take 1 damage. Effect expires on KO.
+
+< CARD_DELTAFIELD_EFFECT >
+name=Delta Field
+descr=All dice rolls will be 1.
+
+< CARD_WHIMSICALWINDMILL_EFFECT >
+name=Whimsical Windmill
+descr=Gain +1 EVD during battle.
+
+< CARD_HYPER_ARUSCRAMBLE_EFFECT >
+name=Santa's Gift
+descr=Unit cannot challenge others to battle.
+
+< CARD_HYPER_SORAMILITARY_EFFECT >
+name=Awakening of Talent
+descr=Roll 5 for move, battle, bonus or drop.
+
+< CARD_JONATHANRUSH_EFFECT >
+name=Jonathan Rush
+descr=Gain -1 DEF during battle.
+
+< CARD_TURBOCHARGED_EFFECT >
+name=Turbo Charged
+descr=Gain +1 ATK for each stack. Effect expires on KO.
+
+< CARD_IMMOVABLEOBJECT_EFFECT >
+name=Immovable Object
+descr=Cannot move and enemies who move into the same panel must battle you.\nGain +2 DEF and become able to counterattack.
+
+< CARD_GOLDENEGG_CHICKEN_EFFECT >
+name=Golden Egg
+descr=Drop Panels will act as Bonus Panels.
+
+< CARD_GOLDENEGG_NOTCHICKEN_EFFECT >
+name=Golden Egg
+descr=Bonus Panels will act as Drop Panels.
+
+< CARD_NATH_EFFECT >
+name=Active Extension
+descr=For each stack, gain +1 to ATK/DEF and -1 to EVD.
+
+< CARD_NONAME_EFFECT >
+name=Potted Head
+descr=Base stats change to -1 ATK/DEF/EVD. Effect expires on revival or reaching a home panel.
+
+< CARD_AMPATK_EFFECT >
+name=Attack Buff
+descr=Gain +1 to ATK for each stack.
+
+< CARD_AMPDEF_EFFECT >
+name=Defense Buff
+descr=Gain +1 to DEF for each stack.
+
+< CARD_AMPEVD_EFFECT >
+name=Evasion Buff
+descr=Gain +1 to EVD for each stack.
+
+< CARD_AMPMOV_EFFECT >
+name=Movement Buff
+descr=Gain +1 MOV.
+
+< CARD_AMPHP_EFFECT >
+name=Health Buff
+descr=Gain +1 max HP for each stack.
+
+< CARD_AMPRECOVERY_EFFECT >
+name=Recovery Buff
+descr=Gain -1 REC.
+
+< CARD_BOUNTY_AMPATK_EFFECT >
+name=Attack Buff
+descr=Gain ATK equal to stock amount.
+
+< CARD_BOUNTY_AMPDEF_EFFECT >
+name=Defense Buff
+descr=Gain DEF equal to stock amount.
+
+< CARD_BOUNTY_AMPEVD_EFFECT >
+name=Evasion Buff
+descr=Gain EVD equal to stock amount.
+
+< CARD_SOLIDWITCH_EFFECT >
+name=Solid Witch
+descr=Take no damage.
+
+< CARD_HYPER_SWEETEATER_EFFECT >
+name=Sweet Eater
+descr=Base stats change to 3 ATK and 0 DEF/EVD. Effect expires on revival.
+
+< CARD_STEALTHON_EFFECT >
+name=Stealth On
+descr=Cannot be challenged to battle and cannot be targeted by Boost cards.\nDo not trigger Encounter or Boss panels.\nEffect expires on entering battle but gain +2 ATK during that battle.
+
+< CARD_SMOKESCREEN_EFFECT >
+name=Binding Smoke
+descr=Move rolls are limited to 1, 2 or 3.
+
+< CARD_KIRIKO_EFFECT >
+name=Strange Medicine
+descr=-1 Max HP for each stack.
+
+< CARD_CUTIES_EFFECT >
+name=Events Crashed
+descr=+1 star from bonus panels.
+
+< CARD_SPECIALSTAGE_EFFECT >
+name=Live Mode
+descr=Gain -3 MOV, can only trigger movement type panels and cannot use cards.\nCannot be challenged to battle by enemies or targeted by Boost cards.\nIf an opponent ends their turn within 2 panels, steal Lvl x5 stars from them.\nEffect expires on KO.
+
+< CARD_PATHBLOCKERS_EFFECT >
+name=Path Blockers
+descr=Stop moving if panel has a trap.
+
+< CARD_POPPOFORMATION_EFFECT >
+name=Poppoformed
+descr=Base ATK, DEF and EVD will be -1 during next battle.
+
+< CARD_HAND_BOOST_EFFECT >
+name=Hand Boost
+descr=+1 to amount of cards that can be held for each stack, up to a maximum of 5.
+
+< CARD_CHEAT_EFFECT >
+name=? ? ? ? ? ?
+descr=????
+
+< CARD_CHAINBOUND_EFFECT >
+name=Bound
+descr=Gain -2 EVD and -1 MOV.
+
+< CARD_JOKER_EFFECT >
+name=Poppo Joker
+descr=Cards can be played as though they were Lvl 1 and had 0 base cost.
+
+< CARD_HERBAL_REMEDY_EFFECT >
+name=Herbal Remedy
+descr=Cannot take damage.
+
+< CARD_ACCEL_CANDY_EFFECT >
+name=Accel Hyper Candy
+descr=Roll two dice for any action.
+
+< CARD_COTTONCAKE_EFFECT >
+name=Free Cards
+descr=Cards will have no base cost and no level requirement.
+
+< CARD_REDBEANCREAM_EFFECT >
+name=Red Bean Ice Cream
+descr=Gain +1 ATK. This effect is removed upon KO. This effect cannot stack.
+
+< CARD_ZAPPERSWORD_EFFECT >
+name=Magical Enchanted Sword
+descr=Permanently gain +1 ATK, but also -1 DEF.
+
+< CARD_MELONPAN_EFFECT >
+name=Melonpan
+descr=Permanently gain +1 DEF and EVD, but also -1 ATK.
+
+< CARD_SMOKEBOMB_EFFECT >
+name=Smoke Bomb
+descr=In the next battle, the enemy gains -1 ATK, DEF and EVD.
+
+< CARD_SHIELD_EFFECT >
+name=Shield
+descr=Reduce incoming damage, and reduce the number of stocks over taking damage.
+
+< CARD_ELLIEATK_EFFECT >
+name=Ellie's Miracle (ATK)
+descr=Get +1 ATK per stack.
+
+< CARD_ELLIEDEF_EFFECT >
+name=Ellie's Miracle (DEF)
+descr=Get +1 DEF per stack.
+
+< CARD_ELLIEEVD_EFFECT >
+name=Ellie's Miracle (EVD)
+descr=Get +1 EVD per stack.
+
+< CARD_LUCKYLUNCH_EFFECT >
+name=Lucky Lunch
+descr=Gain +1 ATK, DEF and EVD.
+
+< CARD_ALICIANRONE_ATK_EFFECT >
+name=Speed Damage
+descr=Deal as much damage as the stock number by passing on enemies.
+
+< CARD_BEASTWITCH_EFFECT >
+name=Beastly Tribute
+descr=On turn end, discard "Beast Witch".
+
+< CARD_SLOW_EFFECT >
+name=Slow
+descr=MOV is decreased by 1 per stack.
+
+< CARD_SHROOMZOOM_EFFECT >
+name=Shroom Zoom
+descr=MOV is increased by 1 per stack.
+
+< CARD_SUGURI46_EFFECT >
+name=Rejuvenation
+descr=Gain +1 die on next Movement roll.
+
+< CARD_SUGURI46_ATK_EFFECT >
+name=Reminiscence
+descr=Gain +1 ATK.
+
+< CARD_MAYNIECOUNT_EFFECT >
+name=Rage Counter
+descr=Gain +1 ATK and +1 EVD for each stack after using Raging Madness.
+
+< CARD_MAYNIERAGE_EFFECT >
+name=Raging Mode
+descr=Gain +1 ATK and +1 EVD for each stack.
+
+< CARD_PASSIONATERESEARCH_EFFECT >
+name=Passionate Researcher
+descr=Able to see the next X top-of-deck cards, where X is the number of stack.
+
+< CARD_MINIGAME_TURNSKIP >
+name=Poppo Stop
+descr=Next turn will be skipped.
+flavor=
+
+< CARD_MINIGAME_REVERSEMOVEMENT >
+name=Poppo Reverse
+descr=Must move backwards.
+flavor=
+
+< CARD_MINIGAME_DOUBLEDICE >
+name=Poppo Dice
+descr=Gain an extra die for all rolls.
+flavor=
+
+< CARD_MINIGAME_FROSTWALKER >
+name=Poppo Frostwalker
+descr=Panels you walk on will be frozen for one chapter.
+flavor=
+
+< CARD_XMAS2018_SNOWBALLFIGHTBAN >
+name=Chilly
+descr=Cannot initiate a Snowball Fight.
+flavor=
+
+< CARD_WANTED_EFFECT >
+name=Wanted
+descr=Give double wins on KO from battle. Effect expires on KO.
+
+< CARD_SWEETDESTROYER_EFFECT >
+name=Sweet Destroyer
+descr=Any drawn Sweets type cards will be permanently transformed at random into Dangerous Pudding or Bad Pudding.
+
+< CARD_LONELYCHARIOT_EFFECT >
+name=Lonely Chariot
+descr=Always roll 5 to move. On turn end, take 1 damage. Effect expires on KO.\nIf KO'd from this effect, pay Lvl x5 stars.
+
+< CARD_PRESIDENTPRIVILEGE_EFFECT >
+name=President's Privilege
+descr=May play cards without paying their cost.
+
+< CARD_SANTASJOB_EFFECT >
+name=Santa's Job
+descr=During standby, may send a card of usable Lvl from hand to another random player. Gain stars equal to Card Lvl x5.
+
+< CARD_BANNEDFORLIFE_EFFECT >
+name=Banned for Life
+descr=Can only play Gift cards.
+
+< CARD_EVILSPYWORKEXEC_EFFECT >
+name=Evil Spy Work ― Execution
+descr=On turn end, take 3 damage.
+
+< CARD_REDBEANICECREAM_EFFECT >
+name=Miracle Red Bean Ice Cream
+descr=Gain +1 ATK for each stack.
+
+< CARD_REDBLUE_EFFECT >
+name=Red & Blue
+descr=Gain +1 ATK, DEF and EVD for each stack.
+
+< CARD_BEASTWITCHGIFT_EFFECT >
+name=Beast Witch
+descr=When another player loses stars from an Encounter panel battle and those stars would go to the Encounter panel unit, receive them instead.
+
+< CARD_UNLUCKYCHARM_EFFECT >
+name=Unlucky Charm
+descr=On turn start, lose Lvl x1 stars.
+
+< CARD_WINDYENCHANTMENT_EFFECT >
+name=Windy Enchantment
+descr=Gain +1 MOV. Norma checks are disabled.
+
+< CARD_LOSTCHILD_EFFECT >
+name=Lost Child
+descr=Must move backwards. Norma checks are disabled.
+
+< CARD_PRICEOFPOWER_EFFECT >
+name=Price of Power
+descr=May play cards one level higher than current level. All card costs are increased by 5.
+
+< CARD_POPPOSNATCHER_EFFECT >
+name=Poppo the Snatcher
+descr=Gain -1 DEF. When passing an enemy, steal target Lvl x3 stars from them. Norma checks are disabled.
+
+< CARD_BLOODLUST_EFFECT >
+name=Bloodlust
+descr=On turn start, lose 1 HP. Heal 1 HP for every damage dealt. Norma checks are disabled.
+
+< CARD_LUCKYCHARM_EFFECT >
+name=Lucky Charm
+descr=On turn start, gain Lvl x1 stars. Cannot use any other cards.\nOn defeat, give Lvl x 3 more stars.
+
+< CARD_MONOCOQUE_EFFECT >
+name=Metallic Monocoque
+descr=When receiving damage from a non-battle effect, that damage is reduced by 1, lose Lvl x 2 stars.
+
+< CARD_SAINTEYES_EFFECT >
+name=Saint Eyes
+descr=In battles where you attack first, gain +1 ATK per odd stack, and +1 DEF per even stack.
+
+< CARD_CHEFSUMMON_EFFECT >
+name=Chef, I Need Your Help!
+descr=Chef will fight in your stead. Allows Chris to challenge other units in battles.
+
+< CARD_MANAGERSUMMON_EFFECT >
+name=Manager, Help Me!
+descr=Store Manager will fight in your stead. Allows Chris to challenge other units in battles.
+
+< CARD_MANAGERCOUNTER_EFFECT >
+name=Store Manager Counter
+descr=Awarded for playing a Max 1 copy limit card. Gathering 4 or more while your level is 4 or higher will upgrade "Chef, I Could Use Some Help!" into "Manager, I Could Use Some Help!".
+
+< CARD_BOSSROBOBARRIER_EFFECT >
+name=Absorptive Shell
+descr=Absorb 1 point of damage. Removed on Auto-Repair.
+
+< CARD_BOSSROBOREPAIR_EFFECT >
+name=Auto-Repair
+descr=If you have 3 Auto-Repair at the start of turn, remove them all to heal 1 HP.
+
+< CARD_BOSSROBOSLOWSTART_EFFECT >
+name=Slow Start
+descr=-1 MOV.
+
+< CARD_PHILOSOPHERSTONE_EFFECT >
+name=Philosopher's Stone
+descr=On every chapter start, gain 4 stars, with an additional 1 star every 5 chapters.
+
+< CARD_PERMARECREDUCTION_EFFECT >
+name=Energized
+descr=Permanently reduce your REC by 1.
+
+< CARD_TEMPRECREDUCTION_EFFECT >
+name=Vitality Boost
+descr=Reduce your REC by the number of stock for your next KO.
+
+< CARD_SHOKUPAN_EFFECT >
+name=Revitalize
+descr=Heal your character by the amount of stock at the beginning of your turn.
+
+< CARD_RADAR_EFFECT >
+name=Observer
+descr=Can discern all monster locations.
+
+< CARD_PRECISIONGOGGLES_EFFECT >
+name=Sharp-eyed
+descr=Throwing range is increased by 2 panels.
+
+< CARD_POISONED_EFFECT >
+name=Poisoned
+descr=At the start of your turn, take damage equal to stock number.
+
+< CARD_HARBINGER_FAME >
+name=Famous Weakling Slayer
+descr=+1 Fame per stack up to 6. Gathered Fame will be given in addition to the base Fame reward upon defeating the Harbinger.
+
+< CARD_HARBINGER_SOULEATER >
+name=Soul Eater
+descr=Upon reaching 3 stacks, fully heal self, and inflict Doom to all units.
+
+< CARD_HARBINGER_AWAKENED >
+name=Awakened Soul Eater
+descr=Permanent +1 Max HP, +1 ATK, -1 DEF.
+
+< CARD_DOOM_EFFECT >
+name=Doom
+descr=Suffer KO at the start of turn when the duration reaches zero. Removed upon defeating the source of the effect, getting KO'd, or visiting an Inn. Give a stack of Soul Eater to the Harbinger if KO'd while having this effect.
+
+< CARD_DARKCHOCOMOUSSE_STAREATER >
+name=Star Eater
+descr=Upon reaching 3 stacks, fully heal self, and inflict IOU to all units.
+
+< CARD_DARKCHOCOMOUSSE_AWAKENED >
+name=Awakened Star Eater
+descr=Permanent +1 Max HP, +1 ATK, -1 DEF.
+
+< CARD_CHOCOLATEDOOM_EFFECT >
+name=IOU
+descr=Dark Chocolate Mousse steals your Lvl x 10 stars and gains a stack of Star Eater at the start of turn when the duration reaches zero. Removed upon defeating the source of the effect, getting KO'd, or visiting an Inn.
+
+< CARD_DARKCHOCOMOUSSE_FAME >
+name=Famous Weakling Slayer
+descr=+1 Fame per stack up to 6. Gathered Fame will be given in addition to the base Fame reward upon defeating Dark Chocolate Mousse.
+
+< CARD_SPIKEDSHIELD_EFFECT >
+name=Spiked Shield
+descr=Reduce incoming damage by 1. If your defense roll is greater than the opponent's attack roll, reflect damage equal to half of the attack value back to the opponent
+
+< CARD_BATTLEAXE_EFFECT >
+name=Executioner
+descr=Permanently gain +1 ATK, but also -1 EVD.
+
+< CARD_CURSEDSWORD_EFFECT >
+name=Cursed Sword
+descr=Gain +2 ATK, but also -1 DEF, EVD & Max HP.
+
+< CARD_CURSEDAXE_EFFECT >
+name=Cursed Axe
+descr=Gain 20% chance of a critical hit and 10% chance of missing an attack.
+
+< CARD_CURSEDBOUNTY_EFFECT >
+name=Cursed Bounty
+descr=Your next completed Bounty will grant an additional +2 Fame and set your HP and Max HP to 1 until KO'd or visiting an Inn.
+
+< CARD_CURSEDMARK_EFFECT >
+name=Cursed Mark
+descr=Doomed to fall as a result of completing a Cursed Bounty. Can be cleansed at an Inn.
+
+< CARD_CURSEDICECREAM_EFFECT >
+name=Purple Bean Ice Cream
+descr=Gain +2 ATK, but also -3 Max HP (min. 1). This effect expires on KO.
+
+< CARD_BRAVERYUP_EFFECT >
+name=Fearless Hunter
+descr=Your bravery is increased by defeating the Harbinger, reducing all incoming battle damage by 1 for the next stock amount of battles.
+
+< CARD_CONTRACTCURSE_EFFECT >
+name=Contract Curse
+descr=You are in possession of one or more cursed contracts. A cursed contract will be discarded after 3 chapters if not cleansed.
+
+< CARD_OVERTIME_EFFECT >
+name=Overtime
+descr=Roll 3 dice for movement.
+
+< CARD_CLOCKEDOUT_EFFECT >
+name=Clocked Out
+descr=Skip next turn.
+
+< CARD_HOMEIMPROVER_EFFECT >
+name=Home Improver
+descr=When effect runs out, randomly swap home panel positions.
+
+< CARD_LUCKYSEVENS_EFFECT >
+name=Lucky Sevens
+descr=Natural die rolls can range from 0 to 7, and the minimum roll result is 0 when rolling 0.
+
+< CARD_LUCKYZERO_EFFECT >
+name=Lucky Zero
+descr=Cannot perform a Norma check.
+
+< CARD_LOSTPRESENTS_EFFECT >
+name=Lost Presents
+descr=When effect runs out, draw as many cards as amount of stacks.
+
+< CARD_GUIDANCE_EFFECT >
+name=Guidance of the Weathercock
+descr=Roll 2 dice for everything except for battle. This effect ends when you stop on your own Home panel. Can only check Norma on own Home panel.
+
+< CARD_SAFEJOURNEY_EFFECT >
+name=Safe Journey
+descr=Lose 5 stars at the start of each turn. Ignore Drop panels, traps, and card effect damage. The effect is removed when landing on your own Home panel or having less than 5 stars.
+
+< CARD_HUNGRY_EFFECT >
+name=Hungry
+descr=With 3 Hungry, gain -1 EVD. Removed on landing on your own home.
+
+< CARD_GUIDANCE_BH_EFFECT >
+name=Guidance of the Weathercock
+descr=Roll 2 dice for everything except for battle. This effect ends when you stop on a Home panel.
+
+< CARD_UPSHIFT_EFFECT >
+name=Upshift
+descr=Gain +1 MOV for each stack.
+
+< CARD_LONELYRIDE_EFFECT >
+name=Lonely Road
+descr=Gain +1 ATK, +1 DEF and +2 EVD.
+
+< CARD_ZEALOUSSALESMAN_EFFECT >
+name=Zealous Salesman
+descr=Gain +1 ATK for each stack.
+
+< CARD_NEWNOBILITY_EFFECT >
+name=Noble Charm
+descr=At the start of your next battle, randomly gain -1 ATK, DEF, or EVD.
+
+< CARD_AFFLUENCE_EFFECT >
+name=Princess's Invitation
+descr=Gain -3 ATK during battle.
+
+< CARD_RECOVERY_DOWN_EFFECT >
+name=Recovery Down
+descr=Gain +1 REC for each stack.
+flavor=
+
+< CARD_MESCAL_COOLDOWN_EFFECT >
+name=I Don't Need Your Help!
+descr=Pirate Crew Member cannot appear when Mescal is challenged.
+flavor=
+
+< CARD_FORCED_DEPARTURE_EFFECT >
+name=Forced Departure
+descr=Ordered to leave the battlefield after this stock effect expires.
+
+< CARD_IDEALWORLD_EFFECT >
+name=Robotic Takeover
+descr=Your next encounter will be a robotic wild unit. This robotic unit will gain +1 ATK.
+
+< CARD_HARDENEDSCALES_EFFECT >
+name=Hardened Scales
+descr=Gain +1 ATK for each stack. Effect expires on KO.
+
+< CARD_GOODESTBOY_EFFECT >
+name=Goodest Boy
+descr=Immune to instant KO effects. When staying on a panel with another player at the end of either player's turn, gain a copy of a random card in their hand. You can neither challenge nor be challenged; instead, opponents may stop to Pet you. Effect expires on KO.
+
+< CARD_BOMBIMMUNITY_EFFECT >
+name=Explosion Immunity
+descr=Take no damage from bomb explosions until the beginning of next chapter.
+
+< CARD_ARTOFSWORD_EFFECT >
+name=Art of the Sword
+descr=Your skill in battle is improved. Permanently gain +1 ATK.
+
+< CARD_ARTOFSHIELD_EFFECT >
+name=Art of the Shield
+descr=Your resistance to damage is improved. Permanently gain +1 DEF.
+
+< CARD_ARTOFEVASION_EFFECT >
+name=Art of Evasion
+descr=Your evasion is improved. Permanently gain +1 EVD.
+
+< CARD_RESOLUTE_EFFECT >
+name=Resolute
+descr=Permanently gain -1 REC.
+
+< CARD_STIMULATION_EFFECT >
+name=Stimulation
+descr=Permanently gain +1 Max HP.
+
+< CARD_CARRIER_EFFECT >
+name=Carrier
+descr=Permanently gain +1 hand size and +1 contract hand size.
+
+< CARD_PREMIUMMEMBERSHIP_EFFECT >
+name=Premium Membership
+descr=All shop costs (excluding the Shady Merchant) will be reduced by 30% after other calculations.
+
+< CARD_JOGGER_EFFECT >
+name=Jogger
+descr=When ending your turn after moving to the end of your final move roll, gain +1 MOV on your next movement roll.
+
+< CARD_JOGGING_EFFECT >
+name=Jogging
+descr=Gain +1 MOV on your next movement roll for each stack.
+
+< CARD_PLENTIFULHARVEST_EFFECT >
+name=Plentiful Harvest
+descr=You will gain stars upon completing Bounties.
+
+< CARD_COMMANDER_EFFECT >
+name=Commander
+descr=Can take control of owned summons.
+
+< CARD_SWEETMOUNTAIN_EFFECT >
+name=Sweet Mountain
+descr=Able to play additional Boost cards for 1/3 of their cost.
+
+< CARD_CHAOS_PROTECT_EFFECT >
+name=Chaos Protect
+descr=For any damage you take, consume a stack for each up to 2 damage to lower it to 1.
+
+< CARD_CHAOS_HYPE_EFFECT >
+name=Hype
+descr=She's hyped.
+
+< CARD_CHAOS_RAMPAGE_EFFECT >
+name=Chaos Rampage
+descr=Gain +1 ATK for each stack.
+
+< CARD_CHAOS_MUSCLE_EFFECT >
+name=Chaos Muscle
+descr=Gain +1 base ATK for each stack (up to +3 base ATK).
+
+< CARD_CHAOS_GUARD_EFFECT >
+name=Chaos Guard
+descr=Gain +1 base DEF for each stack (up to +3 base DEF).
+
+< CARD_CHAOS_SPEED_EFFECT >
+name=Chaos Speed
+descr=Gain +1 base EVD for each stack (up to +3 base EVD).
+
+< CARD_CHAOS_LAUNCH_EFFECT >
+name=Chaos Launch
+descr=At the start of your turn, dive to chosen panel dealing Lvl x1 damage to units within 2 panel radius, and Lvl x2 damage to units within 1 panel radius.
+
+< CARD_CHAOS_DIVE_FATIGUE_EFFECT >
+name=Dive Fatigue
+descr=Cannot Norma while this effect is active.
+
+< CARD_BOMBIMMUNITY_EFFECT >
+name=Explosion Immunity
+descr=Take no damage from bomb explosions until the beginning of next chapter.
+
+< CARD_HOTPOTATO_EFFECT >
+name=Hold the Gremlin
+descr=It's only a matter of time before you explode!
+
+< CARD_SLUMBERTHREATS_EFFECT >
+name=Threats to My Slumber
+descr=When you cancel exactly 1 damage in battle, gain a stock of Waking.
+
+< CARD_WAKING_EFFECT >
+name=Waking
+descr=Number of times your slumber has been threatened.
+
+< CARD_PRISONBREAK_EFFECT >
+name=Make-Believe Prison Break
+descr=Cannot be challenged or be the target of other players' Boost cards. Immune to Trap cards, instant KO effects, and card damage from other players. Roll 2 dice for movement. Lose 1 stack for each panel traversed.
+
+< CARD_MOTHERPOWER_EFFECT >
+name=Mother Power
+descr=Gain Lvl x1 stars for every point of damage you take. If the effect ends or is replaced while active, heal to full HP. Effect ends on KO.
+
+< CARD_HYPERMIRACLE_EFFECT >
+name=Ellie's Hyper Miracle
+descr=Effect Duration: 2 chapters. Gain +X ATK in battle when attacker, and +X DEF and +X EVD when defender. X = your total Norma completed.
+
+< CARD_MOMENTOFGLORY_EFFECT >
+name=Ex-Protagonist's Moment of Glory
+descr=Cost: Lvl x10. Lower your HP to 1. Effect Duration: 3 chapters. Gain +4 ATK and +5 EVD.
+
+< CARD_HKAIPASSIVE_EFFECT >
+name=Second Wind
+descr=If you would go under 1 HP from out of battle damage, stay on 1 HP. If you are still at 1 HP at the next end of your turn, suffer KO.
+
+< CARD_WARPCONTROL_EFFECT >
+name=Warp Control
+descr=Upon triggering a Warp or Warp Move, consume this effect and choose another Warp-type panel destination of your choice.
+
+< CARD_NANAKOBIT_EFFECT >
+name=Nanako's Bit
+descr=Randomly gain +1 ATK, +1 DEF, or +1 EVD at the start of battle while this card is held, and lose 7 stars.
+
+< CARD_CANNONBALL_EFFECT >
+name=Cannonball Counter
+descr=Gained upon playing a card.
+
+< CARD_BOURBON_EFFECT >
+name=Broken Fin
+descr=-1 Max HP for each stack. Effect expires on KO.
+
+< CARD_HEART_OF_RESISTANCE_EFFECT >
+name=Heart of Resistance
+descr=If active, take the place of target in battle the next time they are challenged or challenge a unit.
+
+< CARD_HYPER_POYO_EFFECT >
+name=Super Youth Time
+descr=Double your natural die rolls for Attack, Defense, Evade, Move, Bonus and Drop.
+
+< CARD_HYPER_CHUU_EFFECT >
+name=I'll Get a Little Into It
+descr=Gain +1 ATK for each stack. Gain no stars from defeating enemies. The first time you defeat a player in battle while this effect is active, gain 2 Wins.
+
+< CARD_CHAOS_SLAYER_EFFECT >
+name=Soul of the Slayer
+descr=You and other soulmates are linked by a mystic bond.\nREC is reduced by 1, and you will always roll 2 dice for movement. You can also heal and revive other soulmates.
+
+< CARD_CHAOS_TANK_EFFECT >
+name=Soul of the Tank
+descr=You are ordered to crush your enemies.\nATK +2, Max HP is highly increased, and immune to instant KO and HP reduction effects. Healing effects are void.
+
+< CARD_CHAOS_TERRORIZE_EFFECT >
+name=Terrorized
+descr=REC +3 on each KO after the effect is applied.
+
+< CARD_HYPER_HARUKA_GLOBAL_EFFECT >
+name=Hype Bringer
+descr=If another player suffers KO, they recover instantly with full HP.
+
+< CARD_HYPER_HARUKA_PERSONAL_EFFECT >
+name=Hyped!
+descr=When another player suffers KO, gain their Lvl x 5 stars. This effect can stack with multiple Hype Bringer active.
+
+< CARD_INTELLECTUALBLUFF_EFFECT >
+name=Intellectual-Sounding Bluff
+descr=If the next card you play is the setter's Chosen type: They gain 2 Wins and Lvl x 10 stars.\nDeclared only: They take 2 damage.
+
+[EOF]

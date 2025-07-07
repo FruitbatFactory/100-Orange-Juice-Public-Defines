@@ -1,0 +1,159 @@
+<0000> Eeey!
+<0001> Certo, certo.
+<0002> O que vai ser?
+<0003> Aqui!
+<0004> Eu acho que vou jogar uma carta aqui.
+<0005> Isso poderá ser útil.
+<0006> Ta-dah!
+<0007> Eu vou tentar isso!
+<0008> Heheh.
+<0009> Isso fica aqui.
+<0010> Aqui vai uma Carta de Armadilha.
+<0011> Olha só o que tenho aqui.
+<0012> Carta de Batalha!
+<0013> Eu não sou tão forte, mas essa carta vai me ajudar a ganhar!
+<0014> Para que eu não seja atingida.
+<0015> Uma pequena melhoria.
+<0016> Eu vou liderar o caminho!
+<0017> Vamos começar a caminhar novamente.
+<0018> Eu posso fazer um pouquinho mais.
+<0019> Eu estou melhor agora.
+<0020> Desculpa por te segurar.
+<0021> Eu acho que preciso de um pouco de descanso.
+<0022> Hmm.
+<0023> Esse foi um problema.
+<0024> Arrrgh...
+<0025> Eey!
+<0026> *Tapa tapa*!
+<0027> Hoy!
+<0028> Tey!
+<0029> Ai!
+<0030> Isso dói!
+<0031> Como ousa!
+<0032> Uuugh!
+<0033> Ufa, isso é realmente bom.
+<0034> Eu estou conseguindo minha energia de volta!
+<0035> Eu já me sinto muito melhor.
+<0036> Oh, isto é incrível!
+<0037> Ei!
+<0038> Aiaiaiaiai!
+<0039> Isto arruína todo meu itinerário de viagem!
+<0040> Awah!
+<0041> Não consigo mais ficar de pé.
+<0042> Oww.
+<0043> É melhor eu não fazer coisas nas quais eu não sou boa.
+<0044> Ah, qual é.
+<0045> Eu deveria atacar primeiro.
+<0046> Eu estou pronta para fazer isso!
+<0047> Eu vou ter que te tirar do meu caminho.
+<0048> Yah!
+<0049> O quê?!
+<0050> Qual o teu problema cara?
+<0051> Eu estou assustada!
+<0052> Não faça isso.
+<0053> Desculpinha!
+<0054> Hah!
+<0055> Toma essa!
+<0056> Yaah yaah!
+<0057> Kyah!
+<0058> Wah!
+<0059> Isto dói.
+<0060> Aaah!
+<0061> Isto realmente dói!
+<0062> Gyah!
+<0063> Por que você faria isso comigo?!
+<0064> Guwah!
+<0065> Foi por pouco.
+<0066> Eita caramba.
+<0067> Dá para você parar?
+<0068> Tão perto, tão incrívelmente perto.
+<0069> *Suspira* Não sou do tipo lutadora.
+<0070> Bom trabalho, eu...
+<0071> Mano, isso foi assustador.
+<0072> Quase fui derrotada.
+<0073> Oh não...
+<0074> Mas é claro...
+<0075> Eu não quero mais fazer isto...
+<0076> Seu maldito!
+<0077> Nós conseguimos alguns tesouros.
+<0078> Vamos pegar estes.
+<0079> Viajar requer dinheiro.
+<0080> É meu dia de sorte!
+<0081> Espere, ei, eu disse espere!
+<0082> Oh meu deus.
+<0083> Eu realmente não queria ver isto acontecer!
+<0084> Não...!
+<0085> É sério isso?!
+<0086> Isto é cruel!
+<0087> Por que é que existe uma armadilha aqui!
+<0088> Eu não acredito que não consegui encontrar.
+<0089> Aquela coisa parece realmente perigosa.
+<0090> Isso não é nada bom.
+<0091> O ar parece meio pesado por aqui...
+<0092> Oh meu deus... Olha o que temos aqui.
+<0093> Dinheiro é importante.
+<0094> Uma viagem para coletar estrelas parece ser muito divertida, também.
+<0095> Afinal de contas, é preciso dinheiro para sobreviver.
+<0096> Vamos coletá-las em nosso caminho, pode ser?
+<0097> Hmm, eu não sou uma grande fã de coisas desse tipo.
+<0098> Bom, creio que não tenho escolha.
+<0099> As vezes sinto vontade de sair com tudo.
+<0100> Certo certo, farei isto.
+<0101> Eu sou a Halena.
+<0102> Você precisa da minha ajuda?
+<0103> Eu vou te guiar para a vitória.
+<0104> Eu sou a guia, Halena!
+<0105> Uma jornada divertida começa com o primeiro passo.
+<0106> Diz aí, você está em boa forma?
+<0107> Vamos fazer dessa jornada algo divertido.
+<0108> Dia perfeito para viajar.
+<0109> Você está grato que você me seguiu, né?
+<0110> Bem, eu vi o caminho para esta vitória.
+<0111> Agora você sabe o quão boa sou como guia, certo?
+<0112> Eu realmente sou uma guia fantástica, não é mesmo?
+<0113> Sempre esteja bem preparado para uma viagem.
+<0114> Dê uma olhada, eu recomendo esta coisa.
+<0115> Oh, o que você acha desse aqui?
+<0116> Eu gosto desse aqui.
+<0118> Saber seu limite é uma boa coisa.
+<0119> Pessoa certa, lugar certo, hora certa.
+<0120> Vamos trocar.
+<0121> OK!
+<0122> Essa é uma boa ideia.
+<0123> Eu consigo.
+<0124> Melhor não.
+<0125> Hmm.
+<0126> Bom trabalho.
+<0127> Hmm?
+<0128> Certo, vamos indo!
+<0129> Lá vamos nós!
+<0130> Estarei torcendo por você.
+<0131> Olá.
+<0132> Hm... Hmm.
+<0133> Ótimo!
+<0134> Eu estou impressionada.
+<0135> Uh-oh.
+<0136> Eu geralmente evito usar coisas que não estou familiarada com, mas...
+<0137> Bom, acho que vou dar uma chance.
+<0138> Por que eu não tento usar isso?
+<0139> Vamos ver o que vai acontecer.
+<0140> Cook! Você está fazendo uma pegadinha de novo?
+<0141> Você está de mau humor, Cook?
+<0142> Nossa, você precisa se comportar, beleza?
+<0143> Você está me machucando. Eu já disse que você venceu!
+<0144> Hmm, posso pressentir o perigo.
+<0145> Eu não acho que seja seguro ali.
+<0146> Existe uma armadilha aqui!
+<0147> Essa foi por pouco!
+<0148> Eeeeeita!
+<0149> Quase nos atingiu. Ufa.
+<0150> Você teria pisado nisso se não fosse por mim.
+<0151> Não adianta.
+<0152> É preciso agarrar bem neles.
+<0153> As estrelas vão ficar nos meus bolsos...!
+<0154> Deixar sua carteira cair não é nem ao menos engraçado.
+<0155> Oh, não deixamos cair nada!
+<0156> Chegamos com segurança.
+<0157> Estamos no destino!
+<0158> É aqui que você queria ir, né?
+<0159> Estamos aqui. Eba!

@@ -1,0 +1,1261 @@
+< CARD_BOOST_COOP_GENTLEMANSBATTLE >
+name=신사의 결투
+descr=HP가 가득한 적을 선택해 배틀한다. 배틀 이후 턴을 종료한다.
+flavor="받아라." ―길드장
+
+< CARD_EVENT_COOP_DINNER >
+name=디너
+descr=모든 아군의 HP를 3 회복한다.
+flavor="같이 밥 먹자." ―나츠미
+
+< CARD_BATTLE_COOP_SINKORSWIM >
+name=가라앉거나 헤엄치거나
+descr=이 배틀 동안 공격력, 방어력, 회피력 -1을 얻는다. 이 배틀에서 이기면 10스타와 1승을 얻는다.
+flavor="좋아, 인자 막장으로 가보꾸마!" ―유키
+
+< CARD_EVENT_COOP_UNPAIDWORK >
+name=무급 노동
+descr=지속 시간: 1챕터.\n배틀이나 보스 능력으로 인해 스타를 잃지 않는다.
+flavor="제 월급은요!" ―크리스
+
+< CARD_EVENT_COOP_INDISCRIMINATEFIRESUPPORT >
+name=무차별 화력 지원
+descr=지속 시간: 무한.\n무작위 유닛을 지정해 그 유닛이 적이면 피해 1을 준다. 플레이어를 포함한 아무 유닛이 KO될 때까지 사용자의 턴이 시작될 때마다 효과를 반복한다. 사용자를 제외한 플레이어는 피해를 입지 않는다.
+flavor="......" ―소라
+
+< CARD_BATTLE_COOP_DECEPTIVEDISARMING >
+name=사기 무장해제
+descr=이 배틀에서 KO되지 않는다면 다음 보스 카드 발동을 취소한다. 보스 상대로만 사용할 수 있다.
+flavor="이 열차 위험한 게 잔뜩이잖아!" ―토마토
+
+< CARD_EVENT_COOP_PETSNACKS >
+name=펫 간식
+descr=보스와 활동중인 모든 부하들이 다음 배틀에서 -1 공격력을 얻는다. 이 효과는 중첩된다.
+flavor="얘들아, 간식 시간이야! 이리 온!" ―슈라
+
+< CARD_BOOST_COOP_FREIGHT >
+name=화물
+descr=자신의 홈 패널에 멈출 때 이 카드를 버리고 5스타를 얻는다.\n이 카드는 사용 시 버려진다.
+flavor="그 화물은 전부 가지셔도 됩니다, 되고 말고요." ―상인
+
+< CARD_EVENT_COOP_FORCEDREVIVAL >
+name=강제 소생
+descr=KO된 모든 유닛이 소숫점을 반올림한 절반의 HP로 부활한다.
+flavor="좀 있으면 나을 거야." ―키리코
+
+< CARD_EVENT_COOP_REBELLION >
+name=반란
+descr=지속 시간: 2챕터.\n보스의 HP가 모든 플레이어의 HP의 합보다 높다면 모든 플레이어는 보스를 상대로 한 배틀을 시작할 때 공격력, 방어력, 회피력 +1을 얻는다.
+flavor="머잖아 길드에선 널 내치고 말 거야... 기억해 둬." ―셰리
+
+< CARD_GIFT_COOP_POPPOTHESNATCHER >
+name=소매치기 폿포
+descr=방어력 -1을 얻는다. 자신의 턴에 적을 지나칠 때 내 레벨 x3만큼의 스타를 빼앗는다. 노르마를 달성할 수 없다. 이 카드는 KO 혹은 사용 시 버려진다. 
+flavor="포꺄꺄!!" ―폿포
+
+< CARD_TRAP_COOP_BANKOFPOPPO >
+name=폿포 은행
+descr=보스가 챕터 수 x2만큼의 스타를 잃고 그만큼의 스타가 이 트랩에 저장되고 이 트랩은 보드에 남는다. 이 트랩을 두 번째로 발동하는 유닛은 이 트랩에 저장된 스타를 얻는다.
+flavor="내 돈이...!" ―카이
+
+< CARD_BOOST_COOP_MYWILDFRIENDS >
+name=나의 야생 친구들
+descr=소환 가능한 야생 유닛 타입 중 하나를 무작위로 골라 우호 유닛으로 내 패널 위에 소환하고 그 유닛은 HP 2점을 획득한다. \n소환된 유닛은 마주치는 모든 적에게 도전하며 획득하는 스타의 절반을 소환자에게 준다. 이미 소환한 유닛이 있으면 기존 소환 유닛을 대체한다.
+flavor="가끔씩 느긋하게 있으면 좋다구." ―테오토라타
+
+< CARD_BATTLE_COOP_CONTESTOFCUTENESS >
+name=귀여움 대회
+descr=공격자만 사용할 수 있다. 배틀의 승패가 귀여움 수치를 비교하여 정해진다.\n각 유닛의 귀여움 수치는 10 - 최대 HP - 공격력 + 회피력과 같되 0보다 내려가지 않는다.\n양 유닛은 공격 굴림 대신에 주사위 2개를 굴려 그 값을 귀여움에 더한다. 귀여움이 높은 쪽이 승자가 되며 승자는 패자로부터 플레이어 레벨 x5만큼의 스타를 빼앗고 1승을 얻는다.  그 뒤 배틀을 종료한다.
+flavor="그럼, 누가 제일 귀여운가요?" ―사키
+
+< CARD_HYPER_COOP_ALTE >
+name=자폭
+descr=KO 시 적에게 자신의 최대 HP만큼의 피해를 준다. 적은 스타도 승리 수도 얻지 못하고 이 효과로 KO당할 경우 가진 스타를 절반 잃는다.
+flavor="돌아가지 못해서... 미안해..." ―알테
+
+< CARD_HYPER_COOP_ARU >
+name=프레젠트 포 유
+descr=모든 플레이어는 패가 가득해질 때까지 카드를 뽑는다. 이미 패가 가득해도 한 장을 뽑는다.
+flavor="착한 아이들에겐 선물이야-" ―아루
+
+< CARD_HYPER_COOP_ARTHUR2 >
+name=하비샵 우사
+descr=덱에서 카드를 한 장 뽑는다. 이 카드는 발동 후에도 보드에 남아있지만 다른 트랩으로 덮어씌울 수 있다. 적과 이 트랩을 세팅한 플레이어에게는 무효.
+flavor="자, 가게를 열어볼까." ―아서
+
+< CARD_HYPER_COOP_ARUSCRAMBLE >
+name=산타의 일
+descr=턴 행동 대기 중에 사용 가능한 레벨의 다른 카드 한 장을 골라 무작위 플레이어에게 보낼 수 있다. 보낸 카드의 레벨*5만큼의 스타를 얻는다. 이 카드는 KO 혹은 사용 시 버려진다.
+flavor="기다려라, 온 세상의 아이들아!" ―아루
+
+< CARD_HYPER_COOP_CHICKEN >
+name=황금 달걀
+descr=레벨 x 10스타를 얻는다.
+flavor="꼬꼬댁-!" ―닭
+
+< CARD_HYPER_COOP_FERNET >
+name=비행선 폭격
+descr=모든 적은 피해 1~2점을 받는다. KO된 유닛당 15스타를 얻는다.
+flavor="흥, 떨어져버리렴." ―페르넷
+
+< CARD_HYPER_COOP_HIME >
+name=속박의 사슬
+descr=스톡 효과.\n모든 적은 다음 턴을 스킵한다. 행동 가능한 모든 적에게 "속박"을 부여한다. 지속 시간: 2챕터. 회피력 -2와 이동력 -1을 얻는다.
+flavor="이런 일은 마음에 안 들어." ―히메
+
+< CARD_HYPER_COOP_IRU >
+name=연장 포톤 라이플
+descr=★코스트: 레벨 x5\n적들에게 레벨 수만큼의 피해를 무작위로 1씩 나눠서 준다. 적이 KO되면 1승을 얻는다.
+flavor="전부 쏴맞힐 거야." ―이루
+
+< CARD_HYPER_COOP_KAE >
+name=블레이징!
+descr=자신과 주변 2칸 범위 안에 있는 유닛에게 중첩 가능한 블레이징! 효과를 걸고 이미 존재하는 블레이징!의 지속 시간을 갱신한다.\n지속 시간: 2챕터\n플레이어라면 공격력 +1을 얻고, 적이라면 방어력 -1을 얻는다. KO 시 이 효과는 사라진다.
+flavor="좋아! 좋아! 지금 기분 최고야!" ―카에
+
+< CARD_HYPER_COOP_KAI >
+name=주인공의 특권
+descr=지속 시간: 3챕터\n언제나 선공하며 적 유닛은 (한 배틀 당 한 번) 반격할 수 없다. 
+flavor="이게 주인공의 특권이란 거다!" ―카이
+
+< CARD_HYPER_COOP_KIRIKO >
+name=마무리 수술
+descr=HP 1만 남은 모든 유닛을 KO시키고 KO시킨 유닛당 이상한 약 1중첩을 제거하고 25스타를 얻는다. KO된 동료는 부활값 -2를 얻는다.
+flavor="얼른 치료해줄 테니까, 얌전히 있어." ―키리코
+
+< CARD_HYPER_COOP_KRILAEVENT >
+name=인형 마스터
+descr="춤춰라 귀 긴 야수여"3~5장을 무작위 패널에 세팅한다.
+flavor="춤춰라, 귀 긴 야수여!" ―크릴라라리스
+
+< CARD_HYPER_COOP_KRILATRAP >
+name=춤춰라 귀 긴 야수여
+descr=피해 2를 입는다. 이 카드를 세팅한 플레이어는 HP 1을 얻는다.\n스톡 효과: 다음 배틀에서 공격력 -2를 얻는다.\n동료들은 이 카드를 발동시키지 않는다.
+flavor="춤춰라, 귀 긴 야수여!" ―크릴라라리스
+
+< CARD_HYPER_COOP_MALT >
+name=황혼빛 꿈
+descr=★코스트: 레벨 x7\n지속 시간: 레벨만큼의 챕터\n동료들이 보스 패널에서 공격력 +1을 얻는다. 적이 내가 트랩 카드로써 세팅한 배틀 카드가 있는 패널을 지나갈 때 적은 그 패널에서 멈춘다.
+flavor="수많은 날개가 하늘을 노니는 모습이... 마치 꿈 같은 광경 아닌가." ―몰트
+
+< CARD_HYPER_COOP_MASTER >
+name=영구 추방
+descr=★코스트: 보유 스타/10\n사용 시 보스가 다음 능력을 생략한다.
+flavor="점장님, 부탁해요-!!" ―크리스
+
+< CARD_HYPER_COOP_MAYNIE >
+name=뚜껑 폭발
+descr=분노 카운터 1개를 얻고 분노 모드에 들어간다. 분노 모드 동안에는 분노 카운터의 절반을 반올림한 수치만큼의 공격력과 회피력을 얻는다. 턴을 시작할 때마다 분노 카운터 1개를 잃는다. 분노 카운터가 0개가 되면 분노 모드를 종료한다.
+flavor="갸오오오!" ―메이니
+
+< CARD_HYPER_COOP_MEI >
+name=화이트 크리스매셔
+descr=패를 모두 버리고 주변 1칸 이내의 패널에 있는 적들에게 피해 2를 준다.\nKO된 적마다 1승과 내 레벨*5만큼의 스타를 얻는다.\n패에 "아카와 아오"가 있으면 이 카드는 "진 화이트 크리스매셔"가 된다.
+flavor="화이트 크리스매셔!" ―메이
+
+< CARD_HYPER_COOP_MEITRUE >
+name=진 화이트 크리스매셔
+descr=주변 2칸 이내의 패널에 있는 적들에게 피해 4를 준다.\nKO된 적마다 2승과 내 레벨*10만큼의 스타를 얻는다.\n패에 "아카와 아오"가 없으면 이 카드는 "화이트 크리스매셔"가 된다.
+flavor="화이트 크리스매셔!" ―메이, 아카, 아오
+
+< CARD_HYPER_COOP_NATH >
+name=또 하나의 최종병기
+descr=★코스트: 추가 효과 1회당 10스타.\n공격력과 방어력 +1을 얻고 공격력이 +9가 될 때까지 추가로 공격력과 방어력 +1을 얻는다.
+flavor="당신이 사라졌기 때문에, 제가 대신 최종병기가 되었습니다." ―나트
+
+< CARD_HYPER_COOP_NONAME >
+name=통솔자
+descr=배틀을 종료한다. 상대는 대신 시후 로봇 보스와 배틀한다. 이 카드는 보스 상대로만 쓸 수 있다.
+flavor="하하하, 내 친구가 와줬구나!" ―NoName
+
+< CARD_HYPER_COOP_POPPO >
+name=신출귀몰
+descr=선택한 적의 패널로 이동하고 자신의 레벨*10만큼 스타를 훔친다.
+flavor="폿포! 폿포포포포포-!" ―마리 폿포
+
+< CARD_HYPER_COOP_QPD >
+name=스위트 가디언
+descr=사용 혹은 버릴 시 게임에서 제외되는 "푸딩" 카드 두 장을 받는다. 
+flavor="푸딩... 저는... 저는... 당신을 사랑해요." ―큐피
+
+< CARD_HYPER_COOP_SAKI >
+name=빅뱅 벨
+descr=이 카드가 세팅된 위치에서 2패널 이내 범위에 있는 적은 2+세팅 후 지난 챕터 수/2의 피해를 입는다. 이 효과로 KO된 적이 가진 스타의 절반이 이 카드를 세팅한 플레이어에게 간다.
+flavor="마우우우우랴아아아아아!!" ―사키
+
+< CARD_HYPER_COOP_SHAM >
+name=델타 필드
+descr=이 배틀 동안 상대가 굴리는 모든 주사위 눈이 1이 된다.
+flavor="그래도 돌아가지 않겠다면, 억지로라도 데려갈 거야!" ―샴
+
+< CARD_HYPER_COOP_SHERRY >
+name=변덕쟁이 풍차
+descr=보스와 배틀을 한다. 보스가 선공한다. 배틀 중 회피력 +1.
+flavor="우리들은 있지, 마음대로 날고 싶은 것뿐이야." ―셰리
+
+< CARD_HYPER_COOP_STARBREAKER >
+name=별의 도화선
+descr="보이지 않는 폭탄"을 3~5장 무작위 패널에 세팅한다.
+flavor="왜냐면 나는 스타 브레이커, 별을 부수는 도화선이거든." ―스타 브레이커
+
+< CARD_HYPER_COOP_STARBREAKER2 >
+name=보이지 않는 폭탄
+descr=적에게 피해 4를 입힌다. 동료에겐 효과가 발동하지 않는다. 팀 전원에게 보인다.
+flavor="왜냐면 나는 스타 브레이커, 별을 부수는 도화선이거든." ―스타 브레이커
+
+< CARD_HYPER_COOP_SWEETBREAKER >
+name=녹아가는 기억
+descr=★코스트: 스타 / 10\n보스의 패 순서를 섞는다.\n모든 적에게 다음 효과의 녹아가는 기억을 부여한다. 지속 시간: 3챕터. KO시 효과 종료.
+flavor="신인 제게 싸움을 걸다니 어리석군요, 쓰디쓴 패배를 맛볼 준비를 하도록." ―스위트 브레이커
+
+< CARD_HYPER_COOP_TEQUILA >
+name=해적은 하늘을 나는가
+descr=무작위 적 하나에게 해적 부하 둘을 소환해 배틀시킨다. 해적 부하들이 선공한다.
+flavor="해적이 하늘을 날면 안 된다는 법 따위 없다 이거야." ―테킬라
+
+< CARD_HYPER_COOP_TOMATO >
+name=와루다 머신 발진!
+descr=이 배틀 동안 동료 플레이어들이 지닌 패 2장당 공격력과 방어력 +1 그리고 회피력 -1을 얻는다.
+flavor="리벤지!" ―토마토
+
+< CARD_HYPER_COOP_TOMOMO >
+name=살육 마법
+descr=KO된 동료 한 명당 모든 적에게 피해 3을 준다.
+flavor="사라져버려라." ―토모모
+
+< CARD_HYPER_COOP_TOMOMOSWEETEATER >
+name=매지컬 리벤지
+descr=잃은 HP만큼의 피해를 무작위 적에게 1씩 나눠입힌다. 이 효과로 적이 KO당하면 1승을 얻는다. 패를 쥔 플레이어가 토모모(스위트 이터)가 아닐 경우 이 카드는 미라클 팥바가 된다.
+flavor="매지컬 리벤지다아!" ―토모모
+
+< CARD_HYPER_COOP_TSIH >
+name=스텔스 온
+descr=지속 시간: 3챕터\n적의 도전 대상이 되지 않는다.\n엔카운터와 보스 패널을 발동하지 않는다.\n배틀에 들어가면 효과가 사라진다.\n배틀에 들어갈 때 공격력 +2를 얻는다.
+flavor="슥하고 사라지는 구야!" ―츠이
+
+< CARD_HYPER_COOP_YUKI >
+name=갬블!
+descr=자신 혹은 보스에게 자신의 현재 최대 HP만큼의 피해를 준다.
+flavor="누구 차례인지 이걸로 정할까?" ―유키
+
+< CARD_HYPER_COOP_YUKIDANGEROUS >
+name=악의 두목
+descr=덱에서 트랩 카드를 세 장 뽑은 뒤 패의 트랩 카드 전부를 무작위 패널에 세팅한다.
+flavor="우리의 힘에 떨그라!" ―유키
+
+< CARD_HYPER_COOP_ARTHUR >
+name=점포 확대 전략
+descr=★코스트: 가진 카드 수 x5\n이 카드를 포함해 패의 모든 카드를 "하비샵 우사"로 바꾼다.\n이 턴 동안 카드를 한 장 더 쓸 수 있다.
+flavor="후우..." ―아서
+
+< CARD_HYPER_COOP_MIMYUU >
+name=악의 공작 활동 - 실행
+descr=이 카드는 낼 수 없다.\n이 카드를 쥐고 있으면 턴이 끝날 때 HP 2를 회복하고 이 카드를 게임에서 제외한다.
+flavor="걸렸구나! 먹어라!!" ―미뮤우
+
+< CARD_HYPER_COOP_NATSUMI >
+name=쿠킹 타임
+descr=★코스트: 레벨 x5\n모든 플레이어의 HP를 자신의 레벨만큼 회복한다. 
+flavor="밥이야-♪" ―나츠미
+
+< CARD_HYPER_COOP_YUUKI_DEVIL >
+name=데블 핸드
+descr=무작위 적에게 대상을 KO시키지 않고 피해를 최대 5까지 준다. 이 효과로 준 피해 1점당 10스타를 얻는다.  이 카드는 홀수 챕터에 엔젤 핸드가 된다.
+flavor="이게 바로 악마의 힘이다!" ―유우키
+
+< CARD_HYPER_COOP_MIO >
+name=매지컬 인페르노
+descr=자신이 있는 패널에서 가로 또는 세로 방향으로 연속되는 다른 패널에 있는 모든 적 유닛에게 피해 5를 준다. KO당한 적의 스타를 배틀에서 KO시켰을 때 가져갈 수 있는 만큼 가져간다. 그리고 턴을 종료한다.
+flavor="인페르노!" ―미오
+
+< CARD_HYPER_COOP_ISLAY >
+name=라이벌
+descr=적을 선택해 배틀을 한다. 자신이 선공한다. 해당 배틀 동안 공격력 +1을 얻는다.
+flavor="너랑 마찬가지로... 나도 싸워야만 하거든." ―아일레이
+
+< CARD_HYPER_COOP_COOK >
+name=풍향계의 인도
+descr=스톡 효과. \n배틀을 제외한 모든 굴림에서 주사위 2개를 굴린다. 이 효과는 KO 시 종료된다.
+flavor="짹짹! 쿡 이쪽으로 갈래." ―쿡
+
+< CARD_HYPER_COOP_TEOTORATTA >
+name=야수 마녀
+descr=보스 또는 부하로 인한 스타 손실을 방지한다. 이 효과가 발동할 시 이 카드를 버린다.
+flavor="야수들아! 나를 따르라!" ―테오토라타
+
+< CARD_HYPER_COOP_CUTIES >
+name=특별 스테이지
+descr=★코스트: 레벨 x10\n레벨 만큼의 턴동안 라이브 모드에 들어간다. 이동력 -3을 얻고 이동과 워프 계열 패널만을 발동할 수 있으며 카드를 사용할 수 없다. 배틀 도전을 받지 않는다. 적이 2패널 거리 내에서 턴을 종료하면 자신 레벨 x5만큼의 스타를 빼앗는다. KO 시 효과 종료.
+flavor="이것이 최강의 귀염둥이!" ―소라 & 샴
+
+< CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE >
+name=재력 (X)
+descr=보스와 배틀한다. 보스는 재력 레벨만큼의 공격력을 잃는다. 나는 공격할 수 없다. 이 배틀에서 KO되지 않으면 상대는 재력 레벨 x 20스타를 준다.\n이 카드가 재력 (4)가 아닐 경우 이 카드의 코스트를 지불해 이 카드를 업그레이드할 수 있다.\n이 카드를 가진 유닛이 페르넷이 아니라면 이 카드는 사교계 데뷔가 된다.
+flavor="부탁하고픈 일이 있다고요...? 어머, 친구를 도울 수 있다면 저야말로 환영이랍니다." ―페르넷
+
+< CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE_V >
+name=재력 (%d)
+descr=보스와 배틀한다. 보스는 재력 레벨만큼의 공격력을 잃는다. 나는 공격할 수 없다. 이 배틀에서 KO되지 않으면 상대는 재력 레벨 x 20스타를 준다.\n이 카드가 재력 (4)가 아닐 경우 이 카드의 코스트를 지불해 이 카드를 업그레이드할 수 있다.\n이 카드를 가진 유닛이 페르넷이 아니라면 이 카드는 사교계 데뷔가 된다.
+flavor="부탁하고픈 일이 있다고요...? 어머, 친구를 도울 수 있다면 저야말로 환영이랍니다." ―페르넷
+
+< CARD_HYPER_COOP_SHIFU >
+name=생각대로의 세계
+descr=지속 시간: 2챕터.\n활동중인 플레이어를 선택한다. 배틀에서 로봇 유닛이 그 플레이어를 대신해 싸운다. 이 로봇 유닛은 배틀에서 공격력 +1을 얻는다.
+flavor="모든 것을 나의 생각대로." ―시후
+
+< CARD_HYPER_COOP_REIKA >
+name=스타 콜렉터
+descr=지속 시간: 3챕터.\n플레이어가 패널이나 배틀 KO를 통해 스타를 획득할 때마다 추가로 레벨만큼의 스타를 얻는다.
+flavor="후후후, 별이 잔뜩." ―레이카
+
+< CARD_HYPER_COOP_WATTY >
+name=마법의 격류
+descr=지속 시간: 3챕터\n방어력 +2를 얻는다. 단단한 비늘의 최대 중첩이 10으로 증가한다.\n단단한 비늘 10중첩을 얻으면 레벨만큼의 피해를 보스에게 입히고 그 절반의 피해를 필드에 있는 나머지 모든 적들에게 입힌다.
+flavor="그-그러시면 위험... 죄송해요." ―와티
+
+< CARD_HYPER_COOP_POMERANIUS >
+name=세상에서 제일 착한 애
+descr=지속 시간: 3챕터.\n보스 패널을 무시한다.\n자신 또는 다른 플레이어의 턴이 끝날 때 서로가 같은 패널에 위치하면 양쪽 모두 카드를 1장씩 뽑는다.\n배틀에 도전하거나 도전받지 않는다. 플레이어가 멈춰서 당신을 쓰다듬을 수 있다.
+flavor="끼잉 낑..." ―포메라니우스
+
+< CARD_HYPER_COOP_SWEETCREATOR >
+name=스위트 낙원
+descr="스위트 탐닉"을 3~5장 무작위 패널에 앞면이 위로 가도록 세팅한다.
+flavor="이것이 스위트 신의 힘이니라!"  ―스위트 크리에이터
+
+< CARD_HYPER_COOP_SWEETCREATOR2 >
+name=스위트 탐닉
+descr=무작위 비 하이퍼 스위트 계열 카드 3장을 획득한다. 동료들만 발동시킬 수 있다.
+flavor="좋든 싫든 스위트를 잔뜩 먹여주겠느니라."  ―스위트 크리에이터
+
+< CARD_HYPER_COOP_MIOFESTIVE >
+name=크리스마스 인페르노
+descr=HP가 1점이 된다. 보스에게 잃었던 HP만큼의 피해를 주고 나머지 적에게는 그 반올림된 절반의 피해를 준다. 현재 KO 상태인 동료 수만큼의 "미오의 크리스마스 케이크"를 얻는다.
+flavor="너희 모두에게 지옥을 보여줄게." ―미오
+
+< CARD_BOOST_COOP_XMASCAKE >
+name=미오의 크리스마스 케이크
+descr=다음 효과 중 하나를 선택한다:\n- 먹어서 HP 2를 획득한다.\n- 대상 플레이어와 나눠먹어 HP를 2점 회복시킨 뒤 자신도 같은 양만큼 회복한다.
+flavor="내 야심작이야. 맛있게 먹어♡" ―미오
+
+< CARD_HYPER_COOP_KRILAPAJAMA2 >
+name=내가 눈뜰 때
+descr=보스에게 각성 스톡+1만큼의 피해를 주고 나머지 적에게는 그 반올림된 절반의 피해를 준다. 각성 스톡을 전부 제거한다. 제거한 각성 스톡 2개당 HP 1점을 획득한다.
+flavor="좋은 아침을 고할 때가 다가오는구나..." ―크릴라라리스
+
+< CARD_HYPER_COOP_MIMYUUJAILBIRD >
+name=탈옥 놀이
+descr=자신의 홈 패널로 이동하되 패널을 발동시키지 않는다. 도전받지 않는다. 보스로부터 비롯한 트랩 카드, 카드 효과로 인한 피해에 면역이 된다. 이동 시 주사위 2개를 굴린다. 효과는 누적 20패널을 이동한 뒤 종료된다.
+flavor="타다다다다!" ―미뮤우
+
+< CARD_HYPER_COOP_DARKL >
+name=룰루는 불운의 드래곤
+descr=남은 HP가 2점 이하일 때에만 낼 수 있다. 다음 중 한 가지 효과를 무작위로 발동한다:\n-주사위를 굴린다. 모든 적들이 굴림값 x (내 레벨) x2만큼의 스타를 잃고 나는 그만큼의 스타를 얻는다. \n-보스가 다음 행동을 넘긴다.\n-모든 적이 HP 3점을 잃는다.
+flavor="룰루는... 불운의 드래곤이야..." ―다크 룰루
+
+< CARD_HYPER_COOP_GRAIN >
+name=전 포문 개방
+descr=스톡된 대포알 카운터를 전부 지불한다. 무작위 적에게 피해 1점을 준다. 이 효과로 적이 KO되면 1승과 레벨 x10만큼의 스타를 얻는다. 지불한 대포알 카운터 수만큼 반복한다.
+flavor="전 포문 개방... 파이어!" ―그레인
+
+< CARD_HYPER_COOP_HARUKA >
+name=신바람 전도사
+descr=지속 시간: 2챕터.\n다른 플레이어가 KO되면 레벨 x5만큼의 스타를 지불한다. KO당했던 플레이어는 즉시 완전히 회복한다.
+flavor="우리 모두 신나게 가보자구!" ―하루카
+
+< CARD_HYPER_COOP_KANATA >
+name=지적인 블러핑
+descr=지속 시간: 3챕터.\n(배틀/부스트/이벤트/그 외 중에서) 카드 타입을 선택한다.\n누군가가 그 타입의 카드를 내면 카드 1장을 뽑는다.
+flavor="네 패가 훤히 보이는걸." ―카나타
+
+< CARD_BOSS_COOP_DOZE >
+name=꾸벅이
+descr=효과 없음.
+flavor=
+
+< CARD_BOSS_COOP_GROUPUP >
+name=모이기
+descr=모든 아군이 같은 무작위 패널로 워프한다.
+flavor=
+
+< CARD_BOSS_COOP_PECK >
+name=쪼기
+descr=보스가 같은 패널의 모든 플레이어에게 피해 2를 준다.
+flavor=
+
+< CARD_BOSS_COOP_FLIGHT >
+name=비행
+descr=역방향으로 이동한다. 보스가 지나가는 적 모두에게 보스 레벨만큼의 피해를 준다.
+flavor=
+
+< CARD_BOSS_COOP_CHICKEN_ATTACK >
+name=치킨 어택
+descr=보스가 같은 패널의 모든 플레이어를 기습한다.
+flavor=
+
+< CARD_BOSS_COOP_PIYO_MARCH >
+name=피요 마치
+descr=모든 아군이 다음 배틀에서 회피력 +2를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_REGENERATION >
+name=재생
+descr=모든 유닛이 HP 1을 회복한다.
+flavor=
+
+< CARD_BOSS_COOP_PRESENT >
+name=선물
+descr=무작위 패널에 트랩이 세팅된다.
+flavor=
+
+< CARD_BOSS_COOP_HEADLESS_CHICKEN >
+name=목 없는 닭
+descr=보스가 자신의 턴이 끝날 때까지 공격력 +2를 얻는다. 보스의 체력이 50% 미만일 경우 부하들이 공격력과 회피력 +2를 얻고 각자 1패널 범위 이내의 플레이어들을 공격한다.
+flavor=
+
+< CARD_BOSS_COOP_CALL_OF_CHICKEN >
+name=닭의 부름
+descr=새 카드를 뽑고 발동한다.
+flavor=
+
+< CARD_BOSS_COOP_CHICKEN_RUN >
+name=치킨 런
+descr=지속 시간: 2챕터. 필드 위의 모든 부하들이 이동력 +2와 회피력 +1을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_HEN_PECKED >
+name=닭바가지
+descr=보스로부터 1패널 거리 이내의 모든 플레이어에게 보스 레벨만큼의 피해를 준다.
+flavor=
+
+< CARD_BOSS_COOP_SECOND_WING >
+name=계사회생
+descr=모든 적들이 보스 레벨만큼의 HP를 회복한다.
+flavor=
+
+< CARD_BOSS_COOP_SWARM >
+name=닭떼
+descr=모든 부하들이 다음 배틀 동안 공격력 +2를 얻고 무작위 플레이어를 향해 도약해 배틀한다. 플레이어는 반격할 수 없다. 그 뒤에 보스는 "대시"를 사용한다.
+flavor=
+
+< CARD_BOSS_COOP_FINAL_WARNING >
+name=최후통첩
+descr=무작위 플레이어에게 그 플레이어의 남은 HP만큼의 피해를 준다. 보스의 체력이 50% 미만일 때 무작위 플레이어에게 보스 레벨만큼의 피해를 준다.
+flavor=
+
+< CARD_BOSS_COOP_SAVAGE_TALONS >
+name=야만의 발톱
+descr=HP가 제일 낮은 플레이어에게 그 플레이어의 남은 HP만큼의 피해를 준다. 무작위 플레이어는 앞의 플레이어가 지니고 있던 HP만큼의 피해를 입는다.
+flavor=
+
+< CARD_BOSS_COOP_BEAK_OF_GODBIRD >
+name=새 신의 부리
+descr=HP가 가장 낮은 플레이어부터 시작해 1패널 이내의 모든 플레이어를 공격한다. KO시킨 플레이어마다 공격력 +1을 영구히 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_ROOST >
+name=횃대질
+descr=보스가 자신의 패널에 부하 닭 1마리를 4마리 한도로 소환한다.
+flavor=
+
+< CARD_BOSS_COOP_ROOST_HYPER >
+name=횃대질
+descr=보스가 자신의 패널에 부하 닭 2마리를 4마리 한도로 소환한다.
+flavor=
+
+< CARD_BOSS_COOP_MALFUNCTION >
+name=오작동
+descr=자신에게 피해 1을 준다. 이 효과로는 보스의 HP가 1보다 낮아지지 않는다.
+flavor=
+
+< CARD_BOSS_COOP_ATTACK_DOWN >
+name=공격력 다운
+descr=지속 시간: 2챕터\n모든 플레이어가 공격력 -2를 얻는다. 보스는 공격력 +2를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_QUICK_REPAIR >
+name=고속수리
+descr=HP 1을 회복한다.
+flavor=
+
+< CARD_BOSS_COOP_BALANCE_CURRENTS >
+name=조율
+descr=공격력이 양수인 플레이어에게 본인의 공격력만큼의 피해를 준다. 공격력이 음수인 플레이어에게는 본인의 공격력의 반전값만큼의 HP를 회복시킨다.
+flavor=
+
+< CARD_BOSS_COOP_IMMOVABLE_OBJECT >
+name=움직이지 않는 물체
+descr=지속 시간: 2챕터\n이동할 수 없다.\n방어력+2를 얻는다. 반격할 수 있다.\n같은 패널에 들어오는 적은 반드시 보스에게 도전해야 한다.
+flavor=
+
+< CARD_BOSS_COOP_EXTENDED_PHOTON_RIFLE >
+name=로보 빔
+descr=플레이어들에게 현재 챕터 값 / 5 + 1만큼의 피해를 무작위로 1씩 나누어 준다.
+flavor=
+
+< CARD_BOSS_COOP_PROTECT >
+name=보호
+descr=스톡 효과 (보스 레벨+1): 모든 피해를 스택당 3만큼, 최소 1까지 줄인다.\n중첩이 소진되면 3챕터간 방어력과 회피력 -2와 이동력 -1을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_TURBO >
+name=터보
+descr=이번 턴에 이동 주사위 3개를 굴린다.
+flavor=
+
+< CARD_BOSS_COOP_ASSAULTFIELD >
+name=돌격지대
+descr=무작위 패널 3~5개에 "돌격" 트랩을 세팅한다.
+flavor=
+
+< CARD_BOSS_COOP_EVASION_DOWN >
+name=회피력 다운
+descr=지속 시간: 2챕터\n모든 플레이어가 회피력 -2를 얻는다. 보스는 회피력 +2를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_DEFENSE_DOWN >
+name=방어력 다운
+descr=지속 시간: 2챕터\n모든 플레이어가 방어력 -2를 얻는다. 보스는 방어력 +2를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_ENGAGE >
+name=교전
+descr=무작위 플레이어와 배틀한다. 이 배틀 동안 공격력 +2를 얻는다. 이 턴동안 이동 주사위 1개를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_SELF_DESTRUCTION >
+name=자폭
+descr=자신에게 피해 3을 준다. 3패널 이내에 위치한 플레이어는 피해 1을 입는다. 2패널 이내에 위치한 플레이어는 피해 1을 추가로 입는다. 1패널 이내에 위치한 플레이어는 피해 1을 추가로 입는다. 이 효과로는 보스의 체력이 1보다 낮아지지 않는다.
+flavor=
+
+< CARD_BOSS_COOP_SOLID_WITCH >
+name=굳센 마녀
+descr=지속 시간: 1 챕터.\n보스가 피해를 받지 않는다.
+flavor=
+
+< CARD_BOSS_COOP_DELTA_FIELD >
+name=교란 델타 필드
+descr=지속 시간: 2챕터. 모든 플레이어가 굴리는 주사위 눈이 1~3이 된다.
+flavor=
+
+< CARD_BOSS_COOP_IMAGINARY_NUMBERS >
+name=허수
+descr=지속 시간: 1챕터\n주사위 값이 7이 나온다.
+flavor=
+
+< CARD_BOSS_COOP_HEALTH_DOWN >
+name=체력 다운
+descr=모든 플레이어가 다음 효과를 얻는다.\n스톡 효과(1): 최대 HP가 (최저 2까지) 1 낮아진다. KO 시 2스택을 잃는다.
+flavor=
+
+< CARD_BOSS_COOP_RECOVERY_MODE >
+name=수복 모드
+descr=스톡 효과(1): 다음 배틀까지 매 턴 이동 롤을 생략하고 HP 2를 회복한다.
+flavor=
+
+< CARD_BOSS_COOP_PERFECT_REFLECTIVE_SHELL >
+name=완벽 반사 외갑
+descr=보스가 피해를 받을 때 가해 플레이어에게 그만큼의 피해를 준다.
+flavor=
+
+< CARD_BOSS_COOP_RECOVERY_DOWN >
+name=회복 다운
+descr=모든 플레이어의 회복값을 1 높인다.
+flavor=
+
+< CARD_BOSS_COOP_EMP >
+name=전자기 펄스
+descr=모든 플레이어에게 피해 1을 준다.\n지속 시간: 2 챕터\n플레이어는 카드를 사용할 수 없다.
+flavor=
+
+< CARD_BOSS_COOP_BIG_POPPO >
+name=폿포 창출
+descr=필드에 큰 폿포 부하를 소환한다. 큰 폿포는 배틀에서 HP 피해를 주지 않으나 대신 피해 1당 3스타를 빼앗는다. 보스와 별을 공유한다. KO 시 상대에게 보스가 가진 100스타와 3승을 준다.\n부활값 10.
+flavor=
+
+< CARD_BOSS_COOP_NAP >
+name=낮잠
+descr=5스타를 잃는다.
+flavor=
+
+< CARD_BOSS_COOP_ELUSIVE >
+name=교묘
+descr=자선과 랜덤 워프 이벤트가 일어난다. 이번 턴에 보스나 행동 가능한 부하가 플레이어의 타일에 들어갈 때마다 플레이어들은 보스 레벨 * 5스타를 잃고 보스는 레벨 * 5스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_STAR_MANIA >
+name=스타광
+descr=스톡 효과 (1):\n매 챕터마다 스타광 중첩 수만큼 스타를 더 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_POPPO_TAX >
+name=폿포세
+descr=보스나 행동 가능한 부하 주변 2패널 거리 밖에 있는 플레이어는 5스타를 잃고 보스는 영향을 받은 플레이어 하나당 5스타를 얻는다.\n그 뒤, 랜덤 워프 이벤트가 일어난다.
+flavor=
+
+< CARD_BOSS_COOP_TITHE >
+name=십일조
+descr=보스나 행동 가능한 부하 주변, 보스 레벨 만큼의 패널 거리 안에 있는 플레이어는 10스타를 잃고 보스는 영향을 받은 플레이어 하나당 10스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_UBIQUITOUS >
+name=신출귀몰
+descr=보스가 가장 멀리 있는 플레이어에게 워프해 그 플레이어의 레벨 * 5스타를 빼앗는다.\n행동 가능한 부하들은 각자 가장 가까운 플레이어에게 워프해 5스타를 빼앗는다.\n각 대상 조건에 해당하는 플레이어가 2명 이상일 때 그 중 한 명이 무작위로 선택된다.
+flavor=
+
+< CARD_BOSS_COOP_SNATCHER >
+name=소매치기
+descr=무작위 플레이어는 카드 한 장을 버린다.\n보스는 버려진 카드의 레벨 * 5스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_SKY_RESTAURANT_POPPO >
+name=공중 레스토랑 '폿포'
+descr=보스와 행동 가능한 부하가 있는 패널에 다음 효과를 지닌 "공중 레스토랑 '폿포'" 트랩을 세팅한다:\nHP를 완전히 회복한다. 회복된 HP 1점당 10스타를 보스에게 뺏긴다.
+flavor=
+
+< CARD_BOSS_COOP_SKY_RESTAURANT_POPPO_TRAP >
+name=공중 레스토랑 '폿포'
+descr=HP를 완전히 회복한다. 회복된 HP 1점당 10스타를 보스에게 뺏긴다.
+flavor=
+
+< CARD_BOSS_COOP_HIGHWAY_ROBBERY >
+name=노상강도
+descr=이번 턴에 보스는 공격력 +3을 얻고, 역방향으로 이동하며 적에게 도전한 뒤 멈추지 않는다.\n보스가 입혀야 할 HP 피해 대신에 피해 1점당 10스타를 빼앗는다.
+flavor=
+
+< CARD_BOSS_COOP_GREED >
+name=욕망
+descr=지속 시간: 1챕터.\n보스와 부하가 배틀에서 플레이어에게 주는 피해 1당 보스가 5스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_WARP_PHENOMENON >
+name=워프 현상
+descr=랜덤 워프 이벤트가 3번 일어난다.\n각 워프 직후 보스나 행동 가능한 부하 주변 1패널 이내의 플레이어에게 피해 1을 주고 5스타를 빼앗는다.
+flavor=
+
+< CARD_BOSS_COOP_POPPOFORMATION >
+name=폿포메이션
+descr=모든 플레이어가 다음 효과를 얻는다.\n스톡 효과 (1):\n다음 배틀에서 기본 공격력, 방어력, 회피력이 -1이 된다. 
+flavor=
+
+< CARD_BOSS_COOP_TEMPTATION >
+name=충동질
+descr=다음 보스 턴까지 모든 카드가 공짜가 된다. 플레이어가 카드를 내면 보스는 그 카드의 레벨 * 10스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_POPPO_GALAXY >
+name=폿포 은하
+descr=보스가 지닌 스타 100스타마다, 보스나 행동 가능한 부하 주변 2패널 범위 밖에 있는 모든 플레이어에게 피해 1을 준다. 이 효과로는 플레이어의 HP가 1보다 낮아지지 않는다.
+flavor=
+
+< CARD_BOSS_COOP_DEATH_AND_TAXES >
+name=죽음과 세금
+descr=보스나 행동 가능한 부하 주변 2패널 범위 안에 있는 플레이어는 소지 스타 50스타마다 피해 1을 입는다.\n보스는 이 효과로 유닛이 KO된 수마다 50스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_VALUE_JUDGMENT >
+name=가치 판단
+descr=모든 플레이어의 공격력 기본값의 합이 양수일 경우, 그만큼의 피해를 모든 플레이어에게 준다.\n음수일 경우, 그 반전값만큼의 HP를 회복시킨다.\n준 피해 1점마다 10스타를 빼앗거나 회복시킨 HP 1점마다 10스타를 준다.
+flavor=
+
+< CARD_BOSS_COOP_RANSOM_NOTE >
+name=몸값 요구서
+descr=행동 가능한 모든 플레이어에게 "몸값 요구서" 기프트 카드를 준다:\n코스트★: 이번 챕터에 이미 사용된 몸값 요구서 기프트의 장수 * 10\n이 카드의 코스트로 소모된 스타는 보스에게 간다. 턴 종료 시 이 카드를 지니고 있으면 KO된다. 이 카드를 내는 이외의 방법으로 버릴 시 패를 전부 버린다.
+flavor=
+
+< CARD_COOP_BOOST_RANSOM_NOTE >
+name=몸값 요구서
+descr=코스트★: 이번 챕터에 이미 사용된 몸값 요구서 기프트의 장수 * 10\n이 카드의 코스트로 소모된 스타는 보스에게 간다. 턴 종료 시 이 카드를 지니고 있으면 KO된다. 이 카드를 내는 이외의 방법으로 버릴 시 패를 전부 버린다.
+flavor=
+
+< CARD_BOSS_COOP_POPPOCALYPSE >
+name=폿포칼립스
+descr=지속 시간: 1챕터\n보스, 홈, 워프 패널을 제외한 모든 패널이 엔카운터 패널이 된다. 게임 내 모든 폿포가 공격력 +2를 얻는다. 엔카운터 폿포가 입히는 피해 1점마다 보스는 5스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_HOARDER >
+name=투기꾼
+descr=배틀에서 피해를 입을 때마다 챕터 끝까지 중첩 가능한 방어력 +1을 얻는다.
+flavor=
+
+
+< CARD_BOSS_COOP_REST >
+name=휴식
+descr=신남 1을 잃는다.
+flavor=
+
+< CARD_BOSS_COOP_CHASE >
+name=뒤쫓기
+descr=대시. 이번 턴에 보스가 플레이어와 싸울 때마다 신남 1을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_PLAY >
+name=놀이
+descr=신남 1을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_TIRE_OUT >
+name=기운 빼기
+descr=행동 가능한 플레이어 모두가 피로를 얻는다. 지속 시간: 2챕터. KO 시 부활값 +1.
+flavor=
+
+< CARD_BOSS_COOP_TIRED >
+name=피로
+descr=지속 시간: 2챕터. KO 시 부활값 +1.
+flavor=
+
+< CARD_BOSS_COOP_PUDDING_SEEKER >
+name=푸딩바라기
+descr=신남 1을 잃는다. 새 카드를 뽑고 발동한다.
+flavor=
+
+< CARD_BOSS_COOP_BIRDS >
+name=새떼
+descr=모든 플레이어가 피해 1을 입는다. 이 효과로 KO된 플레이어 한 명당 신남 1을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_SEAGULL_FRIEND >
+name=갈매기 친구
+descr=보스가 위치한 패널에 "갈매기의 춤"을 세팅한다: 피해 2를 주고 보스는 HP 1과 신남 1을 얻는다. 스톡 효과(1): 다음 배틀에서 공격력 -2를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_DANCE_OF_SEAGULLS >
+name=갈매기의 춤
+descr=피해 2를 주고 보스는 HP 1과 신남 1을 얻는다. 스톡 효과(1): 다음 배틀에서 공격력 -2를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_PLAY_TAG >
+name=술래잡기
+descr=보스는 다음 턴까지 공격력 +2를 얻으며 싸우는 플레이어마다 신남 1을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_HIDE_AND_SEEK >
+name=숨바꼭질
+descr=보스가 무작위 패널로 워프한 뒤 배틀을 할 때까지 이동하지 않으며 이 효과가 지속되는 동안 이후 매 턴마다 신남 2를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_SPLASH_WATER >
+name=물장구
+descr=보스 주변 2패널 범위 이내의 모든 플레이어는 보스 레벨 만큼의 피해를 입는다. 피격된 대상 수만큼의 신남을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_PSYCHED_UP >
+name=흥분
+descr=지속 시간: 2챕터. 이동력 +2. 신남 1을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_PLAY_WITH_BIRDS >
+name=새들과 놀아요
+descr=지속 시간: 1챕터. 부하가 배틀에서 피해를 입으면 보스와 행동 가능한 부하 모두가 공격력 +1을 얻으며 신남 1을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_SEAGULL_MASTER >
+name=갈매기 마스터
+descr=보스와 부하들이 위치한 패널에 "갈매기의 춤"을 세팅한다: 피해 2를 주고 보스는 HP 1과 신남 1을 얻는다. 스톡 효과(1): 다음 배틀에서 공격력 -2를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_WATERMELON_SPLITTING >
+name=수박 깨기
+descr=보스가 이번 턴이 끝날 때까지 공격력 +5를 얻고 적에게 도전한 뒤 멈추지 않는다. 플레이어가 KO될 때마다 신남 2를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_EXHAUSTION >
+name=지침
+descr=신남 1을 얻는다.\n행동 가능한 플레이어 모두가 탈진을 얻는다. 지속 시간: 2챕터. KO 시 부활값 +2.
+flavor=
+
+< CARD_BOSS_COOP_EXHAUSTED >
+name=탈진
+descr=지속 시간(2): KO 시 부활값 +2.
+flavor=
+
+< CARD_BOSS_COOP_PUDDING_BREAK >
+name=간식 시간
+descr=HP 4를 회복한다. 신남 2를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_HYPE_IT_UP >
+name=신바람
+descr=신남 4를 얻는다. 다음 턴까지 보스는 공격력과 방어력 +1, 회피력 -1을 얻고 배틀에서 피해를 입을 때 신남 1을 잃는다. 보스가 배틀에서 KO될 시 신남 2를 잃는다.
+flavor=
+
+< CARD_BOSS_COOP_SANDWICH_THIEVES >
+name=샌드위치 도둑
+descr=모든 플레이어가 피해 1~3을 입는다. 이 효과로 KO된 플레이어 한 명당 신남 1을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_HYPE_MODE >
+name=신바람 모드
+descr=배틀에서 공격력 +2와 방어력 +1을 얻는다. 보스가 KO될 시 다음 턴에 부활한다.
+flavor=
+
+< CARD_BOSS_COOP_RAMPAGE >
+name=광분
+descr=신남이 0이 된다. 모든 플레이어가 광분 중첩만큼의 피해를 입는다. 이번 턴의 이동 주사위가 2배가 되며 플레이어에게 도전한 뒤 멈추지 않는다. 보스 레벨만큼의 HP를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_RAMPAGE_HYPER >
+name=광분
+descr=신남이 0이 된다. 모든 플레이어가 광분 중첩만큼의 피해를 입는다. 이번 턴의 이동 주사위가 2배가 되며 적에게 도전한 뒤 멈추지 않는다. 영구 공격력 +1과 보스 레벨만큼의 HP를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_HYPE >
+name=신남
+descr=
+flavor=
+
+< CARD_BOSS_COOP_SNACKS >
+name=간식
+descr=무작위 플레이어의 HP 1을 회복한다.
+flavor=
+
+< CARD_BOSS_COOP_SCREECH >
+name=괴성
+descr=보스 레벨만큼의 패널 거리 안의 플레이어에게 피해 1을 준다.
+flavor=
+
+< CARD_BOSS_COOP_RAKE >
+name=할퀴기
+descr=1패널 거리 안의 플레이어에게 보스 레벨만큼의 피해를 준다.
+flavor=
+
+< CARD_BOSS_COOP_CLOUD_OF_SEAGULLS >
+name=갈매기 떼
+descr=무작위 플레이어에게 피해 2를 준다.
+flavor=
+
+< CARD_BOSS_COOP_RUSH >
+name=러시
+descr=보스가 무작위 플레이어에게 이동한 뒤 그 플레이어와 배틀한다.
+flavor=
+
+< CARD_BOSS_COOP_CHASE_AROUND >
+name=쫓아다니기
+descr=모든 유닛이 무작위 패널로 워프한다.
+flavor=
+
+< CARD_BOSS_COOP_QUAKE >
+name=지진
+descr=지속 시간: 1챕터\n모든 플레이어가 이동력 -2를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_AIR_RAID >
+name=공습
+descr=모든 플레이어에게 피해 1을 준다.
+flavor=
+
+< CARD_BOSS_COOP_RUSH2 >
+name=더블 러시
+descr=보스가 무작위 플레이어에게 이동한 뒤 그 플레이어와 배틀을 한다. 그 다음 다른 무작위 플레이어를 대상으로 반복한다.
+flavor=
+
+< CARD_BOSS_COOP_SWIPE >
+name=휩쓸기
+descr=무작위 플레이어 하나를 보스가 있는 패널로 워프시킨 뒤 배틀을 한다.
+flavor=
+
+< CARD_BOSS_COOP_HUNT >
+name=사냥
+descr=보스 이동이 끝난 뒤 1패널 거리 안에 있는 모든 플레이어에게 무작위 순서로 배틀을 한다.
+flavor=
+
+< CARD_BOSS_COOP_FALSE_HOPE >
+name=헛된 희망
+descr=무작위 플레이어의 HP를 완전히 회복시킨다. 회복된 HP만큼의 피해를 나머지 플레이어들에게 준다.
+flavor=
+
+< CARD_BOSS_COOP_SNATCH >
+name=낚아채기
+descr=무작위 플레이어가 카드를 한 장 버린다. 버려진 카드가 부스트 카드라면 보스의 HP를 1 회복한다. 배틀 카드라면 카드를 버린 플레이어가 피해 2를 입는다.
+flavor=
+
+< CARD_BOSS_COOP_AIR_STRIKE >
+name=공중 폭격
+descr=모든 플레이어에게 피해 1~3을 준다.
+flavor=
+
+< CARD_BOSS_COOP_MEGA_RUSH >
+name=메가 러시
+descr=보스가 무작위 순서로 모든 플레이어에게 한 번씩 이동하고 배틀을 한다.
+flavor=
+
+< CARD_BOSS_COOP_FRANTIC >
+name=광란
+descr=보스가 무작위 패널로 3번 워프한다. 각 워프 이후 2패널 거리 안의 모든 유닛에게 피해 2를 준다.
+flavor=
+
+< CARD_BOSS_COOP_WAVE_OF_DESPAIR >
+name=절망의 파동
+descr=모든 플레이어에게 KO된 플레이어 한 명당 피해 2를 준다.
+flavor=
+
+< CARD_BOSS_COOP_AURA_OF_TERROR >
+name=공포스러운 기운
+descr=모든 플레이어에게 피해 1을 준다. 이 효과로 플레이어가 KO될 때마다 반복한다.
+flavor=
+
+< CARD_BOSS_COOP_LAUNCH >
+name=날아오르기
+descr=워프 외 무작위 패널에 표식을 남긴다. 표식된 패널에서 2패널 거리 안의 워프 외 패널들이 1챕터 동안 보스 패널이 된다. 보스는 판에서 벗어난다. 보스 턴 시작 시 판에서 벗어난 상태라면 하강을 쓴다.
+flavor=
+
+< CARD_BOSS_COOP_DIVE >
+name=하강
+descr=보스가 표식이 남겨진 패널로 돌아온다. 표식이 남겨진 패널에 위치한 플레이어를 모두 KO시킨다. 2패널 거리 안의 캐릭터들은 보스 레벨 만큼의 피해를 입는다. 표식이 남겨진 패널은 피해 패널이 된다. 카드를 뽑아 발동한다.
+flavor=
+
+< CARD_BOSS_COOP_IDENTITY_CRISIS >
+name=정체성 혼란
+descr=자신에게 피해 1을 주고 5스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_ROBO_TAX >
+name=로보세
+descr=보스나 부하 주변 3패널 거리 밖에 있는 플레이어는 각각 5스타를 잃는다. 보스는 영향을 받은 플레이어 하나당 5스타와 다음 보스 턴까지 지속되는 방어력 +1을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_PLUCK >
+name=털뽑기
+descr=같은 패널의 모든 플레이어에게 피해 2를 준다. 영향을 받은 유닛 하나당 10스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_CATCHER >
+name=뽑기
+descr=무작위 플레이어가 패 한 장을 버린 뒤 카드 한 장을 뽑는다. 뽑힌 카드의 레벨 * 5만큼의 스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_POPPO_MARCH >
+name=폿포 행진
+descr=보스와 필드에 있는 모든 부하에게 스톡 효과 (1).\n다음 배틀에서 회피력 +2를 얻는다. 보스는 20스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_PREMIUM_REGENERATION >
+name=프리미엄 재생
+descr=판 위의 모든 유닛이 HP 1을 회복한다. 보스는 20스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_WIRELESS_CHICKEN >
+name=무선 닭
+descr=보스의 남은 체력이 50% 미만이라면 보스와 그 아군들이 보스 턴이 끝날 때까지 공격력 +2를 얻고 1패널 거리 안에 있는 플레이어를 공격한다. 플레이어가 공격받은 횟수마다 10스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_ROPO_BARRAGE >
+name=로포 탄막
+descr=코스트: 30스타. 지속 시간: 무한. 무작위 플레이어가 피해 1을 입는다. 보스 턴이 시작될 때마다 반복한다. 유닛 하나가 KO되면 효과를 종료한다. 코스트를 지불할 수 없으면 대신 60스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_DELUSIONAL_NUMBERS >
+name=무리수
+descr=코스트: 20스타. 지속시간: 1챕터. 보스가 굴리는 주사위 값이 0 또는 7이 된다. 코스트를 지불할 수 없으면 대신 40스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_SECOND_WING2 >
+name=계사회생
+descr=판 위의 보스와 모든 부하들이 보스 레벨 만큼의 HP를 회복한다. 회복된 HP 1점당 2스타를 플레이어에게서 빼앗는다.
+flavor=
+
+< CARD_BOSS_COOP_PO_BOMBER >
+name=폿포탄
+descr=코스트: 폭탄 개당 5스타. 무작위 패널에 보이지 않는 폭탄 2~3장을 생성한다.
+flavor=
+
+< CARD_BOSS_COOP_PO_BOMBER_TRAP >
+name=보이지 않는 폭탄
+descr=HP를 1로 줄인다. 보스나 부하에게는 무효.
+flavor=
+
+< CARD_BOSS_COOP_POPPO_UNIVERSE >
+name=폿포 우주
+descr=코스트: 50스타. 보스나 부하 주변 3패널 거리 안에 있지 않은 모든 유닛에게 보스가 가진 스타 50개당 피해 1을 준다. 코스트를 지불할 수 없으면 대신 100스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_POPPOCARE >
+name=폿포케어
+descr=KO된 모든 플레이어를 1HP로 부활시킨다. 남은 HP가 1인 플레이어 모두에게 무작위 순서로 워프해서 배틀을 한다. 플레이어를 KO시킬 때마다 30스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_REFINED_TALONS >
+name=다듬은 발톱
+descr=코스트: 50스타. HP가 가장 낮은 플레이어와 다른 무작위 플레이어에게 첫번째로 영향을 받는 플레이어의 HP만큼의 피해를 준다. 코스트를 지불할 수 없으면 대신 100스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_BEAK_OF_DEMIBIRD >
+name=반조의 부리
+descr=다음 보스 턴이 끝날 때까지 공격력 +2를 얻는다. 2패널 거리 안에 있는 플레이어 모두를 HP가 낮은 순서대로 공격한다. 플레이어가 KO될 때마다 100스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_TURBO_CHICKEN >
+name=터보 닭
+descr=보스 턴이 끝날 때까지 이동 주사위 1개를 더 얻고 적에게 도전한 뒤 멈추지 않는다. 플레이어와 배틀을 할 때마다 25스타와 턴이 끝날 때까지 지속되는 공격력 +1을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_BIG_PO_SPECIAL >
+name=큰 포 특선
+descr=코스트: 100스타. 스톡 효과 (2): 보스 턴이 시작할 때 무작위 플레이어가 보스 레벨만큼의 피해를 받는다. 코스트를 지불할 수 없으면 대신 200스타를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_BALANCE_CURRENCY >
+name=조율
+descr=각 플레이어의 양수인 공격력 1점마다 5스타를 빼앗고 음수인 공격력 1점마다 5스타를 준다.
+flavor=
+
+< CARD_BOSS_COOP_ROOST_BOOST >
+name=횃대 추진
+descr=부하 닭이 없으면 부하 닭을 보스가 있는 패널에 소환한다.
+flavor=
+
+< CARD_BOSS_COOP_ROOST_BOOST_HYPER >
+name=횃대 추진
+descr=부하 닭이 2마리보다 적으면 부하 닭을 보스가 있는 패널에 소환한다.
+flavor=
+
+< CARD_BOSS_COOP_PO_TECT >
+name=포호
+descr=코스트: 20 스타. 스톡 효과(보스 레벨): 피해를 입을 때마다 받을 피해가 1이 될 때까지 중첩 하나를 소모해 피해를 최대 2만큼 경감시킨다. 중첩이 소진되면 3챕터동안 방어력, 회피력, 이동력 -1을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_FLOAT >
+name=부유
+descr=효과 없음.
+flavor=
+
+< CARD_BOSS_COOP_WHIRL >
+name=회오리
+descr=부하로부터 보스 레벨만큼의 패널 거리 이내에 있는 모든 플레이어가 무작위 패널로 워프한다.
+flavor=
+
+< CARD_BOSS_COOP_BUBBLE_BATH >
+name=거품목욕
+descr=무작위 부하의 HP 1을 회복시킨다.
+flavor=
+
+< CARD_BOSS_COOP_ENTRY_FEE >
+name=입장료
+descr=부하로부터 2패널 거리 이내에 있는 모든 플레이어가 보스 레벨만큼의 스타를 잃는다.
+flavor=
+
+< CARD_BOSS_COOP_GULP_OF_WATER >
+name=물먹이기
+descr=무작위 플레이어에게 피해 2를 준다.
+flavor=
+
+< CARD_BOSS_COOP_COACHING >
+name=코칭
+descr=챕터 끝까지 모든 부하가 공격력 +1을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_CONFISCATE >
+name=압수
+descr=활동중인 부하와 같은 패널에 위치한 모든 활동중인 플레이어는 패를 1장 버린다.
+flavor=
+
+< CARD_BOSS_COOP_SHOCK >
+name=충격
+descr=모든 부하들이 보스 레벨만큼의 패널 거리 이내에 있는 모든 플레이어에게 피해 1을 입힌다.
+flavor=
+
+< CARD_BOSS_COOP_GO_FASTER >
+name=더 빨리!
+descr=지속 시간: 2챕터.\n자신의 수영 튜브가 이동력과 공격력 +2를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_RESPITE >
+name=말미
+descr=모든 골포스트가 2패널 거리 이내에 있는 모든 유닛의 HP 1을 회복시킨다.
+flavor=
+
+< CARD_BOSS_COOP_PACE_UP >
+name=보조 높이기
+descr=지속 시간: 3챕터. 모든 부하들이 공격력 +1과 회피력 -1을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_HUSTLE >
+name=서두름
+descr=각 골포스트가 같은 패널에 위치한 무작위 플레이어에게 피해 5를 준다.
+flavor=
+
+< CARD_BOSS_COOP_MOTIVATE >
+name=동기부여
+descr=무작위 플레이어가 활동중인 골포스트 수만큼의 피해를 입는다.
+flavor=
+
+< CARD_BOSS_COOP_TROPICAL_CYCLONE >
+name=열대 회오리
+descr=모든 부하들이 워프 외 무작위 패널에 표식을 남긴다. 1챕터 뒤, 부하들이 각각 표식을 남긴 패널로 워프하고 2패널 거리 이내에 위치한 모든 플레이어에게 보스 레벨만큼의 피해를 준다.
+flavor=
+
+< CARD_BOSS_COOP_BUTTERFLY >
+name=접영
+descr=지속 시간: 2챕터. 모든 부하들이 공격력 +2와 이동력 +1을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_ZAP >
+name=지르기
+descr=모든 부하가 1패널 거리 아니에 위치한 모든 플레이어에게 보스 레벨만큼의 피해를 준다.
+flavor=
+
+< CARD_BOSS_COOP_ENCOURAGE >
+name=응원
+descr=몸짱 풍선이 범위 상 가장 가까운 패널에 위치한 무작위 플레이어에게 이동한 뒤 배틀을 한다. 해당 배틀 동안 몸짱 풍선은 공격력 +3을 얻는다. 플레이어가 패배하면 다음으로 가까운 플레이어를 대상으로 이 행동을 반복한다.
+flavor=
+
+< CARD_BOSS_COOP_MOVING_GOALPOST >
+name=골포스트 옮기기
+descr=모든 몸짱 풍선과 수영 튜브가 2패널 거리 이내에 위치한 모든 플레이어에게 골포스트 수만큼의 피해를 준다.
+flavor=
+
+< CARD_BOSS_COOP_GOALPOST >
+name=골포스트
+descr=필드에 골포스트가 다섯 미만 남아있으면 골포스트를 소환하고 피해 2를 입는다. 골포스트는 이동이나 회피를 하지 않으며 피해 1을 주는 공격에만 피해를 입는다.
+flavor=
+
+< CARD_BOSS_COOP_BALLOON_JERK >
+name=몸짱 풍선
+descr=필드에 몸짱 풍선이 없으면 몸짱 풍선을 소환하고 피해 12를 입는다.
+flavor=
+
+< CARD_BOSS_COOP_SWIMMING_RINGER >
+name=수영 튜브
+descr=필드에 수영 튜브 부하가 둘 미만 남아있으면 수영 튜브를 소환하고 피해 6을 입는다. 수영 튜브는 이동력 -1을 갖는다.
+flavor=
+
+< CARD_BOSS_COOP_HOME_SWEEPER >
+name=집정리
+descr=모든 플레이어의 홈이 게임이 끝날 때까지 제거된다.
+flavor=
+
+< CARD_HYPER_COOP_CLASS_ATTACKER >
+name=햇볕 아래의 최종병기
+descr=다음 배틀에서 매 공격이 피해 3을 더 입힌다.
+flavor="피서 시작합니다." ―소라
+
+< CARD_HYPER_COOP_CLASS_GUARDIAN >
+name=백사장의 구조요원
+descr=모든 동료가 다음 효과를 얻는다.\n스톡 효과(1): 다음 배틀에서 받는 피해가 2 줄어든다.
+flavor="소란을 부려도 너무 심했다니까, 참." ―스구리
+
+< CARD_HYPER_COOP_CLASS_SUPPORT >
+name=피어나는 꽃의 수호신
+descr=KO된 동료 1명을 부활시킨다.
+flavor="괜찮아. 자, 안 아프지?" ―히메
+
+< CARD_HYPER_COOP_CLASS_AVENGER >
+name=피도 눈물도 없는 복수자
+descr=지속 시간: 3챕터\n배틀에서 KO될 시 HP가 최대치로 돌아간다.
+flavor="미뮤우! 대체 누가 이런 짓을..." ―토마토
+
+< CARD_HYPER_COOP_CLASS_DEALER >
+name=여름날의 놀이
+descr=스톡 효과.\n이번 턴에 도착하는 패널을 더블 드로우 패널로 취급한다.
+flavor=
+
+< CARD_SKILL_COOP_ADVANTAGE >
+name=선제
+descr=보스를 상대로 언제나 배틀에서 선공한다.
+flavor=
+
+< CARD_SKILL_COOP_RECOVERYDOWN >
+name=부활값 다운
+descr=노르마 1: 부활값 +1.
+flavor=
+
+< CARD_SKILL_COOP_ATTACKBOOST >
+name=공격력 증가
+descr=노르마 2: 공격력 +1. 노르마 4: 공격력 +2.
+flavor=
+
+< CARD_SKILL_COOP_FURY >
+name=분노
+descr=매 공격이 피해 1을 추가로 준다.\n쿨다운: 6챕터.
+flavor=
+
+< CARD_SKILL_COOP_PROTECT >
+name=보호
+descr=대상이 다음에 입을 피해를 2까지 막아준다.\n쿨다운: 1챕터.
+flavor=
+
+< CARD_SKILL_COOP_IRONDEFENSE >
+name=철벽 방어
+descr=이 배틀 동안 방어 시 입는 피해의 최소치가 0이 된다.\n쿨다운: 3챕터.
+flavor=
+
+< CARD_SKILL_COOP_DEFENSEBOOST >
+name=방어력 증가
+descr=노르마 2: 방어력 +1. 노르마 4: 방어력 +2
+flavor=
+
+< CARD_SKILL_COOP_GUARDIANSPIRIT >
+name=수호령
+descr=모든 동료들에게 수호령을 부여한다\n지속 시간: 2챕터: 배틀에서 피해 1을 덜 입는다\n쿨다운: 8챕터.
+flavor=
+
+< CARD_SKILL_COOP_MOVEMENTBOOST >
+name=이동력 증가
+descr=노르마 2: 이동력 +1. 노르마 4: 이동력 +2
+flavor=
+
+< CARD_SKILL_COOP_HEAL >
+name=치료
+descr=동료가 위치한 패널에 들어갈 때 그 동료의 HP를 1 회복시킬 수 있다.
+flavor=
+
+< CARD_SKILL_COOP_REVIVE >
+name=부활
+descr=KO된 동료가 위치한 패널에 들어갈 때 남은 부활값 * 3스타를 지불해 부활시킬 수 있다.
+flavor=
+
+< CARD_SKILL_COOP_EVASIONBOOST >
+name=회피 증가
+descr=노르마 3: 회피 +1
+flavor=
+
+< CARD_SKILL_COOP_RESTORINGLIGHT >
+name=소생의 빛
+descr=KO된 동료 1명을 HP 절반으로 부활시킨다.\n쿨다운: 8챕터.
+flavor=
+
+< CARD_SKILL_COOP_HEALTHBOOST >
+name=체력 증가
+descr=노르마 2: 최대 HP +1. 노르마 4: 최대 HP +2
+flavor=
+
+< CARD_SKILL_COOP_AVENGER >
+name=복수자
+descr=배틀에서 잃는 HP마다 공격력 +1을 얻는다.
+flavor=
+
+< CARD_SKILL_COOP_RECOVERY >
+name=회복
+descr=노르마 3: 부활값 -1
+flavor=
+
+< CARD_SKILL_COOP_FROMBEYOND >
+name=저 편에서
+descr=지속 시간: 2챕터\n배틀에서 KO당할 시 HP를 최대 3까지 되돌린다.\n쿨다운: 8챕터.
+flavor=
+
+< CARD_SKILL_COOP_HANDBOOST >
+name=패 증가
+descr=노르마 2: 패 용량 +1. 노르마 4: 패 용량 +2. 최대 5.
+flavor=
+
+< CARD_SKILL_COOP_DEAL >
+name=분배
+descr=카드를 세 장 이상 갖고 있을 때 카드를 선택해 대상 플레이어에게 준다.
+flavor=
+
+< CARD_SKILL_COOP_SUPPLY >
+name=공급
+descr=카드를 뽑을 때마다 카드를 한 장 더 뽑는다.
+flavor=
+
+< CARD_SKILL_COOP_DEALER_HEALTHBOOST >
+name=체력 증가
+descr=노르마 3: 최대 HP +1
+flavor=
+
+< CARD_SKILL_COOP_DEMAND >
+name=수요
+descr=다음에 도착하는 패널을 드로우 패널로 취급한다.\n쿨다운: 6챕터.
+flavor=
+

@@ -1,0 +1,161 @@
+
+< CARD_ARTIST_PREFIX >
+Arte: 
+
+< CARD_ARTIST_HONO >
+Hono
+
+< CARD_ARTIST_JUNPYON >
+Junpyon
+
+< CARD_ARTIST_YUUNANASE >
+Yuu Nanase
+
+< CARD_ARTIST_NERIUME >
+Neriume
+
+< CARD_ARTIST_TORI >
+Tori
+
+< CARD_ARTIST_MEGANE >
+Megane
+
+< CARD_ARTIST_MIZUKISEO >
+Mizuki Seo
+
+< CARD_ARTIST_ERINA >
+Erina
+
+< CARD_ARTIST_KITSUNE >
+Kitsune
+
+< CARD_ARTIST_TAMAKISEO >
+Tamaki Seo
+
+< CARD_ARTIST_KULAS >
+Kulas
+
+< CARD_ARTIST_CLASSICWOSHINJIRO >
+Classic wo Shinjiro
+
+< CARD_ARTIST_IKUSE >
+Ikuse
+
+< CARD_ARTIST_RAYNEW >
+RayNew
+
+< CARD_ARTIST_MARITAN >
+Maritan
+
+< CARD_ARTIST_FCROW >
+FCrow
+
+< CARD_ARTIST_EOKAMI >
+EOkami
+
+< CARD_ARTIST_LUCASSHIROI >
+Lucas-Shiroi
+
+< CARD_ARTIST_COFFGIRL >
+Coffgirl
+
+< CARD_ARTIST_ESCANDA >
+Escanda
+
+< CARD_ARTIST_HEXUN >
+hexun
+
+< CARD_ARTIST_LENDO_KHAR >
+Lendo Khar
+
+< CARD_ARTIST_YULAY_DEVLET >
+Yulay Devlet
+
+< CARD_ARTIST_FUKA_MIZNO >
+fuka mizno
+
+< CARD_ARTIST_AKISAKI >
+akisaki
+
+< CARD_ARTIST_POPPUCHAN >
+Poppuchan
+
+< CARD_ARTIST_MST >
+mst
+
+< CARD_ARTIST_SUWEEKA >
+Suweeka
+
+< CARD_ARTIST_AXES >
+Axes
+
+< CARD_ARTIST_AIRIE >
+Airie
+
+< CARD_ARTIST_AME >
+Miyazaki Shiyuri
+
+< CARD_ARTIST_KAGAWA_YUSAKU >
+Yusaku Kagawa
+
+< CARD_ARTIST_SIUMAI >
+Siumai112
+
+< CARD_ARTIST_PASU >
+Pasu
+
+< CARD_ARTIST_TAMAKI >
+Tamaki
+
+< CARD_ARTIST_YASUMEYUKITO >
+Yasume Yukito
+
+< CARD_ARTIST_LVMNOT >
+LVmNoT
+
+< CARD_ARTIST_EOKAMI >
+EOkami
+
+< CARD_ARTIST_TSUKINO >
+Tsukino
+
+< CARD_ARTIST_490 >
+490
+
+< CARD_ARTIST_TIANNYA >
+tian nya
+
+< CARD_ARTIST_KOKOROTEN >
+Kokoroten
+
+< CARD_ARTIST_SENCA >
+Senca
+
+< CARD_ARTIST_USANEKORIN >
+Usanekorin
+
+< CARD_ARTIST_MI3LI >
+mi3li
+
+< CARD_ARTIST_PENCILCHEWING >
+pencilchewing
+
+< CARD_ARTIST_RITSU >
+Ritsu
+
+< CARD_ARTIST_WOODCHIN >
+WoodChin
+
+< CARD_ARTIST_SCORPIONCARD >
+ScorpionCard
+
+< CARD_ARTIST_BAEDONG >
+Baedong
+
+< CARD_ARTIST_CALAMARIPOP >
+Calamari-Pop
+
+< CARD_ARTIST_PHLE >
+PhleBuster
+
+[EOF]

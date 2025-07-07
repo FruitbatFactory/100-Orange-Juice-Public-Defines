@@ -1,0 +1,162 @@
+<0000> Po.
+<0001> Poppo.
+<0002> Poppopo.
+<0003> Poppooh.
+<0004> Hora de po-usar una carta.
+<0005> Aquí.
+<0006> Ya era hora de moverse.
+<0007> Aquí pa.
+<0008> Trampa aquí.
+<0009> Mamá dejará algo por aquí.
+<0010> Fufu.
+<0011> Este pa-rece un buen lugar para po-locar una trampa.
+<0012> No saldrás de aquí con vida.
+<0013> No esperes que mamá tenga piedad.
+<0014> Esto será duro.
+<0015> Veamos si puedes con esto.
+<0016> Mamá seguirá de pie sin importar lo que pase.
+<0017> Ese fue un buen descanso.
+<0018> Un descanso po-casional suele ser bueno.
+<0019> El descanso ha acabado.
+<0020> Mamá se siente refrescada.
+<0021> ¿Puede Mamá extender su po-scanso?
+<0022> Poh vaya...
+<0023> Esto afectará mis po-lanes.
+<0024> *Bostezo* Esto significa que Mamá podrá descansar un poco más.
+<0025> Mamá estará en la poppofensiva.
+<0026> Mamá va a usar sus puños.
+<0027> Aquí tienes el amor de Mamá.
+<0028> Toma el ataque de Mamá.
+<0029> Eso duele.
+<0030> ¿Cómo pudiste?
+<0031> Ugh.
+<0032> Cielos.
+<0033> Cuánta curación.
+<0034> Mamá se curará a sí misma cuando ella pueda.
+<0035> Mamá no po-ede permitir que la derroten aquí.
+<0036> Mamá se siente po-n vida una vez más.
+<0037> A través del tiempo y el espacio...
+<0038> Mamá existe y no existe al mismo tiempo.
+<0039> Mamá es el universo.
+<0040> Tan lejos como esto pueda llevar a Mamá...
+<0041> Poh no...
+<0042> Las piernas de Mamá no están funcionando.
+<0043> A lo mejor Mamá ha sido derrotada.
+<0044> Mamá no tiene tiempo para descansar.
+<0045> Mamá está siendo muy agresiva.
+<0046> Mamá a veces escoge la violencia...
+<0047> Mamá presentará su po-der ante ti...
+<0048> Nadie se po-ndrá en el camino de Mamá.
+<0049> La violencia no será po-rmitida.
+<0050> Poh vaya, tus ojos se ven aterradores.
+<0051> ¿Te sientes con seguridad de po-der hacer esto?
+<0052> ¿Te sientes capaz de desafiar a Mamá?
+<0053> Un adult-oppo no debería usar todo su poder.
+<0054> Aquí tienes un po-lpe fuerte para ti.
+<0055> A veces el dolor te enseña una lección.
+<0056> Esto es amor.
+<0057> Mamá sintió eso.
+<0058> Fufu, eso es adorable.
+<0059> Ese fue un buen movimiento.
+<0060> ¡Poppo!
+<0061> Mamá no podrá seguir por mucho tiempo.
+<0062> Esto es un poco más de lo que Mamá puede recibir.
+<0063> ¿Acaso intentaste matar a Mamá...?
+<0064> Mamá no llora con facilidad, pero sus ojos se sienten llorosos.
+<0065> ¿Acaso esa fue una brisa?
+<0066> Fufu, un error.
+<0067> Admirad el movimiento elegante de Mamá.
+<0068> Mamá ya no está ahí.
+<0069> Aquí acaba tu pa-stigo.
+<0070> Fufu, ahora sabes lo fuerte que es Mamá.
+<0071> Sientate y reflexiona sobre lo que acabas de pa-cer, ¿está bien?
+<0072> Así es como lo hace un adulto.
+<0073> Esto no puede estar ocurriendo.
+<0074> ¿Cómo te atreves a derribar a Mamá?
+<0075> ¿A lo mejor Mamá no te crio bien?
+<0076> Mamá está sufriendo.
+<0077> Esto podría ayudar a Mamá con sus pagos financieros...
+<0078> Dinero inesperado siempre alegra a Mamá.
+<0079> Muy apreciado.
+<0080> Sabrás el verdadero valor del dinero una vez que seas adult-oppo.
+<0081> Esta pérdida podría destrozar a la familia de Mamá.
+<0082> No podemos vivir sin dinero.
+<0083> No hay nada que se sienta peor que esto.
+<0084> Poh cielos. Los ojos de Mamá se sienten llorosos.
+<0085> ¿Por qué alguien haría que Mamá caiga en una trampa?
+<0086> Qué astuto... Bien jugado.
+<0087> Poh no lo hiciste.
+<0088> Rayos... Soy demasiado alta para ver lo que se encuentra a mis pies.
+<0089> Interactuar con esa cosa debe ser muy riesgoso.
+<0090> Phew, parece que las cosas serán un poco diferentes ahora.
+<0091> Esto es sorprendente...
+<0092> Poh cielos, parece que todo va a cambiar ahora.
+<0093> El dinero es importante.
+<0094> Mamá quiere guardar un poco más.
+<0095> Tener mucho dinero hace que Mamá se sienta sana y segura.
+<0096> A Mamá le gustarían un par de estrellas, por favor.
+<0097> Mamá necesita liberar un poco de vapor.
+<0098> Los puños de Mamá ansían una batalla.
+<0099> Mamá no debería usar la fuerza... pero.
+<0100> ¿En dónde podría Mamá encontrar un buen saco de boxeo?
+<0101> ¿Extrañabas a Mamá?
+<0102> Mamá Poppo está aquí.
+<0103> Fufu, puedes depender de mí.
+<0104> ¿Dices que Mamá aún se ve bonita?
+<0105> Ya ha comenzado.
+<0106> Este es el juego con el que Mamá tiene más experiencia.
+<0107> Fufu, espero que podamos divertirnos.
+<0108> Otra pa-talla va a comenzar...
+<0109> Mamá de la victoria.
+<0110> Nadie puede derrotar a la sonrisa de Mamá.
+<0111> Es absurdo pensar que podías acabar con Mamá.
+<0112> Poppo. Esto simplemente hace feliz a Mamá.
+<0113> No te gastes todo tu dinero, ¿está bien?
+<0114> ¿Acaso no compraste lo mismo la última vez...? ¿Qué? ¿No es lo mismo?
+<0115> Mira lo feliz que te ves... como un niño pequeño.
+<0116> Mamá está feliz por ti.
+<0117> Deja que Mamá se encarge del resto.
+<0118> Ahora vamos a cambiar.
+<0119> Cambia de lugar con Mamá por ahora.
+<0120> Ahora Mamá tendrá que ayudarte.
+<0121> Pokay.
+<0122> Bien.
+<0123> Sí.
+<0124> No.
+<0125> Poh cielos...
+<0126> Tienes mucha suerte.
+<0127> Mamá está un poco sonrojada.
+<0128> Pa-mos.
+<0129> ¡Poh!
+<0130> Mamá estará alentando por ti.
+<0131> ¿Cómo estás?
+<0132> ¿Popopo?
+<0133> Bien hecho.
+<0134> Deja que Mamá te alabe.
+<0135> ¡Hmpoh!
+<0136> Usar la carta de alguien más también es una buena estrategia.
+<0137> Mamá ha tomado una Carta Especial prestada.
+<0138> Sería rudo de parte de Mamá usar todo este poder sin pensar en alguien más.
+<0139> Mamá estará agradecida al usar esta carta.
+<0140> Gracias.
+<0141> El amor de Mamá transforma la violencia en estrellas.
+<0142> Poh cielos, eres un niño muy travieso.
+<0143> Estar con tanta energía hace que Mamá se sienta feliz.
+<0144> Esto es muy reconfortante.
+<0145> Todos le han dado mucha energía a Mamá.
+<0146> Fufufu, nada es mejor que estar llena de energía.
+<0147> Vaya, el poder del amor ha curado a Mamá.
+<0148> Mamá está feliz, rodeada de niños energéticos.
+<0149> Debes perder algo para conseguir algo...
+<0150> *Jadeo, jadeo*... Mamá está demasiado vieja para esto.
+<0151> Esto era más fácil cuando Mamá era una niña pequeña... Ahora es un poco más duro.
+<0152> L-Las piernas de Mamá están temblando.
+<0153> Esto es una pérdida de recursos.
+<0154> No quiero hacer esto... pero...
+<0155> Ugh... No puedo sostener más cartas
+<0156> El amor de Mamá no puede ayudarte con esto.
+<0157> Mamá observará... lo fuerte que su hija es ahora.
+<0158> Fufufu, vamos a jugar.
+<0159> Mamá está feliz de ver que te encuentras bien.
+<0160> Una hija superando a su madre... Mamá está feliz.
+<0161> Esta carta le trae recuerdos a Mamá.

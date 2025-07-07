@@ -1,0 +1,161 @@
+<0000> Hmm.
+<0001> Here.
+<0002> Here you go.
+<0003> Hmph.
+<0004> I think I'll play this one.
+<0005> I'd say it's time to use this.
+<0006> You should play a card when you can.
+<0007> This shouldn't cause any trouble for me.
+<0008> A trap.
+<0009> Sneaky.
+<0010> Looks like a good spot.
+<0011> I bet someone'll step on this.
+<0012> I need to win this one.
+<0013> Let's power myself up.
+<0014> I'll go with overwhelming force.
+<0015> This battle will be mine.
+<0016> My special move.
+<0017> This is still nowhere near a pinch.
+<0018> I'll still be able to bounce back.
+<0019> Oh, I'm back up now.
+<0020> Phew, I'm still in the running.
+<0021> Nothing I can do because this is all down to luck.
+<0022> No need to rush.
+<0023> Hmm.
+<0024> That's not good.
+<0025> I'm gonna attack you.
+<0026> I'll knock you out.
+<0027> I see an opening!
+<0028> Even a bit of damage can make a difference.
+<0029> Ouch.
+<0030> This much damage is acceptable.
+<0031> That's not very good.
+<0032> I'm not feeling great.
+<0033> That helps a lot.
+<0034> I anticipated this recovery.
+<0035> I've gathered myself together.
+<0036> Alright.
+<0037> Warp.
+<0038> Owah.
+<0039> How will this affect things?
+<0040> Oh my.
+<0041> It happens.
+<0042> I'm not having any luck.
+<0043> Ugh.
+<0044> Uu.
+<0045> I'll earn a victory.
+<0046> I'm going to knock you out.
+<0047> I'll contain you here.
+<0048> Go down.
+<0049> I'm well prepared for this.
+<0050> You're the one that'll get defeated.
+<0051> You're really gonna go at me?
+<0052> Okay, challenge accepted.
+<0053> I'm gonna hurt you.
+<0054> Time to attack.
+<0055> Here's some damage coming your way.
+<0056> Why don't I shave off some of your HP?
+<0057> Hmm.
+<0058> Ugh.
+<0059> That was expected.
+<0060> That hurt a bit.
+<0061> That was not expected.
+<0062> Luck isn't on my side.
+<0063> Whoa.
+<0064> I don't think I'll last very long.
+<0065> Dodge.
+<0066> Evasion.
+<0067> Successfully dodged, no damage taken.
+<0068> Luck's with me.
+<0069> Just as planned.
+<0070> I'm in the flow.
+<0071> You can stay down for a while.
+<0072> Fufufu.
+<0073> Unlucky...
+<0074> The dice roll... Luck didn't help me with it...
+<0075> The worst outcome you can imagine.
+<0076> Not good.
+<0077> I have a positive balance.
+<0078> Collecting stars, check.
+<0079> The stars I gained here will help turn things around. 
+<0080> With these stars, I'm gonna win.
+<0081> Well, I saw this coming.
+<0082> Ugh, my stars.
+<0083> Rats... This cannot be forgiven.
+<0084> Au, my stars...
+<0085> Funu!
+<0086> Sneaky trap...
+<0087> Whoever set this trap is quite calculating...
+<0088> A trap to get me...?
+<0089> A boss is here.
+<0090> I have to focus and figure out what to do.
+<0091> This is right where 100% OJ gets fun.
+<0092> Things are getting exciting.
+<0093> I choose the star.
+<0094> Given the circumstances, the star is the more reasonable choice.
+<0095> Going with the star here is gonna get me closer to a win.
+<0096> You're not smart if you don't choose the star here.
+<0097> You knock your enemy down and earn points... That's how a battle works in this game.
+<0098> Considering my hand at the moment, battle it is.
+<0099> I'm torn, but I'll go with battle.
+<0100> Given the situation at hand, I choose to engage in battle and smack everyone.
+<0101> I'm Kanata. Nice to meet you.
+<0102> Using strategy and calculations helps you win in 100% OJ... or so I think.
+<0103> You're doubting my intelligence? Let me prove you wrong.
+<0104> You seem pretty smart for choosing me.
+<0105> Okay, so they're my opponents, huh.
+<0106> I feel like the game will be a fun one.
+<0107> The path to victory is already clear to me.
+<0108> Try hard and entertain me, everyone.
+<0109> It feels so nice that everything went according to plan.
+<0110> I did a pretty good job playing strategically.
+<0111> I bet I'll get another good night's sleep tonight.
+<0112> Everyone praise me...
+<0113> It's good to have more cards to choose from.
+<0114> More strength on our side.
+<0115> I'm starting to come up with new strategic plans.
+<0116> Cute items? They're also something I'd like to have.
+<0117> Let me step away from the game for a bit.
+<0118> You got this.
+<0119> Switch with me.
+<0120> Time to change positions.
+<0121> OK.
+<0122> Good.
+<0123> Yes.
+<0124> No.
+<0125> Not good.
+<0126> Luck matters, too.
+<0127> Hm, um...
+<0128> Let's begin.
+<0129> Dice roll.
+<0130> Good luck.
+<0131> Hello.
+<0132> Hmm.
+<0133> Incredible.
+<0134> I have to give you praise.
+<0135> That's frustrating.
+<0136> This card...
+<0137> This'll probably work out.
+<0138> I can do this.
+<0139> Not something that happens every day.
+<0140> Thank you.
+<0141> Haru, your savings are always zero.
+<0142> You should give it more thought.
+<0143> Nicely done.
+<0144> I-I-I-I am not.
+<0145> Things get... more exciting when I do it.
+<0146> 100% OJ can be luck-based, so it's okay to be playing mindlessly from time to time.
+<0147> As your big sister, I'm going to crush you with all I have.
+<0148> Let's show them our sisterly teamwork.
+<0149> I know how strong you are, Poyo. So I'll go all out.
+<0150> That's what I should say about you. I trust in you.
+<0151> Don't be so alert. You should relax.
+<0152> You can count on me. I'm counting on you, too.
+<0153> Suguri, huh.
+<0154> Someone simply strong...
+<0155> Phew... I managed to beat her.
+<0156> She's so superhuman...
+<0157> Haru, are you alright?
+<0158> Well done, Haru.
+<0159> We're the strongest.
+<0160> Let's work together and get stronger.

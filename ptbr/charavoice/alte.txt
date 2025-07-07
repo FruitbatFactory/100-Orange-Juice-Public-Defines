@@ -1,0 +1,161 @@
+
+<0000> Aqui!
+<0001> Hah!
+<0002> Vamos lá.
+<0003> Estou contando com você.
+<0004> Eu vou jogar uma carta agora.
+<0005> Eu vou te mostrar o que eu posso fazer.
+<0006> Aqui vou eu.
+<0007> Eu escolho esta aqui.
+<0008> Armadilha.
+<0009> Tome cuidado, senão você irá se machucar.
+<0010> Agora, venham até aqui.
+<0011> Eu não sou uma profissional nessas coisas, mas lá vai.
+<0012> Isto vai garantir minha vitória.
+<0013> Eu não posso me dar ao luxo de ser derrotada.
+<0014> Eu vou te esmagar.
+<0015> É o fim.
+<0016> Eu não posso... perder aqui.
+<0017> Já estava achando que nunca mais iria me levantar.
+<0018> Ainda não acabou. Ainda posso lutar.
+<0019> Ugh, estou ficando para trás.
+<0020> Não posso perder mais tempo parada aqui.
+<0021> O quê?
+<0022> Ainda não.
+<0023> Droga...
+<0024> Ugh.
+<0025> Eu vou atirar em você.
+<0026> Eu vou abrir um buraco em você.
+<0027> Não se mova.
+<0028> Te farei sucumbir.
+<0029> Guh.
+<0030> Este tanto de dano...
+<0031> É o quê!?
+<0032> Ainda posso...
+<0033> Isto vai ajudar.
+<0034> Agradeço por isto.
+<0035> Certo, já posso ir de novo.
+<0036> Eu devo estar bem agora...
+<0037> Estou voando...!?
+<0038> Para onde você está me levando?
+<0039> Qu-... Para onde estou indo?
+<0040> Uwah!
+<0041> Preciso... continuar.
+<0042> Não tenho tempo para... ficar parada.
+<0043> Droga. Eu errei.
+<0044> Ainda... posso... lutar.
+<0045> Para onde você está olhando?
+<0046> Que a batalha comece.
+<0047> Está preparado?
+<0048> Vamos decidir quem é o mais forte.
+<0049> Então você quer me desafiar.
+<0050> Hmph, que fraquinho.
+<0051> Não ache que sou presa fácil.
+<0052> Ugh, um ataque surpresa.
+<0053> Fogo.
+<0054> Eu vou te acertar.
+<0055> Simplesmente pereça.
+<0056> Tome isto.
+<0057> Guh!
+<0058> Eu me machuquei.
+<0059> Isto não é nada.
+<0060> Não é um problema.
+<0061> Guah!
+<0062> Foi um tiro certeiro.
+<0063> Você me pegou.
+<0064> *Tsk!*
+<0065> Você não pode me atingir.
+<0066> Uma evasiva bem sucedida.
+<0067> Vou desviar.
+<0068> Isto não é bom o suficiente.
+<0069> Não posso perder.
+<0070> Descanse um pouco aí.
+<0071> Phew, vamos ao próximo.
+<0072> Um resultado que não me surpreende.
+<0073> Guh, perdi!?
+<0074> Não é possível... Como assim...
+<0075> Ugh.
+<0076> Argh... Que droga.
+<0077> Vou me reabastecer.
+<0078> Eu vou pegar estes aqui.
+<0079> Estes são necessários.
+<0080> Estou agradecida.
+<0081> Oh raios.
+<0082> Minhas estrelas...
+<0083> Perdi algumas estrelas.
+<0084> Ugh, deixei cair algumas.
+<0085> Uma armadilha?
+<0086> O que há de errado comigo?
+<0087> Eu devia ter sido mais cuidadosa.
+<0088> Uma armadilha...? Mas que droga.
+<0089> O que raios é isso?
+<0090> Algo acabou de sair.
+<0091> Lá vem... Pode vir com tudo!
+<0092> Preciso me motivar novamente.
+<0093> Eu vou de estrelas.
+<0094> Estrelas...
+<0095> Vou começar a coletar estrelas.
+<0096> Isto seria mais pacífico do que lutar aleatoriamente.
+<0097> Eu preciso continuar ganhando.
+<0098> Isto é simples e fácil para mim.
+<0099> Vou mostrar a eles meus poderes.
+<0100> A vitória será minha.
+<0101> Sou a Alte.
+<0102> Sim, vamos lutar juntos.
+<0103> Certo, vamos lá.
+<0104> Pode contar comigo.
+<0105> Nós vamos começar o jogo agora.
+<0106> Eu vou prontamente caçar a vitória.
+<0107> Então este é o campo de batalha.
+<0108> Eu vou ganhar e voltar para casa.
+<0109> Certo, está na hora de voltar para casa.
+<0110> Ai ai, finalmente acabou.
+<0111> Phew, consegui aguentar.
+<0112> Então acabou.
+<0113> Você conseguiu algo.
+<0114> Era o que você queria?
+<0115> Fufu, você parece muito feliz.
+<0116> Ah, que bom né.
+<0117> Nós temos que trocar.
+<0118> Estou contando com você.
+<0119> Você pode continuar daqui.
+<0120> Você pode ficar no meu lugar?
+<0121> Isso.
+<0122> Eu gosto deste.
+<0123> Bom.
+<0124> Isto não é bom.
+<0125> O quê?
+<0126> Mas que sorte.
+<0127> Hm?
+<0128> Vamos começar.
+<0129> Hora de jogar um dado.
+<0130> Vamos lá.
+<0131> Como você está?
+<0132> Hmm...
+<0133> Ótimo.
+<0134> Isto é surpreedentemente impressionante.
+<0135> Oh não...
+<0136> Eu vou usar tudo o que posso.
+<0137> Vamos ver o que isto faz.
+<0138> Não me importa se esta arma pertence ao inimigo ou não.
+<0139> Você não imaginaria que eu jogaria esta aqui.
+<0140> Eu vou te derrotar dessa vez!
+<0141> Ugh, então, você é meu oponente, novo modelo!
+<0142> Não pense que você é melhor do que eu.
+<0143> Ugh, você é um monstro, no fim das contas...
+<0144> O que uma criança que nem você está fazendo aqui?
+<0145> Uma criança que nem você deseja lutar comigo... É sério isso!?
+<0146> Vá para casa antes que você se machuque.
+<0147> Ugh, você não é uma criança comum?
+<0148> Eu não imaginava que eu iria te achar em um lugar assim.
+<0149> Ugh, você tem uma aura sinistra sobre você...
+<0150> Eu quero que você fique deitado o máximo de tempo possível.
+<0151> Você vai queimar tanto os amigos quanto os inimigos?
+<0152> Hm, você está segurando uma faca de cozinha... Você consegue cozinhar?
+<0153> Você é uma cozinheira!?
+<0154> Bem... hmm... você pode me ensinar... como cozinhar?
+<0155> Ugh, a maneira como você usa sua faca... Você não é apenas uma garota qualquer.
+<0156> Aquela guerra de novo? Não estou a fim disso.
+<0157> Ugh, por que com estas pessoas?
+<0158> Vejo isto como um treinamento militar...
+<0159> Um treinamento com essas pessoas... Isto vai funcionar?

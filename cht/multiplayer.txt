@@ -1,0 +1,239 @@
+
+< FREEBATTLE_CREATELOBBY >
+戰役模式
+
+< FREEBATTLE_JOINLOBBY >
+加入房間
+
+< FREEBATTLE_SINGLEPLAYER >
+自由模式
+
+< FREEBATTLE_RETURN >
+返回
+
+< LOBBYLIST_RETRIEVINGLOBBIES >
+正在獲取房間。\n請稍候……
+
+< LOBBYLIST_RETRIEVINGDATA >
+正在獲取房間信息……
+
+< LOBBYLIST_DATATIMEOUT >
+獲取房間信息超時。
+
+< LOBBY_NOSTEAM >
+無法與Steam連接。
+
+< LOBBY_CREATING >
+正在建立Steam房間……
+
+< LOBBY_CREATEFAILED >
+建立Steam房間失敗。
+
+< LOBBY_CONNECTING >
+連接房間。請稍候……
+
+< LOBBY_CONNECTED >
+已連接至房間。
+
+< LOBBY_CONNECTFAILED >
+連接房間失敗。
+
+< LOBBY_NORESPONSE >
+沒有回應。
+
+< LOBBY_GAMEABORTED >
+遊戲已被終止。
+
+< LOBBY_JOINRESPONSE >
+正在等待主機回應……
+
+< LOBBY_JOINFAILED >
+無法加入遊戲。
+
+< LOBBY_FULL >
+房間已滿。
+
+< LOBBY_STEAMID_EXISTS >
+此SteamID已在遊戲中。
+
+< LOBBY_WRONGPASSWORD >
+密碼錯誤。
+
+< LOBBY_BANNEDFROMLOBBY >
+你已被禁止加入該房間。
+
+< LOBBY_VERSIONDIFFERENCE >
+房間版本不兼容。
+
+< LOBBY_VERSIONUPDATE >
+請更新至最新版本。
+
+< LOBBY_HOSTHASOLDVERSION >
+該房間使用了舊版本的遊戲。
+
+< LOBBY_LEAVECONFIRM >
+要離開房間嗎？
+
+< LOBBY_LEAVEWAIT >
+正在離開。請稍候……
+
+< LOBBY_PLAYERLEFT >
+玩家離開了遊戲。
+
+< LOBBY_KICKCONFIRM >
+真的要逐出這名玩家嗎？
+
+< LOBBY_KICKED >
+你被移出了房間。
+
+< LOBBY_PLAYERCONNECTIONLOST >
+與玩家的連接已斷開。
+
+< LOBBY_HOSTCONNECTIONLOST >
+與主機的連接已斷開。
+
+< LOBBY_REMOVEDFORIDLING >
+因閒置時間過長，你已被移出遊戲。
+
+< LOBBY_CHANGING_OWNER >
+更換房間所有者。
+
+< LOBBY_REPLACINGPLAYER >
+正在替換為CPU玩家。
+
+< LOBBY_SPECTATOR_CONNECTING >
+旁觀者正在連接……
+
+// Prefix: Spectator's name. 
+< LOBBY_SPECTATOR_JOINREQUEST >
+希望加入遊戲……
+
+< LOBBY_SPECTATOR_JOINREQUESTING >
+正在請求加入……
+
+< LOBBY_SPECTATOR_JOINDENIED >
+加入請求被拒絕了。
+
+< LOBBY_SPECTATOR_JOINNOPLAYERSLOTS >
+沒有玩家空位了。
+
+// LOBBY_SPECTATOR_JOIN + name + LOBBY_SPECTATOR_JOIN2
+// Spectator Domdi wants to join as player.
+< LOBBY_SPECTATOR_JOIN1 >
+旁觀者
+
+< LOBBY_SPECTATOR_JOIN2 >
+希望作為玩家加入遊戲……
+
+< LOBBY_PLAYERTOSPECTATOR_CONFIRM >
+要成為旁觀者嗎？
+
+< LOBBY_SPECTATORTOPLAYER_CONFIRM >
+要成為玩家嗎？
+
+< CHAT_TYPEPROMPT >
+<輸入信息後按ENTER發送>
+
+< CHAT_CONTROLLERTYPEPROMPT_1 >
+<按
+
+< CHAT_CONTROLLERTYPEPROMPT_2 >
+打開內置鍵盤輸入文本。>
+
+// 10 characters max.
+< CHAT_NAME_SYSTEM >
+系統
+
+// 10 characters max.
+< CHAT_NAME_EMPTY >
+<空白>
+
+< CHAT_NAME_DASHES >
+--------
+
+< CHAT_MUTE_SELF_ERROR >
+你不能屏蔽自己。
+
+< CHAT_MUTED_USER > 
+你屏蔽了%s。
+
+< CHAT_UNMUTED_USER > 
+你解除了對%s的屏蔽。
+
+< CHAT_SYSTEM_LOBBYCREATED >
+房間「%s」已創建！
+
+< CHAT_SYSTEM_LOBBYJOINED >
+已加入房間「%s」！
+
+< CHAT_SYSTEM_PLAYERJOINEDLOBBY >
+「%s」加入了房間！
+
+< CHAT_SYSTEM_GAMEENDED >
+遊戲結束！正在回到房間。
+
+< CHAT_SYSTEM_REQUESTEDPLAYERSLOT >
+已向主機請求玩家位置……
+
+< CHAT_SYSTEM_REQUESTEDSPECTATORSLOT >
+已向主機請求旁觀者位置……
+
+< CHAT_SYSTEM_PLAYERSLOTREQUESTTIMEOUT >
+玩家位置請求超時。
+
+< CHAT_SYSTEM_SPECTATORSLOTREQUESTTIMEOUT >
+旁觀者位置請求超時。
+
+< CHAT_SYSTEM_PLAYERTAKEOVER >
+「%s」接管「玩家%d」。
+
+< CHAT_SYSTEM_SWITCHEDTOPLAYER >
+已成為玩家！
+
+< CHAT_SYSTEM_SWITCHEDTOSPECTATOR >
+已成為旁觀者！
+
+< CHAT_SYSTEM_PLAYERSWITCHEDTOSPECTATOR >
+「%s」已從玩家切換為旁觀者。
+
+< CHAT_SYSTEM_SPECTATORSWITCHEDTOPLAYER >
+「%s」已從旁觀者切換為玩家。
+
+< CHAT_SYSTEM_PLAYERHASLEFTGAME >
+「%s」離開了遊戲。
+
+< CHAT_SYSTEM_LOSTCONNECTIONTOPLAYER >
+與「%s」失去連接。
+
+< CHAT_SYSTEM_CHEATDETECTED_CLIENT >
+%s使用了無效卡片，這可能是由於作弊或不同步。
+
+< CHAT_SYSTEM_CHEATDETECTED_HOST >
+%s因使用無效卡片而被移出遊戲，這可能是由於作弊或不同步。
+
+// Invite = game invitation
+< GAMEINVITE_PENDING_TITLE >
+待定邀請
+
+< GAMEINVITE_JOIN_TOOLTIP >
+只有在主菜單時才能加入遊戲。
+
+// Game speed: <nb>
+< GAMEINVITE_NORMAL_MODE_DETAILS >
+速度：%d
+
+// Game speed: <nb>, <boss name>, <boss difficulty>
+< GAMEINVITE_COOP_MODE_DETAILS >
+速度：%d，%s，%s
+
+< LOBBY_QUICKJOIN_TOOLTIP >
+快速加入。
+
+< PLAYERPLATE_STEAMLEVEL >
+LVL %d
+
+< PLAYERPLATE_STEAMWINS >
+Wins: %d
+
+[EOF]
+

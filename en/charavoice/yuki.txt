@@ -1,0 +1,166 @@
+<0000> Here I go.
+<0001> Throw!
+<0002> Go!
+<0003> There.
+<0004> I'm gonna use this card!
+<0005> I'm using a card.
+<0006> Hehehe.
+<0007> Well, I wonder how this'll go.
+<0008> It's a trap.
+<0009> I'm laying a trap.
+<0010> I wonder who'll get caught in this.
+<0011> Kehehe.
+<0012> I'll win with this.
+<0013> I'm going all out.
+<0014> Take this!
+<0015> Battle card!
+<0016> It's time for a gamble!
+<0017> Alright!
+<0018> I'm revived!
+<0019> Now it's my turn!
+<0020> I've got this!
+<0021> How stupid.
+<0022> You're kidding...
+<0023> Damnit!
+<0024> I still can't do it...?
+<0025> Take that!
+<0026> Hyaa!
+<0027> There!
+<0028> Eat this!
+<0029> Ugh.
+<0030> That hurts.
+<0031> Crap...
+<0032> Owwwww...
+<0033> I'm healed!
+<0034> I feel better.
+<0035> I can still keep going.
+<0036> Hah... Heavenly...
+<0037> I'm flying?!
+<0038> Where am I going?
+<0039> I've been sent flyiiiiing.
+<0040> Woah!
+<0041> Aah...
+<0042> No way... not me...
+<0043> You... re... kidding...
+<0044> What the hell...?
+<0045> It's bullying time.
+<0046> Let's go.
+<0047> Prepare yourself!
+<0048> Well then, let's do this.
+<0049> Bring it on.
+<0050> You want to challenge me? Gutsy, I give you that.
+<0051> Okay, come at me from any direction.
+<0052> You think you can beat me?
+<0053> You're slow.
+<0054> This is going to hurt a little.
+<0055> Attack!
+<0056> Here I come!
+<0057> Oww.
+<0058> Ooooh.
+<0059> Not bad.
+<0060> Tch.
+<0061> Owww!!
+<0062> Cut me a little slack here!
+<0063> Gaaaah!
+<0064> Geh.
+<0065> You think you can hit me?
+<0066> You can't hit me.
+<0067> I'm too quick.
+<0068> I can see your moves as plain as day.
+<0069> My win.
+<0070> Well, this is the obvious outcome.
+<0071> Do you understand how terrifying I am, now?
+<0072> Hehehe, this must be frustrating.
+<0073> Ah, you'll pay for this...
+<0074> Ngh...
+<0075> I don't... accept this...
+<0076> How frustrating!!
+<0077> Ka-ching, ka-ching.
+<0078> The stars are mine!
+<0079> I'm rolling in stars.
+<0080> How lucky!
+<0081> Waaaah!
+<0082> M-my stars...!
+<0083> No! My stars!
+<0084> Not good!
+<0085> A trap...!
+<0086> Seriously?!
+<0087> A trap in a place like this?!
+<0088> Someone got me...?!
+<0089> Hmm, this seems kind of dangerous.
+<0090> What's this? This one's dangerous.
+<0091> I get the feeling this one's a big-shot...
+<0092> This has gotten interesting.
+<0093> I'll collect stars.
+<0094> It's gotta be stars.
+<0095> I'll collect stars and win big.
+<0096> Stars sound good.
+<0097> I'll keep winning.
+<0098> Waruda, to battle!
+<0099> I'll show you my power.
+<0100> I'll blow you all away!
+<0101> Oh, me?
+<0102> Hey there.
+<0103> I'll give it my all.
+<0104> It's my turn?
+<0105> We're starting.
+<0106> Well then, let's go.
+<0107> A new game is starting.
+<0108> Let's go and win.
+<0109> That was the obvious result.
+<0110> Well, that's how it goes.
+<0111> All right, a total victory!
+<0112> Heh, that was pretty fun.
+<0113> Something new?
+<0114> Oh, this is...
+<0115> Very nice.
+<0116> Now my battle strength has increased.
+<0117> You got this.
+<0118> Switch with me.
+<0119> You take it from here.
+<0120> Alright, let's switch.
+<0121> Okay.
+<0122> Nice.
+<0123> Yeah!
+<0124> Not good.
+<0125> Seriously?
+<0126> Lucky!
+<0127> Hm?
+<0128> Alright, let's go!
+<0129> Here goes nothing.
+<0130> Here I go!
+<0131> Yo.
+<0132> Well then...
+<0133> That's it!
+<0134> Amazing.
+<0135> What the hell...
+<0136> Your power belongs to me.
+<0137> I'm borrowing this for a bit.
+<0138> Let me use that.
+<0139> So this is how it feels!
+<0140> Thank you.
+<0141> Here I come, QP.
+<0142> Bring it, QP!
+<0143> You were naive to think you could beat me, QP.
+<0144> No way, I lost to QP...
+<0145> I'll test your power.
+<0146> Show me your combined powers.
+<0147> Good try, but you've still got a ways to go.
+<0148> You've gotten strong... My compliments.
+<0149> The most dangerous woman in the Waruda... I'll test your true power!
+<0150> Woah, Kiriko, you came out of nowhere!
+<0151> Phew... You're totally crazy.
+<0152> Having you as an enemy is terrifying...
+<0153> There's no way I could lose to you...
+<0154> Tch, so you're my opponent!
+<0155> I won somehow...
+<0156> Ngh, I lost after all...
+<0157> Pudding, huh? O-hoho.
+<0158> Pudding with soy sauce tastes like sea urchin!
+<0159> You're wearing some pretty cool clothes, missus!
+<0160> What's with this girl... she's seriously fired up.
+<0161> Beat me, and I'll buy you some food.
+<0162> Krila! Alright, you bring it on!
+<0163> You're still no match for me.
+<0164> Whoa, you did way better than I thought you would.
+<0165> A game played only by Warudas, let's do it!

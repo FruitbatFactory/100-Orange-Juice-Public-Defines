@@ -1,0 +1,263 @@
+
+// ========= Scene: Summer 2022 Event Start =========
+
+// (ellie)
+<0000> "Mano do céu! Olha o quão grande é este lago!"
+
+// (ellie)
+<0001> "Lulu, vamos nadar nele!"
+
+// (lulu)
+<0002> "Ebaa! Lulu está grata que ela trouxe roupa de banho!"
+
+// (ellie)
+<0003> "Você fica muito muito fofa em seu bikini, Lulu!"
+
+// (lulu)
+<0004> "Você também, Ellie!"
+
+// (cook)
+<0005> "Ei, vocês duas, vocês não estão aqui para brincar na água."
+
+// (halena)
+<0006> "Um santuário à beira do lago... É para aí que vocês deviam ir."
+
+// (ellie)
+<0007> "Nós ouvimos isso mais cedo! Olha, não é confortável ficar andando por aí quando está tão quente assim."
+
+// (ellie)
+<0008> "Então a gente devia aproveitar que estamos perto de um lago e nadar nele um pouco!"
+
+// (lulu)
+<0009> "Ela está certa!"
+
+// (halena)
+<0010> "Bem, eu concordo com você que está quente e eu entendo como você se sente..."
+
+// (lulu)
+<0011> "Ebaaa!"
+
+// (ellie)
+<0012> "Ebaaa!"
+
+// (halena)
+<0013> "Uhum..."
+
+// (halena)
+<0014> "Eu devia ter trazido uma roupa de banho, também."
+
+// (cook)
+<0015> "Honestamente, Cook deseja brincar na água um pouquinho também."
+
+// (ellie)
+<0016> "Apenas entrem na água nessas roupas mesmo. Nós devíamos todas nos divertir aqui!"
+
+// (???)
+<0017> "Eu não acredito que vocês garotas estão brincando desse jeito."
+
+// (ellie)
+<0018> "!? Quem está aí!"
+
+// (maynie)
+<0019> "Há quanto tempo, suas pirralhas!"
+
+// (arnelle)
+<0020> "Aaahahaha! Faz um tempo desde aquela caverna de cogumelos."
+
+// (ellie)
+<0021> "Você é..."
+
+// (lulu)
+<0022> "Aquela Caçadora de Recompensas estranha."
+
+// (arnelle)
+<0023> "É Arnelle! Nunca esqueça o meu nome!"
+
+// (lulu)
+<0024> "Desculpa."
+
+// (halena)
+<0025> "Ellie, quem são essas pessoas?"
+
+// (ellie)
+<0026> "Elas e a gente estivemos em apuros no passado, e foi tudo culpa delas!"
+
+// (maynie)
+<0027> "Não ouse botar toda a culpa em nós!"
+
+// (lulu)
+<0028> "Foi um desastre depois que vocês duas comeram os cogumelos..."
+
+// (arnelle)
+<0029> "Foi. Eu espero que aquilo nunca mais aconteça."
+
+// (arnelle)
+<0030> "Bom, não é importante agora! Vocês estão aqui no lago, e isso quer dizer..."
+
+// (maynie)
+<0031> "Vocês estão atrás do tesouro no santuário, não é?"
+
+// (ellie)
+<0032> "Tesouro..."
+
+// (lulu)
+<0033> "No santuário..."
+
+// (arnelle)
+<0034> "Diversas pessoas sabem que existe um tesouro escondido no santuário perto desse lago."
+
+// (maynie)
+<0035> "Mas não vamos deixar vocês chegarem perto! Será da Dona Arnelle!"
+
+// (arnelle)
+<0036> "Isso mesmo! Ao contrário de antes, nós estamos perfeitamente preparadas para hoje! Toda a tripulação do Time Arnelle está aqui!"
+
+// (arnelle)
+<0037> "Permita-me introduzir a vocês Pomeranius e Watty!"
+
+// (pomeranius)
+<0038> "Peço desculpas por não cumprimentá-las mais cedo. Eu sou Pomeranius."
+
+// (watty)
+<0039> "O-olá."
+
+// (ellie)
+<0040> "Um cachorro."
+
+// (cook)
+<0041> "E um peixe!!!!"
+
+// (arnelle)
+<0042> "A força tremenda de Maynie, o nariz aguçado de Pomera, e o incrível poder mágico de Watty; Com tudo isso combinado, Time Arnelle é invencível."
+
+// (pomeranius)
+<0043> "Com todo respeito, Minha Senhora, meu nariz não está funcionando corretamente no momento, pois essa mulher peixe aqui cheira demais a peixe."
+
+// (watty)
+<0044> "M-me desculpe...!!! Está tão quente hoje... então eu cheiro muito mais do que o comum..."
+
+// (arnelle)
+<0045> "...Oh não."
+
+// (pomeranius)
+<0046> "Entretanto, não existem motivos para se preocupar, Minha Senhora. Ninguém é mais leal a você do que eu."
+
+// (maynie)
+<0047> "Besteira! A lealdade de Maynie a ela é mais forte! Cale este seu fuçinho!"
+
+// (pomeranius)
+<0048> "Você deve parar de abrir sua boca para que mais nenhum comentário grosseiro saia dela e a graça de Minha Senhora não seja manchada."
+
+// (maynie)
+<0049> "Seu filho de uma...!"
+
+// (arnelle)
+<0050> "Parem de brigar vocês dois."
+
+// (watty)
+<0051> "Um... b-bem, acredito que devíamos estar indo até o santuário agora..."
+
+// (watty)
+<0052> "Aquelas quatro garotas... Elas já estão a caminho de lá."
+
+// (arnelle)
+<0053> "Mas o quê! Quando elas sairam!"
+
+// (pomeranius)
+<0054> "Ugh, isto não teria acontecido se uma moça de pavio curto não tivesse nos atrasado."
+
+// (maynie)
+<0055> "Você não tem direito algum de acusar Maynie!"
+
+// (arnelle)
+<0056> "Raios! Vamos atrás delas!"
+
+// ========= Scene: Summer 2022 Event Ending =========
+
+// (ellie)
+<0057> "Nossa, essa sala é brilhante!"
+
+// (lulu)
+<0058> "Realmente parece com uma sala onde um tesouro estaria escondido!"
+
+// (cook)
+<0059> "*Cheira cheira* Que ótimo para vocês! A intuição de Cook diz a ela que este é o local."
+
+// (cook)
+<0060> "Este é 'O Local Onde Vocês Supostamente Devem Vir.'"
+
+// (ellie)
+<0061> "Sério!?"
+
+// (halena)
+<0062> "Este é, em outras palavras, o local onde vocês atingem o objetivo de sua jornada."
+
+// (ellie)
+<0063> "O objetivo de nossa jornada... Isso é..."
+
+// (arnelle)
+<0064> "Raios! Elas chegaram antes de nós!"
+
+// (lulu)
+<0065> "Eita, é a Senhora Caçadora de Tesouros!"
+
+// (maynie)
+<0066> "Senhora Arnelle! Parece que elas ainda não encontraram o tesouro!"
+
+// (arnelle)
+<0067> "É o que parece. O tesouro ainda está aqui em algum lugar...! Pomeranius, você consegue cheirá-lo?"
+
+// (pomeranius)
+<0068> "Cheira forte. Mais forte que a garota peixe aqui do meu lado."
+
+// (watty)
+<0069> "E-eu cheiro tão mal assim...? Eu sinto muito muito mesmo."
+
+// (pomeranius)
+<0070> "Entretanto, eu diria que o cheiro está mais para..."
+
+// (ellie)
+<0071> "Eita, um terremoto!?"
+
+// (halena)
+<0072> "Não, parece que algum tipo de mecânismo foi ativado."
+
+// (cook)
+<0073> "Uma armadilha!?"
+
+// (halena)
+<0074> "Não é seguro aqui. Nós temos que sair daq-..."
+
+// (arnelle)
+<0075> "Raios, a saída está bloqueada!"
+
+// (ellie)
+<0076> "Nós vamos ser enterrados vivos aqui!?"
+
+// (lulu)
+<0077> "O ovo da sorte de Lulu!!!!"
+
+// (ellie)
+<0078> "Lulu!"
+
+// (halena)
+<0079> "Algo... saiu de fora do ovo?"
+
+// (cook)
+<0080> "Espera, isto é... outra casca de ovo!?"
+
+// (lulu)
+<0081> "Todo mundo entre na casca de ovo da Lulu!"
+
+// (ellie)
+<0082> "Isso!"
+
+// (arnelle)
+<0083> "Raios."
+
+// (lulu)
+<0084> "Ovo da sorte... por favor proteja todo mundo..."
+
+// (ellie)
+<0085> "Aaaaaaah!"
+

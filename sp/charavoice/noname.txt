@@ -1,0 +1,165 @@
+<0000> ¡Eiya!
+<0001> ¡Joh!
+<0002> ¡Tey!
+<0003> ¿Así?
+<0004> ¡Aquí está la carta que usaré!
+<0005> ¡En tiempos como este, lo que hago es...!
+<0006> Te mostraré lo que tengo.
+<0007> ¡Este yo usará una carta!
+<0008> ¡Hora de la trampa!
+<0009> ¡Admirad esta trampa que tengo en mis manos!
+<0010> Este yo colocará una trampa.
+<0011> ¡Me pregunto quién sufrirá por esto! ¡Kukuku!
+<0012> ¡Hora de una carta de batalla!
+<0013> ¡Este yo está aumentando su fuerza!
+<0014> ¡Fujajajaja!
+<0015> ¡Acabaré con esto de una vez por todas!
+<0016> ¡Apareced, mis hermanos!
+<0017> Este yo está recuperándose.
+<0018> Pensé que todo había terminado...
+<0019> Mi cuerpo, mi cuerpo...
+<0020> ¡Recuperación completa!
+<0021> Debes estar bromeando...
+<0022> ¡Demonios!
+<0023> En serio...
+<0024> ¡Mi cuerpo! ¡Has vuelto hacia mí!
+<0025> ¡Aquí está mi ataque!
+<0026> ¡Nadie podrá detenerme!
+<0027> ¡Orayo!
+<0028> ¡Cae ante mí!
+<0029> ¡Eso duele!
+<0030> Detente.
+<0031> ¡Apestas!
+<0032> ¡Ugoe!
+<0033> Esto es refrescante.
+<0034> Este yo está siendo curado.
+<0035> Se siente bien.
+<0036> Gracias al cielo.
+<0037> ¡¿Este yo está siendo teletransportado...?!
+<0038> ¡Nuaah!
+<0039> ¡Eh, mi cuello se saldrá de su lugar!
+<0040> ¡¿A dónde me llevan?!
+<0041> No... puede ser.
+<0042> M-mi cuerpo, lo necesito...
+<0043> Me siento tan miserable...
+<0044> D-demonios...
+<0045> ¡Pelea contra mí!
+<0046> Tendremos una batalla, tú y yo.
+<0047> Te derrotaré.
+<0048> ¡Quiero empezar una pelea contigo!
+<0049> ¿Tienes idea de a quién estás desafiando?
+<0050> Desafío aceptado. Vamos.
+<0051> ¿Quieres pelear? Ven.
+<0052> Eres audaz.
+<0053> ¡Ora!
+<0054> ¡Cómete mi puño!
+<0055> ¡Toma esto!
+<0056> ¡Uooh!
+<0057> ¡Eso duele!
+<0058> ¡Uja!
+<0059> ¡Ugh!
+<0060> ¡Mierda!
+<0061> ¡Guaaah!
+<0062> ¡Nuaaa, el precioso yoooo!
+<0063> ¡¡Espera, espera, espera!!
+<0064> Por favor, no... ¡Gujaah!
+<0065> Este yo se mueve como un bailarín.
+<0066> No soy un blanco fácil.
+<0067> No puedes darme.
+<0068> Muy lento.
+<0069> Una victoria poco sorpresiva.
+<0070> ¡Sabía que te vencería!
+<0071> Fujajaja, esto se siente bien.
+<0072> Acabo de hacer un excelente trabajo...
+<0073> No puede ser... Esto no puede ser...
+<0074> Esto es una broma... ¿Verdad?
+<0075> ¡Mi cuerpo!
+<0076> ¿Fui... derrotado...?
+<0077> Este yo conseguirá estrellas.
+<0078> En un sentido, yo también soy una estrella.
+<0079> Todos los que brillan se atraen entre sí.
+<0080> Están brillando bien.
+<0081> Perdí contra lo que me hace brillar...
+<0082> ¡No, no se vayan...!
+<0083> Mis estrellas... ¿A dónde se van...?
+<0084> Rayos... Perdí algunas...
+<0085> ¿Una trampa...? Juega limpiamente.
+<0086> Soy demasiado bueno para terminar así.
+<0087> Este yo cayó en una trampa...
+<0088> Quién rayos dejó esto aquí... ¡Malditos sean!
+<0089> *silbido* Aquí vienen.
+<0090> Puedo sentir... su presencia.
+<0091> Parece que alguien ha llegado para desatar el caos.
+<0092> Las cosas parecen estar mejorando por aquí.
+<0093> ¡Soy una estrella consiguiendo estrellas!
+<0094> Me conseguiré muchas de las brillantes.
+<0095> Todas las estrellas brillan únicamente para mí.
+<0096> Son bonitas, ¿no? Es por eso que las consigo. Es algo simple.
+<0097> Mi sangre dice que debo pelear. Aunque, no tengo sangre fluyendo dentro de mí.
+<0098> El campo de batalla me está llamando.
+<0099> ¿Por qué peleo? No necesito una razón.
+<0100> ¿Podré dejarlo todo ahí afuera?
+<0101> ¿Es mi turno?
+<0102> Muy bien, iré a hacer todo mucho más interesante.
+<0103> ¡Esto causará una gran devastación!
+<0104> ¿Quieres ver lo fuerte que soy? Entonces te mostraré.
+<0105> Este yo está preparándose.
+<0106> Bien, comencemos con el juego.
+<0107> Así que este es el campo para mi espectáculo, ¿eh?
+<0108> Admirad lo increíble que soy.
+<0109> Amistad + esfuerzo + victoria = yo.
+<0110> Fujajaja, este yo está feliz por haber conseguido una victoria fácil y predecible.
+<0111> Con este poder, esto no es ninguna meta difícil.
+<0112> No está mal.
+<0113> Aquí está el objeto especial escogido por mí.
+<0114> Tengo mucha suerte para esto.
+<0115> Querías esto, ¿no? Puedo ver eso.
+<0116> Este yo está teniendo mucha suerte.
+<0117> Cambio de lugar.
+<0118> Cambio.
+<0119> Es tu turno para jugar.
+<0120> Este soy yo retirándome por el momento.
+<0121> Oh.
+<0122> Bien.
+<0123> Sí.
+<0124> ¿Qué?
+<0125> Demonios.
+<0126> Día de suerte.
+<0127> Hmm.
+<0128> Vamos.
+<0129> Tiraré los dados.
+<0130> Ve.
+<0131> Eh, soy yo.
+<0132> Hmm...
+<0133> Bien.
+<0134> Qué bien.
+<0135> Pero qué...
+<0136> Puedo hacer lo que sea.
+<0137> Convertiré esto en una parte de mi poder.
+<0138> ¿Sabes qué? Puedo usarlo mejor.
+<0139> ¡Las cartas de otros también son las mías!
+<0140> Gracias.
+<0141> Eh, mi amigo, ¿cómo estás?
+<0142> ¿Oh? ¿Quieres pelear, amigo mío?
+<0143> Esa fue una gran batalla.
+<0144> Eres un buen luchador, amigo mío.
+<0145> Kyoko, deberíamos divertirnos.
+<0146> Vaya, ¿qué estás haciendo, Kyoko?
+<0147> Estoy cansado. Necesito tu regazo como almohada, Kyoko.
+<0148> E-espera, me disculparé... ¡Gyaaah!
+<0149> Oh, pero si no es Sumika.
+<0150> No me llames "Papá falso".
+<0151> Gané, mocosa.
+<0152> Demonios... Enana descarada...
+<0153> ¿Y qué rayos haré en este estado?
+<0154> Esto apesta... ¿Qué clase de broma es esta?
+<0155> ¿En dónde está ese cuerpo perfecto que tenía...?
+<0156> Ugh... Tengo que huir de aquí...
+<0157> ¡Mi cuerpo, te extrañé tanto!
+<0158> Aquí esta el yo completo volviendo al juego.
+<0159> Tener brazos y piernas es lo mejor...
+<0160> Muy bien... es la hora de la venganza...
+<0161> Si tú desapareces, yo seré el tú de verdad.
+<0162> Vamos, deberíamos trabajar como gemelos.
+<0163> ¡De ahora en adelante, yo seré el verdadero!
+<0164> Lo siento. No volveré a atacarte otra vez...

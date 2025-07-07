@@ -1,0 +1,116 @@
+
+< FIELDEVENT_NONE >
+name=无
+descr=
+
+< FIELDEVENT_DEFAULT >
+name=默认
+descr=
+
+< FIELDEVENT_RANDOM >
+name=随机
+descr=
+
+< FIELDEVENT_BOSSENCOUNTER >
+name=BOSS现身
+descr=
+
+< FIELDEVENT_REGENERATION >
+name=恢复
+descr=所有角色恢复1点HP。\n\n频率：每5轮
+
+< FIELDEVENT_RANDOMWARP >
+name=随机传送
+descr=所有角色传送至随机格子。\n\n频率：每5轮
+
+< FIELDEVENT_CHARITY >
+name=恩惠
+descr=所有玩家抽取1张卡。\n\n频率：每5轮
+
+< FIELDEVENT_AIRRAID >
+name=空袭
+descr=所有角色受到1点伤害。\n\n频率：每5轮
+
+< FIELDEVENT_MINELAYER >
+name=布雷
+descr=随机设置陷阱卡1张。\n\n频率：每3轮
+
+< FIELDEVENT_MIRACLE >
+name=奇迹
+descr=所有战斗、奖励、抽卡、掉落格的效果变成2倍。\n\n频率：每5轮\n持续：1轮
+
+< FIELDEVENT_BATTLEFIELD >
+name=战场
+descr=所有的奖励格和掉落格都变为遭遇格。\n\n频率：每6轮\n持续：3轮
+
+< FIELDEVENT_CONFUSION >
+name=混乱
+descr=将玩家的所有手牌打乱，且卡面不可见。\n\n频率：每7轮\n持续：1轮
+
+< FIELDEVENT_BACKTRACK >
+name=返回
+descr=所有角色移动方向反转。\n\n频率：每8轮\n持续：1轮
+
+< FIELDEVENT_SPRINT >
+name=疾走
+descr=移动骰枚数变成2倍。（最多4枚）\n\n频率：每6轮\n持续：1轮
+
+< FIELDEVENT_HOMEROULETTE >
+name=HOME轮盘
+descr=所有HOME位置重洗。\n\n频率：每9轮
+
+< FIELDEVENT_BOMBER >
+name=炸弹
+descr=随机设置1个炸弹，1～4轮后以十字爆炸。\n\n爆发范围内的格子上的所有玩家受到2点伤害。\n频率：每2轮
+
+< FIELDEVENT_MYSTERY >
+name=神秘
+descr=随机发生一个场地事件。\n\n频率：每5轮
+
+< FIELDEVENT_FREEZE >
+name=冰冻
+descr=场地上三分之一的未冰冻格被冰冻。\n\n频率：每5轮\n持续：1轮
+
+< FIELDEVENT_TREASURE >
+name=宝箱
+descr=将一个包含奖励的宝箱放置在随机位置。\n在该格停留时可以打开宝箱。\n\n频率：每1轮
+
+< FIELDEVENT_AMP >
+name=增幅
+descr=所有角色的能力值中的一项+1。\n\n频率：每6轮\n持续：2轮
+
+< FIELDEVENT_PLAYGROUND >
+name=游乐场！
+descr=停在游乐场格时会进行一个小游戏。\n\n频率：每5轮
+
+< FIELDEVENT_TERROR >
+name=恐惧来袭
+descr=一些格子会变得使你可以与乔纳桑战斗。\n\n频率：不定\n持续：1轮
+
+< FIELDEVENT_FISHING >
+name=捉鱼
+descr=在钓鱼小游戏中挑战其他玩家。\n\n频率：每9轮
+
+< FIELDEVENT_GOO >
+name=粘液
+descr=场地上三分之一的未被粘液覆盖的格子被粘液覆盖。\n\n频率：每5轮\n持续：1轮
+
+< FIELDEVENT_SPORES >
+name=孢子
+descr=在场地上生成蘑菇。\n\n频率：每3轮
+
+< FIELDEVENT_CHAOS_BATTLEFIELD >
+name=混沌战场
+descr=
+
+< FIELDEVENT_CHAOS_STARVATION >
+name=食不果腹
+descr=
+
+< FIELDEVENT_CHAOS_OVERINDULGENCE >
+name=全面纵溺
+descr=
+
+< FIELDEVENT_CONVERGENCE >
+name=收敛
+descr=当前场地将随机切换为另一个场地。\n\n频率：每6轮

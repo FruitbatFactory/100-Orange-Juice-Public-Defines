@@ -1,0 +1,302 @@
+
+< CARD_BOOST_DASH >
+name=Dash!
+descr=For this turn, roll two dice for movement.
+flavor="Faster!" ―Suguri
+
+< CARD_BOOST_EXTEND >
+name=Extend
+descr=Stock Effect\nAfter suffering KO, you will revive on the following turn.
+flavor="All good for now!" ―Marc
+
+< CARD_BOOST_FLIPOUT >
+name=Flip Out
+descr=Stock Effect\nNext time you land on a drop panel, the player(s) with the highest number of stars will lose the same number of stars as you.
+flavor="......!" ―Mei
+
+< CARD_BOOST_LONGSHOT >
+name=Long-Distance Shot
+descr=Deals 1 damage to the selected enemy unit.
+flavor="I can hit you from anywhere." ―Iru
+
+< CARD_BOOST_NICEJINGLE >
+name=Nice Jingle
+descr=Stock Effect.\nThe next bonus panel gives you twice as many stars.
+flavor="We've got a bunch." ―Aru
+
+< CARD_BOOST_NICEPRESENT >
+name=Nice Present
+descr=Draw 2 cards.
+flavor="You're going to help me deliver the presents." ―Aru
+
+< CARD_BOOST_PRINCESS >
+name=Princess's Privilege
+descr=Discard all cards in your hand and draw 3 cards.\nCan only be used when holding only Princess's Privilege or you have at least 3 cards in your hand.
+flavor="You may come and visit my house some day." ―Fernet
+
+< CARD_BOOST_PUDDING >
+name=Pudding
+descr=Fully restore HP.
+flavor="Hooray!" ―QP
+
+< CARD_BOOST_COOKIE >
+name=Saki's Cookie
+descr=Heals 1 HP.
+flavor="Have a cookie!" ―Saki
+
+< CARD_BOOST_STIFFCRYSTAL >
+name=Stiff Crystal
+descr=Stock Effect\nThis card negates the effect of a trap card. Gain 5 stars per level of cancelled trap.
+flavor="Such a pain in the neck." ―Kyoko
+
+< CARD_BATTLE_BIGMAGNUM >
+name=Big Magnum
+descr=Pay 1 HP when you use this card. During this battle, gain +2 ATK. If you would suffer KO from using this card, the card cannot be used.
+flavor="Go! Big Magnum!" ―Captain Tequila
+
+< CARD_BATTLE_FINALBATTLE >
+name=Final Battle
+descr=This battle will last until either unit suffers KO (Maximum of 10 rounds).
+flavor="To protect everyone!"\n―Suguri & Hime
+
+< CARD_BATTLE_ONFIRE >
+name=I'm on Fire!
+descr=During this battle,\ngain +1 ATK and -1 DEF.
+flavor="Let's play our lives away!" ―Kae
+
+< CARD_BATTLE_RAINBOW >
+name=Rainbow-Colored Circle
+descr=During this battle, gain +2 EVD and -1 DEF.
+flavor=Like drawing a rainbow-colored circle.
+
+< CARD_BATTLE_RBITS >
+name=Rbits
+descr=During this battle, gain +2 DEF. You may not use the Evade command.
+flavor="Formation Orbit!" ―QP
+
+< CARD_BATTLE_REVERSE >
+name=Reverse Attribute Field
+descr=During this battle, the positive and negative values of each ability of both units are inverted after adjustment.
+flavor="Aren't you too serious about this game? You're so da... I mean, far too immature!" ―Mei
+
+< CARD_BATTLE_SHIELD >
+name=Shield
+descr=Gain +3 DEF during this battle. However, you may not attack. May only be used by the defender.
+flavor="The most important thing is: make it back here alive." ―Sham
+
+< CARD_TRAP_ASSAULT >
+name=Assault
+descr=Battle the player who set this card, starting with their attack.
+flavor="I'll make you leave the guild today for sure!" ―Peat
+
+< CARD_TRAP_BADPUDDING >
+name=Bad Pudding
+descr=Discard a random card.
+flavor="Pudding with soy sauce, tastes like sea urchin!" ―Yuki
+
+< CARD_TRAP_DANGEROUSPUDDING >
+name=Dangerous Pudding
+descr=Stock Effect\nYour next turn will be skipped.
+flavor='One glance is all it took for that pudding to steal my heart.'
+
+< CARD_TRAP_EXCHANGE >
+name=Exchange
+descr=Exchange the cards in your hand, your stars and your current panel position with the player who set this card.
+flavor="Heavy..." ―Suguri\n"So drafty without my cap..." ―Marc
+
+< CARD_TRAP_FLAMETHROWER >
+name=Flamethrower
+descr=KO's a player. If the player has any cards in their hand, they will lose all of them instead of suffering KO.
+flavor="Heeehaaaaah!" ―Punk
+
+< CARD_TRAP_TOYSTORE >
+name=For the Future of the Toy Store
+descr=Lose half your stars. The player who set this card will gain the lost stars. This card can only be used with less than 50 stars.
+flavor="If only! If only there was no Santa!" ―Arthur
+
+< CARD_TRAP_GOAWAY >
+name=Go Away
+descr=You are moved to a randomly chosen panel.
+flavor="Ahaha, I like this." ―Nanako
+
+< CARD_TRAP_HEAT300 >
+name=Heat 300%
+descr=Stock Effect(1):\nIn the next battle, gain -2 DEF.
+flavor="All I need to do is dodge every attack!" ―Suguri
+
+< CARD_TRAP_INVASION >
+name=Invasion
+descr=You will have an encounter. The enemy will attack first.
+flavor="What, I was attacked...?" ―Suguri
+
+< CARD_TRAP_MIMYUU >
+name=Mimyuu's Hammer
+descr=Deals 1 damage.
+flavor="Thank you for dying!" ―Mimyuu
+
+< CARD_TRAP_PIGGYBANK >
+name=Piggy Bank
+descr=Gain stars equal to five times the number of chapters passed since this card was set.
+flavor="Dad, can't I break the piggy yet?" ―Mescal
+
+< CARD_TRAP_PURES >
+name=Sky Restaurant 'Pures'
+descr=Lose half your stars and fully restore HP.
+flavor="We have a guest to treat!" ―Chris
+
+< CARD_TRAP_TRAGEDY >
+name=Tragedy in the Dead of Night
+descr=Discard a random card. That card will go to the player who set this card.
+flavor='Such happiness will be snatched away just like that.'
+
+< CARD_EVENT_SEAGULLS >
+name=Cloud of Seagulls
+descr=A randomly chosen unit will receive 2 damage.
+flavor="Squaawk!" ―Seagull
+
+< CARD_EVENT_DINNER >
+name=Dinner
+descr=Heals all units for 3 HP.
+flavor="Let's have supper together." ―Natsumi
+
+< CARD_EVENT_FORCEDREVIVAL >
+name=Forced Revival
+descr=All units suffering KO are revived with 1 HP.
+flavor="You'll all be up in a jiffy." ―Kiriko
+
+< CARD_EVENT_GIFTEXCHANGE >
+name=Gift Exchange
+descr=All cards are gathered from the players and dealt back randomly. The total number of each player's cards remains unchanged.
+flavor="A gift exchange? Let's do it!"\n―Rbit, Red and Blue
+
+< CARD_EVENT_HEREANDTHERE >
+name=Here and There
+descr=All units are moved to randomly chosen panels.
+flavor="To the next world!" ―Marie Poppo
+
+< CARD_EVENT_HOLYNIGHT >
+name=Holy Night
+descr=Permanent Effect\nStart-of-chapter bonus stars are increased by one.
+flavor="Aha, that's why it's a party night." ―Hime
+
+< CARD_EVENT_LITTLEWAR >
+name=Little War
+descr=Effect Duration: 3 chapters\nOffense and defense will happen twice in all battles.
+flavor="I believe... I have the power to stop this..." ―Suguri
+
+< CARD_EVENT_OHMYFRIEND >
+name=Oh My Friend
+descr=A boss will show up.
+flavor="Machines have friends too." ―NoName
+
+< CARD_EVENT_OUTOFAMMO >
+name=Out of Ammo
+descr=Effect Duration: 1 chapter\nNo player may use any cards.
+flavor="Ran out of ammo!" ―Peat
+
+< CARD_EVENT_SEALEDGUARDIAN >
+name=Sealed Guardian
+descr=Every unit's HP becomes 1.
+flavor="Meet the guardian angel of this vessel." ―Shifu
+
+< CARD_EVENT_ALLOUTMODE >
+name=Super All-Out Mode
+descr=Stock Effect\nAll units gain +2 ATK during their next battle.
+flavor="This is gonna hurt even if you know it's coming!!" ―Tomomo
+
+< CARD_EVENT_WARUDA >
+name=We Are Waruda
+descr=Move all trap cards onto randomly chosen panels.
+flavor="Useless. No one can beat Tomato." ―Tomato
+
+< CARD_HYPER_SUGURI >
+name=Accelerator
+descr=Effect Duration: 1 chapter\nRoll two dice for movement, battle, bonus and drop.
+flavor="I'm accelerating." ―Suguri
+
+< CARD_HYPER_FERNET >
+name=Air Strike
+descr=All enemies take 1 to 3 damage. Gain 15 stars on every KO.
+flavor="Hmph, go down, all of you." ―Fernet
+
+< CARD_HYPER_HIME >
+name=Binding Chains
+descr=Stock Effect\nAll Units except yours will skip their next turn. Apply "Bound" to all active enemies. Effect Duration: 2 Chapters. Gain -2 EVD and -1 MOV.
+flavor="I don't like doing this sort of thing." ―Hime
+
+< CARD_HYPER_PEAT >
+name=Blue Crow the Second
+descr=During this battle, gain ATK and DEF but lose EVD equal to the number of cards in your hand.
+flavor="I'm gonna settle this!" ―Peat
+
+< CARD_HYPER_SORA >
+name=Extraordinary Specs
+descr=Effect Duration: 1 chapter\nRoll 6 for movement, battle, bonus and drop.
+flavor="I'd appreciate it if you dropped your weapons." ―Sora
+
+< CARD_HYPER_YUKI >
+name=Gamble!
+descr=A randomly chosen unit is KO'd.
+flavor="Why not use this to decide whose turn it is?" ―Yuki
+
+< CARD_HYPER_QP >
+name=Hyper Mode
+descr=Gain +2 ATK during this battle. If your unit suffers KO during this battle, you give no stars or Wins and the unit will revive next turn.
+flavor="HYPER MODE!" ―QP
+
+< CARD_HYPER_TOMOMO >
+name=Magical Massacre
+descr=All units whose HP is full or higher will suffer KO. Gain -1 REC on next Revive roll per unit KO'd (other than yourself).
+flavor="Disappear." ―Tomomo
+
+< CARD_HYPER_ARU >
+name=Present for You
+descr=All players draw cards until they have a full hand. Those with full hand draw 1 card instead. Gain stars equal to 10x the number of all cards drawn.
+flavor="Presents for good boys and girls." ―Aru
+
+< CARD_HYPER_KAI >
+name=Protagonist's Privilege
+descr=Effect Duration: 3 chapters\nWhen you are allowed to attack first, the opposing unit cannot attack (once per combat).
+flavor="This is the privilege of the main character!" ―Kai
+
+< CARD_HYPER_POPPO >
+name=Ubiquitous
+descr=Warp to target active enemy's panel. In addition, steal stars equal to 10x their level.
+flavor="Poppo! Poppopopopopo!"\n―Marie Poppo
+
+< CARD_HYPER_MARC >
+name=x16 Big Rocket
+descr=★Cost: Level x10\nDeal damage equal to your level to target enemy. A KO from this effect gives you 2 Wins.
+flavor="Charged! Go!" ―Marc
+
+< CARD_HYPER_MASTER >
+name=Banned for Life
+descr=★Cost: Stars / 10.\nCan only play Gift cards. Using this card sends it to another player.\nDiscards entire hand upon discard.
+flavor="Manager, it's your turn!!" ―Chris
+
+< CARD_HYPER_BOSSROBO >
+name=Turbo Charged
+descr=Drop to 1 HP. Gain 1 stack of Turbo Charged per lost HP.\nEffect Duration: As many chapters as stacks of Turbo Charged. Gain +1 ATK per stack. Lose 1 stack per turn.\nIf target is Shifu Robot, at the start of turn also heal 1 HP and remove Absorptive Shell, but do not heal from Auto-Repair.\nEffect expires on KO.
+flavor="Rumble rumble rumble." ―Shifu Robot
+
+< CARD_HYPER_CASTLE >
+name=Immovable Object
+descr=Effect Duration: 2 Chapters\nSkip your turns while this effect is active.\nCannot Warp.\nGain +2 DEF.\nEnemies who move into the same panel must battle you.
+flavor="With this power, everything in the sky will be ours." ―Guild Master
+
+< CARD_HYPER_CHICKEN >
+name=Golden Egg
+descr=If target is Chicken, Stock Effect (3). Drop Panels will act as Bonus Panels.\nOtherwise, Stock Effect (3).\nBonus Panels will act as Drop Panels.
+flavor="Cluuuuck!" ―Chicken
+
+< CARD_HYPER_BALL >
+name=Reflective Shell
+descr=Base ATK is 0 in this battle.\nAbsorb up to 2 damage.\nGain an additional +2 ATK for every damage absorbed.\nCan only be used when defending.
+flavor="Enemy detected. Destroying." ―Robo Ball
+
+< CARD_HYPER_SEAGULL >
+name=Jonathan Rush
+descr=Move to an enemy and attack them.\nTarget gains -1 DEF.\nAfter the battle, your turn ends.
+flavor="Squaawk!" ―Seagull
+
+[EOF]

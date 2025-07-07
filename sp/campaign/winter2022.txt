@@ -1,0 +1,199 @@
+
+// ========= Scene:  Winter 2022 Opening =========
+
+// (mio)
+<0000> Fufufu, finalmente lo he logrado.\nEspero que a Tomomo le guste~♥
+
+// (sweetcreator)
+<0001> ¡Feliz Navidad a todo el mundo!\n¡Salud!
+
+// (othersweetgods)
+<0002> ¡Salud!
+
+// (natsumi)
+<0003> Una fiesta Navideña de Sweet Gods, qué divertido~
+
+// (saki)
+<0004> ¡Quiero que todas disfruten de las galletas Navideñas que yo horneé!
+
+// (natsumi)
+<0005> Ah, yo tengo crepes de pudín.\nSon una delicia~
+
+// (qp)
+<0006> ¿¡Crepes de pudín!?\n¡¡¡Natsumi, te respetaré por el resto de mi vida!!!
+
+// (tomomo)
+<0007> ¡Todo se ve maravilloso!\n...espera un segundo, ¿en dónde está el pastel de Navidad?
+
+// (sweetcreator)
+<0008> Preparar un pastel de Navidad era la tarea de Sweet Breaker.
+
+// (sweetbreaker)
+<0009> Intenté hacer uno, pero...\n...no lo hice bien.\nLo siento mucho...
+
+// (saki)
+<0010> Después de todo, Sweebo sigue siendo mejor para destrozar o sellar dulces que para hacerlos. 
+
+// (qp)
+<0011> ¡Eso me recuerda a un sueño que tuve la otra noche en el que ella planeaba hacer desaparecer el pudín de la tierra, y yo lograba detenerla antes de que fuera demasiado lejos!
+
+// (sweetbreaker)
+<0012> ¿Acaso se están burlando de mí?\nY por favor, ¿podrías no llamarme Sweebo?
+
+// (natsumi)
+<0013> No hay por qué preocuparse~\nPodemos hacer un pastel aquí.
+
+// (mio)
+<0014> Tomomooo~♥
+
+// (tomomo)
+<0015> ¿¡Mio!? ¿¡Qué demonios estás haciendo en mi casa!?
+
+// (mio)
+<0016> Horneé un pastel de Navidad, así que me gustaría compartirlo~♥
+
+// (sweetbreaker)
+<0017> Oh, qué momento tan oportuno.\nDeberíamos aceptar su ofrenda con mucha gratitud.
+
+// (sweetcreator)
+<0018> Parece que hemos atraído a un pastel...\n¡Nuestros poderes divinos lo han hecho de nuevo!
+
+// (natsumi)
+<0019> Mio, puedes tomar asiento.
+
+// (tomomo)
+<0020> Sí, supongo que te permitiré unirte a nosotras para comer ese pastel.
+
+// (mio)
+<0021> Qué alegría~♥
+
+// (allsweetgods)
+<0022> ¡Y ahora, a comer!\n*Mordisco*\n...Ugh.
+
+// (mio)
+<0023> ¿Es una delicia, no es así?\nAl ser una gran amante de los dulces, hice este pastel con mucho esfuerzo~♥
+
+// (sweetcreator)
+<0024> ¿Realmente eres una amante de los dulces...?
+
+// (sweetbreaker)
+<0025> ¿P-podría llamarse a esto un pastel, siquiera...?
+
+// (natsumi&saki&qp)
+<0026> ......
+
+// (tomomo)
+<0027> ¿¡Pero qué rayos...!?\n¡Esto es asqueroso!
+
+// (mio)
+<0028> ¡No puede ser, debes estar bromeando!\n...*Mordisco*...\n¡E-Esto no es asqueroso!
+
+// (saki)
+<0029> Sí que parece un pastel de chocolate, pero...
+
+// (natsumi)
+<0030> Yo diría que no se ve de la misma forma en la que sabe.
+
+// (mio)
+<0031> ¿Cómo es que no pueden apreciar mi delicioso, hermoso y precioso pastel?\n¿Qué tipo de pasteles suelen comer?
+
+// (tomomo)
+<0032> Pasteles sin sabor a basura.
+
+// (mio)
+<0033> ¡Es la segunda vez que criticas a mi pastel! ¡Estoy tan enojada!\n¿Sabes qué es lo que haré al respecto?
+
+// (mio)
+<0034> ¡Usaré mis poderes para crear miles de pasteles de Navidad y reemplazar a todos los demás!\n¡Les demostraré que mis pasteles son los mejores del mundo!
+
+// (tomomo)
+<0035> Ah, así que esta vez no cambiarás el tamaño de las cosas para que se vean gigantescas...\n...Espera un minuto, ¡¿qué rayos acabas de decir?!
+
+// (sweetcreator)
+<0036> Mio, ¿verdad?\nNo te permitiremos hacer eso.
+
+// (sweetbreaker)
+<0037> Si amenazas de esa forma al orden de los dulces, será nuestro deber detenerte.
+
+// (qp)
+<0038> ¡Nosotras, las Sweet Gods, protegeremos a los pasteles de Navidad de todo el mundo!
+
+// (saki)
+<0039> ¡¡¡Aaah, esta crisis por los dulces es tan emocionante!!!
+
+// (natsumi)
+<0040> Muy bien, yo también haré todo lo posible para ayudar.
+
+// (mio)
+<0041> Qué bello... ¡Adelante, no les tengo miedo! Después de todo, nadie puede detenerme cuando estoy furiosa~♥
+
+// ========= Scene:  Ending 1 (Sweet Gods win) ========= hola
+
+// (sweetcreator)
+<0042> ¡Victoria masiva!
+
+// (mio)
+<0043> *Sollozo*\nSolo quería que disfrutaran de mi pastel...
+
+// (sweeteater)
+<0044> Siento que lo dicho acerca de ser amante de los dulces no es una mentira, pero tienes que admitir que no eres muy hábil a la hora de crear pasteles...
+
+// (sweetblogger)
+<0045> Nosotras podríamos enseñarte~
+
+// (sweetmaker)
+<0046> Ya tienes un conocimiento básico, ¡así que será mejor que te apresures y te conviertas en una gran pastelera!
+
+// (mio)
+<0047> ¿Lo dices en serio...?
+
+// (sweetbreaker)
+<0048> Nosotras somos las Sweet Gods, es nuestro deber ayudarte. 
+
+// (sweetguardian)
+<0049> ¡Si te conviertes en una gran pastelera, tú serás feliz, lo que hará que nosotras también seamos felices!
+
+// (mio)
+<0050> ¡Está bien...!\nPor favor, enseñenme~♥
+
+// (sweetcreator)
+<0051> ¡Muy bien, entonces iremos a mi hogar y haremos más pasteles!
+
+// (everyone)
+<0052> ¡Sí!
+
+// ========= Scene:  Ending 2 (Mio wins) =========
+
+// (mio)
+<0053> Ufufu, yo soy la ganadora♥~\n¿Lo ven? Nadie puede detenerme cuando estoy furiosa.
+
+// (sweeteater)
+<0054> ¿¡Cómo es posible que a alguien le pueda gustar el sabor de esa cosa asquerosa más que el de un verdadero pastel!?
+
+// (sweetguardian)
+<0055> De hecho, acabo de probar un poco otra vez, y debo decir que no tiene un mal sabor.
+
+// (sweetblogger)
+<0056> Muchas otras Sweet Bloggers están escribiendo reseñas acerca del pastel.\nParece que se ha convertido en algo muy popular.
+
+// (sweetcreator)
+<0057> Parece que el mundo de los dulces va más allá de lo que pensaba.\nEso quiere decir que aún me queda mucho por aprender.
+
+// (sweetbreaker)
+<0058> Es cierto... no deberíamos haber sido tan rápidas para juzgar y decidir que el pastel era objetivamente malo.
+
+// (sweetmaker)
+<0059> Mio, ¿podrías enseñarme a hacer ese pastel? ¡Como repostera, ansío aprender la receta!
+
+// (mio)
+<0060> Por supuesto~♥
+
+// (sweetcreator)
+<0061> ¡Muy bien, entonces iremos a mi hogar y haremos más pasteles!
+
+// (everyone)
+<0062> ¡Sí!
+
+// (sweeteater)
+<0063> ¡Eh, un momento! ¡Alto!\n¡No me dejen aquíiiiiiii!
+

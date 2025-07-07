@@ -1,0 +1,314 @@
+
+// ========= Scene: Winter 2020 Event Start =========
+
+// (ellie)
+<0000> "Ah mano～"
+
+// (lulu)
+<0001> "Ellie... Você está bem?"
+
+// (ellie)
+<0002> "Eu ainda posso sentir os efeitos colaterais daquele cogumelo em todo meu corpo..."
+
+// (ellie)
+<0003> "E para piorar, a gente está quase ficando sem dinheiro para viajar..."
+
+// (ellie)
+<0004> "Não fazemos ideia de onde minha mamãe está também! Nada está dando certo para nós!"
+
+// (ellie)
+<0005> "*Chora* Lulu, você precisa me confortar!"
+
+// (lulu)
+<0006> "Tá tudo bem, tá tudo bem."
+
+// (ellie)
+<0007> "Mais, me conforte mais!"
+
+// (lulu)
+<0008> "Mano, você é um saco."
+
+// (ellie)
+<0009> "Que que você disse?"
+
+// (lulu)
+<0010> "Eu disse que você é uma fofucha."
+
+// (ellie)
+<0011> "Eu gosto de você, Lulu! Você também é uma fofucha!"
+
+// (lulu)
+<0012> "Enfim, o que faremos agora? Achar um emprego para fazer dinheiro de novo?"
+
+// (ellie)
+<0013> "Bom, a gente ainda tem o suficiente para custear o essencial para a viagem... Mas a pergunta é: onde devemos ir?"
+
+// (lulu)
+<0014> "Por enquanto, seguimos nossos instintos."
+
+// (ellie)
+<0015> "Sim! Mas eu estou me sentindo tão triste no momento, que nem meus instintos estão funcionando propriamente!"
+
+// (ellie)
+<0016> "Então eu acho que o que eu mais preciso no momento é a Lulu me dando carinho para que eu me sinta melhor."
+
+// (lulu)
+<0017> "Meu senhor. Tá, eu estou aqui."
+
+// (ellie)
+<0018> "Goo-goo. Mas falando sério...cadê minha mamãe?"
+
+// (ellie)
+<0019> "Eu posso pressentir que ela está viva em algum canto, mas só..."
+
+// (lulu)
+<0020> "Ellie está devastada. Existe algo que Lulu pode fazer por ela...?"
+
+// (lulu)
+<0021> "Hmm... Hmm..."
+
+// (lulu)
+<0022> "Ugh..."
+
+// (ellie)
+<0023> "Lulu? Está tudo bem?"
+
+// (lulu)
+<0024> "Lulu estava apenas pensando em você..."
+
+// (lulu)
+<0025> "E agora ela está prestes a botar um..."
+
+// (ellie)
+<0026> "Ovo da sorte?"
+
+// (lulu)
+<0027> "Lulu está certa... de que será algo que vai nos ajudar... Hmm."
+
+// (lulu)
+<0028> "Está saindo!"
+
+// (ellie)
+<0029> "Oh meu deus, isso é..."
+
+// (lulu)
+<0030> "O-o que é isso?"
+
+// (ellie)
+<0031> "O cheiro é ótimo..."
+
+// (lulu)
+<0032> "Isso é..."
+
+// (ellie)
+<0033> "O-omurice!?"
+
+// (lulu)
+<0034> "O quêêêêê!?"
+
+// (lulu)
+<0035> "Como raios o sistema de Lulu funciona!? Nós conseguimos um ovo, mas é cozido dessa vez!"
+
+// (ellie)
+<0036> "E por que omurice...? Talvez algo bom aconteça se a gente comer...?"
+
+// (lulu)
+<0037> "Isso é vergonhoso por algum motivo. É omurice, mas acabou de sair da Lulu, então..."
+
+// (ellie)
+<0038> "Eu sei que você fez, mas eu também prefiro não..."
+
+// (???)
+<0039> "É muito bom."
+
+// (lulu)
+<0040> "A-alguém está comendo o omurice da Lulu."
+
+// (ellie)
+<0041> "Quem é você!?"
+
+// (cook)
+<0042> "Koopee! Ah, isso estava maravilhoso."
+
+// (cook)
+<0043> "Cook estava morrendo de fome, ela não conseguiu resistir. Desculpa por isso."
+
+// (ellie)
+<0044> "É-é uma galinha...?"
+
+// (lulu)
+<0045> "Uma galinha comeu o omurice?"
+
+// (cook)
+<0046> "Cook não é uma galinha!"
+
+// (halena)
+<0047> "Oh você está aqui, Cook. Eu estava te procurando."
+
+// (cook)
+<0048> "Halena!"
+
+// (halena)
+<0049> "Oh, quem são essas garotas aí...?"
+
+// (cook)
+<0050> "Desculpa, Halena. Cook acabou de comer o omurice que saiu daquela garota, e estava muito bom!"
+
+// (halena)
+<0051> "Omurice saiu dela!?"
+
+// (ellie)
+<0052> "Esse é seu animal de estimação!? Ela comeu o omurice que nós fizemos com amor sem pedir permissão!"
+
+// (lulu)
+<0053> "O omurice da Lulu... *Soluça soluça*"
+
+// (halena)
+<0054> "Um, eu não estou entendendo vocês. Vocês poderiam acalmar um pouco e me contar o que aconteceu aqui?"
+
+// (halena)
+<0055> "Eu ainda não entendo."
+
+// (cook)
+<0056> "Qual é! Certo, permita que Cook lhe explique novamente."
+
+// (cook)
+<0057> "Aquela garota ali botou um omurice. Parecia tão bom, que Cook acabou comendo."
+
+// (ellie)
+<0058> "É."
+
+// (lulu)
+<0059> "Exatamente o que ela disse."
+
+// (halena)
+<0060> "Hmm... Bom, enfim, Cook comeu sua comida, certo?"
+
+// (ellie)
+<0061> "Não apenas comida."
+
+// (cook)
+<0062> "Estava incrível."
+
+// (halena)
+<0063> "Estou perdida aqui... Enfim, peço desculpas por minha amiga fada te causou problemas."
+
+// (lulu)
+<0064> "Essa galinha é uma fada?"
+
+// (cook)
+<0065> "Cook te avisou que ela não é uma galinha! Ela é uma fada cata-vento!"
+
+// (lulu)
+<0066> "Isso não importa. Queremos nosso omurice do amor de volta!"
+
+// (halena)
+<0067> "Mil perdões. Mas até onde eu entendi, apenas lhe comprar um omurice... não vai resolver nada."
+
+// (ellie)
+<0068> "Certamente não vai! Aquele omurice poderia ter sido uma pista para o que a gente está a procura!"
+
+// (cook)
+<0069> "Ãhn? Você está procurando algo?"
+
+// (halena)
+<0070> "Nesse caso, talvez eu e Cook podemos ajudar."
+
+// (cook)
+<0071> "Sim. Cook também pede desculpas pelo omurice, então ela está a fim de te ajudar também!"
+
+// (lulu)
+<0072> "Vocês conseguem nos ajudar?"
+
+// (halena)
+<0073> "Sendo sincero, nós..."
+
+// (cook)
+<0074> "*Estomago ronca*"
+
+// (cook)
+<0075> "Oh não. Aquele omurice não foi o suficiente, e Cook está com mais fome ainda agora..."
+
+// (cook)
+<0076> "Ei, vocês duas. Se vocês conseguirem para Cook mais comida, ela vai achar o que vocês estão a procura."
+
+// (ellie)
+<0077> "E quem é você para dizer isso!"
+
+// (halena)
+<0078> "Hmm, posso te pedir para fazer isso por ela? Ela vai provavelmente achar o que você perdeu se você lhe der comida o suficiente até ficar satisfeita."
+
+// (ellie)
+<0079> "Qual o problema dessas garotas...? Ela são um novo tipo de pedintes...?"
+
+// (lulu)
+<0080> "Mas, Ellie, algo está dizendo a Lulu que devíamos fazer igual a galinha fala."
+
+// (ellie)
+<0081> "Ãhn?"
+
+// (lulu)
+<0082> "Deve ter um motivo pelo qual a galinha comeu o omurice da Lulu."
+
+// (lulu)
+<0083> "Pois os ovos da sorte de Lulu trazem a você e a Lulu itens que fazem nós duas felizes."
+
+// (ellie)
+<0084> "Você tem razão... Se aquele omurice era para trazer aquela galinha até nós..."
+
+// (cook)
+<0085> "Cook deseja boa comida."
+
+// (ellie)
+<0086> "Ugh... Certo! Nos dê um segundo! Nós vamos te dar coisas saborosas!"
+
+// ========= Scene: Winter 2020 Event Ending =========
+
+// (cook)
+<0087> "Nossa, Cook não consegue comer mais. Muito obrigada, pessoal!"
+
+// (cook)
+<0088> "Cook agora está cheia de gratitude."
+
+// (halena)
+<0089> "É, eu acho que estamos prontas agora."
+
+// (lulu)
+<0090> "Prontas para o quê?"
+
+// (halena)
+<0091> "Cook é uma fada cata-vento que pode direcionar pessoas para onde elas desejam ir."
+
+// (halena)
+<0092> "E ela pode direcionar alguém com mais precisão quanto mais ela gosta da pessoa."
+
+// (ellie)
+<0093> "Então, como agora ela gosta bastante de mim e da Lulu por termos alimentado ela, ela vai nos levar até onde devemos ir?"
+
+// (halena)
+<0094> "Isso mesmo... E a pessoa que pode escolher o melhor e mais seguro caminho até qualquer destino sou..."
+
+// (halena)
+<0095> "Eu, Halena, aquela que possui todos os mapas do mundo no cérebro!"
+
+// (cook)
+<0096> "Como um time, Cook e eu somos as melhores guias do mundo!"
+
+// (ellie)
+<0097> "Uh, isso não me cheira bem..."
+
+// (lulu)
+<0098> "Lulu concorda."
+
+// (lulu)
+<0099> "Mas ela acredita que é melhor do que nada."
+
+// (ellie)
+<0100> "B-bem, você tem razão... Eu acho?"
+
+// (halena)
+<0101> "Certo então, vamos ir até onde você pode encontrar aquilo que você perdeu!"
+
+// (cook)
+<0102> "Vamos lá!"
+

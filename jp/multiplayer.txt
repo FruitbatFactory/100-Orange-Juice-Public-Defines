@@ -1,0 +1,238 @@
+
+< FREEBATTLE_CREATELOBBY >
+キャンペーンモード
+
+< FREEBATTLE_JOINLOBBY >
+ロビーに参加する
+
+< FREEBATTLE_SINGLEPLAYER >
+フリープレイ
+
+< FREEBATTLE_RETURN >
+戻る
+
+< LOBBYLIST_RETRIEVINGLOBBIES >
+ロビーを取得しています。\nお待ちください・・・
+
+< LOBBYLIST_RETRIEVINGDATA >
+ロビー情報を取得しています・・・
+
+< LOBBYLIST_DATATIMEOUT >
+ロビー情報がタイムアウトしました。
+
+< LOBBY_NOSTEAM >
+Steamに接続できませんでした。
+
+< LOBBY_CREATING >
+Steamロビーを作成しています・・・
+
+< LOBBY_CREATEFAILED >
+Steamロビーを作成できませんでした。
+
+< LOBBY_CONNECTING >
+ロビーに接続しています。お待ちください・・・
+
+< LOBBY_CONNECTED >
+ロビーに接続しました。
+
+< LOBBY_CONNECTFAILED >
+ロビーに接続できませんでした。
+
+< LOBBY_NORESPONSE >
+応答がありません。
+
+< LOBBY_GAMEABORTED >
+ゲームが中止されました。
+
+< LOBBY_JOINRESPONSE >
+サーバーからの応答を待っています・・・
+
+< LOBBY_JOINFAILED >
+ゲームに参加できませんでした。
+
+< LOBBY_FULL >
+このロビーは満員です。
+
+< LOBBY_STEAMID_EXISTS >
+このSteamIDは既に使用されています。
+
+< LOBBY_WRONGPASSWORD >
+パスワードが間違っています。
+
+< LOBBY_BANNEDFROMLOBBY >
+このロビーの利用を禁止されています。
+
+< LOBBY_VERSIONDIFFERENCE >
+ロビーのバージョンに互換性がありません。
+
+< LOBBY_VERSIONUPDATE >
+最新バージョンへアップデートしてください。
+
+< LOBBY_HOSTHASOLDVERSION >
+このロビーは古いバージョンを使用しています。
+
+< LOBBY_LEAVECONFIRM >
+ロビーから退出しますか？
+
+< LOBBY_LEAVEWAIT >
+退出中です。お待ちください・・・
+
+< LOBBY_PLAYERLEFT >
+プレイヤーがゲームから抜けました。
+
+< LOBBY_KICKCONFIRM >
+本当にこのプレイヤーを強制退出させますか？
+
+< LOBBY_KICKED >
+ロビーから強制退出されました。
+
+< LOBBY_PLAYERCONNECTIONLOST >
+プレイヤーとの接続が切れました。
+
+< LOBBY_HOSTCONNECTIONLOST >
+ホストとの接続が切れました。
+
+< LOBBY_REMOVEDFORIDLING >
+待機時間が長かったため強制退出されました。
+
+< LOBBY_CHANGING_OWNER >
+ロビーオーナーを変更しています。
+
+< LOBBY_REPLACINGPLAYER >
+CPUプレイヤーと入れ替えています。
+
+< LOBBY_SPECTATOR_CONNECTING >
+観戦者が接続しています・・・
+
+// Prefix: Spectator's name. 
+< LOBBY_SPECTATOR_JOINREQUEST >
+が参加を希望しています・・・
+
+< LOBBY_SPECTATOR_JOINREQUESTING >
+参加許可を求めています・・・
+
+< LOBBY_SPECTATOR_JOINDENIED >
+参加を拒否されました。
+
+< LOBBY_SPECTATOR_JOINNOPLAYERSLOTS >
+プレイヤーの空きがありません。
+
+// LOBBY_SPECTATOR_JOIN + name + LOBBY_SPECTATOR_JOIN2
+// Spectator Domdi wants to join as player.
+< LOBBY_SPECTATOR_JOIN1 >
+観戦者
+
+< LOBBY_SPECTATOR_JOIN2 >
+がプレイヤーとして参加を希望しています・・・
+
+< LOBBY_PLAYERTOSPECTATOR_CONFIRM >
+観戦者になりますか？
+
+< LOBBY_SPECTATORTOPLAYER_CONFIRM >
+プレイヤーになりますか？
+
+< CHAT_TYPEPROMPT >
+<メッセージを入力してENTERを押してください。>
+
+< CHAT_CONTROLLERTYPEPROMPT_1 >
+
+< CHAT_CONTROLLERTYPEPROMPT_2 >
+を押すとキーボードを表示されます。
+
+// 10 characters max.
+< CHAT_NAME_SYSTEM >
+システム
+
+// 10 characters max.
+< CHAT_NAME_EMPTY >
+<無記名>
+
+< CHAT_NAME_DASHES >
+--------
+
+< CHAT_MUTE_SELF_ERROR >
+自身をミュートすることはできません。
+
+< CHAT_MUTED_USER > 
+%sをミュートしました。
+
+< CHAT_UNMUTED_USER >
+$sのミュートを解除しました。
+
+< CHAT_SYSTEM_LOBBYCREATED >
+ロビー「%s」が作成されました！
+
+< CHAT_SYSTEM_LOBBYJOINED >
+ロビー「%s」に参加しました！
+
+< CHAT_SYSTEM_PLAYERJOINEDLOBBY >
+「%s」がロビーに参加しました！
+
+< CHAT_SYSTEM_GAMEENDED >
+ゲームが終了しました！　ロビーへ戻ります。
+
+< CHAT_SYSTEM_REQUESTEDPLAYERSLOT >
+ホストによりプレイヤー枠がリクエストされました・・・
+
+< CHAT_SYSTEM_REQUESTEDSPECTATORSLOT >
+ホストにより観戦者枠がリクエストされました・・・
+
+< CHAT_SYSTEM_PLAYERSLOTREQUESTTIMEOUT >
+プレイヤー枠のリクエストがタイムアウトしました。
+
+< CHAT_SYSTEM_SPECTATORSLOTREQUESTTIMEOUT >
+観戦者枠のリクエストがタイムアウトしました。
+
+< CHAT_SYSTEM_PLAYERTAKEOVER >
+「%s」がプレイヤー「%d」と交代しています。
+
+< CHAT_SYSTEM_SWITCHEDTOPLAYER >
+プレイヤーになりました！
+
+< CHAT_SYSTEM_SWITCHEDTOSPECTATOR >
+観戦者になりました！
+
+< CHAT_SYSTEM_PLAYERSWITCHEDTOSPECTATOR >
+「%s」がプレイヤーから観戦者になりました。
+
+< CHAT_SYSTEM_SPECTATORSWITCHEDTOPLAYER >
+「%s」が観戦者からプレイヤーになりました。
+
+< CHAT_SYSTEM_PLAYERHASLEFTGAME >
+「%s」がゲームを離れました。
+
+< CHAT_SYSTEM_LOSTCONNECTIONTOPLAYER >
+「%s」との接続を失いました。
+
+< CHAT_SYSTEM_CHEATDETECTED_CLIENT >
+「%s」は無効なカードを使ってチートを行おうとしました。
+
+< CHAT_SYSTEM_CHEATDETECTED_HOST >
+「%s」は無効なカードを使ってチートを行おうとしたため、追い出されました。
+
+// Invite = game invitation
+< GAMEINVITE_PENDING_TITLE >
+保留中の招待
+
+< GAMEINVITE_JOIN_TOOLTIP >
+メインメニューからゲームに参加してください。
+
+// Game speed: <nb>
+< GAMEINVITE_NORMAL_MODE_DETAILS >
+速度：%d
+
+// Game speed: <nb>, <boss name>, <boss difficulty>
+< GAMEINVITE_COOP_MODE_DETAILS >
+速度：%d・%s・%s
+
+< LOBBY_QUICKJOIN_TOOLTIP >
+クイックジョイン
+
+< PLAYERPLATE_STEAMLEVEL >
+レベル%d
+
+< PLAYERPLATE_STEAMWINS >
+勝利数：%d
+
+[EOF]
+

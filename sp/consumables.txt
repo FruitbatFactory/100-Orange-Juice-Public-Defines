@@ -1,0 +1,33 @@
+< CONSUMABLE_HEART_PINK >
+name=Corazón (Rosa)
+descr=¡Envíale un corazón a tus amigos o una persona especial!
+
+< CONSUMABLE_HEART_BLACK >
+name=Corazón (Negro)
+descr=¡Envíale un corazón a tus amigos o una persona especial!
+
+< CONSUMABLE_FIREWORKS_YELLOW >
+name=Fuegos Artificiales (Amarillos)
+descr=¡Lanza fuegos artificiales durante una partida!
+
+< CONSUMABLE_FIREWORKS_RED >
+name=Fuegos Artificiales (Rojos)
+descr=¡Lanza fuegos artificiales durante una partida!
+
+< CONSUMABLE_FIREWORKS_GREEN >
+name=Fuegos Artificiales (Verdes)
+descr=¡Lanza fuegos artificiales durante una partida!
+
+< CONSUMABLE_FIREWORKS_BLUE >
+name=Fuegos Artificiales (Azules)
+descr=¡Lanza fuegos artificiales durante una partida!
+
+< CONSUMABLE_RAINYCLOUD >
+name=Nube Lluviosa
+descr=¿Te sientes bien?
+
+< CONSUMABLE_BALLOONS >
+name=Globos
+descr=Estos globos te seguiran durante un corto plazo de tiempo.
+
+

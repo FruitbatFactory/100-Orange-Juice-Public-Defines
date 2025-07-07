@@ -1,0 +1,160 @@
+<0000> Hoy!
+<0001> Be a good roll.
+<0002> Toh!
+<0003> Give me a good number.
+<0004> I'll play a card!
+<0005> This is where I'll use this!
+<0006> All right, I'll go with this one.
+<0007> Ehehe, here I come.
+<0008> A trap!
+<0009> This is totally my thing, too.
+<0010> Let's see if someone'll fall for it.
+<0011> Mhfuu, this is a good trap.
+<0012> To make doubly sure!
+<0013> I'll upgrade myself.
+<0014> A battle card.
+<0015> I'll destroy you.
+<0016> Take this!
+<0017> Phew, I'd better be more careful.
+<0018> All right, I can move now.
+<0019> I'm gonna turn the tide now!
+<0020> The game isn't over yet.
+<0021> I messed up...
+<0022> Still no good? Dang it.
+<0023> I guess I'll take some more rest.
+<0024> Uuu.
+<0025> I'll shoot through you!
+<0026> There!
+<0027> I'll hit you.
+<0028> How's that?!
+<0029> Ouch.
+<0030> How dare you?!
+<0031> Oww!
+<0032> Whoa.
+<0033> I'm cured!
+<0034> Phew, I feel alive again.
+<0035> Wow, I'm getting better.
+<0036> All right, I can still win this!
+<0037> A warp!?
+<0038> Uwaah...
+<0039> What the?!
+<0040> I'm warping!
+<0041> Let me get some rest.
+<0042> Ugh, I can't stand up.
+<0043> Kyuu...
+<0044> I screwed up...
+<0045> Let's battle!
+<0046> I'll put up a fight for you!
+<0047> Now, let's fight.
+<0048> It's battle time!
+<0049> Oh, sure, absolutely!
+<0050> Hehe, all right! Bring it on!
+<0051> You're raring to go, huh.
+<0052> I won't lose!
+<0053> Teyah!
+<0054> Stay put, okay?
+<0055> Eat this!
+<0056> Shot!
+<0057> Kyah.
+<0058> Wah.
+<0059> You're good!
+<0060> Wafu!
+<0061> That hurts!
+<0062> Uwah!
+<0063> This isn't funny!
+<0064> That was intense!
+<0065> You can't hit me!
+<0066> Talk about slow.
+<0067> Yoh.
+<0068> Ahaha, where were you aiming?
+<0069> Easy peasy!
+<0070> I did it.
+<0071> That was fun. Let's do this again sometime.
+<0072> I won!
+<0073> Man, you got me...
+<0074> You're strong. I'm impressed.
+<0075> Uuu, I can't believe I lost.
+<0076> Boy, I can't move anymore.
+<0077> I got stars!
+<0078> So, I can get stars like this, huh.
+<0079> Wow, stars.
+<0080> Lucky me!
+<0081> That was a flop!
+<0082> I dropped stars!?
+<0083> Gyaan!
+<0084> Wait, wait up!
+<0085> A trap!?
+<0086> Why here!?
+<0087> I fell for it!
+<0088> Not here...!
+<0089> Whoa, a boss appeared!
+<0090> Here's a strong-looking one.
+<0091> I should keep my guard up when I get closer.
+<0092> I can tell... that guy's strong.
+<0093> Mhm, I feel like going for stars.
+<0094> I'll win in stars and win this game!
+<0095> Gather stars? Okay!
+<0096> Stars look adorable, don't they?
+<0097> I'll battle a lot!
+<0098> Battle, battle!
+<0099> I choose to fight!
+<0100> Fighting's just my cup of tea.
+<0101> Hi there, I'm Iru.
+<0102> Me? Sure, why not? Let's go!
+<0103> All right, let's get down to it!
+<0104> Count on me!
+<0105> All right, I'll give this my best shot!
+<0106> I'll win this match.
+<0107> All right, let's have some fun around here.
+<0108> I'm going to take down everyone.
+<0109> That was so much fun. One more round!
+<0110> Yay! I won out!
+<0111> I won! I won!
+<0112> I won... and it's no surprise.
+<0113> Good for you! You got something new!
+<0114> You got something good? I'm happy for you!
+<0115> Did you get what you wanted?
+<0116> You got someting good!
+<0117> It's your turn!
+<0118> Mind switching?
+<0119> Let me pass you the baton!
+<0120> We should switch now.
+<0121> Okay!
+<0122> Sure.
+<0123> Yeah.
+<0124> No.
+<0125> Uee...
+<0126> Looking good!
+<0127> Mhm?
+<0128> Come on, let's go!
+<0129> Dice!
+<0130> Here we go!
+<0131> Yah!
+<0132> Mhm...
+<0133> Oh, that's cool!
+<0134> That's awesome, really!
+<0135> What... You've got to be kidding me...
+<0136> I'll use this card.
+<0137> Hehe, I wanted to play this one.
+<0138> I wonder what this one does.
+<0139> Not sure what'll happen, but I'll use this anyway.
+<0140> Saki, we should battle once in a while!
+<0141> Oh, you up for a fight? You're gonna make me some sweets if I win, okay?
+<0142> All right, you're gonna make me some cake today.
+<0143> Ehehe, you're strong.
+<0144> Hey, let me take a look at what you're equipped with!
+<0145> Wow, that's one cool mecha you got there!
+<0146> That was one good fight! We should fight again!
+<0147> Your equipment's incredible... I have no regrets losing.
+<0148> Wow, your aircraft's old-fashioned, but looks real nice!
+<0149> Is that an aircraft? Wow, it's badass.
+<0150> Give me a ride in your aircraft later, okay?
+<0151> I wasn't taking your old-fashioned plane lightly... but you're better than I thought.
+<0152> Hey, Kyoko... Wait, who are you!?
+<0153> What!? Kyoko... No, it's not her!
+<0154> Boy, who was this guy?
+<0155> Uu... So, who are you?
+<0156> Whoa, is it okay to fight it? I think it is!
+<0157> Huh? Do I have to fight this thing!?
+<0158> I-I won! All right!
+<0159> Uu, it's unfair to bring out a giant robot against me...

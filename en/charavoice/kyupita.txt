@@ -1,0 +1,164 @@
+<0000> Toh!
+<0001> There!
+<0002> Let's do this!
+<0003> Tey!
+<0004> Card!
+<0005> It's time!
+<0006> Alright!
+<0007> I can do this!
+<0008> Trap card!
+<0009> I'll set a trap here.
+<0010> Alright, this is looking good.
+<0011> I feel like pulling a little prank.
+<0012> I'll get myself more power with this!
+<0013> Uoooh!
+<0014> I'm pumped up!
+<0015> Give me power!
+<0016> I'll show you the power of my Saint Eyes!
+<0017> I can't waste my time lying down.
+<0018> I'm not finished yet!
+<0019> Phew, I need to be more careful this time.
+<0020> The game's still on.
+<0021> Oh shoot...!
+<0022> I messed up.
+<0023> Huh? A bust?
+<0024> Damn it!
+<0025> Tah!
+<0026> I'll defeat you.
+<0027> My turn to attack!
+<0028> Here I come!
+<0029> Uwawah!
+<0030> No!
+<0031> Wait a second.
+<0032> Ugh.
+<0033> I can feel my energy returning!
+<0034> Alright, I'm better now.
+<0035> That saved my life!
+<0036> Okay, I've still got a chance to win!
+<0037> A warp?!
+<0038> Hey!
+<0039> Uwaaah!
+<0040> Wait, wait...!
+<0041> Ukyuuu.
+<0042> Whoops...
+<0043> Oww...
+<0044> Oh boy... I can't believe you did this to me...
+<0045> Fight me!
+<0046> Let's get started!
+<0047> Let's play, shall we?
+<0048> Alright, I'm so ready for this.
+<0049> A battle? You can't beat me!
+<0050> Fine, come at me!
+<0051> Woah! It's cowardly to suddenly attack like that!
+<0052> If you wanna play rough, I can play rough!
+<0053> Puuunch!
+<0054> Atatatatah!
+<0055> Oryah!
+<0056> With everything I have!
+<0057> Ow!
+<0058> Oww!
+<0059> Wan!
+<0060> Damn it!
+<0061> That hurts.
+<0062> Gyan!
+<0063> Come on!
+<0064> Waaah!
+<0065> That won't get to me.
+<0066> Please!
+<0067> I can dodge that.
+<0068> That was so close!
+<0069> I won this one.
+<0070> Phew, I managed it somehow.
+<0071> Alright, I'll keep going like this.
+<0072> I almost got beaten...
+<0073> You've got to be kidding me.
+<0074> This is unacceptable.
+<0075> Damn it...! I can still...
+<0076> Whoops, I'm screwed...
+<0077> Stars!
+<0078> If I have enough of these...!
+<0079> Heheh, awesome.
+<0080> So far so good!
+<0081> Oh no, why!
+<0082> My stars!
+<0083> Whaaat, this is terrible!
+<0084> Wait for me!
+<0085> A trap?!
+<0086> How come it was here?
+<0087> Ugh, I stepped into it...
+<0088> Seriously!?
+<0089> Whoa, what's this vibe I'm getting?
+<0090> Uh oh... I feel like something bad is going to happen...
+<0091> This is... very bad.
+<0092> I-I'm not scared!
+<0093> I say we gather stars.
+<0094> Let's get ourselves a lot of them.
+<0095> Alright, time for some star-gathering.
+<0096> Do I smell stars... from over this way?
+<0097> Why don't we get some exercise?
+<0098> I feel like working up a sweat.
+<0099> I'll beat all the enemies!
+<0100> I may not look like it, but I'm actually pretty strong.
+<0101> I'm Kyupita! Let's have some fun.
+<0102> I got this! I'll try my hardest!
+<0103> It's my turn, isn't it? I've been waiting!
+<0104> I'll win this game, whatever it takes!
+<0105> The game has begun!
+<0106> We'll do this with all we've got, okay!
+<0107> I'll definitely win this game!
+<0108> It's started!
+<0109> I won! I did it!
+<0110> I had so much fun!
+<0111> *Smug chuckle* I did great, didn't I?
+<0112> We should do this again sometime!
+<0113> I found something good!
+<0114> Wow, how do you use this thing?
+<0115> Let's go play with that.
+<0116> New item! Nice!
+<0117> Would you take my place?
+<0118> I'll be right back.
+<0119> I'll leave this to you!
+<0120> I have faith in you!
+<0121> Sure!
+<0122> Great!
+<0123> Got it!
+<0124> I wouldn't do that...
+<0125> That's a bummer...
+<0126> Lucky you!
+<0127> What...? What?
+<0128> Here we go!
+<0129> Dice!
+<0130> You can do it!
+<0131> Hello!
+<0132> What is this...?
+<0133> Incredible!
+<0134> Wow! I'm impressed!
+<0135> Rats!
+<0136> I wonder if I can use it well.
+<0137> Isn't this power...
+<0138> Let me play this!
+<0139> My special card...!
+<0140> Huh? Me? ...A girl!?
+<0141> Are you...
+<0142> Wawah, when did I become a girl!?
+<0143> You're... not me, are you?
+<0144> Just who are you...?
+<0145> Whoa, how come she looks just like me!?
+<0146> I feel like I know her... Who's she?
+<0147> Huh? She smells just like me...
+<0148> Kyousuke! So we have no choice but to fight, huh...
+<0149> I'll stop you, Kyousuke.
+<0150> Even if I have to fight you...
+<0151> Kyousuke...!
+<0152> Kyousuke... Do we really have to fight?
+<0153> Why do you have to fight me...!?
+<0154> I will... cleanse your mind, Kyousuke!
+<0155> I'll beat even you, Kyousuke...!
+<0156> Kyousu-... Wait, you're a girl!?
+<0157> Um, Kyousuke... Are you into crossdressing?
+<0158> Kyousuke... Wait, it's not him!?
+<0159> Um, are you... Kyousuke's little sister?
+<0160> Kyousu-... Wait, who are you!?
+<0161> Um, uh... A pretty lady who looks like Kyousuke...?
+<0162> Whoa, she's the spitting image of Kyousuke!
+<0163> W-what a pretty lady...!

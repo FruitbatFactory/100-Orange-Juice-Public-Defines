@@ -1,0 +1,161 @@
+<0000> Hmph.
+<0001> Ali.
+<0002> Yo.
+<0003> *Suspira*
+<0004> Eu tenho diversas opções para escolher.
+<0005> Não me incomode, beleza?
+<0006> O que acha disso?
+<0007> Não há razões para manter isso.
+<0008> Eu estou colocando isto aqui.
+<0009> Aqui vai uma armadilha.
+<0010> Eu imagino que eu preciso colocar isto aqui também.
+<0011> Aos poucos.
+<0012> Eu imagino que devo jogar esta carta agora.
+<0013> Você esperou que eu fosse lutar desarmado?
+<0014> Pode vir. Eu tenho isto comigo.
+<0015> Eu vou te destruir.
+<0016> Eu vou te mostrar minha arma secreta.
+<0017> Não pensem que irei me deixar ser derrotado novamente.
+<0018> Está na hora do troco.
+<0019> Raios, eu ainda não estou derrotado.
+<0020> Consigo seguir em frente.
+<0021> Por que falhar?
+<0022> Algo está errado comigo.
+<0023> Você só pode estar brincando comigo.
+<0024> Não é possível.
+<0025> Aqui.
+<0026> Ora.
+<0027> Hmph.
+<0028> Que tal?
+<0029> Esta doeu.
+<0030> Qual o teu problema?
+<0031> Raios...
+<0032> Aaaargh!
+<0033> Preciso me curar agora.
+<0034> Eu preciso me acalmar.
+<0035> Certo, eu estou pronto para ir.
+<0036> Eu me sinto melhor agora.
+<0037> Teletransporte forçado?
+<0038> Quem disse que você podia me teletransportar?
+<0039> O que está acontecendo?
+<0040> Guh.
+<0041> Raios.
+<0042> Eu errei.
+<0043> Maldição.
+<0044> Ah mano.
+<0045> Agora, aqui vou eu.
+<0046> Agora é minha chance.
+<0047> Eu vou te derrotar agora.
+<0048> Comece a rezar.
+<0049> Você vai se arrepender de ter me desafiado.
+<0050> Mas que saco.
+<0051> Idiota.
+<0052> Você me irrita.
+<0053> Morre logo, pode ser?
+<0054> Você vai perecer com isso.
+<0055> Orah.
+<0056> Eu irei te esmagar!
+<0057> Ugh.
+<0058> Isso realmente dói!
+<0059> Tsk.
+<0060> Saia do meu caminho.
+<0061> Mas o quê?
+<0062> Aaaaaah!
+<0063> Qual o teu problema?
+<0064> Seu maldito...!
+<0065> Por que eu deixaria você me acertar?
+<0066> Você desperdiçou seu tiro.
+<0067> Sua mira é horrível.
+<0068> Facinho.
+<0069> Você certamente desperdiçou seu tempo.
+<0070> *Suspira*
+<0071> Por que eu perderia para você?
+<0072> Você não foi capaz de me derrotar.
+<0073> Raios! Maldição!
+<0074> Mas o que raios é você?
+<0075> Eu não acredito que isso aconteceu.
+<0076> Vai se ferrar.
+<0077> Vamos sem problemas.
+<0078> Certo.
+<0079> Eu estou indo com tudo.
+<0080> Huhah!
+<0081> Ãhn?
+<0082> Não brinca.
+<0083> Ah, qual é.
+<0084> Me dá um tempo.
+<0085> Uma armadilha, então?
+<0086> Tsk, me acertaram.
+<0087> Ugh, não foi justo.
+<0088> Eu errei.
+<0089> Aqui vem problema.
+<0090> Aí meu deus.
+<0091> Eu não estou gostando do que estou vendo.
+<0092> Então você está se movendo.
+<0093> Fazer um progresso constante não é tão ruim.
+<0094> Essa é a maneira mais eficiente de atingir minha vitória.
+<0095> Aos poucos.
+<0096> Hora de coletar estrelas.
+<0097> Seguirei em frente e destruirei tudos vocês.
+<0098> Vou com tudo e irei destruir tudo.
+<0099> Com licença, eu sou apenas um humano normal desarmado.
+<0100> Vamos com tudo aqui.
+<0101> Você precisa da minha ajuda?
+<0102> Creio que farei uma jogada eu mesmo.
+<0103> Parece que é hora de ir.
+<0104> Mas que dor, enfim.
+<0105> Vamos logo ganhar este jogo.
+<0106> Certo, vamos começar.
+<0107> Hora de trabalhar.
+<0108> O quão mais cedo começarmos, mais cedo a gente termina.
+<0109> Bom, isso não foi tão ruim.
+<0110> Por que eu não venceria?
+<0111> Essa foi boa.
+<0112> Hmph, essa foi estúpida.
+<0113> Nós temos mais força agora.
+<0114> Seria isto...
+<0115> Bom, eu diria que é algo bom.
+<0116> Boa.
+<0117> Você vai ter que continuar daqui.
+<0118> Troque comigo.
+<0119> Vá trabalhar duro.
+<0120> Você está no cargo agora.
+<0121> Vá em frente.
+<0122> Bom trabalho.
+<0123> Sim.
+<0124> Não.
+<0125> Oh não.
+<0126> É seu dia de sorte.
+<0127> Ãhn?
+<0128> Certo então.
+<0129> Desse jeito, imagino.
+<0130> Vá.
+<0131> Yo.
+<0132> Umm.
+<0133> Bem jogado.
+<0134> Você tem meus elogios.
+<0135> Raios!
+<0136> Tsk, eu não sei nem do que essa coisa é capaz...
+<0137> Eu vou usar isto aqui.
+<0138> Lhe surpreendi?
+<0139> Eu gosto deste aqui.
+<0140> Bem, obrigado.
+<0141> Eu tenho que destruir essa coisa.
+<0142> Como que essa coisa ainda está se movendo?
+<0143> Eu sinto um nojo.
+<0144> Mas o que...?
+<0145> Saia do meu caminho, garotas.
+<0146> Vocês garotas estão vindo contra mim?
+<0147> Você não pode me desafiar.
+<0148> Por quê? Vocês garotas são minhas...
+<0149> Você não é a Sumika que eu conheço, é?
+<0150> Você melhorou a si mesma, não é?
+<0151> Você ainda não é capaz com aquela maldita guardiã.
+<0152> Talvez você seja forte o bastante para derrotar aquela maldita guardiã.
+<0153> Se você apenas não existisse.
+<0154> Raios, por que você sempre fica no meu caminho?
+<0155> Parece que eu a derrotei...
+<0156> Raios, raios, raios!
+<0157> O que é você, afinal...?
+<0158> Sua arma louca.
+<0159> O que levaria uma pessoa a criar uma arma desse jeito?
+<0160> Que garota louca...

@@ -1,0 +1,116 @@
+
+< FIELDEVENT_NONE >
+name=Nenhum
+descr=
+
+< FIELDEVENT_DEFAULT >
+name=Padrão
+descr=
+
+< FIELDEVENT_RANDOM >
+name=Aleatório
+descr=
+
+< FIELDEVENT_BOSSENCOUNTER >
+name=Encontro com Chefão
+descr=
+
+< FIELDEVENT_REGENERATION >
+name=Regeneração
+descr=Todos as unidades recuperam 1 HP.\n\nFreqüência: A cada 5 capítulos.
+
+< FIELDEVENT_RANDOMWARP >
+name=Teleporte Aleatório
+descr=Todos as unidades são teleportados para painéis aleatórios.\n\nFreqüência: A cada 5 capítulos.
+
+< FIELDEVENT_CHARITY >
+name=Caridade
+descr=Todos os jogadores compram uma carta extra.\n\nFreqüência: A cada 5 capítulos.
+
+< FIELDEVENT_AIRRAID >
+name=Ataque Aéreo
+descr=Todos as unidades tomam um de dano.\n\nFreqüência: A cada 5 capítulos.
+
+< FIELDEVENT_MINELAYER >
+name=Campo minado
+descr=Uma armadilha é colocada em um painél aleatório.\n\nFreqüência: A cada 3 capítulos.
+
+< FIELDEVENT_MIRACLE >
+name=Milagre
+descr=Todos os painéis de Batalha, Bônus, Compra, Perda e Movimento recebem o dobro de efeito.\n\nFreqüência: A cada 5 capítulos.\nDuração: 1 capítulo.
+
+< FIELDEVENT_BATTLEFIELD >
+name=Campo de batalha
+descr=Todos os painéis de Bônus e Perda viram painéis de Batalha.\n\nFreqüência: A cada 6 capítulos.\nDuração: 3 capítulo.
+
+< FIELDEVENT_CONFUSION >
+name=Confusão
+descr=Todas as cartas da mão do jogador são embaralhadas e não podem ser vistas por ele.\n\nFreqüência: A cada 7 capítulos.\nDuração: 1 capítulo.
+
+< FIELDEVENT_BACKTRACK >
+name=Sentido oposto
+descr=A direção de movimento é invertida para todos as unidades.\n\nFreqüência: A cada 8 capítulos.\nDuração: 1 capítulo.
+
+< FIELDEVENT_SPRINT >
+name=Corrida de velocidade
+descr=Ganhe o dobro de dados na rolagem de Movimento.\n(Máximo de até 4 dados.)\n\nFreqüência: A cada 6 capítulos.\nDuração: 1 capítulo.
+
+< FIELDEVENT_HOMEROULETTE >
+name=Roleta das Casas
+descr=Todos os painéis de Casa são embaralhados.\n\nFreqüência: A cada 9 capítulos.
+
+< FIELDEVENT_BOMBER >
+name=Bombardeiro
+descr=Uma bomba é colocada em algum painél aleatório e explode em 1 a 4 capítulos,\ncausando 2 de dano para todas as unidades em uma região no formato de cruz.\n\nFreqüência: A cada 2 capítulos.
+
+< FIELDEVENT_MYSTERY >
+name=Mistério
+descr=Um evento de campo aleatório é ativado.\n\nFreqüência: A cada 5 capítulos.
+
+< FIELDEVENT_FREEZE >
+name=Congelar
+descr=1/3 dos painéis não congelados se tornam congelados por 1 capítulo.\n\nFreqüência: A cada 5 capítulos.
+
+< FIELDEVENT_TREASURE >
+name=Tesouro
+descr=Uma caixa de tesouro contendo um bônus é colocada em um painél aleatório.\nPare nesse painél para abrir a caixa.\n\nFreqüência: Todos os capítulos.
+
+< FIELDEVENT_AMP >
+name=Amplificar
+descr=Um status aleatório de batalha ganha 1 ponto.\n\nFreqüência: A cada 6 capítulos.\nDuração: 2 capítulos.
+
+< FIELDEVENT_PLAYGROUND >
+name=Playground!
+descr=Pare em painéis de Playground para jogar um minigame.\n\nFreqüência: A cada 5 capítulos.
+
+< FIELDEVENT_TERROR >
+name=Terror vindo de cima
+descr=Certos painéis vão te permitir enfrentar Jonathan.\nFreqüência: Variável.\nDuração: 1 capítulo.
+
+< FIELDEVENT_FISHING >
+name=Pesque-um-Peixe
+descr=Desafie outros jogadores para um minigame de pesca.\n\nFrequency: Freqüência: A cada 9 capítulos.
+
+< FIELDEVENT_GOO >
+name=Barro
+descr=Um terço dos painéis sem barro no campo serão cobertos por barro durante um capítulo.\n\nFreqüência: A cada 5 capítulos.
+
+< FIELDEVENT_SPORES >
+name=Esporos
+descr=Cogumelos irão surgir no campo.\n\nFreqüência: A cada 3 capítulos.
+
+< FIELDEVENT_CHAOS_BATTLEFIELD >
+name=Campo de Batalha Caótico
+descr=
+
+< FIELDEVENT_CHAOS_STARVATION >
+name=Morrendo de Fome
+descr=
+
+< FIELDEVENT_CHAOS_OVERINDULGENCE >
+name=Excesso de Indulgência
+descr=
+
+< FIELDEVENT_CONVERGENCE >
+name=Convergência
+descr=Campo atual irá mudar para outro aleatório.\n\nFreqüência: ask sora

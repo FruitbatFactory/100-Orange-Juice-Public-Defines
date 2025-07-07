@@ -1,0 +1,163 @@
+
+<0000> Eiryaah!
+<0001> Oryaah!
+<0002> Toryaah!
+<0003> Seryaah!
+<0004> Carta!
+<0005> Está na hora disso!
+<0006> Eu vou usar esta carta aqui!
+<0007> Eu vou jogar esta aqui.
+<0008> Hihihi, aqui vai uma armadilha
+<0009> Carta de armadilha!
+<0010> Quem dos tolos cairá nisso?
+<0011> Armaaaaaadilha!!
+<0012> Carta de batalha!
+<0013> Eu vou dar o meu melhor!
+<0014> Estou tentando a vitória!
+<0015> Modo de Super Impulso!
+<0016> Arruínatal Branco!!
+<0017> Eu consegui passar sobre completamente agora!
+<0018> Droga, eu ainda não perdi o jogo, entretanto!
+<0019> Vermelho, Azul, nós vamos coletar tudo!
+<0020> Eu vou virar o jogo agora!
+<0021> Aaah! Eu odeio isto!
+<0022> Por quêêêêêê!
+<0023> Droga!
+<0024> Eu fiz errado!?
+<0025> Atacando!
+<0026> Seeey!
+<0027> Hmdoryaah!
+<0028> Shaaah!
+<0029> Ueee...
+<0030> Nuah!
+<0031> Tsk.
+<0032> Ngh!
+<0033> Se curando!
+<0034> De volta do túmulo!
+<0035> Certo, eu posso lutar novamente!
+<0036> Minhas baterias estão completamente carregadas!
+<0037> Teleporte!?
+<0038> O que é isso…!
+<0039> Para onde estou indo?
+<0040> Aonde estou?!
+<0041> Gunuu!
+<0042> Taqueopareo!
+<0043> Porcaria!
+<0044> Mhmm!
+<0045> Devíamos jogar!
+<0046> Devíamos lutar!
+<0047> Aqui vou eu!
+<0048> Beleza, a batalha começa agora!
+<0049> Parece divertido, podemos jogar juntos!
+<0050> Vem para a porrada!
+<0051> Certo, eu posso lutar novamente!
+<0052> Eu aceito o desafio!
+<0053> Chuuute!
+<0054> Weeeey!
+<0055> Ryaah!
+<0056> Daryaah!
+<0057> Buhaah!
+<0058> Porcaria!
+<0059> Wah!
+<0060> Guh!
+<0061> Isso dói tanto!!
+<0062> Gueeh!
+<0063> Ah mas que horrível!
+<0064> O que há de errado com você!
+<0065> Você não pode me acertar!
+<0066> Muito devagar!
+<0067> Algo de errado com sua mira?
+<0068> Devagar significa devagar!
+<0069> Pshaw, eu venci!
+<0070> Obrigado pela diversão!
+<0071> Devíamos fazer isso novamente!
+<0072> Cara foi muito divertido
+<0073> Mas que droga! Seu bobo imbecil!
+<0074> Eu definitivamente farei você pagar por isto!
+<0075> Ugh... Que droga...
+<0076> Eu não acredito que perdi...
+<0077> Consegui estrelas!
+<0078> Ae sim, estrelas!
+<0079> Estou me saindo muito bem!
+<0080> Ouça esse barulho de tinido!
+<0081> Nããoo!! Minhas estrelas!
+<0082> Maldição!!
+<0083> Ugh... Minhas estrelas!
+<0084> Minhas estrelas estão se espalhando por aí!
+<0085> Mas o quê, uma armadilha!?
+<0086> Por que isto está aqui!?
+<0087> Mas quem raios colocou isso aqui! Retardado!
+<0088> Eu não acredito que caí nessa!
+<0089> Oh, alguém está parecendo tão forte.
+<0090> Isto é o que eu queria!
+<0091> Não importa o que vem até mim, eu sou sempre a vencedora!
+<0092> Vermelho, Azul, nós iremos com tudo!
+<0093> Eu vou lá conseguir para mim algumas estrelas!
+<0094> Certo, estou coletando um monte delas!
+<0095> Todas as estrelas serão minhas!
+<0096> É hora de coletar estrelas!
+<0097> Eu vou lutar bastante e ganhar bastante!
+<0098> Eu vou esmagar quem quer que seja que venha até mim!
+<0099> Lutar será muito mais divertido!
+<0100> Lutar parece ser mais divertido!
+<0101> Oh, eu? E aí!
+<0102> Como é que eu irei jogar hoje?
+<0103> Eu vou me divertir muito!
+<0104> Eu nunca me sinto preguiçosa de jogar!
+<0105> Certo, Vermelho, Azul, lá vamos nós!
+<0106> Uhihi! E o jogo começa!
+<0107> Eu vou ganhar o prêmio do primeiro colocado!
+<0108> Vejamos quem temos aqui.
+<0109> Isso ae, a Mei é a vitoriosa!
+<0110> Phew, eu estou tão feliz!
+<0111> Uma vitória super massiva para mim!
+<0112> Eu não joguei o suficiente ainda!
+<0113> Olha, isto é algo novo!
+<0114> É isto que você deseja?
+<0115> Empurrãozinho da sorte!
+<0116> Bom trabalho!
+<0117> Troque de lugar comigo!
+<0118> Certo, é a sua vez!
+<0119> Hora de trocar
+<0120> Cuide do resto, beleza?
+<0121> Okay!
+<0122> Eu estou gostando disso!
+<0123> Claro!
+<0124> Não!
+<0125> Maldição..!
+<0126> Muita sorte!
+<0127> Hmm?
+<0128> Vamos lá!
+<0129> Dado!
+<0130> Go go!
+<0131> E aí!
+<0132> Mhmah?
+<0133> Ótimo!
+<0134> Incrível!
+<0135> Cara isso é ruim...
+<0136> Ninguém esperava que eu fosse jogar isto!
+<0137> Eu não sei de quem é, mas vou usar de qualquer forma!
+<0138> Eu sempre quis jogar isto uma vez
+<0139> Uhihi, eu escolho esta carta!
+<0140> Natsu, como vai a vida!
+<0141> Nós vamos nos divertir demais, okay!
+<0142> Essa é a minha Natsu... Foi muito divertido!
+<0143> Ha, eu venci dessa vez, Natsu!
+<0144> Oh, se não é a Yuki! Devíamos jogar!
+<0145> Oh, você quer jogar comigo? Isto é incrível
+<0146> Foi bem divertido!
+<0147> Guh, m-me deixa lutar com você mais uma vez...!
+<0148> Ah, é a Mamãe Noel! Vermelho, Azul, peguem ela!
+<0149> Whoa, Mamãe Noel?!
+<0150> Agora, você me dará presentes! Um montão deles!
+<0151> Você é uma Mamãe Noel terrível, me machucando desse jeito!
+<0152> Você parece hiperativa!
+<0153> Eu aposto que essa será uma luta selvagem!
+<0154> Essa foi uma luta beeeem selvagem!
+<0155> Ugh, você é um tanto bom...
+<0156> Eu vou te derrotar e me tornar a nova protagonista!
+<0157> Olha quem está aqui. Nosso protagonista sem descrição!
+<0158> A partir de hoje, eu sou a protagonista!
+<0159> Ugh, como ousa, seu ser sem descrição...!
+<0160> Vermelho, Azul!
+<0161> Esse é o modo de super impulso do Arruínatal Branco!!

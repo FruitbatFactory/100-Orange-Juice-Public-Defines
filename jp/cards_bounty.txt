@@ -1,0 +1,216 @@
+< CARD_BOUNTY_TURNISLIME_HUNT >
+name=ターニスライム
+descr=バトル中、相手のATK-1。バトル開始時に相手がATK2以上のとき、さらにATK-1。
+flavor=
+
+< CARD_BOUNTY_TROLLITE_HUNT >
+name=トロライト
+descr=バトルの各ラウンド終了後、自身のATK-1。
+flavor=
+
+< CARD_BOUNTY_MOUSSE_HUNT >
+name=マゥス
+descr=相手にダメージを与える度に、その相手のレベル分のスターを奪う。
+flavor=
+
+< CARD_BOUNTY_STRANGEMOUSSE_HUNT >
+name=キーライム・マゥス
+descr=キーライム・マゥスは、相手にダメージを与える度に、相手のレベル×10スターを奪う。
+flavor=
+
+< CARD_BOUNTY_POWERMOUSSE_HUNT >
+name=いちごマゥス
+descr=いちごマゥスは、相手にダメージを与える度に、相手のレベル×10スターを奪う。
+flavor=
+
+< CARD_BOUNTY_DOLL_HUNT >
+name=呪われた人形
+descr=バトルの各ラウンド終了時、相手を怖がらせて1ダメージを与える。
+flavor=
+
+< CARD_BOUNTY_HELISEED_HUNT >
+name=ヘリシード
+descr=バトルで3ラウンド以内にダウンしなかったとき、そのバトルが終了する。
+flavor=
+
+< CARD_BOUNTY_BLIZARD_HUNT >
+name=バニザード
+descr=バトルの各ラウンド終了後、ATK・DEF・EVDのいずれかが+1。
+flavor=
+
+< CARD_BOUNTY_WOLLY_HUNT >
+name=ウールゥ
+descr=ダメージを受けた時、さらに1ダメージを受ける。
+
+< CARD_BOUNTY_TERRAWYRMER_HUNT >
+name=テラスネーク
+descr=一度で3ダメージ以上を受けたとき、バトル終了までATK・DEF+1、EVD-1。この効果は重複する。
+
+< CARD_BOUNTY_RUFFSHROOM_HUNT >
+name=エリンギー
+descr=バトルで負けたとき、相手のHPを2回復する。
+
+< CARD_BOUNTY_GOST_HUNT >
+name=ゴウスト
+descr=相手のATKのプラス補正1ごとにEVD+1。
+
+< CARD_BOUNTY_EMERANGLER_HUNT >
+name=エメモングラー
+descr=ダメージを受けたあとの自身の攻撃時にATK+1。相手にダメージを与えたあとの自身の防御でDEF+1。
+
+< CARD_BOUNTY_GLOBBU_HUNT >
+name=マグマー
+descr=相手にダメージを与える度に、相手はバトル終了までDEF-1。
+
+< CARD_BOUNTY_GRASSINFIMARY_QUEST >
+name=
+descr=新しいハーブ料理を作りたいの。そのハーブを取ってきてもらえないかな？
+flavor=-宿屋店主
+
+< CARD_BOUNTY_SWAMPINFIMARY_QUEST >
+name=
+descr=スライムでおいしいドリンクを作れるってお客さんから聞いたの。ホントかな？
+flavor=-宿屋店主
+
+< CARD_BOUNTY_CAVEBAKERY_QUEST >
+name=
+descr=アイスの材料を洞窟の中で落としてしまったみたいなんです・・・。
+flavor=-スカイベイカー
+
+< CARD_BOUNTY_CASTLEBAKERY_QUEST >
+name
+descr=うふふ、お城から小麦粉が届くことになってるんだけれど、まだ来ないの。お城、燃やしに行こうかしら？
+flavor=-スターベイカー
+
+< CARD_BOUNTY_RUINARMORY_QUEST >
+name=
+descr=料理に使う刃物がほしいの？ 素材さえ持ってきてくれれば作ってあげるよ。壊れた武器でも材料になるよ。
+flavor=-鍛冶屋
+
+< CARD_BOUNTY_CAVEARMORY_QUEST >
+name=
+descr=トロライトの角って、調理器具を作るのに最適な素材なんだけど、在庫がなくなっちゃって。角は3日おきに生えかわるから、きっと住処の近くに落ちてるはずなんだ。
+flavor=-鍛冶屋
+
+< CARD_BOUNTY_VOLCANOALCHEMER_QUEST >
+name=
+descr=食べ物の錬成もできるけど、長持ちする熱源が必要なんです。マグマーを捕まえてきてもらえませんか？ こういう時にすごく役に立つらしいんですよ。
+flavor=―錬金術師
+
+< CARD_BOUNTY_FORESTINFIRMARY_QUEST >
+name=
+descr=デザートが欲しいの？ 霧の森で取れる樹液を取ってきてくれたら作ってあげられるかも。すごく甘いんだって。
+flavor=―宿屋店主
+
+< CARD_BOUNTY_MOUNTAINBAKERY_QUEST >
+name=
+descr=ミルクがなくなってしまいました！ うちのパンには、山にいるウーリィのミルクが必須なんです！ なるべく早くお願いします！
+flavor=―スカイベイカー
+
+< CARD_BOUNTY_REDFORESTALCHEMER_QUEST >
+name=
+descr=近くの真紅の森にいるゴウストに面白い性質があるらしいんです。サンプルとして1体捕まえてきてもらえませんか？ 食べ物も錬成できるかもしれません。
+flavor=―錬金術師
+
+< CARD_BOUNTY_DESERTARMORY_QUEST >
+name=
+descr=すごく喉が乾いたな…。砂漠のサボテンがあればな…。私が飲み終わったら、残りはあなたの好きにしていいよ。
+flavor=―鍛冶屋
+
+< CARD_BOUNTY_SLIMEBOMB_ITEM >
+name=スライムボム
+descr=☆2チャプター持続\n自マスから3マス圏内の1マスにスライムボムを投げる。そのマスの周囲1マス圏内のマスが全てベトベトになる。
+flavor=「新鮮なベトベトの瓶詰め、投下しちゃいますよ！」―錬金術師
+
+< CARD_BOUNTY_TELEPORT_ITEM >
+name=テレポーション
+descr=任意のマスにテレポートし、ターンを開始する。
+flavor=「一口飲めば、パッと消えます！」―錬金術師
+
+< CARD_BOUNTY_LURE_ITEM >
+name=魔物ホイホイ
+descr=☆3チャプター持続\n自マスから3マス圏内の1マスに魔物ホイホイを投げる。そのマスの周囲1マス圏内のマスが全てエネミーマスになる。
+flavor=「このあたりの雑魚モンスターなら、このアイテムのニオイでおびき出せますよ」―錬金術師
+
+< CARD_BOUNTY_SHOKUPAN_ITEM >
+name=食パン
+descr=☆3チャプター持続\n毎ターンHPを1回復する。ダウンで効果を失う。この効果は重複しない。
+flavor=「これほどの食パンを焼ける職人は他にいないわ」―スターベイカー
+
+< CARD_BOUNTY_SSR_SHOKUPAN_ITEM >
+name=ふんわり食パン
+descr=次にダウンするまで、毎ターンHPを2回復する。この効果は重複しない。
+flavor=「これは、世界を制するふんわりです！」―スカイベイカー
+
+< CARD_BOUNTY_PUREWATER_ITEM >
+name=聖水
+descr=このバトル中、HPが5になり、さらにATK・DEF・EVD+1。
+flavor=「ふふふ、これを飲めば、どんな乾きも潤うんだよー。私の保証付き」―酒場店主
+
+< CARD_BOUNTY_CURSEDSYRUP_ITEM >
+name=呪われたシロップ
+descr=このバトル中、HPが10になり、さらにATK・DEF・EVD+2。このバトルのターンリミットが5になる。
+flavor=
+
+< CARD_BOUNTY_POISONPHIAL_ITEM >
+name=ポイズンブラスター
+descr=自身から3マス圏内の1マスに、ポイズンブラスターで小瓶を飛ばす。そのエリア内にいる全てのプレイヤーは毒状態になり、2チャプターの間毎ターン1ダメージを受ける。他のブラスター系カードと重複しない。
+flavor=
+
+< CARD_BOUNTY_VENOMPHIAL_ITEM >
+name=ベノムブラスター
+descr=自身から3マス圏内の1マスに、ベノムブラスターで小瓶を飛ばす。そのエリア内にいる全てのプレイヤーは毒状態になり、3チャプターの間毎ターン1ダメージを受ける。他のブラスター系カードと重複しない。
+flavor=
+
+< CARD_BOUNTY_CORROSIONPHIAL_ITEM >
+name=腐食ブラスター
+descr=自身から3マス圏内の1マスに、腐食ブラスターで小瓶を飛ばす。そのエリア内にいる全てのプレイヤーは毒状態になり、3チャプターの間毎ターン2ダメージを受ける。他のブラスター系カードと重複しない。
+flavor=
+
+< CARD_BOUNTY_SPARKLEBOMB_ITEM >
+name=スパークルボム
+descr=2チャプターの間、フィールドの進行方向を反転させる。
+flavor=
+
+< CARD_BOUNTY_SMOKELOSTMEMORIES_ITEM >
+name=失くした記憶のケムリ
+descr=発見済みのモンスターがいるマスでのみ使える。過去の失敗を忘れて、バウンティバトルに挑む。対象モンスターのバウンティを所持している必要がある。このカードを使ったあと、ターン終了。
+flavor=「今度は逃さないでね！」―鍛冶屋
+
+< CARD_BOUNTY_RADAR_ITEM >
+name=冒険者の探知機
+descr=☆2～5チャプター持続\n全てのモンスターの位置がわかる。
+flavor=「冒険を助けてくれるすごいアイテムだよ… 効果発動中はね！」 ―武具屋
+
+< CARD_HYPER_BOUNTY_ELLIE >
+name=エリィ・ミラクル
+descr=★コスト：レベル×10\n☆2チャプター持続\nATK+X、DEF+Y、EVD+Z。\nXはノルマ達成総数。\nYは現在の名声数。\nZは現在の所持スター数。
+flavor=「ボクのミラクルをくらえぇ！」 ―エリィ
+
+< CARD_BOUNTY_SCRAMBLED_EVE >
+name=スクランブル・イブ
+descr=全プレイヤーはバウンティとクエスト以外の手札をデッキに戻し、デッキをシャッフルする。3チャプター後、全プレイヤーはこの効果でデッキに戻した同数のカードを引く。
+flavor=「待って！　プレゼントを返して！」―アル
+
+< CARD_BOUNTY_TRAP_WANTED >
+name=お尋ね者
+descr=ストック効果\nバトルダウン時に倍のウィンを与える。ダウンで効果を失う。\n効果対象のプレイヤーがバウンティとしてバウンティ・ボードに掲示され、そのプレイヤーは暗殺者のバッジを獲得する。
+flavor=「こっちです！　わたしの鼻は確かです！」 ―きゅーぴー
+
+< CARD_HYPER_BOUNTY_COOK >
+name=風見鶏の導き
+descr=ストック効果\nバトル時を除き、ダイスが2つになる。\nホームマスに止まると、この効果は消える。
+flavor=「ぴよぴよ　クックこっち行きたいぞ」 ―クック
+
+< CARD_BOUNTY_PLAYER >
+name=DEAD OR ALIVE
+descr=社会に対する罪を犯し、指名手配中。
+flavor=
+
+< CARD_BOUNTY_PLAYER_ITEM >
+name=
+descr=除外対象のためご注意を。
+flavor=
+
+
+[EOF]

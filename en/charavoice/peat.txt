@@ -1,0 +1,162 @@
+
+<0000> There!
+<0001> Toh!
+<0002> Yah!
+<0003> Go!
+<0004> I'll go with this one!
+<0005> It's time for this one!
+<0006> Talk about handy!
+<0007> I choose this card!
+<0008> I hate stuff like this, but oh well...
+<0009> So I put this down here like this, right?
+<0010> This is a good match for a dumbass.
+<0011> Let's see which jackass will fall for this.
+<0012> I always use all I've got.
+<0013> I was saving it for this time!
+<0014> You're surprised, right!?
+<0015> This will bring me victory!
+<0016> I'll settle this!
+<0017> Time to get back up!
+<0018> It's my turn to get the other guys!
+<0019> I'm ready to go again!
+<0020> Giving up isn't an option!
+<0021> The re-ignition failed!?
+<0022> Blasted, I need to start up again!
+<0023> Damnit!
+<0024> A bust!
+<0025> Eat this!
+<0026> Get hit!
+<0027> How's that?
+<0028> This'll do!
+<0029> You got me!
+<0030> Goddamnit!
+<0031> Where did that come from!?
+<0032> I was hit!?
+<0033> Okay, I'm patched up.
+<0034> I had a good break.
+<0035> Keep going for me, buddy.
+<0036> Sorry, Blue Crow...
+<0037> Ugh, getting blown off course!
+<0038> Where will I end up!?
+<0039> What's going on!?
+<0040> I lost control over my plane!
+<0041> I crashed!?
+<0042> Ugh, got blown off...
+<0043> I've got to make a crash landing!
+<0044> Man, I need new plating again...
+<0045> Fight me!
+<0046> I'll shoot you down!
+<0047> Target acquired!
+<0048> I'm behind you!
+<0049> I'm all set to intercept!
+<0050> Fine!
+<0051> Challenge accepted!
+<0052> You'd better know your limit!
+<0053> Fall!
+<0054> There!
+<0055> I'm sniping you down!
+<0056> Just try and dodge!
+<0057> Ugh!
+<0058> That's weak!
+<0059> I got hit!?
+<0060> You won't get away with this!
+<0061> Guhah!
+<0062> Gyaah!
+<0063> Direct hit!?
+<0064> That freaking hurts!
+<0065> That won't work!
+<0066> I can dodge that!
+<0067> I can see your moves!
+<0068> That was freaking close!
+<0069> You may come and challenge me again!
+<0070> Don't blame me for winning!
+<0071> Victory is mine!
+<0072> You're the loser!
+<0073> This is ridiculous!
+<0074> You were just lucky!
+<0075> This can't be happening...
+<0076> I got... defeated...
+<0077> So far so good.
+<0078> I got a bonus!
+<0079> I'm taking these.
+<0080> What's this worth?
+<0081> What the!?
+<0082> W-wait up!
+<0083> What just happened!?
+<0084> Agh!
+<0085> Who did this!?
+<0086> I screwed up!?
+<0087> I'm such an idiot!
+<0088> How dumb am I!?
+<0089> Another enemy!?
+<0090> ...Gigantic.
+<0091> Having one more enemy makes no difference to me.
+<0092> I'm supposed to shoot that big ass down too, aren't I?
+<0093> I just need to gather stars, right?
+<0094> Looks like a tedious job to me.
+<0095> This is going to be a hassle.
+<0096> I'll grab all the stars out there.
+<0097> Simple and clear!
+<0098> No matter how many, I'll just take them all down!
+<0099> How many more should I shoot down?!
+<0100> It's time to make a new record!
+<0101> It's game time for us, Blue Crow!
+<0102> You can count on us.
+<0103> We are good to go.
+<0104> Let's see what my new equipment is like!
+<0105> Let's hit the sky, Blue Crow!
+<0106> Let's do this, Blue Crow!
+<0107> Amuse us!
+<0108> Take off!
+<0109> No sweat!
+<0110> Only natural.
+<0111> I always deserve to win.
+<0112> I'm number one.
+<0113> A new piece of equipment.
+<0114> Guess I'll use that.
+<0115> Guess I'll try this.
+<0116> I didn't have this one.
+<0117> It's your turn!
+<0118> You got this!
+<0119> Deal with the rest.
+<0120> I could go on, but oh well.
+<0121> Okay.
+<0122> Great.
+<0123> Yeah.
+<0124> Nah.
+<0125> This sucks.
+<0126> I like that!
+<0127> What the...?
+<0128> Let's go, Blue Crow!
+<0129> I'm counting on you.
+<0130> Let's go!
+<0131> Hey!
+<0132> Crap...
+<0133> Nice!
+<0134> That's the best!
+<0135> Oh no!
+<0136> This isn't my thing, but oh well!
+<0137> No other choice!
+<0138> This isn't the best card, but whatever!
+<0139> I'll use whatever I can!
+<0140> Your flying's all over the place as always.
+<0141> You should give up on being a pilot!
+<0142> I see you've improved. See you again!
+<0143> I'll win next time... You'll regret this!
+<0144> Another defeat... Why!?
+<0145> Stay low-profile, young lady.
+<0146> Stay low-profile... uh... young lady?
+<0147> Um... My apologies.
+<0148> I lost... Again...
+<0149> Why... can't I win?
+<0150> Well, just for safety's sake.
+<0151> It's against my policy to fight ladies, but...!
+<0152> I lost to a brat like that...!
+<0153> I'm at the top!
+<0154> I'll fix you into a decent human!
+<0155> How shameless...!
+<0156> You're not fast enough yet!
+<0157> Out of my way, you big ass!
+<0158> Are you... that brat?
+<0159> I challenge you to a battle!
+<0160> Grem... lin!?

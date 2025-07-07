@@ -1,0 +1,116 @@
+< TUTORIAL_SECTION_BASICS > 
+Lo esencial
+
+< TUTORIAL_SECTION_BATTLE > 
+Combate
+
+< TUTORIAL_SECTION_PANELS > 
+Paneles
+
+< TUTORIAL_SECTION_CARDS > 
+Cartas
+
+< TUTORIAL_SECTION_COOP > 
+CO-OP
+
+< TUTORIAL_SECTION_BOUNTYHUNT > 
+Caza-recompensas
+
+< TUTORIAL_VIDEO_OFFER >
+¡Bienvenido a 100% Jugo de Naranja! ¿Quieres ver un video tutorial de 4 minutos acerca de como jugar? (RECOMENDADO)\nPodrás verlo cuando quieras desde la Guía.
+
+< TUTORIAL_00 >
+¡Bienvenido a 100% Jugo de Naranja! Explicaremos lo básico - si lo deseas, simplemente puedes saltar las páginas.
+
+< TUTORIAL_01 >
+Este es un juego de mesa de 4 jugadores cuyo objetivo es alcanzar la "Norma" de nivel 6 para ganar.
+
+< TUTORIAL_02 >
+Debes tirar dados para moverte sobre un campo de juego - cada uno de los paneles de distintos colores tiene un efecto diferente.
+
+< TUTORIAL_03 >
+Este es un hogar. Siempre empiezas en uno, y tienes que terminar el turno sobre uno para subir de nivel o para ganar el juego.
+
+< TUTORIAL_04 >
+Todos los jugadores tienen sus propios hogares con números diferentes y también podrás detenerte en ellos. Aun así, tendrás que depender del número de tu dado para visitarlos.
+
+< TUTORIAL_05 >
+Tu primer objetivo es conseguir 10 estrellas para subir de nivel y entonces detenerte en un hogar. Después de eso, podrás escoger si quieres conseguir estrellas o pelear en distintos combates y conseguir Victorias para tu próximo nivel.
+
+< TUTORIAL_06 >
+Por cierto, recomendamos que vayas por la norma de estrellas si no estás seguro de cual elegir. Recibirás más estrellas en cada capítulo, así que nunca te quedarás atascado.
+
+< TUTORIAL_07 >
+Los paneles Amarillos son paneles de Estrellas, y te permiten tirar el dado para conseguir más estrellas. Recibirás más estrellas por tu Nivel x el número del dado (hasta un multiplicador de 3).
+
+< TUTORIAL_08 >
+Los paneles Azules son paneles de Pérdida, y perderás estrellas si caes sobre uno. Perderás estrellas por un valor equivalente a tu Nivel x el número del dado (hasta un multiplicador de 5).
+
+< TUTORIAL_09 >
+Los paneles Verdes son paneles de Cartas, te permiten tomar una carta.
+
+< TUTORIAL_10 >
+Los paneles Rojos son paneles de Batalla, y te obligarán a entrar en combate con un enemigo salvaje. Si ganas, recibirás Victorias y Estrellas.
+
+< TUTORIAL_11 >
+Los paneles Violetas son paneles de Transportación, te llevarán a un panel de transportación en otra parte del campo de juego, siempre y cuando haya más de uno presente y tengan una salida.
+
+< TUTORIAL_12 >
+Y todavía hay más paneles avanzados dentro del juego... ¡Sigue jugando y los verás!
+
+< TUTORIAL_13 >
+¡Si te encuentras con otra unidad al moverte, tendrás la oportunidad de desafiarlos a una batalla!
+
+< TUTORIAL_14 >
+Puedes mantener el cursor sobre el retrato de un personaje en una de las esquinas del campo para ver sus habilidades o efectos.
+
+< TUTORIAL_15 >
+Durante una batalla, el atacante tirará los dados para causar daño, y si tiene un efecto que añada ATK el valor total del dado cambiará.
+
+< TUTORIAL_16 >
+El defensor podrá escoger entre Defender y Evadir, la Defensa reducirá el daño tomado acordando al número de su dado, hasta un mínimo de 1.
+
+< TUTORIAL_17 >
+Si escoges la opción de Evadir, el defensor necesitará un valor en el dado mayor al del atacante para no recibir ningún punto de daño. Si el valor es igual o menor, el defensor recibe todo el daño.
+
+< TUTORIAL_18 >
+¡Si el defensor sobrevive al ataque podrá realizar un contraataque!
+
+< TUTORIAL_19 >
+Cuando los puntos de vida (PV) de un jugador llegan a 0, es noqueado y el ganador de la batalla recibe el 50% de sus estrellas, además de 2 Victorias.
+
+< TUTORIAL_20 >
+¡Ahora hablemos de las cartas! Cada jugador puede elegir hasta 10 cartas para usar dentro de la partida, estas mismas son mezcladas en el Mazo Central junto con 8 Cartas Especiales.
+
+< TUTORIAL_21 >
+Deberías escoger cartas que puedan ayudar a tu personaje más que a los personajes de los demás.
+
+< TUTORIAL_22 >
+Cada personaje tiene su propia Carta Especial. Si tomas una Carta Especial del mazo, se convertirá en la Carta Especial de tu personaje. ¡Usualmente tienen efectos que pueden cambiar una partida por completo!
+
+< TUTORIAL_23 >
+Ten en cuenta que cada carta tiene de 1 a 5 niveles marcados en la izquierda. Tienes que completar las normas para usar aquellas que requieren niveles más altos. Muchas de ellas también cuestan estrellas para ser usadas (marcados en la derecha).
+
+< TUTORIAL_24 >
+Muchos campos de juego tienen 'Efectos de Campo', los cuales se activan en ciertos intervalos. Puedes ver cuales efectos se encuentran presentes en la partida al mantener el cursor sobre el botón de 'Info'.
+
+< TUTORIAL_25 >
+Por ejemplo, el Evento de 'Caridad' le permite al jugador tomar una carta del Mazo Central cada 5 capítulos.
+
+< TUTORIAL_26 >
+La primera vez que un jugador alcance la norma de Nivel 4 en el Modo Competitivo, un Jefe muy poderoso aparecerá en el campo de juego, reemplazando todos los Paneles de Batalla con Paneles del Jefe. ¡Ten cuidado con ellos!
+
+< TUTORIAL_27 >
+Después de cada partida recibirás Estrellas como recompensa, las cuales podrán ser usadas para comprar nuevas cartas y más en la Tienda.
+
+< TUTORIAL_28 >
+Al jugar en línea o en el modo cooperativo podrás recibir Naranjas, las cuales podrán ser usadas para desbloquear varios tipos de cosméticos en la Tienda.
+
+< TUTORIAL_29 >
+Si hay un evento activo, podrás encontrar más detalles sobre el mismo al hacer click sobre su icono en el menú principal.
+
+< TUTORIAL_30 >
+¡Y eso es todo! Por favor disfruta del juego, y... ¡Ten cuidado con Marie Poppo!
+
+
+[EOF]

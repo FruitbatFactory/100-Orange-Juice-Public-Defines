@@ -1,0 +1,161 @@
+<0000> Aqui.
+<0001> Lá vai.
+<0002> Com elegância.
+<0003> Permita-nos.
+<0004> Fufu.
+<0005> Isto é para você.
+<0006> Divertido, né?
+<0007> Eu acho que está na hora.
+<0008> Minhas correntes.
+<0009> Venha cá.
+<0010> Um pouquinho de travessura.
+<0011> Fufu, Mal posso esperar para ver o que vai acontecer.
+<0012> Isso vai ficar violento.
+<0013> Vamos melhorar as coisas para mim.
+<0014> Como isso vai mudar o balanceamento?
+<0015> Fufu, excelente.
+<0016> E que a diversão comece.
+<0017> Eu posso ir de novo agora?
+<0018> Meu descanso está terminado?
+<0019> Eu acho que vou indo agora.
+<0020> Eu ainda estou na tentativa para ganhar o jogo.
+<0021> Minha nossa.
+<0022> Eu me pergunto como isso aconteceu.
+<0023> Deu errado.
+<0024> Isso significa que eu preciso descansar um pouquinho mais?
+<0025> Foo!
+<0026> Aqui vai.
+<0027> Aqui está.
+<0028> Ahah!
+<0029> Ugh.
+<0030> Nossa.
+<0031> Minha nossa.
+<0032> Kya!
+<0033> Que brisa refrescante.
+<0034> Que refrescante.
+<0035> Minha energia está retornando.
+<0036> Wow.
+<0037> Minha nossa, isso não é gentil.
+<0038> Nossa.
+<0039> Eu estou girando.
+<0040> Ahaha.
+<0041> Permita-me descansar um pouco aqui.
+<0042> Estou um pouco cansada.
+<0043> Eu preciso descansar.
+<0044> *Suspira*
+<0045> Agora é minha chance.
+<0046> Você se deixou muito aberto... Ao menos imagino?
+<0047> Vamos jogar, que tal?
+<0048> Eu serei um tanto agressiva aqui.
+<0049> Minha nossa.
+<0050> Você me assustou.
+<0051> Você quer brincar comigo?
+<0052> Eu estou empolgada.
+<0053> Foo!
+<0054> Aqui vai~
+<0055> Aqui.
+<0056> Por favor tome isso.
+<0057> Yan.
+<0058> Mano.
+<0059> Ei.
+<0060> Kya!
+<0061> Isso foi terrível.
+<0062> Owww.
+<0063> Oh, por favor.
+<0064> Esta foi uma grande surpresa.
+<0065> Eu não estou mais ali.
+<0066> Eu sou incrível desviando, não é mesmo?
+<0067> Eu estou bem aqui.
+<0068> Com certa facilidade.
+<0069> Eu não brinquei o bastante ainda.
+<0070> Se me permite.
+<0071> Fufu, isso foi tão divertido.
+<0072> Oh, você está se sentindo sonolento agora?
+<0073> Eu acho que essa foi minha derrota.
+<0074> *Boceja*
+<0075> Você é tão cheio de energia.
+<0076> Minha nossa.
+<0077> Que bonito.
+<0078> Onde devíamos manter estes?
+<0079> Eu consegui.
+<0080> Não tem problema levar estes para casa?
+<0081> Minha nossa, minha nossa, minha nossa.
+<0082> Para onde você acha que está indo?
+<0083> Eles eram meus favoritos...
+<0084> Bom, isso foi desapontante...
+<0085> Eu fiquei um pouco surpresa.
+<0086> Kya... Esse grito não foi intencional.
+<0087> Nossa, não gosto disso.
+<0088> Isto é... uma armadilha?
+<0089> Eu sinto a presença de um problemão.
+<0090> Eu acho que vai acontecer algum problema.
+<0091> Eu... estou um tanto empolgada.
+<0092> Fufu, isso será divertido.
+<0093> Eu não acho que vou conseguir aguentar tantas delas, mas...
+<0094> Talvez eu deveria juntar diversas delas e compartilhar com todo mundo.
+<0095> Você gosta de coisas bonitas? Eu gosto.
+<0096> Fufu, vamos coletar um montão delas.
+<0097> Eu gosto de um bom exercício.
+<0098> Nada de se segurar para não dar seu melhor ao brincar, beleza?
+<0099> Esta opção parece boa também.
+<0100> Exercício ocasional não é uma má ideia.
+<0101> Você tem um tempinho sobrando agora?
+<0102> Se importaria de passar um tempo comigo?
+<0103> O que nós gostaríamos de fazer hoje?
+<0104> Você está pedindo para sair comigo?
+<0105> Eu vou usar tudo que tenho para ganhar se for uma competição.
+<0106> Certo, vitória é tudo que desejo.
+<0107> Mal posso esperar para ver como será este jogo.
+<0108> Nós vamos jogar este jogo até nos cansarmos.
+<0109> Eu me diverti tanto.
+<0110> Fufufu, estou tão feliz.
+<0111> Nós deveríamos brincar novamente no futuro.
+<0112> Este foi um bom jogo.
+<0113> O que você conseguiu? É algo bom?
+<0114> Oh, este é algo bom?
+<0115> Você parece feliz. Conseguiu algo bom?
+<0116> Parece fofo.
+<0117> Eu acho que vou indo nessa agora.
+<0118> Eu gostaria de ver você brilhar.
+<0119> Boa sorte com o resto do jogo.
+<0120> É hora de trocar.
+<0121> Sim.
+<0122> Isto é incrível.
+<0123> Sim, é claro.
+<0124> Isto não é muito bom.
+<0125> Sinto muito que isto tenha acontecido.
+<0126> Fufu, quanta sorte.
+<0127> Beeem.
+<0128> Vamos lá, pode ser?
+<0129> Aqui!
+<0130> Boa sorte para você.
+<0131> Olá.
+<0132> Eu não sei exatamente como reagir.
+<0133> Fufu, isto é realmente incrível.
+<0134> Você fez um trabalho excelente. Estou orgulhosa de você.
+<0135> Minha nossa.
+<0136> Eu me pergunto o que isso faz.
+<0137> Eu consigo usar isso também?
+<0138> Bem... Estou usando isto corretamente?
+<0139> O que isto faz? Estou empolgada para descobrir.
+<0140> Obrigada.
+<0141> Suguri... Você tem noção do quão preguiçosa você se parece neste momento?
+<0142> Nossa, Suguri, você tem que me explicar a maneira como você está vestida.
+<0143> Você não deveria ser tão preguiçosa até quando ninguém está por perto.
+<0144> Não importa o quão preguiçosa você se pareça, você ainda é tão forte quanto antes.
+<0145> Você realmente precisa se recompor.
+<0146> Geez, você certamente é preguiçoso.
+<0147> Parece que você está levando uma vida alegre.
+<0148> Oh, você está aqui também?
+<0149> Eu não posso me dar ao luxo de perder para você.
+<0150> Você é forte o bastante para ser minha substituta.
+<0151> Whoa, eu acho que ela está no dia de folga?
+<0152> É divertido jogar jogos casualmente: Você concorda comigo, né?
+<0153> O que ela está vestindo... Eu me pergunto se posso vestir algo assim também.
+<0154> Você é incrível em jogar.
+<0155> Estou entediada.
+<0156> Estou feliz por poder jogar com vocês duas.
+<0157> Fufu, percebo que teremos um bom tempo juntas.
+<0158> Eu não acredito que tenho tanto a Suguri quanto a mana aqui.
+<0159> Agora, já que estamos todas aqui, vamos aproveitar o jogo o máximo que pudermos.
+<0160> Parece que há uma ou duas bruxas malvadas por aqui.

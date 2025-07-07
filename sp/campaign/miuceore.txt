@@ -1,0 +1,158 @@
+
+<0000> Hmm... ¿Qué debería hacer Repa?
+<0001> Hola, Repa.\nTe ves como si algo te estuviera molestando. ¿Qué sucede?
+<0002> ...Y aquí llega la ruidosa.
+<0003> ¿Eh? ¿Ruidosa?\n¿Estás haciendo un cumplido?
+<0004> ...*Suspiro*.\nRepa piensa que deberías aprender a tener un poco de conciencia sobre ti misma.
+<0005> Estar llena de energía es mi encanto.
+<0006> Eso no es algo que deberías decir sobre ti.
+<0007> En fin, volviendo al tema principal...\nTe ves mal. ¿Qué ocurre? A lo mejor podría ayudarte.
+<0008> Nada. Repa está bien...\nSólo déjala en paz...
+<0009> Vamos, no seas tan dura conmigo...\nComo las buenas chicas mágicas que somos, deberíamos ser buenas entre nosotras.
+<0010> Quiero mejorar mi Poder Femenino contigooo.\nPor favoooooor, no tengo nada mejor que hacer...
+<0011> *Suspiro*. Sólo quieres escapar del aburrimiento, ¿eh?... Pero pensándolo bien... A lo mejor podrías ayudar a Repa. Miu, tu ayuda será permitida.
+<0012> ¡Claro, por supuesto! ¡Te daré una mano! ¡Sí! ¡Está bien!!\n¿Qué será? ¿Una cita? ¿Tomarnos de las manos? ¿O quizás un B-E-S-O?
+<0013> Eso no es a lo que me refería...\nAleja tu rostro de Repa.
+<0014> Jejeje, solo bromeaba.\nAsí que, ¿qué quieres que haga?
+<0015> Jugar a algo contigo.
+<0016> ¿Un juego?
+<0017> Se llaman juegos de mesa.\nRepa lo tomó prestado de la Bruja del Bosque.
+<0018> Ella le explicó a Repa que es más divertido jugarlo con otros...\nEs por eso que ahora tienes el privilegio de jugar con ella.
+<0019> Ya veo. Tiene un gusto muy raro, usando este tipo de cosas.
+<0020> También le dijo a Repa que las almas de muchas chicas legendarias habitan en este juego.
+<0021> ¿Quiénes son esas chicas?
+<0022> Son chicas que aumentaron su PF... a un nivel aterrador.
+<0023> Es por eso que...\nJugar a este juego también aumentará el PF de Repa.
+<0024> ¡Wow, eso suena genial! ¡Empecemos!
+<0025> Veo que estás tan ansiosa como Repa.\nMuy bien, a jugar.
+<0026> Hombre, este juego realmente es desafiante.\nNo sentí mucho PF en esas dos, aun así.
+<0027> Abre tus ojos, Miu.\nIndividualmente, esas dos chicas no tenían mucho PF, pero Repa sintió un amonto explosívo cuando estaban juntas.
+<0028> ¿Es esa la UPF (Unión de Poder Femenino) de la que se rumorea...?\n¿Estás diciendo que es un aspecto de Poder Femenino que nunca hemos visto?
+<0029> Eso es correcto.\nUPF... siento que tú PF y el de Repa también se han incrementado de tan solo aprenderlo.
+<0030> ¡Fantástico...! Supongo que captamos una pequeña parte de la grandeza de este juego...\n¡Deberíamos seguir jugando!
+<0031> Por supuesto.\nAhora, vamos a la próxima ronda.
+<0032> Howaah... ¿Qué eran esas criaturas?\n¿Crees que eran chicas reales?
+<0033> Repa casi perdió su mente en el proceso.\nEran extremadamente bonitas...
+<0034> Aunque, esa belleza no parecía ser Poder Femenino.
+<0035> La belleza... es algo requerido para aumentar el PF.\nUn exceso de belleza, aun así, lleva a su dueño a un concepto más alla que el de una "chica".
+<0036> SobreBonita, eh...\nDebemos tener cuidado de que eso no nos pase a nosotras.
+<0037> Este juego parece dar unas buenas lecciones...\nEso hace que el interés de Repa en él sea mucho más fuerte.
+<0038> ¿Estás pensando lo mismo que yo?
+<0039> Sí.\nEmpecemos con la próxima ronda.
+<0040> ¿Sabes qué? Puedo relacionarme con las chicas contra las que acabamos de pelear.\nLas chicas energéticas sí que son bonitas, ¿no?
+<0041> Correcto. Parecen ser similares a ti... Pero no estás viendo un aspecto muy importante sobre ellas.
+<0042> ¿Qué?
+<0043> Es lo que llevaban puesto. Era simple, pero encantador.\nRepa podía sentir una especie de poder extremo, como si fuera algo que se ha pasado de generación en generación por cientos de años.
+<0044> Concuerdo... Esa ropa llevaba una especie de Aura a su alrededor.
+<0045> La vestimenta es uno de los elementos básicos para aumentar tu PF.\nEsa ropa causó que Repa pueda ver un gran potencial. Se verían muy bien en cualquier chica.
+<0046> ¿Eso quiere decir que también me vería bien con esas prendas?
+<0047> Algo perturbador de imaginar, pero posiblemente cierto.\nEsa ropa no carecía de milagros.
+<0048> ¡Hurra! Tendré que pedirle a la Bruja del Bosque que me diseñe una.
+<0049> No tan rápido.\nRepa también quiere una.
+<0050> Está bien, ¿por qué no vamos juntas a visitarla?
+<0051> ...Repa lo pensaré.\nPor ahora, tú y Repa jugarán a este juego hasta aburrirse.
+<0052> Elegancia. Esa es la única palabra en la que pude pensar.
+<0053> No podría hacer eso bien yo misma, ni aunque lo intentara...\nEstoy perdiendo la pasión.
+<0054> Ciertamente sería imposible para ti, Miu.\nCada acción de esas dos era firme y elegante.
+<0055> Apuesto a que eso es algo que heredaron de niñas.
+<0056> A lo mejor tendrás razón.\nEstán en un lugar el cual sólo puedes alcanzar con esfuerzo desde que consigues la capacidad de razonar.
+<0057> Uugh. Ahora estoy un poco asustada para seguir jugando...
+<0058> Hemos llegado muy lejos para rendirnos ahora.
+<0059> Lo sé... ¡Sentirse mal no nos ayudará a ser más bellas!\n¡Hora de moverse!
+<0060> Esas chicas parecían trabajar muy duro.
+<0061> Repa no esperaba ver chicas como ellas a estas alturas.\nLas que trabajan duro sí que son bonitas.
+<0062> Sí. Creería que Rone es igual de trabajadora, y también se ve linda cuando está luchando.
+<0063> Repa diría que considera lo que hace como un hobby...\nEn fin, esas chicas parecían tender un resplandor interior.
+<0064> Creo que sé por qué.\nDeben de tener un sueño.
+<0065> ¿Un sueño?\nPero si no estaban durmiendo durante el juego.
+<0066> Ese no es el tipo de sueño del que estoy hablando...\n…Cielos, no quiero explicarlo. Eso sería un poco vergonzoso.
+<0067> Ahora tienes a Repa interesada Miu, le debes una explicación.
+<0068> ¡Vamos, a la siguiente ronda!
+<0069> Repa necesita una explicación...
+<0070> Habían muchos... muchos dulces...
+<0071> No conocía ni la mitad de ellos.
+<0072> Parecían estar hechos por esas chicas.
+<0073> Hacer dulces, eh... Es algo básico del PF. Mientras mejor lo haces, más amor recibirás, ¡así que deberías apuntar a la mejor calidad en ellos! Esa es la sensación que me dieron.
+<0074> Tienes toda la razón.\nRepa amó el que se tambaleaba, era simplemente increible.
+<0075> Creo que a eso le llaman "pudín."\nYa lo extraño. Quisiera tener mucho más...
+<0076> Repa también... ¡Espera!
+<0077> ¿Qué sucede?
+<0078> Los dulces son geniales.\nPero imagina que ocurriría si comes muchos de ellos.
+<0079> Bueno, tu estómago crecerá y tus mejillas se hincharán...\n¿¡Aaaaaaah!?
+<0080> Si te vuelves redonda, tu PF reducirá de una forma drástica.
+<0081> ¿Estás diciendo que hacer dulces no solo aumenta tu propio PF pero también se desarrolla como un arma... que envenena el PF de otras chicas?
+<0082> *Escalofrío*... Repa está impresionada.\nAcaba de aprender... una nueva técnica de ofensa y defensa.
+<0083> Hombre... todo esto me sigue impresionando.
+<0084> Eso prueba lo geniales que son las almas dentro de este juego.\nSerá mejor que no se lo digamos a la Bruja del Bosque.
+<0085> No puedo esperar a ver a las siguientes chicas.
+<0086> Mujeres adultas...
+<0087> Mujeres trabajadoras...
+<0088> repa admite que el PF de ambas no era grandioso, pero...
+<0089> Las dos eran maravillosas.
+<0090> Las chicas normales deben seguir aumentando su atractividad incluso después de pasar el límite de su PF.
+<0091> Eso tiene sentido... ¿Crees que algún día seremos como ellas?
+<0092> Repa se lo está preguntando.\nYa sabes, considerando que no crecemos y demás.
+<0093> Es verdad... es exactamente la razón por la cual trabajamos tanto para aumentar nuestro PF.
+<0094> ¿Estás deprimida?
+<0095> Sí... ¡Pero esto ha sido muy divertido, así que estaré bien!
+<0096> Eres tan positiva...\nAhora, sigamos jugando.
+<0097> ¡Claro!
+<0098> Tuvimos a mujeres grandes como oponentes dos veces seguidas.
+<0099> Parecían ser igual de atractivas que un pepino.\nDeben de ser ese tipo de personas que tienen un gran conocimiento sobre algunas cosas.
+<0100> Conozco ese sentimiento.\nPero, sabes... Es como si hubiera algo diferente entre esas chicas y las que nos encontramos anteriormente.
+<0101> Es eso, ¿verdad? El atractivo sexual
+<0102> ¡¡Atractivo sexual!! Oh cielos, eso es algo totalmente fuera de mi alcance.
+<0103> Repa tampoco tiene uno uno...
+<0104> ¿Sabes? El haber crecido es realmente genial.
+<0105> Tienes razón.\nPero...
+<0106> ¿Qué??
+<0107> Aún si pudieras crecer sin problemas, no tendrías ningún atractivo sexual.
+<0108> ¡¿Por qué dirías eso?!
+<0109> En fin, parece que este juego se terminará pronto.
+<0110> ¿En serio? Muy bien entonces, terminemos con esto lo antes posible.
+<0111> Hagámoslo.
+<0112> Eso fue...
+<0113> Raro.\nDejando a esa chica con ropas extrañas a un lado, esa doctora tenía un cuerpo maravilloso, pero...
+<0114> Tener un buen cuerpo es un rasgo innato. Y si puede mantenerlo, debería tener una gran reserva de PF no importa en cuál situación esté.
+<0115> Además, las mujeres con ese tipo de cuerpo tienden a tener un muy buen estilo...\n¡A pesar de todo eso...!
+<0116> Ninguna de esas dos chicas parecía tener ni un poco de PF consigo.
+<0117> Fueron... algo perturbador de ver.\nRepa está segura de que están al borde de transformarse en Chicas de la Muerte.
+<0118> C.D.L.M...! El terror de toda bruja...\n¿Pero por qué?
+<0119> Repa no tiene idea.\nAunque, algo de lo que está segura es...
+<0120> No podemos dejar que nos convirtamos en ellas, ¿no es así?
+<0121> *Asentimiento*.
+<0122> Repa... me estoy asustando.
+<0123> Repa también.\nPero...
+<0124> ¿Vamos a seguir?
+<0125> Este juego solo está llenando a Repa de terror. Pero la próxima ronda será la última... ¿Vendrás con ella?
+<0126> ¡Si ya te decidiste, entonces no tendré otra opción más que hacer lo mismo!
+<0127> Miu... Gracias.
+<0128> Muy bien, la últi...\n¡¡Oh no!!
+<0129> ¿Qué está pasando...? Todavía no hemos empezado.\nHay un aura enorme...\n¡¡Una tormenta de Poder Femenino!!
+<0130> ¡Nunca había sentido un PF igual...!\n¡¿Qué tipo de chicas serán?!
+<0131> Ídolas...
+<0132> Ídolas...
+<0133> No fueron más que un gran conjunto de PF.
+<0134> Sí... simplemente sorprendente... no sé qué decir.
+<0135> Miusaki, ¿estás llorando?
+<0136> ¿Eh...? Ah, bueno, parece que sí.\nMe movió un poco...\nRepa, también estás llorando.
+<0137> Esto no puede estar pasando.\nLas lágrimas salen de los ojos por su propia cuenta.
+<0138> Jaja... Creo que estas lágrimas prueban lo maravillosas que fueron esas chicas.
+<0139> Sí, pero no sólo esas dos.\nCada una de las chicas que encontramos tocaron el corazón de Repa más de una vez.
+<0140> Lo mismo digo.\nY hay algo que debo decirte.
+<0141> ¿Qué ocurre?
+<0142> Concuerdo en que todas las chicas son lindas y demás,\npero tú eres igual de linda que ellas.
+<0143> Halagas a Repa...\nPero eso la hace un poco feliz...
+<0144> Bueno, ya que dijiste eso...\nRepa debe confesar que también le pareces un poco linda...
+<0145> ¡Gracias!
+<0146> Muy bien, es hora de irnos.\nMiusaki, ven.
+<0147> Ah, ¿devolverás el juego de la Bruja del Bosque?
+<0148> Sí, y...
+<0149> ¡Mmm, es tan bueno!\nNo sabía que la bruja podía hacer pudín.
+<0150> Es esta.\nEsta era la ropa que necesitábamos.\nSe ve bien en Miu.
+<0151> ¡También te ves bien en ella! ¡Tan beeeella!
+<0152> Ustedes dos están haciendo tanto ruido. Cielos.
+<0153> Sí, y es muy extraño verlas juntas.\nAsí que las dos jugaron, ¿eh?
+<0154> Lo hicimos, y fue espléndido. Ahora soy una gran fan.\nDeberías jugar con nosotras.
+<0155> Claro. Bueno, necesitaríamos un jugador más... ¿Y si vamos por Rone?
+<0156> Buena idea. ¡Tengamos mucha diversión!

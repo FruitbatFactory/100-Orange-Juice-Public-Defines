@@ -1,0 +1,131 @@
+< INVENTORY_MEDICINALHERB >
+name=약초
+descr=치유 성분이 있는 약초다. 여관 주인이 요리를 만드는 데 필요하다.
+
+< INVENTORY_TURNISLIME >
+name=무 슬라임
+descr=무슬라임의 몸 일부였던 것이다. 여관 주인이 엘릭서를 만드는 데 필요하다.
+
+< INVENTORY_ECTOPLASM >
+name=엑토플라즘
+descr=무슬라임의 몸을 이루던 것이다.
+
+< INVENTORY_CHILLINGWIND >
+name=차가운 바람 주머니
+descr=매우 차가운 바람이 찬 주머니다. 조심해서 다루지 않으면 손이 얼어붙는다. 스카이 베이커가 아이스크림을 만드는 데 필요하다.
+
+< INVENTORY_FLOUR >
+name=끝없이 나오는 밀가루
+descr=밀가루가 끝없이 나오는 주머니다. 대체 안에 뭐가 들었길래? 스타 베이커가 스위트를 만드는 데 필요하다.
+
+< INVENTORY_BROKENBLADE >
+name=부러진 칼
+descr=쓰러진 자들이 남긴 낡은 무기다. 대장장이가 절단 도구를 만드는 데 필요하다.
+
+< INVENTORY_TROLLITEHORN >
+name=트롤라이트 뿔
+descr=트롤라이트에게 달려있던 오래된 뿔. 뿔이 있는 곳에 말썽이 있다. 대장장이가 요리 도구를 만드는 데 필요하다.
+
+< INVENTORY_MISTYSAP >
+name=안개 수액
+descr=나무에서 추출된 수액이다. 단맛이 난다. 여관 주인이 디저트를 만드는 데 필요하다.
+
+< INVENTORY_CACTUS >
+name=선인장
+descr=안에 물이 담긴 사막의 선인장이다. 대장장이가 마시고 싶어한다.
+
+< INVENTORY_GOST >
+name=괴스트의 혼
+descr=결국 패배한 장난끼 많은 괴스트다. 연금술사가 이걸로 먹을 수 있는 걸 만들고 싶어한다.
+
+< INVENTORY_WOLLY >
+name=양털이유
+descr=양털이에게서 뽑아낸 신선한 양털이유다. 스카이 베이커가 빵을 만드는 데 필요하다.
+
+< INVENTORY_BUCKET >
+name=빈 양동이
+descr=여러가지를 담는 데 쓸 수 있는 빈 양동이다. 
+
+< INVENTORY_HEATGLOVES >
+name=방열 장갑
+descr=아무리 뜨거운 열기에도 거뜬한 장갑이다.
+
+< INVENTORY_GLOBBU >
+name=불컹이
+descr=사람들의 몸에 불을 붙이는 걸 좋아하는 용암 장난꾸러기다. 연금술사가 열원으로 쓰려고 한다.
+
+< INVENTORY_SANDALS >
+name=나무신
+descr=발을 다치는 일 없이 빨리 달릴 수 있게 해주는 매우 흔한 신발이다. 이동력 +1 증가.
+
+< INVENTORY_LEATHERBOOTS >
+name=가죽 신발
+descr=유명한 가죽장인의 최신작으로, 평범한 신발의 강화판이다. 이동력 +2 증가.
+
+< INVENTORY_GALESHOES >
+name=돌풍 신발
+descr=강력한 마법이 담겨있어 신고 있으면 절대 피곤해지지 않는다. 이동력 +2 증가 및 가진 의뢰가 2장 이하일 때 추가 +1 증가.
+
+< INVENTORY_CURSEDSHOES >
+name=강화 돌풍 신발
+descr=이동력 +4 증가, 의뢰를 단 1장만 가질 수 있다.
+
+< INVENTORY_DELICACY >
+name=진미
+descr=쿡쿠에게 줄 맛있는 먹거리. 게임 한 판에 3개까지 모인다.
+
+< INVENTORY_ATK1 >
+name=쿠키
+descr=사용하면 다음 배틀 2회에서 공격력 +1을 얻는다. 같은 효과를 두 번 중첩할 수 없다 (최근에 사용된 효과가 우선됨).
+
+< INVENTORY_ATK2 >
+name=머핀
+descr=사용하면 다음 배틀 2회에서 공격력 +2를 얻는다. 같은 효과를 두 번 중첩할 수 없다 (최근에 사용된 효과가 우선됨).
+
+< INVENTORY_ATK3 >
+name=패스츄리
+descr=사용하면 다음 배틀 2회에서 공격력 +3을 얻는다. 같은 효과를 두 번 중첩할 수 없다 (최근에 사용된 효과가 우선됨).
+
+< INVENTORY_DEF1 >
+name=사탕
+descr=사용하면 다음 배틀 2회에서 방어력 +1을 얻는다. 같은 효과를 두 번 중첩할 수 없다 (최근에 사용된 효과가 우선됨).
+
+< INVENTORY_DEF2 >
+name=카라멜
+descr=사용하면 다음 배틀 2회에서 방어력 +2를 얻는다. 같은 효과를 두 번 중첩할 수 없다 (최근에 사용된 효과가 우선됨).
+
+< INVENTORY_DEF3 >
+name=초콜렛
+descr=사용하면 다음 배틀 2회에서 방어력 +3을 얻는다. 같은 효과를 두 번 중첩할 수 없다 (최근에 사용된 효과가 우선됨).
+
+< INVENTORY_EVD1 >
+name=아이스크림
+descr=사용하면 다음 배틀 2회에서 회피력 +1을 얻는다. 같은 효과를 두 번 중첩할 수 없다 (최근에 사용된 효과가 우선됨).
+
+< INVENTORY_EVD2 >
+name=샤베트
+descr=사용하면 다음 배틀 2회에서 회피력 +2를 얻는다. 같은 효과를 두 번 중첩할 수 없다 (최근에 사용된 효과가 우선됨).
+
+< INVENTORY_EVD3 >
+name=젤라토
+descr=사용하면 다음 배틀 2회에서 회피력 +3을 얻는다. 같은 효과를 두 번 중첩할 수 없다 (최근에 사용된 효과가 우선됨).
+
+< INVENTORY_ASSASSINBADGE >
+name=암살자의 배지
+descr=실력 있는 암살자들이 모인 길드에 소속했음을 보여주는 배지. 보유자는 다른 플레이어를 노릴 때 보상을 받게 된다.
+
+< INVENTORY_ELIXIR >
+name=엘릭서
+descr=HP를 완전히 회복된다. 사용자에게 걸린 파멸과 사용자가 보유한 의뢰의 저주도 해제한다.
+
+< INVENTORY_HARBINGERSHIELD >
+name=불굴의 방패
+descr=전령을 꺾은 자의 증표. 이 방패를 차면 용감해져 배틀에서 받는 모든 피해가 1점 감소한다.
+
+< INVENTORY_ROGUEBLADE >
+name=도적의 쌍칼
+descr=길 잃은 도적을 꺾은 자의 증표. 이 칼을 차면 20% 확률로 치명타를 일으킨다. (치명타 시 유닛의 공격 굴림의 결과가 2배가 된다)
+
+< INVENTORY_DARKCHOCOMOUSSE >
+name=다크 초콜렛 스타
+descr=다크 초콜렛 마우쓰를 꺾은 자의 증표. 알 수 없는 힘과 달콤함이 배틀에서 주는 피해 1점마다 3스타를 준다. 상대 역시 배틀에서 받는 피해 1점마다 3스타를 잃는다.

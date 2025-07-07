@@ -1,0 +1,193 @@
+
+// ========= Scene: Summer 2021 Event Start =========
+
+<9999> Esta es la historia de un sueño veraniego que podría ser o no ser real.
+
+// (tomomo)
+<0000> "¡Cielos! ¡No hay nada mejor que un vaso de jugo frío y anaranjado en un día de verano!"
+
+// (yuki)
+<0001> "Lo sé, ¿no es fantástico? A mí también me agrada."
+
+// (tomomo)
+<0002> "Aunque... a pesar de que me agrade estar en una habitación con aire acondicionado, me gustaría ir a la playa antes de que el verano acabe."
+
+// (tomomo)
+<0003> "Es decir... si supiera nadar..."
+
+// (yuki)
+<0004> "¿Qué? ¿No sabes nadar? Podría enseñarte."
+
+// (tomomo)
+<0005> "¿En serio? Pensaba que por ser un gato no te agradaría estar en el agua."
+
+// (yuki)
+<0006> "Yo no soy una simple gata ordinaria. ¡No hay nada que una felina como yo no pueda hacer!"
+
+// (tomomo)
+<0007> "¡Ah, entonces enséñame! ¡Me gustaría aprender a nadar!"
+
+// (yuki)
+<0008> "Está bien, pero solo si me invitas a cenar sushi."
+
+// (tomomo)
+<0009> "¡Pero el sushi es realmente caro! A-aunque... supongo que no hay otra opción. ¡Está bien, tendremos sushi para la cena!"
+
+// (yuki)
+<0010> "Perfecto, es un trato."
+
+// (yuki)
+<0011> "Bien, ¿por qué no vamos a una piscina pública por ahora?"
+
+// (mio)
+<0012> "Jejejee~ Así que mi dulce ángel irá a una piscina pública, ¿eh?"
+
+// (tomomo&yuki)
+<0013> "¡Estamos en la piscina!"
+
+// (yuki)
+<0014> "Espera un segundo, ¿por qué demonios llevas ese anillo de natación contigo?"
+
+// (tomomo)
+<0015> "¡Porque tengo miedo de tirarme al agua sin él!"
+
+// (yuki)
+<0016> "¿Acaso eres una niñita pequeña o qué?"
+
+// (tomomo)
+<0017> "¡Cállate! ¡Lo necesito, me pertenece, y no me importa lo que tú digas!"
+
+// (yuki)
+<0018> "*Suspiro* Ya, está bien, de ser así lo primero que haremos será acostumbrarte a estar en el agua."
+
+// (tomomo)
+<0019> "Eh, mira, el chico de ahí se parece mucho a Kai."
+
+// (yuki)
+<0020> "Vaya, es verdad. Parece no estar acompañado por nadie."
+
+// (tomomo)
+<0021> "¡Ja! ¡Qué niño tan triste! Estoy segura de que recibir el saludo de una chica dulce y adorable como yo le alegrará el día."
+
+// (tomomo)
+<0022> "¡Eh! ¡Kaaaaai!"
+
+// (kai)
+<0023> "¿Qué? Ah, eres tú."
+
+// (tomomo)
+<0024> "¿Acaso tu madre no te enseño como saludar a los demás? En fin, ¿te gustaría unirte a nosotras? Solo vamos a practicar un poco, pero hay espacio para uno más."
+
+// (kai)
+<0025> "No necesito nadar contigo. Déjame solo."
+
+// (yuki)
+<0026> "Tomomo, deberías dejar de perder el tiempo con ese idiota. Ven, será mejor que vayamos a otro lugar."
+
+// (mio)
+<0027> "Tomomooo~ ♥"
+
+// (tomomo)
+<0028> "¡¿Mio?! ¿Qué rayos estás haciendo aquí?"
+
+// (mio)
+<0029> "¡Estoy aquí para jugar contigo, por supuesto! ¿Por qué otra razón estaría yo aquí?"
+
+// (tomomo)
+<0030> "¡Quiero aprender a nadar, no a jugar!"
+
+// (mio)
+<0031> "Ah, mamá podrá ayudarte con eso. ¡Ten!"
+
+// (tomomo)
+<0032> "¡Tú no eres mi mamá! ¿Qué? Espera un segundo, ¡mi anillo...!"
+
+// (yuki)
+<0033> "Todos los anillos y todas las pelotas están flotando en el aire... ¡y están combinándose entre sí!"
+
+// (mio)
+<0034> "Ta-da~ Ahora podrás practicar con él por todo el tiempo que tú necesites."
+
+// (tomomo)
+<0035> "¡Idiota! ¡Devuélveme mi anillo! ¡No puedo estar en el agua sin él!"
+
+// (tomomo)
+<0036> "Y una cosa más... ¿En serio? ¿Otro monstruo gigante? ¡¿Acaso no puedes crear algo mejor que eso?!"
+
+// (mio)
+<0037> "Cuánta rudeza. Si lo que quieres es tu anillo, tendrás que luchar por él."
+
+// (tomomo)
+<0038> "¡Demonios! ¡Está bien, derrotaré a tu estúpido monstruo y me quedaré con ese anillo! ¡Yuki, Kai, tendrán que ayudarme!"
+
+// (yuki)
+<0039> "Esto será divertido."
+
+// (kai)
+<0040> "¿Qué? ¿Por qué yo?"
+
+// (tomomo)
+<0041> "¡Cállate y ayúdame!"
+
+// (kai)
+<0042> "Sí señora..."
+
+// (mio)
+<0043> "Buena suerte~ ♥"
+
+// ========= Scene: Summer 2021 Event Ending =========
+
+// (tomomo)
+<0044> "¡Muy bien! ¡El monstruo ha sido derrotado y mi anillo ha regresado!"
+
+// (yuki)
+<0045> "Aparentaba ser más fuerte de lo que realmente era."
+
+// (kai)
+<0046> "¿Qué es lo que he hecho para merecer esto...?"
+
+// (mio)
+<0047> "¿Qué te parece, Tomomo? ¿Acaso te has divertido?"
+
+// (tomomo)
+<0048> "¡Claro que no! ¡Podría estar nadando ahora mismo de no ser por ti!"
+
+// (yuki)
+<0049> "Pero, Tomomo... ¿acaso no lo viste?"
+
+// (kai)
+<0050> "Tú estabas nadando mientras luchábamos contra ese monstruo."
+
+// (tomomo)
+<0051> "¡¿De verdad?! No lo había notado, estaba muy concentrada en acabar con ese monstruo..."
+
+// (mio)
+<0052> "¿Lo ves? Yo dije que te ayudaría~"
+
+// (tomomo)
+<0053> "Mio, perdóname por haber dudado de-..."
+
+// (mio)
+<0054> "Un segundo, Tomomo... ya que sabes nadar, no necesitarás ese anillo, ¿verdad?"
+
+// (tomomo)
+<0055> "Uh... supongo que no..."
+
+// (mio)
+<0056> "Así que para celebrar el crecimiento de mi pequeña, ¡crearé a un monstruo aún más grande para seguir nadando!"
+
+// (tomomo)
+<0057> "Espera, espera, ¡¿qué?!"
+
+// (kai)
+<0058> "¿De qué rayos está hablando...?"
+
+// (yuki)
+<0059> "Esa chica realmente no se aburre."
+
+// (mio)
+<0060> "¡Listo! Ahora podrás nadar seguir nadando con él, así que diviértete, Tomomo~ ♥"
+
+// (tomomo)
+<0061> "¡Es esta la razón por la que nadie quiere ser tu amiga!"
+

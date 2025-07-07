@@ -1,0 +1,169 @@
+<0000> Like this.
+<0001> Please be good...
+<0002> How's this?
+<0003> There!
+<0004> O-hoho.
+<0005> I'll use this.
+<0006> How will this go?
+<0007> Here I go...
+<0008> This should be good.
+<0009> O-hoho... this could be fun.
+<0010> Okay, I'll put down a trap.
+<0011> It's dangerous here, okay?
+<0012> Lend me your power.
+<0013> How about this?
+<0014> O-hoho, here I go.
+<0015> O-hoho, this is fun.
+<0016> Be wrapped in my chains.
+<0017> *Yawn*... that was a good nap.
+<0018> Oh, it's morning already?
+<0019> Now's a good time.
+<0020> I may have been a little too leisurely.
+<0021> I'll rest a little more.
+<0022> Haa...
+<0023> Still resting.
+<0024> Oh, no good.
+<0025> Take that.
+<0026> Okay.
+<0027> O-hohohoho.
+<0028> It's like this.
+<0029> Oh.
+<0030> Oww.
+<0031> Oh my.
+<0032> Enough.
+<0033> What a nice wind.
+<0034> That feels good.
+<0035> So warm.
+<0036> How soothing.
+<0037> Oh my?
+<0038> Where am I going?
+<0039> Please take me somewhere wonderful.
+<0040> Boing.
+<0041> Zzzz....
+<0042> Hah, time to rest.
+<0043> Good night.
+<0044> Shall we take it easy?
+<0045> Now then, shall we dance?
+<0046> Shall we play?
+<0047> O-hoho, let's have some fun.
+<0048> Now then, I'll start.
+<0049> Oh, an invitation?
+<0050> Please allow me some fun.
+<0051> I'll face you.
+<0052> You're rather energetic.
+<0053> Take that!
+<0054> Sorry if this hurts.
+<0055> It's like this.
+<0056> Haah.
+<0057> Geez.
+<0058> Kyaa...
+<0059> Oh.
+<0060> Ngh.
+<0061> Oooh.
+<0062> How surprising.
+<0063> You're strong.
+<0064> Ooooooooh?
+<0065> Simple.
+<0066> That was close.
+<0067> O-hoho, I'm over here.
+<0068> Yes, that was good.
+<0069> That was fun.
+<0070> Let's play again sometime.
+<0071> That wasn't enough dancing.
+<0072> It's over already?
+<0073> O-hoho, you're quite lively.
+<0074> I'm a bit exhausted...
+<0075> I'm going to rest.
+<0076> Time for a bit of a break...
+<0077> Oh, so shiny.
+<0078> Lovely.
+<0079> O-hoho, so many of them.
+<0080> Stars... they're lovely.
+<0081> My stars...
+<0082> I dropped some stars.
+<0083> My stars got scattered around...
+<0084> Oh... my stars...
+<0085> A trap...?
+<0086> It's a trap...
+<0087> I fell for a trap...
+<0088> Geez, what a terrible thing to do.
+<0089> Seems strong.
+<0090> Oh, there's something here.
+<0091> O-hoho, seems this could get more enjoyable.
+<0092> Oh my, this could get difficult.
+<0093> I want stars.
+<0094> I like shiny things.
+<0095> I'll collect stars.
+<0096> I want to collect a lot of stars.
+<0097> O-hoho, let's dance the day away.
+<0098> I want to play a lot.
+<0099> I want to dance with various people.
+<0100> I'd like to make merry sometimes as well.
+<0101> You're okay with me?
+<0102> O-hoho, looking forward to working with you.
+<0103> Yes, let's dance together.
+<0104> Thank you for the invitation.
+<0105> Now then, shall we enjoy ourselves?
+<0106> Everyone seems full of energy.
+<0107> O-hoho...
+<0108> Now, let's begin.
+<0109> That was incredibly fun.
+<0110> I'm number one...?
+<0111> O-hoho, let's play again.
+<0112> Oh, I wanted to play some more...
+<0113> I found something nice.
+<0114> This is wonderful, isn't it?
+<0115> Is this what you want?
+<0116> Oh, how wonderful.
+<0117> It's time to tag out.
+<0118> Would you take my place?
+<0119> Fufu, let's switch.
+<0120> I'm trusting you with this.
+<0121> Nice.
+<0122> How nice.
+<0123> Yes.
+<0124> No.
+<0125> Wow...
+<0126> I'm so happy.
+<0127> Hmm...
+<0128> Shall we go?
+<0129> I throw these, huh?
+<0130> Let's go.
+<0131> Greetings.
+<0132> What should I do...?
+<0133> How wonderful.
+<0134> Amazing.
+<0135> Oh my.
+<0136> I'm borrowing this...
+<0137> I wonder what this does.
+<0138> I'm borrowing this for a bit.
+<0139> So this is that person's power.
+<0140> You have my thanks.
+<0141> Well, Suguri, shall we dance?
+<0142> O-hoho, to think Suguri would invite me.
+<0143> O-hoho, that was a lot of fun, Suguri.
+<0144> Hah, playing with you really is fun, Suguri.
+<0145> Let's play together, Sis.
+<0146> Dancing with Sis sounds fun.
+<0147> Sis really is wonderful.
+<0148> Your beam is a bit hot, Sis...
+<0149> Oh, you're the spitting image of that good-for-nothing.
+<0150> Hold on... I don't like you.
+<0151> Beating you up is somewhat enjoyable.
+<0152> You really are a good-for-nothing...
+<0153> No more violence, okay?
+<0154> You're so useless...
+<0155> Settle down.
+<0156> Seriously... you're truly useless.
+<0157> Oh, that's a cute, red airplane.
+<0158> Okay, let's begin. In order to protect everyone...
+<0159> Everyone, things are about to get tough.
+<0160> O-hoho, those clothes really do suit you.
+<0161> You're wearing the clothes I picked out for you.
+<0162> O-hoho, you've shown me something nice.
+<0163> You're strong even when you're wearing cute clothes, Suguri.
+<0164> This will be much more fun if you and I work together.
+<0165> Let me help you.
+<0166> Fufu, you look really adorable in that.
+<0167> How do I look? Do I look good in this?
+<0168> You want to play with me again? Fufu, sure, gladly.

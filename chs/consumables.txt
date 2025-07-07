@@ -1,0 +1,33 @@
+< CONSUMABLE_HEART_PINK >
+name=爱心（粉）
+descr=送一颗心给朋友\n或特别的人！
+
+< CONSUMABLE_HEART_BLACK >
+name=爱心（黑）
+descr=送一颗心给朋友\n或特别的人！
+
+< CONSUMABLE_FIREWORKS_YELLOW >
+name=烟花（黄）
+descr=在游戏中发射烟花！
+
+< CONSUMABLE_FIREWORKS_RED >
+name=烟花（红）
+descr=在游戏中发射烟花！
+
+< CONSUMABLE_FIREWORKS_GREEN >
+name=烟花（绿）
+descr=在游戏中发射烟花！
+
+< CONSUMABLE_FIREWORKS_BLUE >
+name=烟花（蓝）
+descr=在游戏中发射烟花！
+
+< CONSUMABLE_RAINYCLOUD >
+name=雨云
+descr=使人感到不太舒服？
+
+< CONSUMABLE_BALLOONS >
+name=气球
+descr=会跟着你一段时间的\n各式气球。
+
+

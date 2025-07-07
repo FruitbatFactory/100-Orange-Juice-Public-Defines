@@ -1,0 +1,275 @@
+
+// ========= Scene:  Opening =========
+
+// (lulu)
+<0000> Pessoal... Podemos sair agora.
+
+// (halena)
+<0001> Ufa, quase fomos enterradas vivas.
+
+// (arnelle)
+<0002> Eu tenho que admitir que a grande casca de ovo foi fenomenal.
+
+// (cook)
+<0003> Seu formato oval não permitiu que destroços se empilhassem em cima dele!
+
+// (ellie)
+<0004> É isso aí garota! Estou impressionada, Lulu!
+
+// (lulu)
+<0005> Ehehe.
+
+// (arnelle)
+<0006> Você inclusive salvou nossas vidas...  Te devemos uma.
+
+// (ellie)
+<0007> Se você realmente acha isso, você devia deixar a gente ficar com o tesouro.
+
+// (arnelle)
+<0008> Isso é isso, e aquilo é aquilo.
+
+// (maynie)
+<0009> Senhora Arnelle está absolutamente correta! Foram vocês no geral que colocaram aquela armadilha, para começo de conversa!
+
+// (ellie)
+<0010> Como ousa botar a culpa daquilo em nós!
+
+// (halena)
+<0011> Eu não acredito que vocês estão brigando após a gente quase ter morrido.
+
+// (cook)
+<0012> O coração de Cook ainda está batendo rápido...
+
+// (ellie)
+<0013> Enfim, o tesouro escondido aqui pode ser algo que eu estou a procura! Então, eu não vou deixar você ter não importa o que aconteça!
+
+// (maynie)
+<0014> Como se a gente se importasse!
+
+// (watty)
+<0015> G-gente! Acalmem-se por favor... B-bem, este local... ainda não é completamente seguro...
+
+// (arnelle)
+<0016> Sério? O que mais você acha que poderia estar aqui, Watty?
+
+// (pomeranius)
+<0017> Meu nariz também me diz que ainda estamos em perigo.
+
+// (watty)
+<0018> E-existem diversas fontes de poder mágico... Cada uma é bem pequena, mas...
+
+// (maynie)
+<0019> Existe mais do que aquela armadilha louca!?
+
+// (ellie)
+<0020> Ah mano!
+
+// (ellie)
+<0021> Eu posso sentir... Aquela sensação horrorosa que eu odeio...!
+
+// (poppo)
+<0022> Poppooo!!!
+
+// (ellie)
+<0023> Ahaa! São estes ratos!!!
+
+// (lulu)
+<0024> São muitos deles!!!
+
+// (pomeranius)
+<0025> Esse cheiro, pior que o da garota peixe... então estava vindo deles.
+
+// (ellie)
+<0026> Eu vou chutar o traseiro de vocês!
+
+// ========= Scene:  Ending =========
+
+// (lulu)
+<0027> Ugh, eles continuam vindo.
+
+// (ellie)
+<0028> Eu vou chutar o traseiro de todos os ratos!
+
+// (halena)
+<0029> Você precisa relaxar, Ellie.
+
+// (arnelle)
+<0030> Não tem fim nisso. Watty!
+
+// (watty)
+<0031> S-sim!
+
+// (arnelle)
+<0032> Remova todos os ratos sem danificar o templo mais ainda. Você consegue fazer isso, não consegue?
+
+// (watty)
+<0033> P-provavelmente.
+
+// (pomeranius)
+<0034> Essa é a única coisa de que você é capaz. Apenas faça.
+
+// (watty)
+<0035> Senhor Pom... O-okay, eu farei!
+
+// (maynie)
+<0036> Crianças, venham cá! A gente está prestes a limpar o lugar todo!
+
+// (ellie)
+<0037> Aha? O que você vai fazer exatamente?
+
+// (arnelle)
+<0038> Apenas cale-se e venha para cá.
+
+// (cook)
+<0039> O instinto de Cook está falando que a gente devia fazer o que elas estão falando.
+
+// (lulu)
+<0040> Certo então!
+
+// (watty)
+<0041> ......
+
+// (watty)
+<0042> Eu... estou pronta.
+
+// (arnelle)
+<0043> Certo, agora atire!
+
+// (watty)
+<0044> Poder mágico... soltar...!
+
+// (halena)
+<0045> Essa magia não é poderosa demais para este lugar pequeno...!?
+
+// (arnelle)
+<0046> Watty é melhor em controlar magia do que qualquer um. É completamente tranquilo para ela se livrar dos ratos e manter o templo intacto ao mesmo tempo.
+
+// (pomeranius)
+<0047> Você devia ter mais fé em si mesma, assim você será capaz de ajudar mais a nossa senhora.
+
+// (watty)
+<0048> O-okay... Obrigada por dizer isso, Senhor Pom...
+
+// (arnelle)
+<0049> Enfim, isso nos faz quites com as crianças.
+
+// (maynie)
+<0050> Agora nós podemos fazer o tesouro nosso sem hesitação.
+
+// (ellie)
+<0051> O que raios você disse!?
+
+// (lulu)
+<0052> *Suspira* Elas não param de discutir.
+
+// (lulu)
+<0053> Então, este local é seguro agora, certo?
+
+// (pomeranius)
+<0054> *Cheira*cheira*
+
+// (pomeranius)
+<0055> ......Ainda tem algo aqui.
+
+// (watty)
+<0056> Sim... E tem uma quantidade considerável de poder mágico.
+
+// (lulu)
+<0057> Sério?
+
+// (ellie)
+<0058> Sim, sério.
+
+// (ellie)
+<0059> Eu consigo sentir... eu consigo definitivamente dizer que... é o que eu estava a procura.
+
+// (???)
+<0060> Crianças...
+
+// (arnelle)
+<0061> Quem raios é você!
+
+// (???)
+<0062> Parece que você derrotou todas as minhas imitações.
+
+// (halena)
+<0063> O-o que está acontecendo...?
+
+// (???)
+<0064> Mamãe estava trancada neste templo.
+
+// (lulu)
+<0065> M-Mamãe? Poderia ser que... ela...
+
+// (ellie)
+<0066> Eu estava a sua procura.
+
+// (ellie)
+<0067> Mamãe!!!
+
+// (motherpoppo)
+<0068> Ellie...
+
+// (arnelle)
+<0069> I-isto é um grande rato?
+
+// (pomeranius)
+<0070> Entretanto, eu consigo sentir que não é um mero animal. A aura nobre de uma bela dama a rodeia.
+
+// (ellie)
+<0071> Mamãe! Eu realmente queria te ver!
+
+// (motherpoppo)
+<0072> Mamãe queria te ver, também.
+
+// (arnelle)
+<0073> ...Espera um minuto. Então, ela é o tesouro do templo que estávamos a procura?
+
+// (pomeranius)
+<0074> Um rato que carrega a elegância e graça de uma dama de alto nível... Você poderia dizer que é um tesouro e tanto...
+
+// (lulu)
+<0075> Ellie... Lulu está feliz por você.
+
+// (lulu)
+<0076> (Mas... será este o fim de nossa jornada?)
+
+// (lulu)
+<0077> (Lulu está feliz que Ellie está feliz, mas... Lulu está se sentindo meio triste.)
+
+// (???)
+<0078> (Meio? Não é verdade. Você está muito triste, não é mesmo?)
+
+// (???)
+<0079> (Você e ela estão viajando juntas por um longo período de tempo, e mesmo assim, só ela ganhou algo bom no fim.)
+
+// (???)
+<0080> (E não há nada para você.)
+
+// (lulu)
+<0081> O que é isto...? De onde essa voz está vindo?
+
+// (???)
+<0082> (Vá e destrua a felicidade dos outros.)
+
+// (lulu)
+<0083> Ugh... Agh...
+
+// (???)
+<0084> (É para isto que você existe.)
+
+// (???)
+<0085> (Vamos lá, destrua esse final feliz estúpido dela.)
+
+// (lulu)
+<0086> Uaaaaaaah!!!
+
+// (ellie)
+<0087> O que foi, Lulu!?
+
+// (motherpoppo)
+<0088> Não pode ser...
+
+// (darklulu)
+<0089> A mente... de Lulu está sombria...
+

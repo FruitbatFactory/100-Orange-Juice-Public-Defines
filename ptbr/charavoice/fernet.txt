@@ -1,0 +1,166 @@
+
+<0000> Desse jeito.
+<0001> É isso.
+<0002> Aqui vamos nós.
+<0003> Hmph.
+<0004> Estarei usando uma carta.
+<0005> Eu vou com essa carta.
+<0006> Esta, talvez?
+<0007> Que tal esta?
+<0008> Estou colocando isso.
+<0009> Eu devia colocar isto aqui?
+<0010> Estou colocando uma carta.
+<0011> Espero que alguém caia nessa.
+<0012> Então eu vou com essa carta.
+<0013> Minha carta na manga.
+<0014> Surpresa.
+<0015> Eu tenho isto.
+<0016> Hmph, pereça diante de mim.
+<0017> Deixe-me continuar.
+<0018> Ai ai.
+<0019> Vamos continuar.
+<0020> Eu odeio esperar.
+<0021> Essas coisas acontecem.
+<0022> Não é um problema.
+<0023> Tanto faz.
+<0024> Eu não ligo.
+<0025> Coma isto.
+<0026> Tome isto.
+<0027> Isto vai doer!
+<0028> Comporte-se!
+<0029> Aii!
+<0030> Os nervos!
+<0031> Como você ousa!
+<0032> Kyaa.
+<0033> Que alívio.
+<0034> Ai ai.
+<0035> Ufa.
+<0036> Nada mal.
+<0037> O quê? O que está acontecendo?
+<0038> Ah... E-Espere um pouco!
+<0039> A-aonde você está me levando?
+<0040> Me escolte adequadamente!
+<0041> De jeito nenhum.
+<0042> Eu fui negligente.
+<0043> Minha nossa senhora.
+<0044> O que você está fazendo?!
+<0045> Prepare-se.
+<0046> Você está no caminho.
+<0047> Saia do meu caminho.
+<0048> Lute comigo.
+<0049> Não vou mostrar piedade.
+<0050> Estou preparada.
+<0051> Você tem nervos.
+<0052> Irei fazer você se arrepender disso.
+<0053> Caia diante de mim!
+<0054> Coma chumbo.
+<0055> Coma isto!
+<0056> Aqui vou eu!
+<0057> Geh.
+<0058> Ngh.
+<0059> Eu não fui derrotada ainda.
+<0060> Isso dói.
+<0061> Pare com isso!
+<0062> Espera ae!
+<0063> Isto dói!
+<0064> Kyaa!
+<0065> Não é bom o bastante.
+<0066> Você ainda precisa de muito mais.
+<0067> Isso é tudo que você tem?
+<0068> Oh, que simples.
+<0069> Naturalmente.
+<0070> Peço desculpas.
+<0071> Oh, já acabou?
+<0072> Venha de novo.
+<0073> Você vai pagar por isso.
+<0074> Isto... não me incomoda.
+<0075> Como você ousa.
+<0076> Ha... hahahaha.
+<0077> Eu vou levar estes.
+<0078> Bom, nada mal.
+<0079> Eu aceito.
+<0080> Exatamente o que eu estava esperando.
+<0081> Apenas uma bagatela.
+<0082> Hmph.
+<0083> Heheh.
+<0084> O quê? Tudo isso?
+<0085> Ah não!
+<0086> Mas que raios?
+<0087> Ngh.
+<0088> Alguém colocou uma armadilha!
+<0089> Você achou que eu ficaria com medo?
+<0090> Oh, parece que tem algo aqui.
+<0091> ...É enorme.
+<0092> Você não é tão forte quanto parece.
+<0093> Irei coletar estrelas.
+<0094> Bom, irei coletá-las imediatamente.
+<0095> Ter demais é meio ruim.
+<0096> Não tem problema se eu roubá-las, certo?
+<0097> Eu odeio barbaridades, mas...
+<0098> De qualquer forma é igual.
+<0099> Não é preciso se segurar, certo?
+<0100> Hahaha... Isto ficou divertido.
+<0101> Uma boa decisão.
+<0102> Estou preparada.
+<0103> Oh, saudações.
+<0104> E-Eu?
+<0105> Vou com tudo.
+<0106> Certo então, vamos começar.
+<0107> Ah qual é.
+<0108> Deixe-me curtir isso.
+<0109> A conclusão óbvia.
+<0110> Isto não é um problema.
+<0111> Já acabamos?
+<0112> P-parece que ganhei...
+<0113> Eu não tenho isto ainda.
+<0114> Isto é muito bom.
+<0115> Eu devia tentar usar isto?
+<0116> Nossa, que esplêndido.
+<0117> Tome conta disso, beleza?
+<0118> Você cuida disso a partir daqui.
+<0119> Não faça besteiras, beleza?
+<0120> Eu vou descansar um pouco.
+<0121> Entendido.
+<0122> Muito bom.
+<0123> Sim.
+<0124> Não.
+<0125> O que é isto?
+<0126> Tanto faz.
+<0127> O que isto pode ser?
+<0128> Vamos lá.
+<0129> Como irá decorrer?
+<0130> Estou indo.
+<0131> Saudações.
+<0132> Ngh.
+<0133> Muito bom.
+<0134> Incrível!
+<0135> Hmph.
+<0136> Permita-me usar isto.
+<0137> Posso usar isto?
+<0138> Mas que carta incrível!
+<0139> Esta é uma carta muito boa.
+<0140> Hmph! O-obrigada, acho...
+<0141> Oh, muito prazer.
+<0142> Desista logo de ser uma pilota.
+<0143> Como você ousa!
+<0144> Este vestido não é meio curto?
+<0145> Pare de falar de forma tão esquisita.
+<0146> Crianças deviam ir para casa.
+<0147> Vocês fanáticos por aviões são todos idiotas!
+<0148> Você é uma pilota também?
+<0149> ...Wow.
+<0150> Que vulgar...
+<0151> Um pervertido apareceu.
+<0152> Ah... Eu não consigo ver nada.
+<0153> Mas que sabor barato...
+<0154> Perder... para uma criatura inferior!
+<0155> Eu quero isto na minha casa.
+<0156> Isto realmente foi um incômodo.
+<0157> Eles fizeram algo muito estúpido.
+<0158> Eu não estou brava, ok?
+<0159> Mas que carta sem vergonha!
+<0160> Estou pegando seu poder emprestado!
+<0161> Ai... minhas roupas estão todas sujas agora!
+<0162> O chá está servido, será a festa perfe- gyah?!
+<0163> Uma presença arrogante, toda vez que o vejo...
+<0164> Que legal...

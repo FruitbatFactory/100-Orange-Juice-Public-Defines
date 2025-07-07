@@ -1,0 +1,301 @@
+< CARD_DECEPTIVELYDISARMED_EFFECT >
+name=Engañosamente Engañado
+descr=La próxima carta de esta unidad no será activada.
+
+< CARD_STUFFED_EFFECT >
+name=Relleno
+descr=Esta unidad recibirá -1 ATK en su próxima batalla.
+
+< CARD_BURNOUT_EFFECT >
+name=Agotamiento
+descr=Por cada efecto guardado de este mismo tipo, esta unidad perderá un turno al intentar recuperarse.
+
+< CARD_PROTAGONISTPRIVILEGE_EFFECT >
+name=Privilegio de Protagonista
+descr=Al ser el atacante, el enemigo no podrá atacar (una sola vez por combate).
+
+< CARD_AIRSUPPORT_EFFECT >
+name=Apoyo Aéreo
+descr=Esta unidad recibirá +2 DEF en su próxima batalla.
+
+< CARD_COOP_BLAZING_EFFECT >
+name=¡Ardiente!
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK (aliado) o -1 DEF (enemigo). Este efecto también se pierde al morir.
+
+< CARD_COOP_MELTINGMEMORIES_EFFECT >
+name=Memorias Derretidas
+descr=Sweet Breaker recibirá +1 ATK, DEF y EVD al atacar.
+
+< CARD_COOP_EVILSPYWORKEXEC_EFFECT >
+name=Plan Malévolo ― Ejecución
+descr=Al final de su turno, esta unidad se curará por 2 puntos de vida.
+
+< CARD_COOP_BANNEDFORLIFE_GIFT_EFFECT >
+name=Prohibido De Por Vida
+descr=Este regalo podrá ser usado para bloquear la siguiente carta del jefe.
+
+< CARD_COOP_BANNEDFORLIFE_EFFECT >
+name=Prohibido De Por Vida
+descr=Este enemigo no podrá usar su siguiente carta.
+
+< CARD_COOP_BEASTWITCH_EFFECT >
+name=Bruja Salvaje
+descr=Esta unidad no podrá perder estrellas por causa de un jefe o sus secuaces.
+
+< CARD_COOP_FINALSURGERY_EFFECT >
+name=La Última Cirugía
+descr=Esta unidad recibirá -2 REC hasta ser revivida.
+
+< CARD_COOP_GUIDANCE_EFFECT >
+name=La Guía de la Hada Veleta
+descr=Esta unidad tirará 2 dados para todas sus acciones. Este efecto no se activará dentro de una batalla, y se perderá al morir.
+
+< CARD_COOP_STEALTHON_EFFECT >
+name=Invisibilidad
+descr=Esta unidad no podrá ser desafiada por los enemigos, y recibirá +2 ATK en su próxima batalla..\nEste efecto se perderá al entrar en combate, pero no se activará dentro de los paneles de batalla o del jefe.
+
+< CARD_COOP_SPECIALSTAGE_EFFECT >
+name=En Vivo
+descr=Esta unidad recibirá -3 MOV, sólo podrá activar paneles de movimiento, no podrá ser desafiada por el enemigo y no podrá usar cartas.\nSi el oponente acaba su turno a 2 paneles de distancia, esta unidad robará estrellas equivalentes a tu Nivel x5.\nEste efecto también se perderá al morir.
+
+< CARD_COOP_IDEALWORLD_EFFECT >
+name=Robo-Amigos
+descr=Unidades robóticas lucharán en el lugar de este jugador. Estas unidades robóticas recibirán +1 ATK dentro de sus combates.
+
+< CARD_COOP_GOODESTBOY_EFFECT >
+name=El Mejor de los Amigos
+descr=Esta unidad no podrá desafiar o ser desafiada, ignorará los paneles del jefe, y tomará una carta del mazo junto con otros jugadores al estar en el mismo panel que ellos; aun así, los jugadores podrían detenerse para acariciar a esta unidad.
+
+< CARD_PRISONBREAK_EFFECT >
+name=Escape de Prisión Fingido
+descr=Esta unidad tirará dos dados al moverse, no podrá ser desafiada y será inmune a las cartas Trampa y al daño recibido por las cartas del jefe. Se perderá un efecto de este mismo tipo por cada panel atravesado.
+
+< CARD_BOSS_HYPE_EFFECT >
+name=Ánimo
+descr=Al tener 10 efectos guardados de este mismo tipo, el jefe usará "Alboroto".
+
+< CARD_BOSS_RUMBLE_EFFECT >
+name=Retronar
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK.
+
+< CARD_BOSS_DANCEOFSEAGULLS_EFFECT >
+name=El Baile de las Gaviotas
+descr=Esta unidad recibirá +2 ATK en su próxima batalla.
+
+< CARD_BOSS_BEAKOFGODBIRD_EFFECT >
+name=La Boca del Ave
+descr=Esta unidad recibirá +1 ATK.
+
+< CARD_BOSS_BEAKOFDEMIBIRD_EFFECT >
+name=La Boca del Ave
+descr=Esta unidad recibirá +2 ATK.
+
+< CARD_BOSS_FLIGHT_EFFECT >
+name=Vuelo
+descr=El movimiento de esta unidad será invertido, y dañará a todos los enemigos en su camino.
+
+< CARD_BOSS_PIYOMARCH_EFFECT >
+name=Marcha Piyo
+descr=Esta unidad recibirá +2 EVD en su próxima batalla.
+
+< CARD_BOSS_HEADLESSCHICKENMINION_EFFECT >
+name=Gallina Sin Cabeza
+descr=Esta unidad recibirá +2 ATK y EVD en su próxima batalla.
+
+< CARD_BOSS_HEADLESSCHICKEN_EFFECT >
+name=Gallina Sin Cabeza
+descr=Esta unidad recibirá +2 ATK.
+
+< CARD_BOSS_WIRELESSCHICKEN_EFFECT >
+name=Gallina Inalámbrica
+descr=Esta unidad recibirá +2 ATK.
+
+< CARD_BOSS_ATTACKDOWN_EFFECT >
+name=Falta de Ataque
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá -1 ATK.
+
+< CARD_BOSS_DEFENSEDOWN_EFFECT >
+name=Falta de Defensa
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá -1 DEF.
+
+< CARD_BOSS_EVASIONDOWN_EFFECT >
+name=Falta de Evasión
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá -1 EVD.
+
+< CARD_BOSS_TURBO_EFFECT >
+name=Turbo
+descr=Esta unidad tirará 3 dados al moverse.
+
+< CARD_BOSS_EMP_EFFECT >
+name=PEM
+descr=Esta unidad no podrá usar cartas.
+
+< CARD_BOSS_DELTAFIELD_EFFECT >
+name=Campo Delta Revuelto
+descr=Los dados de movimiento de esta unidad caerán en 1, 2 o 3.
+
+< CARD_BOSS_IMAGINARYNUMBERS_EFFECT >
+name=Números Imaginarios
+descr=Los dados de esta unidad caerán en 7 para todas sus acciones.
+
+< CARD_BOSS_DELUSIONALNUMBERS_EFFECT >
+name=Números Delirantes
+descr=Los dados de esta unidad caerán en 0 o en 7 para todas sus acciones.
+
+< CARD_BOSS_HEALTHDOWN_EFFECT >
+name=Falta de Vida
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá -1 PV.
+
+< CARD_BOSS_RECOVERYMODE_EFFECT >
+name=Modo de Recuperación
+descr=Hasta su próxima batalla, esta unidad no podrá moverse, pero se curará por 2 PV.
+
+< CARD_BOSS_PERFECTREFLECTIVESHELL_EFFECT >
+name=La Cáscara Reflectante Perfecta
+descr=Esta unidad dañará a todos sus atacantes por cada punto de daño recibido.
+
+< CARD_BOSS_PROTECT_EFFECT >
+name=Protección
+descr=Por cada punto de daño recibido, esta unidad consumirá una carga del efecto guardado (hasta un máximo de 3) y lo reducirá a 1.\nSi no quedan más efectos guardados de este tipo, esta unidad recibirá -2 DEF, EVD y -1 MOV por 3 capítulos.
+
+< CARD_BOSS_SCRAMBLED_EFFECT >
+name=Revuelto
+descr=Esta unidad recibirá -2 DEF, EVD y -1 MOV.
+
+< CARD_BOSS_POTECT_EFFECT >
+name=Po-tección
+descr=Por cada punto de daño recibido, esta unidad consumirá una carga del efecto guardado (hasta un máximo de 3) y lo reducirá a 1.\nSi no quedan más efectos guardados de este tipo, esta unidad recibirá -1 DEF, EVD y MOV por 3 capítulos.
+
+< CARD_BOSS_SCRAMBLEDPO_EFFECT >
+name=Revuelto
+descr=Esta unidad recibirá -1 DEF, EVD y MOV.
+
+< CARD_BOSS_ELUSIVE_EFFECT >
+name=Eludir
+descr=Esta unidad le robará estrellas a todo aquél en su camino equivalentes al nivel del jefe x 5.\nSi esta unidad no es el jefe, las estrellas robadas serán enviadas al jefe.
+
+< CARD_BOSS_STARMANIA_EFFECT >
+name=Mania por las Estrellas
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá estrellas al comienzo de cada capítulo.
+
+< CARD_BOSS_ROBOTAX_EFFECT >
+name=Robo-Impuesto
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 DEF.
+
+< CARD_BOSS_HIGHWAYROBBERY_EFFECT >
+name=Atraco
+descr=Esta unidad recibirá +3 ATK, su movimiento será invertido y no se detendrá al desafiar a otra unidad.\nEn vez de dañar a la otra unidad, esta unidad le robará 10 estrellas por cada punto de daño realizado. 
+
+< CARD_BOSS_GREED_EFFECT >
+name=Codicia
+descr=Esta unidad recibirá 5 estrellas por cada punto de daño realizado dentro de una batalla (este efecto también se aplicará a los secuaces del jefe). 
+
+< CARD_BOSS_CHASE_EFFECT >
+name=Persecución
+descr=Esta unidad tirará un dado extra al moverse y recibirá un punto de ánimo por cada unidad desafiada.
+
+< CARD_BOSS_TIRED_EFFECT >
+name=Cansancio
+descr=Esta unidad recibirá -1 REC al tirar un dado para revivir.
+
+< CARD_BOSS_EXHAUSTED_EFFECT >
+name=Exhausto
+descr=Esta unidad recibirá -2 REC al tirar un dado para revivir.
+
+< CARD_BOSS_PLAYTAG_EFFECT >
+name=Las Atrapadas
+descr=Esta unidad recibirá +2 ATK y un punto de ánimo por cada unidad desafiada.
+
+< CARD_BOSS_HIDENSEEK_EFFECT >
+name=Las Escondidas
+descr=Hasta su próxima batalla, esta unidad no podrá moverse, pero recibirá 2 puntos de ánimo.
+
+< CARD_BOSS_PSYCHEDUP_EFFECT >
+name=Entusiasmo
+descr=Esta unidad recibirá +2 MOV.
+
+< CARD_BOSS_WATERMELONSPLIT_EFFECT >
+name=Rompe-Melones
+descr=Esta unidad recibirá +5 ATK, no se detendrá al desafiar a otra unidad y recibirá 2 puntos de ánimo al noquearlas.
+
+< CARD_BOSS_HYPEITUP_EFFECT >
+name=Exageración
+descr=Esta unidad recibirá +1 ATK, DEF y -1 EVD, pero perderá un punto de ánimo al recibir daño dentro de un combate.\nAl ser noqueada dentro de un combate, esta unidad perderá 2 puntos de ánimo.
+
+< CARD_BOSS_RAMPAGE_EFFECT >
+name=Alboroto
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 x Nivel PV .
+
+< CARD_BOSS_RAMPAGEHYPER_EFFECT >
+name=Alboroto
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK.
+
+< CARD_BOSS_HYPEMODE_EFFECT >
+name=Animada
+descr=Esta unidad recibirá +2 ATK y +1 DEF, y revivirá en su siguiente turno al ser noqueada.
+
+< CARD_BOSS_QUAKE_EFFECT >
+name=Terremoto
+descr=Esta unidad recibirá -2 MOV.
+
+< CARD_BOSS_POPPOMARCH_EFFECT >
+name=Marcha de Poppo
+descr=Esta unidad recibirá +2 EVD.
+
+< CARD_BOSS_TURBOCHICKEN_EFFECT >
+name=Gallina Veloz
+descr=Esta unidad tirará un dado extra al moverse, no se detendrá al desafiar a otra unidad y recibirá +1 ATK por cada efecto guardado de este mismo tipo.\nAl desafiar a otra unidad, esta unidad recibirá 25 estrellas.
+
+< CARD_BOSS_SWARM_EFFECT >
+name=Multitud
+descr=Esta unidad recibirá +2 ATK al atacar primero en su próxima batalla, bloqueando el contraataque de su enemigo (una vez por combate).
+
+< CARD_SKILL_COOP_FURY_EFFECT >
+name=Furia
+descr=Por cada efecto guardado de este mismo tipo, esta unidad aumentará el daño realizado por sus ataques con un punto de daño adicional.
+
+< CARD_COOP_HYPER_ATTACKER_EFFECT >
+name=El Arma Definitiva Bajo el Sol
+descr=Esta unidad aumentará el daño realizado por sus ataques con 3 puntos de daño adicionales.
+
+< CARD_COOP_PROTECT_EFFECT >
+name=Proteger
+descr=Por cada efecto guardado de este mismo tipo, esta unidad reducirá el daño recibido por 1. Este efecto se perderá al bloquear ese daño o al final de una batalla.
+
+< CARD_SKILL_COOP_GUARDIANSPIRIT_EFFECT >
+name=Espíritu Guardián
+descr=Por cada efecto guardado de este mismo tipo, esta unidad reducirá el daño recibido por 1.
+
+< CARD_COOP_HYPER_GUARDIAN_EFFECT >
+name=Salvavidas en la Playa Blanca
+descr=Por cada efecto guardado de este mismo tipo, esta unidad reducirá el daño recibido por 2.
+
+< CARD_SKILL_COOP_FROMBEYOND_EFFECT >
+name=Del Más Allá
+descr=Al morir dentro de un combate, esta unidad será revivida con puntos de vida equivalentes a la cantidad de efectos guardados de este mismo tipo.
+
+< CARD_COOP_HYPER_AVENGER_EFFECT >
+name=El Vengador Sin Piedad
+descr=Al morir dentro de un combate, esta unidad será revivida con puntos de vida equivalentes a la cantidad de efectos guardados de este mismo tipo.
+
+< CARD_COOP_RANSOMNOTE_EFFECT >
+name=Nota Redimida
+descr=Al final de su turno, esta unidad será noqueada.
+
+< CARD_COOP_DEMAND_EFFECT >
+name=Demanda
+descr=El próximo panel en el que esta unidad se detenga será tratado como un panel de cartas.
+
+< CARD_COOP_HYPER_DEALER_EFFECT >
+name=Juegos Veraniegos
+descr=El próximo panel en el que esta unidad se detenga será tratado como un panel de dos cartas.
+
+< CARD_COOP_POPPOSNATCHER_EFFECT >
+name=Poppo la Ladrona
+descr=Esta unidad recibirá -1 DEF y le robará estrellas con un valor equivalente a su Nivel x3 a todos los enemigos con los que se encuentre, pero no podrá subir de nivel por su propia cuenta.
+
+< CARD_COOP_INTELLECTUALBLUFF_EFFECT >
+name=Engaño Que Suena Intelectual
+descr=Cuando una carta del tipo escogido sea usada, este jugador tomará una carta.
+
+[EOF]

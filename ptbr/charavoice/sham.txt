@@ -1,0 +1,161 @@
+
+<0000> Ali!
+<0001> Aqui vai.
+<0002> Ehe.
+<0003> Aí esta!
+<0004> Este aqui!
+<0005> Meu turno!
+<0006> Ehehe, eu estou jogando uma carta.
+<0007> Eu acho que quero jogar essa aqui.
+<0008> Estou fazendo uma simples pegadinha.
+<0009> Fuhehe.
+<0010> Este vai bem aqui... Okay!
+<0011> Mal posso esperar para ver alguém pisar nisso.
+<0012> Eu estou realmente preparada para fazer isto!
+<0013> Eu não posso me dar ao luxo de perder.
+<0014> Eu vou dar o meu melhor!
+<0015> Eu vou te derrotar!
+<0016> Eu vou te eletrificar!
+<0017> Eu estou cheia de energia!
+<0018> Eu ainda não desisti!
+<0019> Eu tenho que recuperar o tempo perdido.
+<0020> Certo! Eu estou de volta de novo!
+<0021> O quêêê? Que bizarro.
+<0022> Uu, não saiu muito bem.
+<0023> Uuuuu...
+<0024> Muuuu...
+<0025> Tah!
+<0026> Vá!
+<0027> Hah!
+<0028> Aqui vou eu!
+<0029> Ow!
+<0030> Aie?!
+<0031> Hmmhee!
+<0032> Wah?!
+<0033> Primeiros socorros!
+<0034> Eu tenho que continuar seguindo em frente.
+<0035> Aquilo me deu forças.
+<0036> Eu sinto que posso fazer mais!
+<0037> Teleporte?!
+<0038> Para onde estou indo?
+<0039> Waah!
+<0040> Mas o quê...
+<0041> Au.
+<0042> Aimeudeus.
+<0043> Awah...
+<0044> Eu errei...
+<0045> Que a batalha comece!
+<0046> Aqui vou eu!
+<0047> Eu posso fazer isto!
+<0048> Eu vou ter que te pedir para deixar eu passar.
+<0049> Saia do meu caminho!
+<0050> Encontro inimigo?!
+<0051> Pera, quê?!
+<0052> Você está procurando uma treta?
+<0053> Vá!
+<0054> Atire!
+<0055> Ataque!
+<0056> Eu vou te atacar!
+<0057> Ugh-kuh!
+<0058> Au!
+<0059> Oops.
+<0060> Por acaso eu acabei de ser arranhada?!
+<0061> Uwah!
+<0062> Nada bom!
+<0063> Uaaah!
+<0064> Isto definitivamente não é nada bom...
+<0065> Essa foi por pouco!
+<0066> Bem desviado!
+<0067> Hiee!
+<0068> Você não pode me acertar!
+<0069> Ufa... Eu venci.
+<0070> Certo, avançando.
+<0071> Eu consegui...
+<0072> Ufa...
+<0073> Eu fui derrotada?
+<0074> Kuh...
+<0075> Caramba...
+<0076> Eu fui derrotada...!
+<0077> Ebaaa!
+<0078> Isto é tudo meu.
+<0079> Incrível.
+<0080> Uhihi.
+<0081> Ah!
+<0082> Você só pode estar brincando comigo!
+<0083> Não pode ser!
+<0084> É sério!?
+<0085> Uma armadilha!?
+<0086> Eu não acredito que caí nessa.
+<0087> Ugh, estou podre.
+<0088> Whoa, por que aqui...!?
+<0089> Existe algo grandão... Nada bom.
+<0090> Uh-oh, estou em apuros.
+<0091> Eu não tenho certeza se consigo lidar com isso...
+<0092> Hmm, estou com uma sensação ruim...
+<0093> Nós vamos conseguir diversas delas.
+<0094> Isto é uma jornada de coleta, certo?!
+<0095> Eu sou excelente nesse tipo de coisa.
+<0096> Vamos lá coletar estrelas!
+<0097> Eu não tenho escolha a não ser lutar.
+<0098> Eu não sou a melhor lutadora no mundo, mas...
+<0099> Se é isto que tenho que fazer.
+<0100> Eu vou tentar lutar.
+<0101> Sou a Sham. É um prazer te conhecer.
+<0102> Claro, vamos trabalhar juntos!
+<0103> Com certeza! Vamos fazer isto juntos.
+<0104> Eu estou muito grata que você me escolheu! Vamos nos divertir.
+<0105> Começa agora!
+<0106> Meu coração está acelerado.
+<0107> Vamos mostrar a eles do que somos capazes.
+<0108> O jogo começa!
+<0109> Eu certamente estou grata de que ganhamos.
+<0110> Nós vencemos?! Eu estou tão feliz!
+<0111> Nós fizemos isso perfeitamente...
+<0112> É, essa foi uma vitória agradável.
+<0113> Você conseguiu algo fofo?
+<0114> Uau, nós conseguimos algo!
+<0115> Isto... por acaso ajuda?
+<0116> Nossa, que bom! Você quer usar agora?
+<0117> Eu gostaria de trocar, por favor!
+<0118> Você se importa em trocar?
+<0119> Eu acredito em você!
+<0120> Substituição de jogador!
+<0121> Okay!
+<0122> Parece bom!
+<0123> Yep.
+<0124> Isto não é bom.
+<0125> Oh, não!
+<0126> Que sorte!
+<0127> Hmm?
+<0128> Vá! Vá!
+<0129> Dado!
+<0130> Vááá!
+<0131> Oi!
+<0132> Mhmm.
+<0133> Muito bom!
+<0134> Eu estou impressionada! Você é incrível!
+<0135> Nuah! Qual que é o seu problema!
+<0136> Eu não sei o que isto faz, mas...
+<0137> Eu me pergunto o que eu posso fazer com isto.
+<0138> É seguro usar isto?
+<0139> Não tenho certeza se isto é uma boa ideia, mas...!
+<0140> É a Sora!
+<0141> A Sora está aqui! Estou empolgada.
+<0142> Mesmo sendo você Sora, eu não vou pegar leve.
+<0143> Eu vou com tudo, Sora!
+<0144> Ei Sora, vamos lutar!
+<0145> Tenha certeza que você vai dar o seu melhor!
+<0146> Eu venci esta.
+<0147> Você é tão forte quanto eu me lembro, Sora.
+<0148> N-não me acerte pelas costas, okay...?
+<0149> Huh? Eu e Sora...? O que você está fazendo?
+<0150> Nath, lute comigo!
+<0151> Whoa, você vai lutar comigo, Nath?
+<0152> Eu não acredito que eu venci...
+<0153> Eu sabia que não ia me dar bem contra você.
+<0154> Aimeudeus!? Tem uma garotinha fofa aqui!
+<0155> Olá, garotinha, que tal você vir passear comigo!
+<0156> V-você quer vir passear comigo? Sim, claro. O que devemos fazer?
+<0157> Isto foi divertido! A propósito, você já pensou em se tornar uma ídolo?
+<0158> Pequenina e fofa, e ainda sim forte... Você seria a ídolo perfeita...
+<0159> *batendo palmas*... Vocês duas estão brilhando mais do que qualquer outra pessoa...

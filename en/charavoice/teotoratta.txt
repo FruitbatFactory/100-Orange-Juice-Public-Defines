@@ -1,0 +1,160 @@
+<0000> There.
+<0001> Off you go.
+<0002> Yah!
+<0003> I'm throwin' this!
+<0004> Here's a card!
+<0005> I'm gonna play this! How's that!
+<0006> I'm gonna use this, alright?
+<0007> Can't wait to see what'll happen.
+<0008> Are we gonna set a trap here?
+<0009> Am I doing this right?
+<0010> Hmm, probably something like this.
+<0011> Here's a trap card.
+<0012> Here's a battle card.
+<0013> I'm strong enough even without this! I'll still use it, though!
+<0014> This card makes you stronger!? That's awesome!
+<0015> I'm gonna play this! I'm sure it'll give me so much power!
+<0016> Awooo! Beasts, lend me your power!
+<0017> I messed up so hard...
+<0018> I'm so not done yet...!
+<0019> I can do this more!
+<0020> Alright, I'm done taking a break!
+<0021> Are you kidding me!?
+<0022> Oh no, I thought I'd get back up.
+<0023> What have I done...
+<0024> Ugh. Not yet? Not yet?
+<0025> Ey!
+<0026> Oryah!
+<0027> Tey!
+<0028> You little!
+<0029> Ouch!
+<0030> Owah!
+<0031> C'mon!
+<0032> Dang it!
+<0033> Alright, I'm full of energy now.
+<0034> This feels so good, I might fall asleep.
+<0035> I'm much better now.
+<0036> Never been better.
+<0037> Owaaah!
+<0038> What gives?
+<0039> Muwaaah!
+<0040> Spinning... spinning!
+<0041> Youuu gooot meee...
+<0042> I should've been more alert...
+<0043> I can't keep standing...
+<0044> I'm gonna take a little break here...
+<0045> You fight me now!
+<0046> Rawr!
+<0047> This is what the Beast Witch can do.
+<0048> Meow! I want you to play with me!
+<0049> You wanna play with me? Sure!
+<0050> Alright, bring it on.
+<0051> You made a mistake to challenge the Beast Witch.
+<0052> I'll make you regret this!
+<0053> Tail attack!
+<0054> I'm gonna hit you with my tail!
+<0055> How's that!
+<0056> Take this! Yah!
+<0057> Kyua!
+<0058> What are you doing!?
+<0059> Uh oh.
+<0060> Ohaah!
+<0061> That hurt a lot!
+<0062> Why would you do that!?
+<0063> What did I do to you!?
+<0064> I hate getting hurt!
+<0065> That'd never hit me.
+<0066> Check out my quick moves!
+<0067> Ku-ku-ku, I'm too fast to see, aren't I!
+<0068> You're shockingly slow.
+<0069> That was an easy win.
+<0070> I had a fun time.
+<0071> You done for already?
+<0072> *Sigh*... I wanted to have more fun.
+<0073> Ugyaah! I got beaten!
+<0074> I can't believe someone like that beat me.
+<0075> I'll defeat you next time...
+<0076> Ugyaah.
+<0077> Ugyaah, I got a bunch of these.
+<0078> Just how many did I get!? Might be too many to count.
+<0079> I feel so good!
+<0080> I want more! More, I say!
+<0081> Hold on! Those are mine...!
+<0082> Nobody told me about this! Wait up!
+<0083> Huh? Where'd my stars go?
+<0084> My savings...!!!
+<0085> This has gotta be the work of dastardly humans...!
+<0086> Ugyah! My tail's stuck on it!
+<0087> Stupid trap...! Dang it...!
+<0088> Can't believe I fell for this... Muuh..!
+<0089> Oh, look at that huge beast!
+<0090> Fu-fu-fu! This is something else!
+<0091> What a beast! Wahaha! I won't miss this chance!
+<0092> Alright, I'll make this quick!
+<0093> I'll go get myself a bunch of stars! *Punch punch*!
+<0094> The more stars, the better, right?
+<0095> I'm gonna get more and more of these!
+<0096> I'm very good at finding this kind of stuff.
+<0097> I'll show you all what the instinct of a beast can do.
+<0098> I'll go wild now!
+<0099> Rawr rawr! I'm gonna fight!
+<0100> My tail is getting real impatient!
+<0101> I'm Teotoratta! The Beast Witch!
+<0102> I've been waiting for you! We're gonna go play now!
+<0103> You wanna see how strong I am? Alright, follow me!
+<0104> My turn? I was sick and tired of waiting!
+<0105> I'm more than ready! Let's do this!
+<0106> Oh yeah! Let's do this!
+<0107> I'm so pumped up! Awooo!
+<0108> I'm good to go! Bring it on!
+<0109> Awoooooo! I won! I won!
+<0110> I'm number one! Impressive, isn't it?
+<0111> Hey, did you see how well I played?
+<0112> Uhihi! I'm sooo happyyy!
+<0113> Look what I just got. You want it?
+<0114> Bow wow! I found this! Be happy!
+<0115> Oh, is that an item you got there? Wanna play with it now?
+<0116> You want this thing? You've got to praise me first!
+<0117> Take my place!
+<0118> It's time for you go out there.
+<0119> Switch with me for a bit.
+<0120> I need a break. You got this.
+<0121> Okay.
+<0122> Way to go!
+<0123> Bow wow!
+<0124> No.
+<0125> How disappointing.
+<0126> So lucky! So happy!
+<0127> What the heck is this?
+<0128> Let's get started!
+<0129> Dice roll time.
+<0130> Here we go!
+<0131> Yoo-hoo.
+<0132> *Whimper*
+<0133> Well done!
+<0134> That's amazing! I praise you!
+<0135> *Whimper whimper*
+<0136> Should I use this? Will it help?
+<0137> *Sniff sniff*... This smells good! I'm using it!
+<0138> I'm just gonna use this and see how it'll turn out!
+<0139> What's gonna happen? I'm stoked!
+<0140> Miusaki! Awooo! Get ready to fight me!
+<0141> I'm not on a rampage. I'm just playing!
+<0142> Miusakiii, you done for already!?
+<0143> *Whimper*... Miusakiii, don't leave me alone.
+<0144> What are you? Beast? Human?
+<0145> Oh, huh? A human? A beast? Which are you!?
+<0146> So you were a beast! No way could you beat the Beast Witch!
+<0147> My power didn't work on you... So you were a human...
+<0148> Alright, great work, my beasts.
+<0149> Way to go, my fellow beasts!
+<0150> You guys did a super good job! I can't hold this much...!
+<0151> Here, I can use my power to its fullest extent...!
+<0152> I can sense beasts everywhere around here.
+<0153> Fufufu, I like it here.
+<0154> Awooo! Bow wow!
+<0155> My magic isn't working on that thing...?
+<0156> What in the!? Am I not the only Beast Witch around?
+<0157> Hmm? There's something funny going on around here...
+<0158> This is confusing. What the heck's going on here?
+<0159> So, there's more than one of me? Does anything go around here!?

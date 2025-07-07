@@ -1,0 +1,369 @@
+< LORE_SUGURI >
+1=A girl who forever looks 14 years old.
+2=Likes: Planet Earth\nDislikes: Conflict
+3=Suguri has spent over 10,000 years restoring the ruined Earth. The calm and quiet girl never hesitates to put up a fight for the sake of protecting Earth and its people.
+4=She is capable of creating any tools she requires and of flying through the air at an incredible speed.
+
+< LORE_QP >
+1=A human-Pomeranian hybrid girl who is always a ball of energy, QP is a silly and honest girl who gravitates toward excitement.
+2=Likes: Pudding\nDislikes: Bullies
+3=The dog girl loves pudding above anything else, and her excitement for pudding never fails to peak.
+4=She gets along well with rabbits.
+
+< LORE_KAI >
+1=Kai is an 18 year old, ordinary guy.
+2=Likes: Benjamins\nDislikes: Trouble
+3=After the mysterious creature Marie Poppo has stolen his wallet, he chases after her and ends up in many different worlds. 
+4=Even though he's the protagonist of 100% Orange Juice, Kai doesn't have any outstanding characteristics. That fact bothers him, but he tries to forcefully cheer himself up to get over it.
+
+< LORE_MARC >
+1=A 16 year old girl who dreamed of becoming an aviator as a kid and grew up to be one. She's motivated, diligent, and hardworking, but can be extremely stubborn.
+2=Likes: Red things, apples\nDislikes: Those who cause others trouble
+3=Marc is younger than anyone else in the Guild, an organization formed and run by aviators. Her trusty airplane "Red Barrel" literally looks like a red barrel.
+4=Marc's two pet peeves are a boy named Peat who's constantly giving her trouble for stealing his position as the youngest in the Guild, and her best friend Fernet messing with her after their friendship broke up over a fight.
+5=Marc's latest frustration is having to find her own jobs because the Guildmaster went on a rampage and caused the Guild to collapse.
+
+< LORE_HIME >
+1=A gentle girl who appears around 14 years old.
+2=Likes: The atmosphere\nDislikes: The void of space
+3=Hime has lived for over 10,000 years without aging physically. She used to play the role of the guardian of the humans who'd left Earth to travel into space for certain reasons. 
+4=Now that she's back on Earth and done protecting her people, Hime's living a slow and quiet life.
+5=Hime's relaxed, elegant demeanor reminds one of a well-brought up girl who's accepting of everyone and everything. Her long life has given her a calm and collected outlook on the everyday events of life, though she still acts and talks in a way that befits her apparent age.
+
+< LORE_FERNET >
+1=The daughter of a rich family, Fernet is 16 years old and childhood friends with Marc.
+2=Likes: Her parents\nDislikes: Inelegant people/things
+3=Fernet doesn't hail from nobility. Instead, her father became a millionaire during the rapid growth of the aviation industry. When Fernet was little, she was having trouble getting along with the kids from other rich families, so her parents decided to send her to a school for ordinary kids, where she met and befriended Marc. 
+4=When the two girls grew up, their friendship suffered a rough patch because Marc decided that she wanted to be an aviator, and Fernet didn't like that idea.
+5=Fernet isn't selfish, but she's the age where she finds it embarrassing to express her feelings, and as a result can sound blunt and thoughtless. She also feels like she has to go above and beyond in order to fit in with the other rich families.
+
+< LORE_YUKI >
+1=A cat-eared girl who looks to be 16 years old and speaks in Kansai dialect.
+2=Likes: Manga\nDislikes: Conceited people
+3=Yuki enjoys bullying the dog girl QP; In the QP Shooting game, Yuki steals QP's most favorite food, pudding, from her and even ruins the dessert by pouring soy sauce on it right in front of her.
+4=This domineering, self-assured dictator leads a group of mischievous kids called the Waruda, spending most of her time hanging out with the members.
+
+< LORE_POPPO >
+1=Marie Poppo is the mischievous mascot of 100% Orange Juice.
+2=Likes: Stars\nDislikes: Quiet places
+3=She makes fun of other people and thinks she's the cutest in the whole world.
+4=Poppo tends to speak in cute "poppo" sounds, but is in fact perfectly capable of speaking normally.
+5=There actually exists more than one Poppo! The strange creatures are minions created by Tomomo, the creator of 100% Orange Juice.
+
+< LORE_ARU >
+1=A bunny-eared girl who's training to be a Santa Claus. She's a happy, upstanding, and straightforward girl.
+2=Likes: Leaves\nDislikes: Greasy foods
+3=Aru is diligent and works hard to make every kid's dream come true. 
+4=There was a time when someone stole all the Christmas presents Aru was supposed to deliver, and she went all out to take them back. 
+
+< LORE_SORA >
+1=The protagonist of her titular game, Sora always looks 16 years old due to the body modifications she was forced to have that turned her into an ultimate weapon of a war.
+2=Likes: Chocolate\nDislikes: Medicine
+3=10,000 years after ending the war, Sora woke up to an Earth that had recovered from the severe damage wrought by the fighting, and is now living the slow life.
+4=All the harrowing experiences she had in the war have made Sora terrible at expressing her feelings.
+5=In the peaceful world of 100% Orange Juice, she enjoys the board game and shows no sense of depression from her tragic past, though the competitive part of her personality makes her try her hardest to win.
+
+< LORE_PEAT >
+1=A 17 year old aviator working for the Guild, riding his airplane called the Blue Crow. He's an honest, diligent guy at heart, but his efforts tend to go in the wrong direction. 
+2=Likes: Being number one\nDislikes: Losing
+3=Peat used to be the youngest member of the Guild and enjoyed being the center of attention prior to Marc joining the organization and stealing the spotlight.
+4=Peat is the second son in a family with a time-honored history. Claiming his older brother to be the successor of the family name, Peat set foot in the world of aviators and has been working hard to be number one in the skies.
+5=In addition to his rivalry with Marc, Peat also harbors romantic feelings for her which he doesn't recognize himself. Peat is not the best with girls, probably because he goes to a boys' school. His attempts to act like a gentleman quickly go awry.
+
+< LORE_TOMOMO >
+1=The 27 year old mastermind of 100% Orange Juice, Tomomo has a lazy and easygoing personality.
+2=Likes: Whipped cream\nDislikes: Vegetables
+3=Tomomo used to be a tired, unmotivated office employee, but one day, a miracle happened that turned her into a magical girl.
+4=Even though she's actually a harmless, down-to-earth person, the fact that she's too old for her magical girl get-up and was put in such a peculiar position made her so upset that she caused a lot of trouble for other people. 
+
+< LORE_SYURA >
+1=Syura is 14 years old and a second year in middle school. She's the understanding bestie of QP.
+2=Likes: Shrimp\nDislikes: Mushrooms
+3=This huge gamer geek is always cheerful and full of energy, except for when she panics to death and circles form under her eyes due to lack of sleep because she's scrambling to finish up her manga to sell at Comic Market. 
+4=Regardless of gender, Syura loves cute and pretty people so much that she goes crazy when she sees them.
+5=Syura and Piyo, a chick friend of hers, always talk to each other like comedians. 
+
+< LORE_NANAKO >
+1=One of the Shifu Brands, Nanako is an altered human who fights by controlling seven autonomous weapons called Bits at the same time. Her physical age is 12 years old.
+2=Likes: All kinds of fruit\nDislikes: Spicy food
+3=She fought Suguri under the command of Shifu, who was seeking to take over Earth, after which the two girls made up. She is now living a carefree life.
+4=Nanako is always either tough and cool, or irritated. However, she is a kind girl with a broad perspective, who will help anyone in trouble.
+5=She gets along especially well with Kae. On the other hand, she hates Shifu, who altered her, and his robot copy NoName, and gets snappish when encountering either of them.
+
+< LORE_SAKI >
+1=One of the Shifu Brands, Saki is an altered human who fights using explosive weaponry modeled after musical instruments. Her physical age is 16 years old. 
+2=Likes: Anything delicious\nDislikes: Super sour things
+3=Saki has a warm and relaxing personality, though she can be pretty vicious sometimes.
+4=She gets uncomfortable and cringes when either Shifu, the one who altered her, or his copy robot NoName is around.
+5=Saki's good at making sweets. Her success of recreating a legendary dessert, pudding, turned her into one of the six Sweet Gods, Sweet Maker. Saki and QP get along with each other because they are both Sweet Gods and share a similar personality and theme color.
+
+< LORE_KYOUSUKE >
+1=Kyousuke is 18 years old and a third year in high school. 
+2=Likes: Sushi\nDislikes: Natto
+3=He's a competent, lovable school president with a witty tongue and a bad habit of stripping off his clothes when he gets excited.
+4=Kyousuke originally appears in a fake April Fool's game, and his first real appearance is in QP Shooting - Dangerous!!
+5=Having romantic feelings for a boy named Kyupita, Kyousuke is in persistent pursuit of QP who's the spitting image of the boy he's in love with.
+
+< LORE_KRILA >
+1=Krilalaris is a 13 year old girl living in abject poverty, often seen suffering from pangs of hunger and carrying around plush toys. Member of the prankster team Waruda.
+2=Likes: Stew\nDislikes: Pickled food
+3=She is blessed with a strong case of chuunibyou, AKA eighth-grade syndrome, and you can always find her garbed in a gothic lolita style dress.
+4=Krilalaris believes using words like "blood" and "darkness" makes her look cool. Her true self is just a goofy and awkward girl.
+5=Krilalaris is excellent at sewing, and the elaborate clothes she wears are of her own making.
+
+< LORE_KAE >
+1=A reckless and energetic girl who lives her life freely, Kae is one of the Shifu Brands, humans altered for fighting. 
+2=Likes: Cake\nDislikes: Dark and closed spaces, spicy food
+3=Kae often uses onomatopoeias to express herself.
+4=As the result of her operation, her body temperature rises and her body blazes up when she uses her powers.
+5=Kae is 18 years old, but the reckless modification surgery performed on her caused her to regress to infancy, and afterwards she was locked up in a dark place until a certain incident.
+
+< LORE_ALTE >
+1=Until the age of 24, Alte fought in a great war.
+2=Likes: Her fiancé's homemade food\nDislikes: Instant food
+3=She ultimately sacrificed herself in an explosion when cornered by Sora, leaving her fiancé behind.
+4=The hard-headed soldier dotes on her fiancé. However, she isn't very good at cooking, and wants to get better at it.
+
+< LORE_KYOKO >
+1=Being in her twenties, Kyoko is the oldest of the Shifu Brands, humans altered for fighting.
+2=Likes: Seasonal fruits\nDislikes: Pain
+3=Always appearing calm and balanced, Kyoko may look like an unapproachable ice queen, but in reality she's very caring and supportive.
+4=After a modification surgery, she gained the ability to manipulate ice crystals, but with a side effect of infrequent jolts of pains through her entire body.
+5=Because of that, she dislikes using the word "pain" to describe mere annoyances, and prefers to use the word "annoying." Consequently, when she says something is annoying, she may also mean it's painful.
+
+< LORE_SHAM >
+1=Sham is a physically altered human, with a body designed for combat. She is in her mid-twenties.
+2=Likes: Chocolate, cute things\nDislikes: Fighting
+3=Sham is the operator who taught Sora the basics of combat. When off duty, she's usually such a ball of energy it can annoy people around her.
+4=Her war experience makes her uncompromising when in battle. After the end of the war, Sham has been looking to do something new.
+5=Sham doesn't care about the scar on her face, believing she's supremely cute even with it.
+
+< LORE_SHERRY >
+1=A 23 year old female aviator, Sherry speaks in a calm, polite manner and hardly ever raises her voice. That makes her appear a very peaceful and aloof person, but she actually has a sensitive, thoughtful, and competitive nature underneath.
+2=Likes: Overhauling\nDislikes: Rules and regulations.
+3=She can lose herself in whatever she has decided to do, and that tendency is further amplified when she's holding the control stick.
+4=Sherry used to belong to the pilot organization called the Guild, but left it for the sake of flying in the sky freely. In her Guild days, she used to work with Islay - her friend and rival. They are still on good terms.
+5=Sherry's father is an aircraft mechanic. Helping her father with his job led her to decide she could become a better mechanic by becoming a pilot herself rather than simply asking pilots about their airplanes - and she did.
+
+< LORE_SWEETBREAKER >
+1=As one of the Six Sweet Gods, Sweet Breaker has the role of erasing all the records of sweets that have potential to cause chaos in the world. She once fought QP over the existence of pudding, and was defeated.
+2=Likes: Sweets that aren't too sweet, order\nDislikes: Extremely spicy food
+3=Sweet Breaker is a rigid moralist with an attitude similar to that of a school prefect. She does her job without letting her personal feelings get in the way.
+4=The real name of the 16 year old girl is Amami.
+
+< LORE_STARBREAKER >
+1=Star Breaker is 16 years old.
+2=Likes: Baking, fireworks\nDislikes: Losing
+3=She was originally an altered human produced by a certain country in an attempt to end a stalemated war by destroying the entire planet, which was by then heavily contaminated.
+4=Star Breaker was the detonator to a bomb able to destroy the entire planet. In the operation to turn her into a living fuse, Star Breaker died and was brought back to life so many times that she completely lost her sanity. In the end, Sora stopped her.
+5=In the peaceful world of 100% Orange Juice, Star Breaker still makes threatening comments, but is considerably mellower than the original.
+
+< LORE_NATH >
+1=Nath is a physically altered human designed to fight using her own body. Her physical age is 22.
+2=Likes: Puppies, lazing around, taking shortcuts\nDislikes: Complicated clothes, hurry, failure
+3=She was another ultimate weapon hastily produced in order to replace the initial ultimate weapon, Sora, after she had gone missing. 
+4=Nath’s body remodeling was done so roughly that both of her arms had to be removed. Regardless, she doesn't harbor any hard feelings about her body modification; she simply goes with the flow.  She's so used to being armless that she's living a lazy life without any inconvenience.
+5=Nath has a big pet dog named Noopy.
+
+< LORE_TOMATO >
+1=Around 11 years old, Tomato is a junior member of the prankster team Waruda. She's best friends with her assistant Mimyuu, and they're almost always together.
+2=Likes: Tinkering, gadgets, pranking\nDislikes: Being bored, bullying
+3=She loves playing pranks, with little regard for the people around when she's having fun.
+4=Tomato's signature prank tool is the giant robot "Waruda Machine."
+
+< LORE_MIMYUU >
+1=Around 5 years old, Mimyuu is the youngest member of the prankster team Waruda. She's best friends with Tomato, whom she calls Boss.
+2=Likes: Pranking, games\nDislikes: Being bored
+3=Mimyuu loves pranking and enjoys destroying things with her huge hammer.
+4=She speaks a mix of different dialects and speech patterns because she's young and impressionable and watches a lot of weird videos.
+5=Mimyuu hides cat ears under her onesie.
+
+< LORE_KIRIKO >
+1=In her early twenties, Kiriko is the oldest member of the prankster team Waruda.
+2=Likes: Injections\nDislikes: Anything that harms health
+3=Brandishing surgical knives, Kiriko has a dark, gloomy personality, and she probably has a few screws loose.
+4=She's always on the lookout for subjects to perform involuntary experiments on, and supports Waruda with her concoctions.
+5=Kiriko is not a licensed medical practitioner but simply cosplays as a doctor. Patients beware.
+
+< LORE_NONAME >
+1=NoName is a male android modeled after the scientist Shifu, who tried to take over Earth. NoName's intelligence is way lower than the original, but he has high combat power and an ability to fly in the air instead.
+2=Likes: Self, robots\nDislikes: Malfunctions
+3=The android is as selfish and self-centered as the original and gets angry when things don't go as he wants, but he often gets fooled or convinced easily because of his lack of intelligence. 
+4=NoName has authority to command the altered humans produced by Shifu because they take commands issued in Shifu's voice, and NoName has Shifu's voice.
+5=NoName can function without a body, so he often gets his head removed from his body and planted in a pot for punishment. He has a penchant for thighs, which often lands him in this situation.
+
+< LORE_MIUSAKI >
+1=An around 15 year old girl who can repel any type of attack with magic, Miusaki is also known as the Solid Witch. 
+2=Likes: Exercise, fun\nDislikes: The cold
+3=Miusaki usually works at an inn to attract customers. She is outgoing, cheerful, kind, and into fun things.
+4=Miusaki is good with kids and is affectionately called Big Sis Miu by the kids in her neighborhood.
+
+< LORE_REPA >
+1=Ceoreparque is an about 13 year old girl who can control her own hair with magic. She is also known as the Braid Witch.
+2=Likes: Fiddling with hair\nDislikes: Humidity
+3=She prefers to be called Repa by friends.
+4=Despite looking demure on the outside, Repa is actually a fairly self-centered person. When emotional, she turns her hair into sharp needles to attack with it.
+5=Recently she has been very into a board game introduced to her by the Forest Witch.
+
+< LORE_TSIH >
+1=Tsih fought on the opposite side from Sora during the war. She looks and acts like a little girl.
+2=Likes: Juice\nDislikes: Cramped spaces
+3=Having been altered into a weapon, Tsih fights using her brute physical strength and wires to catch and throw rocks. She's also equipped with an optical camouflage system.
+4=She makes herself seem goofy by adding "nanora" at the end of her sentences, but is actually a sinister, cunning woman in her late twenties. In 100% Orange Juice, however, she's simply a carefree character with a mean streak, stripped of her usual serious nature.
+5=The cutesy, long-sleeved outfits Tsih always wears fit the image she's cultivated, but their true purpose is to hide her damaged hands.
+
+< LORE_TEQUILA >
+1=In the face of adversity almost putting an end to his pirate career, Tequila put propellers on his ship to cruise in the sky instead of the sea. However, he claims to still be a pirate of the seas.
+2=Likes: Looting, family\nDislikes: Solid ground
+3=Though an outlaw, Tequila believes in his way of life and doesn't hesitate to fight in order to protect his beliefs.
+4=The man, already as old as a grandpa, dreams of turning back to being a sea pirate one day along with his minions - some of whom look up to him, and some of whom don't.
+5=Tequila dotes on his foundling daughter Mescal.
+
+< LORE_MEI >
+1=Mei is a bit of a naughty 13 year old girl who can't help bullying QP when she sees her.
+2=Likes: Birds\nDislikes: Studying
+3=Mei likes Natsumi, her older school friend, so much that her calming presence keeps Mei behaving.
+4=Mei's one obsession is with unusual birds. She keeps two penguins named Red and Blue, who are big enough to ride on.
+
+< LORE_NATSUMI >
+1=Natsumi is 15 years old and in her 3rd year of middle school. She's a gentle and innocent soul who's difficult to upset.
+2=Likes: Oranges, cooking\nDislikes: Being hurried, violence
+3=Natsumi often hangs out with Mei, who she's good friends with despite Mei being younger and having a personality that's the polar opposite of Natsumi's.
+4=Natsumi's great at cooking and spends most of her time practicing it while at home. As a result, she sometimes ends up leaving her house with kitchen knife still in hand, which combined with her angelic smile can make her look quite scary. However, she wouldn't hurt a fly.
+
+< LORE_ARTHUR >
+1=A cool middle-aged man, Arthur runs a toy store called 'Rbit Hobby Shop'. 
+2=Likes: Popular products, family\nDislikes: Scalping, sweetened coffee
+3=Arthur has a young daughter named Nico who he dotes on in his own way.
+4=In a timeline that may or may not have happened, Arthur is the final boss of Xmas Shooting. To protest Santa taking away his sales at Christmas, Arthur steals all the Christmas presents. Eventually the two parties talk it out, and Arthur helps Santa deliver the presents. Afterwards, Santa can also be found working part-time at his toy store.
+
+< LORE_NICO >
+1=Nico is a 12 year old girl who is a little selfish and innocent. She looks even younger than her age.
+2=Likes: Turkey meat, presents\nDislikes: Thunder and lightning, Christmas, mochi
+3=Nico helps her father Arthur out at the family toy store.
+4=In Xmas Shooting - Scramble!! she stole all the presents from Santa in order to help out the store, which was in bad financial straits due to all the free Christmas presents Santa was giving out. Eventually the two parties talk it out, and Nico helps Santa deliver the presents.
+
+< LORE_IRU >
+1=An energetic 15 year old girl, Iru is one of the Shifu Brands, humans altered for fighting. 
+2=Likes: Most sports, heavy weapons, mecha, Korean BBQ\nDislikes: Seeing a doctor, being mistaken for a boy, bell peppers
+3=She was modified for combat against her will by Shifu, and made to fight Suguri in the skies of Earth. After losing to Suguri, Iru has been living an easy life. 
+4=Thanks to Iru's caring and kind personality, she's looked up to by kids younger than her.
+
+< LORE_MIRA >
+1=Mira is an altered human who fought in the great war. Eventually, they face off against Sora and are defeated.
+2=Likes: Sushi, superhero shows, dogs\nDislikes: Mushrooms
+3=When the highly skilled female soldier was injured beyond recovery, the army transferred her mind into the body of a braindead man with a similar combat style. 
+4=Despite having a woman's brain in a man's body, no one thought they were any different because they had always had a masculine personality. Their body is about 17 years old, while they're in their 20s on the inside.
+5=Mira aspires to be a hero. It is the reason they wear a red scarf which, to them, is the symbol of one. They fight more like a ninja than a hero, though.
+
+< LORE_CUTIES >
+1=A cuteness-filled idol unit consisting of Sora and Sham following one possible string of events.
+2=Likes: Live concerts with spectators, loyal fans\nDislikes: Internet flaming
+3=After meeting Saki, Sham ascended to the next level of cuteness and forced Sora to form an idol group with her.
+4=Pulled along by the pushy Sham, Sora was hesitant about being an idol at first, but she now enjoys being one and getting encouragement from all of their fans.
+
+< LORE_YUUKI >
+1=Yuuki is a 17 year old girl who wears an angel puppet on one hand and a devil on the other. 
+2=Likes: Plushies, children\nDislikes: Party poopers, buzzkills
+3=She does all her talking in the form of ventriloquism through the two puppets, though the inexperienced ventriloquist often stumbles and mixes one puppet with the other.
+4=Yuuki does her performance for many reasons - first and foremost, she wants to perform on a stage for the entertainment of children. Unfortunately since she's awkward and self-taught, people often find her weird and the children she wants to perform for are terrified of her. However, such things don't happen to her in the cheerful world of 100% Orange Juice.
+
+< LORE_ISLAY >
+1=As a 23 year old female pilot, Islay is in her prime. She belongs to the Guild, and loves nothing more than flying her beloved white plane, White Cross.
+2=Likes: Flying\nDislikes: Hustle and bustle, trouble
+3=Islay is Marc's senior and works as her mentor and occasional partner. She has a serious and responsible personality, but rarely shows initiative. Islay is respectful toward those with skill, but doesn't want to waste time rubbing shoulders and is selective in who she associates with.
+4=Her ex-partner Sherry is one of her few friends and rivals, but they parted ways after she left the Guild. After the collapse of the Guild, they work together once more as business partners. Islay likes to avoid troublesome things, but is sometimes pushed around by Sherry who can push right past her indifferent attitude with her blunt approach and get a rise out of her.
+
+< LORE_SUGURI46 >
+1=Even after she finished her job of rejuvenating wartorn Earth, the immortal girl kept contributing to humanity until the end of the planet itself.
+2=Likes: Candy, games\nDislikes: Long trips
+3=Ever since the end of Earth, Suguri and her only immortal friend, Sumika, have been aimlessly traveling in outer space.
+4=Suguri now has severe communication issues because she has nothing left to accomplish after successfully carrying her long, long mission to its end and no one but Sumika to talk to.
+
+< LORE_SUMIKA >
+1=The final boss of Acceleration of SUGURI 2, Sumika was named after a spaceship in which the human race drifted in outer space for 10.000 years.
+2=Likes: Herself, tinkering\nDislikes: Long trips, punishment
+3=She is an unfinished artificial human built to replace Hime, the most powerful resident and guardian of the ship.
+4=Because Sumika was left unfinished when the spaceship crashed to Earth, she has a cheerful and happy-go-lucky personality, but a deranged sense of morality which had her reanimate fighters from the war 10.000 years ago.
+5=After being made to reflect on her actions, she became omnipotent, and even after the destruction of the earth, she continued to aimlessly travel the universe with Suguri for about 46 billion years.
+
+< LORE_MIO >
+1=With the appearance of a woman in her late twenties, Mio is the mastermind behind Tomomo's powers.
+2=Likes: Cheating, parties\nDislikes: Moral arguments, lectures, losing
+3=As a devil with glowing hands and wings, she is the embodiment of chuunibyou, AKA eighth-grade syndrome.
+4=Mio is super haughty when holding an advantage, but turns into a teary-eyed blob at the slightest disadvantage.
+5=Mio saw everyone having fun and wanted to join in too, but being unable to act honest she put on the role of an evil mastermind. She tries to play the archetypical sexy villain lady, but loses character easily.
+
+< LORE_LULU >
+1=A girl who appears to be about 13 years old, Lulu has a somewhat menacing aspect to her, reminiscent of a devil or a dragon. 
+2=Likes: Ellie\nDislikes: Scary people, annoying people 
+3=Lulu is a timid person who speaks in a strange accent. After waking up without any memories, Lulu meets Ellie, makes friends with her, and then decides to travel together with her.
+4=When Lulu is near someone who has affection toward her, she can sense it and is able to lay an egg with a useful item inside.
+
+< LORE_ELLIE >
+1=Ellie is a 12 year old girl on a journey to find her mama, whom she can't remember anything about but can sense is somewhere out there.
+2=Likes: Lulu, getting praised, suckers\nDislikes: Annoying people, rats
+3=On her journey, an instinct she doesn't understand makes Ellie lash out at any Mousse she encounters, calling them rats.
+4=Ellie is a precocious kid who gets bossy whenever she holds the advantage. The high-pitched "Ahaa!" laughter is her signature move.
+
+< LORE_ALICIANRONE >
+1=A seemingly 16 year old girl who can use magic to run at great speed, Alicianrone is known as the Speed Witch. However, she's more commonly called by the nickname "Rone".
+2=Likes: Tea, contests\nDislikes: Spicy things, losing
+3=Rone has a high-handed and self-serving personality, and she has a habit of speaking her mind without hesitation.
+4=Rone doesn't think twice to tell people to their face that she likes them or dislikes them. However, it's hard to actually find people she dislikes, and she's well liked by the denizens of the forest.
+
+< LORE_TEOTORATTA >
+1=Teotoratta is a roughly 11 year old girl with the ability to command animals. She is also known as the Beast Witch - or Teo between friends.
+2=Likes: Beasts, games\nDislikes: Things that smell of iron
+3=Teotoratta herself also has the immediacy of a beast - she does what she wants, as soon as she wants to do it, often dragging everyone around her into the mix of things.
+4=When emotional, Teo makes all kinds of animal sounds.
+
+< LORE_ARNELLE >
+1=Arnelle is a self-centered thief who goes after famous treasures around the world. Her character was inspired by Doronjo from Yatterman.
+2=Likes: Treasure, alcoholic beverages, working together\nDislikes: Stinky food
+3=Along with her group of followers, Arnelle is always out on the hunt for rare artifacts. She is annoyed by Ellie and Lulu and gets in their way.
+4=Arnelle is around 30 years old, and while you might not guess it from her looks, she is actually a devil.
+
+< LORE_MAYNIE >
+1=Maynie is a follower of the treasure thief Arnelle, whom she calls Lady Arnelle.
+2=Likes: Arnelle, sweet drinks\nDislikes: Bitter vegetables
+3=She's 15 years old and normally acts and talks in a cute manner, but that hides a hardcore obsessive personality that gets ticked off over trivial things.
+4=Maynie is presumed to be human; however when her anger reaches its limit, she goes berserk and sometimes forgets everything that happened during this time. Her hair color and arms were originally planned to change when this occurred.  
+
+< LORE_HALENA >
+1=Halena is a mysterious girl who guides people wherever in the world they want to go. She has every map she's ever seen perfectly installed in her head. 
+2=Likes: Travelling, drinking after a hard day at work\nDislikes: Rations, especially hardtack
+3=Halena has a calm and amicable personality, and her independent mindset lets her enjoy traveling around the world wherever her journeys end up taking her.
+4=The 19-year old girl enjoys a good dinner when reaching a new town, eating and drinking their local delicacies. Some might say she likes it a bit too much, but her active lifestyle makes up for her appetite.
+5=When Halena was a child, she happened to stumble upon a magical grimoire, and performing the ritual inscribed within conjured a fairy.
+
+< LORE_COOK >
+1=A weathercock fairy who doesn't like being mistaken for a bird. Cook's real age is unknown, but she has the mentality of a 6-year old. She's a free-spirited, self-centered and outspoken girl.
+2=Likes: Egg dishes, travelling, nice people\nDislikes: Chicken dishes, rude people
+3=As befits one of her esteemed kind, Cook will take you wherever you want to go, or to whatever you're looking for, in return for helping her. She has a mystical ability to identify your heart's desire.
+4=Just like many birds, Cook is able to eat way more than you would expect of someone her size. She has the ability to always sniff out the highest quality food around.
+
+< LORE_MERCHANT >
+1=An out-of-control merchant who comes and goes along the railways in the wilderness - his motto: "delivering cargo faster than anyone else." Obsessed with that goal, he does everything he can do to accomplish it, like ignoring the train timetables or armoring his train.
+2=Likes: Making money, investing\nDislikes: Delays, distractions
+3=No one knows where he originally hails from, except for a rumor that he might be from someplace southern. He likes the process of making money more than money itself. That makes him open to investing his fortune in new pursuits.
+4=After his defeat by Marc, Merchant seemed to lose something important within him, and he decided that he couldn't go any further with his railway business, modifying his train to be able to fly instead. He often starts his sentences by saying "yes" and repeats what he just said before.
+
+< LORE_LONERIDER >
+1=Lone Rider drives his modified vehicle through the wilderness in solitude. He hates caring about other people and hardly talks to anyone else.
+2=Likes: Solitude, freedom\nDislikes: The world, socializing
+3=Solitude doesn't invoke loneliness or sentiment in Lone Rider. Instead, to him, it represents freedom of mind and release from others. He finds the world a mysterious and ambiguous fear pressing on him. 
+4=This pessimistic, unsociable man stays alone and seeks only after speed in order to shake himself free of "that which cannot be described with words" that haunts everyone living in modern human society. 
+5=After his fight with Marc, this single-minded man in his mid-twenties opened up to the punks following him, and now they drive around in the wilderness like a motorcycle gang, which makes him an even more difficult person for others to deal with.
+
+< LORE_CHRIS >
+1=Chris is a waitress serving at a family restaurant called "Pures." She's an ordinary 18-year old girl who's always full of energy.
+2=Likes: French fries, nice customers\nDislikes: Every other fried food (because they're bad for her waistline), dine and dashers
+3=Chris loves getting paid above all, but she also enjoys her work at the restaurant, where she can also enjoy the tasty food herself.
+4=The part-timer girl is known for her excellent service and is liked by the other staff. When in trouble, the chef and manager of the restaurant will immediately help her out.
+
+< LORE_KYUPITA >
+1=A 15-year old dog boy. An ordinary high school student.
+2=Likes: Pudding, justice\nDislikes: Soy-sauced pudding, harassment
+3=Kyupita is a male version of QP. He first appeared in the April Fools' game "QP Kiss" which features alternate universe versions of the cast of the QP-verse.
+4=Kyupita is as pure and honest as your typical shounen manga hero. He has romantic feelings for his senior Kyousuke.

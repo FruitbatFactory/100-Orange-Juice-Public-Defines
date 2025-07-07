@@ -1,0 +1,192 @@
+< ITEM_UNKNOWN >
+name=???
+descr=
+
+// Tavern
+< ITEM_HEAL_LV1 >
+name=Xícara de Café
+descr=Se cure por 2 HP.
+
+< ITEM_HEAL_LV2 >
+name=Limonada
+descr=Se cure por 4 HP.
+
+< ITEM_HEAL_LV3 >
+name=Elixir
+descr=Use para se curar completamente. Também cura o usuário de efeitos de status causados por Invasores e remove maldições de contratos na mão.
+
+< ITEM_OVERHEAL_LV1 >
+name=Energy Drink
+descr=Cure 2 HP, e então ganhe 1 HP.
+
+< ITEM_OVERHEAL_LV2 >
+name=Mistura de Pudim
+descr=Cure 2 HP, e então ganhe 2 HP.
+
+< ITEM_OVERHEAL_LV3 >
+name=Ilha Vermelha & Azul
+descr=Cure 4 HP, e então ganhe 3 HP.
+
+< ITEM_HEALTHSHOT >
+name=Tônica Doce
+descr=Aumente permanentemente seu HP Máximo por 1. Só pode ser comprado uma vez.
+
+< ITEM_INVULNERABILITY >
+name=Remédio de Ervas
+descr=Não pode tomar dano por 1 capítulo.
+
+// Bakery
+
+< ITEM_ATK_BOOST_LV1 >
+name=Bolacha
+descr=Use para ganhar +1 ATK nas próximas 2 batalhas. Este efeito não pode ser estocado.
+
+< ITEM_ATK_BOOST_LV2 >
+name=Muffin
+descr=Use para ganhar +2 ATK nas próximas 2 batalhas. Este efeito não pode ser estocado.
+
+< ITEM_ATK_BOOST_LV3 >
+name=Folhado
+descr=Use para ganhar +3 ATK nas próximas 2 batalhas. Este efeito não pode ser estocado.
+
+< ITEM_DEF_BOOST_LV1 >
+name=Bala
+descr=Use para ganhar +1 DEF nas próximas 2 batalhas. Este efeito não pode ser estocado.
+
+< ITEM_DEF_BOOST_LV2 >
+name=Caramelo
+descr=Use para ganhar +2 DEF nas próximas 2 batalhas. Este efeito não pode ser estocado.
+
+< ITEM_DEF_BOOST_LV3 >
+name=Chocolate
+descr=Use para ganhar +3 DEF nas próximas 2 batalhas. Este efeito não pode ser estocado.
+
+< ITEM_EVA_BOOST_LV1 >
+name=Picolé
+descr=Use para ganhar +1 EVD nas próximas 2 batalhas. Este efeito não pode ser estocado.
+
+< ITEM_EVA_BOOST_LV2 >
+name=Sorvete no Copo
+descr=Use para ganhar +2 EVD nas próximas 2 batalhas. Este efeito não pode ser estocado.
+
+< ITEM_EVA_BOOST_LV3 >
+name=Sorvete no Cone
+descr=Use para ganhar +3 EVD nas próximas 2 batalhas. Este efeito não pode ser estocado.
+
+< ITEM_ACCELCANDY >
+name=Bala do Hiper Acelerado
+descr=Duração do Efeito: 1 capítulo. Jogue 2 dados em qualquer ação.
+
+< ITEM_COTTONSPONGE >
+name=Bolo de Ló
+descr=Duração do Efeito: 1 capítulo. Cartas serão de graça e não irão requerer nível.
+
+< ITEM_PUDDING >
+name=Pudim
+descr=Efeito de Estoque: Se nocauteado em batalha, reviva com 3 HP e continue a batalha.
+
+< ITEM_MELONPAN >
+name=Pão de Melão
+descr=Aumente sua Defesa e Evasiva permanentemente em 1, mas reduza o Ataque em 1. Só pode ser comprado uma vez.
+
+< ITEM_REDBEANCREAM >
+name=Sorvete de Feijão Vermelho
+descr=Efeito de Estoque: Ganhe +1 ATK. Esse efeito é removido após ser nocauteado. Este efeito não pode ser estocado.
+
+// Armory
+
+< ITEM_WOODENSHIELD >
+name=Escudo de Madeira
+descr=Um escudo reduzindo o dano desferido a você em 1. Irá aguentar 2 ataques.
+
+< ITEM_IRONSHIELD >
+name=Escudo de Metal
+descr=Um escudo reduzindo o dano desferido a você em 1. Irá aguentar 4 ataques.
+
+< ITEM_MITHRILSHIELD >
+name=Escudo de Mithril
+descr=Um escudo reduzindo o dano desferido a você em 2. Irá aguentar 4 ataques.
+
+< ITEM_ZAPPERSWORD >
+name=Espada Melhorada Magicamente
+descr=Aumente seu ATK permanentemente em 1, mas também -1 DEF. Só pode ser comprado uma vez.
+
+< ITEM_SMOKEBOMB >
+name=Bomba de Fumaça
+descr=Efeito de Estoque: Na próxima batalha o inimigo ganha -1 ATK, DEF, e EVA.
+
+< ITEM_PRECISIONGOGGLES >
+name=Lentes de Precisão
+descr=Você pode jogar itens a mais dois painéis de distância. Só pode ser comprado uma vez.
+
+< ITEM_MERCENARY >
+name=Mercenário
+descr=Invoca um Mercenário no campo. Irá atacar qualquer unidade (exceto o invocador) ao passar por ela. Se uma unidade for nocauteada pelo Mercenário, 50% das suas estrelas ganhas vão para o jogador. O resto vão para o Mercenário.
+
+< ITEM_PHILOSOPHERSTONE >
+name=Pedra Filosofal
+descr=Ganhe 4 mais estrelas em cada capítulo, e 1 estrela extra a cada 5 capítulos. Só pode ser comprada uma vez,pelo custo de todas suas estrelas. (Mínimo de 120)
+
+< ITEM_REC_BOOST_LV1 >
+name=Poção do Vigor
+descr=Reduza seu REC por 1 na próxima vez que for nocauteado.
+
+< ITEM_REC_BOOST_LV2 >
+name=Poção da Vitalidade
+descr=Reduza seu REC por 2 na próxima vez que for nocauteado.
+
+< ITEM_REC_BOOST_LV3 >
+name=Essência da Fênix
+descr=Reduza seu REC por 3 na próxima vez que for nocauteado.
+
+< ITEM_ANTITIRED >
+name=Anti-Cansaço
+descr=Permanentemente reduza seu REC por 1. Só pode ser comprado uma vez.
+
+< ITEM_GUARDIAN >
+name=Guardião
+descr=Invoca um Guardião em campo. Ele irá de escoltar e lutar qualquer missão de caça que você tiver. Não pode atacar outros jogadores, mas outros jogadores podem atacá-lo.\nNível: Seu nível no momento da invocação.\nEstrelas em mão: O quanto você pagou por ele.
+
+< ITEM_FAE >
+name=Aurora
+descr=Invoca Aurora em campo. Ela irá curar sua unidade em 1 HP a cada capítulo par. Se nocauteado, ela irá te reviver ao invés de curar com metade de seu HP máximo. Não pode atacar outros jogadores, mas outros jogadores podem atacá-la.
+
+< ITEM_LEATHERBOOTS >
+name=Botas de Couro
+descr=+2 MOV. Comprar esse item irá trocar seu par atual de sapatos.
+
+< ITEM_GALESHOES >
+name=Sapatos de Gala
+descr=+2 MOV, e um adicional de +1 se estiver com dois contratos ou menos. Comprar esse item irá trocar seu par atual de sapatos.
+
+< ITEM_SPIKEDSHIELD >
+name=Escudo Espinhoso
+descr=Um escudo com espinhos reduzindo o dano por 1. Se sua jogada de defesa for maior que a jogada de ataque do oponente, reflita o dano igual a metade do valor de ataque de volta ao oponente. Removido após uma batalha.
+
+< ITEM_BATTLEAXE >
+name=Executador
+descr=Permanentemente ganhe +1 ATK, mas também -1 EVD. Só pode ser comprado uma vez.
+
+< ITEM_BLACKMARKET_CURSEDSWORD >
+name=Espada Amaldiçoada
+descr=Permanentemente ganhe +2 ATK, mas também -1 DEF, EVD, Max HP.
+
+< ITEM_BLACKMARKET_CURSEDAXE >
+name=Machado de Batalha Amaldiçoado
+descr=Ganhe a habilidade de obter ataques críticos ao atacar, numa taxa de 20%. Você pode errar ataques, com uma possibilidade de 10%.
+
+< ITEM_BLACKMARKET_CURSEDBOUNTY >
+name=Caça de Recompensa  Amaldiçoado
+descr=Aumente sua próxima recompensa de caça em +2 de fama. Seu HP e Max HP será 1 até o nocaute após completar.
+
+< ITEM_BLACKMARKET_CURSEDICECREAM >
+name=Sorvete de Feijão Roxo
+descr=Ganhe +2 ATK e -3 Max HP (min. 1) até o nocaute.
+
+< ITEM_BLACKMARKET_CURSEDSHOES >
+name=Sapatos de Gala Aprimorados
+descr=Adiciona +4 MOV, mas só pode carregar um único contrato. Comprar este item irá repor seu par atual de sapatos.
+
+< ITEM_BLACKMARKET_CURSEDSUMMON >
+name=Invocador Mestre
+descr=Uma invocação ou Invasor aleatório irá aparecer em campo.\nInvocações vão começar com 12 HP.\nInvasor não pode ser invocado se já estiver ativo.

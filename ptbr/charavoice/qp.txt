@@ -1,0 +1,162 @@
+
+<0000> Lá vai!
+<0001> Aqui!
+<0002> Vai!
+<0003> Por favor!
+<0004> Isso aqui!!
+<0005> Vou fazer isso!
+<0006> Uma carta!
+<0007> Certo, lá vai!
+<0008> He he he, coloquei uma armadilha aqui.
+<0009> Uhihi, é uma armadilha.
+<0010> Quem será que vai cair nela?
+<0011> *Esgueira, esgueira*...
+<0012> Vou usar esta pequenina aqui!
+<0013> Vou para a vitória!
+<0014> Uma carta de batalha!
+<0015> Essa batalha, está na palma da minha mão!
+<0016> Modo Hiper ativo!
+<0017> Fui revivida!
+<0018> Estou bem novamente!
+<0019> Hora de se vingar.
+<0020> Não vou desistir ainda.
+<0021> Uuugh, isto não é nada bom.
+<0022> Ah não...
+<0023> Heeeh, sem reviver dessa vez...
+<0024> Uuuaaaaa...
+<0025> Atacando!
+<0026> Vai!
+<0027> Ataque!
+<0028> Toma!
+<0029> Aí...
+<0030> Doeu!
+<0031> Awawa!
+<0032> Uuuugh.
+<0033> Fui curada...
+<0034> Uuufaaa...
+<0035> Eu estou me sentindo melhor.
+<0036> Ainda posso seguir em frente.
+<0037> A-aonde estou indo?
+<0038> Estou voaaando...
+<0039> Wawawawawaaaa!
+<0040> Estou tontaaaa!
+<0041> Waaaaaaaan...
+<0042> Kewww...
+<0043> Ahh... isso não foi bom...
+<0044> Aahhh...
+<0045> Vou te pegar!
+<0046> Vamos batalhar!
+<0047> Você baixou sua guarda!
+<0048> Vou lutar!
+<0049> Um duelo!
+<0050> Pode vir!
+<0051> Whoa, uma batalha!?
+<0052> Não vou perder!
+<0053> Shubaba!
+<0054> Desse jeito!
+<0055> Ataque QP!
+<0056> Eeeeei!
+<0057> Aii.
+<0058> Kyah.
+<0059> Isso dói!
+<0060> Pare com isso!
+<0061> Gyaaa!!
+<0062> Buhee...
+<0063> Doeeeeeeuu!
+<0064> Gehuu...
+<0065> Cu-cuidado!
+<0066> Não consegue me acertar.
+<0067> Salto.
+<0068> Esquivo de uma maneira explêndida!
+<0069> A vitória é minha!
+<0070> Venci! Venci!
+<0071> Eu consegui!
+<0072> Hehe, não sou incrível?
+<0073> P-perdi...
+<0074> Gueeee...
+<0075> Hieeee...
+<0076> Você é cruel...
+<0077> Obrigadinha!
+<0078> Brilha brilha!
+<0079> Delicioso!
+<0080> Que felicidade!
+<0081> M-minhas estrelas foram...
+<0082> Gyaaaah!
+<0083> Hieeee...
+<0084> Aaaaah!
+<0085> Ãhn? Uma armadilha?
+<0086> A-aquilo era uma armadilha?
+<0087> Kya! Eu fui pega...
+<0088> Uhii... Uma armadilha num lugar deste!!
+<0089> A-alguém forte apareceu...
+<0090> *Engole*, isso é assustador...
+<0091> Fueee... um cara muito forte apareceu.
+<0092> Estou sentindo perigo...
+<0093> Estarei nadando em estrelas!
+<0094> Gostaria de curtir o tinindo das estrelas.
+<0095> Vou coletar estrelas!
+<0096> Diversas estrelas, diversos sonhos!
+<0097> Vou derrotar todos eles!
+<0098> Vou batalhar intensamante!
+<0099> Vou derrotar qualquer um que aparecer na minha frente!
+<0100> Eu irei vencer todas as batalhas, e o jogo!
+<0101> Parece que é o meu turno! Pode contar comigo!
+<0102> É a QP-chan!
+<0103> Eu sou uma Pomerânia. Você tem algum problema com isso?
+<0104> Isso mesmo, você me escolheu!
+<0105> Certo, vou dar o meu melhor!
+<0106> Aqui vou eu!
+<0107> Vamos com tudo!
+<0108> Estou animada!
+<0109> Eba! A vitória é minha!
+<0110> Isso! Eu venci!
+<0111> Como recompensa, um pudim cairia bem!
+<0112> Eu venci! Eu venci!
+<0113> Algo novo apareceu!
+<0114> Uma nova aquisição!
+<0115> Isto irá me fazer mais poderosa!
+<0116> Uhul, ganhei um novo item!
+<0117> Deixa eu te passar o bastão!
+<0118> Continue daqui, por favor!
+<0119> Eu vou deixar nas suas mãos!
+<0120> Está na hora de trocar!
+<0121> Certo.
+<0122> Que bom.
+<0123> Sim.
+<0124> Não.
+<0125> Como isso pode...
+<0126> Uhul!
+<0127> Serião?
+<0128> Vamos lá.
+<0129> O que será que eu vou ganhar?
+<0130> Aqui vou eu!
+<0131> Olá!
+<0132> O que eu faço...
+<0133> Que bom!
+<0134> Hawawawa... incrível!
+<0135> Muaaaa!!!
+<0136> Obrigadinhaa!
+<0137> Me permita usar isso!
+<0138> Esta carta veio até mim... Então eu posso usá-la, certo?
+<0139> Certo, eu não sei o que isto faz, mas irei usar de qualquer forma!
+<0140> O quê, Yu-Yuki...
+<0141> Syura, você não está perto do prazo?
+<0142> Sinto que tenho uma ligação com você...
+<0143> É um tinindo legal.
+<0144> Irei proteger Pudim!
+<0145> Ma-Mamãe Noel?! Você é a verdadeira?
+<0146> Ei, eu sou uma garota!
+<0147> Pudim!
+<0148> Wawa, uma cópia minha!?
+<0149> Vo-você não me parece muito estranha...
+<0150> Nossa moça, você tem um cheiro os cachorros gostam!
+<0151> Au au au!
+<0152> Natsumi! Vamos jogar!
+<0153> Ebaa! Vamos brincar, vamos brincar!
+<0154> Você vai se arrepender por fazer bullying comigo!
+<0155> Kyaa! Uma valentona!
+<0156> Aaah! Por favor para de ficar me bicando!
+<0157> Uwaaa! O pudim que eu tanto queria!!
+<0158> Es-este pudim... é perigoso...!
+<0159> Cadê!? O meu pudim!!!
+<0160> Ebaaa, é pudim! ...Aaaaargh!!!

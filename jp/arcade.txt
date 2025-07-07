@@ -1,0 +1,106 @@
+< ITEMDEF_PET_DISPLAY_TYPE > 
+ペット
+
+< ITEMDEF_TOKEN_DISPLAY_TYPE > 
+アーケードトークン
+
+
+
+
+< RARITY_COMMON >
+コモン
+
+< RARITY_UNCOMMON >
+アンコモン
+
+< RARITY_RARE >
+レア
+
+< RARITY_SUPER_RARE >
+スーパーレア
+
+< PET_SELECT_NOPET >
+ペットなし
+
+
+< ARCADE_ORANGE_GET >
+オレンジを獲得しました！
+
+< ARCADE_PET_GET >
+ペットゲット！
+
+< ARCADE_COMMON_GET >
+コモンアイテムを獲得しました！
+
+< ARCADE_NEW_PET_COLOR >
+ペットの新しい色を獲得しました！
+
+< ARCADE_PLAY>
+遊ぶ
+
+< ARCADE_EXCHANGE >
+交換
+
+< ARCADE_LOADING >
+Loading...
+
+
+< ARCADE_EXCHANGE_NOPET >
+ペットが選択されていません。
+
+< ARCADE_EXCHANGE_CONFIRM >
+このペットを交換しますか？
+
+< ARCADE_ERROR_STEAM >
+Steamに接続されていません。
+
+< ARCADE_ERROR_MISC >
+エラーです。時間をおいてから再度お試しください。
+
+< ARCADE_ERROR_TOKEN_COUNT >
+トークンが足りません。
+
+< ARCADE_ERROR_EXCHANGE_QUANTITY >
+ペットの数が足りません。
+
+< ARCADE_ERROR_TIMEOUT >
+タイムアウトです。時間をおいてから再度お試しください。
+
+< ARCADE_TOOLTIP_PETCATCHER >
+トークン3枚を消費して、ペットかコモンアイテムを獲得できます。
+
+< ARCADE_TOOLTIP_EXCHANGE >
+同じペット2体をそのペットの新色と交換できます。
+
+< ARCADE_TOOLTIP_EMOTES >
+新しい絵文字を獲得できます。
+
+< ARCADE_TOOLTIP_CONSUMABLES >
+ゲーム中に使えるアイテムを購入できます。
+
+< ARCADE_TOOLTIP_GAMEMACHINE >
+過去に実装されたミニゲームをプレイします。
+
+< ARCADE_MACHINE_PETCATCHER >
+ペットキャッチャー
+
+< ARCADE_MACHINE_SUMMER >
+サマーペットキャッチャー
+
+< ARCADE_MACHINE_BOUNTYHUNT >
+BHペットキャッチャー
+
+< ARCADE_MACHINE_EXCHANGE >
+ペットエクスチェンジ
+
+< ARCADE_MACHINE_EMOTES >
+絵文字ガチャ
+
+< ARCADE_MACHINE_CONSUMABLES >
+自動販売機
+
+< ARCADE_MACHINE_BUILD_A_CASTLE >
+ビルド・ア・キャッスル
+
+< ARCADE_MACHINE_SCHOOL_CRASHERS >
+スクールクラッシャーズ

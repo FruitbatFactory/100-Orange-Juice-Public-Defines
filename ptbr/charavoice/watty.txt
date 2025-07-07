@@ -1,0 +1,161 @@
+<000> Aqui...
+<001> Lá vai...
+<002> Ah nossa.
+<003> Vejamos.
+<004> Eu irei com essa.
+<005> O que isto vai ser?
+<006> Oh não, eu tenho que fazer alguma coisa.
+<007> Hmm, posso jogar esta?
+<008> Esta fica aqui...
+<009> Não tem problema simplesmente deixar algo assim no chão?
+<010> Aqui está...
+<011> Isto deve funcionar.
+<012> Por favor me ajude!
+<013> Oh não, eu sinto muito!
+<014> Eu espero que isto me ajude.
+<015> É agora ou nunca!
+<016> Eu tenho que fazer o que eu tenho que fazer... né?
+<017> Parece que preciso continuar seguindo.
+<018> Ugh, eu quero ir para casa.
+<019> Eu preciso continuar jogando?
+<020> Ugh, estou de pé de novo...
+<021> Por favor me deixe simplesmente virar bolhas agora.
+<022> Eu não me importo de ficar deitada desse jeito...
+<023> Vocês podem me deixar sozinha, pessoal.
+<024> Eu posso dormir um pouco aqui?
+<025> Ey!
+<026> Hah!
+<027> Toh!
+<028> Yah!
+<029> Isto dói!
+<030> Oww!
+<031> Por favor para com isso.
+<032> Por quêêêêê?
+<033> Eu achei que era meu fim...
+<034> Eu não quero jogar mais.
+<035> Haah.
+<036> Ufa.
+<037> O quêêêêê?
+<038> O que é isto?
+<039> Mágica de teletransporte?
+<040> Ninguém me falou sobre isto.
+<041> Phaah.
+<042> Eu sabia que isto iria acontecer.
+<043> Peço desculpas por ser uma péssima lutadora.
+<044> Ueeeen.
+<045> Desculpa, mas ordens são ordens.
+<046> Desculpa.
+<047> Desculpa te incomodar...
+<048> E-eu to tomando sua vida!
+<049> Hieeeeh!
+<050> Po-por que você está me perseguindo?
+<051> Eu estou tão assustada.
+<052> Uwaaaah!
+<053> Ey-ey.
+<054> Não chegue mais perto de mim!
+<055> Yaaah!
+<056> V-você vai se machucar...!
+<057> Au!
+<058> Isto é terrível.
+<059> Kyan.
+<060> Hee!
+<061> Minhas escamas vão sair!
+<062> Isto é a pior coisa de todas.
+<063> Alguém me ajude por favor!
+<064> Gyaaaah!
+<065> Essa foi por pouco!
+<066> Nãooo!
+<067> Eu vou ser torturada e morta!
+<068> Eu não aguento mais fazer isso.
+<069> E-eu ganhei a batalha?
+<070> Awawa, o que eu deveria fazer agora?
+<071> *Respira respira*
+<072> Isso foi muito trabalho.
+<073> Oh não.
+<074> Por que eu preciso fazer isso?
+<075> Desculpa...
+<076> Desculpa por eu ser inútil.
+<077> Posso manter estes?
+<078> E-estes são meus?
+<079> Uwawa.
+<080> Isto é bom.
+<081> Eu não os mereço.
+<082> O prazer está sumindo...
+<083> Haha... haha...
+<084> Estou triste.
+<085> Eu vou ser comida!
+<086> Não me puxe para fora da água!
+<087> Minha vida foi curta.
+<088> Aaargh!
+<089> Existe algo assustador aqui.
+<090> Por que eu estou em um lugar assustador como este aqui?
+<091> Por favor me deixa ir para casa... Ugh.
+<092> Isto é demais para aguentar.
+<093> Como dito, eu vou usar tudo que tenho.
+<094> Eu prometo que vou coletar um monte delas...
+<095> Estrela do mar... Oh, são apenas estrelas.
+<096> Elas são brilhantes e belas... ao contrário de mim...
+<097> Eu preciso matar antes de ser morta...
+<098> Eu consigo...
+<099> E-eu devo aguentar se eu usar mágica...
+<100> Eu não posso dizer... Eu estou completamente confiante...
+<101> Eu sou a Watty... uma sereia.
+<102> Desculpa por eu cheirar feito peixe.
+<103> E-eu farei tudo que puder.
+<104> Você tem certeza que deseja escolher alguém como eu?
+<105> V-vamos jogar de forma justa...
+<106> Eu vou tentar meu melhor...
+<107> Todo mundo parece assustador...
+<108> Eu não pertenço aqui, né?
+<109> É sério isso?
+<110> Então eu de fato posso conseguir se eu tentar...?
+<111> Eu estou um pouco mais feliz agora.
+<112> Ah, que bom...
+<113> Oh, fico feliz... por você.
+<114> Eita, você parece feliz de ter conseguido isto.
+<115> Ehehe.
+<116> Eita, que bom.
+<117> Eu vou sair daqui.
+<118> Por favor continue daqui.
+<119> Estou saindo daqui por agora.
+<120> Você se importaria... de trocar?
+<0121> Sim...
+<0122> Isto é incrível.
+<0123> Se você tem certeza...
+<0124> N-não... quer dizer, deixa pra lá.
+<0125> Que desanimador...
+<0126> Você está sortudo hoje...
+<0127> Uaaaah...
+<0128> Vamos lá.
+<0129> Ei!
+<0130> Você consegue.
+<0131> O-olá.
+<0132> Hmm...
+<0133> Isto foi algo.
+<0134> Isto é... super incrível.
+<0135> Ugh... Argh...
+<0136> Hmm, bem, como jogo esta aqui?
+<0137> Eu, hmm... não sei como usar isto.
+<0138> Eu espero que isto funcione...
+<0139> Isto não é meu.
+<0140> Obrigada.
+<0141> Minha Dona... por favor permita-me ter uma luta com você.
+<0142> Oh céus, eu estou encrencada por causa de algo?
+<0143> O-oh não, eu derrotei minha Dona... o que devo fazer...
+<0144> Eu farei qualquer coisa que você me dizer para fazer...
+<0145> Água me faz sentir calma...
+<0146> Eu não quero sair da água...
+<0147> Meu doce lar...
+<0148> *jorra*jorra*
+<0149> Você vai me comer...?
+<0150> Eu não quero ser comida!
+<0151> Oh, eu fui cheirosa para você...?
+<0152> Eu tenho um sabor terrível, é sério!
+<0153> Eu vou secar em uma casca...
+<0154> Desculpa se eu for cheirar igual peixe...
+<0155> Eu não acho... que vou conseguir...
+<0156> Á... água...
+<0157> Você prefere seu peixe grelhado?
+<0158> Eu vou me grelhar bem!
+<0159> Esta coisa vai me fazer ter um bom sabor...!
+<0160> Por favor não me grelhe...!

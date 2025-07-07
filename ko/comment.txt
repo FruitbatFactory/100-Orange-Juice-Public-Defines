@@ -1,0 +1,276 @@
+
+< COM_CONFIG_SYSTEM >
+시스템 설정을 합니다.
+
+< COM_CONFIG_SCREEN >
+화면 설정을 합니다.
+
+< COM_CONFIG_AUDIO >
+음향 설정을 합니다.
+
+< COM_CONFIG_VOICE >
+보이스 설정을 합니다.
+
+< COM_CONFIG_MODS >
+현재 설치된 모드입니다.
+
+< COM_NEWGAME_SELECTSLOT >
+새로 데이터를 작성할 슬롯을 선택해 주세요.
+
+< COM_NEWGAME_SLOTCONFIRM >
+이 슬롯에 작성할까요?
+
+< COM_NEWGAME_ENTERNAME >
+플레이어 이름을 입력해주세요.
+
+< COM_NEWGAME_SELECTCHARACTER >
+시작 캐릭터를 선택해 주세요.
+
+< COM_NEWGAME_CHARACTERCONFIRM >
+이 캐릭터로 괜찮습니까?
+
+< COM_LOADGAME_SELECTSLOT >
+불러올 세이브를 선택해 주세요.
+
+< COM_LOADGAME_LOADCONFIRM >
+이 세이브를 불러오겠습니까?
+
+< COM_SHOP_SELECTITEM >
+구입할 아이템을 선택해 주세요.
+
+< COM_SHOP_BUYCONFIRM >
+이 아이템을 구입하겠습니까?
+
+< COM_SHOP_ITEMSOLDOUT >
+이 아이템은 매진되었습니다.
+
+< COM_SHOP_BUYEVENTCONFIRM >
+%s 이벤트 진행을 해금하겠습니까?
+
+< COM_SHOP_BOUGHTPET >
+새 펫을 구매했습니다!
+
+< COM_SHOP_ITEMNOTINSTOCK >
+이 아이템은 입고 대기중입니다.
+
+< COM_SHOP_NOSTEAMCONNECTION >
+이 아이템은 스팀 연결을 요구합니다.
+
+< COM_SHOP_NOSTEAMCONNECTIONDLC >
+스팀 연결이 되지 않아 DLC 보유 여부를 확인할 수 없습니다.
+
+< COM_SHOP_ALREADYOWNDLC >
+이 DLC는 이미 보유중입니다.
+
+< COM_SHOP_NOTENOUGHCURRENCY >
+이 아이템의 값을 낼 수 없습니다.
+
+< COM_SHOP_REACHEDCURRENCYCAP >
+이 재화를 더 이상 많이 보유할 수 없습니다.
+
+< COM_SHOP_CHARACTERITEM >
+이 아이템은 보유하고 있지 않은 캐릭터의 것입니다.
+
+< COM_SHOP_BONUSITEM >
+이 아이템은 스팀에서 %s을(를) 보유중인 분들께 증정됩니다.
+
+< COM_SHOP_LEVELTOOLOW >
+이 아이템을 살 수 있는 레벨이 되지 않았습니다.
+
+< COM_SHOP_BOUGHTCARDPACK >
+팩을 구매했습니다!
+
+< COM_SHOP_BOUGHTCARD >
+싱글 카드를 구매했습니다!
+
+< COM_SHOP_BOUGHTDISCOUNT >
+상점 할인 티켓을 구매했습니다!
+
+< COM_SHOP_BOUGHTCHARACTER >
+새 캐릭터를 구매했습니다!
+
+< COM_SHOP_BOUGHTFIELD >
+새 필드를 구매했습니다!
+
+< COM_SHOP_BOUGHTCOLORS >
+새 유닛 컬러를 구매했습니다!
+
+< COM_SHOP_BOUGHTHAIR >
+새 유닛 헤어를 구매했습니다!
+
+< COM_SHOP_BOUGHTACCESSORY >
+새 액세서리를 구매했습니다!
+
+< COM_SHOP_BOUGHTDICE >
+새 주사위를 구매했습니다!
+
+< COM_SHOP_BOUGHTCANDY1 >
+캔디를 1개 구매했습니다!
+
+< COM_SHOP_BOUGHTCANDY10 >
+캔디를 10개 구매했습니다!
+
+< COM_SHOP_BOUGHTCRATE >
+상자를 구매했습니다!
+
+< COM_SHOP_BOUGHTHOMEMARK >
+새 홈마크를 구매했습니다!
+
+< COM_SHOP_BOUGHTGENERICITEM >
+새 아이템을 구매했습니다!
+
+< COM_SHOP_BOUGHTEMOTE >
+새 이모티콘을 구매했습니다!
+
+< COM_SHOP_BOUGHTCOSTUME >
+새 코스튬을 구매했습니다!
+
+< COM_SHOP_CONVERTCURRENCY >
+재화를 환전했습니다!
+
+< COM_USERINFO_PLAYERINFO >
+플레이어 정보를 표시합니다.
+
+< COM_USERINFO_GAMEINFO >
+플레이 정보를 표시합니다.
+
+< COM_USERINFO_BROWSECARDS >
+소지중인 카드를 일람합니다.
+
+< COM_USERINFO_CARDSINFO >
+카드 수집 상태를 표시합니다.
+
+< COM_USERINFO_AVATAR >
+아바타 룩을 변경합니다.
+
+< COM_USERINFO_TAUNTS >
+게임 내에서 사용할 도발을 유닛 별로 설정합니다.
+
+< COM_USERINFO_GALLERY >
+여러가지 이미지, 컷신, BGM, 보이스를 감상합니다.
+
+< COM_USERINFO_STATS >
+온라인 매치에서 사용한 각 캐릭터의 통계를 확인합니다.
+
+< COM_CAMPAIGN_SELECTSCENARIO >
+캠페인을 선택해 주세요.
+
+< COM_CAMPAIGN_SELECTSTAGE >
+스테이지를 선택해 주세요.
+
+< COM_CAMPAIGN_BREAKERPACKONLY >
+이 캠페인은 브레이커 팩 보유자만 플레이할 수 있습니다.
+
+< COM_CAMPAIGN_WITCHPACKONLY >
+이 캠페인은 윗치 팩 보유자만 플레이할 수 있습니다.
+
+< COM_CAMPAIGN_TOYSTOREPACKONLY >
+이 캠페인은 장난감 가게 팩 보유자만 플레이할 수 있습니다.
+
+< COM_CAMPAIGN_OLDGUARDIANPACKONLY >
+이 캠페인은 옛 수호신들 팩 보유자만 플레이할 수 있습니다.
+
+< COM_CAMPAIGN_WANDERERPACKONLY >
+이 캠페인은 방랑자 팩 보유자만 플레이할 수 있습니다.
+
+< COM_CAMPAIGN_WARUDAPRISONBREAKPACKONLY >
+이 캠페인은 와루다 탈옥 팩 보유자만 플레이할 수 있습니다.
+
+< COM_FREEBATTLE_CHOOSEGAMETYPE >
+게임 모드를 선택해주세요.
+
+< COM_FIELDSELECT >
+게임 필드를 선택해주세요.
+
+< COM_RANDOMFIELD_MINIMUMREQUIRED >
+최소 3종류의 랜덤 필드를 선택할 필요가 있습니다.
+
+< COM_RANDOMFIELDEVENT_MINIMUMREQUIRED >
+최소 3종류의 랜덤 필드 이벤트를 선택할 필요가 있습니다.
+
+< COM_DECK_PREPARE >
+캐릭터 선택 / 덱 생성을 합니다.
+
+< COM_DECK_NOTPREPARED >
+아직 준비되지 않았습니다.
+
+< COM_DECK_CARDLIMITREACHED >
+더 이상 덱에 넣을 수 없습니다.
+
+< COM_DECK_DLCONLYCARD >
+이 카드는 DLC 보유자만 덱에 추가할 수 있습니다.
+
+< COM_DECK_WAITING >
+다른 플레이어들의 준비를 기다리는 중입니다...
+
+< COM_DECK_READY >
+게임 준비가 끝났습니다!
+
+< COM_GAME_PAUSED >
+게임을 일시정지했습니다.
+
+< COM_GAME_QUITCONFIRM >
+이 게임을 마치겠습니까?
+
+< COM_RESULT_STARSGAINED >
+이번 게임에서 획득한 스타입니다.
+
+< COM_CREATELOBBY_SETOPTIONS >
+로비 설정을 합니다.
+
+< COM_CREATELOBBY_CREATING >
+스팀 로비를 생성 중입니다...
+
+< COM_CREATELOBBY_FAILED >
+스팀 로비를 생성할 수 없었습니다.
+
+< COM_CREATELOBBY_NAMEEMPTY >
+로비명은 비울 수 없습니다.
+
+< COM_LOBBYLIST_SELECTLOBBY >
+로비를 선택해주세요. 스팀 친구는 초록 별로 표시됩니다.
+
+< COM_LOBBYLIST_JOINLOBBY >
+선택한 로비에 들어가거나 호스트와 대화합니다.
+
+< COM_LOBBYLIST_PASSWORDEMPTY >
+패스워드는 비울 수 없습니다.
+
+< COM_LOBBYLIST_SEARCHEMPTY >
+검색어는 비울 수 없습니다.
+
+< COM_LOBBYLIST_CONNECTFAILED >
+로비에 접속할 수 없었습니다.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOSELECT >
+로비를 선택할 수 없습니다. 로비 데이터를 받을 수 없습니다.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOCONTACT >
+호스트와 대화할 수 없습니다. 로비 데이터를 받을 수 없습니다.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOJOIN >
+로비에 참가할 수 없습니다. 로비 데이터를 받을 수 없습니다.
+
+< COM_LOBBY_WAITINGFORPARTICIPANTS >
+참가자를 기다리는 중입니다.
+
+< COM_LOBBY_WAITINGFORPLAYERS >
+참가자가 모일 때까지 기다려 주세요.
+
+< COM_LOBBY_PLAYERSNOTREADY >
+전원이 준비될 때까지 게임을 시작할 수 없습니다.
+
+< COM_LOBBY_KICKREADYPLAYER >
+이미 준비된 플레이어는 추방할 수 없습니다.
+
+< COM_LOBBY_KICKNOTREADY >
+아직 이 플레이어를 쫓아낼 수 없습니다.
+
+< COM_LOBBY_MIDGAME_JOINED >
+게임에 참가했습니다! 다음 챕터 시작 시에 들어갈 수 있습니다.
+
+< COM_LOBBY_SPECTATOR_WAITINGDECKS >
+게임이 시작되었습니다! 각 플레이어가 덱을 생성하는 중입니다...
+
+[EOF]
+

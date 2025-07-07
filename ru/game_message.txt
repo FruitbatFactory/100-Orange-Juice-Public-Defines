@@ -1,0 +1,191 @@
+
+< GAME_MESSAGE_YOURTURN >
+Ваш ход.
+
+< GAME_MESSAGE_OPPONENTTURN >
+Ход соперника.
+
+< GAME_MESSAGE_CHALLENGEBATTLE >
+Вызвать на бой?
+
+< GAME_MESSAGE_HEALTEAMMATE >
+Вылечить игрока на 1 ОЗ?
+
+< GAME_MESSAGE_REVIVETEAMMATE >
+Возродить игрока? (%d Звёзд)
+
+< GAME_MESSAGE_CHOOSECARDUSE >
+Выберите карту для использования.
+
+< GAME_MESSAGE_CHOOSECARDDISCARD >
+Выберите карту для сброса.
+
+< GAME_MESSAGE_CONFIRMCARDUSE >
+Использовать эту карту?
+
+< GAME_MESSAGE_BOSSAPPEARED >
+Появился Босс!
+
+< GAME_MESSAGE_RAIDBOSS_APPEAR >
+Появляется %s!
+
+< GAME_MESSAGE_RAIDBOSS_UNLOCK >
+%s может использовать "%s"!
+
+< GAME_MESSAGE_RAIDBOSS_REMOVE >
+%s больше не может использовать "%s".
+
+< GAME_MESSAGE_RAIDBOSS_USE_ABILITY >
+%s использует "%s"!
+
+< GAME_MESSAGE_RAIDBOSS_SKIP_ABILITY >
+%s пропускает ход, используя "%s".
+
+< GAME_MESSAGE_RAIDBOSS_ENRAGE >
+%s злится!
+
+< GAME_MESSAGE_COOP_TERROR_EVENT >
+На панелях можно сразиться с %s!
+
+< GAME_MESSAGE_COOP_ANNOUNCE_ABILITY >
+%s будет использовать "%s" на следующем ходу!
+
+< GAME_MESSAGE_COOP_LEVELUP_ABILITY >
+"%s" заменяется на "%s"!
+
+< GAME_MESSAGE_TURNSKIP >
+Ход пропущен.
+
+< GAME_MESSAGE_CHOOSENORMA >
+Выберите следующую Норму.
+
+< GAME_MESSAGE_NORMANOTACHIEVED >
+Норма не достигнута.
+
+< GAME_MESSAGE_CARDDRAWN >
+Карта взята.
+
+< GAME_MESSAGE_TRAPSET >
+Ловушка установлена.
+
+< GAME_MESSAGE_TRAPTRIGGER >
+Ловушка сработала.
+
+< GAME_MESSAGE_CARDEFFECTSTOCKED >
+Эффект карты запасён.
+
+< GAME_MESSAGE_STOCKEFFECT >
+Запасённый эффект сработал.
+
+< GAME_MESSAGE_FIELDEFFECT >
+Сработало событие игрового поля.
+
+< GAME_MESSAGE_REVIVESUCCESS >
+Возрождение!
+
+< GAME_MESSAGE_REVIVEFAIL >
+Не удалось возродить...
+
+< GAME_MESSAGE_CHOOSETARGET >
+Выберите цель.
+
+< GAME_MESSAGE_CHOOSEMOVEPANEL >
+Выберите к какой панели идти.
+
+< GAME_MESSAGE_HOMESTOP >
+Хотите остановиться у Дома?
+
+< GAME_MESSAGE_HEALING >
+Лечение!
+
+< GAME_MESSAGE_EVENTPREFIX >
+
+< GAME_MESSAGE_EVENTSUFFIX >
+!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATEFRENZY >
+Шоколадное Безумие!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_SUCCESS >
+Шоколад сохранён!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_FAIL >
+Недостатчно шоколада, чтобы сохранить...
+
+< GAME_MESSAGE_HLWN2018_CHOOSECANDY >
+Выберите конфету.
+
+< GAME_MESSAGE_HLWN2018_GIVECANDY >
+Отдать эту конфету?
+
+< GAME_MESSAGE_CHOOSETARGETPANEL >
+Выберите панель для цели.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE >
+Выберите панель, куда кинуть.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE_CARD >
+Выберите панель, куда кинуть / применить карту.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_MULTIPLE >
+Выберите панели, куда кинуть.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND >
+Выберите к какой панели идти.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND_CARD >
+Выберите к какой панели идти / применить карту.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_WAITING >
+Ждём остальных игроков...
+
+< GAME_MESSAGE_XMAS2018_CASTLE_ROTATE >
+Повернуть по часовой
+
+< GAME_MESSAGE_XMAS2018_CASTLE_PLACE >
+Поставить деталь
+
+< GAME_MESSAGE_XMAS2018_CASTLE_CHANGE >
+Поменять деталь
+
+< GAME_MESSAGE_SHOPSTOP >
+Остановиться у Магазина?
+
+< GAME_MESSAGE_MONSTERCHALLENGE >
+Сразиться с монстром?
+
+< GAME_MESSAGE_SUMMER2020_SPEEDUP >
+Ускорение!
+
+< GAME_MESSAGE_TELEPORT >
+Выберите панель для телепортации.
+
+< GAME_MESSAGE_SELECT_PANEL >
+Выберите панель.
+
+< GAME_MESSAGE_AWAIT_ACTION >
+Ожидание игрока...
+
+< GAME_MESSAGE_PICK_UNIT >
+Выберите свой отряд.
+
+< GAME_MESSAGE_PET_DOG >
+Вы хотите погладить собаку?
+
+< GAME_MESSAGE_PET_PLAYER >
+Погладить этого игрока?
+
+< GAME_MESSAGE_CHOOSE_BLUFF >  
+Какой тип карты будет следующим?  
+
+< GAME_MESSAGE_DECLARE_BLUFF >  
+Какой тип карты вы объявите?  
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_1 >  
+Карта, которую вы сыграете...  
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_2 >  
+...вот она!  
+
+< GAME_MESSAGE_BLUFF_NOTICE >  
+{} предсказал, что следующей будет использована эта карта.  

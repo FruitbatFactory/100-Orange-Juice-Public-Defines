@@ -1,0 +1,108 @@
+< ITEMDEF_PET_DISPLAY_TYPE > 
+Mascota
+
+< ITEMDEF_TOKEN_DISPLAY_TYPE > 
+Ficha
+
+
+
+
+< RARITY_COMMON >
+Común
+
+< RARITY_UNCOMMON >
+Poco Común
+
+< RARITY_RARE >
+Raro
+
+< RARITY_SUPER_RARE >
+Súper Raro
+
+< PET_SELECT_NOPET >
+Sin Mascotas
+
+
+< ARCADE_ORANGE_GET >
+¡Has obtenido Naranjas!
+
+< ARCADE_PET_GET >
+¡Has obtenido una Mascota!
+
+< ARCADE_COMMON_GET >
+¡Has obtenido un objeto común!
+
+< ARCADE_NEW_PET_COLOR >
+¡Conseguiste un nuevo color!
+
+
+
+< ARCADE_PLAY>
+JUGAR
+
+< ARCADE_EXCHANGE >
+Intercambiar
+
+< ARCADE_LOADING >
+Cargando...
+
+
+< ARCADE_EXCHANGE_NOPET >
+Seleccione una mascota.
+
+< ARCADE_EXCHANGE_CONFIRM >
+¿Cambiar a esta mascota?
+
+< ARCADE_ERROR_STEAM >
+No estás conectado a Steam.
+
+< ARCADE_ERROR_TOKEN_COUNT >
+No te quedan fichas.
+
+< ARCADE_ERROR_MISC >
+Error. Por favor, inténtelo más tarde.
+
+< ARCADE_ERROR_EXCHANGE_QUANTITY >
+No tienes suficientes mascotas para realizar un intercambio.
+
+< ARCADE_TOOLTIP_PETCATCHER >
+¡Usa 3 fichas para conseguir algo común o una mascota!
+
+< ARCADE_TOOLTIP_EXCHANGE >
+¡Intercambia 2 de la misma mascota para conseguirle un nuevo color!
+
+< ARCADE_TOOLTIP_CONSUMABLES >
+¡Compra objetos para usar dentro de una partida!
+
+< ARCADE_TOOLTIP_GAMEMACHINE >
+¡Juega con minijuegos de diferentes eventos!
+
+< ARCADE_TOOLTIP_EMOTES >
+¡Compra nuevos emoticones!
+
+< ARCADE_MACHINE_PETCATCHER >
+Máquina de Mascotas
+
+< ARCADE_MACHINE_SUMMER >
+Máquina de Verano
+
+< ARCADE_MACHINE_EXCHANGE >
+Intercambio de Mascotas
+
+< ARCADE_MACHINE_EMOTES >
+Máquina de Emoticones
+
+< ARCADE_MACHINE_BOUNTYHUNT >
+Máquina de Caza-recompensas
+
+< ARCADE_MACHINE_CONSUMABLES >
+Máquina Expendedora
+
+< ARCADE_MACHINE_BUILD_A_CASTLE >
+Construye-un-Castillo
+
+< ARCADE_MACHINE_SCHOOL_CRASHERS >
+Rompe-Escuelas
+
+< ARCADE_ERROR_TIMEOUT >
+Fuera de tiempo. Por favor, inténtelo más tarde.

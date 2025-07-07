@@ -1,0 +1,276 @@
+
+< COM_CONFIG_SYSTEM >
+進行遊戲系統的設定。
+
+< COM_CONFIG_SCREEN >
+進行畫面設定。
+
+< COM_CONFIG_AUDIO >
+進行聲音設定。
+
+< COM_CONFIG_VOICE >
+進行語音設定。
+
+< COM_CONFIG_MODS >
+已經安裝的MOD。
+
+< COM_NEWGAME_SELECTSLOT >
+選擇新遊戲存檔的位置。
+
+< COM_NEWGAME_SLOTCONFIRM >
+要在這個位置建立存檔嗎？
+
+< COM_NEWGAME_ENTERNAME >
+輸入玩家名稱。
+
+< COM_NEWGAME_SELECTCHARACTER >
+選擇角色。
+
+< COM_NEWGAME_CHARACTERCONFIRM >
+確定要使用這個角色嗎？
+
+< COM_LOADGAME_SELECTSLOT >
+選擇繼續遊戲的存檔位置。
+
+< COM_LOADGAME_LOADCONFIRM >
+要從這個存檔開始嗎？
+
+< COM_SHOP_SELECTITEM >
+請選擇要購買的物品。
+
+< COM_SHOP_BUYCONFIRM >
+要購買該物品嗎？
+
+< COM_SHOP_BUYEVENTCONFIRM >
+要解鎖%s的活動進度嗎？
+
+< COM_SHOP_ITEMSOLDOUT >
+該物品已售罄。
+
+< COM_SHOP_ITEMNOTINSTOCK >
+該物品尚未到貨。
+
+< COM_SHOP_NOTENOUGHCURRENCY >
+沒有足夠的貨幣。
+
+< COM_SHOP_REACHEDCURRENCYCAP >
+該貨幣已達上限。
+
+< COM_SHOP_NOSTEAMCONNECTION >
+未與Steam連接時無法購買該物品。
+
+< COM_SHOP_NOSTEAMCONNECTIONDLC >
+未與Steam連接時無法驗證DLC擁有情況。
+
+< COM_SHOP_ALREADYOWNDLC >
+已擁有該DLC。
+
+< COM_SHOP_BONUSITEM >
+該物品會贈送給所有Steam版%s的所有者。
+
+< COM_SHOP_CHARACTERITEM >
+該物品屬於你未擁有的角色。
+
+< COM_SHOP_LEVELTOOLOW >
+購買這個物品的等級不足。
+
+< COM_SHOP_BOUGHTCARDPACK >
+購買了卡包！
+
+< COM_SHOP_BOUGHTCARD >
+購買了卡片！
+
+< COM_SHOP_BOUGHTDISCOUNT >
+購買了折扣券！
+
+< COM_SHOP_BOUGHTCHARACTER >
+購買了新的角色！
+
+< COM_SHOP_BOUGHTFIELD >
+購買了新的場地！
+
+< COM_SHOP_BOUGHTCOLORS >
+購買了新的角色顏色！
+
+< COM_SHOP_BOUGHTHAIR >
+購買了新的髮色！
+
+< COM_SHOP_BOUGHTACCESSORY >
+購買了新的飾品！
+
+< COM_SHOP_BOUGHTDICE >
+購買了新的骰子！
+
+< COM_SHOP_BOUGHTCANDY1 >
+購買了糖果！
+
+< COM_SHOP_BOUGHTCANDY10 >
+購買了糖果×10！
+
+< COM_SHOP_BOUGHTCRATE >
+購買了箱子！
+
+< COM_SHOP_BOUGHTPET >
+購買了新的寵物！
+
+< COM_SHOP_BOUGHTHOMEMARK >
+購買了新的HOME標誌！
+
+< COM_SHOP_BOUGHTGENERICITEM >
+購買了新的物品！
+
+< COM_SHOP_BOUGHTEMOTE >
+購買了新的表情！
+
+< COM_SHOP_BOUGHTCOSTUME >
+購買了新的裝扮！
+
+< COM_SHOP_CONVERTCURRENCY >
+兌換完成！
+
+< COM_USERINFO_PLAYERINFO >
+查看玩家情報。
+
+< COM_USERINFO_GAMEINFO >
+查看遊玩情報。
+
+< COM_USERINFO_BROWSECARDS >
+瀏覽已擁有的卡片。
+
+< COM_USERINFO_CARDSINFO >
+查看卡片收集狀況。
+
+< COM_USERINFO_AVATAR >
+改變個人形象。
+
+< COM_USERINFO_TAUNTS >
+自定義每個角色在遊戲中使用的挑釁。
+
+< COM_USERINFO_GALLERY >
+欣賞圖片、過場、音樂與語音。
+
+< COM_USERINFO_STATS >
+查看各個角色的在線對戰數據。
+
+< COM_CAMPAIGN_SELECTSCENARIO >
+請選擇劇情。
+
+< COM_CAMPAIGN_SELECTSTAGE >
+請選擇關卡。
+
+< COM_CAMPAIGN_BREAKERPACKONLY >
+擁有「破壞者包」才能進行這個戰役。
+
+< COM_CAMPAIGN_WITCHPACKONLY >
+擁有「魔女包」才能進行這個戰役。
+
+< COM_CAMPAIGN_TOYSTOREPACKONLY >
+擁有「玩具店包」才能進行這個戰役。
+
+< COM_CAMPAIGN_OLDGUARDIANPACKONLY >
+擁有「昔日的守護者包」才能進行這個戰役。
+
+< COM_CAMPAIGN_WANDERERPACKONLY >
+擁有「旅人包」才能進行這個戰役。
+
+< COM_CAMPAIGN_WARUDAPRISONBREAKPACKONLY >
+擁有「陰謀組的越獄包」才能進行這個戰役。
+
+< COM_FREEBATTLE_CHOOSEGAMETYPE >
+請選擇遊戲模式。
+
+< COM_FIELDSELECT >
+請選擇遊戲場地。
+
+< COM_RANDOMFIELD_MINIMUMREQUIRED >
+至少要設定3個場地。
+
+< COM_RANDOMFIELDEVENT_MINIMUMREQUIRED >
+至少要設定3個場地事件。
+
+< COM_DECK_PREPARE >
+角色選擇並建立卡組。
+
+< COM_DECK_NOTPREPARED >
+還沒有做好準備。
+
+< COM_DECK_CARDLIMITREACHED >
+已經無法再放入這種卡片了。
+
+< COM_DECK_DLCONLYCARD >
+擁有DLC才能使用這張卡。
+
+< COM_DECK_WAITING >
+等待其他玩家準備完畢。
+
+< COM_DECK_READY >
+準備開始遊戲！
+
+< COM_GAME_PAUSED >
+遊戲暫停。
+
+< COM_GAME_QUITCONFIRM >
+真的要退出遊戲嗎？
+
+< COM_RESULT_STARSGAINED >
+顯示這場遊戲中獲得的星星。
+
+< COM_CREATELOBBY_SETOPTIONS >
+進行房間設定。
+
+< COM_CREATELOBBY_CREATING >
+正在建立Steam房間……
+
+< COM_CREATELOBBY_FAILED >
+建立Steam房間失敗。
+
+< COM_CREATELOBBY_NAMEEMPTY >
+必須設定房間名。
+
+< COM_LOBBYLIST_SELECTLOBBY >
+請選擇房間。Steam好友將會以綠星表示。
+
+< COM_LOBBYLIST_JOINLOBBY >
+加入已選擇的房間，或是與房間的擁有者進行聯絡。
+
+< COM_LOBBYLIST_PASSWORDEMPTY >
+密碼不能為空。
+
+< COM_LOBBYLIST_SEARCHEMPTY >
+搜索框不能為空。
+
+< COM_LOBBYLIST_CONNECTFAILED >
+無法連接房間。
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOSELECT >
+無法選擇房間。未能取得房間數據。
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOCONTACT >
+無法進行聯絡。未能取得房間數據。
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOJOIN >
+無法加入房間。未能取得房間數據。
+
+< COM_LOBBY_WAITINGFORPARTICIPANTS >
+等待其他參加者。
+
+< COM_LOBBY_WAITINGFORPLAYERS >
+等待其他玩家。
+
+< COM_LOBBY_PLAYERSNOTREADY >
+在所有人都準備完畢前無法開始遊戲。
+
+< COM_LOBBY_KICKREADYPLAYER >
+不能驅逐已經準備好的玩家。
+
+< COM_LOBBY_KICKNOTREADY >
+現在還無法驅逐該玩家。
+
+< COM_LOBBY_MIDGAME_JOINED >
+已加入遊戲！你能在下一輪開始時進入遊戲。
+
+< COM_LOBBY_SPECTATOR_WAITINGDECKS >
+遊戲開始了！等待玩家建立卡組……
+
+[EOF]
+

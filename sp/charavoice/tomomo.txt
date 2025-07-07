@@ -1,0 +1,169 @@
+
+<0000> ¡Ahí!
+<0001> ¡Ahí está!
+<0002> ¡Noeeeh!
+<0003> Esta cosa es muy pesada...
+<0004> ¡Escojo esta carta!
+<0005> ¡Aquí voy!
+<0006> Ushishi...
+<0007> ¡Mágico!
+<0008> ¡Trampa mágica!
+<0009> ¡Hora de las trampas!
+<0010> ¡Ujijijiji!
+<0011> Vamos a ver que pasará.
+<0012> ¡Vas a caer!
+<0013> ¡Tiembla ante mis poderes!
+<0014> ¡Poderes mágicos!
+<0015> ¿Que madure de una vez? ¡Gracias por el cumplido!
+<0016> ¡Hora de la desesperación!
+<0017> ¡He vueeltoooo~!
+<0018> ¡Hora de la venganza mágica!
+<0019> ¡No voy a caer aún!
+<0020> ¡Uooooh! ¡Voy a levantarme!
+<0021> ¡Noooo!
+<0022> ¡Mierda!
+<0023> ¡Maldita sea!
+<0024> ¡No puede ser!
+<0025> ¡Ataque mágico!
+<0026> ¡Ahí te va un montón de dolor!
+<0027> ¡Uryaryaah!
+<0028> ¡Hiyaah!
+<0029> ¡Oww!
+<0030> ¡Eso me dolió!
+<0031> ¡Basta ya!
+<0032> ¡Ugyaah!
+<0033> ¡Curación mágica!
+<0034> ¡Howah, mi piel está radiante!
+<0035> Siento el poder mágico expandirse en mí.
+<0036> ¡Creo que puedo seguir!
+<0037> ¡Transportación mágica!
+<0038> ¡A moverse!
+<0039> ¡Teletransportación!
+<0040> ¡Me voy a otro lado!
+<0041> Guaaaah...
+<0042> Upoaaah...
+<0043> ¡¡Ginyaaah!!
+<0044> Ajapaaah...
+<0045> ¡Déjame enseñarte una lección!
+<0046> ¡Vas a sentir mucho dolor!
+<0047> ¡Sugiero que te rindas antes de que te haga llorar!
+<0048> ¡Batalla mágica!
+<0049> ¿Quieres pelear? ¿Quieres pelear, quieres pelear?
+<0050> ¡Ven a ver de lo que realmente soy capaz!
+<0051> ¡Desafío aceptado!
+<0052> ¿Estás seguro de que quieres hacer esto?
+<0053> ¡Hoatah!
+<0054> ¡Achooh!
+<0055> ¡Deeyaah!
+<0056> ¡Uririiii!
+<0057> ¡Gyaaah!
+<0058> Ay, eso duele...
+<0059> ¡Esa fue buena...!
+<0060> ¡Gobaah!
+<0061> ¡Ugyaaah!
+<0062> ¡Demonios, eso duele!
+<0063> ¡No tan duro, por favor!
+<0064> ¡Goff!
+<0065> Espléndidamente.
+<0066> Suavemente.
+<0067> Bailando como una mariposa.
+<0068> ¡Eso no me va a tocar!
+<0069> ¡Yahoooo!
+<0070> ¿De verdad creíste que podías vencerme?
+<0071> ¡Ganando!
+<0072> ¡Victoria mágica!
+<0073> D-d-d... derrotada...
+<0074> Kyuuu...
+<0075> No... te escaparás...
+<0076> Nyaah...
+<0077> ¡Estrellas!
+<0078> ¡Dame más de esas!
+<0079> ¡Voy a llevarme todas estas!
+<0080> ¡Nunca fui tan feliz en toda mi vida!
+<0081> ¡¡Mis ahorroooooss!!
+<0082> ¡¡Aaaaaaaah!!
+<0083> ¡¡Oh no!!
+<0084> ¡E-espera, mis estrellaaaaas!
+<0085> ¡Au! ¡¿Quién dejó una trampa en este lugar?!
+<0086> ¿Qué? ¿Una trampa?
+<0087> ¡Escurridizo!
+<0088> ¡Fueee! ¡Tienes que estar bromeando!
+<0089> ¡Aquí llegó el jefe!
+<0090> Hora del jefe. ¿Quién podrá ser?
+<0091> ¡Fufufu, témanle al jefe!
+<0092> ¡Tenemos a uno muy grande aquí!
+<0093> Estrellas, ¿Qué más?
+<0094> ¡Seré una coleccionista de estrellas!
+<0095> ¡Voy a conseguir miles de estrellas!
+<0096> ¡Estrellas, estrellas, estrellas!
+<0097> ¡Patearé el trasero de todos!
+<0098> ¡Sientan la furia de mi Masacre Mágica!
+<0099> ¡Teman mis poderes!
+<0100> ¡Todos experimentarán la violencia extrema de una verdadera chica mágica!
+<0101> Tomomo al habla. ¿Qué tal?
+<0102> Vamos a divertirnos.
+<0103> Bien, hora de mostrar lo que tengo.
+<0104> Fufufu, es hora de que sientan la furia de dios...
+<0105> ¡Muy bien, allá vamos!
+<0106> ¡Estoy lista para trabajar!
+<0107> ¡Ahí voy!
+<0108> ¡Yahooo! ¡El juego ya empezó!
+<0109> Bueno, era simplemente lógico que yo ganara.
+<0110> ¡Hurra! ¡Yo gané, yo gané!
+<0111> ¡Kujiji, claro que sí!
+<0112> ¡La victoria es mía! ¡Uooooo!
+<0113> ¡Algo nuevo!
+<0114> ¡Mágico!
+<0115> Genial, son cosas lindas.
+<0116> ¡La suerte me trajo esto!
+<0117> Muy bien, hora de cambiar.
+<0118> Tú tómalo desde aquí, ¿está bien?
+<0119> Todo está en tus manos.
+<0120> ¡Buena suerte ahí afuera!
+<0121> Okay.
+<0122> Bien, muy bien.
+<0123> ¡Excelente!
+<0124> ¡No!
+<0125> ¡Casi!
+<0126> ¡Buen trabajo!
+<0127> ¿Hmm?
+<0128> ¡Vamos!
+<0129> ¡Hora de tirar los dados!
+<0130> ¡Ve!
+<0131> ¡Yahoo!
+<0132> ¿Umm?
+<0133> ¡Eres bueno!
+<0134> ¡Eso fue genial!
+<0135> En serio...
+<0136> ¡Usaré esta carta!
+<0137> ¡Esto es mío ahora!
+<0138> Veamos que hace esto...
+<0139> ¡Tomaré prestado este poder!
+<0140> Graciaaaaas.
+<0141> Oh rayos, es la loca...
+<0142> ¡Esta chica está comenzando a asustarme!
+<0143> Uff... cuanto ejercicio...
+<0144> Ugh, por favor no vayas tan lejos...
+<0145> ¡Una batalla entre dos dioses! ¡No voy a perder!
+<0146> ¡Esto será divino!
+<0147> ¡Sweet Eater es la ganadora!
+<0148> Al fin y al cabo, tu posición de dios es mejor que la mía...
+<0149> ¡Sweet Maker, vamos a pelear! ¡Tú y yo!
+<0150> Algo huele bien... ¡¿Eres tú, Sweet Maker?!
+<0151> ¡Gané! Me harás un rico pudín más tarde.
+<0152> Fuaah... pelear contra ti me deja hambrienta...
+<0153> ¡Muéstrame tu poder de protección!
+<0154> ¡QP! ¡Te transformaste en una guardiana!
+<0155> ¿Eso es todo lo que tienes, Q?
+<0156> Todavía te queda un largo camino para recorrer.
+<0157> ¡Wow, se ve fabulosa...! Desearía ser ella...
+<0158> ¡Les mostraré TODO mi poder!
+<0159> ¡Poppo! ¡Fuera de mi camino!
+<0160> Poppo... ¿Rebelándose contra mí...?
+<0161> Ni pienses en rebelar de nuevo, ¿está bien?
+<0162> P-perdí contra Poppo... esto no puede ser cierto...
+<0163> ¿Poppo...?
+<0164> ¡Bastarda...! ¡Di tus últimas palabras!
+<0165> ¡Aquí llega el problema...!
+<0166> ¡Cómo te atreves a ser buena en un combate!
+<0167> Ella era la única persona con la que no deseaba perder...

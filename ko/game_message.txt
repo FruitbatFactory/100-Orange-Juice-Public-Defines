@@ -1,0 +1,259 @@
+
+< GAME_MESSAGE_YOURTURN >
+당신의 턴입니다.
+
+< GAME_MESSAGE_OPPONENTTURN >
+상대 턴입니다.
+
+< GAME_MESSAGE_CHALLENGEBATTLE >
+배틀을 신청하겠습니까?
+
+< GAME_MESSAGE_HEALTEAMMATE >
+이 동료의 HP 1을 회복하겠습니까?
+
+< GAME_MESSAGE_REVIVETEAMMATE >
+이 동료를 부활시키겠습니까? (%d스타)
+
+< GAME_MESSAGE_CHOOSECARDUSE >
+사용할 카드를 선택해주세요.
+
+< GAME_MESSAGE_CHOOSECARDDISCARD >
+버릴 카드를 선택해주세요.
+
+< GAME_MESSAGE_CONFIRMCARDUSE >
+이 카드를 사용할까요?
+
+< GAME_MESSAGE_BOSSAPPEARED >
+보스가 나타났습니다!
+
+< GAME_MESSAGE_RAIDBOSS_APPEAR >
+% 등장!
+
+< GAME_MESSAGE_RAIDBOSS_UNLOCK >
+이제 %s이(가) %s을(를) 쓸 수 있습니다!
+
+< GAME_MESSAGE_RAIDBOSS_REMOVE >
+이제 %s이(가) %s을(를) 쓰지 않습니다.
+
+< GAME_MESSAGE_RAIDBOSS_USE_ABILITY >
+%s이(가) %s을(를) 발동합니다!
+
+< GAME_MESSAGE_RAIDBOSS_SKIP_ABILITY >
+%s이(가) %s을(를) 넘깁니다.
+
+< GAME_MESSAGE_RAIDBOSS_ENRAGE >
+%s이(가) 화났습니다!
+
+< GAME_MESSAGE_COOP_TERROR_EVENT >
+%s에게 패널을 통해 도전할 수 있습니다!
+
+< GAME_MESSAGE_COOP_ANNOUNCE_ABILITY >
+%s이(가) 다음 턴에 %s을(를) 씁니다!
+
+< GAME_MESSAGE_COOP_LEVELUP_ABILITY >
+%s이(가) %s(으)로 대체되었습니다!
+
+< GAME_MESSAGE_TURNSKIP >
+턴이 스킵되었습니다.
+
+< GAME_MESSAGE_CHOOSENORMA >
+다음 노르마를 선택해주세요.
+
+< GAME_MESSAGE_NORMANOTACHIEVED >
+현재 노르마가 달성되지 않았습니다.
+
+< GAME_MESSAGE_CARDDRAWN >
+카드를 뽑았습니다.
+
+< GAME_MESSAGE_TRAPSET >
+트랩 카드가 세팅되었습니다.
+
+< GAME_MESSAGE_TRAPTRIGGER >
+트랩 카드가 발동했습니다.
+
+< GAME_MESSAGE_CARDEFFECTSTOCKED >
+카드 효과가 스톡되었습니다.
+
+< GAME_MESSAGE_STOCKEFFECT >
+스톡 효과가 발동되었습니다.
+
+< GAME_MESSAGE_FIELDEFFECT >
+필드 효과가 발동되었습니다.
+
+< GAME_MESSAGE_REVIVESUCCESS >
+부활했습니다!
+
+< GAME_MESSAGE_REVIVEFAIL >
+부활에 실패했습니다...
+
+< GAME_MESSAGE_CHOOSETARGET >
+대상 플레이어를 선택해주세요.
+
+< GAME_MESSAGE_CHOOSEMOVEPANEL >
+이동할 패널을 선택해주세요.
+
+< GAME_MESSAGE_HOMESTOP >
+홈에서 멈추겠습니까?
+
+< GAME_MESSAGE_HEALING >
+회복했습니다!
+
+< GAME_MESSAGE_EVENTPREFIX >
+
+< GAME_MESSAGE_EVENTSUFFIX >
+!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATEFRENZY >
+초콜렛 프렌지!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_SUCCESS >
+초콜렛을 저장했습니다!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_FAIL >
+초콜렛이 충분하지 않습니다...
+
+< GAME_MESSAGE_HLWN2018_CHOOSECANDY >
+사탕을 선택해주세요.
+
+< GAME_MESSAGE_HLWN2018_GIVECANDY >
+이 사탕을 줄까요?
+
+< GAME_MESSAGE_CHOOSETARGETPANEL >
+타겟 패널을 선택하세요.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE >
+눈덩이를 던질 패널을 선택하세요.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE_CARD >
+눈덩이를 던질 패널을 선택하거나 카드를 내세요.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_MULTIPLE >
+눈덩이를 던질 패널을 선택하세요.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND >
+움직일 패널을 선택하세요.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND_CARD >
+움직일 패널을 선택하거나 카드를 내세요.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_WAITING >
+다른 플레이어를 기다리는 중입니다...
+
+< GAME_MESSAGE_XMAS2018_CASTLE_ROTATE >
+시계방향으로 회전
+
+< GAME_MESSAGE_XMAS2018_CASTLE_PLACE >
+조각 놓기
+
+< GAME_MESSAGE_XMAS2018_CASTLE_CHANGE >
+조각 바꾸기
+
+< GAME_MESSAGE_SHOPSTOP >
+상점에서 멈추겠습니까?
+
+< GAME_MESSAGE_MONSTERCHALLENGE >
+이 몬스터에게 도전하겠습니까?
+
+< GAME_MESSAGE_SUMMER2020_SPEEDUP >
+스피드 업!
+
+< GAME_MESSAGE_TELEPORT >
+이동할 패널을 선택하세요.
+
+< GAME_MESSAGE_SELECT_PANEL >
+패널을 선택하세요.
+
+< GAME_MESSAGE_AWAIT_ACTION >
+플레이어의 행동을 기다리는 중입니다...
+
+< GAME_MESSAGE_PICK_UNIT >
+유닛을 고르세요
+
+< GAME_MESSAGE_PET_PLAYER >
+이 플레이어를 쓰다듬겠습니까?
+
+< GAME_MESSAGE_PET_DOG >
+개를 쓰다듬겠습니까?
+
+< GAME_MESSAGE_CHOOSE_BLUFF >
+다음에 나올 것 같은 카드의 타입은?
+
+< GAME_MESSAGE_DECLARE_BLUFF >
+다른 플레이어에게 보여주고 싶은 카드 타입은?
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_1 >
+다음에 네가 낼 카드는...
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_2 >
+...이거다
+< GAME_MESSAGE_CHOOSETARGETPANEL >
+타겟 패널을 선택하세요.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE >
+눈덩이를 던질 패널을 선택하세요.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE_CARD >
+눈덩이를 던질 패널을 선택하거나 카드를 내세요.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_MULTIPLE >
+눈덩이를 던질 패널을 선택하세요.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND >
+움직일 패널을 선택하세요.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND_CARD >
+움직일 패널을 선택하거나 카드를 내세요.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_WAITING >
+다른 플레이어를 기다리는 중입니다...
+
+< GAME_MESSAGE_XMAS2018_CASTLE_ROTATE >
+시계방향으로 회전
+
+< GAME_MESSAGE_XMAS2018_CASTLE_PLACE >
+조각 놓기
+
+< GAME_MESSAGE_XMAS2018_CASTLE_CHANGE >
+조각 바꾸기
+
+< GAME_MESSAGE_SHOPSTOP >
+상점에서 멈추겠습니까?
+
+< GAME_MESSAGE_MONSTERCHALLENGE >
+이 몬스터에게 도전하겠습니까?
+
+< GAME_MESSAGE_SUMMER2020_SPEEDUP >
+스피드 업!
+
+< GAME_MESSAGE_TELEPORT >
+이동할 패널을 선택하세요.
+
+< GAME_MESSAGE_SELECT_PANEL >
+패널을 선택하세요.
+
+< GAME_MESSAGE_AWAIT_ACTION >
+플레이어의 행동을 기다리는 중입니다...
+
+< GAME_MESSAGE_PICK_UNIT >
+유닛을 고르세요
+
+< GAME_MESSAGE_PET_PLAYER >
+이 플레이어를 쓰다듬겠습니까?
+
+< GAME_MESSAGE_PET_DOG >
+개를 쓰다듬겠습니까?
+
+< GAME_MESSAGE_CHOOSE_BLUFF >
+다음에 나올 것 같은 카드의 타입은?
+
+< GAME_MESSAGE_DECLARE_BLUFF >
+다른 플레이어에게 보여주고 싶은 카드 타입은?
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_1 >
+다음에 너는...
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_2 >
+...이 타입의 카드를 낸다!
+
+< GAME_MESSAGE_BLUFF_NOTICE >
+{}은(는) 다음에 이 카드가 나올 것이라고 예상했습니다。

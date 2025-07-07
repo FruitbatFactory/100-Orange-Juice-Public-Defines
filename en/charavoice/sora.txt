@@ -1,0 +1,162 @@
+
+<0000> I'm throwing the dice.
+<0001> Is it like this?
+<0002> What will I get?
+<0003> Give me... a good number.
+<0004> I'm going to use this.
+<0005> I'll use this to turn the tables.
+<0006> Card...
+<0007> With the power of this card...
+<0008> I'm going to set a trap.
+<0009> A trap's been placed.
+<0010> Watch out for this panel here.
+<0011> Trap.
+<0012> I'll use a bit of power.
+<0013> A battle card.
+<0014> A slightly hot beam...
+<0015> I'm powering myself up.
+<0016> I'll use everything I have...!
+<0017> I'm better now.
+<0018> I can go on.
+<0019> I'm not defeated yet.
+<0020> I feel alive again.
+<0021> Au...
+<0022> I failed...
+<0023> Fuaah...
+<0024> Not quite there yet...
+<0025> I'm attacking.
+<0026> Yah!
+<0027> Toh!
+<0028> Tah!
+<0029> Mh...
+<0030> Mha...
+<0031> Fua...
+<0032> Ugh...
+<0033> It's healing my cuts and bruises...
+<0034> It's so warm...
+<0035> I'm getting better.
+<0036> I'm healed enough to keep fighting.
+<0037> Fue?
+<0038> Wah!
+<0039> Where am I getting to?
+<0040> Am I warping...?
+<0041> I need to take a rest.
+<0042> I'm drained.
+<0043> Hau...
+<0044> I'll just...
+<0045> My apologies.
+<0046> I'm ready to fight.
+<0047> I'll do my best.
+<0048> Battle...
+<0049> I won't lose.
+<0050> Are you going to come at me?
+<0051> I'd like you to make way for me.
+<0052> If we must fight, defeat is not an option.
+<0053> Ey!
+<0054> Hah!
+<0055> Yah!
+<0056> Eey!
+<0057> Mh...
+<0058> Fua...
+<0059> Au...
+<0060> Ow...
+<0061> Wawawah!
+<0062> That really hurts...
+<0063> Wah, I'm in big trouble!
+<0064> Muaah!
+<0065> That won't reach me.
+<0066> I'm dodging it.
+<0067> I'm evading it.
+<0068> I'm right here.
+<0069> Phew... I won.
+<0070> I did it.
+<0071> Phew.
+<0072> I managed to settle it.
+<0073> Nuu...
+<0074> Muu...
+<0075> Uuu...
+<0076> Aaa...
+<0077> Stars...
+<0078> More stars...
+<0079> I'm happy.
+<0080> I've got a lot.
+<0081> My stars...
+<0082> I feel down...
+<0083> Oh no...
+<0084> Stars... Where did they go...
+<0085> I see it's a trap.
+<0086> Is this a trap?
+<0087> Rats.
+<0088> Boy, I fell for it.
+<0089> Something came out.
+<0090> We'd better stay alert.
+<0091> I sense something large.
+<0092> That looks a little strong.
+<0093> Stars...
+<0094> Stars...
+<0095> I'm going to gather stars.
+<0096> Stars are pretty... I like them.
+<0097> I'm going to win.
+<0098> I'm going to fight.
+<0099> I'll beat whoever stands in my way.
+<0100> So, this Norma is about winning battles?
+<0101> Me?
+<0102> I hope we'll have a good game together.
+<0103> I see it's time to work.
+<0104> I will go all out...!
+<0105> I'll begin my operation.
+<0106> Watch me give it my everything.
+<0107> I will go out there... to win.
+<0108> Even in games, I won't settle for second best.
+<0109> I won the game.
+<0110> I did all I could.
+<0111> My job here is done.
+<0112> I won... I'm glad.
+<0113> I'm glad.
+<0114> We seem to have gotten a good thing.
+<0115> Oh my... That is great.
+<0116> What do you make of this?
+<0117> Can you take over?
+<0118> Would you mind switching?
+<0119> I look forward to seeing your effort out there.
+<0120> I wish you luck out there.
+<0121> Understood.
+<0122> I think that is a good idea.
+<0123> Yes.
+<0124> I don't think so.
+<0125> Hau...
+<0126> Fufu.
+<0127> Mhm...
+<0128> It's time to go.
+<0129> I'm going to roll... the dice.
+<0130> Let's go.
+<0131> Hello.
+<0132> Muaah...
+<0133> That is good.
+<0134> That is amazing.
+<0135> Oh...?
+<0136> I'm going to borrow this one.
+<0137> Let me play this card, please.
+<0138> No idea what this does, but I'll do it anyway.
+<0139> I hope I'm using this correctly.
+<0140> I'll commence... my operation now!
+<0141> Suguri... Why don't we play?
+<0142> Suguri... Do you want to play with me?
+<0143> Fufu, I beat Suguri.
+<0144> You're as strong as ever.
+<0145> Hime, do you want to dance?
+<0146> Hime, I have some time for you.
+<0147> Fufu, it was fun.
+<0148> You're a good fighter, too.
+<0149> Sham, here I come.
+<0150> Idol... How very shiny...
+<0151> I-I will never sing or dance like you...
+<0152> D-do I have to dance like you...?
+<0153> Star... Breaker...
+<0154> I'm not losing to you!
+<0155> No more making a ruckus, okay?
+<0156> Please stop causing trouble...
+<0157> Shield!
+<0158> Shield, invert!
+<0159> Unlimited charge...!
+<0160> Mikky Mou-...!

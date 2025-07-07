@@ -1,0 +1,239 @@
+
+< FREEBATTLE_CREATELOBBY >
+Campaign mode
+
+< FREEBATTLE_JOINLOBBY >
+Join Lobby
+
+< FREEBATTLE_SINGLEPLAYER >
+Free play
+
+< FREEBATTLE_RETURN >
+Back
+
+< LOBBYLIST_RETRIEVINGLOBBIES >
+Retrieving game lobbies.\nPlease wait...
+
+< LOBBYLIST_RETRIEVINGDATA >
+Retrieving lobby data...
+
+< LOBBYLIST_DATATIMEOUT >
+Lobby data timeout.
+
+< LOBBY_NOSTEAM >
+Could not connect to Steam.
+
+< LOBBY_CREATING >
+Creating Steam lobby...
+
+< LOBBY_CREATEFAILED >
+Could not create Steam lobby.
+
+< LOBBY_CONNECTING >
+Connecting to lobby. Please wait...
+
+< LOBBY_CONNECTED >
+Connected to lobby.
+
+< LOBBY_CONNECTFAILED >
+Failed to connect to lobby.
+
+< LOBBY_NORESPONSE >
+No response received.
+
+< LOBBY_GAMEABORTED >
+The game has been aborted.
+
+< LOBBY_JOINRESPONSE >
+Waiting for response from server...
+
+< LOBBY_JOINFAILED >
+Couldn't join the game.
+
+< LOBBY_FULL >
+The lobby is full.
+
+< LOBBY_STEAMID_EXISTS >
+SteamID already in game.
+
+< LOBBY_WRONGPASSWORD >
+Wrong password.
+
+< LOBBY_BANNEDFROMLOBBY >
+You have been expelled from this lobby.
+
+< LOBBY_VERSIONDIFFERENCE >
+Lobby version is not compatible.
+
+< LOBBY_VERSIONUPDATE >
+Please update to the latest version.
+
+< LOBBY_HOSTHASOLDVERSION >
+Lobby is using an older version.
+
+< LOBBY_LEAVECONFIRM >
+Leave the lobby?
+
+< LOBBY_LEAVEWAIT >
+Exiting, please wait...
+
+< LOBBY_PLAYERLEFT >
+A player has left the game.
+
+< LOBBY_KICKCONFIRM >
+Really kick this player?
+
+< LOBBY_KICKED >
+Removed from the lobby.
+
+< LOBBY_PLAYERCONNECTIONLOST >
+Connection to a player lost.
+
+< LOBBY_HOSTCONNECTIONLOST >
+Lost connection to host player.
+
+< LOBBY_REMOVEDFORIDLING >
+You have been removed for idling.
+
+< LOBBY_CHANGING_OWNER >
+Changing lobby owner...
+
+< LOBBY_REPLACINGPLAYER >
+Replacing with a CPU player.
+
+< LOBBY_SPECTATOR_CONNECTING >
+A spectator is connecting...
+
+// Prefix: Spectator's name. 
+< LOBBY_SPECTATOR_JOINREQUEST >
+wants to join...
+
+< LOBBY_SPECTATOR_JOINREQUESTING >
+Requesting permission to join...
+
+< LOBBY_SPECTATOR_JOINDENIED >
+Join request rejected.
+
+< LOBBY_SPECTATOR_JOINNOPLAYERSLOTS >
+No more free player slots.
+
+// LOBBY_SPECTATOR_JOIN + name + LOBBY_SPECTATOR_JOIN2
+// Spectator Domdi wants to join as player.
+< LOBBY_SPECTATOR_JOIN1 >
+Spectator
+
+< LOBBY_SPECTATOR_JOIN2 >
+wants to join as player.
+
+< LOBBY_PLAYERTOSPECTATOR_CONFIRM >
+Change into spectator?
+
+< LOBBY_SPECTATORTOPLAYER_CONFIRM >
+Change into player?
+
+< CHAT_TYPEPROMPT >
+<Type a message and press ENTER.>
+
+< CHAT_CONTROLLERTYPEPROMPT_1 >
+<Press
+
+< CHAT_CONTROLLERTYPEPROMPT_2 >
+to open the in-game keyboard to begin typing.>
+
+// 10 characters max.
+< CHAT_NAME_SYSTEM >
+SYSTEM
+
+// 10 characters max.
+< CHAT_NAME_EMPTY >
+<empty>
+
+< CHAT_NAME_DASHES >
+--------
+
+< CHAT_MUTE_SELF_ERROR >
+Can not mute self.
+
+< CHAT_MUTED_USER > 
+You have muted %s.
+
+< CHAT_UNMUTED_USER > 
+You have unmuted %s.
+
+< CHAT_SYSTEM_LOBBYCREATED >
+Lobby %s created!
+
+< CHAT_SYSTEM_LOBBYJOINED >
+Joined lobby %s!
+
+< CHAT_SYSTEM_PLAYERJOINEDLOBBY >
+%s has joined the lobby!
+
+< CHAT_SYSTEM_GAMEENDED >
+The game has ended! Returning to lobby.
+
+< CHAT_SYSTEM_REQUESTEDPLAYERSLOT >
+Requested for player slot from host...
+
+< CHAT_SYSTEM_REQUESTEDSPECTATORSLOT >
+Requested for spectator slot from host...
+
+< CHAT_SYSTEM_PLAYERSLOTREQUESTTIMEOUT >
+Player slot request timeout.
+
+< CHAT_SYSTEM_SPECTATORSLOTREQUESTTIMEOUT >
+Spectator slot request timeout.
+
+< CHAT_SYSTEM_PLAYERTAKEOVER >
+%s is taking over for Player %d.
+
+< CHAT_SYSTEM_SWITCHEDTOPLAYER >
+Switched to player!
+
+< CHAT_SYSTEM_SWITCHEDTOSPECTATOR >
+Switched to spectator!
+
+< CHAT_SYSTEM_PLAYERSWITCHEDTOSPECTATOR >
+%s has switched from player to spectator.
+
+< CHAT_SYSTEM_SPECTATORSWITCHEDTOPLAYER >
+%s has switched from spectator to player.
+
+< CHAT_SYSTEM_PLAYERHASLEFTGAME >
+%s has left the game.
+
+< CHAT_SYSTEM_LOSTCONNECTIONTOPLAYER >
+Lost connection to %s.
+
+< CHAT_SYSTEM_CHEATDETECTED_CLIENT >
+%s attempted to cheat by playing an invalid card.
+
+< CHAT_SYSTEM_CHEATDETECTED_HOST >
+%s attempted to cheat by playing an invalid card, and was kicked.
+
+// Invite = game invitation
+< GAMEINVITE_PENDING_TITLE >
+Invite Pending
+
+< GAMEINVITE_JOIN_TOOLTIP >
+Go to the Main Menu to join the game.
+
+// Game speed: <nb>
+< GAMEINVITE_NORMAL_MODE_DETAILS >
+Speed: %d
+
+// Game speed: <nb>, <boss name>, <boss difficulty>
+< GAMEINVITE_COOP_MODE_DETAILS >
+Speed: %d, %s, %s
+
+< LOBBY_QUICKJOIN_TOOLTIP >
+Quick join.
+
+< PLAYERPLATE_STEAMLEVEL >
+LVL %d
+
+< PLAYERPLATE_STEAMWINS >
+Wins: %d
+
+[EOF]
+

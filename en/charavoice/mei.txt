@@ -1,0 +1,163 @@
+
+<0000> Eiryaah!
+<0001> Oryaah!
+<0002> Toryaah!
+<0003> Seryaah!
+<0004> Card!
+<0005> The time has come!
+<0006> I'll use a card here!
+<0007> I'm going to play this one.
+<0008> Hihihi, the trap's been set.
+<0009> Trap card!
+<0010> Which dummy will fall for it?
+<0011> Traaaaaap!!
+<0012> Battle card!
+<0013> I'll give it all I have!
+<0014> I'm aiming for victory!
+<0015> Super all-out mode!
+<0016> White Christsmasher!!
+<0017> I've completely recovered!
+<0018> Darn... I didn't lose the game yet, though!
+<0019> Red, Blue, we'll catch up now!
+<0020> I'll turn the tables now!
+<0021> Aaah! I hate this!
+<0022> Whyyyyyy!
+<0023> Dang it!
+<0024> I messed up!?
+<0025> Attacking!
+<0026> Seeey!
+<0027> Hmdoryaah!
+<0028> Shaaah!
+<0029> Ueee...
+<0030> Nuah!
+<0031> Tsk.
+<0032> Ngh!
+<0033> Healing!
+<0034> Back from the grave!
+<0035> All right, I can fight again!
+<0036> My batteries are fully charged!
+<0037> Warp!?
+<0038> What is this...?!
+<0039> Where am I going?
+<0040> Where am I?!
+<0041> Gunuu!
+<0042> Goddammit!
+<0043> Craaap!
+<0044> Mhmm!
+<0045> We should play!
+<0046> We should fight!
+<0047> Here I go!
+<0048> Kay, the battle begins now!
+<0049> Sounds fun, we can play together!
+<0050> Just bring it on!
+<0051> All right, I can fight again!
+<0052> I accept the challenge!
+<0053> Kiiick!
+<0054> Weeeey!
+<0055> Ryaah!
+<0056> Daryaah!
+<0057> Buhaah!
+<0058> Crap!
+<0059> Wah!
+<0060> Guh!
+<0061> That hurts so much!!
+<0062> Gueeh!
+<0063> Ah this sucks!
+<0064> What's wrong with you!
+<0065> You can't hit me!
+<0066> Way too slow!
+<0067> Something wrong with your aim?
+<0068> Slow means slow!
+<0069> Pshaw, I win!
+<0070> Thanks for the fun!
+<0071> We should do this again!
+<0072> Boy, that was so much fun!
+<0073> Dang it! You silly dummy!
+<0074> I'll definitely make you pay for this!
+<0075> Ugh... Damn it...
+<0076> I don't believe I lost...
+<0077> Got stars!
+<0078> Hell yeah, stars!
+<0079> I'm on a roll!
+<0080> Listen to this jingling sound!
+<0081> Nooo!! My stars!
+<0082> Shoot!!
+<0083> Ugh... My stars!
+<0084> My stars are scattering!
+<0085> What the, a trap!?
+<0086> Why's that here!?
+<0087> Who the hell set this here! Dumb-ass!
+<0088> I can't believe I fell for this!
+<0089> Oh, someone's looking mighty strong.
+<0090> This is what I've wanted!
+<0091> Whatever comes at me, I'm always the winner!
+<0092> Red, Blue, we're going to go all out!
+<0093> I'll go get myself a bunch of stars!
+<0094> All right, I'm gathering a lot of 'em!
+<0095> All the stars will be mine!
+<0096> It's star-gathering time!
+<0097> I'll fight a lot and win a lot!
+<0098> I'll smash down whoever comes at me!
+<0099> Fighting will be much more fun!
+<0100> Fighting sounds like more fun!
+<0101> Oh, me? What's up!
+<0102> How am I gonna play today?
+<0103> I'm gonna have tons of fun!
+<0104> I never get lazy about playing!
+<0105> Okies, Red, Blue, here we go!
+<0106> Uhihi! The game's on!
+<0107> I'll win first prize!
+<0108> Let's see who we have here.
+<0109> Hell yeah, Mei's victorious!
+<0110> Phew, I'm so happy!
+<0111> A super massive victory for me!
+<0112> I didn't play enough yet!
+<0113> Look, a new thing!
+<0114> Is that what you wanted?
+<0115> Lucky pull!
+<0116> Well done!
+<0117> Switch places with me!
+<0118> All right, it's your turn to go.
+<0119> Time to switch!
+<0120> Take care of the rest, will ya!
+<0121> Okay!
+<0122> I'm liking that!
+<0123> Sure!
+<0124> Nope!
+<0125> Shoot..!
+<0126> Lucky you!
+<0127> Hmm?
+<0128> Let's go!
+<0129> Dice!
+<0130> Go go!
+<0131> What's up!
+<0132> Mhmah?
+<0133> Nice!
+<0134> Incredible!
+<0135> Boy, that sucks...
+<0136> Nobody'd expect me to play this!
+<0137> I don't know whose this is, but I'll just use it anyway!
+<0138> I always wanted to play this once!
+<0139> Uhihi, I choose this card!
+<0140> Nacchan, what's up!
+<0141> We're gonna have a blast, okay!
+<0142> That's my Nacchan... It was hella fun!
+<0143> Ha, I won this time, Nacchan!
+<0144> Oh, if it isn't Yuki! We should play!
+<0145> Oh, you wanna play with me? That's awesome!
+<0146> It was quite fun!
+<0147> Guh, l-let me fight you one more time...!
+<0148> Ah, it's Santa! Red, Blue, we'll catch her!
+<0149> Whoa, Santa?!
+<0150> Now, give me gifts! A bunch of them!
+<0151> You're a horrible Santa, hurting me like this!
+<0152> You look hyperactive!
+<0153> I bet there's gonna be a furious fight!
+<0154> It was one hella furious battle!
+<0155> Ugh, you're quite good...
+<0156> I'll take you down and be the new protagonist!
+<0157> Look who's here. Our nondescript protagonist!
+<0158> Starting today, I am the protagonist!
+<0159> Ugh, how dare you, you nondescript dude...!
+<0160> Red, Blue!
+<0161> This is the all-out version of White Christsmasher!!

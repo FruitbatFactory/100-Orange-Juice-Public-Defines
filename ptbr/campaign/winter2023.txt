@@ -1,0 +1,519 @@
+
+// ========= Scene: Opening =========
+
+// (darklulu)
+<0000> A mente de Lulu... está sombria...
+
+// (ellie)
+<0001> Você tem que aguentar, Lulu...! O que está acontecendo?
+
+// (darklulu)
+<0002> Você achou... sua mamãe.
+
+// (darklulu)
+<0003> Lulu sabe que é algo para se sentir alegre, mas...
+
+// (darklulu)
+<0004> Uuuuh...!
+
+// (darklulu)
+<0005> Aaaaaaaah!
+
+// (motherpoppo)
+<0006> Isso não é bom! Seu poder mágico está ficando fora de controle.
+
+// (ellie)
+<0007> Lulu, você tem que aguentar!
+
+// (???)
+<0008> Não adianta...
+
+// (???)
+<0009> Pois, Ellie, a culpa é sua dela ter ficado assim.
+
+// (arnelle)
+<0010> Quem está aí!
+
+// (watty)
+<0011> Tomem cuidado pessoal...!
+
+// (watty)
+<0012> Essa é a direção de onde eu senti um poder mágico incrível...
+
+// (???)
+<0013> Fufufu... Hahahaha!
+
+// (mio)
+<0014> Minha nossa, que divertido!
+
+// (motherpoppo)
+<0015> Você é...!
+
+// (mio)
+<0016> Eu sou...
+
+// (mio)
+<0017> ...a mamãe de Lulu ❤
+
+// (ellie)
+<0018> A mamãe de Lulu!?
+
+// (mio)
+<0019> E eu também sou...
+
+// (mio)
+<0020> ...a deusa deste mundo!
+
+// (pomeranius)
+<0021> A deusa...?
+
+// (halena)
+<0022> Não faço ideia do que ela está falando.
+
+// (cook)
+<0023> Mas ela realmente é... incomum.
+
+// (maynie)
+<0024> Maynie não acredita que ela é uma deusa... Mas ela é extremamente intimidante...!
+
+// (ellie)
+<0025> A mamãe de Lulu é uma deusa, e ela aparece do nada, e existe algo de errado com a Lulu agora... O que raios está acontecendo!
+
+// (mio)
+<0026> Fufufu, Ellie～
+
+// (mio)
+<0027> Olha o que você conquistou: você finalmente encontrou sua mamãe após uma jornada longa e difícil.
+
+// (mio)
+<0028> Parabéns❤
+
+// (ellie)
+<0029> ...
+
+// (mio)
+<0030> Mas se isto tiver um final feliz, será muuuuito entediante para mim.
+
+// (mio)
+<0031> Ao contrário daquela chata que adora finais felizes bobos, prefiro os trágicos, onde todo o esforço e trabalho duro acabam em vão.
+
+// (mio)
+<0032> Ellie, você deve estar se sentindo muito feliz agora que você se reuniu com sua mamãe de novo.
+
+// (darklulu)
+<0033> Lulu está... Lulu está se sentindo sozinha...
+
+// (darklulu)
+<0034> Nossa jornada sempre foi divertida pois Lulu gosta demais da Ellie.
+
+// (darklulu)
+<0035> Como Lulu não é uma boa garota, parte dela esperava secretamente que sua mamãe continuasse desaparecida... e que nossa jornada durasse para sempre.
+
+// (darklulu)
+<0036> Lulu tinha medo de que, se encontrássemos sua mamãe, você escolhesse ficar com ela e deixar Lulu para trás...
+
+// (ellie)
+<0037> Lulu...
+
+// (darklulu)
+<0038> Isso era o que Lulu estava pensando até mesmo sabendo o quanto você queria ver sua mamãe.
+
+// (darklulu)
+<0039> Desculpa... Desculpa, Ellie.
+
+// (mio)
+<0040> Está tudo bem, Lulu. Você não fez nada de errado.
+
+// (mio)
+<0041> Ellie arrastou você para sua jornada, se divertiu o quanto quis e alcançou a felicidade ao encontrar sua mamãe. Ela fez tudo isso sem pensar em você.
+
+// (mio)
+<0042> É ela que deve ser culpabilizada.
+
+// (arnelle)
+<0043> Sobre o que raios ela está falando?
+
+// (mio)
+<0044> O ponto é...
+
+// (mio)
+<0045> Lulu, eu acho que está na hora de você parar de se segurar e fazer seu próprio desejo virar realidade.
+
+// (mio)
+<0046> Se existe felicidade neste mundo que você não quer fazer parte...
+
+// (mio)
+<0047> ...você devia dar um final triste ao mundo destruindo-o.
+
+// (darklulu)
+<0048> Uuu... Uwaaaaah!
+
+// ========= Scene: Midpoint =========
+
+// (ellie)
+<0049> Lulu, sinto muito por não ter percebido o quão solitária você estava se sentindo!
+
+// (ellie)
+<0050> Seria mentira se eu dissesse que não estou feliz por ter encontrado minha mamãe, mas eu também gosto muito de você, Lulu...
+
+// (ellie)
+<0051> Então... a gente devia sempre ficar juntas...!
+
+// (mio)
+<0052> Ufufufufu, não importa o que você diga a ela, não surtirá efeito.
+
+// (mio)
+<0053> Pois, como pode ver, a mente dela agora está totalmente coberta pela escuridão. Não é mesmo, Lulu?
+
+// (darklulu)
+<0054> ...
+
+// (darklulu)
+<0055> A Lulu pode mesmo ficar com você?
+
+// (mio)
+<0056> Quê?
+
+// (ellie)
+<0057> Absolutamente! Agora que encontrei minha mamãe, é a minha vez de estar ao seu lado em sua jornada.
+
+// (ellie)
+<0058> Essa nossa jornada sempre foi divertida para mim também! Porque eu gosto muito de você, Lulu!
+
+// (darklulu)
+<0059> De verdade?
+
+// (ellie)
+<0060> Estamos juntas há tanto tempo. Você pode facilmente dizer se estou mentindo, não pode!
+
+// (mio)
+<0061> Corte a bobagem... Lulu está tão enraizada na escuridão que nada do que você disser irá alcançá-la.
+
+// (darklulu)
+<0062> Lulu acredita em Ellie! Lulu percebe que ela não está mentindo, porque Lulu gosta muito dela!
+
+// (mio)
+<0063> O quêêêêêêêêêêê!?
+
+// (ellie)
+<0064> Sua deusa idiota! Nossa jornada tornou nosso vínculo forte demais para ser quebrado tão facilmente!
+
+// (darklulu)
+<0065> É isso mesmo!
+
+// (mio)
+<0066> Você só pode estar brincando... Fala sério!
+
+// (kai(hero))
+<0067> Fufufu, parece que você ainda é uma péssima conspiradora, deusa.
+
+// (motherpoppo)
+<0068> Amor!
+
+// (mio)
+<0069> O quê? Como assim até você está aqui...?
+
+// (ellie)
+<0070> Quem é você?
+
+// (kai(hero))
+<0071> Sou seu papai. Sua mamãe e eu fomos ambos trancados aqui.
+
+// (ellie)
+<0072> !? !? !? !?
+
+// (kai(hero))
+<0073> Quase deixei minha mente cair na escuridão porque você tem prestado atenção apenas em sua mamãe...
+
+// (darklulu)
+<0074> Falando nisso, Ellie falava de sua mamãe o tempo todo, mas nada sobre seu papai.
+
+// (ellie)
+<0075> É, eu não sei porque, mas ele nunca passou pela minha mente.
+
+// (kai(hero))
+<0076> Estou sucumbindo na escuridão...
+
+// (motherpoppo)
+<0077> Pega leve, amor.
+
+// (kai(hero))
+<0078> Okay... Enfim.
+
+// (kai(hero))
+<0079> Para resumir o plano da deusa, ela estava tentando destruir sua amizade com Lulu, afogar sua mente na escuridão e então encerrar tudo isso com um final trágico que ela tanto gosta.
+
+// (kai(hero))
+<0080> Mas, na verdade...
+
+// (ellie)
+<0081> Eu adoro demais a Lulu!
+
+// (darklulu)
+<0082> E Lulu gosta de Ellie tanto quanto.
+
+// (kai(hero))
+<0083> Então, o que vocês garotas farão agora?
+
+// (ellie)
+<0084> Nós vamos...
+
+// (darklulu)
+<0085> Dar uma surra na deusa.
+
+// (mio)
+<0086> Como é? Pera aí, mas eu sou sua mamãe, Lulu, lembra?
+
+// (darklulu)
+<0087> Lulu não precisa de uma mamãe que diga coisas horríveis quando encontra a filha pela primeira vez.
+
+// (mio)
+<0088> Quêêêêêê...
+
+// (motherpoppo)
+<0089> Parece que você fez um péssimo trabalho como parente.
+
+// (mio)
+<0090> Diz uma mãe que nunca nem cuidou da filha.
+
+// (kai(hero))
+<0091> Isso porque você tirou Ellie de nós e nos trancou neste templo.
+
+// (motherpoppo)
+<0092> Isso mesmo.
+
+// (darklulu)
+<0093> Então, foi essa deusa... que separou Ellie dos pais dela?
+
+// (ellie)
+<0094> Oh, é mesmo?
+
+// (ellie)
+<0095> Você me tirou dos meus pais, feriu os sentimentos de Lulu, e tentou bagunçar o mundo...
+
+// (ellie)
+<0096> Ahaa... Eu acho... Que eu estou ficando super irritada.
+
+// (motherpoppo)
+<0097> É melhor apagá-la desse mundo.
+
+// (kai(hero))
+<0098> Deixe seu papai e sua mamãe ajudá-la para que você possa ir com tudo contra ela.
+
+// (ellie)
+<0099> Mamãe, papai...
+
+// (halena)
+<0100> Ok, eu não esperava por isso.
+
+// (cook)
+<0101> Cook odeia ela, também.
+
+// (arnelle)
+<0102> Bem, eu digo que não precisamos de uma deusa babaca.
+
+// (maynie)
+<0103> Maynie concorda.
+
+// (pomeranius)
+<0104> Eu também.
+
+// (watty)
+<0105> Aham...
+
+// (darklulu)
+<0106> Lulu quer bater nela, também!
+
+// (ellie)
+<0107> Pessoal... Certo, vamos todos trabalhar juntos e...
+
+// (hyperellie)
+<0108> Ahaaa!
+
+// (hyperellie)
+<0109> Chutar o traseiro da deusa!
+
+// ========= Scene: Intro 2 =========
+
+// (mio)
+<0110> Espera um pouco! Eu sou uma deusa, sabe!
+
+// (mio)
+<0111> Se eu sumir, este mundo ficará fora de controle e eventualmente entrará em colapso.
+
+// (mio)
+<0112> Tem certeza que quer deixar isso acontecer?
+
+// (hyperellie)
+<0113> Sério?!
+
+// (darklulu)
+<0114> Isso seria muito problemático.
+
+// (mio)
+<0115> Fufufu, vocês não deveriam ter se oposto a uma deusa em primeiro lugar. Mas como as coisas não estão indo como eu quero, acho que vou fugir por enquanto.
+
+// (mio)
+<0116> Vou deixar vocês se deleitarem com suas felicidades até que eu invente um novo plano para um final ruim.
+
+// (hyperellie)
+<0117> Oh não, ela está fugindo...!
+
+// (darklulu)
+<0118> Espere!
+
+// (mio)
+<0119> Certo, vejo vocês por aí. Bye by-...
+
+// (kai(hero))
+<0120> Isso não vai acontecer... né, "deusa"?
+
+// (mio)
+<0121> !?
+
+// (tomomo)
+<0122> Fala sério... Fazendo o que você bem entende no meu mundo.
+
+// (mio)
+<0123> Tomomo... Como você chegou aqui...?
+
+// (tomomo)
+<0124> Eu fiquei te procurando em todo canto...
+
+// (tomomo)
+<0125> E finalmente te encontrei quando senti Kai e Poppo daqui.
+
+// (hyperellie)
+<0126> Uu, eu continuo fazendo a mesma pergunta, mas...
+
+// (hyperellie)
+<0127> Quem é você!?
+
+// (kai(hero))
+<0128> Ela, basicamente, é a deusa desse outro mundo.
+
+// (hyperellie)
+<0129> Então, existem multíplos deuses?
+
+// (darklulu)
+<0130> E, existem outros mundos, também?
+
+// (tomomo)
+<0131> Deuses, nem tanto, mas sim.
+
+// (tomomo)
+<0132> Ouçam, residentes deste mundo! Eu tenho algo para lhes dizer!
+
+// (tomomo)
+<0133> Mesmo que Mio... quero dizer, aquela desgraça de deusa se for, serei eu quem cuidará deste mundo.
+
+// (mio)
+<0134> O quê?
+
+// (tomomo)
+<0135> Então não hesitem em lhe dar uma surra.
+
+// (hyperellie)
+<0136> Um... Mamãe?
+
+// (motherpoppo)
+<0137> Está tudo bem. Você pode confiar no que ela acabou de dizer.
+
+// (kai(hero))
+<0138> Dê tudo de si, Ellie. Você é a protagonista deste mundo.
+
+// (mio)
+<0139> Acredito que é hora de eu sair.
+
+// (hyperellie)
+<0140> Ahaaa❤
+
+// (hyperellie)
+<0141> Você não pode fugir.
+
+// (darklulu)
+<0142> Lulu não vai pegar leve com você.
+
+// (mio)
+<0143> Gayaaaaaaaah!!!
+
+// ========= Scene: Ending =========
+
+// (tomomo)
+<0144> Parabéns, residentes deste mundo, por derrotarem aquela canalha.
+
+// (motherpoppo)
+<0145> Sem ela por perto, este mundo terá um final feliz.
+
+// (arnelle)
+<0146> Nada de um final feliz. Em vez de tesouro, tudo o que temos é exaustão.
+
+// (kai(hero))
+<0147> Bem, vocês são personagens coadjuvantes, afinal de contas...
+
+// (maynie)
+<0148> Como ousa falar assim quando sua própria filha nem te reconheceu!
+
+// (halena)
+<0149> Um pai humano e uma mãe hamster... Isso é tipo...
+
+// (pomeranius)
+<0150> Uma combinação aterrorizante.
+
+// (watty)
+<0151> Assustador *arrepia*
+
+// (kai(hero))
+<0152> Isso é por causa de tudo que aquela deusa idiota fez!
+
+// (hyperellie)
+<0153> Isso não importa mais, e nem esse final feliz.
+
+// (lulu)
+<0154> ?
+
+// (hyperellie)
+<0155> Porque a aventura minha e de Lulu ainda vai continuar e não precisamos ainda de um final feliz.
+
+// (lulu)
+<0156> Ellie, você tem certeza disso?
+
+// (hyperellie)
+<0157> Absolutamente. Agora sabemos que existem mais mundos por aí. Se quisermos ver todos eles, é melhor começarmos agora.
+
+// (hyperellie)
+<0158> Veremos o máximo de mundo que conseguirmos e brincaremos o máximo que der!
+
+// (hyperellie)
+<0159> Você virá comigo, né, Lulu?
+
+// (lulu)
+<0160> É claro!
+
+// (hyperellie)
+<0161> Ahaaa! Certo então, mamãe, e papai!
+
+// (hyperellie)
+<0162> Eu vou em uma jornada com Lulu!
+
+// (motherpoppo)
+<0163> Cuidem-se garotas.
+
+// (kai(hero))
+<0164> Não deixe de vir nos visitar em casa de vez em quando, ok?
+
+// (hyperellie)
+<0165> Okay.
+
+// (hyperellie)
+<0166> Certo, Lulu, por onde começamos?
+
+// (lulu)
+<0167> Hmm... Talvez em algum lugar quente, ou em algum lugar onde possamos saborear uma comida deliciosa... É difícil escolher!
+
+// (hyperellie)
+<0168> Ahaa, eu também acho! Vamos indo por enquanto.
+
+// (lulu)
+<0169> Sim!
+

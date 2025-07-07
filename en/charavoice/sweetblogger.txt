@@ -1,0 +1,165 @@
+<000> Here.
+<001> There.
+<002> Fufufu.
+<003> Here goes.
+<004> Okay, I'll go with this one.
+<005> I hope this helps.
+<006> Let's see.
+<007> Why don't I do this?
+<008> I feel a tad mischievous.
+<009> *Sets a card sneakily*...
+<010> Fufu, I just might've done something bad.
+<011> This is kind of fun.
+<012> I'll make myself stronger.
+<013> Talk about superpowers.
+<014> I see. That's how this works, huh~?
+<015> I think this'll give me some strength.
+<016> Here's a mountain of sweets!
+<017> I wonder what's going on in the game now.
+<018> Boy, did I have a good rest.
+<019> Hmm...?
+<020> I'm totally good to go!
+<021> I'll just be a bit longer...
+<022> Hmm, it didn't go well?
+<023> Well, no need to rush.
+<024> I have to wait here a little longer... I guess?
+<025> Bonk!
+<026> Sorry if this hurts.
+<027> Toryah!
+<028> Ey!
+<029> Wah!
+<030> That hurts.
+<031> Gee.
+<032> Don't be so rough, okay?
+<033> I'm much better now.
+<034> I feel like my energy is coming back to me.
+<035> This is amazing.
+<036> Wow... I don't feel tired at all anymore.
+<037> Oh?
+<038> What's happening?
+<039> Fuaaah.
+<040> This feels funny.
+<041> I think I'm a little tired now.
+<042> Sleep time...
+<043> I'm exhausted.
+<044> *Yawn*
+<045> Let's fight a fun fight.
+<046> I brought a lot of snacks with me... Do you want some?
+<047> I'll go all out in this fight.
+<048> Let's do this!
+<049> Do you want some snacks too?
+<050> Fufu, sure, I can play with you.
+<051> I'm not a very good fighter.
+<052> Huh, you wanna fight with me...?
+<053> Sweet Blogger's... power?
+<054> Seems like I can do magic now.
+<055> I don't know what to do exactly, but...
+<056> Magic... Like this?
+<057> Whoa.
+<058> You hurt me.
+<059> Boo.
+<060> Ow!
+<061> Uwah!
+<062> This could be more than I can take.
+<063> That's a big no-no.
+<064> I can get angry, you know?
+<065> My body feels light as a feather.
+<066> Did you just do something?
+<067> Oh dear?
+<068> Fufufu.
+<069> Boy, was that fun.
+<070> We should play again sometime.
+<071> Invite me to play this game again anytime.
+<072> That was a nice workout for me.
+<073> I think I've just burned so many calories.
+<074> Now I'm too hungry to move.
+<075> I might've overdone it in the battle. 
+<076> Ahaha, you're very strong.
+<077> Oh? Did I just get paid for something?
+<078> Fufufu, these make me happy.
+<079> I think I'll buy some sweets with these later.
+<080> Alright!
+<081> Hmm, what a shame...
+<082> I'm not very happy about this.
+<083> My allowance...
+<084> Huh? A hole in my wallet...?
+<085> That took me by surprise.
+<086> Must be a prank by someone.
+<087> My! Goodness!
+<088> Hmm?
+<089> Whoa, I got goosebumps.
+<090> Am I in a crisis?
+<091> I have a very bad feeling...
+<092> This... can't be good...
+<093> I wanna make a lot of sweets, so... I'll go with this.
+<094> I'm gonna make a dessert with those stars.
+<095> The stars are beautiful, aren't they?
+<096> Alright, I'm gonna get myself a ton of stars.
+<097> Let's have a big old fun time, everyone.
+<098> Who do I wanna play with?
+<099> Maybe I should use my Sweet God power.
+<100> Fufufu, working out is fun, isn't it?
+<101> A Sweet God... That's what I am, apparently.
+<102> I seem to be able to use magic. Can't wait to see what it's like, can we?
+<103> Sweet... God... So, it's a god of sweets?
+<104> Look at me... When did I become like this?
+<105> Let's have a buuunch of fun and a buuunch of sweets.
+<106> Game start. Let's do this.
+<107> Now that I'm a Sweet God, I should be able to do more than ever.
+<108> What might this game turn out like?
+<109> That's my win. Everyone, let's party.
+<110> That was so much fun, fufufu.
+<111> I won the game? Why don't we celebrate?
+<112> I'm looking forward to playing with you guys again.
+<113> Did you get something nice?
+<114> If what you just got is a dessert... would you let me taste it?
+<115> Fufu, that's a nice present.
+<116> What did you get? Something you wanted?
+<117> Okay, I'll let myself out and let you in.
+<118> You wanna switch? Thanks.
+<119> I think it's about time to switch?
+<120> I have faith in you.
+<121> Okay.
+<122> Wow.
+<123> Sure, you can leave it to me.
+<124> I have to say no...
+<125> Um, okay...
+<126> You did it!
+<127> Mhm?
+<128> Here goes!
+<129> Let's roll it!
+<130> I know you can do it!
+<131> Hello!
+<132> Well, um?
+<133> Nice.
+<134> That's really incredible.
+<135> Oh my goodness...
+<136> When did I get this card?
+<137> Is this also what I'm able to do as a Sweet God?
+<138> Here I come!
+<139> What's this do? I can't wait to find out.
+<140> Thanks.
+<141> Woow, those are beautiful wings you have on your back.
+<142> Sweet Creator...?
+<143> Next time you create a new dessert, let me taste it, okay?
+<144> That sweet smell of yours was distracting me too much~
+<145> I had no idea you're a Sweet God too, Q.
+<146> What's this? You wanna play with me that badly?
+<147> Boy, you're also giving off a sweet smell, Q...
+<148> That was a real blast~
+<149> A Sweet God?
+<150> I-I'm a Sweet God too, you know?
+<151> We should have a sweets party sometime.
+<152> Sweet Gods are strong.
+<153> Yeah, the taste is great.
+<154> How about this one? Looks delicious, doesn't it?
+<155> Soft and melts in your mouth.
+<156> Now I'm hungry.
+<157> I've got to take great pictures of this...
+<158> This looks very cute and tasty.
+<159> Fufu, just looking at sweets makes me happy.
+<160> This one looks delicious too~
+<161> What do you want for snack time today?
+<162> What's wrong? Are you hungry?
+<163> Let's go buy some snacks later.
+<164> I'll make you whatever you want to eat today.

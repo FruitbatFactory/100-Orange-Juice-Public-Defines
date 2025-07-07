@@ -1,0 +1,161 @@
+<0000> Hoi.
+<0001> Here.
+<0002> Here I go.
+<0003> There.
+<0004> I'm gonna play a card.
+<0005> There we go!
+<0006> Cards, no biggie.
+<0007> Alright, I'll go with this one.
+<0008> Ku-ku-ku.
+<0009> Let me set a little something down here...
+<0010> This is gonna be fun.
+<0011> Here, a trap.
+<0012> Kuhihi.
+<0013> Get ready for this.
+<0014> I'll go wild.
+<0015> Eat this!
+<0016> Fuhahahaha! Fear me!
+<0017> Ohh yeah!
+<0018> Guess it's about time to get going again.
+<0019> Well, I'm done resting on my laurels.
+<0020> This game ain't over yet.
+<0021> What the? For real?
+<0022> Aaaargh?
+<0023> You gotta be kidding me.
+<0024> This sucks so hard.
+<0025> There!
+<0026> Shaah!
+<0027> Atah!
+<0028> Uryah!
+<0029> Gya!
+<0030> Not bad.
+<0031> Dammit!
+<0032> Ugh!
+<0033> That's a big help.
+<0034> Oh, I like this.
+<0035> That feels so good.
+<0036> This is great.
+<0037> Howah!?
+<0038> Owawah.
+<0039> Meow!
+<0040> What the heck's happening!
+<0041> Gooo!
+<0042> No way...
+<0043> How could this happen to me?
+<0044> Ugu-ugu...
+<0045> Fuhahaha!
+<0046> Here I come!
+<0047> Found ya!
+<0048> Come fight me!
+<0049> Reckless is what you are.
+<0050> Oh, you want a piece of me?
+<0051> Alright, try and beat me.
+<0052> I can't believe you'd want to pick a fight with me...
+<0053> Ora!
+<0054> Take that!
+<0055> Sey!
+<0056> Yah!
+<0057> Ow!
+<0058> Ouch!
+<0059> Koooo!
+<0060> That smarts...!
+<0061> Gyaaa!
+<0062> Guwaah!
+<0063> Hey jerk, what the heck's your deal!?
+<0064> Bueeeeh!
+<0065> Behold my agility!
+<0066> That was so easy to dodge.
+<0067> Hoh.
+<0068> Hmph, slowpoke.
+<0069> This is how it always turns out.
+<0070> That wasn't worth talking about.
+<0071> I expected you to do a little better than this.
+<0072> So weak.
+<0073> What... the...
+<0074> I lost...
+<0075> I should've been more careful...!
+<0076> I don't believe this...
+<0077> Alright, these are mine.
+<0078> I'm taking these.
+<0079> I'll gratefully accept these.
+<0080> What a nice surprise.
+<0081> Hey, wait up!
+<0082> Crap, I screwed up.
+<0083> This is ridiculous.
+<0084> Oh shoot!
+<0085> You little...!
+<0086> W-why the heck did it have to be here!?
+<0087> Who the heck put this thing here!?
+<0088> Goddammit!
+<0089> I like this vibe.
+<0090> Part of me thinks this is gonna be fun.
+<0091> Things are getting real savage around here.
+<0092> Here it comes.
+<0093> I'll go make every star in the whole world mine.
+<0094> I'm gonna make myself super rich.
+<0095> Kukuku, money makes the world go 'round.
+<0096> I'll get myself a ton...
+<0097> You guys are all gonna kneel down before my powers.
+<0098> Strength is all that matters.
+<0099> I'm itching for a fight.
+<0100> I'll go make war.
+<0101> You tough enough to follow me?
+<0102> Alright then, let's get moving.
+<0103> Well then, what should I do to tease them?
+<0104> This game's gonna be about having fun, okay?
+<0105> The game's begun.
+<0106> Kukuku, I'll be the winner.
+<0107> Okay, let's do this.
+<0108> It'll be so easy for me to win this game.
+<0109> Well, this is no surprise.
+<0110> You guys all work for me now.
+<0111> What an easy win, fufufu.
+<0112> Kukuku, just as I planned.
+<0113> Oh, that looks real good.
+<0114> We got the best thing!
+<0115> That's ours now!
+<0116> Oooooh!
+<0117> Mind taking it from here for me?
+<0118> Alright, it's your turn to go.
+<0119> You can deal with the rest, okay?
+<0120> Good luck out there.
+<0121> Okay.
+<0122> Wow.
+<0123> Alright!
+<0124> No!
+<0125> What the heck?
+<0126> Today's my lucky day.
+<0127> What the heck~?
+<0128> Let's get going.
+<0129> Here it rolls.
+<0130> Go go!
+<0131> Yo!
+<0132> Ngaah?
+<0133> Oh, good job.
+<0134> You exceeded my expectations. Well done.
+<0135> Son of a bench!
+<0136> I don't even know what this one does!
+<0137> Your skill's mine now!
+<0138> This is not mine, but that doesn't matter!
+<0139> Never seen a card like this!
+<0140> Cheers.
+<0141> Q... Who the heck are you!?
+<0142> You... are a guy now?
+<0143> W-what was this guy's deal?
+<0144> I was so confused...
+<0145> Kukuku! Now I've got control of the game!
+<0146> You guys got nowhere to run now!
+<0147> This is what I'm capable of!
+<0148> Fufufu, you guys better run for your lives.
+<0149> I smell so many dogs around here...
+<0150> You clearly look like a villain.
+<0151> Ugh, you look like big trouble.
+<0152> Now we both know which one's the better villain.
+<0153> Ugh, you weird stranger...
+<0154> You piece of junk!
+<0155> You betrayed me!?
+<0156> You're gonna keep working for me, you got that?
+<0157> S-servant rebellion...
+<0158> You're gonna be my food.
+<0159> Oh, this is actually interesting.
+<0160> Time for a rat hunt.

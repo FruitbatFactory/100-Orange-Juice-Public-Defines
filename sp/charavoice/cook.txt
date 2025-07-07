@@ -1,0 +1,161 @@
+<0117> Es tu turno para salir ahí afuera.
+<0118> Cook necesita un descanso..
+<0119> *Chirrido*...
+<0120> Cook creé en ti.
+
+<0000> ¡Ahí!
+<0001> ¡Ve!
+<0002> *Chirrido, chirrido*
+<0003> ¡Ioh!
+<0004> ¡Cook usará esto!
+<0005> ¡Mira lo que Cook lleva aquí!
+<0006> ¡Hagámoslo!
+<0007> ¡Oraaah!
+<0008> ¡Trampa de Cook!
+<0009> ¡Kukuku!
+<0010> ¡Esta es peligrosa!
+<0011> ¡Es la hora de una trampa!
+<0012> ¡No deberías subestimar a Cook!
+<0013> ¡Cook también puede usar cartas como esta!
+<0014> ¡Muy bien, hora de aumentar mi poder!
+<0015> ¿Qué es lo que hace esta?
+<0016> ¡Cook va a donde ella quiere!
+<0017> Esto se siente bien.
+<0018> Eso estuvo cerca.
+<0019> Mmm, ¡Cook no olvidará eso!
+<0020> Cook ha regresado.
+<0021> Eso fue una equivocación.
+<0022> ¿Qué? Eso no es correcto...
+<0023> ¿Por qué?
+<0024> ¡No!
+<0025> *Picoteo, picoteo*
+<0026> ¡Teiah!
+<0027> ¡Ataque de ala!
+<0028> ¡Oraah!
+<0029> ¡Eso dolió!
+<0030> Detente ya.
+<0031> Hombre...
+<0032> ¡Nada de maldad!
+<0033> Cook ahora tiene más energía.
+<0034> Todo el dolor se ha ido.
+<0035> *Chirrido*
+<0036> ¡Cook siente que puede hacer lo que sea!
+<0037> ¡¿Este panel se está tragando a Cook?!
+<0038> ¡*Chirrido, chirrido*!
+<0039> ¡Waaah!
+<0040> ¡¿Qué es lo que ocurreee?!
+<0041> Eres terrible...
+<0042> Jieeeh.
+<0043> *Pío, pío*...
+<0044> ¡Uaaaah!
+<0045> Cook es una gallina muy feroz.
+<0046> ¡Tienes la cabeza hueca!
+<0047> Fuera del camino de Cook.
+<0048> ¡Aquí viene Cook!
+<0049> ¡¿Pero qué rayos?!
+<0050> ¿Quieres un pedazo de Cook?
+<0051> ¿Golpearás a Cook?
+<0052> ¡Wawah!
+<0053> ¡*Chirrido*!
+<0054> ¡Ey-ey!
+<0055> ¡Cómo lo ves!
+<0056> ¡Orah!
+<0057> ¡Eso duele!
+<0058> ¡Kyuuun!
+<0059> ¡Yaaaa!
+<0060> ¡Gyah!
+<0061> Deja de golpear a Cook.
+<0062> ¡Oww!
+<0063> Kyaaan.
+<0064> ¡*Pío*!
+<0065> No puedes golpear a Cook.
+<0066> ¡Cook puede volar!
+<0067> ¡Jah!
+<0068> *Pío, pío*
+<0069> ¡Cook es fuerte!
+<0070> ¡Es tu fin!
+<0071> ¡Kukuku!
+<0072> ¡Hurra!
+<0073> Cook ha perdido.
+<0074> Acaban de derrotar a Cook.
+<0075> Eso fue muy cruel...
+<0076> *Pío, sollozo*...
+<0077> ¡Se ven bien!
+<0078> Cook se llevará estas a casa.
+<0079> ¡A Cook le encantan estas cosas!
+<0080> ¡Cook está feliz!
+<0081> ¡¿Por qué?!
+<0082> Se han ido...
+<0083> Ahora Cook está triste...
+<0084> ¿A dónde se han ido?
+<0085> ¡*Píiiio*!
+<0086> ¿Qué rayos es esto?
+<0087> ¡¿T-trampa?!
+<0088> ¡Jeeeh!
+<0089> Un viento feroz está soplando...
+<0090> Cook tiene un mal presentimiento acerca de esto.
+<0091> ¿Qué es esa cosa?
+<0092> Hmm, algo malo está a punto de suceder.
+<0093> ¡Cook quiere más coleccionables!
+<0094> A Cook le encanta coleccionar cosas..
+<0095> ¡Esto tiene un lindo aspecto! ¡Como el de Cook!
+<0096> A Cook le gustan las cosas que brillan.
+<0097> Cook se siente un poco alocada.
+<0098> Cook picoteará a todos sus enemigos.
+<0099> ¡Cook está lista para esto!
+<0100> ¡El pico de Cook es muy fuerte!
+<0101> ¿Acaso ya es el turno de Cook?
+<0102> Muy bien, es la hora de volar.
+<0103> ¡Eh! Cook está aquí.
+<0104> Hmm, ¿necesitas a Cook?
+<0105> Vamos a empezar.
+<0106> ¡Cook lo dará todo!
+<0107> ¡Tú puedes hacerlo, Cook!
+<0108> ¡Cook se siente muy animada!
+<0109> ¡Kukukuku!
+<0110> *Pío pío pío pío*
+<0111> ¡Yupiii, Cook es la ganadora! ¡Genial!
+<0112> Bueno, este es el verdadero ánimo de Cook.
+<0113> ¿Qué es eso? ¡Se ve muy bien!
+<0114> ¡Eso se ve bien! ¡Cook también quiere uno!
+<0115> ¿Eh? ¿Qué? ¡Cook quiere saber lo que es! 
+<0116> ¡Bien por ti!
+<0121> Bien.
+<0122> Buen trabajo.
+<0123> Claro.
+<0124> ¡*Pío*!
+<0125> Aww...
+<0126> ¡Tienes suerte!
+<0127> ¿*Píiiio*?
+<0128> ¡Vamos, vamos!
+<0129> ¡Hoy!
+<0130> ¡Tú puedes hacerlo!
+<0131> ¡Yo!
+<0132> ¿Eh?
+<0133> ¡Increíble!
+<0134> Vaya, eso es impresionante. Cook está sorprendida.
+<0135> Cook está enojada... Ugh...
+<0136> ¿Qué es esto? ¡Cook lo usará!
+<0137> ¡Cook está desesperada por usar esto!
+<0138> ¿*Pío*? ¡*Pío pío*!
+<0139> ¡Cook usará esta cosa!
+<0140> ¡Halena! ¡Cook quiere pelaer!
+<0141> ¡Vaya! ¡Halena, tienes un aspecto aterrador!
+<0142> ¡Cook ha ganado esta vez!
+<0143> Tenle piedad a Cook...
+<0144> ¡¿Eh?! ¿Acaso eres... un enemigo? ¿O un amigo?
+<0145> ¡Oh! ¡¿Tú eres de la especie de Cook, no es así?!
+<0146> Cook es el ave más grande.
+<0147> Ugh... Cook no soporta ser derrotada por otra ave...
+<0148> ¡Cook puede volar super rápido!
+<0149> ¡La velocidad de Cook es fantástica!
+<0150> Ese fue un gran vuelo.
+<0151> ¡Cook es muuuuy rápida!
+<0152> Aquí está Cook.
+<0153> Vaya, eso se sintió muy bien.
+<0154> Cook se ha ejercitado bien.
+<0155> El hogar de Cook.
+<0156> ¡Cook no es un pavo!
+<0157> Tú... ¡¿Tú quieres atrapar y comer a Cook?!
+<0158> ¡Espera, no puedes comerte a Cook!
+<0159> ¿Por qué estas babeando?

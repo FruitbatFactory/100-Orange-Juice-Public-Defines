@@ -1,0 +1,194 @@
+
+< GAME_MESSAGE_YOURTURN >
+Tu turno.
+
+< GAME_MESSAGE_OPPONENTTURN >
+Turno del oponente.
+
+< GAME_MESSAGE_CHALLENGEBATTLE >
+¿Desafiar a combate?
+
+< GAME_MESSAGE_HEALTEAMMATE >
+¿Curar a este aliado por 1 PV?
+
+< GAME_MESSAGE_REVIVETEAMMATE >
+¿Revivir a este aliado? (%d estrellas)
+
+< GAME_MESSAGE_CHOOSECARDUSE >
+Escoja una carta para usar.
+
+< GAME_MESSAGE_CHOOSECARDDISCARD >
+Descarte una de sus cartas.
+
+< GAME_MESSAGE_CONFIRMCARDUSE >
+¿Quieres usar esta carta?
+
+< GAME_MESSAGE_BOSSAPPEARED >
+¡Ha aparecido un jefe!
+
+< GAME_MESSAGE_RAIDBOSS_APPEAR >
+¡%s ha descendido!
+
+< GAME_MESSAGE_RAIDBOSS_UNLOCK >
+¡%s ahora podrá usar %s!
+
+< GAME_MESSAGE_RAIDBOSS_REMOVE >
+%s ya no usará %s.
+
+< GAME_MESSAGE_RAIDBOSS_USE_ABILITY >
+¡%s activará %s!
+
+< GAME_MESSAGE_RAIDBOSS_SKIP_ABILITY >
+%s evitará usar %s.
+
+< GAME_MESSAGE_RAIDBOSS_ENRAGE >
+¡%s se enojó!
+
+< GAME_MESSAGE_COOP_TERROR_EVENT >
+¡%s podrá combatir a través de los paneles!
+
+< GAME_MESSAGE_COOP_ANNOUNCE_ABILITY >
+¡%s usará %s en su próximo turno!
+
+< GAME_MESSAGE_COOP_LEVELUP_ABILITY >
+¡La carta: %s ha sido remplazada por %s!
+
+< GAME_MESSAGE_TURNSKIP >
+Turno omitido.
+
+< GAME_MESSAGE_CHOOSENORMA >
+Escoja su siguiente norma.
+
+< GAME_MESSAGE_NORMANOTACHIEVED >
+La norma no se ha cumplido.
+
+< GAME_MESSAGE_CARDDRAWN >
+Carta tomada.
+
+< GAME_MESSAGE_TRAPSET >
+Trampa colocada.
+
+< GAME_MESSAGE_TRAPTRIGGER >
+¡Trampa activada!
+
+< GAME_MESSAGE_CARDEFFECTSTOCKED >
+Efecto guardado.
+
+< GAME_MESSAGE_STOCKEFFECT >
+¡Efecto activado!
+
+< GAME_MESSAGE_FIELDEFFECT >
+¡Efecto de campo activado!
+
+< GAME_MESSAGE_REVIVESUCCESS >
+¡Revivido!
+
+< GAME_MESSAGE_REVIVEFAIL >
+El intento para revivir ha fallado...
+
+< GAME_MESSAGE_CHOOSETARGET >
+Escoja a un jugador.
+
+< GAME_MESSAGE_CHOOSEMOVEPANEL >
+Escoja el panel al que quiere moverse.
+
+< GAME_MESSAGE_HOMESTOP >
+¿Quiere detenerse aquí?
+
+< GAME_MESSAGE_HEALING >
+¡Curando heridas!
+
+< GAME_MESSAGE_EVENTPREFIX >
+¡
+
+< GAME_MESSAGE_EVENTSUFFIX >
+!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATEFRENZY >
+¡Manía de Chocolate!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_SUCCESS >
+¡Chocolate guardado!
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_FAIL >
+No tienes suficiente chocolate...
+
+< GAME_MESSAGE_HLWN2018_CHOOSECANDY >
+Seleccione un caramelo.
+
+< GAME_MESSAGE_HLWN2018_GIVECANDY >
+¿Entregar este caramelo?
+
+< GAME_MESSAGE_CHOOSETARGETPANEL >
+Escoja un panel.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE >
+Apunta a un panel.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE_CARD >
+Apunta a un panel / Juega una carta.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_MULTIPLE >
+Apunta a dos paneles.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND >
+Escoja el panel al que quiere moverse.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND_CARD >
+Escoja el panel al que quiere moverse. / Usa una carta.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_WAITING >
+Esperando a otros jugadores...
+
+< GAME_MESSAGE_XMAS2018_CASTLE_ROTATE >
+Girar a la derecha.
+
+< GAME_MESSAGE_XMAS2018_CASTLE_PLACE >
+Colocar pieza.
+
+< GAME_MESSAGE_XMAS2018_CASTLE_CHANGE >
+Cambiar pieza.
+
+< GAME_MESSAGE_SHOPSTOP >
+¿Quieres detenerte en la tienda?
+
+< GAME_MESSAGE_MONSTERCHALLENGE >
+¿Quieres desafiar a este monstruo?
+
+< GAME_MESSAGE_SUMMER2020_SPEEDUP >
+¡Más rápido!
+
+< GAME_MESSAGE_TELEPORT >
+Escoja el panel al que quiere moverse.
+
+< GAME_MESSAGE_SELECT_PANEL >
+Escoja un panel.
+
+< GAME_MESSAGE_AWAIT_ACTION >
+Esperando la acción del jugador...
+
+< GAME_MESSAGE_PICK_UNIT >
+Escoja una unidad.
+
+< GAME_MESSAGE_PET_PLAYER >
+¿Acariciar a este jugador?
+
+< GAME_MESSAGE_PET_DOG >
+¿Te gustaría acariciar a este perrito?
+
+ < GAME_MESSAGE_CHOOSE_BLUFF >
+¿Qué tipo de carta crees que será la próxima en ser usada?
+
+< GAME_MESSAGE_DECLARE_BLUFF >
+¿Qué tipo de carta quieres mostrarle a los otros jugadores?
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_1 >
+¡La carta que usarás...
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_2 >
+...es esta!
+
+< GAME_MESSAGE_BLUFF_NOTICE >
+Se ha previsto que esta carta será usada por {}.
+
+

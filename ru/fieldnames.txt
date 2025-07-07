@@ -1,0 +1,231 @@
+
+< FIELD_RANDOM >
+Случайное
+
+< FIELD_UNKNOWN >
+Неизвестно
+
+< FIELD_PRACTICE >
+Тренировочное Поле
+
+< FIELD_SPACEWANDERER >
+Звёздный Странник
+
+< FIELD_PUDDINGCHASE >
+Погоня за Пудингом
+
+< FIELD_CHRISTMASMIRACLE >
+Рождественское Чудо
+
+< FIELD_PLANETEARTH >
+Планета Земля
+
+< FIELD_LAGOONFLIGHT >
+Полёт в Лагуне
+
+< FIELD_WARFARE >
+Война
+
+< FIELD_HIGHWAYHEIST >
+Ограбление на Шоссе
+
+< FIELD_SEALEDARCHIVE >
+Запечатанный Архив
+
+< FIELD_SUNSET >
+Закат
+
+< FIELD_TOMOMOABYSS >
+Бездна Томомо
+
+< FIELD_WHITEWINTER >
+Белая Зима
+
+< FIELD_NIGHTFLIGHT >
+Ночной Вылет
+
+< FIELD_CLOVER >
+Клевер
+
+< FIELD_FARM >
+Ферма
+
+< FIELD_STARCIRCUIT >
+Звёздный Круг
+
+< FIELD_TRAININGPROGRAM >
+Учебная Программа
+
+< FIELD_VORTEX >
+Вихрь
+
+< FIELD_SWEETHEAVEN >
+Рай Сладостей
+
+< FIELD_STARSHIP >
+Космический Корабль
+
+< FIELD_FROSTCAVE >
+Морозная Пещера
+
+< FIELD_SHIPYARD >
+Верфь
+
+< FIELD_TREASUREISLAND >
+Остров Сокровищ
+
+< FIELD_TREASUREISLANDNIGHT >
+Остров Сокровищ (Ночь)
+
+< FIELD_WITCHFOREST >
+Ведьмин Лес
+
+< FIELD_ICYHIDEOUT >
+Ледяное Убежище
+
+< FIELD_SAKURA >
+Разборка у Сакуры
+
+< FIELD_WORKSHOP >
+Мастерская Санты
+
+< FIELD_OCEANDIVE >
+Погружение в Океан
+
+< FIELD_OVERTHESEA >
+Над Морем
+
+< FIELD_DARKCITADEL >
+Тёмная Цитадель
+
+< FIELD_BEGINNERTOWN >
+Город Новичков
+
+< FIELD_SCARREDLAND >
+Растерзанные Земли
+
+< FIELD_FUNGUSCAVE >
+Грибная Пещера
+
+< FIELD_WINTERTOWN >
+Город Новичков (Зима)
+
+< FIELD_DESERT >
+Одинокая Железная Дорога
+
+< FIELD_COOP_LAGOONFLIGHT >
+Полёт в Лагуне (Кооператив)
+
+< FIELD_COOP_SUNSET >
+Закат (Кооператив)
+
+< FIELD_COOP_POPPOABYSS >
+Бездна Поппо
+
+< FIELD_COOP_STARCIRCUIT >
+Звёздный Круг (Кооператив)
+
+< FIELD_COOP_SPACEWANDERER >
+Звёздный Странник (Кооператив)
+
+< FIELD_COOP_HIGHWAYHEIST >
+Ограбление на Шоссе (Кооператив)
+
+< FIELD_COOP_FARM >
+Ферма (Кооператив)
+
+< FIELD_COOP_SHIPYARD >
+Верфь (Кооператив)
+
+< FIELD_COOP_TRAININGPROGRAM >
+Учебная Программа (Кооператив)
+
+< FIELD_COOP_NIGHTFLIGHT >
+Ночной Вылет (Кооператив)
+
+< FIELD_COOP_VORTEX >
+Вихрь (Кооператив)
+
+< FIELD_COOP_CYBERSPACE >
+Киберпространство
+
+< FIELD_COOP_PLANETEARTH >
+Планета Земля (Кооператив)
+
+< FIELD_COOP_WITCHFOREST >
+Ведьмин Лес (Кооператив)
+
+< FIELD_COOP_WORKSHOP >
+Мастерская Санты (Кооператив)
+
+< FIELD_COOP_SAKURA >
+Разборка у Сакуры (Кооператив)
+
+< FIELD_COOP_PUDDINGCHASE >
+Погоня за Пудингом (Кооператив)
+
+< FIELD_COOP_TREASUREISLAND >
+Остров Сокровищ (Кооператив)
+
+< FIELD_COOP_TREASUREISLANDNIGHT >
+Остров Сокровищ (Кооператив) (Ночь)
+
+< FIELD_COOP_OCEANDIVE >
+Погружение в Океан (Кооператив)
+
+< FIELD_COOP_OVERTHESEA >
+Над Морем (Кооператив)
+
+< FIELD_COOP_CLOVER >
+Клевер (Кооператив)
+
+< FIELD_COOP_FROSTCAVE >
+Морозная Пещера (Кооператив)
+
+< FIELD_COOP_ICYHIDEOUT >
+Ледяное Убежище (Кооператив)
+
+< FIELD_COOP_STARSHIP >
+Космический Корабль (Кооператив)
+
+< FIELD_COOP_TOMOMOABYSS >
+Бездна Томомо (Кооператив)
+
+< FIELD_COOP_WHITEWINTER >
+Белая Зима (Кооператив)
+
+< FIELD_COOP_BEGINNERTOWN >
+Город Новичков (Кооператив)
+
+< FIELD_COOP_CHRISTMASMIRACLE >
+Рождественское Чудо (Кооператив)
+
+< FIELD_COOP_DARKCITADEL >
+Тёмная Цитадель (Кооператив)
+
+< FIELD_COOP_FUNGUSCAVE >
+Грибная Пещера (Кооператив)
+
+< FIELD_COOP_PRACTICEFIELD >
+Тренировочное Поле (Кооператив)
+
+< FIELD_COOP_SEALEDARCHIVE >
+Запечатанный Архив (Кооператив)
+
+< FIELD_COOP_SWEETHEAVEN >
+Рай Сладостей (Кооператив)
+
+< FIELD_COOP_WHIRLPOOL >
+Водоворот (Кооператив)
+
+< FIELD_CIRCUS >
+Цирк
+
+< FIELD_VOID >
+Пустота
+
+< FIELD_PURES >
+Чистая Марка Ралли
+
+[EOF]
+

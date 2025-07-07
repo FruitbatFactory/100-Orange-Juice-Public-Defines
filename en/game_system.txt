@@ -1,0 +1,132 @@
+
+< GAME_SYSTEM_ROLLTOREVIVE >
+or higher\nto revive!
+
+< GAME_SYSTEM_ROLL_MULTIPLE >
+Roll\n%d dice!
+
+< GAME_SYSTEM_WINNERSCREEN_STARS >
+Stars
+
+< GAME_SYSTEM_WINNERSCREEN_WINS >
+Wins
+
+< GAME_SYSTEM_WINNERSCREEN_FAME >
+Fame
+
+// The following HUD text will require a size smaller or (more or less) equivalent to the english counterpart! Use abbreviations if needed
+// Level (current norma.)
+< GAME_SYSTEM_HUD_LVL >
+LVL
+
+< GAME_SYSTEM_HUD_HP >
+HP
+
+< GAME_SYSTEM_HUD_NORMA >
+Norma
+
+< GAME_SYSTEM_HUD_NORMA_MAX >
+MAX!
+
+< GAME_SYSTEM_HUD_CARDEFFECTS >
+Card effects
+
+< GAME_SYSTEM_HUD_CARDEFFECTS_STACKS >
+Stacks
+
+< GAME_SYSTEM_HUD_CARDEFFECTS_DURATION >
+Duration
+
+< GAME_SYSTEM_SHOP_LEVEL >
+LEVEL %d
+
+< GAME_SYSTEM_SHOP_NO_BONUS >
+No advantage unlocked.
+
+// %% is normal here.
+< GAME_SYSTEM_SHOP_BONUS_1 >
+Additional %d %% chance to have SSR items showing up.
+
+// %% is normal here.
+< GAME_SYSTEM_SHOP_BONUS_2 >
+%d %% item price reduction after other calculations.
+
+< GAME_SYSTEM_SHOP_BONUS_3 >
+An additional %d stars will be given when selling a card.
+
+< GAME_SYSTEM_SHOP_BONUS_4 >
+An additional stock of an item may be available.
+
+< GAME_SYSTEM_SHOP_BONUS_5 >
+Delivering items will give an extra %d stars upon completion of the quest.
+
+< GAME_SYSTEM_SHOP_BONUS_6 >
+Up to two additional stock of an item may be available.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_1_NAME >
+Art of the Sword
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_1_DESC >
+Permanently gain +1 ATK.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_2_NAME >
+Art of the Shield
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_2_DESC >
+Permanently gain +1 DEF.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_3_NAME >
+Art of Evasion
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_3_DESC >
+Permanently gain +1 EVD.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_4_NAME >
+Resolute
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_4_DESC >
+Permanently gain -1 REC.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_5_NAME >
+Stimulation
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_5_DESC >
+Permanently gain +1 Max HP. Your unit will be healed to full upon choosing this upgrade.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_6_NAME >
+Carrier
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_6_DESC >
+Permanently gain +1 hand size and +1 contract hand size.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_7_NAME >
+Premium Membership
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_7_DESC >
+All shop costs (minus the Shady Merchant) will be reduced by 30% after other calculations.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_8_NAME >
+Jogger
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_8_DESC >
+When ending your turn after moving to the end of your final move roll, gain +1 MOV on your next movement roll.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_9_NAME >
+Plentiful Harvest
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_9_DESC >
+Immediately gain 100 stars, and gain the ability to receive stars upon the completion of Bounties.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_10_NAME >
+Home Defense
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_10_DESC >
+Your own home will deal 2 damage to other players if they stop on it.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_11_NAME >
+Commander
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_11_DESC >
+Friendly summons permanently gain +2 Max HP, while being fully controllable. If a friendly summon is on the field, they will be healed to full upon choosing this upgrade. Friendly summons will also be able to complete Bounties.
+
+[EOF]

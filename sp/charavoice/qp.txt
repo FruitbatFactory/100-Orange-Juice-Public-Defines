@@ -1,0 +1,162 @@
+
+<0000> ¡A tirar los dados!
+<0001> ¡Ahí!
+<0002> ¡Ve!
+<0003> ¡Sé bueno conmigo!
+<0004> ¡Lo tengo!
+<0005> ¡Ya verás!
+<0006> ¡Usaré una carta!
+<0007> Muy bien, aquí va una carta.
+<0008> Je je je, colocaré una trampa aquí.
+<0009> Je je ja, es una tram~pa.
+<0010> ¿Quién caerá en esto?
+<0011> *Escurro, escurro*...
+<0012> ¡Usaré esto!
+<0013> ¡Ganaré la batalla con esto!
+<0014> ¡Carta de batalla!
+<0015> ¡La victoria será mía!
+<0016> ¡Modo hiperactivo, activado!
+<0017> ¡Me han revivido!
+<0018> ¡Estoy bien!
+<0019> Es hora de la revancha.
+<0020> No me rendiré aún.
+<0021> Uuuugh, eso no fue nada bueno.
+<0022> Oh no...
+<0023> Eeeeh, parece que no reviviré esta vez...
+<0024> Uuuaaaaa...
+<0025> ¡Atacando!
+<0026> ¡Ahí!
+<0027> ¡Ataque!
+<0028> ¡Toma esto!
+<0029> Ow...
+<0030> ¡Eso duele!
+<0031> ¡Kewww!
+<0032> Uuuugh...
+<0033> Justo ahí...
+<0034> Aaaaah...
+<0035> Me siento mejor.
+<0036> Puedo continuar.
+<0037> ¿A-a dónde me llevan?
+<0038> Me llevan a otro lugar...
+<0039> ¡No no no no noooo!
+<0040> ¡Estoy mareada!
+<0041> Waaaaaaaan...
+<0042> Kewww...
+<0043> Me dieron...
+<0044> Waaaaww...
+<0045> ¡Ya verás!
+<0046> ¡Desafíame!
+<0047> ¡Tienes la guardia baja!
+<0048> Vamos a pelear.
+<0049> ¡Aquí viene!
+<0050> ¡La pelea acaba de comenzar!
+<0051> Oh, ¿vamos a pelear?
+<0052> ¡No perderé contra ti!
+<0053> ¡Tooooma esto!
+<0054> ¡Así!
+<0055> ¡QP al ataque!
+<0056> ¡Eeeeey!
+<0057> Oww.
+<0058> Ugh.
+<0059> ¡Eso duele!
+<0060> ¡Basta ya!
+<0061> Aaaargh...
+<0062> Boohoo...
+<0063> ¡Eso duele mucho!
+<0064> ¡Geh!
+<0065> ¡Agh, detente!
+<0066> ¡Eso no funcionará!
+<0067> Hop.
+<0068> ¡Admira esta hermosa evasión!
+<0069> ¡Gané!
+<0070> ¡Yo gané, yo gané!
+<0071> ¡Lo hice!
+<0072> E~hem, ¿no soy yo la mejor?
+<0073> P-perdí...
+<0074> Gueeee...
+<0075> Hieeee...
+<0076> Eres terrible...
+<0077> ¡Me las llevaré a todas!
+<0078> ¡Estrella, estrellita!
+<0079> ¡Delicioso!
+<0080> ¡Estoy feliz!
+<0081> M-mis estrellas...
+<0082> ¡Gyaaaah!
+<0083> Hieeee...
+<0084> ¡Aaaaah!
+<0085> ¿Eh? ¿Una trampa?
+<0086> ¿Q-qué fue eso?
+<0087> Ugh... caí en la trampa...
+<0088> Ujii... no puedo creer que caí en una trampa...
+<0089> E-ese tipo se ve muy duro...
+<0090> Aterrador...
+<0091> Fueee, aquí viene uno muy fuerte...
+<0092> Siento un peligro muy grande...
+<0093> ¡Nadaré en estrellas!
+<0094> Me gustaría sentir el ruido de las estrellas.
+<0095> ¡Juntaré muchas estrellas!
+<0096> ¡Muchas estrellas, muchos sueños!
+<0097> ¡Acabaré con todos!
+<0098> ¡Es una batalla para ver quién se comerá el bufé!
+<0099> ¡Cuidado con todo el que se meta en mi camino!
+<0100> ¡Ganaré todas las batallas, y el juego también!
+<0101> ¿Requieren de mi ayuda? ¡Cuenten conmigo!
+<0102> ¡QP ya llegó!
+<0103> Sí, soy una perra Pomerania. ¿Algún problema?
+<0104> ¡Sabía que me elegirías a mí!
+<0105> ¡Haré lo mejor que pueda!
+<0106> ¡Aquí voy!
+<0107> ¡Estoy cargada y lista para pelear!
+<0108> ¡Qué excitante!
+<0109> ¡Sí! La victoria es mía!
+<0110> ¿Ya ves lo buena que soy? ¡Gané!
+<0111> ¡Quiero pudín como recompensa!
+<0112> ¡Gané, gané!
+<0113> ¡Ha llegado algo nuevo!
+<0114> ¡Es algo nuevo y brilloso!
+<0115> ¡Esto me hará más fuerte!
+<0116> ¡Hurra, algo nuevo!
+<0117> ¡Déjame pasarte el bastón!
+<0118> ¡Tómalo desde aquí, por favor!
+<0119> ¡Dejaré esto en tus manos!
+<0120> ¡Es hora de cambiar!
+<0121> Okay.
+<0122> Bien.
+<0123> Sí.
+<0124> No.
+<0125> Cómo es que...
+<0126> ¡Hurra!
+<0127> ¿En serio?
+<0128> Vamos.
+<0129> Veamos que hay aquí...
+<0130> ¡Aquí voy!
+<0131> ¡Hola!
+<0132> ¿Qué es lo que haré...?
+<0133> ¡Bien!
+<0134> Vaya, eso es increíble...
+<0135> Oh no...
+<0136> ¡Esta carta es mía ahora!
+<0137> ¡Usará esta carta!
+<0138> Esta carta ha llegado hasta mí... Eso significa que debo usarla, ¿verdad?
+<0139> Muy bien, no sé de qué se trata, ¡pero aun así la usaré!
+<0140> ¿Qué? Y-Yuki...
+<0141> Syura, ¿no estás un poco atrasada con tu trabajo?
+<0142> Siento que hay algo por lo que deberíamos pelear...
+<0143> Es un lindo cascabel.
+<0144> ¡Protegeré el pudín!
+<0145> ¡¿S-santa?! ¡¿De verdad eres tú?!
+<0146> ¡Soy una chica, sabes!
+<0147> ¡Pudín!
+<0148> ¡Ah! ¡¿Alguien que se parece a mí?!
+<0149> P-por alguna razón, no siento que seas un completo extraño...
+<0150> ¡Increíble, señora! ¡Tiene un aroma que atrae a los perros!
+<0151> ¡Bowwow!
+<0152> ¡Natsumi! ¡Vamos a jugar!
+<0153> ¡Síii! ¡Jugaré contigo! ¡Jugaré contigo!
+<0154> ¡M-Me vengaré por todo lo que me has hecho!
+<0155> ¡Oh no! ¡Ha llegado una chica abusiva!
+<0156> ¡Aaah! ¡Por favor! ¡Déja de picotearmeeee!
+<0157> ¡Nooo! ¡¿Por qué le harías eso al pudín?!
+<0158> E-este pudín... ¡se ve peligroso...!
+<0159> ¡¿En dónde está mi pudín?! ¡¿En dónde está?!
+<0160> ¡Fantástico, es pudín! ¡¡¡...Aaaaaaaaargh!!!

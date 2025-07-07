@@ -1,0 +1,159 @@
+<0000> Hmph.
+<0001> How frivolous.
+<0002> Hmm...
+<0003> The result is what matters.
+<0004> Now then, let's make things interesting.
+<0005> I hold my cards close to my chest.
+<0006> This is the time!
+<0007> Let's GO!
+<0008> Now then. What might this be...?
+<0009> Hmph. I have this all planned out in advance.
+<0010> This is a building block of the future.
+<0011> Don't hold this against me.
+<0012> I am always prepared.
+<0013> This will swing things in my favor.
+<0014> Hmph. This should do.
+<0015> This is a calculated risk.
+<0016> Was this the color of the sky I once saw...
+<0017> I have no time to rest on my laurels.
+<0018> Oh? Is it morning again...?
+<0019> Mm... that was an unpleasant dream...
+<0020> It's time to rise and shine.
+<0021> I'll dream just a little while longer...
+<0022> Mmmh.
+<0023> O-oh...
+<0024> I'll just stay here... waiting...
+<0025> Cannons!
+<0026> Open fire!
+<0027> Hmph. There!
+<0028> Go!
+<0029> J-just a scratch.
+<0030> How did this happen?
+<0031> Oh my.
+<0032> Mmh!
+<0033> My thanks.
+<0034> Ahh... that hits the spot.
+<0035> I really needed that.
+<0036> Hrmh, very good.
+<0037> Hmm... this changes things.
+<0038> I see, I see. I must adjust my plans.
+<0039> An unknown sky...
+<0040> Hmph. No matter.
+<0041> Harumph!
+<0042> My dream!
+<0043> This isn't the end! I'll be back...
+<0044> It was good while it lasted.
+<0045> My fight isn't over yet!
+<0046> I believe you are in my way.
+<0047> You'd stand in my way?
+<0048> I'm afraid I must insist.
+<0049> I was waiting for you.
+<0050> I would reconsider if I were you.
+<0051> Try me if you dare!
+<0052> To what do I owe the pleasure?
+<0053> Pardon me.
+<0054> I recommend you make way.
+<0055> Go!
+<0056> This is how you do it!
+<0057> Hmmh!
+<0058> Ooof.
+<0059> Ugh!
+<0060> This is a little...
+<0061> Hnngh!
+<0062> H-hmm!
+<0063> What a blunder!
+<0064> I, I've had worse...
+<0065> Hmph.
+<0066> A worthless effort.
+<0067> Try again!
+<0068> This is but a simple maneuver I learned in my youth.
+<0069> It was only natural.
+<0070> I expected no less.
+<0071> Don't tell me I didn't warn you.
+<0072> I accept your surrender.
+<0073> Not again!
+<0074> I'm going down...!
+<0075> Critical damage...!
+<0076> You win this time.
+<0077> Securing the funding is essential.
+<0078> It's not much, but I will take it.
+<0079> I will make use of these.
+<0080> I'll keep these.
+<0081> A temporary setback...
+<0082> This was not according to plan...
+<0083> What?! This is robbery!
+<0084> The taxes... bah!
+<0085> All of my plans...!
+<0086> What is this?!
+<0087> Well, I'll be...
+<0088> Hmmh... A mistake.
+<0089> Hmph. A worthy challenge.
+<0090> There's no room for both of us in these skies.
+<0091> Bah. You think something like this scares me?
+<0092> How interesting.
+<0093> There are many paths to victory.
+<0094> Hrmh. I will make the sky mine.
+<0095> It has been a while since I chased the stars...
+<0096> This is one path to victory, too.
+<0097> Hmph. I always play to win.
+<0098> My victory is guaranteed.
+<0099> One final victory before I accomplish my dream.
+<0100> For the sake of a new tomorrow.
+<0101> Just call me Malt.
+<0102> Hmph. I'll put you to good use.
+<0103> Hmmh... So the time has come for me to take to the stage again?
+<0104> My dream... is still alive.
+<0105> This is only the beginning.
+<0106> I will seize the future!
+<0107> Is it time to bring my plans to fruition? 
+<0108> All the pieces are coming together.
+<0109> The sky is beautiful, after all.
+<0110> I am still seeing that dream.
+<0111> No one will give you the future you want. You must seize it with your own two hands.
+<0112> The view from here is just like a dream.
+<0113> Don't lose that. It's necessary for my plans.
+<0114> Another piece falls into place.
+<0115> This is only proper.
+<0116> Fumu. Well deserved.
+<0117> Buy me some time, will you?
+<0118> Distract them while I prepare.
+<0119> Go on. Show them what you've got.
+<0120> Hmph. Make me proud.
+<0121> Hmm-h.
+<0122> Not bad.
+<0123> Very well.
+<0124> I refuse.
+<0125> What a pity.
+<0126> Lady luck shines on you today.
+<0127> What is this?
+<0128> Lift off.
+<0129> Time to cast the die.
+<0130> It's time!
+<0131> Well met.
+<0132> Hmm, hmm...
+<0133> Good, good.
+<0134> Excellent.
+<0135> Blasted!
+<0136> I can see the potential in this.
+<0137> Hmph. Watch and learn.
+<0138> I will make this work.
+<0139> Very well. I'll use whatever it takes.
+<0140> Much obliged.
+<0141> Guildmaster? I no longer carry that title.
+<0142> Here I come, rookie!
+<0143> Try and stop me, Red Barrel!
+<0144> It's the duty of the older generation to teach restraint to the young.
+<0145> Hmph. I acknowledge you.
+<0146> So you have come to stop me, old friend?
+<0147> Have you finally decided to join me for a drink? No?
+<0148> Hmph. To be young and rash again...
+<0149> Begone from my skies, pirate scum!
+<0150> Why, hello young miss. Are you with your father again?
+<0151> I wonder what such a lovely young lady would want with an old man like myself.
+<0152> You would bare your fangs at me? Very well.
+<0153> It's not too late to join me again, Miss. I always need good pilots.
+<0154> The symbol of the guild... I must still be dreaming...
+<0155> Ahem. What brings you here, little lady? Are you perhaps lost? 
+<0156> To me, everyo- *cough*, ahem. Old habits...
+<0157> This is how a gentleman should conduct his business.
+<0158> M-miss... I'm not sure where to look.

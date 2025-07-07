@@ -1,0 +1,161 @@
+
+<0000> There!
+<0001> Tah!
+<0002> Dice!
+<0003> I'm counting on you!
+<0004> I'll play a card.
+<0005> Prepare yourself!
+<0006> Let's see if this'll hit or miss.
+<0007> All right, it's time for action!
+<0008> What do you think I just set here?
+<0009> Haha! Here's a trap for you!
+<0010> Let's see who's silly enough to walk into this.
+<0011> Trap set.
+<0012> I'll give myself a boost.
+<0013> Now's the time to use this.
+<0014> Battle card!
+<0015> I'll end you.
+<0016> Leaping!
+<0017> I don't feel good about this. Oh well, I'll just keep going.
+<0018> I'm sick of lying down.
+<0019> Ah, crap, I'm running behind the others.
+<0020> I guess I'll go get some more work done.
+<0021> I think I need a little more rest.
+<0022> Life isn't easy.
+<0023> What's the matter with me...?
+<0024> Dammit!
+<0025> Ta-ta-ta!
+<0026> There!
+<0027> You'd better stop zoning out!
+<0028> You're our game!
+<0029> It freaking hurts.
+<0030> Dang, we got hit.
+<0031> You're good!
+<0032> Au.
+<0033> Much appreciated.
+<0034> Looks like I have my work cut out for me.
+<0035> All right, I'm ready to raise another ruckus.
+<0036> Wow, I feel much better now!
+<0037> I'm getting spirited away!
+<0038> Whoa, what's this?
+<0039> Oh, man.
+<0040> Hiee!
+<0041> That was a bust...!
+<0042> You're very good...
+<0043> Ah, this is bad.
+<0044> Man, this makes us look so uncool...
+<0045> We'll confuse you!
+<0046> Now, let's battle!
+<0047> Are you ready?
+<0048> Amuse us.
+<0049> Oh, you up for a fight?
+<0050> Good, you entertain us, okay?
+<0051> You coming at us?
+<0052> Battle? Sure, bring it!
+<0053> We'll cut you down!
+<0054> Sorry if we injure you.
+<0055> Iai technique!
+<0056> You're in our attack range!
+<0057> Gah.
+<0058> Kuh.
+<0059> Well done.
+<0060> God, that hurts!
+<0061> Not funny at all.
+<0062> We're in so much pain!
+<0063> You bastard!
+<0064> Guaah!
+<0065> Slow as hell!
+<0066> Not good enough.
+<0067> Utsusemi!
+<0068> Smoke ball!
+<0069> Nailed it.
+<0070> It wasn't bad.
+<0071> You can crawl around down there.
+<0072> Enjoy your nap.
+<0073> Crap!
+<0074> We screwed up.
+<0075> You impressed me.
+<0076> You're strong.
+<0077> Is that treasure?
+<0078> That's all mine.
+<0079> I'm supposed to get a lot of these, right?
+<0080> Hehe, lucky me.
+<0081> Hey, wait!
+<0082> No kidding?
+<0083> Aw, what the heck!?
+<0084> Aw, come on!
+<0085> Ugh, clever!
+<0086> Whose trap is this?!
+<0087> I feel so silly.
+<0088> A trap?!
+<0089> We've got a good vibe going.
+<0090> Talk about blood freezing in your veins.
+<0091> A boss is here! This is gonna be interesting.
+<0092> Looks like a pretty tough opponent.
+<0093> A collecting mission, right?
+<0094> Well, I'll gather a bunch of them real quick.
+<0095> With my speed, I'll be done in no time flat.
+<0096> I'll show you a mountain of them.
+<0097> All I have to do is knock everyone out, right?
+<0098> What they call a sneak raid... Is that what I should do?
+<0099> I'm a sports person, after all.
+<0100> Nin nin!
+<0101> We're Mira!
+<0102> Wanna hang out with me? Sure, why not?
+<0103> Join me to kill time, will you?
+<0104> Wanna go out there with me?
+<0105> Let's hit it!
+<0106> I'm gonna be the one to shine the most.
+<0107> Okay, they're my opponents this time, huh.
+<0108> Well, I'll make this work out somehow.
+<0109> This is how good we are.
+<0110> This has been fun.
+<0111> All right, let's party for my victory! Everybody eat and drink!
+<0112> You each owe me a treat!
+<0113> Oh? Is that a ninja tool? No?
+<0114> You got what you wanted? Well, good for you.
+<0115> You're looking good. You that excited?
+<0116> Let's use that thing and win some matches.
+<0117> Okay, you can go now.
+<0118> Time to switch! Don't lag behind, okay?
+<0119> You take this from here. I'm counting on you.
+<0120> Body replacement technique!
+<0121> Okay.
+<0122> I guess that's good.
+<0123> Yeah.
+<0124> Nope.
+<0125> What'd you just say?
+<0126> That's a windfall.
+<0127> Hmm?
+<0128> Let's roll.
+<0129> What number should I roll?
+<0130> Let's go.
+<0131> Hey, how you doing?
+<0132> Ah...
+<0133> All right, you did great.
+<0134> Awesome! And I don't often give compliments.
+<0135> I wouldn't do that.
+<0136> I can even handle tools I'm not that experienced with!
+<0137> Not sure how this works, but I'll play it anyway!
+<0138> This is a hit-or-miss moment.
+<0139> I don't give a damn anymore! Here goes nothing!
+<0140> Yo, shorty! Let's play.
+<0141> Oh, shorty! Looks like you're doing well.
+<0142> A kid like you can't beat us!
+<0143> Oww, those bits of yours are a pain in the butt.
+<0144> Oh! That airplane is super cool!
+<0145> Wow, a blue airplane, huh... That's sick!
+<0146> Let me fly your bird later.
+<0147> Your airplane is cool and strong... Pure perfection!
+<0148> The way you look... Are you one of those magical girls?
+<0149> A magical girl... This is our first time seeing one.
+<0150> Well, just because you're a magical girl doesn't mean you can beat a hero.
+<0151> Ugh, this is the power of a magical girl, huh...
+<0152> Oh, look how fiery she is.
+<0153> What, is she literally on fire...!?
+<0154> Man, that was one intense battle we just had!
+<0155> She's practically radiating heat... Can't beat her.
+<0156> I'm marking here.
+<0157> This is for my jutsu's sake.
+<0158> I'll show you my last resort.
+<0159> You'll be confused.

@@ -1,0 +1,294 @@
+
+< SHOP_LABEL_HOME >
+Inicio
+
+< SHOP_LABEL_CARDS >
+Cartas
+
+< SHOP_LABEL_CHARACTERS >
+Personajes
+
+< SHOP_LABEL_CHALLENGES >
+Desafíos
+
+< SHOP_LABEL_FIELDS >
+Mapas
+
+< SHOP_LABEL_HALLOWEEN >
+Halloween
+
+< SHOP_LABEL_CHRISTMAS >
+Navidad
+
+< SHOP_LABEL_PIGFORMATION >
+Cerdos
+
+< SHOP_LABEL_MISC >
+Otros
+
+< SHOP_LABEL_PETS >
+Mascotas
+
+< SHOP_LABEL_ARCADE >
+Juegos
+
+< SHOP_LABEL_EMOTES >
+Emoticones
+
+< SHOP_LABEL_RETIREDEVENTS >
+Eventos
+
+< SHOP_LABEL_COWKIGU >
+Kigurumis de Vaca
+
+< SHOP_LABEL_TIGERKIGU >
+Kigurumis de Tigre
+
+< SHOP_LABEL_PLAYERPLATES >
+Placas de Jugador
+
+< SHOP_LABEL_DLC >
+DLC
+
+< SHOP_LABEL_ALL >
+Todos
+
+< SHOP_LEVEL >
+Nivel
+
+< SHOP_OFFLINE >
+Sin conexión a Steam.
+
+< SHOP_DLC_SYURANANAKO >
+Syura & Nanako
+
+< SHOP_DLC_SAKIKYOUSUKE >
+Saki & Kyousuke
+
+< SHOP_DLC_MIXED >
+Cartas: Mixtas
+
+< SHOP_DLC_KRILAKAE >
+Krila & Kae
+
+< SHOP_DLC_ALTEKYOKO >
+Alte & Kyoko
+
+< SHOP_DLC_SHAMSHERRY >
+Sham & Sherry
+
+< SHOP_DLC_BREAKERPACK >
+Paquete: Breakers
+
+< SHOP_DLC_ACCELERATIONPACK >
+Cartas: Aceleradas
+
+< SHOP_DLC_NATHTOMATOMIMYUU >
+Nath & Tomato + Mimyuu
+
+< SHOP_DLC_SUGURIHIMEWINTER >
+Suguri & Hime Invernales
+
+< SHOP_DLC_KIRIKONONAME >
+Kiriko & NoName
+
+< SHOP_DLC_STARTERVOICEPACK >
+Voces: Personajes Iniciales
+
+< SHOP_DLC_CEOREPARQUEMIUSAKI >
+Paquete: Brujas
+
+< SHOP_DLC_COREVOICEPACK1 >
+Voces: Núcleo 1º
+
+< SHOP_DLC_YUKITOMOMORENEWAL >
+Yuki & Tomomo Renovadas
+
+< SHOP_DLC_COREVOICEPACK2 >
+Voces: Núcleo 2º
+
+< SHOP_DLC_TSIHTEQUILA >
+Tsih & Tequila
+
+< SHOP_DLC_MEINATSUMI >
+Mei & Natsumi
+
+< SHOP_DLC_IRUMIRA >
+Iru & Mira
+
+< SHOP_DLC_NICOARTHUR >
+Paquete: Tienda de Regalos
+
+< SHOP_DLC_CUTIES >
+Linduras
+
+< SHOP_DLC_ULTIMATEWEAPONGIRL >
+Arma Chica Definitiva
+
+< SHOP_DLC_YUUKIISLAY >
+Yuuki & Islay
+
+< SHOP_DLC_PUDDINGPACK >
+Paquete: Pudín
+
+< SHOP_DLC_SUGURI46SUMIKA >
+Paquete: Guardianas del Pasado
+
+< SHOP_DLC_ELLIELULU >
+Paquete: Viajeras
+
+< SHOP_DLC_RONETEO >
+Alicianrone & Teotoratta
+
+< SHOP_DLC_ARNELLEMAYNIE >
+Arnelle & Maynie
+
+< SHOP_DLC_CHRISKYUPITA >
+Chris & Kyupita
+
+< SHOP_DLC_HALENACOOK >
+Halena & Cook
+
+< SHOP_DLC_RIDERMERCHANT >
+Paquete: Corredores del Desierto
+
+< SHOP_DLC_HIMEFERNETRENEWAL >
+Paquete: Princesas
+
+< SHOP_DLC_MALTMESCAL >
+Malt & Mescal
+
+< SHOP_DLC_SHIFUREIKA >
+Shifu & Reika
+
+< SHOP_DLC_PUDDINGPOP >
+Pudín Pop
+
+< SHOP_DLC_WATTYPOMERANIUS >
+Watty & Pomeranius
+
+< SHOP_DLC_KRILAMIMYUURENEWAL >
+Escape de Prisión Al Estilo Waruda
+
+< SHOP_DLC_ALTEREGOPACK >
+Otro Yo
+
+< SHOP_DLC_STARBAKERBREAKER >
+Star Baker Breaker
+
+< SHOP_DLC_NEWELLIEKAI >
+Hiper Ellie & Kai (Héroe)
+
+< SHOP_DLC_OLDGUARDPACK >
+Bourbon & Grain
+
+< SHOP_DLC_POYOCHUU >
+Poyo & Chuu
+
+< SHOP_DLC_HARUKANA >
+Haruka & Kanata
+
+< SHOP_TOOLTIP_HOME >
+Use las categorías para navegarse.
+
+< SHOP_TOOLTIP_CARDS >
+Compre paquetes de cartas y nuevas unidades que usted haya desbloqueado.
+
+< SHOP_TOOLTIP_CHARACTERS >
+Compre nuevos cosméticos para cada personaje.
+
+< SHOP_TOOLTIP_CHALLENGES >
+Use sus Naranjas para comprar Cajas y/o Cabellos.
+
+< SHOP_TOOLTIP_FIELDS >
+Consiga nuevos mapas en los cuales jugar.
+
+< SHOP_TOOLTIP_EMOTES >
+¡Compra nuevos emoticons para usar en una partida!
+
+< SHOP_TOOLTIP_HALLOWEEN >
+Consiga accesorios para halloween.
+
+< SHOP_TOOLTIP_CHRISTMAS >
+Consiga accesorios navideños.
+
+< SHOP_TOOLTIP_PIGFORMATION >
+Desbloquea cosméticos del evento: "Cuidado con la Cerformación".
+
+< SHOP_TOOLTIP_RETIREDEVENTS >
+Compra las recompensas de ciertos eventos.
+
+< SHOP_TOOLTIP_MISC >
+Desbloquea elementos del juego y entre otras cosas.
+
+< SHOP_TOOLTIP_COWKIGU >
+Desbloquea un nuevo atuendo para todos los personajes.
+
+< SHOP_TOOLTIP_TIGERKIGU >
+Desbloquea un nuevo atuendo para todos los personajes.
+
+< SHOP_TOOLTIP_PETS >
+¡Compra nuevas mascotas!
+
+< SHOP_TOOLTIP_ARCADE >
+¡Usa tus fichas para conseguir premios fabulosos!
+
+< SHOP_TOOLTIP_DLC >
+Compre nuevo contenido descargable con dinero real.
+
+< SHOP_TOOLTIP_ALL >
+Mire todo el contenido de la tienda.
+
+< SHOP_TOOLTIP_PLAYERPLATES >
+¡Compra nuevos fondos, bordes y más para tu placa de jugador!
+
+< SHOP_CRATE_CONTENTS >
+~ Contenido ~
+
+< SHOP_CRATE_LOOT_NONE >
+Ninguno:
+
+< SHOP_CRATE_LOOT_STARS >
+Estrellas:
+
+< SHOP_CRATE_LOOT_HALLOWEEN >
+Accesorios de Halloween:
+
+< SHOP_CRATE_LOOT_CHRISTMAS >
+Accesorios Navideños:
+
+< SHOP_CRATE_LOOT_SUNGLASSES >
+Anteojos de Verano:
+
+< SHOP_CRATE_LOOT_RADPOPPO >
+Poppo, Súper Genial:
+
+< SHOP_CRATE_LOOT_HOMEMARK >
+Hogares:
+
+< SHOP_CRATE_LOOT_POSE >
+Poses:
+
+< SHOP_CRATE_LOOT_HAIR >
+Cabellos:
+
+< SHOP_CRATE_LOOT_DICE >
+Dados:
+
+< SHOP_CRATE_LOOT_ORANGES >
+Naranjas:
+
+< SHOP_CRATE_LOOT_CHARACTER >
+Personajes:
+
+< SHOP_CRATE_LOOT_MYSTERY >
+???
+
+< SHOP_FILTER_OWNED >
+Esconder objetos ya obtenidos
+
+< SHOP_ERROR_INVENTORY_PURCHASE >
+La acción no pudo ser terminada. Por favor, intentelo más tarde.
+
+[EOF]
+

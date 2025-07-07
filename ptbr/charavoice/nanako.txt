@@ -1,0 +1,161 @@
+
+<0000> Hah!
+<0001> Aqui!
+<0002> Ey!
+<0003> Yah!
+<0004> Eu vou jogar isto!
+<0005> É hora de usar isto.
+<0006> Começando agora...!
+<0007> Com isto...
+<0008> Armadilha!
+<0009> Eu acho que vou queimar isto por aqui.
+<0010> Carta de Armadilha!
+<0011> Vamos ver quais dos idiotas vão cair nisso.
+<0012> Eu irei te mostrar o quão perfeita minhas estratégias são!
+<0013> Bom, eu fico imaginando... O quão mais poderosa posso ficar?
+<0014> Que tal você dançar com meus punhos?
+<0015> É como dizem, melhor prevenir do que remediar.
+<0016> Vamos lá, bits!
+<0017> Eu não posso ficar deitada para sempre.
+<0018> Hehehe! Eu estou de volta!
+<0019> Certo então, hora da vingança.
+<0020> Já chega de descansar.
+<0021> Tsk, fiz errado...
+<0022> Eu acho que irei descansar um pouquinho mais.
+<0023> Ahh mas que droga!
+<0024> Por quê?!
+<0025> Já vamos nos preparar!
+<0026> Vá, bits!
+<0027> Eu farei você perecer!
+<0028> Você pode ir em frente e afundar!
+<0029> Ugh!
+<0030> Mas que dor!
+<0031> Maldição!
+<0032> Pare com isso!
+<0033> Estou sendo recuperada...
+<0034> Agora posso ir em frente.
+<0035> Eu gosto disto.
+<0036> É quente.
+<0037> Onde eu vou parar?
+<0038> Me trate com mais cuidado, beleza?!
+<0039> Eu estou voando!
+<0040> O que está acontecendo?!
+<0041> Eu acho que preciso descansar um pouco...
+<0042> Ugh... Eu não posso me mover...
+<0043> Eu vou me deitar um pouco...
+<0044> Ahh, nossa, eu odeio isto...
+<0045> Agora, você está pronto para isto?
+<0046> Bits, é hora de lutar, certo?
+<0047> A diversão começa aqui!
+<0048> Você está pedindo para ser atacado!
+<0049> Desafio aceito! Pode vir!
+<0050> Você deseja lutar comigo? O que você é, um idiota?
+<0051> Hehehe, você vai se arrepender disto!
+<0052> Tsk, que irritante!
+<0053> Ataque!
+<0054> Atire!
+<0055> Consegue se desviar disso?
+<0056> Em formação!
+<0057> Passou por perto...!
+<0058> Não foi tanto dano quanto imaginei!
+<0059> Eu errei na hora de desviar...!
+<0060> Argh!
+<0061> Que dor!
+<0062> Ugh, vocês podem continuar ainda?!
+<0063> Kyaah!
+<0064> Isto não é bom!
+<0065> De jeito nenhum isto irá me atingir!
+<0066> Esta foi uma ação terrível!
+<0067> Você errou!
+<0068> Aonde você está mirando?
+<0069> É somente natural.
+<0070> Você é um tédio.
+<0071> Isso é tudo do que você é capaz?
+<0072> Então, já acabou?
+<0073> Ugh, você é bom.
+<0074> Isto não pode estar acontecendo comigo...
+<0075> Kuuu!
+<0076> Eu irei fazer você pagar por isto depois, marque minhas palavras!
+<0077> Me sinto ótima.
+<0078> Eu aceitarei isto com gratidão.
+<0079> Venha e me deixe ter todos vocês!
+<0080> Hehehe... mais, muito mais!
+<0081> Ei, para onde vocês pensam que estão indo?!
+<0082> Minhas estrelas...!! Ugh!
+<0083> Aargh, droga!
+<0084> Eu errei...
+<0085> O que, uma armadilha?!
+<0086> Isto não é aceitável!
+<0087> Eu não acredito que existe uma armadilha aqui!
+<0088> Aargh, mas que droga, por que existe uma armadilha aqui?!
+<0089> Algo grandioso está por aqui.
+<0090> Mano... É melhor eu me preparar para o que quer que tenha aparecido.
+<0091> Hmph, eu não gosto dessa energia.
+<0092> Aqui vem o poder de verdade.
+<0093> Eu acho que irei escolher estrelas.
+<0094> Eu vou coletar estrelas.
+<0095> Eu irei com estrelas, mas é claro.
+<0096> A ideia é conseguir diveras estrelas, não é mesmo?
+<0097> Eu escolho lutar.
+<0098> Eu irei lutar e ganhar.
+<0099> Eu vou conseguir um montão de vitórias.
+<0100> Vitória é algo simples para mim.
+<0101> Sou a Nanako, e aí?
+<0102> Parece que você precisa de minha ajuda.
+<0103> Certo, eu irei até lá com você.
+<0104> Certo... vamos lá.
+<0105> Nós seremos os vencedores.
+<0106> Bom, como devíamos fazer isto?
+<0107> Os bits estão em boa forma também. Vamos começar.
+<0108> E então o jogo começa.
+<0109> Bom, isso não é surpreendente, né?
+<0110> Eu venci... Bom, acho que eu mereço isso.
+<0111> Estar em primeiro lugar é tão bom.
+<0112> Certo então, eu acho que vou pegar algo para comer.
+<0113> É um novo item.
+<0114> Estamos mais fortes agora.
+<0115> Isto é bom de se ter.
+<0116> Hehe, você está com sorte.
+<0117> Seu turno de ir.
+<0118> Trabalhe duro, beleza?
+<0119> Você consegue.
+<0120> Hora de trocar.
+<0121> Certo.
+<0122> Isto é bom.
+<0123> Aham.
+<0124> Não.
+<0125> Não é nada bom.
+<0126> Você é sortudo.
+<0127> Ãhn?
+<0128> Agora, vamos lá.
+<0129> Eu estou jogando o dado.
+<0130> E lá vou eu.
+<0131> Oi.
+<0132> Hmm.
+<0133> Bom trabalho.
+<0134> Isto é fascinante.
+<0135> Rapaz, pra que isso?
+<0136> Eu vou usar isto.
+<0137> Então este é aquele poder em minhas mãos...
+<0138> Eu consigo tirar o máximo de proveito disto.
+<0139> Agora, vamos ver como irá terminar isto!
+<0140> Kae, é hora de brincar!
+<0141> Você quer brincar comigo? Certo, pode vir.
+<0142> Foi divertido. Devíamos fazer isso outra vez.
+<0143> Hehe, você é muito bom.
+<0144> É você, Kyoko...? Não, quem raios é você?
+<0145> Eu realmente quero bater nele, mas ao mesmo tempo não quero...
+<0146> Fique longe de mim, beleza?
+<0147> Eu me sinto bem com isto ou não... O que há de errado comigo!
+<0148> Ugh... Derrotado por um homem com aquele rosto...
+<0149> Hehe, olhe o quão miserável você é!
+<0150> Na verdade, prefiro gostar de cães.
+<0151> Hey, ainda pensando?
+<0152> Vai logo.
+<0153> O que é que está fazendo demorar tanto?!
+<0154> *Sigh* Eu não me importo de esperar, mas espero que você arrume logo.
+<0155> Bits, ataque com poder máximo!
+<0156> Eu acho que já terminei o aquecimento!
+<0157> Oh, há um pequeno gatinho... Não, na verdade é um humano?
+<0158> Oh, há um pequeno... O que é aquilo?
+<0159> Talvez eu não devia ter destruido?

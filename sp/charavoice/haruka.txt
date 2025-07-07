@@ -1,0 +1,164 @@
+<0000> Ey.
+<0001> Ahí.
+<0002> Hoy.
+<0003> Ahí tienes.
+<0004> ¡Es la hora de usar una carta!
+<0005> Bueno, supongo que usaré esta.
+<0006> ¡Algo me dice que esta es mi oportunidad!
+<0007> Hmm, solo usaré esto.
+<0008> Dejaré una trampa aquí.
+<0009> Este lugar es peligroso. Ten cuidado.
+<0010> Dejaré algo poco seguro aquí con mucho cuidado.
+<0011> Cielos, esta trampa es increíble. ♥
+<0012> ¡Te derrotaré con esta carta!
+<0013> ¡Ganaré esta vez, cueste lo que cueste!
+<0014> ¡Lo siento, pero no tendré piedad!
+<0015> ¡Aquí hay una oportunidaaad!
+<0016> Jeje, esto se está haciendo divertido.
+<0017> Eso estuvo cerca.
+<0018> ¡El juego no ha acabado aún!
+<0019> Ugh, ¿soy solo yo, o acaso me estoy quedando atrás?
+<0020> ¡Vamos a seguir otra vez!
+<0021> No hay mucho que puedes hacer mientras estás en el suelo, ¿eh?
+<0022> Quiero volver al campo de jueegooo.
+<0023> No hay por qué apresurarse. Tomaré un poco de jugo.
+<0024> No es mi día de suerteee.
+<0025> ¡Boom!
+<0026> ¡Ataque!
+<0027> ¡Ahora atacaré!
+<0028> ¡Golpe de karate!
+<0029> ¡Ouch!
+<0030> ¡Oww!
+<0031> Eso no es bueno.
+<0032> ¡Argh!
+<0033> Tengo que prepararme para seguir adelante.
+<0034> Esto es increíble.
+<0035> Mantener un control sobre tus PV es algo importante.
+<0036> Vaya, pensé que estaba acabada.
+<0037> ¡¿Teletransportación?!
+<0038> ¿A dónde es que iré?
+<0039> Awawah.
+<0040> Vaya, una teletransportación.
+<0041> Gyaah.
+<0042> Debes estar bromeando, ¿no?
+<0043> ¡¿En serio?!
+<0044> ¡Me equivoquéee!
+<0045> ¡Voy a cazarte!
+<0046> Voy a derribarte.
+<0047> ¡Creo que las probabilidades de que te derrote son buenas!
+<0048> Luchar en una batalla aquí suena como una buena idea.
+<0049> Así que quieres un pedazo de mí, ¿eh?
+<0050> Entrar en un combate físico no es bueno.
+<0051> Mira cuánta agresividad.
+<0052> No quiero que me patéen el trasero ahora mismo...
+<0053> ¡Puñetazo!
+<0054> ¡Patada!
+<0055> ¡Jonrón!
+<0056> ¡Cáete y muere!
+<0057> ¡Eso dolió!
+<0058> ¡Apestas!
+<0059> ¡Ya basta!
+<0060> ¡Uwaah!
+<0061> ¡Gyan!
+<0062> ¿No podrías haber sido un poco más suave conmigo?
+<0063> ¿Puede algo como esto ocurrir realmente?
+<0064> ¡Estoy en graves problemas...!
+<0065> Tengo reflejos increíbles, ¿no lo crees?
+<0066> ¡Esquivando como una profesional!
+<0067> Puedes esquivarlo, Haruka
+<0068> Eso me pone un poco nerviosa.
+<0069> ¡Síii, gané!
+<0070> Soy buena peleando, ¿no lo crees?
+<0071> Eso es delicioso. ♥
+<0072> ¡Hurra! ¡Lo hice!
+<0073> Ugh.
+<0074> Podría haberlo hecho mejor.
+<0075> Demonios, me equivoqué en eso.
+<0076> Um, demonios.
+<0077> Conseguí un poco de dinero.
+<0078> Vaya, esto se siente genial.
+<0079> ¡Sí, sí!
+<0080> Oh, tuve suerte.
+<0081> ¡Nooo!
+<0082> Debes estar bromeando.
+<0083> ¡Basta! ¡Basta! ¡He dicho baastaaaa!
+<0084> ¡¡¡Ahhh!!!
+<0085> ¿Pero qué? ¿Una trampa?
+<0086> ¿En serio?
+<0087> ¿Aquí, de todos los lugares?
+<0088> ¡Caí en la trampa...!
+<0089> ¡Aquí llega el jefe!
+<0090> Podría estar en problemas.
+<0091> Esto se está haciendo un poco tenso.
+<0092> ¿Podrías patear el trasero de todos menos el mío?
+<0093> Permíteme demostrarte lo buena que soy para guardar dinero.
+<0094> ¡Porque yo quiero ser rica!
+<0095> Tener muchas estrellas se siente increíble, ¿no lo crees?
+<0096> No soy una peleadora increíble, así que... esta es mi elección.
+<0097> ¿A lo mejor me iría un poco mejor si trato la pelea como un deporte?
+<0098> Dada la situación actual, esta sería la mejor elección.
+<0099> Hmm, no estoy segura, ¡pero siento que esta es la mejor elección!
+<0100> ¡Buscaré la pelea!
+<0101> Aquí Haruka. Gusto en conocerte.
+<0102> ¿100% OJ otra vez? ¡Claro, vamos a jugar!
+<0103> ¿Quieres jugar a 100% OJ conmigo? No soy muy buena; ¿tienes algún problema con eso?
+<0104> ¡Siento que este es mi día de suerte, así que probablemente ganaré!
+<0105> ¡Muy bien, hora de seguir adelante!
+<0106> Vamos a jugar bien.
+<0107> ¡Aquí vamos!
+<0108> Hora de comenzar. ♥
+<0109> ¡Hurra! ¡Gané!
+<0110> Eso fue muy divertido. Deberíamos volver a hacer esto en otra ocasión.
+<0111> Creo que últimamente me ha ido muy bien.
+<0112> Esta victoria se siente bien.
+<0113> Me gusta el gacha.
+<0114> No puedes esperar a ver qué es lo que conseguimos, ¿verdad?
+<0115> ¿Acaso has conseguido algo lindo?
+<0116> ¿Acaso vamos a incrementar nuestra fuerza con eso?
+<0117> No me gusta esforzarme demasiado.
+<0118> Debo pedir un cambio de lugares.
+<0119> Muy bien, tú puedes hacerlo.
+<0120> Ya era hora de cambiar de lugar.
+<0121> Te tengo.
+<0122> Oh, eso es el doble de bueno.
+<0123> ¡Sí!
+<0124> Uh-uh.
+<0125> Oh no...
+<0126> ¡Qué suerte! ¡Me alegro por ti!
+<0127> ¿Uuum?
+<0128> Vamos a comenzar.
+<0129> ¡Tiro de dados!
+<0130> ¡Tú puedes hacerlo! ¡Estaré alentando por ti!
+<0131> ¡Hola!
+<0132> Um... ¿Hmm?
+<0133> ¡Bien hecho! ¡Increíble!
+<0134> ¡Eso es súper fantástico!
+<0135> Odio esto...
+<0136> Usaré una de las cartas que robé.
+<0137> Esta carta, vamos a ver si se llevará bien conmigo.
+<0138> Es una apuesta para ver qué ocurrirá.
+<0139> ¡No se me hace familiar, pero espero que funcione!
+<0140> ¡Gracias!
+<0141> ¡Será mejor que no lo digas en voz alta!
+<0142> ¡Lo sé, pero seguir tu instinto también es muy importante!
+<0143> ¡Lo sé, verdad! Puedes seguir con los cumplidos. ♥
+<0144> No lo has hecho, ¿o sí? Te ves un poco nerviosa, Hermanita Mayor. ♥
+<0145> Kana lo está haciendo otra vez, con sus vibras de fuerte-jugadora.
+<0146> Kana está jugando sin pensar mucho...
+<0147> Kana, no seas dura conmigo, ¿está bien?
+<0148> ¡Muy bien, vamos a mostrarles a todos lo bien que nos llevamos!
+<0149> Oh, ahí está Poyo.
+<0150> Vamos a divertirnos, Poyo.
+<0151> Claro que jugaré con todo lo que tengo.
+<0152> ¡Dicen que los que se divierten son los ganadores!
+<0153> Eres tan genial, Sora. Necesito más de ti.
+<0154> Oh, es Sora.
+<0155> Oh dios mío, gané una batalla contra Sora...
+<0156> Increíble, el arma definitiva sí que es muy fuerte.
+<0157> Eh, Kana, ¿te sientes bien?
+<0158> ¡Esa es mi hermana...!
+<0159> ¡Somos las más fuertes!
+<0160> ¡Club de 100% OJ, vamos!
+<0161> ¡Oh dios mío! ¡En verdad son ellas!
+<0162> ¿P-Puedo... tener sus autógrafos...?
+<0163> Cielos, las ídolos son super lindas.

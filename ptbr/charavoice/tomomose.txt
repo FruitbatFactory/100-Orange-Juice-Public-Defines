@@ -1,0 +1,139 @@
+<0000> Oryah!
+<0001> Deey!
+<0002> Uooh!
+<0003> Que tal!
+<0004> Eu estou jogando uma carta!
+<0005> Eu vou te mostrar um pouco de poder mágico!
+<0006> Certo!
+<0007> Carta, carta!
+<0008> Armadilha mágica!
+<0009> Armadilha foi posicionada!
+<0010> Eu vou botar isto aqui.
+<0011> Eu uso armadilhas também.
+<0012> Ataque mágico!
+<0013> Prepare-se!
+<0014> Eu irei com tudo que tenho!
+<0015> Não espere que eu pegue leve contigo.
+<0016> Vingança Mágica!!!
+<0017> Eu errei.
+<0018> Isto não funcionou.
+<0019> Ugh... Eu ainda não consigo levantar.
+<0020> Filho de uma...
+<0021> Mágico!
+<0022> Sey!
+<0023> Doh-sey!
+<0024> Tome isto!
+<0025> Cruzes, isto dói!
+<0026> Ugayh!
+<0027> Mas que raios!
+<0028> Guwah!
+<0029> Isso ajuda bastante.
+<0030> Eu posso continuar seguindo em frente!
+<0031> Eu me sinto tão relaxada.
+<0032> Isso realmente é bom.
+<0033> Estou saltando!
+<0034> Whoa.
+<0035> O que está acontecendo!?
+<0036> Gyaaan.
+<0037> Meu poder mágico irá desaparecer!
+<0038> Raios!
+<0039> A magia vai me deixar!
+<0040> Eu vou perder minha... vontade de jogar o jogo...
+<0041> Emboscada Mágica!
+<0042> Aqui vou eu!
+<0043> Oryaah!
+<0044> Melhor se preparar!
+<0045> Owow!?
+<0046> Um inimigo!?
+<0047> Qual o teu problema?!
+<0048> Oh, você está buscando uma briga?!
+<0049> Mágicoooooo!
+<0050> Ataque!
+<0051> Tome isto!
+<0052> Horyah!
+<0053> Oww.
+<0054> Kya!
+<0055> Ugh.
+<0056> Wah.
+<0057> Buhah!
+<0058> Oh meu deus!
+<0059> Realmente doeu.
+<0060> Minha sede de vingança cresce...!
+<0061> Isto quase me atingiu!
+<0062> Oh céus!
+<0063> Você não pode me acertar.
+<0064> Este é meu poder mágico.
+<0065> Isto é o quão forte eu, Sweet Eater, sou.
+<0066> Ebaaa, paz!
+<0067> Essa foi uma batalha dura.
+<0068> Venci.
+<0069> Guwah!
+<0070> Por quêêêêêêê?!
+<0071> Eu não acredito que perdi...
+<0072> Ueeeeh!
+<0073> A fonte de meu poder mágico~
+<0074> Isto é incrível!
+<0075> Estrelas!
+<0076> Perfeito!
+<0077> Gyaaan!
+<0078> Mas que raios!
+<0079> Oh não!
+<0080> Nãoooo!
+<0081> De jeito nenhum!
+<0082> Raios, eu cai nessa!
+<0083> Droga!
+<0084> Eita, eu pisei em alguma coisa!?
+<0085> Existe algo...
+<0086> Nossa, posso sentir bastante poder.
+<0087> Certo, isso será interessante.
+<0088> As coisas estão mais empolgantes agora!
+<0089> Eu farei um mar de estrelas.
+<0090> Eu vou conseguir para mim uma montanha de estrelas!
+<0091> Eu farei de todas as estrelas por aí minhas.
+<0092> Eu serei a melhor parte deste jogo.
+<0093> Ninguém pode me derrotar!
+<0094> Eu vou esmagar todo mundo com minha magia!
+<0095> Pois eu sinto que posso derrotar qualquer um agora.
+<0096> Certo, eu vou queimar todos até virarem cinzas!
+<0097> Isto é do que eu realmente sou capaz.
+<0098> Sweet Eater Tomomo!
+<0099> Ebaaa, sou a vencedora!
+<0100> O que vocês acham da minha magia?
+<0101> Oh? Você encontrou algo?
+<0102> Oh, parece ser algo bom.
+<0103> Nós conseguimos algo bom!
+<0104> Ótimo, hehe!
+<0105> Quer trocar?
+<0106> Vou te deixar cuidar do resto.
+<0107> Boa sorte.
+<0108> Você consegue!
+<0109> Ok!
+<0110> Ótimo.
+<0111> Claro.
+<0112> Non!
+<0113> Ueeh~
+<0114> Você teve sorte.
+<0115> Hmm?
+<0116> Vamos lá!
+<0117> Hoooy!
+<0118> Você consegue.
+<0119> Oi!
+<0120> Hmm~?
+<0121> Isto é bom.
+<0122> Isto é incrível. Estou impressionada!
+<0123> Arghghghgh.
+<0124> A magia de outra pessoa!
+<0125> E-eu não roubei isso!
+<0126> Eu vou usar isso de qualquer forma!
+<0127> Essa é uma mágica que eu não conheço!
+<0128> Muito obrigada!
+<0129> A mais forte garota mágica, Sweet Eater Tomomo, está aqui!
+<0130> Transformação! Uooooh!
+<0131> Eu estou cheia de poder mágico agora!
+<0132> Eu estou empolgada neste momento!
+<0133> Eu vou te dar o finalizador!!!
+<0134> Minha vingança foi concluída!
+<0135> Este é o poder da minha vingança!
+<0136> Queime até virar cinzas!
+<0137> Existe um tanto de garotas mágicas por aqui!
+<0138> Quem é a Deusa dos Doces mais poderosa...? Nós vamos descobrir agora!

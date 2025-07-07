@@ -1,0 +1,151 @@
+<0000> Heey.
+<0001> Aqui vou eu.
+<0002> Aqui vai.
+<0003> Ok.
+<0004> Eu vou usar esta carta.
+<0005> Aquiiiiiii.
+<0006> Este aqui.
+<0007> Aaay.
+<0008> Lá vai.
+<0009> Posso só deixar isto aqui?
+<0010> Eu vou apenas botar isto aqui.
+<0011> Este painel parece bom.
+<0012> Eu não quero ter que me esforçar~.
+<0013> Weeeey.
+<0014> O que é que esta carta faz mesmo?
+<0015> Deveria usar isto agora?
+<0016> Gelo Milagroso do Feijão Vermelho~
+<0017> Hoee, eu já tenho que levantar?
+<0018> Eu preciso dormir um pouco mais~
+<0019> Tá, certo, eu vou levantar...
+<0020> Hmmm.
+<0021> Eu vou apenas dormir um pouco mais.
+<0022> Ficar só de preguiça é muito bom~
+<0023> Eu não quero ter que levantar nunca mais.
+<0024> Certo, eu posso descansar mais.
+<0025> Tey.
+<0026> Yoh!
+<0027> Oryah!
+<0028> Soi!
+<0029> Ai.
+<0030> Qual o teu problema?
+<0031> Um... O que foi isso?
+<0032> Maaano.
+<0033> Aaaaaaaah.
+<0034> Essa atingiu em cheio~
+<0035> Isso é o melhor~
+<0036> É uma sensação muito boooooa!
+<0037> Ew.
+<0038> Nãooo.
+<0039> Ueeeh.
+<0040> O que está acontecendo?
+<0041> É o meu fim...
+<0042> Hora da pausa.
+<0043> Eu vou tirar um cochilo~
+<0044> Boa noite!
+<0045> Mano, você está no meu caminho.
+<0046> Certo, eu estou pronta para fazer isto.
+<0047> Vamos lá.
+<0048> Prepare-se para ser derrotado.
+<0049> Bom, a gente realmente não deveria fazer isto.
+<0050> Nãooo, eu não quero me mover.
+<0051> Por que eu?
+<0052> Permita-me descansar...
+<0053> Eyeeey.
+<0054> Yoo-yoo.
+<0055> Orya-rya.
+<0056> Tome isto.
+<0057> Ai.
+<0058> Para com isso!
+<0059> Tem muito mais que eu posso aguentar.
+<0060> Você é terrível.
+<0061> Essa foi o pior.
+<0062> Isto é muita dor.
+<0063> Meu corpo inteiro dói.
+<0064> Gyaaaaah.
+<0065> Eu não faço ideia de como isto não me atingiu...
+<0066> Ãhn? Nem doeu.
+<0067> Cuidado!
+<0068> Você me assustou!
+<0069> Ebaaa.
+<0070> Yippee.
+<0071> É, isso, venci.
+<0072> Eu te derrotei... Você está passando mau hoje?
+<0073> Argh.
+<0074> Fui bullinada...
+<0075> Eu sei que sou uma mulher adulta, mas posso chorar?
+<0076> Guhee.
+<0077> Estas são pesadas.
+<0078> Eu não consigo carregar tantas.
+<0079> Estou me afogando em estrelas.
+<0080> E-eba.
+<0081> Estou me sentindo muito mais leve agora.
+<0082> Ah, deixei cair algumas delas...
+<0083> Para onde vocês estão indo?
+<0084> Uh... Ah, bem.
+<0085> Gue! O que raios é isto?
+<0086> Quem fez isto!
+<0087> Isto é horrível. Realmente horrível.
+<0088> Me ajude.
+<0089> As coisas estão um tanto irritantes por aqui agora.
+<0090> Mas o quê? Temos algo louco aqui.
+<0091> Eu só quero viver uma vida pacífica...
+<0092> Ah, isto parece um problemão.
+<0093> Este parece melhor se eu tiver que escolher, imagino?
+<0094> Bom, isto parece melhor do que ter que lutar.
+<0095> Sim, claro, eu vou lá juntar um montão delas.
+<0096> Certo, vou ficar super rica com estrelas.
+<0097> Eu apenas farei uma escolha aleatória.
+<0098> Bom, este aqui.
+<0099> Irei com este aqui.
+<0100> Eu acho que vou precisar de um pouco de exercício para perder um pouco da gordura na minha barriga...
+<0101> Ãhn? Este é meu turno?
+<0102> Eu ia aproveitar parar tirar uma folga hoje.
+<0103> Nãooo, eu quero ficar na cama.
+<0104> Eu só quero ficar parada sem fazer nada...
+<0105> Uuh, vamos nos divertir, galera.
+<0106> Creio que vou dar meu melhor...
+<0107> Qual é a definição de tentar bastante?
+<0108> Vamos lá...
+<0109> Agora eu irei direto de volta para cama.
+<0110> Eu posso finalmente descansar...
+<0111> Boa... noite...
+<0112> Ebaaa, eu consegui, whoo-hoo.
+<0113> Aqui, toma isto.
+<0114> Nós temos algo novo.
+<0115> Oh, isto parece bom. Vamos ver.
+<0116> Aqui.
+<0117> Vou sair daqui.
+<0118> Você consegue.
+<0119> Certo, vou parar um pouco.
+<0120> Eita, eu estava pensando em dar uma pausa, obrigada.
+<0121> Ok.
+<0122> Bom trabalho.
+<0123> Certo.
+<0124> Não, nunca!
+<0125> O quêêêêê?
+<0126> Sortudo.
+<0127> Ueeeh?
+<0128> Eu acho que vou tentar um pouquinho...
+<0129> Hora do dado.
+<0130> Você consegue~
+<0131> Yo!
+<0132> Hmmaaah.
+<0133> Incrível.
+<0134> Sério? Isso é incrível.
+<0135> Ugh... Ugh...
+<0136> Por que eu ainda tenho isto?
+<0137> Bom, tanto faz, vou apenas jogar isto.
+<0138> O que é isto?
+<0139> Lá vai!
+<0140> Obrigada.
+<0141> Nãooo! Minha pausa não pode já ter terminado!
+<0142> O quê? Ninguém me disse que eu teria que levantar tão cedo.
+<0143> Apenas... mais 5 minutos...
+<0144> Permita-me descansar um pouco ma-... Um pouco mais...
+<0145> Wheee, cochilo em grupo.
+<0146> Mano, nada como cochilar com todo mundo.
+<0147> Não é esta a definição de felicidade?
+<0148> Devíamos todos tirar um cochilo.
+<0149> Festa do sono.
+<0150> *Mastiga mastiga come come*...

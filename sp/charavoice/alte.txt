@@ -1,0 +1,161 @@
+<0117> Debemos cambiar.
+<0118> Cuento contigo.
+<0119> Tú lo seguirás desde aquí.
+<0120> ¿Puedes tomar mi lugar?
+
+<0000> ¡Ahí!
+<0001> ¡Ja!
+<0002> Hagámoslo.
+<0003> Cuento contigo.
+<0004> Usaré una carta.
+<0005> Te mostraré qué es lo que puedo hacer.
+<0006> Aquí voy.
+<0007> Usaré esta.
+<0008> Aquí va una trampa.
+<0009> Ve con cautela o prepárate para sentir mucho dolor.
+<0010> Y ahora, conseguiré que alguien caiga en la trampa.
+<0011> No seré una experta en esto, pero vale la pena intentar.
+<0012> Esto asegurará mi victoria.
+<0013> No aceptaré ser derrotada.
+<0014> Te aplastaré.
+<0015> Esto te acabará.
+<0016> No puedo... perder aquí...
+<0017> Pensé que nunca volvería.
+<0018> Esto no ha acabado aún. Todavía puedo pelear.
+<0019> Ugh, me estoy quedando atrás de todos los demás.
+<0020> No puedo seguir perdiendo el tiempo aquí tirada.
+<0021> ¿Qué?
+<0022> Todavía no.
+<0023> Demonios...
+<0024> Ugh.
+<0025> Te dispararé.
+<0026> Dejaré un agujero en tu cuerpo.
+<0027> Alto ahí.
+<0028> Estoy segura de que te derribaré.
+<0029> Guh.
+<0030> Esto no es nada...
+<0031> ¿¡Qué!?
+<0032> Puedo continuar...
+<0033> Eso ayuda.
+<0034> Lo aprecio mucho.
+<0035> Muy bien, ya estoy lista para regresar.
+<0036> Debería estar bien por ahora...
+<0037> ¿¡Estoy volando...!?
+<0038> ¿A dónde me llevarán?
+<0039> Pero qué... ¿A dónde voy?
+<0040> ¡Uwah!
+<0041> Debo... continuar.
+<0042> No tengo tiempo para... descansar.
+<0043> Demonios... Me equivoqué.
+<0044> Puedo... seguir... peleando.
+<0045> ¿Qué estás mirando?
+<0046> Comencemos la batalla.
+<0047> ¿Todo listo?
+<0048> Es hora de decidir quién es más fuerte.
+<0049> Así que quieres pelear.
+<0050> Hmph, qué superficial.
+<0051> No creas que soy una presa fácil.
+<0052> Ugh, un ataque sorpresa.
+<0053> Fuego.
+<0054> Te atacaré.
+<0055> Solo te permitiré caer.
+<0056> Toma esto.
+<0057> ¡Guh!
+<0058> Es solo un rasguño.
+<0059> No es nada.
+<0060> No hay de qué preocuparse.
+<0061> ¡Guah!
+<0062> Recibí un disparo directo.
+<0063> Me diste.
+<0064> *¡Tsk!*
+<0065> No puedes darme.
+<0066> Una evasión exitosa.
+<0067> Lo esquivaré.
+<0068> Eso no es lo suficientemente bueno.
+<0069> No admitiré la derrota.
+<0070> Te permitiré descansar ahí por un rato.
+<0071> Bien, hora de seguir adelante.
+<0072> Un resultado poco sorpresivo.
+<0073> ¿¡Qué, perdí!?
+<0074> No... No puedo creerlo...
+<0075> Ugh.
+<0076> Argh... Demonios.
+<0077> Recargaré mis municiones.
+<0078> Recogeré un poco de estas.
+<0079> Estas serán necesarias.
+<0080> Gracias al cielo.
+<0081> Oh ratas.
+<0082> Mis estrellas...
+<0083> Perdí algunas estrellas.
+<0084> Ugh, perdí algunas.
+<0085> ¿Una trampa?
+<0086> ¿Qué es lo que sucede conmigo?
+<0087> Debí haber sido más cuidadosa.
+<0088> ¿Una trampa...? Demonios.
+<0089> ¿Qué es este objeto tan extraño?
+<0090> Algo acaba de salir.
+<0091> Aquí viene... ¡Adelante!
+<0092> Primero calentaré un poco.
+<0093> Iré por estrellas.
+<0094> Estrellas...
+<0095> Comenzaré la búsqueda de estrellas.
+<0096> Esto debería ser más calmo que pelear sin razón.
+<0097> Debo seguir ganando.
+<0098> Esto será un trabajo simple y fácil.
+<0099> Les mostraré todo mi poder.
+<0100> La victoria será mía.
+<0101> Soy Alte.
+<0102> Sí, hagámoslo.
+<0103> Muy bien, comencemos.
+<0104> Puedes contar conmigo.
+<0105> Es la hora de comenzar con el juego.
+<0106> Me apoderaré de la victoria de inmediato.
+<0107> Así que este es el campo de batalla.
+<0108> Ganaré y regresaré a casa.
+<0109> Ya está, es la hora de regresar a casa.
+<0110> Al fin ha terminado.
+<0111> Bien, pude hacerlo.
+<0112> Eso es.
+<0113> Conseguiste algo.
+<0114> ¿Era esto lo que tú querías?
+<0115> Fufu, pareces estar muy feliz.
+<0116> Ah, bien por ti.
+<0121> Sí.
+<0122> Eso me gusta.
+<0123> Bien.
+<0124> Eso no es bueno.
+<0125> ¿Qué?
+<0126> Tienes suerte.
+<0127> ¿Hm?
+<0128> Comencemos con esto.
+<0129> Es la hora de tirar los dados.
+<0130> Adelante.
+<0131> ¿Cómo estás?
+<0132> Hmm...
+<0133> Bien.
+<0134> Eso es sorprendente.
+<0135> Oh no...
+<0136> Usaré todo lo que tengo.
+<0137> Veamos qué es lo que hace esto.
+<0138> No me importa si esto le pertenece al enemigo o no.
+<0139> Normalmente no pensarías que yo usaría esto.
+<0140> ¡Te derribaré esta vez!
+<0141> ¡Ugh! ¡Así que tú eres mi oponente, modelo nuevo!
+<0142> No pienses que eres mejor que yo.
+<0143> Ugh, después de todo, sí eres un monstruo...
+<0144> ¿Qué es lo que hace un niño como tú aquí?
+<0145> Un niño como tú osa desafiarme... ¿¡En serio!?
+<0146> Vete a casa antes de que te lastimen.
+<0147> Ugh, no pareces ser un niño común y corriente...
+<0148> No pensaba que te encontraría a ti en un lugar como este.
+<0149> Ugh, tienes un aura muy siniestra...
+<0150> Quiero que te quedes aquí por todo el tiempo que sea necesario.
+<0151> ¿Acaso me quemarás junto con los demás?
+<0152> Hm, eso es un cuchillo de cocina... ¿Sabes cocinar?
+<0153> ¿¡Eres una cocinera!?
+<0154> Bueno... eh... ¿Me podrías... enseñar a cocinar...?
+<0155> Ugh, la forma en la que usas ese cuchillo... no eres normal.
+<0156> ¿Estoy en la guerra otra vez? Esto no me gusta.
+<0157> ¿Por qué con estas personas...?
+<0158> Tomaré esto como un ejercicio militar...
+<0159> Un ejercicio con estas personas... ¿Funcionará?

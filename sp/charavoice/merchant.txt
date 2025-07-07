@@ -1,0 +1,160 @@
+<0000> Listo.
+<0001> Aquí voy.
+<0002> Todo indicaría que debo tirar un dado aquí.
+<0003> Permíteme tirar un dado.
+<0004> Supongo que debería usar una carta aquí, sí, debería hacer eso.
+<0005> Diría que esta es una buena inversión.
+<0006> ¡Sin aventuras no hay fortunas!
+<0007> Mi intuición dice que esta es la decisión correcta.
+<0008> Esta será una oferta a la que no podrán resistir...
+<0009> La discreción es la mejor parte del valor, sí que lo es.
+<0010> Un buen producto se vende por si mismo.
+<0011> Un hombre sabio planea con anticipación...
+<0012> Hora de invertir.
+<0013> Debería usar todo lo que tengo, sí, debería hacer eso.
+<0014> ¡Debo seguir adelante!
+<0015> Hmm, podría usar esta...
+<0016> ¡La carga está lista! ¡Es hora de entregarla!
+<0017> No puedes deshacerte de un hombre de negocios por mucho tiempo, no, no puedes hacer eso.
+<0018> ¡A levantarse y brillar! ¡Sí, claro que lo haré!
+<0019> Ya basta, no más retrasos.
+<0020> Debo compensar por el tiempo que he perdido.
+<0021> Qué mala suerte...
+<0022> Esperaré unos minutos... sí, claro que lo haré...
+<0023> Qué pérdida de tiempo.
+<0024> Esto es lo peor.
+<0025> ¡Espera, espera, espera un momento!
+<0026> ¡Acepta esta oferta!
+<0027> ¡Firma aquí!
+<0028> ¡Haz tu orden!
+<0029> ¡Guh!
+<0030> ¡¿Qué fue eso?!
+<0031> ¡Eh, ya fue suficiente!
+<0032> ¡¿Por qué?!
+<0033> No hay nada que el tiempo y el dinero no puedan curar.
+<0034> Ah, eso está mucho mejor.
+<0035> Mmm, eso sí que es bueno.
+<0036> Excelente servicio.
+<0037> ¡Uwah!
+<0038> ¡¿Una oportunidad repentina...?!
+<0039> Ejem... Parece que he perdido la compostura por un segundo.
+<0040> ¡Uwoh...!
+<0041> ¡Maldición!
+<0042> Parece que tendré que pagarle al barquero...
+<0043> ¡El que temprano duerme, temprano amanece!
+<0044> Debería pensar en esto...
+<0045> ¡Es la hora de pagar la cuenta!
+<0046> ¡A subir la apuesta!
+<0047> Tú serás la fuente de mis ingresos, ¿no es así?
+<0048> Hay veces donde tienes que librarte de la competición.
+<0049> ¡Si quieres jugar duro, jugaremos duro!
+<0050> Sí, pero claro.
+<0051> ¡Si piensas que mi tren es un blanco fácil, te espera algo aún mejor!
+<0052> Tú quieres quedarte con mi cargamento, ¿no es así?
+<0053> ¡Velocidad de embestida!
+<0054> ¡Ahí!
+<0055> ¡Muy bien, entrégalo!
+<0056> ¡¿Por qué no tomas esto?!
+<0057> ¡Tú...!
+<0058> ¡Ugh!
+<0059> ¡Ten cuidado, el cargamento es frágil!
+<0060> ¡Ya basta!
+<0061> ¡Te haré pagar por eso! ¡Literalmente!
+<0062> ¡Pagarás por eso! ¡Sí, claro que lo harás!
+<0063> ¡Ugyoooh!
+<0064> ¡Gyaah!
+<0065> No puedes detenerme, ¿acaso no lo ves?
+<0066> ¡No bajaré la velocidad! ¡No, no lo haré!
+<0067> ¡Cielos!
+<0068> Eso estuvo cerca.
+<0069> Hemos hecho un buen negocio.
+<0070> Otro cliente satisfecho.
+<0071> ¡Me complace hacer negocios contigo!
+<0072> ¡Hasta nunca, idiota!
+<0073> ¡Un bobo a la luz del día! ¡Es decir, robo!
+<0074> ¡Maldición! He fallado...
+<0075> Parece que he apostado en el caballo equivocado... sí, lo hice.
+<0076> ¡Tacaño!
+<0077> ¡Nada mejor que dinero gratis!
+<0078> ¿Dices que el dinero no puede comprar la felicidad? ¡Ja!
+<0079> ¡De búsquedas a tesoros!
+<0080> ¡He conseguido el premio mayor! ¡Sí, lo hice!
+<0081> ¡Qué torpeza...!
+<0082> ¡No, mis ahorros...!
+<0083> Lo que fácil viene, fácil se va...
+<0084> Hasta nunca, mis sueños...
+<0085> ¡¿Ugyah?!
+<0086> ¡¿El cargamento?!
+<0087> ¡¿Acaso mi cargamento se encuentra en buen estado?!
+<0088> ¡Una emboscada!
+<0089> ¡Hmm, un cliente difícil!
+<0090> Esta será una negociación dura.
+<0091> Hmm... no pareces ser fácil de complacer.
+<0092> A lo mejor debería escoger otro camino...
+<0093> Hora de hacer un poco de dinero.
+<0094> Negocios, como siempre.
+<0095> ¡El dinero es lo que causa que el mundo gire!
+<0096> ¡Todo se trata del dinero!
+<0097> ¿A cuántos clientes podré apetecer el día de hoy?
+<0098> Les haré una oferta a la que no podrán resistir. ¡No, no podrán!
+<0099> ¡El dinero es poder!
+<0100> Un tonto y su dinero pronto se irán. ¡Sí, se irán!
+<0101> ¿Me llamabas?
+<0102> ¿Necesitas mis servicios?
+<0103> Siempre estoy listo para hacer negocios, sí, lo estoy.
+<0104> ¿Necesitas entregar un cargamento?
+<0105> Compra a bajo precio, vende a precio alto.
+<0106> ¡Entregaremos esto más rápido que los demás! ¡Sí, lo haremos!
+<0107> ¡El objetivo será una entrega rápida!
+<0108> El reloj ha empezado a moverse.
+<0109> ¡Somos los mejores negociantes! ¡Sí, lo somos!
+<0110> ¡Nuestros términos no podrán ser superados!
+<0111> ¡Todo el mercado es mío!
+<0112> ¡Siempre obtengo el primer lugar en todo!
+<0113> ¿Me pregunto si esto podrá venderse bien?
+<0114> ¡Un objeto excelente, sí, excelente!
+<0115> Este cliente tiene un ojo desconcertante.
+<0116> ¡Qué artículos tan extraños!
+<0117> ¡Lo siento, tengo que irme!
+<0118> Tengo otro pedido que realizar, sí que debo volar.
+<0119> ¡Recuerda, no hay pago si fallas!
+<0120> ¡Tú serás el responsable de la carga ahora!
+<0121> Es un trato.
+<0122> ¡Excelente!
+<0123> ¡Hecho!
+<0124> Ja, claro que no.
+<0125> No te preocupes, uno nunca podrá ganar en todo.
+<0126> ¡La fortuna sonríe sobre nosotros!
+<0127> ¿Qué es eso?
+<0128> ¡Conseguiremos un nuevo récord!
+<0129> ¡Siento que este será el dado que nos llevará a la victoria!
+<0130> ¡Es la hora de rodar!
+<0131> Vaya, ¿qué tal?
+<0132> Fumu fumu...
+<0133> Fufu, excelente.
+<0134> ¡Maravilloso!
+<0135> ¡Maldiciones!
+<0136> No malgastes, y nada te faltará.
+<0137> La basura de uno es el tesoro de otro.
+<0138> ¡El que lo encuentre se lo queda!
+<0139> Haremos que trabajen para nosotros.
+<0140> ¡Mantente lejos de mi camino!
+<0141> ¿Necesitas otra entrega? ¡Yo te cubriré, sí, lo haré!
+<0142> ¡El tiempo es oro!
+<0143> ¡Un centavo guardado es un centavo ahorrado!
+<0144> Hora de cortar mis perdidas...
+<0145> ¡Fujuju! Esta es la razón por la cual uno establece conexiones.
+<0146> ¡Tu pedido, mi entrega! ¡Deberías agradecerte por lo que hemos podido realizar!
+<0147> Oh, siento el aroma de otro negociante, sí, lo siento.
+<0148> Firma aquí, por favor...
+<0149> ¡Tu sí que eres un negociante duro!
+<0150> ¡Y un buen día para ti!
+<0151> Hazme saber si necesitas más. ¡Tenemos un buen plan de reabastecimiento!
+<0152> Mm, este compromiso podría valer la pena.
+<0153> Tomaré eso como una pérdida para mí.
+<0154> ¡Parece que tú podrías usar unas pequeñas mejoras!
+<0155> ¡Permíteme hacer una contrapropuesta!
+<0156> Estoy a tiempo, sí, lo estoy.
+<0157> ¡Otra entrega perfecta!
+<0158> Espero que esto no te importe.
+<0159> ¡Ni la nieve o la lluvia no podrán detenerme! ¡No, no podrán!

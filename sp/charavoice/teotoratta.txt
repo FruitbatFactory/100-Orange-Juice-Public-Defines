@@ -1,0 +1,160 @@
+<0000> Ahí.
+<0001> Y ahí va.
+<0002> ¡Yah!
+<0003> ¡Tiraré esto!
+<0004> ¡Aquí va una carta!
+<0005> ¡Usaré esto! ¡Cómo lo ves!
+<0006> Usaré esto, ¿está bien?
+<0007> No puedo esperar a ver el resultado de esto.
+<0008> ¿Dejaremos una trampa aquí?
+<0009> ¿Acaso lo estoy haciendo bien?
+<0010> Hmm, probablemente debería ser algo como esto.
+<0011> Aquí va una carta trampa.
+<0012> Aquí va una carta de batalla.
+<0013> ¡Soy fuerte incluso sin la ayuda de esto! ¡Pero lo usaré de todos modos!
+<0014> ¡¿Esta carta te hace más fuerte?! ¡Eso es increíble!
+<0015> ¡Voy a usar esto! ¡Estoy segura de que aumentará mi poder!
+<0016> ¡Awooo! ¡Bestias, necesito sus poderes!
+<0017> Metí la pata...
+<0018> ¡Esto todavía no ha terminado...!
+<0019> ¡Puedo hacerlo otra vez!
+<0020> ¡Muy bien, la hora de descanso se ha terminado!
+<0021> ¡¿Acaso estás bromeando?!
+<0022> Oh no, pensé que podría levantarme.
+<0023> Qué he hecho...
+<0024> Ugh. ¿Todavía no? ¿No?
+<0025> ¡Ey!
+<0026> ¡Oryah!
+<0027> ¡Tey!
+<0028> ¡Tú...!
+<0029> ¡Ouch!
+<0030> ¡Owah!
+<0031> ¡Vamos!
+<0032> ¡Demonios!
+<0033> Muy bien, ahora estoy repleta de energía.
+<0034> Esto se siente muy bien, podría quedarme dormida.
+<0035> Me siento mucho mejor ahora.
+<0036> Nunca he estado mejor.
+<0037> ¡Owaaah!
+<0038> ¿A qué se debe esto?
+<0039> ¡Muwaaah!
+<0040> ¡Girando...! ¡Girando!
+<0041> Mee aaatraaapaaróoon...
+<0042> Debería haber estado más alerta...
+<0043> No puedo seguir en pie...
+<0044> Descansaré aquí por un momento...
+<0045> ¡Ahora pelearás contra mí!
+<0046> ¡Rawr!
+<0047> Esto es lo que la bruja salvaje puede hacer.
+<0048> ¡Meow! ¡Quiero jugar contigo!
+<0049> ¿Quieres jugar conmigo? ¡Está bien!
+<0050> Muy bien, adelante.
+<0051> Has cometido un grave error al desafiar a la bruja salvaje.
+<0052> ¡Haré que te arrepientas de esto!
+<0053> ¡Ataque de cola!
+<0054> ¡Te golpearé con mi cola!
+<0055> ¡Cómo lo ves!
+<0056> ¡Toma esto! ¡Yah!
+<0057> ¡Kyua!
+<0058> ¡¿Qué es lo que haces?!
+<0059> Uh oh.
+<0060> ¡Ojaah!
+<0061> ¡Eso dolió mucho!
+<0062> ¡¿Por qué harías eso?!
+<0063> ¡¿Qué es lo que yo te he hecho?!
+<0064> ¡Detesto ser lastimada!
+<0065> Eso nunca me dará.
+<0066> ¡Admira mis rápidos movimientos!
+<0067> ¡Ku-ku-ku! Soy demasiado rápida para ti, ¿no es así?
+<0068> Eres demasiado lenta.
+<0069> Esa fue una victoria fácil.
+<0070> Eso fue divertido.
+<0071> ¿Ya has tenido suficiente?
+<0072> *Suspiro*... Quería divertirme un poco más.
+<0073> ¡Ugyaah! ¡Me han derrotado!
+<0074> Es increíble que alguien como tú me haya derrotado.
+<0075> Te derrotaré la próxima vez...
+<0076> Ugyaah.
+<0077> Ugyaah, conseguí muchas de estas.
+<0078> ¡¿Cuántas acabo de conseguir?! Son demasiadas, serían difíciles de contar.
+<0079> ¡Me siento muy bien!
+<0080> ¡Quiero más! ¡Más, más!
+<0081> ¡Espera! ¡Esas son mías...!
+<0082> ¡Nadie me había hablado de esto! ¡Espera!
+<0083> ¿Eh? ¿A dónde se han ido las estrellas?
+<0084> ¡¡¡Mis ahorros...!!!
+<0085> ¡Esto debe de ser obra de uno de esos humanos malvados!
+<0086> ¡Ugyah! ¡Mi cola se ha atorado!
+<0087> ¡Trampa estúpida...! ¡Demonios...!
+<0088> ¡No puedo creer que haya caído por esto...! ¡Muuh...!
+<0089> ¡Oh, mira a esa bestia tan grande!
+<0090> ¡Fu-fu-fu! ¡Esto sí que es algo diferente!
+<0091> ¡Es una bestia muy grande! ¡Wajaja! ¡No me perderé de esta oportunidad! 
+<0092> ¡Muy bien, lo haré rápido!
+<0093> ¡Iré a conseguir muchas estrellas! ¡*Puñetazo, puñetazo*!
+<0094> Mientras más estrellas consiga, mejor será, ¿no es así?
+<0095> ¡Conseguiré muchas y muchas de ellas!
+<0096> Soy buena encontrando este tipo de cosas.
+<0097> Les mostraré a todos lo que el instinto de una bestia puede hacer.
+<0098> ¡Ahora seré salvaje!
+<0099> ¡Rawr, rawr! ¡Voy a pelear!
+<0100> ¡Mi cola se está volviendo impaciente!
+<0101> ¡Soy Teotoratta! ¡La bruja salvaje!
+<0102> ¡Estaba esperándote! ¡Vamos a jugar!
+<0103> ¿Quieres ver lo fuerte que soy? ¡Muy bien, sígueme!
+<0104> ¿Es mi turno? ¡Ya me había cansado de esperar!
+<0105> ¡Estoy más que lista! ¡Hagámoslo!
+<0106> ¡Claro que sí! ¡Hagámoslo!
+<0107> ¡Estoy tan emocionada! ¡Awooo!
+<0108> ¡Estoy lista! ¡Adelante!
+<0109> ¡Awoooooo! ¡Gané! ¡Gané!
+<0110> ¡Soy la ganadora! Impresionante, ¿no es así?
+<0111> ¿Has visto lo bien que he jugado?
+<0112> ¡Ujiji! ¡Estoy taaan feliiiiz!
+<0113> Mira esto. ¿Lo quieres?
+<0114> ¡Bow wow! ¡Encontré esto! ¡Sé feliz!
+<0115> Ah, ¿qué es eso que llevas ahí? ¿Quieres jugar con eso ahora?
+<0116> ¿Quieres esto? ¡Tendrás que elogiarme primero!
+<0117> ¡Toma mi lugar!
+<0118> Es hora de que salgas a jugar.
+<0119> Cambia conmigo por un momento.
+<0120> Necesito un descanso. Tú puedes hacerlo.
+<0121> Está bien.
+<0122> ¡Muy bien!
+<0123> ¡Bow wow!
+<0124> No.
+<0125> Qué decepcionante.
+<0126> ¡Qué suerte! ¡Qué feliz!
+<0127> ¿Qué rayos es esto?
+<0128> ¡Vamos a comenzar!
+<0129> Es la hora de tirar los dados.
+<0130> ¡Aquí vamos!
+<0131> Yuu-juu.
+<0132> *Quejido*
+<0133> ¡Bien hecho!
+<0134> ¡Eso es increíble! ¡Te elogiaré!
+<0135> *Quejido, quejido*
+<0136> ¿Debería usar esto? ¿Ayudará?
+<0137> *Olfateo, olfateo*... ¡Esto huele bien! ¡Lo usaré!
+<0138> ¡Simplemente usaré esto y observaré lo que hace!
+<0139> ¿Qué es lo que ocurrirá? ¡Qué emocionante!
+<0140> ¡Miusaki! ¡Awooo! ¡Prepárate para pelear contra mí!
+<0141> No estoy fuera de control. ¡Sólo estoy jugando!
+<0142> Miusakiii, ¡¿ya has tenido suficiente?!
+<0143> *Quejido*... Miusakiii, no te vayas.
+<0144> ¿Qué eres tú? ¿Un humano? ¿Una bestia?
+<0145> ¿Eh? ¿Un humano? ¿Una bestia? ¡¿Qué es lo que eres?!
+<0146> ¡Así que sí eres una bestia! ¡Aun así, no podrás derrotar a la bruja salvaje!
+<0147> Mi poder no funcionó en ti... Así que sí eres un humano...
+<0148> Buen trabajo, mis bestias...
+<0149> ¡Bien hecho, mis queridas bestias!
+<0150> ¡Todos han hecho un gran trabajo! ¡No puedo llevar tantas...!
+<0151> ¡Puedo usar mi poder con todo su potencial...!
+<0152> Puedo sentir a muchas bestias rondando por aquí.
+<0153> Fufufu, me gusta estar aquí.
+<0154> ¡Awooo! ¡Bow wow!
+<0155> ¿Mi magia no está funcionando en esa cosa...?
+<0156> ¡¿Pero qué?! ¿Acaso no soy la única bruja salvaje en este lugar?
+<0157> ¿Hmm? Algo no está bien por aquí...
+<0158> Esto es confuso. ¿Qué rayos es lo que está ocurriendo?
+<0159> ¿Así que hay más de una bruja salvaje? ¡¿Qué es lo que va en este lugar?!

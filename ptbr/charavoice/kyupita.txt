@@ -1,0 +1,164 @@
+<0000> Toh!
+<0001> Aqui!
+<0002> Vamos fazer isso!
+<0003> Tey!
+<0004> Carta!
+<0005> Está na hora!
+<0006> Certo!
+<0007> Eu posso fazer isto!
+<0008> Carta armadilha!
+<0009> Eu vou colocar uma armadilha aqui.
+<0010> Certo, isso parece bom.
+<0011> Eu estou a fim de fazer uma pegadinha.
+<0012> Eu vou conseguir mais poder com isso!
+<0013> Uoooh!
+<0014> Eu estou empolgado!
+<0015> Me dê poder!
+<0016> Eu vou te mostrar o poder dos meus Olhos Santos!
+<0017> Eu não posso desperdiçar meu tempo caído no chão.
+<0018> Eu não estou terminado ainda!
+<0019> Ufa, eu preciso ser mais cuidadoso desta vez.
+<0020> O jogo ainda não acabou.
+<0021> Ô caramba...!
+<0022> Errei feio.
+<0023> Ãhn? Um busto?
+<0024> Droga!
+<0025> Tah!
+<0026> Eu vou te derrotar.
+<0027> Meu turno de atacar!
+<0028> Aqui vou eu!
+<0029> Uwawah!
+<0030> Não!
+<0031> Espera um segundo.
+<0032> Ugh.
+<0033> Eu posso sentir minha energia retornando!
+<0034> Certo, eu estou melhor agora.
+<0035> Isto salvou minha vida!
+<0036> Certo, eu ainda tenho uma chance de ganhar!
+<0037> Um teleporte?!
+<0038> Ei!
+<0039> Uwaaah!
+<0040> Espera, espera...!
+<0041> Ukyuuu.
+<0042> Ooops...
+<0043> Oww...
+<0044> Mano... Eu não acredito que você fez isso comigo...
+<0045> Lute comigo!
+<0046> Vamos começar!
+<0047> Vamos jogar, pode ser?
+<0048> Certo, eu estou pronto para isso.
+<0049> Uma batalha? Você não pode me derrotar!
+<0050> Certo, venha até mim!
+<0051> Nossa! É muito covardia atacar do nada assim!
+<0052> Se você quer pegar pesado, a gente vai pegar pesado!
+<0053> Soooooco!
+<0054> Atatatatah!
+<0055> Oryah!
+<0056> Com tudo que eu tenho!
+<0057> Ow!
+<0058> Oww!
+<0059> Wan!
+<0060> Droga!
+<0061> Isto dói.
+<0062> Gyan!
+<0063> Vamos lá!
+<0064> Waaah!
+<0065> Isso não vai me afetar.
+<0066> Por favor!
+<0067> Eu posso desviar disso.
+<0068> Essa foi por pouco!
+<0069> Eu venci essa.
+<0070> Ufa, eu consegui de alguma forma.
+<0071> Certo, eu vou continuar assim.
+<0072> Eu quase fui derrotado...
+<0073> Você só pode estar brincando comigo.
+<0074> Isso é inaceitável.
+<0075> Droga...! Eu ainda posso...
+<0076> Ooops, estou em apuros...
+<0077> Estrelas!
+<0078> Se eu tivesse o suficiente dessas...!
+<0079> Heheh, incrível.
+<0080> Por enquanto tudo bem!
+<0081> Oh não, porque!
+<0082> Minhas estrelas!
+<0083> O quêêêêê, isso é terrível!
+<0084> Espere por mim!
+<0085> Uma armadilha?!
+<0086> Como que isso estava aqui?
+<0087> Ugh, eu pisei nisso...
+<0088> É sério isso!?
+<0089> Nossa, o que clima é esse que estou sentido?
+<0090> Uh oh... Eu sinto que algo ruim vai acontecer...
+<0091> Isto é... muito ruim.
+<0092> E-eu não estou assutado!
+<0093> Eu digo que a gente devia coletar estrelas.
+<0094> Vamos conseguir um monte para nós.
+<0095> Certo, está na hora de coltar algumas estrelas.
+<0096> Sinto cheiro de estrelas... vindo dali?
+<0097> Por que a gente não consegue se exercitar?
+<0098> Eu sinto que quero me dedicar.
+<0099> Eu vou derrotar todos os inimigos!
+<0100> Pode não parecer, mas eu sou muito forte.
+<0101> Eu sou Kyupita! Vamos nos divertir.
+<0102> Eu consigo! Eu vou dar meu melhor!
+<0103> É meu turno, não é? Eu estava esperando!
+<0104> Eu vou vencer esse jogo, não importa o que aconteça!
+<0105> O jogo começou!
+<0106> Nós vamos dar nosso melhor, certo!
+<0107> Eu definitivamente vou ganhar este jogo!
+<0108> Começou!
+<0109> Venci! Eu consegui!
+<0110> Eu me diverti demais!
+<0111> *Risadinha presunçosa* Eu me saí super bem, né?
+<0112> Nós devíamos fazer isso de novo alguma vez!
+<0113> Eu achei algo bom!
+<0114> Nossa, como você usa essa coisa?
+<0115> Vamos jogar com isso.
+<0116> Novo item! Ótimo!
+<0117> Poderia tomar meu lugar?
+<0118> Eu já volto.
+<0119> Vou deixar isto com você!
+<0120> Tenho fé em você!
+<0121> Claro!
+<0122> Ótimo!
+<0123> Entendi!
+<0124> Eu não faria isso...
+<0125> Que chato...
+<0126> Que sorte!
+<0127> O quê...? O quê?
+<0128> Aqui vamos lá!
+<0129> Dados!
+<0130> Você consegue!
+<0131> Olá!
+<0132> O que é isso...?
+<0133> Incrível!
+<0134> Nossa! Eu estou impressionado!
+<0135> Ratos!
+<0136> Eu imagino se posso usar isso bem.
+<0137> Não é este poder...
+<0138> Permita-me jogar isto!
+<0139> Uma carta especial...!
+<0140> Ãhn? Eu? ...Uma garota!?
+<0141> Você é...
+<0142> Wawah, quando eu me tornei uma garota!?
+<0143> Você... não sou eu, é?
+<0144> Mas quem é você...?
+<0145> Nossa, como que ela se parece tanto comigo!?
+<0146> Eu sinto que conheço ela... Quem é ela?
+<0147> Ãhn? Ela tem o mesmo o mesmo cheiro que eu...
+<0148> Kyousuke! Então não temos escolha além de lutar, pelo visto...
+<0149> Eu vou te parar, Kyousuke.
+<0150> Mesmo se eu tiver que lutar com você...
+<0151> Kyousuke...!
+<0152> Kyousuke... Nós realmente temos que lutar?
+<0153> Por que você tem que lutar comigo...!?
+<0154> Eu vou... limpar sua mente, Kyousuke!
+<0155> Eu vou bater até em você, Kyousuke...!
+<0156> Kyousu-... Espera, você é uma garota!?
+<0157> Um, Kyousuke... Você gosta de crossdressing?
+<0158> Kyousuke... Espera, não é ele!?
+<0159> Um, você é... A irmã mais nova do Kyousuke?
+<0160> Kyousu-... Espera, quem é você!?
+<0161> Um, ãhn... Uma moça bonita que se parece com o Kyousuke...?
+<0162> Eita, ela é igualzinha ao Kyousuke!
+<0163> Q-que moça linda...!

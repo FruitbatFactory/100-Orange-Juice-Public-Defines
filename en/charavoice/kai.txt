@@ -1,0 +1,158 @@
+
+<0000> There!
+<0001> Here I go!
+<0002> Go!
+<0003> Give me a good roll!
+<0004> Alright, I'll do this!
+<0005> This will bring me victory!
+<0006> I'm going to use a card here.
+<0007> This is it!
+<0008> It's time for a trap.
+<0009> Here's a trap.
+<0010> I'm going to set this up here.
+<0011> I'm sure this will work.
+<0012> Help me win!
+<0013> Give me some power!
+<0014> Heh-heh-heh, victory will be mine!
+<0015> Let me show you what I can do!
+<0016> This is the protagonist's privilege!
+<0017> I've been revived!
+<0018> I'm not done yet.
+<0019> This is only the beginning.
+<0020> I can still go on.
+<0021> How can a protagonist fail to come back?!
+<0022> This isn't for real...
+<0023> You've got to be kidding me!
+<0024> What the... Heck...
+<0025> Here!
+<0026> Like this!
+<0027> Eat this!
+<0028> There!
+<0029> Ugh!
+<0030> Guh!
+<0031> That hurts!
+<0032> Urrh...
+<0033> Saved by the bell.
+<0034> I got healed...
+<0035> Phew...
+<0036> That was a close call.
+<0037> Warp!
+<0038> I'm flying!
+<0039> Where am I going?
+<0040> Noooo!
+<0041> Guhaah!
+<0042> No way. This can't be true...
+<0043> I'm so done here...
+<0044> I give up.
+<0045> Fight me!
+<0046> Let's battle!
+<0047> The first one to act wins!
+<0048> I'll go first!
+<0049> You want to fight? Fine by me.
+<0050> Challenge accepted.
+<0051> Looking for a fight?
+<0052> Bring it on!
+<0053> Take this!
+<0054> I'm finishing you!
+<0055> Eat my fist!
+<0056> Theeere!
+<0057> Ugh.
+<0058> That hurts!
+<0059> You're pretty good.
+<0060> Oww.
+<0061> Gaaargh!
+<0062> Uoooogh!
+<0063> That hurts!
+<0064> Uuugh.
+<0065> Whoa.
+<0066> You can't hit me.
+<0067> Check out my moves!
+<0068> Too slow for me.
+<0069> My victory is only natural.
+<0070> I'm the protagonist, you know.
+<0071> That was a nice battle.
+<0072> Well, this is what I expected.
+<0073> Goddamn it!
+<0074> Urrrrgh...
+<0075> I can't believe this!
+<0076> I lost? No way!
+<0077> Yeah! I got a bonus!
+<0078> I'm rolling in cash today!
+<0079> I'm this much closer to victory now!
+<0080> Whoo! This is the best!
+<0081> My stars...!
+<0082> Crap...
+<0083> All that effort to gather them...
+<0084> I screwed up!
+<0085> Oh shoot!
+<0086> It was a trap?!
+<0087> W-what the heck?!
+<0088> This can't be happening...
+<0089> I sense a strong opponent.
+<0090> So they came...
+<0091> I can feel a storm coming...
+<0092> Okay... I've got to give it all I've got.
+<0093> The stars are all mine!
+<0094> I choose stars, of course.
+<0095> Stars, it is!
+<0096> I'll go with stars!
+<0097> All I need is battles!
+<0098> Battle is a man's romance.
+<0099> All the wins are mine!
+<0100> My fists will breathe fire!
+<0101> Count on me!
+<0102> Hiya. Good to play with you.
+<0103> Alright, it's my turn to go!
+<0104> Just leave it to me!
+<0105> Let's see how this game will turn out.
+<0106> Guess I'll go all out.
+<0107> So it started.
+<0108> I'll do my best.
+<0109> Hell yeah! I'm the winner!
+<0110> Hell yeah! I did it!
+<0111> Phew, I made it somehow.
+<0112> That was a good game.
+<0113> Oh I got a new one.
+<0114> I got a new item!
+<0115> Oh, I didn't have this one.
+<0116> Alright, that was a good draw.
+<0117> We're gonna change positions.
+<0118> Switch with me, will you?
+<0119> It's time for you to go nuts.
+<0120> I'll let you take care of the rest.
+<0121> Leave it to me.
+<0122> That's nice.
+<0123> Yeah!
+<0124> Nope.
+<0125> Crap!
+<0126> Hell yeah!
+<0127> What the?!
+<0128> Here I go!
+<0129> Let's see what roll I'll get.
+<0130> Go!
+<0131> Yo!
+<0132> Hmm...
+<0133> That's awesome.
+<0134> Oh my god!
+<0135> Crap...
+<0136> Thank you!
+<0137> Found you!
+<0138> A beautiful lady...?!
+<0139> Aren't you too old for that outfit?
+<0140> A giant robot?! I'm so hyped!
+<0141> I have to deal with her right this moment.
+<0142> Here comes the crazy woman...!
+<0143> I managed to beat her!
+<0144> Ugh... I knew she was crazy.
+<0145> Hey hey hey, what the heck are you doing!
+<0146> My wallet feels lighter somehow.
+<0147> Where... am I?
+<0148> Woo, your ride looks pretty cool.
+<0149> Alright, let's do some swimming.
+<0150> What happened to Poppo...?
+<0151> God...?
+<0152> Geez... get it together...
+<0153> Seriously? At your age...?
+<0154> This is a real masterpiece.
+<0155> Why the heck are you singing this song!
+

@@ -1,0 +1,161 @@
+
+<0000> There!
+<0001> Hah!
+<0002> Let's do this.
+<0003> I'm depending on you.
+<0004> I'll play a card now.
+<0005> I'll show you what I can do.
+<0006> Here I come.
+<0007> I choose this one.
+<0008> Here's a trap.
+<0009> Be wary or you'll be in for some pain.
+<0010> Now, someone step on it.
+<0011> I'm no expert in these things, but here goes.
+<0012> This will ensure my victory.
+<0013> I can't afford to be defeated.
+<0014> I'll squash you up.
+<0015> This will finish you.
+<0016> I cannot... lose here.
+<0017> I thought I was never going to get back up.
+<0018> This isn't over yet. I can still fight.
+<0019> Ugh, I'm falling behind everyone else.
+<0020> I can't waste any more time lying down.
+<0021> What?
+<0022> Not yet.
+<0023> Damn it...
+<0024> Ugh.
+<0025> I'll shoot you.
+<0026> I'll make a hole in you.
+<0027> Don't move.
+<0028> I'll take you down for sure.
+<0029> Guh.
+<0030> This much damage is nothing...
+<0031> What the!?
+<0032> I can still...
+<0033> That helps.
+<0034> I appreciate this.
+<0035> Okay, I'm good to go again.
+<0036> I should be okay now...
+<0037> I'm flying...!?
+<0038> Where will you take me?
+<0039> What the... Where am I going?
+<0040> Uwah!
+<0041> I must... keep going.
+<0042> I don't have time to... lie down.
+<0043> Damn it. I messed up.
+<0044> I can... still... fight.
+<0045> What are you looking at?
+<0046> Let's commence a battle.
+<0047> Are you ready?
+<0048> We'll decide which one of us is stronger.
+<0049> So you want to fight me.
+<0050> Hmph, how shallow.
+<0051> Don't think I'm easy prey.
+<0052> Ugh, a surprise attack.
+<0053> Fire.
+<0054> I'll hit you.
+<0055> You can just fall down.
+<0056> Take this.
+<0057> Guh!
+<0058> I got a scratch.
+<0059> This is nothing.
+<0060> No big deal.
+<0061> Guah!
+<0062> I got a direct hit.
+<0063> You got me.
+<0064> *Tsk!*
+<0065> You can't hit me.
+<0066> A successful evasion.
+<0067> I'll dodge it.
+<0068> That's not good enough.
+<0069> I can't afford a defeat.
+<0070> You may rest for a while down there.
+<0071> Phew, moving on.
+<0072> An unsurprising result.
+<0073> Guh, I lost!?
+<0074> No... I don't believe this...
+<0075> Ugh.
+<0076> Argh... Damn it.
+<0077> Let me resupply.
+<0078> I'll pick these up.
+<0079> These are necessary.
+<0080> Thank goodness.
+<0081> Oh rats.
+<0082> My stars...
+<0083> I lost some stars.
+<0084> Ugh, I dropped some.
+<0085> A trap?
+<0086> What's wrong with me?
+<0087> I should've been more careful.
+<0088> A trap...? Damn it.
+<0089> What's with this huge biosignal?
+<0090> Something came out.
+<0091> Here it comes... Bring it on!
+<0092> I need to fire myself up again.
+<0093> I'll go for stars.
+<0094> Stars...
+<0095> I'll now begin to gather stars.
+<0096> This would be more peaceful than fighting randomly.
+<0097> I must keep winning.
+<0098> This is simple and easy for me.
+<0099> I'll show them my powers.
+<0100> Victory will be mine.
+<0101> I'm Alte.
+<0102> Yes, let's fight together.
+<0103> All right, let's do this.
+<0104> You can count on me.
+<0105> We will now begin the game.
+<0106> I'll seize victory promptly.
+<0107> So this is the battlefield.
+<0108> I'll win and return home.
+<0109> Now, it's time to go home.
+<0110> Oh boy, it's finally over.
+<0111> Phew, I could make it through.
+<0112> So that's it.
+<0113> You got something.
+<0114> Is this what you wanted?
+<0115> Fufu, you seem too happy.
+<0116> Ah, good for you.
+<0117> We need to switch.
+<0118> I'm counting on you.
+<0119> You take this from here.
+<0120> Can you take over?
+<0121> Yeah.
+<0122> I like that.
+<0123> Good.
+<0124> That's not good.
+<0125> What?
+<0126> Talk about lucky.
+<0127> Hm?
+<0128> Let's get started.
+<0129> Time for a throw of die.
+<0130> Let's go.
+<0131> How are you?
+<0132> Hmm...
+<0133> Nice.
+<0134> That's surprisingly impressive.
+<0135> Oh no...
+<0136> I use everything I can.
+<0137> Let's see what this one does.
+<0138> Doesn't matter if this weapon belongs to an enemy or not.
+<0139> You wouldn't think I'd play this one.
+<0140> I'll take you down this time!
+<0141> Ugh, so, you're my opponent, new model!
+<0142> Don't think you're better than I am.
+<0143> Ugh, you're a monster, after all...
+<0144> What's a child like you doing here?
+<0145> A child like you wants to fight me... Really!?
+<0146> Go home before you get hurt.
+<0147> Ugh, are you not an ordinary child?
+<0148> I didn't imagine I'd find you at a place like this.
+<0149> Ugh, you have such a sinister aura about you...
+<0150> I want you to stay down as long as possible.
+<0151> Are you going to burn down both friend and foe?
+<0152> Hm, you're holding a cooking knife... Can you cook?
+<0153> Are you a cook!?
+<0154> Well... um... can you teach me... how to cook?
+<0155> Ugh, the way you use your knife... You're not just any girl.
+<0156> That war all over again? I'm not into this.
+<0157> Ugh, why with these people?
+<0158> I take this as a military drill...
+<0159> A drill with these people... Will it work out?

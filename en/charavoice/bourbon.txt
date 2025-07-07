@@ -1,0 +1,161 @@
+<0000> Here!
+<0001> There!
+<0002> Mm!
+<0003> Hoo!
+<0004> Let's up the ante.
+<0005> I'll make things more interesting.
+<0006> You gotta let loose once in a while.
+<0007> This seems like fun.
+<0008> How about we use our brain a bit?
+<0009> I'm not above a little fighting dirty.
+<0010> Gyahaha!
+<0011> I wonder if someone will pick up my present.
+<0012> Never hesitate!
+<0013> Let's even the odds a bit.
+<0014> Ha!
+<0015> Time for my secret weapon!
+<0016> It's about time to set things in motion.
+<0017> Howaah... That was a good nap.
+<0018> Hrm... let's not do that again.
+<0019> Time to get up.
+<0020> Can't catch a moment's rest...
+<0021> The engine just won't start...
+<0022> This looks like it could take a while.
+<0023> Well, let's take it easy for now.
+<0024> I'll relax for a bit.
+<0025> Hoh!
+<0026> Fire away!
+<0027> Haa!
+<0028> I'll take you down.
+<0029> Tch.
+<0030> Mm... A small scratch.
+<0031> Bah.
+<0032> Oof.
+<0033> Ahh, such bliss.
+<0034> I can feel my shoulders relaxing.
+<0035> How refreshing.
+<0036> Ohhh...
+<0037> I'm being blown off course!
+<0038> Where are we going?
+<0039> Destination seems... unknown.
+<0040> O-oooh...?
+<0041> Falling down!
+<0042> Goodnight.
+<0043> It's time for a break.
+<0044> Time to kick back and take it easy.
+<0045> To battle!
+<0046> You're not going anywhere.
+<0047> All guns at the ready!
+<0048> My job is to stop you.
+<0049> A one-on-one? Very good.
+<0050> Challenge accepted.
+<0051> Hm?
+<0052> Are you sure?
+<0053> Hey hey!
+<0054> I'd recommend dodging this.
+<0055> Ho!
+<0056> Turrets, fire!
+<0057> Hnngh.
+<0058> Just a scratch.
+<0059> Owie!
+<0060> Mm... I felt that one.
+<0061> Ugoh!
+<0062> Bwuoh!
+<0063> Ouch ouch ouch... that smarts!
+<0064> Whoa, that stung!
+<0065> Ha ha, I've still got it.
+<0066> A close shave!
+<0067> ...Hm? Something just flew past?
+<0068> Dodged by a hair's breadth.
+<0069> Easy does it.
+<0070> Better luck next time.
+<0071> I did my job.
+<0072> Rest in peace.
+<0073> You're tough...
+<0074> Man, to think I'd be stopped here...
+<0075> Rest in peace... me.
+<0076> Man down!
+<0077> How joyful!
+<0078> Bwahaha, that's what I'm talking about!
+<0079> Oooh, a great haul!
+<0080> This makes me happy.
+<0081> Ah-hah... that stings.
+<0082> My hopes and dreams...!
+<0083> The stars... they're so far away...
+<0084> Oh damn!
+<0085> It was a trap!
+<0086> Man, I fell for it!
+<0087> Bwahaha, that was a good one.
+<0088> Man, but I got careless.
+<0089> Hahaha, now this one seems worth fighting.
+<0090> Oooh... I'm getting goosebumps.
+<0091> Tch... I thought there weren't supposed to be any real threats around? Balderdash.
+<0092> Do such monsters fly in the sky...?
+<0093> Let's take our time and enjoy the starry sky.
+<0094> I hear the call of the stars.
+<0095> You should appreciate the small things in life.
+<0096> I'll seek out the stars.
+<0097> Hrm... Should I get a bit into it?
+<0098> Sometimes there's no choice but to fight.
+<0099> Here's hoping for a good challenge.
+<0100> I have a feeling there's fighting to be had.
+<0101> I'm no one important, but looking forward to working with you.
+<0102> You're choosing an old fella like me?
+<0103> Let's do our best together.
+<0104> I'll help you reach the goal you're working toward.
+<0105> Let's do this our own way.
+<0106> I'll take my time and assess the situation first.
+<0107> To victory!
+<0108> It's a beautiful day for a flight.
+<0109> Looks like it's my lucky day.
+<0110> It is done.
+<0111> Hrm. All's well that ends well, eh?
+<0112> This calls for a victory toast!
+<0113> Congratulations.
+<0114> Hey, good for you.
+<0115> That's a nice find right there.
+<0116> Oo... what's that one do?
+<0117> Time to switch.
+<0118> I'm tagging out.
+<0119> I need to refuel.
+<0120> Hold the fort for a while, will you.
+<0121> Gotcha.
+<0122> Isn't that something!
+<0123> Copy.
+<0124> As if!
+<0125> What a shame.
+<0126> Haha, lady luck smiles on you.
+<0127> What's that?
+<0128> Let's get going.
+<0129> Let's throw.
+<0130> Go!
+<0131> A fine day to you.
+<0132> Well well.
+<0133> Good.
+<0134> Ooh! Amazing!
+<0135> Blast it!
+<0136> I've got my connections.
+<0137> What's there to hesitate about?
+<0138> Let's gamble on this.
+<0139> What could this do, I wonder...?
+<0140> Cheers!
+<0141> Hmh. Let me take over from here.
+<0142> Looks like you could use some help.
+<0143> Mm... Leave this to me.
+<0144> Let me take care of this.
+<0145> No hard feelings lady, but you're in the way.
+<0146> What can I do for you, lady?
+<0147> Not bad for one so young.
+<0148> Man, you totally got me... what a girl.
+<0149> I've come to meddle again, chief.
+<0150> Man, you work me too hard.
+<0151> Ha, the drinks are on you tonight!
+<0152> Gunyunyu... fine, I'll open that bottle I was saving.
+<0153> Still a stick in the mud, eh chief.
+<0154> Oh? It's rare to see you so worked up, chief.
+<0155> Ha ha ha, just sit down and take it easy for a while.
+<0156> Well, this sort of thing happens too.
+<0157> Geez. That's not the way to go, kid.
+<0158> Oh. You like whales, kiddo?
+<0159> Looks like you're fighting a hard battle.
+<0160> Got anything good for me today?

@@ -1,0 +1,276 @@
+
+< COM_CONFIG_SYSTEM >
+システム設定をします。
+
+< COM_CONFIG_SCREEN >
+画面設定をします。
+
+< COM_CONFIG_AUDIO >
+サウンド設定をします。
+
+< COM_CONFIG_VOICE >
+ボイス設定をします。
+
+< COM_CONFIG_MODS >
+インストール済みMODの一覧です。
+
+< COM_NEWGAME_SELECTSLOT >
+セーブを新規作成するスロットを選んでください。
+
+< COM_NEWGAME_SLOTCONFIRM >
+このスロットに作成しますか？
+
+< COM_NEWGAME_ENTERNAME >
+プレイヤー名を入力してください。
+
+< COM_NEWGAME_SELECTCHARACTER >
+最初のユニットを選んでください。
+
+< COM_NEWGAME_CHARACTERCONFIRM >
+このユニットにしますか？
+
+< COM_LOADGAME_SELECTSLOT >
+ロードするセーブを選んでください。
+
+< COM_LOADGAME_LOADCONFIRM >
+このセーブをロードしますか？
+
+< COM_SHOP_SELECTITEM >
+購入するアイテムを選んでください。
+
+< COM_SHOP_BUYCONFIRM >
+このアイテムを購入しますか？
+
+< COM_SHOP_BUYEVENTCONFIRM >
+%sのイベントを解除しますか？
+
+< COM_SHOP_ITEMSOLDOUT >
+このアイテムは売り切れです。
+
+< COM_SHOP_ITEMNOTINSTOCK >
+このアイテムは入荷待ちです。
+
+< COM_SHOP_NOTENOUGHCURRENCY >
+このアイテムは購入できません。
+
+< COM_SHOP_REACHEDCURRENCYCAP >
+この通貨はこれ以上所持できません。
+
+< COM_SHOP_NOSTEAMCONNECTION >
+このアイテムの利用にはSteamへの接続が必要です。
+
+< COM_SHOP_NOSTEAMCONNECTIONDLC >
+DLCの所持情報取得のためSteamへの接続が必要です。
+
+< COM_SHOP_ALREADYOWNDLC >
+このDLCは既に持っています。
+
+< COM_SHOP_BONUSITEM >
+このアイテムはSteam版%sの全所有者に贈られます。
+
+< COM_SHOP_CHARACTERITEM >
+このアイテムを使用できるキャラクターを持っていません。
+
+< COM_SHOP_LEVELTOOLOW >
+このアイテムを購入できるレベルに達していません。
+
+< COM_SHOP_BOUGHTCARDPACK >
+パックを購入しました！
+
+< COM_SHOP_BOUGHTCARD >
+シングルカードを購入しました！
+
+< COM_SHOP_BOUGHTDISCOUNT >
+ショップ割引チケットを獲得しました！
+
+< COM_SHOP_BOUGHTCHARACTER >
+新しいキャラクターを獲得しました！
+
+< COM_SHOP_BOUGHTFIELD >
+フィールドが解除されました！
+
+< COM_SHOP_BOUGHTCOLORS >
+新しいユニットカラーを獲得しました！
+
+< COM_SHOP_BOUGHTHAIR >
+新しい髪色を獲得しました！
+
+< COM_SHOP_BOUGHTACCESSORY >
+新しいアクセサリーを獲得しました！
+
+< COM_SHOP_BOUGHTDICE >
+新しいダイスを獲得しました！
+
+< COM_SHOP_BOUGHTCANDY1 >
+新しいキャンディを獲得しました！
+
+< COM_SHOP_BOUGHTCANDY10 >
+新しいキャンディx10を獲得しました！
+
+< COM_SHOP_BOUGHTCRATE >
+木箱を購入しました！
+
+< COM_SHOP_BOUGHTPET >
+ペットを購入しました！
+
+< COM_SHOP_BOUGHTHOMEMARK >
+新しいホームマスを購入しました！
+
+< COM_SHOP_BOUGHTGENERICITEM >
+新しいアイテムを購入しました！
+
+< COM_SHOP_BOUGHTEMOTE >
+新しいチャット絵文字を購入しました！
+
+< COM_SHOP_BOUGHTCOSTUME >
+新しい衣装を購入しました！
+
+< COM_SHOP_CONVERTCURRENCY >
+変換しました！
+
+< COM_USERINFO_PLAYERINFO >
+プレイヤー情報を確認します。
+
+< COM_USERINFO_GAMEINFO >
+プレイ情報を確認します。
+
+< COM_USERINFO_BROWSECARDS >
+所持しているカードを確認します。
+
+< COM_USERINFO_CARDSINFO >
+カードの収集状況を確認します。
+
+< COM_USERINFO_AVATAR >
+アバターを変更します。
+
+< COM_USERINFO_TAUNTS >
+各ユニットのかけ声をカスタマイズします。
+
+< COM_USERINFO_GALLERY >
+イラスト、カットシーン、BGM、ボイスを確認します。
+
+< COM_USERINFO_STATS >
+オンラインマッチでの統計情報を確認します。
+
+< COM_CAMPAIGN_SELECTSCENARIO >
+キャンペーンを選んでください。
+
+< COM_CAMPAIGN_SELECTSTAGE >
+ステージを選んでください。
+
+< COM_CAMPAIGN_BREAKERPACKONLY >
+このキャンペーンをプレイするには「ブレイカーパック」が必要です。
+
+< COM_CAMPAIGN_WITCHPACKONLY >
+このキャンペーンをプレイするには「ウィッチパック」が必要です。
+
+< COM_CAMPAIGN_TOYSTOREPACKONLY >
+このキャンペーンをプレイするには「トイストアパック」が必要です。
+
+< COM_CAMPAIGN_OLDGUARDIANPACKONLY >
+このキャンペーンをプレイするには「オールド・ガーディアンパック」が必要です。
+
+< COM_CAMPAIGN_WANDERERPACKONLY >
+このキャンペーンをプレイするには「ワンダラーズパック」が必要です。
+
+< COM_CAMPAIGN_WARUDAPRISONBREAKPACKONLY >
+このキャンペーンをプレイするには「わるだプリズンブレイクパック」が必要です。
+
+< COM_FREEBATTLE_CHOOSEGAMETYPE >
+ゲームモードを選んでください。
+
+< COM_FIELDSELECT >
+ゲームフィールドを選んでください。
+
+< COM_RANDOMFIELD_MINIMUMREQUIRED >
+最低3種類のフィールドを設定してください。
+
+< COM_RANDOMFIELDEVENT_MINIMUMREQUIRED >
+最低3種類のフィールドイベントを設定してください。
+
+< COM_DECK_PREPARE >
+ユニット選択／デッキ作成を行います。
+
+< COM_DECK_NOTPREPARED >
+準備が完了していません。
+
+< COM_DECK_CARDLIMITREACHED >
+これ以上デッキに入れることができません。
+
+< COM_DECK_DLCONLYCARD >
+このカードはDLC所有者のみ使用可能です。
+
+< COM_DECK_WAITING >
+他の参加者が準備中です。
+
+< COM_DECK_READY >
+ゲームの準備ができました！
+
+< COM_GAME_PAUSED >
+ゲームを一時停止しました。
+
+< COM_GAME_QUITCONFIRM >
+このゲームからリタイアしますか？
+
+< COM_RESULT_STARSGAINED >
+今回のゲームで獲得したスターを表示します。
+
+< COM_CREATELOBBY_SETOPTIONS >
+ロビー設定をします。
+
+< COM_CREATELOBBY_CREATING >
+Steamロビーを作成中です…
+
+< COM_CREATELOBBY_FAILED >
+Steamロビーを作成できませんでした。
+
+< COM_CREATELOBBY_NAMEEMPTY >
+ロビー名は必ず設定してください。
+
+< COM_LOBBYLIST_SELECTLOBBY >
+ロビーを選んでください。Steamフレンドには緑の星が表示されます。
+
+< COM_LOBBYLIST_JOINLOBBY >
+選んだロビーに入室する または ロビーホストと会話します。
+
+< COM_LOBBYLIST_PASSWORDEMPTY >
+パスワードは必ず設定してください。
+
+< COM_LOBBYLIST_SEARCHEMPTY >
+サーチ欄には必ず何かを入力してください。
+
+< COM_LOBBYLIST_CONNECTFAILED >
+ロビーに接続できませんでした。
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOSELECT >
+ロビーを選択できません。ロビーデータを取得できません。
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOCONTACT >
+ホストと会話できません。ロビーデータを取得できません。
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOJOIN >
+ロビーに参加できません。ロビーデータを取得できません。
+
+< COM_LOBBY_WAITINGFORPARTICIPANTS >
+参加プレイヤーを待ちます。
+
+< COM_LOBBY_WAITINGFORPLAYERS >
+参加者がそろうまでお待ちください。
+
+< COM_LOBBY_PLAYERSNOTREADY >
+全員が準備できるまでゲームは開始されません。
+
+< COM_LOBBY_KICKREADYPLAYER >
+既に準備ができた参加者を追い出すことはできません。
+
+< COM_LOBBY_KICKNOTREADY >
+この参加者を追い出すことはできません。
+
+< COM_LOBBY_MIDGAME_JOINED >
+ゲームに参加しました！ 次のチャプター開始時に入室できます。
+
+< COM_LOBBY_SPECTATOR_WAITINGDECKS >
+ゲームが開始されました！ 各参加者がデッキを作成中です…
+
+[EOF]
+

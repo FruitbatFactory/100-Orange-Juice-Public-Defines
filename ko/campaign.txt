@@ -1,0 +1,259 @@
+
+< CAMPAIGN_QP_ONE >
+큐피 제 1화
+
+< CAMPAIGN_QP_TWO >
+큐피 제 2화
+
+< CAMPAIGN_QP_THREE >
+큐피 제 3화
+
+< CAMPAIGN_QP_FOUR >
+큐피 제 4화
+
+< CAMPAIGN_QP_FIVE >
+큐피 제 5화
+
+< CAMPAIGN_QP_FINAL >
+큐피 최종화
+
+< CAMPAIGN_SUGURI_ONE >
+스구리 제 1화
+
+< CAMPAIGN_SUGURI_TWO >
+스구리 제 2화
+
+< CAMPAIGN_SUGURI_THREE >
+스구리 제 3화
+
+< CAMPAIGN_SUGURI_FOUR >
+스구리 제 4화
+
+< CAMPAIGN_SUGURI_FIVE >
+스구리 제 5화
+
+< CAMPAIGN_SUGURI_FINAL >
+스구리 최종화
+
+< CAMPAIGN_MARC_ONE >
+마르 제 1화
+
+< CAMPAIGN_MARC_TWO >
+마르 제 2화
+
+< CAMPAIGN_MARC_THREE >
+마르 제 3화
+
+< CAMPAIGN_MARC_FOUR >
+마르 제 4화
+
+< CAMPAIGN_MARC_FIVE >
+마르 제 5화
+
+< CAMPAIGN_MARC_FINAL >
+마르 최종화
+
+< CAMPAIGN_KAI_ONE >
+카이 제 1화
+
+< CAMPAIGN_KAI_TWO >
+카이 제 2화
+
+< CAMPAIGN_KAI_THREE >
+카이 제 3화
+
+< CAMPAIGN_KAI_FOUR >
+카이 제 4화
+
+< CAMPAIGN_KAI_FIVE >
+카이 제 5화
+
+< CAMPAIGN_KAI_FINAL >
+카이 최종화
+
+< CAMPAIGN_EXTRA_ONE >
+미드나잇 = 동물귀
+
+< CAMPAIGN_EXTRA_TWO >
+사투 개조인간
+
+< CAMPAIGN_EXTRA_THREE >
+비행사들의 황혼
+
+< CAMPAIGN_EXTRA_FOUR >
+불가사의 우주여행
+
+< CAMPAIGN_EXTRA_FIVE >
+토모모 지옥
+
+< CAMPAIGN_EXTRA_SIX > 
+미오의 어스름 나라
+
+< CAMPAIGN_EXTRA_SEVEN > 
+비밀 산타
+
+< CAMPAIGN_EXTRA_EIGHT >
+천벌
+
+< CAMPAIGN_STARBREAKER_ONE >
+스타 브레이커 제 1화
+
+< CAMPAIGN_STARBREAKER_TWO >
+스타 브레이커 제 2화
+
+< CAMPAIGN_STARBREAKER_THREE >
+스타 브레이커 제 3화
+
+< CAMPAIGN_STARBREAKER_FOUR >
+스타 브레이커 제 4화
+
+< CAMPAIGN_STARBREAKER_FIVE >
+스타 브레이커 제 5화
+
+< CAMPAIGN_STARBREAKER_FINAL >
+스타 브레이커 최종화
+
+< CAMPAIGN_SWEETBREAKER_ONE >
+스위트 브레이커 제 1화
+
+< CAMPAIGN_SWEETBREAKER_TWO >
+스위트 브레이커 제 2화
+
+< CAMPAIGN_SWEETBREAKER_THREE >
+스위트 브레이커 제 3화
+
+< CAMPAIGN_SWEETBREAKER_FOUR >
+스위트 브레이커 제 4화
+
+< CAMPAIGN_SWEETBREAKER_FIVE >
+스위트 브레이커 제 5화
+
+< CAMPAIGN_SWEETBREAKER_FINAL >
+스위트 브레이커 최종화
+
+< CAMPAIGN_BREAKER_EXTRA >
+여섯 스위트 신들의 혼돈
+
+< CAMPAIGN_MIUCEORE_ONE >
+여자력 제 1화
+
+< CAMPAIGN_MIUCEORE_TWO >
+여자력 제 2화
+
+< CAMPAIGN_MIUCEORE_THREE >
+여자력 제 3화
+
+< CAMPAIGN_MIUCEORE_FOUR >
+여자력 제 4화
+
+< CAMPAIGN_MIUCEORE_FIVE >
+여자력 제 5화
+
+< CAMPAIGN_MIUCEORE_SIX >
+여자력 제 6화
+
+< CAMPAIGN_MIUCEORE_SEVEN >
+여자력 제 7화
+
+< CAMPAIGN_MIUCEORE_EIGHT >
+여자력 제 8화
+
+< CAMPAIGN_MIUCEORE_NINE >
+여자력 제 9화
+
+< CAMPAIGN_MIUCEORE_FINAL >
+여자력 최종화
+
+< CAMPAIGN_NICOARTHUR_ONE >
+크로스 크리스마스 제 1화
+
+< CAMPAIGN_NICOARTHUR_TWO >
+크로스 크리스마스 제 2화
+
+< CAMPAIGN_NICOARTHUR_THREE >
+크로스 크리스마스 제 3화
+
+< CAMPAIGN_NICOARTHUR_FOUR >
+크로스 크리스마스 제 4화
+
+< CAMPAIGN_NICOARTHUR_FIVE >
+크로스 크리스마스 제 5화
+
+< CAMPAIGN_NICOARTHUR_FINAL >
+크로스 크리스마스 최종화
+
+< CAMPAIGN_SUGURISUMIKA_ONE >
+옛 수호신들 제 1화
+
+< CAMPAIGN_SUGURISUMIKA_TWO >
+옛 수호신들 제 2화
+
+< CAMPAIGN_SUGURISUMIKA_THREE >
+옛 수호신들 제 3화
+
+< CAMPAIGN_SUGURISUMIKA_FOUR >
+옛 수호신들 제 4화
+
+< CAMPAIGN_SUGURISUMIKA_FIVE >
+옛 수호신들 제 5화
+
+< CAMPAIGN_SUGURISUMIKA_SIX >
+옛 수호신들 제 6화
+
+< CAMPAIGN_SUGURISUMIKA_SEVEN >
+옛 수호신들 제 7화
+
+< CAMPAIGN_SUGURISUMIKA_EIGHT >
+옛 수호신들 제 8화
+
+< CAMPAIGN_SUGURISUMIKA_NINE >
+옛 수호신들 제 9화
+
+< CAMPAIGN_SUGURISUMIKA_TEN >
+옛 수호신들 제 10화
+
+< CAMPAIGN_SUGURISUMIKA_FINAL >
+옛 수호신들 최종화
+
+< CAMPAIGN_ELLIELULU_NUMBER >
+방랑자 제 %d화
+
+< CAMPAIGN_ELLIELULU_FINAL >
+방랑자 최종화
+
+< CAMPAIGN_RONETEO >
+노는 마녀들의 밤
+
+< CAMPAIGN_WARUDAPRISONBREAK_NUMBER >
+와루다 탈옥 제 %화
+
+< CAMPAIGN_WARUDAPRISONBREAK_FINAL >
+와루다 탈옥 최종화
+
+< CAMPAIGN_CHRISTMAS_2017 >
+와루다 크리스마스 파티
+
+< CAMPAIGN_DIFFICULTY_CASUAL >
+CPU 캐릭터들의 성능이 하향됩니다.
+
+< CAMPAIGN_DIFFICULTY_NORMAL >
+CPU 캐릭터들에 아무 보정도 붙지 않습니다.
+
+< CAMPAIGN_DIFFICULTY_ORIGINAL >
+CPU 캐릭터들의 성능이 개별적으로 커스터마이즈됩니다.
+
+< CAMPAIGN_DIFFICULTY_EXTREME >
+모든 CPU 캐릭터들이 성능 향상을 즐깁니다.
+
+< CAMPAIGN_RETURN >
+돌아간다
+
+< CAMPAIGN_RONETEO_MESSAGE >
+엑스트라 미션이 추가되었습니다! 여자력과 옛 수호신들 캠페인을 먼저 완료하는 것을 권장합니다.
+
+< CAMPAIGN_WINTER2023_MESSAGE >
+추가 미션 "%s"이(가) 해금되었습니다!
+
+
+[EOF]
+

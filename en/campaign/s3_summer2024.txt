@@ -1,0 +1,307 @@
+
+// ========= Scene:  Opening =========
+
+// (No Speaker)
+<0000> At Family Restaurant Pures
+
+// (poyo)
+<0001> *Munch munch*... Eating sure makes you feel alive, doesn't it?
+
+// (chuu)
+<0002> Huh?
+
+// (poyo)
+<0003> You eat three meals a day, and each of them always makes you super happy. I wonder why.
+
+// (chuu)
+<0004> Because food is one of humanity's three needs.
+
+// (poyo)
+<0005> Hey, Chuu, no dirty talk!
+
+// (chuu)
+<0006> That's not dirty.
+
+// (chuu)
+<0007> Well, let me ask you this: Isn't there anything you're interested in trying?
+
+// (poyo)
+<0008> I'd love to have a full-course meal at a certain fancy restaurant I can't afford...
+
+// (chuu)
+<0009> That's not what I meant. We're students, remember?
+
+// (chuu)
+<0010> Don't you wanna do something you can enjoy only while you're young?
+
+// (poyo)
+<0011> Dirty talk again!?
+
+// (chuu)
+<0012> What, are you going through puberty?!
+
+// (poyo)
+<0013> Yes, I am!
+
+// (chuu)
+<0014>Yeah, we both are... But, look, we've been students at our school for months now.
+
+// (poyo)
+<0015> That's true. So far, I've been having a good time. Studying's not so bad, and I like chatting and eating with friends like this.
+
+// (poyo)
+<0016> It'd be lying if I said I'm not enjoying my school life.
+
+// (poyo)
+<0017> But I feel like there's something missing.
+
+// (chuu)
+<0018> Same here. I wanna do something special! But...
+
+// (poyo)
+<0019> There's nothing that feels right. None of the school clubs look good.
+
+// (chuu)
+<0020> Man, our youth will waste away before we know it.
+
+// (haruka)
+<0021> Hey. What are you guys talking about?
+
+// (kanata)
+<0022> ......
+
+// (poyo)
+<0023> Oh, Haru-Kana.
+
+// (chuu)
+<0024> We're having a discussion on our student lives.
+
+// (kanata)
+<0025> ...You mean dirty talk?
+
+// (chuu)
+<0026> Not this again!
+
+// (haruka)
+<0027> I see. So you don't have anything particular you wanna do, huh.
+
+// (poyo)
+<0028> I do like the way my life is right now, but it feels lacking compared to those guys in the clubs.
+
+// (kanata)
+<0029> In my estimation, your period of youth is one-third as good as theirs.
+
+// (poyo)
+<0030> That's not good at all!
+
+// (haruka)
+<0031> How about yourself, Kanata?
+
+// (kanata)
+<0032> Pretty much the same as Poyo.
+
+// (chuu)
+<0033> So, no one's fully happy with their lives, huh.
+
+// (haruka)
+<0034> If you really don't like the way your life is, why don't you make it better yourself? ♥
+
+// (poyo)
+<0035> I would if I could!
+
+// (chuu)
+<0036> Didn't you say a couple of minutes ago that eating makes you happy?
+
+// (poyo)
+<0037> And you started talking about our lives!
+
+// (haruka)
+<0038> Well, joining a club would be the best option... I guess.
+
+// (poyo)
+<0039> That's true, but... there's no club that interests me.
+
+// (poyo)
+<0040> I wish there was one all four of us could be fully committed to...
+
+// (chuu)
+<0041> We've been friends since kindergarten, so it'd be great if we could be in the same club.
+
+// (haruka)
+<0042> A club we can do together, huh. If we wanna do that...
+
+// (chuu)
+<0043> No sports, please.
+
+// (kanata)
+<0044> ...Agreed.
+
+// (haruka)
+<0045> I like sports. How about cooking?
+
+// (poyo)
+<0046> I don't cook. I only eat.
+
+// (kanata)
+<0047> Science.
+
+// (haruka)
+<0048> That'd make us smell like chemicals.
+
+// (kanata)
+<0049> You have the completely wrong idea, Haruka.
+
+// (poyo)
+<0050> We're done discussing!
+
+// (poyo)
+<0051> And we didn't reach a consensus! There's no club out there we can join together!
+
+// (kanata)
+<0052> I saw this coming the moment the discussion started.
+
+// (chuu)
+<0053> Leave it to the resident genius.
+
+// (kanata)
+<0054> Don't flatter me. You'll make me blush.
+
+// (haruka)
+<0055> I thought it'd be real fun if we could do something as a club activity. *Shuffle shuffle*
+
+// (poyo)
+<0056> Suddenly Haruka's shuffling a deck of playing cards.
+
+// (haruka)
+<0057> You all wanna play it, don't you? 100% Orange Juice, that is.
+
+// (kanata)
+<0058> I've been waiting.
+
+// (chuu)
+<0059> We're done talking, so it's good timing, I guess.
+
+// (haruka)
+<0060> Same rules as usual?
+
+// (poyo)
+<0061> Of course. The loser will buy the winner one thing on the menu.
+
+// (chuu)
+<0062> I've got to win.
+
+// (kanata)
+<0063> I'm in the mood for a thick steak.
+
+// (haruka)
+<0064> Let's get started, then.
+
+// (poyo)
+<0065> 100% Orange Juice, let's go!
+
+
+// ========= Scene:  Ending =========
+
+
+// (poyo)
+<0066> Yay, I won!!!
+
+// (chuu)
+<0067> Dang it. I'm pretty sure I used my cards at the right times.
+
+// (kanata)
+<0068> You can't win with skill alone in 100% Orange Juice.
+
+// (haruka)
+<0069> Ugh, I'm the loser... and I'm already low on money.
+
+// (kanata)
+<0070> Because you waste your money.
+
+// (haruka)
+<0071> A little help, Kana?
+
+// (kanata)
+<0072> No.
+
+// (haruka)
+<0073> You're so mean...
+
+// (chuu)
+<0074> Well, I guess we can call this a good page from the book of our youth.
+
+// (poyo)
+<0075> I know, right?
+
+// (chuu)
+<0076> ?
+
+// (poyo)
+<0077> You know when I feel like I'm enjoying my youth the most? It's when I hang out with you guys.
+
+// (kanata)
+<0078> If each of our lives is 33% as good as other people's, it'll be 132% as good when combined.
+
+// (chuu)
+<0079> Is that how it works? Are you sure?
+
+// (poyo)
+<0080> I don't think that's wrong, because we're actually having fun!
+
+// (haruka)
+<0081> Yeah.
+
+// (haruka)
+<0082> After we all land jobs and stuff, we won't get to play a board game in a restaurant like this anymore.
+
+// (haruka)
+<0083> So I think this is our way to make the most of our youth.
+
+// (poyo)
+<0084> I'm gonna cry.
+
+// (chuu)
+<0085> Well said, Haru... What you just said has already improved my perception on life.
+
+// (kanata)
+<0086> By my calculation, it's 150% as good now.
+
+// (haruka)
+<0087> So, this means we don't have to join a school club　to make our student lives better? 
+
+// (chuu)
+<0088> I guess so.
+
+// (poyo)
+<0089> No, we should do a club!
+
+// (haruka)
+<0090> Huh?
+
+// (poyo)
+<0091> With all of us together, we can make our lives much better and more fun, so we should do some club activity!
+
+// (chuu)
+<0092> But we decided there's no clubs for us to join.
+
+// (kanata)
+<0093> Then we'll just have to make one.
+
+// (poyo)
+<0094> Yeah! We'll make one! A new club!
+
+// (haruka)
+<0095> And what do we do there?
+
+// (kanata)
+<0096> You should've figured it out by now.
+
+// (chuu)
+<0097> Well, it's very easy to guess... isn't it?
+
+// (haruka)
+<0098> Ah, I get it.
+
+// (poyo)
+<0099> We're making a 100% OJ club at our Shiny Sparkling Academy!!!
+

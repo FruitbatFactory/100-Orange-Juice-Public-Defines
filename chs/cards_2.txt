@@ -1,0 +1,892 @@
+
+< CARD_BOOST_AMBUSH >
+name=偷袭
+descr=与同一格的所有敌人进行战斗。\n战斗结束时回合结束。
+flavor=「咕啊！」—夏姆
+
+< CARD_BOOST_LONELYCHARIOT >
+name=孤独的暴走车
+descr=储备效果\n移动骰的点数为5。\n在你的回合结束时受到1点伤害。\n倒下时效果结束。\n因这个效果而倒下时失去等级×5的STAR。
+flavor=「别误会了……我可是孤独的！」—孤独车手
+
+< CARD_BOOST_MIMIC >
+name=模仿
+descr=指定1名玩家。\n你手牌中的HYPER卡将变为\n指定的玩家的HYPER卡。
+flavor=玛丽啵噗，正试图扮成什么。
+
+< CARD_BOOST_PASSIONATE >
+name=探究心
+descr=查看卡堆上面的3张卡。\n把所有HYPER卡加入手牌。\n剩下的卡片顺序不变放回去。
+flavor=「没什么，这也是常有的事。\n而且还挺有意思的。」—学者
+
+< CARD_BOOST_PRESIDENT >
+name=学生会长的特权
+descr=持续效果（1轮）\n使用卡片无需COST。\n这个回合你可以再使用1张卡片。
+flavor=「那边几个……你们放学后来学生会室一趟，\n没问题吧？」—姬梦吉
+
+< CARD_BATTLE_SHIELDCOUNTER >
+name=护盾反转
+descr=向先攻方造成对方ATK-对方DEF的伤害\n（最低为1）。\n战斗结束。\n该伤害造成的击倒不算作击败敌人。\n后攻时才可以使用。
+flavor=「护盾反转！」—优空
+
+< CARD_BATTLE_RETREAT >
+name=临阵脱逃
+descr=★COST（等级×5）\n结束这场战斗。\nCOST所消耗的STAR由对方获得。\n后攻时才可以使用。\n对方使用战斗卡时这张卡无效。
+flavor=「再见！」—托玛特
+
+< CARD_TRAP_PIYOPIYO >
+name=小鸡小鸡大游行
+descr=进行3场由玩家先攻的随机遭遇战。
+flavor=「叽叽叽叽叽叽叽叽——」—彩色小鸡们
+
+< CARD_TRAP_SEALEDMEMORIES >
+name=记忆封印
+descr=持续效果（3轮）\n手牌翻转。\n（踩中陷阱的玩家看到手牌背面，\n其他玩家能看到正面。）
+flavor=「世界的秩序……？\n那和布丁到底有什么关系！」—QP
+
+< CARD_EVENT_MIXPHENOMENON >
+name=混成化现象
+descr=持续效果（3轮）\n除HOME格以外的所有格子随机变化。
+flavor=「似乎有某种力量在分隔世界的屏障上开了洞，\n使不同世界间产生了混成现象。」—雪成
+
+< CARD_EVENT_SOLICITATION >
+name=恐怖的推销
+descr=除你以外的所有存活玩家抽卡直到上限。\n各自每抽取1张卡支付15颗STAR。
+flavor=「你肯定会买的吧？\n是的，你会买的吧？」—商人
+
+< CARD_BATTLE_ACCELHYPER >
+name=极速超能
+descr=攻击骰枚数变为2倍。
+flavor=「无限充能！」—优空
+
+< CARD_TRAP_BRUTALPRANK >
+name=无情的恶作剧
+descr=丢弃手牌里的所有HYPER卡。\n失去所丢弃张数×10的STAR，\n恢复丢弃张数×1的HP。
+flavor=「啊！牛先生！青蛙先生！！」—夕希\n「哈哈哈！尽管哭叫吧！」—由希
+
+< CARD_BOOST_COMPLETIONREWARD >
+name=成功报酬
+descr=获得这场游戏中你设置的陷阱\n被角色踩到次数×7的STAR。
+flavor=「哇，发工资啦～！」—克丽丝\n「可不要乱花哦。」—店长
+
+< CARD_BATTLE_EXTENSION >
+name=部件扩张
+descr=发动1张随机战斗卡（包含HYPER卡）\n的效果。
+flavor=「我的工作就是将你击败。」—娜德
+
+< CARD_BOOST_GENTLEMANSBATTLE >
+name=绅士的决斗
+descr=指定1名HP为上限的玩家，与其进行战斗。\n战斗结束时回合结束。
+flavor=「接受我的挑战吧！」—公会会长
+
+< CARD_EVENT_PLAYOFTHEGODS >
+name=众神的嬉戏
+descr=从其他玩家的手牌或者卡堆随机使用\n1张事件卡（包含HYPER卡）。\n无需COST。
+flavor=「把金蛋弄到手！」—QP\n「然后做出最棒的布丁吧！」—纱季
+
+< CARD_TRAP_PRESENTTHIEF >
+name=礼物小偷
+descr=第一个触发此陷阱的角色失去所有手牌。\n当有手牌失去时，陷阱将存留至第二次\n发动，第二个触发此陷阱的玩家获得这些手牌。
+flavor=「都是因为有这些东西！」—妮可
+
+< CARD_BATTLE_QUICKRESTORATION >
+name=瞬间再生
+descr=在战斗结束时，\n恢复这场战斗中受到的伤害。\n倒下时无效。
+flavor=「我是不会死的。」—须玖莉
+
+< CARD_EVENT_SCRAMBLEDEVE >
+name=大争夺·圣诞夜
+descr=所有玩家的手牌回到卡堆，然后切洗卡堆。\n3轮后，所有玩家抽取各自因该效果弃牌张数\n相同数量的卡片。
+flavor=「等等！把礼物还给我！」—亚琉
+
+< CARD_EVENT_STARBLAZINGLIGHT >
+name=烧毁星球之光
+descr=丢弃场上设置的所有陷阱卡。\n设置陷阱的人受到各自被丢弃张数×1\n的伤害。
+flavor=「将城市……和星球烧毁的光芒……\n从天空中落下。」—优空
+
+< CARD_GIFT_UNLUCKYCHARM >
+name=不幸护符
+descr=★COST（等级×5）\n在你的回合开始时失去等级数的STAR。\n这张卡在使用时，会转移至除你以外的\n随机玩家手中。\n在STAR不足以支付COST时，\n可以无需COST使用这张卡。
+flavor=「漆黑之暗扰吾安眠，\n吾祈求光芒……」—克里拉拉莉丝
+
+< CARD_GIFT_WINDYENCHANTMENT >
+name=疾风附魔
+descr=MOV+1。\n无法进行目标检测。\n使用将丢弃这张卡。
+flavor=人称赤足的亚莉希安罗妮。
+
+< CARD_HYPER_SYURA >
+name=修罗场模式
+descr=这场战斗中，你目前所缺失的每点HP，\n使ATK·DEF·EVD+1。
+flavor=「超越修罗场的修罗之力！\n就让你好好见识一下吧！」—秀拉
+
+< CARD_HYPER_NANAKO >
+name=浮游炮展开
+descr=这场战斗中，合计为7的数值\n随机分配给ATK·DEF·EVD。
+flavor=「你是不可能从我的浮游炮下\n逃脱的。」—奈奈子
+
+< CARD_HYPER_SAKI >
+name=大爆炸铃
+descr=以这张卡为中心的5×5范围内的角色\n受到X点伤害。\nX=2+（设置后经过的轮数÷2）。\n因这个效果而倒下的玩家失去一半的STAR，\n由设置这张卡的玩家获得所失去的STAR。
+flavor=「嘛呜呜呜哩呀呀呀呀呀！！」—纱季
+
+< CARD_HYPER_KYOUSUKE >
+name=脱衣
+descr=储备效果\n交换角色的基础ATK和DEF。\n倒下或再次使用「脱衣」时效果结束。
+flavor=「消散吧……」—京介
+
+< CARD_HYPER_KAE >
+name=爆燃！
+descr=5×5范围内的角色获得「爆燃！」效果，\n并刷新已有「爆燃！」效果的持续时间。\n持续效果（3轮）\n战斗时ATK+1·DEF-1。\n倒下时效果结束。
+flavor=「很好！很好！现在的感觉，最棒了！」—佳爱
+
+< CARD_HYPER_KRILA >
+name=玩偶使
+descr=将3～5张「起舞吧长耳兽」\n设置在随机的格子上。
+flavor=「起舞吧长耳兽！」—克里拉拉莉丝
+
+< CARD_HYPER_KRILA2 >
+name=起舞吧长耳兽
+descr=受到2点伤害。\n设置这张卡的玩家获得1点HP。\n储备效果\n在下一场战斗中ATK-2。\n这张卡对设置它的玩家不会起效。
+flavor=「起舞吧长耳兽！」—克里拉拉莉丝
+
+< CARD_HYPER_ALTE >
+name=自爆
+descr=倒下时也将对方击倒。\n对方不会获得STAR和WIN，\n且失去一半的STAR。
+flavor=「我没法回去了……抱歉。」—阿露特
+
+< CARD_HYPER_KYOKO >
+name=水晶障壁
+descr=储备效果（3）\n陷阱·战斗·掉落无效，\n受到1点伤害并消耗1层储备。\n倒下时效果结束。
+flavor=「我也不中用了啊……」—京子
+
+< CARD_HYPER_SHAM >
+name=三角力场
+descr=直到你的下一个回合前，所有敌人受到\n以下效果：\n骰子投出的点数为1。
+flavor=「既然你无论如何都不肯回去，\n那我就只好不择手段把你带回去了！」—夏姆
+
+< CARD_HYPER_SHERRY >
+name=变化无常的风车
+descr=按顺序与其他所有玩家进行对方先攻的战斗。\n战斗中EVD+1。
+flavor=「我们只是，想要自由地飞翔而已。」—雪莉
+
+< CARD_HYPER_STARBREAKER >
+name=星球的导火线
+descr=将3～5个「不可视的炸弹」\n设置在随机的格子上。
+flavor=「因为我是星球破坏者，\n破坏星球的导火线。」—星球破坏者
+
+< CARD_HYPER_STARBREAKER2 >
+name=不可视的炸弹
+descr=HP变为1。\n这张卡对设置它的玩家不会起效。\n只有设置这张卡的玩家可以看到这张卡。
+flavor=「因为我是星球破坏者，\n破坏星球的导火线。」—星球破坏者
+
+< CARD_HYPER_SWEETBREAKER >
+name=融化的记忆
+descr=★COST（其他玩家的手牌数×5）\n除你以外的所有玩家随机丢弃1张手牌，\n从卡堆抽取1张卡，然后手牌全部翻转。
+flavor=「向身为神明的我发出挑战的愚蠢，\n就让你切身品味一下吧。」—甜点破坏者
+
+< CARD_HYPER_QPD >
+name=甜点守护者
+descr=从卡堆里抽取2张名字含有「布丁」的卡片。\n如果卡堆中没有名字含有「布丁」的卡片，\n随机获得1张「危险布丁」或「糟糕的布丁」。
+flavor=「小布丁……\n我、我……爱死你了。」—QP
+
+< CARD_HYPER_SORAM >
+name=才气觉醒
+descr=回合结束前，移动·战斗·奖励·掉落时\n骰子投出的点数为5。\n这张卡也可以作为战斗卡使用。
+flavor=「开始……工作。」—优空
+
+< CARD_HYPER_MIXEDPOPPO >
+name=亚空间通道
+descr=★COST（等级×5）\n持续效果（等级数轮）\n4～6个格子变为「传送移动格」。\n并且传送至其中一个。
+flavor=「啵！啵！啵！啵啵噗～！」—玛丽啵噗
+
+< CARD_HYPER_ARUSCRAMBLE >
+name=圣诞小姐的工作
+descr=在待命时，你可以选择这张卡以外的1张\n可用等级的手牌转让给另1名随机玩家。\n获得转让卡片等级×5的STAR。\n获得卡片的玩家，直到转让者的下一个\n回合前，无法对他人发起挑战。\n在使用或倒下时，将丢弃这张卡。
+flavor=「等着我们吧，全世界的孩子们！」—亚琉
+
+< CARD_HYPER_NATH >
+name=另一个最终兵器
+descr=★COST（持有的所有STAR）\nATK·DEF+1。\n此外，COST每消耗20颗STAR，\nATK·DEF+1。
+flavor=「因为你不在了，\n所以我代替你成为了最终兵器。」—娜德
+
+< CARD_HYPER_MIMYUU >
+name=阴谋的间谍行动～预备
+descr=把「阴谋的间谍行动～执行」×4张\n放入卡堆随机位置。
+flavor=「被米缪亲的恶作剧\n吓得瑟瑟发抖吧。」—米缪
+
+< CARD_HYPER_MIMYUU2 >
+name=阴谋的间谍行动～执行
+descr=这张卡无法使用。\n持有这张卡时，\n在你的回合结束时受到3点伤害。\n然后，这张卡从游戏中除外。
+flavor=「中计了吧！接招吧！！」—米缪
+
+< CARD_HYPER_TOMATO >
+name=阴谋机器人出动！
+descr=这场战斗中ATK+X，DEF+X，EVD-X。\nX为对方手牌张数。
+flavor=「复仇！」—托玛特
+
+< CARD_HYPER_KIRIKO >
+name=决杀手术
+descr=击倒所有HP为1的角色。\n每通过该效果击倒1名角色，移除1层「奇怪的药」，获得25颗STAR。
+flavor=「我这就给你治疗，\n乖乖待着别动。」—斩子
+
+< CARD_HYPER_NONAME >
+name=统治者
+descr=BOSS现身。\n当BOSS已经出现在场地上时，\n将此卡视为战斗卡：\n取消对方所选择的任何战斗卡。\n战斗结束，对方转而与BOSS战斗。\n只能对玩家使用。
+flavor=「哈哈哈，我的朋友来啦！」—NoName
+
+< CARD_HYPER_CEOREPARQUE >
+name=束发魔女
+descr=指定1名角色下次无法移动。
+flavor=「蕾帕的头发是无法挣脱的。」—柯欧蕾帕露可
+
+< CARD_HYPER_MIUSAKI >
+name=坚实魔女
+descr=持续效果（1轮）\n不会受到伤害。
+flavor=「无论怎样的攻击都不会觉得疼！」—美羽咲
+
+< CARD_BATTLE_DARKSIDEOFBUSINESS >
+name=阴谋的资金筹集
+descr=ATK+2，对方DEF-2。造成的每点伤害改为偷取5颗STAR。
+flavor=「勒索」—指使用暴力从弱者手中榨取资金，\n也就是恶人的资金筹集。
+
+< CARD_EVENT_PARTYTIME >
+name=派对时间
+descr=所有角色随机传送至同一格。\n回合结束。
+flavor=「今宵之宴，暗兽狂舞。」—克里拉拉莉丝
+
+< CARD_BOOST_TREASURETHIEF >
+name=宝物小偷
+descr=从同一格的每名玩家手中随机偷取1张卡片。
+flavor=「啵呀～噗～！（得到宝物了！）」—玛丽啵噗
+
+< CARD_GIFT_LOSTCHILD >
+name=迷路的孩子
+descr=持有这张卡时，前进方向反转，\n无法进行目标检测。\n在使用或倒下时，将丢弃这张卡。
+flavor=「这里是哪啦？」—杏
+
+< CARD_TRAP_WANTED >
+name=通缉令
+descr=储备效果\n被战斗击倒时对方获得双倍WIN。\n倒下时效果结束。
+flavor=「在这边！我的鼻子是不会错的！」—QP
+
+< CARD_GIFT_PRICEOFPOWER >
+name=力量的代价
+descr=你可以使用比当前等级高1级的卡片。\n所有卡片COST+5。\n使用将丢弃这张卡。
+flavor=「有着这样的身体，就算在战争中活下来了，\n我也做不了任何事。」—娜德
+
+< CARD_GIFT_VALENTINESDAY2018 >
+name=甜点战争！
+descr=持有时：获得的巧克力变为2倍。\n战斗用：每造成1点伤害偷取200个巧克力。\n在使用或倒下时，将丢弃这张卡。
+flavor=「Cute又Sweet的战斗再次开始了！」—QP
+
+< CARD_GIFT_VALENTINESDAY2018_BINDER >
+name=甜点战争！
+descr=「<player>，情人节快乐！」—QP
+flavor=
+
+< CARD_HYPER_YUKIDANGEROUS >
+name=阴谋的操纵者
+descr=从卡堆抽取3张陷阱卡，\n将手牌中的所有陷阱卡设置在随机的格子上。 
+flavor=「因我的力量而颤抖吧！」—由希
+
+< CARD_HYPER_TOMOMOCASUAL >
+name=奇迹红豆冰淇淋
+descr=ATK+1。\n使用将丢弃这张卡。\n兔萌萌（休闲）：\n当使用时，变身为「兔萌萌（甜点品尝者）」\n恢复所有HP。\n兔萌萌（甜点品尝者）：\n当持有时，此卡会变为「魔法复仇」。
+flavor=「奇迹红豆冰淇淋～」—兔萌萌
+
+< CARD_HYPER_TOMOMOSWEETEATER >
+name=魔法复仇
+descr=你目前所缺失的每点HP，\n使除你以外的随机1名角色受到1点伤害。\n造成击倒时获得1WIN。\n当持有者不是「兔萌萌（甜点品尝者）」时，\n此卡会变为「奇迹红豆冰淇淋」。
+flavor=「魔法复仇的时间到了！」—兔萌萌
+
+< CARD_HYPER_SUGURI_V2 >
+name=星之再生
+descr=★COST（等级×3）\n持续效果（3轮）\n所有掉落格变为奖励格。\n所有遭遇格与BOSS格变为抽卡格。\n站在被影响的格子上时ATK-1。
+flavor=「你所守护的梦想，\n已经传遍了整个星球。」—须玖莉
+
+< CARD_HYPER_TSIH >
+name=隐身启动
+descr=持续效果（3轮）\n无法被挑战或被其他玩家的增益卡指定为目标。\n不会触发遭遇格或BOSS格。\n进入战斗时效果结束，\n并且这场战斗中ATK+2。
+flavor=「一下子就消失了啦！」—杏
+
+< CARD_HYPER_TEQUILA >
+name=海贼在天上飞？
+descr=将2～3张「飞天海贼」\n设置在随机的格子上。
+flavor=「又没有不让海贼在天上飞的法律！」—铁基拉
+
+< CARD_HYPER_TEQUILA2 >
+name=飞天海贼
+descr=与设置这张卡的玩家\n所召唤的「海贼小弟」战斗。\n对方先攻。\n这张卡对设置它的玩家不会起效。
+flavor=「老大——！」—海贼小弟
+
+< CARD_HYPER_MEI >
+name=白色圣诞大粉碎
+descr=丢弃所有手牌并对3×3范围内的其他玩家造成\n2点伤害。\n获得击倒玩家数的WIN\n与其总等级×5的STAR。\n当手中持有「小红＆小蓝」时，\n这张卡会变为「真·白色圣诞大粉碎」。
+flavor=「白色圣诞大粉碎！」—梅依
+
+< CARD_HYPER_MEITRUE >
+name=真·白色圣诞大粉碎
+descr=对5×5范围内的其他玩家造成4点伤害。\n获得击倒玩家数×2的WIN\n与其总等级×10的STAR。\n当手中没有「小红＆小蓝」时, 这张卡会变为\n「白色圣诞大粉碎」。
+flavor=「白色圣诞大粉碎！」—梅依、小红和小蓝
+
+< CARD_GIFT_REDBLUE >
+name=小红＆小蓝
+descr=ATK·DEF·EVD+1。\n在使用、丢弃或倒下时，\n这张卡从游戏中除外。
+flavor=「已经撑不住了。」—小红和小蓝
+
+< CARD_HYPER_NATSUMI >
+name=烹饪时间
+descr=★COST（等级×5）\n为所有玩家恢复你等级数的HP。\n获得恢复量×5的STAR。
+flavor=「开饭啦～♪」—夏美
+
+< CARD_HYPER_NICO >
+name=奇迹漫步
+descr=所有的手牌（包括这张卡）\n变为随机HYPER卡。\n这个回合你可以再使用1张卡片。
+flavor=「哇～！妮可会加油的！」—妮可
+
+< CARD_HYPER_ARTHUR >
+name=店铺扩张战略
+descr=★COST（手牌数×5）\n所有的手牌（包括这张卡）\n变为「兔子模玩店」。\n这个回合你可以再使用1张卡片。
+flavor=「哼。」—亚瑟
+
+< CARD_HYPER_ARTHUR2 >
+name=兔子模玩店
+descr=支付X颗STAR给设置这张卡的玩家，\nX为设置这张卡的玩家的等级数。\n从卡堆抽取1张卡。\n这张卡在触发后仍会留在场上，\n但能够被新的陷阱替换。\n这张卡对设置它的玩家不会起效。
+flavor=「接下来该开店了。」—亚瑟
+
+< CARD_HYPER_IRU >
+name=扩散光子步枪
+descr=★COST（等级×5）\n随机1名敌人受到1点伤害。\n造成击倒时获得1WIN。\n该效果发动次数为你的等级数。
+flavor=「我要把你们都击坠。」—依琉
+
+< CARD_HYPER_MIRA >
+name=空间的跳跃（标记）
+descr=对你所在的格子进行标记。\n如果场上已存在被你所标记的格子，\n这张卡会变为「空间的跳跃」。\n这张卡在使用时不会被丢弃。
+flavor=「嗖的一下。」—米拉
+
+< CARD_HYPER_MIRA2 >
+name=空间的跳跃
+descr=传送至被你所标记的格子并移除标记。\n3×3范围内的敌人获得\n「束缚的烟幕」效果。\n如果场上没有被你所标记的格子，\n这张卡会变为「空间的跳跃（标记）」。
+flavor=「嗖的一下。」—米拉
+
+< CARD_HYPER_CUTIES >
+name=特别演出
+descr=★COST（等级×10）\n进入X回合的演唱会模式，X为你的等级数。\nMOV-3，只能触发移动类型的格子，无法使用\n卡片。\n无法被挑战或被增益卡指定为目标。\n当对手在5×5范围内结束回合时，\n从其手中夺取你等级×5的STAR。\n倒下时演唱会结束。
+flavor=「这就是最强的可爱者！」—优空和夏姆
+
+< CARD_HYPER_YUUKI_ANGEL >
+name=天使之手
+descr=指定玩家恢复所有HP，\n获得恢复量×10的STAR。\n在偶数轮时，这张卡会变为「恶魔之手」。
+flavor=「这就是慈悲的力量。」—夕希
+
+< CARD_HYPER_YUUKI_DEVIL >
+name=恶魔之手
+descr=随机1名玩家HP降低至1，\n获得降低量×10的STAR。\n在奇数轮时，这张卡会变为「天使之手」。
+flavor=「尝尝恶魔之力吧。」—夕希
+
+< CARD_HYPER_ISLAY >
+name=劲敌
+descr=与指定玩家战斗，由你先攻。\n这场战斗中ATK+1。
+flavor=「我也有……我自己的战斗。」—艾拉
+
+< CARD_HYPER_MIO >
+name=魔法狱火
+descr=将除你所在的格子外，与其相连通的\n十字方向的格子上的所有敌人击倒。\n击倒敌人时，你获得等同于在战斗中击倒的\nSTAR。\n然后回合结束。
+flavor=「狱火！」—魅樱
+
+< CARD_BATTLE_DESPERATEMODIFICATION >
+name=自暴自弃的改造
+descr=这场战斗中，\n攻击·防御·闪避时，投点为1或6。
+flavor=「装上了那么重的东西，太可怜了吧！」—玛儿
+
+< CARD_BOOST_PATHBLOCKERS >
+name=拦路者
+descr=储备效果（1）\n指定1名存活角色，当这名角色移动到设置了\n陷阱卡的格子时，必须停留在那一格。
+flavor=「这里由我们阴谋组把守，\n谁都别想过！」—托玛特
+
+< CARD_EVENT_ACCELERATINGSKY >
+name=加速空域
+descr=持续效果（3轮）\n所有玩家EVD+1，DEF-1。
+flavor=「在天空中飞翔的少女们……？」
+
+< CARD_TRAP_POPPOTRANSFORMATION >
+name=啵噗化
+descr=储备效果（1）\n在下一场战斗中，ATK·DEF·EVD变为-1。
+flavor=「啵噗！啵噗噗噗！！！」—大家
+
+< CARD_GIFT_POPPOTHESNATCHER >
+name=掠夺者啵噗
+descr=DEF-1。\n在你的回合，经过敌人时偷取\n其等级×3的STAR。\n无法进行目标检测。\n在使用或倒下时，将丢弃这张卡。
+flavor=「啵嘻嘻！！」—啵噗
+
+< CARD_GIFT_BLOODLUST >
+name=鲜血渴望
+descr=在你的回合开始时失去1点HP。\n每造成1点伤害时恢复1点HP。\n无法进行目标检测。\n在使用或倒下时，将丢弃这张卡。
+flavor=「我的野兽的真实力量……\n如果是这样的就好了。」—克里拉拉莉丝
+
+< CARD_BATTLE_SINKORSWIM >
+name=赌命一搏
+descr=ATK·DEF·EVD-1。\n如果你在这场战斗中取得胜利，\n从对方手中夺取的STAR增加50%。
+flavor=「好了，来赌波大的吧！」—由希
+
+< CARD_BATTLE_SERIOUSBATTLE >
+name=殊死对决
+descr=在这场战斗中，双方的ATK·DEF·EVD变为0。
+flavor=「来一场力与力的较量吧！」—兔萌萌
+
+< CARD_BATTLE_PORTABLEPUDDING >
+name=便携布丁
+descr=在这场战斗开始时，将HP重置为HP上限。
+flavor=「今天的便当是布丁！」—QP
+
+< CARD_BOOST_SWEETDESTROYER >
+name=甜点的破坏者
+descr=从其他玩家手中各随机夺取1张名字\n含有「布丁」的卡片。\n这个回合你可以再使用1张卡片。\n3轮内，抽取的所有非Hyper甜点类卡片\n随机永久变为「危险布丁」或「糟糕的布丁」。
+flavor=「给世间带来灾祸的甜点……\n就由我来破坏！」—甜点破坏者
+
+< CARD_BOOST_BACKDOORTRADE >
+name=幕后交易
+descr=★COST（等级×5）\n进行目标检测，之后回合结束。\n只有等级最低的玩家可以使用。\n等级为5时无法使用。
+flavor=「这就是你要的货。」—铁基拉\n「不愧是真正的恶人！干得真棒！」—米缪
+
+< CARD_EVENT_SERENEHUSH >
+name=宁静
+descr=持续效果（1轮）\n不会发生战斗。
+flavor=「好闲啊……」—栖海花\n「享受这份宁静吧。」—须玖莉
+
+< CARD_EVENT_UNPAIDWORK >
+name=劳而无薪
+descr=持续效果（1轮）\n所有角色无法从任意来源获得STAR。
+flavor=「里面根本没有工资啊！」—克丽丝
+
+< CARD_EVENT_INDISCRIMINATEFIRESUPPORT >
+name=无差别火力支援
+descr=持续效果（无限）\n随机1名角色受到1点伤害。\n在你的回合开始时重复这个效果。\n当有角色倒下时效果结束。
+flavor=「……」—优空
+
+< CARD_GIFT_LUCKYCHARM >
+name=幸运护符
+descr=在你的回合开始时获得等级数的STAR。\n无法使用其它卡片。\n被战斗击倒时，需额外给予等级×3的STAR。\n使用将丢弃这张卡。
+flavor=「哇哈～里面装满了星星！\n太走运了！！」—兔萌萌
+
+< CARD_GIFT_METALLICMONOCOQUE >
+name=全金属单体结构
+descr=战斗外效果对你造成伤害时，这个伤害\n降低1点，你失去等级×2的STAR。
+flavor=「毕竟这是个懦弱的时代。」—雪莉
+
+< CARD_TRAP_IWANNASEEYOU >
+name=好想见到你
+descr=设置这张卡的玩家传送至触发陷阱的格子。\n这张卡在触发后不会被丢弃，而是被触发它\n的玩家获得。
+flavor=「QP太……好想立刻见到你。」—京介
+
+< CARD_TRAP_ENCORE >
+name=安可
+descr=当这张卡在奖励、掉落、抽卡或遭遇格\n触发时，格子的效果会发动两次。
+flavor=「安可！安可！」
+
+< CARD_BOOST_OVERTIME >
+name=加班
+descr=在这个回合，移动骰枚数变为3枚。\n跳过下一个回合。
+flavor=「只、只要能有加班费拿我也就\n不会抱怨什么……」—克丽丝
+
+< CARD_BATTLE_DECEPTIVEDISARMING >
+name=虚假除械
+descr=这场战斗中，对方在使用战斗卡时，如果卡片\n不受行动顺序限制，其效果将变为对你起效。\n若成功发动，对方无需支付卡片COST。
+flavor=「里面竟然都是危险品！」—托玛特
+
+< CARD_EVENT_PETSNACKS >
+name=宠物零食
+descr=所有野怪在下次战斗中ATK·DEF·EVD+1。
+flavor=「快过来，点心时间到啦！吃吧吃吧！」—秀拉
+
+< CARD_EVENT_HOMEIMPROVEMENT >
+name=家居翻修
+descr=在下一个你的回合开始时，随机交换\nHOME格的位置。\n各HOME格第一个踩到的玩家抽取1张卡。
+flavor=「栖海花要给栖海花造一个绝妙的住处。」\n—栖海花
+
+< CARD_TRAP_BANANANA >
+name=香蕉奈奈子
+descr=再次投掷骰子移动，且不触发这个格子。
+flavor=「你以为是香蕉吗？遗憾，是我奈奈子！」\n—奈奈子
+
+< CARD_GIFT_LUCKYSEVENS >
+name=幸运7
+descr=持有这张卡片时，骰子的投点范围\n变为0～7，投出0时最小结果为0。\n在移动骰为0的回合无法进行目标检测。
+flavor=「让我来的话，想投几就是几。」—由希
+
+< CARD_BOOST_WARPCONTROL >
+name=传送操控
+descr=★COST（等级×5）\n当你下次触发传送或传送移动格时，选择另一个\n传送或传送移动格作为传送目标。
+flavor=「好棒的风啊！」—库克
+
+< CARD_EVENT_REBELLION >
+name=反抗
+descr=持续效果（3轮）\n所有玩家在与等级比自己更高的玩家战斗时，\nATK·DEF·EVD+1。
+flavor=「在不久的将来，公会将会背叛你。\n……记住这件事吧」—雪莉
+
+< CARD_GIFT_NANAKOBIT >
+name=奈奈子的浮游炮
+descr=持有这张卡时，进入战斗随机获得\nATK+1、DEF+1或EVD+1，并失去\n7颗STAR。\n在使用或倒下时，将丢弃这张卡。
+flavor=「你在搞什么啊！」—奈奈子
+
+< CARD_TRAP_BANKOFPOPPO >
+name=啵噗银行
+descr=第一个触发此陷阱的角色失去等级×10的\nSTAR。\n当有STAR失去时，陷阱将存留至第二次\n发动，第二个触发此陷阱的玩家获得\n这些STAR。
+flavor=「我的钱竟然被……！」—凯
+
+< CARD_BOOST_MYWILDFRIENDS >
+name=我的野生朋友们
+descr=将一个可能出现的随机野怪类型的友好角色召唤\n至同一格，并让其获得1点HP。\n召唤物将自动挑战敌人，战斗中获得STAR的\n50%将给予召唤者。\n它将替代之前的召唤物。
+flavor=「偶尔放松一下也不错啊。」—缇欧特拉塔
+
+< CARD_BATTLE_CONTESTOFCUTENESS >
+name=可爱大对决
+descr=先攻时才能使用。战斗结果将由一场可爱对决来决定。\n可爱度=10-HP上限-ATK+EVD，最低为0。\n双方不再投掷进攻骰，而是投掷两枚骰子，并将\n结果累加至可爱度中。可爱度较高者将夺取\n失败方等级×5的STAR，并获得1WIN。\n然后结束战斗。\n只能对玩家使用。
+flavor=「那么谁才是最可爱的人呢！？」—纱季
+
+< CARD_HYPER_SUGURI46 >
+name=永恒的观测者
+descr=随机生成2张能造成伤害的增益/事件卡，\n加入你的手牌。\n这个回合你可以再使用1张卡片。
+flavor=「接下来，就让我们见证一下吧。」—须玖莉
+
+< CARD_HYPER_SUMIKA >
+name=记录重现
+descr=将弃牌堆中除「记录重现」外最后2张卡片\n的副本加入你的手牌。\n这些卡在你手中时将被视为1级\n且无需基础COST。
+flavor=「栖海花甜美回忆！」—栖海花
+
+< CARD_HYPER_ELLIE >
+name=艾莉的奇迹
+descr=★COST（等级×10）\n持续效果（2轮）\nATK+X，DEF+Y，EVD+Z。\nX为完成目标的总次数。\nY为完成WIN目标的次数。\nZ为完成STAR目标的次数。
+flavor=「尝尝我的奇迹吧！」—艾莉
+
+< CARD_HYPER_LULU >
+name=露露的幸运蛋
+descr=只能在2HP及以下使用。\n随机获得以下一种效果：\n・投掷一枚骰子，获得骰子点数×20的STAR。\n・抽取5张卡。\n・恢复所有HP，获得永久ATK、DEF、\n　EVD+1。这个效果只能发动1次。
+flavor=「马……马上就要生出来了……」—露露
+
+< CARD_HYPER_MARCPILOT_NORMAL >
+name=火箭炮
+descr=对指定敌人造成1点伤害。\n击倒角色时，你获得等同于战斗击倒的WIN。\n你也可以选择支付这张卡的COST，将这张卡\n变为「大火箭炮」。
+flavor=「赤红酒桶上……\n可是有着这种武器的！」—玛儿
+
+< CARD_HYPER_MARCPILOT_UPGRADE >
+name=大火箭炮
+descr=对指定敌人造成3点伤害。\n击倒角色时，你获得等同于战斗击倒的WIN。\n当你使用另一张卡或倒下时，\n这张卡变为「火箭炮」。
+flavor=「上吧——！」—玛儿
+
+< CARD_HYPER_ALICIANRONE >
+name=急速的亚莉希安罗妮
+descr=投掷一枚骰子，移动骰子点数×3的格数。\n经过敌人时造成骰子点数的伤害。\n此伤害造成击倒时，你获得等同于战斗击倒\n的WIN。\n效果结束后，回合结束。
+flavor=「冲过去，砍出一条路！」—亚莉希安罗妮
+
+< CARD_HYPER_TEOTORATTA >
+name=兽之魔女
+descr=当其他玩家在遭遇格的战斗中失去STAR，\n且这些STAR将由遭遇格角色获得时，这些\nSTAR会由你获得。\n效果发动后，在你的回合结束时将丢弃这张卡。\n多个角色持有「兽之魔女」时，这些STAR\n将平均分配。
+flavor=「服从我吧！野兽们！」—缇欧特拉塔
+
+< CARD_HYPER_ARNELLE >
+name=情报官
+descr=根据卡堆顶部的卡片类型，\n可以获得以下一种效果。\n事件卡：ATK+3\n增益卡：DEF+3\n其它：EVD+3
+flavor=「我已经看穿了一切。」—阿妮尔
+
+< CARD_HYPER_MAYNIE >
+name=愤怒狂暴
+descr=获得1点愤怒值。\n指定另一名存活玩家并进入「狂暴模式」：\nATK·EVD+X，X为你的愤怒值。\n目标倒下时「狂暴模式」结束，愤怒值归0。\n战斗击倒目标时额外获得2WIN，击倒其余\n角色获时得的STAR和WIN减半。
+flavor=「嘎哦哦哦哦！」—梅妮
+
+< CARD_HYPER_KYUPITA >
+name=圣露眼
+descr=储备效果（3）\n在由你先攻的战斗中，\n每奇数层储备使ATK+1，\n每偶数层储备使DEF+1，\n然后消耗1层储备。\n该效果可叠加。
+flavor=「就靠我这圣露眼！！」—QP太
+
+< CARD_HYPER_CHRIS_CHEF >
+name=拜托了厨师长！
+descr=召唤「厨师长」。\n「厨师长」会代替你的角色进行战斗。\n倒下时给予2WIN。\n战斗所得的STAR由你的角色获得。\n当「厨师长」倒下时效果结束。\n当店长值大于等于4且你的等级大于等于4时，\n这张卡会变为「拜托了店长！」。
+flavor=「厨师长！拜托您了！」—克丽丝
+
+< CARD_HYPER_CHRIS_MANAGER >
+name=拜托了店长！
+descr=召唤「店长」。\n「店长」会代替你的角色进行战斗。\n倒下时给予2WIN。\n战斗所得的STAR由你的角色获得。\n当「店长」倒下时效果结束且店长值重置为0。\n当店长值小于4时，\n这张卡会变为「拜托了厨师长！」。
+flavor=「帮帮我，店长！」—克丽丝
+
+< CARD_HYPER_HALENA >
+name=平安的旅途
+descr=每次回合开始时失去5颗STAR。\n忽略掉落格、陷阱及来自卡片效果的伤害。\n当你停留在自己的HOME格或\n持有的STAR少于5个时效果结束。
+flavor=「好，我们出发吧。」—哈琳娜
+
+< CARD_HYPER_COOK >
+name=风信鸡的指引
+descr=储备效果\n除战斗外，骰子枚数变为2枚。\n当你停留在自己的HOME格时效果结束。\n只能在自己的HOME格进行目标检测。
+flavor=「叽叽，库克想去这边。」—库克
+
+< CARD_HYPER_LONERIDER >
+name=升档
+descr=★COST（10+升档层数×10）\n储备效果（2）\nMOV+1。此效果可叠加（上限为6）。\n如果你在回合结束时仍有剩余移动点数，\n你将失去1层升档。
+flavor=「……不要跟着我。」—孤独车手
+
+< CARD_HYPER_MERCHANT >
+name=炽热的商人之魂
+descr=获得等同于你等级数的「货物」。\n当你的手牌中拥有「货物」时，此卡\n能作为战斗卡使用：\n在这场战斗中，获得手中「货物」数的ATK。
+flavor=「超载？要许可的话，我可是已经\n好好弄到了哦。」—商人
+
+< CARD_BATTLE_FREIGHT >
+name=货物
+descr=若对方未使用战斗卡，给予对方1张「货物」\n并取消战斗。\n后攻时才可以使用。\n当你停留在自己的HOME格时，\n此卡将被丢弃，并获得5颗STAR。
+flavor=「那个货物就让给你了。是的，让给你了。」\n—商人
+
+< CARD_HYPER_HIMEV2 >
+name=月夜之舞
+descr=成功闪避时，向对方造成你原本会受到的伤害。\n由月夜姬梦在满月期间（每5轮）使用时，\n可以造成双倍伤害，但无法使用防御。
+flavor=「来，一起跳舞吧。」—姬梦
+
+< CARD_HYPER_FERNET_NOBILITY >
+name=社交界亮相
+descr=储备效果\n所有对手在下一场战斗中\nATK·DEF·EVD中的一项-1。\n持有者为菲尔涅特时，可选择将此卡变为\n「富豪（1）」。
+flavor=「能认识你是我的荣幸，愿我们友谊长存。」\n—菲尔涅特
+
+< CARD_HYPER_FERNET_AFFLUENCE >
+name=富豪（X）
+descr=★COST（X）×10\n此卡为「富豪（4）」时：所有存活玩家按随机顺序与你战斗，对方ATK-3。你无法攻击。\n如果你未被击倒，对方给予你其等级×10的STAR。\n此卡为「富豪（4）」以下时：升级此卡。\n当持有者不是菲尔涅特时，此卡会变为「社交界亮相」。
+flavor=「你想请我帮忙……？\n哎呀哎呀，我当然乐意帮助朋友了。」\n—菲尔涅特
+
+< CARD_HYPER_FERNET_AFFLUENCE_V >
+name=富豪（%d）
+descr=此卡为「富豪（4）」时：所有存活玩家按随机顺序与你战斗，对方ATK-3。你无法攻击。\n如果你未被击倒，对方给予你其等级×10的STAR。\n此卡为「富豪（4）」以下时：升级此卡。\n当持有者不是菲尔涅特时，此卡会变为「社交界亮相」。
+flavor=「你想请我帮忙……？\n哎呀哎呀，我当然乐意帮助朋友了。」\n—菲尔涅特
+
+< CARD_HYPER_MALT >
+name=黄昏色的梦
+descr=★COST（等级×7）\n持续效果（等级数轮）\n将所有奖励格与抽卡格变为遭遇格。\n当敌人移动到你设置了战斗卡陷阱的遭遇格时，\n必须停在这一格。
+flavor=「天空中飞舞着无数的飞翼。\n你不觉得这简直就是梦境般的景象吗？」\n—莫尔特
+
+< CARD_HYPER_MESCAL >
+name=小麦格农炮
+descr=这场战斗中ATK+1。\n此外，你在这场战斗中受到的伤害值也会\n提高你的ATK。
+flavor=「别欺负爸爸——！」—梅丝卡尔
+
+< CARD_HYPER_SHIFU >
+name=梦寐以求的世界
+descr=在所有未放置陷阱的HOME格放置「袭来」。\n所有玩家之后2次遭遇战都将与机械系野怪\n战斗，且此机械系角色将ATK+1。\n此效果可叠加。
+flavor=「一切都如我所愿。」—希夫
+
+< CARD_HYPER_REIKA >
+name=星星收集者
+descr=持续效果（3轮）\n当其他角色从格子或战斗击倒获得STAR时，\n将少获得你等级数的STAR，而你将获得\n你等级数的STAR。\n倒下时效果结束。
+flavor=「呵呵呵，好多星星啊。」—丽华
+
+< CARD_HYPER_WATTY >
+name=魔力解放
+descr=持续效果（3轮）\nDEF+2。硬化鳞片的最大层数增加至10。\n当你获得10层硬化鳞片时，击倒其他所有\n玩家。
+flavor=「这、这很危险的……对不起。」—沃缇
+
+< CARD_HYPER_POMERANIUS >
+name=可爱到犯规的小狗狗
+descr=持续效果（3轮）\n免疫立即击倒效果。\n当你与另一名玩家在同一格，且其中一方回合\n结束时，你获得对方一张随机手牌的副本。\n无法发起挑战或受到挑战，相对的，对方可以\n停下来摸摸你。倒下时效果结束。
+flavor=「呜呜～」—波美拉尼亚斯
+
+< CARD_HYPER_SWEETCREATOR >
+name=甜点天堂
+descr=将3～5张「甜点纵溺」设置在随机的格子上。
+flavor=「这就是甜点之神的力量！」—甜点创造者
+
+< CARD_HYPER_SWEETCREATOR2 >
+name=甜点纵溺
+descr=将你的所有手牌变为非Hyper甜点类卡片。
+flavor=「我想用甜点填满你。」—甜点创造者
+
+< CARD_HYPER_SWEETMAKER >
+name=甜点制作者的魔法
+descr=这场战斗中手牌内每有一张甜点类卡片时，\n恢复1HP，ATK+2。丢弃所有甜点类卡片。
+flavor=「甜点之力最棒了！」—甜点制作者
+
+< CARD_HYPER_SWEETBLOGGER >
+name=甜点成堆大作战
+descr=从卡堆抽取3张增益卡。\n这个回合你可以再使用3张增益卡，且使用时\n只需1/3的COST。
+flavor=「诶嘿嘿，尽管来吃好吃的东西吧。」\n—甜点评论者
+
+< CARD_HYPER_MIOFESTIVE >
+name=圣诞狱火
+descr=HP降为1。\n对其他所有玩家造成等同于你失去HP数量\n的伤害。\n每因此击倒1名玩家获得一张「魅樱的圣诞\n蛋糕」。
+flavor=「给各位展示一下地狱之景。」—节庆魅樱
+
+< CARD_BOOST_XMASCAKE >
+name=魅樱的圣诞蛋糕
+descr=选择以下一种效果：\n·吃掉获得1点HP。\n·与指定玩家分享，为其恢复2点HP，再为你\n恢复相同数量的HP。
+flavor=「这是我的得意之作，请慢用♡」—节庆魅樱
+
+< CARD_HYPER_KRILAPAJAMA1 >
+name=将吾封印撼动之物
+descr=持有这张卡片时，每当你消除1点伤害，获得\n1层苏醒。（上限为4，效果无法叠加）。\n使用时将这张卡变为「当吾封印破除之时」。
+flavor=「我劝你不要太吵闹……」—克里拉拉莉丝
+
+< CARD_HYPER_KRILAPAJAMA2 >
+name=当吾封印破除之时
+descr=对其他所有玩家和BOSS造成X+1点\n伤害，X等于苏醒层数。\n移除所有苏醒层数。\n每移除2层苏醒获得1点HP。
+flavor=「道早安的时候到了……」—克里拉拉莉丝
+
+< CARD_HYPER_MIMYUUJAILBIRD >
+name=假想越狱
+descr=移动至自己的HOME格且不对其进行触发。\n无法被挑战或被其他玩家的增益卡指定为目标。\n免疫来自其他玩家的陷阱卡、立即击倒效果与\n卡片伤害。\n移动骰枚数变为2枚。\n移动20格后效果结束。
+flavor=「撒丫子跑呀！」—米缪
+
+< CARD_HYPER_MOTHERP >
+name=母亲之力
+descr=★COST（等级×2）\n持续效果（等级数轮）\n你受到的每点伤害使你获得等级数的STAR。\n当效果在存活时结束或被刷新，恢复所有HP。\n倒下时效果结束。
+flavor=「这就是母亲的包容力啵噗。」—母亲啵噗
+
+< CARD_HYPER_DARKL >
+name=露露是厄运之龙
+descr=只能在2HP及以下使用。\n随机获得以下一种效果：\n・投掷一枚骰子，其他所有玩家失去\n　骰子点数×其等级数的STAR。\n・其他所有玩家随机丢弃1张卡。\n・其他所有玩家HP降至2。
+flavor=「露露是……厄运之龙……」—黑暗露露
+
+< CARD_HYPER_HELLIE >
+name=艾莉的超能奇迹
+descr=持续效果（2轮）\n在先攻的战斗中ATK+X。\n在后攻的战斗中DEF·EVD+X。\nX为完成目标的总次数。
+flavor=「让你见识一下我的最强之力吧♡」—超能艾莉
+
+< CARD_HYPER_HKAI >
+name=前主角的光辉时刻
+descr=★COST（等级×7）\nHP降至1。\n持续效果（3轮）\nATK+2，EVD+5。
+flavor=「你可不要把大人给逼急了。」—勇者凯
+
+< CARD_HYPER_GRAIN >
+name=全炮门开启
+descr=消耗所有炮弹。对随机1名敌人造成1点伤害。\n造成击倒时，你获得1WIN与对方等级×10的\nSTAR。\n每消耗1枚炮弹重复一次此行为。
+flavor=「全炮门开启……发射！」—格雷因
+
+< CARD_HYPER_BOURBON >
+name=抵抗之心
+descr=指定1名存活的其他玩家。\n在其下次受到挑战或进行挑战时若你存活，\n则代替其进行战斗。\n这场战斗开始时，ATK·DEF·EVD+3。\n你同时只能指定一名玩家。
+flavor=「我们只是想在我们自己的天空中飞翔而已。」\n—波本
+
+< CARD_HYPER_POYO >
+name=超级青春Time
+descr=持续效果（1轮）\n攻击·防御·闪避·移动·奖励·掉落骰\n投点翻倍。
+flavor=「浓郁的青春开始啦！」—啵悠
+
+< CARD_HYPER_CHUU >
+name=该拿出点真本事了
+descr=★COST（等级×5）\n回合结束前，ATK+X，X为你的等级数。\n击倒敌人时不会获得STAR。\n效果存在期间初次战斗击倒玩家额外获得\n2WIN。
+flavor=「看来我要来点真格的了。」—䌷
+
+< CARD_HYPER_HARUKA >
+name=暖场高手
+descr=持续效果（3轮）\n以最大HP复活所有倒下的玩家。\n每当其他玩家倒下时，其立即以最大HP复活。\n每次复活你获得对方等级×5的STAR。\n该STAR获得效果可叠加。
+flavor=「大家都来热热闹闹地玩起来吧！」—春留果
+
+< CARD_HYPER_KANATA >
+name=故弄玄虚
+descr=指定1名其他玩家。\n暗自选择一种卡片类型（战斗、增益、事件、\n其它），然后公开宣称一种卡片类型。\n当该玩家使用的下一张卡片：\n·符合选择：你获得2WIN和等级×10的STAR。\n·仅符合宣称：你受到2点伤害。
+flavor=「你的手牌已经被我看透了。」—夏奈多
+
+< CARD_HYPER_SUMMER2018_ATTACKER >
+name=炎炎烈日的最终兵器
+descr=这场战斗中ATK+3。
+flavor=「休假开始了。」—优空
+
+< CARD_HYPER_SUMMER2018_DEFENDER >
+name=白色海滩的再生者
+descr=所有友方在下一场战斗中受到的伤害-2。
+flavor=「你们太闹腾啦，真是的。」—须玖莉
+
+< CARD_HYPER_SUMMER2018_SUPPORT >
+name=烂漫鲜花的守护神
+descr=指定1名倒下的同伴以最大HP复活。
+flavor=「没事的。看，已经不疼了吧。」—姬梦
+
+< CARD_HYPER_SUMMER2018_AVENGER >
+name=充满执念的复仇者
+descr=这场战斗中，双方所受的伤害翻倍。
+flavor=「米缪！\n是谁对你做了这么过分的事……」—托玛特
+
+< CARD_SUMMER2018_PROTECT >
+name=保护
+descr=被一个最多吸收2点伤害的护盾保护。
+flavor=
+
+< CARD_XMAS2018_GROWNUPSNOWBALLFIGHT >
+name=大人的打雪仗
+descr=在这个进攻回合，\n选择2个格子作为雪球的目标。\n忽略阻止使用这张卡的角色效果。
+flavor=「准备好接招了吗？」—亚瑟
+
+< CARD_XMAS2018_SNOWBALLREFLECTOR >
+name=雪球反射器
+descr=在这个防守回合，\n任何攻击你的雪球都会击中投掷它们的角色。\n忽略阻止使用这张卡的角色效果。
+flavor=「就、就这么回敬给你！」—亚琉
+
+< CARD_WINTER2022_FALSECAKE >
+name=魅樱的假蛋糕
+descr=选择以下一种效果：\n·吃掉它获得一种随机效果。\n·把它丢向指定的敌人造成1点伤害。（场上\n没有可指定的敌人时则会吃掉。）\n忽略阻止使用这张卡的角色效果。
+flavor=「这什么东西啊——！恶心想吐——！」\n—兔萌萌
+
+< CARD_CHAOS_ROOST >
+name=混沌鸡窝
+descr=召唤好斗鸡，能使你的攻击骰枚数+1。\n当好斗鸡在场上时，你的ATK·DEF-2。\n你同时只能在场上拥有一个召唤物。
+flavor=
+
+< CARD_CHAOS_PROTECT >
+name=混沌保护
+descr=储备效果（3）\n在你受到任意伤害时，每消耗1层储备可以\n将2点伤害降至1点。
+flavor=
+
+< CARD_CHAOS_ABYSS >
+name=来自混沌之渊
+descr=将混沌啵噗手下召唤至场上。\n造成的每点伤害改为偷取2颗STAR。\n倒下时给予2WIN，和10个召唤者的\nSTAR。\n你同时只能在场上拥有一个召唤物。
+flavor=
+
+< CARD_CHAOS_RAMPAGE >
+name=混沌撒野
+descr=将兴奋降至0。\n每3点兴奋对所有敌人造成1点伤害，并在下次\n被击倒前ATK+1。\n每通过此卡的伤害击倒1名\n角色，获得1点HP。
+flavor=
+
+< CARD_CHAOS_LAUNCH >
+name=混沌发射
+descr=选择想要俯冲至的格子，然后飞离场上，直至\n下一回合。该格不会向其他玩家展示。\n在下一回合，俯冲至所选的格子，且同一回合\n无法进行目标检测。\n5×5范围内的角色受到你等级数的伤害，\n3×3范围内的角色则受到你等级×2的伤害。\n每将一名角色击倒，你获得20颗STAR和\n2WIN。
+flavor=
+
+< CARD_CHAOS_ROULETTE >
+name=混沌转盘
+descr=随机获得「混沌鸡窝」、「混沌保护」或\n「来自混沌之渊」中的1张。\n这个回合你可以再使用1张卡片。
+flavor=
+
+< CARD_CHAOS_POOL >
+name=混沌泳池
+descr=随机召唤浮标、沙滩球力士或游泳圈套中的\n1名。\n你同时只能在场上拥有1个召唤物。\n若你在场上已有你的召唤物时再次使用这张卡，\n就会用一个不同的召唤物替换掉原有的。
+flavor=
+
+< CARD_CHAOS_GIFT_HOTPOTATO >
+name=烫手小精怪
+descr=一个捉摸不透的米缪附在了你的身上。\n在你的回合结束时，获得等级数的STAR。\n经过随机回合后将会发飙，把你的HP降为1，\n并转移至另一名玩家手中。\n使用时将转移至另一名玩家手中。\n无法丢弃或通过其它任何方式移除。\n忽略任何阻止这张卡起效的效果。
+flavor=
+
+< CARD_CHAOS_BDTT_HYPER >
+name=威压
+descr=指定1名倒下的敌人。\n当其下次倒下时，使其REC永久+3。\n该效果可叠加。
+flavor=
+
+< CARD_GENERIC_BATTLE >
+name=战斗卡
+descr=这是战斗用的卡片。
+flavor=「你的手牌已经被我看透了。」—夏奈多
+
+< CARD_GENERIC_BOOST >
+name=增益卡
+descr=这是增益卡。
+flavor=「你的手牌已经被我看透了。」—夏奈多
+
+< CARD_GENERIC_TRAP >
+name=陷阱卡
+descr=小心！这是个陷阱卡！
+flavor=「你的手牌已经被我看透了。」—夏奈多
+
+< CARD_GENERIC_EVENT >
+name=事件卡
+descr=这看起来是张事件卡。
+flavor=「你的手牌已经被我看透了。」—夏奈多
+
+< CARD_GENERIC_GIFT >
+name=礼物卡
+descr=礼物卡？送给我的？你可太客气了。
+flavor=「你的手牌已经被我看透了。」—夏奈多
+
+[EOF]

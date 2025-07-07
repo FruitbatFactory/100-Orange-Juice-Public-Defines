@@ -1,0 +1,24 @@
+
+< CARD_UNIT_HP_LABEL >
+ОЗ 
+
+< CARD_UNIT_BH_COSTS >
+%d% стоимость товара
+
+< CARD_RESTRICT_LEVEL_LABEL >
+СЛИШКОМ НИЗКИЙ УРОВЕНЬ
+
+< CARD_RESTRICT_STARS_LABEL >
+НЕДОСТАТОЧНО ЗВЁЗД
+
+< CARD_RESTRICT_STANDBY_LABEL >
+ТОЛЬКО В РЕЗЕРВЕ
+
+< CARD_RESTRICT_BATTLE_LABEL >
+ТОЛЬКО В БОЮ
+
+< CARD_RESTRICT_OFFENSE_LABEL >
+НЕ АТАКУЕТ
+
+< CARD_RESTRICT_DEFENSE_LABEL >
+НЕ ОБОРОНЯЕТ

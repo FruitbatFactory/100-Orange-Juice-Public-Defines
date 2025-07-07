@@ -1,0 +1,33 @@
+< CONSUMABLE_HEART_PINK >
+name=하트 (분홍)
+descr=친구나 특별한 사람에게 하트를 보내세요!
+
+< CONSUMABLE_HEART_BLACK >
+name=하트 (검정)
+descr=친구나 특별한 사람에게 하트를 보내세요!
+
+< CONSUMABLE_FIREWORKS_YELLOW >
+name=폭죽 (노랑)
+descr=게임 중에 폭죽을 쏘아올리세요!
+
+< CONSUMABLE_FIREWORKS_RED >
+name=폭죽 (빨강)
+descr=게임 중에 폭죽을 쏘아올리세요!
+
+< CONSUMABLE_FIREWORKS_GREEN >
+name=폭죽 (초록)
+descr=게임 중에 폭죽을 쏘아올리세요!
+
+< CONSUMABLE_FIREWORKS_BLUE >
+name=폭죽 (파랑)
+descr=게임 중에 폭죽을 쏘아올리세요!
+
+< CONSUMABLE_RAINYCLOUD >
+name=비구름
+descr=기분이 우중충한가요?
+
+< CONSUMABLE_BALLOONS >
+name=풍선
+descr=잠깐동안 여러분을 따라다니는 풍선 다발입니다.
+
+

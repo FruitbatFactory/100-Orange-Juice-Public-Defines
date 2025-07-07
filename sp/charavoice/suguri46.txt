@@ -1,0 +1,160 @@
+<0000> Rodando...
+<0001> Ya, está bien.
+<0002> Aquíii.
+<0003> Ahí...
+<0004> ¿Cómo se usaba esta cosa...?
+<0005> ¿Usar esto aquí está bien? ¿Lo dices con seguridad?
+<0006> Bien, usaré esto entonces...
+<0007> A lo mejor debería usar esto.
+<0008> ¿Acaso está bien dejar esto aquí?
+<0009> Hmm, bueno, lo que sea, será.
+<0010> Debo tener cuidado, no quiero caer en esta trampa.
+<0011> Hmm... ¿Aquí, a lo mejor?
+<0012> P-permíteme dejar esto aquí... Dame un segundo.
+<0013> Oh, debería usar esta carta.
+<0014> Aquí va una carta de batalla.
+<0015> Esto me dará más fuerza.
+<0016> Te mostraré mi movimiento definitivo... Espera, ya olvidé como se hace.
+<0017> He vuelto...
+<0018> Supongo que puedo hacer esto un poco más.
+<0019> Muy bien...
+<0020> Uu... No seré noqueada la próxima vez...
+<0021> ¿Quéeee?
+<0022> Eso fue un fracaso...
+<0023> La paciencia es una virtud... así que tomemos un descanso.
+<0024> Mmm, no estoy en forma.
+<0025> Te atacaré.
+<0026> Ey.
+<0027> Ahí.
+<0028> Yah.
+<0029> Wah.
+<0030> ¡Oye!
+<0031> ¡Uwah!
+<0032> Uee.
+<0033> Curación.
+<0034> Ah, esto se siente bien.
+<0035> Eso fue un buen respiro.
+<0036> Bien, bien.
+<0037> Wow, una teletransportación.
+<0038> Tengo un poco de vértigo...
+<0039> Mmm, me siento un poco rara.
+<0040> Vaya.
+<0041> Esto es horrible.
+<0042> ¿Qué? Esto es extraño.
+<0043> ¡Mhm!
+<0044> Abajo...
+<0045> T-tengamos una pelea justa.
+<0046> Espero que mi cuerpo esté listo para el combate.
+<0047> Me gustaría tener un combate relajante.
+<0048> Estoy preocupada, no sé si podré luchar bien...
+<0049> No estoy preparada para esto.
+<0050> Vaya, espera un segundo.
+<0051> Sólo quiero tener un juego pacífico...
+<0052> Diablos, no soy buena en esto...
+<0053> ¿Así?
+<0054> Tah.
+<0055> Ey.
+<0056> Yah.
+<0057> ¡Wah!
+<0058> Gee.
+<0059> ¡Uee!
+<0060> ¡Wawawa!
+<0061> Gee, eso es muy violento.
+<0062> Mhm, esto no es bueno.
+<0063> Eso es horrible.
+<0064> Para ya, gee.
+<0065> Oh vaya.
+<0066> Vaya, eso estuvo cerca.
+<0067> ¡Eso es aterrador!
+<0068> ¡Cuidado! ¡Cuidado!
+<0069> *suspiro* No me había ejercitado en mucho tiempo...
+<0070> B-bueno, así es como terminó, supongo.
+<0071> Casi fuí derrotada.
+<0072> Esto me deja internamente exhausta.
+<0073> Perdí...
+<0074> Estuve tan sorprendida que no pude moverme...
+<0075> Kyuu.
+<0076> Vamos, seamos pacifistas.
+<0077> Algo bueno ocurrirá si juntas muchas de estas, ¿verdad?
+<0078> Um, no puedo llevar tantas estrellas.
+<0079> Wow, son muchas.
+<0080> Estás estrellas también son bellas.
+<0081> Ugh, se me cayeron algunas...
+<0082> Muaah.
+<0083> Oh, no.
+<0084> ¿Qué? Eso es injusto...
+<0085> ¿Quién dejó esto aquí?
+<0086> Caí en una trampa...
+<0087> E-esto no es justo.
+<0088> Muahh, nooo.
+<0089> Eso parece problemático.
+<0090> Wow, es gigante.
+<0091> Mmm, esto no me gusta.
+<0092> ¿Acaso tendré que pelear contra eso...?
+<0093> Quiero hacer esto.
+<0094> Creo que iré a juntar estrellas.
+<0095> Tenemos que juntar muchas de ellas.
+<0096> Trabajaremos duro para conseguir muchas de ellas.
+<0097> Necesito un poco de ejercicio, ¿no?
+<0098> Mhm, solía tener muchos combates.
+<0099> Tomaré esto como un ejercicio un poco más duro...
+<0100> Bien, por primera vez en siglos, pelearé.
+<0101> ¿Quieres ir a jugar? Claro, ¿por qué no?
+<0102> Um, soy Suguri... espero tener un buen rato.
+<0103> Esto, eh, ¿yo? Claro, tengamos un buen juego.
+<0104> Estoy un poco nerviosa. Me pregunto por qué.
+<0105> Bien, hagámoslo.
+<0106> Sólo es un juego. No hay por qué sentir tanta presión.
+<0107> Muy bien, comencemos.
+<0108> Si lo hago, es porque quiero ganar.
+<0109> Oh, gané.
+<0110> Ehehe, gracias.
+<0111> Vaya, lo logré.
+<0112> Fufufu, estoy feliz.
+<0113> ¿Qué piensas de esto? ¿Te gusta?
+<0114> Nunca tuviste eso antes. Bien por ti.
+<0115> Espero que consigamos algo bueno.
+<0116> Estoy feliz por ti.
+<0117> ¿Te importaría cambiar?
+<0118> Supongo que es la hora de cambiar.
+<0119> Encárgate del resto.
+<0120> Cuento contigo.
+<0121> Bien.
+<0122> Wow, eso es bueno.
+<0123> Sí.
+<0124> No.
+<0125> Hmm...
+<0126> Bien por ti.
+<0127> ¿Hmm?
+<0128> ¿Qué te parece si nos vamos?
+<0129> Tiraré los dados.
+<0130> Vamos.
+<0131> Hola.
+<0132> Umm...
+<0133> Bien.
+<0134> Increíble...
+<0135> Gee...
+<0136> ¿Puedo usar esto?
+<0137> Esto no es mío... no sé si me permitirán usarlo.
+<0138> Perdón, debería haber pedido permiso. Espero que no estén enojados.
+<0139> Hmm... ¿Estará bien usar esto? Estoy preocupada...
+<0140> Oh, Sumika...
+<0141> Está bien, me ocuparé de ti.
+<0142> Todavía tienes mucho que aprender, Sumika.
+<0143> Gee, sabes que no usé toda mi fuerza, ¿verdad?
+<0144> T-tú eres yo... ¿Verdad?
+<0145> ¿La yo del pasado?
+<0146> No puedo describir lo que estoy sintiendo ahora mismo.
+<0147> Solía ser así de fuerte, ¿eh?
+<0148> ¿Eh, Navi?
+<0149> Navi, ¿estás causando problemas otra vez?
+<0150> Ni pienses en hacer algo alocado otra vez, ¿está bien?
+<0151> Muah.
+<0152> ¿Ustedes son... ídolos?
+<0153> Wow, ustedes dos son muy bonitas.
+<0154> Su actuación fue fantástica.
+<0155> Ustedes dos brillaron tanto...
+<0156> Uu... Esto tomará mucho tiempo, ¿no?
+<0157> Esta carta... pienso que deberíamos tenerla... Y qué tal esta...
+<0158> Mhm... Trabajar en esto es divertido, pero difícil...
+<0159> Bueno, este mazo debería ser bueno... Hmm, pero...

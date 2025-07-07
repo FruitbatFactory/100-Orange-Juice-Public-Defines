@@ -1,0 +1,192 @@
+< ITEM_UNKNOWN >
+name=???
+descr=
+
+// Tavern
+< ITEM_HEAL_LV1 >
+name=Taza de Café
+descr=Cura 2 puntos de vida.
+
+< ITEM_HEAL_LV2 >
+name=Limonada
+descr=Cura 4 puntos de vida.
+
+< ITEM_HEAL_LV3 >
+name=Elixir
+descr=Cura todos tus puntos de vida. Además, te curará de los efectos inflijidos por los Invasores y las maldiciones recibidas por contratos.
+
+< ITEM_OVERHEAL_LV1 >
+name=Bebida Energética
+descr=Cura 2 puntos de vida, y entonces recibe uno más.
+
+< ITEM_OVERHEAL_LV2 >
+name=Mezcla de Pudín
+descr=Cura 2 puntos de vida, y entonces recibe dos más.
+
+< ITEM_OVERHEAL_LV3 >
+name=Isla Roja y Azul
+descr=Cura 4 puntos de vida, y entonces recibe tres más.
+
+< ITEM_HEALTHSHOT >
+name=Tónico Dulce
+descr=Este jugador recibe +1 Máx. PV de forma permanente. Esto solo puede ser comprado una vez.
+
+< ITEM_INVULNERABILITY >
+name=Remedio de Hierbas
+descr=Todo tipo de daño será negado por 1 capítulo.
+
+// Bakery
+
+< ITEM_ATK_BOOST_LV1 >
+name=Galleta
+descr=Úsalo para recibir +1 ATK durante las próximas 2 batallas. El valor de este efecto no puede ser incrementado.
+
+< ITEM_ATK_BOOST_LV2 >
+name=Pastelito
+descr=Úsalo para recibir +2 ATK durante las próximas 2 batallas. El valor de este efecto no puede ser incrementado.
+
+< ITEM_ATK_BOOST_LV3 >
+name=Pastel
+descr=Úsalo para recibir +3 ATK durante las próximas 2 batallas. El valor de este efecto no puede ser incrementado.
+
+< ITEM_DEF_BOOST_LV1 >
+name=Dulce
+descr=Úsalo para recibir +1 DEF durante las próximas 2 batallas. El valor de este efecto no puede ser incrementado.
+
+< ITEM_DEF_BOOST_LV2 >
+name=Caramelo
+descr=Úsalo para recibir +2 DEF durante las próximas 2 batallas. El valor de este efecto no puede ser incrementado.
+
+< ITEM_DEF_BOOST_LV3 >
+name=Chocolate
+descr=Úsalo para recibir +3 DEF durante las próximas 2 batallas. El valor de este efecto no puede ser incrementado.
+
+< ITEM_EVA_BOOST_LV1 >
+name=Helado
+descr=Úsalo para recibir +1 EVD durante las próximas 2 batallas. El valor de este efecto no puede ser incrementado.
+
+< ITEM_EVA_BOOST_LV2 >
+name=Sorbete
+descr=Úsalo para recibir +2 EVD durante las próximas 2 batallas. El valor de este efecto no puede ser incrementado.
+
+< ITEM_EVA_BOOST_LV3 >
+name=Gelato
+descr=Úsalo para recibir +3 EVD durante las próximas 2 batallas. El valor de este efecto no puede ser incrementado.
+
+< ITEM_ACCELCANDY >
+name=Caramelo Sobrecargado
+descr=Tira el doble de dados para todas las acciones por 1 capítulo.
+
+< ITEM_COTTONSPONGE >
+name=Pastel de Algodón
+descr=El costo de todas las cartas será ignorado por 1 capítulo. Esto también afecta el nivel de la carta.
+
+< ITEM_PUDDING >
+name=Pudín
+descr=Si el jugador es noqueado dentro de una batalla, revive con 3 puntos de vida y continua con la batalla.
+
+< ITEM_MELONPAN >
+name=Melonpan
+descr=Este jugador recibe +1 DEF, +1 EVD y -1 ATK de forma permanente.. Esto solo puede ser comprado una vez.
+
+< ITEM_REDBEANCREAM >
+name=Helado de Frijoles Rojos
+descr=Este jugador recibe +1 ATK. Este efecto se pierde al morir. El valor de este efecto no puede ser incrementado.
+
+// Armory
+
+< ITEM_WOODENSHIELD >
+name=Escudo de Madera
+descr=Un escudo que reduce el daño recibido por 1. Será destruído al recibir 2 golpes.
+
+< ITEM_IRONSHIELD >
+name=Escudo de Metal
+descr=Un escudo que reduce el daño recibido por 1. Será destruído al recibir 4 golpes.
+
+< ITEM_MITHRILSHIELD >
+name=Escudo de Mitril
+descr=Un escudo que reduce el daño recibido por 2. Será destruído al recibir 4 golpes.
+
+< ITEM_ZAPPERSWORD >
+name=Espada Mágica Encantada
+descr=Este jugador recibe +1 ATK y -1 DEF de forma permanente. Solo puede ser comprada una vez.
+
+< ITEM_SMOKEBOMB >
+name=Bomba de Humo
+descr=Este enemigo recibirá -1 ATK, DEF y EVD en su próxima batalla.
+
+< ITEM_PRECISIONGOGGLES >
+name=Gafas de Precisión
+descr=Podrás tirar objetos hasta dos paneles de distancia de ti. Sólo puede ser comprado una vez.
+
+< ITEM_MERCENARY >
+name=Mercenario
+descr=Convoca a un Mercenario en el campo de juego. Atacará a todas las unidades (excepto al que la haya convocado) al pasar sobre ellas. Si una unidad es noqueada por el Mercenario, su convocante recibirá el 50% de las estrellas obtenidas, y el resto se lo quedará el mercenario.
+
+< ITEM_PHILOSOPHERSTONE >
+name=Piedra Filosofal
+descr=Recibes 4 estrellas más en cada capítulo, y 1 estrella extra cada 5 capítulos. Sólo puede ser comprado una vez, por el costo de todas tus estrellas. (Mínimo: 120)
+
+< ITEM_REC_BOOST_LV1 >
+name=Poción de Vigor
+descr=Recibes -1 REC en tu próximo intento para revivir.
+
+< ITEM_REC_BOOST_LV2 >
+name=Poción de Vitalidad
+descr=Recibes -2 REC en tu próximo intento para revivir.
+
+< ITEM_REC_BOOST_LV3 >
+name=Esencia del Fénix
+descr=Recibes -3 REC en tu próximo intento para revivir.
+
+< ITEM_ANTITIRED >
+name=Anti-Fatiga
+descr=Este jugador recibe -1 REC de forma permanente. Sólo puede ser comprado una vez.
+
+< ITEM_GUARDIAN >
+name=Guardián
+descr=Convoca a un Guardián en el campo de juego. Buscará y peleará con los objetivos que tú tengas en mano. No puede atacar a otros jugadores, pero otros jugadores pueden atacarlo.\nNivel: Tú nivel a la hora de convocarlo.\nEstrellas en Mano: La cantidad de estrellas pagadas para convocarlo.
+
+< ITEM_FAE >
+name=Aurora
+descr=Convoca a Aurora en el campo de juego. Ella te curará por 1 PV cada 2 capítulos. Al ser noqueado, ella te revivirá con la mitad de tus puntos de vida. No puede atacar a otros jugadores, pero otros pueden atacar a esta unidad.
+
+< ITEM_LEATHERBOOTS >
+name=Botas de Cuero
+descr=+2 MOV. Estos zapatos reemplazarán a otros.
+
+< ITEM_GALESHOES >
+name=Zapatos de Vendaval
+descr=+2 MOV, y +1 MOV adicional al tener 2 o menos contratos en mano. Estos zapatos reemplazarán a otros.
+
+< ITEM_SPIKEDSHIELD >
+name=Escudo de Púas
+descr=Un escudo que reduce el daño recibido por 1. Si el tiro de tu defensa tiene un valor mayor a la del ataque del enemigo, el daño recibido será enviado de regreso a tu oponente (cantidad: la mitad del valor en el tiro de ataque). Será destruido después de una batalla.
+
+< ITEM_BATTLEAXE >
+name=Hacha
+descr=Este jugador recibe +1 ATK y -1 EVD de forma permanente. Solo puede ser comprado una vez.
+
+< ITEM_BLACKMARKET_CURSEDSWORD >
+name=Espada Maldita
+descr=Este jugador recibe +2 ATK, -1 DEF, -1 EVD y -1 Máx. PV de forma permanente. 
+
+< ITEM_BLACKMARKET_CURSEDAXE >
+name=Hacha Maldita
+descr=Este jugador obtiene la habilidad de realizar daños críticos al atacar, con una probabilidad de 20%. También tendrás un 10% de probabilidad de fallar un ataque.
+
+< ITEM_BLACKMARKET_CURSEDBOUNTY >
+name=Objetivo Maldito
+descr=Tu próximo objetivo otorgará +2 puntos de Fama como recompensa. Tus PV y Máx. PV serán 1 hasta ser noqueado una vez que el objetivo se haya completado.
+
+< ITEM_BLACKMARKET_CURSEDICECREAM >
+name=Helado Milagroso de Frijoles Púrpura
+descr=Recibes +2 ATK y -3 Máx. PV (min. 1) hasta ser noqueado.
+
+< ITEM_BLACKMARKET_CURSEDSHOES >
+name=Zapatos Mejorados de Vendaval
+descr=+4 MOV, pero solo podrás tener un contrato en mano. Estos zapatos reemplazarán a otros.
+
+< ITEM_BLACKMARKET_CURSEDSUMMON >
+name=Maestría en Convocaciones
+descr=Una convocación o un Invasor neutral aparecerán en el campo de juego.\nLas convocaciones comenzarán con 12 PV.\nLos Invasores no podrán ser convocados si se encuentra uno ya presente en el campo de juego.

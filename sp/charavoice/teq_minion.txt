@@ -1,0 +1,34 @@
+
+<0000> ¡Señor, si señor!
+<0001> ¡Aquí vamos!
+<0002> ¡Ahí está!
+<0003> ¡Ven y pelea!
+<0004> ¡Vamos a hacer orgulloso al Capitán!
+<0005> ¡A pelear!
+<0006> ¡Desafío aceptado!
+<0007> ¡Eso es de lo que estoy hablando!
+<0008> ¡El cazador encuentra a su presa!
+<0009> ¡Eeeey!
+<0010> ¡Shaah!
+<0011> ¡Kieeey!
+<0012> ¡Deeey!
+<0013> ¡Wow!
+<0014> ¡Gyah!
+<0015> ¡Guwah!
+<0016> ¡Guoh!
+<0017> ¡Diablos, eso duele!
+<0018> ¡Agyaah!
+<0019> ¡Hieeeh!
+<0020> ¡Gyoooh!
+<0021> ¡Fallaste!
+<0022> ¡Eso estuvo cerca!
+<0023> ¡Wow, wow!
+<0024> ¡Hieeh!
+<0025> ¡Lo hice, Capitán!
+<0026> ¡Conseguimos el botín, Capitán!
+<0027> ¡Hyahoy!
+<0028> ¡Yo ho ho!
+<0029> Capitáaan...
+<0030> Mala mía... Capitán...
+<0031> ¡Fallé!
+<0032> Oh... dios...

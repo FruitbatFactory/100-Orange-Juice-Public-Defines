@@ -1,0 +1,917 @@
+
+< CARD_BOOST_AMBUSH >
+name=Emboscada
+descr=Entrarás en combate con todas las unidades que se encuentren en este panel.\nTu turno se acabará una vez que las batallas lleguen a su fin.
+flavor="¡¡Owwwww!!" ―Sham
+
+< CARD_BOOST_LONELYCHARIOT >
+name=Carruaje Solitario
+descr=Tus dados siempre caerán en 5 al moverte.\nRecibes un punto de daño al fin de cada turno.\nAl ser noqueado por el efecto de esta carta, pierdes estrellas por un valor equivalente a tu nivel x 5.
+flavor="¿'Ustedes'? Te equivocas...\n¡Yo viajo sólo!" ―Jinete Solitario
+
+< CARD_BOOST_MIMIC >
+name=Mímica
+descr=Escoge a un jugador.\nTodas las cartas Especiales en tu mano se convertirán en las mismas que las de ese jugador.
+flavor=Marie Poppo intenta convertirse en algo diferente.
+
+< CARD_BOOST_PASSIONATE >
+name=Investigación Apasionada
+descr=Mira las primeras 3 cartas del mazo, respetando su orden.\nSi las cartas son Especiales, tómalas.
+flavor="Bueno, este tipo de cosas ocurren todo el tiempo. Aun así, fue divertido." ―Erudito
+
+< CARD_BOOST_PRESIDENT >
+name=Privilegio de Presidente
+descr=Duración: 1 capítulo.\nPodrás usar cartas sin pagar por sus costos.\nPodrás usar una carta adicional durante este turno.
+flavor="Ahí están... ¿Podrían verme en la Oficina del Consejo Estudiantil después de clases?" ―Himeji
+
+< CARD_BATTLE_SHIELDCOUNTER >
+name=Escudo Invertido
+descr=El atacante recibe un daño equivalente a su ATK - DEF (min. 1).\nLa batalla no ocurrirá, y ser noqueado por este efecto no contará como una derrota.\nEsta carta solo puede ser usada al ser el defensor.
+flavor="¡Escudo, inviértete!" ―Sora
+
+< CARD_BATTLE_RETREAT >
+name=Retirada Táctica
+descr=★Costo: Nivel x 5.\nLa batalla no ocurrirá.\nEl atacante recibirá las estrellas usadas para pagar el costo de esta carta.\nSi el atacante usa una carta, este efecto es anulado.\nEsta carta solo puede ser usada al ser el defensor.
+flavor="¡Adiós!" ―Tomato
+
+< CARD_TRAP_PIYOPIYO >
+name=Procesión de Piyopiyos
+descr=Entras en tres combates con enemigos aleatorios, empezando con tu ataque.
+flavor="¡Piyopiyopiyopiyopiyopiyopiyopiyooo!" ―Ejercito Colorido de Piyos
+
+< CARD_TRAP_SEALEDMEMORIES >
+name=Memorias Selladas
+descr=Duración: 3 turnos.\nLas cartas de este jugador son invertidas (todos los demás podrán verlas, y este jugador no).
+flavor="¿El orden mundial...? ¡¿Y por qué se relacionaría el pudín con eso?!" ―QP
+
+< CARD_EVENT_MIXPHENOMENON >
+name=Fenómeno Mixto
+descr=Duración: 3 capítulos.\nTodos los paneles (con la excepción de los paneles de Hogar) cambiarán de forma aleatoria.
+flavor="Un agujero en la fuerza que separa las dimensiones... parece que este fenómeno está mezclando cada uno de los mundos." ―Yukito
+
+< CARD_EVENT_SOLICITATION >
+name=Pedido Atemorizante
+descr=Todos los otros jugadores activos tomarán una carta hasta llenar sus manos, pagando 15 estrellas por cada carta tomada.
+flavor="Lo comprarás, sí que lo harás. Lo comprarás, ¿no es así?" ―Negociante
+
+< CARD_BATTLE_ACCELHYPER >
+name=Hipercarga
+descr=Tiras el doble de dados al atacar.
+flavor="¡Carga Ilimitada!" ―Sora
+
+< CARD_TRAP_BRUTALPRANK >
+name=Broma Pesada
+descr=Pierdes todas las cartas Especiales en tu mano.\nPierdes 10 estrellas y recibes 1 PV por cada carta perdida.
+flavor="¡Noooo, Sr. Vaca! ¡Sr. Rana!" ―Yuuki\n"¡Jajajaja! ¡Quéjate y llora!" ―Yuki
+
+< CARD_BOOST_COMPLETIONREWARD >
+name=Día de Paga
+descr=Recibes 7 estrellas por cada trampa que tú has colocado y que otra unidad ha activado.
+flavor="¡Sí! ¡Conseguí mi paga!" ―Chris\n"Usalo bien, ¿sí?" ―Gerente
+
+< CARD_BATTLE_EXTENSION >
+name=Extensión
+descr=Al ser usada, te otorgará el efecto de una carta de Batalla (o Batalla/Especial), escogido de forma aleatoria.
+flavor="Acabar contigo es mi trabajo." ―Nath
+
+< CARD_BOOST_GENTLEMANSBATTLE >
+name=Batalla de Caballeros
+descr=Escoge a un jugador que tenga todos sus puntos de vida.\nDesafiarás a ese jugador.\nTu turno se acabará una vez que la batalla llegue a su fin.
+flavor="¡Toma esto!" ―Maestro del Gremio
+
+< CARD_EVENT_PLAYOFTHEGODS >
+name=El Juego de los Dioses
+descr=Usa una carta de Evento (o Evento/Especial) del mazo o la mano de otro jugador, escogida de forma aleatoria y sin pagar por ningún costo adicional.
+flavor="¡Obtendremos huevos dorados!" ―QP\n"¡Y haremos el mejor pudín con ellos!" ―Saki
+
+< CARD_TRAP_PRESENTTHIEF >
+name=Ladrón de Regalos
+descr=Roba todas las cartas del primer jugador que caiga en esta trampa.\nSi se pierden cartas, esta trampa seguirá en el campo de juego y el segundo jugador que active esta trampa recibirá todas las cartas guardadas.
+flavor="¡Estos regalos no son buenos para nadie!" ―Nico
+
+< CARD_BATTLE_QUICKRESTORATION >
+name=Restauración Rápida
+descr=Todo el daño recibido durante esta batalla será curado una vez que la misma llegue a su fin.\nEste efecto se cancelará al ser noqueado.
+flavor="No voy a morir." ―Suguri
+
+< CARD_EVENT_SCRAMBLEDEVE >
+name=Víspera Revuelta
+descr=Todos los jugadores regresan sus cartas al mazo, en donde serán mezcladas.\nDespués de 3 capítulos, todos los jugadores tomarán la misma cantidad de cartas que hayan perdido por causa de este efecto.
+flavor="¡Espera! ¡Devuélveme mis regalos!" ―Aru
+
+< CARD_EVENT_STARBLAZINGLIGHT >
+name=Luz Rompe-Estrellas 
+descr=Todas las Trampas colocadas en el campo de juego serán descartadas.\nLos dueños de cada trampa perderán 1 PV por cada trampa descartada.
+flavor="Una luz con la capacidad de quemar toda la ciudad e incluso el planeta... siento que viene desde el cielo." ―Sora
+
+< CARD_GIFT_UNLUCKYCHARM >
+name=Amuleto de la Desgracia
+descr=★Costo: Nivel x 5.\nPierdes estrellas por un valor equivalente a tu Nivel al comienzo de cada turno.\nAl ser usada, esta carta será enviada a otro jugador.\nSi no puedes pagar su costo, esta carta podrá ser usada de forma gratuita.
+flavor="La sombría oscuridad interrumpe mi sueño, por eso anhelo la luz..." ―Krilalaris
+
+< CARD_GIFT_WINDYENCHANTMENT >
+name=Velocidad Encantada
+descr=El valor de tus dados de movimiento es incrementado por 1.\nAl tener esta carta en mano, la verificación de Normas es deshabilitada.\nAl ser usada, esta carta es descartada.  
+flavor=Le llaman Alicianrone, la chica sin zapatos.
+
+< CARD_HYPER_SYURA >
+name=Más Allá del Infierno
+descr=Durante esta batalla, recibes +1 ATK, DEF y EVD por cada PV faltante.
+flavor="¡Los poderes de Syura no tienen límites! ¡Permíteme demostrártelo!" ―Syura
+
+< CARD_HYPER_NANAKO >
+name=Bits Desplegados
+descr=Durante esta batalla, recibes un total de +7 puntos al valor de tu ATK, DEF y EVD, distribuidos de forma aleatoria.
+flavor="No importa cuanto lo intentes, no podrás escapar de mis Bits." ―Nanako
+
+< CARD_HYPER_SAKI >
+name=Campana Big Bang
+descr=Todas las unidades en este panel y a 2 paneles de distancia reciben 2 puntos de daño, el valor de este daño siendo incrementado +1 por cada 2 capítulos transcurridos desde que esta trampa ha sido colocada.\nEl dueño de esta trampa recibirá la mitad de las estrellas de cada unidad noqueada con este efecto.
+flavor="¡Mauuuuuryaaaaaaahh!" ―Saki
+
+< CARD_HYPER_KYOUSUKE >
+name=Desecho
+descr=Los valores base de tu ATK y DEF son intercambiados.\nEste efecto se perderá al morir, o al usar esta carta una vez más.
+flavor="Esto requiere una buena distracción..." ―Kyousuke
+
+< CARD_HYPER_KAE >
+name=¡Ardiente!
+descr=Inflige el efecto de "¡Ardiente!" en todas las unidades a 2 paneles de distancia y reinicia su duración.\n¡Ardiente!: Duración: 3 capítulos.\nRecibes +1 ATK y -1 DEF.\nEste efecto se perderá al morir.
+flavor="¡Bien, bien! ¡Esta sensación es realmente la mejor!" ―Kae
+
+< CARD_HYPER_KRILA >
+name=Maestra de los Títeres
+descr=Coloca la trampa: "¡Bailen, Bestias Orejudas!" en 3-5 paneles aleatorios.
+flavor="¡Bailen, Bestias Orejudas!" ―Krilalaris
+
+< CARD_HYPER_KRILA2 >
+name=¡Bailen, Bestias Orejudas!
+descr=Pierdes 2 PV.\nEl dueño de esta carta recibe +1 PV.\nEfecto Guardado: -2 ATK durante tu próxima batalla.\nEstos efectos se cancelarán al ser el dueño de esta carta.
+flavor="¡Bailen, Bestias Orejudas!" ―Krilalaris
+
+< CARD_HYPER_ALTE >
+name=Autodestrucción
+descr=Al morir durante esta batalla, tu oponente también será noqueado.\nNo otorgarás estrellas ni victorias, pero perderás la mitad de tus estrellas.
+flavor="Lo siento... no podré regresar..." ―Alte
+
+< CARD_HYPER_KYOKO >
+name=Barrera de Cristal
+descr=Efecto Guardado (3):\nNiega los efectos de una Trampa, Batalla o panel de Pérdidas.\nAl activar este efecto, pierdes 1 PV y consumes 1 carga.
+flavor="Que pedazo de chatarra..." ―Kyoko
+
+< CARD_HYPER_SHAM >
+name=Campo Delta
+descr=Todos los enemigos recibirán el siguiente efecto guardado hasta su próximo turno:\nTus dados caerán en 1 para todas las acciones.
+flavor="¡Si insistes en quedarte aquí, tendré que llevarte a casa por la fuerza!" ―Sham
+
+< CARD_HYPER_SHERRY >
+name=Molino Caprichoso
+descr=Entras en batalla con todos los otros jugadores, respetando el orden de cada uno y empezando con su ataque.\nDurante estas batallas, recibes +1 EVD.
+flavor="Solo queremos volar libremente." ―Sherry
+
+< CARD_HYPER_STARBREAKER >
+name=Fusible Explota-Estrellas
+descr=Coloca la trampa: "Bomba Invisible" en 3-5 paneles aleatorios.
+flavor="Porque soy Star Breaker, el fusible que le pondrá un fin a este mundo." ―Star Breaker
+
+< CARD_HYPER_STARBREAKER2 >
+name=Bomba Invisible
+descr=Tus puntos de vida son reducidos a 1.\nEste efecto se cancelará al ser el dueño de esta trampa.\nEsta trampa solo podrá ser vista por su dueño.
+flavor="Porque soy Star Breaker, el fusible que le pondrá un fin a este mundo." ―Star Breaker
+
+< CARD_HYPER_SWEETBREAKER >
+name=Memorias Derretidas
+descr=★Costo: Número de cartas en las manos de otros jugadores x 5.\nTodos los otros jugadores perderán sus cartas y las reemplazarán con otras del mazo, invirtiéndolas en el proceso.
+flavor="Qué imprudente eres al haber desafiado a un Dios. ¡Prepárate para sentir el sabor de tu dulce derrota!" ―Sweet Breaker
+
+< CARD_HYPER_QPD >
+name=Guardiana de los Dulces
+descr=Toma 2 cartas del mazo central cuyos nombres tengan "Pudín" en el mismo. Si no hay cartas con "pudín" en sus nombres dentro del mazo, recibes 1 Pudín Peligroso o Pudín en Mal Estado.
+flavor="Mi pequeño... pudín..." ―QP
+
+< CARD_HYPER_SORAM >
+name=Talento Despertado
+descr=Durante este turno, tus dados caerán en 5 para todas las acciones.\nEsta carta también podrá ser usada como una carta de Batalla.
+flavor="Comenzaré mi operación... ahora." ―Sora
+
+< CARD_HYPER_MIXEDPOPPO >
+name=Túnel al Sub-Espacio
+descr=★Costo: Nivel x 5.\nDuración: Tu nivel actual.\nCambia 4-6 paneles aleatorios a paneles de Transportación + Movimiento, enviando al jugador que usó esta carta hacia uno de ellos.
+flavor="¡Po! ¡Po! ¡Po! ¡¡Popoppo!!" ―Marie Poppo
+
+< CARD_HYPER_ARUSCRAMBLE >
+name=El Trabajo de Santa
+descr=Al comienzo de tu turno, podrás enviar una carta de nivel usable desde tu mano a la de un jugador aleatorio.\nRecibes estrellas equivalentes al nivel de la carta enviada x 5.\nEse jugador no podrá desafiar a otros hasta tu próximo turno.\nEsta carta se perderá al morir o al ser usada.
+flavor="¡Niños en todo el mundo, ahí vamos!" ―Aru
+
+< CARD_HYPER_NATH >
+name=Otra Arma Definitiva
+descr=★Costo: Todas tus estrellas.\nRecibes +1 ATK y DEF, incrementando ambos valores +1 por cada 20 estrellas usadas en esta carta.
+flavor="Contigo fuera del mapa, yo soy su arma más poderosa." ―Nath
+
+< CARD_HYPER_MIMYUU >
+name=Plan Malévolo ― Preparación
+descr=Coloca 4 cartas de: "Plan Malévolo ― Ejecución" en posiciones aleatorias del mazo.
+flavor="¡Témanle a las trampas de Mimyuu!" ―Mimyuu
+
+< CARD_HYPER_MIMYUU2 >
+name=Plan Malévolo ― Ejecución
+descr=Esta carta no podrá ser usada.\nSi esta carta se encuentra en tu mano al fin de tu turno, pierdes 3 PV.\nEsta carta será removida de la partida al activarse su efecto o al ser descartada.
+flavor="¡Caíste! ¡¡Cómete eso!!" ―Mimyuu
+
+< CARD_HYPER_TOMATO >
+name=¡Máquina Waruda, Dispara!
+descr=Durante esta batalla, recibes ATK y DEF pero pierdes EVD por un valor equivalente al número de cartas en la mano de tu oponente.
+flavor="¡Venganza!" ―Tomato
+
+< CARD_HYPER_KIRIKO >
+name=La Última Cirugía
+descr=Noquea a todas las unidades que tengan 1 PV.\nRecuperas 1 Máx. PV perdido y recibes 25 estrellas por cada unidad noqueada.
+flavor="Tranquilízate, esto solo tomará un segundo." ―Kiriko
+
+< CARD_HYPER_NONAME >
+name=Capataz
+descr=Todos los paneles de Batalla serán reemplazados por paneles del Jefe.\nSi este efecto no puede ser aplicado, esta carta se convertirá en una de Batalla:\nLa batalla no ocurrirá.\nTu oponente entrará en un combate con el jefe.\nSolo puede ser usado contra otros jugadores.
+flavor="¡Jajaja! ¡Aquí viene mi amigo!" ―NoName
+
+< CARD_HYPER_CEOREPARQUE >
+name=El Cabello de la Bruja
+descr=Escoge a una unidad.\nLa unidad escogida no podrá moverse en su próximo turno.
+flavor="Nadie puede escapar del cabello de Repa." ―Ceoreparque
+
+< CARD_HYPER_MIUSAKI >
+name=Bruja Sólida
+descr=Duración: 1 capítulo.\nCancela todo el daño recibido.
+flavor="¡Ningún ataque endeble podrá dañarme!" ―Miusaki
+
+< CARD_BATTLE_DARKSIDEOFBUSINESS >
+name=Negocios Oscuros
+descr=Recibes +2 ATK y el enemigo pierde -2 DEF. Robas 5 estrellas del oponente por cada punto de daño causado.
+flavor="'Extorsión' - El acto de amenazar a alguien más infligiendo violencia sobre un objetivo más débil."
+
+< CARD_EVENT_PARTYTIME >
+name=Hora de la Fiesta
+descr=Todos los jugadores son enviados a un mismo panel. Usar esta carta acabará tu turno.
+flavor="En el banquete de esta noche, las Bestias de la Oscuridad danzarán sin cesar." ―Krilalaris
+
+< CARD_BOOST_TREASURETHIEF >
+name=Ladrón de Tesoros
+descr=Toma una carta al azar de todos los jugadores en el mismo panel que tú.
+flavor="¡Pokya Po! (¡Tesoro obtenido!)" ―Marie Poppo
+
+< CARD_GIFT_LOSTCHILD >
+name=Niño Perdido
+descr=El movimiento es invertido mientras esta carta está en mano. Deshabilita la verificación de normas. Esta carta es descartada al ser usada o al morir.
+flavor="¿En dónde estoy?" ―Tsih
+
+< CARD_TRAP_WANTED >
+name=Se Busca
+descr=Otorgas el doble de victorias al morir dentro de una batalla. El efecto se pierde al morir.
+flavor="¡Por aquí! ¡Mi olfato nunca se equivoca!" ―QP
+
+< CARD_GIFT_PRICEOFPOWER >
+name=El Precio del Poder
+descr=Podrás jugar cartas de un nivel mayor que tu nivel actual, pero costarán 5 estrellas más. Esta carta es descartada al ser usada.
+flavor="Incluso si sobrevivo a la guerra... Con este cuerpo, no hay nada que yo pueda hacer." ―Nath
+
+< CARD_GIFT_VALENTINESDAY2018 >
+name=¡Dulce Batalla!
+descr=Cuando está en mano: Obtienes el doble de chocolate.\nAl ser jugada en batalla: Roba 200 chocolates por cada punto de daño.\nEsta carta es descartada al morir o al ser usada.
+flavor="¡Aquí viene otra batalla dulce!" ―QP
+
+< CARD_GIFT_VALENTINESDAY2018_BINDER >
+name=¡Dulce Batalla!
+descr="¡Feliz día de San Valentín, <player>!" ―QP
+flavor=
+
+< CARD_HYPER_YUKIDANGEROUS >
+name=Evil Mastermind
+descr=Toma 3 trampas del mazo, y luego coloca todas las Cartas Trampa en mano en paneles aleatorios.
+flavor="¡Témanle a mis poderes!" ―Yuki
+
+< CARD_HYPER_TOMOMOCASUAL >
+name=Helado Milagroso de Frijoles Rojos
+descr=+1 ATK mientras esta carta está en mano.\nTomomo (Casual): Al ser usada, se convierte en Tomomo (SE) y restaura todos sus puntos de vida.\nTomomo (SE): Esta carta se transformará en Venganza Mágica.\nEsta carta será descartada al ser usada.
+flavor="¡Helado!" ―Tomomo
+
+< CARD_HYPER_TOMOMOSWEETEATER >
+name=Venganza Mágica
+descr=Por cada PV faltante, un jugador al azar recibe un punto de daño. Si ese jugador es noqueado, recibes una victoria.\nAl no estar en la mano de Tomomo (SE), esta carta se transforma en Helado.
+flavor="¡Es hora de la venganza!" ―Tomomo
+
+< CARD_HYPER_SUGURI_V2 >
+name=Estrellas Renacidas
+descr=★Costo: Nivel x3.\nDuración: 3 capítulos.\nTodos los Paneles de Pérdidas se transforman en Bonus y Batallas en Cartas. -1 ATK al estar en un panel marcado.
+flavor="El sueño que has protegido se ha expandido a través del planeta." ―Suguri
+
+< CARD_HYPER_TSIH >
+name=Invisibilidad
+descr=Duración: 3 capítulos.\nEl jugador no podrá ser desafiado a una batalla o ser el blanco de otras cartas por otros jugadores.\nEl efecto expira al entrar en una batalla, pero no ocurrirá en los paneles de batalla y del jefe. Recibes +2 ATK al entrar en una batalla. 
+flavor="¡Mira como desaparezco!" ―Tsih
+
+< CARD_HYPER_TEQUILA >	
+name=¿Pueden los Piratas Volar?
+descr=Coloca la trampa: "Pirata Volador" en 2-3 paneles aleatorios.
+flavor="No hay ninguna ley que vaya en contra de nuestro régimen." ―Tequila
+
+< CARD_HYPER_TEQUILA2 >
+name=Pirata Volador
+descr=Entra en batalla con un Pirata Tripulante convocado por el jugador que colocó esta trampa. El enemigo atacará primero. No hay efectos en el dueño de esta carta.
+flavor="¡Capitán~!" ―Pirata
+
+< CARD_HYPER_MEI >
+name=Arruinavidades Blanco
+descr=Descarta tu mano actual, todos los jugadores a un panel de distancia que tú reciben 2 puntos de daño.\nPor cada jugador noqueado, recibes una victoria y estrellas equivalentes al nivel del jugador noqueado x5.\nCon la carta "Rojo y Azul" en mano, esta se transforma en: "El Verdadero Arruinavidades Blanco". 
+flavor="¡Arruinavidades Blanco!" ―Mei
+
+< CARD_HYPER_MEITRUE >
+name=El Verdadero Arruinavidades Blanco
+descr=Todos los jugadores a 2 paneles de distancia reciben 4 puntos de daño.\nPor cada jugador noqueado, recibes 2 victorias y estrellas equivalentes al nivel del jugador noqueado x10.\nSin la carta "Rojo y Azul" en mano, esta se transforma en: "Arruinavidades Blanco". 
+flavor="¡Arruinavidades Blanco!" ―Mei, Rojo & Azul
+
+< CARD_GIFT_REDBLUE >
+name=Rojo y Azul
+descr=Cuando se tiene esta carta en mano, el jugador recibe +1 ATK, DEF y EVD durante todas las batallas.\nCuando es descartada o el jugador es noqueado, esta carta desaparece del juego.
+flavor="¡Ya no podemos seguir haciendo esto!" ―Rojo & Azul
+
+< CARD_HYPER_NATSUMI >
+name=Hora de la Cocina
+descr=★Costo: Nivel x5\nTodos los jugadores recuperan la misma cantidad de PV que el nivel del jugador que usó esta carta.\nConsigues 5 estrellas por cada punto de vida recuperado. 
+flavor="¡Es la hora de cocinar!" ―Natsumi
+
+< CARD_HYPER_NICO >
+name=Creadora de Milagros
+descr=Transforma todas las cartas en tu mano en diferentes Cartas Especiales.\nPodrás jugar una carta adicional durante este turno.
+flavor="¡Hurra! ¡Nico hará lo mejor que pueda!" ―Nico
+
+< CARD_HYPER_ARTHUR >
+name=Expandiendo Sucursales
+descr=★Costo: Número de cartas en mano x5.\nTransforma todas tus cartas en "Tienda de Pasatiempos Rbit". Podrás jugar una carta adicional durante este turno. 
+flavor="Haah..." ―Arturo
+
+< CARD_HYPER_ARTHUR2 >
+name=Tienda de Pasatiempos Rbit
+descr=Paga X estrellas al jugador que colocó esta trampa, la X siendo el nivel del jugador que colocó esta trampa. Toma una carta del mazo. Esta carta permanece en el campo de juego al ser activada, pero puede ser reemplazada por otra trampa. No hay efectos en el dueño de esta carta.
+flavor="Muy bien, es hora de abrir la tienda." ―Arturo
+
+< CARD_HYPER_IRU >
+name=Rifle Extendido de Fotones
+descr=★Costo: Nivel x5.\nUn enemigo escogido al azar recibirá un punto de daño. Si ese enemigo es noqueado, recibes una victoria. Este efecto se repite la misma cantidad de veces que tu nivel actual.
+flavor="Les dispararé a todos ustedes." ―Iru
+
+< CARD_HYPER_MIRA >
+name=Salto A Través del Espacio (Marcando)
+descr=Marca el panel en el cual tu unidad esté actualmente. Si un panel marcado ya existe, esta carta se transforma en "Salto A Través del Espacio". Al ser usada, esta carta no será descartada.
+flavor="Poof." ―Mira
+
+< CARD_HYPER_MIRA2 >
+name=Salto A Través del Espacio
+descr=La unidad es transportada hacia el panel marcado y lo desmarca. Si ningún panel marcado existe, esta carta se transforma en "Salto A Través del Espacio (Marcando)".
+flavor="Poof." ―Mira
+
+< CARD_HYPER_CUTIES >
+name=Escenario Especial
+descr=★Costo: Nivel x10.\nEntra en el modo En Vivo por X turnos, la X siendo tu nivel. Recibes MOV -3, no podrás usar cartas y únicamente los paneles de movimiento podrán ser activados. La unidad no podrá ser desafiada o ser el blanco de Cartas de Impulso. Si un oponente acaba su turno en uno o dos paneles adyacentes, roba estrellas equivalentes a su Nivel x5. Este efecto se pierde al morir.
+flavor="¡Somos las ídolos más fuertes!" ―Sora & Sham
+
+< CARD_HYPER_YUUKI_ANGEL >
+name=Mano Angelical
+descr=Cura los puntos de vida de un jugador seleccionado y recibe 10 estrellas por cada PV curado. En capítulos con número par, esta carta se transforma en Mano Demoniaca.
+flavor="Este es el poder de la piedad." ―Yuuki
+
+< CARD_HYPER_YUUKI_DEVIL >
+name=Mano Demoniaca
+descr=Reduce los puntos de vida de un jugador a 1 y recibe 10 estrellas por cada PV reducido. En capítulos con número impar, esta carta se transforma en Mano Angelical.
+flavor="¡Cómete el poder del demonio!" ―Yuuki
+
+< CARD_HYPER_ISLAY >
+name=Rival
+descr=Desafía a un jugador. Atacarás primero. Durante la batalla, recibe +1 ATK.
+flavor="Al igual que tú... yo también tengo combates pendientes." ―Islay
+
+< CARD_HYPER_MIO >
+name=Infierno Mágico
+descr=Noquea a todos los enemigos en la misma columna y fila que tu panel actual. Recibes estrellas por cada enemigo noqueado como si fuera una victoria de combate. Una vez que esta carta es usada, tu turno acabará.
+flavor="¡Infierno!" ―Mio
+
+< CARD_HYPER_SUGURI46 >
+name=Observadora de la Eternidad
+descr=Añade 2 cartas de Impulso/Evento (las cuales hagan daño) a tu mano.\nPodrás usar otra carta durante este turno.
+flavor="Veamos qué es lo que sucederá." ―Suguri
+
+< CARD_HYPER_SUMIKA >
+name=Reproducción de Recuerdos
+descr=Añade una copia de las dos cartas más recientes en la lista de cartas descartadas (con la excepción de "Reproducción de Recuerdos") a tu mano. Ambas cartas serán tratadas como si fueran de Nivel 1 y sin costo mientras permanezcan en tu mano. Esta carta no puede ser copiada por este efecto.
+flavor="¡Las dulces memorias de Sumika!" -Sumika
+
+< CARD_HYPER_ELLIE >
+name=El Milagro de Ellie
+descr=★Costo: Nivel x10. Duración: 2 capítulos. Recibe +X ATK, +Y DEF y +Z EVD. X = tu número de Normas completadas, Y = tu número de Normas de Victoria completadas y Z = tu número de Normas de Estrellas completadas.
+flavor="¡Todos recibirán mi milagro!" ―Ellie
+
+< CARD_HYPER_LULU >
+name=El Huevo de la Suerte de Lulu
+descr=Solo puede ser usado al tener 2 puntos de vida restantes o menos. Recibe uno de los siguientes efectos de forma aleatoria: 1) Tira un dado y recibe estrellas equivalentes al número del dado x 20, 2) Toma 5 cartas, 3) Cura todos los puntos de vida y recibe +1 ATK, DEF y EVD de forma permanente (Solo una vez).
+flavor="Aah... Lulu está a punto de poner un huevo..." ―Lulu
+
+< CARD_HYPER_MARCPILOT_NORMAL >
+name=Cañón de Cohete
+descr=El objetivo seleccionado recibirá un punto de daño. Si ese objetivo es noqueado, recibes victorias como si fuera una victoria de combate.\nTambién puedes pagar el costo de esta carta para transformarla en la carta: "Gran Cañon de Cohete".
+flavor="Barril Rojo... ¡Es la hora de usarlo!" ―Marc
+
+< CARD_HYPER_MARCPILOT_UPGRADE >
+name=Gran Cañón de Cohete
+descr=El objetivo seleccionado recibirá 3 puntos de daño. Si ese objetivo es noqueado, recibes victorias como si fuera una victoria de combate. Esta carta se transforma en "Cohete de Cañón" si otra carta es usada o al ser noqueado.
+flavor="¡Ve!" ―Marc
+
+< CARD_HYPER_ALICIANRONE >
+name=Alicianrone, a Toda Velocidad
+descr=Tira un dado de movimiento, muévete con un valor equivalente a su número x 3. Todo enemigo encontrado en el camino recibirá puntos de daño equivalentes al número del dado. Si son noqueados, recibes victorias de la misma forma que en un combate. Tras usar este efecto, el turno acabará.
+flavor="¡Me moveré rápido y despejaré el camino!" ―Alicianrone
+
+< CARD_HYPER_TEOTORATTA >
+name=Bruja Salvaje
+descr=Cuando otros jugadores pierdan estrellas dentro de un panel de batallas, esas estrellas irán a ti en lugar de quedarse con la unidad de ese panel. Si este efecto es activado, esta carta es descartada al final de tu turno. Si más de un jugador tiene esta carta en mano, las estrellas serán divididas.
+flavor="¡Todas las bestias! ¡Obedezcan!" ―Teotoratta
+
+< CARD_HYPER_ARNELLE >
+name=Oficial de Inteligencia
+descr=Recibe uno de los siguientes efectos basados en la próxima carta del mazo:\nEvento: +3 ATK\nImpulso: +3 DEF\nOtros: +3 EVD.
+flavor="¡Puedo verlo todo!" ―Arnelle
+
+< CARD_HYPER_MAYNIE >
+name=Furia Alocada
+descr=Recibe un Punto de Furia. Al escoger a un jugador con vida, entra en el Modo Furioso: Recibe +X ATK/EVD, X siendo tu número de Puntos de Furia. Este efecto acabará al noquear al jugador escogido, y los Puntos de Furia volverán a ser 0. Recibe +2 Vic. si noqueas a ese jugador en una batalla, y -50% Est./Vic. si noqueas a otra unidad.
+flavor="¡Gyaoooh!" ―Maynie
+
+< CARD_HYPER_CHRIS_CHEF >
+name=¡Chef, Necesito Ayuda!
+descr=Chef luchará para esta unidad. Este efecto se perderá al noquear a Chef. Esta carta se convertirá en "¡Gerente, Necesito Ayuda!" al tener 4 o más Números del Gerente y al tener un nivel de 4 o mayor.
+flavor="¡Chef! ¡Necesitaré tu ayuda!" ―Chris
+
+< CARD_HYPER_CHRIS_MANAGER >
+name=¡Señor Gerente, Necesito Ayuda!
+descr=El Gerente luchará para esta unidad. Este efecto se perderá al noquear al Gerente, y los Números del Gerente volverán a 0. Esta carta se convertirá en "¡Chef, Necesito Ayuda!" al tener 4 o menos Números del Gerente.
+flavor="¡Señor Gerente, ayúdeme!" ―Chris
+
+< CARD_HYPER_KYUPITA >
+name=Ojos de Santo
+descr=Efecto Guardado (3). Al ser el atacante dentro de una batalla, este jugador recibirá +1 ATK por cada efecto guardado de este mismo tipo que tenga un valor impar, y +1 DEF por cada uno que tenga un valor par, perdiendo un punto de este efecto al finalizar la batalla. Este efecto puede ser aplicado más de una vez.
+flavor="¡Usaré mis ojos de santo!" ―Kyupita
+
+< CARD_HYPER_HALENA >
+name=Aventura Asegurada
+descr=Pierdes 5 estrellas al comienzo de cada turno. Ignora los paneles de perdidas, trampas, y el daño causado por cartas. Este efecto se acabará al detenerte en tu propio hogar o al tener menos de 5 estrellas en mano.
+flavor="Muy bien, es la hora de irnos." ―Halena
+
+< CARD_HYPER_COOK >
+name=La Guía de la Hada Veleta
+descr=Efecto Guardado.\nTiras 2 dados para todas tus acciones. Este efecto no se activará dentro de una batalla, y se acabará al detenerte en tu propio hogar. Solo podrás subir de nivel en tu propio hogar.
+flavor="¡*Pío, pío*! Cook quiere ir por aquí." ―Cook
+
+< CARD_HYPER_LONERIDER >
+name=Cambio de Marcha
+descr=★Costo: 10 + 10x por cada efecto guardado de este mismo tipo.\nEfecto Guardado (2): Recibes +1 MOV. Este efecto puede ser guardado más de una vez (máx. 6). Si acabas tu turno sin usar todos tus puntos de movimiento, pierdes un efecto de Cambio de Marcha.
+flavor="...No quiero que me sigan." ―Jinete Solitario
+
+< CARD_HYPER_MERCHANT >
+name=Vendedor Entusiasta
+descr=Recibes cartas de Mercancía por una cantidad equivalente a tu nivel. Al tener cartas de Mercancía en mano, esta carta podrá ser usada como una de batalla: Durante esta batalla, recibes +1 ATK por cada carta de Mercancía en tu mano. 
+flavor="¿Dices que estoy infringiendo la ley? Como podrás ver, llevo un permiso escrito aquí mismo～" ―Negociante
+
+< CARD_BATTLE_FREIGHT >
+name=Mercancía
+descr=Si el oponente no ha usado una carta de batalla, una carta de Mercancía será enviada a su mano y el combate será cancelado. Solo puedes usar esta carta al defender. Al detenerte en tu propio hogar, esta carta será descartada y recibirás 5 estrellas.
+flavor="Podrás quedarte con toda esa mercancía, si, podrás hacer eso." ―Negociante
+
+< CARD_HYPER_HIMEV2 >
+name=Bailando En Una Noche de Luna
+descr=Tras una evasión exitosa, el oponente recibirá un daño equivalente al daño que tú habrías recibido de su ataque.\nAl ser usada por Hime (Luz de Luna) durante una luna llena (cada 5 capítulos), el daño otorgado será el doble, pero no podrás defender.
+flavor="Y ahora... a bailar." ―Hime
+
+< CARD_HYPER_FERNET_NOBILITY >
+name=Nueva Nobleza
+descr=Todos los oponentes recibirán -1 ATK, -1 DEF o -1 EVD durante su próxima batalla.\nAl ser sostenida por Fernet, esta carta podrá ser transformada en "Afluencia (1)".
+flavor="Encantada de conocerte. Espero tener una buena relación contigo en el futuro." ―Fernet
+
+< CARD_HYPER_FERNET_AFFLUENCE >
+name=Afluencia (X)
+descr=★Costo: (X) x10. Afluencia (4):\nTodos los jugadores con vida te desafiarán en un orden aleatorio. Recibirán -3 ATK. No podrás atacar. Si no eres noqueado en el combate, el oponente pagará estrellas equivalentes a su nivel x10.\nAfluencia (1/2/3): Esta carta será mejorada.\nAl no ser sostenida por Fernet, esta carta se transformará en Nueva Nobleza.
+flavor="¿Deseas pedirme un favor...? Está bien, me encantaría ayudar a una de mis amistades." ―Fernet
+
+< CARD_HYPER_FERNET_AFFLUENCE_V >
+name=Afluencia (%d)
+descr=Afluencia (4): Todos los jugadores con vida te desafiarán en un orden aleatorio. Recibirán -3 ATK. No podrás atacar. Si no eres noqueado en el combate, el oponente pagará estrellas equivalentes a su nivel x10.\nAfluencia (1/2/3): Esta carta será mejorada.\nAl no ser sostenida por Fernet, esta carta se transformará en Nueva Nobleza.
+flavor="¿Deseas pedirme un favor...? Está bien, me encantaría ayudar a una de mis amistades." ―Fernet
+
+< CARD_HYPER_MALT >
+name=Sueño de Color Crepúsculo
+descr=★Costo: Nivel x7.\nDuración: (Tu nivel) x Capítulos.\nTransforma todos los paneles de Estrellas y Cartas en paneles de Batalla. Si un enemigo se mueve a un panel de Batalla que esté debajo de una carta de Batalla convertida en Trampa, ese enemigo tendrá que detenerse en ese panel.
+flavor="Ver a todos esos aviones cruzando los cielos... es igual que estar soñando, ¿no lo crees?" ―Malta
+
+< CARD_HYPER_MESCAL >
+name=Magno Pequeño
+descr=Durante esta batalla, recibes +1 ATK. Además, recibirás +X Ataque, la X siendo el daño que has recibido durante esta batalla.
+flavor="¡No molesten a mi papi!" ―Mescal
+
+< CARD_HYPER_SHIFU >
+name=Un Mundo Ideal
+descr=Coloca la trampa: "Invasión" en cada Hogar que no tenga una trampa.\nCada jugador entrará en un combate con una unidad robótica salvaje en sus próximos 2 encuentros, y esta unidad robótica recibirá +1 ATK. Este efecto puede ser guardado más de una vez.
+flavor="Todo está bajo mi control." ―Shifu
+
+< CARD_HYPER_REIKA >
+name=Coleccionista de Estrellas
+descr=Duración: 3 capítulos.\nCuando otra unidad recibe estrellas de un panel o al noquear a un oponente en un combate, reciben menos estrellas equivalentes a tu nivel, y tu recibes más estrellas equivalentes a tu nivel. Este efecto también se perderá al morir.
+flavor="Fufufu, mira cuantas estrellas llevo aquí." ―Reika
+
+< CARD_HYPER_WATTY >
+name=Torrente de Magia
+descr=Duración: 3 capítulos.\nRecibes +2 DEF. La cantidad máxima de Escamas Endurecidas son incrementadas a 10.\nSi consigues 10 efectos guardados de Escamas Endurecidas, todos los otros jugadores serán noqueados.
+flavor="E-eso es peligroso... lo siento mucho." ―Watty
+
+< CARD_HYPER_POMERANIUS >
+name=El Mejor de los Amigos
+descr=Duración: 3 capítulos.\nRecibes inmunidad a los efectos de noqueo instantáneos. Al estar en un panel con otro jugador al término de tú o su turno, recibirás la copia de una de sus cartas. No podrás desafiar o ser desafiado a un combate; aun así, tus oponentes podrían detenerse para acariciarte. Este efecto se pierde al morir.
+flavor="*Quejido*" ―Pomeranius
+
+< CARD_HYPER_SWEETCREATOR >
+name=Dulce Paraíso
+descr=Coloca la trampa: "Dulce Indulgencia" en 3-5 paneles aleatorios.
+flavor="¡Este es el poder de una Sweet God!" ―Sweet Creator
+
+< CARD_HYPER_SWEETCREATOR2 >
+name=Dulce Indulgencia
+descr=Convierte todas tus cartas en Cartas no Especiales, relacionadas a los Dulces.
+flavor="Te llenaré el cuerpo de Dulces, quieras o no."  ―Sweet Creator
+
+< CARD_HYPER_SWEETMAKER >
+name=La Magia de Sweet Maker
+descr=Cura 1 PV y otorga +2 ATK por cada Carta en mano relacionada a los Dulces durante a esta batalla. Descarta todas las cartas relacionadas a los dulces.
+flavor="¡El poder de los dulces es el mejor!" ―Saki
+
+< CARD_HYPER_SWEETBLOGGER >
+name=Operación: Montaña de Dulces
+descr=Toma 3 Cartas de Impulso del mazo. Puedes usar 3 otras Cartas de Impulso durante este turno con el 1/3 de su costo.
+flavor="Jeje~, vamos a comer muchos dulces deliciosos." ―Natsumi
+
+< CARD_HYPER_MIOFESTIVE >
+name=Infierno Navideño
+descr=Tus PV son reducidos a 1. Los otros jugadores serán dañados por un valor equivalente a la cantidad de PV que hayas perdido. Recibirás la carta: "El Pastel Navideño de Mio" por cada jugador noqueado por este efecto.
+flavor="Les mostraré el infierno." ―Mio
+
+< CARD_HYPER_KRILAPAJAMA1 >
+name=Amenazas a Mi Sueño
+descr=Al cancelar exactamente 1 punto de daño dentro de una batalla mientras esta carta está en mano, consigues un punto de Despertar. (Máx 4. No se aplica más de una vez.)\nEsta carta se transformará en Cuando Mi Sueño Se Rompe al ser usada.
+flavor="Por tu seguridad, sugiero que no hagas ruido..." ―Krilalaris
+
+< CARD_HYPER_KRILAPAJAMA2 >
+name=Cuando Mi Sueño Se Rompe
+descr=Todos los otros jugadores y el jefe recibirán X+1 puntos de daño, la X siendo tu cantidad de efectos de Despertar. Pierdes todos los efectos de Despertar, y recibes +1 PV por cada 2 efectos de Despertar removidos de esta forma.
+flavor="El tiempo ha llegado para decir buenos días..." ―Krilalaris
+
+< CARD_HYPER_MIMYUUJAILBIRD >
+name=Escape de Prisión Fingido
+descr=Regresa a tu Hogar sin activarlo.\nTiras 2 dados al moverte.\nLos otros jugadores no podrán desafiarte o usarte como el blanco de sus cartas de Impulso.\nSerás inmune a las cartas Trampa, a los efectos de noqueo instantáneos y al daño realizado por las cartas de otros jugadores.\nEste efecto se perderá al moverse por 20 paneles.
+flavor="¡Golpeteo, golpeteo!" ―Mimyuu
+
+< CARD_HYPER_MOTHERP >
+name=Poder Materno
+descr=★Costo: Tu nivel x2\nDuración: Tu nivel.\nRecibes Estrellas (valor: Tu nivel x1) por cada punto de daño recibido. Si este efecto se acaba o es reemplazado por otro, todos tus puntos de vida serán curados.\nEste efecto se perderá al ser noqueado.
+flavor="Este es el poder de una madre, poppo." ―Mamá Poppo
+
+< CARD_HYPER_DARKL >
+name=Lulu es una Dragona Desafortunada
+descr=Solo puede ser usado al tener 2 PV o menos. Activa uno de los siguientes efectos de forma aleatoria:\n-Tira un dado. Todos los otros jugadores perderán estrellas por un valor equivalente al de ese dado x sus niveles.\n-Todos los otros jugadores pierden una carta de forma aleatoria.\n-Los PV de todos los otros jugadores son reducidos a 2.
+flavor="Lulu es... una dragona muy desafortunada..." ―Lulu (Oscura)
+
+< CARD_HYPER_HELLIE >
+name=El Hiper Milagro de Ellie
+descr=Duración: 2 capítulos. Recibes +X ATK en una batalla al ser el atacante, y +X DEF y +X EVD al ser el defensor. X = tu cantidad de Normas completadas.
+flavor="Les mostraré a todos mi enorme poder~ ♥" ―Hiper Ellie
+
+< CARD_HYPER_HKAI >
+name=El Momento de Gloria del Ex-Protagonista
+descr=★Costo: Nivel x10. Duración: 3 capítulos. Tus puntos de vida son reducidos a 1, pero recibirás +2 ATK y +5 EVD.
+flavor="No puedes hacer que un adulto se esfuerze demasiado." ―Kai (Héroe)
+
+< CARD_HYPER_GRAIN >
+name=Todas Las Armas Preparadas
+descr=Paga todos los efectos guardados de Cañón. Un enemigo aleatorio recibe 1 punto de daño. Si el enemigo es noqueado por este efecto, recibes 1 Victoria y Estrellas equivalentes a su Nivel x 10. Este efecto se repite por cada Cañón pagado.
+flavor="Todas las armas preparadas, y... ¡FUEGO!" ―Grain
+
+< CARD_HYPER_BOURBON >
+name=El Corazón de la Resistencia
+descr=Escoge a otro jugador activo. La próxima vez que sean desafiados o desafíen a una unidad, tú tomarás su lugar en la batalla. Recibes +3 ATK, DEF y EVD al comienzo de la batalla. Solo podrás tener este efecto activo en un jugador a la vez.
+flavor="Solo queremos volar por los cielos de la forma que queremos." ―Bourbon
+
+< CARD_HYPER_POYO >
+name=Hora de la Super Juventud
+descr=Duración: 1 Capítulo.\nDuplica el valor de tus dados para Atacar, Defender, Evadir, Movimiento, Estrellas y Pérdidas.
+flavor="¡Nuestra vibrante y profunda juventud comienza ahora!" ―Poyo
+
+< CARD_HYPER_CHUU >
+name=Lo Intentaré Al Menos Un Poco
+descr=★Costo: Nivel x5.\nHasta el fin de tu turno, recibes +X ATK, la X siendo tu nivel. No recibirás estrellas al derrotar enemigos. La primera vez que derrotes a un jugador en una batalla con este efecto activo, recibirás 2 Victorias.
+flavor="Supongo que te mostraré una pequeña parte de mi ánimo." ―Chuu
+
+< CARD_HYPER_HARUKA >
+name=Portadora de Ánimos
+descr=Duración: 3 capítulos. Revive a todos los jugadores actualmente noqueados con todos sus PV. Si otro jugador es noqueado, se recuperarán de forma instantánea con todos sus PV. Por cada jugador revivido, recibes sus Estrellas (Valor: Nivel x 5). Este efecto puede ser guardado más de una vez.
+flavor="¡Vamos a animar el juego juntos!" ―Haruka
+
+< CARD_HYPER_KANATA >
+name=Engaño Que Suena Intelectual
+descr=Escoge a otro jugador.\nEscoge el tipo de carta (Batalla/Impulso/Evento/Otro), y decláralo.\nSi la próxima carta usada por el jugador escogido es de ese tipo: recibes 2 Victorias y Estrellas (valor: Nivel x 10)\nSi no lo es, recibes 2 puntos de daño.
+flavor="Puedo ver las cartas que tienes." ―Kanata
+
+< CARD_BOOST_XMASCAKE >
+name=El Pastel Navideño de Mio
+descr=Escoge uno de los siguientes efectos:\n-Come esta carta para recibir 1 PV.\n-Comparte esta carta con el jugador seleccionado, ese jugador se curará 2 PV y tú recibirás la misma cantidad de PV.
+flavor="Estoy muy orgullosa de este pastel que horneé. Disfrútalo~ ♡" ―Mio
+
+< CARD_BATTLE_DESPERATEMODIFICATION >
+name=Modificación Desesperada
+descr=Durante esta batalla, el dado caerá en 1 o 6 al atacar, defender y evadir.
+flavor="Pobre Cuervo Azul... ¡Está lleno de cosas pesadas!" ―Marc
+
+< CARD_BOOST_PATHBLOCKERS >
+name=Camino Bloqueado
+descr=Efecto Guardado (1). Escoge a un jugador que se encuentre con vida. Si ese jugador se mueve sobre un panel que tenga una Trampa, tendrá que detenerse en ese panel.
+flavor="¡Nadie pasará sobre los Waruda!" ―Tomato
+
+< CARD_EVENT_ACCELERATINGSKY >
+name=Cielos Acelerados
+descr=Duración: 3 capítulos.\nTodos los jugadores reciben +1 EVD y -1 DEF.
+flavor="¿Las chicas están saltando sobre el cielo...?"
+
+< CARD_TRAP_POPPOTRANSFORMATION >
+name=Poppo-Transformación
+descr=Efecto Guardado (1). Tus puntos de ATK, DEF y EVD cambiarán a -1 durante tu próxima batalla. 
+flavor="¡Poppo! ¡¡¡Poppopopo!!!" ―Everyone
+
+< CARD_GIFT_POPPOTHESNATCHER >
+name=Poppo la Ladrona
+descr=Pierdes -1 DEF. Al encontrarte con otro enemigo en tu camino, roba estrellas equivalentes a su nivel x 3. Deshabilita la verificación de normas. Esta carta es descartada al ser usada o al morir.
+flavor="¡¡Pokyakya!!" ―Poppo
+
+< CARD_GIFT_BLOODLUST >
+name=Sed de Sangre
+descr=Pierdes 1 PV al comienzo de cada turno. Cura 1 PV por cada punto de daño causado. Deshabilita la verificación de normas. Esta carta es descartada al ser usada o al morir.
+flavor="El verdadero poder de mi bestia... me pregunto si será de esta forma." ―Krila
+
+< CARD_BATTLE_SINKORSWIM >
+name=Nadar o Hundirse
+descr=Recibe -1 ATK, -1 DEF y -1 EVD. Si consigues una Victoria después de esta batalla, recibes el 50% más de las estrellas de tu oponente.
+flavor="¡Muy bien, es hora de apostarle a las probabilidades más grandes!" ―Yuki
+
+< CARD_BATTLE_SERIOUSBATTLE >
+name=Batalla Seria
+descr=Durante esta batalla, el ATK, DEF y EVD de ambas unidades será 0.
+flavor="¡Esta batalla será la verdadera prueba de fuerza!" ―Tomomo
+
+< CARD_BATTLE_PORTABLEPUDDING >
+name=Pudín Portátil
+descr=Al comienzo de esta batalla, revierte tus puntos de vida a su valor máximo.
+flavor="¡Hoy tendré Pudín para el almuerzo!" ―QP
+
+< CARD_BOOST_SWEETDESTROYER >
+name=Dulces Destrozados
+descr=Roba una carta "pudín" de todos los otros jugadores. Podrás jugar una carta adicional durante este turno. Por 3 capítulos, todas las cartas relacionadas a los Dulces (que no sean Especiales) tomadas se transformarán en Pudín Peligroso o Pudín en Mal Estado.
+flavor="Los dulces que dañarán a todo el universo... ¡Los destruiré a todos!" ―Sweet Breaker
+
+< CARD_BOOST_BACKDOORTRADE >
+name=Negocio Oculto
+descr=Costo: Nivel x5.\nLa Norma del jugador será revisada.\nEsta carta sólo puede ser usada por el jugador con el nivel más bajo, y no puede ser usada en la última norma.
+flavor="Aquí está lo que me pediste." ―Capitán Tequila\n"¡Buen trabajo! ¡Sabía que podía contar en un villano como tú!" ―Mimyuu
+
+< CARD_EVENT_SERENEHUSH >
+name=Silencio Sereno
+descr=Duración: 1 capítulo.\nNinguna batalla ocurrirá.
+flavor="No hay nada que hacer..." ―Sumika\n"Disfrutemos de la paz y la tranquilidad." ―Suguri
+
+< CARD_EVENT_UNPAIDWORK >
+name=Trabajo Sin Dinero
+descr=Duración: 1 capítulo.\nNinguna unidad podrá conseguir estrellas.
+flavor="¿¡En dónde está mi dinero!?" ―Chris
+
+< CARD_EVENT_INDISCRIMINATEFIRESUPPORT >
+name=Apoyo Aéreo Indiscriminado
+descr=Duración: Infinita.\nUna unidad escogida de forma aleatoria recibe un punto de daño. Este efecto se repite al comienzo de tu turno. Este efecto se acaba cuando una unidad es noqueada.
+flavor="......" ―Sora
+
+< CARD_GIFT_LUCKYCHARM >
+name=Amuleto de la Suerte
+descr=Recibe estrellas equivalentes al Nivel del Jugador x 1 al comienzo de cada turno. Ninguna otra carta podrá ser usada. Esta carta es descartada al al ser usada.
+flavor="¡Woo-hoo, muchísimas estrellas! ¡¡Hoy es mi día de suerte!!" ―Tomomo
+
+< CARD_GIFT_METALLICMONOCOQUE >
+name=Monocasco Metálico
+descr=Al ser dañado por un efecto fuera o antes de un combate, el daño se reduce por 1, y pierdes Estrellas equivalentes a tu Nivel x 2.
+flavor="Vivimos en una generación muy tímida." ―Sherry
+
+< CARD_TRAP_IWANNASEEYOU >
+name=Quiero Verte
+descr=El jugador que colocó esta trampa se moverá al panel en el cual la trampa fue activada. El jugador que activó la trampa recibe esta carta en vez de ser descartada.
+flavor="Kyupita... quiero verte." ―Kyousuke
+
+< CARD_TRAP_ENCORE >
+name=Bis
+descr=Cuando esta carta es activada en un panel de Estrellas, Pérdidas, Cartas o Batallas, el efecto de ese panel ocurre dos veces.
+flavor="¡Otra! ¡Otra!"
+
+< CARD_MINIGAME_TURNSKIP >
+name=Poppo Para
+descr=
+flavor=
+
+< CARD_MINIGAME_REVERSEMOVEMENT >
+name=Poppo Reversa
+descr=
+flavor=
+
+< CARD_MINIGAME_DOUBLEDICE >
+name=Poppo Dado
+descr=
+flavor=
+
+< CARD_MINIGAME_FROSTWALKER >
+name=Poppo Helado
+descr=
+flavor=
+
+< CARD_HYPER_SUMMER2018_ATTACKER >
+name=El Arma Definitiva Bajo el Sol
+descr=Durante esta batalla,\nconsigues +3 ATK.
+flavor="Comenzando mi vacación... ahora." ―Sora
+
+< CARD_HYPER_SUMMER2018_DEFENDER >
+name=Salvavidas en la Playa Blanca
+descr=Todos los aliados reciben una reducción de daño de 2 durante su próxima batalla.
+flavor="Cielos, te estás excediendo." ―Suguri
+
+< CARD_HYPER_SUMMER2018_SUPPORT >
+name=El Guardián de las Flores
+descr=Revive a un aliado que se encuentre noqueado, restaurando su PV al máximo.
+flavor="Ya estás bien. El dolor se ha ido." ―Hime
+
+< CARD_HYPER_SUMMER2018_AVENGER >
+name=El Vengador Sin Piedad
+descr=Durante esta batalla, el daño recibido por ambos jugadores es duplicado.
+flavor="¡Mimyuu! Quién te hizo esto..." ―Tomato
+
+< CARD_SUMMER2018_PROTECT >
+name=Protección
+descr=
+flavor=
+
+< CARD_XMAS2018_GROWNUPSNOWBALLFIGHT >
+name=Guerra de Nieve Entre Adultos
+descr=En el turno de ataque, escoge 2 paneles a los cuales apuntar en vez de uno. Ignora los efectos de las unidades que niegan el uso de esta carta.
+flavor="¿Estás listo para esto?" ―Arturo
+
+< CARD_XMAS2018_SNOWBALLREFLECTOR >
+name=Devolución de Nieve
+descr=En el turno de defensa, devuélve toda bola de nieve que te toque a aquellos que la lanzaron. Ignora los efectos de las unidades que niegan el uso de esta carta.
+flavor="¡Y-y te volverá ahora mismo!" ―Aru
+
+< CARD_XMAS2018_SNOWBALLFIGHTBAN >
+name=Frío
+descr=
+flavor=
+
+< CARD_BOOST_OVERTIME >
+name=Tiempo Suplementario
+descr=Tiras 3 dados al moverte. Tu próximo turno será omitido.
+flavor="N-no podré quejarme mientras esté recibiendo mi paga..." ―Chris
+
+< CARD_BATTLE_DECEPTIVEDISARMING >
+name=Desarmamiento Engañoso
+descr=Si el oponente usa una carta de batalla durante esta batalla, y si es que no es restringida por el orden del jugador, su efecto es aplicado como si tú la hubieras usado.
+flavor="¡¿El tren está repleto de cosas peligrosas?!" ―Tomato
+
+< CARD_EVENT_PETSNACKS >
+name=Bocadillos Para Mascotas
+descr=Todas las unidades salvajes recibirán +1/+1/+1 durante su próxima batalla.
+flavor="¡Es la hora de la merienda! ¡A comer!" ―Syura
+
+< CARD_EVENT_HOMEIMPROVEMENT >
+name=Reforma de Hogar
+descr=Al comienzo de tu próximo turno, todos los hogares cambiarán de posición de forma aleatoria. Cada hogar otorgará una carta al primer jugador en detenerse en ellas.
+flavor="Sumika se construirá un hogar bonito y acogedor para ella misma." ―Sumika
+
+< CARD_TRAP_BANANANA >
+name=BanaNana
+descr=Este panel no se activará, pero el jugador que caiga en esta trampa podrá moverse una vez más.
+flavor="¿Pensabas encontrar una banana? ¡Qué mal! ¡Fui yo, Nanako!" ―Nanako
+
+< CARD_GIFT_LUCKYSEVENS >
+name=Sietes de la Suerte
+descr=Al tener esta carta en mano, todos tus dados podrán caer en 0 y 7 de forma natural, el valor mínimo de un dado siendo 0.\nAl moverte, si el dado cae en 0, no podrás verificar tu norma.
+flavor="Incluso puedo controlar el valor de mis dados." ―Yuki
+
+< CARD_BOOST_WARPCONTROL >
+name=Teletransportación Controlada
+descr=★Costo: Nivel x5\nAl activar un panel de Teletransportación o Transportación y Movimiento, podrás escoger el panel de teletransportación al cual serás enviado.
+flavor="¡El viento sopla bien por aquí!" ―Cook
+
+< CARD_EVENT_REBELLION >
+name=Rebelión
+descr=Duración: 3 capítulos.\nTodos los jugadores recibirán +1 ATK, +1 DEF y +1 EVD al luchar contra un jugador que tenga un nivel mayor al suyo.
+flavor="El gremio te traicionará antes de que sea tarde... Ten eso en mente." ―Sherry
+
+< CARD_GIFT_NANAKOBIT >
+name=El Bit de Nanako
+descr=Recibes +1 ATK, +1 DEF o +1 EVD de forma aleatoria al comienzo de una batalla mientras esta carta se encuentre en mano, pero también pierdes 7 estrellas.\nEsta carta será descartada al ser noqueado o al ser usada.
+flavor="¿¡Pero qué rayos es lo que estás haciendo!?" ―Nanako
+
+< CARD_TRAP_BANKOFPOPPO >
+name=El Banco de Poppo
+descr=La primera persona en activar esta trampa pierde estrellas por un valor equivalente a su Nivel x 10. Si se han perdido estrellas, esta trampa seguirá en el campo de juego y la segunda persona en caer en esta trampa recibirá las estrellas.
+flavor="¡Mi dinero...!" ―Kai
+
+< CARD_BOOST_MYWILDFRIENDS >
+name=Mis Amigos Salvajes
+descr=Convoca a una unidad amiga (que sea una unidad salvaje disponible) en tu panel actual.\nEsta unidad recibe 1 PV, desafiará a todos sus enemigos y otorgará la mitad de las estrellas recibidas a su convocante.\nConvocaciones ya activas serán reemplazadas al usar esta carta. 
+flavor="Tomarse un descanso puede ser bueno de vez en cuando." ―Teotoratta
+
+< CARD_BATTLE_CONTESTOFCUTENESS >
+name=Concurso de Lindura
+descr=Esta carta solo puede ser usada por el atacante. La batalla será decidida por un concurso de lindura.\nLindura = 10 - Máx. PV - ATK + EVD, pero no puede ser menos de 0.\nEn vez de atacar, ambas unidades tirarán dos dados y añadirán a su valor total de Lindura. La unidad que tenga un mayor valor de Lindura se robará estrellas equivalentes al Nivel del Perdedor x 5 y una victoria. La batalla entonces acabará.\nEsta carta solo puede ser usada contra jugadores.
+flavor="¡Ahora dinos! ¡¿Quién es la más linda aquí?!" ―Saki
+
+< CARD_WINTER2022_FALSECAKE >
+name=El Pastel Falso de Mio
+descr=Escoge uno de los siguientes efectos:\n- Obtén un efecto aleatorio.\n- Arrójale esta carta a un enemigo para realizar 1 punto de daño. (Si no hay un blanco disponible, el primer efecto se activará.)\nIgnora los efectos de las unidades que no permitirían usar esta carta.
+flavor="¿¡Pero qué rayos...!? ¡Esto es asqueroso!" ―Tomomo
+
+< CARD_CHAOS_ROOST >
+name=Gallinero Caótico
+descr=Convoca a una Gallina Agresiva, lo que te permitirá lanzar un dado adicional al atacar durante una batalla. -2 ATK y DEF mientras esta Gallina Agresiva esté en el campo de juego. Solo una convocación a la vez podrá estar en el campo de juego.
+flavor=
+
+< CARD_CHAOS_PROTECT >
+name=Protección Caótica
+descr=Efecto Guardado (3): Cada efecto guardado de este mismo tipo te permitirá reducir todo daño recibido por 2, hasta un mínimo de 1.
+flavor=
+
+< CARD_CHAOS_ABYSS >
+name=Del Abismo Caótico
+descr=Convoca a una Poppo Caótica. La Poppo Caótica no podrá dañar a los demás, pero robará 2 estrellas por cada punto de daño realizado. Otorga 10 Estrellas del convocante y 2 Victorias al ser noqueada. Solo una convocación a la vez podrá estar en el campo de juego.
+flavor=
+
+< CARD_CHAOS_RAMPAGE >
+name=Alboroto Caótico
+descr=El Ánimo se reduce a 0. Por cada 3 puntos de Ánimo, todos los enemigos recibirán un punto de daño, y tú recibirás +1 ATK hasta ser noqueado. Por cada unidad noqueada por el daño de esta carta, recibes +1 PV.
+flavor=
+
+< CARD_CHAOS_LAUNCH >
+name=Lanzamiento Caótico
+descr=Selecciona un panel al cual zambullirte y deja el campo de juego hasta el próximo turno. Ese panel no será revelado a los otros jugadores. En tu próximo turno, zambúllete en el panel escogido, pero no podrás subir de Norma durante ese mismo turno. Las unidades a 2 paneles de distancia recibirán daño equivalente a tu Nivel x1. Las unidades 1 panel de distancia recibirán daño equivalente a tu Nivel x2. Por cada unidad noqueada, recibes 20 Estrellas y 2 Victorias.
+flavor=
+
+< CARD_CHAOS_ROULETTE >
+name=Ruleta Caótica
+descr=Añade una de las siguientes cartas a tu mano de manera aleatoria: Gallinero Caótico, Protección Caótica y Del Abismo Caótico.\nPodrás usar una carta adicional durante este turno.
+flavor=
+
+< CARD_CHAOS_POOL >
+name=Piscina Caótica
+descr=Convoca a una de las siguientes unidades de manera aleatoria: Portería, Bola Mala o Nadadaro. Solo una convocación a la vez podrá estar en el campo de juego. Usar esta carta otra vez mientras que una unidad convocada ya se encuentre en el campo de juego la reemplazará con una unidad diferente.
+flavor=
+
+< CARD_CHAOS_GIFT_HOTPOTATO >
+name=Sostén a la Diablilla
+descr=Una Mimyuu muy poco predecible se ha pegado a ti. Al finalizar tu turno, recibes Estrellas equivalentes a tu Nivel. Mimyuu explotará después de una cantidad aleatoria de turnos, reduciendo tus PV a 1 y pegándose a otro jugador. Usa esta carta para hacer que Mimyuu se pase a otro jugador. Esta carta no podrá ser descartada o removida por otros métodos. Ignora todos los efectos que puedan prevenir que el efecto de esta carta sea aplicado. 
+flavor=
+
+< CARD_CHAOS_BDTT_HYPER >
+name=Aterrorizar
+descr=Selecciona a un enemigo noqueado. Recibirán REC+3 hasta recuperarse. Este efecto puede ser guardado más de una vez.
+flavor=
+
+< CARD_GENERIC_BATTLE >
+name=Carta de Batalla
+descr=Esta es una carta usada dentro de un combate.
+flavor="Puedo ver las cartas que tienes." ―Kanata
+
+< CARD_GENERIC_BOOST >
+name=Carta de Impulso
+descr=Esta es una carta de impulso.
+flavor="Puedo ver las cartas que tienes." ―Kanata
+
+< CARD_GENERIC_TRAP >
+name=Carta Trampa
+descr=¡Ten cuidado! ¡Esta carta es una trampa!
+flavor="Puedo ver las cartas que tienes." ―Kanata
+
+< CARD_GENERIC_EVENT >
+name=Carta de Evento
+descr=Parece que esta es una carta de evento.
+flavor="Puedo ver las cartas que tienes." ―Kanata
+
+< CARD_GENERIC_GIFT >
+name=Carta de Regalo
+descr=¿Un regalo? ¿Para mí? Aww, no deberías haberte molestado.
+flavor="Puedo ver las cartas que tienes." ―Kanata
+
+[EOF]

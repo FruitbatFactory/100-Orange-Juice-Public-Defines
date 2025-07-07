@@ -1,0 +1,116 @@
+
+< FIELDEVENT_NONE >
+name=なし
+descr=
+
+< FIELDEVENT_DEFAULT >
+name=デフォルト
+descr=
+
+< FIELDEVENT_RANDOM >
+name=ランダム
+descr=
+
+< FIELDEVENT_BOSSENCOUNTER >
+name=ボスエンカウンター
+descr=
+
+< FIELDEVENT_REGENERATION >
+name=リジェネレーション
+descr=全てのプレイヤーのHPが1回復する。\n\n頻度：5チャプター毎
+
+< FIELDEVENT_RANDOMWARP >
+name=ランダムワープ
+descr=全てのプレイヤーがランダムなマスにワープする。\n\n頻度：5チャプター毎
+
+< FIELDEVENT_CHARITY >
+name=チャリティ
+descr=全てのプレイヤーは1枚カードを引く。\n\n頻度：5チャプター毎
+
+< FIELDEVENT_AIRRAID >
+name=エアレイド
+descr=全てのプレイヤーは1ダメージを受ける。\n\n頻度：5チャプター毎
+
+< FIELDEVENT_MINELAYER >
+name=マインレイヤー
+descr=トラップカード1枚がランダムなマスに設置される。\n\n頻度：3チャプター毎
+
+< FIELDEVENT_MIRACLE >
+name=ミラクル
+descr=バトル、ボーナス、ドロー、ドロップのマスの効果が2倍になる。\n\n頻度：5チャプター毎\n持続：1チャプター
+
+< FIELDEVENT_BATTLEFIELD >
+name=バトルフィールド
+descr=全てのボーナスマスとドロップマスはバトルマスになる。\n\n頻度：6チャプター毎\n持続：3チャプター
+
+< FIELDEVENT_CONFUSION >
+name=コンフュージョン
+descr=全てのプレイヤーの手札はシャッフルされ、表側が見られなくなる。\n\n頻度：6チャプター毎\n持続：3チャプター
+
+< FIELDEVENT_BACKTRACK >
+name=バックトラック
+descr=全てのプレイヤーの進行方向が逆になる。\n\n頻度：8チャプター毎\n持続：1チャプター
+
+< FIELDEVENT_SPRINT >
+name=スプリント
+descr=移動ダイスが2個になる。(最大4個)\n\n頻度：6チャプター毎\n持続：1チャプター
+
+< FIELDEVENT_HOMEROULETTE >
+name=ホームルーレット
+descr=全てのホームマスがシャッフルされる。\n\n頻度：9チャプター毎
+
+< FIELDEVENT_BOMBER >
+name=ボンバー
+descr=爆弾が1つランダムなマスに設置され、1～4チャプター後に十字に爆発する。\n\n爆発範囲内のマス上にいる全てのユニットは2ダメージを受ける。\n頻度：2チャプター毎
+
+< FIELDEVENT_MYSTERY >
+name=ミステリー
+descr=ランダムに選ばれたフィールドイベントが1つ発生する。\n\n頻度：5チャプター毎
+
+< FIELDEVENT_FREEZE >
+name=フリーズ
+descr=全てのマスの3分の1をいアイスマスに変える。\n\n頻度：5チャプター毎\n持続：1チャプター
+
+< FIELDEVENT_TREASURE >
+name=トレジャー
+descr=宝箱がランダムなマスに配置される。\nそのパネルに止まると箱が開く。\n\n頻度：毎チャプター
+
+< FIELDEVENT_AMP >
+name=増幅
+descr=全てのユニットの能力値のいずれかが+1。\n\n頻度：6チャプター毎\n持続：2チャプター
+
+< FIELDEVENT_PLAYGROUND >
+name=遊び場！
+descr=遊び場マスに止まるとミニゲームが遊べる。\n\n頻度：5チャプター毎
+
+< FIELDEVENT_TERROR >
+name=天空からの恐怖
+descr=一部のパネルが変化し、止まるとジョナサンとのバトルになる。\n頻度：不定期\n持続：1チャプター
+
+< FIELDEVENT_FISHING >
+name=フィッシュ・ア・フィッシュ
+descr=他のプレイヤーと釣りミニゲームで対戦する。\n\n持続：1チャプター頻度：9チャプター毎
+
+< FIELDEVENT_GOO >
+name=ベトベト
+descr=フィールド上のベトベトでない1/3のマスがベトベトになる。\n頻度：5チャプター毎\n持続：1チャプター
+
+< FIELDEVENT_SPORES >
+name=胞子
+descr=フィールド上にキノコが生える。\n\n頻度：3チャプター毎
+
+< FIELDEVENT_CHAOS_BATTLEFIELD >
+name=カオス・バトルフィールド
+descr=
+
+< FIELDEVENT_CHAOS_STARVATION >
+name=腹ぺこ
+descr=
+
+< FIELDEVENT_CHAOS_OVERINDULGENCE >
+name=甘すぎる享楽
+descr=
+
+< FIELDEVENT_CONVERGENCE >
+name=収束
+descr=現在のフィールドが別のランダムなフィールドに変化する。\n\n頻度：6チャプター毎

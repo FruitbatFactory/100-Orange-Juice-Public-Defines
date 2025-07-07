@@ -1,0 +1,359 @@
+
+// ========= Scene: Fall 2020 Event Start =========
+
+// (lulu)
+<0000> A-are you sure they're in here?
+
+// (ellie)
+<0001> If the rumors are true... yes!
+
+// (lulu)
+<0002> It's so dark in here, Lulu's scared...
+
+// (ellie)
+<0003> Watch your step, Lulu. Let's go slow, okay?
+
+// (lulu)
+<0004> Thanks. You don't seem worried at all, Ellie.
+
+// (ellie)
+<0005> You could say adventure is all about dungeon crawling. Places like these don't bother me!
+
+// (lulu)
+<0006> Hoaah... So we're on a real adventure now, huh.
+
+// (lulu)
+<0007> Then, Lulu shouldn't be scared, either!
+
+// (ellie)
+<0008> That's the spirit, Lulu!
+
+// (ellie)
+<0009> If we get our hands on the treasure hidden here in this cave, we'll be richer and get to treat ourselves during our journey!
+
+// (lulu)
+<0010> Treat ourselves...! Lulu likes the sound of it.
+
+// (ellie)
+<0011> Aha! So we've got to find them, no matter what it takes.
+
+// (ellie)
+<0012> The legendary Red Mushroom and the ultra-rare Blue Mushroom!
+
+// (lulu)
+<0013> Yeah, Lulu will work hard to find them, too!
+
+// (???)
+<0014> Not so fast!
+
+// (ellie)
+<0015> !?
+
+// (lulu)
+<0016> Who's there!?
+
+// (maynie)
+<0017> All the mushrooms in here will be Lady Arnelle's!
+
+// (lulu)
+<0018> ???
+
+// (maynie)
+<0019> If you call yourselves adventurers, you should know the name of this great individual who's definitely going to make countless glorious achievements!
+
+// (arnelle)
+<0020> Ku-ku-ku... Fuhahahaha!
+
+// (arnelle)
+<0021> I am Arnelle, considered the greatest treasure hunter among those in the know!
+
+// (maynie)
+<0022> Kyaa! You're so cool, Lady Arnelle!
+
+// (ellie)
+<0023> ......
+
+// (lulu)
+<0024> Ms. Arnelle...? Ellie, do you know of her?
+
+// (ellie)
+<0025> Aha, never heard of her.
+
+// (ellie)
+<0026> And that girl said she was going to "make" achievements. That means she hasn't achieved anything yet.
+
+// (lulu)
+<0027> Ah, you're right!
+
+// (arnelle)
+<0028> Ugh...!
+
+// (maynie)
+<0029> What the heck!? How could you be adventurers without knowing about Lady Arnelle? Shame on you!
+
+// (maynie)
+<0030> We should kick their butts here and now, Lady Arnelle!
+
+// (arnelle)
+<0031> Now slow down a bit there...
+
+// (ellie)
+<0032> What? You wanna pick a fight with me? Bring it on, then!
+
+// (maynie)
+<0033> You've got some nerve! Don't blame anyone else if you get hurt...
+
+// (arnelle)
+<0034> Calm down, Maynie!
+
+// (maynie)
+<0035> ...Oh!
+
+// (arnelle)
+<0036> There's no point in having a fight with them here.
+
+// (maynie)
+<0037> Lady Arnelle...
+
+// (arnelle)
+<0038> The four of us are here for the mushrooms, so I say we compete for them instead - it's a mushroom war!
+
+// (ellie)
+<0039> A mushroom war!?
+
+// (arnelle)
+<0040> The legendary mushroom and the ultra-rare mushroom... Even though they both grow in here, they're extremely scarce.
+
+// (arnelle)
+<0041> So, whoever gets both mushrooms wins. Clear and simple, isn't it?
+
+// (ellie)
+<0042> Aha ♥ Okay, challenge accepted!
+
+// (lulu)
+<0043> Ellie, are you sure about this?
+
+// (ellie)
+<0044> No worries! There's no way a never-before-heard-of treasure hunter like her can beat me.
+
+// (maynie)
+<0045> What the heck!? Lady Arnelle is the one who's going to find both mushrooms for absolute certain!
+
+// (arnelle)
+<0046> Alright then, let the mushroom war...
+
+// (lulu)
+<0047> Begin!
+
+// ========= Scene: Fall 2020 Event Ending =========
+
+// (lulu)
+<0048> Th-there it is! The legendary Red Mushroom!
+
+// (ellie)
+<0049> Look how red and poisonous-looking it is... It's definitely the one!
+
+// (ellie)
+<0050> Aha ♥ Well done, Lulu!
+
+// (arnelle)
+<0051> Ku-ku-ku...
+
+// (ellie)
+<0052> !?
+
+// (arnelle)
+<0053> Looks like you found one of the mushrooms.
+
+// (ellie)
+<0054> You're the treasure hunter from earlier!
+
+// (maynie)
+<0055> Way to go, Lady Arnelle! Since we have a Blue Mushroom, if we snatch their Red Mushroom off them...
+
+// (arnelle)
+<0056> Both mushrooms will be ours!
+
+// (ellie)
+<0057> Ahaaa? That's never going to happen! We'll snatch yours instead!
+
+// (ellie)
+<0058> *Pant pant* You're a good fighter, I'll give you that.
+
+// (maynie)
+<0059> *Pant pant* So are you.
+
+// (lulu)
+<0060> Th-this has been one fierce battle.
+
+// (arnelle)
+<0061> I agree the fight has been worth watching...
+
+// (arnelle)
+<0062> But, little girl, this is a mushroom war. If you're so focused on their fight...
+
+// (arnelle)
+<0063> I'll snatch the mushroom from your hands!
+
+// (lulu)
+<0064> Huh?
+
+// (ellie)
+<0065> !? I won't let you!
+
+// (arnelle)
+<0066> Ugh.
+
+// (ellie)
+<0067> Lulu, you alright?
+
+// (lulu)
+<0068> Huh, Ellie? Lulu's fine... But our mushroom, it's...
+
+// (ellie)
+<0069> Oh my god, it's got a scratch on it...!
+
+// (arnelle)
+<0070> Uh-oh. No one would buy a damaged mushroom... What a waste.
+
+// (ellie)
+<0071> Don't talk like it's not your fault! You're the one who damaged it!
+
+// (ellie)
+<0072> Aren't you ashamed of being a treasure hunter when you tried to pilfer a treasure and failed and ruined it?
+
+// (arnelle)
+<0073> Arrgh! D-don't add insult to injury with a fair argument...!
+
+// (maynie)
+<0074> It's alright, Lady Arnelle! Whatever she says, it just sounds like the sour grapes of a sore loser!
+
+// (arnelle)
+<0075> Y-yeah, that's right.
+
+// (arnelle)
+<0076> Alright then, give me that Red Mushroom. You have no use for it anymore.
+
+// (arnelle)
+<0077> Though it's damaged, it should still make a little money.
+
+// (ellie)
+<0078> Ahaaa! If I have to give it to you, I'd rather do this...!
+
+// (ellie)
+<0079> *Glomps*
+
+// (maynie)
+<0080> Aaaah!? She...
+
+// (arnelle)
+<0081> Ate the mushroom!?
+
+// (ellie)
+<0082> *Munch munch* W-well, the legendary mushroom is surprisingly tasty.
+
+// (maynie)
+<0083> The heck, she's crazy...!
+
+// (arnelle)
+<0084> Eating those mushrooms raw isn't good...
+
+// (lulu)
+<0085> What?
+
+// (arnelle)
+<0086> We've got to get out of here before that girl becomes trouble, Maynie.
+
+// (maynie)
+<0087> O-okay, Lady Arnelle...
+
+// (ellie)
+<0088> No, YarRrr nOt.
+
+// (lulu)
+<0089> Huh, Ellie? What's wrong with you!?
+
+// (ellie)
+<0090> Ukyaaaaaah!
+
+// (maynie)
+<0091> W-what's going on with her!?
+
+// (arnelle)
+<0092> Those mushrooms are poisonous, and eating them raw can cause strong hallucinations!
+
+// (lulu)
+<0093> Whuuu!?
+
+// (ellie)
+<0094> EaT iT...
+
+// (ellie)
+<0095> GiMme Me ThAt MuShRoOm!
+
+// (arnelle)
+<0096> Oh shoot...
+
+// (maynie)
+<0097> Our Blue Mushroom...!
+
+// (ellie)
+<0098> AhAaA AhAaA...
+
+// (maynie)
+<0099> Give it back!
+
+// (ellie)
+<0100> EaT iT.
+
+// (maynie)
+<0101> Ugh!?
+
+// (ellie)
+<0102> YoU eAt ThAt MuShRoOm ToO!
+
+// (arnelle)
+<0103> She put the mushroom into Maynie's mouth!
+
+// (maynie)
+<0104> Ugh... *Swallow*
+
+// (arnelle)
+<0105> And she made her eat it...
+
+// (lulu)
+<0106> Well, um... What happens if you eat a Blue Mushroom raw...?
+
+// (arnelle)
+<0107> The same thing as the Red Mushroom.
+
+// (lulu)
+<0108> So that means...
+
+// (maynie)
+<0109> GYAOOOOOH!
+
+// (ellie)
+<0110> AHAAAAAAAA!
+
+// (lulu)
+<0111> This happens!
+
+// (maynie)
+<0112> MaYnIe lOvEs YoU, lAdY aRnElLe!
+
+// (ellie)
+<0113> AhAaAa! I'm GoInG tO bUrN eVeRyThInG dOwN!
+
+// (arnelle)
+<0114> Oh my god! Stop rampaging around in a narrow cave like this, you two!
+
+// (lulu)
+<0115> Wa-wa-wah, you need to chill out, Ellie!
+
+// (ellie&maynie)
+<0116> GYAOOOOOOH!
+
+// (lulu&arnelle)
+<0117> Nooooooo!
+

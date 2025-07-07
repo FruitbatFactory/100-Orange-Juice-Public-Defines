@@ -1,0 +1,156 @@
+<0000> Aqui vou eu.
+<0001> Sorah!
+<0002> Vamos lá.
+<0003> Que tal!
+<0004> Heheh, eu acho que vou jogar uma carta.
+<0005> Agora é o momento!
+<0006> Eu vou jogar isto agora!
+<0007> É agora ou nunca!
+<0008> Niheheh...
+<0009> Eu acho que vou botar uma armadilha aqui.
+<0010> Deixa eu colocar isso aqui...
+<0011> Desse jeito... Bom!
+<0012> Eu não quero perder!
+<0013> Aqui vou eu. Prepare-se!
+<0014> Estou começando a ficar empolgada.
+<0015> Me veja ficando mais forte.
+<0016> Minha mágica me faz invencível!
+<0017> Estou preparada para dar o troco neles!
+<0018> Existe ainda muita coisa que posso fazer.
+<0019> Eu não perdi o jogo ainda!
+<0020> Hora de começar novamente! Vamos lá!
+<0021> O quê? Você só pode estar brincando.
+<0022> Isso foi uma tristeza...
+<0023> Qual é...
+<0024> Por quê? Por quê?
+<0025> Tome meu ataque!
+<0026> Prepare-se, ok?
+<0027> Vamos lá!
+<0028> Vou dar o meu melhor!
+<0029> Ai!
+<0030> Ei.
+<0031> Ei ei, sou uma garota, lembra?!
+<0032> Qual é, seja gentil.
+<0033> Eu estou cheia de energia agora!
+<0034> É disso que estou falando!
+<0035> Com isso, posso seguir em frente!
+<0036> Bem na hora certa.
+<0037> Ãhn? Um teleporte?
+<0038> Onde eu irei parar?
+<0039> Uwaaah...
+<0040> Hieeeh.
+<0041> Eu cai...
+<0042> Mano... Que tristeza.
+<0043> Ugh... Não era suposto ser assim.
+<0044> *Suspira* Parece que terei que pausar um pouco.
+<0045> Prepare-se.
+<0046> Olá, gostaria de jogar?
+<0047> Jogue comigo.
+<0048> Por que não lutamos?
+<0049> Claro, eu aceito seu desafio.
+<0050> Uou, você realmente está a fim disso.
+<0051> Está beeeem, eu vou jogar com você já que você insiste tanto.
+<0052> Eu não vou perder.
+<0053> Yah!
+<0054> Toh!
+<0055> Com tudo o que tenho!
+<0056> Que tal!
+<0057> Ai!
+<0058> Owah!
+<0059> Nada mal!
+<0060> Oww...
+<0061> De jeito nenhum, minha magia...
+<0062> O queee, isso não é possível.
+<0063> Oh não... Uma pele grossa é a única coisa que tenho de vantagem...
+<0064> Wau! E-eu não acredito nisso...!
+<0065> Essa foi por muito pouco!
+<0066> Eu quase me desesperei com isso.
+<0067> Whoa.
+<0068> Ei, toma cuidado.
+<0069> Isso foi divertido.
+<0070> Woo-hoo!
+<0071> Rapaz, que explosão.
+<0072> Ehehe, sem ressentimentos, ok?
+<0073> De jeito nenhum...
+<0074> Oh não, perdi.
+<0075> Uuu... Estou irritada comigo.
+<0076> Muito forte.
+<0077> Uou, que doce!
+<0078> Eu me sinto muito bem...!
+<0079> Isso, isso, issooo!
+<0080> Hooray, estrelas!
+<0081> Quêêêê...!
+<0082> Espera um pouco! Não...
+<0083> Errei feio...
+<0084> Waaan!
+<0085> Abaixei minha guarda!
+<0086> Como alguém poderia fazer isso?!
+<0087> Uma armadilha!?
+<0088> Odeio demais isso!
+<0089> Eita, isso realmente me assusta.
+<0090> Muitas vibes perigosas...
+<0091> Aqui vem o convidado de honra, eu acho.
+<0092> Bom... Eu posso ser derrotada se eu abaixar a guarda por um momento sequer.
+<0093> Coletar estrelas, então!
+<0094> Eu vou conseguir diversas delas! Eu consigo!
+<0095> Coletar estrelas? Eu farei um bom trabalho nisso!
+<0096> Todas as estrelas por aqui serão minhas.
+<0097> Vamos jogar bastante.
+<0098> Minha mágica é imbatível.
+<0099> Se exercitar é importante.
+<0100> Meu coração está queimando.
+<0101> Sou a Miusaki.
+<0102> Você quer que eu vá junto? Claro, vamos nos divertir.
+<0103> Eu estava entendiada! Vamos brincar.
+<0104> Eu vou dar o meu melhor.
+<0105> E começou.
+<0106> Agora, vamos começar!
+<0107> Vamos todos ter um jogo divertido.
+<0108> Eu estou empolgada!
+<0109> O que, venci? Ótimo!
+<0110> Eu estou tão feliz... Ehehe.
+<0111> Foi demais! Ei, a gente devia jogar mais um jogo.
+<0112> Isso foi tão divertido.
+<0113> O que você acha disso?
+<0114> Peguei isso para você!
+<0115> Que tal? Gostou?
+<0116> Espero que você goste...
+<0117> Troque, por favor.
+<0118> Você consegue.
+<0119> Toque aqui, é seu turno.
+<0120> Eu vou sair por agora...
+<0121> Ok.
+<0122> Bom.
+<0123> Você pode contar comigo.
+<0124> Não.
+<0125> Hmmm...
+<0126> Meu dia de sorte!
+<0127> Hmeh?
+<0128> Aqui vou eu!
+<0129> Dados!
+<0130> Você consegue! Você consegue!
+<0131> Ei!
+<0132> Hm... Hmm...
+<0133> Bom trabalho!
+<0134> Uou, isso é super!
+<0135> Arrrrgh, nossa!
+<0136> De quem é essa magia?
+<0137> O que isso faz...?
+<0138> Magia não familiar, mas irei dar uma chance.
+<0139> O que vai acontecer? Estou empolgada!!
+<0140> Ãhn? Você quer brincar comigo? É claro!
+<0141> Ok, vou brincar com você.
+<0142> Fufu, você é adorável.
+<0143> Ãhn? O que foi? Você está perdido?
+<0144> Cansada? Então deixe-me usar isso por você.
+<0145> Todo mundo deveria estar cheio de energia enquanto joga.
+<0146> Como está se sentindo? Melhor agora?
+<0147> Certo, eu vou te dar um pouco de energia.
+<0148> Não vai funcionar!
+<0149> Não vai me machucar nem um pouquinho.
+<0150> Ehehe, sou invencível.
+<0151> Este é o poder da minha mágica!
+<0152> Isso não adianta!
+<0153> Isso não vai me machucar nem um pouco.
+<0154> Ehehe, sou invencível.
+<0155> Este é o poder da minha magia! 

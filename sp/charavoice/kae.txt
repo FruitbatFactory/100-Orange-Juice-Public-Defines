@@ -1,0 +1,161 @@
+
+<0000> ¡Poy!
+<0001> ¡Popoy!
+<0002> ¡Pooy!
+<0003> ¡Poy poy!
+<0004> ¡Esta, esta!
+<0005> ¿Qué es esta cosa?
+<0006> ¿Una carta?
+<0007> ¡Esta!
+<0008> Dejaré esto aquí.
+<0009> ¿Una trampa? Debería quedarse aquí.
+<0010> ¡Enterraré esto aquí!
+<0011> ¡Una trampa!
+<0012> ¡Haré muchísimo ejercicio!
+<0013> ¡Esta!
+<0014> ¡No perderé!
+<0015> Estoy empezando a divertirme.
+<0016> ¡Shupaaan! ¡Estoy en llamas!
+<0017> ¡Juguemos mucho más!
+<0018> ¡Ya terminé con mi descanso! ¡Iré zupaan!
+<0019> ¡Hmm! ¡Estoy lista, lista!
+<0020> ¡Ta-da!
+<0021> Jawah...
+<0022> Uuu...
+<0023> Todavía no me siento mejor.
+<0024> Estoy mareada...
+<0025> ¡Supaan!
+<0026> ¡Zbaan!
+<0027> ¡Kaboom!
+<0028> ¡Zubaba!
+<0029> ¡Wah!
+<0030> Eso duele.
+<0031> Hnuuuu.
+<0032> ¡Waah!
+<0033> Silbido silbido.
+<0034> Esto se siente muy bien.
+<0035> Es lindo y cálido.
+<0036> ¡Yahoo! ¡Estoy llena de energía!
+<0037> ¡Estoy flotando!
+<0038> ¿Oh?
+<0039> ¡Shun shun shuun!
+<0040> ¡Transportación!
+<0041> Mmm, no puedo seguir en pie.
+<0042> Jauu.
+<0043> Tomaré un pequeño descanso.
+<0044> ¿Eh? No puedo moverme.
+<0045> ¡Vamos a pelear!
+<0046> ¡Ta-da, pelea!
+<0047> ¿¡Por qué no vamos a divertirnos un poco!?
+<0048> ¡Whir! ¡Kaboom!
+<0049> ¡Jajaja! ¡Claro! ¡Podemos pelear!
+<0050> Vamos a divertirnos mucho, ¿entendido?
+<0051> ¿Hm? ¿Quieres jugar conmigo?
+<0052> ¡Estoy más que lista!
+<0053> ¡Shupa!
+<0054> ¡Spapa!
+<0055> ¡Zban!
+<0056> ¡¡Gyuuun!!
+<0057> ¡Ue!
+<0058> ¡Wah!
+<0059> ¡Nue!
+<0060> ¡Jowah!
+<0061> ¡Kyun!
+<0062> ¡Gue!
+<0063> ¡Eso duele!
+<0064> ¡Ueeee!
+<0065> ¡Shun!
+<0066> ¡Shushun!
+<0067> ¡Hira!
+<0068> ¡Joy!
+<0069> ¡Lo hice, lo hice! ¡Gané!
+<0070> Todavía no me divertí lo suficiente.
+<0071> ¡Juguemos más! ¡Más!
+<0072> ¡Shupa! ¡Shakiin!
+<0073> Jaee.
+<0074> Faah... Eso fue divertido...
+<0075> Oh, perdí.
+<0076> Uu, esto no me gusta.
+<0077> ¡¿Qué son estas?!
+<0078> Wow, son hermosas.
+<0079> ¡Conseguí cosas bonitas!
+<0080> ¡Hurra!
+<0081> ¡Oh no!
+<0082> ¡Oh! ¡¿A dónde vas?!
+<0083> Wa wa waah.
+<0084> Se fueron...
+<0085> ¡Eso me asustó!
+<0086> ¡Wah! ¡¿Qué es esto?!
+<0087> ¡Yaan!
+<0088> ¡Cometí un error!
+<0089> Wah, algo divertido acaba de llegar.
+<0090> ¡Parece que voy a tener mucha más diversión!
+<0091> ¡Jajaja! ¡Esto es fantástico!
+<0092> ¡Wow! ¡Ese tipo se ve muy fuerte!
+<0093> ¡Brillo brillo!
+<0094> ¿Un juego en el que recolectas estrellas? ¿Será divertido?
+<0095> No podré sostener tantas estrellas...
+<0096> Conseguiré muchas de ellas y me las llevaré a casa.
+<0097> ¿Puedo volverme loca? ¡Hurra!
+<0098> ¡Iré a jugar!
+<0099> ¡Iré a jugar hasta morir!
+<0100> ¡Estoy tan emocionada!
+<0101> ¡Soy Kae! ¡Gusto en conocerte!
+<0102> ¡Estoy lista para quemar cosas!
+<0103> ¡Jugaré mucho y me divertiré mucho!
+<0104> ¿Puedo salir a jugar? ¡Genial!
+<0105> ¡Bien, aquí voy!
+<0106> ¡Jajajajaja!
+<0107> ¿Con quién podría jugar?
+<0108> Si damos lo mejor de nosotros, seguramente ganaremos.
+<0109> ¡Lo hice! ¿¡Estoy en primer lugar!?
+<0110> ¡¡Jajajajajajajajaja!!
+<0111> ¡Vaya, eso fue divertido!
+<0112> Volvamos a jugar en otro momento.
+<0113> ¡Encontré algo bueno!
+<0114> ¡Jajaja! ¡Eso se ve genial!
+<0115> ¿Querías esto? Entonces quédatelo.
+<0116> ¡Nunca había visto esto! ¡Whee!
+<0117> ¡Cambiaremos!
+<0118> Pero aún quiero seguir jugando...
+<0119> ¡Muy bien! ¡Es hora de que des lo mejor de ti!
+<0120> ¡Adios!
+<0121> ¡Sí!
+<0122> ¡Eso es fantástico!
+<0123> Claro.
+<0124> No.
+<0125> ¿Qué, en serio?
+<0126> ¡Wah! ¡Estoy feliz!
+<0127> ¿Oh?
+<0128> ¡Muy bien, vamos a jugar!
+<0129> ¿Quieres que tire esta cosa? ¡Está bien!
+<0130> ¡Shupaaan!
+<0131> ¡Yahoooy!
+<0132> Hmmm...
+<0133> ¡Wow!
+<0134> ¡Increíble, impresionante, asombroso!
+<0135> Uuu... Oh no...
+<0136> Supongo que intentaré usar esto.
+<0137> ¿Mmm? ¿Acaso usaré esto?
+<0138> No estoy segura de que hace esto, pero lo usaré de todas formas.
+<0139> ¿Qué es lo que ocurrirá? ¡Estoy tan emocionada!
+<0140> ¡Hurra! ¡Nana está aquí! ¡Juguemos!
+<0141> ¡Sí, claro!
+<0142> ¡Ah, eso fue tan divertido!
+<0143> Sí, volvamos a jugar.
+<0144> ¿Qué? ¿Puedo romperlo?
+<0145> ¡Wah! ¡Aquí viene!
+<0146> ¡Vaya, eso fue aterrador!
+<0147> Uuu...
+<0148> ¡Wow, es un gato!
+<0149> ¿Oh? ¡Un gatito!
+<0150> ¡Jajaja, eres tan adorable!
+<0151> Eres un gatito muy fuerte.
+<0152> ¡U-un perrito!
+<0153> ¡Eh, quiero darte un abrazo!
+<0154> ¡Ahh, eres tan suave!
+<0155> ¡El perrito es muy fuerte...!
+<0156> ¡Wow, un conejo! ¡Boing boing!
+<0157> ¡Un conejito felpudo!
+<0158> ¡Eres un conejito muy energético!
+<0159> Los conejos son muy fuertes...

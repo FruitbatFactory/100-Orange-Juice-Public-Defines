@@ -1,0 +1,646 @@
+
+// ========= Scene: 1-A =========
+
+// (krilap)
+<0000> Zzz... Eu chamo aos espíritos da escuridão... zzz... este é meu ataque supremo... zzz...
+
+// (mimyuup)
+<0001> Ei, você. Você finalmente acordou.
+
+// (krilap)
+<0002> Zzz...
+
+// (mimyuup)
+<0003> Mimyuu disse, VOCÊ FINALMENTE ACORDOU!
+
+// (krilap)
+<0004> Huwha?!
+
+// (mimyuup)
+<0005> Ouça bem, parceira. A gente não devia estar aqui.
+
+// (krilap)
+<0006> O que você está fazendo no meu quarto?
+
+// (mimyuup)
+<0007> Não estamos no seu quarto. Estamos em uma casa grande. Limitada. A cama e café da manhã quatro estrelas do governo!
+
+// (krilap)
+<0008> Puque ocê fala tão esquisito? Os espíritos possuíram sua língua?
+
+// (mimyuup)
+<0009> Prisão muda uma garota.
+
+// (krilap)
+<0010> Quanto tempo faz que estamos aqui...?
+
+// (mimyuup)
+<0011> Em torno de quatro horas. Mimyuu enlouqueceu na primeira hora, ficou cansada de enlouquecer na hora três. Agora Mimyuu's é uma cliente durona.
+
+// (krilap)
+<0012> Se eu for dormir por mais quatro horas, você vai ficar entediada da minha pessoa também?
+
+// (mimyuup)
+<0013> Você não pode dormir. FIzeram uma armação contra nós. Dois palhaços estão andando por aí causando confusão com nossas caras, e por isso fomos pegas.
+
+// (krilap)
+<0014> Eu lido com isso de manhã.
+
+// (mimyuup)
+<0015> Não se preocupe. Mimyuu tem um plano. Tudo que precisamos fazer é sair desse lugar. E para fazer isso, nós precisamos apenas distrair os guardas.
+
+// (sorasp)
+<0016> Olá. É hora do café da manhã.
+
+// (krilap)
+<0017> C-café da manhã? Nós temos comida aqui? De graça?
+
+// (sorasp)
+<0018> Sim. Na prisão, você têm três refeições diárias.
+
+// (krilap)
+<0019> Que barganha diabólica... Eu devo ficar aqui e tornar este lugar na minha fortaleza sombria.
+
+// (mimyuup)
+<0020> Não está meio queimado, não?
+
+// (sorasp)
+<0021> É comida da Sham. Ela está tentando o seu melhor.
+
+// (krilap)
+<0022> Mesmo torrada queimada é uma comida... Os pedaços escuros crocantes chamam pela minha alma sombria.
+
+// (mimyuup)
+<0023> Ei, guarda. O que uma garota como você está fazendo trabalhando aqui.
+
+// (sorasp)
+<0024> Eu estou protegendo as pessoas de caras maus.
+
+// (mimyuup)
+<0025> Então por que você está usando uma roupa de escola?
+
+// (sorasp)
+<0026> É apenas um trabalho matutino. Eu vou pra escola após meu turno.
+
+// (mimyuup)
+<0027> São 10 da manhã. Escola já começou.
+
+// (sorasp)
+<0028> Oh não! Eu estou atrasada! Mas se eu for, todos os prisioneiros irão escapar... auuuu...
+
+// (mimyuup)
+<0029> Rápido, parceira! Ela está distraída! Acerte-a na cabeça e corra!
+
+// (krilap)
+<0030> Mas... meu café da manhã! Meu travesseiro! Eu não quero ir!
+
+// (mimyuup)
+<0031> Sem tempo! Vamos sair logo, parceira!
+
+// (sorasp)
+<0032> Uuuu... Eu espero que isto não vá para meus registros permanentemente...
+
+// ========= Scene: 1-B =========
+
+// (mimyuup)
+<0033> Nós pegamos ela! Vamos lá, parceira. Vamos nos dividir.
+
+// (krilap)
+<0034> De fato. Você pode seguir o caminho, e eu, a Krilalaris sombria, irei retornar para a cela e curtir três refeições diárias.
+
+// (mimyuup)
+<0035> Você só pode estar brincando. Você não vai durar um dia sequer neste lugar.
+
+// (krilap)
+<0036> Eu sei bastante sobre jaulas e grades. Não podem conter meus poderes caídos.
+
+// (mimyuup)
+<0037> Não é isso. É que... existe trabalho pesado mandatório!
+
+// (krilap)
+<0038> Ah.
+
+// (mimyuup)
+<0039> E eles não vão permitir que você olhe revistas em quadrinhos para pensar e novos ataques especiais!
+
+// (krilap)
+<0040> Ahh!
+
+// (mimyuup)
+<0041> E... não existe algo como uma roupa de prisão de gothic lolita!
+
+// (krilap)
+<0042> Ahhhh! Rápido! Precisamos abandonar este lugar!
+
+// (mimyuup)
+<0043> É o que Mimyuu queria ouvir.
+
+// (sorasp)
+<0044> Auuuu...
+
+// (mimyuup)
+<0045> Desculpa, cara. Nada pessoal. Odeio deixar você em um monte de problema, mas estamos saindo daqui.
+
+// (krilap)
+<0046> Simplesmente recite essa magia negra na hora do julgamento: "E sofri um acidente na área de trabalho, e eu acredito que devo receber compensação."
+
+// (sorasp)
+<0047> Uuuuu... Talvez eu possa conseguir uma nota de que eu tava doente.
+
+// ========= Scene: 2-A =========
+
+// (mimyuup)
+<0048> Heh heh! Conseguimos, parceira. Nós oficialmente corremos!
+
+// (krilap)
+<0049> Cordeiro... Espetos de carne deliciosos... Faminta... Não consigo me mover...
+
+// (mimyuup)
+<0050> Você não comeu café da manhã antes de a gente fugir?
+
+// (krilap)
+<0051> Você nos livrou antes que eu pudesse!
+
+// (mimyuup)
+<0052> Creio que vamos parar aqui para comer um lanche.
+
+// (mimyuup)
+<0053> Dê-me duas xícaras de folhas cozidas, algumas reverências, depois pegue duas amoras e destrua-as.
+
+// (chris)
+<0054> É tudo?
+
+// (mimyuup)
+<0055> Um copo de suco moo, também.
+
+// (krilap)
+<0056> Que tipo de encantamento foi esse? Eu nem sei o que você comprou...
+
+// (mimyuup)
+<0057> Nem Mimyuu. Mas pareceu legal.
+
+// (krilap)
+<0058> Ser legal é muito importante. Uma pessoa deve sempre buscar impressionar as forças sombrias ao nosso redor.
+
+// (mimyuup)
+<0059> Isso mesmo, parceira.
+
+// (krilap)
+<0060> Eu também concedo a você meus agradecimentos por remunerar o estabelecimento em meu nome.
+
+// (mimyuup)
+<0061> Ãhn? Mimyuu não está pagando.
+
+// (krilap)
+<0062> Eu abandonei as posses materiais como um princípio da minha fé sombria...
+
+// (mimyuup)
+<0063> Nós estamos em fuga, parceira. Criminosas duronas. E você sabe o que isso significa.
+
+// (krilap)
+<0064> Nós devemos confiar nisso... a sombria e proibida arte...
+
+// (mimyuup)
+<0065> Isso mesmo - comer e fugir.
+
+// (chris)
+<0066> Oh, é mesmo?
+
+// (krilap)
+<0067> Gulp.
+
+// (chris)
+<0068> Oh, gerente!
+
+// (master)
+<0069> ...
+
+// (krilap)
+<0070> Dia horrível.
+
+// ========= Scene: 2-B =========
+
+// (mimyuup)
+<0071> Certo, parceira! Encha seus bolsos com pães complementares e vamos dar o fora.
+
+// (krilap)
+<0072> *nom nom* Istho será um óthimo catalizhador para meus podheres sombrios...
+
+// (mimyuup)
+<0073> Eita, suas bochechas viraram um balão igual um esquilo. Que talento.
+
+// (chris)
+<0074> Oh não... elas derrotaram até mesmo o gerente. Isto é loucura...
+
+// (mimyuup)
+<0075> Mimyuu está começando a imaginar que a talvez a gente merecia aquela sentença de prisão.
+
+// (krilap)
+<0076> Nós jogaremos sobre vocês uma análise de 5 estrelas em recompensa.
+
+// (master)
+<0077> ...
+
+// (chris)
+<0078> No fim, elas só pegaram os pães gratuitos.
+
+// (master)
+<0079> ...
+
+// (chris)
+<0080> Você realmente encontra as pessoas mais esquisitas no serviço a consumidor, né...
+
+// (master)
+<0081> *acena*
+
+// ========= Scene: 3-A =========
+
+// (krilap)
+<0082> Tudo o que quero fazer é voltar a dormir... Estar fugindo é tão cansativo.
+
+// (mescal)
+<0083> Ei, você! Se você está buscando uma maneira confortável de viajar, tente Big Magnum Airlines! Ao redor do mundo em oitenta minutos, ou sua viagem é de graça!
+
+// (mimyuup)
+<0084> Parece uma boa proposta.
+
+// (tequila)
+<0085> Aye. Mas antes que eu possa deixar ocê entrar na minha nave, ocê terá que responder três charadas.
+
+// (krilap)
+<0086> Entendo... De fato, uma barganha diabólica.
+
+// (mimyuup)
+<0087> Ele é uma esfinge ou algo assim?
+
+// (tequila)
+<0088> Primeiro, responda-me isto. O que tem quatro pernas na -
+
+// (mimyuup)
+<0089> Ele É uma esfinge!
+
+// (tequila)
+<0090> Certo, eu vou deixar ocê pular essa. Segunda charada: quem é a garota mais fofa que já viajou pelos céus?
+
+// (mimyuup)
+<0091> Mescal?
+
+// (tequila)
+<0092> Aye, isso mesmo.
+
+// (mimyuup)
+<0093> Você olhou nela quando você disse isso.
+
+// (mescal)
+<0094> Oh, Papai.
+
+// (tequila)
+<0095> Para minha última e mais difícil charada... Qual os dezesseis dígitos na frente do seu cartão bancário?
+
+// (krilap)
+<0096> Isso é conhecimento proibido!
+
+// (mimyuup)
+<0097> Foi uma pegadinha o tempo todo, então?
+
+// (tequila)
+<0098> Claro! Isto é pirataria nos tempos modernos! Mas se ocê preferir, podemos ser mais tradicionais. Mescal, prepare os canhões!
+
+// (krilap)
+<0099> Por favor deixe-me dormir logo... Oh, desisto.
+
+// ========= Scene: 3-B =========
+
+// (tequila)
+<0100> Grrr... Que seja. Ocês podem voar. Melhor eu não ouvir nenhuma reclamação, entretanto.
+
+// (krilap)
+<0101> Eu tenho uma reclamação!
+
+// (mimyuup)
+<0102> Mas já? Nem estamos no barco ainda.
+
+// (krilap)
+<0103> Por que você não usa um tapa-olho?
+
+// (tequila)
+<0104> Porque eu ainda tenho ambos os olhos, garota.
+
+// (krilap)
+<0105> Eu também, e mesmo assim eu escondo meu olho malvado com seda escura.
+
+// (mescal)
+<0106> Você sabe que isto não é bom para sua visão, né?
+
+// (krilap)
+<0107> Você é um pirata, então você tem a desculpa perfeita para tampar os olhos! Vamos chamar a Federação da Apreciação dos Tapa-Olhos juntos.
+
+// (tequila)
+<0108> Ma nem ferrando.
+
+// (krilap)
+<0109> Hmph. Nesse caso, eu vou In that case, eu vou me retirar para embaixo do convés para tirar um cochilo.
+
+// (tequila)
+<0110> Mescal?
+
+// (mescal)
+<0111> Sim, Papai?
+
+// (tequila)
+<0112> Coloque os motores na potência máxima. Um pouco de turbulência irá ensina-lá a não tirar seus olhos de um pirata.
+
+// (mescal)
+<0113> Certo!
+
+// (tequila)
+<0114> Minha cabeça já está doendo... Isto parece que será uma longa viagem.
+
+// ========= Scene: 4-A =========
+
+// (mimyuup)
+<0115> Fim da estrada, parceira.
+
+// (krilap)
+<0116> Nós voltamos para onde começamos, entretanto!
+
+// (mimyuup)
+<0117> Óbvio. Nós atravessamos o mundo, então a gente voltou pro mesmo lugar. Mimyuu acreditar que a gente despitou eles, entretanto.
+
+// (qp)
+<0118> Não tão rápido!
+
+// (krilap)
+<0119> Ahh, a encarnação caída da deusa besta... QP.
+
+// (qp)
+<0120> O que é QP?! Eu sou a Grande Cadela Detetive, Sherlock Bones, e eu vim prender vocês.
+
+// (mimyuup)
+<0121> Mimyuu não vai voltar para aquela casa grande novamente. Vamos nos dividir, parceira.
+
+// (krilap)
+<0122> Eu, Krilalaris, irei lidar com isso. QP! Ouça. Eu vou entregar para você um copo de pudim de loja de conveniência amanhã, em troca de deixar eu passar hoje!
+
+// (qp)
+<0123> Perdão, mas não posso...
+
+// (krilap)
+<0124> O que? Mas... é pudim. A QP que eu conheço ignora todo tipo de moralidade por pudim!
+
+// (qp)
+<0125> Eu te disse, eu sou Sherlock Bones...
+
+// (krilap)
+<0126> Ela é uma alma gentil e crédula que sempre compartilha os restos de seu almoço comigo se eu lhe peço, tanto que meu estômago ronca só de olhar pra ela.
+
+// (mimyuup)
+<0127> Então você está apenas enganando ela para ser seu vale refeição?
+
+// (krilap)
+<0128> Você não é como ela! Você deve ser uma doppelgänger sombria enviada pela Organização para espalhar o Caos! Eu não vou permitir que você estrague o nome da deusa besta!
+
+// (qp)
+<0129> Espera, mas - o jogo virou assim do nada?! Uwaaa!
+
+// ========= Scene: 4-B =========
+
+// (mimyuup)
+<0130> Nós conseguimos derrotar ela?
+
+// (krilap)
+<0131> Hmph. O poder verdadeiro da QP é mais intenso que o dessa impostora.
+
+// (mimyuup)
+<0132> Sério? Para mim pareceu ser o de sempre, entretanto.
+
+// (krilap)
+<0133> A verdadeira QP possui um potente campo de força hipnótico para impedir que as pessoas ataquem ela. Se você olhar para sua charmosa cauda fofa, você já está enfeitiçado por ela...
+
+// (mimyuup)
+<0134> Então, ela é uma cadela fofa. Mas esta daqui também.
+
+// (krilap)
+<0135> Além disso, se atacada, a verdadeira QP recusa dar restos de almoço no dia seguinte. É uma técnica para fermentar tumulto econômico.
+
+// (mimyuup)
+<0136> Se você diz, parceira. Vamos deixar esta detetive defeituosa na poeira.
+
+// (qp)
+<0137> Eu não sou defeituosa... e não insulte minha cauda fofa!
+
+// (mimyuup)
+<0138> Detetives são um tédio de qualquer forma. Para uma personagem durona, olhos privados são melhores.
+
+// (krilap)
+<0139> Você só está dizendo isso pois Yuki tem esse tipo de vestimenta.
+
+// (mimyuup)
+<0140> Afinal de contas, a Chefona é o objetivo da Mimyuu.
+
+// (krilap)
+<0141> Sua lealdade como uma capanga da escuridão é admirável.
+
+// ========= Scene: 5-A =========
+
+// (mimyuup)
+<0142> Parece que a gente despitou ela. Bom trabalho, parceira.
+
+// (krilap)
+<0143> Huff... huff... Hah...
+
+// (mimyuup)
+<0144> Aquela dama com a cauda está te olhando na lateral, entretanto.
+
+// (krilap)
+<0145> Ufufu... Talvez ela sentiu meu poder sombrio.
+
+// (teotoratta)
+<0146> Ei, você aí! Você possui o cheiro de uma besta.
+
+// (krilap)
+<0147> *cheira cheira* Eu estou?
+
+// (mimyuup)
+<0148> Mimyuu não queria dizer nada, mas ela tem razão.
+
+// (krilap)
+<0149> Ah, não... Eu estive fugindo e não tive tempo para tomar banho... Q-quero dizer, este miasma é simplesmente meu poder escapando pelos meus poros!
+
+// (teotoratta)
+<0150> Você deve estar certa. Eu estou sentindo uma besta altamente poderosa naquela direção. Como a bruxa das bestas, eu preciso fazer dela minha!
+
+// (krilap)
+<0151> Mas o circo é naquela direção... Todos os animais ali já são meus preciosos capangas! Algo aconteceu com eles?
+
+// (teotoratta)
+<0152> Circo? Um bando de humanos covardes dominando os animais, então?
+
+// (krilap)
+<0153> Eu não vou aceitar ninguém machucando meus capangas sombrios! Precisamos partir imediatamente!
+
+// (teotoratta)
+<0154> Ei, ei! Você vai tentar correr na minha frente para fazer daquela besta seu capanga, mesmo que eu tenha sido quem te contou sobre? Meio rude, não acha?
+
+// (mimyuup)
+<0155> Ela te pegou, Fedida.
+
+// (krilap)
+<0156> S-silêncio! Se você ficar no meu caminho, eu irei fazer um carnaval de sangue!
+
+// (teotoratta)
+<0157> Fu-fu-fu. Então é a sobrevivência do mais forte? Permita-me lhe mostrar como uma besta de verdade dança! Gaaao!
+
+// ========= Scene: 5-B =========
+
+// (teotoratta)
+<0158> Ugh... Eu nunca pensei que perderia para outra mestra de bestas. Meu orgulho como bruxa acabou de tomar um dano sério.
+
+// (mimyuup)
+<0159> Minha parceira é meio idiota, mas ela é bem habilidosa.
+
+// (krilap)
+<0160> Ufufu. Você ainda falha em compreender minha estética sombria... Enfim. Bruxa das Bestas, eu coloco isto sobre você.
+
+// (teotoratta)
+<0161> Ãhn? I-Isso é comida de animal de estimação?
+
+// (krilap)
+<0162> É uma das guloseimas que dou para os incríveis leões do nosso circo.
+
+// (teotoratta)
+<0163> Eu não sei como devo me sentir com isso... Mas cheira bom.
+
+// (krilap)
+<0164> De fato. Eu tenho as melhores guloseimas de leão, para que eles possam funcionar como porções de último recurso em dias longos de inverno...
+
+// (teotoratta)
+<0165> Isso é deprimente.
+
+// (krilap)
+<0166> De qualquer forma, é meu presente ao partir para você. Até mais!
+
+// (teotoratta)
+<0167> ... *mastiga*
+
+// (teotoratta)
+<0168> Hmm. Nada mal.
+
+// ========= Scene: 6-A =========
+
+// (mimyuup)
+<0169> É isso, parceira. O grande momento.
+
+// (krilap)
+<0170> Você quer dizer o grande topo.
+
+// (mimyuup)
+<0171> Isso também.
+
+// (unknown)
+<0172> Fuhuhu... Finalmente, você chegou... Meu outro eu!
+
+// (krilap)
+<0173> Você!
+
+// (krila)
+<0174> Sou eu, a Krilalaris sombria!
+
+// (mimyuu&tomato)
+<0175> E também as novas estrelas dos Waruda!
+
+// (krila)
+<0176> Eu sabia que você viria aqui, minha arqui-inimiga sombria. Mas você está atrasada. Eu comecei o ritual do sangue! Leo ascendeu!
+
+// (No Speaker)
+<0177> *roaaaaaar*
+
+// (krila)
+<0178> Ele agora é a Calamidade Sombria Leo, o Ligre do Apocalipse!
+
+// (mimyuup)
+<0179> Mimyuu não é uma doutora de animais, mas ele não era um leão antes?
+
+// (krilap)
+<0180> Ligres são mais legais.
+
+// (krila)
+<0181> Silêncio! Agora, nosso duelo destinado está aqui. Nós devemos batalhar por controle do Leo supremo!
+
+// (mimyuu&tomato)
+<0182> Ei você, outra Mimyuu! Não está faltando alguém com você? Certeza que você pode nos desafiar sozinha desse jeito?
+
+// (mimyuup)
+<0183> Heh. Problema seu. Mimyuu pode não ter minha própria Chefe, mas sua parceira esteve aqui o tempo todo.
+
+// (krilap)
+<0184> Minha outra eu sombria... você está destinada a perder. Por que eu, a MAIS sombria Krilalaris, possuo algo que você não tem!
+
+// (krila)
+<0185> Oh?
+
+// (krilap)
+<0186> Finalmente, eu roubei - o poder da amizade!
+
+// (mimyuup)
+<0187> Isso aí, parceira!
+
+// (krilap)
+<0188> Na verdade, eu tava falando sobre minha amizade com o Leo.
+
+// (mimyuup)
+<0189> Guh...
+
+// (krila)
+<0190> Chega! Eu vou derrotar a mim mesma pelo controle da escuridão suprema! Que as bestas loucas dancem.
+
+// ========= Scene: 6-B =========
+
+// (mimyuup)
+<0191> Bem, nós derrotamos estes caras... Mas aquele leão ainda está subindo no telhado.
+
+// (krilap)
+<0192> Sua pata da direita... Eu posso sentir o poder sombrio emanando dela!
+
+// (mimyuup)
+<0193> Whoa, ele está vindo para cá! Acalme-o, por favor!
+
+// (krilap)
+<0194> O rei libertado das bestas se aproxima... A-A-Agora é a hora de trazer meu poder sombrio!
+
+// (mimyuup)
+<0195> Eu vou te dar cobertura, parceira. Daqui.
+
+// (krilap)
+<0196> E-e-espere, volta! O poder sombrio está de folga hoje -
+
+// (krilap)
+<0197> Ah... Eu fui consumida pela escuridão...
+
+// (krilap)
+<0198> Este é... o pêlo do Leo da Calamidade...? Tão quentinho... e confortável... finalmente... meu descanso... eterno... zzzzzzz...
+
+// (mimyuu)
+<0199> Oi, Krila! Levanta logo!
+
+// (krilap)
+<0200> Uwaah! Eu estava viajando pelo reino dos sonhos esse tempo todo?
+
+// (yukid)
+<0201> Melhor levantar logo. Estes leões precisam de comida, sabe. Melhor não subestimar a fúria de um grande gato.
+
+// (krilap)
+<0202> Eu sinto que dormi bem pouco...
+
+// (yukid)
+<0203> Bom, levante-se e prepare-se para sair. Nós temos grandes planos hoje. Se nós conseguirmos fazer isso, terá almoço extra para você.
+
+// (krilap)
+<0204> Uma boa refeição... Eu usarei todo meu poder para obter!
+
+// (mimyuu)
+<0205> Parece que você e a Mimyuu serão parceiras hoje. Vamos sair lá fora e causar problemas.
+
+// (krilap)
+<0206> Parece que nossos destinos estão interlaçados... Parceira.
+

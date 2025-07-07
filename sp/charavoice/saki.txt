@@ -1,0 +1,166 @@
+
+<0000> ¡Eeey!
+<0001> ¡Asíiiii!
+<0002> ¡Whoop!
+<0003> ¡Aquí voooy!
+<0004> ¡Hora de jugar una carta!
+<0005> ¡Una carta!
+<0006> ¡Ta-daaaa!
+<0007> ¡Usaré esta!
+<0008> Fufufu... ¡Hora de la trampa!
+<0009> Dejaré una trampa aquí...
+<0010> Fufufu... ¡Hora de la emboscada!
+<0011> ¡Veamos qué ocurrirá!
+<0012> ¡Voy a mejorar mis habilidades!
+<0013> ¡Todo por la victoria!
+<0014> ¡Muy bien, aquí voy!
+<0015> ¡Carta de batalla!
+<0016> ¡Caampaaanaa Exploosiiivaaa!
+<0017> ¡Nugugu...! ¡No tengo tiempo para quedarme tirada en el suelo!
+<0018> ¡Saki, tienes que levantarte!
+<0019> ¡Todavía no he acabado!
+<0020> ¡Nuoooh! ¡Tengo que alcanzarlos!
+<0021> Mauu, no funcionó...
+<0022> Fuee, eso estuvo mal.
+<0023> Auu...
+<0024> ¡No lo logré...!
+<0025> ¡Estoy atacando!
+<0026> ¡Ataque!
+<0027> ¡Lo haré rápido!
+<0028> ¡Eryaah!
+<0029> ¡¡Mau!!
+<0030> ¡Eso duele!
+<0031> ¡¡Naaan!!
+<0032> ¡Fuee!
+<0033> ¡Curando!
+<0034> ¡Energía cálida!
+<0035> ¡Ya estoy cargada!
+<0036> ¡Tuve un buen descanso!
+<0037> ¡Hiee! ¡¿A dónde voy?!
+<0038> ¡Me están echando!
+<0039> ¡Llévenme a algún lugar pacífico, por favor!
+<0040> Me estoy mareaandoooo...
+<0041> Mauu... estoy... acabada.
+<0042> Uh, no puedo... seguir...
+<0043> *Zzz*...
+<0044> ¡Esto... no es bueno...!
+<0045> ¡Ahora, prepárate!
+<0046> Por favor muérete. ¡Es un chiste!
+<0047> ¡Una batalla está a punto de comenzar!
+<0048> ¡Muy bien, simplemente te golpearé!
+<0049> Oh, ¿qué, qué? ¿Vamos a pelear?
+<0050> ¡Hiee! ¡Todavía no estoy lista!
+<0051> ¡Adelante!
+<0052> ¡No voy a perder!
+<0053> ¡Mauryaah!
+<0054> ¡Hoy!
+<0055> ¡Tey tey!
+<0056> ¡Poy poy!
+<0057> ¡¡Mau!!
+<0058> ¡Nya!
+<0059> ¡Oww!
+<0060> ¡Hege!
+<0061> ¡¡Mau mau!!
+<0062> ¡¡¡Eso duele mucho!!!
+<0063> ¡Hyoeeeh!
+<0064> ¡¡Oh noooo!!
+<0065> ¡Esquivando!
+<0066> ¡Evadiendo!
+<0067> ¡Hie! ¡Eso estuvo cerca!
+<0068> ¡Wawah! ¡Casi me dieron!
+<0069> ¡Parece que yo gané! ¡Ehehe!
+<0070> ¡Gané así como así!
+<0071> Oh vaya, ¿te lastimé?
+<0072> ¡Hmphew, pan comido!
+<0073> Mauee...
+<0074> No tengo palabras...
+<0075> Perdí...
+<0076> No quería que fueran tan duros...
+<0077> ¡Wow! ¡Estrellas!
+<0078> ¡Están brillando! ¡Me encantan estas cosas!
+<0079> ¡Miles de estrellas!
+<0080> Estoy tan feliz.
+<0081> ¡Aaaah! ¡Mis estrellas!
+<0082> ¡Santas galletas!
+<0083> ¡Ueee! ¡Se me cayeron algunas!
+<0084> ¡Esperenmeeee!
+<0085> ¡¿O-oh no, aquí había una trampa?!
+<0086> ¡¿Quién dejó esta trampa aquí?!
+<0087> ¡Gue! ¡Odio las trampas!
+<0088> ¡Gyaah!
+<0089> Oh, siento algo peligroso por aquí...
+<0090> Esto va a ser duro...
+<0091> Será mejor que me aleje de esto...
+<0092> Siento algo gigante...
+<0093> ¡Juntaré estrellas! ¡Soy buena en eso!
+<0094> ¡Espero obtener muchas estrellas!
+<0095> Las estrellas son hermosas... ¡Quiero muchas de ellas!
+<0096> Coleccionar algo es divertido, ¿no...?
+<0097> ¡Quiero pelear!
+<0098> ¡Quiero muchas victorias!
+<0099> Ganar se siente bien, ¿no?
+<0100> ¡La pelea es necesaria, a veces!
+<0101> ¡Mauuu, encantada de conocerte!
+<0102> ¡El nombre es Saki!
+<0103> ¡Me esforzaré mucho!
+<0104> Fufufu, conseguiré la victoria, solo espera.
+<0105> ¡Así que empieza!
+<0106> ¡Ahora, hagamos esto!
+<0107> ¡Vamos vamos!
+<0108> ¡Muy bien, a dar lo mejor de nosotros!
+<0109> ¡Lo hicimos! ¡Ganamos!
+<0110> ¡Puedo hacer esto!
+<0111> ¡Yaay! ¡Haré dulces para celebrar!
+<0112> ¡Haremos una fiesta esta noche!
+<0113> ¡Conseguimos algo!
+<0114> ¡Esto nos hará más fuertes!
+<0115> ¿Encontraste algo bueno?
+<0116> Oh, ¿querías esto? ¡Me alegro por ti!
+<0117> Necesito un reemplazo.
+<0118> Vamos a cambiar. Cuento contigo.
+<0119> ¡Tú puedes hacerlo!
+<0120> Déjame descansar un poco.
+<0121> ¡Me gusta!
+<0122> ¡Me encanta!
+<0123> ¡Sí!
+<0124> ¡No!
+<0125> Nada bueno.
+<0126> ¡Suertudo!
+<0127> ¿Hmm?
+<0128> ¡Usemos el truco bajo nuestra manga!
+<0129> ¡Dados!
+<0130> ¡Vamos a la carga!
+<0131> ¡Hola!
+<0132> Hmm...
+<0133> ¡Eso es fantástico!
+<0134> ¡Eso es increíble!
+<0135> Mauuuuu...
+<0136> ¿Realmente puedo usar esto?
+<0137> Esto no me es familiar, ¡pero lo usaré de todas formas!
+<0138> Es gracioso usar el poder de otro.
+<0139> ¡Tomaré prestado tus poderes!
+<0140> Wow, muchísimas gracias.
+<0141> ¡Tengamos una dulce batalla!
+<0142> ¡Wow, eres tú, Sweet B.!
+<0143> Fufu, parece que soy una mejor diosa que tú.
+<0144> Eres muy buena, Sweet B...
+<0145> ¡Q! ¡Aquí voy!
+<0146> ¡Q! ¡Adelante!
+<0147> ¡Buena pelea! Haré pudín más tarde.
+<0148> ¡Eres muy buena, Q! ¡Deberíamos comer pudín juntas!
+<0149> E-esto es... un dulce legendario...
+<0150> ¡¡Tú eres...!!
+<0151> ¡Hie! ¡Pelear contra él es difícil!
+<0152> Phew... estuve nerviosa por muchas razones.
+<0153> No puedo imaginarme derrotándolo...
+<0154> ¡Para que lo sepas, siempre haces un buen trabajo!
+<0155> Wow, siento que algo malo está ocurriendo ahora mismo.
+<0156> ¡Una cantante...!
+<0157> ¡Sweet Eater...!
+<0158> ¡Siento un Guardián...!
+<0159> Una batalla entre diosas... ¡Comencemos!
+<0160> Hmmmm~♪　Mau~mau~♪
+<0161> ¡Mauuuuuuuryaaaaaaaah!
+<0162> ¡¿Por qué no te vas a dormiiiiir?!
+<0163> ¡¡Muéeeereeeteeeee!!
+<0164> ¡Dulces sueños!

@@ -1,0 +1,155 @@
+<0000> Here goes nothing.
+<0001> Here goes the roll.
+<0002> Dice, give me something good.
+<0003> The real game begins now.
+<0004> I think this one will work out the best in this situation.
+<0005> I should play a card now.
+<0006> Hmm, this one should work.
+<0007> This one, maybe?
+<0008> Setting a trap here.
+<0009> This might spell disaster to someone later.
+<0010> Time to set a trap.
+<0011> Hmm, should I put this down here?
+<0012> Let's play this card, just to be safe.
+<0013> I'm gonna win the fight with this card.
+<0014> Alright, I'll play this card to take advantage.
+<0015> Let's see how this card will help.
+<0016> Okay, I think it's time to do this.
+<0017> I thought I'd have to stay down.
+<0018> Geez, I'm glad I'm back up again.
+<0019> I'm not in the best position... but I guess it'll work out somehow.
+<0020> Alright, I'm back in action. I can still turn this game around.
+<0021> Ugh, this doesn't feel good.
+<0022> I'm heading down a dangerous path.
+<0023> Seriously...? Tsk.
+<0024> Oh man, I screwed up?
+<0025> I think I'll go on the offensive.
+<0026> I'm gonna get aggressive, okay?
+<0027> I'll strike first and prevent you from attacking me.
+<0028> You need to be prepared for a bit of hurt.
+<0029> Oops.
+<0030> That hurts!
+<0031> Oh, come on.
+<0032> I messed up.
+<0033> Healing is crucial.
+<0034> Alright, I guess I'm much better now?
+<0035> The damage from earlier is all gone.
+<0036> I think I've recovered enough to go wild?
+<0037> Okay, it's a warp.
+<0038> Oops, where will I end up at?
+<0039> Oh, whoa.
+<0040> Where I end up will decide my situation...
+<0041> Damn it, this sucks!
+<0042> Are you kidding me!!!
+<0043> Aaaaaaaah!!!
+<0044> Is my playing style responsible for this KO...?
+<0045> Accept my challenge!
+<0046> I'm gonna knock you down.
+<0047> Time for a fist fight!
+<0048> It's the moment to strike!
+<0049> Wow, I didn't see that challenge coming.
+<0050> Okay, I'll figure something out.
+<0051> Oh, you're bursting with energy, aren't you?
+<0052> Looks like you're ready to fight!
+<0053> Ora!
+<0054> You little!
+<0055> Go down!
+<0056> Drop dead!
+<0057> Goh!
+<0058> Uge.
+<0059> Tsk.
+<0060> Not a big deal, but...
+<0061> Wait a second.
+<0062> That's not fair...
+<0063> You could've gone easy on me.
+<0064> Goddammit!
+<0065> I was almost hit.
+<0066> No damage taken.
+<0067> I can't afford to take any damage.
+<0068> That gave me the chills.
+<0069> Hah-hah-hah!
+<0070> Thought you'd beat me?
+<0071> You're pathetically weak... Oh, sorry for the harsh words.
+<0072> Man, things are looking up for me! ...Am I getting a little too hyped?
+<0073> Damn it!!!
+<0074> Oh, for crying out loud!
+<0075> Why am I even doing this!?
+<0076> Oh, seriously!?
+<0077> Alright, stars obtained.
+<0078> You need stars, no matter what you do.
+<0079> Alright, this is great.
+<0080> I'm taking these.
+<0081> Oh...
+<0082> Knock it off, will you?
+<0083> That was a big financial hit.
+<0084> Man, it just went south for me.
+<0085> And I walked right into a trap.
+<0086> No, cut it out!
+<0087> No, a whole lot of noes.
+<0088> Ugh, a trap?
+<0089> I have to be even more cautious now.
+<0090> Oh man, a boss is here now.
+<0091> Here comes a boss. What will that change, I wonder.
+<0092> Why don't you go beat another player?
+<0093> Guess I'll go gathering stars.
+<0094> I'll go with stars.
+<0095> I might as well get myself more stars.
+<0096> I'm set to collect stars.
+<0097> Battles... I'm gonna have to try not to get too excited.
+<0098> Well, battles make my adrenaline surge.
+<0099> Relax, Chuu. You don't want to become the kind of person who seeks out fights.
+<0100> Uh, I hate to admit this, but.. I feel like there's a part of me that craves fights.
+<0101> Call me Chuu.
+<0102> Oh, wanna play a match? Definitely.
+<0103> I had nothing to do. Good timing.
+<0104> I can get excited easily. Don't let it put you off, okay?
+<0105> I don't do well with luck-based games, but...
+<0106> I use strats to achieve my wins.
+<0107> Alright, where do I begin?
+<0108> Let's do this.
+<0109> I won. Fufu.
+<0110> I might've gotten a little excited.
+<0111> HECK YEAH! Oh, sorry I got loud.
+<0112> Looks like my plans worked out perfectly...
+<0113> Let me see.
+<0114> Got a new thing?
+<0115> I feel like we got something good...
+<0116> Oh, what's that?
+<0117> Let's switch.
+<0118> I think it's time for a player change.
+<0119> I need to get some rest. It's in your hands now.
+<0120> Nice to team up with you.
+<0121> OK.
+<0122> Oh.
+<0123> I got this.
+<0124> No.
+<0125> Tsk, man.
+<0126> I got lucky.
+<0127> What... Huh?
+<0128> Alright!
+<0129> Let's go.
+<0130> Good luck.
+<0131> Yo.
+<0132> Um.
+<0133> Well done.
+<0134> That's amazing.
+<0135> Aaaaaaaah!!! Goddammit!
+<0136> Here's a card that I snatched.
+<0137> Not quite sure when I should play this one, but I guess the time is now.
+<0138> Not that I use this card a lot, but I think it'll help.
+<0139> Let me use someone else's Hyper card.
+<0140> Thanks.
+<0141> Gotta keep an eye on Poyo's luck.
+<0142> I'm counting on you to draw good cards.
+<0149> Playing with the usual members is such a relief.
+<0150> Marc and I look a little bit alike, don't we?
+<0151> Oh, I thought you were me.
+<0152> Flying in a plane is something I wanna experience for once.
+<0153> Airplanes and rockets do seem quite formidable...
+<0154> Chris, thanks for your excellent service at the restaurant.
+<0155> Chris!?
+<0156> It feels kind of awkward to beat an acquaintance...
+<0157> You didn't go easy on me at all...
+<0158> You went a little too far, Chuu. You gotta watch it.
+<0159> That's not like you at all, Chuu. Calm down.
+<0160> This isn't good. This kind of excitement isn't good.

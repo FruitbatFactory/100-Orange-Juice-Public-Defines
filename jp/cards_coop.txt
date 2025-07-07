@@ -1,0 +1,1256 @@
+< CARD_BOOST_COOP_GENTLEMANSBATTLE >
+name=紳士の決闘
+descr=HPが最大値の敵を指定しバトルする。\nその後、自身のターンが終了する。
+flavor=「受け取りたまえ」―ギルド長
+
+< CARD_EVENT_COOP_DINNER >
+name=ディナー
+descr=味方全員のHPを3回復する。
+flavor=「一緒にご飯を食べよう」―なつみ
+
+< CARD_BATTLE_COOP_SINKORSWIM >
+name=賭けの一撃
+descr=ATK・DEF・EVD-1。\nバトル勝利で、10スターと1ウィンを得る。
+flavor=「さーて、どでかい賭けにでよか！」 ―ユキ
+
+< CARD_EVENT_COOP_UNPAIDWORK >
+name=タダ働き
+descr=☆1チャプター持続\nバトルやボスの能力でスターを失わない。
+flavor=「お給料はいってないんですけど！」 ―クリス
+
+< CARD_EVENT_COOP_INDISCRIMINATEFIRESUPPORT >
+name=無差別な支援爆撃
+descr=☆永続\nランダムなユニットに1ダメージを与える。\n自ターン開始時に効果が発動し、1ユニットがダウンするまで続く。味方はこのカードの効果ダメージを受けない。
+flavor=「……」 ―ソラ
+
+< CARD_BATTLE_COOP_DECEPTIVEDISARMING >
+name=見せかけの武装解除
+descr=ボスに対してのみ使える。このバトルでダウンしなかった時、次のボスカードの発動がキャンセルされる。
+flavor=「危ない物がわんさかだと！」 ―トマト
+
+< CARD_EVENT_COOP_PETSNACKS >
+name=ペット用おやつ
+descr=次のバトルで、ボスとアクティブな手下がATK-1。この効果は重複する。
+flavor=「ほーら　おやつタイムだよ！　食え食え！」 ―しゅら
+
+< CARD_BOOST_COOP_FREIGHT >
+name=積荷
+descr=自ホームマスに止まった時、このカードを捨て、5スターを得る。このカードを使うと捨てられる。
+flavor=「その積荷はお譲りしましょう。ええ、差し上げますとも」 ―商人
+
+< CARD_EVENT_COOP_FORCEDREVIVAL >
+name=強制蘇生
+descr=ダウン中の全ユニットが最大HPの半分を回復した状態で復活する。
+flavor=「さっさーと治療しちゃうから」―斬子
+
+< CARD_EVENT_COOP_REBELLION >
+name=反逆
+descr=☆2チャプター持続\nボスのHPが全プレイヤーのHPの合計よりも大きい間、ボスとのバトル開始時に全プレイヤーのATK・DEF・EVD+1。
+flavor=「ギルドは近い将来あなたを裏切る。…覚えておいて」 ―シェリー
+
+< CARD_GIFT_COOP_POPPOTHESNATCHER >
+name=掠め取るぽっぽ
+descr=DEF-1。自身のターン中に敵を通過する度に、自身のレベル×3のスターをその敵から奪う。このカードが手札にある時、ノルマチェックできない。このカードを使うか自身がダウンすると、このカードは捨てられる。
+flavor=「ぽきゃきゃっ！！」 ―ぽっぽ
+
+< CARD_TRAP_COOP_BANKOFPOPPO >
+name=ぽっぽ銀行
+descr=敵がこのトラップを発動させた時、ボスはチャプター数×2のスターを失い、チャプター数×2のスターがこのトラップに預けられ、このトラップはフィールド上に残る。次に発動させたユニットは預けられたスターを得る。
+flavor=「俺の金が…！」 ―カイ
+
+< CARD_BOOST_COOP_MYWILDFRIENDS >
+name=マイ野生フレンズ
+flavor="たまにはのんびりするのもいいもんだぞ" ―テオトラッタ
+
+< CARD_BATTLE_COOP_CONTESTOFCUTENESS >
+name=可愛さコンテスト
+descr=攻撃側しか使えない。このバトルの勝敗が可愛さコンテストで決定される。\n可愛さ ＝ 10 - 最大HP - ATK + EVD（ただし0未満にはならない）\n攻撃ダイスを振る代わりに、両ユニットはダイスを2つ振り、その合計値を自身の可愛さに加算する。より高い可愛さを持つユニットが、相手からプレイヤーのレベル×5のスターと1ウィンを得る。その後、バトルが終了する。
+flavor=「さあ　誰が一番可愛いですか！？」 ―サキ
+
+< CARD_HYPER_COOP_ALTE >
+name=自爆
+descr=ダウン時、自身の最大HP分のダメージを敵に与える。\n敵はスターとウィンを得ず、ダウンするとスターを半分を失う。
+flavor=「帰れなくて…ごめんね」―アルテ
+
+< CARD_HYPER_COOP_ARU >
+name=プレゼントフォーユー
+descr=全味方は手札上限までカードを引く。\nすでに上限なら1枚引く。
+flavor=「良い子にプレゼントだよー」―アル
+
+< CARD_HYPER_COOP_ARTHUR2 >
+name=ホビーショップＵＳＡ
+descr=カードを1枚引く。\nこのカードは発動後も同じマスに残り、別のトラップと置き換えができる。\n設置プレイヤーと敵には効果がない。
+flavor=「さて　店を開けるとするか」 ―アーサー
+
+< CARD_HYPER_COOP_ARUSCRAMBLE >
+name=サンタのお仕事
+descr=待機中、使用可能レベルのカード1枚を選び、他のランダムなプレイヤーに渡す。\nカードレベル×5のスターを得る。\n使うか、ダウンすると、このカードは捨てられる。
+flavor=「待っててね、世界中の子どもたち！」―アル
+
+< CARD_HYPER_COOP_CHICKEN >
+name=金の卵
+descr=レベル×10スターを得る。
+flavor=「こっけぇー！」―ニワトリ
+
+< CARD_HYPER_COOP_FERNET >
+name=飛行船爆撃
+descr=全ての敵は1～2ダメージを受ける。ダウンした敵の数×15スターを得る。
+flavor=「ふん、落としてしまいなさい」\n―フェルネット
+
+< CARD_HYPER_COOP_HIME >
+name=束縛の鎖
+descr=ストック効果\n全敵の次のターンがスキップされる。\nアクティブな敵を「束縛」する。\n☆2チャプター持続・EVD-2・MOV-1。
+flavor=「こういう事は好きじゃないの」―ヒメ
+
+< CARD_HYPER_COOP_IRU >
+name=拡散フォトンライフル
+descr=★コスト：レベル×5\nランダムな敵に1ダメージを与える。ダウンしたら、1ウィンを得る。自身の現在のレベルの数だけ繰り返す。
+flavor=「みんな撃ち落としちゃうよ」 ―イル
+
+< CARD_HYPER_COOP_KAE >
+name=ブレイジング！
+descr=2マス以内のユニットが対象。\nすでに対象のなっていた場合、持続時間がリセットされる。\n☆2チャプター持続\n味方ならATK+1、敵ならDEF-1。\nダウンで効果を失う。この効果は重複する。
+flavor=「いいねっ！　いいねっ！　今、最高の気分だよ！」\n―カエ
+
+< CARD_HYPER_COOP_KAI >
+name=主役の特権
+descr=☆3チャプター持続\n常に先攻。\n敵は攻撃できない。\n(1バトルにつき1度のみ)
+flavor=「これが、主役の特権ってヤツだ！」―カイ
+
+< CARD_HYPER_COOP_KIRIKO >
+name=トドメの手術
+descr=HP1の全ユニットをダウンさせる。ダウンしたユニットの数だけ、失った最大HPを1回復し、25スターを得る。ダウンしている味方のREC-2。
+flavor=「さっさーと治療しちゃうから、\n大人しくしてなさい」-斬子
+
+< CARD_HYPER_COOP_KRILAEVENT >
+name=ぬいぐるみ使い
+descr=「舞い踊れ耳長き獣」を3~5枚、\nランダムなマスにセットする。
+flavor=「舞い踊れ耳長き獣！」―クリララリス
+
+< CARD_HYPER_COOP_KRILATRAP >
+name=舞い踊れ耳長き獣
+descr=2ダメージを受ける。\nセットしたプレイヤーはHPを1得る。\nストック効果\n次のバトルの間、ATK-2。\n味方には効果がない。
+flavor=「舞い踊れ耳長き獣！」―クリララリス
+
+< CARD_HYPER_COOP_MALT >
+name=黄昏色の夢
+descr=★コスト：レベル×7\n☆レベルと同数のチャプター持続\nボスマスでのバトルの時、味方のATK+1。トラップとして設置したバトルカードがあるエネミーマスを通る敵は、そのマスに止まらなければならない。
+flavor=「空を無数の翼が舞っている。まるで夢のような光景ではないか」 ―モルト
+
+< CARD_HYPER_COOP_MASTER >
+name=永久追放
+descr=★コスト：所持スター÷10\nボスの次の行動がスキップされる。
+flavor=「店長お願いしますーっ！！」―クリス
+
+< CARD_HYPER_COOP_MAYNIE >
+name=レイジング・マッドネス
+descr=怒りカウンターを1つ得て、レイジングモードになる。レイジングモード中、ATK・EVDが「怒りカウンターの数÷2(四捨五入)」の数だけ補正される。ターン開始時、怒りカウンターを1つ失う。怒りカウンターが0になった時、レイジングモードが解除される。
+flavor=「ぎゃおおおお！」 ―メイニー
+
+< CARD_HYPER_COOP_MEI >
+name=ホワイトクリスマッシャー
+descr=手札を全て捨て、自身から1マス圏内にいる全ての敵に2ダメージを与える。\nダウンした敵ごとに、自レベル数×5スターと1ウィンを得る。\n「アカ＆アオ」が手札にある時、このカードは「真・ホワイトクリスマッシャー」になる。
+flavor=「ホワイトクリスマッシャー！」 ―メイ
+
+< CARD_HYPER_COOP_MEITRUE >
+name=真・ホワイトクリスマッシャー
+descr=自身から2マス圏内にいる全ての敵に4ダメージを与える。\nダウンした敵ごとに、自レベル数×10のスターと2ウィンを得る。\n「アカ＆アオ」が手札にない時、このカードは「ホワイトクリスマッシャー」になる。
+flavor=「ホワイトクリスマッシャー！」 ―メイ・アカ・アオ
+
+< CARD_HYPER_COOP_NATH >
+name=もう一つの最終兵器
+descr=★コスト：この効果でのATK+1×10\nATK・DEF+1。\nさらに支払った10スターごとに\nATK・DEF+1。(上限：ATK+9)
+flavor=「あなたがいなくなったから、私が代わりに最終兵器になりました」-ナート
+
+< CARD_HYPER_COOP_NONAME >
+name=統べる者
+descr=ボス専用。\nバトルを終了させ、相手は代わりに\n「シフロボット」とバトルする。
+flavor=「はっはっは、我が友が来てくれた！」-NoName
+
+< CARD_HYPER_COOP_POPPO >
+name=神出鬼没
+descr=アクティブな敵がいるマスを指定し、そこへワープする。\nその敵のレベル×10スターを奪う。
+flavor=「ぽっぽ！ぽっぽぽぽぽぽー！」\n―まりーぽっぽ
+
+< CARD_HYPER_COOP_QPD >
+name=スイートガーディアン
+descr=プリン系のカードを2枚引く。\nそのカードを使うか捨てるとゲームから除外される。
+flavor=「プリンちゃん…私は…、\n私は…アナタを愛してます」\n―きゅーぴー
+
+< CARD_HYPER_COOP_SAKI >
+name=ビッグバンベル
+descr=このカードの2マス以内にいる敵は2ダメージを受ける。\n設置から2チャプターごとに+1ダメージ。\n敵がダウンした時、設置者はその敵の半分のスターを得る。
+flavor=「まぅぅぅりゃあああああ！！」―サキ
+
+< CARD_HYPER_COOP_SHAM >
+name=デルタフィールド
+descr=このバトル中、相手は以下の効果を受ける。\n全ダイスの目が1になる。
+flavor=「どうしても戻らないって言うなら、\n力尽くで連れ戻すんだから！」―シャム
+
+< CARD_HYPER_COOP_SHERRY >
+name=気まぐれ風車
+descr=ボスの先攻でバトルする。\nバトル中EVD＋1。
+flavor=「私たちはね、自由に飛びたいだけなのよ」\n―シェリー
+
+< CARD_HYPER_COOP_STARBREAKER >
+name=星の導火線
+descr=「不可視の爆弾」を3~5枚、\nランダムなマスにセットする。
+flavor=「だって私はスターブレイカー。\n星を壊す導火線なんだもの」\n―スターブレイカー
+
+< CARD_HYPER_COOP_STARBREAKER2 >
+name=不可視の爆弾
+descr=4ダメージを受ける。\nセットしたプレイヤーと味方に効果はなく、このカードが見える。
+flavor=「だって私はスターブレイカー。\n星を壊す導火線なんだもの」―スターブレイカー
+
+< CARD_HYPER_COOP_SWEETBREAKER >
+name=とろける記憶
+descr=★コスト：スター÷10\nボスの手札順がシャッフルされる。3チャプター持続する「とろける記憶」の効果を全ての敵に付与する。\nダウンすると効果を失う。
+flavor=「神であるこの私に戦いを挑んだ愚かさ、\n身を持って味わいなさい」\n―スイートブレイカー
+
+< CARD_HYPER_COOP_TEQUILA >
+name=海賊は空を飛ぶか
+descr=「海賊子分」2体を呼び出し、ランダムな敵とバトルする。敵が後攻。
+flavor=「海賊が空を飛んじゃいけねぇ、\nなんて法はねぇ」 ―テキーラ
+
+< CARD_HYPER_COOP_TOMATO >
+name=わるだマシン発進！
+descr=このバトル中、味方の手札2枚ごとに\nATK+1・DEF+1・EVD-1。
+flavor=「リベンジ！」-トマト
+
+< CARD_HYPER_COOP_TOMOMO >
+name=殺戮魔法
+descr=ダウンした味方1人につき3ダメージを全敵に与える。
+flavor=「消えちゃえ」―トモモ
+
+< CARD_HYPER_COOP_TOMOMOSWEETEATER >
+name=まじかるリベンジ
+descr=失ったHPの数だけ、ランダムな敵に1ダメージを与える。ダウンした場合、1ウィンを得る。「トモモ（スイートイーター）」以外の手札にこのカードがある場合、「ミラクルあずきアイス」に変化する。
+flavor=「まじかるリベンジだぁ！」 ―トモモ
+
+< CARD_HYPER_COOP_TSIH >
+name=すてるすおん
+descr=☆3チャプター持続\n敵からバトルを挑まれない。\nエネミーマスとボスマスでエンカウントしない。\nバトルになると効果は失われ、そのバトル中ATK+2。
+flavor=「すぅーっときえるのら」 ―ツィー
+
+< CARD_HYPER_COOP_YUKI >
+name=ギャンブル！
+descr=自身の現在の最大HP分のダメージを\nランダムに自身かボスに与える。
+flavor=「誰が逝くか、これで決めるか？」―ユキ
+
+< CARD_HYPER_COOP_YUKIDANGEROUS >
+name=悪の首魁
+descr=デッキからトラップカードを3枚引き、手札にある全てのトラップカードをランダムなパネルにセットする。
+flavor=「うちらの力におののけぃ！」 ―ユキ
+
+< CARD_HYPER_COOP_ARTHUR >
+name=店舗拡大戦略
+descr=★コスト：手札の数×5\nこのカードを含めた全手札を、\n「ホビーショップＵＳＡ」に変える。\nこの後、もう一度カードを使える。
+flavor=「ふぅ」 ―アーサー
+
+< CARD_HYPER_COOP_MIMYUU >
+name=悪の工作活動～始末
+descr=このカードは使えない。このカードが手札にある時、ターン終了時にHPが2回復する。その後、このカードをゲームから除外する。
+flavor=「かかったな！　くらえぇ！！」-みみゅう
+
+< CARD_HYPER_COOP_NATSUMI >
+name=クッキングタイム
+descr=★コスト：レベル×5\n全プレイヤーのHPを自身のレベル×HPだけ回復する。
+flavor=「ごはんだよー♪」 ―ナツミ
+
+< CARD_HYPER_COOP_YUUKI_DEVIL >
+name=デビルハンド
+descr=5ダメージが上限で、ランダムな1ユニットにHPが1になるようダメージを与え、\nダメージ量×10スターを得る。\n奇数チャプターで、このカードは「エンジェルハンド」に変化する。
+flavor=「悪魔のパワーをくらぇ」 ―ユウキ
+
+< CARD_HYPER_COOP_MIO >
+name=マジカルインフェルノ
+descr=自身のユニットと縦横同一列上のマスにいる全ての敵に5ダメージを与える。バトルでのダウンと同様に、この効果でダウンした各敵からスターを得る。その後、自身のターンが終了する。
+flavor=「マジカルインフェルノ！」 ―ミオ
+
+< CARD_HYPER_COOP_ISLAY >
+name=好敵手
+descr=自身の先攻で、指定の敵とバトルする。\nこのバトルで、ATK＋1。
+flavor=「私も…私の戦いがある」 ―アイラ
+
+< CARD_HYPER_COOP_COOK >
+name=風見鶏の導き
+descr=ストック効果\nバトル時を除き、ダイスが2つになる。\nダウンでこの効果は消える。
+flavor=「ぴよぴよ　クックこっち行きたいぞ」 ―クック
+
+< CARD_HYPER_COOP_TEOTORATTA >
+name=獣の魔女
+descr=ボスやその手下が原因となるスター喪失を無効にする。この効果が発動した時、このカードを捨てる。
+flavor=「我に従え！　獣共！」 ―テオトラッタ
+
+< CARD_HYPER_COOP_CUTIES >
+name=スペシャルステージ
+descr=★コスト：レベル×10\n自レベル数のターンの間、ライブモードになる。\nカードが使えず、移動系マスの効果のみ得られ、MOV-3。\n敵からバトルを挑まれない。\n自身から2マス以内でターンを終えたユニットから自レベル×5のスターを奪う。\nダウンで効果を失う。
+flavor=「コレが最強の可愛者！」 ―ソラ＆シャム
+
+< CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE >
+name=富豪(X)
+descr=ボスとバトルする。ボスのATKが富豪レベル分下がる。自身は攻撃できない。自身がダウンしなかった時、相手から富豪レベル×20のスターを奪う。または、「富豪（4）」でない時、このカードのコストを支払い、このカードをアップグレードできる。このカードがフェルネット以外の手札にある時、このカードは「社交界デビュー」になる。
+flavor=「私にお願いごとですって…？　あらあら、もちろん、友人の頼みとあれば喜んで」 ―社交界のフェルネット
+
+< CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE_V >
+name=富豪(%d)
+descr=ボスとバトルする。ボスのATKが富豪レベル分下がる。自身は攻撃できない。自身がダウンしなかったとき、相手から富豪レベル×20のスターを奪う。または、「富豪（4）」でないとき、このカードのコストを支払い、このカードをアップグレードできる。フェルネット以外の手札にある時、このカードは「社交界デビュー」になる。
+flavor=「私にお願いごとですって…？　あらあら、もちろん、友人の頼みとあれば喜んで」 ―社交界のフェルネット
+
+< CARD_HYPER_COOP_SHIFU >
+name=思い通りの世界
+descr=☆2チャプター持続\nアクティブなプレイヤーを1人選ぶ。そのプレイヤーの代わりに、ロボット系ユニットがバトルをする。このロボット系ユニットはATK+1。
+flavor=「全て俺の思い通りに」 ―シフ
+
+< CARD_HYPER_COOP_REIKA >
+name=スターコレクター
+descr=☆3チャプター持続\nプレイヤーがマスとバトルダウンで得るスターの数が、自身のレベル×本来の獲得数になる。
+flavor=「ふふふ　星がたくさん」 ―レイカ
+
+< CARD_HYPER_COOP_WATTY >
+name=魔力開放
+descr=☆3チャプター持続\nDEF+2。硬い鱗の最大ストック数が10になる。硬い鱗のストックが10のとき、自身のレベル分のダメージをボスに、その半分のダメージを他の敵に与える。
+flavor=「あ　危ないです…　ごめんなさい」 ―ウォーティー
+
+< CARD_HYPER_COOP_POMERANIUS >
+name=ハイパーキュートドッグ
+descr=☆3チャプター持続\nボスマスを無視する。他のプレイヤーと同じマスにいる時、どちらかのターン終了時に、2人ともカードを1枚引く。バトルを仕掛けたり受けたりできない。他のプレイヤーはこのプレイヤーのいるマスに止まり、なでることができる。
+flavor=「きゅぅ～ん」 ―ポメラニアス
+
+< CARD_HYPER_COOP_SWEETCREATOR >
+name=スイートパラダイス
+descr=トラップカード「甘い享楽」を3-5枚\n表向きでランダムなマスにセットする。
+flavor=「これがスイート神の力よ！」 ―スイートクリエイター
+
+< CARD_HYPER_COOP_SWEETCREATOR2 >
+name=甘い享楽
+descr=味方が踏んだ時のみ効果が発動する。ランダムな非ハイパーのスイーツ系カード3枚を得る。
+flavor=「無理やりスイーツ詰め込みたいのじゃ」 ―スイートクリエイター
+
+< CARD_HYPER_COOP_MIOFESTIVE >
+name=クリスマス・インフェルノ
+descr=自身のHPが1に減少する。減少したHPと同数のダメージをボスに、半数（奇数は切上げ）のダメージをその他の全ての敵に与える。その後、その際にダウンしている味方と同数の「ミオのクリスマスケーキ」を得る。
+flavor=「みんなに地獄を見せてあげるわぁ」 ―ミオ
+
+< CARD_BOOST_COOP_XMASCAKE >
+name=ミオのクリスマスケーキ
+descr=以下のどちらかを選ぶ。\n・食べて自身のHPを1回復する。\n・指定した他のプレイヤー1人とシェアして、そのプレイヤーのHPを2回復し、自身も同数回復する。
+flavor=「私の自信作 ご賞味あれ♡」 ―ミオ
+
+< CARD_HYPER_COOP_KRILAPAJAMA2 >
+name=我が封印が解かれる時
+descr=ボスにX＋1のダメージを与え、他の全ての敵にその半分のダメージを与える。X＝ストックしている覚醒の数。覚醒を全て失う。失った覚醒2つにつき、自身のHPを1回復する。
+flavor=「今おはようの時間が訪れる…」 ―クリララリス
+
+< CARD_HYPER_COOP_MIMYUUJAILBIRD >
+name=脱獄ごっこ
+descr=自身のホームマスに移動する。その時、マスの効果は発動しない。このユニットにバトルを挑めない。ボスからのトラップカード、カード効果ダメージを受けない。移動ダイスが2つになる。20マス移動後、この効果を失う。
+flavor=「すたこらさっさだぜ！」 ―みみゅう
+
+< CARD_HYPER_COOP_DARKL >
+name=ルルゥはアンラッキードラゴン
+descr=このカードはHPが2以下でないと使用できない。\n以下のいずれかの効果が発動する。\n・ダイスを振り、全ての敵は【出目×カード使用者のレベル×2】のスターを失う。その後、カード使用者はそれと同数のスターを得る。\n・ボスの次の行動がスキップされる。\n・全ての敵はHPを3失う。
+flavor=「ルルゥは…アンラッキードラゴン…」 ―ダークルルゥ
+
+< CARD_HYPER_COOP_GRAIN >
+name=全砲門開口
+descr=砲弾カウンターをすべて消費する。ランダムな他プレイヤーのユニット1体に1ダメージを与える。このダメージでユニットがダウンした場合、１撃破とダウンしたユニットのプレイヤーのレベル×10のスターを得る。消費した砲弾カウンターの分だけ繰り返す。
+flavor=「全砲門開口…　発射（ファイア）」 ―グレーン
+
+< CARD_HYPER_COOP_HARUKA >
+name=盛り上げ上手
+descr=☆2チャプター持続\n他のプレイヤーがダウンした時、レベル×5スターを支払う。そのプレイヤーはHPを全回復して即座に復活する。
+flavor=「みんなでゲーム盛り上げよ！」 ―ハルカ
+
+< CARD_HYPER_COOP_KANATA >
+name=賢そうなハッタリ
+descr=☆3チャプター持続\nカードタイプ（バトル・ブースト・イベント・その他）を1つ選択する。そのタイプのカードが使われた時、プレイヤーは1枚カードを引く。
+flavor=「あなたの手札は全て読めている」 ―カナタ
+
+< CARD_BOSS_COOP_DOZE >
+name=うとうと
+descr=効果なし。
+flavor=
+
+< CARD_BOSS_COOP_GROUPUP >
+name=全員集合
+descr=全味方がランダムな同じマスにワープする。
+flavor=
+
+< CARD_BOSS_COOP_PECK >
+name=つつき
+descr=同じマスにいる全プレイヤーに\n2ダメージを与える。
+flavor=
+
+< CARD_BOSS_COOP_FLIGHT >
+name=飛行
+descr=進行方向が逆になる。\nエンカウントした各敵に自身のレベル分のダメージを与える。
+flavor=
+
+< CARD_BOSS_COOP_CHICKEN_ATTACK >
+name=にわとりアタック
+descr=同じマスの全プレイヤーに奇襲をかける。
+flavor=
+
+< CARD_BOSS_COOP_PIYO_MARCH >
+name=ピヨ行進
+descr=次のバトルで全味方はEVD+2。
+flavor=
+
+< CARD_BOSS_COOP_REGENERATION >
+name=再生
+descr=全員のHPが1回復する。
+flavor=
+
+< CARD_BOSS_COOP_PRESENT >
+name=プレゼント
+descr=ランダムなパネルにトラップを\nセットする。
+flavor=
+
+< CARD_BOSS_COOP_HEADLESS_CHICKEN >
+name=パニック
+descr=ボスは自身のターンが終了するまでATK+2。ボスのHPが50%未満の時、各手下はATK・EVD+2となり、1マス以内の敵に攻撃する。
+flavor=
+
+< CARD_BOSS_COOP_CALL_OF_CHICKEN >
+name=ニワトリの一声
+descr=カードを1枚引き、使う。
+flavor=
+
+< CARD_BOSS_COOP_CHICKEN_RUN >
+name=チキン・ラン
+descr=☆2チャプター持続\nフィールド上の全手下はEVD+1・MOV+2。
+flavor=
+
+< CARD_BOSS_COOP_HEN_PECKED >
+name=ニワトリ恐怖症
+descr=自身から1マス以内にいる全プレイヤーに、自レベル分のダメージを与える。
+flavor=
+
+< CARD_BOSS_COOP_SECOND_WING >
+name=セカンドウィング
+descr=全味方はボスのレベル分のHPが回復する。
+flavor=
+
+< CARD_BOSS_COOP_SWARM >
+name=大群
+descr=次のバトル時、ボスの全手下はATK+2。ランダムなプレイヤーのいるマスに移動して、バトルする。プレイヤーは反撃できない。その後、ボスは「ダッシュ！」を使う。
+flavor=
+
+< CARD_BOSS_COOP_FINAL_WARNING >
+name=最終警告
+descr=ランダムなプレイヤーに、そのプレイヤーのHP分のダメージを与える。ボスのHPが50%未満の時、ボスのレベル分のダメージをランダムなプレイヤーに与える。
+flavor=
+
+< CARD_BOSS_COOP_SAVAGE_TALONS >
+name=獰猛な鉤爪
+descr=HPが最小のプレイヤーに、そのプレイヤーのHP分のダメージを与える。\nさらに、そのプレイヤーのHP分のダメージをランダムなプレイヤーが受ける。
+flavor=
+
+< CARD_BOSS_COOP_BEAK_OF_GODBIRD >
+name=神鳥のくちばし
+descr=1マス以内にいる全プレイヤーに攻撃する。HPが少ない順に攻撃される。\nボスはダウンしたプレイヤーの数だけ永続的にATK+1。
+flavor=
+
+< CARD_BOSS_COOP_ROOST >
+name=止まり木
+descr=ボスは自身のマスに「ニワトリ」を1羽生み出す。\n最大4羽まで生み出せる。
+flavor=
+
+< CARD_BOSS_COOP_ROOST_HYPER >
+name=止まり木
+descr=ボスが自身のマスに「ニワトリ」を2羽生み出す。\n最大4羽まで生み出せる。
+flavor=
+
+< CARD_BOSS_COOP_MALFUNCTION >
+name=誤作動
+descr=自身に1ダメージを与える。\nこの効果でHPは1を下回らない。
+flavor=
+
+< CARD_BOSS_COOP_ATTACK_DOWN >
+name=攻撃低下
+descr=☆2チャプター持続\n全プレイヤーはATK-2。\nボスはATK+2。
+flavor=
+
+< CARD_BOSS_COOP_QUICK_REPAIR >
+name=応急手当
+descr=HPを1回復する。
+flavor=
+
+< CARD_BOSS_COOP_BALANCE_CURRENTS >
+name=平衡電流
+descr=各プレイヤーのATKプラス値分のダメージを与え、マイナス値分だけHPを回復させる。
+flavor=
+
+< CARD_BOSS_COOP_IMMOVABLE_OBJECT >
+name=不動の物体
+descr=☆2チャプター持続\n移動できない。DEF+2。反撃できる。\n同じマスに入った敵とバトルする。
+flavor=
+
+< CARD_BOSS_COOP_EXTENDED_PHOTON_RIFLE >
+name=ロボビーム
+descr=ランダムなプレイヤーに1ダメージを与える。\n経過した5ターンごとに追加でダメージで与える。
+flavor=
+
+< CARD_BOSS_COOP_PROTECT >
+name=プロテクト
+descr=ストック効果(レベル+1)\n1ストック消費ごとに、最大3までの被ダメージを1にする。ストックが切れた時、3チャプターの間DEF・EVD-2、移動-1。
+flavor=
+
+< CARD_BOSS_COOP_TURBO >
+name=ターボ
+descr=このターンの移動ダイスが3つになる。
+flavor=
+
+< CARD_BOSS_COOP_ASSAULTFIELD >
+name=アサルトフィールド
+descr=「アサルト」を3~5枚、\nランダムなマスにセットする。
+flavor=
+
+< CARD_BOSS_COOP_EVASION_DOWN >
+name=回避低下
+descr=☆2チャプター持続\n全プレイヤーはEVD-2。\nボスはEVD+2。
+flavor=
+
+< CARD_BOSS_COOP_DEFENSE_DOWN >
+name=防御低下
+descr=☆2チャプター持続\n全プレイヤーはDEF-2。\nボスはDEF+2。
+flavor=
+
+< CARD_BOSS_COOP_ENGAGE >
+name=交戦
+descr=ランダムなプレイヤーとバトルする。そのバトル中ATK+2。
+flavor=
+
+< CARD_BOSS_COOP_SELF_DESTRUCTION >
+name=自壊
+descr=自身に3ダメージを与える。\n3マス以内にいるプレイヤーは1ダメージを受ける。\n2マス以内ならダメージ+1。1マス以内ならダメージ+1。\nこの効果でボスのHPは1を下回らない。
+flavor=
+
+< CARD_BOSS_COOP_SOLID_WITCH >
+name=頑丈な魔女
+descr=☆1チャプター持続\nボスはダメージを受けない。
+flavor=
+
+< CARD_BOSS_COOP_DELTA_FIELD >
+name=スクランブル・デルタフィールド
+descr=☆2チャプター持続\n全プレイヤーは、全ダイスロールで1～3のいずれかを出す。
+flavor=
+
+< CARD_BOSS_COOP_IMAGINARY_NUMBERS >
+name=虚数
+descr=☆1チャプター持続\nダイスの目が7になる。
+flavor=
+
+< CARD_BOSS_COOP_HEALTH_DOWN >
+name=体力低下
+descr=全プレイヤーは以下のストック効果(1)を得る。\n最大HPが1減る。(下限：2)\nダウンしたとき、2ストック減る。
+flavor=
+
+< CARD_BOSS_COOP_RECOVERY_MODE >
+name=リカバリーモード
+descr=ストック効果(1)\n次のバトルまで、移動ダイスがスキップされ、1ターンごとにHPが2回復する。
+flavor=
+
+< CARD_BOSS_COOP_PERFECT_REFLECTIVE_SHELL >
+name=完全反射外装
+descr=被ダメージと同量のダメージを攻撃側に与える。
+flavor=
+
+< CARD_BOSS_COOP_EMP >
+name=電磁パルス
+descr=全プレイヤーに1ダメージを与える。\n☆2チャプター持続\n効果を受けた者はカードを使えない。
+flavor=
+
+< CARD_BOSS_COOP_BIG_POPPO >
+name=奈落の底から
+descr=「びっぐ・ぽっぽ」1体をフィールドに呼び出す。\n「びっぐ・ぽっぽ」はダメージを与えない代わりに、与ダメージ量×3のスターを相手から奪う。\nスターをボスと共有する。\nダウンした時、3ウィンとボスの100スターを与える。REC10。
+flavor=
+
+< CARD_BOSS_COOP_NAP >
+name=昼寝
+descr=5スターを失う。
+flavor=
+
+< CARD_BOSS_COOP_ELUSIVE >
+name=逃げ上手
+descr=「チャリティ」のあと「ランダムワープ」が発生する。\nこのターン、プレイヤーはボスのレベル×5のスターを失う。\nボスか手下がそのプレイヤーのマスに入るたびに、ボスのレベル×5のスターを得る。
+flavor=
+
+< CARD_BOSS_COOP_STAR_MANIA >
+name=星マニア
+descr=ストック効果(1)\n毎チャプター、アクティブな「星マニア」の数だけ追加スターを得る。
+flavor=
+
+< CARD_BOSS_COOP_POPPO_TAX >
+name=ぽっぽ税
+descr=ボスか手下から3マス以上離れたプレイヤーは5スターを失う。\nボスはそのプレイヤーの数×5スターを得る。\nその後「ランダムワープ」が発生する。
+flavor=
+
+< CARD_BOSS_COOP_TITHE >
+name=十分の一税
+descr=ボスか手下からXマス範囲内にいるプレイヤーは10スターを失う。\nXはボスのレベルとする。\nボスはそのプレイヤーの数×10のスターを得る。
+flavor=
+
+< CARD_BOSS_COOP_UBIQUITOUS >
+name=神出鬼没
+descr=ボスは自身から最も遠いプレイヤーまでテレポートし、プレイヤーのレベル×5のスターを奪う。\n手下は自身から最も近いプレイヤーまでテレポートし、5スターを奪う。\n同距離に複数のプレイヤーがいた場合、ランダムに1人選ばれる。
+flavor=
+
+< CARD_BOSS_COOP_SNATCHER >
+name=ひったくり
+descr=ランダムなプレイヤーがカードを1枚捨てる。\nボスは捨てられたカードのレベル×5のスターを得る。
+flavor=
+
+< CARD_BOSS_COOP_SKY_RESTAURANT_POPPO >
+name=空中レストラン「ぽっぽ」
+descr=トラップ「空中レストラン「ぽっぽ」」をボスと手下がいるマスにセットする。\nトラップ効果：HPが全快する。回復したHP×10のスターをボスに支払う。
+flavor=
+
+< CARD_BOSS_COOP_SKY_RESTAURANT_POPPO_TRAP >
+name=空中レストラン「ぽっぽ」
+descr=HPが全回復する。\n回復したHP×10のスターをボスに支払う。
+flavor=
+
+< CARD_BOSS_COOP_HIGHWAY_ROBBERY >
+name=追いはぎ
+descr=このターン中、ボスはATK+3、進行方向が反転し、敵にバトルを挑んでも止まらない。ダメージを与える代わりに、そのダメージ数×10のスターを盗む。
+flavor=
+
+< CARD_BOSS_COOP_GREED >
+name=強欲
+descr=☆1チャプター持続\nボスか手下のバトルでの1与ダメージごとに、ボスはスター+5。
+flavor=
+
+< CARD_BOSS_COOP_WARP_PHENOMENON >
+name=ワープ現象
+descr=「ランダムワープ」イベントが3回発生する。\n各ワープ後、ボスかアクティブな手下の1マス以内にいる各プレイヤーから5スターを奪い、1ダメージを与える。
+flavor=
+
+< CARD_BOSS_COOP_POPPOFORMATION >
+name=ぽっぽ化
+descr=全プレイヤーに以下のストック効果(1)。\n次のバトルで基本ATK・DEF・EVD-1。
+flavor=
+
+< CARD_BOSS_COOP_TEMPTATION >
+name=誘惑
+descr=次のボスのターンまで、カードの使用コストがなくなる。\nボスはプレイヤーが使ったカードレベル×10のスターを得る。
+flavor=
+
+< CARD_BOSS_COOP_POPPO_GALAXY >
+name=ぽっぽぎゃらくしー
+descr=ボスか手下から3マス以上離れた全プレイヤーに、ボスの持つ100スターごとに1ダメージを与える。\n効果ダメージでプレイヤーのHPは1を下回らない。
+flavor=
+
+< CARD_BOSS_COOP_DEATH_AND_TAXES >
+name=死と税
+descr=ボスか手下の2マス以内にいる各プレイヤーに、そのプレイヤーが持つ50スターごとに1ダメージを与える。\nダウンごとに、ボスは50スターを得る。
+flavor=
+
+< CARD_BOSS_COOP_VALUE_JUDGMENT >
+name=鑑定
+descr=全プレイヤーの基本ATKの合計がプラスの場合、全プレイヤーにその値分のダメージを与え、その値×10のスターを奪う。\nマイナスの場合、全プレイヤーのHPをその値分回復し、その値×10のスターを与える。
+flavor=
+
+< CARD_BOSS_COOP_RANSOM_NOTE >
+name=身代金要求書
+descr=ギフトカード「身代金要求書」をアクティブな全プレイヤーに渡す。\n★コスト：このチャプターで使用した他の「身代金要求書」×10\n「身代金要求書」を捨てるためのコストをボスに支払う。\nターン終了まで所持するとダウンする。\n使うこと以外でこのカードを捨てたとき、手札を捨てる。
+flavor=
+
+< CARD_COOP_BOOST_RANSOM_NOTE >
+name=身代金要求書
+descr=★コスト：このチャプターで使用した他の「身代金要求書」×10\n「身代金要求書」を捨てるためのコストをボスに支払う。\nターン終了まで所持するとダウンする。\n使うこと以外でこのカードを捨てたとき、手札を捨てる。
+flavor=
+
+< CARD_BOSS_COOP_POPPOCALYPSE >
+name=ぽっぽかりぷす
+descr=☆1チャプター持続\nボス、ホーム、ワープ以外のマスがエネミーマスになる。\n全ぽっぽはATK+2。\n野良ぽっぽはボスへの1与バトルダメージごとに5スターを与える。
+flavor=
+
+< CARD_BOSS_COOP_HOARDER >
+name=溜め込み屋
+descr=ダメージを受けると、チャプター終了までDEF+1。
+flavor=
+
+< CARD_BOSS_COOP_REST >
+name=休憩
+descr=1テンションを失う。
+flavor=
+
+< CARD_BOSS_COOP_CHASE >
+name=追跡
+descr=ダッシュする。\nこのターン中にバトルしたプレイヤーと同数のテンションを得る。
+flavor=
+
+< CARD_BOSS_COOP_PLAY >
+name=遊び
+descr=1テンションを得る。
+flavor=
+
+< CARD_BOSS_COOP_TIRE_OUT >
+name=追い込み
+descr=☆2チャプター持続\nアクティブな全プレイヤーが「疲労」する。\n次のダウンでREC+1。
+flavor=
+
+< CARD_BOSS_COOP_TIRED >
+name=疲労
+descr=☆2チャプター持続\n次のダウンでREC+1。
+flavor=
+
+< CARD_BOSS_COOP_PUDDING_SEEKER >
+name=プリンを追いし者
+descr=1テンション失う。\nカードを引いて使う。
+flavor=
+
+< CARD_BOSS_COOP_BIRDS >
+name=鳥
+descr=全プレイヤーは1ダメージ受ける。\nこの効果でダウンしたプレイヤー1人につき1テンション得る。
+flavor=
+
+< CARD_BOSS_COOP_SEAGULL_FRIEND >
+name=カモメフレンド
+descr=「カモメたちのダンス」をボスの下にセットする。\n2ダメージを与え、ボスが1HPと1テンションを得る。\nストック効果(1)\n次のバトルでATK-2。
+flavor=
+
+< CARD_BOSS_COOP_DANCE_OF_SEAGULLS >
+name=カモメたちのダンス
+descr=2ダメージを与え、ボスが1HPと1テンションを得る。\nストック効果(1)\n次のバトルでATK-2。
+flavor=
+
+< CARD_BOSS_COOP_PLAY_TAG >
+name=鬼ごっこ
+descr=次の自ターンまでATK+2。\n次の自ターンまでにバトルしたプレイヤーと同数のテンションを得る。
+flavor=
+
+< CARD_BOSS_COOP_HIDE_AND_SEEK >
+name=かくれんぼ
+descr=ランダムなパネルにワープする。次のバトルまで移動しない。\n以降、アクティブ状態で毎ターン2テンションを得る。
+flavor=
+
+< CARD_BOSS_COOP_SPLASH_WATER >
+name=水しぶき
+descr=ボスの2マス以内にいる全てのプレイヤーは、ボスのレベル分のダメージを受ける。\n対象への命中1回につき1テンションを得る。
+flavor=
+
+< CARD_BOSS_COOP_PSYCHED_UP >
+name=気合満タン
+descr=☆2チャプター持続\n移動+2と1テンションを得る。
+flavor=
+
+< CARD_BOSS_COOP_PLAY_WITH_BIRDS >
+name=鳥と遊ぶ
+descr=☆1チャプター持続\n手下がバトルダメージを受けたとき、ボスとアクティブな手下はATK+1。\nボスはさらに1テンションを得る。
+flavor=
+
+< CARD_BOSS_COOP_SEAGULL_MASTER >
+name=カモメ使い
+descr=「カモメたちのダンス」をボスと各手下の下にセットする。\n2ダメージを与え、ボスが1HPと1テンションを得る。\nストック効果(1)\n次のバトルでATK-2。
+flavor=
+
+< CARD_BOSS_COOP_WATERMELON_SPLITTING >
+name=すいか割り
+descr=自身のターン終了まで、ボスはATK+5。敵にバトルを挑んでも止まらない。\nダウンさせたプレイヤー×2のテンションを得る。
+flavor=
+
+< CARD_BOSS_COOP_EXHAUSTION >
+name=もっと追い込み
+descr=1テンションを得る。\nアクティブな全プレイヤーは「疲労困憊」する。\n☆2チャプター持続\n次のダウンでREC+2。
+flavor=
+
+< CARD_BOSS_COOP_EXHAUSTED >
+name=疲労困憊
+descr=☆2チャプター持続\n次のダウンでREC+2。
+flavor=
+
+< CARD_BOSS_COOP_PUDDING_BREAK >
+name=プリンブレイク
+descr=HPを4回復する。\n2テンションを得る。
+flavor=
+
+< CARD_BOSS_COOP_HYPE_IT_UP >
+name=アゲアゲ
+descr=4テンションを得る。\n次の自ターンまで、ATK・DEF+1、EVD-1。\n被バトルダメージで1テンションを失う。\nバトルでダウンで2テンションを失う。
+flavor=
+
+< CARD_BOSS_COOP_SANDWICH_THIEVES >
+name=サンドイッチ泥棒
+descr=全プレイヤーは1~3ダメージを受ける。\nこの効果でダウンしたプレイヤーと同数のテンション得る。
+flavor=
+
+< CARD_BOSS_COOP_HYPE_MODE >
+name=ハイテンションモード
+descr=バトル時ATK+2、DEF+1。\nダウンした次のターンに復活する。
+flavor=
+
+< CARD_BOSS_COOP_RAMPAGE >
+name=暴走
+descr=テンションが0になる。\n「暴走」のストック1につき、全プレイヤーは1ダメージを受ける。\nこのターン、移動ダイスが2倍になり、敵にバトルを挑んでも止まらない。\nHPが自レベル分回復する。
+flavor=
+
+< CARD_BOSS_COOP_RAMPAGE_HYPER >
+name=暴走
+descr=テンションが0になる。\n「暴走」のストック1につき、全プレイヤーは1ダメージを受ける。\nこのターン、移動ダイスが2倍になり、敵にバトルを挑んでも止まらない。\n永続でATK+1になり、HPが自レベル分回復する。
+flavor=
+
+< CARD_BOSS_COOP_HYPE >
+name=テンション
+descr=
+flavor=
+
+< CARD_BOSS_COOP_SNACKS >
+name=スナック
+descr=ランダムなプレイヤーのHPを1回復する。
+flavor=
+
+< CARD_BOSS_COOP_SCREECH >
+name=金切り声
+descr=ボスレベルのと同数のマス圏内にいる全プレイヤーに1ダメージを与える。
+flavor=
+
+< CARD_BOSS_COOP_RAKE >
+name=熊手
+descr=1マス圏内にいる全プレイヤーにボスレベルと同数のダメージを与える。
+flavor=
+
+< CARD_BOSS_COOP_CLOUD_OF_SEAGULLS >
+name=カモメの大群
+descr=ランダムなプレイヤーに\n2ダメージを与える。
+flavor=
+
+< CARD_BOSS_COOP_RUSH >
+name=ラッシュ
+descr=ボスがランダムなプレイヤーのマスへ移動してバトルする。
+flavor=
+
+< CARD_BOSS_COOP_CHASE_AROUND >
+name=追い回し
+descr=全ユニットがランダムなパネルにワープする。
+flavor=
+
+< CARD_BOSS_COOP_QUAKE >
+name=地震
+descr=☆1チャプター持続\n全プレイヤーは移動―2。
+flavor=
+
+< CARD_BOSS_COOP_AIR_RAID >
+name=空襲
+descr=全プレイヤーに1ダメージを与える。
+flavor=
+
+< CARD_BOSS_COOP_RUSH2 >
+name=ダブルラッシュ
+descr=ボスがランダムなプレイヤーのマスへ移動してバトルする。\nその後、他のランダムなプレイヤーに対してもう一度同様の行動を取る。
+flavor=
+
+< CARD_BOSS_COOP_SWIPE >
+name=スワイプ
+descr=ランダムなプレイヤーをボスのいるマスにワープさせる。\nその後、そのプレイヤーとバトルする。
+flavor=
+
+< CARD_BOSS_COOP_HUNT >
+name=狩り
+descr=ボスの行動終了後、1マス圏内にいる全プレイヤーとランダムな順番でバトルする。
+flavor=
+
+< CARD_BOSS_COOP_FALSE_HOPE >
+name=ぬか喜び
+descr=ランダムなプレイヤーのHPを全快する。\n回復量分のダメージを他の全プレイヤーに与える。
+flavor=
+
+< CARD_BOSS_COOP_SNATCH >
+name=ひったくり
+descr=ランダムなプレイヤーが手札を1枚捨てる。\nそのカードがブーストカードなら、ボスはHPを1回復する。\nバトルカードなら、そのプレイヤーは2ダメージ受ける。
+flavor=
+
+< CARD_BOSS_COOP_AIR_STRIKE >
+name=空爆
+descr=1~3ダメージを全プレイヤーに与える。
+flavor=
+
+< CARD_BOSS_COOP_MEGA_RUSH >
+name=メガラッシュ
+descr=ランダムな順番で、ボスが各プレイヤーのマスへ移動しバトルする。
+flavor=
+
+< CARD_BOSS_COOP_FRANTIC >
+name=狂乱
+descr=ボスがランダムなマスへ3回ワープする。\n各ワープ後、ボスから2マス圏内の全プレイヤーに2ダメージを与える。
+flavor=
+
+< CARD_BOSS_COOP_WAVE_OF_DESPAIR >
+name=高まる絶望
+descr=ダウンしているプレイヤー1人につき、全プレイヤーに2ダメージを与える。
+flavor=
+
+< CARD_BOSS_COOP_AURA_OF_TERROR >
+name=恐怖のオーラ
+descr=全プレイヤーに1ダメージを与える。\nこの効果で1人でもダウンした場合、このカードの効果を繰り返す。
+flavor=
+
+< CARD_BOSS_COOP_LAUNCH >
+name=打ち上げ
+descr=ワープ以外のランダムな1マスにマークする。\n1チャプターの間、マークされたマスの2マス圏内がボスマスになる。\nボスはフィールドから離脱する。\nボスのターン開始時にフィールド上にいない時、「飛び込み」を使う。
+flavor=
+
+< CARD_BOSS_COOP_DIVE >
+name=飛び込み
+descr=マークされたマスにボスが戻る。\nマークされたマスにいる全プレイヤーがダウンする。\n2マス圏内なら、ボスレベルと同数のダメージを受ける。\nマークされたマスはダメージマスになる。\nカードを1枚引き使う。
+flavor=
+
+< CARD_BOSS_COOP_IDENTITY_CRISIS >
+name=自己認識の低下
+descr=自身に1ダメージを与え、5スターを得る。
+flavor=
+
+< CARD_BOSS_COOP_ROBO_TAX >
+name=ロボ税
+descr=ボスか手下の3マス以内の各プレイヤーは5スターを失う。\n効果を受けたプレイヤーの数だけ、ボスは5スターを得て、次のターンまでDEF+1。
+flavor=
+
+< CARD_BOSS_COOP_PLUCK >
+name=引き寄せ
+descr=同じマスにいる全ユニットに2ダメージを与える。\nボスは、効果を受けたユニットの数×10のスターを得る。
+flavor=
+
+< CARD_BOSS_COOP_CATCHER >
+name=キャッチャー
+descr=ランダムなプレイヤーがカードを1枚捨て、1枚引く。\n引いたカードのレベル×5のスターを得る。
+flavor=
+
+< CARD_BOSS_COOP_POPPO_MARCH >
+name=ぽっぽ行進
+descr=フィールド上のボスと全手下にストック効果(1)。\n次のバトルでEVD+2。\nボスは20スターを得る。
+flavor=
+
+< CARD_BOSS_COOP_PREMIUM_REGENERATION >
+name=割増回復
+descr=全ユニットのHPが1回復する。\nボスは20スターを得る。
+flavor=
+
+< CARD_BOSS_COOP_WIRELESS_CHICKEN >
+name=ワイヤレスにわとり
+descr=ボスのHPが50％未満のとき、ボスと各手下は、ボスのターン終了までATK+2となり、1マス以内の各プレイヤーに攻撃する。\n効果を受けたプレイヤーの数×10のスターを得る。
+flavor=
+
+< CARD_BOSS_COOP_ROPO_BARRAGE >
+name=ロポ集中砲火
+descr=★コスト：30スター\n☆永続\nランダムなプレイヤーが1ダメージを受ける。\nボスの各ターン開始時に、効果が発動し、1ユニットがダウンするまで続く。\nコストが支払えない場合、代わりに60スターを得る。
+flavor=
+
+< CARD_BOSS_COOP_DELUSIONAL_NUMBERS >
+name=幻の数字
+descr=★コスト：20スター\n☆1チャプター持続\nボスがダイスを振ると、0か7が出る。\n0が出たとき、出目の最小値は0となる。\nコストが支払えない場合、代わりに40スターを得る。
+flavor=
+
+< CARD_BOSS_COOP_SECOND_WING2 >
+name=セカンドウィング
+descr=ボスと全手下はボスのレベル分だけHPが回復する。\n回復分×2のスターを奪う。
+flavor=
+
+< CARD_BOSS_COOP_PO_BOMBER >
+name=ぽぼんばー
+descr=★コスト：爆弾1つにつき5スター\n「不可視の爆弾」を2~3枚、\nランダムなマスにセットする。
+flavor=
+
+< CARD_BOSS_COOP_PO_BOMBER_TRAP >
+name=不可視の爆弾
+descr=HPが1になる。\nボスとその手下には効果はない。
+flavor=
+
+< CARD_BOSS_COOP_POPPO_UNIVERSE >
+name=ぽっぽゆにばーす
+descr=★コスト：50スター\nボスの所持スター50ごとに、ボスか手下の3マス以内にいない全プレイヤーに1ダメージを与える。\nコスタが支払えない場合、代わりに100スターを得る。
+flavor=
+
+< CARD_BOSS_COOP_POPPOCARE >
+name=ぽっぽけあ
+descr=ダウンしている全プレイヤーをHP1で復活させる。\n順不同で各プレイヤーのマスへ移動しバトルする。\nダウンさせたプレイヤーの数×30のスターを得る。
+flavor=
+
+< CARD_BOSS_COOP_REFINED_TALONS >
+name=整った鉤爪
+descr=★コスト：50スター\nHPが最低のプレイヤーのHP分のダメージを、そのプレイヤーと他のランダムなプレイヤーに与える。\nコストが支払えない時、代わりに100スターを得る。
+flavor=
+
+< CARD_BOSS_COOP_BEAK_OF_DEMIBIRD >
+name=半鳥のくちばし
+descr=ボスのターン終了まで、ATK+2。\n2マス以内の全プレイヤーを、HPの低い順に攻撃する。\nダウンさせたプレイヤーの数だけ+100スターを得る。
+flavor=
+
+< CARD_BOSS_COOP_TURBO_CHICKEN >
+name=ターボにわとり
+descr=自身のターン終了まで、移動ダイス+1になり、敵にバトルを挑んでも止まらない。ターン終了までにバトルしたプレイヤー1人につき、ATk+1と25スターを得る。
+flavor=
+
+< CARD_BOSS_COOP_BIG_PO_SPECIAL >
+name=びっぐぽっぽすぺしゃる
+descr=★コスト：100スター\nストック効果(2)\nボスのターン開始時、ランダムなプレイヤーがボスのレベル分のダメージを受ける。\nコストが支払えない場合、代わりに200スターを得る。
+flavor=
+
+< CARD_BOSS_COOP_BALANCE_CURRENCY >
+name=残高調整
+descr=各プレイヤーからATKのプラス補正分のスターを奪う。\nまた、各プレイヤーにATKのマイナス補正分のスターを与える。
+flavor=
+
+< CARD_BOSS_COOP_ROOST_BOOST >
+name=止まり木ブースト
+descr=にわとりの手下がいない場合、ボスと同じマスに手下を1羽召喚する。
+flavor=
+
+< CARD_BOSS_COOP_ROOST_BOOST_HYPER >
+name=止まり木ブースト
+descr=にわとりの手下が1羽以下の場合、ボスと同じマスに手下を1羽召喚する。
+flavor=
+
+< CARD_BOSS_COOP_PO_TECT >
+name=ぽーてくと
+descr=★コスト：20スター\nストック効果(ボスのレベル)\n1ストックを消費し、最大2までの被ダメージを1にする。\nストックが切れた時、3チャプターの間DEF・EVD・移動-1。
+flavor=
+
+< CARD_BOSS_COOP_FLOAT >
+name=浮遊
+descr=効果なし。
+flavor=
+
+< CARD_BOSS_COOP_WHIRL >
+name=渦
+descr=手下がいるマスからボスのレベルと同数のマス圏内にいる各プレイヤーはランダムなマスにワープする。
+flavor=
+
+< CARD_BOSS_COOP_BUBBLE_BATH >
+name=泡風呂
+descr=ランダムな手下のHPを1回復する。
+flavor=
+
+< CARD_BOSS_COOP_ENTRY_FEE >
+name=入場料
+descr=手下のマスから2マス圏内にいる各プレイヤーはボスのレベルと同数のスターを失う。
+flavor=
+
+< CARD_BOSS_COOP_GULP_OF_WATER >
+name=水をゴクゴク
+descr=ランダムなプレイヤーに2ダメージ与える。
+flavor=
+
+< CARD_BOSS_COOP_COACHING >
+name=コーチング
+descr=チャプター終了まで、全手下はATK+1。
+flavor=
+
+< CARD_BOSS_COOP_CONFISCATE >
+name=没収
+descr=アクティブな手下と同じマスにいるアクティブな各プレイヤーはカードを1枚捨てる。
+flavor=
+
+< CARD_BOSS_COOP_SHOCK >
+name=衝撃
+descr=各手下は、自身のいるマスからボスのレベルと同数のマス圏内にいる各プレイヤーに1ダメージ与える。
+flavor=
+
+< CARD_BOSS_COOP_GO_FASTER >
+name=もっと速く！
+descr=☆2チャプター持続\nスイミングリンガーはATK・MOV+2。
+flavor=
+
+< CARD_BOSS_COOP_RESPITE >
+name=ちょっと休憩
+descr=各ゴールポストが、自身から2マス圏内にいる各ユニットのHPを1回復させる。
+flavor=
+
+< CARD_BOSS_COOP_PACE_UP >
+name=ペースアップ
+descr=☆3チャプター持続\nすべての手下はATK+1・EVD-1。
+flavor=
+
+< CARD_BOSS_COOP_HUSTLE >
+name=ハッスル
+descr=各ブイは、自身と同じマスにいるランダムなプレイヤーに5ダメージ与える。
+flavor=
+
+< CARD_BOSS_COOP_MOTIVATE >
+name=やる気アップ
+descr=ランダムなプレイヤー1人が、アクティブなブイと同数のダメージを受ける。
+flavor=
+
+< CARD_BOSS_COOP_TROPICAL_CYCLONE >
+name=熱帯低気圧
+descr=各手下は非ワープマスにマークする。1チャプター後、各手下は自身がマークしたマスにワープし、2マス圏内にいる各プレイヤーにボスのレベルと同数のダメージを与える。
+flavor=
+
+< CARD_BOSS_COOP_BUTTERFLY >
+name=蝶
+descr=☆2チャプター持続\nすべての手下はATK+2・MOV+1。
+flavor=
+
+< CARD_BOSS_COOP_ZAP >
+name=俊敏
+descr=チャプター終了まで、スイミングリンガーはATK・MOV+3。
+flavor=
+
+< CARD_BOSS_COOP_ENCOURAGE >
+name=はげまし
+descr=バルーンジャークが、自身がいる最短半径内にいるランダムなプレイヤーのマスへ移動しバトルする。このバトルの間、バルーンジャークはATK+3。プレイヤーがダウンした場合、次に近いプレイヤーに対して同様の行動をとる。
+flavor=
+
+< CARD_BOSS_COOP_MOVING_GOALPOST >
+name=ブイ移動
+descr=各バルーンジャークとスイミングリンガーは、自身から2マス以内にいる全プレイヤーに、手下のブイの数だけダメージを与える。
+flavor=
+
+< CARD_BOSS_COOP_GOALPOST >
+name=ブイ
+descr=フィールド上のブイが4体以下のとき、ブイを1体召喚し、2ダメージ受ける。移動せず、回避しない。ダメージ量が1の攻撃でしかダメージを受けない。
+flavor=
+
+< CARD_BOSS_COOP_BALLOON_JERK >
+name=バルーンジャーク
+descr=フィールド上に手下のバルーンジャークがいないとき、バルーンジャーク1体を召喚し12ダメージ受ける。
+flavor=
+
+< CARD_BOSS_COOP_SWIMMING_RINGER >
+name=スイミングリンガー
+descr=MOV-1。フィールド上にいるスイミングリンガーが1体以下のとき、スイミングリンガーを1体召喚し6ダメージ受ける。
+flavor=
+
+< CARD_BOSS_COOP_HOME_SWEEPER >
+name=お家掃除人
+descr=ゲーム終了まで、全プレイヤーのホームマスが取り除かれる。
+flavor=
+
+
+
+< CARD_HYPER_COOP_CLASS_ATTACKER >
+name=炎天下の最終兵器
+descr=次のバトル中\n攻撃のたびに与ダメージ+3。
+flavor=「バカンス始めます」 ―ソラ
+
+< CARD_HYPER_COOP_CLASS_GUARDIAN >
+name=白い砂浜の再生者
+descr=全味方に以下のストック効果(1)。\n次のバトルでの被ダメージ-2。
+flavor=「はしゃぎすぎだよ　まったく」 ―スグリ
+
+< CARD_HYPER_COOP_CLASS_SUPPORT >
+name=咲き誇る花の守り神
+descr=ダウンした味方1人を\nHP全快で復活させる。
+flavor=「大丈夫よ　ほら痛くない」 ―ヒメ
+
+< CARD_HYPER_COOP_CLASS_AVENGER >
+name=執念深き復讐者
+descr=☆3チャプター持続\nバトルダウン時、\nHP全快で復活する。
+flavor=「みみゅう！ 誰がこんな酷いことを…」 ―トマト
+
+< CARD_HYPER_COOP_CLASS_DEALER >
+name=サマーゲーム
+descr=ストック効果\n次に止まるマスを2倍ドローマスとして扱う。
+flavor=
+
+
+< CARD_SKILL_COOP_ADVANTAGE >
+name=優勢
+descr=ボスとのバトルで常に先攻
+flavor=
+
+< CARD_SKILL_COOP_RECOVERYDOWN >
+name=復活低下
+descr=ノルマ1：REC+1
+flavor=
+
+< CARD_SKILL_COOP_ATTACKBOOST >
+name=攻撃上昇
+descr=ノルマ2：ATK+1\nノルマ4：ATK+2
+flavor=
+
+< CARD_SKILL_COOP_FURY >
+name=憤怒
+descr=各攻撃の与ダメージ+1\nクールダウン：6チャプター
+flavor=
+
+< CARD_SKILL_COOP_PROTECT >
+name=保護
+descr=対象の被ダメージを最大-2\nクールダウン：1チャプター
+flavor=
+
+< CARD_SKILL_COOP_IRONDEFENSE >
+name=鉄壁
+descr=このバトルでの防御時、被ダメージが最小で0になる。\nクールダウン：3チャプター
+flavor=
+
+< CARD_SKILL_COOP_DEFENSEBOOST >
+name=防御上昇
+descr=ノルマ2：DEF+1\nノルマ4：DEF+2
+flavor=
+
+< CARD_SKILL_COOP_GUARDIANSPIRIT >
+name=守護神
+descr=全味方に以下のストック効果(1)\n☆2チャプター持続\n被バトルダメージ-1\nクールダウン：8チャプター
+flavor=
+
+< CARD_SKILL_COOP_MOVEMENTBOOST >
+name=移動上昇
+descr=ノルマ2：移動+1\nノルマ4：移動+2
+flavor=
+
+< CARD_SKILL_COOP_HEAL >
+name=回復
+descr=同じマスに入ったとき\n味方のHPを1回復
+flavor=
+
+< CARD_SKILL_COOP_REVIVE >
+name=蘇生
+descr=同じマスに入ったとき、\n残りのREC値×3のスターを\n支払うことで、味方を復活
+flavor=
+
+< CARD_SKILL_COOP_EVASIONBOOST >
+name=回避上昇
+descr=ノルマ3：EVD+1
+flavor=
+
+< CARD_SKILL_COOP_RESTORINGLIGHT >
+name=復元光
+descr=ダウンした味方をHPが50%回復した状態で復活\nクールダウン：8チャプター
+flavor=
+
+< CARD_SKILL_COOP_HEALTHBOOST >
+name=体力上昇
+descr=ノルマ2：最大HP+1\nノルマ4：最大HP+2
+flavor=
+
+< CARD_SKILL_COOP_AVENGER >
+name=復讐者
+descr=バトルで失った1HPごとに\nATK+1
+flavor=
+
+< CARD_SKILL_COOP_RECOVERY >
+name=リカバリ
+descr=ノルマ3：REC-1
+flavor=
+
+< CARD_SKILL_COOP_FROMBEYOND >
+name=あの世から
+descr=☆2チャプター持続\nバトルダウン時、\nHP3で復活\nクールダウン：8チャプター
+flavor=
+
+< CARD_SKILL_COOP_HANDBOOST >
+name=手札強化
+descr=ノルマ2で最大手札+1\nノルマ4で最大手札+2 (上限：5)
+flavor=
+
+< CARD_SKILL_COOP_DEAL >
+name=分配
+descr=手札が3枚以上のとき、任意のカード1枚を対象プレイヤーに渡す
+flavor=
+
+< CARD_SKILL_COOP_SUPPLY >
+name=補給
+descr=カードを引く度に更に1枚引く
+flavor=
+
+< CARD_SKILL_COOP_DEALER_HEALTHBOOST >
+name=HP強化
+descr=ノルマ3で最大HP+1
+flavor=
+
+< CARD_SKILL_COOP_DEMAND >
+name=需要
+descr=次に止まるマスをドローマスとして扱う\nクールダウン：6チャプター
+flavor=

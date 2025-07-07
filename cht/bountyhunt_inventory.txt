@@ -1,0 +1,128 @@
+< INVENTORY_MEDICINALHERB >
+name=藥草
+descr=帶有治療效果的藥草。\n旅店店主需要用它來創作新菜色。
+
+< INVENTORY_TURNISLIME >
+name=蕪萊姆粘液
+descr=曾是蕪萊姆的一部分。\n旅店店主需要用它來調配靈藥。
+
+< INVENTORY_CHILLINGWIND >
+name=袋裝寒風
+descr=填滿刺骨寒風的袋子。\n要是不小心點的話，它會把手瞬間凍成冰塊。\n空之糕點師需要用它來製作冰淇淋。
+
+< INVENTORY_FLOUR >
+name=無盡麵粉
+descr=一袋永不見底的麵粉。它到底有些什麼奧秘呢？\n星之糕點師需要用它來烹飪甜點。
+
+< INVENTORY_BROKENBLADE >
+name=斷劍
+descr=死者留下的殘破武器。\n鐵匠需要用它來製作切割工具。
+
+< INVENTORY_TROLLITEHORN >
+name=小巨魔角
+descr=小巨魔換下來的角。\n它總是會使周圍陷入麻煩。\n鐵匠需要用它來製作廚具。
+
+< INVENTORY_MISTYSAP >
+name=迷霧樹液
+descr=樹裡流出的汁液。很甜。\n旅店店主需要用它來調製甜品。
+
+< INVENTORY_CACTUS >
+name=仙人掌
+descr=沙漠裡的仙人掌，裡面含有水份。\n鐵匠想要飲用裡面的汁液。
+
+< INVENTORY_GOST >
+name=阿鬼的靈魂
+descr=被打敗的調皮鬼魂。\n鍊金術士需要用它來做些可以食用的東西。
+
+< INVENTORY_WOLLY >
+name=絨絨奶
+descr=絨絨產出的鮮奶。\n空之糕點師需要用它來製作麵包。
+
+< INVENTORY_BUCKET >
+name=空桶
+descr=可以拿來裝各種東西的空桶。
+
+< INVENTORY_HEATGLOVES >
+name=隔熱手套
+descr=能夠幫你抵禦極度高溫的手套。
+
+< INVENTORY_GLOBBU >
+name=火泡
+descr=喜歡讓人置身火海的熔岩搗蛋鬼。\n鍊金術士需要用它來作為熱源。
+
+< INVENTORY_SANDALS >
+name=木屐
+descr=一雙隨處可見的鞋子，它能在跑步時保護雙腳。\nMOV+1。
+
+< INVENTORY_LEATHERBOOTS >
+name=皮靴
+descr=知名皮匠的最新作，普通涼鞋和鞋子的完美替代品。\nMOV+2。
+
+< INVENTORY_GALESHOES >
+name=疾風之靴
+descr=蘊含了強大的魔法。只要穿上它，怎麼跑都不會累。\nMOV+2，持有不超過2張契約時額外+1。
+
+< INVENTORY_CURSEDSHOES >
+name=附魔疾風之靴
+descr=MOV+4，只能持有1張契約。
+
+// Winter 2020 Event Special Item
+< INVENTORY_DELICACY >
+name=好吃的東西
+descr=給庫克的美味小食。每場遊戲最多能收集3個。
+
+< INVENTORY_ATK1 >
+name=曲奇
+descr=使用時獲得ATK+1，效果持續2場戰鬥。\n相同效果無法疊加（後使用的為準）。
+
+< INVENTORY_ATK2 >
+name=瑪芬
+descr=使用時獲得ATK+2，效果持續2場戰鬥。\n相同效果無法疊加（後使用的為準）。
+
+< INVENTORY_ATK3 >
+name=糕點
+descr=使用時獲得ATK+3，效果持續2場戰鬥。\n相同效果無法疊加（後使用的為準）。
+
+< INVENTORY_DEF1 >
+name=糖果
+descr=使用時獲得DEF+1，效果持續2場戰鬥。\n相同效果無法疊加（後使用的為準）。
+
+< INVENTORY_DEF2 >
+name=焦糖糖果
+descr=使用時獲得DEF+2，效果持續2場戰鬥。\n相同效果無法疊加（後使用的為準）。
+
+< INVENTORY_DEF3 >
+name=巧克力
+descr=使用時獲得DEF+3，效果持續2場戰鬥。\n相同效果無法疊加（後使用的為準）。
+
+< INVENTORY_EVD1 >
+name=冰淇淋
+descr=使用時獲得EVD+1，效果持續2場戰鬥。\n相同效果無法疊加（後使用的為準）。
+
+< INVENTORY_EVD2 >
+name=雪葩
+descr=使用時獲得EVD+2，效果持續2場戰鬥。\n相同效果無法疊加（後使用的為準）。
+
+< INVENTORY_EVD3 >
+name=意式冰淇淋
+descr=使用時獲得EVD+3，效果持續2場戰鬥。\n相同效果無法疊加（後使用的為準）。
+
+< INVENTORY_ASSASSINBADGE >
+name=刺客的徽章
+descr=由嫻熟刺客組成的公會所使用的成員憑證。\n持有者可通過襲擊其他玩家而獲得獎勵。
+
+< INVENTORY_ELIXIR >
+name=靈藥
+descr=使用時恢復所有HP。\n同時消除入侵者造成的狀態效果與手中契約的\n詛咒。
+
+< INVENTORY_HARBINGERSHIELD >
+name=無畏之盾
+descr=擊敗噩兆的證明。\n裝備這面盾牌能夠增強勇氣，所有受到的\n戰鬥傷害減少1點。
+
+< INVENTORY_ROGUEBLADE >
+name=盜賊雙刃
+descr=擊敗迷失盜賊的證明。\n裝備這兩把刀能夠獲得20%的暴擊率。（暴擊\n會使攻擊骰結果翻倍）
+
+< INVENTORY_DARKCHOCOMOUSSE >
+name=黑巧克力星星
+descr=擊敗黑巧克力嘮鼠的證明。\n它神秘的力量與甜美的滋味會使你每造成1點\n戰鬥傷害時獲得3顆STAR，同時對方也會\n在每受到1點戰鬥傷害時失去3顆STAR。

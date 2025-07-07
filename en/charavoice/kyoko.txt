@@ -1,0 +1,156 @@
+<0000> Okay.
+<0001> Here.
+<0002> There.
+<0003> *Sigh*...
+<0004> I suppose I'll go with this.
+<0005> I'm playing this card.
+<0006> What a hassle.
+<0007> I'll use a card.
+<0008> Here's a trap.
+<0009> I'm setting this here.
+<0010> I wonder if anyone will fall into this.
+<0011> This seems like a good trap spot.
+<0012> This will make things easier for me.
+<0013> It's time to reverse the situation.
+<0014> Losing would be troublesome... so.
+<0015> Here, I'm going to use this.
+<0016> Barrier.
+<0017> *Tsk*... What a drag.
+<0018> I have so much dust on my clothes.
+<0019> Don't forget about my fragile health.
+<0020> I suppose I'll go get some more work done.
+<0021> I'm sick of being in bad shape.
+<0022> This is a great annoyance.
+<0023> I don't want to push myself.
+<0024> Ugh...
+<0025> I'm not a good attacker, though.
+<0026> A good chance to strike.
+<0027> Crystal.
+<0028> My apologies.
+<0029> Ugh...
+<0030> Why make this a bigger struggle for me?
+<0031> Guh.
+<0032> Argh.
+<0033> I feel a little better now.
+<0034> I like this.
+<0035> I shouldn't try too hard.
+<0036> I take this... to mean that I have to work more.
+<0037> Warp?
+<0038> Where will you send me over?
+<0039> This isn't a safe way of traveling.
+<0040> Don't shock me like this.
+<0041> I can take a breather... it seems.
+<0042> For goodness' sake...
+<0043> I'm such a piece of junk.
+<0044> *Tsk*... This is too much of a hassle.
+<0045> I suggest you put your guard up.
+<0046> I'll come at you.
+<0047> I won't miss a chance to beat my enemies.
+<0048> You're completely open to attack.
+<0049> I'm very confident in my defense.
+<0050> I'm not easy to damage.
+<0051> Let's see if you can destroy my barrier.
+<0052> Your attack won't make it through to me.
+<0053> Make a crystal and throw it...
+<0054> I'll show you my crystal.
+<0055> This will pierce you.
+<0056> This will stab you painfully.
+<0057> Ugh.
+<0058> Guh.
+<0059> Auh.
+<0060> Uu...
+<0061> Guh, what a drag.
+<0062> Go easy on me.
+<0063> Unbelievable.
+<0064> My body won't make it.
+<0065> Thank goodness, it worked out.
+<0066> Let's not be too reckless, you and I.
+<0067> You should stay put for some time.
+<0068> Phew, I somehow managed to win.
+<0069> You defeated me.
+<0070> This is as far as I could get...
+<0071> My body... It's so useless.
+<0072> I went overboard.
+<0073> I'll take these.
+<0074> I need to gather these, don't I?
+<0075> I'll make the most of these.
+<0076> What a pleasure.
+<0077> I dropped some of them.
+<0078> I lost some of them.
+<0079> Oh dear...
+<0080> I was careless.
+<0081> A trap...?
+<0082> I can't believe I fell into something like this.
+<0083> Well set.
+<0084> The trap caught me.
+<0085> I have a bad feeling.
+<0086> Here comes a nuisance.
+<0087> I'd rather stay away from that.
+<0088> Dealing with that will be so much work.
+<0089> This option seems easier than the other one.
+<0090> I hope I can get many of them easily.
+<0091> I'm supposed to gather stars, aren't I?
+<0092> I'll gather stars.
+<0093> *Sigh*... I have no choice.
+<0094> I'm not an aggressive attacker, but...
+<0095> Beating them seems to be the only choice for me.
+<0096> If fighting is the only way left for me...
+<0097> I'm Kyoko.
+<0098> Me? I don't mind hanging out with you for a bit.
+<0099> What an annoyance.
+<0100> I should probably get in some exercise once in a while.
+<0101> Let's get this over with.
+<0102> How should I move?
+<0103> It started.
+<0104> I'll do the best I can.
+<0105> It turned out better than I thought.
+<0106> Surprisingly enough, I won.
+<0107> I won the game? Okay.
+<0108> It's not bad, doing this sort of thing every once in a while.
+<0109> Make sure not to spend too much.
+<0110> Did you get what you wanted?
+<0111> Good for you.
+<0112> Is that thing useful?
+<0113> I'd like you to take my place.
+<0114> Would you mind switching?
+<0115> Let me have some rest.
+<0116> I'll leave the rest to you.
+<0117> Good.
+<0118> Nice.
+<0119> Yes.
+<0120> No.
+<0121> That's too bad.
+<0122> Good for you.
+<0123> Oh?
+<0124> Let's go, shall we?
+<0125> Go ahead and throw the dice.
+<0126> Now.
+<0127> Hello.
+<0128> Hm...
+<0129> Well done.
+<0130> That's astonishing.
+<0131> Don't do that.
+<0132> I'm unfamiliar with this... I'm worried.
+<0133> I don't know whose this is, but allow me to use it.
+<0134> This is a nice find.
+<0135> What if I play this one?
+<0136> Hm... It seems he's out here now.
+<0137> *Sigh*... This'll be a hard fight for me.
+<0138> I just want him to stay still forever.
+<0139> Aw, jeez... He's such a piece of work.
+<0140> Are you...
+<0141> I don't really wanna be around you.
+<0142> Hopefully we'll never see each other again.
+<0143> You're hard for me to fight...  Really.
+<0144> Why are you here...!
+<0145> I'll reduce you to a head again.
+<0146> You're disgusting...
+<0147> You look better as a head.
+<0148> I don't believe I lost to you of all others.
+<0149> This is a nightmare... The worst nightmare ever.
+<0150> Iru, I think you should act more calmly.
+<0151> How are your bits?
+<0152> You look like you're having fun... That's good.
+<0153> You look... well. I have nothing to say if you're keeping healthy.
+<0154> That's nothing to me.
+<0155> You're not powerful enough to break my crystal.

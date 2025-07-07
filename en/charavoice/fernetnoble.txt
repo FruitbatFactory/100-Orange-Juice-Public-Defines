@@ -1,0 +1,161 @@
+<0000> This is how you do it.
+<0001> This is the way.
+<0002> Hmph!
+<0003> Let's play the odds.
+<0004> This is how I do things.
+<0005> It's a good opportunity.
+<0006> This is the play.
+<0007> How do you like this?
+<0008> Call me underhanded if you wish.
+<0009> I'm not above a little mischief.
+<0010> O-hoho, this will be amusing to see.
+<0011> No one seems to be looking... there!
+<0012> I've chosen this card.
+<0013> Please don't be too surprised over this.
+<0014> I hope you were prepared for at least this much.
+<0015> I'll shift the odds in my favor a little.
+<0016> Do you not know who you're talking to?
+<0017> Good grief...
+<0018> What a waste of time that was.
+<0019> Good things come to those who wait.
+<0020> Let's readjust and go again.
+<0021> Patience... patience...
+<0022> Ahh, what an annoyance!
+<0023> What gives!?
+<0024> I've got no time to waste on this!
+<0025> I believe this belongs to you.
+<0026> I hope you don't mind.
+<0027> En garde!
+<0028> It's nothing personal.
+<0029> Ouch...
+<0030> What was that for?!
+<0031> That smarts!
+<0032> Ow...
+<0033> How pleasant.
+<0034> Well done. You have my thanks.
+<0035> Excellent service.
+<0036> Phaa... so nice.
+<0037> If I close my eyes, this is nothing...
+<0038> Focus, focus...!
+<0039> Compass, compass... alright, got it.
+<0040> Hmph, a little warp? No problem!
+<0041> My! My my my!
+<0042> I! Do not! Approve!
+<0043> Ahh, today really isn't my day...
+<0044> Geez! Nothing seems to be working out today.
+<0045> I hope you are prepared.
+<0046> Do you mind? You're in the way.
+<0047> The door is that way.
+<0048> I have a few things to say to you.
+<0049> I am so not in the mood for this.
+<0050> How boorish.
+<0051> A bold move, to be sure.
+<0052> Have you made an appointment with my butler?
+<0053> Oh my, oh my.
+<0054> Pardon me.
+<0055> Hum di dum~
+<0056> There!
+<0057> Whoopsie.
+<0058> Owie.
+<0059> That's not very nice.
+<0060> Oh my!
+<0061> Ow-ow-ow...
+<0062> Ouchie!
+<0063> Well, I'll be!
+<0064> Gueh!
+<0065> I can do it when I need to!
+<0066> Whatever was all that about?
+<0067> Hardly a problem.
+<0068> Just a light dance exercise.
+<0069> How about you just stay down?
+<0070> You were asking for that.
+<0071> O-ho-ho! That's all?
+<0072> My my, that was just too easy.
+<0073> I shall remember this!
+<0074> I'll make sure to return the favor!
+<0075> You have... no idea what you're in for...
+<0076> I will make you rue the day you thought of this.
+<0077> How nice.
+<0078> A most wonderful present.
+<0079> I'll put these to good use.
+<0080> I can tell today's going to be a good day.
+<0081> Oh... well, I'll manage.
+<0082> This is a bit of an incovenience.
+<0083> How unfortunate...
+<0084> I need to have a word with the tax collector...
+<0085> Ahh, what a blunder!
+<0086> Not like this!
+<0087> Ueh?
+<0088> I fell for it again...
+<0089> Oh my. A tough one, I suppose?
+<0090> My my. What shall I do?
+<0091> This might be a little bit challenging...
+<0092> Hmph. You don't scare me.
+<0093> Collecting these should prove no problem.
+<0094> This seems like the easiest course of action.
+<0095> It's only sensible, after all.
+<0096> This will be my path to victory.
+<0097> Well, sometimes I need to get my hands dirty.
+<0098> Needs must when the devil drives.
+<0099> I'm not above a little horseplay.
+<0100> Don't worry, I know how the world works.
+<0101> I play to win. Don't let me down!
+<0102> I am Fernet. You'd best remember it.
+<0103> The pleasure is all mine.
+<0104> I'm fully prepared.
+<0105> It's time for me to make my debut.
+<0106> Let's make a flashy entrance.
+<0107> I should scout out the battlefield.
+<0108> This game will be mine, obviously.
+<0109> Hmph, that was a given.
+<0110> Yes!!! I di- *Cough*, I mean, just like planned.
+<0111> O-ho-ho! A perfect game, if I say so myself.
+<0112> Another day, another victory.
+<0113> How splendid.
+<0114> This looks passable.
+<0115> Quite a fine find.
+<0116> How marvelous!
+<0117> How about you take care of this mess?
+<0118> *Yawn*, pardon me.
+<0119> I trust you can handle this.
+<0120> This won't be a problem for you, will it?
+<0121> Very well.
+<0122> Excellent.
+<0123> Alright.
+<0124> No way.
+<0125> Oh well, these things happen.
+<0126> How fortuitous.
+<0127> My my?
+<0128> Let's proceed.
+<0129> Let's try our luck.
+<0130> Go!
+<0131> Why, pleased to meet you.
+<0132> Hmmmmh...
+<0133> Perfect!
+<0134> Truly amazing!
+<0135> Ahhh... this is the worst!
+<0136> Why have connections if you never use them?
+<0137> This is just a little trick I picked up.
+<0138> Boldness is called for here.
+<0139> What a curious contraption. Let's find out what it does.
+<0140> You have my gratitude.
+<0141> It's best to start out by making connections.
+<0142> There are few doors money doesn't open.
+<0143> I will make them come begging to me.
+<0144> I pity the fool who would oppose me.
+<0145> A clever investment will always bear fruit.
+<0146> You are all cordially invited to my debut. Be grateful!
+<0147> Why, it is no more than my right.
+<0148> Isn't that sword too heavy to carry around?
+<0149> Don't worry, I'm just borrowing this for a little bit. Someone deserves a lesson.
+<0150> Why hello, it's been a while. How have you been?
+<0151> I've been looking forward to your visit.
+<0152> You may stay the night if you insist. I'll have my butler prepare a room.
+<0153> Already in a hurry? Geez, it can't be helped.
+<0154> If only things were always this simple in life.
+<0155> I have great respect for your intellect. I'd prefer to make an ally of you, but if not...
+<0156> That's an interesting clothing design. Let me take some notes.
+<0157> You simply lack the means to stand any chance against me.
+<0158> How dare this stupid beast?!
+<0159> You may take care of the physical work. I don't want my dress to get dirty.
+<0160> What kind of costume is that supposed to be? How daring...

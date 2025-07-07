@@ -1,0 +1,760 @@
+< CARD_DASH_EFFECT >
+name=Impulso!
+descr=Jogue dois dados para movimento.
+
+< CARD_FLIPOUT_EFFECT >
+name=Frustração
+descr=Na próxima vez que sua personagem parar em um painel de perda, o(s) jogador(es) com a maior quantidade de estrelas vai(vão) perder a mesma quantidade de estrelas que você.
+
+< CARD_NICEJINGLE_EFFECT >
+name=Bônus Natalino
+descr=O próximo painel de bônus lhe dará o dobro de estrelas.
+
+< CARD_EXTEND_EFFECT >
+name=Vida Extra
+descr=Após ser nocauteado, você irá reviver no próximo turno.
+
+< CARD_STIFFCRYSTAL_EFFECT >
+name=Cristal Resistente
+descr=Negue os efeitos de uma carta armadilha. Ganhe 5 estrelas por nível da armadilha cancelada.
+
+< CARD_DANGEROUSPUDDING_EFFECT >
+name=Pudim Perigoso
+descr=Seu próximo turno será pulado.
+
+< CARD_HEAT300_EFFECT >
+name=Aquecimento de 300%
+descr=Aplique -2 ao atributo de Defesa.
+
+< CARD_SUPERALLOUTMODE_EFFECT >
+name=Modo de Super Impulso!
+descr=Ganhe +2 de Ataque em sua próxima batalha.
+
+< CARD_PROTAGONISTPRIVILEGE_EFFECT >
+name=Privilégio do Protagonista
+descr=Quando for permitido que você ataque primeiro, seu oponente não poderá contra-atacar (Uma vez por combate).
+
+< CARD_ACCELERATOR_EFFECT >
+name=Acelerador
+descr=Jogue dois dados para movimento, batalha, bônus e perda.
+
+< CARD_BINDINGCHAIN_EFFECT >
+name=Correntes Desabilitadoras
+descr=Todas as unidades com exceção da sua pularão seu próximo turno.
+
+< CARD_EXTRAORDINARYSPECS_EFFECT >
+name=Especialidades Extraordinárias
+descr=Sua unidade terá 6 garantido no dado para movimento, batalha, bônus e perda.
+
+< CARD_MAGICALMASSACRE_EFFECT >
+name=Massacre Mágico
+descr=Ganhe -1 para a próxima jogada de Reanimar para cada unidade nocauteada.
+
+< CARD_CASTOFF_EFFECT >
+name=Libertar-se
+descr=Troque entre o Ataque e Defesa base da unidade. Dura até o nocaute, ou até Libertar-se ser usada novamente.
+
+< CARD_LONGEAREDBEASTS_EFFECT >
+name=Dancem, Criaturas Orelhudas!
+descr=Durante a próxima batalha, Ataque -2.
+
+< CARD_BLAZING_EFFECT >
+name=Ardente!
+descr=ATK +1, DEF -1. O efeito expira no nocaute.
+
+< CARD_SEALEDMEMORIES_EFFECT >
+name=Dissolvendo Memórias
+descr=Inverta todas as cartas dos oponentes.
+
+< CARD_SELFDESTRUCT_EFFECT >
+name=Auto-Destruição
+descr=Ganhe +1 ATK para cada estoque.
+
+< CARD_CRYSTALBARRIER_EFFECT >
+name=Barreira de Cristal
+descr=Cancele uma armadilha, batalha ou painel de perda. Receba 1 de dano. Consome 1 carga. Efeito expira ao ser nocauteado.
+
+< CARD_DELTAFIELD_EFFECT >
+name=Campo Delta
+descr=Todos os valores dos dados serão 1.
+
+< CARD_WHIMSICALWINDMILL_EFFECT >
+name=Ventania das Rosas
+descr=Durante a batalha, ganhe Evasão +1.
+
+< CARD_HYPER_ARUSCRAMBLE_EFFECT >
+name=O Presente de Santa
+descr=A Unidade não pode desafiar outros para batalhar.
+
+< CARD_HYPER_SORAMILITARY_EFFECT >
+name=Despertar do Talento
+descr=Até o fim do turno, tenha 5 garantido no dado para movimentação, batalha, bônus ou perda.
+
+< CARD_JONATHANRUSH_EFFECT >
+name=Investida de Jonathan
+descr=Ganhe -1 Defesa durante as batalhas.
+
+< CARD_TURBOCHARGED_EFFECT >
+name=Turbo
+descr=Ganhe +1 ataque para cada estoque. Efeito expira ao ser nocauteado.
+
+< CARD_IMMOVABLEOBJECT_EFFECT >
+name=Objeto Imóvel
+descr=Ganhe +2 Defesa. Pode contra-atacar.\nNão pode se mover e Inimigos que se moverem pelo seu painel atual são obrigados a batalhar com você.
+
+< CARD_GOLDENEGG_CHICKEN_EFFECT >
+name=Ovo Dourado
+descr=Painéis de Perda vão funcionar como Painéis de Bônus.
+
+< CARD_GOLDENEGG_NOTCHICKEN_EFFECT >
+name=Ovo Dourado
+descr=Painéis de Bônus vão funcionar como Painéis de Perda.
+
+< CARD_NATH_EFFECT >
+name=Extensão Ativa
+descr=Para cada estoque, ganhe +1 em ATK/DEF e -1 em EVD.
+
+< CARD_NONAME_EFFECT >
+name=Cabeça no Vaso
+descr=Atributos base mudam para -1 ATK/DEF/EVD. Removido ao reviver ou ao alcançar um painél de casa.
+
+< CARD_AMPATK_EFFECT >
+name=Buff de Ataque
+descr=Ganhe +1 em ATK para cada estoque.
+
+< CARD_AMPDEF_EFFECT >
+name=Buff de Defesa
+descr=Ganhe +1 em DEF para cada estoque.
+
+< CARD_AMPEVD_EFFECT >
+name=Buff de Evasão
+descr=Ganhe +1 em EVD para cada estoque.
+
+< CARD_AMPMOV_EFFECT >
+name=Buff de Movimento
+descr=Ganhe +1 na jogada de movimento.
+
+< CARD_AMPHP_EFFECT >
+name=Buff de Vida
+descr=Ganhe +1 ao HP máximo.
+
+< CARD_AMPRECOVERY_EFFECT >
+name=Buff de recuperação
+descr=Ganhe -1 em REC.
+
+< CARD_BOUNTY_AMPATK_EFFECT >
+name=Buff de Ataque
+descr=Ganhe ATK equivalente a quantidade em estoque.
+
+< CARD_BOUNTY_AMPDEF_EFFECT >
+name=Buff de Defesa
+descr=Ganhe DEF equivalente a quantidade em estoque.
+
+< CARD_BOUNTY_AMPEVD_EFFECT >
+name=Buff de Evasão
+descr=Ganhe EVD equivalente a quantidade em estoque.
+
+< CARD_SOLIDWITCH_EFFECT >
+name=Bruxa Resistente
+descr=Não receba dano.
+
+< CARD_HYPER_SWEETEATER_EFFECT >
+name=Sweet Eater
+descr=Atributos base mudam para 3 ATK e 0 DEF/EVD. Removido ao reviver.
+
+< CARD_STEALTHON_EFFECT >
+name=Camuflagem Ativa
+descr=Não pode ser desafiado para uma batalha ou ser o alvo de cartas Boost de outros jogadores.\nNão ativa paineis de Encontro ou de Chefão.\nEfeito expira ao entrar em batalha.\nGanhe +2 ATK ao entrar em batalha.
+
+< CARD_SMOKESCREEN_EFFECT >
+name=Cortina de fumaça
+descr=Dados de movimento estão limitados para ter somente os números 1, 2 e 3.
+
+< CARD_KIRIKO_EFFECT >
+name=Medicamento Estranho
+descr=-1 Max HP para cada estoque.
+
+< CARD_CUTIES_EFFECT >
+name=Eventos Destroçados
+descr=+1 estrela de painéis de bônus.
+
+< CARD_SPECIALSTAGE_EFFECT >
+name=Estágio Especial
+descr=Ganhe MOV -3, ative apenas painéis de movimento e não use cartas. Você não pode ser desafiado por outros jogadores ou ser o alvo de cartas de Boost. Se o oponente terminar seu turno em um raio de 2 painéis de distância, roube (seu Nível) x5 estrelas deles. Termina no caso de nocaute.
+
+< CARD_PATHBLOCKERS_EFFECT >
+name=Boqueadores da Caminho
+descr=Pare de se mover se o Painel tiver uma armadilha.
+
+< CARD_POPPOFORMATION_EFFECT >
+name=Poppoformação
+descr=ATK, DEF e EVD viram -1 na sua próxima batalha.
+
+< CARD_HAND_BOOST_EFFECT >
+name=Impulso na Mão
+descr=+1 na quantidade de cartas que podem ser seguradas.
+
+< CARD_CHEAT_EFFECT >
+name=? ? ? ? ? ?
+descr=????
+
+< CARD_CHAINBOUND_EFFECT >
+name=Desabilitado
+descr=Ganhe -2 EVD e -1 MOV.
+
+< CARD_JOKER_EFFECT >
+name=Poppo Curinga
+descr=Cartas podem ser jogadas como se elas fossem de Nível 1 e tivessem custo base de 0.
+
+< CARD_HERBAL_REMEDY_EFFECT >
+name=Remédio de Ervas
+descr=Não pode tomar dano por 1 capítulo.
+
+< CARD_ACCEL_CANDY_EFFECT >
+name=Bala do Hiper Acelerado
+descr=Duração do Efeito: 1 capítulo. Jogue 2 dados em qualquer ação.
+
+< CARD_COTTONCAKE_EFFECT >
+name=Bolo de Ló
+descr=Duração do Efeito: 1 capítulo. Cartas serão de graça e não irão requerer nível.
+
+< CARD_REDBEANCREAM_EFFECT >
+name=Sorvete de Feijão Vermelho
+descr=Ganhe +1 ATK. Esse efeito é removido após ser nocauteado. Este efeito não pode ser estocado.
+
+< CARD_ZAPPERSWORD_EFFECT >
+name=Espada Melhorada Magicamente
+descr=Aumente seu ATK permanentemente em 1, mas também -1 DEF.
+
+< CARD_MELONPAN_EFFECT >
+name=Pão de Melão
+descr=Aumente sua DEF e EVA permanentemente em 1, mas reduza ATK em 1.
+
+< CARD_SMOKEBOMB_EFFECT >
+name=Bomba de Fumaça
+descr=Na próxima batalha o inimigo ganha -1 ATK, DEF, e EVA.
+
+< CARD_SHIELD_EFFECT >
+name=Escudo
+descr=Reduza o dano que lhe for desferido, e reduza o número de estoques com o tempo.
+
+< CARD_ELLIEATK_EFFECT >
+name=O Milagre de Ellie (ATK)
+descr=Ganhe +1 ATK por estoque.
+
+< CARD_ELLIEDEF_EFFECT >
+name=O Milagre de Ellie (DEF)
+descr=Ganhe +1 DEF por estoque.
+
+< CARD_ELLIEEVD_EFFECT >
+name=O Milagre de Ellie (EVD)
+descr=Ganhe +1 EVD por estoque.
+
+< CARD_LUCKYLUNCH_EFFECT >
+name=Almoço da Sorte
+descr=Ganhe permanentemente +1 ATK, DEF e EVD.
+
+< CARD_ALICIANRONE_ATK_EFFECT >
+name=Dano de Velocidade
+descr=Dê a mesma quantidade de dano que o número de estoque ao passar por inimigos.
+
+< CARD_BEASTWITCH_EFFECT >
+name=Tributo Feroz
+descr=Descarte "Bruxa Feroz" ao fim de seu turno.
+
+< CARD_SLOW_EFFECT >
+name=Devagar
+descr=MOV é diminuído em 1 por cada estoque.
+
+< CARD_SHROOMZOOM_EFFECT >
+name=Zoom do Cogumelo
+descr=MOV é aumentado em 1 por cada estoque.
+
+< CARD_SUGURI46_EFFECT >
+name=Rejuvenescimento
+descr=Ganhe +1 dado na próxima rolagem de Movimento.
+
+< CARD_SUGURI46_ATK_EFFECT >
+name=Reminiscência
+descr=Ganhe +1 ATK.
+
+< CARD_MAYNIECOUNT_EFFECT >
+name=Rage Counter
+descr=Gain +1 ATK and +1 EVD for each stack after using Raing Madness.
+
+< CARD_MAYNIERAGE_EFFECT >
+name=Raging Mode
+descr=Gain +1 ATK and +1 EVD for each stack.
+
+< CARD_PASSIONATERESEARCH_EFFECT >
+name=Pesquisa Cativante
+descr=Olhe nas primeiras X cartas do baralho central, onde X é o valor do estoque.
+
+< CARD_MINIGAME_TURNSKIP >
+name=Poppo Pare
+descr=Próximo turno será pulado.
+flavor=
+
+< CARD_MINIGAME_REVERSEMOVEMENT >
+name=Poppo Inverter
+descr=Deve-se mover para trás.
+flavor=
+
+< CARD_MINIGAME_DOUBLEDICE >
+name=Poppo Dado
+descr=Ganhe um dado extra para todas as rolagens.
+flavor=
+
+< CARD_MINIGAME_FROSTWALKER >
+name=Poppo Caminhante Gélido
+descr=Painéis que você se mover serão congelados por um turno.
+flavor=
+
+< CARD_XMAS2018_SNOWBALLFIGHTBAN >
+name=Gélido
+descr=Não é possível iniciar uma Batalha de Bola de Neve.
+flavor=
+
+< CARD_WANTED_EFFECT >
+name=Procurado
+descr=Ganhe o dobro de vitórias em nocaute em batalha. Efeito expira ao ser nocauteado.
+
+< CARD_SWEETDESTROYER_EFFECT >
+name=Sweet Destroyer
+descr=Quaisquer cartas do tipo Doces compradas serão permanentemente transformadas aleatoriamente em Pudim Ruim ou Pudim Perigoso.
+
+< CARD_LONELYCHARIOT_EFFECT >
+name=Carruagem Solitária
+descr=Tenha 5 garantido no dado para movimento. No término do seu turno, perca 1 HP. O efeito acaba caso a unidade seja nocauteada. Se sua unidade sofrer nocaute por este efeito, perca estrelas igual ao seu nível x5.
+
+< CARD_PRESIDENTPRIVILEGE_EFFECT >
+name=Privilégio do Presidente
+descr=Pode usar cartas sem pagar o seu custo.
+
+< CARD_SANTASJOB_EFFECT >
+name=Trabalho da Noel
+descr=Durante seu tempo de espera, você pode escolher outra carta que é possível de se usar no seu nível atual da sua mão para entregar a algum jogador aleatório. Ganhe nível da carta x5 em estrelas.
+
+< CARD_BANNEDFORLIFE_EFFECT >
+name=Banido para Sempre
+descr=Só pode jogar cartas Presente.
+
+< CARD_EVILSPYWORKEXEC_EFFECT >
+name=Trabalho de Espião Malígno - Execução
+descr=No fim do turno, tome 3 de dano.
+
+< CARD_REDBEANICECREAM_EFFECT >
+name=Sorvete Milagroso de Feijão Vermelho
+descr=Ganhe +1 ATK para cada estoque.
+
+< CARD_REDBLUE_EFFECT >
+name=Vermelho & Azul
+descr=Ganhe +1 ATK, DEF e EVD para cada estoque.
+
+< CARD_BEASTWITCHGIFT_EFFECT >
+name=Bruxa Feroz
+descr=Quando outros jogadores perdem estrelas de batalhas de painéis de Encontro, essas estrelas irão para você ao invés de para a unidade do painel de encontro.
+
+< CARD_UNLUCKYCHARM_EFFECT >
+name=Amuleto do Azar
+descr=No começo do turno, perca Nível x1 em estrelas.
+
+< CARD_WINDYENCHANTMENT_EFFECT >
+name=Encantamento Ventoso
+descr=Adiciona +1 para sua ação de  movimento. Normas são desabilitadas.
+
+< CARD_LOSTCHILD_EFFECT >
+name=Criança Perdida
+descr=Mova-se no sentido oposto enquanto estiver com essa carta. Normas são desabilitadas.
+
+< CARD_PRICEOFPOWER_EFFECT >
+name=Preço do Poder
+descr=Você pode jogar cartas de um nível superior ao seu nível atual. O custo de todas as cartas é aumentado em 5.
+
+< CARD_POPPOSNATCHER_EFFECT >
+name=Poppo, a Ladra
+descr=Ganhe -1 de Defesa. Sempre que passar por outro inimigo em seu turno, roube [nível do alvo x 3] estrelas dele. Normas são desabilitadas.
+
+< CARD_BLOODLUST_EFFECT >
+name=Sedento por Sangue
+descr=Perca 1 HP no começo de seu turno. Cure 1 HP por cada dano desferido. Normas são desabilitadas.
+
+< CARD_LUCKYCHARM_EFFECT >
+name=Amuleto da Sorte
+descr=Ganhe Nível x1 em estrelas no começo de seu turno. Você não pode usar quaisquer cartas. \nSe derrotado, dê Nível x 3 mais estrelas.
+
+< CARD_MONOCOQUE_EFFECT >
+name=Monocoque Metálico
+descr=Quando um efeito de carta dá qualquer dano em você, aquele dano é reduzido por 1, e você perde Nível x2 estrelas.
+
+< CARD_SAINTEYES_EFFECT >
+name=Olhos Santos
+descr=Em uma batalha que você ataca primeiro, ganhe +1 ATK em estoques ímpares, e +1 ATK em estoques pares.
+
+< CARD_CHEFSUMMON_EFFECT >
+name=Chefe, Eu Preciso de Ajuda!
+descr=Chefe irá lutar em seu lugar. Permite Chris desafiar outras unidades em batalhas.
+
+< CARD_MANAGERSUMMON_EFFECT >
+name=Gerente, Eu Preciso de Ajuda!
+descr=Gerente da Loja irá lutar em seu lugar. Permite Chris desafiar outras unidades em batalhas.
+
+< CARD_MANAGERCOUNTER_EFFECT >
+name=Contador do Gerente da Loja
+descr=Recebido ao jogar uma carta de cópia limite Max 1. Coletar 4 ou mais enquanto seu nível é 4 ou superior irá melhorar "Chefe, Eu Preciso de Ajuda!" em "Gerente, Eu Preciso de Ajuda!".
+
+< CARD_BOSSROBOBARRIER_EFFECT >
+name=Barreira
+descr=Absorve 1 ponto de dano. Removido em Auto-Reparo.
+
+< CARD_BOSSROBOREPAIR_EFFECT >
+name=Auto-Reparo
+descr=Se você tiver 3 Auto-Reparos no começo de seu turno, cure 1 HP e remová-os.
+
+< CARD_BOSSROBOSLOWSTART_EFFECT >
+name=Começo Lento
+descr=-1 MOV.
+
+< CARD_PHILOSOPHERSTONE_EFFECT >
+name=Pedra Filosofal
+descr=Quando um novo capítulo começar, ganhe 4 estrelas, com um adicional de 1 estrela a cada 5 capítulos.
+
+< CARD_PERMARECREDUCTION_EFFECT >
+name=Energizado
+descr=Permanentemente reduza seu REC por 1.
+
+< CARD_TEMPRECREDUCTION_EFFECT >
+name=Impulso de Vitalidade
+descr=Reduza seu REC pelo número em estou no seu próximo nocaute.
+
+< CARD_SHOKUPAN_EFFECT >
+name=Revitalizar
+descr=Cure seu personagem pela quantia em estoque no começo de seu turno.
+
+< CARD_RADAR_EFFECT >
+name=Observador
+descr=Pode discernir a localização de todos os monstros.
+
+< CARD_PRECISIONGOGGLES_EFFECT >
+name=Olhos afiados
+descr=O alcance do arremesso é aumentado em 2 painéis.
+
+< CARD_POISONED_EFFECT >
+name=Envenenado
+descr=No começo de seu turno, tome dano equivalente ao número do estoque.
+
+< CARD_HARBINGER_FAME >
+name=Famoso Assassino de Fracotes
+descr=+1 de Fama por estoque até 6. Fama coletada irá ser entregue em adição a recompensa da Fama base ao derrotar Prenúncio.
+
+< CARD_HARBINGER_SOULEATER >
+name=Comedor de Almas
+descr=Ao atingir 3 estoques, se cure por completo e cause Condenação a todas as unidades.
+
+< CARD_HARBINGER_AWAKENED >
+name=Comedor de Almas Despertado
+descr=+1 Max HP, +1 ATK, +1 DEF permanentes.
+
+< CARD_DOOM_EFFECT >
+name=Condenação
+descr=Sofra nocaute no começo do turno quando a duração chegar a zero. Removido ao derrotar a fonte do efeito, ao ser nocauteado ou ao visitar um Hotel. Dê um estoque de Comedor de Almas ao Prenúncio se nocauteado tendo esse efeito.
+
+< CARD_DARKCHOCOMOUSSE_STAREATER >
+name=Star Eater
+descr=Após atingir 3 estoques, se cure completamente, e cause Condenação em todas as unidades.
+
+< CARD_DARKCHOCOMOUSSE_AWAKENED >
+name=Star Eater Despertada
+descr=+1 Max HP, +1 ATK e -1 DEF permanentes.
+
+< CARD_CHOCOLATEDOOM_EFFECT >
+name=Te Devo Uma
+descr=Mousse de Chocolate Sombria rouba seu Nvl x 10 estrelas e ganha um estoque de Star Eater no começo do turno quando a duração atinge zero. Removido ao derrotar a fonte do efeito, ao ser nocauteado ou ao visitar um Hotel.
+
+< CARD_DARKCHOCOMOUSSE_FAME >
+name=Famosa Assassina de Fracotes
+descr=+1 Fama por estoque até no máximo 6. Fama coletada vai ser dada em adição da recompensa base de Fama após derrotar Mousse de Chocolate Sombria.
+
+< CARD_SPIKEDSHIELD_EFFECT >
+name=Escudo Espinhoso
+descr=Um escudo com espinhos reduzindo o dano por 1. Se sua jogada de defesa for maior que a jogada de ataque do oponente, reflita o dano igual a metade do valor de ataque de volta ao oponente. Removido após uma batalha.
+
+< CARD_BATTLEAXE_EFFECT >
+name=Executador
+descr=Permanentemente ganhe +1 ATK, mas também -1 EVD.
+
+< CARD_CURSEDSWORD_EFFECT >
+name=Espada Amaldiçoada
+descr=Ganhe +2 ATK, mas também -1 DEF, EVD & Max HP.
+
+< CARD_CURSEDAXE_EFFECT >
+name=Machado Amaldiçoado
+descr=Ganhe uma chance de 20% de um ataque crítico e 10% de chance de perder um ataque.
+
+< CARD_CURSEDBOUNTY_EFFECT >
+name=Caça de Recompensa Amaldiçoada
+descr=Sua próxima Caça de recompensa irá garantir +2 de Fama adicional e colocar seu HP & Max HP em 1 até o nocaute ou até visitar um Hotel.
+
+< CARD_CURSEDMARK_EFFECT >
+name=Maldição
+descr=Fadado a acontecer como resultado de ter completado uma Caça de recompensa Amaldiçoada. Pode ser removido em um Hotel.
+
+< CARD_CURSEDICECREAM_EFFECT >
+name=Sorvete de Feijão Roxo
+descr=Ganhe +2 ATK, mas também -3 Max HP (min. 1). Este efeito expira em nocaute.
+
+< CARD_BRAVERYUP_EFFECT >
+name=Caçador Destemido
+descr=Sua bravura é aumentada após derrotar o Prenúncio, reduzindo todo o dano de batalhas por 1 para a próxima quantidade em estoque de batalhas.
+
+< CARD_CONTRACTCURSE_EFFECT >
+name=Maldição do Contrato
+descr=Você possui um ou mais contratos almaldiçoados. Um contrato almaldiçoado será descartado após 3 capítulos se não for limpo.
+
+< CARD_OVERTIME_EFFECT >
+name=Hora Extra
+descr=Jogue 3 dados de movimento.
+
+< CARD_CLOCKEDOUT_EFFECT >
+name=Tempo Esgotado
+descr=Pule o próximo turno.
+
+< CARD_HOMEIMPROVER_EFFECT >
+name=Melhoria na Casa
+descr=Quando o efeito acabar, troca aleatóriamente a posição dos painéis de casa.
+
+< CARD_LUCKYSEVENS_EFFECT >
+name=Setes da Sorte
+descr=Seu dado natural vai de 0 a 7, e o resultado mínimo de rolagem resulta em 0 quando rolar 0.
+
+< CARD_LUCKYZERO_EFFECT >
+name=Zero da Sorte
+descr=Não pode fazer uma checagem de Norma.
+
+< CARD_LOSTPRESENTS_EFFECT >
+name=Presentes Perdidos
+descr=No próximo capítulo, compre a mesma quantidade de cartas que a quantidade de estoques.
+
+< CARD_GUIDANCE_EFFECT >
+name=Conselho da Galinha Cata-Vento
+descr=Role 2 de dado para tudo menos para batalhas. Este efeito acaba ao parar no seu próprio painel de Casa.
+
+< CARD_SAFEJOURNEY_EFFECT >
+name=Boa Jornada
+descr=Têm que ser desse jeito!\nPerca 5 estrelas no começo de cada turno. Ignore painéis de Perda, armadilhas, e dano de carta de efeito. Este efeito é removido ao parar em seu próprio painel de casa ou ao ter menos de 5 estrelas.
+
+< CARD_HUNGRY_EFFECT >
+name=Fome
+descr=Com 3 de Fome, ganhe -1 EVD até visitar sua própria casa.
+
+< CARD_GUIDANCE_BH_EFFECT >
+name=Conselho da Galinha Cata-Vento
+descr=Role 2 de dado para tudo menos para batalhas. Este efeito acaba ao parar no seu próprio painel de Casa.
+
+< CARD_UPSHIFT_EFFECT >
+name=Marcha Para Cima
+descr=Ganhe +1 MOV para cada estoque.
+
+< CARD_LONELYRIDE_EFFECT >
+name=Estrada Solitária
+descr=Ganhe +1 ATK, +1 DEF e +2 EVD.
+
+< CARD_ZEALOUSSALESMAN_EFFECT >
+name=Vendedor Zeloso
+descr=Ganhe +1 ATK para cada estoque.
+
+< CARD_NEWNOBILITY_EFFECT >
+name=Charme Nobre
+descr=Em sua próxima batalha, ganhe aleatóriamente -1 ATK, DEF, ou EVD.
+
+< CARD_AFFLUENCE_EFFECT >
+name=Convite da Princesa
+descr=Ganhe -3 ATK durante uma batalha.
+
+< CARD_RECOVERY_DOWN_EFFECT >
+name=Baixa na Recuperação
+descr=Ganhe +1 REC para cada estoque.
+flavor=
+
+< CARD_MESCAL_COOLDOWN_EFFECT >
+name=Eu Não Preciso De Sua Ajuda!
+descr=Membro da Tripulação Pirata não pode aparecer quando Mescal for desafiada.
+flavor=
+
+< CARD_FORCED_DEPARTURE_EFFECT >
+name=Partida Forçada
+descr=Recebe ordens de sair do campo de batalha após este efeito de estoque acabar.
+
+< CARD_IDEALWORLD_EFFECT >
+name=Controle Robótico
+descr=Seu próximo encontro será uma unidade selvagem robótica. Essa unidade robótica ganhará +1 ATK.
+
+< CARD_HARDENEDSCALES_EFFECT >
+name=Escamas Endurecidas
+descr=Ganhe +1 ATK por cada estoque. Efeito expira em nocaute.
+
+< CARD_GOODESTBOY_EFFECT >
+name=O Melhor Garoto
+descr=Não pode desafiar ou ser desafiado para uma batalha.\n- Imune a efeitos de nocaute instantâneo.\n- Ao estar em um painel com outro jogador ao final do turno de qualquer um, o outro jogador lhe dará uma carta aleatória de sua mão. Você não pode nem desafiar e nem ser desafiado; ao invés disso, oponentes podem parar para te fazer Carinho. Efeito expira em nocaute.
+
+< CARD_BOMBIMMUNITY_EFFECT >
+name=Imunidade a Explosão
+descr=Não receba dano de explosões de bomba até o início do próximo capítulo.
+
+< CARD_ARTOFSWORD_EFFECT >
+name=Arte da Espada
+descr=Sua habilidade em batalha é melhorada. Ganhe permanentemente +1 ATK.
+
+< CARD_ARTOFSHIELD_EFFECT >
+name=Arte do Escudo
+descr=Sua resistência a dano é melhorada. Ganhe permanentemente +1 DEF.
+
+< CARD_ARTOFEVASION_EFFECT >
+name=Arte da Evasão
+descr=Sua evasão é melhorada. Ganhe permanentemente +1 EVD.
+
+< CARD_RESOLUTE_EFFECT >
+name=Resoluto
+descr=Reduz permanentemente a rolagem de recuperação por 1.
+
+< CARD_STIMULATION_EFFECT >
+name=Estimulação
+descr=Ganhe permanentemente +1 Max HP.
+
+< CARD_CARRIER_EFFECT >
+name=Carregador
+descr=Ganhe permanentemente +1 tamanho da Mão e +1 tamanho da Mão de contrato.
+
+< CARD_PREMIUMMEMBERSHIP_EFFECT >
+name=Assinante Premium
+descr=Todos os custos de loja (menos do Mercador Ambulante) serão reduzidos por 30% após todos os cálculos.
+
+< CARD_JOGGER_EFFECT >
+name=Corredor
+descr=Ao terminar seu turno após mover até o final da sua última rolagem de movimento, ganhe +1 MOV na sua próxima rolagem de movimento.
+
+< CARD_JOGGING_EFFECT >
+name=Correndo
+descr=Ganhe +1 MOV na sua próxima rolagem de movimento para cada estoque.
+
+< CARD_PLENTIFULHARVEST_EFFECT >
+name=Colheita Abundante
+descr=Você ganhará estrelas ao completar Recompensas.
+
+< CARD_COMMANDER_EFFECT >
+name=Comandante
+descr=Pode tomar o controle de invocações do qual é dono.
+
+< CARD_SWEETMOUNTAIN_EFFECT >
+name=Montanha de Doces
+descr=Capaz de jogar cartas Boost adicionais por 1/3 de seu custo.
+
+< CARD_CHAOS_HYPE_EFFECT >
+name=Hype
+descr=Ela está Hypada.
+
+< CARD_CHAOS_RAMPAGE_EFFECT >
+name=Fúria
+descr=Ganhe +1 ATK para cada estoque.
+
+< CARD_CHAOS_MUSCLE_EFFECT >
+name=Músculo Caótico
+descr=Ganhe +1 ATK base para cada estoque (até +3 ATK base).
+
+< CARD_CHAOS_GUARD_EFFECT >
+name=Defesa Caótica
+descr=Ganhe +1 DEF base para cada estoque (até +3 DEF base).
+
+< CARD_CHAOS_SPEED_EFFECT >
+name=Velocidade Caótica
+descr=Ganhe +1 EVD base para cada estoque (até +3 EVD base).
+
+< CARD_CHAOS_LAUNCH_EFFECT >
+name=Lançada Caótica
+descr=No começo de seu turno, mergulhe para o painel escolhido. Unidades em um raio de até 2 painéis de distância tomam Nível x1 de dano. Unidades em um raio de até 1 painel de distância tomam Nível x2 de dano.
+
+< CARD_CHAOS_DIVE_FATIGUE_EFFECT >
+name=Fadiga de Mergulho
+descr=Não pode concluir Norma enquanto este efeito estiver ativo.
+
+< CARD_BOMBIMMUNITY_EFFECT >
+name=Imunidade a Explosão
+descr=Não receba dano de explosões de bomba até o início do próximo capítulo.
+
+< CARD_HOTPOTATO_EFFECT >
+name=Segure o Gremlin
+descr=É só uma questão de tempo até que você exploda!
+
+< CARD_SLUMBERTHREATS_EFFECT >
+name=Ameaças ao Meu Sono
+descr=Quando você cancela exatamente 1 de dano em batalha, ganhe um estoque de Acordando.
+
+< CARD_WAKING_EFFECT >
+name=Acordando
+descr=Número de vezes que seu sono foi ameaçado.
+
+< CARD_PRISONBREAK_EFFECT >
+name=Escapada da Prisão de Faz de Conta
+descr=Não pode ser desafiada ou ser o alvo de cartas de Boost de outros jogadores. Imune a cartas de Armadilha, efeitos de nocaute instantâneo, e dano de carta de outros jogadores. Role 2 dados de movimento. Perca 1 estoque para cada painel atravessado.
+
+< CARD_HYPERMIRACLE_EFFECT >
+name=Hiper Milagre da Ellie
+descr=Duração do Efeito: 2 capítulos. Ganhe +X ATK em batalha quando for atacante, e +X DEF e +X EVD quando for defensor. X = seu total de Normas concluídas.
+
+< CARD_MOMENTOFGLORY_EFFECT >
+name=Momento de Glória do Ex-Protagonista
+descr=Custo: Nvl x10. Diminua seu HP para 1. Duração do Efeito: 3 capítulos. Ganhe +4 ATK e +5 EVD.
+
+< CARD_HKAIPASSIVE_EFFECT >
+name=Segundo Vento
+descr=Se você fosse abaixo de 1 HP por conta de dano de fora de batalha, mantenha em 1 HP. Se você ainda estiver em 1 HP no seu próximo final de turno, sofra nocaute.
+
+< CARD_MOTHERPOWER_EFFECT >
+name=Poder de Mãe
+descr=Ganhe Nvl x1 estrelas para cada ponto de dano que você tomar. Se o efeito acabar ou ser reposto enquanto ativo, cure todo o dano tomado. Efeito acaba em nocaute.
+
+< CARD_CANNONBALL_EFFECT >
+name=Contador de Bola de Canhão
+descr=Ganha ao jogar uma carta.
+
+< CARD_BOURBON_EFFECT >
+name=Barbatana Quebrada
+descr=-1 Max HP para cada estoque. Efeito expira em nocaute.
+
+< CARD_HEART_OF_RESISTANCE_EFFECT >
+name=Coração da Resistência
+descr=Se ativo, tome o lugar do alvo em batalha na próxima vez que ele for desafiado ou desafiar uma unidade.
+
+< CARD_HYPER_POYO_EFFECT >
+name=Hora da Super Juventude
+descr=Dobre o resultado do dado que você rolar para Ataque, Defesa, Evasiva, Movimento, Bônus e Perda.
+
+< CARD_HYPER_CHUU_EFFECT >
+name=Vou Me Dedicar Um Pouco Nisto
+descr=Até o fim do turno, ganhe +X ATK, onde X é seu nível. Não ganhe estrelas por derrotar inimigos. Na primeira vez que você derrotar um jogador em batalha com este efeito ativo, ganhe 2 Vitórias.
+
+< CARD_CHAOS_SLAYER_EFFECT >
+name=Alma do Ceifador
+descr=Você e outras almas gêmeas estão ligados por um vínculo místico.\nREC é reduzido por 1, e você vai sempre rolar 2 dados para movimento. Você também pode curar e reviver outras almas gêmeas.
+
+< CARD_CHAOS_TANK_EFFECT >
+name=Alma do Tanque
+descr=Você foi ordenado a esmagar inimigos.\nATK +2, Max HP é altamente aumentado, e é imune a efeitos de nocaute instantâneo e de redução de HP. Efeitos de cura são nulos.
+
+< CARD_CHAOS_TERRORIZE_EFFECT >
+name=Aterrorizar
+descr=REC +3 on cada nocaute após o efeito ser aplicado.
+
+< CARD_HYPER_HARUKA_GLOBAL_EFFECT >
+name=Trazendo O Hype
+descr=Se outro personagem sofrer nocaute, esse personagem recupera instantaneamente com HP cheio.
+
+< CARD_HYPER_HARUKA_PERSONAL_EFFECT >
+name=Hypada!
+descr=Quando outro jogador sofrer nocaute, ganhe o Nvl dele vezes 5 em estrelas. Este efeito pode estocar com múltiplos Trazendo O Hype ativos.
+
+< CARD_INTELLECTUALBLUFF_EFFECT >
+name=Blefe Pseudointelectual
+descr=Se a próxima carta que você jogar for do tipo Escolhido por quem botou: Ele ganha 2 Vitórias e Nvl vezes 10 em estrelas.\nApenas declarado: Ele toma 2 de dano.
+
+[EOF]

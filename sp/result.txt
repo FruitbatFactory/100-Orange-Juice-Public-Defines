@@ -1,0 +1,57 @@
+
+< RESULT_HEADER >
+Total de Estrellas Ganadas
+
+< RESULT_SCORE_OWNEDSTARS >
+En Mano
+
+< RESULT_SCORE_LEVELBONUS >
+Nivel
+
+< RESULT_SCORE_ENEMYBONUS >
+Victorias 
+
+< RESULT_SCORE_RANKBONUS >
+Rango
+
+< RESULT_SCORE_CAMPAIGNBONUS >
+Campaña
+
+< RESULT_SCORE_BOSSBONUS >
+Jefes Derrotados
+
+< RESULT_SCORE_CARDMASTER >
+Maestro de Cartas
+
+< RESULT_SCORE_TRAPMEISTER >
+Maestro de Trampas
+
+< RESULT_SCORE_AVENGER >
+Vengador
+
+< RESULT_SCORE_SURVIVOR >
+Sobreviviente
+
+< RESULT_SCORE_MISFORTUNE >
+Mala Suerte
+
+< RESULT_SCORE_STARDECAY >
+Decadencia 
+
+< RESULT_SCORE_TOTAL >
+Total
+
+< RESULT_EXP_LEVEL >
+Nivel
+
+< RESULT_EXP_EXPERIENCE >
+XP
+
+< RESULT_EXP_EXPERIENCETONEXTLEVEL >
+Próx.
+
+< RESULT_SPEEDADJUST >
+Ajuste de Velocidad
+
+[EOF]
+

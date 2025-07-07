@@ -1,0 +1,161 @@
+<0000> Hmm.
+<0001> Aquí.
+<0002> Aquí tienes.
+<0003> Hmph.
+<0004> Creo que usaré esto.
+<0005> Diría que es la hora de usar esto.
+<0006> Deberías usar una carta cuando puedas.
+<0007> Esto no me causará ningún problema.
+<0008> Una trampa.
+<0009> Astuto.
+<0010> Parece ser un buen lugar.
+<0011> Apuesto a que alguien caerá en esto.
+<0012> Necesito ganar esta vez.
+<0013> Vamos a aumentar mi poder.
+<0014> Usaré la fuerza bruta.
+<0015> Esta batalla será mía.
+<0016> Mi habilidad especial.
+<0017> Esto sigue sin ser una situación crítica.
+<0018> Aún podré regresar.
+<0019> Oh, ya he regresado.
+<0020> Cielos, aún sigo corriendo.
+<0021> No hay nada que pueda hacer porque todo esto depende de la suerte.
+<0022> No hay por qué apresurarse.
+<0023> Hmm.
+<0024> Eso no es bueno.
+<0025> Voy a atacarte.
+<0026> Te derribaré.
+<0027> ¡Veo una oportunidad!
+<0028> Incluso un poco de daño puede hacer una gran diferencia.
+<0029> Ouch.
+<0030> Esta cantidad de daño es aceptable.
+<0031> Eso no es muy bueno.
+<0032> No me siento genial.
+<0033> Eso ayuda mucho.
+<0034> Sabía que me recuperaría.
+<0035> Me he vuelto a recuperar.
+<0036> Muy bien.
+<0037> Teletransportación.
+<0038> Owah.
+<0039> ¿Y cómo es que esto afectará al juego?
+<0040> Oh vaya.
+<0041> Suele pasar.
+<0042> No tengo nada de suerte.
+<0043> Ugh.
+<0044> Uu.
+<0045> Me conseguiré una victoria.
+<0046> Voy a derribarte.
+<0047> Te mantendré aquí.
+<0048> Cáe.
+<0049> Estoy preparada para esto.
+<0050> Yo no seré la que sea derrotada.
+<0051> ¿En verdad quieres enfrentarme?
+<0052> Bien, desafío aceptado.
+<0053> Voy a lastimarte.
+<0054> Hora de atacar.
+<0055> Aquí tienes un poco de daño volando hacia ti.
+<0056> ¿Y si te quito una parte de tus PV?
+<0057> Hmm.
+<0058> Ugh.
+<0059> Eso era de esperarse.
+<0060> Eso dolió un poco.
+<0061> Eso no lo esperaba.
+<0062> La suerte no está de mi lado.
+<0063> Cielos.
+<0064> Eso no durará mucho tiempo.
+<0065> Esquivar.
+<0066> Evasión.
+<0067> Evasión exitosa, sin daño recibido.
+<0068> La suerte está de mi lado.
+<0069> Tal como lo había planeado.
+<0070> Estoy en el ritmo.
+<0071> Puedes quedarte ahí por un rato.
+<0072> Fufufu.
+<0073> Mala suerte...
+<0074> Los dados... La suerte no me ha ayudado con ellos...
+<0075> El peor desenlace imaginable.
+<0076> No es bueno.
+<0077> Tengo un balance positivo.
+<0078> Conseguir estrellas, entendido.
+<0079> Las estrellas conseguidas aquí podrán cambiar los resultados.
+<0080> Con estas estrellas, yo ganaré.
+<0081> Bueno, lo veía venir.
+<0082> Ugh, mis estrellas.
+<0083> Ratas... Esto no puede ser perdonado...
+<0084> Au, mis estrellas...
+<0085> ¡Funu!
+<0086> Una trampa sigilosa...
+<0087> Quien haya dejado esta trampa aquí es muy astuto...
+<0088> ¿Una trampa para mí...?
+<0089> Un jefe ha aparecido.
+<0090> Debo concentrarme y pensar en qué es lo que debo hacer.
+<0091> Aquí es donde 100% OJ se pone divertido.
+<0092> Las cosas se están haciendo más emocionantes.
+<0093> Escojo la estrella.
+<0094> Dada las circunstancias, la estrella es la opción más razonable.
+<0095> Ir con las estrellas me llevará más cerca hacia la victoria.
+<0096> No eres alguien listo si no escoges las estrellas aquí.
+<0097> Puedes derribar a tu enemigo y conseguir puntos... Así es como funciona una batalla aquí.
+<0098> Considerando mi mano actual, batallas serán.
+<0099> Tengo dudas, pero aun así iré con el combate.
+<0100> Dada la situación en mi mano, escojo entrar en combate y abofetear a todos.
+<0101> Soy Kanata. Gusto en conocerte.
+<0102> Usar estrategias y calculaciones te ayudará a ganar en 100% OJ... o al menos eso creo.
+<0103> ¿Dudas de mi inteligencia? Permíteme demostrar que te equivocas.
+<0104> Escogerme a mí significa que sí eres alguien inteligente.
+<0105> Bien, así que esos son mis oponentes, ¿eh?
+<0106> Siento que este juego será uno divertido.
+<0107> El camino hacia la victoria ya está listo para mí.
+<0108> Muy bien todo el mundo, intenten entretenerme.
+<0109> Se siente tan bien que todo ha ido como lo planeé.
+<0110> Hice un buen trabajo jugando de forma estratégica.
+<0111> Apuesto a que dormiré bien una vez más.
+<0112> Elógienme todos...
+<0113> Es bueno tener más cartas para escoger.
+<0114> Más fuerza está de nuestro lado.
+<0115> Estoy comenzando a tener más planes estratégicos.
+<0116> ¿Objetos lindos? Eso también es algo que me gustaría tener.
+<0117> Permíteme salir del juego por un momento.
+<0118> Tú puedes hacerlo.
+<0119> Cambia conmigo.
+<0120> Hora de cambiar de lugar.
+<0121> OK.
+<0122> Bien.
+<0123> Sí.
+<0124> No.
+<0125> No es bueno.
+<0126> La suerte también importa.
+<0127> Hm, um...
+<0128> Vamos a comenzar.
+<0129> Tiro de dados.
+<0130> Buena suerte.
+<0131> Hola.
+<0132> Hmm.
+<0133> Increíble.
+<0134> Debo hacerte un cumplido.
+<0135> Eso es frustrante.
+<0136> Esta carta...
+<0137> Es probable que esto funcione.
+<0138> Puedo hacerlo.
+<0139> No es algo que ocurra todos los días.
+<0140> Gracias.
+<0141> Haru, tus ahorros siempre están en cero.
+<0142> Deberías haberlo pensado un poco más.
+<0143> Bien hecho.
+<0144> N-N-N-No lo soy.
+<0145> Las cosas son... más emocionantes cuando yo lo hago.
+<0146> 100% OJ puede depender mucho de la suerte, así que está bien jugar sin pensar de vez en cuando.
+<0147> Como tu hermana mayor, te aplastaré con todo lo que tengo.
+<0148> Vamos a mostrarles nuestra hermandad.
+<0149> Sé lo fuerte que eres, Poyo. Así que no me contendré.
+<0150> Eso es lo que debería decir de ti. Confío en ti.
+<0151> No deberías estar tan alerta. Deberías relajarte.
+<0152> Puedes contar conmigo. Yo también contaré contigo.
+<0153> Suguri, eh.
+<0154> Alguien tan fuerte...
+<0155> Cielos... logré acabar con ella.
+<0156> Ella es tan sobrehumana...
+<0157> Haru, ¿te sientes bien?
+<0158> Bien hecho, Haru.
+<0159> Somos las más fuertes.
+<0160> Vamos a trabajar juntas y aumentar nuestras fuerzas.

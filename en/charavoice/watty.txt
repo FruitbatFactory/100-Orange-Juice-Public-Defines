@@ -1,0 +1,161 @@
+<000> There...
+<001> Here goes...
+<002> Oh geez.
+<003> Let's see.
+<004> I'll go with this one.
+<005> What's this going to be?
+<006> Oh no, I have to do something.
+<007> Um, may I play this one?
+<008> This goes down here...
+<009> Is it okay to just leave something like this on the ground?
+<010> Here you go...
+<011> This should work.
+<012> Please help me!
+<013> Oh no, I'm so sorry!
+<014> I hope this helps me out.
+<015> Here goes nothing!
+<016> I have to do what I have to do... don't I?
+<017> Seems like I have to keep going.
+<018> Ugh, I want to go home.
+<019> Do I have to keep playing?
+<020> Ugh, I got to my feet again...
+<021> Please just let me turn into bubbles now.
+<022> I don't mind staying down here like this...
+<023> You can just leave me alone, everyone.
+<024> Can I get some sleep down here?
+<025> Ey!
+<026> Hah!
+<027> Toh!
+<028> Yah!
+<029> That hurts!
+<030> Oww!
+<031> Please cut it out.
+<032> Whyyy?
+<033> I thought I was done for...
+<034> I don't want to play anymore.
+<035> Haah.
+<036> Phew.
+<037> Whaaaat?
+<038> What is this?
+<039> Teleportation magic?
+<040> No one told me about this.
+<041> Phaah.
+<042> I knew this'd happen.
+<043> I'm sorry I'm a terrible fighter.
+<044> Ueeeen.
+<045> I'm sorry, but orders are orders.
+<046> I'm sorry.
+<047> I'm sorry to disturb you...
+<048> I-I'm taking your life!
+<049> Hieeeeh!
+<050> Wh-why are you after me?
+<051> I'm so scared.
+<052> Uwaaaah!
+<053> Ey-ey.
+<054> Don't get any closer to me!
+<055> Yaaah!
+<056> Y-you're going to get hurt...!
+<057> Au!
+<058> That's terrible.
+<059> Kyan.
+<060> Hee!
+<061> My scales are going to come off!
+<062> This is the worst thing ever.
+<063> Someone help me!
+<064> Gyaaaah!
+<065> That was close!
+<066> Nooo!
+<067> I'm going to get tortured and killed!
+<068> I can't do this anymore.
+<069> D-did I win the battle?
+<070> Awawa, what should I do now?
+<071> *Pant pant*
+<072> That was so much work.
+<073> Oh no.
+<074> Why do I have to do this?
+<075> I'm sorry...
+<076> I'm sorry I'm useless.
+<077> Can I keep these?
+<078> A-are these mine?
+<079> Uwawa.
+<080> This is nice.
+<081> I didn't deserve them.
+<082> The joy was fleeting...
+<083> Haha... haha...
+<084> I'm sad.
+<085> I'm going to get eaten!
+<086> Don't pull me out of the water!
+<087> My life was short.
+<088> Aaargh!
+<089> There's something terrifying here.
+<090> Why am I at a scary place like this?
+<091> Please let me go home... Ugh.
+<092> This is too much to handle.
+<093> As told, I'll use everything I have.
+<094> I promise I'll gather a lot of them...
+<095> Starfish... Oh, it's just stars.
+<096> They're bright and shiny... unlike me...
+<097> I need to kill before getting killed...
+<098> I can do this...
+<099> I-I should stand a chance if I use my magic...
+<100> I can't say... I'm fully confident...
+<101> I'm Watty... a mermaid.
+<102> I'm sorry I smell like fish.
+<103> I-I'll do everything I can.
+<104> Are you sure you want to pick someone like me?
+<105> L-let's play fair and square...
+<106> I'll try very hard...
+<107> Everyone looks scary...
+<108> I'm so out of place, aren't I?
+<109> For real?
+<110> So I can actually do it if I try...?
+<111> I'm a little happy now.
+<112> Thank goodness...
+<113> Oh, I'm happy... for you.
+<114> Wow, you look happy to get it.
+<115> Ehehe.
+<116> Wow, that's nice.
+<117> I'm going to get out of here.
+<118> Please take it from here.
+<119> I'm leaving here now.
+<120> Would you mind... switching?
+<121> Yes...
+<122> That's amazing.
+<123> If you're sure...
+<124> N-no... I mean, never mind.
+<125> That's a bummer...
+<126> You're lucky today...
+<127> Uaaaah...
+<128> Let's go.
+<129> Hey!
+<130> You can do this.
+<131> H-hello there.
+<132> Um...
+<133> That was something.
+<134> That's... super incredible.
+<135> Ugh... Argh...
+<136> Um, well, how do I play this one?
+<137> I, um... don't know how to use this.
+<138> I hope this will work out...
+<139> This isn't mine.
+<140> Thank you.
+<141> M'lady... please allow me to have a fight with you.
+<142> Oh geez, am I in trouble for something?
+<143> O-oh no, I beat M'lady... what do I do...
+<144> I'll do anything you tell me to...
+<145> Water makes me feel calm...
+<146> I don't want to get out of the water...
+<147> My sweet home...
+<148> *splash*splash*
+<149> Are you going to eat me...?
+<150> I don't want to get eaten!
+<151> Oh, did I smell good to you...?
+<152> I taste terrible, really!
+<153> I'm going to dry up into a husk...
+<154> I'm sorry if I'll smell like fish...
+<155> I don't think... I'm going to make it...
+<156> Wa... water...
+<157> Do you prefer your fish grilled?
+<158> I'm going to get grilled well!
+<159> That thing will make me taste very good...!
+<160> Please don't grill me...!

@@ -1,0 +1,231 @@
+
+< FIELD_RANDOM >
+随机
+
+< FIELD_UNKNOWN >
+不明
+
+< FIELD_PRACTICE >
+练习场地
+
+< FIELD_SPACEWANDERER >
+不可思议的宇宙
+
+< FIELD_PUDDINGCHASE >
+午后的树荫小道
+
+< FIELD_CHRISTMASMIRACLE >
+神圣之夜
+
+< FIELD_PLANETEARTH >
+绿色星球
+
+< FIELD_LAGOONFLIGHT >
+环礁
+
+< FIELD_WARFARE >
+激战空域
+
+< FIELD_HIGHWAYHEIST >
+午夜高速公路
+
+< FIELD_SEALEDARCHIVE >
+封印之间
+
+< FIELD_SUNSET >
+黄昏之城
+
+< FIELD_TOMOMOABYSS >
+兔萌萌空间
+
+< FIELD_WHITEWINTER >
+银白冬日
+
+< FIELD_NIGHTFLIGHT >
+夜间飞行
+
+< FIELD_CLOVER >
+四叶草
+
+< FIELD_FARM >
+牧场
+
+< FIELD_STARCIRCUIT >
+星海巡游
+
+< FIELD_TRAININGPROGRAM >
+训练课程
+
+< FIELD_VORTEX >
+暗涡
+
+< FIELD_SWEETHEAVEN >
+甜点天国
+
+< FIELD_STARSHIP >
+宇宙船
+
+< FIELD_FROSTCAVE >
+寒冰洞窟
+
+< FIELD_SHIPYARD >
+造船厂
+
+< FIELD_TREASUREISLAND >
+藏宝岛
+
+< FIELD_TREASUREISLANDNIGHT >
+藏宝岛（夜）
+
+< FIELD_WITCHFOREST >
+魔女之森
+
+< FIELD_ICYHIDEOUT >
+冰冷的秘密基地
+
+< FIELD_SAKURA >
+樱花擂台
+
+< FIELD_WORKSHOP >
+圣诞小姐的工坊
+
+< FIELD_OCEANDIVE >
+深海潜水
+
+< FIELD_OVERTHESEA >
+海面之上
+
+< FIELD_DARKCITADEL >
+黑暗要塞
+
+< FIELD_BEGINNERTOWN >
+新手小镇
+
+< FIELD_SCARREDLAND >
+满目疮痍之地
+
+< FIELD_FUNGUSCAVE >
+真菌洞窟
+
+< FIELD_WINTERTOWN >
+新手小镇（冬）
+
+< FIELD_DESERT >
+孤寂铁路
+
+< FIELD_CIRCUS >
+马戏团
+
+< FIELD_VOID >
+虚空
+
+< FIELD_PURES >
+“纯洁”集章会
+
+< FIELD_COOP_LAGOONFLIGHT >
+环礁 合作
+
+< FIELD_COOP_SUNSET >
+黄昏之城 合作
+
+< FIELD_COOP_POPPOABYSS >
+啵噗空间
+
+< FIELD_COOP_STARCIRCUIT >
+星海巡游 合作
+
+< FIELD_COOP_SPACEWANDERER >
+不可思议的宇宙 合作
+
+< FIELD_COOP_HIGHWAYHEIST >
+午夜高速公路 合作
+
+< FIELD_COOP_FARM >
+牧场 合作
+
+< FIELD_COOP_SHIPYARD >
+造船厂 合作
+
+< FIELD_COOP_TRAININGPROGRAM >
+训练课程 合作
+
+< FIELD_COOP_NIGHTFLIGHT >
+夜间飞行 合作
+
+< FIELD_COOP_VORTEX >
+暗涡 合作
+
+< FIELD_COOP_CYBERSPACE >
+电子空间
+
+< FIELD_COOP_PLANETEARTH >
+绿色星球 合作
+
+< FIELD_COOP_WITCHFOREST >
+魔女之森 合作
+
+< FIELD_COOP_WORKSHOP >
+圣诞小姐的工坊 合作
+
+< FIELD_COOP_SAKURA >
+樱花擂台 合作
+
+< FIELD_COOP_PUDDINGCHASE >
+午后的树荫小道 合作
+
+< FIELD_COOP_TREASUREISLAND >
+藏宝岛 合作
+
+< FIELD_COOP_TREASUREISLANDNIGHT >
+藏宝岛 合作（夜）
+
+< FIELD_COOP_OCEANDIVE >
+深海潜水 合作
+
+< FIELD_COOP_OVERTHESEA >
+海面之上 合作
+
+< FIELD_COOP_CLOVER >
+四叶草 合作
+
+< FIELD_COOP_FROSTCAVE >
+寒冰洞窟 合作
+
+< FIELD_COOP_ICYHIDEOUT >
+冰冷的秘密基地 合作
+
+< FIELD_COOP_STARSHIP >
+宇宙船 合作
+
+< FIELD_COOP_TOMOMOABYSS >
+兔萌萌空间 合作
+
+< FIELD_COOP_WHITEWINTER >
+银白冬日 合作
+
+< FIELD_COOP_BEGINNERTOWN >
+新手小镇 合作
+
+< FIELD_COOP_CHRISTMASMIRACLE >
+神圣之夜 合作
+
+< FIELD_COOP_DARKCITADEL >
+黑暗要塞 合作
+
+< FIELD_COOP_FUNGUSCAVE >
+真菌洞窟 合作
+
+< FIELD_COOP_PRACTICEFIELD >
+练习场地 合作
+
+< FIELD_COOP_SEALEDARCHIVE >
+封印之间 合作
+
+< FIELD_COOP_SWEETHEAVEN >
+甜点天国 合作
+
+< FIELD_COOP_WHIRLPOOL >
+漩涡泳池
+
+[EOF]
+

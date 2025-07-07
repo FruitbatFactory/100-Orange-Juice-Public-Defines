@@ -1,0 +1,128 @@
+< INVENTORY_MEDICINALHERB >
+name=Medicinal Herb
+descr=An herb with healing properties. The Innkeeper needs it to make dishes.
+
+< INVENTORY_TURNISLIME >
+name=Turni-slime
+descr=Used to be part of a Turnislime's body. The Innkeeper needs it to make elixirs.
+
+< INVENTORY_CHILLINGWIND >
+name=Bag of Chilling Wind
+descr=A bag filled with an extremely cold breeze. Holding it carelessly could cause your hands to freeze instantly. Sky Baker needs it to make ice cream.
+
+< INVENTORY_FLOUR >
+name=Never-Ending Flour
+descr=A bag of flour that never seems to end. Just what does it have inside? Star Baker needs it to make sweets.
+
+< INVENTORY_BROKENBLADE >
+name=Broken Blade
+descr=A worn weapon left behind by the fallen. The Blacksmith needs it to make cutting tools.
+
+< INVENTORY_TROLLITEHORN >
+name=Trollite Horn
+descr=An old horn that used to belong to a Trollite. Wherever there's one of these, trouble lurks nearby. The Blacksmith needs it to make cooking tools.
+
+< INVENTORY_MISTYSAP >
+name=Misty Sap
+descr=Sap from a tree. Tastes sweet. The Innkeeper needs it to make desserts.
+
+< INVENTORY_CACTUS >
+name=Cactus
+descr=A cactus from a desert which contains some water in it. The Blacksmith wants to drink from it.
+
+< INVENTORY_GOST >
+name=Göst Spirit
+descr=A defeated playful Göst. The Alchemist wants to make something edible with it.
+
+< INVENTORY_WOLLY >
+name=Wolly Milk
+descr=Fresh milk from a Wolly. Sky Baker needs it to make bread.
+
+< INVENTORY_BUCKET >
+name=Empty Bucket
+descr=An empty bucket that can be used to carry various things.
+
+< INVENTORY_HEATGLOVES >
+name=Heat-Resistant Gloves
+descr=Gloves that are able to help you endure even the highest temperatures.
+
+< INVENTORY_GLOBBU >
+name=Globbu
+descr=A magmatic prankster that likes setting people on fire. The Alchemist needs it as a heat source.
+
+< INVENTORY_SANDALS >
+name=Wooden Sandals
+descr=A very common pair of shoes allowing you to sprint fast without hurting your feet. Adds +1 MOV.
+
+< INVENTORY_LEATHERBOOTS >
+name=Leather Boots
+descr=The latest creation of famous leatherworkers, and a direct upgrade from the usual sandals and common footwear. Adds +2 MOV.
+
+< INVENTORY_GALESHOES >
+name=Gale Shoes
+descr=Powered by powerful magic. You will never feel tired while wearing this pair of shoes. Adds +2 MOV, and an additional +1 if holding 2 contracts or less.
+
+< INVENTORY_CURSEDSHOES >
+name=Enhanced Gale Shoes
+descr=Adds +4 MOV, but can only carry a single contract.
+
+// Winter 2020 Event Special Item
+< INVENTORY_DELICACY >
+name=Delicacy
+descr=A tasty morsel for Cook. Collect up to 3 per game.
+
+< INVENTORY_ATK1 >
+name=Cookie
+descr=Use to gain +1 ATK for the next 2 battles. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_ATK2 >
+name=Muffin
+descr=Use to gain +2 ATK for the next 2 battles. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_ATK3 >
+name=Pastry
+descr=Use to gain +3 ATK for the next 2 battles. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_DEF1 >
+name=Candy
+descr=Use to gain +1 DEF for the next 2 battles. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_DEF2 >
+name=Caramel
+descr=Use to gain +2 DEF for the next 2 battles. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_DEF3 >
+name=Chocolate
+descr=Use to gain +3 DEF for the next 2 battles. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_EVD1 >
+name=Ice Cream
+descr=Use to gain +1 EVD for the next 2 battles. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_EVD2 >
+name=Sorbet
+descr=Use to gain +2 EVD for the next 2 battles. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_EVD3 >
+name=Gelato
+descr=Use to gain +3 EVD for the next 2 battles. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_ASSASSINBADGE >
+name=Assassin's Badge
+descr=A badge signifying membership in a guild of skilled assassins. Its holder is rewarded for targeting other players.
+
+< INVENTORY_ELIXIR >
+name=Elixir
+descr=Use to fully heal yourself. Also cures the user from status effects inflicted by Invaders and removes curses from held contracts.
+
+< INVENTORY_HARBINGERSHIELD >
+name=Dauntless Shield
+descr=Proof of defeating The Harbinger. Wearing this shield increases your bravery, reducing all incoming battle damage by 1.
+
+< INVENTORY_ROGUEBLADE >
+name=Rogue's Twin Blades
+descr=Proof of defeating The Lost Rogue. Wielding these blades allows you to perform critical hits at a 20% rate. (A Critical Hit doubles the result of the unit's attack roll.)
+
+< INVENTORY_DARKCHOCOMOUSSE >
+name=Dark Chocolate Star
+descr=Proof of defeating Dark Chocolate Mousse. Its mysterious power and sweetness grants you 3 stars for each point of damage dealt in battle. Your enemies will also lose 3 stars for each point of damage received in battle.

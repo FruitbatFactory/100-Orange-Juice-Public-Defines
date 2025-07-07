@@ -1,0 +1,99 @@
+
+< GAME_NORMA_CLEAR >
+ノルマを達成しました！
+
+< GAME_NORMA_ACHIEVED >
+達成したノルマ
+
+< GAME_NORMA_STARS >
+スターを<normaamount>以上所持する。
+
+< GAME_NORMA_STARS_10 >
+スターを10個以上所持する。
+
+< GAME_NORMA_STARS_30 >
+スターを30個以上所持する。
+
+< GAME_NORMA_STARS_70 >
+スターを70個以上所持する。
+
+< GAME_NORMA_STARS_120 >
+スターを120個以上所持する。
+
+< GAME_NORMA_STARS_200 >
+スターを200個以上所持する。
+
+< GAME_NORMA_STARS_10_REV >
+スターを10個以下所持する。
+
+< GAME_NORMA_STARS_30_REV >
+スターを30個以下所持する。
+
+< GAME_NORMA_STARS_70_REV >
+スターを70個以下所持する。
+
+< GAME_NORMA_STARS_120_REV >
+スターを120個以下所持する。
+
+< GAME_NORMA_STARS_200_REV >
+スターを200個以下所持する。
+
+< GAME_NORMA_WINS_SINGLE >
+敵を1体撃破する。
+
+< GAME_NORMA_WINS_MULTIPLE >
+<normaamount>体以上撃破する。
+
+< GAME_NORMA_WINS_MULTIPLE_REV >
+<normaamount>体以下撃破する。
+
+< GAME_NORMA_WINS_1 >
+敵を1体撃破する。
+
+< GAME_NORMA_WINS_2 >
+敵を2体以上撃破する。
+
+< GAME_NORMA_WINS_5 >
+敵を5体以上撃破する。
+
+< GAME_NORMA_WINS_9 >
+敵を9体以上撃破する。
+
+< GAME_NORMA_WINS_14 >
+敵を14体以上撃破する。
+
+< GAME_NORMA_WINS_2_REV >
+敵を2体以下撃破する。
+
+< GAME_NORMA_WINS_5_REV >
+敵を5体以下撃破する。
+
+< GAME_NORMA_WINS_9_REV >
+敵を9体以下撃破する。
+
+< GAME_NORMA_WINS_14_REV >
+敵を14体以下撃破する。
+
+< GAME_NORMA_FAME >
+名声を<normaamount>以上集める。
+
+< GAME_NORMA_SELECT >
+ノルマを選んでください
+
+< GAME_NORMA_ALREADYMET >
+既に達成条件を満たしています！
+
+< GAME_NORMA_STARS_LEFT >
+達成まであと%dスター！
+
+< GAME_NORMA_WINS_LEFT >
+達成まであと%dウィン！
+
+< GAME_NORMA_STARS_BUTTONDISPLAY >
+%d\nStars
+
+< GAME_NORMA_WINS_BUTTONDISPLAY >
+%d\nWins
+
+[EOF]
+

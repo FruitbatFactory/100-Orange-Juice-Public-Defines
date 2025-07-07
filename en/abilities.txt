@@ -1,0 +1,25 @@
+< SUMMER2020_A_CAST >
+name=Cast
+descr=Cast the fishing rod. Disables the use of other abilities while on cooldown. Cooldown: 2 seconds.
+
+< SUMMER2020_A_SIRENSIGHT >
+name=Siren Sight
+descr=See through the water, revealing the junk and fishes. Duration: 10 seconds. Cooldown: 30 seconds.
+
+< SUMMER2020_A_IMPROVEDHOOK >
+name=Improved Hook
+descr=Your hook will sink underwater 50% faster. Duration: 15 seconds. Cooldown: 45 seconds.
+
+< SUMMER2020_A_TREASURE >
+name=Treasure of the Sea
+descr=The next fish you catch will have 2x of it's initial score value. Single use.
+
+< SUMMER2020_A_BLESSING >
+name=River's Blessing
+descr=Fish will move 25% faster. Disables the use of other abilities besides Cast while active. Can stack. Duration: 10 seconds. Cooldown: 20 seconds.
+
+< SUMMER2020_A_MASTERY >
+name=Master Angler
+descr=Resets the cooldown of all abilities, except for single use abilities and Cast. Single use.
+
+[EOF]

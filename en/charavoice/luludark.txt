@@ -1,0 +1,162 @@
+<0000> Lulu's rolling the dice.
+<0001> Here.
+<0002> Why bother...
+<0003> Ora.
+<0004> These are useless.
+<0005> Lulu will play this card if she must.
+<0006> No other choice.
+<0007> Lulu doesn't even need this.
+<0008> Here's a trap...
+<0009> What kind of person would fall for this?
+<0010> Hopefully this one will help Lulu later...
+<0011> A trap card.
+<0012> Lulu won't let you do anything.
+<0013> Lulu will make you understand with force.
+<0014> Lulu doesn't want to lose this fight...
+<0015> Lulu'll go ahead and use this.
+<0016> Unlucky power...
+<0017> Lulu can't lie down forever.
+<0018> Lulu's gonna sow more chaos.
+<0019> This is getting fun.
+<0020> Lulu's gonna try again.
+<0021> Ugh..
+<0022> Why...
+<0023> Mhm...
+<0024> This isn't right.
+<0025> Lulu's claws are very sharp.
+<0026> Stay away from Lulu if you don't wanna get hurt.
+<0027> Yah!
+<0028> Not like Lulu wants to hurt other people, but...
+<0029> Argh.
+<0030> Quit it...!
+<0031> You filthy little...
+<0032> Tsk.
+<0033> What Lulu needs is healing.
+<0034> Lulu can keep going.
+<0035> Lulu's completely restored.
+<0036> All damage is gone!
+<0037> Where to...?
+<0038> Where do you think you're taking Lulu to?
+<0039> Lulu... feels dizzy...
+<0040> What the heck is this...?
+<0041> Fuee...
+<0042> Lulu can't keep standing anymore...
+<0043> Lulu's weak...
+<0044> Lulu's miserable...
+<0045> Lulu's feeling a little wilder than usual.
+<0046> Try not to get hurt.
+<0047> You can't get away from Lulu.
+<0048> Lulu's taking you down now.
+<0049> Get the heck out of Lulu's way.
+<0050> You're so annoying.
+<0051> If you wanna play rough, Lulu can too.
+<0052> You're the one who started this...!
+<0053> Tah!
+<0054> With one strike!
+<0055> Fly away.
+<0056> Be gone.
+<0057> Kya!
+<0058> Dang it!
+<0059> Lulu got hit...?
+<0060> That's nothing to Lulu!
+<0061> Ugya!
+<0062> That's horrible...!
+<0063> Lulu's in so much pain.
+<0064> Uu...
+<0065> Lulu's fast.
+<0066> You can't hit Lulu.
+<0067> Your aim was wrong.
+<0068> Lulu isn't there.
+<0069> That's what you get when you interrupt Lulu.
+<0070> Just make way for Lulu...
+<0071> Lulu wants to do this more.
+<0072> ...Did Lulu overdo it?
+<0073> Lulu... is so weak.
+<0074> Lulu did her best...
+<0075> Uu... This can't be true...
+<0076> Lulu's loss...
+<0077> Lulu's gonna take these.
+<0078> Lulu's happy.
+<0079> Lulu needs to get herself more of these.
+<0080> A bunch of stars...
+<0081> They can't leave Lulu.
+<0082> No!
+<0083> They're gone.
+<0084> Lulu doesn't like this!
+<0085> Trap!?
+<0086> Lulu didn't expect the trap...
+<0087> Can't believe Lulu ended up like this...
+<0088> Whoa, what a sneaky trap...
+<0089> So... that's the big enemy...
+<0090> Lulu has to go all out against that thing...
+<0091> Don't you be cocky just because you're a little big...
+<0092> Lulu's scared... but she'll fight with all she's got...
+<0093> Lulu wants more and more stars.
+<0094> All this twinkling makes Lulu feel relaxed.
+<0095> Lulu's gonna gather tons of them...
+<0096> Star-filled skies...
+<0097> Lulu will beat everyone in her way.
+<0098> Lulu should be stronger than she was before.
+<0099> Lulu's gonna fight a lot.
+<0100> Lulu's claws are aching for battle.
+<0101> Wanna play with Lulu, you say? Well, that's fine...
+<0102> Lulu seems... different now? She wonders why.
+<0103> Did you choose Lulu...?
+<0104> Lulu's gonna do everything she can to win.
+<0105> *Sigh*... Let's win this game.
+<0106> So it's on now...!
+<0107> Once Lulu decides to play a game, she must win it.
+<0108> Lulu can't let anyone beat her...
+<0109> Lulu won...?
+<0110> Phew... Lulu did it?
+<0111> Lulu's glad she's the winner.
+<0112> So Lulu... got stronger for real?
+<0113> Lulu thinks that'll make her stronger.
+<0114> Lulu's glad if you're glad.
+<0115> You're gonna... try using that, right?
+<0116> Seems like you got some good stuff there...
+<0117> Let's switch.
+<0118> Will you take this from here for Lulu?
+<0119> We should help each other.
+<0120> Let's work together...
+<0121> Okay.
+<0122> That's good.
+<0123> Yeah.
+<0124> No way.
+<0125> ...Ugh.
+<0126> That's lucky... Lulu supposes.
+<0127> Uuu?
+<0128> Let's go.
+<0129> Hah!
+<0130> You can do it...
+<0131> Hello.
+<0132> Um...
+<0133> That's amazing.
+<0134> Much respect.
+<0135> Ugh, Lulu's mad.
+<0136> Can Lulu use this too?
+<0137> Lulu doesn't know how this works... But here goes.
+<0138> Not sure Lulu can use this right, but...
+<0139> Lulu's gonna pull this off.
+<0140> Thanks.
+<0141> Things won't go as you want.
+<0142> Lulu is... Lulu.
+<0143> Lulu will live her life the way she wants.
+<0144> Lulu... can't let this woman do what she wants...
+<0145> Ellie, Lulu likes you so much...
+<0146> Ellie... You not sick of being around Lulu?
+<0147> Ellie, you're the best... Fufufu.
+<0148> Ellie, we're friends forever.
+<0149> Here's an unlucky star...
+<0150> Everyone will lose stars...
+<0151> So many twinkling stars are going out.
+<0152> There's nothing to be afraid of if you all lose together.
+<0153> Lulu will erase everyone's cards.
+<0154> Sorry about your cards...
+<0155> Without cards, you guys can't interrupt Lulu...
+<0156> Lulu has to get rid of potential threats.
+<0157> Would you like... some of Lulu's poison?
+<0158> Lulu wants you all to be a little less active.
+<0159> You're all going to stop moving soon.
+<0160> Lulu's putting everyone in misery...
+<0161> Lulu will finish off everyone who tries to hurt Ellie.

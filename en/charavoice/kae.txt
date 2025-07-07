@@ -1,0 +1,161 @@
+
+<0000> Poy!
+<0001> Popoy!
+<0002> Pooy!
+<0003> Poy poy!
+<0004> Unii, this one!
+<0005> What's this thing?
+<0006> A card?
+<0007> This one!
+<0008> I'll put this down here.
+<0009> A trap? Should it go here?
+<0010> Ahaha, I'll bury this in down.
+<0011> A trap!
+<0012> I'll work out a whole lot!
+<0013> This one!
+<0014> I won't lose!
+<0015> I'm starting to have fun.
+<0016> Shupaaan! I'm blazing!
+<0017> Let's play a bunch more!
+<0018> I'm done taking a break! I'll go zupaan!
+<0019> Hmm! I'm so good to go!
+<0020> Ta-da!
+<0021> Hawah...
+<0022> Uuu...
+<0023> I don't feel better yet.
+<0024> I feel dizzy...
+<0025> Supaan!
+<0026> Zbaan!
+<0027> Kaboom!
+<0028> Zubaba!
+<0029> Wah!
+<0030> That hurts.
+<0031> Hnuuuu.
+<0032> Waah!
+<0033> Fizz fizz.
+<0034> This feels very nice.
+<0035> It's nice and warm.
+<0036> Yahoo! I'm full of energy now!
+<0037> I'm floating!
+<0038> Oh?
+<0039> Shun shun shuun!
+<0040> Warp!
+<0041> Mhmm, I can't keep standing.
+<0042> Hauu.
+<0043> I'll take a little break.
+<0044> Huh? I can't move.
+<0045> Let's battle!
+<0046> Ta-da, fight me!
+<0047> Why don't we have some fun!
+<0048> Whir! Kaboom!
+<0049> Ahaha! Sure! We can play!
+<0050> We're gonna have a lot of fun, okay?
+<0051> Hm, you wanna play with me?
+<0052> I'm more than ready!
+<0053> Shupa!
+<0054> Spapa!
+<0055> Zban!
+<0056> Gyuuun!!
+<0057> Ue!
+<0058> Wah!
+<0059> Nue!
+<0060> Howah!
+<0061> Kyun!
+<0062> Gue!
+<0063> That hurts!
+<0064> Ueeee!
+<0065> Shun!
+<0066> Shushun!
+<0067> Hira!
+<0068> Hoy!
+<0069> I did it, I did it! I won!
+<0070> I haven't had enough yet.
+<0071> Let's fight more! More!
+<0072> Shupa! Shakeen!
+<0073> Haee.
+<0074> Faah... That was fun...
+<0075> Oh, I lost.
+<0076> Uu, I don't like this.
+<0077> What are these?!
+<0078> Wow, they're beautiful.
+<0079> I got nice things!
+<0080> Hooray!
+<0081> Oh no!
+<0082> Oh, where are you going!
+<0083> Wa wa waah.
+<0084> They went somewhere...
+<0085> That scared me!
+<0086> Wah! What is this!
+<0087> Yaan!
+<0088> I messed up!
+<0089> Wah, there's something fun.
+<0090> Looks like I'll get to have a lot of fun!
+<0091> Hahaha! I'm having the best time!
+<0092> Wow, that guy looks super strong!
+<0093> Twinkle twinkle!
+<0094> A star-gathering game? Is it any fun?
+<0095> I don't know if I can hold that many.
+<0096> I'll get a lot of them and take them home.
+<0097> I can go crazy? Hooray!
+<0098> I'll go play away!
+<0099> Whoo! I'm heating up!
+<0100> I'm so excited!
+<0101> I'm Kae! Nice to meetcha!
+<0102> I'm ready to burn things!
+<0103> Play a lot, have fun a lot!
+<0104> I can go out? All right!
+<0105> Yaay, here I go!
+<0106> Ahahahaha!
+<0107> Who do I want to play with?
+<0108> Let's do our best to win this game.
+<0109> I did it! I'm in the first place!?
+<0110> Ahahahahahahahahahaha!!
+<0111> Boy, that was fun!
+<0112> Let's play sometime again.
+<0113> I found a good thing!
+<0114> Ahaha! That thing looks nice!
+<0115> You want this? Then, keep it.
+<0116> Never seen this one! Whee!
+<0117> We switch!
+<0118> I wanna play a little more, though.
+<0119> Okay! Time for you to go out!
+<0120> See ya!
+<0121> Yeah!
+<0122> That's really good!
+<0123> Sure.
+<0124> No.
+<0125> What, really?
+<0126> Wah! I'm happy!
+<0127> Oh?
+<0128> All right then, let's play!
+<0129> Throw this thing? Okay then!
+<0130> Shupaaan!
+<0131> Yahoooy!
+<0132> Hmmm...
+<0133> Whoa!
+<0134> Incredible, amazing, awesome!
+<0135> Uuu... Oh no...
+<0136> I guess I wanna try using this.
+<0137> Mhm? Will I use this one?
+<0138> Ahahahaha! Not sure what this does, but I'll play it anyway.
+<0139> What will happen? I'm so hyped!
+<0140> Hooray! Nana's here! Let's play!
+<0141> Yeah, sure!
+<0142> Ah, that was so much fun!
+<0143> Yeah, let's play again.
+<0144> What? Can I really beat it up?
+<0145> Wah! Here it comes!
+<0146> Boy, that was scary!
+<0147> Uuu...
+<0148> Wow, it's a kitty!
+<0149> Oh? A kitty!
+<0150> Ahaha, you're so adorable!
+<0151> You're a strong kitty.
+<0152> I-it's a puppy!
+<0153> Hey, let me cuddle you!
+<0154> You're so fluffy!
+<0155> The puppy's strong...!
+<0156> Wow, it's a bunny! Boing boing!
+<0157> A fluffy bunny!
+<0158> You're one energetic bunny!
+<0159> Bunnies are strong...

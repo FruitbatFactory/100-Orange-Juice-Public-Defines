@@ -1,0 +1,160 @@
+<0000> Isto é deste jeito?
+<0001> Aqui vou eu.
+<0002> Aí vai.
+<0003> Hah!
+<0004> Estes podem me ajudar a ganhar, certo?
+<0005> Eu imagino que seja hora disso.
+<0006> Vamos lá!
+<0007> Bom, em momentos como esse, o que eu faço é...
+<0008> Eu vou colocar uma armadilha aqui.
+<0009> Isso vai aqui.
+<0010> *esgueira esgueira* Eu não sou boa com essas coisas... Ufa.
+<0011> Ufa, foi colocado.
+<0012> Me dê um pouco de poder, pode ser?
+<0013> Mhm, estou ficando mais forte.
+<0014> Isto me faz invencível.
+<0015> Agora eu estou mais forte do que nunca.
+<0016> Certo, e rápida eu irei...!
+<0017> Não é tarde demais para derrotar vocês.
+<0018> O descanso termina aqui...!
+<0019> Eu consigo me mexer novamente... Certo então...
+<0020> Sem problemas. Não é muito tarde para eu ganhar o jogo!
+<0021> O quê? Porquê!
+<0022> Isso é inacreditável! Eu só quero jogar o jogo!
+<0023> Fue... Eu acho que isso significa que eu deveria ficar aqui um pouco mais.
+<0024> Ei, quando que eu posso me levantar...
+<0025> Aqui vou eu.
+<0026> Ali!
+<0027> Yah!
+<0028> Ataque!
+<0029> Kyah!
+<0030> Mas o quê...!?
+<0031> Nossa.
+<0032> Qual o seu problema?
+<0033> Isso que é cura.
+<0034> Ah, que sensação boa.
+<0035> Eu estou cheia de energia agora!
+<0036> O que é isso!? É uma sensação tão boa!
+<0037> Ãhn? O que está acontecendo?
+<0038> Como assim!?
+<0039> Fuaaah! Eu estou voando!
+<0040> Para onde você está me levando?
+<0041> Nããoo! Você só pode estar de brincadeira comigo!
+<0042> Esse não conta! Nossa!
+<0043> Oh não.
+<0044> Ugh...
+<0045> Agora, se prepare.
+<0046> Eu vou primeiro!
+<0047> Fufu, te achei!
+<0048> É hora da batalha!
+<0049> Okay, pode vir!
+<0050> Eu aceito seu desafio.
+<0051> Fufu, irei cuidar de você.
+<0052> Pode vir!
+<0053> Minhas tesouras são afiadas.
+<0054> Eu vou te cortar e te atravessar!
+<0055> Eiyah!
+<0056> Vamos ver se você pode se desviar disso!
+<0057> Au!
+<0058> Ei, isto dói!
+<0059> Nossa!
+<0060> Yan!
+<0061> Você é horrível! Horrível!
+<0062> Isso dói demais!
+<0063> Isso dóóóói!
+<0064> Au! Nossa!
+<0065> Você achou que eu não era capaz de desviar disso?
+<0066> Fufufu, devagar demais.
+<0067> Estou aqui.
+<0068> Para onde você está olhando?
+<0069> Fufu, não é nada.
+<0070> Isso foi bem interessante.
+<0071> Parece que venci. Ufufu.
+<0072> Meu nome é Alicianrone. Melhor você se lembrar disso.
+<0073> O quêêêê? Eu fui... derrotada?
+<0074> Isso não conta. Isso! Não! Cooonta!
+<0075> O quê? Eu perdi? Eu perdi?
+<0076> Vamos fazer de novo! Mais uma vez! Uuu...
+<0077> Estrelas? Posso ter elas?
+<0078> Fufu, elas parecem bonitas.
+<0079> Eu gosto dessas coisas.
+<0080> Sim, sim!
+<0081> O quê? Elas se foram?
+<0082> Oh, deixei cair algumas...!
+<0083> Não! Não desapareçam...!
+<0084> Wah, minhas estrelas...!
+<0085> Como é que isto está aqui...!?
+<0086> Nossa, quem botou isto aqui!?
+<0087> O quê!? Uma armadilha!?
+<0088> Nossa, isso é terrível!
+<0089> O que é aquela coisa...?
+<0090> Uma sombra enorme... Seria um monstro?
+<0091> Isso está ficando mais interessante.
+<0092> Eu tenho que derrotar essa coisa?
+<0093> Ok, eu vou caçar algumas estrelas por aí.
+<0094> Qual norma eu posso escolher? Hmm, esta aqui!
+<0095> Eu gostaria de ir com essa.
+<0096> Vamos pegar um monte dessas coisas bonitas para nós.
+<0097> Exercício, vamos fazer alguns exercícios!
+<0098> Fufu, eu tenho muito mais energia agora, então... Será este aqui.
+<0099> Eu vou mostrar a vocês um espetáculo.
+<0100> Eu vou derrotar cada um de vocês.
+<0101> Sou a Alicianrone. Apenas me chame Rone.
+<0102> Gostaria de ir comigo? Claro, vamos lá, então.
+<0103> Fufu, certo então, vamos nos divertir por aí.
+<0104> Fufu, eu espero que a gente se divirta.
+<0105> O que eu deveria fazer primeiro?
+<0106> E então começa.
+<0107> Começo de jogo!
+<0108> Ready, steady, go!
+<0109> Eu consegui! Eu venci o jogo!
+<0110> Fufufu, venci!
+<0111> O que achou? Essa é minha verdadeira impetuosidade! Incrível, não é?
+<0112> Eu me diverti demais! Muito obrigada, pessoal!
+<0113> Olhe o que eu achei.
+<0114> Isso ajuda? Está feliz com isso?
+<0115> Isso é um novo item?
+<0116> Fufufu, advinhe o que é isso.
+<0117> Troca!
+<0118> Eu já volto.
+<0119> É seu turno.
+<0120> Você pode continuar daqui, né?
+<0121> Ok.
+<0122> Bom.
+<0123> Sim.
+<0124> Não.
+<0125> Mas que ruim.
+<0126> Sortudo.
+<0127> Fuee?
+<0128> Vamos começar.
+<0129> Estou jogando o dado.
+<0130> Vá, vá!
+<0131> Olá~.
+<0132> O quê? O quê...?
+<0133> Ótimo.
+<0134> Fufu, que esplêndido.
+<0135> Mhm...!
+<0136> Certo, então... eu uso isso desse jeito?
+<0137> Eu devia jogar essa carta agora de qualquer forma, né?
+<0138> Bom, um, isto?
+<0139> Aqui vai!
+<0140> Repa, posso lhe pedir um segundo?
+<0141> OK Repa, vou ficar um pouco com você.
+<0142> E-hem! Seu cabelo não pode me pegar.
+<0143> Tá bom, tá bom, pode tirar seu cabelo de mim logo?
+<0144> Dois.
+<0145> Três!
+<0146> Quatro!!
+<0147> Todos juntos!
+<0148> Não deveria ter sido na minha frente!
+<0149> Derrotei a todos vocês juntas!
+<0150> Não é forte o bastante...?
+<0151> Isso me faz rápida o suficiente...!
+<0152> Bruxa da Floresta... Você parece diferente, entretanto.
+<0153> Bruxa da Floresta... Não, quem é você?
+<0154> Quem raios é você...?
+<0155> Você parece tão forte quanto a Bruxa da Floresta...
+<0156> O quê? Existem duas Bruxas da Floresta...?
+<0157> Quem é quem? Que confusão!
+<0158> Bruxa da Floresta... Você é capaz até mesmo de criar cópias de si mesma?
+<0159> Esta aí é a Bruxa da Floresta... e aquela ali também é a Bruxa da Floresta?

@@ -1,0 +1,161 @@
+<0000> Está na hora de rolar o dado.
+<0001> Eeey.
+<0002> Me mostre um bom número.
+<0003> Aí vou eu.
+<0004> Está na hora de uma carta.
+<0005> Isto vai virar o jogo.
+<0006> Para que eu consiga uma vantagem...
+<0007> Eu vou jogar uma carta.
+<0008> Está na hora de uma armadilha.
+<0009> Eu estou colocando uma armadilha aqui.
+<0010> Eu sei que como uma deusa eu não devia estar agindo de forma furtiva, mas...
+<0011> Tudo pela vitória.
+<0012> Está na hora de uma carta de batalha.
+<0013> Eu vou tentar uma vitória por emboscada.
+<0014> Eu vou triunfar.
+<0015> Eu vou usar tudo o que eu puder para ganhar.
+<0016> Derreta como chocolate.
+<0017> Eu fui reanimada.
+<0018> Vamos começar de novo.
+<0019> Phew... A pausa acabou.
+<0020> Agora, eu estou pronta para ir de novo.
+<0021> Que desapontante da minha parte.
+<0022> Eu não estou pronta para levantar ainda.
+<0023> Eu estou arrependida de mim mesma.
+<0024> Eu tenho que ser reanimada agora.
+<0025> Está na hora para um ataque.
+<0026> Eu não terei misericórdia por você.
+<0027> Eu estou te atacando.
+<0028> Tome isso.
+<0029> Mhm.
+<0030> Seu...
+<0031> Ugh.
+<0032> Oh, raios.
+<0033> Está na hora de se curar.
+<0034> Deixe os machucados serem tratados.
+<0035> Eu não tenho tempo para ficar deitada.
+<0036> Eu preciso me motivar novamente.
+<0037> Eu estou teleportando.
+<0038> Não importa onde irei parar.
+<0039> Onde estou?
+<0040> Me sinto tonta.
+<0041> Eu poderia ter feito melhor...
+<0042> Isto é terrível.
+<0043> Eu fui derrotada.
+<0044> Eu tenho que me recuperar rapidamente.
+<0045> Está na hora de uma batalha.
+<0046> Eu estou te desafiando.
+<0047> Me desculpe, mas você está no meu caminho.
+<0048> Eu vou acabar com você.
+<0049> Você me desafia?
+<0050> Que imprudente de sua parte.
+<0051> Muito bem. Eu aceito seu desafio.
+<0052> Venha até mim.
+<0053> Eu não serei gentil.
+<0054> Quebre!
+<0055> Desapareça.
+<0056> Ey.
+<0057> Ugh.
+<0058> Arrgh.
+<0059> Aquilo me acertou?
+<0060> Isso não foi nada...!
+<0061> Que poderoso...
+<0062> Isso foi bastante dano.
+<0063> Não é uma boa reviravolta...
+<0064> Eu estarei acabada se as coisas continuarem acontecendo desse jeito...
+<0065> Eu vou desviar.
+<0066> Evasão.
+<0067> Eu não serei atingida.
+<0068> Isso será desviado.
+<0069> É apenas natural.
+<0070> É a minha vitória.
+<0071> Eu venci.
+<0072> Facinho.
+<0073> Eu perdi...
+<0074> Não pode ser.
+<0075> Eu aceito a derrota.
+<0076> Eu provavelmente te subestimei.
+<0077> Isso fez meu dia.
+<0078> Estas estrelas são minhas.
+<0079> Bônus foram ganhos.
+<0080> Eu consegui estrelas.
+<0081> Eu deixei cair algumas.
+<0082> Eu preciso coletá-las novamente.
+<0083> Oh, não...
+<0084> Ah, minhas estrelas.
+<0085> Eu estou desapontada comigo mesma por cair nisso.
+<0086> Que descuido de minha parte.
+<0087> Uma armadilha...?
+<0088> Ugh, esta foi uma armadilha sacana.
+<0089> Eu sinto um poder maior.
+<0090> Então, está finalmente aqui.
+<0091> Tempo de aquecimento está acabado agora.
+<0092> Eu não posso deixar aquela coisa me superar.
+<0093> Norma de estrela.
+<0094> Eu vou coletar estrelas.
+<0095> Eu tenho um certo apego por estrelas.
+<0096> Eu prefiro fazer isto, pois estrelas são belas.
+<0097> Vamos lutar.
+<0098> Tolos devem ser punidos.
+<0099> Ninguém fica no meu caminho.
+<0100> Eu vou lutar contra qualquer um se precisar.
+<0101> Eu sou Sweet Breaker.
+<0102> Meu nome real? E o que saber isso lhe traria de bom?
+<0103> Você gostaria de ir comigo?
+<0104> Muito bem.
+<0105> E então começou.
+<0106> Começou.
+<0107> Vamos lá.
+<0108> Certo então...
+<0109> Eu sou vitoriosa.
+<0110> Isto foi simplesmente dado.
+<0111> Um resultado nada surpreendente.
+<0112> Eu pareço feliz...? Não, não estou.
+<0113> Nós ganhamos um item.
+<0114> Por favor receba.
+<0115> Bom para você.
+<0116> Isto te satisfaz?
+<0117> Hora de substituir.
+<0118> Eu preciso que você tome meu lugar, por favor.
+<0119> Vamos trocar de lugar.
+<0120> É aqui que a gente troca.
+<0121> Está bem.
+<0122> Isto é bom.
+<0123> Sim.
+<0124> Não.
+<0125> Oh, nossa...
+<0126> Você está com sorte.
+<0127> Mhm.
+<0128> Agora, vamos lá.
+<0129> Eu vou jogar o dado.
+<0130> Vamos lá, beleza?
+<0131> Olá.
+<0132> Mhm.
+<0133> Isto é bom.
+<0134> Isto é extremamente bom.
+<0135> Estou sem palavras.
+<0136> Eu acho que vou jogar isto.
+<0137> Esta carta... Como foi parar em minha mão?
+<0138> Eu vou tentar usar isto.
+<0139> Eu não sei do que isto é capaz, mas acho que vou jogar.
+<0140> Meu nome real? É... Amami.
+<0141> Sweet Guardian, lutamos novamente.
+<0142> Sweet Guardian... Você de novo não.
+<0143> Eu sou a vencedora dessa vez.
+<0144> Ugh, você é muito boa.
+<0145> Você é... Sweet Blogger.
+<0146> Eu não esperava que você fosse me desafiar, Sweet Blogger.
+<0147> Todos os seus posts sobre doces... Por favor salve-os.
+<0148> Como uma blogueira pode ter tanta força?
+<0149> Sweet Maker...!
+<0150> Eu nunca nem imaginei ter que lutar com você. 
+<0151> Os doces que você faz... Não me faça destruí-los.
+<0152> Então, você me derrotou... Bom trabalho, Sweet Maker.
+<0153> Agora eu estou contra uma guardiã.
+<0154> Eu sei que você também é chamada de deus.
+<0155> Seu poder foi nobre e belo.
+<0156> Talvez guardiões sejam o meu nêmesis...
+<0157> Pudim... Eu apenas não sei o que dizer sobre isso.
+<0158> Como este pudim chegou até mim?
+<0159> Qual o significado disso...? Estou sendo testada?
+<0160> Deveria perdoar o pudim?

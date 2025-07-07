@@ -1,0 +1,107 @@
+< CHALLENGE_TOOLTIP_REROLL >
+Pay %d stars to reroll for a different challenge of this type.
+
+< CHALLENGE_TOOLTIP_STARCOUNT >
+Current Stars: %d
+
+< CHALLENGE_GENERIC_PLAYS >
+Play %d games.
+
+< CHALLENGE_GENERIC_WINS >
+Win %d game.
+
+< CHALLENGE_GENERIC_STARS >
+Collect %d stars.
+
+< CHALLENGE_GENERIC_KOS >
+Earn %d wins.
+
+< CHALLENGE_GENERIC_STAR_WINS >
+Win %d game with Star Norma.
+
+< CHALLENGE_GENERIC_KO_WINS >
+Win %d game with Wins Norma.
+
+< CHALLENGE_GENERIC_PANELS >
+Travel %d panels.
+
+< CHALLENGE_GENERIC_TRAPS >
+Place %d traps.
+
+< CHALLENGE_GENERIC_STAR_NORMAS >
+Complete %d star normas.
+
+< CHALLENGE_GENERIC_WIN_NORMAS >
+Complete %d win normas.
+
+< CHALLENGE_GENERIC_DAMAGE_DEALT >
+Deal %d damage.
+
+< CHALLENGE_GENERIC_HEALING >
+Heal %d HP.
+
+< CHALLENGE_GENERIC_PLAY_BOOST >
+Play %d Boost cards.
+
+< CHALLENGE_GENERIC_PLAY_EVENT >
+Play %d Event cards.
+
+< CHALLENGE_GENERIC_PLAY_BATTLE >
+Play %d Battle cards.
+
+< CHALLENGE_UNIT_PLAYS >
+Play %d games as %s.
+
+< CHALLENGE_UNIT2_PLAYS >
+Play %d games as %s or %s.
+
+< CHALLENGE_UNIT_WINS >
+Win %d game as %s.
+
+< CHALLENGE_TYPE_UNIT_STAR_NORMAS >
+Complete %d star normas as %s.
+
+< CHALLENGE_TYPE_UNIT_WIN_NORMAS >
+Complete %d win normas as %s.
+
+< CHALLENGE_CARD_BRING >
+Bring at least one %s to %d games.
+
+< CHALLENGE_CARD_PLAY >
+Play %s %d times.
+
+< CHALLENGE_CARD2_BRING >
+Bring at least one %s or %s to %d games.
+
+< CHALLENGE_CARD2_PLAY >
+Play %s or %s %d times.
+
+< CHALLENGE_MAP_PLAY >
+Play %d game on %s.
+
+< CHALLENGE_MAP2_PLAY >
+Play %d game on %s or %s.
+
+< CHALLENGE_TYPE_EVENT_VDAY_CHOCOLATE >
+Use the chocolate dice to KO %d players.
+
+< CHALLENGE_TYPE_EVENT_VDAY_HEARTS >
+Use the heart dice to collect %d stars from bonus panels.
+
+< CHALLENGE_TYPE_EVENT_XMAS_ICE >
+Slide over %d ice panels.
+
+< CHALLENGE_LABEL_CURRENT >
+Current Challenges
+
+< CHALLENGE_MESSAGE_EVENT_NOT_LOADED >
+Please wait, fetching current event status...
+
+< CHALLENGE_MESSAGE_DAYS >
+d
+
+< CHALLENGE_MESSAGE_REROLL_CONFIRM >
+Are you sure you wish to reroll this challenge?
+
+[EOF]
+

@@ -1,0 +1,107 @@
+< CHALLENGE_TOOLTIP_REROLL >
+Заплатите %d Звёзд, чтобы заменить испытание, на другое такого же типа.
+
+< CHALLENGE_TOOLTIP_STARCOUNT >
+Количество ваших Звёзд: %d
+
+< CHALLENGE_GENERIC_PLAYS >
+Сыграйте %d игр.
+
+< CHALLENGE_GENERIC_WINS >
+Выиграйте %d игр.
+
+< CHALLENGE_GENERIC_STARS >
+Соберите %d Звёзд.
+
+< CHALLENGE_GENERIC_KOS >
+Заработайте %d Побед.
+
+< CHALLENGE_GENERIC_STAR_WINS >
+Выиграйте %d игр со Звёздными Нормами.
+
+< CHALLENGE_GENERIC_KO_WINS >
+Выиграйте %d игр с Победными Нормами.
+
+< CHALLENGE_GENERIC_PANELS >
+Пройдите %d панелей.
+
+< CHALLENGE_GENERIC_TRAPS >
+Разместите %d ловушек.
+
+< CHALLENGE_GENERIC_STAR_NORMAS >
+Завершите %d Звёздных Норм.
+
+< CHALLENGE_GENERIC_WIN_NORMAS >
+Завершите %d Победных Норм.
+
+< CHALLENGE_GENERIC_DAMAGE_DEALT >
+Нанесите %d урона.
+
+< CHALLENGE_GENERIC_HEALING >
+Восстановите %d ОЗ.
+
+< CHALLENGE_GENERIC_PLAY_BOOST >
+Используйте %d карт-усилений.
+
+< CHALLENGE_GENERIC_PLAY_EVENT >
+Используйте %d карт-событий.
+
+< CHALLENGE_GENERIC_PLAY_BATTLE >
+Используйте %d боевых карт.
+
+< CHALLENGE_UNIT_PLAYS >
+Сыграйте %d игр за %s.
+
+< CHALLENGE_UNIT2_PLAYS >
+Сыграйте %d игр за %s или %s.
+
+< CHALLENGE_UNIT_WINS >
+Выиграйте %d игр за %s.
+
+< CHALLENGE_TYPE_UNIT_STAR_NORMAS >
+Завершите %d Звёздных Норм за %s.
+
+< CHALLENGE_TYPE_UNIT_WIN_NORMAS >
+Завершите %d Победных Норм за %s.
+
+< CHALLENGE_CARD_BRING >
+Возьмите с собой минимум 1 %s в %d игр.
+
+< CHALLENGE_CARD_PLAY >
+Используйте %s %d раз.
+
+< CHALLENGE_CARD2_BRING >
+Возьмите с собой минимум 1 %s или %s в %d игр.
+
+< CHALLENGE_CARD2_PLAY >
+Используйте %s или %s %d раз.
+
+< CHALLENGE_MAP_PLAY >
+Сыграйте %d игр на %s.
+
+< CHALLENGE_MAP2_PLAY >
+Сыграйте %d игр на %s или %s.
+
+< CHALLENGE_TYPE_EVENT_VDAY_CHOCOLATE >
+Нокаутируйте %d игроков играя с шоколадным кубиком.
+
+< CHALLENGE_TYPE_EVENT_VDAY_HEARTS >
+Соберите с бонусных панелей %d Звёзд играя с кубиком-сердечком.
+
+< CHALLENGE_TYPE_EVENT_XMAS_ICE >
+Проскользите через %d ледяных панелей.
+
+< CHALLENGE_LABEL_CURRENT >
+Активные Испытания
+
+< CHALLENGE_MESSAGE_EVENT_NOT_LOADED >
+Пожалуйста, подождите...
+
+< CHALLENGE_MESSAGE_DAYS >
+ дней,
+ 
+< CHALLENGE_MESSAGE_REROLL_CONFIRM >
+Вы точно хотите заменить это испытание?
+
+[EOF]
+

@@ -1,0 +1,297 @@
+
+< SHOP_LABEL_HOME >
+ホーム
+
+< SHOP_LABEL_CARDS >
+カード
+
+< SHOP_LABEL_CHARACTERS >
+キャラクター
+
+< SHOP_LABEL_CHALLENGES >
+チャレンジ
+
+< SHOP_LABEL_FIELDS >
+フィールド
+
+< SHOP_LABEL_HALLOWEEN >
+ハロウィン
+
+< SHOP_LABEL_CHRISTMAS >
+クリスマス
+
+< SHOP_LABEL_PIGFORMATION >
+豚化
+
+< SHOP_LABEL_COWKIGU >
+ウシ着ぐるみ
+
+< SHOP_LABEL_TIGERKIGU >
+トラ着ぐるみ
+
+< SHOP_LABEL_RETIREDEVENTS >
+終了イベント
+
+< SHOP_LABEL_PLAYERPLATES >
+プレイヤープレート
+
+< SHOP_LABEL_MISC >
+その他
+
+< SHOP_LABEL_EMOTES >
+絵文字
+
+< SHOP_LABEL_PETS >
+ペット
+
+< SHOP_LABEL_ARCADE >
+アーケード
+
+< SHOP_LABEL_DLC >
+DLC
+
+< SHOP_LABEL_ALL >
+すべて
+
+< SHOP_LEVEL >
+レベル
+
+< SHOP_OFFLINE >
+Steamとの接続がありません。
+
+< SHOP_DLC_SYURANANAKO >
+しゅら＆ナナコ
+
+< SHOP_DLC_SAKIKYOUSUKE >
+サキ＆キョウスケ
+
+< SHOP_DLC_MIXED >
+ミックスブースターパック
+
+< SHOP_DLC_KRILAKAE >
+クリララリス＆カエ
+
+< SHOP_DLC_ALTEKYOKO >
+アルテ＆キョウコ
+
+< SHOP_DLC_SHAMSHERRY >
+シャム＆シェリー
+
+< SHOP_DLC_BREAKERPACK >
+ブレイカーパック
+
+< SHOP_DLC_ACCELERATIONPACK >
+アクセラレーションパック
+
+< SHOP_DLC_NATHTOMATOMIMYUU >
+ナート＆トマト＋みみゅう
+
+< SHOP_DLC_SUGURIHIMEWINTER >
+スグリ＆ヒメ(冬服)
+
+< SHOP_DLC_KIRIKONONAME >
+斬子＆NoName
+
+< SHOP_DLC_STARTERVOICEPACK >
+スターターキャラボイスパック
+
+< SHOP_DLC_CEOREPARQUEMIUSAKI >
+魔女パック
+
+< SHOP_DLC_COREVOICEPACK1 >
+初期キャラボイスパック1
+
+< SHOP_DLC_YUKITOMOMORENEWAL >
+ユキ＆トモモ リニューアルパック
+
+< SHOP_DLC_COREVOICEPACK2 >
+初期キャラクターボイスパック2
+
+< SHOP_DLC_TSIHTEQUILA >
+ツィー＆テキーラ
+
+< SHOP_DLC_MEINATSUMI >
+メイ＆ナツミ
+
+< SHOP_DLC_NICOARTHUR >
+おもちゃ屋パック
+
+< SHOP_DLC_IRUMIRA >
+イル＆ミラ
+
+< SHOP_DLC_CUTIES >
+ソラ＆シャム（可愛者）
+
+< SHOP_DLC_ULTIMATEWEAPONGIRL >
+Ultimate Weapon Girl
+
+< SHOP_DLC_YUUKIISLAY >
+ユウキ＆アイラ
+
+< SHOP_DLC_PUDDINGPACK >
+プリンパック
+
+< SHOP_DLC_SUGURI46SUMIKA >
+古の守護者パック
+
+< SHOP_DLC_ELLIELULU >
+旅人パック
+
+< SHOP_DLC_RONETEO >
+アリシアンローネ＆テオトラッタ
+
+< SHOP_DLC_ARNELLEMAYNIE >
+アーネル＆メイニー
+
+< SHOP_DLC_CHRISKYUPITA >
+クリス＆きゅぴた
+
+< SHOP_DLC_HALENACOOK >
+ハレナ＆クック
+
+< SHOP_DLC_RIDERMERCHANT >
+レールウェイランナーズ
+
+< SHOP_DLC_HIMEFERNETRENEWAL >
+プリンセスパック
+
+< SHOP_DLC_MALTMESCAL >
+モルト＆メスカル
+
+< SHOP_DLC_SHIFUREIKA >
+シフ＆レイカ
+
+< SHOP_DLC_PUDDINGPOP >
+ぷでぃんぐぽっぷ
+
+< SHOP_DLC_WATTYPOMERANIUS >
+ウォーティー＆ポメラニアス
+
+< SHOP_DLC_SWEETGODS >
+スイート神
+
+< SHOP_DLC_KRILAMIMYUURENEWAL >
+わるだプリズンブレイクパック
+
+< SHOP_DLC_ALTEREGOPACK >
+オルターエゴパック
+
+< SHOP_DLC_STARBAKERBREAKER >
+Star Baker Breaker
+
+< SHOP_DLC_NEWELLIEKAI >
+主人公パック
+
+< SHOP_DLC_OLDGUARDPACK >
+バーボン＆グレーン
+
+< SHOP_DLC_POYOCHUU >
+ポヨ＆チュー
+
+< SHOP_DLC_HARUKANA >
+ハルカ＆カナタ
+
+< SHOP_TOOLTIP_HOME >
+カテゴリー別にアイテムを探す
+
+< SHOP_TOOLTIP_CARDS >
+解除済みのカードパックとユニット
+
+< SHOP_TOOLTIP_CHARACTERS >
+キャラの外見変更アイテム(キャラごとに分類)
+
+< SHOP_TOOLTIP_CHALLENGES >
+チャレンジ限定の木箱と髪色（オレンジ消費）
+
+< SHOP_TOOLTIP_FIELDS >
+解除済みのフィールド
+
+< SHOP_TOOLTIP_HALLOWEEN >
+ハロウィンイベント衣装
+
+< SHOP_TOOLTIP_CHRISTMAS >
+クリスマスイベント衣装
+
+< SHOP_TOOLTIP_PIGFORMATION >
+豚化イベントアクセサリー
+
+< SHOP_TOOLTIP_COWKIGU >
+ウシ着ぐるみ
+
+< SHOP_TOOLTIP_TIGERKIGU >
+トラ着ぐるみ
+
+< SHOP_TOOLTIP_RETIREDEVENTS >
+リタイアしたイベントの報酬
+
+< SHOP_TOOLTIP_MISC >
+マルチプレイヤーのボーナス要素やその他のアイテム
+
+< SHOP_TOOLTIP_EMOTES >
+チャットで使える絵文字
+
+< SHOP_TOOLTIP_PETS >
+ゲームにお供するペット
+
+< SHOP_TOOLTIP_ARCADE >
+素敵な賞品
+
+< SHOP_TOOLTIP_DLC >
+実際の現金でDLCを購入
+
+< SHOP_TOOLTIP_PLAYERPLATES >
+オンラインプレイヤープレート用の背景画像やフレームなどを購入
+
+< SHOP_TOOLTIP_ALL >
+ショップ内の全アイテムを閲覧
+
+< SHOP_CRATE_CONTENTS >
+~コンテンツ~
+
+< SHOP_CRATE_LOOT_NONE >
+なし：
+
+< SHOP_CRATE_LOOT_STARS >
+スター：
+
+< SHOP_CRATE_LOOT_HALLOWEEN >
+ハロウィンアクセサリー
+
+< SHOP_CRATE_LOOT_CHRISTMAS >
+クリスマスコスチューム：
+
+< SHOP_CRATE_LOOT_SUNGLASSES >
+サングラス：
+
+< SHOP_CRATE_LOOT_RADPOPPO >
+過激ぽっぽ
+
+< SHOP_CRATE_LOOT_HOMEMARK >
+ホームパネルアイコン：
+
+< SHOP_CRATE_LOOT_POSE >
+ポーズ：
+
+< SHOP_CRATE_LOOT_HAIR >
+髪：
+
+< SHOP_CRATE_LOOT_DICE >
+ダイス：
+
+< SHOP_CRATE_LOOT_ORANGES >
+オレンジ：
+
+< SHOP_CRATE_LOOT_CHARACTER >
+キャラクター：
+
+< SHOP_CRATE_LOOT_MYSTERY >
+???
+
+< SHOP_FILTER_OWNED >
+所持済みを非表示
+
+< SHOP_ERROR_INVENTORY_PURCHASE >
+購入できません。時間をおいて再度お試しください。
+
+[EOF]
+

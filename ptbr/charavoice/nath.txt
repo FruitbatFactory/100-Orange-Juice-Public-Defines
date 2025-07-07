@@ -1,0 +1,168 @@
+<0000> Me perdoe pelo chute, as circunstâncias o ditaram...
+<0001> Devo chutar isto?
+<0002> Hmph!
+<0003> Irei chutar o dado.
+<0004> Então como se para ganhar a vantagem...
+<0005> Eu estou acostumada a lidar com essas coisas.
+<0006> Eu irei para a ofensiva agora.
+<0007> Irei alterar a situação com uma carta.
+<0008> Aqui está uma armadilha.
+<0009> Eu estou colocando uma aqui...
+<0010> Eu sou muito boa nisto.
+<0011> Melhor você não se intrometer.
+<0012> Minha força de luta melhorou.
+<0013> Se eu devo lutar.
+<0014> Estou te avisando: estou mais forte do que nunca.
+<0015> Você está preparado?
+<0016> Este é meu último recurso.
+<0017> Continuando com o meu dever.
+<0018> Posso continuar.
+<0019> Eu ainda não terminei.
+<0020> Todas as funções estão de volta ao normal.
+<0021> Eu não consigo continuar com meu dever.
+<0022> Eu ainda estou recuperando.
+<0023> Eu preciso de mais tempo.
+<0024> Isto é frustrante.
+<0025> Eu vou te atacar.
+<0026> Eu estou indo até você.
+<0027> Eu estou fazendo isto.
+<0028> Começando o ataque.
+<0029> Ugh.
+<0030> Tomei dano.
+<0031> Ugh, de onde isso veio...?
+<0032> Não é um desenvolvimento ideal...
+<0033> Eu recuperei agora.
+<0034> Com isto, eu posso me sustentar por um tempo.
+<0035> Eu estou perfeitamente boa para ir.
+<0036> Eu fui salva.
+<0037> Teleporte?
+<0038> Eu estou sendo jogada para longe?
+<0039> Isto é completamente inesperado...
+<0040> Onde estou pousando...?
+<0041> Ugh, de onde fui atingida...?
+<0042> Fui nocauteada.
+<0043> Eu nunca imaginei que seria encurralada desse jeito.
+<0044> Fui atingida pela pior parte disso.
+<0045> Me livrarei de você.
+<0046> Eu vou te desafiar.
+<0047> Aqui vou eu.
+<0048> Começando o combate.
+<0049> Você é um inimigo?
+<0050> Encontro com inimigo.
+<0051> Eu estou pronta para contra-atacar.
+<0052> Desafio aceito. Venha.
+<0053> Eu vou atirar em você.
+<0054> Eu vou te nocautear.
+<0055> Eu vou te acertar.
+<0056> Ataque.
+<0057> Fui atingida.
+<0058> Eu posso continuar.
+<0059> Fui atingida?
+<0060> Ugh.
+<0061> Severamente danificada.
+<0062> Isto é...
+<0063> Eu preciso fazer algo.
+<0064> Argh.
+<0065> Desviado com sucesso.
+<0066> Sem problemas para desviar.
+<0067> Você achou que poderia me acertar?
+<0068> Sem nenhum problema.
+<0069> Eu ganhei o jogo.
+<0070> A vitória é minha.
+<0071> Vamos seguir em frente.
+<0072> Bom, o próximo é...
+<0073> Uma derrota...?
+<0074> Vixe, então perdi o jogo.
+<0075> Eu não consigo mover.
+<0076> Minha nossa.
+<0077> Eu consegui estrelas.
+<0078> Então, eu deveria coletar estes?
+<0079> Mas que raios são estes?
+<0080> Para o que servem estas estrelas...?
+<0081> Elas escorregaram.
+<0082> Estrelas foram perdidas.
+<0083> Eu não devia ter perdido elas...?
+<0084> Perdi elas.
+<0085> Então é uma armadilha.
+<0086> Estou em uma... armadilha?
+<0087> Alguém me pegou.
+<0088> Ugh... Uma armadilha?
+<0089> Uma entidade enorme foi detectada.
+<0090> Um inimigo... gigante?
+<0091> Uma quantidade enorme de energia foi detectada.
+<0092> Um movimento em falso, e eu estarei acabada...
+<0093> Parece que preciso coletar estrelas.
+<0094> Entendido. Começando a coletar estrelas.
+<0095> Irei coletar estes objetos?
+<0096> Conseguirei aprender para o que servem essas estrelas... se eu tiver muitas delas?
+<0097> Combate. Entendido.
+<0098> Nasci para lutar.
+<0099> Sim, estou começando o combate agora.
+<0100> Sim, irei continuar lutando.
+<0101> Me chamo Nath.
+<0102> Irei me juntar a você com prazer se desejar.
+<0103> Vamos ter uma boa partida.
+<0104> Comigo...? Sim, certamente.
+<0105> Começou.
+<0106> É o começo do jogo.
+<0107> Começando meu dever.
+<0108> Certo... Vou com tudo.
+<0109> Vencemos o jogo... pelo visto.
+<0110> Missão cumprida.
+<0111> Alcancei bons resultados.
+<0112> A vitória é nossa. Meu trabalho duro recompensou, também.
+<0113> Ganhamos uma recompensa.
+<0114> Me agrada saber que você ganhou algo bom.
+<0115> Eu não tenho certeza de como usar isso, então eu confiarei em você.
+<0116> Não parece que temos algum desses.
+<0117> Por favor troque de lugar comigo.
+<0118> Estou contando com você.
+<0119> Tenho certeza que você vai fazer um trabalho melhor nessa situação.
+<0120> Por favor lide com o resto.
+<0121> Sim.
+<0122> Estou feliz por você.
+<0123> Muito bem.
+<0124> Não.
+<0125> Ugh...
+<0126> Você está com sorte.
+<0127> Mhm...
+<0128> Vamos lá, beleza?
+<0129> Dados.
+<0130> Aqui vou eu.
+<0131> Olá.
+<0132> Hmm...
+<0133> Isso é bom.
+<0134> Isto é incrível.
+<0135> ......
+<0136> Não seria isto uma carta Hiper...
+<0137> Uma carta inimiga...?
+<0138> Eu vou usar o que for necessário para ganhar...
+<0139> Por quaisquer meios necessários...
+<0140> Uma totó... Que fofa...
+<0141> Você é vira-lata?
+<0142> Você gostaria de vir até minha casa?
+<0143> Esta é uma totó energética.
+<0144> Eu não esperava ter que te enfrentar novamente.
+<0145> Você é...
+<0146> A vitória é minha dessa vez.
+<0147> Você está tão forte quanto antes.
+<0148> Eu preciso te derrotar aqui.
+<0149> Eu acabei de detectá-la.
+<0150> Eu não posso te deixar me derrotar de novo.
+<0151> Ugh... De novo não...
+<0152> O que raios... vocês duas estão fazendo?
+<0153> Sora, Sham... Eu exijo uma explicação.
+<0154> Eu estou vendo que vocês estão curtindo o que estão fazendo... Estou feliz por vocês.
+<0155> Vocês duas estão curtindo o dia... Estou com inveja.
+<0156> Gostaria de algo para comer?
+<0157> Não está sonolenta?
+<0158> Posso esfregar minha bochecha na sua?
+<0159> Fufu, está se divertindo?
+<0160> Você é um cachorro tão peludo.
+<0161> Fufu... Oh, não é nada.
+<0162> Posso esfregar minha bochecha em se-... Não?
+<0163> Que adorável...
+<0164> Que flexibilidade incrível.
+<0165> Posso ter uma de suas penas?
+<0166> Essas orelhas longas... Elas são muito fofas.
+<0167> Posso tocar em você por um pouquinho?

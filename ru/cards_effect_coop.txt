@@ -1,0 +1,305 @@
+< CARD_DECEPTIVELYDISARMED_EFFECT >
+name=Обманчиво Разоружен
+descr=Пропустите следующее действие.
+
+< CARD_UNLUCKYBEAST_EFFECT >
+name=Несчастный Зверь
+descr=Пропустите ваше следующие действие.
+
+< CARD_STUFFED_EFFECT >
+name=Усталый
+descr=Потеряйте 1 АТК в следующем бою.
+
+< CARD_BURNOUT_EFFECT >
+name=Выгорание
+descr=Отлаживает восстановление на 1 ход за каждый заряд.
+
+< CARD_PROTAGONISTPRIVILEGE_EFFECT >
+name=Преимущество Протагониста
+descr=Атакует первым, враг не может бить в ответ (раз за бой).
+
+< CARD_AIRSUPPORT_EFFECT >
+name=Поддержка с Воздуха
+descr=Получите +2 ЗЩТ в следующем бою.
+
+< CARD_COOP_BLAZING_EFFECT >
+name=Гори!
+descr=Получите +1 АТК (союзник) или -1 ЗАЩ (противник) за каждый стек. Эффект исчезает при нокауте.
+
+< CARD_COOP_MELTINGMEMORIES_EFFECT >
+name=Тающие Воспоминания
+descr=Разрушительница Сладостей получает +1 АТК, ЗЩТ и УВРТ в бою с вами.
+
+< CARD_COOP_EVILSPYWORKEXEC_EFFECT >
+name=Работа Злого Шпиона — Исполнение
+descr=Восстановите 2 ОЗ в конце хода.
+
+< CARD_COOP_BANNEDFORLIFE_GIFT_EFFECT >
+name=Пожизненный Запрет
+descr=Босс не будет использовать своё следующее умение.
+
+< CARD_COOP_BANNEDFORLIFE_EFFECT >
+name=Пожизненный Запрет
+descr=Пропустите своё следующее умение.
+
+< CARD_COOP_GUIDANCE_EFFECT >
+name=Направления Погодного Петуха
+descr=Бросайте по два кубика на все действия кроме боя. Эффект прекращает действовать при нокауте.
+
+< CARD_COOP_BEASTWITCH_EFFECT >
+name=Звериная Ведьма
+descr=Не теряете Звёзды от боссов или миньёнов.
+
+< CARD_COOP_FINALSURGERY_EFFECT >
+name=Последняя Операция
+descr=Получите –2 ВОС до следующего возрождения.
+
+< CARD_COOP_STEALTHON_EFFECT >
+name=Stealth On
+descr=Нельзя быть вызванным на бой.\nНе задействуете панели Случайного Боя и панели Босса.\nЭффект заканчивается при вхождении в бой, но даёт +2 АТК в этом бою.
+
+< CARD_COOP_SPECIALSTAGE_EFFECT >
+name=Live Mode
+descr=Теряете -3 ДВЖ, не можете использовать карты, активиуете только панели передвижения.\nНе можете быть вызванным на бой.\nЕсли соперник окажется в радиусе 2 панелей, крадёте Звёзды в количестве (Уровень) ×5.\nЭффект заканчивается при нокауте.
+
+< CARD_BOSS_HYPE_EFFECT >
+name=Накал
+descr=При 10 зарядах использует Буйство.
+
+< CARD_BOSS_RUMBLE_EFFECT >
+name=Грохот
+descr=Получите +1 АТК за каждый заряд.
+
+< CARD_BOSS_DANCEOFSEAGULLS_EFFECT >
+name=Танец Чаек
+descr=Потеряйте 2 АТК в следующем бою.
+
+< CARD_BOSS_BEAKOFGODBIRD_EFFECT >
+name=Клюв Бога-Птицы
+descr=Получите +1 АТК.
+
+< CARD_BOSS_BEAKOFDEMIBIRD_EFFECT >
+name=Клюв Полуптицы
+descr=Получите +2 АТК.
+
+< CARD_BOSS_FLIGHT_EFFECT >
+name=Полёт
+descr=Движется в обратную сторону и наносит встречным игрокам (Уровень) урона.
+
+< CARD_BOSS_PIYOMARCH_EFFECT >
+name=Марш Пьо
+descr=Получите +2 УВРТ в следующем бою.
+
+< CARD_BOSS_HEADLESSCHICKENMINION_EFFECT >
+name=Курица без Головы
+descr=Получите +2 АТК и +2 УВРТ в следующем бою.
+
+< CARD_BOSS_HEADLESSCHICKEN_EFFECT >
+name=Курица без Головы
+descr=Получите +2 АТК.
+
+< CARD_BOSS_WIRELESSCHICKEN_EFFECT >
+name=Безпроводная Курица
+descr=Получите +2 АТК.
+
+< CARD_BOSS_ATTACKDOWN_EFFECT >
+name=Меньше Атаки
+descr=Потеряйте 1 АТК за каждый заряд.
+
+< CARD_BOSS_DEFENSEDOWN_EFFECT >
+name=Меньше Защиты
+descr=Потеряйте 1 ЗЩТ за каждый заряд.
+
+< CARD_BOSS_EVASIONDOWN_EFFECT >
+name=Меньше Уворота
+descr=Потеряйте 1 УВРТ за каждый заряд.
+
+< CARD_BOSS_TURBO_EFFECT >
+name=Турбо
+descr=Кидает 3 кубика для передвижения.
+
+< CARD_BOSS_EMP_EFFECT >
+name=ЭМП
+descr=Нельзя использовать карты.
+
+< CARD_BOSS_DELTAFIELD_EFFECT >
+name=Повреждённое Дельта-Поле
+descr=Все броски будут ограничены 1, 2 или 3.
+
+< CARD_BOSS_IMAGINARYNUMBERS_EFFECT >
+name=Мнимые Числа
+descr=Все броски равны 7.
+
+< CARD_BOSS_DELUSIONALNUMBERS_EFFECT >
+name=Бредовые Числа
+descr=Все броски равны или 0, или 7, и минимальный результат будет равен 0 при броске 0.
+
+< CARD_BOSS_HEALTHDOWN_EFFECT >
+name=Меньше Здоровья
+descr=–1 Макс. ОЗ за каждый заряд.
+
+< CARD_BOSS_RECOVERYMODE_EFFECT >
+name=Режим Восстановления
+descr=До следующего боя не двигается и восстанавливает 2 ОЗ каждый ход.
+
+< CARD_BOSS_PERFECTREFLECTIVESHELL_EFFECT >
+name=Идеальная Отражающая Оболочка
+descr=Наносит 1 урона за каждую полученную единицу урона.
+
+< CARD_BOSS_PROTECT_EFFECT >
+name=Защита
+descr=Поглощает заряд, чтобы снизить урон на 3, вплоть до 1.\nКогда заряды кончатся, получит на 3 Главы -2 ЗЩТ и УВРТ и -1 ДВЖ.
+
+< CARD_BOSS_SCRAMBLED_EFFECT >
+name=Повреждения
+descr=Потеряйте 2 ЗЩТ и УВРТ и 1 ДВЖ.
+
+< CARD_BOSS_POTECT_EFFECT >
+name=По-щита
+descr=Поглощает заряд, чтобы снизить урон на 2, вплоть до 1.\nКогда заряды кончатся, получит на 3 Главы -1 ЗЩТ, УВРТ и ДВЖ.
+
+< CARD_BOSS_SCRAMBLEDPO_EFFECT >
+name=Повреждения
+descr=Потеряйте 1 ЗЩТ, УВРТ и ДВЖ.
+
+< CARD_BOSS_ELUSIVE_EFFECT >
+name=Неуловимая
+descr=Крадёт (Уровень Босса) ×5 Звёзд проходя мимо игроков.\nЗвёзды уходят Боссу.
+
+< CARD_BOSS_STARMANIA_EFFECT >
+name=Звёздная Мания
+descr=Каждую Главу получает Звёзды в количестве зарядов.
+
+< CARD_BOSS_ROBOTAX_EFFECT >
+name=Робо-Налог
+descr=Получите +1 ЗЩТ за каждый заряд.
+
+< CARD_BOSS_HIGHWAYROBBERY_EFFECT >
+name=Ограбление на Шоссе
+descr=Получите +3 АТК.\nДвигаетесь в обратном направлении и не останавливается после боя.\nУкрадите по 10 Звёзд за каждый нанесённый урон Боссом.
+
+< CARD_BOSS_GREED_EFFECT >
+name=Жадность
+descr=Получает 5 Звёзд за урон в бою от этого персонажа или его миньонов.
+
+< CARD_BOSS_CHASE_EFFECT >
+name=Догонялки
+descr=Кидает 2 кубика для передвижения и получает 1 Накал за бой.
+
+< CARD_BOSS_TIRED_EFFECT >
+name=Усталость
+descr=Получите +1 ВОС при следующем нокауте.
+
+< CARD_BOSS_EXHAUSTED_EFFECT >
+name=Изнурение
+descr=Получите +2 ВОС при следующем нокауте.
+
+< CARD_BOSS_PLAYTAG_EFFECT >
+name=Салочки
+descr=Получите +2 АТК. +1 Накал за бой.
+
+< CARD_BOSS_HIDENSEEK_EFFECT >
+name=Прятки
+descr=Не двигается и получает 2 Накала до следующего боя.
+
+< CARD_BOSS_PSYCHEDUP_EFFECT >
+name=На Взводе
+descr=Получите +2 ДВЖ.
+
+< CARD_BOSS_WATERMELONSPLIT_EFFECT >
+name=Раскалывание Арбузов
+descr=Получает +5 АТК и не останавливается после боя. +2 Накала за нокаут игрока.
+
+< CARD_BOSS_HYPEITUP_EFFECT >
+name=Поднять Шумиху
+descr=Получите +1 АТК и ЗЩТ, –1 УВРТ.\n–1 Накал при получении урона в бою.\n–2 Накала при поражении в бою.
+
+< CARD_BOSS_RAMPAGE_EFFECT >
+name=Буйство
+descr=Увеличивает урон от Буйства на 1 за каждый заряд.
+
+< CARD_BOSS_RAMPAGEHYPER_EFFECT >
+name=Буйство
+descr=Получите +1 АТК за каждый заряд. Увеличивает урон от Буйства на 1 за каждый заряд.
+
+< CARD_BOSS_HYPEMODE_EFFECT >
+name=Накал Эмоций
+descr=Получите +2 АТК и +1 ЗЩТ. При нокауте возрождается на следующем ходу.
+
+< CARD_BOSS_QUAKE_EFFECT >
+name=Землетрясение
+descr=Потеряйте 2 ДВЖ.
+
+< CARD_BOSS_POPPOMARCH_EFFECT >
+name=Марш Поппо
+descr=Получите +2 УВРТ.
+
+< CARD_BOSS_TURBOCHICKEN_EFFECT >
+name=Турбо-Курица
+descr=+1 кубик для передвижения и не останавливается после боя.\n+1 АТК за дополнительные заряды.\nПолучает 25 Звёзд за бой.
+
+< CARD_BOSS_SWARM_EFFECT >
+name=Рой
+descr=В следующем бою, получите +2 АТК и если вы атакуете первыми, оппонент не может контратаковать (раз за бой)
+
+< CARD_SKILL_COOP_FURY_EFFECT >
+name=Гнев
+descr=Получите +1 к урону в бою за каждый заряд.
+
+< CARD_COOP_HYPER_ATTACKER_EFFECT >
+name=Абсолютное Оружие Под Солнцем
+descr=Получите +3 к урону в бою.
+
+< CARD_COOP_PROTECT_EFFECT >
+name=Защитить
+descr=Следующий полученный урон в бою, уменьшается на 1 за каждый заряд. Эффект заканчивается после блокировки урона.
+
+< CARD_SKILL_COOP_GUARDIANSPIRIT_EFFECT >
+name=Дух-Хранитель
+descr=Уменьшает следующий получаемый урон в бою на 1 за каждый заряд.
+
+< CARD_COOP_HYPER_GUARDIAN_EFFECT >
+name=Спасатель Белого Пляжа
+descr=Уменьшает следующий получаемый урон в бою на 2.
+
+< CARD_SKILL_COOP_FROMBEYOND_EFFECT >
+name=С Того Света
+descr=При нокауте в бою поднимется на следующем ходу с 1 ОЗ за каждый заряд.
+
+< CARD_COOP_HYPER_AVENGER_EFFECT >
+name=Непрощающий Мститель
+descr=При нокауте в бою поднимется на следующем ходу с 1 ОЗ за каждый заряд.
+
+< CARD_COOP_RANSOMNOTE_EFFECT >
+name=Условия Выкупа
+descr=Нокаут в конце хода.
+
+< CARD_COOP_DEMAND_EFFECT >
+name=Спрос
+descr=Следующая панель, на которой остановится персонаж, сработает, как панель Карт.
+
+< CARD_COOP_HYPER_DEALER_EFFECT >
+name=Летние Игры
+descr=Следующая панель, на которой остановится персонаж, сработает, как двойная панель Карт.
+
+< CARD_COOP_IDEALWORLD_EFFECT >
+name=Робоприятели
+descr=Юниты типа робот будут воевать на поле боя на стороне игрока. Эти юниты получат +1 ATK в течение битвы.
+
+< CARD_COOP_GOODESTBOY_EFFECT >
+name=Самый лучший мальчик
+descr=Игнорируйте панели Босса.\nКогда вы стоите на панели с другим игроком в конце ваших ходов вы оба сможете взять карту.\nВы не можете бросать вызов, также не можете быть вызваны.\nИгроки могут остановится, чтобы погладить вас.
+
+< CARD_COOP_PRISONBREAK_EFFECT >
+name=Воображаемый побег из тюрьмы
+descr=Не может быть вызван на бой. Иммунитет к картам Ловушек, мнгновенным KO эффектам, урону от Босса. Кидайте 2 кубика для движения. Потеряйте 1 стак на каждой пройденной панели.
+
+< CARD_COOP_POPPOSNATCHER_EFFECT >
+name=Поппо-Воришка
+descr=Получите -1 ЗАЩ. Проходя мимо противника, вы крадете у него звезды в размере вашего уровня x3. Проверки Нормы отключены.
+
+< CARD_COOP_INTELLECTUALBLUFF_EFFECT >  
+name=Интеллектуально звучащий блеф  
+descr=Каждый раз, когда карта этого типа разыгрывается, игрок тянет карту. 
+
+[EOF]

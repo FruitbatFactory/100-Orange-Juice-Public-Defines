@@ -1,0 +1,158 @@
+
+<0000> Aqui!
+<0001> Aqui vou eu!
+<0002> Vai!
+<0003> Me dê um bom número!
+<0004> Certo, farei isto!
+<0005> Isto irá me trazer a vitória!
+<0006> Eu vou usar uma carta aqui.
+<0007> Então é isto!
+<0008> Está na hora de usar uma armadilha.
+<0009> Aqui vai uma armadilha.
+<0010> Eu vou colocar isto aqui.
+<0011> Tenho certeza de que isto vai funcionar.
+<0012> Me ajude a ganhar!
+<0013> Me dê um pouco de poder!
+<0014> Heh-heh-heh, a vitória será minha!
+<0015> Permita-me te mostrar o que posso fazer!
+<0016> Este é o privilégio de protagonista!
+<0017> Eu fui revivido!
+<0018> Eu ainda não acabei.
+<0019> Isto é apenas o começo.
+<0020> Eu ainda consigo seguir em frente.
+<0021> Como um protagonista pode falhar na hora de reanimar?!
+<0022> Isso não pode ser real...
+<0023> Você só pode estar brincando!
+<0024> Mas que… Raios...
+<0025> Aqui!
+<0026> Desse jeito!
+<0027> Coma isto!
+<0028> Tome isto!
+<0029> Ugh!
+<0030> Guh!
+<0031> Isso dói!
+<0032> Urrh...
+<0033> Salvo pelo gongo.
+<0034> Eu fui curado...
+<0035> Ufa...
+<0036> Essa foi por pouco.
+<0037> Teleporte!
+<0038> Estou voando!
+<0039> Aonde estou indo?
+<0040> Nãããoo!
+<0041> Guhaah!
+<0042> De jeito nenhum. Isto não pode ser verdade...
+<0043> Estou acabado...
+<0044> Eu desisto.
+<0045> Lute comigo!
+<0046> Vamos lutar!
+<0047> O primeiro a agir ganha!
+<0048> Eu irei primeiro!
+<0049> Você quer lutar? Por mim tudo bem.
+<0050> Desafio aceito.
+<0051> Procurando por uma batalha?
+<0052> Pode vir!
+<0053> Tome isto!
+<0054> Vou acabar com você!
+<0055> Coma meu punho!
+<0056> Vaaaai!
+<0057> Ugh.
+<0058> Isso dói!
+<0059> Você é muito bom.
+<0060> Aii.
+<0061> Gaaargh!
+<0062> Uoooogh!
+<0063> Isto dói!
+<0064> Uuugh.
+<0065> Whoa.
+<0066> Você não consegue me acertar.
+<0067> Se liga nos meus movimentos!
+<0068> Lerdo demais para mim.
+<0069> Minha vitória é simplesmente natural.
+<0070> Eu sou o protagonista, sabe.
+<0071> Esta foi uma boa batalha.
+<0072> Bom, isto era o que eu estava esperando.
+<0073> Mas que droga!
+<0074> Urrrrgh...
+<0075> Não acredito nisso!
+<0076> Perdi? Não é possível!
+<0077> Aeeee! Eu ganhei um bônus!
+<0078> Estou rolando em dinheiro hoje!
+<0079> Estou muito mais perto da vitória agora!
+<0080> Whoo! Isso é o melhor!
+<0081> Minhas estrelas...!
+<0082> Droga...
+<0083> Todo aquele esforço para coletá-las...
+<0084> Estraguei tudo!
+<0085> Aí caramba!
+<0086> Era uma armadilha?!
+<0087> M-mas que raios?!
+<0088> Isto não pode estar acontecendo...
+<0089> Eu sinto um oponente forte.
+<0090> Então vieram...
+<0091> Posso sentir uma tempestade chegando...
+<0092> Certo... Preciso dar o meu melhor.
+<0093> As estrelas são todas minhas!
+<0094> Eu escolho as estrelas, é claro.
+<0095> Estrelas, isso!
+<0096> Eu vou de estrelas!
+<0097> Tudo que eu preciso são de batalhas!
+<0098> Batalha é o romance de um homem.
+<0099> Todas as vitórias são minhas!
+<0100> Meus punhos irão cuspir fogo!
+<0101> Conte comigo!
+<0102> Ei. Foi bom jogar com você.
+<0103> Beleza, é minha vez agora!
+<0104> Apenas deixe comigo!
+<0105> Vamos ver como irá decorrer esse jogo.
+<0106> Acho que irei com tudo.
+<0107> Então já começou.
+<0108> Vou dar o meu melhor.
+<0109> Isso aí! Sou o vencedor!
+<0110> Isso aí! Eu consegui!
+<0111> Ufa, consegui de alguma forma.
+<0112> Este foi um bom jogo.
+<0113> Oh, eu consegui algo novo.
+<0114> Eu consegui um novo item!
+<0115> Oh, eu ainda não tinha este aqui.
+<0116> Certo, essa foi uma boa compra.
+<0117> Nós vamos trocar de posição.
+<0118> Troque comigo, beleza?
+<0119> Está na hora de você ir com tudo.
+<0120> Vou deixar você cuidar do resto.
+<0121> Deixe comigo.
+<0122> Isto é ótimo.
+<0123> Isso!
+<0124> Não.
+<0125> Droga!
+<0126> Isso mesmo!
+<0127> É o quê?!
+<0128> Aqui vou eu!
+<0129> Vamos ver que valor vou conseguir.
+<0130> Vai!
+<0131> Yo!
+<0132> Hmm...
+<0133> Isto é incrível.
+<0134> Meu deus do céu!
+<0135> Droga...
+<0136> Obrigado!
+<0137> Te encontrei!
+<0138> Uma moça bonita...?!
+<0139> Você não é muito velha para essa roupa?
+<0140> Um robô gigante?! Estou com bastante hype!
+<0141> Eu tenho que lidar com ela agora.
+<0142> Aqui vem a mulher louca...!
+<0143> Consegui derrotá-la!
+<0144> Ugh... Eu sabia que ela era louca.
+<0145> Ei ei ei, o que raios você está fazendo!
+<0146> Minha carteira parece mais leve de alguma forma.
+<0147> Onde... estou?
+<0148> Woo, seu transporte parece muito legal.
+<0149> Certo, vamos nadar.
+<0150> "O que aconteceu com Poppo...?"
+<0151> "Deus...?"
+<0152> "Nossa... aguenta firme..."
+<0153> "Sério? Na sua idade...?"
+<0154> Isso é uma verdadeira obra prima.
+<0155> Por que raios você está cantando essa música!
+

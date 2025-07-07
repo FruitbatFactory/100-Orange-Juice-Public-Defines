@@ -1,0 +1,162 @@
+<0117> Hora de cambiar.
+<0118> Estaré saliendo.
+<0119> Necesito una recarga.
+<0120> Mantén el fuerte por un rato, ¿quieres?
+
+<0000> ¡Aquí!
+<0001> ¡Ahí!
+<0002> ¡Mm!
+<0003> ¡Hoo!
+<0004> Vamos a incrementar las apuestas.
+<0005> Haré que esto sea un poco más interesante.
+<0006> Deberías dejarte llevar de vez en cuando.
+<0007> Parece que esto será divertido.
+<0008> ¿Qué dices si usamos nuestras cabezas por un segundo?
+<0009> No me molesta tener que jugar un poco sucio.
+<0010> ¡Gyajaja!
+<0011> Me pregunto si alguien tomará mi regalo.
+<0012> ¡Nunca te precipites!
+<0013> Vamos a incrementar las posibilidades.
+<0014> ¡Ja!
+<0015> ¡Hora de usar mi arma secreta!
+<0016> Ya es hora de que las cosas se pongan en marcha.
+<0017> Jowaah... Esa fue una buena siesta.
+<0018> Hrm... no deberíamos volver a hacer eso otra vez.
+<0019> Hora de levantarse.
+<0020> No puedo descansar ni un segundo...
+<0021> Los motores no se encienden...
+<0022> Parece que esto tomará un largo rato.
+<0023> Bueno, vamos a tomar esto con calma.
+<0024> Me relajaré por un segundo.
+<0025> ¡Hoh!
+<0026> ¡Fuego!
+<0027> ¡Haa!
+<0028> Te derribaré.
+<0029> Tch.
+<0030> Mm... Es solo un rasguño.
+<0031> Bah.
+<0032> Oof.
+<0033> Ahh, qué alegría.
+<0034> Puedo sentir como mis hombros se relajan.
+<0035> Qué refrescante.
+<0036> Ohhh...
+<0037> ¡Mi avión está siendo desviado fuera de su curso!
+<0038> ¿A dónde iremos?
+<0039> La destinación parece ser... desconocida.
+<0040> ¿O-oooh...?
+<0041> ¡Estamos cayendo!
+<0042> Buenas noches.
+<0043> Hora de descansar.
+<0044> Hora de relajarse y tomarlo con calma.
+<0045> ¡Hacia la batalla!
+<0046> No irás a ninguna parte.
+<0047> ¡Todas las armas listas!
+<0048> Mi trabajo es detenerte.
+<0049> ¿Mano a mano? Muy bien.
+<0050> Desafío aceptado.
+<0051> ¿Hm?
+<0052> ¿Seguro?
+<0053> ¡Hey, hey!
+<0054> Recomiendo esquivar esto.
+<0055> ¡Ho!
+<0056> ¡Torretas, disparen!
+<0057> Hnngh.
+<0058> Solo un rasguño.
+<0059> ¡Owie!
+<0060> Mm... sentí eso.
+<0061> ¡Ugoh!
+<0062> ¡Bwuoh!
+<0063> Ouch ouch ouch... ¡Eso duele!
+<0064> ¡Cielos, eso dolió!
+<0065> Ja ja, aún lo tengo.
+<0066> ¡Estuvo cerca!
+<0067> ...¿Hm? Algo acaba de salir volando...
+<0068> Esquivado por un pelo.
+<0069> Con facilidad.
+<0070> Mejor suerte a la próxima.
+<0071> Hice mi trabajo.
+<0072> Descansa en paz.
+<0073> Eres fuerte...
+<0074> Vaya, quién pensaría que sería acabado aquí...
+<0075> Descansa en paz... yo.
+<0076> ¡Hombre caído!
+<0077> ¡Qué alegre!
+<0078> ¡Bwajaja, eso es de lo que estoy hablando!
+<0079> ¡Oooh, un gran botín!
+<0080> Esto me hace feliz.
+<0081> A-ja... eso duele.
+<0082> ¡Mis sueños y esperanzas...!
+<0083> Las estrellas... se encuentran tan lejos...
+<0084> ¡Ah demonios!
+<0085> ¡Era una trampa!
+<0086> ¡Vaya, caí en ella!
+<0087> Bwajaja, esa fue buena.
+<0088> Vaya, no tuve cuidado.
+<0089> Jajaja, parece que esta sí será una pelea digna de mi atención.
+<0090> Oooh... Me están dando escalofríos.
+<0091> Tch... Y yo que pensaba que no habrían amenazas por aquí. Al demonio.
+<0092> ¿Acaso los monstruos vuelan por los cielos...?
+<0093> Usemos este momento para disfrutar del cielo estrellado.
+<0094> Escucho el llamado de las estrellas.
+<0095> Deberías apreciar las cosas pequeñas de la vida.
+<0096> Iré a buscar las estrellas.
+<0097> Hrm... ¿Debería esforzarme un poco más?
+<0098> A veces no queda otra opción más que pelear.
+<0099> Estaré esperando un buen desafío.
+<0100> Siento que tendré que pelear.
+<0101> No soy nadie importante, pero ansío trabajar contigo.
+<0102> ¿Escogerás a un hombre viejo como yo?
+<0103> Vamos a hacer un buen trabajo juntos.
+<0104> Te ayudaré a alcanzar esa meta que tanto ansías obtener.
+<0105> Hagámoslo a nuestra propia manera.
+<0106> Me tomaré mi tiempo y evaluaré la situación primero.
+<0107> ¡Hacia la victoria!
+<0108> Es un hermoso día para volar.
+<0109> Parece que este es mi día de suerte.
+<0110> Se ha hecho.
+<0111> Hrm. Todo lo que bien está bien acaba, ¿no crees?
+<0112> ¡Un brindis por la victoria!
+<0113> Felicitaciones.
+<0114> Eh, bien por ti.
+<0115> Ese es un buen hallazgo.
+<0116> Oo... ¿Qué es lo que hará?
+<0121> Te tengo.
+<0122> ¡Eso sí es algo!
+<0123> Copia.
+<0124> ¡Lo imaginaba!
+<0125> Qué lástima.
+<0126> ¡Jaja! La dama de la suerte te sonríe.
+<0127> ¿Qué es eso?
+<0128> Vamos adelante.
+<0129> Vamos a tirar.
+<0130> ¡Ve!
+<0131> Un buen día para ti.
+<0132> Vaya vaya.
+<0133> Bien.
+<0134> ¡Ooh! ¡Increíble!
+<0135> ¡Maldita sea!
+<0136> Tengo mis conexiones.
+<0137> ¿Qué duda podría tener yo?
+<0138> Vamos a apostar en esto.
+<0139> ¿Me pregunto qué es lo que esto podrá hacer...?
+<0140> ¡Salud!
+<0141> Hmh. Yo lo seguiré.
+<0142> Parece que podrías usar una ayuda.
+<0143> Mm... Déjamelo a mí.
+<0144> Permíteme hacerme cargo de esto.
+<0145> Sin remordimientos pequeña dama, pero estás en el camino.
+<0146> ¿Qué puedo hacer por ti, pequeña dama?
+<0147> No está nada mal para alguien tan joven.
+<0148> Vaya, realmente has acabado conmigo... qué mujer.
+<0149> He venido a saldar unas cuentas, jefe.
+<0150> Vaya, realmente me haces trabajar demasiado.
+<0151> ¡Ja! ¡Esta vez tú invitarás las bebidas!
+<0152> Gunyunyu... bien, abriré esa botella que estaba guardando.
+<0153> Aún sigues siendo un palillo en el lodo, jefe.
+<0154> ¿Oh? Es extraño verte tan emocionado, jefe.
+<0155> Ja ja ja, solo siéntate y descansa por un rato.
+<0156> Bueno, este tipo de cosas suelen pasar.
+<0157> Cielos. Esa no es la forma de hacerlo, niña.
+<0158> Oh. ¿Te gustan las ballenas, niña?
+<0159> Parece que estás luchando en una batalla muy dura.
+<0160> ¿Acaso tienes algo bueno para mí?

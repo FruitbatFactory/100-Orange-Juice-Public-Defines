@@ -1,0 +1,24 @@
+< SUMMER2020_A_CAST >
+name=Lanzamiento
+descr=Lanza la caña de pescar. Deshabilita el uso de las otras habilidades mientras el enfriamiento de la misma se encuentra activo. Enfriamiento: 2 segundos.
+
+< SUMMER2020_A_SIRENSIGHT >
+name=Mira de Sirena
+descr=Mira lo que hay dentro del agua, revelando basura y pescados. Duración: 10 segundos. Enfriamiento: 30 segundos.
+
+< SUMMER2020_A_IMPROVEDHOOK >
+name=Anzuelo Mejorado
+descr=Tu anzuelo se hundirá un 50% más rápido. Duración: 15 segundos. Enfriamiento: 45 segundos.
+
+< SUMMER2020_A_TREASURE >
+name=Tesoro del Mar
+descr=El próximo pez atrapado tendrá el doble de valor en su puntaje. Esto sólo puede ser usado una vez.
+
+< SUMMER2020_A_BLESSING >
+name=La Bendición del Río
+descr=Los peces se moverán un 25% más rápido. Deshabilita el uso de las otras habilidades (además de Lanzamiento) mientras esta se encuentra activa. Este efecto puede ser apilado. Duración: 10 segundos. Enfriamiento: 20 segundos.
+
+< SUMMER2020_A_MASTERY >
+name=Pesca Profesional
+descr=Reinicia el enfriamiento de todas las habilidades, con la excepción de habilidades con un solo uso y Lanzamiento. Esto sólo puede ser usado una vez.
+[EOF]

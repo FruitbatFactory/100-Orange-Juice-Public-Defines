@@ -1,0 +1,108 @@
+
+< CHALLENGE_TOOLTIP_REROLL >
+%d스타를 지불해 이 타입의 다른 챌린지로 리롤할 수 있습니다.
+
+< CHALLENGE_TOOLTIP_STARCOUNT >
+현재 소지 스타: %d
+
+< CHALLENGE_GENERIC_PLAYS >
+게임 %d회 플레이.
+
+< CHALLENGE_GENERIC_WINS >
+게임 %d회 승리.
+
+< CHALLENGE_GENERIC_STARS >
+완료한 게임에서 누적 %d스타 획득.
+
+< CHALLENGE_GENERIC_KOS >
+완료한 게임에서 누적 승리 수 %d회 획득.
+
+< CHALLENGE_GENERIC_STAR_WINS >
+스타 노르마로 게임 %d회 승리.
+
+< CHALLENGE_GENERIC_KO_WINS >
+승리 노르마로 게임 %d회 승리.
+
+< CHALLENGE_GENERIC_PANELS >
+완료한 게임에서 누적 %d칸 이동.
+
+< CHALLENGE_GENERIC_TRAPS >
+완료한 게임에서 트랩 누적 %d장 세팅.
+
+< CHALLENGE_GENERIC_STAR_NORMAS >
+완료한 게임에서 스타 노르마 누적 %d회 달성.
+
+< CHALLENGE_GENERIC_WIN_NORMAS >
+완료한 게임에서 승리 수 노르마 누적 %d회 달성.
+
+< CHALLENGE_GENERIC_DAMAGE_DEALT >
+완료한 게임에서 피해 누적 %d 주기.
+
+< CHALLENGE_GENERIC_HEALING >
+완료한 게임에서 HP 누적 %d 회복하기.
+
+< CHALLENGE_GENERIC_PLAY_BOOST >
+완료한 게임에서 부스트 카드 누적 %d장 쓰기.
+
+< CHALLENGE_GENERIC_PLAY_EVENT >
+완료한 게임에서 이벤트 카드 누적 %d장 쓰기.
+
+< CHALLENGE_GENERIC_PLAY_BATTLE >
+완료한 게임에서 배틀 카드 누적 %d장 쓰기.
+
+< CHALLENGE_CARD_BRING >
+덱에 %s을(를) 1장 이상 %d회 넣기.
+
+< CHALLENGE_CARD_PLAY >
+완료한 게임에서 %s을(를) %d회 내기.
+
+< CHALLENGE_CARD2_BRING >
+덱에 %s(이)나 %s을(를) 1장 이상 %d회 넣기.
+
+< CHALLENGE_CARD2_PLAY >
+완료한 게임에서 %s(이)나 %s을(를) %d회 내기.
+
+< CHALLENGE_MAP_PLAY >
+%s에서 게임 %d회 플레이.
+
+< CHALLENGE_MAP2_PLAY >
+%s이(나) %s에서 게임 %d회 플레이.
+
+< CHALLENGE_UNIT_PLAYS >
+%s(으)로 게임 %d회 플레이.
+
+< CHALLENGE_UNIT2_PLAYS >
+%s(이)나 %s(으)로 게임 %d회 플레이.
+
+< CHALLENGE_UNIT_WINS >
+%s(으)로 게임 %d회 승리.
+
+< CHALLENGE_TYPE_UNIT_STAR_NORMAS >
+%s(으)로 스타 노르마 %d회 달성.
+
+< CHALLENGE_TYPE_UNIT_WIN_NORMAS >
+%s(으)로 승리 수 노르마 %d회 달성.
+
+< CHALLENGE_TYPE_EVENT_XMAS_ICE >
+얼음 패널 %d칸 위를 미끄러진다.
+
+< CHALLENGE_TYPE_EVENT_VDAY_CHOCOLATE >
+초콜렛 다이스를 쓰면서 플레이어를 %d명 KO시킨다.
+
+< CHALLENGE_TYPE_EVENT_VDAY_HEARTS >
+하트 다이스를 쓰면서 보너스 패널에서 %d스타를 모은다.
+
+< CHALLENGE_LABEL_CURRENT >
+도전중인 챌린지
+
+< CHALLENGE_MESSAGE_EVENT_NOT_LOADED >
+잠시만 기다려주세요, 현재 이벤트 상태를 확인하는 중입니다...
+
+< CHALLENGE_MESSAGE_DAYS >
+일
+
+< CHALLENGE_MESSAGE_REROLL_CONFIRM >
+정말 이 챌린지를 리롤하겠습니까?
+
+[EOF]
+

@@ -1,0 +1,754 @@
+
+< CARD_DASH_EFFECT >
+name=대시!
+descr=이동 시 주사위 2개를 굴린다.
+
+< CARD_FLIPOUT_EFFECT >
+name=화풀이
+descr=이 유닛이 드롭 패널에서 멈추면 스타를 가장 많이 가진 플레이어 모두 이 유닛이 잃는 것과 같은 수의 스타를 잃는다.
+
+< CARD_NICEJINGLE_EFFECT >
+name=근사한 종소리
+descr=보너스 패널에서 스타를 두 배로 얻는다.
+
+< CARD_EXTEND_EFFECT >
+name=익스텐드
+descr=KO 이후 다음 턴에 부활한다.
+
+< CARD_STIFFCRYSTAL_EFFECT >
+name=견고한 수정
+descr=트랩의 효과를 무효로 한다. 무효화된 트랩의 레벨 *5만큼의 스타를 얻는다.
+
+< CARD_DANGEROUSPUDDING_EFFECT >
+name=데인저러스 푸딩
+descr=다음 턴이 생략된다.
+
+< CARD_HEAT300_EFFECT >
+name=히트 300%
+descr=방어력 -2를 얻는다.
+
+< CARD_SUPERALLOUTMODE_EFFECT >
+name=초절 진심 모드
+descr=다음 배틀에서 공격력 +2를 얻는다.
+
+< CARD_PROTAGONISTPRIVILEGE_EFFECT >
+name=주인공의 특권
+descr=이 유닛이 선공 시 상대 유닛은 (배틀당 한 번) 공격할 수 없다.
+
+< CARD_ACCELERATOR_EFFECT >
+name=액셀러레이터
+descr=이동, 배틀, 보너스, 드롭에서 주사위 두 개를 굴린다.
+
+< CARD_EXTRAORDINARYSPECS_EFFECT >
+name=비범한 성능
+descr=이동, 배틀, 보너스, 드롭에서 6을 굴린다.
+
+< CARD_BINDINGCHAIN_EFFECT >
+name=속박의 사슬
+descr=다음 턴이 생략된다.
+
+< CARD_MAGICALMASSACRE_EFFECT >
+name=살육 마법
+descr=중첩당 다음 부활 굴림에서 회복값 -1을 얻는다.
+
+< CARD_CASTOFF_EFFECT >
+name=캐스트 오프
+descr=이 유닛의 기본 공격력과 방어력을 맞바꾼다. 효과는 KO 시 혹은 캐스트 오프를 다시 사용할 때까지 지속된다.
+
+
+< CARD_LONGEAREDBEASTS_EFFECT >
+name=춤춰라, 귀 긴 야수들아!
+descr=다음 배틀에서 공격력 -2를 얻는다.
+
+< CARD_BLAZING_EFFECT >
+name=블레이징!
+descr=공격력 +1과 방어력 -1을 얻는다. KO 시 효과 종료.
+
+< CARD_SEALEDMEMORIES_EFFECT >
+name=봉인된 기억
+descr=패가 반전된다.
+
+< CARD_SELFDESTRUCT_EFFECT >
+name=자폭
+descr=중첩당 공격력 +1을 얻는다.
+
+< CARD_CRYSTALBARRIER_EFFECT >
+name=수정 방벽
+descr=자동으로 1중첩을 소모하여 트랩, 배틀, 드롭 패널의 효과를 취소하고 피해 1을 받는다. KO 시 효과 종료.
+
+< CARD_DELTAFIELD_EFFECT >
+name=델타 필드
+descr=모든 주사위 굴림이 1이 된다.
+
+< CARD_WHIMSICALWINDMILL_EFFECT >
+name=변덕쟁이 풍차
+descr=배틀에서 +1 회피를 얻는다.
+
+< CARD_HYPER_ARUSCRAMBLE_EFFECT >
+name=산타의 선물
+descr=다른 플레이어에게 배틀을 신청할 수 없다.
+
+< CARD_HYPER_SORAMILITARY_EFFECT >
+name=재능 발현
+descr=이동, 배틀, 보너스, 드롭 굴림에서 5를 굴린다.
+
+< CARD_JONATHANRUSH_EFFECT >
+name=조나단 러시
+descr=배틀에서 방어력 -1을 얻는다.
+
+< CARD_TURBOCHARGED_EFFECT >
+name=터보 만땅
+descr=중첩당 공걱력 +1을 얻는다. KO 시 효과 종료.
+
+< CARD_IMMOVABLEOBJECT_EFFECT >
+name=움직이지 않는 물체
+descr=이동을 할 수 없으며 같은 패널로 들어오는 적은 반드시 나와 배틀해야 한다.\n방어력 +2를 얻고 반격을 할 수 있다.
+
+< CARD_GOLDENEGG_CHICKEN_EFFECT >
+name=황금 알
+descr=드롭 패널이 보너스 패널로 작용한다.
+
+< CARD_GOLDENEGG_NOTCHICKEN_EFFECT >
+name=황금 알
+descr=보너스 패널이 드롭 패널로 작용한다.
+
+< CARD_NATH_EFFECT >
+name=액티브 익스텐션
+descr=스택 당 공격력/방어력 +1과 회피력 -1을 얻는다.
+
+< CARD_NONAME_EFFECT >
+name=화분에 담긴 머리
+descr=기본 능력치가 공격력/방어력/회피력 -1이 된다. 부활 혹은 홈 도착 시 해제된다.
+
+< CARD_AMPATK_EFFECT >
+name=공격력 버프
+descr=중첩당 공격력 +1을 얻는다.
+
+< CARD_AMPDEF_EFFECT >
+name=방어력 버프
+descr=중첩당 방어력 +1을 얻는다.
+
+< CARD_AMPEVD_EFFECT >
+name=회피력 버프
+descr=회피력 +1을 얻는다.
+
+< CARD_AMPMOV_EFFECT >
+name=이동력 버프
+descr=중첩당 이동력 +1을 얻는다.
+
+< CARD_AMPHP_EFFECT >
+name=체력 버프
+descr=중첩당 최대 HP +1을 얻는다.
+
+< CARD_AMPRECOVERY_EFFECT >
+name=부활값 버프
+descr=중첩당 부활값 -1을 얻는다.
+
+< CARD_SOLIDWITCH_EFFECT >
+name=굳센 마녀
+descr=피해를 입지 않는다.
+
+< CARD_HYPER_SWEETEATER_EFFECT >
+name=스위트 이터
+descr=기본 스탯이 공격력 3, 방어력/회피력 0이 된다. 부활 시 해제.
+
+< CARD_STEALTHON_EFFECT >
+name=스텔스 온
+descr=배틀 도전을 받지 않으며 부스트 카드의 대상이 되지 않는다.\n엔카운터와 보스 패널을 발동하지 않는다.\n배틀 진입 시 해제되나 그 배틀 동안 공격력 +2를 얻는다.
+
+< CARD_SMOKESCREEN_EFFECT >
+name=속박의 연막
+descr=이동 굴림이 1~3으로 제한된다.
+
+< CARD_KIRIKO_EFFECT >
+name=이상한 약
+descr=중첩당 최대 HP -1.
+
+< CARD_CUTIES_EFFECT >
+name=이벤트 개최
+descr=보너스 패널에서 추가 스타 +1을 얻는다.
+
+< CARD_SPECIALSTAGE_EFFECT >
+name=라이브 모드
+descr=이동력 -3을 얻고 이동 타입 패널만을 발동할 수 있으며 카드를 사용할 수 없다.\n배틀 도전을 받지 않으며 부스트 카드의 대상이 되지 않는다.\n적이 2패널 범위 이내에서 턴을 종료하면 그 적으로부터 레벨 x5만큼의 스타를 빼앗는다.\nKO 시 효과 종료.
+
+< CARD_PATHBLOCKERS_EFFECT >
+name=길 막기
+descr=패널에 트랩이 있으면 이동을 멈춘다.
+
+< CARD_POPPOFORMATION_EFFECT >
+name=폿포화
+descr=다음 배틀 동안 기본 공격력, 방어력, 회피력이 -1이 된다.
+
+< CARD_HAND_BOOST_EFFECT >
+name=패 증가
+descr=패 한도 수가 (최대 5까지) 1장 늘어난다.
+
+< CARD_CHEAT_EFFECT >
+name=??????
+descr=????
+
+< CARD_CHAINBOUND_EFFECT >
+name=속박
+descr=회피력 -2와 이동력 -1을 얻는다.
+
+< CARD_JOKER_EFFECT >
+name=폿포 조커
+descr=카드를 레벨 1, 기본 코스트 0처럼 사용할 수 있다.
+
+< CARD_HERBAL_REMEDY_EFFECT >
+name=약초제
+descr=피해를 받지 않는다.
+
+< CARD_ACCEL_CANDY_EFFECT >
+name=액셀 하이퍼 사탕
+descr=아무 행동에서든 주사위 2개를 굴린다.
+
+< CARD_COTTONCAKE_EFFECT >
+name=공짜 카드
+descr=고정 카드 코스트가 공짜가 되며 요구 레벨 또한 무시한다.
+
+< CARD_REDBEANCREAM_EFFECT >
+name=팥바
+descr=공격력 +1을 얻는다. 이 효과는 KO 시 사라진다. 이 효과는 중첩되지 않는다.
+
+< CARD_ZAPPERSWORD_EFFECT >
+name=마법검
+descr=공격력 +1과 방어력 -1을 영구히 얻는다.
+
+< CARD_MELONPAN_EFFECT >
+name=멜론빵
+descr=방어력과 회피력을 1씩 영구히 증가시키나 공격력이 1 감소한다.
+
+< CARD_SMOKEBOMB_EFFECT >
+name=연막탄
+descr=다음 배틀에서 상대가 공격력, 방어력, 회피력 -1을 얻는다.
+
+< CARD_SHIELD_EFFECT >
+name=방패
+descr=들어오는 피해를 줄이며 피해를 받을 때마다 따라 스톡 수가 준다.
+
+< CARD_ELLIEATK_EFFECT >
+name=엘리의 미라클 (공)
+descr=중첩당 공격력+1을 얻는다.
+
+< CARD_ELLIEDEF_EFFECT >
+name=엘리의 미라클 (방)
+descr=중첩당 방어력 +1을 얻는다.
+
+< CARD_ELLIEEVD_EFFECT >
+name=엘리의 미라클 (회)
+descr=중첩당 회피력 +1을 얻는다.
+
+< CARD_LUCKYLUNCH_EFFECT >
+name=럭키 런치
+descr=공격력, 방어력, 회피력 +1을 얻는다.
+
+< CARD_ALICIANRONE_ATK_EFFECT >
+name=속도 피해
+descr=적을 지나갈 때 스톡 수만큼의 피해를 준다.
+
+< CARD_BEASTWITCH_EFFECT >
+name=야수의 조공
+descr=턴 종료 시 "야수 마녀"를 버린다.
+
+< CARD_SLOW_EFFECT >
+name=느림
+descr=중첩당 이동력이 1 감소한다.
+
+< CARD_SHROOMZOOM_EFFECT >
+name=버섯아 게섯거라
+descr=중첩당 이동력이 1 상승한다.
+
+< CARD_SUGURI46_EFFECT >
+name=활력
+descr=다음 이동 굴림에 주사위 1개를 더 얻는다.
+
+< CARD_SUGURI46_ATK_EFFECT >
+name=추억
+descr=공격력 +1을 얻는다.
+
+< CARD_MAYNIECOUNT_EFFECT >
+name=분노 카운터
+descr=뚜껑 폭발을 쓰면 중첩당 공격력 +1과 회피력 +1을 얻는다.
+
+< CARD_MAYNIERAGE_EFFECT >
+name=분노 모드
+descr=중첩당 공격력 +1과 회피력 +1을 얻는다.
+
+< CARD_PASSIONATERESEARCH_EFFECT >
+name=탐구심
+descr=덱 맨 위의 중첩 수만큼의 카드를 볼 수 있다.
+
+< CARD_MINIGAME_TURNSKIP >
+name=폿포 스톱
+descr=다음 턴을 넘긴다.
+flavor=
+
+< CARD_MINIGAME_REVERSEMOVEMENT >
+name=폿포 리버스
+descr=반대 방향으로 이동한다.
+flavor=
+
+< CARD_MINIGAME_DOUBLEDICE >
+name=폿포 다이스
+descr=모든 굴림에서 주사위를 하나 더 얻는다.
+flavor=
+
+< CARD_MINIGAME_FROSTWALKER >
+name=폿포 프로스트워커
+descr=1챕터 동안 지나가는 모든 패널이 얼어붙는다
+flavor=
+
+< CARD_XMAS2018_SNOWBALLFIGHTBAN >
+name=손시림
+descr=눈싸움을 걸 수 없다.
+flavor=
+
+< CARD_WANTED_EFFECT >
+name=현상수배
+descr=배틀에서 KO당할 시 승리 수를 두 배로 준다. KO 시 효과는 사라진다.
+
+< CARD_SWEETDESTROYER_EFFECT >
+name=스위트 디스트로이어
+descr=뽑는 모든 스위트 계열 카드가 데인저러스 푸딩 또는 나쁜 푸딩으로 변한다.
+
+< CARD_LONELYCHARIOT_EFFECT >
+name=고독한 폭주기관차
+descr=이동 시 항상 5를 굴린다. 턴이 끝날 때마다 피해 1을 입는다.\nKO 시 효과가 종료되며 이 카드의 효과로 KO될 시 레벨*5스타를 잃는다.
+
+< CARD_PRESIDENTPRIVILEGE_EFFECT >
+name=학생회장의 특권
+descr=스타 코스트를 지불하지 않고 카드를 낼 수 있다.
+
+< CARD_SANTASJOB_EFFECT >
+name=산타의 일
+descr=매 턴 행동 대기 중에 사용 가능한 레벨의 다른 카드를 무작위 플레이어에게 줄 수 있다. 그 카드의 레벨 x5만큼의 스타를 얻는다.
+
+< CARD_BANNEDFORLIFE_EFFECT >
+name=영구 추방
+descr=기프트 카드만을 사용할 수 있다.
+
+< CARD_EVILSPYWORKEXEC_EFFECT >
+name=악의 공작 활동 ― 실행
+descr=턴 종료 시 피해 3을 입는다.
+
+< CARD_REDBEANICECREAM_EFFECT >
+name=미라클 팥바
+descr=중첩당 공격력 +1을 얻는다.
+
+< CARD_REDBLUE_EFFECT >
+name=아카와 아오
+descr=중첩당 공격력, 방어력, 회피력 +1을 얻는다.
+
+< CARD_BEASTWITCHGIFT_EFFECT >
+name=야수 마녀
+descr=다른 플레이어가 엔카운터 패널 배틀에서 스타를 잃을 때 엔카운터 유닛 대신 자신이 스타를 얻는다.
+
+< CARD_UNLUCKYCHARM_EFFECT >
+name=불행의 부적
+descr=턴 시작 시 레벨 만큼의 스타를 잃는다.
+
+< CARD_WINDYENCHANTMENT_EFFECT >
+name=질풍의 인챈트
+descr=이동력 +1을 얻는다. 노르마 체크를 막는다.
+
+< CARD_LOSTCHILD_EFFECT >
+name=미아
+descr=반대 방향으로 이동한다.
+
+< CARD_PRICEOFPOWER_EFFECT >
+name=힘의 대가
+descr=한 레벨 더 높은 카드를 낼 수 있다. 모든 카드의 스타 코스트가 5 증가한다.
+
+< CARD_POPPOSNATCHER_EFFECT >
+name=소매치기 폿포
+descr=방어력 -1을 얻는다. 적을 지나갈 때, 대상의 레벨 x3만큼의 스타를 빼앗는다. 노르마 체크를 막는다.
+
+< CARD_BLOODLUST_EFFECT >
+name=피의 욕망
+descr=턴 시작 시 HP 1을 잃는다. 주는 피해만큼의 HP를 회복한다. 노르마 체크를 막는다.
+
+< CARD_LUCKYCHARM_EFFECT >
+name=행운의 부적
+descr=턴 시작 시 레벨 만큼의 스타를 얻는다. 다른 카드를 사용할 수 없다.\n 배틀에서 KO당할 시 상대에게 레벨 x3만큼의 스타를 더 준다.
+
+< CARD_MONOCOQUE_EFFECT >
+name=통짜 금속
+descr=배틀 외 피해를 받을 때 받는 피해를 1 줄이고 레벨 x2만큼의 스타를 잃는다.
+
+< CARD_SAINTEYES_EFFECT >
+name=성로안
+descr=선공으로 진행하는 배틀에서 홀수 중첩마다 공격력 +1을 얻고, 짝수 중첩마다 방어력 +1을 얻는다.
+
+< CARD_CHEFSUMMON_EFFECT >
+name=주방장님, 도와주세요!
+descr=주방장이 대신 싸운다. 크리스가 다른 유닛에게 배틀에 도전할 수 있도록 해준다.
+
+< CARD_MANAGERSUMMON_EFFECT >
+name=점장님, 도와주세요!
+descr=점장이 대신 싸운다. 크리스가 다른 유닛에게 배틀에 도전할 수 있도록 해준다.
+
+< CARD_MANAGERCOUNTER_EFFECT >
+name=점장 카운터
+descr=기프트 외 1장 제한 카드를 사용하여 적립된다. 레벨 4 이상에 4중첩 이상을 보유하면 "주방장님, 도와주세요!"를 "점장님, 도와주세요!"로 바꾼다.
+
+< CARD_BOSSROBOBARRIER_EFFECT >
+name=완충 장갑
+descr=피해 1점을 흡수한다. 자동 수리 시 해제됨.
+
+< CARD_BOSSROBOREPAIR_EFFECT >
+name=자동 수리
+descr=턴 시작 시 자동 수리 3중첩을 가지고 있다면 중첩들을 제거하고 HP 1을 회복한다.
+
+< CARD_BOSSROBOSLOWSTART_EFFECT >
+name=느린 시작
+descr=이동력 -1.
+
+< CARD_PHILOSOPHERSTONE_EFFECT >
+name=현자의 돌
+descr=챕터가 시작될 때마다 4스타에 더해 지난 5챕터당 1스타를 추가로 얻는다.
+
+< CARD_PERMARECREDUCTION_EFFECT >
+name=피로가 싹
+descr=부활값이 1 영구히 낮아진다.
+
+< CARD_TEMPRECREDUCTION_EFFECT >
+name=활력 증진
+descr=다음에 KO될 시 부활값을 스톡 수만큼 낮춘다.
+
+< CARD_SHOKUPAN_EFFECT >
+name=재활
+descr=턴이 시작되면 중첩 수만큼 HP를 회복한다.
+
+< CARD_RADAR_EFFECT >
+name=관측기
+descr=모든 몬스터 위치를 구별할 수 있다.
+
+< CARD_PRECISIONGOGGLES_EFFECT >
+name=날카로운 시선
+descr=투척 사거리가 2패널 증가한다.
+
+< CARD_POISONED_EFFECT >
+name=중독됨
+descr=매 턴이 시작될 때 스톡 수만큼의 피해를 받는다.
+
+< CARD_HARBINGER_FAME >
+name=이름난 약골 슬레이어
+descr=중첩당 명성 +1 (최대 6중첩). 전령을 격퇴할 때 이 효과로 모인 명성이 기본 명성과 함께 지급된다.
+
+< CARD_HARBINGER_SOULEATER >
+name=소울 이터
+descr=3중첩 시 HP를 완전히 회복하고 모든 유닛에게 파멸 효과를 건다.
+
+< CARD_HARBINGER_AWAKENED >
+name=각성 소울 이터
+descr=최대 HP 1, 공격력 +1, 방어력 -1을 영구히 얻는다.
+
+< CARD_DOOM_EFFECT >
+name=파멸
+descr=지속 시간이 0이 되면 턴 시작 시 KO된다. 효과의 근원을 격퇴하거나 KO 시 또는 여관에서 회복할 시 제거된다. 이 효과를 지닌 채 KO되면 전령에게 소울 이터 1중첩을 준다.
+
+< CARD_DARKCHOCOMOUSSE_STAREATER >
+name=스타 이터
+descr=3중첩 시 HP를 완전히 회복하고 모든 유닛에게 파멸 효과를 건다.
+
+< CARD_DARKCHOCOMOUSSE_AWAKENED >
+name=각성 스타 이터
+descr=최대 HP +1, 공격력 +1, 방어력 -1을 영구히 얻는다.
+
+< CARD_CHOCOLATEDOOM_EFFECT >
+name=부채
+descr=지속 시간이 0이 되면 턴 시작 시 다크 초콜렛 마우쓰가 당신 레벨 x10만큼의 스타를 빼앗고 스타 이터 1중첩을 얻는다. 효과의 근원을 격퇴하거나 KO 시 또는 여관에서 회복할 시 제거된다.
+
+< CARD_DARKCHOCOMOUSSE_FAME >
+name=이름난 약골 슬레이어
+descr=중첩당 명성 +1 (최대 6중첩). 다크 초콜렛 마우쓰를 격퇴할 때 이 효과로 모인 명성이 기본 명성과 함께 지급된다.
+
+< CARD_SPIKEDSHIELD_EFFECT >
+name=가시 방패
+descr=받는 피해를 1 감소시킨다. 내 방어 굴림값이 상대의 공격 굴림값보다 높을 경우 공격 굴림값의 반을 상대에게 피해로 반사시킨다.
+
+< CARD_BATTLEAXE_EFFECT >
+name=처형인
+descr=공격력 +1과 회피력 -1을 영구히 얻는다.
+
+< CARD_CURSEDSWORD_EFFECT >
+name=저주받은 검
+descr=공격력 +2, 방어력, 회피력, 최대 HP -1.
+
+< CARD_CURSEDAXE_EFFECT >
+name=저주받은 도끼
+descr=공격시 치명타율 20%, 빗나갈 확률 10% 생성.
+
+< CARD_CURSEDBOUNTY_EFFECT >
+name=저주받은 현상수배
+descr=다음에 완수하는 현상수배가 명성 2를 추가로 주고 KO 시 또는 여관에서 회복할 때까지 HP와 최대 HP를 1로 만든다.
+
+< CARD_CURSEDMARK_EFFECT >
+name=저주의 낙인
+descr=저주받은 현상수배를 완수한 결과로 쓰러질 위기에 봉착함.
+
+< CARD_CURSEDICECREAM_EFFECT >
+name=보라색 팥바
+descr=공격력 +2, 최대 HP -1 (최소값 1). KO 시 해제됨.
+
+< CARD_BRAVERYUP_EFFECT >
+name=겁없는 사냥꾼
+descr=전령을 무찌르고 용기가 증가해 남은 스톡 수만큼의 배틀 동안 받는 모든 배틀 피해를 1씩 감소시킨다.
+
+< CARD_CONTRACTCURSE_EFFECT >
+name=의뢰 저주
+descr=저주받은 의뢰를 하나 이상 보유하고 있다. 저주를 정화하지 않으면 저주받은 의뢰가 3챕터 뒤에 버려진다.
+
+< CARD_OVERTIME_EFFECT >
+name=연장 근무
+descr=이동 주사위를 3개 굴린다.
+
+< CARD_CLOCKEDOUT_EFFECT >
+name=퇴근
+descr=다음 턴을 넘긴다.
+
+< CARD_HOMEIMPROVER_EFFECT >
+name=집단장
+descr=효과 만료 시 무작위로 홈 패널 위치를 교환한다.
+
+< CARD_LUCKYSEVENS_EFFECT >
+name=럭키 세븐
+descr=주사위 눈의 범위가 0~7이 되고 0을 굴리면 굴림 결과 최솟값이 0이 된다.
+
+< CARD_LUCKYZERO_EFFECT >
+name=럭키 제로
+descr=노르마 체크를 할 수 없다.
+
+< CARD_LOSTPRESENTS_EFFECT >
+name=잃어버린 선물
+descr=효과 만료 시 중첩 수만큼 카드를 뽑는다.
+
+< CARD_GUIDANCE_EFFECT >
+name=풍향계의 인도
+descr=배틀을 제외한 모든 주사위 굴림에서 주사위 2개를 굴린다. 이 효과는 자신의 홈 패널에 도착할 때 끝난다.
+
+< CARD_SAFEJOURNEY_EFFECT >
+name=안전한 여행
+descr=매 턴 5스타를 잃는다. 드롭 패널, 트랩, 카드 효과 피해를 무시한다. 이 효과는 자신의 홈 패널에 도착하거나 보유 스타가 5개 미만일 때 끝난다.
+
+< CARD_HUNGRY_EFFECT >
+name=배고픔
+descr=배고픔 3중첩 시 회피력 -1을 얻는다. 자신의 홈에서 멈추면 해제된다.
+
+< CARD_GUIDANCE_BH_EFFECT >
+name=풍향계의 인도
+descr=배틀을 제외한 모든 굴림에서 주사위 2개를 굴린다. 이 효과는 자신의 홈 패널에 도착할 때 끝난다.
+
+< CARD_UPSHIFT_EFFECT >
+name=시프트 업
+descr=중첩당 이동력 +1을 얻는다.
+
+< CARD_LONELYRIDE_EFFECT >
+name=고독한 질주
+descr=공격력과 방어력 +1과 회피력 +2를 얻는다.
+
+< CARD_ZEALOUSSALESMAN_EFFECT >
+name=열성 세일즈맨
+descr=중첩당 공격력 +1을 얻는다.
+
+< CARD_NEWNOBILITY_EFFECT >
+name=귀족의 매력
+descr=다음 배틀 동안 공격력, 방어력, 회피력 중 하나의 능력치에 -1을 얻는다.
+
+< CARD_AFFLUENCE_EFFECT >
+name=공주님의 초대
+descr=배틀 동안 공격력 -3을 얻는다.
+
+< CARD_RECOVERY_DOWN_EFFECT >
+name=회복 다운
+descr=중첩당 회복값 +1을 얻는다.
+
+< CARD_MESCAL_COOLDOWN_EFFECT >
+name=안 도와줘도 된다니까!
+descr=메스칼이 배틀 도전을 받을 때 해적 부하가 나타나지 않는다.
+flavor=
+
+< CARD_FORCED_DEPARTURE_EFFECT >
+name=강제 이탈
+descr=이 스톡 효과가 만료되고 나면 전장을 떠나라는 명령을 받았음.
+
+< CARD_IDEALWORLD_EFFECT >
+name=로봇 침탈
+descr=다음 엔카운터 상대가 로봇 야생 유닛이 된다. 이 로봇 유닛은 공격력 +1을 얻는다.
+
+< CARD_HARDENEDSCALES_EFFECT >
+name=단단한 비늘
+descr=중첩당 공격력 +1을 얻는다. KO 시 효과 종료.
+
+< CARD_GOODESTBOY_EFFECT >
+name=세상에서 제일 착한 애
+descr=즉시 KO 효과에 면역. 자신 또는 다른 플레이어의 턴이 끝날 때 서로가 같은 패널에 위치하면 그 플레이어의 무작위 패 1장을 복사해 얻는다. 배틀에 도전하거나 도전받을 수 없으나 대신 상대는 멈춰서 당신을 쓰다듬을 수 있다. KO 시 효과 종료.
+
+< CARD_BOMBIMMUNITY_EFFECT >
+name=폭발 면역
+descr=다음 챕터 시작 시까지 폭탄으로 인한 피해를 입지 않는다.
+
+< CARD_ARTOFSWORD_EFFECT >
+name=검술
+descr=전투 능력이 개선되었다. 공격력 +1을 영구히 얻는다.
+
+< CARD_ARTOFSHIELD_EFFECT >
+name=방패술
+descr=피해 저항력이 개선되었다. 방어력 +1을 영구히 얻는다.
+
+< CARD_ARTOFEVASION_EFFECT >
+name=회피술
+descr=회피력이 개선되었다. 회피력 +1을 영구히 얻는다.
+
+< CARD_RESOLUTE_EFFECT >
+name=결심
+descr=부활값이 영구히 1 감소한다.
+
+< CARD_STIMULATION_EFFECT >
+name=자극
+descr=최대 HP +1을 영구히 얻는다.
+
+< CARD_CARRIER_EFFECT >
+name=운반수
+descr=패 용량 +1과 의뢰 용량 +1을 영구히 얻는다.
+
+< CARD_PREMIUMMEMBERSHIP_EFFECT >
+name=프리미엄 멤버십
+descr=(수상쩍은 상인을 제외한) 모든 상점의 최종 코스트가 30% 감소한다.
+
+< CARD_JOGGER_EFFECT >
+name=산책가
+descr=마지막 이동 굴림의 칸수를 소진하고 턴을 종료하면 다음 이동 굴림에서 이동력 +1을 얻는다.
+
+< CARD_JOGGING_EFFECT >
+name=산책 중
+descr=다음 이동 굴림에서 중첩당 이동력 +1을 얻는다.
+
+< CARD_PLENTIFULHARVEST_EFFECT >
+name=풍작
+descr=현상수배를 완수할 때마다 스타를 얻는다.
+
+< CARD_COMMANDER_EFFECT >
+name=사령관
+descr=보유한 소환체를 직접 조종할 수 있다.
+
+< CARD_SWEETMOUNTAIN_EFFECT >
+name=스위트 산더미
+descr=추가 부스트 카드를 1/3 코스트로 낼 수 있다.
+
+< CARD_CHAOS_PROTECT_EFFECT >
+name=혼돈의 보호
+descr=피해를 입을 때마다 피해 1점당 1중첩을 소모해 최대 2만큼의 피해를 1점까지 줄인다.
+
+< CARD_CHAOS_HYPE_EFFECT >
+name=신남
+descr=신바람이 났다.
+
+< CARD_CHAOS_RAMPAGE_EFFECT >
+name=광분
+descr=중첩당 공격력 +1을 얻는다.
+
+< CARD_CHAOS_MUSCLE_EFFECT >
+name=혼돈의 근육
+descr=중첩당 기본 공격력 +1을 (최대 +3까지) 얻는다.
+
+< CARD_CHAOS_GUARD_EFFECT >
+name=혼돈의 방어
+descr=중첩당 기본 방어력 +1을 (최대 +3까지) 얻는다.
+
+< CARD_CHAOS_SPEED_EFFECT >
+name=혼돈의 속도
+descr=중첩당 기본 회피력 +1을 (최대 +3까지) 얻는다.
+
+< CARD_CHAOS_DIVE_FATIGUE_EFFECT >
+name=도약 피로
+descr=이 효과가 지속되는 동안 노르마 판정을 할 수 없다.
+
+< CARD_CHAOS_LAUNCH_EFFECT >
+name=혼돈의 비상
+descr=턴 시작 시 선택한 패널에 뛰어들어 2패널 거리에 있는 유닛들에게 레벨만큼의 피해를 주고 1패널 거리에 있는 유닛들에게 레벨 x2만큼의 피해를 준다.
+
+< CARD_BOMBIMMUNITY_EFFECT >
+name=폭발 면역
+descr=다음 챕터 시작 시까지 폭탄으로 인한 피해를 입지 않는다.
+
+< CARD_HOTPOTATO_EFFECT >
+name=성가신 꼬맹이
+descr=폭발하는 건 이제 시간 문제!
+
+< CARD_SLUMBERTHREATS_EFFECT >
+name=내 잠의 위협
+descr=배틀에서 피해를 단 1점만 무효화하면 각성 스톡 하나를 얻는다.
+
+< CARD_WAKING_EFFECT >
+name=각성
+descr=잠이 위협받은 횟수.
+
+< CARD_PRISONBREAK_EFFECT >
+name=탈옥 놀이
+descr=다른 플레이어에게 도전받거나 부스트 카드의 대상이 되지 않는다. 다른 플레이어로부터 비롯한 트랩 카드, 즉시 KO 효과, 카드 효과로 인한 피해에 면역이 된다. 이동 시 주사위 2개를 굴린다. 패널 한 칸을 이동할 때마다 1중첩을 잃는다.
+
+< CARD_MOTHERPOWER_EFFECT >
+name=어머니의 힘
+descr=받은 피해 1점당 레벨만큼의 스타를 얻는다. 효과가 만료되거나 지속 시간 내에 대체된다면 HP를 완전히 회복한다. KO 시 효과는 사라진다.
+
+< CARD_HYPERMIRACLE_EFFECT >
+name=엘리의 하이퍼 미라클
+descr=선공 시 노르마 달성 횟수만큼의 공격력을, 후공 시 노르마 달성 횟수만큼의 방어력과 회피력을 얻는다.
+
+< CARD_MOMENTOFGLORY_EFFECT >
+name=전 주인공의 영광의 순간
+descr=공격력 +2와 회피력 +5를 얻는다.
+
+< CARD_HKAIPASSIVE_EFFECT >
+name=기사회생
+descr=배틀 외 피해로 HP가 1점 미만으로 내려갈 때에도 HP 1점이 남는다. 이후 내 턴이 끝날 때 남은 HP가 여전히 1점이라면 KO된다.
+
+< CARD_CANNONBALL_EFFECT >
+name=대포알 카운터
+descr=카드를 낼 때마다 얻는다.
+
+< CARD_BOURBON_EFFECT >
+name=부러진 날갯깃
+descr=스택당 최대 HP -1. KO 시 효과 종료.
+
+< CARD_HEART_OF_RESISTANCE_EFFECT >
+name=투쟁심
+descr=행동 가능하다면 대상이 다른 유닛에게 도전하거나 도전받을 때 배틀에서 대상의 자리를 대신한다.
+
+< CARD_HYPER_POYO_EFFECT >
+name=슈퍼 청춘 타임
+descr=공격, 방어, 회피, 이동, 보너스, 드롭 굴림의 주사위 눈 수가 2배가 된다.
+
+< CARD_HYPER_CHUU_EFFECT >
+name=어디 한 번 나서볼까
+descr=중첩당 공격력 +1을 얻는다. 적을 격퇴해도 스타를 얻지 못한다. 이 효과 도중 처음으로 플레이어를 배틀에서 격퇴하면 2승을 얻는다.
+
+< CARD_CHAOS_SLAYER_EFFECT >
+name=도전자의 혼
+descr=당신과 동료들은 알 수 없는 유대로 이어졌다.\n회복값이 1 감소하고 이동 시 항상 주사위 2개를 굴린다. 다른 동료를 치료하고 부활시킬 수 있다.
+
+< CARD_CHAOS_TANK_EFFECT >
+name=탱크의 혼
+descr=당신은 적을 쳐부수도록 명령받았다.\n공격력 +2, 최대 HP 대폭 증가, 즉시 KO 및 HP 감소 효과 면역. 회복 효과 무효.
+
+< CARD_CHAOS_TERRORIZE_EFFECT >
+name=겁박
+descr=이 효과가 적용된 때부터 KO마다 부활값 +3.
+
+< CARD_HYPER_HARUKA_GLOBAL_EFFECT >
+name=신바람 전도사
+descr=다른 플레이어가 KO될 시 그 플레이어는 즉시 완전히 회복한다.
+
+< CARD_HYPER_HARUKA_PERSONAL_EFFECT >
+name=신난다!
+descr=다른 플레이어가 KO될 시 그 플레이어의 레벨 x5만큼의 스타를 얻는다. 이 효과는 신바람 전도사 여러 장으로 중첩시킬 수 있다.
+
+< CARD_INTELLECTUALBLUFF_EFFECT >
+name=지적인 블러핑
+descr=다음으로 낸 카드의 타입이 부여자가 선택한 것일 때: 부여자가 2승과 레벨 x10만큼의 스타를 얻는다.\n-부여자가 선언만 한 것일 때: 부여자가 피해 2를 받는다.
+
+
+[EOF]

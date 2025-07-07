@@ -1,0 +1,199 @@
+
+// ========= Scene:  Winter 2022 Opening =========
+
+// (mio)
+<0000> Fufufu, fui certeira. Eu sei que a Tomomo vai adorar♥
+
+// (sweetcreator)
+<0001> Pessoal, Feliz Natal! E um brinde a nós!
+
+// (othersweetgods)
+<0002> Brinde!
+
+// (natsumi)
+<0003> Uma festa de natal de Sweet Gods, é muito divertido.
+
+// (saki)
+<0004> Eu quero que vocês saboreiem os doces de Natal que fiz!
+
+// (natsumi)
+<0005> Eu fiz crepes de pudim caseiros. Eles são muito bons.
+
+// (qp)
+<0006> Crepes de pudim!? Natsumi, vou te respeitar pelo resto da minha vida!!!
+
+// (tomomo)
+<0007> Tudo parece tão bom! Espera um pouco, cadê o bolo de Natal?
+
+// (sweetcreator)
+<0008> Eu acredito que a Sweet Breaker estava encarregada disso.
+
+// (sweetbreaker)
+<0009> Eu tentei fazer um eu mesma mas não ficou muito bom. Me desculpa...
+
+// (saki)
+<0010> Bom, Sweebo é melhor em destruir ou vedar doces do que em fazê-los.
+
+// (qp)
+<0011> Isso me lembra do meu sonho da outra noite onde ela tentou fazer pudim desaparecer do mundo e eu a parei.
+
+// (sweetbreaker)
+<0012> Vocês duas estão sendo muito francas, né? Ah, e podem não me chamar de Sweebo?
+
+// (natsumi)
+<0013> Isso é o de menos. A gente pode fazer um aqui e agora.
+
+// (mio)
+<0014> Tomomooo♥
+
+// (tomomo)
+<0015> Mio!? Que raios você está fazendo invadindo a casa de alguém!
+
+// (mio)
+<0016> Eu fiz um bolo de Natal. Vamos comer♥
+
+// (sweetbreaker)
+<0017> Foi no tempo perfeito. Eu sugiro que a gente aceita de forma grata a oferta gentil dela.
+
+// (sweetcreator)
+<0018> Parece que atraímos um bolo... Nosso poder divino conseguiu novamente!
+
+// (natsumi)
+<0019> Mio, você pode se sentar ali.
+
+// (tomomo)
+<0020> Bom, creio que irei deixar você se juntar a nós para o bolo.
+
+// (mio)
+<0021> Ebaaa♥
+
+// (allsweetgods)
+<0022> Vamos comer! *Morde* ...Ugh.
+
+// (mio)
+<0023> É delicioso, né? Como uma amante de doces, eu coloquei muito esforço nele♥
+
+// (sweetcreator)
+<0024> Você realmente é uma amante de doces...?
+
+// (sweetbreaker)
+<0025> E-essa coisa realmente é um bolo...?
+
+// (natsumi&saki&qp)
+<0026> ......
+
+// (tomomo)
+<0027> Mas que raios! Isso é horrível!
+
+// (mio)
+<0028> Não é possível, só pode ser brincadeira!? ...*Morde*... Ei, é saboroso!
+
+// (saki)
+<0029> Realmente se parece com um bolo de chocolate normal, mas...
+
+// (natsumi)
+<0030> Não tem o sabor que parece ter, eu diria.
+
+// (mio)
+<0031> Como vocês puderam não apreciar meu bolo delicioso? Que tipo de bolos vocês comem?
+
+// (tomomo)
+<0032> Aqueles que não são um lixo.
+
+// (mio)
+<0033> Você chamou de lixo novamente! Eu estou muito irritada agora! Okay, eu sei o que eu irei fazer...
+
+// (mio)
+<0034> Eu usarei meus poderes mágicos para fazer diversos bolos e trocar todos os bolos do mundo por eles! Eu vou provar que meus bolos são os melhores de todos!
+
+// (tomomo)
+<0035> Oh, então você não vai tornar as coisas gigantes dessa vez, hmm. ...Pera aí, o que RAIOS você acabou de dizer que irá fazer!?
+
+// (sweetcreator)
+<0036> Seu nome é Mio, certo? Não podemos ignorar o que você acabou de de dizer.
+
+// (sweetbreaker)
+<0037> Se você vai ser uma ameaça para a ordem dos doces, teremos que nos unir contra você.
+
+// (qp)
+<0038> Nós, as Sweet Gods, vamos proteger os bolos de Natal do mundo todo!
+
+// (saki)
+<0039> Essa crise dos doces está me fazendo ficar tão empolgada!!!
+
+// (natsumi)
+<0040> Certo, farei tudo que puder pelos bolos.
+
+// (mio)
+<0041> Que amoroso. Pode vir com tudo, pessoal. Ninguém pode me parar quando estou furiosa♥
+
+// ========= Scene:  Ending 1 (Sweet Gods win) =========
+
+// (sweetcreator)
+<0042> É nossa vitória massiva!
+
+// (mio)
+<0043> *Soluça* Eu só queria ver todo mundo curtindo o meu bolo...
+
+// (sweeteater)
+<0044> Eu não acho que você está mentindo sobre amar doces, mas você precisa admitir que não é muito habilidosa com pastelaria...
+
+// (sweetblogger)
+<0045> Nós podemos te ensinar a fazer bolos.
+
+// (sweetmaker)
+<0046> Você parece saber o básico, então eu aposto que você ficará melhor rapidamente!
+
+// (mio)
+<0047> De verdade?
+
+// (sweetbreaker)
+<0048> É claro, pois nós somos as Sweet Gods.
+
+// (sweetguardian)
+<0049> Se você se tornar uma melhor pasteleira, você ficará feliz e nós ficaremos felizes também!
+
+// (mio)
+<0050> Okay...! Me ensine como♥
+
+// (sweetcreator)
+<0051> Certo, a gente vai até minha casa fazer alguns bolos!
+
+// (everyone)
+<0052> Isso!
+
+// ========= Scene:  Ending 2 (Mio wins) =========
+
+// (mio)
+<0053> Ufufu, venci♥ Eu falei que ninguém pode me deter quando estou zangada.
+
+// (sweeteater)
+<0054> Como as pessoas gostaram daquele bolo horrível mais do que bolos reais!?
+
+// (sweetguardian)
+<0055> Na verdade, eu acabei de comer um pouco dele novamente e não é tão ruim quanto pensei inicialmente.
+
+// (sweetblogger)
+<0056> Diversos blogueiros de doces estão escrevendo sobre o bolo. É a nova tendência agora.
+
+// (sweetcreator)
+<0057> Parece que o mundo dos doces é mais profundo do que eu sabia. Ainda tenho muito a aprender.
+
+// (sweetbreaker)
+<0058> Eu acho que isso está correto. Nós não deviamos ter sido tão duras ao decidir que o bolo é objetivamente ruim.
+
+// (sweetmaker)
+<0059> Mio, você poderia me ensinar como fazer este bolo? Como uma pasteleira, eu acredito que preciso aprender a receita!
+
+// (mio)
+<0060> Mas é claro♥
+
+// (sweetcreator)
+<0061> Certo, a gente vai voltar para minha casa e fazer alguns bolos!
+
+// (everyone)
+<0062> Isso!
+
+// (sweeteater)
+<0063> Ei, ei, eeei! Esperem! Não me deixem sozinha aqui!
+

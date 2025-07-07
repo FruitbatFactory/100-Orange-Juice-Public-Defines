@@ -1,0 +1,156 @@
+<0000> Here I go.
+<0001> Sorah!
+<0002> Let's do this.
+<0003> How's this!
+<0004> Heheh, I guess I'll play a card.
+<0005> Now's the time!
+<0006> I gotta play this now!
+<0007> It's now or never!
+<0008> Niheheh...
+<0009> I guess I'll set a trap here.
+<0010> Let me put this down here...
+<0011> Like this... Good!
+<0012> I don't want to lose!
+<0013> Here I come. Get ready!
+<0014> I'm starting to get fired up.
+<0015> Watch me buff myself.
+<0016> My magic makes me invincible!
+<0017> I'm ready to get back at them!
+<0018> There's still a lot that I can do.
+<0019> I haven't lost the game yet!
+<0020> Time to start over! Let's go!
+<0021> What? You've got to be kidding me.
+<0022> That was a bust...
+<0023> Come on...
+<0024> Why? Why?
+<0025> Take my attack!
+<0026> Prepare yourself, okay?
+<0027> Let's do this!
+<0028> With all I've got!
+<0029> Ouch!
+<0030> Hey.
+<0031> Hey now, I'm a girl, remember?!
+<0032> Come on, be gentle.
+<0033> I'm full of energy now!
+<0034> That's what I'm talking about!
+<0035> With this, I can keep going!
+<0036> What nice timing.
+<0037> Huh? A warp?
+<0038> Where will I end up?
+<0039> Uwaaah...
+<0040> Hieeeh.
+<0041> I went down...
+<0042> Man... What a bust.
+<0043> Ugh... It wasn't supposed to be like this.
+<0044> *Sigh* Looks like I have to pause for a bit.
+<0045> Prepare yourself.
+<0046> Hi there, wanna play?
+<0047> Play with me.
+<0048> Why don't we battle?
+<0049> Sure, I'll accept your challenge.
+<0050> Wow, you're really up for it.
+<0051> Fiiiine, I'll play with you if you insist that much.
+<0052> I won't lose.
+<0053> Yah!
+<0054> Toh!
+<0055> With everything I've got!
+<0056> How's that!
+<0057> Ouch!
+<0058> Owah!
+<0059> Not bad!
+<0060> Oww...
+<0061> No way, my magic...
+<0062> Whaaat, this is not possible.
+<0063> Oh no... Thick skin is the only thing I've got going for me...
+<0064> Wau! I-I don't believe this...!
+<0065> That was super close!
+<0066> That almost freaked me out.
+<0067> Whoa.
+<0068> Hey, watch it.
+<0069> That was fun.
+<0070> Woo-hoo!
+<0071> Oh boy, was that a blast.
+<0072> Ehehe, no hard feelings, okay?
+<0073> No way...
+<0074> Oh no, I lost.
+<0075> Uuu... I'm mad at myself.
+<0076> Too strong.
+<0077> Wow, so sweet!
+<0078> I feel very good...!
+<0079> Yeah, yeah, yeaaah!
+<0080> Hooray, stars!
+<0081> Whaaat...!
+<0082> Hold on a sec! No...
+<0083> I messed up hard...
+<0084> Waaan!
+<0085> I let down my guard!
+<0086> How could anyone do this?!
+<0087> A trap!?
+<0088> I hate this so much!
+<0089> Whoa, that really creeps me out.
+<0090> So many dangerous vibes...
+<0091> Here comes our guest of honor, I guess.
+<0092> Well... I may get beaten if I lower my guard for even a moment.
+<0093> Star-gathering, it is!
+<0094> I'll get tons of them! I've got this!
+<0095> Gather stars? I'll do a great job of it!
+<0096> All the stars around here will be mine.
+<0097> Let's play a lot.
+<0098> My magic is unbeatable.
+<0099> Exercising is important.
+<0100> My heart's burning hot.
+<0101> I'm Miusaki.
+<0102> You want me to come with? Sure, let's have some fun.
+<0103> I was bored to death! Let's go play.
+<0104> I'll try my hardest.
+<0105> It's started.
+<0106> Now, let's get started!
+<0107> Let's all have a fun game.
+<0108> I'm hyped!
+<0109> What, I won? Sweet!
+<0110> I'm so happy... Ehehe.
+<0111> What a blast! Hey, we should play one more game.
+<0112> That was so much fun.
+<0113> What do you think of that?
+<0114> I got this for you!
+<0115> How's that? You like it?
+<0116> I hope you like it...
+<0117> Switch, please.
+<0118> You got this.
+<0119> High-five, it's your turn!
+<0120> I should fall back for now...
+<0121> Okay.
+<0122> Good.
+<0123> You can count on me.
+<0124> No.
+<0125> Hmmm...
+<0126> My  lucky day!
+<0127> Hmeh?
+<0128> Here I go!
+<0129> Dice!
+<0130> You can do it! You can do it!
+<0131> Hey!
+<0132> Hm... Hmm...
+<0133> Way to go!
+<0134> Wow, that's super!
+<0135> Arrrrgh, geez!
+<0136> Whose magic is this?
+<0137> What's this do...?
+<0138> Unfamiliar magic, but I'll give it a try.
+<0139> What's going to happen? I'm hyped!!
+<0140> Teo, are you out of control again?
+<0141> Whoa, Teo! You've got to relax!
+<0142> Geez, you could've just said you wanted to play with me.
+<0143> Uuu, Teo, you idiot.
+<0144> Huh? You want to play with me? Sure!
+<0145> Okay, I'll play with you.
+<0146> Fufu, you're adorable.
+<0147> Huh? What's wrong? Are you lost?
+<0148> Tired? Then let me use this for you.
+<0149> Everyone should be full of energy when playing.
+<0150> How you feeling? Any better now?
+<0151> All right, I'll give you some energy.
+<0152> That's no use!
+<0153> That won't hurt me a bit.
+<0154> Ehehe, I'm invincible.
+<0155> This is the power of my magic!

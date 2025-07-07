@@ -1,0 +1,305 @@
+< CARD_DECEPTIVELYDISARMED_EFFECT >
+name=見せかけの武装解除済み
+descr=次の行動がスキップされる。
+
+< CARD_STUFFED_EFFECT >
+name=満腹
+descr=次のバトルでATK-1。
+
+< CARD_BURNOUT_EFFECT >
+name=燃え尽き
+descr=1ストックにつき、復活を1ターン遅らせる。
+
+< CARD_PROTAGONISTPRIVILEGE_EFFECT >
+name=主役の特権
+descr=自身が常に先攻。相手は攻撃できない。\n(1バトルにつき1回)
+
+< CARD_PROTAGONISTPRIVILEGE_EFFECT >
+name=主役の特権
+descr=常に先攻。敵は攻撃できない(1バトルにつき1回のみ)。
+
+< CARD_AIRSUPPORT_EFFECT >
+name=航空支援
+descr=次のバトルでDEF+2。
+
+< CARD_COOP_BLAZING_EFFECT >
+name=ブレイジング！
+descr=1ストックにつき、ATK+1（味方）、またはDEF-1（敵）。ダウンで効果を失う。
+
+< CARD_COOP_MELTINGMEMORIES_EFFECT >
+name=とろける記憶
+descr=バトルのとき、スイートブレイカーはATK・DEF・EVD+1。
+
+< CARD_COOP_EVILSPYWORKEXEC_EFFECT >
+name=悪の工作活動～始末
+descr=ターン終了時にHPを2回復する。
+
+< CARD_COOP_BANNEDFORLIFE_GIFT_EFFECT >
+name=永久追放
+descr=ボスの次の行動をスキップさせられる。
+
+< CARD_COOP_BANNEDFORLIFE_EFFECT >
+name=永久追放
+descr=次の行動がスキップされる。
+
+< CARD_COOP_GUIDANCE_EFFECT >
+name=風見鶏の導き
+descr=バトル時を除き、ダイスが2つになる。ダウンすると、この効果は消える。
+
+< CARD_COOP_BEASTWITCH_EFFECT >
+name=獣の魔女
+descr=ボスやその手下が原因のスター喪失が無効
+
+< CARD_COOP_FINALSURGERY_EFFECT >
+name=トドメの手術
+descr=次の復活までREC-2。
+
+< CARD_COOP_STEALTHON_EFFECT >
+name=すてるすおん
+descr=敵からバトルを挑まれず、ブーストカードの対象にならない。\nエネミーマスとボスマスでエンカウントしない。\nバトルになると効果は失われ、そのバトル中ATK+2。
+
+< CARD_COOP_SPECIALSTAGE_EFFECT >
+name=ライブモード
+descr=MOV-3、移動系マスの効果のみ得られ、カードを使えない。\n敵からバトルを挑まれず、ブーストカードの対象にならない。\n自身から2マス以内でターンを終えたプレイヤーからレベル×5のスターを奪う。\nダウンで効果を失う。
+
+< CARD_COOP_IDEALWORLD_EFFECT >
+name=ロボットな友達
+descr=プレイヤーの代わりにロボット系ユニットがバトルする。バトル中、ロボット系ユニットはATK+1。
+
+< CARD_COOP_GOODESTBOY_EFFECT >
+name=ハイパーキュートドッグ
+descr=ボスマスを無視する。\n他のプレイヤーと同じマスにいるとき、どちらかのターン終了時に、2人ともカードを1枚引く。\nバトルを仕掛けたり受けたりできない。他のプレイヤーはこのユニットのいるマスに止まり、なでることができる。
+
+< CARD_COOP_PRISONBREAK_EFFECT >
+name=脱獄ごっこ
+descr=このユニットにバトルを挑めない。ボスからのトラップカード、カード効果ダメージを受けない。移動ダイスが2つになる。1マス移動すると1ストック失う。
+
+< CARD_COOP_POPPOSNATCHER_EFFECT >
+name=掠め取るぽっぽ
+descr=DEF-1。敵を通過する時、自身のレベル×3のスターをその敵から奪う。ノルマチェックできない。
+
+< CARD_BOSS_HYPE_EFFECT >
+name=テンション
+descr=10ストックで「暴走」を使う。
+
+< CARD_BOSS_RUMBLE_EFFECT >
+name=轟音
+descr=1ストックごとにATK+1。
+
+< CARD_BOSS_DANCEOFSEAGULLS_EFFECT >
+name=カモメたちのダンス
+descr=次のバトルでATK-2。
+
+< CARD_BOSS_BEAKOFGODBIRD_EFFECT >
+name=神鳥のくちばし
+descr=ATK+1。
+
+< CARD_BOSS_BEAKOFDEMIBIRD_EFFECT >
+name=半鳥のくちばし
+descr=ATK+2。
+
+< CARD_BOSS_FLIGHT_EFFECT >
+name=飛行
+descr=進行方向が逆になる。自身のレベル分のダメージを通過したプレイヤーに与える。
+
+< CARD_BOSS_PIYOMARCH_EFFECT >
+name=ピヨ行進
+descr=次のバトルでEVD+2。
+
+< CARD_BOSS_HEADLESSCHICKENMINION_EFFECT >
+name=パニック
+descr=次のバトルでATK・EVD+2。
+
+< CARD_BOSS_HEADLESSCHICKEN_EFFECT >
+name=パニック
+descr=ATK+2。
+
+< CARD_BOSS_WIRELESSCHICKEN_EFFECT >
+name=ワイヤレスにわとり
+descr=ATK+2。
+
+< CARD_BOSS_ATTACKDOWN_EFFECT >
+name=攻撃低下
+descr=1ストックにつきATK-1。
+
+< CARD_BOSS_DEFENSEDOWN_EFFECT >
+name=防御低下
+descr=1ストックにつきDEF-1。
+
+< CARD_BOSS_EVASIONDOWN_EFFECT >
+name=回避低下
+descr=1ストックにつきEVD-1。
+
+< CARD_BOSS_TURBO_EFFECT >
+name=ターボ
+descr=移動ダイスが3つになる。
+
+< CARD_BOSS_EMP_EFFECT >
+name=電磁パルス
+descr=カードを使えない。
+
+< CARD_BOSS_DELTAFIELD_EFFECT >
+name=スクランブル・デルタフィールド
+descr=全ダイスロールで、1～3のいずれかを出す。
+
+< CARD_BOSS_IMAGINARYNUMBERS_EFFECT >
+name=虚数
+descr=ダイスの目が7になる。
+
+< CARD_BOSS_DELUSIONALNUMBERS_EFFECT >
+name=幻の数字
+descr=ダイスの目が0か7になる。0が出たとき、出目の最小値は0となる。
+
+< CARD_BOSS_HEALTHDOWN_EFFECT >
+name=体力低下
+descr=1ストックにつき最大HPが1減る。
+
+< CARD_BOSS_RECOVERYMODE_EFFECT >
+name=リカバリーモード
+descr=次のバトルまで、移動ダイスロールがスキップされ、毎ターンHPが2回復する。
+
+< CARD_BOSS_PERFECTREFLECTIVESHELL_EFFECT >
+name=完全反射外装
+descr=被ダメージと同量のダメージを攻撃側に与える。
+
+< CARD_BOSS_PROTECT_EFFECT >
+name=プロテクト
+descr=1ストック消費ごとに、最大3までの被ダメージを1にする。\nストックが切れた時、3チャプターの間DEF・EVD-2、MOV-1。
+
+< CARD_BOSS_SCRAMBLED_EFFECT >
+name=スクランブル
+descr=DEF・EVD-2、MOV-1。
+
+< CARD_BOSS_POTECT_EFFECT >
+name=ぽーてくと
+descr=1ストック消費ごとに、最大2までの被ダメージを1にする。\nストックが切れた時、3チャプターの間DEF・EVD・MOV-1。
+
+< CARD_BOSS_SCRAMBLEDPO_EFFECT >
+name=スクランブル
+descr=DEF・EVD・MOV-1。
+
+< CARD_BOSS_ELUSIVE_EFFECT >
+name=逃げ上手
+descr=敵を通過する度に、ボスのレベル×5のスターを奪う。\nボス以外のユニットの時、スターはボスに与えられる。
+
+< CARD_BOSS_STARMANIA_EFFECT >
+name=星マニア
+descr=毎チャプター、ストック分のスターを得る。
+
+< CARD_BOSS_ROBOTAX_EFFECT >
+name=ロボ税
+descr=1ストックにつきDEF+1。
+
+< CARD_BOSS_HIGHWAYROBBERY_EFFECT >
+name=追いはぎ
+descr=ATK+3。進行方向が反転し、敵にバトルを挑んでも止まらない。\nダメージを与える代わりに、そのダメージ数×10のスターを盗む。
+
+< CARD_BOSS_GREED_EFFECT >
+name=強欲
+descr=このユニットか手下の1与ダメージにつき、スター×5を得る。
+
+< CARD_BOSS_CHASE_EFFECT >
+name=追跡
+descr=移動ダイスが2つになり、バトルした敵と同数のテンションを得る。
+
+< CARD_BOSS_TIRED_EFFECT >
+name=疲労
+descr=次のダウンでREC+1。
+
+< CARD_BOSS_EXHAUSTED_EFFECT >
+name=疲労困憊
+descr=次のダウンでREC+2。
+
+< CARD_BOSS_PLAYTAG_EFFECT >
+name=鬼ごっこ
+descr=ATK+2。バトルした敵と同数のテンションを得る。
+
+< CARD_BOSS_HIDENSEEK_EFFECT >
+name=かくれんぼ
+descr=次のバトルまで、移動ダイスロールがスキップされ2テンションを得る。
+
+< CARD_BOSS_PSYCHEDUP_EFFECT >
+name=気合満タン
+descr=MOV+2。
+
+< CARD_BOSS_WATERMELONSPLIT_EFFECT >
+name=すいか割り
+descr=ATK+5。バトルを挑んでも止まらない。ダウンさせたプレイヤー×2のテンションを得る。
+
+< CARD_BOSS_HYPEITUP_EFFECT >
+name=アゲアゲ
+descr=ATK・DEF+1、EVD-1。\n被バトルダメージで1テンションを失う。\nバトルダウンで2テンションを失う。
+
+< CARD_BOSS_RAMPAGE_EFFECT >
+name=暴走
+descr=1ストックにつき「暴走」のダメージ+1。
+
+< CARD_BOSS_RAMPAGEHYPER_EFFECT >
+name=暴走
+descr=1ストックにつきATK+1。\n1ストックにつき「暴走」のダメージ+1。
+
+< CARD_BOSS_HYPEMODE_EFFECT >
+name=ハイテンションモード
+descr=ATK+2、DEF+1。ダウンした次のターンに復活する。
+
+< CARD_BOSS_QUAKE_EFFECT >
+name=地震
+descr=MOV-2。
+
+< CARD_BOSS_POPPOMARCH_EFFECT >
+name=ぽっぽ行進
+descr=EVD+2。
+
+< CARD_BOSS_TURBOCHICKEN_EFFECT >
+name=ターボにわとり
+descr=移動ダイス+1。バトルを挑んでも止まらない。\n1ストックにつきATK+1。\nバトルを挑んだ時スター25個を得る。
+
+< CARD_BOSS_SWARM_EFFECT >
+name=大群
+descr=次のバトル時、ボスの全手下はATK+2。先行の場合、相手は反撃できない。（1バトルごとに1度だけ）
+
+< CARD_SKILL_COOP_FURY_EFFECT >
+name=憤怒
+descr=1ストックにつき与バトルダメージ+1。
+
+< CARD_COOP_HYPER_ATTACKER_EFFECT >
+name=炎天下の最終兵器
+descr=与バトルダメージ+3。
+
+< CARD_COOP_PROTECT_EFFECT >
+name=プロテクト
+descr=1ストックにつき次の被ダメージ-1。ダメージを防ぐと効果を失う。
+
+< CARD_SKILL_COOP_GUARDIANSPIRIT_EFFECT >
+name=守護神
+descr=1ストックにつき次の被バトルダメージ-1。
+
+< CARD_COOP_HYPER_GUARDIAN_EFFECT >
+name=白い砂浜の再生者
+descr=次の被バトルダメージ-2。
+
+< CARD_SKILL_COOP_FROMBEYOND_EFFECT >
+name=あの世から
+descr=バトルダウン時、1ストックにつき1HPを回復して復活する。
+
+< CARD_COOP_HYPER_AVENGER_EFFECT >
+name=執念深き復讐者
+descr=バトルダウン時、1ストックにつき1HPを回復して復活する。
+
+< CARD_COOP_RANSOMNOTE_EFFECT >
+name=身代金要求書
+descr=ターン終了時にダウンする。
+
+< CARD_COOP_DEMAND_EFFECT >
+name=需要
+descr=次に止まるマスをドローマスとして扱う。
+
+< CARD_COOP_HYPER_DEALER_EFFECT >
+name=サマーゲーム
+descr=次に止まるマスを2倍ドローマスとして扱う。
+
+< CARD_COOP_INTELLECTUALBLUFF_EFFECT >
+name=賢そうなハッタリ
+descr=そのタイプのカードが使われた時、プレイヤーは1枚カードを引く。
+
+[EOF]

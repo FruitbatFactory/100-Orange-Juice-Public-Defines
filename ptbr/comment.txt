@@ -1,0 +1,276 @@
+
+< COM_CONFIG_SYSTEM >
+Configurações do sistema.
+
+< COM_CONFIG_SCREEN >
+Configurações de tela.
+
+< COM_CONFIG_AUDIO >
+Configurações de áudio.
+
+< COM_CONFIG_VOICE >
+Configurações de voz.
+
+< COM_CONFIG_MODS >
+Mods instalados no momento.
+
+< COM_NEWGAME_SELECTSLOT >
+Selecione um espaço para salvar.
+
+< COM_NEWGAME_SLOTCONFIRM >
+Você tem certeza que deseja usar este espaço?
+
+< COM_NEWGAME_ENTERNAME >
+Digite seu nome de jogador.
+
+< COM_NEWGAME_SELECTCHARACTER >
+Selecione uma personagem.
+
+< COM_NEWGAME_CHARACTERCONFIRM >
+Você tem certeza que deseja usar esta personagem?
+
+< COM_LOADGAME_SELECTSLOT >
+Selecione um espaço salvo para carregar.
+
+< COM_LOADGAME_LOADCONFIRM >
+Você tem certeza que deseja carregar este espaço salvo?
+
+< COM_SHOP_SELECTITEM >
+Selecione um item para comprar.
+
+< COM_SHOP_BUYCONFIRM >
+Você tem certeza que deseja comprar este item?
+
+< COM_SHOP_BUYEVENTCONFIRM >
+Destravar progresso no evento por %s?
+
+< COM_SHOP_ITEMSOLDOUT >
+Este item está fora de estoque.
+
+< COM_SHOP_ITEMNOTINSTOCK >
+Este item ainda está para ser estocado.
+
+< COM_SHOP_NOTENOUGHCURRENCY >
+Você não possui o suficiente para este item.
+
+< COM_SHOP_REACHEDCURRENCYCAP >
+Você não será capaz de ter mais dessa moeda.
+
+< COM_SHOP_CHARACTERITEM >
+Este item pertence a uma personagem que você não possui.
+
+< COM_SHOP_NOSTEAMCONNECTION >
+Este item requer uma conexão com o Steam.
+
+< COM_SHOP_NOSTEAMCONNECTIONDLC >
+Não podemos confirmar a propriedade do DLC sem uma conexão com o Steam.
+
+< COM_SHOP_ALREADYOWNDLC >
+Você já possui este DLC.
+
+< COM_SHOP_BONUSITEM >
+Este item é oferecido para todos os donos de %s no Steam.
+
+< COM_SHOP_LEVELTOOLOW >
+Seu nível não é alto o bastante para comprar esse item.
+
+< COM_SHOP_BOUGHTCARDPACK >
+Você comprou um pacote de cartas!
+
+< COM_SHOP_CONVERTCURRENCY >
+Moeda convertida!
+
+< COM_SHOP_BOUGHTCARD >
+Você comprou uma única carta!
+
+< COM_SHOP_BOUGHTDISCOUNT >
+Você comprou um cupom de desconto para a loja!
+
+< COM_SHOP_BOUGHTCHARACTER >
+Você comprou uma nova personagem jogável!
+
+< COM_SHOP_BOUGHTFIELD >
+Você comprou um novo campo!
+
+< COM_SHOP_BOUGHTCOLORS >
+Você comprou novas cores de unidades!
+
+< COM_SHOP_BOUGHTHAIR >
+Você comprou um novo cabelo de unidade!
+
+< COM_SHOP_BOUGHTACCESSORY >
+Você comprou um novo acessório!
+
+< COM_SHOP_BOUGHTDICE >
+Você comprou um novo dado!
+
+< COM_SHOP_BOUGHTCANDY1 >
+Você comprou um doce!
+
+< COM_SHOP_BOUGHTCANDY10 >
+Você comprou 10 doces!
+
+< COM_SHOP_BOUGHTCRATE >
+Você comprou uma caixa!
+
+< COM_SHOP_BOUGHTHOMEMARK >
+Você comprou um novo marcador de casa!
+
+< COM_SHOP_BOUGHTGENERICITEM >
+Você comprou um novo item!
+
+< COM_SHOP_BOUGHTEMOTE >
+Você comprou um novo emote!
+
+< COM_SHOP_BOUGHTCOSTUME >
+Você comprou uma nova roupa!
+
+< COM_SHOP_BOUGHTPET >
+Você comprou um novo mascote!
+
+< COM_USERINFO_PLAYERINFO >
+Visualize as informações do jogador.
+
+< COM_USERINFO_GAMEINFO >
+Visualize as informações do jogo.
+
+< COM_USERINFO_BROWSECARDS >
+Folheie suas cartas.
+
+< COM_USERINFO_CARDSINFO >
+Verifique as informações da sua coleção de cartas.
+
+< COM_USERINFO_AVATAR >
+Mude a aparência de seu avatar.
+
+< COM_USERINFO_TAUNTS >
+Personalize provocações por unidade para uso dentro do jogo.
+
+< COM_USERINFO_GALLERY >
+Aproveite diversas imagens, cinemáticas, músicas e vozes.
+
+< COM_USERINFO_STATS >
+Veja suas estatísticas de cada personagem nas partidas online.
+
+< COM_CAMPAIGN_SELECTSCENARIO >
+Escolha um cenário.
+
+< COM_CAMPAIGN_SELECTSTAGE >
+Escolha uma fase.
+
+< COM_CAMPAIGN_BREAKERPACKONLY >
+Esta campanha só pode ser jogada pelos donos do DLC Breaker Pack.
+
+< COM_CAMPAIGN_WITCHPACKONLY >
+Esta campanha só pode ser jogada pelos donos do DLC Witch Pack.
+
+< COM_CAMPAIGN_TOYSTOREPACKONLY >
+Esta campanha só pode ser jogada pelos donos do DLC Toy Store Pack.
+
+< COM_CAMPAIGN_OLDGUARDIANPACKONLY >
+Esta campanha só pode ser jogada pelos donos do DLC Old Guardian Pack.
+
+< COM_CAMPAIGN_WANDERERPACKONLY >
+Esta campanha só pode ser jogada pelos donos do DLC Wanderer Pack.
+
+< COM_CAMPAIGN_WARUDAPRISONBREAKPACKONLY >
+Esta campanha só pode ser jogada pelos donos do DLC Waruda Prison Break Pack.
+
+< COM_FREEBATTLE_CHOOSEGAMETYPE >
+Escolha um modo de jogo.
+
+< COM_FIELDSELECT >
+Escolha um campo de jogo.
+
+< COM_RANDOMFIELD_MINIMUMREQUIRED >
+Você precisa definir pelo menos 3 níveis aleatórios entre os disponíveis.
+
+< COM_RANDOMFIELDEVENT_MINIMUMREQUIRED >
+Você precisa definir pelo menos 3 campos aleatórios entre os disponíveis.
+
+< COM_DECK_PREPARE >
+Escolha uma personagem / crie um baralho.
+
+< COM_DECK_NOTPREPARED >
+Ainda não está preparado.
+
+< COM_DECK_CARDLIMITREACHED >
+Não é possível usar mais cartas desse tipo.
+
+< COM_DECK_DLCONLYCARD >
+Esta carta só pode ser usada pelos donos do DLC.
+
+< COM_DECK_WAITING >
+Esperando os outros jogadores ficarem preparados...
+
+< COM_DECK_READY >
+Preparado para jogar o jogo!
+
+< COM_GAME_PAUSED >
+Pausado.
+
+< COM_GAME_QUITCONFIRM >
+Você tem certeza que deseja sair do jogo?
+
+< COM_RESULT_STARSGAINED >
+As estrelas que você ganhou deste jogo.
+
+< COM_CREATELOBBY_SETOPTIONS >
+Configure as opções da sala.
+
+< COM_CREATELOBBY_CREATING >
+Criando sala de Steam...
+
+< COM_CREATELOBBY_FAILED >
+Não foi possível criar uma sala de Steam.
+
+< COM_CREATELOBBY_NAMEEMPTY >
+O campo de nome da sala não pode estar vazio.
+
+< COM_LOBBYLIST_SELECTLOBBY >
+Escolha uma sala. Amigos de Steam aparecem como estrelas verdes.
+
+< COM_LOBBYLIST_JOINLOBBY >
+Junte-se à sala selecionada ou entre em contato com o dono da sala.
+
+< COM_LOBBYLIST_PASSWORDEMPTY >
+O campo de senha não pode estar vazio.
+
+< COM_LOBBYLIST_SEARCHEMPTY >
+O campo de busca não pode estar vazio.
+
+< COM_LOBBYLIST_CONNECTFAILED >
+Não foi possível conectar à sala.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOSELECT >
+Não é possível selecionar a sala - os dados da sala não foram recebidos.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOCONTACT >
+Não é possível contactar o dono da sala - os dados da sala não foram recebidos.
+
+< COM_LOBBYLIST_DATANOTRETRIEVED_NOJOIN >
+Não é possível entrar na sala - os dados da sala não foram recebidos.
+
+< COM_LOBBY_WAITINGFORPARTICIPANTS >
+Esperando pelos outros participantes...
+
+< COM_LOBBY_WAITINGFORPLAYERS >
+Esperando pelos outros jogadores...
+
+< COM_LOBBY_PLAYERSNOTREADY >
+Não é possível começar o jogo até todo mundo estar pronto.
+
+< COM_LOBBY_KICKREADYPLAYER >
+Não é possível expulsar um jogador que já está pronto.
+
+< COM_LOBBY_KICKNOTREADY >
+Ainda não é possível expulsar este jogador.
+
+< COM_LOBBY_MIDGAME_JOINED >
+Se juntou ao jogo! Você pode entrar no mesmo no início do próximo capítulo.
+
+< COM_LOBBY_SPECTATOR_WAITINGDECKS >
+Começou o jogo! Esperando os jogadores terminarem de arrumar seus baralhos...
+
+[EOF]
+

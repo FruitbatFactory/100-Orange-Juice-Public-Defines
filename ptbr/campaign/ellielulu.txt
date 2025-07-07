@@ -1,0 +1,616 @@
+
+// ========= Scene: Stage 1 =========
+
+// (lulu)
+<0000> Hmm... Está frio aqui...
+
+// (lulu)
+<0001> Está escuro em todo canto, e Lulu não sabe nem de qual caminho ela veio.
+
+// (lulu)
+<0002> De onde ela veio?
+
+// (lulu)
+<0003> E para onde ela deve ir?
+
+// (lulu)
+<0004> Ela...
+
+// (lulu)
+<0005> Não sabe nem o que ela é...
+
+// (lulu)
+<0006> ......
+
+// (unknown)
+<0007> Olá?
+
+// (lulu)
+<0008> ...?
+
+// (unknown)
+<0009> Oláááá?
+
+// (lulu)
+<0010> Hmm... O quê...?
+
+// (ellie)
+<0011> Não é seguro dormir aqui.
+
+// (lulu)
+<0012> Ãhn...? Onde está a Lulu...?
+
+// (ellie)
+<0013> Nossa, você está bem?
+
+// (lulu)
+<0014> Quem é você...?
+
+// (ellie)
+<0015> Sou a Ellie!
+
+// (lulu)
+<0016> Ellie?
+
+// (ellie)
+<0017> Qual o seu nome? Por que você estava dormindo em um local assim?
+
+// (lulu)
+<0018> É Lulu...
+
+// (lulu)
+<0019> E ela está aqui porque...
+
+// (lulu)
+<0020> Uh, espera...
+
+// (ellie)
+<0021> Qual o problema?
+
+// (lulu)
+<0022> B-bem... Uh, hmm.
+
+// (lulu)
+<0023> N-não é possível.
+
+// (lulu)
+<0024> Lulu não se lembra de nada!
+
+// (ellie)
+<0025> O quê!?
+
+// (lulu)
+<0026> De onde Lulu veio? Por que ela estava dormindo aqui? O que ela estava fazendo antes disso...?
+
+// (lulu)
+<0027> Ela não se lembra de nada..!
+
+// (ellie)
+<0028> Então, você perdeu suas memórias?
+
+// (lulu)
+<0029> Parece... ser o caso... *soluça*
+
+// (ellie)
+<0030> Entendi...
+
+// (lulu)
+<0031> *Soluça soluça*
+
+// (ellie)
+<0032> Hmm... Ah, eu sei o que devo fazer.
+
+// (ellie)
+<0033> Lulu, se agache.
+
+// (lulu)
+<0034> Huh...?
+
+// (ellie)
+<0035> E vire pra mim.
+
+// (lulu)
+<0036> Whoa!
+
+// (ellie)
+<0037> Está tudo pronto! *acaricia*
+
+// (lulu)
+<0038> Whoa, e-ei, o-o que você está fazendo?
+
+// (ellie)
+<0039> É que dizem que perda de memória pode acontecer após tomar uma pancada na cabeça.
+
+// (ellie)
+<0040> Então eu estou checando para ver se você tem algum machucado na cabeça.
+
+// (lulu)
+<0041> Bem, um...
+
+// (ellie)
+<0042> Hmm, não vejo nada de errado aí.
+
+// (lulu)
+<0043> E-ei...
+
+// (ellie)
+<0044> Seu pelo é bem relaxante de passar a mão e fazer carinho♥
+
+// (lulu)
+<0045> Se você fizer carinho em Lulu desse jeito... ela vai...
+
+// (ellie)
+<0046> Hmm hmm...
+
+// (lulu)
+<0047> Awww...
+
+// (ellie)
+<0048> Certo, está tudo bem!
+
+// (lulu)
+<0049> Haaah...
+
+// (ellie)
+<0050> Algo de errado?
+
+// (lulu)
+<0051> Você acariciou tanto a Lulu, que seu coração está batendo forte.
+
+// (ellie)
+<0052> Ahaaa♥ Você é a fofura mais fofa!
+
+// (ellie)
+<0053> Enfiiim, existem monstros perigosos por aqui.
+
+// (ellie)
+<0054> Então, por que a gente não sai daqui juntas?
+
+// (lulu)
+<0055> Um... Lulu só iria te atrapalhar, entretanto.
+
+// (ellie)
+<0056> Sem problemas! Sou super forte.
+
+// (ellie)
+<0057> E para ser honesta com você, eu não me importo com os monstros, mas eu não gosto... o quão tenebrosa essa floresta é...
+
+// (ellie)
+<0058> Eu imagino que me sentirei mais segura com alguém comigo...
+
+// (lulu)
+<0059> ...*risada*
+
+// (ellie)
+<0060> N-não ria!
+
+// (lulu)
+<0061> Você também é fofa, Ellie.
+
+// (ellie)
+<0062> Gee!
+
+// (lulu)
+<0063> Bom, se este é o caso, Lulu irá te acompanhar!
+
+// (lulu)
+<0064> Ela não sabe para onde ir, de qualquer forma!
+
+// (lulu)
+<0065> Ela tem certeza que ir com você será divertido.
+
+// (ellie)
+<0066> Ahaaa♥ Está combinado, então! Vamos conversando mais enquanto a gente anda!
+
+// (lulu)
+<0067> Claro!
+
+// ========= Scene: Stage 2 =========
+
+// (ellie)
+<0068> Eeey!
+
+// (monster)
+<0069> Ghaaah!
+
+// (lulu)
+<0070> Hawah, isso foi super! Você realmente é forte, Ellie!
+
+// (ellie)
+<0071> Ahaaa♥ Eu sei, né? Eu sei, né?
+
+// (ellie)
+<0072> Eu não estou viajando sozinha sem motivo!
+
+// (lulu)
+<0073> Muito bacana...
+
+// (lulu)
+<0074> Ei, Lulu tem uma pergunta para você. Por que você está viajando?
+
+// (ellie)
+<0075> Ahaaa♥ Você quer saber?
+
+// (lulu)
+<0076> Sim, e muito!
+
+// (ellie)
+<0077> Ahem. Vou te dizer o porque, então!
+
+// (ellie)
+<0078> Bom, eu estou a procura de alguém.
+
+// (ellie)
+<0079> Minha mamãe.
+
+// (lulu)
+<0080> Sua mamãe?
+
+// (ellie)
+<0081> Sim.
+
+// (ellie)
+<0082> Ela não está perto de mim desde de quando me lembro.
+
+// (lulu)
+<0083> Oh.
+
+// (ellie)
+<0084> Mas ela está em algum lugar nesse mundo, consigo sentir isso.
+
+// (ellie)
+<0085> E isso me faz ter mesmo muita, muita vontade de encontrá-la.
+
+// (ellie)
+<0086> E aqui estou em minha jornada para encontrá-la!
+
+// (lulu)
+<0087> Howah, você é uma garota de atitude.
+
+// (ellie)
+<0088> Ahaaa♥ Eu amo ser elogiada. Me elogie mais. Mais.
+
+// (lulu)
+<0089> Você é uma garota incrível, Ellie!
+
+// (ellie)
+<0090> Ahaaa! Isso me faz sentir muito bem♥ Você sabe elogiar muito bem, Lulu!
+
+// (lulu)
+<0091> Ela não sabe não. Você é apenas ingênua.
+
+// ========= Scene: Stage 3 =========
+
+// (lulu)
+<0092> Quer saber?
+
+// (lulu)
+<0093> Nós estamos vendo as mesmas coisas, não importa o quanto a gente ande.
+
+// (ellie)
+<0094> Eu aposto que isso vai durar por um tempo pois eu ouvi falar que a floresta é um tanto grande.
+
+// (lulu)
+<0095> Fue, se a Ellie não tivesse encontrado a Lulu lá atrás...
+
+// (lulu)
+<0096> Só de imaginar faz a Lulu tremer.
+
+// (ellie)
+<0097> Gee, você se assusta fácil.
+
+// (lulu)
+<0098> Sim...
+
+// (ellie)
+<0099> Aha♥ Se você é tão assustada... devíamos caminhar desse jeito!
+
+// (lulu)
+<0100> Fuah!
+
+// (ellie)
+<0101> Wow, sua mão é tão fofuda! Já estou ficando viciada.
+
+// (lulu)
+<0102> Sua mão é macia, também. Se é desse jeito, a Lulu não está assustada mais!
+
+// (ellie)
+<0103> Ahaaa♥ Que bom ouvir isso. Mas não temos muito tempo, então vamos acelerar.
+
+// (lulu)
+<0104> Okay... Huh?
+
+// (lulu)
+<0105> (Lulu acabou de sentir algo se mover em sua barriga...)
+
+// (ellie)
+<0106> Está tudo bem?
+
+// (lulu)
+<0107> Aham, está tudo tranquilo. Lulu vai tentar andar mais rápido, também!
+
+// ========= Scene: Stage 4 =========
+
+// (ellie)
+<0108> Vamos ficar de olho nesses galhos afiados enquanto a gente anda.
+
+// (lulu)
+<0109> Aham, obrigado pelo aviso...
+
+// (lulu)
+<0110> (A barriga de Lulu ainda está estranha.)
+
+// (lulu)
+<0111> (Parece que fica mais quente toda vez que Ellie ajuda Lulu.)
+
+// (ellie)
+<0112> Você está bem, Lulu? Ficando cansada?
+
+// (lulu)
+<0113> Não, Lulu está bem. Ela poderia andar para sempre contigo, Ellie!
+
+// (ellie)
+<0114> Lulu... Você é super fofa!
+
+// (lulu)
+<0115> Whoa, Ellie. Não abrace a Lulu desse jeito, ou ela irá...
+
+// (ellie)
+<0116> Você irá o que?
+
+// (lulu)
+<0117> Ela irá... Ãhn? O que ela ia dizer?
+
+// (ellie)
+<0118> Aha, você está ficando tonta ou o quê?
+
+// (lulu)
+<0119> Fufufu, desculpa por isso.
+
+// (ellie)
+<0120> A propósito, você realmente não se lembra de nada além de seu nome?
+
+// (lulu)
+<0121> Hmm... Lulu está tentando se lembrar, mas nada surge.
+
+// (ellie)
+<0122> Você não se lembra nem onde é sua casa, ou para onde você quer ir?
+
+// (lulu)
+<0123> Não, nada.
+
+// (ellie)
+<0124> Entendi... Ei, Lulu, que tal a gente...
+
+// (ellie)
+<0125> ...!
+
+// (lulu)
+<0126> Ãhn? Ellie, o que foi?
+
+// (ellie)
+<0127> Está aqui.
+
+// (lulu)
+<0128> O-o que está aqui?
+
+// (ellie)
+<0129> Aquela coisa. Nós estamos muito próximas daquela coisa!
+
+// ========= Scene: Stage 5 =========
+
+// (lulu)
+<0130> Uou, você fez aquele monstro ir embora em um instante! Isso foi incrível!
+
+// (ellie)
+<0131> ...*Cheira cheira* Não, ainda está por aqui...
+
+// (ellie)
+<0132> Eu consigo cheirar aquela coisa.
+
+// (lulu)
+<0133> Ellie?
+
+// (ellie)
+<0134> *Cheira cheira cheira*
+
+// (ellie)
+<0135> Ali!
+
+// (unknown)
+<0136> Popoo!!!
+
+// (lulu)
+<0137> Eita, o que é isso!
+
+// (ellie)
+<0138> Te achei, rato estúpido!
+
+// (poppo)
+<0139> Poppou!
+
+// (lulu)
+<0140> Ellie, por que você está tão irritada? O que há entre você e aquele rato?
+
+// (ellie)
+<0141> Eu não sei! Mas olhar para ele faz minha mente doer.
+
+// (ellie)
+<0142> Aposto que algo aconteceu entre nós em vidas passadas...
+
+// (lulu)
+<0143> Hoeeh, então é o tão chamado arqui-inimigo de longa data?
+
+// (poppo)
+<0144> Poppoppou!
+
+// (ellie)
+<0145> Você nunca aprende a falar algo além de 'poppo poppo'! Prepare-se para morrer!
+
+// (poppo)
+<0146> Popoou!
+
+// ========= Scene: Ending =========
+
+// (poppo)
+<0147> Popo...
+
+// (ellie)
+<0148> Tem apenas um penhasco naquela direção, rato! Te encurralamos agora.
+
+// (poppo)
+<0149> Po... Po...
+
+// (poppo)
+<0150> Pokyuu!!!
+
+// (lulu)
+<0151> Fuee!?
+
+// (ellie)
+<0152> Não, Lulu, cuidado!
+
+// (lulu)
+<0153> Ugh, whoa!
+
+// (lulu)
+<0154> Lulu e-está caindo!
+
+// (ellie)
+<0155> Lulu!
+
+// (lulu)
+<0156> E-Ellie...
+
+// (ellie)
+<0157> Ufa, te peguei... D-desculpa ter deixado isso acontecer, Lulu. Eu estava muito focada no rato.
+
+// (lulu)
+<0158> Não se importe com isso... O-o que é mais importante é...
+
+// (lulu)
+<0159> Apenas solte a Lulu, Ellie, ou ambas cairemos.
+
+// (ellie)
+<0160> Nunca! Eu vou te ajudar, não importa o que aconteça, então você tem que se segurar também...
+
+// (lulu)
+<0161> Lulu é durona então ela vai ficar bem. Então por favor apenas...
+
+// (lulu)
+<0162> Solte a Lulu, Ellie.
+
+// (ellie)
+<0163> Não! Nunca!
+
+// (lulu)
+<0164> Ellie... Ugh.
+
+// (lulu)
+<0165> (A barriga de Lulu parece estar queimando por dentro. Isso significa que...)
+
+// (ellie)
+<0166> Lu-Lulu?
+
+// (lulu)
+<0167> Ellie, d-desculpa, Lulu está prestes a...
+
+// (ellie)
+<0168> O que foi, Lulu!
+
+// (lulu)
+<0169> Lulu's... ela... Ugh... Argh...
+
+// (lulu)
+<0170> Ela esta botando um oooooovo!
+
+// (lulu)
+<0171> É o ovo da sorte de Lulu!
+
+// (ellie)
+<0172> O que, o que, o quêêêê!? U-um ovo? Você apenas botou? Não entendo...
+
+// (lulu)
+<0173> Ellie, nós duas vamos conseguir! Ovo da sorte, salve-nos!
+
+// (ellie)
+<0174> Eita, o ovo quebrou e... Isso são asas?
+
+// (lulu)
+<0175> Ellie, use as asas.
+
+// (ellie)
+<0176> O-ok, desse jeito?
+
+// (ellie)
+<0177> Ah, ah, ahaaa!
+
+// (ellie)
+<0178> Ohmeudeus, Lulu. Olhe para mim, eu estou voando!
+
+// (lulu)
+<0179> Ufa, graças a deus...
+
+// (ellie)
+<0180> *ofega ofega* M-muita coisa aconteceu, eu estou tonta.
+
+// (ellie)
+<0181> Lulu, você pode explicar essas asas que sairam do ovo? Você botou, não foi?
+
+// (lulu)
+<0182> Lu-Lulu não tem certeza. Mas, toda vez que você foi gentil para Lulu, sua barriga esquentou.
+
+// (lulu)
+<0183> E então ela botou um ovo quando você tentou salvá-la...
+
+// (ellie)
+<0184> ...Ok. Então a gente não sabe o que é.
+
+// (ellie)
+<0185> Mas eu acho que podemos chamar essas asas de uma criança que surgiu de nós!
+
+// (lulu)
+<0186> E-ela é?
+
+// (ellie)
+<0187> Hmm, isso é importante, Lulu. Agora que temos uma filha...
+
+// (ellie)
+<0188> Nós duas temos que ter responsabilidade e ficar com ela.
+
+// (lulu)
+<0189> O-o quê?
+
+// (ellie)
+<0190> Então, Lulu...
+
+// (ellie)
+<0191> Une-se a mim na minha jornada.
+
+// (lulu)
+<0192> O-o-o quê!?
+
+// (ellie)
+<0193> A-apenas se você quiser, entretanto.
+
+// (lulu)
+<0194> M-mas é claro! Lulu ficaria feliz!
+
+// (lulu)
+<0195> Lulu quer ficar com você, também!
+
+// (ellie)
+<0196> Ahaaa♥ Certo!
+
+// (lulu)
+<0197> Ahaaa. Hehe.
+
+// (lulu)
+<0198> Bem... Ellie.
+
+// (lulu)
+<0199> Obrigada por deixar Lulu ser sua companheira de viagem.
+
+// (ellie)
+<0200> Obrigada por aceitar, Lulu!
+

@@ -1,0 +1,167 @@
+
+<0000> Aquí voy.
+<0001> ¡Lanzando!
+<0002> ¡Va!
+<0003> Listo.
+<0004> ¡Voy a usar esta carta!
+<0005> Voy a usar una carta.
+<0006> Jejeje.
+<0007> Me pregunto cómo saldrá esto...
+<0008> Es una trampa.
+<0009> Colocando mi trampa.
+<0010> ¿Quién podrá caer en esto?
+<0011> Kejeje.
+<0012> Voy a ganer esto.
+<0013> Mostraré todo lo que tengo.
+<0014> ¡Toma esto!
+<0015> ¡Carta de batalla!
+<0016> ¡Es la hora del juego!
+<0017> ¡Bien!
+<0018> ¡Reviví!
+<0019> ¡Ahora es mi turno!
+<0020> ¡Lo tengo!
+<0021> Que estúpido.
+<0022> Estás bromeando...
+<0023> ¡Maldición!
+<0024> ¿Todavía no puedo hacerlo...?
+<0025> ¡Toma eso!
+<0026> ¡Hyaa!
+<0027> ¡Ahí!
+<0028> ¡Cómete esto!
+<0029> Ugh.
+<0030> Eso duele.
+<0031> Mierda...
+<0032> Owwwww...
+<0033> ¡Estoy curada!
+<0034> Me siento mejor.
+<0035> Puedo seguir continuando.
+<0036> Jah... bendecida...
+<0037> ¡¿Estoy volando?!
+<0038> ¿A dónde voy?
+<0039> ¡Me hicieeroon voolaaaar!
+<0040> ¡Wow!
+<0041> Aah...
+<0042> No puede ser...
+<0043> Estás... bromeando...
+<0044> ¿Qué rayos...?
+<0045> ¡Es hora del acoso!
+<0046> Vamos.
+<0047> ¡Prepárate!
+<0048> Está bien, hagámoslo.
+<0049> Adelante.
+<0050> ¿Me estás desafiando? Valiente, sin dudas.
+<0051> Vengan a mí desde cualquier dirección.
+<0052> ¿Crees que puedes derrotarme?
+<0053> Que lento.
+<0054> Esto va a doler un poco.
+<0055> ¡Ataque!
+<0056> ¡Aquí voy!
+<0057> Oww.
+<0058> ¡Ooooh!
+<0059> No está mal...
+<0060> Tch.
+<0061> ¡Owww!
+<0062> ¡Dame un respiro!
+<0063> ¡Gaaaah!
+<0064> Geh.
+<0065> ¿Pensaste que me iba a doler?
+<0066> No puedes darme.
+<0067> Soy demasiado rápida.
+<0068> Tus movimientos son tan predecibles...
+<0069> Gané.
+<0070> Bueno, el resultado siempre fue muy obvio.
+<0071> ¿Ahora entiendes por qué soy tan aterradora?
+<0072> Jejeje, esto debe ser frustrante.
+<0073> Ah, vas a pagar por esto...
+<0074> Ngh...
+<0075> In... aceptable...
+<0076> ¡¡Que frustranteeeee!!
+<0077> Ka-ching, ka-ching.
+<0078> ¡Las estrellas son mías!
+<0079> Estoy llena de estrellas.
+<0080> ¡Que suerte!
+<0081> ¡Waaaah!
+<0082> ¡M-mis estrellas...!
+<0083> ¡No! ¡Mis estrellas!
+<0084> ¡Esto no es bueno...!
+<0085> ¡Una trampa...!
+<0086> ¡¿En serio?!
+<0087> ¡¿Una trampa en un lugar como este?!
+<0088> ¡¿Caí en la trampa...?!
+<0089> Hmm, esto se ve peligroso.
+<0090> ¿Qué es esto? Se ve peligroso.
+<0091> Este es uno grande...
+<0092> Esto se volvió interesante.
+<0093> Voy a juntar estrellas.
+<0094> Tiene que ser estrellas.
+<0095> A juntar estrellas y a ganar.
+<0096> ¿Estrellas? Suena bien.
+<0097> A seguir ganando.
+<0098> ¡Waruda, a la batalla!
+<0099> Voy a mostrarle mi poder a todo el mundo.
+<0100> ¡Voy a derrotarlos a todos!
+<0101> ¿Eh, yo?
+<0102> Hola.
+<0103> A darlo todo.
+<0104> ¿Es mi turno?
+<0105> Estamos empezando.
+<0106> Muy bien, aquí voy.
+<0107> Un nuevo juego está por comenzar.
+<0108> Vamos a ganar.
+<0109> El resultado era de esperarse.
+<0110> Así tenía que ser.
+<0111> ¡Genial, una victoria completa!
+<0112> Eso fue divertido.
+<0113> ¿Algo nuevo?
+<0114> Oh, esto es...
+<0115> Se ve bien.
+<0116> Ahora mi poder se ha incrementado.
+<0117> Tú puedes hacerlo.
+<0118> Cámbia conmigo.
+<0119> Tú lo tomarás desde aquí..
+<0120> Muy bien, vamos a cambiar.
+<0121> Okay.
+<0122> Bien.
+<0123> ¡Sí!
+<0124> Esto no es bueno...
+<0125> ¿En serio?
+<0126> ¡Sueertee!
+<0127> ¿Hm?
+<0128> ¡Muy bien, vamos!
+<0129> Aquí va todo.
+<0130> ¡Aquí voy yo!
+<0131> Que onda.
+<0132> Bueno...
+<0133> ¡Eso es!
+<0134> Increíble.
+<0135> ¿Pero qué demonios...?
+<0136> Tu poder me pertenece.
+<0137> Voy a tomar esto prestado.
+<0138> Déjame usar eso.
+<0139> ¡Así que así es como se siente!
+<0140> Muchas gracias.
+<0141> Aquí voy, QP.
+<0142> ¡Adelante, QP!
+<0143> Fuiste una idiota al pensar que ibas a derrotarme.
+<0144> No puede ser, perdí contra QP...
+<0145> Voy a probar tu poder.
+<0146> Muéstrame el resultado de tus poderes.
+<0147> Buen intento, pero te falta entrenamiento.
+<0148> Te has vuelto muy fuerte... bien hecho.
+<0149> La más peligrosa en todos los Waruda... ¡Vamos!
+<0150> ¡Wow, Kiriko, apareciste de la nada!
+<0151> Uff... estás completamente loca.
+<0152> Tenerte de enemiga es aterrador...
+<0153> No hay forma de que pueda perder contra ti...
+<0154> ¡Tch, así que tú eres mi oponente!
+<0155> Gane... de alguna forma.
+<0156> Perdí de todas formas...
+<0157> ¿Pudín? Jo~jojo...
+<0158> ¡El pudín con salsa de soja sabe a erizo de mar!
+<0159> Tiene un atuendo muy bonito, señorita.
+<0160> ¿Y esta chica...? Se ve ansiosa...
+<0161> Derrótame, y te compraré un poco de comida.
+<0162> ¡Krila! ¡Está bien, ven aquí!
+<0163> Tu fuerza continúa siendo inferior a la mía.
+<0164> Vaya, eres mucho mejor de lo que imaginaba.
+<0165> ¡Un juego solo con Warudas, hagámoslo!

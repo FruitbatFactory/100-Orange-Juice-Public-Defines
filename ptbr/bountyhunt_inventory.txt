@@ -1,0 +1,116 @@
+< INVENTORY_MEDICINALHERB >
+name=Erva Medicinal
+descr=Uma erva com propriedades de cura. A Hoteleira precisa para fazer pratos.
+
+< INVENTORY_TURNISLIME >
+name=Turni-slime
+descr=Fazia parte do corpo de um Turnislime. A Hoteleira precisa para fazer elixirs.
+
+< INVENTORY_CHILLINGWIND >
+name=Sacola de Vento Gélido
+descr=Uma sacola cheia de uma brisa extremamente gelada. Segurá-la sem cuidado pode congelar suas mãos instantaneamente. Sky Baker precisa para fazer sorvete.
+
+< INVENTORY_FLOUR >
+name=Farinha Sem Fim
+descr=Uma sacola de farinha que parece nunca acabar. O que é que tem dentro? Star Baker precisa para fazer doces.
+
+< INVENTORY_BROKENBLADE >
+name=Lâmina Quebrada
+descr=Uma arma usada deixada para trás por um derrotado. A Ferreira precisa para fazer ferramentas de corte.
+
+< INVENTORY_TROLLITEHORN >
+name=Chifre de Trollite
+descr=Um chifre antigo que fazia parte de um Trollite. Se existe um desses, também existe problema por perto. A Ferreira precisa para fazer ferramentas de cozinha.
+
+< INVENTORY_MISTYSAP >
+name=Seiva Enevoada
+descr=Seiva de uma árvore. Possui um sabor doce. A Hoteleira precisa para fazer sobremesas.
+
+< INVENTORY_CACTUS >
+name=Cacto
+descr=Um cacto do deserto que contém um pouco de água dentro. A Ferreira deseja beber dele.
+
+< INVENTORY_GOST >
+name=Espírito Göst
+descr=Um Göst que foi derrotado e é brincalhão. A Alquimista deseja fazer algo comestível com isto.
+
+< INVENTORY_WOLLY >
+name=Leite de Wolly
+descr=Leite fresco de uma Wolly. Sky Baker precisa para poder fazer pão.
+
+< INVENTORY_BUCKET >
+name=Balde Vazio
+descr=Um balde vazio que pode ser usado para carregar diversas coisas.
+
+< INVENTORY_HEATGLOVES >
+name=Luvas Resistentes ao Calor
+descr=Luvas que podem te ajudar a aguentar até as temperaturas mais extremas.
+
+< INVENTORY_GLOBBU >
+name=Globbu
+descr=Um trapaceiro magmático que gosta de colocar fogo nas pessoas. A Alquimista precisa como fonte de calor.
+
+< INVENTORY_SANDALS >
+name=Sandalhas de Madeira
+descr=Um par comum de sandalhas que permitem você corre rápido sem machucar seu pé. Adiciona +1 MOV.
+
+< INVENTORY_LEATHERBOOTS >
+name=Botas de Couro
+descr=A mais recente criação de famosos marroquinários, que é uma melhoria direta das sandalhas e sapatos comuns. Adiciona +2 MOV.
+
+< INVENTORY_GALESHOES >
+name=Sapatos de Gala
+descr=Sustentados por uma magia forte, você nunca vai se sentir cansado enquanto usa esse par de sapatos. Adiciona +2 MOV, e +1 adicional se estiver com duas cartas ou menos na mão.
+
+< INVENTORY_CURSEDSHOES >
+name=Sapatos de Gala Aprimorados
+descr=Adiciona +4 MOV, mas reduz o tamanho da sua mão em 1.
+
+// Winter 2020 Event Special Item
+< INVENTORY_DELICACY >
+name=Delicácia
+descr=Um pedaço de comida saboroso para cozinhar. Colete até 3 por jogo.
+
+< INVENTORY_ATK1 >
+name=Bolacha
+descr=Use para ganhar +1 ATK nas próximas 2 batalhas. Não pode estocar o mesmo efeito duas vezes (o mais recente terá prioridade).
+
+< INVENTORY_ATK2 >
+name=Muffin
+descr=Use para ganhar +2 ATK nas próximas 2 batalhas. Não pode estocar o mesmo efeito duas vezes (o mais recente terá prioridade).
+
+< INVENTORY_ATK3 >
+name=Folhado
+descr=Use para ganhar +3 ATK nas próximas 2 batalhas. Não pode estocar o mesmo efeito duas vezes (o mais recente terá prioridade).
+
+< INVENTORY_DEF1 >
+name=Bala
+descr=Use para ganhar +1 DEF nas próximas 2 batalhas. Não pode estocar o mesmo efeito duas vezes (o mais recente terá prioridade).
+
+< INVENTORY_DEF2 >
+name=Caramelo
+descr=Use para ganhar +2 DEF nas próximas 2 batalhas. Não pode estocar o mesmo efeito duas vezes (o mais recente terá prioridade).
+
+< INVENTORY_DEF3 >
+name=Chocolate
+descr=Use para ganhar +3 DEF nas próximas 2 batalhas. Não pode estocar o mesmo efeito duas vezes (o mais recente terá prioridade).
+
+< INVENTORY_EVD1 >
+name=Picolé
+descr=Use para ganhar +1 EVD nas próximas 2 batalhas. Não pode estocar o mesmo efeito duas vezes (o mais recente terá prioridade).
+
+< INVENTORY_EVD2 >
+name=Sorvete no Copo
+descr=Use para ganhar +2 EVD nas próximas 2 batalhas. Não pode estocar o mesmo efeito duas vezes (o mais recente terá prioridade).
+
+< INVENTORY_EVD3 >
+name=Sorvete no Cone
+descr=Use para ganhar +3 EVD nas próximas 2 batalhas. Não pode estocar o mesmo efeito duas vezes (o mais recente terá prioridade).
+
+< INVENTORY_ASSASSINBADGE >
+name=Distintivo de Assassino
+descr=Um distintivo que significa associação a uma guilda de assassinos habilidosos. Seu titular é recompensado por mirar em outros jogadores.
+
+< INVENTORY_ELIXIR >
+name=Elixir
+descr=Use para se curar completamente. Também cura o usuário de efeitos de status causados por Invasores e remove maldições de contratos na mão.

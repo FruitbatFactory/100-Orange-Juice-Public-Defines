@@ -1,0 +1,139 @@
+<0000> ¡Oryah!
+<0001> ¡Deey!
+<0002> ¡Uooh!
+<0003> ¡Cómo ves eso!
+<0004> ¡Usaré una carta!
+<0005> ¡Les mostraré a todos un poco de poder mágico!
+<0006> ¡Muy bien!!
+<0007> ¡Carta, carta!
+<0008> ¡Trampa mágica!
+<0009> ¡La trampa ha sido colocada!
+<0010> Dejaré esto aquí.
+<0011> También puedo usar trampas.
+<0012> ¡Ataque mágico!
+<0013> ¡Prepárate!
+<0014> ¡Usaré todo lo que tengo!
+<0015> No esperes una batalla fácil.
+<0016> ¡¡¡Venganza Mágica!!!
+<0017> Me equivoqué.
+<0018> Eso no funcionó.
+<0019> Ugh... aún no puedo levantarme.
+<0020> Hijo de...
+<0021> ¡Mágico!
+<0022> ¡Sey!
+<0023> ¡Doh-sey!
+<0024> ¡Cómete eso!
+<0025> ¡Diosas, eso duele!
+<0026> ¡Ugayh!
+<0027> ¡Pero qué demonios...!
+<0028> ¡Guwah!
+<0029> Eso sí que ayuda.
+<0030> ¡Bien, puedo continuar!
+<0031> Me siento aliviada.
+<0032> Esto sí que es bueno.
+<0033> ¡Estoy saltando!
+<0034> Wow.
+<0035> ¿¡Qué está sucediendo!?
+<0036> Gyaaan.
+<0037> ¡Mi poder mágico se acabará!
+<0038> ¡Maldita sea!
+<0039> ¡El hechizo me dejará!
+<0040> Perderé... mis ánimos para seguir jugando...
+<0041> ¡Emboscada mágica!
+<0042> ¡Aquí voy!
+<0043> ¡Oryaah!
+<0044> ¡Será mejor que te prepares!
+<0045> ¿¡Owow!?
+<0046> ¿¡Un enemigo!?
+<0047> ¡¿Qué rayos te sucede?!
+<0048> ¡¿Acaso estás buscando una pelea?!
+<0049> ¡Mágic-- Aaaaah!
+<0050> ¡Ataque!
+<0051> ¡Toma eso!
+<0052> ¡Horyah!
+<0053> Oww.
+<0054> ¡Kya!
+<0055> Ugh.
+<0056> Wah.
+<0057> ¡Bujah!
+<0058> ¡Oh mis diosas!
+<0059> Eso realmente duele.
+<0060> ¡Mi sed por venganza crece...!
+<0061> ¡Eso estuvo cerca!
+<0062> ¡Oh cielos!
+<0063> No puedes darme.
+<0064> Este es mi poder mágico.
+<0065> Te mostraré lo fuerte que yo, Sweet Eater, puedo ser.
+<0066> ¡Síii! ¡Adiós!
+<0067> Esa fue una batalla dura.
+<0068> Gané.
+<0069> ¡Guwah!
+<0070> ¡¿Por quéeeee?!
+<0071> No puedo creer que haya perdido...
+<0072> ¡Ueeeeh!
+<0073> La fuente de mi poder mágico~
+<0074> ¡Esto es genial!
+<0075> ¡Estrellas!
+<0076> ¡Perfecto!
+<0077> ¡Gyaaan!
+<0078> ¡Pero qué rayos!
+<0079> ¡Oh no!
+<0080> ¡Noooo!
+<0081> ¡No puede ser!
+<0082> ¡Diosas, caí en la trampa!
+<0083> ¡Mierda!
+<0084> ¿¡Qué es lo que acabo de pisar!?
+<0085> Hay algo aquí...
+<0086> Puedo sentir un gran poder.
+<0087> Bien, esto será interesante.
+<0088> ¡Ahora todo será un poco más emocionante!
+<0089> Haré un mar de estrellas.
+<0090> ¡Conseguiré una montaña de estrellas!
+<0091> Haré que todas esas estrellas me pertenezcan.
+<0092> Será la mejor parte de este juego.
+<0093> ¡Nadie puede derrotarme!
+<0094> ¡Derrotaré a todos con mi poder mágico!
+<0095> Siento que puedo derrotar a todo el mundo.
+<0096> ¡Muy bien, haré que todos sean cenizas!
+<0097> Esto es de lo que realmente soy capaz.
+<0098> ¡Tomomo, Sweet Eater!
+<0099> ¡Síiii, soy la ganadora!
+<0100> ¿Les ha gustado mi poder mágico?
+<0101> ¿Oh? ¿Has encontrado algo?
+<0102> Ah, eso se ve bien.
+<0103> ¡Hemos conseguido algo bueno!
+<0104> ¡Bien! Jeje.
+<0105> ¿Quieres cambiar?
+<0106> Te dejaré encargarte del resto.
+<0107> Buena suerte ahí afuera.
+<0108> ¡Tú puedes hacerlo!
+<0109> ¡Okay!
+<0110> Bien.
+<0111> Sí.
+<0112> ¡Non!
+<0113> Ueeh~
+<0114> Has tenido mucha suerte.
+<0115> ¿Hmm?
+<0116> ¡Vamos!
+<0117> ¡Hoooy!
+<0118> Tú puedes hacerlo.
+<0119> ¡Hola!
+<0120> ¿Hmm~?
+<0121> Eso es bueno.
+<0122> Eso es increíble. ¡Estoy impresionada!
+<0123> Arghghghgh.
+<0124> ¡El poder mágico de alguien más!
+<0125> ¡Y-yo no he robado nada!
+<0126> ¡Lo usaré de todas formas!
+<0127> ¡Aquí tienes un poder mágico que no conozco!
+<0128> ¡Muchas gracias!
+<0129> ¡La chica mágica más poderosa, Tomomo Sweet Eater, ya está aquí!
+<0130> ¡Transformación! ¡Uooooh!
+<0131> ¡Ahora estoy llena de poder mágico!
+<0132> ¡Ahora sí que estoy emocionada!
+<0133> ¡¡¡Te daré el golpe final!!!
+<0134> ¡Mi venganza se ha cumplido!
+<0135> ¡Este es el poder de mi venganza!
+<0136> ¡Conviértanse en cenizas!
+<0137> ¡Hay otras chicas con poder mágico aquí!
+<0138> ¿Quién es la diosa de los dulces más poderosa...? ¡Lo sabremos en un momento!

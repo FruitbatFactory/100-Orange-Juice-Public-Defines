@@ -1,0 +1,80 @@
+// CampaignScenario_CodexStory_ClassChange
+// (cook)
+<0000> ¡Halena, Halena! ¡Cook al fin ha logrado alcanzarte!
+// (halena)
+<0001> ¿Nos ibamos a encontrar aquí, o no? Pero parece que lelgas tarde. ¿Acaso ocurrió algo en el camino?
+// (cook)
+<0002> ¡Cook sabía que sabrías que ella no estaba perdiendo el tiempo! ¡Algo muy extraño está ocurriendo!
+// (halena)
+<0003> Parece que muchas cosas extrañas ocurren en esta area.
+// (cook)
+<0004> ¡Escucha! ¡Muchas personas comenzaron a seguir a Cook mientras regresaba del pueblo!
+// (cook)
+<0005> ¡Todos tenían cuchillos y tenedores en sus manos! ¡Fue muy aterrador!
+// (halena)
+<0006> ¡¿Qué?! ¿Acaso te lastimaron?
+// (cook)
+<0007> No. Cook logró escapar de ellos por un buen rato.
+// (cook)
+<0008> Pero entonces se cansó, y se aproximaban más y más... ¡Cook pensaba que ese sería su fin!
+// (cook)
+<0009> Pero entonces...
+// (halena)
+<0010> Por favor, no hagas pausas como esa. ¡Sabes que realmente estoy preocupada!
+// (cook)
+<0011> Fweehee. ¡Pero entonces, todos hicieron una fila detrás de Cook de una manera muy ordenada!
+// (cook)
+<0012> Así que ella les preguntó, "¿Qué? ¿No iban a comerse a Cook?"
+// (halena)
+<0013> ¿Y?
+// (cook)
+<0014> Y ellos dijeron "¡No! ¿Por qué nos comeríamos al Mítico Gallo Rojo?"
+// (cook)
+<0015> ¡Qué groseros! ¡¿Acaso no saben lo que es un gallo?! ¡Hmph!
+// (halena)
+<0016> Bueno, dejando eso de lado, creo que sé que es lo que está ocurriendo.
+// (cook)
+<0017> ¡¿Lo sabes?! ¿Solo con eso?
+// (halena)
+<0018> Hay un rumor circulando alrededor del pueblo que habla de un gran crítico culinario.
+// (cook)
+<0019> Cook no ve como eso pueda ser relevante.
+// (halena)
+<0020> Ella no deja reseñas ni nada por el estilo, pero si la siguegs, podrás garantizarte una buena comida.
+// (cook)
+<0021> ¡¿En serio?! ¡Entonces Cook también necesita encontrarla y seguirla!
+// (halena)
+<0022> Eso... es probable que no sea posible.
+// (halena)
+<0023> Cook, siempre vas a buscar comida cada vez que regresas, ¿no es así?
+// (cook)
+<0024> ¡Por supuesto! Volar me abre el apetito.
+// (halena)
+<0025> Y sabes en dónde se encuentran todos los mejores restaurantes, y sus mejores comidas.
+// (cook)
+<0026> ¡La habilidad de Cook es encontrar su próxima comida sin importar lo que suceda!
+// (halena)
+<0027> Eres muy visible desde el cielo.
+// (halena)
+<0028> Apuesto a que te ven volar, ven que en donde caes hay comida barata y deliciosa, y...
+// (cook)
+<0029> En otras palabras...
+// (halena)
+<0030> En otras palabras...
+// (cook)
+<0031> ¡Chiip! ¡¿Cook se ha convertido en un crítico culinario sin siquiera saberlo?!
+// (cook)
+<0032> ¡¿Y ha hecho promociones de forma gratuita todo este tiempo?!
+// (halena)
+<0033> Jajaja. Supongo que así es.
+// (cook)
+<0034> Aunque no me gusta que tanta gente vea a Cook comer. ¡Así que solo hay una cosa que se puede hacer al respecto!
+// (halena)
+<0035> ¿Oh?
+// (cook)
+<0036> ¡Cook va a encontrar una de esas joyas escondidas, uno de esos lugares exquisitos pero desconocidos de los que nadie conoce!
+// (halena)
+<0037> Eso es exactamente lo que diría un crítico culinario.
+// (halena)
+<0038> ¿Es esto a lo que le llaman un "Cambio de Clase"?
+

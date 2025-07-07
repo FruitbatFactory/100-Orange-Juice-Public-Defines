@@ -1,0 +1,162 @@
+
+<0000> I'm rolling the dice!
+<0001> There!
+<0002> Go!
+<0003> Gimme a good roll!
+<0004> This is it!
+<0005> I'll show you!
+<0006> I'm using a card!
+<0007> Alright, here I go with this.
+<0008> He he he, I'll set a trap here.
+<0009> He he ha, it's a trap.
+<0010> Who will fall for it?
+<0011> *Sneak, sneak*...
+<0012> I'm using this one!
+<0013> I'll win the battle with this!
+<0014> A battle card!
+<0015> This battle is mine!
+<0016> Hyper Mode is on!
+<0017> I've been revived!
+<0018> I'm all okay again!
+<0019> It's time for revenge.
+<0020> I'm not giving up just yet.
+<0021> Uuugh, it was no good.
+<0022> Oh no...
+<0023> Heeeh, no reviving this time...
+<0024> Uuuaaaaa...
+<0025> I'm attacking!
+<0026> There!
+<0027> Attack!
+<0028> Take this!
+<0029> Ouch...
+<0030> That hurts!
+<0031> Kewww!
+<0032> Uuuugh.
+<0033> That hits the spot...
+<0034> Pheeeew...
+<0035> I'm feeling better.
+<0036> I think I can go on.
+<0037> Wh-where am I going?
+<0038> I'm getting blown away...
+<0039> No no no no noooo!
+<0040> I'm feeling dizzy!
+<0041> Waaaaaaaan...
+<0042> Kewww...
+<0043> I'm down...
+<0044> Waaaaww...
+<0045> I'll get you!
+<0046> Battle me!
+<0047> You're wide open!
+<0048> Fight me.
+<0049> It's on!
+<0050> Bring it on!
+<0051> Whoa, are we gonna fight?
+<0052> I'm not losing to you!
+<0053> Take thiiiis!
+<0054> Like this!
+<0055> QP attack!
+<0056> Eeeeey!
+<0057> Oww.
+<0058> Ugh.
+<0059> That hurts!
+<0060> Stop it!
+<0061> Aaaargh!
+<0062> Boohoo...
+<0063> That hurts so much!
+<0064> Geh!
+<0065> Hey, watch it!
+<0066> That won't work!
+<0067> Hop.
+<0068> Witness my beautiful dodge!
+<0069> I won!
+<0070> I won! I won!
+<0071> I did it!
+<0072> E-hem, aren't I great?
+<0073> I-I lost...
+<0074> Gueeee...
+<0075> Hieeee...
+<0076> You're terrible...
+<0077> I'm taking them all!
+<0078> Jingling stars!
+<0079> So yummy!
+<0080> I'm so happy!
+<0081> M-my stars...
+<0082> Gyaaaah!
+<0083> Hieeee...
+<0084> Aaaaah!
+<0085> Huh? A trap?
+<0086> W-was that a trap?
+<0087> Ugh... I fell for it...
+<0088> Uhii... Can't believe I stepped on a trap here...
+<0089> Th-that guy looks pretty tough...
+<0090> *Gulp*, that's scary...
+<0091> Fueee, here comes a strong one...
+<0092> I'm sensing danger...
+<0093> I'll be swimming in stars!
+<0094> I'd like to enjoy the jingle of stars.
+<0095> I'm gathering stars!
+<0096> Lots of stars, lots of dreams!
+<0097> I'm going to take them all down!
+<0098> It's an all-you-can eat battle buffet!
+<0099> Whoever gets in my way, watch out!
+<0100> I'll win all the battles, and the game!
+<0101> Looks like I'm needed. Count on me!
+<0102> QP's here!
+<0103> I'm a Pomeranian. Got a problem?
+<0104> I knew you'd choose me!
+<0105> I'm doing my best!
+<0106> Here I go!
+<0107> I'm pumped up and ready to go!
+<0108> I'm hyped!
+<0109> Yes! Victory is mine!
+<0110> See how good I am now? I won!
+<0111> Give me some pudding as a reward!
+<0112> I won! I won!
+<0113> A new thing came in!
+<0114> It's a new and shiny thing!
+<0115> This will make me more powerful!
+<0116> Hooray, I got a new item!
+<0117> Lemme pass you the baton!
+<0118> Take it from here, please!
+<0119> I'll leave this in your hands!
+<0120> It's time to tag out!
+<0121> Okay.
+<0122> Good.
+<0123> Yes.
+<0124> No.
+<0125> How could this...
+<0126> Hooray!
+<0127> Seriously?
+<0128> Let's go.
+<0129> Let's see what I'll get.
+<0130> Here I go!
+<0131> Hello!
+<0132> What do I do...
+<0133> Nice!
+<0134> Wow, that's amazing...
+<0135> Oh no...
+<0136> This card is mine now!
+<0137> I'm going to play this card!
+<0138> This card came to me... That means I get to play it, right?
+<0139> Alright, I don't know what this does, but I'll use it anyway!
+<0140> What, Yu-Yuki...
+<0141> Syura, aren't you cutting it close with your deadline?
+<0142> I feel like there's something we must fight over...
+<0143> It's a nice jingle.
+<0144> I'll protect Pudding!
+<0145> Sa-Santa?! Are you the real one?
+<0146> I'm a girl, you know!
+<0147> Pudding!
+<0148> Whoa, a lookalike of me!?
+<0149> S-somehow you don't feel like a complete stranger...
+<0150> Wow, miss! You have a smell that attracts doggies!
+<0151> Bowwow!
+<0152> Natsumi! Let's play!
+<0153> Whee! I'll play with you! I'll play with you!
+<0154> I-I'll get back at you for always bullying me!
+<0155> Oh no! There's a bully here!
+<0156> Aaah! Please stop pecking at meee!
+<0157> Nooo! Why would you do that to pudding?!
+<0158> Th-this pudding... looks dangerous...!
+<0159> Where's my pudding?! Where is it?!
+<0160> Hooray, it's pudding! ...Aaaaargh!!!

@@ -1,0 +1,145 @@
+
+<0000> Lá vai!
+<0001> Ei!
+<0002> Toh!
+<0003> Vai!
+<0004> Vou usar esta aqui!
+<0005> O poder da carta!
+<0006> Essa é minha carta na manga!
+<0007> Um poder misterioso!
+<0008> Vou posicionar isto aqui!
+<0009> Caiam nisto!
+<0010> Colocando a carta!
+<0011> Isto pode ajudar!
+<0012> É um novo equipamento!
+<0013> Eu vou com tudo!
+<0014> Vou te finalizar com isso!
+<0015> Vou usar isto!
+<0016> Carregamento completo! Fogo!
+<0017> Ainda posso continuar!
+<0018> Motores reiniciados!
+<0019> De volta às linhas de frente!
+<0020> Reparos concluídos!
+<0021> Eu tenho que trabalhar mais duro...
+<0022> Não consigo me mover...
+<0023> A reinicialização falhou...
+<0024> Ainda não está bom...
+<0025> Tome isto!
+<0026> Vai!
+<0027> Eeei!
+<0028> Lá vai!
+<0029> Doeu!
+<0030> Isso dói!
+<0031> Eu fui atingida!
+<0032> De onde veio!?
+<0033> Trabalho metalúrgico concluído!
+<0034> Restaurado!
+<0035> Com isso eu estou melhor!
+<0036> Na hora certa...
+<0037> Meu controle...!
+<0038> Estou sendo jogada para longe!
+<0039> Wah, wah waaah!
+<0040> Para onde eu estou indo?
+<0041> Me perdoe, Barril Vermelho.
+<0042> Estou caindo!
+<0043> Ah não! Não consigo segurar mais.
+<0044> Estou acabada!
+<0045> Parado aí!
+<0046> Desista de uma vez!
+<0047> Obedeça!
+<0048> Vou te derrubar!
+<0049> Não me incomode!
+<0050> Um obstáculo!
+<0051> Se você se aproximar, então...!
+<0052> Estão na minha cola!
+<0053> Abrindo fogo!
+<0054> Isso não é uma ameaça!
+<0055> Tome isso!
+<0056> Fogo!
+<0057> Hyan!
+<0058> Kyah!
+<0059> Doeu!
+<0060> Wah!
+<0061> Doeu muito!
+<0062> Aiii!
+<0063> Um ataque direto!
+<0064> Gyaaah!
+<0065> Desviee!
+<0066> Manobra!
+<0067> Não vai nos acertar!
+<0068> Eu consigo ver!
+<0069> Eu consegui!
+<0070> Como fui?!
+<0071> Eu te derrotei!
+<0072> Aeronave abatida!
+<0073> Deu ruim...
+<0074> Perdi...
+<0075> Fui derrotada...
+<0076> Muito forte...
+<0077> É um bônus!
+<0078> Aceito com prazer!
+<0079> As estrelas estão se juntando!
+<0080> Estrelas avistadas!
+<0081> Ah não!
+<0082> Minhas estrelas...!
+<0083> As estrelas estão fugindo!
+<0084> Aaah, esperem!
+<0085> Uwaah!
+<0086> O que é isso?
+<0087> Droga!
+<0088> Fui pega!?
+<0089> Uau! Que gigante!
+<0090> Um novo inimigo?!
+<0091> Algo terrível apareceu!?
+<0092> Eu tenho que lutar contra isto!?
+<0093> Vou conseguir uma bufunfa!
+<0094> Eu vou coletar estrelas!
+<0095> Seria bom conseguir juntar muitas.
+<0096> Quantas eu preciso coletar?
+<0097> Eu vou atirar neles até caírem!
+<0098> Eu vou derrubar um monte deles!
+<0099> Eu vou mostrar para eles do que sou capaz!
+<0100> Eu vou derrotar todos eles!
+<0101> Darei o meu melhor!
+<0102> Em espera!
+<0103> Estou sempre pronta!
+<0104> É a nossa vez, Barril Vermelho.
+<0105> Vamos lá, Barril Vermelho!
+<0106> Vamos dar o nosso melhor, Barril Vermelho!
+<0107> Decolar!
+<0108> Barril Vermelho, vamos lá!
+<0109> Eu consegui! Vou dar o meu melhor da próxima vez também!
+<0110> Vamos ganhar o próximo jogo também, Barril Vermelho!
+<0111> Nós realmente conseguimos, Barril Vermelho!
+<0112> Um trabalho bem feito!
+<0113> Eba!
+<0114> Uma nova melhoria!
+<0115> O que isso poderia ser?
+<0116> Conto com você!
+<0117> Você consegue!
+<0118> Trocando!
+<0119> Vou te passar o bastão!
+<0120> Estou torcendo para você!
+<0121> Certo.
+<0122> Aquilo correu muito bem.
+<0123> Sim.
+<0124> Negativo.
+<0125> Que horrível.
+<0126> Algo bom acabou de acontecer!
+<0127> Bem, ãhn...
+<0128> Vamos lá, Barril Vermelho.
+<0129> Por favor!
+<0130> Aqui vou eu.
+<0131> Olá!
+<0132> Hmm...
+<0133> Bom progresso!
+<0134> Perfeito.
+<0135> Ah não...
+<0136> Sra. Gaivota, me perdoe!
+<0137> Mais uma vez usando essa coisa.
+<0138> Você merecia uma punição!
+<0139> De novo, essa coisa sendo construída!
+<0140> Eu fui longe demais!
+<0141> Eu te disse para não me atrapalhar!
+<0142> Aqui vou eu!
+<0143> Um pervertido... voador?

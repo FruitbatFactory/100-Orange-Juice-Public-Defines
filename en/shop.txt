@@ -1,0 +1,297 @@
+
+< SHOP_LABEL_HOME >
+Home
+
+< SHOP_LABEL_CARDS >
+Cards
+
+< SHOP_LABEL_CHARACTERS >
+Characters
+
+< SHOP_LABEL_CHALLENGES >
+Challenges
+
+< SHOP_LABEL_FIELDS >
+Fields
+
+< SHOP_LABEL_HALLOWEEN >
+Halloween
+
+< SHOP_LABEL_CHRISTMAS >
+Christmas
+
+< SHOP_LABEL_PIGFORMATION >
+Pigformation
+
+< SHOP_LABEL_COWKIGU >
+Cow Kigurumi
+
+< SHOP_LABEL_TIGERKIGU >
+Tiger Kigurumi
+
+< SHOP_LABEL_RETIREDEVENTS >
+Retired Events
+
+< SHOP_LABEL_PLAYERPLATES >
+Player Plates
+
+< SHOP_LABEL_MISC >
+Misc
+
+< SHOP_LABEL_EMOTES >
+Emotes
+
+< SHOP_LABEL_PETS >
+Pets
+
+< SHOP_LABEL_ARCADE >
+Arcade
+
+< SHOP_LABEL_DLC >
+DLC
+
+< SHOP_LABEL_ALL >
+All
+
+< SHOP_LEVEL >
+Level
+
+< SHOP_OFFLINE >
+No Steam Connection
+
+< SHOP_DLC_SYURANANAKO >
+Syura & Nanako
+
+< SHOP_DLC_SAKIKYOUSUKE >
+Saki & Kyousuke
+
+< SHOP_DLC_MIXED >
+Mixed Pack
+
+< SHOP_DLC_KRILAKAE >
+Krila & Kae
+
+< SHOP_DLC_ALTEKYOKO >
+Alte & Kyoko
+
+< SHOP_DLC_SHAMSHERRY >
+Sham & Sherry
+
+< SHOP_DLC_BREAKERPACK >
+Breaker Pack
+
+< SHOP_DLC_ACCELERATIONPACK >
+Acceleration Pack
+
+< SHOP_DLC_NATHTOMATOMIMYUU >
+Nath & Tomato + Mimyuu
+
+< SHOP_DLC_SUGURIHIMEWINTER >
+Suguri & Hime Winter
+
+< SHOP_DLC_KIRIKONONAME >
+Kiriko & NoName
+
+< SHOP_DLC_STARTERVOICEPACK >
+Starter Character Voice Pack
+
+< SHOP_DLC_CEOREPARQUEMIUSAKI >
+Witch Pack
+
+< SHOP_DLC_COREVOICEPACK1 >
+Core Voice Pack 1
+
+< SHOP_DLC_YUKITOMOMORENEWAL >
+Yuki & Tomomo Renewal Pack
+
+< SHOP_DLC_COREVOICEPACK2 >
+Core Voice Pack 2
+
+< SHOP_DLC_TSIHTEQUILA >
+Tsih & Tequila
+
+< SHOP_DLC_MEINATSUMI >
+Mei & Natsumi
+
+< SHOP_DLC_NICOARTHUR >
+Toy Store Pack
+
+< SHOP_DLC_IRUMIRA >
+Iru & Mira
+
+< SHOP_DLC_CUTIES >
+Cuties
+
+< SHOP_DLC_ULTIMATEWEAPONGIRL >
+Ultimate Weapon Girl
+
+< SHOP_DLC_YUUKIISLAY >
+Yuuki & Islay
+
+< SHOP_DLC_PUDDINGPACK >
+Pudding Pack
+
+< SHOP_DLC_SUGURI46SUMIKA >
+Old Guardian Pack
+
+< SHOP_DLC_ELLIELULU >
+Wanderer Pack
+
+< SHOP_DLC_RONETEO >
+Alicianrone & Teotoratta
+
+< SHOP_DLC_ARNELLEMAYNIE >
+Arnelle & Maynie
+
+< SHOP_DLC_CHRISKYUPITA >
+Chris & Kyupita
+
+< SHOP_DLC_HALENACOOK >
+Halena & Cook
+
+< SHOP_DLC_RIDERMERCHANT >
+Railway Runners Pack
+
+< SHOP_DLC_HIMEFERNETRENEWAL >
+Princess Pack
+
+< SHOP_DLC_MALTMESCAL >
+Malt & Mescal
+
+< SHOP_DLC_SHIFUREIKA >
+Shifu & Reika
+
+< SHOP_DLC_PUDDINGPOP >
+Pudding Pop
+
+< SHOP_DLC_WATTYPOMERANIUS >
+Watty & Pomeranius
+
+< SHOP_DLC_SWEETGODS >
+Sweet Gods
+
+< SHOP_DLC_KRILAMIMYUURENEWAL >
+Waruda Prison Break Pack
+
+< SHOP_DLC_ALTEREGOPACK >
+Alter Ego Pack
+
+< SHOP_DLC_STARBAKERBREAKER >
+Star Baker Breaker
+
+< SHOP_DLC_NEWELLIEKAI >
+Protagonist Pack
+
+< SHOP_DLC_OLDGUARDPACK >
+Bourbon & Grain
+
+< SHOP_DLC_POYOCHUU >
+Poyo & Chuu
+
+< SHOP_DLC_HARUKANA >
+Haruka & Kanata
+
+< SHOP_TOOLTIP_HOME >
+Navigate the shop by category icons.
+
+< SHOP_TOOLTIP_CARDS >
+Purchase Card Packs and new units you have unlocked.
+
+< SHOP_TOOLTIP_CHARACTERS >
+Purchase new cosmetics sorted by the character.
+
+< SHOP_TOOLTIP_CHALLENGES >
+Use Oranges to purchase challenge-specifics Crates and hair colors.
+
+< SHOP_TOOLTIP_FIELDS >
+Unlock new fields to play on.
+
+< SHOP_TOOLTIP_HALLOWEEN >
+Unlock Halloween Event accessories.
+
+< SHOP_TOOLTIP_CHRISTMAS >
+Unlock Christmas Event accessories.
+
+< SHOP_TOOLTIP_PIGFORMATION >
+Unlock "Beware Pigformation" event accessories.
+
+< SHOP_TOOLTIP_COWKIGU >
+Unlock Cow Kigurumi costumes.
+
+< SHOP_TOOLTIP_TIGERKIGU >
+Unlock Tiger Kigurumi costumes.
+
+< SHOP_TOOLTIP_RETIREDEVENTS >
+Purchase rewards from retired events.
+
+< SHOP_TOOLTIP_MISC >
+Unlock multiplayer bonuses and other miscellaneous items.
+
+< SHOP_TOOLTIP_EMOTES >
+Purchase new emotes to use in chat!
+
+< SHOP_TOOLTIP_PETS >
+Purchase new pets!
+
+< SHOP_TOOLTIP_ARCADE >
+Use arcade tokens to win fabulous prizes!
+
+< SHOP_TOOLTIP_DLC >
+Purchase new DLC content with real money.
+
+< SHOP_TOOLTIP_PLAYERPLATES >
+Purchase new backgrounds, borders, and more for your online player plate!
+
+< SHOP_TOOLTIP_ALL >
+View all Shop content.
+
+< SHOP_CRATE_CONTENTS >
+~Contents~
+
+< SHOP_CRATE_LOOT_NONE >
+None:
+
+< SHOP_CRATE_LOOT_STARS >
+Stars:
+
+< SHOP_CRATE_LOOT_HALLOWEEN >
+Halloween Accessory:
+
+< SHOP_CRATE_LOOT_CHRISTMAS >
+Christmas Outfit:
+
+< SHOP_CRATE_LOOT_SUNGLASSES >
+Summer Sunglasses:
+
+< SHOP_CRATE_LOOT_RADPOPPO >
+Rad Poppo:
+
+< SHOP_CRATE_LOOT_HOMEMARK >
+Home Marker:
+
+< SHOP_CRATE_LOOT_POSE >
+Pose:
+
+< SHOP_CRATE_LOOT_HAIR >
+Hair:
+
+< SHOP_CRATE_LOOT_DICE >
+Dice:
+
+< SHOP_CRATE_LOOT_ORANGES >
+Oranges:
+
+< SHOP_CRATE_LOOT_CHARACTER >
+Character:
+
+< SHOP_CRATE_LOOT_MYSTERY >
+???
+
+< SHOP_FILTER_OWNED >
+Hide Owned Items
+
+< SHOP_ERROR_INVENTORY_PURCHASE >
+Unable to purchase. Please try again later.
+
+[EOF]
+

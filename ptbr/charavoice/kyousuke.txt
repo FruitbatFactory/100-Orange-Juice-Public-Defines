@@ -1,0 +1,162 @@
+
+<0000> Hah!
+<0001> Aqui!
+<0002> Hehe!
+<0003> Vai!
+<0004> Carta.
+<0005> Eu vou jogar esta.
+<0006> E lá vai você.
+<0007> Certo... vamos com esta.
+<0008> Aqui vai uma armadilha.
+<0009> Eu acho que vou colocar uma armadilha aqui.
+<0010> Me pergunto quem que vai cair nela.
+<0011> Mantenha-se na defensiva.
+<0012> Carta de Batalha.
+<0013> Eu irei te mostrar o meu tudo.
+<0014> Eu serei o vencedor, obrigado.
+<0015> Agora é a hora de fazer isso.
+<0016> Permita-me lhe mostrar o meu verdadeiro eu.
+<0017> Muito bem... Imagino que esteja na hora de contra atacar.
+<0018> Eu posso continuar.
+<0019> Hehe, está ficando divertido.
+<0020> Isso tudo não é nada.
+<0021> Mhm...
+<0022> Não parece que está na hora de se levantar ainda.
+<0023> Sem pressa.
+<0024> Hehehe...
+<0025> Aqui vou eu.
+<0026> Mão sombria mística!
+<0027> Você vai encontrar seu criador!
+<0028> Eu vou bater em você!
+<0029> Nugh!
+<0030> I seem to have taken a grazing blow.
+<0031> Essa dor irá me fazer...
+<0032> Gugah!
+<0033> Mas que brisa agradável.
+<0034> Eu estou cercado de calor.
+<0035> Está me confortando...
+<0036> Hehehe... Isso é muito bom.
+<0037> Não importa aonde eu vá parar...!
+<0038> Eu devo ir direto até você.
+<0039> Aonde isto irá me levar?
+<0040> Teleporte, então...
+<0041> Ufa... Eu preciso de uma pausa.
+<0042> Ah...
+<0043> Me parece um bom momento para levar cinco.
+<0044> Bem...
+<0045> Eu vou te derrotar.
+<0046> Agora, eu irei para a ofensiva.
+<0047> É meu turno agora.
+<0048> Permita-me fazer uma ação.
+<0049> Certamente... Você pode vir até mim.
+<0050> Agora, vamos nos divertir, certo?
+<0051> Você gostaria de lutar comigo?
+<0052> Desafio aceito. Agora vamos começar.
+<0053> Sey!
+<0054> Hah!
+<0055> Tente se desviar disso!
+<0056> Ataque das rosas!
+<0057> Guh!
+<0058> Aargh!
+<0059> Este é bom...!
+<0060> Oww!
+<0061> Mas que entusiasmado.
+<0062> Uma dor agradável.
+<0063> Mas que esplêndido.
+<0064> Sim, é isto!
+<0065> Isto não vai me alcançar.
+<0066> Eu estou bem aqui.
+<0067> Foi por pouco, mas é preciso mais do que isso.
+<0068> Hmph.
+<0069> Então eu venci...
+<0070> Boa luta.
+<0071> Foi divertido.
+<0072> A gente devia lutar de novo.
+<0073> Incrível.
+<0074> Hehehe, meus parabéns.
+<0075> Você é o vencedor.
+<0076> Sim, você se saiu muito bem.
+<0077> Estrelas.
+<0078> As estrelas brilham graciosamente e cheias de beleza.
+<0079> A luz está me cercando.
+<0080> Brilhe mais...!
+<0081> Você está me deixando, também?
+<0082> Ah não...
+<0083> Não... Estou perdendo a... luz...
+<0084> Eu não acredito nisso.
+<0085> Hmph, caí nessa.
+<0086> Oh, é uma armadilha...
+<0087> Eu errei.
+<0088> Qual o problema comigo?
+<0089> Hmm... Sinto que é aqui...
+<0090> Aqui vem um fortão...
+<0091> Eu não posso ignorar esse poder perigoso.
+<0092> As coisas estão ficando sérias por aqui...
+<0093> As estrelas estão me chamando.
+<0094> Eu vou fazer uma pilha de estrelas.
+<0095> Eu desejo uma luz forte.
+<0096> Eu vou deixar as estrelas me tentarem.
+<0097> Creio que eu devia desejar confrontos...
+<0098> Como um homem... Eu estou empolgado de ir por vitórias.
+<0099> Eu escolho... Lutar.
+<0100> Eu estou ansioso por batalhas intensas.
+<0101> Kyousuke.
+<0102> Olá.
+<0103> Um momento divertido está prestes a começar.
+<0104> Eu vou lá com você.
+<0105> O jogo começa agora...
+<0106> Bem... Vamos ver que tipo de planos meus inimigos tem.
+<0107> Eu irei e terei o máximo de diversão que conseguir.
+<0108> Existe ar fresco por aqui.
+<0109> Hmph... Meu triunfo...
+<0110> Rapaz, como a sensação é boa.
+<0111> Hmm... Eu acabei vencendo?
+<0112> Eu me sinto maravilhoso.
+<0113> Você achou algo bom?
+<0114> Hmm, isso é algo bom.
+<0115> Então nós encontramos um novo item.
+<0116> Entendi... Isto é...
+<0116> Entendi... Isto é...
+<0117> Poderia cuidar disso?
+<0118> Eu estou contando com você.
+<0119> Se importaria?
+<0120> Perdão, mas eu preciso que você troque comigo.
+<0121> Certo.
+<0122> Bom.
+<0123> Sim, vamos fazer isso.
+<0124> Me perdoe... quanto a isso...
+<0125> Em um desses dias...
+<0126> Seu dia de sorte.
+<0127> O quê?
+<0128> Devemos ir...
+<0129> Estou jogando o dado.
+<0130> Devemos ir...
+<0131> Oh olá, como você está?
+<0132> Hmm...
+<0133> Ótimo!
+<0134> Fantástico!
+<0135> Ah não...
+<0136> É hora de fazer ou quebrar.
+<0137> Isto não me parece muito ruim.
+<0138> Agora... Permita-me usar isto.
+<0139> Este poder... Irá funcionar para mim?
+<0140> Kyu... Kyupita...!
+<0141> Venha até mim, Kyupita!
+<0142> Hehehe, o que fez você acreditar que poderia me derrotar?
+<0143> Excelente, Kyupita... Eu estava certo... em me apaixonar por você...
+<0144> Eu te encontrei, Kyupita!
+<0145> Eu sinto a presença de Kyupita...
+<0146> Mas o quê...!? Existem dois Kyupitas...?!
+<0147> O-o quê... Existem... Diversos... Kyupitas...!!
+<0148> Hehe, parabéns, Kyupita.
+<0149> Bom trabalho. Você vai se tornar mais forte.
+<0150> Kyupita... Você é capaz de brilhar mais forte ainda...
+<0151> Hehehe... Estou me divertindo muito, Kyupita...
+<0152> Kyupitaaaaaaaaaaa!!!
+<0153> Hm... Você é...
+<0154> Então você é meu oponente, huh.
+<0155> Hm... Palavras não conseguem descrever a sensação estranha que eu sinto agora.
+<0156> Eu não me arrependo de ter sido derrotado por você.
+<0157> Existem mais mulheres do que homens aqui. Devíamos nos apoioar uns aos outros.
+<0158> A hora do serviço acabou.
+<0159> Aehoo! ...Está é uma situação meio difícil.

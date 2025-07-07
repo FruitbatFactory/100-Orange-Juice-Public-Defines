@@ -1,0 +1,161 @@
+
+<0000> Vamos lá
+<0001> Vai!
+<0002> Rolando.
+<0003> Ei!
+<0004> Será que eu devo usar isso?
+<0005> Acho que essa.
+<0006> Escolhi essa.
+<0007> Vou usar isso.
+<0008> Armadilha.
+<0009> Certo...
+<0010> É uma armadilha.
+<0011> Será que é assim?
+<0012> Eu vou usar isso.
+<0013> Eu não posso perder, né.
+<0014> Eu vou fazer isso.
+<0015> Com isso...!
+<0016> Acelerador!
+<0017> Ufa...
+<0018> Certo, pelo jeito eu posso me mover novamente.
+<0019> Bom, vou com tudo.
+<0020> Agora é que começa de verdade.
+<0021> O que? Que estranho...
+<0022> Muu.
+<0023> O quê?
+<0024> Raios...
+<0025> Vamos lá.
+<0026> Yah!
+<0027> Hah!
+<0028> Toma!
+<0029> Ugh.
+<0030> Uu.
+<0031> Wah.
+<0032> Wawah.
+<0033> Uuufaaa...
+<0034> Quentinho...
+<0035> Eu me recuperei.
+<0036> Que sentimento bom.
+<0037> Eu estou voando...?
+<0038> Para onde eu vou?
+<0039> Estou voando.
+<0040> Teleportando...
+<0041> Haaauu...
+<0042> Um pouco... de descanso...
+<0043> Uhh, que desgraça...
+<0044> Haa...
+<0045> É vitória ou derrota.
+<0046> Se você for me incomodar...
+<0047> Lá vamos nós
+<0048> Uma batalha!
+<0049> Uma batalha então?
+<0050> Claro, pode vir.
+<0051> Eu não vou perder.
+<0052> Vai encarar?
+<0053> Hah!
+<0054> Toma essa!
+<0055> Yah!
+<0056> Tah!
+<0057> Wah.
+<0058> Uuu.
+<0059> Auuu.
+<0060> Guhh.
+<0061> Muuu.
+<0062> Wawawa.
+<0063> Perai.
+<0064> Uwaaaa.
+<0065> Não consegue me acertar.
+<0066> Eu desviei.
+<0067> Essa foi por pouco.
+<0068> Eita.
+<0069> Fuh, pelo jeito eu consegui.
+<0070> Deu tudo certo?
+<0071> Parece que eu venci.
+<0072> Eu dei o meu melhor.
+<0073> Muu.
+<0074> Hauu.
+<0075> Você é forte.
+<0076> Você é incrível.
+<0077> São brilhantes.
+<0078> Estou grata.
+<0079> Aí sim.
+<0080> São muitas...
+<0081> Wah, minhas estrelas foram...
+<0082> Ah...
+<0083> Minhas estrelas...
+<0084> Muuaa...
+<0085> Uma armadilha...?!
+<0086> Bem nesse lugar...
+<0087> Wah, droga.
+<0088> Isso é...
+<0089> Um grandão apareceu?
+<0090> E lá vem perigo...
+<0091> Preciso me cuidar.
+<0092> Apareceu um fortão.
+<0093> Vou coletar estrelas.
+<0094> Eu escolho estrelas.
+<0095> Estrelas, vou coletar muitas.
+<0096> Estrelas...
+<0097> Eu acho que vou batalhar.
+<0098> Eu vou conseguir vitórias.
+<0099> Eu vou lutar.
+<0100> Certo, eu vou vencer.
+<0101> Certo, cuide bem de mim.
+<0102> Pode contar comigo.
+<0103> Vamos tentar nosso melhor.
+<0104> Certo então...
+<0105> Eu vou com tudo.
+<0106> Vamos lá?
+<0107> Começou.
+<0108> O que nós vamos fazer?
+<0109> Aí sim.
+<0110> De alguma forma eu venci.
+<0111> Huhu, eu fiz um bom trabalho, né?
+<0112> Nós vencemos!
+<0113> Nós conseguimos algo novo.
+<0114> É um novo item.
+<0115> Eu não vi esse antes.
+<0116> Você conseguiu algo bom?
+<0117> Vamos trocar.
+<0118> Você vai tomar meu lugar?
+<0119> Eu vou deixar o jogo para você.
+<0120> Estou torcendo para você.
+<0121> Ótimo.
+<0122> Que bom.
+<0123> Aham.
+<0124> Uh un.
+<0125> Muuu...
+<0126> Aí sim.
+<0127> Eh?
+<0128> Certo, vamos lá.
+<0129> Saia um bom número.
+<0130> Vamos fazer isso.
+<0131> Eai.
+<0132> Hmm.
+<0133> Que bom.
+<0134> Isso é incrível.
+<0135> Uuu...
+<0136> Vou pegar emprestado um pouco, certo?
+<0137> Se eu pedir você deixa eu usar isso?
+<0138> É só um poder emprestado.
+<0139> Vou tentar isso...!
+<0140> Hime, vamos jogar.
+<0141> É uma criancinha...
+<0142> Vamos, Sora.
+<0143> Estou passando!
+<0144> A deusa... do Pudim...
+<0145> Star Breaker... não vou deixar você fazer o que quiser.
+<0146> Wah, esse é um castelo gigantesco...
+<0147> Eu não vou deixar você fazer o que bem entender.
+<0148> Tem mais uma de mim...?
+<0149> Do passado...? O que você quer dizer?
+<0150> O que será, esse sentimento misterioso.
+<0151> Tem certeza que você sou eu?
+<0152> É bom ter você comigo.
+<0153> Hime, vamos trocar.
+<0154> Claro, estou dentro.
+<0155> Você se empolgou demais, Hime.
+<0156> Sim, eu me diverti também.
+<0157> Se a Sora é minha oponente, tenho que me esforçar.
+<0158> Fufu, foi divertido, Sora.
+<0159> A Sora é realmente incrivel.

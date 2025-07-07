@@ -1,0 +1,1338 @@
+< MENU_CONTROLLER_PRESS >
+Press
+
+< MENU_CONTROLLER_PROCEED >
+to proceed
+
+< MENU_CLICKPROCEED >
+Left-click to proceed
+
+< MAINMENU_NEWGAME >
+NEW GAME
+
+< MAINMENU_LOADGAME >
+CONTINUE
+
+< MAINMENU_CONFIGURATION >
+CONFIGURATION
+
+< MAINMENU_EXIT >
+EXIT
+
+< MENU_BUTTON_OK >
+OK
+
+< MENU_BUTTON_BACK >
+BACK
+
+< MENU_BUTTON_HOME >
+HOME
+
+< MENU_BUTTON_CANCEL >
+CANCEL
+
+< MENU_BUTTON_READY >
+READY
+
+< MENU_BUTTON_BEGIN >
+BEGIN
+
+< MENU_BUTTON_RETRY >
+RETRY
+
+< MENU_BUTTON_NEXT >
+NEXT
+
+< MENU_BUTTON_PREVIOUS >
+PREVIOUS
+
+< MENU_BUTTON_CLEAR >
+CLEAR
+
+< MENU_BUTTON_YES >
+YES
+
+< MENU_BUTTON_NO >
+NO
+
+< MENU_BUTTON_STORY >
+STORY
+
+< MENU_BUTTON_SKIPALL >
+SKIP ALL
+
+< MENU_BUTTON_TUTORIAL >
+TUTORIAL
+
+< MENU_BUTTON_REFRESH >
+REFRESH
+
+< MENU_BUTTON_SEARCH >
+SEARCH
+
+< MENU_BUTTON_CHAT >
+CHAT
+
+< MENU_BUTTON_CREATE >
+CREATE
+
+< MENU_BUTTON_JOIN >
+JOIN
+
+< MENU_BUTTON_SPECTATE >
+SPECTATE
+
+< MENU_BUTTON_DIFFICULTY_CASUAL >
+CASUAL
+
+< MENU_BUTTON_DIFFICULTY_NORMAL >
+NORMAL
+
+< MENU_BUTTON_DIFFICULTY_ORIGINAL >
+ORIGINAL
+
+< MENU_BUTTON_DIFFICULTY_EXTREME >
+EXTREME
+
+
+< MENU_BUTTON_LOBBYLIST_LOBBYNAME >
+Lobby Name
+
+< MENU_BUTTON_LOBBYLIST_PUBLIC >
+Public
+
+< MENU_BUTTON_LOBBYLIST_PLAYERS >
+Players
+
+< MENU_BUTTON_LOBBYLIST_SPEED >
+Speed
+
+< MENU_BUTTON_LOBBYLIST_EVENTS >
+Events
+
+< MENU_BUTTON_LOBBYLIST_FIELDNAME >
+Field Name
+
+< MENU_BUTTON_LOBBYLIST_HW2018 >
+Trick and Treat
+
+< MENU_BUTTON_LOBBYLIST_XMAS >
+X-mas
+
+< MENU_BUTTON_LOBBYLIST_BOUNTYHUNTER >
+Bounty Hunt
+
+< MENU_BUTTON_LOBBYLIST_TAGTEAM >
+Tag Team
+
+< MENU_BUTTON_LOBBYLIST_MASTERANGLERS >
+Fish-a-Fish
+
+< MENU_ON >
+On
+
+< MENU_OFF >
+Off
+
+
+< MENU_LOBBYSETTING_EVENT >
+Seasonal Event
+
+< MENU_LOBBYSETTING_PASSWORD >
+Password
+
+< MENU_LOBBYSETTING_HIDEPASSWORD >
+Hide
+
+< MENU_LOBBYSETTING_OPTIONAL >
+(Optional)
+
+< MENU_LOBBYSETTING_MIXERS >
+Mixers
+
+< MENU_LOBBYSETTING_CPUEVENT >
+Skip CPU-only events
+
+< MENU_LOBBYSETTING_TURNTIMER >
+Timer
+
+< MENU_LOBBYSETTING_CHAOSMUTATOR >
+Chaos Mutator
+
+< MENU_LOBBYSETTING_INVADER >
+Invader
+
+< MENU_LOBBYSETTING_PVPBOUNTIES >
+Player Bounties
+
+< MENU_BUTTON_GAME_RETURN >
+RETURN
+
+< MENU_BUTTON_GAME_CONFIG >
+CONFIG
+
+< MENU_BUTTON_GAME_RETIRE >
+RETIRE
+
+
+< MENU_BUTTON_GAME_MOVE >
+MOVE
+
+< MENU_BUTTON_GAME_CARD >
+CARD
+
+< MENU_BUTTON_GAME_INFO >
+INFO
+
+< MENU_BUTTON_GAME_PROTECT >
+PROTECT
+
+< MENU_BUTTON_GAME_GIFT >
+GIFT
+
+< MENU_BUTTON_GAME_THROW >
+THROW
+
+< MENU_BUTTON_GAME_FURY >
+FURY
+
+< MENU_BUTTON_GAME_GUARDIANSPIRIT >
+SPIRIT
+
+< MENU_BUTTON_GAME_IRONDEFENSE >
+IRON
+
+< MENU_BUTTON_GAME_RESTORINGLIGHT >
+RESTORE
+
+< MENU_BUTTON_GAME_FROMBEYOND >
+BEYOND
+
+< MENU_BUTTON_GAME_DEAL >
+DEAL
+
+< MENU_BUTTON_GAME_DEMAND >
+DEMAND
+
+< MENU_BUTTON_GAME_CLICK >
+CLICK
+
+< MENU_BUTTON_GAME_DEFEND >
+DEFEND
+
+< MENU_BUTTON_GAME_EVADE >
+EVADE
+
+< MENU_BUTTON_GAME_FIGHT >
+FIGHT
+
+< MENU_BUTTON_GAME_END >
+END
+
+< MENU_BUTTON_GAME_ITEMS >
+ITEMS
+
+< MENU_BUTTON_GAME_SELLCARDS >
+SELL CARDS
+
+< MENU_BUTTON_GAME_BOMB >
+BOMB
+
+< MENU_BUTTON_GAME_DASH >
+DASH
+
+< MENU_BUTTON_GAME_FORECAST >
+FORECAST
+
+< MENU_BUTTON_GAME_EAT >
+EAT
+
+< MENU_BUTTON_GAME_BOUNTY >
+BOUNTY
+
+< MENU_GAME_MIMYUUJ_HYPER_BREAKOUT >
+Break Out!
+
+< MENU_BUTTON_GAME_TAG >
+TAG
+
+< PLAYMENU_FREEBATTLE >
+ONLINE
+
+< PLAYMENU_SHOP >
+SHOPPING
+
+< PLAYMENU_CAMPAIGN >
+SINGLE PLAYER
+
+< PLAYMENU_PROFILE >
+PLAYER\nINFO
+
+< PLAYMENU_CODEX >
+OJDEX
+
+< PLAYMENU_MANUAL >
+GUIDE
+
+< PLAYMENU_WIKI >
+WIKI
+
+< PLAYMENU_EXIT >
+EXIT
+
+< PLAYMENU_TOOLTIP_FREEPLAY >
+Play online against other players.
+
+< PLAYMENU_TOOLTIP_SHOP >
+Purchase new card packs, units, cosmetics and more.
+
+< PLAYMENU_TOOLTIP_CAMPAIGN >
+Select a character and dive into their storyline in single player.
+
+< PLAYMENU_TOOLTIP_PROFILE >
+View your statistics, browse cards and customize your Avatar.
+
+< PLAYMENU_TOOLTIP_CODEX >
+View character profiles and more.
+
+< PLAYMENU_TOOLTIP_MANUAL >
+Open the game Manual.
+
+< PLAYMENU_TOOLTIP_WIKI >
+Visit the community wiki maintained by fans for in-depth information.
+
+< PLAYMENU_TOOLTIP_CHALLENGES >
+View your daily multiplayer challenges.
+
+< PLAYMENU_TOOLTIP_CONFIGMENU >
+Go to the config screen.
+
+< PLAYMENU_TOOLTIP_EXIT >
+Return to the title screen.
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_01 >
+Check your Challenge Board for challenges from Rein. Complete them to earn presents!
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_02 >
+Once you have collected some presents, gift them to others during the game.
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_03 >
+At the end of the game everyone will open their presents, even the original gifter!
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_04 >
+Once you have gifted enough presents you will be able to challenge Waruda at their hideout for the final showdown.
+
+< PLAYMENU_EVENT_XMAS2017_GIFTPROGRESS >
+Presents Delivered: %d/%d.
+
+< PLAYMENU_EVENT_XMAS2017_STAGEPROGRESS >
+Complete the extra scenario: %s.
+
+< PLAYMENU_EVENT_XMAS2017_COMPLETE >
+Christmas has been saved!\n(But whether the Waruda have changed their ways remains to be seen...)
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_MAIN >
+Collect a total of %s Chocolate to complete your mission!
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_01 >
+Collect Chocolate from panels and by defeating enemies.
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_02 >
+Defeat enemy players to steal half of their Held chocolate.
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_03 >
+When carrying at least 500 Chocolate, store them at a home stop to prevent them from getting stolen.
+
+< PLAYMENU_EVENT_VALENTINE2018_COMPLETE >
+The sweets of the world have been saved!\n(For now, at least...)
+
+< PLAYMENU_EVENT_GAMESPLAYED >
+Games played: %d
+
+< PLAYMENU_EVENT_BONUSITEMS >
+Bonus items: %d/%d
+
+< PLAYMENU_EVENT_VIEWPROGRESS >
+View Progress
+
+< PLAYMENU_EVENT_MILESTONE >
+Next milestone:
+
+< RANDOMFILTER_EVENTS >
+Select Events for "Random"
+
+< RANDOMFILTER_MAPS >
+Select Maps for "Random"
+
+< RANDOMFILTER_CHARACTERS >
+Select Characters for "Random"
+
+< POPPOMARCH_CLICKTHESE >
+Click These %d!
+
+< PEEKSHROOM_MEMORIZE >
+Memorize!
+
+< PEEKSHROOM_ORDER >
+Order!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_MAIN >
+Recover Mr. NoName's missing body parts from Poppo and re-assemble him!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_01 >
+Game panels appear every 3 turns. Land on them to play a game with Poppo!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_02 >
+Pair up all the cards. A few mistakes are allowed! The pair you last form will be your reward. On failure, an effect is chosen randomly.
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_03 >
+Select which reward you want and track the card that has it! Poppo will shuffle the cards and try to hide your reward.
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_04 >
+Poppo's spinning a wheel! Try to stop the wheel at the right time to get something good!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_05 >
+Poppos quickly pop out of the barrels - whack them before they disappear! Beware of accidentally hitting other characters, though...
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_06 >
+Aim and throw darts at the balloons! Some of them are carrying a prize. Pop 3 of the same type to claim that reward!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_07 >
+Click on the 3 Poppos shown at the start as countless Poppos march past. Find all 3 to get the best rewards!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_08 >
+Move Saki to collect cookies and candies. Be careful however, as there are bombs thrown into the mix! Try to score high for a good reward!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_09 >
+Watch the order in which the mushrooms pass by. Then, click them in that same order. The more you guess correctly, the better the rewards!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_10 >
+Control the Flying Red Barrel and dodge obstacles aiming to get the highest score possible, the higher the score, the better the rewards!
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_11 >
+NoName parts occasionally appear among the minigame rewards. If you see one, aim for it!
+
+< PLAYMENU_EVENT_SPRING2018_COMPLETE >
+Mr. NoName was summarily re-assembled and everyone avoided being held back a grade!
+
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_MAIN >
+Defeat Big the Jonathan!
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_01 >
+While playing in Co-op mode, drive away Big the Jonathan to win by reducing his HP to 0 or surviving 50 chapters.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_02 >
+In Co-op mode, every player must select one of the available roles! This determines their abilities, the cards they bring, and their Hyper!
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_03 >
+Attacker gains +Attack and strikes first, Guardian gains +Defense and can use a Protect ability, while Supporter gains +Move and can Revive allies.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_04 >
+Unit Recovery value is adjusted with a special rule, with Attack increasing Recovery, and Evasion lowering it. Minimum Recovery value is 3.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_05 >
+All 4 players share Norma, Wins and Stars. Norma requirements are 1.5x normal for Stars and 2x for Wins. Players can see each other's cards.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_06 >
+During Co-op mode, boss panels appear on the field in increasing numbers. Land on one to challenge Big the Jonathan!
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_07 >
+On KO, your team loses 1/8 of their stars. Units can also stop at any player's home.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_08 >
+Instead of normal field events, Big the Jonathan uses many different abilities to bring you down! He unlocks more as the game goes on...
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_09 >
+Keep your eye on the clock! At Chapter 30, Big the Jonathan becomes angry and will destroy all home panels and activate his most powerful abilities!
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_10 >
+If all allies are KO'd at the same time, the game is over and Big the Jonathan wins! Damage you dealt to him will still affect event progression.
+
+< PLAYMENU_EVENT_SUMMER2018_COMPLETE >
+Big the Jonathan has been pacified and the seas and beaches are safe again!
+
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_MAIN >
+Trick and Treat to fill your belly with candy!
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_01 >
+Carry candy to receive +1 stars / candy each chapter. More candy is randomly given every 3 chapters.
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_02 >
+If the candy matches your player plate, turn it in at a home to receive 10 stars and 1 Win.
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_03 >
+If you meet another player, select a candy they are holding to trick or treat them. If they don't give you that candy, they receive a penalty!
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_04 >
+If refused a treat, KO a player to steal a candy they are carrying.
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_05 >
+Candy is rewarded at the end of the match based on your ranking. Collect 1500 candy to fill the craving in your stomach!
+
+< PLAYMENU_EVENT_HALLOWEEN2018_COMPLETE >
+You have collected enough candy to overcome Kiriko's medicine! Let's enjoy the witch's tea time.
+
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_ATTACKER >
+Attacker\n\nFirst Strike: Go first in battle\nNorma 2 : +1 ATK\nNorma 4 : +1 ATK\nBoss HP + 5
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_DEFENDER >
+Guardian\n\nProtect: Pay 1 HP to protect target from 2 damage in the next battle\nNorma 2: +1 DEF\nNorma 4: +1 DEF\nBoss HP - 5
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_SUPPORT >
+Supporter\n\nRevive/Heal: Can heal an ally 1 HP or revive a KO'd ally for stars by walking over them\nNorma 2: +1 Move\nNorma 4: +1 Move
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_AVENGER >
+Avenger\n\n+1 ATK per HP lost in combat.\nNorma 2 : +1 Max HP\nNorma 4 : +1 Max HP\nBoss HP + 10
+
+< PLAYMENU_EVENT_SUMMER2018_AVENGER_UNLOCK >
+A new role is now available in Co-op mode: Avenger!
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_MAIN >
+Work together with everyone to build a snow castle for the children before Christmas!
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_01 >
+Clear the daily progress goal to unlock new rewards! Earn Christmas Wreaths from the Xmas game mode and redeem items in the store!
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_02 >
+In the Xmas game mode, all players build a snow castle together every 6 chapters. After 24 chapters, the game ends and whoever built the most wins!
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_03 >
+Snow castles are built using snow. Snow collects on untraveled panels over time - collect it by walking over snow piles.
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_04 >
+In need of more snow? Steal it from your friends by KO'ing them in battle, or hitting them with a snowball!
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_05 >
+Initiate a snowball fight by clicking this icon and selecting a target 3-4 panels away from you (cost: 10 snow).
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_06 >
+Any unit within 1 panel radius of you joins the battle on your team, and any unit within 1 panel radius of target joins their team.
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_07 >
+Snowball battles last for 3 rounds of attack and defense, or until everyone on one party has been hit.
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_08 >
+When defending, guess where the opponent will try to throw, and select a panel to dodge to.
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_09 >
+When attacking, predict where the opponent will try to dodge, and try to hit them. Success gives you half their snow!
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_10 >
+There are new event cards in the deck in this game mode. They can be used during snowball fights for interesting effects...
+
+< PLAYMENU_EVENT_XMAS2018_COMPLETE >
+The snow castle has been completed, and the children's Christmas has been saved!
+
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_MAIN >
+Everyone's turning into slothful pigs! Save your friends from pigformation by collecting Pig Hearts!
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_01 >
+Pig Hearts are obtained in Normal or Bounty Hunt mode by finishing a match, and by either KO'ing an enemy player in battle (once per match for each opponent), or ranking higher than them, or by playing Co-op games.
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_02 >
+Use the stored Pig Hearts to unlock pig costumes in the Shop, freeing that character from the curse of pigformation!
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_03 >
+The pigformation will only be stopped once all characters have been saved from it!
+
+
+< PLAYMENU_EVENT_FRB2019_COMPLETE >
+Your friends have been saved, but the global pigformation continues...
+
+
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_MAIN >
+Mysterious new enemies are rampaging around! Cooperate with others to put an end to the madness by playing the new Co-op mode!
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_01 >
+To play Co-op, toggle between Normal, Co-op and Bounty Hunt when creating a new lobby or starting a single player game.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_02 >
+The boss has 4 difficulty levels which can be freely changed. The boss will use more powerful abilities on higher difficulties! You also gain more experience and oranges as reward for winning.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_03 >
+Your field selection is affected by boss and difficulty choice.\n
+Casual: Play on any regular field you own.\n
+Normal and Extreme: Play on a set of new Co-op fields.\n
+Hyper: Play on a specially made boss arena field.\n
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_04 >
+A Hyper difficulty boss also has unique, powerful abilities... only try one if you want a real challenge!
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_05 >
+Play in 1 of the 3 character roles: Attacker, Guardian or Supporter. Each role gains experience when you play with them, and will unlock new, powerful abilities.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_06 >
+Build your Co-op deck freely using the new Deck Point system! More powerful cards cost more Deck Points to bring with you. Remember that all cards are used by you and your allies.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_07 >
+Note that many characters' Hyper cards work differently in Co-op! You can toggle between regular and Co-op cards in the Binder to look at the effects in detail.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_08 >
+Your Deck Point pool is determined by your character rating. A-ranked characters are considered most fitting for that role, and start with 10 Deck Points.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_09 >
+Characters with a lower rating for each role have more Deck Points to compensate. Experiment with different character/role combinations!
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_10 >
+Bosses move on the field and can attack you! They only activate movement-related panels (Move, Warp etc.) Always keep their location in mind for your tactics.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_11 >
+The boss has a deck of 5 unique cards ranging from level 0 to 3. After playing all 5, boss upgrades one of the lowest level cards to a higher level one and their deck is shuffled.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_12 >
+Boss ability is revealed at the beginning of each chapter, and boss activates it before their turn at the end of the chapter, so plan accordingly!
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_13 >
+Now go, it's time to pacify these monsters!
+
+< PLAYMENU_EVENT_SPRING2019_COMPLETE >
+The world has been saved from rampaging monsters! But the threat is not over while the true mastermind remains loose... who was it behind it all?
+
+
+< PLAYMENU_EVENT_SUMMER2019_INSTRUCTION_MAIN >
+QP has gone bonkers from too much sun! You need to tire her out by playing with her and her new minions!
+
+
+< PLAYMENU_EVENT_SUMMER2019_COMPLETE >
+Thanks to your efforts, everyone had fun at the beach, and QP has turned back to her usual self! Was it just the sun that got to her, though...?
+
+
+
+
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_MAIN >
+Operation Halloween for Adults is a go! Help Tsih collect snacks for a girls' night out!
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_01>
+During games, pumpkins appear on the map and move around.
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_02>
+Landing on a pumpkin will collect it, and it will instantly respawn elsewhere on the map.
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_03>
+Collect pumpkins to complete the operation! They also give you extra candy at the end of a match.
+
+< PLAYMENU_EVENT_HALLOWEEN2019_COMPLETE >
+The operation was a success! If you want, you can still collect more pumpkins for candy.
+
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_MAIN >
+Defeat RoPoChi!
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_01 >
+That fiend's treating my world like her own...!
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_02 >
+She may be stronger than me... but I can help you!
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_03 >
+Let's knock her down and save this world!
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_04 >
+You can help the struggle by fighting against any of the bosses.
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_05 >
+Tomomo is giving the players a magical boost! Co-op abilities are now much faster to acquire!
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_06 >
+You will now start with all Co-op attribute bonuses, and unlock all abilities by level 10. Co-op role level cap has also been lifted.
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_COMPLETE >
+RoPoChi has been defeated, but the true mastermind awaits! Experience the finale of the story in the newly unlocked extra mission.
+
+< PLAYMENU_EVENT_MIO_MISSIONUNLOCK >
+Experience the finale of the story in the newly unlocked extra mission: %s
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_MAIN >
+New quests await in our new Bounty Hunt game mode! Help Ellie and Lulu reach rank B in the Guild to collect enough funds!
+
+// Instruction about the game mode button
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_01 >
+To play the Bounty Hunt mode, toggle between Normal, Co-op and Bounty Hunt when creating a new lobby or starting a single player game.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_02 >
+A new Norma type has been added, which is the only Norma available for this mode: Fame. (Note: characters with Norma restrictions can still complete Fame Norma in this mode).
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_03 >
+You can increase your Fame by completing quests or bounties. Quests and bounties are acquired by stopping at any Home panel, where you will have the option to select a contract.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_04 >
+Quests require you to go to the location shown on the contract in order to fetch an item, then delivering the item to a shop marked with an arrow.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_05 >
+Bounties require you to hunt the monster shown on the contract and will give a varying amount of Fame depending on their difficulty.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_06 >
+Monsters can be found all over the field, and Bounty battles will last for up to 10 rounds. Make sure to gear up before you get into the fight!
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_07 >
+To help you fight the monsters infesting the land, in this mode all characters have a permanent +1 MOV and gain additional stars every chapter!
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_08 >
+Quest locations and shops with various useful items appear over the field. You can stop at any shop in order to buy items and even sell cards!
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_09 >
+Note that your characters' stats affect your shop prices - the less powerful characters get big discounts you can utilize for different strategies!
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_10 >
+A hazy Mirage will appear somewhere on the field, marking the panel the next cleared location will move to. The move instantly happens if a bounty monster is defeated or a shop gets sold out. Then a new panel is marked.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_11 >
+Upon completing your Norma, you'll be able to select one of several perks presented at random. These are permanent and vary from stat bonuses to lower shop prices, etc.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_12 >
+The first time a player reaches Norma 3, an Invader will hit the field. Invaders are enemies with unique abilities that disrupt the game in various ways. Taking them down gives you a bonus!
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_13 >
+A strong new boss will appear when a player reaches Norma 4. Beware of its power! 6 Fame will be given to whoever brings it down!
+
+// Final introduction msg
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_14 >
+It's time for you to become the most famous (and richest) Bounty Hunter in the land!
+
+// Completed.
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_COMPLETE >
+Congratulations! Ellie and Lulu have collected enough bounties to continue their journey! They can keep at it a bit longer if you want, though.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_MAIN >
+It's time for a riverside party! Help Saki, Nath and Kae catch fish for their BBQ!
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_01 >
+To participate in the event, select the Fish-a-Fish game mode when starting a game.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_02 >
+A new minigame will trigger every 10 chapters. All players will participate in it at the same time!
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_03 >
+Cast your hook with the left click of your mouse to catch fish. Look underwater to find the fish you want by moving your mouse around.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_04 >
+After selecting a spot, your hook will sink down to the bottom, and you will automatically reel up the first fish or piece of junk in its way.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_05 >
+Each fish has their own weight and speed. Catch fast or big fish to gain more score!
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_06 >
+The minigame may speed up randomly. This includes both fish speed and your own hook speed.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_07 >
+All players are ranked by their fish score at the end of the fishing phase. Players will be rewarded with Wins based on their ranking and stars based on score.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_08 >
+Pay attention to the grill! It always has a set of 3 fish to catch, and catching them all scores an extra 15 points!
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_09 >
+Everyone has their own grill to fill, so try to complete more sets than your opponents within the time limit!
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_10 >
+Furthermore, catching the same fish type several times in a row will give extra Combo points toward your score.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_11 >
+Your total fishing score from each game is counted toward your event progression. Let's have a great meal!
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_COMPLETE >
+You did it! Saki, Nath, and Kae can now enjoy their BBQ party by the river! But if you're still hungry for more, you can keep fishing!
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_MAIN >
+The mushroom war is on! Put your hunter skills to the test in order to find the two legendary mushrooms!
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_01 >
+To participate in the event, toggle "Seasonal Event" when creating a new lobby or starting a single player game.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_02 >
+You can also play games with the Spores field event active to participate. Note that the frequency of mushrooms is lower as a field event.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_03 >
+Every 2 chapters (or 3 if Seasonal Event is off), mushrooms will spawn on random panels (except in Bounty Hunt). You can pick them up by stopping on a panel that has one.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_04 >
+Upon picking up a mushroom, you receive a card with a random effect. The effects are only revealed when you use them, and are randomized each game.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_05 >
+Legendary mushrooms will appear after the first player reaches Norma level 4! Only one can be picked up in a single game. In Bounty Hunt, these will appear on Shops instead.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_06 >
+The special mushrooms give a powerful Gift card when picked up, which can be stolen by other players if they KO the previous owner.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_07 >
+The progress of the event will increase depending on which legendary mushroom was picked up during that game.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_08 >
+Who will win the mushroom war? Only time will tell...
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_COMPLETE >
+The outcome of the mushroom hunt was a draw(?) this time... but you can still keep searching for more!
+
+< PLAYMENU_TOOLTIP_5YEARANNIVERSARY >
+5-Year Steam Anniversary Gift!\nYou can switch the homestop by clicking on its icon on the avatar screen.
+
+< PLAYMENU_1MILLIONCHARA_UNLOCK >
+Congratulations! The 1 million download bonus character Mio is now available to use!\nHer character and announcer voice options have also been unlocked!
+
+< PLAYMENU_TOOLTIP_10YEARANNIVERSARY >
+10-Year Steam Anniversary Gift!\nYou can switch the card back by clicking on its icon on the avatar screen.
+
+< PLAYMENU_SUMMER2019_RERUN_REVIVE >
+QP wants to play more! Summer Beast has been revived!
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_MAIN >
+Cook is supposed to help Ellie find what she's looking for once she's been fed enough...? In case it turns out useful, let's go around and collect a bunch of food for her!
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_01 >
+To play the Bounty Hunt mode, toggle between Normal, Co-op and Bounty Hunt when creating a new lobby or starting a single player game.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_02 >
+When playing the Bounty Hunt mode, food markers may appear on Shops. Stop at a marked Shop to collect a delicacy.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_03 >
+Quest locations and Shops with various useful items appear over the field, and are refreshed every 6 chapters.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_04 >
+You can stop at any home, Shop, and Quest location - though only if you have the corresponding Quest related to it!
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_05 >
+A new Norma type has been added, and is the only Norma available for this mode: the Fame. (Note: characters with Norma restrictions can still gain Fame Normas in this mode).
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_06 >
+You can increase your Fame by completing Quests or Bounties. Bounties give a varying amount of Fame depending on their difficulty!
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_07 >
+In each game, 2 random Easy, Medium and Hard bounties will be available to hunt, and 6 random Quest locations will appear.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_08 >
+Bounty Battles will last for up to 10 rounds. Make sure to gear up before you get into the fight!
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_09 >
+To help you fight the monsters infesting the land, in this mode all characters have a permanent +1 hand size!
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_10 >
+In addition, players start with boots that grant +1 to MOV and can be upgraded to even better versions in the Shops.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_11 >
+Extra stars can be earned by selling cards to a shop. Different shops may offer different prices for the cards!
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_12 >
+Each Shop type can be upgraded several times by buying items and selling cards. Higher level Shops have improved stock and other benefits!
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_13 >
+A new and unique boss will appear when a player reaches level 4. Beware of its power! 6 Fame will be given to whoever brings it down!
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_14 >
+Moreover, a mysterious Harbinger may appear after chapter 15 and begin to hunt the players. Being defeated by it gives the player -1 Fame, and increases the amount of Fame defeating the Harbinger gives.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_COMPLETE >
+Cook has been fed and the journey is beginning! But you can still keep playing Bounty Hunt to unlock bonus event rewards on your way.
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_MAIN >
+Let's enjoy Mio's coaching and learn to swim! A new Co-op boss, the Swimming Coach, is now available!
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_01 >
+All the damage you deal to Swimming Coach advances the event for everyone.
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_02 >
+You can also fight any other Co-op boss to contribute to the event.
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_COMPLETE >
+The event has been cleared, and Tomomo has learned to swim! You can still take more training sessions with the Swimming Coach, though.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_MAIN >
+It's time to scramble for decorations to trick out the house!
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_01 >
+Decorations can be collected in all game modes by landing on the occasionally appearing Decoration Panels.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_02 >
+Each game mode also has additional ways to collect decorations.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_03 >
+In normal mode, you will gain a decoration by visiting another player's Home Panel. You also gain decorations based on your ranking at the end of the match.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_04 >
+In Co-Op you will gain a decoration from KO'ing a Boss minion. You also gain decorations based on the Boss difficulty upon victory.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_05 >
+In Bounty Hunt, you will receive a decoration from visiting a marked Shop. You also gain decorations based on your ranking at the end of the match.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_06 >
+You can collect up to 4 decorations per match along with the reward from match results.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_COMPLETE >
+The house has been decorated and it's time to enjoy your handiwork with friends! You can still keep collecting more decorations for unlocking costumes in the Shop.
+
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_MAIN >
+Chaos has been unleashed! Play with a selection of various game mutators in the new Chaos Mode during the Fool's Gambit event.
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_01 >
+To play with mutators, toggle between Normal and Chaos Mode when creating a lobby or starting a single player game.\nYou may then select the desired mutator.
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_02 >
+Some mutators have game rewards or achievements disabled for balancing reasons. You can check that in the mutator's description.
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_03 >
+This event does not have an ending or unique rewards. By playing in the Chaos Mode, you'll instead receive one Arcade Token at the end of each game, up to 20 per day.
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_04 >
+It's time to break all the rules! Embrace the chaos!
+
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_MAIN >
+The target is in sight! Let's guide Ellie and Lulu to the lake shrine before Team Arnelle!
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_01 >
+Play games in any game mode to receive Movement Points, then use them to explore the event map!
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_02 >
+You will gain 3 Movement Points for your first game of the day, and an additional point every game.
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_03 >
+One Movement Point allows you to move one panel on the event map.
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_04 >
+Movement points will automatically be used to travel along the chosen path until a crossroads.\nIt's up to you which path you will take on the journey.
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_05 >
+Passing certain panels will grant you stars, oranges, a random cosmetic or even an event reward!
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_06 >
+Who will obtain the fabled treasure? Only time will tell...
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_COMPLETE >
+You have reached the shrine! However, you may repeat the trek as many times as you want for even more rewards.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_MAIN >
+Christmas cakes around the world are in danger! We must search far and wide and dispose of Mio's abominable cakes!
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_01 >
+A special "Mio's False Cake" card will be added to every player's hand every 6 chapters.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_02 >
+To safely dispose of this foul creation, either consume it (at your own peril) for a random effect, or throw it at an opponent to deal 1 damage.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_03 >
+Playing event games in any game mode will reward you tasty Christmas cakes which can be used in the Shop to unlock rewards. The event can be toggled off when creating a game.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_04 >
+The event is successful when all of Mio's "cakes" have been safely disposed of by players all around the world.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_05 >
+The two event counters correspond to the method of disposing of the cakes, and either can be used to progress toward the ending.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_06 >
+To unlock the event's ending, you must reach your personal goal of event games played, which will also give you a prize independent of the global event progress.
+
+< PLAYMENU_EVENT_WINTER2022_COMPLETE_01 >
+The world has been saved! Everyone can happily enjoy tasty Christmas cakes again instead of whatever that was! You can still keep searching for leftover cakes.
+
+< PLAYMENU_EVENT_WINTER2022_COMPLETE_02 >
+A new cake trend is here! Everyone can enjoy Mio's fashionable creations around the world! You can still keep searching for more cakes if you haven't had your fill.
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_MAIN >
+We're surrounded! Help Ellie and Lulu fight off hordes of aggressive Mousse to get your hands on the promised treasure!
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_01 >
+Play games in the Treasure Tails event mode or Bounty Hunt mode to fight Mousse!
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_02 >
+Treasure Tails is an adjusted version of Bounty Hunt game mode with several key differences including lower Norma, 50% cheaper shop prices, and extra +1 hand size.
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_03 >
+The 3 Bounties available are always Mousse (easy), Key Lime Mousse (medium) and Strawberry Mousse (hard).\nDefeat any of them to progress in the event!
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_04 >
+In addition, completing a Quest will trigger a bounty fight against a 2 HP Mousse instead of granting 2 fame immediately.
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_05 >
+Finally, a new invader, Dark Chocolate Mousse, will doom players' stars instead of their lives...\nDefeating Dark Chocolate Mousse grants 3 points of progress in the event.
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_06 >
+What are the Mousse guarding, and why...?
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_COMPLETE >
+You have found the "treasure" Ellie was seeking for... but what is going on now?
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_MAIN >
+A new foe appears! The god of the world demands a bad ending! Recall those memories of the time you spent together to resist her.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_01 >
+Play games in any game mode to receive Memory Fragments, then use them to progress on the event map!
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_02 >
+You will gain 3 Memory Fragments for your first game of the day, and an additional Memory Fragment every game.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_03 >
+One Memory Fragment allows you to progress one panel on the event map.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_04 >
+Memory Fragments will automatically be used to travel along the chosen path until a crossroads.\nIt's up to you which path you will take on the journey.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_05 >
+Passing certain panels will grant you stars, oranges, or a random cosmetic!
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_06 >
+Can you recall those memories and help Lulu conquer her darkness?
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_MAIN2 >
+The final battle awaits! Defeat Mio in the Extra Mission "Divine Punishment"!
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_COMPLETE >
+You have overcome the bad ending laid out by the god of the world! An endless journey lies ahead! You may continue on to collect more rewards.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_MAIN >
+Duke it out over a delicious meal at Family Restaurant Pures! Regular customers earn loyalty rewards!
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_01 >
+For the duration of this event, players will be able to play a new game mode: Tag Team!
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_02 >
+You can get a stamp on your Family Restaurant Pures Loyalty Card by playing a game of Tag Team, or 2 games in other game modes!
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_03 >
+In Tag Team, you'll be able to choose an additional character as a Partner to accompany you in games.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_04 >
+You can choose to Tag on your turn to switch places between the characters you have selected. The Leader character will then exchange places with your Partner!
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_05 >
+Once you Tag, you won't be able to do so again for 3 chapters. Decide carefully before using it!
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_06 >
+If the Leader ends up getting KO'd, they'll be forced to Tag if their Partner is not KO'd as well. This will put the Tag action on cooldown, so be careful out there!
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_07 >
+Your Partner will recover HP automatically after a certain amount of chapters pass. If they are KO'd, they will recover after an amount of turns equal to their REC stat passes.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_08 >
+Hovering over your Partner's portrait will show when the next occurrence of their recovery will be.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_09 >
+Any card effects your partner currently has will not have their duration decreased.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_10 >
+If your partner has any unit effects that would affect the game, their effects will NOT be active unless they return back onto the field.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_11 >
+Effects that apply to self after recovering from KO will still apply to your partner once KO recovery takes place.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_12 >
+Plan out your best tag team and become the local 100% Orange Juice champion!
+
+< PLAYMENU_EVENT_NEXT_GOAL >
+Next goal:
+
+< PLAYMENU_EVENT_FINAL_GOAL >
+Final goal:
+
+< PLAYMENU_EVENT_DATE_MONTH >
+%d.%d
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_BEGINNING >
+Beginning
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_ENDING >
+Ending
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_INTERLUDE >
+Interlude
+
+< PLAYMENU_EVENT_BOUNTYHUNTERS_FAME >
+Fame: %d
+
+< PLAYMENU_EVENT_BOUNTYHUNTERS_RIBBON >
+You got Lulu's ribbon!
+
+< PLAYMENU_LOADING_TEXT >
+Loading...
+
+< PLAYMENU_CONNECTING_TEXT >
+Connecting...
+
+< PLAYMENU_INVENTORY_STACKING_TEXT >
+Stacking inventory items...
+
+< PLAYMENU_2MDOWNLOADS_MESSAGE >
+Thank you for over 2 million downloads!\nNew Extra mission available!\nWhat is Mio up to...?
+
+< MENU_BOSS_DIFFICULTY_CASUAL >
+Casual
+
+< MENU_BOSS_DIFFICULTY_NORMAL >
+Normal
+
+< MENU_BOSS_DIFFICULTY_EXTREME >
+Extreme
+
+< MENU_BOSS_DIFFICULTY_HYPER >
+Hyper
+
+
+< MENU_COOPCLASS_ATTACKER >
+Attacker
+
+< MENU_COOPCLASS_GUARDIAN >
+Guardian
+
+< MENU_COOPCLASS_SUPPORT >
+Support
+
+< MENU_COOPCLASS_AVENGER >
+Avenger
+
+< MENU_COOPCLASS_DEALER >
+Dealer
+
+< MENU_COOPUNLOCK_LEVEL >
+Level %d: %s
+
+< MENU_COOPUNLOCK_ABILITY >
+Ability: %s\n%s
+
+< MENU_COOPUNLOCK_ORANGES >
+Oranges +%d
+
+< MENU_COOPUNLOCK_DECKPOINT >
+Deck point +%d
+
+< MENU_COOPUNLOCK_ROLEHYPER >
+Role hyper
+
+< MENU_COOPUNLOCK_NEWBOSS >
+%s is now available to fight in the Co-op game mode!\nYou can change the boss using the arrows next to their name when creating a game.
+
+< MENU_COOPUNLOCK_HYPERDIFFICULTY >
+Hyper difficulty is now available for %s in the Co-op game mode!
+
+< MENU_COOPUNLOCK_NEWCLASS >
+A new role is now available in Co-op mode: %s!
+
+< MENU_SHOP_RETIREDEVENTITEM >
+Event rewards for %s have been added to the shop!
+
+< MENU_WEEKLY_FREE_LABEL >
+FREE THIS WEEK
+
+< MENU_WEEKLY_FREE_TOOLTIP >
+You may play using these 2 DLC or bonus characters for free this week.\nAnnouncer voices for them can also be used.
+
+< MENU_MODMENU_DETAIL_1 >
+Description
+
+< MENU_MODMENU_DETAIL_2 >
+Changelog
+
+< MENU_MODMENU_DETAIL_3 >
+Modified Files
+
+< MENU_VISIT_STEAM_WORKSHOP >
+Visit the Steam Workshop
+
+< MENU_WORKSHOP_THUMBNAIL_REQUIRED >
+A custom thumbnail is required for publishing your mod.\n\nRefer to the modding documentation for more information.
+
+< MENU_WORKSHOP_CONTEST_UNAVAILABLE >
+You cannot submit this item:\nThere is no active contest at this time.
+
+< MENU_WORKSHOP_AGREEMENT_ERROR >
+You cannot submit this item:\nThe Steam Workshop legal agreement wasn't accepted.
+
+< MENU_WORKSHOP_PUBLISH >
+Publish
+
+< MENU_WORKSHOP_WORKSHOP_BTN >
+Workshop
+
+< MENU_WORKSHOP_PUBLISHING >
+Publishing your mod to the Steam Workshop...
+
+// The website will be below this message as a link
+< MENU_WORKSHOP_PREMESSAGE >
+By publishing, or updating your mod to the Steam Workshop, you agree to the terms of service defined on the following webpage:
+
+< MENU_WORKSHOP_ERROR >
+The Steam Workshop Service has returned an error. \n\n %s
+
+< MENU_WORKSHOP_ERROR_1 >
+Not enough privilege to do this action.
+
+< MENU_WORKSHOP_ERROR_2 >
+You have been banned from uploading content to the workshop.\nContact the Steam Support.
+
+< MENU_WORKSHOP_ERROR_3 >
+Timed out. Please retry later.
+
+< MENU_WORKSHOP_ERROR_4 >
+No connection to Steam.
+
+< MENU_WORKSHOP_ERROR_5 >
+The workshop server is currently unavailable.\nTry again later.
+
+< MENU_WORKSHOP_ERROR_6 >
+One submission field does not seem to be valid.
+
+< MENU_WORKSHOP_ERROR_7 >
+You have exceeded your uploading quota.\nRemove some workshop items and try again.
+
+< MENU_WORKSHOP_ERROR_8 >
+The file couldn't be found.\nTry deleting the workshop.dat file in the mod directory and try again.
+
+< MENU_WORKSHOP_ERROR_9 >
+This item was already submitted.\nPlease refresh your submissions.
+
+< MENU_WORKSHOP_ERROR_10 >
+An item already exists with that name.\nMake sure your item's name is unique.
+
+< MENU_WORKSHOP_ERROR_11 >
+Due to a recent password or email change, you are not allowed to upload new content.
+
+< MENU_WORKSHOP_ERROR_12 >
+Access denied.
+
+< MENU_WORKSHOP_ERROR_13 >
+Unknown error.
+
+< MENU_PLATE_FIRSTTIMEUNLOCK >
+You can now customize your player plate!\nSeveral unlocks will follow from this message as you cleared past events, campaigns, or meet a specific Level.\nYou can personalize your plate in User Info -> Avatar.
+
+< MENU_PREVIEW >
+Preview
+
+< MENU_PLATEBG_UNLOCK >
+New plate background unlocked!
+
+< MENU_PLATEFRAME_UNLOCK >
+New plate border unlocked!
+
+< MENU_PLATEFRAME_PIN >
+New plate pin unlocked!
+
+// eg.: Online Level 200 Reward
+< MENU_PLATE_STEAMLEVEL_REWARD >
+Online Level %d Reward
+
+< MENU_PLATE_EVENTCLEAR_REWARD >
+Event Clear Reward
+
+< MENU_PLATE_CAMPAIGNCLEAR_REWARD >
+Campaign Clear Reward
+
+< MENU_PLATE_DLCPURCHASE_REWARD >
+DLC Purchase Reward
+
+< MENU_NOW_SAVING >
+Saving...
+
+// %% is not a typo. Keep it as is.
+< MENU_FRIENDLIST_HEADER >
+%d friends online. %d playing 100%% Orange Juice!
+
+< MENU_FRIENDLIST_INVITE >
+Invite Friends
+
+< MENU_CPU_CUSTOMIZATION_BTN >
+Customize CPU
+
+< MENU_CPU_CUSTOMIZATION_TITLE >
+CPU Customization
+
+< MENU_VOCALIZER_GENERIC_CATEGORY >
+Generic
+
+< MENU_VOCALIZER_NORMAL_CATEGORY >
+Normal
+
+< MENU_VOCALIZER_SPECIAL_CATEGORY >
+Special
+
+< MENU_ENDGAME_REWARDS_DISABLED >
+Endgame Rewards are disabled.
+
+< MENU_ACHIEVEMENTS_DISABLED >
+Achievements are disabled.
+
+< MENU_CODEX_INFO_LABEL >
+Information
+
+< MENU_CODEX_MORESOON_LABEL >
+More units coming soon!
+
+< MENU_CODEX_INSTRUCTION_1 >
+Welcome to the OJDex!\nThis interface of infinite knowledge allows you to browse unit profiles, with more coming in the future.
+
+< MENU_CODEX_INSTRUCTION_2 >
+In order to unlock character information, you need to play a certain amount of online games with that character in any game mode. Note that previously tracked Normal mode online games have been added to the progress tracker.
+
+< MENU_CODEX_INSTRUCTION_3 >
+Once you reach 50 online games with a unit, you will unlock their respective player plate pin.
+
+< MENU_CODEX_INSTRUCTION_4 >
+We hope you will enjoy this new feature. Feel free to post your feedback on the Steam forums, or our Discord server!
+
+< MENU_CODEX_TAB_LORE >
+Unit Lore
+
+< MENU_CODEX_TAB_STORIES >
+Side Stories
+
+< MENU_CODEX_READSTORY >
+Read Story
+
+< MENU_CODEXSTORY_TITLE_FAMILY >
+Family
+
+< MENU_CODEXSTORY_TITLE_CLASSCHANGE >
+Class Change
+
+< MENU_CODEXSTORY_TITLE_LULUWATTY >
+Commiseration
+
+< MENU_CODEXSTORY_TITLE_CONCIERGE >
+Concierge
+
+< MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
+Play {0} games as {1}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_2UNITS >
+Play {0} games as either {1} or {2}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_NUNITS >
+Play {0} games as any of the following units: {1}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_EVENT >
+Clear "{0}" event.
+
+< MENU_CODEXSTORY_UNLOCKCOND_HATS_1UNIT >
+Unlock an accessory or hair color for {0}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_HATS_NUNITS >
+Unlock an accessory or hair color for any of the following units: {0}.
+
+< MENU_NORMABOARD >
+Norma Upgrade
+
+< MENU_HIDE_UI >
+Hide UI
+
+< MENU_SHOW_UI >
+Show UI
+
+< MENU_CARDBACK_UNLOCK >
+New card back unlocked!
+
+< MENU_CHAPTER_LABEL >
+Chapter
+
+< MENU_UNAVAILABLE_LABEL >
+Currently unavailable.
+
+< MENU_DIRECT_TO_SHOP_BUY_CARD >
+You can use Stars earned from matches to buy more Booster packs for new cards in the Shop!
+
+< MENU_HOLD_CLICK_SPEEDUP >
+Hold Left-click to speed up
+
+[EOF]

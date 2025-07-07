@@ -1,0 +1,160 @@
+<0000> Ok, certo.
+<0001> Hmph.
+<0002> Aí.
+<0003> Yoh.
+<0004> É isto.
+<0005> Não tem problema usar isto, certo?
+<0006> Eu vou jogar esta aqui.
+<0007> Eu escolho esta carta.
+<0008> Cuidado.
+<0009> Eu vou colocar isto aqui.
+<0010> Quem cairia nisto?
+<0011> Isto pode ou não ajudar.
+<0012> Não fique tão surpreso.
+<0013> Eu vou usar isto agora.
+<0014> Eu vou te mostrar algo especial!
+<0015> Eu vou com tudo.
+<0016> Eu vou botar um fim nisto.
+<0017> Estou de pé novamente. Vamos lá.
+<0018> Reiniciação completa.
+<0019> Tudo corrigido agora.
+<0020> Hora de compensar o que foi perdido.
+<0021> Eu não tenho tempo a perder.
+<0022> Qual é.
+<0023> Eu ainda não posso levantar?
+<0024> Eu tenho que esperar mais?
+<0025> Que tal esta!
+<0026> Toma esta!
+<0027> Vá!
+<0028> Se prepare!
+<0029> Ugh!
+<0030> Guh!
+<0031> Isto dói.
+<0032> O que foi que me acertou!?
+<0033> Deixe-me consertá-lo.
+<0034> Vou te dar os primeiros socorros.
+<0035> Continue, por favor.
+<0036> Isto é de grande ajuda.
+<0037> O que raios é isto?
+<0038> E estou passando por uma turbulência.
+<0039> Para onde você está me levando?
+<0040> O que está acontecendo aqui?
+<0041> Eu fui derrotada.
+<0042> Eu acabei de cometer um erro doloroso.
+<0043> Não consigo segurar mais!
+<0044> Estou perdida.
+<0045> Eu não tenho outra escolha além de combater.
+<0046> Eu serei quem irá começar atacando.
+<0047> Saia do meu caminho.
+<0048> Eu vou chutar sua bunda.
+<0049> Certo, venha até mim.
+<0050> Mas que problemático.
+<0051> Não se arrependa disso.
+<0052> Você possui muita coragem para me desafiar.
+<0053> Eu vou te acertar!
+<0054> Toma isto!
+<0055> Você está acabado!
+<0056> Aceite sua derrota!
+<0057> Kuh!
+<0058> Isto dói.
+<0059> Como ousa.
+<0060> Eu fui atingida.
+<0061> Guah!
+<0062> Estou acabada!
+<0063> Oh, porcaria!
+<0064> Tiro certeiro!
+<0065> Mhm.
+<0066> Essa foi por pouco.
+<0067> Você não pode me acertar.
+<0068> Eu consegui prever isto.
+<0069> Não odeie os jogadores.
+<0070> Até mais.
+<0071> Volte para mim quando você estiver mais forte.
+<0072> Você me deu trabalho.
+<0073> Falha minha.
+<0074> Você está em apuros agora.
+<0075> Você se saiu melhor do que eu imaginava.
+<0076> Devia ter tomado mais cuidado.
+<0077> Bom.
+<0078> Ótimo.
+<0079> Nada mal.
+<0080> Vou tomar estes.
+<0081> Ai ai.
+<0082> Certo.
+<0083> Já entendi, já entendi.
+<0084> É o quê?
+<0085> *Tsc*!
+<0086> Eu errei.
+<0087> Oh, você vai se ferrar agora.
+<0088> Eu estou tão irritada.
+<0089> Eu já estou com problemas o suficiente.
+<0090> O que foi agora?
+<0091> Eu vou lidar com você se isto me der um bônus.
+<0092> Maior nem sempre é melhor.
+<0093> Eu escolho estrelas.
+<0094> Estrelas.
+<0095> Acho que vou com estrelas.
+<0096> Eu espero conseguir diversas delas facilmente.
+<0097> Sério, eu faço o suficiente disso no trabalho.
+<0098> Quantos mais eu preciso abater?
+<0099> Se é isto que tenho que fazer, isto é o que irei fazer.
+<0100> Qual a maneira fácil de resolver isto?
+<0101> Eu não tenho escolha... Eu acho.
+<0102> Se eu consigo voar... Eu acho que está ok.
+<0103> Eu...? Ah, mano.
+<0104> Que pedra no sapato.
+<0105> Certo, vamos logo começar.
+<0106> Vamos acabar com isto.
+<0107> Ok, vamos fazer isto.
+<0108> Ficar irritada não vai me levar a lugar algum.
+<0109> Mas que piada que foi isto.
+<0110> Mal posso esperar pelo bônus da minha vitória.
+<0111> Agora acabou, então... Mas que dia.
+<0112> Que tal alguns tin-tins por mim?
+<0113> Vou pegar isto.
+<0114> Nunca vi este.
+<0115> Nós conseguimos algo novo.
+<0116> Parece que a gente não tinha este ainda.
+<0117> Hora de trocar.
+<0118> ...Certo, você consegue.
+<0119> Eu vou descansar um pouco.
+<0120> É seu turno.
+<0121> Ok.
+<0122> Nada mal.
+<0123> Claro.
+<0124> Nope.
+<0125> Não.
+<0126> Whoa.
+<0127> Ãhn?
+<0128> Creio que está na hora de ir...
+<0129> Aqui vai.
+<0130> Vamos.
+<0131> Yo.
+<0132> Ah, mano.
+<0133> Ótimo.
+<0134> Incrível.
+<0135> Ãhn!
+<0136> Como isto é sequer possível!?
+<0137> Creio que usar isto é melhor do que perder.
+<0138> Não diga que isto não é justo.
+<0139> Não tem problema usar isto, certo?
+<0140> Pode vir. Eu não vou pegar leve com você.
+<0141> Você vai perder.
+<0142> Não importune-a muito, ok?
+<0143> Eu queria lutar com você uma vez.
+<0144> Me impressione.
+<0145> Isto vai me fazer parecer uma bully, né?
+<0146> Eu vou te fortalecer.
+<0147> Eu vou te destruir para poder abrir meu caminho em frente.
+<0148> Sem mais problemas entre nós, ok?
+<0149> Nada é mais ridículo do que isto.
+<0150> Chegue mais perto e você irá se arrepender.
+<0151> Ótimo, quanto que isto custa?
+<0152> Pois eu não aguento empates.
+<0153> Eu não me lembro de ser equipada com isto.
+<0154> Eu não quero quaisquer problemas.
+<0155> Eu não quero ser que nem ela... mas eu quero fazer isto aqui agora.
+<0156> Por favor não me acerte.
+<0157> Espero que isto não me traga azar.
+<0158> Sem mágoas.
+<0159> Mano, que jogo fácil.

@@ -1,0 +1,162 @@
+
+<0000> Guía mi destino.
+<0001> Todo está en la voluntad del dado.
+<0002> Guíame hacia la oscuridad.
+<0003> Esto me llevará adelante.
+<0004> La carta que revelará el color de la oscuridad.
+<0005> La llave hacia el poder sellado.
+<0006> El poder para distorsionar un mismo destino.
+<0007> Una invitación hacia la derrota.
+<0008> Un pecado será capturado por esto.
+<0009> Baila sobre la palma de mi mano.
+<0010> Una carta trampa *sonrisa*.
+<0011> El miedo surgirá.
+<0012> ¡La carta que llamará al sangriento destino!
+<0013> Desata el poder oculto dentro de mi ojo.
+<0014> Ahora enfádate, entra en pánico y llora sin cesar.
+<0015> ¿Acaso demando más poder? Sí, lo hago.
+<0016> Mis sirvientes... vayan por ellos.
+<0017> La princesa de la oscuridad se ha despertado.
+<0018> Mi sello se ha liberado.
+<0019> El poder que se arrastra en la oscuridad...
+<0020> El regreso de Krilalaris...
+<0021> Todavía no hay razón para apresurarse... o al menos, eso creo.
+<0022> Mi apetito es voraz.
+<0023> Me siento muy débil... necesito comer...
+<0024> El poder sellado es demasiado fuerte, no puedo combatirlo.
+<0025> Bautismo de dolor.
+<0026> Desaparece en la oscuridad.
+<0027> Violencia poco razonable.
+<0028> Fujajaja.
+<0029> Au.
+<0030> Bufuu...
+<0031> Kyan.
+<0032> Eso duele.
+<0033> La oscuridad corre sobre mis heridas.
+<0034> Es hora de comer, así que podré liberar la oscuridad en mi estómago.
+<0035> Una habilidad curativa impresionante.
+<0036> Ah, el dolor se ha ido...
+<0037> Dejaré que la oscuridad me lleve consigo.
+<0038> Un camino desordenado.
+<0039> A través de un espacio deformado.
+<0040> ¿En dónde terminare...?
+<0041> La oscuridad me comerá...
+<0042> Aaaaah... estoy tan hambrienta...
+<0043> Será el momento de sellarme a mí misma...
+<0044> Fuaaaa, esto es simplemente horrible...
+<0045> Pelear entre tú y yo es parte de nuestros destinos.
+<0046> Permítenos comenzar una batalla...
+<0047> Ríos de sangre fluirán...
+<0048> Es la hora del duelo.
+<0049> Que arrogante de tu parte el desafiarme a una batalla.
+<0050> Esta será una batalla oscura y llena de sangre...
+<0051> Realmente no necesito ningún tipo de dolor, ¿está bien?
+<0052> Hmph... qué acto tan osado.
+<0053> Garras afiladas demandan más sangre.
+<0054> Las garras de mis bestias...
+<0055> Perdóname si esto te duele mucho.
+<0056> Ataquen.
+<0057> Eso dolió.
+<0058> La oscuridad... Ugh...
+<0059> ¡Jego!
+<0060> Oww.
+<0061> Eso duele, por favor detente.
+<0062> ¿¡Qué!? ¡Aah, fueee!
+<0063> ¡La oscuridad está en peligro, tienes que detenerte!
+<0064> ¡Hmbujah!
+<0065> La oscuridad te ha cegado.
+<0066> Mi esplendida evasión.
+<0067> Tu ataque estaba destinado a fallar.
+<0068> ¡Tan cerca! Es decir... esquivarlo fue muy fácil.    
+<0069> El néctar de la victoria... ¿Será delicioso?
+<0070> Este es el poder de mi destino...
+<0071> Eso estuvo cerca... es decir, fue pan comido.
+<0072> Perdóname si esto te lastima demasiado.
+<0073> Estoy muy adolorida...
+<0074> Oscuridad... ¡*Tos* *Tos*!
+<0075> Esto no es gracioso...
+<0076> Hau... estoy exhausta...
+<0077> ¡Dinero! ¡Dinero!
+<0078> ¿Esto me podrá comprar comida?
+<0079> El destino demanda el abastecimiento de mi estómago.
+<0080> Hoy disfrutaré de un delicioso pedazo de carne animal...
+<0081> ¡D-d-dineeroooooo!
+<0082> No, no te vayas por fa-... No...
+<0083> Agagagagah...
+<0084> Por qué tuvieron que dejarme...
+<0085> Un miedo que se acerca por el suelo...
+<0086> Hmph, no caería en algo como esto... Oh vaya, si lo hice.
+<0087> Usar trampas es de tramposos...
+<0088> Unyuu.
+<0089> ¡El rey de la oscuridad...!
+<0090> Quién desato la furia de esa cosa...
+<0091> Este olor me trae muchos recuerdos.
+<0092> T-tengo miedo...
+<0093> Dinero, conseguiré mucho dinero.
+<0094> Las estrellas brillarán en mis manos.
+<0095> Las estrellas son dinero. Me comprarán esa comida que se amasa y hornea.
+<0096> Por el bien de la comida de mañana...
+<0097> El rey de las bestias demanda sangre.
+<0098> La pelea comenzará.
+<0099> Le llevaré victorias a mi rey.
+<0100> Mi poder... está fuera de control... Uooh.
+<0101> ¿Deseas que la oscuridad te otorgue los mismos poderes que yo tengo?
+<0102> Yo soy Krilalaris... es un placer conocerte.
+<0103> Estoy atrapada entre el hambre y la oscuridad. Aliméntame.
+<0104> Trabajaré muy duro, así que consígueme comida.
+<0105> Es la hora del duelo...
+<0106> La oscuridad me ha enseñado a ganar este juego.
+<0107> Me conseguiré algo delicioso si gano...
+<0108> Fufu... Un juego de la oscuridad...
+<0109> Esta victoria era de esperarse...
+<0110> Esto es lo que mi poder oculto es capaz de hacer.
+<0111> Estoy muriendo de hambre... necesito comer...
+<0112> Necesito carne...
+<0113> Bienvenidos a la nueva oscuridad.
+<0114> Un poder que nunca antes había visto.
+<0115> Otro sello se ha roto.
+<0116> ¿Querías eso? Si te gusta, entonces me siento aliviada.
+<0117> Cambio oscuro.
+<0118> Quiero que lo tomes desde aquí.
+<0119> Quiero un poco de tiempo para comer.
+<0120> Ven aquí, mi otro yo.
+<0121> Bien.
+<0122> Gran oscuridad...
+<0123> Con certeza.
+<0124> No.
+<0125> Que horrible...
+<0126> Que afortunado de tu parte.
+<0127> ¿Oh...?
+<0128> Junto con la oscuridad.
+<0129> El dado del destino ha sido convocado...
+<0130> Ahora.
+<0131> ¿Cómo te va?
+<0132> Auu.
+<0133> Exultación.
+<0134> ¿Cuanta... tanta... oscuridad...?
+<0135> Rayos...
+<0136> Usaré este poder.
+<0137> Tomaré prestada la oscuridad de alguien más.
+<0138> Esta carta sellada se llama... Espera, no conozco esta carta.
+<0139> ¿Está bien si uso esta carta?
+<0140> Gracias...
+<0141> Bailen, bestias orejudas...
+<0142> Admirad la danza de mis sirvientes.
+<0143> Hm... Mi sangre me está diciendo que tengo que acabar contigo.
+<0144> La forma en la que luces... sin dudas estamos destinadas a pelear.
+<0145> Siento que estamos conectadas. Algo debe haber ocurrido en nuestras vidas pasadas.
+<0146> Incluso si yo no estoy, más de mí... *Murmullo* *Murmullo*.
+<0147> ¡Estoy en el séptimo cielo! *Sollozo*
+<0148> La oscuridad me ha convocado a este lugar.
+<0149> Este lugar me complace... Aunque también me aterra un poco.
+<0150> Hmph, este es un santuario de la oscuridad.
+<0151> Este es el mejor campo de batalla para una pelea decisiva.
+<0152> Santa... al parecer, si existe.
+<0153> Santa... la que está llena de sangre.
+<0154> Gané esta batalla de la oscuridad. Ahora, entrégame esos regalos.
+<0155> S-Santa pateó mi trasero...
+<0156> Nunca hubiera esperado tener que pelear contigo.
+<0157> ¿Eh? ¿Por qué tenemos que pelear?
+<0158> A partir de este momento, yo seré la jefa.
+<0159> Detestable...
+<0160> ¿G-Gerente...? ¿Por qué esta aquí...?

@@ -1,0 +1,159 @@
+<0000> Hmph.
+<0001> Qué frívolo.
+<0002> Hmm...
+<0003> El resultado es lo que verdaderamente importa.
+<0004> Haremos que esto sea interesante.
+<0005> Yo siempre llevo mis cartas cerca de mi pecho.
+<0006> ¡Ha llegado la hora!
+<0007> ¡Vamos!
+<0008> ¿Qué es lo que esto podrá ser...?
+<0009> Hmph. Todos mis movimientos han sido planeados con anticipación.
+<0010> Este es un bloque del futuro.
+<0011> Espero que esto no te moleste demasiado.
+<0012> Siempre estoy preparado.
+<0013> Esto dejará todo a mi favor.
+<0014> Hmph. Esto lo hará bien.
+<0015> Este es un riesgo calculado.
+<0016> Será este el color del cielo que una vez he llegado a ver...
+<0017> No es la hora de dormirse en los laureles.
+<0018> ¿Oh? ¿Otra vez ha llegado la mañana...?
+<0019> Mm... ese ha sido un sueño poco placentero...
+<0020> Manos a la obra.
+<0021> Soñaré un poco más...
+<0022> Mmmh.
+<0023> O-oh...
+<0024> Me quedaré aquí... esperando...
+<0025> ¡Cañones!
+<0026> ¡Abrid fuego!
+<0027> Hmph. ¡Ahí!
+<0028> ¡Ve!
+<0029> N-no es nada más que un pequeño rasguño.
+<0030> ¿Cómo es que esto pudo haber ocurrido?
+<0031> Oh vaya.
+<0032> ¡Mmh!
+<0033> Te doy las gracias.
+<0034> Ahh... eso ha dado en el blanco.
+<0035> Realmente necesitaba de eso.
+<0036> Hrmh, muy bien.
+<0037> Hmm... esto cambiará las cosas.
+<0038> Ya veo, ya veo. Le haré un pequeño ajuste a mis planes.
+<0039> Un cielo desconocido...
+<0040> Hmph. Sin importancia.
+<0041> ¡Harumph!
+<0042> ¡Mi sueño!
+<0043> ¡Esto no será el fin! Volveré...
+<0044> Fue bonito mientras duró.
+<0045> ¡Mi batalla no ha acabado aún!
+<0046> Algo me dice que tú estás en mi camino.
+<0047> ¿Realmente te atreverías a cruzarte en mi camino?
+<0048> Lamento decir que debo insistir.
+<0049> Te he estado esperando.
+<0050> Haría una pequeña reconsideración si fuera tú.
+<0051> ¡Inténtalo si te atreves!
+<0052> ¿A quién le debo el placer?
+<0053> Mis disculpas.
+<0054> Te recomendaría hacer un poco de espacio.
+<0055> ¡Vamos!
+<0056> ¡Así es como esto se hace!
+<0057> ¡Hmmh!
+<0058> Ooof.
+<0059> ¡Ugh!
+<0060> Esto es un poco...
+<0061> ¡Hnngh!
+<0062> ¡H-hmm!
+<0063> ¡Qué torpeza!
+<0064> He... he tenido peores...
+<0065> Hmph.
+<0066> Un esfuerzo poco vasto.
+<0067> ¡Inténtalo otra vez!
+<0068> Esta es una maniobra que aprendí en los días de mi juventud.
+<0069> Es algo simplemente natural.
+<0070> Era de esperarse.
+<0071> No podrás decirme que yo no te lo he advertido.
+<0072> Acepto tu rendición.
+<0073> ¡Otra vez no!
+<0074> ¡Me estoy hundiendo...!
+<0075> ¡Daño crítico...!
+<0076> Has ganado esta vez.
+<0077> La aseguración de un financiamiento es algo esencial.
+<0078> No es mucho, pero lo tomaré.
+<0079> Sacaré provecho de esto.
+<0080> Me quedaré con esto.
+<0081> Un revés temporal...
+<0082> Esto no estaba en mis planes...
+<0083> ¡¿Pero qué?! ¡Esto es un robo!
+<0084> Las tarifas... ¡Bah!
+<0085> ¡Todos mis planes...!
+<0086> ¡¿Qué es esto?!
+<0087> Bueno, si seré...
+<0088> Hmmh... Un error.
+<0089> Hmph. Un desafío digno.
+<0090> En estos cielos sólo hay espacio para uno de nosotros dos.
+<0091> Bah. ¿Crees que le podría temer a algo así?
+<0092> Qué interesante.
+<0093> Hay muchos caminos hacia la victoria.
+<0094> Hrmh. Haré que el cielo me pertenezca.
+<0095> Ha pasado mucho tiempo desde la última vez que seguí a las estrellas...
+<0096> Esto también es un camino hacia la victoria.
+<0097> Hmph. Siempre juego para ser el ganador.
+<0098> Mi victoria ha sido garantizada.
+<0099> Una última victoria antes de cumplir con mi sueño.
+<0100> Por el bien de un futuro mejor.
+<0101> Sólo dime Malta.
+<0102> Hmph. Te daré un buen uso.
+<0103> Hmmh... ¿Así que ha llegado la hora de subirme al escenario una vez más?
+<0104> Mi sueño... sigue con vida.
+<0105> Esto sólo ha sido el comienzo.
+<0106> ¡Me apoderaré del futuro!
+<0107> ¿Acaso ha llegado la hora de que mis planes se conviertan en una realidad?
+<0108> Todas las piezas están uniéndose.
+<0109> Después de todo, el cielo es realmente bello.
+<0110> Aún puedo ver ese sueño.
+<0111> Nadie podrá darte el futuro que tú quieres. Debes apoderarte de él con tus propias manos.
+<0112> Desde aquí, la vista parece ser un sueño.
+<0113> No pierdas eso. Es necesario para mis planes.
+<0114> Y otra pieza ha sido unida.
+<0115> Esto es simplemente apropiado.
+<0116> Fumu. Bien merecido.
+<0117> Cómprame un poco de tiempo, ¿quieres?
+<0118> Distráelos mientras me preparo.
+<0119> Vamos. Muéstrales de lo que eres capaz.
+<0120> Hmph. Haz que me sienta orgulloso.
+<0121> Hmm-h.
+<0122> No está mal.
+<0123> Muy bien.
+<0124> Me rehúso.
+<0125> Qué pena.
+<0126> La diosa de la fortuna está brillando sobre ti el día de hoy.
+<0127> ¿Qué es eso?
+<0128> A despegar.
+<0129> Hora de lanzar los dados.
+<0130> ¡Ha llegado el momento!
+<0131> Encantado de conocerte.
+<0132> Hmm, hmm...
+<0133> Bien, bien.
+<0134> Excelente.
+<0135> ¡Maldición!
+<0136> Puedo ver que este objeto tiene un gran potencial.
+<0137> Hmph. Mira y aprende.
+<0138> Haré que esto funcione.
+<0139> Muy bien. Usaré todo lo que se necesite.
+<0140> Te lo agradezco.
+<0141> ¿Maestro del Gremio? Ya no llevo ese título.
+<0142> ¡Aquí voy, novata!
+<0143> ¡Intenta detenerme si es que puedes, Barril Rojo!
+<0144> El deber de la generación mayor es enseñarle una buena lección a los jóvenes.
+<0145> Hmph. Debo reconocerte.
+<0146> ¿Acaso que estás aquí para detenerme, viejo amigo?
+<0147> ¿Finalmente has aceptado que te invite un trago? ¿No?
+<0148> Hmph. El ser joven e imprudente una vez más...
+<0149> ¡Fuera de mis cielos, vil pirata!
+<0150> Buenos días, pequeña dama. ¿Estás aquí con tu padre?
+<0151> Me pregunto por qué una dama tan joven querría acercarse a un anciano como yo.
+<0152> ¿Te atreves a mostrarme tus colmillos? Muy bien.
+<0153> Nunca es muy tarde para unirte a mí una vez más, señorita. Podría usar más pilotos.
+<0154> El símbolo del gremio... Debo estar soñando...
+<0155> Ejem. ¿Qué la trae por aquí, señorita? ¿Acaso te has perdido?
+<0156> Todos a mí- *tos*, ejem. Viejos hábitos...
+<0157> Así es como un caballero debería conducir sus negocios.
+<0158> S-señora... no estoy seguro si debería mirar.

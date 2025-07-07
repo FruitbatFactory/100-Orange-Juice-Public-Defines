@@ -1,0 +1,167 @@
+
+<0000> Mhm.
+<0001> Hmm.
+<0002> Mhmm.
+<0003> Ahí.
+<0004> ¡Usaré esto!
+<0005> Hmm, esto será suficiente.
+<0006> Todo será más divertido de esta forma.
+<0007> ¡Admirad!
+<0008> ¿Golpe bajo? A los piratas no nos importa.
+<0009> No me importa como ganaré.
+<0010> Lo hago todo para obtener lo que yo quiero.
+<0011> ¡Cuidado, muchachos!
+<0012> Esto los acabará.
+<0013> ¡Vientos, obtuve una buena carta!
+<0014> ¡Todos, impresiónense!
+<0015> Véanme darle justo en el blanco.
+<0016> ¡A por ellos!
+<0017> Los piratas son difíciles de vencer.
+<0018> Deberé de recuperar mis cosas.
+<0019> Los piratas han vuelto a las andadas.
+<0020> Arriba voy.
+<0021> Jo, caramba.
+<0022> Diablos, ¿todavía no?
+<0023> Tsk, lo arruiné.
+<0024> No hay por qué apresurarse.
+<0025> ¡Aquí voy!
+<0026> ¡Cómete esto!
+<0027> ¡Uryaah!
+<0028> ¡Ahí!
+<0029> ¡Nuguwah!
+<0030> ¡Guwah!
+<0031> ¡Gahah!
+<0032> ¡Guhah!
+<0033> Geh, que molestia.
+<0034> O-ooh...
+<0035> Phew...
+<0036> Phee..
+<0037> ¡¿Q-q-qué está pasandoooo?!
+<0038> ¡Guoh, estoy volando!
+<0039> ¡Gu-gu-guooooh!
+<0040> ¡O-o-oh!
+<0041> Aquí yazco yo.
+<0042> Voy a tirarme aquí por un rato.
+<0043> ¡Maldita sea!
+<0044> ¡Estás de bromas!
+<0045> ¡Prepárate para morir!
+<0046> Ninguna presa se escapa de mí.
+<0047> ¡Ja-ja! ¡No podrán escaparse de mí!
+<0048> ¡En guardia!
+<0049> ¡Conozca su territorio!
+<0050> ¡Te arrepentirás de esto!
+<0051> ¡Serás el que caerá en este lugar!
+<0052> ¡El avaricioso busca su infortunio!
+<0053> ¡Kyeeeeeey!
+<0054> ¡Ja-ja!
+<0055> ¡Seeeeey!
+<0056> ¡Doryaah!
+<0057> ¡Kufuu!
+<0058> ¡Nuu!
+<0059> ¡Guu!
+<0060> ¡Nuo!
+<0061> ¡Kahah!
+<0062> ¡Nuguaa!
+<0063> ¡Kuwaha!
+<0064> ¡Guooh!
+<0065> ¡Fallaste!
+<0066> Apunta mejor para la próxima vez.
+<0067> Si serás malo en esto.
+<0068> ¡Whoa!
+<0069> ¡Gujajajaja!
+<0070> Está bien, me ayudaré con unas cuantas estrellas.
+<0071> ¡Serán acabados!
+<0072> Gujaja, ¡me siento fenomenal!
+<0073> ¡¿Qué?!
+<0074> ¡¿Cómo te atreves?! 
+<0075> ¡Hijo de puta!
+<0076> Te dejaré ganar esta vez.
+<0077> Bien.
+<0078> No me molestará conseguir un poco más.
+<0079> Denme más.
+<0080> ¿Cuánto valdrán estas cosas?
+<0081> Tsk.
+<0082> Si serás barato..
+<0083> La vida apesta.
+<0084> Tacaño.
+<0085> Quien haya hecho esto es un imbécil.
+<0086> Hubiera tenido... más cuidado...
+<0087> ¡Oh, Tequila!
+<0088> Gracias por el dolor de cabeza.
+<0089> E-este es bastante grande, ¿eh?
+<0090> N-no me has asustado todavía.
+<0091> ¡M-muy bien! Adelante, gran idiota.
+<0092> D-debería haberme alejado de... esta cosa.
+<0093> Vean como los piratas lo conseguimos todo.
+<0094> Encontraré hasta el tesoro más diminuto.
+<0095> Voy a volver, pero con un gran botín.
+<0096> ¿Se vale robar, no?
+<0097> Causaré unos estruendos por ahí.
+<0098> El luchar es una causa, no el final.
+<0099> No esperen piedad de mí.
+<0100> Los golpearé y les robaré.
+<0101> Deberían ser villanos como yo.
+<0102> ¡Jugaremos suciamente!
+<0103> ¡Aprendan de como realmente viven los piratas!
+<0104> ¡No hay ley en contra de piratas volando por el cielo!
+<0105> ¡Elevad las anclas, piratas!
+<0106> ¡Los atraparemos!
+<0107> Estamos aquí para robarlo todo.
+<0108> A volverse locos.
+<0109> Todos hicieron un buen trabajo.
+<0110> Hora de la retirada.
+<0111> Bien hecho.
+<0112> Gajaja, conquisté este juego de mesa.
+<0113> Serás uno de nosotros ahora, imbécil.
+<0114> A este no lo he visto...
+<0115> Eso nos hará más fuertes.
+<0116> Muy bien, llévenlo al barco.
+<0117> Hmm, tú ocúpate del resto.
+<0118> Muy bien, cambiaremos de lugar.
+<0119> No debes cometer ningún error ahí afuera.
+<0120> Iré a descansar un rato.
+<0121> Okie dokie.
+<0122> Bien.
+<0123> Okay.
+<0124> No.
+<0125> ¡Demonios!
+<0126> Día de suerte.
+<0127> Hmm.
+<0128> ¡Vamos!
+<0129> ¡Hmph!
+<0130> ¡Aquí vamos!
+<0131> Ahoy.
+<0132> Hmm.
+<0133> Bien.
+<0134> Gajaja, ¡eso es fantástico!
+<0135> ¡HIJO DE PUTA!
+<0136> No hay razón para no usar esto.
+<0137> Nunca había visto esto. Interesante.
+<0138> Se ve bien.
+<0139> Tomaré esto prestado.
+<0140> ¡Ja ja ja! ¡Ese es el espíritu!
+<0141> ¡¡Gran Magno, dispara!!
+<0142> ¡Tienes el mismo hedor que nosotros!
+<0143> ¡No me importa tu tamaño, no te la dejaré fácil!
+<0144> Me gusta tu rostro... se ve como la de un verdadero villano.
+<0145> ¡Vacía tu estúpida bolsa ahora mismo!
+<0146> ¡Alguien tiene olor de millonario!
+<0147> Puedes tener estas, ¡así que bye-bye!
+<0148> ¡Hijo de puta, me diste!
+<0149> ¡Esto es lo que hacen los piratas!
+<0150> ¡Trabajarás para mí!
+<0151> ¡Ah, pero si no es la chica del bar!
+<0152> ¡Kuwaja! ¡Qué me ocurre, fui derrotado por una pequeña niña!
+<0153> ¡O-o-ooh! De hecho acabé con lo que sea que fuere eso...
+<0154> ¡Mano a mano, tú y yo! ¿Suena bien, eh?
+<0155> ¡Esta puta carta fue hecha para mí!
+<0156> ¡Hay batallas de las que uno no puede correr!
+<0157> ¡Gaaajajaja! ¡Perfecto, simplemente perfecto!
+<0158> Tsk, barato.
+<0159> Kuwajajaja, no podría ser mejor.
+<0160> ¡Ni te atrevas a meterte en mi camino!
+<0161> Gajaja, ¿estás intentando escapar de tu entrenamiento?
+<0162> ¡Los piratas también necesitan descansar!
+<0163> Wajaja, ¡tú lavarás los platos hoy!
+<0164> Guoh... ¡Haces tan orgulloso a tu papi!
+<0165> Pero qué-, ¡motín!

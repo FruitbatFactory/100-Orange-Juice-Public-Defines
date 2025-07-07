@@ -1,0 +1,231 @@
+
+< FIELD_RANDOM >
+Al Azar
+
+< FIELD_UNKNOWN >
+Desconocido
+
+< FIELD_PRACTICE >
+Campo de Práctica
+
+< FIELD_SPACEWANDERER >
+Viajero Espacial
+
+< FIELD_PUDDINGCHASE >
+La Caza por el Pudín
+
+< FIELD_CHRISTMASMIRACLE >
+Milagro Navideño
+
+< FIELD_PLANETEARTH >
+Planeta Tierra
+
+< FIELD_LAGOONFLIGHT >
+Vuelos en la Laguna
+
+< FIELD_WARFARE >
+Campo de Guerra
+
+< FIELD_HIGHWAYHEIST >
+Robo en la Autopista
+
+< FIELD_SEALEDARCHIVE >
+El Archivo Sellado
+
+< FIELD_SUNSET >
+Ocaso
+
+< FIELD_TOMOMOABYSS >
+El Abismo de Tomomo
+
+< FIELD_WHITEWINTER >
+Invierno Blanco
+
+< FIELD_NIGHTFLIGHT >
+Vuelos Nocturnos
+
+< FIELD_CLOVER >
+Tréboles
+
+< FIELD_FARM >
+La Granja
+
+< FIELD_STARCIRCUIT >
+Circuito Estrellado
+
+< FIELD_TRAININGPROGRAM >
+Programa de Entrenamiento
+
+< FIELD_VORTEX >
+El Vórtice
+
+< FIELD_SWEETHEAVEN >
+Cielos Dulces
+
+< FIELD_STARSHIP >
+Campo Estelar
+
+< FIELD_FROSTCAVE >
+Caverna Congelada
+
+< FIELD_SHIPYARD >
+El Astillero
+
+< FIELD_TREASUREISLAND >
+Isla del Tesoro
+
+< FIELD_TREASUREISLANDNIGHT >
+Isla Nocturna
+
+< FIELD_WITCHFOREST >
+Bosque Embrujado
+
+< FIELD_ICYHIDEOUT >
+Escondite Glacial
+
+< FIELD_SAKURA >
+Cerezos Florecidos
+
+< FIELD_WORKSHOP >
+El Taller de Santa
+
+< FIELD_OCEANDIVE >
+Buceo en el Océano
+
+< FIELD_DARKCITADEL >
+Ciudadela Oscura
+
+< FIELD_BEGINNERTOWN >
+Ciudad de Principiantes
+
+< FIELD_SCARREDLAND >
+Tierra Cicatrizada
+
+< FIELD_FUNGUSCAVE >
+Cueva de Hongos
+
+< FIELD_WINTERTOWN >
+Ciudad de Principiantes (Invernal)
+
+< FIELD_DESERT >
+El Ferrocarril Solitario
+
+< FIELD_CIRCUS >
+El Circo
+
+< FIELD_VOID >
+El Abismo
+
+< FIELD_PURES >
+Carrera de Estampas Pures
+
+< FIELD_COOP_LAGOONFLIGHT >
+Vuelos en la Laguna (CO)
+
+< FIELD_COOP_SUNSET >
+Ocaso (CO)
+
+< FIELD_COOP_POPPOABYSS >
+El Abismo de Poppo
+
+< FIELD_OVERTHESEA >
+Sobre el Oceano
+
+< FIELD_COOP_STARCIRCUIT >
+Circuito Estrellado (CO)
+
+< FIELD_COOP_SPACEWANDERER >
+Viajero Espacial (CO)
+
+< FIELD_COOP_HIGHWAYHEIST >
+Robo en la Autopista (CO)
+
+< FIELD_COOP_FARM >
+La Granja (CO)
+
+< FIELD_COOP_SHIPYARD >
+El Astillero (CO)
+
+< FIELD_COOP_TRAININGPROGRAM >
+P. de Entrenamiento (CO)
+
+< FIELD_COOP_NIGHTFLIGHT >
+Vuelos Nocturnos (CO-OP)
+
+< FIELD_COOP_VORTEX >
+El Vórtice (CO-OP)
+
+< FIELD_COOP_CYBERSPACE >
+Ciberespacio
+
+< FIELD_COOP_PLANETEARTH >
+Planeta Tierra (CO)
+
+< FIELD_COOP_WITCHFOREST >
+Bosque Embrujado (CO)
+
+< FIELD_COOP_WORKSHOP >
+El Taller de Santa (CO)
+
+< FIELD_COOP_SAKURA >
+Cerezos Florecidos (CO)
+
+< FIELD_COOP_PUDDINGCHASE >
+La Caza por el Pudín (CO)
+
+< FIELD_COOP_TREASUREISLAND >
+Isla del Tesoro (CO)
+
+< FIELD_COOP_TREASUREISLANDNIGHT >
+Isla Nocturna (CO)
+
+< FIELD_COOP_OCEANDIVE >
+Buceo en el Océano (CO)
+
+< FIELD_COOP_OVERTHESEA >
+Sobre el Oceano (CO)
+
+< FIELD_COOP_CLOVER >
+Tréboles (CO)
+
+< FIELD_COOP_FROSTCAVE >
+Caverna Congelada (CO)
+
+< FIELD_COOP_ICYHIDEOUT >
+Escondite Glacial (CO)
+
+< FIELD_COOP_STARSHIP >
+Campo Estelar (CO)
+
+< FIELD_COOP_TOMOMOABYSS >
+El Abismo de Tomomo (CO)
+
+< FIELD_COOP_WHITEWINTER >
+Invierno Blanco (CO)
+
+< FIELD_COOP_BEGINNERTOWN >
+Ciudad de Principiantes (CO)
+
+< FIELD_COOP_CHRISTMASMIRACLE >
+Milagro Navideño (CO)
+
+< FIELD_COOP_DARKCITADEL >
+Ciudadela Oscura (CO)
+
+< FIELD_COOP_FUNGUSCAVE >
+Cueva de Hongos (CO)
+
+< FIELD_COOP_PRACTICEFIELD >
+Campo de Práctica (CO)
+
+< FIELD_COOP_SEALEDARCHIVE >
+El Archivo Sellado (CO)
+
+< FIELD_COOP_SWEETHEAVEN >
+Cielos Dulces (CO)
+
+< FIELD_COOP_WHIRLPOOL >
+Torbellino
+
+[EOF]
+

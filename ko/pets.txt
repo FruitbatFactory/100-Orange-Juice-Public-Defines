@@ -1,0 +1,287 @@
+< PET_BARREL >
+name=레드 배럴
+descr=비행 준비 완료! 
+
+< PET_CAT >
+name=고양이
+descr=묘한 기운이 흐르는 민첩한 생물입니다.
+
+
+< PET_CHICKEN >
+name=닭
+descr=아무도 회피하지 않을 때 혼자 회피합니다.
+
+
+< PET_FRUITBAT >
+name=과일박쥐
+descr=오렌지에 집착하는 박쥐입니다.
+
+
+< PET_GHOST >
+name=귀신
+descr=거기 뒤에 누구예요?
+
+
+< PET_LEO >
+name=레오
+descr=어둠의 야수가 다시 춤을 춥니다.
+
+
+< PET_NAVI >
+name=내비
+descr=이건 대체 무슨 생물체죠?
+
+< PET_PLANT >
+name=식물
+descr=먹이를 주는 손을 깨뭅니다.
+
+
+< PET_RABBITPLUSH >
+name=토끼 인형
+descr=이 인형은 귀신들린 걸지도 모릅니다.
+
+
+< PET_RACCOON >
+name=너구리
+descr=너구리예요? 개예요? 변신할 수 있나요?
+
+
+< PET_RBIT >
+name=우사비트
+descr=포메이션 오빗!
+
+
+< PET_REDBLUE >
+name=아카와 아오
+descr=화이트 크리스매셔!
+
+
+< PET_ROBOBALL >
+name=로보 볼
+descr=모두의 마음 속 작은 기계공을 위해.
+
+
+< PET_SB_BOMB >
+name=스타부 폭탄
+descr=떨어트리지 마세요.
+
+< PET_SEAGULL >
+name=갈매기
+descr=좋아하는 숫자는 7입니다.
+
+< PET_SEARCHLIGHT >
+name=서치라이트
+descr=특정한 누군가를 찾고 있는 것 같습니다.
+
+< PET_SHIBE >
+name=시바견
+descr=집요하게 물고 늘어집니다.
+
+< PET_SNOWBUNNY >
+name=눈토끼
+descr=냉장보관 필수.
+
+< PET_THINKBUBBLE >
+name=생각 풍선
+descr=무슨 생각 하고 계세요?
+
+< PET_EVENT_REIN >
+name=토나
+descr=아루의 믿음직한 도우미입니다. 연 휴가일수 364일.
+
+
+< PET_EVENT_PRESENT >
+name=선물
+descr=마음을 따뜻하게 해주는 멋진 선물입니다.
+
+< PET_EVENT_PIG >
+name=돼지
+descr=정말 돼지가 하늘을 날 수 있나요?
+
+< PET_LIZARD >
+name=도마뱀
+descr=지구의 중심에 살지도 모르고 안 살지도 모릅니다.
+
+< PET_DWARF>
+name=드워프
+descr=이제는 이름에 맞게 살아가고 있습니다.
+
+< PET_PIYO_EGGSHELL>
+name=피요 (알껍질)
+descr=피요가 먼저인가요 알이 먼저인가요?
+
+< PET_PIYO>
+name=피요
+descr=먼저 나온 피요입니다.
+
+< PET_TORTOISE>
+name=거북이
+descr=언제나 경주에서 이기는 걸로 알려졌습니다... 시간은 걸려도요.
+
+< PET_UFO>
+name=UFO
+descr=언제나 귀한 걸 잡으려고 노력합니다. 
+
+< PET_SHARK>
+name=상어
+descr=무시무시한 아가리가 포스터에 잘 어울리겠지요.
+
+< PET_FROG>
+name=개구리
+descr=비를 그렇게 좋아하지는 않는 개구리입니다.
+
+< PET_BIT>
+name=비트
+descr=비트에 맞춰 까딱이는 걸 좋아합니다.
+
+< PET_SLIME>
+name=슬라임
+descr=단 맛이 난다고들 합니다.
+
+< PET_GOLDENEGG >
+name=황금 알
+descr=두 번 이상도 깨어날 수 있는 특별한 달걀입니다.
+
+< PET_M10EYE >
+name=M10의 눈
+descr=허수를 볼 수 있습니다. 당신 눈에도 보이나요?
+
+< PET_STAR >
+name=교묘한 별
+descr=다른 은하에서 왔습니다.
+
+< PET_AIRSHIP >
+name=비행선
+descr=공중 지원을 하러 왔습니다.
+
+< PET_BUTTERFLY >
+name=나비
+descr=나비처럼 날지만 벌처럼 쏘지는 않습니다.
+
+< PET_CUPCAKE >
+name=컵케이크
+descr=화씨 350도에서 구워졌습니다.
+
+< PET_BOSS_HARUO >
+name=하루오
+descr=마음은 황금빛입니다.
+
+< PET_BOSS_JONATHAN >
+name=대왕 조나단
+descr=별로 크지도 않습니다.
+
+< PET_BOSS_M10 >
+name=M10
+descr=M10점 만점에 주사위 눈 7점.
+
+< PET_BOSS_ROPOCHI >
+name=로포닭
+descr=구핏포오!
+
+< PET_BOSS_STARDEV >
+name=스타 디바우러
+descr=세상 어디로든지 워프할 수 있습니다.
+
+< PET_OCTOPUS >
+name=문어
+descr=한 번에 여덟 가지 일을 동시에 할 수 있습니다.
+
+< PET_SEAL >
+name=물개
+descr=물에서 사는 개입니다.
+
+< PET_SQUID >
+name=오징어
+descr=크라켄을 풀어라.
+
+< PET_MANDRAKE >
+name=맨드레이크
+descr=고정관념이 뿌리깊게 박혀있습니다.
+
+< PET_SUN >
+name=태양
+descr=항상 쨍쨍합니다.
+
+< PET_SEABUNNY >
+name=바다토끼
+descr=바다의 산타입니다.
+
+< PET_ROBOFISH >
+name=로봇물고기
+descr=계속해서 수영하도록 프로그래밍되었습니다.
+
+< PET_WATERMELON >
+name=수박
+descr=섬머 비스트의 분노에서 살아남았습니다.
+
+< PET_EVENT_POMENARIAN >
+name=포메라니안
+descr=조금은 바보같은 개입니다.
+
+< PET_EVENT_PUDDING >
+name=푸딩
+descr=온 우주의 개들과 마녀들이 제일 좋아하는 간식입니다.
+
+< PET_EVENT_PUFFERFISH >
+name=복어
+descr=참 복스럽게 생겼지요.
+
+< PET_FUNKYFUNGUS >
+name=펑크버섯
+descr=힘든 때에는 버섯을.
+
+< PET_ROBOCRAB >
+name=로봇게
+descr=몸놀림이 예사롭지 않습니다.
+
+< PET_PONYCORN >
+name=포니콘
+descr=우정의 마법을 퍼트립니다.
+
+< PET_WOLLIL>
+name=양털털이
+descr=죽도록 푹신합니다.
+
+< PET_GLOBLET >
+name=잔불컹이
+descr=물컹이는 불덩이입니다.
+
+< PET_TROLLITE >
+name=트롤-라이트
+descr=하나 빼고 아무것도 안 무서워요.
+
+< PET_SPOOKYDOLL >
+name=으스스한 인형
+descr=꿈에 나올 것만 같은 귀여움을 지니고 있습니다.
+
+< PET_HELISEEDLING >
+name=꼬마헬기씨
+descr=바람과 함께 사라졌습니다.
+
+< PET_TERRAWORMER >
+name=지맥구렁이
+descr=맥을 못 출 만큼 귀엽습니다.
+
+< PET_MINIMOSS >
+name=꼬마 이끼
+descr=황금같은 마음씨를 가지고 있습니다.
+
+< PET_GEMERANGLER >
+name=쑥쑥아귀
+descr=별로 쑥쑥 크지는 않았네요.
+
+< PET_WUFFSHROOM >
+name=왈버섯
+descr=인간의 최고의 버섯입니다.
+
+< PET_TURNISLIM >
+name=순무슬라임
+descr=무슬 생각을 하고 있을까요?
+
+< PET_PUNYZARD >
+name=꼬마뱀
+descr=아뇨, 토마뱀인데요?
+
+< PET_MASHIRO >
+name=맛시로
+descr=이젠 불운하지 않아요.

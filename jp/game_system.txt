@@ -1,0 +1,129 @@
+
+< GAME_SYSTEM_ROLLTOREVIVE >
+以上で復活！
+
+< GAME_SYSTEM_WINNERSCREEN_STARS >
+Stars
+
+< GAME_SYSTEM_WINNERSCREEN_WINS >
+Wins
+
+< GAME_SYSTEM_WINNERSCREEN_FAME >
+名声
+
+// The following HUD text will require a size smaller or (more or less) equivalent to the english counterpart! Use abbreviations if needed
+// Level (current norma.)
+< GAME_SYSTEM_HUD_LVL >
+LV
+
+< GAME_SYSTEM_HUD_HP >
+HP
+
+< GAME_SYSTEM_HUD_NORMA >
+ノルマ
+
+< GAME_SYSTEM_HUD_NORMA_MAX >
+MAX!
+
+< GAME_SYSTEM_HUD_CARDEFFECTS >
+カード効果
+
+< GAME_SYSTEM_HUD_CARDEFFECTS_STACKS >
+ストック
+
+< GAME_SYSTEM_HUD_CARDEFFECTS_DURATION >
+持続
+
+< GAME_SYSTEM_SHOP_LEVEL >
+レベル%d
+
+< GAME_SYSTEM_SHOP_NO_BONUS >
+解除済みボーナスなし。
+
+// %% is normal here.
+< GAME_SYSTEM_SHOP_BONUS_1 >
+SSRアイテムの出現率%d%%アップ。
+
+// %% is normal here.
+< GAME_SYSTEM_SHOP_BONUS_2 >
+その他の計算のあと、購入アイテムの総額から%d%%割引される。
+
+< GAME_SYSTEM_SHOP_BONUS_3 >
+カードを売ると追加で%dスター獲得。
+
+< GAME_SYSTEM_SHOP_BONUS_4 >
+アイテムの在庫数が1つ増える場合がある。
+
+< GAME_SYSTEM_SHOP_BONUS_5 >
+アイテムデリバリークエスト完了時に追加で%dスター獲得。
+
+< GAME_SYSTEM_SHOP_BONUS_6 >
+アイテムの在庫数が最大2つ増える場合がある。同タイプのショップがフィールド上に1軒増える。
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_1_NAME >
+剣の技術
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_1_DESC >
+永続ATK+1。
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_2_NAME >
+盾の技術
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_2_DESC >
+永続DEF+1。
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_3_NAME >
+回避の技術
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_3_DESC >
+永続EVD+1。
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_4_NAME >
+固い意志
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_4_DESC >
+永続で復活ダイスロール-1。
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_5_NAME >
+鼓舞
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_5_DESC >
+永続で最大HP+1。このアップグレードを選ぶとHPが全回復する。
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_6_NAME >
+運び屋
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_6_DESC >
+永続で最大手札数+1と最大契約数+1。
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_7_NAME >
+プレミアム会員資格
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_7_DESC >
+さすらいの商人以外の全てのショップで、その他の計算のあと、購入総額から30%割引される。
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_8_NAME >
+ジョギング好き
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_8_DESC >
+移動ダイスでの移動が完了しターンを終了した時、次の移動ダイスでMOV+1。
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_9_NAME >
+大収穫
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_9_DESC >
+100スターを得る。さらに、バウンティ完了時にスターを獲得できる能力を得る。
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_10_NAME >
+ホーム防衛
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_10_DESC >
+自身のホームに他のプレイヤーが止まったとき、そのプレイヤーに2ダメージを与える。
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_11_NAME >
+司令塔
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_11_DESC >
+召喚した味方を完全に指揮できる間、永続でその味方の最大HP+2。召喚した味方がフィールド上にいる場合、このアップグレードを選択した際にその味方のHPを最大まで回復する。召喚した味方もバウンティを達成することができる。
+
+[EOF]

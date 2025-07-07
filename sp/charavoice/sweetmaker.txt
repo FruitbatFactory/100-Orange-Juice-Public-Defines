@@ -1,0 +1,162 @@
+
+<000> ¡Mauryaah!
+<001> ¡Toryaah!
+<002> ¡Eyryaah!
+<003> ¡Dulce!
+<004> *Sonrisa* ¡Este es el momento de usar una carta!
+<005> Es la hora de esta carta.
+<006> Esta, carta, es la hora de brillar.
+<007> ¡Es mi turno para hacer un cambio por aquí!
+<008> Estas cosas suelen ser necesarias.
+<009> No suelo mostrar piedad, aún si soy una diosa.
+<010> Fufufu, aquí tienes una dulce trampa.
+<011> ¿Qué pasará si alguien cae en ella? Kukuku.
+<012> Mejoraré mis poderes de Sweet God con esto.
+<013> ¡Te golpearé una y otra y otra y otra vez!
+<014> Cielos, tener todo este poder se siente tan bien~
+<015> ¡Le pondré un fin a tus actos!
+<016> ¡Dulces! ¡Otórguenme su poder!
+<017> ¡Me siento tan, pero tan enojada!
+<018> ¡Cambiaré el resultado!
+<019> ¡Este es el fin de mi misericordia!
+<020> ¡Ahora nadie podrá detenerme!
+<021> ¿Eh? Esto no puede estar ocurriendo.
+<022> ¡Pero por qué...!
+<023> Oh no... *Llanto*.
+<024> Ugh... Incluso una diosa puede tener mala suerte...
+<025> ¡Oryaah!
+<026> ¡Uooh-mauryaah!
+<027> ¡Te usaré como ingrediente para postres!
+<028> ¡Eeeey!
+<029> ¡Eso duele!
+<030> ¡Cómo te atreves...! ¡¿Qué no puedes respetar a una diosa?!
+<031> ¡Uwaah!
+<032> ¡Estoy sufriendo!
+<033> Aaaaaaaaaaah.
+<034> Oh rayos, el nivel de azúcar en mi sangre está muy elevado.
+<035> ¡Los dulces también pueden curarte!
+<036> ¡La energía fluye dentro de mí!
+<037> ¿Eh?
+<038> ¿Qué rayos es esto?
+<039> ¡¿Qué está sucediendo...?!
+<040> Me siento mareada~
+<041> Oh vaya...
+<042> Pero si soy una diosa... *Llanto*.
+<043> Toda mi fuerza se ha ido...
+<044> Cielos... Por qué a mí...
+<045> ¡Observad! ¡La llegada de una diosa!
+<046> Y ahora, apártense de mi camino.
+<047> ¿Quieres ver mis poderes? ¡Te los mostraré!
+<048> ¡Tú estornudas, tú pierdes!
+<049> Oh, quién crees que soy...
+<050> Qué audaz.
+<051> Podrás intentarlo, pero no deberías esperar a que muestre piedad.
+<052> ¡Muy bien, adelante!
+<053> ¡Ataque Dulce!
+<054> ¡Ey-ey-ey-ey!
+<055> ¡Te destrozaré con todo lo que tengo!
+<056> ¡Oryaryah!
+<057> ¡Ugh!
+<058> ¡Mau!
+<059> Esto es de lo peor.
+<060> ¡Ya basta!
+<061> Argh.
+<062> ¡Eso duele mucho!
+<063> Por favor, detente...
+<064> *Sollozo*...
+<065> Fufufu, eso no será suficiente.
+<066> Puedo ver todos tus movimientos.
+<067> A lo mejor soy demasiada ágil para esto.
+<068> ¡Oh rayos! Ese daño hubiera sido devastador...
+<069> Bueno, eso no me sorprende. Después de todo, soy una diosa.
+<070> *Sonrisa* Creo que tienes algo que decirme.
+<071> No deberías haberme dado la espalda.
+<072> Fu-fu-fu... Este poder que tengo es increíble.
+<073> Oh no... ¿A dónde se ha ido mi poder divino...?
+<074> *Sollozo, sollozo*.
+<075> ¡Demonios, pagarán por esto!
+<076> No quiero volver a hacer esto nunca más...
+<077> Wow, qué suerte.
+<078> Necesitaré muchas más de estas.
+<079> Ahora que soy rica, voy a...
+<080> Vaya, me siento la mejor del mundo.
+<081> ¡No, no se lleven a mi preciosa felicidad!
+<082> Eso es terrible... es de lo peor.
+<083> Mis... ¡Mis estrellas...!
+<084> ¡No! ¡No se vayan!
+<085> ¡Aaaaargh!
+<086> ¡Pequeña trampa asquerosa!
+<087> Ugh... Cómo es posible que le hagan esto a una diosa...
+<088> ¡Maldición! ¡Caí en la trampa de alguien más!
+<089> Tenemos algo muy loco aquí...
+<090> Eso parece ser igual de fuerte que yo...
+<091> Esa cosa se ve extremadamente peligrosa.
+<092> Aquí hay algo gigantesco.
+<093> ¡Estrellas, vengan a mí!
+<094> Las estrellas son requeridas para hacer dulces. ¿Sabías eso?
+<095> Iré a conseguir millones de estrellas en un segundo. Después de todo, soy una diosa.
+<096> Supongo que podré hornear unas galletas con forma de estrella.
+<097> Quiero ejercer mis poderes divinos... ¿Pero no sería eso una destrucción impulsiva?
+<098> No hay forma de que pueda contener estos poderes increíbles que tengo...
+<099> Kukuku... Apuesto a que ahora puedo derrotar a todos con un solo puño.
+<100> Mis poderes dulces me están diciendo que no muestre piedad.
+<101> ¡Yo no soy la Saki de siempre!
+<102> ¡Soy Saki, la fabricante de dulces!
+<103> He horneado muchos dulces deliciosos para la merienda.
+<104> Siento un poder increíble... El poder de los dulces...
+<105> Siento que nadie puede derrotarme en esta forma.
+<106> Fufufu, par de idiotas...
+<107> Permíteme demostrar... el dulce infierno...
+<108> La fiesta ha comenzado.
+<109> El resultado es parte del curso de la naturaleza.
+<110> ¡Fujajaja, soy la más poderosa!
+<111> Mis poderes divinos me han conseguido la victoria.
+<112> ¡Dulce! ¡Todo es tan dulce!
+<113> Oh, ¿es esa la receta de un postre nuevo?
+<114> Si se ve delicioso, ¿por qué no lo compartimos?
+<115> ¿Acaso has obtenido algo extremadamente bueno?
+<116> Sí que pareces feliz.
+<117> Es tu turno de ir a jugar.
+<118> Muy bien, vamos a cambiar ahora.
+<119> ¡Tú puedes hacerlo!
+<120> ¡Hora de cambiar! ¡Buena suerte!
+<0121> Okaaay.
+<0122> Wow.
+<0123> ¡Déjamelo a mí!
+<0124> ¡No!
+<0125> Oh no...
+<0126> ¡Tienes mucha suerte!
+<0127> Me pregunto por qué.
+<0128> ¡Vamos! ¡Vamos!
+<0129> ¡Estoy lanzando el dado!
+<0130> ¡Tú puedes hacerlo! ¡Confío en ti!
+<0131> Es bueno verte otra vez.
+<0132> ¿Hmm? ¿Um?
+<0133> Eso es bueno~
+<0134> ¡Permíteme elogiarte como una diosa!
+<0135> Aaaaaaaah, estoy tan enojaaadaaaa...
+<0136> ¡Usaré esta carta!
+<0137> Este es un poder maravilloso.
+<0138> Estoy a punto de usar este superpoder que llevo en mi mano...
+<0139> ¡Y ahora, mira y sorpréndete!
+<0140> ¡Muchas gracias!
+<0141> ¡Te derrotaré aquí y tomaré el puesto de líder!
+<0142> ¡¿Realmente quieres pelear, jefa?!
+<0143> Ahora oficialmente soy la líder de las Sweet Gods!
+<0144> Oh vaya, realmente eres fuerte, jefa.
+<0145> ¡Una batalla entre Sweet Gods! ¡Hagámoslo!
+<0146> ¡Una batalla entre Sweet Gods! ¿Realmente quieres eso?
+<0147> ¿Creería que esta victoria demuestra que soy una mejor diosa que tú?
+<0148> Oww... no debí haber esperado menos de una Sweet God...
+<149> Tú y yo juntas, seremos las más fuertes.
+<150> Nadie puede vencer al poderoso equipo de dos diosas.
+<151> Nuestros poderes combinados podrían ser un poco ágrios para todos los demás.
+<152> Ku-ku-ku, las dos podremos conquistar todos los dulces alrededor del mundo...
+<0153> ¡El poder de los dulces es el mejor!
+<0154> Esto es tan poderoso, qué podría ser sellado de forma permanente...
+<0155> Los dulces hacen feliz a todos.
+<0156> Permíteme demostrar de qué son capaces los dulces.
+<0157> ¡Estos son mis dulces caseros!
+<0158> ¡Mis aperitivos del día han sido escogidos!
+<0159> Fufufu, nunca he sido más feliz. 
+<0160> Eso se ve muuuuuy delicioso, ¿no lo crees?

@@ -1,0 +1,161 @@
+<0000> Ufufu.
+<0001> Ahí.
+<0002> ¡Aja!
+<0003> ¿Así?
+<0004> ¿Y qué tal esto?
+<0005> Mhm.
+<0006> Le daré una oportunidad.
+<0007> ¿Esto se usa así?
+<0008> Fufu.
+<0009> Cuidado.
+<0010> Ajaja.
+<0011> Veamos que pasará.
+<0012> Fufu... ¡AJAJA!
+<0013> Te daré la mayor cantidad de dolor que sea posible.
+<0014> Es la hora de decir adiós.
+<0015> Fuera.
+<0016> Yo soy el fusil que le pondrá un fin a este mundo.
+<0017> Quiero quemar más.
+<0018> *risita*
+<0019> Puedo continuar...
+<0020> Si quieres detenerme, tendrás que quemarme hasta que no quede nada de mí.
+<0021> Fufu... ya no queda mucho.
+<0022> Todavía no es el momento.
+<0023> ¡Por el amor de dios!
+<0024> *suspiro*
+<0025> Kaboom.
+<0026> ¡AJAJA!
+<0027> Quémate con belleza.
+<0028> En pedazos.
+<0029> ¡Kya!
+<0030> Au.
+<0031> Ow.
+<0032> Si serás...
+<0033> ¡Ya no siento el dolor! ¡Ajaja!
+<0034> Fufu... Se siente bien.
+<0035> Estoy lista para pelear otra vez.
+<0036> Me siento mejor.
+<0037> ¿Qué está pasando?
+<0038> ¿A dónde me llevan?
+<0039> ¿Al cielo?
+<0040> No importa en dónde esté, mi objetivo está claro.
+<0041> Duele... ¡Dueleeeeee!
+<0042> Esto no es justo.
+<0043> A lo mejor tendría que explotar en mil pedazos y...
+<0044> Estoy harta.
+<0045> Hasta que seas cenizas...
+<0046> Fufufu, ¿quieres que te haga explotar?
+<0047> Es la hora de la diversión.
+<0048> ¿Te gusta el dolor?
+<0049> ¿Acaso estás aquí para pedirme que te queme?
+<0050> Claro, tengo tiempo para ti.
+<0051> Sorpréndeme, ¿está bien?
+<0052> Fufufu... Una presa fácil ha aparecido.
+<0053> Sólo quémate.
+<0054> Cenizas.
+<0055> Bang.
+<0056> ¡Ajajajaja!
+<0057> Cielos.
+<0058> Au.
+<0059> Tú...
+<0060> Ugh.
+<0061> Qué molesto.
+<0062> ¡Eso dolió!
+<0063> Esto es ridículo.
+<0064> Uuuuu.
+<0065> Eso estuvo cerca.
+<0066> ¡Aja!
+<0067> No puedes alcanzarme.
+<0068> ¿Eh? ¿Acaso hiciste algo?
+<0069> Aja, ajaja, ¡AJAJAJA!
+<0070> ¡Esa fue una llama muy bonita!
+<0071> ¡Esto es divertido! ¡Tan divertido!
+<0072> Ufufu, mira todas esas quemaduras.
+<0073> No... Esto no está pasando.
+<0074> Aaaaah...
+<0075> Nooooo...
+<0076> Me voy a quemar...
+<0077> A lo mejor también tendría que quemar estas.
+<0078> Que lindas... pero se verán aún más lindas al estar ardiendo.
+<0079> Ahora tengo cosas que quemar.
+<0080> Pequeño, pero las estrellas son estrellas.
+<0081> Aja, se han ido.
+<0082> Qué mal, quería quemar más.
+<0083> No las necesitaba.
+<0084> Fufufu, han sido destrozadas.
+<0085> Astuto.
+<0086> Esto es estúpido.
+<0087> Lo odio. ¡Demonios!
+<0088> ¡Fuera de mi camino!
+<0089> ¡Ajaja! Esto será divertido.
+<0090> Estoy segura de que te quemarás muy bien.
+<0091> ¡Esto es divertido! ¡Ajaja! ¡Tan divertido!
+<0092> ¡Aquí está! ¡Uno muy poderoso!
+<0093> ¡Quiero quemar más!
+<0094> ¡Lo quemaré todo hasta no dejar cenizas!
+<0095> ¡Quémate!
+<0096> Este es el significado de mi existencia.
+<0097> Fufufu, ¿quieres luchar en una guerra junto a mí?
+<0098> ¡Disfrutemos del momento hasta quemarnos!
+<0099> ¡Lucharemos hasta que el planeta entero se convierta en cenizas!
+<0100> ¿Quieres arder?
+<0101> Fufufu, ya no puedo esperar.
+<0102> ¡Vamos a quemarlo todo!
+<0103> ¡Ajajaja!
+<0104> ¡Puedo sentir que esto será muy divertido!
+<0105> Todo está muy limpio y ordenado.
+<0106> Y esto se acaba aquí.
+<0107> ¡AjajaJAJAJA!
+<0108> ¡Todo se ha quemado! ¡Todo!
+<0109> ¿Era esto lo que tú querías?
+<0110> Permíteme quemar eso por ti-... ¿No puedo?
+<0111> Te ves muy feliz...
+<0112> Fufu♪
+<0113> Te daré un momento para brillar.
+<0114> ¿Cambio?
+<0115> Fufu, ajaja.
+<0116> Muy bien, cambiarémos.
+<0117> Bien.
+<0118> ¡Fantástico...!
+<0119> Está bien.
+<0120> No... Esto no está ocurriendo.
+<0121> ¡Uuuuu...!
+<0122> Ufufufu.
+<0123> ¿Eh?
+<0124> Es la hora de moverse.
+<0125> Ahí.
+<0126> Vamos.
+<0127> Hola.
+<0128> Mhm.
+<0129> ¡Eso me gusta! ¡Me gusta muchísimo!
+<0130> Eso es lo mejor.
+<0131> ¿Acaso estás actuando de forma estúpida por algo en especial?
+<0132> ¡Kaboom!
+<0133> ¿Podrá esto ser de ayuda?
+<0134> ¡Ajajajaja!
+<0135> ¡Bien, usaré esto!
+<0136> ¡Gracias, ajajajajaja!
+<0137> Necesito derrotarte para sobrevivir.
+<0138> El arma definitiva...
+<0139> Fufufu... ¡Ajaja! ¡Lo hice! ¡La derroté!
+<0140> No puedo ser derrotada ante ti...
+<0141> Eres muy fea. Permíteme eliminarte.
+<0142> Fufufu, destrozaré tu cuerpo aún más.
+<0143> Lo intentaste, pero fue un esfuerzo inútil.
+<0144> F-Fui derrotada por algo como eso...
+<0145> ¡Kaboom! Ajaja.
+<0146> Fufu, que linda vista.
+<0147> Oh, ¿quién lanzó ese fuego artificial? 
+<0148> Alguien acaba de volar en mil pedazos.
+<0149> No necesito tantas de estas.
+<0150> ¿Y qué tal si realmente quemo estas estrellas?
+<0151> Estas estrellas no son nada más que una molestia.
+<0152> *suspiro* Lo que quiero es una guerra, no estas estrellas estúpidas.
+<0153> Fui derrotada en una guerra... ¡Eso me hace una inútil!
+<0154> Debía ganar... ¡Siempre tengo que ganar!
+<0155> No puede ser... ¿Por qué existo?
+<0156> La derrota hace que mi vida no tenga sentido... ¡Uuuuu...!
+<0157> Ew, tiene mi cara. Qué asco.
+<0158> ¿Acaso eres mi clon?
+<0159> Ajajaja, ella no podría ser yo. Demasiado débil.
+<0160> ¿¡Cuál es tu problema, idiota!?

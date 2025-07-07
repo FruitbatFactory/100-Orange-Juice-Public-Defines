@@ -1,0 +1,161 @@
+<0000> Aqui.
+<0001> Ufa.
+<0002> Hoh.
+<0003> Yah!
+<0004> Hora de ir para a ofensiva?
+<0005> Advinha o que estou guardando aqui?
+<0006> Estou começando a curtir isto.
+<0007> Ufufufu.
+<0008> Sinto vontade de ser um pouco chata.
+<0009> Eu estou botando uma armadilha aqui.
+<0010> Talvez alguém vai pisar aqui.
+<0011> Fufu, advinha o que coloquei aqui?
+<0012> Uma carta de batalha?
+<0013> Eu acho que é aqui que devo jogar uma carta.
+<0014> Eu vou contar com essa.
+<0015> Pois eu não quero perder o jogo.
+<0016> Fufu, ahahaha!
+<0017> Hmm, eu realmente fui por um caminho difícil.
+<0018> Nossa, sobre o que foi aquilo?
+<0019> Ãhn? Eu tava dormindo?
+<0020> Serei eu a brilhar desse momento em diante.
+<0021> Eu estou ficando cansada disso...
+<0022> Qual é.
+<0023> É normal falhar isso tão frequentemente?
+<0024> Por que tem de ser desse jeito?
+<0025> Ey.
+<0026> Eeey.
+<0027> *Bonk bonk*
+<0028> Que tal?
+<0029> Ei.
+<0030> Qual o problema com você?
+<0031> Pare.
+<0032> Ugh.
+<0033> Se manter calma é a chave.
+<0034> Sim, isso é exatamente o que eu precisava.
+<0035> Prefiro não botar muita dedicação nisso.
+<0036> Estar em boa forma é importante.
+<0037> Quêêêêêê?
+<0038> Minha nossa?
+<0039> O que é isto?
+<0040> Uma jogada forçada?
+<0041> Já chega. Vou tirar um cochilo.
+<0042> Eu não vou me mexer mais.
+<0043> Boa noite.
+<0044> Boo.
+<0045> Eu estou me sentindo bem.
+<0046> Eu serei agressiva daqui em diante.
+<0047> Fufufu, é meu turno.
+<0048> Você está se sentindo tonto?
+<0049> Fufu, vamos jogar.
+<0050> Whoa, o que você quer de mim?
+<0051> Você parece a fim de lutar comigo.
+<0052> Não sou tão fácil de derrotar.
+<0053> Yah!
+<0054> O que acha disso?
+<0055> Tome isto.
+<0056> Aqui vai meu ataque.
+<0057> Ugh!
+<0058> Mhmm.
+<0059> Maldição.
+<0060> Ãhn?
+<0061> Como você pode ser tão cruel?
+<0062> Você quer me fazer chorar?
+<0063> Seu babaca.
+<0064> Eu te odeio!
+<0065> Essa foi por pouco.
+<0066> Whoaah!
+<0067> Whoa, essa foi por pouco.
+<0068> *Sigh* Mas que surpresa.
+<0069> Então eu venci?
+<0070> Funcionou de alguma forma.
+<0071> Eu achei que perderia a batalha.
+<0072> Isso foi um tanto emocionante.
+<0073> Bully...
+<0074> Isso é terrível...
+<0075> Nossa, olha como estou cansada.
+<0076> Eu não acredito que você fez isso comigo.
+<0077> Mais pontos obtidos.
+<0078> Oh, estou me saindo muito bem.
+<0079> Fufu, isto está ficando divertido.
+<0080> Estou jogando bem, não é?
+<0081> Esses painéis são chatos.
+<0082> Ãhn? Como isso sequer é permitido?
+<0083> Ei!
+<0084> Isso realmente me desanima.
+<0085> Que negócio difícil.
+<0086> Nossa, isso é difícil.
+<0087> Que armadilha nojenta.
+<0088> Estou irritada.
+<0089> Um chefão?
+<0090> Eu preferia não estar perto de você.
+<0091> Nossa, estou assustada.
+<0092> Por que eu deveria me importar em lidar com você?
+<0093> Eu supostamente deveria conseguir bastante pontos, correto?
+<0094> Eu gosto de regras simples.
+<0095> Então este jogo é sobre coletar estrelas.
+<0096> Fufufu, eu acho que isso será divertido.
+<0097> Na verdade, não sou uma grande fã de fazer exercícios físicos.
+<0098> Falando a verdade, eu sou ruim em coisas desse tipo.
+<0099> Hmm, não tenho certeza se consigo lidar com isso bem.
+<0100> Eu não estou confiante sobre isto.
+<0101> Você precisa de mim? Certo então, vamos jogar.
+<0102> Na hora certa - Eu não tenho nada para fazer agora.
+<0103> Sou a Reika. Prazer em te conhecer.
+<0104> Por que você não me dá um pouco do seu tempo?
+<0105> Fufufu.
+<0106> E assim começa.
+<0107> Eu levo jogos a sério também.
+<0108> Como eu deveria jogar este jogo?
+<0109> Minha nossa, eu venci.
+<0110> Eu consegui! Eu estou tão feliz!
+<0111> Fufufu, ahahaha.
+<0112> Viu só? Me sai muito bem.
+<0113> Você conseguiu o que queria?
+<0114> Eu tenho certeza que isso ficará bom em você.
+<0115> Fufu, que empolgante.
+<0116> Conseguir coisas como isso te faz feliz?
+<0117> Estou cansada.
+<0118> Você consegue.
+<0119> Eu vou descansar agora.
+<0120> Vamos trocar agora.
+<0121> Okay.
+<0122> Uou.
+<0123> Claro.
+<0124> Não.
+<0125> Que chatice.
+<0126> Você está com sorte.
+<0127> Hmph.
+<0128> Vamos começar, pode ser?
+<0129> Hora de arregaçar as mangas.
+<0130> Eu acredito em você!
+<0131> Olá.
+<0132> Hmm.
+<0133> Bom trabalho.
+<0134> Eu preciso te elogiar.
+<0135> Oh, qual é!
+<0136> Adivinhe o que é isso?
+<0137> Estou empolgada.
+<0138> Que diversão.
+<0139> Eu vou jogar esta carta, okay?
+<0140> Obrigada.
+<0141> Ela se parece tão idêntica a mim... que nojo.
+<0142> Você é minha doppelganger?
+<0143> Seu rosto se parece exatamente com o meu... mas ela parece assustadora.
+<0144> Nós temos a mesma cara... Então por que ela é tão brutal?
+<0145> Eu não me sinto confortável trabalhando com ela.
+<0146> Eu sequer consigo me comunicar com ela?
+<0147> Por que compartilhamos a mesma cara?
+<0148> Ahahaha.
+<0149> Tem uma gata fofa aqui.
+<0150> Posso fazer carinho em você?
+<0151> Aqui, venha comer algumas guloseimas.
+<0152> Venha cá.
+<0153> Um pequeno animal?
+<0154> Tomarei conta de você.
+<0155> Mmm, você é mesmo adorável.
+<0156> Talvez eu devia te levar para casa.
+<0157> Certo, estes são meus agora.
+<0158> Fufufufufu.
+<0159> Vamos seguir em frente desse jeito.
+<0160> Ganhar sem esforço é maravilhoso.

@@ -1,0 +1,162 @@
+<0000> Lulu está tirando el dado.
+<0001> Aquí.
+<0002> Por qué molestarse...
+<0003> Orah.
+<0004> Esto es inútil.
+<0005> Lulu usará esta carta si es que debe hacerlo.
+<0006> No hay otra opción.
+<0007> Lulu no necesita esto.
+<0008> Aquí hay una trampa...
+<0009> ¿Qué clase de persona caería en esto?
+<0010> Espero que esto pueda ayudar a Lulu más tarde...
+<0011> Una carta trampa.
+<0012> Lulu no te permitirá hacer nada.
+<0013> Lulu hará que entiendas por la fuerza.
+<0014> Lulu no quiere perder esta batalla...
+<0015> Lulu usará esto.
+<0016> Poder desafortunado...
+<0017> Lulu no puede quedarse aquí tirada por siempre.
+<0018> Lulu creará mucho caos.
+<0019> Esto se está haciendo divertido.
+<0020> Lulu lo intentará otra vez.
+<0021> Ugh..
+<0022> Por qué...
+<0023> Mhm...
+<0024> Esto no está bien.
+<0025> Las garras de Lulu son muy puntiagudas.
+<0026> Aléjense de Lulu si no quieren salir lastimados.
+<0027> ¡Yah!
+<0028> Lulu no quiere lastimar a los demás, pero...
+<0029> Argh.
+<0030> ¡Ya basta...!
+<0031> Tú si que eres una pequeña...
+<0032> Tsk.
+<0033> Lulu necesita curarse.
+<0034> Lulu puede seguir adelante.
+<0035> Lulu se ha recuperado por completo.
+<0036> ¡Todo el daño se ha ido!
+<0037> ¿A dónde iré...?
+<0038> ¿A dónde se están llevando a Lulu...?
+<0039> Lulu... se siente mareada...
+<0040> ¿Qué rayos es esto...?
+<0041> Fueeh...
+<0042> Lulu ya no puede estar de pie...
+<0043> Lulu se siente débil...
+<0044> Lulu se siente miserable...
+<0045> Lulu se siente un poco más salvaje de lo normal.
+<0046> Intenta no recibir daño.
+<0047> No puedes escaparte de Lulu.
+<0048> Lulu te derribará ahora.
+<0049> Apártense del camino de Lulu.
+<0050> Eres tan molesto.
+<0051> Si tú quieres jugar rudo, Lulu también lo hará.
+<0052> ¡Tú has comenzado con esto...!
+<0053> ¡Tah!
+<0054> ¡Con un solo ataque!
+<0055> Vuela.
+<0056> Desaparece.
+<0057> ¡Kya!
+<0058> ¡Rayos!
+<0059> ¿Lulu ha recibido un golpe...?
+<0060> ¡Eso no es nada para Lulu!
+<0061> ¡Ugya!
+<0062> ¡Eso es horrible...!
+<0063> Lulu siente mucho dolor.
+<0064> Uu...
+<0065> Lulu es rápida.
+<0066> No puedes darle a Lulu.
+<0067> Tu puntería no es correcta.
+<0068> Lulu no está ahí.
+<0069> Eso es lo que obtienes cuando interrumpes a Lulu.
+<0070> Solo liberen el camino para Lulu...
+<0071> Lulu quiere hacer esto más seguido.
+<0072> ¿Acaso Lulu fue muy lejos...?
+<0073> Lulu... se siente tan débil.
+<0074> Lulu ha hecho lo mejor que pudo...
+<0075> Uu... Esto no puede ser cierto...
+<0076> Es la pérdida de Lulu...
+<0077> Lulu se quedará con estas.
+<0078> Lulu se siente feliz.
+<0079> Lulu necesita obtener más de estas.
+<0080> Muchas estrellas...
+<0081> No pueden dejar a Lulu.
+<0082> ¡No!
+<0083> Se han ido.
+<0084> ¡Esto no le gusta a Lulu!
+<0085> ¡¿Una trampa?!
+<0086> Lulu no esperaba una trampa...
+<0087> No puedo creer que Lulu haya caído en esto...
+<0088> Vaya, que trampa tan bien escondida...
+<0089> Así que... ese es el enemigo...
+<0090> Lulu tendrá que usar todo su poder en esa cosa...
+<0091> No deberías confiarte demasiado por ser tan grande...
+<0092> Lulu tiene miedo... pero luchará con todas sus fuerzas...
+<0093> Lulu quiere más y más estrellas.
+<0094> Todo este tintineo hace que Lulu se sienta más feliz.
+<0095> Lulu se quedará con muchas de ellas...
+<0096> Los cielos llenos de estrellas...
+<0097> Lulu acabará con todos en su camino.
+<0098> Lulu debería ser más fuerte que nunca.
+<0099> Lulu luchará más que nunca.
+<0100> Las garras de Lulu ansían un buen combate.
+<0101> ¿Dices que quieres jugar con Lulu? Ella supone que está bien...
+<0102> Lulu se siente... ¿diferente...? Ella se pregunta por qué.
+<0103> ¿Has escogido a Lulu...?
+<0104> Lulu hará todo lo necesario para ganar.
+<0105> *Suspiro*... Vamos a ganar esta partida.
+<0106> ¡Así que ha comenzado...!
+<0107> Una vez que Lulu decide jugar, ella debe ganar.
+<0108> Lulu no puede permitir que nadie le gane.
+<0109> ¿Lulu ganó...?
+<0110> Phew... ¿Lulu lo logró?
+<0111> Lulu se siente feliz de ser la ganadora.
+<0112> Así que... ¿Lulu se hizo más fuerte...?
+<0113> Lulu piensa que eso la hará más fuerte.
+<0114> Lulu está feliz si tú estás feliz.
+<0115> Tú... intentarás usar eso, ¿no es así?
+<0116> Parece que has obtenido algo bueno...
+<0117> Vamos a cambiar.
+<0118> ¿Podrías tomar el lugar de Lulu?
+<0119> Deberíamos ayudarnos.
+<0120> Vamos a trabajar en equipo...
+<0121> Okay.
+<0122> Eso es bueno.
+<0123> Sí.
+<0124> No puede ser.
+<0125> ...Ugh.
+<0126> Tienes suerte... eso supone Lulu.
+<0127> ¿Uuu?
+<0128> Vamos.
+<0129> ¡Jah!
+<0130> Tú puedes hacerlo...
+<0131> Hola.
+<0132> Um...
+<0133> Eso es increíble.
+<0134> Mucho respeto.
+<0135> Ugh, Lulu está enojada.
+<0136> ¿Puede Lulu usar esto?
+<0137> Lulu no sabe como funciona esto... Pero aquí va.
+<0138> Lulu no está segura de poder usar esto, pero...
+<0139> Lulu va a hacer esto.
+<0140> Gracias.
+<0141> Nada será como lo deseés.
+<0142> Lulu es... Lulu.
+<0143> Lulu vivirá su vida como ella quiera.
+<0144> Lulu... no puede permitir que esta mujer haga lo que quiera...
+<0145> Ellie, Lulu te quiere tanto...
+<0146> Ellie... ¿Acaso no te molesta estar junto a Lulu?
+<0147> Ellie, tú eres la mejor... Fufufu.
+<0148> Ellie, seremos amigas por siempre.
+<0149> Ten una estrella de la mala suerte...
+<0150> Todos perderán estrellas...
+<0151> Muchas estrellas están saliendo.
+<0152> No hay nada que temer si todos pierden juntos.
+<0153> Lulu acabará con las cartas de todos.
+<0154> Lulu lamenta lo de sus cartas...
+<0155> Sin cartas, nadie podrá interrumpir a Lulu...
+<0156> Lulu tiene el potencial de acabar con las amenazas.
+<0157> ¿Te gustaría un poco del veneno de Lulu?
+<0158> Lulu quiere que todos se muevan un poco menos.
+<0159> Todos dejarán de moverse muy pronto.
+<0160> Lulu hará que todos sean miserables...
+<0161> Lulu acabará con todo aquél que intente herir a Ellie.

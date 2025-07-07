@@ -1,0 +1,302 @@
+
+< CARD_BOOST_DASH >
+name=¡Velocidad!
+descr=Durante este turno, tiras el doble de dados al moverte.
+flavor="¡Más rápido!" ―Suguri
+
+< CARD_BOOST_EXTEND >
+name=Renacimiento
+descr=Efecto Guardado:\nAl morir, revivirás en tu próximo turno de forma instantánea.
+flavor="¡Todo en orden!" ―Marc
+
+< CARD_BOOST_FLIPOUT >
+name=Enojo
+descr=Efecto Guardado:\nLa próxima vez que esta unidad caiga en un panel de Pérdidas, el jugador que tenga la mayor cantidad de estrellas también se verá afectado.
+flavor="¡......!" ―Mei
+
+< CARD_BOOST_LONGSHOT >
+name=Disparo a Larga Distancia
+descr=Escoge a una unidad.\nLa unidad escogida recibirá un punto de daño.
+flavor="Puedo darte desde cualquier lado." ―Iru
+
+< CARD_BOOST_NICEJINGLE >
+name=Lindo Tintineo
+descr=Efecto Guardado:\nEl próximo panel de Estrellas en el que tú caigas duplicará su efecto.
+flavor="¿Estrellas? Tenemos muchas." ―Aru
+
+< CARD_BOOST_NICEPRESENT >
+name=Lindo Regalo
+descr=Toma las primeras 2 cartas del mazo.
+flavor="Tú me ayudarás a repartir todos los regalos." ―Aru
+
+< CARD_BOOST_PRINCESS >
+name=Privilegio de Princesa
+descr=Descarta todas las cartas en tu mano y toma 3 nuevas del mazo.\nEsta carta solo puede ser usada al ser la única en mano o al tener 3 o más.
+flavor="Podrás visitarme cuando tú quieras." ―Fernet
+
+< CARD_BOOST_PUDDING >
+name=Pudín
+descr=Recuperas todos tus puntos de vida.
+flavor="¡Hurra!" ―QP
+
+< CARD_BOOST_COOKIE >
+name=La Galleta de Saki
+descr=Recuperas 1 PV.
+flavor="¡Toma una galleta!" ―Saki
+
+< CARD_BOOST_STIFFCRYSTAL >
+name=Cristal Rígido
+descr=Efecto Guardado:\nNiega los efectos de una trampa.\nRecibes 5 estrellas por cada nivel de la trampa negada.
+flavor="Qué molestia..." ―Kyoko
+
+< CARD_BATTLE_BIGMAGNUM >
+name=Gran Magno
+descr=Pierdes 1 PV.\nRecibes +2 ATK durante esta batalla.\nEsta carta no podrá ser usada al tener 1 PV.
+flavor="¡Ahora, Gran Magno!" ―Capitán Tequila
+
+< CARD_BATTLE_FINALBATTLE >
+name=La Batalla Final
+descr=La duración de esta batalla será extendida a 10 rondas.
+flavor="¡Por la protección del mundo!"\n―Suguri & Hime
+
+< CARD_BATTLE_ONFIRE >
+name=¡Estoy En Llamas!
+descr=Recibes +1 ATK y -1 DEF durante esta batalla.
+flavor="¡Juguemos el resto de nuestras vidas!" ―Kae
+
+< CARD_BATTLE_RAINBOW >
+name=Círculo Multicolor
+descr=Recibes +2 EVD y -1 DEF durante esta batalla.
+flavor=Se siente como si estuviera dibujando un arcoíris...
+
+< CARD_BATTLE_RBITS >
+name=Rbits
+descr=Recibes +2 DEF durante esta batalla.\nNo podrás evadir.
+flavor="¡Formación Orbital!" ―QP
+
+< CARD_BATTLE_REVERSE >
+name=Campo Invertido
+descr=Durante esta batalla, los valores positivos y negativos de ATK, DEF y EVD de ambos jugadores son invertidos.
+flavor="¿No te estás tomando este juego muy en serio? Eres tan ton... es decir, ¡qué inmadurez!" ―Mei
+
+< CARD_BATTLE_SHIELD >
+name=Escudo
+descr=Recibes +3 DEF durante esta batalla.\nNo podrás contraatacar.\nEsta carta solo puede ser usada al ser el defensor.
+flavor="Lo que más me importa es que regreses con vida." ―Sham
+
+< CARD_TRAP_ASSAULT >
+name=Asalto
+descr=Entras en combate con el dueño de esta trampa, empezando con su ataque.
+flavor="¡Me aseguraré de que abandones el gremio de una vez por todas!" ―Peat
+
+< CARD_TRAP_BADPUDDING >
+name=Pudín en Mal Estado
+descr=Pierdes una carta aleatoria de tu mano.
+flavor="¡El pudín con salsa de soja...\n...sabe a erizo de mar!" ―Yuki
+
+< CARD_TRAP_DANGEROUSPUDDING >
+name=Pudín Peligroso
+descr=Efecto Guardado:\nTu próximo turno será omitido.
+flavor='Una mirada fue todo lo que ese pudín necesitó para robarse mi corazón.'
+
+< CARD_TRAP_EXCHANGE >
+name=Intercambio
+descr=Tú y el dueño de esta trampa intercambiarán cartas, estrellas y sus posiciones en el mapa.
+flavor="Es pesado..." ―Suguri\n"Tengo frío sin mi gorro..." ―Marc
+
+< CARD_TRAP_FLAMETHROWER >
+name=Lanzallamas
+descr=Pierdes todas tus cartas.\nSi no tienes cartas, serás noqueado de forma instantánea.
+flavor="¡Heeehaaaaah!" ―Punk
+
+< CARD_TRAP_TOYSTORE >
+name=Por el Futuro de la Tienda
+descr=Pierdes la mitad de tus estrellas.\nEl dueño de esta trampa las recibirá.\nEsta carta solo podrá ser colocada al tener menos de 50 estrellas en mano.
+flavor="Si tan solo... ¡Si tan solo Santa no existiera!" ―Arturo
+
+< CARD_TRAP_GOAWAY >
+name=¡Fuera de Aquí!
+descr=Serás enviado a un panel aleatorio en el mapa.
+flavor="Ajaja, esto me gusta." ―Nanako
+
+< CARD_TRAP_HEAT300 >
+name=Temperatura al 300%
+descr=Efecto Guardado (1):\nRecibes -2 DEF durante tu próxima batalla.
+flavor="¡Todo lo que necesito hacer es esquivar cada ataque!" ―Suguri
+
+< CARD_TRAP_INVASION >
+name=Invasión
+descr=Entras en combate con un enemigo aleatorio, empezando con su ataque.
+flavor="¿Qué? ¿Me están atacando...?" ―Suguri
+
+< CARD_TRAP_MIMYUU >
+name=El Martillo de Mimyuu
+descr=Pierdes 1 PV.
+flavor="¡Gracias por morir!" ―Mimyuu
+
+< CARD_TRAP_PIGGYBANK >
+name=El Cerdito
+descr=Recibes estrellas por un valor equivalente al número de capítulos transcurridos desde que esta trampa fue colocada x 5.
+flavor="Papi, ¿ya puedo romper el cerdito?" ―Mescal
+
+< CARD_TRAP_PURES >
+name='Pures', el Restaurante del Cielo
+descr=Pierdes la mitad de tus estrellas.\nRecuperas todos tus puntos de vida.
+flavor="¡Tenemos un nuevo cliente!" ―Chris
+
+< CARD_TRAP_TRAGEDY >
+name=Tragedia a Medianoche
+descr=Pierdes una carta aleatoria de tu mano.\nEl dueño de esta trampa la recibirá.
+flavor='La felicidad simplemente será tomada de tus manos antes de que puedas saberlo.'
+
+< CARD_EVENT_SEAGULLS >
+name=Nube de Gaviotas
+descr=Una unidad escogida de forma aleatoria recibirá 2 puntos de daño.
+flavor="¡Squaawk!" ―Gaviotas
+
+< CARD_EVENT_DINNER >
+name=La Cena
+descr=Todas las unidades recuperarán 3 PV.
+flavor="Vamos a cenar todos juntos." ―Natsumi
+
+< CARD_EVENT_FORCEDREVIVAL >
+name=Resurección Forzada
+descr=Todas las unidades noqueadas serán revividas con 1 PV.
+flavor="Todos ustedes se levantarán muy pronto." ―Kiriko
+
+< CARD_EVENT_GIFTEXCHANGE >
+name=Intercambio de Regalos
+descr=Todos los jugadores intercambiarán sus cartas de forma aleatoria, respetando el número total de cartas en cada jugador.
+flavor="¿Un intercambio de regalos? ¡Hagámoslo!"\n―Rbit, Rojo y Azul
+
+< CARD_EVENT_HEREANDTHERE >
+name=Aquí y Ahí
+descr=Todas las unidades serán enviadas a un panel aleatorio.
+flavor="¡Hacia el otro mundo!" ―Marie Poppo
+
+< CARD_EVENT_HOLYNIGHT >
+name=Noche de Paz
+descr=Efecto Permanente:\nTodos los jugadores recibirán una estrella adicional al comienzo de cada capítulo.
+flavor="Aja, por esa razón es una noche festiva." ―Hime
+
+< CARD_EVENT_LITTLEWAR >
+name=Guerra Pequeña
+descr=Duración: 3 capítulos.\nTodas las batallas tendrán una ronda adicional.
+flavor="Creo... Creo tener el poder para detener esto..." ―Suguri
+
+< CARD_EVENT_OHMYFRIEND >
+name=Oh, Amigo Mío
+descr=Los paneles del Jefe aparecerán.\nEsta carta no podrá ser usada si un jefe ya se encuentra activo en el campo de juego.
+flavor="Los robots también tenemos amigos." ―NoName
+
+< CARD_EVENT_OUTOFAMMO >
+name=Sin Munición
+descr=Duración: 1 capítulo.\nNingún jugador podrá usar sus cartas.
+flavor="¡Ya no tengo munición!" ―Peat
+
+< CARD_EVENT_SEALEDGUARDIAN >
+name=Guardián Sellado
+descr=Los puntos de vida de todas las unidades son reducidos a 1.
+flavor="Quiero que conozcas al ángel guardián de esta nave." ―Shifu
+
+< CARD_EVENT_ALLOUTMODE >
+name=Modo Super Máximo
+descr=Efecto Guardado:\nTodas las unidades reciben +2 ATK durante su próxima batalla.
+flavor="¡Esto te dolerá, aún si ya sabes qué es lo que te espera!" ―Tomomo
+
+< CARD_EVENT_WARUDA >
+name=Somos el Equipo Waruda
+descr=Todas las trampas en el campo de juego serán enviadas a paneles aleatorios.
+flavor="Qué inútil. ¡Nadie puede vencer a Tomato!" ―Tomato
+
+< CARD_HYPER_SUGURI >
+name=Acelerador
+descr=Duración: 1 capítulo.\nTiras el doble de dados para todas tus acciones.
+flavor="Estoy acelerando." ―Suguri
+
+< CARD_HYPER_FERNET >
+name=Derribo Aéreo
+descr=Todos los enemigos recibirán 1-3 puntos de daño.\nRecibes 15 estrellas por cada unidad noqueada con este efecto.
+flavor="Hmph, haré que todos caigan." ―Fernet
+
+< CARD_HYPER_HIME >
+name=Cadenas Unidas
+descr=Efecto Guardado:\nEl turno de todos los demás será omitido.\nAplica el efecto de "Encadenado" a todas las unidades afectadas.\nEncadenado: Recibes -2 EVD y -1 MOV durante los próximos 2 capítulos.
+flavor="No me gusta hacer este tipo de cosas." ―Hime
+
+< CARD_HYPER_PEAT >
+name=Cuervo Azul, el Segundo
+descr=Durante esta batalla, recibes ATK y DEF pero pierdes EVD por un valor equivalente al número de cartas en tu mano.
+flavor="¡Acabaré con esto!" ―Peat
+
+< CARD_HYPER_SORA >
+name=Especificaciones Extraordinarias
+descr=Duración: 1 capítulo.\nTus dados caerán en 6 para todas las acciones.
+flavor="Apreciaría que soltaran sus armas." ―Sora
+
+< CARD_HYPER_YUKI >
+name=¡A Jugar!
+descr=Una unidad escogida de forma aleatoria será noqueada.
+flavor="¿Por qué no usamos esto para decidir de quién será el turno?" ―Yuki
+
+< CARD_HYPER_QP >
+name=Modo Hiper
+descr=Recibes +2 ATK durante esta batalla.\nNo otorgarás estrellas ni victorias y revivirás en tu próximo turno al ser noqueado dentro del combate.
+flavor="¡MODO HIPER!" ―QP
+
+< CARD_HYPER_TOMOMO >
+name=Masacre Mágica
+descr=Todas las unidades que tengan todos sus puntos de vida (o una cantidad mayor) serán noqueadas.\nRecibes -1 REC en tu próximo intento de revivir por cada unidad noqueada con este efecto.
+flavor="Desaparezcan." ―Tomomo
+
+< CARD_HYPER_ARU >
+name=Regalo Para Ti
+descr=Todos los jugadores tomarán cartas del mazo hasta llenar sus manos.\nSi la mano de un jugador ya está llena, solo tomarán una carta.\nRecibes estrellas por un valor equivalente al número de cartas otorgadas x 10.
+flavor="Estos regalos son para los niños buenos." ―Aru
+
+< CARD_HYPER_KAI >
+name=Privilegio de Protagonista
+descr=Duración: 3 capítulos.\nAl ser el atacante, tu enemigo no podrá contraatacar.\nEste efecto solo puede ser activado una vez por combate.
+flavor="¡Este es el privilegio de un verdadero protagonista!" ―Kai
+
+< CARD_HYPER_POPPO >
+name=Ubicuo
+descr=Escoge a una unidad.\nIrás hacia el mismo panel que esa unidad, y les robarás estrellas por un valor equivalente a su nivel x 10.
+flavor="¡Poppo! ¡Poppopopopopo!"\n―Marie Poppo
+
+< CARD_HYPER_MARC >
+name=El Gran Misíl x 16
+descr=★Costo: Nivel x 10\nEscoge a una unidad.\nLa unidad escogida será dañada por un valor equivalente a tú nivel.\nRecibes 2 Victorias al noquear a una unidad con este efecto.
+flavor="¡Cargado! ¡Ve!" ―Marc
+
+< CARD_HYPER_MASTER >
+name=Prohibido De Por Vida
+descr=★Costo: Estrellas / 10.\nSolo podrás usar cartas de Regalo.\nAl ser usada, esta carta será enviada a otro jugador.\nAl ser descartada, pierdes todas las cartas en mano.
+flavor="¡Señor Gerente, es su turno!" ―Chris
+
+< CARD_HYPER_BOSSROBO >
+name=Turbo-Cargado
+descr=Tus PV son reducidos a 1.\nRecibes "Turbo-Carga" por cada PV perdido.\nTurbo-Carga: Recibes +1 ATK, pero consumes 1 carga al comienzo de cada turno.\nAl ser usado por Shifu Robot: Recuperas 1 PV al comienzo de cada turno, pierdes tu Escudo Absorbente, y niegas el efecto de Autoreparación.\nEste efecto se perderá al morir. 
+flavor="*Redoblo redoblo*." ―Shifu Robot
+
+< CARD_HYPER_CASTLE >
+name=Objeto Inamovible
+descr=Duración: 2 capítulos.\nOmites tus próximos turnos mientras este efecto se encuentre activo.\nNo podrás moverte.\nRecibes +2 DEF, y los enemigos que pasen sobre el panel actual tendrán que desafiarte.
+flavor="Con este poder, todo lo que se encuentre en el cielo será nuestro." ―Maestro del Gremio
+
+< CARD_HYPER_CHICKEN >
+name=El Huevo Dorado
+descr=Si la unidad es Gallina:\nEfecto Guardado (3): Los paneles de Pérdidas actuarán como paneles de Estrellas.\nSi la unidad no es Gallina:\nEfecto Guardado (3): Los paneles de Estrellas actuarán como paneles de Pérdidas.
+flavor="¡Cluuuuck!" ―Gallina
+
+< CARD_HYPER_BALL >
+name=Caparazón Reflectante
+descr=El valor base de tu ATK se transformará en 0.\nPodrás absorber hasta 2 puntos de daño.\nRecibes +2 ATK por cada punto de daño absorbido.\nEsta carta solo puede ser usada al ser el defensor.
+flavor="Enemigo detectado." ―Robo-Ball
+
+< CARD_HYPER_SEAGULL >
+name=La Acometida de Jonathan
+descr=Escoge a una unidad.\nIrás hacia el mismo panel que esa unidad, desafiándolos a un combate.\nLa unidad escogida recibirá -1 DEF.\nTu turno se acabará una vez que la batalla llegue a su fin.
+flavor="¡Squaawk!" ―Gaviota
+
+[EOF]

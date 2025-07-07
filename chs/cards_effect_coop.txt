@@ -1,0 +1,305 @@
+< CARD_DECEPTIVELYDISARMED_EFFECT >
+name=虚假除械
+descr=跳过下次行动。
+
+< CARD_UNLUCKYBEAST_EFFECT >
+name=不幸的野兽
+descr=跳过下次行动。
+
+< CARD_STUFFED_EFFECT >
+name=吃饱
+descr=在下一场战斗中ATK-1。
+
+< CARD_BURNOUT_EFFECT >
+name=萎靡不振
+descr=每层储备使复活延迟1回合。
+
+< CARD_PROTAGONISTPRIVILEGE_EFFECT >
+name=主角的特权
+descr=必定先攻。敌人无法反击。\n（每场战斗只能起效1次）
+
+< CARD_AIRSUPPORT_EFFECT >
+name=飞艇支援
+descr=在下一场战斗中DEF+2。
+
+< CARD_COOP_BLAZING_EFFECT >
+name=爆燃！
+descr=每层储备使ATK+1（友方）或\nDEF-1（敌人）。\n倒下时效果结束。
+
+< CARD_COOP_MELTINGMEMORIES_EFFECT >
+name=融化的记忆
+descr=甜点破坏者与你战斗时\nATK·DEF·EVD+1。
+
+< CARD_COOP_EVILSPYWORKEXEC_EFFECT >
+name=阴谋的间谍行动～执行
+descr=在回合结束时恢复2点HP。
+
+< CARD_COOP_BANNEDFORLIFE_GIFT_EFFECT >
+name=永久驱逐
+descr=能使BOSS跳过下次行动。
+
+< CARD_COOP_BANNEDFORLIFE_EFFECT >
+name=永久驱逐
+descr=跳过下次行动。
+
+< CARD_COOP_GUIDANCE_EFFECT >
+name=风信鸡的指引
+descr=除战斗外，骰子枚数变为2枚。\n倒下时效果结束。
+
+< CARD_COOP_BEASTWITCH_EFFECT >
+name=兽之魔女
+descr=不会因BOSS与其手下而丢失STAR。
+
+< CARD_COOP_FINALSURGERY_EFFECT >
+name=决杀手术
+descr=复活前REC-2。
+
+< CARD_COOP_STEALTHON_EFFECT >
+name=隐身启动
+descr=无法被敌人挑战。\n不会触发遭遇格或BOSS格。\n进入战斗时效果结束，并且在这场战斗中\nATK+2。
+
+< CARD_COOP_SPECIALSTAGE_EFFECT >
+name=演唱会模式
+descr=MOV-3，只能触发移动类型的格子，不能\n使用卡片。\n无法被敌人挑战。\n当对手在5×5范围内结束回合时，从其手中\n夺取本角色等级×5的STAR。\n倒下时效果结束。
+
+< CARD_COOP_IDEALWORLD_EFFECT >
+name=机械朋友
+descr=机械系角色将会代替玩家进行战斗，且此机械系\n角色将ATK+1。
+
+< CARD_COOP_GOODESTBOY_EFFECT >
+name=可爱到犯规的小狗狗
+descr=不会触发BOSS格。\n当你与另一名玩家在同一格，且其中一方回合\n结束时，双方皆抽取一张卡。无法发起挑战\n或受到挑战。\n玩家可以停下来摸摸你。
+
+< CARD_COOP_PRISONBREAK_EFFECT >
+name=假想越狱
+descr=无法被挑战。\n免疫来自BOSS的陷阱卡与卡片伤害。\n移动骰枚数变为2枚。\n每移动1格失去1层。
+
+< CARD_COOP_POPPOSNATCHER_EFFECT >
+name=掠夺者啵噗
+descr=DEF-1。\n经过敌人时偷取你等级×3的STAR。\n无法进行目标检测。
+
+< CARD_BOSS_HYPE_EFFECT >
+name=兴奋
+descr=当拥有10层储备时，BOSS将会使用\n「撒野」。
+
+< CARD_BOSS_RUMBLE_EFFECT >
+name=轰鸣
+descr=每层储备使ATK+1。
+
+< CARD_BOSS_DANCEOFSEAGULLS_EFFECT >
+name=海鸥之舞
+descr=在下一场战斗中ATK-2。
+
+< CARD_BOSS_BEAKOFGODBIRD_EFFECT >
+name=神鸟之喙
+descr=ATK+1。
+
+< CARD_BOSS_BEAKOFDEMIBIRD_EFFECT >
+name=半鸟之喙
+descr=ATK+2。
+
+< CARD_BOSS_FLIGHT_EFFECT >
+name=飞行
+descr=反向移动，对经过的每名敌人造成等级数的\n伤害。
+
+< CARD_BOSS_PIYOMARCH_EFFECT >
+name=小鸡游行
+descr=在下一场战斗中EVD+2。
+
+< CARD_BOSS_HEADLESSCHICKENMINION_EFFECT >
+name=群鸡无首
+descr=在下一场战斗中ATK·EVD+2。
+
+< CARD_BOSS_HEADLESSCHICKEN_EFFECT >
+name=群鸡无首
+descr=ATK+2。
+
+< CARD_BOSS_WIRELESSCHICKEN_EFFECT >
+name=遥控鸡
+descr=ATK+2。
+
+< CARD_BOSS_ATTACKDOWN_EFFECT >
+name=攻击下降
+descr=每层储备使ATK-1。
+
+< CARD_BOSS_DEFENSEDOWN_EFFECT >
+name=防御下降
+descr=每层储备使DEF-1。
+
+< CARD_BOSS_EVASIONDOWN_EFFECT >
+name=闪避下降
+descr=每层储备使EVD-1。
+
+< CARD_BOSS_TURBO_EFFECT >
+name=涡轮
+descr=移动骰枚数变为3枚。
+
+< CARD_BOSS_EMP_EFFECT >
+name=电磁脉冲
+descr=无法使用卡片。
+
+< CARD_BOSS_DELTAFIELD_EFFECT >
+name=被扰乱的三角力场
+descr=骰子投出的点数为1～3。
+
+< CARD_BOSS_IMAGINARYNUMBERS_EFFECT >
+name=虚数
+descr=骰子投出的点数为7。
+
+< CARD_BOSS_DELUSIONALNUMBERS_EFFECT >
+name=妄数
+descr=骰子投出的点数为0或7，\n投出0时最小结果为0。
+
+< CARD_BOSS_HEALTHDOWN_EFFECT >
+name=生命下降
+descr=每层储备使HP上限-1。
+
+< CARD_BOSS_RECOVERYMODE_EFFECT >
+name=恢复模式
+descr=直到下一场战斗，跳过移动骰并每回合恢复\n2点HP。
+
+< CARD_BOSS_PERFECTREFLECTIVESHELL_EFFECT >
+name=完美反射外壳
+descr=受到的每点伤害都将返还给攻击者。
+
+< CARD_BOSS_PROTECT_EFFECT >
+name=保护
+descr=受到伤害时，每消耗1层储备最多可降低3点\n伤害，直至伤害变为1点。\n当储备层数耗尽时，获得3轮负面效果：\nDEF·EVD-2、MOV-1。
+
+< CARD_BOSS_SCRAMBLED_EFFECT >
+name=扰乱
+descr=DEF·EVD-2、MOV-1。
+
+< CARD_BOSS_POTECT_EFFECT >
+name=啵护
+descr=受到伤害时，每消耗1层储备最多可降低2点\n伤害，直至伤害变为1点。\n在储备层数耗尽时，获得3轮负面效果：\nDEF·EVD·MOV-1。
+
+< CARD_BOSS_SCRAMBLEDPO_EFFECT >
+name=扰乱
+descr=DEF·EVD·MOV-1。
+
+< CARD_BOSS_ELUSIVE_EFFECT >
+name=飘忽不定
+descr=BOSS经过敌人时偷取等级数×5的STAR。\n如果不是BOSS角色，STAR将会给予存活的BOSS。
+
+< CARD_BOSS_STARMANIA_EFFECT >
+name=星星狂热
+descr=每轮获得储备层数的STAR。
+
+< CARD_BOSS_ROBOTAX_EFFECT >
+name=机器税
+descr=每层储备使DEF+1。
+
+< CARD_BOSS_HIGHWAYROBBERY_EFFECT >
+name=拦路抢劫
+descr=ATK+3。\n反向移动，在挑战敌人时不会停步。\nBOSS造成的每点伤害改为偷取10颗STAR。
+
+< CARD_BOSS_GREED_EFFECT >
+name=贪婪
+descr=这个角色和存活的手下，在战斗中造成每点\n伤害时额外获得5颗STAR。
+
+< CARD_BOSS_CHASE_EFFECT >
+name=追逐
+descr=移动骰枚数变为2倍，每与1名玩家\n战斗过，获得1点兴奋。
+
+< CARD_BOSS_TIRED_EFFECT >
+name=疲劳
+descr=下次倒下时的REC+1。
+
+< CARD_BOSS_EXHAUSTED_EFFECT >
+name=疲惫不堪
+descr=下次倒下时的REC+2。
+
+< CARD_BOSS_PLAYTAG_EFFECT >
+name=鬼抓人
+descr=ATK+2。\n每与1名玩家战斗过，获得1点兴奋。
+
+< CARD_BOSS_HIDENSEEK_EFFECT >
+name=捉迷藏
+descr=直到下一场战斗，跳过移动骰并获得2点兴奋。
+
+< CARD_BOSS_PSYCHEDUP_EFFECT >
+name=跃跃欲试
+descr=MOV+2
+
+< CARD_BOSS_WATERMELONSPLIT_EFFECT >
+name=打西瓜
+descr=ATK+5，在挑战敌人时不会停步。\n每击倒1名玩家获得2点兴奋。
+
+< CARD_BOSS_HYPEITUP_EFFECT >
+name=兴奋起来
+descr=ATK·DEF+1、EVD-1。\n在战斗中受到伤害时失去1点兴奋。\n被战斗击倒时失去2点兴奋。
+
+< CARD_BOSS_RAMPAGE_EFFECT >
+name=撒野
+descr=每层储备使撒野的伤害+1。
+
+< CARD_BOSS_RAMPAGEHYPER_EFFECT >
+name=撒野
+descr=每层储备使ATK+1。\n每层储备使撒野的伤害+1。
+
+< CARD_BOSS_HYPEMODE_EFFECT >
+name=兴奋模式
+descr=ATK+2、DEF+1。\n倒下时在下一个回合复活。
+
+< CARD_BOSS_QUAKE_EFFECT >
+name=地震
+descr=MOV-2。
+
+< CARD_BOSS_POPPOMARCH_EFFECT >
+name=啵噗游行
+descr=EVD+2。
+
+< CARD_BOSS_TURBOCHICKEN_EFFECT >
+name=涡轮鸡
+descr=移动骰枚数+1，在挑战敌人时不会停步。\n每层储备使ATK+1。\n每与1名玩家战斗过，获得25颗STAR。
+
+< CARD_BOSS_SWARM_EFFECT >
+name=群鸡起舞
+descr=在下一场战斗中ATK+2，且如果先攻，对方\n无法反击。（每场战斗只能起效1次）
+
+< CARD_SKILL_COOP_FURY_EFFECT >
+name=愤怒
+descr=每层储备使战斗中造成的伤害+1。
+
+< CARD_COOP_HYPER_ATTACKER_EFFECT >
+name=炎炎烈日的最终兵器
+descr=战斗中造成的伤害+3。
+
+< CARD_COOP_PROTECT_EFFECT >
+name=保护
+descr=每层储备使下次受到的伤害-1。\n效果持续至抵挡伤害。
+
+< CARD_SKILL_COOP_GUARDIANSPIRIT_EFFECT >
+name=守护灵
+descr=每层储备使战斗中下次受到的伤害-1。
+
+< CARD_COOP_HYPER_GUARDIAN_EFFECT >
+name=白色海滩的再生者
+descr=战斗中下次受到的伤害-2。
+
+< CARD_SKILL_COOP_FROMBEYOND_EFFECT >
+name=绝境重生
+descr=被战斗击倒时以储备层数×1的HP复活。
+
+< CARD_COOP_HYPER_AVENGER_EFFECT >
+name=充满执念的复仇者
+descr=被战斗击倒时以储备层数×1的HP复活。
+
+< CARD_COOP_RANSOMNOTE_EFFECT >
+name=赎金勒索信
+descr=在回合结束时倒下。
+
+< CARD_COOP_DEMAND_EFFECT >
+name=索取
+descr=将下一个踩到的格子视为抽卡格。
+
+< CARD_COOP_HYPER_DEALER_EFFECT >
+name=夏日游戏
+descr=将下一个踩到的格子视为抽卡×2格。
+
+< CARD_COOP_INTELLECTUALBLUFF_EFFECT >
+name=故弄玄虚
+descr=每当有玩家使用这种类型的卡片时，该玩家\n抽1张卡。
+
+[EOF]

@@ -1,0 +1,169 @@
+
+<0000> Aqui!
+<0001> Lá vamos nós!
+<0002> Nuooh!
+<0003> Esse negócio é meio pesado...
+<0004> Eu escolho esta carta!
+<0005> Aqui vou eu!
+<0006> Ushishi...
+<0007> Mágico!
+<0008> Armadilha Mágica!
+<0009> É hora da armadilha!
+<0010> Uhihihihi!
+<0011> Vamos ver o que vai acontecer.
+<0012> Vou te quebrar em pedaços!
+<0013> Tema agora os meus poderes!
+<0014> Poder Mágico!
+<0015> Amadureça, você diz? Obrigada pelo elogio!
+<0016> Mas que desespero!
+<0017> Estou de voooolta!
+<0018> É hora da vingança mágica!
+<0019> Eu ainda não fui derrotada!
+<0020> Uooooh! Já estou me levantando!
+<0021> Nããoo!
+<0022> Droga!
+<0023> Desgraça!
+<0024> De jeito nenhum!
+<0025> Ataque Mágico!
+<0026> E lá vem dor para você!
+<0027> Uryaryaah!
+<0028> Hiyaah!
+<0029> Oww!
+<0030> Isso dói pra caramba!
+<0031> Apenas pare!
+<0032> Ugyaah!
+<0033> Cura Mágica!
+<0034> Eita, minha pele está toda incandescente!
+<0035> Mano, o poder mágico está crescendo dentro de mim.
+<0036> Eu acho que posso seguir em frente!
+<0037> Teleporte Mágico!
+<0038> É hora de teleportar!
+<0039> Teletransportação!
+<0040> Eu vou passar voando!
+<0041> Guaaaah...
+<0042> Upoaaah...
+<0043> Ginyaaah!!
+<0044> Ajapaaah...
+<0045> Deixe-me te ensinar uma lição!
+<0046> Você vai sentir muita dor!
+<0047> Eu sugiro que você se renda antes que eu faça você chorar!
+<0048> Batalha Mágica!
+<0049> Oh, cê tá vindo até mim? Cê tá vindo até mim?
+<0050> Venha descobrir do que eu realmente sou capaz!
+<0051> Desafio aceito!
+<0052> Ãhn? Você tem certeza que deseja fazer isso?
+<0053> Hoatah!
+<0054> Atchim!
+<0055> Deeyaah!
+<0056> Uririiii!
+<0057> Gyaaah!
+<0058> Ei, isso dói!
+<0059> Ugh, essa foi muito boa...!
+<0060> Gobaah!
+<0061> Ugyaaah!
+<0062> Isso dói demaaaais!
+<0063> Qual é, não exagere, por favor!
+<0064> Goff!
+<0065> Esplêndido.
+<0066> Suavemente.
+<0067> Dançando feito uma borboleta.
+<0068> Isso não vai nem tocar em mim!
+<0069> Heeya-hooo!
+<0070> Você realmente acha que pode me vencer?
+<0071> Vencendo!
+<0072> Vitória Mágica!
+<0073> D-d-d-derrotadaaaaa!
+<0074> Kyuuu...
+<0075> Você não vai... se safar depois disso...
+<0076> Nyaah...
+<0077> Estrelas!
+<0078> Me dê muito mais delas!
+<0079> Estou tomando tudo isso!
+<0080> Nunca estive mais feliz!
+<0081> Meu saláááário!
+<0082> Aaaaaaaah!
+<0083> Ah não!!
+<0084> Espera ae, minhas estreeeelas!
+<0085> Au! Quem raios colocou uma armadilha aqui!?
+<0086> O quê? Uma armadilha?
+<0087> Sorrateiro!
+<0088> Fueeee! Uma armadilha? ...Você só pode estar brincando!?
+<0089> Lá vem um chefão!
+<0090> É hora do chefão. Quem será que vai ser?
+<0091> Hehehe, tema o chefão!
+<0092> Nós temos um gigantão aqui!
+<0093> Estrelas, o que mais seria?
+<0094> Serei uma colecionadora de estrelas!
+<0095> Estarei pegando uma pancada de estrelas!
+<0096> Estrelas, estrelas e estrelas!
+<0097> Vou chutar a bunda de todo mundo!
+<0098> Irei mostrar para todos vocês meu Massacre Mágico!
+<0099> Tema os meus poderes!
+<0100> Fuhaha! Vocês todos irão experimentar a violência esmagadora de uma garota mágica!
+<0101> É a Tomomo. E aí?
+<0102> Vamos nos divertir um pouco.
+<0103> Certo, está na hora de mostrar essas pessoas do que sou capaz...!
+<0104> Hehehe, hora de colocar o medo divino nas pessoas!
+<0105> Beleza então, vamos lá!
+<0106> Eu estou realmente pronta para trabalhar hoje!
+<0107> Aqui vou eu!
+<0108> Yahooo! O jogo começa!
+<0109> Bom, essa é apenas a conclusão lógica, né?
+<0110> Ebaaaa! Eu venci! Eu venci!
+<0111> Kuhihi, isso mesmo!
+<0112> A vitória é minha! Uoooh!
+<0113> Consegui algo novo!
+<0114> É um Item Mágico novo!
+<0115> Ótimo, ganhei algumas coisas novas.
+<0116> Minha sorte me trouxe isso!
+<0117> Certo, hora de trocar!
+<0118> Continue daqui, beleza?
+<0119> É todo seu.
+<0120> Boa sorte!
+<0121> Certo.
+<0122> Bom, muito bom.
+<0123> Sim!
+<0124> Não!
+<0125> Minha nossa!
+<0126> Bom trabalho!
+<0127> Hmm?
+<0128> Vamos lá!
+<0129> Hora de jogar o dado!
+<0130> Vai!
+<0131> Yahoo!
+<0132> Ãhn?
+<0133> Você é incrível!
+<0134> Isso foi excelente!
+<0135> Fala sério...
+<0136> Eu estou usando este Hiper!
+<0137> Isso é meu agora!
+<0138> Vamos ver o que isso faz!
+<0139> Vou pegar seu poder emprestado!
+<0140> Obrigaaada.
+<0141> Aí caramba, é a garota maluca...
+<0142> Mano, ela está meio que está me assustando demais!
+<0143> Ufa... Foi difícil...
+<0144> Ugh, por favor não vai tão longe...
+<0145> Uma batalha em duas Deusas Doces! Eu não vou perder!
+<0146> Isso será divino!
+<0147> Sweet Eater é a vencedora!
+<0148> Afinal de contas, como uma deusa, sua posição é melhor que a minha...
+<0149> Sweet Maker, nós vamos lutar, você e eu!
+<0150> Algo está cheirando muito doce... Seria você, Sweet Maker?!
+<0151> Hehehe, eu venci. Você terá que fazer pudim para mim depois!
+<0152> Fuaah... Luta contra você me deixa com muita fome...
+<0153> Mostre-me o seu poder de proteção!
+<0154> Você se tornou em Sweet Guardian, Q-chan!
+<0155> Q-chan, isso é tudo que você é capaz?
+<0156> Você só se tornou uma deusa agora. Você ainda tem um longo percurso a seguir.
+<0157> Wow, ela é linda demais! Eu meio queria que isso fosse eu...
+<0158> Esse é meu modo super-completo!
+<0159> Poppo, saia do meu caminho!
+<0160> Não acredito que você está se rebelando contra mim, Poppo...
+<0161> Nem ao menos pense em se rebelar de novo, ok?
+<0162> Contra a Poppo... isso não pode ser verdade...
+<0163> Poppo...?
+<0164> Maldita! Comece a orar!
+<0165> Ugh, lá vem um problemão...!
+<0166> Ufa, como ousa me dar trabalho!
+<0167> Ela é a última pessoa que quero ver me derrotando...

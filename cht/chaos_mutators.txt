@@ -1,0 +1,119 @@
+< MUTATOR_RANDOM >
+name=隨機
+descr=隨機選擇一種混沌突變。
+
+< MUTATOR_HYPER_DECK >
+name=Hyper卡組
+descr=所有卡組中的卡片都被替換為預先生成的\nHyper卡。
+
+< MUTATOR_RANDOM_GENERATION >
+name=打亂盤面
+descr=每輪隨機改變除傳送格與HOME格外的\n所有格子。
+
+< MUTATOR_POPPOMANIA >
+name=終極啵噗狂熱
+descr=所有抽取的Hyper卡都是神出鬼沒。
+
+< MUTATOR_NEMESIS_DRAFT >
+name=徵敵
+descr=在遊戲開始時，選擇的角色將更換所有者。
+
+< MUTATOR_ULTIMATE_JOKER >
+name=終極鬼牌
+descr=將所有卡片視為1級且無需COST。
+
+< MUTATOR_UNSTABLE_SELECTION >
+name=捉摸不定的選擇
+descr=選擇的角色將被替換為隨機角色。
+
+< MUTATOR_MIXED_JUICE >
+name=100%混成汁！
+descr=在遊戲開始時，隨機改變全部角色基礎數值。\n抽取的所有Hyper卡都將被隨機化。
+
+< MUTATOR_MULTIPLICATION >
+name=感知倍增
+descr=全部角色基礎數值與持續時間都將翻倍。
+
+< MUTATOR_FAERIZE >
+name=妖精化
+descr=所有玩家變為奧羅拉。\n一個BOT將使用你原本所選擇的角色，\n於你所在的格子加入你的行列，並與你共享\nWIN和STAR。\n\n只有BOT才能進行目標檢測。\n指引你的BOT取得勝利，最終贏得遊戲吧。
+
+< MUTATOR_MAXTENSION >
+name=全部件擴張
+descr=所有戰鬥卡替換為部件擴張，且等級\n變為1級。
+
+< MUTATOR_POPPOFORMATION >
+name=啵噗化
+descr=每間隔隨機2至10輪，所有玩家轉變為啵噗\n2輪時間。
+
+< MUTATOR_FORCED_EXCHANGE >
+name=強制交換
+descr=每經過5輪，在該輪開始時，所有玩家的手牌\n都將重新分配，效果如同「禮物交換」。
+
+< MUTATOR_BOMBERJAM >
+name=炸彈狂歡
+descr=所有人每回合都能夠放置炸彈。炸彈將在\n經過隨機輪數後爆炸。\n但你也獲得了短距離衝刺的能力。
+
+< MUTATOR_DYNAMIS_DICE >
+name=變化骰
+descr=自由選擇你的骰子結果。\n同一個數字在使用後無法再次使用，除非\n將其它數字全部用盡。
+
+< MUTATOR_SHOPAHOLIC >
+name=購物狂
+descr=賞金獵人模式的商店將生成在隨機格子，\n銷售的商品也有所調整。
+
+< MUTATOR_KNIGHTS_AND_FAERIES >
+name=騎士與妖精
+descr=在遊戲開始時，可以選擇使用守護者或奧羅拉\n進行遊戲，其能力也經過了相應調整。\n抽取的所有Hyper卡都將被隨機化，同時\n會發生一些意外事件。
+
+< MUTATOR_FOURHEAVENLYKINGS >
+name=四大天王
+descr=在遊戲開始時，選擇一名合作模式BOSS\n來進行整場遊戲。
+
+< MUTATOR_CHAOS_BATTLEFIELD >
+name=混沌戰場
+descr=所有戰鬥默認持續2回合。\n每10輪，所有格子變為玩家遭遇格。此類戰鬥將持續10回合。\n每次升級時可以選擇一項數值+1。
+
+< MUTATOR_HOT_POTATO >
+name=燙手小精怪
+descr=隨機玩家獲得一張「燙手小精怪」禮物卡。\n拿著它有可能會獲得STAR，也有可能會爆炸\n並強制送給另一名玩家。
+
+< MUTATOR_SHARING_IS_CARING >
+name=有福同享
+descr=所有玩家每輪將手牌給予下一個玩家。
+
+< MUTATOR_OVERINDULGENCE >
+name=全面縱溺
+descr=HP上限為99，但會以1HP狀態立即復活。\n所有卡片被替換為甜點類卡片。\n玩家會因為擁有大量HP獲得獎勵，但吃得太多\n會使人變得遲緩。
+
+< MUTATOR_UNLIKELY_ALLIANCE >
+name=不可能的同盟
+descr=與既定盟友共享目標要求。\n盟友間無法戰鬥，但可以互相治療與復活。
+
+< MUTATOR_TRUE_CONVERGENCE >
+name=真·收斂
+descr=體驗原汁原味的場地破壞效果，每6輪觸發一次。
+
+< MUTATOR_CARD_MANIA >
+name=嗜卡如命
+descr=所有卡組中的卡片都將翻倍。卡堆中的HYPER將從原有的8張增加至16張。所有角色的手牌上限提高至5，回合中可使用任意張卡片。所有人每輪都可以抽取1張卡片。
+
+< MUTATOR_BDTT >
+name=集火坦克
+descr=組隊對抗被隨機指定為坦克的玩家。\n擊倒坦克時三名殲滅者獲勝。\n坦克在生存30輪時或擊倒所有殲滅者時\n獲勝。
+
+< MUTATOR_SINGLE_CREDIT >
+name=一幣換人
+descr=被擊倒時立即復活。復活後，切換為隨機角色。
+
+< MUTATOR_REVERSIBLE_FORTUNE >
+name=逆天改命
+descr=初始擁有200顆STAR與14WIN。\n獲勝需要清空等級、並將STAR或WIN\n降至0。\n卡片COST減半，且不超過30顆STAR。
+
+< MUTATOR_TAG_TEAM >
+name=搭檔模式
+descr=組建自己的小隊，成為本地100%鮮橙汁\n比賽冠軍吧！
+
+< MUTATOR_ULTIMATE_TAG_TEAM >
+name=終極搭檔模式
+descr=搭檔模式，但不是單純的搭檔模式！\n換人冷卻時間降至1輪。\n戰鬥時也可以選擇換人。

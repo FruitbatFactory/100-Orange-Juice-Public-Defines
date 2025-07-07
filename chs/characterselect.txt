@@ -1,0 +1,17 @@
+
+< CHARACTERSELECT_QP >
+只要为了布丁什么事情都做得出来的笨狗。\n能应对任何情况的万能角色。上手难度：中等
+
+< CHARACTERSELECT_SUGURI >
+速度非常快的超过1万岁的女孩子。\n生死取决于回避间。上手难度：专家
+
+< CHARACTERSELECT_MARC >
+非常喜欢在天空中飞翔的女孩子。\n攻防很高、还具有能造成大量伤害的HYPER卡。上手难度：中等
+
+< CHARACTERSELECT_KAI >
+失去钱包的平凡青年。\n平衡的战斗型角色。上手难度：简单
+
+< CHARACTERSELECT_DLC >
+※你可以在卡组组成画面选择你拥有的DLC角色。
+
+[EOF]

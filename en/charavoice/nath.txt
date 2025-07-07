@@ -1,0 +1,168 @@
+<0000> Excuse me for the kick, circumstances dictate it...
+<0001> May I kick it?
+<0002> Hmph!
+<0003> I'll kick the dice.
+<0004> So as to gain the upper hand...
+<0005> I'm accustomed to handling these things.
+<0006> I'll go on the offensive now.
+<0007> I'll alter the situation with a card.
+<0008> Here is a trap.
+<0009> I'm setting one here...
+<0010> I'm very good at these.
+<0011> You'd better stay away from this.
+<0012> My fighting strength has been improved.
+<0013> If I must fight.
+<0014> I warn you: I'm stronger than ever.
+<0015> Are you prepared?
+<0016> This is my last resort.
+<0017> I'm resuming my duty.
+<0018> I can continue.
+<0019> I'm not finished yet.
+<0020> All functions are back to normal.
+<0021> I'm unable to continue my duty.
+<0022> I'm still recovering.
+<0023> I need some more time.
+<0024> This is frustrating.
+<0025> I'll attack you.
+<0026> I'm coming at you.
+<0027> I'm doing this.
+<0028> Commencing attack.
+<0029> Ugh.
+<0030> I've taken damage.
+<0031> Ugh, where did that come from...?
+<0032> Not an ideal development...
+<0033> I'm recovered now.
+<0034> With this, I can sustain myself for a while.
+<0035> I'm perfectly good to go.
+<0036> I've been saved.
+<0037> Warp?
+<0038> Am I getting blown away?
+<0039> This is completely unexpected...
+<0040> Where am I landing...?
+<0041> Ugh, where did I get hit from...?
+<0042> I've been knocked out cold.
+<0043> I never imagined getting cornered like this.
+<0044> I got the worst of it.
+<0045> I'll be rid of you.
+<0046> I'm going to challenge you.
+<0047> Here I come.
+<0048> Commencing combat.
+<0049> Are you an enemy?
+<0050> Enemy encounter.
+<0051> I'm ready to return fire.
+<0052> Challenge accepted. Come.
+<0053> I'll shoot you.
+<0054> I'm going to take you down.
+<0055> I'm going to hit you.
+<0056> Attack.
+<0057> I've been hit.
+<0058> I can keep going.
+<0059> Have I been hit?
+<0060> Ugh.
+<0061> Severely damaged.
+<0062> This is...
+<0063> I need to do something.
+<0064> Argh.
+<0065> Successfully dodged.
+<0066> No issues dodging that.
+<0067> Did you think you could hit me?
+<0068> No trouble at all.
+<0069> I have won the game.
+<0070> Victory is mine.
+<0071> Let's move on to the next one.
+<0072> Well, next up is...
+<0073> A defeat...?
+<0074> So I've lost the game, huh.
+<0075> I can't move.
+<0076> Oh my goodness.
+<0077> I've gained stars.
+<0078> So, should I gather these?
+<0079> What on earth are these?
+<0080> What are these stars for...?
+<0081> They slipped out.
+<0082> Stars have been lost.
+<0083> Should I not have lost them...?
+<0084> I've lost them.
+<0085> So it's a trap.
+<0086> Am I in a... trap?
+<0087> Someone got me.
+<0088> Ugh... A trap?
+<0089> A large entity has been detected.
+<0090> A gigantic... enemy?
+<0091> A large amount of energy has been detected.
+<0092> One false move, and I'll be finished...
+<0093> It seems that I need to gather stars.
+<0094> Roger that. Commencing star gathering.
+<0095> Will I gather these objects?
+<0096> Will I learn what these stars are for... if I have many of them?
+<0097> Combat. Roger that.
+<0098> I was born to fight.
+<0099> Yes, I'm commencing combat now.
+<0100> Yes, I'll keep on fighting.
+<0101> I'm Nath.
+<0102> I'd gladly join you if you'd like.
+<0103> Let's have a good game.
+<0104> With... me? Yes, certainly.
+<0105> It has begun.
+<0106> It's the start of the game.
+<0107> Commencing my duty.
+<0108> All right... I'm going out.
+<0109> We won the game... it seems.
+<0110> Mission accomplished.
+<0111> I have achieved good results.
+<0112> The victory is ours. My hard work paid off, too.
+<0113> We've gained a reward.
+<0114> It pleases me that you've gained something good.
+<0115> I'm not sure how to use that, so I entrust it to you.
+<0116> We don't seem to own any of that.
+<0117> Please switch places with me.
+<0118> I'm relying on you.
+<0119> I'm certain you'll do a better job in this situation.
+<0120> Please deal with the rest.
+<0121> Yes.
+<0122> I'm happy for you.
+<0123> Very well.
+<0124> No.
+<0125> Ugh...
+<0126> You're in luck.
+<0127> Mhm...
+<0128> Let's go, shall we?
+<0129> Dice.
+<0130> Here I go.
+<0131> Hello.
+<0132> Hmm...
+<0133> That's good.
+<0134> That's wonderful.
+<0135> ......
+<0136> Isn't this a hyper card...
+<0137> An enemy's card...?
+<0138> I'll use whatever it takes to win...
+<0139> Whatever means are necessary...
+<0140> A puppy... How cute...
+<0141> Are you a stray?
+<0142> Would you like to come to my place?
+<0143> That's one energetic puppy.
+<0144> I didn't expect to fight you again.
+<0145> You're...
+<0146> It's my victory this time.
+<0147> You're as strong as before.
+<0148> I must take you down here.
+<0149> I've just detected her.
+<0150> I can't let you beat me again.
+<0151> Ugh... Not again...
+<0152> What on earth... are you two doing?
+<0153> Sora, Sham... I demand an explanation.
+<0154> I can tell you two enjoy what you're doing... I'm happy for you.
+<0155> You two are seizing the day... I'm envious.
+<0156> Would you like something to eat?
+<0157> Aren't you sleepy?
+<0158> Can I rub my cheek against yours?
+<0159> Fufu, are you having fun?
+<0160> You're such a fluffy puppy.
+<0161> Fufu... Oh, it's nothing.
+<0162> May I rub my cheek against yo-... No?
+<0163> How adorable...
+<0164> What wonderful flexibility.
+<0165> May I have a feather of yours?
+<0166> Those long ears... They're too cute.
+<0167> May I touch you just for a bit?

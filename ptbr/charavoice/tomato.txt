@@ -1,0 +1,160 @@
+<0000> Deixa eu fazer isto!
+<0001> Ali!
+<0002> Yah!
+<0003> Toryah!
+<0004> Eu vou jogar uma carta!
+<0005> Agora é a hora para isto!
+<0006> Que tal isto! Eu vou superar!
+<0007> Parece que terei que usar isto.
+<0008> Kufufu, eu certamente amo coisas como esta.
+<0009> Eu estou deixando uma armadilha aqui.
+<0010> Me pergunto quem vai cair para isto♪
+<0011> Especialidade dos Waruda: Armadilhas brutais!
+<0012> Carta de batalha!
+<0013> Eu acho que terei que usar isto.
+<0014> Tomato irá se tornar invencível com isto!
+<0015> Esta é a minha estratégia!
+<0016> Decole! Máquina Waruda!
+<0017> Como você ousa fazer bullying com a Mimyuu!
+<0018> Bom trabalho, Mimyuu. Eu continuo daqui.
+<0019> Mimyuu, aqui umas guloseimas de recompensa pelos seus esforços.
+<0020> O inimigo de Mimyuu é também meu inimigo!
+<0021> Ugh...
+<0022> Droga...
+<0023> Mimyuu...
+<0024> Eu errei o retorno...!?
+<0025> Ataque Waruda!
+<0026> Eu vou acabar com você!
+<0027> Kufufu!
+<0028> Tooryaaah!
+<0029> Isso dói!
+<0030> O que raios você está fazendo!?
+<0031> Kuu!
+<0032> Uwah!
+<0033> Isto ajuda bastante!
+<0034> Essa foi uma boa pausa!
+<0035> Kufuu, eu fui salva!
+<0036> Eu me sinto tão melhor agora!
+<0037> Um teleporte!
+<0038> Guwaah, eu estou sendo raptada!
+<0039> Para onde que estou indo!?
+<0040> Isto parece ruim no meu estômago!
+<0041> D-droga...
+<0042> G-glória aos Waruda...
+<0043> Mesmo se eu perder, Mimyuu irá...
+<0044> Mimyuu, você consegue... *desaba*
+<0045> Está na hora da batalha!
+<0046> Se liguem para essa minha técnologia incrível!
+<0047> Fufufu! Eu vou acabar com você!
+<0048> Se você deseja pedir desculpas, agora é a hora!
+<0049> Muito bem, desafio aceito!
+<0050> Kufufu, pode vir!
+<0051> Um inimigo!?
+<0052> Mas que imprudente!
+<0053> Toryah!
+<0054> Toma isto!
+<0055> Seu desgraçado!
+<0056> Bang!
+<0057> Ouch!
+<0058> Ei, para com isso!
+<0059> O que raios você está fazendo!?
+<0060> Gyan!
+<0061> Como ousa! Eu vou chorar!
+<0062> O que raios você pensa que está fazendo!?
+<0063> Isso dói demaaaaaaais!
+<0064> Bieee!
+<0065> Você sequer mirou em mim?
+<0066> Você errou!
+<0067> Você é horrível!
+<0068> Idiota!
+<0069> Certo, eu consegui!
+<0070> Sim, eu venci!
+<0071> Nós conseguimos, Mimyuu.
+<0072> Certo, próximo!
+<0073> Droga... Não é meu dia...
+<0074> Como alguém assim pode me derrotar?
+<0075> Mas que droga!
+<0076> Eu estou tão irritada comigo mesma!
+<0077> Estas estrelas são minhas!
+<0078> Eu vou pegar estas!
+<0079> Eu amo ter estas!
+<0080> Eu vou comprar para a Mimyuu algumas guloseimas com estas.
+<0081> Nuoo! Minhas estrelas!
+<0082> Espera! Não sumam!
+<0083> Qual é, você não pode desaparecer desse jeito!
+<0084> Minhas estrelas estão me deixando...
+<0085> Guwah, é uma armadilha!
+<0086> Que armadilha sorrateira!
+<0087> Gee! Por que alguém botaria isto aqui!?
+<0088> Eu geralmente não caio para coisas assim...
+<0089> Existe algo assustador por perto agora.
+<0090> O que é isso? Grande e assustador.
+<0091> Mimyuu, fique longe do que quer que seja isto, ok...
+<0092> Isso parece dar tanto trabalho... Ugh.
+<0093> Coletar estrelas? Deixa comigo!
+<0094> Todas as estrelas do mundo serão de Waruda!
+<0095> Kufufu, eu vou conseguir um montão de estrelas e comprar um monte de doces!
+<0096> Quer ir para as estrelas comigo, Mimyuu? Vamos trabalhar duro juntas, então!
+<0097> Você não é um membro dos Waruda se você se recusa a lutar!
+<0098> Eu e a Mimyuu vamos quebrar tudo! 
+<0099> Mantenha seus olhos focados na minha máquina Waruda!
+<0100> Eu irei esmagar todos eles!
+<0101> Sou a Tomato! Mimyuu está aqui, também!
+<0102> Somos a Waruda!
+<0103> Mimyuu, vamos brincar!
+<0104> Nós estamos preparadas para trazer ordem ao caos!
+<0105> Mimyuu, vamos lá!
+<0106> Vamos lá, Mimyuu! Nós vamos fazer o mundo descobrir o quão incrível os Waruda são!
+<0107> Nós vamos brincar ao máximo, Mimyuu!
+<0108> Vamos jogar!
+<0109> Vencemos!
+<0110> Mimyuu, nós vamos fazer uma festa dos doces para celebrar!
+<0111> Este é o poder dos Waruda! Fufufu!
+<0112> Mimyuu, nós somos o duo mais forte de todos os tempos!
+<0113> Oh, parece que isso será útil.
+<0114> Fufufu, que tipo de pegadinha será que podemos fazer com isso.
+<0115> Ótimo, é um novo item!
+<0116> Nós deveríamos ir tentar esta coisa nova agora!
+<0117> Troque comigo!
+<0118> Trocar!
+<0119> Eu acredito em você!
+<0120> Nós vamos trocar de lugar!
+<0121> Ok.
+<0122> Ótemo.
+<0123> Certo.
+<0124> Não.
+<0125> Hmm.
+<0126> Você teve sorte.
+<0127> Huh?
+<0128> Aqui vamos nós.
+<0129> Role os dados!
+<0130> Vá!
+<0131> Yo!
+<0132> Mhm...
+<0133> Ótimo.
+<0134> Incrível!
+<0135> Mas que raios!
+<0136> Farei o poder de alguém ser meu!
+<0137> Uou! Eu nem sei de quem são estes, mas vou jogar de qualquer forma!
+<0138> Não faço ideia do que esta carta faz, mas estou desesperada!
+<0139> Eu consigo até mesmo lidar com a força do meu oponente!
+<0140> Mimyuu, eu estou aqui para brincar com você.
+<0141> O que foi, Mimyuu? Eu estou ocupada agora.
+<0142> Eu tenho orgulho de você, Mimyuu. Você está se tornando cada vez mais forte.
+<0143> Isto foi divertido, Mimyuu?
+<0144> O aparelho da Mimyuu acabou de ir!
+<0145> Você subestimou a Mimyuu por ser pequena, não é mesmo?
+<0146> Heh, estou grata por ter você do meu lado... Mimyuu.
+<0147> Faça isto agora, Mimyuu!
+<0148> Chefe, vamos brincar juntas!
+<0149> Chefe...!? Você vai nos testar?
+<0150> Nós finalmente superamos a Chefe...
+<0151> Chefe é forte...
+<0152> Posso dizer que ele é um cara mau!
+<0153> Eita, ele parece assustador!
+<0154> Ele parecia assustador, mas era apenas a superfície.
+<0155> Então, ele é o real cara mau...
+<0156> Eu realmente sinto pena desses pinguins!
+<0157> Você... Você é a pessoa que está sempre fazendo bullying nos pinguins!
+<0158> Agora você aprendeu sua lição. Sem mais bullying!
+<0159> Droga... Me perdoe, pinguins...

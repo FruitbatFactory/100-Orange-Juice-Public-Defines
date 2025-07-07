@@ -1,0 +1,128 @@
+
+< GAME_SYSTEM_ROLLTOREVIVE >
+o más\npara revivir!
+
+< GAME_SYSTEM_WINNERSCREEN_STARS >
+Est.
+
+< GAME_SYSTEM_WINNERSCREEN_WINS >
+Vic.
+
+< GAME_SYSTEM_WINNERSCREEN_FAME >
+Fama
+
+< GAME_SYSTEM_HUD_LVL >
+Nivel
+
+< GAME_SYSTEM_HUD_HP >
+PV
+
+< GAME_SYSTEM_HUD_NORMA >
+Norma
+
+< GAME_SYSTEM_HUD_NORMA_MAX >
+¡MÁX!
+
+< GAME_SYSTEM_HUD_CARDEFFECTS >
+Efectos
+
+< GAME_SYSTEM_HUD_CARDEFFECTS_STACKS >
+Cantidad
+
+< GAME_SYSTEM_HUD_CARDEFFECTS_DURATION >
+Duración
+
+< GAME_SYSTEM_SHOP_LEVEL >
+NIVEL %d
+
+< GAME_SYSTEM_SHOP_NO_BONUS >
+Ninguna mejora ha sido desbloqueada.
+
+// %% is normal here.
+< GAME_SYSTEM_SHOP_BONUS_1 >
+Los objetos SRR tendrán una chance adicional (%d %%) de aparecer.
+
+// %% is normal here.
+< GAME_SYSTEM_SHOP_BONUS_2 >
+Los precios de todos los objetos se verán reducidos un %d %%.
+
+< GAME_SYSTEM_SHOP_BONUS_3 >
+%d estrellas adicionales serán otorgadas al vender una carta.
+
+< GAME_SYSTEM_SHOP_BONUS_4 >
+Dentro de una tienda, un objeto aleatorio tendrá la chance (20%) de ser copiado.
+
+< GAME_SYSTEM_SHOP_BONUS_5 >
+%d estrellas adicionales serán otorgadas al completar un objetivo.
+
+< GAME_SYSTEM_SHOP_BONUS_6 >
+Dentro de una tienda, un objeto aleatorio tendrá la chance (20%) de ser copiado más de una vez,\ny una tienda adicional de ese mismo tipo aparecerá en el campo de juego.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_1_NAME >
+El Arte de la Espada
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_1_DESC >
+Recibirás +1 ATK de forma permanente.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_2_NAME >
+El Arte del Escudo
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_2_DESC >
+Recibirás +1 DEF de forma permanente.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_3_NAME >
+El Arte de la Evasión
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_3_DESC >
+Recibirás +1 EVD de forma permanente.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_4_NAME >
+Determinación
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_4_DESC >
+Recibirás -1 REC de forma permanente.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_5_NAME >
+Estimulación
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_5_DESC >
+Recibirás +1 PV de forma permanente. Además, esta unidad recuperará todos sus puntos de vida al escoger esta mejora.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_6_NAME >
+Transportador
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_6_DESC >
+Recibirás +1 Cartas y Contratos en Mano de forma permanente.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_7_NAME >
+Afiliación de Primera Calidad
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_7_DESC >
+Los costos de todas las tiendas (exceptuando la del Comerciante Sospechoso) serán reducidos por un valor de 30% luego de todas las calculaciones.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_8_NAME >
+Corredor
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_8_DESC >
+Al usar todos tus puntos de movimiento, recibirás +1 MOV al moverte durante tu próximo turno.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_9_NAME >
+Cosecha Abundante
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_9_DESC >
+Recibirás 100 Estrellas de forma inmediata, y la habilidad de recibir estrellas al completar un Objetivo.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_10_NAME >
+Hogar Reforzado
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_10_DESC >
+Tu hogar le realizará 2 puntos de daño a cada otro jugador que intente detenerse en él.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_11_NAME >
+Comandante
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_11_DESC >
+Los aliados convocados reciben +2 Máx. PV de forma permanente, además de obtener el contról sobre ellos. Si un aliado ya se encuentra en el campo de juego, recuperarán todos sus puntos de vida al escoger esta mejora. Los aliados convocados también podrán completar Misiones.
+
+[EOF]
+

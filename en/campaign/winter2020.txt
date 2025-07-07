@@ -1,0 +1,314 @@
+
+// ========= Scene: Winter 2020 Event Start =========
+
+// (ellie)
+<0000> "Oh man..."
+
+// (lulu)
+<0001> "Ellie... You okay?"
+
+// (ellie)
+<0002> "I can still feel the side effects of that legendary mushroom all over my body..."
+
+// (ellie)
+<0003> "And what's worse, we're almost out of travel money..."
+
+// (ellie)
+<0004> "We've got no clue to where my mama is, either! Nothing's going right for us!"
+
+// (ellie)
+<0005> "*Sob sob*... Lulu, you've got to comfort me!"
+
+// (lulu)
+<0006> "There, there."
+
+// (ellie)
+<0007> "More, comfort me more!"
+
+// (lulu)
+<0008> "Geez, you're such a pain in the butt."
+
+// (ellie)
+<0009> "What did you just say?"
+
+// (lulu)
+<0010> "I said you were such a cutie."
+
+// (ellie)
+<0011> "I like you, Lulu! You're a cutie, too!"
+
+// (lulu)
+<0012> "Anyhow, what are we going to do now? Go find a job to make money again?"
+
+// (ellie)
+<0013> "Well, we still have enough to afford the essentials for travel... But the question is: where should we go?"
+
+// (lulu)
+<0014> "So far, we've followed your instincts."
+
+// (ellie)
+<0015> "Yeah! But I'm so down right now, even my instincts aren't working properly!"
+
+// (ellie)
+<0016> "So I think what I need the most now is Lulu pampering me so I can feel better."
+
+// (lulu)
+<0017> "Geez. There, there."
+
+// (ellie)
+<0018> "Goo-goo. But seriously...where's my mama?"
+
+// (ellie)
+<0019> "I can somewhat tell she's alive somewhere, but that's all..."
+
+// (lulu)
+<0020> "Ellie's feeling devastated. Is there something Lulu can do for her...?"
+
+// (lulu)
+<0021> "Hmm... Hmm..."
+
+// (lulu)
+<0022> "Ugh..."
+
+// (ellie)
+<0023> "Lulu? Everything okay?"
+
+// (lulu)
+<0024> "Lulu was just thinking about you..."
+
+// (lulu)
+<0025> "And now she's about to lay a..."
+
+// (ellie)
+<0026> "Lucky egg?"
+
+// (lulu)
+<0027> "Lulu's sure... it'll be something that helps us out... Hmm."
+
+// (lulu)
+<0028> "It's coming out!"
+
+// (ellie)
+<0029> "Oh my gawd, that's..."
+
+// (lulu)
+<0030> "Wh-what is it?"
+
+// (ellie)
+<0031> "It smells real good..."
+
+// (lulu)
+<0032> "Isn't that..."
+
+// (ellie)
+<0033> "O-omurice!?"
+
+// (lulu)
+<0034> "Whaaat!?"
+
+// (lulu)
+<0035> "How the heck does Lulu's system work!? We did get an egg, but it's cooked this time!"
+
+// (ellie)
+<0036> "And why omurice...? Maybe something good will happen if we eat it...?"
+
+// (lulu)
+<0037> "That's embarrassing for some reason. It's omurice, but it just came out of Lulu, so..."
+
+// (ellie)
+<0038> "I know you made it, but I'd also rather not..."
+
+// (???)
+<0039> "This is some good stuff."
+
+// (lulu)
+<0040> "S-someone's eating Lulu's omurice."
+
+// (ellie)
+<0041> "Who are you!?"
+
+// (cook)
+<0042> "Koopee! Ah, that was great."
+
+// (cook)
+<0043> "Cook was so hungry, she couldn't resist eating it all. Sorry about that."
+
+// (ellie)
+<0044> "I-is that a chicken...?"
+
+// (lulu)
+<0045> "A chicken ate the omurice?"
+
+// (cook)
+<0046> "Cook isn't a chicken!"
+
+// (halena)
+<0047> "Oh here you are, Cook. I've been looking for you."
+
+// (cook)
+<0048> "Halena!"
+
+// (halena)
+<0049> "Oh, who are those girls there...?"
+
+// (cook)
+<0050> "Sorry, Halena. Cook just ate the omurice that came out of that girl, and it was real good!"
+
+// (halena)
+<0051> "Omurice came out of her!?"
+
+// (ellie)
+<0052> "Is that your pet!? She ate the omurice we made with love without even asking!"
+
+// (lulu)
+<0053> "Lulu's omurice... *Sob sob*"
+
+// (halena)
+<0054> "Um, I don't follow you guys. Could you calm down and tell me what happened here?"
+
+// (halena)
+<0055> "I still don't get it."
+
+// (cook)
+<0056> "Come on! Alright, let Cook walk you through it again."
+
+// (cook)
+<0057> "That girl there laid an omurice. It looked so good, Cook couldn't stop herself from eating it."
+
+// (ellie)
+<0058> "Yeah."
+
+// (lulu)
+<0059> "Exactly what she said."
+
+// (halena)
+<0060> "Hmm... Well, anyway, Cook ate your food, right?"
+
+// (ellie)
+<0061> "Not just food."
+
+// (cook)
+<0062> "It was great."
+
+// (halena)
+<0063> "I'm stuck here... Anyway, I'm sorry my fairy friend caused you trouble."
+
+// (lulu)
+<0064> "Is that chicken a fairy?"
+
+// (cook)
+<0065> "Cook told you she wasn't a chicken! She's a weathercock fairy!"
+
+// (lulu)
+<0066> "That doesn't matter. We want our omurice of love back!"
+
+// (halena)
+<0067> "My apologizes. But as far as I understand, just buying you an omurice... wouldn't solve this issue."
+
+// (ellie)
+<0068> "No way it would! That omurice could've been a clue to what I've been looking for!"
+
+// (cook)
+<0069> "Huh? You looking for something?"
+
+// (halena)
+<0070> "In that case, maybe Cook and I can help you."
+
+// (cook)
+<0071> "Yeah. Cook's also sorry for eating your omurice, so she's willing to help you too!"
+
+// (lulu)
+<0072> "You guys can help us?"
+
+// (halena)
+<0073> "Truth be told, we're..."
+
+// (cook)
+<0074> "*Stomach grumbles*"
+
+// (cook)
+<0075> "Oh no. That omurice wasn't enough, and Cook's even hungrier now..."
+
+// (cook)
+<0076> "Hey, you guys. If you get Cook more food, she'll find you what you're looking for."
+
+// (ellie)
+<0077> "And who are you to say that?!"
+
+// (halena)
+<0078> "Hmm, can I also ask you to do that for her? She'll probably find you what you lost if you feed her until she's had her fill."
+
+// (ellie)
+<0079> "What's wrong with these guys...? Are they some new type of beggar...?"
+
+// (lulu)
+<0080> "But, Ellie, something's telling Lulu we should do as that chicken says."
+
+// (ellie)
+<0081> "Huh?"
+
+// (lulu)
+<0082> "There has to be a reason why the chicken ate Lulu's omurice."
+
+// (lulu)
+<0083> "Because Lulu's lucky eggs bring you and Lulu items that make both of us happy."
+
+// (ellie)
+<0084> "You're right... If that omurice was meant to lure that chicken over to us..."
+
+// (cook)
+<0085> "Cook wants good food."
+
+// (ellie)
+<0086> "Ugh... Fine! Give us a second! We'll get you tasty stuff!"
+
+// ========= Scene: Winter 2020 Event Ending =========
+
+// (cook)
+<0087> "Boy, Cook can't eat anymore. Thanks a bunch, you guys!"
+
+// (cook)
+<0088> "Cook's now full of gratitude."
+
+// (halena)
+<0089> "Yeah, I think we're ready now."
+
+// (lulu)
+<0090> "Ready for what?"
+
+// (halena)
+<0091> "Cook is a weathercock fairy who can direct people to where they should go."
+
+// (halena)
+<0092> "And she can direct somebody more accurately the more she likes them."
+
+// (ellie)
+<0093> "So, since she now likes me and Lulu a lot for feeding her, is she going to take us to where we should go?"
+
+// (halena)
+<0094> "That's right... And the one who can choose the best and safest route to any destination is..."
+
+// (halena)
+<0095> "Me, Halena, who has every map of the world stored in her brain!"
+
+// (cook)
+<0096> "As a team, Halena and I are the world's best guides ever!"
+
+// (ellie)
+<0097> "Uh, that sounds shady as heck..."
+
+// (lulu)
+<0098> "Lulu agrees."
+
+// (lulu)
+<0099> "But she thinks it's better than nothing."
+
+// (ellie)
+<0100> "W-well, you're right... I guess?"
+
+// (halena)
+<0101> "Alright then, let's head out for where you can find that which you've lost!"
+
+// (cook)
+<0102> "Let's go!"
+

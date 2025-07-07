@@ -1,0 +1,160 @@
+<0000> Ya, está bien.
+<0001> Hmph.
+<0002> Ahí.
+<0003> Yoh.
+<0004> Aquí va esto.
+<0005> No importa si uso esto, ¿verdad?
+<0006> Usaré esta.
+<0007> Escojo esta carta.
+<0008> Con cuidado.
+<0009> Dejaré esto por aquí.
+<0010> ¿Quién caería por esto?
+<0011> Esto podría o no ayudar a alguien.
+<0012> Que no te sorprenda.
+<0013> Usaré esto.
+<0014> ¡Te mostraré algo especial!
+<0015> Usaré todas mis fuerzas.
+<0016> Acabaré con esto.
+<0017> He vuelto. Vamos.
+<0018> El reinicio ha acabado.
+<0019> Todo ya está arreglado.
+<0020> Hora de recuperar el tiempo perdido.
+<0021> No tengo tiempo que perder.
+<0022> Vamos.
+<0023> ¿Acaso nunca podré recuperarme?
+<0024> ¿Tengo que seguir esperando?
+<0025> ¡Cómo te quedó eso!
+<0026> ¡Toma eso!
+<0027> ¡Ve!
+<0028> ¡Prepárate!
+<0029> ¡Ugh!
+<0030> ¡Guh!
+<0031> Eso duele.
+<0032> ¿¡Qué acaba de darme!?
+<0033> Permíteme repararte.
+<0034> Te echaré una mano.
+<0035> Continúa, por favor.
+<0036> Esta es una gran ayuda.
+<0037> ¿Qué rayos es esto?
+<0038> Parece que hay turbulencias.
+<0039> ¿A dónde me llevan?
+<0040> ¿Qué está pasando aquí?
+<0041> Me derrotaron.
+<0042> Acabo de cometer un grave error.
+<0043> ¡Ya no puedo seguir!
+<0044> Estoy acabada.
+<0045> Parece que el combate es la única opción.
+<0046> Yo seré la que empiece este combate.
+<0047> Fuera de mi camino.
+<0048> Te patearé el trasero.
+<0049> Bien, ven a mí.
+<0050> Qué molestia.
+<0051> No te arrepientas de esto.
+<0052> Debes tener mucho valor para desafiarme.
+<0053> ¡Te derribaré!
+<0054> ¡Cómete eso!
+<0055> ¡Esto se acaba aquí!
+<0056> ¡Acepta la derrota!
+<0057> ¡Kuh!
+<0058> Eso duele.
+<0059> Cómo te atreves...
+<0060> Me dieron.
+<0061> ¡Guah!
+<0062> ¡Estoy perdida!
+<0063> ¡Oh, rayos!
+<0064> ¡Disparo directo!
+<0065> Mhm.
+<0066> Eso estuvo cerca.
+<0067> No puedes darme.
+<0068> Lo veía venir.
+<0069> No odies al jugador.
+<0070> Nos vemos.
+<0071> Tendrás que regresar cuando seas más fuerte.
+<0072> Hiciste un gran trabajo.
+<0073> Qué problema.
+<0074> Estás en problemas.
+<0075> Eso fue mejor de lo que yo esperaba.
+<0076> Deberías tener más cuidado.
+<0077> Bien.
+<0078> Muy bien.
+<0079> No está mal.
+<0080> Me llevaré estas.
+<0081> No importa.
+<0082> Bueno.
+<0083> Ya, ya.
+<0084> ¿Pero qué?
+<0085> ¡*Tsk*!
+<0086> Cometí un error.
+<0087> Ah, ahora sí que estás en problemas.
+<0088> Estoy tan enojada...
+<0089> Ya estoy teniendo los suficientes problemas.
+<0090> ¿Ahora qué?
+<0091> Si derrotarte me otorga una recompensa, entonces te acabaré.
+<0092> Lo más grande no siempre significa que sea lo mejor.
+<0093> Prefiero estrellas.
+<0094> Estrellas.
+<0095> Iré con las estrellas.
+<0096> Espero poder conseguirlas con facilidad.
+<0097> ¿En serio? Pero si esto ya lo hago en el trabajo.
+<0098> ¿A cuántos tendré que derribar?
+<0099> Si eso es lo que tengo que hacer, es lo que haré.
+<0100> ¿Cuál será la forma más fácil de hacer esto?
+<0101> Supongo que no tengo otra opción.
+<0102> Si esto me permitirá volar por más tiempo... entonces está bien.
+<0103> ¿Yo...? Oh vaya.
+<0104> Que dolor en el trasero.
+<0105> Muy bien, empecemos con esto.
+<0106> Acabemos con esto.
+<0107> Bien, hagámoslo.
+<0108> No llegaré a ninguna parte quejándome.
+<0109> Eso no fue más que un chiste.
+<0110> Ansío ver la recompensa por mi victoria.
+<0111> Ya se acabó, ¿eh?... vaya, qué dia.
+<0112> ¿Qué tal si recibo más alientos?
+<0113> Me llevaré eso.
+<0114> Nunca lo había visto.
+<0115> Algo nuevo.
+<0116> Parece que no teníamos eso.
+<0117> Hora de cambiar.
+<0118> ...Muy bien, tú puedes hacerlo.
+<0119> Iré a descansar.
+<0120> Es tu turno.
+<0121> Bien.
+<0122> No está mal.
+<0123> Claro.
+<0124> Nop.
+<0125> No.
+<0126> Wow.
+<0127> ¿Eh?
+<0128> Supongo que es la hora de irnos...
+<0129> Aquí vamos.
+<0130> Vamos.
+<0131> Eh.
+<0132> Oh, vaya.
+<0133> Bien.
+<0134> Genial.
+<0135> ¡Vaya!
+<0136> ¿¡Cómo es esto posible!?
+<0137> Usar esto será mejor que la derrota.
+<0138> No digas que esto no es justo.
+<0139> Usar esto está bien, ¿verdad?
+<0140> Adelante. No lo haré fácil.
+<0141> Te derribaré.
+<0142> No la molestes mucho, ¿está bien?
+<0143> Quería pelear contra ti al menos una vez.
+<0144> Sorpréndeme.
+<0145> Esto me hará ver mal, ¿no?
+<0146> Te enderezaré.
+<0147> Te destrozaré y abriré el camino.
+<0148> No quiero más problemas entre nosotras, ¿está bien?
+<0149> Nada podría ser más ridículo que esto.
+<0150> Acércate un poco más y te arrepentirás.
+<0151> Genial, ¿cuánto valdrá todo esto?
+<0152> No soporto los empates.
+<0153> No recuerdo haber usado esto antes.
+<0154> No quiero más problemas.
+<0155> No quiero ser como ella... pero tengo que hacer esto.
+<0156> No me toques.
+<0157> Espero que esto no me de mala suerte.
+<0158> Sin resentimientos.
+<0159> Vaya, que juego tan fácil.

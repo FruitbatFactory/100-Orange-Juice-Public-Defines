@@ -1,0 +1,105 @@
+
+< GAME_NORMA_CLEAR >
+НОРМА СДАНА!
+
+< GAME_NORMA_ACHIEVED >
+Норма Достигнута
+
+< GAME_NORMA_STARS >
+Получите <normaamount> или больше Звёзд.
+
+< GAME_NORMA_STARS_REV >
+Получите <normaamount> или меньше Звёзд.
+
+< GAME_NORMA_STARS_10 >
+Получите 10 или больше Звёзд.
+
+< GAME_NORMA_STARS_30 >
+Получите 30 или больше Звёзд.
+
+< GAME_NORMA_STARS_70 >
+Получите 70 или больше Звёзд.
+
+< GAME_NORMA_STARS_120 >
+Получите 120 или больше Звёзд.
+
+< GAME_NORMA_STARS_200 >
+Получите 200 или больше Звёзд.
+
+< GAME_NORMA_STARS_10_REV >  
+Получите 10 или меньше Звёзд.  
+
+< GAME_NORMA_STARS_30_REV >  
+Получите 30 или меньше Звёзд.  
+
+< GAME_NORMA_STARS_70_REV >  
+Получите 70 или меньше Звёзд.  
+
+< GAME_NORMA_STARS_120_REV >  
+Получите 120 или меньше Звёзд.  
+
+< GAME_NORMA_STARS_200_REV >  
+Получите 200 или меньше Звёзд.  
+
+< GAME_NORMA_WINS_SINGLE >
+Победите врага.
+
+< GAME_NORMA_WINS_MULTIPLE >
+Победите <normaamount> или больше врагов.
+
+< GAME_NORMA_WINS_1 >
+Победите 1 врага.
+
+< GAME_NORMA_WINS_2 >
+Победите 2 или больше врагов. 
+
+< GAME_NORMA_WINS_5 >
+Победите 5 или больше врагов.
+
+< GAME_NORMA_WINS_9 >
+Победите 9 или больше врагов.
+
+< GAME_NORMA_WINS_14 >
+Победите 14 или больше врагов.
+
+< GAME_NORMA_FAME >
+Получите <normaamount> или больше Славы.
+
+< GAME_NORMA_WINS_BUTTONDISPLAY >
+%d\nПобеды
+
+< GAME_NORMA_STARS_BUTTONDISPLAY >
+%d\nЗвезды
+
+< GAME_NORMA_STARS_LEFT >
+Осталось %d звезд!
+
+< GAME_NORMA_WINS_LEFT >
+Осталось %d победы!
+
+< GAME_NORMA_SELECT >
+Выберите вашу Норму
+
+< GAME_NORMA_ALREADYMET >
+Норма уже выполнена!
+
+< GAME_NORMA_WINS_MULTIPLE_REV >  
+Победите <normaamount> или меньше врагов. 
+
+< GAME_NORMA_WINS_1_REV >
+Победите 1 или меньше врагов.
+
+< GAME_NORMA_WINS_2_REV >  
+Победите 2 или меньше врагов.  
+
+< GAME_NORMA_WINS_5_REV >  
+Победите 5 или меньше врагов.  
+
+< GAME_NORMA_WINS_9_REV >  
+Победите 9 или меньше врагов.  
+
+< GAME_NORMA_WINS_14_REV >  
+Победите 14 или меньше врагов.  
+
+[EOF]
+

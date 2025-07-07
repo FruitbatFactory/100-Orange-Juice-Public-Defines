@@ -1,0 +1,160 @@
+<0000> Lemme do this!
+<0001> There!
+<0002> Yah!
+<0003> Toryah!
+<0004> I'll play a card!
+<0005> Now's the time for this!
+<0006> How's this! I'll break through!
+<0007> Looks like I have to use this.
+<0008> Kufufu, I sure love stuff like this.
+<0009> I'm laying a trap here.
+<0010> Who's going to fall for this, I wonder♪
+<0011> Waruda's speciality: Brutal traps!
+<0012> Battle card!
+<0013> I think I have to use this.
+<0014> Tomato will turn invincible with this!
+<0015> This is my strategy!
+<0016> Waruda machine, blast off!
+<0017> How dare you bully Mimyuu!
+<0018> Well done, Mimyuu. I'll take it from here.
+<0019> Mimyuu, here's a reward snack for your efforts.
+<0020> Mimyuu's enemy is my enemy!
+<0021> Ugh...
+<0022> Dammit...
+<0023> Mimyuu...
+<0024> I messed up coming back...!?
+<0025> Waruda attack!
+<0026> I'll take you down!
+<0027> Kufufu!
+<0028> Tooryaaah!
+<0029> That hurts!
+<0030> The heck you doing!?
+<0031> Kuu!
+<0032> Uwah!
+<0033> That helps a bunch!
+<0034> That was a good break!
+<0035> Kufuu, I've been saved!
+<0036> I feel so much better now!
+<0037> A warp!
+<0038> Guwaah, I'm getting kidnapped!
+<0039> Where am I going to!?
+<0040> This feels funny in my stomach!
+<0041> D-damn it...
+<0042> G-glory to Waruda...
+<0043> Even if I go down, Mimyuu will...
+<0044> Mimyuu, you got this... *collapse*
+<0045> It's battle time!
+<0046> Check out my awesome technology!
+<0047> Fufufu! I'll beat you the heck up!
+<0048> If you wish to apologize, now's the chance!
+<0049> Very well, challenge accepted!
+<0050> Kufufu, bring it on!
+<0051> An enemy!?
+<0052> Talk about reckless!
+<0053> Toryah!
+<0054> Take this!
+<0055> You bastard!
+<0056> Bang!
+<0057> Ouch!
+<0058> Hey, cut it out!
+<0059> What the heck are you doing!?
+<0060> Gyan!
+<0061> How dare you! I'm gonna cry!
+<0062> What the heck do you think you're doing!?
+<0063> That hurts so muuuch!
+<0064> Bieee!
+<0065> Did you even aim at me?
+<0066> You missed!
+<0067> You suck!
+<0068> Idiot!
+<0069> Alright, I did it!
+<0070> Yes, I won!
+<0071> We did it, Mimyuu.
+<0072> Alright, next!
+<0073> Woe is me...
+<0074> How could someone like that beat me?
+<0075> God damn it!
+<0076> I'm so mad at myself!
+<0077> These stars are mine!
+<0078> I'll take these!
+<0079> I love having these!
+<0080> I'll buy Mimyuu some snacks with these.
+<0081> Nuoo! My stars!
+<0082> Wait! Don't be gone!
+<0083> Come on, you can't disappear like that!
+<0084> My stars are leaving me...
+<0085> Guwah, it's a trap!
+<0086> What a sneaky trap!
+<0087> Gee! Why would anyone put this down here!?
+<0088> I don't usually fall for stuff like this...
+<0089> There's something terrifying nearby now.
+<0090> What is that? Huge and scary.
+<0091> Mimyuu, you stay away from whatever that is, okay...
+<0092> That looks like so much trouble... Ugh.
+<0093> Gathering stars? I got this!
+<0094> All the stars in the world will be Waruda's!
+<0095> Kufufu, I'll get tons of stars and buy tons of candies!
+<0096> Want to go for stars with me, Mimyuu? Let's work hard together, then!
+<0097> You're not a Waruda member if you refuse to fight!
+<0098> Mimyuu and I will go wreck everything! 
+<0099> Keep your eyes peeled for my Waruda machine!
+<0100> I'll crush them all!
+<0101> I'm Tomato! Mimyuu's here, too!
+<0102> We're Waruda!
+<0103> Mimyuu, let's go play!
+<0104> We're ready to bring order to chaos!
+<0105> Mimyuu, let's do this!
+<0106> Let's go, Mimyuu! We'll make the world know how great Waruda is!
+<0107> We're going to play our butts off, Mimyuu!
+<0108> Game on!
+<0109> We won!
+<0110> Mimyuu, we'll throw a candy party to celebrate!
+<0111> This is the power of Waruda! Fufufu!
+<0112> Mimyuu, we're the strongest duo ever!
+<0113> Oh, looks like that'll come in handy.
+<0114> Fufufu, what prank can we play with that, I wonder.
+<0115> Nice, it's a new item!
+<0116> We should go try this new thing now!
+<0117> Switch with me!
+<0118> Switch!
+<0119> I believe in you!
+<0120> We're going to change places!
+<0121> Okay.
+<0122> Neato.
+<0123> Alright.
+<0124> Nope.
+<0125> Hmm.
+<0126> You got lucky.
+<0127> Huh?
+<0128> Here we go.
+<0129> Roll the dice!
+<0130> Go!
+<0131> Yo!
+<0132> Mhm...
+<0133> Great.
+<0134> Awesome!
+<0135> What the heck!
+<0136> I'll make someone else's power mine!
+<0137> Wow! I don't know whose this is, but I'll play it anyway!
+<0138> No idea what this card does, but I'm desperate!
+<0139> I can even handle my opponent's power!
+<0140> Mimyuu, I'm here to play with you.
+<0141> What, Mimyuu? I'm busy now.
+<0142> I'm proud of you, Mimyuu. You're getting stronger and stronger.
+<0143> Was it fun, Mimyuu?
+<0144> Mimyuu's gizmo just went off!
+<0145> You underestimated Mimyuu for being short, didn't you?
+<0146> Heh, I'm glad you're on my side... Mimyuu.
+<0147> Do it now, Mimyuu!
+<0148> Boss, let's play together!
+<0149> Boss...!? Are you going to test us?
+<0150> We've finally surpassed Boss...
+<0151> Boss is strong...
+<0152> I can tell he's a bad guy!
+<0153> Whoa, he looks scary!
+<0154> He looked scary, but it was just the surface.
+<0155> So, he's the true bad guy...
+<0156> I really feel sorry for those penguins!
+<0157> You... You're the one who's always bullying the penguins!
+<0158> Now you've learned your lesson. No more bullying!
+<0159> Damn it... I'm sorry, penguins...

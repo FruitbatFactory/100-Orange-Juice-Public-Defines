@@ -1,0 +1,161 @@
+<0000> É assim que se faz.
+<0001> Esse é o caminho.
+<0002> Hmph!
+<0003> Vamos brincar com as possibilidades.
+<0004> É assim que faço as coisas.
+<0005> É uma boa oportunidade.
+<0006> Essa é a jogada.
+<0007> O que você acha disto?
+<0008> Me chame de desonesta, se desejar.
+<0009> Eu não me impeço de fazer uma pequena travessura.
+<0010> O-hoho, isso vai ser interessante de se ver.
+<0011> Ninguém parece estar olhando.. ali!
+<0012> Eu escolhi esta carta.
+<0013> Por favor não fique tão surpreso com isso.
+<0014> Eu espero que você esteja preparado ao menos para isso.
+<0015> Eu vou alterar as possibilidades ao meu favor um pouco.
+<0016> Você não sabe com quem você está falando?
+<0017> Ai ai viu...
+<0018> Isso foi um desperdício de tempo.
+<0019> Coisas boas vem para aqueles que esperam.
+<0020> Vamos reajustar e ir de novo.
+<0021> Calma... calma...
+<0022> Ahh, mas que irritante!
+<0023> Que raios!?
+<0024> Eu não tenho tempo para desperdiçar nisso!
+<0025> Eu acredito que isso pertence a você.
+<0026> Eu espero que você não se importe.
+<0027> En garde!
+<0028> Não é nada pessoal.
+<0029> Aí...
+<0030> Qual é a sua mané?!
+<0031> Essa foi inteligente!
+<0032> Aí...
+<0033> Que agradável.
+<0034> Muito bem. Você tem o meu agradecimento.
+<0035> Excelente serviço.
+<0036> Phaa... tão bom.
+<0037> Se eu fechar meus olhos, isso não é nada...
+<0038> Foco, foco...!
+<0039> Bússola, bússola... certo, consegui.
+<0040> Hmph, um simples teleporte? Tranquilo!
+<0041> Minha nossa! Ah não!
+<0042> Eu! Não! Aprovo!
+<0043> Ahh, hoje realmente não é meu dia...
+<0044> Nossa! Nada parece estar funcionando hoje.
+<0045> Eu espero que você esteja preparado.
+<0046> Se importa? Você está no meio do caminho.
+<0047> A porta é para aquela direção.
+<0048> Eu tenho algumas coisas a dizer para você.
+<0049> Eu não estou de bom humor para isso.
+<0050> Que entediante.
+<0051> Uma jogada ousada, para garantir.
+<0052> Você marcou um horário com meu mordomo?
+<0053> Minha nossa, minha nossa.
+<0054> Perdão.
+<0055> Hum di dum~
+<0056> Aqui vai!
+<0057> Whoopsie.
+<0058> Owie.
+<0059> Isso não é muito bom.
+<0060> Minha nossa!
+<0061> Ow-ow-ow...
+<0062> Ouchie!
+<0063> Bom, estarei aí!
+<0064> Gueh!
+<0065> Eu consigo fazer quando eu preciso!
+<0066> O que raios foi aquilo?
+<0067> Nem é um problema.
+<0068> Apenas um exercício leve de dança.
+<0069> Que tal permanecer deitado?
+<0070> Você pediu por isso.
+<0071> O-ho-ho! Isso é tudo?
+<0072> Minha nossa, foi fácil demais.
+<0073> Eu vou me lembrar disso!
+<0074> Farei questão de retornar o favor!
+<0075> Você não tem... noção de com quem você está se metendo...
+<0076> Farei você se arrepender do dia que você pensou nisso.
+<0077> Que bom.
+<0078> Um presente incrível.
+<0079> Irei fazer bom uso dessas coisas.
+<0080> Consigo perceber que hoje será um bom dia.
+<0081> Oh... bem, eu me viro.
+<0082> Isso é um tanto inconveniente.
+<0083> Que infortúnio...
+<0084> Eu preciso ter uma conversinha com o coletor de impostos...
+<0085> Ahh, mas que asneira!
+<0086> Não desse jeito!
+<0087> Ueh?
+<0088> Eu cai nessa de novo...
+<0089> Minha nossa. Um durão, eu imagino?
+<0090> Minha nossa. O que devo fazer?
+<0091> Isso parecer ser um tanto desafiador...
+<0092> Hmph. Você não me assusta.
+<0093> Coletar estes não deve ser um problema.
+<0094> Esta parece ser a melhor solução.
+<0095> Afinal de contas, é somente algo sensível a se fazer.
+<0096> Esse será meu caminho para a vitória.
+<0097> Bom, as vezes eu preciso fazer o trabalho sujo eu mesma.
+<0098> É preciso agir quando o inimigo aparece.
+<0099> Não sou do tipo que não faria uma grosseria.
+<0100> Relaxa, eu sei como o mundo funciona.
+<0101> Eu jogo para vencer. Não me decepcione!
+<0102> Eu sou a Fernet. É melhor você se lembrar disso.
+<0103> O prazer é todo meu.
+<0104> Estou completamente preparada.
+<0105> Está na hora de eu fazer minha introdução.
+<0106> Vamos fazer uma entrada incrível.
+<0107> Eu deveria explorar o campo de batalha.
+<0108> Este jogo será meu, obviamente.
+<0109> Hmph, isso estava óbvio.
+<0110> Sim!!! Eu fi- *Tosse*, digo, assim como planejado.
+<0111> O-ho-ho! Diria que foi um jogo perfeito.
+<0112> Outro dia, outra vitória.
+<0113> Que esplêndido.
+<0114> Dá para tolerar.
+<0115> Um achado bom.
+<0116> Que maravilhoso!
+<0117> Que tal você tomar conta dessa bagunça?
+<0118> *Boceja*, perdão.
+<0119> Eu confio que você consegue lidar com isto.
+<0120> Isto não será um problema para você, né?
+<0121> Muito bem.
+<0122> Excelente.
+<0123> Certo.
+<0124> Não é possível.
+<0125> Bom, essas coisas acontecem.
+<0126> Quão fortuito.
+<0127> Minha nossa?
+<0128> Vamos prosseguir.
+<0129> Vamos tentar nossa sorte.
+<0130> Vá!
+<0131> Prazer em te conhecer.
+<0132> Hmmmmh...
+<0133> Perfeito!
+<0134> Simplesmente incrível!
+<0135> Ahhh... isso é horrível!
+<0136> Para que ter conexões se você nunca as usa?
+<0137> Esse é apenas um pequeno truque que aprendi.
+<0138> É necessário ousadia aqui.
+<0139> Que engenhoca curiosa. Vamos descobrir o que ela faz.
+<0140> Você tem minha gratidão.
+<0141> É melhor começar por fazer conexões.
+<0142> Existem algumas portas que dinheiro não abre.
+<0143> Eu farei eles virem implorando por mim.
+<0144> Tenho pena do tolo que se opõe a mim.
+<0145> Um investimento inteligente sempre dará frutos.
+<0146> Todos vocês estão cordialmente convidados para a minha estreia. Estejam gratos!
+<0147> Simples, não é nada mais do que meu direito.
+<0148> Essa espada não é pesada para carregar por aí?
+<0149> Não se preocupe, eu estou apenas pegando isso emprestado um pouco. Alguém merece uma lição.
+<0150> Olá, faz um tempo desde a última vez que nos vemos. Como você está?
+<0151> Estive a espera de sua visita.
+<0152> Você pode passa a noite aqui se desejar. Eu pedirei ao meu mordomo que prepare o quarto.
+<0153> Já está de saída? Nossa, fazer o quê.
+<0154> Se apenas as coisas fossem sempre tão simples assim na vida.
+<0155> Eu tenho grande respeito por seu intelecto. Eu preferiria fazer uma aliança com você, mas se não for possível...
+<0156> Esse é um design interessante de roupas. Vou anotar algumas ideias.
+<0157> Você simplesmente não tem o que é preciso para ter alguma chance contra mim.
+<0158> Como essa besta estúpida ousa fazer isso?!
+<0159> Você pode tomar conta do trabalho físico. Eu não quero que meu vestido fique sujo.
+<0160> Que tipo de roupa é essa? Que ousadia...

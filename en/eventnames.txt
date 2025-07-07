@@ -1,0 +1,40 @@
+< EVENTNAME_MINIONS_OF_THE_MASTER >
+Minions of the Master
+
+< EVENTNAME_MASTER_OF_THE_MINIONS >
+Master of the Minions
+
+< EVENTNAME_BOUNTY_HUNTERS >
+Bounty Hunters
+
+< EVENTNAME_MASTER_ANGLERS >
+Master Anglers
+
+< EVENTNAME_BEACH_PARTY >
+Beach Party
+
+< EVENTNAME_SHROOM_ZOOM >
+Shroom Zoom
+
+< EVENTNAME_BOUNTY_HUNGERS >
+Bounty Hungers
+
+< EVENTNAME_POOL_PARTY >
+Pool Party
+
+< EVENTNAME_SCHOOL_CRASHERS >
+School Crashers
+
+< EVENTNAME_CHAOS_MODE >
+Chaos Mode
+
+< EVENTNAME_S3_TAGTEAM_MODE >
+Extracurricular Crisis
+
+< EVENTNAME_WINTER2023 >
+Memory Menders
+
+< EVENTNAME_POPPO >
+Poppo Event
+
+[EOF]

@@ -1,0 +1,233 @@
+
+// ========= Scene: Summer 2020 Event Start =========
+
+// (kae)
+<0000> "¡Vaya! ¡Sí que hace calor!"
+
+// (saki)
+<0001> "Siempre llevas el calor a tu lado, Kae... Pero, sí, hoy es un día de mucho calor."
+
+// (nath)
+<0002> "......"
+
+// (saki)
+<0003> "Aunque... el calor parece estar afectando a Nath. No suele estar así de quieta... Debería hacer algo al respecto... ¡Ah, lo tengo!"
+
+// (saki)
+<0004> "Eh, Kae."
+
+// (kae)
+<0005> "¿Quéee?"
+
+// (saki)
+<0006> "*Susurro, susurro, susurro*"
+
+// (kae)
+<0007> "¡...! ¡Esa es una gran idea! ¡Está bien!"
+
+// (saki)
+<0008> "Bien, no hay tiempo como el presente..."
+
+// (nath)
+<0009> "...Ahh."
+
+// (saki)
+<0010> "Naaath."
+
+// (kae)
+<0011> "Hola."
+
+// (nath)
+<0012> "Saki, Kae, ¿qué es lo que sucede?"
+
+// (saki)
+<0013> "¿Acaso tienes algún plan para el resto del día...?"
+
+// (nath)
+<0014> "No en realidad..."
+
+// (saki)
+<0015> "Entonces... ¿Por qué no salimos a pasear por un rato?"
+
+// (kae)
+<0016> "¡A pasear!"
+
+// (nath)
+<0017> "¿En un día como este...?"
+
+// (saki)
+<0018> "¡Vamos a enfrentarnos con el calor!"
+
+// (saki)
+<0019> "Por cierto, ¿acaso les gustan los peces?"
+
+// (kae)
+<0020> "¡Sí, me encantan!"
+
+// (nath)
+<0021> "Si debo escoger entre sí o no... diría que me gustan."
+
+// (saki)
+<0022> "¡Es la temporada de verano, y la temporada de verano debería ocurrir en la orilla del río! ¡Y la orilla del río es el lugar perfecto para una barbacoa!"
+
+// (nath)
+<0023> "Así que... ¿La idea es relajarse y comer pescados a la parrilla junto al río?"
+
+// (saki)
+<0024> "¡Así es! Además, atraparemos a los peces por nuestra propia cuenta."
+
+// (kae)
+<0025> "¡Suena super divertido! ¡Hagámoslo!"
+
+// (nath)
+<0026> "Eh... No estoy muy familiarizada con las actividades al aire libre, así que no-..."
+
+// (saki)
+<0027> "¡Muy bien, es la hora de prepararse!"
+
+// (nath)
+<0028> "Escuch-..."
+
+// (kae)
+<0029> "Nana y yo fuimos de compras hace un tiempo, y compré un nuevo bikini. ¡Lo usaré para esta ocasión!"
+
+// (nath)
+<0030> "Pero... yo no quiero-..."
+
+// (sakiandkae)
+<0031> "¡Es el río!"
+
+// (sakiandkae)
+<0032> "¡Síiii!"
+
+// (nath)
+<0033> "Me arrastraron hasta aquí."
+
+// (kae)
+<0034> "¡Nath, deberías unirte a nosotras en el agua!"
+
+// (nath)
+<0035> "No, gracias. No tengo un traje de baño, y el jugar en el agua no es lo mío. ¿Acaso se están olvidando de la razón por la que estamos en este lugar?"
+
+// (saki)
+<0036> "¡Claro que no! ¡Atraparemos pescados y luego los comeremos para acabar con el calor!"
+
+// (kae)
+<0037> "¡Trabajaré duro! ¡Nath y yo atraparemos a los peces, así que tú encenderás la parrilla, Saki!"
+
+// (saki)
+<0038> "¡A la orden!"
+
+// (kae)
+<0039> "Aunque... ¿Cómo es que atraparás a los pescados, Nath?"
+
+// (nath)
+<0040> "Me siento en el suelo de esta forma..."
+
+// (saki)
+<0041> "Con las rodillas inclinadas, ¿eh?"
+
+// (nath)
+<0042> "Y entonces dejo la caña entre mis pies... Esta es la forma en la que pesco."
+
+// (kae)
+<0043> "Vaya, esa es una habilidad impresionante."
+
+// (kae)
+<0044> "¡Aun así, yo atraparé a mi presa con mis propias manos!"
+
+// (saki)
+<0045> "¡Muy bien chicas, trabajemos muy duro para conseguir una cena deliciosa!"
+
+// (kaeandnath)
+<0046> "¡Sí!"
+
+// ========= Scene: Summer 2020 Event Ending =========
+
+// (kae)
+<0047> "¡Mira a todos los peces que hemos atrapado, Saki!"
+
+// (saki)
+<0048> "¡Mauuu! ¡Han hecho un excelente trabajo!"
+
+// (nath)
+<0049> "Parece que tenemos lo suficiente para llevar algunos a casa y compartirlos con amigos."
+
+// (saki)
+<0050> "Muy bien, entonces prepararé la parrilla ahora mismo. ¡Mauryaaah!"
+
+// (nath)
+<0051> "Qué habilidad... Está quitando las tripas de los pescados y colocándolos en brochetas a una velocidad increíble."
+
+// (kae)
+<0052> "¡Eres la mejor cocinera, Saki!"
+
+// (saki)
+<0053> "¡Listo! ¡Es la hora de asarlos! Kae, el fuego por favor."
+
+// (kae)
+<0054> "¡Claro! ¡Aquí tienes!"
+
+// (nath)
+<0055> "Ese es un buen trabajo en equipo... Fufu."
+
+// (kae)
+<0056> "¡Permíteme hacerte una pregunta, Nath!"
+
+// (nath)
+<0057> "¿Sí?"
+
+// (kae)
+<0058> "¿Te divertiste a la hora de pescar?"
+
+// (nath)
+<0059> "Sí, lo hice. Pasar el tiempo en la naturaleza de esta forma no resultó ser tan malo después de todo."
+
+// (kae)
+<0060> "Me alegra oír eso. De hecho, todo acerca de esta parrillada es..."
+
+// (saki)
+<0061> "Algo que Kae y yo habíamos planeado para pasar el tiempo contigo, Nath."
+
+// (kae)
+<0062> "Sí, así es."
+
+// (nath)
+<0063> "¿Qué?"
+
+// (kae)
+<0064> "Habíamos notado que el calor no te estaba haciendo nada bien dentro de esa casa."
+
+// (saki)
+<0065> "Así que decidimos venir hasta aquí para variar. De esa forma, pensé que también podríamos obtener un buen recuerdo veraniego."
+
+// (saki)
+<0066> "Sabía que no te interesaría mucho al invitarte, así que te forzamos a venir aquí, y... Lo siento."
+
+// (nath)
+<0067> "Fufu, eso suena como algo que tú harías. Aun así, lo aprecio mucho."
+
+// (nath)
+<0068> "Ha sido divertido. Estoy feliz de estar aquí."
+
+// (kae)
+<0069> "¡Genial! ¡Lo hicimos, Saki!"
+
+// (saki)
+<0070> "¡Así es, Kae!"
+
+// (nath)
+<0071> "Fufufu."
+
+// (saki)
+<0072> "Ah, la comida está lista. ¡A comer con gusto!"
+
+// (kae)
+<0073> "Síii, ya era hora."
+
+// (nath)
+<0074> "Se ven muy bien."
+
+// (saki)
+<0075> "¡Tomen todos los peces que quieran, chicas!"
+

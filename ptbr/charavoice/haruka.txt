@@ -1,0 +1,164 @@
+<0000> Ey.
+<0001> Ali.
+<0002> Hoy.
+<0003> Aqui vai.
+<0004> Agora é a hora de jogar uma carta!
+<0005> Bem, eu acho que vou usar este aqui.
+<0006> Algo está me dizendo que esta e minha chance!
+<0007> Hmm, eu vou apenas jogar isto.
+<0008> Vou colocar uma armadilha aqui.
+<0009> É perigoso por aqui. Melhor tomar cuidado.
+<0010> Estou colocando algo inseguro aqui embaixo, sorrateiramente.
+<0011> Mano, essa armadilha é insana ♥
+<0012> Eu vou te bater com essa carta!
+<0013> Eu vou ganhar este aqui custe o que custar!
+<0014> Desculpa, mas sem piedade!
+<0015> Aqui vem uma chaaance!
+<0016> Heheh, isto está ficando divertido.
+<0017> Esta foi por pouco.
+<0018> O jogo ainda não acabou!
+<0019> Ugh, sou eu ou eu estou ficando para trás dos outros?
+<0020> Vamos seguir de novo!
+<0021> Não tem muito o que você pode fazer enquanto está derrubado, né?
+<0022> Eu quero seguir pelo campo de nooooovo.
+<0023> Não faz sentido me sentir apressada. Vou tomar um suco.
+<0024> Não é meu dia de sooooorte.
+<0025> Boom!
+<0026> Ataque!
+<0027> Eu vou atacar agora!
+<0028> Karate chop!
+<0029> Ouch!
+<0030> Oww!
+<0031> Isto não é bom.
+<0032> Argh!
+<0033> Eu tenho que me preparar para ir de novo.
+<0034> Isto é incrível.
+<0035> O gerenciamento de HP é crucial.
+<0036> Ufa, eu quase fui derrotada.
+<0037> Teleporte!?
+<0038> Para onde eu irei?
+<0039> Awawah.
+<0040> Eita, é um teleporte.
+<0041> Gyaah.
+<0042> Você deve estar brincando comigo, né?
+<0043> Sério!?
+<0044> Eu erreeeeeei!
+<0045> Eu estou prestes a te caçar!
+<0046> Você será nocauteado.
+<0047> Eu creio que tenho uma boa chance contra você!
+<0048> Lutar uma batalha aqui parece uma boa ideia pra mim.
+<0049> Então você quer um pedaço de mim, né?
+<0050> Sair na porrada não é bom.
+<0051> Olha o quão agressiva você está sendo.
+<0052> Eu não me sinto na vontade de ter meu traseiro chutado no momento...
+<0053> Soco!
+<0054> Chute!
+<0055> Home run!
+<0056> Caia morto!
+<0057> Isto doeu!
+<0058> Você é horrível!
+<0059> Para com isso!
+<0060> Uwaah!
+<0061> Gyan!
+<0062> Você não poderia ter pego um pouco mais leve comigo?
+<0063> Algo assim pode realmente ser permitido de acontecer?
+<0064> Eu estou com um problemão...!
+<0065> Eu tenho ótimos reflexos,né?
+<0066> Desviando como uma profissional!
+<0067> Você pode desviar, Haruka.
+<0068> Isto me faz bem nervosa.
+<0069> Ebaaaa, venci!
+<0070> Eu sou uma boa lutadora, né?
+<0071> Isto é delicioso ♥
+<0072> Hooray, consegui!
+<0073> Ugh.
+<0074> Eu poderia ter feito melhor.
+<0075> Raios, eu errei.
+<0076> Ah, raios.
+<0077> Tenho alguma mesada.
+<0078> Mano, me sinto ótima.
+<0079> Sim, sim!
+<0080> Oh, fui sortuda.
+<0081> Nãooo!
+<0082> Você só pode estar brincando comigo.
+<0083> Para! Para! Eu disse Paaaara!
+<0084> Ahhh!!!
+<0085> Mas o quê? Uma armadilha?
+<0086> Sério?
+<0087> Aqui, de todos os lugares?
+<0088> Eu caí nisto...!
+<0089> Aqui vem o chefão!
+<0090> Eu posso estar encrencada.
+<0091> As coisas estão ficando um pouco tensas.
+<0092> Você pode por favor chutar o traseiro de todo mundo menos eu?
+<0093> Permita-me demonstrar o quão habilidosa sou em salvar dinheiro.
+<0094> Pois eu quero ficar rica!
+<0095> É uma sensação ótima ter tanta estrela, né?
+<0096> Eu não sou uma lutadora incrível, então... minha escolha é essa.
+<0097> Talvez vou me dar melhor se eu tratar luta como um esporte...?
+<0098> Dada a situação atual, esta seria a melhor escolha.
+<0099> Hmm, estou dividida, mas tenho a sensação de que esta é a escolha certa!
+<0100> Eu vou com luta!
+<0101> Haruka aqui. Prazer em te ver.
+<0102> 100% OJ de novo hoje? Claro, vamos jogar!
+<0103> Jogar 100% OJ comigo? Eu não sou tão boa; tem algum problema?
+<0104> Estou me sentindo sortuda hoje, então provavelmente irei ganhar!
+<0105> Certo, vamos lá!
+<0106> Vamos jogar um bom jogo.
+<0107> Aqui vamos nós!
+<0108> Hora de começar ♥
+<0109> Hooray! Eu venci!
+<0110> Isto foi muito divertido. Devíamos fazer isso novamente no futuro.
+<0111> Creio que estou jogando bem ultimamente.
+<0112> Esta é uma vitória boa.
+<0113> Eu gosto de gacha.
+<0114> Mal pode esperar para ver o que ganhamos, né?
+<0115> Você conseguiu algo fofo?
+<0116> Vamos ficar mais fortes com isso?
+<0117> Eu não me esforço muito.
+<0118> Eu tenho que pedir por uma troca.
+<0119> Certo, você consegue.
+<0120> Hora de mudar de posição.
+<0121> Te peguei.
+<0122> Oh, isto é duplamente bom.
+<0123> Sim!
+<0124> Uh-uh.
+<0125> Oh não...
+<0126> Você é tão sortudo! Estou feliz por você!
+<0127> Uuum?
+<0128> Vamos começar.
+<0129> Rolar o dado!
+<0130> Você consegue! Estou torcendo para você!
+<0131> Olá!
+<0132> Um... Hmm?
+<0133> Muito bem! Incrível!
+<0134> Isto é super fantástico!
+<0135> Eu odeio isto...
+<0136> Eu vou jogar uma carta que roubei.
+<0137> Esta carta, vamos descobrir se vai se dar bem comigo.
+<0138> É uma aposta para ver o que acontece.
+<0139> Não muito familiar, mas espero que funcione!
+<0140> Obrigada!
+<0141> Melhor você não dizer isso com voz alta!
+<0142> Eu sei, mas seguir seu palpite também é valioso!
+<0143> Eu sei! Você pode me elogiar mais ♥
+<0144> Você não fez, né? Posso ver que você está meio que suando, Grande Mana ♥
+<0145> Kana fazendo aquela coisa dela de novo, com aquela aura de jogadora-forte.
+<0146> Kana está jogando sem pensar muito...
+<0147> Kana, não seja muito dura comigo, okay?
+<0148> Okay, vamos mostrar a todos o quão estamos nos dando!
+<0149> Oh, é a Poyo.
+<0150> Vamos nos divertir, Poyo.
+<0151> É claro que eu vou jogar com tudo que puder.
+<0152> Eles dizem que aqueles que se divertem, ganham!
+<0153> Você é tão legal, Sora. Eu não consigo me cansar de você.
+<0154> Oh, é a Sora.
+<0155> Mano do céu, eu ganhei uma batalha contra a Sora...
+<0156> Incrível, a arma suprema é bem forte.
+<0157> Ei, Kana, você está bem?
+<0158> Está é minha irmã...!
+<0159> Somos as mais fortes!
+<0160> 100% OJ Club, vamos lá!
+<0161> Mano do céu! Realmente são elas!
+<0162> P-Posso pedir a vocês seus... autografos...?
+<0163> Mano, ídolos são muito fofas.

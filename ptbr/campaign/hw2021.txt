@@ -1,0 +1,182 @@
+
+// ========= Scene: Halloween 2021 Event Start =========
+
+// (puyopuyomascot)
+<0000> "Que dia lindo de outono para caminhar ao céu aberto! É muito bom, né, Suguri!"
+
+// (suguri46b)
+<0001> "Sim, não é ruim caminhar ao céu aberto desse jeito de vez em quando... tecnicamente, você está voando, entretanto."
+
+// (puyopuyomascot)
+<0002> "Isso são detalhes! Oh, tem alguns estudantes ali. O que eles estão fazendo?"
+
+// (kyupita)
+<0003> "Isto é divertido, Kyousuke!"
+
+// (kyousuke)
+<0004> "Por desejo do nosso presidente do conselho estudantil, nós estamos decorando o portão de entrada de nossa escola para o Dia das Bruxas... Eu não vou mentir, isto não é tão ruim quanto eu imaginei."
+
+// (kyupita)
+<0005> "Eu concordo, e eu estou muito feliz que... Eu possa trabalhar junto com você desse jeito, Kyousuke...!"
+
+// (kyousuke)
+<0006> "Eu também, Kyupita."
+
+// (kyupita)
+<0007> "Kyousuke..."
+
+// (kyousuke)
+<0008> "Kyupita..."
+
+// (puyopuyomascot)
+<0009> "Sumika nunca teria imaginado que em um local desses, ela teria encontrado algo que garotas com certos interesses específicos estariam empolgadas de ver... Por sinal, aquela decoração de Dia das Bruxas está muito bonita, né, Suguri?"
+
+// (suguri46b)
+<0010> "Sim, é verdade."
+
+// (puyopuyomascot)
+<0011> "A gente devia fazer o mesmo em nossa casa!"
+
+// (suguri46b)
+<0012> "De jeito nenhum. Seria muito esforço."
+
+// (puyopuyomascot)
+<0013> "Sumika sabia que você diria isso... Certo! Sumika possui 2 novos amigos agora, e ela vai pedir ajuda a eles!"
+
+// (suguri46b)
+<0014> "O quê!? Alguém como você que não mostra sua forma verdadeira apenas porque é constrangedora, possui amigos!?"
+
+// (puyopuyomascot)
+<0015> "Já fazem algumas décadas desde que você mostrou algo surpreendente desse jeito. Enfim, Sumika se sente altamente ofendida sobre o que você acabou de falar dela! Ela melhorou muito suas habilidades sociais recentemente!"
+
+// (suguri46b)
+<0016> "Desculpa. Bem, você pode fazer o que bem entender com nossa casa contanto que eu não precise fazer nada."
+
+// (puyopuyomascot)
+<0017> "Certo, é uma promessa! Agora Sumika vai ver estes novos amigos dela!"
+
+// (suguri46b)
+<0018> "Beleza, até mais tarde."
+
+// (sumika)
+<0019> "Meeei! Nanakooo!"
+
+// (mei)
+<0020> "Oh, Sumika."
+
+// (nanako)
+<0021> "Olá, Sumika."
+
+// (sumika)
+<0022> "Olá. Parece que vocês duas estão bem. Sumika foi sortuda de encontrar vocês duas ao mesmo tempo."
+
+// (mei)
+<0023> "Eu estou me sentindo bem 24 horas por dia, 7 dias por semana!"
+
+// (nanako)
+<0024> "Você está falando como se estivesse a procurar de nós duas. O que está acontecendo?"
+
+// (sumika)
+<0025> "Bem, Sumika quer decorar sua casa para o Dia das Bruxas, e ela gostaria de saber se vocês duas podem ajudá-la com isso... Ela irá convidá-las para o jantar como forma de agradecimento!"
+
+// (mei)
+<0026> "Oh, parece bastante divertido! Estou dentro. Na verdade, eu sou excelente quando o assunto é decorar coisas!"
+
+// (nanako)
+<0027> "Decorações de Dia das Bruxas... Kae vive falando que ela quer fazer algo assim também. Mas ela nunca o faz pois ela não é boa nisso."
+
+// (mei)
+<0028> "Por que você não faz para ela?"
+
+// (nanako)
+<0029> "E-eu não sou boa em decoração, também... Mas eu acho que pode dar certo, se vocês duas estão na equipe."
+
+// (sumika)
+<0030> "Claro que vai! Sumika já fez a simulação em sua cabeça, então tudo que a gente tem que fazer é conseguir os enfeites e decorar sua casa com eles!"
+
+// (mei)
+<0031> "Eu quero mostrar a decoração para Natsumi!"
+
+// (nanako)
+<0032> "Eu vou te ajudar também se Kae puder ver."
+
+// (sumika)
+<0033> "Mas é claro!"
+
+// (mei)
+<0034> "Sabia! Afinal de contas Nanako é uma amiga meiga para a Kae!"
+
+// (nanako)
+<0035> "Não diga desse jeito. O que há de errado em ser uma boa amiga?"
+
+// (sumika)
+<0036> "Agora que Nanako nos lembrou do quanto ela gosta da Kae, vamos lá coletar o que precisamos!"
+
+// (nanako)
+<0037> "Sumika, você está me zoando também, né?!"
+
+// (mei)
+<0038> "Certo! Vamos lá!"
+
+// ========= Scene: Halloween 2021 Event Ending =========
+
+// (sumika)
+<0039> "Isto vai aqui, e... está tudo terminado!"
+
+// (mei)
+<0040> "Aham!"
+
+// (nanako)
+<0041> "Ficou bacana."
+
+// (sumika)
+<0042> "Mei, Nanako, muito obrigada por toda sua ajuda! A casa de Sumika agora está 100 vezes mais bonita!"
+
+// (suguri46b)
+<0043> "Bom trabalho, garotas. Eu sinto como se estivesse na casa de outra pessoa."
+
+// (nanako)
+<0044> "Já que está tarde, eu irei voltar com a Kae algum outro dia."
+
+// (mei)
+<0045> "Natsumi e eu faremos o mesmo!"
+
+// (sumika)
+<0046> "Claro, venham visitar a qualquer momento! Certo, Sumika precisa preparar a janta agora. Suguri, você está encarregada em entreter a Nanako e a Mei enquanto isso."
+
+// (suguri46b)
+<0047> "Entendido. Tem esse jogo de tabuleiro que podemos jogar."
+
+// (mei)
+<0048> "Mas que raios? Por que eu vivo tirando 1 no dado!"
+
+// (nanako)
+<0049> "E como raios essa Gaivota maldita vive tirando 7 de ataque?"
+
+// (suguri46b)
+<0050> "É simplesmente como o jogo funciona."
+
+// (sumika)
+<0051> "Pessoal, o jantar está pronto. Tive uma ideia, para celebrarmos o máximo dessa ocasião por que a gente não aproveita o jantar fantasiadas? Sumika está preparada para isto, ela tem diversas fantasias no armário."
+
+// (mei)
+<0052> "Oh, claro, porque não!"
+
+// (nanako)
+<0053> "Se esse é o desejo da dona da casa."
+
+// (suguri46b)
+<0054> "Ugh, eu não acredito que você me fez até mesmo fazer isso. Além disso, é vergonhoso usar uma fantasia fofa dessas..."
+
+// (sumika)
+<0055> "Você está fantástica, Suguri. E vocês também, Mei, Nanako."
+
+// (nanako)
+<0056> "Obrigada."
+
+// (mei)
+<0057> "Eu estou morrendo de fome. Devíamos começar a comer agora."
+
+// (sumika)
+<0058> "Claro, vamos jantar! Ter um jantar toda fantasiada e em uma casa lindamente decorada... Sumika é a garota mais feliz de todo o planeta!"
+

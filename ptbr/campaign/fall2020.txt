@@ -1,0 +1,359 @@
+
+// ========= Scene: Fall 2020 Event Start =========
+
+// (lulu)
+<0000> V-você tem certeza de que elas estão aqui?
+
+// (ellie)
+<0001> Se os rumores forem reais... sim!
+
+// (lulu)
+<0002> Está muito escuro aqui, Lulu está com medo...
+
+// (ellie)
+<0003> Olhe por onde você pisa, Lulu. Vamos devagar, okay?
+
+// (lulu)
+<0004> Obrigada. Você não parece nem um pouco preocupada, Ellie.
+
+// (ellie)
+<0005> Poderia-se dizer que aventuras são sobre explorar calabouços. Locais como esse não me preocupam!
+
+// (lulu)
+<0006> Hoaah... Então a gente está em uma aventura agora.
+
+// (lulu)
+<0007> Se é assim, Lulu também não deveria estar assustada!
+
+// (ellie)
+<0008> Esse que é o espírito, Lulu!
+
+// (ellie)
+<0009> Se a gente botar nossas mãos no tesouro escondido nessa caverna, ficaremos mais ricas e poderemos ostentar em nossa jornada!
+
+// (lulu)
+<0010> Ostentar...! Lulu gosta dessa ideia.
+
+// (ellie)
+<0011> Aha! Então a gente tem que achar eles, custe o que custar.
+
+// (ellie)
+<0012> O lendário Cogumelo Vermelho e o ultra-raro Cogumelo Azul!
+
+// (lulu)
+<0013> Aham, Lulu também trabalhará duro para encontrar eles!
+
+// (???)
+<0014> Não tão rápido!
+
+// (ellie)
+<0015> !?
+
+// (lulu)
+<0016> Quem está aí!?
+
+// (maynie)
+<0017> Todos os cogumelos aqui serão da Dona Arnelle!
+
+// (lulu)
+<0018> ???
+
+// (maynie)
+<0019> Se vocês se consideram aventureiras, deveriam saber o nome desse grande indivíduo que definitivamente irá fazer grandes conquistas!
+
+// (arnelle)
+<0020> Ku-ku-ku... Fuhahahaha!
+
+// (arnelle)
+<0021> Eu sou a Arnelle, considerada a grande caçadora de tesouros por aqueles que me conhecem!
+
+// (maynie)
+<0022> Kyaa! Você é demais, Dona Arnelle!
+
+// (ellie)
+<0023> ......
+
+// (lulu)
+<0024> Sra. Arnelle...? Ellie, você conhece ela?
+
+// (ellie)
+<0025> Aha, nunca vi mais gorda.
+
+// (ellie)
+<0026> E aquela garota disse que irá "fazer" conquistas. Isso significa que ela não conquistou nada ainda.
+
+// (lulu)
+<0027> Ah, você está certa!
+
+// (arnelle)
+<0028> Ugh...!
+
+// (maynie)
+<0029> Mas que raios!? Como vocês podem ser aventureiras sem saber sobre a Dona Arnelle? Que vergonha!
+
+// (maynie)
+<0030> Devíamos ensinar a elas uma lição aqui e agora, Dona Arnelle!
+
+// (arnelle)
+<0031> Acalme-se um pouco...
+
+// (ellie)
+<0032> O quê? Você quer brigar comigo? Pode vir, então!
+
+// (maynie)
+<0033> Mas que ousada! Não culpe ninguém além de você caso você se machuque...
+
+// (arnelle)
+<0034> Acalme-se, Maynie!
+
+// (maynie)
+<0035> ...Oh!
+
+// (arnelle)
+<0036> Não faz sentido lutar com elas aqui.
+
+// (maynie)
+<0037> Dona Arnelle...
+
+// (arnelle)
+<0038> Nós quatro estamos aqui pelos cogumelos, então porque não competimos por eles - uma guerra de cogumelos!
+
+// (ellie)
+<0039> Uma guerra de cogumelos!?
+
+// (arnelle)
+<0040> O cogumelo lendário e o cogumelo ultra-raro... Mesmo que eles cresçam aqui, eles são extremamente escassos.
+
+// (arnelle)
+<0041> Então, aquela que conseguir ambos os cogumelos primeiro ganha. Simples e fácil, né?
+
+// (ellie)
+<0042> Aha♥ Ok, desafio aceito!
+
+// (lulu)
+<0043> Ellie, você tem certeza disso?
+
+// (ellie)
+<0044> Sem crise! Não tem como uma caçadora de recompensas desconhecida como ela me derrotar.
+
+// (maynie)
+<0045> Mas que raios!? Dona Arnelle é quem vai encontrar ambos os cogumelos para uma vitória absoluta!
+
+// (arnelle)
+<0046> Certo então, e que a guerra dos cogumelos...
+
+// (lulu)
+<0047> Comece!
+
+// ========= Scene: Fall 2020 Event Ending =========
+
+// (lulu)
+<0048> A-aqui está! O lendário Cogumelo Vermelho!
+
+// (ellie)
+<0049> Olha o quão vermelho e com cara de venenoso ele é... Definitivamente é ele!
+
+// (ellie)
+<0050> Aha♥ Bom trabalho, Lulu!
+
+// (arnelle)
+<0051> Ku-ku-ku...
+
+// (ellie)
+<0052> !?
+
+// (arnelle)
+<0053> Parece que você achou um dos cogumelos.
+
+// (ellie)
+<0054> Você é a caçadora de recompensas de mais cedo!
+
+// (maynie)
+<0055> Bom trabalho, Dona Arnelle! Como a gente tem o Cogumelo Azul, se a gente roubar o Cogumelo Vermelho delas...
+
+// (arnelle)
+<0056> Ambos os cogumelos serão nossos!
+
+// (ellie)
+<0057> Ahaaa? Isso nunca vai acontecer! Nós vamos roubar o seu no lugar!
+
+// (ellie)
+<0058> *Suspira suspira* Você é uma boa lutadora, sabe.
+
+// (maynie)
+<0059> *Suspira suspira* Você também.
+
+// (lulu)
+<0060> Es-essa foi uma luta brutal.
+
+// (arnelle)
+<0061> Eu concordo que valeu a pena ver essa luta...
+
+// (arnelle)
+<0062> Mas, garotinha, essa é uma guerra de cogumelos. Se você está tão focada na luta delas...
+
+// (arnelle)
+<0063> Eu vou roubar o cogumelo de suas mãos!
+
+// (lulu)
+<0064> Ãhn?
+
+// (ellie)
+<0065> !? Não vou te deixar!
+
+// (arnelle)
+<0066> Ugh.
+
+// (ellie)
+<0067> Lulu, você está bem?
+
+// (lulu)
+<0068> Huh, Ellie? Lulu's está bem... Mas nosso cogumelo, está...
+
+// (ellie)
+<0069> Meu deus, possui um arranhão nele...!
+
+// (arnelle)
+<0070> Uh-oh. Ninguém compraria um cogumelo danificado... Que desperdício.
+
+// (ellie)
+<0071> Não fale como se não fosse sua culpa! Foi você que o danificou!
+
+// (ellie)
+<0072> Você não tem vergonha de ser uma caçadora de recompensas sendo que você tentou furtar um tesouro e falhou e o arruinou?
+
+// (arnelle)
+<0073> Arrgh! N-não jogue sal na ferida com um argumento válido...!
+
+// (maynie)
+<0074> Está tudo bem, Dona Arnelle! Não importa o que ela diga, apenas se parece com as lágrimas salgadas de uma má perdedora!
+
+// (arnelle)
+<0075> S-sim, é isso mesmo.
+
+// (arnelle)
+<0076> Certo então, me dê aquele Cogumelo Vermelho. Você não tem mais utilidade para ele.
+
+// (arnelle)
+<0077> Embora esteja arranhado, ainda deve valer uns trocados.
+
+// (ellie)
+<0078> Ahaaa! Se eu tenho que te dar, eu prefiro fazer isso...!
+
+// (ellie)
+<0079> *Engole*
+
+// (maynie)
+<0080> Aaaah!? Ela...
+
+// (arnelle)
+<0081> Comeu o cogumelo!?
+
+// (ellie)
+<0082> *Mastiga mastiga* B-bem, o cogumelo lendário é surpreendentemente saboroso.
+
+// (maynie)
+<0083> Que raios, ela é doida...!
+
+// (arnelle)
+<0084> Comer esses cogumelos crus não é bom...
+
+// (lulu)
+<0085> O quê?
+
+// (arnelle)
+<0086> Temos que sair daqui antes que aquela garota se torne um problema, Maynie.
+
+// (maynie)
+<0087> O-ok, Dona Arnelle...
+
+// (ellie)
+<0088> Não, NaaAr irÃo.
+
+// (lulu)
+<0089> Ãhn, Ellie? O que foi!?
+
+// (ellie)
+<0090> Ukyaaaaaah!
+
+// (maynie)
+<0091> O-o que está acontecendo com ela!?
+
+// (arnelle)
+<0092> Esses cogumelos são venenosos, comê-los crus pode causar alucinações fortes!
+
+// (lulu)
+<0093> Cuméquié!?
+
+// (ellie)
+<0094> CoMa...
+
+// (ellie)
+<0095> Me Dê EsTe CoGuMeLo!
+
+// (arnelle)
+<0096> Oh céus...
+
+// (maynie)
+<0097> Nosso Cogumelo Azul...!
+
+// (ellie)
+<0098> AhAaA AhAaA...
+
+// (maynie)
+<0099> Me devolva!
+
+// (ellie)
+<0100> CoMa.
+
+// (maynie)
+<0101> Ugh!?
+
+// (ellie)
+<0102> VoCê CoMe CoGuMeLo TaMbÉm!
+
+// (arnelle)
+<0103> Ela botou o cogumelo na boca da Maynie!
+
+// (maynie)
+<0104> Ugh... *Engole*
+
+// (arnelle)
+<0105> E fez ela comer...
+
+// (lulu)
+<0106> Bem, ãhn... O que acontece se você come um Cogumelo Azul cru...?
+
+// (arnelle)
+<0107> O mesmo que o Cogumelo Vermelho.
+
+// (lulu)
+<0108> Isso significa...
+
+// (maynie)
+<0109> GYAOOOOOH!
+
+// (ellie)
+<0110> AHAAAAAAAA!
+
+// (lulu)
+<0111> Isso acontece!
+
+// (maynie)
+<0112> MaYnIe Te AmA, dOnA aRnElLe!
+
+// (ellie)
+<0113> AhAaAa! VoU qUeImAr TuDo!
+
+// (arnelle)
+<0114> Meu deus! Parem de fazer tumulto em uma caverna estreita assim, vocês duas!
+
+// (lulu)
+<0115> Wa-wa-wah, você precisa se acalmar, Ellie!
+
+// (ellie&maynie)
+<0116> GYAOOOOOOH!
+
+// (lulu&arnelle)
+<0117> Nããããooooooo!
+

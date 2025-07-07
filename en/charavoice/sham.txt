@@ -1,0 +1,161 @@
+
+<0000> There!
+<0001> Here goes.
+<0002> Ehe.
+<0003> There you go!
+<0004> This one!
+<0005> My turn!
+<0006> Ehehe, I'm playing a card.
+<0007> I guess I wanna play this.
+<0008> I'm playing a small prank.
+<0009> Fuhehe.
+<0010> This goes right here... Okay!
+<0011> I can't wait to see someone step on it.
+<0012> I'm super ready to do this!
+<0013> I can't afford to lose.
+<0014> I'll give it my all!
+<0015> I'll beat you!
+<0016> I'll electrify you!
+<0017> I'm full of energy!
+<0018> I haven't given up yet!
+<0019> I need to make up for lost time.
+<0020> All right! I'm up again!
+<0021> Whaaat? That's odd.
+<0022> Uu, it didn't go well.
+<0023> Uuuuu...
+<0024> Muuuu...
+<0025> Tah!
+<0026> There!
+<0027> Hah!
+<0028> Here I come!
+<0029> Ow!
+<0030> Ouch?!
+<0031> Hmmhee!
+<0032> Wah?!
+<0033> First aid!
+<0034> I have to keep going.
+<0035> That gave me energy.
+<0036> I feel like I can do more!
+<0037> Warp?!
+<0038> Where am I going?
+<0039> Waah!
+<0040> What in the...
+<0041> Au.
+<0042> Omigod.
+<0043> Awah...
+<0044> I messed up...
+<0045> Let the battle begin!
+<0046> Here I come!
+<0047> I can do this!
+<0048> I'm gonna have to ask you to make way for me.
+<0049> Out of my way!
+<0050> Enemy encounter?!
+<0051> What, what?!
+<0052> You looking for a fight?
+<0053> Go!
+<0054> Fire!
+<0055> Attack!
+<0056> I'll attack you!
+<0057> Ugh-kuh!
+<0058> Au!
+<0059> Oops.
+<0060> Did I just get scraped?!
+<0061> Uwah!
+<0062> Not good!
+<0063> Uaaah!
+<0064> This is so not good...
+<0065> That was a close one!
+<0066> Well dodged!
+<0067> Hiee!
+<0068> You can't hit me!
+<0069> Phew... I won.
+<0070> All right, moving on.
+<0071> I managed it...
+<0072> Phew...
+<0073> I got beaten?
+<0074> Kuh...
+<0075> Shoot...
+<0076> I'm defeated...!
+<0077> Sweet!
+<0078> That's all mine.
+<0079> Awesome.
+<0080> Uhihi.
+<0081> Ah!
+<0082> You've got to be kidding me!
+<0083> It can't be!
+<0084> Seriously!?
+<0085> A trap!?
+<0086> I can't believe I fell for it.
+<0087> Ugh, I botched up.
+<0088> Whoa, why here...!?
+<0089> There's something big... Not good.
+<0090> Uh-oh, I'm in trouble.
+<0091> I'm not sure I can handle this...
+<0092> Hmm, I'm getting bad vibes...
+<0093> We'll get tons of them.
+<0094> This is a gathering quest, right?!
+<0095> I'm excellent at this kind of stuff.
+<0096> Let's go gather stars!
+<0097> I have no choice but to fight.
+<0098> I'm not the best fighter in the world, but...
+<0099> If that's what I have to do.
+<0100> I'll try and fight.
+<0101> I'm Sham. Glad to meet you.
+<0102> Sure, let's work together!
+<0103> Sure thing! We can do this together.
+<0104> I'm so glad you picked me! Let's have fun.
+<0105> It's on now!
+<0106> My heart's racing.
+<0107> Let's show them what we've got.
+<0108> The game's on!
+<0109> I sure am glad we won.
+<0110> Did we win?! I'm so stoked!
+<0111> We did it perfectly...
+<0112> Yeah, that's one pleasant victory.
+<0113> Did you get something cute?
+<0114> Wow, we've got something!
+<0115> Does that... help any?
+<0116> Good for you! Wanna use it now?
+<0117> I'd like a switch, please!
+<0118> Do you mind switching?
+<0119> I believe in you!
+<0120> Player substitution!
+<0121> Okay!
+<0122> Looking good!
+<0123> Yep.
+<0124> That's not good.
+<0125> Oh, no!
+<0126> Lucky you!
+<0127> Hmm?
+<0128> Go! Go!
+<0129> Dice!
+<0130> Gooo!
+<0131> Hi!
+<0132> Mhmm.
+<0133> Very nice!
+<0134> I'm impressed! You're awesome!
+<0135> Nuah! What's the deal with you!
+<0136> I don't know what this does, but...
+<0137> I wonder what I can do with this.
+<0138> Is it safe to use this?
+<0139> Not sure if this is a good idea, but...!
+<0140> It's Sora!
+<0141> Sora's here! I'm hyped.
+<0142> Even if it's you, I won't go easy.
+<0143> I'm gonna go all out, Sora!
+<0144> Hey Sora, let's fight!
+<0145> Make sure to use all you've got!
+<0146> I won this one.
+<0147> You're just as strong as I remember.
+<0148> D-don't hit me from behind, okay...?
+<0149> Huh? Me and Sora...? What are you doing?
+<0150> Nath, fight me!
+<0151> Whoa, are you gonna fight me, Nath?
+<0152> I can't believe I won...
+<0153> I knew I wouldn't do well against you.
+<0154> Omigod!? There's a cute little girl here!
+<0155> Hi, cutie, how about you come hang out with me!
+<0156> Y-you want to hang out with me? Yeah, sure. What should we do?
+<0157> That was fun! By the way, have you ever thought of becoming an idol?
+<0158> Tiny and cute, yet strong... You'd make the perfect idol...
+<0159> *clap clap*... You two are shining more than anyone else...

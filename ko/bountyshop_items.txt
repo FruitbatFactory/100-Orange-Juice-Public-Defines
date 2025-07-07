@@ -1,0 +1,189 @@
+// Tavern
+< ITEM_UNKNOWN >
+name=???
+descr=
+
+< ITEM_HEAL_LV1 >
+name=커피 한 잔
+descr=HP 2를 회복한다.
+
+< ITEM_HEAL_LV2 >
+name=레모네이드
+descr=HP 4를 회복한다.
+
+< ITEM_HEAL_LV3 >
+name=엘릭서
+descr=HP를 완전히 회복한다. 사용자에게 걸린 파멸과 사용자가 보유한 의뢰의 저주도 해제한다.
+
+< ITEM_OVERHEAL_LV1 >
+name=에너지 드링크
+descr=HP 1을 회복하고 HP 1을 획득한다.
+
+< ITEM_OVERHEAL_LV2 >
+name=푸딩 쉐이크
+descr=HP 2를 회복하고 HP 2를 획득한다.
+
+< ITEM_OVERHEAL_LV3 >
+name=아카 & 아오 아일랜드
+descr=HP 4를 회복하고 HP 3을 획득한다.
+
+< ITEM_HEALTHSHOT >
+name=스위트 토닉
+descr=최대 HP를 영구히 1 증가시킨다. 단 한 번만 구매할 수 있다.
+
+< ITEM_INVULNERABILITY >
+name=약초제
+descr=지속 시간: 1챕터. 피해를 받지 않는다.
+
+// Bakery
+<ITEM_ATK_BOOST_LV1 >
+name=쿠키
+descr=사용하면 다음 배틀 2회에서 공격력 +1을 얻는다. 같은 효과는 중첩되지 않는다.
+
+<ITEM_ATK_BOOST_LV2 >
+name=머핀
+descr=사용하면 다음 배틀 2회에서 공격력 +2를 얻는다. 같은 효과는 중첩되지 않는다.
+
+<ITEM_ATK_BOOST_LV3 >
+name=패스츄리
+descr=사용하면 다음 배틀 2회에서 공격력 +3을 얻는다. 같은 효과는 중첩되지 않는다.
+
+<ITEM_DEF_BOOST_LV1 >
+name=사탕
+descr=사용하면 다음 배틀 2회에서 방어력 +1을 얻는다. 같은 효과는 중첩되지 않는다.
+
+<ITEM_DEF_BOOST_LV2 >
+name=캐러멜
+descr=사용하면 다음 배틀 2회에서 방어력 +2를 얻는다. 같은 효과는 중첩되지 않는다.
+
+<ITEM_DEF_BOOST_LV3 >
+name=초콜렛
+descr=사용하면 다음 배틀 2회에서 방어력 +3을 얻는다. 같은 효과는 중첩되지 않는다.
+
+<ITEM_EVA_BOOST_LV1 >
+name=아이스크림
+descr=사용하면 다음 배틀 2회에서 회피력 +1을 얻는다. 같은 효과는 중첩되지 않는다.
+
+<ITEM_EVA_BOOST_LV2 >
+name=샤베트
+descr=사용하면 다음 배틀 2회에서 회피력 +2를 얻는다. 같은 효과는 중첩되지 않는다.
+
+<ITEM_EVA_BOOST_LV3 >
+name=젤라토
+descr=사용하면 다음 배틀 2회에서 회피력 +3을 얻는다. 같은 효과는 중첩되지 않는다.
+
+<ITEM_ACCELCANDY >
+name=액셀 하이퍼 사탕
+descr=지속 시간: 1챕터. 아무 행동에서든 주사위 2개를 굴린다.
+
+<ITEM_COTTONSPONGE >
+name=스펀지 케이크
+descr=지속 시간: 1챕터. 고정 카드 코스트가 공짜가 되며 요구 레벨 또한 무시한다.
+
+<ITEM_PUDDING>
+name=푸딩
+descr=스톡 효과. 배틀에서 KO당할 시 HP 3을 갖고 부활하여 배틀을 지속한다.
+
+<ITEM_MELONPAN>
+name=멜론빵
+descr=방어력과 회피력을 +1씩 공격력 -1을 영구히 얻는다. 단 한 번만 구매할 수 있다.
+
+< ITEM_REDBEANCREAM >
+name=팥바
+descr=스톡 효과: 공격력 +1을 얻는다. 이 효과는 KO 시 사라진다. 이 효과는 중첩되지 않는다.
+
+< ITEM_WOODENSHIELD >
+name=나무 방패
+descr=들어오는 피해를 1 줄이는 방패. 2타 후 제거된다.
+
+< ITEM_IRONSHIELD >
+name=철 방패
+descr=들어오는 피해를 1 줄이는 방패. 4타 후 제거된다.
+
+< ITEM_MITHRILSHIELD >
+name=미스릴 방패
+descr=들어오는 피해를 2 줄이는 방패. 4타 후 제거된다.
+
+< ITEM_ZAPPERSWORD >
+name=마법검
+descr=공격력 +1, 방어력 -1을 영구히 얻는다. 단 한 번만 구매할 수 있다.
+
+< ITEM_SMOKEBOMB >
+name=연막탄
+descr=스톡 효과: 다음 배틀에서 상대가 공격력, 방어력, 회피력 -1을 얻는다.
+
+< ITEM_PRECISIONGOGGLES >
+name=정밀 고글
+descr=아이템을 두 패널 더 멀리 던질 수 있다. 단 한 번만 구매할 수 있다.
+
+< ITEM_MERCENARY >
+name=용병
+descr=필드에 용병을 소환한다. 용병은 소환 플레이어를 제외한 필드상에서 만나는 아무 유닛이나 공격한다. 용병이 유닛을 KO시키면 그 유닛이 잃는 스타의 절반은 소환 플레이어에게, 나머지는 용병에게 간다. 
+
+< ITEM_PHILOSOPHERSTONE >
+name=현자의 돌
+descr=매 챕터마다 4스타에 더해 지난 5챕터당 1스타를 추가로 얻는다. 소지 스타를 전부 (최소 120스타) 지불하여 단 한 번만 구매할 수 있다.
+
+< ITEM_REC_BOOST_LV1 >
+name=활력의 물약
+descr=다음에 KO될 시 부활값을 1 낮춘다.
+
+< ITEM_REC_BOOST_LV2 >
+name=생명력의 물약
+descr=다음에 KO될 시 부활값을 2 낮춘다.
+
+< ITEM_REC_BOOST_LV3 >
+name=불사조의 정수
+descr=다음에 KO될 시 부활값을 3 낮춘다.
+
+< ITEM_ANTITIRED >
+name=피로회복제
+descr=부활값을 영구히 1 낮춘다. 단 한 번만 구매할 수 있다.
+
+< ITEM_GUARDIAN >
+name=수호자
+descr=필드에 수호자를 소환한다. 내가 들고 있는 현상금 퀘스트를 찾아 싸운다. 다른 플레이어를 공격할 수 없으나 다른 플레이어는 수호자를 공격할 수 있다.\n레벨: 소환 당시 내 레벨.\n보유 스타: 구매 당시 지불한 만큼.
+
+< ITEM_FAE >
+name=오로라
+descr=필드에 오로라를 소환한다. 오로라는 짝수 챕터마다 내 유닛의 HP를 1 회복시켜주거나 내 유닛이 KO되어있을 경우 절반의 HP로 부활시킨다. 다른 플레이어를 공격할 수는 없으나 다른 플레이어는 오로라를 공격할 수 있다.
+
+< ITEM_LEATHERBOOTS >
+name=가죽 신발
+descr=이동력 +2. 이 아이템을 사면 이미 보유중인 신발을 대체한다.
+
+< ITEM_GALESHOES >
+name=돌풍 신발
+descr=이동력 +2 및 가진 의뢰가 2장 이하일 경우 추가 이동력 +1. 이 아이템을 사면 이미 보유중인 신발을 대체한다.
+
+< ITEM_SPIKEDSHIELD >
+name=가시 방패
+descr=받는 피해를 1 줄여주는 가시 달린 방패. 내 방어 굴림값이 상대의 공격 굴림값보다 높을 경우 공격 굴림값의 반을 상대에게 피해로 반사시킨다. 배틀 1회 이후 제거된다.
+
+< ITEM_BATTLEAXE >
+name=처형인
+descr=공격력 +1, 회피력 -1을 영구히 얻는다. 단 한 번만 구매할 수 있다.
+
+< ITEM_BLACKMARKET_CURSEDSWORD >
+name=저주받은 검
+descr=공격력 +2, 방어력, 회피력, 최대 HP -1을 영구히 얻는다.
+
+< ITEM_BLACKMARKET_CURSEDAXE >
+name=저주받은 전투 도끼
+descr=공격 시 20% 확률로 치명타를 일으킬 수 있다. 10% 확률로 공격이 빗나간다.
+
+< ITEM_BLACKMARKET_CURSEDBOUNTY >
+name=저주받은 현상수배
+descr=다음 현상수배의 보상 명성이 2 증가한다. 현상수배를 완수한 후 KO 시까지 HP와 최대 HP가 1로 고정된다.
+
+< ITEM_BLACKMARKET_CURSEDICECREAM >
+name=보라색 팥바
+descr=공격력 +2와 최대 HP -3 (최저치 1)을 KO 시까지 얻는다.
+
+< ITEM_BLACKMARKET_CURSEDSHOES >
+name=강화 돌풍 신발
+descr=이동력 +4, 의뢰를 단 1장만 가질 수 있다. 이 아이템을 사면 이미 보유중인 신발을 대체한다.
+
+< ITEM_BLACKMARKET_CURSEDSUMMON >
+name=마스터 소환술사
+descr=필드에 무작위 소환물 또는 중립 침략자가 등장한다. \n소환물은 HP 12를 갖고 시작한다. \n필드에 이미 침략자가 있으면 침략자가 나오지 않는다.

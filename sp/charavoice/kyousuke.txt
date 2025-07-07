@@ -1,0 +1,162 @@
+
+<0000> ¡Hah!
+<0001> ¡Aquí!
+<0002> ¡Fufu!
+<0003> ¡Ahí!
+<0004> Carta.
+<0005> Jugaré esta carta.
+<0006> Allá vas.
+<0007> Muy bien... vamos con esto.
+<0008> Aquí hay una trampa.
+<0009> Colocaré una trampa por aquí.
+<0010> Me pregunto quién caerá por esto.
+<0011> Mantén la guardia.
+<0012> Carta de batalla.
+<0013> Te mostraré todo de mí.
+<0014> Seré el ganador, gracias.
+<0015> Es el momento de hacer esto.
+<0016> Permíteme mostrarte mi verdadero ser.
+<0017> Bien... supongo que es la hora de devolver el golpe.
+<0018> Puedo seguir.
+<0019> Fufu, esto se está poniendo divertido.
+<0020> Esto no es nada.
+<0021> Mhm...
+<0022> Parece que no es hora de levantarse todavía.
+<0023> No hay por qué apresurarse.
+<0024> Fufufu...
+<0025> Aquí voy.
+<0026> ¡Mano mística de la oscuridad!
+<0027> ¡Conocerás a tu creador!
+<0028> ¡Te golpearé hasta que caigas!
+<0029> ¡Nugh!
+<0030> Veo que he recibido un golpe de gracia.
+<0031> Este dolor me hará...
+<0032> ¡Gugah!
+<0033> Que brisa tan placentera.
+<0034> Estoy rodeado de calor.
+<0035> Me está acalorando...
+<0036> Fufufu... Esto es muy bueno.
+<0037> ¡No importa en donde esté...!
+<0038> Me acercaré a donde tú estás.
+<0039> ¿A dónde me llevará esto?
+<0040> Transportación, eh...
+<0041> Phew... Necesito un pequeño descanso.
+<0042> Ah...
+<0043> Es un buen momento para recibir cinco.
+<0044> Bueno...
+<0045> Te derribaré.
+<0046> Ahora, iré por la ofensa.
+<0047> Ahora es mi turno.
+<0048> Permíteme actuar.
+<0049> Está bien... podrás acercarte hacia mí.
+<0050> ¿Qué te parece si nos divertimos un poco?
+<0051> ¿Quieres pelear conmigo?
+<0052> Desafío aceptado. Ahora, empecemos.
+<0053> ¡Sey!
+<0054> ¡Hah!
+<0055> ¡Intenta esquivar esto!
+<0056> ¡Golpe de rosa!
+<0057> ¡Guh!
+<0058> ¡Aargh!
+<0059> ¡Eso es bueno...!
+<0060> ¡Oww!
+<0061> Qué entusiasta.
+<0062> Un dolor placentero.
+<0063> Esplendido.
+<0064> ¡Sí, eso es!
+<0065> Eso no me llegará.
+<0066> Estoy justo aquí.
+<0067> Cerca, pero no tanto.
+<0068> Hmph.
+<0069> Así que gané...
+<0070> Buena pelea.
+<0071> Fue divertido.
+<0072> Deberíamos pelear otra vez.
+<0073> Increíble.
+<0074> Fufufu, bien por todos.
+<0075> Tú eres el ganador.
+<0076> Sí, lo hiciste muy bien.
+<0077> Estrellas.
+<0078> Las estrellas brillan con gracia y certeza.
+<0079> La luz me rodea.
+<0080> ¡Brillen más...!
+<0081> ¿También vas a dejarme?
+<0082> Oh no...
+<0083> No... Estoy perdiendo... luz...
+<0084> No puedo creer esto.
+<0085> Hmph, caí en la trampa.
+<0086> Oh, es una trampa...
+<0087> Metí la pata.
+<0088> ¿Qué ocurre conmigo?
+<0089> Hmm... Puedo sentir que está aquí...
+<0090> Aquí viene uno fuerte...
+<0091> No puedo dejar de pensar en este poder.
+<0092> Las cosas se han puesto más serias por aquí...
+<0093> Las estrellas me están llamando.
+<0094> Apilaré muchas estrellas.
+<0095> Deseo una gran luz.
+<0096> Las estrellas son tentadoras.
+<0097> Sé que busco una confrontación...
+<0098> Como hombre... tendré que aspirar a la victoria.
+<0099> Escojo... pelear.
+<0100> Espero ver muchas batallas intensas.
+<0101> Kyousuke.
+<0102> ¿Qué tal?
+<0103> La hora de la diversión está por comenzar.
+<0104> Iré contigo.
+<0105> El juego comenzará...
+<0106> Bueno... veamos qué planes tienen mis enemigos.
+<0107> Iré a divertirme lo más que pueda.
+<0108> Hay mucho aire fresco alrededor.
+<0109> Hmph... Mi triunfo...
+<0110> Oh vaya, esto se siente bien.
+<0111> Hmm... ¿Acaso terminé ganando?
+<0112> Me siento fantástico.
+<0113> ¿Encontraste algo bueno?
+<0114> Hmm, eso se ve bien
+<0115> Así que obtuvimos algo nuevo.
+<0116> I see... Esto es...
+<0117> ¿Te importaría tomar mi lugar?
+<0118> Cuento contigo.
+<0119> ¿Te importa?
+<0120> Lo siento, pero necesito que tomes mi lugar.
+<0121> Claro.
+<0122> Bien.
+<0123> Yes, hagámoslo.
+<0124> Perdón... por eso...
+<0125> Uno de estos días...
+<0126> Tu día de suerte.
+<0127> ¿Qué?
+<0128> Vamos...
+<0129> Tiraré los dados.
+<0130> Voy...
+<0131> Oh, hola, ¿cómo te va?
+<0132> Hmm...
+<0133> ¡Bien!
+<0134> ¡Fantástico!
+<0135> Oh no...
+<0136> Es ahora o nunca.
+<0137> Esto no se ve tan mal.
+<0138> Ahora... permíteme usar esto.
+<0139> Esto poder... ¿Funcionará conmigo?
+<0140> ¡Kyu... Kyupita...!
+<0141> ¡Adelante, Kyupita!
+<0142> Fufufu, ¿qué te hizo pensar que me derrotarías?
+<0143> Excelente, Kyupita... estuve bien... al enamorarme de ti...
+<0144> ¡Te encontré, Kyupita!
+<0145> Siento la presencia de Kyupita...
+<0146> ¿¡Pero qué-...!? ¡¿Hay dos Kyupitas...?!
+<0147> ¡¡H-Hay... tantos... Kyupitas...!!
+<0148> Fufu, felicitaciones, Kyupita.
+<0149> Excelente trabajo. Te harás más fuerte.
+<0150> Kyupita... Eres capaz de brillar tanto...
+<0151> Fufufu... me estoy divirtiendo mucho, Kyupita...
+<0152> ¡¡¡Kyupitaaaaaaaaaaa!!!
+<0153> Hm... Tú eres...
+<0154> Así que eres el oponente, eh.
+<0155> Hm... Las palabras no pueden describir esta extraña sensación.
+<0156> No estoy arrepentido de haber perdido contra ti.
+<0157> Hay más mujeres que hombres aquí. Deberíamos ayudarnos.
+<0158> La hora del servicio se acabó.
+<0159> ¡Achoo! ...Esta es una dura situación.
+

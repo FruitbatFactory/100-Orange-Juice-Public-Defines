@@ -1,0 +1,173 @@
+
+<0000> Certo.
+<0001> O que eu vou ganhar?
+<0002> E lá vou eu.
+<0003> Me dê algo bom.
+<0004> Eu vou apenas usar este.
+<0005> Está na hora de jogar uma carta.
+<0006> Eu vou virar o jogo.
+<0007> Estou usando isto.
+<0008> Está na hora da armadilha.
+<0009> Estou posicionando isto aqui.
+<0010> Imagino que este seja um bom lugar.
+<0011> Aqui, uma armadilha.
+<0012> Eu sei que é infantil fazer isso, mas...
+<0013> Não vai sobrar um osso sequer para enterrar.
+<0014> Eu vou te esmagar.
+<0015> Me permita acabar com você.
+<0016> Pelo futuro da minha loja de brinquedos!
+<0017> Ugh...
+<0018> Não posso gastar meu tempo dormindo.
+<0019> Eu vou compensar o tempo perdido.
+<0020> Finalmente...
+<0021> Caramba...
+<0022> Droga...
+<0023> Estou desapontado comigo mesmo.
+<0024> A idade está começando a pesar em mim.
+<0025> Hah!
+<0026> Pereça!
+<0027> Vou te quebrar todo!
+<0028> Urah!
+<0029> Gah.
+<0030> Ugh.
+<0031> Nuh.
+<0032> Ai.
+<0033> Ufa...
+<0034> Os machucados já foram curados.
+<0035> Okay, posso seguir adiante.
+<0036> O jogo continua!
+<0037> Hmm.
+<0038> Para onde estou indo?
+<0039> Onde eu estou?
+<0040> Estou teleportando?
+<0041> Me sinto miserável.
+<0042> Tsk.
+<0043> Eu podia ter feito melhor.
+<0044> Ah...
+<0045> Lute comigo!
+<0046> Vamos cumprir o serviço.
+<0047> Você está se opondo a mim?
+<0048> Está preparado para tomar uma surra?
+<0049> Saia do meu caminho!
+<0050> Pelo visto lutar é a única escolha.
+<0051> O que quer que aconteça, não me culpe.
+<0052> Você vai pagar o preço por isto.
+<0053> Dah!
+<0054> Toma isto!
+<0055> Hah!
+<0056> Você já era.
+<0057> Oww.
+<0058> Guh.
+<0059> Você é bom.
+<0060> Ugh.
+<0061> Mas o quê?
+<0062> Você é melhor do que eu imaginava.
+<0063> Estou impressionado.
+<0064> Guoooh!
+<0065> Não vai chegar até mim.
+<0066> Não é bom o bastante.
+<0067> Hmph.
+<0068> Para onde você está mirando?
+<0069> Eu preciso ganhar.
+<0070> Não posso me dar ao luxo de perder.
+<0071> Você pode dormir aí.
+<0072> Perdedor.
+<0073> Não desse jeito...
+<0074> Filho da...
+<0075> Você só pode estar brincando...
+<0076> ......
+<0077> Mais.
+<0078> Eu preciso conseguir para mim mais dessas.
+<0079> Me dê muito mais.
+<0080> Eu preciso coletar mais dessas.
+<0081> Eu não posso me dar ao luxo de perder mais dessas.
+<0082> Elas caíram das minhas mãos.
+<0083> Minhas estrelas.
+<0084> Droga.
+<0085> Mas que droga!
+<0086> Alguém me pegou.
+<0087> Uma armadilha, huh?
+<0088> Algo acabou de acontecer.
+<0089> Aquele cara parece difícil de derrotar.
+<0090> Deixe os adultos cuidarem disso.
+<0091> Isto vai ser desafiador.
+<0092> Lá vem um grandalhão.
+<0093> Eu vou de estrelas.
+<0094> Eu escolho coletar estrelas.
+<0095> Enfim, vou coletar estas.
+<0096> O que eu preciso é de estrelas.
+<0097> Parece que preciso tirar algumas pessoas do meu caminho.
+<0098> Vou chutar o traseiro de geral.
+<0099> Vou erradicar cada um dos meus oponentes.
+<0100> Eu vou derrotar todos vocês.
+<0101> Arthur aqui.
+<0102> Pelo bem do futuro.
+<0103> Eu vou botar minhas mãos na vitória.
+<0104> Vamos fazer isto juntos.
+<0105> Então começou.
+<0106> Certo...
+<0107> Está na hora de trabalhar.
+<0108> Certo, vamos lá.
+<0109> Parece que venci.
+<0110> Humf, esta foi fácil.
+<0111> Isto marca mais um passo para meu futuro brilhante.
+<0112> Creio que eu devia abrir a loja agora.
+<0113> Nós temos coisas boas em estoque.
+<0114> É um novo produto.
+<0115> Toma.
+<0116> Este é um bom item.
+<0117> Tome conta a partir daqui, beleza?
+<0118> Obrigado.
+<0119> Cuide do resto.
+<0120> Eu estou dependendo de você.
+<0121> Certo.
+<0122> Ótimo.
+<0123> Claro...
+<0124> Não.
+<0125> O quê...?
+<0126> Você está com sorte.
+<0127> Hmm?
+<0128> Vamos lá.
+<0129> Jogando o dado.
+<0130> Aqui vamos nós.
+<0131> Oh, é você.
+<0132> Hmph...
+<0133> Bom.
+<0134> Ótimo trabalho.
+<0135> Oh droga.
+<0136> Não é como se eu fizesse isso de vez em quando.
+<0137> Vou pegar isto emprestado.
+<0138> Me deixe usar isto.
+<0139> Eu gosto disso.
+<0140> Eu lhe agradeço.
+<0141> Mamãe Noel...
+<0142> É você, hã...
+<0143> Parece que sou o vencedor dessa vez.
+<0144> Eu pensei que podia perder.
+<0145> Nico.
+<0146> Você está passando por uma fase rebelde agora?
+<0147> Seja uma boa garota e fique parada, okay?
+<0148> Ugh, você cresceu.
+<0149> Isto é uma pelúc... Acho que não?
+<0150> Agora, está na hora dos negócios.
+<0151> Garotinha, você gosta de brinquedos?
+<0152> Por quê... você está aqui...?
+<0153> Está na hora daquele evento.
+<0154> É a melhor época do ano para meus negócios.
+<0155> Hoje será um dia bem atarefado.
+<0156> Certo, eu vou começar a ajudar a entregar presentes.
+<0157> Garotinha, nós temos diversos presentes na nossa loja.
+<0158> Oh, você gostou dos nossos brinquedos, garotinha?
+<0159> Venha e compre na Loja de Hobby Rbit.
+<0160> Ugh... Eu vou conseguir um voucher de 30% de desconto para você.
+<0161> Bem-Vindo.
+<0162> Você quer brincar aqui?
+<0163> Hmph.
+<0164> Bom, é assim que são as coisas.
+<0165> Isto é muito bom.
+<0166> Nada mal.
+<0167> Alegre-se. Isto é algo especial que só acontece uma vez. Cuide bem disso.
+<0168> Rapaz, como você está sem sorte. Aqui, tome isto.
+<0169> Ma-mas o que...
+<0170> Você é absurdamente sortudo.
+<0171> Feliz Natal!

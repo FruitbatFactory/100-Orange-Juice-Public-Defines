@@ -1,0 +1,162 @@
+<0117> Toma mi lugar, ¿sí?
+<0118> Permíteme descansar por un momento.
+<0119> Cuento contigo.
+<0120> ¡Hora del cambio!
+
+<0000> Eeey.
+<0001> Saludos.
+<0002> Estoy en una buena racha.
+<0003> Tengo fe en ti.
+<0004> Fu-fu-fu.
+<0005> ¿Puedo?
+<0006> Lo cambiaré todo con esto.
+<0007> Esto lo hará.
+<0008> Me lo agradeceré después.
+<0009> Sólo es una pequeña broma.
+<0010> Esta trampa será tu pesadilla.
+<0011> Esto va por aquí.
+<0012> Haré lo que sea para ganar.
+<0013> Sin resentimientos, ¿está bien?
+<0014> Por el bien de mi victoria.
+<0015> Supongo que esta es la acción correcta.
+<0016> Les mostraré a todos lo que mis ojos pueden hacer.
+<0017> Pagarán por lo que me has hecho.
+<0018> Muy bien, te lo pagaré con interés.
+<0019> No me quedaré tirada en el suelo.
+<0020> Eso fue tan humillante...
+<0021> Debo pretender que este no es el momento indicado...
+<0022> ¿Mhm?
+<0023> Debo dejar de holgazanear y salir de aquí.
+<0024> *Tsk* Esto no me está favoreciendo.
+<0025> Aquí voy.
+<0026> Voy por ti.
+<0027> Ten cuidado o te lastimarás.
+<0028> Ya está.
+<0029> No está mal.
+<0030> Tú...
+<0031> ¡Ugyah!
+<0032> ¡¿Cuál es tu problema?!
+<0033> Supongo que tomaré cinco.
+<0034> La salud es una riqueza.
+<0035> He llegado.
+<0036> Bien, puedo volver a trabajar.
+<0037> ¿A dónde iré?
+<0038> Mhm, esto es divertido.
+<0039> ¿En dónde estaré?
+<0040> ¿Una teletransportación?
+<0041> Esto no puede estar sucediendo...
+<0042> Oh vaya, no me siento bien.
+<0043> Metí la pata.
+<0044> Vaya, esto es malo...
+<0045> Te derribaré.
+<0046> Patearé el trasero de todo aquél que esté en mi camino.
+<0047> ¿Quieres arrastrarte?
+<0048> Un blanco fácil.
+<0049> No deberías haberme desafiado...
+<0050> Sal de mi camino.
+<0051> Te reto.
+<0052> ¡Deberías escoger tus batallas con más sabiduría!
+<0053> ¡Orah!
+<0054> No haré que esta pelea sea fácil para ti.
+<0055> ¡Sorah!
+<0056> ¡Jajajaja!
+<0057> *Tsk*
+<0058> ¿Qué estás haciendo?
+<0059> ¡Ow!
+<0060> ¡¿Pero qué?!
+<0061> ¡Gyah!
+<0062> ¡Gyaah!
+<0063> ¡¡Eso duele!!
+<0064> ¡Guboh!
+<0065> Te mueves demasiado lento.
+<0066> Kukuku.
+<0067> Eso estuvo cerca.
+<0068> ¿Qué es lo que intentas hacer?
+<0069> Bueno, eso no estuvo tan mal.
+<0070> Diviértete arrastrándote por el suelo.
+<0071> Cobarde.
+<0072> Supongo que seguiré adelante.
+<0073> Qué desastre.
+<0074> Ugh, eres ridículamente fuerte.
+<0075> ¡Gyaaah!
+<0076> Ten un poco de piedad, demonios.
+<0077> ¡Tesoro!
+<0078> ¡Esto es genial, esto es genial!
+<0079> Acabo de conseguir una buena cantidad.
+<0080> ¡Ujijiji!
+<0081> ¡Vamos, eso no es justo!
+<0082> ¡Espera!!
+<0083> ¡Agyagyah!
+<0084> Eso es mío... ¡¡¡Nooo!!!
+<0085> ¡¿Cómo es que alguien como yo pueda caer en una trampa?!
+<0086> ¡¿Quién hizo esto?!
+<0087> Caer en una trampa es lo más desagradable del mundo.
+<0088> ¡Demonios! ¡Caí en una trampa!
+<0089> Hay algo sucio en el aire.
+<0090> Debo mantenerme alejada de esa cosa.
+<0091> No lo vi llegar.
+<0092> Así que ha llegado el jefe, ¿eh?
+<0093> Tesoro, por supuesto.
+<0094> Haré que todos los tesoros sean míos.
+<0095> Iré a conseguir un tesoro.
+<0096> No puedo esperar a encontrar tesoros ocultos por aquí.
+<0097> Bueno, tomaré todas las oportunidades para derrotar a todo aquél en mi camino.
+<0098> ¿Por quién debería empezar?
+<0099> Derribaré a todo aquél que se meta en mi camino.
+<0100> Supongo que seré un poco salvaje esta vez.
+<0101> El nombre es Arnelle. Es un placer conocerte.
+<0102> ¿Dices que quieres ir junto a mí?
+<0103> Bueno, trabajaré duro si es que me pagas bien.
+<0104> Así que quieres ser mi compañía, ¿eh?
+<0105> ¡Aquí comienza la búsqueda del tesoro!
+<0106> Vaya, vaya, ¿por dónde debería empezar?
+<0107> Vaya, estoy encantada.
+<0108> Estoy segura de que ganaré este juego.
+<0109> Bueno, eso fue divertido.
+<0110> ¡Mira todos estos tesoros!
+<0111> Y la ganadora es... ¡La gran Arnelle!
+<0112> Haré una fiesta esta noche.
+<0113> ¡Bien hecho! Esa fue una buena captura.
+<0114> Eh, ¿puedo quedarme con eso? ¿No?
+<0115> ¿Como deberíamos usar esta cosa?
+<0116> Ah, ese es uno bueno.
+<0121> Lo tengo.
+<0122> Eso me gusta.
+<0123> Claro.
+<0124> No.
+<0125> Eso es una pena.
+<0126> Fue suerte.
+<0127> ¿Pero qué...?
+<0128> Supongo que ha llegado la hora.
+<0129> ¡Ahí!
+<0130> Buena suerte.
+<0131> ¡Eh!
+<0132> Esto es... ¿Eh?
+<0133> Tienes habilidad.
+<0134> Vaya, estoy impresionada.
+<0135> Demonios...
+<0136> Permíteme usar esto.
+<0137> Mhm, esto parece ser interesante.
+<0138> Bueno, espero que suceda algo divertido.
+<0139> Fufufu... supongo que usaré esta.
+<0140> ¡¿Cómo es que acabas de quitarme mi tesoro de mis manos?!
+<0141> ¡¿Qué acabas de hacerme?! ¡No te lo perdonaré!
+<0142> ¡No! ¡Mi tesoro! ¡Maldición...!
+<0143> No puedo creer que mi tesoro haya sido robado...
+<0144> Debería haber mantenido la guardia.
+<0145> Ahora esto será mío.
+<0146> Kukuku, eres un blanco muy fácil.
+<0147> Eso vale demasiado para ti.
+<0148> Muy bien, podremos jugar por un rato.
+<0149> Maynie, debes mostrarme todo lo que tienes.
+<0150> Maynie, debes ser castigada.
+<0151> Jugar contigo de esta forma de vez en cuando no es tan malo.
+<0152> Está bien, te daré un poco de mi tiempo.
+<0153> Jugaré contigo por un minuto. Adelante.
+<0154> Ya, ya, vamos a jugar.
+<0155> ¿Eh? ¿Quieres jugar, Maynie?
+<0156> Un aliento por nosotras, el mejor equipo del mundo
+<0157> Juntas podemos cazar todo lo que queramos, Maynie.
+<0158> ¿Te estás alocando, Maynie?
+<0159> Todo es posible cuando tú y yo trabajamos juntas.
+

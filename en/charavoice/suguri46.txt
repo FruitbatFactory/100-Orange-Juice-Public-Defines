@@ -1,0 +1,160 @@
+<0000> Rolling...
+<0001> Okay, fine.
+<0002> Heeere.
+<0003> There...
+<0004> How do I use this thing, again?
+<0005> Is it okay to use this here? You sure?
+<0006> Well, I'll use this then...
+<0007> Maybe I should use this.
+<0008> Is it okay to put down stuff like this?
+<0009> Hmm, well, what will be, will be.
+<0010> I'll have to be careful not to fall for it myself.
+<0011> Hmm... Here, maybe?
+<0012> L-let me put this down here... Give me a sec.
+<0013> Oh, I should play this card now.
+<0014> Here's a battle card.
+<0015> This makes me more powerful.
+<0016> I'll show you my ultimate move... Wait, I forgot how to do it.
+<0017> I'm back...
+<0018> I guess I can do this a little more.
+<0019> Alright...
+<0020> Uu... I won't be knocked out next time...
+<0021> Whaaat.
+<0022> That was a bust...
+<0023> Patience is a virtue... so let's chill.
+<0024> Mmm, I'm not in shape.
+<0025> I'll attack you.
+<0026> Ey.
+<0027> There.
+<0028> Yah.
+<0029> Wah.
+<0030> Hey!
+<0031> Uwah!
+<0032> Uee.
+<0033> Healing.
+<0034> Ah, this feels nice.
+<0035> Phew, that was a good breather.
+<0036> Good, good.
+<0037> Wow, it's a warp.
+<0038> I'm having some vertigo...
+<0039> Mmm, I feel funny.
+<0040> Whoa.
+<0041> This is horrible.
+<0042> What, this is odd.
+<0043> Mhm!
+<0044> Down...
+<0045> L-let's fight fair and square.
+<0046> I hope my body's ready for fighting.
+<0047> I'd love a relaxed fight.
+<0048> I'm worried if I can fight well...
+<0049> I'm not ready for this.
+<0050> Whoa, hold on a sec.
+<0051> I just want to play a peaceful game...
+<0052> Geez, I'm not good at this...
+<0053> Like this?
+<0054> Tah.
+<0055> Ey.
+<0056> Yah.
+<0057> Wah!
+<0058> Gee.
+<0059> Uee!
+<0060> Wawawa!
+<0061> Gee, that's too violent.
+<0062> Mhm, this isn't very good.
+<0063> That's horrible.
+<0064> Cut it out, gee.
+<0065> Oh boy.
+<0066> Whoa, that was close.
+<0067> That's terrifying!
+<0068> Watch it! Watch it!
+<0069> *sigh* This was my first workout in a very long time...
+<0070> W-well, this is how it turned out, I guess.
+<0071> Boy, I almost got defeated.
+<0072> This makes me exhausted on the inside.
+<0073> I lost...
+<0074> I was so surprised I couldn't move at all...
+<0075> Kyuu.
+<0076> Come on, let's be peaceful.
+<0077> Something good happens when you have a bunch of these, right?
+<0078> Um, I'm not sure I can carry this much.
+<0079> Wow, that's a bunch of them.
+<0080> These stars are beautiful, too.
+<0081> Ugh, I dropped some...
+<0082> Muaah.
+<0083> Oh, no.
+<0084> What, that's unfair...
+<0085> Who put this down here?
+<0086> I stepped on a trap...
+<0087> Th-this isn't fair.
+<0088> Muahh, nooo.
+<0089> That looks like trouble.
+<0090> Wow, it's huge.
+<0091> Mhm, I don't like the vibe coming out of it.
+<0092> Do I have to fight that...?
+<0093> I want to do this.
+<0094> I think I'll go gather stars.
+<0095> We've got to gather a bunch of them.
+<0096> Let's work hard to get a bunch of stars.
+<0097> I need some exercise, don't I?
+<0098> Mhm, I used to fight a lot.
+<0099> I'll consider this as a bit harder workout...
+<0100> Okay, I'll do some fighting for the first time in ages.
+<0101> Are we going to play a game? Sure, why not?
+<0102> Um, I'm Suguri... I hope we'll have a good time.
+<0103> Well, um, me? Sure, let's have a good game.
+<0104> I think I'm being nervous. I wonder why.
+<0105> Okay, let's do this.
+<0106> It's just a game. No need to feel any pressure.
+<0107> Alright, let's get started.
+<0108> If I do this, I want to win.
+<0109> Oh, I won.
+<0110> Ehehe, thank you.
+<0111> Phew, it worked out somehow.
+<0112> Fufufu, I'm happy.
+<0113> What do you think of this? You like it?
+<0114> You didn't have that yet. Good for you.
+<0115> Let's hope we get something good.
+<0116> Ahaha, I'm happy for you.
+<0117> Mind switching?
+<0118> I think it's about time to switch.
+<0119> You take care of the rest.
+<0120> I'm counting on you.
+<0121> Okay.
+<0122> Wow, that's nice.
+<0123> Yeah.
+<0124> No.
+<0125> Hmm...
+<0126> Good for you.
+<0127> Hmm?
+<0128> Let's go, shall we?
+<0129> I'm going to roll the dice now.
+<0130> Let's go.
+<0131> Hello.
+<0132> Umm...
+<0133> Nice.
+<0134> Incredible...
+<0135> Gee...
+<0136> Can I use this?
+<0137> This isn't mine... I'm not sure I'm allowed to use it.
+<0138> Sorry, I should've asked for permission. I hope they aren't mad.
+<0139> Hmm... Is it okay to use this? I'm worried...
+<0140> Oh, Sumika...
+<0141> Fine, I'll deal with you here.
+<0142> You still have a long way to go, Sumika.
+<0143> Gee, you know I went easy on you, don't you?
+<0144> Y-you're me... right?
+<0145> The past me?
+<0146> I can't describe what I'm feeling now.
+<0147> I used to be that strong, huh.
+<0148> Huh, Navi?
+<0149> Navi, are you up to no good again?
+<0150> Don't even think about doing something crazy, okay?
+<0151> Muah.
+<0152> Are you girls... idols?
+<0153> Wow, you two are so cute.
+<0154> Your performance was really fantastic.
+<0155> You two were so bright...
+<0156> Uu... This kind of stuff takes long, doesn't it?
+<0157> This card... I think we should have it... How about this one...
+<0158> Mhm... It's fun working on stuff like this, but it's also hard...
+<0159> Well, this deck should do well... Hmm, but...

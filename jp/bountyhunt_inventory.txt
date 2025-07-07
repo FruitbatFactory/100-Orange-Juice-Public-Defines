@@ -1,0 +1,129 @@
+< INVENTORY_MEDICINALHERB >
+name=薬効ハーブ
+descr=回復効果のあるハーブ。宿屋店主が料理に使う。
+
+< INVENTORY_TURNISLIME >
+name=ターニスライム
+descr=ターニスライムの体の一部だったもの。宿屋店主がエリクサーを作るのに使う。
+
+< INVENTORY_CHILLINGWIND >
+name=寒風バッグ
+descr=とても寒い風が入っているカバン。気をつけて持たないと、一瞬で手が凍る。スカイベイカーがアイスクリームを作るのに使う。
+
+< INVENTORY_FLOUR >
+name=無限小麦粉
+descr=とにかくなくならない小麦粉が入った袋。どういう仕組みなのか…？　スカイベイカーがお菓子を作るのに使う。
+
+< INVENTORY_BROKENBLADE >
+name=壊れた剣
+descr=力尽きた者が残した使い古しの武器。鍛冶屋が切る道具を作るのに使う。
+
+< INVENTORY_TROLLITEHORN >
+name=トロライトの角
+descr=トロライトの体の一部だったもの。この角があるところには、必ず厄介事が起こるらしい。鍛冶屋が切る道具を作るのに使う。
+
+< INVENTORY_MISTYSAP >
+name=霧の森の樹液
+descr=とても甘い。宿屋店主がデザートを作るのに使う。
+
+< INVENTORY_CACTUS >
+name=サボテン
+descr=砂漠産のサボテン。少し水分を含んでいる。鍛冶屋が喉を潤すのに使う。
+
+< INVENTORY_GOST >
+name=ゴウスト
+descr=戦いに負けた、いたずら好きなオバケ。錬金術師が食べ物を作るのに使う。
+
+< INVENTORY_WOLLY >
+name=ウールゥミルク
+descr=ウールゥから取れた新鮮なミルク。スカイベイカーがパンを作るのに使う。
+
+< INVENTORY_BUCKET >
+name=空っぽのバケツ
+descr=いろんなものを入れて運べるバケツ。
+
+< INVENTORY_HEATGLOVES >
+name=耐熱手袋
+descr=高温の場所でも耐えられる手袋。
+
+< INVENTORY_GLOBBU >
+name=マグマー
+descr=マグマから生まれた、いたずらモンスター。人を燃やすのが好き。
+
+< INVENTORY_SANDALS >
+name=木のサンダル
+descr=よくあるサンダル。足を傷めずに速く走れるようになる。MOV+1。
+
+< INVENTORY_LEATHERBOOTS >
+name=レザーブーツ
+descr=有名革職人たちが製作した最新作。一般的なサンダルや靴とは一線画す高級品。MOV+1。クエストアイテムを持っていないとき、さらに+1。
+
+< INVENTORY_GALESHOES >
+name=疾風シューズ
+descr=強力な魔法で強化されており、履いていると疲れを感じなくなる。MOV+2。契約数が2以下の時、さらに+1。
+
+< INVENTORY_CURSEDSHOES >
+name=改良版疾風シューズ
+descr=MOV+4。ただし、1契約しか持てない。
+
+// Winter 2020 Event Special Item
+< INVENTORY_DELICACY >
+name=おいしいもの
+descr=クックが喜ぶおいしい食べ物。各ゲーム最大3個まで集められる。
+
+< INVENTORY_ATK1 >
+name=クッキー
+descr=2バトルの間ATK+1。類似効果を重ねることはできず、直近で付与された効果が優先される。
+
+< INVENTORY_ATK2 >
+name=マフィン
+descr=2バトルの間ATK+2。類似効果を重ねることはできず、直近で付与された効果が優先される。
+
+< INVENTORY_ATK3 >
+name=ペイストリー
+descr=2バトルの間ATK+3。類似効果を重ねることはできず、直近で付与された効果が優先される。
+
+
+< INVENTORY_DEF1 >
+name=キャンディー
+descr=2バトルの間DEF+1。類似効果を重ねることはできず、直近で付与された効果が優先される。
+
+< INVENTORY_DEF2 >
+name=Caramel
+descr=2バトルの間DEF+2。類似効果を重ねることはできず、直近で付与された効果が優先される。
+
+< INVENTORY_DEF3 >
+name=Chocolate
+descr=2バトルの間DEF+3。類似効果を重ねることはできず、直近で付与された効果が優先される。
+
+< INVENTORY_EVD1 >
+name=アイスクリーム
+descr=2バトルの間EVD+1。類似効果を重ねることはできず、直近で付与された効果が優先される。
+
+< INVENTORY_EVD2 >
+name=ソルベ
+descr=2バトルの間EVD+2。類似効果を重ねることはできず、直近で付与された効果が優先される。
+
+< INVENTORY_EVD3 >
+name=ジェラート
+descr=2バトルの間EVD+3。類似効果を重ねることはできず、直近で付与された効果が優先される。
+
+< INVENTORY_ASSASSINBADGE >
+name=暗殺者のバッジ
+descr=熟練暗殺者たちのギルドに所属することを示すバッジ。所持していると他のプレイヤーをターゲティングできる。
+
+< INVENTORY_ELIXIR >
+name=エリクサー
+descr=HPを全回復する。さらに、侵略者から付与された状態異常を回復し、所持している契約から呪いを取り除く。
+
+< INVENTORY_HARBINGERSHIELD >
+name=不屈の盾
+descr=先駆者を倒した証。装備すると勇気が高まり、バトルでの全ての被ダメージが-1。
+
+< INVENTORY_ROGUEBLADE >
+name=ローグのツインブレード
+descr=ロスト・ローグを倒した証。振るうとクリティカルヒット率が20%上がる。（クリティカルヒットは攻撃ダイスで出た目を倍にする）
+
+< INVENTORY_DARKCHOCOMOUSSE >
+name=ダークチョコレート・スター
+descr=ダークチョコレート・マゥスを倒した証。不思議な力と甘さが、バトルでの与ダメージ数×3のスターを与える。バトルの相手は被ダメージ×3のスターを失う。

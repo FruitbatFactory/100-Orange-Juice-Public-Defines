@@ -1,0 +1,163 @@
+
+<0000> Ey!
+<0001> Yah.
+<0002> There.
+<0003> Eey.
+<0004> I'll use this one!
+<0005> Maybe I should play this?
+<0006> Okay then, I'll use this one.
+<0007> I'm going to use a card.
+<0008> A trap?
+<0009> Hmm, maybe I should just put this down here?
+<0010> I'll set this down here.
+<0011> This goes here...
+<0012> Battle card.
+<0013> I guess I'll play this.
+<0014> Fufu, isn't this fun?
+<0015> Be careful. I'm about to use a battle card.
+<0016> I'm going to cook so much.
+<0017> Hmm... Is it time to get up?
+<0018> *Yawn* I slept tight.
+<0019> I think I'm still sleepy...
+<0020> Time to rise and shine.
+<0021> Can I sleep in a little more...?
+<0022> *Zzz, Zzz*
+<0023> Hmm...
+<0024> I can sleep more...
+<0025> Ey ey!
+<0026> I'm attacking you.
+<0027> Yah.
+<0028> Toh!
+<0029> Ow.
+<0030> Oww.
+<0031> Owww?
+<0032> Fah?
+<0033> That feels good.
+<0034> That's warm.
+<0035> I'm feeling great.
+<0036> Healed!
+<0037> Warp?
+<0038> Wah, where am I going?
+<0039> Oooh nooo.
+<0040> Waah.
+<0041> Can I take a little nap here?
+<0042> *Zzz*
+<0043> I love my futon.
+<0044> Munyaah.
+<0045> Why don't you play with me?
+<0046> Fufufu, let's do a little workout.
+<0047> We're going to play a lot, okay?
+<0048> Ufufu, what do we want to do for fun?
+<0049> Hmm? Do you want to play with me?
+<0050> Sure, let's play together.
+<0051> Waah, you look full of energy.
+<0052> Fufufu, that sounds like fun.
+<0053> *Stab*
+<0054> Toh!
+<0055> Don't get hurt, okay?
+<0056> Tah!
+<0057> Wah!
+<0058> Uu?
+<0059> Fue!
+<0060> Fuwah!
+<0061> Fuwawah!
+<0062> That was incredible.
+<0063> Waah.
+<0064> Just incredible.
+<0065> Oh?
+<0066> Maybe I should move over here?
+<0067> Oh my, I dodged that.
+<0068> Ufufu.
+<0069> Phew, it was fun.
+<0070> Play with me again.
+<0071> That was a good workout.
+<0072> Ehehe.
+<0073> Incredibly strong...
+<0074> Very impressive.
+<0075> Wah, I lost.
+<0076> You win.
+<0077> Wah, that's pretty.
+<0078> Look at how shiny these are.
+<0079> Is it okay to have them?
+<0080> I'm happy.
+<0081> I dropped some...
+<0082> No, my stars...
+<0083> Oh my goodness...
+<0084> My stars are gone...?
+<0085> What's this?
+<0086> Wah, that scared me.
+<0087> Wawawah.
+<0088> Well I'll be.
+<0089> Waah, you're very big.
+<0090> Look at how huge you are.
+<0091> Wah, things are getting excited.
+<0092> Fufufu, I feel like this is going to be fun.
+<0093> I think I'd like to get some stars.
+<0094> Well... I choose stars.
+<0095> I hope to get a lot of them.
+<0096> A sight of countless stars would be very beautiful.
+<0097> I want to play with everyone.
+<0098> I'm going to play so much.
+<0099> I think I'll pick this.
+<0100> I guess I'll do a little workout.
+<0101> Hi there, I'm Natsumi.
+<0102> Okay, let's play, shall we?
+<0103> Ehehe, I'm glad you picked me.
+<0104> Me? Sure, why not?
+<0105> Did it start?
+<0106> Fufufu, I can't wait to have fun.
+<0107> Game start!
+<0108> Hum hu hum.
+<0109> Wah, did I win?
+<0110> Thanks, everyone. I had so much fun.
+<0111> Fufufu, we all should play together again.
+<0112> All right, I'll make a special dinner tonight.
+<0113> Wah, it looks like you've got a good one.
+<0114> Did you... want this?
+<0115> Fufufu, here you go.
+<0116> Are you that glad to get a new thing?
+<0117> Do you mind switching?
+<0118> Wah, thank you.
+<0119> I'm counting on you.
+<0120> Okay, let's switch places now.
+<0121> Okay.
+<0122> Yeah, that's good.
+<0123> Sure.
+<0124> I'm sorry.
+<0125> Oh no.
+<0126> Fufufu, you're lucky.
+<0127> Oh my?
+<0128> Let's go!
+<0129> It's dice time.
+<0130> Shall we go?
+<0131> Hello.
+<0132> Oh my goodness?
+<0133> That's wonderful.
+<0134> That's awesome!
+<0135> Wah... What do I do?
+<0136> Wah, is it okay to use this?
+<0137> How do I use this?
+<0138> I'm going to borrow this for a bit.
+<0139> This card is incredible.
+<0140> Thank you.
+<0141> Q, let's play.
+<0142> Oh, you want me to play with you?
+<0143> Oh Q, are you sleepy?
+<0144> You're so strong, Q.
+<0145> Yuki, you mustn't play too many pranks, okay?
+<0146> Fufufu, I don't mind playing with you.
+<0147> Fufufu, I'll put you in charge of doing the dishes today.
+<0148> Oh geez, Yuki.
+<0149> Mei, you want to join my game?
+<0150> Mei, hiya.
+<0151> Fufu, I win, Mei.
+<0152> You win, Mei. That's incredible.
+<0153> Let me take a nap with you...
+<0154> Tea time? Would you like me to get us some sweets?
+<0155> Why don't we make some sweets?
+<0156> You want to cook something with me?
+<0157> Fufufu, make me something delicious, okay?
+<0158> All right, I'll give you a feast tonight.
+<0159> Ufufu, everyone looks like they're having fun.
+<0160> Hmmm! La lah!
+<0161> It's time for dinner!

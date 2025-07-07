@@ -1,0 +1,132 @@
+
+< GAME_SYSTEM_ROLLTOREVIVE >
+или выше\nдля возрождения!
+
+< GAME_SYSTEM_ROLL_MULTIPLE >
+Бростье\n%d куб!
+
+< GAME_SYSTEM_WINNERSCREEN_STARS >
+Звёзды
+
+< GAME_SYSTEM_WINNERSCREEN_WINS >
+Победы
+
+< GAME_SYSTEM_WINNERSCREEN_FAME >
+Слава
+
+// The following HUD text will require a size smaller or (more or less) equivalent to the english counterpart! Use abbreviations if needed
+// Level (current norma.)
+< GAME_SYSTEM_HUD_LVL >
+УР
+
+< GAME_SYSTEM_HUD_HP >
+ОЗ
+
+< GAME_SYSTEM_HUD_NORMA >
+Норма
+
+< GAME_SYSTEM_HUD_NORMA_MAX >
+МАКС!
+
+< GAME_SYSTEM_HUD_CARDEFFECTS >
+Эффекты карт
+
+< GAME_SYSTEM_HUD_CARDEFFECTS_STACKS >
+Заряды
+
+< GAME_SYSTEM_HUD_CARDEFFECTS_DURATION >
+Ходов
+
+< GAME_SYSTEM_SHOP_LEVEL >
+УРОВЕНЬ %d
+
+< GAME_SYSTEM_SHOP_NO_BONUS >
+Бонусы не разблокированы.
+
+// %% is normal here.
+< GAME_SYSTEM_SHOP_BONUS_1 >
+Дополнительный %d %% шанс появится SSR предметам.
+
+// %% is normal here.
+< GAME_SYSTEM_SHOP_BONUS_2 >
+%d %% снижение цены после пересчёта.
+
+< GAME_SYSTEM_SHOP_BONUS_3 >
+Дополнительные %d Звезды будут получены при продаже карты.
+
+< GAME_SYSTEM_SHOP_BONUS_4 >
+Может иметься в наличии дополнительное количество предметов.
+
+< GAME_SYSTEM_SHOP_BONUS_5 >
+Доставка предметов принесёт дополнительные %d Звёзд при выполнении квеста.
+
+< GAME_SYSTEM_SHOP_BONUS_6 >
+Может иметься в наличии до двух дополнительных предметов.\n- На поле может появится дополнительный магазин данного типа.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_1_NAME >
+Искусство меча
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_1_DESC >
+Постоянная прибавка +1 АТК
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_2_NAME >
+Искусство Щита
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_2_DESC >
+Навсегда получите +1 ЗЩТ.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_3_NAME >
+Искусство Уклонения
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_3_DESC >
+Навсегда получите +1 УВРТ.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_4_NAME >
+Решительный
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_4_DESC >
+Навсегда получите -1 REC.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_5_NAME >
+Стимуляция
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_5_DESC >
+Навсегда получите  +1 максимального HP. После выбора вы будете полностью исцелены.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_6_NAME >
+Носитель
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_6_DESC >
+Навсегда получите +1 размера руки и +1 размера руки контрактов.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_7_NAME >
+Премиальное Членство
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_7_DESC >
+Все цены в магазинах (кроме Сомнительного торговца) будут уменьшены на 30% после всех расчетов.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_8_NAME >
+Бегун
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_8_DESC >
+После того как вы закончите ваш ход движением, получите +1 передвижение на ваш следующий ход.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_9_NAME >
+Обильный Урожай
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_9_DESC >
+Сразу получите 100 звезд, получите возможность получать звёзды по завершении Охоты.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_10_NAME >
+Оборона Дома
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_10_DESC >
+Твоя клетка дома наносит 2 урона другим игрокам, если они остановятся в нём.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_11_NAME >
+Командир
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_11_DESC >
+Дружественные призванные существа навсегда получают +2 к максимальному здоровью, пока они остаются полностью контролируемыми. Если на поле боя находится дружественный призванный персонаж, он будет полностью исцелен при выборе этого улучшения. Дружественные призванные существа также смогут выполнять поручения.
+
+[EOF]

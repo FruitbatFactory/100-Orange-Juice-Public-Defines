@@ -1,0 +1,169 @@
+
+<0000> There!
+<0001> There we go!
+<0002> Nuooh!
+<0003> This thing's quite heavy...
+<0004> I choose this card!
+<0005> Here I go!
+<0006> Ushishi...
+<0007> Magical!
+<0008> Magical Trap!
+<0009> It's twap time!
+<0010> Uhihihihi!
+<0011> Let's see what will happen.
+<0012> Ima crush ya down!
+<0013> Now phear my powers!
+<0014> Magical Power!
+<0015> Grow up, you say? Thanks for the compliment!
+<0016> Talk about desperation!
+<0017> I'm baaaack!
+<0018> It's magical revenge time!
+<0019> I'm not going down yet!
+<0020> Uooooh! I'm getting up!
+<0021> Noooo!
+<0022> Dammit!
+<0023> Goddammit!
+<0024> No way!
+<0025> Magical Attack!
+<0026> Here comes pain for ya!
+<0027> Uryaryaah!
+<0028> Hiyaah!
+<0029> Oww!
+<0030> That friggin' hurt!
+<0031> Quit it!
+<0032> Ugyaah!
+<0033> Magical Heal!
+<0034> Howah, my skin's all aglow!
+<0035> Oh boy, magical power is welling up inside me.
+<0036> I think I can go on!
+<0037> Magical Warp!
+<0038> It's warp time!
+<0039> Teleportation!
+<0040> I'm going to fly over!
+<0041> Guaaaah...
+<0042> Upoaaah...
+<0043> Ginyaaah!!
+<0044> Ajapaaah...
+<0045> Let me teach you a lesson!
+<0046> You are in for a lot of pain!
+<0047> I suggest you surrender before I make you cry!
+<0048> Magical Battle!
+<0049> Oh, ya coming at me? Ya coming at me?
+<0050> Come find out what I'm actually made of!
+<0051> Challenge accepted!
+<0052> Huh? You sure you wanna do this?
+<0053> Hoatah!
+<0054> Achooh!
+<0055> Deeyaah!
+<0056> Uririiii!
+<0057> Gyaaah!
+<0058> Hey, that hurts!
+<0059> Ugh, that was a pretty good one...!
+<0060> Gobaah!
+<0061> Ugyaaah!
+<0062> That freaking hurts!
+<0063> C'mon, don't go overboard, please!
+<0064> Goff!
+<0065> Splendidly.
+<0066> Softly.
+<0067> Dancing like a butterfly.
+<0068> That won't touch me!
+<0069> Heeya-hooo!
+<0070> You really think you'd beat me?
+<0071> Winning!
+<0072> Magical Victory!
+<0073> D-d-d-defeateeeed!
+<0074> Kyuuu...
+<0075> You will not... get away with this..
+<0076> Nyaah...
+<0077> Stars!
+<0078> Gimme more of 'em!
+<0079> I'm taking all of these!
+<0080> I've never been happier!
+<0081> My wageeees!
+<0082> Aaaaaaaah!
+<0083> Oh no!!
+<0084> Wait up, my staaaars!
+<0085> Au! Who the hell set a trap here!?
+<0086> What? A trap?
+<0087> Sneaky!
+<0088> Fueeee! A trap? ...You gotta be kidding me!?
+<0089> Here comes a boss!
+<0090> It's boss time. Who will it be?
+<0091> Fufufu, fear the boss!
+<0092> We got one hell of a giant here!
+<0093> Stars, what else?
+<0094> I'll be a star collector!
+<0095> I'm getting a hella lot of stars!
+<0096> Stars, stars, and stars!
+<0097> I'm gonna kick everybody's ass!
+<0098> I'll show y'all my Magical Massacre!
+<0099> Be afraid of my powers!
+<0100> Fuhaha! Y'all are gonna experience the overwhelming violence of a magical girl!
+<0101> It's Tomomo. What's up?
+<0102> Let's have some fun.
+<0103> Alright, it's time to show those people what I've got...!
+<0104> Fufufu, time to put the fear of god in people!
+<0105> Okay then, here we go!
+<0106> I'm so ready to work today!
+<0107> Here I go!
+<0108> Yahooo! The game is on!
+<0109> Well, just the logical conclusion, right?
+<0110> Hooray! I won! I won!
+<0111> Kuhihi, hell yeah!
+<0112> Victory's mine! Uoooh!
+<0113> Got something new!
+<0114> It's a new Magical Item!
+<0115> Great, I got some nice stuff.
+<0116> My luck brought this to me!
+<0117> Alright, time to switch!
+<0118> You take over from here, okay?
+<0119> It's all yours now.
+<0120> Good luck out there!
+<0121> Okay.
+<0122> Good, very good.
+<0123> Yeah!
+<0124> No!
+<0125> Dang!
+<0126> Good job!
+<0127> Hmm?
+<0128> Let's go!
+<0129> Time to roll the dice!
+<0130> Go!
+<0131> Yahoo!
+<0132> Umm?
+<0133> You're good!
+<0134> That was superb!
+<0135> Seriously...
+<0136> I'm using this hyper!
+<0137> This is mine now!
+<0138> Let's see what this does!
+<0139> I'm gonna borrow your power!
+<0140> Thaaanks.
+<0141> Holy crap, it's the crazy girl...
+<0142> Boy, she's kinda scaring the hell out of me!
+<0143> Phew... I broke a cold sweat...
+<0144> Ugh, please don't go way too far...
+<0145> A battle between two Sweet Gods! I won't lose!
+<0146> This is going to be divine!
+<0147> Sweet Eater's the winner!
+<0148> As a god, your position's better than mine, after all...
+<0149> Sweet Maker, we'll fight, you and I!
+<0150> Something smells super sweet... Is that you, Sweet Maker?!
+<0151> Fufufu, I win. You're going to make pudding for me later!
+<0152> Fuaah... Fighting you makes me so hungry...
+<0153> Show me your power to protect!
+<0154> You turned into Sweet Guardian, Q-chan!
+<0155> Q-chan, is that all you've got?
+<0156> You only just became a god. You still have a long way to go.
+<0157> Wow, she's too stunning! I kinda want that to be me...
+<0158> This is my super all-out mode!
+<0159> Poppo, out of my way!
+<0160> Can't believe you're rebelling against me, Poppo...
+<0161> Don't you ever think about rebelling again, okay?
+<0162> Against Poppo... this can't be true...
+<0163> Poppo...?
+<0164> You bastard! Say your prayers!
+<0165> Ugh, here comes big trouble...!
+<0166> Phew, how dare you give me a hard time!
+<0167> She's the last person I want to beat me...

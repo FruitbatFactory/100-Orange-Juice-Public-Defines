@@ -1,0 +1,161 @@
+
+<0000> ¡Ahí!
+<0001> ¡Tah!
+<0002> ¡Dados!
+<0003> ¡Cuento contigo!
+<0004> Usaré una carta.
+<0005> ¡Prepárate!
+<0006> Veamos si esto dará en el blanco o no.
+<0007> ¡Muy bien, es hora de la acción!
+<0008> ¿Qué piensas que acabo de dejar aquí?
+<0009> ¡Ja! ¡Aquí tienes una trampa!
+<0010> Veamos quién será tan tonto como para caer en esto.
+<0011> Trampa colocada.
+<0012> Me daré un pequeño impulso.
+<0013> Es el momento de usar esto.
+<0014> ¡Carta de batalla!
+<0015> Te acabaré.
+<0016> ¡Salto!
+<0017> No me siento bien acerca de esto. Oh bueno, seguiré adelante.
+<0018> Ya me harté de estar aquí.
+<0019> Ah, demonios, estoy atrás de los demás.
+<0020> Supongo que trabajaré un poco más.
+<0021> Creo que necesito un pequeño descanso.
+<0022> La vida no es fácil.
+<0023> ¿Qué es lo que pasa conmigo...?
+<0024> ¡Mierda!
+<0025> ¡Ta-ta-ta!
+<0026> ¡Ahí!
+<0027> ¡Será mejor que pares de distraerte!
+<0028> ¡Eres mi juego!
+<0029> Eso duele bastante.
+<0030> Rayos, nos dieron.
+<0031> ¡Peleas bien!
+<0032> Au.
+<0033> Muchas gracias.
+<0034> Parece que tengo más trabajo que hacer.
+<0035> Muy bien, todo listo para causar más problemas.
+<0036> ¡Wow, todo se siente mucho mejor ahora!
+<0037> ¡Estoy desapareciendo!
+<0038> Vaya, ¿qué es esto?
+<0039> Oh, vaya.
+<0040> ¡Hiee!
+<0041> ¡Eso fue un fracaso...!
+<0042> Eres muy bueno...
+<0043> Ah, esto es malo.
+<0044> Hombre, esto nos hace ver tan mal...
+<0045> ¡Te confundiremos!
+<0046> ¡Ahora, a la batalla!
+<0047> ¿Todo listo?
+<0048> Impresiónanos.
+<0049> Oh, ¿quieres pelear?
+<0050> Bien, nos entretendrás, ¿está bien?
+<0051> ¿Vienes hacia nosotros?
+<0052> ¿Una batalla? ¡Claro, adelante!
+<0053> ¡Te cortaremos!
+<0054> Perdón si te lastimamos.
+<0055> ¡Técnica Iai!
+<0056> ¡Estás en nuestro rango de ataque!
+<0057> Gah.
+<0058> Kuh.
+<0059> Bien hecho.
+<0060> ¡Dios, eso dolió!
+<0061> No es para nada gracioso.
+<0062> ¡Sentimos tanto dolor!
+<0063> ¡Bastardo!
+<0064> ¡Guaah!
+<0065> ¡Lento como tortuga!
+<0066> No es lo suficientemente bueno.
+<0067> ¡Utsusemi!
+<0068> ¡Bola de humo!
+<0069> En el clavo.
+<0070> No estuvo mal.
+<0071> Puedes arrastrarte por ahí.
+<0072> Disfruta de tu siesta.
+<0073> ¡Mierda!
+<0074> Nos equivocamos.
+<0075> Me impresionas.
+<0076> Eres fuerte.
+<0077> ¿Es eso un tesoro?
+<0078> Eso es todo mío.
+<0079> Tienes que conseguir muchas de estas, ¿no?
+<0080> Je-je, tengo suerte.
+<0081> ¡Eh, espera!
+<0082> ¿En serio?
+<0083> ¿¡Aw, pero qué demonios!?
+<0084> ¡Aw, vamos!
+<0085> ¡Ugh, muy listo!
+<0086> ¡¿De quién es esta trampa?!
+<0087> Me siento tan inútil.
+<0088> ¡¿Una trampa?!
+<0089> Estamos llevando una buena vibra.
+<0090> Y hablando de sangre congelándose dentro de tus venas.
+<0091> ¡Un jefe apareció! Esto será interesante.
+<0092> Parece ser un oponente muy duro.
+<0093> Una misión de recolección, ¿verdad?
+<0094> Bueno, iré a juntar muchos de estos en poco tiempo.
+<0095> Con mi velocidad, no me tomará nada de tiempo.
+<0096> Te mostraré una montaña llena de estas cosas.
+<0097> Todo lo que tengo que hacer es derribarlos a todos, ¿verdad?
+<0098> Eso que llaman un ataque furtivo... ¿Será eso lo que tengo que hacer?
+<0099> Soy una persona deportiva, después de todo.
+<0100> ¡Nin nin!
+<0101> ¡Somos Mira!
+<0102> ¿Quieres pasar el rato conmigo? Claro, ¿por qué no?
+<0103> ¿Por qué no te unes y matamos el tiempo por un rato?
+<0104> ¿Quieres ir a algún lado conmigo?
+<0105> ¡Hagámoslo!
+<0106> Yo seré la persona que brillará más que todas.
+<0107> Ah, ellos son mis oponentes ahora, ¿eh?
+<0108> Bueno, haré que esto funcione de alguna forma.
+<0109> Somos así de buenos.
+<0110> Esto fue divertido.
+<0111> ¡Muy bien, celebremos nuestra victoria! ¡Todos a comer y beber!
+<0112> ¡Todos ustedes me deben algo bueno!
+<0113> ¿Oh? ¿Es esa una herramienta ninja? ¿No?
+<0114> ¿Obtuviste lo que querías? Bueno, bien por ti.
+<0115> Te ves bien. ¿Cuánta emoción tienes ahora mismo?
+<0116> Usemos esa cosa para ganar varias partidas.
+<0117> Muy bien, ya puedes salir.
+<0118> ¡Hora de cambiar! No vayas a quedarte atrás, ¿sí?
+<0119> Tú puedes tomarlo desde aquí. Cuento contigo.
+<0120> Body replacement technique!
+<0121> Okay.
+<0122> Supongo que eso es bueno.
+<0123> Sí.
+<0124> Nop.
+<0125> ¿Qué acabas de decir?
+<0126> Eso es un golpe de suerte.
+<0127> ¿Hmm?
+<0128> Vamos.
+<0129> ¿Qué número debería tener?
+<0130> Adelante.
+<0131> ¿Cómo estás?
+<0132> Ah...
+<0133> Genial, lo hiciste muy bien.
+<0134> ¡Fantástico! Y eso que raramente doy cumplidos.
+<0135> Yo no haría eso.
+<0136> ¡Incluso puedo usar herramientas con las que no tengo experiencia!
+<0137> ¡No sé cómo funciona esto, pero lo usaré de todas formas!
+<0138> Esto puede ser bueno o malo.
+<0139> ¡Ya nada me importa! ¡Aquí voy!
+<0140> ¡Eh, bajita! Juguemos.
+<0141> ¡Oh, bajita! Parece que estás bien.
+<0142> ¡Una niña como tú no puede vencernos!
+<0143> Oww, esos bits que tienes son una gran molestia.
+<0144> ¡Oh! ¡Ese avión se ve genial!
+<0145> Wow, un avión azul, eh... ¡Eso es asombroso!
+<0146> Permíteme volar en tu pájaro más tarde.
+<0147> Tu avión es tan lindo y fuerte... ¡Perfección pura!
+<0148> La forma en la que te ves... ¿Acaso no eres una de esas chicas mágicas?
+<0149> Una chica mágica... Esta es nuestra primera vez viendo una.
+<0150> Bueno, el ser una chica mágica no quiere decir que puedas derrotar a un héroe.
+<0151> Ugh, así que este es el poder de una chica mágica...
+<0152> Oh, mira que ardiente se ve.
+<0153> ¿¡Qué, está literalmente en llamas...!?
+<0154> ¡Vaya, esa batalla que tuvimos fue muy intensa!
+<0155> Está prácticamente irradiando calor... No puedo vencerla.
+<0156> Estoy marcando este punto.
+<0157> Esto es por el bien de mi jutsu.
+<0158> Te mostraré mi último recurso.
+<0159> Tendrás mucha confusión.

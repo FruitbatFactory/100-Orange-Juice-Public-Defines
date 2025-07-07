@@ -1,0 +1,240 @@
+
+< FREEBATTLE_CREATELOBBY >
+캠페인 모드
+
+< FREEBATTLE_JOINLOBBY >
+로비에 참가한다
+
+< FREEBATTLE_SINGLEPLAYER >
+프리 플레이
+
+< FREEBATTLE_RETURN >
+뒤로
+
+< LOBBYLIST_RETRIEVINGLOBBIES >
+로비를 받는 중입니다. 기다려주세요...
+
+< LOBBYLIST_RETRIEVINGDATA >
+로비 데이터를 받는 중입니다...
+
+< LOBBYLIST_DATATIMEOUT >
+로비 데이터가 만료되었습니다.
+
+< LOBBY_NOSTEAM >
+스팀에 접속할 수 없습니다.
+
+< LOBBY_CREATING >
+스팀 로비를 생성하고 있습니다...
+
+< LOBBY_CREATEFAILED >
+스팀 로비를 생성할 수 없습니다.
+
+< LOBBY_CONNECTING >
+로비에 연결하고 있습니다. 기다려주세요...
+
+< LOBBY_CONNECTED >
+로비에 연결했습니다.
+
+< LOBBY_CONNECTFAILED >
+로비에 연결할 수 없습니다.
+
+< LOBBY_NORESPONSE >
+응답이 없습니다.
+
+< LOBBY_GAMEABORTED >
+게임이 중단되었습니다.
+
+< LOBBY_JOINRESPONSE >
+서버 응답을 기다리는 중입니다...
+
+< LOBBY_JOINFAILED >
+게임에 참가할 수 없습니다.
+
+< LOBBY_FULL >
+이 로비는 가득 찼습니다.
+
+< LOBBY_STEAMID_EXISTS >
+이 스팀 ID는 이미 사용 중입니다.
+
+< LOBBY_WRONGPASSWORD >
+패스워드가 틀렸습니다.
+
+< LOBBY_BANNEDFROMLOBBY >
+이 로비에서 추방당한 상태입니다.
+
+< LOBBY_VERSIONDIFFERENCE >
+로비 버전이 호환되지 않습니다.
+
+< LOBBY_VERSIONUPDATE >
+최신 버전으로 업데이트해주세요.
+
+< LOBBY_HOSTHASOLDVERSION >
+이 로비는 구버전을 쓰고 있습니다.
+
+< LOBBY_LEAVECONFIRM >
+로비에서 나가겠습니까?
+
+< LOBBY_LEAVEWAIT >
+나가는 중입니다. 기다려주세요...
+
+< LOBBY_PLAYERLEFT >
+플레이어가 게임에서 나갔습니다.
+
+< LOBBY_KICKCONFIRM >
+정말로 이 플레이어를 추방하겠습니까?
+
+< LOBBY_KICKED >
+로비에서 추방되었습니다.
+
+< LOBBY_PLAYERCONNECTIONLOST >
+플레이어와 연결이 두절되었습니다.
+
+< LOBBY_HOSTCONNECTIONLOST >
+호스트와 연결이 두절되었습니다.
+
+< LOBBY_REMOVEDFORIDLING >
+잠수로 인해 게임에서 제외되었습니다.
+
+< LOBBY_CHANGING_OWNER >
+로비 오너를 변경하고 있습니다...
+
+< LOBBY_REPLACINGPLAYER >
+CPU 플레이어로 대체 중입니다.
+
+< LOBBY_SPECTATOR_CONNECTING >
+관전자가 접속하고 있습니다...
+
+// Prefix: Spectator's name. 
+< LOBBY_SPECTATOR_JOINREQUEST >
+이(가) 참가를 원합니다...
+
+< LOBBY_SPECTATOR_JOINREQUESTING >
+참가 허가를 요청하고 있습니다...
+
+< LOBBY_SPECTATOR_JOINDENIED >
+참가를 거부받았습니다.
+
+< LOBBY_SPECTATOR_JOINNOPLAYERSLOTS >
+빈 자리가 없습니다.
+
+// LOBBY_SPECTATOR_JOIN + name + LOBBY_SPECTATOR_JOIN2
+// Spectator TohoTaku wants to join as player.
+< LOBBY_SPECTATOR_JOIN1 >
+관전자
+
+< LOBBY_SPECTATOR_JOIN2 >
+이(가) 플레이어로 참가를 원합니다.
+
+< LOBBY_PLAYERTOSPECTATOR_CONFIRM >
+관전자가 되겠습니까?
+
+< LOBBY_SPECTATORTOPLAYER_CONFIRM >
+플레이어가 되겠습니까?
+
+< CHAT_TYPEPROMPT >
+<메세지를 입력한 뒤 엔터를 누르세요.>
+
+< CHAT_CONTROLLERTYPEPROMPT_1 >
+<인게임 키보드를 열어 타자를 치려면 
+
+< CHAT_CONTROLLERTYPEPROMPT_2 >
+버튼을 누르세요.>
+
+// 10 characters max.
+< CHAT_NAME_SYSTEM >
+시스템
+
+// 10 characters max.
+< CHAT_NAME_EMPTY >
+<공백>
+
+< CHAT_NAME_DASHES >
+--------
+
+< CHAT_MUTE_SELF_ERROR >
+자신을 차단할 수 없습니다.
+
+< CHAT_MUTED_USER > 
+%s을(를) 차단했습니다.
+
+< CHAT_UNMUTED_USER > 
+%s을(를) 차단 해제했습니다.
+
+< CHAT_SYSTEM_LOBBYCREATED >
+로비 %s이(가) 생성되었습니다!
+
+< CHAT_SYSTEM_LOBBYJOINED >
+로비 %s에 입장했습니다!
+
+< CHAT_SYSTEM_PLAYERJOINEDLOBBY >
+%s이(가) 로비에 입장했습니다!
+
+< CHAT_SYSTEM_GAMEENDED >
+게임이 끝났습니다! 로비로 돌아갑니다.
+
+< CHAT_SYSTEM_REQUESTEDPLAYERSLOT >
+호스트에게 플레이어 슬롯을 요청했습니다...
+
+< CHAT_SYSTEM_REQUESTEDSPECTATORSLOT >
+호스트에게 관전자 슬롯을 요청했습니다...
+
+< CHAT_SYSTEM_PLAYERSLOTREQUESTTIMEOUT >
+플레이어 슬롯 요청 타임아웃.
+
+< CHAT_SYSTEM_SPECTATORSLOTREQUESTTIMEOUT >
+관전자 슬롯 요청 타임아웃.
+
+< CHAT_SYSTEM_PLAYERTAKEOVER >
+%s이(가) 플레이어 %d의 자리를 차지합니다.
+
+< CHAT_SYSTEM_SWITCHEDTOPLAYER >
+플레이어로 전환했습니다!
+
+< CHAT_SYSTEM_SWITCHEDTOSPECTATOR >
+관전자로 전환했습니다!
+
+< CHAT_SYSTEM_PLAYERSWITCHEDTOSPECTATOR >
+%s이(가) 플레이어에서 관전자로 전환했습니다.
+
+< CHAT_SYSTEM_SPECTATORSWITCHEDTOPLAYER >
+%s이(가) 관전자에서 플레이어로 전환했습니다.
+
+< CHAT_SYSTEM_PLAYERHASLEFTGAME >
+%s이(가) 게임을 떠났습니다.
+
+< CHAT_SYSTEM_LOSTCONNECTIONTOPLAYER >
+%s의 연결이 끊겼습니다.
+
+< CHAT_SYSTEM_CHEATDETECTED_CLIENT >
+%s이(가) 치트로 부적절한 카드 사용을 시도했습니다.
+
+< CHAT_SYSTEM_CHEATDETECTED_HOST >
+%s이(가) 치트로 부적절한 카드 사용을 시도하여 추방되었습니다.
+
+
+// Invite = game invitation
+< GAMEINVITE_PENDING_TITLE >
+응답 대기중인 초대
+
+< GAMEINVITE_JOIN_TOOLTIP >
+게임에 입장하려면 메인 메뉴로 가세요.
+
+// Game speed: <nb>
+< GAMEINVITE_NORMAL_MODE_DETAILS >
+속도: %d
+
+// Game speed: <nb>, <boss name>, <boss difficulty>
+< GAMEINVITE_COOP_MODE_DETAILS >
+속도: %d, %s, %s
+
+< LOBBY_QUICKJOIN_TOOLTIP >
+빠른 참여를 합니다.
+
+< PLAYERPLATE_STEAMLEVEL >
+레벨 %d
+
+< PLAYERPLATE_STEAMWINS >
+%d승
+
+[EOF]
+

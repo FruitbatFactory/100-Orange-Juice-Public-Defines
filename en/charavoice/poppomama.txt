@@ -1,0 +1,162 @@
+<0000> Po.
+<0001> Poppo.
+<0002> Poppopo.
+<0003> Poppooh.
+<0004> Time to po-lay a card.
+<0005> Here.
+<0006> About time to make a move.
+<0007> Here poes.
+<0008> Trap here.
+<0009> Mother's putting something down here.
+<0010> Fufu.
+<0011> This here looks like a good po-lace for a trap.
+<0012> You won't leave in one piece.
+<0013> You can't expect any mercy from Mother.
+<0014> This is going to be rough.
+<0015> Let's see if you can make it through this.
+<0016> Mother will keep standing no matter what happens. 
+<0017> That was a good rest.
+<0018> An occasional po-reak is great.
+<0019> Resting is done.
+<0020> Mother feels refreshed.
+<0021> Can Mother extend her po-reak?
+<0022> Poh dear...
+<0023> This is going to affect my po-lans.
+<0024> *Yawn* This means Mother gets to rest a little longer.
+<0025> Mother's going on the poffensive.
+<0026> Mother'll unleash her fists now.
+<0027> Here's Mother's love for you.
+<0028> Take Mother's attack.
+<0029> That hurts.
+<0030> How could you?
+<0031> Ugh.
+<0032> Goodness.
+<0033> Talk about healing.
+<0034> Mother heals herself whenever she can.
+<0035> Mother can't afford to po down here.
+<0036> Mother feels alive again.
+<0037> Between time and space...
+<0038> Mother simultaneously exists and does not exist.
+<0039> Mother is the universe.
+<0040> As far as this can take Mother...
+<0041> Oh no...
+<0042> Mother's feet are not working.
+<0043> Maybe Mother's done for.
+<0044> Mother doesn't have time to be lying down.
+<0045> Mother's being very aggressive.
+<0046> Mother sometimes chooses violence...
+<0047> Mother'll present her power to you...
+<0048> No one can get in Mother's way.
+<0049> Violence is a no-po.
+<0050> Poh dear, your eyes look terrifying.
+<0051> Are you sure you have to do this?
+<0052> Are you willing to fight Mother?
+<0053> A grown-up shouldn't po all out.
+<0054> Here's a sharp jab for you.
+<0055> Sometimes pain teaches you a lesson.
+<0056> This is love.
+<0057> Mother felt that one.
+<0058> Fufu, that's adorable.
+<0059> That was a good one.
+<0060> Popo!
+<0061> Mother might not last much longer.
+<0062> This is a little more than Mother can take.
+<0063> Did you try to kill Mother...?
+<0064> Mother doesn't cry easily, but tears are coming out of her eyes.
+<0065> Was there a breeze just now?
+<0066> Fufu, a miss.
+<0067> Behold Mother's elegant move.
+<0068> Mother's no longer there.
+<0069> This ends your ponishment.
+<0070> Fufu, now you know how strong Mother is.
+<0071> Sit and reflect on what you have done, pokay?
+<0072> This is how an adult does it.
+<0073> This can't be happening.
+<0074> How dare you strike Mother down?
+<0075> Maybe Mother raised you wrong?
+<0076> Mother's suffering.
+<0077> These should help Mother handle her household finances...
+<0078> Unexpected cash always makes Mother happy.
+<0079> Much appreciated.
+<0080> You'll learn the true value of money when you're a grown-uppo.
+<0081> This loss could destroy Mother's family.
+<0082> We can't live without money.
+<0083> There's nothing that feels worse than this.
+<0084> Poh my goodness. Mother's getting all teary-eyed.
+<0085> Why would anyone entrap Mother?
+<0086> How cunning... Well played.
+<0087> Poh no you didn't.
+<0088> Shoot... I was too tall to see what was around my feet.
+<0089> Engaging with that thing has to be very risky.
+<0090> Phew, seems like things are different around here now.
+<0091> This is surprising...
+<0092> Poh dear, it feels like things are about to get rough around here.
+<0093> Money is important.
+<0094> Mother wants to save up more.
+<0095> Having a lot of money makes Mother feel safe and secure.
+<0096> Mother would like some stars, please.
+<0097> Mother needs to let off some steam.
+<0098> Mother's fists are aching for a fight.
+<0099> Mother shouldn't be getting physical... but.
+<0100> Where can Mother find a good ponching bag?
+<0101> Did you miss Mother?
+<0102> Mother Poppo here.
+<0103> Fufu, you can depend on me.
+<0104> You are saying Mother still looks pretty?
+<0105> It's begun now.
+<0106> This is the game Mother's most familiar with.
+<0107> Fufu, let's have some fun, everyone.
+<0108> Another battle is about to start...
+<0109> Mother of victory.
+<0110> No one can beat the smile of Mother.
+<0111> It's absurd to even think about beating Mother.
+<0112> Poppo. This simply makes Mother happy.
+<0113> Don't blow all your money, pokay?
+<0114> Didn't you buy the same thing before... What? It's not the same?
+<0115> Look how happy you look... like a little child.
+<0116> Mother's glad for you.
+<0117> Take over for Mother, now.
+<0118> Now we're gonna switch.
+<0119> Change places with Mother now.
+<0120> Help Mother out, okay?
+<0121> Pokay.
+<0122> Good.
+<0123> Yes.
+<0124> No.
+<0125> Poh dear...
+<0126> You're very fortunate.
+<0127> Mother's a bit flustered.
+<0128> Let's po.
+<0129> Poh!
+<0130> Mother's rooting for you.
+<0131> How do you do?
+<0132> Popopo?
+<0133> Well done.
+<0134> Let Mother praise you.
+<0135> Hmpoh!
+<0136> Using someone else's card is also a good strategy.
+<0137> Mother borrowed a Hyper card.
+<0138> It'd be rude if Mother used this power of someone else thoughtlessly.
+<0139> Mother'll thankfully play this card.
+<0140> Thank you.
+<0141> Mother's love turns even violence to stars.
+<0142> Poh boy, you're such a naughty child.
+<0143> You being so full of energy makes Mother happy.
+<0144> This is very heartwarming.
+<0145> You all have given Mother so much energy.
+<0146> Fufufu, nothing's better than being peppy.
+<0147> Boy, the power of love has healed Mother.
+<0148> Mother's happy, surrounded by lively kids.
+<0149> You must lose something to gain something...
+<0150> *Pant pant*... Mother's too old for this.
+<0151> Warps were easier for Mother when she was a little girl... They're a bit tough now.
+<0152> M-Mother's legs are shaking.
+<0153> This is a waste of resources...
+<0154> Don't wanna do this... but...
+<0155> Ugh... Can't hold any more cards.
+<0156> Even Mother's love can't help out with this.
+<0157> Mother's gonna see... how strong her daughter is.
+<0158> Fufufu, let's play.
+<0159> Mother's so happy to see you're doing great.
+<0160> A child surpassing their parent... Mother's delighted.
+<0161> This card takes Mother back.

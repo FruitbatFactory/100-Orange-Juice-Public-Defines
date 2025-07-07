@@ -1,0 +1,31 @@
+
+// ========= Scene: 10 Years Anniversary Start =========
+
+<0000> En un mundo que puede o no existir, ciertos desarrolladores trabajan en una nueva versión del juego, y esto es lo que tienen para decir al respecto...
+
+// phlebuster as poppo
+<0001> This small miracle has only been possible with all of your support. Here's to another 10 years of juice!\n-PhleBuster
+
+// rive as seagull
+<0002> 10 years! Back when we started with 100% OJ, I never imagined we'd get this far! Thanks for being the world's best fans and here's to many more!\n-Rive
+
+// track as suguri
+<0003> Thank you enjoying our popporanges for a decade! ♥\n-trackftv
+
+// azuree as sora (obviously.)
+<0004> The fight is not over yet, we have so many things to give back to the players! Onwards to the next destination!\n-Azuree
+
+// rapha as sweetmaker
+<0005> For the 20th OJ needs to run on fridges, next to the oranges! (cause the way there will include pretty much everything else) Let's make it a reality!\n-Rapha
+
+// ryuzaki as yuki
+<0006> Thank you for the decade-long support! Shall we pass down the way of the dice for generations to come.\n-Ryuzaki
+
+// bluelink as syura
+<0007> Thank you everyone for playing and enjoying 100% Orange Juice!\n-Blue Link
+
+// penunoli as repa
+<0008> Happy 10th!! Only 90% left to go!\n-penunoli
+
+// press as kyoko
+<0009> Thank you for enjoying this juicy game. It's contents and Vitamin C are assured, but please don't have too much as things may go toxic and not your way, but continue to have just enough daily to have a sweet and nutritiously wholesome time with your friends.\n-ItzPress

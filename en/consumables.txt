@@ -1,0 +1,33 @@
+< CONSUMABLE_HEART_PINK >
+name=Heart (Pink)
+descr=Send a heart to a friend or that special someone!
+
+< CONSUMABLE_HEART_BLACK >
+name=Heart (Black)
+descr=Send a heart to a friend or that special someone!
+
+< CONSUMABLE_FIREWORKS_YELLOW >
+name=Fireworks (Yellow)
+descr=Launch fireworks during a game!
+
+< CONSUMABLE_FIREWORKS_RED >
+name=Fireworks (Red)
+descr=Launch fireworks during a game!
+
+< CONSUMABLE_FIREWORKS_GREEN >
+name=Fireworks (Green)
+descr=Launch fireworks during a game!
+
+< CONSUMABLE_FIREWORKS_BLUE >
+name=Fireworks (Blue)
+descr=Launch fireworks during a game!
+
+< CONSUMABLE_RAINYCLOUD >
+name=Rainy Cloud
+descr=Feeling under the weather?
+
+< CONSUMABLE_BALLOONS >
+name=Balloons
+descr=Assorted balloons to follow you for a short moment.
+
+

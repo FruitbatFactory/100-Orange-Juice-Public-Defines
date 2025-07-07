@@ -1,0 +1,261 @@
+
+< CAMPAIGN_QP_ONE >
+QP Episode 1
+
+< CAMPAIGN_QP_TWO >
+QP Episode 2
+
+< CAMPAIGN_QP_THREE >
+QP Episode 3
+
+< CAMPAIGN_QP_FOUR >
+QP Episode 4
+
+< CAMPAIGN_QP_FIVE >
+QP Episode 5
+
+< CAMPAIGN_QP_FINAL >
+QP Final Episode
+
+< CAMPAIGN_SUGURI_ONE >
+Suguri Episode 1
+
+< CAMPAIGN_SUGURI_TWO >
+Suguri Episode 2
+
+< CAMPAIGN_SUGURI_THREE >
+Suguri Episode 3
+
+< CAMPAIGN_SUGURI_FOUR >
+Suguri Episode 4
+
+< CAMPAIGN_SUGURI_FIVE >
+Suguri Episode 5
+
+< CAMPAIGN_SUGURI_FINAL >
+Suguri Final Episode
+
+< CAMPAIGN_MARC_ONE >
+Marc Episode 1
+
+< CAMPAIGN_MARC_TWO >
+Marc Episode 2
+
+< CAMPAIGN_MARC_THREE >
+Marc Episode 3
+
+< CAMPAIGN_MARC_FOUR >
+Marc Episode 4
+
+< CAMPAIGN_MARC_FIVE >
+Marc Episode 5
+
+< CAMPAIGN_MARC_FINAL >
+Marc Final Episode
+
+< CAMPAIGN_KAI_ONE >
+Kai Episode 1
+
+< CAMPAIGN_KAI_TWO >
+Kai Episode 2
+
+< CAMPAIGN_KAI_THREE >
+Kai Episode 3
+
+< CAMPAIGN_KAI_FOUR >
+Kai Episode 4
+
+< CAMPAIGN_KAI_FIVE >
+Kai Episode 5
+
+< CAMPAIGN_KAI_FINAL >
+Kai Final Episode
+
+< CAMPAIGN_EXTRA_ONE >
+Midnight = Kemonomimi
+
+< CAMPAIGN_EXTRA_TWO >
+Struggle of the Cyborg
+
+< CAMPAIGN_EXTRA_THREE >
+Twilight of the Pilots
+
+< CAMPAIGN_EXTRA_FOUR >
+Mysterious Space Odyssey
+
+< CAMPAIGN_EXTRA_FIVE >
+Tomomo Hell
+
+< CAMPAIGN_EXTRA_SIX > 
+Mio's Dark Citadel
+
+< CAMPAIGN_EXTRA_SEVEN > 
+Secret Santa
+
+< CAMPAIGN_EXTRA_EIGHT >
+Divine Punishment
+
+< CAMPAIGN_STARBREAKER_ONE >
+Star Breaker Episode 1
+
+< CAMPAIGN_STARBREAKER_TWO >
+Star Breaker Episode 2
+
+< CAMPAIGN_STARBREAKER_THREE >
+Star Breaker Episode 3
+
+< CAMPAIGN_STARBREAKER_FOUR >
+Star Breaker Episode 4
+
+< CAMPAIGN_STARBREAKER_FIVE >
+Star Breaker Episode 5
+
+< CAMPAIGN_STARBREAKER_FINAL >
+Star Breaker Final Episode
+
+< CAMPAIGN_SWEETBREAKER_ONE >
+Sweet Breaker Episode 1
+
+< CAMPAIGN_SWEETBREAKER_TWO >
+Sweet Breaker Episode 2
+
+< CAMPAIGN_SWEETBREAKER_THREE >
+Sweet Breaker Episode 3
+
+< CAMPAIGN_SWEETBREAKER_FOUR >
+Sweet Breaker Episode 4
+
+< CAMPAIGN_SWEETBREAKER_FIVE >
+Sweet Breaker Episode 5
+
+< CAMPAIGN_SWEETBREAKER_FINAL >
+Sweet Breaker Final Episode
+
+< CAMPAIGN_BREAKER_EXTRA >
+Chaos of the Sweet Gods
+
+< CAMPAIGN_MIUCEORE_ONE >
+Girl Power Episode 1
+
+< CAMPAIGN_MIUCEORE_TWO >
+Girl Power Episode 2
+
+< CAMPAIGN_MIUCEORE_THREE >
+Girl Power Episode 3
+
+< CAMPAIGN_MIUCEORE_FOUR >
+Girl Power Episode 4
+
+< CAMPAIGN_MIUCEORE_FIVE >
+Girl Power Episode 5
+
+< CAMPAIGN_MIUCEORE_SIX >
+Girl Power Episode 6
+
+< CAMPAIGN_MIUCEORE_SEVEN >
+Girl Power Episode 7
+
+< CAMPAIGN_MIUCEORE_EIGHT >
+Girl Power Episode 8
+
+< CAMPAIGN_MIUCEORE_NINE >
+Girl Power Episode 9
+
+< CAMPAIGN_MIUCEORE_FINAL >
+Girl Power Final Episode
+
+< CAMPAIGN_CHRISTMAS_2017 >
+Waruda Christmas Party
+
+< CAMPAIGN_NICOARTHUR_ONE >
+Crossed Christmases Episode 1
+
+< CAMPAIGN_NICOARTHUR_TWO >
+Crossed Christmases Episode 2
+
+< CAMPAIGN_NICOARTHUR_THREE >
+Crossed Christmases Episode 3
+
+< CAMPAIGN_NICOARTHUR_FOUR >
+Crossed Christmases Episode 4
+
+< CAMPAIGN_NICOARTHUR_FIVE >
+Crossed Christmases Episode 5
+
+< CAMPAIGN_NICOARTHUR_FINAL >
+Crossed Christmases Final Episode
+
+
+< CAMPAIGN_SUGURISUMIKA_ONE >
+Old Guardians Episode 1
+
+< CAMPAIGN_SUGURISUMIKA_TWO >
+Old Guardians Episode 2
+
+< CAMPAIGN_SUGURISUMIKA_THREE >
+Old Guardians Episode 3
+
+< CAMPAIGN_SUGURISUMIKA_FOUR >
+Old Guardians Episode 4
+
+< CAMPAIGN_SUGURISUMIKA_FIVE >
+Old Guardians Episode 5
+
+< CAMPAIGN_SUGURISUMIKA_SIX >
+Old Guardians Episode 6
+
+< CAMPAIGN_SUGURISUMIKA_SEVEN >
+Old Guardians Episode 7
+
+< CAMPAIGN_SUGURISUMIKA_EIGHT >
+Old Guardians Episode 8
+
+< CAMPAIGN_SUGURISUMIKA_NINE >
+Old Guardians Episode 9
+
+< CAMPAIGN_SUGURISUMIKA_TEN >
+Old Guardians Episode 10
+
+< CAMPAIGN_SUGURISUMIKA_FINAL >
+Old Guardians Final Episode
+
+
+< CAMPAIGN_ELLIELULU_NUMBER >
+Wanderers Episode %d
+
+< CAMPAIGN_ELLIELULU_FINAL >
+Wanderers Final Episode
+
+< CAMPAIGN_RONETEO >
+Game Night of the Witches
+
+< CAMPAIGN_WARUDAPRISONBREAK_NUMBER >
+Waruda Prison Break Episode %d
+
+< CAMPAIGN_WARUDAPRISONBREAK_FINAL >
+Waruda Prison Break Final Episode
+
+< CAMPAIGN_DIFFICULTY_CASUAL >
+Lowered performance for all CPU characters.
+
+< CAMPAIGN_DIFFICULTY_NORMAL >
+No adjustments for CPU characters.
+
+< CAMPAIGN_DIFFICULTY_ORIGINAL >
+CPU characters' performance is customized individually.
+
+< CAMPAIGN_DIFFICULTY_EXTREME >
+All CPU characters enjoy a performance boost.
+
+< CAMPAIGN_RETURN >
+Back
+
+< CAMPAIGN_RONETEO_MESSAGE >
+Extra mission now available! We recommend finishing the Girl Power and Old Guardians campaigns before playing it.
+
+< CAMPAIGN_WINTER2023_MESSAGE >
+Extra mission now available: "%s"!
+
+
+[EOF]
+

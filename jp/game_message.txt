@@ -1,0 +1,191 @@
+
+< GAME_MESSAGE_YOURTURN >
+あなたのターンです
+
+< GAME_MESSAGE_OPPONENTTURN >
+相手のターンです
+
+< GAME_MESSAGE_CHALLENGEBATTLE >
+バトルを挑みますか？
+
+< GAME_MESSAGE_HEALTEAMMATE >
+この仲間のHPを1回復させますか？
+
+< GAME_MESSAGE_REVIVETEAMMATE >
+この仲間を復活させますか？(%dスター)
+
+< GAME_MESSAGE_CHOOSECARDUSE >
+使うカードを選んでください
+
+< GAME_MESSAGE_CHOOSECARDDISCARD >
+捨てるカードを選んでください
+
+< GAME_MESSAGE_CONFIRMCARDUSE >
+このカードを使いますか？
+
+< GAME_MESSAGE_BOSSAPPEARED >
+ボスが現れました！
+
+< GAME_MESSAGE_RAIDBOSS_APPEAR >
+「%s」が降り立ちました！
+
+< GAME_MESSAGE_RAIDBOSS_UNLOCK >
+「%s」は「%s」が使えるようになりました！
+
+< GAME_MESSAGE_RAIDBOSS_REMOVE >
+「%s」は「%s」が使えなくなりました
+
+< GAME_MESSAGE_RAIDBOSS_USE_ABILITY >
+「%s」は「%s」を発動しています！
+
+< GAME_MESSAGE_RAIDBOSS_SKIP_ABILITY >
+「%s」は「%s」を使うのをやめました
+
+< GAME_MESSAGE_RAIDBOSS_ENRAGE >
+「%s」は怒っています！
+
+< GAME_MESSAGE_COOP_TERROR_EVENT >
+「%s」にマス越しに挑戦できます！
+
+< GAME_MESSAGE_COOP_ANNOUNCE_ABILITY >
+「%s」は次のターンに「%s」を使います！
+
+< GAME_MESSAGE_COOP_LEVELUP_ABILITY >
+「%s」は「%s」と置き換わりました!
+
+< GAME_MESSAGE_TURNSKIP >
+ターンがスキップされました
+
+< GAME_MESSAGE_CHOOSENORMA >
+次のノルマを選んでください
+
+< GAME_MESSAGE_NORMANOTACHIEVED >
+ノルマは未達成です
+
+< GAME_MESSAGE_CARDDRAWN >
+カードを引きました
+
+< GAME_MESSAGE_TRAPSET >
+トラップカードがセットされました
+
+< GAME_MESSAGE_TRAPTRIGGER >
+トラップカードが発動しました
+
+< GAME_MESSAGE_CARDEFFECTSTOCKED >
+カード効果がストックされました
+
+< GAME_MESSAGE_STOCKEFFECT >
+ストックされた効果が発動しました
+
+< GAME_MESSAGE_FIELDEFFECT >
+フィールド効果が発動しました
+
+< GAME_MESSAGE_REVIVESUCCESS >
+復活しました！
+
+< GAME_MESSAGE_REVIVEFAIL >
+復活できませんでした…
+
+< GAME_MESSAGE_CHOOSETARGET >
+対象のプレイヤーを選んでください
+
+< GAME_MESSAGE_CHOOSEMOVEPANEL >
+移動先のパネルを選んでください
+
+< GAME_MESSAGE_HOMESTOP >
+ホームに止まりますか？
+
+< GAME_MESSAGE_HEALING >
+回復しました！
+
+< GAME_MESSAGE_EVENTPREFIX >
+
+< GAME_MESSAGE_EVENTSUFFIX >
+！
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATEFRENZY >
+チョコレートフレンジー！
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_SUCCESS >
+チョコレートが保存されました！
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_FAIL >
+チョコレートが少ないので保存できません
+
+< GAME_MESSAGE_HLWN2018_CHOOSECANDY >
+お菓子を選んでください
+
+< GAME_MESSAGE_HLWN2018_GIVECANDY >
+このお菓子をあげますか？
+
+< GAME_MESSAGE_CHOOSETARGETPANEL >
+標的にするマスを選んでください
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE >
+標的にするマスを選んでください
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE_CARD >
+標的にするマスを選ぶ／カードを使う
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_MULTIPLE >
+標的にするマスを選んでください
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND >
+移動先のマスを選んでください
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND_CARD >
+移動先のマスを選ぶ／カードを使う
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_WAITING >
+他のプレイヤーを待っています…
+
+< GAME_MESSAGE_XMAS2018_CASTLE_ROTATE >
+時計回りに回転させる
+
+< GAME_MESSAGE_XMAS2018_CASTLE_PLACE >
+材料を置く
+
+< GAME_MESSAGE_XMAS2018_CASTLE_CHANGE >
+材料をかえる
+
+< GAME_MESSAGE_SHOPSTOP >
+このショップに立ち寄りますか？
+
+< GAME_MESSAGE_MONSTERCHALLENGE >
+この魔物に挑戦しますか？
+
+< GAME_MESSAGE_SUMMER2020_SPEEDUP >
+スピードアップ！
+
+< GAME_MESSAGE_TELEPORT >
+テレポート先のマスを選んでください
+
+< GAME_MESSAGE_SELECT_PANEL >
+マスを選んでください
+
+< GAME_MESSAGE_AWAIT_ACTION >
+プレイヤーの行動終了を待っています…
+
+< GAME_MESSAGE_PICK_UNIT >
+ユニットを選んでください
+
+< GAME_MESSAGE_PET_PLAYER >
+このプレイヤーをなでますか？
+
+< GAME_MESSAGE_PET_DOG >
+この犬をなでますか？
+
+< GAME_MESSAGE_CHOOSE_BLUFF >
+次に使われるカードのタイプはなんだと思いますか？
+
+< GAME_MESSAGE_DECLARE_BLUFF >
+他のプレイヤーに対してどのカードタイプを宣言しますか？
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_1 >
+次に使われるカードは……
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_2 >
+……これ！
+
+< GAME_MESSAGE_BLUFF_NOTICE >
+{}は、次にこのカードが使われると予想しました。

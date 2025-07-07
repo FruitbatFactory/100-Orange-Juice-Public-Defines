@@ -1,0 +1,161 @@
+<0000> Hmph.
+<0001> Ahí.
+<0002> Yo.
+<0003> *Suspiro*
+<0004> Tengo muchas opciones para escoger.
+<0005> No quiero que me molestes.
+<0006> ¿Cómo te gustaría esto?
+<0007> No tengo razones para llevarlo conmigo.
+<0008> Dejaré esto aquí.
+<0009> Aquí hay una trampa.
+<0010> Supongo que también dejaré esto aquí.
+<0011> Pasos pequeños.
+<0012> Supongo que usaré esta carta ahora.
+<0013> ¿Esperabas que luchara estando desarmado?
+<0014> Adelante. Llevo esto conmigo.
+<0015> Te destruiré.
+<0016> Te mostraré mi arma secreta.
+<0017> No pensarán por un segundo que me dejaré vencer otra vez.
+<0018> Hora de la venganza.
+<0019> Demonios, aún no he acabado.
+<0020> Puedo continuar.
+<0021> ¿Por qué me derrotarían?
+<0022> Algo no está bien en mí.
+<0023> Tienes que estar bromeando.
+<0024> No puede ser.
+<0025> Aquí.
+<0026> Ora.
+<0027> Hmph.
+<0028> ¿Cómo ves esto?
+<0029> Eso dolió.
+<0030> ¿Qué te pasa?
+<0031> Maldita sea...
+<0032> ¡Aaaargh!
+<0033> Ahora debo curarme.
+<0034> Debo calmarme.
+<0035> Muy bien, estoy listo para continuar.
+<0036> Me siento mucho mejor ahora.
+<0037> ¿Una teletransportación forzada?
+<0038> ¿Quién ha dicho que puedes llevarme a donde tú quieras?
+<0039> ¿Qué está ocurriendo?
+<0040> Guh.
+<0041> Mierda.
+<0042> Metí la pata.
+<0043> Demonios.
+<0044> Oh vaya.
+<0045> Ahora, aquí voy.
+<0046> Esta es mi oportunidad.
+<0047> Te derribaré aquí mismo.
+<0048> Di tus últimas palabras.
+<0049> Te arrepentirás de haberme desafiado.
+<0050> Qué dolor en el trasero.
+<0051> Idiota.
+<0052> Tú me molestas.
+<0053> ¿Podrías quedarte ahí y morirte por mí?
+<0054> Te derribaré con esto.
+<0055> Orah.
+<0056> ¡Te aplastaré!
+<0057> Ugh.
+<0058> ¡Eso dolió mucho!
+<0059> Tsk.
+<0060> Quítate del maldito camino.
+<0061> ¿Pero qué?
+<0062> ¡Aaaaaah!
+<0063> ¿Cuál es tu problema?
+<0064> ¡Tú eres una pequeña...!
+<0065> ¿Por qué permitiría que me hagas daño?
+<0066> Acabas de desperdiciar tu oportunidad.
+<0067> Tu puntería apesta.
+<0068> Fácil y rápido.
+<0069> Tú sí que sabes cómo malgastar mi tiempo.
+<0070> *Suspiro*
+<0071> ¿Por qué perdería ante ti?
+<0072> Tú no eres un desafío para mí.
+<0073> ¡Maldita sea! ¡Maldición!
+<0074> ¿Pero qué demonios eres tú?
+<0075> No puedo creer que eso haya ocurrido.
+<0076> Púdrete.
+<0077> Lo haré sin problemas.
+<0078> Muy bien.
+<0079> Estoy en una racha.
+<0080> ¡Jujah!
+<0081> ¿Eh?
+<0082> En serio.
+<0083> Oh, vamos.
+<0084> Dame un respiro.
+<0085> ¿Una trampa, eh?
+<0086> Tsk, me han atrapado.
+<0087> Ugh, esto no es justo.
+<0088> Metí la pata otra vez.
+<0089> Aquí llega el problema.
+<0090> Oh cielos.
+<0091> No me gusta el aspecto de esa cosa.
+<0092> Así que han comenzado a moverse, eh.
+<0093> Progresar un poco nunca está demás.
+<0094> Esta es la forma más eficiente de obtener mi victoria.
+<0095> Pequeños pasos.
+<0096> Hora de conseguir más estrellas.
+<0097> Me iré por ahí y acabaré con todos.
+<0098> Hora de volverse loco y acabar con todo.
+<0099> Disculpa, yo no soy nada más que un humano desarmado.
+<0100> Vamos a divertirnos.
+<0101> ¿Necesitas de mi ayuda?
+<0102> Supongo que yo haré el primer movimiento.
+<0103> Parece que la hora ha llegado.
+<0104> Esto es una gran molestia, pero bueno.
+<0105> Vamos a ganar de una buena vez.
+<0106> Bien, es la hora de comenzar.
+<0107> Hora de trabajar.
+<0108> Mientras más pronto empecemos, más pronto acabaremos.
+<0109> Eso no ha sido tan malo.
+<0110> ¿Por qué no ganaría?
+<0111> Eso ha estado bien.
+<0112> Hmph, eso ha sido estúpido.
+<0113> Tenemos mucho más poder ahora.
+<0114> Esto es...
+<0115> Bueno, diría que eso es algo muy bueno.
+<0117> Tendrás que encargárte de todo lo demás.
+<0118> Cambia conmigo.
+<0119> Ve a trabajar lo más duro que puedas.
+<0120> Estás a cargo ahora.
+<0116> Bien.
+<0121> Adelante.
+<0122> Bien hecho.
+<0123> Sí.
+<0124> No.
+<0125> Oh no.
+<0126> Hoy es tu día de suerte.
+<0127> ¿Quéee?
+<0128> Está bien.
+<0129> Así, supongo.
+<0130> Ve.
+<0131> Yo.
+<0132> Umm.
+<0133> Bien jugado.
+<0134> Tienes mis felicitaciones.
+<0135> ¡Maldita sea!
+<0136> Tsk, desconozco el uso y poder de este objeto...
+<0137> Usaré esto.
+<0138> ¿Acaso te he sorprendido?
+<0139> Este me gusta.
+<0140> Bueno, gracias.
+<0141> Debo destruir esta cosa.
+<0142> ¿Cómo puede ser que esto siga en funcionamiento?
+<0143> Me siento tan disgustado.
+<0144> ¿Pero qué rayos...?
+<0145> Chicas, fuera de mi camino.
+<0146> ¿Acaso están pensando en desafiarme?
+<0147> Ustedes no pueden desobedecer mis órdenes.
+<0148> ¿Por qué? Ustedes son mis...
+<0149> Tú no eres la Sumika que yo conozco, ¿no es así?
+<0150> Te has mejorado mucho, ¿no es cierto?
+<0151> Estás a un largo camino de esa maldita guardiana.
+<0152> Quizás ahora podrás acabar con esa maldita guardiana.
+<0153> Si tan solo tú no hubieras nacido.
+<0154> Maldición, ¿por qué siempre tienes que meterte en mi camino?
+<0155> Parece que la he vencido...
+<0156> ¡Maldición, maldición, maldición!
+<0157> ¿Qué es lo que eres...?
+<0158> Tú eres un arma muy desquiciada.
+<0159> ¿Por qué alguien construiría un arma de esta forma?
+<0160> Qué chica tan desquiciada...

@@ -1,0 +1,121 @@
+< CARD_SHROOM_BLUE >
+name=Hongo Azul
+descr=Huele raro.
+
+< CARD_SHROOM_BROWN >
+name=Hongo Marrón
+descr=Huele raro.
+
+< CARD_SHROOM_GREEN >
+name=Hongo Verde
+descr=Huele raro.
+
+< CARD_SHROOM_ORANGE >
+name=Hongo Naranja
+descr=Huele raro.
+
+< CARD_SHROOM_PINK >
+name=Hongo Rosa
+descr=Huele raro.
+
+< CARD_SHROOM_PURPLE >
+name=Hongo Violeta
+descr=Huele raro.
+
+< CARD_SHROOM_RAINBOW >
+name=Hongo Arcoíris
+descr=Huele raro.
+
+< CARD_SHROOM_RED >
+name=Hongo Rojo
+descr=Huele raro.
+
+< CARD_SHROOM_WHITE >
+name=Hongo Blanco
+descr=Huele raro.
+
+< CARD_SHROOM_YELLOW >
+name=Hongo Amarillo
+descr=Huele raro.
+
+< CARD_SHROOM_PHANTOMBLUE >
+name=Hongo Azul y Fantasmal
+descr=Huele inquietantemente raro.
+
+< CARD_SHROOM_LEGENDARYRED >
+name=Hongo Rojo y Legendario
+descr=Huele notoriamente raro.
+
+< CARD_SHROOM_MOVEUP >
+descr=Recibe +%d MOV al tirar un dado de movimiento.
+
+< CARD_SHROOM_MOVEDOWN >
+descr=Recibe -%d MOV al tirar un dado de movimiento.
+
+< CARD_SHROOM_GAINSTARS >
+descr=Recibe Nivel x %d estrella(s).
+
+< CARD_SHROOM_LOSESTARS >
+descr=Pierde Nivel x %d estrella(s).
+
+< CARD_SHROOM_HEALTHUP >
+descr=Recibe %d punto(s) de vida.
+
+< CARD_SHROOM_HEALTHDOWN >
+descr=Pierde %d punto(s) de vida.
+
+< CARD_SHROOM_ATTACKUP >
+descr=Recibe +%d ATK durante esta batalla.
+
+< CARD_SHROOM_ATTACKDOWN >
+descr=Recibe -%d ATK durante esta batalla.
+
+< CARD_SHROOM_DEFENSEUP >
+descr=Recibe +%d DEF durante esta batalla.
+
+< CARD_SHROOM_DEFENSEDOWN >
+descr=Recibe -%d DEF durante esta batalla.
+
+< CARD_SHROOM_EVADEUP >
+descr=Recibe +%d EVD durante esta batalla.
+
+< CARD_SHROOM_EVADEDOWN >
+descr=Recibe -%d EVD durante esta batalla.
+
+< CARD_SHROOM_HEAL >
+descr=Recupera %d punto(s) de vida.
+
+< CARD_SHROOM_DAMAGE >
+descr=Recibe %d punto(s) de daño.
+
+< CARD_SHROOM_ROLLONE >
+descr=Durante esta batalla, el dado solo caerá en 1.
+
+< CARD_SHROOM_ROLLSIX >
+descr=Durante esta batalla, el dado solo caerá en 6.
+
+< CARD_SHROOM_FROSTWALKER >
+descr=Recibe el efecto de Helado por %d capítulo(s).
+
+< CARD_SHROOM_WARP >
+descr=Esta carta te teletransportará a un panel aleatorio.
+
+< CARD_SHROOM_CONFUSION >
+descr=Por %d capítulo(s), todas tus cartas son revertidas (tú no podrás verlas, pero otros jugadores sí).
+
+< CARD_SHROOM_DRAW >
+descr=Toma 2 cartas.
+
+< CARD_SHROOM_DISCARD >
+descr=Descarta una carta en mano de forma aleatoria.
+
+< CARD_SHROOM_WIN >
+descr=Recibe 1 victoria.
+
+< CARD_SHROOM_LEGEND_STARS >
+descr=Recibe +Nivel estrellas de todas las fuentes. Al ser noqueado dentro de un combate, el ganador robará esta carta (si es que se trata de un jugador).
+
+< CARD_SHROOM_LEGEND_WINS >
+descr=Recibe una victoria adicional de todas las fuentes. Al ser noqueado dentro de un combate, el ganador robará esta carta (si es que se trata de un jugador).
+
+[EOF]

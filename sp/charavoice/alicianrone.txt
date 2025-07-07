@@ -1,0 +1,161 @@
+<0117> ¡Cambio!
+<0118> Regresaré en un momento.
+<0119> Es tu turno.
+<0120> Síguelo desde aquí, ¿de acuerdo?
+
+<0000> ¿Se hace así?
+<0001> Aquí voy.
+<0002> Ahí.
+<0003> ¡Ja!
+<0004> Esto me ayudará a ganar, ¿verdad?
+<0005> Supongo que es la hora de usar esto.
+<0006> ¡Hagámoslo!
+<0007> Bueno, en momentos como este, lo que hago es...
+<0008> Dejaré una trampa aquí.
+<0009> Esto va por aquí.
+<0010> *Escurro, escurro* No soy buena en esto...
+<0011> Listo, está colocada.
+<0012> ¿Por qué no me entregas un poco de tu poder?
+<0013> Mhm, mi fuerza se está incrementando.
+<0014> Esto me hará invencible.
+<0015> Ahora soy más fuerte que nunca.
+<0016> ¡Muy bien, rápido iré...!
+<0017> Aún no es demasiado tarde para adelantarse de los demás.
+<0018> ¡El resto acaba aquí...!
+<0019> Puedo moverme otra vez... Muy bien...
+<0020> No hay por qué preocuparse. ¡Aún no es demasiado tarde para ganar la partida!
+<0021> ¿Qué? ¡¿Por qué?!
+<0022> ¡Esto es inaudito! ¡Sólo quiero jugar!
+<0023> Fue... Supongo que esto significa que debería quedarme aquí un poco más.
+<0024> Eh, ¿en qué momento me levantaré...?
+<0025> Aquí voy.
+<0026> ¡Ahi!
+<0027> ¡Yah!
+<0028> ¡Ataque!
+<0029> ¡Kyah!
+<0030> ¡¿Pero qué...?!
+<0031> Cielos.
+<0032> ¿Tienes algún problema?
+<0033> Hablando de curación...
+<0034> Ah, esto se siente bien.
+<0035> ¡Ahora estoy repleta de energía!
+<0036> ¡¿Qué es esto?! ¡Se siente fantástico!
+<0037> ¿Qué? ¿Qué es lo que ocurre?
+<0038> ¡¿Y esto a qué se debe?!
+<0039> ¡Fuaaah! ¡Estoy volando!
+<0040> ¿A dónde me llevarán?
+<0041> ¡Noo! ¡Debes estar bromeando!
+<0042> ¡Eso no valió! ¡Cielos!
+<0043> Oh no.
+<0044> Ugh...
+<0045> Y ahora, prepárate.
+<0046> ¡Yo iré primero!
+<0047> ¡Fufu, te encontré!
+<0048> ¡Es la hora de la batalla!
+<0049> ¡Está bien, adelante!
+<0050> Acepto el desafío.
+<0051> Fufu, yo me encargaré de ti.
+<0052> ¡Ven a mí!
+<0053> Mis tijeras son afiladas.
+<0054> ¡Te cortaré a través de tu cuerpo!
+<0055> ¡Eiyah!
+<0056> ¡Veamos si puedes esquivar esto!
+<0057> ¡Au!
+<0058> ¡Eh, eso duele!
+<0059> ¡Cielos!
+<0060> ¡Yan!
+<0061> ¡Eres de lo peor! ¡Lo peor!
+<0062> ¡Eso duele demasiado!
+<0063> ¡Eso dueleee!
+<0064> ¡Au! ¡Cielos!
+<0065> ¿Acaso pensabas que no iba a esquivar eso?
+<0066> Fufufu, demasiado lento.
+<0067> Estoy aquí.
+<0068> ¿A dónde estabas apuntando?
+<0069> Fufu, no fue nada.
+<0070> Eso fue entretenido.
+<0071> Parece que gané. Ufufu.
+<0072> Mi nombre es Alicianrone. Será mejor que lo recuerdes.
+<0073> ¿Quéeee? He sido... ¿Derrotada?
+<0074> Eso no cuenta. ¡Eso! ¡No! ¡Cuentaaa!
+<0075> ¿Qué? ¿Perdí? ¿Perdí?
+<0076> ¡Lo haremos una vez más! ¡Una vez más! Uuuu...
+<0077> ¿Estrellas? ¿Me puedo quedar con ellas?
+<0078> Fufu, se ven hermosas.
+<0079> Estas me gustan.
+<0080> ¡Sí, sí!
+<0081> ¿Qué? ¿Se han ido?
+<0082> ¡Ah, perdí algunas de ellas...!
+<0083> ¡No! ¡No desaparezcan...!
+<0084> ¡Wah, mis estrellas...!
+<0085> ¡¿Por qué está aquí...?!
+<0086> ¡Cielos! ¡¿Quién dejó esto aquí?!
+<0087> ¡¿Qué?! ¡¿Una trampa?!
+<0088> ¡Cielos, esto es terrible!
+<0089> ¿Qué es esa cosa...?
+<0090> Esa sombra... ¿Acaso es la de un monstruo?
+<0091> Esto se está haciendo más interesante.
+<0092> ¿Acaso se supone que debo derrotar a esa cosa?
+<0093> Muy bien, iré a conseguir algunas estrellas para mí.
+<0094> ¿Puedo escoger la norma? Hmm, ¡esta!
+<0095> Quisiera ir con esta.
+<0096> Vamos a conseguir muchas de esas cosas bonitas.
+<0097> ¡Ejercicio, debemos hacer ejercicio!
+<0098> Fufu, tengo mucha energía por el momento, así que... Será esta.
+<0099> Les mostraré una gran e increíble exhibición de poder.
+<0100> Los derribaré a cada uno de ustedes.
+<0101> Soy Alicianrone. Pero sólo dime Rone.
+<0102> ¿Quieres ser mi compañía? Está bien, vamos.
+<0103> Fufu, muy bien, vamos a divertirnos.
+<0104> Fufu, espero que esto sea divertido.
+<0105> ¿Qué es lo que haré primero?
+<0106> Y así comienza.
+<0107> ¡El juego ha empezado!
+<0108> ¡Preparados, listos, ya!
+<0109> ¡Lo hice! ¡Gané la partida!
+<0110> ¡Fufufu, yo gané!
+<0111> ¿Qué te parece? ¡Este es mi verdadero potencial! Increíble, ¿no es así?
+<0112> ¡Eso fue muy divertido! ¡Muchas gracias a todos!
+<0113> Mira lo que encontré.
+<0114> ¿Acaso eso ayuda? ¿Estas feliz de haberlo obtenido?
+<0115> ¿Es eso un objeto nuevo?
+<0116> Fufufu, adivina lo que es.
+<0121> Okay.
+<0122> Bien.
+<0123> Sí.
+<0124> No.
+<0125> Eso es malo.
+<0126> Mucha suerte.
+<0127> ¿Fuee?
+<0128> Empecemos con esto.
+<0129> Tiraré los dados.
+<0130> ¡Vamos, vamos!
+<0131> Hola.
+<0132> ¿Qué? ¿Qué...?
+<0133> Genial.
+<0134> Fufu, esplendido.
+<0135> ¡Mhm...!
+<0136> Así que... ¿Esto se usa así...?
+<0137> Debería usar esta carta de todas formas, ¿verdad?
+<0138> Esto, eh, ¿así?
+<0139> ¡Aquí va todo!
+<0140> Repa, ¿podría tener un poco de tu tiempo?
+<0141> Muy bien Repa, te daré un poco de mi tiempo.
+<0142> ¡E-jem! Tu cabello no puede atraparme.
+<0143> Ya, está bien, ¿podrías quitar tu cabello de aquí?
+<0144> Dos.
+<0145> ¡Tres!
+<0146> ¡¡Cuatro!!
+<0147> ¡Todos unidos!
+<0148> ¡No deberías estar en mi camino!
+<0149> ¡Todos han sido derrotados!
+<0150> ¿No es lo suficientemente poderoso...?
+<0151> ¡Eso me hace lo suficientemente rápida...!
+<0152> La bruja del bosque... Aunque se ve un poco diferente.
+<0153> La bruja del bosque... No, ¿quién eres tú?
+<0154> ¿Quién rayos eres tú...?
+<0155> Pareces ser igual de fuerte que la bruja del bosque...
+<0156> ¿Qué? ¿Dos brujas del bosque...?
+<0157> ¿Quién es quién? ¡Esto es confuso!
+<0158> La bruja del bosque... ¿Acaso puede crear copias de ella misma?
+<0159> Ahí está la bruja del bosque... y ahí... ¿también está la bruja del bosque...?

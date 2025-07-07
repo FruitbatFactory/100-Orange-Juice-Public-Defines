@@ -1,0 +1,25 @@
+< SUMMER2020_A_CAST >
+name=拋竿
+descr=揮出釣魚竿。冷卻時無法使用其它能力。冷卻時間：2秒。
+
+< SUMMER2020_A_SIRENSIGHT >
+name=塞壬之視
+descr=看透水面，能夠發現其中的垃圾和魚。持續時間：10秒。冷卻時間：30秒。
+
+< SUMMER2020_A_IMPROVEDHOOK >
+name=改良魚鉤
+descr=魚鉤的下沉速度提升50%。持續時間：15秒。冷卻時間：45秒。
+
+< SUMMER2020_A_TREASURE >
+name=海洋瑰寶
+descr=釣到的下一條魚的原始分值變為兩倍。單次使用。
+
+< SUMMER2020_A_BLESSING >
+name=河川護佑
+descr=魚的游動速度提升25%。在激活時禁用除拋竿外的所有能力。可疊加。持續時間：10秒。冷卻時間：20秒。
+
+< SUMMER2020_A_MASTERY >
+name=釣魚能手
+descr=重置所有能力的冷卻時間，單次使用能力和拋竿除外。單次使用。
+
+[EOF]

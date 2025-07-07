@@ -1,0 +1,102 @@
+
+< GAME_NORMA_CLEAR >
+노르마 달성!
+
+< GAME_NORMA_ACHIEVED >
+달성한 노르마
+
+< GAME_NORMA_STARS >
+스타를 <normaamount>개 이상 모은다.
+
+< GAME_NORMA_STARS_REV >
+스타를 <normaamount>개 이하 모은다.
+
+< GAME_NORMA_STARS_10 >
+스타를 10개 이상 모은다.
+
+< GAME_NORMA_STARS_30 >
+스타를 30개 이상 모은다.
+
+< GAME_NORMA_STARS_70 >
+스타를 70개 이상 모은다.
+
+< GAME_NORMA_STARS_120 >
+스타를 120개 이상 모은다.
+
+< GAME_NORMA_STARS_200 >
+스타를 200개 이상 모은다.
+
+< GAME_NORMA_STARS_10_REV >
+스타를 10개 이하 모은다.
+
+< GAME_NORMA_STARS_30_REV >
+스타를 30개 이하 모은다.
+
+< GAME_NORMA_STARS_70_REV >
+스타를 70개 이하 모은다.
+
+< GAME_NORMA_STARS_120_REV >
+스타를 120개 이하 모은다.
+
+< GAME_NORMA_STARS_200_REV >
+스타를 200개 이하 모은다.
+
+< GAME_NORMA_WINS_SINGLE >
+적을 격퇴한다.
+
+< GAME_NORMA_WINS_MULTIPLE >
+적을 <normaamount>명 이상 격퇴한다.
+
+< GAME_NORMA_WINS_1 >
+적을 격퇴한다.
+
+< GAME_NORMA_WINS_2 >
+적을 2명 이상 격퇴한다.
+
+< GAME_NORMA_WINS_5 >
+적을 5명 이상 격퇴한다.
+
+< GAME_NORMA_WINS_9 >
+적을 9명 이상 격퇴한다.
+
+< GAME_NORMA_WINS_14 >
+적을 14명 이상 격퇴한다.
+
+< GAME_NORMA_WINS_1_REV >
+적을 격퇴한다.
+
+< GAME_NORMA_WINS_2_REV >
+적을 2명 이하 격퇴한다.
+
+< GAME_NORMA_WINS_5_REV >
+적을 5명 이하 격퇴한다.
+
+< GAME_NORMA_WINS_9_REV >
+적을 9명 이하 격퇴한다.
+
+< GAME_NORMA_WINS_14_REV >
+적을 14명 이하 격퇴한다.
+
+< GAME_NORMA_FAME >
+<normaamount> 이상의 명성에 도달한다.
+
+< GAME_NORMA_SELECT >
+노르마를 선택하세요
+
+< GAME_NORMA_ALREADYMET >
+조건 이미 충족함!
+
+< GAME_NORMA_STARS_LEFT >
+앞으로 %d스타 더!
+
+< GAME_NORMA_WINS_LEFT >
+앞으로 %d승 더!
+
+< GAME_NORMA_STARS_BUTTONDISPLAY >
+%d\n스타
+
+< GAME_NORMA_WINS_BUTTONDISPLAY >
+%d\n승
+
+[EOF]
+

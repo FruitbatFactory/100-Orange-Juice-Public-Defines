@@ -1,0 +1,110 @@
+// CampaignScenario_CodexStory_Commiseration
+// (lulu)
+<0000> Now that everything's quiet, Lulu thought she could finally take some time to swim in the lake and relax.
+// (lulu)
+<0001> But... She has this weird feeling she's being watched.
+// (watty)
+<0002> O-oh. Um. That's me. Hello.
+// (lulu)
+<0003> Oh, it's the mermaid lady!
+// (watty)
+<0004> My name's Watty, although... I don't blame you for not remembering someone useless like me...
+// (lulu)
+<0005> Whoa, you're mega depressing.
+// (watty)
+<0006> E-eh?!
+// (lulu)
+<0007> Lulu said she was just de-stressing.
+// (watty)
+<0008> Um... I'm not dumb enough to fall for that kind of thing...
+// (lulu)
+<0009> B-but it always works on Ellie.
+// (watty)
+<0010> I think that's more of a problem with her than anything else.
+// (lulu)
+<0011> S-so, why were you watching Lulu from the water? Were you peeping?
+// (watty)
+<0012> No! I just... ahhh.... I'm sorry... I'll just leave...
+// (lulu)
+<0013> You're so much work... Ahem.
+// (lulu)
+<0014> Lulu's not mad or anything, so did you want to talk?
+// (watty)
+<0015> W-well... Not really. I just wanted to... hang around you, since...
+// (lulu)
+<0016> Since?
+// (watty)
+<0017> ...since you had an even more depressing aura than me that one time.
+// (lulu)
+<0018> Ahhhhhh... Please don't remind Lulu about that! It was just a phase she was going through.
+// (watty)
+<0019> S-sorry. I didn't mean to bring up your dark history.
+// (lulu)
+<0020> Lulu was just at a sensitive time in her development... She doesn't want to think about it.
+// (watty)
+<0021> U-um, it wasn't that bad. Some of it was... a little cool, maybe.
+// (watty)
+<0022> Like, claiming to be an unlucky dragon and you were going to deliver misfortune to everyone...
+// (watty)
+<0023> There're a lot of magic chants like that.
+// (lulu)
+<0024> Waaaaaah! Lulu's cringing so hard she might die.
+// (watty)
+<0025> You seem back to normal now, though...
+// (lulu)
+<0026> Thanks to all of Lulu's friends.
+// (watty)
+<0027> That's, um, a shame. I thought maybe I would look more cheerful by comparison if I stood next to you.
+// (lulu)
+<0028> That's a little messed up.
+// (watty)
+<0029> I'm sorry...
+// (lulu)
+<0030> Ah, no. Lulu thinks you should try to have a little more self-confidence!
+// (lulu)
+<0031> Actually... ugh!
+// (watty)
+<0032> W-what's going on?
+// (lulu)
+<0033> Lulu feels like she's going to lay a lucky egg for the first time in a while!
+// (watty)
+<0034> A lucky egg? For somebody like me? Really?
+// (lulu)
+<0035> Actually, Lulu's eggs have been feeling kind of funky since everything happened, but... here goes!
+// (lulu)
+<0036> Oh, it had a ribbon inside it!
+// (watty)
+<0037> A cosmetic? I must have gotten a common drop.
+// (lulu)
+<0038> With this, you can be as cute on the outside as you are on the inside!
+// (watty)
+<0039> The insides of a fish aren't very cute.
+// (lulu)
+<0040> Geez, just wear it already.
+// (watty)
+<0041> Oh... I do actually feel cuter, but... it's really embarrassing...
+// (lulu)
+<0042> There's nothing to be embarrassed about.
+// (watty)
+<0043> It's a good kind of embarrassed. It makes me want to just go to the lake bed and squirm about for a bit.
+// (watty)
+<0044> So, um, if you don't mind...
+// (lulu)
+<0045> Wait! Lulu doesn't think that ribbon is -
+// (lulu)
+<0046> ...waterproof.
+// (watty)
+<0047> I ruined it straight away... I'm so sorry!
+// (lulu)
+<0048> It's okay. There, there. Lulu will pet your head for you.
+// (watty)
+<0049> *sniff* Your fur feels very nice.
+// (lulu)
+<0050> A lot of people say that.
+// (lulu)
+<0051> Lulu... probably isn't going to get to go swimming today, huh...
+// (watty)
+<0052> I'b sowee...
+// (lulu)
+<0053> It's okay! Maybe if Lulu lays another egg, we'll get a hankie to wipe your nose... There, there.
+

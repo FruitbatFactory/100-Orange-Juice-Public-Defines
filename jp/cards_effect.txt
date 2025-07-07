@@ -1,0 +1,759 @@
+< CARD_DASH_EFFECT >
+name=ダッシュ！
+descr=移動ダイスの数が倍になる。
+
+< CARD_FLIPOUT_EFFECT >
+name=八つ当たり
+descr=ドロップマスでスターを失った時、最もスターを多く持つ他の全ユニットは同数のスターを失う。
+
+< CARD_NICEJINGLE_EFFECT >
+name=素敵なジャラジャラ感
+descr=ボーナスマスで得るスターの数が倍になる。
+
+< CARD_EXTEND_EFFECT >
+name=エクステンド
+descr=ダウンした次の自ターンに復活する。
+
+< CARD_STIFFCRYSTAL_EFFECT >
+name=強固な結晶
+descr=トラップ効果を無効にする。無効になったトラップのレベル×5のスターを得る。
+
+< CARD_DANGEROUSPUDDING_EFFECT >
+name=デンジャラスプリン
+descr=次のターンがスキップされる。
+
+< CARD_HEAT300_EFFECT >
+name=ヒート300%
+descr=DEF-2。
+
+< CARD_SUPERALLOUTMODE_EFFECT >
+name=超絶本気モード
+descr=次のバトルでATK+2。
+
+< CARD_PROTAGONISTPRIVILEGE_EFFECT >
+name=主役の特権
+descr=自身が先行の時、敵は反撃できない(1バトルにつき1回)。
+
+< CARD_ACCELERATOR_EFFECT >
+name=アクセラレータ
+descr=移動・バトル・ボーナス・ドロップのダイスの数が倍になる。
+
+< CARD_BINDINGCHAIN_EFFECT >
+name=束縛の鎖
+descr=次のターンがスキップされる。
+
+< CARD_EXTRAORDINARYSPECS_EFFECT >
+name=出鱈目な性能
+descr=移動・バトル・ボーナス・ドロップのダイスの目が6になる。
+
+< CARD_MAGICALMASSACRE_EFFECT >
+name=殺戮魔法
+descr=1ストックにつき、次の復活ダイス時にダウンしたプレイヤー数×-1がRECに加算される。
+
+< CARD_CASTOFF_EFFECT >
+name=キャストオフ
+descr=ベースのATKとDEFの値が逆転する。ダウンか、このカードの再使用で効果を失う。
+
+< CARD_LONGEAREDBEASTS_EFFECT >
+name=舞い踊れ耳長き獣
+descr=次のバトルでATK-2。
+
+< CARD_BLAZING_EFFECT >
+name=ブレイジング！
+descr=1ストックにつきATK+1・DEF-1。ダウンで効果を失う。
+
+< CARD_SEALEDMEMORIES_EFFECT >
+name=記憶の封印
+descr=手札が裏返る。
+
+< CARD_SELFDESTRUCT_EFFECT >
+name=自爆
+descr=1ストックにつきATK+1。
+
+< CARD_CRYSTALBARRIER_EFFECT >
+name=水晶の障壁
+descr=1ストックを消費し、トラップ・バトル・ドロップのいずれかを無効にし、1ダメージを受ける。\nダウンで効果を失う。
+
+< CARD_DELTAFIELD_EFFECT >
+name=デルタフィールド
+descr=全てのダイスの目が1になる。
+
+< CARD_WHIMSICALWINDMILL_EFFECT >
+name=気まぐれ風車
+descr=このバトル中EVD+1。
+
+< CARD_HYPER_ARUSCRAMBLE_EFFECT >
+name=サンタの贈り物
+descr=他のユニットにバトルを挑めない。
+
+< CARD_HYPER_SORAMILITARY_EFFECT >
+name=才気覚醒
+descr=移動・バトル・ボーナス・ドロップのダイスの目が5になる。
+
+< CARD_JONATHANRUSH_EFFECT >
+name=ジョナサン・ラッシュ
+descr=バトル中DEF-1。
+
+< CARD_TURBOCHARGED_EFFECT >
+name=ターボ満タン
+descr=1ストックにつきATK+1。ダウンで効果を失う。
+
+< CARD_IMMOVABLEOBJECT_EFFECT >
+name=不動の物体
+descr=移動できない。同じマスに入った相手とバトルする。\nDEF+2になり、反撃できる。
+
+< CARD_GOLDENEGG_CHICKEN_EFFECT >
+name=金の卵
+descr=ドロップマスでボーナスマスの効果を得る。
+
+< CARD_GOLDENEGG_NOTCHICKEN_EFFECT >
+name=金の卵
+descr=ボーナスマスでドロップマスの効果を得る。
+
+< CARD_NATH_EFFECT >
+name=アクティブ・エクステンション
+descr=ストック×1につき、ATK・DEF+1、EVD-1。
+
+< CARD_NONAME_EFFECT >
+name=鉢植え頭
+descr=全ての基本能力値が-1。復活またはホームマス到着で効果を失う。
+
+< CARD_AMPATK_EFFECT >
+name=攻撃強化
+descr=ATK+1。
+
+< CARD_AMPDEF_EFFECT >
+name=防御強化
+descr=DEF+1。
+
+< CARD_AMPEVD_EFFECT >
+name=回避強化
+descr=EVD+1。
+
+< CARD_AMPMOV_EFFECT >
+name=移動強化
+descr=MOV+1。
+
+< CARD_AMPHP_EFFECT >
+name=体力強化
+descr=1ストックにつき最大HP+1。
+
+< CARD_AMPRECOVERY_EFFECT >
+name=復活強化
+descr=REC-1。
+
+< CARD_BOUNTY_AMPATK_EFFECT >
+name=攻撃バフ
+descr=ストック数分ATKにプラス補正
+
+< CARD_BOUNTY_AMPDEF_EFFECT >
+name=防御バフ
+descr=ストック数分DEFにプラス補正。
+
+< CARD_BOUNTY_AMPEVD_EFFECT >
+name=回避バフ
+descr=ストック数分EVDにプラス補正。
+
+< CARD_SOLIDWITCH_EFFECT >
+name=頑丈な魔女
+descr=ダメージを受けない。
+
+< CARD_HYPER_SWEETEATER_EFFECT >
+name=スイートイーター
+descr=基本能力値がATK3、DEF・EVD0。復活で消滅する。
+
+< CARD_STEALTHON_EFFECT >
+name=すてるすおん
+descr=敵からバトルを挑まれず、ブーストカードの対象にならない。\nエネミーマスとボスマスでエンカウントしない。\nバトルになると効果は失われ、そのバトル中ATK+2。
+
+< CARD_SMOKESCREEN_EFFECT >
+name=束縛のエンマク
+descr=移動ダイスの目が1~3のいずれかになる。
+
+< CARD_KIRIKO_EFFECT >
+name=おかしな薬
+descr=1ストックにつき最大HP-1。
+
+< CARD_CUTIES_EFFECT >
+name=台無しイベント
+descr=ボーナスマスからのスター+1。
+
+< CARD_SPECIALSTAGE_EFFECT >
+name=ライブモード
+descr=MOV-3、移動系マスの効果のみ得られ、カードを使えない。\n敵からバトルを挑まれず、ブーストカードの対象にならない。\n自身から2マス以内でターンを終えたプレイヤーからレベル×5のスターを奪う。\nダウンで効果を失う。
+
+< CARD_PATHBLOCKERS_EFFECT >
+name=通せんぼ
+descr=トラップのあるマスに必ず止まる
+
+< CARD_POPPOFORMATION_EFFECT >
+name=ぽっぽ化
+descr=次のバトルで基本ATK・DEF・EVD-1。
+
+< CARD_HAND_BOOST_EFFECT >
+name=手札強化
+descr=1ストックにつき最大手札数+1(上限5)。
+
+< CARD_CHEAT_EFFECT >
+name=? ? ? ? ? ?
+descr=????
+
+< CARD_CHAINBOUND_EFFECT >
+name=束縛
+descr=EVD-1・移動-1。
+
+< CARD_JOKER_EFFECT >
+name=ぽっぽジョーカー
+descr=レベル1・基本コスト0でカードを使える。
+
+< CARD_HERBAL_REMEDY_EFFECT >
+name=薬草剤
+descr=ダメージを受けない。
+
+< CARD_ACCEL_CANDY_EFFECT >
+name=アクセルハイパーキャンディー
+descr=ダイスが2つになる。
+
+< CARD_COTTONCAKE_EFFECT >
+name=フリーカード
+descr=カードコストが0になり、カード使用レベル制限も解除される。
+
+< CARD_REDBEANCREAM_EFFECT >
+name=あずきアイス
+descr=ATK+1。ダウンすると、この効果は失われる。この効果は重複しない。
+
+< CARD_ZAPPERSWORD_EFFECT >
+name=強化剣
+descr=永続的にATK+1、DEF-1。
+
+< CARD_MELONPAN_EFFECT >
+name=メロンパン
+descr=永続的にATK-1・DEF+1・EVD+1。
+
+< CARD_SMOKEBOMB_EFFECT >
+name=発煙弾
+descr=次のバトルで、敵のATK・DEF・EVD-1。
+
+< CARD_SHIELD_EFFECT >
+name=盾
+descr=被ダメージを減らし、被ダメージでストックが減る。
+
+< CARD_ELLIEATK_EFFECT >
+name=エリィ・ミラクル(ATK)
+descr=1スタック毎にATK+1。
+
+< CARD_ELLIEDEF_EFFECT >
+name=エリィ・ミラクル(DEF)
+descr=1スタック毎にDEF+1。
+
+< CARD_ELLIEEVD_EFFECT >
+name=エリィ・ミラクル(EVD)
+descr=1スタック毎にEVD+1。
+
+< CARD_LUCKYLUNCH_EFFECT >
+name=ラッキーランチ
+descr=ATK・DEF・EVD+1。
+
+< CARD_ALICIANRONE_ATK_EFFECT >
+name=スピードダメージ
+descr=通過した敵にストック分のダメージを与える。
+
+< CARD_BEASTWITCH_EFFECT >
+name=獣の貢物
+descr=ターン終了時に「獣の魔女」を捨てる。
+
+< CARD_SLOW_EFFECT >
+name=スロー
+descr=移動ダイスの目-1。
+
+< CARD_SHROOMZOOM_EFFECT >
+name=マッシュルーム・ズーム
+descr=1ストックにつきMOV+1。
+
+< CARD_SUGURI46_EFFECT >
+name=活性化
+descr=次の移動ダイスの数+1。
+
+< CARD_SUGURI46_ATK_EFFECT >
+name=回想
+descr=ATK+1。
+
+< CARD_MAYNIECOUNT_EFFECT >
+name=怒りカウンター
+descr=「レイジング・マッドネス」を使ったあと、カウンターのストック1つにつきATK・EVD＋1。
+
+< CARD_MAYNIERAGE_EFFECT >
+name=レイジングモード
+descr=1ストックにつきATK・EVD＋1。
+
+< CARD_PASSIONATERESEARCH_EFFECT >
+name=探究心
+descr=ストック分だけ、デッキの一番上のカードを見られる。
+
+< CARD_MINIGAME_TURNSKIP >
+name=ぽっぽストップ
+descr=次のターンがスキップされる。
+flavor=
+
+< CARD_MINIGAME_REVERSEMOVEMENT >
+name=ぽっぽリバース
+descr=進行方向が逆になる。
+flavor=
+
+< CARD_MINIGAME_DOUBLEDICE >
+name=ぽっぽダイス
+descr=全てのダイスロールでダイス+1。
+flavor=
+
+< CARD_MINIGAME_FROSTWALKER >
+name=ぽっぽフロストウォーカー
+descr=踏んだマスが1チャプターの間凍る。
+flavor=
+
+< CARD_XMAS2018_SNOWBALLFIGHTBAN >
+name=ひんやり
+descr=雪合戦をしかけることができない。
+flavor=
+
+< CARD_WANTED_EFFECT >
+name=お尋ね者
+descr=バトルダウン時に倍のウィンを与える。\nダウンで効果を失う。
+
+< CARD_SWEETDESTROYER_EFFECT >
+name=甘味の破壊者
+descr=デッキから引いたスイーツ系カードが「デンジャラスプリン」か「台無しプリン」にランダムに変化する。
+
+< CARD_LONELYCHARIOT_EFFECT >
+name=孤独の暴走車
+descr=移動ダイスの目が常に5になる。ターン終了時に1ダメージを受ける。ダウンで効果を失う。この効果でダウンするとレベル×5スターを失う。
+
+< CARD_PRESIDENTPRIVILEGE_EFFECT >
+name=生徒会長の役得
+descr=コストなしでカードが使える。
+
+< CARD_SANTASJOB_EFFECT >
+name=サンタのお仕事
+descr=待機中、自身の手札から使用可能レベルのカード1枚をランダムな他のプレイヤーに渡す。そのカードのレベル×5スターを得る。
+
+< CARD_BANNEDFORLIFE_EFFECT >
+name=永久追放
+descr=ギフトカードのみ使える。
+
+< CARD_EVILSPYWORKEXEC_EFFECT >
+name=悪の工作活動～始末
+descr=ターン終了時に3ダメージ受ける。
+
+< CARD_REDBEANICECREAM_EFFECT >
+name=ミラクルあずきアイス
+descr=1ストックにつきATK+1。
+
+< CARD_REDBLUE_EFFECT >
+name=アカ＆アオ
+descr=1ストックにつきATK・DEF・EVD+1。
+
+< CARD_BEASTWITCHGIFT_EFFECT >
+name=獣の魔女
+descr=他のユニットがエネミーユニットとのバトルでスターを失った場合、そのスターを代わりに得る。
+
+< CARD_UNLUCKYCHARM_EFFECT >
+name=不幸のお守り
+descr=ターン開始時にレベル分のスターを失う。
+
+< CARD_WINDYENCHANTMENT_EFFECT >
+name=疾風のエンチャント
+descr=MOV+1。ノルマチェックできない。
+
+< CARD_LOSTCHILD_EFFECT >
+name=迷子
+descr=進行方向が逆になる。ノルマチェックできない。
+
+< CARD_PRICEOFPOWER_EFFECT >
+name=力の代償
+descr=今のレベルより1つ上のカードを使える。使用コストが5増える。
+
+< CARD_POPPOSNATCHER_EFFECT >
+name=掠め取るぽっぽ
+descr=DEF-1。敵を通過する度に、その敵のレベル×3のスターを奪う。ノルマチェックできない。
+
+< CARD_BLOODLUST_EFFECT >
+name=血の渇望
+descr=ターン開始時にHP-1。与ダメージ×1のHPを回復する。ノルマチェックできない。
+
+< CARD_LUCKYCHARM_EFFECT >
+name=幸運のお守り
+descr=ターン開始時にレベル分のスターを得る。他のカードは使えない。ダウン時にレベル×3スターを追加で与える。
+
+< CARD_MONOCOQUE_EFFECT >
+name=金属製モノコック
+descr=非バトルダメージを受けた時、そのダメージを1減らす。レベル×2のスターを失う。
+
+< CARD_SAINTEYES_EFFECT >
+name=聖露眼
+descr=自身が先攻のバトルで、1ストックにつきATK+1、2ストックにつきDEF+1。
+
+< CARD_CHEFSUMMON_EFFECT >
+name=料理長お願いしますっ！
+descr=料理長が代わりにバトルする。クリスが他のユニットにバトルを挑める。
+
+< CARD_MANAGERSUMMON_EFFECT >
+name=店長お願いしますっ！
+descr=店長が代わりにバトルする。クリスが他のユニットにバトルを挑める。
+
+< CARD_MANAGERCOUNTER_EFFECT >
+name=店長カウンター
+descr=1枚制限カードを使うと獲得できる。カウンター数が4以上で自レベルが4以上の時、このカードは「店長お願いしますっ！」に変化する。
+
+< CARD_BOSSROBOBARRIER_EFFECT >
+name=ダメージ吸収シェル
+descr=1ダメージを吸収する。自動修復時にこの効果は失われる。
+
+< CARD_BOSSROBOREPAIR_EFFECT >
+name=自動修復
+descr=ターン開始時に自動修復が3ストックあるとき、1HPを回復して3ストック失う。
+
+< CARD_BOSSROBOSLOWSTART_EFFECT >
+name=スロースタート
+descr=MOV-1。
+
+< CARD_PHILOSOPHERSTONE_EFFECT >
+name=賢者の石
+descr=チャプター開始時の獲得スター+4。5チャプターごとにさらに+1。
+
+< CARD_PERMARECREDUCTION_EFFECT >
+name=ヘトヘト打破
+descr=このゲーム中ずっとREC-1。
+
+< CARD_TEMPRECREDUCTION_EFFECT >
+name=バイタルブースト
+descr=次にダウンした時のRECがストック数だけ減る。
+
+< CARD_SHOKUPAN_EFFECT >
+name=活性化
+descr=ターン開始時に、ストック数だけHPが回復する。
+
+< CARD_RADAR_EFFECT >
+name=観測者
+descr=全てのモンスターの位置がわかる。
+
+< CARD_PRECISIONGOGGLES_EFFECT >
+name=鋭い眼差し
+descr=アイテムを飛ばせる距離が2マス増える。
+
+< CARD_POISONED_EFFECT >
+name=毒状態
+descr=自身のターン開始時、ストック分のダメージを受ける。
+
+< CARD_HARBINGER_FAME >
+name=高名なザコスレイヤー
+descr=1ストックにつき+1名声（上限：6）。先駆者をダウンさせたとき、この効果で集まった名声が追加で獲得できる。
+
+< CARD_HARBINGER_SOULEATER >
+name=ソウルイーター
+descr=ストック数が3になった時、自身のHPが全回復する。さらに、他の全ユニットに破滅のストック効果を付与する。
+
+< CARD_HARBINGER_AWAKENED >
+name=目覚めたソウルイーター
+descr=永続的に最大HP+1、ATK+1、DEF-1。
+
+< CARD_DOOM_EFFECT >
+name=破滅
+descr=持続時間が0になったターンの開始時にダウンする。この効果の付与者を倒す、自身がダウンする、もしくは宿屋を訪れるとこの効果は失われる。この効果が付与されている時にダウンすると、先駆者がソウルイーターを1ストック得る。
+
+< CARD_DARKCHOCOMOUSSE_STAREATER >
+name=スターイーター
+descr=ストック数が3になった時、自身のHPが全回復する。さらに、他の全ユニットに借用書の1ストックを付与する。
+
+< CARD_DARKCHOCOMOUSSE_AWAKENED >
+name=目覚めたスターイーター
+descr=永続的に最大HP+1、ATK+1、DEF-1。
+
+< CARD_CHOCOLATEDOOM_EFFECT >
+name=借用書
+descr=持続時間が0になった時、ダークチョコレート・マゥスは自身のターン開始時に、あなたのレベル×10スターを奪い、スターイーターを1ストック獲得する。この効果の付与者を倒す、自身がダウンする、もしくは宿屋を訪れるとこの効果は失われる。
+
+< CARD_DARKCHOCOMOUSSE_FAME >
+name=高名な雑魚スレイヤー
+descr=1ストックつきに名声+1（上限6）。ダークチョコレート・マゥスを倒した際に得る名声に、この効果で集まった名声が加算される。
+
+< CARD_SPIKEDSHIELD_EFFECT >
+name=スパイクシールド
+descr=被ダメージを減らし、自身の防御ダイスの目が相手の攻撃ダイスの目より大きかったとき、被ダメージの半分を相手に与える。
+
+< CARD_BATTLEAXE_EFFECT >
+name=エグゼキューショナー
+descr=永続的にATK+1、EVD-1。
+
+< CARD_CURSEDSWORD_EFFECT >
+name=呪われた剣
+descr=ATK+2。ただし、DEF・EVD・最大HP-1。
+
+< CARD_CURSEDAXE_EFFECT >
+name=呪われた斧
+descr=20%の確率で攻撃がクリティカルヒットし、10%の確率で攻撃をはずす。
+
+< CARD_CURSEDBOUNTY_EFFECT >
+name=呪われたバウンティ
+descr=次にバウンティを完了させた時に獲得する名声+2になり、ダウンするか宿屋を訪れるまでHPと最大HPが1になる。
+
+< CARD_CURSEDMARK_EFFECT >
+name=呪印
+descr=呪われたバウンティを達成した者に訪れる絶望。
+
+< CARD_CURSEDICECREAM_EFFECT >
+name=紫豆アイス
+descr=ATK+2。ただし、最大HP-3(下限1）。ダウンすると効果を失う。
+
+< CARD_BRAVERYUP_EFFECT >
+name=大胆不敵なハンター
+descr=「先駆者」を倒すと勇気が高まり、ストック数と同数のバトルで被ダメージ-1。
+
+< CARD_CONTRACTCURSE_EFFECT >
+name=契約の呪い
+descr=呪われた契約を所持している。呪いを解かない場合、その契約は3ターン後に破棄される。
+
+< CARD_OVERTIME_EFFECT >
+name=時間外労働
+descr=移動ダイスが3つになる。
+
+< CARD_CLOCKEDOUT_EFFECT >
+name=退勤
+descr=次の自ターンがスキップされる。
+
+< CARD_HOMEIMPROVER_EFFECT >
+name=おうちリフォーム
+descr=効果が切れると、ホームマスがランダムに入れ替わる。
+
+< CARD_LUCKYSEVENS_EFFECT >
+name=ラッキーセブン
+descr=通常のダイスの目の幅が0～7になる。0が出たとき、出目の最小値は0となる。
+
+< CARD_LUCKYZERO_EFFECT >
+name=ラッキーゼロ
+descr=ノルマチェックできない。
+
+< CARD_LOSTPRESENTS_EFFECT >
+name=失くしたプレゼント
+descr=効果がなくなったとき、デッキからカードを引く。
+
+< CARD_GUIDANCE_EFFECT >
+name=風見鶏の導き
+descr=バトル時を除き、ダイスが2つになる。\nこの効果は、自ホームマスに止まると消える。\n自ホームマスでしかノルマチェックできない。
+
+< CARD_SAFEJOURNEY_EFFECT >
+name=安全な旅路
+descr=毎ターン開始時に5スター失う。\nドロップマス、トラップ、カード効果によるダメージを無効化する。この効果は、自ホームマスに止まるか、所持スターが4つ以下になると消える。
+
+< CARD_HUNGRY_EFFECT >
+name=空腹
+descr=3空腹でEVD-1。自ホームマスに止まると消える。
+
+< CARD_GUIDANCE_BH_EFFECT >
+name=風見鶏の導き
+descr=バトル時を除き、ダイスが2つになる。ホームマスに止まると、この効果は消える。
+
+< CARD_UPSHIFT_EFFECT >
+name=アップシフト
+descr=1ストックごとにMOV+1。
+
+< CARD_LONELYRIDE_EFFECT >
+name=ロンリーロード
+descr=ATK・DEF+1、EVD+2。
+
+< CARD_ZEALOUSSALESMAN_EFFECT >
+name=燃える商魂
+descr=1ストックごとにATK+1。
+
+< CARD_NEWNOBILITY_EFFECT >
+name=高貴な魅力
+descr=次のバトル開始時、ATK・DEF・EVDのいずれかが-1。
+
+< CARD_AFFLUENCE_EFFECT >
+name=プリンセスの招待状
+descr=バトルのとき、ATK-3。
+
+< CARD_BOSS_COOP_RECOVERY_DOWN >
+name=再起低下
+descr=1ストックごとにREC+1。
+flavor=
+
+< CARD_MESCAL_COOLDOWN_EFFECT >
+name=ひとりで大丈夫だもん！
+descr=メスカルがバトルを挑まれたとき、海賊子分が現れない。
+flavor=
+
+< CARD_FORCED_DEPARTURE_EFFECT >
+name=強制退場
+descr=このストック効果がなくなったとき、戦場を去る。
+
+< CARD_IDEALWORLD_EFFECT >
+name=ロボットによる支配
+descr=次のエンカウントがロボット系ユニットになる。このロボット系ユニットはATK+1。
+
+< CARD_HARDENEDSCALES_EFFECT >
+name=硬い鱗
+descr=1ストックにつきATK+1。ダウンで効果を失う。
+
+< CARD_GOODESTBOY_EFFECT >
+name=ハイパーキュートドッグ
+descr=・バトルを仕掛けたり受けたりできない。 \n・即ダウンする効果が効かない。\n・他のプレイヤーと同じマスにいるとき、どちらかのターン終了時に、そのプレイヤーの手札のランダムな1枚のカードのコピーを得る。\nダウンで効果を失う。
+
+< CARD_BOMBIMMUNITY_EFFECT >
+name=爆発耐性
+descr=次の自身のターン開始まで、爆発によるダメージを受けない。
+
+< CARD_ARTOFSWORD_EFFECT >
+name=剣の技術
+descr=戦う技術が向上。永続ATK+1。
+
+< CARD_ARTOFSHIELD_EFFECT >
+name=盾の技術
+descr=ダメージへの耐性アップ。永続DEF+1。
+
+< CARD_ARTOFEVASION_EFFECT >
+name=回避の技術
+descr=回避がうまくなる。永続EVD+1。
+
+< CARD_RESOLUTE_EFFECT >
+name=固い意志
+descr=永続で復活ダイスロール-1。
+
+< CARD_STIMULATION_EFFECT >
+name=鼓舞
+descr=永続で最大HP+1。
+
+< CARD_CARRIER_EFFECT >
+name=運び屋
+descr=最大手札数と最大契約数が永続で+1。
+
+< CARD_PREMIUMMEMBERSHIP_EFFECT >
+name=プレミアム会員資格
+descr=さすらいの商人以外の全てのショップで、購入総額から30%割引される。
+
+< CARD_JOGGER_EFFECT >
+name=ジョギング好き
+descr=移動ダイスでの移動が完了しターンを終了した時、次の移動ダイスでMOV+1。
+
+< CARD_JOGGING_EFFECT >
+name=ジョギング
+descr=次の移動ダイスで1ストックにつきMOV+1。
+
+< CARD_PLENTIFULHARVEST_EFFECT >
+name=大収穫
+descr=バウンティ完了時にスターを得る。
+
+< CARD_COMMANDER_EFFECT >
+name=司令塔
+descr=自身が召喚した味方を指揮できる。
+
+< CARD_SWEETMOUNTAIN_EFFECT >
+name=スイートマウンテン
+descr=追加でブーストカードを本来のコストの1/3で使える。
+
+< CARD_CHAOS_PROTECT_EFFECT >
+name=カオス・プロテクト
+descr=1ストック消費ごとに、最大2までの被ダメージを1にする。
+
+< CARD_CHAOS_HYPE_EFFECT >
+name=テンション
+descr=テンションアゲアゲ状態
+
+< CARD_CHAOS_RAMPAGE_EFFECT >
+name=暴走
+descr=1ストックにつきATK+1。
+
+< CARD_CHAOS_MUSCLE_EFFECT >
+name=カオス・マッスル
+descr=1ストックにつきベースATK+1（上限：ベースATK+3）。
+
+< CARD_CHAOS_GUARD_EFFECT >
+name=カオス・ガード
+descr=1ストックにつきベースDEF+1（上限：ベースDEF+3）。
+
+< CARD_CHAOS_SPEED_EFFECT >
+name=カオス・スピード
+descr=1ストックにつきベースEVD+1（上限：ベースEVD+3）。
+
+< CARD_CHAOS_LAUNCH_EFFECT >
+name=カオスな打ち上げ
+descr=自身のターン開始時、選択したマスにダイブし、そのマスから2マス圏内のユニットにレベル×1のダメージ、1マス圏内のユニットにレベル×2のダメージを与える。
+
+< CARD_CHAOS_DIVE_FATIGUE_EFFECT >
+name=ダイブ疲れ
+descr=この効果がアクティブの間、ノルマチェックできない。
+
+< CARD_HOTPOTATO_EFFECT >
+name=グレムリンを抱っこ
+descr=爆発するのは時間の問題！
+
+< CARD_SLUMBERTHREATS_EFFECT >
+name=我が封印を揺るがすもの
+descr=バトルでちょうど1ダメージを無効にした時、覚醒を1つ得る。
+
+< CARD_WAKING_EFFECT >
+name=覚醒
+descr=あなたが眠りが危機にさらされた回数。
+
+< CARD_PRISONBREAK_EFFECT >
+name=脱獄ごっこ
+descr=他のプレイヤーは、このユニットにバトルを挑んだり、ブーストカードの対象にできない。他のプレイヤーからのトラップカード、即ダウン効果、カード効果ダメージを受けない。移動ダイスが2つになる。1マス移動すると1ストック失う。
+
+< CARD_MOTHERPOWER_EFFECT >
+name=まざーぱわー
+descr=1ダメージ受ける度にレベル分のスターを得る。ユニットがアクティブの時にこの効果が切れるか置き換えられた時、HPが全回復する。ダウンすると効果を失う。
+
+< CARD_HYPERMIRACLE_EFFECT >
+name=エリィ・ハイパーミラクル
+descr=☆2ターン持続\nバトルで先制時にATK+X、後攻時にDEF・EVD+X。Xは現在のノルマ達成数。
+
+< CARD_MOMENTOFGLORY_EFFECT >
+name=元主役の活躍
+descr=★コスト：レベル×10\n自身のHPが1になる代わりに、3ターンの間ATK+4・EVD+5。
+
+< CARD_HKAIPASSIVE_EFFECT >
+name=ダディカイ
+descr=バトル以外のダメージでHPが1を下回る時、HPが1残る。代わりに次の自身のターンの終了時にHPを1失う。
+
+< CARD_CANNONBALL_EFFECT >
+name=砲弾カウンター
+descr=カードを使った時に獲得する。
+
+< CARD_BOURBON_EFFECT >
+name=壊れた羽
+descr=1ストックにつき最大HP-1。ダウンで効果を失う。
+
+< CARD_HEART_OF_RESISTANCE_EFFECT >
+name=抵抗の心
+descr=アクティブな場合、指定プレイヤーが次にバトルを挑むか挑まれたときに、そのプレイヤーの代わりにバトルする。
+
+< CARD_HYPER_POYO_EFFECT >
+name=スーパーアオハルタイム
+descr=攻撃・防御・回避・ボーナス・ドロップのダイスの出目を2倍にする。
+
+< CARD_HYPER_CHUU_EFFECT >
+name=ちょっと本気だす
+descr=1ストックにつきATK+1。敵をダウンさせてもスターを獲得できない。この効果が有効な状態で、バトルで初めてプレイヤーをダウンさせた時、2ウィンを得る。
+
+< CARD_CHAOS_SLAYER_EFFECT >
+name=討伐者の魂
+descr=あなたとソウルメイトをつなぐ不思議な絆。\nRECが1つ減少し、移動ダイスが常に2個になる。他のソウルメイトを回復したり復活させたりもできる。
+
+< CARD_CHAOS_TANK_EFFECT >
+name=タンクの魂
+descr=敵を倒すように命令されている。\nATK+2、最大HP大幅増加、即ダウン効果無効、HP減少効果無効、回復効果無効。
+
+< CARD_CHAOS_TERRORIZE_EFFECT >
+name=恐怖状態
+descr=この効果の付与後、ダウンするたびにREC+3。
+
+< CARD_HYPER_HARUKA_GLOBAL_EFFECT >
+name=盛り上げ上手
+descr=他のプレイヤーがダウンした時、そのプレイヤーはHPを全回復して即座に復活する。
+
+< CARD_HYPER_HARUKA_PERSONAL_EFFECT >
+name=他のプレイヤーがダウンした時、そのプレイヤーのレベル×5スターを得る。他の「盛り上げ上手」の効果が有効な時、この効果は重複する。
+
+< CARD_INTELLECTUALBLUFF_EFFECT >
+name=賢そうなハッタリ
+descr=自身が次に使うカードのタイプが選択されたものの場合、この効果の付与者は2ウィンとレベル×10スターを得る。\n宣言のみしたものの場合、付与者は2ダメージ受ける。
+
+[EOF]

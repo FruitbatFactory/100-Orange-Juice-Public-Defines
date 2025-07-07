@@ -1,0 +1,119 @@
+< MUTATOR_RANDOM >
+name=Random
+descr=A random Chaos Mutator will be chosen.
+
+< MUTATOR_HYPER_DECK >
+name=Hyper Deck
+descr=All cards in the deck will be changed to pre-generated Hypers.
+
+< MUTATOR_RANDOM_GENERATION >
+name=Panel Shuffle
+descr=All panels besides any Warp, and Home panels will be randomized every chapter.
+
+< MUTATOR_POPPOMANIA >
+name=Ultimate Poppomania
+descr=All Hypers drawn will be Ubiquitous.
+
+< MUTATOR_NEMESIS_DRAFT >
+name=Enemy Draft
+descr=Selected units will change owners at the beginning of the match.
+
+< MUTATOR_ULTIMATE_JOKER >
+name=Ultimate Joker
+descr=All cards will act as they were level 1 and have no cost.
+
+< MUTATOR_UNSTABLE_SELECTION >
+name=Unstable Selection
+descr=Chosen characters are changed to a random character.
+
+< MUTATOR_MIXED_JUICE >
+name=100% Mixed Juice!
+descr=All stats are randomized at the beginning of the game. All Hypers drawn will be random.
+
+< MUTATOR_MULTIPLICATION >
+name=Multiplication Sensation
+descr=All stats and durations are multiplied by 2.
+
+< MUTATOR_FAERIZE >
+name=Faerize
+descr=All players will be changed into Aurora. A friendly bot taking over the unit you chose initially will join you on your panel, and share wins and stars. Your friendly bot is the only unit capable to norma. Guide your bot to victory to win the game.
+
+< MUTATOR_MAXTENSION >
+name=Maxtension
+descr=All battle cards are replaced with Extension, which in this modifier becomes Level 1.
+
+< MUTATOR_POPPOFORMATION >
+name=Poppoformation
+descr=All players turn into Poppo for two chapters after a random interval of 2-10 chapters.
+
+< MUTATOR_FORCED_EXCHANGE >
+name=Forced Exchange
+descr=Every 5 chapters, at the start of the chapter, all cards in players hands are randomly redistributed as if Gift Exchange has been played.
+
+< MUTATOR_BOMBERJAM >
+name=Bomberjam
+descr=Everyone gets to place bombs down on their turn. It will explode after a random duration. You may also dash around a short distance.
+
+< MUTATOR_DYNAMIS_DICE >
+name=Dynamis Dice
+descr=Choose the outcome of your dice roll. Once a number is picked, it will remain unavailable until all other numbers are used.
+
+< MUTATOR_SHOPAHOLIC >
+name=Shopaholic
+descr=Bounty Hunt shops will spawn on random panels, with tweaked item selection.
+
+< MUTATOR_KNIGHTS_AND_FAERIES >
+name=Knights and Faeries
+descr=At the beginning of the match, choose either to play as a Guardian, or Aurora, with modified attributes. All Hypers drawn will be random, and unexpected events may occur.
+
+< MUTATOR_FOURHEAVENLYKINGS >
+name=Four Heavenly Kings
+descr=At the beginning of the match, pick a co-op boss to play as for the rest of the game.
+
+< MUTATOR_CHAOS_BATTLEFIELD >
+name=Chaos Battlefield
+descr=All battles last 2 rounds by default. Every 10 chapters, turn all panels into Player Encounter panels. Those fights will last 10 rounds. Gain +1 of a stat of your choice every Norma Level Up.
+
+< MUTATOR_HOT_POTATO >
+name=Hold the Gremlin
+descr=A random player gains a "Hold the Gremlin" gift card. Holding onto it will either give you stars or explode before being forcibly sent to another player.
+
+< MUTATOR_SHARING_IS_CARING >
+name=Sharing is Caring
+descr=Every chapter, everyone give their current hand to the next player.
+
+< MUTATOR_OVERINDULGENCE >
+name=Overindulgence
+descr=Max HP is 99, but revive instantly at 1 HP. Cards in the deck will be changed to Sweets type cards. Players get rewarded for having a lot of HP, but eating too much makes you sluggish!
+
+< MUTATOR_UNLIKELY_ALLIANCE >
+name=Unlikely Alliance
+descr=Norma requirements are shared with a given ally. Allies may not battle, but can heal and revive each other.
+
+< MUTATOR_TRUE_CONVERGENCE >
+name=True Convergence
+descr=Experience the original field breaker, happening every 6 chapters.
+
+< MUTATOR_CARD_MANIA >
+name=Card Mania
+descr=All cards chosen in your initial deck will be doubled. 16 hypers will be added instead of 8. Max held cards become 5 for all units, and you can play any amount of cards in your turn. Everyone draws a card every chapter.
+
+< MUTATOR_BDTT >
+name=Bring Down The Tank
+descr=Team up against a random player designated to be the Tank. The three Slayers will win the game if the Tank is defeated, while the Tank must either survive 30 chapters, or have all Slayers KO'd.
+
+< MUTATOR_SINGLE_CREDIT >
+name=Single Credit
+descr=Revive instantly when KO'd. When revived, change to a randomly designated unit.
+
+< MUTATOR_REVERSIBLE_FORTUNE >
+name=Reversible Fortune
+descr=Start with 200 Stars, and 14 Wins. Win the game by losing Norma levels, and reaching either 0 Stars or 0 Wins. Card cost is halved and cannot exceed 30 stars.
+
+< MUTATOR_TAG_TEAM >
+name=Tag Team
+descr=Team up with a partner to become the local 100% Orange Juice champion!
+
+< MUTATOR_ULTIMATE_TAG_TEAM >
+name=Ultimate Tag Team
+descr=Tag Team with a twist! Tag cooldown is reduced to 1 chapter. Tag can be used in battles.

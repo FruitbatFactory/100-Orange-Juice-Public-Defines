@@ -1,0 +1,162 @@
+<0000> Rolando...
+<0001> Hu.
+<0002> Para que se importar...
+<0003> Ora.
+<0004> Estes são inúteis.
+<0005> Se eu quiser usar essa carta eu uso.
+<0006> Sem escolha.
+<0007> Não preciso dessa coisa.
+<0008> Aqui uma armadilha...
+<0009> Que tipo de pessoa cairia nisso?
+<0010> Com sorte este daqui vai ajudar Lulu depois...
+<0011> Uma carta armadilha.
+<0012> Não vou deixar você fazer mais nada.
+<0013> Vou te fazer entender à força.
+<0014> Lulu não quer perder...
+<0015> Me deixe usar isso.
+<0016> Poder azarado...
+<0017> Ainda não fui derrotada.
+<0018> Vou ficar muito mais violenta.
+<0019> Isto está ficando divertido.
+<0020> Vou tentar mais uma vez.
+<0021> Ugh..
+<0022> Por quê...
+<0023> Mhm...
+<0024> Isto não está certo.
+<0025> As garras de Lulu são bem afiadas.
+<0026> Não se aproxime caso não queira se machucar.
+<0027> Yah!
+<0028> Eu não quero te machucar muito, mas...
+<0029> Argh.
+<0030> Pare...!
+<0031> Espertinho...
+<0032> Tsk.
+<0033> Se recuperar é necessário, não é?
+<0034> Ainda posso continuar.
+<0035> Estou completamente curada.
+<0036> Todo o dano se foi!
+<0037> Para onde...?
+<0038> Para onde que você quer levar a Lulu?
+<0039> Meus olhos...Estão girando...
+<0040> O que raios é isso...?
+<0041> Fuee...
+<0042> Não consigo mais ficar em pé...
+<0043> Lulu está fraca...
+<0044> Que desajeitada...
+<0045> A Lulu de agora está mais selvagem.
+<0046> Tente não se machucar.
+<0047> Não vou te deixar fugir.
+<0048> Vou te derrotar aqui.
+<0049> Um incômodo.
+<0050> Você é tão irritante.
+<0051> Se você quer dar uma de durão, Lulu também pode.
+<0052> Você que começou isso...!
+<0053> Tah!
+<0054> Com um golpe!
+<0055> Voe.
+<0056> Suma.
+<0057> Kya!
+<0058> Raios!
+<0059> Fui atingida...?
+<0060> Isso não é nada!
+<0061> Ugya!
+<0062> Isto é horrível...!
+<0063> Isso doeu.
+<0064> Uu...
+<0065> A Lulu é rápida.
+<0066> Você não me pode atingir.
+<0067> Aonde você estava mirando?
+<0068> Não estou aí.
+<0069> É isso que acontece quando você interrompe a Lulu...
+<0070> Saia do caminho...
+<0071> Não fui violenta o suficiente.
+<0072> Exagerei?
+<0073> A Lulu... é fraca.
+<0074> Mesmo eu tendo dado meu melhor...
+<0075> Uu... Não pode ser.
+<0076> Eu perdi...
+<0077> Vou pegar essas.
+<0078> ...Estou feliz.
+<0079> Preciso conseguir mais dessas.
+<0080> Cheio de estrelas...
+<0081> Não posso perdê-las agora.
+<0082> Não!
+<0083> Foram embora.
+<0084> Ah não!
+<0085> Armadilha!?
+<0086> Maldita armadilha!
+<0087> Não acredito que caí nisso...
+<0088> Nossa, bem nesse lugar...
+<0089> Aquilo é... um inimigo...
+<0090> A Lulu também vai com tudo...
+<0091> Não fique confiante só porque você é um pouco grande...
+<0092> É assustador, mas... vou dar meu melhor...
+<0093> Quero mais e mais estrelas...
+<0094> Esse tinindo faz a Lulu ficar relaxada.
+<0095> Vou coletar muitas...
+<0096> Céu cheio de estrelas...
+<0097> Vou derrotar todos os incômodos.
+<0098> A Lulu deve estar mais forte que antes.
+<0099> Vou lutar bastante.
+<0100> Minhas garras estão ansiosas.
+<0101> Quer  ir com a Lulu? Tanto faz...
+<0102> A Lulu parece... diferente agora? Por que será?
+<0103> Você escolheu a Lulu...?
+<0104> A Lulu vai se esforçar...
+<0105> *Suspira*... vamos se esforçar.
+<0106> Começou...!
+<0107> Se eu começo um jogo, eu devo ganhar...
+<0108> Eu não vou perder pra ninguém...
+<0109> Eu venci...?
+<0110> Ufa... Lulu conseguiu?
+<0111> Ainda bem que eu venci...
+<0112> A Lulu... ficou realmente muito forte?
+<0113> Acho que isso pode me tornar mais forte.
+<0114> Se você gostou, eu também gostei.
+<0115> Você vai... tentar usar isso, certo?
+<0116> Parece que você conseguiu algumas coisas boas aí...
+<0117> Vamos trocar.
+<0118> Você pode continuar daqui pela Lulu?
+<0119> Devíamos ajudar um ao outro.
+<0120> Vamos trabalhar juntos...
+<0121> Entendi.
+<0122> Isto é bom.
+<0123> Sim.
+<0124> De jeito algum.
+<0125> ...Ugh.
+<0126> Sorte... não é mesmo.
+<0127> Uuu?
+<0128> Vamos lá.
+<0129> Hah!
+<0130> Você pode conseguir...
+<0131> Olá.
+<0132> Um...
+<0133> Legal.
+<0134> Que honra.
+<0135> Ugh, frustrante.
+<0136> Posso usar isto também?
+<0137> Eu não sei como isto funciona... Mas lá vai.
+<0138> Não sei se posso usar isso certo, mas...
+<0139> A Lulu vai te mostrar como faz.
+<0140> Obrigada.
+<0141> As coisas não irão do jeito que você quer.
+<0142> Lulu é... Lulu.
+<0143> Lulu irá viver sua vida do jeito que ela quiser.
+<0144> Lulu... não pode deixar essa mulher fazer o que ela quiser...
+<0145> Ellie, Lulu gosta muito de você...
+<0146> Ellie... Você não está cansada de estar perto de Lulu?
+<0147> Ellie, você é a melhor... Fufufu.
+<0148> Ellie, somos amigas para sempre.
+<0149> Aqui uma estrela azarada...
+<0150> Todo mundo vai perder estrelas...
+<0151> Tantas estrelas tinindo saindo.
+<0152> Não há nada a temer se todos vocês perderem juntos.
+<0153> Lulu vai apagar a carta de todos.
+<0154> Desculpa pelas suas cartas...
+<0155> Sem cartas, vocês não conseguem interromper a Lulu...
+<0156> Lulu tem que se livrar de ameaças em potencial.
+<0157> Você gostaria... de um pouco do veneno da Lulu?
+<0158> Lulu quer que vocês todos fiquem um pouco menos ativos.
+<0159> Vocês vão parar de se mover em breve.
+<0160> Lulu está colocando todo mundo na miséria...
+<0161> Lulu vai acabar com todo mundo que tentar machucar a Ellie.

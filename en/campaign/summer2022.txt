@@ -1,0 +1,263 @@
+
+// ========= Scene: Summer 2022 Event Start =========
+
+// (ellie)
+<0000> "Oh em gee! Look how huge the lake is!"
+
+// (ellie)
+<0001> "Lulu, let's go swim in there!"
+
+// (lulu)
+<0002> "Whee! Lulu's glad we bought the swimwear!"
+
+// (ellie)
+<0003> "You look so super cute in your bikini, Lulu!"
+
+// (lulu)
+<0004> "You too, Ellie!"
+
+// (cook)
+<0005> "Hey, you two, you're not here to play in the water."
+
+// (halena)
+<0006> "A lakeside shrine... That's where you're supposed to get to."
+
+// (ellie)
+<0007> "We heard that earlier! Look, it's not comfortable walking around when it's so hot like this."
+
+// (ellie)
+<0008> "So we should take advantage of being around a lake and swim in it for a bit!"
+
+// (lulu)
+<0009> "She's right!"
+
+// (halena)
+<0010> "Well, I agree with you on the hotness and I understand how you feel..."
+
+// (lulu)
+<0011> "Wheee!"
+
+// (ellie)
+<0012> "Wheee!"
+
+// (halena)
+<0013> "Mhm..."
+
+// (halena)
+<0014> "I should've bought myself a swimsuit, too."
+
+// (cook)
+<0015> "Honestly, Cook wants to play in the water a little bit as well."
+
+// (ellie)
+<0016> "Just come in the water in those clothes. We should all have some fun here!"
+
+// (???)
+<0017> "Can't believe you girls are goofing around like that."
+
+// (ellie)
+<0018> "!? Who's there!"
+
+// (maynie)
+<0019> "Long time no see, you brats!"
+
+// (arnelle)
+<0020> "Aaahahaha! Been a while since that mushroom cave."
+
+// (ellie)
+<0021> "You're..."
+
+// (lulu)
+<0022> "That weird Ms. Treasure Hunter."
+
+// (arnelle)
+<0023> "It's Arnelle! Never forget my name again!"
+
+// (lulu)
+<0024> "Sorry."
+
+// (halena)
+<0025> "Ellie, who are those people?"
+
+// (ellie)
+<0026> "We got in some trouble together before, all because of them!"
+
+// (maynie)
+<0027> "Don't you dare put all the blame on us!"
+
+// (lulu)
+<0028> "It was such a disaster after you two ate the mushrooms..."
+
+// (arnelle)
+<0029> "It was. I hope that never happens again."
+
+// (arnelle)
+<0030> "Well, that's not important now! You guys are here at the lake, and that's got to mean..."
+
+// (maynie)
+<0031> "You guys are after the treasure in the shrine, aren't you?"
+
+// (ellie)
+<0032> "Treasure..."
+
+// (lulu)
+<0033> "In the shrine..."
+
+// (arnelle)
+<0034> "Lots of people know that there's a treasure hidden in the shrine around this lake."
+
+// (maynie)
+<0035> "But we won't let you even touch it! It will be Lady Arnelle's!"
+
+// (arnelle)
+<0036> "That's right! Unlike before, we're perfectly prepared today! All the crew of Team Arnelle is here!"
+
+// (arnelle)
+<0037> "Allow me to introduce to you Pomeranius and Watty!"
+
+// (pomeranius)
+<0038> "My apologies for not greeting you ladies sooner. I am Pomeranius."
+
+// (watty)
+<0039> "H-hello, there."
+
+// (ellie)
+<0040> "A dog."
+
+// (cook)
+<0041> "And a fish!!!!"
+
+// (arnelle)
+<0042> "Maynie's tremendous strength, Pomera's acute nose, and Watty's amazing magic power; With all of them together, Team Arnelle is invincible."
+
+// (pomeranius)
+<0043> "With all due respect, M'lady, my nose isn't functioning properly at the moment, because this fish woman here stinks of fish so awfully."
+
+// (watty)
+<0044> "I-I'm sorry...!!! It's so hot today... so I smell a lot more than usual..."
+
+// (arnelle)
+<0045> "...Oh no."
+
+// (pomeranius)
+<0046> "Although, there's no need to worry, M'lady. No one has more loyalty to you than I do."
+
+// (maynie)
+<0047> "Bullcrap! Maynie's loyalty to her is the strongest! Shut your little canine mouth!"
+
+// (pomeranius)
+<0048> "You must stop opening your mouth so that no more crass remarks come out of there and M'lady's gracefulness will not be demeaned."
+
+// (maynie)
+<0049> "You son of a...!"
+
+// (arnelle)
+<0050> "You two stop fighting."
+
+// (watty)
+<0051> "Um... w-well, I believe we should get going to the shrine now..."
+
+// (watty)
+<0052> "Those four girls... They're already on their way there."
+
+// (arnelle)
+<0053> "What the! When did they even leave!"
+
+// (pomeranius)
+<0054> "Ugh, this wouldn't have happened if some short-tempered lass didn't drag us down."
+
+// (maynie)
+<0055> "You have no right to accuse Maynie!"
+
+// (arnelle)
+<0056> "Dang it! Let's go after them!"
+
+// ========= Scene: Summer 2022 Event Ending =========
+
+// (ellie)
+<0057> "Wow, this room's shining!"
+
+// (lulu)
+<0058> "It does look like a room where a treasure's hidden!"
+
+// (cook)
+<0059> "*Sniff sniff* Good for you guys! Cook's intuition tells her this is the place."
+
+// (cook)
+<0060> "This is 'Where You Guys Are Supposed To Get To.'"
+
+// (ellie)
+<0061> "Really!?"
+
+// (halena)
+<0062> "This, in other words, is where you reach the goal of your journey."
+
+// (ellie)
+<0063> "The goal of our journey... That's..."
+
+// (arnelle)
+<0064> "Dang it! They beat us to it!"
+
+// (lulu)
+<0065> "Whoa, it's Ms. Treasure Hunter!"
+
+// (maynie)
+<0066> "Lady Arnelle! Looks like they haven't found the treasure yet!"
+
+// (arnelle)
+<0067> "Looks like it. The treasure's still in here somewhere...! Pomeranius, do you smell it?"
+
+// (pomeranius)
+<0068> "It smells strongly. More strongly than the fish woman standing right next to me."
+
+// (watty)
+<0069> "D-do I smell that bad...? I'm so so sorry."
+
+// (pomeranius)
+<0070> "Although, I'd say the smell is more of a..."
+
+// (ellie)
+<0071> "Whoa, an earthquake!?"
+
+// (halena)
+<0072> "No, seems like some kind of mechanism has been activated."
+
+// (cook)
+<0073> "A trap!?"
+
+// (halena)
+<0074> "It's not safe here. We have to get out of he-..."
+
+// (arnelle)
+<0075> "Dang, the way out is blocked!"
+
+// (ellie)
+<0076> "We're gonna be buried alive in here!?"
+
+// (lulu)
+<0077> "Lulu's lucky egg!!!!"
+
+// (ellie)
+<0078> "Lulu!"
+
+// (halena)
+<0079> "Something... just came out of the egg?"
+
+// (cook)
+<0080> "Wait, that's uh... another eggshell!?"
+
+// (lulu)
+<0081> "Everyone get in Lulu's eggshell!"
+
+// (ellie)
+<0082> "Yeah!"
+
+// (arnelle)
+<0083> "Dang it."
+
+// (lulu)
+<0084> "Lucky egg... please protect everyone..."
+
+// (ellie)
+<0085> "Aaaaaaah!"
+

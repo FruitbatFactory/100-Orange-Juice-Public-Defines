@@ -1,0 +1,160 @@
+<0000> Eeey!
+<0001> Sure, sure.
+<0002> What's it gonna be?
+<0003> There!
+<0004> I think I'll play a card here.
+<0005> This might come in handy.
+<0006> Ta-dah!
+<0007> I'm going with this!
+<0008> Heheh.
+<0009> This belongs here.
+<0010> Here's a Trap card.
+<0011> Look what I've got here.
+<0012> Battle card!
+<0013> I'm not that strong, but this card will help me win!
+<0014> For the sake of not getting hurt.
+<0015> A little power-up.
+<0016> I'll lead the way!
+<0017> Let's start walking again.
+<0018> I can do a tad more.
+<0019> I'm better now.
+<0020> Sorry for the holdup.
+<0021> I guess I need some more rest.
+<0022> Hmm.
+<0023> That was a bust.
+<0024> Arrrgh...
+<0025> Eey!
+<0026> *Slap slap*!
+<0027> Hoy!
+<0028> Tey!
+<0029> Ouch!
+<0030> That hurts!
+<0031> How dare you!
+<0032> Uuugh!
+<0033> Phew, that feels real good.
+<0034> I'm getting my energy back!
+<0035> I feel much better already.
+<0036> Oh, this is incredible!
+<0037> Hey!
+<0038> Wawawah!
+<0039> This ruins my whole travel itinerary!
+<0040> Awah!
+<0041> I can't keep standing anymore.
+<0042> Oww.
+<0043> I'd better not do things I'm not good at.
+<0044> Oh, come on.
+<0045> I might as well attack first.
+<0046> I'm ready to do this!
+<0047> I'm going to have to get you out of my way.
+<0048> Yah!
+<0049> What?!
+<0050> What's wrong with you?
+<0051> I'm scared!
+<0052> Don't do this.
+<0053> Soryah!
+<0054> Hah!
+<0055> Take this!
+<0056> Yaah yaah!
+<0057> Kyah!
+<0058> Wah!
+<0059> That hurt.
+<0060> Aaah!
+<0061> That actually hurt!
+<0062> Gyah!
+<0063> Why would you do this to me?!
+<0064> Guwah!
+<0065> That was so close.
+<0066> Oh gosh.
+<0067> Will you quit it?
+<0068> So close, so super close.
+<0069> *Sigh* I'm not the fighting type.
+<0070> Well done, me...
+<0071> Boy, that was scary.
+<0072> I almost got beaten.
+<0073> Oh no...
+<0074> Of course...
+<0075> I don't want to do this anymore...
+<0076> You jerk!
+<0077> We got us some treasure.
+<0078> Let's pick these up.
+<0079> Travel requires money.
+<0080> It's my lucky day!
+<0081> Wait, hey, wait I say!
+<0082> Oh my gosh.
+<0083> I really didn't want to see this happen!
+<0084> No...!
+<0085> Seriously?!
+<0086> This is cruel!
+<0087> Why is there a trap here!
+<0088> I can't believe I couldn't find it.
+<0089> That thing looks really dangerous.
+<0090> This is not good.
+<0091> The air feels heavy around here...
+<0092> Oh my gosh... Look what we have here.
+<0093> Money is important.
+<0094> A travel to gather stars sounds like a ton of fun, too.
+<0095> You need money to live, after all.
+<0096> Let's gather these on our way, shall we?
+<0097> Hmm, I'm not a big fan of things of that sort.
+<0098> Oh well, I guess I have no choice.
+<0099> I also sometimes feel like going wild.
+<0100> Fine fine, I'll do it.
+<0101> I'm Halena.
+<0102> You need my help?
+<0103> I'll guide you to victory.
+<0104> I'm the guide, Halena!
+<0105> A fun journey begins with the first step.
+<0106> Say, are you good in shape?
+<0107> Let's make this journey a cheerful one.
+<0108> Perfect day for traveling.
+<0109> You're glad you followed me, aren't you?
+<0110> Hmph, I'd seen the path to this victory.
+<0111> You know what a good guide I am now, right?
+<0112> I really am a fantastic guide, aren't I?
+<0113> Always be well prepared for travel.
+<0114> Take a look, I recommend this thing.
+<0115> Oh, how do you like this one?
+<0116> I like that one.
+<0117> You got this.
+<0118> Knowing your limit is a good thing.
+<0119> Right person, right place, right time.
+<0120> Let's switch.
+<0121> OK!
+<0122> That's a good call.
+<0123> I got this.
+<0124> Let's not.
+<0125> Hmm.
+<0126> Nice work.
+<0127> Hmm?
+<0128> Alright, let's get going!
+<0129> Here we go!
+<0130> I'm rooting for you.
+<0131> Hi there.
+<0132> Hm... Hmm.
+<0133> Great!
+<0134> I'm impressed.
+<0135> Uh-oh.
+<0136> I usually avoid using things I'm not too familiar with, but...
+<0137> Well, I guess I'll give it a shot.
+<0138> Why don't I try using this?
+<0139> Let's see what will happen.
+<0140> Cook! You're pulling a prank again?
+<0141> Are you in a bad mood, Cook?
+<0142> Geez, you have to behave, okay?
+<0143> You're hurting me. I already said you win!
+<0144> Hmm, I've got a sense of danger.
+<0145> I don't think it's safe there.
+<0146> There's a trap here!
+<0147> That was a close call!
+<0148> Whoooa!
+<0149> Almost got us. Phew.
+<0150> That would've been dangerous if it weren't for me.
+<0151> No use.
+<0152> Got to keep a tight grip on them.
+<0153> The stars will stay in my pockets...!
+<0154> Dropping your wallet isn't even funny.
+<0155> Ooh, we didn't drop anything!
+<0156> We arrived safely.
+<0157> We're at the destination!
+<0158> This is where you wanted to go, right?
+<0159> We're here. Yay!

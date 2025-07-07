@@ -1,0 +1,1532 @@
+< CARD_BOOST_COOP_GENTLEMANSBATTLE >
+name=Batalha de Cavalheiros
+descr=Escolha um inimigo com o HP cheio e batalhe com ele. Seu turno acaba após a batalha.
+flavor="Tome isto!" ―Guildmaster
+
+< CARD_BOOST_COOP_AMBUSH >
+name=Emboscada
+descr=Batalhe contra todas os inimigos que estão no mesmo painel que você. Seu turno acaba após as batalhas.
+flavor="Owwwww!!" ―Sham
+
+< CARD_EVENT_COOP_DINNER >
+name=Jantar
+descr=Cura todos os aliados em 3 HP.
+flavor="Vamos ter uma ceia juntos." ―Natsumi
+
+< CARD_BATTLE_COOP_SINKORSWIM >
+name=Afundar ou Nadar
+descr=Ganhe -1 ATK, -1 DEF e -1 EVD. Ganhe +10 estrelas e +1 Vitória se você vencer a batalha.
+flavor="Certo, está na hora de jogar as probabilidades longas!" ―Yuki
+
+< CARD_EVENT_COOP_UNPAIDWORK >
+name=Trabalho Não-Remunerado
+descr=Duração do Efeito: 1 Capítulo.\nQuando em efeito, jogadores não podem ser forçados a perder estrelas.
+flavor="Cadê meu pagamento!" ―Chris
+
+< CARD_EVENT_COOP_INDISCRIMINATEFIRESUPPORT >
+name=Suporte Indiscriminado Contra Incêndio
+descr=Duração do Efeito: Infinito.\nUma unidade aleatória toma 1 de dano. No começo de seu turno, repita este efeito. O efeito acaba quando uma unidade sofre nocaute.\nAliados não vão tomar dano deste efeito.
+flavor="......" ―Sora
+
+< CARD_BATTLE_COOP_DECEPTIVEDISARMING >
+name=Desarmamento Enganoso
+descr=Se você não sofrer nocaute nessa batalha, cancele a próxima ativação de carta do Chefão. Só pode ser usada contra o Chefão.
+flavor="O trêm está cheio de coisas perigosas?!" ―Tomato
+
+< CARD_EVENT_COOP_PETSNACKS >
+name=Ração
+descr=Chefão e todos os capangas ativos ganham -1 ATK em suas próximas primeiras batalhas. Este efeito pode estocar.
+flavor="Galera, está na hora do rango! Venham comer!" ―Syura
+
+< CARD_BOOST_COOP_FREIGHT >
+name=Carga
+descr=Ao parar no seu painel de Casa, descarte essa carta e ganhe 5 Estrelas.\nEsta carta é descartada após ser usada.
+flavor="Você pode ficar com toda essa carga, sim, você pode." ―Mercador
+
+< CARD_EVENT_COOP_FORCEDREVIVAL >
+name=Renascimento Forçado
+descr=Todas as unidades nocauteadas são reanimadas com metade de seu HP máximo, arredondado para cima.
+flavor="Vocês vão se levantar em um segundinho." ―Kiriko
+
+< CARD_EVENT_COOP_REBELLION >
+name=Rebelião
+descr=Duração do Efeito: 2 capítulos.\nEnquanto HP do Chefão for maior que a soma do HP de todos os jogadores, todos os jogadores irão receber +1 ATK, +1 DEF, e +1 EVD ao começo da batalha contra o Chefão.
+flavor="A Guilda irá te trair em breve... Lembre-se disso." ―Sherry
+
+< CARD_GIFT_COOP_POPPOTHESNATCHER >
+name=Poppo, a Ladra
+descr=Ganhe -1 de Defesa. Sempre que passar por um inimigo em seu turno, roube [nível do alvo x 3] estrelas dele. Não pode concluir Norma enquanto segurar esta carta. Esta carta é descartada em nocaute ou uso.
+flavor="Pokyakya!!" ―Poppo
+
+< CARD_TRAP_COOP_BANKOFPOPPO >
+name=Banco de Poppo
+descr= Chefão perde o número do Capítulo x2 estrelas, e o número do Capítulo x2 estrelas são depositadas nessa armadilha. Armadilha permanece no tabuleiro até a segunda vez que for ativada: Ganhe as estrelas depositadas.
+flavor="Meu dinheirinho...!" ―Kai
+
+< CARD_BOOST_COOP_MYWILDFRIENDS >
+name=Meus Amigos Selvagens
+descr=Invoque uma unidade aleatória amigável ao seu painel que seja uma unidade disponível do tipo selvagem. A unidade ganhará 2 HP.\nA invocação irá desafiar quaisquer inimigos e dar as estrelas que ganhar ao invocador. Repõe qualquer invocação anterior.
+flavor="É bom poder relaxar de vez em quando." ―Teotoratta
+
+< CARD_BATTLE_COOP_CONTESTOFCUTENESS >
+name=Concurso de Fofura
+descr=Só pode ser usada pelo atacante. A batalha é decidida por um concurso de fofura.\nFofura = 10 - Máx HP - ATK + EVD, mas não abaixo de 0.\nAo invés de rolar para ataque, ambas as unidades rolam dois dados e adicionam o total para sua Fofura. Se uma unidade tem mais Fofura, ela rouba 5x o nível do jogador em estrelas e ganha 1 Vitória. E então termina a batalha.
+flavor="Agora nos diga, quem é a mais fofa daqui!?" ―Saki
+
+< CARD_HYPER_COOP_ALTE >
+name=Auto-Destruição
+descr=Em nocaute, desfere dano equivalente ao seu HP máximo no inimigo. Inimigo não ganha estrelas ou vitórias, mas perde metade de suas estrelas se nocauteado por este efeito.
+flavor="Me desculpe... Não consigo mais voltar..." ―Alte
+
+< CARD_HYPER_COOP_ARU >
+name=Presentes para Vocês
+descr=Todos os jogadores compram cartas até terem uma mão cheia. Aqueles com a mão cheia compram somente 1 carta.
+flavor="Presentes para bons garotos e garotas." ―Aru
+
+< CARD_HYPER_COOP_ARTHUR2 >
+name=A Loja de Hobby Rbit
+descr=Jogadores compram uma carta do baralho. Esta carta se mantém no tabuleiro mesmo após ativada, mas pode ser recolocada por uma nova armadilha. Não possui efeitos nos inimigos ou no jogador que colocou a armadilha.
+flavor="Certo, hora de abrir a loja." ―Arthur
+
+< CARD_HYPER_COOP_ARUSCRAMBLE >
+name=Trabalho da Noel
+descr=Durante seu tempo de espera, você pode escolher outra carta que é possível de se usar no seu nível atual para entregar a algum jogador aleatório. Ganhe nível da carta x5 em estrelas. Esta carta é descartada em nocaute ou uso.
+flavor="Crianças do mundo, estamos indo até vocês!" ―Aru
+
+< CARD_HYPER_COOP_CASTLE >
+name=Objeto Imóvel
+descr=Duração do Efeito: 2 capítulos\nNão pode se mover.\nGanhe +2 Defesa. Pode contra-atacar.\nInimigos que se moverem pelo seu painel atual são obrigados a batalhar com você.
+flavor="Com este poder, tudo nos céus será nosso." ―Mestre da Guilda
+
+< CARD_HYPER_COOP_CHICKEN >
+name=Ovo Dourado
+descr=Ganhe nível x 10 estrelas.
+flavor="Cocóricóóóóó!" ―Galinha
+
+< CARD_HYPER_COOP_FERNET >
+name=Suporte Aéreo
+descr=Todos os inimigos recebem 1 a 2 de dano. Ganhe 15 estrelas por cada nocaute.
+flavor="Hmph, pereçam, todos vocês." ―Fernet
+
+< CARD_HYPER_COOP_HIME >
+name=Correntes Desabilitadoras
+descr=Efeito de Estoque\nTodos os inimigos pularão seu próximo turno. Aplique "Desabilitado" em todos os inimigos ativos. Duração do Efeito: 2 Capítulos. Ganhe -2 EVD e -1 MOV.
+flavor="Eu não gosto de fazer esse tipo de coisa." ―Hime
+
+< CARD_HYPER_COOP_IRU >
+name=Rifle Estendido de Fóton
+descr=★Custo: Nível x5\nDê 1 de dano para um inimigo aleatório. Se nocautear, ganhe uma vitória. Repita a quantidade de vezes do seu nível atual.
+flavor="Eu vou atirar em todos vocês." ―Iru
+
+< CARD_HYPER_COOP_KAE >
+name=Ardente!
+descr=Inflinge Ardente! em unidades até 2 painéis de distância, e restaura a duração se o efeito já estava ativo. Duração do Efeito: 2 Capítulos. ATK +1 se for aliado. DEF -1 se for inimigo. O efeito expira no nocaute.
+flavor="Ótimo! Ótimo! Esta sensação realmente é a melhor!" ―Kae
+
+< CARD_HYPER_COOP_KAI >
+name=Privilégio do Protagonista
+descr=Duração do Efeito: 3 capítulos\nSempre ataque primeiro, seu oponente não poderá contra-atacar (Uma vez por combate).
+flavor="Este é o privilégio do personagem principal!" ―Kai
+
+< CARD_HYPER_COOP_KIRIKO >
+name=Cirurgia Final
+descr=Nocauteie todas as unidades com 1 HP. Remova 1 estoque de Medicina Estranha e ganhe 25 estrelas por cada unidade nocauteada. Aliados nocauteados ganham -2 REC.
+flavor="Fique parado, eu irei te consertar rapidinho." ―Kiriko
+
+< CARD_HYPER_COOP_KRILAEVENT >
+name=Mestre das Pelúcias
+descr=Posiciona a armadilha "Dancem, Criaturas Orelhudas!" em 3-5 painéis aleatórios.
+flavor="Dancem, Criaturas Orelhudas!" ―Krilalaris
+
+< CARD_HYPER_COOP_KRILATRAP >
+name=Dancem, Criaturas Orelhudas!
+descr=Receba 2 de dano. O jogador que colocou esta carta ganha 1 HP. Efeito de Estoque: Durante a próxima batalha, Ataque -2.\nAliados não ativam esta carta.
+flavor="Dancem, Criaturas Orelhudas!" ―Krilalaris
+
+< CARD_HYPER_COOP_MALT >
+name=Sonho de Cor Crepúscula
+descr=★Custo: Nível x7\nDuração do Efeito: (Seu Nível) x Capítulos\nTodos os aliados ganham +1 ATK em batalhas quando estiverem em um painel de Chefão. Se um inimigo se mover até um painel com uma carta de Batalha que você colocou como Armadilha, o inimigo deve parar neste painel.
+flavor="Olhe todos esses incontáveis aviões atravessando os céus... É como ver um sonho, não é mesmo?" ―Malt
+
+< CARD_HYPER_COOP_MASTER >
+name=Banido para Sempre
+descr=★Custo: Suas estrelas divididas por 10.\nQuando usada, o Chefão irá pular sua próxima ação.
+flavor="Gerente, é a sua vez!!" ―Chris
+
+< CARD_HYPER_COOP_MARC >
+name=Grande Míssil x16
+descr=★Custo: Seu nível x10\nCause dano equivalente ao seu nível a uma unidade inimiga selecionada. Um nocaute por este efeito lhe dará 2 Vitórias.
+flavor="Preparar! Fogo!" ―Marc
+
+< CARD_HYPER_COOP_MAYNIE >
+name=Loucura Furiosa
+descr=Ganhe +1 Contador de Fúria e entre no Modo de Fúria. Durante o Modo de Fúria, ganhe +X/2 ATK e +X/2 EVD arredondados, onde X é o número de Contadores de Fúria. No começo de seu turno, perca um Contador de Fúria. Modo de Fúria acaba quando Contadores de Fúria chegarem a 0.
+flavor="Gyaoooh!" ―Maynie
+
+< CARD_HYPER_COOP_MEI >
+name=Arruínatal Branco
+descr=Descarte sua mão atual e dê 2 de dano nos inimigos que estiverem até 1 painel de distância que você.\nPara cada inimigo nocauteado, ganhe uma vitória e 5 vezes em estrelas do seu nível.\nCom uma carta "Vermelho & Azul" em mãos, esta carta vira "O Verdadeiro Arruínatal Branco". 
+flavor="Arruínatal Branco!" ―Mei
+
+< CARD_HYPER_COOP_MEITRUE >
+name=O Verdadeiro Arruínatal Branco
+descr=Dê 4 de dano nos inimigos que estiverem até 2 painéis de distância que você.\nPara cada inimigo nocauteado, ganhe duas vitórias e 10 vezes em estrelas do seu nível.\nSem uma carta "Vermelho & Azul" em mãos, esta carta vira "Arruínatal Branco".
+flavor="Arruínatal Branco!" ―Mei, Vermelho & Azul
+
+< CARD_HYPER_COOP_NATH >
+name=Outra Arma Suprema
+descr=★Custo: 10 estrelas por +1 ATK até +9 ATK.\nGanhe +1 ATK e DEF e mais +1 ATK e DEF adicionais para cada 10 estrelas gastas nessa carta.
+flavor="Agora que você se foi, eu serei a arma suprema deles." ―Nath
+
+< CARD_HYPER_COOP_NONAME >
+name=Supervisor
+descr=Encerre a batalha. Oponente luta contra um Robô Shifu ao invés de você. Só pode usar contra o inimigo chefão.
+flavor="Hahaha! Lá vem o meu amigo!" ―NoName
+
+< CARD_HYPER_COOP_POPPO >
+name=Onipresença
+descr=Se teleporte para o painel do inimigo ativo escolhido. Além disso, roube estrelas equivalente ao seu nível x10.
+flavor="Poppo! Poppopopopopo!"\n―Marie Poppo
+
+< CARD_HYPER_COOP_QPD >
+name=Sweet Guardian
+descr=Receba duas cartas Pudim. As cartas são removidas do jogo ao serem usadas ou descartadas.
+flavor="Meu pequeno... pudim..." ―QP
+
+< CARD_HYPER_COOP_SAKI >
+name=Grande Explosão
+descr=Todos os inimigos neste e em dois painéis adjacentes tomam 2 de dano, +1 de dano é adicionado a cada 2 capítulos desde que essa armadilha foi posta. Em nocaute, metade das estrelas irão para o jogador que colocou a carta.
+flavor="Mauuuuuryaaaaaaahh!" ―Saki
+
+< CARD_HYPER_COOP_SEAGULL >
+name=Investida de Jonathan
+descr=Mova-se até um inimigo e o ataque.\nAlvo ganha -1 Defesa.\nApós a batalha, seu turno acaba.
+flavor="Grasnaaado!" ―Gaivota
+
+< CARD_HYPER_COOP_SHAM >
+name=Campo Delta
+descr=O oponente durante a batalha receberá o seguinte efeito: Todos os valores dos dados serão 1.
+flavor="Se você insiste em ficar aqui, te levarei de volta custe o que custar!" ―Sham
+
+< CARD_HYPER_COOP_SHERRY >
+name=Ventania das Rosas
+descr=Enfrente o Chefão numa batalha. O Chefão ataca primeiro. Durante a batalha, ganhe Evasão +1.
+flavor="Nós só queremos voar por aí livremente." ―Sherry
+
+< CARD_HYPER_COOP_STARBREAKER >
+name=Fusível de Explosão de Estrelas
+descr=Coloque a armadilha "Bomba Invisível" em 3-5 painéis aleatórios.
+flavor="Pois eu sou Star Breaker, o fusível explosivo para o fim do mundo." ―Star Breaker
+
+< CARD_HYPER_COOP_STARBREAKER2 >
+name=Bomba Invisível
+descr=Dá 4 de dano em inimigos. Não afeta o jogador que colocou a armadilha e seus aliados. Visível para o jogador que usou esta carta e seus aliados.
+flavor="Pois eu sou Star Breaker, o fusível explosivo para o fim do mundo." ―Star Breaker
+
+< CARD_HYPER_COOP_SWEETBREAKER >
+name=Dissolvendo Memórias
+descr=★Custo: Estrelas / 10.\nEmbaralhe a ordem da mão do Chefão.\nCausa Dissolvendo Memórias em todos os inimigos. Duração do Efeito: 3 Capítulos. Efeito acaba ao ser nocauteado.
+flavor="Que tolice a sua de ter desafiado uma Deusa. Prepare-se para experimentar uma derrota bem amarga!" ―Sweet Breaker
+
+< CARD_HYPER_COOP_TEQUILA >
+name=Os Piratas Voam nos Céus?
+descr=Invoque 2 Membros da Tripulação Pirata para lutar com um inimigo aleatório. O inimigo ataca em segundo.
+flavor="Não existem leis contra piratas voando nos céus." ―Tequila
+
+< CARD_HYPER_COOP_TOMATO >
+name=Decole! Máquina Waruda!
+descr=Durante esta batalha, ganhe +1 Ataque, +1 Defesa e -1 Evasão para cada duas cartas que seus aliados possuirem.
+flavor="Vingança!" ―Tomato
+
+< CARD_HYPER_COOP_TOMOMO >
+name=Massacre Mágico
+descr=Para cada aliado nocauteado, dê 3 de dano em todos os inimigos.
+flavor="Desapareçam." ―Tomomo
+
+< CARD_HYPER_COOP_TOMOMOCASUAL >
+name=Sorvete Milagroso de Feijão Vermelho
+descr=+1 ATK com esta carta na mão.\nTomomo (Casual): Quando jogada, torne-se Tomomo (Sweet Eater) e recupere o HP por completo.\nTomomo (Sweet Eater): Com a carta na mão, esta carta se torna Vingança Mágica.\nDescarte em uso ou nocaute em batalha.
+flavor="Sorvete milagroso de feijão vermelho!" ―Tomomo
+
+< CARD_HYPER_COOP_TOMOMOSWEETEATER >
+name=Vingança Mágica
+descr=Para cada HP lhe faltando, um inimigo aleatório toma 1 de dano. Se uma unidade for nocauteada, você ganha 1 de Vitória.\nQuando não estiver na mão de Tomomo (Sweet Eater), esta carta se torna Sorvete Milagroso de Feijão Vermelho.
+flavor="É hora da Vingança Mágica!" ―Tomomo
+
+< CARD_HYPER_COOP_TSIH >
+name=Camuflagem Ativa
+descr=Duração do Efeito: 3 capítulos.\nNão pode ser desafiado por inimigos.\nNão ativa paineis de Encontro ou de Chefão.\nEfeito expira ao entrar em batalha.\nGanhe +2 ATK ao entrar em batalha.
+flavor="Veja eu desaparecendo!" ―Tsih
+
+< CARD_HYPER_COOP_YUKI >
+name=Aposta! 
+descr=Desfira em dano o seu HP máximo atual no chefão ou em si mesmo.
+flavor=Por que não usamos isto para ver quem vai primeiro?" -Yuki
+
+< CARD_HYPER_COOP_YUKIDANGEROUS >
+name=Mestra do Mal
+descr=Compre 3 cartas armadilha do baralho e depois coloque todas as cartas armadilha em mãos em casas aleatórias.
+flavor="Tema meus poderes!" ―Yuki
+
+< CARD_HYPER_COOP_ARTHUR >
+name=Estratégia para Expansão de Filial
+descr=★Custo: Número de cartas na mão x5\nTransforme todas suas cartas, incluindo esta aqui, em "A Loja de Hobby Rbit."\nVocê pode jogar mais uma carta neste turno.
+flavor="Phaaw..." ―Arthur
+
+< CARD_HYPER_COOP_MIMYUU >
+name=Trabalho de Espião Malígno - Execução
+descr=Esta carta não pode ser jogada.\nAo segurar esta carta, cure 2 de dano no final de seu turno, e remova esta carta do jogo.
+flavor="Você caiu nela! Tome isso!!!" ―Mimyuu
+
+< CARD_HYPER_COOP_NATSUMI >
+name=Hora de Cozinhar
+descr=★Custo: Nível x5\nTodos os jogadores recuperam a mesma quantidade de HP que o seu nível.
+flavor="Hora do rango!" ―Natsumi
+
+< CARD_HYPER_COOP_YUUKI_DEVIL >
+name=Mão Diabólica
+descr=Diminua o HP de um inimigo aleatório em até 5 valores, com o mínimo sendo 1 HP. Ganhe 10 estrelas por cada HP diminuído. Em capítulos ímpares, esta carta vira Mão Angélica.
+flavor="Sinta o poder do demônio!" ―Yuuki
+
+< CARD_HYPER_COOP_MIO >
+name=Inferno Mágico
+descr=Dê 5 de dano as unidades inimigas em qualquer outro painel da mesma linha ou coluna initerrúpta que sua unidade estiver. Você ganha estrelas de cada unidade inimiga nocauteada como se tivessem sido nocauteadas em batalha. Então, encerre seu turno.
+flavor="Inferno!" ―Mio
+
+< CARD_HYPER_COOP_ISLAY >
+name=Rival
+descr=Enfrente um inimigo selecionado. Você ataca primeiro. Durante a batalha, ganhe +1 ATK.
+flavor="Assim como você... Eu tenho minhas batalhas para lutar." ―Islay
+
+< CARD_HYPER_COOP_COOK >
+name=Conselho da Galinha Cata-Vento
+descr=Efeito de Estoque.\nRole 2 de dado para tudo menos para batalhas. Este efeito acaba ao ser nocauteado.
+flavor="*Pia pia*! Cook deseja ir por aqui." ―Cook
+
+< CARD_HYPER_COOP_TEOTORATTA >
+name=Bruxa Feroz
+descr=Evita perca de estrelas causadas por um Chefão ou capanga. Descarte esta carta se o efeito for ativado.
+flavor="Todas as feras! Me obedeçam!" ―Teotoratta
+
+< CARD_HYPER_COOP_CUTIES >
+name=Estágio Especial
+descr=★Custo: Nível x10\nEntre em modo Ao Vivo por (seu Nível) em turnos. Ganhe MOV -3, ative apenas painéis de movimento e não use cartas. Você não pode ser desafiado por inimigos. Se o oponente terminar seu turno em um raio de 2 painéis de distância, roube (seu Nível) x5 estrelas deles. Termina no caso de nocaute.
+flavor="Nós somos as ídolos mais fortes!" -Sora & Sham
+
+< CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE >
+name=Afluência (X)
+descr=Enfrente o chefão. Ele ganha -X ATK, onde X = nível de Afluência. Você não pode atacar. Se você não for nocauteado, o oponente te dá X vezes 20 estrelas.\nSe não for Afluência (4): Você pode ao invés disso pagar o custo dessa carta para melhorá-la.\nSe não for segurada por Fernet, esta carta vira Nova Nobreza.
+flavor="Você deseja me pedir um favor...? Minha nossa, mas é claro que eu estaria feliz em ajudar uma amiga." ―Fernet
+
+< CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE_V >
+name=Afluência (%d)
+descr=Enfrente o chefão. Ele ganha -X ATK, onde X = nível de Afluência. Você não pode atacar. Se você não for nocauteado, o oponente te dá X vezes 20 estrelas.\nSe não for Afluência (4): Você pode ao invés disso pagar o custo dessa carta para melhorá-la.\nSe não for segurada por Fernet, esta carta vira Nova Nobreza.
+flavor="Você deseja me pedir um favor...? Minha nossa, mas é claro que eu estaria feliz em ajudar uma amiga." ―Fernet
+
+< CARD_HYPER_COOP_SHIFU >
+name=Mundo Ideal
+descr=Duração do Efeito: 2 Capítulos.\nEscolha um jogador ativo. Unidades robóticas irão lutar em batalha em nome daquele jogador. Essas unidades robóticas ganharão +1 ATK.
+flavor="Tudo está sob meu controle." ―Shifu
+
+< CARD_HYPER_COOP_REIKA >
+name=Colecionadora de Estrelas
+descr=Duração do Efeito: 3 Capítulos.\nSempre que um jogador ganhar estrelas de um painel ou nocaute de batalha, ganhará um adicional Nível x estrelas.
+flavor="Fufufu, olha quantas estrelas tenho aqui." ―Reika
+
+< CARD_HYPER_COOP_WATTY >
+name=Torrente de Magia
+descr=Duração do Efeito: 3 Capítulos.\nGanhe +2 DEF. O estoque máximo de Escamas Endurecidas é aumentado para 10.\nSe você ganhar 10 estoques de Escamas Endurecidas, dê seu Nível x dano ao Chefão, e metade desse dano a todos os outros inimigos em campo.
+flavor="Is-isso é perigoso... Me desculpa." ―Watty
+
+< CARD_HYPER_COOP_POMERANIUS >
+name=O Melhor Garoto
+descr=Duração do Efeito: 3 Capítulos.\nIgnore painéis de Chefão. Ao ficar em um painel com outro jogador ao final do turno de um dos dois, ambos compram uma carta.\nVocê não pode desafiar nem ser desafiado. Jogadores podem parar para te fazer Carinho.
+flavor="*Choraminga*" ―Pomeranius
+
+< CARD_HYPER_COOP_SWEETCREATOR >
+name=Paraíso de Doce
+descr=Coloque a carta armadilha "Indulgência em Doce" em 3-5 painéis aleatórios. Paraíso de Doce só pode ser ativada por aliados.
+flavor="Este é o poder de uma Sweet God!" ―Sweet Creator
+
+< CARD_HYPER_COOP_SWEETCREATOR2 >
+name=Indulgência em Doce
+descr=Ganhe 3 cartas do tipo Doces aleatórias que não sejam Hiper.
+flavor="Eu estou prestes a te encher de doces, você querendo ou não."  ―Sweet Creator
+
+< CARD_HYPER_COOP_MIOFESTIVE >
+name=Inferno de Natal
+descr=Diminua seu HP para 1. Dê dano ao chefão equivalente ao HP que você perdeu. Dê dano equivalente a metade do HP que você perdeu para todos os outros inimigos, arredondado. Ganhe uma carta de Bolo de Natal da Mio para cada aliado nocauteado no momento.
+flavor="Eu vou mostrar o inferno a todos vocês." ―Mio
+
+< CARD_BOOST_COOP_XMASCAKE >
+name=Bolo de Natal da Mio
+descr=Escolha um dos seguintes:\n- Coma para ganhar 2 HP.\n- Compartilhe com alvo aliado para curar 2 HP dele, e então cure-se na mesma quantidade.
+flavor="Eu estou bastante orgulhosa desse bolo que fiz. Aproveite ♡" ―Mio
+
+< CARD_HYPER_COOP_KRILAPAJAMA2 >
+name=Quando Meu Sono é Interrompido
+descr=Dê X+1 de dano ao Chefão, e metade disso para todos os outros inimigos, arredondando para cima, onde X é sua contagem de Acordando. Remova todos os estoques de Acordando. Ganhe 1 HP para cada 2 estoque de Acordando removido.
+flavor="Está quase na hora de eu falar bom dia..." ―Krilalaris
+
+< CARD_HYPER_COOP_MIMYUUJAILBIRD >
+name=Escapada da Prisão de Faz de Conta
+descr=Move para seu painel de Casa sem ativá-lo. Não pode ser desafiada ou ser o alvo de cartas de Boost de outros jogadores. Imune a cartas de Armadilha e dano de carta do Chefão. Role 2 dados de movimento. Efeito acaba ao atravessar 20 painéis.
+flavor="Pitter-patter, pitter-patter!" ―Mimyuu
+
+< CARD_HYPER_COOP_DARKL >
+name=Lulu é um Dragão Sem Sorte
+descr=Só pode ser jogado com 2 HP ou menos. Ativa um dos seguintes efeitos de forma aleatória:\n-Jogar um dado. Todos os inimigos perdem o número do dado x (seu Nvl) x2 estrelas, e então você ganha a mesma quantia.\n-O Chefão vai pular sua próxima ação.\n-Todos os inimigos perdem 3 HP.
+flavor="Lulu é... um dragão sem sorte..." ―Lulu Sombria
+
+< CARD_HYPER_COOP_GRAIN >
+name=Todas as Armas Preparadas
+descr=Pague todos os Contadores de Bola de Canhão estocados. Dê 1 de dano para um inimigo aleatório. Se o inimigo é nocauteado, ganhe 1 Vitória e Estrelas equivalente a 10x o nível dele. Repita isto uma vez para cada Contador de Bola de Canhão pago.
+flavor="Todas as armas preparadas... FOGO!" ―Grain
+
+< CARD_HYPER_COOP_HARUKA >
+name=Trazendo O Hype
+descr=Duração do Efeito: 2 Capítulos.\nSempre que outro jogador sofrer nocaute, pague Nvl vezes 5 em estrelas. O jogador vai recuperar instantaneamente com HP cheio.
+flavor="Vamos hypar o jogo juntas!" ―Haruka
+
+< CARD_HYPER_COOP_KANATA >
+name=Blefe Pseudointelectual
+descr=Duração do Efeito: 3 Capítulos.\nEscolha um tipo de carta (Batalha/Boost/Evento/Outro).\nSempre que uma carta desse tipo for jogada, o jogador compra uma carta.
+flavor="Eu consigo ver quais cartas você tem na mão." ―Kanata
+
+< CARD_BOSS_COOP_DOZE >
+name=Cochilo
+descr=Sem efeito.
+flavor=
+
+< CARD_BOSS_COOP_GROUPUP >
+name=Agrupar
+descr=Todos os aliados irão teleportar para o mesmo painel aleatório.
+flavor=
+
+< CARD_BOSS_COOP_PECK >
+name=Bicada
+descr=Chefão vai dar 2 de dano para todos os jogadores no mesmo painel.
+flavor=
+
+< CARD_BOSS_COOP_FLIGHT >
+name=Voo
+descr=Movimentação invertida. Chefão vai dar dano equivalente ao nível de Chefão para cada jogador que ultrapassar.
+flavor=
+
+< CARD_BOSS_COOP_CHICKEN_ATTACK >
+name=Ataque da Galinha
+descr=Chefão vai dar uma emboscada em todos os jogadores no mesmo painel.
+flavor=
+
+< CARD_BOSS_COOP_PIYO_MARCH >
+name=Passeata dos Piyo
+descr=Todos os aliados vão receber +2 EVD em sua próxima batalha.
+flavor=
+
+< CARD_BOSS_COOP_REGENERATION >
+name=Regeneração
+descr=Todas as unidades em campo são curadas em 1 HP.
+flavor=
+
+< CARD_BOSS_COOP_PRESENT >
+name=Presente
+descr=Uma armadilha é colocada em um painel aleatório.
+flavor=
+
+< CARD_BOSS_COOP_HEADLESS_CHICKEN >
+name=Galinha Sem Cabeça
+descr=Chefão vai ganhar +2 ATK até o fim de seu turno. Se o chefão tiver menos de 50% de HP sobrando, cada inimigo além dele ganha +2 ATK e +2 EVD e irá atacar cada jogador em até 1 painel deles.
+flavor=
+
+< CARD_BOSS_COOP_CALL_OF_CHICKEN >
+name=O Chamado da Galinha
+descr=Compre e jogue uma nova carta.
+flavor=
+
+< CARD_BOSS_COOP_CHICKEN_RUN >
+name=Corrida da Galinha
+descr=Duração do Efeito: 2 Capítulos. Todos os capangas em campo ganharão +2 MOV e +1 EVD.
+flavor=
+
+< CARD_BOSS_COOP_HEN_PECKED >
+name=Bicuda da Galinha
+descr=Chefão vai atacar todos os jogadores em até 1 painel de distância, dando dano igual ao nível do Chefão.
+flavor=
+
+< CARD_BOSS_COOP_SECOND_WING >
+name=Segunda Asa
+descr=Todos os aliados serão curados por HP equivalente ao nível do Chefão x 2
+flavor=
+
+< CARD_BOSS_COOP_SWARM >
+name=Enxame
+descr=Todos os capangas em campo ganharão +2 ATK no próximo encontro, e então pularão até um jogador aleatório cada, para depois enfrentá-lo. Jogadores não podem contra-atacar. Chefão faz impulso logo em seguida.
+flavor=
+
+< CARD_BOSS_COOP_FINAL_WARNING >
+name=Aviso Final
+descr=Dê dano a um jogador aleatório equivalente ao seu HP atual. Se o Chefão tem menos de 50% de seu HP sobrando, dê dano a um inimigo aleatório equivalente ao nível do Chefão.
+flavor=
+
+< CARD_BOSS_COOP_SAVAGE_TALONS >
+name=Garras Selvagens
+descr=Dê dano equivalente ao HP atual do jogador com o menor HP. Um jogador aleatório vai tomar dano equivalente ao HP que o primeiro jogador tinha.
+flavor=
+
+< CARD_BOSS_COOP_BEAK_OF_GODBIRD >
+name=Bico do Deus Pássaro
+descr=Ataque todos os jogadores em até 1 painel de distância, começando com o jogador com o menor HP. Para cada jogador nocauteado, chefão ganha +1 ATK permanente.
+flavor=
+
+< CARD_BOSS_COOP_ROOST >
+name=Poleiro
+descr=Chefão irá invocar uma galinha capanga em seu painel atual, até no máximo 4.
+flavor=
+
+< CARD_BOSS_COOP_ROOST_HYPER >
+name=Poleiro
+descr=Chefão irá invocar duas galinhas capangas em seu painel atual, até no máximo 4.
+flavor=
+
+< CARD_BOSS_COOP_MALFUNCTION >
+name=Defeito
+descr=Dê 1 de dano a si mesmo. Não pode ir abaixo de 1 HP com este efeito.
+flavor=
+
+< CARD_BOSS_COOP_ATTACK_DOWN >
+name=Baixa nos Ataques
+descr=Duração do Efeito: 2 capítulos. Todos os jogadores ganham -2 ATK. Chefão ganha +2 ATK.
+flavor=
+
+< CARD_BOSS_COOP_QUICK_REPAIR >
+name=Restauração Rápida
+descr=Se cura em 1 HP.
+flavor=
+
+< CARD_BOSS_COOP_BALANCE_CURRENTS >
+name=Correntes do Equilíbrio
+descr=Dê 1 de dano para cada jogador por cada ponto positivo de ATK que eles tiverem. Cure cada jogador por 1 por cada ponto negativo de ATK que eles tiverem.
+flavor=
+
+< CARD_BOSS_COOP_IMMOVABLE_OBJECT >
+name=Objeto Imóvel
+descr=Duração do Efeito: 2 capítulos\nNão pode se mover.\nGanhe +2 Defesa. Pode contra-atacar.\nInimigos que se moverem pelo seu painel atual são obrigados a batalhar com você.
+flavor=
+
+
+< CARD_BOSS_COOP_EXTENDED_PHOTON_RIFLE >
+name=Raio Robô
+descr=Dê 1 de dano em um jogador aleatório. Repita uma vez por cada 5 capítulos que tiverem passado.
+flavor=
+
+< CARD_BOSS_COOP_PROTECT >
+name=Proteger
+descr=Efeito de Estoque(Nível do Chefão +1): Para cada dano que você tomar, use um estoque por cada para até 3 de dano para diminuí-lo em 1.\nSe os estoques acabarem, ganhe -2 DEF, -2 EVD E -1 MOV por 3 capítulos.
+flavor=
+
+< CARD_BOSS_COOP_PROTECT_DEBUFF >
+name=Mexidos
+descr=Duração do Efeito: 3 capítulos\nEm batalha, aplique -2 em DEF e EVD.\n-1 para jogadas de dado de Movimentação.
+flavor=
+
+< CARD_BOSS_COOP_TURBO >
+name=Turbo
+descr=Role três dados de movimento neste turno.
+flavor=
+
+< CARD_BOSS_COOP_ASSAULTFIELD >
+name=Campo de Perseguição
+descr=Coloque a armadilha "Perseguição" em 3-5 painéis aleatórios.
+flavor=
+
+< CARD_BOSS_COOP_EVASION_DOWN >
+name=Baixa na Evasão
+descr=Duração do Efeito: 2 capítulos. Todos os jogadores ganham -2 EVD. Chefão ganha +2 EVD.
+flavor=
+
+< CARD_BOSS_COOP_DEFENSE_DOWN >
+name=Baixa na Defesa
+descr=Duração do Efeito: 2 capítulos. Todos os jogadores ganham -2 DEF. Chefão ganha +2 DEF.
+flavor=
+
+< CARD_BOSS_COOP_ENGAGE >
+name=Enfrentando
+descr=Enfrente um jogador aleatório. Ganhe um adicional de +2 de ataque durante esta batalha. +1 no dado de Movimento durante este turno.
+flavor=
+
+< CARD_BOSS_COOP_SELF_DESTRUCTION >
+name=Auto Destruição
+descr=Dê 3 de dano em si mesmo. Jogadores em 3 painéis de distância tomam 1 de dano. Jogadores em 2 painéis de distância tomam mais 1 de dano. Jogadores em 1 painel de distância tomam mais 1 de dano.Chefão não pode ir abaixo de 1 HP com este efeito.
+flavor=
+
+< CARD_BOSS_COOP_SOLID_WITCH >
+name=Bruxa Resistente
+descr=Duração do Efeito: 1 capítulo.\nChefão não receberá dano.
+flavor=
+
+< CARD_BOSS_COOP_DELTA_FIELD >
+name=Campo Delta Mexido
+descr=Todos os jogadores recebem o seguinte efeito até o próximo turno do Chefão: Todos os valores dos dados serão 1, 2 ou 3.
+flavor=
+
+
+< CARD_BOSS_COOP_IMAGINARY_NUMBERS >
+name=Números Imaginários
+descr=Duração do Efeito: 1 capítulo. Jogue 7 naturais.
+flavor=
+
+< CARD_BOSS_COOP_HEALTH_DOWN >
+name=Baixa na Vitalidade
+descr=Todos os jogadores ganham Efeito de Estoque(1): HP máximo é reduzido em 1 (até um mínimo de 2). Em nocaute, jogadores removem 2 estoques do efeito.
+flavor=
+
+< CARD_BOSS_COOP_RECOVERY_MODE >
+name=Modo de Recuperação
+descr=Efeito de Estoque(1): Até a próxima batalha, pule a etapa de movimentação e recupere 2 HP por turno.
+flavor=
+
+< CARD_BOSS_COOP_PERFECT_REFLECTIVE_SHELL >
+name=Escudo Refletor Perfeito
+descr=Dê 1 de dano em cada jogador para cada ponto de dano dado no Chefão.
+flavor=
+
+< CARD_BOSS_COOP_RECOVERY_DOWN >
+name=Baixa na Recuperação
+descr=Aumenta REC em 1.
+flavor=
+
+< CARD_BOSS_COOP_EMP >
+name=EMP
+descr=Dê 1 de dano a todos os jogadores. Duração do Efeito: 2 capítulos. Jogadores afetados não podem usar cartas.
+flavor=
+
+< CARD_BOSS_COOP_RUMBLE >
+name=Estrondo
+descr=Ganhe +1 ATK por estoque.
+flavor=
+
+< CARD_BOSS_COOP_BIG_POPPO >
+name=Do Abismo
+descr=Invoque uma Grande Poppo capanga para o campo. Grande Poppo não desfere dano de combate mas rouba 3 estrelas por dano desferido. Compartilha estrelas com o Chefão. Ganhe 100 estrelas e 3 Vitórias em nocaute.\nApós ser nocauteada, terá 10 REC.
+flavor=
+
+
+< CARD_BOSS_COOP_NAP >
+name=Soneca
+descr=Perca 5 estrelas.
+flavor=
+
+< CARD_BOSS_COOP_ELUSIVE >
+name=Elusivo
+descr=Evento de Caridade, seguido de evento de Teleporte Aleatório. Neste turno, jogadores perdem Nível do Chefão x 5 estrelas e o Chefão ganha Nível do Chefão x 5 estrelas toda vez que o Chefão ou um de seus capangas entrarem em seus painéis.
+flavor=
+
+< CARD_BOSS_COOP_STAR_MANIA >
+name=Mania Estelar
+descr=Efeito de Estoque(1):\nTodo capítulo, Chefão vai ganhar +1 estrela para cada Mania Estelar ativa.
+flavor=
+
+< CARD_BOSS_COOP_POPPO_TAX >
+name=Imposto é Poppo
+descr=Cada jogador que não estiver até 2 painéis de distância do Chefão ou de um capanga ativo perderá 5 estrelas.\nChefão ganhará 5 estrelas para cada jogador afetado.\nApós isso, um evento de Teleporte Aleatório irá ocorrer.
+flavor=
+
+< CARD_BOSS_COOP_TITHE >
+name=Dízimo
+descr=Cada jogador em uma quantidade de painéis igual ao do Nível do Chefão ou de um capanga ativo perderá 10 estrelas.\nChefão ganhará 10 estrelas por cada jogador afetado.
+flavor=
+
+< CARD_BOSS_COOP_UBIQUITOUS >
+name=Onipresença
+descr=Chefão irá teleportar para o jogador mais longe possível e roubar 5 estrelas por cada nível do jogador.\nCapangas ativos irão teleportar para o jogador mais próximo e roubar 5 estrelas.\nSe existirem dois ou mais jogadores para se escolher, escolha um aleatóriamente.
+flavor=
+
+< CARD_BOSS_COOP_SNATCHER >
+name=Furto
+descr=Um jogador aleatório descartará uma carta.\nChefão ganhará 5 estrelas por cada nível da carta descartada.
+flavor=
+
+< CARD_BOSS_COOP_SKY_RESTAURANT_POPPO >
+name=Restaurante dos Céus 'Poppo'
+descr=Deixe uma armadilha "Restaurante dos Céus 'Poppo'" nos painéis onde o Chefão e todos capangas ativos estão parados:\nRecupere completamente seu HP. Pague 10 estrelas por HP curado ao Chefão.
+flavor=
+
+< CARD_BOSS_COOP_SKY_RESTAURANT_POPPO_TRAP >
+name=Restaurante dos Céus 'Poppo'
+descr=Recupere completamente seu HP. Pague 10 estrelas por HP curado ao Chefão.
+flavor=
+
+< CARD_BOSS_COOP_HIGHWAY_ROBBERY >
+name=Roubo na Rodovia
+descr=Neste turno, o Chefão ganhará +3 ATK, se movimentará em reverso e não irá parar até desafiar um inimigo.\nPara cada ponto de dano que seria dado, roube 10 estrelas no lugar.
+flavor=
+
+< CARD_BOSS_COOP_GREED >
+name=Ganância
+descr=Duração do Efeito: 1 capítulo. Chefão receberá 5 estrelas por dano que o Chefão ou capanga ativo desferir em batalha contra jogadores.
+flavor=
+
+< CARD_BOSS_COOP_WARP_PHENOMENON >
+name=Fenômeno do Teleporte
+descr=Evento de Teleporte Aleatório acontecerá 3 vezes.\nApós cada teleporte, roube 5 estrelas e dê 1 de dano em cada jogador até um painel de distância do Chefão ou de um capanga ativo.
+flavor=
+
+< CARD_BOSS_COOP_POPPOFORMATION >
+name=Poppoformação
+descr=Todos os jogadores ganharão Efeito de Estoque(1):\nNa próxima batalha, ATK, DEF e EVD bases serão -1.
+flavor=
+
+< CARD_BOSS_COOP_TEMPTATION >
+name=Tentação
+descr=Até o próximo turno do Chefão, todas as cartas são gratuitas para se jogar. Chefão ganhará 10x Nível da Carta em estrelas quando um jogador jogar uma carta.
+flavor=
+
+< CARD_BOSS_COOP_POPPO_GALAXY >
+name=Galáxia Poppo
+descr=Para cada 100 estrelas que o Chefão possuir, ele dará 1 de dano para cada jogador que não estiver até 2 painéis de distância do Chefão ou capanga ativo, até 1 HP.
+flavor=
+
+< CARD_BOSS_COOP_DEATH_AND_TAXES >
+name=Morte e Impostos
+descr=Chefão irá desferir 1 de dano para cada jogador até 2 painéis de distância dele ou de um capanga ativo para cada 50 estrelas que eles carregarem.\nPara cada nocaute, o Chefão ganhará 50 estrelas.
+flavor=
+
+< CARD_BOSS_COOP_VALUE_JUDGMENT >
+name=Julgamento Monetário
+descr=Se o valor total base de ATK de todos os jogadores juntos for positivo, desfira tal valor em dano em todos os jogadores.\nSe for negativo, cure todos os jogadores em tal valor.\nRoube ou dê 10 estrelas para cada dano dado ou curado.
+flavor=
+
+< CARD_BOSS_COOP_RANSOM_NOTE >
+name=Nota de Sequestro
+descr=Dê a todos os jogadores uma carta de presente "Nota de Sequestro":\nCusto: 10x número de outras Notas de Sequestro usadas neste capítulo.\nPague o custo ao Chefão para descartar a Nota de Sequestro. Ao fim de seu turno, sofra nocaute se estiver carregando uma Nota de Sequestro.\nSe descartada por outros meios além de jogando a carta, descarte toda sua mão.
+flavor=
+
+< CARD_COOP_BOOST_RANSOM_NOTE >
+name=Nota de Sequestro
+descr=Custo: 10x número de outras Notas de Sequestro usadas neste capítulo.\nPague o custo ao Chefão para descartar a Nota de Sequestro. Ao fim de seu turno, sofra nocaute se estiver carregando uma Nota de Sequestro.\nSe descartada por outros meios além de jogando a carta, descarte toda sua mão.
+flavor=
+
+< CARD_BOSS_COOP_POPPOCALYPSE >
+name=Poppocalípse
+descr=Duração do Efeito: 1 capítulo.\nTodos os painéis que não sejam de Chefão, teleporte e casa viram painéis de encontro. Todas as Poppos do jogo ganham +2 ATK. Poppos Selvagens dão 5 estrelas por dano de batalha desferido ao Chefão.
+flavor=
+
+< CARD_BOSS_COOP_HOARDER >
+name=Acumulador
+descr=Ao tomar dano, ganhe +1 DEF até o fim do capítulo. Este efeito pode estocar.
+flavor=
+
+< CARD_BOSS_COOP_REST >
+name=Descanso
+descr=Perca 1 de Hype.
+flavor=
+
+< CARD_BOSS_COOP_CHASE >
+name=Caça
+descr=Impulso. Para cada jogador que o Chefão enfrentar neste turno, ganhe 1 de Hype.
+flavor=
+
+< CARD_BOSS_COOP_PLAY >
+name=Brincar
+descr=Ganhe 1 de Hype.
+flavor=
+
+< CARD_BOSS_COOP_TIRE_OUT >
+name=Exausto
+descr=Todos os jogadores ativos sofrerão Cansaço. Duração do Efeito: 2 capítulos. +1 REC no próximo nocaute.
+flavor=
+
+< CARD_BOSS_COOP_TIRED >
+name=Exausto
+descr=Duração do Efeito: 2 capítulos. +1 REC no próximo nocaute.
+flavor=
+
+< CARD_BOSS_COOP_PUDDING_SEEKER >
+name=Caçadora de Pudim
+descr=Perca 1 de Hype. Compre e execute uma nova carta.
+flavor=
+
+< CARD_BOSS_COOP_BIRDS >
+name=Pássaros
+descr=Todos os jogadores tomam 1 de dano. Ganhe 1 de Hype para cada jogador nocauteado por este efeito.
+flavor=
+
+< CARD_BOSS_COOP_SEAGULL_FRIEND >
+name=Amiga das Gaivotas
+descr=Coloque a armadilha "Dança das Gaivotas" debaixo do Chefão: desfira 2 de dano e o Chefão ganha 1 de HP e 1 de Hype. Efeito de Estoque(1): Na próxima batalha, ganhe -2 ATK.
+flavor=
+
+< CARD_BOSS_COOP_DANCE_OF_SEAGULLS >
+name=Dança das Gaivotas
+descr=Desfira 2 de dano e o Chefão ganha 1 de HP e 1 de Hype. Efeito de Estoque(1): Na próxima batalha, ganhe -2 ATK.
+flavor=
+
+< CARD_BOSS_COOP_PLAY_TAG >
+name=Pega-pega
+descr=Chefão irá ganhar +2 ATK até seu próximo turno. Ganhe 1 de Hype para cada jogador que o chefão lutar até o fim de seu turno.
+flavor=
+
+< CARD_BOSS_COOP_HIDE_AND_SEEK >
+name=Esconde-esconde
+descr=Teleporte para um painel aleatório. Chefão não irá se mover até a próxima batalha. Ganhe 2 de Hype para cada turno seguinte do Chefão enquanto ativo.
+flavor=
+
+< CARD_BOSS_COOP_SPLASH_WATER >
+name=Jorrada de Água
+descr=Todos os jogadores em um raio de até dois painéis de distância do Chefão tomarão (Nível do Chefão) de dano. Ganhe 1 de Hype para cada alvo atingido.
+flavor=
+
+< CARD_BOSS_COOP_PSYCHED_UP >
+name=Entusiasmada
+descr=Duração do Efeito: 2 capítulos. Ganhe +2 MOV. Ganhe 1 de Hype.
+flavor=
+
+< CARD_BOSS_COOP_PLAY_WITH_BIRDS >
+name=Brincando Com os Pássaros
+descr=Duração do Efeito: 1 capítulo. Quando um capanga tomar dano em batalha, Chefão ganhará 1 de Hype e, junto de todos os capangas ativos, +1 ATK.
+flavor=
+
+< CARD_BOSS_COOP_SEAGULL_MASTER >
+name=Mestra das Gaivotas
+descr=Coloque a armadilha "Dança das Gaivotas" debaixo do Chefão e de cada capanga: desfira 2 de dano e o Chefão ganha 1 de HP e 1 de Hype. Efeito de Estoque(1): Na próxima batalha, ganhe -2 ATK.
+flavor=
+
+< CARD_BOSS_COOP_WATERMELON_SPLITTING >
+name=Divisão da Melância
+descr=Até o fim de seu turno, Chefão ganhará +5 ATK e não irá parar quando desafiar um inimigo. Para cada jogador nocauteado, ganhe 2 de Hype.
+flavor=
+
+< CARD_BOSS_COOP_EXHAUSTION >
+name=Exaustão
+descr=Ganhe 1 de Hype.\nTodos os jogadores ativos soferão Exausto. Duração do Efeito: 2 capítulos. +2 REC no próximo nocaute.
+flavor=
+
+< CARD_BOSS_COOP_EXHAUSTED >
+name=Exausto
+descr=Duração do Efeito: 2 capítulos. +2 REC no próximo nocaute.
+flavor=
+
+< CARD_BOSS_COOP_PUDDING_BREAK >
+name=Pausa para o Pudim
+descr=Recupere 4 de HP. Ganhe 2 de Hype.
+flavor=
+
+< CARD_BOSS_COOP_HYPE_IT_UP >
+name=Hypando com Tudo
+descr=Ganhe 4 de Hype. Até seu próximo turno, Chefão ganha +1 ATK, +1 DEF, -1 EVD e perderá 1 de Hype quando tomar dano em batalha. Perca 2 de Hype se nocauteado em batalha.
+flavor=
+
+< CARD_BOSS_COOP_SANDWICH_THIEVES >
+name=Ladrões de Lanches
+descr=Todos os jogadores tomam 1-3 de dano. Ganhe 1 de Hype para cada jogador nocauteado por este efeito.
+flavor=
+
+< CARD_BOSS_COOP_HYPE_MODE >
+name=Modo Hype
+descr=Ganhe +2 ATK e +1 DEF em batalha. Sempre que o Chefão sofrer nocaute, ele irá se recuperar no próximo turno.
+flavor=
+
+< CARD_BOSS_COOP_RAMPAGE >
+name=Alvoroço
+descr=Diminua o Hype para 0. Todos os jogadores tomam 1 de dano para cada estoque de Alvoroço. Neste turno, role 2x para movimento e não pare ao desafiar um inimigo. Ganhe Nível do Chefão x 1 em HP.
+flavor=
+
+< CARD_BOSS_COOP_RAMPAGE_HYPER >
+name=Alvoroço
+descr=Diminua o Hype para 0. Todos os jogadores tomam 1 de dano para cada estoque de Alvoroço. Neste turno, role 2x para movimento e não pare ao desafiar um inimigo. Ganhe +1 permanente em ATK e Nível do Chefão x 1 em HP.
+flavor=
+
+< CARD_BOSS_COOP_HYPE >
+name=Hype
+descr=
+flavor=
+
+< CARD_BOSS_COOP_SNACKS >
+name=Petiscos
+descr=Um jogador aleatório irá curar 1 HP.
+flavor=
+
+< CARD_BOSS_COOP_SCREECH >
+name=Guinchar
+descr=Dê 1 de dano aos jogadores no raio de (Nível do Chefão).
+flavor=
+
+< CARD_BOSS_COOP_RAKE >
+name=Ancinho
+descr=Dê (Nível do Chefão) de dano em jogadores no raio de até um painel de distância.
+flavor=
+
+< CARD_BOSS_COOP_CLOUD_OF_SEAGULLS >
+name=Nuvem de Gaivotas
+descr=Dê 2 de dano a um jogador aleatório.
+flavor=
+
+< CARD_BOSS_COOP_RUSH >
+name=Investida
+descr=Chefão irá se mover até um jogador aleatório e enfrentá-lo.
+flavor=
+
+< CARD_BOSS_COOP_CHASE_AROUND >
+name=Pega-pega
+descr=Todas as unidades são teleportadas a painéis aleatórios.
+flavor=
+
+< CARD_BOSS_COOP_QUAKE >
+name=Tremor
+descr=Duração do Efeito: 1 capítulo.\nTodos os jogadores ganharão -2 MOV.
+flavor=
+
+< CARD_BOSS_COOP_AIR_RAID >
+name=Ataque Aéreo
+descr=Dê 1 de dano a todos os jogadores.
+flavor=
+
+< CARD_BOSS_COOP_RUSH2 >
+name=Investida Dupla
+descr=Chefão irá se mover até um jogador aleatório e enfrentá-lo. E então, o Chefão irá repetir a ação em outro jogador aleatório.
+flavor=
+
+< CARD_BOSS_COOP_SWIPE >
+name=Deslize
+descr=Teleporte um jogador aleatório para o painel onde o Chefão está, e então enfrente-o.
+flavor=
+
+< CARD_BOSS_COOP_HUNT >
+name=Caça
+descr=Ao fim da jogada do Chefão, enfrente todos os jogadores no raio de até 1 painel de distância para batalhar em uma ordem aleatória.
+flavor=
+
+< CARD_BOSS_COOP_FALSE_HOPE >
+name=Falsa Esperança
+descr=Um jogador aleatório irá curar o HP por completo. Dê dano equivalente à quantia curada em todos os outros jogadores.
+flavor=
+
+< CARD_BOSS_COOP_SNATCH >
+name=Arrebatar
+descr=Um jogador aleatório irá descartar uma carta. Se era uma carta de boost, o Chefão irá curar 1 HP. Se era uma carta de batalha, o jogador irá tomar 2 de dano.
+flavor=
+
+< CARD_BOSS_COOP_AIR_STRIKE >
+name=Pancada Aérea
+descr=Dê 1-3 de dano a todos os jogadores.
+flavor=
+
+< CARD_BOSS_COOP_MEGA_RUSH >
+name=Mega Investida
+descr=Chefão irá se mover para cada jogador em uma ordem aleatória e enfrentá-los.
+flavor=
+
+< CARD_BOSS_COOP_FRANTIC >
+name=Frenético
+descr=O Chefão irá teleportar para um local aleatório 3 vezes. Após cada teleporte, dê 2 de dano para todas as unidades até 2 painéis de distância do chefão.
+flavor=
+
+< CARD_BOSS_COOP_WAVE_OF_DESPAIR >
+name=Ondas de Desespero
+descr=Para cada jogador atualmente nocauteado, dê 2 de dano para todos os jogadores.
+flavor=
+
+< CARD_BOSS_COOP_AURA_OF_TERROR >
+name=Aura de Terror
+descr=Dê 1 de dano a todos os jogadores. Se ao menos 1 jogador for nocauteado por este efeito, repita a ação.
+flavor=
+
+< CARD_BOSS_COOP_LAUNCH >
+name=Lançar
+descr=Marque um painel aleatório que não seja de teleporte. Por 1 capítulo, painéis que não sejam de teleporte em um raio de 2 painéis de distância do painel marcado virarão painéis de Chefão. Chefão deixará o campo. Se não estiver em campo no começo do turno do Chefão, jogue Mergulho.
+flavor=
+
+< CARD_BOSS_COOP_DIVE >
+name=Mergulho
+descr=Chefão irá retornar ao painel marcado. Todos os jogadores no painel marcado sofrerão nocaute. Personagens em até 2 painéis de distância tomam (Nível do Chefão) em dano. O painel marcado se torna em painel de Dano. Compre e jogue uma nova carta.
+flavor=
+
+< CARD_BOSS_COOP_IDENTITY_CRISIS >
+name=Crise de Identidade
+descr=Dê 1 de Dano a si mesmo. Ganhe 5 estrelas.
+flavor=
+
+< CARD_BOSS_COOP_ROBO_TAX >
+name=Imposto é Robô
+descr=Cada jogador que não está em um raio de 3 painéis de distância do chefão ou de um capanga perde 5 estrelas. Ganhe 5 estrelas e +1 DEF até o próximo turno do Chefão para cada jogador afetado.
+flavor=
+
+< CARD_BOSS_COOP_PLUCK >
+name=Arrancada
+descr=Dê 2 de dano para todos os jogadores no mesmo painel. Chefão ganha 10 estrelas por cada unidade afetada.
+flavor=
+
+< CARD_BOSS_COOP_CATCHER >
+name=Apanhador
+descr=Um jogador aleatório descarta uma carta e então compra uma carta. Ganhe 5 estrelas por Nível da carta comprada.
+flavor=
+
+< CARD_BOSS_COOP_POPPO_MARCH >
+name=Marcha da Poppo
+descr=Efeito de Estoque (1) no Chefão e todos os capangas em campo.\nNa próxima batalha, ganhe +2 EVD. Chefão ganha 20 estrelas.
+flavor=
+
+< CARD_BOSS_COOP_PREMIUM_REGENERATION >
+name=Regeneração Premium
+descr=Todas as unidades em campo recuperam 1 HP. Chefão ganha 20 estrelas.
+flavor=
+
+< CARD_BOSS_COOP_WIRELESS_CHICKEN >
+name=Galinha sem Fio
+descr=Se o chefão tiver menos de 50% de HP sobrando, o Chefão e cada um dos outros aliados ganham +2 ATK até o fim do turno do Chefão e irão atacar cada jogador até 1 painel de distância deles. Ganhe 10 estrelas para cada jogador afetado.
+flavor=
+
+< CARD_BOSS_COOP_ROPO_BARRAGE >
+name=Barragem RoPo
+descr=Custo: 30 estrelas. Duração do Efeito: Infinito. Um jogador aleatório toma 1 de dano. No começo de cada turno do Chefão, repita este efeito. O efeito acaba quando a unidade sofrer nocaute. Se o custo não pode ser pago, ganhe 60 estrelas no lugar.
+flavor=
+
+< CARD_BOSS_COOP_DELUSIONAL_NUMBERS >
+name=Números Ilusórios
+descr=Cost: 20 estrelas. Duração do Efeito: 1 capítulo. Chefão irá rolar 0 ou 7 naturais. Se o custo não puder se pago, ganhe 40 estrelas no lugar.
+flavor=
+
+< CARD_BOSS_COOP_SECOND_WING2 >
+name=Segunda Asa
+descr=Chefão e todos os capangas curam o equivalente ao Nível do Chefão. Roube 2 estrelas por HP recuperado.
+flavor=
+
+< CARD_BOSS_COOP_PO_BOMBER >
+name=Po-Bombardeiro
+descr=Custo: 5 estrelas por bomba. Crie 2-3 bombas invisíveis em painéis aleatórios.
+flavor=
+
+< CARD_BOSS_COOP_PO_BOMBER_TRAP >
+name=Bomba Invisível
+descr=Reduz o HP para 1. Não afeta Chefões ou aliados.
+flavor=
+
+< CARD_BOSS_COOP_POPPO_UNIVERSE >
+name=Universo Poppo
+descr=Custo: 50 estrelas. Para cada 50 estrelas que o Chefão carregar, dê 1 de dano a todos os jogadores até 3 painéis do Chefão ou um capanga. Se o custo não puder ser pago, ganhe 100 estrelas no lugar.
+flavor=
+
+< CARD_BOSS_COOP_POPPOCARE >
+name=SPS: Sistema Poppo de Saúde
+descr=Reviva todos os jogadores nocauteados com 1 HP. Teleporte para cada jogador com 1 HP em uma ordem aleatória e os enfrente. Ganhe 30 para cada jogador nocauteado KO'd.
+flavor=
+
+< CARD_BOSS_COOP_REFINED_TALONS >
+name=Garras Refinadas
+descr=Custo: 50 estrelas. Acerte o jogador com o menor HP. Dê X de dano a este jogador e a outra unidade aleatória, onde X é o HP do primeiro jogador afetado. Se o custo não puder ser pago, ganhe 100 estrelas no lugar.
+flavor=
+
+< CARD_BOSS_COOP_BEAK_OF_DEMIBIRD >
+name=Bico do Demi-Pássaro
+descr=Até o fim do tunro do Chefão, ganhe +2 ATK. Ataque todos os jogadores em um raio de até 2 painéis de distância em ordem do menor HP. Para cada jogador nocauteado, ganhe +100 estrelas.
+flavor=
+
+< CARD_BOSS_COOP_TURBO_CHICKEN >
+name=Galinha Turbo
+descr=Até o fim do turno do Chefão, ganhe +1 movimento de dado e não pare ao desafiar um inimigo. Ganhe +1 ATK e 25 estrelas para cada jogador enfrentado até o fim do turno.
+flavor=
+
+< CARD_BOSS_COOP_BIG_PO_SPECIAL >
+name=O Especial da Grande Po
+descr=Custo: 100 estrelas. Efeito de Estoque (2): No começo do turno do Chefão, um jogador toma (Nível do Chefão) de dano. Se o custo não puder ser pago, ganhe 200 estrelas no lugar.
+flavor=
+
+< CARD_BOSS_COOP_BALANCE_CURRENCY >
+name=Moeda de Saldo
+descr=Roube 5 estrelas de cada jogador para cada ponto de ATK positivo que eles tiverem. Dê cada jogador 5 estrelas para cada ponto de ATK negativo que eles tiverem.
+flavor=
+
+< CARD_BOSS_COOP_ROOST_BOOST >
+name=Impulso do Poleiro
+descr=Se não tiverem Capangas galinha, invoque um Capanga galinha no painel onde o Chefão estiver.
+flavor=
+
+< CARD_BOSS_COOP_ROOST_BOOST_HYPER >
+name=Impulso do Poleiro
+descr=Se tiverem menos de 2 Capangas galinha, invoque um Capanga galinha no painel onde o Chefão estiver.
+flavor=
+
+< CARD_BOSS_COOP_PO_TECT >
+name=Po-teção
+descr=Custo: 20 estrelas. Efeito de Estoque(Nível do Chefão): Para cada dano que você tomar, consuma um estoque para cada até 2 de dano para diminuir a 1. Se os estoques acabarem, ganhe -1 DEF, -1 EVD E -1 MOV por 3 capítulos.
+flavor=
+
+< CARD_BOSS_COOP_FLOAT >
+name=Flutuar
+descr=Sem efeito.
+flavor=
+
+< CARD_BOSS_COOP_WHIRL >
+name=Turbilhão
+descr=Todo jogador até os painéis em Número de Nível do Chefão de um capanga teleporta para um painel aleatório.
+flavor=
+
+< CARD_BOSS_COOP_BUBBLE_BATH >
+name=Banho de Espuma
+descr=Cure um Capanga aleatório em 1 HP.
+flavor=
+
+< CARD_BOSS_COOP_ENTRY_FEE >
+name=Custo de Entrada
+descr=Todo jogador até 2 painéis de um capanga perde estrelas equivalente ao Nível do Chefão.
+flavor=
+
+< CARD_BOSS_COOP_GULP_OF_WATER >
+name=Gole de Água
+descr=Dê 2 de dano a um jogador aleatório.
+flavor=
+
+< CARD_BOSS_COOP_COACHING >
+name=Coaching
+descr=Até o fim do capítulo, todos os capangas ganham +1 ATK.
+flavor=
+
+< CARD_BOSS_COOP_CONFISCATE >
+name=Confiscar
+descr=Todo jogador ativo em um painel com um capanga ativa irá descartar uma carta.
+flavor=
+
+< CARD_BOSS_COOP_SHOCK >
+name=Choque
+descr=Todo capanga dá 1 de dano em cada jogador até Nível do Chefão painéis.
+flavor=
+
+< CARD_BOSS_COOP_GO_FASTER >
+name=Vá Mais Rápido!
+descr=Duração do Efeito: 2 capítulos.\nSuas Boias ganham +2 MOV e +2 ATK.
+flavor=
+
+< CARD_BOSS_COOP_RESPITE >
+name=Pausa
+descr=Todo Poste irá curar toda unidade até 2 painéis em 1 HP.
+flavor=
+
+< CARD_BOSS_COOP_PACE_UP >
+name=Aumentar a velocidade
+descr=Duração do Efeito: 3 capítulos. Todos os capangas ganham +1 ATK e -1 EVD.
+flavor=
+
+< CARD_BOSS_COOP_HUSTLE >
+name=Empurrão
+descr=Todo Poste dará 5 de dano a um jogador aleatório no mesmo painel que ele.
+flavor=
+
+< CARD_BOSS_COOP_MOTIVATE >
+name=Motivatar
+descr=Um jogador aleatório tomará dano equivalente ao número de Postes ativos.
+flavor=
+
+< CARD_BOSS_COOP_TROPICAL_CYCLONE >
+name=Ciclone Tropical
+descr=Todo capanga marca um painel aleatório (sem ser de teleporte). Após um capítulo, todo capanga teleporta para o painel marcado e dá em dano o Nível do Chefão para todo jogador até 2 painéis de distância.
+flavor=
+
+< CARD_BOSS_COOP_BUTTERFLY >
+name=Borboleta
+descr=Duração do Efeito: 2 capítulos. Todos os capangas ganham +2 ATK e +1 MOV.
+flavor=
+
+< CARD_BOSS_COOP_ZAP >
+name=Zap
+descr=Todo capanga dá dano equivalente ao Nível do Chefão a todo jogador até 1 painel de distância.
+flavor=
+
+< CARD_BOSS_COOP_ENCOURAGE >
+name=Encorajar
+descr=Seu Balão irá se mover para o painel com o jogador mais próximo deles e enfrentá-lo. Ele ganha +3 ATK nessa batalha. Se o jogador for derrotado, ele irá repetir essa ação para o próximo jogador mais próximo dele.
+flavor=
+
+< CARD_BOSS_COOP_MOVING_GOALPOST >
+name=Movendo o Poste
+descr=Todo Balão e Boia de Natação irá dar dano a todos os jogadores equivalente ao número de capangas de Poste até 2 painéis de distância.
+flavor=
+
+< CARD_BOSS_COOP_GOALPOST >
+name=Poste
+descr=Se tiver menos que 5 capangas de Poste em campo, invoque um capanga de Poste e tome 2 de dano. Nunca se mova ou faça evasão. Postes só podem tomar dano de ataques que dão 1 de dano.
+flavor=
+
+< CARD_BOSS_COOP_BALLOON_JERK >
+name=Balão
+descr=Se não tiver nenhum capanga de Balão em campo, invoque um capanga de Balão e tome 12 de dano.
+flavor=
+
+< CARD_BOSS_COOP_SWIMMING_RINGER >
+name=Boia de Natação
+descr=Se tiver menos que 2 capangas de Boias de Natação em campo, invoque um capanga de Boia de Natação e tome 6 de dano. Boias de Natação possuem -1 MOV.
+flavor=
+
+< CARD_BOSS_COOP_HOME_SWEEPER >
+name=Limpeza na Casa
+descr=Todas as casas dos jogadores são removidas pelo resto do jogo.
+flavor=
+
+
+
+
+< CARD_HYPER_COOP_CLASS_ATTACKER >
+name=Banho de Sol da Arma Suprema
+descr=Dê +3 de dano por cada ataque em sua próxima batalha.
+flavor="Eu irei... começar minhas férias agora." ―Sora
+
+< CARD_HYPER_COOP_CLASS_GUARDIAN >
+name=Salva-vidas na Praia Branca
+descr=Todos os aliados ganham Efeito de Estoque(1): Na próxima batalha, tome 2 a menos de dano.
+flavor="Poxa, você está indo longe demais." ―Suguri
+
+< CARD_HYPER_COOP_CLASS_SUPPORT >
+name=Guardiã das Flores Nascentes
+descr=Reviva um aliado nocauteado com HP cheio.
+flavor="Está tudo bem agora. A dor já passou." ―Hime
+
+< CARD_HYPER_COOP_CLASS_AVENGER >
+name=Vingador Implacável
+descr=Duração do Efeito: 3 Capítulos\nSe nocauteado durante a batalha, retorne com HP cheio.
+flavor="Mimyuu! Quem é que fez isso a você..." ―Tomato
+
+< CARD_HYPER_COOP_CLASS_DEALER >
+name=Jogos de Verão
+descr=Trate qualquer painel que você iria parar neste turno como um painel de 2x de compra.
+flavor=
+
+< CARD_SKILL_COOP_ADVANTAGE1 >
+name=Vantagem 1
+descr=Vá primeiro quando desafiado por um Chefão.
+flavor=
+
+< CARD_SKILL_COOP_ADVANTAGE2 >
+name=Vantagem 2
+descr=Sempre vá primeiro em batalha quando desafiado por um Chefão.
+flavor=
+
+< CARD_SKILL_COOP_RECOVERYDOWN1 >
+name=Baixa na Recuperação 1
+descr=Norma 1: REC +1.
+flavor=
+
+< CARD_SKILL_COOP_ATTACKBOOST1 >
+name=Impulso de Ataque 1
+descr=Norma 2: ATK +1
+flavor=
+
+< CARD_SKILL_COOP_ATTACKBOOST2 >
+name=Impulso de Ataque 2
+descr=Norma 2: ATK +1. Norma 4: ATK +2.
+flavor=
+
+< CARD_SKILL_COOP_FURY_EFFECT >
+name=Fúria
+descr=Dê +1 de dano por estoque em sua próxima batalha.\nTempo de recarga: 8 Capítulos.
+flavor=
+
+< CARD_SKILL_COOP_FURY1 >
+name=Fúria 1
+descr=Dê +2 de dano para cada ataque em sua próxima batalha.\nTempo de recarga: 10 Capítulos.
+flavor=
+
+< CARD_SKILL_COOP_FURY2 >
+name=Fúria 2
+descr=Dê +3 de dano para cada ataque em sua próxima batalha.\nTempo de recarga: 10 Capítulos.
+flavor=
+
+
+
+
+< CARD_SKILL_COOP_PROTECT1 >
+name=Proteger 1
+descr=Pague 2 HP para proteger o alvo de até 2 de dano na próxima batalha.
+flavor=
+
+< CARD_SKILL_COOP_PROTECT2 >
+name=Proteger 2
+descr=Pague 1 HP para proteger o alvo de até 2 de dano na próxima batalha.
+flavor=
+
+< CARD_SKILL_COOP_DEFENSEBOOST1 >
+name=Impulso de Defesa 1
+descr=Norma 2: DEF +1
+flavor=
+
+< CARD_SKILL_COOP_DEFENSEBOOST2 >
+name=Impulso de Defesa 2
+descr=Norma 2: DEF +1. Norma 4: DEF +2
+flavor=
+
+< CARD_SKILL_COOP_GUARDIANSPIRIT_EFFECT >
+name=Espírito Guardião
+descr=Ganhe uma redução de dano de 1 por estoque em sua próxima batalha.
+flavor=
+
+< CARD_SKILL_COOP_GUARDIANSPIRIT1 >
+name=Espírito Guardião 1
+descr=Todos os aliados ganham Efeito de Estoque(1): Na próxima batalha, tome 1 a menos de dano.\nTempo de recarga: 10 Capítulos.
+flavor=
+
+< CARD_SKILL_COOP_GUARDIANSPIRIT2 >
+name=Espírito Guardião 2
+descr=Todos os aliados ganham Efeito de Estoque(1): Na próxima batalha, tome 2 a menos de dano.\nTempo de recarga: 10 Capítulos.
+flavor=
+
+
+
+
+
+< CARD_SKILL_COOP_MOVEMENTBOOST1 >
+name=Impulso de Movimentação 1
+descr=Norma 2: MOV +1
+flavor=
+
+< CARD_SKILL_COOP_MOVEMENTBOOST2 > 
+name=Impulso de Movimentação 2
+descr=Norma 2: MOV +1. Norma 4: MOV +2
+flavor=
+
+< CARD_SKILL_COOP_HEAL1 >
+name=Cura 1
+descr=Pode curar um aliado em 1 HP ao entrar em seu painel.
+flavor=
+
+< CARD_SKILL_COOP_REVIVE1 >
+name=Reviver 1
+descr=Pode reviver um aliado ao pagar 5 estrelas x REC restante ao entrar em seu painel.
+flavor=
+
+< CARD_SKILL_COOP_REVIVE2 >
+name=Reviver 2
+descr=Pode reviver um aliado ao pagar 4 estrelas x REC restante ao entrar em seu painel.
+flavor=
+
+< CARD_SKILL_COOP_REVIVE3 >
+name=Reviver 3
+descr=Pode reviver um aliado ao pagar 3 estrelas x REC restante ao entrar em seu painel.
+flavor=
+
+< CARD_SKILL_COOP_EVASIONBOOST1 >
+name=Impulso de Evasão 1
+descr=Norma 3: EVD +1
+flavor=
+	
+< CARD_SKILL_COOP_RESTORINGLIGHT1 >
+name=Luz de Restauração 1
+descr=Reviva um aliado nocauteado com 50% HP.\nTempo de recarga: 10 Capítulos.
+flavor=
+
+< CARD_SKILL_COOP_RESTORINGLIGHT2 >
+name=Luz de Restauração 2
+descr=Reviva um aliado nocauteado com HP cheio.\nTempo de recarga: 10 Capítulos.
+flavor=
+
+
+
+
+
+< CARD_SKILL_COOP_HEALTHBOOST1 >
+name=Impulso de Vitalidade 1
+descr=Norma 2: HP Máximo +1
+flavor=
+
+< CARD_SKILL_COOP_HEALTHBOOST2 >
+name=Impulso de Vitalidade 2
+descr=Norma 2: HP Máximo +1. Norma 4: HP Máximo +2
+flavor=
+
+< CARD_SKILL_COOP_AVENGER1 >
+name=Vingador 1
+descr=Para cada 2 HP perdido em batalha, ganhe +1 ATK
+flavor=
+
+< CARD_SKILL_COOP_AVENGER2 >
+name=Vingador 2
+descr=Para cada HP perdido em batalha, ganhe +1 ATK
+flavor=
+
+< CARD_SKILL_COOP_RECOVERY1 >
+name=Recuperação 1
+descr=Norma 3: REC -1
+flavor=
+
+< CARD_SKILL_COOP_FROMBEYOND_EFFECT >
+name=Do Além
+descr=Se nocauteado durante a batalha, retorne para 1 x Efeito de Estoque HP.
+flavor=
+
+< CARD_SKILL_COOP_FROMBEYOND1 >
+name=Do Além 1
+descr=Duração do Efeito: 3 Capítulos\nSe nocauteado durante a batalha, retorne com 1 HP.\nTempo de recarga: 10 Capítulos.
+flavor=
+
+< CARD_SKILL_COOP_FROMBEYOND2 >
+name=Do Além 2
+descr=Duração do Efeito: 3 Capítulos\nSe nocauteado durante a batalha, retorne com até 3 HP.\nTempo de recarga: 10 Capítulos.
+flavor=
+
+< CARD_SKILL_COOP_HANDBOOST1 >
+name=Impulso na Mão 1
+descr=Na Norma 2 ganhe +1 de cartas que pode ter na mão. Max 5.
+flavor=
+
+< CARD_SKILL_COOP_HANDBOOST2 >
+name=Impulso na Mão 2
+descr=Na Norma 4 ganhe +1 de cartas que pode ter na mão. Max 5.
+flavor=
+
+< CARD_SKILL_COOP_DEAL >
+name=Dando Cartas
+descr=Se estiver com 3 ou mais cartas na mão, envie uma carta de sua escolha ao jogador alvo.
+flavor=
+
+< CARD_SKILL_COOP_SUPPLY >
+name=Suplemento
+descr=Compre uma carta adicional cada vez que você iria comprar cartas.
+flavor=
+
+< CARD_SKILL_COOP_DEALER_HEALTHBOOST1 >
+name=Impulso de Vitalidade 1
+descr=Norma 3: HP +1
+flavor=
+
+< CARD_SKILL_COOP_DEMAND1 >
+name=Demanda 1
+descr=Trate o próximo painel que você pisar como painel de Compra.\nTempo de recarga: 10 Capítulos.
+flavor=
+
+< CARD_SKILL_COOP_DEMAND2 >
+name=Demanda 2
+descr=Trate o próximo painel que você pisar como painel de Compra x2.\nTempo de recarga: 10 Capítulos.
+flavor=
+
+
+< CARD_SKILL_COOP_ADVANTAGE >
+name=Vantagem
+descr=Sempre vá primeiro em batalha contra um Chefão.
+flavor=
+
+< CARD_SKILL_COOP_RECOVERYDOWN >
+name=Baixa na Recuperação
+descr=Norma 1: REC +1.
+flavor=
+
+< CARD_SKILL_COOP_ATTACKBOOST >
+name=Impulso de Ataque 2
+descr=Norma 2: ATK +1. Norma 4: ATK +2.
+flavor=
+
+< CARD_SKILL_COOP_FURY_EFFECT >
+name=Fúria
+descr=Dê +1 de dano por estoque.
+flavor=
+
+< CARD_SKILL_COOP_FURY >
+name=Fúria 1
+descr=Duração do Efeito: 1 Capítulo\nDê +1 de dano para cada ataque.\nTempo de recarga: 6 Capítulos.
+flavor=
+
+
+
+
+< CARD_SKILL_COOP_PROTECT >
+name=Proteger
+descr=Proteja o alvo de até 2 de dano.\nTempo de recarga: 1 Capítulo.
+flavor=
+
+< CARD_SKILL_COOP_DEFENSEBOOST >
+name=Impulso de Defesa
+descr=Norma 2: DEF +1. Norma 4: DEF +2
+flavor=
+
+< CARD_SKILL_COOP_GUARDIANSPIRIT_EFFECT >
+name=Espírito Guardião
+descr=Ganhe uma redução de dano de 1 por estoque.
+flavor=
+
+< CARD_SKILL_COOP_GUARDIANSPIRIT >
+name=Espírito Guardião
+descr=Todos os aliados ganham o efeito Espírito Guardião.\nDuração do Efeito: 2 Capítulos: tome 1 a menos de dano.\nTempo de recarga: 8 Capítulos.
+flavor=
+
+
+
+< CARD_SKILL_COOP_MOVEMENTBOOST > 
+name=Impulso de Movimentação
+descr=Norma 2: MOV +1. Norma 4: MOV +2
+flavor=
+
+< CARD_SKILL_COOP_HEAL >
+name=Curar
+descr=Pode curar um aliado em 1 HP ao entrar em seu painel.
+flavor=
+
+< CARD_SKILL_COOP_REVIVE >
+name=Reviver
+descr=Pode reviver um aliado ao pagar 3 estrelas x REC restante ao entrar em seu painel.
+flavor=
+
+< CARD_SKILL_COOP_EVASIONBOOST >
+name=Impulso de Evasão
+descr=Norma 3: EVD +1
+flavor=
+	
+< CARD_SKILL_COOP_RESTORINGLIGHT >
+name=Luz de Restauração
+descr=Reviva um aliado nocauteado com 50% HP.\nTempo de recarga: 8 Capítulos.
+flavor=
+
+
+
+
+
+< CARD_SKILL_COOP_HEALTHBOOST >
+name=Impulso na Vitalidade
+descr=Norma 2: Máx HP +1. Norma 4: Máx HP +2
+flavor=
+
+< CARD_SKILL_COOP_AVENGER >
+name=Vingador
+descr=Para cada HP perdido em batalha, ganhe +1 ATK
+flavor=
+
+< CARD_SKILL_COOP_RECOVERY >
+name=Recuperação
+descr=Norma 3: REC -1
+flavor=
+
+< CARD_SKILL_COOP_FROMBEYOND_EFFECT >
+name=Do Além
+descr=Se nocauteado durante a batalha, retorne para 1 x Efeito de Estoque HP.
+flavor=
+
+< CARD_SKILL_COOP_FROMBEYOND >
+name=Do Além 2
+descr=Duração do Efeito: 2 Capítulos\nSe nocauteado durante a batalha, retorne com até 3 HP.\nTempo de recarga: 8 Capítulos.
+flavor=
+
+
+< CARD_SKILL_COOP_HANDBOOST >
+name=Impulso na Mão
+descr=Na Norma 2 ganhe +1 de cartas que pode ter na mão e na Norma 4 ganhe +2 de cartas. Max 5.
+flavor=
+
+< CARD_SKILL_COOP_DEAL >
+name=Dando Cartas
+descr=Se estiver com 2 ou mais cartas na mão, envie uma carta aleatória ao jogador alvo.
+flavor=
+
+< CARD_SKILL_COOP_SUPPLY >
+name=Suplemento
+descr=Compre uma carta adicional cada vez que você iria comprar cartas.
+flavor=
+
+< CARD_SKILL_COOP_DEALER_HEALTHBOOST >
+name=Impulso de Vitalidade
+descr=Norma 3: HP Máximo +1
+flavor=
+
+< CARD_SKILL_COOP_DEMAND >
+name=Demanda
+descr=Trate o próximo painel que você pisar como painel de Compra.\nTempo de recarga: 6 Capítulos.
+flavor=
+
+< CARD_SKILL_COOP_IRONDEFENSE >
+name=Defesa de Ferro
+descr=Tome um mínimo de 0 de dano ao defender durante esta batalha.\nTempo de recarga: 3 Capítulos.
+flavor=

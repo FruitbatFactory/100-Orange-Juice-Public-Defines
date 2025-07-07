@@ -1,0 +1,519 @@
+
+// ========= Scene: Opening =========
+
+// (darklulu)
+<0000> Lulu's... mind feels dark...
+
+// (ellie)
+<0001> You've got to get it together, Lulu...! What's going on with you?
+
+// (darklulu)
+<0002> You found... your mama.
+
+// (darklulu)
+<0003> Lulu knows it's something to be happy about, but...
+
+// (darklulu)
+<0004> Uuuuh...!
+
+// (darklulu)
+<0005> Aaaaaaaah!
+
+// (motherpoppo)
+<0006> This is bad! Her magic power is going out of control.
+
+// (ellie)
+<0007> Lulu, you have to get a hold of yourself!
+
+// (???)
+<0008> It's no use...
+
+// (???)
+<0009> Because, Ellie, it's all your fault that she's become like that.
+
+// (arnelle)
+<0010> Who's there!
+
+// (watty)
+<0011> Everyone please be careful...!
+
+// (watty)
+<0012> That's the direction where I sensed the incredible magical power...
+
+// (???)
+<0013> Fufufu... Hahahaha!
+
+// (mio)
+<0014> Oh boy, what fun!
+
+// (motherpoppo)
+<0015> You are...!
+
+// (mio)
+<0016> I am...
+
+// (mio)
+<0017> ...Lulu's mama ♥
+
+// (ellie)
+<0018> Lulu's mama!?
+
+// (mio)
+<0019> And I'm also...
+
+// (mio)
+<0020> ...the god of this world!
+
+// (pomeranius)
+<0021> The god...?
+
+// (halena)
+<0022> I've got no idea what she's talking about.
+
+// (cook)
+<0023> But she really is... unusual.
+
+// (maynie)
+<0024> Maynie can't buy that she's a god... But she's extremely intimidating...!
+
+// (ellie)
+<0025> Lulu's mama is a god, and she suddenly shows up, and there's something wrong with Lulu now... What the heck is going on!
+
+// (mio)
+<0026> Fufufu, Ellie...
+
+// (mio)
+<0027> Look what you've accomplished: you finally found your mama after such a long, arduous journey.
+
+// (mio)
+<0028> Congratulations ♥
+
+// (ellie)
+<0029> ...
+
+// (mio)
+<0030> But if this ends with a happy ending, it'll be sooo boring to me.
+
+// (mio)
+<0031> Unlike that dum-dum who loves silly happy endings, I prefer tragic ones where all the effort and hard work end up being for nothing.
+
+// (mio)
+<0032> Ellie, you must be very happy now that you've been reunited with your mama again.
+
+// (darklulu)
+<0033> Lulu is... Lulu is feeling lonely...
+
+// (darklulu)
+<0034> Our journey has always been fun because Lulu likes Ellie so much.
+
+// (darklulu)
+<0035> Since Lulu isn't a good girl, part of her secretly hoped your mama would stay missing... and our journey would last forever.
+
+// (darklulu)
+<0036> Lulu was afraid that if we found your mama, you'd choose to be with her and leave Lulu behind...
+
+// (ellie)
+<0037> Lulu...
+
+// (darklulu)
+<0038> That was what Lulu was thinking even while she knew how much you wanted to see your mama.
+
+// (darklulu)
+<0039> Sorry... I'm so sorry, Ellie.
+
+// (mio)
+<0040> It's okay, Lulu. You didn't do anything wrong.
+
+// (mio)
+<0041> Ellie dragged you into her journey, had whatever fun she wanted, and reached happiness by finding her mama. She did all that without a thought for you.
+
+// (mio)
+<0042> She's the one to blame.
+
+// (arnelle)
+<0043> What the heck's she talking about?
+
+// (mio)
+<0044> The point is...
+
+// (mio)
+<0045> Lulu, I think it's about time you stopped holding yourself back and made your own wish come true.
+
+// (mio)
+<0046> If there's a happiness in this world that you don't want to be part of...
+
+// (mio)
+<0047> ...you should give a bad ending to the world by destroying it.
+
+// (darklulu)
+<0048> Uuu... Uwaaaaah!
+
+// ========= Scene: Midpoint =========
+
+// (ellie)
+<0049> Lulu, I'm so sorry I didn't realize how lonely you were feeling!
+
+// (ellie)
+<0050> It'd be a lie if I said I'm not happy I found my mama, but I like you so much too, Lulu...
+
+// (ellie)
+<0051> So... we should always be together...!
+
+// (mio)
+<0052> Ufufufufu, no matter what you say to her, it won't move her.
+
+// (mio)
+<0053> Because, as you can see, her mind is now fully covered in darkness. Isn't that right, Lulu?
+
+// (darklulu)
+<0054> ...
+
+// (darklulu)
+<0055> Can Lulu really be with you?
+
+// (mio)
+<0056> Huh?
+
+// (ellie)
+<0057> Absolutely! Now that I found my mama, it's my turn to be by your side on your journey.
+
+// (ellie)
+<0058> This journey of ours has always been fun to me, too! Because I like you so much, Lulu!
+
+// (darklulu)
+<0059> You mean that?
+
+// (ellie)
+<0060> We've been together for so long. You can easily tell if I'm lying, can't you?
+
+// (mio)
+<0061> Cut the baloney... Lulu's so entrenched in the darkness, nothing you say will reach her.
+
+// (darklulu)
+<0062> Lulu believes Ellie! Lulu can tell she's not lying, because Lulu likes her so much!
+
+// (mio)
+<0063> Whaaaaaat!?
+
+// (ellie)
+<0064> You idiot god! Our journey has made our bond too strong to be so easily broken!
+
+// (darklulu)
+<0065> That's absolutely right!
+
+// (mio)
+<0066> You gotta be kidding me... Seriously?
+
+// (kai(hero))
+<0067> Fufufu, turns out you're still a terrible plotter, god.
+
+// (motherpoppo)
+<0068> Honey!
+
+// (mio)
+<0069> What? How come even you're out here...?
+
+// (ellie)
+<0070> Who are you?
+
+// (kai(hero))
+<0071> I'm your papa. Your mama and I were both locked up in here.
+
+// (ellie)
+<0072> !? !? !? !?
+
+// (kai(hero))
+<0073> I almost let my own mind fall into darkness because you've been paying attention only to your mama...
+
+// (darklulu)
+<0074> Speaking of, Ellie was talking about her mama all the time, but not a word about her papa.
+
+// (ellie)
+<0075> Yeah, I don't know why, but he never really crossed my mind.
+
+// (kai(hero))
+<0076> I'm falling into darkness...
+
+// (motherpoppo)
+<0077> Well, take it easy, honey.
+
+// (kai(hero))
+<0078> Okay... Anyway.
+
+// (kai(hero))
+<0079> To sum up the god's plan, she was trying to destroy your friendship with Lulu, drown her mind in darkness, and then wrap this all up with a tragic ending that she's so fond of.
+
+// (kai(hero))
+<0080> But, in reality...
+
+// (ellie)
+<0081> I like Lulu like crazy!
+
+// (darklulu)
+<0082> And Lulu likes Ellie just as much.
+
+// (kai(hero))
+<0083> So, what are you girls gonna do now?
+
+// (ellie)
+<0084> We are going to...
+
+// (darklulu)
+<0085> Beat the heck out of this god.
+
+// (mio)
+<0086> What? Excuse me, but I'm your mama, Lulu, remember?
+
+// (darklulu)
+<0087> Lulu doesn't need a mama that says awful things when she meets her daughter for the first time.
+
+// (mio)
+<0088> Whaaat...
+
+// (motherpoppo)
+<0089> Seems like you did a pretty terrible job parenting.
+
+// (mio)
+<0090> Says a mom who hasn't parented her daughter at all.
+
+// (kai(hero))
+<0091> That's because you took Ellie away from us and locked us down in this shrine.
+
+// (motherpoppo)
+<0092> That's right.
+
+// (darklulu)
+<0093> So, it was this god... that separated Ellie from her parents?
+
+// (ellie)
+<0094> Oh, is that so?
+
+// (ellie)
+<0095> You took me away from my parents, hurt Lulu's feelings, and tried to mess up the world...
+
+// (ellie)
+<0096> Ahaa... I think... I'm about to get super pissed off.
+
+// (motherpoppo)
+<0097> She'd better get erased without a trace.
+
+// (kai(hero))
+<0098> Let your papa and mama help you out so you can go all out against her.
+
+// (ellie)
+<0099> Mama, Papa...
+
+// (halena)
+<0100> Well, this is not something I anticipated.
+
+// (cook)
+<0101> Cook hates her, too.
+
+// (arnelle)
+<0102> Well, I'd say we don't need a jerk god.
+
+// (maynie)
+<0103> Maynie agrees.
+
+// (pomeranius)
+<0104> I second that.
+
+// (watty)
+<0105> Likewise...
+
+// (darklulu)
+<0106> Lulu wants to beat her up, too!
+
+// (ellie)
+<0107> You guys... Alright then, let's all work together and...
+
+// (hyperellie)
+<0108> Ahaaa!
+
+// (hyperellie)
+<0109> Kick the god's butt!
+
+// ========= Scene: Intro 2 =========
+
+// (mio)
+<0110> Hang on a second! I'm a god, you know?
+
+// (mio)
+<0111> If I'm gone, this world will go out of control and eventually collapse.
+
+// (mio)
+<0112> Are you sure you wanna let that happen?
+
+// (hyperellie)
+<0113> For reals?!
+
+// (darklulu)
+<0114> That'd be so much trouble.
+
+// (mio)
+<0115> Fufufu, you shouldn't have opposed a god in the first place. But since things aren't going as I want them to, I think I'll bail for now.
+
+// (mio)
+<0116> I'll let you all bask in your happiness until I come up with a new plot for a bad ending.
+
+// (hyperellie)
+<0117> Oh no, she's getting away...!
+
+// (darklulu)
+<0118> Wait!
+
+// (mio)
+<0119> Alright then, I'll see you around. Bye b--
+
+// (kai(hero))
+<0120> That's not gonna happen... is it, "god"?
+
+// (mio)
+<0121> !?
+
+// (tomomo)
+<0122> Seriously... Doing whatever you please in my world.
+
+// (mio)
+<0123> Tomomo... How did you get here...?
+
+// (tomomo)
+<0124> I've been looking everywhere for you...
+
+// (tomomo)
+<0125> And I finally found you when I sensed Kai and Poppo from here.
+
+// (hyperellie)
+<0126> Uu, I keep asking this same question, but...
+
+// (hyperellie)
+<0127> Who are you!?
+
+// (kai(hero))
+<0128> She, in a nutshell, is the god of this other world.
+
+// (hyperellie)
+<0129> So, multiple gods exist?
+
+// (darklulu)
+<0130> And, there are other worlds, too?
+
+// (tomomo)
+<0131> Gods, not so many, but yeah.
+
+// (tomomo)
+<0132> Listen up, residents of this world! I have something to tell you!
+
+// (tomomo)
+<0133> Even if Mio... I mean, that lousy god is gone, I'll be the one to take care of this world.
+
+// (mio)
+<0134> What?
+
+// (tomomo)
+<0135> So you guys go ahead and beat the crap out of her.
+
+// (hyperellie)
+<0136> Um... Mama?
+
+// (motherpoppo)
+<0137> It's okay. You can trust what she just said.
+
+// (kai(hero))
+<0138> Give it your all, Ellie. You're the protagonist of this world.
+
+// (mio)
+<0139> I believe it's time for me to take my leave.
+
+// (hyperellie)
+<0140> Ahaaa ♥
+
+// (hyperellie)
+<0141> You can't get away.
+
+// (darklulu)
+<0142> Lulu won't go easy on you.
+
+// (mio)
+<0143> Gayaaaaaaaah!!!
+
+// ========= Scene: Ending =========
+
+// (tomomo)
+<0144> Well done, residents of this world, in defeating that scumbag.
+
+// (motherpoppo)
+<0145> With her gone, this world will have a happy ending.
+
+// (arnelle)
+<0146> So much for a happy ending. Instead of treasure, all we've got is exhaustion.
+
+// (kai(hero))
+<0147> Well, you guys are supporting characters, after all...
+
+// (maynie)
+<0148> How dare you talk like that when your own daughter didn't even recognize you!
+
+// (halena)
+<0149> A human father and a hamster mother... Isn't that...
+
+// (pomeranius)
+<0150> A terrifying combination.
+
+// (watty)
+<0151> Scary... *shiver*
+
+// (kai(hero))
+<0152> That's all because of everything that jerk god did!
+
+// (hyperellie)
+<0153> That doesn't matter anymore, and neither does this happy ending.
+
+// (lulu)
+<0154> ?
+
+// (hyperellie)
+<0155> Because Lulu's and my adventure still continues, and we don't need a happy ending just yet.
+
+// (lulu)
+<0156> Ellie, you sure about this?
+
+// (hyperellie)
+<0157> Absolutely. Now we know that there are more worlds out there. If we want to see all of them, we'd better get started now.
+
+// (hyperellie)
+<0158> We're gonna see as many worlds as we can and play as much as we can!
+
+// (hyperellie)
+<0159> You're coming with me, aren't you, Lulu?
+
+// (lulu)
+<0160> Absolutely!
+
+// (hyperellie)
+<0161> Ahaaa! Alright then, Mama and Papa!
+
+// (hyperellie)
+<0162> I'm going on a journey with Lulu!
+
+// (motherpoppo)
+<0163> You girls take care.
+
+// (kai(hero))
+<0164> Make sure you come visit us at home once in a while, okay?
+
+// (hyperellie)
+<0165> Okay.
+
+// (hyperellie)
+<0166> Alright, Lulu, where do we start?
+
+// (lulu)
+<0167> Hmm... Maybe somewhere warm, or somewhere we can enjoy delicious food... It's hard to choose!
+
+// (hyperellie)
+<0168> Ahaa, same! Let's just get moving for now.
+
+// (lulu)
+<0169> Yeah!
+
