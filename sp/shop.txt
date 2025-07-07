@@ -188,6 +188,9 @@ Poyo & Chuu
 < SHOP_DLC_HARUKANA >
 Haruka & Kanata
 
+< SHOP_DLC_EXTRACURRICULARPACK >
+Paquete Extracurricular
+
 < SHOP_TOOLTIP_HOME >
 Use las categorías para navegarse.
 

@@ -33,7 +33,7 @@ descr=所有角色受到1点伤害。\n\n频率：每5轮
 
 < FIELDEVENT_MINELAYER >
 name=布雷
-descr=随机设置陷阱卡1张。\n\n频率：每3轮
+descr=随机放置1张陷阱卡。\n\n频率：每3轮
 
 < FIELDEVENT_MIRACLE >
 name=奇迹
@@ -61,7 +61,7 @@ descr=所有HOME位置重洗。\n\n频率：每9轮
 
 < FIELDEVENT_BOMBER >
 name=炸弹
-descr=随机设置1个炸弹，1～4轮后以十字爆炸。\n\n爆发范围内的格子上的所有玩家受到2点伤害。\n频率：每2轮
+descr=随机放置1个炸弹，1～4轮后以十字爆炸。\n\n爆发范围内的格子上的所有玩家受到2点伤害。\n频率：每2轮
 
 < FIELDEVENT_MYSTERY >
 name=神秘

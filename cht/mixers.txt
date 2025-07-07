@@ -12,7 +12,7 @@ descr=所有角色移動方向反轉。效果\n持續1輪。
 
 < MIXER_BOMBER >
 name=炸彈
-descr=在隨機格子設置1個可見的\n炸彈、1～4輪後以十字爆炸。
+descr=在隨機格子放置1個可見的\n炸彈、1～4輪後以十字形爆炸。
 
 < MIXER_CHARITY >
 name=恩惠
@@ -28,7 +28,7 @@ descr=場地上三分之一的格子變為\n冰凍格，持續1輪。
 
 < MIXER_MINELAYER >
 name=佈雷
-descr=將1張陷阱卡設置在隨機的格子\n上。
+descr=將1張陷阱卡放置在隨機的格子\n上。
 
 < MIXER_MIRACLE >
 name=奇蹟
@@ -36,7 +36,7 @@ descr=獎勵、掉落、移動和傳送移動格\n的骰子枚數變為2枚。\n
 
 < MIXER_RANDOM_WARP >
 name=隨機傳送
-descr=發動輪開始時，所有角色傳送至\n隨機的格子。
+descr=發動輪開始時，所有角色傳送至\n隨機格子。
 
 < MIXER_REGENERATION >
 name=恢復

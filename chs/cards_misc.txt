@@ -22,3 +22,12 @@ STAR不足
 
 < CARD_RESTRICT_DEFENSE_LABEL >
 不是后攻方
+
+< CARD_TERM_BANNER >
+（旗帜：使用时放置在你当前所在的格子上。该卡片将一直起效，直到有存活角色停留在上面将其拔除。）
+
+< CARD_TERM_TRIGGER >
+（触发：若在持有该卡片时曾达成条件，常规卡片效果将会替换为触发效果。）
+
+< CARD_TERM_UPDATE >
+（重复（X）：当所有玩家使用相同名称的卡片合计X次时，卡片获得额外效果。）

@@ -1335,4 +1335,7 @@ UIを表示
 < MENU_HOLD_CLICK_SPEEDUP >
 左クリック長押しでスピードアップ
 
+< MENU_CSELECT_DIFFICULTY_LABEL >
+難易度
+
 [EOF]

@@ -1335,4 +1335,7 @@ You can use Stars earned from matches to buy more Booster packs for new cards in
 < MENU_HOLD_CLICK_SPEEDUP >
 Hold Left-click to speed up
 
+< MENU_CSELECT_DIFFICULTY_LABEL >
+DIFFICULTY
+
 [EOF]

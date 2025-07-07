@@ -135,7 +135,7 @@ flavor="¡Este es el privilegio de un verdadero protagonista!" ―Kai
 
 < CARD_HYPER_COOP_KIRIKO >
 name=La Última Cirugía
-descr=Noquea a todas las unidades que tengan 1 PV.\nRecuperas 1 Máx. PV perdido y recibes 25 estrellas por cada unidad noqueada. Los aliados noqueados reciben -2 REC.
+descr=Noquea a todas las unidades que tengan 1 PV.\nPierdes un efecto de Medicina Extraña y recibes 25 estrellas por cada unidad noqueada. Los aliados noqueados reciben -2 REC.
 flavor="Tranquilízate, esto solo tomará un segundo." ―Kiriko
 
 < CARD_HYPER_COOP_KRILAEVENT >

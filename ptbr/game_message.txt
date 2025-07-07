@@ -71,6 +71,9 @@ Carta de Armadilha colocada.
 < GAME_MESSAGE_TRAPTRIGGER >
 Carta de Armadilha ativada.
 
+< GAME_MESSAGE_BANNERSET >
+Carta de Banner colocada.
+
 < GAME_MESSAGE_CARDEFFECTSTOCKED >
 Efeito da Carta foi estocado.
 
@@ -192,3 +195,6 @@ A carta que você vai jogar...
 
 < GAME_MESSAGE_BLUFF_NOTICE >
 Esta carta foi prevista para ser jogada a seguir por {}.
+
+< GAME_MESSAGE_LOCATIONFEE_FAIL >
+Falhou em pagar a taxa de proteção.

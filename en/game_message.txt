@@ -71,6 +71,9 @@ Trap card set.
 < GAME_MESSAGE_TRAPTRIGGER >
 Trap card triggered.
 
+< GAME_MESSAGE_BANNERSET >
+Banner card set.
+
 < GAME_MESSAGE_CARDEFFECTSTOCKED >
 Card effect stocked.
 
@@ -189,3 +192,6 @@ The card you will play...
 
 < GAME_MESSAGE_BLUFF_NOTICE >
 This card has been predicted to be played next by {}.
+
+< GAME_MESSAGE_LOCATIONFEE_FAIL >
+Failed to pay the protection fee.

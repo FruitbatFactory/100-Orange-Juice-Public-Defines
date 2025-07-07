@@ -226,7 +226,7 @@ flavor="¡Venganza!" ―Tomato
 
 < CARD_HYPER_KIRIKO >
 name=La Última Cirugía
-descr=Noquea a todas las unidades que tengan 1 PV.\nRecuperas 1 Máx. PV perdido y recibes 25 estrellas por cada unidad noqueada.
+descr=Noquea a todas las unidades que tengan 1 PV.\nPierdes un efecto de Medicina Extraña y recibes 25 estrellas por cada unidad noqueada.
 flavor="Tranquilízate, esto solo tomará un segundo." ―Kiriko
 
 < CARD_HYPER_NONAME >
@@ -286,7 +286,7 @@ flavor=
 
 < CARD_HYPER_YUKIDANGEROUS >
 name=Evil Mastermind
-descr=Toma 3 trampas del mazo, y luego coloca todas las Cartas Trampa en mano en paneles aleatorios.
+descr=Si el panel actual no tiene una trampa activa, coloca una trampa de tu mano escogida de forma aleatoria. Entonces, toma 3 trampas del mazo, y luego coloca todas las Cartas Trampa en mano en paneles aleatorios.
 flavor="¡Témanle a mis poderes!" ―Yuki
 
 < CARD_HYPER_TOMOMOCASUAL >
@@ -396,7 +396,7 @@ flavor="¡Infierno!" ―Mio
 
 < CARD_HYPER_SUGURI46 >
 name=Observadora de la Eternidad
-descr=Añade 2 cartas de Impulso/Evento (las cuales hagan daño) a tu mano.\nPodrás usar otra carta durante este turno.
+descr=Añade 2 cartas de Impulso/Evento (las cuales hagan daño) a tu mano.\nPodrás usar una carta adicional durante este turno.
 flavor="Veamos qué es lo que sucederá." ―Suguri
 
 < CARD_HYPER_SUMIKA >
@@ -623,6 +623,66 @@ flavor="¡Vamos a animar el juego juntos!" ―Haruka
 name=Engaño Que Suena Intelectual
 descr=Escoge a otro jugador.\nEscoge el tipo de carta (Batalla/Impulso/Evento/Otro), y decláralo.\nSi la próxima carta usada por el jugador escogido es de ese tipo: recibes 2 Victorias y Estrellas (valor: Nivel x 10)\nSi no lo es, recibes 2 puntos de daño.
 flavor="Puedo ver las cartas que tienes." ―Kanata
+
+< CARD_GIFT_RANGEDTRAPS >
+name=Mira lo Largos Que Son Mis Brazos y Piernas Ahora
+descr=Podrás pagar 5 estrellas adicionales para colocar trampas en un radio de 2 paneles. Incrementa todos los niveles de las cartas (exceptuando las cartas Trampa y de Regalo) por 1 (hasta un máximo de 5). Esta carta será descartada al ser usada o al caer sobre una trampa.
+flavor="Deja que Mamá te abrace con sus brazos largos." ―Mamá Poppo
+
+< CARD_BANNER_FLUFFYANDFUZZY >
+name=Esponjoso y Velloso
+descr=Al usar una carta que tenga un efecto de daño, aumenta el daño realizado hacia esa una unidad por 1.
+flavor="¿Podrás soportar este elegante asalto?" ―Pomeranius
+
+< CARD_BANNER_ENERGYDRINK >
+name=Siente la Adrenalina Con Esta Bebida Energética
+descr=Todos los jugadores reciben -1 REC.
+flavor="¡Ahora podremos divertirnos todo el día!" ―Poyo
+
+< CARD_BANNER_LOCATIONFEE >
+name=Tarifa de Protección
+descr=Al detenerte en el panel de Hogar de otro jugador, paga estrellas (tu Nivel x2) a ese jugador. Si no logras cumplir con la norma, tu próximo turno será omitido.
+flavor="Esto es una estafa..." ―Lulu
+
+< CARD_BOOST_CHEF_SPECIAL >
+name=El Especial del Chef
+descr=Recuperas 2 PV o recibes 1 punto de daño de forma aleatoria.##(Activación: Al tener 1 PV):\nRecuperas todos tus PV o tus PV actuales serán 1, escogido de forma aleatoria.
+flavor="¡Esto es lo que recomendamos hoy!" ―Chris
+
+< CARD_BOOST_GO_WITH_FLOW >
+name=Ve con la Corriente
+descr=Te teletransportarás a un panel aleatorio.
+flavor="¡Halena! Esta dirección es mejor, confía en Cook." ―Cook
+
+< CARD_BATTLE_COMINGBACKSTRONGER >
+name=Regresando Aún Más Fuerte
+descr=Recibes +1 ATK.##(Activación: Al ser noqueado):\nRecibes +2 ATK.
+flavor="Supongo que mientras más grande sea la amenaza, más me emociono." ―Ellie
+
+< CARD_GIFT_TICKEDOFF >
+name=¡Estamos Molestas!
+descr=Si tienes 1 PV al comienzo de la batalla, recibes +2 ATK.\nSi eres noqueado en una batalla en la que este efecto se encuentre activo, esta carta será descartada.
+flavor="Muy bien, tendré que ser un poco más salvaje ahora." ―Chuu
+
+< CARD_EVENT_GREATEST_TROUBLEMAKER >
+name=La Mejor Buscarruidos de Todos los Tiempos
+descr=Una unidad escogida de forma aleatoria recibe 3 puntos de daño.##Repetición (1): Toma una carta por cada unidad noqueada por esta carta. ##Repetición (2): Si la unidad es noqueada, otra unidad recibirá 1 punto de daño.
+flavor="¿Cómo destrozaré el mundo esta vez?" ―Mio
+
+< CARD_BOOST_FULL_BURST >
+name=Super Explosión
+descr=Toma una carta. Podrás usar una carta adicional este turno. Podrá ser de un nivel mayor a tu nivel actual. Si lo haces, descarta tu mano.##Repetición (1): Toma 1 carta adicional.
+flavor="Lo dejaré todo." ―Nath
+
+< CARD_BATTLE_MOUSSETHETHIEF >
+name=Espumatona la Ladrona
+descr=Tras la activación de una carta de batalla, roba una carta del enemigo escogida de forma aleatoria y que no haya sido usada en esta batalla.
+flavor="Espera un segundo, eso es importante para mí." ―Sora
+
+< CARD_EVENT_EXTREMEALTERATION >
+name=Alteración Extrema
+descr=Duración: 2 capítulos.\nConvierte a todos los paneles de Batalla y del Jefe en paneles de Pérdidas. Todos los paneles de Estrellas se convierten en paneles de Cartas. Todos los paneles de Curación se convierten en paneles de Daño.##(Activación: cae sobre 3 paneles de Cartas, Daño o Pérdidas{0}):\nTodos los paneles de Batalla y del Jefe se convierten en paneles de Pérdidas x2. Estrellas en Cartas x2. Curación en Daño x2.
+flavor="Curaré la enfermedad de la que este mundo está sufriendo..." ―Kiriko
 
 < CARD_BOOST_XMASCAKE >
 name=El Pastel Navideño de Mio
@@ -912,6 +972,11 @@ flavor="Puedo ver las cartas que tienes." ―Kanata
 < CARD_GENERIC_GIFT >
 name=Carta de Regalo
 descr=¿Un regalo? ¿Para mí? Aww, no deberías haberte molestado.
+flavor="Puedo ver las cartas que tienes." ―Kanata
+
+< CARD_GENERIC_BANNER >
+name=Carta Pancarta
+descr=Esta es una carta pancarta.
 flavor="Puedo ver las cartas que tienes." ―Kanata
 
 [EOF]

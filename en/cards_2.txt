@@ -271,7 +271,7 @@ flavor="Over here! My nose is never wrong!" ―QP
 
 < CARD_GIFT_PRICEOFPOWER >
 name=Price of Power
-descr=You may play cards one level higher than your current level. All card costs are increased by 5. This card is discarded on use.
+descr=You may pay 5 more stars to play a card one level higher than your current level. This card is discarded on use.
 flavor="Even if I survive the war... With this body, there's nothing I can do." ―Nath
 
 < CARD_GIFT_VALENTINESDAY2018 >
@@ -346,7 +346,7 @@ flavor="Hooray! Nico will try her best!" ―Nico
 
 < CARD_HYPER_ARTHUR >
 name=Branch Expansion Strategy
-descr=★Cost: Number of cards held x5\nTurn all your cards, including this one, into "Rbit Hobby Shop."\nYou may play one more card in this turn.
+descr=★Cost: Number of cards held x5\nTurn all your cards, including this one, into "Rbit Hobby Shop."\nYou may play one more card this turn.
 flavor="Phaaw..." ―Arthur
 
 < CARD_HYPER_ARTHUR2 >
@@ -441,7 +441,7 @@ flavor="I've got pudding for lunch today!" ―QP
 
 < CARD_BOOST_SWEETDESTROYER >
 name=Sweet Destroyer
-descr=Steal a random "pudding" card from each other player. You may play another card this turn. For 3 chapters, all non-Hyper Sweets type cards drawn are permanently transformed at random into Dangerous Pudding or Bad Pudding.
+descr=Steal a random "pudding" card from each other player. You may play one more card this turn. For 3 chapters, all non-Hyper Sweets type cards drawn are permanently transformed at random into Dangerous Pudding or Bad Pudding.
 flavor="The sweets that bring harm to the world... I will destroy them all!" ―Sweet Breaker
 
 < CARD_BOOST_BACKDOORTRADE >
@@ -544,9 +544,69 @@ name=Contest of Cuteness
 descr=May only be used by the attacker. The battle is decided by a contest of cuteness.\nCuteness = 10 - Max HP - ATK + EVD, but no less than 0.\nInstead of rolling for attack, both units roll two dice and add the total to their Cuteness. If one unit has a higher Cuteness, they steal 5x the loser's Lvl stars and gain 1 Win. Then end the battle.\nCan only use against players.
 flavor="Now tell us, who is the cutest here!?" ―Saki
 
+< CARD_GIFT_RANGEDTRAPS >
+name=Look How Long My Arms and Legs Are Now
+descr=You may pay 5 more stars to place traps within a 2 panel radius. Increase all non-Trap, non-Gift card levels by 1 (up to 5). This card is discarded upon use or landing on a trap.
+flavor="Let Mother hug you in these long arms of hers." ―Mother Poppo
+
+< CARD_BANNER_FLUFFYANDFUZZY >
+name=Fluffy and Fuzzy
+descr=While playing a card with a damage effect, the first time it damages each unit it deals 1 more damage.
+flavor="Can you handle this elegant assault of mine?" ―Pomeranius
+
+< CARD_BANNER_ENERGYDRINK >
+name=Feel the Rush with an Energy Drink
+descr=All players gain -1 REC.
+flavor="Now we can have fun 'til morning!" ―Poyo
+
+< CARD_BANNER_LOCATIONFEE >
+name=Protection Fee
+descr=When you stop on another player's Home panel, pay (your Lvl) x2 stars to them. If you fail the Norma check, your next turn will be skipped.
+flavor="This is such a rip-off..." ―Lulu
+
+< CARD_BOOST_CHEF_SPECIAL >
+name=Chef's Special
+descr=Randomly heal 2 HP or take 1 damage.##(Trigger: Go down to 1 HP):\nRandomly heal to full HP or set HP to 1.
+flavor="This is what we recommend today!" ―Chris
+
+< CARD_BOOST_GO_WITH_FLOW >
+name=Go with the Flow
+descr=Warp to a random panel.
+flavor="Halena! This direction is better, trust Cook." ―Cook
+
+< CARD_BATTLE_COMINGBACKSTRONGER >
+name=Coming Back Stronger
+descr=Gain +1 ATK.##(Trigger: Suffer KO):\nGain +2 ATK.
+flavor="The bigger the trouble, the more fired up I get, I guess?" ―Ellie
+
+< CARD_GIFT_TICKEDOFF >
+name=We're Ticked Off!
+descr=If your HP is 1 at the start of the battle, gain +2 ATK.\nIf you suffer KO in battle where this effect is active, discard this card.
+flavor="Alright, I think I have to go a little wild now." ―Chuu
+
+< CARD_EVENT_GREATEST_TROUBLEMAKER >
+name=The Greatest Troublemaker Ever
+descr=Deal 3 damage to a random unit.##Repeat (1): Draw a card for each unit KO'd by this card. ##Repeat (2):  If the unit is KO'd, deal 1 damage to another random unit.
+flavor="How do I want to destroy a world this time?" ―Mio
+
+< CARD_BOOST_FULL_BURST >
+name=Full Burst
+descr=Draw a card. You may play one more card this turn. It can be one level higher than your current level. If you do, discard your hand.##Repeat (1): Draw 1 more card.
+flavor="I'm going to go all out." ―Nath
+
+< CARD_BATTLE_MOUSSETHETHIEF >
+name=Mousse the Thief
+descr=After battle card activation, steal a random card from the enemy that wasn't used in this battle.
+flavor="Wait up, that's something important to me." ―Sora
+
+< CARD_EVENT_EXTREMEALTERATION >
+name=Extreme Alteration
+descr=Effect Duration: 2 chapters.\nTurn all Encounter and Boss Encounter panels into Drop panels. Turn all Bonus panels into Draw panels. Turn all Heal panels into Damage panels.##(Trigger: land on 3 Draw, Damage or Drop panels{0}):\nTurn all Encounter and Boss Encounter panels into 2x Drop panels. Turn all Bonus panels into 2x Draw panels. Turn all Heal panels into 2x Damage panels.
+flavor="I'll cure the disease this world's suffering from..." ―Kiriko
+
 < CARD_HYPER_SUGURI46 >
 name=Observer of Eternity
-descr=Add 2 random Boost/Event cards that deal damage to your hand.\nYou may play another card this turn.
+descr=Add 2 random Boost/Event cards that deal damage to your hand.\nYou may play one more card this turn.
 flavor="Now then, let's see how this will turn out." ―Suguri
 
 < CARD_HYPER_SUMIKA >
@@ -846,7 +906,7 @@ flavor=
 
 < CARD_CHAOS_ROULETTE >
 name=Chaos Roulette
-descr=Add a random card between Chaos Roost, Chaos Protect and From the Chaotic Abyss to your hand.\nYou may play another card this turn.
+descr=Add a random card between Chaos Roost, Chaos Protect and From the Chaotic Abyss to your hand.\nYou may play one more card this turn.
 flavor=
 
 < CARD_CHAOS_POOL >
@@ -887,6 +947,11 @@ flavor="I can see what cards you're holding." ―Kanata
 < CARD_GENERIC_GIFT >
 name=Gift Card
 descr=A gift card? For me? Aw, you shouldn't have.
+flavor="I can see what cards you're holding." ―Kanata
+
+< CARD_GENERIC_BANNER >
+name=Banner Card
+descr=This is a banner card.
 flavor="I can see what cards you're holding." ―Kanata
 
 [EOF]

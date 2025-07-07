@@ -191,6 +191,9 @@ Poyo & Chuu
 < SHOP_DLC_HARUKANA >
 Haruka & Kanata
 
+< SHOP_DLC_EXTRACURRICULARPACK >
+Extracurricular Pack
+
 < SHOP_TOOLTIP_HOME >
 Navigate the shop by category icons.
 

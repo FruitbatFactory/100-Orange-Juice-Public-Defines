@@ -191,6 +191,9 @@ Ultimate Weapon Girl
 < SHOP_DLC_HARUKANA >
 春留果＆夏奈多
 
+< SHOP_DLC_EXTRACURRICULARPACK >
+课外活动卡包
+
 < SHOP_TOOLTIP_HOME >
 按类别图标查看商店。
 

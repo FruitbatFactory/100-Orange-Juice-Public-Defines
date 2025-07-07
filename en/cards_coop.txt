@@ -68,6 +68,21 @@ name=Contest of Cuteness
 descr=May only be used by the attacker. The battle is decided by a contest of cuteness.\nCuteness = 10 - Max HP - ATK + EVD, but no less than 0.\nInstead of rolling for attack, both units roll two dice and add the total to their Cuteness. If one unit has a higher Cuteness, they steal 5x the player's Lvl stars and gain 1 Win. Then end the battle.
 flavor="Now tell us, who is the cutest here!?" ―Saki
 
+< CARD_BATTLE_COOP_MOUSSETHETHIEF >
+name=Mousse the Thief
+descr=If you are active at the end of the battle, Boss loses stars equal to 10x the Lvl of the next Boss card. Gain that many stars. Can only be played against the Boss.
+flavor="Wait up, that's something important to me." ―Sora
+
+< CARD_BANNER_COOP_PROTECTIONFEE >
+name=Protection Fee
+descr=When Boss or a minion stops on a Home panel, Boss loses (your Lvl) x5 stars and you gain (your Lvl) x5 stars.
+flavor="This is such a rip-off..." ―Lulu
+
+< CARD_EVENT_COOP_EXTREMEALTERATION >
+name=Extreme Alteration
+descr=Effect Duration: 1 chapter.\nTurn all non-Home panels into Draw panels.##(Trigger: land on 3 Terror panels{0}):\nTurn all non-Home panels into 2x Draw panels.
+flavor="I'll cure the disease this world's suffering from..." ―Kiriko
+
 < CARD_HYPER_COOP_ALTE >
 name=Self-Destruct
 descr=On KO, deal your max HP as damage to the enemy. Enemy gains no stars or wins, but loses half of their stars if KO'd from this effect.

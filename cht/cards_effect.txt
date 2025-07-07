@@ -184,7 +184,7 @@ descr=MOV-3，只能觸發移動類型的格子，不能\n使用卡片。\n無�
 
 < CARD_PATHBLOCKERS_EFFECT >
 name=攔路者
-descr=移動到設置了陷阱卡的格子時，必須停留在\n那一格。
+descr=移動到放置了陷阱卡的格子時，必須停留在\n那一格。
 
 < CARD_POPPOFORMATION_EFFECT >
 name=啵噗化

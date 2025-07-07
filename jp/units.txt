@@ -365,7 +365,7 @@ descr=
 
 < CARD_UNIT_YUKI_DANGEROUS >
 name=ユキ（DANGEROUS）
-descr=永続的に「プリン」系の手札を「真夜中の惨劇」に変化させる。自身がセットしたトラップの効果を誰かが発動させた時、1ウィンを得る。野生のユニットとのバトルでウィンを獲得できない。
+descr=永続的に「プリン」系の手札を「真夜中の惨劇」に変化させる。自身がセットしたトラップの効果を誰かが発動させた時、1ウィンを得る。ワイルドユニットとのバトルでウィンを獲得できない。
 
 < CARD_UNIT_YUUKI >
 name=ユウキ
@@ -621,7 +621,6 @@ descr=「賢そうなハッタリ」が手札にある時、敵が引いたカ�
 
 < CARD_COOP_UNIT_YUKI_DANGEROUS >
 name=ユキ（DANGEROUS）
-descr=Permanently turn every Tragedy in the Dead of Night held into Pudding. When an enemy triggers your trap, gain 1 Win. Gain a maximum of 1 Win from defeating wild units.
-descr=永続的に手札にある「真夜中の惨劇」を「プリン」に変化させる。自身がセットしたトラップの効果を敵が発動させた時、1ウィンを得る。野生のユニットを倒した時、最大で1ウィンを得る。
+descr=永続的に手札にある「真夜中の惨劇」を「プリン」に変化させる。自身がセットしたトラップの効果を敵が発動させた時、1ウィンを得る。ワイルドユニットを倒した時、最大で1ウィンを得る。
 
 [EOF]

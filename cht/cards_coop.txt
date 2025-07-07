@@ -80,7 +80,7 @@ flavor=「這是給好孩子禮物喲～」—亞琉
 
 < CARD_HYPER_COOP_ARTHUR2 >
 name=兔子模玩店
-descr=玩家從卡堆抽取1張卡。\n這張卡在觸發後仍會留在場上，\n但能夠被新的陷阱替換。\n這張卡對敵人或設置它的玩家不會起效。
+descr=玩家從卡堆抽取1張卡。\n這張卡在觸發後仍會留在場上，\n但能夠被新的陷阱替換。\n這張卡對敵人或放置它的玩家不會起效。
 flavor=「接下來該開店了。」—亞瑟
 
 < CARD_HYPER_COOP_ARUSCRAMBLE >
@@ -125,17 +125,17 @@ flavor=「我這就給你治療，\n乖乖待著別動。」—斬子
 
 < CARD_HYPER_COOP_KRILAEVENT >
 name=玩偶使
-descr=將3～5張「起舞吧長耳獸」\n設置在隨機的格子上。
+descr=將3～5張「起舞吧長耳獸」\n放置在隨機的格子上。
 flavor=「起舞吧長耳獸！」—克里拉拉莉絲
 
 < CARD_HYPER_COOP_KRILATRAP >
 name=起舞吧長耳獸
-descr=受到2點傷害。\n設置這張卡的玩家獲得1點HP。\n儲備效果\n在下一場戰鬥中ATK-2。\n友方不會觸發這張卡。
+descr=受到2點傷害。\n放置這張卡的玩家獲得1點HP。\n儲備效果\n在下一場戰鬥中ATK-2。\n友方不會觸發這張卡。
 flavor=「起舞吧長耳獸！」—克里拉拉莉絲
 
 < CARD_HYPER_COOP_MALT >
 name=黃昏色的夢
-descr=★COST（等級×7）\n持續效果（等級數輪）\n所有友方在BOSS格上戰鬥時ATK+1。\n當敵人移動到你設置了戰鬥卡陷阱的格子時，\n必須停在這一格。
+descr=★COST（等級×7）\n持續效果（等級數輪）\n所有友方在BOSS格上戰鬥時ATK+1。\n當敵人移動到你放置了戰鬥卡陷阱的格子時，\n必須停在這一格。
 flavor=「天空中飛舞著無數的飛翼。\n你不覺得這簡直就是夢境般的景象嗎？」\n—莫爾特
 
 < CARD_HYPER_COOP_MASTER >
@@ -180,7 +180,7 @@ flavor=「小布丁……\n我、我……愛死你了。」—QP
 
 < CARD_HYPER_COOP_SAKI >
 name=大爆炸鈴
-descr=以這張卡為中心的5×5範圍內的敵人\n受到X點傷害。\nX=2+（設置後經過的輪數÷2）。\n因這個效果而倒下的敵人失去一半的STAR，\n由設置這張卡的玩家獲得所失去的STAR。
+descr=以這張卡為中心的5×5範圍內的敵人\n受到X點傷害。\nX=2+（放置後經過的輪數÷2）。\n因這個效果而倒下的敵人失去一半的STAR，\n由放置這張卡的玩家獲得所失去的STAR。
 flavor=「嘛嗚嗚嗚哩呀呀呀呀呀！！」—紗季
 
 < CARD_HYPER_COOP_SHAM >
@@ -195,12 +195,12 @@ flavor=「我們只是，想要自由地飛翔而已。」—雪莉
 
 < CARD_HYPER_COOP_STARBREAKER >
 name=星球的導火線
-descr=將3～5個「不可視的炸彈」\n設置在隨機的格子上。
+descr=將3～5個「不可視的炸彈」\n放置在隨機的格子上。
 flavor=「因為我是星球破壞者，\n破壞星球的導火線。」—星球破壞者
 
 < CARD_HYPER_COOP_STARBREAKER2 >
 name=不可視的炸彈
-descr=敵人受到4點傷害。\n同伴不會觸發這張卡。\n只有設置這張卡的玩家自己和同伴\n可以看到這張卡。
+descr=敵人受到4點傷害。\n同伴不會觸發這張卡。\n只有放置這張卡的玩家自己和同伴\n可以看到這張卡。
 flavor=「因為我是星球破壞者，\n破壞星球的導火線。」—星球破壞者
 
 < CARD_HYPER_COOP_SWEETBREAKER >
@@ -240,7 +240,7 @@ flavor=「誰會死去，就用這個來決定吧？」—由希
 
 < CARD_HYPER_COOP_YUKIDANGEROUS >
 name=陰謀的操縱者
-descr=從卡堆抽取3張陷阱卡，\n將手牌中的所有陷阱卡設置在隨機的格子上。 
+descr=從卡堆抽取3張陷阱卡，\n將手牌中的所有陷阱卡放置在隨機的格子上。 
 flavor=「因我的力量而顫抖吧！」—由希
 
 < CARD_HYPER_COOP_ARTHUR >
@@ -320,7 +320,7 @@ flavor=「嗚嗚～」—波美拉尼亞斯
 
 < CARD_HYPER_COOP_SWEETCREATOR >
 name=甜點天堂
-descr=將3～5張「甜點縱溺」正面向上設置在\n隨機的格子上。
+descr=將3～5張「甜點縱溺」正面向上放置在\n隨機的格子上。
 flavor=「這就是甜點神的力量！」—甜點創造者
 
 < CARD_HYPER_COOP_SWEETCREATOR2 >
@@ -405,7 +405,7 @@ flavor=
 
 < CARD_BOSS_COOP_PRESENT >
 name=禮物
-descr=設置1張陷阱卡到隨機的格子。
+descr=將1張陷阱卡放置在隨機的格子上。
 flavor=
 
 < CARD_BOSS_COOP_HEADLESS_CHICKEN >
@@ -505,7 +505,7 @@ flavor=
 
 < CARD_BOSS_COOP_ASSAULTFIELD >
 name=突擊領域
-descr=將3～5張「突擊」設置在隨機的格子上。
+descr=將3～5張「突擊」放置在隨機的格子上。
 flavor=
 
 < CARD_BOSS_COOP_EVASION_DOWN >
@@ -825,7 +825,7 @@ flavor=
 
 < CARD_BOSS_COOP_CHASE_AROUND >
 name=四處追逐
-descr=所有角色傳送至隨機的格子。
+descr=所有角色傳送至隨機格子。
 flavor=
 
 < CARD_BOSS_COOP_QUAKE >
@@ -875,7 +875,7 @@ flavor=
 
 < CARD_BOSS_COOP_FRANTIC >
 name=發狂
-descr=BOSS傳送至隨機的格子3次。\n每次傳送後，對5×5範圍內的所有角色\n造成2點傷害。
+descr=BOSS傳送至隨機格子3次。\n每次傳送後，對5×5範圍內的所有角色\n造成2點傷害。
 flavor=
 
 < CARD_BOSS_COOP_WAVE_OF_DESPAIR >
@@ -950,7 +950,7 @@ flavor=
 
 < CARD_BOSS_COOP_PO_BOMBER >
 name=啵可視的炸彈
-descr=★COST（創造炸彈數×5）\n創造2～3個不可視的炸彈陷阱\n設置在隨機的格子上。
+descr=★COST（創造炸彈數×5）\n創造2～3個不可視的炸彈陷阱\n放置在隨機的格子上。
 flavor=
 
 < CARD_BOSS_COOP_PO_BOMBER_TRAP >
@@ -1015,7 +1015,7 @@ flavor=
 
 < CARD_BOSS_COOP_WHIRL >
 name=旋轉
-descr=在手下的BOSS等級數範圍內的玩家傳送至\n隨機的格子。
+descr=在手下的BOSS等級數範圍內的玩家傳送至\n隨機格子。
 flavor=
 
 < CARD_BOSS_COOP_BUBBLE_BATH >

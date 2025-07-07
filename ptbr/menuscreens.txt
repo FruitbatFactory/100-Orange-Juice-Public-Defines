@@ -1334,4 +1334,7 @@ Você pode usar Estrelas ganhadas em partidas para comprar mais pacotes Booster 
 < MENU_HOLD_CLICK_SPEEDUP >
 Segure o botão esquerdo para acelerar
 
+< MENU_CSELECT_DIFFICULTY_LABEL >
+DIFFICULDADE
+
 [EOF]

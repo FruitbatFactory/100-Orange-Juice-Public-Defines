@@ -66,10 +66,13 @@ BOSS出现了！
 抽卡。
 
 < GAME_MESSAGE_TRAPSET >
-设置了陷阱卡。
+放置陷阱卡。
 
 < GAME_MESSAGE_TRAPTRIGGER >
 陷阱卡发动。
+
+< GAME_MESSAGE_BANNERSET >
+放置旗帜卡。
 
 < GAME_MESSAGE_CARDEFFECTSTOCKED >
 已储备卡片效果。
@@ -189,3 +192,6 @@ BOSS出现了！
 
 < GAME_MESSAGE_BLUFF_NOTICE >
 这种卡片类型已被「{}」指定为下一张将使用的卡片。
+
+< GAME_MESSAGE_LOCATIONFEE_FAIL >
+未能缴纳保护费。

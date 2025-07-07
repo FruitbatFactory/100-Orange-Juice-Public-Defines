@@ -369,7 +369,7 @@ descr=Must move backwards. Norma checks are disabled.
 
 < CARD_PRICEOFPOWER_EFFECT >
 name=Price of Power
-descr=May play cards one level higher than current level. All card costs are increased by 5.
+descr=You may pay 5 more stars to play a card one level higher than your current level.
 
 < CARD_POPPOSNATCHER_EFFECT >
 name=Poppo the Snatcher
@@ -768,5 +768,13 @@ descr=When another player suffers KO, gain their Lvl x 5 stars. This effect can 
 < CARD_INTELLECTUALBLUFF_EFFECT >
 name=Intellectual-Sounding Bluff
 descr=If the next card you play is the setter's Chosen type: They gain 2 Wins and Lvl x 10 stars.\nDeclared only: They take 2 damage.
+
+< CARD_TICKEDOFF_EFFECT >
+name=We're Ticked Off!
+descr=If your HP is 1 at the start of the battle, gain +2 ATK.
+
+< CARD_LONGARMS_EFFECT >
+name=Look How Long My Arms and Legs Are Now
+descr=You may pay 5 more stars to place traps within a 2 panel radius. Increase all non-Trap, non-Gift card levels by 1 (up to 5).
 
 [EOF]

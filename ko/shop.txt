@@ -191,6 +191,9 @@ Ultimate Weapon Girl
 < SHOP_DLC_HARUKANA >
 하루카 & 카나타
 
+< SHOP_DLC_EXTRACURRICULARPACK >
+방과후 팩
+
 < SHOP_ERROR_INVENTORY_PURCHASE >
 구매할 수 없었습니다. 나중에 다시 시도해주세요.
 

@@ -265,7 +265,7 @@ descr=Si el daño recibido fuera de un combate fuera a dejarlo con menos de 1 PV
 
 < CARD_UNIT_KIRIKO >
 name=Kiriko
-descr=Ignora los efectos sanadores. Cuando usa una carta durante una pelea, consigue +1 ATK y EVD dentro de la misma, pero los PV máximos son reducidos por 1 (Min. 2)
+descr=Ignora los efectos curativos. Al usar una carta de batalla, recibe +1 ATK & EVD dentro de la misma, y consigue un efecto guardado de Medicina Extraña (-1 Máx. PV, hasta un mínimo de 2.)
 
 < CARD_UNIT_KRILA >
 name=Krilalaris

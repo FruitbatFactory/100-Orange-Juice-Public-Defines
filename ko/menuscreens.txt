@@ -1311,4 +1311,7 @@ UI 표시
 < MENU_HOLD_CLICK_SPEEDUP >
 좌클릭 버튼을 길게 눌러 가속
 
+< MENU_CSELECT_DIFFICULTY_LABEL >
+난이도
+
 [EOF]

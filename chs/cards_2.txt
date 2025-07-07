@@ -66,7 +66,7 @@ flavor=「啊！牛先生！青蛙先生！！」—夕希\n「哈哈哈！尽�
 
 < CARD_BOOST_COMPLETIONREWARD >
 name=成功报酬
-descr=获得这场游戏中你设置的陷阱\n被角色踩到次数×7的STAR。
+descr=获得这场游戏中你放置的陷阱\n被角色踩到次数×7的STAR。
 flavor=「哇，发工资啦～！」—克丽丝\n「可不要乱花哦。」—店长
 
 < CARD_BATTLE_EXTENSION >
@@ -101,7 +101,7 @@ flavor=「等等！把礼物还给我！」—亚琉
 
 < CARD_EVENT_STARBLAZINGLIGHT >
 name=烧毁星球之光
-descr=丢弃场上设置的所有陷阱卡。\n设置陷阱的人受到各自被丢弃张数×1\n的伤害。
+descr=丢弃场上放置的所有陷阱卡。\n放置陷阱的人受到各自被丢弃张数×1\n的伤害。
 flavor=「将城市……和星球烧毁的光芒……\n从天空中落下。」—优空
 
 < CARD_GIFT_UNLUCKYCHARM >
@@ -126,7 +126,7 @@ flavor=「你是不可能从我的浮游炮下\n逃脱的。」—奈奈子
 
 < CARD_HYPER_SAKI >
 name=大爆炸铃
-descr=以这张卡为中心的5×5范围内的角色\n受到X点伤害。\nX=2+（设置后经过的轮数÷2）。\n因这个效果而倒下的玩家失去一半的STAR，\n由设置这张卡的玩家获得所失去的STAR。
+descr=以这张卡为中心的5×5范围内的角色\n受到X点伤害。\nX=2+（放置后经过的轮数÷2）。\n因这个效果而倒下的玩家失去一半的STAR，\n由放置这张卡的玩家获得所失去的STAR。
 flavor=「嘛呜呜呜哩呀呀呀呀呀！！」—纱季
 
 < CARD_HYPER_KYOUSUKE >
@@ -141,12 +141,12 @@ flavor=「很好！很好！现在的感觉，最棒了！」—佳爱
 
 < CARD_HYPER_KRILA >
 name=玩偶使
-descr=将3～5张「起舞吧长耳兽」\n设置在随机的格子上。
+descr=将3～5张「起舞吧长耳兽」\n放置在随机的格子上。
 flavor=「起舞吧长耳兽！」—克里拉拉莉丝
 
 < CARD_HYPER_KRILA2 >
 name=起舞吧长耳兽
-descr=受到2点伤害。\n设置这张卡的玩家获得1点HP。\n储备效果\n在下一场战斗中ATK-2。\n这张卡对设置它的玩家不会起效。
+descr=受到2点伤害。\n放置这张卡的玩家获得1点HP。\n储备效果\n在下一场战斗中ATK-2。\n这张卡对放置它的玩家不会起效。
 flavor=「起舞吧长耳兽！」—克里拉拉莉丝
 
 < CARD_HYPER_ALTE >
@@ -171,12 +171,12 @@ flavor=「我们只是，想要自由地飞翔而已。」—雪莉
 
 < CARD_HYPER_STARBREAKER >
 name=星球的导火线
-descr=将3～5个「不可视的炸弹」\n设置在随机的格子上。
+descr=将3～5个「不可视的炸弹」\n放置在随机的格子上。
 flavor=「因为我是星球破坏者，\n破坏星球的导火线。」—星球破坏者
 
 < CARD_HYPER_STARBREAKER2 >
 name=不可视的炸弹
-descr=HP变为1。\n这张卡对设置它的玩家不会起效。\n只有设置这张卡的玩家可以看到这张卡。
+descr=HP变为1。\n这张卡对放置它的玩家不会起效。\n只有放置这张卡的玩家可以看到这张卡。
 flavor=「因为我是星球破坏者，\n破坏星球的导火线。」—星球破坏者
 
 < CARD_HYPER_SWEETBREAKER >
@@ -186,7 +186,7 @@ flavor=「向身为神明的我发出挑战的愚蠢，\n就让你切身品味�
 
 < CARD_HYPER_QPD >
 name=甜点守护者
-descr=从卡堆里抽取2张名字含有「布丁」的卡片。\n如果卡堆中没有名字含有「布丁」的卡片，\n随机获得1张「危险布丁」或「糟糕的布丁」。
+descr=从卡堆里抽取2张名称含有「布丁」的卡片。\n如果卡堆中没有名称含有「布丁」的卡片，\n随机获得1张「危险布丁」或「糟糕的布丁」。
 flavor=「小布丁……\n我、我……爱死你了。」—QP
 
 < CARD_HYPER_SORAM >
@@ -226,7 +226,7 @@ flavor=「复仇！」—托玛特
 
 < CARD_HYPER_KIRIKO >
 name=决杀手术
-descr=击倒所有HP为1的角色。\n每通过该效果击倒1名角色，移除1层「奇怪的药」，获得25颗STAR。
+descr=击倒所有HP为1的角色。\n每通过该效果击倒1名角色，\n移除1层「奇怪的药」，获得25颗STAR。
 flavor=「我这就给你治疗，\n乖乖待着别动。」—斩子
 
 < CARD_HYPER_NONAME >
@@ -271,7 +271,7 @@ flavor=「在这边！我的鼻子是不会错的！」—QP
 
 < CARD_GIFT_PRICEOFPOWER >
 name=力量的代价
-descr=你可以使用比当前等级高1级的卡片。\n所有卡片COST+5。\n使用将丢弃这张卡。
+descr=你可以多花5颗STAR使用比你当前等级高1级的卡片。\n使用将丢弃这张卡。
 flavor=「有着这样的身体，就算在战争中活下来了，\n我也做不了任何事。」—娜德
 
 < CARD_GIFT_VALENTINESDAY2018 >
@@ -286,7 +286,7 @@ flavor=
 
 < CARD_HYPER_YUKIDANGEROUS >
 name=阴谋的操纵者
-descr=从卡堆抽取3张陷阱卡，\n将手牌中的所有陷阱卡设置在随机的格子上。 
+descr=当你所在的格子没有陷阱时，从手牌中随机放置一张陷阱卡。\n然后从卡堆抽取3张陷阱卡，将手牌中的所有陷阱卡放置在随机的格子上。 
 flavor=「因我的力量而颤抖吧！」—由希
 
 < CARD_HYPER_TOMOMOCASUAL >
@@ -311,12 +311,12 @@ flavor=「一下子就消失了啦！」—杏
 
 < CARD_HYPER_TEQUILA >
 name=海贼在天上飞？
-descr=将2～3张「飞天海贼」\n设置在随机的格子上。
+descr=将2～3张「飞天海贼」\n放置在随机的格子上。
 flavor=「又没有不让海贼在天上飞的法律！」—铁基拉
 
 < CARD_HYPER_TEQUILA2 >
 name=飞天海贼
-descr=与设置这张卡的玩家\n所召唤的「海贼小弟」战斗。\n对方先攻。\n这张卡对设置它的玩家不会起效。
+descr=与放置这张卡的玩家\n所召唤的「海贼小弟」战斗。\n对方先攻。\n这张卡对放置它的玩家不会起效。
 flavor=「老大——！」—海贼小弟
 
 < CARD_HYPER_MEI >
@@ -347,11 +347,11 @@ flavor=「哇～！妮可会加油的！」—妮可
 < CARD_HYPER_ARTHUR >
 name=店铺扩张战略
 descr=★COST（手牌数×5）\n所有的手牌（包括这张卡）\n变为「兔子模玩店」。\n这个回合你可以再使用1张卡片。
-flavor=「哼。」—亚瑟
+flavor=「呼……」—亚瑟
 
 < CARD_HYPER_ARTHUR2 >
 name=兔子模玩店
-descr=支付X颗STAR给设置这张卡的玩家，\nX为设置这张卡的玩家的等级数。\n从卡堆抽取1张卡。\n这张卡在触发后仍会留在场上，\n但能够被新的陷阱替换。\n这张卡对设置它的玩家不会起效。
+descr=支付X颗STAR给放置这张卡的玩家，\nX为放置这张卡的玩家的等级数。\n从卡堆抽取1张卡。\n这张卡在触发后仍会留在场上，\n但能够被新的陷阱替换。\n这张卡对放置它的玩家不会起效。
 flavor=「接下来该开店了。」—亚瑟
 
 < CARD_HYPER_IRU >
@@ -401,7 +401,7 @@ flavor=「装上了那么重的东西，太可怜了吧！」—玛儿
 
 < CARD_BOOST_PATHBLOCKERS >
 name=拦路者
-descr=储备效果（1）\n指定1名存活角色，当这名角色移动到设置了\n陷阱卡的格子时，必须停留在那一格。
+descr=储备效果（1）\n指定1名存活角色，当这名角色移动到放置了\n陷阱卡的格子时，必须停留在那一格。
 flavor=「这里由我们阴谋组把守，\n谁都别想过！」—托玛特
 
 < CARD_EVENT_ACCELERATINGSKY >
@@ -441,7 +441,7 @@ flavor=「今天的便当是布丁！」—QP
 
 < CARD_BOOST_SWEETDESTROYER >
 name=甜点的破坏者
-descr=从其他玩家手中各随机夺取1张名字\n含有「布丁」的卡片。\n这个回合你可以再使用1张卡片。\n3轮内，抽取的所有非Hyper甜点类卡片\n随机永久变为「危险布丁」或「糟糕的布丁」。
+descr=从其他玩家手中各随机夺取1张名称\n含有「布丁」的卡片。\n这个回合你可以再使用1张卡片。\n3轮内，抽取的所有非Hyper甜点类卡片\n随机永久变为「危险布丁」或「糟糕的布丁」。
 flavor=「给世间带来灾祸的甜点……\n就由我来破坏！」—甜点破坏者
 
 < CARD_BOOST_BACKDOORTRADE >
@@ -476,7 +476,7 @@ flavor=「毕竟这是个懦弱的时代。」—雪莉
 
 < CARD_TRAP_IWANNASEEYOU >
 name=好想见到你
-descr=设置这张卡的玩家传送至触发陷阱的格子。\n这张卡在触发后不会被丢弃，而是被触发它\n的玩家获得。
+descr=放置这张卡的玩家传送至触发陷阱的格子。\n这张卡在触发后不会被丢弃，而是被触发它\n的玩家获得。
 flavor=「QP太……好想立刻见到你。」—京介
 
 < CARD_TRAP_ENCORE >
@@ -543,6 +543,66 @@ flavor=「偶尔放松一下也不错啊。」—缇欧特拉塔
 name=可爱大对决
 descr=先攻时才能使用。战斗结果将由一场可爱对决来决定。\n可爱度=10-HP上限-ATK+EVD，最低为0。\n双方不再投掷进攻骰，而是投掷两枚骰子，并将\n结果累加至可爱度中。可爱度较高者将夺取\n失败方等级×5的STAR，并获得1WIN。\n然后结束战斗。\n只能对玩家使用。
 flavor=「那么谁才是最可爱的人呢！？」—纱季
+
+< CARD_GIFT_RANGEDTRAPS >
+name=手长脚也长
+descr=你可以多花5颗STAR将陷阱放置在5×5的范围内。所有非陷阱、非礼物的卡片等级+1（上限为5）。\n在使用或踩到陷阱时，将丢弃这张卡。
+flavor=「让母亲用这双长手抱抱你吧啵。」—母亲啵噗
+
+< CARD_BANNER_FLUFFYANDFUZZY >
+name=毛茸茸软绵绵
+descr=在使用带有伤害效果的卡片时，对每个角色的初次伤害额外+1。
+flavor=「你能看破我华丽的攻击吗？」—波美拉尼亚斯
+
+< CARD_BANNER_ENERGYDRINK >
+name=来罐饮料提提神
+descr=所有玩家REC-1。
+flavor=「这下就能玩到天亮了！」—啵悠
+
+< CARD_BANNER_LOCATIONFEE >
+name=保护费
+descr=停留在其他玩家的HOME格时，需向对方缴纳自己等级×2的STAR。未通过目标检测时，将跳过下一个回合。
+flavor=「这根本就是敲诈啊……」—露露
+
+< CARD_BOOST_CHEF_SPECIAL >
+name=厨师长特别推荐
+descr=随机恢复2点HP或受到1点伤害。##（触发：HP降至1点）：\n随机恢复所有HP或将HP设为1点。
+flavor=「这就是今天的推荐菜品！」—克丽丝
+
+< CARD_BOOST_GO_WITH_FLOW >
+name=随风而行
+descr=传送至随机格子。
+flavor=「哈琳娜～！绝对是走这边更好。」—库克
+
+< CARD_BATTLE_COMINGBACKSTRONGER >
+name=越挫越勇
+descr=ATK+1。##（触发：倒下）：\nATK+2。
+flavor=「就是说越是危机的时候就越是能燃起来？」—超能艾莉
+
+< CARD_GIFT_TICKEDOFF >
+name=你把我惹毛了！
+descr=如果你在战斗开始时HP为1，ATK+2。\n若你在该效果起效时被战斗击倒，丢弃这张卡。
+flavor=「啊，这可得好好发泄一下了。」—䌷
+
+< CARD_EVENT_GREATEST_TROUBLEMAKER >
+name=烦人透顶的家伙
+descr=对随机角色造成3点伤害。##重复（1）：每有1名角色被这张卡击倒，抽取1张卡。##重复（2）：若该角色因此被击倒，对另1名随机角色造成1点伤害。
+flavor=「这次要怎么毁灭世界呢？」—魅樱
+
+< CARD_BOOST_FULL_BURST >
+name=全力爆发
+descr=抽取1张卡。这个回合你可以再使用1张卡片。该卡片可比你当前等级高1级。若你这么做，丢弃你的所有手牌。##重复（1）：额外抽取一张卡。
+flavor=「我要全力出击了。」—娜德
+
+< CARD_BATTLE_MOUSSETHETHIEF >
+name=小偷唠鼠
+descr=在战斗卡效果激活后，从敌人手中随机偷取1张未在这场战斗中使用的卡片。
+flavor=「等等，那是很重要的东西。」—优空
+
+< CARD_EVENT_EXTREMEALTERATION >
+name=魔改
+descr=持续效果（2轮）\n将所有遭遇格与BOSS遭遇格转换为掉落格。将所有奖励格转换为抽卡格。将所有治疗格转换为伤害格。##（触发：踩在抽卡、伤害或掉落格3次{0}）：\n将所有遭遇格与BOSS遭遇格转换为掉落×2格。将所有奖励格转换为抽卡×2格。将所有治疗格转换为伤害×2格。
+flavor=「让我来给这个世界治治病……」—斩子
 
 < CARD_HYPER_SUGURI46 >
 name=永恒的观测者
@@ -656,7 +716,7 @@ flavor=「你想请我帮忙……？\n哎呀哎呀，我当然乐意帮助朋�
 
 < CARD_HYPER_MALT >
 name=黄昏色的梦
-descr=★COST（等级×7）\n持续效果（等级数轮）\n将所有奖励格与抽卡格变为遭遇格。\n当敌人移动到你设置了战斗卡陷阱的遭遇格时，\n必须停在这一格。
+descr=★COST（等级×7）\n持续效果（等级数轮）\n将所有奖励格与抽卡格变为遭遇格。\n当敌人移动到你放置了战斗卡陷阱的遭遇格时，\n必须停在这一格。
 flavor=「天空中飞舞着无数的飞翼。\n你不觉得这简直就是梦境般的景象吗？」\n—莫尔特
 
 < CARD_HYPER_MESCAL >
@@ -686,7 +746,7 @@ flavor=「呜呜～」—波美拉尼亚斯
 
 < CARD_HYPER_SWEETCREATOR >
 name=甜点天堂
-descr=将3～5张「甜点纵溺」设置在随机的格子上。
+descr=将3～5张「甜点纵溺」放置在随机的格子上。
 flavor=「这就是甜点之神的力量！」—甜点创造者
 
 < CARD_HYPER_SWEETCREATOR2 >
@@ -887,6 +947,11 @@ flavor=「你的手牌已经被我看透了。」—夏奈多
 < CARD_GENERIC_GIFT >
 name=礼物卡
 descr=礼物卡？送给我的？你可太客气了。
+flavor=「你的手牌已经被我看透了。」—夏奈多
+
+< CARD_GENERIC_BANNER >
+name=旗帜卡
+descr=这是张旗帜卡。
 flavor=「你的手牌已经被我看透了。」—夏奈多
 
 [EOF]

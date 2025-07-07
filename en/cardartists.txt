@@ -161,4 +161,16 @@ worker
 < CARD_ARTIST_PHLE >
 PhleBuster
 
+< CARD_ARTIST_JO >
+jo
+
+< CARD_ARTIST_TANGO >
+TangoStar
+
+< CARD_ARTIST_OYAMA >
+Oyama
+
+< CARD_ARTIST_AZUREE >
+Azurée
+
 [EOF]

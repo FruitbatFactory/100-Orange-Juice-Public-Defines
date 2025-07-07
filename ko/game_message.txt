@@ -71,6 +71,9 @@
 < GAME_MESSAGE_TRAPTRIGGER >
 트랩 카드가 발동했습니다.
 
+< GAME_MESSAGE_BANNERSET >
+배너 카드가 세팅되었습니다.
+
 < GAME_MESSAGE_CARDEFFECTSTOCKED >
 카드 효과가 스톡되었습니다.
 
@@ -256,4 +259,7 @@
 ...이 타입의 카드를 낸다!
 
 < GAME_MESSAGE_BLUFF_NOTICE >
-{}은(는) 다음에 이 카드가 나올 것이라고 예상했습니다。
+{}은(는) 다음에 이 카드가 나올 것이라고 예상했습니다.
+
+< GAME_MESSAGE_LOCATIONFEE_FAIL >
+보호세를 낼 수 없었습니다.

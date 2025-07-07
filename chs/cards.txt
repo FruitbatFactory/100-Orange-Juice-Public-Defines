@@ -86,7 +86,7 @@ flavor=「最重要的是，要活着回来。」—夏姆
 
 < CARD_TRAP_ASSAULT >
 name=突击
-descr=与设置这张卡的玩家进行战斗，\n对方先攻。
+descr=与放置这张卡的玩家进行战斗，\n对方先攻。
 flavor=「今天我一定要让你离开公会！」—彼特
 
 < CARD_TRAP_BADPUDDING >
@@ -101,7 +101,7 @@ flavor=仅仅一眼，她就被那个布丁迷住了。
 
 < CARD_TRAP_EXCHANGE >
 name=互相交换
-descr=与设置这张卡的玩家\n手牌·STAR·所在位置交换。
+descr=与放置这张卡的玩家\n手牌·STAR·所在位置交换。
 flavor=「……好重。」—须玖莉\n「好清爽……」—玛儿
 
 < CARD_TRAP_FLAMETHROWER >
@@ -111,12 +111,12 @@ flavor=「呀——哈！」—朋克小混混
 
 < CARD_TRAP_TOYSTORE >
 name=为了玩具店的未来
-descr=失去一半的STAR。\n设置这张卡的玩家获得失去的STAR。\n这张卡只有在STAR未满50时才可以使用。
+descr=失去一半的STAR。\n放置这张卡的玩家获得失去的STAR。\n这张卡只有在STAR未满50时才可以使用。
 flavor=「只要！\n只要圣诞小姐不在了的话！！」—亚瑟
 
 < CARD_TRAP_GOAWAY >
 name=飞一边去
-descr=移动至随机的格子。
+descr=移动至随机格子。
 flavor=「啊哈哈，这招真好用。」—奈奈子
 
 < CARD_TRAP_HEAT300 >
@@ -136,7 +136,7 @@ flavor=「作为感谢就请去死吧！」—米缪
 
 < CARD_TRAP_PIGGYBANK >
 name=存钱罐
-descr=获得从这张卡设置之后\n经过的轮数×5的STAR。
+descr=获得从这张卡放置之后\n经过的轮数×5的STAR。
 flavor=「爸爸，还不能打开吗？」—梅丝卡尔
 
 < CARD_TRAP_PURES >
@@ -146,7 +146,7 @@ flavor=「客人一位这边请～！」—克丽丝
 
 < CARD_TRAP_TRAGEDY >
 name=深夜的惨剧
-descr=随机丢弃1张手牌。\n丢弃的卡片由设置这张卡的玩家获得。
+descr=随机丢弃1张手牌。\n丢弃的卡片由放置这张卡的玩家获得。
 flavor=那份幸福瞬间就被夺走了。
 
 < CARD_EVENT_SEAGULLS >
@@ -171,7 +171,7 @@ flavor=「来交换吧，\n就这么做吧。」—小兔子、小红和小蓝
 
 < CARD_EVENT_HEREANDTHERE >
 name=到处都是
-descr=所有角色移动至随机的格子。
+descr=所有角色移动至随机格子。
 flavor=「向下一个世界，出发啵～！」—玛丽啵噗
 
 < CARD_EVENT_HOLYNIGHT >
@@ -206,7 +206,7 @@ flavor=「就算做好了准备也会很痛的！！」—兔萌萌
 
 < CARD_EVENT_WARUDA >
 name=我们是阴谋组
-descr=场上设置的所有陷阱卡移动至随机的格子。
+descr=场上放置的所有陷阱卡移动至随机格子。
 flavor=「没用的没用的，\n小托玛特是无敌的！」—托玛特
 
 < CARD_HYPER_SUGURI >

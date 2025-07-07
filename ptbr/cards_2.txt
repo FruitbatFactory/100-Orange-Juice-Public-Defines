@@ -271,7 +271,7 @@ flavor="Por aqui! Meu faro nunca erra!" ―QP
 
 < CARD_GIFT_PRICEOFPOWER >
 name=Preço do Poder
-descr=Você pode jogar cartas de um nível superior ao seu nível atual. O custo de todas as cartas é aumentado em 5. Esta carta é descartada após o uso.
+descr=Você pode pagar 5 estrelas a mais para jogar cartas de um nível superior ao seu nível atual. Esta carta é descartada após o uso.
 flavor="Mesmo que eu sobreviva a essa guerra... Com este corpo, não existe nada que eu possa fazer." ―Nath
 
 < CARD_GIFT_VALENTINESDAY2018 >
@@ -286,7 +286,7 @@ flavor=
 
 < CARD_HYPER_YUKIDANGEROUS >
 name=Mestra do Mal
-descr=Compre 3 cartas armadilha do baralho e depois coloque todas as cartas armadilha em mãos em casas aleatórias.
+descr=Se seu painel não tiver nenhuma armadilha ativa, coloque uma armadilha aleatória de sua mão nele. E então compre 3 cartas armadilha do baralho e depois coloque todas as cartas armadilha em mãos em casas aleatórias.
 flavor="Tema meus poderes!" ―Yuki
 
 < CARD_HYPER_TOMOMOCASUAL >
@@ -441,7 +441,7 @@ flavor="Eu tenho pudim para o almoço hoje!" ―QP
 
 < CARD_BOOST_SWEETDESTROYER >
 name=Sweet Destroyer
-descr=Roube uma carta de "pudim" aleatória de cada outro jogador. Você pode jogar outra carta neste turno. Durante 3 capítulos, todas as cartas do tipo Doces que não forem Hipers são permanentemente transformadas de forma aleatória em Pudim Ruim ou Pudim Perigoso.
+descr=Roube uma carta de "pudim" aleatória de mais outro jogador. Você pode jogar outra carta neste turno. Durante 3 capítulos, todas as cartas do tipo Doces que não forem Hipers são permanentemente transformadas de forma aleatória em Pudim Ruim ou Pudim Perigoso.
 flavor="Os doces que causam problemas no mundo... Eu irei destruir todos!" ―Sweet Breaker
 
 < CARD_BOOST_BACKDOORTRADE >
@@ -501,7 +501,7 @@ flavor="Galera, está na hora do rango! Venham comer!" ―Syura
 
 < CARD_EVENT_HOMEIMPROVEMENT >
 name=Melhoria na Casa
-descr=Ao começo de seu próximo turno, troca aleatóriamente a posição dos painéis de casa. O primeiro jogador a pisar em cada casa compra uma carta.
+descr=Ao começo de seu próximo turno, troca aleatoriamente a posição dos painéis de casa. O primeiro jogador a pisar em cada casa compra uma carta.
 flavor="Sumika irá construir para ela uma casa bonita e aconchegante." ―Sumika
 
 < CARD_TRAP_BANANANA >
@@ -514,9 +514,69 @@ name=Setes da Sorte
 descr=Ao segurar esta carta, seu dado natural vai de 0 a 7, e o resultado mínimo de rolagem resulta em 0 quando rolar 0.\nNão pode fazer uma checagem de Norma após rolar 0 para movimentação no mesmo turno.
 flavor="Eu posso até mesmo controlar os dados que jogo." ―Yuki
 
+< CARD_GIFT_RANGEDTRAPS >
+name=Olha Como Meus Braços E Pernas Estão Longos Agora
+descr=Você pode pagar 5 estrelas a mais para colocar armadilhas em um raio de 2 painéis. Aumente todos os níveis de cartas que não sejam Armadilhas e Presentes em 1 (até 5). Esta carta é descartada ao ser usada ou ao cair em uma armadilha.
+flavor="Permita que Mãe te abrace com esses braços longos dela." ―Mãe Poppo
+
+< CARD_BANNER_FLUFFYANDFUZZY >
+name=Fofinho e Peludo
+descr=Ao jogar uma carta com efeito de dano, na primeira vez que ela causar dano a cada unidade, ela causará 1 ponto de dano a mais.
+flavor="Você consegue lidar com esse meu ataque elegante?" ―Pomeranius
+
+< CARD_BANNER_ENERGYDRINK >
+name=Sinta a Adrenalina Com Um Energético
+descr=Todos os jogadores ganham -1 REC.
+flavor="Agora podemos nos divertir até o sol nascer!" ―Poyo
+
+< CARD_BANNER_LOCATIONFEE >
+name=Taxa de Proteção
+descr=Ao parar no Painel de Casa de outro jogador, pague (seu Nível) x2 estrelas a ele. Se não pagar, seu próximo turno será pulado.
+flavor="Isso é um roubo..." ―Lulu
+
+< CARD_BOOST_CHEF_SPECIAL >
+name=Especial do Chef
+descr=Aleatoriamente cure 2 HP ou tome 1 de dano.##(Gatilho: Descer até 1 HP):\nAleatoriamente cure para HP cheio ou coloque o HP em 1.
+flavor="Isto é o que recomendamos hoje!" ―Chris
+
+< CARD_BOOST_GO_WITH_FLOW >
+name=Siga o Fluxo
+descr=Teleporte para um painel aleatório.
+flavor="Halena! Esta direção é melhor, confie na Cook." ―Cook
+
+< CARD_BATTLE_COMINGBACKSTRONGER >
+name=Voltando Mais Forte
+descr=Ganhe +1 ATK.##(Gatilho: Sofra nocaute):\nGanhe +2 ATK.
+flavor="Quanto maior o problema, mais agitada eu fico, imagino?" ―Ellie
+
+< CARD_GIFT_TICKEDOFF >
+name=Estamos irritados!
+descr=Se seu HP for 1 no começo da batalha, ganhe +2 ATK.\nSe você sofrer nocaute em batalha enquanto este efeito estiver ativo, descarte esta carta.
+flavor="Certo, acho que preciso exagerar um pouco agora." ―Chuu
+
+< CARD_EVENT_GREATEST_TROUBLEMAKER >
+name=A Maior Encrenqueira de Todos os Tempos
+descr=Dê 3 de dano a uma unidade aleatória.##Repita (1): Compre uma carta para cada unidade nocauteada por esta carta. ##Repita (2):  Se a unidade for nocauteada, dê 1 de dano para outra unidade aleatória.
+flavor="Como eu quero destruir um mundo desta vez?" ―Mio
+
+< CARD_BOOST_FULL_BURST >
+name=Explosão Cheia
+descr=Compre uma carta. Você pode jogar mais uma carta neste turno. Ela pode ser um nível superior ao seu nível atual. Se você o fizer, descarte sua mão.##Repita (1): Compre mais uma carta.
+flavor="Eu estou indo com tudo." ―Nath
+
+< CARD_BATTLE_MOUSSETHETHIEF >
+name=Mousse a Ladra
+descr=Após a ativação de uma carta de batalha, roube uma carta aleatória do inimigo que não foi usada nessa batalha.
+flavor="Espere, isso é algo importante para mim." ―Sora
+
+< CARD_EVENT_EXTREMEALTERATION >
+name=Alteração Extrema
+descr=Duração do Efeito: 2 capítulos.\nTorne todos os Painéis de Encontro e de Encontro com Chefe em Painéis de Perda. Torne todos os Painéis de Bônus em Painéis de Compra. Torne todos os Painéis de Cura em Painéis de Dano.##(Gatilho: parar em 3 Painéis de Compra, Dano ou Perda{0}):\nTorne todos os Painéis de Encontro e de Encontro com Chefe em 2x Painéis de Perda. Torne todos os Painéis de Bônus em 2x Painéis de Compra. Torne todos os Painéis de Cura em 2x Painéis de Dano.
+flavor="Eu vou curar a doença no qual este mundo está sofrendo..." ―Kiriko
+
 < CARD_HYPER_SUGURI46 >
 name=Observadora da Eternidade
-descr=Adiciona duas cartas aleatórias de Boost/Evento que deem dano a sua mão.\nVocê pode jogar outra carta neste turno.
+descr=Adiciona duas cartas aleatórias de Boost/Evento que deem dano a sua mão.\nVocê pode jogar mais uma carta neste turno.
 flavor="Certo, vamos ver qual será o resultado disso." ―Suguri
 
 < CARD_HYPER_SUMIKA >
@@ -632,7 +692,7 @@ flavor="Agora, vamos dançar." ―Hime
 
 < CARD_HYPER_FERNET_NOBILITY >
 name=Nova Nobreza
-descr=Efeito de Estoque: Todas as unidades adversárias ganham aleatóriamente -1 ATK, DEF ou EVD durante a próxima luta delas.\nSe segurado por Fernet, esta carta pode ser transformada em "Afluência (1)" no lugar.
+descr=Efeito de Estoque: Todas as unidades adversárias ganham aleatoriamente -1 ATK, DEF ou EVD durante a próxima luta delas.\nSe segurado por Fernet, esta carta pode ser transformada em "Afluência (1)" no lugar.
 flavor="É uma honra te conhecer. Eu espero que a gente se dê bem no futuro." ―Fernet
 
 < CARD_HYPER_FERNET_AFFLUENCE >
@@ -847,12 +907,12 @@ flavor=
 
 < CARD_CHAOS_ROULETTE >
 name=Roleta Caótica
-descr=Adicione uma carta aleatória entre Galinheiro Caótico, Proteção Caótica e Do Abismo Caótico para sua mão.\nVocê pode jogar outra carta em este turno.
+descr=Adicione uma carta aleatória entre Galinheiro Caótico, Proteção Caótica e Do Abismo Caótico para sua mão.\nVocê pode jogar mais uma carta em este turno.
 flavor=
 
 < CARD_CHAOS_POOL >
 name=Piscina Caótica
-descr=Invoca aleatóriamente entre Posto, Balão, ou Boia de Natação. Apenas uma invocação pode estar em campo por vez. Usar esta carta novamente após uma invocação estar em campo irá repor aquela invocação com uma nova.
+descr=Invoca aleatoriamente entre Posto, Balão, ou Boia de Natação. Apenas uma invocação pode estar em campo por vez. Usar esta carta novamente após uma invocação estar em campo irá repor aquela invocação com uma nova.
 flavor=
 
 < CARD_CHAOS_GIFT_HOTPOTATO >
@@ -923,6 +983,11 @@ flavor="Eu consigo ver quais cartas você tem na mão." ―Kanata
 < CARD_GENERIC_GIFT >
 name=Carta de Presente
 descr=Uma carta de presente? Pra mim? Aí, não precisava.
+flavor="Eu consigo ver quais cartas você tem na mão." ―Kanata
+
+< CARD_GENERIC_BANNER >
+name=Carta de Banner
+descr=Esta é uma carta de Banner.
 flavor="Eu consigo ver quais cartas você tem na mão." ―Kanata
 
 [EOF]

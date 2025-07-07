@@ -22,3 +22,12 @@ NÃO É O ATACANTE
 
 < CARD_RESTRICT_DEFENSE_LABEL >
 NÃO É O DEFENSOR
+
+< CARD_TERM_BANNER >
+(BANNER: Coloque no seu painel atual quando jogado. O efeito dessa carta se mantém ativo até qualquer unidade parar nela, o que irá removê-lo.)
+
+< CARD_TERM_TRIGGER >
+(GATILHO: O efeito regular da carta é alterado para o efeito de Gatilho se a condição for atingida enquanto segura a carta.)
+
+< CARD_TERM_UPDATE >
+(REPITA (X): Após cartas do mesmo nome forem jogadas X vezes por qualquer jogador, a carta ganha efeitos adicionais.)

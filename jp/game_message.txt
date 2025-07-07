@@ -71,6 +71,9 @@
 < GAME_MESSAGE_TRAPTRIGGER >
 トラップカードが発動しました
 
+< GAME_MESSAGE_BANNERSET >
+バナーカードがセットされました
+
 < GAME_MESSAGE_CARDEFFECTSTOCKED >
 カード効果がストックされました
 
@@ -189,3 +192,6 @@
 
 < GAME_MESSAGE_BLUFF_NOTICE >
 {}は、次にこのカードが使われると予想しました。
+
+< GAME_MESSAGE_LOCATIONFEE_FAIL >
+ショバ代を支払うことができませんでした

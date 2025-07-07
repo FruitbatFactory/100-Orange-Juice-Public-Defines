@@ -1315,5 +1315,8 @@ No se encuentra disponible.
 < MENU_HOLD_CLICK_SPEEDUP >
 Mantén presionado el botón izquierdo del mouse para avanzar
 
+< MENU_CSELECT_DIFFICULTY_LABEL >
+DIFICULTAD
+
 
 [EOF]

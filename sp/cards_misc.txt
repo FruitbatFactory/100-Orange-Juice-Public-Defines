@@ -22,3 +22,12 @@ SÓLO EN EL ATACANTE
 
 < CARD_RESTRICT_DEFENSE_LABEL >
 SÓLO EN EL DEFENSOR
+
+< CARD_TERM_BANNER >
+(PANCARTA: Colocado en tu panel actual al ser usado. El efecto de la carta permanecerá activo hasta que una unidad se detenga sobre la pancarta, lo cual la quitará.)
+
+< CARD_TERM_TRIGGER >
+(ACTIVACIÓN: El efecto regular de la carta es reemplazado con un efecto de Activación al cumplir con las condiciones de la carta en mano.)
+
+< CARD_TERM_UPDATE >
+(REPETICIÓN (X): Una vez que las cartas del mismo nombre hayan sido jugadas X número de veces por cualquier jugador, la carta recibe efectos adicionales.)

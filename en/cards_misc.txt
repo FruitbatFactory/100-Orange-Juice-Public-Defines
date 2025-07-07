@@ -22,3 +22,12 @@ NOT ATTACKER
 
 < CARD_RESTRICT_DEFENSE_LABEL >
 NOT DEFENDER
+
+< CARD_TERM_BANNER >
+(BANNER: Set onto your current panel when played. The card's effect remains active until any unit stops on it, which will remove it.)
+
+< CARD_TERM_TRIGGER >
+(TRIGGER: Regular card effect is replaced with the Trigger effect if the condition is met while holding the card.)
+
+< CARD_TERM_UPDATE >
+(REPEAT (X): After cards of the same name have been played X times by any player, card gains additional effects.)

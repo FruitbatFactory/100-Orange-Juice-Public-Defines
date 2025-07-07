@@ -2,7 +2,7 @@
 // (watty)
 <0000> U-um, Mister Pomeranius? Where's Miss Arnelle? W-we made plans to go out shopping today...
 // (pomeranius)
-<0001> Alas, m'lady has her hands full containing that wild child.
+<0001> Alas, M'lady has her hands full containing that wild child.
 // (watty)
 <0002> Oh no... Maynie did seem kind of jealous when she agreed to come with me... I'm sorry for causing problems. I'll... I'll just go home.
 // (pomeranius)
@@ -10,7 +10,7 @@
 // (watty)
 <0004> O-oh, I couldn't ask you to do that, Mr. Pomeranius.
 // (pomeranius)
-<0005> Correct, but m'lady can, and has. She has also instructed me to treat you with the care and respect I would reserve for her.
+<0005> Correct, but M'lady can, and has. She has also instructed me to treat you with the care and respect I would reserve for her.
 // (watty)
 <0006> Mr. Pomeranius, I-I can hear you grinding your teeth from here...
 // (pomeranius)
@@ -18,7 +18,7 @@
 // (watty)
 <0008> Oh no... I wish I could just sink to the bottom of the sea.
 // (pomeranius)
-<0009> If I might be so bold, why do you require m'lady's support for a simple shopping trip?
+<0009> If I might be so bold, why do you require M'lady's support for a simple shopping trip?
 // (watty)
 <0010> Oh, um, well... I-I don't come into town very often, actually, so shopping is a big deal. My body causes all sorts of problems.
 // (pomeranius)
@@ -66,17 +66,17 @@
 // (pomeranius)
 <0032> Casino infiltration...? Ah, the bunny suit. M'lady is quite fond of it. She says it makes her feel but one step away from sagehood.
 // (watty)
-<0033> M-m-m-Mr Pomeranius, we can't go to that tailor! Miss Arnelle's outfits are so, um, daring, and there's no way somebody like me could ever...
+<0033> M-M-M-Mr. Pomeranius, we can't go to that tailor! Miss Arnelle's outfits are so, um, daring, and there's no way somebody like me could ever...
 // (pomeranius)
-<0034> Nonsense. Throw out your chest and raise your head. You are a member of Team Arnelle, and m'lady and I have invested our time into you. Walk with pride, Watty.
+<0034> Nonsense. Throw out your chest and raise your head. You are a member of Team Arnelle, and M'lady and I have invested our time into you. Walk with pride, Watty.
 // (watty)
 <0035> Actually, I kind of slither... W-wait, what I mean is, this and that are separate things. I just can't dress the way Miss Arnelle does. I'd die of shame.
 // (pomeranius)
-<0036> Oho? Are you saying m'lady's fashion sense is shameful?
+<0036> Oho? Are you saying M'lady's fashion sense is shameful?
 // (watty)
 <0037> No, but-
 // (pomeranius)
-<0038> Then come. Though I'm sure you will not reach the heights of m'lady, a new wardrobe will make you look quite the catch.
+<0038> Then come. Though I'm sure you will not reach the heights of M'lady, a new wardrobe will make you look quite the catch.
 // (watty)
 <0039> T-thank you, Mr. Pomeranius, but...
 // (pomeranius)
@@ -84,7 +84,7 @@
 // (watty)
 <0041> T... thanks...?
 // (pomeranius)
-<0042> It's usually m'lady's exclusive privilege, but... I understand now that grooming presents unique challenges for both you and I. I shall trust you with my gorgeous fur.
+<0042> It's usually M'lady's exclusive privilege, but... I understand now that grooming presents unique challenges for both you and I. I shall trust you with my gorgeous fur.
 // (watty)
 <0043> But, um...
 // (pomeranius)
@@ -100,7 +100,7 @@
 // (watty)
 <0049> But Mr. Pomeranius!! How are you expecting me to wear tights and high heels when I have no legs?!
 // (pomeranius)
-<0050> The same way we should endeavour to face all challenges as m'lady's followers: with poise, and dignity. Onwards, Watty!
+<0050> The same way we should endeavour to face all challenges as M'lady's followers: with poise, and dignity. Onwards, Watty!
 // (watty)
 <0051> Ahhhh... please, let me goooooo...
 

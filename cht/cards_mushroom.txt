@@ -98,7 +98,7 @@ descr=這場戰鬥中，投出的點數為6。
 descr=獲得%d輪寒冰步效果。
 
 < CARD_SHROOM_WARP >
-descr=傳送至隨機的格子。
+descr=傳送至隨機格子。
 
 < CARD_SHROOM_CONFUSION >
 descr=持續%d輪手牌翻轉。\n（你只能看到手牌背面，\n其他玩家能看到正面。）

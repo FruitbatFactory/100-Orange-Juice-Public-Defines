@@ -27,7 +27,7 @@
 移動%d格
 
 < CHALLENGE_GENERIC_TRAPS >
-設置%d次陷阱卡
+放置%d次陷阱卡
 
 < CHALLENGE_GENERIC_STAR_NORMAS >
 達成%d次STAR目標
