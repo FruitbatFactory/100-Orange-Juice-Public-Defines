@@ -114,3 +114,7 @@ descr=
 < FIELDEVENT_CONVERGENCE >
 name=収束
 descr=現在のフィールドが別のランダムなフィールドに変化する。\n\n頻度：6チャプター毎
+
+< FIELDEVENT_CLASHOFCAKES >
+name=ケーキ
+descr=全てのプレイヤーが「ミオの偽ケーキ」カードを受け取る。\n\n頻度：6チャプター毎

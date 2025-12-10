@@ -68,7 +68,7 @@
 // (chuu)
 <0033> And can I ask why you're here, student council president?
 // (mimomo)
-<0034> Because I heard Popomi was gonna do something fun around here★
+<0034> Because I heard Popomi was gonna do something fun around here♥
 // (popomi)
 <0035> Mimo's a beginner at the board game, so I'll pair up with her. That'd give you guys a fair advantage against me.
 // (poyo)

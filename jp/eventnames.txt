@@ -43,4 +43,7 @@
 < EVENTNAME_SUMMER2025 >
 トリプル・トラブル
 
+< EVENTNAME_WINTER2025 >
+クラブルーム・チャレンジャーズ
+
 [EOF]

@@ -165,6 +165,12 @@ CPUのみのイベントをスキップ
 < MENU_LOBBYSETTING_PVPBOUNTIES >
 プレイヤーバウンティ
 
+< MENU_LOBBYSETTING_TAGCOOLDOWN >
+タッグ・クールダウン
+
+< MENU_LOBBYSETTING_PARTNERREGENDELAY >
+パートナー回復遅延
+
 < MENU_BUTTON_GAME_RETURN >
 戻る
 
@@ -1035,6 +1041,57 @@ CO-Oモード\n①ボスの手下をダウンさせる\n②高い難易度でボ
 
 < PLAYMENU_EVENT_SUMMER2025_INSTRUCTION_COMPLETE >
 おめでとうございます！　1日に及ぶ戦いの末、トラブルメーカーズ自身にトラブルが起きて、世界は救われました！
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_MAIN >
+100おれ部結成に危機！　ゲームをプレイしてポポミに認めてもらいましょう！
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_01 >
+このイベントの期間中、特別なゲームモード「タッグチーム」をプレイできます！
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_02 >
+その日最初のゲームでイベントの進行度を上げると3ムーブポイント、さらにその日最初のタッグチームのゲームをプレイすると追加で3ムーブポイントを獲得できます。
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_03 >
+2回目以降のタッグチームのゲームでは2ムーブポイント、その他のゲームモードでは1ムーブポイントを獲得できます。
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_04 >
+イベントマップ上のオレンジのマスではオレンジ、スターのマスではスター、緑のアクセサリーのマスではランダムなアクセサリーが獲得できるチャンスがあり、王冠のマスではイベント限定のアクセサリーが獲得できます！
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_05 >
+イベントマップを1周するとイベントが終了し、さらにプレイを続けることで報酬を獲得できます！
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_06 >
+タッグチームでは、パートナーとしてもう1人キャラクターを選択し、2人のキャラクターでゲームに挑みます。
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_07 >
+自身のターン中にTagを選択すると、自身が選んだ2人のキャラクター同士の位置を入れ替えることができ、リーダーキャラクターがパートナーと交代します。
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_08 >
+一度Tagを選択すると、ロビー設定に応じた一定のチャプター数の間、再度Tagを選択できなくなります。使用する際は慎重に判断してください！
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_09 >
+リーダーがダウンした場合、パートナーがダウンしていなければ強制的にTagが実行されます。この場合でも、Tagアクションはクールダウン状態になるため、注意が必要です！
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_10 >
+パートナーは一定のチャプター数が経過すると自動的にHPが回復します。ダウンした場合は、そのキャラクターのREC値と同じ数のターンが経過すると復活します。
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_11 >
+パートナーの顔にマウスカーソルを合わせると、復活のタイミングを確認できます。
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_12 >
+パートナーにカード効果が付与されている場合、パートナーがフィールド上にいなければその効果の持続時間は減少しません。
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_13 >
+パートナーがゲームに影響するユニット効果を持っている場合、パートナーがフィールド上にいなければその効果は有効になりません。
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_14 >
+ダウンからの復活後に自身に適用される効果については、ダウンから復活後にパートナーに適用されます。
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_15 >
+最強のタッグチームを組んで、100おれ部を設立する資格があることを証明しましょう！
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_COMPLETE >
+おめでとうございます！　100おれ部が設立されました！　もっとプレイして青春を謳歌しましょう！
 
 < PLAYMENU_EVENT_NEXT_GOAL >
 次の目標：

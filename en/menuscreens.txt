@@ -1050,7 +1050,7 @@ The 100% OJ Club is in peril before it formed! Prove yourself to Popomi by playi
 For the duration of this event, players will be able to play a special game mode: Tag Team!
 
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_02 >
-You get 3 Move Points to progress the event by playing the first game of the day, and another 3 Move Points for playing the first Tag Team game of the day.
+You get 3 Move Points to progress the event by playing your first game of the day, and another 3 Move Points for playing your first Tag Team game of the day.
 
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_03 >
 Keep playing to gain another 2 Move Points per Tag Team game, or 1 point for a game in a different game mode.

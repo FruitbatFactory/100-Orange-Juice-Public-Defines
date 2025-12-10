@@ -378,7 +378,7 @@
 1=A peppy girl who has become one of the six gods that rule over sweets.
 2=Likes: Homemade cookies, doing as one pleases\nDislikes: Cleaning up after baking
 3=Because Sweet Maker used to be the underling in a group, she's been getting carried away after gaining divine powers.
-4=Sweet Maker loves both making and eating sweets — however, she easily gains weight if she indulges. Even gods have their problems!
+4=Sweet Maker loves both making and eating sweets - however, she easily gains weight if she indulges. Even gods have their problems!
 
 < LORE_SWEETBLOGGER >
 1=A high schooler who has somehow become one of the six gods that rule over sweets.
@@ -419,7 +419,7 @@
 1=Coming soon!
 
 < LORE_WATTY >
-1=Watty's a mermaid — an ancient creature of unknown age.
+1=Watty's a mermaid - an ancient creature of unknown age.
 2=Likes: Clean water, nice people\nDislikes: Dryness, getting dirty
 3=For a long time, Watty lay sealed away in a certain ruin. After Arnelle released her, she became her loyal subordinate.
 4=Watty possesses mighty magical powers, but due to her timid nature, she's unable to use them effectively.
