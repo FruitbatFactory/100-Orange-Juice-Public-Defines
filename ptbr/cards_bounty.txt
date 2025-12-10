@@ -168,8 +168,8 @@ descr=Jogue um frasco de Explosivo Corrosivo em um painel ao redor de você (rai
 flavor="O Explosivo Corrosivo foi feito combinando materiais mortais..." ―Alquimista 
 
 < CARD_BOUNTY_SPARKLEBOMB_ITEM >
-name=Sparkle Bomb
-descr=Force the field to reverse paths for 2 chapters.
+name=Bomba Brilhante
+descr=Força o tabuleiro ao caminho reverso por 2 capítulos.
 flavor="E se você quisesse ir para frente e para trás mas indo para trás não parece que está indo para frente? ...Ugh, deixa para lá..." ―Alquimista
 
 < CARD_BOUNTY_SMOKELOSTMEMORIES_ITEM >
@@ -201,6 +201,11 @@ flavor="Por aqui! Meu nariz nunca está errado!" ―QP
 name=Conselho da Galinha Cata-Vento
 descr=Efeito de Estoque.\nRole 2 de dado para tudo menos para batalhas. Este efeito acaba ao parar no seu próprio painel de Casa.
 flavor="*Pia pia*! Cook deseja ir por aqui." ―Cook
+
+< CARD_BOUNTY_PROTECTIONFEE >
+name=Taxa de Proteção
+descr=Ao parar no Painel de Casa de outro jogador, pague (seu Nível) x2 estrelas a ele. Se você falhar a checagem de Norma, tome 1 de dano.
+flavor="Isso é um roubo..." ―Lulu
 
 < CARD_BOUNTY_PLAYER >
 name=VIVO OU MORTO

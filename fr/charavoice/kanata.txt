@@ -1,0 +1,161 @@
+<0000> Hmm.
+<0001> Là.
+<0002> Comme ça.
+<0003> Hmph.
+<0004> Je vais jouer celle-là.
+<0005> C'est le bon moment pour la jouer.
+<0006> Toujours jouer ses cartes à la bonne occasion.
+<0007> Voilà qui ne peut pas me désavantager.
+<0008> Un piège.
+<0009> Héhéhé.
+<0010> C'est l'emplacement idéal.
+<0011> Je parie que quelqu'un va marcher dessus.
+<0012> Je dois gagner ce combat.
+<0013> Je renforce ma puissance.
+<0014> Une force implaccable.
+<0015> Ce combat est imperdable.
+<0016> Ma technique secrète.
+<0017> Qui pensait que ce serait un problème ?
+<0018> Il n'est jamais trop tard pour gagner.
+<0019> Oh, je suis de retour.
+<0020> Pfiou. Je suis encore en course.
+<0021> Tout tient de la chance, je ne peux rien y faire.
+<0022> Il n'y a pas d'urgence.
+<0023> Hmm.
+<0024> Ce n'est pas idéal.
+<0025> J'attaque.
+<0026> Merci de tomber KO.
+<0027> Une ouverture !
+<0028> Même un seul dégât peut faire toute la différence.
+<0029> Aïe.
+<0030> Je peux supporter de si piètres dégâts.
+<0031> C'est pas bon pour moi.
+<0032> Ça fait mal...
+<0033> Voilà qui m'aide grandement.
+<0034> Je m'étais préparée en conséquence.
+<0035> C'est bon, je me rattrape.
+<0036> Très bien.
+<0037> Un portaaail.
+<0038> Ouah.
+<0039> Ça change mes calculs.
+<0040> Seigneur.
+<0041> Ça arrive.
+<0042> Toute la chance m'échappe.
+<0043> Argh.
+<0044> Uuh.
+<0045> Je ne dis pas non à une victoire ou deux.
+<0046> Je vais te faire tomber KO.
+<0047> Arrête-toi là.
+<0048> Tombe.
+<0049> Je me suis déjà préparée.
+<0050> C'est toi qui vas perdre.
+<0051> Tu es sûr de vouloir m'affronter ?
+<0052> D'accord, j'accepte ton défi.
+<0053> Ça va faire mal.
+<0054> Je passe à l'attaque.
+<0055> Tiens, je t'envoie quelques dégâts.
+<0056> Et si tu perdais des PV ?
+<0057> Hmm.
+<0058> Aïe.
+<0059> Je m'y attendais.
+<0060> Ça pique un peu.
+<0061> Je ne m'y attendais pas.
+<0062> La chance n'est pas de mon côté.
+<0063> Ouah.
+<0064> Je risque de pas tenir très longtemps.
+<0065> Esquive.
+<0066> J'esquive.
+<0067> Esquive réussie, dégâts ignorés.
+<0068> La chance m'accompagne.
+<0069> Tout comme prévu.
+<0070> Dans l'ordre des choses.
+<0071> Je t'invite à rester à terre.
+<0072> Hihihi.
+<0073> Pas de chance...
+<0074> Mes jets de dés... Si j'avais eu plus de chance...
+<0075> C'est le pire résultat possible.
+<0076> Pas bon, ça.
+<0077> Je m'enrichis.
+<0078> Étoiles, check.
+<0079> Ces étoiles-là vont faire la différence.
+<0080> Les étoiles garantissent la victoire.
+<0081> Bon, je le voyais un peu venir.
+<0082> Pas mes étoiles...
+<0083> Bon sang... je me vengerai.
+<0084> Oh, mes étoiles...
+<0085> Non !
+<0086> C'est vicieux...
+<0087> Il faut être plutôt malin pour me piéger...
+<0088> Un piège, à mon encontre...?
+<0089> Voilà un boss.
+<0090> Il faut que je me concentre\npour sortir de cette impasse.
+<0091> C'est le moment où 100% OJ devient intéressant.
+<0092> On passe aux choses sérieuses.
+<0093> Je choisis les étoiles.
+<0094> Vu la situation, il est plus judicieux de jouer les étoiles.
+<0095> J'ai plus de chances de gagner en jouant les étoiles.
+<0096> Dans cette situation, seul un idiot choisirait les Victoires.
+<0097> Tu te bats et tu gagnes des points...\nC'est comme ça que ça marche.
+<0098> Les Victoires. Vu ma main, c'est plus judicieux.
+<0099> Je ne suis pas au top de ma forme,\nmais je vais me battre.
+<0100> Vu ma position actuelle, autant\nme battre et écraser les autres.
+<0101> Je suis Kanata. Au plaisir.
+<0102> La stratégie est le premier facteur\nde victoire dans 100% OJ... je crois.
+<0103> Tu doutes de mon intelligence ?\nJe vais te prouver qu'elle est infaillible.
+<0104> C'est moi que tu choisis ? Sage décision.
+<0105> C'est eux, mes ennemis, alors.
+<0106> Cette partie va être amusante, je le sens.
+<0107> Le chemin vers la victoire est déjà tracé.
+<0108> Allez-y, amusez-moi, vous tous.
+<0109> J'aime quand un plan se déroule sans accroc.
+<0110> Ma stratégie et mon expertise ont payé.
+<0111> Je sens que je vais bien dormir, cette nuit.
+<0112> Allez, applaudissez-moi...
+<0113> On n'a jamais trop d'atouts dans son inventaire.
+<0114> Un bonus pour nous.
+<0115> Ça me fait penser à une nouvelle stratégie.
+<0116> Des cosmétiques ? Oui, c'est bien d'en avoir.
+<0117> Je vais m'écarter de la partie une seconde ou deux.
+<0118> Courage.
+<0119> Échange avec moi.
+<0120> C'est là qu'on échange.
+<0121> Ok.
+<0122> Bien.
+<0123> Oui.
+<0124> Non.
+<0125> Pas terrible.
+<0126> La chance a son importance.
+<0127> Hm, hum...
+<0128> Commençons.
+<0129> J'envoie le dé...
+<0130> Bonne chance.
+<0131> Bonjour.
+<0132> Hmm.
+<0133> Magnifique.
+<0134> C'est fort respectable.
+<0135> Comme c'est frustrant...
+<0136> Cette carte...
+<0137> Ça devrait me servir.
+<0138> Je peux le faire.
+<0139> Quelque chose qui n'arrive pas tous les jours.
+<0140> Merci.
+<0141> Haru, tu es encore à court d'argent ?
+<0142> Tu devrais y réfléchir à deux fois.
+<0143> Tu t'es bien débrouillée.
+<0144> P-p-p-pas du tout.
+<0145> C'est... plus intéressant quand je joue comme ça.
+<0146> OJ se joue souvent sur la chance.\nIl n'y a pas de mal à jouer sans pression.
+<0147> Je suis ta grande sœur,\nj'ai le droit de t'écraser comme un insecte.
+<0148> On va leur montrer la puissance de deux sœurs réunies.
+<0149> Je sais combien tu es forte, Poyo.\nJe ne vais pas me retenir.
+<0150> Je te retourne le compliment.\nJ'ai confiance en toi.
+<0151> Détends-toi, il n'y a pas de quoi s'en faire.
+<0152> Tu peux compter sur moi. Moi, je compte sur toi.
+<0153> Suguri, hmm.
+<0154> Une guerrière remarquable...
+<0155> Pfiou... J'ai réussi à la battre.
+<0156> Elle est invincible...
+<0157> Haru, tout va bien ?
+<0158> Bien joué, Haru.
+<0159> Nous sommes les meilleures.
+<0160> Travaillons ensemble et améliorons-nous.

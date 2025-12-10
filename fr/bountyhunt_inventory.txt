@@ -1,0 +1,128 @@
+< INVENTORY_MEDICINALHERB >
+name=Herbe Médicinale
+descr=Une herbe aux vertues guérisseuses. L'Aubergiste en a besoin comme assaisonnement.
+
+< INVENTORY_TURNISLIME >
+name=Navé-Vase
+descr=Un morceau d'un Navévaseux. L'aubergiste en a besoin pour ses boissons.
+
+< INVENTORY_CHILLINGWIND >
+name=Sac de Vent Polaire
+descr=Un sac retenant un souffle d'air glacial, si glacial que vous mains pourraient geler en un instant. Sky Baker en a besoin pour faire ses glaces.
+
+< INVENTORY_FLOUR >
+name=Farine Sans Fond
+descr=Un paquet de farine qui n'en finit jamais. Prière de ne pas poser plus de questions. Star Baker en a besoin pour ses pâtisseries.
+
+< INVENTORY_BROKENBLADE >
+name=Épée Brisée
+descr=Une ancienne lame d'un peuple disparu. La Forgeronne en a besoin pour en faire des outils coupants.
+
+< INVENTORY_TROLLITEHORN >
+name=Corne de Salgoss
+descr=Une vieille corne de Salgoss. Ceux qui en gardent avec eux trop longtemps ne font pas de vieux os. La Forgeronne en a besoin pour en faire des outils de cuisine.
+
+< INVENTORY_MISTYSAP >
+name=Sève des Brumes
+descr=De la sève d'un arbre. Sucré et savoureux. L'Aubergiste en a besoin pour ses desserts.
+
+< INVENTORY_CACTUS >
+name=Cactus
+descr=Un cactus d'un désert avec encore un peu d'eau à l'intérieur. La Forgeronne en a besoin pour s'hydrater.
+
+< INVENTORY_GOST >
+name=Esprit de Phontöme
+descr=Un Phontöme vaincu, mais encore joueur. L'Alchimiste aimerait en faire quelque chose de comestible.
+
+< INVENTORY_WOLLY >
+name=Lait de Grolaineuh
+descr=Du lait frais de Grolaineuh. Sky Baker en a besoin pour son pain.
+
+< INVENTORY_BUCKET >
+name=Seau Vide
+descr=Un seau vide. Peut servir à transporter un peu tout.
+
+< INVENTORY_HEATGLOVES >
+name=Gants Isolants
+descr=Une paire de gants qui protège les mains de son porteur de la chaleur.
+
+< INVENTORY_GLOBBU >
+name=Globbu
+descr=Une fripouille magmatique qui adore brûler les gens. L'Alchimiste en a besoin comme source de chaleur.
+
+< INVENTORY_SANDALS >
+name=Sandales en Bois
+descr=+1 MOV. Une paire de sandales très répandue, l'essentiel pour courir sans se faire mal aux pieds.
+
+< INVENTORY_LEATHERBOOTS >
+name=Bottes de Cuir
+descr=+2 MOV. La dernière confection des tanneurs, beaucoup plus confortable et pratique que les sandales et autres souliers bas de gamme.
+
+< INVENTORY_GALESHOES >
+name=Tennis du Vent
+descr=+2 MOV (+1 bonus si vous avez deux contrats ou moins). Pourvues d'une magie puissante. Vous ne vous fatiguerez jamais avec ces chaussures aux pieds.
+
+< INVENTORY_CURSEDSHOES >
+name=Tennis de Bourrasque
+descr=+4 MOV. Vous ne pouvez porter qu'un contrat à la fois.
+
+// Winter 2020 Event Special Item
+< INVENTORY_DELICACY >
+name=Mets Délicat
+descr=Un gros morceau de bœuf destiné à Coco. Vous pouvez en trouver jusqu'à 3 par partie.
+
+< INVENTORY_ATK1 >
+name=Cookie
+descr=À utiliser depuis l'inventaire pour gagner +1 ATK aux 2 prochains combats. Ne peut pas se cumuler.
+
+< INVENTORY_ATK2 >
+name=Muffin
+descr=À utiliser depuis l'inventaire pour gagner +2 ATK aux 2 prochains combats. Ne peut pas se cumuler.
+
+< INVENTORY_ATK3 >
+name=Pâtisserie
+descr=À utiliser depuis l'inventaire pour gagner +3 ATK aux 2 prochains combats. Ne peut pas se cumuler.
+
+< INVENTORY_DEF1 >
+name=Bonbon
+descr=À utiliser depuis l'inventaire pour gagner +1 DEF aux 2 prochains combats. Ne peut pas se cumuler.
+
+< INVENTORY_DEF2 >
+name=Caramel
+descr=À utiliser depuis l'inventaire pour gagner +2 DEF aux 2 prochains combats. Ne peut pas se cumuler.
+
+< INVENTORY_DEF3 >
+name=Chocolat
+descr=À utiliser depuis l'inventaire pour gagner +3 DEF aux 2 prochains combats. Ne peut pas se cumuler.
+
+< INVENTORY_EVD1 >
+name=Glace
+descr=À utiliser depuis l'inventaire pour gagner +1 EVD aux 2 prochains combats. Ne peut pas se cumuler.
+
+< INVENTORY_EVD2 >
+name=Sorbet
+descr=À utiliser depuis l'inventaire pour gagner +2 EVD aux 2 prochains combats. Ne peut pas se cumuler.
+
+< INVENTORY_EVD3 >
+name=Cornet de Glace
+descr=À utiliser depuis l'inventaire pour gagner +3 EVD aux 2 prochains combats. Ne peut pas se cumuler.
+
+< INVENTORY_ASSASSINBADGE >
+name=Badge d'Assassin
+descr=Un badge attribué aux membres de la guilde des assassins. Son propriétaire recevra des contrats à l'encontre des autres joueurs.
+
+< INVENTORY_ELIXIR >
+name=Élixir
+descr=À utiliser depuis l'inventaire pour soigner entièrement. Guérit du statut infligé par l'Envahisseur et enlève les malédictions sur les contrats.
+
+< INVENTORY_HARBINGERSHIELD >
+name=Bouclier de Courage
+descr=Trophée prouvant votre victoire face à Apocalypse. Porter ce bouclier vous rend plus brave, réduisant de 1 tous les dégâts subis en combat.
+
+< INVENTORY_ROGUEBLADE >
+name=Lames Jumelles de l'Assassin
+descr=Trophée prouvant votre victoire face à l'Assassin Oublié. Porter ces lames donne à vos attaques 20% de chance d'être un coup critique.
+
+< INVENTORY_DARKCHOCOMOUSSE >
+name=Étoile en Chocolat Noir
+descr=Trophée prouvant votre victoire face à Maousse Chocolat Noir. Son aura mystérieuse au goût de cacao vous permet de voler 3 étoiles par dégât infligé en combat.

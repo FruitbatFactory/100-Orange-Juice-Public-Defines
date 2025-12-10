@@ -1,0 +1,162 @@
+<0000> Hooï !
+<0001> Toh !
+<0002> Roule bien !
+<0003> Poï !
+<0004> Je joue celle-là !
+<0005> Héhé... à moi de jouer !
+<0006> Jouer ça, maintenant... Un coup de génie ♥
+<0007> Vous allez voir de quoi j'suis capable !
+<0008> Nyihihi.
+<0009> Ahaaa ♥ C'est parfait !
+<0010> Voilà un pièèège !
+<0011> Héhéhé, je pose ça juste ici...
+<0012> Carte-combat !
+<0013> J'ai pas besoin de cartes pour gagner ce combat...\nMais j'en joue une quand même ♥
+<0014> Aha ♥
+<0015> Je vais me rendre encore plus forte.
+<0016> Attention, attention ! J'invoque mon miracle !
+<0017> Mmh ? Il fait déjà jour ?
+<0018> Pas question qu'on me remette au tapis.
+<0019> Pff, j'avais l'air ridicule.
+<0020> Il est où, le méchant qui m'a tabassée ?!\nJe vais le retrouver !
+<0021> Heein ?
+<0022> Pas possible, pas possible !
+<0023> Quoi !? Je veux me relever, moi !
+<0024> Ouiin... Maman...
+<0025> Ahaa !
+<0026> Prends ça !
+<0027> Ya-yaaah !
+<0028> J'vais te faire tomber !
+<0029> Ça fait mal !
+<0030> Hé oh, tu fais quoi, là ?!
+<0031> Apaa !
+<0032> Kya !
+<0033> Oh mon dieu, c'est si bon.
+<0034> C'est toujours le meilleur moment de l'aventure.
+<0035> Ahaaa ♥ J'adore.
+<0036> Je me sens de mieux en mieux ♥
+<0037> Tu m'emmènes où, là ?!
+<0038> Ahouaaaaa !
+<0039> Oulà, oulà !
+<0040> C'est quoi, ça, encore ?!
+<0041> J-je te pardonnerai jamais...
+<0042> C'est de la triche...
+<0043> Ahaaa... Ahaaa...
+<0044> Ç-ça va me rendre dingue...
+<0045> Ahaaa ! Trouvé !
+<0046> Prépare-toi à la baston ! Yah !
+<0047> Aha, mords la poussière !
+<0048> Tu vas voir à quel point je suis forte.
+<0049> Oh, tu veux te battre ?
+<0050> Ahaaa, t'es prêt pour la bagarre ?
+<0051> T'as commis une erreur !
+<0052> Quoi ? Tu manques tant que ça d'attention ?
+<0053> Yah !
+<0054> Prends ça !
+<0055> Je vais te couper en tranches !
+<0056> Ahaaa ♥
+<0057> Oguh !
+<0058> Gueh !
+<0059> Pokyu !
+<0060> Ogo !
+<0061> Bas les pattes, sale type !
+<0062> Non, j'peux pas encaisser !
+<0063> Ça... ça va me rendre diiingue !
+<0064> Ahe-aaah !
+<0065> Haha, raté ♥
+<0066> Lent, trooop lent.
+<0067> Apprends à viser, nullos ♥
+<0068> Je suis là, andouille !
+<0069> Ahaaa ♥ Tu fais pitié, vraiment.
+<0070> T'étais trop faible. Je veux des ennemis à ma taille !
+<0071> Quoi ? T'es déjà à bout de souffle ?
+<0072> Alors, tu te sens faible ? Tu te sens faible ? Ahaaa ♥
+<0073> Mamaaan !
+<0074> J'ai retenu la leçon...
+<0075> Gou gou ga ga...
+<0076> Je dépose les armes... s'il vous plaît, épargnez-moi...
+<0077> Ahaaa ♥ Elles scintillent !
+<0078> Le meilleur des cadeaux !
+<0079> Je suis refaite ♥
+<0080> J'aime ça. J'adore ça !
+<0081> Ahaaah ! Attendez-moi !
+<0082> Non, ces étoiles m'appartiennent...! Nooon !
+<0083> Aaah, pourquoiii !
+<0084> C'est nul !
+<0085> Kyaaa ! Un piège !?
+<0086> Je vous déteeeeste !
+<0087> On se fiche de moi...! Kya !
+<0088> C'est le pire truc au monde !
+<0089> Voilà le plus gros du gibier !
+<0090> C-c'est pas parce que t'es plus grand\nque t'es forcément le meilleur...!
+<0091> J-j'ai pas peur...! Je suis plus forte que toi !
+<0092> B-bon, ok, tu fais un tout petit peu peur...!
+<0093> Je vais ramasser plein d'étoiles ! Ding ding !
+<0094> Les étoiles m'appartiennent toutes.
+<0095> Je vais m'acheter plein de trucs avec ces étoiles ! Ahaaa ♥
+<0096> Ahaaa ♥ Je vais me faire une fortune.
+<0097> Je vais me battre comme je veux !
+<0098> Il y a tellement de cibles à abattre,\nje sais pas par qui commencer.
+<0099> Je vais les trancher un par un ♥
+<0100> On va chasser ! Chasser ! Chasseeer !
+<0101> Moi c'est Ellie ! J'explore le monde\nà la recherche de ma maman.
+<0102> Quoi, tu m'aimes tant que ça ? Satyre !
+<0103> D'accord, on va jouer ensemble, juste un peu.
+<0104> Ahaaa ♥ On va bien s'amuser.
+<0105> Vous allez voir ce que je sais faire.
+<0106> Je vais tous vous battre.
+<0107> Ahaaa ♥ J'ai hâte de commencer.
+<0108> C'est sur ce plateau qu'on va jouer ? Plutôt cool !
+<0109> J'avais bien dit que je gagnerais ! Youpi !
+<0110> Ahaaa ♥ Je suis la meilleure !
+<0111> Ils étaient tous tellement nuls, c'est pas possible. Nullos !
+<0112> Il y a des gens qui galèrent à ce jeu ?
+<0113> Hé, tu veux ce truc ? Tu le veux vraiment ?
+<0114> Hmm, t'en as vraiment envie ? Je vais voir ce que je peux faire.
+<0115> Regarde ce que j'ai trouvé. Si tu le veux... va falloir raquer !
+<0116> Si tu veux cet objet, il faudra me le supplier ! Ahaaa ♥
+<0117> On échange.
+<0118> Ahaaa ♥ On change de positions !
+<0119> Faut qu'on inverse.
+<0120> Faut que je me repose.
+<0121> Ok, on y va.
+<0122> Tant mieux.
+<0123> Ahaaa ♥ 
+<0124> Mais zut-euh !
+<0125> Aaah ?
+<0126> T'as trop de la chance !
+<0127> Hmm...
+<0128> Allons-y !
+<0129> Jet de dé !
+<0130> Je suis prête ! On y va, on y va !
+<0131> You-hou !
+<0132> A... ahaaa ?
+<0133> Bien joué.
+<0134> Ouah, incroyable...!
+<0135> Raahhh ! Je vais tout casser !!
+<0136> C'est quoi, cette carte ? Un truc bien, j'espère !
+<0137> Je veux jouer cette carte.
+<0138> Ahaaa ♥ Je vais jouer cette carte. J'ai le droit, hein ?
+<0139> Regardez ce que j'ai là ! Aha ♥ 
+<0140> Tu vas souffrir, sale rat !
+<0141> Je t'ai trouvé, saleté de rat !
+<0142> Arrête de répéter "poppo poppo" !
+<0143> Je vais te dératiser la tronche !
+<0144> Dératisation terminée !
+<0145> Je vais traquer tous ces rats et les vaincre un par un...
+<0146> Je me sens beaucoup mieux, maintenant ♥
+<0147> T'as vu à quel point je suis balèze ?
+<0148> Lulu, à toi de jouer !
+<0149> Tu peux y arriver, Lulu.
+<0150> Ahaaa ♥ Luluuu !
+<0151> Je crois en toi, Lulu !
+<0152> Ahaaa ♥ Je suis beaucoup plus forte, maintenant !
+<0153> Je crois que je suis assez forte pour les battre.
+<0154> Ahaaa ♥ Je suis devenue hyper fortiche.
+<0155> Ma force est miraculeuse !
+<0156> Aha... Aha... Ahaaa ♥♥♥
+<0157> M-ma puissance est insoutenable... Aha...!
+<0158> J'arrive à sentir plein de rats aux alentours...
+<0159> Ahaaa ! Que la chasse commence !
+<0160> Faites vos prières, rats stupides !
+<0161> Je peux les sentir... Je sens ces maudits rats...!

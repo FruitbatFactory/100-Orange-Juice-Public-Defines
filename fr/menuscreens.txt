@@ -1,0 +1,1419 @@
+< MENU_CONTROLLER_PRESS >
+Appuyez sur
+
+< MENU_CONTROLLER_PROCEED >
+pour avancer
+
+< MENU_CLICKPROCEED >
+Clic gauche pour avancer
+
+< MAINMENU_NEWGAME >
+NOUVELLE PARTIE
+
+< MAINMENU_LOADGAME >
+CONTINUER
+
+< MAINMENU_CONFIGURATION >
+OPTIONS
+
+< MAINMENU_EXIT >
+QUITTER
+
+< MENU_BUTTON_OK >
+OK
+
+< MENU_BUTTON_BACK >
+RETOUR
+
+< MENU_BUTTON_HOME >
+MENU
+
+< MENU_BUTTON_CANCEL >
+ANNULER
+
+< MENU_BUTTON_READY >
+PRÊT(E)
+
+< MENU_BUTTON_BEGIN >
+COMMENCER
+
+< MENU_BUTTON_RETRY >
+RÉESSAYER
+
+< MENU_BUTTON_NEXT >
+SUIVANT
+
+< MENU_BUTTON_PREVIOUS >
+RETOUR
+
+< MENU_BUTTON_CLEAR >
+EFFACER
+
+< MENU_BUTTON_YES >
+OUI
+
+< MENU_BUTTON_NO >
+NON
+
+< MENU_BUTTON_STORY >
+HISTOIRE
+
+< MENU_BUTTON_SKIPALL >
+PASSER
+
+< MENU_BUTTON_TUTORIAL >
+TUTORIEL
+
+< MENU_BUTTON_REFRESH >
+RAFRAÎCHIR
+
+< MENU_BUTTON_SEARCH >
+CHERCHER
+
+< MENU_BUTTON_CHAT >
+CANAL
+
+< MENU_BUTTON_CREATE >
+CRÉER
+
+< MENU_BUTTON_JOIN >
+REJOINDRE
+
+< MENU_BUTTON_SPECTATE >
+SPEC.
+
+< MENU_BUTTON_DIFFICULTY_CASUAL >
+FACILE
+
+< MENU_BUTTON_DIFFICULTY_NORMAL >
+NORMAL
+
+< MENU_BUTTON_DIFFICULTY_ORIGINAL >
+ORIGINAL
+
+< MENU_BUTTON_DIFFICULTY_EXTREME >
+EXTRÊME
+
+
+< MENU_BUTTON_LOBBYLIST_LOBBYNAME >
+Nom du Salon
+
+< MENU_BUTTON_LOBBYLIST_PUBLIC >
+Public
+
+< MENU_BUTTON_LOBBYLIST_PLAYERS >
+Joueurs
+
+< MENU_BUTTON_LOBBYLIST_SPEED >
+Vitesse
+
+< MENU_BUTTON_LOBBYLIST_EVENTS >
+Effets
+
+< MENU_BUTTON_LOBBYLIST_FIELDNAME >
+Plateau
+
+< MENU_BUTTON_LOBBYLIST_HW2018 >
+Sucre & Malices
+
+< MENU_BUTTON_LOBBYLIST_XMAS >
+X-mas
+
+< MENU_BUTTON_LOBBYLIST_BOUNTYHUNTER >
+Chasseurs de Primes
+
+< MENU_BUTTON_LOBBYLIST_TAGTEAM >
+Mode Duo
+
+< MENU_BUTTON_LOBBYLIST_MASTERANGLERS >
+Pêche à la ligne
+
+< MENU_ON >
+Oui
+
+< MENU_OFF >
+Non
+
+
+< MENU_LOBBYSETTING_EVENT >
+Évènement Saisonnier
+
+< MENU_LOBBYSETTING_PASSWORD >
+Code
+
+< MENU_LOBBYSETTING_HIDEPASSWORD >
+Cacher
+
+< MENU_LOBBYSETTING_OPTIONAL >
+(Optionnel)
+
+< MENU_LOBBYSETTING_MIXERS >
+Remix
+
+< MENU_LOBBYSETTING_CPUEVENT >
+Passer les évènements des CPU
+
+< MENU_LOBBYSETTING_TURNTIMER >
+Chrono
+
+< MENU_LOBBYSETTING_CHAOSMUTATOR >
+Mutation Chaos
+
+< MENU_LOBBYSETTING_INVADER >
+Invasion
+
+< MENU_LOBBYSETTING_PVPBOUNTIES >
+Primes de Joueurs
+
+< MENU_LOBBYSETTING_TAGCOOLDOWN >
+Délai d'Échange
+
+< MENU_LOBBYSETTING_PARTNERREGENDELAY >
+Délai Régén. Partenaire
+
+< MENU_BUTTON_GAME_RETURN >
+RETOUR
+
+< MENU_BUTTON_GAME_CONFIG >
+OPTIONS
+
+< MENU_BUTTON_GAME_RETIRE >
+QUITTER
+
+
+< MENU_BUTTON_GAME_MOVE >
+DÉPLACEMENT
+
+< MENU_BUTTON_GAME_CARD >
+CARTE
+
+< MENU_BUTTON_GAME_INFO >
+INFO
+
+< MENU_BUTTON_GAME_PROTECT >
+PROTÉGER
+
+< MENU_BUTTON_GAME_GIFT >
+DONNER
+
+< MENU_BUTTON_GAME_THROW >
+JETER
+
+< MENU_BUTTON_GAME_FURY >
+FURIE
+
+< MENU_BUTTON_GAME_GUARDIANSPIRIT >
+ESPRIT
+
+< MENU_BUTTON_GAME_IRONDEFENSE >
+DEF. FER
+
+< MENU_BUTTON_GAME_RESTORINGLIGHT >
+RÉSURRECTION
+
+< MENU_BUTTON_GAME_FROMBEYOND >
+AU-DELÀ
+
+< MENU_BUTTON_GAME_DEAL >
+DISTRIBUER
+
+< MENU_BUTTON_GAME_DEMAND >
+DEMANDER
+
+< MENU_BUTTON_GAME_CLICK >
+CLIQUER
+
+< MENU_BUTTON_GAME_DEFEND >
+DÉFENSE
+
+< MENU_BUTTON_GAME_EVADE >
+ESQUIVE
+
+< MENU_BUTTON_GAME_FIGHT >
+ATTAQUE
+
+< MENU_BUTTON_GAME_END >
+FIN
+
+< MENU_BUTTON_GAME_ITEMS >
+OBJETS
+
+< MENU_BUTTON_GAME_SELLCARDS >
+VENDRE CARTES
+
+< MENU_BUTTON_GAME_BOMB >
+BOMBE
+
+< MENU_BUTTON_GAME_DASH >
+DASH
+
+< MENU_BUTTON_GAME_FORECAST >
+PRONOSTIC
+
+< MENU_BUTTON_GAME_EAT >
+MANGER
+
+< MENU_BUTTON_GAME_BOUNTY >
+PRIME
+
+< MENU_GAME_MIMYUUJ_HYPER_BREAKOUT >
+Evasion !
+
+< MENU_BUTTON_GAME_TAG >
+ÉCHANGE
+
+< MENU_BUTTON_GAME_REINFORCE >
+RENFORT
+
+< MENU_BUTTON_GAME_INTERCEPT >
+INTERCEPTION
+
+< MENU_BUTTON_GAME_BOLSTER >
+POLISSAGE
+
+< PLAYMENU_FREEBATTLE >
+MULTIJOUEUR
+
+< PLAYMENU_SHOP >
+BOUTIQUE
+
+< PLAYMENU_CAMPAIGN >
+MODE SOLO
+
+< PLAYMENU_PROFILE >
+PROFIL\nJOUEUR
+
+< PLAYMENU_CODEX >
+OJDEX
+
+< PLAYMENU_MANUAL >
+GUIDE
+
+< PLAYMENU_WIKI >
+WIKI
+
+< PLAYMENU_EXIT >
+MENU
+
+< PLAYMENU_TOOLTIP_FREEPLAY >
+Affrontez d'autres joueurs en ligne.
+
+< PLAYMENU_TOOLTIP_SHOP >
+Achetez des paquets de cartes, des personnages, des cosmétiques, et autre.
+
+< PLAYMENU_TOOLTIP_CAMPAIGN >
+Choisissez un personnage et parcourez son histoire en mode solo.
+
+< PLAYMENU_TOOLTIP_PROFILE >
+Accédez à vos statistiques, votre collection de cartes, et personnalisez votre Avatar.
+
+< PLAYMENU_TOOLTIP_CODEX >
+Accédez aux profils des personnages.
+
+< PLAYMENU_TOOLTIP_MANUAL >
+Accédez au manuel du jeu.
+
+< PLAYMENU_TOOLTIP_WIKI >
+Explorez le wiki organisé par les fans pour plus d'information sur le jeu.
+
+< PLAYMENU_TOOLTIP_CHALLENGES >
+Accédez à vos défis quotidiens en ligne.
+
+< PLAYMENU_TOOLTIP_CONFIGMENU >
+Accédez à l'écran de configuration.
+
+< PLAYMENU_TOOLTIP_EXIT >
+Retournez à l'écran-titre.
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_01 >
+Vérifiez votre Tableau de Défis pour voir les défis de Rein. Une fois achevés, vous gagnerez des cadeaux !
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_02 >
+Collectez des cadeaux et offrez-les aux autres une fois en jeu.
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_03 >
+En fin de jeu, tout le monde ouvrira ses cadeaux, donneur compris !
+
+< PLAYMENU_EVENT_XMAS2017_INSTRUCTION_04 >
+Après avoir livré suffisemment de cadeaux, vous pourrez défier la Loubardie pour un combat final dans leur repaire.
+
+< PLAYMENU_EVENT_XMAS2017_GIFTPROGRESS >
+Cadeaux livrés : %d/%d.
+
+< PLAYMENU_EVENT_XMAS2017_STAGEPROGRESS >
+Scénario Bonus : %s.
+
+< PLAYMENU_EVENT_XMAS2017_COMPLETE >
+Noël est sauvé !\n(Par contre, la Loubardie va sûrement refaire des bêtises...)
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_MAIN >
+Ramassez %s Chocolats pour achever votre mission !
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_01 >
+Vous obtiendrez du Chocolat sur les cases et en vainquant vos adversaires.
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_02 >
+Vaincre un joueur adverse vous donnera la moitié de son Chocolat.
+
+< PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_03 >
+Lorsque vous avez au moins 500 Chocolats, entreposez-les à une maison pour ne pas vous les faire voler.
+
+< PLAYMENU_EVENT_VALENTINE2018_COMPLETE >
+Les sucreries du monde sont sauvés !\n(Pour le moment, en tout cas...)
+
+< PLAYMENU_EVENT_GAMESPLAYED >
+Nombre de parties : %d
+
+< PLAYMENU_EVENT_BONUSITEMS >
+Objets bonus : %d/%d
+
+< PLAYMENU_EVENT_VIEWPROGRESS >
+Voir Progression
+
+< PLAYMENU_EVENT_MILESTONE >
+Prochain palier :
+
+< RANDOMFILTER_EVENTS >
+Filtrez la sélection d'Évènements aléatoires
+
+< RANDOMFILTER_MAPS >
+Filtrez la sélection de Plateaux aléatoire
+
+< RANDOMFILTER_CHARACTERS >
+Filtrez la sélection de Personnages aléatoire
+
+< POPPOMARCH_CLICKTHESE >
+Clique sur les %d !
+
+< PEEKSHROOM_MEMORIZE >
+Rappelle-toi de l'ordre !
+
+< PEEKSHROOM_ORDER >
+Dans l'ordre !
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_MAIN >
+Retrouve les membres du professeur SansNom que Poppo a volé et réassemble-le !
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_01 >
+Des cases-jeu apparaissent tous les 3 chapitres, elles déclenchent un mini-jeu de Poppo !
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_02 >
+Fais des paires avec les cartes. Tu as droit à l'erreur ! La dernière paire sera ta récompense. Si tu rates, un effet est choisi au hasard.
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_03 >
+Choisis ta récompense ! Garde un œil sur la bonne carte pendant que Poppo les mélange.
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_04 >
+Poppo fait tourner la roue ! Arrête-la au bon moment pour une jolie récompense !
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_05 >
+Des Poppos sortent des tonneaux - frappe-les avant qu'elles se cachent ! Attention à ne pas frapper d'autres personnages...
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_06 >
+Vise les ballons spéciaux avec les flèchettes ! Crève 3 ballons du même type pour obtenir la récompense qu'ils abritent !
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_07 >
+Clique sur les 3 Poppos montrées au départ, qui se sont infiltrées dans une foule de Poppos ! Trouver les 3 offre une belle récompense.
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_08 >
+Déplace Saki pour ramasser les cookies et les bonbons en échange d'une belle récompense. Évite les bombes à tout prix !
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_09 >
+Sois attentif à l'ordre d'arrivée des champignons, puis sélectionne-les dans le bon ordre. Plus de champignons choisis correctement, meilleure est la récompense !
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_10 >
+Prends les commandes de Red Barrel et esquive le plus d'obstacles possibles ! La récompense est meilleure en dépend du score !
+
+< PLAYMENU_EVENT_SPRING2018_INSTRUCTION_11 >
+Des bouts de NoName apparaissent dans les récompenses des mini-jeux. Récupère-les en priorité !
+
+< PLAYMENU_EVENT_SPRING2018_COMPLETE >
+C'est ainsi que le professeur NoName fut réassemblé et que tout le monde évita de redoubler !
+
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_MAIN >
+Vaincre Jonathan le Géant !
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_01 >
+Descendez les PV de Jonathan le Géant à zéro ou survivez jusqu'au Chapitre 50 pour gagner la partie.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_02 >
+En mode Co-Op, chaque joueur choisit un des rôles disponibles ! Cela détermine leurs capacités, leurs cartes et leurs Hypers !
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_03 >
+L'Attaquant obtient +ATK et attaque toujours en premier, le Gardien obtient +DEF et peut protéger ses alliés, et le Soutien gagne +MOV et peut ressusciter ses alliés.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_04 >
+La Récupération des personnages (REC) est ajustée en fonction de leurs statistiques : L'Attaque l'augmente, et l'Esquive la diminue. La REC minimum est de 3.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_05 >
+Tous les joueurs partagent leurs Quotas, Étoiles et Victoires. Monter en niveau nécessite 1.5 fois plus d'Étoiles et 2 fois plus de Victoires. Tout le monde peut voir les cartes des autres.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_06 >
+En mode Co-op, les cases boss apparaissent de plus en plus. Allez sur l'une d'elles pour défier Jonathan le Géant !
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_07 >
+Tomber KO fait perdre 1/8 des étoiles de l'équipe. Vous pouvez vous arrêter sur n'importe quelle maison.
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_08 >
+Pas d'évènements de plateaux ! Jonathan le Géant utilisera ses propres capacités pour vous affaiblir. Il en débloque de plus en plus au fil du temps...
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_09 >
+Soyez vigilants ! À partir du Chapitre 30, par accès de colère, Jonathan le Géant détruira toutes les maisons et profitera de ses meilleures capacités !
+
+< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_10 >
+Vous perdez si tous les joueurs se retrouvent KO en même temps ! Même dans ce cas de figure, les dégâts infligés à Jonathan le Géant comptent pour l'évènement.
+
+< PLAYMENU_EVENT_SUMMER2018_COMPLETE >
+Jonathan le Géant est neutralisé, les mers et les plages sont de nouveau sécurisées !
+
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_MAIN >
+Sucre & Malices ! La période où tout le monde mange des bonbons !
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_01 >
+Chaque bonbon vous fait gagner +1 étoile par chapitre. Des bonbons sont distribués aléatoirement tous les 3 chapitres.
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_02 >
+Si un bonbon correspond à votre plaque de profil, rendez-vous à une maison et échangez-le contre 10 étoiles et 1 Victoire.
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_03 >
+Si vous croisez un autre joueur, choisissez l'un de ses bonbons et menacez-le avec un sort. S'il ne vous donne pas ce bonbon, il recevra une pénalité !
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_04 >
+Vous pouvez aussi faire tomber un joueur KO pour voler un de ses bonbons.
+
+< PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_05 >
+Vous obtenez des bonbons supplémentaires en fin de partie en fonction de votre score. Amassez un total de 1500 bonbons pour satisfaire votre faim !
+
+< PLAYMENU_EVENT_HALLOWEEN2018_COMPLETE >
+Vous avez récupéré suffisamment de bonbons pour contrer les médicaments de Kiriko ! Maintenant, c'est l'heure du thé entre sorcières.
+
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_ATTACKER >
+Attaquant\n\nPremier Coup : Vous attaquez en premier\nQuota 2 : +1 ATK\nQuota 4 : +1 ATK\nLe Boss a +5 PV.
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_DEFENDER >
+Gardien\n\nProtection : Contre 1 PV, confère à un joueur au choix un bouclier qui protège de deux dégâts\nQuota 2 : +1 DEF\nQuota 4 : +1 DEF\nLe Boss a -5 PV.
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_SUPPORT >
+Soutien\n\nSoin & Résurrection : Peut soigner 1 PV à un allié ou le relever en le croisant\nQuota 2 : +1 MOV\nQuota 4 : +1 MOV
+
+< PLAYMENU_EVENT_SUMMER2018_CLASSINFO_AVENGER >
+Vengeur\n\n+1 ATK en combat par PV perdu\nQuota 2 : +1 PV Max\nQuota 4 : +1 PV Max\nLe Boss a +10 PV.
+
+< PLAYMENU_EVENT_SUMMER2018_AVENGER_UNLOCK >
+Nouveau rôle Co-op débloqué : Vengeur !
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_MAIN >
+Construisez un château de neige tous ensemble pour les enfants avant Noël !
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_01 >
+Faites progresser l'évènement quotidiennement pour de nouvelles récompenses ! Obtenez des Houx de Noël depuis le mini-jeu Xmas et échangez-les contre des objets en Boutique !
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_02 >
+Le mini-jeu Xmas consiste à réunir les joueurs pour construire un château de neige tous les 6 chapitres. La partie s'arrête au bout de 24 chapitres, celui ayant le plus construit gagne !
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_03 >
+Les châteaux de neige nécessitent de collecter de la neige. Moins une case est fréquentée, plus elle aura de la neige. Passez dessus pour la ramasser.
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_04 >
+Si vous manquez de neige, vous pouvez en voler ! Faites tomber vos adversaires KO en combat ou jetez-leur des boules de neige !
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_05 >
+Pour lancer une bataille de boules de neige, cliquez sur cet icône et choisissez un personnage à 3-4 cases de distance. (coût : 10 de neige).
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_06 >
+Des équipes se créent s'il y a d'autres joueurs à 1 case de proximité des deux joueurs concernés.
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_07 >
+Les batailles de boules de neige durent 3 manches d'attaque/défense, mais s'arrête si tous les membres d'une équipe se sont fait toucher.
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_08 >
+En défense, tentez de deviner où l'adversaire va lancer sa boule de neige et choisissez une case pour esquiver.
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_09 >
+En attaque, trouvez où l'adversaire va se positionner pour l'atteindre avec une boule de neige ! Si vous gagnez, vous volez la moitié de sa neige !
+
+< PLAYMENU_EVENT_XMAS2018_INSTRUCTION_10 >
+Ce mini-jeu ajoute de nouvelles Cartes Évènement au deck. Utilisez-les lors des batailles de boules de neige pour un résultat surprenant...
+
+< PLAYMENU_EVENT_XMAS2018_COMPLETE >
+Le château de neige est enfin terminé, et Noël est sauvé !
+
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_MAIN >
+Tout le monde se transforme en cochons paresseux ! Sauvez vos amis de la grande Cochonnade en récupérant des Cœurs de Cochon !
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_01 >
+Les Cœurs de Cochon sont distribués en fin de partie (mode Normal ou Chasseurs de Primes) en fonction de votre placement sur le podium ou des joueurs que vous avez fait tomber KO.
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_02 >
+Échangez les Cœurs de Cochon contre des costumes de cochon dans la Boutique ! Ainsi, vous les libérerez de la grande\nCochonnade !
+
+< PLAYMENU_EVENT_FRB2019_INSTRUCTION_03 >
+La Cochonnade prendra fin une fois que tous les personnages en seront guéris !
+
+
+< PLAYMENU_EVENT_FRB2019_COMPLETE >
+Vos amis sont guéris, mais la grande Cochonnade continue...
+
+
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_MAIN >
+De nouveaux ennemis mystérieux ravagent tout sur leur passage ! Coopérez avec d'autres joueurs en mode Co-op pour y mettre un terme !
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_01 >
+Vous pouvez accéder au mode Co-op dans la section "Mode de jeu", aux côtés des modes Normal et Chasseurs de Primes.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_02 >
+Choisissez sous quelle difficulté affronter le Boss avant de commencer. Chaque palier débloque et renforce ses capacités ! La difficulté détermine aussi les oranges et l'expérience reçues.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_03 >
+Le choix du plateau est affecté par le choix du Boss, ainsi que la difficulté sélectionnée.\n
+Facile : Jouez sur n'importe quel plateau débloqué.\n
+Normal et Extrême: Jouez sur une sélection de plateaux prévus pour le Co-op.\n
+Hyper: Jouez sur un plateau spécifique au boss.\n
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_04 >
+Un Boss au niveau Hyper dispose de ses plus puissantes capacités... défiez-en un, n'importe lequel, et vous aurez droit à un vrai défi !
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_05 >
+Incarnez l'un des 3 rôles de base : Attaquant, Gardien ou Soutien. Jouer un rôle attribue de l'expérience. Vous débloquerez de nouvelles capacités en montant en niveau.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_06 >
+Construisez votre deck Co-op en fonction du système de Points de Deck ! Les cartes puissantes nécessitent plus de Points de Deck que les autres.\n(Rappel : vos cartes et celles de vos alliés sont mélangées dans le deck.)
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_07 >
+Certains personnages voient leur Hyper modifié en Co-op ! Vous pouvez voir quelles cartes changent en mode Co-op depuis la section Co-op du Classeur.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_08 >
+Votre total de Points de Deck varie en fonction de la notation de votre personnage. Un personnage avec un rôle noté A est considéré très efficace dans ce rôle, et commence avec 10 Points de Deck.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_09 >
+À l'inverse, les personnages avec une notation inférieure commencent avec plus de Points de Deck. Explorez les combinaisons possibles entre les personnages et rôles disponibles !
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_10 >
+Le Boss se déplace physiquement sur le plateau et attaque tous les joueurs sur son passage ! Il n'active que les cases de mouvement (Déplacement, Portail, etc). Guettez ses déplacements pour mieux le contrer.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_11 >
+Le Boss possède un deck de 5 cartes uniques de niveau 0 à 3. Une fois ses 5 cartes jouées, il se débarrasse d'une de ses cartes au niveau le plus bas, et en débloque une nouvelle, puis il mélange son deck.
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_12 >
+La prochaine carte du Boss est indiquée en début de chapitre, puis il l'active au début de son tour, après que tout le monde ait joué. Profitez-en pour vous y préparer !
+
+< PLAYMENU_EVENT_SPRING2019_INSTRUCTION_13 >
+Maintenant, allez-y ! Battez ces monstres avant qu'ils ne causent trop de dégâts !
+
+< PLAYMENU_EVENT_SPRING2019_COMPLETE >
+Le monde est soulagé de ces horribles monstres ! Toutefois, la menace n'est pas écartée tant que le responsable court encore... qui peut bien se cacher derrière tout ça ?
+
+
+< PLAYMENU_EVENT_SUMMER2019_INSTRUCTION_MAIN >
+QP a perdu la tête après être restée trop longtemps au soleil ! Jouez avec elle et ses amis mouettes jusqu'à ce qu'elle se calme !
+
+
+< PLAYMENU_EVENT_SUMMER2019_COMPLETE >
+Grâce à vos efforts, tout le monde s'est bien amusé et QP est redevenue comme avant ! Enfin, était-ce vraiment dû aux rayons de soleil...?
+
+
+
+
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_MAIN >
+L'Opération Halloween pour Adultes est lancée ! Aidez Tsih à récupérer des friandises pour sa soirée filles !
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_01>
+En jeu, des citrouilles apparaîtront sur le plateau et s'y déplaceront.
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_02>
+S'arrêter sur une citrouille permet de la ramasser, suite à quoi elle apparaît aussitôt sur une autre case.
+
+< PLAYMENU_EVENT_HALLOWEEN2019_INSTRUCTION_03>
+Trouvez le plus de citrouilles possible pour mener l'opération à bien ! Vous aurez également droit à des bonbons en fin de match.
+
+< PLAYMENU_EVENT_HALLOWEEN2019_COMPLETE >
+Opération réussie ! Il reste encore des citrouilles ici et là si jamais vous manquez de bonbons.
+
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_MAIN >
+Objectif : Vaincre RoPoPou !
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_01 >
+Cette diablesse joue avec mon monde comme si c'était le sien...!
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_02 >
+Elle a beau être plus forte que moi... ensemble, on peut la vaincre !
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_03 >
+Je vous aiderai coûte que coûte ! Ainsi, on pourra sauver le monde !
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_04 >
+Affrontez les Boss du mode Co-op pour participer à la lutte !
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_05 >
+Tomomo prête ses pouvoirs magiques à tous les joueurs ! Les capacités Co-op sont dorénavant plus faciles à obtenir !
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_06 >
+Maintenant, tout le monde commence avec des bonus de stat. en fonction des classes ! Toutes les capacités sont débloquées au niveau 10, et le niveau maximum a été réhaussé.
+
+< PLAYMENU_EVENT_MIO_INSTRUCTION_COMPLETE >
+RoPoPou est vaincue, mais sa créatrice demeure encore ! Mettez un terme à cette histoire dans la mission bonus débloquée en Mode Campagne.
+
+< PLAYMENU_EVENT_MIO_MISSIONUNLOCK >
+Mettez un terme à cette histoire dans la mission bonus débloquée en Mode Campagne : %s
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_MAIN >
+De nouvelles quêtes attendent dans le nouveau mode de jeu, Chasseurs de Primes ! Aidez Ellie et Lulu à atteindre le rang B de la Guilde pour amasser assez d'argent !
+
+// Instruction about the game mode button
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_01 >
+Vous pouvez accéder au mode Chasseurs de Primes dans la section "Mode de jeu", aux côtés des modes Normal et Co-op.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_02 >
+Ce mode de jeu introduit un nouveau type de Quota : La Gloire. Tous les personnages y ont accès, et c'est le seul Quota disponible.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_03 >
+Gagnez en Gloire avec les Quêtes et les Primes ! Vous pouvez prendre l'une d'elles en vous arrêtant sur n'importe quelle Maison.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_04 >
+Les Quêtes consistent à se rendre sur un Territoire indiqué sur le contrat pour y récupérer un objet, que vous devrez remettre à une Échoppe indiquée par une flèche.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_05 >
+Les Primes consistent à partir à la rencontre du monstre dessiné sur le contrat pour le vaincre. Plus le monstre est fort, plus vous gagnerez en Gloire !
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_06 >
+Les monstres peuvent apparaître n'importe où ! Certains sont très dangereux, donc veillez à bien vous équiper ! (Le combat dure 10 tours maximum.)
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_07 >
+Pour vous aider dans votre quête de Gloire, tous les personnages commencent avec +1 de MOV et les étoiles obtenues en début de chapitre sont augmentées !
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_08 >
+Comme les lieux de Quêtes, les Échoppes apparaissent partout sur le plateau. Avec vos étoiles, vous pouvez y acheter de l'équipement, de la nourriture ou des cartess. Vous pouvez aussi vendre vos cartes !
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_09 >
+Notez que vos statistiques influent sur les prix des articles - les personnages moins puissants bénéficient de soldes, leur permettant ainsi de baser leur stratégie sur les objets !
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_10 >
+Les mirages sur le plateau indiquent où se trouvera un endroit venant d'être complété : un Territoire s'y déplacera après avoir été pacifié, et une Échoppe n'ayant plus rien à vendre y emménagera avec de nouveaux articles.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_11 >
+Compléter votre Quota permet de choisir une compétence parmi 3 au hasard. L'effet est permanent, et se présente sous la forme de bonus de stats, d'effets utilitaires, etc.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_12 >
+Lorsqu'un joueur atteint son 3ème Quota, un Envahisseur rejoint le plateau. Les Envahisseurs sont des ennemis uniques avec des capacités pouvant nuire aux joueurs. Les vaincre confère un objet très utile !
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_13 >
+Au 4ème Quota, un nouveau boss exclusif apparaît. Gare à sa force colossale ! Quiconque le vaincra gagnera 6 de Gloire !
+
+// Final introduction msg
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_14 >
+Partez en quête pour devenir le Chasseur de Primes le plus connu (et le plus riche) de tout le pays !
+
+// Completed.
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_COMPLETE >
+Félicitations ! Ellie et Lulu ont accompli suffisemment de quêtes pour reprendre la route ! Ceci dit, rien ne vous empêche de repartir en quête de Gloire.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_MAIN >
+Pique-nique au bord de la rivière ! Aidez Saki, Nath et Kae à attraper des poissons pour leur barbecue !
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_01 >
+Afin de participer à l'évènement, activez le mode de jeu "Pêche à la Ligne" avant de commencer une partie.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_02 >
+Un mini-jeu se lancera tous les 10 chapitres. Tous les joueurs y jouent en même temps !
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_03 >
+Regardez sous l'eau pour voir où trouver des poissons, puis lancez votre hameçon avec Clic Gauche pour en attraper !
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_04 >
+Votre hameçon coulera jusqu'au fond de la rivière et remontera aussitôt, emportant avec lui le premier poisson ou détritus qu'il croise.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_05 >
+Chaque poisson possède un poids et une vitesse variables. Les plus gros et les plus rapides rapportent le plus de points !
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_06 >
+Il arrive que le mini-jeu accélère de façon aléaatoire. Cela affecte la vitesse des poissons comme celle de votre hameçon !.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_07 >
+À la fin, les scores totaux de tous les joueurs sont comparés. Des étoiles sont offertes en fonction du score, et les joueurs Deuxième et Premier gagnent respectivement 1 et 2 Victoires.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_08 >
+Gardez un œil sur le grill ! Vous y trouverez 3 poissons spécifiques à attraper, et gagnerez 15 points bonus si vous y parvenez !
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_09 >
+Chaque joueur possède son propre grill, qui se réinitialise lorsque vous attrapez les 3 poissons. Tentez de le compléter autant de fois que possible !
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_10 >
+Il est aussi bon de noter que pêcher plusieurs fois le même poisson donne aussi des points bonus.
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_11 >
+Votre score de pêche à chaque partie permet de faire progresser l'évènement ! Sur ce, bonne pêche et régalez-vous !
+
+< PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_COMPLETE >
+Vous avez réussi ! Saki, Nath et Kae peuvent enfin savourer leur barbecue de rivière ! Si vous avez encore faim, n'hésitez pas à reprendre votre canne à pêche.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_MAIN >
+La course aux champignons a commencé ! Réveillez votre instinct de chasseur-cueilleur et trouvez les deux champignons légendaires !
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_01 >
+Pour participer à l'évènement, cochez la case "Évènement Saisonnier" lorsque vous créez un salon ou une partie en solo.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_02 >
+Vous pouvez également participer à l'évènement avec l'Effet de plateau "Spores". La fréquence d'apparition des champignons se verra réduite.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_03 >
+Tous les 2 chapitres (3 en mode normal), des champignons apparaissent sur des cases au hasard. Vous ramassez les champignons en vous y arrêtant.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_04 >
+Chaque champignon se présente comme une carte avec un effet aléatoire. Les effets sont attribués aux champignons en début de partie, et se révèlent à vous quand vous les utilisez.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_05 >
+Les champignons légendaires apparaîtront quand un joueur atteint le Niveau 4 ! Un seul de ces champignons peut être ramassé à chaque partie.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_06 >
+Ramasser ces champignons confère une puissante carte Cadeau. Vaincre le joueur en possession du champignon permet de le voler.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_07 >
+La progression de l'évènement dépend du champignon qui a été ramassé pendant la partie.
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_08 >
+Qui remportera la course aux champignons ? L'avenir nous le dira...
+
+< PLAYMENU_EVENT_FALL2020_INSTRUCTION_COMPLETE >
+La course aux champignons s'est terminée sur une égalité(?) pour cette fois... mais vous pouvez encore en chercher d'autres !
+
+< PLAYMENU_TOOLTIP_5YEARANNIVERSARY >
+Le jeu fête son 5ème Anniversaire sur Steam !\nVous pouvez changer de décoration de Maison en cliquant sur l'icône "Maison" sur votre profil.
+
+< PLAYMENU_1MILLIONCHARA_UNLOCK >
+Félicitations ! Mio, le personnage créé à l'occasion du premier million de téléchargements est maintenant disponible !\nElle peut également prendre le rôle d'annonceuse depuis les Options !
+
+< PLAYMENU_TOOLTIP_10YEARANNIVERSARY >
+Cadeau d'Anniversaire des 10 Ans sur Steam !\nVous pouvez changer de dos de carte en cliquant sur son icône dans l'édition de l'avatar.
+
+< PLAYMENU_SUMMER2019_RERUN_REVIVE >
+QP veut encore jouer ! La Bête de l'Été est de retour !
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_MAIN >
+Coco aidera Ellie à trouver ce qu'elle cherche quand elle sera rassasiée...? Elle dit sûrement vrai, alors partons trouver de la nourriture pour elle !
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_01 >
+Vous pouvez accéder au mode Chasseurs de Primes dans la section "Mode de jeu", aux côtés des modes Normal et Co-op.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_02 >
+En jouant au mode Chasseurs de Primes, vous verrez des marqueurs de nourriture sur certaines Échoppes. Faites-y halte pour récupérer un repas.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_03 >
+Les lieux de Quête et des Échoppes vendant toute sorte d'objets utiles apparaîtront sur le plateau. Ils se réinitialisent tous les 6 chapitres.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_04 >
+Vous pouvez vous arrêter à n'importe quelle Échoppe, maison, et lieu de Quête - à condition d'avoir pris la quête correspondante !
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_05 >
+Ce mode de jeu introduit un nouveau type de Quota : La Gloire. Tous les personnages y ont accès, et ils ne peuvent pas choisir d'autres types de Quota.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_06 >
+Vous pouvez gagner en Gloire en complétant des Quêtes ou des Primes de monstres. Plus une prime est difficile, plus elle donnera de Gloire !
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_07 >
+Chaque partie possède 6 lieux de Quête, ainsi qu'une sélection de 6 monstres au hasard : 2 faciles, 2 moyens et 2 difficiles.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_08 >
+Les combats contre des monstres peuvent durer jusqu'à 10 tours. Veillez à vous équiper en conséquence !
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_09 >
+Dans ce mode de jeu, afin d'aider les joueurs dans leur quête contre les monstres, tout le monde bénéficie de +1 carte max. !
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_10 >
+S'ajoute à ça un bonus de +1 MOV, qui peut être davantage amélioré dans les Échoppes.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_11 >
+Vous pouvez gagner des étoiles en Échoppe en vendant vos cartes. Notez que tous les Échoppes n'achèteront pas vos cartes au même prix !
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_12 >
+Lorsqu'une Échoppe est couramment sollicitée, elle monte en niveau. Les Échoppes de haut niveau ont plus de réserve et vendent des objets plus rares !
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_13 >
+Lorsqu'un joueur atteint le Niveau 4, c'est un tout nouveau Boss, très puissant, qui apparaîtra ! Quiconque parviendra à le vaincre gagnera 6 de Gloire !
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_14 >
+Au chapitre 15, un chevalier nommé Apocalypse viendra sur le plateau et prendra les joueurs pour cible. Il vole 1 de Gloire aux joueurs en les faisant tomber KO, et donne toute la Gloire accumulée à celui qui le vainquera.
+
+< PLAYMENU_EVENT_WINTER2020_INSTRUCTION_COMPLETE >
+Coco est rassasiée, le voyage peut commencer ! Vous pouvez continuer à jouer au mode Chasseurs de Primes pour débloquer d'autres récompenses.
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_MAIN >
+Partons à la nage et profitons des enseignements de Mio ! Un nouveau Boss Co-op, le Maître-Nageur, est maintenant disponible !
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_01 >
+Tous les dégâts infligés à {} font progresser l'évènement pour tout le monde.
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_02 >
+Vous pouvez aussi contribuer par moitié à l'évènement en affrontant les autres Boss Co-op.
+
+< PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_COMPLETE >
+L'évènement est complété, et Tomomo a appris à nager ! N'hésitez pas à prendre plus de cours auprès du Maître-Nageur si vous voulez revoir les bases.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_MAIN >
+Faites le tour des catalogues pour trouver les meilleures décorations de maison !
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_01 >
+Vous pouvez récupérer des décorations dans n'importe quel mode de jeu en vous arrêtant sur les Cases Décoration qui apparaîtront aléatoirement.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_02 >
+S'ajoute à ça une seconde méthode pour obtenir des décorations qui est spécifique à chaque mode de jeu.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_03 >
+En mode Normal, vous obtiendrez une décoration en vous arrêtant sur la Maison d'un autre joueur. Vous en gagnerez également en fin de partie en fonction du classement.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_04 >
+En mode Co-op, vous gagnerez une décoration en vainquant un familier du Boss. Vaincre le Boss en confère également en fonction de la difficulté.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_05 >
+En mode Chasseurs de Primes, vous obtiendrez une décoration en vous arrêtant à une Échoppe marquée. Vous en gagnerez également en fin de partie en fonction du classement.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_INSTRUCTION_06 >
+Vous pouvez obtenir un maximum de 4 décorations par partie, sans compter celles que vous obtenez en fin de partie.
+
+< PLAYMENU_EVENT_HALLOWEEN2021_COMPLETE >
+La maison est pleinement décorée, profitez de votre travail fait-main ! Vous pouvez continuer à récupérer des décorations pour débloquer plus de costumes.
+
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_MAIN >
+Le chaos se déchaîne ! Vous avez accès à toutes sortes de mutations de jeu dans la section Mode Chaos tant que l'évènement est actif.
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_01 >
+Pour jouer avec des mutations, sélectionnez le Mode Chaos en créant un salon ou en jouant en solo.\nVous pourrez alors choisir la mutation désirée.
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_02 >
+Certaines mutations désactivent les récompenses en jeu et/ou les succès par soucis d'équilibrage. Ceci vous est indiqué dans la description de chaque mutation.
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_03 >
+Cet évènement ne possède ni fin, ni récompenses uniques. En jouant au Mode Chaos, vous gagnerez 1 Jeton d'Arcade en fin de partie à la place (20 par jour max).
+
+< PLAYMENU_EVENT_CHAOS_INSTRUCTION_04 >
+Amusez-vous à briser toutes les règles ! Faites qu'un avec le chaos !
+
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_MAIN >
+On est arrivées à destination ! Guidez Ellie et Lulu jusqu'au temple du lac avant l'Équipe Arnelle !
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_01 >
+Chaque partie, indépendamment du mode de jeu, confère des Points de Mouvement. Utilisez les points pour explorer la carte de l'Évènement !
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_02 >
+Vous gagnez 3 Points de Mouvement à votre première partie de la journée, et 1 Point à chaque nouvelle partie.
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_03 >
+Un Point de Mouvement vous permet d'avancer d'une case sur la carte de l'Évènement.
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_04 >
+Les Points de Mouvement sont utilisés automatiquement lorsque vous avancez en ligne droite.\nEn arrivant à un carrefour, ce sera à vous de choisir quelle direction prendre.
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_05 >
+Les cases peuvent donner des étoiles, des oranges, des cosmétiques au hasard, voire des récompenses d'évènements !
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_06 >
+Qui trouvera le célèbre trésor ? L'avenir nous le dira...
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_COMPLETE >
+Vous avez atteint le temple ! Ceci étant dit, libre à vous de revenir sur vos pas, il doit bien rester encore quelques récompenses à dénicher.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_MAIN >
+Les gâteaux de Noël encourent un grave danger ! Il faut se débarrasser au plus vite des horribles gâteaux de Mio !
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_01 >
+Tous les 6 chapitres, les joueurs piochent un exemplaire de la carte "Gâteau" de Mio.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_02 >
+Afin de soulager le monde de cette immondice, mangez-la (à vos risques et périls) pour un effet aléatoire, ou jetez-la sur un adversaire, infligeant 1 de dégât.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_03 >
+Jouer à n'importe quel mode de jeu avec cet Évènement activé vous donnera des délicieux gâteaux en récompense, pouvant s'échanger contre des objets en Boutique.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_04 >
+L'évènement prend fin lorsque les joueurs à travers le monde entier parviennent à faire disparaître tous les "Gâteaux" de Mio.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_05 >
+Les deux compteurs correspondent à la façon d'utiliser les gâteaux, chacune faisant progresser l'évènement.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_06 >
+Afin de débloquer la fin de l'évènement, vous devrez atteindre votre objectif personnel de parties. Ceci débloquera également une récompense indépendamment du progrès de l'évènement.
+
+< PLAYMENU_EVENT_WINTER2022_COMPLETE_01 >
+Le monde est sauvé ! Cette ère sombre de l'histoire du gâteau touche à sa fin, et les délicieux gâteaux de Noël reviennent ! Il doit encore rester quelques "gâteaux", si ça vous intéresse.
+
+< PLAYMENU_EVENT_WINTER2022_COMPLETE_02 >
+Finalement, ils ne sont pas si mauvais ! Le monde entier semble adorer les gâteaux de Mio, maintenant à la mode un peu partout. Si vous avez encore faim, il doit encore en rester plein.
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_MAIN >
+On est encerclées ! Aidez Ellie et Lulu à repousser la horde de Maousses sauvages et trouvez le trésor !
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_01 >
+Jouez au mode de jeu Magot des Rats ou Chasseurs de Primes pour affronter les Maousses !
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_02 >
+Magot des Rats est une version modifiée de Chasseurs de Primes. Les Quotas sont plus bas, les articles des Échoppes sont 50% moins cher, et vous pouvez tenir +1 carte max.
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_03 >
+Les 3 primes disponibles seront toujours Maousse (facile), Maousse Pistache (moyen) et Maousse Framboise (difficile).\nChaque Maousse vaincue vous fera progresser dans l'évènement !
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_04 >
+Se rajoute à ça le fait que compléter une Quête de livraison nécessite de vaincre une Maousse à 2 PV après complétion pour obtenir la Gloire.
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_05 >
+Enfin, un nouvel envahisseur, Maousse Chocolat Noir, arrive pour maudire les étoiles des joueurs...\nVaincre Maousse Chocolat Noir ajoute 3 points à la progression de l'évènement.
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_06 >
+Quel secret est gardé par les Maousses, et pour quelle raison...?
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_COMPLETE >
+Vous avez trouvé le "trésor" qu'Ellie cherchait... mais qu'est-ce qu'il se passe dans ce temple ?
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_MAIN >
+Un nouvel ennemi approche ! La déesse de ce monde a choisi une fin tragique ! Rassemblez les souvenirs qu'il vous reste de tous ces moments partagés pour la vaincre !
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_01 >
+Chaque partie, indépendamment du mode de jeu, confère des Fragments de Souvenir. Utilisez-les pour avancer sur la carte de l'Évènement !
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_02 >
+Vous obtenez 3 Fragments de Souvenir à votre première partie de la journée, et 1 Fragment à chaque nouvelle partie.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_03 >
+Un Fragment de Souvenir vous permet d'avancer d'une case sur la carte de l'Évènement.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_04 >
+Les Fragments de Souvenirs sont utilisés automatiquement lorsque vous avancez en ligne droite.\nEn arrivant à un carrefour, ce sera à vous de choisir quelle direction prendre.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_05 >
+Les cases peuvent donner des étoiles, des oranges, ou des cosmétiques au hasard !
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_06 >
+Parviendrez-vous à rassembler vos souvenirs d'antan et à sortir Lulu des ténèbres qui la hantent ?
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_MAIN2 >
+Préparez-vous au combat final ! Battez Mio dans la Mission Bonus "Punition Divine" !
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_COMPLETE >
+Vous avez écarté la mauvaise fin que préparait la déesse de ce monde ! En route vers une nouvelle aventure ! Peut-être trouverez-vous de nouvelles récompenses sur le trajet ?
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_MAIN >
+Réglez vos comptes autour d'un bon repas au restaurant familial Pures ! Les meilleurs clients obtiennent des récompenses de fidélité !
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_01 >
+Un nouveau mode de jeu est débloqué le temps de cet évènement : Le Mode Duo !
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_02 >
+Chaque partie en Mode Duo vous donne un Coupon de Fidélité du Restaurant Pures ! Vous en gagnez également un toutes les deux parties sur un autre mode de jeu.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_03 >
+En Mode Duo, avant que la partie commence, vous pouvez choisir quel autre personnage vous accompagnera.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_04 >
+En jeu, vous pourrez alors Échanger la place de votre personnage avec celle de votre Partenaire, ce qui inverse leurs rôles !
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_05 >
+Notez qu'après un Échange, vous devrez attendre 3 chapitres avant de pouvoir Échanger à nouveau !
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_06 >
+Si le personnage sur plateau tombe KO, il Échangera aussitôt sa place avec son Partenaire (tant qu'il n'est pas KO lui aussi), ce qui déclenche le délai de 3 chapitres. Soyez prudents !
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_07 >
+Votre Partenaire récupère des PV au fur à mesure des Chapitres. S'il est KO, sa REC diminue de 1 par Chapitre, il se relève quand elle atteint 1.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_08 >
+Survoler le portrait de votre Partenaire affiche le nombre de Chapitres restants avant qu'il soit soigné.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_09 >
+Notez que les effets ne sont pas affectés par la durée si le personnage n'est pas sur le plateau.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_10 >
+Les effets sont attribués individuellement et ne feront rien tant que le personnage concerné est en retrait.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_11 >
+La seule exception à cette règle concerne les effets qui fonctionnent autour du KO (tels que Kit de Réparation).
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_12 >
+Trouvez la meilleure combinaison de personnages et devenez le champion local de 100% Orange Juice !
+
+< PLAYMENU_EVENT_SUMMER2025_INSTRUCTION_MAIN >
+Star Breaker, Tomato et Mimyuu sèment la terreur sur la plage ! Un nouveau Boss Co-op, Trio d'Enfer, est maintenant disponible !
+
+< PLAYMENU_EVENT_SUMMER2025_INSTRUCTION_COMPLETE >
+Félicitations ! Suite à une longue journée à jouer à la mer, le Trio d'Enfer est enfin épuisé, sauvant ainsi le monde entier.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_MAIN >
+Le club de 100% OJ court à sa perte avant même d'être fondé ! Jouez au jeu et faites vos preuves auprès de Popomi !
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_01 >
+Pour la durée de l'Évènement, tous les joueurs ont accès à un mode de jeu spécial : le Mode Équipe !
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_02 >
+Pour avancer sur le plateau de l'évènement, vous gagnez 3 Points de Mouvement à votre première partie de la journée dans n'importe quel mode, et 3 Points à votre première partie en Mode Équipe.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_03 >
+Chaque partie ultérieure donne 2 Points en Mode Équipe, ou 1 Point sur un autre mode.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_04 >
+Les cases Orange du plateau donnent des oranges, les cases Étoile donnent des étoiles, les cases vertes Cosmétique ont une chance de donner un cosmétique aléatoire, et les cases Couronne donnent un cosmétique de l'évènement !
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_05 >
+Faites le tour du plateau au moins une fois pour terminer l'évènement ! Continuez à jouer pour débloquer encore plus de récompenses !
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_06 >
+En Mode Équipe, vous pouvez choisir un personnage supplémentaire comme Partenaire.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_07 >
+Vous pouvez procéder à un Échange pendant votre tour afin que vos deux personnages changent de place. Ainsi, c'est le Partenaire qui prend les devants !
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_08 >
+Après un Échange, vous devrez attendre une durée fixe avant de pouvoir Échanger à nouveau (cette durée peut être ajustée dans les paramètres du salon). Utilisez l'Échange avec prudence !
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_09 >
+Si votre personnage actuel tombe KO, son Partenaire prendra sa place automatiquement, à condition de ne pas être KO également. Attention, cette action compte aussi comme un Échange !
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_10 >
+Votre Partenaire récupère des PV naturellement après un certain nombre de chapitres. S'il est KO, il se relèvera après un nombre de chapitres égal à sa REC.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_11 >
+Survoler le portrait de votre Partenaire montre la durée avant sa prochaine régénération.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_12 >
+La durée des effets de cartes appliqués à votre Partenaire ne s'écoulent pas jusqu'à Échange.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_13 >
+Si votre Partenaire possède quelconque effet pouvant affecter la partie, les effets ne seront PAS actifs jusqu'à retour sur le plateau.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_14 >
+Les effets s'appliquant à soi-même après s'être relevé d'un KO s'appliquent aussi au Partenaire dès lors qu'il se relève.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_15 >
+Sur ce, formez l'équipe ultime, et prouvez votre valeur, pour le bien du club de 100% OJ !
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_COMPLETE >
+Félicitations ! C'est ainsi que le club 100% OJ fut fondé, profitez de votre jeunesse et continuez à jouer pour encore plus de récompenses !
+
+< PLAYMENU_EVENT_NEXT_GOAL >
+Nouvel objectif :
+
+< PLAYMENU_EVENT_FINAL_GOAL >
+Objectif final :
+
+< PLAYMENU_EVENT_DATE_MONTH >
+%d.%d
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_BEGINNING >
+Début
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_ENDING >
+Fin
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_INTERLUDE >
+Interlude
+
+< PLAYMENU_EVENT_BOUNTYHUNTERS_FAME >
+Gloire : %d
+
+< PLAYMENU_EVENT_BOUNTYHUNTERS_RIBBON >
+Vous obtenez le ruban de Lulu !
+
+< PLAYMENU_LOADING_TEXT >
+Chargement...
+
+< PLAYMENU_CONNECTING_TEXT >
+Connexion...
+
+< PLAYMENU_INVENTORY_STACKING_TEXT >
+Compilation des objets dans l'inventaire...
+
+< PLAYMENU_2MDOWNLOADS_MESSAGE >
+Le jeu a dépassé les 2 millions de téléchargements, merci à tous !\nNouvelle mission bonus débloquée !\nQu'est-ce que Mio manigance...?
+
+< MENU_BOSS_DIFFICULTY_CASUAL >
+Facile
+
+< MENU_BOSS_DIFFICULTY_NORMAL >
+Normal
+
+< MENU_BOSS_DIFFICULTY_EXTREME >
+Extrême
+
+< MENU_BOSS_DIFFICULTY_HYPER >
+Hyper
+
+
+< MENU_COOPCLASS_ATTACKER >
+Attaquant
+
+< MENU_COOPCLASS_GUARDIAN >
+Gardien
+
+< MENU_COOPCLASS_SUPPORT >
+Soutien
+
+< MENU_COOPCLASS_AVENGER >
+Vengeur
+
+< MENU_COOPCLASS_DEALER >
+Croupier
+
+< MENU_COOPCLASS_VANGUARD >
+Avant-Garde
+
+< MENU_COOPUNLOCK_LEVEL >
+Niveau %d: %s
+
+< MENU_COOPUNLOCK_ABILITY >
+Capacité : %s\n%s
+
+< MENU_COOPUNLOCK_ORANGES >
+Oranges +%d
+
+< MENU_COOPUNLOCK_DECKPOINT >
+Point de Deck +%d
+
+< MENU_COOPUNLOCK_ROLEHYPER >
+Hyper de Rôle
+
+< MENU_COOPUNLOCK_NEWBOSS >
+Vous pouvez maintenant affronter %s en Co-op !\nChangez de boss en cliquant sur les flèches à côté de son nom en créant la partie.
+
+< MENU_COOPUNLOCK_HYPERDIFFICULTY >
+Difficulté Hyper débloquée pour %s en Co-op !
+
+< MENU_COOPUNLOCK_NEWCLASS >
+Nouveau rôle Co-op débloqué : %s!
+
+< MENU_SHOP_RETIREDEVENTITEM >
+Récompenses de l'Évènement %s maintenant disponibles en boutique !
+
+< MENU_WEEKLY_FREE_LABEL >
+GRATUIT CETTE SEMAINE
+
+< MENU_WEEKLY_FREE_TOOLTIP >
+Ces 2 personnages DLC / Bonus sont accessibles gratuitement le temps d'une semaine !\nVous pouvez également utiliser leurs voix d'annonceur depuis les Options.
+
+< MENU_MODMENU_DETAIL_1 >
+Description
+
+< MENU_MODMENU_DETAIL_2 >
+Notes
+
+< MENU_MODMENU_DETAIL_3 >
+Modifications
+
+< MENU_VISIT_STEAM_WORKSHOP >
+Explorer le Workshop
+
+< MENU_WORKSHOP_THUMBNAIL_REQUIRED >
+Votre mod requiert une miniature pour être publié.\n\nConsultez les ressources sur le modding pour plus d'information.
+
+< MENU_WORKSHOP_CONTEST_UNAVAILABLE >
+Publication impossible :\nAucun concours n'est actuellement en cours.
+
+< MENU_WORKSHOP_AGREEMENT_ERROR >
+Publication impossible :\nLes termes d'utilisation du Steam Workshop n'ont pas été acceptés.
+
+< MENU_WORKSHOP_PUBLISH >
+Publier
+
+< MENU_WORKSHOP_WORKSHOP_BTN >
+Workshop
+
+< MENU_WORKSHOP_PUBLISHING >
+Publication du mod sur le Steam Workshop...
+
+// The website will be below this message as a link
+< MENU_WORKSHOP_PREMESSAGE >
+En publiant ou mettant à jour votre mod sur le Steam Workshop, vous acceptez les termes de service ci-joint :
+
+< MENU_WORKSHOP_ERROR >
+Échec en provenance du Service Steam Workshop. \n\n %s
+
+< MENU_WORKSHOP_ERROR_1 >
+Privilèges manquants.
+
+< MENU_WORKSHOP_ERROR_2 >
+Votre accès au workshop a été restreint par un modérateur.\nContactez le Support Steam.
+
+< MENU_WORKSHOP_ERROR_3 >
+Demande expirée. Veuillez réessayer plus tard.
+
+< MENU_WORKSHOP_ERROR_4 >
+Pas de connexion à Steam.
+
+< MENU_WORKSHOP_ERROR_5 >
+Serveurs temporairement indisponibles.\nVeuillez réessayez plus tard.
+
+< MENU_WORKSHOP_ERROR_6 >
+Une case dans votre publication est invalide.
+
+< MENU_WORKSHOP_ERROR_7 >
+Vous avez dépassé votre maximum de mods publiés en ligne.\nRetirez des mods du workshop et réessayez.
+
+< MENU_WORKSHOP_ERROR_8 >
+Fichier introuvable.\nEssayez d'effacer le fichier workshop.dat dans le dossier de votre mod et réessayez.
+
+< MENU_WORKSHOP_ERROR_9 >
+Ce mod est déjà publié.\nVeuillez actualiser.
+
+< MENU_WORKSHOP_ERROR_10 >
+Il existe déjà un mod à ce nom.\nMerci de donner un nom unique à votre mod.
+
+< MENU_WORKSHOP_ERROR_11 >
+Suite à un changement récent de mot de passe ou d'adresse mail, vous n'êtes pas autorisé(e) à mettre du contenu en ligne.
+
+< MENU_WORKSHOP_ERROR_12 >
+Accès refusé.
+
+< MENU_WORKSHOP_ERROR_13 >
+Erreur inconnue.
+
+< MENU_PLATE_FIRSTTIMEUNLOCK >
+Vous pouvez dorénavant modifier votre plaque de joueur !\nLes modèles dépendent de votre progression en mode solo, des évènements auxquels vous avez participé, ou de votre niveau.\nModifiez votre plaque dans Info du Joueur puis Avatar.
+
+< MENU_PREVIEW >
+Aperçu
+
+< MENU_PLATEBG_UNLOCK >
+Nouveau décor de plaque\ndébloqué !
+
+< MENU_PLATEFRAME_UNLOCK >
+Nouveau contour de plaque\ndébloqué !
+
+< MENU_PLATEFRAME_PIN >
+Nouveau badge débloqué !
+
+// eg.: Online Level 200 Reward
+< MENU_PLATE_STEAMLEVEL_REWARD >
+Récompense - Niveau %d
+
+< MENU_PLATE_EVENTCLEAR_REWARD >
+Récompense - Complétion d'Évènement
+
+< MENU_PLATE_CAMPAIGNCLEAR_REWARD >
+Récompense - Complétion de Campagne
+
+< MENU_PLATE_DLCPURCHASE_REWARD >
+Récompense - Achat de DLC
+
+< MENU_NOW_SAVING >
+Sauvegarde...
+
+// %% is not a typo. Keep it as is.
+< MENU_FRIENDLIST_HEADER >
+%d amis en ligne. %d sur 100%% Orange Juice!
+
+< MENU_FRIENDLIST_INVITE >
+Inviter des Amis
+
+< MENU_CPU_CUSTOMIZATION_BTN >
+Modifier CPU
+
+< MENU_CPU_CUSTOMIZATION_TITLE >
+Modification des CPU
+
+< MENU_VOCALIZER_GENERIC_CATEGORY >
+Générique
+
+< MENU_VOCALIZER_NORMAL_CATEGORY >
+Normal
+
+< MENU_VOCALIZER_SPECIAL_CATEGORY >
+Spécial
+
+< MENU_ENDGAME_REWARDS_DISABLED >
+Récompenses de fin de partie désactivées.
+
+< MENU_ACHIEVEMENTS_DISABLED >
+Succès désactivés.
+
+< MENU_CODEX_INFO_LABEL >
+Information
+
+< MENU_CODEX_MORESOON_LABEL >
+Plus de personnages à venir !
+
+< MENU_CODEX_INSTRUCTION_1 >
+Bienvenue dans l'OJDex !\nUne interface de moults savoirs qui s'agrandira à l'avenir pour s'informer sur les profils des personnages.
+
+< MENU_CODEX_INSTRUCTION_2 >
+Vous débloquerez plus d'information sur un personnage en le jouant un certain nombre de fois en ligne sur n'importe quel mode de jeu. Toutes vos parties précédent ce nouvel ajout sont comptées dans la progression du codex.
+
+< MENU_CODEX_INSTRUCTION_3 >
+Participez à 50 parties en ligne avec un personnage pour débloquer un badge de profil à son effigie.
+
+< MENU_CODEX_INSTRUCTION_4 >
+Nous espérons que vous apprécierez ce nouvel ajout. N'hésitez pas à partager vos retours sur Steam ou sur notre serveur Discord !
+
+< MENU_CODEX_TAB_LORE >
+Lore des Perso.
+
+< MENU_CODEX_TAB_STORIES >
+Histoires Bonus
+
+< MENU_CODEX_READSTORY >
+Lire l'Histoire
+
+< MENU_CODEXSTORY_TITLE_FAMILY >
+Vie de Famille
+
+< MENU_CODEXSTORY_TITLE_CLASSCHANGE >
+Nouvelle Vocation
+
+< MENU_CODEXSTORY_TITLE_LULUWATTY >
+Commisération
+
+< MENU_CODEXSTORY_TITLE_CONCIERGE >
+Guide Canin
+
+< MENU_CODEXSTORY_TITLE_ALTENICO >
+Trésors Sous le Ciel Nocturne
+
+< MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
+Participez à {0} parties en tant que {1}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_2UNITS >
+Participez à {0} parties en tant que {1} ou {2}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_NUNITS >
+Participez à {0} en tant que l'un de ces personnages : {1}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_EVENT >
+Complétez l'Évènement "{0}".
+
+< MENU_CODEXSTORY_UNLOCKCOND_HATS_1UNIT >
+Débloquez un accessoire / couleur de cheveux pour {0}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_HATS_NUNITS >
+Débloquez des accessoires / couleurs de cheveux pour ces personnages : {0}.
+
+< MENU_NORMABOARD >
+Bonus Quota
+
+< MENU_HIDE_UI >
+Cacher Interface
+
+< MENU_SHOW_UI >
+Montrer Interface
+
+< MENU_CARDBACK_UNLOCK >
+Nouveau dos de carte débloqué !
+
+< MENU_CHAPTER_LABEL >
+Chapitre
+
+< MENU_UNAVAILABLE_LABEL >
+Indisponible pour le moment.
+
+< MENU_DIRECT_TO_SHOP_BUY_CARD >
+Vous pouvez acheter des paquets de carte dans la Boutique avec les Étoiles obtenues en fin de partie !
+
+< MENU_HOLD_CLICK_SPEEDUP >
+Maintenez le clic gauche pour accélerer
+
+< MENU_CSELECT_DIFFICULTY_LABEL >
+DIFFICULTÉ
+
+[EOF]

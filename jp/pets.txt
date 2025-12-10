@@ -113,7 +113,7 @@ descr=名に恥じぬ生き方実践中
 
 < PET_PIYO_EGGSHELL>
 name=ピヨ(卵)
-descr=ピヨが先か？ 卵が先か？ 
+descr=ピヨが先か？ 卵が先か？
 
 < PET_PIYO>
 name=ピヨ
@@ -286,9 +286,109 @@ name=ターニスライメ
 descr=曲がらなくていいとこ\n曲がっちゃいました
 
 < PET_PUNYZARD >
-name=ミニザード	
+name=ミニザード
 descr=耳寄り情報に敏感
 
 < PET_MASHIRO >
 name=まっしろ
 descr=もう不幸じゃない
+
+< PET_MARKETABLESUGURIPLUSHIE >
+name=人気のスグリのぬいぐるみ
+descr=人気のあるぬいぐるみっていいね
+
+< PET_MINIEPOPPO >
+name=ミニーぽっぽ
+descr=あなたの心をまた盗みます
+
+< PET_COMPACTSORA >
+name=コンパクトなソラ
+descr=あらゆる形態で効率的
+
+< PET_STABU >
+name=スタブ
+descr=ちょっとしたジングルつき
+
+< PET_PLUSHQP >
+name=ぬいぐるみQP
+descr=とっても柔らかいワンちゃん
+
+< PET_HUGGYHIME >
+name=ハギング・ヒメ
+descr=ぎゅっと抱きしめてくれます
+
+< PET_SMOLSAKI >
+name=スモール・サキ
+descr=スモールバン・ベル付き
+
+< PET_RAREREPA >
+name=レア・レパ
+descr=こんなにレアなレパは珍しい
+
+< PET_TRAVELARU >
+name=トラベル・アル
+descr=世界中どこへでも連れて行けます
+
+< PET_MINIATUREMARC >
+name=ミニチュア・マール
+descr=1/16スケールのパイロット
+
+< PET_ALTEHUGTOY >
+name=ハグしてほしいアルテ
+descr=優しくしてあげて
+
+< PET_COMFORTTOMOMO >
+name=癒やしのトモモ
+descr=最高級の100おれグッズの究極版がついに登場
+
+< PET_DARKNESSKRILA >
+name=闇クリラ
+descr=ぬいぐるみ使いがぬいぐるみになりました
+
+< PET_LUCKYLULU >
+name=ラッキー・ルルゥ
+descr=あなたの旅に幸運をもたらします
+
+< PET_SUMIKAPLUSHIE >
+name=スミカv0.2
+descr=ちょっと小さいスミカもスミカです
+
+< PET_GOGOKAE >
+name=ゴーゴー・カエ
+descr=夜寝ている時にも守ってくれます
+
+< PET_BUDGETKAI >
+name=手頃なカイ
+descr=1渋沢で買えます
+
+< PET_STEALTHYTSIH >
+name=ステルス・ツィー
+descr=ナノナノラ語を話します
+
+< PET_SWEEBO >
+name=スイブ
+descr=愛されキャラはあだ名が多い
+
+< PET_MINIMIO >
+name= ミニ・ミオ
+descr=悪魔的にかわいいプレミアムなぬいぐるみ
+
+< PET_POCKETCOACH >
+name=ポケットに入るコーチ
+descr=いつでもどこでも水泳レッスンが受けられます
+
+< PET_OWNGOAL >
+name=オウンゴール
+descr=自身の栄光を思い出させるトロフィー
+
+< PET_WATERBALLONJERK >
+name=ウォーターバルーンジャーク
+descr=嫌な奴にのみ投げつけてOK
+
+< PET_HANDRINGER >
+name=ハンドリンガー
+descr=お風呂で手を浮かせてくれます
+
+< PET_HARBY >
+name=せんくしゃ
+descr=この不思議なぬいぐるみで友達を困らせよう！

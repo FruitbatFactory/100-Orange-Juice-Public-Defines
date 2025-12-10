@@ -1,7 +1,7 @@
-< ITEMDEF_PET_DISPLAY_TYPE > 
+< ITEMDEF_PET_DISPLAY_TYPE >
 ペット
 
-< ITEMDEF_TOKEN_DISPLAY_TYPE > 
+< ITEMDEF_TOKEN_DISPLAY_TYPE >
 アーケードトークン
 
 
@@ -89,6 +89,9 @@ Steamに接続されていません。
 
 < ARCADE_MACHINE_BOUNTYHUNT >
 BHペットキャッチャー
+
+< ARCADE_MACHINE_PLUSHIE >
+ぬいぐるみペットキャッチャー
 
 < ARCADE_MACHINE_EXCHANGE >
 ペットエクスチェンジ

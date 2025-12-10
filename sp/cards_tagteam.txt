@@ -1,0 +1,11 @@
+< CARD_HYPER_TAG_POPPO >
+name=Ubícuo
+descr=Escoge a un enemigo.\nIrás hacia el mismo panel que esa unidad, y les robarás estrellas por un valor equivalente a su nivel x 10.\nDuración: 1 Capítulo.\nLos valores de tu unidad serán de -1 ATK, DEF y EVD como base. Entonces tirarás un dado para moverte.
+flavor="¡Poppo! ¡Poppopopopopo!"\n―Marie Poppo
+
+< CARD_HYPER_COOK >
+name=La Guía de la Hada Veleta
+descr=Efecto Guardado.\nTiras 2 dados para todas tus acciones. Este efecto no se activará dentro de una batalla, y se acabará al detenerte en tu propio hogar o al cambiar de lugar con tu compañero. Solo podrás subir de nivel en tu propio hogar.
+flavor="¡*Pío, pío*! Cook quiere ir por aquí." ―Cook
+
+[EOF]

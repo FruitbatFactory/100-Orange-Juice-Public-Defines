@@ -114,3 +114,7 @@ descr=
 < FIELDEVENT_CONVERGENCE >
 name=수렴
 descr=현재 필드가 다른 무작위 필드로 변경된다.\n\n빈도: 6챕터마다
+
+< FIELDEVENT_CLASHOFCAKES >
+name=케이크
+descr=모든 플레이어가 "미오의 잘못된 케이크" 카드를 받는다.\n\n빈도: 6챕터마다

@@ -1,0 +1,238 @@
+
+< FREEBATTLE_CREATELOBBY >
+Mode Campagne
+
+< FREEBATTLE_JOINLOBBY >
+Rejoindre le Salon
+
+< FREEBATTLE_SINGLEPLAYER >
+Mode Solo
+
+< FREEBATTLE_RETURN >
+Retour
+
+< LOBBYLIST_RETRIEVINGLOBBIES >
+Recherche de salons.\nVeuillez patienter...
+
+< LOBBYLIST_RETRIEVINGDATA >
+Synchronisation au salon...
+
+< LOBBYLIST_DATATIMEOUT >
+Erreur de synchronisation.
+
+< LOBBY_NOSTEAM >
+Connexion à Steam échouée.
+
+< LOBBY_CREATING >
+Création d'un salon via Steam...
+
+< LOBBY_CREATEFAILED >
+Impossible de créer le salon.
+
+< LOBBY_CONNECTING >
+Connexion au salon. Veuillez patienter...
+
+< LOBBY_CONNECTED >
+Connecté au salon.
+
+< LOBBY_CONNECTFAILED >
+Échec lors de la connexion au salon.
+
+< LOBBY_NORESPONSE >
+Pas de réponse.
+
+< LOBBY_GAMEABORTED >
+La partie a été annulée.
+
+< LOBBY_JOINRESPONSE >
+En attente d'une réponse du serveur...
+
+< LOBBY_JOINFAILED >
+Échec.
+
+< LOBBY_FULL >
+Le salon est plein.
+
+< LOBBY_STEAMID_EXISTS >
+SteamID déjà en jeu.
+
+< LOBBY_WRONGPASSWORD >
+Mauvais mot de passe.
+
+< LOBBY_BANNEDFROMLOBBY >
+Vous avez été expulsé(e) de ce salon.
+
+< LOBBY_VERSIONDIFFERENCE >
+Version du salon incompatible.
+
+< LOBBY_VERSIONUPDATE >
+Veuillez mettre votre jeu à jour.
+
+< LOBBY_HOSTHASOLDVERSION >
+Le salon utilise une ancienne version du jeu.
+
+< LOBBY_LEAVECONFIRM >
+Quitter le salon ?
+
+< LOBBY_LEAVEWAIT >
+Veuillez patienter...
+
+< LOBBY_PLAYERLEFT >
+Un joueur a quitté la partie.
+
+< LOBBY_KICKCONFIRM >
+Expulser ce joueur ?
+
+< LOBBY_KICKED >
+Expulsé(e) du salon.
+
+< LOBBY_PLAYERCONNECTIONLOST >
+Un joueur a perdu la connexion.
+
+< LOBBY_HOSTCONNECTIONLOST >
+Connexion à l'hôte perdue.
+
+< LOBBY_REMOVEDFORIDLING >
+Vous avez été expulsé(e) pour inactivité.
+
+< LOBBY_CHANGING_OWNER >
+Changement d'hôte...
+
+< LOBBY_REPLACINGPLAYER >
+Remplacement par un CPU.
+
+< LOBBY_SPECTATOR_CONNECTING >
+Un spectateur se connecte...
+
+// Prefix: Spectator's name.
+< LOBBY_SPECTATOR_JOINREQUEST >
+voudrait rejoindre...
+
+< LOBBY_SPECTATOR_JOINREQUESTING >
+Envoi de la demande...
+
+< LOBBY_SPECTATOR_JOINDENIED >
+Demande rejetée.
+
+< LOBBY_SPECTATOR_JOINNOPLAYERSLOTS >
+Plus de place pour un autre joueur.
+
+// LOBBY_SPECTATOR_JOIN + name + LOBBY_SPECTATOR_JOIN2
+// Spectator Domdi wants to join as player.
+< LOBBY_SPECTATOR_JOIN1 >
+Le spectateur
+
+< LOBBY_SPECTATOR_JOIN2 >
+aimerait rejoindre la partie.
+
+< LOBBY_PLAYERTOSPECTATOR_CONFIRM >
+Devenir spectateur ?
+
+< LOBBY_SPECTATORTOPLAYER_CONFIRM >
+Devenir joueur ?
+
+< CHAT_TYPEPROMPT >
+<Appuyez sur ENTER pour envoyer un message>
+
+< CHAT_CONTROLLERTYPEPROMPT_1 >
+<Appuyez sur
+
+< CHAT_CONTROLLERTYPEPROMPT_2 >
+pour ouvrir le clavier intégré au jeu.>
+
+// 10 characters max.
+< CHAT_NAME_SYSTEM >
+SYSTÈME
+
+// 10 characters max.
+< CHAT_NAME_EMPTY >
+<vide>
+
+< CHAT_NAME_DASHES >
+--------
+
+< CHAT_MUTE_SELF_ERROR >
+Vous ne pouvez pas vous masquer vous-même.
+
+< CHAT_MUTED_USER >
+Vous avez masqué %s.
+
+< CHAT_UNMUTED_USER >
+Vous avez démasqué %s.
+
+< CHAT_SYSTEM_LOBBYCREATED >
+Salon %s créé !
+
+< CHAT_SYSTEM_LOBBYJOINED >
+Salon %s rejoint !
+
+< CHAT_SYSTEM_PLAYERJOINEDLOBBY >
+%s a rejoint le salon !
+
+< CHAT_SYSTEM_GAMEENDED >
+La partie est terminée ! Retour au salon.
+
+< CHAT_SYSTEM_REQUESTEDPLAYERSLOT >
+Demande envoyée. En attente de l'hôte...
+
+< CHAT_SYSTEM_REQUESTEDSPECTATORSLOT >
+Demande envoyée. En attente de l'hôte...
+
+< CHAT_SYSTEM_PLAYERSLOTREQUESTTIMEOUT >
+Pas de réponse.
+
+< CHAT_SYSTEM_SPECTATORSLOTREQUESTTIMEOUT >
+Pas de réponse.
+
+< CHAT_SYSTEM_PLAYERTAKEOVER >
+%s a pris la place du Joueur %d.
+
+< CHAT_SYSTEM_SWITCHEDTOPLAYER >
+Vous êtes maintenant joueur !
+
+< CHAT_SYSTEM_SWITCHEDTOSPECTATOR >
+Vous êtes maintenant spectateur !
+
+< CHAT_SYSTEM_PLAYERSWITCHEDTOSPECTATOR >
+%s est devenu(e) spectateur.
+
+< CHAT_SYSTEM_SPECTATORSWITCHEDTOPLAYER >
+%s est devenu(e) joueur.
+
+< CHAT_SYSTEM_PLAYERHASLEFTGAME >
+%s quitte la partie.
+
+< CHAT_SYSTEM_LOSTCONNECTIONTOPLAYER >
+Connexion à %s perdue.
+
+< CHAT_SYSTEM_CHEATDETECTED_CLIENT >
+%s a tenté de tricher en jouant une carte invalide.
+
+< CHAT_SYSTEM_CHEATDETECTED_HOST >
+%s a tenté de tricher en jouant une carte invalide, et a été expulsé(e).
+
+// Invite = game invitation
+< GAMEINVITE_PENDING_TITLE >
+Invitation en attente
+
+< GAMEINVITE_JOIN_TOOLTIP >
+Rejoignez la partie depuis le Menu Principal.
+
+// Game speed: <nb>
+< GAMEINVITE_NORMAL_MODE_DETAILS >
+Vitesse : %d
+
+// Game speed: <nb>, <boss name>, <boss difficulty>
+< GAMEINVITE_COOP_MODE_DETAILS >
+Vitesse %d, %s, %s
+
+< LOBBY_QUICKJOIN_TOOLTIP >
+Partie rapide.
+
+< PLAYERPLATE_STEAMLEVEL >
+NIV %d
+
+< PLAYERPLATE_STEAMWINS >
+Victoires : %d
+
+[EOF]

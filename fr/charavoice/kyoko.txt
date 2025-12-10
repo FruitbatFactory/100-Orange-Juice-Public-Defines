@@ -1,0 +1,156 @@
+<0000> J'y vais.
+<0001> Hop.
+<0002> Comme ça.
+<0003> *soupir*
+<0004> Faisons ainsi.
+<0005> Cette méthode est la bonne.
+<0006> Quel ennui.
+<0007> J'utilise cette carte.
+<0008> Voilà un piège.
+<0009> Je pose ça là.
+<0010> Je me demande si quelqu'un va l'activer.
+<0011> Je pense que c'est le bon endroit pour un piège.
+<0012> Ça va rendre les choses plus simples.
+<0013> Je vais renverser le cours de la situation.
+<0014> Il serait incommodant de perdre, donc...
+<0015> Voilà mon choix.
+<0016> Barrière.
+<0017> Pff, ce n'est pas trop tôt.
+<0018> Mes vêtements sont pleins de poussière.
+<0019> Ménagez ma santé fragile.
+<0020> Il me reste encore du travail.
+<0021> Je n'en peux plus de vivre dans ce corps.
+<0022> C'est d'un ennui profond.
+<0023> Je ne peux pas trop me brusquer.
+<0024> Argh...
+<0025> Attaquer n'est pas dans mes habitudes.
+<0026> Une ouverture.
+<0027> Cristal.
+<0028> Toutes mes excuses.
+<0029> Aïe.
+<0030> Pourquoi rendre ça encore plus difficile ?
+<0031> Guh.
+<0032> Argh.
+<0033> Je me sens déjà un peu mieux.
+<0034> C'est agréable.
+<0035> Je devrais me ménager un peu.
+<0036> Je prends ça comme un devoir de travailler plus.
+<0037> Un portail ?
+<0038> Jusqu'où m'emmènes-tu ?
+<0039> C'est un transport bien risqué.
+<0040> Évite de me secouer comme ça.
+<0041> Apparemment, je peux enfin respirer.
+<0042> Pour l'amour du ciel.
+<0043> Je suis un déchet.
+<0044> Pff... Quel fardeau insupportable.
+<0045> Je te conseille de rester sur tes gardes.
+<0046> Je passe à l'attaque.
+<0047> Je ne rate pas une opportunité de vaincre mes ennemis.
+<0048> Tu es parfaitement vulnérable.
+<0049> J'ai confiance en ma défense.
+<0050> Tu risques d'avoir du mal à me blesser.
+<0051> Es-tu capable de briser ma barrière ?
+<0052> Tes attaques ne parviendront pas jusqu'à moi.
+<0053> Forme un cristal et jette-le...
+<0054> Attaque de cristal.
+<0055> Mon cristal va te transpercer.
+<0056> Un cristal coupant comme un poignard.
+<0057> Argh.
+<0058> Ouille.
+<0059> Aïe.
+<0060> Guhh...
+<0061> Guh, quel ennui.
+<0062> Ménage ma santé, veux-tu ?
+<0063> Je ne peux pas y croire.
+<0064> Mon corps ne tiendra plus très longtemps.
+<0065> Dieu merci, je m'en suis sortie.
+<0066> C'était imprudent de notre part à tous les deux.
+<0067> Tu devrais te reposer quelques temps.
+<0068> Pfiou, je ne pensais pas pouvoir gagner.
+<0069> Tu m'as vaincue.
+<0070> J'ai fait tout ce que j'ai pu...
+<0071> Mon corps est... inutile...
+<0072> Je me suis décontenancée.
+<0073> Je me sers.
+<0074> Il faut que j'en réunisse, n'est-ce pas ?
+<0075> Je vais les utiliser à bon escient.
+<0076> Quelle joie.
+<0077> J'en ai fait tomber quelques unes.
+<0078> J'en ai perdu quelques unes.
+<0079> Seigneur...
+<0080> J'ai été imprudente.
+<0081> Un piège...?
+<0082> Je n'arrive pas à croire qu'on m'ait dupée ainsi.
+<0083> Habile.
+<0084> Ce piège m'a trompée.
+<0085> J'ai un mauvais pressentiment.
+<0086> Eh bien, c'est incommodant.
+<0087> Je préfèrerais ne pas m'en approcher.
+<0088> Il ne sera pas simple de se débarrasser de cette chose.
+<0089> Cette option semble plus simple que l'autre.
+<0090> J'espère pouvoir en amasser beaucoup.
+<0091> Je dois rassembler beaucoup d'étoiles, c'est bien ça ?
+<0092> Je vais collecter des étoiles.
+<0093> *soupir* Je n'ai plus le choix.
+<0094> Je ne suis pas du genre offensive, mais...
+<0095> Je crains n'avoir nul autre choix que de les affronter.
+<0096> Si le combat est la seule solution...
+<0097> Je m'appelle Kyoko, enchantée.
+<0098> Moi ? Eh bien, ça ne me dérange pas de jouer à tes côtés.
+<0099> C'est d'un ennui.
+<0100> Je suis en manque d'exercices physiques.
+<0101> Je vais faire ça vite et bien.
+<0102> Quel est le plan ?
+<0103> Ça commence.
+<0104> Je vais faire de mon mieux.
+<0105> Je m'en suis mieux sortie que prévu.
+<0106> J'ai gagné contre mes propres attentes.
+<0107> Aurais-je gagné ? Alors soit.
+<0108> Il n'y a pas de mal à jouer de temps à autres.
+<0109> Ne dépense pas tout d'un coup.
+<0110> C'est ce que tu voulais ?
+<0111> Ravie pour toi.
+<0112> Est-ce là un objet utile ?
+<0113> J'aimerais que tu me relayes.
+<0114> Tu veux bien prenre ma place ?
+<0115> Il faut que je me repose.
+<0116> Je te laisse t'en charger.
+<0117> Bien.
+<0118> Tant mieux.
+<0119> Oui.
+<0120> Non.
+<0121> Quel déchet.
+<0122> Très bien.
+<0123> Oh ?
+<0124> Dépêchons-nous.
+<0125> Je m'en vais jeter le dé.
+<0126> Maintenant.
+<0127> Bonjour.
+<0128> Hm...
+<0129> Bien joué.
+<0130> C'est magnifique.
+<0131> Mauvais calcul.
+<0132> Ce pouvoir m'est inconnu... ça m'inquiète.
+<0133> Je ne sais pas à qui ça appartient, mais je vais m'en servir.
+<0134> Une belle découverte.
+<0135> Et si je jouais celle-là ?
+<0136> Hm... J'ai le sentiment qu'il s'est réveillé.
+<0137> *soupir*... Ça risque de se corcer.
+<0138> J'espère ne plus jamais le voir en action.
+<0139> Bon sang... Quel fardeau...
+<0140> Tu es...
+<0141> Je préfèrerais que tu sois loin de moi.
+<0142> J'espère ne plus jamais te revoir.
+<0143> Sache que je ne t'apprécie pas... du tout.
+<0144> Qu'est-ce que tu fais là...!
+<0145> Je vais te faire retourner à ta forme de tête.
+<0146> Tu me répugnes...
+<0147> Tu es bien plus supportable en tant que tête.
+<0148> Je n'arrive pas à croire que j'aie perdu contre toi.
+<0149> C'est un cauchemar... Un horrible cauchemar.
+<0150> Iru, tu devrais te maîtriser un peu plus.
+<0151> Comment vont tes croks ?
+<0152> Tu as l'air de t'amuser... J'en suis ravie.
+<0153> Tu as l'air... heureuse. Si c'est le cas, tant mieux.
+<0154> Je ne crains pas de si piètres attaques.
+<0155> N'espère pas briser mon cristal aussi facilement.

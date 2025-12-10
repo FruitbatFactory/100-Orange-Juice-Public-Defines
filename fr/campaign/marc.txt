@@ -1,0 +1,296 @@
+<0000> Quel beau temps, aujourd'hui ! Je vais pouvoir voler sans problème...
+<0001> Red Barrel ! On a un problème !
+<0002> Qu'il y a-t-il, Blue Crow ?
+<0003> La grosse roquette que tu as fabriquée...
+<0004> Poppo !!
+<0005> Heein !? Cette fille m'a volé mon missile ?!
+<0006> C'est pas un jouet ! Repose ça !
+<0007> Poppopo !
+<0008> Bon sang, Poppo !
+<0009> Qu'est-ce que- !? Qui es-tu ?
+<0010> On en parlera plus tard. Elle vous a volé quelque chose ?
+<0011> Je vais vous aider !
+<0012> Ah ? Pourquoi ?
+<0013> Elle a aussi volé mon portefeuille !
+<0014> Ah.
+<0015> Poppoppo !
+<0016> Je me soucie pas de ton portefeuille, mais ce missile est très important !
+<0017> Mon portefeuille est important pour moi !
+<0018> Poppo !
+<0019> On va t'attraper par la force si ça continue !
+<0020> Youpi !
+<0021> Poppo a perdu.
+<0022> J-je commence à fatiguer.
+<0023> Moi aussi...
+<0024> Rends-moi mon missile, maintenant.
+<0025> Eeeh...
+<0026> Poppo s'enfuit !
+<0027> Quoi !?
+<0028> E-elle va beaucoup trop vite !
+<0029> Courez, ou on risque de la perdre !
+<0030> D'accord, d'accord !
+<0031> Dépêchons-nous !
+<0032> Cette Poppo... Elle est passée où ?
+<0033> Trop rapide, trop petite... On la perd vite de vue.
+<0034> Poppo !
+<0035> Très bruyante, aussi...
+<0036> Ah oui, j'oubliais ce détail.
+<0037> Bonsoir, tout le monde, et Joyeux Noël !
+<0038> Regarde ! Cette fille est toute\nrouge !
+<0039> Son corps entier est rouge... Elle est sûrement malade.
+<0040> C'est mes vêtements qui sont rouges, enfin !
+<0041> ...Peu importe.
+<0042> J'apporte plein de cadeaux pour les enfants sages !
+<0043> Les enfants sages ?
+<0044> On est trop vieux pour croire à la Mère Noël.
+<0045> Mais enfin, elle est devant vous, la Mère Noël !
+<0046> Poppo voit une ado ridicule qui veut pas grandir.
+<0047> Coup critique, je suis profondément blessée !!
+<0048> Marc !
+<0049> Hein ?
+<0050> Ça fait une demi-heure que je t'attends chez moi ! Pourquoi tu n'y es toujours pas ?
+<0051> Ah oui !
+<0052> Tu as oublié ?
+<0053> Je suis désolée, il s'est passé tellement de choses...
+<0054> Je me faisais un sang d'encre...
+<0055> Vraiment ? Tu t'inquiétais pour\nmoi ?
+<0056> N-non !
+<0057> Hé, vous deux !
+<0058> Arrêtez de vous chamailler, prenez donc des cadeaux !
+<0059> Ça ne te concerne pas !
+<0060> Hmm, une cliente difficile, je sais précisément quel cadeau je dev-...?
+<0061> Mon sac... Il a disparu ?
+<0062> Des cadeaux pour Poppo.
+<0063> Poppo !
+<0064> Oh non ! Elle m'a volé mon sac !
+<0065> Poppopopo !
+<0066> Tout est bon à prendre, on dirait...
+<0067> Qu'est-ce qu'elle va faire avec des cadeaux et un missile ?
+<0068> Pas de temps à perdre ! Il faut qu'on récupère mon sac !
+<0069> Dans quoi est-ce que vous m'emmenez...?
+<0070> Ravie que tu sois volontaire.
+<0071> Je...
+<0072> On y va !
+<0073> Voilà, enfin !
+<0074> Poppo a perdu.
+<0075> On a réussi, finalement.
+<0076> Mon sac de cadeaux va bien ?
+<0077> Ma foi, je crois qu'il n'y manque rien.
+<0078> Parfait !
+<0079> Poppo...
+<0080> Rends-nous ce que tu nous as volé, maintenant !
+<0081> Pas envie.
+<0082> Mais... c'est pas des manières !
+<0083> Poppo disparaît !
+<0084> Hein !?
+<0085> Elle s'est encore enfuie...
+<0086> Vite ! À ses trousses !
+<0087> Je vous suis !
+<0088> Attendez ! Je viens, moi aussi !
+<0089> C'est le niveau suivant ?
+<0090> Poppo ! Où es-tu ?
+<0091> Poppo est là ! ...Oups !
+<0092> Haha, elle ne peut pas s'empêcher de répondre.
+<0093> Quelle sotte.
+<0094> Vous êtes tous méchants !
+<0095> Cette fois, tu n'iras pas plus loin !
+<0096> Poh !
+<0097> Regarde... Une étrange créature.
+<0098> Étrange, en effet.
+<0099> Poppo ! Poppopo !
+<0100> Tu veux... jouer avec nous ?
+<0101> Oui !
+<0102> Elle est pleine d'énergie.
+<0103> Attendez !
+<0104> Voilà beaucoup de gens, tout à coup.
+<0105> Vous deux !\nArrêtez cette fille !
+<0106> Aha, je vois. Vous jouez au chat et à la souris ?
+<0107> Toutafé !
+<0108> Voilà un jeu que l'on connaît bien. Pas vrai, Suguri ?
+<0109> Exact.
+<0110> Décidément, on est pas aidés...
+<0111> Chat et souris ! Poppo !
+<0112> On a gagné !
+<0113> Poh.
+<0114> C'était amusant.
+<0115> Oui.
+<0116> Fini de jouer.
+<0117> Poppo ! Rends-nous nos affaires !
+<0118> Poppo...
+<0119> Tu es prise au piège !
+<0120> ...Po...
+<0121> Encerclez-la !
+<0122> Entendu !
+<0123> Popo... J'ai plus le choix.
+<0124> Le plan de secours de Poppo !
+<0125> Qu'est-ce que...
+<0126> Télépoppo !
+<0127> Q-quoi !?
+<0128> Elle a complètement disparu !
+<0129> Qu'est-ce qu'on peut faire ?
+<0130> Vous jouez à cache-cache, maintenant ?
+<0131> Elle a triché, on a pas le droit de se téléporter !
+<0132> Comment on va faire pour la retrouver...?
+<0133> Vous poursuivez cette fille ?
+<0134> Elle a volé toutes nos affaires.
+<0135> Je vois...
+<0136> Mon missile...
+<0137> Tout... mon argent...
+<0138> Mes cadeaux...
+<0139> Mhm.
+<0140> Comment la retrouver...?
+<0141> J'arrive plus ou moins à sentir où elle se trouve.
+<0142> !?
+<0143> Vraiment ?
+<0144> Oui. Venez, c'est par là.
+<0145> Beau travail, Suguri.
+<0146> Super ! Dépêchons-nous de la rattraper !
+<0147> Par là ?
+<0148> Oui.
+<0149> Poppo, où es-tu !?
+<0150> Poppopo !
+<0151> Voilà Poppo... Euh, qui c'est !?
+<0152> O-hohoho !
+<0153> C'est qui ?
+<0154> Justement, je sais pas.
+<0155> Mais qui es-tu !?
+<0156> Vous vous êtes bien battus jusqu'à présent !
+<0157> Mais c'était futile ! Votre quête prend fin, ici, et maintenant !
+<0158> C'est toi qui as tout manigancé ?
+<0159> Une fille comme elle ? Inconcevable.
+<0160> Pour être derrière tout ça, elle est trop... enfin, voilà.
+<0161> Hé oh ! C'est fini, oui ?
+<0162> Es-tu derrière tout ça ?
+<0163> Non ! Je voulais me faire passer pour le méchant, c'est tout !
+<0164> C'est rigolo de se faire passer pour le méchant...
+<0165> Ah-hah, les grands esprits se rencontrent ! On devrait\ns'associer !
+<0166> Poppo !
+<0167> O-hohoho, si vous tenez tant que ça à sauver le monde...
+<0168> Vous devrez d'abord vaincre Poppo et son chien stupide !
+<0169> C-chien... stupide...?
+<0170> On est pas là pour s'amuser.
+<0171> Mais tant que Poppo est occupée à jouer,
+<0172> ...on peut en profiter pour\nl'attraper ?
+<0173> Tout à fait !
+<0174> Qu'est-ce que vous complotez ?\nC'est moi, le centre de l'action !
+<0175> Non, c'est Poppo.
+<0176> Non, c'est moi.
+<0177> Yu... Yu-Yu... Yuki !?
+<0178> Celui qui gagne est le méchant cerveau de l'affaire !
+<0179> Le plus fort domine le monde ? Oui, c'est exactement ça !
+<0180> C'est parti !
+<0181> J'ai réussi !
+<0182> Poppopopo.
+<0183> Le grand méchant manipulateur... c'est Marc...?
+<0184> Je... hein ? Moi ?
+<0185> Hé, on a pas le temps de s'occuper de ces bêtises !
+<0186> Oui ! Attrapez Poppo !!
+<0187> Je m'en cha... hm ?
+<0188> Poppo.
+<0189> Poppopopo.
+<0190> Il y a... deux Poppos ?
+<0191> Qu'est-ce que c'est que cette\nhistoire !?
+<0192> Poppopoppo !
+<0193> Poppoppo !
+<0194> O-on doit les attraper,\ntoutes les deux !
+<0195> Allons-y.
+<0196> Ça a l'air rigolo. Je vous suis !
+<0197> Il fait sombre, par ici...
+<0198> Poppo !
+<0199> Poppopopo !
+<0200> Elles sont insupportables !
+<0201> Attrapons-les avant qu'il y ait encore plus de Poppos !
+<0202> Oui.
+<0203> J'aimerais bien voir combien il y aura de Poppos à la fin.
+<0204> ...
+<0205> Seigneur...
+<0206> Il y a tellement de monde...
+<0207> Poppopo !
+<0208> Si je veux jouer avec vous ?
+<0209> Poppopopo !
+<0210> Oui, je peux vous rejoindre si vous y tenez.
+<0211> Ça a l'air amusant...
+<0212> Poppopo !
+<0213> On est pas venus pour jouer...
+<0214> Les deux Poppos sont concentrées sur cette fille... C'est l'occasion de récupérer nos affaires.
+<0215> Bonne idée.
+<0216> Je vais faire de mon mieux !
+<0217> On a réussi !
+<0218> Poo.
+<0219> Popoo.
+<0220> C'était rigolo.
+<0221> Parfait ! C'est le moment d'agir !
+<0222> Po !?
+<0223> Popopo !?
+<0224> Et hop !
+<0225> On les tient enfin !
+<0226> Hmm, pas vraiment.
+<0227> Hein...!?
+<0228> Non, me dites pas que...
+<0229> Il y a encore d'autres Poppos !?
+<0230> Et zut... On n'en finira jamais de les poursuivre.
+<0231> Poppoppo... Suivez Poppo !
+<0232> Hein ?
+<0233> Qu'est-ce qu'elle veut...?
+<0234> Où sommes-nous ?
+<0235> Cet endroit me donne la nausée.
+<0236> Pareil... J'ai envie de vomir.
+<0237> Cet endroit est vraiment instable...
+<0238> Un monde bizarre.
+<0239> Soyez la bienvenue !
+<0240> Poppo !
+<0241> Poppoppo.
+<0242> Poppo les a ramenés, madame.
+<0243> Hohoho... Bravo, Poppo.
+<0244> Est-ce...
+<0245> Tada ! Tomomo est là !
+<0246> Qui !?
+<0247> Je suis la personne derrière toute cette histoire...\nEt votre mère à tous !
+<0248> Cette... histoire ?
+<0249> De quoi elle parle ?
+<0250> Aucune idée.
+<0251> Comment ça, derrière l'histoire ?
+<0252> Elle est complètement mégalo !
+<0253> Vous avez perdu vos affaires, oui ou non !? J'ai tout organisé !
+<0254> Ainsi, vous êtes... chef d'un\ngang !?
+<0255> Pas de pitié pour les racailles !
+<0256> On va jamais laisser passer ça !
+<0257> La justice me guide vers le\ncombat !
+<0258> Le crime ne paie pas !
+<0259> C'est le précipice de la conviction.
+<0260> QP, ça ne veut rien dire !
+<0261> Écoutez-moi, plutôt ! Puisque vous m'avez ignorée, je vais devoir me répéter !
+<0262> C'est moi qui ai créé ce monde, et vous aussi !
+<0263> Je me suis servie de mondes alternatifs comme modèle.
+<0264> Ainsi, je peux devenir le dernier boss de l'histoire ! Et tous les regards sont dirigés vers moi !
+<0265> C'est tout ! Compris ?
+<0266> On avait rien demandé...
+<0267> Elle est pas bien dans sa tête.
+<0268> Complètement folle.
+<0269> Pauvre dame.
+<0270> Elle devrait mourir.
+<0271> QP, tu es horrible !
+<0272> Si vous vous en fichez à ce point...
+<0273> Je vais vous empêcher de finir\nle jeu !
+<0274> Vous allez comprendre à quel point je suis terrifiante !
+<0275> Et voilà.
+<0276> J'ai... perdu.
+<0277> Et voilà nos affaires !
+<0278> L'histoire est finie ?
+<0279> Oui.
+<0280> C'était rigolo !
+<0281> Je refuse d'y croire... Quelle ingratitude...
+<0282> Hé !
+<0283> Si vous voulez jouer avec nous, vous avez qu'à nous appeler !
+<0284> Vraiment ?
+<0285> Mais oui !
+<0286> Très bien, c'est promis ! On est tous amis, d'accord !?
+<0287> E-euh, oui !
+<0288> Elle a l'air vraiment désespérée...
+<0289> Je suis un peu triste pour elle.
+<0290> ...
+<0291> Elle a perdu tout son charisme de dernier boss.
+<0292> Silence !
+<0293> On est tous amis, maintenant ! Compris ?
+<0294> Et quand je vous appelle, vous venez tous ! Pas le choix !
+<0295> Je sais pas quoi dire...

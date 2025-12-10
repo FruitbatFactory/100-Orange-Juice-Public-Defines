@@ -165,6 +165,12 @@ Invasor
 < MENU_LOBBYSETTING_PVPBOUNTIES >
 Caça de Jogadores
 
+< MENU_LOBBYSETTING_TAGCOOLDOWN >
+Tag Cooldown
+
+< MENU_LOBBYSETTING_PARTNERREGENDELAY >
+Atraso de Regenração de Parceiro
+
 < MENU_BUTTON_GAME_RETURN >
 RETORNAR
 
@@ -253,6 +259,15 @@ Escape!
 
 < MENU_BUTTON_GAME_TAG >
 TAG
+
+< MENU_BUTTON_GAME_REINFORCE >
+REFORÇAR
+
+< MENU_BUTTON_GAME_INTERCEPT >
+INTERCEPTAR
+
+< MENU_BUTTON_GAME_BOLSTER >
+APRIMORAR
 
 < MENU_BUTTON_GAME_BOUNTY >
 RECOMPENSA
@@ -843,7 +858,7 @@ Presente do Aniversário de 10 Anos na Steam!\nVocê pode trocar a carta de volt
 Vamos aproveitar o treinamento do Mio e aprender a nadar! Um novo chefe do modo cooperativo, o Técnico de Natação, está agora disponível!
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_01 >
-Todo o dano que você causa no Técnico de Natação avança o evento para todo mundo.
+Todo o dano que você causa em {} avança o evento para todo mundo.
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_02 >
 Você também pode lutar qualquer outro chefe do modo de cooperação para contribuir ao evento numa taxa de 50%.
@@ -1032,6 +1047,63 @@ Efeitos que são aplicados a si mesmo após se recuperar de nocaute ainda irão 
 < PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_12 >
 Planeje seu melhor time de tag e se torne no campeão local de 100% Orange Juice!
 
+< PLAYMENU_EVENT_SUMMER2025_INSTRUCTION_MAIN >
+Star Breaker, Tomato e Mimyuu estão causando um caos na praia! Um novo chefe de modo cooperativo, Encrenqueiras, está agora disponível!
+
+< PLAYMENU_EVENT_SUMMER2025_INSTRUCTION_COMPLETE >
+Parabéns! Após um dia de batalhas, as Encrenqueiras foram distraídas e o mundo está salvo!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_MAIN >
+O Clube 100% OJ está em perigo antes de ser formado! Prove-se capaz para a Popomi jogando o jogo!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_01 >
+Durante este evento, jogadores poderão jogar um modo de jogo especial: Time Tag!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_02 >
+Você consegue 3 Pontos de Movimento para progredir o evento ao jogar o primeiro jogo do dia, e outros 3 Pontos de Movimento ao jogar o primeiro jogo de Time Tag do dia.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_03 >
+Continue jogando para ganhar outros 2 Pontos de Movimento por jogo de Time Tag, ou um ponto por um jogo em outro modo de jogo.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_04 >
+Painéis Laranjas no mapa do evento dão Laranjas, painéis de Estrela dão estrelas, painéis Cosméticos verdes possuem uma chance de destravar um cosmético aleatório, e os painéis de Coroa dão um cosmético do evento!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_05 >
+Faça um Loop uma vez ao redor do mapa do evento para completar o evento, e então continue jogando para mais recompensas ainda!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_06 >
+Em Time Tag, você poderá escolher um personagem adicional como Parceiro para te acompanhar em jogos.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_07 >
+Você pode escolher fazer Tag no seu turno para trocar de lugar entre os personagens que você selecionou. O personagem Líder vai então trocar de lugar com seu Parceiro!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_08 >
+Ao fazer Tag, você não será capaz de fazer de novo durante um número fixo de capítulos, dependendo da configuração do lobby. Decida com cuidado antes de fazer!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_09 >
+Se o Líder acabar sendo nocauteado, ele será forçado a dar Tag se seu Parceiro não estiver nocauteado também. Isso colocará a ação de Tag em cooldown, então tome cuidado!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_10 >
+Seu Parceiro irá recuperar HP automaticamente após uma certa quantidade de capítulos. Se ele for nocauteado, ele irá recuperar após a quantidade de turnos equivalente ao atributo de REC dele passar.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_11 >
+Passar o mouse no retrato do seu Parceiro vai mostrar quando será sua próxima recuperação.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_12 >
+Qualquer efeito de carta que seu Parceiro tiver no momento não terá sua duração diminuída.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_13 >
+Se seu Parceiro tiver qualquer efeito de unidade que afetaria o jogo, seus efeitos NÃO estarão ativos até que ele retorne em campo.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_14 >
+Efeitos que aplicam a si mesmo após recuperar de nocaute ainda serão aplicados ao seu parceiro quando a recuperação do nocaute ocorrer.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_15 >
+Monte o time supremo e prove que você é capaz de começar um Clube 100% OJ!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_COMPLETE >
+Parabéns! O Clube 100% OJ foi formado! Aproveite sua juventude jogando junto com amigos para ainda mais recompensas!
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 Próxima meta:
 
@@ -1096,6 +1168,9 @@ Vingador
 
 < MENU_COOPCLASS_DEALER >
 Negociante
+
+< MENU_COOPCLASS_VANGUARD >
+Vanguarda
 
 < MENU_COOPUNLOCK_LEVEL >
 Nível %d: %s
@@ -1291,6 +1366,9 @@ Comiseração
 
 < MENU_CODEXSTORY_TITLE_CONCIERGE >
 Assistente
+
+< MENU_CODEXSTORY_TITLE_ALTENICO >
+Tesouros Sob o Céu Noturno
 
 < MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
 Jogue {0} partidas como {1}.

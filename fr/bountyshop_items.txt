@@ -1,0 +1,190 @@
+< ITEM_UNKNOWN >
+name=???
+descr=
+
+// Tavern
+< ITEM_HEAL_LV1 >
+name=Tasse de Café
+descr=Soigne 2 PV.
+
+< ITEM_HEAL_LV2 >
+name=Limonade
+descr=Soigne 4 PV.
+
+< ITEM_HEAL_LV3 >
+name=Élixir
+descr=À utiliser depuis l'inventaire pour soigner entièrement. Guérit du statut infligé par l'Envahisseur et enlève les malédictions sur les contrats.
+
+< ITEM_OVERHEAL_LV1 >
+name=Boisson Énergisante
+descr=Soigne 2 PV, puis confère 1 PV.
+
+< ITEM_OVERHEAL_LV2 >
+name=Café au Pudding
+descr=Soigne 2 PV, puis confère 2 PV.
+
+< ITEM_OVERHEAL_LV3 >
+name=Île Flottante Gueules-Azur
+descr=Soigne 4 PV, puis confère 3 PV.
+
+< ITEM_HEALTHSHOT >
+name=Tonique Sucré
+descr=Augmente vos PV Max de 1. Ne peut être acheté qu'une fois.
+
+< ITEM_INVULNERABILITY >
+name=Remède aux Herbes
+descr=Durée de l'Effet : 1 chapitre.\nVous devenez invulnérable.
+
+// Bakery
+< ITEM_ATK_BOOST_LV1 >
+name=Cookie
+descr=À utiliser depuis l'inventaire pour gagner +1 ATK aux 2 prochains combats. Ne peut pas se cumuler.
+
+< ITEM_ATK_BOOST_LV2 >
+name=Muffin
+descr=À utiliser depuis l'inventaire pour gagner +2 ATK aux 2 prochains combats. Ne peut pas se cumuler.
+
+< ITEM_ATK_BOOST_LV3 >
+name=Patisserie
+descr=À utiliser depuis l'inventaire pour gagner +3 ATK aux 2 prochains combats. Ne peut pas se cumuler.
+
+< ITEM_DEF_BOOST_LV1 >
+name=Bonbon
+descr=À utiliser depuis l'inventaire pour gagner +1 DEF aux 2 prochains combats. Ne peut pas se cumuler.
+
+< ITEM_DEF_BOOST_LV2 >
+name=Caramel
+descr=À utiliser depuis l'inventaire pour gagner +2 DEF aux 2 prochains combats. Ne peut pas se cumuler.
+
+< ITEM_DEF_BOOST_LV3 >
+name=Chocolat
+descr=À utiliser depuis l'inventaire pour gagner +3 DEF aux 2 prochains combats. Ne peut pas se cumuler.
+
+< ITEM_EVA_BOOST_LV1 >
+name=Glace
+descr=À utiliser depuis l'inventaire pour gagner +1 EVD aux 2 prochains combats. Ne peut pas se cumuler.
+
+< ITEM_EVA_BOOST_LV2 >
+name=Sorbet
+descr=À utiliser depuis l'inventaire pour gagner +2 EVD aux 2 prochains combats. Ne peut pas se cumuler.
+
+< ITEM_EVA_BOOST_LV3 >
+name=Cornet de Glace
+descr=À utiliser depuis l'inventaire pour gagner +3 EVD aux 2 prochains combats. Ne peut pas se cumuler.
+
+< ITEM_ACCELCANDY >
+name=Bonbon Hyper Accel
+descr=Durée de l'Effet : 1 chapitre. +1 dé à tous vos jets.
+
+< ITEM_COTTONSPONGE >
+name=Spongecake Douveteux
+descr=Durée de l'Effet : 1 chapitre. Toutes vos cartes peuvent être jouées gratuitement et indépendamment du niveau.
+
+< ITEM_PUDDING >
+name=Pudding
+descr=(Effet Passif) Si vous tombez KO en combat, vous récupérez aussitôt 3 PV et le combat continue.
+
+< ITEM_MELONPAN >
+name=Pain Melon
+descr=-1 ATK, +1 DEF et +1 EVD permanents. Ne peut être acheté qu'une fois.
+
+< ITEM_REDBEANCREAM >
+name=Glace aux Haricots Rouges
+descr=(Effet Passif) +1 ATK. L'effet disparaît lorsque vous tombez KO. Ne peut pas se cumuler.
+
+// Armory
+< ITEM_WOODENSHIELD >
+name=Bouclier en Bois
+descr=Un bouclier réduisant les dégâts de 1. Disparaît après 2 coups.
+
+< ITEM_IRONSHIELD >
+name=Bouclier en Fer
+descr=Un bouclier réduisant les dégâts de 1. Disparaît après 4 coups.
+
+< ITEM_MITHRILSHIELD >
+name=Bouclier en Mithril
+descr=Un bouclier réduisant les dégâts de 2. Disparaît après 4 coups.
+
+< ITEM_ZAPPERSWORD >
+name=Épée Enchantée
+descr=+1 ATK et -1 DEF permanents. Ne peut être achetée qu'une fois.
+
+< ITEM_SMOKEBOMB >
+name=Bombe Fumigène
+descr=(Effet Passif) À votre prochain combat, l'ennemi perd 1 en ATK, DEF et EVD.
+
+< ITEM_PRECISIONGOGGLES >
+name=Lunettes de Visée
+descr=Les objets jetables peuvent être jetés 2 cases plus loin. Ne peut être acheté qu'une fois.
+
+< ITEM_MERCENARY >
+name=Mercenaire
+descr=Invoque un Mercenaire qui affronte tous les personnages (sauf invocateur) en les croisant. En cas de KO face au mercenaire, les étoiles sont partagées (50/50) entre l'invocateur et le mercenaire.
+
+< ITEM_PHILOSOPHERSTONE >
+name=Pierre Philosophale
+descr=Vous gagnez +4 étoiles bonus à chaque chapitre, et encore +1 tous les 5 chapitres. Ne peut être acheté qu'une fois, au prix de toutes vos étoiles (min. 120).
+
+< ITEM_REC_BOOST_LV1 >
+name=Potion de Vigueur
+descr=Réduit votre REC de 1 à votre prochain KO. Ne se combine pas aux autres effets affectant la REC (le plus puissant prend la priorité).
+
+< ITEM_REC_BOOST_LV2 >
+name=Potion de Vitalité
+descr=Réduit votre REC de 2 à votre prochain KO. Ne se combine pas aux autres effets affectant la REC (le plus puissant prend la priorité).
+
+< ITEM_REC_BOOST_LV3 >
+name=Essence du Phénix
+descr=Réduit votre REC de 3 à votre prochain KO. Ne se combine pas aux autres effets affectant la REC (le plus puissant prend la priorité).
+
+< ITEM_ANTITIRED >
+name=Énergisant
+descr=-1 REC permanent. Ne peut être acheté qu'une fois.
+
+< ITEM_GUARDIAN >
+name=Gardien
+descr=Invoque un Gardien sur le plateau qui tentera d'accomplir vos contrats actuels. Ne peut pas défier les autres joueurs.\nNiveau : Votre niveau au moment de l'invocation\nÉtoiles : Coût d'invocation
+
+< ITEM_FAE >
+name=Aurore
+descr=Invoque Aurore sur le plateau. Elle vous soigne 1 PV à chaque chapitre pair. Si vous êtes KO, elle vous relève avec la moitié de vos PV à la place. Ne peut pas défier les joueurs.
+
+< ITEM_LEATHERBOOTS >
+name=Bottes de Cuir
+descr=+2 MOV. La dernière confection des tanneurs, beaucoup plus confortable et pratique que les sandales et autres souliers bas de gamme.
+
+< ITEM_GALESHOES >
+name=Tennis du Vent
+descr=+2 MOV (+1 bonus si vous avez deux contrats ou moins). Pourvues d'une magie puissante. Vous ne vous fatiguerez jamais avec ces chaussures aux pieds.
+
+< ITEM_SPIKEDSHIELD >
+name=Boucliépines
+descr=Un bouclier réduisant les dégâts de 1. Si votre résultat de défense est supérieur à l'attaque de l'adversaire, lui inflige la moitié de son attaque. Disparaît après ce combat.
+
+< ITEM_BATTLEAXE >
+name=Hache de Bourreau
+descr=+1 ATK et -1 EVD permanents. Ne peut être achetée qu'une fois.
+
+< ITEM_BLACKMARKET_CURSEDSWORD >
+name=Épée Maudite
+descr=+2 ATK, -1 DEF, -1 EVD, -1 PV Max permanents..
+
+< ITEM_BLACKMARKET_CURSEDAXE >
+name=Hache Maudite
+descr=Vos attaques ont 20% de chance d'être des coups critiques, et 10% de chance de ne pas toucher l'adversaire.
+
+< ITEM_BLACKMARKET_CURSEDBOUNTY >
+name=Prime Maudite
+descr=Votre prochaine prime rapporte +2 Gloire, suite à quoi vos PV max (et PV actuels) sont réduits à 1. L'effet disparaît en tombant KO.
+
+< ITEM_BLACKMARKET_CURSEDICECREAM >
+name=Glace aux Haricots Violets
+descr=+2 ATK et -3 PV Max (min. 1) jusqu'à ce que vous tombiez KO.
+
+< ITEM_BLACKMARKET_CURSEDSHOES >
+name=Tennis de Bourrasque
+descr=+4 MOV. Vous ne pouvez prendre qu'un contrat à la fois.
+
+< ITEM_BLACKMARKET_CURSEDSUMMON >
+name=Maître Invocateur
+descr=Invoque un Envahisseur ou un Familier avec 12 PV. Ne peut invoquer d'Envahisseur s'il y en a déjà un.

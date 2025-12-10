@@ -1,0 +1,144 @@
+<0000> Vas-y !
+<0001> Yah !
+<0002> Hop !
+<0003> Go !
+<0004> Je choisis celle-là !
+<0005> Pouvoir des cartes !
+<0006> C'est mon atout !
+<0007> J'invoque un pouvoir mystérieux.
+<0008> Ça, ça va là.
+<0009> Venez voir par ici !
+<0010> Toi, tu restes là !
+<0011> Ça peut aider.
+<0012> Du nouvel équipement !
+<0013> Tu vas voir ce que tu vas voir !
+<0014> C'est fini pour toi !
+<0015> Cette carte !
+<0016> Prêt à partir ! FEU !
+<0017> Je peux encore y arriver !
+<0018> Je rallume le moteur !
+<0019> Je retourne au combat !
+<0020> Réparations terminées !
+<0021> Faut que je m'accroche...
+<0022> Impossible de bouger...
+<0023> Le moteur refuse de tourner...
+<0024> Je n'y arrive pas...
+<0025> Prends ça !
+<0026> Je tire !
+<0027> Tiens !
+<0028> Feu !
+<0029> Aïe !
+<0030> Je subis des dégâts !
+<0031> Je suis touchée !
+<0032> Je me fais attaquer !
+<0033> Réparations achevées !
+<0034> Comme neuf !
+<0035> Ça va mieux !
+<0036> Juste à temps...
+<0037> Mon avion ne m'obéit plus !
+<0038> Je ne contrôle plus rien !
+<0039> O-o-oh noooon...
+<0040> Où est-ce que ça mène ?
+<0041> Désolée, Red Barrel...
+<0042> Je m'écrase !
+<0043> Je n'y arrive plus !
+<0044> Je suis abattue !
+<0045> Plus un geste !
+<0046> Je vais t'abattre !
+<0047> Relève mon défi !
+<0048> Cible interceptée !
+<0049> Des turbulences !
+<0050> Prête à intercepter !
+<0051> Si c'est ce que tu veux !
+<0052> Je suis poursuivie !!
+<0053> Tir de barrage !
+<0054> Cible facile !
+<0055> Prends ça !
+<0056> Feu !
+<0057> Aïe !
+<0058> Kyaaah !
+<0059> Je suis touchée !
+<0060> Ouille !
+<0061> Je l'ai senti passer...
+<0062> Ça fait mal !
+<0063> Dégâts critiques !
+<0064> Arrgh !
+<0065> Esquive sur le côté !
+<0066> Je tourne !
+<0067> Attaque repoussée !
+<0068> Je l'ai vu arriver !
+<0069> J'ai gagné !
+<0070> Je suis la meilleure !
+<0071> En plein dans le mille !
+<0072> Cible abattue !
+<0073> J'ai échoué...
+<0074> J'ai perdu...
+<0075> On m'a vaincue...
+<0076> Trop puissant...
+<0077> C'est un bonus !
+<0078> C'est pour moi !
+<0079> Les étoiles viennent à moi !
+<0080> Voilà tout plein d'étoiles !
+<0081> Oh non !
+<0082> Mes étoiles...!
+<0083> Mes étoiles s'échappent !
+<0084> Non, attendez !
+<0085> Ouaaah !
+<0086> Qu'est-ce que c'est que ça ?
+<0087> J'ai fait une erreur !
+<0088> On m'a piégée ?!
+<0089> Ouah, il est tellement grand !
+<0090> Un nouvel adversaire ?!
+<0091> En voilà un gros !
+<0092> Moi ? Combattre cette chose...?
+<0093> Je décrocherai toutes les étoiles !
+<0094> Je pars chercher les étoiles !
+<0095> J'espère en trouver plein.
+<0096> Quoi, il en faut encore d'autres ?
+<0097> Je vais les canarder !
+<0098> Je vais tous les abattre !
+<0099> Ils verront ce que je sais faire !
+<0100> Ils ne m'échapperont pas !
+<0101> Je vais faire de mon mieux !
+<0102> En attente d'instructions !
+<0103> Prête à décoller !
+<0104> À nous de jouer, Red Barrel.
+<0105> En route, Red Barrel !
+<0106> Faisons de notre mieux, Red Barrel !
+<0107> Décollage !
+<0108> Red Barrel paré au décollage !
+<0109> Youpi ! Je veux gagner la prochaine aussi !
+<0110> On va enchaîner les victoires, Red Barrel !
+<0111> On a gagné, Red Barrel !
+<0112> Du beau travail !
+<0113> Ouais !
+<0114> Du nouvel équipement !
+<0115> Qu'est-ce que c'est ?
+<0116> C'est bon à prendre !
+<0117> Bon courage !
+<0118> On échange !
+<0119> Je te passe le relai !
+<0120> J'ai confiance en toi !
+<0121> Ok.
+<0122> C'est pas passé loin !
+<0123> Oui.
+<0124> Oups.
+<0125> Mauvaise nouvelle.
+<0126> C'est un miracle !
+<0127> Ah, euh...
+<0128> On y va, Red Barrel !
+<0129> Donne-moi un bon chiffre !
+<0130> Allons-y !
+<0131> Bonjour !
+<0132> Hmm...
+<0133> Génial !
+<0134> Parfait !
+<0135> Oh non...
+<0136> Je suis désolée, Monsieur la Mouette !
+<0137> Qu'est-ce que tu as encore fait à Blue Crow ?
+<0138> Tu méritais une correction !
+<0139> Le château volant est encore en vol ?!
+<0140> J'en ai trop fait !
+<0141> Je t'avais bien dit de ne pas m'arrêter !
+<0142> Me voilà !
+<0143> Un... pervers volant ?

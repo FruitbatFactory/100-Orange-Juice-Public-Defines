@@ -1,0 +1,162 @@
+// CampaignScenario_CodexStory_AlteNico
+// (alte)
+<0000> I'm going to get going. It's getting late.
+// (tsih)
+<0001> Nfufu. Sure you're not just trying to skip out on Sherry's plane stories again?
+// (alte)
+<0002> That's... not necessarily the case.
+// (tsih)
+<0003> Once she's had a drink or two, she'll go on forever once she gets on that topic.
+// (kyoko)
+<0004> *Sigh*... And you're always the one who gets her on that topic.
+// (tsih)
+<0005> Nfufu. Guilty as charged. She has fun, and it's funny watching you two squirm.
+// (kyoko)
+<0006> They're fine stories, but I've heard all of them by now.
+// (tsih)
+<0007> Hey, Sherry! Tell us about that one time you were flying and the engine dropped straight out of the bottom of the plane!
+// (sherry)
+<0008> Oh, that old story? Well, my old pops and I were in the workshop...
+// (kyoko)
+<0009> *Sigh*... Alte, I'll hold the line. Escape while you can.
+// (alte)
+<0010> Understood. I'll buy you a drink next time.
+// (alte)
+<0011> Ah... It's cold. Even my breath is fogging up. I suppose it's that time of year.
+// (alte)
+<0012> Hm? Is that a child? At this time of night?
+// (nico)
+<0013> Ahhh! Santa, why do you have to leave everything till the last minute every time?!
+// (alte)
+<0014> Excuse me. Are you okay? Where are your parents?
+// (nico)
+<0015> Whoa! Stranger danger! Stranger danger!
+// (alte)
+<0016> I'm not here to hurt you. But... I can't leave a child by themselves on such a cold night.
+// (nico)
+<0017> Nico may be a child, but she's plenty responsible! Actually, Nico's at work right now!
+// (alte)
+<0018> You've been sent out to work? At your age? Even during times of war, that kind of thing is unacceptable.
+// (nico)
+<0019> Um, your aura just got really scary...
+// (alte)
+<0020> Sorry. I'd just like to speak to your parents. Immediately.
+// (nico)
+<0021> Ah, geez! Nico doesn't have time for this right now! If she doesn't hurry up, Christmas is going to be ruined!
+// (alte)
+<0022> Christmas?
+// (nico)
+<0023> That dummy Santa had another last minute emergency... If Nico doesn't help shore up her toy supply, children all around the world will end up without presents this year!
+// (alte)
+<0024> (Is this... some kind of make-believe game she's playing? But even so, she's still alone this late at night...)
+// (alte)
+<0025> ...I suppose there's nothing else for it. I'll help.
+// (nico)
+<0026> Wait, really?
+// (alte)
+<0027> The sooner your errand is done, the sooner we can get you back home safe. I'd be a failure of an adult if I left you alone.
+// (nico)
+<0028> Hmm.... Well, Nico did need a little muscle... Okie! Nico hereby deputizes you as one of Santa's Helper's Helpers!
+// (alte)
+<0029> ...Right. What's our objective?
+// (nico)
+<0030> First, we need to go to the All-Night Toy Shoppe.
+// (alte)
+<0031> (All-Night Toy Shoppe? Does that actually exist?)
+// (nico)
+<0032> When we get there, we need to pick up fifty Cuddle-Me-Lulus, sixty units of Miu's Bass Fishing, and a full case of Teotoratamogochis!
+// (alte)
+<0033> What? That's a huge amount. Do you have money for all that?
+// (nico)
+<0034> Nico's got plenty! Since she's on Christmas business, she's got a portion of Santa's budget.
+// (alte)
+<0035> If you're sure... Let's go, then.
+// (nico)
+<0036> All right!
+// (alte)
+<0037> Nico, wait!
+// (nico)
+<0038> Huhwha?
+// (alte)
+<0039> You almost walked right out into the middle of the road... It's not safe. Hold my hand while you cross.
+// (nico)
+<0040> Nico can cross the road just fine by herself! She's already twelve, you know. But fine! If it'll make you happy.
+// (alte)
+<0041> You're twelve...? You look younger than that.
+// (nico)
+<0042> Grr! It's a big problem! Nobody treats Nico seriously!
+// (alte)
+<0043> Well... you'll be happy for it when you're my age.
+// (nico)
+<0044> How old are you, lady?
+// (alte)
+<0045> Old enough.
+// (nico)
+<0046> Hmm... Ahh! Time's already ticking away. Here, grab Nico's hand and let's move out!
+// (alte)
+<0047> Right. ...Oh.
+// (nico)
+<0048> What's the matter now, lady?
+// (alte)
+<0049> ...It's nothing. Let's hurry.
+// (nico)
+<0050> Now you're speaking Nico's language!
+// (nico)
+<0051> Okay! We got everything on the list, and Nico checked it twice! Great work, lady!
+// (alte)
+<0052> I wasn't expecting you to jump on the counter and start haggling the price down.
+// (nico)
+<0053> Well, Nico's family works in the toy industry, after all. Nico's more impressed that you can carry all that stuff by yourself.
+// (alte)
+<0054> Don't underestimate a career soldier when it comes to lugging equipment around.
+// (nico)
+<0055> Wow, you make it sound so cool, too.
+// (alte)
+<0056> Still... this is a lot for one little girl. What were you planning to do if I didn't come along?
+// (nico)
+<0057> N-Nico would have made it work somehow...
+// (alte)
+<0058> I see. Nico, may I ask you something?
+// (nico)
+<0059> Sure.
+// (alte)
+<0060> Why are you doing this? It seems like an awful lot of work for somebody your age.
+// (nico)
+<0061> Hmm... Well, at first, Nico was just doing it to pay back her debt to society.
+// (alte)
+<0062> Debt to society? You're twelve.
+// (nico)
+<0063> But nowadays... Nico just likes it when Santa pats her on the head and says she's a good girl. Don't tell anybody that, though! Promise!
+// (alte)
+<0064> ...I see. I promise.
+// (nico)
+<0065> And... well. Santa exists for the sake of children. One day, Nico's going to grow up, and her relationship with Santa will change.
+// (alte)
+<0066> ...
+// (nico)
+<0067> Nico's sure we'll stay close, but... It's better to make the most of our time right now!
+// (alte)
+<0068> ...Indeed. Nico, I may not be Santa, but I think you're a good kid.
+// (nico)
+<0069> Fweee! Nico thinks you're a great adult, too. Way cooler than certain bunnies who leave everything to the last minute.
+// (alte)
+<0070> Well. Just because I'm an adult, it doesn't mean I have all the answers. We struggle, too.
+// (nico)
+<0071> Really?
+// (alte)
+<0072> Of course. ...Are you sure it's okay to leave the toys here?
+// (nico)
+<0073> Sure! Santa's going to airlift them out of here. Nico's house is just over there, too.
+// (alte)
+<0074> Understood. Well, this is goodbye, then. It was nice meeting you, Nico.
+// (nico)
+<0075> Thanks for all your help, lady! You were a great minio- Nico means, helper!
+// (alte)
+<0076> My name is Alte. Stay safe, Nico. Be good.
+// (alte)
+<0077> (What a strange girl. She was such a hard worker, and she had so much energy... and her hands were so small.)
+// (alte)
+<0078> (She smiled a lot, too... If he and I had been blessed with a child, I wonder if they would have turned out like her.)
+// (alte)
+<0079> Kids... sure are something special. I ended up doing extra work, but... I'm happy. At least I'll have a story to tell Tsih and the others when we next meet up.
+

@@ -1,0 +1,119 @@
+< MUTATOR_RANDOM >
+name=Aléatoire
+descr=Déclenche une Mutation Chaotique au hasard.
+
+< MUTATOR_HYPER_DECK >
+name=Hyper Deck
+descr=Toutes les cartes du deck deviennent des Cartes Hyper prédéfinies.
+
+< MUTATOR_RANDOM_GENERATION >
+name=Mélange de Cases
+descr=Toutes les cases autres que Maison et Portail prennent un effet aléatoire à chaque chapitre.
+
+< MUTATOR_POPPOMANIA >
+name=Poppossession Ultime
+descr=Transforme toutes les Cartes Hyper en "Nous Sommes Partout".
+
+< MUTATOR_NEMESIS_DRAFT >
+name=Usurpation
+descr=En début de partie, tous les joueurs échangent de personnages.
+
+< MUTATOR_ULTIMATE_JOKER >
+name=Joker Ultime
+descr=Toutes les cartes sont considérées comme étant gratuites et de niveau 1.
+
+< MUTATOR_UNSTABLE_SELECTION >
+name=Sélection Instable
+descr=Les personnages choisis sont remplacés par des personnages aléatoires.
+
+< MUTATOR_MIXED_JUICE >
+name=100% Mixed Juice!
+descr=Chaque personnage obtient des statistiques aléatoires en début de partie. Les Cartes Hyper piochées sont aléatoires.
+
+< MUTATOR_MULTIPLICATION >
+name=Sensation de Multiplication
+descr=Toutes les statistiques et durées d'Effet sont doublées.
+
+< MUTATOR_FAERIZE >
+name=Féérisme
+descr=Tous les joueurs deviennent Aurore. Le personnage que vous avez choisi devient un CPU de votre équipe avec qui vous partagez les étoiles et Quota. Seuls les CPU sont capables de monter en niveau. Guidez vos CPU vers la victoire pour gagner !
+
+< MUTATOR_MAXTENSION >
+name=Maxtension
+descr=Toutes les Cartes Combat sont remplacées par Extension de niveau 1.
+
+< MUTATOR_POPPOFORMATION >
+name=Poppoformation
+descr=Tous les joueurs deviennent Marie Poppo pendant 2 chapitres une fois tous les 2 à 10 chapitres.
+
+< MUTATOR_FORCED_EXCHANGE >
+name=Échange Forcé
+descr=Tous les 5 chapitres, les cartes des joueurs sont redistribuées aléatoirement.
+
+< MUTATOR_BOMBERJAM >
+name=Fête à la Bombe
+descr=Tout le monde peut poser une bombe lors de son tour, qui explose au bout d'un nombre de chapitres indéterminé.
+
+< MUTATOR_DYNAMIS_DICE >
+name=Dés Dynamis
+descr=Vous choisissez le chiffre donné par votre dé. Les chiffres sont à usage unique et se réinitalisent une fois tous utilisés.
+
+< MUTATOR_SHOPAHOLIC >
+name=Addiction au Shopping
+descr=Les Échoppes du mode Chasseurs de Primes apparaissent sur certaines cases avec une sélection d'objets revisitée.
+
+< MUTATOR_KNIGHTS_AND_FAERIES >
+name=Fées & Chevaliers
+descr=Vous pouvez jouer en tant que soit le Gardien, soit Aurore, tous deux avec des statistiques revisitées. Les Cartes Hyper sont aléatoires. Attendez-vous à l'inattendu.
+
+< MUTATOR_FOURHEAVENLYKINGS >
+name=Les Quatre Rois du Ciel
+descr=Vous incarnez un Boss du mode Co-op au lieu des personnages de base.
+
+< MUTATOR_CHAOS_BATTLEFIELD >
+name=Champ de Bataille Chaotique
+descr=Les combats durent 2 tours par défaut. Tous les 10 chapitres, toutes les cases deviennent des Cases-Combat mettant deux joueurs en opposition. Ces combats durent 10 tours. À chaque montée en Niveau, améliorez une statistique de votre choix de +1.
+
+< MUTATOR_HOT_POTATO >
+name=Gremlin en Main
+descr=Un joueur au hasard obtient la Carte Cadeau "Gremlin en Main". La garder peut soit vous donner des étoiles, soit vous exploser à la figure avant de tomber dans la main d'un autre joueur.
+
+< MUTATOR_SHARING_IS_CARING >
+name=Partage Attentionné
+descr=Tous les chapitres, les joueurs donnent leur main au joueur suivant.
+
+< MUTATOR_OVERINDULGENCE >
+name=Sur-indulgence
+descr=Tous les personnages ont 99 PV max et se relèvent instantanément à 1 PV. Remplace toutes les cartes du deck par des cartes Sucreries. Les joueurs sont récompensés par leur nombre de PV, mais ils perdent en vitesse s'ils mangent trop !
+
+< MUTATOR_UNLIKELY_ALLIANCE >
+name=Alliance Inattendue
+descr=Les Quotas sont partagés avec un joueur au hasard qui devient votre allié. Les alliés peuvent se soigner et se relever mutuellement.
+
+< MUTATOR_TRUE_CONVERGENCE >
+name=Convergence Ultime
+descr=Le Plateau se brise une fois tous les 6 chapitres !
+
+< MUTATOR_CARD_MANIA >
+name=Folie des Cartes
+descr=Toutes les cartes que vous ajoutez au deck sont doublées. Le deck comporte 2x plus d'Hypers. Tous les personnages peuvent tenir 5 cartes maximum et jouer autant de cartes qu'ils le souhaitent. Tout le monde pioche une carte à chaque chapitre.
+
+< MUTATOR_BDTT >
+name=Abattez le Tank
+descr=Un joueur au hasard gagne 50 PV, son ATK de base devient 2, et il est immunisé aux cartes pouvant faire tomber KO. Les autres joueurs ont l'effet "Dash !" jusqu'à la fin de la partie. Toutes les cartes sont gratuites et considérées de niveau 1. Si le Tank survit jusqu'au chapitre 30, il remporte la partie. S'il tombe KO, les trois autres joueurs remportent la partie.
+
+< MUTATOR_SINGLE_CREDIT >
+name=À Tour de Rôle
+descr=En tombant KO, vous vous relevez instantanément en tant qu'un nouveau personnage aléatoire.
+
+< MUTATOR_REVERSIBLE_FORTUNE >
+name=Fortune Réversible
+descr=Commencez avec 200 Étoiles et 14 Victoires. Gagnez la partie en perdant vos niveaux de Quota et en ayant le moins d'étoiles et de victoires possible. Le prix des cartes est divisé par deux et ne peut pas dépasser 30 étoiles.
+
+< MUTATOR_TAG_TEAM >
+name=Mode Équipe
+descr=Choisissez deux personnages au lieu d'un seul et devenez le champion local de 100% Orange Juice !
+
+< MUTATOR_ULTIMATE_TAG_TEAM >
+name=Mode Équipe Ultime
+descr=Mode Équipe en plus épicé ! Vous pouvez changer de personnage une fois par chapitre et en début de combat !

@@ -1,0 +1,162 @@
+// CampaignScenario_CodexStory_AlteNico
+// (alte)
+<0000> Eu estou indo. Está ficando tarde.
+// (tsih)
+<0001> Nfufu. Certamente você não está tentando fugir das histórias de avião da Sherry, né?
+// (alte)
+<0002> Esse... não é necessariamente o caso.
+// (tsih)
+<0003> Depois que ela bebe um ou dois litrões, ela não para de falar desse assunto.
+// (kyoko)
+<0004> *Suspira*... E é sempre você que a faz falar desse assunto.
+// (tsih)
+<0005> Nfufu. Culpada. Ela se diverte, e é engraçado ver vocês duas irritadas.
+// (kyoko)
+<0006> São boas histórias, mas a esse ponto eu já ouvi todas elas.
+// (tsih)
+<0007> Ei, Sherry! Conte-nos sobre aquela vez que você estava voando e o motor caiu direto da barriga do avião!
+// (sherry)
+<0008> Oh, essa história antiga? Bem, eu e o meu papai estávamos na oficina...
+// (kyoko)
+<0009> *Suspira*... Alte, eu vou segurá-las. Fuja enquanto pode.
+// (alte)
+<0010> Entendido. Vou te comprar uma bebida da próxima vez.
+// (alte)
+<0011> Ah... Está frio. Está até saindo arzinho da minha boca. Creio que seja aquela época do ano.
+// (alte)
+<0012> Hm? Essa é uma criança? A essa hora da noite?
+// (nico)
+<0013> Ahhh! Mamãe Noel, por que você deixa tudo para o último minuto todas as vezes?!
+// (alte)
+<0014> Com licença. Você está bem? Onde estão os seus pais?
+// (nico)
+<0015> Eita! Perigo de estranhos! Perigo de estranhos!
+// (alte)
+<0016> Eu não estou aqui para te machucar. Mas... Eu não posso deixar uma criança sozinha numa noite fria.
+// (nico)
+<0017> Nico pode ser uma criança, mas ela é bem responsável! Na verdade, Nico está trabalhando agora!
+// (alte)
+<0018> Você foi mandada para trabalhar? Na sua idade? Até em épocas de guerra, isso seria inaceitável.
+// (nico)
+<0019> Um, sua aura ficou bem assustadora...
+// (alte)
+<0020> Desculpa. Apenas quero falar com seus pais. Imediatamente.
+// (nico)
+<0021> Ah, Nossa! Nico não tem tempo para isso agora! Se ela não se apressar, o Natal será arruinado!
+// (alte)
+<0022> Natal?
+// (nico)
+<0023> Aquela besta da Mamãe Noel teve outra emergência de último minuto... Se a Nico não a ajudar a ter mais brinquedos, crianças ao redor do mundo vão acabar sem presentes esse ano!
+// (alte)
+<0024> (Isso é... algum tipo de brincadeira de faz-de-conta? Mas ainda sim, ela ainda está sozinha a essa hora da noite...)
+// (alte)
+<0025> ...Eu imagino que não tem nada além disso. Eu vou ajudar.
+// (nico)
+<0026> Espera, é sério?
+// (alte)
+<0027> Quanto mais cedo você terminar seu trabalho, mais cedo nós podemos te levar pra casa. Eu seria um fracasso como adulta se eu te deixasse sozinha.
+// (nico)
+<0028> Hmm.... Bem, Nico realmente precisa de um pouco de músculo... Certo! Nico então te declaram uma das Ajudantes das Ajudantes da Mamãe Noel!
+// (alte)
+<0029> ...Certo. Qual nosso objetivo?
+// (nico)
+<0030> Primeiro nós temos que ir até a Loja de Brinquedos de Toda a Noite.
+// (alte)
+<0031> (Loja de Brinquedos de Toda a Noite? Isso de fato existe?)
+// (nico)
+<0032> Quando a gente chegar lá, nós precisamos pegar cinquenta Abraça-Lulus, sessenta unidades de Miu's Bass Fishing, e uma caixa inteira Teotoratamogochis!
+// (alte)
+<0033> O quê? Essa é uma quantia enorme. Você tem dinheiro pra tudo isso?
+// (nico)
+<0034> Nico tem bastante! Como ela está no negócio de Natal, ela possui uma porção da grana da Mamãe Noel.
+// (alte)
+<0035> Se você tem certeza... Vamos lá, então.
+// (nico)
+<0036> Certo!
+// (alte)
+<0037> Nico, espera!
+// (nico)
+<0038> Huhwha?
+// (alte)
+<0039> Você quase foi andar no meio da rua... Não é seguro. Segure minha mão enquanto atravessa.
+// (nico)
+<0040> A Nico consegue atravessar a rua sozinha sem problemas! Ela já tem doze anos, sabia? Mas tudo bem! Se isso te fizer feliz.
+// (alte)
+<0041> Você tem doze anos...? Você parece mais nova que isso.
+// (nico)
+<0042> Grr! É um problemão! Ninguém leva a Nico a sério!
+// (alte)
+<0043> Bem... você será grata por isso na minha idade.
+// (nico)
+<0044> Qual sua idade, senhora?
+// (alte)
+<0045> Idade o suficiente.
+// (nico)
+<0046> Hmm... Ahh! O tempo já está andando. Aqui, pega na mão da Nico e vamos lá!
+// (alte)
+<0047> Certo. ...Oh.
+// (nico)
+<0048> Qual o problema agora, senhora?
+// (alte)
+<0049> ...Não é nada. Vamos nos apressar.
+// (nico)
+<0050> Agora você está falando a língua da Nico!
+// (nico)
+<0051> Okay! Nós conseguimos tudo da lista, e a Nico checou duas vezes! Bom trabalho, senhora!
+// (alte)
+<0052> Eu não esperava que você fosse ir no caixa e começasse a pechinchar o preço pra diminuir ele.
+// (nico)
+<0053> Bem, a família de Nico's trabalha na indústria de brinquedos, no fim das contas. Nico está mais impressionada que você consegue carregar tudo isso sozinha.
+// (alte)
+<0054> Não subestime uma soldada de carreira quando o assunto é carregar equipamento.
+// (nico)
+<0055> Wow, você faz parecer legal, também.
+// (alte)
+<0056> Ainda sim... isso é demais para apenas uma garotinha. O que você estava planejando fazer se eu não tivesse aparecido?
+// (nico)
+<0057> N-nico teria dado um jeito...
+// (alte)
+<0058> Entendi. Nico, posso te perguntar algo?
+// (nico)
+<0059> Claro.
+// (alte)
+<0060> Por que você está fazendo isso? Parece muito trabalho para alguém da sua idade.
+// (nico)
+<0061> Hmm... Bem, no começo, Nico estava apenas fazendo isso para pagar de volta sua dívida com a sociedade.
+// (alte)
+<0062> Dívida com a sociedade? Você tem doze anos.
+// (nico)
+<0063> Mas hoje em dia... Nico apenas gosta quando a Mamãe Noel faz carinho na cabeça dela e diz que ela é uma boa garota. Não diga isso a ninguém, entretanto! Prometa!
+// (alte)
+<0064> ...Entendi. Prometo.
+// (nico)
+<0065> E... bem. Mamãe Noel existe para o bem das crianças. Um dia, Nico vai crescer e seu relacionamento com a Mamãe Noel vai mudar.
+// (alte)
+<0066> ...
+// (nico)
+<0067> Nico tem certeza que nós vamos continuar próximas, mas... É melhor aproveitar ao máximo o tempo que temos agora!
+// (alte)
+<0068> ...De fato. Nico, posso não ser a Mamãe Noel, mas eu acredito que você é uma boa garota.
+// (nico)
+<0069> Fweee! Nico acredita que você e uma boa adulta, também. Mais legal que certas coelhas que deixam tudo para o último minuto.
+// (alte)
+<0070> Bem. Só porque eu sou uma adulta, não quer dizer que eu tenho a resposta para tudo. Nós temos dificuldades, também.
+// (nico)
+<0071> Sério?
+// (alte)
+<0072> Claro. ...Você tem certeza que não tem problema deixar os brinquedos aqui?
+// (nico)
+<0073> Claro! Mamãe Noel vai levantar eles daqui. A casa de Nico fica ali, também.
+// (alte)
+<0074> Entendido. Bem, a gente se despede por aqui, então. Foi um prazer te conhecer, Nico.
+// (nico)
+<0075> Obrigada por toda sua ajuda, senhora! Você foi uma ótima capan- Nico quer dizer, ajudante!
+// (alte)
+<0076> Meu nome é Alte. Fique bem, Nico.
+// (alte)
+<0077> (Que garota estranha. Ela trabalha duro, e ela tinha tanta energia... e suas mãos eram tão pequenas.)
+// (alte)
+<0078> (Ela sorria bastante, também... Se ele e eu tivéssemos sido abençoados com uma criança, me pergunto se ela teria sido como ela.)
+// (alte)
+<0079> Crianças... certamente são algo especial. Acabei fazendo trabalho extra, mas... Estou feliz. Ao menos terei uma história para contar para a Tsih e as outras quando a gente se encontrar.
+

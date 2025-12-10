@@ -1,0 +1,161 @@
+<0000> Allons-y...
+<0001> Hm !
+<0002> Hop.
+<0003> Comme ça.
+<0004> Ça devrait marcher.
+<0005> Je choisis celle-ci !
+<0006> Ah là là.
+<0007> Celle-là.
+<0008> Le temps me rend sournois.
+<0009> C'est ça, le bricolage.
+<0010> Je pose ça là, ça va m'aider.
+<0011> Je pose un piège à souris.
+<0012> Je vais me faciliter un peu la vie.
+<0013> Je n'ai pas envie de m'exténuer.
+<0014> Attention, je ne compte pas me retenir.
+<0015> C'est fini pour toi.
+<0016> Un adulte ne devrait pas\nen arriver à de telles extrémités.
+<0017> Je retourne au travail, alors ?
+<0018> Je suis en position défavorable.
+<0019> Je n'en ai pas encore terminé.
+<0020> Pas le temps de se reposer...
+<0021> Je ne suis plus aussi énergique qu'avant.
+<0022> Aïe... c'est pas pour tout de suite...
+<0023> J'ai encore besoin de repos...
+<0024> On ne choisit pas toujours son sort.
+<0025> Faisons ça comme ça.
+<0026> Attention, ça peut piquer.
+<0027> Je n'aime pas les exercices intenses.
+<0028> Allez, j'y vais.
+<0029> Guah !
+<0030> C'est douloureux...
+<0031> Aïe !
+<0032> Hé, oh !
+<0033> Je me sens mieux.
+<0034> C'est vraiment... merveilleux.
+<0035> Beaucoup mieux.
+<0036> Pfiou, merci bien.
+<0037> Hrm.
+<0038> Vers où tu m'emmènes ?
+<0039> Il faut savoir suivre le courant.
+<0040> Je vais avoir le mal de portail.
+<0041> Rah, j'en peux plus...
+<0042> J'ai fait une erreur.
+<0043> C'est comme ça que ça se termine ?
+<0044> Je me suis rouillé avec le temps.
+<0045> Je vais attaquer en premier.
+<0046> Je prends l'initiative, si tu le permets.
+<0047> À moi de commencer.
+<0048> Tu vas voir ce que sait faire\nun homme de ma trempe.
+<0049> Décidément, on est jamais tranquille.
+<0050> Je crois que tu as fait une erreur.
+<0051> Les problèmes ne cessent de venir.
+<0052> Allons, allons, pas besoin de s'énerver.
+<0053> Prends ça.
+<0054> Tiens.
+<0055> J'aimerais en finir rapidement.
+<0056> Je ne retiendrai pas mes coups.
+<0057> Arrête !
+<0058> Aïe.
+<0059> Que...
+<0060> Qu'est-ce que-...
+<0061> Bon sang...!
+<0062> C'est pas douloureux... c'est pire.
+<0063> C'est horrible...
+<0064> Impossible... je ne peux pas...
+<0065> J'ai l'impression d'avoir frôlé la mort.
+<0066> Tu ne t'es jamais entraîné ?
+<0067> Hé, ça aurait pu me faire mal !
+<0068> Pfiou, c'est pas passé loin.
+<0069> J'ai gagné... de justesse.
+<0070> Je remporte le combat.
+<0071> J'ai comme un coup de barre...
+<0072> Je crois que j'ai réussi mon coup.
+<0073> C'est pas cool, comme façon de perdre...
+<0074> J'ai fait n'importe quoi.
+<0075> Et zut.
+<0076> Pas comme ça...
+<0077> Un bonus spécial ?
+<0078> Les affaires reprennent.
+<0079> Un beau coup de chance.
+<0080> Merci pour ce cadeau.
+<0081> C'est regrettable.
+<0082> Non, mes étoiles...!
+<0083> Attendez un peu !
+<0084> On se paie de ma tête.
+<0085> Quel idiot je fais.
+<0086> Tss.
+<0087> Oh non, tout mais pas ça.
+<0088> C'est fourbe.
+<0089> Le cadet de mes soucis.
+<0090> Ah, le voilà...
+<0091> Ça va être tendu...
+<0092> Voilà le colosse.
+<0093> Si j'y arrive, je pourrais devenir riche.
+<0094> La gestion des étoiles, c'est mon domaine.
+<0095> C'est bien plus agréable de vivre en paix.
+<0096> Ces étoiles valent beaucoup, et je m'y connais.
+<0097> Vous allez voir comment se bat un homme.
+<0098> Je ne veux pas être trop violent...
+<0099> On va faire simple.
+<0100> Venez vous battre.
+<0101> Salut, ça faisait longtemps.
+<0102> C'est à moi de jouer ?
+<0103> Je suis de nouveau de service, alors ?
+<0104> Ok, tu peux compter sur moi.
+<0105> Je ferai de mon mieux.
+<0106> On va s'amuser, je le sens.
+<0107> Je suis fin prêt à jouer.
+<0108> Je vais y appliquer quelques efforts.
+<0109> À mon âge, il est naturel de gagner si vite.
+<0110> Je crois que je me suis laissé emporter.
+<0111> Il suffit de quelques efforts\npour obtenir un beau résultat.
+<0112> Alors, impressionnés par cette victoire ?
+<0113> Voilà qui nous aidera, n'est-ce pas ?
+<0114> À voir ta tête, je sens que cet objet t'intéresse.
+<0115> Bien, très bien. Une belle prise.
+<0116> Voilà qui sera utile.
+<0117> Maintenant, on échange.
+<0118> Tiens, prends ma place.
+<0119> À ton tour.
+<0120> Juste à temps.
+<0121> D'accord.
+<0122> Ça vaut mieux comme ça, je crois.
+<0123> Je m'en occupe.
+<0124> Non merci.
+<0125> Bah.
+<0126> Quelle chance.
+<0127> Qu'est-ce que ça signifie ?
+<0128> On y va.
+<0129> J'envoie mon dé.
+<0130> Bon courage.
+<0131> Yo.
+<0132> Hm.
+<0133> Bien, bien.
+<0134> Excellent.
+<0135> Il est encore temps de se rattraper.
+<0136> J'emprunte ce pouvoir.
+<0137> Oh, voyez-vous ça ?
+<0138> Cette carte renferme un grand pouvoir.
+<0139> J'y vois beaucoup de potentiel.
+<0140> Merci.
+<0141> C'est parfaitement naturel pour un adulte.
+<0142> Je dois gagner, même si je dois y laisser ma vie.
+<0143> C'est plutôt cool, non ?
+<0144> Je crois que je vais un peu loin.
+<0145> Si je n'avais pas esquivé, c'était la mort assurée.
+<0146> Une esquive facile.
+<0147> Tu ne peux pas m'atteindre.
+<0148> Un adulte est inarrêtable.
+<0149> Ellie, Papa te défie.
+<0150> Tu veux jouer avec Papa ?
+<0151> Tu as bien grandi. Papa est fier.
+<0152> Ellie... Tu es vraiment pleine de surprises.
+<0153> Je ne pensais pas devoir t'affronter.
+<0154> Comme au bon vieux temps, hein ?
+<0155> Je refuse de perdre contre toi.
+<0156> E-elle m'a battu...
+<0157> Poppo, faisons équipe.
+<0158> On va leur montrer de quoi on est capables, toi et moi.
+<0159> Ellie, tu as besoin de Papa ?
+<0160> Ellie, montre-moi ce que tu as appris.

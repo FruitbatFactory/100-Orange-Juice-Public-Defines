@@ -1,0 +1,160 @@
+<0000> Yoplà !
+<0001> Zou !
+<0002> Cui cui !
+<0003> Hop !
+<0004> Coco joue ça !
+<0005> Coco a trouvé ça !
+<0006> On y va !
+<0007> Oraa !
+<0008> Piège Coco !
+<0009> Kukuku !
+<0010> Faites gaffe, c'est dangereux !
+<0011> Et là, on pose le piège !
+<0012> Sous-estimez pas Coco !
+<0013> Coco sait aussi jouer ce genre de cartes !
+<0014> Pouvoir de gain de force !
+<0015> C'est quoi, ça ?
+<0016> Coco peut voler partout !
+<0017> Ça fait du bien.
+<0018> C'était juste...
+<0019> Grr ! Coco va pas laisser passer ça !
+<0020> Coco est prête à repartir !
+<0021> Bon, c'est raté.
+<0022> Hein ? C'est pas normal...
+<0023> Pourquoi ?
+<0024> Non !
+<0025> Pic pic !
+<0026> Tiens !
+<0027> Frappe de l'aigle !
+<0028> Oraa !
+<0029> Ça fait mal !
+<0030> Arrête !
+<0031> Grrr...!
+<0032> C'est trop méchant !
+<0033> Coco se sent déjà mieux !
+<0034> Plus de douleur, plus rien !
+<0035> Cui !
+<0036> Coco va y aller à fond, maintenant !
+<0037> Une case qui absorbe !?
+<0038> Piou piouu !
+<0039> Ouaaaahh !
+<0040> Mais c'est quoi, ça !?
+<0041> C'est trop cruel...
+<0042> Hiii...
+<0043> Cui... cui...
+<0044> Uuu...
+<0045> Coco est un poulet enragé !
+<0046> Ordure !
+<0047> Bouge de là !
+<0048> C'est parti !
+<0049> Hein, quoi !?
+<0050> Quoi, tu veux te battre !?
+<0051> Tu veux vraiment agresser Coco ?
+<0052> Ouahh !
+<0053> Piou !
+<0054> Ey-ey !
+<0055> Prends ça !
+<0056> Orah !
+<0057> Ça fait trop mal !
+<0058> Kyu !
+<0059> Arrête !
+<0060> Gyah !
+<0061> Arrête d'embêter Coco !
+<0062> Aïe !
+<0063> Kyaaaa !
+<0064> Piouu !
+<0065> T'es trop lent !
+<0066> Et hop, Coco s'envole !
+<0067> Hop !
+<0068> Piou piou !
+<0069> Coco est trop forte !
+<0070> Et voilà, t'as perdu !
+<0071> Kukuku !
+<0072> Victoire !
+<0073> Coco a perdu.
+<0074> C'est de l'agression.
+<0075> C'est méchant...
+<0076> Piou...
+<0077> C'est trop joli !
+<0078> Coco va les ramener à la maison !
+<0079> Coco les aime trop !
+<0080> Trop génial !
+<0081> Pourquoi !?
+<0082> Elles ont disparu...
+<0083> Coco est toute triste...
+<0084> Elles sont parties où ?
+<0085> Piouuuuu !
+<0086> Mais c'est quoi, ça ?
+<0087> Un p-piège !?
+<0088> Hiiiiii !
+<0089> Un vent fort approche...
+<0090> Coco a un mauvais pressentiment.
+<0091> C'est quoi ?
+<0092> Hmm, ça sent les problèmes, cette histoire.
+<0093> Coco veut plus de trésors !
+<0094> Coco aime trop en avoir plein !
+<0095> C'est trop mignon, ces machins ! Comme Coco !
+<0096> Coco aime les trucs qui brillent !
+<0097> Coco est assez grande pour se battre !
+<0098> Coco va vous picorer.
+<0099> Allez ! On y va, on y va !
+<0100> Coco a un bec super pointu !
+<0101> C'est au tour de Coco ?
+<0102> Aujourd'hui, on va voler à fond !
+<0103> Salut, c'est Coco !
+<0104> Hein ? T'as besoin de Coco ?
+<0105> On y va !
+<0106> Coco va faire de son mieux !
+<0107> Coco va y arriver !
+<0108> Coco se sent au top !
+<0109> Kukukuku !
+<0110> Piou piou piou piou !
+<0111> Youpi ! Hourra ! Victoire !
+<0112> Vous voyez à quel point elle est balèze, Coco ?
+<0113> C'est quoi, ça ? C'est cool !
+<0114> C'est trop joli ! Coco le veut !
+<0115> Oh ? Oh ? Qu'est-ce que c'est !?
+<0116> Super, bravo !
+<0117> À toi de jouer !
+<0118> Coco veut se reposer.
+<0119> Piouu...
+<0120> Coco croit en toi !
+<0121> Ok !
+<0122> Bravo !
+<0123> D'ac' !
+<0124> Piou !
+<0125> Oh...
+<0126> La chance !
+<0127> Piouuu ?
+<0128> C'est parcui !
+<0129> Hop !
+<0130> Courage !
+<0131> Salut !
+<0132> Hmm ?
+<0133> Génial !
+<0134> Ouah ! Trop génial, Coco est impressionnée !
+<0135> C'est trop frustrant... Cui...
+<0136> C'est quoi, ça ? Coco joue !
+<0137> Rien de mieux à faire que ça !
+<0138> Cui ? Piou piou !
+<0139> Coco joue ça !
+<0140> Haléna ! Coco veut se battre !
+<0141> Ouahh ! Tu fais trop peur, Haléna !
+<0142> Aujourd'hui, c'est Coco qui gagne !
+<0143> Tu fais mal à Coco...
+<0144> Hein !? T'es... un méchant ? Ou un copain ?
+<0145> Oh ! T'es un oiseau, toi aussi, non ?
+<0146> Coco est la meilleure de tous les oiseaux !
+<0147> Pff... Coco déteste perdre contre un autre oiseau...
+<0148> Coco vole super vite !
+<0149> Coco a une vitesse incroyable !
+<0150> Regardez un peu cet envol !
+<0151> Coco va super viiite !
+<0152> Et voilà !
+<0153> Ahh, ça fait du bien de voler.
+<0154> C'était un bon exercice.
+<0155> Retour à la maison !
+<0156> Coco n'est pas une dinde !!
+<0157> Tu... tu vas capturer Coco pour la manger !?
+<0158> Attends ! Coco est pas comestible !
+<0159> Hé ! Pourquoi tu baves comme ça ?

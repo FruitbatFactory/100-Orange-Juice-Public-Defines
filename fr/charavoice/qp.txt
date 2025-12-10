@@ -1,0 +1,161 @@
+<0000> J'y vais !
+<0001> Eyyy !
+<0002> Torya !
+<0003> Allez, un bon chiffre !
+<0004> Celle-là !
+<0005> Z'allez voir !
+<0006> Cette carte !
+<0007> Ok, j'y vais !
+<0008> Héhéhé... personne sait que j'ai posé un piège.
+<0009> Héhéhé... piège en place.
+<0010> Qui va se faire avoir ?
+<0011> Shashasha....
+<0012> J'ai choisi cette carte !
+<0013> Je peux que gagner !
+<0014> Carte Combat !!
+<0015> Avec cette carte, c'est imperdable !
+<0016> Puissance Hypermétrique !
+<0017> De retour !
+<0018> Ça va hyper mieux !
+<0019> Goûtez à ma vengeance !
+<0020> Je compte pas abandonner !
+<0021> Ouiin... j'y arrive pas...
+<0022> Oh non...!
+<0023> Hiii, j'arrive pas à me relever...
+<0024> Ouiiiin...
+<0025> À l'attaque !
+<0026> Tiens !
+<0027> J'attaque !
+<0028> Prends çaaa !
+<0029> Aïe !
+<0030> Hé, mollo !
+<0031> Hiii !
+<0032> Arrgh.
+<0033> Ça soulage...
+<0034> Pfiouu...
+<0035> Je me sens mieux.
+<0036> Je retourne les écraser !
+<0037> Qu-qu'est-ce qu'il m'arrive ?
+<0038> On me télépooooorte !
+<0039> Ouaouaouaouaaahhh !
+<0040> J'ai la tête qui toouuurne !
+<0041> Ouuaaaaaïe !
+<0042> Kyuuuu...
+<0043> J'en peux plus...
+<0044> Aouch...
+<0045> On va régler nos comptes !
+<0046> Je te défie !
+<0047> Viens là !
+<0048> Faut qu'on se batte !
+<0049> C'est parti !
+<0050> Amène-toi !
+<0051> Quoi ? Faut qu'on s'affronte !?
+<0052> Je peux pas perdre !
+<0053> Yatata !
+<0054> Prends ça !
+<0055> QP Attack !
+<0056> Eyyy !
+<0057> Irk !
+<0058> Aïe !
+<0059> Hé, ça fait mal !
+<0060> Arrête-eu !
+<0061> Gyaaah !
+<0062> Gueeh !
+<0063> Ça fait super mal !
+<0064> Aïe-aïe-aïe !
+<0065> Hé, fais gaffe !
+<0066> Hop, raté !
+<0067> Et hop !
+<0068> Hyper esquive !
+<0069> La victoire est à moi !
+<0070> J'ai gagné, j'ai gagné !
+<0071> J'ai réussi !
+<0072> Je suis hyper balèze !
+<0073> J-j'ai perdu...
+<0074> Guehhhh...
+<0075> Ouiiin...
+<0076> T'es pas sympa...
+<0077> Je les veux toutes !!
+<0078> Ding ding ♪
+<0079> Ça régale !
+<0080> J'suis trop contente !
+<0081> N-non, mes étoiles...
+<0082> Gaaahh !
+<0083> Gueehh...
+<0084> Aaaaahh !
+<0085> Hein ? Un piège ?!
+<0086> C-c'était un piège ?!
+<0087> Non ! Je me suis encore fait avoir...
+<0088> Hii ! Je m'attendais pas à un piège, moi !
+<0089> T-t'as l'air plutôt costaud...
+<0090> *gloups* Tu me fais peur...
+<0091> Hiiii... encore un gros monstre...
+<0092> J'ai pas confiance...
+<0093> J'vais nager dans les étoiles !
+<0094> J'voudrais le son des grelots !
+<0095> J'vais chercher des étoiles !
+<0096> Chaque étoile est un rêve !
+<0097> Je vais tous les écraser !!
+<0098> On va se battre pour la nourriture !
+<0099> Croisez pas mon regard ou ça va barder !
+<0100> Je vais gagner tous les combats ! Et puis la partie !
+<0101> On a besoin de moi ? Laissez-moi faire !
+<0102> QP à la rescousse !
+<0103> J'suis un loulou de Poméranie ! Kes'tu vas faire ?
+<0104> Je savais que tu me choisirais !!
+<0105> Je vais faire de mon mieux !
+<0106> C'est partiii !
+<0107> On va en découdre !
+<0108> J'suis hyper prête !
+<0109> Et voilà ! J'ai réussi !
+<0110> Et boum ! J'ai gagné !
+<0111> Je mérite un bon pudding !
+<0112> J'ai gagné, j'ai gagné ! 
+<0113> C'est ce qu'il me fallait !
+<0114> Un nouvel objet ! Trop joli !
+<0115> Avec ça, je suis invincible !
+<0116> Youpi, un nouvel objet !
+<0117> J'te passe le bâton !
+<0118> Tu veux bien me remplacer ?
+<0119> À toi d'jouer !
+<0120> Faut qu'on échange !
+<0121> Ok !
+<0122> Pfiou !
+<0123> Oui !
+<0124> Non.
+<0125> Mais comment...
+<0126> Hourra !
+<0127> Hein ?
+<0128> Let's go !
+<0129> Ça vaut quoi, ça ? ♪ 
+<0130> Je suis prête !
+<0131> Bonjour !
+<0132> Je dois faire quoi...?
+<0133> Super !
+<0134> Ouahh ! Trop trop cooool !
+<0135> Noooon...
+<0136> Maintenant, c'est ma carte !
+<0137> Je vais me permettre !
+<0138> Si cette carte est dans ma main...\nj'ai le droit de l'utiliser, non ?
+<0139> Ok, je sais pas trop ce que c'est,\nmais je vais m'en servir !
+<0140> Oh non... Y-Yuki...
+<0141> Syura, t'es sûre que t'auras\nle temps de finir ton manga ?
+<0142> Cette impression...\ncomme si on était connectées par le combat...
+<0143> J'adore ce son...!
+<0144> Je protègerai le pudding !
+<0145> M-mère Noël ?! Vous êtes la vraie de vraie ?
+<0146> Hé, tu sais que je suis une fille ?!
+<0147> Pudding !
+<0148> Ouah ! On dirait moi, en garçon !?
+<0149> E-euh, on s'est déjà rencontrés ?
+<0150> Ouah ! Madame, je sens que les chiens vous adorent !
+<0151> Ouaf ouaf !
+<0152> Nat ! Viens, on joue ensemble !
+<0153> Ouii ! On va jouer, on va jouer !
+<0154> J-je vais me venger ! J'en ai marre de toi !
+<0155> Aahhh ! Revoilà la brute !
+<0156> Aaah ! Hé, arrête de me picorer !!
+<0157> Nooon ! T'as vraiment gâché un si beau pudding ?!
+<0158> C-ce pudding... il est dangereux...!
+<0159> Où est-il ?! Où est mon pudding ?!
+<0160> Youpi, du pudding ! ...Aaaaaargh !!!

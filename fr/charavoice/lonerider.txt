@@ -1,0 +1,160 @@
+<0000> Plus vite.
+<0001> Admirez un peu.
+<0002> On s'arrête pas.
+<0003> Là !
+<0004> Je joue toujours avec prudence.
+<0005> Allez, on accélère !
+<0006> J'active les boosters !
+<0007> Tout est possible pour mon vieux compagnon.
+<0008> Gaffe, c'est pas sûr, ici.
+<0009> Je serais vous, je passerais pas par là.
+<0010> Toi, mon vieux, tu restes sous terre.
+<0011> J'vous déconseille de me suivre.
+<0012> Pleine vitesse !
+<0013> Vitesse supérieure !
+<0014> Un p'tit boost !
+<0015> Et là, on fonce !
+<0016> Quoi, vous pensiez que je roulais à fond ?
+<0017> Tu marches encore...?
+<0018> J'ai fait le plein, on y retourne.
+<0019> Voilà, c'est réparé.
+<0020> Te v'là comme neuf.
+<0021> Toujours en panne.
+<0022> Toujours ce vieux moteur... Allez, démarre !
+<0023> J'vais devoir changer les pneus...
+<0024> C'est cassé, ça aussi...? Bon.
+<0025> Dégage !
+<0026> T'as intérêt à me laisser passer.
+<0027> Tu ferais mieux d'esquiver, si tu tiens à la vie !
+<0028> Tu peux encaisser ça ?
+<0029> Pas grave, ça se répare.
+<0030> Je subis quelques dégâts...!
+<0031> Le vent est plein de débris, tiens.
+<0032> Hé, fais gaffe !
+<0033> C'est vraiment du bricolage, mais ça devrait tenir.
+<0034> Je crois que c'est suffisant.
+<0035> Je peux continuer.
+<0036> Ça, c'est du polissage.
+<0037> Q-que...?
+<0038> Toutes les routes se valent.
+<0039> Bah. C'est le voyage qui compte.
+<0040> De la brume ?
+<0041> Je dois faire une escale.
+<0042> Fini de rouler pour aujourd'hui.
+<0043> Encore ce vieux moteur !
+<0044> Mon véhicule est en panne ?!
+<0045> On peut plus reculer, maintenant.
+<0046> T'es vraiment capable de me suivre ?
+<0047> Hors de mon chemin !
+<0048> Bouge de là !
+<0049> Fiche-moi la paix.
+<0050> Oh, la paix !
+<0051> T'as vraiment rien de mieux à faire ?
+<0052> Attention à pas te faire écraser.
+<0053> Prends ça !
+<0054> Je t'ai à l'œil !
+<0055> Feu !
+<0056> Missiles, feu !
+<0057> Guh !
+<0058> Pas mal.
+<0059> Tu vas ruiner la peinture !
+<0060> T'as pas intérêt à abîmer la carrosserie !
+<0061> Hé ! C'était une pièce toute neuve !
+<0062> Je venais tout juste de l'installer !
+<0063> Guhh !
+<0064> Gargh !
+<0065> Je m'attendais à pire.
+<0066> Sans problème.
+<0067> C'est la maîtrise qui compte, pas la vitesse.
+<0068> T'es rapide, mais pas autant que moi.
+<0069> Adieu !
+<0070> Ça t'apprendra à m'arrêter.
+<0071> À jamais.
+<0072> Personne peut m'arrêter dans ma course.
+<0073> C'est foutu...
+<0074> C'est le bout du chemin, vieux frère...
+<0075> Après tout ce temps, fini de courir...
+<0076> ...Tu m'as eu.
+<0077> Remplis-le à fond !
+<0078> Le réservoir est plein, excellent.
+<0079> Je peux tenir un jour de plus.
+<0080> Je fais le plein !
+<0081> Je vais devoir faire le plein.
+<0082> Je commence à manquer de carburant...
+<0083> Moi qui voulais économiser...
+<0084> Une fuite dans le réservoir !?
+<0085> C'est rien, juste un nid-de-poule.
+<0086> Qui a laissé ses déchets là ?
+<0087> J'ai un pneu crevé !
+<0088> Une mine !?
+<0089> La route est toujours pleine de rencontres !
+<0090> Ce truc me barre la route.
+<0091> Toi aussi, tu veux m'arrêter en chemin ?
+<0092> Un mirage ? Non, c'est...
+<0093> Tout ce qu'il me faut, c'est rien qu'un peu d'essence.
+<0094> Tant que je tombe pas à court d'essence...
+<0095> Je dois toujours me réapprovisionner.
+<0096> Toujours faire des réserves.
+<0097> Des fois, je me laisse porter par la vague.
+<0098> Ce vent est sans pitié. Et moi aussi.
+<0099> C'est l'heure de la course.
+<0100> Ce soir, je me sens d'en découdre.
+<0101> Je roule toujours seul.
+<0102> J'ai pas besoin de compagnie.
+<0103> Tiens, tu peux t'installer à l'arrière.\nReste calme et touche à rien.
+<0104> Comme tu le sens.
+<0105> Le chemin ne s'arrête jamais.
+<0106> Chaque route est une histoire.
+<0107> Pieds sur les pédales, on roule à pleine vitesse !
+<0108> Ce sera facile.
+<0109> La route m'appelle. Adieu !
+<0110> On se sent vite seul quand personne nous égale.
+<0111> Personne peut me rattraper.
+<0112> Un voyage sans encombre.
+<0113> Des pièces de rechange ?
+<0114> Ça devrait servir.
+<0115> Ça irait bien sur le pare-brise, tiens.
+<0116> Tiens, du nouveau butin.
+<0117> Je pars de l'autre côté.
+<0118> Fais ton truc. Je retourne faire mon truc à moi.
+<0119> Tu peux prendre le volant cinq minutes ?
+<0120> J'ai besoin d'une sieste. Je te laisse t'occuper du reste.
+<0121> Compris.
+<0122> D'ac'.
+<0123> Bien reçu.
+<0124> C'est pas comme ça que j'aime faire.
+<0125> Bon, c'est pas bien grave.
+<0126> On sait jamais ce qu'on peut trouver en chemin !
+<0127> Hein ? Quoi ?
+<0128> On taille la route !
+<0129> On y va !
+<0130> Allez, c'est parti !
+<0131> Quoi de neuf ?
+<0132> Hum...
+<0133> Pas mauvais du tout.
+<0134> Oh, mes aïeux !
+<0135> Bon, pas de chance sur ce coup-là...
+<0136> Tout ce qui compte, c'est comment on s'en sert.
+<0137> Rien qui puisse pas me servir.
+<0138> C'est pas commun, ça, comme outil.\nJe vais l'essayer.
+<0139> C'est peut-être le coup de boost qui me manquait.
+<0140> Ne me suivez pas !
+<0141> C'est comme si toute la misère\ndu monde était derrière moi.
+<0142> Adieu, jeunesse...
+<0143> Cette fois, tu m'auras pas !
+<0144> Je venais tout juste de le réparer !
+<0145> Cette fois, c'est raté.
+<0146> Ah, je me sens renaître.
+<0147> Plus rapide que le vent.
+<0148> Tu peux rouler encore plus vite, pas vrai ?
+<0149> Je vais à l'horizon.
+<0150> Hm ? Va pas en travers de mon chemin.
+<0151> Combien de fois il faut que je vous dise\nde me laisser tranquille ?
+<0152> J'ai un pneu crevé !?
+<0153> On dirait bien que le voyage, c'est une vie d'homme.
+<0154> Inversion de la machine !
+<0155> Demi-tour !
+<0156> Mauvais chemin... Faisons demi-tour.
+<0157> Rien de mieux pour éviter les gêneurs.
+<0158> J'ai beau être solitaire, avec toi, je me sentirai jamais seul !
+<0159> C'est comme à la maison.

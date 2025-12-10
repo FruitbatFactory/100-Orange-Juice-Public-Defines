@@ -6,22 +6,22 @@ artist=
 < PIN_FLYING_SUGURI >
 name=空飛ぶスグリ
 desc=スグリをたくさん使った人に贈られるピンバッジ。\n空でもダッシュ！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KAI >
 name=空飛ぶカイ
 desc=カイをたくさん使った人に贈られるピンバッジ。\nいつになったら財布を取り戻せるのか？
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_QP >
 name=空飛ぶきゅーぴー
 desc=きゅーぴーをたくさん使った人に贈られるピンバッジ。\nいつもプリン食べてる。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MARC >
 name=空飛ぶマール
 desc=マールをたくさん使った人に贈られるピンバッジ。\nロケットは肌身離さず。
-artist=Sora
+artist=Azurée
 
 < PIN_FACTORY >
 name=オレンジファクトリー
@@ -41,259 +41,304 @@ artist=Yulay Devlet
 < PIN_FLYING_HIME >
 name=空飛ぶヒメ
 desc=ヒメをたくさん使った人に贈られるピンバッジ。\n守護者の鎖を甘く見てはいけない。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_FERNET >
 name=空飛ぶフェルネット
 desc=フェルネットをたくさん使った人に贈られるピンバッジ。\n紅茶はいかが？
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_YUKI >
 name=空飛ぶユキ
 desc=ユキをたくさん使った人に贈られるピンバッジ。\n命がけのギャンブルってのはどうや？
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_POPPO >
 name=空飛ぶぽっぽ
 desc=まりーぽっぽをたくさん使った人に贈られるピンバッジ。\nこのゲームを深く理解した証。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ARU >
 name=空飛ぶアル
 desc=アルをたくさん使った人に贈られるピンバッジ。\nプレゼントお届け中。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SORA >
 name=空飛ぶソラ
 desc=ソラをたくさん使った人に贈られるピンバッジ。\n青い空を見るために戦った女の子…。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_PEAT >
 name=空飛ぶピート
 desc=ピートをたくさん使った人に贈られるピンバッジ。\n今でもレッドバレル打倒を目指している。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TOMOMO >
 name=空飛ぶトモモ
 desc=トモモをたくさん使った人に贈られるピンバッジ。\nまじマジカル。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SYURA >
 name=空飛ぶしゅら
 desc=しゅらをたくさん使った人に贈られるピンバッジ。\n〆切明け、修羅場を超えた修羅の力を宿す。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_NANAKO >
 name=空飛ぶナナコ
 desc=ナナコをたくさん使った人に贈られるピンバッジ。\n小さいって言うな！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SAKI >
 name=空飛ぶサキ
 desc=サキをたくさん使った人に贈られるピンバッジ。\nクッキーはいかが？
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KYOUSUKE >
 name=空飛ぶキョウスケ
 desc=キョウスケをたくさん使った人に贈られるピンバッジ。\n運命の相手を捜索中。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KRILA >
 name=空飛ぶクリララリス
 desc=クリララリスをたくさん使った人に贈られるピンバッジ。\n永久の闇にいざ飛ばん。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KAE >
 name=空飛ぶカエ
 desc=カエをたくさん使った人に贈られるピンバッジ。\nデッキにはいつも「ヒート300%」。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ALTE >
 name=空飛ぶアルテ
 desc=アルテをたくさん使った人に贈られるピンバッジ。\n自爆はしません。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KYOKO >
 name=空飛ぶキョウコ
 desc=キョウコをたくさん使った人に贈られるピンバッジ。防御は硬く冷たい。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SHAM >
 name=空飛ぶシャム
 desc=シャムをたくさん使った人に贈られるピンバッジ。\n超絶かわいいオペレーター！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SHERRY >
 name=空飛ぶシェリー
 desc=シェリーをたくさん使った人に贈られるピンバッジ。\n自由に飛んでます。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SWEETBREAKER >
 name=空飛ぶスイートブレイカー
 desc=スイートブレイカーをたくさん使った人に贈られるピンバッジ。\n記憶、とろけてます！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_STARBREAKER >
 name=空飛ぶスターブレイカー
 desc=スターブレイカーをたくさん使った人に贈られるピンバッジ。\n爆発にご注意。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_NATH >
 name=空飛ぶナート
 desc=ナートをたくさん使った人に贈られるピンバッジ。\n怠惰な生活、最高…。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TOMATOMIMYUU >
 name=空飛ぶトマトとみみゅう
 desc=トマトとみみゅうをたくさん使った人に贈られるピンバッジ。\n最強のいたずらっ子たち！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KIRIKO >
 name=空飛ぶ斬子
 desc=斬子をたくさん使った人に贈られるピンバッジ。\n健康が一番。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_NONAME >
 name=空飛ぶNONAME
 desc=NONAMEをたくさん使った人に贈られるピンバッジ。\n頭は失くさないように。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TEQUILA >
 name=空飛ぶテキーラ
 desc=テキーラをたくさん使った人に贈られるピンバッジ。\nまさに理想の海賊！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TSIH >
 name=空飛ぶツィー
 desc=ツィーをたくさん使った人に贈られるピンバッジ。\n見失わないように！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MIUSAKI >
 name=空飛ぶミウサキ
 desc=ミウサキをたくさん使った人に贈られるピンバッジ。\nこのバッジもとっても丈夫。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_REPA >
 name=空飛ぶケオレパルケ
 desc=ケオレパルケをたくさん使った人に贈られるピンバッジ。\n髪にご注意を。
-artist=Sora
+artist=Azurée
 
 < PIN_IDLE_MEI >
 name=待機中のメイ
 desc=メイをたくさん使った人に贈られるピンバッジ。\nいっぱい騒ごう！
-artist=Sora
+artist=Azurée
 
 < PIN_IDLE_NATSUMI >
 name=待機中のナツミ
 desc=ナツミをたくさん使った人に贈られるピンバッジ。\n今日、夕飯食べにこない？
-artist=Sora
+artist=Azurée
 
 < PIN_IDLE_ARTHUR >
 name=待機中のアーサー
 desc=アーサーをたくさん使った人に贈られるピンバッジ。\n毎度あり！
-artist=Sora
+artist=Azurée
 
 < PIN_IDLE_NICO >
 name=待機中のニコ
 desc=ニコをたくさん使った人に贈られるピンバッジ。\nニコはいつも全力！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_CUTIES >
 name=空飛ぶソラ＆シャム
 desc=ソラ＆シャムをたくさん使った人に贈られるピンバッジ。\nアイドル道爆進中！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_IRU >
 name=空飛ぶイル
 desc=イルをたくさん使った人に贈られるピンバッジ。\n運動しよ！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MIRA >
 name=空飛ぶミラ
 desc=ミラをたくさん使った人に贈られるピンバッジ。\nこのバッジはヒーローの印。
-artist=Sora
+artist=Azurée
 
 < PIN_FLAYING_YUUKI >
 name=空飛ぶユウキ
 desc=ユウキをたくさん使った人に贈られるピンバッジ。\nオラオラオラオラ。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ISLAY >
 name=空飛ぶアイラ
 desc=アイラをたくさん使った人に贈られるピンバッジ。\n優雅に飛ぶ。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SUGURI46 >
 name=空飛ぶスグリ(460億年)
 desc=スグリ(460億年)をたくさん使った人に贈られるピンバッジ。\nこのピンバッジでかわいさ2倍。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SUMIKA  >
 name=空飛ぶスミカ
 desc=スミカをたくさん使った人に贈られるピンバッジ。\nこのスミカのピンバッジはスミカだよ。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MIO >
 name=空飛ぶミオ
 desc=ミオをたくさん使った人に贈られるピンバッジ。\n招待されてないパーティで主役になる人。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_LULU >
 name=空飛ぶルルゥ
 desc=ルルゥをたくさん使った人に贈られるピンバッジ。\nこれからも一緒に遊ぼう！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ELLIE >
 name=空飛ぶエリィ
 desc=エリィをたくさん使った人に贈られるピンバッジ。\nいざ冒険へ！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ALICIANRONE >
 name=空飛ぶアリシアンローネ
 desc=アリシアンローネをたくさん使った人に贈られるピンバッジ。\n森のこちら側では最速の魔女！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TEOTORATTA >
 name=空飛ぶテオトラッタ
 desc=テオトラッタをたくさん使った人に贈られるピンバッジ。\n獣なフレンドは真のフレンド。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ARNELLE >
 name=空飛ぶアーネル
 desc=アーネルをたくさん使った人に贈られるピンパッジ。\nもしかしたら、真のお宝はこれまで一緒に歩んできた仲間たちかも？
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MAYNIE >
 name=空飛ぶメイニー
 desc=メイニーをたくさん使った人に贈られるピンバッジ。\nメイニーのオッドアイをじっと見つめて、向かってくるコブシは無視しよう…。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_HALENA >
 name=空飛ぶハレナ
 desc=ハレナをたくさん使った人に贈られるピンバッジ。\nこのピンバッジはいつも正しいロビーへ導いてくれる。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_COOK >
 name=空飛ぶクック
 desc=クックをたくさん使った人に贈られるピンバッジ。\nこのピンバッジもニワトリではありません。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_LONERIDER >
 name=空飛ぶ孤独の車乗り
 desc=孤独の車乗りをたくさん使った人に贈られるピンバッジ。\n今はもうそれほど孤独ではない。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MERCHANT >
 name=空飛ぶ商人
 desc=商人をたくさん使った人に贈られるピンバッジ。\nこのピンバッジをお買い上げですね、ええ、もちろんお買い上げですとも！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_CHRIS >
 name=空飛ぶクリス
 desc=クリスをたくさん使った人に贈られるピンバッジ。\n毎年、ウェイトレス・オブ・ザ・イヤーに選ばれます。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KYUPITA >
 name=空飛ぶきゅぴ太
 desc=きゅぴ太をたくさん使った人に贈られるピンバッジ。\nこのピンバッジには若者の熱い情熱がこもっている。
-artist=Sora
+artist=Azurée
+
+< PIN_FLYING_SWEETCREATOR >
+name=空飛ぶスイートクリエイター
+desc=スイートクリエイターをたくさん使った人に贈られるピンバッジ。\nバタフライ効果に注意！
+artist=Azurée
+
+< PIN_FLYING_SWEETMAKER >
+name=空飛ぶスイートメイカー
+desc=スイートメイカーをたくさん使った人に贈られるピンバッジ。\nスイーツは世界を動かす！
+artist=Azurée
+
+< PIN_FLYING_SWEETBLOGGER >
+name=空飛ぶスイートブロガー
+desc=スイートブロガーをたくさん使った人に贈られるピンバッジ。\n今日も素敵なスイーツを探そう！
+artist=Azurée
+
+< PIN_FLYING_REIKA >
+name=空飛ぶレイカ
+desc=レイカをたくさん使った人に贈られるピンバッジ。\n今日も平和な一日。
+artist=Azurée
+
+< PIN_FLYING_MALT >
+name=空飛ぶモルト
+desc=モルトをたくさん使った人に贈られるピンバッジ。\n新しい世界に乾杯！
+artist=Azurée
+
+< PIN_FLYING_SHIFU >
+name=空飛ぶシフ
+desc=シフをたくさん使った人に贈られるピンバッジ。\n完璧な世界を永遠に探し続ける。
+artist=Azurée
+
+< PIN_FLYING_MESCAL >
+name=空飛ぶメスカル
+desc=メスカルをたくさん使った人に贈られるピンバッジ。\n今日は何して遊ぼうか？
+artist=Azurée
+
+< PIN_FLYING_WATTY >
+name=空飛ぶウォーティー
+desc=ウォーティーをたくさん使った人に贈られるピンバッジ。\nう うっかりダウンさせたら、ごめんなさい…。
+artist=Azurée
+
+< PIN_FLYING_POM >
+name=空飛ぶポメラニアス
+desc=ポメラニアスをたくさん使った人に贈られるピンバッジ。\n良い子です。
+artist=Coffgirl

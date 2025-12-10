@@ -9,10 +9,10 @@
 Вызвать на бой?
 
 < GAME_MESSAGE_HEALTEAMMATE >
-Вылечить игрока на 1 ОЗ?
+Вылечить союзника на 1 ОЗ?
 
 < GAME_MESSAGE_REVIVETEAMMATE >
-Возродить игрока? (%d Звёзд)
+Поднять союзника? (%d звёзд)
 
 < GAME_MESSAGE_CHOOSECARDUSE >
 Выберите карту для использования.
@@ -33,22 +33,22 @@
 %s может использовать "%s"!
 
 < GAME_MESSAGE_RAIDBOSS_REMOVE >
-%s больше не может использовать "%s".
+%s больше не использует "%s".
 
 < GAME_MESSAGE_RAIDBOSS_USE_ABILITY >
 %s использует "%s"!
 
 < GAME_MESSAGE_RAIDBOSS_SKIP_ABILITY >
-%s пропускает ход, используя "%s".
+%s пропускает ход с "%s".
 
 < GAME_MESSAGE_RAIDBOSS_ENRAGE >
 %s злится!
 
 < GAME_MESSAGE_COOP_TERROR_EVENT >
-На панелях можно сразиться с %s!
+%s занимает панели!
 
 < GAME_MESSAGE_COOP_ANNOUNCE_ABILITY >
-%s будет использовать "%s" на следующем ходу!
+%s будет использовать "%s"!
 
 < GAME_MESSAGE_COOP_LEVELUP_ABILITY >
 "%s" заменяется на "%s"!
@@ -71,20 +71,23 @@
 < GAME_MESSAGE_TRAPTRIGGER >
 Ловушка сработала.
 
+< GAME_MESSAGE_BANNERSET >
+Баннер установлен.
+
 < GAME_MESSAGE_CARDEFFECTSTOCKED >
 Эффект карты запасён.
 
 < GAME_MESSAGE_STOCKEFFECT >
-Запасённый эффект сработал.
+Запасённый эффект актвирован.
 
 < GAME_MESSAGE_FIELDEFFECT >
-Сработало событие игрового поля.
+Сработал эффект игрового поля.
 
 < GAME_MESSAGE_REVIVESUCCESS >
-Возрождение!
+Подъём!
 
 < GAME_MESSAGE_REVIVEFAIL >
-Не удалось возродить...
+Не удалось подняться...
 
 < GAME_MESSAGE_CHOOSETARGET >
 Выберите цель.
@@ -110,7 +113,7 @@
 Шоколад сохранён!
 
 < GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_FAIL >
-Недостатчно шоколада, чтобы сохранить...
+Недостатчно шоколада, чтобы его сохранить...
 
 < GAME_MESSAGE_HLWN2018_CHOOSECANDY >
 Выберите конфету.
@@ -131,10 +134,10 @@
 Выберите панели, куда кинуть.
 
 < GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND >
-Выберите к какой панели идти.
+Выберите к какой панели отойти.
 
 < GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND_CARD >
-Выберите к какой панели идти / применить карту.
+Выберите к какой панели отойти / применить карту.
 
 < GAME_MESSAGE_XMAS2018_SNOWFIGHT_WAITING >
 Ждём остальных игроков...
@@ -164,28 +167,31 @@
 Выберите панель.
 
 < GAME_MESSAGE_AWAIT_ACTION >
-Ожидание игрока...
+Ждём действий игрока...
 
 < GAME_MESSAGE_PICK_UNIT >
-Выберите свой отряд.
-
-< GAME_MESSAGE_PET_DOG >
-Вы хотите погладить собаку?
+Выберите своего юнита.
 
 < GAME_MESSAGE_PET_PLAYER >
 Погладить этого игрока?
 
+< GAME_MESSAGE_PET_DOG >
+Не хотите ли погладить собаку?
+
 < GAME_MESSAGE_CHOOSE_BLUFF >  
-Какой тип карты будет следующим?  
+Как вы думаете, какой тип карты будет сыгран следующим?  
 
 < GAME_MESSAGE_DECLARE_BLUFF >  
-Какой тип карты вы объявите?  
+Какой тип карты вы объявите другим игрокам?  
 
 < GAME_MESSAGE_BLUFF_SUBTITLE_1 >  
-Карта, которую вы сыграете...  
+Ты сыграешь...  
 
 < GAME_MESSAGE_BLUFF_SUBTITLE_2 >  
-...вот она!  
+...вот такую карту!  
 
 < GAME_MESSAGE_BLUFF_NOTICE >  
-{} предсказал, что следующей будет использована эта карта.  
+{} предсказывает, что следующей будет такая карта.  
+
+< GAME_MESSAGE_LOCATIONFEE_FAIL >
+Не удалось оплатить "крышу".

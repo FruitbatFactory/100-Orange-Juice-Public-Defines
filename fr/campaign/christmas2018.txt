@@ -1,0 +1,96 @@
+<0000> Et voilà ! Bravo à tous, on a bien travaillé !
+<0001> Merci mille fois !\nGrâce à vous, le Noël de cette année est sauvé !
+<0002> Je crierais pas victoire aussi vite si j'étais vous. 'faut encore livrer les cadeaux.
+<0003> Tu sais qu'on est des pros, hein ?
+<0004> Exactement. Avec l'aide de Rennon, je pourrais faire ça les doigts dans le nez !
+<0005> Il doit être super fort, Rennon.
+<0006> Nous aussi, on est super fortes !
+<0007> Oui, bien sûr, vous êtes géniales.
+<0008> Livrer des cadeaux, c'est une chose, mais...\nVous allez le livrer où, ce colosse ?
+<0009> Ah oui, ce château volant.\nUn château entier ! Les enfants se refusent rien !
+<0010> Ah, ce château.\nTous les cadeaux ont la même valeur, quels qu'ils soient.
+<0011> En fait, le château est demandé par mille enfants à la fois.\nIls se sont tous réunis pour cet unique cadeau.
+<0012> Ce château à lui tout seul va exaucer mille rêves...?
+<0013> Ces enfants voulaient s'y réunir pour fêter Noël avec tous les autres enfants de la ville.
+<0014> En voilà une bonne idée !\nOn a pas le droit de se rater !
+<0015> Vous imaginez ? Fêter Noël tous ensemble dans un château scintillant !\nC'est vraiment un rêve !
+<0016> Exactement !\nRien qu'à l'idée, ça m'a fait craquer !
+<0017> Faire la fête dans ce château, le jour de Noël...?
+<0018> M. Arthur, un problème ?
+<0019> ...T'es sûre que ça va marcher, Mère Noël ?
+<0020> C'est vrai que pour un château pareil, mille rêves, ça fait très peu, mais...
+<0021> C'est pas ça, le problème.\nS'ils voulaient que le château serve à fêter Noël, il devrait pas être livré un jour en avance...?
+<0022> Si on le livre le jour même, ils pourraient pas s'y installer avant le lendemain.
+<0023> Hein...?
+<0024> C'est vrai...!
+<0025> Un jour plus tôt, c'est faisable... non ?
+<0026> Hum...\nC'est pas aussi simple.
+<0027> Nos pouvoirs sont au maximum uniquement les soirs de Noël.
+<0028> C'est grâce à eux qu'on peut livrer les cadeaux partout dans le monde.\nMais les autres jours...
+<0029> Le mieux qu'on puisse faire, c'est voler. Le reste, c'est impossible.
+<0030> Hein !?
+<0031> Un cadeau normal ne poserait aucun problème, mais un château entier...\nPuis ça demanderait un long voyage.
+<0032> Puis il faut encore le décorer avant de le livrer.
+<0033> Le décorer ? Avec quoi ?
+<0034> Ces mille enfants...\nIls voulaient un château couvert de neige.
+<0035> Bien sûr, c'est beaucoup adapté pour fêter Noël.\nNico adorerait voir ça !
+<0036> Justement. Il ne neige presque pas, ici. On devra chercher la neige ailleurs, et la répartir sur le château avant de le livrer.
+<0037> Oh non.
+<0038> Plus on y pense, plus ça paraît impossible.\nQu'est-ce qu'on va faire...?
+<0039> Mille enfants rêvent d'avoir ce château.\nPas le choix, il faut le livrer.
+<0040> Mais...
+<0041> C'est beaucoup trop de travail pour nous deux,\net... *marmonne*...
+<0042> Vous inquiétez pas, je vais vous aider.
+<0043> Nico va aider, elle aussi !
+<0044> V-vous...
+<0045> Après tous vos efforts, on peut pas vous demander ça.
+<0046> On a pas toujours été réglos, Nico et moi. On vous doit bien ça.
+<0047> Il a raison.\nEt puis...
+<0048> Ramasser de la neige, recouvrir le château avec... c'est rigolo !\nNico veut faire le plus beau château du monde !
+<0049> Vous êtes trop gentils...
+<0050> Je vais pleurer...
+<0051> Pas le temps de pleurer.\nNoël approche à grands pas.
+<0052> Oui ! Mettons-nous au travail !
+<0053> On va rendre ce château magnifique et le livrer à temps!
+<0054> Oui !
+<0055> Encore une fois, vous tous :
+<0056> Beau travail ! Et, santé !
+<0057> Santé !\nPfiou, Nico est à bout de souffle.
+<0058> Même après s'être occupés du château, vous avez aidé à livrer les autres cadeaux.
+<0059> On ne sait pas comment vous remercier...
+<0060> On est désolées, on ne peut pas faire mieux que ça pour vous remercier...
+<0061> Pas de problème, c'est très bien comme ça.
+<0062> Ouah, on a du pain, du riz, tout plein de trucs.
+<0063> Sers-toi comme tu veux, Nico !
+<0064> Oui ! Merci, Mère Noël.
+<0065> Attention, ne mange pas trop.
+<0066> Pourquoi pas !? Nico l'a bien mérité, non ?
+<0067> Garde de la place pour la suite, c'est tout.
+<0068> Hein ? De quoi tu parles ?
+<0069> Hihi, je n'ai pas oublié, moi non plus.\nOn vient de passer minuit, donc...
+<0070> Bon anniversaire, Nico !
+<0071> Hein...?
+<0072> Un cadeau de la part des deux Mères Noël.
+<0073> Ouah... un gâteau géant.
+<0074> Tiens. Ça, c'est de ma part.
+<0075> Un cadeau...!
+<0076> C'est ce que ma fille avait demandé.\nJe me suis dit que ça te plairait, toi aussi.
+<0077> *snif*... *snif*...
+<0078> Ouuiiiin !
+<0079> Seigneur.
+<0080> Allons, allons.
+<0081> Papa... Mères Noël... merci. Merci beaucoup.
+<0082> Nico, enfin.
+<0083> Il est encore trop tôt pour dire merci.
+<0084> Hein...? C'est pas fini...?
+<0085> Hihihi.\nOn a réussi à faire venir la personne que tu voulais le plus revoir.
+<0086> C'est...
+<0087> Nico !
+<0088> !!!
+<0089> Ouaaah !
+<0090> Haha, je suis content pour toi, Nico.
+<0091> (allume une cigarette)
+<0092> Fuaahh...
+<0093> Il faut que je rentre à la maison.
+<0094> Ma fille aussi, elle fête son anniversaire. Je ne peux pas le rater.
+<0095> ...Bon anniversaire, Nico.

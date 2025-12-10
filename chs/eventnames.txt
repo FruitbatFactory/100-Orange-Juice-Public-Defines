@@ -26,7 +26,7 @@
 校园撞机
 
 < EVENTNAME_CHAOS_MODE >
-混沌模式
+愚人计
 
 < EVENTNAME_S3_TAGTEAM_MODE >
 青春多忧愁
@@ -36,5 +36,14 @@
 
 < EVENTNAME_POPPO >
 啵噗活动
+
+< EVENTNAME_OPERATION_HALLOWEEN >
+万圣节行动
+
+< EVENTNAME_SUMMER2025 >
+三重麻烦
+
+< EVENTNAME_WINTER2025 >
+社团资格战
 
 [EOF]

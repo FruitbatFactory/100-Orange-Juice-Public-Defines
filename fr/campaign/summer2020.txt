@@ -1,0 +1,232 @@
+
+// ========= Scene: Summer 2020 Event Start =========
+
+// (kae)
+<0000> Il fait super chaud, aujourd'hui !
+
+// (saki)
+<0001> T'as vu toute la chaleur que tu dégages à longueur de journée, aussi ? Mais oui, c'est vrai que ça cogne.
+
+// (nath)
+<0002> ......
+
+// (saki)
+<0003> Nath encaisse mal la canicule, on dirait. Elle est complètement dans les nuages... hum, ok, j'ai une idée !
+
+// (saki)
+<0004> Hé, Kae, écoute !
+
+// (kae)
+<0005> Heeein ?
+
+// (saki)
+<0006> *Psst psst psst*
+
+// (kae)
+<0007> ...! Super idée ! D'accord !
+
+// (saki)
+<0008> Parfait, dans ce cas c'est acté...
+
+// (nath)
+<0009> ...pfiou.
+
+// (saki)
+<0010> Naaath.
+
+// (kae)
+<0011> Salut.
+
+// (nath)
+<0012> Saki, et Kae. \nQue voulez-vous ?
+
+// (saki)
+<0013> Tu as prévu quelque chose en particulier, aujourd'hui ?
+
+// (nath)
+<0014> Pas vraiment...
+
+// (saki)
+<0015> Dans ce cas, ça ne te dirait pas de sortir un peu avec nous ?
+
+// (kae)
+<0016> Oui, on va sortir !
+
+// (nath)
+<0017> Avec une telle canicule...?
+
+// (saki)
+<0018> Justement ! On supportera mieux la chaleur en s'aérant !
+
+// (saki)
+<0019> Au fait, vous aimez le poisson, vous deux ?
+
+// (kae)
+<0020> Ouais ! C'est super bon !
+
+// (nath)
+<0021> Entre "j'aime" et "je n'aime pas"... Je suis plus proche du "j'aime".
+
+// (saki)
+<0022> Le meilleur endroit que je connaisse pour un jour de canicule, c'est au bord la rivière ! Et la rivière, c'est l'endroit parfait pour un barbecue !
+
+// (nath)
+<0023> Votre plan est de vous rendre à une rivière pour vous rafraîchir et griller du poisson ?
+
+// (saki)
+<0024> Exactement ! On pêchera nos propres poissons sur place !
+
+// (kae)
+<0025> Ça a l'air marrant ! Quand est-ce qu'on y va ?
+
+// (nath)
+<0026> Je ne suis pas très à l'aise avec les sorties en groupe, je rest-...
+
+// (saki)
+<0027> Super ! Préparez-vous, on y va maintenant !
+
+// (nath)
+<0028> Est-ce que tu m'écou-...
+
+// (kae)
+<0029> On a fait du shopping; avec Nana ! J'ai acheté un nouveau maillot, je vais le mettre maintenant !
+
+// (nath)
+<0030> Hé, j'ai dit que je ne vien-...
+
+// (sakiandkae)
+<0031> La rivière !
+
+// (sakiandkae)
+<0032> Youpiii !
+
+// (nath)
+<0033> On m'a traînée jusqu'ici contre mon gré.
+
+// (kae)
+<0034> Nath, viens te baigner avec nous !
+
+// (nath)
+<0035> Non merci. Je n'ai pas de maillot, et je ne peux pas nager. Vous vous souvenez de pourquoi nous sommes là, au moins ?
+
+// (saki)
+<0036> Bien sûr ! Pêcher du poisson et le manger pour se rafraîchir !
+
+// (kae)
+<0037> Je suis super motivée ! Avec Nath, on s'occupe des poissons ! Comme ça, tu peux les griller, Saki !
+
+// (saki)
+<0038> Bien reçu !
+
+// (kae)
+<0039> Au fait, tu fais comment pour pêcher, Nath ?
+
+// (nath)
+<0040> Je m'assieds par terre, comme ça...
+
+// (saki)
+<0041> Accroupie ?
+
+// (nath)
+<0042> Puis je tiens ma canne à pêche entre mes genoux... Et voilà.
+
+// (kae)
+<0043> Ouah, trop fort !
+
+// (kae)
+<0044> Moi, je me jette dans l'eau et j'attrape les poissons avec les mains !
+
+// (saki)
+<0045> Dans ce cas, allons-y ! Faisons toutes de notre mieux pour ce repas !
+
+// (kaeandnath)
+<0046> Ok !
+
+// ========= Scene: Summer 2020 Event Ending =========
+
+// (kae)
+<0047> T'as vu, Saki ? On a pêché tout ça !
+
+// (saki)
+<0048> Waouh ! Bravo, vous deux, c'est impressionnant.
+
+// (nath)
+<0049> On pourrait en ramener à la maison, et même en offrir.
+
+// (saki)
+<0050> Ok ok, donnez-moi deux secondes, je vais les préparer pour le grill. Mauryaaah !!
+
+// (nath)
+<0051> Quelle puissance... Elle arrive à couper le poisson et à faire les brochettes en un clin d'œil.
+
+// (kae)
+<0052> T'es la meilleure cuisinière, Saki !
+
+// (saki)
+<0053> Et voilà ! On peut allumer le grill, maintenant. Kae !
+
+// (kae)
+<0054> Et bam ! Voilà ton feu !
+
+// (nath)
+<0055> Du vrai travail d'équipe, haha...
+
+// (kae)
+<0056> Nath, j'ai une question !
+
+// (nath)
+<0057> Oui ?
+
+// (kae)
+<0058> Ça t'a plu de pêcher ?
+
+// (nath)
+<0059> Oui. Finalement, il n'est pas désagréable de s'aérer dans la nature.
+
+// (kae)
+<0060> Super ! En fait, ce barbecue sur la rivière, tout ça...
+
+// (saki)
+<0061> On l'a planifié avec Kae exprès pour que tu viennes, Nath.
+
+// (kae)
+<0062> Oui.
+
+// (nath)
+<0063> Pardon ?
+
+// (kae)
+<0064> Il fait si chaud que t'avais l'air de perdre la boule, à la maison.
+
+// (saki)
+<0065> C'était l'occasion pour passer du temps avec toi, pour changer. Et peut-être garder un bon souvenir de cet été.
+
+// (saki)
+<0066> Je savais que tu ne voulais pas venir, mais je t'y ai quand même obligée. Je suis désolée.
+
+// (nath)
+<0067> C'est tout toi, ça. Mais j'apprécie ce geste de ta part.
+
+// (nath)
+<0068> Je ne regrette pas d'être venue. C'était amusant.
+
+// (kae)
+<0069> Youpi ! On a réussi, Saki !
+
+// (saki)
+<0070> Oui, Kae ! Victoire !
+
+// (nath)
+<0071> Hahaha.
+
+// (saki)
+<0072> Ah, je crois que le poisson est prêt. On peut commencer !
+
+// (kae)
+<0073> Enfin !!
+
+// (nath)
+<0074> Ils ont l'air délicieux.
+
+// (saki)
+<0075> Faites-moi plaisir et mangez à votre faim !

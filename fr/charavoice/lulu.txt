@@ -1,0 +1,162 @@
+<0000> Lulu jette son dé.
+<0001> Là !
+<0002> On y va.
+<0003> Eiya.
+<0004> Lulu choisit celle-là.
+<0005> Héhé, Lulu peut la jouer ?
+<0006> Lulu tente sa chance !
+<0007> Héhéhé, c'est amusant !
+<0008> Lulu n'a pas l'habitude des pièges... Comme ça ?
+<0009> Oh, c'est ça, un piège ?
+<0010> Qu'est-ce qu'il se passe quand on marche dessus ?
+<0011> Lulu pose un piège ♥
+<0012> Lulu ne peut pas perdre avec cette carte !
+<0013> Lulu n'aime pas la défaite !
+<0014> Si Lulu doit se battre, elle va utiliser ça !
+<0015> Lulu va faire de son mieux !
+<0016> Aah... Guh... Un œuf... va sortir...!
+<0017> Ah, c'est pas passé loin. Lulu a cru voir l'autre monde.
+<0018> Lulu est prête à se relever. Elle peut encore gagner !
+<0019> La pause de Lulu était trop longue...\nElle doit se rattraper !
+<0020> Ahh, Lulu peut enfin y aller.
+<0021> Oh non... pas possible...
+<0022> C'est pas le jour de Lulu.
+<0023> Lulu a besoin de se reposer.
+<0024> Lulu ne peut pas se relever... Hmm...
+<0025> Lulu passe à l'attaque !
+<0026> À l'attaque !
+<0027> Lulu y va !
+<0028> C'est parti !
+<0029> Ça fait mal...
+<0030> Ogo !
+<0031> C'était efficace...
+<0032> Arrête !
+<0033> Hihihi, Lulu adore cette sensation.
+<0034> Oh, c'est vraiment apaisant.
+<0035> Aah, Lulu se sent encore plus vivante.
+<0036> C'est tout doux et tout chaud...
+<0037> Non-non-non-non-non-non !
+<0038> Lulu a la tête qui tourne.
+<0039> Jusqu'où va Lulu ?
+<0040> C'est un portail !
+<0041> Lulu ne peut plus bouger...
+<0042> C'est horrible... Lulu n'a rien fait de mal !
+<0043> Snif... c'est cruel.
+<0044> Pourquoi infliger ça à Lulu ?
+<0045> Tu devrais faire plus attention à Lulu !
+<0046> Lulu va t'écraser !
+<0047> Lulu va t'affronter !
+<0048> Viens, on va jouer ensemble !
+<0049> Oh, tu veux te battre ? Lulu relève le défi !
+<0050> Oh ? Hé, pouce ! Pouce !
+<0051> Aaah ! Qu'est-ce que tu veux ?
+<0052> Non, tu fais peur ! Va-t'en !
+<0053> Ora !
+<0054> Atah !
+<0055> Howaah !
+<0056> Oryaya !
+<0057> Ouah !
+<0058> Hé !
+<0059> Attends !
+<0060> Ah !
+<0061> Ça fait mal ! Espèce de monstre !
+<0062> Aaaah !
+<0063> Arrête-euh !
+<0064> Comment as-tu pu ? C'est atroce !
+<0065> Awah !
+<0066> Hé, attention !
+<0067> Ouah ! Lulu a eu peur !
+<0068> Nooon !
+<0069> Lulu ne sait pas comment, mais elle a réussi.
+<0070> Pfiou, c'était juste.
+<0071> Lulu s'est donnée à fond.
+<0072> Finalement, ça a marché.
+<0073> C'est horrible...
+<0074> Quel destin tragique...
+<0075> Qu'est-ce que Lulu a fait pour mériter ça...
+<0076> Snif... Ouiiin...
+<0077> Oh, des étoiles.
+<0078> Lulu aime bien avoir des étoiles.
+<0079> Lulu espère en trouver d'autres.
+<0080> Lulu va en trouver jusqu'à ne plus avoir de place !
+<0081> Noon ! Les étoiiiles !
+<0082> C'est horrible !
+<0083> Non, rendez-les moi ! Tout mais pas ça...!
+<0084> Tant d'étoiles perdues... Lulu ne peut pas y croire...
+<0085> Kyaaah !
+<0086> Qui a posé ce piège ?!
+<0087> Kya ! Comment Lulu a pu faire une telle erreur ?
+<0088> Mugyaaah !
+<0089> Oh non... Il est terrifiant...
+<0090> L-Lulu veut rentrer chez elle...
+<0091> À l'aide... quelqu'un... Lulu est en danger...
+<0092> Brrrr...
+<0093> Lulu aimerait avoir tout plein d'étoiles.
+<0094> Lulu va en trouver plein en un rien de temps !
+<0095> Pas d'inquiétude ! Lulu va revenir avec plein d'étoiles !
+<0096> Lulu veut des étoiles.
+<0097> Lulu va montrer ce qu'elle sait faire !
+<0098> Lulu sait aussi se battre.
+<0099> Lulu n'est pas certaine d'y arriver, mais elle va essayer.
+<0100> Hmmm, Lulu espère s'en sortir...
+<0101> Bonjour ! Lulu est là !
+<0102> Oh, tu veux jouer avec Lulu ?
+<0103> D'accord, allons jouer ensemble.
+<0104> Youpi, merci d'avoir choisi Lulu !
+<0105> Ok, on peut y arriver !
+<0106> Lulu espère qu'on va bien s'amuser.
+<0107> Lulu pense pouvoir gagner...
+<0108> Quand Lulu peut y arriver, elle doit le faire...!
+<0109> Lulu a gagné...? Oui ! Elle a réussi !
+<0110> Lulu est la première !? Youpi, hourra !
+<0111> Lulu est super contente !
+<0112> Lulu a gagné la partie ! Elle en peut plus !
+<0113> Tiens, c'est pour toi. T'en penses quoi ?
+<0114> Lulu se demande si ça va être utile...
+<0115> Ça va être utile !
+<0116> Nouvel objet !
+<0117> Lulu aimerait échanger.
+<0118> Lulu a confiance en toi !
+<0119> Tu peux prendre la place de Lulu ?
+<0120> On peut échanger ?
+<0121> Ok.
+<0122> Bien.
+<0123> Chouette.
+<0124> Non !
+<0125> Oh...
+<0126> Quelle chance.
+<0127> Hmm ?
+<0128> On y va !
+<0129> Le dé !
+<0130> Lulu croit en toi !
+<0131> Bonjour !
+<0132> Hmmm...
+<0133> Génial !
+<0134> Incroyable ! Lulu est impressionnée.
+<0135> Bahh... C'est nul.
+<0136> Jouer celle-là ? Qu'est-ce que ça va faire ?
+<0137> Lulu se demande à quoi ça sert !
+<0138> Lulu veut essayer de la jouer.
+<0139> Awah, cette carte est peut-être très puissante ?
+<0140> Ouah, elle fait peur.
+<0141> Qu-qu'est-ce que Lulu a fait !?
+<0142> Oh, Lulu pensait qu'elle serait plus dangereuse.
+<0143> Non, faites pas de mal à Lulu...!
+<0144> Votre créature est vraiment mignonne.
+<0145> Héhé, ça vous dérange si Lulu caresse votre créature ?
+<0146> Lulu échange avec Ellie.
+<0147> Ellie, Lulu croit en toi !
+<0148> Lulu sait que Ellie peut y arriver !
+<0149> Ellie est meilleure que Lulu pour ça !
+<0150> Ouaah, tellement d'étoiles !
+<0151> Des étoiles sont sorties de l'œuf !
+<0152> Hiéhéhé, ces étoiles appartiennent à Lulu.
+<0153> Les Étoiles de Fortune !
+<0154> Ouah, Lulu a tellement de cartes. Comment choisir ?
+<0155> Tellement d'options ! Quelles cartes Lulu devrait garder ?
+<0156> Awah, Lulu ne peut pas porter toutes ces cartes !
+<0157> Les Cartes de Fortune !
+<0158> Trop trop bon, Lulu est ravie !
+<0159> *crounch cronch* Ch'est délichieux.\nLulu est toute pleine d'énergie !
+<0160> Lulu se sent beaucoup mieux, maintenant !
+<0161> Le Repas Fortuné !

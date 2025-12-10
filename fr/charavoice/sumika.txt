@@ -1,0 +1,160 @@
+<0000> Ey !
+<0001> Eeey !
+<0002> Roule donc !
+<0003> Haaa !
+<0004> Sumika va jouer celle-là !
+<0005> Les calculs de Sumika confirment que c'est le meilleur choix !
+<0006> C'est le moment de jouer une carte !
+<0007> Cette carte va retourner la situation !
+<0008> Le piège de génie de Sumika !
+<0009> N'hésitez pas à marcher sur ce piège si le cœur vous en dit !
+<0010> Personne ne s'attendrait à un piège ici.
+<0011> Sumika prend toujours les bonnes décisions !
+<0012> Amélioration des capacités !
+<0013> Ça va rendre Sumika encore plus forte qu'avant.
+<0014> Hihihi... C'est agréable de gagner en puissance...
+<0015> C'est ce qu'ils appellent un atout !
+<0016> Les souvenirs chéris de Sumika !
+<0017> Sumika est parfaitement capable de se régénérer !
+<0018> C'est pas fini ! C'est pas fini !
+<0019> Sumika est prête à se venger.
+<0020> Vous n'avez pas encore vue la vraie Sumika...
+<0021> Oh non ! Erreur de calcul !
+<0022> Pourquoi !? Ça rend Sumika triste...
+<0023> Quoi !? C'est pas juste !
+<0024> Pas la peine de se précipiter, alors.
+<0025> Attaque signée Sumika !
+<0026> Ey-eey !
+<0027> L'attaque de Sumika !
+<0028> Yah !
+<0029> Aïe !
+<0030> Arrête !
+<0031> Ça fait mal !
+<0032> Ouille !
+<0033> Premiers secours terminés !
+<0034> Sumika peut retourner jouer.
+<0035> Sumika se sent beaucoup mieux.
+<0036> Sumika est loin d'être vaincue !
+<0037> Un portail !
+<0038> Où va Sumika...?
+<0039> Ayaaa !
+<0040> Ouaah !
+<0041> Sumika ne peut pas croire qu'on l'ait fait tomber KO.
+<0042> Oh non... une faille dans le programme.
+<0043> Pourquoi, pourquoi, pourquoi...!?
+<0044> Hiii, c'est mauvais...
+<0045> Sumika, à l'attaque !
+<0046> Une cible facile ! Cible ! Cible !
+<0047> N'opposez aucune résistance face à Sumika !
+<0048> Début du combat !
+<0049> Tu ne sais pas contre qui tu te bats !
+<0050> Tu veux vraiment faire ça ? Vraiment ?
+<0051> Tu oses dédier Sumika ?
+<0052> C'est un coup contre ton propre camp !
+<0053> Passons à l'attaque !
+<0054> Hoy-hoy !
+<0055> C'est fini pour toi !
+<0056> Tu ne peux pas y échapper !
+<0057> Ouaille !!
+<0058> Uhi !
+<0059> Ça fait mal !
+<0060> Une attaque !?
+<0061> Hé !! Sumika est de la mécanique de pointe !
+<0062> Comment tu peux lever la main sur une si jolie fille !
+<0063> Hiii ! Non, non !!
+<0064> Sumika va exploser !
+<0065> Tu as raté ton attaque.
+<0066> Sumika est très habile.
+<0067> Volant comme une plume.
+<0068> Sumika n'est plus là.
+<0069> Ce résultat était évident. Sumika n'éprouve rien de spécial.
+<0070> Sumika savait dès le départ que ça arriverait.
+<0071> Hihi, tu pensais vraiment pouvoir battre Sumika ?
+<0072> Sumika est satisfaite !
+<0073> Sumika a perdu...? C'est impossible...
+<0074> Comment tu peux faire du mal à Sumika...?
+<0075> Sumika est devenue complètement obsolète...
+<0076> Bip bip ! Bzzzt.
+<0077> Étoiles obtenues !
+<0078> C'est très important d'économiser petit à petit !
+<0079> On économise.
+<0080> Oh, un bonus !
+<0081> Les économies de Sumika !
+<0082> Attendez !
+<0083> Sumika en a fait tomber ?
+<0084> Sumika n'anticipait pas cette case !
+<0085> Un piège !?
+<0086> Sumika ne peut pas croire qu'on l'ait piégée !
+<0087> Un piège intelligemment posé...
+<0088> Sumika a fait une bêtise !
+<0089> Ça sent comme... une créature puissante...\nUne autre que Sumika.
+<0090> Cette aura... C'est lui, le boss !
+<0091> Le voilà enfin.
+<0092> Sumika va devoir faire de son mieux !
+<0093> Personne ne surpasse Sumika en accumulation !
+<0094> Sumika est du genre à collectionner les petits objets.
+<0095> D'après les calculs de Sumika,\nelle a plus de chance de gagner ainsi !
+<0096> Sumika part à la recherche des étoiles !
+<0097> Sumika excelle dans les combats.
+<0098> On ressent tous l'appel de la violence au moins une fois !\nPour Sumika, c'est maintenant !
+<0099> Sumika va écraser tout le monde !
+<0100> Inclinez-vous devant Sumika !
+<0101> Sumika est Sumika ! Merci de l'avoir choisie !
+<0102> Sumika s'ennuie. On va jouer ensemble !
+<0103> Tu veux jouer avec Sumika ? Ok, avec plaisir !
+<0104> Au tour de Sumika de briller !
+<0105> On a intérêt à bien profiter !
+<0106> Jeu ou pas, Sumika a la ferme intention de gagner !
+<0107> Sumika est Sumika ! Elle espère une bonne partie !
+<0108> Sumika n'a pas joué à un seul jeu\ndepuis très longtemps ! Elle a hâte !
+<0109> Sans surprise, Sumika a gagné !
+<0110> Hein, c'est déjà fini ? Sumika voulait jouer encore un peu.
+<0111> Sumika savait dès le début qu'elle gagnerait !\nElle est ravie quand même !
+<0112> C'était super génial ! On devrait en refaire !
+<0113> C'est ça que tu voulais, non ?
+<0114> Sumika voudrait s'en servir pour décorer sa chambre.
+<0115> Hmm, ça a l'air vraiment bien.
+<0116> Hé, Sumika a comme une envie de jouer avec.
+<0117> C'est à toi de jouer !
+<0118> Sumika croit en toi !
+<0119> Sumika aimrait échanger avec toi.
+<0120> Tout dépend de toi !
+<0121> Ok !
+<0122> Bien !
+<0123> Mhm !
+<0124> NON !
+<0125> Quelle camelote...
+<0126> La chance !
+<0127> Hm ?
+<0128> C'est bon ! On peut y aller !
+<0129> Jet de dé !
+<0130> C'est parti !
+<0131> Bonjour !
+<0132> Hmm...
+<0133> C'est super !
+<0134> Incroyable !
+<0135> Erm...
+<0136> Sumika peut tout appréhender !
+<0137> Si Sumika est obligée de s'en servir...
+<0138> Cette carte est inconnue !\nSumika va découvrir son pouvoir !
+<0139> Elle a fini entre les mains de Sumika... Il faut s'en servir !
+<0140> Suguri ! Ça fait si longtemps qu'on ne s'est pas affrontées !
+<0141> Suguri !? Tu peux y aller doucement, s'il te plaît !?
+<0142> Hein ? Tu n'as quand même pas perdu la main, Suguri ?
+<0143> Aah ! Tu pouvais y aller plus doucement !
+<0144> Suguri et Sumika font le duo le plus fort et le plus ancien !
+<0145> Suguriii ! Tu peux remplacer Sumika, s'il te plaaaît ?
+<0146> Ouah ! C'est l'ancienne Suguri en personne !
+<0147> L'ancienne Suguri... Elle a le regard perçant...
+<0148> Sumika sent comme un brin de nostalgie.
+<0149> Personne ne peut battre Suguri à son maximum...
+<0150> Frangin ! On va se battre pour voir qui est le plus performant !
+<0151> Tu veux te battre avec Sumika ? Ok, on y va, frangin !
+<0152> C'est Sumika, la plus puissante !
+<0153> R-rien de pire que de perdre contre toi...
+<0154> Fais plus attention au corps de Navi !
+<0155> Ah ! C'est faux-papa !
+<0156> Ne t'approche pas !
+<0157> Tu es ridicule, faux-papa.
+<0158> Aaah ! C'est pas possible !
+<0159> Cette odeur... Te voilà, frangin !

@@ -1,0 +1,131 @@
+< MIXER_AIR_RAID >
+name=Raid Aérien
+descr=Tous les personnages subissent 1 point de dégât.\n\nFréquence : Tous les 5 chapitres
+
+< MIXER_AMPLIFY >
+name=Amplification
+descr=Chaque personnage voit une de ses statistiques augmentée de 1 pendant 2 chapitres.
+
+< MIXER_BACKTRACK >
+name=Demi-Tour
+descr=Tous les personnages se déplacent dans l'autre sens pendant un tour.
+
+< MIXER_BOMBER >
+name=Bombes
+descr=Une bombe est posée sur une case au hasard. Elle explose au bout de 1 à 4 chapitres, infligeant 2 points de dégât dans un rayon de 2 cases dans chaque direction.
+
+< MIXER_CHARITY >
+name=Charité
+descr=Tous les joueurs piochent une carte en début de chapitre.
+
+< MIXER_CONFUSION >
+name=Confusion
+descr=Toutes les mains sont mélangées et face cachée.
+
+< MIXER_FREEZE >
+name=Gel
+descr=1/3 des cases du plateau deviennent gelées.
+
+< MIXER_MINELAYER >
+name=Pose-Mines
+descr=Place un piège sur une case au hasard.
+
+< MIXER_MIRACLE >
+name=Miracle
+descr=Double les effets de toutes les cases.
+
+< MIXER_RANDOM_WARP >
+name=Téléportation Aléatoire
+descr=Téléporte tous les personnages sur des cases au hasard.
+
+< MIXER_REGENERATION >
+name=Régéneration
+descr=Soigne 1 PV à tous les personnages.
+
+< MIXER_SPRINT >
+name=Course
+descr=Tous les jets de déplacement sont doublés.
+
+< MIXER_TREASURE >
+name=Trésor
+descr=Pose un trésor sur une case au hasard.
+
+< MIXER_HEALTHY_BOSS >
+name=Boss Colossal
+descr=Le Boss commence avec 10 PV en plus.
+
+< MIXER_STAR_CHASER >
+name=Chasse aux Étoiles
+descr=Les cases Bonus donnent deux fois plus d'étoiles.
+
+< MIXER_BEGGAR >
+name=Mendiant
+descr=Les cases Malus font perdre deux fois plus d'étoiles.
+
+< MIXER_AGGRESSIVE_HEROES >
+name=Héros Aggressifs
+descr=Tous les alliés gagnent +1 ATK.
+
+< MIXER_DEFENSIVE_HEROES >
+name=Héros Défensifs
+descr=Tous les alliés gagnent +1 DEF.
+
+< MIXER_EVASIVE_HEROES >
+name=Héros Évasifs
+descr=Tous les alliés gagnent +1 EVD.
+
+< MIXER_BLAZING >
+name=Flamboyant
+descr=Tous les personnages ont +1 ATK et -1 DEF.
+
+< MIXER_FLIPPED >
+name=Inversement
+descr=Toutes les statistiques sont inversées en début de combat.
+
+< MIXER_MENACING_BOSS >
+name=Boss Violent
+descr=Le Boss gagne +1 ATK.
+
+< MIXER_HARD_SHELLED_BOSS >
+name=Boss Renforcé
+descr=Le Boss gagne +1 DEF.
+
+< MIXER_SLIPPERY_BOSS >
+name=Boss Glissant
+descr=Le Boss gagne +1 EVD.
+
+< MIXER_JOKER >
+name=Joker
+descr=Toutes les cartes peuvent être jouées gratuitement.
+
+< MIXER_BANKRUPT >
+name=Faillite
+descr=Le prix des cartes augmente de 10 étoiles.
+
+< MIXER_GOO >
+name=Boue
+descr=1/3 des cases du plateau deviennent boueuses pendant 1 chapitre.
+
+< MIXER_SPORES >
+name=Spores
+descr=Des champignons apparaissent sur le plateau.
+
+< MIXER_WILDFRIENDS >
+name=Amis Sauvages
+descr=Tous les joueurs commencent avec une invocation.
+
+< MIXER_CARDSHARK >
+name=Manie des Cartes
+descr=Toutes les cartes peuvent être jouées dès le niveau 1.
+
+< MIXER_SPEEDY_BOSS >
+name=Boss Rapide
+descr=Le Boss gagne +1 MOV.
+
+< MIXER_UBI_BOSS >
+name=Boss Partout
+descr=Lorsqu'un joueur s'arrête sur une case Boss ou Terreur, le Boss s'y téléporte.
+
+< MIXER_AMBUSH >
+name=Ambuscade
+descr=Une des cartes de départ du Boss est remplacée par une de niveau supérieur.

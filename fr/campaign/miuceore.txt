@@ -1,0 +1,157 @@
+<0000> Hmm... Que devrait faire Répa ?
+<0001> Tiens, salut, Répa.\nT'as l'air préoccupée. J'me trompe ?
+<0002> ...Et voilà l'autre braillarde.
+<0003> Hein ? Braillarde ?\nC'est un compliment, ça, non ?
+<0004> ...*soupir*.\nSi seulement tu t'entendais parler, des fois.
+<0005> Si c'était le cas, je tomberais sous le charme !
+<0006> Les gens normaux ne parlent pas d'eux-mêmes ainsi...
+<0007> Ouais, ouais. T'avais l'air préoccupée, sinon. J'peux aider ? Dis-moi tout !
+<0008> C'est bon, ça va. Répa va bien...\nLaisse-la tranquille, s'il te plaît...
+<0009> Quelles manières ! C'est pas comme ça qu'on parle à ses amies...
+<0010> J'ai super-envie de travailler mon Girl Power avec toi...\nAlleeeez, steuplaaaît, j'm'ennuie...
+<0011> *soupir* Tu t'ennuies. Tout s'explique. Ceci dit... Oui, ça fera l'affaire. Miu, tu peux donner un coup de main à Répa ?
+<0012> Quoi, tu veux sortir avec moi ? D'accord ! Je te donne ma main ! Je t'aime, épouse-moi !
+<0013> Ce n'est pas ce qu'a dit Répa et tu le sais très bien...\nGarde ton visage à une distance convenable.
+<0014> Hihihi, je plaisante.\nQu'est-ce que je peux faire, alors ?
+<0015> Joue à ce jeu avec Répa.
+<0016> Un jeu ?
+<0017> Un jeu "de société"...\nRépa l'a emprunté à Sorcière Sylvestre.
+<0018> Elle affirme que c'est bien plus amusant d'y jouer à plusieurs...\nAinsi, Répa te demande d'y jouer avec elle.
+<0019> Où est-ce que Sorcière Sylvestre a trouvé un truc aussi bizarre ?
+<0020> D'après la Sorcière Sylvestre, le jeu est habité par des âmes de filles de légende.
+<0021> Des filles de légende...?
+<0022> Des filles ayant augmenté leur GP jusqu'à un niveau... ineffable.
+<0023> C'est pourquoi...\nRépa pense pouvoir gagner beaucoup de GP en jouant à ce jeu.
+<0024> Ah, tu m'as convaincue ! Allez, on y va !
+<0025> Répa te sent tout aussi intéressée qu'elle.\nDans ce cas, commençons.
+<0026> C'était un sacré défi !\nMais j'ai pas l'impression qu'elles avaient beaucoup de GP.
+<0027> Tu te trompes. Ces deux filles n'ont certes que peu de GP à elles seules, mais ensemble... le flux de GP était incommensurable.
+<0028> Oh, tu penses que c'était du... Girl Power Combiné ?\nUne affinité du GP qu'on aurait jamais vue avant ?
+<0029> Oui, exactement.\nLe GPC... Répa a comme l'impression que cette découverte nous a fait gagner en GP.
+<0030> Incroyable...! C'est comme un avant-goût de la beauté du jeu...\nOn devrait continuer à jouer !
+<0031> Évidemment.\nPassons à la seconde manche.
+<0032> Ouaah... Dis, c'était quoi, ces créatures ?\nC'était vraiment des filles ?
+<0033> Répa a failli devenir folle.\nElles étaient vraiment mignonnes...
+<0034> C'est vrai, mais j'aurais pas appelé ça du Girl Power.
+<0035> Être mignonne, c'est... c'est un prérequis pour gagner en GP.\nCependant, si tu es trop mignonne, tu finiras par dépasser le concept même de "fille".
+<0036> Le concept, carrément...?\nVa falloir rester prudentes, il faut pas que ça nous arrive.
+<0037> Comme quoi, ce jeu a beaucoup à nous apprendre...\nRépa est de plus en plus intéressée.
+<0038> Tu penses à ce que je penses ?
+<0039> Tout à fait.\nCommençons cette nouvelle manche sans plus tarder.
+<0040> Je sais pas toi, mais je m'identifie pas mal à ces deux gamines.\nC'est plutôt mignon, les filles pleines d'énergie, nan ?
+<0041> Mais tout à fait. Elles te ressemblaient en plusieurs points... Mais tu sembles oublier un détail important.
+<0042> Hein ? Lequel ?
+<0043> Leurs habits. Si simples, et pourtant si élégants.\nRépa sentait s'en dégager comme un pouvoir ancestral, comme un héritage se transmettant jour après jour.
+<0044> Ouais, t'as raison... Ces fringues avaient l'air magiques.
+<0045> Oui... la penderie est un élément clé du GP. Cette tenue possédait un tel potentiel, elle pourrait rendre toutes les filles resplendissantes.
+<0046> Tu penses que je serais magnifique si j'en portais, alors ?
+<0047> Ça paraît fou, mais Répa parierait que oui.\nVraiment, cette tenue est pour le moins miraculeuse.
+<0048> Youpi ! Je vais demander à Sorcière Sylvestre de m'en coudre une !
+<0049> Attends un peu.\nRépa en veut une aussi.
+<0050> Pourquoi on irait pas la voir ensemble, alors ?
+<0051> ...Répa va y réfléchir.\nPour l'instant, nous devrons jouer à ce jeu jusqu'à l'ennui.
+<0052> "Élégance". Cet unique mot occupe encore l'esprit de Répa.
+<0053> Quoi que j'y fasse, je pourrais jamais être comme ça, moi...\nJe perds un peu espoir, j'avoue.
+<0054> En effet, Répa craint que cela te soit impossible, Miu.\nElles rayonnaient de grâce jusque dans leurs moindres gestes.
+<0055> Je parie qu'on les a éduquées comme ça quand elles étaient gamines.
+<0056> Tu as probablement raison.\nElles appartiennent toutes deux à un environnement réservé aux plus chanceux et aux plus assidus.
+<0057> Raah, j'ose pas continuer à jouer...
+<0058> Nous avons bien trop avancé pour abandonner.
+<0059> Je sais... Et on sera pas plus belles en baissant les bras !\nOn continue !
+<0060> Elles avaient l'air de bosser dur, celles-là !
+<0061> Répa ne pensait pas voir des filles comme elles.\nC'est très mignon de les voir travailler.
+<0062> Ouais, carrément. Rone bosse dur, elle aussi, elle est trop chou quand elle se donne à fond.
+<0063> Répa voit plutôt ses activités comme une passion...\nMais ces filles-là, c'est comme si leurs cœurs brillaient de l'intérieur.
+<0064> Je sais pourquoi.\nJ'suis sûre qu'elles avaient un rêve.
+<0065> Un rêve ?\nMais elles ne dormaient pas, pourtant.
+<0066> Je parle pas de ce genre de rêves...\nMe dis pas que je dois t'expliquer, ce serait gênant...
+<0067> Répa est curieuse, maintenant. Tu lui dois une explication, Miu.
+<0068> Allez, on passe au niveau suivant !
+<0069> Répa veut que tu lui expliques...
+<0070> Ça sentait les bonnes pâtisseries de toute part...
+<0071> C'était incroyable, j'en connaissais même pas la moitié..
+<0072> On aurait dit que ces filles les ont cuisinées.
+<0073> La cuisine... C'est un fondement du Girl Power. Plus ce que tu fais est bon, plus les gens t'adorent. Du coup, 'faut toujours viser la qualité de luxe !\nEnfin, c'est l'énergie qu'elles renvoient.
+<0074> Exactement.\nRépa a adoré ce petit dessert gélatineux. Il semblait presque parfait.
+<0075> Je crois qu'on appelle ça du "pudding."\nÇa me manque déjà, j'en veux encore plus...
+<0076> Répa aussi... attends !
+<0077> Hein ? Ça va ?
+<0078> C'est succulent, les sucreries.\nMais sais-tu ce qu'il se passe quand on en mange trop ?
+<0079> Bah, t'as le bidon qui grossit et les joues qui gonflent et...\nAaaaaaah !!
+<0080> Devenir ronde réduit considérablement le GP.
+<0081> Tu penses que la pâtisserie sert à la fois à augmenter son GP... et à réduire celui des autres ?
+<0082> Brrr... Répa est sans voix.\nNous venons d'apprendre une technique de défense et d'offense simultanée.
+<0083> Ouah... On enchaîne vraiment les surprises.
+<0084> Cela prouve combien les âmes de ce jeu sont puissantes.\nSorcière Sylvestre ne doit pas être traitée à la légère.
+<0085> Trop hâte de voir qui seront les prochaines.
+<0086> Des femmes adultes...
+<0087> Des femmes travailleuses...
+<0088> Leur GP n'avait rien de remarquable, mais...
+<0089> Elles étaient vraiment incroyables.
+<0090> Une fille normale, en grandissant, devient moins mignonne, mais plus belle. C'est le solstice du GP.
+<0091> Oui, ça tombe sous le sens... Tu penses qu'on leur ressemblera un jour ?
+<0092> Hélas, non.\nTu sais bien que notre jeunesse à nous est perpétuelle...
+<0093> Pas faux... c'est bien pour ça qu'on essaie de gagner en GP.
+<0094> Tu es triste ?
+<0095> Un peu... mais on s'est bien amusées, ça devrait aller !
+<0096> Tu es si positive...\nContinuons à jouer, alors.
+<0097> Grave !
+<0098> C'est la deuxième fois qu'on affronte des femmes adultes.
+<0099> Elles étaient fantastiques.\nElles semblaient toutes deux incollables, avec toujours les choses en main.
+<0100> Je crois que je vois l'idée.\nMais, tu sais... il y a une grosse différence entre elles et celles d'avant.
+<0101> Oh, bien sûr. Elles étaient bien plus "sexy".
+<0102> Sexy l! Rien qu'à entendre le mot, je sais que je pourrais jamais être comme ça.
+<0103> Répa n'a pas plus d'espoir que toi...
+<0104> C'est vraiment une chance d'être adulte, en fait.
+<0105> Répa est d'accord, mais...
+<0106> Quoi ?
+<0107> Même si tu devenais adulte, tu ne pourrais jamais vraiment être sexy.
+<0108> Pourquoi tu dis ça !?
+<0109> Enfin, notre partie est presque terminée.
+<0110> Ah bon ? On va finir ça vite et bien, alors.
+<0111> Allons-y.
+<0112> C'était...
+<0113> Bizarre.\nMême mis à part cette dame au costume bizarre. L'infirmière était très jolie, mais...
+<0114> La beauté du corps est un don inné. Si elle arrive à la maintenir, elle doit sûrement posséder une quantité de GP inépuisable.
+<0115> Les femmes avec un corps pareil devraient être super élégantes...\nEt pourtant...!
+<0116> J'ai pas senti une once de GP en elles !
+<0117> C'était terrifiant.\nRépa pense qu'elles sont sur le point de devenir des "Girls of Death".
+<0118> G.O.D...! Le fléau des sorcières...\nMais pourquoi ?
+<0119> Répa n'en a aucune idée. Cependant, une chose est sûre...
+<0120> On doit surtout pas devenir comme elles.
+<0121> Mhm.
+<0122> Répa... je commence à paniquer.
+<0123> Répa a peur, elle aussi. Mais...
+<0124> Est-ce qu'on continue ?
+<0125> Ce jeu terrifie Répa de plus en plus. Mais cette prochaine partie est la dernière. Nous devons en venir à bout... Pas vrai ?
+<0126> Si t'as déjà pris ta décision. je suis obligée de te suivre !
+<0127> Miu... Merci.
+<0128> Allez, la dernière pa...\nOh non !!
+<0129> Que se passe-t-il...? Nous n'avons même pas commencé, et pourtant...\nUne aura énorme... une tempête de Girl Power !!
+<0130> J'ai jamais senti un Girl Power pareil...!\nQuel genre de filles ça peut être ?!
+<0131> Des Idols...
+<0132> Des Idols...
+<0133> C'était comme du GP pur et dur.
+<0134> Oui... c'est ingroyable... J'ai bas les mots.
+<0135> Miusaki, tu pleures ?
+<0136> Hein...? Ah oui, diens.\nBe zuis engore zous le joc...\nRéba, tu bleures, doi auzi.
+<0137> C'est impossible...\nLes larmes coulent des yeux de Répa comme une fontaine...
+<0138> Ahaha. C'est dire à quel point elles étaient géniales !!
+<0139> Oui, mais pas seulement elles.\nToutes les filles qu'ont a rencontrées ont touché Répa d'une façon complètement différente.
+<0140> Pareil.\nD'ailleurs, je voulais te dire un truc.
+<0141> Oui, de quoi s'agit-il ?
+<0142> Oui, les filles de ce jeu étaient trop mignonnes et tout. Mais tu l'es pas moins qu'elles, tu sais ?
+<0143> Tu flattes Répa...\nMais ça lui fait un peu plaisir...
+<0144> Bon, à ce niveau-là...\nRépa doit reconnaître qu'elle te trouve mignonne aussi.
+<0145> Merci !
+<0146> Bon, sur ce, on doit y aller.\nViens, Miusaki.
+<0147> Ah, tu vas rendre le jeu à Sorcière Sylvestre ?
+<0148> Oui, et...
+<0149> Mmmh, c'est trop bon !\nJe savais pas que Sorcière Sylvestre savait faire du pudding !
+<0150> Le voilà enfin. Ce costume dont Répa avait tant besoin. Même toi, il te va très bien, Miu.
+<0151> Toi aussi, il te va trop bien ! T'es trop chouuu !
+<0152> Rah, vous faites tellement de bruit.
+<0153> Oui... Il est rare de vous voir ensemble, vous deux.\nVous y avez joué, alors ?
+<0154> Oui, c'était merveilleux. Répa est accroc, maintenant.\nTu devrais jouer avec nous.
+<0155> Bien sûr. Mais il faudrait un autre joueur... Rone, peut-être ?
+<0156> Bonne idée ! On va bien s'amuser !

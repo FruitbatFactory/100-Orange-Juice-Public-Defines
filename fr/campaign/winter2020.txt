@@ -1,0 +1,313 @@
+
+// ========= Scene: Winter 2020 Event Start =========
+
+// (ellie)
+<0000> Oh non...
+
+// (lulu)
+<0001> Ellie... Tout va bien ?
+
+// (ellie)
+<0002> Je sens encore les effets secondaires du champignon légendaire...
+
+// (ellie)
+<0003> Pire que ça, on est bientôt à court d'argent de voyage...
+
+// (ellie)
+<0004> Et on a aucun indice sur où trouver ma maman ! Il y a rien qui va !
+
+// (ellie)
+<0005> *snif snif*... Lulu, 'faut que tu me consoles !
+
+// (lulu)
+<0006> Allons, allons.
+
+// (ellie)
+<0007> Plus, console-moi plus fort !
+
+// (lulu)
+<0008> Rah, t'es insupportable.
+
+// (ellie)
+<0009> Hein, t'as dit quoi ?
+
+// (lulu)
+<0010> Lulu disait que tu étais adorable.
+
+// (ellie)
+<0011> Je t'adore, Lulu ! T'es adorable, toi aussi !
+
+// (lulu)
+<0012> Bon, à part ça, on fait quoi, maintenant ? On trouve un travail pour se refaire de l'argent ?
+
+// (ellie)
+<0013> En vrai, on a encore assez pour payer le voyage... Le problème, c'est surtout que je sais pas où on va.
+
+// (lulu)
+<0014> On a fait que suivre ton instinct jusqu'à maintenant.
+
+// (ellie)
+<0015> Oui ! Mais je suis à bout, maintenant ! Même mon instinct débloque complètement !
+
+// (ellie)
+<0016> Peut-être que ça irait mieux avec quelques consolations de Mme. Lulu.
+
+// (lulu)
+<0017> Pff. Allons, allons.
+
+// (ellie)
+<0018> Snif... Bon, plus sérieusement... où est ma mère ?
+
+// (ellie)
+<0019> Je peux sentir qu'elle est en vie, quelque part, mais c'est tout...
+
+// (lulu)
+<0020> Ellie est désespérée. Qu'est-ce que Lulu peut faire pour l'aider...?
+
+// (lulu)
+<0021> Hmm... Hmm...
+
+// (lulu)
+<0022> Guh...
+
+// (ellie)
+<0023> Lulu ? Tout va bien ?
+
+// (lulu)
+<0024> Lulu pensait à toi...
+
+// (lulu)
+<0025> Et maintenant, elle est sur le point de pondre...
+
+// (ellie)
+<0026> Un œuf d'or ?
+
+// (lulu)
+<0027> Lulu pense... que ça sera quelque chose... d'utile... Hmm.
+
+// (lulu)
+<0028> Ça vient !
+
+// (ellie)
+<0029> Omg, c'est...
+
+// (lulu)
+<0030> Q-qu'est-ce que c'est ?
+
+// (ellie)
+<0031> Ça sent vraiment bon...
+
+// (lulu)
+<0032> Serait-ce...
+
+// (ellie)
+<0033> D-de l'omelette !?
+
+// (lulu)
+<0034> Heeiin !?
+
+// (lulu)
+<0035> Qu'est-ce qu'il se passe dans le corps de Lulu !? Pourquoi elle a pondu un œuf déjà cuisiné ?
+
+// (ellie)
+<0036> Et pourquoi de l'omelette...? Peut-être qu'en la mangeant, ça créerait un miracle...?
+
+// (lulu)
+<0037> C'est très gênant. C'est bien une omelette, mais elle vient de sortir de Lulu...
+
+// (ellie)
+<0038> Elle a vraiment l'air bonne, mais ça m'a coupé l'appétit...
+
+// (???)
+<0039> Ouah, un vrai régal !
+
+// (lulu)
+<0040> Q-quelqu'un mange l'omelette de Lulu.
+
+// (ellie)
+<0041> T'es qui, toi !?
+
+// (cook)
+<0042> Pouak ! Ah, c'était délicieux.
+
+// (cook)
+<0043> Coco était affamée, elle pouvait pas se retenir de tout dévorer. Désolée.
+
+// (ellie)
+<0044> C-c'est un poulet...?
+
+// (lulu)
+<0045> Un poulet qui mange de l'omelette ?
+
+// (cook)
+<0046> Coco n'est pas un poulet !
+
+// (halena)
+<0047> Ah, te voilà, Coco. Je te cherchais.
+
+// (cook)
+<0048> Haléna !
+
+// (halena)
+<0049> Qui sont ces deux jeunes filles...?
+
+// (cook)
+<0050> Désolée, Haléna. Cette fille a pondu de l'omelette, mais Coco a tout mangé. Elle était trop bonne !
+
+// (halena)
+<0051> Comment ça, elle a pondu de l'omelette !?
+
+// (ellie)
+<0052> C'est votre animal de compagnie !? Elle a mangé l'omelette qu'on a cuisiné avec amour sans nous demander !
+
+// (lulu)
+<0053> L'omelette de Lulu... *snif, snif*
+
+// (halena)
+<0054> Euh, j'ai un peu du mal à vous suivre. Et si vous repreniez vos esprits et que vous m'expliquiez tout ?
+
+// (halena)
+<0055> Je ne comprends toujours pas.
+
+// (cook)
+<0056> Fais un effort ! Bon, concentre-toi, Coco va te réexpliquer.
+
+// (cook)
+<0057> Cette fille a pondu une omelette. Elle avait l'air délicieuse, Coco ne pouvait pas se retenir et l'a mangée.
+
+// (ellie)
+<0058> Ouaip.
+
+// (lulu)
+<0059> C'est exactement ça.
+
+// (halena)
+<0060> Hmm... Bon, bref, Coco a mangé ton repas, alors ?
+
+// (ellie)
+<0061> C'est bien plus que ça !
+
+// (cook)
+<0062> C'était super bon.
+
+// (halena)
+<0063> Rien à faire, je bloque... Enfin, je suis désolée pour ce malentendu avec mon amie fée.
+
+// (lulu)
+<0064> Ce poulet est une fée ?
+
+// (cook)
+<0065> Coco te l'a déjà dit : Elle est pas un poulet ! C'est une fée-girouette !
+
+// (lulu)
+<0066> Mais on s'en fiche !\nOn veut récupérer notre omelette et c'est tout !
+
+// (halena)
+<0067> J'en suis vraiment navrée. De ce que j'ai pu comprendre, acheter cette omelette... ne réglerait pas le problème.
+
+// (ellie)
+<0068> Carrément pas ! Cette omelette aurait pu m'indiquer ce que je cherche !
+
+// (cook)
+<0069> Hein ? Tu cherches un truc ?
+
+// (halena)
+<0070> Dans ce cas, Coco et moi pourrions t'aider.
+
+// (cook)
+<0071> Ouais. Coco est désolée pour ton omelette, elle veut t'aider en retour !
+
+// (lulu)
+<0072> Vous pouvez... nous aider ?
+
+// (halena)
+<0073> En fait, nous sommes...
+
+// (cook)
+<0074> *gargouille*
+
+// (cook)
+<0075> Oh non. Cette omelette était trop légère, Coco a encore plus faim, maintenant...
+
+// (cook)
+<0076> Hé, si vous ramenez plein de nourriture à Coco, elle vous trouvera ce que vous cherchez.
+
+// (ellie)
+<0077> Et qu'est-ce qui nous le prouve ?!
+
+// (halena)
+<0078> Hmm, vous devriez accepter. Quand Coco n'est pas affamée, elle est capable de trouver n'importe quoi dans le monde.
+
+// (ellie)
+<0079> Elles sont frappées, ou quoi...? On dirait vraiment une arnaque...
+
+// (lulu)
+<0080> Ellie, Lulu pense que ce poulet dit la vérité et que nous devrions accepter.
+
+// (ellie)
+<0081> Hein ?
+
+// (lulu)
+<0082> Si cette fille a mangé l'omelette de Lulu, c'est peut-être le destin.
+
+// (lulu)
+<0083> Parce que les œufs d'or de Lulu accomplissent des miracles qui nous sortent toujours des mauvais pas.
+
+// (ellie)
+<0084> T'as peut-être raison... Si ton omelette a attiré ce poulet jusqu'à nous...
+
+// (cook)
+<0085> Coco veut un festin.
+
+// (ellie)
+<0086> Rah... d'accord ! C'est bon ! Donne-nous deux minutes et on va te trouver de quoi manger !
+
+// ========= Scene: Winter 2020 Event Ending =========
+
+// (cook)
+<0087> Coco est vraiment calée. Merci beaucoup, vous deux !
+
+// (cook)
+<0088> Coco est maintenant pleine de gratitude.
+
+// (halena)
+<0089> Oui, je pense qu'on peut y aller, maintenant.
+
+// (lulu)
+<0090> Aller où ?
+
+// (halena)
+<0091> Coco est une fée-girouette, elle peut guider n'importe qui jusqu'à ce qu'ils cherchent le plus.
+
+// (halena)
+<0092> Et plus elle s'attache aux personnes qu'elle accompagne, meilleure sera sa trajectoire.
+
+// (ellie)
+<0093> Du coup, ça veut dire qu'elle s'est attachée à Lulu et moi, et que maintenant, elle peut nous dire vers où aller ?
+
+// (halena)
+<0094> Exactement... Et la personne capable de trouver les itinéraires les plus courts et les plus sûrs...
+
+// (halena)
+<0095> C'est moi, Haléna ! L'exploratrice avec toutes les cartes du monde gravées en tête !
+
+// (cook)
+<0096> En équipe, Coco et Haléna deviennent les meilleures guides du monde !
+
+// (ellie)
+<0097> Ça ressemble de plus en plus à une arnaque...
+
+// (lulu)
+<0098> Lulu est d'accord.
+
+// (lulu)
+<0099> Mais c'est sûrement mieux que rien.
+
+// (ellie)
+<0100> T-tu dois avoir raison... je pense ?
+
+// (halena)
+<0101> Sur ce, en route ! Partons à la recherche de ce que vous désirez le plus trouver !
+
+// (cook)
+<0102> On y va !

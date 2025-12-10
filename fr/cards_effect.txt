@@ -1,0 +1,789 @@
+< CARD_DASH_EFFECT >
+name=Dash !
+descr=Ajoute un dé à vos jets de déplacement.
+
+< CARD_FLIPOUT_EFFECT >
+name=Partage des Pertes
+descr=La prochaine case Malus fait perdre autant d'étoiles au joueur adverse avec le plus d'étoiles.
+
+< CARD_NICEJINGLE_EFFECT >
+name=Jolis Grelots
+descr=Étoiles obtenues doublées à la prochaine case Bonus.
+
+< CARD_EXTEND_EFFECT >
+name=Extension
+descr=Au prochain KO, se relève au tour d'après.
+
+< CARD_STIFFCRYSTAL_EFFECT >
+name=Cristal Tenace
+descr=Annule l'effet du prochain piège qu'il active, et obtient (Niv. piège) x5 ★.
+
+< CARD_DANGEROUSPUDDING_EFFECT >
+name=Pudding Dangereux
+descr=Passe le prochain tour.
+
+< CARD_HEAT300_EFFECT >
+name=Surchauffe à 300%
+descr=-2 DEF au prochain combat.
+
+< CARD_SUPERALLOUTMODE_EFFECT >
+name=Mode Super-Extrême
+descr=+2 ATK au prochain combat.
+
+< CARD_PROTAGONISTPRIVILEGE_EFFECT >
+name=Privilège du Protagoniste
+descr=Attaquer en premier empêche l'adversaire de répliquer (une fois par combat).
+
+< CARD_ACCELERATOR_EFFECT >
+name=Accelerator
+descr=Ajoute un dé aux jets de déplacement, combat, bonus et malus.
+
+< CARD_BINDINGCHAIN_EFFECT >
+name=Chaînes de Stase
+descr=Passe le prochain tour.
+
+< CARD_EXTRAORDINARYSPECS_EFFECT >
+name=Facultés Stupéfiantes
+descr=Fait toujours 6 aux jets de déplacement, combat, bonus et malus.
+
+< CARD_MAGICALMASSACRE_EFFECT >
+name=Magical Massacre
+descr=-1 REC par unité à votre prochain KO.
+
+< CARD_CASTOFF_EFFECT >
+name=Libération
+descr=Échange l'ATK et la DEF. L'effet disparaît en tombant KO ou si Libération est à nouveau utilisé.
+
+< CARD_LONGEAREDBEASTS_EFFECT >
+name=Danse des Bêtes
+descr=-2 ATK à votre prochain combat.
+
+< CARD_BLAZING_EFFECT >
+name=Flamboyance
+descr=+1 ATK et -1 DEF par unité. L'effet disparaît en tombant KO.
+
+< CARD_SEALEDMEMORIES_EFFECT >
+name=Souvenirs Scellés
+descr=Les cartes en main sont retournées.
+
+< CARD_SELFDESTRUCT_EFFECT >
+name=Autodestruction
+descr=+1 ATK par unité.
+
+< CARD_CRYSTALBARRIER_EFFECT >
+name=Barrière Cristaline
+descr=Annule le prochain piège, combat ou case Malus, puis inflige 1 dégât et enlève une unité. L'effet disparaît en tombant KO.
+
+< CARD_DELTAFIELD_EFFECT >
+name=Zone Delta
+descr=Fait 1 à tous les jets de dés.
+
+< CARD_WHIMSICALWINDMILL_EFFECT >
+name=Envol Gracieux
+descr=+1 EVD le temps du combat.
+
+< CARD_HYPER_ARUSCRAMBLE_EFFECT >
+name=Cadeau de Noël
+descr=Ne peut pas défier en combat.
+
+< CARD_HYPER_SORAMILITARY_EFFECT >
+name=Réveil du Talent Caché
+descr=Fait toujours 5 aux jets de déplacement, combat, bonus et malus.
+
+< CARD_JONATHANRUSH_EFFECT >
+name=Jonathan Rush
+descr=-1 DEF le temps du combat.
+
+< CARD_TURBOCHARGED_EFFECT >
+name=Turbo-Charge
+descr=+1 ATK par unité. L'effet disparaît en tombant KO.
+
+< CARD_IMMOVABLEOBJECT_EFFECT >
+name=Structure Immuable
+descr=Immobile. Les ennemis passagers sont obligés de défier.\n+2 DEF, peut contre-attaquer.
+
+< CARD_GOLDENEGG_CHICKEN_EFFECT >
+name=Œuf d'Or
+descr=Les cases Malus prennent l'effet des cases Bonus.
+
+< CARD_GOLDENEGG_NOTCHICKEN_EFFECT >
+name=Œuf d'Or
+descr=Les cases Bonus prennent l'effet des cases Malus.
+
+< CARD_NATH_EFFECT >
+name=Extension Active
+descr=+1 ATK/DEF et -1 EVD par unité.
+
+< CARD_NONAME_EFFECT >
+name=Tête Empotée
+descr=Les statistiques de base deviennent -1 ATK/DEF/EVD. L'effet disparaît en se relevant ou en arrivant à une Maison.
+
+< CARD_AMPATK_EFFECT >
+name=Bonus d'Attaque
+descr=+1 ATK par unité.
+
+< CARD_AMPDEF_EFFECT >
+name=Bonus de Défense
+descr=+1 DEF par unité.
+
+< CARD_AMPEVD_EFFECT >
+name=Bonus d'Esquive
+descr=+1 EVD par unité.
+
+< CARD_AMPHPEVD_EFFECT >
+name=Bonus Vie et Esquive
+descr=+1 PV Max et +1 EVD par unité.
+
+< CARD_AMPMOV_EFFECT >
+name=Bonus de Déplacement
+descr=+1 MOV.
+
+< CARD_AMPHP_EFFECT >
+name=Bonus de Santé
+descr=+1 PV Max par unité.
+
+< CARD_AMPRECOVERY_EFFECT >
+name=Bonus de Récupération
+descr=-1 REC.
+
+< CARD_BOUNTY_AMPATK_EFFECT >
+name=Bonus d'Attaque
+descr=+1 ATK par unité.
+
+< CARD_BOUNTY_AMPDEF_EFFECT >
+name=Bonus de Défense
+descr=+1 DEF par unité.
+
+< CARD_BOUNTY_AMPEVD_EFFECT >
+name=Bonus d'Esquive
+descr=+1 EVD par unité.
+
+< CARD_SOLIDWITCH_EFFECT >
+name=Sorcière Solide
+descr=Invulnérable.
+
+< CARD_HYPER_SWEETEATER_EFFECT >
+name=Sweet Eater
+descr=Les statistiques de base deviennent 3 ATK et 0 DEF/EVD. L'effet disparaît en se relevant.
+
+< CARD_STEALTHON_EFFECT >
+name=Mode Invisible
+descr=Ne peut ni être défié ni être ciblé.\nN'active pas les cases Ennemi.\nAu prochain combat, +2 ATK et l'effet disparaît.
+
+< CARD_SMOKESCREEN_EFFECT >
+name=Fumée Épaisse
+descr=Jets de déplacement limités à 1, 2 et 3.
+
+< CARD_KIRIKO_EFFECT >
+name=Médicament Malsain
+descr=-1 PV Max par unité.
+
+< CARD_CUTIES_EFFECT >
+name=Starlette
+descr=+1 étoile sur les cases Bonus.
+
+< CARD_SPECIALSTAGE_EFFECT >
+name=Mode Concert
+descr=-3 MOV. N'active que les cases de déplacement. Ne peut pas utiliser de cartes.\nNe peut être ni défié ni ciblé.\nLes joueurs donnent Niv x5 étoiles s'ils terminent leur tour à deux cases de proximité.\nL'effet disparaît en tombant KO.
+
+< CARD_PATHBLOCKERS_EFFECT >
+name=Pas Si Vite !
+descr=S'arrête sur la prochaine case avec un piège.
+
+< CARD_POPPOFORMATION_EFFECT >
+name=Poppoformé
+descr=Les statistiques ATK/DEF/EVD deviennent -1 au prochain combat.
+
+< CARD_HAND_BOOST_EFFECT >
+name=Bonus de Main
+descr=+1 carte en main maximum par quantité (5 cartes max).
+
+< CARD_CHEAT_EFFECT >
+name=? ? ? ? ? ?
+descr=????
+
+< CARD_CHAINBOUND_EFFECT >
+name=Stase
+descr=-2 EVD et -1 MOV.
+
+< CARD_JOKER_EFFECT >
+name=Joker Poppo
+descr=Les cartes sont considérées comme étant gratuites et de niveau 1.
+
+< CARD_HERBAL_REMEDY_EFFECT >
+name=Remède Herborifique
+descr=Invulnérable.
+
+< CARD_ACCEL_CANDY_EFFECT >
+name=Bonbon Hyper Accel
+descr=Ajoute un dé à chaque jet.
+
+< CARD_COTTONCAKE_EFFECT >
+name=Cartes Gratuites
+descr=Les cartes ne nécessitent ni étoile ni niveau spécifique.
+
+< CARD_REDBEANCREAM_EFFECT >
+name=Glace de Tomomo
+descr=+1 ATK. L'effet disparaît en tombant KO. Ne peut pas se cumuler.
+
+< CARD_ZAPPERSWORD_EFFECT >
+name=Épée Enchantée
+descr=+1 ATK et -1 DEF permanents.
+
+< CARD_MELONPAN_EFFECT >
+name=Pain Melon
+descr=+1 DEF/EVD et -1 ATK permanents.
+
+< CARD_SMOKEBOMB_EFFECT >
+name=Bombe Fumigène
+descr=In the next battle, the enemy gains -1 ATK, DEF and EVD.
+
+< CARD_SHIELD_EFFECT >
+name=Bouclier
+descr=Diminue les dégâts reçus de 1 par unité. Perd une unité par dégât contré.
+
+< CARD_ELLIEATK_EFFECT >
+name=Miracle d'Ellie (ATK)
+descr=+1 ATK par unité.
+
+< CARD_ELLIEDEF_EFFECT >
+name=Miracle d'Ellie (DEF)
+descr=+1 DEF par unité.
+
+< CARD_ELLIEEVD_EFFECT >
+name=Miracle d'Ellie (EVD)
+descr=+1 EVD par unité.
+
+< CARD_LUCKYLUNCH_EFFECT >
+name=Repas Chanceux
+descr=+1 ATK, DEF et EVD.
+
+< CARD_ALICIANRONE_ATK_EFFECT >
+name=Dégâts de Vitesse
+descr=En croisant un adversaire, inflige 1 point de dégât par unité.
+
+< CARD_BEASTWITCH_EFFECT >
+name=Tribut Bestial
+descr=Défausse "Sorcière Bestiale" à la fin du tour.
+
+< CARD_SLOW_EFFECT >
+name=Lenteur
+descr=-1 MOV par unité.
+
+< CARD_SHROOMZOOM_EFFECT >
+name=Champi-Champion
+descr=-1 MOV par unité.
+
+< CARD_SUGURI46_EFFECT >
+name=Rejouvence
+descr=+1 dé au prochain déplacement.
+
+< CARD_SUGURI46_ATK_EFFECT >
+name=Réminiscence
+descr=+1 ATK.
+
+< CARD_MAYNIECOUNT_EFFECT >
+name=Compteur - Rage
+descr=+1 ATK/EVD par unité lorsque Folie Meurtrière est actif.
+
+< CARD_MAYNIERAGE_EFFECT >
+name=Folie Meurtrière
+descr=+1 ATK/EVD par unité.
+
+< CARD_PASSIONATERESEARCH_EFFECT >
+name=Chercheur Passionné
+descr=Peut voir une carte du dessus du deck par unité.
+
+< CARD_MINIGAME_TURNSKIP >
+name=Poppo-Péage
+descr=Passe le prochain tour.
+flavor=
+
+< CARD_MINIGAME_REVERSEMOVEMENT >
+name=Demi-Tour, Poppo
+descr=Le joueur se déplace à l'envers.
+flavor=
+
+< CARD_MINIGAME_DOUBLEDICE >
+name=Poppo-Dé
+descr=+1 dé à chaque jet.
+flavor=
+
+< CARD_MINIGAME_FROSTWALKER >
+name=Poppo Marche-Glace
+descr=Gèle les cases sur lesquelles le joueur marche pendant 1 chapitre.
+flavor=
+
+< CARD_XMAS2018_SNOWBALLFIGHTBAN >
+name=Sang-Froid
+descr=Ne peut pas déclencher de batailles de boules de neige.
+flavor=
+
+< CARD_WANTED_EFFECT >
+name=Mis à Prix
+descr=Double le nombre de Victoires données à l'assaillant au prochain KO.
+
+< CARD_SWEETDESTROYER_EFFECT >
+name=Sweet Destroyer
+descr=Transforme toutes les cartes Sucrerie en main en Pudding Dangereux ou Mauvais Pudding.
+
+< CARD_LONELYCHARIOT_EFFECT >
+name=Chariot Solitaire
+descr=Fait 5 à tous les jets de déplacement et subit 1 dégât en fin de tour.\nL'effet disparaît en tombant KO.
+
+< CARD_PRESIDENTPRIVILEGE_EFFECT >
+name=Privilège du Délégué
+descr=Peut jouer n'importe quelle carte gratuitement.
+
+< CARD_SANTASJOB_EFFECT >
+name=Service de la Mère Noël
+descr=Peut envoyer une carte utilisable de sa main en début de tour à un joueur au hasard, et gagne 5 étoiles par niveau de la carte.
+
+< CARD_BANNEDFORLIFE_EFFECT >
+name=Banni à Vie
+descr=Ne peut que jouer les cartes Cadeau.
+
+< CARD_EVILSPYWORKEXEC_EFFECT >
+name=Plan d'Infiltration ― Exécution
+descr=Subit 3 dégâts en fin de tour.
+
+< CARD_REDBEANICECREAM_EFFECT >
+name=Glace Miracle
+descr=+1 ATK par unité.
+
+< CARD_REDBLUE_EFFECT >
+name=Rougeon & Bleuet
+descr=+1 ATK/DEF/EVD par unité.
+
+< CARD_BEASTWITCHGIFT_EFFECT >
+name=Sorcière Bestiale
+descr=Le joueur reçoit les étoiles que les autres joueurs perdent en tombant KO sur une case Ennemi.
+
+< CARD_UNLUCKYCHARM_EFFECT >
+name=Talisman Porte-Malheur
+descr=Perd son Niveau en étoiles à chaque début de tour.
+
+< CARD_WINDYENCHANTMENT_EFFECT >
+name=Sort de Vent
+descr=+1 MOV. Ne peut pas valider de Quotas.
+
+< CARD_LOSTCHILD_EFFECT >
+name=Enfant Perdu
+descr=Se déplace à l'envers. Ne peut pas valider de Quotas.
+
+< CARD_PRICEOFPOWER_EFFECT >
+name=Prix du Pouvoir
+descr=Peut jouer les cartes au niveau supérieur de 1 au sien. Chaque carte coûte 5 étoiles de plus.
+
+< CARD_POPPOSNATCHER_EFFECT >
+name=Poppo la Chipeuse
+descr=-1 DEF. En croisant un adversaire, vole (Niv. adv.) x3 étoiles. Ne peut pas valider de Quotas.
+
+< CARD_BLOODLUST_EFFECT >
+name=Soif de Sang
+descr=Perd 1 PV à chaque début de tour. Soigne 1 PV par dégât infligé. Ne peut pas valider de Quotas.
+
+< CARD_LUCKYCHARM_EFFECT >
+name=Talisman Porte-Bonheur
+descr=Gagne (Niv. joueur) étoiles en début de tour. Ne peut pas utiliser d'autres cartes.\nDonne (Niv. joueur) x3 étoiles en plus en perdant un combat.
+
+< CARD_MONOCOQUE_EFFECT >
+name=Monocoque Métallique
+descr=Réduit les dégâts subis hors-combat de 1. Le joueur perd (Niv. joueur) x2 ★ à la place.
+
+< CARD_SAINTEYES_EFFECT >
+name=Œil du Saint
+descr=Si vous attaquez en premier en combat : +1 ATK par unité impaire, et +1 DEF par unité paire.
+
+< CARD_CHEFSUMMON_EFFECT >
+name=Chef, J'ai Besoin d'Aide !
+descr=Chef Cuisinier combat à sa place. Permet à Chris de défier les adversaires.
+
+< CARD_MANAGERSUMMON_EFFECT >
+name=Patron, J'ai Besoin d'Aide !
+descr=Le Patron du Magasin combat à votre place. Permet à Chris de défier les adversaires.
+
+< CARD_MANAGERCOUNTER_EFFECT >
+name=Compteur - Patron
+descr=Avoir au moins 4 unités avec un Niveau d'au moins 4 change la carte "Chef, J'ai Besoin d'Aide !" en "Patron, J'ai Besoin d'Aide !".
+
+< CARD_BOSSROBOBARRIER_EFFECT >
+name=Bouclier
+descr=Annule 1 point de dégât.
+
+< CARD_BOSSROBOREPAIR_EFFECT >
+name=Auto-Réparation
+descr=Si cet effet est à 3 unités, soigne 1 PV en début de tour, puis les unités disparaissent.
+
+< CARD_BOSSROBOSLOWSTART_EFFECT >
+name=Début Calme
+descr=-1 MOV.
+
+< CARD_PHILOSOPHERSTONE_EFFECT >
+name=Pierre Philosophale
+descr=À chaque chapitre, confère 4 étoiles bonus, +1 étoile tous les 5 chapitres.
+
+< CARD_PERMARECREDUCTION_EFFECT >
+name=Énergique
+descr=-1 REC permanent.
+
+< CARD_TEMPRECREDUCTION_EFFECT >
+name=Bonus de Vitalité
+descr=-1 REC par unité au prochain KO.
+
+< CARD_SHOKUPAN_EFFECT >
+name=Régénération
+descr=Soigne 1 PV par unité à chaque début de tour.
+
+< CARD_RADAR_EFFECT >
+name=Observateur
+descr=Peut localiser tous les monstres.
+
+< CARD_PRECISIONGOGGLES_EFFECT >
+name=Œil de Lynx
+descr=+2 de portée en jetant un objet.
+
+< CARD_POISONED_EFFECT >
+name=Empoisonné
+descr=Inflige 1 dégât par unité en début de tour.
+
+< CARD_HARBINGER_FAME >
+name=Tueur de Bleus
+descr=+1 Gloire par unité (6 Max). La Gloire accumulée s'ajoute à la récompense de Gloire attribuée en vainquant Apocalypse.
+
+< CARD_HARBINGER_SOULEATER >
+name=Dévorâme
+descr=À 3 unités, soigne tous les PV de l'envahisseur, puis tout le monde subit "Condamnation".
+
+< CARD_HARBINGER_AWAKENED >
+name=Dévorâme Éveillé
+descr=+1 PV Max, +1 ATK, -1 DEF permanents.
+
+< CARD_DOOM_EFFECT >
+name=Condamnation
+descr=En fin de durée, vous tombez KO en début de tour. Disparaît en vainquant Apocalypse, en vous arrêtant à une auberge ou en tombant KO.
+
+< CARD_DARKCHOCOMOUSSE_STAREATER >
+name=Croqueuse d'Étoiles
+descr=À 3 unités, soigne tous les PV de l'envahisseur, puis tout le monde subit "Dette".
+
+< CARD_DARKCHOCOMOUSSE_AWAKENED >
+name=Croqueuse d'Étoiles Éveillée
+descr=+1 PV Max, +1 ATK, -1 DEF permanents.
+
+< CARD_CHOCOLATEDOOM_EFFECT >
+name=Dette
+descr=En fin de durée, vous donnez (votre Niv.) x10 étoiles à Maousse Chocolat Noir. Disparaît en vainquant Maousse Chocolat Noir, en vous arrêtant à une auberge ou en tombant KO.
+
+< CARD_DARKCHOCOMOUSSE_FAME >
+name=Tueuse de Bleus
+descr=+1 Gloire par unité (6 Max). La Gloire accumulée s'ajoute à la récompense de Gloire attribuée en vainquant Maousse Chocolat Noir.
+
+< CARD_SPIKEDSHIELD_EFFECT >
+name=Bouclier Épineux
+descr=Réduit les dégâts subis de 1. Inflige (score d'atk adv.) - (votre score de def.) à l'adversaire.
+
+< CARD_BATTLEAXE_EFFECT >
+name=Hache de Bourreau
+descr=+1 ATK et -1 EVD permanents.
+
+< CARD_CURSEDSWORD_EFFECT >
+name=Épée Maudite
+descr=+2 ATK, -1 DEF/EVD/PV Max permanents.
+
+< CARD_CURSEDAXE_EFFECT >
+name=Hache Maudite
+descr=20% de chance de faire un coup critique et 10% de chance de rater l'attaque.
+
+< CARD_CURSEDBOUNTY_EFFECT >
+name=Prime Maudite
+descr=La prochaine prime rapporte +2 Gloire. La compléter fait tomber à 1 PV/PV Max jusqu'à la prochaine auberge ou le prochain KO.
+
+< CARD_CURSEDMARK_EFFECT >
+name=Marque Maudite
+descr=Cette dernière prime vous a maudit ! Allez dans une auberge pour vous rétablir.
+
+< CARD_CURSEDICECREAM_EFFECT >
+name=Glace aux Haricots Violets
+descr=+2 ATK et -3 PV Max (min. 1). L'effet disparaît en tombant KO.
+
+< CARD_BRAVERYUP_EFFECT >
+name=Chasseur Sans Crainte
+descr=Vaincre Apocalypse vous fait gagner en bravoure. Entrer en combat retire une unité et réduit tous les dégâts subis de 1.
+
+< CARD_CONTRACTCURSE_EFFECT >
+name=Malédiction du Contrat
+descr=Un de vos contrats ou plus est maudit et disparaîtra si vous n'y remédiez pas.
+
+< CARD_OVERTIME_EFFECT >
+name=Heures Sup.
+descr=Jette 3 dés aux jets de déplacement.
+
+< CARD_CLOCKEDOUT_EFFECT >
+name=Heure de Repos
+descr=Passe le prochain tour.
+
+< CARD_HOMEIMPROVER_EFFECT >
+name=Travail Fait-Maison
+descr=Les Maisons échangent de position en fin de durée.
+
+< CARD_LUCKYSEVENS_EFFECT >
+name=Dé à 8 faces
+descr=Les jets de dés varient de 0 à 7, avec 0 comme score minimum au lieu de 1.
+
+< CARD_LUCKYZERO_EFFECT >
+name=Face 0
+descr=Ne peut pas valider de Quotas.
+
+< CARD_LOSTPRESENTS_EFFECT >
+name=Cadeaux Perdus
+descr=Pioche 1 carte par unité en fin de durée.
+
+< CARD_GUIDANCE_EFFECT >
+name=Girouette
+descr=Jette 2 dés à chaque action hors-combat. L'effet prend fin en s'arrêtant sur sa propre Maison. Ne peut pas valider de Quotas sur une autre maison.
+
+< CARD_SAFEJOURNEY_EFFECT >
+name=Voyage Sécurisé
+descr=Perd 5 étoiles à chaque début de tour. Insensible aux cases Malus, aux pièges et aux dégâts de carte. Disparaît en arrivant sur sa propre Maison ou à moins de 5 étoiles.
+
+< CARD_HUNGRY_EFFECT >
+name=Affamée
+descr=-1 EVD à 3 unités. L'effet disparaît en arrivant sur sa Maison.
+
+< CARD_GUIDANCE_BH_EFFECT >
+name=Girouette
+descr=Jette 2 dés à chaque action hors-combat. L'effet prend fin en s'arrêtant sur une Maison.
+
+< CARD_UPSHIFT_EFFECT >
+name=Vitesse Supérieure
+descr=+1 MOV par unité.
+
+< CARD_LONELYRIDE_EFFECT >
+name=Route Déserte
+descr=+1 ATK/DEF et +2 EVD.
+
+< CARD_ZEALOUSSALESMAN_EFFECT >
+name=Vendeur Assidu
+descr=+1 ATK par unité.
+
+< CARD_NEWNOBILITY_EFFECT >
+name=Charme de Noblesse
+descr=-1 ATK, DEF ou EVD au prochain combat.
+
+< CARD_AFFLUENCE_EFFECT >
+name=Invités de la Princesse
+descr=-3 ATK pendant ce combat.
+
+< CARD_RECOVERY_DOWN_EFFECT >
+name=Malus de Récupération
+descr=+1 REC par unité.
+flavor=
+
+< CARD_MESCAL_COOLDOWN_EFFECT >
+name=Je Sais Me Débrouiller Toute Seule !
+descr=Empêche les Pirates de prendre la place de Mescal en combat.
+flavor=
+
+< CARD_FORCED_DEPARTURE_EFFECT >
+name=Départ Forcé
+descr=En fin de durée, l'envahisseur quitte le plateau.
+
+< CARD_IDEALWORLD_EFFECT >
+name=Invasion Robotique
+descr=La prochaine case Ennemi non-boss invoque un Roboulon avec +1 ATK.
+
+< CARD_HARDENEDSCALES_EFFECT >
+name=Écaille Durcie
+descr=+1 ATK par unité. L'effet disparaît en tombant KO.
+
+< CARD_GOODESTBOY_EFFECT >
+name=Meilleur Bon Chien
+descr=Immunisé aux effets KO instantané et ne peut ni défier ni être défié. Les joueurs peuvent s'arrêter pour le caresser à la place. Obtient une copie d'une carte de la main des joueurs sur la même case. L'effet disparaît en tombant KO.
+
+< CARD_BOMBIMMUNITY_EFFECT >
+name=Immunité aux Explosions
+descr=Immunisé à toutes les explosions jusqu'au prochain chapitre.
+
+< CARD_ARTOFSWORD_EFFECT >
+name=Art de l'Épée
+descr=+1 ATK permanent.
+
+< CARD_ARTOFSHIELD_EFFECT >
+name=Art du Bouclier
+descr=+1 DEF permanent.
+
+< CARD_ARTOFEVASION_EFFECT >
+name=Art de l'Évasion
+descr=+1 EVD permanent.
+
+< CARD_RESOLUTE_EFFECT >
+name=Art de l'Auto-Persuasion
+descr=-1 REC permanent.
+
+< CARD_STIMULATION_EFFECT >
+name=Stimulation
+descr=+1 PV Max permanent.
+
+< CARD_CARRIER_EFFECT >
+name=Grandes Poches
+descr=+1 Max. de cartes et de Contrats en main.
+
+< CARD_PREMIUMMEMBERSHIP_EFFECT >
+name=Carte de Fidélité
+descr=Réduction de 30% sur tous les articles (excepté le Marchand Douteux).
+
+< CARD_JOGGER_EFFECT >
+name=Coureur
+descr=+1 MOV au prochain tour après avoir fini son déplacement sans interruption.
+
+< CARD_JOGGING_EFFECT >
+name=En course
+descr=+1 MOV au prochain jet de déplacement par unité.
+
+< CARD_PLENTIFULHARVEST_EFFECT >
+name=Récolte Fructueuse
+descr=Obtient des étoiles en récompense de Primes.
+
+< CARD_COMMANDER_EFFECT >
+name=Commandant
+descr=Prend le contrôle de ses familiers.
+
+< CARD_SWEETMOUNTAIN_EFFECT >
+name=Montagne de Sucreries
+descr=Peut jouer les cartes Bonus à volonté et à 1/3 de leur prix initial.
+
+< CARD_CHAOS_PROTECT_EFFECT >
+name=Protection Chaotique
+descr=Réduit les dégâts de 1 (-2 max) pour un minimum de 1 et enlève une unité par dégât subi.
+
+< CARD_CHAOS_HYPE_EFFECT >
+name=Hype
+descr=Elle a la hype.
+
+< CARD_CHAOS_RAMPAGE_EFFECT >
+name=Carnage Chaotique
+descr=+1 ATK par unité.
+
+< CARD_CHAOS_MUSCLE_EFFECT >
+name=Muscles Chaotiques
+descr=+1 ATK de base par unité (+3 ATK de base Max).
+
+< CARD_CHAOS_GUARD_EFFECT >
+name=Garde Chaotique
+descr=+1 DEF de base par unité (+3 DEF de base Max).
+
+< CARD_CHAOS_SPEED_EFFECT >
+name=Vitesse Chaotique
+descr=+1 EVD de base par unité (+3 EVD de base Max).
+
+< CARD_CHAOS_LAUNCH_EFFECT >
+name=Décollage Chaotique
+descr=En début de tour, atterrit sur la case marquée, infligeant (Niv.) dégâts à tous les joueurs sur un rayon de 2 cases, et (Niv.) x2 à tous les joueurs sur les cases adjacentes.
+
+< CARD_CHAOS_DIVE_FATIGUE_EFFECT >
+name=Atterrissage
+descr=Ne peut pas valider de Quotas.
+
+< CARD_BOMBIMMUNITY_EFFECT >
+name=Immunité aux Explosions
+descr=Les bombes ne vous infligent aucun dégât jusqu'au prochain chapitre.
+
+< CARD_HOTPOTATO_EFFECT >
+name=Gremlin en Main
+descr=Donnez-la vite à quelqu'un d'autre avant d'exploser !
+
+< CARD_SLUMBERTHREATS_EFFECT >
+name=Atteinte à mon Sommeil
+descr=Confère 1 unité de Réveil lorsque précisément 1 dégât est contré en combat.
+
+< CARD_WAKING_EFFECT >
+name=Réveil
+descr=Total d'atteintes au sommeil de cette personne.
+
+< CARD_PRISONBREAK_EFFECT >
+name=Évasion Imaginaire
+descr=Ne peut être ni défié, ni ciblé. N'active pas les pièges. Invulnérable hors-combat. +1 dé aux jets de déplacement. Enlève 1 unité par case parcourue.
+
+< CARD_MOTHERPOWER_EFFECT >
+name=Pouvoir Maternel
+descr=Obtient son Niveau en étoiles par dégât subi.\nSoigne tous les PV lorsque la durée arrive à 0.\nL'effet disparaît en tombant KO.
+
+< CARD_HYPERMIRACLE_EFFECT >
+name=Hyper Miracle d'Ellie
+descr=En attaque, +1 ATK par unité.\nEn défense, +1 DEF/EVD par unité.
+
+< CARD_MOMENTOFGLORY_EFFECT >
+name=Moment de Gloire
+descr=+2 ATK et +5 EVD.
+
+< CARD_HKAIPASSIVE_EFFECT >
+name=Second Souffle
+descr=En fin de durée, tombe KO si encore à 1 PV.
+
+< CARD_WARPCONTROL_EFFECT >
+name=Contrôle des Portails
+descr=Activer une case Portail laisse choisir sur quelle autre case Portail se téléporter.
+
+< CARD_NANAKOBIT_EFFECT >
+name=Crok de Nanako
+descr=+1 en ATK, DEF ou EVD au hasard en entrant en combat, et perd 7 étoiles.
+
+< CARD_CANNONBALL_EFFECT >
+name=Boulets de Canon
+descr=Obtenu en jouant une carte.
+
+< CARD_BOURBON_EFFECT >
+name=Vieux Os
+descr=-1 PV Max par unité. L'effet disparaît en tombant KO.
+
+< CARD_HEART_OF_RESISTANCE_EFFECT >
+name=Cœur de la Résistance
+descr=Si le joueur n'est pas KO, prend la place du joueur qu'il a ciblé à son prochain combat.
+
+< CARD_HYPER_POYO_EFFECT >
+name=Super Pouvoir de la Jeunesse
+descr=Double le résultat des jets de dés en Attaque, Défense, Esquive, Déplacement, Bonus et Malus.
+
+< CARD_HYPER_CHUU_EFFECT >
+name=Concentration
+descr=+1 ATK par unité. Vaincre des ennemis ne donne aucune étoile. +2 Victoires la première fois qu'un joueur adverse est vaincu.
+
+< CARD_CHAOS_SLAYER_EFFECT >
+name=Âme du Faucheur
+descr=Vous et vos âmes sœurs êtes unis par un lien magique.\n-REC 1, vous jetez toujours 2 dés de déplacement. Vous pouvez soignez et relever vos âmes sœurs.
+
+< CARD_CHAOS_TANK_EFFECT >
+name=Âme du Tank
+descr=Vous avez pour mission d'écraser vos adversaires.\n+2 ATK, PV Max grandement élevé. Immunisé aux effets de KO et de réduction de PV. Les effets de soin sont ignorés.
+
+< CARD_CHAOS_TERRORIZE_EFFECT >
+name=Terrorisé
+descr=+3 REC jusqu'à ce que vous soyez relevé.
+
+< CARD_HYPER_HARUKA_GLOBAL_EFFECT >
+name=Ambianceuse
+descr=Relève les joueurs KO avec tous leurs PV.
+
+< CARD_HYPER_HARUKA_PERSONAL_EFFECT >
+name=Quelle Ambiance !
+descr=Si un autre joueur tombe KO, gagne (Niv. joueur) x5 étoiles. Cumuler l'effet multiplie les gains d'étoiles.
+
+< CARD_INTELLECTUALBLUFF_EFFECT >
+name=Bluff d'Intello
+descr=Si la prochaine carte jouée est du type prédit par l'applicant, ce dernier gagne 2 Victoires et (Niv.) x10 étoiles.\nSi l'applicant a menti sur le type déclaré et s'est trompé, il subit 2 dégâts.
+
+< CARD_TICKEDOFF_EFFECT >
+name=Tu Me Cherches !?
+descr=Gagne +2 ATK en commençant un combat à 1 PV.
+
+< CARD_LONGARMS_EFFECT >
+name=Bras Très Très Longs
+descr=Contre 5 étoiles, peut poser un piège n'importe où sur un rayon de 2 cases. Le niveau requis pour toutes les cartes (sauf Piège et Cadeau) augmente de 1 (5 max).
+
+< CARD_BURNINGPANEL_EFFECT >
+name=Case Brûlée
+descr=Cette carte est en feu. Commencer ou arrêter son tour dessus inflige 1 dégât.
+
+[EOF]
+

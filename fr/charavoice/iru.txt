@@ -1,0 +1,160 @@
+<0000> Hop-là !
+<0001> Allez, un beau score.
+<0002> Toooh !
+<0003> Tu me trahis pas, hein ?
+<0004> Je joue une carte !
+<0005> C'est le bon moment pour la jouer !
+<0006> Allez, celle-là !
+<0007> Héhéhé, c'est parti !
+<0008> Un piège !
+<0009> Je sais aussi faire ça, moi !
+<0010> Allez, plus qu'à voir qui va l'activer.
+<0011> Héhé, c'est un bon piège, ça.
+<0012> T'as aucune chance !
+<0013> J'augmente ma puissance.
+<0014> Carte Combat !
+<0015> Je vais t'écraser !
+<0016> Prenez ça !!
+<0017> *soupir* Je vais rester prudente.
+<0018> C'est bon, j'arrive à me lever.
+<0019> Je vais enfin changer la donne !
+<0020> La partie fait que commencer !
+<0021> Je m'suis ratée...
+<0022> Toujours pas ? Hmm...
+<0023> Je vais me reposer encore un peu, alors.
+<0024> Ghh...
+<0025> J'vais te transpercer !
+<0026> Tiens !
+<0027> Je vais t'abattre !
+<0028> Alors !?
+<0029> Ouille !
+<0030> T'as vraiment fait ça !?
+<0031> Aïe !
+<0032> Ouah !
+<0033> J'suis guérie !
+<0034> Pfiou, j'me sens mieux.
+<0035> Ça y est, je récupère !
+<0036> C'est bon, j'suis repartie !
+<0037> Un portail !?
+<0038> Ouaah !
+<0039> Hein !?
+<0040> C'est un portail !
+<0041> Attendez un peu, que je récupère.
+<0042> Ghh... je tiens plus debout.
+<0043> Guh...
+<0044> J'ai fait une erreur...
+<0045> Viens te battre !
+<0046> On va se battre, toi et moi !
+<0047> Allez, au combat !
+<0048> Au combat !
+<0049> Oh ? Ouais, grave !
+<0050> Héhé, ok ! Vas-y, donne tout !
+<0051> T'es motivé, toi.
+<0052> Pas question de perdre !
+<0053> Teyaah !
+<0054> Bouge pas, ok ?
+<0055> Prends ça !
+<0056> Feu !
+<0057> Kya !
+<0058> Ouah !
+<0059> Pas mal !
+<0060> Ouap !
+<0061> Ça fait mal !!
+<0062> Ouaargh !
+<0063> Tu trouves ça marrant !?
+<0064> C'est brutal !
+<0065> Et c'est raté !
+<0066> Beaucoup trop lent !
+<0067> Yop.
+<0068> Hahaha, tu me visais, là ?
+<0069> Fastoche !
+<0070> J'ai réussi !
+<0071> C'était marrant ! On en refera !
+<0072> Victoire !
+<0073> Ah, tu m'as bien eue...
+<0074> T'es balèze, en fait. Impressionnant.
+<0075> Hmm... J'peux pas y croire.
+<0076> Ghh... J'peux plus bouger.
+<0077> Voilà des étoiles !
+<0078> C'est comme ça qu'on a des étoiles ?
+<0079> Ouah, des étoiles !
+<0080> Une chance !
+<0081> Une erreur !
+<0082> Mes étoiles sont tombées !?
+<0083> Gyaaa !
+<0084> Attendez ! Stop !
+<0085> Un piège !?
+<0086> Qu'est-ce que ça fait là !?
+<0087> J'me suis fait avoir !
+<0088> Ici, vraiment...!?
+<0089> Ouah, v'là un boss, carrément !
+<0090> Gros machin en approche.
+<0091> 'faut surtout pas que je baisse ma garde face à lui.
+<0092> Il a l'air... vraiment très fort.
+<0093> Hmm... J'veux chercher des étoiles !
+<0094> J'vais gagner des étoiles, puis la partie !
+<0095> Il faut des étoiles ? Ok, bien reçu !
+<0096> C'est joli, les étoiles, non ?
+<0097> J'vais me battre comme jamais !
+<0098> On va s'battre !
+<0099> Finalement, j'ai choisi de me battre !
+<0100> C'est bien ce que je fais le mieux !
+<0101> Salut, moi c'est Iru !
+<0102> Moi ? Ouais, ok, on y va !
+<0103> Allez, on va leur montrer !
+<0104> Compte sur moi !
+<0105> Allez, j'vais faire de mon mieux !
+<0106> J'vais gagner pour sûr !
+<0107> Allez, on va bien s'amuser !
+<0108> J'vais tous les écraser !
+<0109> J'me suis amusée ! Vous voulez en refaire ?
+<0110> Youpi ! J'ai gagné !
+<0111> Victoire !
+<0112> Pft ! J'ai gagné, et c'est pas étonnant.
+<0113> Super ! C'est nouveau, ça !
+<0114> Tu t'es trouvé un truc ? Génial !
+<0115> C'est ce que tu voulais ?
+<0116> C'est plutôt pas mal, ça !
+<0117> À ton tour !
+<0118> On peut échanger ?
+<0119> J'te passe le relai !
+<0120> 'faut qu'on échange !
+<0121> Ok !
+<0122> D'ac'.
+<0123> Ouais !
+<0124> Non.
+<0125> Hm...
+<0126> Pas mal !
+<0127> Hmm ?
+<0128> Allez, on y va !
+<0129> Je jette les dés !
+<0130> C'est parti !
+<0131> Yah !
+<0132> Hmmm...
+<0133> Oh, trop bien !
+<0134> C'est génial ! Trop génial !
+<0135> Quoi...? C'est une blague...?
+<0136> Je vais jouer cette carte.
+<0137> Héhé, j'avais vraiment hâte de l'essayer.
+<0138> Qu'est-ce que ça fait, ça ?
+<0139> Chaipas ce que ça vaut, mais j'essaie !
+<0140> Saki, on devrait se battre, des fois !
+<0141> Hein, tu veux te battre ?\nSi je gagne, j'aurai un gâteau ?
+<0142> Héhé, tu me dois un gâteau, maintenant !
+<0143> Héhéhé, t'es trop forte.
+<0144> Hé, je peux voir un peu ton matos ?
+<0145> Ouah, il est cool, ton matos !
+<0146> C'était un beau combat ! 'faudra qu'on en refasse !
+<0147> T'as vraiment du beau matos...\nJe regrette pas d'avoir perdu.
+<0148> Trop bien, un avion rétro ! Super stylé !
+<0149> C'est ton avion ? Ouah, trop trop cool !
+<0150> On pourra faire un tour en avion, la prochaine fois !?
+<0151> Je t'ai sous-estimé...\nMême avec un avion rétro, t'es très fort...
+<0152> Salut, Kyoko ! ...Attends, t'es qui, toi !?
+<0153> Hein !? Kyoko... non, c'est pas elle !!
+<0154> C'était qui, ce mec, à la fin ?
+<0155> Ghh... mais t'es qui, toi, d'abord...?
+<0156> Ouah ! J'ai le droit de l'affronter ? Oui !?
+<0157> Hein ? 'faut vraiment que je l'affrnte !?
+<0158> J-j'ai gagné ! Pas croyable !
+<0159> C'est pas juste... c'est un robot géant...

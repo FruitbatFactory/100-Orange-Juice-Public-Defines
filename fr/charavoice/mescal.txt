@@ -1,0 +1,161 @@
+<0000> Hop !
+<0001> Ey !
+<0002> Allez !
+<0003> Teï !
+<0004> Je joue une carte !
+<0005> J'vais jouer ça, moi.
+<0006> En cas de pépin, j'ai toujours une carte !
+<0007> Ça a l'air marrant ! Ouii !
+<0008> Ok, je suis p'tite, mais 'faut pas me sous-estimer...
+<0009> J'suis l'aviatrice la plus maligne des cieux.
+<0010> Héhéhé...
+<0011> Ça s'ra une belle surprise.
+<0012> Et voilà ma botte secrète !
+<0013> J'ai appris ce coup-là l'aut' jour !
+<0014> Hmm... Si je joue ça ici...
+<0015> Hm... ouais ! J'vais y aller à fond !
+<0016> Allez ! Mini Magnum !
+<0017> Hein...? Il fait jour...?
+<0018> Hé, papa ! Le p'tit déj' est servi ?
+<0019> Ça va être une bonne journée !
+<0020> Et c'est r'parti !
+<0021> C'est pas marrant !
+<0022> C'est trop nul !
+<0023> C'est trop long ! J'veux faire des trucs, moi !
+<0024> J'veux aller jouer, moi !
+<0025> Yaaar !
+<0026> Punition !
+<0027> Canon de la justice !
+<0028> À l'attaaaaaque !
+<0029> Ouaah !
+<0030> Non !
+<0031> Ça fait mal-euh !
+<0032> Arrête !
+<0033> Super ! Merci !
+<0034> Cool ! Continue de me soigner !
+<0035> Hihihi, c'est trop bien.
+<0036> Aahh, ça fait trop du bien !
+<0037> Nouvelle trajectoire !
+<0038> Ooohh... C'est quoi, ça ?
+<0039> Ç-ça m'a fait peur...
+<0040> J-j'ai la tête qui tourne...
+<0041> Maaiiis... j'ai pas sommeil...
+<0042> Nooon ! J'voulais continuer à jouer !
+<0043> Ouiiiin...!
+<0044> C'est promis, je ferai gaffe la prochaine fois...
+<0045> J'te défie !
+<0046> J'suis la meilleure pilote du monde ! Viens t'battre !
+<0047> Viens, on va jouer... euh, s'entraîner !
+<0048> Hé, toi ! File-moi toutes tes affaires, et vite !
+<0049> C'est bien courageux de m'affronter...!
+<0050> Je r'lève le défi !
+<0051> Oh, en v'là, un challenger courageux...
+<0052> Au combat !
+<0053> Paré... feu !
+<0054> Vas-y, esquive ça si t'es cap' !
+<0055> Hahaa !
+<0056> Ouahahaha !
+<0057> Ouahhh...!
+<0058> Hé, oh !
+<0059> P-pas mal...
+<0060> J'vais le dire à papa !
+<0061> Ouiiiin ! Papaaa !
+<0062> Ouiin ! J'te pardonnerai jamais...
+<0063> J'perds en altitude !
+<0064> Non ! J'vais m'écraser !
+<0065> En cas d'attaque imminente... Hop !\n*soupir* Fastoche.
+<0066> J'ai réussi !
+<0067> Hm...? Oh, c'était fastoche.
+<0068> Hmm... hop-là !
+<0069> Héhé !
+<0070> Hihihi ! J'suis tellement forte !
+<0071> J't'avais dit qu'jétais la meilleure pilote du monde !
+<0072> Alors, c'était comment, papa ?
+<0073> J'veux rentrer à la maison...
+<0074> Ouiiin, on m'embête !
+<0075> Papa, viens lui régler son compte !
+<0076> Ouiin ! Méchant !
+<0077> Ouaah ! Ça brille !
+<0078> Oohh ! C'est comme quand on vole haut la nuit...
+<0079> Oh ? C'est quoi, ça, par terre ?
+<0080> Un trésor !?
+<0081> J'ai fait tomber un truc ? Bah, tant pis.
+<0082> Hein ? Mon argent d'poche !
+<0083> Hé ! Elles sont passées où !?
+<0084> Non, touchez pas à mon trésor !
+<0085> Qui a fait ça ? C'est trop méchant !
+<0086> Raah, c'est nul !
+<0087> Ouiin ! C'est trop nul !
+<0088> Qui peut faire un truc pareil !?
+<0089> O-ho... Enfin, un adversaire de taille !
+<0090> Tu m'fais pas peur !
+<0091> C'est quoi, ça ? Trop bizarre !
+<0092> Il est gros, mais il est lent... ça va être facile !
+<0093> J'pars chasser des trésors !
+<0094> J'aime bien les bijoux, moi !
+<0095> Pff... je sais pas si j'aurai le temps.
+<0096> Alors... la première mission d'aujourd'hui...
+<0097> Ça va être super fastoche.
+<0098> Tranquille, j'reste la meilleure pilote au monde.
+<0099> Ok, aujourd'hui, j'm'entraîne comme jamais !
+<0100> Il doit bien y avoir deux-trois cibles faciles.
+<0101> Moi c'est Mescal ! Ravie de te rencontrer !
+<0102> Tu veux jouer avec moi ?
+<0103> J'ai comme une envie de jeux de plateau...
+<0104> On va bien s'amuser !
+<0105> J'vais faire de mon mieux !
+<0106> J'gagnerai coûte que coûte !
+<0107> Ça a l'air marrant, par ici !
+<0108> On y va !
+<0109> Youpi ! On a gagné !
+<0110> J'suis trop contente !
+<0111> On a réussi !
+<0112> Mon histoire fait que commencer !
+<0113> Ça a l'air bien, ça !
+<0114> Ouah ! Un trésor !
+<0115> Oo-hoo, ça doit valoir une grosse fortune...
+<0116> Tu d'vrais en prendre soin.
+<0117> Toi ! Prends ma place !
+<0118> J'ai b'soin d'un peu de calme...
+<0119> C'est l'heure du goû-... de la pause tactique !
+<0120> Bonne chance !
+<0121> Bien reçu !
+<0122> Super !
+<0123> Ok~
+<0124> Euhh... non.
+<0125> Oh non !
+<0126> Oooh ! Trop bien !
+<0127> Hein... quoi ?
+<0128> Allez, on y va !
+<0129> Roulez bien, les dés !
+<0130> Allez, allez, allez !
+<0131> You-ouh !
+<0132> Heiin...? Hmm...
+<0133> Cool !
+<0134> Ouahh !
+<0135> Hein, quoi ? Quoi !?
+<0136> C'est à moi, maint'nant ! J'en fait c'que j'veux !
+<0137> J'l'ai trouvé, c'est à moi, maintenant !
+<0138> Tranquille, j'sais exactement c'que ça fait !
+<0139> Arme secrète ! Feu !
+<0140> Ah, merci !
+<0141> Salut, grande sœur ! Tu fais quoi ?
+<0142> Hé oh, grande sœur !\nT'as l'air de t'ennuyer, tu veux jouer ?
+<0143> T'as vu comment je me suis améliorée ?
+<0144> Ouiiin ! Elle arrête pas de m'embêter !
+<0145> Papa ! Reste pas planté là et retourne à la ferme !
+<0146> Papa, 'faut vraiment que tu r'tournes à la ferme !
+<0147> C'est ton tour de vaisselle, aujourd'hui, papa !
+<0148> Maudit papa ! Tu d'vrais retourner à la ferme !
+<0149> Hé ! C'est l'heure de l'entraînement !
+<0150> Quoi, t'as b'soin d'entraînement ? Bon, pas le choix...
+<0151> Ahaha ! Entraîne-toi encore deux-trois ans\nsi tu veux me battre !
+<0152> Ça comptait pas ! Revanche ! Revanche !
+<0153> Équipage de Mescal, allez-y !
+<0154> C'est toi, l'gros méchant ? Papa m'a parlé de toi !
+<0155> Trop jolie, votre baleine ! Z'êtes un connaisseur !
+<0156> Sympa, ta bécane ! J'vais la garder pour moi !
+<0157> Hé, j'avais pas b'soin de vous, d'abord !
+<0158> Hé ! Je sais m'débrouiller toute seule !
+<0159> Oh ? Merci ! J'te soignerai après.
+<0160> 'z'avez pas intérêt à vous rater ! Compris ?

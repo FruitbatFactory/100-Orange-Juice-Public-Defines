@@ -48,7 +48,7 @@ BOSS出现了！
 可以通过格子挑战%s了！
 
 < GAME_MESSAGE_COOP_ANNOUNCE_ABILITY >
-%s要在下一个回合使用%s了！
+%s要在下个回合使用%s了！
 
 < GAME_MESSAGE_COOP_LEVELUP_ABILITY >
 %s被替换为%s了！

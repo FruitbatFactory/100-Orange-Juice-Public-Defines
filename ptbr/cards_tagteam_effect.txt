@@ -1,0 +1,5 @@
+< CARD_COOP_GUIDANCE_EFFECT >
+name=Conselho da Galinha Cata-Vento
+descr=Role 2 de dado para tudo menos para batalhas. Só pode completar Norma em seu próprio painel de Casa. Este efeito acaba ao parar no seu próprio painel de Casa ou ao trocar para fora.
+
+[EOF]

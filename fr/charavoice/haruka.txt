@@ -1,0 +1,164 @@
+<0000> Hey.
+<0001> Hop.
+<0002> Hoï.
+<0003> Comme ça.
+<0004> C'est le bon moment pour une carte !
+<0005> Je vais utiliser celle-là.
+<0006> Mon instinct me dit que c'est le moment !
+<0007> Hmm, je vais jouer celle-là.
+<0008> Je pose un piège juste là.
+<0009> C'est dangereux, par ici. Faites attention.
+<0010> Attention, un piège dangereux est caché par ici.
+<0011> Haha, ce piège va faire des merveilles ♥
+<0012> Je vais t'écraser avec cette carte !
+<0013> Je vais gagner, coûte que coûte !
+<0014> C'est chacun pour soi !
+<0015> Here comes a chaaance!
+<0016> Hihi, ça manque d'ambiance !
+<0017> C'était juste.
+<0018> La partie n'est pas encore terminée !
+<0019> Euh, c'est moi ou j'ai pris beaucoup de retard ?
+<0020> Et c'est reparti !
+<0021> On peut vraiment rien faire quand on est KO.
+<0022> J'ai envie de retourner jouer, moi.
+<0023> Pas besoin de s'impatienter.\nJe vais me chercher du jus.
+<0024> C'est pas mon jour...
+<0025> Et boouum !
+<0026> J'attaque !
+<0027> Attaque tactique !
+<0028> Chop !
+<0029> Aïe !
+<0030> Ouille !
+<0031> C'est mauvais pour moi.
+<0032> Hii !
+<0033> Je me sens prête à à y retourner.
+<0034> C'est génial.
+<0035> Toujours faire gaffe à ses PV.
+<0036> Ahh, j'ai failli y passer.
+<0037> Un portail !?
+<0038> Ça m'emmène où ?
+<0039> Awawah.
+<0040> Ouah, un portail.
+<0041> Kyaah.
+<0042> Tu te moques de moi, c'est ça ?
+<0043> Vraiment !?
+<0044> J'ai fait une bêtiiise !
+<0045> Je vais te traquer !
+<0046> Maintenant, tu tombes KO.
+<0047> J'ai mes chances contre toi !
+<0048> À mon avis, c'est le bon moment pour se battre.
+<0049> Tu veux te battre, c'est ça ?
+<0050> On devrait pas faire ça.
+<0051> Pourquoi tant de violence ?
+<0052> J'ai pas vraiment envie de combattre...
+<0053> Punch !
+<0054> Kick !
+<0055> Home ruuun !
+<0056> Tombe KO !
+<0057> Ça fait mal !
+<0058> Je te hais !
+<0059> Arrête ça !
+<0060> Ouahh !
+<0061> Kyaa !
+<0062> Tu pourrais me ménager un peu, non ?
+<0063> C'est vraiment dans les règles ?
+<0064> C'est horrible...!
+<0065> Admire un peu mes réflexes !
+<0066> J'esquive comme une pro !
+<0067> Esquive facile.
+<0068> Pfiou, j'ai eu peur.
+<0069> Youpi, j'ai gagné !
+<0070> T'as vu comment je suis balèze ?
+<0071> C'est savoureux ♥
+<0072> Hourra ! J'ai gagné !
+<0073> Argh.
+<0074> J'aurais dû me donner à fond.
+<0075> Pff, j'ai joué n'importe comment.
+<0076> Oh, zut.
+<0077> J'ai trouvé des étoiles !
+<0078> Ah, c'est génial !
+<0079> Oui, oui !
+<0080> Oh, j'ai de la chance !
+<0081> Attendez !
+<0082> Pas possible !
+<0083> Arrête ! Hé, arrête, j'ai dit !
+<0084> Aaahh !!!
+<0085> Hein ? Un piège !?
+<0086> Vraiment ?
+<0087> Ici, vraiment ?
+<0088> On m'a eue...!
+<0089> Oh non, voilà le boss !
+<0090> Ça sent les embrouilles.
+<0091> Ça risque de se corser un peu.
+<0092> Tu voudrais pas t'en prendre aux autres, plutôt ?
+<0093> Je vais vous montrer que je sais économiser !
+<0094> Je vise le gros lot !
+<0095> C'est toujours agréable d'avoir\nplein d'étoiles, pas vrai ?
+<0096> Je suis pas la meilleure aux combats, donc...
+<0097> Le combat, c'est comme du sport, non...?
+<0098> Vu ma position, j'ai plus de chances en faisant ça.
+<0099> Hmm, je commence à fatiguer,\nmais je pense que c'est le bon choix !
+<0100> J'ai choisi de me battre !
+<0101> Moi c'est Haruka ! Ravie de te rencontrer.
+<0102> Encore du 100% OJ ? Ok, ça me va!
+<0103> Tu veux jouer à 100% OJ ?\nJe suis pas la meilleure, tu sais ?
+<0104> Je suis en veine, aujourd'hui !\nÇa veut dire que je vais gagner !
+<0105> Allez, on y va !
+<0106> On va bien s'amuser.
+<0107> C'est partiii !
+<0108> On peut commencer ♥
+<0109> Youpi ! J'ai gagné la partie !
+<0110> C'était génial, faudra qu'on y rejoue !
+<0111> Je savais que c'était la bonne !
+<0112> Je pense que j'ai mérité cette victoire !
+<0113> J'aime bien les gacha.
+<0114> T'as pas hâte de voir ce qu'on a trouvé ?
+<0115> C'est un truc mignon, peut-être ?
+<0116> Tu penses que ça peut nous rendre plus forts ?
+<0117> J'aime pas trop me brusquer.
+<0118> Je demande un échange !
+<0119> Allez, bon courage !
+<0120> Il faut qu'on échange.
+<0121> Ok.
+<0122> Voilà qui m'arrange.
+<0123> Oui !
+<0124> Nan !
+<0125> Oh non...
+<0126> Quelle chance ! Trop bien !
+<0127> Hhmm ?
+<0128> On peut y aller.
+<0129> Jet de dééé !
+<0130> Tu peux le faire ! Je crois en toi !
+<0131> Bonjour !
+<0132> Euh... heiin ?
+<0133> Bravo, c'est génial !
+<0134> C'est super fantastique !
+<0135> C'est horrible...
+<0136> Je vais jouer cette carte volée.
+<0137> Cette carte ! Peut-être qu'elle marchera bien sur moi.
+<0138> Je m'en remets au hasard pour celle-là.
+<0139> Je joue jamais cette carte, mais on y croit !
+<0140> Merciii !
+<0141> Ah oui ? Répète un peu, pour voir !
+<0142> Je sais. C'est mon intuition qui va me tirer d'affaire !
+<0143> Je sais ! Dis-le encore une fois ♥
+<0144> Je te vois suer à grosses gouttes, Kana ♥
+<0145> Ça y est, Kana recommence à se la jouer gros dur.
+<0146> Kana joue sans réfléchir comme d'habitude...
+<0147> Kana, ménage-moi un peu, stp !
+<0148> On va leur montrer à quel point on est fortes !
+<0149> Tiens, salut Poyo.
+<0150> On va bien s'amuser, Poyo !
+<0151> Bien sûr que je ferai de mon mieux !
+<0152> C'est quand on s'amuse qu'on décroche la victoire !
+<0153> T'es vraiment trop cool, Sora ! Je t'adore !
+<0154> Oh, c'est Sora...!!
+<0155> Mais non, j'ai gagné contre Sora...!!
+<0156> On l'appelle pas l'Arme Ultime pour rien...
+<0157> Hé, Kana, tu vas bien ?
+<0158> C'est ma sœur !
+<0159> C'est nous les plus fortes !
+<0160> Club 100% OJ, on y va !
+<0161> OMG, c'est elles ! En personne !
+<0162> J-je peux avoir un... autographe...?
+<0163> Elles sont vraiment trop belles...

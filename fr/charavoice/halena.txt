@@ -1,0 +1,160 @@
+<0000> Eeey !
+<0001> Hop, hop !
+<0002> Alors ?
+<0003> Zou !
+<0004> Je vais jouer une carte !
+<0005> Ça devrait aider, ça.
+<0006> Tada !
+<0007> Celle-là !
+<0008> M-hmm !
+<0009> Ça, ça va ici.
+<0010> Carte piège !
+<0011> Voilà ce que j'ai trouvé.
+<0012> Carte combat !
+<0013> Voilà comment on gagne sans savoir se battre !
+<0014> Mieux vaut ça que de se blesser !
+<0015> Un petit boost.
+<0016> Je vais montrer le chemin !
+<0017> On peut reprendre la route.
+<0018> Encore un petit effort.
+<0019> Je me sens mieux.
+<0020> Désolée d'avoir fait attendre !
+<0021> Je vais me reposer encore un peu.
+<0022> Hmm...
+<0023> C'est raté.
+<0024> Arghh...
+<0025> Eey !
+<0026> Gifle !
+<0027> Hop !
+<0028> Tey !
+<0029> Aïe !
+<0030> Aïe...
+<0031> Comment !?
+<0032> Guaah !
+<0033> *soupir* C'est agréable.
+<0034> Je retrouve des forces !
+<0035> Je me sens déjà mieux !
+<0036> Oh, fantastique !
+<0037> Hé, oh !
+<0038> Ouawah !
+<0039> Ça change tout, ça !
+<0040> Aouah !
+<0041> Je tiens plus.
+<0042> Argh...
+<0043> Je suis pas douée pour ça, moi.
+<0044> Pfff.
+<0045> Je préfère autant attaquer en premier.
+<0046> Je suis prête !
+<0047> Je vais devoir t'écarter du chemin.
+<0048> Yaaah !
+<0049> Hein !?
+<0050> Quelle mouche t'a piqué ?
+<0051> Hii !
+<0052> Pas besoin d'en arriver là !
+<0053> Sorya !
+<0054> Hah !
+<0055> Prends ça !
+<0056> Yaah, yaah !
+<0057> Kyah !
+<0058> Ouaah !
+<0059> Aïe...!
+<0060> Aaah !
+<0061> Ça fait super mal !
+<0062> Gyah !
+<0063> Comment oses-tu !?
+<0064> Guaah !
+<0065> C'était juste.
+<0066> H-hii !
+<0067> Tu peux arrêter ?
+<0068> C'est vraiment pas passé loin.
+<0069> *soupir* J'ai horreur de me battre.
+<0070> Bravo à moi...
+<0071> Aah, j'ai eu peur.
+<0072> Je l'ai échappée belle.
+<0073> Oh non...
+<0074> Je m'en doutais un peu...
+<0075> J'abandonne...
+<0076> Monstre !
+<0077> Joli trésor !
+<0078> On va ramasser ça.
+<0079> Il faut bien un peu d'argent pour voyager.
+<0080> La chance !
+<0081> Hé ! Attendez, deux secondes !
+<0082> Non, arrêtez !
+<0083> Mais quelle plaie !
+<0084> Ah...
+<0085> Vraiment !?
+<0086> C'est trop cruel !
+<0087> Qui a posé un piège ici ?
+<0088> Je devrais pouvoir les voir, normalement.
+<0089> Il a l'air très dangereux
+<0090> Je n'aime pas ça du tout.
+<0091> Comme un air lourd et pesant...
+<0092> Ça, pour une catastrophe...
+<0093> L'argent est primordial.
+<0094> C'est tentant, un voyage en conquête d'étoiles.
+<0095> Il faut bien de l'argent pour vivre.
+<0096> Partons en chercher.
+<0097> Hmm, je n'aime pas trop faire ça.
+<0098> Bon, j'ai pas vraiment le choix.
+<0099> C'est rare, mais j'aime bien me battre, des fois.
+<0100> Bon, d'accord, j'y vais.
+<0101> Moi c'est Haléna !
+<0102> Tu as besoin de mon aide ?
+<0103> Je te guiderai jusqu'à la victoire.
+<0104> Je suis la guide, Haléna !
+<0105> C'est le début d'un bon voyage !
+<0106> Ça va, tu te sens en forme ?
+<0107> Rendons ce voyage agréable !
+<0108> Un jour parfait pour voyager !
+<0109> Alors ? Tu ne regrettes pas de m'avoir suivie ?
+<0110> Pft, le chemin vers la victoire était déjà tracé.
+<0111> Alors ? Convaincu par mes compétences ?
+<0112> Ne suis-je pas excellente ? Hihi.
+<0113> Toujours se préparer avant le départ.
+<0114> Hé, regarde ! Je te le conseille vivement !
+<0115> Oh ? Il te plaît, celui-là ?
+<0116> C'est plutôt chouette.
+<0117> Bon courage.
+<0118> Il faut savoir s'en tenir à ses limites.
+<0119> C'est le timing qui compte.
+<0120> On échange.
+<0121> Ok !
+<0122> Oui, c'est mieux ainsi.
+<0123> Je m'en charge.
+<0124> Non, pas comme ça.
+<0125> Hmm.
+<0126> Bien joué !
+<0127> Hm ?
+<0128> Allez, on y va !
+<0129> C'est parti !
+<0130> Bonne chance !
+<0131> Bonjour.
+<0132> Hm... Hmm.
+<0133> Bien !
+<0134> Très impressionnant !
+<0135> Oh, zut...
+<0136> Je n'aime pas m'aventurer en terrain inconnu...
+<0137> Bon, il faut bien essayer pour comprendre.
+<0138> Et si j'essayais ça ?
+<0139> Voyons ce que ça fait.
+<0140> Encore à faire des bêtises, Coco ?
+<0141> Encore de mauvaise plume, Coco ?
+<0142> Hmm. Tu devrais te calmer un peu.
+<0143> Aïe, aïe ! C'est bon, tu as gagné !
+<0144> Hmm, ça a l'air dangereux.
+<0145> C'est risqué, par ici.
+<0146> Attention, un piège !
+<0147> On a frôlé la catastrophe !
+<0148> Ouaah !
+<0149> Ouf, on l'a échappé belle.
+<0150> Heureusement que j'étais là, ça avait l'air dangereux.
+<0151> Inutile !
+<0152> Toujours penser à les tenir fermement.
+<0153> Ces étoiles ne quittent pas mes poches.
+<0154> J'ai déjà perdu des affaires, ça n'a rien d'amusant.
+<0155> Ooh ! C'est bon, rien n'est tombé !
+<0156> Arrivés sans le moindre pépin !
+<0157> Nous voilà à destination !
+<0158> C'est bien là que tu voulais aller ?
+<0159> Voilà, on est arrivés !

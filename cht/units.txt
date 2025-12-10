@@ -83,6 +83,22 @@ descr=
 name=游泳圈套
 descr=MOV-1。
 
+< CARD_UNIT_BOSS_BEACH_BREAKER >
+name=沙灘破壞者
+descr=特殊能力：點燃\n持續效果（3輪）\n其他角色在燃燒的格子上開始或結束回合，將受到1點傷害。\n同伴倒下期間DEF+1。
+
+< CARD_UNIT_BOSS_BEACH_BUILDER >
+name=沙灘建造師
+descr=同伴倒下期間DEF+1。
+
+< CARD_UNIT_BOSS_BEACH_BUSTER >
+name=沙灘搗蛋鬼
+descr=同伴倒下期間DEF+1。
+
+< CARD_UNIT_BOSS_TROUBLEMAKERS >
+name=鬧事小隊
+descr=
+
 < CARD_UNIT_CHICKEN >
 name=雞
 descr=
@@ -573,11 +589,11 @@ descr=傳送時受到1點傷害。\n若在傳送後依然存活，抽取1張卡�
 
 < CARD_UNIT_DARKL >
 name=黑暗露露
-descr=放棄挑戰時失去你等級數×2的STAR。
+descr=放棄挑戰他人時，你失去等級數×2的STAR。
 
 < CARD_COOP_UNIT_DARKL >
 name=黑暗露露
-descr=放棄挑戰時失去你等級數×1的STAR。
+descr=放棄挑戰他人時，你失去等級數×1的STAR。
 
 < CARD_UNIT_HELLIE >
 name=超能艾莉

@@ -1,0 +1,155 @@
+<0000> Quand faut y aller...
+<0001> J'envoie les dés.
+<0002> Allez, donnez-moi un bon chiffre.
+<0003> La partie se joue sur ça.
+<0004> Je pense que cette carte-là est la plus adaptée.
+<0005> C'est le bon moment pour une carte.
+<0006> Hmm, ça devrait aider.
+<0007> Celle-là, peut-être ?
+<0008> J'installe un piège ici.
+<0009> Peut-être que ça peut renverser la donne.
+<0010> Je pose un piège.
+<0011> Hmm, peut-être que je devrais le poser ici ?
+<0012> Je joue cette carte, par prudence.
+<0013> Je vais gagner grâce à cette carte.
+<0014> Je vais me donner l'avantage avec ça.
+<0015> Cette carte devrait m'aider.
+<0016> Ok, je crois que c'est le moment.
+<0017> Je pensais que j'allais rester là pour toujours.
+<0018> Ah, ça fait du bien de se relever.
+<0019> Je ne suis pas en bonne posture,\nmais je peux encore y arriver.
+<0020> Ok, je suis de retour.\nJe peux encore renverser la donne.
+<0021> Rah, c'est pas agréable.
+<0022> J'emprunte un chemin dangereux.
+<0023> Vraiment...? Pft.
+<0024> J'ai fait une erreur, c'est ça ?
+<0025> Je choisis l'approche offensive.
+<0026> Attention, je passe à l'attaque.
+<0027> Tu pourras pas m'attaquer si j'attaque en premier !
+<0028> Fais gaffe, ça peut faire mal.
+<0029> Oups.
+<0030> Ça fait mal !
+<0031> Hein, vraiment ?
+<0032> J'ai fait une bêtise.
+<0033> Le soin, c'est essentiel.
+<0034> C'est beaucoup mieux comme ça, je crois ?
+<0035> C'est comme s'il ne s'était rien passé.
+<0036> Je crois que je me suis assez soignée\npour repartir à la charge...
+<0037> Ok, un portial, je gère.
+<0038> Zut, vers où ça m'emmène ?
+<0039> Oh, wow.
+<0040> Tout dépend de là où j'atterris.
+<0041> Mais merd- !!
+<0042> Tu te fiches de moi !?
+<0043> Raaaaaahh !!!
+<0044> C'est à cause de ma façon de jouer\nque je suis tombée KO...?
+<0045> Relève mon défi !
+<0046> Je vais te tabasser.
+<0047> C'est l'heure de la bagarre !
+<0048> C'est le bon moment pour attaquer !
+<0049> Oh, je n'avais pas prévu de me battre.
+<0050> Ok, je vais trouver un plan.
+<0051> C'est moi, ou tu débordes d'énergie ?
+<0052> Si tu veux te battre !
+<0053> Ora !
+<0054> Bouffe !
+<0055> Tombe !
+<0056> Crève !
+<0057> Gah !
+<0058> Gueh.
+<0059> Pft !
+<0060> Je peux gérer ça...
+<0061> Hé, pouce ! Pouce !
+<0062> C'est pas juste...
+<0063> T'aurais pu me ménager un peu...
+<0064> Bon sang !
+<0065> J'ai failli me faire toucher.
+<0066> Aucun dégât pris.
+<0067> Je dois éviter le plus de dégâts possible.
+<0068> J'ai eu peur.
+<0069> Ahaa-aha-hah !
+<0070> Tu pensais pouvoir gagner ?
+<0071> Vermisseau... Euh, pardon, c'était vulgaire.
+<0072> Aha, personne peut me battre !!\n...euh... je crois que je m'emballe un peu.
+<0073> Bordel !!!
+<0074> Pas possible !
+<0075> Je vais jamais y arriver !?
+<0076> Hein, vraiment !?
+<0077> Ok, étoiles trouvées.
+<0078> Quoi que tu fasses, tu auras toujours besoin d'étoiles.
+<0079> Parfait, parfait.
+<0080> Je vais les garder pour moi.
+<0081> Oh...
+<0082> J'ai jamais droit à une seconde de pause.
+<0083> Je vais faire faillite...
+<0084> L'argent file à une vitesse...
+<0085> Et je tombe droit sur un piège. Super.
+<0086> Fichez-moi la paix !
+<0087> Impossible ! Impossible !
+<0088> Rah, un piège ?
+<0089> Je dois redoubler de prudence.
+<0090> Oh non, voilà un boss, maintenant.
+<0091> Et voilà un boss. J'espère m'en sortir.
+<0092> Tu voudrais pas massacrer un autre joueur ?
+<0093> Je pars pour les étoiles, alors.
+<0094> C'est parti pour les étoiles.
+<0095> Je ferais bien de me trouver plus d'étoiles.
+<0096> J'ai choisi les étoiles.
+<0097> Les combats... Il faut que je garde mon sang-froid.
+<0098> J'ai toujours une montée d'adrénaline en me battant.
+<0099> Calmos. Je veux pas être le genre\nde personne qui se bat par passion.
+<0100> J'ai honte de l'avouer... mais une partie de moi\nraffole des combats.
+<0101> Appelle-moi Chuu.
+<0102> Tu veux faire une partie ? Pas de problème.
+<0103> Pile à temps, j'avais rien à faire.
+<0104> Je peux m'énerver assez vite,\nj'espère que tu m'en voudras pas.
+<0105> Je ne suis pas la meilleure aux jeux de hasard, mais...
+<0106> Je vais gagner méthodiquement.
+<0107> Par quoi je commence ?
+<0108> On y va.
+<0109> J'ai gagné. Hihi.
+<0110> J'espère que j'en ai pas fait des caisses.
+<0111> LET'S GOOO ! ...pardon, j'ai parlé un peu fort.
+<0112> Mon plan s'est déroulé comme prévu...
+<0113> Je peux voir ?
+<0114> C'est nouveau ?
+<0115> Je crois que c'est utile...
+<0116> Qu'est-ce que c'est ?
+<0117> Viens, on échange.
+<0118> On devrait changer nos places.
+<0119> J'ai besoin de repos. À toi de jouer.
+<0120> Ravie de faire équipe avec toi.
+<0121> Ok.
+<0122> Oh.
+<0123> Je m'en occupe.
+<0124> Non.
+<0125> Pff, vraiment ?
+<0126> J'ai eu de la chance.
+<0127> Hein... quoi ?
+<0128> Ok !
+<0129> Allons-y.
+<0130> Bonne chance.
+<0131> Yo.
+<0132> Hm.
+<0133> Bravo.
+<0134> C'est génial.
+<0135> Aaaaaaarhhh !!! Merde !
+<0136> J'ai chourré cette carte.
+<0137> Je sais pas trop quand la jouer.\nAutant le faire maintenant.
+<0138> J'utilise rarement de cette carte,\nmais elle devrait m'aider.
+<0139> Je vais me servir de l'Hyper de quelqu'un autre.
+<0140> Merci.
+<0141> Faut que je fasse gaffe à Poyo et à sa chance.
+<0142> Poyo obtient toujours les meilleures cartes.
+<0149> C'est tellement mieux de jouer avec les habitués.
+<0150> C'est moi, ou on se ressemble un peu, Marc et moi ?
+<0151> Oh, je t'ai prise pour moi.
+<0152> J'aimerais voler en avion au moins une fois, moi aussi...
+<0153> Les avions, les missiles... ça m'intrigue...
+<0154> Merci encore pour votre service au restaurant.
+<0155> C'est la dame du restaurant !?
+<0156> Ça me fait bizarre de me battre\ncontre une connaissance...
+<0157> Elle m'a pas épargnée...
+<0158> Ça dépasse les bornes, il faut que je me calme.
+<0159> Ça me ressemble pas du tout, je dois me calmer.
+<0160> C'est pas bon de s'énerver comme ça. Pas bon du tout...

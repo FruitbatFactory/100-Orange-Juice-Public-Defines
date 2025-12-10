@@ -1,0 +1,16 @@
+<0000> J'ai perdu..
+<0001> J'avais triché, pourtant...!
+<0002> Tu devrais arrêter de faire ça,\ntu ne risques pas de te faire des amis.
+<0003> Tout est réglé pacifiquement.
+<0004> C'était un affrontement grandiose.
+<0005> Oh, tu étais là, Hime ?
+<0006> Mais tout à fait. Il s'avère que j'ai reçu un étrange message de la part de ma chérie adorée concernant ce moment.
+<0007> Un message étrange ?\nQue disait-il ?
+<0008> Il m'a informé de ton arrivée en cet endroit. Et que vois-je !
+<0009> Le reste dit "cels_ii"... et "X7u567". Saurais-tu ce que cela signifie, à tout hasard ?
+<0010> Désolée, ça me dit rien du tout...
+<0011> Nous n'aurons qu'à lui demander en personne, alors. Mais je crois qu'elle est en ce moment loin de ce monde.
+<0012> Tant mieux.\nElle ne fait que des bêtises.
+<0013> Je tâcherai de lui parler sérieusement à l'avenir. Pour le moment, nous devrions jouer.
+<0014> Qu'est-ce que je peux faire de toi...\nD'accord, mais pas longtemps.
+<0015> O-hohoho, dansons ensemble sous les étoiles !

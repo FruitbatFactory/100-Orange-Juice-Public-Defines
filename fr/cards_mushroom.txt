@@ -1,0 +1,121 @@
+< CARD_SHROOM_BLUE >
+name=Champignon Bleu
+descr=Ça sent bizarre.
+
+< CARD_SHROOM_BROWN >
+name=Champignon Marron
+descr=Ça sent bizarre.
+
+< CARD_SHROOM_GREEN >
+name=Champignon Vert
+descr=Ça sent bizarre.
+
+< CARD_SHROOM_ORANGE >
+name=Champignon Orange
+descr=Ça sent bizarre.
+
+< CARD_SHROOM_PINK >
+name=Champignon Rose
+descr=Ça sent bizarre.
+
+< CARD_SHROOM_PURPLE >
+name=Champignon Mauve
+descr=Ça sent bizarre.
+
+< CARD_SHROOM_RAINBOW >
+name=Champignon Irisé
+descr=Ça sent bizarre.
+
+< CARD_SHROOM_RED >
+name=Champignon Rouge
+descr=Ça sent bizarre.
+
+< CARD_SHROOM_WHITE >
+name=Champignon Blanc
+descr=Ça sent bizarre.
+
+< CARD_SHROOM_YELLOW >
+name=Champignon Jaune
+descr=Ça sent bizarre.
+
+< CARD_SHROOM_PHANTOMBLUE >
+name=Champignon Bleu Fantômatique
+descr=Ça sent les esprits.
+
+< CARD_SHROOM_LEGENDARYRED >
+name=Champignon Rouge Légendaire
+descr=Ça sent l'aventure.
+
+< CARD_SHROOM_MOVEUP >
+descr=+%d MOV à votre prochain déplacement.
+
+< CARD_SHROOM_MOVEDOWN >
+descr=-%d MOV à votre prochain déplacement.
+
+< CARD_SHROOM_GAINSTARS >
+descr=Vous gagnez (votre Niv.) x%d ★.
+
+< CARD_SHROOM_LOSESTARS >
+descr=Vous perdez (votre Niv.) x%d ★.
+
+< CARD_SHROOM_HEALTHUP >
+descr=Vous gagnez %d PV.
+
+< CARD_SHROOM_HEALTHDOWN >
+descr=Vous perdez %d PV.
+
+< CARD_SHROOM_ATTACKUP >
+descr=+%d ATK pour ce combat.
+
+< CARD_SHROOM_ATTACKDOWN >
+descr=-%d ATK pour ce combat.
+
+< CARD_SHROOM_DEFENSEUP >
+descr=+%d DEF pour ce combat.
+
+< CARD_SHROOM_DEFENSEDOWN >
+descr=-%d DEF pour ce combat.
+
+< CARD_SHROOM_EVADEUP >
+descr=+%d EVD pour ce combat.
+
+< CARD_SHROOM_EVADEDOWN >
+descr=-%d EVD pour ce combat.
+
+< CARD_SHROOM_HEAL >
+descr=Soigne %d PV.
+
+< CARD_SHROOM_DAMAGE >
+descr=Inflige %d de dégât.
+
+< CARD_SHROOM_ROLLONE >
+descr=Pour ce combat, tous vos jets font 1.
+
+< CARD_SHROOM_ROLLSIX >
+descr=Pour ce combat, tous vos jets font 6.
+
+< CARD_SHROOM_FROSTWALKER >
+descr=Confère "Marche-Glace" pour %d chapitre(s).
+
+< CARD_SHROOM_WARP >
+descr=Téléporte sur une case au hasard.
+
+< CARD_SHROOM_CONFUSION >
+descr=Vos cartes sont retournées pendant %d chapitres (face cachée pour vous et face visible pour les autres joueurs).
+
+< CARD_SHROOM_DRAW >
+descr=Piochez deux cartes.
+
+< CARD_SHROOM_DISCARD >
+descr=Défaussez une carte au hasard.
+
+< CARD_SHROOM_WIN >
+descr=Vous gagnez 1 Victoire.
+
+< CARD_SHROOM_LEGEND_STARS >
+descr=+(votre Niv.) ★ à chaque gain d'étoiles.\nSi vous perdez en combat face à un joueur, donnez-lui cette carte.
+
+< CARD_SHROOM_LEGEND_WINS >
+descr=+1 Victoire à chaque gain de Victoire.\nSi vous perdez en combat face à un joueur, donnez-lui cette carte.
+
+[EOF]

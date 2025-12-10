@@ -122,6 +122,9 @@ O Vazio
 < FIELD_PURES >
 Rally De Estampas Pures
 
+< FIELD_SCHOOLYARD >
+Pátio Escolar
+
 < FIELD_COOP_LAGOONFLIGHT >
 Voo da Lagoa CO
 
@@ -226,6 +229,21 @@ Paraíso dos Doces CO
 
 < FIELD_COOP_WHIRLPOOL >
 Redemoinho
+
+< FIELD_COOP_WARFARE >
+Estado de Guerra CO
+
+< FIELD_COOP_SCARREDLAND >
+Terra Marcada CO
+
+< FIELD_COOP_DESERT >
+Estrada Solitária CO
+
+< FIELD_COOP_CIRCUS >
+Circo CO
+
+< FIELD_COOP_PURES >
+Rally De Estampas Pures CO
 
 [EOF]
 

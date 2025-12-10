@@ -83,6 +83,22 @@ descr=
 name=Swimming Ringer
 descr=Gain -1 MOV.
 
+< CARD_UNIT_BOSS_BEACH_BREAKER >
+name=Beach Breaker
+descr=Special ability: Burn. Effect Duration: 3 Chapters. Another unit starting or ending their turn on a panel with Burn takes 1 damage. \nGain +1 DEF while an ally is KO'd.
+
+< CARD_UNIT_BOSS_BEACH_BUILDER >
+name=Beach Builder
+descr=Gain +1 DEF while an ally is KO'd.
+
+< CARD_UNIT_BOSS_BEACH_BUSTER >
+name=Beach Buster
+descr=Gain +1 DEF while an ally is KO'd.
+
+< CARD_UNIT_BOSS_TROUBLEMAKERS >
+name=Troublemakers
+descr=
+
 < CARD_UNIT_CHICKEN >
 name=Chicken
 descr=

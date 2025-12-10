@@ -292,3 +292,103 @@ descr=耳朵都睡長了。
 < PET_MASHIRO >
 name=真白
 descr=不再不幸。
+
+< PET_MARKETABLESUGURIPLUSHIE >
+name=可商品化的須玖莉玩偶
+descr=成為一個可商品化的玩偶其實也挺不錯的。
+
+< PET_MINIEPOPPO >
+name=迷麗啵噗
+descr=再次偷走你的心。
+
+< PET_COMPACTSORA >
+name=小型優空
+descr=無論哪種形態都要保持高效。
+
+< PET_STABU >
+name=小小星破
+descr=身邊伴著小調。
+
+< PET_PLUSHQP >
+name=QP玩偶
+descr=鬆鬆軟軟的小狗狗！
+
+< PET_HUGGYHIME >
+name=抱抱姬夢
+descr=她能把你抱得緊緊的。
+
+< PET_SMOLSAKI >
+name=小不點紗季
+descr=帶著一個小不點爆炸鈴。
+
+< PET_RAREREPA >
+name=稀有蕾帕
+descr=能得到一個這麼稀有的蕾帕可是很稀有的。
+
+< PET_TRAVELARU >
+name=旅行亞琉
+descr=你可以帶她前往任何地方。
+
+< PET_MINIATUREMARC >
+name=縮微瑪兒
+descr=1:16比例的飛行員。
+
+< PET_ALTEHUGTOY >
+name=阿露特抱抱玩具
+descr=對她好一點。
+
+< PET_COMFORTTOMOMO >
+name=舒適兔萌萌
+descr=最豪華的《100%鮮橙汁》終極周邊，現在訂購僅需——
+
+< PET_DARKNESSKRILA >
+name=黑暗克里拉
+descr=主人也變成了玩偶。
+
+< PET_LUCKYLULU >
+name=幸運露露
+descr=為你的旅途帶來好運。
+
+< PET_SUMIKAPLUSHIE >
+name=棲海花v0.2
+descr=小一點的棲海花也是棲海花。
+
+< PET_GOGOKAE >
+name=勇往直前佳愛
+descr=在夜裡守護你的小夥伴。
+
+< PET_BUDGETKAI >
+name=廉價版凱
+descr=一張諭吉就可以帶回家。
+
+< PET_STEALTHYTSIH >
+name=隱匿杏
+descr=說話的時候也會用小小的了啦。
+
+< PET_SWEEBO >
+name=小小甜破
+descr=受人喜愛就會有很多綽號。
+
+< PET_MINIMIO >
+name=迷你魅櫻
+descr=壞壞的高級玩偶。
+
+< PET_POCKETCOACH >
+name=口袋教練
+descr=隨時隨地教你游泳。
+
+< PET_OWNGOAL >
+name=私人浮標
+descr=誰主沉浮？
+
+< PET_WATERBALLONJERK >
+name=水球力士
+descr=他現在有了水的力量。
+
+< PET_HANDRINGER >
+name=手環圈套
+descr=他能在浴缸裡助你一臂之力。
+
+< PET_HARBY >
+name=小噩
+descr=帶著這個神秘小夥伴去嚇嚇你的朋友吧。

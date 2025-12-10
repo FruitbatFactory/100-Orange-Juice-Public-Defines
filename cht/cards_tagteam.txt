@@ -1,0 +1,11 @@
+< CARD_HYPER_TAG_POPPO >
+name=神出鬼沒
+descr=傳送至指定存活敵人所在的格子。\n從該角色處偷取其等級×10的STAR。\n持續效果（1輪）\n你的基礎ATK、DEF和EVD變為-1。\n然後再投擲移動骰。
+flavor=「啵噗！啵噗噗噗噗噗～！」—瑪麗啵噗
+
+< CARD_HYPER_TAG_COOK >
+name=風信雞的指引
+descr=儲備效果\n除戰鬥外，骰子枚數變為2枚。\n只能在自己的HOME格進行目標檢測。\n當你停留在自己的HOME格時，或進行換人時，效果結束。
+flavor=「嘰嘰，庫克想去這邊。」—庫克
+
+[EOF]

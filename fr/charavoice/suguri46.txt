@@ -1,0 +1,160 @@
+<0000> Roule...
+<0001> Allons-y...
+<0002> Voilà...
+<0003> C'est parti.
+<0004> Rappelez-moi comment on s'en sert ?
+<0005> J'ai le droit de l'utiliser ? Vraiment ?
+<0006> Bon, il faut bien l'utiliser...
+<0007> Je pourrais m'en servir.
+<0008> C'est vraiment correct de poser ça là ?
+<0009> Hmm. Ce qui doit arriver arrivera.
+<0010> Il faut que je fasse attention à ne pas l'activer.
+<0011> Hmmm... Ici, je pense.
+<0012> D-deux secondes... Je vais utiliser celle-là.
+<0013> Oh, je devrais jouer cette carte.
+<0014> C'est une carte Combat.
+<0015> Je deviens plus forte.
+<0016> C'est ma botte secrète... Euh, je... je ne sais plus m'en servir.
+<0017> Me revoilà...
+<0018> Je vais essayer de m'y mettre un peu plus.
+<0019> Bien...
+<0020> Hmm... Ça ne se reproduira pas...
+<0021> Heeeiiin ?
+<0022> Encore raté...
+<0023> Prenons notre temps... Il n'y a pas de quoi se presser.
+<0024> Hmm... Je ne me sens pas très bien.
+<0025> Je vais attaquer.
+<0026> Ey.
+<0027> Hop-là.
+<0028> Yah.
+<0029> Ouah.
+<0030> Attendez !
+<0031> Ouaah !
+<0032> Huee...
+<0033> Du soin.
+<0034> Ahh, ça fait du bien.
+<0035> *soupir* Je me suis bien reposée.
+<0036> Bien, bien.
+<0037> Ouah, un portail.
+<0038> J'ai la tête qui tourne...
+<0039> Hmm... je me sens bizarre.
+<0040> Et zut.
+<0041> C'est horrible...
+<0042> Hmm ? C'est bizarre.
+<0043> Hmm...!
+<0044> À terre...
+<0045> E-enchantée...
+<0046> J'espère que mon corps est à la hauteur.
+<0047> J'aimerais qu'on fasse ça en douceur.
+<0048> J'espère pouvoir me battre correctement...
+<0049> Je ne m'y suis pas préparée...
+<0050> Ouah, attends deux secondes.
+<0051> Je voulais jouer paisiblement, moi...
+<0052> Hmm... Je ne suis pas très douée là-dedans...
+<0053> C'est bien comme ça ?
+<0054> Taaah.
+<0055> Ey.
+<0056> Yah.
+<0057> Ouah !
+<0058> Hmm.
+<0059> Uee !
+<0060> Wawawa !
+<0061> Hé, c'est violent.
+<0062> Hm, c'est mauvais pour moi.
+<0063> C'est horrible...
+<0064> Tu veux pas arrêter ?
+<0065> Comme ça...
+<0066> Ouah, c'était risqué.
+<0067> Hé, ça fait peur !
+<0068> Attention ! C'est dangereux !
+<0069> *soupir* Je ne me suis pas exercée depuis longtemps...
+<0070> B-bon, je crois que c'est fini, alors ?
+<0071> Ah, ce n'est pas passé loin.
+<0072> C'est très éprouvant, tout ça.
+<0073> J'ai perdu...
+<0074> J'étais sous le choc, j'avais peine à bouger...
+<0075> Kyuu...
+<0076> On devrait pas avoir à se battre.
+<0077> On peut provoquer un miracle\nen en trouvant beaucoup, non ?
+<0078> Hmm... Je ne sais pas si je peux en porter autant.
+<0079> Ouah, ça fait beaucoup.
+<0080> Tous les astres sont beaux.
+<0081> Oh, j'en ai fait tomber...
+<0082> Muaaahh...
+<0083> Oh non...
+<0084> Hmm... c'est terrible...
+<0085> Mais qui a mis ça là ?
+<0086> J'ai activé un piège...
+<0087> C'est... c'est injuste.
+<0088> Muaahh, oh nooon...
+<0089> Je crois que les ennuis commencent.
+<0090> Ouah, il est énorme...
+<0091> Hmm... Je n'aime pas l'aura qu'il renvoie...
+<0092> Je dois vraiment me battre contre ça...?
+<0093> Je préfère autant ça.
+<0094> Je pensais chercher des étoiles.
+<0095> On va devoir en trouver un bon nombre.
+<0096> Faisons de notre mieux, et trouvons plein d'étoiles.
+<0097> Il faut bien exercer son corps, non ?
+<0098> Hmm. Je me battais beaucoup, jadis.
+<0099> Je prends ça comme un entraînement intense...
+<0100> *soupir* Ça sera la première fois depuis bien longtemps.
+<0101> On va jouer à un jeu ? Ok, allons-y !
+<0102> Euh, je... je m'appelle Suguri. Enchantée.
+<0103> Hein, qui, moi ? Mhm, faisons de notre mieux.
+<0104> Je me sens nerveuse, je sais pas pourquoi.
+<0105> Allez, c'est parti.
+<0106> Ce n'est qu'un jeu. Autant se détendre.
+<0107> Bon, on peut y aller.
+<0108> Quitte à jouer, je tiens à triompher.
+<0109> Oh, j'ai gagné.
+<0110> Hahaha, merci.
+<0111> *soupir* Finalement, ça s'est bien passé.
+<0112> Hihihi, je suis ravie.
+<0113> Tiens, qu'en penses-tu ? Ça te plaît ?
+<0114> On ne l'avait pas encore trouvé. Chouette.
+<0115> J'espère que c'est ce qu'il nous faut.
+<0116> Hahaha, je suis contente pour toi.
+<0117> Tu peux me remplacer ?
+<0118> Je crois qu'on doit échanger.
+<0119> Je te laisse t'occuper du reste.
+<0120> Je compte sur toi.
+<0121> D'accord.
+<0122> Ah, c'est bien.
+<0123> Oui.
+<0124> Non.
+<0125> Hm...
+<0126> Je suis contente pour toi.
+<0127> Hmm ?
+<0128> Allons-y.
+<0129> Les dés sont jetés.
+<0130> On y va.
+<0131> Bonjour.
+<0132> Hmm...
+<0133> C'est bien.
+<0134> Incroyable...
+<0135> Oh...
+<0136> Je peux m'en servir ?
+<0137> Ça ne m'appartient pas... j'ai vraiment le droit ?
+<0138> Désolée de l'utiliser sans ton accord...\nJ'espère que tu ne m'en veux pas.
+<0139> Hmm... J'ai peur de déranger en l'utisant...
+<0140> Oh, Sumika...
+<0141> Bon, j'imagine que je n'ai pas le choix.
+<0142> Tu es encore loin du compte, Sumika.
+<0143> Hmm... N'oublie pas que je n'y allais pas à fond.
+<0144> Tu... tu es... moi...?
+<0145> La moi... du passé ?
+<0146> Mes sentiments dépassent les mots.
+<0147> J'étais bien plus forte par le passé.
+<0148> Hein, Navi ?
+<0149> Navi, tu comptes encore faire des bêtises ?
+<0150> Et cette fois, tu restes sage, d'accord ?
+<0151> Muaahh...
+<0152> Vous deux... vous êtes des idols ?
+<0153> Oh, vous êtes si jolies.
+<0154> C'était merveilleux, j'ai beaucoup apprécié.
+<0155> Vous brillez comme le soleil...
+<0156> Hmm... Ce n'est pas évident, n'est-ce pas ?
+<0157> Cette carte... j'aimerais l'ajouter... ah, mais celle-là...
+<0158> Hmm... C'est amusant, tout ça, mais c'est difficile...
+<0159> Bon, ce deck devrait marcher... Mais, hmm...

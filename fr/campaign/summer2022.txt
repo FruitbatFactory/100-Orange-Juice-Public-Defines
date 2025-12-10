@@ -1,0 +1,262 @@
+
+// ========= Scene: Summer 2022 Event Start =========
+
+// (ellie)
+<0000> Omg ! Regarde comment le lac est énorme !
+
+// (ellie)
+<0001> Lulu, viens, on va nager !
+
+// (lulu)
+<0002> Ouii ! Lulu ne regrette pas qu'on ait acheté des maillots !
+
+// (ellie)
+<0003> Ce maillot te va tellement bien, Lulu!
+
+// (lulu)
+<0004> Toi aussi, Ellie!
+
+// (cook)
+<0005> Hé, vous deux ! On est pas venus pour jouer dans l'eau.
+
+// (halena)
+<0006> Un temple au bord du lac... C'est donc ça, l'endroit que vous cherchiez.
+
+// (ellie)
+<0007> Maintenant qu'on a trouvé le temple, on peut faire une pause, non ?! Vous en avez pas marre de marcher en plein cagnard ?
+
+// (ellie)
+<0008> Autant profiter d'être arrivées à un lac et piquer une tête !
+
+// (lulu)
+<0009> Elle a raison !
+
+// (halena)
+<0010> Eh bien, il fait très chaud, je vous l'accorde, et je comprends que vous ayez besoin d'une pause...
+
+// (lulu)
+<0011> Ouiii !
+
+// (ellie)
+<0012> Ouiii !
+
+// (halena)
+<0013> Mhm...
+
+// (halena)
+<0014> Si j'avais su, je me serais acheté un maillot, moi aussi.
+
+// (cook)
+<0015> Coco a changé d'avis. Elle veut jouer dans l'eau, elle aussi.
+
+// (ellie)
+<0016> On s'en fiche, des maillots ! Venez dans l'eau avec vos vêtements, vous aurez qu'à vous changer après !
+
+// (???)
+<0017> Incroyable. Si proches, et vous gâchez votre temps à jouer comme des enfants.
+
+// (ellie)
+<0018> !? Qui va là !
+
+// (maynie)
+<0019> Ça fait un bail, bande de nazes !
+
+// (arnelle)
+<0020> Aaahahaha ! Je n'espérais pas vous revoir suite à la "tragédie fongique".
+
+// (ellie)
+<0021> Vous êtes...
+
+// (lulu)
+<0022> Madame Chercheuse de Trésors ?
+
+// (arnelle)
+<0023> Je m'appelle Arnelle ! Tâchez de vous en souvenir !
+
+// (lulu)
+<0024> Pardon.
+
+// (halena)
+<0025> Ellie, qui sont ces gens ?
+
+// (ellie)
+<0026> On a eu des grosses embrouilles, par leur faute !
+
+// (maynie)
+<0027> Tu oses remettre la faute sur nous ?!
+
+// (lulu)
+<0028> Quand vous aviez mangé les champignons, on a failli y passer...
+
+// (arnelle)
+<0029> C'était désastreux. J'espère que ça ne se reproduira jamais.
+
+// (arnelle)
+<0030> Mais tout ça n'a plus d'importance ! Vous êtes venues jusqu'au lac, autrement dit...
+
+// (maynie)
+<0031> Vous cherchez le trésor du temple, c'est ça ?
+
+// (ellie)
+<0032> Le trésor...
+
+// (lulu)
+<0033> Du temple...
+
+// (arnelle)
+<0034> Tout le monde sait que le temple du lac abrite un trésor.
+
+// (maynie)
+<0035> Mais vous ne l'aurez pas ! Il appartient à Dame Arnelle !
+
+// (arnelle)
+<0036> Exactement ! Nous sommes parfaitement préparées, cette fois ! On a ramené toute l'Équipe Arnelle !
+
+// (arnelle)
+<0037> Je vous présente... Watti et Poméranius !
+
+// (pomeranius)
+<0038> Veuillez m'excuser de ne pas m'être présenté plus tôt, jeunes demoiselles. Je m'appelle Poméranius.
+
+// (watty)
+<0039> B-bonjour...
+
+// (ellie)
+<0040> Un chien.
+
+// (cook)
+<0041> Et un poisson !!!!
+
+// (arnelle)
+<0042> La force colossale de Marnie, le flair de Poméranius, et les pouvoirs magiques de Watti. L'Équipe Arnelle au complet, nous sommes invincibles.
+
+// (pomeranius)
+<0043> Sauf votre respect, Mademoiselle, mon museau n'est pas en mesure de vous aider. Notre amie amphibien ci-présente sent horriblement le poisson.
+
+// (watty)
+<0044> J-je suis désolée...!!! Il fait si chaud, aujourd'hui... je sens plus fort que d'habitude...
+
+// (arnelle)
+<0045> ...Oh non.
+
+// (pomeranius)
+<0046> Ceci étant dit, n'ayez crainte, Mademoiselle. Nul être ne vous est plus loyal que moi en ces lieux.
+
+// (maynie)
+<0047> Des nèfles ! Tais-toi, sale cabot ! Personne n'est plus fidèle à Dame Arnelle que Marnie !
+
+// (pomeranius)
+<0048> Chaque petite remarque entâche la grâce de Mademoiselle, je te prie donc de fermer ta bouche pour les contenir.
+
+// (maynie)
+<0049> Espèce de...!
+
+// (arnelle)
+<0050> Cessez de vous chamailler.
+
+// (watty)
+<0051> Je... euh... et si on allait explorer le temple, plutôt...?
+
+// (watty)
+<0052> Ces quatre filles... J-je crois qu'elles sont déjà à l'intérieur.
+
+// (arnelle)
+<0053> Comment ?! Quand est-ce qu'elles sont parties !?
+
+// (pomeranius)
+<0054> Il est clair que cela ne se serait point produit en l'absence d'une certaine jeune fille impulsive.
+
+// (maynie)
+<0055> Marnie t'interdit de l'accuser comme ça !
+
+// (arnelle)
+<0056> Bon sang ! Dépêchons-nous de les rattraper !
+
+// ========= Scene: Summer 2022 Event Ending =========
+
+// (ellie)
+<0057> Ouah, t'as vu comme ça brille de partout ?
+
+// (lulu)
+<0058> Ça a vraiment tout l'air d'une salle au trésor !
+
+// (cook)
+<0059> *snif snif* Bonne nouvelle ! L'instinct de Coco confirme qu'on est au bon endroit.
+
+// (cook)
+<0060> C'est "L'Endroit Où Vous Étiez Censées Aller."
+
+// (ellie)
+<0061> Vraiment !?
+
+// (halena)
+<0062> Autrement dit, votre voyage touche à sa fin.
+
+// (ellie)
+<0063> La fin du voyage... Ça veut dire que...
+
+// (arnelle)
+<0064> Bon sang ! Elles ont été plus rapides !
+
+// (lulu)
+<0065> Ouah, c'est Mme. Chasseuse de Trésors!
+
+// (maynie)
+<0066> Dame Arnelle ! Elles n'ont toujours pas trouvé le trésor, on dirait !
+
+// (arnelle)
+<0067> En effet. Le trésor doit encore être quelque part par là...! Poméranius, tu le sens ?
+
+// (pomeranius)
+<0068> Son odeur rayonne. Elle rayonne encore plus que la jeune fille mi-poisson à mes côtés.
+
+// (watty)
+<0069> J-je sens si mauvais que ça...? Je suis désolée...
+
+// (pomeranius)
+<0070> Celà étant dit, l'odeur que je sens ressemble davantage à...
+
+// (ellie)
+<0071> Hein ? Un tremblement de terre !?
+
+// (halena)
+<0072> Non, on dirait plutôt un mécanisme qui vient de s'activer.
+
+// (cook)
+<0073> Un piège !?
+
+// (halena)
+<0074> Cet endroit est dangereux. Vite, dépêchons-nous de-...
+
+// (arnelle)
+<0075> La sortie est bloquée ! Non !
+
+// (ellie)
+<0076> On va vraiment se faire enterrer ici vivants !?
+
+// (lulu)
+<0077> L'œuf d'or de Lulu !!!!
+
+// (ellie)
+<0078> Lulu !
+
+// (halena)
+<0079> Quelque chose... est sorti de l'œuf ?
+
+// (cook)
+<0080> C'est, euh... une deuxième coquille d'œuf encore plus grosse !?
+
+// (lulu)
+<0081> Vite, rentrez tous dans la coquille d'œuf l!
+
+// (ellie)
+<0082> Oui !
+
+// (arnelle)
+<0083> Et zut.
+
+// (lulu)
+<0084> Œuf d'or... protège-nous tous, je t'en supplie...
+
+// (ellie)
+<0085> Aaaaaaah !

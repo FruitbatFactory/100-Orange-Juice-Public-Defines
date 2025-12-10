@@ -1,0 +1,49 @@
+< EVENTNAME_MINIONS_OF_THE_MASTER >
+Monstres de la Reine
+
+< EVENTNAME_MASTER_OF_THE_MINIONS >
+Reine des Monstres
+
+< EVENTNAME_BOUNTY_HUNTERS >
+Chasseurs de Primes
+
+< EVENTNAME_MASTER_ANGLERS >
+Les Maîtres de la Pêche
+
+< EVENTNAME_BEACH_PARTY >
+Plage du Carnage
+
+< EVENTNAME_SHROOM_ZOOM >
+Champi-Champions
+
+< EVENTNAME_BOUNTY_HUNGERS >
+Chasse-Croûte
+
+< EVENTNAME_POOL_PARTY >
+Piscine Mutine
+
+< EVENTNAME_SCHOOL_CRASHERS >
+Rats d'École
+
+< EVENTNAME_CHAOS_MODE >
+Mode Chaos
+
+< EVENTNAME_S3_TAGTEAM_MODE >
+Crise Périscolaire
+
+< EVENTNAME_WINTER2023 >
+Souvenirs Brisés
+
+< EVENTNAME_POPPO >
+Fête des Poppos
+
+< EVENTNAME_OPERATION_HALLOWEEN >
+Opération Halloween
+
+< EVENTNAME_SUMMER2025 >
+Triple Peine
+
+< EVENTNAME_WINTER2025 >
+Challenge au Club
+
+[EOF]

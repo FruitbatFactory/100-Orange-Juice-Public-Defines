@@ -1,0 +1,162 @@
+<0000> Po.
+<0001> Po-ppo !
+<0002> Poppopo.
+<0003> Poppoah !
+<0004> Je vais jouer cette carte.
+<0005> Hop.
+<0006> Je vais faire bouger les choses.
+<0007> C'est po-rti.
+<0008> Je po-se un piège.
+<0009> Maman po-se ça ici.
+<0010> Hihi.
+<0011> J'adopte cet endroit pour ce piège.
+<0012> Attention, ça peut être dangereux.
+<0013> Maman n'est pas toujours aussi clémente.
+<0014> Ça risque de faire un peu mal.
+<0015> Espérons que tu tiendras bon.
+<0016> Maman peut tenir tête au danger sans broncher.
+<0017> Je me suis bien repo-sée.
+<0018> Des fois, il faut savoir s'arrêter\npour ensuite repartir du bon pied.
+<0019> Je reviens d'une bonne congée.
+<0020> Je me sens déjà pocoup mieux.
+<0021> Je devrais po-t-être me repo-ser un peu plus.
+<0022> Bon sang...
+<0023> Ça va à l'encontre de mes plans.
+<0024> *baîlle* Je vais devoir me repo-ser\nun peu plus longtemps.
+<0025> Maman passe à l'attaque.
+<0026> Je vais déchaîner mes poings !
+<0027> L'amour de Maman.
+<0028> À l'attaque !
+<0029> Ça fait mal !
+<0030> C'est désagréable.
+<0031> Guh.
+<0032> Bon sang !
+<0033> Comme c'est repo-sant.
+<0034> Il ne faut jamais négliger la santé.
+<0035> Il est bien trop pôt pour abandonner.
+<0036> Je me sens renaître.
+<0037> Entre le temps et l'espace...
+<0038> Maman se trouve partout et nulle part en même temps.
+<0039> Maman est l'univers...
+<0040> Jusqu'aux limites du monde...
+<0041> Poh non...
+<0042> Mes jambes... elles ne répondent plus.
+<0043> Je crois que ce n'est plus po-ssible.
+<0044> Je ne peux pas me laisser tomber de sipôt...
+<0045> Maman se sent agressive.
+<0046> Je crains que ça soit un mal nécessaire...
+<0047> La puissance maternelle...
+<0048> Rien ni personne n'arrête Maman.
+<0049> La violence n'est jamais une solution.
+<0050> Oh, seigneur, tu fais un de ces regards...
+<0051> Tu es sûr de vouloir faire ça ?
+<0052> Tu veux te battre contre Maman ?
+<0053> Un adulte ne doit pas se défouler.
+<0054> Une grosse attaque rien que pour toi.
+<0055> Parfois, la violence dissuade la violence.
+<0056> Un coup d'amour.
+<0057> C'est douloureux.
+<0058> Hihi, comme c'est mignon.
+<0059> Bien joué...
+<0060> Poppo !!
+<0061> C-c'est un potit peu trop pour moi...
+<0062> Maman ne peut pas encaisser tout ça.
+<0063> Tu voulais me tuer...?
+<0064> Maman ne pleure pas facilement...\nMais les larmes me montent aux yeux.
+<0065> Serait-ce le vent ?
+<0066> Hihi, ça ne peut pas me toucher.
+<0067> L'esquive harmonieuse de Maman.
+<0068> Je ne suis plus là.
+<0069> C'était ta ponition.
+<0070> Hihi, Maman est si forte.
+<0071> Reviens me voir quand tu seras calmé.
+<0072> C'est comme ça que font les adultes.
+<0073> C'est impo-ssible...
+<0074> Comment oses-tu faire du mal à Maman ?
+<0075> Pot-être que je t'ai mal éduqué ?
+<0076> C'est insoutenable.
+<0077> Voilà qui aide à payer le loyer...
+<0078> Je ne dis jamais non à un potit supplément.
+<0079> Tous mes remerciements.
+<0080> Un adulte ne peut pas ignorer l'impo-rtance de l'argent.
+<0081> Notre petite famille tombe en lampeaux...
+<0082> On ne peut pas vivre sans le sou...
+<0083> Il n'y a rien de pire.
+<0084> Non !... Mes yeux deviennent larmoyants...
+<0085> Pourquoi avoir piégé Maman ?
+<0086> Comme c'est rusé... Bien joué.
+<0087> Comment as-tu pu ?
+<0088> Oh non... Je suis tellement grande,\nje ne vois pas sur quoi je marche.
+<0089> C'est très risqué de se mesurer à cette chose.
+<0090> Je crains que les choses aient changé, à po-résent.
+<0091> C'est... surprenant...
+<0092> Oh, miséripo. J'ai comme un mauvais pressentiment.
+<0093> L'argent compte pocoup.
+<0094> J'aimerais éponomiser un peu plus...
+<0095> Mieux vaut ne jamais être en manque.
+<0096> Je voudrais quelques étoiles, si po-ssible.
+<0097> Maman a besoin de se défouler un po.
+<0098> Maman a les po-ings qui tremblent...
+<0099> Maman ne ferait de mal à personne...\nmais ce n'est qu'un jeu.
+<0100> Quelqu'un saurait où trouver un bon punching bag ?
+<0101> Maman t'a manqué ?
+<0102> Maman Poppo à l'appel !
+<0103> Hihi, n'ai pas honte de demander de l'aide à Maman.
+<0104> Tu dis que Maman est toujours belle ?
+<0105> C'est parti !
+<0106> Maman connaît très bien ce jeu.
+<0107> Hihi, j'espère qu'on va tous bien s'amuser.
+<0108> Un autre combat qui pommence...
+<0109> Maman Fortune !
+<0110> Personne ne peut battre le sourire d'une maman fière.
+<0111> Rien ne peut battre Maman.
+<0112> Je suis tellement ravie, poppo.
+<0113> Attention à ne pas trop dépenser.
+<0114> Tu en avais déjà acheté un... Non ? C'est un autre ?
+<0115> Hihi, tu as vraiment l'air aux anges. Comme un enfant.
+<0116> Maman est ravie.
+<0117> Tu veux bien remplacer Maman ?
+<0118> Prends donc ma place.
+<0119> Maman veut que tu prennes sa place.
+<0120> Il faut que tu remplaces Maman.
+<0121> D'accord.
+<0122> Très bien.
+<0123> Oui.
+<0124> Non.
+<0125> Oh non...
+<0126> C'est ton jour de chance.
+<0127> Je ne sais pas quoi en penser.
+<0128> On peut y aller !
+<0129> Poh !
+<0130> Maman va faire de son mieux.
+<0131> Bien le bonjour.
+<0132> Popopo ?
+<0133> Bien joué.
+<0134> Maman te félicite !
+<0135> Mpoooh !
+<0136> Il n'y a pas de mal à emprunter.
+<0137> Maman emprunte ta carte Hyper un instant !
+<0138> Cette carte n'est pas à moi,\nce serait malpo-li de mal s'en servir.
+<0139> Je suis ravie de pouvoir m'en servir.
+<0140> Merci pocoup.
+<0141> L'amour maternel change la violence en belles étoiles.
+<0142> Oh, comme c'est vilain.
+<0143> Tu débordes d'énergie, c'est bon à voir.
+<0144> C'est vraiment adorable.
+<0145> Maman se sent pleine d'énergie grâce à vous tous.
+<0146> Hihihi, il n'y a rien de plus impo-rtant que la santé.
+<0147> Hihi, le pouvoir de l'amour rend Maman immortelle.
+<0148> Vous avez tous l'air si heureux,\nMaman est ravie d'être avec vous.
+<0149> Il faut savoir perdre une chose pour en gagner une autre...
+<0150> Ouff... Pffou... Je n'ai plus l'âge pour faire ça.
+<0151> Fut un temps où je pouvais me télépo-rter sans problème...\nMaintenant, c'est un peu rude.
+<0152> J-j'ai les genoux qui tremblent...
+<0153> Quel gâchis de ressources...
+<0154> C'est du gaspillage, mais...
+<0155> Hmm... Je n'ai plus de place...
+<0156> Hélas, l'amour maternel ne sauve pas tout...
+<0157> Maman aimerait voir... comment se débrouille son enfant.
+<0158> Hihihi, tu veux jouer avec Maman ?
+<0159> Maman est ravie de te voir en forme.
+<0160> Tu as surpassé Maman... Je suis si fière de toi.
+<0161> Cette carte rend Maman nostalgique.

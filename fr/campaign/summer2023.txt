@@ -1,0 +1,274 @@
+
+// ========= Scene:  Opening =========
+
+// (lulu)
+<0000> C'est bon... Nous pouvons sortir de la coquille.
+
+// (halena)
+<0001> Pfiou, on était à ça près de se faire enterrer vivants.
+
+// (arnelle)
+<0002> Je dois bien l'admettre, le coup de la coquille géante, c'était spectaculaire.
+
+// (cook)
+<0003> Elle est tellement lisse que les gravats ont glissé dessus tout du long !
+
+// (ellie)
+<0004> Bravo Lulu, c'était génial !
+
+// (lulu)
+<0005> Héhéhé.
+
+// (arnelle)
+<0006> Tu nous as sauvé la vie... On t'en doit une.
+
+// (ellie)
+<0007> Vraiment ? Dans ce cas, vous devriez nous laisser le trésor.
+
+// (arnelle)
+<0008> Ne mélange pas tout, jeune fille.
+
+// (maynie)
+<0009> Exactement ! C'est de votre faute si ce piège nous est tombé dessus !
+
+// (ellie)
+<0010> Comment ça, de notre faute !? On y est pour rien !
+
+// (halena)
+<0011> Pas croyable, vous venez d'échapper à la mort et vous continuez à vous battre.
+
+// (cook)
+<0012> Coco a encore le cœur qui bat la chamade...
+
+// (ellie)
+<0013> Enfin ! Le trésor du temple est possiblement quelque chose de très important pour moi ! Je ne vous laisserai pas vous en approcher !
+
+// (maynie)
+<0014> On s'en moque !
+
+// (watty)
+<0015> S-stop ! Calmez-vous, s'il vous plaît... C-cet endroit est toujours aussi dangereux...
+
+// (arnelle)
+<0016> Vraiment ? Tu arrives à sentir quelque chose, Watti ?
+
+// (pomeranius)
+<0017> Mon museau s'accorde avec Watti. Un autre danger plane sur nous.
+
+// (watty)
+<0018> B-beaucoup de culminations de pouvoirs magiques... Elles sont toutes minuscules, mais...
+
+// (maynie)
+<0019> Quoi, il y a encore autre chose !?
+
+// (ellie)
+<0020> Oh non !
+
+// (ellie)
+<0021> Je peux la sentir... Cette sensation insupportable...!
+
+// (poppo)
+<0022> Poppooo !!!
+
+// (ellie)
+<0023> Ahaa ! Encore ces fichus rats !!!
+
+// (lulu)
+<0024> Ils sont si nombreux !!!
+
+// (pomeranius)
+<0025> Cette odeur, encore pire que celle de la jeune fille poisson... Elle vient donc de ces rongeurs.
+
+// (ellie)
+<0026> Préparez-vous à morfler jusqu'au dernier !
+
+// ========= Scene:  Ending =========
+
+// (lulu)
+<0027> Ça ne s'arrête jamais !
+
+// (ellie)
+<0028> Je vais tous les laminer !
+
+// (halena)
+<0029> Tu devrais te calmer, Ellie.
+
+// (arnelle)
+<0030> Ça n'en finira jamais. Watti !
+
+// (watty)
+<0031> O-oui !
+
+// (arnelle)
+<0032> Disperse tous ces rats sans causer le moindre dégât au temple. Tu en es capable, n'est-ce pas ?
+
+// (watty)
+<0033> P-peut-être.
+
+// (pomeranius)
+<0034> C'est la seule chose que tu saches faire, alors fais-le.
+
+// (watty)
+<0035> Monsieur Pom... j-je... Ok, je vais le faire !
+
+// (maynie)
+<0036> Revenez là, sales mioches ! On va nettoyer toute la zone !
+
+// (ellie)
+<0037> Aha ? Vous comptez faire quoi, exactement ?
+
+// (arnelle)
+<0038> Tais-toi et viens, maintenant.
+
+// (cook)
+<0039> D'après son instinct, Coco pense qu'on devrait les écouter.
+
+// (lulu)
+<0040> Compris !
+
+// (watty)
+<0041> ......
+
+// (watty)
+<0042> Je... je suis prête.
+
+// (arnelle)
+<0043> Parfait, vas-y !
+
+// (watty)
+<0044> Pouvoirs magiques... allez-y...!
+
+// (halena)
+<0045> Cette magie n'est-elle pas un peu trop violente pour être relâchée à l'intérieur...!?
+
+// (arnelle)
+<0046> Personne ne contrôle mieux sa magie que Watti. Rien de plus facile pour elle que de nous débarrasser des rats sans causer le moindre dégât au temple.
+
+// (pomeranius)
+<0047> Avec une plus haute estime de toi-même, tu pourrais accomplir tous les désirs de Mademoiselle.
+
+// (watty)
+<0048> D-d'accord... Merci, Monsieur Pom...
+
+// (arnelle)
+<0049> Au moins, nous n'avons plus de compte à régler avec ces gamines.
+
+// (maynie)
+<0050> Maintenant, on peut prendre ce trésor sans hésiter !
+
+// (ellie)
+<0051> Quoi ? Tu viens de dire quoi, là !?
+
+// (lulu)
+<0052> *soupir* Ça n'en finira jamais.
+
+// (lulu)
+<0053> Nous ne sommes plus en danger, alors ?
+
+// (pomeranius)
+<0054> *Sniff*sniff*
+
+// (pomeranius)
+<0055> ......Je sens encore quelque chose.
+
+// (watty)
+<0056> Oui... Quelque chose qui déborde de magie.
+
+// (lulu)
+<0057> Vraiment ?
+
+// (ellie)
+<0058> Oui, vraiment.
+
+// (ellie)
+<0059> Je le sens aussi... Je sens que c'est... ce que je cherchais tout du long.
+
+// (???)
+<0060> Les enfants...
+
+// (arnelle)
+<0061> Qui êtes-vous !?
+
+// (???)
+<0062> Ainsi, vous avez vaincu les copo-ieuses.
+
+// (halena)
+<0063> Que se passe-t-il...?
+
+// (???)
+<0064> Maman est retenue dans ce temple depuis si longtemps.
+
+// (lulu)
+<0065> M-Maman ? Mais... mais alors...
+
+// (ellie)
+<0066> Je t'ai cherchée sans relâche !
+
+// (ellie)
+<0067> Maman !!!
+
+// (motherpoppo)
+<0068> Ellie...
+
+// (arnelle)
+<0069> C'est un rat ? Un très gros rat ?
+
+// (pomeranius)
+<0070> Je peux sentir qu'elle est bien plus que ça. Elle est entourée d'une imposante aura de noblesse.
+
+// (ellie)
+<0071> Maman ! J'avais tellement hâte de te voir !
+
+// (motherpoppo)
+<0072> Maman n'attendait que ça, elle aussi.
+
+// (arnelle)
+<0073> ...Attends. C'est elle, du coup, le trésor du temple qu'on cherchait ?
+
+// (pomeranius)
+<0074> Une souris pourvue de l'élégance et de la grâce d'une reine... Elle est bien plus qu'un trésor...
+
+// (lulu)
+<0075> Ellie... Lulu est tellement ravie !
+
+// (lulu)
+<0076> (Mais... c'est la fin de l'aventure,\nalors ?)
+
+// (lulu)
+<0077> (Lulu est contente que Ellie soit contente, mais... Lulu se sent un peu triste.)
+
+// (???)
+<0078> (Un peu ? Quel gros mensonge. Tu es profondément triste, n'est-ce pas ?)
+
+// (???)
+<0079> (Vous avez voyagé ensemble pendant si longtemps, et pourtant, elle seule parvient à ses fins.)
+
+// (???)
+<0080> (Elle ne te laisse pas une once de bonheur.)
+
+// (lulu)
+<0081> Qu'est-ce que c'est...? D'où vient cette voix ?
+
+// (???)
+<0082> (Vas-y, brise leur bonheur. Brise le bonheur de ces ingrats.)
+
+// (lulu)
+<0083> Argh... Gah...
+
+// (???)
+<0084> (Tu es née pour ça, après tout.)
+
+// (???)
+<0085> (Allons, reprenons-lui cette stupide "happy end", ensemble.)
+
+// (lulu)
+<0086> Oaaaaaaaarh !!!
+
+// (ellie)
+<0087> Tout va bien, Lulu !?
+
+// (motherpoppo)
+<0088> ...C-c'est impossible...
+
+// (darklulu)
+<0089> L'esprit de Lulu... est si sombre...

@@ -1,0 +1,161 @@
+<0000> Mauryaah !
+<0001> Toryaah !
+<0002> Eryaah !
+<0003> Sweet !
+<0004> Héhé, et voilà ça !
+<0005> Et maintenant, je joue ça.
+<0006> Allez, à toi de jouer !
+<0007> Je vais renverser la situation !
+<0008> Parfois, on a pas d'autres choix.
+<0009> Déesse ou pas, je compte pas les laisser gagner.
+<0010> Hihihi ! Piège sucré !
+<0011> Alors, de quoi es-tu capable ? Héhéhé.
+<0012> Ça va accroître ma puissance de Déesse du Sucre !
+<0013> Je vais te c-c-c-c-comboter !
+<0014> Aah, c'est agréable, tout ce pouvoir~
+<0015> C'est fini pour toi !
+<0016> Sucreries ! Donnez-moi votre pouvoir !
+<0017> Je suis en rogne !
+<0018> Ça fait que commencer !
+<0019> Plus de pitié, maintenant !
+<0020> Je suis inarrêtable !
+<0021> Hein ? C'est pas normal.
+<0022> Pourquoiii !
+<0023> Oh non... *snif*.
+<0024> Ghh... La misère n'échappe pas aux déesses, on dirait...
+<0025> Oryaaah !
+<0026> Uoohh-mauryaah !
+<0027> Tu vas finir en sucrerie !
+<0028> Eeey !
+<0029> Aïe !
+<0030> Je suis une déesse ! Comment oses-tu !?
+<0031> Ouahh !
+<0032> Ça fait mal...
+<0033> Aaaahhh...
+<0034> Ahh, je sens arriver une montée de sucre !
+<0035> Les bonbons peuvent même soigner !
+<0036> Je sens l'énergie me traverser le corps !
+<0037> Hein ?
+<0038> C'est quoi, ça !
+<0039> Qu'est-ce que c'est que ça, encore...!
+<0040> J'ai comme la vue trouble...
+<0041> Mais... que...
+<0042> Mais... je suis une déesse...
+<0043> Je perds ma force...
+<0044> Nooon... pourquoi moi...
+<0045> Intervention divine !
+<0046> Hors de mon chemin !
+<0047> Tu veux voir l'étendue de ma puissance ?\nJe vais te montrer !
+<0048> Déesse ou pas, le premier touché a perdu !
+<0049> Ohh, pour qui tu me prends...
+<0050> Tu manques clairement de prudence.
+<0051> Avant de m'attaquer, prépare-toi aux représailles !
+<0052> Amène-toi !
+<0053> Sweet Attack !
+<0054> Ey-ey-ey-ey !
+<0055> Je vais t'écraser de toutes mes forces !
+<0056> Oryaryaahh !
+<0057> Gh !
+<0058> Mau !
+<0059> C'est horrible...
+<0060> Arrête ça !
+<0061> Guehh !
+<0062> Ça fait super mal !
+<0063> Arrête...
+<0064> Ouiin...
+<0065> Hihihi, débutant.
+<0066> Je prédis toutes tes attaques.
+<0067> Je crois que je suis beaucoup trop souple.
+<0068> Ouap ! Si je me faisais toucher, j'étais fichue...
+<0069> Rien de bien surprenant ! Je suis une déesse !
+<0070> Héhé, tu n'oublies rien ? Même pas un petit "pardon" ?
+<0071> Quelle idée de me défier, en même temps !
+<0072> Hihihi... Quel pouvoir merveilleux.
+<0073> Oh non... où est passée ma puissance divine...
+<0074> *snif*...
+<0075> Je m'en souviendrai ! Gare à toi !
+<0076> Je veux plus jamais faire ça...
+<0077> Ouaah, j'ai trop de chance !
+<0078> Il m'en faut encore plus !
+<0079> Tout ce que je vais pouvoir faire avec cet argent...
+<0080> Ahh, c'est tellement génial.
+<0081> Rendez-moi mon bonheur !
+<0082> C'est nul... c'est... c'est horrible.
+<0083> Mes... mes étoiles !!
+<0084> Non, stop ! Partez pas !
+<0085> Ouaahh !
+<0086> Quel piège cruel !
+<0087> Hmrr... Qui a osé piéger une déesse...
+<0088> Bon sang, on m'a eue !
+<0089> En voilà, une grosse surprise...
+<0090> Cette chose a l'air d'égaler ma puissance divine...
+<0091> Il a l'air vraiment dangereux.
+<0092> C'est quoi, ce géant !
+<0093> Avec moi, les étoiles !
+<0094> Tu savais que les étoiles servent dans la pâtisserie ?
+<0095> Je vais me trouver des étoiles.\nRien de plus facile pour une déesse !
+<0096> Je vais faire des cookies en forme d'étoiles !
+<0097> J'ai comme une envie d'utiliser mon pouvoir divin...\nPeut-être une impulsion destructrice.
+<0098> Je veux utiliser mes pouvoirs, je peux pas me retenir...
+<0099> Héhéhé... j'ai besoin que d'une pichenette pour vous vaincre...
+<0100> Mes pouvoirs divins veulent que je sème la terreur...
+<0101> C'est moi, Saki, mais bien plus encore !
+<0102> Je suis Saki, alias Sweet Maker !
+<0103> J'ai fait plein de bonbons pour le goûter !
+<0104> Sens-tu ce grand pouvoir ? Le pouvoir des sucreries...
+<0105> Telle quelle, personne peut me vaincre !
+<0106> Hihihi, bande d'idiots...
+<0107> Vous goûterez à... l'enfer sucré...
+<0108> Que la fête commence !
+<0109> Rien de plus naturel que ce résultat !
+<0110> Mouahahaha, je suis la meilleure !
+<0111> Cette victoire m'est donnée par mes pouvoirs divins !
+<0112> Les sucreries ! Le monde entier est fait de sucreries !
+<0113> Oh, c'est la recette d'un nouveau dessert ?
+<0114> Si c'est un gâteau, on devrait se le partager !
+<0115> Alors, c'est quoi ? Un trésor, j'espère !
+<0116> T'as l'air vraiment ravi !
+<0117> On échange !
+<0118> Tiens, prends ma place !
+<0119> Je te laisse t'en charger !
+<0120> On échange ! Bonne chance !
+<0121> Ok !
+<0122> Ouah.
+<0123> Je m'en occupe !
+<0124> Non !
+<0125> Oh...
+<0126> C'est trop de la chance !
+<0127> Je comprends pas.
+<0128> Let's go ! Let's go !
+<0129> Je balance le dé !
+<0130> Bon courage ! Je crois en toi !
+<0131> Ravie de te revoir !
+<0132> Hmm ? Hein ?
+<0133> Génial !
+<0134> C'est une offrande merveilleuse !
+<0135> Hgrmm... c'est pas possible...
+<0136> Je vais essayer celle-là !
+<0137> Quelle puissance incroyable !
+<0138> Depuis le temps que j'ai ce super-pouvoir dans ma main...
+<0139> Observez ! Vous allez pas en revenir !
+<0140> Merci beaucoup !
+<0141> Si je vous bats, ce sera moi, la patronne !
+<0142> Hein ? Vous voulez vous battre, patronne !?
+<0143> C'est moi, la patronne des Déesses du Sucre, maintenant !
+<0144> Uee... vous êtes vraiment balèze, patronne..
+<0145> Allons-y ! Un combat entre Déesses du Sucre !
+<0146> Un combat de Déesses du Sucre ? Là, maintenant ?
+<0147> Ça prouve que je suis supérieure ! ...Enfin, je crois ?
+<0148> Aïe... Venant d'une autre déesse, j'en attendais pas moins...
+<0149> Quand on combine nos forces, on est invincibles !
+<0150> Personne peut battre un duo de déesses !
+<0151> Nos pouvoirs combinés vont leur laisser un goût amer !
+<0152> Héhéhé, à nous deux, on va contrôler\nles sucreries du monde entier...
+<0153> Le pouvoir des sucreries est inarrêtable !
+<0154> Ce pouvoir est si grand qu'il devrait être scellé...
+<0155> Tout le monde adore les sucreries !
+<0156> Voyez ce que les sucreries peuvent accomplir !
+<0157> Ces bonbons sont fait maison !
+<0158> Ce sera mon goûter d'aujourd'hui !
+<0159> Hihihi, je suis ravie.
+<0160> Alors ? Ça a pas l'air délicieux, ça ?

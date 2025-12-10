@@ -130,6 +130,10 @@ descr=Ganhe +1 em DEF para cada estoque.
 name=Buff de Evasão
 descr=Ganhe +1 em EVD para cada estoque.
 
+< CARD_AMPHPEVD_EFFECT >
+name=Buff de Vida e Evasão
+descr=Ganhe +1 em HP máximo e +1 em EVD para cada estoque.
+
 < CARD_AMPMOV_EFFECT >
 name=Buff de Movimento
 descr=Ganhe +1 na jogada de movimento.
@@ -369,7 +373,7 @@ descr=Mova-se no sentido oposto enquanto estiver com essa carta. Normas são des
 
 < CARD_PRICEOFPOWER_EFFECT >
 name=Preço do Poder
-descr=Você pode jogar cartas de um nível superior ao seu nível atual. O custo de todas as cartas é aumentado em 5.
+descr=Você pode pagar 5 estrelas a mais para jogar cartas de um nível superior ao seu nível atual.
 
 < CARD_POPPOSNATCHER_EFFECT >
 name=Poppo, a Ladra
@@ -756,5 +760,17 @@ descr=Quando outro jogador sofrer nocaute, ganhe o Nvl dele vezes 5 em estrelas.
 < CARD_INTELLECTUALBLUFF_EFFECT >
 name=Blefe Pseudointelectual
 descr=Se a próxima carta que você jogar for do tipo Escolhido por quem botou: Ele ganha 2 Vitórias e Nvl vezes 10 em estrelas.\nApenas declarado: Ele toma 2 de dano.
+
+< CARD_TICKEDOFF_EFFECT >
+name=Estamos irritados!
+descr=Se seu HP for 1 no começo da batalha, ganhe +2 ATK.
+
+< CARD_LONGARMS_EFFECT >
+name=Olha Como Meus Braços E Pernas Estão Longos Agora
+descr=Você pode pagar 5 estrelas a mais para colocar armadilhas em um raio de 2 painéis. Aumente todos os níveis de cartas que não sejam Armadilhas e Presentes em 1 (até 5).
+
+< CARD_BURNINGPANEL_EFFECT >
+name=Painel Ardente
+descr=Este painel está pegando fogo. Unidades começando ou terminando seus turnos nele tomarão 1 de dano.
 
 [EOF]

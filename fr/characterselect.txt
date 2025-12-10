@@ -1,0 +1,17 @@
+
+< CHARACTERSELECT_QP >
+Une fille-chien un peu niaise. Pourrait tout faire pour son pudding.\nUn personnage parfaitement équilibré qui s'adapte à toutes les situations. Difficulté Moyenne.
+
+< CHARACTERSELECT_SUGURI >
+Âgée de plus de 10 000 ans. Très rapide.\nUn personnage style "tout ou rien", qui se contente d'esquiver pour survivre. Difficulté Élevée.
+
+< CHARACTERSELECT_MARC >
+Une jeune fille passionnée par l'aviation.\nBonne en attaque et en défense. Peut infliger des dégâts ciblés avec sa carte Hyper. Difficulté Moyenne.
+
+< CHARACTERSELECT_KAI >
+Un mec normal qui a perdu son porte-monnaie.\nÉquilibré, bon en combat. Difficulté Basse.
+
+< CHARACTERSELECT_DLC >
+Note : Vous pouvez jouer avec un personnage de DLC\ndéjà débloqué dans l'écran de Création de Deck.
+
+[EOF]

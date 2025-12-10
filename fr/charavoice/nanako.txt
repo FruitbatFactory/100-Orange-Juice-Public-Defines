@@ -1,0 +1,160 @@
+<0000> Hah !
+<0001> Hop !
+<0002> Hey !
+<0003> Yah !
+<0004> Je joue celle-ci !
+<0005> Le moment idéal.
+<0006> C'est le bon moment...!
+<0007> Avec ça...
+<0008> Un piège !
+<0009> Je m'occupe d'enterrer ça là.
+<0010> Carte-piège !
+<0011> On va voir qui est suffisamment bête pour activer ce piège.
+<0012> Ma stratégie est sans faille, et je vais vous le prouver !
+<0013> Je me demande combien j'ai gagné en puissance.
+<0014> Prends mon poing et dansons.
+<0015> Prudence est mère de sûreté.
+<0016> Allez, les Croks, on y va !
+<0017> Je peux pas rester par terre pour toujours.
+<0018> Hihihi ! Je suis de retour !
+<0019> Ok, c'est l'heure de la vengeance.
+<0020> Je me suis assez reposée comme ça.
+<0021> Pff, je me suis ratée...
+<0022> Bon, plus qu'à attendre encore un peu.
+<0023> Ahh, zut !!
+<0024> Hein ? Pourquoi ?!
+<0025> Prête à l'action !
+<0026> À l'attaque, les croks !
+<0027> Je vais t'abattre !
+<0028> Mords la poussière !
+<0029> Aïe !
+<0030> Ça fait mal !
+<0031> Zut !
+<0032> Fiche-moi la paix !
+<0033> Ça me soigne...
+<0034> Je peux y retourner.
+<0035> Ça, j'aime bien.
+<0036> Ça soulage.
+<0037> Jusqu'où ça mène ?
+<0038> Fais plus attention à moi, oh !
+<0039> Je m'envole !
+<0040> Qu'est-ce qu'il se passe ?!
+<0041> Je crois que je devrais me reposer...
+<0042> Argh... Je peux plus bouger...
+<0043> J'ai besoin de m'asseoir un peu...
+<0044> Rahh, je déteste ça...
+<0045> Prêt à combattre ?
+<0046> On va se battre, les croks ! Vous êtes prêts ?
+<0047> C'est là qu'on rigole !
+<0048> T'es complètement vulnérable !
+<0049> J'accepte ton défi ! On y va !
+<0050> Tu veux vraiment m'affronter ? T'es bête ou quoi ?
+<0051> Hihi, tu vas le regretter !
+<0052> Oh, tu me saoules !
+<0053> J'attaque !
+<0054> Feu !
+<0055> Esquive ça, pour voir !
+<0056> En formation !
+<0057> Ça m'a à peine touchée !
+<0058> C'est bien moins pire que ce que je pensais !
+<0059> J'ai raté mon esquive...!
+<0060> Argh !
+<0061> Hé, ça fait mal !
+<0062> Vous allez bien, les croks ?!
+<0063> Kyaah !
+<0064> C'est pas bon, ça !
+<0065> Aucune chance que ça me touche !
+<0066> Une attaque ridicule !
+<0067> Tu as raté !
+<0068> Tu raterais un robot géant dans un tunnel !
+<0069> C'était évident.
+<0070> Tu es décevant.
+<0071> C'est tout ce que tu as ?
+<0072> Quoi, déjà à bout ?
+<0073> Argh, pas mauvais.
+<0074> Comment ça peut m'arriver, ça, à moi...
+<0075> Kyuu !
+<0076> Tu perds rien pour attendre ! Tu vas voir !
+<0077> Voilà qui fait plaisir.
+<0078> Je les accepte avec joie.
+<0079> Venez, je vous emmène avec moi !
+<0080> Hihihi... encore, encore plus !
+<0081> Hé, vous allez où comme ça ?!
+<0082> Mes étoiles...!! Argh !
+<0083> Aargh, zut !
+<0084> J'ai fait une bêtise...
+<0085> Quoi, un piège ?!
+<0086> Pas croyable !
+<0087> Qui a posé un piège là ?!
+<0088> Argh, pourquoi il y aurait un piège juste là ?!
+<0089> Il est plutôt balèze, lui.
+<0090> Bon sang... Je vais devoir redoubler d'efforts face à ce truc.
+<0091> Il émane une aura malfaisante.
+<0092> Voilà le plus gros du danger.
+<0093> Je pense que je vais prendre les étoiles.
+<0094> Je vais trouver des étoiles.
+<0095> Je choisis les étoiles, évidemment.
+<0096> Il faut autant d'étoiles que possible, c'est bien ça ?
+<0097> Je choisis le combat.
+<0098> Je vais combattre, et gagner.
+<0099> Je vais accumuler les victoires.
+<0100> Les victoires, rien de plus simple.
+<0101> Nanako à l'appel. Quoi de neuf ?
+<0102> Tu as besoin de mon aide ?
+<0103> D'accord, on va régler ça ensemble.
+<0104> Ok... allons-y.
+<0105> On va gagner haut la main.
+<0106> Bon, comment on doit s'y prendre ?
+<0107> Je suis prête, les croks aussi. On peut y aller.
+<0108> Que la partie commence.
+<0109> Rien de surprenant à cela, n'est-ce pas ?
+<0110> J'ai gagné... Je l'ai mérité, après tout.
+<0111> J'apprécie grandement d'être en première place.
+<0112> Maintenant que c'est fait, je vais me trouver un bon repas.
+<0113> Un nouvel objet.
+<0114> Avec ça, nous sommes plus forts.
+<0115> C'est toujours bon à prendre.
+<0116> Hihi, quelle chance.
+<0117> À toi de jouer.
+<0118> Essaie de pas me décevoir, d'accord ?
+<0119> Tu vas y arriver.
+<0120> Il faut qu'on échange.
+<0121> Ok.
+<0122> Je préfère ça.
+<0123> Oui.
+<0124> Non.
+<0125> Pas bon, ça.
+<0126> La chance.
+<0127> Hm ?
+<0128> Allons-y.
+<0129> J'envoie mon dé.
+<0130> Je suis prête.
+<0131> Bonjour.
+<0132> Hmm.
+<0133> Bien.
+<0134> Magnifique.
+<0135> À quoi ça a servi ?
+<0136> Je l'utilise.
+<0137> Quel est ce pouvoir...
+<0138> Je pense savoir comment m'en servir.
+<0139> Voyons ce que ça donne !
+<0140> Kae, tu veux jouer ?
+<0141> Tu veux jouer avec moi ? D'accord, allons-y.
+<0142> C'était amusant. J'espère rejouer avec toi bientôt.
+<0143> Hihi, t'es vraiment douée.
+<0144> Kyoko, c'est...? Non, vous êtes qui, au juste ?
+<0145> J'ai comme une forte envie de le tabasser,\nmais je n'y arrive pas...
+<0146> Ça vous ennuirait de garder vos distances ?
+<0147> Est-ce que ça me réjouit ou non... Qu'est-ce qu'il m'arrive !?
+<0148> Cet homme... ce visage... Il m'a vaincu...
+<0149> Hihi, tu es grotesque.
+<0150> J'aime plutôt bien les chiens, en fait.
+<0151> Encore en train de réfléchir ?
+<0152> Allez, dépêche.
+<0153> Qu'est-ce qui peut bien te prendre autant de temps ?!
+<0154> *soupir* Je peux attendre,\nmais j'espère que tu vas te dépêcher.
+<0155> Croks, puissance maximale !
+<0156> J'ai fini de m'échauffer.
+<0157> Quel minuscule chaton... Attendez, c'est une gamine ?
+<0158> Quel miniscule... euh, qu'est-ce que c'est ?
+<0159> C'était peut-être une erreur de le détruire.

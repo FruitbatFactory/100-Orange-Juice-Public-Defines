@@ -1,0 +1,163 @@
+<0000> Voilà les dés !
+<0001> Voyons.
+<0002> Un peu de dés ?
+<0003> Roulez bien.
+<0004> Vous avez commandé une carte ?
+<0005> Carte bientôt servie.
+<0006> Nous recommandons cette carte.
+<0007> Voulez-vous une carte ?
+<0008> Et voilà une carte Piège.
+<0009> Veuillez passer de ce côté !
+<0010> Venez par ici !
+<0011> Voilà un piège en complément.
+<0012> Je vais jouer une carte Combat.
+<0013> Ça devrait nous faciliter la tâche !
+<0014> Je vais travailler du mieux que je peux !
+<0015> C'est ça, une carte Combat ? Mhm, je vois...!
+<0016> J'ai pris quelques congés !
+<0017> Ma pause est terminée !
+<0018> Allez, je retourne travailler !
+<0019> Je vais travailler avec le sourire !
+<0020> Je vais devoir rallonger ma pause un petit peu...
+<0021> Pff... Je crois que j'ai besoin de plus de temps...
+<0022> Je crois que je me suis un peu surmenée...
+<0023> Hmm... Je me sens lourde.
+<0024> À l'attaaaaque !
+<0025> Eey !
+<0026> Soyez la bienvenue !
+<0027> Essuie-main et seau d'eau froide parés... Tiens !
+<0028> Aïe !
+<0029> Comment osez-vous !?
+<0030> Hé !
+<0031> Arrêtez ça tout de suite !
+<0032> Ah, ça fait du bien.
+<0033> Très utile !
+<0034> Haa, je me sens beaucoup mieux～
+<0035> C'est génial !
+<0036> Ouaah !
+<0037> Hiiii !
+<0038> Ouah ! Ça va faire tomber la nourriture !
+<0039> J'aime pas, j'aime pas du tout !
+<0040> Gh... je suis fatiguée...
+<0041> Je crois que... je tiens plus...
+<0042> Aïe, mon dos !
+<0043> Guhh...
+<0044> Hé, tu peux faire ce combat pour moi ?
+<0045> Et c'est là qu'il intervient !
+<0046> Aaah ! Aide-moi, je t'en supplie !
+<0047> Attention, il est vraiment très fort !
+<0048> Hiii ! Non, je suis qu'une intérimaire !
+<0049> La clientèle est priée de garder son calme !
+<0050> Désolée, mais vous n'avez pas le droit de faire ça !
+<0051> Hiiiii !
+<0052> Yah !
+<0053> Prenez cette attaque !
+<0054> Paf !
+<0055> Eeey !
+<0056> Ueeh !
+<0057> Attendez, stop !
+<0058> Arrêtez ça, s'il vous plaît !
+<0059> Aouaah !
+<0060> Vous enfreignez les règles de l'établissement !
+<0061> Ouaïe ! C'est horrible !
+<0062> Comment oses-vous faire une chose pareille !?
+<0063> Aah ! Je vais prévenir la police !
+<0064> Ouap !
+<0065> C-c'était risqué !
+<0066> Calmez-vous, je vous prie !
+<0067> Hé, j'ai failli y passer !
+<0068> Merci pour cette douce victoire !
+<0069> Yaaay !
+<0070> Nous espérons vous revoir bientôt !
+<0071> Pfiou... du beau travail.
+<0072> Oh non...
+<0073> Je n'en peux plus...
+<0074> Ghh... Je sais pas si je pourrais faire carrière...
+<0075> C'est très vilain !
+<0076> C'est un bonus à ma paie !?
+<0077> Youpi, mon salaire !
+<0078> C'est bien pour ça que j'aime travailler !
+<0079> Wawah ! C'est trop génial !
+<0080> Hein ? Quoi ? Ça compte pas sur mon salaire, ça, hein ?
+<0081> Hé ! Rends-moi mon bonus !
+<0082> Mais pourquoi je travaille, moi !?
+<0083> Hiiiiié !
+<0084> Qui a posé ça ici !?
+<0085> Ouah ! Ça va, oui ?
+<0086> C'est vraiment autorisé, ça !?
+<0087> C'est un piège !?
+<0088> Oh, ça sent le roussi...
+<0089> Hmm... voilà quelqu'un.
+<0090> Je sens que ça va être un client difficile...
+<0091> Hiiii ! Il me fait peur !
+<0092> Je ne dis jamais non à une augmentation !
+<0093> Une augmentation !? Évidemment que j'accepte !
+<0094> Je vais me faire une fortune !
+<0095> J'espère que c'est compris sur mon salaire !
+<0096> B-bon, tant que quelqu'un d'autre se bat pour moi...
+<0097> Hein ? Qui va se battre, alors ?
+<0098> Les combats ? Mais je saurais pas faire ça, moi...
+<0099> Je vais demander de l'aide à Chef ou au Patron.
+<0100> Je m'appelle Chris ! Bienvenue à Pures !
+<0101> Une recommandation ? Hmm... je dirais le Burger Lapin !
+<0102> Je ferai de mon mieux, comme d'habitude !
+<0103> Au travail ! Au travail !
+<0104> Bienvenue à Pures !
+<0105> Je vais travailler du mieux que je peux !
+<0106> Il faut que je rajoute ça sur mon emploi du temps !
+<0107> Faisons de notre mieux !
+<0108> Merci d'être venus à notre restaurant !
+<0109> J'ai vraiment bien travaillé, aujourd'hui~
+<0110> J'ai enfin terminé ma journée !
+<0111> Du beau travail !
+<0112> C'est bien votre commande ?
+<0113> C'est une de nos recommandations !
+<0114> Vous en voulez un, vous aussi ?
+<0115> Merci pour votre commande !
+<0116> Je vais prendre ma pause.
+<0117> Tu peux me filer un coup de main ?
+<0118> Hé, tu peux me rendre ce service ?
+<0119> On peut échanger, s'il te plaît ?
+<0120> Oui !
+<0121> Génial !
+<0122> Bien sûr !
+<0123> Je ne pourrais pas faire ça...
+<0124> Hrm... Je me sens toute lourde.
+<0125> Quelle chance !
+<0126> Euhh... Hmm.
+<0127> Allez, mettons-nous au travail !
+<0128> J'envoie les dés !
+<0129> Je te souhaite bonne chance !
+<0130> Bien le bonjour !
+<0131> Qu'est-ce que c'est, ça... Hmm.
+<0132> Félicitations !
+<0133> C'est fantastique ! Félicitations !
+<0134> P-pourquoi !?
+<0135> Oh, je n'avais pas vu ça sur le menu !
+<0136> C'était vraiment sur le menu, ça ?
+<0137> Euh... est-ce que j'ai le droit... de m'en servir ?
+<0138> On m'a dit que j'avais le droit de me servir du tout !
+<0139> Hein !? Patron !?
+<0140> A-attention, voilà le Patron !!
+<0141> Patron... v-vous venez travailler, c'est ça ?
+<0142> Oh non... Le Patron a pas l'air content.
+<0143> Hein !? Qu'est-ce que j'ai fait de mal !?
+<0144> Patron... V-vous êtes faché après moi ?
+<0145> Non, Patron ! Surtout pas ça !
+<0146> P-pourquoi vous vous approchez comme ça !?
+<0147> Chef ! Tu peux venir, s'il te plaît ?
+<0148> Chef, les couteaux, c'est peut-être pas nécessaire...
+<0149> Chef, montre-leur ce que tu sais faire !
+<0150> Vas-y, Chef ! Je compte sur toi !
+<0151> Patron, vous pouvez venir ?
+<0152> Quand le Patron est là... plus rien peut nous arrêter !
+<0153> Maintenant que le Patron est là,\nla victoire est assurée !
+<0154> Hé, Patron ! Pas besoin d'en faire des caisses !
+<0155> CHEEEF !!!
+<0156> Hein ? Chef est...!?
+<0157> Noooon ! Cheeef !!
+<0158> Hé, tu vas bien...? Tu devrais prendre une pause.
+<0159> Le P-Patron est.. vaincu...?
+<0160> Oh non... Patron, vous êtes...!
+<0161> Patron ! Réveillez-vous, Patron !!
+<0162> PATROOOOON !!!

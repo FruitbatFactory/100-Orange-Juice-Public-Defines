@@ -1,0 +1,306 @@
+
+// ========= Scene:  Opening =========
+
+// (No Speaker)
+<0000> Restaurant Familial "Pures"
+
+// (poyo)
+<0001> *cronch cronch*... Ah, je me sens toujours plus vivante en mangeant.
+
+// (chuu)
+<0002> Ah bon ?
+
+// (poyo)
+<0003> On mange trois repas par jour, et ils me réjouissent tous autant. Chaipas pourquoi.
+
+// (chuu)
+<0004> C'est parce que la nourriture est l'un des trois besoins de l'Homme !
+
+// (poyo)
+<0005> T'as pas finie d'être graveleuse ?!
+
+// (chuu)
+<0006> Moi, graveleuse ? Quel rapport !?
+
+// (chuu)
+<0007> Au fait, je voulais te demander. Ça te dirait de te lancer dans un nouveau projet ?
+
+// (poyo)
+<0008> Si j'avais assez d'argent, je commanderais un repas service illimité dans un restaurant super chic !
+
+// (chuu)
+<0009> Euh, je voulais dire... quelque chose qu'on ferait à côté des études, tu sais ?
+
+// (chuu)
+<0010> On pourrait encore faire tellement de choses avant de devenir vieilles.
+
+// (poyo)
+<0011> Ça y est, ça redevient graveleux !
+
+// (chuu)
+<0012> Mais non, enfin ! Tu découvres la puberté ou quoi ?!
+
+// (poyo)
+<0013> Bah oui !
+
+// (chuu)
+<0014> On est au lycée depuis des mois, pourtant on a rien fait de nouveau depuis la rentrée.
+
+// (poyo)
+<0015> Pas faux. Après, je m'amuse pas mal ! Les cours sont... supportables, et j'aime bien nos pauses-repas.
+
+// (poyo)
+<0016> Je peux pas dire que j'aime pas être au lycée.
+
+// (poyo)
+<0017> Mais... oui, maintenant que tu le dis, j'ai l'impression de passer à côté d'un truc.
+
+// (chuu)
+<0018> Exactement ! Je voudrais faire quelque chose de nouveau, de spécial, mais...
+
+// (poyo)
+<0019> Y'a rien qui me tente ! Rien que les clubs du lycée, tout a l'air chi... enfin voilà, quoi !
+
+// (chuu)
+<0020> Si ça continue, on va devenir vieilles avant de s'en rendre compte.
+
+// (haruka)
+<0021> Salut ! Vous parlez de quoi ?
+
+// (kanata)
+<0022> ......
+
+// (poyo)
+<0023> Salut, Haru-Kana.
+
+// (chuu)
+<0024> On parlait de la vie au lycée, tout ça tout ça.
+
+// (kanata)
+<0025> ...encore des sujets graveleux ?
+
+// (chuu)
+<0026> Ça y est, ça recommence.
+
+// (haruka)
+<0027> Je vois. Autrement dit, vous savez pas quoi faire du temps libre.
+
+// (poyo)
+<0028> C'est pas que j'aime pas être peinarde, mais ça me frustre de pas avoir d'activité de groupe comme les autres.
+
+// (kanata)
+<0029> D'après mes calculs, ta jeunesse est à un tiers aussi bonne que les leurs.
+
+// (poyo)
+<0030> Faut que je me rattrape !
+
+// (haruka)
+<0031> Et toi, Kanata, t'en penses quoi ?
+
+// (kanata)
+<0032> Je me sens un peu comme Poyo, en fait.
+
+// (chuu)
+<0033> Personne est vraiment en paix avec sa vie actuelle, alors ?
+
+// (haruka)
+<0034> Quand ta vie te convient pas, c'est à toi de la rendre meilleure ♥
+
+// (poyo)
+<0035> C'est facile à dire, tiens !
+
+// (chuu)
+<0036> Il y a deux minutes, tu disais que tu adorais manger.
+
+// (poyo)
+<0037> Et c'est là que t'as commencé à parler de nos vies !
+
+// (haruka)
+<0038> Dans ce cas, vous pourriez rejoindre un club... non ?
+
+// (poyo)
+<0039> C'est sûr... Mais un club de quoi ? Il y a rien qui m'intéresse.
+
+// (poyo)
+<0040> On devrait trouver un club qui convienne à nous quatre...
+
+// (chuu)
+<0041> On se connaît depuis la maternelle, et on a toujours pas trouvé d'intérêt commun.
+
+// (haruka)
+<0042> Un club où l'on serait toutes les quatre, hmm...
+
+// (chuu)
+<0043> Par pitié, pas un club de sport.
+
+// (kanata)
+<0044> ...euh oui, non merci.
+
+// (haruka)
+<0045> Moi j'aime bien le sport.\nEt la cuisine ?
+
+// (poyo)
+<0046> Je cuisine pas, moi, je mange !
+
+// (kanata)
+<0047> La science ?
+
+// (haruka)
+<0048> J'ai pas envie de puer les produits chimiques h24 !
+
+// (kanata)
+<0049> C'est pas comme ça que ça marche, Haruka.
+
+// (poyo)
+<0050> Je crois qu'on a fait le tour !
+
+// (poyo)
+<0051> J'avais bien dit que les clubs sont pas faits pour nous, on a toujours rien trouvé !
+
+// (kanata)
+<0052> Je voyais cette conclusion venir dès le début.
+
+// (chuu)
+<0053> T'as toujours les meilleures déductions.
+
+// (kanata)
+<0054> Arrête, tu vas me faire rougir.
+
+// (haruka)
+<0055> On a pas encore exploré l'option "jeux de société".
+
+// (poyo)
+<0056> Encore en train de mélanger ces paquets de cartes !
+
+// (haruka)
+<0057> Vous diriez pas non à une petite partie de 100% Orange Juice, quand même ?
+
+// (kanata)
+<0058> À vrai dire, j'attendais que ça.
+
+// (chuu)
+<0059> Si on est à court de suggestions, c'est bien la meilleure chose à faire.
+
+// (haruka)
+<0060> Mêmes règles que d'habitude ?
+
+// (poyo)
+<0061> Ouaip ! Le perdant offre un repas du menu au gagnant !
+
+// (chuu)
+<0062> Il faut que je gagne.
+
+// (kanata)
+<0063> J'ai bien envie d'un gros steak.
+
+// (haruka)
+<0064> Allons-y, alors.
+
+// (poyo)
+<0065> 100% Orange Juice, c'est parti !
+
+
+// ========= Scene:  Ending =========
+
+
+// (poyo)
+<0066> J'ai gagné !!!
+
+// (chuu)
+<0067> Et zut. J'avais bien joué mes cartes, pourtant.
+
+// (kanata)
+<0068> Il n'y a pas que le talent qui compte dans OJ, tu le sais bien.
+
+// (haruka)
+<0069> Oh non, j'ai perdu... et j'ai déjà plus beaucoup d'argent.
+
+// (kanata)
+<0070> Si tu arrêtais de dépenser sans compter, aussi !
+
+// (haruka)
+<0071> Tu peux m'avancer un peu\nd'argent ?
+
+// (kanata)
+<0072> Non.
+
+// (haruka)
+<0073> T'es méchante...
+
+// (chuu)
+<0074> On peut dire que c'est un épisode de notre histoire qui se termine.
+
+// (poyo)
+<0075> Parmi tant d'autres.
+
+// (chuu)
+<0076> ?
+
+// (poyo)
+<0077> Les moments que j'apprécie le plus, c'est quand je suis avec vous trois !
+
+// (kanata)
+<0078> Même si nos vies ne valent que 33% de celles des autres... en combinant le tout, ça fait 132%.
+
+// (chuu)
+<0079> T'es sûre que ça marche\ncomme ça ?
+
+// (poyo)
+<0080> Bien sûr ! Tant qu'on s'amuse, c'est l'essentiel !
+
+// (haruka)
+<0081> Oui !
+
+// (haruka)
+<0082> Quand on sera des adultes responsables avec un travail, on pourra plus jouer au restaurant comme on le fait maintenant.
+
+// (haruka)
+<0083> C'est sûrement la meilleure façon de vivre pour l'instant !
+
+// (poyo)
+<0084> Je crois que je vais pleurer.
+
+// (chuu)
+<0085> Tu as raison, Haru... En fait, je crois que ça me rend plus optimiste de penser comme ça.
+
+// (kanata)
+<0086> D'après mes calculs, on vient d'atteindre les 150%.
+
+// (haruka)
+<0087> Pas besoin de rejoindre un club au lycée pour s'amuser, alors ?
+
+// (chuu)
+<0088> J'imagine.
+
+// (poyo)
+<0089> Si, on devrait rejoindre un club !
+
+// (haruka)
+<0090> Hmm ?
+
+// (poyo)
+<0091> Autour d'une activité de groupe, on pourrait passer encore plus de temps ensemble !
+
+// (chuu)
+<0092> On a toujours pas trouvé de clubs qui nous conviennent.
+
+// (kanata)
+<0093> Faisons le nôtre, alors.
+
+// (poyo)
+<0094> Ouais ! On va faire notre propre\nclub !
+
+// (haruka)
+<0095> Un club de quoi ?
+
+// (kanata)
+<0096> Tu n'as toujours pas saisi l'idée ?
+
+// (chuu)
+<0097> Allez, c'est pas si dur à deviner.
+
+// (haruka)
+<0098> Ah, je crois que je vois.
+
+// (poyo)
+<0099> On va créer le premier club 100% Orange Juice de l'Académie St. Tillante !!!

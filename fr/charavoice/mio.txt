@@ -1,0 +1,161 @@
+<0000> Fuhihi.
+<0001> Allons-y.
+<0002> Hop-là ♥
+<0003> Aha !
+<0004> Je joue celle-ci.
+<0005> On va bien rire ♥
+<0006> Et si je jouais celle-là ?
+<0007> Eeey ♥
+<0008> Je pose un piège... Prudence.
+<0009> Hihi... Hihihi !
+<0010> J'adore piéger mes adversaires.
+<0011> Hmm, j'ai hâte de voir le résultat ♥
+<0012> Devrais-je la jouer ? Oui, je la joue !
+<0013> Fini de plaisanter.
+<0014> Allez, montre-moi ce que tu vaux.
+<0015> Hihi, comme c'est plaisant.
+<0016> Inferno !
+<0017> Ah, j'ai le droit de me lever ?
+<0018> Ah, c'était un mauvais rêve...
+<0019> J-je peux encore y arriver !
+<0020> *bâille*... Hein !?
+<0021> Ohhh...
+<0022> Guehh.
+<0023> Bueh.
+<0024> Hmm...
+<0025> Prends ça, prends ça ♥
+<0026> Qu'est-ce que ça donne ?
+<0027> Tiens, qu'en dis-tu ?
+<0028> Ey-eeey ♥
+<0029> Boghyoh !
+<0030> Bueeh !
+<0031> Hieeeh.
+<0032> J-je t'en pensais pas capable.
+<0033> Hmm, je me sens renaître ♥
+<0034> Je me sens tellement mieux ♥
+<0035> Hmm, ça fait du bien.
+<0036> Je l'ai échappé belle...
+<0037> Seigneur.
+<0038> Jusqu'où ça va ?
+<0039> Quelle case impertinente.
+<0040> Je dois reconnaître que c'est amusant.
+<0041> N-non... Comment...
+<0042> Guh... Ubogueh...
+<0043> P-pffouuuu...
+<0044> Abubububu.
+<0045> On va bien s'amuser ♥
+<0046> Hihihi. Ahaha !
+<0047> Battons-nous comme il se doit.
+<0048> Je sens que c'est un beau combat qui s'offre à nous ♥
+<0049> Hein !? Une attaque-surprise !?
+<0050> Pouce ! Je suis pas encore prête...!
+<0051> A-ah, attends, d-deux secondes !
+<0052> Q-quoi ? C'est beaucoup trop rapide !
+<0053> Prends ça.
+<0054> Tiens.
+<0055> Ça va faire très mal ♥
+<0056> Boum !
+<0057> Aïe !
+<0058> Que- !
+<0059> Abahh !
+<0060> Guyeeh !
+<0061> Aïe ! Ça fait mal !
+<0062> Uguyeeh !
+<0063> Hiii !
+<0064> Je crois que je vais mourir...
+<0065> Aïe ! Hein ? Oh, j'ai esquivé.
+<0066> Hiii ! Fais attention !
+<0067> Pffu... Tant que ça ne touche pas...
+<0068> J-j'ai eu peur...!
+<0069> U-une victoire écrasante.
+<0070> J'aurais aimé jouer davantage.
+<0071> H-hihihi... J'ai eu peur pour rien.
+<0072> Étonnant, j'ai gagné.
+<0073> Ouiiin !
+<0074> Arrête... J'en peux plus...
+<0075> Snif... snif...
+<0076> Ugnaaah...
+<0077> C'est à moi ♥
+<0078> Super !
+<0079> Quel bonheur ♥
+<0080> Tant que ça ?
+<0081> Gyoboboboh !
+<0082> Ah ! Hé, attendez !
+<0083> Hé, stop !
+<0084> Qu'est-ce qu'il m'arrive !?
+<0085> Hieeeeh !?
+<0086> O-oh, non ! Qu'est-ce que c'est que ça !?
+<0087> Hé, il y a tricherie !
+<0088> Heiin ?
+<0089> Hein ? J-je m'attendais pas à voir un truc pareil.
+<0090> P-pas de problème... (C'est quoi ce monstre !?)
+<0091> Q-qu'est-ce que ce monstre fait là !?
+<0092> Je viens de me rappeler que j'avais\ndes choses à faire... je peux partir ?
+<0093> Je vais la jouer brillant et scintillant.
+<0094> Les étoiles m'appartiennent ♥
+<0095> Je vais en trouver plein.
+<0096> N'est-ce pas naturel de vouloir\ngarder tous les trésors pour soi ?
+<0097> Rien de tel que de voir les gens souffrir.
+<0098> Hihihi, qu'est-ce que j'aime la violence.
+<0099> Je vous conseille de ne pas vous approcher.
+<0100> Vous goûterez à l'enfer.
+<0101> Je m'appelle Mio. Ravie de te rencontrer ♥
+<0102> Merci de m'avoir invitée.
+<0103> Oui, je ferai de mon mieux.
+<0104> Enfin mon tour, depuis le temps que j'attends.
+<0105> Et c'est parti.
+<0106> Amusez-moi autant que vous le pouvez.
+<0107> Tout le monde a l'air si amusant.
+<0108> Quelques exercices ensemble ♥
+<0109> Hm-hm, je me suis bien amusée ♥
+<0110> J'espère rejouer avec vous tous ♥
+<0111> Youpi, j'ai gagné ♥
+<0112> Hihihi, j'ai réussi.
+<0113> Un cadeau pour toi. Allez, un grand sourire ♥
+<0114> Hé, n'est-ce pas magnifique ?
+<0115> Tu le veux ? Hmm, j'hésite à le garder pour moi ♥
+<0116> Hihi, j'ai hâte de m'en servir.
+<0117> À ton tour.
+<0118> Prends le relai, je te prie ♥
+<0119> Bonne chance.
+<0120> On échange ♥
+<0121> Très bien.
+<0122> J'ai eu chaud.
+<0123> Ouiii !
+<0124> Nooon.
+<0125> Mghiii !
+<0126> Quelle chance ♥
+<0127> Hmm ?
+<0128> Allons-y, allons-y.
+<0129> Roule bien.
+<0130> Je suis prête !
+<0131> Bonjour.
+<0132> Hmmm...?
+<0133> Bien.
+<0134> Fantastique ! Mes félicitations !
+<0135> Hein ? Heeiiin ?
+<0136> Et si j'utilisais sa propre carte, plutôt ?
+<0137> Voyez donc ce que j'ai dans ma main.
+<0138> Vous ne pensiez pas que je jouerai cette carte, pas vrai ? Hihi.
+<0139> Autant s'en servir ♥
+<0140> Oh, je ne joue pas qu'avec des inconnus, visiblement.
+<0141> Tomomooo ! Viens jouer avec moi ♥
+<0142> Hihihi, on va bien s'amuser.
+<0143> Une magical girl ? Je mourrais de honte si j'étais toi.
+<0144> Je te défie. C'est ce que tu voulais, non ?
+<0145> Tu veux jouer avec moi, finalement, Tomomo ?
+<0146> Ahaha, c'était amusant.
+<0147> Je ne peux pas y croire...\nNon ! Arbitre ! Ça comptait pas !
+<0148> Tomomo est plutôt douée pour créer des bizarreries...
+<0149> Hiii ! Qu'est-ce que c'est que ça ?!
+<0150> Je sais toujours pas ce que c'est,\nmais je la préfère à terre...
+<0151> Comment...? Elle est beaucoup trop petite...\nbeaucoup trop petite !
+<0152> Hiii ! Tu m'as fait peur !!
+<0153> Hiiii ! Un homme, tout nu !
+<0154> Pervers ! Pervers !
+<0155> C-cet homme est indécent ! Police ! Police !
+<0156> Oh, non ! Je ne pensais pas jouer avec un détraqué !
+<0157> Hii ! Elle me fait froid dans le dos !
+<0158> On devrait interdire le jeu\nà des personnes aussi dangereuses !
+<0159> Ah... Je crois que je ferais mieux de pas l'énerver.
+<0160> Brrrrr... J-j'ai peur...

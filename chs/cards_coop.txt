@@ -68,6 +68,21 @@ name=可爱大对决
 descr=先攻时才能使用。战斗结果将由一场可爱对决来决定。\n可爱度=10-HP上限-ATK+EVD，最低为0。\n双方不再投掷进攻骰，而是投掷两枚骰子，并将\n结果累加至可爱度中。可爱度较高者将夺取\n玩家等级×5的STAR，并获得1WIN。\n然后结束战斗。
 flavor=「那么谁才是最可爱的人呢！？」—纱季
 
+< CARD_BATTLE_COOP_MOUSSETHETHIEF >
+name=小偷唠鼠
+descr=如果你在战斗结束时依然存活，BOSS失去X颗STAR，你获得X颗STAR。X为下一张BOSS卡的等级数×10。只能对BOSS使用。
+flavor=「等等，那是很重要的东西。」—优空
+
+< CARD_BANNER_COOP_PROTECTIONFEE >
+name=保护费
+descr=当BOSS或手下停留在HOME格时，BOSS失去X颗STAR，你获得X颗STAR。X为你的等级数×5。
+flavor=「这根本就是敲诈啊……」—露露
+
+< CARD_EVENT_COOP_EXTREMEALTERATION >
+name=魔改
+descr=持续效果（1轮）\n将所有非HOME格转换为抽卡格。##（触发：踩在恐惧格上3次{0}）：\n将所有非HOME格转换为抽卡×2格。
+flavor=「让我来给这个世界治治病……」—斩子
+
 < CARD_HYPER_COOP_ALTE >
 name=自爆
 descr=倒下时对敌人造成HP上限的伤害。\n对方不会获得STAR和WIN，\n且在因此效果而倒下时会失去一半的STAR。
@@ -190,7 +205,7 @@ flavor=「既然你无论如何都不肯回去，\n那我就只好不择手段�
 
 < CARD_HYPER_COOP_SHERRY >
 name=变化无常的风车
-descr=与BOSS进行对方先攻的战斗。\n战斗中EVD+1。
+descr=与所有BOSS进行对方先攻的战斗。\n战斗中EVD+1。
 flavor=「我们只是，想要自由地飞翔而已。」—雪莉
 
 < CARD_HYPER_COOP_STARBREAKER >
@@ -290,12 +305,12 @@ flavor=「这就是最强的可爱者！」—优空和夏姆
 
 < CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE >
 name=富豪（X）
-descr=与BOSS战斗。对方ATK-X，\nX=富豪等级数。你无法攻击。如果\n你未被击倒，对方给予你X×20的STAR。\n此卡为「富豪（4）」以下时：你可以选择\n支付COST升级此卡。当持有者不是菲尔涅特\n时，此卡会变为「社交界亮相」。
+descr=与所有BOSS战斗。对方ATK-X，\nX=富豪等级数。你无法攻击。如果\n你未被击倒，对方给予你X×20的STAR。\n此卡为「富豪（4）」以下时：你可以选择\n支付COST升级此卡。当持有者不是菲尔涅特\n时，此卡会变为「社交界亮相」。
 flavor=「你想请我帮忙……？\n哎呀哎呀，我当然乐意帮助朋友了。」\n—菲尔涅特
 
 < CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE_V >
 name=富豪（%d）
-descr=与BOSS战斗。对方ATK-X，\nX=富豪等级数。你无法攻击。如果\n你未被击倒，对方给予你X×20的STAR。\n此卡为「富豪（4）」以下时：你可以选择\n支付COST升级此卡。当持有者不是菲尔涅特\n时，此卡会变为「社交界亮相」。
+descr=与所有BOSS战斗。对方ATK-X，\nX=富豪等级数。你无法攻击。如果\n你未被击倒，对方给予你X×20的STAR。\n此卡为「富豪（4）」以下时：你可以选择\n支付COST升级此卡。当持有者不是菲尔涅特\n时，此卡会变为「社交界亮相」。
 flavor=「你想请我帮忙……？\n哎呀哎呀，我当然乐意帮助朋友了。」\n—菲尔涅特
 
 < CARD_HYPER_COOP_SHIFU >
@@ -545,7 +560,7 @@ flavor=
 
 < CARD_BOSS_COOP_HEALTH_DOWN >
 name=生命下降
-descr=所有玩家获得储备效果（1）\nHP上限-1（下限为2）。\n玩家倒下时减少2层储备。
+descr=所有玩家获得以下效果：\n储备效果（1）\nHP上限-1（下限为2）。\n玩家倒下时减少2层储备。
 flavor=
 
 < CARD_BOSS_COOP_RECOVERY_MODE >
@@ -575,7 +590,7 @@ flavor=
 
 < CARD_BOSS_COOP_ELUSIVE >
 name=飘忽不定
-descr=发生恩惠和随机传送事件。\n在这个回合，BOSS或存活手下在进入玩家\n所在的格子时玩家失去X颗STAR，BOSS获得\nX颗STAR。\nX为BOSS等级数×5。
+descr=发生恩惠和随机传送事件。\n在这个回合，BOSS或存活手下在进入玩家\n所在的格子时玩家失去X颗STAR，BOSS获得\nX颗STAR。\nX为BOSS的等级数×5。
 flavor=
 
 < CARD_BOSS_COOP_STAR_MANIA >
@@ -630,7 +645,7 @@ flavor=
 
 < CARD_BOSS_COOP_POPPOFORMATION >
 name=啵噗化
-descr=所有玩家获得储备效果（1）\n在下一场战斗中，基础ATK·DEF·EVD\n变为-1。
+descr=所有玩家获得以下效果：\n储备效果（1）\n在下一场战斗中，基础ATK·DEF·EVD\n变为-1。
 flavor=
 
 < CARD_BOSS_COOP_TEMPTATION >
@@ -935,7 +950,7 @@ flavor=
 
 < CARD_BOSS_COOP_ROPO_BARRAGE >
 name=萝啵弹幕
-descr=★COST（30）\n持续效果（无限）\n随机1名玩家受到1点伤害。\n在BOSS的回合开始时重复这个效果。\n当有角色倒下时效果结束。\n无法支付COST时，变为获得60颗STAR。
+descr=★COST（30）\n持续效果（无限）\n随机1名玩家受到1点伤害。\n在BOSS的回合开始时重复此效果。\n当有角色倒下时效果结束。\n无法支付COST时，变为获得60颗STAR。
 flavor=
 
 < CARD_BOSS_COOP_DELUSIONAL_NUMBERS >
@@ -1113,6 +1128,236 @@ name=游泳圈套
 descr=如果场上的游泳圈套少于2个，召唤1个游泳圈套手下，并受到6点伤害。游泳圈套的MOV为-1。
 flavor=
 
+< CARD_BOSS_COOP_SPARK >
+name=火花
+descr=点燃当前所在的格子。
+flavor=
+
+< CARD_BOSS_COOP_BURN_IN_CRIMSON_FLAMES >
+name=被赤红的火焰所点燃吧
+descr=对5×5范围内的其他所有角色造成1点伤害，点燃其所在的格子。
+flavor=
+
+< CARD_BOSS_COOP_FEAR_THE_APPROACHING_SPARKS >
+name=因迫近的火花而畏惧吧
+descr=点燃3～5个随机的格子。
+flavor=
+
+< CARD_BOSS_COOP_COUNT_YOUR_LAST_MOMENTS >
+name=计算生命终结的时刻吧
+descr=使1名随机存活玩家陷入灾厄：3回合后，在回合开始时倒下。\n停留在HOME格时移除效果。\n点燃对应玩家的HOME格。
+flavor=
+
+< CARD_BOSS_COOP_SHIVER_IN_THE_INVISIBLE_MURDEROUS_INTENT >
+name=因不可见杀意而颤抖吧
+descr=标记存活友方数量的随机格子。\n1轮后击倒这些格子上的玩家，并点燃这些格子。
+flavor=
+
+< CARD_BOSS_COOP_STAR_BLASTING_FUSE >
+name=星球的导火线
+descr=对5×5范围内的其他所有角色造成BOSS等级的伤害。点燃5×5范围内的所有格子。
+flavor=
+
+< CARD_BOSS_COOP_BE_CHARRED_IN_THE_BURNING_DEATH_CRISIS >
+name=在炽热的死线中烤焦吧
+descr=持续效果（1轮）\n对角色造成战斗伤害时，对3×3范围内的其他角色造成同样伤害。
+flavor=
+
+< CARD_BOSS_COOP_MELT_IN_THE_AZURE_FLAME >
+name=被苍蓝的火焰所融化吧
+descr=回合结束前，经过角色时造成BOSS等级的伤害，在挑战敌人时不会停步。\n点燃此回合你走过的格子。
+flavor=
+
+< CARD_BOSS_COOP_STAR_BLASTING_LIGHT >
+name=烧毁星球之光
+descr=点燃6～10个随机的格子。
+flavor=
+
+< CARD_BOSS_COOP_LET_THE_SEA_OF_FLAME_EMBRACE_YOU >
+name=接受炽热火海的拥抱吧
+descr=点燃12～20个随机的格子。
+flavor=
+
+< CARD_BOSS_COOP_SUFFER_FROM_THE_INEVITABLE_DEATH_CRISIS >
+name=在难逃的死线中受苦吧
+descr=使所有存活玩家陷入灾厄：2回合后，在回合开始时倒下。\n停留在HOME格时移除效果。
+flavor=
+
+< CARD_BOSS_COOP_TAKE_YOUR_DYING_BREATH >
+name=迎接生命终结的瞬间吧
+descr=对友方7×7范围外的所有玩家造成存活玩家数量的伤害。\n点燃友方5×5范围内的格子。
+flavor=
+
+< CARD_BOSS_COOP_ACCEPT_YOUR_DOOM >
+name=接受最终毁灭的结局吧
+descr=使1名随机存活玩家陷入灾厄：2回合后，在回合开始时倒下。\n停留在HOME格时移除效果。\n点燃所有玩家的HOME格。
+flavor=
+
+< CARD_BOSS_COOP_BREAKER_ENRAGE >
+name=破坏者之怒
+descr=在沙滩建造师和沙滩捣蛋鬼倒下期间，ATK+1，效果伤害+1。
+flavor=
+
+< CARD_BOSS_COOP_BREAKER_ENRAGE_HYPER >
+name=破坏者之怒
+descr=在沙滩建造师和沙滩捣蛋鬼倒下期间，ATK+1，效果伤害+1。\n5回合后，以一半的HP复活沙滩建造师和沙滩捣蛋鬼。
+flavor=
+
+< CARD_BOSS_COOP_BABYSIT >
+name=照料
+descr=扑灭沙滩捣蛋鬼5×5范围内的火焰。
+flavor=
+
+< CARD_BOSS_COOP_TINKER >
+name=修补匠
+descr=为所有友方恢复1点HP。
+flavor=
+
+< CARD_BOSS_COOP_PARTY_TIME >
+name=派对时间
+descr=所有角色随机传送至同一格。\n回合结束。
+flavor=
+
+< CARD_BOSS_COOP_PAY_ATTENTION >
+name=注意
+descr=随机玩家获得以下效果：\n储备效果（1）\n当你停留在HOME格时，强制传送至BOSS所在的格子。
+flavor=
+
+< CARD_BOSS_COOP_CRITICAL_FAILURE >
+name=大失败
+descr=持续效果（3轮）\n当敌人在移动、奖励、掉落时骰子投出的点数为1或以下时，其受到1点伤害。
+flavor=
+
+< CARD_BOSS_COOP_NO_BULLYING >
+name=不许欺凌！
+descr=持续效果（2轮）\n所有敌人ATK-1。
+flavor=
+
+< CARD_BOSS_COOP_MACHINIST >
+name=机械师
+descr=为所有友方恢复2点HP。
+flavor=
+
+< CARD_BOSS_COOP_BRUTAL_TRAPS >
+name=残酷陷阱
+descr=所有玩家获得以下效果：\n储备效果（1）\n当你触发陷阱时，丢弃所有手牌。
+flavor=
+
+< CARD_BOSS_COOP_BACKDOOR_SCHEME >
+name=暗箱操作
+descr=所有玩家获得以下效果：\n储备效果（1）\n当你HP降至1时，失去等级×10的STAR。\n倒下时效果结束。
+flavor=
+
+< CARD_BOSS_COOP_WARUDA_MACHINE >
+name=阴谋机器人
+descr=储备效果（2）\n下场战斗中ATK+X，DEF+X，EVD-X。\nX为对方手牌张数×2。
+flavor=
+
+< CARD_BOSS_COOP_POWER_OF_SCIENCE >
+name=科学的力量
+descr=持续效果（2轮）\n友方获得ATK、DEF、MOV+1。
+flavor=
+
+< CARD_BOSS_COOP_COMEUPPANCE >
+name=报应
+descr=持续效果（3轮）\n当友方受到伤害时，对距离最近的随机玩家造成2点伤害。
+flavor=
+
+< CARD_BOSS_COOP_WATCH_OUT >
+name=小心
+descr=持续效果（3轮）\n当敌人在移动、奖励、掉落时骰子投出的点数为5或以上时，其受到2点伤害。
+flavor=
+
+< CARD_BOSS_COOP_BUILDER_ENRAGE >
+name=建造师之怒
+descr=在沙滩捣蛋鬼倒下期间，ATK、MOV+1。
+flavor=
+
+< CARD_BOSS_COOP_BUILDER_ENRAGE_HYPER >
+name=建造师之怒
+descr=在沙滩捣蛋鬼倒下期间，ATK、MOV+1。\n5回合后，复活沙滩捣蛋鬼。
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_HAMMER >
+name=米缪亲重锤
+descr=将「米缪亲重锤」陷阱放置在当前所在的格子。
+flavor=
+
+< CARD_BOSS_COOP_PRANKSTER >
+name=淘气鬼
+descr=每名玩家的手牌加入1张「米缪亲重锤」。\n持续效果（1轮）\n玩家每丢弃1张手牌受到1点伤害。
+flavor=
+
+< CARD_BOSS_COOP_ADVENTURE >
+name=大冒险
+descr=所有玩家随机传送至同一格。\n该格为恐惧格时，这些玩家受到1点伤害。
+flavor=
+
+< CARD_BOSS_COOP_HAMMER >
+name=锤子！
+descr=对距离最近的1名随机存活玩家造成1点伤害。
+flavor=
+
+< CARD_BOSS_COOP_HMM >
+name=嗯……
+descr=储备效果（1）\n下一个造成直接伤害的能力，额外造成BOSS等级的伤害。
+flavor=
+
+< CARD_BOSS_COOP_EVIL_SPY_WORK >
+name=阴谋的间谍行动
+descr=将2张「阴谋的间谍行动～执行」\n放入玩家卡堆顶端。
+flavor=
+
+< CARD_BOSS_COOP_SNEAKILY >
+name=鬼鬼祟祟
+descr=持续效果（2轮）\n无法被挑战。\n挑战敌人时ATK+2。
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_POWER >
+name=米缪之力！
+descr=若沙滩捣蛋鬼5×5范围内有另一名BOSS，对随机存活玩家造成4点伤害。\n若没有，受到1点伤害。
+flavor=
+
+< CARD_BOSS_COOP_ENTERTAIN_MIMYUU >
+name=逗米缪开心！
+descr=若这个BOSS的5×5范围内没有存活玩家，对距离最远的1名随机玩家造成等同于其HP的伤害。
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_IS_BORED >
+name=米缪好无聊！
+descr=将2～3张「米缪好无聊！」放置在随机的格子上：\n受到4点伤害。
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_IS_BORED_TRAP >
+name=米缪好无聊！
+descr=受到4点伤害。
+flavor=
+
+< CARD_BOSS_COOP_BIG_HAMMER >
+name=大锤子！
+descr=对距离最近的1名随机存活玩家造成（BOSS等级+2）的伤害。
+flavor=
+
+< CARD_BOSS_COOP_BORED_BORED_BORED >
+name=好无聊！好无聊！好无聊！
+descr=对1名随机存活玩家造成BOSS等级的伤害。\n若此伤害未击倒目标，重复此效果2次。
+flavor=
+
+< CARD_BOSS_COOP_PRISON_BREAK >
+name=越狱
+descr=持续效果（3轮）\nEVD+2。\n若你在效果结束前未被挑战，永久ATK、DEF+1。
+flavor=
+
+< CARD_BOSS_COOP_BUSTER_ENRAGE >
+name=捣蛋鬼之怒
+descr=在沙滩建造师倒下期间，每回合额外抽取并使用1张卡。
+flavor=
+
+< CARD_BOSS_COOP_BUSTER_ENRAGE_HYPER >
+name=捣蛋鬼之怒
+descr=在沙滩建造师倒下期间，每回合额外抽取并使用1张卡。\n5回合后，复活沙滩建造师。
+flavor=
+
 < CARD_BOSS_COOP_HOME_SWEEPER >
 name=HOME清扫者
 descr=永久移除所有玩家的HOME标志。
@@ -1143,8 +1388,12 @@ flavor=「米缪！\n是谁对你做了这么过分的事……」—托玛特
 < CARD_HYPER_COOP_CLASS_DEALER >
 name=夏日游戏
 descr=储备效果\n将下一个踩到的格子视为抽卡×2格。
-flavor=
+flavor=「还没完！我还没输呢！」—彼特
 
+< CARD_HYPER_COOP_CLASS_VANGUARD >
+name=炽热沙地的先驱者
+descr=移除友方所有由BOSS或其手下施加的效果。所有友方获得2点HP。
+flavor=「集合我们的力量吧——！」—纱季\n「OK，合体吧！」—佳爱
 
 < CARD_SKILL_COOP_ADVANTAGE >
 name=优势
@@ -1256,3 +1505,27 @@ name=索取
 descr=将下一个你踩到的格子视为抽卡格。\n冷却时间：6轮。
 flavor=
 
+< CARD_SKILL_COOP_VANGUARD_REINFORCE >
+name=援助
+descr=在指定的同伴下次被挑战或触发BOSS格时，先行与对手战斗。\n在该战斗中，你的ATK、DEF和EVD+1。\n若你在该战斗中幸存，被指定的同伴ATK、DEF和EVD+1。\n若你在该战斗中被击倒，被指定的同伴ATK+1。\n此技能激活时MOV-1。
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_DEFENSEBOOST >
+name=防御提升
+descr=目标2：DEF+1。
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_HPEVASIONBOOST >
+name=生命与闪避提升
+descr=目标4：HP上限+1，EVD+1。
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_INTERCEPT >
+name=阻截
+descr=（援助战斗）若你在该战斗中幸存，被援助的同伴跳过战斗。\n冷却时间：8轮。
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_BOLSTER >
+name=鼓舞
+descr=移除指定玩家所有由BOSS或其手下施加的效果。指定玩家获得1点HP，每移除1个效果额外获得1点HP。\n若指定玩家未受到由BOSS或其手下施加的效果，改为施加净化光环，免疫下一次由BOSS或其手下施加的效果。\n冷却时间：5轮。
+flavor=

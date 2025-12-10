@@ -202,13 +202,19 @@ name=풍향계의 인도
 descr=스톡 효과.\n배틀을 제외한 모든 굴림에서 주사위 2개를 굴린다. 이 효과는 홈 패널에서 멈출 때 끝난다.
 flavor="짹짹! 쿡 이쪽으로 갈래." ―쿡
 
+< CARD_BOUNTY_PROTECTIONFEE >
+name=보호세
+descr=다른 플레이어의 홈 패널에 멈추면 그 플레이어에게 내 레벨 x2만큼의 스타를 준다. 노르마 체크에 실패하면 피해 1점을 받는다.
+flavor="이건 갈취야..." ―룰루
+
+
 < CARD_BOUNTY_PLAYER >
 name=신선한 현상수배
 descr=사회에 범죄를 저질러 현상금이 걸렸다.
 flavor=
 
 < CARD_BOUNTY_PLAYER_ITEM >
-name=
+name=???
 descr=제거의 대상으로 낙인찍혔다. 신중을 기할 것.
 flavor=
 

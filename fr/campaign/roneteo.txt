@@ -1,0 +1,130 @@
+
+// ========= Scene: Stage 1 =========
+
+// (alicianrone)
+<0000> ...Rappelle-moi les règles de ce jeu, déjà ?
+
+// (suguri)
+<0001> Ce sera plus facile à expliquer si on y joue en même temps.
+
+// (teotoratta)
+<0002> Allez, on joue ! On joue maintenant ! Au fait, z'auriez pas vu mes bonbons ?
+
+// (puyopuyomascot)
+<0003> Rah, deux secondes, Teo. T'es vraiment impatiente quand t'as faim.
+
+// (puyopuyomascot)
+<0004> On a plus beaucoup de pudding, il nous faut autre chose.
+
+// (suguri)
+<0005> Haha, c'était une sacrée journée, aujourd'hui.
+
+// (suguri)
+<0006> Puisqu'on est que quatre, autant en profiter pour jouer calmement.
+
+// (alicianrone)
+<0007> Tout à fait ! Je me réserve une victoire brillante et tactique, comme aux échecs.
+
+// (teotoratta)
+<0008> Tu parles ! C'est moi qui vais gagner ! J'vais t'écraser, Rone !
+
+// (puyopuyomascot)
+<0009> Tenez, du thé et des biscuits. Prenez-en autant que vous voulez.
+
+// (teotoratta)
+<0010> Ça sent trop bon ! J'vais me régaler !
+
+// (alicianrone)
+<0011> Hé, Teo ! Où sont passées tes manières ?
+
+// (teotoratta)
+<0012> *cronch cronch* Allez, ch'est bon, on peut gommencher.
+
+// (alicianrone)
+<0013> Et on ne parle pas la bouche pleine...
+
+// (suguri)
+<0014> Hihi.
+
+// (alicianrone)
+<0015> Qu'est-ce qu'il y a, Sorcière Sylvestre ?
+
+// (suguri)
+<0016> Vous êtes si proche l'une de l'autre, je trouvais ça rigolo.
+
+// (alicianrone)
+<0017> Hein ? Vraiment ?
+
+// (teotoratta)
+<0018> Ah bjon ? Tu le penches vraiment ?
+
+// (suguri)
+<0019> Ahahaha.
+
+// (puyopuyomascot)
+<0020> Ça fait longtemps que je ne t'ai pas vue rire, Suguri.
+
+// (suguri)
+<0021> Je m'amuse vraiment, aujourd'hui.
+
+// (suguri)
+<0022> Sur ce, que la partie commence.
+
+// ========= Scene: Ending =========
+
+// (alicianrone)
+<0023> Ah, quelle partie. Je crois que je me suis emportée.
+
+// (teotoratta)
+<0024> C'était super bon ! J'me suis vraiment amusée.
+
+// (puyopuyomascot)
+<0025> Tu m'en vois ravie.
+
+// (suguri)
+<0026> Je me suis bien amusée, moi aussi.
+
+// (alicianrone)
+<0027> En tout cas, merci de m'avoir invitée. Je vais y aller- euh, attendez...
+
+// (alicianrone)
+<0028> Il fait si sombre, dehors ! Depuis combien de temps joue-t-on ?
+
+// (teotoratta)
+<0029> Hein ? Vraiment ?
+
+// (teotoratta)
+<0030> ...Hé, t'as raison !
+
+// (suguri)
+<0031> Hé, s'il est si tard, pourquoi vous ne passeriez pas la nuit ici ?
+
+// (alicianrone)
+<0032> Oh non, ce serait bien trop te demander.
+
+// (suguri)
+<0033> Mais non, aucun problème. Je me suis tant amusée aujourd'hui, j'aimerais que ça continue.
+
+// (teotoratta)
+<0034> Ouaf ?
+
+// (puyopuyomascot)
+<0035> Tu voudrais qu'elles restent parce que ça te rendrait triste de les voir partir, c'est ça ?
+
+// (suguri)
+<0036> ...C'est une façon de voir les choses.
+
+// (alicianrone)
+<0037> Je vois. C'est vraiment adorable, Sorcière Sylvestre.
+
+// (alicianrone)
+<0038> S'il en est ainsi, j'accepte ton offre avec joie.
+
+// (teotoratta)
+<0039> Génial ! On peut jouer autant qu'on veut, alors ! Ouaf !
+
+// (puyopuyomascot)
+<0040> Dans ce cas, je vais cuisiner un petit plat avec les légumes que vous nous avez donné.
+
+// (suguri)
+<0041> Hihi, j'ai hâte d'y goûter.

@@ -1,0 +1,169 @@
+<0000> Comme ça ?
+<0001> Donne-moi un beau chiffre.
+<0002> Je le fais bien ?
+<0003> Hop.
+<0004> Hihihi.
+<0005> Et si j'utilisais cette carte ?
+<0006> Voyons son potentiel.
+<0007> J'y vais...
+<0008> Ça devrait m'aider.
+<0009> Fufufu... ça a l'air rigolo.
+<0010> D'accord, voilà un piège.
+<0011> C'est dangereux, non...?
+<0012> Donne-moi ton pouvoir.
+<0013> Qu'est-ce que ça donne ?
+<0014> Fufufu, je suis prête.
+<0015> Fufu, amusant.
+<0016> Merci de rester entre mes chaînes quelques instants.
+<0017> *baîlle*... j'ai bien dormi.
+<0018> Oh, il fait déjà jour ?
+<0019> C'est le bon moment pour se lever.
+<0020> J'ai peut-être dormi trop longtemps.
+<0021> Je vais dormir encore un peu...
+<0022> Haa...
+<0023> Je retourne me coucher.
+<0024> Oh non, pas comme ça.
+<0025> Et tiens.
+<0026> Là.
+<0027> Fuhuhuhu.
+<0028> Est-ce bien comme ça ?
+<0029> Hmm.
+<0030> Aïe.
+<0031> Oh non.
+<0032> Ça suffit.
+<0033> Une douce brise.
+<0034> Comme c'est agréable.
+<0035> C'est si doux.
+<0036> C'est apaisant.
+<0037> Hmm ?
+<0038> Où va-t-on ?
+<0039> Merci de me déposer en un lieu plus joli.
+<0040> Je m'envole.
+<0041> Zzzz...
+<0042> C'est l'heure de ma sieste.
+<0043> Bonne nuit.
+<0044> Je pense que je vais prendre mon temps.
+<0045> Voulez-vous danser avec moi ?
+<0046> Vous voulez jouer ?
+<0047> Fuhuhu, on va s'amuser.
+<0048> Je commence, si vous me le permettez.
+<0049> Hmm ? On m'a invitée ?
+<0050> Je sens que je vais m'amuser.
+<0051> Soit, battons-nous.
+<0052> Oui, puis-je vous aider ?
+<0053> Hop.
+<0054> Ça peut faire mal, j'en suis navrée.
+<0055> Je crois que c'est comme ça.
+<0056> Yah !
+<0057> Aïe.
+<0058> Aah !
+<0059> Oh !
+<0060> Hmm...
+<0061> Hmmm ?
+<0062> Quelle surprise.
+<0063> Quelle puissance incroyable.
+<0064> Ooooh ?
+<0065> Facile.
+<0066> Ce n'est pas passé loin.
+<0067> Fufu, je suis juste là.
+<0068> Mais oui, c'est bien tenté.
+<0069> Je me suis amusée.
+<0070> Nous devrions rejouer.
+<0071> J'aurais aimé danser un peu plus.
+<0072> C'est déjà fini ?
+<0073> Fufu, c'était impressionnant.
+<0074> Je crois que je commence à fatiguer...
+<0075> Je devrais me reposer...
+<0076> Une petite pause...
+<0077> Oh, comme elles scintillent.
+<0078> C'est joli.
+<0079> Fufu, il y en a plein.
+<0080> Des étoiles... c'est beau.
+<0081> Mes étoiles...
+<0082> J'en ai fait tomber.
+<0083> Mes étoiles sont en miettes...
+<0084> Oh non, mes étoiles...
+<0085> Un piège...?
+<0086> C'est un piège...
+<0087> On m'a piégée...
+<0088> Oh, quelle mauvaise farce.
+<0089> Il a l'air puissant.
+<0090> Mon dieu, ce quelque chose est sorti de nulle part.
+<0091> Fufu, c'est d'autant plus amusant.
+<0092> Seigneur, voilà qui ne simplifie pas les choses.
+<0093> Je voudrais des étoiles.
+<0094> J'aime les choses brillantes.
+<0095> Je pars ramasser des étoiles.
+<0096> J'espère trouver beaucoup d'étoiles.
+<0097> Fufu, dansons toute la journée.
+<0098> J'ai très envie de jouer.
+<0099> J'aimerais danser avec tout le monde.
+<0100> C'est important de s'amuser, de temps à autre.
+<0101> Vous voulez que je m'en occupe ?
+<0102> Fufufu, allons-y.
+<0103> Oui, dansons ensemble.
+<0104> Merci de m'avoir invitée.
+<0105> J'espère que l'on va tous s'amuser.
+<0106> Tout le monde a l'air plein d'énergie.
+<0107> Fufu.
+<0108> Le sort est jeté.
+<0109> Je me suis beaucoup amusée.
+<0110> Aurais-je gagné...?
+<0111> Fufu, j'espère rejouer avec vous tous.
+<0112> Oh, serait-ce déjà fini...?
+<0113> Voilà une belle découverte.
+<0114> N'est-ce pas magnifique ?
+<0115> J'espère que c'est ce que tu voulais.
+<0116> Oh, quelle bonne surprise.
+<0117> C'est le moment d'échanger.
+<0118> Peux-tu prendre ma place ?
+<0119> Fufu, échangeons.
+<0120> Je te fais confiance.
+<0121> Chouette.
+<0122> Tant mieux.
+<0123> Oui.
+<0124> Non.
+<0125> Mon dieu...
+<0126> Je suis aux anges.
+<0127> Hmm...
+<0128> On y va ?
+<0129> Je dois le jeter ?
+<0130> Je suis prête.
+<0131> Bien le bonjour.
+<0132> Que dois-je faire...?
+<0133> Merveilleux.
+<0134> Fantastique.
+<0135> Quel dommage.
+<0136> J'emprunte ceci...
+<0137> Puisse ce pouvoir me servir.
+<0138> J'emprunte ça un instant.
+<0139> Est-ce donc ça, son pouvoir ?
+<0140> Mes remerciements.
+<0141> Tu veux danser avec moi, Suguri ?
+<0142> Fufu, invitée par Suguri, quel honneur.
+<0143> Fufufu, je me suis beaucoup amusée, Suguri.
+<0144> Pfaa... C'est vraiment quelque chose\nde jouer avec toi, Suguri.
+<0145> Tu veux jouer, chérie ?
+<0146> Je danse rarement avec chérie,\nça devrait être intéressant.
+<0147> C'était un beau combat, chérie.
+<0148> Ton laser brûle un peu, chérie...
+<0149> Oh, tu es le portrait craché de ce professeur dépravé.
+<0150> Attends... Je crois que je ne t'aime pas.
+<0151> Sache que j'ai pris plaisir à t'annihiler.
+<0152> Tu n'es vraiment qu'un dépravé...
+<0153> Merci de te laisser abattre et de disparaître.
+<0154> Espèce de dépravé...
+<0155> Disparais à jamais.
+<0156> Dépravé... tu ne sers à rien.
+<0157> Oh, quel beau petit avion rouge.
+<0158> D'accord, allons-y. Pour protéger tout le monde...
+<0159> Attention, les choses vont se corser.
+<0160> Fufufu, ces vêtements te vont à merveille.
+<0161> Tiens, tu portes les vêtements que je t'ai offerts.
+<0162> Fufufu, c'était vraiment incroyable.
+<0163> Même avec ces jolis vêtements, tu es toujours aussi forte.
+<0164> C'est beaucoup plus amusant de jouer avec toi.
+<0165> Laisse-moi t'aider.
+<0166> Fufu, tu es adorable, Suguri.
+<0167> Alors ? Est-ce que cela me sied ?
+<0168> Vous voulez encore jouer avec moi ? Fufu, avec plaisir.

@@ -1,0 +1,395 @@
+< PET_BARREL >
+name=Red Barrel
+descr=Red Barrel paré au décollage !
+
+< PET_CAT >
+name=Chat
+descr=Une créature sournoise et pernicieuse.
+
+
+< PET_CHICKEN >
+name=Poulet
+descr=Esquive quand personne n'oserait.
+
+
+< PET_FRUITBAT >
+name=Fruitbat
+descr=Une chauve-souris obsédée par les oranges.
+
+
+< PET_GHOST >
+name=Fantôme
+descr=Il y a quelqu'un derrière toi.
+
+
+< PET_LEO >
+name=Leo
+descr=La bête des ténèbres, toujours dansante.
+
+
+< PET_NAVI >
+name=Navi
+descr=Qu'est-ce que c'est que ce truc ?
+
+< PET_PLANT >
+name=Plante
+descr=Mords la main de celui qui le nourrit.
+
+
+< PET_RABBITPLUSH >
+name=Poupée de Lapin
+descr=Probablement possédée.
+
+
+< PET_RACCOON >
+name=Raton Laveur
+descr=C'est un raton laveur ? C'est un chien ? Il peut se transformer ?
+
+
+< PET_RBIT >
+name=Alpin
+descr=Formation Alpha !
+
+
+< PET_REDBLUE >
+name=Rougeon & Bleuet
+descr=Infernoël Blanc !
+
+
+< PET_ROBOBALL >
+name=Roboulon
+descr=Tout le monde apprécie la compagnie de ce petit robot.
+
+
+< PET_SB_BOMB >
+name=Bombe SB
+descr=Ne la laisse surtout pas tomber.
+
+
+< PET_SEAGULL >
+name=Mouette
+descr=Il adore le chiffre 7.
+
+< PET_SEARCHLIGHT >
+name=Lampe-Scan
+descr=À la recherche de quelqu'un de spécial.
+
+
+< PET_SHIBE >
+name=Shiba Inu
+descr=Fidèle à l'excès.
+
+< PET_SNOWBUNNY >
+name=Lapin des Neiges
+descr=Il garde son sang-froid.
+
+
+< PET_THINKBUBBLE >
+name=Bulle Pensante
+descr=Elle pense donc elle est.
+
+< PET_EVENT_REIN >
+name=Rennon
+descr=Le fidèle compagnon d'Aru. En vacances 364 jours par an.
+
+
+< PET_EVENT_PRESENT >
+name=Cadeau
+descr=Un cadeau merveilleux qui réchauffe les cœurs.
+
+
+
+< PET_EVENT_PIG>
+name=Cochon
+descr=Les cochons volent enfin !
+
+< PET_LIZARD >
+name=Lézard
+descr=Certains disent qu'il vit dans le centre de la Terre.
+
+< PET_DWARF>
+name=Nain
+descr=Son nom est enfin à propos.
+
+< PET_PIYO_EGGSHELL>
+name=Piyo (Coquille d'Œuf)
+descr=Qui de l'œuf ou du piyo est venu en premier ?
+
+< PET_PIYO>
+name=Piyo
+descr=Le piyo qui est venu en premier.
+
+< PET_TORTOISE>
+name=Tortue
+descr=Un jour, elle atteindra la ligne d'arrivée.
+
+< PET_UFO>
+name=OVNI
+descr=Toujours à la recherche d'objets rares.
+
+< PET_SHARK>
+name=Requin
+descr=Très photogénique, il ferait un bon poster.
+
+< PET_FROG>
+name=Grenouille
+descr=Ne participe pas à la fête à la grenouille.
+
+< PET_BIT>
+name=Crok
+descr=Pour croquer la victoire à pleines dents.
+
+< PET_SLIME>
+name=Slime
+descr=Il paraît qu'il a un bon goût sucré.
+
+< PET_GOLDENEGG >
+name=Œuf d'Or
+descr=Un œuf qui éclot plus d'une fois.
+
+< PET_M10EYE >
+name=Œil de M10
+descr=Il peut voir des chiffres imaginaires, et toi ?
+
+< PET_STAR >
+name=Étoile Évasive
+descr=Provient d'une galaxie lointaine.
+
+
+< PET_AIRSHIP >
+name=Zeppelin
+descr=Apport de soutien aérien.
+
+< PET_BUTTERFLY >
+name=Papillon
+descr=Un battement d'aile pourrait changer le cours de la partie.
+
+< PET_CUPCAKE >
+name=Cupcake
+descr=Cuit à 176°C.
+
+< PET_BOSS_HARUO >
+name=Haruo
+descr=Son cœur aussi est fait d'or.
+
+< PET_BOSS_JONATHAN >
+name=Jonathan le Géant
+descr=Version miniature.
+
+< PET_BOSS_M10 >
+name=M10
+descr=Noté 7 sur M10.
+
+< PET_BOSS_ROPOCHI >
+name=RoPoPou
+descr=GUPPIPOO !
+
+< PET_BOSS_STARDEV >
+name=Dévoreuse d'Étoiles
+descr=Elle peut se téléporter n'importe où.
+
+< PET_OCTOPUS >
+name=Pieuvre
+descr=Il peut faire huit choses à la fois.
+
+< PET_SEAL >
+name=Phoque
+descr=Phoqu'on parle.
+
+< PET_SQUID >
+name=Calamar
+descr=Fils du Kraken.
+
+< PET_MANDRAKE >
+name=Mandragore
+descr=Il reste planté là.
+
+< PET_SUN >
+name=Soleil
+descr=L'avenir s'annonce radieux (et cool).
+
+< PET_SEABUNNY >
+name=Lapin des Mers
+descr=Le père noël de la mer.
+
+< PET_ROBOFISH >
+name=Robobulle
+descr=Programmé pour nager en continu.
+
+< PET_WATERMELON >
+name=Pastèque
+descr=Libérée de la Colère de la Bête de l'Été.
+
+< PET_EVENT_POMENARIAN >
+name=Spitz Nain
+descr=Un chien un peu bêta.
+
+< PET_EVENT_PUDDING >
+name=Pudding
+descr=Un dessert qui satisfera tous les chiens et les sorcières de l'univers.
+
+< PET_EVENT_PUFFERFISH >
+name=Poisson-Globe
+descr=Globalement apprécié.
+
+
+< PET_FUNKYFUNGUS >
+name=Champi-Mage
+descr=Le plus mignon des champignons.
+
+< PET_ROBOCRAB >
+name=Robocrabe
+descr=Il en pince pour vous.
+
+< PET_PONYCORN >
+name=Ponicorne
+descr=Répend les pouvoirs de l'amitié.
+
+< PET_WOLLIL>
+name=Laineuh
+descr=Tellement doux, on en mourrait.
+
+< PET_GLOBLET >
+name=Globi
+descr=Globi-boulga !
+
+< PET_TROLLITE >
+name=Salgamin
+descr=N'a qu'une seule peur.
+
+< PET_SPOOKYDOLL >
+name=Poupée Bizarre
+descr=Sa beauté vous donnera des cauchemars.
+
+< PET_HELISEEDLING >
+name=Tourbiplantule
+descr=Parti en un coup de vent.
+
+< PET_TERRAWORMER >
+name=Hydre-Ver
+descr=Champion véritable.
+
+< PET_MINIMOSS >
+name=Minigolem
+descr=Il a un cœur d'or.
+
+< PET_GEMERANGLER >
+name=Lamperdâtre
+descr=Une gemme enfouie.
+
+< PET_WUFFSHROOM >
+name=Toutou-Bolet
+descr=Le meilleur champi de l'Homme.
+
+< PET_TURNISLIM >
+name=Navéboueux
+descr=C'est très long et fastidieux de l'entretenir.
+
+< PET_PUNYZARD >
+name=Minizarpin
+descr=Il dort sur ses deux oreilles avec facilité.
+
+< PET_MASHIRO >
+name=Masshiro
+descr=À nouveau chanceux.
+
+< PET_MARKETABLESUGURIPLUSHIE >
+name=Suguri de Soie
+descr=Mascotte d'une longue série de poupées.
+
+< PET_MINIEPOPPO >
+name=Minie Poppo
+descr=Venue vous voler votre cœur.
+
+< PET_COMPACTSORA >
+name=Sora Compacte
+descr=Livrée par charges illimitées.
+
+< PET_STABU >
+name=Starbé
+descr=La mèche étincelante de votre oreiller.
+
+< PET_PLUSHQP >
+name=Poupée QP
+descr=Qui c'est le bon doudou ?
+
+< PET_HUGGYHIME >
+name=Doudou Hime
+descr=D'une douceur jamais vue.
+
+< PET_SMOLSAKI >
+name=Saki Rikiki
+descr=Pas plus gros qu'un cookie.
+
+< PET_RAREREPA >
+name=Répa Rare
+descr=Préparez-vous à remporter une poupée rare !
+
+< PET_TRAVELARU >
+name=Aru de Transport
+descr=À envoyer en cadeau partout dans le monde.
+
+< PET_MINIATUREMARC >
+name=Marc Miniature
+descr=1/16 d'un vrai pilote.
+
+< PET_ALTEHUGTOY >
+name=Alte-Câlin
+descr=Elle a besoin d'affection.
+
+< PET_COMFORTTOMOMO >
+name=Fidget Tomomo
+descr=L'édition ultime du produit deluxe ultra-rare de 100% Orange Juice est maintenant disponible pour une du-
+
+< PET_DARKNESSKRILA >
+name=Krila Poupée Nocturne
+descr=La maîtresse est devenue la peluche.
+
+< PET_LUCKYLULU >
+name=Lulu Porte-Bonheur
+descr=Vous portera chance le long de vos voyages.
+
+< PET_SUMIKAPLUSHIE >
+name=Sumika v0.2
+descr=Sumika, même réduite, est toujours Sumika.
+
+< PET_GOGOKAE >
+name=Go Go Kae
+descr=Vous protégera même dans la nuit noire.
+
+< PET_BUDGETKAI >
+name=Kai Premier Prix
+descr=Il coûte moins d'un portefeuille.
+
+< PET_STEALTHYTSIH >
+name=Tsih Camouflée
+descr=Elle se mesure en nanoramètres.
+
+< PET_SWEEBO >
+name=Sweebo
+descr=Appelez-la comme vous voulez.
+
+< PET_MINIMIO >
+name=Mini Mio
+descr=Cette poupée est sûrement possédée.
+
+< PET_POCKETCOACH >
+name=Centimaître-Nageur
+descr=Vous apprendra à nager où vous voulez, quand vous voulez.
+
+< PET_OWNGOAL >
+name=Balise de Secours
+descr=Vous ne risquerez plus de vous perdre !
+
+< PET_WATERBALLONJERK >
+name=Brutemballondo
+descr=À ne pas jeter sur les gens (à part les brutes).
+
+< PET_HANDRINGER >
+name=Vilain Brassard
+descr=Vous ne coulerez plus dans votre baignoire !
+
+< PET_HARBY >
+name=Apo
+descr=Menacez tous vos amis avec cet étrange spécimen.
+

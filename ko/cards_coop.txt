@@ -73,6 +73,26 @@ name=자폭
 descr=KO 시 적에게 자신의 최대 HP만큼의 피해를 준다. 적은 스타도 승리 수도 얻지 못하고 이 효과로 KO당할 경우 가진 스타를 절반 잃는다.
 flavor="돌아가지 못해서... 미안해..." ―알테
 
+< CARD_BATTLE_COOP_MOUSSETHETHIEF >
+name=도둑 마우쓰
+descr=배틀 종료 시점에서 행동 가능한 상태라면 보스는 다음 보스 카드의 레벨 x10만큼의 스타를 잃고 나는 그만큼의 스타를 얻는다. 보스만을 상대로 사용할 수 있다.
+flavor="기다려요, 그거 소중한 거예요." ―소라
+
+< CARD_BANNER_COOP_PROTECTIONFEE >
+name=보호세
+descr=보스나 부하가 홈 패널에 멈추면 보스는 내 레벨 x5만큼의 스타를 잃고 나는 그만큼의 스타를 얻는다.
+flavor="이건 갈취야..." ―룰루
+
+< CARD_EVENT_COOP_EXTREMEALTERATION >
+name=극한의 변화
+descr=지속 시간: 1챕터.\n홈이 아닌 모든 패널을 드로우 패널로 바꾼다.##(발동: 공포 패널을 3번 밟기{0}):\n홈이 아닌 모든 패널을 더블 드로우 패널로 바꾼다.
+flavor="이 세상의 병을 고치고 말 거야..." ―키리코
+
+
+name=극한의 변화
+descr=지속 시간: 1챕터.\n홈을 제외한 모든 패널을 드로우 패널로 바꾼다. ##(발동: 공포 패널을 3번 밟기{0}):\n홈을 제외한 모든 패널을 더블 드로우 패널로 바꾼다.
+flavor="이 세상의 병을 고치고 말 거야..." ―키리코
+
 < CARD_HYPER_COOP_ARU >
 name=프레젠트 포 유
 descr=모든 플레이어는 패가 가득해질 때까지 카드를 뽑는다. 이미 패가 가득해도 한 장을 뽑는다.
@@ -190,7 +210,7 @@ flavor="그래도 돌아가지 않겠다면, 억지로라도 데려갈 거야!" 
 
 < CARD_HYPER_COOP_SHERRY >
 name=변덕쟁이 풍차
-descr=보스와 배틀을 한다. 보스가 선공한다. 배틀 중 회피력 +1.
+descr=모든 보스와 배틀한다. 보스가 선공한다. 배틀 중 회피력 +1.
 flavor="우리들은 있지, 마음대로 날고 싶은 것뿐이야." ―셰리
 
 < CARD_HYPER_COOP_STARBREAKER >
@@ -290,12 +310,12 @@ flavor="이것이 최강의 귀염둥이!" ―소라 & 샴
 
 < CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE >
 name=재력 (X)
-descr=보스와 배틀한다. 보스는 재력 레벨만큼의 공격력을 잃는다. 나는 공격할 수 없다. 이 배틀에서 KO되지 않으면 상대는 재력 레벨 x 20스타를 준다.\n이 카드가 재력 (4)가 아닐 경우 이 카드의 코스트를 지불해 이 카드를 업그레이드할 수 있다.\n이 카드를 가진 유닛이 페르넷이 아니라면 이 카드는 사교계 데뷔가 된다.
+descr=모든 보스와 배틀한다. 보스는 재력 레벨만큼의 공격력을 잃는다. 나는 공격할 수 없다. 이 배틀에서 KO되지 않으면 상대는 재력 레벨 x 20스타를 준다.\n이 카드가 재력 (4)가 아닐 경우 이 카드의 코스트를 지불해 이 카드를 업그레이드할 수 있다.\n이 카드를 가진 유닛이 페르넷이 아니라면 이 카드는 사교계 데뷔가 된다.
 flavor="부탁하고픈 일이 있다고요...? 어머, 친구를 도울 수 있다면 저야말로 환영이랍니다." ―페르넷
 
 < CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE_V >
 name=재력 (%d)
-descr=보스와 배틀한다. 보스는 재력 레벨만큼의 공격력을 잃는다. 나는 공격할 수 없다. 이 배틀에서 KO되지 않으면 상대는 재력 레벨 x 20스타를 준다.\n이 카드가 재력 (4)가 아닐 경우 이 카드의 코스트를 지불해 이 카드를 업그레이드할 수 있다.\n이 카드를 가진 유닛이 페르넷이 아니라면 이 카드는 사교계 데뷔가 된다.
+descr=모든 보스와 배틀한다. 보스는 재력 레벨만큼의 공격력을 잃는다. 나는 공격할 수 없다. 이 배틀에서 KO되지 않으면 상대는 재력 레벨 x 20스타를 준다.\n이 카드가 재력 (4)가 아닐 경우 이 카드의 코스트를 지불해 이 카드를 업그레이드할 수 있다.\n이 카드를 가진 유닛이 페르넷이 아니라면 이 카드는 사교계 데뷔가 된다.
 flavor="부탁하고픈 일이 있다고요...? 어머, 친구를 도울 수 있다면 저야말로 환영이랍니다." ―페르넷
 
 < CARD_HYPER_COOP_SHIFU >
@@ -600,7 +620,7 @@ flavor=
 
 < CARD_BOSS_COOP_UBIQUITOUS >
 name=신출귀몰
-descr=보스가 가장 멀리 있는 플레이어에게 워프해 그 플레이어의 레벨 * 5스타를 빼앗는다.\n행동 가능한 부하들은 각자 가장 가까운 플레이어에게 워프해 5스타를 빼앗는다.\n각 대상 조건에 해당하는 플레이어가 2명 이상일 때 그 중 한 명이 무작위로 선택된다.
+descr=보스가 가장 먼 거리에 위치한 무작위 플레이어에게 워프해 그 플레이어의 레벨 * 5스타를 빼앗는다.\n행동 가능한 부하들은 각자 가장 가까운 플레이어에게 워프해 5스타를 빼앗는다.\n각 대상 조건에 해당하는 플레이어가 2명 이상일 때 그 중 한 명이 무작위로 선택된다.
 flavor=
 
 < CARD_BOSS_COOP_SNATCHER >
@@ -791,7 +811,7 @@ flavor=
 
 < CARD_BOSS_COOP_RAMPAGE >
 name=광분
-descr=신남이 0이 된다. 모든 플레이어가 광분 중첩만큼의 피해를 입는다. 이번 턴의 이동 주사위가 2배가 되며 플레이어에게 도전한 뒤 멈추지 않는다. 보스 레벨만큼의 HP를 얻는다.
+descr=신남이 0이 된다. 모든 플레이어가 광분 중첩만큼의 피해를 입는다. 이번 턴의 이동 주사위가 2배가 되며 적에게 도전한 뒤 멈추지 않는다. 보스 레벨만큼의 HP를 얻는다.
 flavor=
 
 < CARD_BOSS_COOP_RAMPAGE_HYPER >
@@ -1096,7 +1116,7 @@ flavor=
 
 < CARD_BOSS_COOP_ENCOURAGE >
 name=응원
-descr=몸짱 풍선이 범위 상 가장 가까운 패널에 위치한 무작위 플레이어에게 이동한 뒤 배틀을 한다. 해당 배틀 동안 몸짱 풍선은 공격력 +3을 얻는다. 플레이어가 패배하면 다음으로 가까운 플레이어를 대상으로 이 행동을 반복한다.
+descr=몸짱 풍선이 범위 상 가장 가까운 거리에 위치한 무작위 플레이어의 패널로 이동한 뒤 배틀한다. 해당 배틀 동안 몸짱 풍선은 공격력 +3을 얻는다. 플레이어가 패배하면 다음으로 가까운 무작위 플레이어를 대상으로 이 행동을 반복한다.
 flavor=
 
 < CARD_BOSS_COOP_MOVING_GOALPOST >
@@ -1117,6 +1137,236 @@ flavor=
 < CARD_BOSS_COOP_SWIMMING_RINGER >
 name=수영 튜브
 descr=필드에 수영 튜브 부하가 둘 미만 남아있으면 수영 튜브를 소환하고 피해 6을 입는다. 수영 튜브는 이동력 -1을 갖는다.
+flavor=
+
+< CARD_BOSS_COOP_SPARK >
+name=불씨
+descr=현재 위치한 패널을 불태운다.
+flavor=
+
+< CARD_BOSS_COOP_BURN_IN_CRIMSON_FLAMES >
+name=붉은 화염에 잡아먹혀라
+descr=2패널 거리 내에 위치한 다른 모든 유닛에게 피해 1점을 주고 그 유닛들이 위치한 패널을 불태운다.
+flavor=
+
+< CARD_BOSS_COOP_FEAR_THE_APPROACHING_SPARKS >
+name=다가오는 불씨를 두려워하라
+descr=무작위 패널 3-5개를 불태운다.
+flavor=
+
+< CARD_BOSS_COOP_COUNT_YOUR_LAST_MOMENTS >
+name=너의 최후를 만끽하라
+descr=무작위 행동 가능한 플레이어에게 3턴 뒤 턴 시작 시 KO되고 홈 패널에 멈추면 해제되는 파멸을 건다. 그 플레이어의 홈 패널을 불태운다.
+flavor=
+
+< CARD_BOSS_COOP_SHIVER_IN_THE_INVISIBLE_MURDEROUS_INTENT >
+name=보이지 않는 살의에 떨어라
+descr=행동 가능한 동료 수만큼의 무작위 패널에 징표를 찍는다. 1챕터 뒤 그 패널을 불태우고 그 패널에 위치한 모든 플레이어를 KO시킨다.
+flavor=
+
+< CARD_BOSS_COOP_STAR_BLASTING_FUSE >
+name=별을 불태우는 도화선
+descr=2패널 거리 안에 위치한 다른 모든 유닛에게 보스 레벨만큼의 피해를 준다. 2패널 거리 안에 위치한 모든 패널을 불태운다.
+flavor=
+
+< CARD_BOSS_COOP_BE_CHARRED_IN_THE_BURNING_DEATH_CRISIS >
+name=소사의 위기에 타들어 가라
+descr=지속 시간: 1챕터. 유닛에게 배틀 피해를 입히면 1패널 거리 안에 위치한 다른 모든 유닛에게 그만큼의 피해를 준다.
+flavor=
+
+< CARD_BOSS_COOP_MELT_IN_THE_AZURE_FLAME >
+name=청염에 감싸여 녹아라
+descr=턴 종료 시까지 지나가는 유닛에게 보스 레벨만큼의 피해를 주며 적에게 도전한 뒤 멈추지 않는다. 이 턴에 걸어가는 모든 패널을 불태운다.
+flavor=
+
+< CARD_BOSS_COOP_STAR_BLASTING_LIGHT >
+name=별을 불태우는 빛
+descr=무작위 패널 6-10개를 불태운다.
+flavor=
+
+< CARD_BOSS_COOP_LET_THE_SEA_OF_FLAME_EMBRACE_YOU >
+name=불바다에 휩싸여라
+descr=무작위 패널 12-20개를 불태운다.
+flavor=
+
+< CARD_BOSS_COOP_SUFFER_FROM_THE_INEVITABLE_DEATH_CRISIS >
+name=피할 수 없는 죽음에 고통받아라
+descr=모든 행동 가능한 플레이어에게 2턴 뒤 턴 시작 시 KO되고 홈 패널에 멈추면 해제되는 파멸을 건다.
+flavor=
+
+< CARD_BOSS_COOP_TAKE_YOUR_DYING_BREATH >
+name=단말마를 내뱉어라
+descr=보스로부터 3패널 거리 안에 있지 않은 모든 플레이어에게 행동 가능한 플레이어 수만큼의 피해를 준다. 아군으로부터 2패널 거리 안에 위치한 모든 패널을 불태운다.
+flavor=
+
+< CARD_BOSS_COOP_ACCEPT_YOUR_DOOM >
+name=파멸을 받아들여라
+descr=무작위 행동 가능한 플레이어에게 2턴 뒤 턴 시작 시 KO되고 홈 패널에 멈추면 해제되는 파멸을 건다. 모든 홈 패널을 불태운다.
+flavor=
+
+< CARD_BOSS_COOP_BREAKER_ENRAGE >
+name=브레이커의 분노
+descr=비치 빌더와 비치 버스터가 모두 KO된 동안 공격력 +1을 얻고 모든 피해 효과가 피해 1점을 더 입힌다.
+flavor=
+
+< CARD_BOSS_COOP_BREAKER_ENRAGE_HYPER >
+name=브레이커의 분노
+descr=비치 빌더와 비치 버스터가 모두 KO된 동안 공격력 +1을 얻고 모든 피해 효과가 피해 1점을 더 입힌다. 5턴 뒤 비치 빌더와 비치 버스터를 절반의 HP로 부활시킨다. 
+flavor=
+
+< CARD_BOSS_COOP_BABYSIT >
+name=뒷바라지
+descr=비치 버스터로부터 2패널 거리 안에 있는 패널에 붙은 불을 끈다.
+flavor=
+
+< CARD_BOSS_COOP_TINKER >
+name=땜장이
+descr=모든 아군의 HP를 1점씩 회복한다.
+flavor=
+
+< CARD_BOSS_COOP_PARTY_TIME >
+name=파티 타임
+descr=모든 유닛들이 같은 패널로 워프된다. 턴을 종료한다.
+flavor=
+
+< CARD_BOSS_COOP_PAY_ATTENTION >
+name=주목
+descr=무작위 플레이어에게 스톡 효과 (1). 홈 패널에 멈추려 할 때 대신 보스가 있는 패널로 워프한다.
+flavor=
+
+< CARD_BOSS_COOP_CRITICAL_FAILURE >
+name=치명적 기능 고장
+descr=지속 시간: 3챕터. 적이 이동, 보너스, 드롭 굴림에서 1 이하를 굴리면 피해 1점을 입는다.
+flavor=
+
+< CARD_BOSS_COOP_NO_BULLYING >
+name=괴롭히기 금지!
+descr=지속 시간: 2챕터. 모든 적이 공격력 -1을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_MACHINIST >
+name=기계공
+descr=모든 아군의 HP를 2점씩 회복한다.
+flavor=
+
+< CARD_BOSS_COOP_BRUTAL_TRAPS >
+name=잔인한 함정
+descr=모든 플레이어에게 스톡 효과 (1). 트랩을 발동하면 가진 카드를 모두 버린다.
+flavor=
+
+< CARD_BOSS_COOP_BACKDOOR_SCHEME >
+name=뒷공작
+descr=모든 플레이어에게 스톡 효과 (1). HP가 1점이 되면 레벨 x10만큼의 스타를 잃는다. 효과는 KO 시 만료된다.
+flavor=
+
+< CARD_BOSS_COOP_WARUDA_MACHINE >
+name=와루다 머신
+descr=스톡 효과 (2): 다음 배틀에서 상대가 가진 패의 장수에 두 배만큼 공격력과 방어력을 얻고 회피력을 잃는다.
+flavor=
+
+< CARD_BOSS_COOP_POWER_OF_SCIENCE >
+name=과학의 힘
+descr=지속 시간: 2챕터. 아군이 공격력, 방어력, 이동력 +1을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_COMEUPPANCE >
+name=응보
+descr=지속 시간: 3챕터. 아군이 피해를 받을 때마다 가장 가까운 거리에 위치한 무작위 플레이어에게 피해 2점을 준다.
+flavor=
+
+< CARD_BOSS_COOP_WATCH_OUT >
+name=조심해
+descr=지속 시간: 3챕터. 적이 이동, 보너스, 드롭 굴림에서 5 이상을 굴리면 피해 2점을 입는다.
+flavor=
+
+< CARD_BOSS_COOP_BUILDER_ENRAGE >
+name=빌더의 분노
+descr=비치 버스터가 KO된 동안 공격력과 이동력 +1을 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_BUILDER_ENRAGE_HYPER >
+name=빌더의 분노
+descr=비치 버스터가 KO된 동안 공격력과 이동력 +1을 얻는다. 5턴 뒤 비치 버스터를 부활시킨다.
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_HAMMER >
+name=미뮤우찡 해머
+descr=현재 패널에 미뮤우찡 해머 트랩을 설치한다.
+flavor=
+
+< CARD_BOSS_COOP_PRANKSTER >
+name=장난꾸러기
+descr=미뮤우찡 해머 한 장을 각 플레이어의 패에 추가한다. 지속 시간: 1챕터. 플레이어는 카드를 버릴 때마다 피해 1점을 받는다.
+flavor=
+
+< CARD_BOSS_COOP_ADVENTURE >
+name=모험
+descr=모든 플레이어를 무작위 패널로 워프시킨다. 공포 패널이라면 피해 1점을 준다.
+flavor=
+
+< CARD_BOSS_COOP_HAMMER >
+name=해머다!
+descr=가장 가까운 거리에 위치한 무작위 플레이어에게 피해 1점을 준다.
+flavor=
+
+< CARD_BOSS_COOP_HMM >
+name=흠...
+descr=스톡 효과 (1): 직접 피해를 주는 다음 능력이 보스 레벨만큼의 피해를 더 준다.
+flavor=
+
+< CARD_BOSS_COOP_EVIL_SPY_WORK >
+name=악의 공작 활동
+descr=악의 공작 활동 - 실행 2장을 복사하여 플레이어 덱 맨 위에 추가한다.
+flavor=
+
+< CARD_BOSS_COOP_SNEAKILY >
+name=살금살금
+descr=지속 시간: 2챕터. 도전을 받지 않는다. 적에게 도전할 때 공격력 +2를 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_POWER >
+name=미뮤우찡 파워!
+descr=비치 버스터로부터 2패널 거리 안에 다른 보스가 있다면 무작위 플레이어에게 피해 4점을 준다. 없다면 피해 1점을 받는다.
+flavor=
+
+< CARD_BOSS_COOP_ENTERTAIN_MIMYUU >
+name=미뮤우찡을 재밌게 해 봐!
+descr=보스로부터 2패널 거리 안에 행동 가능한 플레이어가 없다면 가장 먼 거리에 위치한 무작위 플레이어에게 그 플레이어의 HP만큼의 피해를 준다.
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_IS_BORED >
+name=미뮤우찡 심심해!
+descr=피해 4점을 주는 "미뮤우찡 심심해!" 트랩을 2-3장을 무작위 패널에 세팅한다.
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_IS_BORED_TRAP >
+name=미뮤우찡 심심해!
+descr=피해 4점을 받는다.
+flavor=
+
+< CARD_BOSS_COOP_BIG_HAMMER >
+name=왕 큰 해머다!
+descr=가장 가까운 거리에 위치한 무작위 플레이어에게 (보스 레벨+2)만큼의 피해를 준다.
+flavor=
+
+< CARD_BOSS_COOP_BORED_BORED_BORED >
+name=심심해! 심심해! 심심해!
+descr=무작위 플레이어에게 보스 레벨만큼의 피해를 준다. 이 피해로 대상이 KO되지 않으면 이 효과를 두 번 반복한다.
+flavor=
+
+< CARD_BOSS_COOP_PRISON_BREAK >
+name=탈옥
+descr=지속 시간: 3챕터. 회피력 +2를 얻는다. 효과가 끝날 때까지 도전받지 않으면 공격력과 방어력 +1을 영구히 얻는다.
+flavor=
+
+< CARD_BOSS_COOP_BUSTER_ENRAGE >
+name=버스터의 분노
+descr=비치 빌더가 KO된 동안 매 턴 카드를 한 장 더 뽑고 발동한다.
+flavor=
+
+< CARD_BOSS_COOP_BUSTER_ENRAGE_HYPER >
+name=버스터의 분노
+descr=비치 빌더가 KO된 동안 매 턴 카드를 한 장 더 뽑고 발동한다. 5턴 뒤 비치 빌더를 부활시킨다.
 flavor=
 
 < CARD_BOSS_COOP_HOME_SWEEPER >
@@ -1147,7 +1397,12 @@ flavor="미뮤우! 대체 누가 이런 짓을..." ―토마토
 < CARD_HYPER_COOP_CLASS_DEALER >
 name=여름날의 놀이
 descr=스톡 효과.\n이번 턴에 도착하는 패널을 더블 드로우 패널로 취급한다.
-flavor=
+flavor="아직이야! 아직 안 졌어!" -피트
+
+< CARD_HYPER_COOP_CLASS_VANGUARD >
+name=타오르는 모래의 선봉대
+descr=자신과 모든 동료에게 보스나 부하가 부여한 모든 효과를 제거한다. 모든 동료들이 HP 2점을 얻는다.
+flavor="우리 힘을 합쳐요!" -사키\n"응! 합체다!" -카에
 
 < CARD_SKILL_COOP_ADVANTAGE >
 name=선제
@@ -1259,3 +1514,27 @@ name=수요
 descr=다음에 도착하는 패널을 드로우 패널로 취급한다.\n쿨다운: 6챕터.
 flavor=
 
+< CARD_SKILL_COOP_VANGUARD_REINFORCE >
+name=지원
+descr=대상 동료가 다음에 도전받거나 보스 패널을 발동할 때 그보다 먼저 싸운다. 해당 배틀에서 공격력, 방어력, 회피력 +1을 얻는다. 배틀에서 살아남았다면 대상 동료가 공격력, 방어력, 회피력 +1을 얻는다. 배틀에서 KO되었다면 대상 동료가 공격력 +1을 얻는다. 지원 중인 동안 이동력 -1.
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_DEFENSEBOOST >
+name=방어력 증가
+descr=노르마 2: 방어력 +1
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_HPEVASIONBOOST >
+name=체력 & 회피력 증가
+descr=노르마 4: 최대 HP +1, 회피력 +1
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_INTERCEPT >
+name=개입
+descr=(지원 전투) 이 배틀에서 살아남으면 지원 중인 동료의 배틀을 생략한다.\n쿨다운: 8챕터.
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_BOLSTER >
+name=고무
+descr=대상 플레이어에게 보스나 부하가 부여한 모든 효과를 제거한다. 대상 플레이어는 HP 1점에 더불어 제거한 효과 개수만큼 HP를 추가로 획득한다. 대상 플레이어에게 보스나 부하가 부여한 효과가 없을 경우 1챕터 동안 그러한 효과를 한 번 방지하는 정화의 오라를 대신 부여한다.\n쿨다운: 5챕터.
+flavor=

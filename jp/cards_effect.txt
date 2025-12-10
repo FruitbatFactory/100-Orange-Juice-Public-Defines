@@ -130,6 +130,10 @@ descr=DEF+1。
 name=回避強化
 descr=EVD+1。
 
+< CARD_AMPHPEVD_EFFECT >
+name=HP＆回避強化
+descr=1ストックにつき最大HP+1、EVD+1。
+
 < CARD_AMPMOV_EFFECT >
 name=移動強化
 descr=MOV+1。
@@ -369,7 +373,7 @@ descr=進行方向が逆になる。ノルマチェックできない。
 
 < CARD_PRICEOFPOWER_EFFECT >
 name=力の代償
-descr=今のレベルより1つ上のカードを使える。使用コストが5増える。
+descr=追加で5スターを支払うことで、現在の自身のレベルより1つ上のカードを使える。
 
 < CARD_POPPOSNATCHER_EFFECT >
 name=掠め取るぽっぽ
@@ -755,5 +759,18 @@ name=他のプレイヤーがダウンした時、そのプレイヤーのレベ
 < CARD_INTELLECTUALBLUFF_EFFECT >
 name=賢そうなハッタリ
 descr=自身が次に使うカードのタイプが選択されたものの場合、この効果の付与者は2ウィンとレベル×10スターを得る。\n宣言のみしたものの場合、付与者は2ダメージ受ける。
+
+< CARD_TICKEDOFF_EFFECT >
+name=キレちまったぜ
+descr=バトル開始時に自身の残りのHPが1の時、ATK+2。
+
+< CARD_LONGARMS_EFFECT >
+name=手足が長くなりました
+descr=追加で5スターを支払うことで2マス圏内にトラップカードをセットできる。トラップとギフト以外のカードのレベルを1上げる（上限：5）。
+
+< CARD_BURNINGPANEL_EFFECT >
+name=燃えるマス
+descr=燃えているマス。このマスにいるユニットは、自身のターン開始時か終了時に1ダメージ受ける。
+This panel is on fire. Units starting or ending their turn on it will take 1 damage.
 
 [EOF]

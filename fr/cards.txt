@@ -1,0 +1,303 @@
+< CARD_BOOST_DASH >
+name=Dash !
+descr=Ajoute un dé à vos jets de déplacement ce tour-ci.
+flavor="Plus vite !" ―Suguri
+
+< CARD_BOOST_EXTEND >
+name=Kit de Réparation
+descr=(Effet Passif)\nEn tombant KO, vous vous relèverez aussitôt au tour suivant.
+flavor="Prête à repartir !" ―Marc
+
+< CARD_BOOST_FLIPOUT >
+name=Partage des Pertes
+descr=(Effet Passif)\nEn activant une case Malus, le joueur adverse avec le plus d'étoiles perdra autant d'étoiles que vous.
+flavor="......!" ―Mei
+
+< CARD_BOOST_LONGSHOT >
+name=Tir à Longue Distance
+descr=Cible un ennemi et lui inflige 1 point de dégât.
+flavor="Je peux t'atteindre depuis l'autre bout du monde !" ―Iru
+
+< CARD_BOOST_NICEJINGLE >
+name=Jolis Grelots
+descr=(Effet Passif)\nEn activant une case Bonus, vous gagnerez deux fois plus d'étoiles.
+flavor="On en a encore plein." ―Aru
+
+< CARD_BOOST_NICEPRESENT >
+name=Jolis Cadeaux
+descr=Piochez 2 cartes.
+flavor="Tu veux aider à distribuer les cadeaux ?" ―Aru
+
+< CARD_BOOST_PRINCESS >
+name=Privilège de la Princesse
+descr=Défaussez toutes vos cartes en main et piochez 3 cartes.\nNe peut être utilisé que si vous avez au moins 3 cartes en main, ou uniquement Privilège de la Princesse.
+flavor="Un jour, je te ferai visiter ma maison." ―Fernet
+
+< CARD_BOOST_PUDDING >
+name=Pudding
+descr=Soigne tous vos PV.
+flavor="Youpi !" ―QP
+
+< CARD_BOOST_COOKIE >
+name=Cookie de Saki
+descr=Soigne 1 PV.
+flavor="Prends donc un cookie!" ―Saki
+
+< CARD_BOOST_STIFFCRYSTAL >
+name=Cristal Tenace
+descr=(Effet Passif)\nEn vous arrêtant sur une carte Piège, son effet est annulé et vous obtenez (Niv. piège) x5 ★.
+flavor="Comme c'est agaçant." ―Kyoko
+
+< CARD_BATTLE_BIGMAGNUM >
+name=Big Magnum
+descr=Vous perdez 1 PV.\n+2 ATK pour ce combat.\nImpossible d'utiliser cette carte si elle peut vous mettre KO.
+flavor="Big Magnum, feu !" ―Capitaine Tequila
+
+< CARD_BATTLE_FINALBATTLE >
+name=Combat Ultime
+descr=Le combat se répète jusqu'à ce que l'un des deux personnages tombe KO (max. 10 tours).
+flavor="Pour sauver tout le monde !"\n―Suguri & Hime
+
+< CARD_BATTLE_ONFIRE >
+name=Je Brûle de Joie !
+descr=+1 ATK et -1 DEF pour ce combat.
+flavor="On met nos vies sur la balance !" ―Kae
+
+< CARD_BATTLE_RAINBOW >
+name=Cercle-en-ciel
+descr=+2 EVD et -1 DEF pour ce combat.
+flavor=C'est comme dessiner un cercle-en-ciel.
+
+< CARD_BATTLE_RBITS >
+name=Alpins
+descr=+2 DEF pour ce combat. Vous ne pouvez pas esquiver.
+flavor="Formation Alpha !" ―QP
+
+< CARD_BATTLE_REVERSE >
+name=Zone à Effets Contraires
+descr=Les statistiques des deux personnages sont inversées pour ce combat.
+flavor="T'en fais pas un peu trop, là ? T'es trop st... enfin, trop immature !" ―Mei
+
+< CARD_BATTLE_SHIELD >
+name=Bouclier
+descr=Ne peut être utilisé qu'en cas de défense. +3 DEF pour ce combat. Vous ne pouvez pas contre-attaquer.
+flavor="Le plus important : tous revenir en vie." ―Sham
+
+< CARD_TRAP_ASSAULT >
+name=À l'assaut !
+descr=Affrontez le joueur ayant posé ce piège. Il attaque en premier.
+flavor="Aujourd'hui, tu vas quitter la Guilde pour de bon !" ―Picon
+
+< CARD_TRAP_BADPUDDING >
+name=Mauvais Pudding
+descr=Défaussez une carde au hasard.
+flavor="La sauce soja donne au pudding un goût d'oursin !" ―Yuki
+
+< CARD_TRAP_DANGEROUSPUDDING >
+name=Pudding Dangereux
+descr=(Effet Passif)\nPassez votre prochain tour.
+flavor='Il ne m'aura fallu qu'un regard pour que ce pudding me prenne mon cœur.'
+
+< CARD_TRAP_EXCHANGE >
+name=Échange
+descr=Échangez vos cartes en main, vos étoiles et votre emplacement avec le joueur ayant posé ce piège.
+flavor="C'est lourd..." ―Suguri\n"J'ai l'air de quoi sans mon casque ?" ―Marc
+
+< CARD_TRAP_FLAMETHROWER >
+name=Lance-Flamme
+descr=Si vous avez des cartes en main, défaussez-les toutes. Si votre main est vide, vous tombez KO.
+flavor="Yahaahaaaaah !" ―Loubard
+
+< CARD_TRAP_TOYSTORE >
+name=Pour l'Avenir du Magasin de Jouets
+descr=Donnez la moitié de vos étoiles au joueur ayant posé ce piège. Cette carte ne peut être jouée qu'avec 50 étoiles ou moins.
+flavor=Sans la Mère Noël... tout irait tellement mieux !" ―Arthur
+
+< CARD_TRAP_GOAWAY >
+name=Va-t-en
+descr=Vous vous téléportez à une case au hasard.
+flavor="Ahaha, c'est mieux comme ça." ―Nanako
+
+< CARD_TRAP_HEAT300 >
+name=Surchauffe à 300%
+descr=(Cumulable) -2 DEF à votre prochain combat.
+flavor="Je n'ai qu'à esquiver toutes les attaques !" ―Suguri
+
+< CARD_TRAP_INVASION >
+name=Invasion
+descr=Affrontez un ennemi sauvage. Il attaque en premier.
+flavor="Hein ? On m'attaque...?" ―Suguri
+
+< CARD_TRAP_MIMYUU >
+name=Marteau de Mimyuu
+descr=Inflige 1 point de dégât.
+flavor="Mon marteau veut te faire un bisou !" ―Mimyuu
+
+< CARD_TRAP_PIGGYBANK >
+name=Tirelire
+descr=Vous obtenez 5 ★, multiplié par le nombre de chapitres qu'a passé cette carte au sol.
+flavor="Papa, je peux casser la tirelire ?" ―Mescal
+
+< CARD_TRAP_PURES >
+name=Dîner au Restaurant 'Pures'
+descr=Vous perdez la moitié de vos étoiles et récupérez tous vos PV.
+flavor="On a un client à gérer !" ―Chris
+
+< CARD_TRAP_TRAGEDY >
+name=Tragédie Nocturne
+descr=Défaussez une carte au hasard. La carte va dans la main du joueur ayant posé le piège.
+flavor='Un si beau pudding sans surveillance, ce serait dommage de le laisser là.'
+
+< CARD_EVENT_SEAGULLS >
+name=Nuage de Mouettes
+descr=Un personnage au hasard se prend 2 points de dégât.
+flavor="Couuuac !" ―Mouette
+
+< CARD_EVENT_DINNER >
+name=Dîner
+descr=Soigne 3 PV à tous les personnages.
+flavor="Prenons donc le dîner ensemble !" ―Natsumi
+
+< CARD_EVENT_FORCEDREVIVAL >
+name=Résurrection Forcée
+descr=Tous les personnages KO se relèvent avec 1 PV.
+flavor="Vous serez debout en moins de deux." ―Kiriko
+
+< CARD_EVENT_GIFTEXCHANGE >
+name=Échange de Cadeaux
+descr=Toutes les cartes de chaque joueur sont réparties aléatoirement. Votre nombre de cartes reste le même.
+flavor="Un échange de cadeaux ? D'accord !"\n―Alpin, Rougeon & Bleuet
+
+< CARD_EVENT_HEREANDTHERE >
+name=Par-ci par-là
+descr=Chaque personnage est déplacé vers une case au hasard.
+flavor="En route pour le prochain monde !" ―Marie Poppo
+
+< CARD_EVENT_HOLYNIGHT >
+name=Nuit Enchantée
+descr=Effet Permanent\nLes étoiles distribuées en début de chapitre augmentent de 1.
+flavor="Aha, je vois pourquoi vous faites la fête." ―Hime
+
+< CARD_EVENT_LITTLEWAR >
+name=Petite Guerre
+descr=Durée de l'Effet: 3 chapitres\nTous les combats se font en deux tours.
+flavor="Je suis capable d'arrêter ça... Si je me bats..." ―Suguri
+
+< CARD_EVENT_OHMYFRIEND >
+name=Mon Bon Ami
+descr=Invoque un Boss.
+flavor="Les robots ont des amis, eux aussi." ―NoName
+
+< CARD_EVENT_OUTOFAMMO >
+name=Plus de munitions
+descr=Durée de l'Effet : 1 chapitre\nLes joueurs ne peuvent plus utiliser de cartes.
+flavor="Je suis à court de munitions !" ―Picon
+
+< CARD_EVENT_SEALEDGUARDIAN >
+name=Protectrice Enchaînée
+descr=Réduit les PV de tous les personnages à 1.
+flavor="Dis bonjour à l'Ange Gardien de ce vaisseau." ―Shifu
+
+< CARD_EVENT_ALLOUTMODE >
+name=Mode Super-Extrême
+descr=(Effet Passif)\nTous les personnages gagnent +2 ATK à leurs prochains combats.
+flavor="Que vous le voyiez venir ou pas, ça va faire mal !!" ―Tomomo
+
+< CARD_EVENT_WARUDA >
+name=Nous Sommes la Loubardie
+descr=Tous les pièges sont déplacés vers des cases au hasard.
+flavor="Inutile ! Tomato gagne toujours !" ―Tomato
+
+< CARD_HYPER_SUGURI >
+name=Accelerator
+descr=Durée de l'effet : 1 chapitre\nDouble les dés aux jets de combat, de déplacement, ainsi que pour les cases bonus & malus.
+flavor="J'accélère." ―Suguri
+
+< CARD_HYPER_FERNET >
+name=Attaque Aérienne
+descr=Inflige entre 1 et 3 points de dégât à tous les ennemis. +15 étoiles par ennemi KO.
+flavor="Mourez, mourez tous." ―Fernet
+
+< CARD_HYPER_HIME >
+name=Chaînes de Stase
+descr=(Effet Passif)\nTous les personnages ennemis passent leurs prochains tours. Applique l'effet "Stase" à tous les ennemis actif\n(-2 EVD, -1 MOV).\nDurée de l'Effet : 2 chapitres.
+flavor="Je n'y prends nul plaisir." ―Hime
+
+< CARD_HYPER_PEAT >
+name=Blue Crow, 2ème du nom
+descr=+1 ATK & DEF et -1 EVD par carte en main (celle-ci incluse) pour ce combat.
+flavor="Finissons-en !" ―Picon
+
+< CARD_HYPER_SORA >
+name=Facultés Stupéfiantes
+descr=Durée de l'effet : 1 chapitre\nVous faites 6 à chaque jet de combat, de déplacement, ainsi que pour les cases bonus & malus.
+flavor="Vous pouvez déposer les armes, s'il vous plaît ?" ―Sora
+
+< CARD_HYPER_YUKI >
+name=Roulette !
+descr=Un personnage au hasard tombe KO.
+flavor="Alors, à qui le tour ?" ―Yuki
+
+< CARD_HYPER_QP >
+name=Puissance Hypermétrique
+descr=Pour ce combat, gagnez +2 ATK. Si vous tombez KO durant ce combat, vous ne donnerez ni étoiles ni Victoires, et vous vous relèverez au prochain tour.
+flavor="PUISSANCE HYPERMÉTRIQUE !" ―QP
+
+< CARD_HYPER_TOMOMO >
+name=Magical Massacre
+descr=Tous les personnages dont les PV sont au maximum (ou plus) tombent KO. -1 REC à votre prochain KO par personnage (autre que vous) mis KO par cet effet.
+flavor="Disparais." ―Tomomo
+
+< CARD_HYPER_ARU >
+name=Cadeaux Pour Tout le Monde
+descr=Tous les joueurs piochent des cartes jusqu'à avoir la main pleine. Ceux qui ont déjà la main pleine piochent une carte supplémentaire. Obtenez 10 étoiles par carte piochée au total.
+flavor="Des cadeaux pour les enfants sages." ―Aru
+
+< CARD_HYPER_KAI >
+name=Privilège du Protagoniste
+descr=Durée de l'Effet : 3 chapitres\nLorsque vous attaquez en premier lors d'un combat, l'adversaire ne pourra pas attaquer en retour (une fois par combat).
+flavor="Le privilège du personnage principal !" ―Kai
+
+< CARD_HYPER_POPPO >
+name=Nous Sommes Partout
+descr=Téleportez-vous sur la case d'un ennemi au choix et volez (Niv. cible) x10 ★.
+flavor="Poppo ! Poppopopopopo !"\n―Marie Poppo
+
+< CARD_HYPER_MARC >
+name=Missile x16
+descr=★Coût : Niv. x10\nCiblez un ennemi et infligez-lui (votre Niv.) dégâts. S'il tombe KO, vous gagnez 2 Victoires.
+flavor="Paré ! Feu !" ―Marc
+
+< CARD_HYPER_MASTER >
+name=Banni à Vie
+descr=★Coût : Étoiles / 10.\nVous ne pouvez que jouer des cartes Cadeau. Utiliser cette carte l'envoie à un autre joueur.\nVous défausser de cette carte défausse toute votre main.
+flavor="Patron, c'est votre tour !!" ―Chris
+
+< CARD_HYPER_BOSSROBO >
+name=Turbo-Charge
+descr=Vous tombez à 1 PV et gagnez 1 Charge Turbo par PV perdu.\n+1 ATK par Charge Turbo. Votre pouvoir "Auto-Réparation" s'active à chaque tour.\nVous perdez une Charge à chaque tour, et toutes vos charges en tombant KO.
+flavor="Vrrrrrrrrrrrr." ―Robot Shifu
+
+< CARD_HYPER_CASTLE >
+name=Structure Immuable
+descr=Durée de l'Effet : 2 chapitres\nPasse vos tours pour la durée de l'effet.\n+2 de DEF. Vous pouvez contre-attaquer.\nForce les ennemis qui passent sur votre case à vous affronter.
+flavor="Avec ce pouvoir... tout le ciel sera nôtre." ―Maître de la Guilde
+
+< CARD_HYPER_CHICKEN >
+name=L'Œuf d'Or
+descr=Si vous êtes le Poulet : (Cumul : 3) Les cases Malus ont l'effet de cases Bonus.\nSinon, (Cumul : 3) Les cases Bonus ont l'effet de cases Malus.
+flavor="Cot cot codek !" ―Poulet
+
+< CARD_HYPER_BALL >
+name=Carapace Absorbante
+descr=Votre ATK de base devient 0 pour ce combat.\nAbsorbez 2 dégâts au plus.\n+2 d'ATK par point de dégât absorbé.\nNe peut être utilisé qu'en cas de défense.
+flavor="Ennemi détecté. Destruction." ―Roboulon
+
+< CARD_HYPER_SEAGULL >
+name=Jonathan Rush
+descr=Vous vous déplacez jusqu'à un joueur au choix et l'attaquez.\nLa cible perd 1 en DEF.\nLe combat met fin à votre tour.
+flavor="Couaaac !" ―Mouette
+
+[EOF]
+
+

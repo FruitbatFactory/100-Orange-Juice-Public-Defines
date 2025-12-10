@@ -1,6 +1,6 @@
 
 < CARD_ARTIST_PREFIX >
-Иллюстрировали: 
+Нарисовано: 
 
 < CARD_ARTIST_HONO >
 Hono
@@ -92,8 +92,14 @@ Airie
 < CARD_ARTIST_AME >
 Miyazaki Shiyuri
 
+< CARD_ARTIST_MI3LI >
+mi3li
+
+< CARD_ARTIST_PENCILCHEWING >
+pencilchewing
+
 < CARD_ARTIST_KAGAWA_YUSAKU >
-Yusaku Kagawa
+Kagawa Yusaku
 
 < CARD_ARTIST_SIUMAI >
 Siumai112
@@ -105,7 +111,7 @@ Pasu
 Tamaki
 
 < CARD_ARTIST_YASUMEYUKITO >
-Yasume Yukito
+YasumeYukito
 
 < CARD_ARTIST_LVMNOT >
 LVmNoT
@@ -131,14 +137,11 @@ Senca
 < CARD_ARTIST_USANEKORIN >
 Usanekorin
 
-< CARD_ARTIST_PENCILCHEWING >
-pencilchewing
-
-< CARD_ARTIST_MI3LI >
-mi3li
-
 < CARD_ARTIST_RITSU >
 Ritsu
+
+< CARD_ARTIST_PENCILCHEWING >
+pencilchewing
 
 < CARD_ARTIST_WOODCHIN >
 WoodChin
@@ -157,5 +160,17 @@ worker
 
 < CARD_ARTIST_PHLE >
 PhleBuster
+
+< CARD_ARTIST_JO >
+jo
+
+< CARD_ARTIST_TANGO >
+TangoStar
+
+< CARD_ARTIST_OYAMA >
+Oyama
+
+< CARD_ARTIST_AZUREE >
+Azurée
 
 [EOF]

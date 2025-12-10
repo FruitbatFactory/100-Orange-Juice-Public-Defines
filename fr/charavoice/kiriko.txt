@@ -1,0 +1,160 @@
+<0000> Hop-là.
+<0001> Je compte sur ma chance.
+<0002> Ça donne quoi, ça ?
+<0003> J'espère un bon chiffre.
+<0004> Le moment est bien choisi pour la jouer.
+<0005> Hihi, je vais jouer celle-ci.
+<0006> Bon, il faut bien l'essayer.
+<0007> Qu'est-ce que ça fait ?
+<0008> Hop, un piège.
+<0009> Et si je posais ce piège ici, par exemple ?
+<0010> Bon, autant poser ça là.
+<0011> Vous aimez les pièges ?
+<0012> Je ne sais pas me battre... mais avec ça, ça peut changer.
+<0013> Hihihi... Du dopage.
+<0014> Haah... hahh... Je me sens revigorée...
+<0015> Kukuku... Cette carte est très puissante...
+<0016> Sans plus tarder, passons à l'opération fatale.
+<0017> Hihi... hihi... Je suis vivante...
+<0018> Ahaa... Je me sens mieux que jamais.
+<0019> C-c-c'est bon... J-je pète la forme...
+<0020> Je déborde d'énergie... Ahaha !
+<0021> J'ai l'impression que je ne me réveillerai jamais...
+<0022> J'aimerais qu'on me fiche la paix.
+<0023> Pas encore.
+<0024> Si tu me touches, je vais crever...
+<0025> Tiens, tu préfères être tranché ou planté ?
+<0026> Si je tremble, ça va gicler fort.
+<0027> Allons, allons. Je suis experte du scalpel.
+<0028> Ici, ça ne fait pas mal... si mes souvenirs sont bons.
+<0029> Ça fait mal !
+<0030> Aha !
+<0031> Kyaaa !
+<0032> Ogo !
+<0033> Hihi... C'est agréable...
+<0034> Ahh... Je me sens déjà mieux...
+<0035> Ça... ça fonctionne !
+<0036> Ça fait du bien...
+<0037> Hein ? Qu'est-ce que c'est ?
+<0038> Un portail...
+<0039> On va où, comme ça ?
+<0040> Oh, seigneur.
+<0041> Je suis foutue...
+<0042> Guh... c'est... mauvais pour moi...
+<0043> Ça m'apprendra à me surmener.
+<0044> C'est horrible... Grrr...
+<0045> Ça te dérange, si je te tranche une fois ou deux ?
+<0046> Allez viens, on va se battre.
+<0047> On peut commencer l'opération.
+<0048> Hihi, tu n'aimes pas la douleur ?
+<0049> T'es prêt à te faire planter ?
+<0050> Hihi, vas-y.
+<0051> Hé, calme-toi un peu, tu veux ?
+<0052> Hein ? Tu me dragues ou quoi...?
+<0053> Crève, tu veux ?
+<0054> En un coup !
+<0055> Si ça laisse une cicatrice, j'en suis navrée.
+<0056> Mon scalpel est très coupant.
+<0057> Oh !
+<0058> Aïe !
+<0059> Guh !
+<0060> Hie !
+<0061> C'est plus que prévu.
+<0062> Nuoooh... En plein dans le dos...
+<0063> Tu trouves ça drôle ?
+<0064> La douleur... Elle me fait me sentir vivante...
+<0065> T'es bigleux, ou c'est les bras qui te font mal ?
+<0066> Je ne suis pas là.
+<0067> Tu m'as ratée.
+<0068> Oh, t'es vraiment pas doué.
+<0069> J'aurais aimé jouer un peu plus.
+<0070> Hihihi... J'ai gagné.
+<0071> C'est déjà fini ?
+<0072> Bon, à qui le tour...? Hmm...
+<0073> Ça... ça fait du bien...
+<0074> J'ai les articulations qui tremblent...
+<0075> J'en peux plus... J'y arrive plus...
+<0076> A... ahah... ahaha...
+<0077> Oh, c'est joli... Hihi.
+<0078> Je vais les garder.
+<0079> Hihi, merveilleux.
+<0080> Tant que ça, vraiment ?
+<0081> Elles ont disparu, pouf, d'un seul coup.
+<0082> Hm ? Où sont-elles passées ?
+<0083> J'ai pas mérité ça...
+<0084> Mes étoiles... où êtes-vous...?
+<0085> Un piège ?
+<0086> Aha...! Je suis tombée dedans.
+<0087> Il faudrait être diabolique pour poser ce piège ici.
+<0088> Hii... Ahh !
+<0089> Ah. Ça va être tendu.
+<0090> Et voilà qu'un monstre géant débarque.
+<0091> Ça sent le danger à plein nez.
+<0092> J'aimerais autant l'éviter, si possible.
+<0093> Faire fortune, c'est toujours un bon plan.
+<0094> Ces expériences vont pas se financer toutes seules.
+<0095> Ahaha ! Du fric !
+<0096> Tous les problèmes peuvent se résoudre avec l'argent.
+<0097> Se battre... il y a rien de plus humain.
+<0098> Hihihi... J'irais bien planter des inconnus...
+<0099> Quand on a un scalpel... autant s'en servir, pas vrai ?
+<0100> *soupir* Envie de couper de la viande... proprement.
+<0101> Salut, c'est Kiriko.
+<0102> Tiens, pile à temps. Je m'ennuyais.
+<0103> Hihi, on va jouer... avec un peu tout.
+<0104> On va bien s'amuser.
+<0105> Que la partie commence.
+<0106> Tant de patients... J'ai l'embarras du choix.
+<0107> Hihi... hihihi...
+<0108> Je dois en choisir un... mais lequel ?
+<0109> Hihihi, excellent.
+<0110> Aha... Ahaha...!
+<0111> Je n'essayais pas de gagner... Peu importe.
+<0112> Prosternez-vous, un peu.
+<0113> Hihi, tu parles d'une bonne surprise.
+<0114> On devrait jouer avec, la prochaine fois.
+<0115> Oh ! T'en as, de la chance !
+<0116> Hihi, je perçois un grand sourire.
+<0117> On peut échanger ?
+<0118> Prends ma place, tu veux ?
+<0119> Hihi, enfin ma pause.
+<0120> Allez, zou.
+<0121> Ok.
+<0122> Bien.
+<0123> Mhm.
+<0124> Non.
+<0125> Ngh.
+<0126> Quelle chance.
+<0127> Hmm ?
+<0128> Allez, on y va.
+<0129> Allez, les dés.
+<0130> J'y vais.
+<0131> Bonjour.
+<0132> Hmm...
+<0133> C'est bien.
+<0134> Génial.
+<0135> Oh, pas possible !
+<0136> Je vais essayer ta botte secrète.
+<0137> J'aurais jamais cru avoir cette carte en main... Hihi.
+<0138> Jolie carte. On va bien rigoler.
+<0139> C'est bien comme ça qu'on joue cette carte ?
+<0140> Krila, tu as besoin d'une opération ?
+<0141> Oh, Krila, tu voulais que je t'opère ?
+<0142> Hihihi, c'est la maladie qui te rend pauvre.\nJe vais corriger ça...
+<0143> Tes bêtes... Je crois qu'elles sont enragées.
+<0144> Ton corps est tout rouge ! C'est une maladie !
+<0145> Tes oreilles sont toutes gonflées...\nJe vais devoir t'opérer.
+<0146> On va pouvoir commencer l'opération.
+<0147> V-va voir un médecin avant que ça soit trop tard...
+<0148> Ton corps inférieur a disparu !!\nTu es malade, c'est ça ?
+<0149> Où est passé tout le reste de ton corps...?
+<0150> Opérer un géant pareil... J'ai du fil à retordre.
+<0151> D'où sort toute cette énergie ? Tu n'es qu'un buste !
+<0152> Qu'est-il arrivé à tes épaules ?\nProbablement une maladie rare...
+<0153> Tu as un regard cadavérique...\nSûrement une maladie mentale !
+<0154> Détends-toi, je vais te soigner.
+<0155> Tes épaules résistent à mon scalpel...\nComment c'est possible ?
+<0156> Tout va bien ? Tu veux que je t'opère ?
+<0157> Oh, tu es blessé ? Tu veux que je règle ça ?
+<0158> Tiens ? Encore un qu'on va devoir emmener aux urgences.
+<0159> Quelqu'un s'est évanoui... Je devrais aller l'aider !

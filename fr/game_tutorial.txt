@@ -1,0 +1,116 @@
+
+< TUTORIAL_SECTION_BASICS >
+Introduction
+
+< TUTORIAL_SECTION_BATTLE >
+Combat
+
+< TUTORIAL_SECTION_PANELS >
+Cases
+
+< TUTORIAL_SECTION_CARDS >
+Cartes
+
+< TUTORIAL_SECTION_COOP >
+Co-op
+
+< TUTORIAL_SECTION_BOUNTYHUNT >
+Chasseurs de Prime
+
+
+
+< TUTORIAL_00 >
+Bienvenue dans 100% Orange Juice ! Ce tutoriel couvre les bases - vous pouvez le lire en diagonale.
+
+< TUTORIAL_01 >
+C'est un jeu de plateau à 4 joueurs, où l'objectif est d'atteindre un niveau de "Quota" de 6 pour gagner la partie.
+
+< TUTORIAL_02 >
+Vous vous déplacez au travers du plateau avec des jets de dé - chaque case a un effet différent par couleur.
+
+< TUTORIAL_03 >
+Ceci est une Maison. Elle sert de point de départ pour les joueurs. Ils doivent s'y arrêter pour monter en niveau, et gagner la partie.
+
+< TUTORIAL_04 >
+Chaque joueur a sa propre maison au chiffre attitré. Si vous passez devant la vôtre, vous pourrez vous y arrêter. Vous pouvez aussi profiter de la maison d'un autre joueur si vous arrivez pile dessus.
+
+< TUTORIAL_05 >
+Premièrement, vous devrez accumuler 10 étoiles et atteindre une maison pour monter en niveau. Les prochains niveaux se débloquent en atteignant au choix un palier d'Étoiles ou de Victoires. Vous obtenez des Victoires en gagnant des combats.
+
+< TUTORIAL_06 >
+Si vous ne savez pas vers quoi vous tourner, il est recommandé de jouer les Étoiles. Vous gagnez des étoiles à chaque chapitre, vous ne serez donc jamais coincé(e).
+
+< TUTORIAL_07 >
+Les cases jaunes sont des cases Bonus. Vous y gagnerez autant d'étoiles que votre résultat à un jet de dé, multiplié par votre niveau actuel (3 maximum).
+
+< TUTORIAL_08 >
+Attention aux cases bleues ! Ce sont des cases Malus : marcher dessus vous fait perdre autant d'étoiles que votre résultat à un jet de dé, multiplié par votre niveau actuel (5 maximum).
+
+< TUTORIAL_09 >
+En vert, ce sont les cases Pioche. Vous piochez une carte en arrivant dessus.
+
+< TUTORIAL_10 >
+En rouge, ce sont les cases Ennemi, vous y affronterez un ennemi sauvage. Vaincre un ennemi confère des étoiles et 1 Victoire.
+
+< TUTORIAL_11 >
+Et enfin, en violet, les cases Portail : elles vous téléporteront à une autre case Portail.
+
+< TUTORIAL_12 >
+Certains plateaux possèdent encore d'autres types de cases... vous les découvrirez en jouant !
+
+< TUTORIAL_13 >
+Si vous croisez un autre joueur, vous pouvez choisir de vous arrêter sur sa case et de l'affronter !
+
+< TUTORIAL_14 >
+Survolez son portrait dans le coin de l'écran pour voir ses statistiques et ses pouvoirs. Elles affectent ses capacités en combat.
+
+< TUTORIAL_15 >
+En combat, l'attaquant jette un dé pour la première attaque. Sa statistique d'ATK s'ajoute au résultat.
+
+< TUTORIAL_16 >
+Le joueur adverse peut alors se Défendre. Les dégâts sont alors réduits (jusqu'à 1) en fonction du résultat.
+
+< TUTORIAL_17 >
+Il peut également Esquiver. Si le résultat est supérieur au score de l'attaque, l'attaque est complètement ignorée. Sinon, il prend tous les dégâts.
+
+< TUTORIAL_18 >
+Si le Défenseur survit à l'attaque, il peut attaquer à son tour !
+
+< TUTORIAL_19 >
+Si l'un des deux joueurs arrive à 0 PV, il tombe KO et donne 50% de ses étoiles au gagnant ! Le gagnant remporte également 2 Victoires.
+
+< TUTORIAL_20 >
+Parlons maintenant des cartes ! Avant de commencer à jouer, chaque joueur choisit 10 cartes à ajouter au jeu. Elles sont ensuite mélangées dans le Deck Central.
+
+< TUTORIAL_21 >
+Étant donné que les joueurs adverses peuvent piocher vos cartes, visez à prendre des cartes qui seront plus utiles pour vous.
+
+< TUTORIAL_22 >
+Chaque personnage possède son propre "Hyper", une carte à l'effet très puissant ! Il y a en tout 8 "Cartes-Hyper blanches" réparties dans le deck central. Piocher l'une d'elles la transformera en votre propre Hyper.
+
+< TUTORIAL_23 >
+Toutes les cartes ont un niveau attribué, entre 1 et 5, indiqué sur le bord gauche. Il vous faudra un niveau égal ou supérieur pour les jouer. La plupart ont également un coût en étoiles, indiqué sur le bord droit.
+
+< TUTORIAL_24 >
+Les plateaux ont souvent des "Effets Globaux", qui s'activent une fois tous les X chapitres. Survolez le bouton "Info" à droite pour les connaître.
+
+< TUTORIAL_25 >
+Par exemple, l'Effet Global 'Charité' se déclenche une fois tous les 5 chapitres. Il fait que tous les joueurs piochent chacun une carte du Deck Central.
+
+< TUTORIAL_26 >
+Lorsqu'un joueur atteint le niveau 4, un Boss apparaît sur le plateau. Les cases Ennemi deviennent alors des cases Boss. Mieux vaut éviter de l'affronter !
+
+< TUTORIAL_27 >
+À chaque fin de partie, vous obtenez des Étoiles, la monnaie du jeu permettant d'acheter de nouvelles cartes (et autres) dans la Boutique.
+
+< TUTORIAL_28 >
+Jouer en multijoueur ou en mode Co-op donne également des Oranges, permettant d'acheter des objets cosmétiques en tout genre.
+
+< TUTORIAL_29 >
+Le jeu présente parfois des évènements ! Vous aurez plus de détails en cliquant sur la bannière de l'évènement sur le menu principal.
+
+< TUTORIAL_30 >
+Amusez-vous bien... et gare à Marie Poppo !
+
+
+[EOF]

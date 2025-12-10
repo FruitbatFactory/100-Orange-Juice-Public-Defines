@@ -1,0 +1,160 @@
+<0000> Ça y va.
+<0001> C'est un jet de dé.
+<0002> C'est maintenant.
+<0003> Zouu !
+<0004> Ça, c'est la stratégie de Répa, admirez.
+<0005> Répa vient d'avoir une idée géniale.
+<0006> Ceci est sûrement la meilleure chose à faire.
+<0007> Hihihi.
+<0008> Carte posée !
+<0009> Ça, ça va juste ici.
+<0010> C'est ce que Répa voulait faire.
+<0011> Ça, c'est un piège.
+<0012> Avec ça, Répa va gagner en Girl Power.
+<0013> Une carte qui garantie la victoire de Répa.
+<0014> Répa est du genre à utiliser ce type de cartes.
+<0015> La peur... C'est ce que tu dois ressentir en voyant Répa.
+<0016> Cette magie permet à Répa de bouger ses propres cheveux.
+<0017> Ce n'est pas ça qui va mettre fin à Répa.
+<0018> Avec ça, Répa doit faire encore plus d'efforts.
+<0019> C'est là que Répa se relève.
+<0020> C'est la pause qui est terminée.
+<0021> Répa va se reposer encore un peu...
+<0022> Ce que Répa déteste, c'est rester immobile...
+<0023> Hmmm...
+<0024> C'est insupportable.
+<0025> Watah !
+<0026> Ashouu !
+<0027> Tiens, tiens !
+<0028> Ça ! Oraa !
+<0029> Ça fait mal.
+<0030> Arrête ça.
+<0031> C'est trop méchant.
+<0032> Répa va pleurer.
+<0033> C'est la douleur qui disparaît.
+<0034> Ça, ça fait que Répa se sent mieux.
+<0035> Oohhh, Répa a encore des frissons.
+<0036> Ohooh...
+<0037> Où emmènes-tu Répa ?
+<0038> Uaaaahhh.
+<0039> Nooooon.
+<0040> Répa a la tête qui tourne.
+<0041> C'est bien trop cruel.
+<0042> Répa ne tient pas face à ça.
+<0043> Hmm... Répa va pleurer à cause de ça.
+<0044> Répa n'en peut plus de ça...
+<0045> Répa voit une ouverture.
+<0046> Une jolie fille comme Répa... personne se méfierait de ça.
+<0047> Tu dois te battre.
+<0048> Tu es prêt à te battre ?
+<0049> Hiiié ! Tu es un monstre...
+<0050> Ce défi est accepté.
+<0051> La violence... Répa n'aime pas ça.
+<0052> Tu veux frapper Répa !? Une fille aussi mignonne !?
+<0053> Meurs tout de suite.
+<0054> Tu es une espèce de monstre.
+<0055> Oryah ! Tiens !
+<0056> Répa va te détruire !
+<0057> Kyaaa.
+<0058> Oh.
+<0059> Arrête ça !
+<0060> Hii !
+<0061> Ça fait super maaaleeuuh !
+<0062> Kyaaaah !
+<0063> C'est... mortel...
+<0064> Hiiiiii.
+<0065> Ça n'est pas passé loin.
+<0066> Esquive.
+<0067> Tu es trop prévisible.
+<0068> C'est trop facile à esquiver.
+<0069> Tu te pensais vraiment capable de vaincre Répa ?
+<0070> C'était un bon exercice.
+<0071> Ahh... Répa est tellement forte...
+<0072> Hihi, ça, c'était prévisible.
+<0073> R-Répa va se venger de toi...
+<0074> C'est impardonnable...
+<0075> C'est vraiment horrible... Répa va pleurer...
+<0076> C'est trop pour Répa. Répa veut rentrer à sa maison.
+<0077> Youpi !
+<0078> Ohoh !
+<0079> C'est très bien.
+<0080> C'est une très bonne chose.
+<0081> Non, attendez.
+<0082> Ça doit pas quitter Répaaaa !
+<0083> Aaah.
+<0084> Répa est triste...
+<0085> Uaaaah ! C'est pas juste !
+<0086> Un piège !?
+<0087> C'est une grosse erreur.
+<0088> Nyaaaah !
+<0089> C'est une chose très dangereuse.
+<0090> Il émane une aura de danger...
+<0091> C'est un boss !
+<0092> Ça sent les ennuis.
+<0093> Trouver des étoiles ? Celles du ciel nocturne ?
+<0094> Répa va en trouver autant que possible.
+<0095> Ce que Répa veut, c'est un océan d'étoiles.
+<0096> Répa se sent de chercher les étoiles.
+<0097> Une envie de combat... C'est ce Répa ressent.
+<0098> C'est parce que les cheveux de Répa sont puissants.
+<0099> Elle compte y aller à fond.
+<0100> De l'exercice. Répa pense qu'elle a besoin de ça.
+<0101> Cléoréparque...? Répa est un nom bien plus convenable.
+<0102> Est-ce Répa que tu as choisi ?
+<0103> Nous allons bien nous amuser.
+<0104> Tu voudrais être ami avec Répa, toi ?
+<0105> Répa a confiance en elle.
+<0106> La partie est commencée !
+<0107> Amusons-nous dans cette partie.
+<0108> C'est la victoire que Répa aura, quoi qu'il arrive.
+<0109> C'est une victoire de Répa...? Superbe !
+<0110> Hihihi, avec cette victoire,\nle dessert de Répa n'en sera que meilleur.
+<0111> Répa est première ?
+<0112> Ça, c'est comme ça qu'on fait...!
+<0113> Regarde ! Regarde ce tout nouvel objet !
+<0114> Répa est vraiment ravie.
+<0115> Qu'est-ce que c'est que ça ? Répa est curieuse.
+<0116> Ceci est un cadeau de Répa. Prends-en grand soin.
+<0117> C'est le moment d'échanger.
+<0118> Ce n'est pas trop de demander, un échange ?
+<0119> C'est une certitude que tu vas y arriver.
+<0120> Répa a confiance en toi.
+<0121> Oui.
+<0122> C'est bien joué.
+<0123> Répa a bien compris.
+<0124> C'est un non.
+<0125> C'est vraiment dommage...
+<0126> Répa a réussi ! C'est sa chance !
+<0127> Hm...
+<0128> Répa y va.
+<0129> C'est un jet de dés.
+<0130> Tu es capable d'y arriver.
+<0131> Répa te passe le bonjour.
+<0132> Répa est confuse...
+<0133> C'est très bien.
+<0134> C'est vraiment excellent.
+<0135> Aahhh...!!
+<0136> C'est un pouvoir inconnu pour Répa.
+<0137> Ce n'est pas familier pour Répa... mais elle va s'en servir.
+<0138> Répa ne sait pas à quoi cela sert.
+<0139> Peu importe ce qu'il va se passer !
+<0140> Rone, c'est le bon moment pour te préparer.
+<0141> C'est d'accord, Rone. Répa va t'affronter.
+<0142> Hihihi, Répa est contente d'avoir vaincu Rone.
+<0143> Grr... Rone, tu es méchante...
+<0144> Cette apparence... Répa ressent une telle affinité.
+<0145> Notre destin...? Quelle coïncidence.\nRépa se disait la même chose.
+<0146> Hihi, Répa est bien trop forte.
+<0147> Guh... Cette défaite de Répa... Serait-ce son destin...?
+<0148> Oh, Répa est prise dans ses propres cheveux...!
+<0149> Scronch scronch... C'est un vrai bonheur...
+<0150> *soupir* Tout ce qu'il manque, c'est une tasse de thé.
+<0151> Répa... Elle aime tant les bonbons.
+<0152> Mmmh... C'est tellement bon.
+<0153> Ce visage fait peur...! Ne t'approche pas de Répa !
+<0154> Une jeune demoiselle...? Vous êtes si jolie !
+<0155> Vos cheveux sont si soyeux... C'est magnifique.
+<0156> Ce combat était très mémorable.
+<0157> Une demoiselle, pourtant si forte...
+<0158> Cette chanson... Elle donne beaucoup d'énergie à Répa...!
+<0159> Ouah, c'est beaucoup trop pour les poches de Répa.

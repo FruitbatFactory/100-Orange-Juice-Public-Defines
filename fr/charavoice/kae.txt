@@ -1,0 +1,160 @@
+<0000> Poï !
+<0001> Piou piou !
+<0002> Pooï !
+<0003> Poui poui !
+<0004> Euhh... Cette carte !!
+<0005> C'est quoi ?
+<0006> Une carte ?
+<0007> Celle-là !
+<0008> Je la pose là !
+<0009> Un piège ? Ça va ici ?
+<0010> Ahaha, je vais la cacher dans le sol !
+<0011> Un piège !
+<0012> Je vais faire de mon mieux !
+<0013> Celle-là !
+<0014> Je peux pas perdre !
+<0015> Ça va être rigolo !
+<0016> Froutch ! Je brûle partout !
+<0017> J'avais pas fini de jouer !
+<0018> J'en ai marre de la sieste ! Je vais tout péter !
+<0019> Hmm ! Ça va mille fois mieux !
+<0020> Ta-daa !
+<0021> Ouah...
+<0022> Ouin...
+<0023> Ça fait toujours mal...
+<0024> J'ai la tête qui tourne...
+<0025> Boum !
+<0026> Baaam !
+<0027> Et bam !
+<0028> Paf paf !
+<0029> Ouah !
+<0030> Ça fait mal !!
+<0031> Hmmee...
+<0032> Ouaille !
+<0033> Ça chatouille !
+<0034> Je me sens beaucoup mieux !
+<0035> C'est tout doux et tout chaud !
+<0036> Yahouu ! Ça va mieux !
+<0037> Flap flap !
+<0038> Oh ?
+<0039> Pouf pouf pouf !
+<0040> Portail !
+<0041> Ouiin, j'en peux plus...
+<0042> Ohhh...
+<0043> J'vais dormir un peu.
+<0044> Hein ? Je peux plus bouger !
+<0045> Bats-toi avec moi !
+<0046> Pouf, me voilà ! On va se battre !
+<0047> Viens jouer avec moi !
+<0048> Paf ! Boouum !
+<0049> Ahaha ! Vas-y, j'suis partante !
+<0050> On va se marrer, ouais !
+<0051> Hein ? Tu veux jouer avec moi ?
+<0052> Prête et archi-prête !
+<0053> Bouuum !
+<0054> Et paf !
+<0055> Sbaf !
+<0056> Yaahh !
+<0057> Hé !
+<0058> Ouap !
+<0059> Nueh !
+<0060> Wouah !
+<0061> Kyun !
+<0062> Gueh !
+<0063> J'ai maaal !
+<0064> Ouiiiin !
+<0065> Pouf !
+<0066> Pouf pouf !
+<0067> Hoplà !
+<0068> Hop !
+<0069> Youpi ! Youpi ! J'ai gagné !
+<0070> Hé, j'avais pas fini de jouer !
+<0071> Bats-toi encore ! Encore !
+<0072> Sbaf ! Ding dong !
+<0073> Ouiin...
+<0074> Waah... C'était marrant...
+<0075> Oh non, j'ai perdu.
+<0076> C'est super frustrant.
+<0077> Qu'est-ce que c'est !?
+<0078> Ouah, elles sont trop jolies.
+<0079> J'ai trouvé un truc !
+<0080> Youpi !
+<0081> Nooon !
+<0082> Hé, vous allez où !?
+<0083> Ouuiiin !
+<0084> Elles ont disparu...
+<0085> J'ai eu peur !
+<0086> Ouah ! C'est quoi, ça ?!
+<0087> Ouaaah !
+<0088> Oh, flûte !
+<0089> Ouah, ça a l'air marrant !
+<0090> On va bien s'amuser, lui et moi !
+<0091> Hahaha ! On s'éclate un max !
+<0092> Ouah ! Il a l'air super fort !
+<0093> Ding ding ding !
+<0094> On joue à chercher des étoiles, alors ?
+<0095> Je peux pas en porter autant, je crois.
+<0096> Je vais en trouver plein et les garder pour moi !
+<0097> Quoi, faut faire la bagarre ? Hourra !
+<0098> Je vais jouer avec tout le monde !
+<0099> Nuooh ! Je suis toute enflammée !
+<0100> On s'éclate !
+<0101> Salut ! Moi c'est Kae !
+<0102> Je vais tout brûler !
+<0103> On va beaucoup jouer, beaucoup s'amuser !
+<0104> Je peux aller jouer ? Youpi !
+<0105> Ouaaais ! C'est parti !
+<0106> Ha-hahahaha !
+<0107> Avec qui je vais jouer, moi ?
+<0108> Je vais faire de mon mieux et gagner !
+<0109> J'ai réussi ! Je suis première !?
+<0110> Ha-hahahahahahahahahaha !!
+<0111> Ouah, c'était génial !
+<0112> J'espère qu'on rejouera ensemble !
+<0113> J'ai trouvé un truc !
+<0114> Ahaha ! Trop trop cool !
+<0115> Quoi, t'en as besoin ? Tiens, cadeau !
+<0116> Le premier de ma collection ! Youhou !
+<0117> On échange !
+<0118> Maaiis ! J'ai pas fini de jouer !
+<0119> Ok ! C'est ton tour !
+<0120> À plus !
+<0121> Ouais !
+<0122> C'est génial !
+<0123> Ok !
+<0124> Vraiment pas.
+<0125> Hein ?
+<0126> Ouah ! J'suis trop contente !
+<0127> Quoi ?
+<0128> Ok, on va jouer !
+<0129> Quoi, faut le jeter ? Ça marche !
+<0130> Froutch !
+<0131> Yahouuu !
+<0132> Hmmm...
+<0133> Waouh !
+<0134> Génial, génial, génial !
+<0135> Ohhh... oh non...
+<0136> Faut que j'essaie ça.
+<0137> Hmm ? Je m'en sers ou pas ?
+<0138> Hahaha ! Je sais pas c'est quoi, mais je le joue !
+<0139> Ça fait quoi, ce truc ? Je veux voir !
+<0140> Youpi, t'es là, Nana ! Viens, on joue !
+<0141> Ouais, ok !
+<0142> Aaah, c'était génial ! Encore !
+<0143> Ouais, on rejouera !
+<0144> Quoi ? Je peux le détruire ?
+<0145> Ouiiin ! Il approche !
+<0146> Pfiou, j'avais peur !
+<0147> Ouiiiin...
+<0148> Coucou le chat !
+<0149> Oh ? Un chat ! Miaou !
+<0150> Ahaha ! Trop choupi !
+<0151> T'es très fort, pour un chat...
+<0152> U-un petit chien !
+<0153> Hé ! J'peux te caresser, dis ?
+<0154> T'es tout doux !
+<0155> Il est balèze, ce chien...!
+<0156> Oh, un lapin ! Boing boing !
+<0157> Un lapin tout doux !
+<0158> T'es un lapin très costaud !
+<0159> C'est vachement costaud, un lapin...

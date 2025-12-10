@@ -1,8 +1,3 @@
-< SHOP_LABEL_TIGERKIGU > 
-Киругуми Тигра
-
-< SHOP_TOOLTIP_TIGERKIGU > 
-Разблокировать киругуми тигра.
 
 < SHOP_LABEL_HOME >
 Главная
@@ -29,13 +24,16 @@
 Свинформация
 
 < SHOP_LABEL_COWKIGU >
-Кигуруми-Коровка
+Пижамы-коровки
+
+< SHOP_LABEL_TIGERKIGU > 
+Пижамы-тигры
 
 < SHOP_LABEL_RETIREDEVENTS >
-Прошлые События
+Снятые События
 
 < SHOP_LABEL_PLAYERPLATES >
-Таблицы Игроков
+Плитки Игрока
 
 < SHOP_LABEL_MISC >
 Остальное
@@ -68,10 +66,10 @@ DLC
 Саки и Кьёске
 
 < SHOP_DLC_MIXED >
-Набор смешанных карт 
+Набор карт "Mixed"
 
 < SHOP_DLC_KRILAKAE >
-Крила и Каэ
+Крила и Кае
 
 < SHOP_DLC_ALTEKYOKO >
 Альте и Кьёко
@@ -86,7 +84,7 @@ DLC
 Набор карт "Acceleration"
 
 < SHOP_DLC_NATHTOMATOMIMYUU >
-Томато/Мимью и Нат
+Нат и Томато/Мимью 
 
 < SHOP_DLC_SUGURIHIMEWINTER >
 Зимние Сугури и Химе
@@ -95,25 +93,25 @@ DLC
 Кирико и NoName
 
 < SHOP_DLC_STARTERVOICEPACK >
-Озвучка стартового персонажа
+Озвучка "Starter Character Voice"
 
 < SHOP_DLC_CEOREPARQUEMIUSAKI >
 Набор "Witch"
 
 < SHOP_DLC_COREVOICEPACK1 >
-Озвучка основных голосов 1
+Озвучка "Core Voice Pack 1"
 
 < SHOP_DLC_YUKITOMOMORENEWAL >
 Новые Юки и Томомо
 
 < SHOP_DLC_COREVOICEPACK2 >
-Озвучка основных голосов 2
+Озвучка "Core Voice Pack 2"
 
 < SHOP_DLC_TSIHTEQUILA >
 Тси и Текила
 
 < SHOP_DLC_MEINATSUMI >
-Мэй и Нацуми
+Мей и Нацуми
 
 < SHOP_DLC_NICOARTHUR >
 Набор "Toy Store"
@@ -125,10 +123,10 @@ DLC
 Милашки
 
 < SHOP_DLC_ULTIMATEWEAPONGIRL >
-Девушка-ультимативное оружие
+Песня "Ultimate Weapon Girl"
 
 < SHOP_DLC_YUUKIISLAY >
-Юуки и Айла
+Ююки и Айла
 
 < SHOP_DLC_PUDDINGPACK >
 Набор карт "Pudding"
@@ -155,16 +153,46 @@ DLC
 Набор "Railway Runners"
 
 < SHOP_DLC_HIMEFERNETRENEWAL >
-Набор Принцесс
+Набор "Princess"
 
 < SHOP_DLC_MALTMESCAL >
-Мальт и Мескаль
+Малт и Мескаль
+
+< SHOP_DLC_SHIFUREIKA >
+Шифу и Рейка
+
+< SHOP_DLC_PUDDINGPOP >
+Песня "Pudding Pop"
+
+< SHOP_DLC_WATTYPOMERANIUS >
+Вотти и Помераниус
+
+< SHOP_DLC_SWEETGODS >
+Набор "Sweet Gods"
+
+< SHOP_DLC_KRILAMIMYUURENEWAL >
+Набор "Waruda Prison Break"
+
+< SHOP_DLC_ALTEREGOPACK >
+Набор "Alter Ego"
 
 < SHOP_DLC_STARBAKERBREAKER >
-Пекарь-уничтожитель звезд
+Песня "Star Baker Breaker"
 
 < SHOP_DLC_NEWELLIEKAI >
 Набор "Protagonist"
+
+< SHOP_DLC_OLDGUARDPACK >
+Бурбон и Грейн
+
+< SHOP_DLC_POYOCHUU >
+Пойо и Чуу
+
+< SHOP_DLC_HARUKANA >
+Харука и Каната
+
+< SHOP_DLC_EXTRACURRICULARPACK >
+Набор карт "Extracurricular"
 
 < SHOP_TOOLTIP_HOME >
 Используйте кнопки категорий для навигации по магазину.
@@ -191,13 +219,16 @@ DLC
 Приобрести аксессуары из События "Берегись Свинформации".
 
 < SHOP_TOOLTIP_COWKIGU >
-Приобрести костюм Коровка-Кигуруми.
+Приобрести коровьи пижамки.
+
+< SHOP_TOOLTIP_TIGERKIGU >
+Приобрести тигровые пижамки.
 
 < SHOP_TOOLTIP_RETIREDEVENTS >
-Приобрести награды из прошедших Событий.
+Купить награды из снятых Событий.
 
 < SHOP_TOOLTIP_MISC >
-Приобрести бонусы с сетевой игры и прочие вещи.
+Получить бонусы с сетевой игры и прочие вещи.
 
 < SHOP_TOOLTIP_EMOTES >
 Приобрести новые эмоции для чата!
@@ -210,6 +241,9 @@ DLC
 
 < SHOP_TOOLTIP_DLC >
 Покупка новых DLC за реальные деньги.
+
+< SHOP_TOOLTIP_PLAYERPLATES >
+Купить новые фоны, рамки и прочее для вашей плитки!
 
 < SHOP_TOOLTIP_ALL >
 Осмотреть весь ассортимент.
@@ -261,36 +295,6 @@ DLC
 
 < SHOP_ERROR_INVENTORY_PURCHASE >
 Покупка невозможна. Попробуйте позже.
-
-< SHOP_DLC_SHIFUREIKA >
-Шифу и Рейка
-
-< SHOP_DLC_WATTYPOMERANIUS >
-Ватти и Помераниус
-
-< SHOP_DLC_SWEETGODS >
-Боги Сладостей
-
-< SHOP_DLC_PUDDINGPOP >
-Пудинг-Поп
-
-< SHOP_DLC_KRILAMIMYUURENEWAL >
-Пак Варуда: Побег из тюрьмы 
-
-< SHOP_DLC_ALTEREGOPACK >
-Пак Альтер Эго
-
-< SHOP_TOOLTIP_PLAYERPLATES >
-Приобретите новые фоны, границы и многое другое для вашей онлайн-плиты игрока!
-
-< SHOP_DLC_OLDGUARDPACK >
-Бурбон & Грейн
-
-< SHOP_DLC_POYOCHUU >
-Пойо & Чуу
-
-< SHOP_DLC_HARUKANA >
-Харука и Каната
 
 [EOF]
 

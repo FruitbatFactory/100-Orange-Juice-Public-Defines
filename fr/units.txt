@@ -1,0 +1,643 @@
+< CARD_UNIT_ALTE >
+name=Alte
+descr=En combat, une des cartes Combat de la main de votre adversaire vous est révélée.\nPour chaque Autodestruction, gagnez +1 ATK permanent (+3 max).
+
+< CARD_UNIT_ARTHUR >
+name=Arthur
+descr=Les cases Bonus et les Boutiques vous rapportent +1 étoile par nombre de Boutiques sur le plateau.\n(Maximum : Votre niveau actuel)
+
+< CARD_UNIT_ARU >
+name=Aru
+descr=+1 carte en main maximum.
+
+< CARD_UNIT_ARUSCRAMBLE >
+name=Aru (Scramble)
+descr=+1 carte en main maximum.
+
+< CARD_UNIT_BIG_THE_JONATHAN >
+name=Jonathan le Géant
+descr=+1 ATK pour 1 chapitre à chaque fois qu'un joueur tombe KO.\nTous les 4 chapitres, utilise Décollage à la fin de son tour.\nTous les 10 chapitres, obtient +1 ATK et -1 DEF & EVD permanents.
+
+< CARD_UNIT_BIG_THE_JONATHAN_HYPER >
+name=Jonathan le Géant
+descr=+1 ATK pour 1 chapitre à chaque fois qu'un joueur tombe KO.\nTous les 3 chapitres, utilise Décollage à la fin de son tour.\nTous les 10 chapitres, obtient +1 ATK et -1 DEF & EVD permanents.
+
+< CARD_UNIT_BOSS_CHICKEN >
+name=Haruo le Géant
+descr=Pour chaque Poulet sur le plateau, perd 1 ATK, 1 DEF et gagne un dé à ses jets d'attaque.\nInvoque un familier Poulet tous les 5 chapitres.
+
+< CARD_UNIT_BOSS_CHICKEN_HYPER >
+name=Haruo le Géant
+descr=Pour chaque Poulet sur le plateau, perd 1 ATK, 1 DEF et gagne un dé à ses jets d'attaque.\nInvoque deux familiers Poulet tous les 5 chapitres.
+
+< CARD_UNIT_BOSS_POPPO >
+name=Dévoreuse d'Étoiles
+descr=☆ Gagne à 1000. Perd à 0.\nLes joueurs gagnent 2x ★ en début de chapitre.\nEn combat :\n• Si blessée, +1 DEF pour ce chapitre (Cumulable)\n• Inflige +1 dégât par 300 ★.\n• ☆ Gagne 5 par dégât infligé. Donne 3 par dégât subi.
+
+< CARD_UNIT_BOSS_POPPO_HYPER >
+name=Dévoreuse d'Étoiles
+descr=☆ Gagne à 1000. Perd à 0.\nLes joueurs gagnent 2x ★ en début de chapitre.\nEn combat :\n• Si blessée, +1 DEF pour ce chapitre (Cumulable)\n• Inflige +1 dégât par 300 ★.\n• ☆ Gagne 5 par dégât infligé.
+
+< CARD_UNIT_BIG_POPPO >
+name=Poppo Géante
+descr=Chaque dégât que Poppo Géante inflige vole 3 étoiles au lieu de blesser. Elle partage ses étoiles avec le Boss.\nSi elle tombe KO, le Boss donne aux joueurs 100 étoiles et 3 Victoires.\n10 de REC.
+
+< CARD_UNIT_BIG_POPPO_NM >
+name=Poppo Géante
+descr=
+
+< CARD_UNIT_BOSS_ROBOBALL >
+name=Robot M10
+descr=Continue à avancer après avoir défié un joueur.\nObtient Protection si "Brouillé" est inactif.
+
+< CARD_UNIT_BOSS_QP >
+name=Bête de l'Été
+descr=Invoque un familier Mouette à chaque tour (max : Niv. Boss).\n+1 Hype si un joueur tombe KO.\n-1 Hype si une Mouette tombe KO.\nÀ 10+ de Hype, le Boss utilise Carnage.
+
+< CARD_UNIT_BOSS_ROPOCHI >
+name=RoPoPou
+descr=Obtient Po-tection si "Brouillé" est inactif.\nPour chaque familier sur le plateau, perd 2 ATK et gagne un dé à ses jets d'attaques.\nActive Poulet Plus tous les 6 chapitres.\nVole 3 étoiles par dégât infligé.
+
+< CARD_UNIT_BOSS_ROPOCHI_HYPER >
+name=RoPoPou
+descr=Obtient Po-tection si "Brouillé" est inactif.\nPour chaque familier sur le plateau, perd 2 ATK et gagne un dé à ses jets d'attaques.\nActive Poulet Plus tous les 6 chapitres.\nVole 5 étoiles par dégât infligé.
+
+< CARD_UNIT_BOSS_COACH >
+name=Maître-Nageur
+descr=Invoque une Balise tous les 2 tours (Max 5).\nInvoque Brutemballons à chaque tour (Max 1).\nInvoque Vilaine Bouée à chaque tour (Max 2).
+
+< CARD_UNIT_BOSS_COACH_HYPER >
+name=Maître-Nageur
+descr=Invoque une Balise tous les 2 tours (Max 5).\nInvoque Brutemballons à chaque tour (Max 1).\nInvoque Vilaine Bouée à chaque tour (Max 2).\nInvulnérable en combat.
+
+< CARD_UNIT_GOALPOST >
+name=Balise
+descr=Immobile. Ne peut pas esquiver. Ignore les attaques infligeant plus d'un point de dégât.
+
+< CARD_UNIT_BALLOON_JERK >
+name=Brutemballons
+descr=
+
+< CARD_UNIT_SWIMMING_RINGER >
+name=Vilaine Bouée
+descr=-1 MOV.
+
+< CARD_UNIT_BOSS_BEACH_BREAKER >
+name=Pyro-Nautique
+descr=+1 DEF lorsqu'un autre Boss est KO.\nTechnique spéciale : Brûler\nDurée de l'Effet : 3 chapitres\nCommencer ou terminer un tour sur une case brûlée inflige 1 dégât.
+
+< CARD_UNIT_BOSS_BEACH_BUILDER >
+name=Brico-Nautique
+descr=+1 DEF lorsqu'un autre Boss est KO.
+
+< CARD_UNIT_BOSS_BEACH_BUSTER >
+name=Nitro-Nautique
+descr=+1 DEF lorsqu'un autre Boss est KO.
+
+< CARD_UNIT_BOSS_TROUBLEMAKERS >
+name=Trio d'Enfer
+descr=
+
+< CARD_UNIT_CHICKEN >
+name=Poulet
+descr=
+
+< CARD_UNIT_CHICKEN_MP >
+name=Poulet
+descr=Donnez 1/4 de vos étoiles et 1 Victoire en tombant KO en combat.
+
+< CARD_UNIT_CASTLE >
+name=Château Volant
+descr=
+
+< CARD_UNIT_CASTLE_MP >
+name=Château Volant
+descr=Les joueurs n'ont pas droit aux cartes Combat en vous défiant.\nCependant, vous ne pouvez pas contre-attaquer.
+
+< CARD_COOP_UNIT_CASTLE_MP >
+name=Château Volant
+descr=Vous ne pouvez pas contre-attaquer en étant défié.
+
+< CARD_UNIT_CEOREPARQUE >
+name=Cléoréparque
+descr=Esquiver une attaque inflige 1 point de dégât à l'adversaire.
+
+< CARD_UNIT_CUTIES >
+name=Sora & Sham (Idols)
+descr=Ne peut prendre que les Quotas Étoiles. Chaque carte Évènement jouée vous fait gagner +1 étoile sur toutes les prochaines cases Bonus. En combat, obtient au hasard +1 ATK ou DEF.
+
+< CARD_UNIT_FERNET >
+name=Fernet
+descr=
+
+< CARD_UNIT_HIME >
+name=Hime
+descr=
+
+< CARD_UNIT_IRU >
+name=Iru
+descr=Lorsque vous défiez un ennemi, il subit aussitôt 1 dégât. S'il tombe KO, vous remportez le combat.
+
+< CARD_UNIT_ISLAY >
+name=Scotch
+descr=Ne peut pas défier les autres personnages.
+
+< CARD_UNIT_KAE >
+name=Kae
+descr=Pour chaque modification de DEF, vous gagnez la valeur opposée en ATK.\n-1 en DEF lorsque vous attaquez en premier.
+
+< CARD_COOP_UNIT_KAE >
+name=Kae
+descr=Pour chaque modification de DEF, vous gagnez la valeur opposée en ATK.
+
+< CARD_UNIT_KAI >
+name=Kai
+descr=
+
+< CARD_UNIT_KIRIKO >
+name=Kiriko
+descr=Ignore les effets de soin.\nMédicament Malsain : Utiliser une carte Combat confère +1 ATK & EVD bonus le temps du combat, et -1 PV max (jusqu'à 2 PV max).
+
+< CARD_UNIT_KRILA >
+name=Krilalaris
+descr=
+
+< CARD_UNIT_KYOKO >
+name=Kyoko
+descr=Ne peut pas esquiver les attaques.
+
+< CARD_UNIT_KYOUSUKE >
+name=Kyousuke
+descr=
+
+< CARD_UNIT_MALT >
+name=Malt
+descr=KO, donne 3 Victoires. Ne peut pas défier.\nPeut poser les cartes Combat sans condition en guise de pièges. Si un ennemi l'active, il vous affronte et vous gagnez tous les deux son effet (empêche l'usage d'autres cartes Combat).
+
+< CARD_UNIT_MANAGER >
+name=Patron du Magasin
+descr=
+
+< CARD_UNIT_MANAGER_MP >
+name=Patron du Magasin
+descr=Ne gagne pas d'étoiles sur les cases Bonus. Ne peut utiliser que les cartes Cadeau. Défausser une carte inflige 1 point de dégât.
+
+< CARD_UNIT_MARC >
+name=Marc
+descr=
+
+< CARD_UNIT_MEI >
+name=Mei
+descr=En fin de tour, si vous n'avez pas de cartes en main, vous obtenez "Rougeon & Bleuet".
+
+< CARD_UNIT_MESCAL >
+name=Mescal
+descr=Si vous êtes défié en combat, 50% de chance qu'un Pirate vous remplace. Si le Pirate tombe KO, il ne reviendra pas avant 3 chapitres. Les étoiles qu'il gagne en combat vous reviennent. Vaincre le Pirate donne 1 Victoire.
+
+< CARD_UNIT_MIMYUU >
+name=Mimyuu
+descr=KO, vous revenez en tant que Tomato, et pouvez défier tous les ennemis sur la même case.\nDonnez 1/4 de vos étoiles et 1 Victoire en tombant KO en combat.
+
+< CARD_UNIT_MIRA >
+name=Mira
+descr=Si un ennemi active un de vos pièges, il subit aussi l'effet Fumée Épaisse (limite les déplacements à 1, 2 ou 3 pour 2 chapitres).
+
+< CARD_UNIT_MIUSAKI >
+name=Miusaki
+descr=En combat, vous ne pouvez pas subir plus de 2 dégâts d'un coup en vous défendant.
+
+< CARD_COOP_UNIT_MIUSAKI >
+name=Miusaki
+descr=En combat, vous ne pouvez pas subir plus de la moitié de vos PV Max (arrondi vers le haut) en vous défendant.
+
+< CARD_UNIT_MIXEDPOPPO >
+name=Marie Poppo (Mixed)
+descr=En vous téléportant : Si votre niveau est impair, vous gagnez (votre Niv.) x3 ★. Si votre niveau est pair, piochez une carte.
+
+< CARD_UNIT_MIO >
+name=Mio
+descr=
+
+< CARD_UNIT_NANAKO >
+name=Nanako
+descr=
+
+< CARD_UNIT_NATH >
+name=Nath
+descr=Gagne 1 Cumul d'Extension Active (+1 ATK & DEF, -1 EVD) par combat où une carte Combat est jouée (max. 3). Perd 1 Cumul en tombant KO.
+
+< CARD_UNIT_NATSUMI >
+name=Natsumi
+descr=Si vous et au moins un autre joueur êtes sur la même case sans être KO, soigne 1 PV à tous les joueurs concernés.\nVous gagnez 5 étoiles par autre joueur soigné.
+
+< CARD_COOP_UNIT_NATSUMI >
+name=Natsumi
+descr=Si vous et au moins un allié êtes sur la même case sans être KO, soigne 1 PV à tous les joueurs concernés.\nVous gagnez 5 étoiles par autre joueur soigné.
+
+< CARD_UNIT_NICO >
+name=Nico
+descr=Ignore les effets des cartes Cadeau.\nGagne +1 à chaque gain d'étoiles par carte Cadeau en main.\n+1 carte en main maximum.
+
+< CARD_UNIT_NONAME >
+name=NoName
+descr=Devient NoName (Tête) en tombant KO. Ne donne pas d'étoiles ou de Victoires en étant vaincu au combat.
+
+< CARD_UNIT_NONAME_HEAD >
+name=NoName (Tête)
+descr=Devient NoName en tombant KO ou en atteignant une maison.\n-1 MOV.
+
+< CARD_UNIT_POPPO >
+name=Marie Poppo
+descr=
+
+< CARD_UNIT_PEAT >
+name=Picon
+descr=
+
+< CARD_UNIT_QP >
+name=QP
+descr=
+
+< CARD_UNIT_QPD >
+name=QP (Dangerous)
+descr=Gagne en puissance en tenant des cartes Pudding :\n• (Pudding Dangereux) +1 ATK\n• (Mauvais Pudding) +1 DEF\n• (Pudding) +1 EVD\n• (Pudding Portatif) Soigne 1 PV en vainquant un adversaire
+
+< CARD_UNIT_ROBOBALL >
+name=Roboulon
+descr=
+
+< CARD_UNIT_ROBOBALL_MP >
+name=Roboulon
+descr=Donnez 1/4 de vos étoiles et 1 Victoire en tombant KO en combat.
+
+< CARD_UNIT_SAKI >
+name=Saki
+descr=
+
+< CARD_UNIT_SEAGULL >
+name=Mouette
+descr=
+
+< CARD_UNIT_SEAGULL_MP >
+name=Mouette
+descr=Donnez 1/4 de vos étoiles et 1 Victoire en tombant KO en combat.
+
+< CARD_UNIT_SHAM >
+name=Sham
+descr=
+
+< CARD_UNIT_SHERRY >
+name=Cherry
+descr=En combat, l'ennemi attaque toujours en premier.
+
+< CARD_UNIT_SHIFUROBOT >
+name=Robot Shifu
+descr=
+
+< CARD_UNIT_SHIFUROBOT_MP >
+name=Robot Shifu
+descr=Commence avec 1 PV et Bouclier (1).\nKO, vous revenez à 1 PV au tour suivant avec Bouclier, et -1 MOV pendant 2 chapitres.\nAuto-Réparation : Perd son bouclier et récupère 1 PV tous les 3 chapitres.
+
+< CARD_COOP_UNIT_SHIFUROBOT >
+name=Robot Shifu
+descr=Commence avec 1 PV et Bouclier (1).\nKO, vous revenez à 1 PV avec Bouclier après 2 tours.\nObsolescence : Se relever prend un tour de plus à chaque KO.\nAuto-Réparation : Perd son bouclier et récupère 1 PV tous les 3 chapitres.
+
+< CARD_UNIT_SORA >
+name=Sora
+descr=
+
+< CARD_UNIT_SORAMILITARY >
+name=Sora (Militaire)
+descr=Lorsque KO en combat, vous revenez à 2 PV à votre prochain tour.
+
+< CARD_COOP_UNIT_SORAMILITARY >
+name=Sora (Militaire)
+descr=Lorsque KO en combat, vous revenez à 2 PV à votre prochain tour.\nObsolescence : Se relever prend un tour de plus à chaque KO en combat.
+
+< CARD_UNIT_STARBREAKER >
+name=Star Breaker
+descr=Ne peut prendre que les Quotas Victoires.
+
+< CARD_UNIT_SUGURI >
+name=Suguri
+descr=
+
+< CARD_UNIT_SUGURI_V2 >
+name=Suguri (Ver.2)
+descr=-1 carte en main maximum.\nRégénère 1 PV à chaque tour.
+
+< CARD_UNIT_SWEETBREAKER >
+name=Sweet Breaker
+descr=Vous gagnez +1 ATK, DEF et EVD en combat par carte retournée dans la main de l'adversaire.
+
+< CARD_COOP_UNIT_SWEETBREAKER >
+name=Sweet Breaker
+descr=Vous gagnez +1 ATK, DEF et EVD en combat si l'ennemi est sous l'effet de Souvenirs Fondus.
+
+< CARD_UNIT_SYURA >
+name=Syura
+descr=Vous gagnez +1 ATK & EVD en combat si vous êtes à 1 PV.
+
+< CARD_UNIT_TOMATO >
+name=Tomato
+descr=KO, vous revenez en tant que Mimyuu. Vous pouvez encore jouer après.\nDonnez 1/3 de vos étoiles lorsque KO en combat.\nPiocher une carte Plan d'Infiltration ― Exécution la remplace par Méca-Loubardie, À l'Attaque !
+
+< CARD_UNIT_TEQUILA >
+name=Tequila
+descr=Les cases Combat ont une chance d'abriter un Pirate. Si le Pirate met un joueur KO, vous récupérez les étoiles perdues.\nEn combat, vous gagnez +1 ATK pour chaque PV que vous perdez.
+
+< CARD_UNIT_TEQUILA_BH >
+name=Tequila
+descr=Les cases Combat ont une chance d'abriter un Pirate. Si le Pirate met un joueur KO, vous récupérez les étoiles perdues.\nEn combat, vous gagnez +1 ATK si vous êtes blessé.
+
+< CARD_UNIT_TEQMINION >
+name=Pirate
+descr=Vaincre un adversaire lui fait perdre son Niv. x10 ★.\nLe joueur ayant invoqué le Pirate récupère les étoiles qu'il a volé et ne peut faire face à ce dernier.
+
+< CARD_UNIT_TOMOMO >
+name=Tomomo
+descr=
+
+< CARD_UNIT_TOMOMO_MP >
+name=Tomomo
+descr=Adoucie : Tomomo joue avec ses amis, elle a baissé ses statistiques par soucis d'équité.
+
+< CARD_UNIT_TOMOMO_CASUAL >
+name=Tomomo (Repos)
+descr=
+
+< CARD_UNIT_TOMOMO_SWEETEATER >
+name=Tomomo (Sweet Eater)
+descr=Vous défaussez votre main et redevenez Tomomo (Repos) en tombant KO.
+
+< CARD_UNIT_TSIH >
+name=Tsih
+descr=Vous gagnez +2 ATK si vous avez une carte Cadeau en main.
+
+< CARD_UNIT_YUKI >
+name=Yuki
+descr=
+
+< CARD_UNIT_YUKI_DANGEROUS >
+name=Yuki (Dangerous)
+descr=Les cartes de type Pudding en main deviennent Tragédie Nocturne pour le restant de la partie.\nVous gagnez 1 Victoire quand un autre joueur active un de vos pièges. Ne gagne pas de Victoires face aux ennemis sauvages.
+
+< CARD_UNIT_YUUKI >
+name=Yuuki
+descr=-1 ATK et +2 DEF lors des chapitres impairs.\n+2 ATK et -1 DEF lors des chapitres pairs.
+
+< CARD_UNIT_SUGURI46 >
+name=Suguri (46 Milliards)
+descr=Jouer une carte Boost ou Évènement avec pour effet d'infliger des dégâts confère +1 dé au prochain jet de déplacement.\nPour 1,5x plus cher, vous pouvez doubler les dégâts de la carte.
+
+< CARD_UNIT_SUMIKA >
+name=Sumika
+descr=
+
+< CARD_UNIT_ELLIE >
+name=Ellie
+descr=
+
+< CARD_UNIT_LULU >
+name=Lulu
+descr=
+
+< CARD_UNIT_MARC_PILOT >
+name=Marc (Pilote)
+descr=
+
+< CARD_UNIT_ALICIANRONE >
+name=Alicianrone
+descr=En combat, vous gagnez +1 EVD pour chaque point d'ATK positif de l'adversaire (max. 2).
+
+< CARD_UNIT_TEOTORATTA >
+name=Teotoratta
+descr=N'active jamais les cases Ennemi (sauf Boss).
+
+< CARD_UNIT_ARNELLE >
+name=Arnelle
+descr=Vous pouvez voir la carte du dessus du deck si vous avez Officière de l'Information en main.
+
+< CARD_UNIT_MAYNIE >
+name=Marnie
+descr=Si vous n'êtes pas en Folie Meurtrière, vous gagnez (1) Compteur - Rage en vous prenant des dégâts et en perdez un en vous soignant.
+
+< CARD_UNIT_KYUPITA >
+name=Kyupita
+descr=
+
+< CARD_UNIT_CHRIS >
+name=Chris
+descr=+1 carte en main maximum. Vous ne pouvez pas défier les joueurs sans Chef Cuisinier ou Patron du Magasin.\nPour chaque carte limitée à 1 exemplaire (sauf carte Cadeau) jouée, vous gagnez (1) Compteur - Patron.
+
+< CARD_UNIT_CHEF >
+name=Chef Cuisinier
+descr=
+
+< CARD_UNIT_GOLEM >
+name=Golem Moussu
+descr=
+
+< CARD_UNIT_GUARDIAN >
+name=Gardien
+descr=Ne peut pas défier les autres joueurs. Partage les Contrats avec son invocateur.
+
+< CARD_UNIT_GUARDIAN_CHAOS >
+name=Gardien
+descr=Gagner un combat de case Ennemi rapporte Niv. ★ en plus.
+
+< CARD_UNIT_EVILGUARDIAN >
+name=Apocalypse
+descr=Invulnérable hors combat. Vaincre un joueur lui vole 1 de Gloire, soigne 1 PV (sauf si Éveillé) et confère 1 unité de Dévorâme.\nDonne la Gloire volée +2 en étant vaincu.
+
+< CARD_UNIT_EVILMOUSSE >
+name=Maousse Chocolat Noir
+descr=Invulnérable hors combat. Se téléporte après chaque combat. Vaincre un joueur lui vole 1 de Gloire, soigne 1 PV (sauf si Éveillée) et confère 1 unité de Croqueuse d'Étoiles.\nDonne la Gloire volée +2 en étant vaincue.
+
+< CARD_UNIT_FAE >
+name=Aurore
+descr=+1 MOV. Ne peut pas défier les autres joueurs. À chaque chapitre pair, si l'invocateur est KO, le relève avec la moitié de ses PV. Sinon, lui soigne 1 PV.
+
+< CARD_UNIT_FAE_CHAOS >
+name=Aurore
+descr=+1 MOV. Se soigne de 1 PV ou se relève avec la moitié de ses PV tous les chapitres pairs.\nSi vous et au moins un autre joueur êtes sur la même case sans être KO, soigne 1 PV à tous les joueurs concernés.\nVous gagnez 5 étoiles par autre joueur soigné.
+
+< CARD_UNIT_MERCENARY >
+name=Mercenaire
+descr=Défie tous les joueurs qu'il croise. Il garde la moitié des étoiles gagnées en combat, l'autre moitié revient au joueur l'ayant invoqué.
+
+< CARD_UNIT_HALENA >
+name=Halena
+descr=Vous gagnez votre Niv. x2 ★ en arrivant sur votre propre maison.
+
+< CARD_UNIT_COOK >
+name=Coco
+descr=+1 unité de "Affamée" en esquivant (max 3).\n-1 EVD à 3 "Affamée".\nArriver sur votre propre Maison fait tomber le compteur à 0.
+
+< CARD_UNIT_LONERIDER >
+name=Cavalier Seul
+descr=Si vous faites plus de 6 à votre jet de déplacement, vous gagnez +1 ATK, +1 DEF et +2 EVD jusqu'à votre prochain tour.
+
+< CARD_UNIT_MERCHANT >
+name=Marchand
+descr=+1 carte en main maximum.\nVous piochez une carte "Cargaison" en vous arrêtant sur la Maison d'un autre joueur.
+
+< CARD_UNIT_HIMEV2 >
+name=Hime (Clair de Lune)
+descr=Lors de la pleine lune (tous les 5 chapitres), vos statistiques deviennent -1 ATK, -1 DEF, +3 EVD.
+
+< CARD_UNIT_FERNETNOBLE >
+name=Fernet (Noble)
+descr=Les joueurs vous défiant en combat doivent d'abord vous payer (Niv. joueur) ★.
+
+< CARD_COOP_UNIT_FERNETNOBLE >
+name=Fernet (Noble)
+descr=Les ennemis vous défiant en combat vous paient (votre Niv.) ★.
+
+< CARD_UNIT_SHIFU >
+name=Shifu
+descr=Vous infligez +2 dégâts en attaquant un Roboulon sauvage.\nGagnez 1 Victoire si un Roboulon met un joueur KO.
+
+< CARD_UNIT_REIKA >
+name=Hoshino Reika
+descr=Ne peut prendre que les Quotas Étoiles.\nVous obtenez +1 ★ pour chaque gain d'étoiles (sauf bonus de Chapitre et Collectionneuse d'Étoiles).
+
+< CARD_UNIT_WATTY >
+name=Watti
+descr=Gagne 1 unité d'Écailles Durcies par dégât soustrait en se défendant (max. 5).\nDurée de l'Effet : 3 chapitres\n+1 ATK par unité d'Écailles Durcies. L'effet disparait en tombant KO.
+
+< CARD_UNIT_POMERANIUS >
+name=Poméranius
+descr=Vous n'activez pas les cartes Piège si vos PV sont au maximum (ou plus).
+
+< CARD_COOP_UNIT_WATTY >
+name=Watti
+descr=Gagne 1 unité d'Écailles Durcies par 2 dégâts soustraits en se défendant (max. 5).\nDurée de l'Effet : 3 chapitres\n+1 ATK par unité d'Écailles Durcies. L'effet disparait en tombant KO.
+
+< CARD_UNIT_LOSTROGUE >
+name=L'Assassin Oublié
+descr=Invulnérable hors combat. 25% de chance de faire un Coup Critique en attaquant (double le score d'attaque).\nTous les 5 tours, cible trois cases au hasard. Les personnages autour prennent 2 points de dégât et un de leurs contrats est maudit.
+
+< CARD_UNIT_SHADYMERCHANT >
+name=Marchand Suspect
+descr=Vend ses marchandises aux joueurs. Immunisé à tous les effets.
+
+< CARD_UNIT_SWEETCREATOR >
+name=Sweet Creator
+descr=Lorsqu'un joueur utilise une carte Sucrerie qui n'est pas un piège, ou active une carte Piège Sucrerie, vous gagnez (Niv. carte) x2 ★.
+
+< CARD_UNIT_SWEETMAKER >
+name=Saki (Sweet Maker)
+descr=Si vous n'êtes pas KO après avoir activé une case Ennemi, vous piochez une carte Sucrerie au niveau égal ou inférieur au vôtre.
+
+< CARD_UNIT_SWEETBLOGGER >
+name=Natsumi (Sweet Blogger)
+descr=Toutes les cartes de type Sucrerie vous sont gratuites.\nCase Malus : Vous piochez une carte de type Sucrerie au niveau égal ou inférieur au vôtre.
+
+< CARD_UNIT_BOSSJONATHAN_CHAOS >
+name=Jonathan le Géant
+descr=
+
+< CARD_UNIT_BOSSHARUO_CHAOS >
+name=Haruo le Géant
+descr=
+
+< CARD_UNIT_AGGRESSIVECHICKEN_CHAOS >
+name=Poulet Bagarreur
+descr=L'invocateur jette un dé de plus en attaquant et perd -2 ATK & DEF tant que Poulet Bagarreur est présent.\nGagne +1 ATK en combat si l'adversaire a plus de 1 ATK de base.
+
+< CARD_UNIT_BOSSM10_CHAOS >
+name=Robot M10
+descr=Vous continuez à avancer après avoir défié un ennemi.
+
+< CARD_UNIT_BOSSSTARDEV_CHAOS >
+name=Dévoreuse d'Étoiles
+descr=Vole 1 étoile par dégât infligé, et donne 1 étoile par dégât subi.\nSi vous avez choisi le Quota Étoiles au Niveau 5 et atteignez les 200 étoiles, vous remportez la partie automatiquement.
+
+< CARD_UNIT_POPPO_CHAOS >
+name=Poppo Chaotique
+descr=Chaque dégât que Poppo Chaotique inflige vole 2 étoiles au lieu de blesser, et donne les étoiles à son invocateur.\nSi elle tombe KO, l'invocateur donne 10 étoiles et 2 Victoires.
+
+< CARD_UNIT_BOSSQP_CHAOS >
+name=Bête de l'Été
+descr=+1 Hype en infligeant et subissant des dégâts en combat.\n+2 Hype lorsqu'un joueur adverse tombe KO.\nÀ 4+ de Hype, lorsque vous êtes KO, vous vous relevez automatiquement avec tous vos PV et perdez votre Hype.
+
+< CARD_UNIT_BOSSROPOCHI_CHAOS >
+name=RoPoChi
+descr=
+
+< CARD_UNIT_BOSSCOACH_CHAOS >
+name=Maître-Nageur
+descr=Si ce familier est présent :\nBalise : Vous gagnez +2 ATK\nBrutemballons : Vous gagnez +2 DEF\nVilaine Bouée : +3 étoiles à chaque tour
+
+< CARD_UNIT_MIOFESTIVE >
+name=Mio (Festive)
+descr=
+
+< CARD_UNIT_KRILAPAJAMAS >
+name=Krilalaris (Pyjama)
+descr=Ne peut pas esquiver. En combat, subir 1 point de dégât en vous défendant annule les dégâts. Vous donnez (votre Niv.) ★ à l'adversaire à la place.
+
+< CARD_UNIT_MIMYUUJAILBIRD >
+name=Mimyuu (Prison)
+descr=Retourne à sa case Maison en tombant KO en combat.
+
+< CARD_UNIT_MOTHERP >
+name=Maman Poppo
+descr=Subit 1 point de dégât en se téléportant.\nSi vous êtes encore debout après, vous piochez une carte et\nobtenez (votre Niv.) ★.
+
+< CARD_UNIT_DARKL >
+name=Lulu Ténébreuse
+descr=Vous perdez (votre Niv.) x2 ★ en refusant de combattre.
+
+< CARD_COOP_UNIT_DARKL >
+name=Lulu Ténébreuse
+descr=Vous perdez (votre Niv.) ★ en refusant de combattre.
+
+< CARD_UNIT_HELLIE >
+name=Hyper Ellie
+descr=En attaquant, obtient +1 ATK et -1 DEF & EVD le temps du combat.
+
+< CARD_UNIT_HKAI >
+name=Papa Kai
+descr=Second Souffle : Hors combat, les dégâts fatals vous laissent à 1 PV à la place.\nSi vous êtes à 1 PV à la fin de votre tour après avoir profité de Second Souffle, vous tombez KO.
+
+< CARD_UNIT_GRAIN >
+name=Jorge
+descr=-1 MOV. Vous gagnez (1) Compteur - Canon en jouant une carte (max. 9).
+
+< CARD_UNIT_BOURBON >
+name=Bourbon
+descr=À chaque dégât subi en combat, vous perdez 1 PV Max (min. 3).\nSe réinitialise en tombant KO.
+
+< CARD_UNIT_POYO >
+name=Poyo
+descr=Vos jets d'Attaque, de Défense, d'Esquive, de Déplacement, de Bonus et de Malus font +1 lorsque la somme du Niveau des quatre joueurs est un multiple de 4.
+
+< CARD_UNIT_CHUU >
+name=Chuu
+descr=
+
+< CARD_COOP_UNIT_POYO >
+name=Poyo
+descr=Vos jets d'Attaque, de Défense, d'Esquive, de Déplacement, de Bonus et de Malus font +1 si la prochaine carte du Boss est un Hyper ou une carte de Niveau 3.
+
+< CARD_UNIT_HARUKA >
+name=Haruka
+descr=Vous perdez -1 ATK en début de combat par personnage actuellement KO.
+
+< CARD_COOP_UNIT_HARUKA >
+name=Haruka
+descr=Vous perdez -1 ATK en début de combat par allié actuellement KO.
+
+< CARD_UNIT_KANATA >
+name=Kanata
+descr=Si vous avez "Bluff d'Intello" en main, vous avez 50% de chance de voir le type de cartes que les joueurs adverses piochent.
+
+< CARD_COOP_UNIT_YUKI_DANGEROUS >
+name=Yuki (Dangerous)
+descr=Chaque Tragédie Nocturne en main devient Pudding pour le restant de la partie.\nVous gagnez 1 Victoire quand un ennemi active un de vos pièges. Gagne 1 Victoire max face aux ennemis sauvages.
+
+[EOF]
+
+

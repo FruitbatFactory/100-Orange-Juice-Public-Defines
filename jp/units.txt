@@ -83,6 +83,22 @@ descr=
 name=スイミングリンガー
 descr=MOV-1。
 
+< CARD_UNIT_BOSS_BEACH_BREAKER >
+name=ビーチブレイカー
+descr=特殊能力：燃焼。☆3チャプター持続。燃焼状態のマスにる他のユニットが自身のターンの開始時か終了時に1ダメージを受ける。味方がダウンしている時、DEF+1。
+
+< CARD_UNIT_BOSS_BEACH_BUILDER >
+name=ビーチビルダー
+descr=味方がダウンしている時、DEF+1。
+
+< CARD_UNIT_BOSS_BEACH_BUSTER >
+name=ビーチバスター
+descr=味方がダウンしている時、DEF+1。
+
+< CARD_UNIT_BOSS_TROUBLEMAKERS >
+name=トラブルメーカーズ
+descr=
+
 < CARD_UNIT_CHICKEN >
 name=ニワトリ
 descr=
@@ -617,7 +633,7 @@ descr=現在ダウンしている味方1人につき、バトル開始時にATK-
 
 < CARD_UNIT_KANATA >
 name=カナタ
-descr=「賢そうなハッタリ」が手札にある時、敵が引いたカードの基本カードタイプを50%の確率で確率でことができる。
+descr=「賢そうなハッタリ」が手札にある時、敵が引いたカードの基本カードタイプを50%の確率で見ることができる。
 
 < CARD_COOP_UNIT_YUKI_DANGEROUS >
 name=ユキ（DANGEROUS）

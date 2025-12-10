@@ -1,0 +1,344 @@
+< PIN_FBAT >
+name=Fruitbat
+desc=
+artist=
+
+< PIN_FLYING_SUGURI >
+name=Suguri Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Suguri.\nRegardez-la traverser les cieux en un clin d'œil !
+artist=Azurée
+
+< PIN_FLYING_KAI >
+name=Kai Volant
+desc=Attribué à celles et ceux qui jouent beaucoup Kai.\nSon portefeuille manque encore à l'appel.
+artist=Azurée
+
+< PIN_FLYING_QP >
+name=QP Volante
+desc=Attribué à celles et ceux qui jouent beaucoup QP.\nElle a toujours un pudding à portée de main.
+artist=Azurée
+
+< PIN_FLYING_MARC >
+name=Marc Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Marc.\nElle garde toujours son missile sous surveillance.
+artist=Azurée
+
+< PIN_FACTORY >
+name=Orange Factory
+desc=Attribué aux joueurs faisant partie de Fruitbat Factory.
+artist=
+
+< PIN_CONTEST_WINNER >
+name=Gagnant du Concours
+desc=Attribué aux joueurs ayant remporté un concours officiel.
+artist=Yulay Devlet
+
+< PIN_CONTRIBUTOR >
+name=Contributeur
+desc=Attribué aux joueurs ayant contribué à 100% Orange Juice! d'une façon ou d'une autre.
+artist=Yulay Devlet
+
+< PIN_FLYING_HIME >
+name=Hime Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Hime.\nNe sous-estimez pas les chaînes d'une gardienne.
+artist=Azurée
+
+< PIN_FLYING_FERNET >
+name=Fernet Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Fernet.\nUne tasse de thé ?
+artist=Azurée
+
+< PIN_FLYING_YUKI >
+name=Yuki Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Yuki.\nUne roulette russe, ça te tente ?
+artist=Azurée
+
+< PIN_FLYING_POPPO >
+name=Poppo Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Marie Poppo.\nPreuve d'une compréhension du jeu avancée.
+artist=Azurée
+
+< PIN_FLYING_ARU >
+name=Aru Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Aru.\nElle arrive vous donner vos cadeaux !
+artist=Azurée
+
+< PIN_FLYING_SORA >
+name=Sora Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Sora.\nElle s'est donnée corps et âme pour revoir le ciel bleu...
+artist=Azurée
+
+< PIN_FLYING_PEAT >
+name=Picon Volant
+desc=Attribué à celles et ceux qui jouent beaucoup Picon.\nÀ l'heure qu'il est, il essaie encore de vaincre Red Barrel.
+artist=Azurée
+
+< PIN_FLYING_TOMOMO >
+name=Tomomo Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Tomomo.\nBadge magique !
+artist=Azurée
+
+< PIN_FLYING_SYURA >
+name=Syura Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Syura.\nParfois aussi au-delà de la beauté.
+artist=Azurée
+
+< PIN_FLYING_NANAKO >
+name=Nanako Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Nanako.\nNe lui dites pas qu'elle est petite !
+artist=Azurée
+
+< PIN_FLYING_SAKI >
+name=Saki Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Saki.\nCookie ?
+artist=Azurée
+
+< PIN_FLYING_KYOUSUKE >
+name=Kyousuke Volant
+desc=Attribué à celles et ceux qui jouent beaucoup Kyousuke.\nÀ la recherche de l'être aimé.
+artist=Azurée
+
+< PIN_FLYING_KRILA >
+name=Krilalaris Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Krilalaris.\nEn vol vers les ténèbres.
+artist=Azurée
+
+< PIN_FLYING_KAE >
+name=Kae Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Kae.\nSi elle pose un piège, c'est sûrement Surchauffe à 300%.
+artist=Azurée
+
+< PIN_FLYING_ALTE >
+name=Alte Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Alte.\nCe badge ne peut pas s'autodétruire.
+artist=Azurée
+
+< PIN_FLYING_KYOKO >
+name=Kyoko Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Kyoko.\nGardez votre sang-froid.
+artist=Azurée
+
+< PIN_FLYING_SHAM >
+name=Sham Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Sham.\nLa plus mignonne des opératrices !
+artist=Azurée
+
+< PIN_FLYING_SHERRY >
+name=Cherry Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Cherry.\nElle vole librement.
+artist=Azurée
+
+< PIN_FLYING_SWEETBREAKER >
+name=Sweet Breaker Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Sweet Breaker.\nFonte des souvenirs en cours...
+artist=Azurée
+
+< PIN_FLYING_STARBREAKER >
+name=Star Breaker Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Star Breaker.\nÇa fait bim, bam, boum.
+artist=Azurée
+
+< PIN_FLYING_NATH >
+name=Nath Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Nath.\nLa vie est meilleure quand on est peinard.
+artist=Azurée
+
+< PIN_FLYING_TOMATOMIMYUU >
+name=Tomato & Mimyuu Volantes
+desc=Attribué à celles et ceux qui jouent beaucoup Tomato & Mimyuu.\nToujours là pour faire des bêtises !
+artist=Azurée
+
+< PIN_FLYING_KIRIKO >
+name=Kiriko Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Kiriko.\nSérieusement, ne la laissez pas vous opérer.
+artist=Azurée
+
+< PIN_FLYING_NONAME >
+name=NoName Volant
+desc=Attribué à celles et ceux qui jouent beaucoup NoName.\nLes gens lui prennent la tête.
+artist=Azurée
+
+< PIN_FLYING_TEQUILA >
+name=Tequila Volant
+desc=Attribué à celles et ceux qui jouent beaucoup Tequila.\nTu es un pirate !
+artist=Azurée
+
+< PIN_FLYING_TSIH >
+name=Tsih Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Tsih.\nNe la quittez pas du regard !
+artist=Azurée
+
+< PIN_FLYING_MIUSAKI >
+name=Miusaki Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Miusaki.\nBadge garanti indestructible.
+artist=Azurée
+
+< PIN_FLYING_REPA >
+name=Cléoréparque Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Cléoréparque.\nGare à ses cheveux !
+artist=Azurée
+
+< PIN_IDLE_MEI >
+name=Mei Immobile
+desc=Attribué à celles et ceux qui jouent beaucoup Mei.\nOn va entendre parler de nous !
+artist=Azurée
+
+< PIN_IDLE_NATSUMI >
+name=Natsumi Immobile
+desc=Attribué à celles et ceux qui jouent beaucoup Natsumi.\nTu resteras bien pour le dîner ?
+artist=Azurée
+
+< PIN_IDLE_ARTHUR >
+name=Arthur Immobile
+desc=Attribué à celles et ceux qui jouent beaucoup Arthur.\nIci, vous trouverez les plus beaux jouets !
+artist=Azurée
+
+< PIN_IDLE_NICO >
+name=Nico Immobile
+desc=Attribué à celles et ceux qui jouent beaucoup Nico.\nElle fait toujours de son mieux !
+artist=Azurée
+
+< PIN_FLYING_CUTIES >
+name=Sora & Sham Volantes
+desc=Attribué à celles et ceux qui jouent beaucoup les Idols.\nVous vivez sous les projecteurs !
+artist=Azurée
+
+< PIN_FLYING_IRU >
+name=Iru Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Iru.\nC'est l'heure de l'entraînement !
+artist=Azurée
+
+< PIN_FLYING_MIRA >
+name=Mira Volant
+desc=Attribué à celles et ceux qui jouent beaucoup Mira.\nCe badge est une marque héroïque.
+artist=Azurée
+
+< PIN_FLYING_YUUKI >
+name=Yuuki Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Yuuki. Ora ora ora ora !
+artist=Azurée
+
+< PIN_FLYING_ISLAY >
+name=Scotch Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Scotch. Un vol gracieux.
+artist=Azurée
+
+< PIN_FLYING_SUGURI46 >
+name=Suguri (46 Milliards) Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Suguri (46 Milliards). Ce badge est deux fois plus mignon.
+artist=Azurée
+
+< PIN_FLYING_SUMIKA >
+name=Sumika Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Sumika. Ce badge Sumika est Sumika.
+artist=Azurée
+
+< PIN_FLYING_MIO >
+name=Mio Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Mio. Elle apporte la vie (et la mort) aux grandes fêtes.
+artist=Azurée
+
+< PIN_FLYING_LULU >
+name=Lulu Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Lulu. On joue ensemble ?
+artist=Azurée
+
+< PIN_FLYING_ELLIE >
+name=Ellie Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Ellie. On part à l'aventure !
+artist=Azurée
+
+< PIN_FLYING_ALICIANRONE >
+name=Alicianrone Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Alcianrone. La sorcière la plus rapide de cette partie de la forêt !
+artist=Azurée
+
+< PIN_FLYING_TEOTORATTA >
+name=Teotoratta Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Teotoratta. Les bêtes sont nos amies.
+artist=Azurée
+
+< PIN_FLYING_ARNELLE >
+name=Arnelle Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Arnelle. Le vrai trésor ne serait-il pas les amis qu'on s'est fait en chemin ?
+artist=Azurée
+
+< PIN_FLYING_MAYNIE >
+name=Maynie Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Maynie. Plongez votre regard dans ses yeux de couleur insolite, sans prêter d'importance au coup de poing que vous allez vous prendre...
+artist=Azurée
+
+< PIN_FLYING_HALENA >
+name=Haléna Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Haléna. Ce badge vous guidera jusqu'au bon salon
+artist=Azurée
+
+< PIN_FLYING_COOK >
+name=Coco Volante
+<desc=Attribué à celles et ceux qui jouent beaucoup Coco. Même ce badge ne doit pas être comparé à un poulet.
+artist=Azurée
+
+< PIN_FLYING_LONERIDER >
+name=Cavalier Volant
+desc=Attribué à celles et ceux qui jouent beaucoup Cavalier Seul. Est-ce qu'on peut encore vraiment dire qu'il est solitaire ?
+artist=Azurée
+
+< PIN_FLYING_MERCHANT >
+name=Marchand Volant
+desc=Attribué à celles et ceux qui jouent beaucoup Marchand. Tu vas acheter ce badge, oui, tu vas l'acheter !
+artist=Azurée
+
+< PIN_FLYING_CHRIS >
+name=Chris Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Chris. Élue meilleure serveuse de l'année, tous les ans !
+artist=Azurée
+
+< PIN_FLYING_KYUPITA >
+name=Kyupita Volant
+desc=Attribué à celles et ceux qui jouent beaucoup Kyupita. Ce badge rayonne de jeunesse et de fougue.
+artist=Azurée
+
+< PIN_FLYING_SWEETCREATOR >
+name=Sweet Creator Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Sweet Creator. Gare à l'effet papillon !
+artist=Azurée
+
+< PIN_FLYING_SWEETMAKER >
+name=Sweet Maker Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Sweet Maker. Les bonbons font tourner le monde !
+artist=Azurée
+
+< PIN_FLYING_SWEETBLOGGER >
+name=Sweet Blogger Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Sweet Blogger. Aujourd'hui, on part à la recherche de bonbons !
+artist=Azurée
+
+< PIN_FLYING_REIKA >
+name=Reika Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Reika. Encore une belle journée paisible.
+artist=Azurée
+
+< PIN_FLYING_MALT >
+name=Malt Volant
+desc=Attribué à celles et ceux qui jouent beaucoup Malt. Portons un toast à notre nouveau monde !
+artist=Azurée
+
+< PIN_FLYING_SHIFU >
+name=Shifu Volant
+desc=Attribué à celles et ceux qui jouent beaucoup Shifu. Encore à la recherche d'un monde parfait.
+artist=Azurée
+
+< PIN_FLYING_MESCAL >
+name=Mescal Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Mescal. À quoi on joue, aujourd'hui ?
+artist=Azurée
+
+< PIN_FLYING_WATTY >
+name=Watti Volante
+desc=Attribué à celles et ceux qui jouent beaucoup Watti. D-désolée si je te fais tomber KO...
+artist=Azurée
+
+< PIN_FLYING_POM >
+name=Poméranius Volant
+desc=Attribué à celles et ceux qui jouent beaucoup Poméranius. Ça c'est un bon chien.
+artist=Coffgirl

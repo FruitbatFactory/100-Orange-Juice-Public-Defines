@@ -1,0 +1,105 @@
+<0000> Repas~ Repas~ Aujourd'hui, ce sera quoi le repas~
+<0001> Ooh, une saucisse au poisson ! C'est une des préférées de Mimyuu !
+<0002> Elle est énorme ! Elle doit être trop bonne ! Mimyuu va la savou-...
+<0003> Couaaac ! *croque*
+<0004> Nooon ! C'est la saucisse au poisson de Mimyuuuuu !!
+<0005> Ouuuiiiin !
+<0006> Couaac ! Couaac !
+<0007> *snif* ...Saleté de piaf... Tu vas pas t'en tirer comme ça !
+<0008> Bouffe ça !
+<0009> Missile Mimyuu !
+<0010> Couac ?
+<0011> *Boum* !!
+<0012> Couac...
+<0013> Hmph... comme dirait l'autre, là : Je suis désolée, Monsieur la Mouette !
+<0014> (C'est comme ça que ma vie se termine ?)
+<0015> (Si j'avais su, j'aurais chassé du vrai poisson, pas cette vulgaire saucisse... J'aurais eu mon compte...)
+<0016> Souhaites-tu... devenir puissant ?
+<0017> Hein ?
+<0018> Souhaites-tu devenir puissant, si puissant que tous les poissons de l'océan seront à ta merci ?
+<0019> Vous... vous seriez capable de m'offrir un tel pouvoir ?
+<0020> Si tu le souhaites, oui.
+<0021> Oui, je le souhaite. Donnez-moi ce pouvoir ! Je voudrais pouvoir dominer toute la mer !
+<0022> Ton vœu est exaucé.
+<0023> Q-qu'est-ce que...
+<0024> (Le pouvoir coule à flot en moi...!)
+<0025> *tremblement*
+<0026> Hein ? Un séisme ?! C'est pas possible !
+<0027> Scouaaaack !
+<0028> *plif* *plof*
+<0029> C'est donc ça, la mer...
+<0030> Eh oui, ma chérie. Voici la mer.
+<0031> C'est bleu et scintillant.
+<0032> Fufu, n'est-ce pas magnifique ?
+<0033> Oui. C'est amusant.
+<0034> Tu m'en vois ravie. Je ne regrette pas de t'avoir emmenée jusqu'ici.
+<0035> Allons-y. Je voudrais plonger dans l'eau.
+<0036> Ça marche. J'ai bien envie de nager, moi aussi, et...
+<0037> Suguri, chérie, vous ne comptez tout de même pas vous baigner avec un tel accoutrement ?
+<0038> Hein ?
+<0039> Oui, sans problème. Ma tenue résiste à l'eau.
+<0040> Quitte à aller se baigner, pourquoi ne pas en profiter pleinement ?
+<0041> Hmm ?
+<0042> Nous sommes à la plage, et en plein été, en plus de ça.
+<0043> Oui, et ?
+<0044> Que diriez-vous de vous mettre en maillots ?
+<0045> En maillots ?
+<0046> Je n'ai pas de maillot.
+<0047> Ne t'en fais pas, j'en ai pris pour tout le monde.
+<0048> Oh.
+<0049> Pourquoi !?
+<0050> Parce que j'aimerais vous voir toutes les deux en maillot, c'est tout.
+<0051> Tu sais pourtant bien que je n'ai pas besoin de-...
+<0052> Même après tout ce mal que je me suis donnée à en trouver ?
+<0053> Argh.
+<0054> Si tu savais tout le temps que j'ai passé à chercher des maillots qui vous aillent à toutes les deux...
+<0055> Eh bien, je...
+<0056> Suguri, est-ce que tu as honte d'être en maillot ?
+<0057> Quoi ?
+<0058> Ohh, Suguri, vraiment ? Même après plus de 10 millénaires, tu es encore trop timide pour porter un maillot ?
+<0059> Peu importe depuis combien de temps j'existe ! Tu devrais plutôt me complimenter pour être aussi intègre à moi-même.
+<0060> Tu es vraiment gênée, alors.
+<0061> Argh... Pourquoi tu me prends ce qu'il y a de plus mignon à chaque fois ?
+<0062> Parce que tu es mignonne, Suguri.
+<0063> On est d'accord.
+<0064> Aaarrh.
+<0065> Je te prie d'arrêter de faire ta difficile et de mettre ce que je t'ai acheté.
+<0066> Suguri, je voudrais te voir en maillot, moi aussi.
+<0067> Personne n'est de mon côté...
+<0068> Mets le maillot.
+<0069> Mets le maillot.
+<0070> Je... Attendez. Regardez, là-bas, quelque chose approche.
+<0071> *tremblement*
+<0072> Un séisme.
+<0073> Scouuaaaac !
+<0074> Serait-ce...
+<0075> Un énorme Donald Du-...
+<0076> NON.
+<0077> Une mouette monstreuse !
+<0078> (Je vais manger tous les poissons ! Tous !!)
+<0079> Scouaaac !
+<0080> Cet oiseau va ruiner l'océan si ça continue.
+<0081> Et dans ce cas-là...
+<0082> Cette plage magnifique serait dévastée.
+<0083> On ne peut pas la laisser faire.
+<0084> Protégeons la mer.
+<0085> Bien sûr, ma chérie. On va arrêter cette mouette
+<0086> Et après... Suguri se mettra en maillot.
+<0087> Oui !
+<0088> Hein ?
+<0089> On a réussi.
+<0090> Je me demande ce qui a bien pu engendrer cette mouette.
+<0091> Elle est devenue minuscule et elle s'est envolée.\nDonald Du-...
+<0092> Plus un mot, s'il te plaît.
+<0093> Au fait, pourquoi Suguri se cache derrière ce palmier ?
+<0094> Suguri, voyons. Sors de là,\nveux-tu ?
+<0095> Rien à y faire, c'est extrêmement gênant.
+<0096> Il n'y a pas de quoi être gênée. Je maintiens que tu es très belle.
+<0097> Hime a raison.
+<0098> Vous rendez ça encore plus gênant...
+<0099> Même du haut de tes 10 000 ans, tu te comportes comme une enfant.
+<0100> Et alors ?
+<0101> Fufufu. Cette mouette nous a volé notre journée, le soleil est déjà en train de se coucher. La mer nous attend, mes chéries !
+<0102> Allons nous baigner, Suguri.
+<0103> Bon, j'abandonne. J'ai plus qu'à aller nager avec vous deux.
+<0104> Oui !

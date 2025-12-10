@@ -1,0 +1,31 @@
+
+// ========= Scene: 10 Years Anniversary Start =========
+
+<0000> Des développeurs travaillent dur pour digitaliser un monde dont l'existence est encore incertaine. Ils ont un message à transmettre.
+
+// phlebuster as poppo
+<0001> Ce petit miracle est entièrement dû à tout votre soutien. Espérons qu'on tienne 10 ans de plus !\n-PhleBuster
+
+// rive as seagull
+<0002> 10 ans ! Quand on a commencé à travailler sur 100% OJ, jamais je n'aurais cru que ce jeu prendrait une telle ampleur ! Merci à tous d'avoir été les meilleurs fans au monde !\n-Rive
+
+// track as suguri
+<0003> Merci d'avoir joué à nos popporanges pendant une décennie ! ♥\n-trackftv
+
+// azuree as sora (obviously.)
+<0004> Le combat n'est pas encore terminé, il nous reste encore tellement de choses à offrir ! En route vers la prochaine destination !\n-Azuree
+
+// rapha as sweetmaker
+<0005> Pour les 20 ans, on pourra jouer à OJ sur nos frigos, près des oranges ! (entre temps, on s'occupera de le porter partout ailleurs) Encore des efforts et on y arrivera !\n-Rapha
+
+// ryuzaki as yuki
+<0006> Merci pour tout votre soutien pendant ces 10 ans ! Nous transmettrons la tradition du dé aux générations futures.\n-Ryuzaki
+
+// bluelink as syura
+<0007> Merci à tous d'avoir joué et apprécié 100% Orange Juice !\n-Blue Link
+
+// penunoli as repa
+<0008> Bon anniversaire !! Plus que 90% !\n-penunoli
+
+// press as kyoko
+<0009> Merci d'avoir joué à notre jus d'orange. Ses nutriments et Vitamines C sont garantis, mais s'il vous plaît, n'en abusez pas trop, c'est mauvais pour la santé. Contentez-vous d'en prendre suffisamment pour passer régulièrement un moment agréable avec vos amis !\n-ItzPress

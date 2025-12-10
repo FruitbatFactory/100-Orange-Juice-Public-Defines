@@ -1,0 +1,165 @@
+<0000> Hop.
+<0001> Voilà.
+<0002> Hihihi.
+<0003> Allez.
+<0004> Je vais jouer celle-là.
+<0005> Voyons donc.
+<0006> Je joue ça.
+<0007> Faisons donc ça.
+<0008> C'est rien qu'une petite blague.
+<0009> Mh...
+<0010> Hihi, c'est très vilain.
+<0011> C'est plutôt rigolo, non ?
+<0012> Je vais augmenter mes pouvoirs.
+<0013> Quel pouvoir mystérieux.
+<0014> Hmm. C'est donc ça que ça fait ?
+<0015> Je crois que ça me rendra plus forte.
+<0016> Une montagne de bonbons !
+<0017> Qu'est-ce que j'ai raté ?
+<0018> Ahh, j'ai bien dormi.
+<0019> Hmm...?
+<0020> Je me sens mieux !
+<0021> Je vais me reposer encore un peu.
+<0022> Hmm, ça n'a pas marché ?
+<0023> Bon, inutile de se presser.
+<0024> Je dois attendre encore un peu...
+<0025> Boum.
+<0026> Désolée, ça peut faire mal.
+<0027> Toryah !
+<0028> Ey !
+<0029> Ouah !
+<0030> Ça fait mal...
+<0031> Hmuu...
+<0032> Pourquoi tant de violence...
+<0033> Je me sens beaucoup mieux.
+<0034> Je me sens retrouver ma force.
+<0035> Génial.
+<0036> Ouah... Tout de suite, je ne suis plus fatiguée.
+<0037> Oh ?
+<0038> Que se passe-t-il ?
+<0039> Ouaaah.
+<0040> Ça fait tout drôle.
+<0041> Je commence à fatiguer un peu.
+<0042> Je vais faire une sieste.
+<0043> J'ai vraiment sommeil.
+<0044> *baîlle*...
+<0045> Battons-nous avec le sourire.
+<0046> J'ai fait plein de biscuits... Tu en veux ?
+<0047> Je vais me donner à fond.
+<0048> Allez !
+<0049> Toi aussi, tu veux des biscuits ?
+<0050> Hihi, bien sûr qu'on peut jouer ensemble.
+<0051> Je ne sais pas bien me battre.
+<0052> Hm ? Tu veux te battre...?
+<0053> Le, euh, pouvoir... de Sweet Blogger ?
+<0054> Cette version de moi peut faire de la magie ?
+<0055> Je ne sais pas trop quoi faire...
+<0056> De la magie... comme ça ?
+<0057> Ouah...!
+<0058> Tu m'as fait mal.
+<0059> Bouah...
+<0060> Aïe !
+<0061> Ouaah !
+<0062> Je ne peux pas encaisser tout ça.
+<0063> Non, je... je suis pas d'accord.
+<0064> Je risque de m'énerver.
+<0065> Je me sens légère comme une plume.
+<0066> Tu m'as attaquée ?
+<0067> Oh ?
+<0068> Hihihi.
+<0069> Ahh, c'était rigolo.
+<0070> On devrait rejouer.
+<0071> Invite-moi à jouer quand tu veux.
+<0072> Ça m'aura fait faire de l'exercice.
+<0073> J'ai bien dû brûler des calories.
+<0074> J'ai tellement faim, j'ai du mal à bouger...
+<0075> Peut-être que ce combat est allé trop loin.
+<0076> Hahaha, quelle force.
+<0077> Oh ? On m'a payée ?
+<0078> Hihihi, je suis ravie.
+<0079> Je vais acheter quelques bonbons avec.
+<0080> Youpi !
+<0081> Ohh... c'est dommage...
+<0082> Je me sens triste.
+<0083> Mon argent de poche...
+<0084> Hein ? Mon portefeuille est troué...?
+<0085> Je ne m'y attendais pas.
+<0086> Quelqu'un me joue un tour ?
+<0087> Oh ! Oh !
+<0088> Hmm ?
+<0089> Ouah ! J'ai froid dans le dos...
+<0090> C'est dangereux, là, non ?
+<0091> J'ai un mauvais pressentiment...
+<0092> Oh, c'est... une mauvaise nouvelle...
+<0093> J'aimerais faire des biscuits... c'est des étoiles qu'il me faut.
+<0094> Je vais faire un bon dessert avec ces étoiles.
+<0095> Les étoiles sont vraiment magnifiques.
+<0096> Allez. Je vais trouver beaucoup d'étoiles.
+<0097> Venez, on va tous jouer ensemble.
+<0098> Avec qui je devrais jouer, moi ?
+<0099> Peut-être que je devrais utiliser\nmes pouvoirs de Déesse du Sucre.
+<0100> Hihihi, c'est rigolo, le sport, non ?
+<0101> Les Déesses du Sucre... je suis des leurs, maintenant ?
+<0102> Je peux faire de la magie, maintenant ? Ça m'intrigue.
+<0103> Les Déesses du Sucre...\nElles font des bonbons ou des gâteaux ?
+<0104> Regarde... Depuis quand suis-je comme ça ?
+<0105> Amusons-nous bien... et mangeons plein de sucreries.
+<0106> La partie commence ! Bonne chance !
+<0107> En tant que Déesse du Sucre,\nje dois pouvoir repousser mes limites.
+<0108> Que va devenir cette partie ?
+<0109> J'ai gagné. Venez, faisons la fête ensemble !
+<0110> Je me suis bien amusée. Hihihi.
+<0111> J'ai vraiment gagné ? On devrait fêter ça.
+<0112> Vivement qu'on joue ensemble à nouveau.
+<0113> Tu t'es trouvé un bon objet ?
+<0114> Si c'est une sucrerie... tu me laisserais y goûter ?
+<0115> Hihi, quel joli cadeau.
+<0116> Qu'est-ce que c'est ? Tu le voulais ?
+<0117> Je te laisse ma place.
+<0118> Peux-tu prendre le relai ? Merci.
+<0119> Je crois qu'on ferait mieux d'échanger.
+<0120> Courage, je crois en toi.
+<0121> Ok.
+<0122> Ouah.
+<0123> Bien sûr. Je m'en occupe.
+<0124> Non merci...
+<0125> D'accord...
+<0126> Bravo !
+<0127> Hmm ?
+<0128> Allons-y !
+<0129> Roule bien !
+<0130> Je crois en toi !
+<0131> Bonjour !
+<0132> Oh, hmm ?
+<0133> Bien.
+<0134> C'est incroyable.
+<0135> Ohh...
+<0136> Depuis quand j'ai ça, moi ?
+<0137> C'est un autre pouvoir des Déesses du Sucre ?
+<0138> Allez, c'est parti !
+<0139> À quoi ça peut servir ? On va bien voir.
+<0140> Merci.
+<0141> Ouah, vos ailes sont si jolies.
+<0142> Sweet Creator...?
+<0143> Votre prochaine création...\nJe pourrais la goûter, s'il vous plaît ?
+<0144> Vous sentez tellement bon le bonbon,\nje ne pouvais pas me concentrer...
+<0145> Tu es une Déesse du Sucre, toi aussi, QP ?
+<0146> Oh ? Tu veux vraiment jouer avec moi ?
+<0147> Ahh, toi aussi, tu sens drôlement bon, QP...
+<0148> C'était vraiment intense~
+<0149> Une autre déesse ?
+<0150> H-hé, tu sais que je suis Déesse du Sucre aussi, hein ?
+<0151> Nous devrions faire la fête. Avec beaucoup de bonbons.
+<0152> C'est drôlement fort, une Déesse du Sucre.
+<0153> Oh, c'est vraiment délicieux.
+<0154> Alors ? Ça a l'air bon, non ?
+<0155> C'est tout moelleux et fondant.
+<0156> J'ai vraiment faim, d'un coup.
+<0157> Il faut que je le prenne en photo...
+<0158> Oh, comme c'est mignon. Ça a l'air bon.
+<0159> Hihi, rien qu'à les voir, je me sens heureuse.
+<0160> Ça a l'air tellement bon, ça aussi~
+<0161> Qu'est-ce que tu veux pour ton goûter ?
+<0162> Tout va bien ? Tu as faim ?
+<0163> On ira acheter des biscuits, tout à l'heure.
+<0164> Aujourd'hui, je te cuisine tout ce que tu veux.

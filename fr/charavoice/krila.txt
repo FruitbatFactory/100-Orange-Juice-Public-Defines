@@ -1,0 +1,161 @@
+<0000> Trace mon destin.
+<0001> Exprime ta volonté, noble dé.
+<0002> Mène-moi jusque dans les abysses.
+<0003> Puisse cela me faire avancer.
+<0004> Une carte pour déchaîner la pénombre.
+<0005> La clé d'un pouvoir scellé.
+<0006> Un pouvoir déformant le voile de la réalité.
+<0007> Une invitation à la défaite.
+<0008> Un piège pour les pêcheurs.
+<0009> Danse dans le creux de ma main.
+<0010> Carte Piège... héhéhé.
+<0011> Craignez le diable en boîte.
+<0012> La carte du destin funeste... Là !
+<0013> J'invoque le pouvoir logeant dans mon iris.
+<0014> L'émoi te submerge. Crie, et râle, et pleure.
+<0015> (Souhaites-tu devenir puissante ?) Oui, je le souhaite.
+<0016> Serviteurs... Attrapez-les.
+<0017> La princesse des ténèbres se lève enfin.
+<0018> Ma malédiction est brisée.
+<0019> Mon pouvoir rampant dans la pénombre...
+<0020> Krilalaris revient d'entre les morts...
+<0021> Inutile de s'agiter... je crois.
+<0022> J'ai une faim monstrueuse.
+<0023> Je me sens si faible... Je dois me nourrir.
+<0024> Je ne peux rompre ma malédiction de mes mains propres.
+<0025> Un baptême de douleur.
+<0026> Coule au plus profond de l'abysse.
+<0027> Violence déchaînée.
+<0028> Hahahahaha !
+<0029> Aïe.
+<0030> Beuh...
+<0031> Gyaa !
+<0032> Aïe !
+<0033> Les ténèbres recouvrent mes plaies.
+<0034> Cette victuaille comble le creux de mon estomac.
+<0035> Une puissante régénération.
+<0036> Ah, la douleur s'estompe.
+<0037> Les ombres me portent.
+<0038> Un chemin chaotique.
+<0039> À travers l'espace sans dimensions.
+<0040> Quel est ma destination...
+<0041> Je plonge dans les ténèbres...
+<0042> Aaaahh, je meurs de faim...!
+<0043> Je dois me sceller...
+<0044> Uaaaahhh, c'est horrible...
+<0045> Ce combat est notre destin.
+<0046> Que le combat commence...
+<0047> Le sang va couler à flot...
+<0048> L'heure du duel est venue.
+<0049> Tu oses me provoquer en duel ?
+<0050> Cet affrontement sera sanguinaire...
+<0051> Je souffre déjà assez ainsi...
+<0052> Hmpf... Une telle sottise...
+<0053> Crains les griffes des bêtes exsangues...
+<0054> Les griffes de mes serviteurs...
+<0055> Ça peut faire mal.
+<0056> Allez, attaque !
+<0057> C'est douloureux...
+<0058> Les ténèbres... Argh...
+<0059> Hego !
+<0060> Aïe !
+<0061> Arrête, ça fait mal !
+<0062> Que- fueeee !!
+<0063> Tu t'en prends aux ténèbres...! Arrête, pauvre fou !
+<0064> Hmbuhah !
+<0065> Les ténèbres te couvrent la vue.
+<0066> Une esquive merveilleuse.
+<0067> Le destin veut que j'esquive cette attaque.
+<0068> J'ai failli y pass- ...euh, rien de plus facile.
+<0069> La victoire est un plat qui se mange aussitôt...
+<0070> Le pouvoir de mon destin...
+<0071> À plate couture. (C'est pas passé loin...)
+<0072> Tu souffres ? J'en suis navrée.
+<0073> Ma douleur est incommensurable...
+<0074> Les ténèbres... *tousse*.
+<0075> C'est très vilain...
+<0076> Je... je suis à bout de souffle...
+<0077> De l'argent ! Tout l'argent du monde !
+<0078> Peut-on les échanger contre de la nourriture ?
+<0079> Le destin veut que je m'en serve pour me nourrir.
+<0080> Aujourd'hui, je me sustenterai\nd'une délicieuse pièce de viande.
+<0081> M-m-mon argeeeeent !
+<0082> Non, ne partez pas...! Non...
+<0083> Agagagagah...
+<0084> S'il en est ainsi...
+<0085> Les maléfices sont souvent sous terre...
+<0086> Non... comment ai-je pu me faire prendre...!?
+<0087> Les pièges, c'est de la triche...
+<0088> Oh non...
+<0089> Roi des ténèbres...!
+<0090> Qui a libéré cette chose de sa cage ?
+<0091> Cette odeur m'évoque des souvenirs...
+<0092> J-j'ai peur...
+<0093> De l'argent. Je trouverai beaucoup d'argent !
+<0094> Les étoiles brilleront entre mes mains.
+<0095> Les étoiles sont de l'or.\nAvec elles, je m'achèterai du bon pain.
+<0096> Pour l'avenir de mon repas de demain...
+<0097> Le roi des bêtes a besoin de sacrifices.
+<0098> Les hostilités commencent enfin.
+<0099> Je vais combattre, au nom de mon roi...
+<0100> Mon pouvoir... je ne le contrôle plus... hnnn !
+<0101> Ainsi, tu souhaites prêter serment\naux dieux des ténèbres ?
+<0102> Je suis Krilalaris... Enchantée.
+<0103> Je suis prisonnière des ténèbres et de la famine.\nT'aurais pas un goûter ?
+<0104> Je ferai de mon mieux si tu me donnes de quoi manger.
+<0105> Que les hostilités commencent.
+<0106> Les ténèbres m'ont révélé comment triompher.
+<0107> Si je gagne, on m'offrira de quoi manger...
+<0108> Un jeu des ténèbres...
+<0109> Ma victoire était inscrite dans le marbre.
+<0110> Voilà l'étendue de mes pouvoirs cachés.
+<0111> Que quelqu'un m'apporte à manger...
+<0112> J'aimerais un carré d'agneau...
+<0113> Un nouveau cercle de l'enfer.
+<0114> Une magie encore jamais observée.
+<0115> Un autre sceau s'est brisé.
+<0116> Tu le désirais ? Eh bien, tu m'en vois ravie.
+<0117> Échange maléfique.
+<0118> Je demande à être remplacée.
+<0119> Remplace-moi, histoire que je mange un morceau.
+<0120> Je t'invoque, mon alter ego.
+<0121> Bien.
+<0122> Démons de miséricorde...
+<0123> Bien entendu.
+<0124> Non.
+<0125> Oh, miséricorde...
+<0126> Une chance remarquable.
+<0127> Oh...?
+<0128> Suivons les démons.
+<0129> Le sort en est jeté...
+<0130> Maintenant.
+<0131> Salutations.
+<0132> Ohh.
+<0133> Splendide...
+<0134> Tant... tant de... ténèbres ?
+<0135> Bon sang...
+<0136> Ce pouvoir est maintenant mien.
+<0137> Les ténèbres d'un autre...
+<0138> Cette carte occulte se nomme... euh, aucune idée.
+<0139> J'ai vraiment le droit de l'utiliser ?
+<0140> Merci beaucoup...
+<0141> Dansez, bêtes à longues oreilles...
+<0142> Admirez la danse de mes serviteurs !
+<0143> Hm... Mon sang exige ton sacrifice.
+<0144> Le destin veut que nous nous affrontions, c'est certain.
+<0145> Je crois que nous sommes connectées.\nCela doit dater de nos vies antérieures.
+<0146> D'autres moi triompheront là où j'ai échoué, et... *marmonne*...
+<0147> C-c'est une bénédiction !! *snif*
+<0148> Les ténèbres m'ont invoquée ici.
+<0149> Cet endroit me plaît... et m'effraie aussi.
+<0150> Hmm, un sanctuaire des ténèbres.
+<0151> Ce lieu est idéal pour un affrontement ultime.
+<0152> La Mère Noël... elle existe vraiment.
+<0153> L'esprit à la toge sanglante... Mère Noël.
+<0154> Remets-moi tous tes cadeaux, car j'ai triomphé de ce duel.
+<0155> La Mère Noël m'a tabassée...
+<0156> Je ne pensais pas vous affronter un jour.
+<0157> Hein ? Pourquoi doit-on se battre ?
+<0158> C'est moi, la reine, à présent.
+<0159> C'est horrible...
+<0160> L-le Patron du Magasin ? Qu'est-ce qu'il fait là ?

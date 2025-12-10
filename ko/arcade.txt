@@ -87,6 +87,9 @@
 < ARCADE_MACHINE_BOUNTYHUNT >
 현상금 사냥 펫 뽑기
 
+< ARCADE_MACHINE_PLUSHIE >
+봉제인형 펫 뽑기
+
 < ARCADE_MACHINE_EMOTES >
 이모티콘 가챠퐁
 

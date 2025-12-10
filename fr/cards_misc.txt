@@ -1,0 +1,33 @@
+
+< CARD_UNIT_HP_LABEL >
+PV
+
+< CARD_UNIT_BH_COSTS >
+Coût : %d%
+
+< CARD_RESTRICT_LEVEL_LABEL >
+NIVEAU TROP BAS
+
+< CARD_RESTRICT_STARS_LABEL >
+PAS ASSEZ D'ÉTOILES
+
+< CARD_RESTRICT_STANDBY_LABEL >
+HORS COMBAT
+
+< CARD_RESTRICT_BATTLE_LABEL >
+CARTE-COMBAT
+
+< CARD_RESTRICT_OFFENSE_LABEL >
+PAS EN ATTAQUE
+
+< CARD_RESTRICT_DEFENSE_LABEL >
+PAS EN DÉFENSE
+
+< CARD_TERM_BANNER >
+(BANNIÈRE : Jouer cette carte la pose sur votre case. L'effet est passif. Disparaît lorsqu'un joueur marche dessus.)
+
+< CARD_TERM_TRIGGER >
+(ACTIVATION : L'effet de la carte est remplacé si les conditions sont remplies.)
+
+< CARD_TERM_UPDATE >
+(ÉCHO (X) : Les effets se débloquent en fonction du nombre de fois où un exemplaire de cette carte a été joué.)

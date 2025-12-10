@@ -1,0 +1,161 @@
+<0000> Jet !
+<0001> Paré !
+<0002> Hm !
+<0003> Hop-là !
+<0004> Un peu de défi.
+<0005> Je vais rendre ça plus épicé.
+<0006> Faut profiter de ce qu'on a.
+<0007> On va se poiler.
+<0008> J'ai déjà un plan en tête.
+<0009> Je me prive pas de quelques coups fourrés.
+<0010> Muahahaha !
+<0011> Quelqu'un pour ramasser mon petit cadeau ?
+<0012> Sans hésiter !
+<0013> Les chances sont nôtres !
+<0014> Hah !
+<0015> Mon arme secrète !
+<0016> Passons aux choses sérieuses.
+<0017> Raah... Une bonne sieste.
+<0018> Hrm... Je referai pas la même erreur.
+<0019> Heh... le devoir m'appelle !
+<0020> Pas le temps de pioncer...
+<0021> Le moteur refuse de s'allumer...
+<0022> J'en ai pour un moment.
+<0023> Bon, inutile de paniquer.
+<0024> Je mérite une pause.
+<0025> Hoh !
+<0026> Je tire !
+<0027> Haah !
+<0028> Je vais t'abattre.
+<0029> Tch.
+<0030> Hmm... Une égratinure.
+<0031> Bah.
+<0032> Keh.
+<0033> Aah, quel soulagement.
+<0034> C'est déjà ça en moins sur mes épaules.
+<0035> J'me sens renaître.
+<0036> Ohhh...
+<0037> Je ne contrôle plus rien !
+<0038> Eh, on va où ?
+<0039> Destination... inconnue.
+<0040> O-oooh...?
+<0041> Chute libre !
+<0042> Adieu.
+<0043> J'arrête de bosser.
+<0044> J'arrête un moment !
+<0045> Au combat !
+<0046> Tu n'iras pas plus loin !
+<0047> Prêt à faire feu !
+<0048> J'ai pour mission de t'arrêter !
+<0049> Un contre un ? Soit !
+<0050> Je relève ton défi.
+<0051> Hm ?
+<0052> Tu veux vraiment te lancer là-dedans ?
+<0053> Ora ora !
+<0054> Je te conseille d'esquiver.
+<0055> Rah !
+<0056> Tourelles, feu !
+<0057> Hngh !
+<0058> Une égratinure.
+<0059> Ouille !
+<0060> Gh... Pas mauvais.
+<0061> Ugoh !
+<0062> Bwuogah !
+<0063> Aïe-aïe-aïe... ça brûle !
+<0064> Ouah ! Joli tir...
+<0065> Haha, je m'en sors pas mal !
+<0066> Je l'ai frôlé !
+<0067> ...Hm ? J'ai frôlé quelque chose ?
+<0068> À un poil près.
+<0069> Perds pas trop espoir.
+<0070> Tu t'en sortiras mieux la prochaine fois.
+<0071> Rien de personnel.
+<0072> Repose en paix.
+<0073> T'es plutôt costaud...
+<0074> C'est fini pour moi... j'ai peine à y croire.
+<0075> Repose en paix... moi.
+<0076> Je suis kaput !
+<0077> Hah, excellent !
+<0078> Bwahahaha, là on parle !
+<0079> 'y a pas de petit profit !
+<0080> J'en suis ravi.
+<0081> Hah... une perte déplorable.
+<0082> Mes rêves et espoirs...!
+<0083> Les étoiles paraissent si lointaines...
+<0084> Non !!
+<0085> Un piège !
+<0086> Je m'suis fait avoir !
+<0087> Bwahaha, t'as trompé le vieux Bourbon.
+<0088> Je faisais pas gaffe.
+<0089> Hahaha ! En voilà, un adversaire de taille.
+<0090> Oh... Je perds mon sang-froid.
+<0091> Tch. Je m'attendais pas à ce genre de rencontres.
+<0092> Les cieux connaissent-ils ce genre de monstres ?
+<0093> Posons-nous un peu, le ciel étoilé nous attend.
+<0094> J'entends l'appel des étoiles.
+<0095> Contentons-nous de ce qu'on a.
+<0096> On part à la chasse aux étoiles !
+<0097> Hrm... Ça risque de s'échauffer.
+<0098> Parfois, on est obligés de combattre.
+<0099> J'espère un défi de taille.
+<0100> Je crains qu'on ira pas plus loin sans se battre.
+<0101> J'suis qu'un modeste aviateur,\nmais ça m'fait plaisir de bosser avec toi.
+<0102> T'as confiance en un vieillard comme moi ?
+<0103> Faisons tous les deux de notre mieux !
+<0104> J'vais t'aider à parvenir à tes fins.
+<0105> J'vais faire ça à ma manière.
+<0106> On appréhende le problème,\net on l'règle par tous les moyens.
+<0107> À notre future victoire !
+<0108> Un jour parfait pour voler dans les nuages.
+<0109> C'est mon jour de chance !
+<0110> Et voilà !
+<0111> Hrm, tout est bien qui finit bien !
+<0112> Trinquons à notre victoire !
+<0113> Bien joué, vieux.
+<0114> Héhé, pas mal.
+<0115> Belle trouvaille !
+<0116> Oh... qu'est-ce que c'est, ça ?
+<0117> On échange.
+<0118> 'faut que je me retire.
+<0119> Les réservoirs sont à sec.
+<0120> Je te laisse opérer un petit moment.
+<0121> Ok.
+<0122> Ça, pour une surprise !
+<0123> Roger.
+<0124> J'ai raté la cible !
+<0125> Dommage.
+<0126> Haha, Dame Fortune est avec nous !
+<0127> C'est quoi ?
+<0128> On y va !
+<0129> Jet !
+<0130> C'est parti !
+<0131> Bien l'bonjour.
+<0132> Loupé.
+<0133> Bien !
+<0134> Ooh ! Splendide !
+<0135> Bon sang !
+<0136> Un contact m'a filé celle-là.
+<0137> J'y vais sans hésiter !
+<0138> Je parie sur cette carte.
+<0139> Qu'est-ce que j'peux tirer de cette carte ?
+<0140> Santé !
+<0141> Écarte-toi, j'm'en occupe.
+<0142> T'as besoin d'aide, on dirait.
+<0143> Hm... Je m'en charge.
+<0144> Te fatigue pas pour ça.
+<0145> Désolée, ma p'tite, mais j'ai pas le choix.
+<0146> J'peux t'aider, jeune fille ?
+<0147> Pas mal pour une jeune aviatrice.
+<0148> Tu m'as pas loupé, haha... Quelle fille.
+<0149> Salut, Boss. J'en ai pas fini avec toi.
+<0150> T'en as pas marre de me pourrir ?
+<0151> Hah ! Ce soir, tu paies la tournée !
+<0152> Tch. D'accord, je vais l'ouvrir, cette bouteille.
+<0153> Toujours aussi coincé, patron ?
+<0154> Relax, vieux, il y a pas mort d'homme.
+<0155> Hahaha, assieds-toi et profite du spectacle.
+<0156> On gagne pas à tous les coups.
+<0157> Tu devrais réfléchir avant d'agir, gamine.
+<0158> Oh, toi aussi t'aimes bien les baleines ?
+<0159> Tu t'es trouvé un adversaire coriace, Cherry.
+<0160> Qu'est-ce que t'as de bon pour moi ?

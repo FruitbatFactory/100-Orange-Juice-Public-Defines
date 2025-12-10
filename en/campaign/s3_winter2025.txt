@@ -1,0 +1,250 @@
+// CampaignScenario_Event_Season3_Part2_Intro
+// (kurie)
+<0000> A 100% OJ club, huh.
+// (poyo)
+<0001> Yes, Ms. Kurie! I'm sure this way we'll get the most out of our youth!
+// (kurie)
+<0002> I fully support you starting your own club. I believe it'll be a valuable experience for everyone involved.
+// (kurie)
+<0003> But...
+// (poyo)
+<0004> What is it, Ms. Kurie?
+// (kurie)
+<0005> There already was a 100% OJ club, but it's been disbanded for two years.
+// (poyo)
+<0006> Fue!? Really?
+// (kurie)
+<0007> Yeah. They were on a roll and kept on winning.
+// (poyo)
+<0008> Why did such a club shut down?
+// (kurie)
+<0009> That was because...
+// (unknown)
+<0010> Did someone just say '100% OJ club?'
+// (poyo)
+<0011> Fue?
+// (kurie)
+<0012> Oh.
+// (popomi)
+<0013> You're not going to start a 100% OJ club again, are you?
+// (poyo)
+<0014> Well, um.
+// (kurie)
+<0015> She's Mari Popomi, a third-year.
+// (poyo)
+<0016> A third-year... So, she's older than me!?
+// (popomi)
+<0017> Got a problem?
+// (poyo)
+<0018> (I thought she was a first-year because she's so short.)
+// (kurie)
+<0019> Talk about good timing. No one's better suited to explain the past of the 100% OJ club than Mari.
+// (poyo)
+<0020> Um, why's that?
+// (kurie)
+<0021> She was a member.
+// (poyo)
+<0022> Really!?
+// (kurie)
+<0023> If you want to start a 100% OJ club, that's why you should talk to her, Oage.
+// (popomi)
+<0024> No talks are necessary. Popo will thoroughly teach you just how dangerous 100% OJ is!
+// (poyo)
+<0025> 100% OJ is dangerous?!
+// (poyo)
+<0026> So that's what happened...
+// (chuu)
+<0027> And now this is happening, huh.
+// (popomi)
+<0028> 100% OJ is a dangerous game! And the only way I can show you that is by actually playing it...
+// (popomi)
+<0029> So Popo is here to risk her life to teach you all the dangers of the game!
+// (kanata)
+<0030> Oh, she's the overly-enthusiastic type...
+// (haruka)
+<0031> I don't hate that.
+// (mimomo)
+<0032> Well, sorry, girls, but would you play with Popomi for me?
+// (chuu)
+<0033> And can I ask why you're here, student council president?
+// (mimomo)
+<0034> Because I heard Popomi was gonna do something fun around here★
+// (popomi)
+<0035> Mimo's a beginner at the board game, so I'll pair up with her. That'd give you guys a fair advantage against me.
+// (poyo)
+<0036> So, the two of you are going to play a match of 100% OJ against us, correct?
+// (popomi)
+<0037> Don't you take it lightly! This is no laughing matter!
+// (chuu)
+<0038> She seems serious and enthusiastic at the same time.
+// (mimomo)
+<0039> She's lots of fun, ain't she?
+// (poyo)
+<0040> A-anyway, we have to beat you in the game to start our 100% OJ club, is that right?
+// (popomi)
+<0041> You can take it that way if you wish.
+// (poyo)
+<0042> Alright then... We'll give it everything we've got to win this match for the sake of our youth!
+// (mimomo)
+<0043> Wow.
+// (popomi)
+<0044> Looks like you've got the guts, at least...!
+
+// CampaignScenario_Event_Season3_Part2_Ending
+// (popomi)
+<0045> Great. Come, show me what you're made of!
+// (popomi)
+<0046> Ugh... Argh!!!
+// (poyo)
+<0047> Po-Popomi, what's wrong!?
+// (mimomo)
+<0048> Popochi, don't push yourself, okay?
+// (popomi)
+<0049> N-now you guys understand how dangerous the board game is, don't you...?
+// (poyo)
+<0050> Not in the slightest...
+// (popomi)
+<0051> Popo used to be a great 100% OJ player. So great she was even selected as the game's mascot.
+// (poyo)
+<0052> You were the game's mascot!? Does that mean you were Marie Poppo!?
+// (chuu)
+<0053> The mascot known by every 100% OJ player back then...!?
+// (kanata)
+<0054> And loved by every player.
+// (haruka)
+<0055> I was a big fan back then... Were you really...?
+// (popomi)
+<0056> Look at Popo, it's obvious, isn't it!? How could you not notice!?
+// (poyo)
+<0057> The Marie Poppo that I knew was pretty short, just like a real mascot...
+// (mimomo)
+<0058> Popochi's gotten pretty tall in the last two years.
+// (popomi)
+<0059> Yeah, Popo's height's 1 meter taller now! But it wouldn't make such a difference, would it!?
+// (chuu)
+<0060> Yes, it would!!!
+// (poyo)
+<0061> (She's still short, though.)
+// (popomi)
+<0062> Oh well. It doesn't matter now anyway.
+// (popomi)
+<0063> What Popo wants you to realize is how dangerous the board game is...
+// (popomi)
+<0064> Ever since they chose Popo as the mascot, she'd been working hard to hold on to the title.
+// (popomi)
+<0065> She underwent special training to stay the excellent player she was - rolling dice ten thousand times a day.
+// (popomi)
+<0066> And then one day, sharp pain struck her wrist.
+// (popomi)
+<0067> It was tendonitis... and it made Popo unable to roll a die.
+// (popomi)
+<0068> Without dice, 100% OJ cannot be played...
+// (popomi)
+<0069> And that was how Popo left the community of the board game and the 100% OJ club here got disbanded.
+// (popomi)
+<0070> Popo's wrist is much better now... But if you keep rolling dice, you'll end up like her... Ugh!
+// (poyo)
+<0071> Popomi...
+// (kanata)
+<0072> You know you don't have to roll a dice ten thousand times a day in order to play 100% Orange Juice.
+// (popomi)
+<0073> What!?
+// (chuu)
+<0074> Kana, you could've been less blunt.
+// (kanata)
+<0075> That is, without a doubt, the cause of her wrist injury, though.
+// (popomi)
+<0076> So it's not 100% OJ that's dangerous, but it's Popo's special training... Is that what you're saying??
+// (poyo)
+<0077> Um, I admire your efforts!
+// (mimomo)
+<0078> Well, after being picked as Miss Mascot, she just felt this huge pressure and couldn't help doing something. So, please don't judge her, 'kay?
+// (haruka)
+<0079> After hearing all that, I can kind of relate.
+// (poyo)
+<0080> None of us here ever had an amazing title like yours. All we wanna do is play our favorite board game to get the most out of our youth.
+// (popomi)
+<0081> Get the most out of your... youth?
+// (poyo)
+<0082> Yes. We want to set up a 100% OJ club where we can play the board game with many different people. Where everybody enjoys both winning and losing.
+// (poyo)
+<0083> We're certain that'll be the most valuable way we can spend our youth.
+// (poyo)
+<0084> That's why we wanna have our 100% OJ club!
+// (poyo)
+<0085> We promise we won't roll dice too many times, so no worries.
+// (popomi)
+<0086> ...You'll become just like me if you go even a little too far in dice-rolling, you understand that?
+// (kanata)
+<0087> I'll make sure that doesn't happen.
+// (popomi)
+<0088> Hmph, fine.
+// (popomi)
+<0089> You're all determined, you're all on good terms, and you won't be rolling too many dice.
+// (popomi)
+<0090> If so, Popo has no reason to stop you.
+// (poyo)
+<0091> Popo...!
+// (popomi)
+<0092> Go ahead and play 100% OJ to have the best youth ever.
+// (poyo)
+<0093> Yes!
+// (mimomo)
+<0094> Oh, looks like things have been settled and everyone's happy. Pretty neat.
+// (popomi)
+<0095> But! Now that Popo's played a game with you guys, she has to say none of you are anywhere near her level! And that means your youth will be filled with nothing but losses!
+// (poyo)
+<0096> What!?
+// (popomi)
+<0097> So Popo will join the club and train you guys!
+// (poyo)
+<0098> Are you sure!?
+// (chuu)
+<0099> So we're gonna have Miss 100% OJ mascot as a club member?
+// (mimomo)
+<0100> Popochi's back to being a 100% OJ player, huh. That's so neat! I'm all for it.
+// (mimomo)
+<0101> I suppose I'll join it too, then.
+// (popomi)
+<0102> Don't forget you're the student council president.
+// (mimomo)
+<0103> I can handle both. I'm a pretty good multitasker.
+// (poyo)
+<0104> We'd welcome you to the club.
+// (haruka)
+<0105> Yeah. It'll be more fun having you, for sure.
+// (popomi)
+<0106> Popo's fine with that if you guys are.
+// (mimomo)
+<0107> Hooray! Let's make our youth the best it can be, girls!
+// (poyo)
+<0108> Alright, the 100% OJ club of Shiny Sparkling Academy is back!!!
+// (everyone)
+<0109> Yeah!!
+// (rinse)
+<0110> Oh my, Marie Poppo is back to playing 100% OJ again...
+// (suishou)
+<0111> It seems like it. I believe it'll have an impact on the community of the game.
+// (rinse)
+<0112> Fufufu, I'll take that as a positive development if it helps liven the community more.
+// (rinse)
+<0113> Remind me: What school is Marie attending, again?
+// (suishou)
+<0114> It's Shiny Sparkling Academy, I believe.
+// (rinse)
+<0115> Shiny Sparkling Academy... Wait, isn't that...
+// (rinse)
+<0116> Excuse me. I have a text message.
+// (rinse)
+<0117> Oh my, it's from Haru.
+// (suishou)
+<0118> That childhood friend of yours?
+// (rinse)
+<0119> That's right. She has a twin sister, and they're both so adorable. I treat them like my real little sisters and... Oh my goodness!
+// (suishou)
+<0120> What's wrong?
+// (rinse)
+<0121> Suishou, we're going to ask Shiny Sparkling Academy for a practice match of 100% OJ.
+// (suishou)
+<0122> O-okay...!
+

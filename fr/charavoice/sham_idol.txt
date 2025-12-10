@@ -1,0 +1,117 @@
+<0000> À trois, on y va !
+<0001> Un, deux, trois !
+<0002> Vas-y, roule !
+<0004> Tiens, tu penses quoi de ça ?
+<0005> Hé ! On s'en sert ou pas ?
+<0006> Oh, oui, ça a l'air bien !
+<0007> Bien sûr !
+<0008> C'est comme ça qu'on pose un piège, tu vois ?
+<0009> Et si on posait un piège ici ?
+<0010> Tu voulais poser lequel ?
+<0011> Héhéhé.
+<0012> Sora ! Carte ! Unissons nos forces !
+<0013> On fait de notre mieux, ok ?
+<0014> Oui ! Tu brilleras encore plus fort !
+<0016> On brille de mille feux !
+<0017> Aïe-aïe, ça fait mal.
+<0018> Sora, prends ma main !
+<0019> Exactement !
+<0020> Allez, une autre chanson !
+<0021> On doit se rafraîchir un coup...
+<0022> La foule va s'impatienter...
+<0026> Oui, parfait !
+<0027> À l'attaque !
+<0028> Sora !
+<0029> Ouah !
+<0030> J'ai fait une erreur !
+<0033> On refait le plein !
+<0034> Sora, fais "aaa" !
+<0035> Hihihi, aaaaa.
+<0036> J'ai pas fini de danser !
+<0037> Ouaah !
+<0038> Sora, tiens ta jupe !
+<0039> Je suis toute décoiffée !
+<0041> Viens, on fait une pause.
+<0042> Oui... j'ai besoin de me reposer...
+<0043> C'est ma faute...
+<0044> Hmm...
+<0045> Combat d'Idols ! Go !
+<0046> Le gagnant du combat est le plus beau !
+<0049> Oh, tu es fan de moi, c'est ça ?
+<0050> Tu brûles d'amour, ça se voit !
+<0053> Tiens !
+<0054> Hah !
+<0055> T'es prête ?
+<0056> Je m'en occupe !
+<0057> Puheh !
+<0058> Ouille !
+<0061> Non, pas mon visage !
+<0062> Laisse-moi tranquille !
+<0065> Des petits pas magnifiques !
+<0066> Toh !
+<0069> Nous sommes...
+<0070> Autour des Idols brille...
+<0071> On s'en sort à merveille, Sora !
+<0072> Avec brio !
+<0073> Ouin...
+<0074> Comment tu peux t'en prendre à une idol !?
+<0077> Ouaahh, regarde comme elles brillent !
+<0078> Un jour, nous rejoindrons les étoiles !
+<0081> Nooon ! On a perdu notre éclat !
+<0082> On allait devenir des stars !
+<0085> Ouah ! Un piège !?
+<0086> Sora, fais attention !
+<0087> Hein ? C'est une farce, c'est ça ?
+<0089> Toute bonne Idol a son rival...
+<0090> Héhé, ça commence à devenir intéressant.
+<0091> C'est l'occasion de montrer à quel point on est douées !
+<0093> Bien sûr que c'est ce qu'on va faire !
+<0094> Si on trouve des étoiles, on brillera comme elles !
+<0097> S'il le faut, on peut rendre la danse plus intense !
+<0098> Même les plus belles Idols peuvent se battre !
+<0101> Merci de nous avoir choisies !
+<0102> On va enfin monter sur le devant de la scène !
+<0103> T'en fais pas, je reste avec toi tout du long !
+<0104> Bien sûr que si ! Tu es la plus belle du monde !
+<0105> Que le concert commence !
+<0106> On y va, Sora !
+<0107> Hihihi, je te sens nerveuse !
+<0109> Merci, vous tous ! On vous aime !
+<0110> Ne ratez surtout pas notre prochain concert !
+<0113> Hein ? Tu voulais une photo de moi ?
+<0114> Attends, bouge pas ! Je vais le signer !
+<0115> Un remplaçant, s'il vous plaît !
+<0116> Changement de membre !
+<0117> Sora, on fait une pause !
+<0120> Ok !
+<0121> Super !
+<0122> Ouiiii !
+<0123> Non, pas comme ça !
+<0125> La chance !
+<0126> Hmm ?
+<0128> Qu'est-ce qu'on va bien avoir~♪
+<0130> Youhou !
+<0131> Mmhhmm...!
+<0133> Ouah, trop bien !!
+<0135> Sora, tu en penses quoi ? On peut s'en servir ?
+<0136> Hein, c'est quoi ? Un cadeau d'un fan ?
+<0137> C'est pas grave ! Faut bien l'essayer, non ?
+<0138> J'ai trop hâte de voir ce que ça fait !
+<0139> Un combat entre Idols... Sora, surtout, ne baisse pas ta garde.
+<0140> C'est en surmontant les défis qu'on devient Idol !
+<0141> Les difficultés offrent des opportunités ! On lâche rien !
+<0144> Tout ça, c'est grâce à tout votre soutien !
+<0145> Oui !! Regarde, on mène la partie !
+<0148> On continue comme ça !
+<0149> On s'en sort super bien !
+<0150> Le soutien de tous nos fans nous rend invincibles !
+<0151> On est à ça de devenir les Idols les plus connues !
+<0152> On est les meilleures Idols du monde !
+<0153> Hé, Sora ! Regarde ! Un avis sur celui-là ?
+<0154> Qu'il est beau !
+<0155> Il est particulier, celui-là... Plutôt mignon, j'imagine ?
+<0156> Sa présence me détend...
+<0157> Ah, ça t'irait bien, ça, Sora !
+<0158> Oh, bien sûr !
+<0159> Tu en penses quoi ? Il est bien, non ?
+<0160> Ça t'irait à merveille, Sora !

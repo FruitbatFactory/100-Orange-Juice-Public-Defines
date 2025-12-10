@@ -130,6 +130,10 @@ descr=Gain +1 to DEF for each stack.
 name=Evasion Buff
 descr=Gain +1 to EVD for each stack.
 
+< CARD_AMPHPEVD_EFFECT >
+name=Health and Evasion Buff
+descr=Gain +1 max HP and +1 to EVD for each stack.
+
 < CARD_AMPMOV_EFFECT >
 name=Movement Buff
 descr=Gain +1 MOV.
@@ -188,7 +192,7 @@ descr=Stop moving if panel has a trap.
 
 < CARD_POPPOFORMATION_EFFECT >
 name=Poppoformed
-descr=Base ATK, DEF and EVD will be -1 during next battle.
+descr=Base ATK, DEF and EVD are set to -1.
 
 < CARD_HAND_BOOST_EFFECT >
 name=Hand Boost
@@ -776,5 +780,9 @@ descr=If your HP is 1 at the start of the battle, gain +2 ATK.
 < CARD_LONGARMS_EFFECT >
 name=Look How Long My Arms and Legs Are Now
 descr=You may pay 5 more stars to place traps within a 2 panel radius. Increase all non-Trap, non-Gift card levels by 1 (up to 5).
+
+< CARD_BURNINGPANEL_EFFECT >
+name=Burning Panel
+descr=This panel is on fire. Units starting or ending their turn on it will take 1 damage.
 
 [EOF]

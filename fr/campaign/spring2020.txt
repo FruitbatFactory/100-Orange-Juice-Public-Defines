@@ -1,0 +1,166 @@
+
+// ========= Scene: Spring 2020 Event Start =========
+
+// (No Speaker)
+<0000> Après avoir commencé à voyager ensemble, Ellie et Lulu firent halte en ville.
+
+// (ellie)
+<0001> A-a-ahaaa ! Malédiction, malédiction ! On est dans la mouise, Lulu !
+
+// (lulu)
+<0002> Quel est le problème, Ellie ?
+
+// (ellie)
+<0003> On a plus d'argent de voyage...
+
+// (lulu)
+<0004> De quoi ?
+
+// (ellie)
+<0005> L'argent de voyage ! On peut plus s'acheter à manger ou dormir dans une auberge !
+
+// (lulu)
+<0006> On ne peut plus manger ?! C-c'est horrible !
+
+// (ellie)
+<0007> Plus le choix ! Si j'arnaque les bonnes personnes, on pourrait se faire un max de blé !
+
+// (lulu)
+<0008> Tu t'en sens vraiment capable ?
+
+// (ellie)
+<0009> Mais oui, ça va le faire ! Je suis super charmante, donne-moi un jour et je pourrais acheter tout le pays...!
+
+// (lulu)
+<0010> Ou bien une niche pour chien, peut-être.
+
+// (ellie)
+<0011> Comment ? Tu m'insultes ?
+
+// (lulu)
+<0012> Jamais de la vie !
+
+// (ellie)
+<0013> Hmm, bon, on fait quoi, en vrai ? Sans ma bouffe, jamais je pourrai garder mon corps de rêve.
+
+// (lulu)
+<0014> Hé, Ellie, c'est quoi, ces papiers accrochés aux murs ?
+
+// (ellie)
+<0015> Hmm ? C'est des...
+
+// (ellie)
+<0016> Primes de chasse au monstre...!
+
+// (ellie)
+<0017> Hé, mais... Maintenant que j'y pense, on en a déjà battu, des monstres ! C'est fastoche, en plus !
+
+// (lulu)
+<0018> Et du coup ? Qu'est-ce que tu y gagnerais ?
+
+// (ellie)
+<0019> De l'argent ! C'est ça, la\nrécompense !
+
+// (lulu)
+<0020> Ça veut dire que...
+
+// (ellie)
+<0021> Ce soir, on mange à volonté et on dort dans des lits douillets !
+
+// (ellieandlulu)
+<0022> Ahaaa !
+
+// (ellie)
+<0023> On y va, Lulu ! En route pour la chasse aux monstres !
+
+// (lulu)
+<0024> Oui !
+
+// ========= Scene: Spring 2020 Event Ending =========
+
+// (ellie)
+<0025> Admire un peu tout l'argent qu'on s'est fait ! Ahaaa !
+
+// (lulu)
+<0026> Ouaah, c'est incroyable, Ellie ! Ça nous fait assez pour tenir longtemps, pas vrai ?
+
+// (ellie)
+<0027> Carrément. Avec tout cet argent, qui sait ce que je pourrais faire d'autre... Heh heh heh.
+
+// (lulu)
+<0028> À quoi tu penses ? On dirait que tu prépares un plan maléfique.
+
+// (ellie)
+<0029> Ah oui, tu mérites bien une récompense pour tout ce que tu as fait !
+
+// (lulu)
+<0030> Oui, Lulu s'est donnée à fond !
+
+// (ellie)
+<0031> Il y a un truc qui te tente ?
+
+// (lulu)
+<0032> Hmm... Lulu voudrait un bon repas... c'est tout.
+
+// (ellie)
+<0033> Ahaaa ! ♥ Évidemment que tu auras droit à un bon repas !
+
+// (ellie)
+<0034> Mais je voudrais te faire un cadeau en plus de ça.
+
+// (lulu)
+<0035> Un cadeau ? Hmm, ce que Lulu désire le plus au monde, c'est...
+
+// (lulu)
+<0036> Aucune idée, en fait.
+
+// (ellie)
+<0037> Tu n'as vraiment pas d'imagination, Lulu !
+
+// (ellie)
+<0038> Si tu ne sais pas quoi prendre, je choisirai à ta place.
+
+// (lulu)
+<0039> Ah, Lulu aime bien l'idée ! Elle veut que tu choisisses !
+
+// (ellie)
+<0040> Ok, c'est compris ! Moi et mon excellent goût en cadeaux, on va te trouver le meilleur cadeau de tous les cadeaux.
+
+// (ellie)
+<0041> ...Et ta-da !
+
+// (lulu)
+<0042> Qu'est-ce que c'est ? On dirait... un bout de tissu ?
+
+// (ellie)
+<0043> Attends voir, je l'enroule autour de ta queue, et...
+
+// (ellie)
+<0044> Voilà !
+
+// (lulu)
+<0045> Ah, c'est un ruban !
+
+// (ellie)
+<0046> Ahaaa ♥\nC'est vraiment trop mignon !
+
+// (lulu)
+<0047> Pour une personne avec un excellent goût en cadeaux, c'est un peu simple, mais c'est vrai que c'est mignon.
+
+// (ellie)
+<0048> Attends, est-ce que tu viens d'insulter mon-
+
+// (lulu)
+<0049> Lulu adore. Merci beaucoup, Ellie !
+
+// (ellie)
+<0050> Ahaaa, au plaisir ! Mais t'es pas au bout de tes surprises !
+
+// (ellie)
+<0051> Regarde, il nous encore plein d'argent !\nOn va faire la fête ! Youhou !
+
+// (lulu)
+<0052> Hé, Ellie, attends !
+
+// (ellie)
+<0053> Ahaaa ♥

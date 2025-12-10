@@ -1,0 +1,166 @@
+<0000> J'y vais.
+<0001> J'envoie !
+<0002> Yah !
+<0003> Hop.
+<0004> Cette carte-là !
+<0005> J'utilise cette carte.
+<0006> Nyihihi.
+<0007> Ça pourrait être utile.
+<0008> Hop, un piège.
+<0009> Je pose un piège.
+<0010> Hâte de voir qui va se le prendre !
+<0011> Muahaha ♪
+<0012> Avec ça, je peux que gagner.
+<0013> Je mets le paquet !
+<0014> Tiens !
+<0015> Carte-Combat !
+<0016> Un jet de dé fatidique !
+<0017> Hop-là !
+<0018> C'est mon grand retour !
+<0019> À mon tour, maintenant !
+<0020> On en a pas terminé !
+<0021> C'est stupide.
+<0022> Vous me faites marcher...
+<0023> Meerde !
+<0024> Nan, toujours pas...?
+<0025> Tiens !
+<0026> Yah !
+<0027> Hop !
+<0028> Bouffe ça !
+<0029> Gh.
+<0030> Hé, ça fait mal !
+<0031> Zut !
+<0032> Aïe-aïe !
+<0033> Je suis guérie !
+<0034> C'est beaucoup mieux.
+<0035> Parfait, je continue !
+<0036> Hahh... Quel paradis...
+<0037> Quoi, je vole...?!
+<0038> Ça mène où ce truc ?
+<0039> Je suis en train de voleeer !
+<0040> Ouaaah !
+<0041> Grrr...
+<0042> Non... j'y crois pas...
+<0043> C'est... c'est pas possible...
+<0044> C'est quoi ce bordel...?
+<0045> C'est l'heure de la bagarre.
+<0046> Allons-y.
+<0047> Prépare-toi !
+<0048> Allez, on y va !
+<0049> Vas-y, amène-toi.
+<0050> T'as du cran, à vouloir m'affronter !
+<0051> D'où que tu viennes, j'ai de quoi riposter.
+<0052> Tu crois pouvoir me battre ?
+<0053> Esquive ça.
+<0054> J'te préviens, ça va faire mal.
+<0055> J'attaque !
+<0056> Tiens !
+<0057> Gah !
+<0058> Ouille !
+<0059> Pas mal...
+<0060> Pft.
+<0061> Ouaiiille !
+<0062> Lâche-moi un peu, tu veux ?!
+<0063> Gaaaaah !
+<0064> Guh.
+<0065> Raté !
+<0066> C'est raté.
+<0067> Trop lent.
+<0068> Trop prévisible.
+<0069> J'ai gagné.
+<0070> Qui s'en doutait ?
+<0071> T'as enfin capté à quelle point je suis dangereuse ?
+<0072> Héhéhé, j'imagine pas ton dégoût.
+<0073> Oh, tu vas payer...
+<0074> Gh...
+<0075> Je... je refuse...
+<0076> C'est pas possiiible !
+<0077> Tchin tchin !
+<0078> Ces étoiles sont à moi !
+<0079> La fortune s'annonce !
+<0080> La chance !
+<0081> Ouaaaargh !
+<0082> M-mes étoiles !
+<0083> Non ! Pas mes étoiles !
+<0084> Pas possible !
+<0085> Un piège !
+<0086> Sérieusement ?!
+<0087> Un piège, juste ici ?!
+<0088> Hein, on m'a roulée...?!
+<0089> Hmm, j'aurais dû me méfier.
+<0090> Il est plus fort que les autres, lui...
+<0091> Qu'est-ce que c'est que ce monstre ?
+<0092> C'est plus intéressant que prévu.
+<0093> C'est parti pour les étoiles !
+<0094> Les étoiles, c'est plus judicieux.
+<0095> Un max d'étoiles et le gros lot !
+<0096> Ok, des étoiles.
+<0097> Je gagne toujours !
+<0098> Le combat est l'essence de la Loubardie !
+<0099> Vous allez voir l'étendue de ma puissance !
+<0100> Je vais tous vous démolir !
+<0101> Hein, moi ?
+<0102> Salut !
+<0103> Je vais mettre le paquet.
+<0104> C'est à moi de jouer ?
+<0105> Et ça commence.
+<0106> Ok, on y va.
+<0107> Que la partie commence !
+<0108> Je m'occupe de tout rafler.
+<0109> C'était pourtant évident.
+<0110> Et voilà, c'est fini.
+<0111> Une victoire totale et écrasante !
+<0112> Hm, c'était plutôt amusant.
+<0113> Une nouvelle babiole ?
+<0114> Oh, c'est...
+<0115> Bien, très bien.
+<0116> Ça va augmenter ma puissance de feu !
+<0117> Tu peux le faire.
+<0118> On échange.
+<0119> À toi de jouer.
+<0120> Échangeons.
+<0121> Ok !
+<0122> Bien.
+<0123> Ouais !
+<0124> Pas bon, ça.
+<0125> Sérieusement ?
+<0126> Quelle chance !
+<0127> Hm ?
+<0128> Ok, c'est parti !
+<0129> Je vais le tenter.
+<0130> J'y vais !
+<0131> Yo.
+<0132> Bon...
+<0133> Et voilà !
+<0134> Sublime !
+<0135> Merde...
+<0136> Ton pouvoir m'appartient.
+<0137> J'te pique ça un instant !
+<0138> Je vais lui donner une chance.
+<0139> Très intéressant !
+<0140> Merci bien.
+<0141> Me voilà, QP.
+<0142> Ok, QP, allons-y.
+<0143> QP, tu es bien naïve.\nTu pensais pouvoir gagner ?
+<0144> Moi, perdre contre QP ? Impossible...
+<0145> Je te mets à l'épreuve !
+<0146> Montrez-moi ce que vous savez faire, vous deux.
+<0147> Bien tenté, mais tu manques encore d'entraînement.
+<0148> C'était pas mal... bien joué.
+<0149> La femme la plus dangereuse de la Loubardie...\nBats-toi comme jamais !
+<0150> Ouah ! Kiriko, je t'avais pas vue arriver !
+<0151> Pfiou... T'es vraiment tarée.
+<0152> C'est terrifiant de t'avoir en ennemie...
+<0153> Je peux pas perdre contre toi...
+<0154> Pft ! T'as choisi le combat ?
+<0155> J'ai gagné... j'y croyais pas.
+<0156> Gh... j'ai perdu, finalement...
+<0157> Du pudding ? Kukuku.
+<0158> La sauce soja donne au pudding un goût d'oursin !
+<0159> Hé, sympa vos fringues, mam'zelle !
+<0160> C'est quoi cette fille...? On la croirait en flammes.
+<0161> Si tu me bats, je t'offre ton prochain repas.
+<0162> Krila ! Ok, allons-y !
+<0163> T'as encore beaucoup à apprendre.
+<0164> Hmm... tu sais te débrouiller.
+<0165> Cette partie est réservée à la Loubardie !

@@ -1,0 +1,161 @@
+<0000> Roule, petit dé.
+<0001> Comme ça ?
+<0002> Qu'est-ce que ça va donner ?
+<0003> J'espère... un bon chiffre.
+<0004> J'utilise celle-ci.
+<0005> Voilà qui devrait aider.
+<0006> Une carte...
+<0007> Cette carte va m'aider...
+<0008> Je pose un piège ici.
+<0009> Piège posé.
+<0010> Attention à cette case.
+<0011> Un piège.
+<0012> Un peu de puissance supplémentaire.
+<0013> Je choisis une carte Combat.
+<0014> Un petit rayon de chaleur...
+<0015> J'augmente ma puissance...
+<0016> J'ai de l'énergie à revendre...!
+<0017> C'est bon, ça va mieux.
+<0018> Je suis prête à y retourner.
+<0019> Il en faudra plus que ça.
+<0020> Je me sens renaître.
+<0021> Aouh.
+<0022> J'ai échoué...
+<0023> Fuaah...
+<0024> Pas encore... j'y suis presque...
+<0025> À l'attaque.
+<0026> Yah !
+<0027> Toh !
+<0028> Tah !
+<0029> Gh...
+<0030> Uah...
+<0031> Fua...!
+<0032> Kh...
+<0033> Mes cicatrices se referment..
+<0034> Je n'ai plus froid...
+<0035> Je me sens mieux.
+<0036> J'ai récupéré, je peux retourner me battre.
+<0037> Fue ?
+<0038> Ah !
+<0039> Où est-ce que ça m'emmène ?
+<0040> Un portail...?
+<0041> Il faut que je me repose.
+<0042> Je suis déjà à court d'énergie...
+<0043> Hau...
+<0044> Je dois... Je...
+<0045> Pardonne-moi.
+<0046> Prête au combat.
+<0047> Je vais faire de mon mieux.
+<0048> Au combat...
+<0049> Je refuse de perdre.
+<0050> Approche.
+<0051> Écarte-toi de là...
+<0052> Soit, combattons. Mais je ne te laisserai pas gagner.
+<0053> Ey !
+<0054> Hah !
+<0055> Yah !
+<0056> Eey !
+<0057> Mh...
+<0058> Fua...
+<0059> Au...
+<0060> Ouille...
+<0061> Gyawah !
+<0062> J'ai très très mal...
+<0063> Ah ! Dégâts critiques !
+<0064> Muaaah !
+<0065> Raté.
+<0066> J'esquive.
+<0067> J'ai esquivé.
+<0068> J'ai évité.
+<0069> Pfiou... J'ai gagné.
+<0070> J'ai réussi.
+<0071> Pfiou.
+<0072> C'est terminé.
+<0073> Nuu...
+<0074> Muu...
+<0075> Uuu...
+<0076> Aaa...
+<0077> Étoiles...
+<0078> Des étoiles...
+<0079> Je suis ravie.
+<0080> En voilà plein.
+<0081> Mes étoiles...
+<0082> Dommage...
+<0083> Oh non...
+<0084> Étoiles... Où êtes-vous...
+<0085> Je suis tombée dans un piège.
+<0086> Un piège ?
+<0087> Bon sang.
+<0088> Je me suis fait avoir.
+<0089> Il est sorti de nulle part.
+<0090> Je reste en alerte.
+<0091> En voilà un gros.
+<0092> Il est plus fort que les autres...
+<0093> Les étoiles...
+<0094> Étoiles...
+<0095> Je pars en collecte d'étoiles.
+<0096> Les étoiles... Elles sont jolies, je les aime bien.
+<0097> Je vais combattre.
+<0098> Je dois me battre.
+<0099> Je vais battre tout le monde sur mon chemin.
+<0100> Il faut que je me batte pour ce Quota, alors ?
+<0101> Moi ?
+<0102> On va s'amuser, je l'espère.
+<0103> En attente d'instructions.
+<0104> Je vais me battre...!
+<0105> Je commence mon travail.
+<0106> Je vais y donner corps et âme.
+<0107> J'y vais... pour triompher.
+<0108> Même en jeu, je dois vaincre.
+<0109> J'ai gagné.
+<0110> J'ai fait ce que je pouvais.
+<0111> Mon travail est terminé.
+<0112> J'ai gagné... J'en suis ravie.
+<0113> Parfait.
+<0114> Voilà quelque chose de bien.
+<0115> Oh... Parfait.
+<0116> Qu'est-ce qu'on fait de ça ?
+<0117> Tu peux prendre ma place ?
+<0118> Peux-tu me remplacer ?
+<0119> J'ai hâte de te voir à l'œuvre.
+<0120> Bonne chance.
+<0121> Entendu.
+<0122> Bonne idée.
+<0123> Oui.
+<0124> Je pense pas.
+<0125> Hau...
+<0126> Fufu.
+<0127> Mhm...
+<0128> Nous devons y aller.
+<0129> Les dés... sont jetés.
+<0130> C'est parti.
+<0131> Bonjour.
+<0132> Muaah...
+<0133> Bien.
+<0134> Parfait.
+<0135> Ah...?
+<0136> Je l'emprunte un instant.
+<0137> Laisse-moi jouer cette carte.
+<0138> Quoi que ça fasse, je m'en sers.
+<0139> J'espère que c'est comme ça qu'on s'en sert.
+<0140> Je commence... mon opération !
+<0141> Suguri... Que dirais-tu de jouer ensemble ?
+<0142> Suguri... Tu veux jouer avec moi ?
+<0143> Fufu, j'ai vaincu Suguri.
+<0144> Toujours aussi forte...
+<0145> Hime, tu veux danser ?
+<0146> Hime, jouons donc ensemble.
+<0147> Fufu, c'était amusant.
+<0148> Tu es douée, Hime.
+<0149> Sham... J'attaque.
+<0150> Idôle... Tu es brillante...
+<0151> Je ne pourrais jamais danser ou chanter comme toi...
+<0152> J-je dois apprendre à danser comme toi...?
+<0153> Star... Breaker...
+<0154> Je refuse de perdre !
+<0155> Merci de bien vouloir te calmer pour de bon.
+<0156> S'il te plaît, laisse cette planète tranquille...
+<0157> Bouclier !
+<0158> Bouclier, inversion !
+<0159> Charge illimitée...!
+<0160> Miké Maou-...!

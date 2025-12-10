@@ -1,0 +1,155 @@
+<0000> À moi de jouer !
+<0001> Allez, on y va !
+<0002> Hop !
+<0003> Roule.
+<0004> Vous allez voir ma stratégie !
+<0005> Je joue celle-là !
+<0006> Ça va m'aider, je le sens !
+<0007> Prenez ça ! Yaah !
+<0008> Piège !
+<0009> Héhéhé, je pose mon piège.
+<0010> Qui d'autre mettrait un piège à un endroit pareil ♪
+<0011> On va voir ce que ça vaut.
+<0012> Il faut que je gagne ce combat.
+<0013> Je vais pas me retenir !
+<0014> J'ai vraiment pas envie de perdre ce combat.
+<0015> Je vais changer le cours de la partie !
+<0016> Voici la technique spéciale de Poyo Onoe !
+<0017> *soupir* J'en pouvais plus.
+<0018> C'est pas grave, je peux encore y arriver.
+<0019> Rah, j'ai pris beaucoup trop de retard...\nMais je peux encore gagner.
+<0020> Je suis de retour ! Préparez-vous, ça va faire mal !
+<0021> Oh non, j'étais persuadée que c'était la bonne.
+<0022> Oh zut ! C'est pas bon, ça...
+<0023> Vraiment ?! Je vais perdre, si ça continue !
+<0024> Raahh, c'est super frustrant...
+<0025> Il faut maintenir l'offensive !
+<0026> J'envoie une attaque !
+<0027> C'est plus simple quand les autres sont KO.
+<0028> Attention, j'attaque !
+<0029> Aïe !
+<0030> Arrête ! Arrête !
+<0031> Ouaille !
+<0032> Qu'est-ce que- ?
+<0033> Prudence, prudence...
+<0034> Je devrais faire gaffe à mes PV.
+<0035> Pas question d'abandonner maintenant !
+<0036> Se soigner, c'est important !
+<0037> Ouah !
+<0038> Oh non.
+<0039> Un portail !
+<0040> Ohh ?
+<0041> Zut !
+<0042> Vraiment ?
+<0043> C'est pas possible !
+<0044> J'ai fait une bêtise...
+<0045> T'es pris au piège !
+<0046> À l'attaque !
+<0047> J'vais te battre !
+<0048> Ok ! Je pars à l'attaque !
+<0049> Ok, j'accepte !
+<0050> Hein ? Hein ? Tu veux te battre ?
+<0051> Tu veux te battre ?
+<0052> J'espère que c'est pas trop dangereux.
+<0053> Prends ça !
+<0054> Je vais t'écraser, tu vas voir !
+<0055> Attaque !
+<0056> Yaaah !
+<0057> Gyeh !
+<0058> Aïe ! Zut !
+<0059> Kuh- j'ai rien senti !
+<0060> Ouahh !
+<0061> Aïe !! Hé, ça fait mal !
+<0062> Hé, une seconde !
+<0063> C'est de la triche !
+<0064> Noon ! C'est pas possible !!
+<0065> J'ai failli y passer.
+<0066> Esquive réussie !
+<0067> Pfiou.
+<0068> Je m'en sors indemne !
+<0069> Parfait !
+<0070> Héhé, je t'ai écrasé !
+<0071> Ouais !!
+<0072> J'ai réussi !
+<0073> Non, non !
+<0074> Ouiiin, c'est horrible...
+<0075> Pourquoi ?
+<0076> Pas bon, ça...
+<0077> Super !
+<0078> C'est toujours bon, les cases Bonus.
+<0079> C'est en remportant le plus d'étoiles qu'on remporte la partie !
+<0080> Ces étoiles sont pour moi !
+<0081> Oh non, non, non !
+<0082> Pas possible !
+<0083> Hmrmmm...
+<0084> C'est nul !
+<0085> Hein ? Qui c'est qui a posé ce piège ici ?!
+<0086> Hiii !
+<0087> Hein ! Quoi, hein, non !
+<0088> Agyah ! Oh non !
+<0089> Toujours un moment de stress quand le boss apparaît.
+<0090> Oh, voilà le plus gros du lot.
+<0091> Bon, maintenant, je l'affronte ou je fuis...?
+<0092> Ouaah ! Voilà le boss...!
+<0093> Les étoiles !
+<0094> Ce sera les étoiles !
+<0095> C'est parti pour la chasse aux étoiles !
+<0096> Dans cette situation, ça vaut mieux !
+<0097> J'espère que je me suis assez préparée.
+<0098> Vu comment se déroule la partie... je dois me battre !
+<0099> Ok, c'est parti pour un combat à mains nues !
+<0100> Ce que j'aime, c'est la baston !
+<0101> Club 100% OJ, go !
+<0102> Tu vas voir comment je suis forte à 100% OJ.
+<0103> Ok, on va jouer !
+<0104> Je vais leur montrer !
+<0105> Prête comme jamais !
+<0106> C'est moi qui vais gagner, aujourd'hui !
+<0107> Hohoho... Je vais gagner, je le sens !
+<0108> Ouais ! Je vais secouer tout le plateau !
+<0109> Ouais !!! C'est le pouvoir du club 100% OJ !
+<0110> C'était juste, mais je me suis bien amusée !
+<0111> Gagner, c'est meilleur que tout !
+<0112> Poyo gagne !!! Poyo gagne !!!
+<0113> Rien de mieux que de trouver un nouvel objet !
+<0114> Hmmm... ça va être quoi, cette fois ?
+<0115> Oh ? C'est quoi ?
+<0116> Ouaaah ! Trop bien !
+<0117> On échange !
+<0118> C'est le bon moment pour changer de place.
+<0119> C'est à toi de jouer, maintenant.
+<0120> À toi de briller !
+<0121> Ok.
+<0122> Bien, bien !
+<0123> D'accord !
+<0124> Non !
+<0125> Hmm...
+<0126> C'est ça, la chance de Poyo !
+<0127> Oh, hm...
+<0128> C'est parti !
+<0129> Yah !
+<0130> Tu peux le faire !
+<0131> Yahoy !
+<0132> Hmm ?
+<0133> Trop bien !
+<0134> C'est trop génial !
+<0135> Rah, c'est frustrant...!
+<0136> C'est ma Carte-Hyper, maintenant !!
+<0137> Héhé... Carte-Hyper !
+<0138> Je vais retourner la situation !
+<0139> Un atout qui garantie la victoire !
+<0140> Merci beaucoup ! Thank you !
+<0141> C'est moi qui vais gagner, Chuu.
+<0142> Je compte sur toi, Chuu.
+<0149> Que cette partie en groupe commence !
+<0150> Q !! Je suis votre plus grande fan !
+<0151> Oh, c'est Q !!
+<0152> J'adore vos oreilles, on est presque pareilles !
+<0153> J-j'étais à peine distraite !
+<0154> Ouah, c'est la vraie Ellie !
+<0155> Ellie !!
+<0156> Ellie a des oreilles animales, elle aussi.
+<0157> Pas étonnant, venant du protagoniste de la Saison 2...
+<0158> Visez un peu combien j'ai d'étoiles, maintenant !
+<0159> On dirait que je vais gagner à plate couture !
+<0160> Les autres arrêtent pas de perdre contre moi.\nJe crois que j'ai un sacré punch !

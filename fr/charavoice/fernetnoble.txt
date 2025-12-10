@@ -1,0 +1,161 @@
+<0000> Cela se fait ainsi, voyez-vous.
+<0001> Et voici ma méthode.
+<0002> Là !
+<0003> Je compte sur ma chance.
+<0004> C'est là ma façon de faire les choses.
+<0005> Ce moment est opportun.
+<0006> Voilà la meilleure chose à faire.
+<0007> Que pensez-vous de ceci ?
+<0008> Peut-être trouverez-vous ça lâche.\nJe n'en pense pas moins.
+<0009> Qui donc peut résister à l'envie de faire des farces ?
+<0010> O-hoho ! Ce sera un spectacle à ne pas manquer.
+<0011> Bien, personne ne regarde... hop !
+<0012> J'ai choisi cette carte.
+<0013> Allons, ne fais pas cette tête.
+<0014> J'espère que tu t'étais préparé en conséquence.
+<0015> Puisse cela amener la chance de mon côté.
+<0016> Vous ne savez vraiment pas à qui vous parlez ?
+<0017> Il était temps...
+<0018> Quelle horrible perte de temps.
+<0019> Tout vient à qui sait attendre.
+<0020> Repartons du bon pied.
+<0021> Patience... Il faut savoir patienter...
+<0022> Aahh ! Je vais bouillir de rage !
+<0023> Comment ça !?
+<0024> Comme si j'avais le temps de rester affalée ainsi !
+<0025> Je te prie de prendre ceci.
+<0026> S'il te plaît, ne m'en veux pas.
+<0027> En garde !
+<0028> Il n'y a rien de personnel à cela, vraiment.
+<0029> Aïe...
+<0030> Comment oses-tu !?
+<0031> C'est douloureux !
+<0032> Ghh...
+<0033> Comme c'est agréable.
+<0034> Du beau travail. Mes remerciements.
+<0035> Excellente prestation.
+<0036> Aahh... comme c'est doux.
+<0037> Si je ferme les yeux, tout va déjà mieux...
+<0038> Je dois garder mon calme...!
+<0039> Boussole, où sommes-nous... Oh, je vois.
+<0040> Hmpf, un portail ? Rien de bien méchant.
+<0041> Que... comment !?
+<0042> C'est in-to-lé-ra-ble !
+<0043> *soupir* Aujourd'hui n'est pas mon jour de chance...
+<0044> Grrmm ! Pourquoi rien ne se passe\ncomme prévu, aujourd'hui ?
+<0045> Tu es bien préparé au combat, n'est-ce pas ?
+<0046> Tu es sur mon chemin, peux-tu t'en écarter ?
+<0047> Je te prie de quitter les lieux sur-le-champ.
+<0048> J'ai une chose ou deux à te confier.
+<0049> Je ne suis pas d'humeur à ça, ces temps-ci.
+<0050> Comme c'est barbare.
+<0051> Tu as beaucoup de cran, ma foi.
+<0052> As-tu pris rendez-vous auprès de mon majordome ?
+<0053> Seigneur.
+<0054> Toutes mes excuses.
+<0055> Pom pom pom ♪
+<0056> Prends ça !
+<0057> Aïe !
+<0058> Ouille.
+<0059> Quel rustre !
+<0060> Bon sang !
+<0061> Aïe-aïe-aïe...
+<0062> C'est très douloureux !
+<0063> Quelle est cette plaisanterie !?
+<0064> Gueh !
+<0065> Je sais esquiver quand c'est nécessaire !
+<0066> Qu'espérais-tu accomplir ?
+<0067> Rien de bien alarmant.
+<0068> Un simple pas de danse.
+<0069> Je te suggère de ne plus bouger.
+<0070> Tu l'avais cherché.
+<0071> O-ho-ho ! Tu es déjà à bout de souffle ?
+<0072> Mon dieu. Je m'ennuyais, tant c'était simple.
+<0073> Je m'en souviendrai !
+<0074> Ma réponse arrivera en temps voulu !
+<0075> Tu... viens de faire une très, très lourde erreur...
+<0076> Je te promets que tu regretteras cet affront.
+<0077> C'est merveilleux.
+<0078> C'est là un cadeau magnifique.
+<0079> Je tâcherai de bien m'en servir.
+<0080> Ma foi, cette journée s'annonce radieuse.
+<0081> Oh... eh bien, nous pouvons vivre sans.
+<0082> C'est un léger problème.
+<0083> Quelle malchance déplorable...
+<0084> Le service des impôts va m'entendre...
+<0085> Aahh, quelle cochonnerie !
+<0086> Pas comme ça !
+<0087> Hii !
+<0088> Me voilà à nouveau prise au piège...
+<0089> Oh, il m'a l'air fort dangereux.
+<0090> Oh, seigneur. Que faire ?
+<0091> Cette victoire nécessitera de lourds efforts.
+<0092> Pft, tu ne m'effraies en rien.
+<0093> Il me faut trouver des étoiles ? Rien de plus facile.
+<0094> Cette option me semble être la plus simple.
+<0095> Enfin, ce n'est que du bon sens.
+<0096> C'est ainsi que je décrocherai la victoire.
+<0097> L'affrontement est souvent un mal nécessaire.
+<0098> On ne peut faire d'omelette sans casser des œufs.
+<0099> Quand il faut se battre, je sais m'y consacrer.
+<0100> Allons, allons. Tout le monde sait\nque le combat régit le monde.
+<0101> Je joue toujours pour gagner.\nTâche de ne pas me décevoir !
+<0102> Je m'appelle Fernet. Tâche de t'en souvenir.
+<0103> Tout le plaisir est pour moi.
+<0104> Je me suis pleinement préparée.
+<0105> Je peux enfin faire mes débuts.
+<0106> Mon entrée sera spectaculaire.
+<0107> Partons donc en reconnaissance du champ de bataille.
+<0108> C'est évidemment à moi que reviendra cette victoire.
+<0109> Hmpf, tout naturellement.
+<0110> OUI ! J'ai réuss- *tousse*\nOh, tout s'est passé comme prévu.
+<0111> O-ho-ho ! Ce fut une excellente partie !
+<0112> Une autre journée, une autre victoire.
+<0113> Comme c'est merveilleux.
+<0114> Ma foi, c'est plutôt décent.
+<0115> C'est là une bien belle trouvaille.
+<0116> Comme c'est merveilleux !
+<0117> Prends donc ma place, s'il te plaît.
+<0118> *baîlle* Mes excuses.
+<0119> Je suis certaine que tu sauras t'en charger.
+<0120> Tu n'y vois aucun inconvénient, n'est-ce pas ?
+<0121> Fort bien.
+<0122> Excellent.
+<0123> Bien.
+<0124> Non.
+<0125> Bon, ça arrive à tout le monde.
+<0126> C'est une chance.
+<0127> Oh ?
+<0128> Débutons.
+<0129> Tentons notre chance.
+<0130> Allez !
+<0131> Oh, enchantée.
+<0132> Hmmm...
+<0133> C'est parfait !
+<0134> Magnifique !
+<0135> Aaahh... insupportable !
+<0136> Quand on a des relations, il faut bien s'en servir.
+<0137> Voyez ce petit tour que j'ai appris.
+<0138> L'amour aime l'audace.
+<0139> Quel étrange maléfice. Voyons ce dont il est capable.
+<0140> Tous mes rermerciements.
+<0141> Commençons par entamer quelques relations.
+<0142> Presque tout peut s'accomplir avec assez d'argent.
+<0143> Tous viendront me supplier en voyant ma fortune.
+<0144> J'ai de la peine pour ces sots qui me tenaient tête...
+<0145> Un bon investissement finit toujours par porter ses fruits.
+<0146> Vous êtes tous invités à ma cérémonie d'ouverture.\nRéjouissez-vous !
+<0147> C'est dans mon droit le plus naturel.
+<0148> Cette épée n'est donc point trop lourde ?
+<0149> Ne t'inquiète pas, je te l'emprunte juste un instant.\nQuelqu'un ici mérite une bonne correction.
+<0150> Bonjour, cela fait si longtemps. Comment vas-tu ?
+<0151> J'attendais ta visite avec impatience.
+<0152> Passe donc la nuit ici.\nMon majordome te préparera une chambre.
+<0153> Tu t'en vas déjà ? Encore une affaire urgente ?\nBon... rien à y faire.
+<0154> Si seulement tout pouvait être aussi simple...
+<0155> J'admire grandement votre intelligence, vous savez.\nPuis-je vous proposer une alliance ? Sinon...
+<0156> Voilà un costume très intéressant.\nJe me permets de prendre note.
+<0157> Tu n'as pas les ressources requises pour me vaincre.
+<0158> Comment as-tu pu, animal stupide !?
+<0159> Tu es prié de combattre pour moi.\nJe déteste salir mes vêtements.
+<0160> Mais quel est cet accoutrement ?\nVous n'avez donc aucune vergogne ?

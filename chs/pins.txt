@@ -6,22 +6,22 @@ artist=
 < PIN_FLYING_SUGURI >
 name=飞翔的须玖莉
 desc=授予使用须玖莉进行过很多场游戏的玩家。\n她说不定能一口气冲上天空！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KAI >
 name=飞翔的凯
 desc=授予使用凯进行过很多场游戏的玩家。\n他能找回自己的钱包吗？
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_QP >
 name=飞翔的QP
 desc=授予使用QP进行过很多场游戏的玩家。\n她总会为自己备一些布丁。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MARC >
 name=飞翔的玛儿
 desc=授予使用玛儿进行过很多场游戏的玩家。\n她绝不会抛下自己的火箭。
-artist=Sora
+artist=Azurée
 
 < PIN_FACTORY >
 name=橙子工厂
@@ -41,259 +41,304 @@ artist=Yulay Devlet
 < PIN_FLYING_HIME >
 name=飞翔的姬梦
 desc=授予使用姬梦进行过很多场游戏的玩家。\n切勿轻视守护者的锁链。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_FERNET >
 name=飞翔的菲尔涅特
 desc=授予使用菲尔涅特进行过很多场游戏的玩家。\n要来杯茶吗？
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_YUKI >
 name=飞翔的由希
 desc=授予使用由希进行过很多场游戏的玩家。\n要来场押上性命的赌局吗？
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_POPPO >
 name=飞翔的啵噗
 desc=授予使用啵噗进行过很多场游戏的玩家。\n对游戏有着深刻理解的证明。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ARU >
 name=飞翔的亚琉
 desc=授予使用亚琉进行过很多场游戏的玩家。\n正在递送礼物！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SORA >
 name=飞翔的优空
 desc=授予使用优空进行过很多场游戏的玩家。\n她努力奋战只为再次见到晴空……
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_PEAT >
 name=飞翔的彼特
 desc=授予使用彼特进行过很多场游戏的玩家。\n他或许还在试图击败赤红酒桶。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TOMOMO >
 name=飞翔的兔萌萌
 desc=授予使用兔萌萌进行过很多场游戏的玩家。\n真实存在的魔法。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SYURA >
 name=飞翔的秀拉
 desc=授予使用秀拉进行过很多场游戏的玩家。\n死线就是用来跨越的！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_NANAKO >
 name=飞翔的奈奈子
 desc=授予使用奈奈子进行过很多场游戏的玩家。\n别说她矮！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SAKI >
 name=飞翔的纱季
 desc=授予使用纱季进行过很多场游戏的玩家。\n要来块曲奇吗？
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KYOUSUKE >
 name=飞翔的京介
 desc=授予使用京介进行过很多场游戏的玩家。\n找寻着一位特别的人。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KRILA >
 name=飞翔的克里拉拉莉丝
 desc=授予使用克里拉拉莉丝进行过很多场游戏的玩家。\n飞向永恒的黑暗。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KAE >
 name=飞翔的佳爱
 desc=授予使用佳爱进行过很多场游戏的玩家。\n卡组里总带着热度300%。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ALTE >
 name=飞翔的阿露特
 desc=授予使用阿露特进行过很多场游戏的玩家。\n使用此挂件时不会发生自爆。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KYOKO >
 name=飞翔的京子
 desc=授予使用京子进行过很多场游戏的玩家。\n保持冷静！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SHAM >
 name=飞翔的夏姆
 desc=授予使用夏姆进行过很多场游戏的玩家。\n最可爱的通信员！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SHERRY >
 name=飞翔的雪莉
 desc=授予使用雪莉进行过很多场游戏的玩家。\n自由飞翔。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SWEETBREAKER >
 name=飞翔的甜点破坏者
 desc=授予使用甜点破坏者进行过很多场游戏的玩家。\n记忆融化进行中！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_STARBREAKER >
 name=飞翔的星球破坏者
 desc=授予使用星球破坏者进行过很多场游戏的玩家。\n小心爆炸。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_NATH >
 name=飞翔的娜德
 desc=授予使用娜德进行过很多场游戏的玩家。\n慵懒的生活最棒了……
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TOMATOMIMYUU >
 name=飞翔的托玛特＆米缪
 desc=授予使用托玛特与米缪进行过很多场游戏的玩家。\n最强捣蛋鬼！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KIRIKO >
 name=飞翔的斩子
 desc=授予使用斩子进行过很多场游戏的玩家。\n健康第一。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_NONAME >
 name=飞翔的NoName
 desc=授予使用NoName进行过很多场游戏的玩家。\n毫无头绪。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TEQUILA >
 name=飞翔的铁基拉
 desc=授予使用铁基拉进行过很多场游戏的玩家。\n天生注定是海贼！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TSIH >
 name=飞翔的杏
 desc=授予使用杏进行过很多场游戏的玩家。\n别看丢了！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MIUSAKI >
 name=飞翔的美羽咲
 desc=授予使用美羽咲进行过很多场游戏的玩家。\n这个挂件也是无比坚固。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_REPA >
 name=飞翔的柯欧蕾帕露可
 desc=授予使用柯欧蕾帕露可进行过很多场游戏的玩家。\n小心野发出没！
-artist=Sora
+artist=Azurée
 
 < PIN_IDLE_MEI >
 name=待机的梅依
 desc=授予使用梅依进行过很多场游戏的玩家。\n一起来大闹一场吧！
-artist=Sora
+artist=Azurée
 
 < PIN_IDLE_NATSUMI >
 name=待机的夏美
 desc=授予使用夏美进行过很多场游戏的玩家。\n要来吃晚餐吗？
-artist=Sora
+artist=Azurée
 
 < PIN_IDLE_ARTHUR >
 name=待机的亚瑟
 desc=授予使用亚瑟进行过很多场游戏的玩家。\n谢谢惠顾！
-artist=Sora
+artist=Azurée
 
 < PIN_IDLE_NICO >
 name=待机的妮可
 desc=授予使用妮可进行过很多场游戏的玩家。\n总是全力以赴！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_CUTIES >
 name=飞翔的可爱者
 desc=授予使用可爱者进行过很多场游戏的玩家。\n演艺生涯前途无量！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_IRU >
 name=飞翔的依琉
 desc=授予使用依琉进行过很多场游戏的玩家。\n想要运动一下吗？
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MIRA >
 name=飞翔的米拉
 desc=授予使用米拉进行过很多场游戏的玩家。\n这个挂件就是英雄的象征。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_YUUKI >
 name=飞翔的夕希
 desc=授予使用夕希进行过很多场游戏的玩家。\n欧拉欧拉欧拉欧拉！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ISLAY >
 name=飞翔的艾拉
 desc=授予使用艾拉进行过很多场游戏的玩家。\n优雅地飞翔。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SUGURI46 >
 name=飞翔的须玖莉（460亿年）
 desc=授予使用须玖莉（460亿年）进行过很多场游戏的玩家。\n她让这个挂件也变得双倍可爱了。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SUMIKA >
 name=飞翔的栖海花
 desc=授予使用栖海花进行过很多场游戏的玩家。\n栖海花挂件是栖海花。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MIO >
 name=飞翔的魅樱
 desc=授予使用魅樱进行过很多场游戏的玩家。\n派对中的润滑剂（和糨糊）。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_LULU >
 name=飞翔的露露
 desc=授予使用露露进行过很多场游戏的玩家。\n以后我们也要一起玩啊！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ELLIE >
 name=飞翔的艾莉
 desc=授予使用艾莉进行过很多场游戏的玩家。\n该出发去冒险了！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ALICIANRONE >
 name=飞翔的亚莉希安罗妮
 desc=授予使用亚莉希安罗妮进行过很多场游戏的玩家。\n森林这边最快的魔女！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TEOTORATTA >
 name=飞翔的缇欧特拉塔
 desc=授予使用缇欧特拉塔进行过很多场游戏的玩家。\n她有着一群不离不弃的狐朋狗友。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ARNELLE >
 name=飞翔的阿妮尔
 desc=授予使用阿妮尔进行过很多场游戏的玩家。\n真正的宝藏或许就是我们一路上结交的朋友？
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MAYNIE >
 name=飞翔的梅妮
 desc=授予使用梅妮进行过很多场游戏的玩家。\n凝视那对异色瞳，无视那只袭来拳……
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_HALENA >
 name=飞翔的哈琳娜
 desc=授予使用哈琳娜进行过很多场游戏的玩家。\n这枚挂件总能带你前往正确的房间。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_COOK >
 name=飞翔的库克
 desc=授予使用库克进行过很多场游戏的玩家。\n这枚挂件也不是鸡。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_LONERIDER >
 name=飞翔的孤独车手
 desc=授予使用孤独车手进行过很多场游戏的玩家。\n不再孤独的车手。
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MERCHANT >
 name=飞翔的商人
 desc=授予使用商人进行过很多场游戏的玩家。\n你会买下这枚挂件的吧，是的，你会的吧！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_CHRIS >
 name=飞翔的克丽丝
 desc=授予使用克丽丝进行过很多场游戏的玩家。\n年度最佳女服务员，年年都是！
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KYUPITA >
 name=飞翔的QP太
 desc=授予使用QP太进行过很多场游戏的玩家。\n这枚挂件充满了燃烧的青春热血！
-artist=Sora
+artist=Azurée
+
+< PIN_FLYING_SWEETCREATOR >
+name=飞翔的甜点创造者
+desc=授予使用甜点创造者进行过很多场游戏的玩家。\n小心蝴蝶效应！
+artist=Azurée
+
+< PIN_FLYING_SWEETMAKER >
+name=飞翔的甜点制作者
+desc=授予使用甜点制作者进行过很多场游戏的玩家。\n世界因甜点而转！
+artist=Azurée
+
+< PIN_FLYING_SWEETBLOGGER >
+name=飞翔的甜点评论者
+desc=授予使用甜点评论者进行过很多场游戏的玩家。\n努力去发现更多美味的甜点吧！
+artist=Azurée
+
+< PIN_FLYING_REIKA >
+name=飞翔的丽华
+desc=授予使用丽华进行过很多场游戏的玩家。\n又是和平的一天。
+artist=Azurée
+
+< PIN_FLYING_MALT >
+name=飞翔的莫尔特
+desc=授予使用莫尔特进行过很多场游戏的玩家。\n为新世界干杯！
+artist=Azurée
+
+< PIN_FLYING_SHIFU >
+name=飞翔的希夫
+desc=授予使用希夫进行过很多场游戏的玩家。\n永远在寻找着完美的世界。
+artist=Azurée
+
+< PIN_FLYING_MESCAL >
+name=飞翔的梅丝卡尔
+desc=授予使用梅丝卡尔进行过很多场游戏的玩家。\n今天我们要玩什么呢？
+artist=Azurée
+
+< PIN_FLYING_WATTY >
+name=飞翔的沃缇
+desc=授予使用沃缇进行过很多场游戏的玩家。\n要、要是不小心把你击倒了，抱歉……
+artist=Azurée
+
+< PIN_FLYING_POM >
+name=飞翔的波美拉尼亚斯
+desc=授予使用波美拉尼亚斯进行过很多场游戏的玩家。\n他是个乖孩子。
+artist=Coffgirl

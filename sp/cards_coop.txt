@@ -78,6 +78,22 @@ name=Concurso de Lindura
 descr=Solo puede ser usada por el atacante. Esta batalla será decidida por un concurso de lindura.\nLindura = 10 - Máx. PV - ATK + EVD, pero no menos de 0.\nEn vez de tirar dados para atacar, ambas unidades tirarán 2 dados y añadirán al valor total de Lindura. La unidad que tenga una mayor cantidad de Lindura le robará estrellas equivalentes al Nivel del Jugador x5 y recibirán 1 Victoria; entonces, la batalla acabará.
 flavor="Ahora dinos, ¡¿quién es la más linda aquí?!" ―Saki
 
+< CARD_BATTLE_COOP_MOUSSETHETHIEF >
+name=Espumatona la Ladrona
+descr=Si te encuentras con vida al final de la batalla, el Jefe pierde estrellas equivalentes al Nivel de la próxima carta del Jefe x 10, entonces recibes esa misma cantidad de estrellas. Solo puede ser usado contra el Jefe.
+flavor="Espera un segundo, eso es importante para mí." ―Sora
+
+< CARD_BANNER_COOP_PROTECTIONFEE >
+name=Tarifa de Protección
+descr=Cuando el Jefe o uno de sus secuaces caiga en un panel de Hogar, el Jefe pierde Estrellas (tu nivel x 5) y tu recibes (tu nivel x 5) Estrellas.
+flavor="Esto es una estafa..." ―Lulu
+
+< CARD_EVENT_COOP_EXTREMEALTERATION >
+name=Alteración Extrema
+descr=Todos los paneles que no sean de hogar se transforman en paneles de Cartas.##(Activación: cae sobre 3 paneles de Terror{0}):\nConvierte a todos los paneles que no sean de hogar en paneles de Cartas x2.
+flavor="Curaré la enfermedad de la que este mundo está sufriendo..." ―Kiriko
+
+
 < CARD_HYPER_COOP_ALTE >
 name=Autodestrucción
 descr=Al morir, daña al enemigo con un valor equivalente a los PV máximos del jugador. El enemigo no recibe estrellas ni victorias, pero pierde la mitad de sus estrellas.
@@ -200,7 +216,7 @@ flavor="¡Mauuuuuryaaaaaaahh!" ―Saki
 
 < CARD_HYPER_COOP_SHAM >
 name=Campo Delta
-descr=El enemigo recibe el siguiente efecto hasta su próximo turno: Todos los dados caerán en 1.
+descr=Durante esta batalla, el oponente recibe el siguiente efecto: Todos los dados caerán en 1.
 flavor="¡Si insistes en quedarte aquí, tendré que llevarte a casa por la fuerza!" ―Sham
 
 < CARD_HYPER_COOP_SHERRY >
@@ -300,12 +316,12 @@ flavor="¡Somos las ídolos más fuertes!" ―Sora & Sham
 
 < CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE >
 name=Afluencia (X)
-descr=Entra en un combate con el jefe. Recibirán -X ATK, la X siendo el nivel de Afluencia. No podrás atacar. Si no eres noqueado en el combate, el oponente otorgará estrellas equivalentes a X por 20.\nSi esta carta no es Afluencia (4), esta carta será mejorada.\nAl no ser sostenida por Fernet, esta carta se transformará en Nueva Nobleza.
+descr=Entra en un combate con todos los jefes. Recibirán -X ATK, la X siendo el nivel de Afluencia. No podrás atacar. Si no eres noqueado en el combate, el oponente otorgará estrellas equivalentes a X por 20.\nSi esta carta no es Afluencia (4), podrás pagar el costo de esta carta para mejorarla.\nAl no ser sostenida por Fernet, esta carta se transformará en Nueva Nobleza.
 flavor="¿Deseas pedirme un favor...? Está bien, me encantaría ayudar a una de mis amistades." ―Fernet
 
 < CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE_V >
 name=Afluencia (%d)
-descr=Entra en un combate con el jefe. Recibirán -X ATK, la X siendo el nivel de Afluencia. No podrás atacar. Si no eres noqueado en el combate, el oponente otorgará estrellas equivalentes a X por 20.\nSi esta carta no es Afluencia (4), esta carta será mejorada.\nAl no ser sostenida por Fernet, esta carta se transformará en Nueva Nobleza.
+descr=Entra en un combate con todos los jefes. Recibirán -X ATK, la X siendo el nivel de Afluencia. No podrás atacar. Si no eres noqueado en el combate, el oponente otorgará estrellas equivalentes a X por 20.\nSi esta carta no es Afluencia (4), podrás pagar el costo de esta carta para mejorarla.\nAl no ser sostenida por Fernet, esta carta se transformará en Nueva Nobleza.
 flavor="¿Deseas pedirme un favor...? Está bien, me encantaría ayudar a una de mis amistades." ―Fernet
 
 < CARD_HYPER_COOP_SHIFU >
@@ -1128,8 +1144,245 @@ name=Nadadaro
 descr=Si hay 2 o menos Nadadaros en el campo de juego, convoca a un Nadadaro y recibe 6 puntos de daño.
 flavor=
 
+
+
+
+
+
+< CARD_BOSS_COOP_SPARK >
+name=Chispa
+descr=Quema el panel actual.
+flavor=
+
+< CARD_BOSS_COOP_BURN_IN_CRIMSON_FLAMES >
+name=Arde en un Fuego Carmesí
+descr=Todas las otras unidades en un radio de 2 paneles recibirán 1 punto de daño y Quemarán el panel en el que se encuentren.
+flavor=
+
+< CARD_BOSS_COOP_FEAR_THE_APPROACHING_SPARKS >
+name=Siente Cómo las Chispas Se Aproxíman
+descr=Quema 3-5 paneles aleatorios.
+flavor=
+
+< CARD_BOSS_COOP_COUNT_YOUR_LAST_MOMENTS >
+name=Cuenta tus Últimos Momentos
+descr=Un jugador vivo aleatorio recibirá el efecto de Condena: En 3 capítulos, serás Noqueado al comienzo de tu turno. El efecto se perderá al caer sobre un panel de Hogar. Quema su panel de Hogar.
+flavor=
+
+< CARD_BOSS_COOP_SHIVER_IN_THE_INVISIBLE_MURDEROUS_INTENT >
+name=Tiembla en un Asesinato sin Testigos
+descr=Marca 1 panel aleatorio por cada aliado activo. En 1 capítulo, Noquea a todos los jugadores en esos paneles y Quémalos.
+flavor=
+
+< CARD_BOSS_COOP_STAR_BLASTING_FUSE >
+name=Fusible Explota-Estrellas
+descr=Todas las otras unidades en un radio de 2 paneles serán dañadas (valor: Nivel del Jefe). Quema todos los paneles en un radio de 2 paneles.
+flavor=
+
+< CARD_BOSS_COOP_BE_CHARRED_IN_THE_BURNING_DEATH_CRISIS >
+name=Siente Cómo tu Cuerpo se Carboniza en una Crisis
+descr=Duración: 1 Capítulo. Al dañar a otra unidad en una batalla, todas las otras unidades recibirán la misma cantidad de daño en un radio de 1 panel.
+flavor=
+
+< CARD_BOSS_COOP_MELT_IN_THE_AZURE_FLAME >
+name=Disuélvete en las Llamas Azules
+descr=Hasta el fin del turno, todas las unidades con las que te encuentres serán dañadas (valor: Nivel del Jefe) y no te detendrás al desafiar a un enemigo. Los paneles sobre los que camines en este turno serán Quemados.
+flavor=
+
+< CARD_BOSS_COOP_STAR_BLASTING_LIGHT >
+name=Luz Explota-Estrellas
+descr=Quema 6-10 paneles aleatorios.
+flavor=
+
+< CARD_BOSS_COOP_LET_THE_SEA_OF_FLAME_EMBRACE_YOU >
+name=Deja que el Océano de Llamas te de un Abrazo
+descr=Quema 12-20 paneles aleatorios.
+flavor=
+
+< CARD_BOSS_COOP_SUFFER_FROM_THE_INEVITABLE_DEATH_CRISIS >
+name=Sufre al Ver Una Muerte Dolorosa e Inevitable
+descr=Todos los jugadores vivos serán Condenados: En 2 turnos, serás noqueado al comienzo de tu turno. El efecto se perderá al caer sobre un panel de Hogar.
+flavor=
+
+< CARD_BOSS_COOP_TAKE_YOUR_DYING_BREATH >
+name=Di Tus Últimas Palabras
+descr=Daña (valor: Número de Jugadores Con Vida) a todos los jugadores que se encuentren a más de 3 paneles de distancia del Jefe. Quema todos los paneles en un radio de 2 paneles de un aliado.
+flavor=
+
+< CARD_BOSS_COOP_ACCEPT_YOUR_DOOM >
+name=Acepta tu Condena
+descr=Un jugador vivo recibirá el efecto de Condena: En 2 turnos, serás Noqueado al comienzo de tu turno. El efecto se perderá al caer sobre un panel de Hogar. Quema todos los paneles de Hogar.
+flavor=
+
+< CARD_BOSS_COOP_BREAKER_ENRAGE >
+name=La Furia de la Trituradora
+descr=Sí la Creadora y la Destructora de Playas se encuentran noqueadas, recibes +1 ATK y +1 Daño realizado por todos los efectos de daño.
+flavor=
+
+< CARD_BOSS_COOP_BREAKER_ENRAGE_HYPER >
+name=La Furia de la Trituradora
+descr=Sí la Creadora y la Destructora de Playas se encuentran noqueadas, recibes +1 ATK y +1 Daño realizado por todos los efectos de daño. En 5 turnos, revive a la Creadora y a la Destructora con la mitad de sus PV.
+flavor=
+
+< CARD_BOSS_COOP_BABYSIT >
+name=Cuidadora
+descr=Quema todos los paneles en un radio de 2 paneles de la Destructora de Playas.
+flavor=
+
+< CARD_BOSS_COOP_TINKER >
+name=Reparo
+descr=Cura a todos tus aliados por 1 PV.
+flavor=
+
+< CARD_BOSS_COOP_PARTY_TIME >
+name=Hora de la Fiesta
+descr=Todas las unidades serán teletransportadas a un mismo panel. Acaba tu turno.
+flavor=
+
+< CARD_BOSS_COOP_PAY_ATTENTION >
+name=Pon Atención
+descr=Un jugador aleatorio recibirá un Efecto Guardado (1). Al caer sobre un panel de hogar, te teletransportarás al panel del Jefe.
+flavor=
+
+< CARD_BOSS_COOP_CRITICAL_FAILURE >
+name=Falla Crítica
+descr=Duración: 3 Capítulos. Cuando el dado de un enemigo cae en 1 para moverse, o en un panel de estrellas o pérdidas, recibirán 1 punto de daño.
+flavor=
+
+< CARD_BOSS_COOP_NO_BULLYING >
+name=¡Nada de abusones!
+descr=Duración: 2 Capítulos. Todos los enemigos reciben -1 ATK.
+flavor=
+
+< CARD_BOSS_COOP_MACHINIST >
+name=Maquinísta
+descr=Todos tus aliados reciben 2 PV.
+flavor=
+
+< CARD_BOSS_COOP_BRUTAL_TRAPS >
+name=Trampas Brutales
+descr=Todos los jugadores recibirán un Efecto Guardado (1). Al activar una trampa, descarta todas las cartas en mano.
+flavor=
+
+< CARD_BOSS_COOP_BACKDOOR_SCHEME >
+name=Esquema de Puertas Ocultas
+descr=Todos los jugadores recibirán un Efecto Guardado (1). Al tener 1 PV, pierdes Estrellas (Nivel x10). El efecto se perderá al ser noqueado.
+flavor=
+
+< CARD_BOSS_COOP_WARUDA_MACHINE >
+name=Máquina Waruda
+descr=En la próxima batalla, recibes ATK y DEF pero pierdes EVD por un valor equivalente a (Número de Cartas x 2) en la mano de tu oponente.
+flavor=
+
+< CARD_BOSS_COOP_POWER_OF_SCIENCE >
+name=El Poder de la Ciencia
+descr=Duración: 2 Capítulos. Todos tus aliados reciben +1 ATK, +1 DEF y +1 MOV.
+flavor=
+
+< CARD_BOSS_COOP_COMEUPPANCE >
+name=El Castigo Justo
+descr=Duración: 3 Capítulos. Cada vez que un aliado sea dañado, un jugador en el radio más cercano recibirá 2 puntos de daño.
+flavor=
+
+< CARD_BOSS_COOP_WATCH_OUT >
+name=Ten Cuidado
+descr=Duración: 3 Capítulos. Cuando el dado de un enemigo caiga en 5 o más al moverse, o en un panel de estrellas o pérdidas, recibirán 2 puntos de daño.
+flavor=
+
+< CARD_BOSS_COOP_BUILDER_ENRAGE >
+name=Enojo
+descr=Si la Destructora de Playas se encuentra noqueada, recibes +1 ATK y +1 MOV.
+flavor=
+
+< CARD_BOSS_COOP_BUILDER_ENRAGE_HYPER >
+name=Enojo
+descr=Si la Destructora de Playas se encuentra noqueada, recibes +1 ATK y +1 MOV. En 5 turnos, la Destructora será revivida.
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_HAMMER >
+name=El Martillo de Mimyuu
+descr=Coloca la trampa "El Martillo de Mimyuu" en el panel actual.
+flavor=
+
+< CARD_BOSS_COOP_PRANKSTER >
+name=Bromista
+descr=Añade una copia de El Martillo de Mimyuu a la mano de cada jugador. Duración: 1 Capítulo. Los jugadores recibirán 1 punto de daño cada vez que descarten una carta.
+flavor=
+
+< CARD_BOSS_COOP_ADVENTURE >
+name=Aventura
+descr=Teletransporta a todos los jugadores a un panel aleatorio. Si es un panel de Terror, reciben 1 punto de daño.
+flavor=
+
+< CARD_BOSS_COOP_HAMMER >
+name=¡Martillo!
+descr=Un jugador vivo en el radio más cercano recibirá 1 punto de daño.
+flavor=
+
+< CARD_BOSS_COOP_HMM >
+name=Hmm...
+descr=Efecto Guardado (1): La próxima habilidad que cause daño directo realizará daño adicional equivalente al Nivel del Jefe.
+flavor=
+
+< CARD_BOSS_COOP_EVIL_SPY_WORK >
+name=Plan Malévolo
+descr=Añade 2 copias de Plan Malévolo - Ejecución en la parte más alta del mazo.
+flavor=
+
+< CARD_BOSS_COOP_SNEAKILY >
+name=Sigilosamente
+descr=Duración: 2 Capítulos. No te podrán desafiar. Recibes +2 ATK al desafiar a un enemigo.
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_POWER >
+name=¡El Poder de Mimyuu!
+descr=Si hay otro Jefe en un radio de 2 paneles de la Destructora, un jugador vivo escogido de forma aleatoria recibirá 4 puntos de daño. Si esto no es posible, esta unidad recibirá 1 punto de daño.
+flavor=
+
+< CARD_BOSS_COOP_ENTERTAIN_MIMYUU >
+name=¡Entretén a Mimyuu!
+descr=Si no hay un jugador vivo en un radio de 2 paneles del Jefe, un jugador vivo escogido de forma aleatoria, y en el radio más lejano, será dañado (valor: PV del Jugador).
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_IS_BORED >
+name=¡Mimyuu Está Aburrida!
+descr=Coloca la trampa "¡Mimyuu Está Aburrida!" en 2-3 paneles aleatorios: "Recibes 4 puntos de daño."
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_IS_BORED_TRAP >
+name=¡Mimyuu Está Aburrida!
+descr=Recibes 4 puntos de daño.
+flavor=
+
+< CARD_BOSS_COOP_BIG_HAMMER >
+name=¡Martillo Grande!
+descr=Un jugador vivo en el radio más cercano será dañado (valor: Nivel del Jefe x 2).
+flavor=
+
+< CARD_BOSS_COOP_BORED_BORED_BORED >
+name=¡Aburrido! ¡Aburrido! ¡Aburrido!
+descr=Un jugador vivo escogido de forma aleatoria recibirá daño equivalente al Nivel del Jefe. Si este daño no noquea a ese jugador, este efecto será repetido dos veces.
+flavor=
+
+< CARD_BOSS_COOP_PRISON_BREAK >
+name=Escape de Prisión
+descr=Duración: 3 Capítulos. Recibes +2 EVD. Si no te han desafiado antes de que el efecto se haya acabado, recibes +1 ATK y DEF de forma permanente.
+flavor=
+
+< CARD_BOSS_COOP_GREMLIN_ENRAGE >
+name=El Enojo de la Destructora
+descr=Si la Destructora de Playas se encuentra noqueada, toma y usa una carta adicional cada turno.
+flavor=
+
+< CARD_BOSS_COOP_GREMLIN_ENRAGE_HYPER >
+name=El Enojo de la Destructora
+descr=Si la Destructora de Playas se encuentra noqueada, toma y usa una carta adicional cada turno. En 5 turnos, revive a la Creadora de Playas.
+flavor=
+
+
+
 < CARD_BOSS_COOP_HOME_SWEEPER >
-name=Busca-Hogares
+name=Buscahogares
 descr=Todos los hogares serán removidos por el resto de la partida.
 flavor=
 
@@ -1159,8 +1412,12 @@ flavor="¡Mimyuu! Quién te hizo esto..." ―Tomato
 < CARD_HYPER_COOP_CLASS_DEALER >
 name=Juegos Veraniegos
 descr=Durante este turno, trata todos los paneles como si fueran paneles de cartas dobles.
-flavor=
+flavor="¡Aún no! ¡Aún no he perdido!" -Peat
 
+< CARD_HYPER_COOP_CLASS_VANGUARD >
+name=La Vanguardia de la Playa Ardiente
+descr=Tú y todos tus aliados enviarán todos los efectos al Jefe o a sus secuaces. Todos tus aliados reciben 2 PV.
+flavor="¡Hay que unir nuestras fuerzas!" -Saki\n"¡OK! ¡Hora de la fusión!" -Kae
 
 
 < CARD_SKILL_COOP_ADVANTAGE >
@@ -1281,4 +1538,29 @@ flavor=
 < CARD_SKILL_COOP_DEMAND >
 name=Demanda
 descr=Trata al próximo panel como uno de Cartas.\nEnfriamiento: 6 capítulos.
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_REINFORCE >
+name=Fortalecer
+descr=Lucha por un aliado la próxima vez que sean desafiados o caigan en un panel del Jefe. Recibes +1 ATK, DEF y EVD durante la batalla. Si sobrevives, ese aliado recibe +1 ATK, DEF y EVD. Si eres noqueado, ese aliado recibe +1 ATK. -1 MOV mientras este efecto se encuentre activo.
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_DEFENSEBOOST >
+name=Mejora de Defensa
+descr=Norma 2: DEF +1
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_HPEVASIONBOOST >
+name=Mejora de Vida & Evasión
+descr=Norma 4: Máx. PV +1, EVD +1
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_INTERCEPT >
+name=Interceptar
+descr=(Fortalece la Batalla) Si sobrevives a esta batalla, la batalla contra el aliado fortalecido será omitida.\nEnfriamiento: 8 Capítulos.
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_BOLSTER >
+name=Mejorar
+descr=Envía todos los efectos activos del jugador seleccionado al Jefe o a sus secuaces. Ese jugador recibe +1 PV, y +1 PV por cada efecto enviado. Si el jugador seleccionado no tiene efectos colocados por el Jefe o sus secuaces, coloca el efecto de Limpieza de Aura, previniendo el próximo efecto recibido por el Jefe o sus secuaces.\nEnfriamiento: 5 Capítulos.
 flavor=

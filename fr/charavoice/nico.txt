@@ -1,0 +1,171 @@
+<0000> Eeey !
+<0001> Allez !
+<0002> Nnnh !
+<0003> Saaï !
+<0004> Nico a le droit de s'en servir ?
+<0005> Nico veut la jouer !
+<0006> Nico joue cette carte !
+<0007> Elle a l'air bien...
+<0008> Youpi ! Nico adore tendre des pièges !
+<0009> Héhéhé... Ça va juste là.
+<0010> Héhé, voilà un piège.
+<0011> Nico... pose ça... là ! ...Voilà.
+<0012> Ça peut rendre Nico plus forte ?
+<0013> Nico va faire de son mieux !
+<0014> Ouah, Nico se sent encore plus forte !
+<0015> Nico va s'en servir ! Oui, elle va s'en servir !
+<0016> Nico peut faire des miracles !
+<0017> Nico a envie de continuer à jouer.
+<0018> Raah ! C'est la dernière fois que Nico perd !
+<0019> Nico a pas encore perdu.
+<0020> Fini de se reposer, maintenant !
+<0021> Hiiin ! Nico a envie de jouer...
+<0022> Grrr...! C'est pas possible !
+<0023> Nico doit encore se reposer...?
+<0024> C'est nul ! Super trop nul !
+<0025> Taah !
+<0026> Boum !
+<0027> Waï !
+<0028> Yah !
+<0029> Kyan !
+<0030> C'est pas gentil...
+<0031> Hiiin...
+<0032> Nooon !
+<0033> Nico se sent beaucoup mieux.
+<0034> Nico aime beaucoup !
+<0035> Ça réchauffe...
+<0036> Nico se sent en pleine forme !
+<0037> Ouaah !
+<0038> Hiii ! Ça fait peur !
+<0039> Kyaa ! Où est Nico !?
+<0040> Un portail !?
+<0041> Nico a plus envie de jouer...
+<0042> Hiiiin...
+<0043> Snif... snif...
+<0044> C'est horrible... C'est trop horrible...
+<0045> Au combat !
+<0046> Nico va t'écraser.
+<0047> Viens, on va se battre !
+<0048> Prépare-toi !
+<0049> Nico veut pas se blesser !
+<0050> Nnnh ! Nico va pas perdre.
+<0051> Il faut qu'on se batte ?
+<0052> Hiiin... V-viens te battre !
+<0053> Ey-ey !
+<0054> Et bim !
+<0055> Eeey !
+<0056> Yahh !
+<0057> Ouah !
+<0058> Tu fais quoi, là !?
+<0059> Aïe !
+<0060> Kyaa !
+<0061> Ça fait super mal !!
+<0062> Aïe ! Aaïe !
+<0063> Hiaaan !
+<0064> T'es vraiment horrible !!
+<0065> Nico a failli y passer !
+<0066> Nico doit l'esquiver !
+<0067> Hiiii !
+<0068> Hein ? T'as raté ?
+<0069> Hm-hmmm !
+<0070> Victoire ! Victoire !
+<0071> Vraiment désolée, tout va bien ?
+<0072> Ça devient amusant.
+<0073> Snif... snif...
+<0074> Ouiiiin ! ...Bleh.
+<0075> Grrr...
+<0076> C'est quoi ton problème...?
+<0077> Ouiii ! Des étoiles !
+<0078> Nico est trop contente !
+<0079> Hiii, Nico peut pas en porter autant !
+<0080> C'est magnifique... ♥
+<0081> Non ! Elles sont tombées !!
+<0082> Elles vont où, là !? Attendez !
+<0083> Non ! Pourquoiii ?
+<0084> Ouin... Nico est triste...
+<0085> Hiii ! Ça fait peur !
+<0086> Grrrr ! Nico s'est encore fait avoir !
+<0087> Un piège !? Hiiiin !
+<0088> Qui a posé son piège ici !? Lâche !!
+<0089> Hiiiiiii !
+<0090> Hiiin ! Il fait super peur !
+<0091> Hein ? Heiin ? Personne a prévenu Nico !
+<0092> Ouiiiiin ! Nico veut rentrer à la maison !
+<0093> Nico veut toute une guirlande d'étoiles !
+<0094> Nico veut ça !
+<0095> Héhé, rien de plus facile pour Nico !
+<0096> On va en trouver plein plein !
+<0097> Nico doit bien s'entraîner un peu !
+<0098> Des combats ? Nico espère pouvoir se battre...
+<0099> Nico peut y arriver si elle fait de son mieux !
+<0100> Nico a vraiment très envie de jouer !
+<0101> Nico !
+<0102> Allons-y ! Nico va faire de son mieux !
+<0103> Tu veux jouer avec Nico ? Bon, si tu veux.
+<0104> Ok, allons jouer !
+<0105> Vivement qu'on joue !
+<0106> Nico a vraiment hâte.
+<0107> Hmm... Nico a vraiment envie de gagner.
+<0108> Ouah ! Il y a tellement de monde !
+<0109> Nico a gagné ! Youpiii !
+<0110> Oui ! On a réussi ! Hourra !
+<0111> Héhéhé, on a gagné ! C'était génial !
+<0112> Hé, Nico voulait encore jouer ! Allez, une autre !
+<0113> Hé, c'est pas ça que tu voulais, justement ?
+<0114> Oh, ça sent la bonne surprise ! Nico a hâte de voir !
+<0115> Ok ! Nico a comme l'impression\nque c'est la bonne, cette fois !
+<0116> Oh, ça a vraiment l'air génial ! Tant mieux !
+<0117> On peut échanger, dit ?
+<0118> Nico est fatiguée.
+<0119> Bon, ok, tu peux jouer, si veux.
+<0120> C'est le moment !
+<0121> Ok !
+<0122> Ouii !
+<0123> D'accord !
+<0124> Non !
+<0125> Rah, zut !
+<0126> Hihi, la chance !
+<0127> Hein ?
+<0128> Allez, on y va !
+<0129> Roule, petit dé !
+<0130> Youpi !
+<0131> Bonjour ! Comment ça va ?
+<0132> Hmmmm...
+<0133> Bravo !
+<0134> Ouah, génial ! Super impressionnant !
+<0135> Arrête-euh ! Grrr...
+<0136> Nico a choisi d'utiliser cette carte !
+<0137> Hihi ! Cette carte Hyper est même pas à Nico !
+<0138> Nico peut utiliser n'importe quelle carte !
+<0139> Et cette carte, on peut s'en servir ? Nico l'utilise, alors !
+<0140> Hein !? Qu'est-ce que tu fais là ?
+<0141> Grrr ! Puisque c'est ça, on va se battre !
+<0142> Hé, c'est quoi ton problème !
+<0143> Nico n'est plus une enfant !
+<0144> P-pardon...
+<0145> Mère Noël ! Nico veut une revanche !
+<0146> Hiii ! Nico a rien fait de mal, promis !
+<0147> Hihi, Nico a gagné contre Mère Noël !
+<0148> Hiiin... Nico a encore perdu...
+<0149> Ouah ! Trop jolie ! C'est une princesse !
+<0150> Elle est trop belle... Nico voudrait être comme elle.
+<0151> C'est quoi votre secret ?\nNico adorerait devenir comme vous...
+<0152> Kyaaa ! Le monsieur il est bizarre ! Hiii !!
+<0153> Alerte de sécurité !! Bubiiii !!
+<0154> Un satyre ! Nico a peur !!
+<0155> Le monsieur il fait peur... il est nu ! Nico doit s'enfuir !
+<0156> Il y a tellement de monde, aujourd'hui !
+<0157> Nico va faire un cadeau à tout le monde !
+<0158> Le grand jour est proche, Nico a tellement hâte !
+<0159> Hihihi, vous savez quel jour on est, aujourd'hui ?
+<0160> Soyez la bienvenue !
+<0161> Ravie de vous voir à notre boutique !
+<0162> Vous l'aimez bien ? Non ?\nNico espère que vous en prendrez soin.
+<0163> Veuillez ne pas vous en plaindre.
+<0164> Oh, c'est une belle prise !
+<0165> Ah, c'est un des meilleurs !
+<0166> Oh, ne faites pas cette tête.\nTenez, c'est en compensation !
+<0167> *soupir* Plus le choix, alors...\nVoilà une offre spéciale rien que pour vous.
+<0168> Oh, c'est vraiment rare, ça !
+<0169> Quelle chance incroyable !
+<0170> Joyeux Noël !

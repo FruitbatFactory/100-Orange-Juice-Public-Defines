@@ -235,11 +235,11 @@ name=Melancia
 descr=Foi salva da fúria da Fera do Verão.
 
 <PET_FUNKYFUNGUS>
-nome = Fungo BIzarro
+nome = Fungo Bizarro
 descr = Um fungo em tempos difíceis.
 
 <PET_ROBOCRAB>
-nome = Robo caranguejo
+nome = Robo Caranguejo
 descr = Tem os movimentos.
 
 <PET_PONYCORN>
@@ -293,3 +293,103 @@ descr = Está adormecido há muitos ouvidos compridos.
 < PET_MASHIRO >
 name=Masshiro
 descr=Não mais sortudo.
+
+< PET_MARKETABLESUGURIPLUSHIE >
+name=Pelúcia Suguri Comercializável
+descr=Ser uma pelúcia comercializável é de boa, na verdade.
+
+< PET_MINIEPOPPO >
+name=Minie Poppo
+descr=Roubando seu coração mais uma vez.
+
+< PET_COMPACTSORA >
+name=Sora Compacta
+descr=Eficiente em todas as formas.
+
+< PET_STABU >
+name=Stabu
+descr=Vem com um sininho.
+
+< PET_PLUSHQP >
+name=QPelúcia
+descr=É uma cadelinha fofucha!
+
+< PET_HUGGYHIME >
+name=Hime Abraçável
+descr=Vai te apertar bem forte.
+
+< PET_SMOLSAKI >
+name=Saki Pequenina
+descr=Vem com um Bang Bell Pequenino.
+
+< PET_RAREREPA >
+name=Repa Rara
+descr=É raro ganhar uma Repa rara assim.
+
+< PET_TRAVELARU >
+name=Aru Viajante
+descr=Você pode levá-la pro mundo todo.
+
+< PET_MINIATUREMARC >
+name=Marc Miniatura
+descr=Piloto em escala 1/16.
+
+< PET_ALTEHUGTOY >
+name=Brinquedo de Abraço Alte
+descr=Seja gentil com ela.
+
+< PET_COMFORTTOMOMO >
+name=Tomomo de Conforto
+descr=A edição suprema do produto mais luxuoso de 100% Orange Juice, agora disponível por um tempo li-
+
+< PET_DARKNESSKRILA >
+name=Krila da Escuridão
+descr=A mestra se tornou na pelúcia.
+
+< PET_LUCKYLULU >
+name=Lulu Sortuda
+descr=Lhe dá boas fortunas em suas viagens.
+
+< PET_SUMIKAPLUSHIE >
+name=Sumika v0.2
+descr=Uma Sumika um pouco menor ainda é Sumika.
+
+< PET_GOGOKAE >
+name=Vá Vá Kae
+descr=Te manterá seguro de noite.
+
+< PET_BUDGETKAI >
+name=Kai Econômico
+descr=Você pode tê-lo por um conto.
+
+< PET_STEALTHYTSIH >
+name=Tsih Furtiva
+descr=Fala em nano-nanoras.
+
+< PET_SWEEBO >
+name=Sweebo
+descr=Uma criança amada possui diversos nomes.
+
+< PET_MINIMIO >
+name= Mini Mio
+descr=Uma pelúcia premium deliciosamente diabólica.
+
+< PET_POCKETCOACH >
+name=Instrutor de Bolso
+descr=Lições de natação disponíveis a qualquer momento e onde estiver.
+
+< PET_OWNGOAL >
+name=Próprio Objetivo
+descr=Um troféu para te lembrar dos seus maiores momentos.
+
+< PET_WATERBALLONJERK >
+name=Balão de Água
+descr=Não jogue em outras pessoas a não ser que elas sejam babacas.
+
+< PET_HANDRINGER >
+name=Sino de Mão
+descr=Vai manter sua mão boiando em uma banheira.
+
+< PET_HARBY >
+name=Harby
+descr=Ameace seus amigos hoje mesmo com este companheiro misterioso.

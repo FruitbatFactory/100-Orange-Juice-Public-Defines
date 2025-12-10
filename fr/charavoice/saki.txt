@@ -1,0 +1,165 @@
+<0000> Eey !
+<0001> J'envoie !
+<0002> Hop !
+<0003> Et c'est parti !
+<0004> C'est le bon moment pour une carte !
+<0005> Une carte !
+<0006> Ta-daaaa !
+<0007> Je joue celle-là !
+<0008> Hé-hé-hé... Un piège !
+<0009> Je mets le piège juste ici...
+<0010> Héhéhé... je pose un piège !
+<0011> On va voir ce que ça donne !
+<0012> J'augmente mes pouvoirs !
+<0013> Je ferai tout pour gagner !
+<0014> Ok, c'est parti !
+<0015> Carte combat !
+<0016> Cloche du Big Baaaang !
+<0017> Nghh... Plus le temps de pioncer !
+<0018> Je dois me relever au plus vite !
+<0019> C'est reparti pour un tour !
+<0020> Nuooh ! Je vais me rattraper !
+<0021> Mauu... j'ai pas réussi...
+<0022> Ouiin, je me suis ratée !
+<0023> Aouch...
+<0024> Ça a pas marché...!
+<0025> À l'attaque !
+<0026> Attaque !
+<0027> Je vais faire ça vite et bien !
+<0028> Eryah !
+<0029> Mau !
+<0030> Ça fait mal !
+<0031> Naaaa !
+<0032> Ouiiin...
+<0033> Du soin !
+<0034> Une énergie chaleureuse !
+<0035> Je me sens à bloc !
+<0036> Je suis pleine d'énergie !
+<0037> Hiiii ! Je vais où, moi !?
+<0038> Je m'envole !
+<0039> Tu peux me déposer dans un coin tranquille ?
+<0040> J'ai la tête qui tourne...
+<0041> Mau... J'en peux plus...
+<0042> Je... j'y arrive plus...
+<0043> Zzz...
+<0044> C'est... c'est mauvais pour moi...!
+<0045> Vas-y ! Prépare-toi !
+<0046> Tu veux bien mourir vite fait ? ...Je plaisante !
+<0047> Sur ce, que le combat commence !
+<0048> Je vais régler ça vite et bien !
+<0049> Hein, hein ? Faut qu'on se batte ?
+<0050> Hii ! Je suis pas prête, moi !
+<0051> Ok, vas-y, approche !
+<0052> Pas question que je perde !
+<0053> Mauryaah !
+<0054> Hop !
+<0055> Tey tey !
+<0056> Poï poï !
+<0057> Mau !!
+<0058> Nya !
+<0059> Aïe !
+<0060> Argh !
+<0061> Mau mau !!
+<0062> Ça fait super mal !!
+<0063> Hyoeeeh !
+<0064> Oh nooon !!
+<0065> J'évite !
+<0066> Esquive !
+<0067> Hiii ! J'ai failli y passer !
+<0068> Ouah ! Attention !
+<0069> Je remporte la victoire ! Héhé !
+<0070> Victoire facile !
+<0071> Oh non, tu n'es pas blessé, au moins ?
+<0072> Héhé... Vite fait, bien fait !
+<0073> Mauee...
+<0074> Hmm...
+<0075> Oh, j'ai perdu...
+<0076> Je t'avais demandé d'y aller mollo...
+<0077> Ouah ! Des étoiles !
+<0078> Ça scintille ! J'aime trop quand ça fait ça !
+<0079> Tout plein d'étoiles !
+<0080> J'suis trop contente !
+<0081> Aaahh ! Mes étoiles !
+<0082> Qu'est-ce que...!?
+<0083> Nooon ! J'en ai fait tomber !
+<0084> Hé, non ! Attendez !
+<0085> H-hein ? Il y avait un piège, ici !?
+<0086> Hé, oh ! Qui a mis ce piège !?
+<0087> Argh ! Je déteste les pièges !
+<0088> Kyaaah !
+<0089> Oh-oh, ça sent le danger, par ici...
+<0090> Ça risque d'être compliqué...
+<0091> J'aurais dû garder mes distances...
+<0092> Je sens quelque chose d'énorme qui s'approche...
+<0093> Je vais trouver des étoiles ! Je sais m'y prendre !
+<0094> J'espère que je vais trouver plein d'étoiles !
+<0095> Les étoiles sont si belles... j'en veux plein !
+<0096> C'est toujours amusant de collectionner...
+<0097> J'ai comme une envie de me battre...!
+<0098> Je voudrais tout plein de victoires !
+<0099> C'est satisfaisant de remporter un combat.
+<0100> Des fois, c'est bien la seule solution !
+<0101> Mauu, enchantée !
+<0102> Je m'appelle Saki !
+<0103> Je ferai de mon mieux !
+<0104> Héhéhé, je vais gagner vite fait, tu vas voir.
+<0105> Et ça commence !
+<0106> On peut y aller !
+<0107> Go ! Go !
+<0108> Allez, on va faire de notre mieux !
+<0109> Ça y est ! J'ai réussi !
+<0110> Je savais que j'y arriverais !
+<0111> Youpi ! Pour fêter ça, je vais faire des pâtisseries !
+<0112> Ce soir, on fait la fête tous ensemble !
+<0113> Objet obtenu !
+<0114> Avec ça, on est plus forts !
+<0115> Tu trouves ce que tu cherches ?
+<0116> C'est ce que tu voulais ? Génial !
+<0117> Tu peux prendre ma place ?
+<0118> Je veux bien échanger, si possible !
+<0119> Je crois en toi !
+<0120> Je vais me poser un peu, si tu le permets.
+<0121> C'est chouette !
+<0122> C'est génial !
+<0123> Oui !
+<0124> Non !
+<0125> C'est pas bon, ça...
+<0126> Quelle chance !
+<0127> Hmm ?
+<0128> Allez ! Faisons de notre mieux !
+<0129> J'envoie les dés !
+<0130> On est partis !
+<0131> Bonjour !
+<0132> Hmm...
+<0133> Super !
+<0134> Incroyable !
+<0135> Mauuuu...
+<0136> Hein ? J'ai vraiment le droit ?
+<0137> Je connais pas bien cette carte, mais je vais l'essayer !
+<0138> Ça fait bizarre d'utiliser le pouvoir de quelqu'un d'autre.
+<0139> Je me permets d'emprunter ton pouvoir !
+<0140> Ouah ! Merci, merci beaucoup.
+<0141> Un combat pour les sucreries ! Allez !
+<0142> Ah, c'est toi, Sweebo !
+<0143> Héhé, 'faut croire que je suis une meilleure déesse.
+<0144> Tu es vraiment douée, Sweebo...
+<0145> Attention, Q ! J'arrive !
+<0146> Vas-y, Q ! Viens te battre !
+<0147> C'était tendu ! Je te ferai un pudding, la prochaine fois !
+<0148> T'es super balèze, Q !\nOn devrait aller manger du pudding ensemble !
+<0149> C-c'est... une sucrerie légendaire...
+<0150> Mais... tu es...!!
+<0151> Hiii ! Je vais avoir du mal à l'affronter !
+<0152> *soupir* J'étais nerveuse pour plein de raisons...
+<0153> Je me vois pas gagner une fois contre lui...
+<0154> Sache que tu peux être fier de ton boulot !
+<0155> J-je sens qu'une catastrophe a lieu en ce moment même...!
+<0156> Des Idols...!
+<0157> Sweet Eater...!
+<0158> C'est la présence de Guardian...!
+<0159> Le combat des Déesses du Sucre... a commencé !
+<0160> Hmmmm~♪　Mau~mau~♪
+<0161> Mauuuuuuuryaaaaaaaah !
+<0162> Tombe par terre et dooooors !
+<0163> Toooombe eeen eeenfeer !!
+<0164> Et fais de beaux rêves ♥

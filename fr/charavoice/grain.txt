@@ -1,0 +1,161 @@
+<0000> Comme ceci.
+<0001> Maintenant.
+<0002> Hop.
+<0003> Hmph.
+<0004> C'est pour l'avenir.
+<0005> Je n'ai pas le droit à l'erreur.
+<0006> Je suis prêt.
+<0007> Hmm... le moment semble propice.
+<0008> Cela leur apprendra à rester vigilants.
+<0009> Que dites-vous de ceci ?
+<0010> Soyez vigilants.
+<0011> Il n'y a pas de mal à attaquer par surprise.
+<0012> Je vais faire du mieux que possible.
+<0013> Pas d'hésitation !
+<0014> Faisons de notre mieux.
+<0015> Hrmm... celle-là !
+<0016> Paré à tirer... FEU !
+<0017> Assez traîné ainsi.
+<0018> Je suis prêt à repartir.
+<0019> Faites chauffer les moteurs, nous redécollons.
+<0020> L'inspection est terminée, retournez à vos postes.
+<0021> Je nécessite plus de temps...
+<0022> Qui va lentement va sûrement.
+<0023> Les réparations ne doivent présenter\naucune imperfection.
+<0024> C'est humiliant...
+<0025> En avant !
+<0026> Maintenant !
+<0027> Cible en vue !
+<0028> Feu !
+<0029> Je subis des dégâts !
+<0030> Une attaque ennemie ?!
+<0031> Ugoh...
+<0032> Un piètre problème.
+<0033> Bien.
+<0034> Voilà qui est doux.
+<0035> O-ooh...
+<0036> C'est fort agréable.
+<0037> Dépêchez-vous de trouver notre nouvelle position.
+<0038> La tempête nous fait perdre le contrôle !
+<0039> N-nguh...
+<0040> Nous entrons en zone de turbulences.
+<0041> Ce n'était pas dans mon plan...
+<0042> Mon âge me pèse sur le dos.
+<0043> Battons en retraite.
+<0044> Je vais devoir réviser ma stratégie.
+<0045> Nul obstacle ne saurait résister bien longtemps.
+<0046> Tu ne fais pas le poids.
+<0047> Puisse ce combat te servir de leçon.
+<0048> Ça suffit comme ça.
+<0049> Ma foi, tu as du cran.
+<0050> Pourquoi me dérange-t-on ?
+<0051> Hm...?
+<0052> Une attaque surprise...
+<0053> Rends les armes.
+<0054> Tir de barrage !
+<0055> Feu !
+<0056> J'attaque !
+<0057> Mhm.
+<0058> Hmm !
+<0059> Oumph !
+<0060> Guoh.
+<0061> Impensable !
+<0062> Argh !
+<0063> J'encaisse de lourds dégâts...!
+<0064> Enclenchez le protocole de dégâts !
+<0065> Apprends de cette erreur.
+<0066> Entraîne-toi à viser.
+<0067> Aucun dégât reçu.
+<0068> Esquive réussie.
+<0069> Tout n'est que question de maîtrise.
+<0070> J'espère que tu as pu apprendre une chose ou deux.
+<0071> Tu manques de discipline.
+<0072> Quel dommage.
+<0073> La victoire t'appartient.
+<0074> C'est fini.
+<0075> Je n'en crois pas mes yeux.
+<0076> Tu peux continuer.
+<0077> Je tâcherai de bien m'en servir.
+<0078> Finance acquise.
+<0079> Magnifique.
+<0080> Un son agréable.
+<0081> Coup de malchance...!
+<0082> Misère, on me vole !
+<0083> Impossible !
+<0084> Quel désastre...
+<0085> J'ai fait une erreur.
+<0086> Canaille !
+<0087> Uohh !
+<0088> Comment ?!
+<0089> Un adversaire colossal.
+<0090> Je dois agir avec prudence.
+<0091> J'espère m'être suffisamment\npréparé pour ce combat.
+<0092> Mon instinct me met en alerte.
+<0093> Plus de budget sera nécessaire.
+<0094> Les étoiles sont comme une vieille amie.
+<0095> La gestion des ressources fait partie de mon métier.
+<0096> Je suis expert en finances.
+<0097> Je ne suis certes plus très jeune, cependant...
+<0098> C'est dans mes fonctions.
+<0099> Combattre est dans mes habitudes.
+<0100> On ne combat pas toujours par choix.
+<0101> Mon expérience compense ma vieillesse.
+<0102> Fort bien. Je te guiderai jusqu'à la victoire.
+<0103> Moi ? Eh bien, ma foi, pourquoi pas.
+<0104> Ainsi, mon expertise est encore sollicitée.
+<0105> Je m'affaire de cette bataille.
+<0106> Chaque projet se doit d'être exécuté sans fautes.
+<0107> Je n'ai pas l'intention de traîner.
+<0108> Pratiquons notre stratégie en temps réel.
+<0109> Tout s'est déroulé comme prévu.
+<0110> Bilan mitigé. Je tâcherai de faire mieux la prochaine fois.
+<0111> Levons nos verres à cette victoire.
+<0112> Je n'ai vraisemblablement pas perdu la main.
+<0113> La récompense d'un travail accompli.
+<0114> Une récompense appropriée.
+<0115> Une belle découverte.
+<0116> Cela peut être utile.
+<0117> J'espère que tu as appris de mon exemple.
+<0118> Je te laisse en charge de la suite des opérations.
+<0119> Vite, à toi de jouer !
+<0120> Tu es prêt ? Prends le relai.
+<0121> Entendu.
+<0122> Excellent.
+<0123> Fort bien.
+<0124> Je suis désolé, mais je refuse.
+<0125> Mes condoléences.
+<0126> La chance nous sourit.
+<0127> Étonnant...
+<0128> Le moment est venu.
+<0129> Jetons le dé.
+<0130> Préparations terminées.
+<0131> Salutations.
+<0132> Hmm...?
+<0133> Du beau travail.
+<0134> Extraordinaire !
+<0135> Bon sang !
+<0136> Je pense avoir compris l'essentiel.
+<0137> Voilà qui devrait me donner l'avantage.
+<0138> Je fais ça pour triompher...
+<0139> Aux grands maux les grands remèdes.
+<0140> Mes remerciements.
+<0141> C'est donc là que nous réglerons nos comptes.
+<0142> Puis-je vous déranger un instant ?
+<0143> Est-ce là un exercice ?
+<0144> Vous devez vous reprendre, monsieur.
+<0145> Vous avez certes triomphé,\nje ne vous dois pas un verre pour autant.
+<0146> Décidemment, le destin nous oppose encore une fois.
+<0147> Je te prie d'arrêter de m'appeler ainsi.
+<0148> La victoire me revient, cette fois.
+<0149> Je vois... Rien ne pourra t'arrêter.
+<0150> J'ai encore besoin de votre talent.
+<0151> Fort bien. Je vous apporterai mon aide comme je le peux.
+<0152> Un travail irréprochable.
+<0153> Continue comme ça.
+<0154> Oh, seigneur.
+<0155> Je n'ai jamais vu pire.
+<0156> Tu es une importante menace pour la sécurité.
+<0157> La mèche étincelante... aurais-je échoué ?
+<0158> Cela est bien mystérieux.
+<0159> Je me suis longuement préparé pour cet instant.
+<0160> Tous les canons sont chargés.

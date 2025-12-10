@@ -292,3 +292,103 @@ descr=耳朵都睡长了。
 < PET_MASHIRO >
 name=真白
 descr=不再不幸。
+
+< PET_MARKETABLESUGURIPLUSHIE >
+name=可商品化的须玖莉玩偶
+descr=成为一个可商品化的玩偶其实也挺不错的。
+
+< PET_MINIEPOPPO >
+name=迷丽啵噗
+descr=再次偷走你的心。
+
+< PET_COMPACTSORA >
+name=小型优空
+descr=无论哪种形态都要保持高效。
+
+< PET_STABU >
+name=小小星破
+descr=身边伴着小调。
+
+< PET_PLUSHQP >
+name=QP玩偶
+descr=松松软软的小狗狗！
+
+< PET_HUGGYHIME >
+name=抱抱姬梦
+descr=她能把你抱得紧紧的。
+
+< PET_SMOLSAKI >
+name=小不点纱季
+descr=带着一个小不点爆炸铃。
+
+< PET_RAREREPA >
+name=稀有蕾帕
+descr=能得到一个这么稀有的蕾帕可是很稀有的。
+
+< PET_TRAVELARU >
+name=旅行亚琉
+descr=你可以带她前往任何地方。
+
+< PET_MINIATUREMARC >
+name=缩微玛儿
+descr=1:16比例的飞行员。
+
+< PET_ALTEHUGTOY >
+name=阿露特抱抱玩具
+descr=对她好一点。
+
+< PET_COMFORTTOMOMO >
+name=舒适兔萌萌
+descr=最豪华的《100%鲜橙汁》终极周边，现在订购仅需——
+
+< PET_DARKNESSKRILA >
+name=黑暗克里拉
+descr=主人也变成了玩偶。
+
+< PET_LUCKYLULU >
+name=幸运露露
+descr=为你的旅途带来好运。
+
+< PET_SUMIKAPLUSHIE >
+name=栖海花v0.2
+descr=小一点的栖海花也是栖海花。
+
+< PET_GOGOKAE >
+name=勇往直前佳爱
+descr=在夜里守护你的小伙伴。
+
+< PET_BUDGETKAI >
+name=廉价版凯
+descr=一张谕吉就可以带回家。
+
+< PET_STEALTHYTSIH >
+name=隐匿杏
+descr=说话的时候也会用小小的了啦。
+
+< PET_SWEEBO >
+name=小小甜破
+descr=受人喜爱就会有很多绰号。
+
+< PET_MINIMIO >
+name=迷你魅樱
+descr=坏坏的高级玩偶。
+
+< PET_POCKETCOACH >
+name=口袋教练
+descr=随时随地教你游泳。
+
+< PET_OWNGOAL >
+name=私人浮标
+descr=谁主沉浮？
+
+< PET_WATERBALLONJERK >
+name=水球力士
+descr=他现在有了水的力量。
+
+< PET_HANDRINGER >
+name=手环圈套
+descr=他能在浴缸里助你一臂之力。
+
+< PET_HARBY >
+name=小噩
+descr=带着这个神秘小伙伴去吓吓你的朋友吧。

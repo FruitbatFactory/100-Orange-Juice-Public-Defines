@@ -26,7 +26,7 @@ Pool Party
 School Crashers
 
 < EVENTNAME_CHAOS_MODE >
-Chaos Mode
+Fool's Gambit
 
 < EVENTNAME_S3_TAGTEAM_MODE >
 Extracurricular Crisis
@@ -36,5 +36,14 @@ Memory Menders
 
 < EVENTNAME_POPPO >
 Poppo Event
+
+< EVENTNAME_OPERATION_HALLOWEEN >
+Operation Halloween
+
+< EVENTNAME_SUMMER2025 >
+Triple Trouble
+
+< EVENTNAME_WINTER2025 >
+Clubroom Challengers
 
 [EOF]

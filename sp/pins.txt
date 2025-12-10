@@ -6,22 +6,22 @@ artist=
 < PIN_FLYING_SUGURI >
 name=Suguri Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Suguri.\n¡Siempre acelerando en el cielo!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KAI >
 name=Kai Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Kai.\n¿Podrá algún día recuperar su billetera?
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_QP >
 name=QP Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como QP.\nSiempre llevando pudín.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MARC >
 name=Marc Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Marc.\nElla nunca se irá sin su avión.
-artist=Sora
+artist=Azurée
 
 < PIN_FACTORY >
 name=Fruitbat Naranja
@@ -41,259 +41,305 @@ artist=Yulay Devlet
 < PIN_FLYING_HIME >
 name=Hime Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Hime.\nNo debes subestimar las cadenas de la guardiana.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_FERNET >
 name=Fernet Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Fernet.\n¿Te gustaría tomar una taza de té?
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_YUKI >
 name=Yuki Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Yuki.\n¿Y qué si apostamos nuestras vidas?
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_POPPO >
 name=Poppo Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Poppo.\nLa prueba de un conocimiento supremo sobre el juego.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ARU >
 name=Aru Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Aru.\n¡En camino a repartir los regalos!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SORA >
 name=Sora Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Sora.\nSiempre ha luchado para ver el cielo azul una vez más...
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_PEAT >
 name=Peat Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Peat.\nEs posible que aun esté intentando derrotar al Barril Rojo.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TOMOMO >
 name=Tomomo Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Tomomo.\nVerdaderamente mágica.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SYURA >
 name=Syura Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Syura.\nTambién puede ir más allá de la belleza.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_NANAKO >
 name=Nanako Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Nanako.\n¡No la llames pequeña!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SAKI >
 name=Saki Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Saki.\n¿Te gustaría comer una galleta?
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KYOUSUKE >
 name=Kyousuke Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Kyousuke.\nEn busca de ese alguien tan especial.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KRILA >
 name=Krilalaris Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Krilalaris.\nVolando hacia la oscuridad eterna.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KAE >
 name=Kae Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Kae.\nSiempre colocando la carta de Temperatura al 300% en su mazo.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ALTE >
 name=Alte Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Alte.\nEste pin no se autodestruirá al ser usado.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KYOKO >
 name=Kyoko Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Kyoko.\n¡Mantenlo frío!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SHAM >
 name=Sham Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Sham.\n¡La operadora más bonita!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SHERRY >
 name=Sherry Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Sherry.\nVolando libremente.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SWEETBREAKER >
 name=Sweet Breaker Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Sweet Breaker.\n¡En el proceso de derretir memorias!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_STARBREAKER >
 name=Star Breaker Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Star Breaker.\nCuidado con sus explosiones.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_NATH >
 name=Nath Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Nath.\nLa vida perezosa es la mejor...
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TOMATOMIMYUU >
 name=Tomato & Mimyuu Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Tomato & Mimyuu.\n¡Las mejores bromistas!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KIRIKO >
 name=Kiriko Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Kiriko.\nSerá mejor que te mantengas saludable.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_NONAME >
 name=NoName Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como NoName.\n¡No pierdas la cabeza!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TEQUILA >
 name=Tequila Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Tequila.\n¡El pirata que debes ser!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TSIH >
 name=Tsih Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Tsih.\n¡No la pierdas de vista!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MIUSAKI >
 name=Miusaki Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Miusaki.\nEste pin tampoco puede romperse.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_REPA >
 name=Ceoreparque Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Ceoreparque.\n¡Ten cuidado con su abundante cabello!
-artist=Sora
+artist=Azurée
 
 < PIN_IDLE_MEI >
 name=Mei Inactiva
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Mei.\n¡Vamos a hacer mucho ruido!
-artist=Sora
+artist=Azurée
 
 < PIN_IDLE_NATSUMI >
 name=Natsumi Inactiva
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Natsumi.\n¿Te gustaría quedarte a cenar?
-artist=Sora
+artist=Azurée
 
 < PIN_IDLE_ARTHUR >
 name=Arturo Inactivo
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Arturo.\n¡Gracias por la compra!
-artist=Sora
+artist=Azurée
 
 < PIN_IDLE_NICO >
 name=Nico Inactiva
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Nico.\n¡Siempre dará todos sus esfuerzos!
-artist=Sora
+artist=Azurée
 
 < PIN_IDLE_CUTIES >
 name=Linduras Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Linduras.\n¡Una carrera en el escenario espera!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_IRU >
 name=Iru Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Iru.\n¿Qué te parece un poco de ejercicio?
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MIRA >
 name=Mira Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Mira.\nEste pin es la marca de un héroe.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_YUUKI >
 name=Yuuki Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Yuuki.\nOra ora ora ora.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ISLAY >
 name=Islay Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Islay.\nVolando con gracia.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SUGURI46 >
 name=Suguri (46 Mil Millones de Años) Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Suguri (46 Mil Millones de Años).\nLe aplicó un x2 de lindura a este pin.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SUMIKA >
 name=Sumika Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Sumika.\nEste pin de Sumika es de Sumika.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MIO >
 name=Mio Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Mio.\nLa vida (y muerte) de cada fiesta en la que se mete.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_LULU >
 name=Lulu Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Lulu.\n¡Sigamos jugando juntos en el futuro!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ELLIE >
 name=Ellie Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Ellie.\n¡Es la hora de una aventura!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ALICIANRONE >
 name=Alicianrone Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Alicianrone.\n¡La bruja más veloz en este lado del bosque!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TEOTORATTA >
 name=Teotoratta Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Teotoratta.\nEl amigo de una bestia es sin dudas un amigo.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ARNELLE >
 name=Arnelle Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Arnelle.\n¿A lo mejor el verdadero tesoro es los amigos que hemos hecho en el camino?
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MAYNIE >
 name=Maynie Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Maynie.\nMira profundamente sus ojos de colores extraños, e ignora el puñetazo aproximándose hacia ti...
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_HALENA >
 name=Halena Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Halena.\nEste pin siempre te guiará a la sala correcta.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_COOK >
 name=Flying Cook
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Cook.\nNi siquiera este pin debería ser considerado una gallina.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_LONERIDER >
 name=Lone Rider Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como El Jinete Solitario.\nYa no se encuentra tan solo.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MERCHANT >
 name=Negociante Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como El Negociante.\n¡Comprarás este pin por supuesto, sí, lo harás!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_CHRIS >
 name=Chris Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Chris.\n¡Votada como la mejor camarera del año, todos los años!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KYUPITA >
 name=Kyupita Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Kyupita.\nEste pin está lleno de pasión juvenil.
-artist=Sora
+artist=Azurée
+
+
+< PIN_FLYING_SWEETCREATOR >
+name=Sweet Creator Volando
+desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Sweet Creator.\n¡Ten cuidado con el efecto mariposa!
+artist=Azurée
+
+< PIN_FLYING_SWEETMAKER >
+name=Sweet Maker Volando
+desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Sweet Maker.\n¡Los dulces hacen que el mundo gire!
+artist=Azurée
+
+< PIN_FLYING_SWEETBLOGGER >
+name=Sweet Blogger Volando
+desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Sweet Blogger.\n¡Vamos a buscar más dulces hoy!
+artist=Azurée
+
+< PIN_FLYING_REIKA >
+name=Reika Volando
+desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Reika.\nHoy es otro lindo día en el mundo.
+artist=Azurée
+
+< PIN_FLYING_MALT >
+name=Malta Volando
+desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Malta.\n¡A brindar por un mundo nuevo!
+artist=Azurée
+
+< PIN_FLYING_SHIFU >
+name=Shifu Volando
+desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Shifu.\nSiempre en busca del mundo perfecto.
+artist=Azurée
+
+< PIN_FLYING_MESCAL >
+name=Mescal Volando
+desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Mescal.\n¿Qué jugaremos el día de hoy?
+artist=Azurée
+
+< PIN_FLYING_WATTY >
+name=Watty Volando
+desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Watty.\nP-perdón si te noqueo por accidente...
+artist=Azurée
+
+< PIN_FLYING_POM >
+name=Pomeranius Volando
+desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Pomeranius.\nEs un buen chico. 
+artist=Coffgirl

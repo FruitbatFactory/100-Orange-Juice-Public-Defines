@@ -1,0 +1,139 @@
+<0000> Oryaaah !
+<0001> Deey !
+<0002> Uooh !
+<0003> Hoplà !
+<0004> Je joue cette carte !
+<0005> Pouvoir magique !
+<0006> Bien !
+<0007> Une carte, une carte !
+<0008> Magie du piège !
+<0009> Piège : posé !
+<0010> Je vais laisser ça ici.
+<0011> Je sais tendre des pièges, aussi.
+<0012> Magie offensive !
+<0013> Prépare-toi !
+<0014> Je vais me donner à fond !
+<0015> Je risque pas d'y aller de main morte.
+<0016> Magical "Vengeance" !!!
+<0017> Je me suis loupée.
+<0018> Pas comme ça...
+<0019> Ghh... C'est toujours pas assez.
+<0020> On se fiche de moi...
+<0021> Magical !
+<0022> Sey !
+<0023> Doh-sey !
+<0024> Prends ça !
+<0025> Aïe !
+<0026> Ngyah !
+<0027> Que- !?
+<0028> Guaaah !
+<0029> Ça me sauve la mise.
+<0030> Il en faudra plus que ça !
+<0031> C'est rafraîchissant.
+<0032> Bien, très bien.
+<0033> Je m'envole !
+<0034> Waouh.
+<0035> Hein, quoi !?
+<0036> Gyaaaaa !
+<0037> Mes pouvoirs !
+<0038> Bordel !
+<0039> Ma magie va disparaître !
+<0040> Je vais... perdre la motivation...
+<0041> Magical "Attaque Surprise" !
+<0042> C'est parti !
+<0043> Oryaaah !
+<0044> J'espère que t'es prêt !
+<0045> Ouah !?
+<0046> Un adversaire !?
+<0047> Quoi, tu me veux quoi !?
+<0048> Quoi, tu veux te battre !?
+<0049> MAGICAL DORYAAAH !
+<0050> À l'attaque !
+<0051> Prends ça !
+<0052> Orya !
+<0053> Aaaïe !
+<0054> Kya !
+<0055> Guh !
+<0056> Ouah !
+<0057> Buaaah !
+<0058> Oh, bon sang !
+<0059> Ça fait super mal...
+<0060> Ma vengeance en sera que plus violente...
+<0061> Presque !
+<0062> Hiii !
+<0063> Ça peut pas me toucher !
+<0064> Pouvoir magique !
+<0065> Voilà la puissance de Sweet Eater !
+<0066> Ouais ! Peace !
+<0067> C'était un combat intense.
+<0068> Et voilà, j'ai gagné !
+<0069> Guaaah !
+<0070> Pourquoooiiii !?
+<0071> J'peux pas croire qu'on m'ait vaincue...
+<0072> Ueeeehhh !
+<0073> La source de ma magie~
+<0074> Fantastique !
+<0075> Des étoiles !
+<0076> Parfait !
+<0077> Gyaaaanh !
+<0078> Hein, quoi !?
+<0079> Oh non !
+<0080> Waaaah !
+<0081> Pas possible !
+<0082> Je me suis fait avoir !
+<0083> Bon sang !
+<0084> Ouah ! J'ai marché sur un truc !?
+<0085> Quelque chose approche...
+<0086> Oh, je sens une très grande puissance.
+<0087> Mhm, ça va être intéressant.
+<0088> Là, déjà, c'est beaucoup plus intéressant !
+<0089> Je vais créer toute une mer d'étoiles.
+<0090> Plein, plein d'étoiles !
+<0091> Toutes les étoiles seront à moi !
+<0092> C'est le moment de briller !
+<0093> Personne ne peut me vaincre !
+<0094> Avec ma magie, je vais tout détruire !
+<0095> Je me sens assez en forme pour me bagarrer.
+<0096> Je vais tous vous réduire en cendres !
+<0097> Voilà ce que je sais faire !
+<0098> Sweet Eater Tomomo !
+<0099> Youpi ! J'ai gagné !
+<0100> Z'avez pensé quoi de ma magie ?
+<0101> Oh, tu trouves quelque chose ?
+<0102> Oh, ça a l'air chouette.
+<0103> Un très bon objet !
+<0104> Très bien, héhé !
+<0105> On échange ?
+<0106> Je te laisse t'en charger.
+<0107> Tu prends ma place ?
+<0108> Courage !
+<0109> Ok !
+<0110> Cool.
+<0111> Ok, ok.
+<0112> Non !
+<0113> Ueeh~
+<0114> Quelle chance !
+<0115> Hm ?
+<0116> Let's go !
+<0117> Hoooy !
+<0118> Bonne chance !
+<0119> Salut !
+<0120> Hmm~ ?
+<0121> Très bien, ça.
+<0122> Incroyable, j'en reviens pas !
+<0123> Gugugughh....
+<0124> La magie d'un autre !
+<0125> J-je l'ai pas volée ! Non non !
+<0126> Suffit de savoir comment bien s'en servir !
+<0127> Une magie que je connais pas du tout !
+<0128> Merci bien !
+<0129> Et voilà Sweet Eater Tomomo,\nla magical girl la plus puissante !
+<0130> Transformation ! Uoooh !
+<0131> Je me sens pleine de pouvoirs magiques !
+<0132> Ça y est, je pète la forme !
+<0133> Le coup de grâce !!
+<0134> Voilà, vengeance terminée !
+<0135> C'est le pouvoir de ma vengeance !
+<0136> Retourne aux cendres !!
+<0137> C'est bondé de magical girls, ici !
+<0138> La meilleure des Déesses du Sucre...? On va bien voir !

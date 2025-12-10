@@ -1,0 +1,358 @@
+
+// ========= Scene: Fall 2020 Event Start =========
+
+// (lulu)
+<0000> T-t'es sûre qu'ils sont dans cette grotte ?
+
+// (ellie)
+<0001> Si les rumeurs disent vrai... oui !
+
+// (lulu)
+<0002> Il fait si sombre, Lulu a peur...
+
+// (ellie)
+<0003> Regarde où tu mets les pieds, Lulu. On y va doucement, d'accord ?
+
+// (lulu)
+<0004> Merci. Tu n'as pas l'air inquiète du tout, Ellie.
+
+// (ellie)
+<0005> C'est quoi, l'aventure, à part de l'exploration en terres inconnues ? On est en plein dedans !
+
+// (lulu)
+<0006> Ouahh... On est de vraies aventurières, alors.
+
+// (lulu)
+<0007> Lulu devrait pas avoir peur non plus, alors !
+
+// (ellie)
+<0008> Ouais, exactement !
+
+// (ellie)
+<0009> Si on trouve ce trésor au fond de la grotte, on sera encore plus riches, et on va encore mieux manger pendant notre voyage !
+
+// (lulu)
+<0010> Mieux manger...! Lulu est très intéressée.
+
+// (ellie)
+<0011> Aha ! Il faut qu'on les trouve par tous les moyens !
+
+// (ellie)
+<0012> Le Champignon Rouge Légendaire et le Champignon Bleu Super-Rare !
+
+// (lulu)
+<0013> Oui ! Lulu va faire de son mieux pour les trouver aussi !
+
+// (???)
+<0014> Pas si vite !
+
+// (ellie)
+<0015> !?
+
+// (lulu)
+<0016> Qui va là !?
+
+// (maynie)
+<0017> Tous les champignons de la grotte appartiennent à Dame Arnelle !
+
+// (lulu)
+<0018> ???
+
+// (maynie)
+<0019> Si vous être vraiment aventurières, vous connaissez forcément l'aventurière mythique bientôt autrice de grands triomphes !
+
+// (arnelle)
+<0020> Hihihi... Gahahahaha!
+
+// (arnelle)
+<0021> Je suis Arnelle, la plus grande chercheuse de trésors connue à ce jour !
+
+// (maynie)
+<0022> Ouahh ! Vous êtes tellement cool, Dame Arnelle !
+
+// (ellie)
+<0023> ......
+
+// (lulu)
+<0024> Dame Arnelle...?\nEllie, tu la connais ?
+
+// (ellie)
+<0025> Aha, jamais entendu parler.
+
+// (ellie)
+<0026> Et quand on parle de triomphes, on dit pas "bientôt", normalement. Là, ça veut dire qu'elle a encore rien accompli.
+
+// (lulu)
+<0027> Ah oui, t'as raison !
+
+// (arnelle)
+<0028> Argh...!
+
+// (maynie)
+<0029> Comment !? Vous vous prétendez aventurières sans même connaître Dame Arnelle ? Quelle honte !
+
+// (maynie)
+<0030> On devrait régler leur compte tout de suite, Dame Arnelle !
+
+// (arnelle)
+<0031> Allons, calme-toi, veux-tu ?
+
+// (ellie)
+<0032> Quoi ? Tu veux te battre avec moi ? Ok, vas-y, viens !
+
+// (maynie)
+<0033> Si tu te casses un truc, tu pourras t'en prendre qu'à toi-même !
+
+// (arnelle)
+<0034> Du calme, Marnie !
+
+// (maynie)
+<0035> ...Ah !
+
+// (arnelle)
+<0036> Il n'y a vraiment aucun intérêt à les combattre.
+
+// (maynie)
+<0037> Dame Arnelle...
+
+// (arnelle)
+<0038> Nous sommes toutes là pour les champignons. Et si nous nous tentions plutôt de les récupérer aussitôt que possible ?
+
+// (ellie)
+<0039> C'est une course aux champignons, alors !?
+
+// (arnelle)
+<0040> Le champignon légendaire et le champignon ultra-rare... Ils ont beau pousser dans cette grotte, les trouver ne sera pas mince affaire.
+
+// (arnelle)
+<0041> Celles qui parviennent à trouver les deux champigons remportent le défi. Ça me paraît honnête.
+
+// (ellie)
+<0042> Aha ♥ Ok, défi accepté !
+
+// (lulu)
+<0043> Ellie, t'es sûre de ce que tu fais ?
+
+// (ellie)
+<0044> T'inquiète ! Aucune chance que je perde contre une chasseuse de trésors dont personne n'a jamais entendu parler !
+
+// (maynie)
+<0045> N'importe quoi ! Dame Arnelle va trouver les deux champignons en un rien de temps, c'est évident !
+
+// (arnelle)
+<0046> Dans ce cas, que la course aux champignons...
+
+// (lulu)
+<0047> Commence !
+
+// ========= Scene: Fall 2020 Event Ending =========
+
+// (lulu)
+<0048> L-le voilà ! Le Champignon Rouge légendaire !
+
+// (ellie)
+<0049> Il est vraiment très rouge, et il a l'air tellement vénéneux... C'est forcément lui !
+
+// (ellie)
+<0050> Aha ♥ Bravo, Lulu !
+
+// (arnelle)
+<0051> Héhéhé...
+
+// (ellie)
+<0052> !?
+
+// (arnelle)
+<0053> Ainsi, vous avez trouvé l'un des deux champignons.
+
+// (ellie)
+<0054> C'est toi ! La "chasseuse de trésors" de tout à l'heure !
+
+// (maynie)
+<0055> Bravo, Dame Arnelle ! Maintenant qu'on a le Champignon Bleu, si on leur vole le Champignon Rouge...
+
+// (arnelle)
+<0056> Les deux champignons seront à\nnous !
+
+// (ellie)
+<0057> Ahaaa ? Jamais de la vie ! On va plutôt voler le vôtre !
+
+// (ellie)
+<0058> Ouff... pouff.... Tu te débrouilles bien, je dois l'admettre.
+
+// (maynie)
+<0059> Pffuu... toi aussi.
+
+// (lulu)
+<0060> C-c'était un combat acharné.
+
+// (arnelle)
+<0061> Je reconnais avoir apprecié le regarder...
+
+// (arnelle)
+<0062> Mais la course aux champignons n'est pas terminée. Tant que tu es concentrée sur le combat...
+
+// (arnelle)
+<0063> Je n'ai qu'à t'arracher le champignon des mains !
+
+// (lulu)
+<0064> Hein ?
+
+// (ellie)
+<0065> !? Pas question !
+
+// (arnelle)
+<0066> Argh.
+
+// (ellie)
+<0067> Lulu, tout va bien ?
+
+// (lulu)
+<0068> Hmm, Ellie ? Lulu va bien... Mais notre champignon, il est...
+
+// (ellie)
+<0069> Non, il y a une égratinure...!
+
+// (arnelle)
+<0070> Oh-oh. Abîmer un champignon rare réduit drastiquement sa valeur pécunière. Quel dommage...
+
+// (ellie)
+<0071> Tu dis ça comme si t'y étais pour rien ! C'est toi qui as fait ça à notre champi !
+
+// (ellie)
+<0072> Tu te prétends chasseuse de trésors, et tu essaies de les voler ? Et tu t'excuses même pas après les avoir ruinés ?
+
+// (arnelle)
+<0073> Arrgh ! C-comment oses-tu me critiquer ? Avec des bons arguments, en plus...!
+
+// (maynie)
+<0074> Non, Dame Arnelle ! C'est qu'une mauvaise perdante qui ne sait que se plaindre !
+
+// (arnelle)
+<0075> O-oui, évidemment.
+
+// (arnelle)
+<0076> Allez, donne-moi ce Champignon Rouge. Tu n'en as plus besoin, de toute façon.
+
+// (arnelle)
+<0077> Il a beau être abîmé, je pourrais peut-être en tirer quelques sous.
+
+// (ellie)
+<0078> Ahaaa ! Je te le donnerai jamais ! Je préfère encore faire... ça !
+
+// (ellie)
+<0079> *glomps*
+
+// (maynie)
+<0080> Aaaah !? Est-ce qu'elle vient de...
+
+// (arnelle)
+<0081> Manger le champignon !?
+
+// (ellie)
+<0082> *cronch cronch* Il est carrément bon, en fait.
+
+// (maynie)
+<0083> Elle est complètement folle ou quoi !?
+
+// (arnelle)
+<0084> Il ne faut surtout pas manger ces champignons cru...
+
+// (lulu)
+<0085> Hein ?
+
+// (arnelle)
+<0086> Partons vite, avant qu'elle ne devienne une vraie menace, Marnie.
+
+// (maynie)
+<0087> D-d'accord, Dame Arnelle...
+
+// (ellie)
+<0088> NaN, vOuS pArTiReZ pAs !
+
+// (lulu)
+<0089> Ellie ? Qu'est-ce qu'il se passe !?
+
+// (ellie)
+<0090> Ukyaaaaaah !
+
+// (maynie)
+<0091> Qu'est-ce qu'il lui prend !?
+
+// (arnelle)
+<0092> Ces champignons sont vénéneux, en manger cru peut causer d'intenses hallucinations !
+
+// (lulu)
+<0093> Heein !?
+
+// (ellie)
+<0094> mAnGe-Le...
+
+// (ellie)
+<0095> DoNnE-mOi Ce ChAmPiGnOn !
+
+// (arnelle)
+<0096> Oh non...
+
+// (maynie)
+<0097> Notre Champignon Bleu...!
+
+// (ellie)
+<0098> AhAaA AhAaA...
+
+// (maynie)
+<0099> Rends-le nous !
+
+// (ellie)
+<0100> BoUfFe-Le !
+
+// (maynie)
+<0101> Que !?
+
+// (ellie)
+<0102> Tu VaS y GoÛtEr, ToI aUsSi !
+
+// (arnelle)
+<0103> Elle a mis le champignon dans la bouche de Marnie !
+
+// (maynie)
+<0104> Argh... *gloups*
+
+// (arnelle)
+<0105> Et Marnie l'a avalé...
+
+// (lulu)
+<0106> Et, euh... Qu'est-ce qu'il se passe, quand on mange un Champignon Bleu cru...?
+
+// (arnelle)
+<0107> Exactement la même chose...
+
+// (lulu)
+<0108> Ça signifie que...
+
+// (maynie)
+<0109> GYAOOOOOH !
+
+// (ellie)
+<0110> AHAAAAAAAA !
+
+// (lulu)
+<0111> Ça signifie... ça !
+
+// (maynie)
+<0112> MaRnIe VoUs AdOrE, dAmE aRnElLe !
+
+// (ellie)
+<0113> AhAaAa ! jE vAiS tOuT dÉtRuIrE !
+
+// (arnelle)
+<0114> Seigneur, arrêtez ! Cette caverne va finir par s'effondrer si vous continuez !
+
+// (lulu)
+<0115> O-o-ouah, Ellie ! Calme-toi, je t'en supplie !
+
+// (ellie&maynie)
+<0116> GYAOOOOOOH !
+
+// (lulu&arnelle)
+<0117> Nooooooon !

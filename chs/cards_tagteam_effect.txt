@@ -1,0 +1,5 @@
+< CARD_COOP_GUIDANCE_EFFECT >
+name=风信鸡的指引
+descr=除战斗外，骰子枚数变为2枚。\n只能在自己的HOME格进行目标检测。\n当你停留在自己的HOME格时，或进行换人时，效果结束。
+
+[EOF]

@@ -202,6 +202,11 @@ name=La Guía de la Hada Veleta
 descr=Efecto Guardado.\nTiras 2 dados para todas tus acciones. Este efecto no se activará dentro de una batalla, y se acabará al detenerte en un hogar.
 flavor="¡*Pío, pío*! Cook quiere ir por aquí." ―Cook
 
+< CARD_BOUNTY_PROTECTIONFEE >
+name=Tarifa de Protección
+descr=Al detenerte en el panel de Hogar de otro jugador, paga estrellas (tu Nivel x2) a ese jugador. Si no logras cumplir con la norma, recibes 1 punto de daño.
+flavor="This is such a rip-off..." ―Lulu
+
 < CARD_BOUNTY_PLAYER >
 name=Se Busca Con Urgencia
 descr=Este jugador está siendo buscado por cometer crímenes en contra de la sociedad.

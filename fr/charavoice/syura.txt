@@ -1,0 +1,160 @@
+<0000> Yata !
+<0001> Mossaï !
+<0002> Essa !
+<0003> Hop-là !
+<0004> Tink tink !
+<0005> Hop !
+<0006> Renversement de situation !
+<0007> C'est le bon moment pour cette carte !
+<0008> Héhéhé !
+<0009> Ça, ça va là...
+<0010> Ayé, le piège est posé !
+<0011> Carte piège !
+<0012> Carte combat !
+<0013> Avec ça, je vais forcément gagner !
+<0014> Carte combat, à toi de jouer !
+<0015> C'est parti !
+<0016> Ababababaaaa !!!
+<0017> *soupir* J'ai l'impression d'avoir fait nuit blanche...
+<0018> Régénératiooon !
+<0019> C'est pas fini !
+<0020> Je tiens encore bon...! Je peux encore jouer !!
+<0021> Funyaehh...
+<0022> Arrrrgh, je vais pas y arriver !
+<0023> C'est pas possible...
+<0024> J'aurais dû augmenter ma chance...
+<0025> Et paf !
+<0026> Oraaaa !
+<0027> Syura Punch !
+<0028> J'vais t'envoyer vers d'autres cieux !
+<0029> Hubuaaah !
+<0030> Gubehhr !
+<0031> Espèce de monstre !
+<0032> Ouff !
+<0033> Je me sens déjà mieux...
+<0034> Heal !
+<0035> Aahh, je suis à bloc !
+<0036> Une herbe... cronch cronch...
+<0037> Un point de TP !
+<0038> Ouaaaaah, je vole !!
+<0039> Mais ça va où, ça !?
+<0040> On va voir ce que ça vaut !
+<0041> C'est la fin de l'aventure...
+<0042> Game over...?
+<0043> Oh... J'suis à court d'énergie...
+<0044> J'ai pas pu y arriver...
+<0045> Attention ! Syura à l'attaque !
+<0046> En défiant les gens plus forts que moi, je serai plus forte !
+<0047> La chasse est ouverte !
+<0048> Viens te battre !
+<0049> Un nouvel adversaire approche !
+<0050> Quoi, un duel ? J'accepte !
+<0051> Attention, j'vais pas me retenir !
+<0052> Héhé... J'vois que t'as peur de rien...
+<0053> Coup critique !!
+<0054> Oryaah !
+<0055> Combo x16 !
+<0056> Ratatatatatatataaa !!
+<0057> Kuaaah !
+<0058> Fue !
+<0059> Comment oses-tu ?!
+<0060> Ugehh !
+<0061> Aaaaaaarh !
+<0062> Bouuuaaarhh !
+<0063> Ça fait super mal !!
+<0064> Bughueeee !!
+<0065> Barrière Piyo !
+<0066> Mode invincible !!
+<0067> Esquive réussie !
+<0068> Tu peux pas me toucher !
+<0069> Youpiii ! Victoire !
+<0070> J'ai... j'ai gagné !
+<0071> J'ai réussi ! J'ai réussi !!
+<0072> J'ai gagné, j'ai gagné !
+<0073> Je me suis fait tabasser...
+<0074> C'est horrible...
+<0075> Ok, j'avoue... t'es plutôt balèze...
+<0076> Bien joué...
+<0077> Allez, là, donne-m'en plus !
+<0078> +1 Vie pour Syura !
+<0079> Ding-ding-ding !
+<0080> Super, une case bonus !
+<0081> Raaaah !! Pas mon argeeeeent !
+<0082> Partez paaaaas !!
+<0083> Mes étooooiles !
+<0084> Non... pas les cases malus...!
+<0085> Raahhh ! Qui c'est qui a posé ce piège là ?!
+<0086> Bande de méchants !
+<0087> Non, pas un piège !
+<0088> Kuaah ! C'est pas possiiible !
+<0089> Ah, j'arrive au boss...!
+<0090> J-j'aurais dû prendre un checkpoint...
+<0091> Ça dépasse les bornes, là !
+<0092> Il est énorme !!
+<0093> Score attack !
+<0094> J'vais trouver des étoiles !
+<0095> Les étoiles, ça me paraît bien !
+<0096> Étoiles ! Tout plein d'étoiles !
+<0097> Je peux sentir l'appel du combat !
+<0098> Mes poings ont soif de sang...!
+<0099> Au combat !
+<0100> L'heure de la bagarre !
+<0101> Syura débarque ! Salut !
+<0102> Hein, moi ?
+<0103> Héhé, ils vont voir que je suis invincible !
+<0104> Ouais ! On va faire du beau travail d'équipe !
+<0105> Round 1, fight !
+<0106> Ok... on va bien voir ce qu'ils valent !
+<0107> Préparez-vous... à la fureur de Syura !
+<0108> Ils vont m'trouver !
+<0109> Youpiiiii ! J'ai réussi !
+<0110> Vraiment, rien de surprenant !
+<0111> Ouaiis ! J'ai gagné !
+<0112> J'ai réussiii ! J'suis première !
+<0113> Un tout nouvel objet !
+<0114> C'est un objet rare, ça, non ?
+<0115> C'est exactement ce que je cherchais !
+<0116> J'ai le trésor !
+<0117> Tape-m'en cinq !
+<0118> Vas-y, prends la suite.
+<0119> La meilleur défense, c'est la fuite !
+<0120> Pouf-pouf ! Métamorphose...!
+<0121> Ok !
+<0122> C'est pas plus mal !
+<0123> Ouais !
+<0124> Hmmm...
+<0125> Hmm... pas ouf.
+<0126> La chance !
+<0127> Hm ?
+<0128> On y va !
+<0129> Roule, roule !
+<0130> C'est partiii !
+<0131> Yahouuu !
+<0132> Euh...
+<0133> Super !
+<0134> Incroyable ! T'es génial !
+<0135> Wahh, c'est pas possible !
+<0136> J'utilise ce pouvoir volé !
+<0137> Youhouu ! Je sais pas ce que c'est !!
+<0138> Chaipas c'est quoi comme carte, mais je m'en sers !
+<0139> Vous vous attendiez pas à cette carte, hein ?!
+<0140> Viens te battre, Q !\nCelle qui gagne offre un cadeau à l'autre !
+<0141> Je pensais jamais me battre contre Q...!
+<0142> Et boum ! Tu me dois un ramen après les cours !
+<0143> Hiiiii ! J'ai encore perdu...
+<0144> Ouhhh ! Blonde... cheveux lisses...! C'est trop mignon !!
+<0145> Ses yeux sont tout verts...! Trop chou !!
+<0146> Ouah ! T'es le papa de Piyo, toi, non ?!
+<0147> Hein ? T'es pas le papa de Piyo ?
+<0148> Il est super fort, le papa de Piyo...!
+<0149> Salut, Nat ! Ça va ou quoi ?
+<0150> Meei ! Faut qu'on se batte !
+<0151> Mei... Je sens que ça va être tendu !
+<0152> C'est moi qui gagne, cette fois ! Héhéhé !
+<0153> Gouaahh ! Tu pouvais me ménager un peu !
+<0154> Ouahhh !! Blonde, peau douce... Elle est super jolie !!
+<0155> Ouahh ! Toute petite, cheveux gris...!\nElle est trop choupiii !
+<0156> Trop cool... Une jolie fille qui pilote un avion !
+<0157> Attends, Mère Noël existe ? Et c'est un lapin ?!
+<0158> Tu fais un cosplay ? Aah, j'adore ton costume !
+<0159> Piloupiloupilou ♪

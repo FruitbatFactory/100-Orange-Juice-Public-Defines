@@ -95,6 +95,9 @@ Máquina de Emoticones
 < ARCADE_MACHINE_BOUNTYHUNT >
 Máquina de Caza-recompensas
 
+< ARCADE_MACHINE_PLUSHIE >
+Máquina de Peluches
+
 < ARCADE_MACHINE_CONSUMABLES >
 Máquina Expendedora
 

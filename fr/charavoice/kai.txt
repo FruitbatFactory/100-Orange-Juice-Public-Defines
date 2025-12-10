@@ -1,0 +1,156 @@
+<0000> Là !
+<0001> À moi de jouer !
+<0002> Vas-y !
+<0003> Donne-moi un beau chiffre !
+<0004> Je choisis cette carte !
+<0005> Cet atout me garantit la victoire !
+<0006> J'utilise cette carte !
+<0007> Celle-ci !
+<0008> Je pose un piège.
+<0009> Voilà un piège !
+<0010> Ça va ici.
+<0011> Si je pose ça là...
+<0012> Cette carte me fera gagner !
+<0013> Prête-moi ta force !
+<0014> Héhé, la victoire m'appartient !
+<0015> Mon potentiel est illimité !
+<0016> J'invoque le privilège du protagoniste !
+<0017> De retour !
+<0018> Je peux encore y arriver...
+<0019> Ce n'est que le début !
+<0020> J'ai plus d'un tour dans mon sac !
+<0021> Mais... mais... je suis le personnage principal !...
+<0022> J'arrive pas à y croire...
+<0023> Sérieusement ?!
+<0024> Vraiment...?
+<0025> Tiens !
+<0026> Hop-là !
+<0027> Bouffe !
+<0028> Prends ça !
+<0029> Gah !
+<0030> Urgh !
+<0031> J'ai mal !
+<0032> Rgah !
+<0033> Voilà qui est mieux.
+<0034> Quel soulagement...
+<0035> Pfiou...
+<0036> Je perdais mes moyens.
+<0037> Une case portail !
+<0038> Je m'envole !
+<0039> Qu'est-ce que...?
+<0040> Ouaah !
+<0041> Graaah !
+<0042> Non... je refuse d'y croire...
+<0043> J'en peux plus...
+<0044> J'abandonne !
+<0045> Je te défie !
+<0046> Au combat !
+<0047> Je ne peux pas perdre !
+<0048> À moi de commencer !
+<0049> Tu veux te battre ? Ok, allons-y !
+<0050> Je relève ton défi.
+<0051> Tu me cherches ?
+<0052> Amène-toi !
+<0053> Prends ça !
+<0054> Le coup de grâce !
+<0055> Goûte à mon poing !
+<0056> Bouffe ça !
+<0057> Ouille !
+<0058> Hé, ça fait mal !
+<0059> Pas mauvais...
+<0060> Aïe !
+<0061> Gaaargh !
+<0062> Gouaah !
+<0063> J'ai mal !!
+<0064> Aaaïe !
+<0065> Raté.
+<0066> Bien tenté.
+<0067> Et maintenant, l'esquive !
+<0068> Trop lent.
+<0069> Un résultat évident.
+<0070> Je ne suis pas le protagoniste pour rien.
+<0071> Tu t'es bien battu.
+<0072> Je n'en attendais pas moins.
+<0073> Nom de...
+<0074> Argh...
+<0075> C'est pas possible !
+<0076> J'ai échoué ?...
+<0077> Bien, très bien ! C'est un bonus !
+<0078> Mon portefeuille se remplit à nouveau !
+<0079> Ma victoire est assurée !
+<0080> Haha, magnifique !
+<0081> Mes étoiles !!
+<0082> Non...!
+<0083> Tous ces efforts pour rien...
+<0084> Non, quelle erreur !
+<0085> Oups !
+<0086> Un piège ?!
+<0087> Qu'est-ce que...!
+<0088> J'en crois pas mes yeux !
+<0089> Il est plus fort que les autres, celui-là...
+<0090> Le voilà...
+<0091> Je récolte la tempête...
+<0092> *soupir* C'est pas le moment de se rater.
+<0093> Les étoiles seront miennes !
+<0094> Les étoiles, évidemment.
+<0095> C'est parti pour les étoiles !
+<0096> J'ai choisi les étoiles !
+<0097> Je me battrai autant qu'il le faudra !
+<0098> La vie, c'est la guerre.
+<0099> Les victoires m'appartiennent  !
+<0100> Mes poings sont en flamme !
+<0101> Compte sur moi !
+<0102> Ravi de te rencontrer.
+<0103> Ok, à moi de jouer !
+<0104> Je m'en charge !
+<0105> J'ai confiance en cette partie.
+<0106> Je vais me déchaîner.
+<0107> On est partis.
+<0108> Je ferai de mon mieux !
+<0109> I-incroyable, j'ai réussi !
+<0110> Incroyable, j'ai gagné !
+<0111> *soupir* Je remporte la victoire.
+<0112> Une belle partie.
+<0113> En voilà un autre.
+<0114> Un nouvel objet, rien que pour moi !
+<0115> Tiens, je ne l'avais pas.
+<0116> Une jolie prise, ma foi.
+<0117> On change de place.
+<0118> Tiens, prends ma place.
+<0119> Fais de ton mieux.
+<0120> Je te laisse t'en charger.
+<0121> Je m'en occupe !
+<0122> Bien, bien.
+<0123> Ouais !
+<0124> Non.
+<0125> Bon sang !
+<0126> Parfait !
+<0127> Hein ?!
+<0128> On y va !
+<0129> La chance est avec moi !
+<0130> Technique spéciale !
+<0131> Salut.
+<0132> Hmm...
+<0133> Magnifique !
+<0134> Ouah !!
+<0135> Non !!
+<0136> Merci !
+<0137> Te voilà !
+<0138> Une femme ravissante...
+<0139> Tu t'habilles comme une gamine.
+<0140> Un robot géant ?! C'est trop cool !
+<0141> Il est temps que quelqu'un t'arrête.
+<0142> Voilà l'autre tarée...!
+<0143> Le protagoniste gagne toujours !
+<0144> Argh... Elle est vraiment tarée.
+<0145> Hé, hé, oh ! Qu'est-ce que tu fais ?!
+<0146> Tiens, mon portefeuille s'est allégé.
+<0147> ...Où suis-je ?
+<0148> Pfuit, elle est sympa, ta bécane.
+<0149> Ça fait longtemps que je me suis pas baigné.
+<0150> Poppo ? Qu'est-ce qu'il t'est arrivé ?
+<0151> Dieu...?
+<0152> Bats-toi sérieusement !...
+<0153> T'as pas honte, à ton grand âge...?
+<0154> C'est... c'est magnifique !
+<0155> Tu vas pas te mettre à chanter, maintenant ?!

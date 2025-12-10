@@ -302,4 +302,64 @@ descr=將下一個踩到的格子視為抽卡×2格。
 name=故弄玄虛
 descr=每當有玩家使用這種類型的卡片時，該玩家\n抽1張卡。
 
+< CARD_COOP_REINFORCE_EFFECT >
+name=受到援助
+descr=當你被挑戰或觸發BOSS格時，施加此效果的玩家先行與對手戰鬥。\n若該玩家在援助戰鬥中倖存，你ATK、DEF和EVD+1。\n若該玩家在援助戰鬥中被擊倒，你ATK+1。
+
+< CARD_COOP_REINFORCE_PENALTY_EFFECT >
+name=準備援助
+descr=準備援助時MOV-1。\n在援助戰鬥中，你的ATK、DEF和EVD+1。
+
+< CARD_COOP_CLEANSING_AURA_EFFECT >
+name=淨化光環
+descr=免疫下一次由BOSS或其手下施加的效果
+
+< CARD_COOP_PAY_ATTENTION_EFFECT >
+name=注意
+descr=當你停留在HOME格時，強制傳送至BOSS所在的格子。
+
+< CARD_COOP_BRUTAL_TRAPS_EFFECT >
+name=殘酷陷阱
+descr=當你觸發陷阱時，丟棄所有手牌。
+
+< CARD_COOP_BACKDOOR_SCHEME_EFFECT >
+name=暗箱操作
+descr=當你HP降至1時，失去等級×10的STAR。\n倒下時效果結束。
+
+< CARD_COOP_WARUDA_MACHINE_EFFECT >
+name=陰謀機器人
+descr=下場戰鬥中ATK+X，DEF+X，EVD-X。\nX為對方手牌張數。
+
+< CARD_COOP_HMM_EFFECT >
+name=嗯……
+descr=下一個造成直接傷害的能力，額外造成BOSS等級的傷害。
+
+< CARD_COOP_SNEAKILY_EFFECT >
+name=鬼鬼祟祟
+descr=無法被挑戰。\n挑戰敵人時ATK+2。
+
+< CARD_COOP_BOSS_PRISON_BREAK_EFFECT >
+name=越獄
+descr=EVD+2。\n若你在效果結束前未被挑戰，永久ATK、DEF+1。
+
+< CARD_COOP_BOSS_FREE_BIRD_EFFECT >
+name=重獲自由
+descr=ATK、DEF+1。
+
+< CARD_COOP_BREAKER_ENRAGE_EFFECT >
+name=破壞者之怒
+descr=ATK+1，效果傷害+1。
+
+< CARD_COOP_BUILDER_ENRAGE_EFFECT >
+name=建造師之怒
+descr=ATK、MOV+1。
+
+< CARD_COOP_BUSTER_ENRAGE_EFFECT >
+name=搗蛋鬼之怒
+descr=每回合額外抽取並使用1張卡。
+
+< CARD_COOP_HIGH_ALERT_EFFECT >
+name=高度警戒
+descr=同伴倒下期間DEF+1。
+
 [EOF]

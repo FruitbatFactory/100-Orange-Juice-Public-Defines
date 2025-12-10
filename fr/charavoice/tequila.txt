@@ -1,0 +1,166 @@
+<0000> Mhm.
+<0001> Hmm !
+<0002> Mhmm.
+<0003> J'envoie.
+<0004> Je choisis celle-là !
+<0005> Hmm, voyons un peu.
+<0006> On va épicer un peu la sauce.
+<0007> Admirez !
+<0008> Un pirate en a rien à faire des règles de l'art.
+<0009> J'vais gagner à ma manière.
+<0010> Je fais comme j'l'entends pour gagner.
+<0011> Ohé, faites gaffe !
+<0012> Tu vas pas en revenir.
+<0013> Admire ma nouvelle trouvaille !
+<0014> Le clou du spectacle !
+<0015> Vise un peu ma botte secrète !
+<0016> Allez-y, les gars !
+<0017> Il en faut plus que ça pour tuer un pirate.
+<0018> J'pars reprendre ce qu'on m'a volé.
+<0019> Les pirates sont de retour !
+<0020> Et... c'est r'parti.
+<0021> Boudiou.
+<0022> Quoi, toujours pas ?
+<0023> Pft, encore raté.
+<0024> On va pas s'presser.
+<0025> C'est parti !
+<0026> Feu !
+<0027> Rrryaah !
+<0028> Crèève !
+<0029> Nguhh !
+<0030> Gouah !
+<0031> Gohah !
+<0032> Guhhah !
+<0033> Vindiou...
+<0034> Oh-ooohh...
+<0035> Mhmm...
+<0036> Pfiou...
+<0037> Qu-qu'est-ce qu'il m'arrive !?
+<0038> Guooh, on me téléporte !
+<0039> G-g-guooaah !
+<0040> O-o-oohh !
+<0041> C'est fichu pour moi.
+<0042> Je vais faire une halte.
+<0043> Mildiou !
+<0044> On se paie de ma tête !
+<0045> T'es foutu, mon gaillard !
+<0046> T'iras pas plus loin, moule à gaufres !
+<0047> Ha-hah ! Personne m'échappe !
+<0048> Prépare-toi au combat !
+<0049> Reste chez toi !
+<0050> Tu vas le regretter !
+<0051> C'est toi qui vas couler, sapajou !
+<0052> Tu cherches les problèmes, bonhomme !
+<0053> Kyeeeeh !
+<0054> Hah hah !
+<0055> Seeeeey !
+<0056> Doryaah !
+<0057> Kuhu !
+<0058> Nuh !
+<0059> Guh !
+<0060> Nuo !
+<0061> Kahahh !
+<0062> Nguaar !
+<0063> Kuwa-ha...!
+<0064> Goooh !
+<0065> C'est raté !
+<0066> C'est moi que tu visais ?
+<0067> T'es rien mauvais !
+<0068> Ouap !
+<0069> Ga-hahahahaha !
+<0070> J'vais faire bon usage de tout ton fric.
+<0071> C'est fini pour toi !
+<0072> Gahaha, je m'sens fort comme jamais !
+<0073> Qu'est-ce que- ?!
+<0074> T'as vraiment osé faire ça, vaurien ?!
+<0075> E-espèce de...!
+<0076> T'as gagné, pour cette fois.
+<0077> Bien, bien.
+<0078> Ça fait pas d'mal d'en avoir plus.
+<0079> Tu veux pas en donner plus ?
+<0080> Ça vaut combien, tout ça ?
+<0081> Pft.
+<0082> Vaurien.
+<0083> Je hais ma vie.
+<0084> Gredin.
+<0085> À quelle fripouille je dois ce malheur !?
+<0086> J'manque de... de prudence.
+<0087> Comment j'ai pu rater ça ?
+<0088> Mille ans de malheur !
+<0089> T-t'es pas le plus p'tit des voyous...
+<0090> Il en faut... euh, plus que ça pour faire fuir un pirate.
+<0091> O... Ok, ok ! Vas-y, viens te battre, gros machin.
+<0092> J'sais pas ce que c'est, mais j'aurais dû m'en méfier.
+<0093> Matez un peu comment s'y prend un pirate.
+<0094> J'vais ratisser tous les trésors de la région.
+<0095> Je r'viendrai avec des cales pleines.
+<0096> Le pillage est pas contraire aux règles.
+<0097> Ils vont entendre parler de moi.
+<0098> La fin justifie les bastons.
+<0099> Attention, j'vais pas y aller mollo.
+<0100> D'abord, je les tabasse. Ensuite, je les pille.
+<0101> Tu veux te lancer dans la piraterie ?
+<0102> On va faire ça à ma manière.
+<0103> Tu vas voir comment vit un pirate !
+<0104> Rien n'empêche un fier galion d'arpenter les cieux !
+<0105> Dépliez les voiles !
+<0106> On y va, les gars !
+<0107> Dans même pas une heure, tout sera à nous !
+<0108> On va faire ça bien.
+<0109> Beau travail, les gars.
+<0110> On rafle tout, les gars !
+<0111> Bien joué.
+<0112> Gahaha ! Tout le plateau m'appartient, maintenant !
+<0113> Tu fais partie de l'équipage, toi aussi !
+<0114> Un p'tit nouveau, tiens.
+<0115> Un p'tit plus à notre puissance de feu.
+<0116> Mettez-moi ça quelque part en cale !
+<0117> Hmm, j'te laisse les commandes.
+<0118> Ohé, on change de place.
+<0119> T'as pas intérêt à te rater.
+<0120> Je r'tourne dans ma cabine vite fait.
+<0121> Okie dokie !
+<0122> Bien.
+<0123> D'ac'.
+<0124> Non.
+<0125> Bon sang !
+<0126> Sacrée veine.
+<0127> Hmm.
+<0128> C'est parti !
+<0129> Hmpf !
+<0130> Aaallons-y !
+<0131> Ohé !
+<0132> Hmm.
+<0133> Sympa.
+<0134> Gahaha, magnifique !
+<0135> Fils de chien !
+<0136> J'vois pas pourquoi j'en profiterais pas.
+<0137> Jamais vu, cette carte, tiens !
+<0138> Ça me paraît honnête.
+<0139> J'te pique celle-là un instant.
+<0140> Hahaha, à la bonne heure !
+<0141> Big magnum, feu !!
+<0142> On est de la même veine, toi et moi !
+<0143> J'vais pas t'épargner, morveuse !
+<0144> Enfin une morveuse qui sait s'habiller !
+<0145> File-moi ce sac si tu tiens à la vie !
+<0146> Tu sens l'oseille !
+<0147> Tiens, cadeau ! Maintenant, je file !
+<0148> Fils de chien, tu oses ouvrir le feu !?
+<0149> Rien d'plus naturel pour un pirate !
+<0150> Tu seras le mousse de l'équipage !
+<0151> Ohoh, voilà la gamine au tonneau de vin !
+<0152> Kwaha ! Comment j'ai pu perdre contre cette gamine !?
+<0153> O-o-ooh ! J'sais pas comment j'ai fait, mais j'ai gagné...
+<0154> Toi cont' moi, armes égales ! Ça m'paraît honnête !
+<0155> Cette carte est vraiment faite pour moi !
+<0156> Certains combats peuvent pas se résoudre par la fuite !
+<0157> Gahahhaa ! Excellent, excellent !
+<0158> Hrm. Petite prise.
+<0159> Gahahahaha ! J'aurais pas fait mieux !
+<0160> Viens pas m'chercher !
+<0161> Gahaha, tu d'vais pas être en entraînement, toi ?
+<0162> Même les pirates méritent de s'reposer !
+<0163> Hahaha, c'est ton tour de vaisselle !
+<0164> Guoh... T'es redoutable, j'suis fier de toi !
+<0165> Que...! Mutinerie !

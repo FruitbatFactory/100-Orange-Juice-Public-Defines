@@ -1,0 +1,109 @@
+// CampaignScenario_CodexStory_Commiseration
+// (lulu)
+<0000> Tout est tellement plus calme, d'un coup. Lulu aimerait nager un peu dans le lac pour se détendre.
+// (lulu)
+<0001> Mais... Elle a comme l'impression que quelqu'un l'observe.
+// (watty)
+<0002> A-ah, euh, c'est moi. Bonjour.
+// (lulu)
+<0003> Ah, c'est la dame sirène !
+// (watty)
+<0004> En fait, je m'appelle Watti... mais je ne t'en veux pas. C'est normal d'oublier quelqu'un comme moi.
+// (lulu)
+<0005> Ouah, t'es vraiment déprimante.
+// (watty)
+<0006> H-hein ?
+// (lulu)
+<0007> Euh, Lulu disait qu'elle était en pleine détente.
+// (watty)
+<0008> J'ai entendu, hein... Tu n'es pas obligée de mentir...
+// (lulu)
+<0009> M-mais... ça marche à tous les coups sur Ellie.
+// (watty)
+<0010> À mon avis, c'est la seule personne sur qui ça marche.
+// (lulu)
+<0011> B-bon, euh, pourquoi tu regardais Lulu depuis sous l'eau ? Tu la surveillais ?
+// (watty)
+<0012> Non ! Je voulais... hiii.... Je suis désolée... je vais y aller...
+// (lulu)
+<0013> Oh, on est pas sortis de l'auberge... Bon, euh.
+// (lulu)
+<0014> Lulu est pas fâchée ou quoi, hein ? Tu venais discuter ?
+// (watty)
+<0015> P-pas vraiment... Je voulais... rester un peu avec toi, parce que...
+// (lulu)
+<0016> Parce que quoi ?
+// (watty)
+<0017> ...parce que tu avais l'air encore plus triste que moi, l'autre jour...
+// (lulu)
+<0018> Ahhh... Mais... n'en parle pas à Lulu, s'il te plaît ! C'était une mauvaise période pour elle, elle ne veut plus y penser.
+// (watty)
+<0019> D-désolée. Je ne voulais pas raviver de mauvais souvenirs...
+// (lulu)
+<0020> Lulu pensait à beaucoup de choses négatives ce jour-là... Des choses qu'elle voudrait oublier.
+// (watty)
+<0021> A-après, c'était pas si mal, non plus. C'était... un peu cool, en fait.
+// (watty)
+<0022> Le truc de la dragonne de malchance, qui déverse le malheur sur tout le monde...
+// (watty)
+<0023> Ça me fait penser à beaucoup de vieux mythes.
+// (lulu)
+<0024> Aaaaaah ! C'est super ringard, Lulu pourrait mourir de honte !
+// (watty)
+<0025> Après, tu as retrouvé ta forme normale, maintenant...
+// (lulu)
+<0026> C'est grâce à tous les amis de Lulu.
+// (watty)
+<0027> Hmm, c'est... c'est dommage. J'espérais paraître plus heureuse en restant avec toi... En comparaison.
+// (lulu)
+<0028> Pourquoi tu dis ça à Lulu ?
+// (watty)
+<0029> Désolée...
+// (lulu)
+<0030> C'est pas grave. Mais tu devrais vraiment avoir une plus haute estime de toi-même !
+// (lulu)
+<0031> Et puis... A-argh !
+// (watty)
+<0032> Q-qu'est-ce qu'il se passe ?
+// (lulu)
+<0033> Lulu est en train de pondre un œuf d'or ! Ça faisait super longtemps !
+// (watty)
+<0034> Un œuf d'or ? Pour quelqu'un comme moi, vraiment ?
+// (lulu)
+<0035> Depuis ce jour-là, les œufs de Lulu se comportent bizarrement, en fait... Ah, ça vient !
+// (lulu)
+<0036> À l'intérieur, c'est... un ruban !
+// (watty)
+<0037> Un cosmétique ? C'est probablement un objet commun.
+// (lulu)
+<0038> Si tu le portes, ça te rendra aussi belle à l'extérieur qu'à l'intérieur !
+// (watty)
+<0039> C'est pas très beau, l'intérieur d'un poisson...
+// (lulu)
+<0040> Raah, allez, mets-le.
+// (watty)
+<0041> Oh... Oui, je me sens un peu plus belle... C'est très gênant...
+// (lulu)
+<0042> Lulu voit pas en quoi c'est gênant.
+// (watty)
+<0043> Je dis ça de façon positive. Ça me donne envie de m'y habituer. Je crois que je vais retourner nager un peu.
+// (watty)
+<0044> Si ça te dérange pas...
+// (lulu)
+<0045> Attends ! Lulu pense pas que le ruban résiste-
+// (lulu)
+<0046> ...à l'eau.
+// (watty)
+<0047> Oh non, il est déjà tout chiffonné... Je suis vraiment désolée !
+// (lulu)
+<0048> C'est pas grave, allons. Tiens, Lulu va te caresser un peu la tête.
+// (watty)
+<0049> *snif* Ta fourrure est toute douce.
+// (lulu)
+<0050> On le lui dit souvent.
+// (lulu)
+<0051> Bon... C'est pas aujourd'hui que Lulu va pouvoir nager...
+// (watty)
+<0052> Be zuis bésolée...
+// (lulu)
+<0053> Allons, allons, t'en fais pas. Si ça se trouve, Lulu va pondre un nouvel œuf, avec un mouchoir à l'intérieur.

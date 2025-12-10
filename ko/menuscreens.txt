@@ -162,6 +162,12 @@ CPU 대상 이벤트 넘기기
 < MENU_LOBBYSETTING_PVPBOUNTIES >
 플레이어 현상수배
 
+< MENU_LOBBYSETTING_TAGCOOLDOWN >
+교대 쿨다운
+
+< MENU_LOBBYSETTING_PARTNERREGENDELAY >
+파트너 회복 지연시간
+
 < MENU_BUTTON_GAME_RETURN >
 돌아간다
 
@@ -249,6 +255,15 @@ CPU 대상 이벤트 넘기기
 
 < MENU_BUTTON_GAME_TAG >
 교대
+
+< MENU_BUTTON_GAME_REINFORCE >
+지원
+
+< MENU_BUTTON_GAME_INTERCEPT >
+개입
+
+< MENU_BUTTON_GAME_BOLSTER >
+고무
 
 < MENU_BUTTON_GAME_BOUNTY >
 현상수배
@@ -835,10 +850,10 @@ KO 시 팀 소지 스타의 1/8을 잃습니다. 유닛은 아무 플레이어�
 미오의 코칭에 따라 즐겁게 수영을 배워봅시다! 신규 협동전 보스, 수영 코치가 등장했습니다!
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_01 >
-수영 코치에게 입히는 모든 피해가 모든 플레이어의 이벤트 진척에 추가됩니다.
+{}에게 입히는 모든 피해가 모든 플레이어의 이벤트 진척에 추가됩니다.
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_02 >
-다른 협동전 보스와 싸워도 이벤트에 기여할 수 있습니다.
+다른 협동전 보스와 싸워도 절반의 비율로 이벤트에 기여할 수 있습니다.
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_COMPLETE >
 이벤트는 완료되었고, 토모모도 수영하는 법을 배웠습니다! 그래도 아직 수영 코치랑 특훈을 더 할 수 있답니다.
@@ -997,13 +1012,13 @@ KO 시 팀 소지 스타의 1/8을 잃습니다. 유닛은 아무 플레이어�
 태그 팀에서는 파트너로 게임에 함께할 캐릭터를 한 명 더 고를 수 있습니다.
 
 < PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_04 >
-내 턴에 태그를 골라 선택했던 캐릭터를 교대시킬 수 있습니다. 그러면 리더 캐릭터가 파트너와 자리를 바꿉니다!
+내 턴에 교대를 골라 선택했던 캐릭터를 교대시킬 수 있습니다. 그러면 리더 캐릭터가 파트너와 자리를 바꿉니다!
 
 < PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_05 >
-태그를 하면 3챕터동안 다시 태그를 할 수 없습니다. 사용 전에 잘 생각하세요!
+교대를 하면 3챕터동안 다시 교대할 수 없습니다. 사용 전에 잘 생각하세요!
 
 < PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_06 >
-리더가 KO당하면 파트너까지 KO당하지 않은 한 자동으로 태그합니다. 이렇게 한 태그로도 쿨타임이 생기므로 주의하세요!
+리더가 KO당하면 파트너까지 KO당하지 않은 한 자동으로 교대합니다. 이렇게 한 교대로도 쿨타임이 생기므로 주의하세요!
 
 < PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_07 >
 파트너는 일정 챕터가 지날 때마다 자동으로 HP를 회복합니다. KO당했다면 부활값 능력치만큼의 턴이 지난 뒤에 부활합니다.
@@ -1021,8 +1036,64 @@ KO 시 팀 소지 스타의 1/8을 잃습니다. 유닛은 아무 플레이어�
 파트너가 가진 KO에서 회복한 뒤 자신에게 적용되는 효과는 파트너가 KO에서 회복할 때 여전히 적용됩니다.
 
 < PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_12 >
-최고의 태그 팀을 짜서 동네 100% 오렌지 주스 챔피언이 됩시다!
+최고의 이인조를 짜서 동네 100% 오렌지 주스 챔피언이 됩시다!
 
+< PLAYMENU_EVENT_SUMMER2025_INSTRUCTION_MAIN >
+스타 브레이커, 토마토, 미뮤우가 바닷가에서 난동을 부리고 있습니다! 신규 협동전 보스, 악동들이 등장했습니다!
+
+< PLAYMENU_EVENT_SUMMER2025_INSTRUCTION_COMPLETE >
+축하합니다! 하루 동안 싸운 뒤로 악동들의 주의가 딴 데로 돌아간 덕에 세상이 무사합니다!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_MAIN >
+100% 오렌지 주스부가 개설되기도 전에 위기를 맞았습니다! 게임을 플레이해서 포포미에게 자격을 보이세요!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_01 >
+이 이벤트 기간 동안 플레이어는 이인조 신규 게임 모드를 플레이할 수 있습니다!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_02 >
+매일 첫 게임을 플레이하면 이벤트 진행에 쓰이는 이동 점수 3점을, 첫 이인조 모드 플레이 시 추가로 3점을 얻습니다.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_03 >
+그 뒤에도 이인조 게임 한 판에 2점씩, 다른 모드 한 판에 1점씩을 얻습니다.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_04 >
+이벤트 지도에 위치한 오렌지 패널은 오렌지를 주고, 스타 패널은 스타를 주고, 초록색 치장품 패널은 무작위 치장품을 해금할 확률이 있으며 왕관 패널은 이벤트 치장품을 줍니다!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_05 >
+이벤트 맵을 완주하면 이벤트를 완수할 수 있으며, 계속해서 맵을 돌아 더 많은 보상을 얻을 수 있습니다!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_06 >
+이인조에서는 파트너로 게임에 함께할 캐릭터를 한 명 더 고를 수 있습니다.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_07 >
+자신의 턴에 교대 버튼을 눌러 앞서 선택한 두 캐릭터를 교대시킬 수 있습니다. 이러면 리더 캐릭터가 파트너와 자리를 맞바꿉니다!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_08 >
+한 번 교대를 하면 로비 설정에 따른 기간 동안 다시 교대할 수 없습니다. 사용 전에 잘 생각하세요!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_09 >
+리더가 KO당하면 파트너까지 KO당하지 않은 한 자동으로 교대합니다. 이렇게 한 교대로도 쿨다운이 생기므로 주의하세요!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_10 >
+파트너는 일정 챕터가 지날 때마다 자동으로 HP를 회복합니다. KO당했다면 부활값 능력치만큼의 턴이 지난 뒤에 부활합니다.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_11 >
+파트너 초상화에 커서를 대면 다음 부활은 언제인지가 보입니다.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_12 >
+파트너가 보유하는 카드 효과는 지속 시간이 줄어들지 않습니다.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_13 >
+파트너가 게임에 영향을 주는 유닛 효과를 보유하고 있다면 파트너가 필드에 올라올 때까지 효과가 적용되지 않습니다.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_14 >
+파트너가 가진 KO에서 회복한 뒤 자신에게 적용되는 효과는 파트너가 KO에서 회복할 때 여전히 적용됩니다.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_15 >
+최고의 이인조를 짜서 100% 오렌지 주스부를 개설할 자격을 증명합시다!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_COMPLETE >
+축하합니다! 100% 오렌지 주스부가 개설되었습니다! 계속 플레이하면서 청춘도 즐기고 더 많은 보상을 챙기세요!
 
 < PLAYMENU_EVENT_BOUNTYHUNTERS_FAME > 
 명성: %d
@@ -1065,6 +1136,9 @@ KO 시 팀 소지 스타의 1/8을 잃습니다. 유닛은 아무 플레이어�
 
 < MENU_COOPCLASS_DEALER >
 딜러
+
+< MENU_COOPCLASS_VANGUARD >
+선봉대
 
 < MENU_COOPUNLOCK_LEVEL >
 레벨 %d: %s
@@ -1271,6 +1345,9 @@ CPU 편집
 
 < MENU_CODEXSTORY_TITLE_CONCIERGE >
 수행원
+
+< MENU_CODEXSTORY_TITLE_ALTENICO >
+밤하늘 아래의 보물
 
 < MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
 {1}(으)로 게임 {0}판 플레이.

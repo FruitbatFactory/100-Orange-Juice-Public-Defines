@@ -1,0 +1,165 @@
+<0000> Heya !
+<0001> Hop !
+<0002> Tey !
+<0003> Comme ça.
+<0004> Voilà la carte que je joue !
+<0005> Voilà ce que je fais dans ces cas-là !
+<0006> Allez, je vais le faire.
+<0007> Je choisis d'utiliser ma carte !
+<0008> Je pose un piège !
+<0009> Attention, un piège rien qu'à moi !
+<0010> Visez un peu comment je pose ce piège.
+<0011> Hâte de voir qui va crever sur mon piège. Héhéhé.
+<0012> Ma carte Combat !
+<0013> Je deviens plus fort !
+<0014> Fahahahaha !
+<0015> Je vais régler ça vite et bien !
+<0016> Allez, mes frères ! À vous de jouer !
+<0017> Moi-même est de retour !
+<0018> J'ai cru que j'étais fichu...
+<0019> Mon corps, mon beau corps...
+<0020> Régénération totale !
+<0021> C'est quoi ce délire...?
+<0022> Bordel !
+<0023> Sérieusement...
+<0024> Mon corps ! Où es-tu ?
+<0025> Mon attaque à moi !
+<0026> J'y vais ! Allez !
+<0027> Orayo-toh !
+<0028> Crève !
+<0029> Aïe !
+<0030> Arrête, tu veux ?
+<0031> Ordure !
+<0032> Goeh !
+<0033> C'est rafraîchissant.
+<0034> Je suis en train de récupérer.
+<0035> Hmm, ça fait du bien.
+<0036> Merci bien.
+<0037> Hein, je me téléporte...!?
+<0038> Nuaaah !
+<0039> Hé, fais gaffe ! Je vais perdre la tête !
+<0040> Hé, je vais où, là !?
+<0041> Pas... possible.
+<0042> Mon corps... Qu'on me rende mon corps...
+<0043> Pauvre de moi...
+<0044> B-bon sang...
+<0045> Viens te battre !
+<0046> Je te défie !
+<0047> Je vais t'écraser !
+<0048> Que le combat commence !
+<0049> Tu sais qui je suis, au moins ?
+<0050> Je relève le défi. Allez !
+<0051> Tu veux m'affronter ? Ok, vas-y.
+<0052> Pauvre imbécile !
+<0053> Ora !
+<0054> Mon coup de poing !
+<0055> Prends ça !
+<0056> Uoooh !
+<0057> Aïe !
+<0058> Guha !
+<0059> Guh !
+<0060> Merde !
+<0061> Guaaaah !
+<0062> Nuaaaah ! Tout mais pas moi !
+<0063> Attends, attends ! Pouce !
+<0064> Arrête de... Guhaaah !
+<0065> Moi-même esquive avec souplesse !
+<0066> Rassure-toi, c'est très dur de m'atteindre.
+<0067> Tu peux pas me toucher !
+<0068> Beaucoup trop lent !
+<0069> Une victoire évidente !
+<0070> Bien évidemment que j'allais gagner !
+<0071> Hahahahaha, ça fait du bien.
+<0072> Aah, j'en peux plus d'être génial...
+<0073> Non... Impossible...
+<0074> C'est pour de faux... c'est pas possible...
+<0075> Mon corps rien qu'à moi !
+<0076> On m'a... vaincu... Vraiment...?
+<0077> Étoiles obtenues par moi-même.
+<0078> Des étoiles pour les stars.
+<0079> Tout ce qui brille est fait pour se réunir.
+<0080> Vous brillez bien, vous.
+<0081> J'ai perdu mon étoile...
+<0082> Non, ne t'en va pas...!
+<0083> Mes étoiles... jusqu'où allez-vous ainsi...?
+<0084> Non... j'en ai perdu...
+<0085> Un piège...? Vous trouvez ça correct, vous ?
+<0086> Comment j'ai pu me faire avoir ?
+<0087> Moi-même est pris au piège...
+<0088> Qui a posé ça ce truc là... Dénoncez-vous !
+<0089> *siffle* Le voilà, tiens.
+<0090> Il a une belle aura, lui, tiens.
+<0091> Je suis plus le seul à me défouler, tiens.
+<0092> Enfin, ça devient un peu intéressant.
+<0093> Je suis une star qui trouve des étoiles !
+<0094> Je vais trouver autant d'éclats que possible.
+<0095> Les étoiles brillent rien que pour moi.
+<0096> Elles sont jolies, pas vrai ? C'est pour ça que j'en veux.
+<0097> Mon sang veut que je me batte !\nEnfin, si j'avais du sang, c'est ce qu'il voudrait.
+<0098> Je peux entendre l'appel de la guerre.
+<0099> Pourquoi je me bats ? Pour moi, évidemment.
+<0100> On a le droit de se défouler sur les autres ?
+<0101> Ça y est, c'est mon tour ?
+<0102> Compris ! Je vais rendre ça plus intéressant !
+<0103> Tu feras gaffe au futur carnage causé par moi-même !
+<0104> Tu veux voir à quel point je suis balèze ?\nJe vais te montrer.
+<0105> Je suis prêt à y aller !
+<0106> Que la partie commence !
+<0107> On a planté le décor rien que pour moi.
+<0108> Tu vas voir à quel point je suis génial.
+<0109> Amitié + effort + victoire = moi !
+<0110> Ah-hahahaha ! C'était fastoche,\nmais je suis quand même content.
+<0111> C'est ce qui arrive quand j'utilise un dixième de ma force.
+<0112> Hé, pas mauvais.
+<0113> Un objet rare, choisi par moi-même !
+<0114> Même les objets sont attirés par moi.
+<0115> Alors, heureuse ? Ça se voit.
+<0116> T'as vu comment j'ai de la chance ?
+<0117> Échange !
+<0118> Vas-y, numéro 2.
+<0119> On change de place.
+<0120> Je m'en vais pour le moment !
+<0121> Oh.
+<0122> Bien !
+<0123> Ouais.
+<0124> Hein ?
+<0125> Et merde.
+<0126> La chance.
+<0127> Hmm.
+<0128> Bon, allez, là.
+<0129> J'envoie les dés.
+<0130> C'est parti.
+<0131> Salut, c'est moi.
+<0132> Euhh...
+<0133> Bien.
+<0134> Hé, pas mal !
+<0135> Qu'est-ce que...
+<0136> Je suis capable d'à peu près tout !
+<0137> Maintenant, ça fait partie de mes pouvoirs !
+<0138> Matez un peu à quel point je m'en sers mieux.
+<0139> Les cartes des autres sont aussi mes cartes !
+<0140> Merci !
+<0141> Salut, mon vieux. Ça boume ?
+<0142> Oh, tu voulais jouer avec moi, mon vieux ?
+<0143> Sacré combat, pas vrai ?
+<0144> Tu es vraiment fort, mon ami...
+<0145> Viens, Kyoko, on va bien rigoler ensemble.
+<0146> Hé oh, tu essaies de faire quoi, là, Kyoko ?
+<0147> Aah, je me sens fatigué.\nKyoko, prête-moi tes jambes, tu veux ?
+<0148> A-attends, je peux tout expli- Gyaaaah !
+<0149> Tiens, te voilà, Sumika.
+<0150> Arrête de m'appeler faux-papa !
+<0151> J'ai gagné, gamine.
+<0152> Et merde... Espèce de sale chipie...
+<0153> Qu'est-ce que je suis censé faire, comme ça ?
+<0154> C'est ridicule... On se moque de moi !
+<0155> Quelqu'un aurait pas vu mon corps parfait...?
+<0156> Grr... Si on m'attrape, je suis cuit...
+<0157> Tu m'as tant manqué, mon corps adoré !
+<0158> Pfiou... Mon moi complet revient à la vie !
+<0159> Qu'est-ce que j'aime avoir des bras et des jambes...
+<0160> Enfin... Attention, j'arrive me venger...!
+<0161> Si tu disparais, ce sera moi, le vrai !
+<0162> Hé, faisons la paix. On est comme des frères !
+<0163> Maintenant, c'est moi, le vrai moi !
+<0164> Pardonne-moi, je ne me rebellerai plus jamais...

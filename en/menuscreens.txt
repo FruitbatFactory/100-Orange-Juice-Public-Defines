@@ -165,6 +165,12 @@ Invader
 < MENU_LOBBYSETTING_PVPBOUNTIES >
 Player Bounties
 
+< MENU_LOBBYSETTING_TAGCOOLDOWN >
+Tag Cooldown
+
+< MENU_LOBBYSETTING_PARTNERREGENDELAY >
+Partner Regen Delay
+
 < MENU_BUTTON_GAME_RETURN >
 RETURN
 
@@ -255,6 +261,15 @@ Break Out!
 
 < MENU_BUTTON_GAME_TAG >
 TAG
+
+< MENU_BUTTON_GAME_REINFORCE >
+REINFORCE
+
+< MENU_BUTTON_GAME_INTERCEPT >
+INTERCEPT
+
+< MENU_BUTTON_GAME_BOLSTER >
+BOLSTER
 
 < PLAYMENU_FREEBATTLE >
 ONLINE
@@ -787,7 +802,7 @@ Cook is supposed to help Ellie find what she's looking for once she's been fed e
 To play the Bounty Hunt mode, toggle between Normal, Co-op and Bounty Hunt when creating a new lobby or starting a single player game.
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_02 >
-When playing the Bounty Hunt mode, food markers may appear on Shops. Stop at a marked Shop to collect a delicacy.
+When playing the Bounty Hunt mode, food markers may appear on Shops. Stop at a marked Shop to collect a delicacy. You can collect up to 3 delicacies in 1 match.
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_03 >
 Quest locations and Shops with various useful items appear over the field, and are refreshed every 6 chapters.
@@ -832,10 +847,10 @@ Cook has been fed and the journey is beginning! But you can still keep playing B
 Let's enjoy Mio's coaching and learn to swim! A new Co-op boss, the Swimming Coach, is now available!
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_01 >
-All the damage you deal to Swimming Coach advances the event for everyone.
+All the damage you deal to {} advances the event for everyone.
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_02 >
-You can also fight any other Co-op boss to contribute to the event.
+You can also fight any other Co-op boss to contribute to the event at half the rate.
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_COMPLETE >
 The event has been cleared, and Tomomo has learned to swim! You can still take more training sessions with the Swimming Coach, though.
@@ -1022,6 +1037,63 @@ Effects that apply to self after recovering from KO will still apply to your par
 < PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_12 >
 Plan out your best tag team and become the local 100% Orange Juice champion!
 
+< PLAYMENU_EVENT_SUMMER2025_INSTRUCTION_MAIN >
+Star Breaker, Tomato and Mimyuu are wrecking havoc at the beach! A new Co-op boss, Troublemakers, is now available!
+
+< PLAYMENU_EVENT_SUMMER2025_INSTRUCTION_COMPLETE >
+Congratulations! After a day of fighting, the Troublemakers have been distracted and the world is saved!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_MAIN >
+The 100% OJ Club is in peril before it formed! Prove yourself to Popomi by playing the game!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_01 >
+For the duration of this event, players will be able to play a special game mode: Tag Team!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_02 >
+You get 3 Move Points to progress the event by playing the first game of the day, and another 3 Move Points for playing the first Tag Team game of the day.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_03 >
+Keep playing to gain another 2 Move Points per Tag Team game, or 1 point for a game in a different game mode.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_04 >
+Orange panels on the event map give Oranges, Star panels give stars, green Cosmetic panels have a chance to unlock a random cosmetic, and the Crown panels give an event cosmetic!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_05 >
+Loop around the event map once to finish the event, and then keep playing for even more rewards!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_06 >
+In Tag Team, you'll be able to choose an additional character as a Partner to accompany you in games.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_07 >
+You can choose to Tag on your turn to switch places between the characters you have selected. The Leader character will then exchange places with your Partner!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_08 >
+Once you Tag, you won't be able to do so again for a fixed number chapters, depending on the lobby setting. Decide carefully before using it!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_09 >
+If the Leader ends up getting KO'd, they'll be forced to Tag if their Partner is not KO'd as well. This will put the Tag action on cooldown, so be careful out there!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_10 >
+Your Partner will recover HP automatically after a certain amount of chapters pass. If they are KO'd, they will recover after an amount of turns equal to their REC stat passes.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_11 >
+Hovering over your Partner's portrait will show when the next occurrence of their recovery will be.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_12 >
+Any card effects your partner currently has will not have their duration decreased.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_13 >
+If your partner has any unit effects that would affect the game, their effects will NOT be active unless they return back onto the field.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_14 >
+Effects that apply to self after recovering from KO will still apply to your partner once KO recovery takes place.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_15 >
+Assemble the ultimate team and prove you're worthing of starting a 100% OJ Club!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_COMPLETE >
+Congratulations! The 100% OJ Club has been established! Enjoy your youth by playing together for even more rewards!
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 Next goal:
 
@@ -1085,6 +1157,9 @@ Avenger
 
 < MENU_COOPCLASS_DEALER >
 Dealer
+
+< MENU_COOPCLASS_VANGUARD >
+Vanguard
 
 < MENU_COOPUNLOCK_LEVEL >
 Level %d: %s
@@ -1292,6 +1367,9 @@ Commiseration
 
 < MENU_CODEXSTORY_TITLE_CONCIERGE >
 Concierge
+
+< MENU_CODEXSTORY_TITLE_ALTENICO >
+Treasures Beneath the Night Sky
 
 < MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
 Play {0} games as {1}.

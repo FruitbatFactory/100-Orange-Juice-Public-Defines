@@ -1,0 +1,160 @@
+<0000> C'est parti !
+<0001> Soreï !
+<0002> Yah !
+<0003> Toryaah !
+<0004> J'utilise cette carte !
+<0005> C'est l'occasion de s'en servir !
+<0006> Pas mal, hein ? J'vais tout renverser !
+<0007> J'crois que j'dois m'en servir.
+<0008> Héhéhé, ça me parle, moi, tout ça !
+<0009> J'pose un piège là !
+<0010> Qui va bien s'faire choper ♪
+<0011> Un piège cruel, signé Loubardie !
+<0012> Carte Combat !
+<0013> J'vais devoir m'en servir !
+<0014> Tomato, puissance illimitée !
+<0015> C'est ça, ma stratégie !
+<0016> Méca-Loubardie, à l'attaque !
+<0017> Tu vas voir c'que ça fait de t'en prendre à Mimyuu !
+<0018> Beau travail, Mimyuu. Je prends le relai !
+<0019> Tiens, Mimyuu. Des bonbons en récompense !
+<0020> Vous touchez pas à mon acolyte, vous-autres !
+<0021> Guh...
+<0022> Merde...
+<0023> Mimyuu...
+<0024> J'peux toujours pas m'relever...
+<0025> Technique de combat Loubardie !
+<0026> Prends ça !
+<0027> Kufufu !
+<0028> Toooryaaah !
+<0029> Hé, ça fait mal !
+<0030> Tu fous quoi, là ?
+<0031> Khhu !
+<0032> Uwaaah !
+<0033> Beaucoup mieux !
+<0034> C'était une bonne pause !
+<0035> Haaah, ça me sauve la vie !
+<0036> J'me sens beaucoup mieux, d'un coup !
+<0037> Un portail !
+<0038> Guaaahh, on m'envole !
+<0039> On va où, là !?
+<0040> J'crois que j'vais gerber !!
+<0041> P-purée...
+<0042> L-longue vie à la Loubardie...
+<0043> Même si je meurs, Mimyuu va...
+<0044> Mimyuu, j'te laisse t'en charger...
+<0045> C'est l'heure de la bagarre !
+<0046> Vise un peu mes gadgets de combat !
+<0047> Héhéhé, j'vais te dégommer !
+<0048> Si tu veux t'excuser, c'est maintenant !
+<0049> Ok, j'accepte !
+<0050> Héhéhé, vas-y, attaque !
+<0051> Quoi, un ennemi !?
+<0052> Tu vas le regretter !
+<0053> Toryaah !
+<0054> Prends ça !
+<0055> Fumier !
+<0056> Et bouum !
+<0057> Aïe !
+<0058> Hé, arrête ça !
+<0059> Tu fous quoi, là !?
+<0060> Gyah !
+<0061> Comment !? J'vais chialer !
+<0062> Mais qu'est-ce que tu m'veux !?
+<0063> Ça fait super maaal !!
+<0064> Bieeeeeh !!
+<0065> Tu me visais, là ?
+<0066> C'est raté !
+<0067> Nullos !
+<0068> Abruti !!
+<0069> Ouais ! J'ai réussi !
+<0070> Let's go !! J'ai gagné !
+<0071> On a réussi, Mimyuu !
+<0072> Allez, au suivant !
+<0073> Je suis souffrance...
+<0074> Comment j'ai pu me rater...?
+<0075> Mais merde !
+<0076> C'est trop frustrant !
+<0077> C'est mes étoiles, maintenant !
+<0078> J'les prends toutes !
+<0079> J'aime trop en trouver !
+<0080> Avec ça, j'vais acheter un goûter pour Mimyuu.
+<0081> Noooon ! Pas mes étoiles !
+<0082> Attendez ! Restez ici !
+<0083> Hé, qu'est-c'qu'il vous prend à disparaître !?
+<0084> Mes étoiles s'en vont...
+<0085> Guaaaah ! Un piège !
+<0086> C'est quoi ce piège vicieux, là !?
+<0087> Hé ! T'étais obligé de le poser là !?
+<0088> Comment j'ai pu me faire avoir par ça...?
+<0089> 'gaffe, y'a un truc badant qui approche.
+<0090> C'est quoi, ce géant ? Il me fout les jetons.
+<0091> Mimyuu, t'approche surtout pas de ce truc...
+<0092> C'est quoi, ce monstre...? Guh...
+<0093> Faut accumuler des étoiles ? Ok, j'm'en occupe !
+<0094> Toutes les étoiles du monde appartiennent à la Loubardie !
+<0095> Héhé, j'vais trouver des étoiles\net acheter plein de bonbons avec !
+<0096> Tu veux les étoiles aussi, Mimyuu ?\nOn va faire ça ensemble, alors !
+<0097> La baston, c'est la spécialité de la Loubardie !
+<0098> Avec Mimyuu, on va tout détruire !
+<0099> Attention les yeux, j'vais sortir mon Méca-Loubardie !
+<0100> J'vais tous les écraser !
+<0101> Moi c'est Tomato ! Mimyuu est là aussi !
+<0102> Ensemble, on est la Loubardie !
+<0103> Mimyuu, viens ! On va jouer !
+<0104> On va tout casser et faire peur à tout le monde !
+<0105> Mimyuu, j'espère que t'es motivée !
+<0106> On y va, Mimyuu ! Le monde va entendre parler de la Loubardie !
+<0107> Cette fois, on y va à fond, Mimyuu !
+<0108> La partie commence !
+<0109> On remporte la victoire !
+<0110> Mimyuu, on va faire une fête avec plein de bonbons !
+<0111> C'est ça, le pouvoir de la Loubardie ! Héhéhé !
+<0112> Moi et Mimyuu, on forme l'équipe la plus redoutable !
+<0113> Oh, j'sens que ça peut être utile.
+<0114> Héhéhé, j'me demande déjà quels\npièges je pourrais concocter avec ça.
+<0115> Génial ! Un nouvel objet !
+<0116> J'vais m'en servir dès maintenant !
+<0117> On échange !
+<0118> Vas-y !
+<0119> J'compte sur toi !
+<0120> Échange !
+<0121> Ok !
+<0122> Cool.
+<0123> D'ac'.
+<0124> Nan !
+<0125> Hrmm !
+<0126> La chance !
+<0127> Hein ?
+<0128> On y va !
+<0129> Allez, roule !
+<0130> Go !
+<0131> Yo !
+<0132> Hmmm...!
+<0133> Pas mal.
+<0134> Génial !
+<0135> Hein, comment !?
+<0136> Ce pouvoir est à moi, maintenant !
+<0137> Ouah ! Chaipas à qui c'est, mais je m'en sers !
+<0138> J'sais pas c'que ça vaut, mais j'ai plus le choix !
+<0139> J'peux même utiliser le pouvoir des ennemis !
+<0140> Mimyuu, on va jouer ensemble.
+<0141> Oui, quoi, Mimyuu ? J'suis occupée, là !
+<0142> Bien joué, Mimyuu ! Tu d'viens de plus en plus forte !
+<0143> Tu t'es amusée, Mimyuu ?
+<0144> Le plan de Mimyuu entre en action !
+<0145> T'as sous-estimé Mimyuu juste pask'elle est p'tite, hein ?
+<0146> Heh, des fois, tu me fais presque peur, Mimyuu.
+<0147> Allez, Mimyuu, c'est le moment !
+<0148> Boss, venez jouer avec nous !
+<0149> Boss...!? Vous allez nous tester, c'est ça ?
+<0150> Après tout c'temps, on a enfin surpassé la boss...
+<0151> Toujours aussi balèze, boss...
+<0152> Que- Un vrai méchant !?
+<0153> Ouaah ! Il m'a fait super peur !
+<0154> Y'a que sa frimousse qui fait peur, en fait.
+<0155> C'est lui, le plus méchant, alors...
+<0156> Je me sens vraiment mal pour ces pingouins !
+<0157> Mais... c'est toi ! La fille qui maltraite les pingouins !
+<0158> T'as retenu la leçon, j'espère !\nTu touches plus aux pingouins !
+<0159> Merde... J'suis désolée, les pingouins...

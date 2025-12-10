@@ -1,0 +1,160 @@
+<0000> Et hop.
+<0001> Allons-y.
+<0002> Je crois bien que je dois jeter les dés.
+<0003> Si vous le permettez...
+<0004> Je devrais jouer une carte. Oui, une carte !
+<0005> C'est un bel investissement.
+<0006> Qui ne tente rien n'a rien !
+<0007> Je crois en mon instinct d'homme d'affaire !
+<0008> Vous ne pourrez pas refuser ce produit-là !
+<0009> Qui cherche le danger, au danger périra !
+<0010> Un bon article peut se vendre tout seul.
+<0011> L'expertise, c'est savoir prendre les devants.
+<0012> C'est un investissement.
+<0013> Je me battrai à plein potentiel ! Oui, à plein potentiel !
+<0014> Il n'est pas question de me laisser faire !
+<0015> Hmm, celle-là, peut-être ?
+<0016> Chargement terminé ! On va livrer en un temps record !
+<0017> Un bon commerçant ne se repose pas sur ses lauriers !\nOui, sur ses lauriers !
+<0018> Je me réveille. Oui, je me réveille.
+<0019> Pas le temps de traîner !
+<0020> J'ai assez perdu de temps ainsi.
+<0021> Quel manque de bol...
+<0022> J'attends le moment opportun... oui, opportun...
+<0023> Un bel exemple de perte de temps.
+<0024> C'est très embêtant.
+<0025> Hah, hah, hah !
+<0026> Signe-moi ce contrat !
+<0027> Il va falloir signer !
+<0028> Passe commande, maintenant !
+<0029> Guh !
+<0030> Qu'est-ce que...!?
+<0031> Hé, arrête ça, veux-tu ?
+<0032> Pourquoi donc !?
+<0033> Tout peut se guérir avec assez de temps et d'argent.
+<0034> Ah, c'est beaucoup mieux.
+<0035> Hmmm, parfait.
+<0036> Excellente prestation.
+<0037> Ouaah !
+<0038> C'est une... bonne affaire !?
+<0039> Hem. Je crains avoir perdu une poignée de mes repaires.
+<0040> Oooh !
+<0041> Va au diable !
+<0042> Si j'offre un joli billet à Dieu...\nTout le monde est corruptible...
+<0043> Plus tôt je me couche, plus tôt je me lève !
+<0044> Je vais devoir prendre quelques notes...
+<0045> Tu n'as pas remboursé tes dettes !
+<0046> Il va falloir payer !
+<0047> Souhaites-tu devenir un client régulier ?
+<0048> Des fois, le commerce nécessite de renverser la concurrence.
+<0049> Tu veux jouer les durs ? On va jouer les durs.
+<0050> Mhm, pas de problème.
+<0051> Prépare-toi au pire si tu sous-estimes mon transport !
+<0052> J'imagine que tu veux la cargaison ?
+<0053> Chaud devant !
+<0054> Prends ça !
+<0055> Je te préviens, la note va être salée !
+<0056> Prends ça, cadeau de la maison !
+<0057> Sale...!
+<0058> Urgh !
+<0059> Hé, attention ! Ma cargaison est fragile !
+<0060> Arrête ça !
+<0061> Je vais te faire payer, qu'importe le prix !
+<0062> Tu vas me le payer ! Oui, me le payer !
+<0063> Ughiioohh !
+<0064> Gyaah !
+<0065> Tu ferais mieux de lâcher l'affaire.
+<0066> Pas question de ralentir ! Non, pas question !
+<0067> Ouf !
+<0068> C'était juste.
+<0069> Merci d'avoir employé nos services.
+<0070> Encore un client satisfait.
+<0071> Au plaisir de refaire affaire !
+<0072> Adieu !
+<0073> On me cambriole en plein jour !
+<0074> Pff, quelle misère...
+<0075> Grrh, quel idiot je fais...
+<0076> Espèce de radin !
+<0077> Quelle joie de voir l'argent couler à flot !
+<0078> Et on dit que l'argent ne fait pas le bonheur ? Ridicule !
+<0079> De la misère à la richesse !
+<0080> J'ai fait fortune ! Oui, fortune !
+<0081> Quelle sottise...!
+<0082> Tous mes bénéfices...!
+<0083> Ça vient comme ça repart...
+<0084> Mon rêve s'évanouie...
+<0085> Ugyah !?
+<0086> Ma cargaison !?
+<0087> Est-ce que ça a touché la marchandise !?
+<0088> Une embuscade !
+<0089> En voilà, un dur à cuir !
+<0090> Ça va être difficile de marchander.
+<0091> Hm... J'imagine que tu ne veux pas négocier.
+<0092> J'aurais dû changer d'itinéraire...
+<0093> Je vais me faire un peu d'argent.
+<0094> Le commerce, comme d'habitude.
+<0095> L'argent fait tourner le monde !
+<0096> Rien de plus important que l'argent !
+<0097> Combien de clients peut-on se faire aujourd'hui ?
+<0098> J'ai une offre qu'ils ne pourront pas refuser.\nNon, ils pourront pas !
+<0099> L'argent fait le pouvoir !
+<0100> Aux idiots l'argent brûle les doigts.\nOui, brûle les doigts !
+<0101> Tu m'as appelé ?
+<0102> Tu requiers mes services ?
+<0103> Je suis toujours prêt à marchander, oui, toujours prêt.
+<0104> Besoin de livrer des marchandises ?
+<0105> Achète à rabais, vend à prix élevé.
+<0106> Il n'y a pas livraison plus rapide,\nnon, pas plus rapide !
+<0107> Notre slogan : Livraison rapide comme le vent !
+<0108> Les affaires commencent.
+<0109> Nous sommes n°1 du marché ! Oui, du marché !
+<0110> Rien ne peut concurrencer nos services !
+<0111> Toute l'économie m'appartient !
+<0112> À la fin, c'est toujours moi qui l'emporte !
+<0113> Quelle est sa valeur marchande ?
+<0114> Un merveilleux article !
+<0115> Le client a l'œil pour la qualité !
+<0116> C'est un article très rare !
+<0117> Désolé, je dois me retirer !
+<0118> J'ai une autre livraison sur le feu, oui, sur le feu.
+<0119> Surtout, n'oublie pas : L'erreur ne peut se rembourser !
+<0120> Je te laisse te charger de la cargaison !
+<0121> Marché conclu.
+<0122> Merveilleux !
+<0123> Entendu !
+<0124> Oh, bien sûr que non.
+<0125> Allons, on ne peut pas toujours gagner.
+<0126> Dame Fortune nous sourit !
+<0127> Qu'est-ce que ça signifie ?
+<0128> Faisons un nouveau record !
+<0129> Ce jet de dé m'apportera sûrement la victoire !
+<0130> On peut y aller !
+<0131> Ah, bien le bonjour.
+<0132> Hmm, hmm...
+<0133> Héhé, merveilleux.
+<0134> Comme c'est merveilleux !
+<0135> Malédiction !
+<0136> Ça vaut mieux que rien.
+<0137> Les vieilleries des uns font le bonheur des autres.
+<0138> Premier arrivé, premier servi !
+<0139> On va bien pouvoir lui trouver une utilité !
+<0140> Dégage de mon itinéraire, tu veux !
+<0141> Si vous avez besoin de livraisons, je m'en occupe !\nOui, je m'en occupe !
+<0142> Hé ! Le temps, c'est de l'argent !
+<0143> Chaque petite économie est un pas vers la fortune !
+<0144> Bon, je sauve les meubles...
+<0145> Héhéhé ! Voilà à quoi servent les relations !
+<0146> Je pourrais livrer ta marchandise !\nOn ferait fortune, ensemble !
+<0147> Je sais reconnaître un homme d'affaire compétent,\noui, compétent !
+<0148> Si tu pouvais signer là...
+<0149> Tu es dur en négociation, ma parole !
+<0150> Et bonne journée !
+<0151> Au plaisir de servir ! Si nécessaire,\nnous allons bientôt nous ravitailler !
+<0152> B-bon... C'est un bon compromis, au moins.
+<0153> Bon, je vais noter ça comme une perte sur le trajet.
+<0154> Tu ferais mieux de passer au niveau supérieur !
+<0155> J'aimerais faire une contre-proposition !
+<0156> Me voilà pile à l'heure, oui, pile à l'heure !
+<0157> Et une autre livraison réussie, une !
+<0158> Je me sers, hein.
+<0159> Sous la pluie comme sous la neige,\nma vitesse reste la même ! Oui, la même !

@@ -92,6 +92,9 @@ Máquina de Verão de Pegar Mascotes
 < ARCADE_MACHINE_BOUNTYHUNT >
 Máquina de Caça de Recompensas de Pegar Mascotes
 
+< ARCADE_MACHINE_PLUSHIE >
+Máquina de Pegar Pelúcias
+
 < ARCADE_MACHINE_EXCHANGE >
 Troca de Mascotes
 

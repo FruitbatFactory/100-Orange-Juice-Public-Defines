@@ -1,0 +1,161 @@
+<0000> Hmpf.
+<0001> Allez.
+<0002> Hop.
+<0003> Pff.
+<0004> L'embarras du choix.
+<0005> Fichez-moi la paix.
+<0006> Qu'en dites-vous ?
+<0007> Il n'y a pas de quoi s'y attacher.
+<0008> C'est en position.
+<0009> Un piège.
+<0010> Je vais poser ça juste ici.
+<0011> Je prévois toujours sur le long terme.
+<0012> Je vais l'essayer, tiens.
+<0013> Je n'engage pas un combat sans être armé.
+<0014> Impossible de perdre avec ce petit bijou.
+<0015> Je vais te démonter.
+<0016> J'ai plus d'un tour dans mon sac.
+<0017> Vous ne m'y reprendrez pas une fois de plus.
+<0018> Je vais lui rendre la monnaie de sa pièce.
+<0019> Ça n'aurait pas été plus mal de mourir ici.
+<0020> J'y retourne.
+<0021> Pourquoi ça ne marche pas ?
+<0022> Comment ça peut se passer aussi mal ?
+<0023> On se moque de moi.
+<0024> Impossible.
+<0025> Tiens.
+<0026> Hop.
+<0027> Hm.
+<0028> Comme ça.
+<0029> Aïe.
+<0030> Qu'est-ce que...?
+<0031> Bon sang...
+<0032> Argh !
+<0033> Enfin du soin.
+<0034> Je dois me calmer.
+<0035> C'est bon, je me sens d'y retourner.
+<0036> Beaucoup mieux.
+<0037> Une téléportation forcée ?
+<0038> Je ne t'ai pas autorisé à me téléporter.
+<0039> Que se passe-t-il ?
+<0040> Guh.
+<0041> Merde...
+<0042> Une petite erreur.
+<0043> Bon sang.
+<0044> Pfff.
+<0045> Allez, c'est parti.
+<0046> C'est le moment.
+<0047> Je passe à l'attaque.
+<0048> Tu es prêt, j'espère.
+<0049> Tu vas regretter de m'avoir défié.
+<0050> Tu m'insupportes.
+<0051> Imbécile.
+<0052> Tu me cours sur les nerfs.
+<0053> Dépêche-toi de mourir.
+<0054> Le coup fatal.
+<0055> Yah.
+<0056> Je vais te mettre en pièces.
+<0057> Guh.
+<0058> C'est douloureux...
+<0059> Pft.
+<0060> Fous-moi la paix.
+<0061> Comment...?
+<0062> Raaah !
+<0063> C'est quoi ton problème ?
+<0064> Espèce de...!
+<0065> Pourquoi je te laisserais me toucher ?
+<0066> Tu as gâché ton coup.
+<0067> Apprends à viser.
+<0068> Simple comme bonjour.
+<0069> Quelle perte de temps.
+<0070> *soupir*
+<0071> L'échec n'était pas dans mes intérêts.
+<0072> Tu n'avais aucune chance.
+<0073> Merde... merde !
+<0074> T'es quel genre de monstre ?
+<0075> Je n'arrive pas à y croire.
+<0076> Va au diable.
+<0077> On fait ça en douceur.
+<0078> Bien.
+<0079> Tout comme prévu.
+<0080> Hah !
+<0081> Hmm ?
+<0082> Comment ?
+<0083> Hé, oh !
+<0084> Évidemment, ça tombe sur moi.
+<0085> Un piège ?
+<0086> Pft, on m'a piégé.
+<0087> Tss, c'est sournois.
+<0088> J'ai fait une erreur.
+<0089> Les ennuis commencent.
+<0090> Oh non.
+<0091> Ça ne m'inspire pas confiance.
+<0092> Tu es de retour à ton poste ?
+<0093> Il n'y a pas de mal à gagner sur la durée.
+<0094> Je vais gagner sans prendre de risques.
+<0095> Petits pas par petits pas.
+<0096> Les étoiles sont à moi.
+<0097> Je viens pour tout détruire.
+<0098> Je vais jouer l'approche offensive.
+<0099> N'ayez crainte, je suis un simple civil.
+<0100> On va faire ça bien.
+<0101> Tu as besoin de mes capacités ?
+<0102> Je vais devoir passer à l'action.
+<0103> À moi de jouer.
+<0104> C'est ennuyeux, mais nécessaire.
+<0105> Je vais gagner vite et bien.
+<0106> C'est bon, on peut y aller.
+<0107> Au travail.
+<0108> Plus vite on s'y met, plus vite on en finit.
+<0109> Tout s'est déroulé sans accroc.
+<0110> Je n'avais aucune chance de perdre.
+<0111> C'est bien, c'était distrayant.
+<0112> Hmpf, c'était frivole.
+<0113> On gagne en puissance.
+<0114> Que voilà...
+<0115> Je vois, du matériel de bonne qualité.
+<0116> Bien.
+<0117> C'est le bon moment pour échanger.
+<0118> On échange.
+<0119> Tu as intérêt à bien travailler.
+<0120> Je te laisse ma place.
+<0121> Soit.
+<0122> Beau travail.
+<0123> Mhm.
+<0124> Non.
+<0125> Quoi ?
+<0126> Quelle chance.
+<0127> Hein ?
+<0128> Allons-y.
+<0129> Comme ça.
+<0130> C'est parti.
+<0131> Salutations.
+<0132> Hmm.
+<0133> Bien joué.
+<0134> Mes félicitations.
+<0135> Bon sang !
+<0136> J'ignore encore l'étendue de son potentiel...
+<0137> Je choisis celle-là.
+<0138> Ça vous étonne, hein ?
+<0139> Je l'aime bien, celle-là.
+<0140> Mes remerciements.
+<0141> Je vais le détruire une bonne fois pour toutes.
+<0142> Comment cette horreur peut encore fonctionner ?
+<0143> C'est répugnant.
+<0144> Comment est-ce possible...?
+<0145> Retourne dans ton bloc, toi.
+<0146> Alors, on essaie de se rebeller ?
+<0147> Tâche de rester à ta place.
+<0148> Comment ? Vous êtes toutes mes...
+<0149> T'es pas la Sumika que j'ai connu...
+<0150> Tu t'es auto-améliorée, non ?
+<0151> Tu n'es pas prête pour vaincre\ncette maudite gardienne.
+<0152> Tu me sembles assez puissante\npour vaincre la gardienne.
+<0153> J'aurais préféré que tu n'existes pas.
+<0154> Tu es toujours là pour me contrecarrer.
+<0155> J'ai finalement réussi à la battre...
+<0156> Merde... merde, merde !
+<0157> Quel genre d'humain es-tu...?
+<0158> Une arme complètement folle.
+<0159> Qui a pu concevoir une arme aussi dangereuse ?
+<0160> Elle est vraiment folle...

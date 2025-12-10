@@ -1,0 +1,220 @@
+< CARD_BOUNTY_TURNISLIME_HUNT >
+name=Navévaseux
+descr=En combat, Navévaseux vous enlève 1 ATK. Si vous commencez le combat avec 2 ATK ou plus, vous perdez encore 1 ATK.
+flavor=
+
+< CARD_BOUNTY_TROLLITE_HUNT >
+name=Salgoss
+descr=En combat, Salgoss perd 1 ATK à chaque tour.
+flavor=
+
+< CARD_BOUNTY_MOUSSE_HUNT >
+name=Miké Maousse
+descr=En combat, Miké Maousse vole votre niveau en étoiles à chaque fois qu'elle vous touche.
+flavor=
+
+< CARD_BOUNTY_STRANGEMOUSSE_HUNT >
+name=Maousse Pistache
+descr=En combat, Maousse Pistache vole votre niveau en étoiles à chaque fois qu'elle vous touche.
+flavor=
+
+< CARD_BOUNTY_POWERMOUSSE_HUNT >
+name=Maousse Framboise
+descr=En combat, Maousse Framboise vole votre niveau en étoiles à chaque fois qu'elle vous touche.
+flavor=
+
+< CARD_BOUNTY_DOLL_HUNT >
+name=Poupée Hantée
+descr=En combat, Poupée Hantée vous enlève 1 PV à chaque tour.
+flavor=
+
+< CARD_BOUNTY_HELISEED_HUNT >
+name=Tourbigraine
+descr=En combat, Tourbigraine s'enfuit au bout de 3 tours.
+flavor=
+
+< CARD_BOUNTY_BLIZARD_HUNT >
+name=Lézarpin
+descr=En combat, Lézarpin gagne +1 ATK, DEF ou EVD au hasard à chaque tour.
+flavor=
+
+< CARD_BOUNTY_WOLLY_HUNT >
+name=Grolaineuh
+descr=Grolaineuh subit 1 point de dégât supplémentaire à chaque dégât subi.
+
+< CARD_BOUNTY_TERRAWYRMER_HUNT >
+name=Hydre-Terre
+descr=En combat, Hydre-Terre obtient +1 ATK, +1 DEF et -1 EVD chaque fois qu'il subit 2 dégâts ou plus à la fois.
+
+< CARD_BOUNTY_RUFFSHROOM_HUNT >
+name=Cabolet
+descr=Vous gagnez 2 PV en vainquant Cabolet.
+
+< CARD_BOUNTY_GOST_HUNT >
+name=Phontöme
+descr=Phontöme gagne +1 EVD pour chaque point d'ATK du joueur qui l'affronte.
+
+< CARD_BOUNTY_EMERANGLER_HUNT >
+name=Lanterdâtre
+descr=Si Lanterdâtre est touché, il gagne +1 ATK à sa prochaine attaque. Si vous êtes touché, il gagne +1 DEF à votre prochaine attaque.
+
+< CARD_BOUNTY_GLOBBU_HUNT >
+name=Globbu
+descr=En combat, vous perdez -1 DEF à chaque fois que Globbu vous touche.
+
+< CARD_BOUNTY_GRASSINFIMARY_QUEST >
+name=
+descr=J'aimerais essayer une nouvelle recette à partir d'herbes qui poussent dans les prés. Pourriez-vous m'en apporter ?
+flavor=―Aubergiste
+
+< CARD_BOUNTY_SWAMPINFIMARY_QUEST >
+name=
+descr=Un client a laissé entendre qu'on peut faire des boissons à partir de slime des Marais... Je me demande si c'est vrai.
+flavor=―Aubergiste
+
+< CARD_BOUNTY_CAVEBAKERY_QUEST >
+name=
+descr=J'ai fait tomber un ingrédient essentiel pour la glace au fond d'une grotte...
+flavor=―Sky Baker
+
+< CARD_BOUNTY_CASTLEBAKERY_QUEST >
+name=
+descr=J'avais demandé de la farine de la part du Château du coin, et je l'ai toujours pas reçue. Fufufu, je pourrais le démolir.
+flavor=―Star Baker
+
+< CARD_BOUNTY_RUINARMORY_QUEST >
+name=
+descr=Vous cherchez un outil tranchant pour la nourriture ? Si vous m'ameniez les matériaux, je serais ravie de vous aider. Même une arme brisée des Ruines ferait l'affaire.
+flavor=―Forgeronne
+
+< CARD_BOUNTY_CAVEARMORY_QUEST >
+name=
+descr=Il me faudrait des cornes de Salgoss, elles font d'excellentes bases pour les ustenstiles de cuisine. Si quelqu'un pouvait m'en trouver dans les Grottes où ils habitent, ce serait parfait.
+flavor=―Forgeronne
+
+< CARD_BOUNTY_VOLCANOALCHEMER_QUEST >
+name=
+descr=Si j'avais une source de chaleur durable, je pourrais produire de la nourriture en grande quantité. En outre, j'aimerais beaucoup avoir un Globbu !
+flavor=―Alchimiste
+
+< CARD_BOUNTY_FORESTINFIRMARY_QUEST >
+name=
+descr=Je me mets aux desserts à la sève des Forêts Brumeuses, il paraît que c'est très bon ! J'apprécierais beaucoup qu'on m'en rapporte.
+flavor=―Aubergiste
+
+< CARD_BOUNTY_MOUNTAINBAKERY_QUEST >
+name=
+descr=On est à court de lait ! Trouvez-moi vite du lait de Grolaineuh des Montagnes, le pain n'attend pas !
+flavor=―Sky Baker
+
+< CARD_BOUNTY_REDFORESTALCHEMER_QUEST >
+name=
+descr=Les fantômes des forêts d'aurore sont fascinants. Vous pourriez m'en ramener un ? J'essaierai d'en faire quelque chose de comestible.
+flavor=―Alchimiste
+
+< CARD_BOUNTY_DESERTARMORY_QUEST >
+name=
+descr=J'ai vraiment soif... Il me faudrait de l'eau pure sortie des cactus du Désert. Vous pourrez garder ce qu'il en reste.
+flavor=―Forgeronne
+
+< CARD_BOUNTY_SLIMEBOMB_ITEM >
+name=Bombe Gluante
+descr=Jetez une bombe gluante sur une case au choix (max. 3 de distance). Cette case et toutes celles qui l'entourent sont recouvertes de boue pour 2 chapitres.
+flavor="C'est l'équivalent en boue d'une mangrove concentrée dans cette bouteille !" ―Alchimiste
+
+< CARD_BOUNTY_TELEPORT_ITEM >
+name=Potion de Téléportation
+descr=Vous vous téléportez sur une case au choix. Vous pouvez encore jouer après.
+flavor="Une gorgée et pouf !" ―Alchimiste
+
+< CARD_BOUNTY_LURE_ITEM >
+name=Appât
+descr=Jetez un appât sur une case au choix (max. 3 de distance). Cette case et toutes celles qui l'entourent deviennent des cases Ennemi pour 3 chapitres.
+flavor="Son odeur est suffisamment puissante pour attirer toutes les petites bêtes du coin..." ―Alchimiste
+
+< CARD_BOUNTY_SHOKUPAN_ITEM >
+name=Brioche
+descr=Durée de l'Effet : 3 chapitres\nSoigne 1 PV à chaque tour. L'effet disparaît lorsque vous tombez KO et ne peut pas être cumulé.
+flavor="Personne ne peut faire mieux que cette merveille." ―Star Baker
+
+< CARD_BOUNTY_SSR_SHOKUPAN_ITEM >
+name=Brioche Duveteuse
+descr=Soigne 2 PV à chaque tour. L'effet disparaît lorsque vous tombez KO et ne peut pas être cumulé.
+flavor="Tout sera doux ! La douceur s'emparera du monde !" ―Sky Baker
+
+< CARD_BOUNTY_PUREWATER_ITEM >
+name=Eau Bénite
+descr=Vous gagnez 5 PV et +1 ATK, DEF & EVD pour ce combat.
+flavor="En buvant cette eau pure, vous n'aurez plus jamais soif. Parole d'aubergiste !" ―Aubergiste
+
+< CARD_BOUNTY_CURSEDSYRUP_ITEM >
+name=Sirop Maudit
+descr=Vous gagnez 10 PV et +2 ATK, DEF & EVD pour ce combat. Le combat dure 5 tours.
+flavor="Bien sûr que tu vas l'acheter... Tu pourrais te ruiner pour gagner en force, pas vrai ?" ―Marchand Douteux
+
+< CARD_BOUNTY_POISONPHIAL_ITEM >
+name=Liquide Empoisonné
+descr=Jetez un flacon de Liquide Empoisonné sur une case au choix (max. 3 de distance). Les joueurs dans sa zone d'effet subissent 1 de dégât à chaque tour pendant 2 chapitres. Ne se combine pas aux autres liquides.
+flavor="Rien que les ingrédients sont très dangereux... Faites attention !" ―Alchimiste
+
+< CARD_BOUNTY_VENOMPHIAL_ITEM >
+name=Liquide Vénéneux
+descr=Jetez un flacon de Liquide Vénéneux sur une case au choix (max. 3 de distance). Les joueurs dans sa zone d'effet subissent 1 de dégât à chaque tour pendant 3 chapitres. Ne se combine pas aux autres liquides.
+flavor="Je l'ai concocté à partir du venin d'un reptile terrifiant..." ―Alchimiste
+
+< CARD_BOUNTY_CORROSIONPHIAL_ITEM >
+name=Liquide Corrosif
+descr=Jetez un flacon de Liquide Corrosif sur une case au choix (max. 3 de distance). Les joueurs dans sa zone d'effet subissent 2 de dégât à chaque tour pendant 3 chapitres. Ne se combine pas aux autres liquides.
+flavor="Tout est hautement mortel dans cette recette..." ―Alchimiste
+
+< CARD_BOUNTY_SPARKLEBOMB_ITEM >
+name=Bombe Scintillante
+descr=Tous les déplacements sont inversés pendant 2 chapitres.
+flavor="Mais lorsque que vous avancez à reculons, techniquement, vous n'avancez pas vraiment, si ? ...J'y comprends rien..." ―Alchimiste
+
+< CARD_BOUNTY_SMOKELOSTMEMORIES_ITEM >
+name=Fumée des Souvenirs Perdus
+descr=Vos crimes sont oubliés. Ne peut être jouée que si vous êtes sur une case avec un monstre. Déclenche un combat contre le monstre si vous possédez son avis de recherche.
+flavor="Rattrapez cette fumée avant qu'elle ne s'échappe !" ―Alchimiste
+
+< CARD_BOUNTY_RADAR_ITEM >
+name=Radar pour Aventurier
+descr=Durée de l'Effet: Entre 2 et 5 chapitres\nVous pouvez localiser l'emplacement de tous les monstres.
+flavor="Ça facilite énormément ton voyage... le temps que ce gadget fonctionne !" ―Forgeronne
+
+< CARD_HYPER_BOUNTY_ELLIE >
+name=Miracle d'Ellie
+descr=★Coût: Niv. x10\nDurée de l'Effet: 2 chapitres\n+1 ATK par Quota validé\n+1 DEF par unité de Gloire / 5\n+1 EVD par étoile / 50.
+flavor="Reçois mon miracle !" ―Ellie
+
+< CARD_BOUNTY_SCRAMBLED_EVE >
+name=Fouilli du Réveillon
+descr=Tous les joueurs remettent leurs cartes dans le deck. Ensuite, le deck est mélangé. Au bout de 3 chapitres, les joueurs piochent autant de cartes qu'ils en ont perdu. Tous les contrats sont défaussés.
+flavor="Non ! Rends-moi les cadeaux !" ―Aru
+
+< CARD_BOUNTY_TRAP_WANTED >
+name=Avis de Recherche
+descr=Place un avis de recherche sur vous. Vous obtenez le Badge d'Assassin.
+flavor="Par ici ! Mon flair ne ment jamais !" ―QP
+
+< CARD_HYPER_BOUNTY_COOK >
+name=Guidance de la Girouette
+descr=(Effet Passif)\nVous jetez 2 dés à chaque action hors-combat. L'effet prend fin lorsque vous vous arrêtez sur une Maison.
+flavor="*Cui cui* ! Par là ! Coco a choisi cette direction !" ―Coco
+
+< CARD_BOUNTY_PROTECTIONFEE >
+name=Taxe de Protection
+descr=Lorsqu'un joueur s'arrête sur la case Maison d'un autre :\n• Il donne (son Niv.) x2 ★ au joueur de cette Maison.\n• S'il ne valide pas son Quota, il subit 1 dégât.
+flavor="C'est quoi cette arnaque ?" ―Lulu
+
+< CARD_BOUNTY_PLAYER >
+name=Avis de recherche - Écrasé ou Vif
+descr=Individu recherché pour crimes contre la société.
+flavor=
+
+< CARD_BOUNTY_PLAYER_ITEM >
+name=???
+descr=Faites disparaître cet individu. Vous seul savez de qui il s'agit.
+flavor=
+
+[EOF]

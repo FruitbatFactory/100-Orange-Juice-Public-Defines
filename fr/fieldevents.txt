@@ -1,0 +1,116 @@
+
+< FIELDEVENT_NONE >
+name=Aucun
+descr=
+
+< FIELDEVENT_DEFAULT >
+name=Par défaut
+descr=
+
+< FIELDEVENT_RANDOM >
+name=Aléatoire
+descr=
+
+< FIELDEVENT_BOSSENCOUNTER >
+name=Invocation du Boss
+descr=
+
+< FIELDEVENT_REGENERATION >
+name=Régéneration
+descr=Soigne 1 PV à tous les personnages.\n\nFréquence : Tous les 5 chapitres
+
+< FIELDEVENT_RANDOMWARP >
+name=Téléportation Aléatoire
+descr=Téléporte tous les personnages sur des cases au hasard.\n\nFréquence : Tous les 5 chapitres
+
+< FIELDEVENT_CHARITY >
+name=Charité
+descr=Tous les joueurs piochent une carte.\n\nFréquence : Tous les 5 chapitres
+
+< FIELDEVENT_AIRRAID >
+name=Raid Aérien
+descr=Tous les personnages subissent 1 point de dégât.\n\nFréquence : Tous les 5 chapitres
+
+< FIELDEVENT_MINELAYER >
+name=Pose-Mines
+descr=Place un piège sur une case au hasard.\n\nFréquence : Tous les 3 chapitres
+
+< FIELDEVENT_MIRACLE >
+name=Miracle
+descr=Double l'effet des cases Ennemi, Bonus, Malus, Pioche, et Déplacements pendant un tour.\n\nFréquence : Tous les 5 chapitres
+
+< FIELDEVENT_BATTLEFIELD >
+name=Champ de Bataille
+descr=Les cases Bonus et Malus deviennent des cases Ennemi.\n\nFréquence : Tous les 6 chapitres\nDurée : 3 chapitres
+
+< FIELDEVENT_CONFUSION >
+name=Confusion
+descr=Chaque main est mélangée et les joueurs ne peuvent pas voir leurs cartes pendant un tour.\n\nFréquence : Tous les 7 chapitres
+
+< FIELDEVENT_BACKTRACK >
+name=Demi-Tour
+descr=Tous les personnages se déplacent dans l'autre sens pendant un tour.\n\nFréquence : Tous les 8 chapitres
+
+< FIELDEVENT_SPRINT >
+name=Course
+descr=Tous les jets de déplacement sont doublés pendant un tour.\n(4 dés maximum)\n\nFréquence : Tous les 6 chapitres
+
+< FIELDEVENT_HOMEROULETTE >
+name=Maisons Musicales
+descr=Toutes les maisons échangent de place.\n\nFréquence : Tous les 9 chapitres
+
+< FIELDEVENT_BOMBER >
+name=Bombes
+descr=Une bombe est posée sur une case au hasard. Elle explose au bout de 1 à 4 chapitres,\ninfligeant 2 points de dégât dans un rayon de 2 cases dans chaque direction.\n\nFréquence : Tous les 2 chapitres
+
+< FIELDEVENT_MYSTERY >
+name=Mystère
+descr=Déclenche un Effet Global au hasard.\n\nFréquence : Tous les 5 chapitres
+
+< FIELDEVENT_FREEZE >
+name=Gel
+descr=1/3 des cases du plateau deviennent gelées pendant un tour.\n\nFréquence : Tous les 5 chapitres
+
+< FIELDEVENT_TREASURE >
+name=Trésor
+descr=Pose un coffre enfermant des étoiles ou une Carte Hyper au hasard sur le plateau.\nArrêtez-vous sur le coffre pour l'ouvrir.\n\nFréquence : À chaque chapitre
+
+< FIELDEVENT_AMP >
+name=Amplification
+descr=Chaque joueur voit une de ses statistiques augmentée de 1.\n\nFréquence : Tous les 6 chapitres\nDurée : 2 chapitres
+
+< FIELDEVENT_PLAYGROUND >
+name=Terrain de jeu !
+descr=Transforme des cases au hasard en case-Jeu pendant un tour.\nArriver dessus vous fait jouer à un mini-jeu.\n\nFréquence : Tous les 5 chapitres
+
+< FIELDEVENT_TERROR >
+name=Terreur
+descr=Certaines cases deviennent des cases Boss pendant un tour.\nFréquence : Variable
+
+< FIELDEVENT_FISHING >
+name=Pêche à la Ligne
+descr=Affrontez les autres joueurs à un mini-jeu de pêche.\n\nFréquence : Tous les 9 chapitres
+
+< FIELDEVENT_GOO >
+name=Boue
+descr=1/3 des cases du plateau deviennent boueuses pendant un tour.\n\nFréquence : Tous les 5 chapitres
+
+< FIELDEVENT_SPORES >
+name=Spores
+descr=Des champignons apparaissent sur le plateau.\n\nFréquence : Tous les 3 chapitres
+
+< FIELDEVENT_CHAOS_BATTLEFIELD >
+name=Champ de Bataille Chaotique
+descr=
+
+< FIELDEVENT_CHAOS_STARVATION >
+name=Famine
+descr=
+
+< FIELDEVENT_CHAOS_OVERINDULGENCE >
+name=Sur-indulgence
+descr=
+
+< FIELDEVENT_CONVERGENCE >
+name=Convergence
+descr=Remplace le plateau actuel par un autre.\n\nFréquence : Tous les 6 chapitres

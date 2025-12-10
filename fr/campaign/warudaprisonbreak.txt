@@ -1,0 +1,645 @@
+
+// ========= Scene: 1-A =========
+
+// (krilap)
+<0000> Zzz... J'invoque les esprits démoniaques... zzz... mon attaque ultime... zzz...
+
+// (mimyuuj)
+<0001> Tiens, te v'là enfin réveillée.
+
+// (krilap)
+<0002> Zzz...
+
+// (mimyuuj)
+<0003> Mimyuu a dit : T'ES ENFIN RÉVEILLÉE !
+
+// (krilap)
+<0004> Que- hein ?!
+
+// (mimyuuj)
+<0005> Écoute, on a rien à faire là, partenaire.
+
+// (krilap)
+<0006> Qu'est-ce que tu fais dans ma chambre ?
+
+// (mimyuuj)
+<0007> On est pas dans ta chambre. On est au trou. Au mitard. Au fin fond de la forteresse des condamnés !
+
+// (krilap)
+<0008> Quel est ce langage insolite ? Ta langue est-elle sous l'emprise des esprits démoniaques ?
+
+// (mimyuuj)
+<0009> La prison, ça te change une fille.
+
+// (krilap)
+<0010> Et depuis combien de temps logeons-nous ici...?
+
+// (mimyuuj)
+<0011> Quatre heures, j'crois. Première heure, Mimyuu a pété les plombs. Troisième heure, elle avait plus de plombs à péter. Maintenant, Mimyuu est une dure à cuire !
+
+// (krilap)
+<0012> Si je dors quatre heures de plus, qu'en sera-t-il ? Auras-tu fini de cuire ?
+
+// (mimyuuj)
+<0013> Tu peux pas dormir. C'est un coup monté ! Deux guignols se sont fait passer pour nous, ont fait un vacarme pas possible, et on moisit à leur place !
+
+// (krilap)
+<0014> Hmm... je m'en soucierai le lendemain matin.
+
+// (mimyuuj)
+<0015> T'inquiète, Mimyuu a un plan. Dès qu'on nous sort de cellule, on se tire de là aussi vite que possible.
+
+// (sorasp)
+<0016> Bonjour, c'est l'heure du déjeuner.
+
+// (krilap)
+<0017> D-déjeuner ? On nous sert à manger, ici ? Gratuitement ?
+
+// (sorasp)
+<0018> Oui. En prison, c'est trois repas par jour.
+
+// (krilap)
+<0019> L'offre est comme le diable... tentatrice...\nJe songe à m'installer ici et faire de cet endroit ma forteresse.
+
+// (mimyuuj)
+<0020> C'est Mimyuu, ou la bouffe est complètement cramée ?
+
+// (sorasp)
+<0021> C'est Sham qui gère les repas. Elle fait de son mieux.
+
+// (krilap)
+<0022> Le pain brûlé est un repas en soit...\nMon âme noire est en symbiose avec ces miettes calcinées.
+
+// (mimyuuj)
+<0023> Hé, m'dame. Z'êtes pas trop jeune pour être un maton ?
+
+// (sorasp)
+<0024> Je me suis engagée à protéger le monde des méchants.
+
+// (mimyuuj)
+<0025> Alors pourquoi vous portez un uniforme d'écolière ?
+
+// (sorasp)
+<0026> C'est mon travail du matin. Je pars en cours après ma ronde.
+
+// (mimyuuj)
+<0027> Il est 10h du mat', là. Les cours ont déjà commencé.
+
+// (sorasp)
+<0028> Oh non ! Je suis en retard ! Mais si je m'en vais, les prisonniers vont s'évader... nooon...
+
+// (mimyuuj)
+<0029> Vite, partenaire ! Elle est distraite ! Fracasse-lui le crâne et on se tire !
+
+// (krilap)
+<0030> Mais... mon déjeuner ! Mon oreiller ! Je veux rester !
+
+// (mimyuuj)
+<0031> Pas le temps ! On s'évade, partenaire !
+
+// (sorasp)
+<0032> Ouiiin... J'espère que ça compte pas sur ma moyenne...
+
+// ========= Scene: 1-B =========
+
+// (mimyuuj)
+<0033> On l'a eue ! Allez, partenaire !\nFaut qu'on se sépare.
+
+// (krilap)
+<0034> Va, trace ton chemin. Krilalaris, princesse des ténèbres, est satisfaite de sa cellule et de ses trois repas par jour.
+
+// (mimyuuj)
+<0035> Tu fais marcher Mimyuu ? Le bagne, c'est clairement pas fait pour toi.
+
+// (krilap)
+<0036> Je connais étroitement les cages et les barreaux. Ils ne peuvent contenir ma puissance infernale.
+
+// (mimyuuj)
+<0037> C'est pas ça, le problème. C'est... il y a du travail forcé, aussi !
+
+// (krilap)
+<0038> Ah.
+
+// (mimyuuj)
+<0039> Plus de BD ! Plus rien pour te donner des idées de pouvoirs magiques !
+
+// (krilap)
+<0040> Ahh !
+
+// (mimyuuj)
+<0041> Puis tu sais que personne fait d'uniformes de prisonniers façon gothique Lolita !
+
+// (krilap)
+<0042> Ahhhh ! Vite !\nQuittons les lieux sur-le-champ !
+
+// (mimyuuj)
+<0043> Voilà un langage qui parle à Mimyuu.
+
+// (sorasp)
+<0044> Noooon...
+
+// (mimyuuj)
+<0045> Désolée, gamine. On voulait pas t'causer d'ennuis, mais 'faut vraiment qu'on se taille.
+
+// (krilap)
+<0046> Lors de votre jugement, récitez cette formule maudite : "J'ai souffert d'un accident de travail fortuit, il est de mon droit d'obtenir une compensation."
+
+// (sorasp)
+<0047> Avec de la chance, je pourrai leur dire que j'étais malade...
+
+// ========= Scene: 2-A =========
+
+// (mimyuuj)
+<0048> Héhéhé ! On a réussi, partenaire. On est des fugitives, maintenant !
+
+// (krilap)
+<0049> Cette odeur... De l'agneau...? Des brochettes...\nJ'ai si faim... Je n'arrive plus à marcher...
+
+// (mimyuuj)
+<0050> T'as pas pris ton déjeuner avant de partir ?
+
+// (krilap)
+<0051> On est sorties de prison en quelques minutes, je n'ai pas eu le temps !
+
+// (mimyuuj)
+<0052> On fait une halte, alors. Viens, Mimyuu t'invite.
+
+// (mimyuuj)
+<0053> On prendra deux tasses de feuilles bouillies, une demi-douzaine de pralinettes, et deux pains à la sèglantine.
+
+// (chris)
+<0054> Autre chose ?
+
+// (mimyuuj)
+<0055> Un verre de jus de meuh, aussi.
+
+// (krilap)
+<0056> Était-ce une incantation de l'outre-monde ?\nJe ne vois absolument pas ce que tu as commandé...
+
+// (mimyuuj)
+<0057> Mimyuu en a aucune idée. Elle balançait des noms au pif. Mais ça sonnait bien.
+
+// (krilap)
+<0058> Le style est plus important que tout. Quiconque tient à la vie doit impressionner les démons qui l'entourent.
+
+// (mimyuuj)
+<0059> Bien dit, partenaire.
+
+// (krilap)
+<0060> Au passage, je te prie d'accepter mes remerciements quant au paiement de ma part.
+
+// (mimyuuj)
+<0061> Euh, Mimyuu a pas vraiment prévu de payer.
+
+// (krilap)
+<0062> M-mais... ma foi m'interdit de m'accaparer du bien d'autrui...
+
+// (mimyuuj)
+<0063> On est en cavale, partenaire. Des dures à cuire. Tu sais bien ce que ça signifie.
+
+// (krilap)
+<0064> Ainsi, nous devrons vivre de cet art sombre et interdit...
+
+// (mimyuuj)
+<0065> Exact. Le resto-basket.
+
+// (chris)
+<0066> Oh, vraiment ?
+
+// (krilap)
+<0067> Gloups.
+
+// (chris)
+<0068> Hé, patron !
+
+// (master)
+<0069> ...
+
+// (krilap)
+<0070> Cette journée est maudite.
+
+// ========= Scene: 2-B =========
+
+// (mimyuuj)
+<0071> Ok, partenaire ! Remplis tes poches de petits pains, et on se taille !
+
+// (krilap)
+<0072> *cronch cronch* Chette victuaille rechtaure ma puichanche maléfique...
+
+// (mimyuuj)
+<0073> Ouah, tu bouffes tellement de pain que tes joues sont toutes gonflées. On dirait un écureuil.
+
+// (chris)
+<0074> Oh non... elles ont même battu le patron... Comment c'est possible ?
+
+// (mimyuuj)
+<0075> Mimyuu commence à penser qu'on méritait notre peine de prison.
+
+// (krilap)
+<0076> Nous décorerons cet établissement d'une note 5 étoiles en compensation.
+
+// (master)
+<0077> ...
+
+// (chris)
+<0078> Finalement, elles n'ont rien pris... à part les petits pains gratuits.
+
+// (master)
+<0079> ...
+
+// (chris)
+<0080> C'est vraiment des phénomènes, nos clients, des fois. Pas vrai ?
+
+// (master)
+<0081> M-hm.
+
+// ========= Scene: 3-A =========
+
+// (krilap)
+<0082> J'aimerais tant retourner me coucher... On n'arrête pas de courir, c'est fatigant...
+
+// (mescal)
+<0083> Hé ! Vous cherchez un transport comfortable ? Découvrez la compagnie aérienne Big Magnum ! Le tour du monde en 80 minutes, ou c'est offert !
+
+// (mimyuuj)
+<0084> Ça a l'air marrant... de quoi se reposer un peu les jambes.
+
+// (tequila)
+<0085> Ouaip ! Mais avant de grimper sur mon bord, vous devrez répondre à trois énigmes !
+
+// (krilap)
+<0086> Je vois... Une offre alléchante.
+
+// (mimyuuj)
+<0087> Il se prend pour le sphinx ou quoi ?
+
+// (tequila)
+<0088> Première énigme. Qu'est-ce qui a quatre pattes le ma-
+
+// (mimyuuj)
+<0089> C'est littéralement le sphinx, en fait !
+
+// (tequila)
+<0090> Bon, bon, on passe celle-ci. Deuxième énigme : qui c'est, la plus jolie des pirates à arpenter les cieux ?
+
+// (mimyuuj)
+<0091> Mescal ?
+
+// (tequila)
+<0092> Ouaip. Bonne réponse !
+
+// (mimyuuj)
+<0093> Vous la regardiez en récitant l'énigme.
+
+// (mescal)
+<0094> Roh, papa !
+
+// (tequila)
+<0095> Dernière devinade, tenez-vous bien... Quels sont les 16 chiffres sur le devant de ta carte bleue ?
+
+// (krilap)
+<0096> Ce savoir est interdit !
+
+// (mimyuuj)
+<0097> On se faisait rouler depuis le départ ?
+
+// (tequila)
+<0098> Bah oui, sombre andouille ! C'est la piraterie moderne ! Sinon, on peut gencer ça à l'ancienne - Mescal, charge les canons !
+
+// (krilap)
+<0099> Je vous en supplie, laissez-moi dormir... Oh, j'abandonne.
+
+// ========= Scene: 3-B =========
+
+// (tequila)
+<0100> Grrr... C'est bon, allez-y, montez à bord. Mais je veux pas vous entendre claper.
+
+// (krilap)
+<0101> J'aimerais me plaindre !
+
+// (mimyuuj)
+<0102> Déjà ? On est même pas encore montées à bord.
+
+// (krilap)
+<0103> Pourquoi ne portez-vous pas de cache-œil ?
+
+// (tequila)
+<0104> J'ai encore mes deux œilletons, gamine.
+
+// (krilap)
+<0105> Et moi donc. Pourtant, mon œil maudit reste caché par le tissu noir.
+
+// (mescal)
+<0106> Tu sais que tu t'abîmes les yeux en faisant ça, hein ?
+
+// (krilap)
+<0107> Tu es une pirate, tu es la plus à même de porter un cache-œil ! Je suggèrerais même de fonder une Fédération des Amateurs de Caches-Œil.
+
+// (tequila)
+<0108> C'est non.
+
+// (krilap)
+<0109> Pft. Alors il ne me reste plus qu'à poursuivre ma sieste sous le pont.
+
+// (tequila)
+<0110> Mescal ?
+
+// (mescal)
+<0111> Oui, p'pa ?
+
+// (tequila)
+<0112> Fais hâter le moteur, j'veux que ça vibre. Quelques godets vont lui apprendre à voyager à l'œil.
+
+// (mescal)
+<0113> Compris !
+
+// (tequila)
+<0114> Oh, j'ai rien mal à la caboche... Ça va être un long voyage.
+
+// ========= Scene: 4-A =========
+
+// (mimyuuj)
+<0115> On est arrivées, partenaire.
+
+// (krilap)
+<0116> Cet endroit... Ne serait-ce pas notre point de départ ?
+
+// (mimyuuj)
+<0117> Pour sûr. On a fait le tour du monde, du coup on est de retour au même endroit. Au moins, ça brouille nos traces.
+
+// (qp)
+<0118> Plus un geste !
+
+// (krilap)
+<0119> Ahh, l'incarnation humaine de la Déesse Canine... QP.
+
+// (qp)
+<0120> QP ?! Qui est QP ? Je suis la Détective Canine, Sherlock Os, et je vous arrête !
+
+// (mimyuuj)
+<0121> Mimyuu refuse de retourner au trou. On se sépare, partenaire !
+
+// (krilap)
+<0122> Krilalaris s'occupe de la situation.\nQP ! Écoute mon appel ! Laisse-nous passer, et je te promets un pudding bon marché !
+
+// (qp)
+<0123> Désolée, mais c'est impossible...
+
+// (krilap)
+<0124> Comment ? Il s'agit là de pudding ! La QP que je connais rejette toute forme de vertu pour du pudding !
+
+// (qp)
+<0125> Encore une fois, je ne suis pas QP.\nJe suis Sherlock Os.
+
+// (krilap)
+<0126> Une âme si pure et si innocente... Toujours prête à partager son goûter avec moi, si bien que mon estomac vibre en la voyant.
+
+// (mimyuuj)
+<0127> En gros, pour toi c'est un ticket de rationnement, c'est ça ?
+
+// (krilap)
+<0128> Tu es aux antipodes de QP ! Probablement un double maléfique, envoyé par l'Organisation pour semer le chaos ! Moi vivante, tu ne souilleras point la gloire de la Déesse Canine !
+
+// (qp)
+<0129> Hein, mais - c'est moi qui venais vous arrêter, à la base ! Ouahh !
+
+// ========= Scene: 4-B =========
+
+// (mimyuuj)
+<0130> On a vaincu le cabot ?
+
+// (krilap)
+<0131> Hmph. Encore une preuve que c'est une imposture. La vraie QP est bien plus puissante que ça.
+
+// (mimyuuj)
+<0132> Ah bon ? Mimyuu a pas remarqué de différence.
+
+// (krilap)
+<0133> La vraie QP dispose d'un champ de force dissuasif pour empêcher ses ennemis de l'attaquer. Poser son regard une seconde sur sa jolie queue de chiot suffit pour t'envoûter...
+
+// (mimyuuj)
+<0134> Comme un petit chien normal, alors. Puis cette détective, aussi.
+
+// (krilap)
+<0135> Et après s'être fait attaquer, elle refuse de partager toute forme de goûter le jour suivant. C'est ainsi qu'elle régule le cours du marché.
+
+// (mimyuuj)
+<0136> Si tu le dis, partenaire. Au moins, j'me délecte de la défaite de cette détective abjecte.
+
+// (qp)
+<0137> C'est quoi ces figures de style ? J'te permets pas de m'insulter !
+
+// (mimyuuj)
+<0138> De toute façon, c'est nul, les inspecteurs de police. Rien de tel qu'un vrai détective privé.
+
+// (krilap)
+<0139> Est-ce là la garde-robe de la patronne qui influe sur ton opinion ?
+
+// (mimyuuj)
+<0140> P'tet' ben. Mimyuu voudrait devenir comme elle un jour !
+
+// (krilap)
+<0141> Ma foi, j'admire ta loyauté envers les forces du mal.
+
+// ========= Scene: 5-A =========
+
+// (mimyuuj)
+<0142> On les a vraiment semés, cette fois. Bravo, partenaire !
+
+// (krilap)
+<0143> Ouff... Pfou... Je n'en peux plus...
+
+// (mimyuuj)
+<0144> Attends. Cette madame avec la longue queue est en train de t'espionner.
+
+// (krilap)
+<0145> Hihihi... Elle est sûrement attirée par mes pouvoirs maléfiques.
+
+// (teotoratta)
+<0146> Toi, là ! Tu sens le bestiau à plein nez !
+
+// (krilap)
+<0147> *snif snif* Vraiment ?
+
+// (mimyuuj)
+<0148> Mimyuu voulait pas en parler, mais... tu chlingues, partenaire.
+
+// (krilap)
+<0149> J'ai couru toute la journée, je n'ai pas eu le temps de me doucher... N-non ! Ce miasme est le flux d'énergie ténébreux émanant des pores de ma peau !
+
+// (teotoratta)
+<0150> T'as une tête à t'y connaître en bêtes. Et j'peux en sentir une par-là, une très grosse ! Comme j'suis la Sorcière Bestiale, j'dois la dompter !
+
+// (krilap)
+<0151> Cette direction... ça mène droit au cirque...! Toutes les bêtes y logeant sont mes serviteurs ! Que leur est-il arrivé ?
+
+// (teotoratta)
+<0152> Un cirque ? Ces maisons où les humains maltraitent les bêtes comme des lâches ?
+
+// (krilap)
+<0153> Si une créature s'en prend à mes serviteurs, je dois me hâter de l'arrêter et la soumettre !
+
+// (teotoratta)
+<0154> Hé oh ! Tu comptes vraiment dompter ce bestiau ? Sans moi, la rumeur te serait jamais parvenue aux écoutilles ! C'est pas des manières, ma p'tite dame !
+
+// (mimyuuj)
+<0155> Elle marque un point, là.
+
+// (krilap)
+<0156> S-silence ! Votre sang coulera à flot si vous tentez de m'interrompre !
+
+// (teotoratta)
+<0157> Héhéhé. Tu veux t'mesurer à moi, alors ? J'vais te montrer comment dansent les bêtes furieuses ! Graaooh !
+
+// ========= Scene: 5-B =========
+
+// (teotoratta)
+<0158> Grah... J'pensais pas perdre contre une autre reine des bêtes. Mon égo de sorcière vient d'en prendre un coup.
+
+// (mimyuuj)
+<0159> Ouais, la partenaire est vraiment fortiche, même si c'est une cruche.
+
+// (krilap)
+<0160> Hihi. Un jour, tu comprendras l'étendue de mes pouvoirs maléfiques.\nSorcière Bestiale, je vous dois cette offrande.
+
+// (teotoratta)
+<0161> H-hein ? C'est d'la bouffe pour animaux ?
+
+// (krilap)
+<0162> C'est là une des friandises dont les terribles lions du cirque raffolent.
+
+// (teotoratta)
+<0163> J'suis mitigée, là... Ça sent bon, par contre.
+
+// (krilap)
+<0164> N'est-ce pas ? Je ne donne que le meilleur des festins à mes bêtes. Ainsi, elles tiennent même face aux nuits d'hiver les plus rudes...
+
+// (teotoratta)
+<0165> C'est moche...
+
+// (krilap)
+<0166> Enfin, c'est là mon cadeau d'adieu ! Les ténèbres t'accompagnent, Sorcière Bestiale !
+
+// (teotoratta)
+<0167> ... *crounch*
+
+// (teotoratta)
+<0168> Hé, c'est pas mauvais !
+
+// ========= Scene: 6-A =========
+
+// (mimyuuj)
+<0169> On y est, partenaire. C'est le dernier chapitre !
+
+// (krilap)
+<0170> Le chapiteau, plutôt, non ?
+
+// (mimyuuj)
+<0171> Oui, aussi.
+
+// (unknown)
+<0172> Hihihi... Te voilà enfin... autre moi !
+
+// (krilap)
+<0173> Toi !
+
+// (krila)
+<0174> C'est moi, Krilalaris, la princesse des ténèbres !
+
+// (mimyuu&tomato)
+<0175> Sans oublier les deux stars de la Loubardie !
+
+// (krila)
+<0176> Je savais que tu viendrais ici, ma sombre némésis. Mais c'est trop tard. Le rituel du sang a déjà commencé !
+
+// (No Speaker)
+<0177> GROAAAR !!
+
+// (krila)
+<0178> Je te présente Léo le Dieu Sanguinaire ! Le Ligre de l'apocalypse !
+
+// (mimyuuj)
+<0179> Mimyuu est pas véto, mais c'était pas un lion, à la base ?
+
+// (krilap)
+<0180> C'est plus cool, les ligres.
+
+// (krila)
+<0181> Silence ! La prophétie est maintenant accomplie. Seul le vainqueur deviendra maître du pouvoir de Léo !
+
+// (mimyuu&tomato)
+<0182> Toi, là ! L'autre Mimyuu ! Il te manque pas quelqu'un ? Tu t'sens capable de gagner en un contre deux ?
+
+// (mimyuuj)
+<0183> Mimyuu est p'tet pas avec sa patronne, mais elle a sa partenaire ! Et ensemble, on fait un duo implacable !
+
+// (krilap)
+<0184> Sombre double... tu es destinée au déclin. Moi, la REINE des ténèbres, possède quelque chose que tu n'auras jamais !
+
+// (krila)
+<0185> Oh ?
+
+// (krilap)
+<0186> Ce puissant pouvoir est mien, après tout ce temps... le pouvoir de l'amitié !
+
+// (mimyuuj)
+<0187> Ouais ! Dis bien, partenaire !
+
+// (krilap)
+<0188> Je... je parlais de mon amitié avec Léo.
+
+// (mimyuuj)
+<0189> Kuh...
+
+// (krila)
+<0190> Silence ! Je vais te vaincre, et les ténèbres absolues seront miennes ! Dansez, bêtes furieuses !
+
+// ========= Scene: 6-B =========
+
+// (mimyuuj)
+<0191> On a gagné... Mais ton lion est en train de tout casser.
+
+// (krilap)
+<0192> Sa patte droite... elle exhale un puissant pouvoir chaotique !
+
+// (mimyuuj)
+<0193> Attention, il approche ! Tu peux pas le calmer, pour voir ?!
+
+// (krilap)
+<0194> Le roi bestial est acharné... J-je vais déchaîner mes pouvoirs enfouis !
+
+// (mimyuuj)
+<0195> Mimyuu va couvrir tes arrières. De très loin.
+
+// (krilap)
+<0196> N-non, reviens !! J-je crains que ma magie se soit effa-
+
+// (krilap)
+<0197> Est-ce là mon destin...? Je plonge dans les ténèbres...
+
+// (krilap)
+<0198> Je peux sentir... la fourrure de Léo...? Elle est si douce... si chaude...\nEnfin... mon repos... éternel... zzzzzzz...
+
+// (mimyuu)
+<0199> Hé, Krila ! Allez, debout !
+
+// (krilap)
+<0200> Ouaah ! V-voguais-je donc dans le fleuve des rêves et des cauchemars ?
+
+// (yukid)
+<0201> Faut que tu te lèves, Krila. Tes lions sont affamés, et tu sais bien comment ils sont quand ils ont faim.
+
+// (krilap)
+<0202> J'ai l'impression de ne pas avoir dormi...
+
+// (yukid)
+<0203> Dépêche-toi de te lever. On a un plan pour aujourd'hui, un gros. Si on y arrive, je t'offre un repas, payé de ma poche !
+
+// (krilap)
+<0204> Un bon repas... Je l'obtiendrai coûte que coûte !
+
+// (mimyuu)
+<0205> C'est toi, la partenaire de Mimyuu, aujourd'hui ! Viens, on va faire un carnage !
+
+// (krilap)
+<0206> Comme quoi, nos destins sont étroitement liés... partenaire.

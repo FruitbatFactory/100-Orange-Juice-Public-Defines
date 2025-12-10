@@ -122,6 +122,9 @@ The Void
 < FIELD_PURES >
 Pures Stamp Rally
 
+< FIELD_SCHOOLYARD >
+Schoolyard
+
 < FIELD_COOP_LAGOONFLIGHT >
 Lagoon Flight CO
 
@@ -226,6 +229,22 @@ Sweet Heaven CO
 
 < FIELD_COOP_WHIRLPOOL >
 Whirlpool
+
+< FIELD_COOP_WARFARE >
+Warfare CO
+
+< FIELD_COOP_SCARREDLAND >
+Scarred Land CO
+
+< FIELD_COOP_DESERT >
+Lonely Railway CO
+
+< FIELD_COOP_CIRCUS >
+Circus CO
+
+< FIELD_COOP_PURES >
+Pures Stamp Rally CO
+
 
 [EOF]
 

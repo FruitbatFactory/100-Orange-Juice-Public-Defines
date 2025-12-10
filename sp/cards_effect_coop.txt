@@ -298,4 +298,64 @@ descr=Esta unidad recibirá -1 DEF y le robará estrellas con un valor equivalen
 name=Engaño Que Suena Intelectual
 descr=Cuando una carta del tipo escogido sea usada, este jugador tomará una carta.
 
+< CARD_COOP_REINFORCE_EFFECT >
+name=Fortalecido
+descr=El jugador que aplicó este efecto luchará por ti al ser desafiado. Recibirás +1 ATK, DEF y EVD si sobreviven a la Batalla Fortalecida. Recibirás +1 ATK si son noqueados.
+
+< CARD_COOP_REINFORCE_PENALTY_EFFECT >
+name=Fortaleciendo
+descr=Al fortalecer a un jugador, recibirás -1 MOV. Además, recibirás +1 ATK, DEF y EVD en una batalla fortalecida.
+
+< CARD_COOP_CLEANSING_AURA_EFFECT >
+name=Limpieza de Aura
+descr=Recibirás inmunidad al próximo efecto aplicado por el Jefe o sus secuaces.
+
+< CARD_COOP_PAY_ATTENTION_EFFECT >
+name=Pon Atención
+descr=Al detenerte sobre un panel de Hogar, te teletransportarás al panel del Jefe.
+
+< CARD_COOP_BRUTAL_TRAPS_EFFECT >
+name=Trampas Brutales
+descr=Al activar una trampa, descarta todas las cartas en mano.
+
+< CARD_COOP_BACKDOOR_SCHEME_EFFECT >
+name=Esquema de Puertas Secretas
+descr=Al tener 1 PV, pierdes Estrellas (Nivel x10). El efecto se perderá al morir.
+
+< CARD_COOP_WARUDA_MACHINE_EFFECT >
+name=Máquina Waruda
+descr=Recibes ATK y DEF pero pierdes EVD por un valor equivalente al número de cartas en la mano de tu oponente.
+
+< CARD_COOP_HMM_EFFECT >
+name=Hmm...
+descr=La próxima habilidad que cause daño directo realizará daño adicional equivalente al Nivel del Jefe.
+
+< CARD_COOP_SNEAKILY_EFFECT >
+name=Sigilosamente
+descr=No te podrán desafiar. Recibes +2 ATK al desafiar a un enemigo.
+
+< CARD_COOP_BOSS_PRISON_BREAK_EFFECT >
+name=Escape de Prisión
+descr=Recibes +2 EVD. Si no te han desafiado antes de que el efecto haya terminado, recibes +1 ATK y DEF de forma permanente.
+
+< CARD_COOP_BOSS_FREE_BIRD_EFFECT >
+name=Ave Libre
+descr=Recibes +1 ATK y DEF.
+
+< CARD_COOP_BREAKER_ENRAGE_EFFECT >
+name=La Furia de la Trituradora
+descr=Recibes +1 ATK y DEF, y +1 Daño realizado por todos tus efectos.
+
+< CARD_COOP_BUILDER_ENRAGE_EFFECT >
+name=El Enojo de la Creadora
+descr=Recibes +1 ATK y +1 MOV.
+
+< CARD_COOP_BUSTER_ENRAGE_EFFECT >
+name=El Enojo de la Destructora
+descr=Tomarás y usarás una carta adicional cada turno.
+
+< CARD_COOP_HIGH_ALERT_EFFECT >
+name=Alerta Máxima
+descr=Recibes +1 DEF. Este efecto permanecerá activo hasta que un aliado sea noqueado.
+
 [EOF]

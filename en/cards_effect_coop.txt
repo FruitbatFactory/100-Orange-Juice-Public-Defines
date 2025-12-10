@@ -302,4 +302,64 @@ descr=Treat any panel you would land on this turn as a 2x Draw panel.
 name=Intellectual-Sounding Bluff
 descr=Whenever a card by that type is played, the player draws a card.
 
+< CARD_COOP_REINFORCE_EFFECT >
+name=Reinforced
+descr=The player who applied this effect will battle before you if you are challenged. Gain +1 ATK, DEF, EVD if they survive the Reinforced battle. If they suffer KO, gain +1 ATK.
+
+< CARD_COOP_REINFORCE_PENALTY_EFFECT >
+name=Reinforcing
+descr=While reinforcing a player, gain -1 MOV. Additionally, gain +1 ATK, DEF, EVD in a Reinforced battle.
+
+< CARD_COOP_CLEANSING_AURA_EFFECT >
+name=Cleansing Aura
+descr=Grants immunity to the next effect applied by the Boss or minions.
+
+< CARD_COOP_PAY_ATTENTION_EFFECT >
+name=Pay Attention
+descr=When you would stop on a home panel, warp to the panel Boss is on instead.
+
+< CARD_COOP_BRUTAL_TRAPS_EFFECT >
+name=Brutal Traps
+descr=When you trigger a trap, discard all held cards.
+
+< CARD_COOP_BACKDOOR_SCHEME_EFFECT >
+name=Backdoor Scheme
+descr=When you go to 1 HP, lose Lvl x10 stars. Effect expires on KO.
+
+< CARD_COOP_WARUDA_MACHINE_EFFECT >
+name=Waruda Machine
+descr=Gain ATK and DEF but lose EVD equal to the number of cards in your opponent's hand.
+
+< CARD_COOP_HMM_EFFECT >
+name=Hmm...
+descr=Next ability that deals direct damage, deals (Boss Lvl) more damage.
+
+< CARD_COOP_SNEAKILY_EFFECT >
+name=Sneakily
+descr=Cannot be challenged. Gain +2 ATK when challenging an enemy.
+
+< CARD_COOP_BOSS_PRISON_BREAK_EFFECT >
+name=Prison Break
+descr=Gain +2 EVD. If you are not challenged before effect ends, gain permanent +1 ATK and DEF.
+
+< CARD_COOP_BOSS_FREE_BIRD_EFFECT >
+name=Free Bird
+descr=Gain +1 ATK and DEF.
+
+< CARD_COOP_BREAKER_ENRAGE_EFFECT >
+name=Breaker's Rage
+descr=Gain +1 ATK and +1 damage to all damage effects.
+
+< CARD_COOP_BUILDER_ENRAGE_EFFECT >
+name=Builder's Rage
+descr=Gain +1 ATK and +1 MOV.
+
+< CARD_COOP_BUSTER_ENRAGE_EFFECT >
+name=Buster's Rage
+descr=Draw and execute an extra card each turn.
+
+< CARD_COOP_HIGH_ALERT_EFFECT >
+name=High Alert
+descr=Gain +1 DEF. This effect will remain active while an ally is KO'd.
+
 [EOF]

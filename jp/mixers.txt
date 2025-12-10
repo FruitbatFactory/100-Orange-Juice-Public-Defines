@@ -109,3 +109,23 @@ descr=フィールド上のベトベトでない1/3のマスが1チャプター�
 < MIXER_SPORES >
 name=胞子
 descr=フィールド上にキノコが生える。
+
+< MIXER_WILDFRIENDS >
+name=野生フレンズ
+descr=全てのプレイヤーが召喚ユニットと一緒にゲームを開始する。
+
+< MIXER_CARDSHARK >
+name=カード・シャーク
+descr=プレイヤーは全てのカードをレベル1で使える。
+
+< MIXER_SPEEDY_BOSS >
+name=素早いボス
+descr=ボスのMOV+1。
+
+< MIXER_UBI_BOSS >
+name=神出鬼没なボス
+descr=プレイヤーがボスマスか恐怖マスに止まった時、ボスがそのプレイヤーのいるマスにワープする。
+
+< MIXER_AMBUSH >
+name=奇襲
+descr=ボスのカードの1枚が通常よりも1レベル高い状態でゲームが開始される。

@@ -1,0 +1,162 @@
+// CampaignScenario_CodexStory_AlteNico
+// (alte)
+<0000> Será mejor que me vaya. Se está haciendo tarde.
+// (tsih)
+<0001> Nfufu~ ¿Acaso estás escapando de escuchar las historias de aviación de Sherry otra vez?
+// (alte)
+<0002> Esa... no era necesariamente mi intención.
+// (tsih)
+<0003> Una vez que ha tomado una o dos copas, empieza a hablar de esas historias y jamás se detiene.
+// (kyoko)
+<0004> *Suspiro*... Y tú siempre eres la que causa que empiece a hablar de ellas.
+// (tsih)
+<0005> Nfufu~ Me declaro culpable. ¡Son divertidas! Y también es divertido ver como ustedes dos se retuercen del aburrimiento.
+// (kyoko)
+<0006> No son malas, pero ya las he escuchado a todas...
+// (tsih)
+<0007> ¡Eh, Sherry! ¡Háblanos de aquella vez en la que estabas volando y el motor se cayó de tu avión!
+// (sherry)
+<0008> Ah, ¿esa vieja historia? Bueno, mi padre y yo estábamos en el taller...
+// (kyoko)
+<0009> *Suspiro*... Alte, yo te cubriré. Deberías escapar mientras aún puedas.
+// (alte)
+<0010> Entendido. Te invitaré un trago la próxima vez.
+// (alte)
+<0011> Ah... hace frío... hasta puedo ver mi aliento. Supongo que es esa época del año.
+// (alte)
+<0012> ¿Hm? ¿Un niño? ¿A estas horas de la noche?
+// (nico)
+<0013> ¡Ahhh! Santa, ¡¿por qué siempre tienes que dejarlo todo para el último momento?!
+// (alte)
+<0014> Disculpa, ¿te encuentras bien? ¿En dónde están tus padres?
+// (nico)
+<0015> ¡¡Wah!! ¡Peligro! ¡Extraños! ¡Peligro! ¡Extraños!
+// (alte)
+<0016> No estoy aquí para hacerte daño. Pero... tampoco puedo dejar solo a un niño en una noche tan fría.
+// (nico)
+<0017> ¡Nico podrá ser una niña, pero ella también es muy responsable! ¡De hecho, Nico está trabajando ahora mismo!
+// (alte)
+<0018> ¿Te están haciendo trabajar? ¿A tu edad? Incluso durante la guerra, esa clase de pecado era inaceptable.
+// (nico)
+<0019> Um, tu aura da mucho miedo...
+// (alte)
+<0020> Lo siento. Simplemente me gustaría hablar con tus padres. De inmediato.
+// (nico)
+<0021> ¡Ah, cielos! ¡Nico no tiene tiempo para esto ahora mismo! ¡Si no se apresura, la Navidad será arruinada!
+// (alte)
+<0022> ¿Navidad?
+// (nico)
+<0023> La tonta de Santa tuvo una emergencia de último minuto otra vez... ¡Si Nico no la ayuda a entregar los juguetes, los niños alrededor del mundo no recibirán sus regalos a tiempo!
+// (alte)
+<0024> (¿Acaso se trata de una clase de juego...? Pero... aun así, se encuentra completamente sola a estas horas de la noche...)
+// (alte)
+<0025> ...Supongo que no hay otra opción. Te ayudaré.
+// (nico)
+<0026> Espera, ¿en serio?
+// (alte)
+<0027> Mientras más temprano acabes con tu tarea, más temprano podrás regresar a casa sana y salva. Fallaría como adulta si te dejara aquí sola.
+// (nico)
+<0028> Hmmmm... Bueno, Nico sí necesitaba un poco de ayuda... ¡Okis! ¡Por el día de hoy, Nico te otorgará el honor de ser La Ayudante de la Ayudante de Santa!
+// (alte)
+<0029> ...Bien. Entonces, ¿cuál es nuestro objetivo?
+// (nico)
+<0030> Primero, debemos ir a la Tienda de Juguetes de las 24 Horas.
+// (alte)
+<0031> (¿Una tienda de juguetes abierta por 24 horas? ¿Realmente existe algo así?)
+// (nico)
+<0032> ¡Cuando lleguemos, necesitamos recoger cincuenta de los Abraza-Me-Lulus, sesenta unidades de la Miu Pescadora, y un paquete completo de Teotoratamogochis!
+// (alte)
+<0033> ¿Qué...? Esa es una cantidad demasiado grande. ¿Tienes el dinero para todo eso?
+// (nico)
+<0034> ¡Nico tiene más que suficiente! Ya que se encuentra trabajando con la Navidad, Nico ha recibido una porción del salario de Santa.
+// (alte)
+<0035> Si realmente estás segura, entonces... Bien, vamos.
+// (nico)
+<0036> ¡Muy bien!
+// (alte)
+<0037> ¡Nico, espera!
+// (nico)
+<0038> ¿Huheeh?
+// (alte)
+<0039> Estabas a punto de caminar por el medio de la calle... ¡No es seguro! Toma mi mano antes de cruzar.
+// (nico)
+<0040>¡Nico puede cruzar la calle ella solita! Nico tiene doce años, sabes. Pero... ¡Está bien! Si eso es lo que te hace feliz, lo haré. 
+// (alte)
+<0041> ¿Tienes doce...? Te ves mucho más joven que eso.
+// (nico)
+<0042> ¡Grrr! ¡Es un gran problema! ¡Nadie toma a Nico en serio!
+// (alte)
+<0043> Bueno... supongo que te hará más feliz una vez que tengas mi edad.
+// (nico)
+<0044> ¿Cuántos años tienes, señora?
+// (alte)
+<0045> Los suficientes.
+// (nico)
+<0046> Hmmm... ¡Ahh! Nos estamos quedando sin tiempo. ¡Ten, toma la mano de Nico y vamos!
+// (alte)
+<0047> De acuerdo. ...Ah.
+// (nico)
+<0048> ¿Qué te pasa ahora, señora?
+// (alte)
+<0049> ...No es nada. Debemos apresurarnos.
+// (nico)
+<0050> ¡Ahora sí estás hablando en la lengua de Nico!
+// (nico)
+<0051> ¡Muy bien! ¡Hemos conseguido todo lo que estaba en la lista, y Nico se aseguró de revisarlo dos veces! ¡Buen trabajo, señora!
+// (alte)
+<0052> No esperaba que te subieras al mostrador para regatear sobre los precios.
+// (nico)
+<0053> Bueno, después de todo, la familia de Nico trabaja en la industria de la fabricación de juguetes. Nico está más impresionada de que puedas cargar con todas esas cosas por tu cuenta.
+// (alte)
+<0054> No deberías sobreestimar a un soldado de carrera cuando se trata de llevar mucha carga contigo.
+// (nico)
+<0055> Vaya, y hasta lo haces sonar impresionante.
+// (alte)
+<0056> Aun así... esto es demasiado para una sola niña. ¿Qué era lo que pensabas hacer si yo no te ayudaba?
+// (nico)
+<0057> N-Nico lo habría hecho funcionar de alguna forma, supongo... 
+// (alte)
+<0058> Ya veo. Nico, ¿puedo preguntarte algo?
+// (nico)
+<0059> Sip.
+// (alte)
+<0060> ¿Por qué haces esto? Parece ser demasiado trabajo para alguien de tu edad.
+// (nico)
+<0061> Hmm... Bueno, al principio, Nico solo lo hacía para pagar la deuda que ella tenía con la sociedad.
+// (alte)
+<0062> ¿Deuda a la sociedad? Tienes doce años.
+// (nico)
+<0063> Pero hoy en día... Nico solo lo hace para que Santa le de palmaditas en la cabeza y le diga que es una buena niña. ¡Pero no se lo dirás a nadie! ¡Promételo!
+// (alte)
+<0064> ...Ya veo. Lo prometo.
+// (nico)
+<0065> Y... bueno... Santa existe por el bien de los niños. Un día, Nico también crecerá, y su relación con Santa cambiará.
+// (alte)
+<0066> ...
+// (nico)
+<0067> Nico está segura de que seguirá teniendo una buena relación con ella, pero... ¡Es mejor si hago uso del presente y doy lo mejor de mí antes de que se haga muy tarde!
+// (alte)
+<0068> Sí... es cierto. Nico, yo no seré Santa, pero... también creo que eres una buena niña.
+// (nico)
+<0069> ¡Fweee! ¡Nico también cree que eres una buena adulta! Mucho mejores que ciertos conejos que dejan todo para el último momento.
+// (alte)
+<0070> Bueno, solo porque sea un adulto, no significa que sepa todas las respuestas o siempre dé lo mejor de mí. También tenemos nuestros problemas.
+// (nico)
+<0071> ¿En serio?
+// (alte)
+<0072> Así es. ...Por cierto, ¿realmente es seguro dejar los juguetes aquí?
+// (nico)
+<0073> ¡Pos claro! Santa se los llevará desde aquí. Y la casa de Nico está por ahí, así que no tendré que caminar mucho.
+// (alte)
+<0074> Ya veo. Eso significa que esto es un adiós. Fue un placer conocerte, Nico.
+// (nico)
+<0075> ¡Gracias por toda tu ayuda, señorita! Has sido un gran secua-- ¡Una gran ayudante!
+// (alte)
+<0076> Mi nombre es Alte. Cuídate mucho, Nico. Sé una buena niña.
+// (alte)
+<0077> (Qué niña tan extraña. Parecía trabajar muy duro, y tenía mucha energía... y... sus manos eran muy pequeñas...)
+// (alte)
+<0078> (También sonreía mucho... Si él y yo hubiéramos sido bendecidos con un niño, me pregunto si hubiera sido como ella.)
+// (alte)
+<0079> Los niños... realmente son algo especial. Trabajé extra, pero... me siento feliz. Finalmente tendré una historia que contarles a Tsih y a las demás la próxima vez que nos veamos.
+

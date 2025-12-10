@@ -114,3 +114,7 @@ descr=
 < FIELDEVENT_CONVERGENCE >
 name=Convergence
 descr=Current field will change to another random one.\n\nFrequency: Every 6th chapter.
+
+< FIELDEVENT_CLASHOFCAKES >
+name=Cakes
+descr=All players will receive a "Mio's False Cake" card.\n\nFrequency: Every 6th chapter.

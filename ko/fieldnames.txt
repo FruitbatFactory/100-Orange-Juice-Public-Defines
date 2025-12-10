@@ -122,6 +122,9 @@
  < FIELD_PURES >
 퓨어즈 스탬프 랠리
  
+< FIELD_SCHOOLYARD >
+교정
+
 < FIELD_COOP_LAGOONFLIGHT >
 라군 플라이트: 협
 
@@ -226,6 +229,21 @@
 
 < FIELD_COOP_WHIRLPOOL >
 회오리 풀장
+
+< FIELD_COOP_WARFARE >
+격전지대: 협
+
+< FIELD_COOP_SCARREDLAND >
+갈라진 땅: 협
+
+< FIELD_COOP_DESERT >
+고독한 레일웨이: 협
+
+< FIELD_COOP_CIRCUS >
+서커스: 협
+
+< FIELD_COOP_PURES >
+퓨어즈 스탬프 랠리: 협
 
 [EOF]
 

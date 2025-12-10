@@ -1,0 +1,198 @@
+
+// ========= Scene:  Winter 2022 Opening =========
+
+// (mio)
+<0000> Fufufu, c'est parfait. Tomomo va adorer ♥
+
+// (sweetcreator)
+<0001> Joyeux Noël, tout le monde ! Santé, nojah !
+
+// (othersweetgods)
+<0002> Santé !
+
+// (natsumi)
+<0003> Quelle bonne idée de fêter Noël entre Déesses du Sucre.
+
+// (saki)
+<0004> J'ai fait tout plein de cookies pour l'occasion, servez-vous !
+
+// (natsumi)
+<0005> Et moi, j'ai cuisiné des puddings de crêpe. J'en suis très fière.
+
+// (qp)
+<0006> Des puddings de crêpe !? Natsumi, tu mérites tout le respect du monde !!!
+
+// (tomomo)
+<0007> Tout a l'air trop bon ! Euh, attendez, où est le gâteau de Noël ?
+
+// (sweetcreator)
+<0008> Il me semble que Sweet Breaker devait initalement s'en charger, nojah ?
+
+// (sweetbreaker)
+<0009> J'ai essayé d'en faire un, mais il était raté. Je suis confuse...
+
+// (saki)
+<0010> Disons que Sweebo est douée pour faire disparaître les sucreries, pas pour en créer.
+
+// (qp)
+<0011> Ça me rappelle ce rêve de l'autre jour où elle a essayé d'effacer le pudding et que j'ai dû l'arrêter !
+
+// (sweetbreaker)
+<0012> Qu'est-ce que vous êtes têtues, vous deux.\nAu passage, merci de ne pas m'appeler Sweebo.
+
+// (natsumi)
+<0013> Ne vous chamaillez pas. On pourrait très bien faire un gâteau ensemble.
+
+// (mio)
+<0014> Tomomooo ♥
+
+// (tomomo)
+<0015> Mio !? Ça va pas, de rentrer chez les gens sans frapper !?
+
+// (mio)
+<0016> J'ai fait un gâteau pour Noël. Mangeons-le ensemble ♥
+
+// (sweetbreaker)
+<0017> Juste à temps. Nous devrions accepter son offre.
+
+// (sweetcreator)
+<0018> Nos pouvoirs de Déesses du Sucre ont amené ce gâteau à nous, nojah. Nous ne pouvons pas refuser.
+
+// (natsumi)
+<0019> Tenez, Mio, asseyez-vous là.
+
+// (tomomo)
+<0020> Bon, si ce n'est que ça, j'imagine que tu peux rester.
+
+// (mio)
+<0021> Génial ♥
+
+// (allsweetgods)
+<0022> À la vôtre ! *croque* ...Beh.
+
+// (mio)
+<0023> N'est-ce point succulent ? En tant qu'amatrice de sucreries, j'ai mis tout mon cœur à l'ouvrage ♥
+
+// (sweetcreator)
+<0024> Une amatrice de sucreries, vraiment, nojah...?
+
+// (sweetbreaker)
+<0025> C-c'est vraiment un gâteau...?
+
+// (natsumi&saki&qp)
+<0026> ......
+
+// (tomomo)
+<0027> M-mais !? C'est dégoûtant !
+
+// (mio)
+<0028> Non, vous me faites marcher ! ...*croque*... Mais oui, il est très bon, enfin !
+
+// (saki)
+<0029> Ça a la texture d'un gâteau au chocolat, mais...
+
+// (natsumi)
+<0030> Disons que l'apparence est trompeuse.
+
+// (mio)
+<0031> C'est impossible ! Mon gâteau est un triomphe ! Quel genre de gâteaux mangez-vous ?
+
+// (tomomo)
+<0032> Ceux qui n'ont pas un goût de chaussette.
+
+// (mio)
+<0033> Un goût de chaussette ?! Raaah, ça y est, tu recommences ! Plus le choix...
+
+// (mio)
+<0034> Je vais créer des millions de gâteaux comme celui-ci, et les intervertir avec tous les gâteaux du monde ! Le monde verra que mes gâteaux sont les meilleurs !
+
+// (tomomo)
+<0035> Pour une fois que tu ne transformes pas de monstres en géants. ...Attends, tu comptes faire quoi !?
+
+// (sweetcreator)
+<0036> Mio, c'est bien ça ? Cette dernière déclaration est un affront envers les Déesses du Sucre, nojah !
+
+// (sweetbreaker)
+<0037> Nous ne laisserons nul individu saboter l'équilibre des sucreries.
+
+// (qp)
+<0038> Nous, Déesses du Sucre, protègerons les gâteaux de Noël du monde !
+
+// (saki)
+<0039> Les sucreries sont en crise ! Je dois me donner à fond !!!
+
+// (natsumi)
+<0040> D'accord, j-je vais faire de mon mieux pour sauver les gâteaux.
+
+// (mio)
+<0041> Comme c'est charmant. Venez donc m'arrêter. Personne ne peut me vaincre quand je suis en colère ♥
+
+// ========= Scene:  Ending 1 (Sweet Gods win) =========
+
+// (sweetcreator)
+<0042> Une victoire écrasante pour les Déesses du Sucre, nojah.
+
+// (mio)
+<0043> *snif* Tout ce que je voulais... c'était de faire plaisir aux gens avec mes gâteaux...
+
+// (sweeteater)
+<0044> Je te crois quand tu dis que tu aimes les sucreries. C'est juste que... tu manques d'entraînement en pâtisserie.
+
+// (sweetblogger)
+<0045> Ensemble, on pourrait t'apprendre à cuisiner des gâteaux.
+
+// (sweetmaker)
+<0046> Puisque tu connais les bases, tu devrais apprendre bien vite !
+
+// (mio)
+<0047> Vous êtes sincères ?
+
+// (sweetbreaker)
+<0048> Bien sûr, nous sommes les Déesses du Sucre.
+
+// (sweetguardian)
+<0049> Tu vas adorer apprendre l'art des pâtisseries ! Au final, tout le monde sera content !
+
+// (mio)
+<0050> Eh bien... soit ! Montrez-moi ♥
+
+// (sweetcreator)
+<0051> Parfait. Allons donc dans mon palais, l'endroit idéal pour cuisiner, nojah !
+
+// (everyone)
+<0052> Oui !
+
+// ========= Scene:  Ending 2 (Mio wins) =========
+
+// (mio)
+<0053> Ufufu, j'ai gagné ♥ Je vous avais bien dit que vous ne pourriez pas me vaincre.
+
+// (sweeteater)
+<0054> Il y a vraiment des gens dans ce monde qui aiment ce gâteau immonde !?
+
+// (sweetguardian)
+<0055> Je viens d'en reprendre. Je m'étais trompée, il n'est pas si mauvais.
+
+// (sweetblogger)
+<0056> Des bloggers de tout part partagent leurs sentiments envers ce gâteau. C'est la nouvelle mode !
+
+// (sweetcreator)
+<0057> Le monde des sucreries est bien plus vaste que je ne l'imaginais, nojah. Il y a encore tant à apprendre.
+
+// (sweetbreaker)
+<0058> Vous devez avoir raison. Nous ne devrions pas être si téméraires quant à la qualité des pâtisseries.
+
+// (sweetmaker)
+<0059> Mio, tu pourrais m'apprendre la recette ? En tant que pâtissière, il faut que je la connaisse !
+
+// (mio)
+<0060> Avec plaisir ♥
+
+// (sweetcreator)
+<0061> Parfait. Allons donc dans mon palais, l'endroit idéal pour cuisiner, nojah !
+
+// (everyone)
+<0062> Oui !
+
+// (sweeteater)
+<0063> Hééé ! Attendez ! Vous allez quand même pas m'abandonner !?

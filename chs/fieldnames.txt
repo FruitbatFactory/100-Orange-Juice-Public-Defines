@@ -122,6 +122,9 @@
 < FIELD_PURES >
 “纯洁”集章会
 
+< FIELD_SCHOOLYARD >
+学校操场
+
 < FIELD_COOP_LAGOONFLIGHT >
 环礁 合作
 
@@ -226,6 +229,22 @@
 
 < FIELD_COOP_WHIRLPOOL >
 漩涡泳池
+
+< FIELD_COOP_WARFARE >
+激战空域 合作
+
+< FIELD_COOP_SCARREDLAND >
+满目疮痍之地 合作
+
+< FIELD_COOP_DESERT >
+孤寂铁路 合作
+
+< FIELD_COOP_CIRCUS >
+马戏团 合作
+
+< FIELD_COOP_PURES >
+“纯洁”集章会 合作
+
 
 [EOF]
 

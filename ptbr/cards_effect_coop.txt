@@ -298,4 +298,64 @@ descr=Ganhe -1 de Defesa. Sempre que passar por um inimigo em seu turno, roube [
 name=Blefe Pseudointelectual
 descr=Sempre que uma carta desse tipo é jogada, o jogador compra uma carta.
 
+< CARD_COOP_REINFORCE_EFFECT >
+name=Reforçado
+descr=O jogador que aplicou este efeito irá batalhar antes de você se você for desafiado. Ganhe +1 ATK, DEF e EVD se ele sobreviver a batalha Reforçada. Se ele sofrer nocaute, ganhe +1 ATK.
+
+< CARD_COOP_REINFORCE_PENALTY_EFFECT >
+name=Reforçando
+descr=Enquanto reforça um jogador, ganha -1 MOV. Além disso, ganhe +1 ATK, DEF, EVD em uma batalha Reforçada.
+
+< CARD_COOP_CLEANSING_AURA_EFFECT >
+name=Limpeza da Aura
+descr=Garante imunidade para o próximo efeito aplicado por Chefes ou capangas.
+
+< CARD_COOP_PAY_ATTENTION_EFFECT >
+name=Preste Atenção
+descr=Quando você fosse parar num painel de casa, no lugar teleporte para o painel em que o Chefe está.
+
+< CARD_COOP_BRUTAL_TRAPS_EFFECT >
+name=Armadilhas Brutais
+descr=Quando você ativar uma armadilha, descarte todas as cartas da sua mão.
+
+< CARD_COOP_BACKDOOR_SCHEME_EFFECT >
+name=Esquema da Porta dos Fundos
+descr=Quando você ficar com 1 HP, perca Nvl x10 estrelas. Efeito expira em nocaute.
+
+< CARD_COOP_WARUDA_MACHINE_EFFECT >
+name=Máquina Waruda
+descr=Ganhe ATK e DEF mas perca EVD equivalente ao número de cartas na mão de seu oponente.
+
+< CARD_COOP_HMM_EFFECT >
+name=Hmm...
+descr=A próxima habilidade que der dano direto, dará mais (Nvl do Chefe) de dano.
+
+< CARD_COOP_SNEAKILY_EFFECT >
+name=Sorrateiramente
+descr=Não pode ser desafiado. Ganhe +2 ATK ao desafiar um inimigo.
+
+< CARD_COOP_BOSS_PRISON_BREAK_EFFECT >
+name=Fugindo da Prisão
+descr=Ganhe +2 EVD. Se você não for desafiado antes do efeito acabar, ganhe permanentemente +1 ATK e DEF.
+
+< CARD_COOP_BOSS_FREE_BIRD_EFFECT >
+name=Pássaro Livre
+descr=Ganhe +1 ATK e DEF.
+
+< CARD_COOP_BREAKER_ENRAGE_EFFECT >
+name=Fúria
+descr=Ganhe +1 ATK e +1 de dano para todos os efeitos de dano.
+
+< CARD_COOP_BUILDER_ENRAGE_EFFECT >
+name=Fúria da Construtora
+descr=Ganhe +1 ATK e +1 MOV.
+
+< CARD_COOP_BUSTER_ENRAGE_EFFECT >
+name=Fúria da Destruidora
+descr=Compre e execute uma carta extra a cada turno.
+
+< CARD_COOP_HIGH_ALERT_EFFECT >
+name=Em Alerta Alto
+descr=Ganhe +1 DEF. Este efeito permanecerá ativo enquanto um oponente é nocauteado.
+
 [EOF]

@@ -1,0 +1,365 @@
+< CARD_DECEPTIVELYDISARMED_EFFECT >
+name=Désarmement
+descr=Passe sa prochaine action.
+
+< CARD_UNLUCKYBEAST_EFFECT >
+name=Bête Malchanceuse
+descr=Passe sa prochaine action.
+
+< CARD_STUFFED_EFFECT >
+name=Calée
+descr=-1 ATK au prochain combat.
+
+< CARD_BURNOUT_EFFECT >
+name=Obsolescence
+descr=Met un tour de plus à se relever par unité.
+
+< CARD_PROTAGONISTPRIVILEGE_EFFECT >
+name=Privilège du Protagoniste
+descr=Attaque toujours en premier. L'ennemi ne peut pas contre-attaquer (une fois par combat).
+
+< CARD_AIRSUPPORT_EFFECT >
+name=Soutien Aérien
+descr=+2 DEF au prochain combat.
+
+< CARD_COOP_BLAZING_EFFECT >
+name=Flamboyance
+descr=+1 ATK (allié) ou -1 DEF (ennemi) par unité. L'effet disparaît en tombant KO.
+
+< CARD_COOP_MELTINGMEMORIES_EFFECT >
+name=Souvenirs Fondus
+descr=Sweet Breaker gagne +1 ATK/DEF/EVD en l'affrontant.
+
+< CARD_COOP_EVILSPYWORKEXEC_EFFECT >
+name=Plan d'Infiltration ― Exécution
+descr=Soigne 2 PV en fin de tour.
+
+< CARD_COOP_BANNEDFORLIFE_GIFT_EFFECT >
+name=Banni à Vie
+descr=Possède une carte pouvant empêcher le Boss de jouer.
+
+< CARD_COOP_BANNEDFORLIFE_EFFECT >
+name=Banni à Vie
+descr=Passe sa prochaine action.
+
+< CARD_COOP_GUIDANCE_EFFECT >
+name=Girouette
+descr=Jette 2 dés à toutes les actions hors-combat. L'effet disparaît en tombant KO.
+
+< CARD_COOP_BEASTWITCH_EFFECT >
+name=Sorcière Bestiale
+descr=Ne peut pas perdre d'étoiles en combat face à un ennemi.
+
+< CARD_COOP_FINALSURGERY_EFFECT >
+name=Opération Fatale
+descr=-2 REC jusqu'à s'être relevé.
+
+< CARD_COOP_STEALTHON_EFFECT >
+name=Mode Invisible
+descr=Ne peut être défié par un ennemi.\nAnnule les cases Ennemi.\nEn cas de combat, gagne +2 ATK. L'effet prend fin aussitôt après.
+
+< CARD_COOP_SPECIALSTAGE_EFFECT >
+name=Mode Concert
+descr=-3 MOV. N'active que les cases de déplacement. Pas le droit aux cartes. Ne peut pas être défié et vole (Niv. joueur) x5 ★ aux ennemis s'arrêtant à proximité. L'effet prend fin en tombant KO.
+
+< CARD_COOP_IDEALWORLD_EFFECT >
+name=Copains Robots
+descr=En cas de combat, est remplacé par un Roboulon avec +1 ATK.
+
+< CARD_COOP_GOODESTBOY_EFFECT >
+name=Meilleur Bon Chien
+descr=Ignore les cases Boss. Ne peut ni défier, ni être défié. Les joueurs peuvent s'arrêter pour le caresser.\nSi lui et un autre joueur se retrouvent sur la même case, les deux piochent une carte.\nL'effet disparaît en tombant KO.
+
+< CARD_COOP_PRISONBREAK_EFFECT >
+name=Évasion Imaginaire
+descr=Ne peut pas être défié. N'active pas les pièges. Invulnérable hors-combat. +1 dé aux jets de déplacement. Chaque case parcourue enlève 1 unité.
+
+< CARD_COOP_POPPOSNATCHER_EFFECT >
+name=Poppo la Chipeuse
+descr=-1 DEF. Vole (Niv. joueur) x3 ★ en croisant un adversaire. Ne pas valider de Quota.
+
+< CARD_BOSS_HYPE_EFFECT >
+name=Hype
+descr=Utilise "Carnage" une fois arrivé à 10 unités.
+
+< CARD_BOSS_RUMBLE_EFFECT >
+name=Charge Turbo
+descr=+1 ATK par unité.
+
+< CARD_BOSS_DANCEOFSEAGULLS_EFFECT >
+name=Danse des Mouettes
+descr=-2 ATK au prochain combat.
+
+< CARD_BOSS_BEAKOFGODBIRD_EFFECT >
+name=Bec de l'Oiseau-Monde
+descr=+1 ATK.
+
+< CARD_BOSS_BEAKOFDEMIBIRD_EFFECT >
+name=Bec du Mi-Oiseau
+descr=+2 ATK.
+
+< CARD_BOSS_FLIGHT_EFFECT >
+name=Envol
+descr=Se déplace à l'envers et inflige (Niv. Boss) dégâts aux joueurs qu'il croise.
+
+< CARD_BOSS_PIYOMARCH_EFFECT >
+name=Défilé Piyo
+descr=+2 EVD au prochain combat.
+
+< CARD_BOSS_HEADLESSCHICKENMINION_EFFECT >
+name=Poulet Sans Tête
+descr=+2 ATK et +2 EVD au prochain combat.
+
+< CARD_BOSS_HEADLESSCHICKEN_EFFECT >
+name=Poulet Sans Tête
+descr=+2 ATK.
+
+< CARD_BOSS_WIRELESSCHICKEN_EFFECT >
+name=Poulet Sans Câble
+descr=+2 ATK.
+
+< CARD_BOSS_ATTACKDOWN_EFFECT >
+name=Fuite d'ATK
+descr=-1 ATK par unité.
+
+< CARD_BOSS_DEFENSEDOWN_EFFECT >
+name=Fuite de DEF
+descr=-1 DEF par unité.
+
+< CARD_BOSS_EVASIONDOWN_EFFECT >
+name=Fuite d'EVD
+descr=-1 EVD par unité.
+
+< CARD_BOSS_TURBO_EFFECT >
+name=Turbo-Réacteur
+descr=Jette 3 dés aux jets de déplacement.
+
+< CARD_BOSS_EMP_EFFECT >
+name=Magnétisme
+descr=Ne peut pas utiliser de cartes.
+
+< CARD_BOSS_DELTAFIELD_EFFECT >
+name=Stase Delta
+descr=Les dés ne font que des 1, 2, ou 3.
+
+< CARD_BOSS_IMAGINARYNUMBERS_EFFECT >
+name=Chiffres Imaginaires
+descr=Le dé du Boss fait toujours 7.
+
+< CARD_BOSS_DELUSIONALNUMBERS_EFFECT >
+name=Chiffres Fantômes
+descr=Le dé du Boss ne fait que 0 ou 7, avec 0 comme score minimum au lieu de 1.
+
+< CARD_BOSS_HEALTHDOWN_EFFECT >
+name=Fuite de Santé
+descr=-1 PV Max par unité.
+
+< CARD_BOSS_RECOVERYMODE_EFFECT >
+name=Réparation Auto
+descr=Immobile. Se soigne de 2 PV à chaque tour. L'effet prend fin en entrant au combat.
+
+< CARD_BOSS_PERFECTREFLECTIVESHELL_EFFECT >
+name=Bouclier Réfléchissant
+descr=Inflige tous les dégâts subis aux assaillants.
+
+< CARD_BOSS_PROTECT_EFFECT >
+name=Protection
+descr=Réduit les dégâts de 1 (-3 max) pour un minimum de 1 et enlève une unité par dégât subi.\nEn disparaissant, applique l'effet "Brouillé" pendant 3 chapitres.
+
+< CARD_BOSS_SCRAMBLED_EFFECT >
+name=Brouillé
+descr=-2 DEF/EVD et -1 MOV.
+
+< CARD_BOSS_POTECT_EFFECT >
+name=Poppotection
+descr=Réduit les dégâts de 1 (-2 max) pour un minimum de 1 et enlève une unité par dégât subi.\nEn disparaissant, applique l'effet "Brouillée" pendant 3 chapitres.
+
+< CARD_BOSS_SCRAMBLEDPO_EFFECT >
+name=Brouillée
+descr=-1 DEF/EVD/MOV.
+
+< CARD_BOSS_ELUSIVE_EFFECT >
+name=Étoile Filante
+descr=Lorsqu'elle croise un joueur, le Boss gagne (Niv. Boss) x5 ★ et les joueurs en perdent autant.
+
+< CARD_BOSS_STARMANIA_EFFECT >
+name=Folie des Étoiles
+descr=Le Boss gagne +1 étoile à chaque chapitre par unité.
+
+< CARD_BOSS_ROBOTAX_EFFECT >
+name=Imporobot
+descr=+1 DEF par unité.
+
+< CARD_BOSS_HIGHWAYROBBERY_EFFECT >
+name=Braquage Désarmé
+descr=+3 ATK.\nSe déplace à l'envers et continue à avancer après un combat.\nChaque dégât qu'elle inflige vole 10 étoiles au lieu de blesser.
+
+< CARD_BOSS_GREED_EFFECT >
+name=Avarice
+descr=+5 étoiles par dégât infligé en combat. S'applique aussi aux familiers.
+
+< CARD_BOSS_CHASE_EFFECT >
+name=Chat !
+descr=+1 dé aux jets de déplacement. +1 Hype par joueur affronté.
+
+< CARD_BOSS_TIRED_EFFECT >
+name=Fatigué
+descr=+1 REC au prochain KO.
+
+< CARD_BOSS_EXHAUSTED_EFFECT >
+name=Épuisé
+descr=+2 REC au prochain KO.
+
+< CARD_BOSS_PLAYTAG_EFFECT >
+name=Chat Perché
+descr=+2 ATK. +1 Hype par joueur affronté.
+
+< CARD_BOSS_HIDENSEEK_EFFECT >
+name=Cache-Cache
+descr=Immobile. Gagne 2 Hype à chaque tour. L'effet disparaît au prochain combat.
+
+< CARD_BOSS_PSYCHEDUP_EFFECT >
+name=Adrénaline
+descr=+2 MOV.
+
+< CARD_BOSS_WATERMELONSPLIT_EFFECT >
+name=Part de Pastèque
+descr=+5 ATK. Continue son déplacement après avoir défié un joueur. +2 Hype par joueur KO.
+
+< CARD_BOSS_HYPEITUP_EFFECT >
+name=Hyper Hypée
+descr=+1 ATK & DEF et -1 EVD. En combat, perd 1 Hype en étant blessée et 2 Hype en tombant KO.
+
+< CARD_BOSS_RAMPAGE_EFFECT >
+name=Carnage
+descr=Carnage fait +1 dégât par unité.
+
+< CARD_BOSS_RAMPAGEHYPER_EFFECT >
+name=Carnage
+descr=+1 ATK par unité. Carnage fait +1 dégât par unité.
+
+< CARD_BOSS_HYPEMODE_EFFECT >
+name=Mode Hypermétrique
+descr=+2 ATK et +1 DEF. Tomber KO fait se relever aussitôt au tour suivant.
+
+< CARD_BOSS_QUAKE_EFFECT >
+name=Séisme
+descr=-2 MOV.
+
+< CARD_BOSS_POPPOMARCH_EFFECT >
+name=Défilé Poppo
+descr=+2 EVD.
+
+< CARD_BOSS_TURBOCHICKEN_EFFECT >
+name=Turbo-Poulet
+descr=+1 dé aux jets de déplacement et continue à avancer après avoir affronté un joueur.\nPour chaque joueur défié, gagne 25 étoiles et +1 ATK.
+
+< CARD_BOSS_SWARM_EFFECT >
+name=Ruée
+descr=+2 ATK au prochain combat (en attaquant en premier). Le joueur ne peut pas contre-attaquer.
+
+< CARD_SKILL_COOP_FURY_EFFECT >
+name=Furie
+descr=Chaque attaque inflige +1 dégât par unité.
+
+< CARD_COOP_HYPER_ATTACKER_EFFECT >
+name=Arme Ultime au Soleil
+descr=Chaque attaque inflige +3 dégâts.
+
+< CARD_COOP_PROTECT_EFFECT >
+name=Protection
+descr=Les prochains dégâts subis sont réduits de 1 par unité. L'effet disparaît en bloquant des dégâts.
+
+< CARD_SKILL_COOP_GUARDIANSPIRIT_EFFECT >
+name=Esprit du Gardien
+descr=Les prochains dégâts subis sont réduits de 1 par unité.
+
+< CARD_COOP_HYPER_GUARDIAN_EFFECT >
+name=Gardienne de la Mer Blanche
+descr=Les prochains dégâts subis sont réduits de 2.
+
+< CARD_SKILL_COOP_FROMBEYOND_EFFECT >
+name=De l'Au-Delà
+descr=Tomber KO en combat fait se relever aussitôt avec 1 PV par unité.
+
+< CARD_COOP_HYPER_AVENGER_EFFECT >
+name=Vengeur Rancunier
+descr=Tomber KO en combat fait se relever aussitôt avec 1 PV par unité.
+
+< CARD_COOP_RANSOMNOTE_EFFECT >
+name=Lettre de Rançon
+descr=Tombe KO à la fin de son tour.
+
+< CARD_COOP_DEMAND_EFFECT >
+name=Demande
+descr=La prochaine case, quelle qu'elle soit, est considérée comme une case Pioche.
+
+< CARD_COOP_HYPER_DEALER_EFFECT >
+name=Jeux de Vacance
+descr=Les cases sur lesquelles vous marchez ce tour-ci comptent comme des cases Pioche x2.
+
+< CARD_COOP_INTELLECTUALBLUFF_EFFECT >
+name=Bluff d'Intello
+descr=Lorsqu'un joueur joue une carte du type choisi, il pioche une carte aussitôt.
+
+< CARD_COOP_REINFORCE_EFFECT >
+name=Renforcé
+descr=En cas de combat, le joueur ayant posé cet effet combattra pour vous. S'il tombe KO, vous gagnez +1 ATK. Sinon, vous gagnez +1 DEF et +1 EVD.
+
+< CARD_COOP_REINFORCE_PENALTY_EFFECT >
+name=Renforts
+descr=-1 MOV tant que vous renforcez un joueur. En combat de Renfort, vous gagnez +1 ATK, DEF, EVD.
+
+< CARD_COOP_CLEANSING_AURA_EFFECT >
+name=Purifié
+descr=Immunisé aux effets infligés par le Boss et ses familiers.
+
+< CARD_COOP_PAY_ATTENTION_EFFECT >
+name=Kidnapping
+descr=Se téléporte sur la case de Brico-Nautique en s'arrêtant sur une case Maison.
+
+< CARD_COOP_BRUTAL_TRAPS_EFFECT >
+name=Piège Cruel
+descr=Défausse toutes ses cartes en activant un piège.
+
+< CARD_COOP_BACKDOOR_SCHEME_EFFECT >
+name=Stratégie d'Attaque
+descr=Perd Niv x10 étoiles en tombant à 1 PV. L'effet disparaît en tombant KO.
+
+< CARD_COOP_WARUDA_MACHINE_EFFECT >
+name=Méca-Loubardie
+descr=Au prochain combat, gagne +1 ATK, DEF et perd 1 EVD par carte en main de l'adversaire.
+
+< CARD_COOP_HMM_EFFECT >
+name=Hmm...
+descr=Prochain effet infligeant des dégâts fait (Niv. Boss) dégâts en plus.
+
+< CARD_COOP_SNEAKILY_EFFECT >
+name=Discrétos
+descr=Ne peut pas être défiée. +2 ATK en initiant un combat.
+
+< CARD_COOP_BOSS_PRISON_BREAK_EFFECT >
+name=Évasion
+descr=+2 EVD. L'effet disparaît en étant défiée. Sinon, gagne +1 ATK et +1 DEF pour le restant de la partie.
+
+< CARD_COOP_BOSS_FREE_BIRD_EFFECT >
+name=Mimyuu Est Libre !
+descr=+1 ATK, DEF.
+
+< CARD_COOP_BREAKER_ENRAGE_EFFECT >
+name=Pyro-Rage
+descr=+1 ATK, et +1 dégât à tous les effets de dégât.
+
+< CARD_COOP_BUILDER_ENRAGE_EFFECT >
+name=Brico-Rage
+descr=+1 ATK, +1 MOV.
+
+< CARD_COOP_BUSTER_ENRAGE_EFFECT >
+name=Nitro-Rage
+descr=Pioche et joue une carte de plus à chaque tour.
+
+< CARD_COOP_HIGH_ALERT_EFFECT >
+name=Alerte !
+descr=+1 DEF. L'effet disparaît si tous les Boss sont actifs.
+
+[EOF]

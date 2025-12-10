@@ -1,0 +1,260 @@
+
+< CAMPAIGN_QP_ONE >
+QP Épisode 1
+
+< CAMPAIGN_QP_TWO >
+QP Épisode 2
+
+< CAMPAIGN_QP_THREE >
+QP Épisode 3
+
+< CAMPAIGN_QP_FOUR >
+QP Épisode 4
+
+< CAMPAIGN_QP_FIVE >
+QP Épisode 5
+
+< CAMPAIGN_QP_FINAL >
+QP Dernier Épisode
+
+< CAMPAIGN_SUGURI_ONE >
+Suguri Épisode 1
+
+< CAMPAIGN_SUGURI_TWO >
+Suguri Épisode 2
+
+< CAMPAIGN_SUGURI_THREE >
+Suguri Épisode 3
+
+< CAMPAIGN_SUGURI_FOUR >
+Suguri Épisode 4
+
+< CAMPAIGN_SUGURI_FIVE >
+Suguri Épisode 5
+
+< CAMPAIGN_SUGURI_FINAL >
+Suguri Dernier Épisode
+
+< CAMPAIGN_MARC_ONE >
+Marc Épisode 1
+
+< CAMPAIGN_MARC_TWO >
+Marc Épisode 2
+
+< CAMPAIGN_MARC_THREE >
+Marc Épisode 3
+
+< CAMPAIGN_MARC_FOUR >
+Marc Épisode 4
+
+< CAMPAIGN_MARC_FIVE >
+Marc Épisode 5
+
+< CAMPAIGN_MARC_FINAL >
+Marc Dernier Épisode
+
+< CAMPAIGN_KAI_ONE >
+Kai Épisode 1
+
+< CAMPAIGN_KAI_TWO >
+Kai Épisode 2
+
+< CAMPAIGN_KAI_THREE >
+Kai Épisode 3
+
+< CAMPAIGN_KAI_FOUR >
+Kai Épisode 4
+
+< CAMPAIGN_KAI_FIVE >
+Kai Épisode 5
+
+< CAMPAIGN_KAI_FINAL >
+Kai Dernier Épisode
+
+< CAMPAIGN_EXTRA_ONE >
+Minuit = Kemonomimi
+
+< CAMPAIGN_EXTRA_TWO >
+Bataille des Cyborgs
+
+< CAMPAIGN_EXTRA_THREE >
+Avions du Crépuscule
+
+< CAMPAIGN_EXTRA_FOUR >
+Étrange Odyssée de l'Étrange Espace
+
+< CAMPAIGN_EXTRA_FIVE >
+Enfer des Tomomo
+
+< CAMPAIGN_EXTRA_SIX >
+La Citadelle Noire de Mio
+
+< CAMPAIGN_EXTRA_SEVEN >
+Secret Santa
+
+< CAMPAIGN_EXTRA_EIGHT >
+Punition Divine
+
+< CAMPAIGN_STARBREAKER_ONE >
+Star Breaker Épisode 1
+
+< CAMPAIGN_STARBREAKER_TWO >
+Star Breaker Épisode 2
+
+< CAMPAIGN_STARBREAKER_THREE >
+Star Breaker Épisode 3
+
+< CAMPAIGN_STARBREAKER_FOUR >
+Star Breaker Épisode 4
+
+< CAMPAIGN_STARBREAKER_FIVE >
+Star Breaker Épisode 5
+
+< CAMPAIGN_STARBREAKER_FINAL >
+Star Breaker Dernier Épisode
+
+< CAMPAIGN_SWEETBREAKER_ONE >
+Sweet Breaker Épisode 1
+
+< CAMPAIGN_SWEETBREAKER_TWO >
+Sweet Breaker Épisode 2
+
+< CAMPAIGN_SWEETBREAKER_THREE >
+Sweet Breaker Épisode 3
+
+< CAMPAIGN_SWEETBREAKER_FOUR >
+Sweet Breaker Épisode 4
+
+< CAMPAIGN_SWEETBREAKER_FIVE >
+Sweet Breaker Épisode 5
+
+< CAMPAIGN_SWEETBREAKER_FINAL >
+Sweet Breaker Dernier Épisode
+
+< CAMPAIGN_BREAKER_EXTRA >
+Chaos des Déesses du Sucre
+
+< CAMPAIGN_MIUCEORE_ONE >
+Girl Power Épisode 1
+
+< CAMPAIGN_MIUCEORE_TWO >
+Girl Power Épisode 2
+
+< CAMPAIGN_MIUCEORE_THREE >
+Girl Power Épisode 3
+
+< CAMPAIGN_MIUCEORE_FOUR >
+Girl Power Épisode 4
+
+< CAMPAIGN_MIUCEORE_FIVE >
+Girl Power Épisode 5
+
+< CAMPAIGN_MIUCEORE_SIX >
+Girl Power Épisode 6
+
+< CAMPAIGN_MIUCEORE_SEVEN >
+Girl Power Épisode 7
+
+< CAMPAIGN_MIUCEORE_EIGHT >
+Girl Power Épisode 8
+
+< CAMPAIGN_MIUCEORE_NINE >
+Girl Power Épisode 9
+
+< CAMPAIGN_MIUCEORE_FINAL >
+Girl Power Dernier Épisode
+
+< CAMPAIGN_CHRISTMAS_2017 >
+Fête de Noël de Loubardie
+
+< CAMPAIGN_NICOARTHUR_ONE >
+Nöels Croisés Épisode 1
+
+< CAMPAIGN_NICOARTHUR_TWO >
+Nöels Croisés Épisode 2
+
+< CAMPAIGN_NICOARTHUR_THREE >
+Nöels Croisés Épisode 3
+
+< CAMPAIGN_NICOARTHUR_FOUR >
+Nöels Croisés Épisode 4
+
+< CAMPAIGN_NICOARTHUR_FIVE >
+Nöels Croisés Épisode 5
+
+< CAMPAIGN_NICOARTHUR_FINAL >
+Nöels Croisés Dernier Épisode
+
+
+< CAMPAIGN_SUGURISUMIKA_ONE >
+Gardiennes du Passé Épisode 1
+
+< CAMPAIGN_SUGURISUMIKA_TWO >
+Gardiennes du Passé Épisode 2
+
+< CAMPAIGN_SUGURISUMIKA_THREE >
+Gardiennes du Passé Épisode 3
+
+< CAMPAIGN_SUGURISUMIKA_FOUR >
+Gardiennes du Passé Épisode 4
+
+< CAMPAIGN_SUGURISUMIKA_FIVE >
+Gardiennes du Passé Épisode 5
+
+< CAMPAIGN_SUGURISUMIKA_SIX >
+Gardiennes du Passé Épisode 6
+
+< CAMPAIGN_SUGURISUMIKA_SEVEN >
+Gardiennes du Passé Épisode 7
+
+< CAMPAIGN_SUGURISUMIKA_EIGHT >
+Gardiennes du Passé Épisode 8
+
+< CAMPAIGN_SUGURISUMIKA_NINE >
+Gardiennes du Passé Épisode 9
+
+< CAMPAIGN_SUGURISUMIKA_TEN >
+Gardiennes du Passé Épisode 10
+
+< CAMPAIGN_SUGURISUMIKA_FINAL >
+Gardiennes du Passé Dernier Épisode
+
+
+< CAMPAIGN_ELLIELULU_NUMBER >
+Voyageuses Épisode %d
+
+< CAMPAIGN_ELLIELULU_FINAL >
+Voyageuses Dernier Épisode
+
+< CAMPAIGN_RONETEO >
+Sabbat des Sorcières
+
+< CAMPAIGN_WARUDAPRISONBREAK_NUMBER >
+Loubardie en Cavale Épisode %d
+
+< CAMPAIGN_WARUDAPRISONBREAK_FINAL >
+Loubardie en Cavale Dernier Épisode
+
+< CAMPAIGN_DIFFICULTY_CASUAL >
+Performance diminuée pour les CPU.
+
+< CAMPAIGN_DIFFICULTY_NORMAL >
+Aucune modification.
+
+< CAMPAIGN_DIFFICULTY_ORIGINAL >
+Performance des CPU ajustée individuellement.
+
+< CAMPAIGN_DIFFICULTY_EXTREME >
+Performance augmentée pour les CPU.
+
+< CAMPAIGN_RETURN >
+Retour
+
+< CAMPAIGN_RONETEO_MESSAGE >
+Nouvelle mission disponible ! Nous vous conseillons de finir les campagnes "Girl Power" et "Gardiennes du Passé" au préalable.
+
+< CAMPAIGN_WINTER2023_MESSAGE >
+Nouvelle mission disponible : "%s" !
+
+
+[EOF]

@@ -113,111 +113,6 @@
 < FIELD_DESERT >
 Одинокая Железная Дорога
 
-< FIELD_COOP_LAGOONFLIGHT >
-Полёт в Лагуне (Кооператив)
-
-< FIELD_COOP_SUNSET >
-Закат (Кооператив)
-
-< FIELD_COOP_POPPOABYSS >
-Бездна Поппо
-
-< FIELD_COOP_STARCIRCUIT >
-Звёздный Круг (Кооператив)
-
-< FIELD_COOP_SPACEWANDERER >
-Звёздный Странник (Кооператив)
-
-< FIELD_COOP_HIGHWAYHEIST >
-Ограбление на Шоссе (Кооператив)
-
-< FIELD_COOP_FARM >
-Ферма (Кооператив)
-
-< FIELD_COOP_SHIPYARD >
-Верфь (Кооператив)
-
-< FIELD_COOP_TRAININGPROGRAM >
-Учебная Программа (Кооператив)
-
-< FIELD_COOP_NIGHTFLIGHT >
-Ночной Вылет (Кооператив)
-
-< FIELD_COOP_VORTEX >
-Вихрь (Кооператив)
-
-< FIELD_COOP_CYBERSPACE >
-Киберпространство
-
-< FIELD_COOP_PLANETEARTH >
-Планета Земля (Кооператив)
-
-< FIELD_COOP_WITCHFOREST >
-Ведьмин Лес (Кооператив)
-
-< FIELD_COOP_WORKSHOP >
-Мастерская Санты (Кооператив)
-
-< FIELD_COOP_SAKURA >
-Разборка у Сакуры (Кооператив)
-
-< FIELD_COOP_PUDDINGCHASE >
-Погоня за Пудингом (Кооператив)
-
-< FIELD_COOP_TREASUREISLAND >
-Остров Сокровищ (Кооператив)
-
-< FIELD_COOP_TREASUREISLANDNIGHT >
-Остров Сокровищ (Кооператив) (Ночь)
-
-< FIELD_COOP_OCEANDIVE >
-Погружение в Океан (Кооператив)
-
-< FIELD_COOP_OVERTHESEA >
-Над Морем (Кооператив)
-
-< FIELD_COOP_CLOVER >
-Клевер (Кооператив)
-
-< FIELD_COOP_FROSTCAVE >
-Морозная Пещера (Кооператив)
-
-< FIELD_COOP_ICYHIDEOUT >
-Ледяное Убежище (Кооператив)
-
-< FIELD_COOP_STARSHIP >
-Космический Корабль (Кооператив)
-
-< FIELD_COOP_TOMOMOABYSS >
-Бездна Томомо (Кооператив)
-
-< FIELD_COOP_WHITEWINTER >
-Белая Зима (Кооператив)
-
-< FIELD_COOP_BEGINNERTOWN >
-Город Новичков (Кооператив)
-
-< FIELD_COOP_CHRISTMASMIRACLE >
-Рождественское Чудо (Кооператив)
-
-< FIELD_COOP_DARKCITADEL >
-Тёмная Цитадель (Кооператив)
-
-< FIELD_COOP_FUNGUSCAVE >
-Грибная Пещера (Кооператив)
-
-< FIELD_COOP_PRACTICEFIELD >
-Тренировочное Поле (Кооператив)
-
-< FIELD_COOP_SEALEDARCHIVE >
-Запечатанный Архив (Кооператив)
-
-< FIELD_COOP_SWEETHEAVEN >
-Рай Сладостей (Кооператив)
-
-< FIELD_COOP_WHIRLPOOL >
-Водоворот (Кооператив)
-
 < FIELD_CIRCUS >
 Цирк
 
@@ -225,7 +120,131 @@
 Пустота
 
 < FIELD_PURES >
-Чистая Марка Ралли
+Сбор Штампиков в «Pures»
+
+< FIELD_SCHOOLYARD >
+Школьный Двор
+
+< FIELD_COOP_LAGOONFLIGHT >
+Полёт в Лагуне (Кооп.)
+
+< FIELD_COOP_SUNSET >
+Закат (Кооп.)
+
+< FIELD_COOP_POPPOABYSS >
+Бездна Поппо
+
+< FIELD_COOP_STARCIRCUIT >
+Звёздный Круг (Кооп.)
+
+< FIELD_COOP_SPACEWANDERER >
+Звёздный Странник (Кооп.)
+
+< FIELD_COOP_HIGHWAYHEIST >
+Ограбление на Шоссе (Кооп.)
+
+< FIELD_COOP_FARM >
+Ферма (Кооп.)
+
+< FIELD_COOP_SHIPYARD >
+Верфь (Кооп.)
+
+< FIELD_COOP_TRAININGPROGRAM >
+Учебная Программа (Кооп.)
+
+< FIELD_COOP_NIGHTFLIGHT >
+Ночной Вылет (Кооп.)
+
+< FIELD_COOP_VORTEX >
+Вихрь (Кооп.)
+
+< FIELD_COOP_CYBERSPACE >
+Киберпространство
+
+< FIELD_COOP_PLANETEARTH >
+Планета Земля (Кооп.)
+
+< FIELD_COOP_WITCHFOREST >
+Ведьмин Лес (Кооп.)
+
+< FIELD_COOP_WORKSHOP >
+Мастерская Санты (Кооп.)
+
+< FIELD_COOP_SAKURA >
+Разборка у Сакуры (Кооп.)
+
+< FIELD_COOP_PUDDINGCHASE >
+Погоня за Пудингом (Кооп.)
+
+< FIELD_COOP_TREASUREISLAND >
+Остров Сокровищ (Кооп.)
+
+< FIELD_COOP_TREASUREISLANDNIGHT >
+Остров Сокровищ (Кооп.) (Ночь)
+
+< FIELD_COOP_OCEANDIVE >
+Погружение в Океан (Кооп.)
+
+< FIELD_COOP_OVERTHESEA >
+Над Морем (Кооп.)
+
+< FIELD_COOP_CLOVER >
+Клевер (Кооп.)
+
+< FIELD_COOP_FROSTCAVE >
+Морозная Пещера (Кооп.)
+
+< FIELD_COOP_ICYHIDEOUT >
+Ледяное Убежище (Кооп.)
+
+< FIELD_COOP_STARSHIP >
+Космический Корабль (Кооп.)
+
+< FIELD_COOP_TOMOMOABYSS >
+Бездна Томомо (Кооп.)
+
+< FIELD_COOP_WHITEWINTER >
+Белая Зима (Кооп.)
+
+< FIELD_COOP_BEGINNERTOWN >
+Город Новичков (Кооп.)
+
+< FIELD_COOP_CHRISTMASMIRACLE >
+Рождественское Чудо (Кооп.)
+
+< FIELD_COOP_DARKCITADEL >
+Тёмная Цитадель (Кооп.)
+
+< FIELD_COOP_FUNGUSCAVE >
+Грибная Пещера (Кооп.)
+
+< FIELD_COOP_PRACTICEFIELD >
+Тренировочное Поле (Кооп.)
+
+< FIELD_COOP_SEALEDARCHIVE >
+Запечатанный Архив (Кооп.)
+
+< FIELD_COOP_SWEETHEAVEN >
+Рай Сладостей (Кооп.)
+
+< FIELD_COOP_WHIRLPOOL >
+Водоворот
+
+< FIELD_COOP_WARFARE >
+Война (Кооп.)
+
+< FIELD_COOP_SCARREDLAND >
+Растерзанные Земли (Кооп.)
+
+< FIELD_COOP_DESERT >
+Одинокая Железная Дорога (Кооп.)
+
+< FIELD_COOP_CIRCUS >
+Цирк (Кооп.)
+
+< FIELD_COOP_PURES >
+Сбор Штампиков в «Pures» (Кооп.)
+
 
 [EOF]
 

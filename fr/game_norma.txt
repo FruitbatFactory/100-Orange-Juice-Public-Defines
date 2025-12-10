@@ -1,0 +1,104 @@
+
+< GAME_NORMA_CLEAR >
+QUOTA ATTEINT !
+
+< GAME_NORMA_ACHIEVED >
+Quota Validé
+
+< GAME_NORMA_STARS >
+Trouver <normaamount> étoiles ou plus.
+
+< GAME_NORMA_STARS_REV >
+Trouver <normaamount> étoiles ou moins.
+
+< GAME_NORMA_STARS_10 >
+Trouver 10 étoiles ou plus.
+
+< GAME_NORMA_STARS_30 >
+Trouver 30 étoiles ou plus.
+
+< GAME_NORMA_STARS_70 >
+Trouver 70 étoiles ou plus.
+
+< GAME_NORMA_STARS_120 >
+Trouver 120 étoiles ou plus.
+
+< GAME_NORMA_STARS_200 >
+Trouver 200 étoiles ou plus.
+
+< GAME_NORMA_STARS_10_REV >
+Trouver 10 étoiles ou moins.
+
+< GAME_NORMA_STARS_30_REV >
+Trouver 30 étoiles ou moins.
+
+< GAME_NORMA_STARS_70_REV >
+Trouver 70 étoiles ou moins.
+
+< GAME_NORMA_STARS_120_REV >
+Trouver 120 étoiles ou moins.
+
+< GAME_NORMA_STARS_200_REV >
+Trouver 200 étoiles ou moins.
+
+< GAME_NORMA_WINS_SINGLE >
+Vaincre un ennemi.
+
+< GAME_NORMA_WINS_MULTIPLE >
+Obtenir <normaamount> Victoires ou plus.
+
+< GAME_NORMA_WINS_MULTIPLE_REV >
+Arriver à <normaamount> Victoires ou moins.
+
+< GAME_NORMA_WINS_1 >
+Vaincre un ennemi.
+
+< GAME_NORMA_WINS_2 >
+Obtenir 2 Victoires ou plus.
+
+< GAME_NORMA_WINS_5 >
+Obtenir 5 Victoires ou plus.
+
+< GAME_NORMA_WINS_9 >
+Obtenir 9 Victoires ou plus.
+
+< GAME_NORMA_WINS_14 >
+Obtenir 14 Victoires ou plus.
+
+< GAME_NORMA_WINS_1_REV >
+Vaincre un ennemi.
+
+< GAME_NORMA_WINS_2_REV >
+Arriver à 2 Victoires ou moins.
+
+< GAME_NORMA_WINS_5_REV >
+Arriver à 5 Victoires ou moins.
+
+< GAME_NORMA_WINS_9_REV >
+Arriver à 9 Victoires ou moins.
+
+< GAME_NORMA_WINS_14_REV >
+Arriver à 14 Victoires ou moins.
+
+< GAME_NORMA_FAME >
+Atteindre <normaamount> en Gloire.
+
+< GAME_NORMA_SELECT >
+Prochain Quota
+
+< GAME_NORMA_ALREADYMET >
+Taux déjà atteint !
+
+< GAME_NORMA_STARS_LEFT >
+Encore %d Étoiles !
+
+< GAME_NORMA_WINS_LEFT >
+Encore %d Victoires !
+
+< GAME_NORMA_STARS_BUTTONDISPLAY >
+%d\nEtoiles
+
+< GAME_NORMA_WINS_BUTTONDISPLAY >
+%d\nVictoires
+
+[EOF]

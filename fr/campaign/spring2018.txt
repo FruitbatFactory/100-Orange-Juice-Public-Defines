@@ -1,0 +1,189 @@
+<0000> C'est l'histoire d'un des innombrables univers parallèles à 100% Orange Juice dont l'existence même est incertaine.
+<0001> Moi c'est Marc ! Je suis une ado têtue de profession, et je viens d'arriver à l'Académie Tempura !
+<0002> J'ai pas encore l'habitude de cette nouvelle vie, mais je me suis fait de nouveaux amis !
+<0003> Par contre, il fait super chaud, aujourd'hui !
+<0004> Marc, Marc.
+<0005> Oh, salut, Sora.
+<0006> Bonjour. Tout va bien ? Tu avais l'air dans les nuages...
+<0007> J'y peux rien, il fait chaud, aujourd'hui...
+<0008> Je comprends. C'est une journée vraiment agréable. Je n'arrivais même pas à me lever, ce matin.
+<0009> T'as réussi, pourtant.
+<0010> Hihihi... Vraiment, le temps d'aujourd'hui est magnifique.
+<0011> Tu l'as dit... On devrait sécher les cours et s'allonger au soleil !
+<0012> Oh, tu m'as fait sursauter. Je ne t'ai même pas vu arriver, Syura...
+<0013> Salut, Sora-Sora ! Salut, Marcotte ! *baîlle*
+<0014> Syura... T'as vraiment une tête de zombie.
+<0015> Tes yeux sont cadavériques. Tu as encore passé la nuit sur ton PC ?
+<0016> Comment OSEZ-VOUS ?! C'est pas des manières de parler comme ça d'une fille !
+<0017> Il y avait une MAJ sur le meilleur jeu du monde hier soir ! Et comme c'est surcôté de dormir, j'ai pas arrêté d'y jouer jusqu'à, euh... maintenant ?
+<0018> Jusqu'à maintenant...?!
+<0019> Tu n'as pas dormi de la nuit...?
+<0020> Nan... Mais je suis dans le club de jeu. Tout ça, ça fait partie des activités ! Rien de plus sain pour les étudiants !
+<0021> Oui, oui, bien sûr. Rien de plus sain.
+<0022> Tu devrais ménager ta santé, des fois.
+<0023> Roooh, ça vaaa. J'ai déjà connu bien pire que ça, vous savez...
+<0024> Puis c'est pas le sujet, oh !
+<0025> Pft ! Toujours à la traîne, vous trois !
+<0026> Picon !
+<0027> Hé, c'est MONSIEUR Picon pour toi !
+<0028> ..."Monsieur Picon" ?
+<0029> J'ai un an de plus que toi, je te signale ! ...Mais, vraiment, par contre. C'est pas le moment de traîner, là.
+<0030> Hein ?
+<0031> Il a raison ! Regardez l'heure ! On va être en retard !
+<0032> Comment ? Je pensais avoir beaucoup d'avance.
+<0033> Il est déjà si tard...?!
+<0034> Si vous étiez pas restées là à rien faire pendant des heures, aussi !
+<0035> Et pourquoi pas ? Nous profitions de ce soleil de printemps.
+<0036> C'est rare qu'il fasse aussi beau, je voulais en profiter...
+<0037> Vous pouvez vous en prendre qu'à vous-mêmes ! Allez, moi je vais y aller.
+<0038> Je n'ai pas envie d'être en retard non plus. Je vais voler jusqu'à l'école.
+<0039> Hé, tu peux me porter ?
+<0040> Hein, Sora peut nous emmener dans les airs ? Je peux venir ?
+<0041> Vous voulez que je vous porte...? Bon, vu l'heure, je peux pas vous refuser ça.
+<0042> Hein ?! C'est de la triche !
+<0043> Oh. Tu veux venir, toi aussi, "Monsieur Picon" ?
+<0044> Ah, euh, si tu le proposes...
+<0045> *juge*
+<0046> *juge*
+<0047> (Si je les accompagne, elles vont se moquer de moi... c'est pas facile d'être sombre et mystérieux...)
+<0048> Ç-ça ira, merci ! Je peux encore arriver à l'heure...!
+<0049> Je vois. Bon, accrochez-vous bien, ça risque d'aller très vite.
+<0050> Youpi !
+<0051> Merci, Sora...
+<0052> C'est parti...!
+<0053> *Zooooooom !*
+<0054> Ouaahh !
+<0055> T-tu vas super vite ! Je vois déjà l'école...
+<0056> J'espère qu'on va arriver à temps...!!
+<0057> Mais oui, on est large ! On va... Euh, il y a quelqu'un à l'entrée...
+<0058> C'est Monsieur NoName...!!
+<0059> Une poignée d'écolières me fonce dessus depuis les airs...
+<0060> Hé, écartez-vous, vite !
+<0061> Certainement pas. Je vais vous attraper !
+<0062> Hein ? C'est dégoûtant ! E-et, euh, vous allez vous faire mal !
+<0063> *BOUM !!*
+<0064> *tousse* ! P-pardon, vous allez bien ?
+<0065> Je sais pas comment, mais oui... Marc, ça va ?
+<0066> Tout va bien, Marc?
+<0067> Ç-ça va... Mais...
+<0068> Qu'est-ce qu'on fait de... ça ?
+<0069> Oh, miséricorde...
+<0070> *drrriiiiing !*
+<0071> Houff, pouff... Non... j'arrive... trop tard...!
+<0072> ...
+<0073> Hein ?
+<0074> Pourquoi vous êtes encore là ? Vous avez encore fait une bêtise ?
+<0075> P-Picon !! Qu'est-ce qu'on va faire ?!
+<0076> Picon... R-regarde.
+<0077> *silence accablant*
+<0078> OuaaAH !! C'est... la tête de Monsieur NoName ?! Vous avez vraiment...?
+<0079> C'est ma faute. Je n'ai pas pu m'arrêter à temps.
+<0080> Non ! Si on était pas venues avec toi, ça ne serait pas arrivé.
+<0081> On l'a prévenu, pourtant ! Il a même pas voulu esquiver, alors que c'était évident que...
+<0082> *silence intimidant*
+<0083> C'était inévitable, en fin de compte ! Bahaha !
+<0084> Comment ça, "bahaha" ? C'est quand même grave ! Vous comptez faire quoi, maintenant...?
+<0085> Vous êtes encore plus cinglées que ce que je pensais.
+<0086> Kyaaaaah ! La tête parle !!
+<0087> Je suis un robot.
+<0088> Ah oui, c'est vrai.
+<0089> Si j'étais humain, la situation serait d'autant plus ridicule.
+<0090> On est désolées.
+<0091> Mais vous avez dit qu'on était cinglées ! De quel droit ?!
+<0092> Prenez du recul, voulez-vous ? D'ailleurs, vous devriez déjà être en cours, petites cinglées.
+<0093> M-mais, vous allez bien ?
+<0094> Bien sûr que non ! Je vais devoir retrouver mon corps, où qu'il soit à présent ! Et vous passerez à mon bureau après les cours !
+<0095> D'accord...
+<0096> Ah, les jeunes, de nos jours...
+<0097> Tu viens avec elles.
+<0098> Quoi...? Non !
+<0099> (Après les cours...)
+<0100> *soupir* J'ai passé toute la journée à penser à ce matin, impossible de me concentrer.
+<0101> Idem.
+<0102> *baîlle*... Hein, quoi ? Les cours sont déjà finis ?
+<0103> Tu n'as fait que dormir de la journée...
+<0104> Oui. C'est pour ça que je me sens soulagée... Je plaisante, on doit encore aller voir Monsieur NoName.
+<0105> J'ai pas envie...
+<0106> J'espère qu'il a retrouvé son corps...
+<0107> .........
+<0108> Bonjour, Monsieur NoName nous a convoquées.
+<0109> Bonjoouur.
+<0110> Bonjour.
+<0111> Vous arrivez en retard.
+<0112> Monsieur NoName, on est vraiment désolées pour... hein ?
+<0113> Vous avez toujours pas retrouvé votre corps ?!
+<0114> ...Introuvable.
+<0115> Heiin !?
+<0116> Pour être exact, quelqu'un l'a volé...
+<0117> Comment ? Qui volerait un truc pareil ?
+<0118> Idiote ! Mon corps est parfait, la pointe de la technologie. N'importe qui tuerait pour poser ses mains dessus.
+<0119> Pas moi.
+<0120> Moi non plus...
+<0121> Tout ça, c'est de votre faute ! Aidez-moi, au lieu de vous justifier !
+<0122> Et si on remplaçait votre corps par le vieil ordinateur de ma promo ?
+<0123> Ce serait parfaitement grotesque ! Je veux que vous m'aidiez à retrouver toutes les parties de mon corps.
+<0124> D'accord, on va le faire... Comment ça, vos parties du corps?
+<0125> Matez un peu ça...
+<0126> Picon ! Est-ce que c'est...
+<0127> Un des bras de Monsieur NoName ?
+<0128> Comme vous pouvez le constater, les parties de mon corps ont été volées par ces maudits rats.
+<0129> Vous en avez déjà vu, n'est-ce pas ? Toujours à courir partout et à crier "poppo, poppo".
+<0130> Les Miké Maou-...
+<0131> Non.
+<0132> Ce sont des créatures sournoises et chapardeuses. Cette fois, c'est le corps de Monsieur NoName qu'elles ont volé.
+<0133> Autrement dit, dépêchez-vous de retrouver ces rats et de me rendre mon corps.
+<0134> L'école en est infestée. Vous n'aurez aucun mal à en trouver.
+<0135> Si vous oubliez la moindre partie de mon corps, je vous fais redoubler, c'est promis.
+<0136> Hein !?
+<0137> Quoi !?
+<0138> On vient tout juste d'arriver, et on va déjà redoubler...!?
+<0139> Si vous voulez progresser, dépêchez-vous de trouver mon corps... Vraiment, je compte sur vous.
+<0140> C'est vrai. On a causé ce problème, c'est à nous de le réparer !
+<0141> Je suis d'accord. Je vais faire de mon mieux.
+<0142> Si on s'y met ensemble, ça va être fastoche ! On y va !
+<0143> Monsieur NoName, on a trouvé toutes les parties !
+<0144> Vraiment ? Merci ! Dans ce cas, assemblez-les pour moi, je vous prie.
+<0145> Ouaip ! Je m'en occupe !
+<0146> .........
+<0147> Me revoilà.
+<0148> Ravie que ça fonctionne.
+<0149> On s'est vraiment cassé la tête.
+<0150> Pfiou... Je pensais ne jamais retrouver mon corps. Vous avez retenu la leçon ? N'allez pas à l'école en volant.
+<0151> Toutes mes excuses...
+<0152> Vous vouliez nous attraper, aussi ! Vous étiez même là à crier "Tiens, une poignée d'écolières" !
+<0153> ...Si j'avais su combien vous êtes cinglées, je me serais écarté.
+<0154> Vous êtes nul !
+<0155> Enfin, je suis ravie que nous ayions retrouvé tous les morceaux.
+<0156> Pareil... Je promets que je serai en avance à partir de demain.
+<0157> .........
+<0158> Encore une belle journée ensoleillée.
+<0159> Tout à fait. Mais ne restons pas là trop longtemps, les cours nous attendent...
+<0160> Oui, on ferait mieux de pas faire de bêtises.
+<0161> Le soleil est vraiment brillant. Trop brillant pour quand on fait nuit blanche...
+<0162> Syura, me dis pas que tu as recommencé.
+<0163> C'est pour le club !
+<0164> T'es vraiment irrécupérable.
+<0165> Pft ! Toujours à la traîne, vous trois !
+<0166> Picon !
+<0167> Hé, c'est "Monsieur" Picon, j'ai dit !
+<0168> Et avec ce bolide... Tu peux m'appeler Blue Crow.
+<0169> Bonjour, Monsieur Picon ! Tu fais de la moto, maintenant ?
+<0170> Héhéhé... Je te présente Blue Crow, mon fidèle destrier. Il est bien trop rapide pour arriver en retard.
+<0171> Pas mal.
+<0172> Hahaha, tu l'as dit. Allez, moi j'y vais. On se voit à l'école !
+<0173> O-ouah ! Picon, tu roules beaucoup trop vite !
+<0174> Appelle-moi Blue Crow !
+<0175> Mon dieu.
+<0176> Un problème, Syura ?
+<0177> Je sais déjà ce qu'il va se passer.
+<0178> Il ferait mieux de ralentir. Sinon, il va...
+<0179> Hein ?! Écartez-vous, Monsieur NoName !
+<0180> Nooon ! Je te prenais pour une fille !
+<0181> Guaaaaah !!!
+<0182> Oh, non, le professeur est en morceaux.
+<0183> Poppoo.
+<0184> Oh.
+<0185> Les voilà...
+<0186> Si ça continue, il va encore perdre tout son corps...
+<0187> J'en peux déjà plus, j'ai besoin de sommeil...
+<0188> Dépêchons-nous de ramasser les morceaux avant qu'elles partent avec ! Sora, Syura, on y va !

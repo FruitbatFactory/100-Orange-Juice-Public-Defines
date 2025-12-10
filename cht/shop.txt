@@ -45,7 +45,7 @@
 寵物
 
 < SHOP_LABEL_ARCADE >
-街機
+街機廳
 
 < SHOP_LABEL_DLC >
 DLC

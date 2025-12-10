@@ -1,0 +1,65 @@
+// CampaignScenario_CodexStory_Family
+// (poppomama)
+<0000> Ravie de vous voir, vous deux. Hm ?
+// (poppomama)
+<0001> Lulu, pourquoi po-rtes-tu Ellie sur ton dos ? Elle s'est fait mal ?
+// (elliehyper)
+<0002> Ron-pchi... zzzz...
+// (lulu)
+<0003> Argh... Non. On se promenait en ville, puis elle a commencé à faire des caprices. "Hé, ce serait super épique si je pouvais chevaucher un dragon !"
+// (lulu)
+<0004> Lulu s'est fait avoir, elle l'a laissée monter sur son dos, une seconde...
+// (poppomama)
+<0005> Et après, elle s'est endormie.
+// (lulu)
+<0006> Comme un bébé ! Lulu a tout essayé pour la réveiller... Rien à faire, elle n'arrête pas de ronfler.
+// (poppomama)
+<0007> Hihihi. Elle doit vraiment se sentir po-tégée avec toi.
+// (lulu)
+<0008> Comment c'est possible ? Lulu fait du mal à tout le monde...
+// (poppomama)
+<0009> Poh, qu'est-ce que tu me chantes ?\nAllons, dis-moi ce qui te tracasse.
+// (lulu)
+<0010> Lulu... Lulu a peur. Elle voulait pas être la fille du diable, ni avoir une part d'ombre, et tout...
+// (lulu)
+<0011> Lulu a peur d'elle-même. Elle voudrait devenir une personne normale, elle aussi...
+// (poppomama)
+<0012> Oh, mais c'est parfaitement normal, voyons ! Maman est tout comme toi, au fond ♥
+// (lulu)
+<0013> P-pardon ?
+// (poppomama)
+<0014> En fait, Maman... et Papa aussi... C'est Tomomo qui nous a créés, comme Mio t'a créée toi.
+// (lulu)
+<0015> A-ah bon ? Lulu... et vous... on est vraiment pareil ?
+// (poppomama)
+<0016> Mais oui, trésor. Même si je sors de l'imaginaire appauvri d'une femme qui approche la trentaine...
+// (poppomama)
+<0017> J'ai vécu tant d'aventures. Je suis même tombée amoureuse, et maintenant, j'ai une fille formidable.
+// (poppomama)
+<0018> Je me sens enfin épanouie. Et je suis certaine que tu peux y arriver, toi aussi.
+// (lulu)
+<0019> ...Merci. Merci beaucoup, Lulu est déjà un peu soulagée.
+// (poppomama)
+<0020> C'est moi qui te remercie. Merci d'être si proche d'Ellie et de la protéger.
+// (lulu)
+<0021> Lulu va continuer à faire de son mieux !
+// (poppomama)
+<0022> C'est bien ♥\nEt si tu te sens seule, je serais ravie de t'accueillir à la maison. Comme ma deuxième fille.
+// (lulu)
+<0023> Ouawawa ! L-Lulu... Lulu n'a pas le courage de penser à ça...
+// (poppomama)
+<0024> Réfléchis-y. Mio n'a vraiment pas été correcte. Tu mérites une maman qui prendrait soin de toi.
+// (lulu)
+<0025> Lulu n'a jamais été aussi gênée de toute sa vie...
+// (lulu)
+<0026> Oh ! Euh, Lulu peut poser Ellie, s'il vous plaît ? Elle est encore en train de baver, et Lulu a mal au dos...
+// (poppomama)
+<0027> Le mot magique, d'abord.
+// (lulu)
+<0028> "S'il vous plaît" ? Lulu l'a déjà dit, non ?
+// (poppomama)
+<0029> Mais non, voyons. C'est "s'il te plaît, Maman" ♥
+// (elliehyper)
+<0030> Zzz... Lulu... demain... on retourne à l'aventure...
+// (lulu)
+<0031> Aaah ! Lulu commence à croire qu'elle est vraiment une dragonne malchanceuse...

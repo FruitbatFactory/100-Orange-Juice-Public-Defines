@@ -1,0 +1,161 @@
+<0000> Hop.
+<0001> Pfiou.
+<0002> Hoh.
+<0003> Yah !
+<0004> Je dois attaquer ?
+<0005> Qu'est-ce que c'est ?
+<0006> Ça commence à m'amuser !
+<0007> Hihihihi.
+<0008> Je me sens d'humeur méchante.
+<0009> Je pose un piège.
+<0010> Quelqu'un va bien l'activer tôt ou tard.
+<0011> Hihi, devinez ce que j'ai posé.
+<0012> Une carte Combat ?
+<0013> C'est le moment pour une carte.
+<0014> Je compte sur toi, petite carte.
+<0015> J'ai pas du tout envie de perdre.
+<0016> Hihi, hahaha !
+<0017> C'était horrible. J'espère que ça m'arrivera plus.
+<0018> Qu'est-ce qu'il s'est passé, au juste ?
+<0019> Hein ? Je dormais ?
+<0020> À moi de briller, maintenant.
+<0021> Ça commence à m'énerver...
+<0022> Rah !
+<0023> J'ai l'impression que tout rate avec moi.
+<0024> Pourquoi ça se passe toujours comme ça ?
+<0025> Eey.
+<0026> Eeeey !
+<0027> Bam boum !
+<0028> Alors ?
+<0029> Hé, oh.
+<0030> T'as un problème ?
+<0031> Laisse-moi tranquille !
+<0032> Argh.
+<0033> Toujours savoir garder son calme.
+<0034> Oh, c'est exactement ce que je voulais.
+<0035> Je devrais me ménager un peu plus.
+<0036> C'est important de garder la forme.
+<0037> Heeeein ?
+<0038> Quoi, quoi ?
+<0039> C'est quoi, ça ?
+<0040> Qui m'envole ?
+<0041> J'en peux plus, je me pose.
+<0042> Je veux plus jamais me relever.
+<0043> Bonne nuit.
+<0044> Pff.
+<0045> Je me sens à fond !
+<0046> Maintenant, je me retiens plus.
+<0047> Hihihi, à moi de jouer.
+<0048> T'es dans la lune ou quoi ?
+<0049> Hihi, on va jouer ensemble.
+<0050> Hein, quoi !?
+<0051> T'as l'air à fond, toi.
+<0052> Attention, je suis pas une cible facile.
+<0053> Yaah !
+<0054> Goûte ça pour voir !
+<0055> Prends ça !
+<0056> Attaque !
+<0057> Aïe !
+<0058> Mmmh !
+<0059> Espèce de...
+<0060> Hein ?
+<0061> T'es vraiment un monstre.
+<0062> Tu veux me faire pleurer ou quoi ?
+<0063> Ordure.
+<0064> Je te hais !
+<0065> Je l'ai échappé belle.
+<0066> Ouah !
+<0067> Ouah, c'était risqué.
+<0068> Pfiou, j'ai eu peur.
+<0069> J'ai vraiment gagné, alors ?
+<0070> Tiens, ça a marché, finalement.
+<0071> Même moi, j'y croyais pas.
+<0072> C'était vraiment amusant.
+<0073> Sale brute...
+<0074> C'est méchant...
+<0075> Regarde comment je suis, maintenant.
+<0076> Comment t'as pu me faire ça ?
+<0077> J'ai gagné des points !
+<0078> Hé, je m'en sors pas mal !
+<0079> Hihi, ça devient amusant.
+<0080> Hé, je joue bien, non ?
+<0081> Elles sont méchantes, ces cases.
+<0082> Hein ? C'est vraiment autorisé, ça ?
+<0083> Hé, oh !
+<0084> Ça me déprime.
+<0085> C'est vraiment pas sympa.
+<0086> Oh, c'est mesquin.
+<0087> C'est vraiment un piège cruel.
+<0088> Ça m'énerve.
+<0089> C'est un boss ?
+<0090> T'approche pas, tu fais peur.
+<0091> Hii, j'ai peur !
+<0092> Hé, j'ai rien à voir avec toi !
+<0093> Je dois viser le plus gros score, c'est bien ça ?
+<0094> Je préfère quand c'est simple.
+<0095> Le but du jeu, c'est de trouver des étoiles ?
+<0096> Hihihi, ça va être amusant.
+<0097> Mais j'ai horreur du sport, moi.
+<0098> Tu sais, je suis vraiment pas douée là-dedans, moi.
+<0099> Hmm, je m'en sens pas vraiment capable.
+<0100> Je crois que c'est une mauvaise idée.
+<0101> Tu as besoin de moi ? Je veux bien jouer, alors.
+<0102> Ça tombe bien, je m'ennuyais un peu.
+<0103> Bonjour, je m'appelle Reika.
+<0104> Tu peux rester avec moi, juste un peu ?
+<0105> Hihihi.
+<0106> Et ça commence !
+<0107> Je joue toujours pour gagner.
+<0108> Je dois jouer comment, moi ?
+<0109> Oh, j'ai gagné.
+<0110> J'ai réussi ! Youpi !
+<0111> Hihi, ahahaha !
+<0112> Tu as vu comme je suis forte ?
+<0113> Tu as eu ce que tu voulais ?
+<0114> À mon avis, ça t'irait très bien.
+<0115> Hihi, c'est amusant.
+<0116> C'est ta passion de collectionner ces machins ?
+<0117> Je fatigue un peu.
+<0118> Bonne chance.
+<0119> Je vais me reposer un peu.
+<0120> À toi de jouer.
+<0121> D'accord !
+<0122> Ohh.
+<0123> Pas de problème !
+<0124> Non.
+<0125> C'est décevant...
+<0126> Quelle chance incroyable !
+<0127> Hmpf.
+<0128> On peut y aller !
+<0129> Je suis prête à y aller.
+<0130> Bonne chance !
+<0131> Bonjour.
+<0132> Hmm...
+<0133> Bien joué !
+<0134> C'est incroyable !
+<0135> Oh, allez !
+<0136> Devinez ce que c'est.
+<0137> C'est super excitant !
+<0138> C'est trop drôle !
+<0139> Attention, je joue cette carte !
+<0140> Merci.
+<0141> On dirait moi, c'est dégoûtant !
+<0142> T'es ma sosie ou quoi ?
+<0143> Cette fille... on a beau se ressembler, elle me terrifie...
+<0144> Nos visages sont identiques...\nAlors pourquoi elle est aussi violente ?
+<0145> J'ai pas envie de faire ça avec elle...
+<0146> C'est vraiment possible de communiquer avec elle ?
+<0147> Comment ça se fait qu'on ait le même visage ?
+<0148> Ahahaha !
+<0149> Oh, un petit chat. Trop mignon.
+<0150> Je peux te caresser ?
+<0151> Viens, j'ai des croquettes pour toi.
+<0152> Viens voir maman.
+<0153> Une petite bête ?
+<0154> Je prendrai soin de toi !
+<0155> Hii, t'es vraiment trop mignonne.
+<0156> Je devrais t'emmener à la maison.
+<0157> C'est pour moi !
+<0158> Hihihihihi.
+<0159> Bien, ne change rien.
+<0160> C'est sympa, des fois, de s'enrichir sans rien faire.

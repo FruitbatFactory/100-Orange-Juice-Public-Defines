@@ -1,0 +1,105 @@
+<0000> (*grmmbl*...)
+<0001> Mon estomac... il loge une immense pénombre. La famine vient prendre mon âme...
+<0002> Hmm ?
+<0003> Qu'est-ce qui vous tracasse, jeune demoiselle ?
+<0004> Mon estomac loge la pénombre... Je ne suis même plus en état d'invoquer ma magie...
+<0005> Hm, donc... vous êtes si affamée que vous n'avez plus d'énergie...
+<0006> Voilà la triste réalité...
+<0007> Pauvre petite. Si les souvenirs de Répa sont exacts, il reste encore quelques bonbons dans sa poche.
+<0008> Hm-mh... Le voilà.
+<0009> Ce n'est qu'un petit bonbon...\nPuisse-t-il vous revigorer.
+<0010> Un ange salvateur descend jusque dans les limbes pour empêcher ce triste sort... Je promets de savourer ce divin présent.
+<0011> (*cronch cronch cronch*)
+<0012> Vous l'avez mangé comme un festin. Répa se sent triste pour vous.
+<0013> La pénombre de mon estomac vient de s'estomper...
+<0014> (*grmmbl*...)
+<0015> Elle est de retour...
+<0016> Répa se doutait qu'un bonbon ne serait pas suffisant.
+<0017> La flamme de ma vie est destinée à s'éteindre lentement...
+<0018> Vous avez l'air désespérée.
+<0019> Répa a décidé de vous aider... Elle aimerait pouvoir vous soigner, jusqu'à ce que vous alliez mieux...
+<0020> Si seulement il existait un évènement, n'importe quoi, un moyen de récolter beaucoup de bonbons... Mais ce serait bien trop simple.
+<0021> Hé, Krila, tu imites un zombie ?
+<0022> Mais c'est...
+<0023> Hmm, Répa a l'impression de connaître cette dame.
+<0024> C'est Halloween, aujourd'hui. Regarde mon costume, je me suis déguisée en infirmière pleine de sang !
+<0025> Je ne vois aucune différence...
+<0026> Halloween ? Qu'est-ce que c'est ?
+<0027> Kiriko, offre-nous de tes sucreries, ou les ténèbres s'abattront sur toi...
+<0028> Pardon ? Ah, tu veux dire 'des bonbons ou un sort' ?
+<0029> Mhm.
+<0030> Quand est-ce que tu parleras comme une personne normale ? Enfin, peu importe.
+<0031> Tiens. J'ai fait ces cookies moi-même.
+<0032> Bonté divine...!
+<0033> Tiens, tu peux en avoir, toi aussi.
+<0034> Elle a même donné des cookies à Répa... Que se passe-t-il ?
+<0035> *cronch cronch*... Halloween est un évènement où l'on partage des sucreries.
+<0036> Il n'y a qu'une seule condition, utiliser la formule "Des bonbons ou un sort".
+<0037> C'était aussi simple que ça, finalement...
+<0038> En tout cas, ma vie est sauve...
+<0039> Héhéhé.
+<0040> Je sens la force des ténèbres jaillir à flot dans tout mon corps...
+<0041> *cronch cronch*
+<0042> Ce ne sont pas des cookies ordinaires. Répa se sent pleine d'énergie, elle aussi.
+<0043> Je les ai fait moi-même - évidemment que ce ne sont pas des cookies ordinaires.
+<0044> Ce sont d'authentiques Kirikookies. Ils donnent un boost d'énergie intense dès la première bouchée.
+<0045> Les pouvoirs démoniaques sont sur le point de se déchaîner... Fuhuhu, je me sens invincible.
+<0046> Répa en pense tout pareil.
+<0047> Je vais user de cette abondance d'énergie pour ne faire qu'un ave-...
+<0048> (*grmmblmblmbl*...)
+<0049> Que- ?
+<0050> Pourquoi votre ventre gargouille si fort, alors que vous venez de manger des cookies...?
+<0051> (*grmmbl*...)
+<0052> Hmm ? Répa se met à gargouiller, elle aussi.
+<0053> Héhéhé !
+<0054> Et quel est ce rire malicieux...?
+<0055> Kiriko... qu'est-ce que tu nous as fait ?
+<0056> Les Kirikookies donnent plein d'énergie... mais en échange, ils brûlent énormément de calories.
+<0057> Autrement dit, tu peux te déplacer cinq fois plus vite, et tu brûleras dix fois plus de calories en échange.
+<0058> C'est vraiment un gâchis d'énergie !
+<0059> Kiriko, tu nous as piégées...!
+<0060> J'offre des bonbons ET je lance des sorts. C'est comme ça que je fête Halloween.
+<0061> Toi et ta copine, vous devriez vous dépêcher de piquer des bonbons avant qu'il soit trop tard...
+<0062> Je n'ai vraisemblablement plus le choix. Ange déchu ?
+<0063> Vous parlez à Répa ?
+<0064> Mhm. Je me dois de proposer une alliance entre l'ombre et la lumière.
+<0065> Hum... vous voulez que Répa vienne avec vous.
+<0066> Deux pauvres demoiselles tombées dans un piège sordide. Notre seule chance de survivre est de partir à la recherche d'autres bonbons...
+<0067> Donc vous voulez récolter le plus de bonbons possibles pour le goûter ?
+<0068> Mhm.
+<0069> Entendu. Répa a elle-même besoin de sauver son estomac. Elle vous aidera comme elle le peut.
+<0070> (tends la main)
+<0071> (serre la main fermement)
+<0072> Afin de récupérer autant de bonbons que nécessaire...
+<0073> Nous allons jeter des sorts...!
+<0074> Une montagne de bonbons. On dirait un rêve.
+<0075> Répa a fait du thé avec ses meilleures feuilles de thé. Asseyons-nous et dégustons.
+<0076> Vous êtes admirable, ange déchu... Je veux dire ange salvateur.
+<0077> Je commence. *cronch cronch*
+<0078> C'est bon comme tout le bonheur du monde. Ces bonbons chassent le fléau de mon esprit et ne laissent qu'une douce abnégation.
+<0079> T-tu veux dire que c'est bon ? ...Répa va goûter ce cupcake.
+<0080> *cronch* *glou*
+<0081> C-ce cupcake... Il accompagne très bien le thé.
+<0082> Ange salvateur, ouvrez la bouche.
+<0083> D'accord... Aaaaaa.
+<0084> Savourez les bonbons qui ont purifié mon cœur.
+<0085> Hmm... Ils sont vraiment bons...!
+<0086> Hihihi.
+<0087> Dans ce cas, Répa va faire la même chose. Ouvre la bouche.
+<0088> Aaaa... *cronch cronch*...
+<0089> Qu'en penses-tu ? N'est-ce pas merveilleux ?
+<0090> C'est... une bénédiction divine. C'est si délicieux que mon palais pourrait pousser des ailes et m'envoler.
+<0091> Hihi, en effet.
+<0092> Il nous en reste tellement.
+<0093> En temps normal, manger à l'excès est mauvais pour le corps. Mais ce n'est pas le cas pour nous.
+<0094> Nous pourrions manger autant que possible sans prendre de poids. Répa est presque ravie d'avoir mangé ces cookies.
+<0095> Héhé. Le sort de Kiriko était bienfaiteur. Non, nous avons transformé son méfait en bienfait.
+<0096> Répa aime cette idée.
+<0097> *cronch cronch*...
+<0098> (Est-ce que je leur dis que mes cookies ne font plus effet depuis longtemps ? ...Non.)
+<0099> Ange salvateur, pourriez-vous remplir ma tasse ?
+<0100> Appelle-moi Répa.\nTiens, Krila.
+<0101> Je ne saurais exprimer ma joie. Merci, Répa.
+<0102> Hihihi.
+<0103> Hihihi.
+<0104> Héhéhé.

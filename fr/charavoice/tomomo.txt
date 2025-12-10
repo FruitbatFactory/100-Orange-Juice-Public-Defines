@@ -1,0 +1,168 @@
+<0000> Hop-là !
+<0001> Ayaaa !
+<0002> Nuooh !
+<0003> Ce truc est vraiment lourd....
+<0004> Cette carte-là !
+<0005> C'est parti !
+<0006> Ushishi...
+<0007> Magical !
+<0008> Magical Traaap !...
+<0009> J'pose mon p'tit piège !
+<0010> Uhihihihi !
+<0011> On va voir à quoi ça peut servir.
+<0012> Je vais t'écraser !
+<0013> Tu vas redouter mes pouvoirs !
+<0014> Magical Power !
+<0015> Tu dis que j'ai l'air d'une gamine ? Merci !
+<0016> Sombrez dans le désespoir !
+<0017> Me revoilà !
+<0018> Vous allez goûter à ma Magical "Vengeance" !
+<0019> Je suis loin d'être vaincue !
+<0020> Nuooooh ! Je suis de retour !
+<0021> Pas possible !
+<0022> Bon sang !
+<0023> Bordel !
+<0024> Quoi, sérieusement ?!
+<0025> Magical Attack !
+<0026> Ça va faire mal !
+<0027> Uryaryaah !
+<0028> Yaah !
+<0029> Aïe !
+<0030> Hé, ça pique !
+<0031> Arrête ça tout de suite !
+<0032> Ugyaah !
+<0033> Magical Heal !
+<0034> Ahh, je me sens renaître !
+<0035> Je me sens pleine de magie.
+<0036> Je peux encore y arriver !
+<0037> Magical Warp !
+<0038> Portail !
+<0039> Téléportation !
+<0040> Je m'envole !
+<0041> Guaaaah...
+<0042> Pouaaah...
+<0043> Gnyaaah!!
+<0044> Ajapaaah...
+<0045> Je t'offre le baptème du KO !
+<0046> Je t'emmène au royaume de la douleur !
+<0047> Tu ferais mieux d'abandonner avant de chialer !
+<0048> Magical Bastonnade !
+<0049> Hein, tu veux t'battre ? Tu veux t'battre ?
+<0050> J'vais te montrer l'écrasant écart de force entre nous deux !
+<0051> Je relève ton défi !
+<0052> Hein ? T'as perdu la tête ou quoi ?
+<0053> Wataahh !
+<0054> Achouuu !
+<0055> Diyaaaah !
+<0056> Uriririiii !
+<0057> Gyaaah !
+<0058> Hé, ça fait mal !
+<0059> Argh... pas mauvais !
+<0060> Gobah !
+<0061> Ugyaaaaah !
+<0062> Ça fait super mal !!
+<0063> Hé, calme-toi un peu, tu veux !?
+<0064> Guh !
+<0065> En toute beauté.
+<0066> Tout doucement.
+<0067> Je danse comme un papillon.
+<0068> Vise mieux la prochaine fois !
+<0069> Ya-houuu !
+<0070> Tu pensais vraiment pouvoir gagner ?
+<0071> J'ai gagné !
+<0072> Magical Victory !
+<0073> J-j-j-j-j-j'ai perdu !
+<0074> Kyuuu...
+<0075> J'aurai... ma vengeance...
+<0076> Nyaah...
+<0077> Des étoiles !
+<0078> C'est tout ? Encore !
+<0079> Je prends tout !
+<0080> Hm, parfait !
+<0081> Noooon, pas mon salaire !!
+<0082> AAAAAAARGH !
+<0083> Non !!
+<0084> Attendez-moi, les étoiiiles !
+<0085> Argh ! Qui a osé poser un piège juste ici !?
+<0086> Un piège !?
+<0087> Espèce de fouine !
+<0088> Hiiiiii ! Un piège...? Vraiment !?
+<0089> C'est là que le boss apparaît !
+<0090> Voilà le boss ! Qui ça va être, cette fois ?
+<0091> Fufufu, craignez le boss !
+<0092> Voici l'ennemi le plus grand et le plus imposant !
+<0093> Les étoiles, évidemment !
+<0094> Je vais chercher plein d'étoiles !
+<0095> Je vais rafler toutes les étoiles !
+<0096> Des étoiles, des étoiles et encore des étoiles !
+<0097> Je vais vous tabasser un par un !
+<0098> Vous allez goûter à mon Magical Massacre !
+<0099> Craignez mes pouvoirs !
+<0100> Pfahaha ! Tremblez face à l'écrasante\nviolence d'une magical girl !
+<0101> Salut, moi c'est Tomomo.
+<0102> On va se marrer !
+<0103> Ok, il est grand temps que je leur montre mes pouvoirs...!
+<0104> Fufufu, ils vont apprendre ce qu'est le courroux divin !
+<0105> Ok, commençons !
+<0106> Aujourd'hui, je bosse dur !
+<0107> On y va !
+<0108> Yahouu ! C'est partiii !
+<0109> Le résultat le plus cohérent !
+<0110> Youpi ! J'ai gagné ! J'ai gagné !!
+<0111> Kuhihi, parfait !
+<0112> Je remporte la victoire ! Uoooh !
+<0113> Voilà un tout nouvel objet !
+<0114> C'est un Magical Item !
+<0115> Cool, des nouveaux objets.
+<0116> Je dois ça à ma chance !
+<0117> J'te laisse prendre la relève !
+<0118> Maintenant, tout repose sur toi !
+<0119> À toi de jouer, maintenant !
+<0120> Boone chance !
+<0121> Ok.
+<0122> Bien, très bien.
+<0123> Ouais !
+<0124> Non !
+<0125> Et zut.
+<0126> Beau travail !
+<0127> Hmm ?
+<0128> On y va !
+<0129> Je jette le dé !
+<0130> Go !
+<0131> You-hou !
+<0132> Hmmm ?
+<0133> Bien joué !
+<0134> Incroyable !
+<0135> Sérieusement...
+<0136> Je choisis cet hyper !
+<0137> C'est à moi, maintenant !
+<0138> Allez, on va voir ce que ça vaut.
+<0139> Je t'emprunte ce pouvoir !
+<0140> Merciiii !
+<0141> Oh non, voilà l'autre folle...
+<0142> Aaah ! Cette fille me terrifie !
+<0143> Pfiou... J'ai encore des sueurs froides.
+<0144> N-non, contrôle-toi, je t'en supplie...
+<0145> Un combat entre deux Déesses du Sucre !\nJe ne perdrai pas !
+<0146> L'affrontement de deux déesses !
+<0147> La victoire revient à moi, Sweet Eater !
+<0148> Tu es une déesse supérieure, après tout...
+<0149> Je te défie, Sweet Maker !
+<0150> Cette odeur de sucreries... Sweet Maker !
+<0151> Fufufu, j'ai gagné.\nTu me dois un bon pudding, maintenant !
+<0152> Fuaah... J'ai trop faim, à force de t'affronter...
+<0153> Je vais tester ton pouvoir de protectrice !
+<0154> Ainsi, tu t'es transformée en Sweet Guardian, Q !
+<0155> C'est tout ce que tu vaux, Q ?
+<0156> Tu viens tout juste de devenir déesse.\nTu manques encore un peu d'entraînement.
+<0157> Ouah, elle est ravissante ! Je voudrais être elle...
+<0158> J'active le Mode Super-Extrême !
+<0159> Poppo, bouge de là !
+<0160> Poppo, tu oses te rebéller ?
+<0161> J'espère que tu as bien retenu ta leçon !
+<0162> Moi, perdre contre Poppo...? Impossible...
+<0163> Poppo...?
+<0164> Fais tes prières, ordure !
+<0165> Rahh, ça sent les ennuis !
+<0166> Pfiou ! Ça t'apprendra à me chercher !
+<0167> C'est la dernière personne contre qui je voulais perdre...

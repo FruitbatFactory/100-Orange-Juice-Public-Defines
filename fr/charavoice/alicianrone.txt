@@ -1,0 +1,160 @@
+<0000> Comme ça ?
+<0001> J'y vais.
+<0002> Hop !
+<0003> Hah !
+<0004> Si ça peut m'aider à gagner...
+<0005> Je crois que c'est le bon moment pour s'en servir.
+<0006> Allez, je fais ça !
+<0007> Dans ces cas-là, le mieux, c'est...
+<0008> Je pose un piège ici.
+<0009> Voilà... doucement.
+<0010> Hmm... Ce n'est pas mon domaine d'expertise.
+<0011> *soupir* Voilà, c'est posé.
+<0012> Allez, donne-moi ta force !
+<0013> Hmm... Je gagne en puissance !
+<0014> Avec ça, je n'ai aucune chance de perdre.
+<0015> Me voilà plus forte que jamais.
+<0016> Allez ! Vitesse maximale...!
+<0017> Je vais pouvoir reprendre le devant.
+<0018> Fini de se reposer...!
+<0019> J'arrive enfin à bouger... Autrement dit...
+<0020> Pas de panique. Il n'est jamais trop tard pour gagner !
+<0021> Hein ? Pourquoi !?
+<0022> C'est pénible ! Je devrais déjà pouvoir rejouer !
+<0023> Hm... Je crois que je vais devoir rester là encore un peu...
+<0024> Hé, je me relève bientôt ou pas...?
+<0025> J'y vais !
+<0026> Tiens !
+<0027> Yah !
+<0028> À l'attaque !
+<0029> Kya !
+<0030> Que...!?
+<0031> Hrmm.
+<0032> Tu me cherches ?
+<0033> Ça fait tant de bien.
+<0034> Ah, c'est agréable.
+<0035> Je me sens mieux !
+<0036> Qu'est-ce que c'est !? C'est agréable !
+<0037> Hein, quoi ?
+<0038> Qu'est-ce que cela signifie !?
+<0039> Ouaah ! Je m'envole !
+<0040> Où m'emmènes-tu donc ?
+<0041> Hrmm ! On se moque de moi !
+<0042> Non, ça ne comptait pas !
+<0043> Oh non.
+<0044> Gh...
+<0045> Prépare-toi à te battre !
+<0046> Je commence !
+<0047> Hihi, trouvé !
+<0048> Au combat !
+<0049> Vas-y, viens !
+<0050> Je relève le défi.
+<0051> Hihi, je vais m'occuper de ton cas.
+<0052> Viens te battre !
+<0053> Attention, mes ciseaux sont tranchants.
+<0054> Je vais te trancher !
+<0055> Eyah !
+<0056> Essaie donc d'esquiver ça !
+<0057> Aïe !
+<0058> Hé, c'est douloureux !
+<0059> Grm...!
+<0060> Yaa !
+<0061> C'est horrible ! Trop horrible !
+<0062> Ça fait extrêmement mal !
+<0063> Aïe-euh !
+<0064> Aïe ! Ghrmm...!
+<0065> Tu me pensais incapable d'esquiver ça ?
+<0066> Hihihi, trop lent.
+<0067> Je ne suis plus là.
+<0068> Tu me vises vraiment ?
+<0069> Hihi, je le voyais venir.
+<0070> C'était plutôt amusant.
+<0071> Je crois bien que j'ai gagné. Hihi.
+<0072> Je m'appelle Alicianrone. Ne l'oublie pas.
+<0073> Pardon ? On m'a... vaincue ?
+<0074> Ça ne comptait pas ! Absolument pas !
+<0075> J'ai perdu ? J'ai vraiment perdu ?
+<0076> J'exige une deuxième manche ! Pff...
+<0077> Des étoiles ? Puis-je les garder ?
+<0078> Hihi, elles sont jolies.
+<0079> J'aime beaucoup.
+<0080> Oui, très bien !
+<0081> Hein ? Elles ont disparu, comme ça, d'un coup ?
+<0082> Oh non, j'en ai fait tomber...!
+<0083> Nooon ! Ne disparaissez pas...!
+<0084> Ouah ! Mes étoiles...!
+<0085> Qu'est-ce que ça fait là...?
+<0086> Hrmmm ! Qui a posé ça là !?
+<0087> Comment ? Un piège !?
+<0088> Aaah, comme c'est pénible !
+<0089> Qu'est-ce que c'est que ça...?
+<0090> Une grande ombre se dessine... Un monstre ?
+<0091> Ça commence à devenir intéressant.
+<0092> Suis-je vraiment censée le battre ?
+<0093> Sur ce, je pars me promener. Je prendrai ce que je trouve.
+<0094> Je peux choisir la prochaine étape ? Hmm... Faisons ça !
+<0095> Je crois que je préfère cette option.
+<0096> Cherchons de ces bijoux à foison.
+<0097> Des exercices, voilà ce que je vais faire.
+<0098> Hihi, je me sens pleine d'énergie, donc... faisons ça.
+<0099> Je vous prépare un joli spectacle.
+<0100> Je vous vaincrai tous un par un.
+<0101> Je m'appelle Alicianrone. Mais tu peux m'appeler Rone.
+<0102> Tu souhaites jouer à mes côtés ? Oh, mais avec plaisir.
+<0103> Hihi, allons donc jouer ensemble.
+<0104> Hihi, je sens qu'on va s'amuser.
+<0105> Bon, par quoi devrais-je commencer ?
+<0106> Ça y est, c'est partiii !
+<0107> Que la partie commence !
+<0108> Prêts ? Partez !
+<0109> C'est bon ! J'ai gagné !
+<0110> Hihihi, je remporte la victoire !
+<0111> Voilà l'étendue de mes pouvoirs ! Qu'en pensez-vous ?
+<0112> Je me suis bien amusée ! Merci à toutes et à tous !
+<0113> Regarde ce que j'ai trouvé.
+<0114> Est-ce que ça aide ? Cela te sied ?
+<0115> Serait-ce un nouvel objet ?
+<0116> Hihi, devine ce que c'est.
+<0117> Échange !
+<0118> Je m'absente quelques instants.
+<0119> À toi de jouer, maintenant.
+<0120> Je te laisse prendre le relai.
+<0121> Soit.
+<0122> Bien.
+<0123> Oui.
+<0124> Non.
+<0125> Quel dommage.
+<0126> Quelle chance.
+<0127> Hmm ?
+<0128> Allons-y.
+<0129> J'envoie les dés.
+<0130> Allez, allez !
+<0131> Bien le bonjour.
+<0132> Que... pardon...?
+<0133> Très bien.
+<0134> Hihi, magnifique !
+<0135> Hrrmm...!
+<0136> Hmm... Ça s'utilise comme ça, n'est-ce pas ?
+<0137> Bon, peut-être devrais-je jouer cette carte ?
+<0138> Eh bien... celle-là ?
+<0139> Je ne sais pas ce que c'est, mais on va bien voir !
+<0140> Répa, puis-je te déranger un instant ?
+<0141> Bien, Répa, si tu as besoin de moi.
+<0142> Héhé ! Tes cheveux ne peuvent pas m'attraper !
+<0143> Oui, c'est bon, j'ai compris.\nTu peux dire à tes cheveux de me lâcher ?
+<0144> Et de deux.
+<0145> Et de trois !
+<0146> Et de quatre !!
+<0147> Tout le monde !
+<0148> Quelle idée de rester planté devant moi !
+<0149> Tout le monde tombe en un coup !
+<0150> Pas assez de puissance...?
+<0151> Cette vitesse fera l'affaire...!
+<0152> Sorcière Sylvestre... Tu sembles un peu différente.
+<0153> Sorcière Sylvestre... Non, qui es-tu ?
+<0154> Mais qui es-tu, à la fin...?
+<0155> Tu es pourtant aussi forte que Sorcière Sylvestre...
+<0156> Que- ? Il y a deux Sorcières Sylvestres...?
+<0157> Qui est qui ? Je ne sais plus, je suis perdue !
+<0158> Sorcière Sylvestre... Tu es même capable de te dupliquer ?
+<0159> Bon, là, c'est Sorcière Sylvestre... et là-bas, c'est elle aussi ?

@@ -1,0 +1,312 @@
+<0000> ...
+<0001> Poppo.
+<0002> Uhh...
+<0003> Poppo !
+<0004> *Tape-tape*!
+<0005> Hé ! Ça fait mal !
+<0006> Po ! Po ! Po !
+<0007> *Tape-tape-tape*!
+<0008> A-arrête de me taper, enfin !
+<0009> Pooh ! Pooh ! Po !
+<0010> Mais t'es qui, toi, au juste ?
+<0011> Marie Poppo !
+<0012> Poppo ?
+<0013> Po !
+<0014> Eh bien, en quoi puis-je t'aider, Poppo ?
+<0015> Poppo !
+<0016> *Hop* !
+<0017> Mon portefeuille !
+<0018> Poppo !
+<0019> Hein ? Si je veux le récupérer, il faut que je gagne une partie de dés ?
+<0020> Poppo !
+<0021> J'avoue être un peu paumé.
+<0022> Mais mon instinct me dit de jouer ! C'est sûrement la solution !
+<0023> Haa, haa... Alors, qui a gagné ?
+<0024> Poppo a perdu.
+<0025> Ouais ! Maintenant, rends-moi mon portefeuille !
+<0026> Non, Poppo.
+<0027> Allez, rends-le moi ! C'est ce qu'on avait convenu !
+<0028> Popooh.
+<0029> Hein ? Il ne suffisait pas de gagner cette partie pour le récupérer ?
+<0030> Bien sûr que non ! Abruti !
+<0031> Tu commences vraiment à\nm'énerver !!
+<0032> Poppopoooh.
+<0033> *POOPOPopopop...* !
+<0034> Hé ! Reviens !!
+<0035> Poppoo !
+<0036> Elle est bien trop rapide !
+<0037> Poppopo ! Poppo ! Poppopopopopoopoo !
+<0038> Hé, t'as pas fini de m'insulter ?!
+<0039> Poppo ! Poppopopo !
+<0040> Quoi ? Tu dis que je devrais regarder devant moi ?
+<0041> Attention !
+<0042> *Blam* !
+<0043> Ouargh !
+<0044> Il s'est fait écraser par un traîneau, Poppo...
+<0045> Oh non ! Rien de cassé !?
+<0046> Je vois tout rouge... Je crois que je suis en train de mourir.
+<0047> Non, c'est mes vêtements, ça.
+<0048> Poppopoooh.
+<0049> Qu'est-ce que tu fabriques, Poppo ?
+<0050> Cadeaux !
+<0051> Ah oui, toutes ces boîtes joliment décorées ont dû être renversées pendant l'accident...
+<0052> Oh non ! C'est mes cadeaux !
+<0053> Ils sont très jolis, répartis au sol ainsi.
+<0054> Hé, aide-moi à les ramasser, au lieu de flâner comme un idiot !
+<0055> Pourquoi moi !? Regarde, Poppo est déjà en train d'en ramasser...
+<0056> Mais non, elle les vole !!
+<0057> Plus qu'une seule solution : une partie de dés !
+<0058> Je sais, je sais. C'est comme ça qu'on fait avancer l'histoire.
+<0059> Et voilà le travail !
+<0060> Oh non... J'ai perdu...
+<0061> Poppo a perdu...
+<0062> J'ai perdu.
+<0063> ...
+<0064> ...
+<0065> ...
+<0066> Oui, qu'est-ce qu'il y a ?
+<0067> Tu as rejoint la partie sans prévenir. Personne ne sait qui tu es, ni d'où tu viens.
+<0068> Je suis QP !
+<0069> Quand j'ai vu tous ces cadeaux éparpillés au sol, j'ai voulu vous rejoindre.
+<0070> Pas touche, ces cadeaux sont\nà moi !
+<0071> Décidément, je ne croise que des filles bizarres aujourd'hui.
+<0072> Et pouf, Poppo disparaît.
+<0073> Hé ! Stop !!
+<0074> Rends-moi mes cadeaux !
+<0075> Quitte à courir, autant aller dans mon monde !
+<0076> Poppo ! Où es-tu !?
+<0077> Poppooou !
+<0078> Là ! Elle est là !
+<0079> Poppo ! Poppo ! Pooopiiii !
+<0080> Elle tient plus en place !
+<0081> Poppo !
+<0082> Elle a quelque chose dans sa main.
+<0083> Une cuillère...?
+<0084> Et du pudding !!?
+<0085> Eh ouais.
+<0086> Ton précieux pudding que tu avais gardé pour ce goûter.
+<0087> Cet alléchant, délicieux pudding, cuisiné avec le plus grand soin.
+<0088> Yu-Yuki !
+<0089> Yuki... Tu as donné mon pudding à Poppo !?
+<0090> Un rat, un lapin, un chien, maintenant un chat.
+<0091> Il est alléchant et délicieux !
+<0092> Pas touche à mon pudding !!
+<0093> O-hoho, si tu veux le récupérer...
+<0094> Je crois que je sais déjà ce qu'elle va dire...
+<0095> Il faut gagner aux dés !
+<0096> Je vais gagner, coûte que coûte !!
+<0097> J'ai gagné.
+<0098> Pudding... Mon cher et tendre pudding...
+<0099> Héhé, je me suis amusée !
+<0100> Poppo a perdu.
+<0101> J'ai l'impression qu'on se répète un peu.
+<0102> Exact. Bien évidemment, c'est là que...
+<0103> Poppo se tire d'ici !
+<0104> Ah ! Mon pudding !
+<0105> Mes cadeaux !
+<0106> Mon portefeuille !!
+<0107> Ça suffit !
+<0108> Poppopoooh.
+<0109> Hmm, je crois que je commence à m'amuser.
+<0110> Pareil !
+<0111> Poppooh.
+<0112> Poppo... Elle va utiliser...
+<0113> Un avion ?
+<0114> Si elle arrive à s'envoler, on pourra jamais la rattraper.
+<0115> Non ! C'est fichu !
+<0116> Poppo ! Poppo !
+<0117> *Clic-clac* !
+<0118> Hm...?
+<0119> Elle ne décolle pas ?
+<0120> Je pense qu'elle n'a jamais piloté d'avions de sa vie.
+<0121> C'est le moment ! Allons-y !
+<0122> Po ! Po ! Po !
+<0123> *Clic-clac* !
+<0124> Hé ! Tu fais quoi avec mon avion ?
+<0125> Po ?
+<0126> Sors de là tout de suite ! C'est pas un jouet !
+<0127> Po...
+<0128> Po... Po...
+<0129> Pogyaaaah !!
+<0130> Oh.
+<0131> Elle s'est mise à pleurer.
+<0132> Enfin... Euh...
+<0133> Hé ! Je rêve où tu viens de faire pleurer cette fille !?
+<0134> Red Barrel...!? Non, je faisais que...
+<0135> Piiii !!
+<0136> Oh, pauvre petite...
+<0137> Non, j'y suis pour rien...
+<0138> Po... Po...
+<0139> Bon, d'accord !
+<0140> Écoute, je t'emmène où tu veux.
+<0141> Po ?
+<0142> À une condition.
+<0143> ...
+<0144> Tu dois me battre aux dés !
+<0145> Je vois qu'on parle tous la même langue !
+
+// Trial end.
+<0146> Attendez !
+<0147> Quoi, Poppo ?
+<0148> Je crois bien que c'est la fin de la démo.
+<0149> Nooon, quand est-ce que j'aurai mon pudding !?
+<0150> Pour continuer, veuillez acheter le jeu complet.
+<0151> Vous pouvez l'acheter via le lien sur l'écran du menu !
+<0152> Merci d'avoir joué, Poppo !
+<0153> À la revoyure.
+
+<0154> Héhé, je crois bien que je suis trop doué à ce jeu.
+<0155> Non seulement Red Barrel m'a battu, mais ce mec aussi...
+<0156> J'ai perdu, mais je me suis\namusée !
+<0157> Poo...
+<0158> Je crois que Poppo aura du mal à prendre l'avion...
+<0159> Tu es coincée, Poppo.
+<0160> Po... Po...
+<0161> Plus d'endroit où s'enfuir.
+<0162> Poppo !!
+<0163> Hm ?
+<0164> Aaah ! Mon missile !
+<0165> Repose ça, c'est dangereux !!
+<0166> Elle peut porter un missile gigantesque, et puis quoi encore !?
+<0167> Poh !
+<0168> Elle s'enfuit à nouveau !
+<0169> C'est tout le temps la même chose !
+<0170> Poppo ! Abandonne !
+<0171> Popiii !
+<0172> Elle se moque de nous.
+<0173> Vous avez vu, aux alentours ?
+<0174> *Bouum* !
+<0175> Je vois des explosions...
+<0176> Des missiles, et des... rayons laser ?
+<0177> Si mon missile est atteint...
+<0178> On risque de tous exploser !!
+<0179> Hein !? Mais ça brûlerait mon précieux pudding !
+<0180> Et mes cadeaux avec !
+<0181> Mes centaines de billets, réduits en cendre !
+<0182> ...T'es très loin d'avoir autant d'argent.
+<0183> J'ai le droit de rêver, non !?
+<0184> ...
+<0185> Cette personne tient...
+<0186> ...une arme à feu.
+<0187> C'est moi où elle vise le missile ?
+<0188> La situation est critique !
+<0189> Je n'ai guère le choix.
+<0190> Attends une seconde !
+<0191> Ça te dirait de jouer aux dés, d'abord ?
+<0192> Ça va vraiment se passer comme ça à chaque fois ?
+<0193> On y prend vite goût, crois-moi...
+<0194> Aux dés...?
+<0195> Poppo !
+<0196> Amusant...
+<0197> Poppo !
+<0198> Parfait ! Elle est d'accord !
+<0199> Commençons à jouer avant qu'elle ne change d'avis !
+<0200> À vos marques...
+<0201> Prêts...
+<0202> Poggeh !
+<0203> Une victoire facile.
+<0204> C'était divertissant...
+<0205> Popo.
+<0206> Beau travail !
+<0207> Letsgo ! C'était serré !
+<0208> N'est-ce pas ?
+<0209> Ahahaha.
+<0210> Hé...
+<0211> Oui ?
+<0212> Pourquoi personne ne parle du fait qu'il y a deux Poppos ?
+<0213> À vrai dire, je faisais semblant de ne pas avoir remarqué.
+<0214> Pareil...
+<0215> Ah oui, tiens, il y a deux Poppos.
+<0216> Poppo !
+<0217> Cette harmonie démoniaque me ruine les tympans !
+<0218> Poppo ! Poppo !
+<0219> Attrapons-les avant qu'elles se multiplient encore !
+<0220> Devine quelle est la prochaine étape, Poppo.
+<0221> Comment ça ?
+<0222> On approche du combat final, Poppo.
+<0223> Suis-nous, Poppo.
+<0224> J'ai un mauvais pressentiment...
+<0225> Elle parlait de combat final, mais...
+<0226> Elle dit ça comme si on était arrivés au terme d'une grande aventure.
+<0227> Oui, on a pas vraiment combattu pour sauver le monde ou quoi.
+<0228> Tout ce qui compte, c'est qu'on récupère nos affaires !
+<0229> Vous ne les retrouverez jamais !
+<0230> C'était qui, ça !?
+<0231> O-hohoho... Bienvenue dans mon enfer, âmes fougueuses.
+<0232> Vous êtes...
+<0233> Je suis Magical Tomomo, la Reine des Ténèbres !
+<0234> Qui ?
+<0235> Aucune idée.
+<0236> Je sais pas, je regarde pas d'animes.
+<0237> Bande d'andouilles ! C'est pas un cosplay !
+<0238> M-mais pourquoi ?
+<0239> J'ai l'impression de vous connaître...!
+<0240> O-hoho... Tu es doué, Kai.
+<0241> Pardon ?
+<0242> Tout ça, c'est grâce à ton don ! Le privilège du protagoniste !
+<0243> Hein ?
+<0244> Tu as rencontré Poppo et tu es parti à l'aventure.
+<0245> Tu as réuni toute une équipe et tu es arrivé jusqu'à moi.
+<0246> En plus, tu es le seul à me connaître...
+<0247> Tout ça, c'est grâce à ton\nprivilège !
+<0248> Et c'est moi qui te l'ai donné.
+<0249> Moi, Magical Tomomo !
+<0250> Je vois... C'est de là que vient mon instinct ! C'est comme ça que je voyais tout venir à l'avance !
+<0251> En d'autres termes, vous avez créé ce monde,
+<0252> contrôlé Poppo, nous avez réuni ici,
+<0253> pour enfin vous présenter comme dernier boss et gagner le respect de tout le monde.
+<0254> Tout ça pour être plus populaire que moi... C'est ça, votre plan !?
+<0255> Précisément ! Et c'est pour ça que j'ai fait de toi le protagoniste, Kai !
+<0256> Un personnage parfaitement banal et sans compétences quelconques.
+<0257> Et contrairement à tous les autres, tu n'es apparu dans aucun jeu par le passé.
+<0258> Et en plus, t'es un mec !
+<0259> C'est comme si tu étais né pour montrer à tout le monde que je suis plus cool que toi !
+<0260> Sapristi... Je crois qu'elle a raison...
+<0261> O-hohoho... Mon plan s'est déroulé sans le moindre accroc !
+<0262> Mais...
+<0263> ?
+<0264> Il y a un truc qui colle pas dans votre histoire.
+<0265> Quoi donc ?
+<0266> À part Kai, on est tous les protagonistes de nos propres jeux.
+<0267> Alors vous, qui n'apparaissez que sur la page d'accueil d'un site underground...
+<0268> ...Qui ça va intéresser ?
+<0269> Même toi, Poppo !?
+<0270> ...
+<0271> Je le sais bien !
+<0272> Mais... il fallait que je le fasse...
+<0273> Car c'est ainsi... que le jeu se déroule...
+<0274> Oui...
+<0275> Et j'ai pas l'intention\nd'abandonner !
+<0276> Je serai l'Impératrice des Enfers la plus imposante au monde.
+<0277> Et vous ne verrez jamais, jamais la fin de ce jeu !
+<0278> J-j'ai échoué.
+<0279> Tomomo... Vous étiez tellement forte qu'on aurait presque crû que vous trichiez.
+<0280> Rah...
+<0281> Poppo...
+<0282> Poppo... C'est la fin de cette histoire.
+<0283> Rends-leur ce que tu leur as volé.
+<0284> Oui, Poppo.
+<0285> Ainsi, c'est fini...
+<0286> Je me sens un peu triste pour elle...
+<0287> Mon pudding est toujours aussi\nbon !
+<0288> Magical Tomomo ? Il n'y a pas de quoi être triste.
+<0289> Essaie pas de me consoler,\ntoi !
+<0290> À défaut d'être le dernier boss, vous pourriez essayer d'être un protagoniste.
+<0291> Qu'est-ce que tu veux dire...?
+<0292> Si le joueur peut incarner le dernier boss après l'avoir vaincu...
+<0293> Pour un jeu comme celui-ci, ce serait bien normal, non ?
+<0294> ...!?
+<0295> Kai...
+<0296> Par contre, pour ce qui est de comment le débloquer, c'est un secret !
+<0297> Ohh...
+<0298> Même si l'histoire s'arrête là,
+<0299> le jeu perdurera...
+<0300> car...
+<0301> C'est un jeu de combat.
+<0302> Tant que quelqu'un y joue, quelque part, nous sommes tous les protagonistes et les antagonistes de SON histoire.
+<0303> Ouais !
+<0304> Je savais qu'on pourrait\ns'entendre !
+<0305> (Et c'est ainsi que l'harmonie régna entre les mondes...)
+<0306> *zzz*.
+<0307> Oh !?
+<0308> C'était un rêve, Poppo...?

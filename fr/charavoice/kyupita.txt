@@ -1,0 +1,164 @@
+<0000> Toh !
+<0001> Hop !
+<0002> Allez !
+<0003> Teï !
+<0004> Une carte !
+<0005> C'est le moment de la jouer !
+<0006> Voilà !
+<0007> J'y vais !
+<0008> Carte Piège !
+<0009> J'vais poser un piège ici.
+<0010> Ça me paraît bien.
+<0011> Une p'tite farce pour les autres.
+<0012> J'augmente ma puissance !
+<0013> Uoooh !
+<0014> J'suis à fond !
+<0015> Prête-moi ta force !
+<0016> Z'allez voir la puissance de mon Œil du Saint !
+<0017> Pas le temps de pioncer.
+<0018> C'est pas fini !
+<0019> Pfiou. 'faut que j'fasse gaffe, cette fois.
+<0020> La partie est pas encore terminée.
+<0021> Zut...!
+<0022> J'me suis raté.
+<0023> Hein ? J'ai raté ?
+<0024> Crotte !
+<0025> Tah !
+<0026> J'vais t'toucher !
+<0027> J'attaque !
+<0028> Tiens !
+<0029> Ouah !
+<0030> Non !
+<0031> Hé, stop !
+<0032> Guh.
+<0033> Je me sens déjà mieux !
+<0034> C'est bon, ça va mieux.
+<0035> Je suis sauvé !
+<0036> C'est bon, je peux encore y arriver !
+<0037> C'est un portail !?
+<0038> Hé !
+<0039> Ouaaah !
+<0040> Attends, stop !
+<0041> Ukyuu.
+<0042> Et zut...
+<0043> Aïe-aïe...
+<0044> Gh... T'es vraiment cruel...
+<0045> Viens te battre !
+<0046> Allez, on y va !
+<0047> On va s'amuser !
+<0048> J'suis super chaud !
+<0049> Un combat ? J'vais pas perdre !
+<0050> Ok, viens te battre !
+<0051> Ouah ! C'était obligé, l'attaque-surprise !?
+<0052> Tu veux te battre ? On va se battre !!
+<0053> Punch !
+<0054> Atatatatatah !
+<0055> Oryah !
+<0056> De toutes mes forces !!
+<0057> Aïe !
+<0058> Aïe aïe !
+<0059> Ouah !
+<0060> Zut !
+<0061> Ça fait mal !
+<0062> Gya !
+<0063> Hé, oh !
+<0064> Ouaaah !
+<0065> Ça touche pas.
+<0066> C'est pas passé loin.
+<0067> Esquive facile !
+<0068> Je l'ai frôlé !
+<0069> C'est moi qui l'emporte.
+<0070> Pfiou. Je sais pas comment, mais j'ai réussi.
+<0071> Parfait. J'vais continuer sur cette lancée !
+<0072> J'ai failli y passer...
+<0073> C'est une blague ?
+<0074> C'est pas possible.
+<0075> Non...! Je peux encore...
+<0076> Zut, on m'a pas raté...
+<0077> Des étoiles !
+<0078> Si j'arrive à en trouver assez...!
+<0079> Héhé, génial.
+<0080> Génial, parfait !
+<0081> Oh non ! Pourquoi ?
+<0082> Mes étoiles !
+<0083> Heeein ? C'est horrible !
+<0084> Attendez !
+<0085> Un piège !?
+<0086> Qu'est-ce que ça fait là ?
+<0087> Hm... Je suis tombé en plein dedans...
+<0088> Hein, vraiment !?
+<0089> Ouah, c'est quoi cette énergie de fou ?
+<0090> Hmm... J'ai un mauvais pressentiment...
+<0091> C'est... c'est très mauvais.
+<0092> J-j'ai pas peur !
+<0093> J'propose de chercher les étoiles !
+<0094> On va s'en trouver plein.
+<0095> Allez, c'est parti pour les étoiles !
+<0096> Ça sent les étoiles... Par ici, je dirais ?
+<0097> 'faut que je fasse mes exercices !
+<0098> J'irais bien faire du sport !
+<0099> Je vais battre tous les méchants !
+<0100> Je sais que j'en ai pas l'air,\nmais je sais me battre !
+<0101> Je suis Kyupita ! Au plaisir !
+<0102> Laisse-moi faire ! Je me donnerai à fond !
+<0103> À moi de jouer, alors ? Enfin !
+<0104> Je vais gagner coûte que coûte !
+<0105> Et le jeu commence !
+<0106> Faisons de notre mieux !
+<0107> Je gagnerai envers et contre tous !
+<0108> C'est parti !
+<0109> J'ai réussi ! J'ai gagné !
+<0110> Je me suis bien amusé !
+<0111> Héhé ! Impresionnant, hein ?
+<0112> On y rejouera, hein ?
+<0113> J'ai trouvé un bel objet !
+<0114> Ouah ! Comment on s'en sert ?
+<0115> 'faut qu'on essaie de jouer avec.
+<0116> Un nouvel objet ! Super !
+<0117> Tu peux me remplacer ?
+<0118> Je reviens dans deux minutes.
+<0119> J'te laisse t'en charger !
+<0120> Allez ! Courage !
+<0121> Ok !
+<0122> Super !
+<0123> Entendu !
+<0124> C'est... euh...
+<0125> C'est pas fou...
+<0126> La chance !
+<0127> Hein...? Hein ?
+<0128> C'est parti !
+<0129> Jet de dé !
+<0130> Bonne chance !
+<0131> Salut !
+<0132> C'est quoi, ça...?
+<0133> Génial !
+<0134> Ouah ! Trop bien !
+<0135> Zut !
+<0136> 'faut bien essayer de s'en servir.
+<0137> Ce pouvoir...
+<0138> Je vais l'essayer !
+<0139> Ma carte secrète...!
+<0140> Hein ? Moi... en fille !?
+<0141> Tu es...
+<0142> Ouah ? Depuis quand je suis une fille !?
+<0143> T'es... t'es pas moi, hein ?
+<0144> Mais t'es qui, toi...?
+<0145> Ouah ! Comment elle peut autant me ressembler !?
+<0146> J'ai l'impression de la connaître...\nQui ça peut être ?
+<0147> Hein ? Elle a mon odeur...
+<0148> M. Kyousuke ! On est donc\nobligés de se battre...
+<0149> Je vais vous arrêter, M. Kyousuke !
+<0150> M. Kyousuke, même si on doit se battre...
+<0151> M. Kyousuke...!
+<0152> M. Kyousuke... On est vraiment\nobligés de se battre ?
+<0153> Pourquoi vous m'attaquez, M. Kyousuke...!?
+<0154> M. Kyousuke... Je vais vous purifier !
+<0155> Même vous, je peux vous battre, M. Kyousuke...!
+<0156> M. Kyou-... Hein ? Vous êtes une fille !?
+<0157> Euh, M. Kyousuke... Vous faites ça souvent ?
+<0158> M. Kyousuke... Hein, c'est pas lui !?
+<0159> Vous êtes... la petite sœur de M. Kyousuke ?
+<0160> M. Kyou-... Hein ? Qui êtes-vous !?
+<0161> Euh... Cette madame ressemble\nbeaucoup à M. Kyousuke...
+<0162> Ouah, c'est le portrait craché de M. Kyousuke !
+<0163> V-vous êtes trop jolie, madame petite sœur...!

@@ -1,0 +1,33 @@
+<0000> À vos ordres, cap'taine !
+<0001> Allons-y !
+<0002> Au pillage !
+<0003> Toi, viens te battre !
+<0004> J'vais faire vot' fierté, cap'taine !
+<0005> Vas-y, viens te battre !
+<0006> Je r'lève le défi !
+<0007> Allez, vas-y, amène-toi !
+<0008> T'as aucune chance face à un pirate !
+<0009> Yah !
+<0010> Shaaah !
+<0011> Kieeey !
+<0012> Deeey !
+<0013> Guh !
+<0014> Ouap !
+<0015> Gwah !
+<0016> Guoh !
+<0017> P-par tous les diables !!
+<0018> Agyaah !
+<0019> Hieeeh !
+<0020> Guoooh !
+<0021> C'est pas passé loin !
+<0022> Raté !
+<0023> Houlà !
+<0024> Hiii !
+<0025> J'ai réussi, cap'taine !
+<0026> Voilà le butin, cap'taine !
+<0027> Yohoy !
+<0028> Yohohoo !
+<0029> Cap'taaine...
+<0030> Désolé... cap'taine...
+<0031> J'ai échoué !....
+<0032> M-morbleu...

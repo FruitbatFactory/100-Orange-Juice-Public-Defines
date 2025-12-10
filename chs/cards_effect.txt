@@ -130,6 +130,10 @@ descr=每层储备使DEF+1。
 name=闪避强化
 descr=每层储备使EVD+1。
 
+< CARD_AMPHPEVD_EFFECT >
+name=生命与闪避强化
+descr=每层储备使HP上限+1，EVD+1。
+
 < CARD_AMPMOV_EFFECT >
 name=移动强化
 descr=MOV+1。
@@ -188,7 +192,7 @@ descr=移动到放置了陷阱卡的格子时，必须停留在\n那一格。
 
 < CARD_POPPOFORMATION_EFFECT >
 name=啵噗化
-descr=在下一场战斗中，ATK·DEF·EVD变为-1。
+descr=基础ATK·DEF·EVD变为-1。
 
 < CARD_HAND_BOOST_EFFECT >
 name=手牌提升
@@ -369,7 +373,7 @@ descr=反向移动。\n无法进行目标检测。
 
 < CARD_PRICEOFPOWER_EFFECT >
 name=力量的代价
-descr=可以使用比当前等级高1级的卡片。\n所有卡片COST+5。
+descr=你可以多花5颗STAR使用比你当前等级高1级的卡片。
 
 < CARD_POPPOSNATCHER_EFFECT >
 name=掠夺者啵噗
@@ -768,5 +772,17 @@ descr=当其他玩家倒下时，获得其等级×5的STAR。\n当有多个「�
 < CARD_INTELLECTUALBLUFF_EFFECT >
 name=故弄玄虚
 descr=当你使用的下一张卡片：\n·符合指定者暗自选择：其获得2WIN和等级×10的STAR。\n·仅符合指定者宣称：其受到2点伤害。
+
+< CARD_TICKEDOFF_EFFECT >
+name=你把我惹毛了！
+descr=如果你在战斗开始时HP为1，ATK+2。
+
+< CARD_LONGARMS_EFFECT >
+name=手长脚也长
+descr=你可以多花5颗STAR将陷阱放置在5×5的范围内。所有非陷阱、非礼物的卡片等级+1（上限为5）。
+
+< CARD_BURNINGPANEL_EFFECT >
+name=燃烧中的格子
+descr=这个格子在燃烧。\n在这个格子上开始或结束回合的角色受到1点伤害。
 
 [EOF]

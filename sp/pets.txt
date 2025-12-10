@@ -288,3 +288,106 @@ descr=Ha estado dormido por mucho, muuucho tiempo.
 < PET_MASHIRO >
 name=Masshiro
 descr=Ya no es de mala suerte.
+
+< PET_MARKETABLESUGURIPLUSHIE >
+name=Peluche Comerciable de Suguri
+descr=Sabes, creo que ser un peluche comerciable está bien.
+
+< PET_MINIEPOPPO >
+name=Mini Poppo
+descr=Robando tu corazón una vez más.
+
+< PET_COMPACTSORA >
+name=Sora Compacta
+descr=Eficiente en todas las formas.
+
+< PET_STABU >
+name=Stabu
+descr=Viene con un pequeño tintineo.
+
+< PET_PLUSHQP >
+name=QPeluche
+descr=¡Esa sí que es una perrita suave y adorable!
+
+< PET_HUGGYHIME >
+name=Hime Abracitos
+descr=Te estrujará con fuerza.
+
+< PET_SMOLSAKI >
+name=Saki Chiquita
+descr=Viene con una Campanita Big Bang.
+
+< PET_RAREREPA >
+name=Repa Rara
+descr=Es raro ganar una Repa tan rara.
+
+< PET_TRAVELARU >
+name=Aru de Viaje
+descr=Puedes llevarla a cualquier parte del mundo.
+
+< PET_MINIATUREMARC >
+name=Marc en Miniatura
+descr=Escala 1/16 de piloto.
+
+< PET_ALTEHUGTOY >
+name=Abrázame Alte
+descr=Sé amable con ella.
+
+< PET_COMFORTTOMOMO >
+name=Tomomo Confort
+descr=La edición definitiva del producto más lujoso de 100% Jugo de Naranja, disponible por tiempo li-
+
+< PET_DARKNESSKRILA >
+name=Krila Oscura
+descr=La maestra se ha convertido en el peluche.
+
+< PET_LUCKYLULU >
+name=Lulu de la Suerte
+descr=Te dará fortuna en tus viajes
+
+< PET_SUMIKAPLUSHIE >
+name=Sumika v0.2
+descr=Una Sumika más pequeña sigue siendo Sumika.
+
+< PET_GOGOKAE >
+name=Ve Ve Kae
+descr=Te otorgará seguridad durante la noche.
+
+< PET_BUDGETKAI >
+name=Kai de Bajo Costo
+descr=Puedes obtenerlo por un benjamín.
+
+< PET_STEALTHYTSIH >
+name=Tsih Sigilosa
+descr=Habla en nano-nanoras.
+
+< PET_SWEEBO >
+name=Sweebo
+descr=Un niño amado puede tener muchos nombres.
+
+< PET_MINIMIO >
+name= Mini Mio
+descr=Una diablilla de calidad premium.
+
+< PET_POCKETCOACH >
+name=Entrenador de Bolsillo
+descr=Las lecciones de nado están disponibles en cualquier horario, en cualquier parte.
+
+< PET_OWNGOAL >
+name=Portería Propia
+descr=Un trofeo para recordarte de los grandes momentos.
+
+< PET_WATERBALLONJERK >
+name=Bola Mala de Agua
+descr=No se los tires a los demás a menos que sean malos.
+
+< PET_HANDRINGER >
+name=Nadanillos
+descr=Mantendrán tu mano flotando en el agua de la bañera.
+
+< PET_HARBY >
+name=Harby
+descr=Aterroriza a tus amigos hoy con esta compañía misteriosa.
+
+
+

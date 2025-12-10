@@ -1,0 +1,160 @@
+<0000> Hmm... Là !
+<0001> Voilà.
+<0002> Yah !
+<0003> Mmnah !
+<0004> Hmm... Marnie joue ça !
+<0005> Allez, une carte !
+<0006> Et ça, ça irait ?
+<0007> Alors ?
+<0008> Ça va ici... voilà.
+<0009> Hmm, c'est le bon endroit...?
+<0010> Voilà un piège ! Ça peut aller ici ?
+<0011> Marnie va poser ça ici.
+<0012> Boum ! Boum !
+<0013> Allez ! Vas-y, carte !
+<0014> Toi ! Donne ta puissance !
+<0015> Marnie est devenue plus forte !
+<0016> Raahh ! Tu vas regretter d'avoir embêté Marnie !!!
+<0017> Mmmh...
+<0018> Oh ! ...Qu'est-ce que Marnie faisait...?
+<0019> Hein...? Marnie dormait ?
+<0020> Hmm, bonjour...
+<0021> Grr... Pourquoi Marnie peut pas...?
+<0022> Ça fait mal, c'est horrible... *snif*
+<0023> Ahh... Marnie en peut plus.
+<0024> Pourquoi...?
+<0025> Bouffe ça !
+<0026> Ey !
+<0027> Crève !
+<0028> Ordure !
+<0029> Argh !
+<0030> Tu veux quoi !?
+<0031> Aaahhh !!!
+<0032> Rrrh... Raaah !!
+<0033> Pfff... pfui...
+<0034> Marnie se sent un peu mieux.
+<0035> Pfiou...
+<0036> Hein ? Marnie faisait quoi, là, déjà ?
+<0037> C'est un portail ?
+<0038> Ouahh !!
+<0039> Arrête de secouer Marnie !
+<0040> Oh non !!
+<0041> Fils de...!
+<0042> Bordel !
+<0043> Marnie va te faire payer...
+<0044> Merde, merde...! MAIS MERDE !!
+<0045> Tu vas souffrir.
+<0046> Trouvé !
+<0047> Kyuhihihi !
+<0048> Marnie va t'écraser !
+<0049> Hein ? Tu veux quoi ?
+<0050> Nooon ! Arrête, fais pas ça !
+<0051> Qu'est-ce que tu fais ? Nooon !
+<0052> Non ! Marnie a horreur de se faire mal !
+<0053> T'es mort !
+<0054> Kyahahaha !
+<0055> T'as énervé Marnie !
+<0056> Tu vas crever !!
+<0057> Gya gya !
+<0058> Tu as... frappé Marnie ?
+<0059> Marnie t'a dit qu'elle détestait se faire mal...
+<0060> Tu fais souffrir Marnie...!
+<0061> Ça fait super mal... Beaucoup trop mal !!
+<0062> Marnie t'a dit qu'elle avait horreur d'avoir mal !!
+<0063> Gyaah ! Marnie se souviendra de ton visage !!
+<0064> Gyaaaahhhh !!!
+<0065> Ça fait trop peur !
+<0066> Hiiii !
+<0067> Fais pas ça !
+<0068> Tu fais quoi, là !? Fais gaffe !
+<0069> Pff... pffu... pfiou...
+<0070> Ça t'apprendra à énerver Marnie.
+<0071> Relève-toi un peu, que Marnie te défonce encore plus !
+<0072> Hihi... Hahaha... Gyahahaha !
+<0073> C'est... impardonnable...
+<0074> Ghh... Gh...
+<0075> Pourquoi Marnie est par terre...?
+<0076> Merde...!
+<0077> Youpi !
+<0078> Dame Arnelle va être contente !
+<0079> Dame Arnelle sera fière de Marnie !
+<0080> Trop bien !
+<0081> Arrêtez ! Vous pouvez pas disparaître !
+<0082> Non ! Restez !
+<0083> Comment c'est possible !?
+<0084> Marnie en a fait tomber...
+<0085> C'est quoi, ça, encore !?
+<0086> Qui a posé ce piège !?
+<0087> Mais comment c'est possible...!?
+<0088> Grhh... T'es vraiment cruel...
+<0089> C'est quoi, ça, d'abord ?
+<0090> Ça a l'air dangereux, par ici.
+<0091> Hein ? Je l'ai pas vu arriver...
+<0092> C'est pas parce que t'es gros que tu fais peur à Marnie !
+<0093> Marnie va trouver plein de trésors,\nDame Arnelle sera très fière !
+<0094> Tout pour Dame Arnelle...
+<0095> Si Marnie en trouve beaucoup...\nest-ce qu'elle aura plein de caresses ?
+<0096> Marnie va en trouver tout plein et tout\ndonner à Dame Arnelle !
+<0097> Il y a quelqu'un... que Marnie voudrait tuer...
+<0098> Marnie est furieuse... Elle doit se défouler...
+<0099> Aahhh, Marnie est furieuse !
+<0100> Pff... pfff... Les poings de Marnie tremblent de rage...
+<0101> Et voilà Marnie !
+<0102> Marnie va t'aider comme jamais !
+<0103> Si tu prends quelqu'un d'autre, Marnie va t'en vouloir.
+<0104> Viens, on va bien s'amuser !
+<0105> H-hein ? Ça a commencé ?
+<0106> Par quoi on commence, alors ?
+<0107> M-Marnie va faire de son mieux.
+<0108> Marnie va gagner !
+<0109> Youpi ! Félicitez Marnie !
+<0110> Marnie a vraiment gagné ? Youpi !
+<0111> Hihihi, 'fallait pas énerver Marnie.
+<0112> On rejouera, hein ?
+<0113> Tiens, Marnie a trouvé un objet.
+<0114> Tu le voulais, pas vrai ? Tu es fier de Marnie ?
+<0115> Marnie avait jamais vu ça.
+<0116> On s'en sert comment ?
+<0117> On échange !
+<0118> Marnie voudrait se reposer.
+<0119> *baîlle* Marnie va faire dodo.
+<0120> Tu peux t'en occuper ?
+<0121> Ok !
+<0122> Super !
+<0123> Marnie s'en occupe !
+<0124> Non.
+<0125> Ça va énerver Marnie.
+<0126> La chance !
+<0127> C'est quoi, ça...? Vraiment, c'est quoi ?
+<0128> On y va !
+<0129> Marnie va faire de son mieux !
+<0130> Allez, allez !
+<0131> Bonjour !
+<0132> Hein ? Quoi...?
+<0133> Génial !
+<0134> Ouaah ! Trop génial ! Bravo !
+<0135> Espèce de...
+<0136> Marnie peut jouer celle-là ?
+<0137> Marnie va jouer ça !
+<0138> Mais... cette carte...
+<0139> Marnie joue une carte super puissante !
+<0140> Dame Arnelle ! Vous pouvez jouer avec Marnie !?
+<0141> Dame Arnelle... Euh, comment dire...
+<0142> M-Marnie se disait qu'on a pas trop joué, ces temps-ci...
+<0143> Dame Arnelle~ *frotte*
+<0144> Youpi ! Dame Arnelle va jouer avec Marnie !
+<0145> Oui ! Marnie fera de son mieux !
+<0146> M-Marnie est punie...?
+<0147> Oui ! Marnie a super hâte !
+<0148> Marnie est un peu embêtée.
+<0149> Aahh... Marnie commence à être un peu énervée.
+<0150> Aah... ahhh... Vous devriez arrêter d'énerver Marnie...
+<0151> Aaaarghhh ! Bande de... de... ! RAAAHH !!!
+<0152> C'est pour ça qu'il faut pas énerver Marnie.
+<0153> Hein ? Marnie faisait quoi, déjà ? Hé, tu vas bien ?
+<0154> Ah-ahahaha ! Bien fait !
+<0155> Quoi, t'en peux déjà plus ?\nMarnie a beaucoup plus souffert que toi.
+<0156> Ah... Marnie se sent un peu calmée.
+<0157> Pfiou... Marnie est épuisée.
+<0158> Oh, je crois que c'est déjà fini.
+<0159> Marnie voulait l'attaquer... Bon, au moins, ça va mieux.

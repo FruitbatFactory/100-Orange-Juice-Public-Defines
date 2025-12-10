@@ -292,3 +292,103 @@ descr=It has been asleep for many long ears.
 < PET_MASHIRO >
 name=Masshiro
 descr=No longer unlucky.
+
+< PET_MARKETABLESUGURIPLUSHIE >
+name=Marketable Suguri Plushie
+descr=Being a marketable plushie is fine actually.
+
+< PET_MINIEPOPPO >
+name=Minie Poppo
+descr=Stealing your heart once more.
+
+< PET_COMPACTSORA >
+name=Compact Sora
+descr=Efficient in every form.
+
+< PET_STABU >
+name=Stabu
+descr=Comes with a little jingle.
+
+< PET_PLUSHQP >
+name=QPlushie
+descr=That's wan soft doggy!
+
+< PET_HUGGYHIME >
+name=Huggy Hime
+descr=Will squeeze you tight.
+
+< PET_SMOLSAKI >
+name=Smol Saki
+descr=Comes with a Smol Bang Bell.
+
+< PET_RAREREPA >
+name=Rare Repa
+descr=It's rare to win a Repa this rare.
+
+< PET_TRAVELARU >
+name=Travel Aru
+descr=You can take her anywhere in the world.
+
+< PET_MINIATUREMARC >
+name=Miniature Marc
+descr=1/16th scale pilot.
+
+< PET_ALTEHUGTOY >
+name=Alte Hug Toy
+descr=Be kind to her.
+
+< PET_COMFORTTOMOMO >
+name=Comfort Tomomo
+descr=The ultimate edition of the most luxurious 100% Orange Juice product, now available for a li-
+
+< PET_DARKNESSKRILA >
+name=Darkness Krila
+descr=The master has become the plushie.
+
+< PET_LUCKYLULU >
+name=Lucky Lulu
+descr=Gives you good fortune on your travels.
+
+< PET_SUMIKAPLUSHIE >
+name=Sumika v0.2
+descr=A slightly smaller Sumika is still Sumika.
+
+< PET_GOGOKAE >
+name=Go Go Kae
+descr=Will keep you safe in the night.
+
+< PET_BUDGETKAI >
+name=Budget Kai
+descr=You can get him for a Benjamin.
+
+< PET_STEALTHYTSIH >
+name=Stealthy Tsih
+descr=Speaks in nano-nanoras.
+
+< PET_SWEEBO >
+name=Sweebo
+descr=A loved child has many names.
+
+< PET_MINIMIO >
+name= Mini Mio
+descr=A devilishly delightful premium plushie.
+
+< PET_POCKETCOACH >
+name=Pocket Coach
+descr=Swimming lessons available anytime, anywhere.
+
+< PET_OWNGOAL >
+name=Own Goal
+descr=A trophy to remind you of your greatest moments.
+
+< PET_WATERBALLONJERK >
+name=Water Balloon Jerk
+descr=Do not throw at other people unless they are jerks.
+
+< PET_HANDRINGER >
+name=Hand Ringer
+descr=Will keep your hand afloat in a bath tub.
+
+< PET_HARBY >
+name=Harby
+descr=Menace your friends today with this mysterious companion.

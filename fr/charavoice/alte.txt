@@ -1,0 +1,160 @@
+<0000> Hop !
+<0001> Hah !
+<0002> Allons-y.
+<0003> Je dépends de ce jet.
+<0004> C'est le bon moment pour jouer ça.
+<0005> Vous allez voir de quoi je suis capable.
+<0006> C'est parti.
+<0007> Je choisis celle-ci.
+<0008> Je pose un piège.
+<0009> Soyez prudents, ça peut faire mal.
+<0010> Approchez, n'ayez pas peur.
+<0011> Je ne suis pas experte en la matière, mais soit.
+<0012> Voilà qui garantie ma victoire.
+<0013> Je n'ai pas le droit à l'erreur.
+<0014> Je vais t'écraser.
+<0015> Ton destin est scellé.
+<0016> Je ne peux pas perdre ce combat...
+<0017> Je pensais ne jamais me relever.
+<0018> Ce n'est pas terminé. Je peux encore me battre.
+<0019> Je dois me dépêcher si je veux garder l'avantage.
+<0020> Plus de temps à perdre, je dois y retourner.
+<0021> Hein ?
+<0022> Pas encore.
+<0023> Bon sang...
+<0024> Guh.
+<0025> Feu !
+<0026> Tu vas finir en passoire !
+<0027> Reste en place.
+<0028> Je vais t'abattre.
+<0029> Argh.
+<0030> Ce n'est qu'une égratinure...
+<0031> Qu'est-ce que- !?
+<0032> Je peux encore...
+<0033> Voilà qui est mieux.
+<0034> J'apprécie grandement.
+<0035> Ok, je suis prête à retourner me battre.
+<0036> Je dirais que ça va mieux...
+<0037> Je m'envole...!?
+<0038> Jusqu'où ça m'emmène ?
+<0039> Que... Où est-ce que ça va ?
+<0040> Ouah !
+<0041> Non... Pas comme ça...
+<0042> Je ne peux pas... échouer...
+<0043> Bon sang. J'ai échoué.
+<0044> Je peux... encore... me battre...
+<0045> Qu'est-ce que tu regardes ?
+<0046> J'ouvre les hostilités.
+<0047> Prêt à te battre ?
+<0048> Voyons qui de nous deux est le plus puissant.
+<0049> Ainsi, tu veux te battre.
+<0050> Hmph, comme c'est frivole.
+<0051> Je te préviens, ce ne sera pas facile.
+<0052> Une attaque surprise ? Pfeuh.
+<0053> Feu.
+<0054> Je vais t'abattre.
+<0055> Tombe.
+<0056> Prends ça.
+<0057> Argh !
+<0058> Une simple égratinure.
+<0059> Ce n'est rien.
+<0060> Rien de bien grave.
+<0061> Gah !
+<0062> Un coup direct.
+<0063> Tu m'as eue.
+<0064> Tsk !
+<0065> Tu ne peux pas me toucher.
+<0066> Esquive tactique réussie.
+<0067> Esquive facile.
+<0068> Travaille ta technique.
+<0069> On ne m'a pas autorisée à perdre.
+<0070> Libre à toi de rester à terre.
+<0071> Pfiou, je peux passer à la suite.
+<0072> Un résultat peu surprenant.
+<0073> Que- j'ai perdu !?
+<0074> Non... Je ne peux pas y croire...
+<0075> Guh.
+<0076> Argh... Bon sang.
+<0077> Ravitaillement.
+<0078> Je vais me servir.
+<0079> Elles sont essentielles.
+<0080> Merci, seigneur.
+<0081> Bon sang.
+<0082> Mes étoiles...
+<0083> J'ai perdu quelques étoiles.
+<0084> J'en ai fait tomber...
+<0085> Un piège ?
+<0086> J'ai fait une erreur.
+<0087> J'aurais dû être plus prudente.
+<0088> Un piège...? Bon sang.
+<0089> Quel est ce puissant biosignal ?
+<0090> En voilà un gros.
+<0091> Le voilà... Viens te battre !
+<0092> Heureusement, j'ai fait le plein de munitions.
+<0093> Je choisis les étoiles.
+<0094> Les étoiles...
+<0095> Je m'occupe d'amasser des étoiles.
+<0096> Je préfère la paix à un combat insensé.
+<0097> Rien ne doit m'arrêter.
+<0098> Rien de plus simple pour moi.
+<0099> Je vais leur montrer ce que je sais faire.
+<0100> La victoire sera à moi.
+<0101> Alte, au rapport.
+<0102> Battons-nous ensemble.
+<0103> D'accord, allons-y.
+<0104> Tu peux compter sur moi.
+<0105> Débutons la partie.
+<0106> Je vais saisir la victoire fermement.
+<0107> De retour au champ de bataille.
+<0108> Je vais gagner, puis rentrer à la maison.
+<0109> Je peux enfin rentrer à la maison.
+<0110> Seigneur, c'est enfin terminé.
+<0111> Je m'en suis sortie, finalement.
+<0112> Et c'est fini.
+<0113> Voilà une belle récompense.
+<0114> C'est ce que tu voulais ?
+<0115> Hihi, tu as l'air aux anges.
+<0116> Ah, une bonne nouvelle.
+<0117> Il faut qu'on échange.
+<0118> Je compte sur toi.
+<0119> À toi de jouer.
+<0120> Tu peux prendre ma place ?
+<0121> Oui.
+<0122> J'aime mieux.
+<0123> Bien.
+<0124> Ce n'est pas bon.
+<0125> Pardon ?
+<0126> La chance te sourit.
+<0127> Hm ?
+<0128> Commençons.
+<0129> Les dés sont jetés.
+<0130> Je suis prête.
+<0131> Comment allez-vous ?
+<0132> Hmm...
+<0133> Bien.
+<0134> Très impressionnant.
+<0135> Oh non...
+<0136> J'userai de toutes mes ressources.
+<0137> Voyons à quoi ça sert.
+<0138> Peu importe si cette arme appartient à l'ennemi.
+<0139> Vous ne pensiez pas que je jouerai cette carte.
+<0140> Cette fois, je t'aurai pour de bon !
+<0141> C'est donc toi mon ennemi, nouveau modèle !
+<0142> Ne me sous-estime pas.
+<0143> Tu es un monstre, finalement...
+<0144> Que fait cet enfant ici ?
+<0145> Tu es sûre de vouloir m'affronter, gamine ? Vraiment sûre ?
+<0146> Rentre chez toi avant d'avoir des ennuis.
+<0147> Je t'ai prise pour une fille ordinaire.
+<0148> Je ne pensais pas te retrouver ici.
+<0149> Tu dégages une aura profondément sinistre...
+<0150> J'aimerais que tu restes à terre le plus longtemps possible.
+<0151> Tu comptes abattre tes alliés comme tes ennemis ?
+<0152> Hm, c'est un couteau de cuisine\nque tu tiens là... Tu sais cuisiner ?
+<0153> Tu es cuisinière !?
+<0154> Bon, hum... pourrais-tu... m'apprendre à cuisiner ?
+<0155> Argh... Ton couteau...\nT'es pas une fille ordinaire, toi, hein ?
+<0156> La guerre recommence ?\nJ'aimerais avoir la paix pour de bon.
+<0157> Rah, pourquoi avec tous ces gens ?
+<0158> Un entraînement...
+<0159> Un entraînement, tous ensemble...\nEst-ce vraiment une bonne idée ?

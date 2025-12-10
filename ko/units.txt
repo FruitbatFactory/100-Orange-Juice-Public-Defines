@@ -83,6 +83,22 @@ descr=
 name=수영 튜브
 descr=이동력 -1을 얻는다.
 
+< CARD_UNIT_BOSS_BEACH_BREAKER >
+name=비치 브레이커
+descr=특수 능력: 불탐. 지속 시간: 3챕터. 불탐 상태인 패널에서 턴을 시작하거나 마치는 다른 유닛은 피해 1점을 받는다. \n아군이 KO된 동안 방어력 +1을 얻는다.
+
+< CARD_UNIT_BOSS_BEACH_BUILDER >
+name=비치 빌더
+descr=아군이 KO된 동안 방어력 +1을 얻는다.
+
+< CARD_UNIT_BOSS_BEACH_BUSTER >
+name=비치 버스터
+descr=아군이 KO된 동안 방어력 +1을 얻는다.
+
+< CARD_UNIT_BOSS_TROUBLEMAKERS >
+name=악동들
+descr=
+
 < CARD_UNIT_CHICKEN >
 name=닭
 descr=
@@ -626,3 +642,5 @@ name=카나타
 descr=패에 "지적인 블러핑"이 있다면 상대가 카드를 뽑을 때마다 50% 확률로 그 타입을 본다.
 
 [EOF]
+
+

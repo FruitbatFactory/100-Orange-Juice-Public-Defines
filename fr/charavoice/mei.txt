@@ -1,0 +1,162 @@
+<0000> Eyaaahh !
+<0001> Oryaah !
+<0002> Toryaah !
+<0003> Seryah !
+<0004> Une carte !
+<0005> Maintenant !
+<0006> Je vais jouer une carte !
+<0007> Je joue celle-là.
+<0008> Hihihi, piège posé.
+<0009> Carte Piège !
+<0010> Qui sera l'imbécile qui va l'activer ?
+<0011> Un pièèège !
+<0012> Carte Combat !
+<0013> Je vais me donner à fond !
+<0014> Je veux gagner !
+<0015> Mode super extrême !
+<0016> Infernoël Blanc !!
+<0017> J'suis complètement guérie !
+<0018> Grr... Bon, ça va, j'ai pas encore perdu !
+<0019> Rougeon, Bleuet, c'est notre moment !
+<0020> À partir de maintenant, les choses vont changer !
+<0021> Aaah, zut !
+<0022> Maaaaiis !
+<0023> Purée !
+<0024> J'me suis plantée...!?
+<0025> À l'attaque !
+<0026> Seeeï !
+<0027> Mdoryaaah !
+<0028> Shaaa !
+<0029> Uuh...
+<0030> Nuah !
+<0031> Gh.
+<0032> Ngh !
+<0033> Du soin !
+<0034> Ça me sauve la vie !
+<0035> Parfait ! Je r'tourne me battre !
+<0036> J'suis à bloc !
+<0037> Un portail !?
+<0038> C'est quoi, cette saleté...!?
+<0039> Ça va où, ça !?
+<0040> J'suis où, là !?
+<0041> Gnuuu !
+<0042> Bordel !
+<0043> Meerde !
+<0044> Hmmm !
+<0045> Viens, on va jouer !
+<0046> Viens te battre !
+<0047> J'y vais !
+<0048> Le combat commence ! Yaah !
+<0049> Ouais, ok, on va jouer !
+<0050> Amène-toi pour voir !
+<0051> Ouais ! J'men fous, j'peux encore me battre !
+<0052> Défi accepté !
+<0053> Coup de pied !
+<0054> Eyyy !
+<0055> Ryaaah !
+<0056> Daryaah !
+<0057> Buah !
+<0058> Purée...!
+<0059> Ouah !
+<0060> Guh !
+<0061> Ça fait super mal !!
+<0062> Gueeh !
+<0063> Rah, zut !
+<0064> C'est quoi ton problème ?
+<0065> Garde-la pour toi, ton attaque !
+<0066> Trop lent !
+<0067> Apprends à viser !
+<0068> Grosse limace !
+<0069> Héhé, j'ai gagné !
+<0070> Tu me fais marrer, tu sais ?
+<0071> On rejouera plus tard !
+<0072> Ah, je me suis poilée !
+<0073> Zuteuhh ! Sale type !
+<0074> Tu paies rien pour attendre !
+<0075> Gh... Purée...
+<0076> J'ai vraiment perdu, alors...?
+<0077> Des étoiles pour moi !
+<0078> Ouais, des étoiles !
+<0079> J'suis au top !
+<0080> Écoutez, un peu, on dirait une cloche !
+<0081> Noon ! Mes étoiles !
+<0082> Purée !!
+<0083> Grr... mes étoiles !
+<0084> Mes étoiles se barrent!
+<0085> Hein ? Un piège !?
+<0086> Ça fout quoi ici, ça !?
+<0087> Qui a fichu ça là !? Abruti !
+<0088> J'peux pas croire qu'on m'ait eue comme ça !
+<0089> Oh, t'as pas l'air d'être le dernier des nazes.
+<0090> Le boss tant attendu !
+<0091> Je gagne toujours, même contre les boss !
+<0092> Rougeon, Bleuet ! Mettez le paquet sur ce coup-là !
+<0093> J'vais trouver plein d'étoiles !
+<0094> Ok, j'vais en trouver tout plein !
+<0095> Vos étoiles sont mes étoiles !
+<0096> À la chasse aux étoiles !
+<0097> J'vais me battre beaucoup, et gagner tout le temps !
+<0098> Vous m'approchez, je vous démolis !
+<0099> C'est beaucoup plus marrant de se battre !
+<0100> Je préfère encore me bagarrer !
+<0101> Hein, moi ? Ouais, quoi de neuf ?
+<0102> Hmm, comment je vais jouer, aujourd'hui, moi ?
+<0103> J'vais bien m'amuser !
+<0104> J'prends toujours les jeux aux sérieux !
+<0105> Ok ! Rougeon, Bleuet, on est partis !
+<0106> Hihihi ! La partie commence !
+<0107> C'est moi qui vais gagner !
+<0108> Bon, c'est qui, les autres joueurs ?
+<0109> Let's go ! Une victoire signée Mei !
+<0110> Pfiou, quel plaisir.
+<0111> Super-giga-victoire rien que pour moi !
+<0112> J'avais pas fini de jouer, oh !
+<0113> Oh, tiens, un nouveau bidule !
+<0114> Hé, tu le voulais, ça, non ?
+<0115> Belle pioche !
+<0116> Bien joué !
+<0117> Allez, on échange !
+<0118> Allez, j'te laisse t'en occuper !
+<0119> On inverse les rôles !
+<0120> À ton tour, maintenant !
+<0121> Ok !
+<0122> Cool !
+<0123> D'ac' !
+<0124> Pas question !
+<0125> Grrr...!
+<0126> Veinard !
+<0127> Hmm ?
+<0128> Allez !
+<0129> V'là les dés !
+<0130> C'est parti !
+<0131> Salut !
+<0132> Hmeein ?
+<0133> Trop bien !
+<0134> Trop génial !
+<0135> Pff, trop nul...
+<0136> Personne pensait que je me servirais de ça !
+<0137> Chaipas à qui c'est, mais j'vais quand même m'en servir !
+<0138> J'ai toujours voulu l'essayer, celle-là.
+<0139> Hihihi, je vais jouer cette carte !
+<0140> Salut, Nana !
+<0141> On va bien se marrer, toi et moi !
+<0142> Bien joué, Nana... J'me suis bien marrée !
+<0143> Héhé ! J'ai gagné, cette fois, Nana !
+<0144> Tiens, salut Yuki ! Tu veux jouer ?
+<0145> Hein, tu veux jouer avec moi ? Cool !
+<0146> J'me suis marrée !
+<0147> Gh... J-j'veux une revanche...!
+<0148> Tiens, Mère Noël ! Rougeon, Bluet, on va la choper !
+<0149> Ouah, c'est Mère Noël !?
+<0150> Tu m'dois des cadeaux, maintenant ! Plein de cadeaux !
+<0151> Tu mérites pas d'être Mère Noël ! T'es trop brutale !
+<0152> T'as l'air enjouée, toi !
+<0153> Je sens venir le combat acharné !
+<0154> C'était un très beau combat !
+<0155> Guh... T'es plutôt balèze, toi...
+<0156> J'vais prendre ta place de protagoniste !
+<0157> Tiens, v'là le protagoniste médiocre !
+<0158> À partir de maintenant, c'est moi, la protagoniste !
+<0159> Grrr... T'es qu'un simplet...
+<0160> Rougeon, Bleuet !
+<0161> C'est la version ultime de l'Infernoël Blanc !!

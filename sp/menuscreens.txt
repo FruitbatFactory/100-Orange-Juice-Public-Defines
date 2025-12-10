@@ -133,7 +133,7 @@ Pesca-un-pez
 Truco y Trato
 
 < MENU_BUTTON_LOBBYLIST_TAGTEAM >
-Atrapados
+Trabajo en Equipo
 
 < MENU_BUTTON_GAME_TAG >
 TAG
@@ -173,6 +173,12 @@ Invasor
 
 < MENU_LOBBYSETTING_PVPBOUNTIES >
 Cazas de Jugadores
+
+< MENU_LOBBYSETTING_TAGCOOLDOWN >
+Enfriamiento de TAG
+
+< MENU_LOBBYSETTING_PARTNERREGENDELAY >
+Demora Regeneración de Compañero
 
 < MENU_BUTTON_GAME_RETURN >
 VOLVER
@@ -251,6 +257,15 @@ COMER
 
 < MENU_BUTTON_GAME_BOUNTY >
 OBJETIVO
+
+< MENU_BUTTON_GAME_REINFORCE >
+FORTALECER
+
+< MENU_BUTTON_GAME_INTERCEPT >
+INTERCEPTAR
+
+< MENU_BUTTON_GAME_BOLSTER >
+MEJORAR
 
 < PLAYMENU_FREEBATTLE >
 EN LÍNEA
@@ -812,10 +827,10 @@ Un jefe aparecerá en el momento que un jugador alcanza la cuarta norma. ¡Ten c
 ¡Vamos a disfrutar del entrenamiento de Mio y aprender a nadar! ¡Un nuevo jefe (el Entrenador) ya se encuentra disponible!
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_01 >
-Todo el daño realizado hacia el Entrenador contará como progreso para el evento.
+Todo el daño realizado hacia {} contará como progreso para el evento.
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_02 >
-También podrás luchar contra otros jefes del modo cooperativo para contribuir a un 50% del progreso del evento.
+También podrás luchar contra otros jefes del modo cooperativo para contribuir al evento a la mitad del ritmo.
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_COMPLETE >
 ¡El evento ha terminado, y Tomomo ha aprendido a nadar! Aun así, podrás seguir practicando con el Entrenador para perfeccionar tus habilidades.
@@ -999,6 +1014,63 @@ Los efectos que se aplican a uno mismo al recuperarse tras ser noqueado también
 
 < PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_12 >
 ¡Planea tus mejores estrategias y conviértete en el campeón local de 100% Jugo de Naranja!
+
+< PLAYMENU_EVENT_SUMMER2025_INSTRUCTION_MAIN >
+¡Star Breaker, Tomato y Mimyuu están causando problemas en la playa! ¡Un nuevo Jefe del Modo Cooperativo, las Alborotadoras, ya se encuentra disponible!
+
+< PLAYMENU_EVENT_SUMMER2025_INSTRUCTION_COMPLETE >
+¡Felicidades! ¡Tras un día de luchas, las Alborotadoras han sido distraídas y el mundo ha sido salvado!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_MAIN >
+¡El club de 100% OJ está en problemas aun antes de ser formado! ¡Demuestra tus habilidades ante Popomi!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_01 >
+Durante este evento, los jugadores podrán jugar en un modo de juego especial: ¡Trabajo en Equipo!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_02 >
+Tendrás 3 puntos de movimiento para progresar en el evento al terminar la primera partida del día, y otros 3 más por terminar la primera partida de Trabajo en Equipo del día.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_03 >
+Podrás seguir jugando para recibir 2 puntos de movimiento por cada partida de Trabajo en Equipo, o 1 punto por cada partida en cualquier otro modo de juego.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_04 >
+¡Los paneles naranja en el mapa del evento otorgan Naranjas, los paneles de estrella otorgan Estrellas, los paneles verde de cosméticos tienen una chance de desbloquear un cosmético aleatorio, y los paneles de Coronas desbloquean un cosmético del evento!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_05 >
+¡Llega hasta el final del mapa una vez para completar el evento, y sigue jugando para obtener aun más recompensas!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_06 >
+En Trabajo en Equipo, podrás escoger un personaje adicional como Compañero para ayudarte en las partidas.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_07 >
+Puedes apretar el botón de TAG durante tu turno para cambiar de lugar con los personajes que has seleccionado. ¡El personaje actual entonces cambiará de lugar con tu Compañero!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_08 >
+Una vez que cambien de lugar, no podrán volverlo a hacer por una cierta cantidad de capítulos, dependiendo en la opción de la sala. ¡Decide con cuidado antes de cambiar de lugar!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_09 >
+Si el personaje actual es noqueado, serán obligados a cambiar de lugar si su compañero no ha sido noqueado. ¡Esto hará que la opción de TAG sea usada, así que ten cuidado!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_10 >
+Tu compañero recuperará PV automáticamente tras una cierta cantidad de capítulos. Si son noqueados se recuperarán tras una cantidad de turnos equivalentes a su valor de REC.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_11 >
+Poner el cursor sobre el retrato de tu Compañero mostrará cuando podrán recuperarse.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_12 >
+Cualquier efecto de cartas que tu compañero tenga no tendrá su duración reducida.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_13 >
+Si tu compañero tiene un efecto que pueda afectar a la partida, sus efectos NO se verán activos a menos que regresen al campo de juego.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_14 >
+Los efectos que se aplican a uno mismo tras recuperarse al ser noqueado serán aplicados a tu compañero una vez que intenten recuperarse.
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_15 >
+¡Crea el equipo perfecto y prueba que eres capaz de comenzar un club de 100% OJ!
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_COMPLETE >
+¡Felicitaciones! ¡El club de 100% OJ ha sido establecido! ¡Disfruta de tu juventud al trabajar en equipo para obtener más recompensas!
 
 < PLAYMENU_EVENT_NEXT_GOAL >
 Próxima meta:
@@ -1272,6 +1344,9 @@ Conmiseración
 
 < MENU_CODEXSTORY_TITLE_CONCIERGE >
 El Conserje
+
+< MENU_CODEXSTORY_TITLE_ALTENICO >
+Tesoros Bajo la Noche Estrellada
 
 < MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
 Juega {0} partidas como {1}.

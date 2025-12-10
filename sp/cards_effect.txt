@@ -131,6 +131,10 @@ descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 DEF.
 name=Evasión Mejorada
 descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 EVD.
 
+< CARD_AMPHPEVD_EFFECT >
+name=Health and Evasion Buff
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 Máx. PV y EVD
+
 < CARD_AMPMOV_EFFECT >
 name=Movimiento Mejorado
 descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 MOV.
@@ -370,7 +374,7 @@ descr=El movimiento de esta unidad será invertido, pero no podrá subir de nive
 
 < CARD_PRICEOFPOWER_EFFECT >
 name=El Precio del Poder
-descr=Esta unidad podrá usar las cartas con un sólo nivel mayor a su nivel actual, pero todos sus costos serán incrementados por 5.
+descr=Esta unidad podrá pagar 5 estrellas adicionales para usar las cartas con 1 nivel mayor a su nivel actual.
 
 < CARD_POPPOSNATCHER_EFFECT >
 name=Poppo la Ladrona
@@ -766,5 +770,17 @@ descr=Esta unidad recibirá Estrellas (valor: Nivel x 5) cada vez que un jugador
 < CARD_INTELLECTUALBLUFF_EFFECT >
 name=Engaño Que Suena Intelectual
 descr=Si la próxima carta escogida por otro jugador es del tipo correcto: esta unidad recibirá +2 Victorias y Estrellas (valor: Nivel x 10)\nSi no lo es: recibirá 2 puntos de daño.
+
+< CARD_TICKEDOFF_EFFECT >
+name=¡Estamos Molestas!
+descr=Esta unidad recibirá +2 ATK al tener 1 PV en el comienzo de una batalla.
+
+< CARD_LONGARMS_EFFECT >
+name=Mira lo Largos Que Son Mis Brazos y Piernas Ahora
+descr=Esta unidad podrá pagar 5 estrellas adicionales para colocar trampas en un radio de 2 paneles. Incrementa el nivel de las cartas (exceptuando las cartas Trampa y de Regalo) por 1 (hasta un máximo de 5).
+
+< CARD_BURNINGPANEL_EFFECT >
+name=Panel Ardiente
+descr=Este panel está en llamas. Las unidades que empiecen o terminen su turno en este panel recibirán 1 punto de daño.
 
 [EOF]

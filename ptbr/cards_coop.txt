@@ -73,6 +73,21 @@ name=Concurso de Fofura
 descr=Só pode ser usada pelo atacante. A batalha é decidida por um concurso de fofura.\nFofura = 10 - Máx HP - ATK + EVD, mas não abaixo de 0.\nAo invés de rolar para ataque, ambas as unidades rolam dois dados e adicionam o total para sua Fofura. Se uma unidade tem mais Fofura, ela rouba 5x o nível do jogador em estrelas e ganha 1 Vitória. E então termina a batalha.
 flavor="Agora nos diga, quem é a mais fofa daqui!?" ―Saki
 
+< CARD_BATTLE_COOP_MOUSSETHETHIEF >
+name=Mousse a Ladra
+descr=Se você estiver ativo no fim da batalha, Chefe perde estrelas equivalente a 10x do Nível da próxima carta de Chefe. Ganhe tudo isso de estrelas. Só pode ser jogada contra o Chefe.
+flavor="Espere, isso é algo importante para mim." ―Sora
+
+< CARD_BANNER_COOP_PROTECTIONFEE >
+name=Taxa de Proteção
+descr=Quando um Chefe ou capanga para em um Painel de Casa, Chefe perde (seu Níel) x5 estrelas e você ganha (seu Nível) x5 estrelas.
+flavor="Isso é um roubo..." ―Lulu
+
+< CARD_EVENT_COOP_EXTREMEALTERATION >
+name=Alteração Extrema
+descr=Duração do Efeito: 1 capítulo.\nTorne todos os Painéis que não sejam de Casa em Painéis de Compra.##(Gatilho: pare em 3 Painéis de Terror{0}):\nTorne todos os Painéis que não sejam de Casa em 2x Painéis de Compra.
+flavor="Eu vou curar a doença no qual este mundo está sofrendo..." ―Kiriko
+
 < CARD_HYPER_COOP_ALTE >
 name=Auto-Destruição
 descr=Em nocaute, desfere dano equivalente ao seu HP máximo no inimigo. Inimigo não ganha estrelas ou vitórias, mas perde metade de suas estrelas se nocauteado por este efeito.
@@ -315,12 +330,12 @@ flavor="Nós somos as ídolos mais fortes!" -Sora & Sham
 
 < CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE >
 name=Afluência (X)
-descr=Enfrente o chefão. Ele ganha -X ATK, onde X = nível de Afluência. Você não pode atacar. Se você não for nocauteado, o oponente te dá X vezes 20 estrelas.\nSe não for Afluência (4): Você pode ao invés disso pagar o custo dessa carta para melhorá-la.\nSe não for segurada por Fernet, esta carta vira Nova Nobreza.
+descr=Enfrente todos os chefões. Eles ganham -X ATK, onde X = nível de Afluência. Você não pode atacar. Se você não for nocauteado, o oponente te dá X vezes 20 estrelas.\nSe não for Afluência (4): Você pode ao invés disso pagar o custo dessa carta para melhorá-la.\nSe não for segurada por Fernet, esta carta vira Nova Nobreza.
 flavor="Você deseja me pedir um favor...? Minha nossa, mas é claro que eu estaria feliz em ajudar uma amiga." ―Fernet
 
 < CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE_V >
 name=Afluência (%d)
-descr=Enfrente o chefão. Ele ganha -X ATK, onde X = nível de Afluência. Você não pode atacar. Se você não for nocauteado, o oponente te dá X vezes 20 estrelas.\nSe não for Afluência (4): Você pode ao invés disso pagar o custo dessa carta para melhorá-la.\nSe não for segurada por Fernet, esta carta vira Nova Nobreza.
+descr=Enfrente todos os chefões. Eles ganham -X ATK, onde X = nível de Afluência. Você não pode atacar. Se você não for nocauteado, o oponente te dá X vezes 20 estrelas.\nSe não for Afluência (4): Você pode ao invés disso pagar o custo dessa carta para melhorá-la.\nSe não for segurada por Fernet, esta carta vira Nova Nobreza.
 flavor="Você deseja me pedir um favor...? Minha nossa, mas é claro que eu estaria feliz em ajudar uma amiga." ―Fernet
 
 < CARD_HYPER_COOP_SHIFU >
@@ -638,7 +653,7 @@ flavor=
 
 < CARD_BOSS_COOP_UBIQUITOUS >
 name=Onipresença
-descr=Chefão irá teleportar para o jogador mais longe possível e roubar 5 estrelas por cada nível do jogador.\nCapangas ativos irão teleportar para o jogador mais próximo e roubar 5 estrelas.\nSe existirem dois ou mais jogadores para se escolher, escolha um aleatóriamente.
+descr=Chefão irá teleportar para o jogador no raio mais longe possível e roubar 5 estrelas por cada nível do jogador.\nCapangas ativos irão teleportar para o jogador mais próximo e roubar 5 estrelas.\nSe existirem dois ou mais jogadores para se escolher, escolha um aleatóriamente.
 flavor=
 
 < CARD_BOSS_COOP_SNATCHER >
@@ -1133,7 +1148,7 @@ flavor=
 
 < CARD_BOSS_COOP_ENCOURAGE >
 name=Encorajar
-descr=Seu Balão irá se mover para o painel com o jogador mais próximo deles e enfrentá-lo. Ele ganha +3 ATK nessa batalha. Se o jogador for derrotado, ele irá repetir essa ação para o próximo jogador mais próximo dele.
+descr=Seu Balão irá se mover para o painel com o jogador aleatório no raio mais próximo dele e enfrentá-lo. Ele ganha +3 ATK nessa batalha. Se o jogador for derrotado, ele irá repetir essa ação para o próximo jogador aleatório no raio mais próximo dele.
 flavor=
 
 < CARD_BOSS_COOP_MOVING_GOALPOST >
@@ -1154,6 +1169,236 @@ flavor=
 < CARD_BOSS_COOP_SWIMMING_RINGER >
 name=Boia de Natação
 descr=Se tiver menos que 2 capangas de Boias de Natação em campo, invoque um capanga de Boia de Natação e tome 6 de dano. Boias de Natação possuem -1 MOV.
+flavor=
+
+< CARD_BOSS_COOP_SPARK >
+name=Faísca
+descr=Queime o painel atual.
+flavor=
+
+< CARD_BOSS_COOP_BURN_IN_CRIMSON_FLAMES >
+name=Queime em Chamas Carmesim
+descr=Dê 1 de dano a todas as outras unidades em um raio de 2 painéis e Queime o painel onde elas estão.
+flavor=
+
+< CARD_BOSS_COOP_FEAR_THE_APPROACHING_SPARKS >
+name=Tema as Faíscas Que se Aproximam
+descr=Queime 3-5 painéis aleatórios.
+flavor=
+
+< CARD_BOSS_COOP_COUNT_YOUR_LAST_MOMENTS >
+name=Conte Seus Últimos Momentos
+descr=Atinja um jogador aleatório ativo com Condenação: Após 3 turnos, Sofra Nocaute no começo do turno. Efeito removido ao parar em um painel de Casa. Queima o painel de Casa dele.
+flavor=
+
+< CARD_BOSS_COOP_SHIVER_IN_THE_INVISIBLE_MURDEROUS_INTENT >
+name=Se Arrepie Com a Intenção Assassina Invisível
+descr=Marque 1 painel aleatório para cada aliado ativo. Após 1 capítulo, nocauteie todos os jogadores nesses painéis e queime eles.
+flavor=
+
+< CARD_BOSS_COOP_STAR_BLASTING_FUSE >
+name=Fusível Que Explode Estrelas
+descr=Dê o nível do Chefe em dano para todas as outras unidades em um raio de 2 painéis. Queime todos os painéis em um raio de 2 painéis.
+flavor=
+
+< CARD_BOSS_COOP_BE_CHARRED_IN_THE_BURNING_DEATH_CRISIS >
+name=Seja Carbonizado na Crise de Morte Queimadora
+descr=Duração do Efeito: 1 Capítulo. Ao dar dano de batalha a uma unidade, dê esse mesmo tanto de dano a todas as outras unidades no raio de 1 painel.
+flavor=
+
+< CARD_BOSS_COOP_MELT_IN_THE_AZURE_FLAME >
+name=Derreta na Chama Azul
+descr=Até o fim do turno, dê dano equivalente ao Nvl do Chefe a cada unidade que você passar e não pare ao desafiar um inimigo. Painéis em que você passar por eles nesse turno serão Queimados.
+flavor=
+
+< CARD_BOSS_COOP_STAR_BLASTING_LIGHT >
+name=Luz Que Explode Estrelas
+descr=Queime 6-10 painéis aleatórios.
+flavor=
+
+< CARD_BOSS_COOP_LET_THE_SEA_OF_FLAME_EMBRACE_YOU >
+name=Deixe o Mar de Chamas Lhe Abraçar
+descr=Queime 12-20 painéis aleatórios.
+flavor=
+
+< CARD_BOSS_COOP_SUFFER_FROM_THE_INEVITABLE_DEATH_CRISIS >
+name=Sofra Com a Crise de Morte Inevitável
+descr=Atinja todos os jogadores ativos com Condenação: Após 2 turnos, Sofra Nocaute no começo do turno. Efeito removido ao parar em um painel de Casa.
+flavor=
+
+< CARD_BOSS_COOP_TAKE_YOUR_DYING_BREATH >
+name=Tenha Seu Último Respiro
+descr=Dê dano equivalente ao número de jogadores ativos a todos os jogadores que não estejam no raio de 3 painéis de um Chefe. Queime todos os painéis em um raio de 2 painéis de um aliado.
+flavor=
+
+< CARD_BOSS_COOP_ACCEPT_YOUR_DOOM >
+name=Aceite Seu Fim
+descr=Atinja um jogador aleatório ativo com Condenação: Após 2 turnos, Sofra Nocaute no começo do turno. Efeito removido ao parar em um painel de Casa. Queima todos os painéis de Casa.
+flavor=
+
+< CARD_BOSS_COOP_BREAKER_ENRAGE >
+name=Fúria
+descr=Enquanto ambas Construtora de Praia e Destruidora de Praia estiverem nocauteadas, ganhe +1 ATK e +1 de dano para todos os efeitos de dano.
+flavor=
+
+< CARD_BOSS_COOP_BREAKER_ENRAGE_HYPER >
+name=Fúria
+descr=Enquanto ambas Construtora de Praia e Destruidora de Praia estiverem nocauteadas, ganhe +1 ATK e +1 de dano para todos os efeitos de dano. Após 5 turnos, reviva Construtora de Praia e Destruidora de Praia com metade do HP.
+flavor=
+
+< CARD_BOSS_COOP_BABYSIT >
+name=Babá
+descr=Coloque paineis Ardentes em até o raio de 2 painéis da Destruidora de Praia.
+flavor=
+
+< CARD_BOSS_COOP_TINKER >
+name=Remendo
+descr=Cure aliados por 1 HP.
+flavor=
+
+< CARD_BOSS_COOP_PARTY_TIME >
+name=Hora da Festa
+descr=Todas as unidades são teleportadas aleatóriamente para o mesmo painel. Termine seu turno.
+flavor=
+
+< CARD_BOSS_COOP_PAY_ATTENTION >
+name=Preste Atenção
+descr=Efeito de Estoque (1) em um jogador aleatório. Quando você fosse parar num painel de casa, no lugar teleporte para o painel em que o Chefe está.
+flavor=
+
+< CARD_BOSS_COOP_CRITICAL_FAILURE >
+name=Falha Crítica
+descr=Duração do Efeito: 3 Capítulos. Quando um inimigo rolar 1 ou abaixo para movimento, bônus ou perda, ele toma 1 de dano.
+flavor=
+
+< CARD_BOSS_COOP_NO_BULLYING >
+name=Sem Bullying!
+descr=Duração do Efeito: 2 Capítulos. Todos os inimigos ganham -1 ATK.
+flavor=
+
+< CARD_BOSS_COOP_MACHINIST >
+name=Maquinista
+descr=Cure aliados por 2 HP.
+flavor=
+
+< CARD_BOSS_COOP_BRUTAL_TRAPS >
+name=Armadilhas Brutais
+descr=Efeito de Estoque (1) em todos os jogadores. Quando você ativar uma armadilha, descarte todas as cartas da sua mão.
+flavor=
+
+< CARD_BOSS_COOP_BACKDOOR_SCHEME >
+name=Esquema da Porta dos Fundos
+descr=Efeito de Estoque (1) em todos os jogadores. Quando você ficar com 1 HP, perca Nvl x10 estrelas. Efeito Expira no nocaute.
+flavor=
+
+< CARD_BOSS_COOP_WARUDA_MACHINE >
+name=Máquina Waruda
+descr=Efeito de Estoque (2): Na sua próxima batalha, ganhe ATK e DEF mas perca EVD equivalente a duas vezes ao número de cartas na mão de seu oponente.
+flavor=
+
+< CARD_BOSS_COOP_POWER_OF_SCIENCE >
+name=Poder da Ciência
+descr=Duração do Efeito: 2 Capítulos. Aliados ganham +1 ATK, +1 DEF e +1 MOV.
+flavor=
+
+< CARD_BOSS_COOP_COMEUPPANCE >
+name=Punição
+descr=Duração do Efeito: 3 Capítulos. Toda vez que um aliado tomar dano, dê 2 de dano a um jogador aleatório no menor raio.
+flavor=
+
+< CARD_BOSS_COOP_WATCH_OUT >
+name=Cuidado
+descr=Duração do Efeito: 3 Capítulos. Quando um inimigo rolar 5 ou mais para movimento, bônus ou perda, ele toma 2 de dano.
+flavor=
+
+< CARD_BOSS_COOP_BUILDER_ENRAGE >
+name=Fúria
+descr=Enquanto Destruidora de Praia estiver nocauteada, ganhe +1 ATK e +1 MOV.
+flavor=
+
+< CARD_BOSS_COOP_BUILDER_ENRAGE_HYPER >
+name=Fúria
+descr=Enquanto Destruidora de Praia estiver nocauteada, ganhe +1 ATK e +1 MOV. Após 5 turnos, reviva Destruidora de Praia.
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_HAMMER >
+name=Martelo de Mimyuu
+descr=Coloque a armadilha Martelo de Mimyuu no painel atual.
+flavor=
+
+< CARD_BOSS_COOP_PRANKSTER >
+name=Travessa
+descr=Adicione uma cópia de Martelo de Mimyuu na mão de cada jogador. Duração do Efeito: 1 capítulo. Jogadores tomam 1 de dano toda vez que eles descartarem uma carta.
+flavor=
+
+< CARD_BOSS_COOP_ADVENTURE >
+name=Aventura
+descr=Teleporte todos os jogadores para um painel aleatório. Se for um painel de Terror, eles tomam 1 de dano.
+flavor=
+
+< CARD_BOSS_COOP_HAMMER >
+name=Martelo!
+descr=Dê 1 de dano para um jogador ativo aleatório dentro do menor raio possível.
+flavor=
+
+< CARD_BOSS_COOP_HMM >
+name=Hmm...
+descr=Efeito de Estoque (1): A próxima habilidade que der dano direto, dará mais (Nvl do Chefe) de dano.
+flavor=
+
+< CARD_BOSS_COOP_EVIL_SPY_WORK >
+name=Trabalho de Espião Malígno
+descr=Adicione 2 cópias de Trabalho de Espião Malígno - Execução no topo do deck de jogador.
+flavor=
+
+< CARD_BOSS_COOP_SNEAKILY >
+name=Sorrateiramente
+descr=Duração do Efeito: 2 Capítulos. Não pode ser desafiado. Ganhe +2 ATK ao desafiar um inimigo.
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_POWER >
+name=Poder da Mimyuu!
+descr=Se existir outro Chefe em um raio de 2 painéis da Destruidora da Praia, dê 4 de dano a um jogador aleatório. Caso contrário, tome 1 de dano.
+flavor=
+
+< CARD_BOSS_COOP_ENTERTAIN_MIMYUU >
+name=Entretenha Mimyuu!
+descr=Se não existir um jogador ativo em um raio de 2 painéis de um Chefe, dê dano a um jogador aleatório no raio mais longe equivalente ao HP do jogador.
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_IS_BORED >
+name=Mimyuu Está Entendiada!
+descr=Coloque a armadilha "Mimyuu Está Entediada!" e 2-3 painéis aleatórios: "Tome 4 de dano."
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_IS_BORED_TRAP >
+name=Mimyuu Está Entendiada!
+descr=Tome 4 de dano.
+flavor=
+
+< CARD_BOSS_COOP_BIG_HAMMER >
+name=Grande Martelo!
+descr=Dê (Nvl do Chefe + 2) de dano para um jogador aleatório ativo no menor raio possível.
+flavor=
+
+< CARD_BOSS_COOP_BORED_BORED_BORED >
+name=Tédio! Tédio! Tédio!
+descr=Dê dano equivalente ao Nvl do Chefe a um jogador aleatório ativo. Se este dano não nocautear o alvo, repita o efeito duas vezes.
+flavor=
+
+< CARD_BOSS_COOP_PRISON_BREAK >
+name=Fugindo da Prisão
+descr=Duração do Efeito: 3 Capítulos. Ganhe +2 EVD. Se você não for desafiado antes do efeito acabar, ganhe permanentemente +1 ATK e DEF.
+flavor=
+
+< CARD_BOSS_COOP_BUSTER_ENRAGE >
+name=Fúria de Destruidor
+descr=Enquanto Construtora de Praia estiver nocauteada, compre e execute uma carta extra a cada turno.
+flavor=
+
+< CARD_BOSS_COOP_BUSTER_ENRAGE_HYPER >
+name=Fúria de Destruidor
+descr=Enquanto Construtora de Praia estiver nocauteada, compre e execute uma carta extra a cada turno. Após 5 turnos, reviva Construtora de Praia.
 flavor=
 
 < CARD_BOSS_COOP_HOME_SWEEPER >
@@ -1187,7 +1432,12 @@ flavor="Mimyuu! Quem é que fez isso a você..." ―Tomato
 < CARD_HYPER_COOP_CLASS_DEALER >
 name=Jogos de Verão
 descr=Trate qualquer painel que você iria parar neste turno como um painel de 2x de compra.
-flavor=
+flavor="Ainda não! Eu não perdi!" ―Peat
+
+< CARD_HYPER_COOP_CLASS_VANGUARD >
+name=Vanguarda das Areias Ardentes
+descr=Remova todos os efeitos colocados por Chefes ou capangas de si mesmo e de todos os aliados. Todos os aliados ganham 2 HP.
+flavor="Vamos juntar forças!" ―Saki\n"OK! É hora da fusão!" ―Kae
 
 < CARD_SKILL_COOP_ADVANTAGE1 >
 name=Vantagem 1
@@ -1529,4 +1779,29 @@ flavor=
 < CARD_SKILL_COOP_IRONDEFENSE >
 name=Defesa de Ferro
 descr=Tome um mínimo de 0 de dano ao defender durante esta batalha.\nTempo de recarga: 3 Capítulos.
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_REINFORCE >
+name=Reforço
+descr=Lute antes do aliado alvo na próxima vez que ele for desafiado ou ativar um painel de Chefe. Ganhe +1 ATK, DEF e EVD na batalha. Se você sobreviver a batalha, o aliado alvo ganha +1 ATK, DEF & EVD. Se você sofrer nocaute, o aliado alvo ganha +1 ATK. MOV -1 enquanto ativo.
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_DEFENSEBOOST >
+name=Boost na Defesa
+descr=Norma 2: DEF +1
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_HPEVASIONBOOST >
+name=Boost na Vida e Evasão
+descr=Norma 4: Max HP +1, EVD +1
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_INTERCEPT >
+name=Interceptar
+descr=(Reforçar Batalha) Se você sobreviver a esta batalha, pule a batalha contra o aliado reforçado.\nTempo de Recarga: 8 Capítulos.
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_BOLSTER >
+name=Aprimorar
+descr=Remova todos os efeitos colocados por Chefes ou capangas do jogador alvo. Jogador alvo ganha 1 HP, mais 1 HP por efeito removido. Se o jogador alvo não tem nenhum efeito colocado por Chefes ou capanga, aplique Limpeza da Aura no lugar, prevendo o próximo efeito aplicado por Chefe ou capanga.\nTempo de Recarga: 5 Capítulos.
 flavor=

@@ -1,0 +1,31 @@
+< CONSUMABLE_HEART_PINK >
+name=Cœur (Rose)
+descr=Envoyez un cœur à un ami ou à un être cher !
+
+< CONSUMABLE_HEART_BLACK >
+name=Cœur (Noir)
+descr=Envoyez un cœur à un ami ou à un être cher !
+
+< CONSUMABLE_FIREWORKS_YELLOW >
+name=Feux d'Artifice (Jaune)
+descr=Lancez des feux d'artifice !
+
+< CONSUMABLE_FIREWORKS_RED >
+name=Feux d'Artifice (Rouge)
+descr=Lancez des feux d'artifice !
+
+< CONSUMABLE_FIREWORKS_GREEN >
+name=Feux d'Artifice (Vert)
+descr=Lancez des feux d'artifice !
+
+< CONSUMABLE_FIREWORKS_BLUE >
+name=Feux d'Artifice (Bleu)
+descr=Lancez des feux d'artifice !
+
+< CONSUMABLE_RAINYCLOUD >
+name=Nuage Pluvieux
+descr=Pour quand c'est pas trop ça.
+
+< CONSUMABLE_BALLOONS >
+name=Ballons
+descr=Ces ballons vous suivront un petit bout de temps.

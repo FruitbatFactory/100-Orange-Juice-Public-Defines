@@ -1,0 +1,5 @@
+< CARD_COOP_GUIDANCE_EFFECT >
+name=La Guía de la Hada Veleta
+descr=Tiras 2 dados para todas tus acciones. Este efecto no se activará dentro de una batalla, y se acabará al detenerte en tu propio hogar o al cambiar de lugar con tu compañero. Solo podrás subir de nivel en tu propio hogar.
+
+[EOF]

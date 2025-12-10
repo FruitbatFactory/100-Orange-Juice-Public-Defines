@@ -202,13 +202,18 @@ name=風見鶏の導き
 descr=ストック効果\nバトル時を除き、ダイスが2つになる。\nホームマスに止まると、この効果は消える。
 flavor=「ぴよぴよ　クックこっち行きたいぞ」 ―クック
 
+< CARD_BOUNTY_PROTECTIONFEE >
+name=ショバ代
+descr=他のプレイヤーのホームマスに止まったとき、自身のレベル×2のスターをそのプレイヤーに支払う。ノルマチェックに失敗した場合、1ダメージ受ける。
+flavor=「こんなんボッタクリなんな…」 -ルルゥ
+
 < CARD_BOUNTY_PLAYER >
 name=DEAD OR ALIVE
 descr=社会に対する罪を犯し、指名手配中。
 flavor=
 
 < CARD_BOUNTY_PLAYER_ITEM >
-name=
+name=???
 descr=除外対象のためご注意を。
 flavor=
 

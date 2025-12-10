@@ -1,0 +1,160 @@
+<0000> Hey !
+<0001> Yah !
+<0002> Hah !
+<0003> Go !
+<0004> J'utilise cette carte.
+<0005> Cette carte !
+<0006> Ok, cette carte !
+<0007> Je me lance !
+<0008> Pouf pouf...
+<0009> Ça va... ici !
+<0010> Piège-noël... paré.
+<0011> Je pose un piège !
+<0012> Dans ces conditions, c'est impossible de perdre !
+<0013> Cette carte fera parfaitement l'affaire !
+<0014> Celle-là !!
+<0015> Carte-Combat !
+<0016> Voici vos cadeaux, tout le monde !
+<0017> Aah, j'ai perdu trop de temps ! Faut que je me dépêche !
+<0018> Pas de temps à perdre ! J'y vais !
+<0019> Ça ne fait que commencer !
+<0020> C'est la dernière fois que je tombe KO !
+<0021> C'est pas possible !
+<0022> Ohhh....
+<0023> Hein !?
+<0024> Nooon !
+<0025> Hop-là !
+<0026> À l'attaque !
+<0027> Prends ça !
+<0028> Ça va faire mal !
+<0029> Aïe !
+<0030> Ouargh !
+<0031> Hii !
+<0032> Ouahh !
+<0033> Ça rafraîchit.
+<0034> Pfaaa... Ça va beaucoup mieux...
+<0035> Aah, ça fait du bien...
+<0036> Régénération !
+<0037> Wawah !
+<0038> Vers où je m'envole !?
+<0039> Vers quoi ça mène ?...
+<0040> ...Wawah !
+<0041> Pas ici... pas maintenant...
+<0042> J'en peux plus...
+<0043> Je vais m'effondrer...
+<0044> Je peux plus bouger...
+<0045> Au combat !
+<0046> Le pouvoir de Noël est avec moi !
+<0047> Je déborde d'énergie !
+<0048> À l'attaque !
+<0049> Hors de mon chemin !
+<0050> Hein ? Tu veux qu'on se batte !?
+<0051> Laisse-moi tranquille, sinon...!
+<0052> Je relève le défi !
+<0053> Attaque de cadeaux !
+<0054> Tiens, tiens !
+<0055> Prends ça !
+<0056> Toryaah !
+<0057> Ouegh !
+<0058> Ouaille !
+<0059> Ça fait mal !
+<0060> Awawah !
+<0061> Guaaah !
+<0062> Aaaaah !
+<0063> G-geh !
+<0064> Awawawawah !
+<0065> Hop !
+<0066> Je suis trop rapide !
+<0067> Je peux tout esquiver !
+<0068> Trop lent !
+<0069> Youpi, j'ai gagné !
+<0070> J'ai réussi !
+<0071> Ok, j'y retourne !
+<0072> Pfiou, je m'en suis sortie.
+<0073> Aïe, c'est pas bon, ça...
+<0074> J'ai perdu...
+<0075> Aïe... t'es trop fort...
+<0076> J'arrive pas à y croire... j'ai perdu.
+<0077> Des étoiles !
+<0078> Les étoiles scintillent !
+<0079> Ouah, elles sont jolies !
+<0080> Un cadeau d'étoiles !
+<0081> Wawawah, mes étoiles !
+<0082> Wah, j'ai fait tomber des étoiles !
+<0083> Non, partez pas sans moi !
+<0084> Non... Les étoiles ont disparu...
+<0085> Un piège !?
+<0086> Nooon, c'est un piège !
+<0087> Hiii !
+<0088> N-nooon !
+<0089> Hein !? Il est sorti de nulle part !
+<0090> Awawah...
+<0091> Personne, personne ne me barre la route !
+<0092> Je suis pas sûre de pouvoir le vaincre...
+<0093> Je vais chercher des étoiles !
+<0094> J'aime bien chercher les étoiles.
+<0095> Je vais ramener tout plein d'étoiles !
+<0096> Je choisis les étoiles !
+<0097> Je sais pas me battre, mais j'ai pas le choix...
+<0098> Laissez-moi avancer ou ça va barder !
+<0099> Le pouvoir de Noël me rend plus forte !
+<0100> Les enfants pas sages doivent être punis !
+<0101> Bonsoir et bienvenue au Rayon Alp...\nah non, pardon !
+<0102> On va distribuer les cadeaux ensemble !
+<0103> C'est parti pour une journée de travail !
+<0104> J'arrive avec vos cadeaux, les enfants !
+<0105> Allez, c'est parti !
+<0106> Je vais faire de mon mieux !
+<0107> Il faut que je me donne à fond !
+<0108> Je ne perdrai pas !
+<0109> Et Joyeux Noël !
+<0110> Voici vos cadeaux, les enfants !
+<0111> Ohoho, j'ai réussi !
+<0112> Hourra, j'ai gagné !
+<0113> Un joli cadeau !
+<0114> Hoho, un cadeau de la part de la Mère Noël !
+<0115> J'espère que c'est ce que tu voulais !
+<0116> Tiens, ce cadeau est pour toi.
+<0117> On peut échanger ?
+<0118> Bonne chance !
+<0119> Désolée, il faut que tu prennes la relève !
+<0120> Merci ! Je te laisse t'en charger !
+<0121> Ok !
+<0122> Chouette !
+<0123> Oui !
+<0124> Sûrement pas !
+<0125> Qu'est-ce que c'est que ça ?
+<0126> Quelle chance !
+<0127> Hein ?
+<0128> Allons-y !
+<0129> Je jette le dé !
+<0130> Parée au combat !
+<0131> Bonjour !!
+<0132> Ohh...
+<0133> Super !
+<0134> Génial !!
+<0135> Non !...
+<0136> Je t'emprunte ça un instant !
+<0137> Quels pouvoirs réserve cette carte ?
+<0138> J'ai choisi de l'utiliser !
+<0139> On va bien voir ce que ça vaut !
+<0140> Tiens, voilà un cadeau !
+<0141> Oh, bonjour Mme Q !... Euh, QP, pardon.
+<0142> Bienvenue au Rayon Alpin... Oups, ça m'a échappé.
+<0143> Je suis désolée, petits lapins...
+<0144> Argh... Pas de doute,\nc'est bien notre meilleure cliente...
+<0145> Toi ! Tu as été très vilaine !
+<0146> Elle est beaucoup trop dangereuse...
+<0147> Pas de cadeaux pour les méchants !
+<0148> Non... C'est mes vêtements qui sont rouges...
+<0149> Ouah, t'es vraiment toute jeune.
+<0150> Hé oh, vous faites pas de bêtises, hein ?
+<0151> Soyez sages et vous aurez\ntoutes les deux de beaux cadeaux.
+<0152> Aargh... Je savais que vous étiez vilaines...
+<0153> Tu as été sage ?
+<0154> Ouah ! Elle est toute petite !
+<0155> Fufufu, je te ferai un beau cadeau, c'est promis.
+<0156> Argh... je croyais que tu étais une enfant sage.
+<0157> Aaah, non ! Mes cadeaux !!
+<0158> Des cadeaux, même pour moi !
+<0159> Maintenant, en formation !\nComme à l'entraînement !

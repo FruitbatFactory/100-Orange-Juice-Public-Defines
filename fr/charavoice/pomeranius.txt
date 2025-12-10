@@ -1,0 +1,161 @@
+<0000> En toute élégance.
+<0001> Avec souplesse.
+<0002> Que la chance me guide.
+<0003> Bien.
+<0004> Attention, je ne suis pas votre cabot.
+<0005> C'est idiot.
+<0006> Avec grâce.
+<0007> Il ne peut en être autrement.
+<0008> Je fais mon travail soigneusement.
+<0009> Hm, ça me semble approprié.
+<0010> Soyez prudents.
+<0011> On gagne gros en jouant intelligemment.
+<0012> Mieux vaut prévenir que guérir.
+<0013> Ta fin approche.
+<0014> Aiguise tes griffes.
+<0015> Je vais t'écraser... avec élégance.
+<0016> Je vous présente mon grand pouvoir.
+<0017> C'est la dernière fois que je chute.
+<0018> Il me reste de l'énergie.
+<0019> Fini de tourner en ridicule.
+<0020> La sieste est terminée.
+<0021> Kuh !
+<0022> Bon sang de...
+<0023> Je me sens... pathétique...
+<0024> Mgrrrhh !
+<0025> Grrrr !
+<0026> Rwaf !
+<0027> Craignez le loup en moi.
+<0028> Hmpf !
+<0029> Guoh !
+<0030> Brouah !
+<0031> Sapristi !
+<0032> Bon sang !
+<0033> Caresse-moi la tête.
+<0034> Dois-je donner la patte ?
+<0035> Magnifique.
+<0036> C'est donc ça, le soin.
+<0037> Oh.
+<0038> Qu'est-ce que...
+<0039> Déjà l'heure de la promenade ?
+<0040> Bwouuhh !
+<0041> Je crains que ça soit de la maltraitance animale.
+<0042> Tu ne me trouves pas adorable ?
+<0043> Un crime atroce et impardonnable.
+<0044> Hnnn...
+<0045> J'aimerais voir ce que tu vaux.
+<0046> Permets-moi d'attaquer en premier.
+<0047> Je vais agir en premier.
+<0048> Mes griffes sont bien plus coupantes que tu le crois.
+<0049> C'est courageux, je dois l'admettre.
+<0050> Je savais que tu viendrais tôt ou tard.
+<0051> J'accepte ton défi.
+<0052> Hmuuu ?
+<0053> Ouaf !
+<0054> Grrrrr !
+<0055> Goûte à mes griffes !
+<0056> Ma beauté cache ma férocité.
+<0057> Grh !
+<0058> Impossible !
+<0059> Ngh.
+<0060> Cesse immédiatement !
+<0061> Comment peux-tu lever la main\nsur quelqu'un d'aussi beau ?
+<0062> Ça t'amuse de faire du mal aux animaux ?
+<0063> Guhah !
+<0064> C'est douloureux.
+<0065> Rien d'affolant.
+<0066> Je suis bien trop rapide pour toi.
+<0067> Quelle lenteur.
+<0068> Hmpf.
+<0069> Et un conflit de résolu.
+<0070> Tu viens de perdre ton peu de grâce.
+<0071> Ne fonce pas tête baissée\ndans un combat perdu d'avance.
+<0072> Comment ? C'est tout ?
+<0073> Aouuuh...
+<0074> Tu n'as vraiment aucune pitié.
+<0075> C'en est fini de moi, je le crains.
+<0076> Qu'est-ce que tu viens de faire....?
+<0077> Je ne peux refuser un pourboire.
+<0078> Elles brillent joliment.
+<0079> Sublime.
+<0080> Je vais les garder avec moi.
+<0081> Tu oses voler mon bien ?
+<0082> Mon dieu...
+<0083> Je vais devoir redoubler d'attention.
+<0084> Que... comment est-ce possible...?
+<0085> J'étais imprudent...!
+<0086> Cet endroit cache un trésor... non, un piège !!
+<0087> Hé, je ne suis pas une bête sauvage !
+<0088> J'ai fait une erreur !!
+<0089> Je peux sentir le danger.
+<0090> Hmm, un adversaire de taille.
+<0091> Ma douceur ne suffira pas contre cet adversaire.
+<0092> Je sens quelque chose...
+<0093> Je pense que cette option vaut mieux.
+<0094> Je devrais pouvoir mieux profiter de mes talents ainsi.
+<0095> Celle-là me parle plus.
+<0096> Un raccourci vers la victoire.
+<0097> Je vais enfin révéler ma nature sauvage.
+<0098> Les animaux mignons cachent bien leurs griffes.
+<0099> Mes griffes sont aiguisées.
+<0100> Je me battrai autant que possible.
+<0101> C'est moi, Poméranius.
+<0102> Essaies-tu de profiter de mes services ?
+<0103> Attention, mes services coûtent cher.
+<0104> Je vais faire ça à la perfection.
+<0105> Commençons, voulez-vous ?
+<0106> C'est fort intéressant.
+<0107> Nous gagnerons, parole d'honneur.
+<0108> Je te prie de me ménager.
+<0109> Une victoire bien méritée.
+<0110> La victoire me revient.
+<0111> Cet instant me tient à cœur.
+<0112> Je dois le reconnaître, c'était amusant.
+<0113> Je t'ai trouvé un petit quelque chose.
+<0114> Pourquoi ne pas y jeter un œil ensemble ?
+<0115> C'est ce que tu voulais ?
+<0116> Tu as l'air satisfait, tu m'en vois ravi.
+<0117> Échangeons donc.
+<0118> J'aurais besoin d'un coup de main.
+<0119> Et je disparais.
+<0120> J'ai confiance en toi.
+<0121> D'accord.
+<0122> Hmm, intéressant.
+<0123> Oui.
+<0124> Veuillez cesser.
+<0125> Hmuu...
+<0126> La chance me sourit fièrement.
+<0127> Que diable...?
+<0128> Allons-y.
+<0129> Ouaf !
+<0130> Je te souhaite bonne chance.
+<0131> Salutations.
+<0132> Hm.
+<0133> Bien.
+<0134> Excellent.
+<0135> Qu'est-ce que...
+<0136> Voilà qui est prometteur.
+<0137> Je n'ai jamais rien vu de tel.
+<0138> Alors, que diriez-vous de ceci ?
+<0139> Je suis capable de tout.
+<0140> Mes remerciements.
+<0141> Si telle est la volonté de Mademoiselle.
+<0142> Si Mademoiselle le veut bien.
+<0143> C'était magistral, Mademoiselle. J'ai failli y passer.
+<0144> Bravo, Mademoiselle.
+<0145> C'est ça, l'amour...
+<0146> Attention, Mademoiselle.
+<0147> Non... comment ai-je pu ?
+<0148> Mes félicitations, Mademoiselle.
+<0149> Je dédie cette victoire à Mademoiselle.
+<0150> Petite sotte.
+<0151> Pour qui tu te prends ?
+<0152> Échouer est ton plus grand talent.
+<0153> Comment ai-je échoué contre cette petite sotte...
+<0154> Un chien... un humain... qu'es-tu, en fin de compte ?
+<0155> Un monstre mi-humain mi-chien !?
+<0156> Un mi-chien ne dépassera jamais un chien complet.
+<0157> Voilà qui me fait douter de ma nature canine...
+<0158> Tu es vraiment adorable.
+<0159> On va passer du temps ensemble, toi et moi.
+<0160> Regardez combien mon animal est mignon.

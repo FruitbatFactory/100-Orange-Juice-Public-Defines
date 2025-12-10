@@ -1,0 +1,8 @@
+< ERROR_CAPTION >
+Erreur
+
+< ERROR_SAVE_TOO_NEW >
+Votre sauvegarde semble dater d'une version plus récente que votre copie du jeu. Veuillez mettre le jeu à jour pour continuer à jouer.
+
+[EOF]
+

@@ -109,3 +109,23 @@ descr=필드에 버섯이 나타난다.
 < MIXER_BANKRUPT >
 name=도산
 descr=카드 코스트가 10스타 증가한다.
+
+< MIXER_WILDFRIENDS >
+name=야생 친구들
+descr=모든 플레이어가 소환 유닛을 가지고 시작한다.
+
+< MIXER_CARDSHARK >
+name=카드쟁이
+descr=플레이어들이 레벨 요구치를 무시하고 카드를 낼 수 있다.
+
+< MIXER_SPEEDY_BOSS >
+name=재빠른 보스
+descr=보스가 이동력 +1을 얻는다.
+
+< MIXER_UBI_BOSS >
+name=여기저기 보스
+descr=플레이어가 보스 또는 공포 패널에 멈추면 보스가 그 플레이어의 패널로 워프한다.
+
+< MIXER_AMBUSH >
+name=기습
+descr=보스가 원래보다 한 레벨 더 높은 카드 한 장을 가지고 시작한다.

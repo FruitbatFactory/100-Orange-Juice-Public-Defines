@@ -99,7 +99,7 @@
 <0098> Based on the current scenario, battle it is!
 <0099> Alright, let's do some hand-to-hand combat.
 <0100> You know what I like? Taking aggressive approaches.
-<0101> 100% OJ Club, let's go!
+<0101> 100% OJ club, let's go!
 <0102> Let me show you how well I play OJ.
 <0103> Sure, let's play.
 <0104> I can't wait to show off.
@@ -107,7 +107,7 @@
 <0106> I'll be the winner of the day.
 <0107> Heheheh, I have a feeling that I'll come out on top.
 <0108> Alright, I'm bringing a whirlwind of chaos to the board.
-<0109> Yes!!!!! This is the strength of the 100% OJ Club!
+<0109> Yes!!!!! This is the strength of the 100% OJ club!
 <0110> What a tight match. That was fun!
 <0111> Nothing's better than winning.
 <0112> Poyo wins!!! Poyo wins!!!

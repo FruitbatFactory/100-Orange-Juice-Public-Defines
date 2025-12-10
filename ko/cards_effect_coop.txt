@@ -302,4 +302,64 @@ descr=이번 턴에 도착하는 패널을 더블 드로우 패널로 취급한�
 name=지적인 블러핑
 descr=누군가가 그 타입의 카드를 내면 카드 한 장을 뽑는다.
 
+< CARD_COOP_REINFORCE_EFFECT >
+name=지원받음
+descr=도전을 받으면 이 효과를 부여한 플레이어가 당신 먼저 도전자와 배틀한다. 부여자가 지원 배틀에서 살아남으면 공격력, 방어력, 회피력 +1을 얻는다. 부여자가 KO되면, 공격력 +1을 얻는다.
+
+< CARD_COOP_REINFORCE_PENALTY_EFFECT >
+name=지원 중
+descr=다른 플레이어를 지원 중인 동안 이동력 -1을 얻는다. 추가로, 지원 전투에서 공격력, 방어력, 회피력 +1을 얻는다.
+
+< CARD_COOP_CLEANSING_AURA_EFFECT >
+name=정화의 오라
+descr=다음번에 보스나 부하가 부여하는 효과에 면역이 된다.
+
+< CARD_COOP_PAY_ATTENTION_EFFECT >
+name=주목
+descr=홈 패널에 멈추려고 할 때 대신 보스가 있는 패널로 워프한다.
+
+< CARD_COOP_BRUTAL_TRAPS_EFFECT >
+name=잔혹한 함정
+descr=트랩을 발동할 때 패를 모두 버린다.
+
+< CARD_COOP_BACKDOOR_SCHEME_EFFECT >
+name=뒷공작
+descr=HP가 1이 되면 레벨 x10만큼의 스타를 잃는다. 효과는 KO 시 만료된다.
+
+< CARD_COOP_WARUDA_MACHINE_EFFECT >
+name=와루다 머신
+descr=상대의 패 장수에 두 배만큼 공격력과 방어력을 얻고 회피력을 잃는다.
+
+< CARD_COOP_HMM_EFFECT >
+name=흠...
+descr=직접 피해를 주는 다음 능력이 보스 레벨만큼의 피해를 더 준다.
+
+< CARD_COOP_SNEAKILY_EFFECT >
+name=살금살금
+descr=도전받지 않는다. 적에게 도전할 때 공격력 +2를 얻는다.
+
+< CARD_COOP_BOSS_PRISON_BREAK_EFFECT >
+name=탈옥
+descr=회피력 +2를 얻는다. 이 효과가 끝날 때까지 도전받지 않으면 공격력과 방어력 +1을 영구히 얻는다.
+
+< CARD_COOP_BOSS_FREE_BIRD_EFFECT >
+name=자유를 찾다
+descr=공격력과 방어력 +1을 얻는다.
+
+< CARD_COOP_BREAKER_ENRAGE_EFFECT >
+name=브레이커의 분노
+descr=공격력 +1을 얻고 모든 피해 효과가 피해를 1점 더 입힌다.
+
+< CARD_COOP_BUILDER_ENRAGE_EFFECT >
+name=빌더의 분노
+descr=공격력과 이동력 +1을 얻는다.
+
+< CARD_COOP_BUSTER_ENRAGE_EFFECT >
+name=버스터의 분노
+descr=매 턴 카드를 추가로 한 장 더 뽑고 발동한다.
+
+< CARD_COOP_HIGH_ALERT_EFFECT >
+name=곤두선 경계
+descr=방어력 +1을 얻는다. 이 효과는 KO된 동료가 있는 동안 유효하다.
+
 [EOF]

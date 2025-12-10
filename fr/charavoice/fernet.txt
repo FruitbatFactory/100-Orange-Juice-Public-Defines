@@ -1,0 +1,165 @@
+<0000> Comme ça.
+<0001> J'avance.
+<0002> Allons-y.
+<0003> Hmph.
+<0004> J'utilise cette carte.
+<0005> J'invoque cette carte.
+<0006> Celle-ci, peut-être ?
+<0007> Qu'est-ce que ça donne ?
+<0008> Je pose ça ici.
+<0009> Ici, c'est bien ?
+<0010> Je pose cette carte juste là.
+<0011> Dépêchez-vous de l'activer.
+<0012> Je n'ai qu'à utiliser cette carte.
+<0013> Mon atout.
+<0014> Surprise.
+<0015> Tiens, j'ai ça.
+<0016> Hmph, à genoux, vous tous.
+<0017> Je peux reprendre ?
+<0018> Seigneur.
+<0019> Continuons.
+<0020> J'ai horreur d'attendre.
+<0021> Ce sont des choses qui arrivent.
+<0022> Soit, pas de problème.
+<0023> Peu importe.
+<0024> Je m'en moque.
+<0025> Attention !
+<0026> Tiens, c'est cadeau.
+<0027> Ça va faire mal !
+<0028> Reste à ta place !
+<0029> Aïe !
+<0030> Espèce de...!
+<0031> Comment oses-tu ?
+<0032> Kyaa !!
+<0033> Quel soulagement.
+<0034> C'est mieux.
+<0035> Pfiou.
+<0036> C'est bien agréable.
+<0037> Comment ? Que se passe-t-il ?
+<0038> A-attendez un peu !
+<0039> O-o-où est-ce qu'on m'emmène ?
+<0040> Je demande une escorte !
+<0041> Impossible.
+<0042> J'ai manqué de prudence.
+<0043> Mon dieu.
+<0044> Qu'est-ce que tu m'as fait ?!
+<0045> Prépare-toi.
+<0046> Hors de mon chemin.
+<0047> Dégage de là.
+<0048> Je te défie.
+<0049> Je serai sans pitié.
+<0050> Je suis prête.
+<0051> Tu as du cran.
+<0052> Tu vas regretter de m'avoir défiée.
+<0053> À genoux !
+<0054> Prends ça, veux-tu ?
+<0055> Attention !
+<0056> J'attaque !
+<0057> Gah !
+<0058> Ngh !
+<0059> Insuffisant.
+<0060> Ça fait mal.
+<0061> Arrête ça !
+<0062> Hé, stop !
+<0063> Hé, ça fait mal !
+<0064> Gaah !
+<0065> Trop mou.
+<0066> Tu es bien loin du compte.
+<0067> C'est tout ?
+<0068> Rien de bien méchant.
+<0069> Bien entendu.
+<0070> J'en suis navrée.
+<0071> C'est déjà fini ?
+<0072> Ce fut un plaisir.
+<0073> Je m'en souviendrai.
+<0074> C'est... pas un problème.
+<0075> Comment oses-tu ?
+<0076> Ha... hahahaha.
+<0077> Je me sers.
+<0078> Un beau cadeau.
+<0079> Merci beaucoup.
+<0080> Tout ce que je voulais.
+<0081> Une bagatelle.
+<0082> Hmph.
+<0083> Fufu.
+<0084> Tant que ça ? Vraiment ?
+<0085> Oh non !
+<0086> Qu'est-ce que...?
+<0087> Grrr...!
+<0088> Qui a fait ça ?!
+<0089> Tu crois vraiment m'intimider ?
+<0090> Oh, voilà un gros morceau.
+<0091> ...C'est immense.
+<0092> Tu ne me fais pas peur.
+<0093> Je pars chercher des étoiles.
+<0094> Soit, je pars en chercher dès que possible.
+<0095> Je crains que ça fasse beaucoup.
+<0096> J'ai le droit d'en voler, non ?
+<0097> Je n'aime pas la violence gratuite, mais...
+<0098> Je n'y vois aucune différence.
+<0099> Pourquoi se retenir de combattre ?
+<0100> Hihihi... ça devient intéressant.
+<0101> Sage décision.
+<0102> Je suis prête.
+<0103> Oh, salutations.
+<0104> M-moi ?
+<0105> Allons-y.
+<0106> Que la partie commence.
+<0107> De mieux en mieux.
+<0108> Je vais m'amuser.
+<0109> Bien évidemment.
+<0110> Ce n'était rien de bien méchant.
+<0111> Est-ce enfin terminé ?
+<0112> J-je... aurais-je gagné ?
+<0113> Une nouvelle acquisition.
+<0114> Pas mauvais.
+<0115> Devrais-je l'essayer ?
+<0116> Oh, splendide.
+<0117> Je te laisse t'occuper du reste.
+<0118> À toi de jouer, maintenant.
+<0119> Tu n'as pas intérêt à te rater.
+<0120> Je dois me reposer un peu.
+<0121> Entendu.
+<0122> Très bien.
+<0123> Oui.
+<0124> Non.
+<0125> Qu'est-ce que c'est que ça ?
+<0126> Bon.
+<0127> Qu'est-ce que c'est ?
+<0128> Hâtons-nous.
+<0129> Qu'est-ce que ça donne ?
+<0130> J'y vais.
+<0131> Salutations.
+<0132> Grrr...
+<0133> Très bien.
+<0134> Fantastique !
+<0135> Hmph.
+<0136> Je me permets de l'utiliser.
+<0137> Puis-je l'emprunter ?
+<0138> Une carte fascinante !
+<0139> Hm, pas mauvais.
+<0140> Hmph ! M-merci...?
+<0141> Salutations.
+<0142> Tu n'es pas une pilote, lâche l'affaire.
+<0143> Comment oses-tu !?
+<0144> Cette jupe est un peu courte, non ?
+<0145> Veuillez cesser d'utiliser ce dialecte insensé.
+<0146> Rentre chez toi, jeune fille.
+<0147> Les pilotes sont tous des imbéciles, ma parole !
+<0148> Vous êtes une pilote, vous aussi... n'est-ce pas ?
+<0149> ...Ouah.
+<0150> Quelle vulgarité...
+<0151> Espèce de pervers.
+<0152> Hum... je ne vois personne ?
+<0153> Un goût si peu raffiné...
+<0154> J'ai... j'ai perdu face à cette bestiole !?
+<0155> Je voudrais le même dans ma chambre.
+<0156> Ce n'était qu'une source d'ennuis.
+<0157> Pourquoi construire quelque chose d'aussi futile ?
+<0158> Je ne suis pas fâchée, d'accord ?
+<0159> Quelle carte indécente !
+<0160> Je vais avoir besoin de ton aide !
+<0161> Oh non... ce monstre a sali ma robe !
+<0162> Le thé est servi, je suis certaine qu'on va s'amu- AAAH !
+<0163> Sa présence ne cesse de m'intimider...
+<0164> Quelle classe...

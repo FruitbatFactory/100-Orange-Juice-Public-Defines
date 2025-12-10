@@ -1,0 +1,25 @@
+< SUMMER2020_A_CAST >
+name=Pêche
+descr=Envoie votre hameçon. Recharge : 2 secondes. Vous ne pouvez pas utiliser d'autres capacités tant que celle-ci recharge.
+
+< SUMMER2020_A_SIRENSIGHT >
+name=Œil de Sirène
+descr=Vous voyez au travers de l'eau, révélant ainsi les poissons et les déchets. Durée : 10 secondes. Recharge : 30 secondes.
+
+< SUMMER2020_A_IMPROVEDHOOK >
+name=Hameçon Deluxe
+descr=Votre hameçon plonge 50% plus vite. Durée : 15 secondes. Recharge : 45 secondes.
+
+< SUMMER2020_A_TREASURE >
+name=Trésor de la Mer
+descr=Votre prochaine prise rapporte le double de sa valeur initiale. Usage unique.
+
+< SUMMER2020_A_BLESSING >
+name=Rivière d'Eau Bénite
+descr=Les poissons se déplacent 25% plus vite. Vous ne pourrez qu'utiliser Pêche pendant que l'effet est actif. Peut se cumuler. Durée : 10 secondes. Recharge : 20 secondes.
+
+< SUMMER2020_A_MASTERY >
+name=Maître de la Pêche
+descr=Rechage automatiquement toutes les capacités, à part Pêche. Usage unique.
+
+[EOF]

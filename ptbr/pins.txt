@@ -6,22 +6,22 @@ artist=
 < PIN_FLYING_SUGURI >
 name=Suguri Voadora
 desc=Entregue a jogadores que jogaram bastante de Suguri.\nEla irá sempre fazer rasantes pelos céus!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KAI >
 name=Kai Voador
 desc=Entregue a jogadores que jogaram bastante de Kai.\nSerá que um dia ele terá sua carteira de volta?
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_QP >
 name=QP Voadora
 desc=Entregue a jogadores que jogaram bastante de QP.\nSempre tendo um pouco de Pudim.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MARC >
 name=Marc Voadora
 desc=Entregue a jogadores que jogaram bastante de Marc.\nNunca saindo sem seu foguete.
-artist=Sora
+artist=Azurée
 
 < PIN_FACTORY >
 name=Fábrica de Laranjas
@@ -41,259 +41,304 @@ artist=
 < PIN_FLYING_HIME >
 name=Hime Voadora
 desc=Entregue a jogadores que jogaram bastante de Hime.\nNão subestime as correntes da Guardiã.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_FERNET >
 name=Fernet Voadora
 desc=Entregue a jogadores que jogaram bastante de Fernet.\nVocê gostaria de uma xícara de chá?
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_YUKI >
 name=Yuki Voadora
 desc=Entregue a jogadores que jogaram bastante de Yuki.\nQue tal apostarmos nossas vidas?
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_POPPO >
 name=Poppo Voadora
 desc=Entregue a jogadores que jogaram bastante de Poppo.\nProva de um conhecimento profundo do jogo.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ARU >
 name=Aru Voadora
 desc=Entregue a jogadores que jogaram bastante de Aru.\nA caminho de entregar os presentes!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SORA >
 name=Sora Voadora
 desc=Entregue a jogadores que jogaram bastante de Sora.\nEla lutou bastante para ver o céu azul novamente...
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_PEAT >
 name=Peat Voador
 desc=Entregue a jogadores que jogaram bastante de Peat.\nPossivelmente ainda tentando derrotar Barril Vermelho.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TOMOMO >
 name=Tomomo Voadora
 desc=Entregue a jogadores que jogaram bastante de Tomomo.\nVerdadeiramente Mágica.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SYURA >
 name=Syura Voadora
 desc=Entregue a jogadores que jogaram bastante de Syura.\nEla pode ser Além de Fofa também.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_NANAKO >
 name=Nanako Voadora
 desc=Entregue a jogadores que jogaram bastante de Nanako.\nNão a chame de baixinha!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SAKI >
 name=Saki Voadora
 desc=Entregue a jogadores que jogaram bastante de Saki.\nVocê gostaria de um docinho?
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KYOUSUKE >
 name=Kyousuke Voador
 desc=Entregue a jogadores que jogaram bastante de Kyousuke.\nEm busca de um certo alguém especial.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KRILA >
 name=Krilalaris Voadora
 desc=Entregue a jogadores que jogaram bastante de Krilalaris.\nVoando até a Escuridão eterna.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KAE >
 name=Kae Voadora
 desc=Entregue a jogadores que jogaram bastante de Kae.\nSempre tendo Calor 300% em seu baralho.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ALTE >
 name=Alte Voadora
 desc=Entregue a jogadores que jogaram bastante de Alte.\nEste broche não vai se auto-destruir após uso.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KYOKO >
 name=Kyoko Voadora
 desc=Entregue a jogadores que jogaram bastante de Kyoko.\nFique frio!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SHAM >
 name=Sham Voadora
 desc=Entregue a jogadores que jogaram bastante de Sham.\nA Operadora mais fofa!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SHERRY >
 name=Sherry Voadora
 desc=Entregue a jogadores que jogaram bastante de Sherry.\nVoando livremente.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SWEETBREAKER >
 name=Sweet Breaker Voadora
 desc=Entregue a jogadores que jogaram bastante de Sweet Breaker.\nNo progresso de derreter memórias!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_STARBREAKER >
 name=Star Breaker Voadora
 desc=Entregue a jogadores que jogaram bastante de Star Breaker.\nCuidado com as explosões.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_NATH >
 name=Nath Voadora
 desc=Entregue a jogadores que jogaram bastante de Nath.\nNada melhor que uma vida preguiçosa...
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TOMATOMIMYUU >
 name=Tomato & Mimyuu Voadoras
 desc=Entregue a jogadores que jogaram bastante de Tomato & Mimyuu.\nAs melhores trapaceiras!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KIRIKO >
 name=Kiriko Voadora
 desc=Entregue a jogadores que jogaram bastante de Kiriko.\nÉ melhor manter-se saudável.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_NONAME >
 name=NoName Voador
 desc=Entregue a jogadores que jogaram bastante de NoName.\nNão perca sua cabeça!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TEQUILA >
 name=Tequila Voador
 desc=Entregue a jogadores que jogaram bastante de Tequila.\nO pirata que você foi feito para ser!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TSIH >
 name=Tsih Voadora
 desc=Entregue a jogadores que jogaram bastante de Tsih.\nNão a perca de vista!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MIUSAKI >
 name=Miusaki Voadora
 desc=Entregue a jogadores que jogaram bastante de Miusaki.\nEste broche também não pode ser quebrado.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_REPA >
 name=Ceoreparque Voadora
 desc=Entregue a jogadores que jogaram bastante de Ceoreparque.\nCuidado com o cabelo andarilho!
-artist=Sora
+artist=Azurée
 
 < PIN_IDLE_MEI >
 name=Mei Parada
 desc=Entregue a jogadores que jogaram bastante de Mei.\nVamos fazer barulho!
-artist=Sora
+artist=Azurée
 
 < PIN_IDLE_NATSUMI >
 name=Natsumi Parada
 desc=Entregue a jogadores que jogaram bastante de Natsumi.\nVocê gostaria de vir jantar?
-artist=Sora
+artist=Azurée
 
 < PIN_IDLE_ARTHUR >
 name=Arthur Parado
 desc=Entregue a jogadores que jogaram bastante de Arthur.\nObrigado pela compra!
-artist=Sora
+artist=Azurée
 
 < PIN_IDLE_NICO >
 name=Nico Parada
 desc=Entregue a jogadores que jogaram bastante de Nico.\nEla vai sempre tentar seu melhor!
-artist=Sora
+artist=Azurée
 
 < PIN_IDLE_CUTIES >
 name=Fofuras Paradas
 desc=Entregue a jogadores que jogaram bastante de Fofuras.\nUma carreira no palco as espera!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_IRU >
 name=Iru Voadora
 desc=Entregue a jogadores que jogaram bastante de Iru.\nQue tal um pouco de exercício?
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MIRA >
 name=Mira Voadora
 desc=Entregue a jogadores que jogaram bastante de Mira.\nEste broche é a marca de um herói.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_YUUKI >
 name=Yuuki Voadora
 desc=Entregue a jogadores que jogaram bastante de Yuuki. Ora ora ora ora!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ISLAY >
 name=Islay Voadora
 desc=Entregue a jogadores que jogaram bastante de Islay. Voando graciosamente.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SUGURI46 >
 name=Suguri (46 Bilhões de Anos) Voadora
 desc=Entregue a jogadores que jogaram bastante de Suguri (46 Bilhões de Anos)./nEla aplicou 2x de fofura a este broche.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_SUMIKA >
 name=Sumika Voadora
 desc=Entregue a jogadores que jogaram bastante de Sumika./nEste broche da Sumika é a Sumika.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MIO >
 name=Mio Voadora
 desc=Entregue a jogadores que jogaram bastante de Mio./nA vida (e morte) de qualquer festa que ela estraga.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_LULU >
 name=Lulu Voadora
 desc=Entregue a jogadores que jogaram bastante de Lulu./nVamos continuar jogando juntos no futuro!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ELLIE >
 name=Ellie Voadora
 desc=Entregue a jogadores que jogaram bastante de Ellie./nEstá na hora de uma aventura!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ALICIANRONE >
 name=Alicianrone Voadora
 desc=Entregue a jogadores que jogaram bastante de Alicianrone./nA bruxa mais rápida deste lado da floresta!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_TEOTORATTA >
 name=Teotoratta Voadora
 desc=Entregue a jogadores que jogaram bastante de Teotoratta./nUm amigo em uma besta é de fato um amigo.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_ARNELLE >
 name=Arnelle Voadora
 desc=Entregue a jogadores que jogaram bastante de Arnelle.\nTalvez o verdadeiro tesouro são os amigos que fizemos no caminho?
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MAYNIE >
 name=Maynie Voadora
 desc=Entregue a jogadores que jogaram bastante de Maynie.\nOlhe dentro de seus olhos de coloração estranha, e ignore o punho vindo em sua direção...
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_HALENA >
 name=Halena Voadora
 desc=Entregue a jogadores que jogaram bastante de Halena.\nEste broche irá sempre te guiar para o lobby correto.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_COOK >
 name=Cook Voadora
 desc=Entregue a jogadores que jogaram bastante de Cook.\nNem mesmo este broche poderia ser considerado uma galinha.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_LONERIDER >
 name=Cavaleiro Solitário Voador
 desc=Entregue a jogadores que jogaram bastante de Cavaleiro Solitário.\nNão mais cavalgando tão solitariamente.
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_MERCHANT >
 name=Mercador Voador
 desc=Entregue a jogadores que jogaram bastante de Mercador.\nÉ claro que você vai comprar este broche, você vai sim!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_CHRIS >
 name=Chris Voadora
 desc=Entregue a jogadores que jogaram bastante de Chris.\nVotada como a melhor garçonete do ano, todos os anos!
-artist=Sora
+artist=Azurée
 
 < PIN_FLYING_KYUPITA >
 name=Kyupita Voador
 desc=Entregue a jogadores que jogaram bastante de Kyupita.\nEste é o broche cheio de paixão ardente da juventude.
-artist=Sora
+artist=Azurée
+
+< PIN_FLYING_SWEETCREATOR >
+name=Flying Sweet Creator
+desc=Entregue a jogadores que jogaram bastante de Sweet Creator. Cuidado com o efeito borboleta!
+artist=Azurée
+
+< PIN_FLYING_SWEETMAKER >
+name=Flying Sweet Maker
+desc=Entregue a jogadores que jogaram bastante de Sweet Maker. Doces fazem o mundo girar!
+artist=Azurée
+
+< PIN_FLYING_SWEETBLOGGER >
+name=Flying Sweet Blogger
+desc=Entregue a jogadores que jogaram bastante de Sweet Blogger. Vamos achar mais doces ótimos hoje!
+artist=Azurée
+
+< PIN_FLYING_REIKA >
+name=Flying Reika
+desc=Entregue a jogadores que jogaram bastante de Reika. É outro dia pacífico no mundo.
+artist=Azurée
+
+< PIN_FLYING_MALT >
+name=Flying Malt
+desc=Entregue a jogadores que jogaram bastante de Malt. Um brinde a um novo mundo!
+artist=Azurée
+
+< PIN_FLYING_SHIFU >
+name=Flying Shifu
+desc=Entregue a jogadores que jogaram bastante de Shifu. Sempre em busca de um mundo perfeito.
+artist=Azurée
+
+< PIN_FLYING_MESCAL >
+name=Flying Mescal
+desc=Entregue a jogadores que jogaram bastante de Mescal. O que vamos jogar hoje?
+artist=Azurée
+
+< PIN_FLYING_WATTY >
+name=Flying Watty
+desc=Entregue a jogadores que jogaram bastante de Watty. D-Desculpa se eu acidentalmente te nocautear...
+artist=Azurée
+
+< PIN_FLYING_POM >
+name=Flying Pomeranius
+desc=Entregue a jogadores que jogaram bastante de Pomeranius. Ele é um bom garoto. 
+artist=Coffgirl

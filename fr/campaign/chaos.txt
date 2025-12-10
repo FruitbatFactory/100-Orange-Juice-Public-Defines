@@ -1,0 +1,21 @@
+
+// ========= Scene: Chaos Event Start =========
+
+<0000> C'était un jour bien ennuyeux...
+
+// (poppo)
+<0001> Pomu.... Poppo s'ennuie.
+
+// (poppo)
+<0002> Poppo !
+
+// (poppo)
+<0003> Poppo ?
+
+// (poppo)
+<0004> Le chaos... Poppo !!!
+
+// (poppo)
+<0005> Po ! Le chaos ! Poppo !
+
+<0006> ...Puis d'un coup, ce n'était plus un jour bien ennuyeux.

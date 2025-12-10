@@ -1,0 +1,5 @@
+< CARD_COOP_GUIDANCE_EFFECT >
+name=Girouette
+descr=Jetez 2 dés à chaque action hors-combat. L'effet prend fin lorsque vous vous arrêtez sur votre propre Maison ou changez de place avec votre partenaire. Vous ne pouvez pas valider votre Quota sur les Maisons des autres joueurs.
+
+[EOF]

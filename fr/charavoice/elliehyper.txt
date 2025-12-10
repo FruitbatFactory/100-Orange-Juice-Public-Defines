@@ -1,0 +1,162 @@
+<0000> Eey !
+<0001> Orya !
+<0002> Yah !
+<0003> Vas-y !
+<0004> J'utilise celle-là ♥
+<0005> J'vais y aller à fond ♥
+<0006> Je compte pas me retenir !
+<0007> J'vais faire un carnage ♥
+<0008> Hihihi, c'est marrant.
+<0009> Personne ne verra que c'est là ♥
+<0010> Qui va se le prendre ? On va bien voir !
+<0011> Héhéhé, en voilà, un piège génial !
+<0012> Je me sens encore plus forte ♥
+<0013> Je suis complètement inarrêtable ♥
+<0014> J'vais y aller au maximum ♥
+<0015> Je suis invincible !
+<0016> Plus rien peut m'arrêter !!
+<0017> Vous pensiez vraiment que j'étais vaincue !?
+<0018> J'vais y aller encore plus fort !
+<0019> Pas question de perdre !
+<0020> Finie, la pause !
+<0021> Heein ? Pourquoi ?
+<0022> J'veux me relever, moi !
+<0023> Hein, comment ça !?
+<0024> Maaais ! J'ai pas fini de jouer, oh !
+<0025> Boum !
+<0026> Oryaaaah !
+<0027> Haaaaah !
+<0028> Ahaaa !!
+<0029> Ça fait mal !
+<0030> Hé, ça fait super mal !
+<0031> Me touche pas !
+<0032> Argh...!
+<0033> J'me sens mille fois mieux, d'un coup ♥
+<0034> Ahaa ! Jamais senti mieux !
+<0035> Je suis au top de ma forme !
+<0036> J'suis prête à y retourner, maintenant ! Ahaa !
+<0037> Ouah ! Keskispasse !?
+<0038> Waouh !
+<0039> Rah, je déteste les portails !
+<0040> On peut me dire où je suis !?
+<0041> C-comment...? Je suis censée être invincible...
+<0042> Ahaa... J'me suis un peu emportée, je crois.
+<0043> Rah, j'crois que j'ai fait une erreur.
+<0044> Raah ! Et zut !
+<0045> J'suis comme un train qui peut plus s'arrêter !
+<0046> Ahaa, j'ai trouvé une proie ♥
+<0047> Ahaa ♥ J'espère que tu t'es préparé !
+<0048> Hihihi, enfin quelqu'un pour jouer avec moi !
+<0049> Bouge-toi de là ou je vais te cogner !
+<0050> Chaipas si t'es au courant, mais rien ne m'arrête !
+<0051> Ahaa ! T'aurais jamais dû me défier !
+<0052> Hein, tu te crois vraiment à ma hauteur ?
+<0053> J'vais te détruire !
+<0054> J'vais te couper en rondelles !
+<0055> Ahaa ! Trop génial !
+<0056> Aha ! J'vais te cogner !
+<0057> Gueh !
+<0058> Guah !
+<0059> Huaah !
+<0060> Raaah !
+<0061> Gyuahh !
+<0062> Agyaaah !!
+<0063> Uwaaaah !
+<0064> Ça fait super-trop mal !
+<0065> Beaucoup trop lent !
+<0066> Tu visais qui, là ? Ahaa !
+<0067> Minable !
+<0068> Trop facile !
+<0069> J'ai réussi !
+<0070> C'était perdu d'avance, nullos !
+<0071> Ahaa ! C'est trop marrant !
+<0072> Nullos ! Nullooooos !
+<0073> J'étais censée... être la plus forte !
+<0074> C'est pas possible...!
+<0075> J'peux pas y croire...
+<0076> Guhh... C'est horrible.
+<0077> Youpi ! Trop bien !
+<0078> Génial, génial, trop génial ♥
+<0079> J'ai tellement trop de chance !
+<0080> Ahaa, j'adore les étoiles !
+<0081> Hé oh, hé ! Je refuse, je refuuuse !
+<0082> Agyaaah ! Pas mes étoiles !!
+<0083> C'est trop horrible ! J'vais devenir folle !
+<0084> Mes... mes étoiles !
+<0085> Raaah ! C'est impardonnable !
+<0086> Je déteste les pièges !
+<0087> Qui peut poser un piège là !? C'est pas juste !
+<0088> Grrr ! C'est trop méchant !
+<0089> Oh, va falloir que j'utilise un peu de mes pouvoirs !
+<0090> Même toi, tu peux plus me vaincre, gros machin !
+<0091> T'as l'air costaud... mais tu me fais pas peur !
+<0092> Hmm, ok, t'as l'air plutôt balèze.
+<0093> Avec mes pouvoirs, j'vais me trouver tout plein d'étoiles !
+<0094> Héhéhé, je voudrais nager dans une mer d'étoiles...
+<0095> Ahaa ! J'vais me faire une montagne d'étoiles !
+<0096> Hmm... Plus y'a d'étoiles, mieux c'est.
+<0097> J'vais me déchaîner et tabasser tout le monde !
+<0098> Ahaa ! J'peux plus contenir ma puissance !
+<0099> J'pars à la chasse ! Ahaaaa !!!!
+<0100> C'est à moi de briller, alors z'avez pas intérêt à me gêner !
+<0101> Tu veux jouer avec moi ? Hmm... d'ac' ♥
+<0102> Tellement envie de jouer, là, d'un coup !
+<0103> Ahaa ! On va bien se marrer !
+<0104> Héhéhéhé, j'peux même plus retenir mes pouvoirs !
+<0105> Bon, avec qui j'vais jouer, moi ?
+<0106> J'vais tous vous tabasser !
+<0107> Vous allez voir à quel point je suis la meilleure !
+<0108> Ahaa !! J'vais me déchaîner\ncomme on s'est jamais déchaîné !
+<0109> Hah, ça fait trop de bien ♥
+<0110> Qui a dit que j'allais perdre ♥
+<0111> Ahaa, j'aime trop me voir en haut du podium...
+<0112> Hihihi, je me suis super-amusée.
+<0113> C'est quoi ?
+<0114> Ouah, trop bien !
+<0115> Hé, qu'est-ce que t'as eu ? Ooh !
+<0116> C'est grâce à moi qu'on a trouvé ça ! Tu m'en dois une.
+<0117> C'est à toi de briller, maintenant !
+<0118> J'vais quand même pas m'accaparer toute l'attention !
+<0119> Il était temps, quand même...
+<0120> Bien sûr que tu peux prendre ma place ♥
+<0121> Ok ♥
+<0122> Ahaa, génial.
+<0123> D'ac' ♥
+<0124> Non ♥
+<0125> Euhh... pourquoi...?
+<0126> T'en as de la chance ! Hihi !
+<0127> Ueh ?
+<0128> Lesgo !! Ahaa !
+<0129> Let's roll !!
+<0130> On y va ♥ On y va ♥
+<0131> Youhou.
+<0132> Hmmm...
+<0133> Génial ♥
+<0134> Super-giga-cool !
+<0135> Gunyuuu...
+<0136> Même sans cette carte, je suis invincible...
+<0137> C'est quoi, ça ? Je sais même pas !
+<0138> Héhéhé, ça va être marrant.
+<0139> On va voir ce que ça vaut ♥
+<0140> Merci !
+<0141> Lulu ! Viens qu'on joue ensemble ♥
+<0142> Tu veux jouer avec moi, Lulu ? Ok !
+<0143> C'était super génial, Lulu ♥
+<0144> Ahaa, c'est trop bien que tu sois hyper-forte comme ça...
+<0145> Avec Lulu, plus rien peut m'arrêter !
+<0146> Lulu, on va rester ensemble pour toute la vie !
+<0147> Lulu est la meilleure ! Et moi aussi !
+<0148> Ahaa, on va se donner à fond, Lulu ♥
+<0149> Papa...
+<0150> T'es lourd !
+<0151> Laisse-moi tranquille !
+<0152> Espèce de sale vieux !
+<0153> Maman, on va jouer, dit ?
+<0154> Maman, tu voulais qu'on joue ?
+<0155> Merci d'avoir joué avec moi, maman ♥
+<0156> Maman est hyper-forte ♥
+<0157> Maman ! Ensemble, on peut y arriver ♥
+<0158> Youpi, je suis avec maman !!
+<0159> On va bien s'amuser, maman !
+<0160> Maman... On peut se tenir par la main ?
+<0161> Alors, z'êtes prêts à vous battre !?

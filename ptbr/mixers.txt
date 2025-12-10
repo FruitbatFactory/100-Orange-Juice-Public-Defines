@@ -106,6 +106,26 @@ descr=Os custos das cartas são aumentados em 10 estrelas.
 name=Barro
 descr=Um terço dos painéis sem barro no campo serão cobertos por barro durante um capítulo.
 
+< MIXER_WILDFRIENDS >
+name=Amigos Selvagens
+descr=Todos os jogadores começam com uma invocação.
+
+< MIXER_CARDSHARK >
+name=Tubarão das Cartas
+descr=Todas as cartas podem ser jogadas em nível 1 por jogadores.
+
+< MIXER_SPEEDY_BOSS >
+name=Chefe Rápido
+descr=Chefe possui +1 MOV.
+
+< MIXER_UBI_BOSS >
+name=Chefe Onipresente
+descr=Após um jogador parar em um painel de Chefe ou Terror, o Chefe teleporta para o painel daquele jogador.
+
+< MIXER_AMBUSH >
+name=Emboscada
+descr=Chefe começa o jogo com uma de suas cartas sendo 1 nível acima do comum.
+
 < MIXER_SPORES >
 name=Esporos
 descr=Cogumelos aparecerão em campo.

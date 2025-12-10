@@ -1,0 +1,168 @@
+<0000> Désolée. Sans mes bras, c'est difficile.
+<0001> Je peux taper dedans ?
+<0002> Hmf !
+<0003> Je tape le dé.
+<0004> Ainsi, j'aurai l'avantage...
+<0005> Cela fait partie de mes compétences.
+<0006> Allez. Je passe à l'offensive.
+<0007> Cette carte pourra changer la situation.
+<0008> Voilà un piège.
+<0009> Je pose ça là...
+<0010> J'excelle dans ce domaine.
+<0011> Je vous conseille vivement de ne pas approcher.
+<0012> J'ai gagné en puissance de feu.
+<0013> S'il faut que je combatte...
+<0014> Attention, je suis bien plus forte, maintenant.
+<0015> Prépare-toi au pire.
+<0016> Mon dernier atout.
+<0017> Je retourne travailler.
+<0018> Je peux y aller.
+<0019> Ce n'est pas terminé.
+<0020> Fonctions entièrement restaurées.
+<0021> Je ne suis pas en mesure de travailler.
+<0022> J'ai encore besoin de me rétablir.
+<0023> Il me faut encore un peu de temps.
+<0024> Comme c'est frustrant.
+<0025> J'attaque.
+<0026> J'ouvre le feu.
+<0027> J'ouvre les hostilités.
+<0028> Je passe à l'attaque.
+<0029> Guh !
+<0030> Je prends des dégâts.
+<0031> Guh... où est l'ennemi ?
+<0032> Je perds l'avantage...
+<0033> Je suis guérie.
+<0034> Je peux tenir encore un moment.
+<0035> Je suis prête à y retourner.
+<0036> Très utile.
+<0037> Un portail ?
+<0038> Je me téléporte ?
+<0039> Je ne m'attendais pas à ça...
+<0040> Quelle est ma destination...?
+<0041> Gh... Je serai hors-service pendant un moment.
+<0042> J'ai pris très cher.
+<0043> Je ne pensais pas qu'on en arriverait là.
+<0044> Ça n'aurait pas pu être pire.
+<0045> Je vais t'abattre.
+<0046> Je te défie au combat.
+<0047> Je suis en position.
+<0048> Que le combat commence.
+<0049> Tu es un ennemi ?
+<0050> L'ennemi attaque.
+<0051> Prête à riposter.
+<0052> Je relève le défi. Approche.
+<0053> Feu.
+<0054> Meurs.
+<0055> Prends ça.
+<0056> J'attaque.
+<0057> On m'a touchée.
+<0058> Je tiens bon.
+<0059> Ça m'a touché...?
+<0060> Aïe !
+<0061> J'encaisse de lourds dégâts.
+<0062> C'est...
+<0063> Ça ne peut pas continuer comme ça.
+<0064> Argh...!
+<0065> Esquive réussie.
+<0066> Esquivé sans problème.
+<0067> Tu pensais pouvoir m'atteindre ?
+<0068> Ça ne suffira pas.
+<0069> Je remporte le combat.
+<0070> La victoire est à moi.
+<0071> Passons à la suite.
+<0072> Ensuite, ça sera...
+<0073> J'ai échoué...?
+<0074> J'ai perdu la bataille.
+<0075> Je ne peux pas bouger.
+<0076> Je n'en reviens pas.
+<0077> Étoiles obtenues.
+<0078> Je dois les chercher, c'est ça ?
+<0079> Qu'est-ce que c'est que ça ?
+<0080> À quoi servent ces étoiles...?
+<0081> Elles m'ont échappé.
+<0082> Je perds des étoiles.
+<0083> Devrais-je y faire plus attention...?
+<0084> J'en ai perdu.
+<0085> C'est un piège.
+<0086> On m'a... piégée ?
+<0087> Je me suis fait avoir.
+<0088> Hrm... Un piège ?
+<0089> Force massive détectée.
+<0090> Un ennemi géant...?
+<0091> Je détecte une puissante énergie.
+<0092> Un faux mouvement, et je meurs à coup sûr.
+<0093> Vous voulez que je récupère des étoiles ?
+<0094> Bien reçu. Je commence la recherche d'étoiles.
+<0095> Je dois accumuler ces choses ?
+<0096> Ces étoiles... Si j'en trouve beaucoup,\nje comprendrai peut-être leur utilité.
+<0097> Le combat. Bien reçu.
+<0098> Je suis née pour combattre.
+<0099> Bien. Je vais passer à l'attaque.
+<0100> Soit. Je me battrai autant que nécessaire.
+<0101> Nath, au rapport.
+<0102> Je serais ravie de participer si tu le veux bien.
+<0103> Bonjour, enchantée.
+<0104> Avec... moi ? Oui, bien sûr, avec plaisir.
+<0105> C'est parti.
+<0106> Que la partie commence.
+<0107> Je commence ma mission.
+<0108> Bien... J'y vais.
+<0109> Nous avons gagné...?
+<0110> Mission accomplie.
+<0111> Un résultat satisfaisant.
+<0112> Nous avons gagné. J'ai fait de mon mieux, moi aussi.
+<0113> Voilà notre récompense.
+<0114> Ravie que cet objet soit de qualité.
+<0115> Tiens. Je ne pense pas pouvoir m'en servir.
+<0116> Nous n'avions rien de tel auparavant.
+<0117> Peux-tu prendre le relais, si possible ?
+<0118> Je compte sur toi.
+<0119> Tu seras capable de prendre les choses en main...
+<0120> Maintenant, tout repose sur toi.
+<0121> Oui.
+<0122> Je suis ravie.
+<0123> Très bien.
+<0124> Non.
+<0125> Pff...
+<0126> Quelle chance.
+<0127> Hm...
+<0128> Allons-y.
+<0129> J'envoie les dés.
+<0130> J'y vais.
+<0131> Bonjour.
+<0132> Hmm...
+<0133> Bien.
+<0134> Excellent.
+<0135> ......
+<0136> C'est une carte Hyper...?
+<0137> Une carte ennemie ?
+<0138> Je gagnerai par tous les moyens...
+<0139> La méthode importe peu...
+<0140> Un chiot... Comme c'est mignon...
+<0141> Tu es perdu, petit chiot ?
+<0142> Tu veux venir chez moi ?
+<0143> Tu es très costaud pour un chien.
+<0144> Je ne pensais pas t'affronter à nouveau.
+<0145> Tu es...
+<0146> J'ai gagné, cette fois-ci.
+<0147> Tu ne t'es pas rouillée, à ce que je vois.
+<0148> Je dois t'abattre aussitôt que possible.
+<0149> Je l'ai en visu.
+<0150> Pas question de perdre à nouveau contre toi.
+<0151> Non... pas encore...
+<0152> Que... mais que faites-vous, vous deux ?
+<0153> Sora, Sham... J'exige des explications.
+<0154> Vous avez l'air de bien vous amuser... J'en suis ravie.
+<0155> Vous semblez si heureuses... Je suis jalouse.
+<0156> Tu as faim ?
+<0157> Tu n'as pas sommeil ?
+<0158> Je peux te caresser la joue ?
+<0159> Hihi, tu t'amuses bien ?
+<0160> Tu es vraiment doux.
+<0161> Hihi... Oh, ce n'est rien.
+<0162> Je peux te caresser la joue...? Non ?
+<0163> C'est tellement mignon...
+<0164> Quelle souplesse incroyable.
+<0165> Je peux te prendre une plume ?
+<0166> Ces grandes oreilles... C'est si mignon.
+<0167> Je peux te caresser un peu ?

@@ -1,0 +1,192 @@
+
+// ========= Scene: Summer 2021 Event Start =========
+
+<9999> C'est l'histoire de vacances d'été dont la réalité est encore incertaine.
+
+// (tomomo)
+<0000> Ah, je connais rien de mieux qu'un bon jus d'orange glacé pour se rafraîchir !
+
+// (yuki)
+<0001> On est bien d'accord.
+
+// (tomomo)
+<0002> Enfin, non pas que j'aime pas rester à l'intérieur, mais ce serait bien si on pouvait aller à la plage avant la fin de l'été.
+
+// (tomomo)
+<0003> J'aimerais bien savoir nager...
+
+// (yuki)
+<0004> Quoi, tu sais pas nager ? Tu veux que je te montre comment faire ?
+
+// (tomomo)
+<0005> Tu sais nager, toi ? Je croyais que les chats ne pouvaient pas.
+
+// (yuki)
+<0006> Les chats ordinaires ne peuvent pas. Pour moi, rien n'est impossible.
+
+// (tomomo)
+<0007> Montre-moi, alors ! Apprends-moi à nager !
+
+// (yuki)
+<0008> Ça roule. En échange, tu me dois un plateau de sushi d'otoro.
+
+// (tomomo)
+<0009> D'otoro ?! Mais ça coûte un bras !! ...bon, p-pas le choix... d'accord, comme tu voudras !
+
+// (yuki)
+<0010> Marché conclu.
+
+// (yuki)
+<0011> Bon, pour commencer, je te propose d'aller à la piscine d'à côté.
+
+// (mio)
+<0012> Hihihi. Ainsi, mon trésor veut apprendre à nager ?
+
+// (tomomo&yuki)
+<0013> Piscine, nous voilà !
+
+// (yuki)
+<0014> Attends, qu'est-ce que tu fais avec cette bouée gigantesque ?
+
+// (tomomo)
+<0015> Je serais pas capable d'aller nager sans cette bouée !
+
+// (yuki)
+<0016> T'as cinq ans ou quoi ?
+
+// (tomomo)
+<0017> Tais-toi ! Rien ne m'enlèvera ma bouée, j'en ai besoin !
+
+// (yuki)
+<0018> *soupir* Va falloir commencer par corriger cette peur de l'eau.
+
+// (tomomo)
+<0019> Hé, regarde, ce serait pas Kai qui pique une tête, juste là ?
+
+// (yuki)
+<0020> Ah oui. Il est venu tout seul, on dirait.
+
+// (tomomo)
+<0021> Hihihi, pauvre chou. Il serait sûrement ravi qu'une jolie fille comme moi vienne le saluer.
+
+// (tomomo)
+<0022> Hé-ohh, Kaaai !
+
+// (kai)
+<0023> Hein ? Ah, c'est vous.
+
+// (tomomo)
+<0024> Ta mère t'a jamais appris à dire bonjour aux gens ? Avec Yuki, on venait pour qu'elle m'apprenne à nager. Tu veux venir avec nous ?
+
+// (kai)
+<0025> Je m'amuse très bien à nager seul. Fichez-moi la paix.
+
+// (yuki)
+<0026> Tomomo, oublie cet idiot. Éloignons-nous un peu, qu'on commence à nager.
+
+// (mio)
+<0027> Tomomooo ♥
+
+// (tomomo)
+<0028> Oh seigneur, Mio !? On peut savoir ce que tu fous là ?
+
+// (mio)
+<0029> Je viens jouer avec toi, évidemment ♥ Quoi d'autre ?
+
+// (tomomo)
+<0030> Je suis venue pour apprendre à nager ! Pas pour jouer !
+
+// (mio)
+<0031> Dans ce cas, laisse maman t'aider. Regarde.
+
+// (tomomo)
+<0032> Pour la énième fois, t'es pas ma mère !... Hé ! Ma bouée, elle...!
+
+// (yuki)
+<0033> Toutes les bouées de la piscine sont en train de s'envoler... et les ballons, aussi. Ils se... combinent ?!
+
+// (mio)
+<0034> Et voilà. Ce colosse serait ravi de t'aider à apprendre à nager.
+
+// (tomomo)
+<0035> Andouille ! Rends-moi ma bouée, je peux pas nager sans !
+
+// (tomomo)
+<0036> Et pourquoi il faut toujours que tu te pointes avec des monstres géants ? Tu sais rien faire d'autre ?!
+
+// (mio)
+<0037> Oh, comme c'est vilain. Enfin, si tu veux récupérer tes affaires, tu n'as qu'à le battre.
+
+// (tomomo)
+<0038> Raaah ! Pas le choix, je dois la récupérer coûte que coûte ! Yuki, Kai, on y va !
+
+// (yuki)
+<0039> On va bien s'amuser.
+
+// (kai)
+<0040> Hein ? Pourquoi moi ?
+
+// (tomomo)
+<0041> Tais-toi et viens m'aider !
+
+// (kai)
+<0042> Oui madame...
+
+// (mio)
+<0043> Bonne chance ♥
+
+// ========= Scene: Summer 2021 Event Ending =========
+
+// (tomomo)
+<0044> Parfait ! Le monstre est vaincu, et j'ai retrouvé ma bouée dans le tas !
+
+// (yuki)
+<0045> Je le pensais plus fort que ça.
+
+// (kai)
+<0046> Qu'est-ce que j'ai fait pour mériter ça...
+
+// (mio)
+<0047> Alors, Tomomo, un avis ? Tu t'es bien amusée, j'espère.
+
+// (tomomo)
+<0048> Non ! Je voulais apprendre à nager, à la base ! Pas me battre avec ce... truc !
+
+// (yuki)
+<0049> Tu oublies quelque chose, Tomomo.
+
+// (kai)
+<0050> Quand on affrontait ce monstre, tu nageais. Tout du long.
+
+// (tomomo)
+<0051> Hein, sérieux ?! Je m'en rendais pas compte, j'étais trop concentrée...
+
+// (mio)
+<0052> J'avais bien dit que je pourrais t'aider ♥
+
+// (tomomo)
+<0053> Mio... Finalement, t'es plutôt sy-
+
+// (mio)
+<0054> Enfin. Tu n'as plus besoin de cette bouée, maintenant, n'est-ce pas ?
+
+// (tomomo)
+<0055> J'imagine que non...
+
+// (mio)
+<0056> Je voudrais te faire un cadeau. Un monstre encore plus gros, plus puissant, avec qui tu pourras nager à volonté !
+
+// (tomomo)
+<0057> Hein ? Attends, quoi ?
+
+// (kai)
+<0058> Qu'est-ce qu'elle vient de dire...?
+
+// (yuki)
+<0059> Décidément, elle a toujours un tour dans son sac, celle-là.
+
+// (mio)
+<0060> Et voilà. Nage avec lui autant que nécessaire, Tomomo ♥
+
+// (tomomo)
+<0061> C'est pour ça que tu n'as pas d'amis !

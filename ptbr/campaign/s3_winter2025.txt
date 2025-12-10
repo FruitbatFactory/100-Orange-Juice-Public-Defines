@@ -1,0 +1,250 @@
+// CampaignScenario_Event_Season3_Part2_Intro
+// (kurie)
+<0000> Um Clube 100% OJ?
+// (poyo)
+<0001> Sim, Sra. Kurie! Eu tenho certeza que desse jeito aproveitaremos ao máximo nossa juventude!
+// (kurie)
+<0002> Eu apoio completamente começarem seu próprio clube. Eu acredito que será uma experiência valiosa para todo mundo envolvido.
+// (kurie)
+<0003> Mas...
+// (poyo)
+<0004> O que foi, Sra. Kurie?
+// (kurie)
+<0005> Já existia um Clube 100% OJ, mas foi desfeito há 2 anos.
+// (poyo)
+<0006> Fue!? Sério?
+// (kurie)
+<0007> Sim. Eles estavam com tudo e continuavam ganhando.
+// (poyo)
+<0008> Por que um clube assim foi fechado?
+// (kurie)
+<0009> Foi porque...
+// (unknown)
+<0010> Alguém disse 'Clube 100% OJ?'
+// (poyo)
+<0011> Fue?
+// (kurie)
+<0012> Oh.
+// (popomi)
+<0013> Você não vai começar um clube 100% OJ de novo, vai?
+// (poyo)
+<0014> Bem, ahn.
+// (kurie)
+<0015> Ela é Mari Popomi, do terceiro ano.
+// (poyo)
+<0016> Terceiro ano... Então, ela é mais velha do que eu!?
+// (popomi)
+<0017> Algum problema?
+// (poyo)
+<0018> (Eu pensei que ela fosse do primeiro ano pois ela é baixinha.)
+// (kurie)
+<0019> Que timing perfeito. Ninguém é melhor para explicar sobre o passado do clube 100% OJ do que a Mari.
+// (poyo)
+<0020> Bem, mas por quê?
+// (kurie)
+<0021> Ela era um membro.
+// (poyo)
+<0022> Sério!?
+// (kurie)
+<0023> Se você quer começar um clube 100% OJ, você deveria falar com ela, Oage.
+// (popomi)
+<0024> Não é necessário falar. Popo vai te ensinar ao fundo o quão perigoso é 100% OJ!
+// (poyo)
+<0025> 100% OJ é perigoso?!
+// (poyo)
+<0026> Então foi isso que aconteceu...
+// (chuu)
+<0027> E agora isso está acontecendo, então.
+// (popomi)
+<0028> 100% OJ é um jogo perigoso! E a única maneira que posso te mostrar isso é jogando...
+// (popomi)
+<0029> Então Popo está aqui para arriscar sua vida para te ensinar todos os perigos do jogo!
+// (kanata)
+<0030> Oh, ela é do tipo altamente entusiástica...
+// (haruka)
+<0031> Não desgosto disso.
+// (mimomo)
+<0032> Bem, desculpa, garotas, mas vocês poderiam jogar com a Popomi por mim?
+// (chuu)
+<0033> E eu posso lhe perguntar por que você está aqui, presidente do conselho estudantil?
+// (mimomo)
+<0034> Pois eu ouvi que Popomi ia fazer algo divertido por aqui☆
+// (popomi)
+<0035> Mimo é uma iniciante no jogo de tabuleiro, então eu vou fazer time com ela. Isso vai dar a vocês uma vantagem justa contra mim.
+// (poyo)
+<0036> Então, vocês duas vão jogar uma partida de 100% OJ contra nós, correto?
+// (popomi)
+<0037> Não pegue leve! Isso é um caso sério!
+// (chuu)
+<0038> Ela parece séria e entusiástica ao mesmo tempo.
+// (mimomo)
+<0039> Ela é bastante divertida, não é?
+// (poyo)
+<0040> E-enfim, nós temos que te derrotar no jogo para começar nosso clube 100% OJ, certo?
+// (popomi)
+<0041> Você pode ver desse jeito se desejar.
+// (poyo)
+<0042> Certo então... Vamos dar tudo de nós para vencer esta partida pelo bem da nossa juventude!
+// (mimomo)
+<0043> Uau.
+// (popomi)
+<0044> Parece que você tem a atitude certa...!
+
+// CampaignScenario_Event_Season3_Part2_Ending
+// (popomi)
+<0045> Ótimo. Venha, me mostre do que você é capaz!
+// (popomi)
+<0046> Ugh... Argh!!!
+// (poyo)
+<0047> Po-Popomi, qual o problema!?
+// (mimomo)
+<0048> Popochi, não se esforce tanto, beleza?
+// (popomi)
+<0049> A-agora vocês entendem o quão perigoso o jogo de tabuleiro é, né...?
+// (poyo)
+<0050> Nem um pouco...
+// (popomi)
+<0051> Popo costumava ser uma excelente jogadora de 100% OJ. Tão excelente que ela foi até mesmo selecionada para ser a mascote do jogo.
+// (poyo)
+<0052> Você era a mascote do jogo!? Isso significa que você era Marie Poppo!?
+// (chuu)
+<0053> A mascote conhecida por todo jogador de 100% OJ na época...!?
+// (kanata)
+<0054> E amada por todo jogador.
+// (haruka)
+<0055> É era uma grande fã na época... Você realmente era...?
+// (popomi)
+<0056> Olhe para Popo, é óbvio, não é!? Como você pode não ter percebido!?
+// (poyo)
+<0057> A Marie Poppo que eu conhecia era bem pequena, igual uma mascote de verdade...
+// (mimomo)
+<0058> Popochi cresceu bastante nos últimos dois anos.
+// (popomi)
+<0059> Yeah, a altura de Popo é 1 metro maior agora! Mas não faria tanta diferente, faria!?
+// (chuu)
+<0060> Sim, faria!!!
+// (poyo)
+<0061> (Ela ainda é pequena, entretanto.)
+// (popomi)
+<0062> Ah bem. Isso não importa agora de qualquer forma.
+// (popomi)
+<0063> O que a Popo quer que você entenda é o quão perigoso é o jogo de tabuleiro...
+// (popomi)
+<0064> Desde que escolheram Popo como mascote, ela vinha se esforçando para manter o título.
+// (popomi)
+<0065> Ela passou por um treinamento especial para continuar sendo a excelente jogadora que era – rolando dados dez mil vezes por dia.
+// (popomi)
+<0066> E então, um dia, uma dor aguda atingiu seu pulso.
+// (popomi)
+<0067> Era tendinite... e isso impediu Popo de rolar um dado.
+// (popomi)
+<0068> Sem dados, não dá para jogar 100% OJ...
+// (popomi)
+<0069> E foi assim que Popo deixou a comunidade do jogo de tabuleiro e o clube 100% OJ daqui foi desfeito.
+// (popomi)
+<0070> O pulso da Popo está bem melhor agora... Mas se você continuar jogando dados, vai acabar como ela... Ugh!
+// (poyo)
+<0071> Popomi...
+// (kanata)
+<0072> Você sabe que você não precisa rolar um dado dez mil vezes por dia para poder jogar 100% Orange Juice.
+// (popomi)
+<0073> O quê!?
+// (chuu)
+<0074> Kana, você poderia ter sido menos direta.
+// (kanata)
+<0075> Essa é, sem dúvida, a causa da lesão no pulso dela, entretanto.
+// (popomi)
+<0076> Então não é 100% OJ que é perigoso, mas sim o treinamento especial da Popo... É isso que você está dizendo??
+// (poyo)
+<0077> Um, eu admiro seus esforços!
+// (mimomo)
+<0078> Bem, depois de ser escolhida como a Miss Mascote, ela sentiu uma pressão enorme e não conseguiu evitar de fazer algo. Então, por favor, não a julguem, beleza?
+// (haruka)
+<0079> Depois de ouvir tudo isso, eu meio que entendo.
+// (poyo)
+<0080> Nenhuma de nós aqui jamais teve um título incrível como o seu. Tudo o que queremos é jogar nosso jogo de tabuleiro favorito para aproveitar ao máximo nossa juventude.
+// (popomi)
+<0081> Aproveitar ao máximo da sua... juventude?
+// (poyo)
+<0082> Sim. Queremos criar um clube 100% OJ onde possamos jogar o jogo de tabuleiro com muitas pessoas diferentes. Onde todos gostem tanto de ganhar quanto de perder.
+// (poyo)
+<0083> Temos certeza de que essa será a maneira mais valiosa de passarmos nossa juventude.
+// (poyo)
+<0084> É por isso que queremos ter nosso clube 100% OJ!
+// (poyo)
+<0085> Prometemos que não vamos jogar os dados muitas vezes, então não se preocupe.
+// (popomi)
+<0086> ...Vocês vão acabar igual a mim se exagerarem nem que seja um pouco na rolagem de dados, entendem?
+// (kanata)
+<0087> Vou garantir que isso não aconteça.
+// (Popomi)
+<0088> Hmph, tudo bem.
+// (popomi)
+<0089> Vocês estão todas determinadas, estão todas em bons termos e não vão rolar dados demais.
+// (Popomi)
+<0090> Se for assim, Popo não tem motivo para impedi-las.
+// (poyo)
+<0091> Popo...!
+// (popomi)
+<0092> Vão em frente e joguem 100% OJ para terem a melhor juventude de todos os tempos.
+// (poyo)
+<0093> Sim!
+// (mimomo)
+<0094> Ah, parece que as coisas se resolveram e todos estão felizes. Muito bom.
+// (popomi)
+<0095> Mas! Agora que a Popo jogou uma partida com vocês, ela tem que dizer que nenhuma de vocês chega perto do nível dela! E isso significa que a juventude de vocês será repleta de derrotas!
+// (poyo)
+<0096> O quê!?
+// (popomi)
+<0097> Então a Popo vai entrar para o clube e treinar vocês!
+// (poyo)
+<0098> Tem certeza!?
+// (chuu)
+<0099> Então vamos ter a Miss Mascote 100% OJ como membra do clube?
+// (mimomo)
+<0100> A Popochi voltou a ser uma jogadora 100% OJ, então? Que legal! Eu apoio totalmente.
+// (mimomo)
+<0101> Acho que vou entrar também, então.
+// (popomi)
+<0102> Não se esqueça que você é a presidente do conselho estudantil.
+// (mimomo)
+<0103> Consigo lidar com as duas coisas. Sou muito boa em multi-tarefa.
+// (poyo)
+<0104> Te receberíamos de braços abertos no clube.
+// (haruka)
+<0105> É. Com certeza será mais divertido ter você aqui.
+// (popomi)
+<0106> A Popomi concorda, se vocês também concordarem.
+// (mimomo)
+<0107> Oba! Vamos fazer da nossa juventude a melhor possível, garotas!
+// (poyo)
+<0108> Certo, o clube 100% OJ da Academia Brilhante e Cintilante está de volta!!!
+// (everyone)
+<0109> Siiim!!
+// (rinse)
+<0110> Minha nossa, Mari Popo está jogando 100% OJ de novo...
+// (suishou)
+<0111> É o que parece. Creio que terá um impacto na comunidade do jogo.
+// (rinse)
+<0112> Fufufu, vou ver isso como um desenvolvimento positivo se for ajudar a trazer mais vida para a comunidade.
+// (rinse)
+<0113> Me refresca a memória: Qual escola a Mari faz parte, mesmo?
+// (suishou)
+<0114> É a Academia Brilhante e Cintilante, creio eu.
+// (rinse)
+<0115> Academia Brilhante e Cintilante... Espera, essa não é...
+// (rinse)
+<0116> Com licença. Eu tenho uma mensagem de texto.
+// (rinse)
+<0117> Minha nossa, é da Haru.
+// (suishou)
+<0118> Aquela sua amiga de infância?
+// (rinse)
+<0119> Isso mesmo. Ela tem uma irmã gêmea, e as duas são tão adoráveis. Eu as trato como minhas irmãs mais novas de verdade e... Minha nossa!
+// (suishou)
+<0120> O que foi?
+// (rinse)
+<0121> Suishou, nós vamos pedir a Academia Brilhante e Cintilante para uma partida de treino em 100% OJ.
+// (suishou)
+<0122> O-okay...!
+

@@ -113,4 +113,8 @@ descr=
 
 < FIELDEVENT_CONVERGENCE >
 name=Convergência
-descr=Campo atual irá mudar para outro aleatório.\n\nFreqüência: ask sora
+descr=Campo atual irá mudar para outro aleatório.\n\nFreqüência: A cada 6 capítulos.
+
+< FIELDEVENT_CLASHOFCAKES >
+name=Bolos
+descr=Todos os jogadores receberão uma carta de "Bolo Falso da Mio".\n\nFreqüência: A cada 6 capítulos.

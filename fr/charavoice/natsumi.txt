@@ -1,0 +1,162 @@
+<0000> Ey ♪
+<0001> Yah.
+<0002> Hop-là.
+<0003> Eey.
+<0004> Je pensais jouer celle-là.
+<0005> Hm... Celle-là, peut-être ?
+<0006> Allez, celle-ci.
+<0007> Je vais jouer une carte.
+<0008> Un piège ?
+<0009> Hmm... Et si je posais ça ici ?
+<0010> Je pose ça juste ici.
+<0011> Ça, ça va ici...
+<0012> Carte Combat.
+<0013> Bon, je vais jouer ça, du coup.
+<0014> Hihi, c'est rigolo.
+<0015> Attention, je vais jouer une carte Combat.
+<0016> Je vais cuisiner pour un régiment.
+<0017> Hmm... C'est l'heure de se lever ?
+<0018> *baîlle* Ah, j'ai bien dormi.
+<0019> J'ai encore un peu sommeil...
+<0020> Un nouveau jour qui commence.
+<0021> Est-ce que je peux dormir encore un peu...?
+<0022> Zzz... Zzz...
+<0023> Hmm...
+<0024> Encore un peu...
+<0025> Ey, ey !
+<0026> J'attaque.
+<0027> Yaah !
+<0028> Tohh !
+<0029> Oh.
+<0030> Oh...
+<0031> Hmmm ?
+<0032> Fah ?
+<0033> *soupir* C'est tellement agréable.
+<0034> Ça réchauffe.
+<0035> Je me sens déjà mieux.
+<0036> Ah, du soin ♪
+<0037> Un portail ?
+<0038> Aah, jusqu'où je vais comme ça ?
+<0039> Ohh nooon...
+<0040> Ouahh.
+<0041> Je peux me reposer un peu ?
+<0042> Zzz.
+<0043> J'aime beaucoup cette couette.
+<0044> Muuahh.
+<0045> Viens jouer avec moi.
+<0046> Hihihi, on va faire un peu de sport.
+<0047> On va beaucoup jouer.
+<0048> Hihi, à quoi on va bien jouer ?
+<0049> Hmm ? Tu veux jouer avec moi ?
+<0050> Ok, on peut jouer ensemble.
+<0051> Oh, quelle énergie.
+<0052> Hihi, ça a l'air amusant.
+<0053> Tchok.
+<0054> Tohh !
+<0055> Évite de te faire mal.
+<0056> Taah !
+<0057> Ouah !
+<0058> Hum ?
+<0059> Fue !
+<0060> Fouah.
+<0061> Fouawah !
+<0062> C'est impresionnant.
+<0063> Ouahh.
+<0064> Incroyable.
+<0065> Hm ?
+<0066> Et si j'allais là ?
+<0067> Tiens, j'ai esquivé.
+<0068> Hihi.
+<0069> Pfiou... ah, c'était amusant.
+<0070> On rejouera, hein ?
+<0071> Un bon exercice.
+<0072> Héhé.
+<0073> Quelle force...
+<0074> Bien joué.
+<0075> Ahh, j'ai perdu.
+<0076> Bravo... tu as gagné.
+<0077> Ouah, c'est si joli.
+<0078> Ça brille tellement.
+<0079> J'ai le droit de les garder ?
+<0080> Je suis ravie.
+<0081> J'en ai fait tomber...
+<0082> Mes étoiles...
+<0083> Oh non...
+<0084> Mes étoiles sont parties...?
+<0085> Hm ? Qu'est-ce que c'est ?
+<0086> Ah, ça m'a fait peur.
+<0087> Wawah.
+<0088> Quelle surprise.
+<0089> Tu es vraiment très grand, toi.
+<0090> Impressionnant.
+<0091> Oh, ça commence à s'échauffer.
+<0092> Hihi, ça devrait être amusant.
+<0093> J'irais bien chercher quelques étoiles.
+<0094> Bon, eh bien... les étoiles, alors.
+<0095> J'espère en trouver tout plein.
+<0096> J'aimerais une montagne d'étoiles. Ce serait si joli.
+<0097> J'ai envie de jouer avec tout le monde.
+<0098> Je vais jouer autant que possible.
+<0099> Je choisis cette option.
+<0100> Je vais faire quelques exercices.
+<0101> Bonjour, je m'appelle Natsumi.
+<0102> On va jouer, alors ?
+<0103> Hihi, merci de m'avoir choisie.
+<0104> Moi ? Oui, si tu veux.
+<0105> Ça a déjà commencé ?
+<0106> Hihihi, je vais bien m'amuser.
+<0107> La partie commence ♪
+<0108> Hm-hm-hm ♪
+<0109> Oh, j'ai vraiment gagné ?
+<0110> Merci, tout le monde. Je me suis bien amusée.
+<0111> Hihihi, on devrait rejouer ensemble.
+<0112> Ce soir, je vais nous faire un beau festin.
+<0113> Oh, tu en as trouvé un bien.
+<0114> Tu le voulais... c'est ça ?
+<0115> Hihihi, tiens, prends-le.
+<0116> C'est un nouvel objet. Il te plaît ?
+<0117> Tu peux prendre le relai ?
+<0118> Oh, merci beaucoup.
+<0119> Je compte sur toi pour me remplacer.
+<0120> Allez, on échange.
+<0121> Ok.
+<0122> Oh, très bien.
+<0123> D'accord.
+<0124> Désolée.
+<0125> Oh non...
+<0126> Hihihi, quelle chance.
+<0127> Hmm ?
+<0128> C'est parti ♪
+<0129> Je jette les dés.
+<0130> On y va ?
+<0131> Bonjour.
+<0132> Oh, hm...
+<0133> Très bien.
+<0134> Génial !
+<0135> Hm...? Que dois-je faire ?
+<0136> Oh, j'ai le droit de m'en servir ?
+<0137> Comment ça marche, ça ?
+<0138> Je l'emprunte vite fait.
+<0139> Cette carte est géniale.
+<0140> Merci beaucoup.
+<0141> Tu veux jouer, Q ?
+<0142> Oh, tu veux jouer avec moi ?
+<0143> Oh, tu te sens fatiguée, Q ?
+<0144> Tu es si forte, Q.
+<0145> Yuki, tu devrais te retenir de faire des bêtises.
+<0146> Hihihi, oui, je veux bien jouer avec toi.
+<0147> Hihihi. Aujourd'hui, ce sera ton tour de vaisselle, Yuki.
+<0148> *soupir* Yuki...
+<0149> Mei, tu veux jouer avec nous ?
+<0150> Coucou, Mei !
+<0151> Hihi, j'ai gagné, Mei !
+<0152> Tu as gagné, Mei. Bravo.
+<0153> Je peux dormir avec vous...?
+<0154> Le thé ? Vous voudriez des biscuits pour accompagner ?
+<0155> Ça te dirait de cuisiner avec moi ?
+<0156> Tu voulais qu'on cuisine ensemble ?
+<0157> Hihi. Ce soir, tu devras cuisiner pour moi.
+<0158> Ce soir, je te fais un festin, promis.
+<0159> Hihi, tout le monde a l'air de bien s'amuser.
+<0160> Hm-hm-hm, la la ♪
+<0161> Le dîner est servi ♪

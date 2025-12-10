@@ -1,0 +1,160 @@
+<0000> Vas-y.
+<0001> Hop !
+<0002> Roule bien...
+<0003> Ha !
+<0004> Je joue cette carte.
+<0005> Je pense que c'est utile.
+<0006> Je choisis celle-ci.
+<0007> Je choisis celle-là.
+<0008> Piège en place.
+<0009> Voici...
+<0010> Voilà un piège.
+<0011> Je crois que c'est comme ça.
+<0012> J'utilise celle-ci.
+<0013> Pas le droit à l'erreur.
+<0014> Je choisis ça.
+<0015> Celle-là !
+<0016> Accelerator !
+<0017> Pfiou...
+<0018> J'arrive enfin à me relever.
+<0019> J'y retourne.
+<0020> Ce n'est encore que le début.
+<0021> C'était censé marcher...
+<0022> Pfff...
+<0023> Hmm ?
+<0024> Mince...
+<0025> Tiens.
+<0026> Yah !
+<0027> Hah !
+<0028> Tey !
+<0029> Ah.
+<0030> Aïe.
+<0031> Ah !
+<0032> Ouah !
+<0033> Pfioouu...
+<0034> Un peu de chaleur...
+<0035> Je me sens mieux.
+<0036> Ça fait du bien.
+<0037> On m'envole loin.
+<0038> Où allons-nous ?
+<0039> Je vole.
+<0040> Un portail.
+<0041> Aaaaugh.
+<0042> Il faut que je me repose un peu...
+<0043> J'ai fait une erreur...
+<0044> *soupir*...
+<0045> Battons-nous.
+<0046> Ne reste pas sur mon chemin.
+<0047> On y va.
+<0048> Au combat.
+<0049> Tu veux un combat ?
+<0050> Ok, allons-y.
+<0051> Je ne vais pas perdre.
+<0052> C'est un défi ?
+<0053> Hah !
+<0054> Prends ça !
+<0055> Yah !
+<0056> Tah !
+<0057> Agh.
+<0058> Ah.
+<0059> Aïe !
+<0060> Ugh.
+<0061> Hmm...
+<0062> Uaahh !
+<0063> Ça pique...
+<0064> Aaargh.
+<0065> Je suis intouchable.
+<0066> J'ai esquivé.
+<0067> À peu de choses près.
+<0068> Ouah.
+<0069> *soupir* Je ne pensais pas gagner.
+<0070> Je me débrouille bien.
+<0071> Je crois que j'ai gagné.
+<0072> J'ai fait de mon mieux.
+<0073> Hmm...
+<0074> Ohhh...
+<0075> Tu es très fort...
+<0076> Incroyable...
+<0077> Elles brillent...
+<0078> Je suis ravie.
+<0079> Super.
+<0080> Toutes ces étoiles...
+<0081> Non, pas mes étoiles...
+<0082> Oh...
+<0083> Mes étoiles...
+<0084> Mhmm...
+<0085> Un piège !
+<0086> J'ai manqué de prudence...
+<0087> Oh, flûte.
+<0088> Que...
+<0089> En voici un gros...
+<0090> Le danger approche...
+<0091> Je dois rester sur mes gardes...
+<0092> Voici un adversaire de taille.
+<0093> Je vais ramasser des étoiles.
+<0094> Je choisis les étoiles.
+<0095> Je vais trouver plein d'étoiles.
+<0096> Les étoiles...
+<0097> Je dois me battre.
+<0098> Je prends les victoires.
+<0099> Je vais me battre.
+<0100> Je dois gagner.
+<0101> Ok, allons jouer ensemble.
+<0102> Compte sur moi.
+<0103> On fait de notre mieux.
+<0104> Entendu.
+<0105> Je ferai de mon mieux.
+<0106> Allons-y.
+<0107> Ça commence.
+<0108> Quel est le plan ?
+<0109> Bien joué.
+<0110> C'était tendu, mais j'ai réussi.
+<0111> Héhé, mes efforts ont payé.
+<0112> On a gagné.
+<0113> Voilà qui est nouveau.
+<0114> Un nouvel objet...
+<0115> Tiens, je ne l'avais jamais vu.
+<0116> C'est ce que tu voulais ?
+<0117> On échange.
+<0118> Tu veux bien me remplacer ?
+<0119> Je te laisse ma place.
+<0120> Je compte sur toi.
+<0121> D'accord.
+<0122> Tant mieux.
+<0123> Oui.
+<0124> Oups.
+<0125> Mhmm...
+<0126> Très bien.
+<0127> Mmh ?
+<0128> Allez, on y va.
+<0129> Donne-moi un chiffre favorable.
+<0130> C'est parti !
+<0131> Bonjour.
+<0132> Hmm.
+<0133> Bien.
+<0134> Superbe.
+<0135> Mmh...
+<0136> J'emprunte ce pouvoir un instant...
+<0137> Puis-je utiliser ce pouvoir ?
+<0138> J'ai emprunté ce pouvoir... Puisse-t-il me servir...
+<0139> Celle-ci semble prometteuse...!
+<0140> Tu veux jouer, Hime ?
+<0141> Ce n'est qu'une enfant...
+<0142> Battons-nous, Sora.
+<0143> Je danse dans les airs.
+<0144> La déesse... du pudding...
+<0145> Star Breaker... Tu n'iras pas plus loin.
+<0146> Ouah... Un château géant...
+<0147> Ta quête égoïste prend fin.
+<0148> Est-ce... une autre moi ?
+<0149> "La moi du passé"...? Comment est-ce possible ?
+<0150> Quelle est ce sentiment ?...
+<0151> Es-tu vraiment moi ?
+<0152> Ravie de t'avoir à mes côtés.
+<0153> Hime, on échange.
+<0154> D'accord, faisons ça.
+<0155> Tu perds de ta maîtrise, Hime.
+<0156> Je me suis amusée, moi aussi.
+<0157> Sora... Je te promets de faire de mon mieux.
+<0158> Fufu... Je me suis amusée, Sora.
+<0159> Tu n'as rien perdu de ta force d'antan.

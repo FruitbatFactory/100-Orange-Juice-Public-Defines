@@ -1,0 +1,130 @@
+// CampaignScenario_Event_Summer2025Intro
+// (starb)
+<0000> Je cherche un mécanicien de génie du nom de Tomato. Est-ce qu'il est là ?
+// (tomato)
+<0001> Ouais, c'est moi. Z'êtes qui, vous ?
+// (starb)
+<0002> Je m'appelle Star Breaker. Je veux devenir plus puissante. Rendez-moi assez puissante pour détruire la planète.
+// (tomato)
+<0003> Hmm. Mimyuu et moi, on allait partir à la plage. Venez jouer avec nous et faites c'qu'on vous dit, et j'verrai ce que j'peux faire.
+// (tomato)
+<0004> Mimyuu, ça te dérange pas qu'elle vienne ?
+// (mimyuu)
+<0005> Non, Patronne ! On est mieux à plusieurs !
+// (starb)
+<0006> Jouer ? À la plage ? C'est quoi, le plan ?
+// (tomato)
+<0007> On va se tenir debout sur un bateau banane sur l'eau et jouer au ballon avec mon Méca-Loubardie, sauf que là c'est avec des centaines de pastèques qu'on explose avec des bombes !
+// (mimyuu)
+<0008> Comme ça, ça va faire comme un bain de sang partout sur la plage !
+// (starb)
+<0009> C'est complètement stupide. Vous avez perdu la tête ?
+// (mimyuu)
+<0010> Andouille ! C'est le principe de la Loubardie d'être cinglé !
+// (tomato)
+<0011> Alors ? Si vous jouez avec nous, vous aurez c'que vous voulez. Sinon, c'est mort !
+// (starb)
+<0012> Rahh. Bon, d'accord. Je vais jouer avec vous.
+// (tomato)
+<0013> Dans ce cas, partez chercher un maillot de bain, et vite ! Quand ça sera bon, on pourra y aller !
+// (starb)
+<0014> Un... m-maillot ? Mes vêtements sont très bien comme ça.
+// (mimyuu)
+<0015> Nan ! C'est pas bien ! À la plage, on met des maillots !
+// (starb)
+<0016> D'accord...
+// (mimyuu)
+<0017> Ouais ! On y est !
+// (tomato)
+<0018> Haha, on va jouer jusqu'à s'évanouir !
+// (starb)
+<0019> Heureusement que je fais ça pour mes pouvoirs. Je peux pas croire que vous m'ayez fait porter ce truc... Vous feriez mieux de tenir parole.
+// (tomato)
+<0020> Bien sûr ! Je tiens toujours mes promesses !
+// (tomomo)
+<0021> Hé, Tomato ! Tu comptes vraiment rendre Star Breaker plus puissante ?
+// (tomato)
+<0022> Hein ? Bah, ouais. Mais seulement quand on aura fini de jouer. ...Euh, comment vous savez ça ?
+// (saki)
+<0023> Par chance, je me promenais dans le coin ! J'ai entendu votre discussion, et Tomomo devait être au courant !
+// (kae)
+<0024> Je traînais avec Tomomo. Du coup, je l'ai suivie.
+// (starb)
+<0025> Pardon ? Vous voulez m'empêcher de devenir plus puissante ?
+// (tomomo)
+<0026> Évidemment ! Je compte pas te laisser détruire mon monde !
+// (saki)
+<0027> Au fait, c'est un très joli maillot, Star Breaker. Tu l'as trouvé où ?
+// (kae)
+<0028> J'me posais la question aussi. Ça lui va trop bien.
+// (starb)
+<0029> Oh, vraiment ? Merci beaucoup.
+// (tomomo)
+<0030> Hé, c'est trop demander de rester sérieux deux secondes !?
+// (mimyuu)
+<0031> Trop de blabla, Mimyuu a pas écouté. On joue quand ?
+// (tomato)
+<0032> Avec Star Breaker, on a passé un accord ! 'm'en fiche de ce que t'en penses !
+// (tomomo)
+<0033> Argh, pas le choix, alors. Saki, Kae, préparez-vous au combat !
+// (???)
+<0034> Oui !\nD'ac' !
+// (starb)
+<0035> Soit. Amenez-vous, que je vous écrase toutes. Ahahahaha !
+// (mimyuu)
+<0036> Ooh, ça sent la très très grosse bagarre !
+// (tomato)
+<0037> Je relève le défi !
+
+// CampaignScenario_Event_Summer2025Ending
+// (tomomo)
+<0038> Pas croyable, on a perdu...
+// (kae)
+<0039> Ça a fait bim, et pif paf pouf, et boum boum boum !!
+// (saki)
+<0040> Oh non... Elle est trop puissante...
+// (starb)
+<0041> Ahahaha ! Vous êtes des larves ! Vous pensiez vraiment pouvoir me battre ?
+// (tomato)
+<0042> Uooooooh ! C'était le plus beau combat de l'histoire des combats ! T'es pas d'accord, Mimyuu ?
+// (mimyuu)
+<0043> Complètement d'accord, Patronne ! Mimyuu s'est jamais autant amusée à la plage !
+// (tomato)
+<0044> Star Breaker est réglo, elle a joué avec nous. Maintenant, c'est mon tour.
+// (starb)
+<0045> Oh, ça t'a plu ? Tu aurais dû me le dire plus tôt.
+// (tomomo)
+<0046> Tomato, arrête ! Si le monde est détruit, c'est mauvais pour toi aussi !
+// (tomato)
+<0047> J'trouverai bien une solution à ce moment-là. V'nez, on rentre à la maison et on s'occupe de tout !
+// (tomato)
+<0048> ...Et voilà ! Enfile ça pour voir ! Avec ça, tu pourras détruire le monde en deux secondes !
+// (mimyuu)
+<0049> Ouah ! Z'avez vraiment fait une arme mortelle en deux secondes ! Z'êtes trop forte, Patronne !
+// (starb)
+<0050> Bon, essayons ça... Attends. Tu te moques de moi ?
+// (tomato)
+<0051> Quoi, y'a un problème ?
+// (starb)
+<0052> C'est clairement un maillot de bain. Et qui couvre presque rien, en plus.
+// (tomato)
+<0053> Ouaip. C'est cette bagarre à la plage qui m'a inspirée !
+// (starb)
+<0054> C'est une blague ? Je refuse de porter quelque chose d'aussi gênant. Fais-moi autre chose. Maintenant.
+// (tomato)
+<0055> Pas possible. J'suis à court de ressources, puis j'ai déjà fait ma part. Ce maillot est assez puissant pour détruire le monde !
+// (mimyuu)
+<0056> Ouais, Patronne a raison ! Elle a fait tout comme il faut !
+// (starb)
+<0057> Et j'ai même dû porter mon propre maillot de bain pour ces âneries.\nVous avez gâché ma journée... Vous allez payer...!
+// (tomato)
+<0058> Hein ? Hé, pourquoi tu nous regardes en mode tu vas nous attaquer ?
+// (mimyuu)
+<0059> Patronne ! C'est dangereux, cassons-nous !
+// (starb)
+<0060> Ahahaha ! Je vais tout détruire !
+// (tomato)
+<0061> Noooon ! Arrête ça !
+// (mimyuu)
+<0062> Hiiiiii !
+

@@ -37,4 +37,13 @@ Reparadores de Memórias
 < EVENTNAME_POPPO >
 Evento Poppo
 
+< EVENTNAME_OPERATION_HALLOWEEN >
+Operação Halloween
+
+< EVENTNAME_SUMMER2025 >
+Problema Triplo
+
+< EVENTNAME_WINTER2025 >
+Desafiadoras da Sala de Clube
+
 [EOF]

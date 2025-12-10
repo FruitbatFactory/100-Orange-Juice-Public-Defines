@@ -1,0 +1,249 @@
+
+< FIELD_RANDOM >
+Aléatoire
+
+< FIELD_UNKNOWN >
+Inconnu
+
+< FIELD_PRACTICE >
+Terrain d'Apprentissage
+
+< FIELD_SPACEWANDERER >
+Promenade dans l'Espace
+
+< FIELD_PUDDINGCHASE >
+Chasse au Pudding
+
+< FIELD_CHRISTMASMIRACLE >
+Miracle de Noël
+
+< FIELD_PLANETEARTH >
+Planète Terre
+
+< FIELD_LAGOONFLIGHT >
+Au-delà des Lagunes
+
+< FIELD_WARFARE >
+Guerre
+
+< FIELD_HIGHWAYHEIST >
+Pillage sur l'Autoroute
+
+< FIELD_SEALEDARCHIVE >
+Archive Scellée
+
+< FIELD_SUNSET >
+Coucher de Soleil
+
+< FIELD_TOMOMOABYSS >
+Abysse de Tomomo
+
+< FIELD_WHITEWINTER >
+Hiver Blanc
+
+< FIELD_NIGHTFLIGHT >
+Vol Nocturne
+
+< FIELD_CLOVER >
+Champs de Trèfles
+
+< FIELD_FARM >
+Ferme
+
+< FIELD_STARCIRCUIT >
+Circuit Étoilé
+
+< FIELD_TRAININGPROGRAM >
+Programme d'Entraînement
+
+< FIELD_VORTEX >
+Vortex
+
+< FIELD_SWEETHEAVEN >
+Paradis Sucré
+
+< FIELD_STARSHIP >
+Vaisseau Spatial
+
+< FIELD_FROSTCAVE >
+Caverne Gelée
+
+< FIELD_SHIPYARD >
+Tunnel du Vaisseau
+
+< FIELD_TREASUREISLAND >
+Île aux Trésors
+
+< FIELD_TREASUREISLANDNIGHT >
+Île aux Trésors (Nuit)
+
+< FIELD_WITCHFOREST >
+Forêt des Sorcières
+
+< FIELD_ICYHIDEOUT >
+Refuge Enneigé
+
+< FIELD_SAKURA >
+Sakura Smash
+
+< FIELD_WORKSHOP >
+Atelier de Noël
+
+< FIELD_OCEANDIVE >
+Sous l'Océan
+
+< FIELD_OVERTHESEA >
+Par-dessus la Mer
+
+< FIELD_DARKCITADEL >
+Citadelle Noire
+
+< FIELD_BEGINNERTOWN >
+Havre des Débutants
+
+< FIELD_SCARREDLAND >
+Terres Désolées
+
+< FIELD_FUNGUSCAVE >
+Caverne Champignon
+
+< FIELD_WINTERTOWN >
+Havre des Débutants (Hiver)
+
+< FIELD_DESERT >
+Rails du Solitaire
+
+< FIELD_CIRCUS >
+Cirque
+
+< FIELD_VOID >
+Le Vide
+
+< FIELD_PURES >
+Course aux Bons Pures
+
+< FIELD_SCHOOLYARD >
+Cour de Récré
+
+< FIELD_COOP_LAGOONFLIGHT >
+Au-delà des Lagunes CO
+
+< FIELD_COOP_SUNSET >
+Coucher de Soleil CO
+
+< FIELD_COOP_POPPOABYSS >
+Abysse de Poppo
+
+< FIELD_COOP_STARCIRCUIT >
+Circuit Étoilé CO
+
+< FIELD_COOP_SPACEWANDERER >
+Promenade dans l'Espace CO
+
+< FIELD_COOP_HIGHWAYHEIST >
+Pillage sur l'Autoroute CO
+
+< FIELD_COOP_FARM >
+Ferme CO
+
+< FIELD_COOP_SHIPYARD >
+Tunnel du Vaisseau CO
+
+< FIELD_COOP_TRAININGPROGRAM >
+Programme d'Entraînement CO
+
+< FIELD_COOP_NIGHTFLIGHT >
+Vol Nocturne CO
+
+< FIELD_COOP_VORTEX >
+Vortex CO
+
+< FIELD_COOP_CYBERSPACE >
+Cyberespace
+
+< FIELD_COOP_PLANETEARTH >
+Planète Terre CO
+
+< FIELD_COOP_WITCHFOREST >
+Forêt des Sorcières CO
+
+< FIELD_COOP_WORKSHOP >
+Atelier de Noël CO
+
+< FIELD_COOP_SAKURA >
+Sakura Smash CO
+
+< FIELD_COOP_PUDDINGCHASE >
+Chasse au Pudding CO
+
+< FIELD_COOP_TREASUREISLAND >
+Île aux Trésors CO
+
+< FIELD_COOP_TREASUREISLANDNIGHT >
+Île aux Trésors CO (Nuit)
+
+< FIELD_COOP_OCEANDIVE >
+Sous l'Océan CO
+
+< FIELD_COOP_OVERTHESEA >
+Par-dessus la Mer CO
+
+< FIELD_COOP_CLOVER >
+Trèfle CO
+
+< FIELD_COOP_FROSTCAVE >
+Caverne Gelée CO
+
+< FIELD_COOP_ICYHIDEOUT >
+Refuge Enneigé CO
+
+< FIELD_COOP_STARSHIP >
+Vaisseau Spatial CO
+
+< FIELD_COOP_TOMOMOABYSS >
+Abysse de Tomomo CO
+
+< FIELD_COOP_WHITEWINTER >
+Hiver Blanc CO
+
+< FIELD_COOP_BEGINNERTOWN >
+Havre des Débutants CO
+
+< FIELD_COOP_CHRISTMASMIRACLE >
+Miracle de Noël CO
+
+< FIELD_COOP_DARKCITADEL >
+Citadelle Noire CO
+
+< FIELD_COOP_FUNGUSCAVE >
+Caverne Champignon CO
+
+< FIELD_COOP_PRACTICEFIELD >
+Terrain d'Apprentissage CO
+
+< FIELD_COOP_SEALEDARCHIVE >
+Archive Scellée CO
+
+< FIELD_COOP_SWEETHEAVEN >
+Paradis Sucré CO
+
+< FIELD_COOP_WHIRLPOOL >
+Piscine aux Geysers
+
+< FIELD_COOP_WARFARE >
+Guerre CO
+
+< FIELD_COOP_SCARREDLAND >
+Terres Désolées CO
+
+< FIELD_COOP_DESERT >
+Rails du Solitaire CO
+
+< FIELD_COOP_CIRCUS >
+Cirque CO
+
+< FIELD_COOP_PURES >
+Course aux Bons Pures CO
+
+
+[EOF]

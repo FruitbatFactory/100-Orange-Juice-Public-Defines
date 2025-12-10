@@ -165,6 +165,12 @@
 < MENU_LOBBYSETTING_PVPBOUNTIES >
 玩家懸賞
 
+< MENU_LOBBYSETTING_TAGCOOLDOWN >
+換人冷卻
+
+< MENU_LOBBYSETTING_PARTNERREGENDELAY >
+搭檔復活時間變化
+
 < MENU_BUTTON_GAME_RETURN >
 回到遊戲
 
@@ -256,6 +262,15 @@
 < MENU_BUTTON_GAME_TAG >
 換人
 
+< MENU_BUTTON_GAME_REINFORCE >
+援助
+
+< MENU_BUTTON_GAME_INTERCEPT >
+阻截
+
+< MENU_BUTTON_GAME_BOLSTER >
+鼓舞
+
 < PLAYMENU_FREEBATTLE >
 在線遊戲
 
@@ -284,7 +299,7 @@
 在線與其他玩家進行對戰。
 
 < PLAYMENU_TOOLTIP_SHOP >
-購買卡包、角色、裝扮等物品。
+購買卡包、角色、裝飾等物品。
 
 < PLAYMENU_TOOLTIP_CAMPAIGN >
 選擇角色，並以單人遊戲體驗他們的故事。
@@ -784,7 +799,7 @@ QP還想多玩一會！夏日野獸復活了！
 在創建新房間或開始單人遊戲時，\n可以將遊戲模式切換至賞金獵人模式。
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_02 >
-在進行賞金獵人模式時，商店有時會出現\n食物標記。\n停在有標記的商店時就可以得到好吃的東西。
+在進行賞金獵人模式時，商店有時會出現\n食物標記。\n停在有標記的商店時就可以得到好吃的東西。\n每局遊戲你最多可以收集3個好吃的東西。
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_03 >
 任務地點和出售有用道具的商店會隨機\n出現在場地上，每6輪刷新一次。
@@ -829,10 +844,10 @@ QP還想多玩一會！夏日野獸復活了！
 接受魅櫻的指導學習如何游泳吧！\n全新合作模式BOSS，游泳教練，\n現已可供挑戰！
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_01 >
-你對游泳教練造成的一切傷害都會為所有玩家\n推進活動進度。
+你對{}造成的一切傷害都會為所有玩家\n推進活動進度。
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_02 >
-你也可以通過與其他活動模式BOSS戰鬥來\n貢獻活動進度。
+你也可以通過與其他合作模式BOSS戰鬥來\n貢獻半數的活動進度。
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_COMPLETE >
 活動完成了，兔萌萌也已經學會如何游泳了！\n不過你依然能參加游泳教練的訓練課程。
@@ -894,7 +909,7 @@ QP還想多玩一會！夏日野獸復活了！
 移動點數會自動用於沿當前的路線前進，\n直到遭遇岔路為止。\n你可以選擇要從哪條路線前進。
 
 < PLAYMENU_EVENT_PTS_INSTRUCTION_05 >
-經過某些格子時將獲得星星、橙子、隨機裝扮\n甚至活動獎勵！
+經過某些格子時將獲得星星、橙子、隨機裝飾\n甚至活動獎勵！
 
 < PLAYMENU_EVENT_PTS_INSTRUCTION_06 >
 誰將獲得傳說中的寶藏？讓我們拭目以待吧……
@@ -970,7 +985,7 @@ QP還想多玩一會！夏日野獸復活了！
 記憶碎片會自動用於沿當前的路線前進，\n直到遭遇岔路為止。\n你可以選擇要從哪條路線前進。
 
 < PLAYMENU_EVENT_WINTER2023_INSTRUCTION_05 >
-經過某些格子時將獲得星星、橙子或隨機裝扮！
+經過某些格子時將獲得星星、橙子或隨機裝飾！
 
 < PLAYMENU_EVENT_WINTER2023_INSTRUCTION_06 >
 你能回想起那些記憶，幫助露露克服心中的\n黑暗嗎？
@@ -1000,7 +1015,7 @@ QP還想多玩一會！夏日野獸復活了！
 每次進行交換後，在3輪內時間將無法再次進行\n交換，一定要三思而後行！
 
 < PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_06 >
-一旦當前領隊被擊倒，存活的搭檔將會被強制\n切換至場上。此類交換同樣會使換人進入\n冷卻狀態，請多加註意！
+一旦當前領隊被擊倒，存活的搭檔將會被強制\n切換至場上。此類交換同樣會造成換人進入\n冷卻狀態，請多加註意！
 
 < PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_07 >
 每經過一定輪數，搭檔角色將自動恢復HP。\n若搭檔已被擊倒，在經過等同於REC的輪數後\n搭檔將自動復活。
@@ -1019,6 +1034,63 @@ QP還想多玩一會！夏日野獸復活了！
 
 < PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_12 >
 打造你的最強小隊，成為本地100%鮮橙汁\n比賽冠軍吧！
+
+< PLAYMENU_EVENT_SUMMER2025_INSTRUCTION_MAIN >
+星球破壞者、托瑪特和米繆正在海邊興風作浪！\n全新合作模式BOSS“鬧事小隊”現已登場！
+
+< PLAYMENU_EVENT_SUMMER2025_INSTRUCTION_COMPLETE >
+幹得好！在經歷了一整天的戰鬥後，\n鬧事小隊終於把注意力轉移到了其它的事情上，世界也倖免於難了！
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_MAIN >
+百橙社還沒成立就陷入了存亡危機！\n用遊戲來向啵啵美證明你的資格吧！
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_01 >
+在此活動期間，你將能夠體驗到一種\n獨特的遊戲模式：搭檔模式！
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_02 >
+每日的首場遊戲可以獲得3點移動點數。\n除此以外，每日的首場搭檔模式遊戲可以另外\n再獲得3點移動點數。
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_03 >
+之後每場搭檔模式遊戲可以獲得2點移動點數，每場其它模式遊戲可以獲得1點移動點數。
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_04 >
+在活動地圖上，橙子格可獲得橙子，星星格\n可獲得星星，綠色的裝飾格可解鎖隨機裝飾，\n皇冠格可解鎖活動裝飾！
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_05 >
+在活動地圖上走完一圈即可完成活動，繼續遊戲\n還可獲得更多獎勵！
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_06 >
+在搭檔模式中，你可以額外選擇一名角色作為\n搭檔。
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_07 >
+每經過一定輪數，搭檔角色將自動恢復HP。\n若搭檔已被擊倒，在經過等同於REC的輪數後\n搭檔將自動復活。
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_08 >
+每次進行交換後，在一定輪數的時間內將無法\n再次進行交換，該輪數由房間的設置決定。\n一定要三思而後行！
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_09 >
+一旦當前領隊被擊倒，存活的搭檔將會被強制\n切換至場上。此類交換同樣會造成換人進入\n冷卻狀態，請多加註意！
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_10 >
+每經過一定輪數，搭檔角色將自動恢復HP。\n若搭檔已被擊倒，在經過等同於REC的輪數後\n搭檔將自動復活。
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_11 >
+懸停在搭檔頭像上時，可以看到他們距離\n下次恢復或復活的剩餘時間。
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_12 >
+處於搭檔位置的角色所攜帶的儲備效果不會消耗\n持續時間。
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_13 >
+搭檔所具有的會對遊戲產生影響的角色效果，\n在他們重返場地前不會起效。
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_14 >
+搭檔所具有的在復活時對自身起效的效果\n依然有效。
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_15 >
+打造你的終極小隊，證明你有資格成立\n百橙社吧！
+
+< PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_COMPLETE >
+祝賀你！百橙社正式成立了！\n一起賺取更多獎勵，感受青春時光吧！
 
 < PLAYMENU_EVENT_NEXT_GOAL >
 下一個目標：
@@ -1083,6 +1155,9 @@ HYPER
 
 < MENU_COOPCLASS_DEALER >
 發牌者
+
+< MENU_COOPCLASS_VANGUARD >
+先驅者
 
 < MENU_COOPUNLOCK_LEVEL >
 等級 %d： %s
@@ -1291,6 +1366,9 @@ CPU自定義
 < MENU_CODEXSTORY_TITLE_CONCIERGE >
 隨行
 
+< MENU_CODEXSTORY_TITLE_ALTENICO >
+夜空下的寶藏
+
 < MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
 使用「{1}」進行{0}場遊戲。
 
@@ -1334,6 +1412,6 @@ CPU自定義
 按住鼠標左鍵可加速
 
 < MENU_CSELECT_DIFFICULTY_LABEL >
-難度
+上手難度
 
 [EOF]

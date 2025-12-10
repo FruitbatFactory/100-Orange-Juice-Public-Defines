@@ -1,0 +1,11 @@
+< CARD_HYPER_TAG_POPPO >
+name=Ubiquitous
+descr=Warp to target active enemy's panel. In addition, steal stars equal to 10x their level.\nEffect Duration: 1 Chapter.\nYour base stats will be -1 ATK, DEF and EVD. Then roll to move.
+flavor="Poppo! Poppopopopopo!"\n―Marie Poppo
+
+< CARD_HYPER_TAG_COOK >
+name=Guidance of the Weathercock
+descr=Stock Effect.\nRoll 2 dice for everything except for battle. Can only check Norma on own Home panel. This effect ends when you stop on your own Home panel or tag out.
+flavor="*Cheep cheep*! Cook wants to go this way." ―Cook
+
+[EOF]

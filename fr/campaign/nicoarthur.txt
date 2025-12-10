@@ -1,0 +1,206 @@
+<0000> Ça remonte à il y a quelques Noëls, dans deux mondes différents, deux confrontations simultanées.
+<0001> Tous deux opposaient la Mère Noël, et un gérant de magasin de jouets ayant volé les cadeaux qu'elle devait livrer.
+<0002> Ces deux confrontations étaient presque identiques sur chaque point.
+<0003> La seule différence, c'est le coupable. C'étaient en fait deux personnes distinctes.
+<0004> Noëls Croisés : Prologue
+<0005> Noël arrive à grands pas.\nFinancièrement, c'est la meilleure période de l'année.
+<0006> Pfaahh...
+<0007> Mais avant tout de chose, j'ai encore un truc à faire.
+<0008> Je dois beaucoup à une certaine personne. Cette fois, je paie ma dette.
+<0009> *driiiing !*
+<0010> Hmm ?\nTiens, quand on parle du loup.
+<0011> Oui, allô.
+<0012> M. Arthur ! J'aurai besoin de votre aide pour les cadeaux de cette année !
+<0013> Hah, tu parles d'une coïncidence. J'étais sur le point de t'appeler.
+<0014> J'te dois beaucoup, tu sais. Cette fois, je ferai de mon mieux pour t'aider.
+<0015> Merci beaucoup, M. Arthur !
+<0016> En fait... disons qu'il y a quelques cadeaux dont je peux pas m'occuper...
+<0017> Dis-moi tout.
+<0018> Vous savez ce que c'est, vous, les sacs de frappe "Paf Bonk Tomomo !" ?
+<0019> Les... les "Paf Bonk Tomomo !" !?
+<0020> C'est des sacs de frappe au design parfaitement insupportable, et à la texture parfaitement adaptée aux poings...
+<0021> Quand on les frappe, ça fait un cri de douleur très agréable. C'est un très bon anti-stress, les mioches comme les adultes en raffolent.
+<0022> Il paraît même qu'ils sont constamment en rupture de stock. C'est dire.
+<0023> Justement ! C'est bien pour ça que je n'arrive pas à en trouver !
+<0024> C'est très difficile de s'en procurer, mais...
+<0025> T'en fais pas, j'en trouverai autant que nécessaire.
+<0026> Merci beaucoup, M. Arthur !
+<0027> Tu es...
+<0028> ...!
+<0029> ...Qu'est-ce que tu me veux ?\nBouge de là.
+<0030> A...Allez-vous-en !
+<0031> Je bosse, là, tu sais. Je dois récupérer ces sacs de frappe.
+<0032> Attendez ! Ils appartiennent à Nico !
+<0033> Nico...!?
+<0034> La Mère Noël a demandé à Nico de lui en apporter ! Laissez Nico faire son travail !
+<0035> La Mère Noël... t'en a demandé ?
+<0036> Tu bosses pour elle, toi aussi ?
+<0037> Hein ?
+<0038> Ça, pour une coïncidence.\nMoi aussi, je bosse pour la Mère Noël.
+<0039> Vraiment ?
+<0040> Ouaip. Elle avait besoin de moi pour retrouver ce produit deluxe en grande quantité.
+<0041> *driiing !*
+<0042> Pile à temps. C'est elle.
+<0043> M. Arthur !
+<0044> Yo. J'ai trouvé les sacs de frappe, comme prévu.
+<0045> Je savais que vous y arriveriez ! Merci beaucoup !
+<0046> ...Justement, j'avais autre chose à vous demander...
+<0047> Viens-en aux faits.
+<0048> Ça vous parle, les "Coussins-Câlin x16" ?
+<0049> Les... "Coussins-Câlin x16" !?
+<0050> Les Coussins-Câlin x16 !?\nLes gens disent que c'est des coussins tellement confortables qu'on dort 16 fois mieux avec...
+<0051> Tout juste. De fait, ça se vend très bien. À chaque remise de stock, ils sont précommandés en même pas une minute. C'est très dur d'en trouver.
+<0052> Ça... ça vous dérangerait d'en trouver pour moi ?
+<0053> Hah. C'est comme si c'était fait.
+<0054> ...Vous êtes sûr ?
+<0055> La Mère Noël l'a demandé. Autrement dit, des enfants en veulent.
+<0056> Et faire plaisir aux enfants, c'est mon boulot.
+<0057> D'accord...
+<0058> Dans ce cas, Nico va travailler avec vous !
+<0059> Hein ?
+<0060> Si on travaille tous les deux pour la Mère Noël, on pourrait y arriver beaucoup plus vite !
+<0061> C'est loin d'être facile, tu sais.
+<0062> C'est pour ça que Nico veut aider.\nPlus on est nombreux, plus c'est facile.
+<0063> Certes...\nOk, j'accepte. Mettons-nous au travail.
+<0064> Super !
+<0065> Je sais pas comment on a fait, mais voilà les Coussins-Câlin x16.
+<0066> Nico est soulagée !
+<0067> *driiiing !*
+<0068> Crie pas victoire trop tôt, voilà la patronne.
+<0069> Hmm... Qu'est-ce que Mère Noël va demander, cette fois ?
+<0070> H-hein ? T'es sûre de ce que tu dis...!?
+<0071> Q-q-quoi !?\nC'est quoi, cette fois !?
+<0072> Des "Accelerator"...
+<0073> Accelerator !?\nLe jouet bizarre qui fait courir plus vite quand on le met sur son dos !?
+<0074> Les enfants aiment bien en avoir quand ils galèrent aux cours de sport. Au moins, en plein hiver, ça devrait être plus facile d'en trouver...
+<0075> Non, il y a un problème !
+<0076> Quoi encore ?
+<0077> Les Accelerator...\nIls ont arrêté d'en produire.
+<0078> Comment c'est possible !?\nIls sont si demandés...
+<0079> Si Nico se souvient bien, des gens se plaignaient que la barre de surchauffe montait super vite...
+<0080> Pff, évidemment que ça surchauffe quand on sait pas mesurer sa vitesse. 'brutis.
+<0081> Aahhh, Nico en voulait, elle aussi.
+<0082> ...T'façon, si on veut en trouver, 'va falloir chercher partout.
+<0083> Haah, haah...
+<0084> Tiens.
+<0085> Du chocolat glacé ! Youpi !!
+<0086> Tu prends toujours les boissons froides, même les jours où il fait froid.
+<0087> Oui, Nico aime pas vraiment les boissons chaudes.\n...Euh, comment vous savez ça ?
+<0088> Je sais pas. Mon intuition, sûrement.
+<0089> D'accord... euh, merci !
+<0090> On va faire une pause le temps que tu finisses ton chocolat. Après, on pourra s'occuper du reste.
+<0091> C'est quoi ensuite ?
+<0092> Une peluche. De la série "Bêtes Dansant dans la Pénombre".
+<0093> Ils sont tous cousus à la main, c'est ça ? En édition limitée, en plus...?
+<0094> Si si... Pourquoi les enfants adorent les trucs aussi galère à trouver ?
+<0095> C'est pas leur faute, haha ! Tous les enfants sont exigeants.
+<0096> Un peu comme toi, finalement.
+<0097> Hiin...
+<0098> Bon, et toi, qu'est-ce que tu veux ?\nUn Accelerator, j'imagine ?
+<0099> Nico ne veut rien.
+<0100> ...Rien du tout ?
+<0101> Non.
+<0102> C'est bien la pire chose qu'on puisse dire à ses parents à Noël.
+<0103> Hihi. C'est pour compenser, Nico avait failli gâcher un Noël passé.
+<0104> Quoi, tu t'es battue avec la Mère Noël, ou un truc du genre ?
+<0105> Hein ? Comment vous savez ça ?
+<0106> Mon intuition.
+<0107> ...Vous avez une super intuition, alors.
+<0108> Les adultes ont souvent une bonne intuition.
+<0109> C'est trop fort, un adulte.
+<0110> Mais du coup, depuis ce jour, Nico voudrait apprendre à livrer les cadeaux elle-même.
+<0111> Le seul cadeau qui lui fait envie, c'est de rendre les enfants heureux partout dans le monde.
+<0112> Allez, on y retourne.
+<0113> Hé, pourquoi vous réagissez pas !?
+<0114> Ouahh... Nico sent qu'elle va bien dormir, ce soir.
+<0115> Si t'es fatiguée, tu peux rentrer chez toi.
+<0116> Nico est fatiguée, mais elle veut pas rentrer chez elle avant d'avoir terminé !
+<0117> D'ac'. Dans ce cas, tiens bon. La bonne nouvelle, c'est qu'il nous reste plus qu'un cadeau à trouver, et on aura fini.
+<0118> Ok !
+<0119> Et la mauvaise nouvelle, c'est que c'est sûrement le cadeau le plus dur à trouver.
+<0120> Tiens, Nico a reçu un message de la Mère Noël.\nHmmm...
+<0121> Hein...? On doit vraiment trouver...
+<0122> Un château volant.
+<0123> Un château entier pour Noël...\nC'est beaucoup trop demander !
+<0124> Héhéhé. Moi, ça me paraît pas non plus si improbable.
+<0125> Les enfants demandent vraiment ce genre de cadeaux ?
+<0126> Ouaip.
+<0127> Mais ça reste énorme, quand même !\nOn est vraiment capables de trouver un château ?
+<0128> On s'est bien débrouillés jusqu'à maintenant.\nJe m'inquiète pas pour ce cadeau-là.
+<0129> Vous êtes sûr ?
+<0130> Pas toi ?
+<0131> Nico va y arriver si elle y va avec vous.
+<0132> Bien sûr. Allons-y, trouvons ce dernier cadeau.
+<0133> Oui ! On va se donner au maximum !
+<0134> Ça y est ! On a réussi !
+<0135> Ouaip, beau travail.
+<0136> Bon, on fait quoi, maintenant ?\nTu veux un truc à bouffer ?
+<0137> Nico meurt de faim.\n...Le repas doit sûrement être servi chez elle.
+<0138> Ouais, c'est probable.
+<0139> Et vous, alors ?
+<0140> J'avais dit à ma femme que je rentrerais tard.\nMais là, on me prend un peu au dépourvu.
+<0141> Vous avez une amoureuse ?
+<0142> Ouais, et j'ai même une fille.
+<0143> Est-ce qu'elle ressemble à Nico, par hasard ?
+<0144> Comme deux gouttes d'eau. Quand je t'ai rencontrée, je t'avais prise pour elle.
+<0145> Le papa de Nico vous ressemble beaucoup aussi.\nC'est vraiment une coïncidence ?
+<0146> En plus, ma fille aussi s'appelle Nico.\nJ'aurais vraiment du mal à croire que c'est une coïncidence... mais bon, qui sait.
+<0147> M. Arthur ! Je vous ai beaucoup trop demandé, je suis désolée !
+<0148> Tiens, voilà la Mère Noël.
+<0149> Nico ! Merci beaucoup, tu m'as vraiment aidée !
+<0150> Bonjour, Mère Noël !
+<0151> H-hein, mais...!? T-tu es... moi !?
+<0152> Il y a deux moi !?
+<0153> Euh... Qu'est-ce qu'il se passe, en fait ?
+<0154> C'est qu'une intuition, encore une fois, mais j'ai l'impression qu'on vient pas du même monde.
+<0155> Dans mon monde, je me suis battu contre la Mère Noël.
+<0156> Comme Nico dans son monde, alors !
+<0157> Et j'imagine que ton père s'appelle également Arthur ?
+<0158> Oui... c'est logique, je crois...\nMais comment c'est possible ?
+<0159> Aucune idée. Mais ça nous pose un problème.
+<0160> Ah bon ?
+<0161> Laquelle des deux Mères Noël va récupérer les cadeaux ?
+<0162> Ah.
+<0163> Évidémment, je me joindrais à celle de mon monde.
+<0164> Nico va... euh...
+<0165> Tu as fait du mal à la Mère Noël de ton monde, pas vrai ?
+<0166> Oui.
+<0167> Tu sais quoi faire, alors.\nT'as beau être ma fille...\nNon, puisque t'es ma fille, je vais pas y aller mollo.
+<0168> Il y a intérêt !
+<0169> Hein, hein ?\nQu'est-ce qu'il se passe, ici, M. Arthur ?
+<0170> Calme-toi, Nico !\nJ'aimerais comprendre ce qu'il se passe.
+<0171> Papa, t'as aucune chance contre Nico !
+<0172> Retiens pas tes coups, Nico.
+<0173> Bien joué. Comme prévu, tu gardes les cadeaux.
+<0174> Mais, et les cadeaux de ton monde, alors ?
+<0175> Facile, j'ai qu'à en trouver d'autres.
+<0176> Euh, c'est loin d'être facile.
+<0177> C'est pas comme si on avait le choix, tu sais.
+<0178> Trouver tous les cadeaux... Encore ...!?
+<0179> Hiiin...
+<0180> Hé, tout va bien ?
+<0181> Hiiin ! Nico est fatiguée !\nEt le repas doit être en train de refroidir !
+<0182> Mais.
+<0183> Nico va t'aider !
+<0184> Hein ?
+<0185> T'es pas obligée, tu sais.
+<0186> Nico a dit qu'elle allait t'aider !
+<0187> Rentre chez toi, tes parents vont être inquiets, sinon.
+<0188> Hin... Est-ce que papa va me gronder ?
+<0189> Bien sûr que oui.\nEt tes parents te donneront moitié moins d'argent de poche pendant plusieurs mois.
+<0190> Hiiin ! Mais !
+<0191> Nico veut t'aider quand même ! Elle peut pas priver ta Mère Noël à toi pour rembourser sa dette !
+<0192> Et Nico veut que tous les enfants soient heureux ! On s'en fiche, du monde où ils vivent !
+<0193> Papa, t'es pas d'accord ?
+<0194> ...
+<0195> ...
+<0196> *soupir*
+<0197> T'as bien grandi, Nico.
+<0198> Ça se voit ?
+<0199> On fait ça le plus vite possible, puis tu rentres chez toi sans chichi après.
+<0200> Oui !
+<0201> Je ferai de mon mieux pour aider mon autre moi, alors !
+<0202> Merci, moi ! Merci, Nico !
+<0203> Dans ce cas, c'est parti pour la Chasse aux Cadeaux, partie 2!\nAllons-y !
+<0204> Ouais !
+<0205> Ouais.

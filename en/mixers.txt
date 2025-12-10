@@ -109,3 +109,23 @@ descr=1/3 of the field's ungooped panels become covered with goo for 1 chapter.
 < MIXER_SPORES >
 name=Spores
 descr=Mushrooms will spawn on the field.
+
+< MIXER_WILDFRIENDS >
+name=Wild Friends
+descr=All players start with a summon.
+
+< MIXER_CARDSHARK >
+name=Card Shark
+descr=All cards can be played at level 1 by players.
+
+< MIXER_SPEEDY_BOSS >
+name=Speedy Boss
+descr=Boss has +1 MOV.
+
+< MIXER_UBI_BOSS >
+name=Ubiquitous Boss
+descr=After a player lands on a Boss or Terror panel, the Boss warps to that player's panel.
+
+< MIXER_AMBUSH >
+name=Ambush
+descr=Boss starts the game with one of their cards being 1 level higher than usual.

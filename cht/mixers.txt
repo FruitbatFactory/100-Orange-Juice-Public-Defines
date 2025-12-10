@@ -109,3 +109,23 @@ descr=場地上三分之一的未被粘液覆蓋\n的格子被粘液覆蓋，持
 < MIXER_SPORES >
 name=孢子
 descr=在場地上生成蘑菇。
+
+< MIXER_WILDFRIENDS >
+name=野生朋友
+descr=所有玩家開場擁有一個召喚物。
+
+< MIXER_CARDSHARK >
+name=牌王
+descr=玩家的所有卡片都將作為1級使用。
+
+< MIXER_SPEEDY_BOSS >
+name=迅速的BOSS
+descr=BOSS的MOV+1。
+
+< MIXER_UBI_BOSS >
+name=神出鬼沒的BOSS
+descr=當玩家踩到BOSS格或恐懼格時，BOSS傳送至該玩家所在的格子。
+
+< MIXER_AMBUSH >
+name=偷襲
+descr=開場時，BOSS的一張卡片換為高1級的卡片。

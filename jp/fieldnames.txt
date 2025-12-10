@@ -122,6 +122,9 @@
 < FIELD_PURES >
 ぴゅあーずスタンプラリー
 
+< FIELD_SCHOOLYARD >
+校庭
+
 < FIELD_COOP_LAGOONFLIGHT >
 ラグーン飛行CO
 
@@ -226,6 +229,21 @@
 
 < FIELD_COOP_WHIRLPOOL >
 渦
+
+< FIELD_COOP_WARFARE >
+激戦空域CO
+
+< FIELD_COOP_SCARREDLAND >
+傷ついた大地CO
+
+< FIELD_COOP_DESERT >
+孤独な鉄道CO
+
+< FIELD_COOP_CIRCUS >
+サーカスCO
+
+< FIELD_COOP_PURES >
+ぴゅあーずスタンプラリーCO
 
 [EOF]
 

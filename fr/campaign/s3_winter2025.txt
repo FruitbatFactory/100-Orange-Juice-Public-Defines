@@ -1,0 +1,249 @@
+// CampaignScenario_Event_Season3_Part2_Intro
+// (kurie)
+<0000> Un club de 100% OJ, dis-tu ?
+// (poyo)
+<0001> Oui, Mme. Kurie ! Il faut bien profiter de notre jeunesse !
+// (kurie)
+<0002> Je respecte pleinement ton envie de créer ton club. Cette activité serait bénéfique pour tous.
+// (kurie)
+<0003> Cependant...
+// (poyo)
+<0004> Oui, Mme. Kurie ? Qu'il y a-t-il ?
+// (kurie)
+<0005> Nous avions déjà un club de 100% OJ, avant qu'il soit dissout, il y a deux ans.
+// (poyo)
+<0006> Hein !? Vraiment ?
+// (kurie)
+<0007> Oui. Les membres étaient si doués, ils devenaient imbattables.
+// (poyo)
+<0008> Mais pourquoi il a fermé, le club, alors ?
+// (kurie)
+<0009> Eh bien, parce que...
+// (unknown)
+<0010> J'ai bien entendu "club de 100% OJ" ?
+// (poyo)
+<0011> Hein ?
+// (kurie)
+<0012> Oh.
+// (popomi)
+<0013> Rassurez-moi, vous n'allez quand même pas ouvrir un nouveau club de 100% OJ ?
+// (poyo)
+<0014> Euh, en fait...
+// (kurie)
+<0015> Poyo, voici Mari Popomi, une de nos élèves de troisième année.
+// (poyo)
+<0016> De troisième année...? Elle est plus vieille que moi, alors !?
+// (popomi)
+<0017> Quoi, ça te dérange ?
+// (poyo)
+<0018> (Vu sa taille, j'ai vraiment cru qu'elle venait d'arriver.)
+// (kurie)
+<0019> Quel heureux hasard. Mari saura t'expliquer le passé du club de 100% OJ bien mieux que moi.
+// (poyo)
+<0020> Ah bon ?
+// (kurie)
+<0021> Elle en était membre.
+// (poyo)
+<0022> Vraiment !?
+// (kurie)
+<0023> Si tu tiens tant que ça à ouvrir un club de 100% OJ, tu devras la convaincre d'abord, Onoe.
+// (popomi)
+<0024> Même pas la peine. Popo va te montrer à quel point 100% OJ est dangereux !
+// (poyo)
+<0025> "Dangereux" ? 100% OJ ?!
+// (poyo)
+<0026> Et voilà...
+// (chuu)
+<0027> Et maintenant ?
+// (popomi)
+<0028> 100% OJ est un jeu dangereux ! Le meilleur moyen de vous le montrer, c'est d'y jouer...
+// (popomi)
+<0029> Oui, Popo est venue risquer sa vie pour vous montrer tous les dangers de ce jeu !
+// (kanata)
+<0030> Oh, elle a l'air beaucoup trop enthousiaste, d'un coup...
+// (haruka)
+<0031> Je l'aime bien !
+// (mimomo)
+<0032> Excusez-moi, vous m'accorderiez de jouer avec vous et Popomi ?
+// (chuu)
+<0033> On peut savoir ce que tu fais là, d'abord, "madame la déléguée" ?
+// (mimomo)
+<0034> J'ai eu vent comme quoi Popomi allait commencer un nouveau jeu ★
+// (popomi)
+<0035> Mimo débute encore au jeu. Autant jouer en mode équipe, que je m'associe à elle. Ça vous donnera une chance contre moi.
+// (poyo)
+<0036> On part pour un match de 100% OJ, vous deux contre nous, c'est ça ?
+// (popomi)
+<0037> Avec plus d'entrain, s'il te plaît ! C'est très sérieux !
+// (chuu)
+<0038> Très enthousiaste, et très sérieuse en même temps.
+// (mimomo)
+<0039> N'est-elle pas amusante ?
+// (poyo)
+<0040> E-enfin, si on te bat au jeu, tu nous laisseras créer notre club de 100% OJ, c'est ça ?
+// (popomi)
+<0041> Prends-le comme ça si tu veux.
+// (poyo)
+<0042> Dans ce cas... On va se donner à fond pour remporter ce match et sauver notre jeunesse !
+// (mimomo)
+<0043> Ok.
+// (popomi)
+<0044> On va dire que tu t'investies, c'est bien...!
+
+// CampaignScenario_Event_Season3_Part2_Ending
+// (popomi)
+<0045> Bien, bien ! Allez, montre-moi de quoi t'es capable !
+// (popomi)
+<0046> Ghh... Argh !!!
+// (poyo)
+<0047> Po-Popomi, ça va !?
+// (mimomo)
+<0048> Popou-chérie, arrête ! Tu te surmènes !
+// (popomi)
+<0049> Ç-ça y est, vous commencez à comprendre... Pourquoi ce jeu est aussi dangereux...?
+// (poyo)
+<0050> Pas vraiment...?
+// (popomi)
+<0051> Fut un temps où Popo était championne de 100% OJ. Elle était tellement douée qu'elle en était devenue la mascotte.
+// (poyo)
+<0052> La mascotte du jeu !? Ma.. Marie Poppo, c'était toi !?
+// (chuu)
+<0053> La célèbre mascotte, connue par tous les joueurs de 100% OJ...!?
+// (kanata)
+<0054> Et adorée par tous les joueurs.
+// (haruka)
+<0055> J'étais super fan... C'était vraiment toi...?
+// (popomi)
+<0056> Ouvrez les yeux ! C'est pas évident !? Vous aviez vraiment rien remarqué !?
+// (poyo)
+<0057> Eh bien, la Marie Poppo que je connais était toute petite, comme une vraie mascotte...
+// (mimomo)
+<0058> Popou-chérie a beaucoup grandi, ces deux dernières années.
+// (popomi)
+<0059> Oui, Popo a grandi d'un mètre, maintenant ! Enfin, pour le peu que ça change !
+// (chuu)
+<0060> Ça change beaucoup de choses !!!
+// (poyo)
+<0061> (Elle reste petite, par contre.)
+// (popomi)
+<0062> Oh, puis zut. C'est même plus important.
+// (popomi)
+<0063> Popo voulait vous montrer à quel point ce jeu est dangereux avant tout...
+// (popomi)
+<0064> Dès le jour où Popo a été choisie comme mascotte, elle a dû faire de son mieux pour garder ce titre.
+// (popomi)
+<0065> Pour pas perdre la main, elle s'est donnée un exercice spécial : jeter des dés 10.000 fois par jour.
+// (popomi)
+<0066> Puis un jour, elle a ressenti une douleur intense au poignet.
+// (popomi)
+<0067> Une tendinite... En un jour, Popo est devenue incapable de jeter les dés. Elle avait perdu la main.
+// (popomi)
+<0068> Et on ne peut pas jouer à 100% OJ sans jeter les dés...
+// (popomi)
+<0069> Popo a été obligée de quitter la communauté du jeu. Le club de 100% OJ s'est fermé peu après.
+// (popomi)
+<0070> Son poignet a beaucoup guéri, depuis... Mais si vous continuez à jeter les dés, vous allez... Argh !
+// (poyo)
+<0071> Popomi...
+// (kanata)
+<0072> Tu sais que personne ne t'oblige à jeter 10.000 dés par jour pour jouer à 100% Orange Juice ?
+// (popomi)
+<0073> Hein !?
+// (chuu)
+<0074> Kana, tu manques un peu de tact, là.
+// (kanata)
+<0075> Tu admettras qu'elle ne souffrirait pas du poignet sans cet "exercice spécial".
+// (popomi)
+<0076> C'est... c'est pas 100% OJ qui est dangereux, alors ? Juste l'exercice spécial de Popo ?!
+// (poyo)
+<0077> Euh, j'admire ton acharnement, par contre !
+// (mimomo)
+<0078> Ne la jugez pas, s'il vous plaît. Le titre de "Miss Mascotte", c'est un sacré fardeau. Elle faisait comme elle pouvait pour tenir le coup.
+// (haruka)
+<0079> Bien sûr. Je comprends parfaitement ce qu'elle ressent.
+// (poyo)
+<0080> On est pas près de décrocher un gros titre comme le tien, tu sais. Tout ce qu'on veut, c'est jouer, et profiter de notre jeunesse.
+// (popomi)
+<0081> Profiter de votre... jeunesse ? Hein ?
+// (poyo)
+<0082> Oui, on voudrait un club où tout le monde peut venir s'amuser autour du plateau. Où on s'amuserait tous, gagnants comme perdants.
+// (poyo)
+<0083> C'est sûrement la meilleure façon de vivre sa jeunesse, non ?
+// (poyo)
+<0084> C'est pour ça qu'on veut notre club de 100% OJ !
+// (poyo)
+<0085> Et on ne va pas jeter les dés trop souvent, c'est promis.
+// (popomi)
+<0086> ...Tu comprends que si tu t'investis trop dans les jets de dés, tu vas finir comme moi, hein ?
+// (kanata)
+<0087> T'inquiète, je ne la laisserai pas faire.
+// (popomi)
+<0088> Pff, bon, très bien.
+// (popomi)
+<0089> Vous en avez toutes envie, vous vous entendez bien, et vous n'allez pas jeter les dés trop souvent.
+// (popomi)
+<0090> Dans ce cas, Popo n'a aucune raison de vous arrêter.
+// (poyo)
+<0091> Popo...!
+// (popomi)
+<0092> Jouez à 100% OJ et profitez de votre jeunesse, tout ça.
+// (poyo)
+<0093> Oui !!
+// (mimomo)
+<0094> Oh, tout est bien qui finit bien, alors. Chouette.
+// (popomi)
+<0095> Cependant ! Popo a eu l'occasion de jouer avec vous, et il s'avère que vous êtes toutes nulles ! À force, vous risquez d'avoir une carrière pleine de défaites !
+// (poyo)
+<0096> Hein !?
+// (popomi)
+<0097> Du coup, Popo va rejoindre le club et vous entraîner !
+// (poyo)
+<0098> Quoi, t'es sûre !?
+// (chuu)
+<0099> Miss Mascotte de 100% OJ en personne va rejoindre notre club ?
+// (mimomo)
+<0100> Popou-chérie revient à ses sources de joueuse de 100% OJ ? Comme c'est amusant !
+// (mimomo)
+<0101> S'il en est ainsi, je vais vous rejoindre, moi aussi.
+// (popomi)
+<0102> Tu n'as quand même pas oublié que tu es déléguée de classe ?
+// (mimomo)
+<0103> Je peux faire les deux à la fois. Je suis douée là-dedans.
+// (poyo)
+<0104> Eh bien, tu es la bienvenue au club.
+// (haruka)
+<0105> Oui, on serait ravies de t'avoir !
+// (popomi)
+<0106> Si ça dérange personne, ça dérange pas Popo non plus.
+// (mimomo)
+<0107> Youpi ! Profitons de notre jeunesse, les amies !
+// (poyo)
+<0108> Ouais ! Le club de 100% OJ de l'Académie St. Tillante est de retour en force !!!
+// (everyone)
+<0109> Ouais !!
+// (rinse)
+<0110> Tiens, Marie Poppo en personne recommence à jouer à 100% OJ...
+// (suishou)
+<0111> J'en ai bien l'impression. Je prévois un impact sur la communauté du jeu.
+// (rinse)
+<0112> Héhé, si cela peut animer la communauté, je vois ça comme un changement positif.
+// (rinse)
+<0113> Au fait, rappelle-moi quelle est son école ?
+// (suishou)
+<0114> L'Académie St. Tillante, il me semble ?
+// (rinse)
+<0115> Mhm. St. Tillante... Attends, c'est...
+// (rinse)
+<0116> Oh, excuse-moi. J'ai reçu un message.
+// (rinse)
+<0117> Tiens, c'est Haru.
+// (suishou)
+<0118> Ton amie d'enfance, c'est ça ?
+// (rinse)
+<0119> Tout à fait. Elle et sa sœur sont de vrais anges. Je les considère comme mes propres... Oh, seigneur !
+// (suishou)
+<0120> Tout va bien ?
+// (rinse)
+<0121> Suishou, il nous faut demander un match d'entraînement de 100% OJ à St. Tillante.
+// (suishou)
+<0122> D-d'accord...!

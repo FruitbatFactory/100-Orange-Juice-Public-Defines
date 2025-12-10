@@ -1,0 +1,160 @@
+<0000> Hop-là.
+<0001> Allez, zou !
+<0002> Yah !
+<0003> On y va !
+<0004> J'balance cette carte !
+<0005> Je joue celle-là ! Alors !?
+<0006> J'vais jouer ça, ok ?
+<0007> J'veux voir c'que ça fait !
+<0008> 'faut tendre un piège ici ?
+<0009> Ça va comme ça ?
+<0010> Hmm... comme ça.
+<0011> J'pose une carte Piège !
+<0012> J'envoie une carte Combat !
+<0013> Pas b'soin de cette carte pour te battre !\nMais j'm'en sers quand même !
+<0014> Cette carte peut me rendre plus forte !? Trop cool !
+<0015> J'vais jouer ça, tiens !\nJ'suis sûre que ça va être génial !
+<0016> Aooouuuh ! Bestiaux, prêtez-moi votre pouvoir !
+<0017> C'était vraiment horrible...
+<0018> C'est pas comme ça qu'on va m'battre...!
+<0019> J'peux encore me battre !
+<0020> Allez ! Fini de s'reposer !
+<0021> On s'fiche de moi ou quoi !?
+<0022> Ohh, j'pensais que c'était bon, cette fois.
+<0023> Une grosse erreur...
+<0024> Heiin ? Et là, c'est bientôt fini ?
+<0025> Ey !
+<0026> Oryah !
+<0027> Teï !
+<0028> Bouffe !
+<0029> Aïe !
+<0030> Ouah !
+<0031> Grrr !
+<0032> Zut !
+<0033> Oui ! J'me sens beaucoup mieux, déjà !
+<0034> Ça fait trop du bien, j'ai presque envie de dormir...
+<0035> J'me sens déjà mieux.
+<0036> J'pète la forme !
+<0037> Ouaaahh !
+<0038> Quoi ? Pourquoi ?
+<0039> Muaaaahh !
+<0040> J'ai la tête qui tournicotte !
+<0041> Tu m'as vaincuuuee...
+<0042> J'aurais dû faire gaffe...
+<0043> J'peux plus tenir...
+<0044> J'vais hiberner un peu, je pense...
+<0045> Viens te battre !
+<0046> Aouuuh !
+<0047> J'vais te montrer la puissance de Sorcière Bestiale !
+<0048> Miaou ! Joue avec moi, maintenant !
+<0049> Quoi, tu veux jouer avec moi ? Ok !
+<0050> Ok, on va se battre comme jamais !
+<0051> 'faudrait être fou pour défier Sorcière Bestiale !
+<0052> T'aurais pas dû venir sur mon territoire !
+<0053> Attaque de la queue !
+<0054> J'vais te frapper !
+<0055> Tiens !
+<0056> Prends ça ! Yah !
+<0057> Kuaa !
+<0058> Tu fais quoi, là !?
+<0059> Aïeuh !
+<0060> Oahah !
+<0061> Hé, ça fait super mal !
+<0062> Pourquoi t'as fait ça !?
+<0063> Qu'est-ce que j't'ai fait de mal ?
+<0064> Ça fait trop trop mal !
+<0065> Aucune chance qu'ça touche !
+<0066> Admire un peu mon jeu de jambes !
+<0067> Héhéhé, j'suis trop rapide pour tes p'tits yeux !
+<0068> C'est pas possible d'être aussi lent.
+<0069> C'était fastoche.
+<0070> Je me suis amusée.
+<0071> Quoi, c'est déjà fini ?
+<0072> Pff, moi qui voulais continuer à jouer.
+<0073> Uuugyaah ! J'ai perdu !
+<0074> Comment je peux perdre contre un p'tit moins-que-rien...
+<0075> Gaffe, prochaine fois qu'on s'croise...
+<0076> Ugyahhh.
+<0077> Ugyaah, en v'là plein !
+<0078> J'en ai trouvé combien, là !? J'peux pas les compter !
+<0079> J'suis trop contente !
+<0080> Plus ! J'en veux encore plus !
+<0081> Hé, stop ! Elles sont à moi...!
+<0082> Hé ! Arrêtez ! J'étais pas au courant !
+<0083> Hein ? Elles sont passées où, mes étoiles ?
+<0084> Toutes mes économies...!!!
+<0085> Encore un piège tendu par un sale humain...!
+<0086> Ugyah ! J'me suis coincé la queue !!
+<0087> Fichu piège...! Zuteuh...!
+<0088> J'me suis vraiment laissée piéger... grrr...!
+<0089> Oh, ça, pour du bestiau !
+<0090> Héhéhé ! Il a l'air trop balèze !
+<0091> Quelle bête incroyable ! Wahaha ! J'vais pas me rater !
+<0092> C'est le moment de m'donner à fond !
+<0093> J'vais m'en trouver tout plein ! Zou !
+<0094> Plus j'ai d'étoiles, mieux c'est !
+<0095> J'vais en trouver plein et encore plus plein !
+<0096> J'peux trouver des bibelots comme personne !
+<0097> Z'allez goûter à l'instinct d'une bête sauvage !
+<0098> J'vais libérer ma puissance sauvage !
+<0099> Graouu ! J'vais me battre !
+<0100> Ma queue s'hérisse pour le combat !
+<0101> J'suis Téotoratta, Sorcière Bestiale !
+<0102> J't'attendais ! Viens, on va jouer !
+<0103> Tu veux voir à quel point j'suis balèze ?\nOk, j'vais te montrer !
+<0104> C'est à moi de jouer ? Depuis l'temps qu'j'attends !
+<0105> Prête comme jamais ! On y va !
+<0106> Héhé, on peut y aller !
+<0107> Prête à l'action ! Aouuuh !
+<0108> J'suis prête ! Allons-y !
+<0109> Aouaouuhh ! J'ai gagné ! J'ai gagné !
+<0110> J'remporte la partie ! Pas mal, hein ?
+<0111> Alors ? T'as vu comment j'suis forte ?
+<0112> Hihihi ! Trop contente !
+<0113> T'as vu c'que j'ai trouvé ? Tu l'veux ?
+<0114> Ouaf ! J'ai trouvé ça ! Allez, un sourire !
+<0115> Oh, t'as un nouvel objet ? Ça t'dit de jouer avec ?
+<0116> Quoi, tu l'veux ? 'va falloir me supplier, alors !
+<0117> Prends ma place !
+<0118> Échange avec moi.
+<0119> On échange deux secondes.
+<0120> Remplace-moi, j'ai b'soin d'une pause !
+<0121> Ok !
+<0122> Super !
+<0123> Ouaf, ouaf !
+<0124> 'faut pas faire ça.
+<0125> J'suis trop déçue.
+<0126> La chance ! J'suis trop contente !
+<0127> C'est quoi, ce truc ?
+<0128> On peut commencer !
+<0129> J'envoie les dés !
+<0130> C'est partiii !
+<0131> You-hou !
+<0132> Muuu...
+<0133> Super bien joué !
+<0134> C'est génial ! J'suis impressionnée !
+<0135> Muu... Muuuu...
+<0136> J'devrais jouer ça ? C'est utile, au moins ?
+<0137> *renifle*... Ça sent bon ! J'vais la jouer !
+<0138> J'ai qu'à la jouer, tiens ! On va bien voir c'que ça fait !
+<0139> Ça fait quoi, c'truc ? J'ai hâte de voir !
+<0140> Miusaki ! Aouuuh ! Prépare-toi !
+<0141> Enragée, moi ? Nan, je joue, c'est tout !
+<0142> Miusakiii, déjà à bout de souffle !?
+<0143> Muuuu... Miusakiii, reste avec moi...
+<0144> T'es quoi, toi !? Une bête ? Un humain !?
+<0145> Hein, hein ? Un humain ? Une bête ? T'es quoi, d'abord !?
+<0146> T'étais une bête, alors !\nT'espérais quoi contre Sorcière Bestiale ?
+<0147> Mes pouvoirs ont pas marché...\nT'es vraiment humain, alors...
+<0148> Très bien ! Bravo, mes bêtes !
+<0149> Félicitations, amies bêtes !
+<0150> Beau boulot, les gars !\nJ'sais même pas si j'peux tout porter !
+<0151> Ici, mes pouvoirs trouvent leur plein potentiel...!
+<0152> J'peux sentir des bêtes partout dans le coin !
+<0153> Hihihi, c'est sympa, par ici.
+<0154> Aouuuh ! Ouaf ouaf !
+<0155> Il résiste à mes pouvoirs...?
+<0156> Qu'est-ce que...!?\nJ'pensais être la seule Sorcière Bestiale !
+<0157> Hmmm ? J'crois qu'il y a un truc qui cloche, là...
+<0158> J'y comprends rien. Keskispasse, ici ?
+<0159> Il y a des copies de moi ou quoi ?\nC'est quoi, c't'endroit !?

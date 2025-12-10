@@ -1,0 +1,160 @@
+<0000> Allez.
+<0001> Hmpf.
+<0002> Là.
+<0003> Hop.
+<0004> Celle-là.
+<0005> J'ai le droit de m'en servir ?
+<0006> Je joue celle-ci.
+<0007> Cette carte.
+<0008> Soyez prudents.
+<0009> Je pose ça ici.
+<0010> Bon, qui va bien l'activer ?
+<0011> Ça doit bien pouvoir servir.
+<0012> Allons, fais pas cette tête.
+<0013> C'est le moment de s'en servir.
+<0014> C'est mon meilleur atout !
+<0015> Je ne retiendrai pas mes coups.
+<0016> Finissons-en.
+<0017> C'est bon, je peux y retourner.
+<0018> Je redémarre.
+<0019> Ça y est, c'est réparé.
+<0020> Il faut que je me reprenne.
+<0021> Allez, j'ai pas le temps.
+<0022> Allez, plus vite.
+<0023> Je ne peux toujours pas y retourner ?
+<0024> Non, toujours pas ?
+<0025> Tiens !
+<0026> Prends ça !
+<0027> Feu !
+<0028> Attention, ça va faire mal !
+<0029> Kuh !
+<0030> Gh !
+<0031> Aïe !
+<0032> Qui m'attaque !?
+<0033> Je répare.
+<0034> Voilà les premiers secours.
+<0035> Encore un peu.
+<0036> Ça m'aide beaucoup.
+<0037> Qu'est-ce que...?
+<0038> On entre en turbulences...
+<0039> Ça emmène où, ça ?
+<0040> Qu'est-ce qu'il se passe ?
+<0041> On m'a eue.
+<0042> Une erreur douloureuse.
+<0043> Je ne tiens plus !
+<0044> C'est fichu pour moi !
+<0045> Je n'ai pas d'autre choix que de me battre.
+<0046> Je vais attaquer en premier.
+<0047> Bouge de là.
+<0048> Je vais t'apprendre un truc ou deux.
+<0049> Je ne peux pas refuser un combat.
+<0050> Tu me fatigues.
+<0051> Ça va mal finir pour toi.
+<0052> Tu as du cran.
+<0053> Je vais t'écraser !
+<0054> Prends ça !
+<0055> Fais tes prières !
+<0056> Abandonne !
+<0057> Guh !
+<0058> Aïe.
+<0059> Tu oses ?
+<0060> On m'a touchée.
+<0061> Guaah !
+<0062> Je suis fichue !
+<0063> Bon sang !
+<0064> Dans le mille !
+<0065> Hmf.
+<0066> J'aurais pu y passer.
+<0067> C'est raté.
+<0068> Je le voyais venir.
+<0069> Ne m'en veux pas.
+<0070> Allez, à plus.
+<0071> Retourne t'entraîner.
+<0072> Tu m'auras saoulée jusqu'au bout.
+<0073> C'est pas possible.
+<0074> Tu cherches les ennuis.
+<0075> Je t'ai sous-estimé...
+<0076> J'ai manqué de prudence.
+<0077> Bien.
+<0078> Excellent.
+<0079> Pas mauvais.
+<0080> Je prends.
+<0081> Oh, peu importe.
+<0082> Soit.
+<0083> Oui, bon.
+<0084> Qu'est-ce que...
+<0085> Pft.
+<0086> Quelle erreur.
+<0087> Et allez...
+<0088> De mieux en mieux.
+<0089> Comme si j'avais pas déjà assez d'ennuis.
+<0090> Ça s'arrête jamais ou quoi ?
+<0091> Si ça peut me valoir une prime...
+<0092> C'est pas la taille qui compte.
+<0093> J'ai choisi les étoiles.
+<0094> Les étoiles.
+<0095> Pourquoi pas les étoiles, tiens.
+<0096> J'espère que c'est pas trop dur à trouver.
+<0097> Comme si je le faisais pas déjà assez au taf.
+<0098> Il faut en abattre combien, en tout ?
+<0099> Bon, eh bien, quand 'faut y aller...
+<0100> J'aurais aimé quelque chose de plus tranquille.
+<0101> J'imagine que j'ai pas le choix ?
+<0102> Si c'est pour piloter, ça me dérange pas.
+<0103> Moi...? Oh, seigneur.
+<0104> C'est d'un ennui.
+<0105> Allez, qu'on en finisse.
+<0106> Je vais régler ça vite fait.
+<0107> Sur ce, j'y vais.
+<0108> C'est pas en se plaignant qu'on arrive à ses fins.
+<0109> C'était ridicule.
+<0110> Vivement ma prime pour cette victoire.
+<0111> C'est enfin fini, alors...? Quelle journée.
+<0112> Ça vous dirait qu'on trinque à ma victoire ?
+<0113> Je le prends.
+<0114> Je connaissais pas, ça.
+<0115> Tiens, un nouvel objet.
+<0116> Je l'avais pas, celui-là.
+<0117> On échange.
+<0118> ...Allez, tu peux y arriver.
+<0119> Je vais prendre ma pause.
+<0120> Tu prends le relai ?
+<0121> Ok.
+<0122> Pas mal.
+<0123> D'accord.
+<0124> Navrée.
+<0125> C'est mauvais.
+<0126> Oh.
+<0127> Hmm ?
+<0128> C'est maintenant...
+<0129> J'envoie.
+<0130> Allons-y.
+<0131> 'jour.
+<0132> Bon sang.
+<0133> Bien.
+<0134> Excellent.
+<0135> Hm !
+<0136> Comment est-ce possible !?
+<0137> Mieux vaut ça qu'échouer.
+<0138> Non, ce n'est pas de la triche.
+<0139> J'ai le droit de m'en servir, hein ?
+<0140> Fais de ton mieux. Je ne me retiendrai pas.
+<0141> Cette fois, tu n'en reviendras pas.
+<0142> Tâche de bien te tenir, la prochaine fois.
+<0143> J'espérais vous affronter au moins une fois.
+<0144> Montre-moi ce que tu vaux.
+<0145> Je n'aime pas m'en prendre aux plus faibles.
+<0146> Je vais te corriger comme il se doit.
+<0147> Je vais devoir te détruire, si tu me barres la route.
+<0148> On ne devrait pas se battre ainsi.
+<0149> C'est parfaitement ridicule.
+<0150> Ne m'approchez pas, ou ça va mal finir.
+<0151> Bien. Combien j'ai gagné ?
+<0152> C'est toujours mieux qu'un match nul.
+<0153> Ça faisait vraiment partie de mon arsenal ?
+<0154> Je préfère éviter les ennuis.
+<0155> C'est une vraie tête brûlée... mais des fois,\nj'aime bien faire comme elle.
+<0156> Ne m'attaquez pas, merci.
+<0157> Ça va me porter malheur.
+<0158> Ne m'en veux pas.
+<0159> Moi qui espérais du défi.

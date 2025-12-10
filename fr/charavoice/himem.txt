@@ -1,0 +1,161 @@
+<0000> Voilà.
+<0001> Comme ça.
+<0002> Avec grâce.
+<0003> Allons-y.
+<0004> Hihi.
+<0005> Et voici.
+<0006> C'est bien amusant.
+<0007> Le moment est venu de la jouer.
+<0008> Voilà mes chaînes.
+<0009> Venez voir par là.
+<0010> Rien qu'une petite plaisanterie.
+<0011> Hihi, comme c'est amusant.
+<0012> Les choses vont s'agiter.
+<0013> Commençons.
+<0014> Puisse ceci changer les choses.
+<0015> Hihi, merveilleux.
+<0016> Nous allons bien nous amuser.
+<0017> Puis-je repartir ?
+<0018> Mon repos est-il terminé ?
+<0019> Je vais pouvoir y retourner.
+<0020> Rien n'est perdu.
+<0021> Mon dieu.
+<0022> Que s'est-il passé ?
+<0023> La situation m'a échappé des mains.
+<0024> Devrais-je alors me reposer encore un peu ?
+<0025> Fuh !
+<0026> Hop.
+<0027> Et voici.
+<0028> Aha.
+<0029> Aïe.
+<0030> Hmm.
+<0031> Oh non.
+<0032> Kya !
+<0033> Comme c'est doux.
+<0034> C'est bien agréable.
+<0035> Je me sens retrouver mon énergie.
+<0036> Ohh.
+<0037> Oh, c'est vilain.
+<0038> Seigneur.
+<0039> Je virevolte.
+<0040> Ahaha.
+<0041> Je vais prendre une légère pause.
+<0042> Je commence à fatiguer.
+<0043> Un peu de repos.
+<0044> Pfuu...
+<0045> C'est le moment.
+<0046> Tu me sembles bien vulnérable...
+<0047> Veux-tu jouer avec moi ?
+<0048> Je pensais passer à l'action.
+<0049> Oh, seigneur.
+<0050> Tu m'as fait peur.
+<0051> Tu souhaites jouer avec moi ?
+<0052> Comme c'est grisant.
+<0053> Hop.
+<0054> Tiens.
+<0055> Voilà.
+<0056> C'est pour toi.
+<0057> Aïe.
+<0058> Oh.
+<0059> Hé.
+<0060> Kya !
+<0061> C'est affreux.
+<0062> Aïe, aïe.
+<0063> Ça suffit.
+<0064> Quel choc.
+<0065> Ça ne marchera pas ainsi.
+<0066> Que dis-tu de cette esquive ?
+<0067> Je suis ici.
+<0068> En pleine douceur.
+<0069> J'aurais aimé jouer plus longtemps.
+<0070> Mes excuses.
+<0071> Hihi, je me suis bien amusée.
+<0072> Es-tu fatigué ?
+<0073> Je crains avoir perdu.
+<0074> *baîlle*
+<0075> Quelle énergie.
+<0076> Oh, mon dieu.
+<0077> Comme c'est joli.
+<0078> Où les mets-je ?
+<0079> C'est fait.
+<0080> Hm. Puis-je les garder chez moi ?
+<0081> Oh, oh. Seigneur.
+<0082> Où allez-vous ?
+<0083> Je m'y étais attachée...
+<0084> Quel dommage...
+<0085> Je ne m'y attendais pas.
+<0086> Kya !... Désolée, ça m'a surprise.
+<0087> Oh, c'est déplaisant.
+<0088> Serait-ce... un piège ?
+<0089> Voilà une forte présence.
+<0090> Je redoute la catastrophe.
+<0091> Je suis... un peu enthousiaste, à dire vrai.
+<0092> Hihi, voilà qui sera intéressant.
+<0093> Je ne pense pas pouvoir en tenir autant, mais...
+<0094> Si j'en trouvais beaucoup,\nje pourrais les partager avec tout le monde.
+<0095> Aimez-vous les bijoux ? Moi, oui, beaucoup.
+<0096> Hihi, allons en trouver plein.
+<0097> Tantôt, j'aime me battre.
+<0098> Il faut jouer comme on l'entend.
+<0099> Cela me semble tout aussi amusant.
+<0100> Le sport est tout aussi important.
+<0101> Es-tu disponible, à présent ?
+<0102> Souhaites-tu m'accompagner ?
+<0103> Que ferons-nous, aujourd'hui ?
+<0104> Est-ce une invitation ?
+<0105> Lors d'une compétition,\nil faut toujours faire de son mieux.
+<0106> Je tenterai de décrocher la victoire.
+<0107> J'ai hâte de voir le déroulé de cette partie.
+<0108> Jouons avec passion.
+<0109> Je me suis bien amusée.
+<0110> Hihihi, quelle joie.
+<0111> Nous devrions rejouer ensemble.
+<0112> Ce fut une belle partie.
+<0113> De quoi s'agit-il ?
+<0114> Oh, n'est-ce point merveilleux ?
+<0115> Tu as l'air ravi. Le cherchais-tu ?
+<0116> Oh, c'est si mignon.
+<0117> Je vais tirer ma révérence.
+<0118> Je serais ravie de te voir à l'œuvre.
+<0119> Bonne chance pour la suite.
+<0120> Échangeons.
+<0121> Oui.
+<0122> Merveilleux.
+<0123> Oui, bien sûr.
+<0124> C'est infavorable.
+<0125> J'en suis navrée.
+<0126> Hihi, quelle chance.
+<0127> Bon...
+<0128> Nous devons y aller.
+<0129> Et voilà.
+<0130> Je te souhaite bonne chance.
+<0131> Bien le bonjour.
+<0132> Tout cela me laisse perplexe.
+<0133> Hihi, merveilleux.
+<0134> Tu as bien travaillé. Félicitations.
+<0135> Hmm.
+<0136> De quoi s'agit-il ?
+<0137> Puis-je l'utiliser aussi ?
+<0138> Hmm... Je m'en sers correctement ?
+<0139> Quel est son pouvoir ? Je m'impatiente de voir.
+<0140> Merci beaucoup.
+<0141> Suguri... Sais-tu combien tu as l'air paresseuse ainsi ?
+<0142> Suguri, cet accoutrement mérite une explication.
+<0143> Même seule, tu ne devrais pas être si paresseuse.
+<0144> Malgré cette vraisemblable paresse,\ntu es toujours aussi forte.
+<0145> Je t'implore de te reprendre.
+<0146> Oh, tu devrais faire plus d'efforts.
+<0147> Tu es tellement pleine d'énergie.
+<0148> Oh, tu es là, toi aussi ?
+<0149> Il n'est pas question de perdre contre toi.
+<0150> Tu es bien assez forte pour me remplacer.
+<0151> Oh, je crois qu'elle est en congée, aujourd'hui.
+<0152> N'est-ce point agréable de jouer sans pression ?
+<0153> Ces vêtements... Je me demande si cela m'irait.
+<0154> Vous êtes vraiment douée.
+<0155> Je m'ennuie.
+<0156> Je suis si ravie de jouer avec vous deux.
+<0157> Hihi, profitons de cet instant merveilleux.
+<0158> Il est si rare de retrouver chérie et Suguri ensemble.
+<0159> Maintenant que nous sommes toutes réunies,\namusons-nous du mieux que possible.
+<0160> Je sens comme une sorcière aux alentours.

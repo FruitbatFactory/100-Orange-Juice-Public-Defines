@@ -1,0 +1,170 @@
+<0000> Yuki, rends-moi mon pudding !
+<0001> Ohoho... Si tu y tiens tant que ça, viens le chercher !
+<0002> Je vais pas me retenir !!
+<0003> Quel pathétique spectacle...\nDeux enfants qui se battent pour des sucreries.
+<0004> Hé !? T'es qui, toi !?
+<0005> Je suis Sweet Breaker, l'une des six Déesses du Sucre.
+<0006> La violence ne mène à rien... Veuillez mettre un terme à cette idiotie sur-le-champ.
+<0007> Héé ! Sweet Breaker ! Elles jouent ensemble, c'est tout ! Fiche-leur la paix !
+<0008> Voilà une autre tarée.
+<0009> C'est moi que tu traites de tarée !?
+<0010> Qui que vous soyez, écartez-vous !\nJe vais me battre pour sauver mon pudding !
+<0011> La brune a raison, on fait que jouer. Laissez-nous tranquille.
+<0012> C'est pas un jeu ! C'est la guerre !
+<0013> Quelles petites sottes...\nSi vous continuez, je vais devoir vous arrêter.
+<0014> Ouaille.
+<0015> Gueehh...
+<0016> Ainsi, la paix est restaurée.
+<0017> P-pas encore...
+<0018> Pourquoi t'acharner à combattre ?
+<0019> Parce que mon pudding...\nMon précieux pudding...
+<0020> Alors soit... Si tu tiens tant que ça à ton pudding, je t'en offre volontiers.
+<0021> Hein ! Tu m'offres du pudding !?
+<0022> Bien sûr. Je suis Sweet Breaker,\nl'administratrice de toutes les sucreries du monde.
+<0023> Tiens, prends celui-ci. C'est là un pudding que je pourrais conseiller à tout le monde.
+<0024> Ouah !! Il a l'air exquis !
+<0025> Pfiou, tout est réglé, on dirait.
+<0026> C'est loin d'être terminé, Tomomo.
+<0027> Hein ?
+<0028> J'aperçois moultes confrontations partout dans le monde.
+<0029> Faut dire qu'il est conçu pour que les gens se battent avec les dés.
+<0030> Il me semble l'avoir déjà dit, mais la violence ne mène à rien... Allons mettre un terme à ces disputes.
+<0031> Hein ? Hé, une minute. Ça ruinerait tout l'intérêt de ce monde...
+<0032> Il serait grand temps d'arrêter, tu ne penses pas ?
+<0033> Quel est ton problème, sœurette ?\nQuelque chose te tracasse ?
+<0034> Je te prie d'arrêter d'enlever ta chemise en public. Tu n'as donc pas honte !?
+<0035> Quel manque de tact. Je suis gêné.
+<0036> Bien. Rhabille-toi, alors...
+<0037> Cette gêne me touche en plein cœur. Du coup, je me déshabille !
+<0038> Quel détraqué... Je dois absolument en finir avec lui... Comme c'est agaçant.
+<0039> Veuillez cesser.
+<0040> Mhm...?
+<0041> Il est malheureux de voir des frères et sœurs se chamailler.\nJe vous demande d'arrêter immédiatement.
+<0042> Ne vous mêlez pas de ça.\nC'est un problème familial.
+<0043> Exact. C'est ainsi que nous communiquons.\nVeuillez rester en dehors de tout ça.
+<0044> Je le savais.\nLes mots à eux seuls ne peuvent mettre fin au conflit...
+<0045> Je pense bien que si.\nC'est plutôt ta communication qui est à revoir, Sweebo...
+<0046> Je vais mettre un terme à ce combat fraternel.
+<0047> Argh...
+<0048> Mon dieu, quelle teigneuse.
+<0049> Que cela vous serve de leçon. Je ne veux plus vous reprendre en train de vous battre.
+<0050> Pour un cessez-le-feu, c'était carrément brutal...
+<0051> Hahaha ! Je te défie, Red Barrel !
+<0052> Tu remets ça, Blue Crow ?\nFiche-moi la paix, à la fin !
+<0053> Tu peux parler !\nJe volerai jusqu'à ce que tu écoutes ce que j'ai à te dire !
+<0054> Tu me fatigues !\nTu dis ça comme si j'écoutais jamais personne.
+<0055> Exactement ! Tu n'écoutes jamais personne !
+<0056> Un combat entre deux avions...\nOn se croirait en temps de guerre.
+<0057> Hé, regarde ! Cette fille vole dans le ciel !?
+<0058> Quoi encore ? Encore un coup fourré de ce vieux scientifique !?
+<0059> Encore un combat qui se doit d'être arrêté par Sweet Breaker.
+<0060> Ça a l'air de t'amuser, Sweebo...
+<0061> Aïe, ça fait mal...
+<0062> Moi, perdre contre cette folle ? C'est encore pire que de perdre contre Red Barrel...
+<0063> Maintenant, veuillez faire la paix et cesser de vous battre.
+<0064> C'est hors de question.\nJe me battrai jusqu'au jour où j'arriverai à l'abattre !
+<0065> T'es vraiment qu'un idiot, Blue Crow...
+<0066> Vous n'avez donc pas retenu la leçon ?
+<0067> Attends, attends. Ces deux-là s'entendent à leur manière. Si tu t'interposes encore, ça va compliquer les choses pour rien.
+<0068> C-cesse de me rabaisser ainsi.
+<0069> En plus, j'arrive à voir un grand combat sur le point d'éclater, par là-bas.
+<0070> Comment...!?
+<0071> Hime... Dis-moi la vérité.
+<0072> Qu'est-ce qui te rend aussi irritée, Sora ?
+<0073> Le pudding que je m'étais gardé pour plus tard... Tu l'as mangé, pas vrai ?
+<0074> Seigneur, tu m'as démasquée ?
+<0075> Tu as laissé ton parfum sur mon assiette.
+<0076> Impressionnant. Même jusqu'à ton odorat, tu es tel un petit chien.
+<0077> Je suis pas un chien.
+<0078> Hihihi.\nJe suis désolée pour ton pudding.\nMais c'était inévitable.
+<0079> Tu as une bonne excuse ?
+<0080> Complètement inarrêtable.
+<0081> Malgré mes efforts, je ne pouvais pas retenir ma cuillière.
+<0082> ...C'est une bonne excuse, ça, pour toi ?
+<0083> ...
+<0084> ...
+<0085> Non ?
+<0086> Non.
+<0087> Punition ?
+<0088> Punition.
+<0089> Me dis pas que...
+<0090> Un rayon laser brûlant...
+<0091> Nooon ! Tout mais pas ça !
+<0092> Calibré à 50°C.
+<0093> Voilà un degré adéquatement calibré !
+<0094> Encore un combat insensé sur le point de commencer.\nJe dois y mettre un terme !
+<0095> C-c'est quoi votre problème...?
+<0096> Tu es le héros qui a mis fin à la guerre, n'est-ce pas ?\nPourquoi te battre encore aujourd'hui?
+<0097> Parce que mon pudding... elle l'a...
+<0098> Le pudding...\nEncore un combat causé par du pudding.
+<0099> Hmm ? À quoi tu penses, Sweebo ?
+<0100> Cesse de m'appeler ainsi. Ce sobriquet m'irrite depuis un bon moment.
+<0101> Pfff.
+<0102> Enfin...\nLe pudding est responsable de la première altercation d'aujourd'hui... Et maintenant, voilà que ça recommence.
+<0103> Plus qu'un dessert, le pudding serait-il vecteur de conflit...?
+<0104> Hein ? Attends, Sweet Breaker. Tu ne vas quand même pas...
+<0105> S'il en est ainsi... Moi, Sweet Breaker, je vais sceller le pudding.
+<0106> Je vais sceller le pudding.
+<0107> Attends un peu !\nJ'adore le pudding, moi aussi !\nJe peux pas te laisser faire ça !
+<0108> Je vois... Ainsi, tu vas m'arrêter, Tomomo, déesse du sucre Sweet Eater ?
+<0109> Étant toi-même déesse du sucre, je sais que t'es plus forte que moi.\nJe ne peux pas te défier seule...
+<0110> Cependant !
+<0111> Ta-da !\nSaki à la rescousse du pudding !
+<0112> Sweet Maker, Saki...!
+<0113> Déesse du sucre ! Merci encore pour le pudding de tout à l'heure.\nGrâce à lui, j'ai gagné des pouvoirs magiques !
+<0114> Et ce sont ces pouvoirs qui sauveront le pudding.
+<0115> Ainsi, mon pudding divin t'a éveillée... Sweet Guardian, QP !
+<0116> Te voilà face à trois déesses du sucre. Même pour toi, ça sera pas mince affaire.
+<0117> Je suis Sweet Breaker. La déesse maintenant l'équilibre des sucreries...J'accomplirai mon devoir, qu'importe l'adversité.
+<0118> Une défaite écrasante !
+<0119> Kyaaa...
+<0120> Pas possible... Même à trois contre un, ça suffisait pas...
+<0121> Ainsi, plus rien ne m'empêche de sceller le pudding... Que-...!?
+<0122> ...Sweet Breaker ?
+<0123> Je ressens un conflit terrible non loin de là... Un conflit bien plus intense que tous les autres...!!
+<0124> Mouahahahahaha ! Je suis Star Breaker, la mèche étincelante de la planète !!
+<0125> Star Breaker... Quelle aura maléfique.
+<0126> Hahahaha ! Brûle ! Brûle !\nJe vais tout brûler !
+<0127> Quelle est cette plaisanterie, Tomomo ? Pourquoi avoir créé quelqu'un d'aussi dangereux ?
+<0128> Je me disais que ce serait marrant d'avoir au moins une ou deux personnes un peu tarées.
+<0129> Pour l'amour du ciel, elle brûlera le monde entier si on la laisse faire.
+<0130> Tu as raison. On doit l'arrêter. Poppo, on y va !
+<0131> Poppo!
+<0132> Oh, vous voulez vous faire carboniser ?
+<0133> Tes pouvoirs devraient servir la pâtisserie.\nAu nom de Sweet Breaker, je mettrai un terme à ta soif de destruction.
+<0134> Haah, haah... C'est amusant...
+<0135> Argh...\nElle arrive encore à bouger ?
+<0136> Elle est redoutable...
+<0137> Mais j'ai faim, maintenant...\nIl y a quelque chose qui sent bon...
+<0138> Une bonne odeur... Oui, t'as raison.
+<0139> Seigneur...\nLe pudding que je m'apprétais à sceller... Il est cuit comme il faut, maintenant.
+<0140> Hein, vraiment !?
+<0141> *scrute*
+<0142> Se pourrait-il que tu désires déguster ce pudding ?
+<0143> J'ai vraiment faim.
+<0144> Alors soit. Je ne puis refuser une sucrerie à ceux qui en désirent...\nTiens.
+<0145> *miam*... C'est délicieux...
+<0146> Pourquoi t'acharner à combattre si tu sais cuisiner le pudding à merveille...?
+<0147> Cuisiner le pudding...?\nJe l'ai cuisiné ?
+<0148> C'est exact. En combattant avec le feu, tu as cuit le pudding.
+<0149> Est-ce vraiment...
+<0150> Pardon ?
+<0151> *cronch*... *miam*
+<0152> C'est vraiment délicieux. Je voudrais en faire d'autres... J'aimerais cuisiner tout plein de sucreries.
+<0153> Songe-t-elle à ne plus détruire le monde...?
+<0154> J'ai encore faim.
+<0155> ...
+<0156> C'est une pure coïncidence,\nmais bravo, t'as arrêté la mèche étincelante de la planète.
+<0157> Ce n'était pas une coïncidence.\nC'est le pouvoir des sucreries...\nle pouvoir du pudding.
+<0158> Oui, t'as raison.
+<0159> Certaines sucreries attisent le conflit. Mais parfois, elles sont si bonnes qu'elles peuvent ramener la paix.
+<0160> Sweet Breaker ! Tu ne vas pas sceller le pudding, alors...?
+<0161> Pour le moment, non.
+<0162> Youhouu !
+<0163> Allez, on va faire des sucreries !
+<0164> Avec plaisir, mais prenons notre temps. Je propose de cuisiner du pudding au lait crémeux.
+<0165> Sweebo...\nCe pudding-là n'est pas à cuire.
+<0166> Tant que c'est bon, ça m'est égal.
+<0167> Ah bon !?
+<0168> Fufufu.
+<0169> Je suis Sweet Breaker.\nPuisse le pouvoir des sucreries servir la paix dans le monde.

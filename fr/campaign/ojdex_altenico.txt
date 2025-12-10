@@ -1,0 +1,161 @@
+// CampaignScenario_CodexStory_AlteNico
+// (alte)
+<0000> Je vais y aller, moi. Il commence à être tard.
+// (tsih)
+<0001> Nfufu. T'essaierais pas plutôt de fuir les histoires d'aviations de Cherry ?
+// (alte)
+<0002> Je... non, pas vraiment...
+// (tsih)
+<0003> Après quelques verres, plus rien peut arrêter son moulin à paroles.
+// (kyoko)
+<0004> *soupir*... Et c'est toujours toi qui le fais démarrer.
+// (tsih)
+<0005> Nfufu. Touché. Ça l'amuse, et c'est marrant de vous voir toutes gênées.
+// (kyoko)
+<0006> Ce sont de belles histoires, mais je les connais par cœur.
+// (tsih)
+<0007> Hé, Cherry ! Tu peux nous raconter la fois où le moteur s'est détaché de ton avion quand t'étais en vol ?
+// (sherry)
+<0008> Ah, cette vieille histoire ? Eh bien, mon père et moi, on était dans mon atelier, puis...
+// (kyoko)
+<0009> *soupir*... Je te couvre, Alte. Fuis tant que tu peux.
+// (alte)
+<0010> Bien reçu. La prochaine fois, je te paie un verre.
+// (alte)
+<0011> Ah... quelle fraîcheur. J'arrive même à voir mon souffle. Cette bonne vieille période de l'année...
+// (alte)
+<0012> Hm ? Un enfant ? À une heure pareille ?
+// (nico)
+<0013> Ahhh ! Mère Noël, à chaque fois, tu t'en vas à la dernière minute !
+// (alte)
+<0014> Hé, tout va bien ? Où sont tes parents, jeune fille ?
+// (nico)
+<0015> Ouah ! Alerte, inconnu ! Alerte, inconnu !
+// (alte)
+<0016> Je ne te veux aucun mal... Mais je ne peux pas te laisser seule dans le froid à une heure pareille.
+// (nico)
+<0017> Nico est une enfant, mais elle sait se débrouiller ! Même que Nico travaille, là, en fait !
+// (alte)
+<0018> On te fait travailler ? À ton âge ? Même en temps de guerre, c'est parfaitement intolérable.
+// (nico)
+<0019> Euh, vous faites peur, là, d'un coup...
+// (alte)
+<0020> Mes excuses. J'aimerais parler à tes parents, et vite.
+// (nico)
+<0021> Raah ! Nico a pas le temps pour ça ! 'faut qu'elle se dépêche, ou Noël est fichu !
+// (alte)
+<0022> Noël ?
+// (nico)
+<0023> Cette cruche de Mère Noël avait une urgence... Mais si Nico ramène pas les cadeaux à la boutique, les enfants vont rien avoir cette année !
+// (alte)
+<0024> (Elle... à quoi elle joue ? Elle fait semblant, c'est ça ? Enfin, ça reste une gamine seule dans le froid...)
+// (alte)
+<0025> ...Pas le choix. Je vais t'aider.
+// (nico)
+<0026> Hein, vraiment ?
+// (alte)
+<0027> Terminons cette tâche vite fait, et on te ramène à la maison. C'est le devoir d'un adulte responsable.
+// (nico)
+<0028> Hmm.... Nico avait besoin d'aide... C'est d'accord ! Nico vous déclare Assistante de l'Assistante de Mère Noël !
+// (alte)
+<0029> ...D-d'accord. C'est quoi, notre mission ?
+// (nico)
+<0030> D'abord, on va au Magasin de Jouets Nocturne.
+// (alte)
+<0031> (Un Magasin de Jouets Nocturne ? Ça existe vraiment, ça ?)
+// (nico)
+<0032> Ensuite, on prend 50 Câlin-Lulu, 60 exemplaires de "Miu et la Pêche aux Achigans", et une caisse entière de Téotorattamagotchis !
+// (alte)
+<0033> Pardon ? C'est énorme, ce que tu veux. Tu as vraiment de quoi payer tout ça ?
+// (nico)
+<0034> Nico est super riche ! Comme elle travaille pour Noël, elle a une part du budget de Mère Noël.
+// (alte)
+<0035> Si tu le dis... Allons-y.
+// (nico)
+<0036> Oui !
+// (alte)
+<0037> Nico, attends !
+// (nico)
+<0038> Heiin ?
+// (alte)
+<0039> Tu allais traverser le passage piéton sans regarder... Fais attention. Tiens, prends ma main.
+// (nico)
+<0040> Nico sait traveser toute seule, d'abord ! Elle a 12 ans ! Mais bon, ok, si ça vous fait plaisir.
+// (alte)
+<0041> 12 ans...? Tu fais bien plus jeune.
+// (nico)
+<0042> Grrr ! Justement ! Personne prend Nico au sérieux et ça l'énerve !
+// (alte)
+<0043> Hm... Quand tu auras mon âge, tu seras contente d'avoir l'air jeune.
+// (nico)
+<0044> Vous avez quel âge, madame ?
+// (alte)
+<0045> Un âge élevé.
+// (nico)
+<0046> Hmm... Ahh ! On perd du temps ! Prenez la main de Nico et venez !
+// (alte)
+<0047> Bien sûr... Oh.
+// (nico)
+<0048> Vous avez un problème, madame ?
+// (alte)
+<0049> ...Non, ce n'est rien. Dépêchons-nous.
+// (nico)
+<0050> Voilà, là on parle !
+// (nico)
+<0051> C'est bon ! Nico a vérifié plein de fois, on a tout ce qu'il nous faut ! Bravo !
+// (alte)
+<0052> J'en reviens pas. À peine arrivées, tu as couru jusqu'au comptoir pour négocier les prix.
+// (nico)
+<0053> La vente de jouets, c'est une spécialité de la famille ! Le plus surprenant, c'est que vous puissiez porter tous les cadeaux en même temps.
+// (alte)
+<0054> Quand il faut porter de l'équipement, tu peux toujours compter sur un vétéran de la guerre.
+// (nico)
+<0055> Ouah, trop cool.
+// (alte)
+<0056> C'est quand même beaucoup à porter... Comment tu aurais fait si je n'avais pas été là ?
+// (nico)
+<0057> N-Nico aurait trouvé une solution...
+// (alte)
+<0058> Certes. Nico, je peux te poser une question ?
+// (nico)
+<0059> Oui ?
+// (alte)
+<0060> Pourquoi fais-tu tout ça ? C'est énormement de travail pour une fille de ton âge.
+// (nico)
+<0061> Hmm... Au début, c'est pour compenser les crimes horribles de Nico.
+// (alte)
+<0062> Tes crimes ? Mais tu as 12 ans !
+// (nico)
+<0063> Et si Nico continue, c'est parce qu'elle aime bien quand Mère Noël lui tapote la tête et lui dit que c'est une gentille fille. Mais n'en parlez à personne !
+// (alte)
+<0064> ...D'accord. C'est promis.
+// (nico)
+<0065> Et... Mère Noël existe pour le bien des enfants. Quand Nico sera adulte, sa relation avec elle va changer.
+// (alte)
+<0066> ...
+// (nico)
+<0067> Nico sait qu'on va rester amies, mais... en attendant, autant en profiter au maximum !
+// (alte)
+<0068> ...Oui. Nico, je ne suis pas Mère Noël, mais tu es vraiment une gentille fille.
+// (nico)
+<0069> Hiiii ! Nico vous aime beaucoup. Vous êtes plus sympa que l'autre lapine qui disparaît à la dernière minute.
+// (alte)
+<0070> ...Hmm. J'ai beau être adulte, je n'ai pas réponse à tout. Dis-toi que les adultes se questionnent autant que les enfants.
+// (nico)
+<0071> Vraiment ?
+// (alte)
+<0072> Oui, vraiment. ...Tu es sûre qu'on peut laisser les jouets ici ?
+// (nico)
+<0073> Oui ! Mère Noël les verra, et elle aura qu'à les embarquer sur son traîneau. Puis Nico habite juste ici.
+// (alte)
+<0074> Alors soit. Dans ce cas, je te dis au revoir, Nico. J'étais ravie de te rencontrer.
+// (nico)
+<0075> Merci pour tout, madame ! Vous êtes une très bon escla... euh, assistante de Nico !
+// (alte)
+<0076> Je m'appelle Alte, si jamais. Prends soin de toi, Nico.
+// (alte)
+<0077> (Quelle fille étrange. Elle travaille tellement dur... pourtant, elle est si énergique... et ses mains sont minuscules.)
+// (alte)
+<0078> (Et si souriante... Si nous avions eu un enfant, lui et moi, je me demande s'il lui aurait ressemblé.)
+// (alte)
+<0079> Les enfants sont vraiment mystérieux... Même si j'ai travaillé dur, je... je suis contente. La prochaine fois, j'aurai une histoire à raconter à Tsih et les autres.

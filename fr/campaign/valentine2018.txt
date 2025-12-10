@@ -1,0 +1,97 @@
+<0000> Le grand jour est enfin arrivé...\nLe jour où se décidera qui de nous est la Reine.\nLe jour sacré, du nom de...
+<0001> LA SAINT VALENTIN !!!
+<0002> La Déesse du Sucre remportant la victoire deviendra la Grande Reine, et commandera toutes les autres Déesses...
+<0003> Ainsi, approchez ! Combattez pour la couronne et ce rôle prestigieux !
+<0004> ...
+<0005> ...
+<0006> Euh...
+<0007> Oui, Sweet Guardian ?
+<0008> Pourquoi tu nous as fait venir, au fait ?
+<0009> Il me semble te l'avoir expliqué à l'instant.
+<0010> Désolée, j'ai rien compris à ce que t'as dit !!
+<0011> Ce n'est pas faute d'avoir articulé, pourtant... Tu es bien sotte, Guardian.
+<0012> Désolée, mais j'ai pas compris non plus.
+<0013> Que QP soit sotte, je suis d'accord, mais c'est tout ce que j'ai compris !
+<0014> Comment ça, Saki ?!
+<0015> Pft, toutes plus sottes les unes que les autres...\nAu fait, sauriez-vous où sont passées Sweet Blogger et Sweet Creator ?
+<0016> Elles pouvaient pas venir.
+<0017> Elles ne sont même pas encore dans le jeu !
+<0018> Quelle que soit la raison, ça a l'air compliqué.
+<0019> Pff... Soit. Dans ce cas, cette année, cela se jouera entre nous quatre.\nL'une de nous deviendra la Reine du Sucre !
+<0020> Qu'est-ce qu'on doit faire, alors ?
+<0021> Aujourd'hui, c'est la Saint Valentin...\nCe jour sert à prouver laquelle des Déesses est la plus vénérée de toutes.
+<0022> Du coup, ça se joue sur...
+<0023> Précisément ! Le chocolat ! Le chocolat symbolise la foi du peuple. Autrement dit, plus une Déesse en reçoit, plus elle est vénérée !
+<0024> Du coup, ça se joue sur qui peut obtenir le plus de chocolat ?
+<0025> Et celle qui en gagne le plus devient la patronne des Déesses du Sucre ?
+<0026> Non, la Reine. Elle devient la Reine.
+<0027> Heehh... bon, je comprends mieux, maintenant...\nMais t'as vraiment décidé ça toute seule, sur un coup de tête ?
+<0028> Je me disais que ce serait amusant.
+<0029> Heehh...
+<0030> Elle a beau nous traiter de sottes...
+<0031> On est pas vraiment plus sottes qu'elle, en fait.
+<0032> Silence.
+<0033> Au passage, il existe dix sucreries que j'estime dangereuses. Si je deviens la Reine, je les rendrai parfaitement infaisables.
+<0034> Hein...?
+<0035> Me dis pas que ça inclue le pudding...?
+<0036> Bien sûr que si, ça inclue le pudding.
+<0037> NOOOOOOOON !!
+<0038> Vous avez vraiment l'air d'aimer le pudding.\nJe suis désolée pour vous.
+<0039> Ça inclue aussi la glace aux haricots rouges.
+<0040> Pardon !? Sans ma glace, je peux même pas utiliser mes pouvoirs de magical girl !
+<0041> Héhéhé... Si vous voulez m'arrêter, l'une de vous trois devra être la Reine...
+<0042> J'arrive pas à croire qu'elle soit aussi diabolique...
+<0043> Si c'est comme ça, je vais me donner corps et âme... et trouver tout le chocolat du monde !
+<0044> J-je vais faire de mon mieux, moi aussi !!!\nEuh, attendez... du chocolat...?
+<0045> J'suis un chien, moi !\nLes chiens supportent pas le chocolat ! Genre, du tout du tout...!!
+<0046> Une Déesse du Sucre, intolérante à une sucrerie si primaire...\nJe savais que tu n'étais pas qualifiée pour ce rôle, Guardian
+<0047> Si je fais rien, le pudding va disparaître du monde... Que faire... que faire ?!
+<0048> Hm, j'ai entendu quelque chose...?
+<0049> J'entends quelqu'un qui m'appelle, tout là-haut... Cette voix... <player> ?! Oh, j'ai compris !
+<0050> <player> ! Tu peux m'aider à trouver du chocolat ?!
+<0051> J'en suis pas capable toute seule. Mais avec ton aide... je peux y arriver ! On peut contrecarrer le plan maléfique de Sweet Breaker !
+<0052> Non... C'est impossible...
+<0053> Où Sweebo est partie chercher tout ce chocolat ? Je croyais qu'elle avait pas d'amis...
+<0054> Hahaha ! C'est le pouvoir divin ! Le monde a entendu ma parole et me juge digne d'une déesse !!
+<0055> Qu'est-ce qu'elle raconte...? Avec toute cette histoire, je vais perdre mes glaces aux haricots rouges...
+<0056> Et le pudding...\nOh, mais, et QP...? Où est-elle !?
+<0057> Gahaha ! Cette sotte ne peut rien y faire !\nLes chiens n'obtiennent jamais une once de chocolat ! Ahahaha !
+<0058> D-diablesse...
+<0059> Je suis désolée, Q... je n'ai pas pu sauver... le puddi-...
+<0060> C'est pas terminé !
+<0061> Comment !?
+<0062> Q-QP...!!!
+<0063> Hah. Quelle est cette joie qui t'anime ?\nAdmire l'innombrable chocolat en ma possession, et sombre dans le désespoir !
+<0064> Héhé...
+<0065> Qu'est-ce qu'il y a de drôle à ça !?
+<0066> Tu avais raison ! C'était impossible de faire ça toute seule ! Personne m'aurait donné du chocolat, c'est mauvais pour les chiens !! Même pour une Déesse du Sucre !
+<0067> Mais j'étais pas seule !\nJ'ai un partenaire qui croit en moi !
+<0068> Mais c'est...!?
+<0069> <player>...!
+<0070> I-Impossible ! <player> est du côté de Guardian...!?
+<0071> Ouvre bien les mirettes, Sweet Breaker !\nVoilà notre pouvoir !
+<0072> Que se passe-t-il ? Une ombre immense se dessine...
+<0073> Quelque chose cache le soleil...\nC'est la lune...?
+<0074> Non ! C'est du...
+<0075> Du ch... du chocolat...?
+<0076> Tant de chocolat qu'on le confondrait avec la lune...!? Quelle est cette sottise...? Même tout le chocolat du monde réuni ne ferait pas autant !!
+<0077> C'est tout l'amour des amateurs de sucreries partout dans le monde ! Tout cet amour s'est réuni pour former une planète entière de chocolat !
+<0078> Ridicule ! C'est impossible...!
+<0079> Si, c'est possible ! Car aujourd'hui, c'est...
+<0080> LA SAINT VALENTIIIIIIIIIIIN !
+<0081> N-non... non, non...!
+<0082> Attention, Sweet Breaker...!\nTout l'amour des sucreries...! Mon amour, celui de <player>, et de tout le monde ! Tout l'amour du monde entier !!!!
+<0083> CHOCOLATE MOON BUSTER !!!!
+<0084> Gaaaaaaaaaaah !!!
+<0085> J'ai gagné...
+<0086> Sweet Guardian... tu m'as vaincue sans équivoque.
+<0087> Beau travail, Q !
+<0088> T'es géniale, Q !
+<0089> À présent, tu es la Reine du Panthéon du Sucre...\nL'avenir de toutes les sucreries du monde repose entre tes mains...
+<0090> Compris ! Je sais pas trop quel est mon rôle dans tout ça... mais tranquille ! Je suis Sweet Guardian, et je protègerai l'avenir de toutes les sucreries !
+<0091> Mais... je n'aurais jamais réussi sans l'aide d'une certaine personne.
+<0092> <player>, tu m'as aidée à protéger l'essentiel !\nMerci beaucoup !
+<0093> Ok ok, j'y vais. *ahem* !
+<0094> Tu m'as tellement aidée, je dois te donner quelque chose en échange...\nComment dire... en remerciement... enfin, bref !
+<0095> J'y ai mis tout mon cœur !\nTiens, prends-le !
+<0096> Joyeuse Saint Valentin, <player> !

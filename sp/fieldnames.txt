@@ -119,6 +119,9 @@ El Abismo
 < FIELD_PURES >
 Carrera de Estampas Pures
 
+< FIELD_SCHOOLYARD >
+Patio
+
 < FIELD_COOP_LAGOONFLIGHT >
 Vuelos en la Laguna (CO)
 
@@ -226,6 +229,21 @@ Cielos Dulces (CO)
 
 < FIELD_COOP_WHIRLPOOL >
 Torbellino
+
+< FIELD_COOP_WARFARE >
+Campo de Guerra (CO)
+
+< FIELD_COOP_SCARREDLAND >
+Tierra Cicatrizada (CO)
+
+< FIELD_COOP_DESERT >
+Ferrocarril Solitario (CO)
+
+< FIELD_COOP_CIRCUS >
+El Circo (CO)
+
+< FIELD_COOP_PURES >
+Carrera Pures (CO)
 
 [EOF]
 

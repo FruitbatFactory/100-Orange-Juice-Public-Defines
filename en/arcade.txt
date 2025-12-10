@@ -90,6 +90,9 @@ Summer Pet Catcher
 < ARCADE_MACHINE_BOUNTYHUNT >
 Bounty Hunt Pet Catcher
 
+< ARCADE_MACHINE_PLUSHIE >
+Plushie Pet Catcher
+
 < ARCADE_MACHINE_EXCHANGE >
 Pet Exchange
 

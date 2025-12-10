@@ -37,4 +37,13 @@ Crisis Extracurricular
 < EVENTNAME_POPPO >
 Poppo-evento
 
+< EVENTNAME_OPERATION_HALLOWEEN >
+Operación Halloween
+
+< EVENTNAME_SUMMER2025 >
+Triple Problema
+
+< EVENTNAME_WINTER2025 >
+Rivales del Club
+
 [EOF]

@@ -1,0 +1,160 @@
+<0000> Hop-là !
+<0001> Tah !
+<0002> On envoie le dé !
+<0003> On compte sur toi !
+<0004> On joue une carte.
+<0005> Faites gaffe !
+<0006> Ça touche ou ça coule !
+<0007> Quand 'faut y aller !
+<0008> Une idée de ce qu'on a posé ?
+<0009> Haha, voilà un piège !
+<0010> Qui est assez bête pour se faire prendre ?
+<0011> Piège : posé !
+<0012> Ça vaut toujours le coup.
+<0013> C'est le moment idéal.
+<0014> Carte Combat !
+<0015> C'est fini pour toi !
+<0016> Disparition !
+<0017> Quelle honte... Bon, pas le temps de se lamenter.
+<0018> Plus question de rester par terre !
+<0019> Oh non, on a pris du retard.
+<0020> 'va falloir travailler plus dur.
+<0021> Il nous faudra un peu plus de temps.
+<0022> Tout se passe pas forcément comme on veut.
+<0023> Qu'est-ce qui marche pas...?
+<0024> Bon sang !
+<0025> Tatata !
+<0026> Prends ça !
+<0027> Concentre-toi, andouille !
+<0028> T'es notre proie !
+<0029> Ça fait super mal !
+<0030> Gh... On est touchés.
+<0031> Pas mauvais !
+<0032> Aouh !
+<0033> Merci beaucoup.
+<0034> Ça, ça veut dire qu'on doit retourner se battre.
+<0035> Allez ! Prêts à faire un autre carnage !
+<0036> Ouah ! C'est beaucoup mieux.
+<0037> On se fait téléporter !
+<0038> Ouah ! C'est quoi, ça ?
+<0039> Oh non.
+<0040> Hiii !
+<0041> C'est raté...!
+<0042> Pas mauvais...
+<0043> Oh, c'est mauvais pour nous.
+<0044> Pff, on a l'air ridicule...
+<0045> Tu vas rien capter !
+<0046> Allez ! Au combat !
+<0047> Prêt à morfler ?
+<0048> Fais-nous rire !
+<0049> Oh ? Tu veux te battre ?
+<0050> Ah oui ? Tu nous fais marrer !
+<0051> Tu nous cherches ?
+<0052> Un combat ? Ok, amène-toi !
+<0053> Coupe !
+<0054> Ça risque de faire mal !
+<0055> Technique Iaï !
+<0056> T'es à notre portée !
+<0057> Gah !
+<0058> Kh.
+<0059> Bien joué.
+<0060> Ça fait mal !
+<0061> Ça n'a rien de marrant !
+<0062> Une douleur atroce !
+<0063> Ordure !
+<0064> Guaah !
+<0065> Trop lent !
+<0066> C'est pas suffisant !
+<0067> Disparition !
+<0068> Fumigène !
+<0069> Comme prévu !
+<0070> On s'en sort pas mal.
+<0071> T'as le droit de ramper si tu veux.
+<0072> Allez, bonne nuit.
+<0073> Meerde !
+<0074> On a fait n'importe quoi...
+<0075> Très impresionnant.
+<0076> Plutôt balèze.
+<0077> Un trésor ?
+<0078> Allez, c'est pour nous !
+<0079> On doit en trouver plein, c'est ça ?
+<0080> Héhé, quelle chance !
+<0081> Hé, attendez !
+<0082> C'est pas une blague ?
+<0083> Hein ? Qu'est-ce que- !?
+<0084> Hé, oh !
+<0085> Gh...! Habile !
+<0086> Qui a posé ce piège !?
+<0087> Quelle erreur stupide !
+<0088> Un piège !?
+<0089> Hmm. Sacrée aura.
+<0090> Une puissance à vous glacer le sang.
+<0091> Voilà un boss ! C'est de plus en plus intéressant !
+<0092> C'est pas n'importe quel adversaire.
+<0093> C'est une mission de collecte ?
+<0094> Allez ! On va en trouver aussi vite que possible !
+<0095> Avec notre vitesse, ce sera fait\nen deux temps trois mouvements !
+<0096> On va en ramener une montagne !
+<0097> 'suffit de tous les vaincre, c'est ça ?
+<0098> Une invasion... C'est ça, notre mission ?
+<0099> C'est dans nos veines de nous battre !
+<0100> Shwing !
+<0101> Nous sommes Mira !
+<0102> Tu voulais jouer avec nous ? Ouais, pourquoi pas ?
+<0103> Viens avec nous passer le temps, un peu.
+<0104> Tu veux qu'on joue ensemble ?
+<0105> On est partis !
+<0106> On va leur montrer une chose ou deux !
+<0107> Hm, c'est eux, nos adversaires ?
+<0108> Bon, on va trouver un plan !
+<0109> Voilà qui prouve à quel point on est forts !
+<0110> C'était plutôt amusant !
+<0111> Allez, on va fêter notre victoire !\nMangeons, trinquons !
+<0112> Vous nous devez tous un bon repas !
+<0113> Oh, c'est une arme de ninja ? Non ?
+<0114> C'est bien ça que tu voulais ?\nBon, tant mieux pour toi.
+<0115> T'as l'air vraiment content. C'est si bien que ça ?
+<0116> On va s'en servir !\nAvec, on va décrocher plus de victoires !
+<0117> Allez, à toi de jouer.
+<0118> On échange ! Essaie de tenir bon, ok ?
+<0119> À ton tour ! On compte sur toi !
+<0120> Échange !
+<0121> Ok !
+<0122> C'est pas mal, on dirait.
+<0123> Ouaip.
+<0124> Non.
+<0125> Pardon !?
+<0126> Sacré coup de chance.
+<0127> Hmm ?
+<0128> Allons-y !
+<0129> C'est quoi, le meilleur chiffre ?
+<0130> On y va !
+<0131> Salut, ça va bien ?
+<0132> Argh...
+<0133> C'est du beau boulot !
+<0134> Incroyable ! Et on fait rarement des compliments !
+<0135> 'faut réviser le plan.
+<0136> Avec ou sans maîtrise, on peut se servir de tout !
+<0137> Quoi que ça fasse, on va s'en servir !
+<0138> Allez, c'est quitte ou double !
+<0139> Plus rien à carrer ! On va s'en servir !
+<0140> Salut, gamine ! Tu veux jouer ?
+<0141> Tiens, salut gamine ! Ça a l'air d'aller, dis !
+<0142> Héhé ! T'es trop petite pour nous tenir tête !
+<0143> Aïe ! Tes croks font toujours aussi mal !
+<0144> Ouah ! C'est à toi, cet avion ? Il est trop classe !
+<0145> Ouah, un avion bleu... Trop stylé !
+<0146> 'faut que tu nous laisses le piloter, la prochaine fois !
+<0147> Non seulement classe, mais aussi puissant...\nTon avion est parfait.
+<0148> Cette tenue bizarre... Vous êtes une magical girl ?
+<0149> Une magical girl... On en avait jamais croisé avant.
+<0150> Hah ! T'as beau être une magical girl,\ntu peux rien faire contre un héros !
+<0151> Argh... C'est ça, alors, le pouvoir d'une magical girl...
+<0152> Ouah, elle a l'air ardente, elle.
+<0153> Que- ! Elle est en train de brûler...!
+<0154> Pff... C'était un combat vraiment serré !
+<0155> Elle émane la chaleur... Elle est invincible !
+<0156> On pose une marque.
+<0157> Préparation jutsu.
+<0158> Notre botte secrète !
+<0159> Vous allez voir flou !

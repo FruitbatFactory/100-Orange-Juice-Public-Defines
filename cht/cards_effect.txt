@@ -130,6 +130,10 @@ descr=每層儲備使DEF+1。
 name=閃避強化
 descr=每層儲備使EVD+1。
 
+< CARD_AMPHPEVD_EFFECT >
+name=生命與閃避強化
+descr=每層儲備使HP上限+1，EVD+1。
+
 < CARD_AMPMOV_EFFECT >
 name=移動強化
 descr=MOV+1。
@@ -188,7 +192,7 @@ descr=移動到放置了陷阱卡的格子時，必須停留在\n那一格。
 
 < CARD_POPPOFORMATION_EFFECT >
 name=啵噗化
-descr=在下一場戰鬥中，ATK·DEF·EVD變為-1。
+descr=基礎ATK·DEF·EVD變為-1。
 
 < CARD_HAND_BOOST_EFFECT >
 name=手牌提升
@@ -369,7 +373,7 @@ descr=反向移動。\n無法進行目標檢測。
 
 < CARD_PRICEOFPOWER_EFFECT >
 name=力量的代價
-descr=可以使用比當前等級高1級的卡片。\n所有卡片COST+5。
+descr=你可以多花5顆STAR使用比你當前等級高1級的卡片。
 
 < CARD_POPPOSNATCHER_EFFECT >
 name=掠奪者啵噗
@@ -768,5 +772,17 @@ descr=當其他玩家倒下時，獲得其等級×5的STAR。\n當有多個「�
 < CARD_INTELLECTUALBLUFF_EFFECT >
 name=故弄玄虛
 descr=當你使用的下一張卡片：\n·符合指定者暗自選擇：其獲得2WIN和等級×10的STAR。\n·僅符合指定者宣稱：其受到2點傷害。
+
+< CARD_TICKEDOFF_EFFECT >
+name=你把我惹毛了！
+descr=如果你在戰鬥開始時HP為1，ATK+2。
+
+< CARD_LONGARMS_EFFECT >
+name=手長腳也長
+descr=你可以多花5顆STAR將陷阱放置在5×5的範圍內。所有非陷阱、非禮物的卡片等級+1（上限為5）。
+
+< CARD_BURNINGPANEL_EFFECT >
+name=燃燒中的格子
+descr=這個格子在燃燒。\n在這個格子上開始或結束回合的角色受到1點傷害。
 
 [EOF]

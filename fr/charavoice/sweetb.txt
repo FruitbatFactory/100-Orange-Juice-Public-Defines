@@ -1,0 +1,161 @@
+<0000> Ainsi, les dés sont jetés.
+<0001> Eey.
+<0002> Donne-moi un chiffre favorable.
+<0003> J'y vais.
+<0004> J'invoque une carte.
+<0005> Ça va retourner la situation.
+<0006> Pour me donner l'avantage...
+<0007> Je vais jouer une carte.
+<0008> J'invoque un piège.
+<0009> Cet endroit sera piégé.
+<0010> C'est indigne d'une déesse. Mais je n'ai pas le choix.
+<0011> Je gagnerai par tous les moyens.
+<0012> J'invoque une carte Combat.
+<0013> Une issue de secours.
+<0014> Je triompherai.
+<0015> Je gagnerai coûte que coûte.
+<0016> Que tout fonde comme du chocolat.
+<0017> Je suis revenue.
+<0018> On peut recommencer.
+<0019> *soupir* Fini de se reposer...
+<0020> Bien, je suis prête à repartir.
+<0021> Des fois, je me déçois.
+<0022> Il me faut encore du temps pour m'en remettre.
+<0023> Quelle honte.
+<0024> Je dois me relever aussitôt que possible.
+<0025> Une attaque.
+<0026> Je serai sans pitié.
+<0027> Attaque !
+<0028> Prends ça.
+<0029> Hmpf...!
+<0030> Espèce de...
+<0031> Aïe !
+<0032> Bon sang.
+<0033> Je me soigne.
+<0034> Soignons les blessures.
+<0035> Je ne compte pas me retrouver à terre.
+<0036> Il faut que je me concentre.
+<0037> Téléportation.
+<0038> Ma destination importe peu.
+<0039> Où suis-je donc ?
+<0040> J'ai la tête qui tourne...
+<0041> J'ai été bien trop faible...
+<0042> C'est... terrible.
+<0043> On m'a vaincue.
+<0044> Je dois vite me remettre sur pieds.
+<0045> Que le combat commence.
+<0046> Je te mets au défi.
+<0047> Désolée, mais tu m'entraves.
+<0048> Je vais en finir.
+<0049> Tu oses me défier ?
+<0050> Quelle sottise.
+<0051> Très bien. Je relève ton défi.
+<0052> Viens te battre.
+<0053> Je ne me retiendrai point.
+<0054> Break !
+<0055> Disparais.
+<0056> Ey.
+<0057> Aïe !
+<0058> Agh !
+<0059> Je suis touchée ?
+<0060> Que...?
+<0061> Quelle puissance...
+<0062> De puissants dégâts.
+<0063> C'est mauvais pour moi...
+<0064> Si ça continue ainsi, je...
+<0065> Je peux l'esquiver.
+<0066> Esquive.
+<0067> Je ne puis me faire toucher.
+<0068> Cette attaque sera esquivée.
+<0069> C'est tout naturel.
+<0070> Ainsi, je remporte le combat.
+<0071> J'ai gagné.
+<0072> C'était du gâteau.
+<0073> J'ai perdu...
+<0074> Impossible.
+<0075> J'accepte ma défaite.
+<0076> Je crains t'avoir sous-estimé.
+<0077> Voilà qui m'enchante.
+<0078> Ces étoiles m'appartiennent.
+<0079> Bonus acquis.
+<0080> J'ai obtenu des étoiles.
+<0081> J'en ai fait tomber.
+<0082> Je vais devoir les récupérer.
+<0083> Oh, non...
+<0084> Ah, mes étoiles.
+<0085> J'ai honte d'être tombée dans un piège aussi grossier.
+<0086> Je fais preuve d'imprudence.
+<0087> Un piège...?
+<0088> Hmm, voilà un piège bien insolent.
+<0089> Je ressens un pouvoir écrasant.
+<0090> Le voilà enfin.
+<0091> L'échauffement est terminé.
+<0092> Je ne peux pas le laisser me surplomber.
+<0093> Quota Étoiles.
+<0094> Je vais amasser des étoiles.
+<0095> J'apprécie les étoiles.
+<0096> Je préfère cette option. Les étoiles sont belles.
+<0097> Nous allons devoir nous battre.
+<0098> La sottise doit être punie.
+<0099> Personne ne peut m'arrêter.
+<0100> J'affronterai n'importe qui.
+<0101> Je suis Sweet Breaker.
+<0102> Mon vrai nom ? Que gagnerais-tu à le connaître ?
+<0103> Tu aimerais jouer avec moi ?
+<0104> Eh bien soit.
+<0105> Que la partie commence.
+<0106> C'est parti.
+<0107> Faisons ainsi.
+<0108> Alors soit...
+<0109> Je remporte la victoire.
+<0110> C'était évident.
+<0111> Un résultat peu suprenant.
+<0112> Bien joué, au plaisir, tout ça.
+<0113> Nouvel objet acquis.
+<0114> Prends-le, il est pour toi.
+<0115> Ravie pour toi.
+<0116> Est-ce que cela te convient ?
+<0117> Tu dois me substituer.
+<0118> Je vais avoir besoin de toi, si tu l'acceptes.
+<0119> Échangeons nos places.
+<0120> Et ainsi, nous échangeons.
+<0121> C'est d'accord.
+<0122> C'est bien.
+<0123> Oui.
+<0124> Non.
+<0125> Seigneur...
+<0126> La chance est sur nous.
+<0127> Hmm.
+<0128> Allons-y.
+<0129> Faisons rouler les dés.
+<0130> Pouvons-nous y aller ?
+<0131> Bonjour.
+<0132> Hmm.
+<0133> C'est bien.
+<0134> C'est merveilleux.
+<0135> J'en perds les mots.
+<0136> Je vais jouer celle-ci, je pense.
+<0137> Cette carte... comment est-elle arrivée en main ?
+<0138> Je dois bien lui donner sa chance.
+<0139> J'ignore de quoi elle est capable, mais ça vaut le coup d'essayer.
+<0140> Mon vrai nom ? C'est... Amami.
+<0141> Sweet Guardian, nous voilà face à face à nouveau.
+<0142> Sweet Guardian... Pas encore.
+<0143> J'ai gagné, cette fois.
+<0144> Gah... Tu es très douée.
+<0145> Tu es... Sweet Blogger.
+<0146> C'est très courageux de me défier, Sweet Blogger.
+<0147> Toutes tes photos de sucreries... Garde-les précieusement.
+<0148> Comment une bloggeuse peut être si puissante ?
+<0149> Sweet Maker...!
+<0150> Je ne pensais pas devoir t'affronter.
+<0151> Toutes tes sucreries... Ne m'oblige pas à les détruire.
+<0152> Ainsi, tu m'as vaincue... Bien joué, Sweet Maker.
+<0153> Je suis à nouveau face à une gardienne.
+<0154> Je sais que les vôtres vous voient aussi comme une déesse.
+<0155> Noblesse et beauté sont vos éléments.
+<0156> Peut-être suis-je faite pour perdre contre les gardiennes...
+<0157> Un pudding... Je ne sais quoi en penser.
+<0158> Comment ce pudding est-il arrivé jusqu'à moi ?
+<0159> Qu'est-ce que cela signifie ? Est-ce qu'on me teste ?
+<0160> Aurais-je été trop dure envers le pudding ?

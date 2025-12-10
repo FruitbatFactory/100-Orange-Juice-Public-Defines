@@ -1,0 +1,518 @@
+
+// ========= Scene: Opening =========
+
+// (darklulu)
+<0000> L'esprit de Lulu... est si sombre...
+
+// (ellie)
+<0001> Lulu, reprends-toi ! Qu'est-ce qu'il t'arrive ?!
+
+// (darklulu)
+<0002> Tu as trouvé... ta maman.
+
+// (darklulu)
+<0003> Lulu sait à quel point c'était important pour toi, mais...
+
+// (darklulu)
+<0004> Kuuuh...!
+
+// (darklulu)
+<0005> AAAAAAHHH !
+
+// (motherpoppo)
+<0006> Non ! Ses pouvoirs magiques se déchaînent !
+
+// (ellie)
+<0007> Lulu, il faut que tu te reprennes !
+
+// (???)
+<0008> C'est inutile...
+
+// (???)
+<0009> Ellie, c'est de ta faute si elle est devenue ainsi.
+
+// (arnelle)
+<0010> Hé, qui va là !
+
+// (watty)
+<0011> Faites attention, tout le monde...!
+
+// (watty)
+<0012> C'est de là que je sentais la forte concentration de magie...
+
+// (???)
+<0013> Hihihi... Hahahaha !
+
+// (mio)
+<0014> Oh, comme c'est drôle !
+
+// (motherpoppo)
+<0015> Tu es...!
+
+// (mio)
+<0016> Je suis...
+
+// (mio)
+<0017> ...la maman de Lulu ♥
+
+// (ellie)
+<0018> La maman de Lulu !?
+
+// (mio)
+<0019> Je suis aussi...
+
+// (mio)
+<0020> ...la déesse de ce monde !
+
+// (pomeranius)
+<0021> La déesse...?
+
+// (halena)
+<0022> Qu'est-ce qu'elle raconte ?
+
+// (cook)
+<0023> Ne vous méprenez pas. Elle a quelque chose de... mystique.
+
+// (maynie)
+<0024> On dirait pas une déesse... Mais elle fout carrément les jetons...!
+
+// (ellie)
+<0025> La maman de Lulu est une déesse, elle apparaît, et d'un coup Lulu pète les plombs... C'est quoi ce bordel !
+
+// (mio)
+<0026> Hihihi, Ellie...
+
+// (mio)
+<0027> Observe l'étendue de tes exploits : après un voyage si long, si difficile, tu as enfin retrouvé ta maman chérie.
+
+// (mio)
+<0028> Félicitations ♥
+
+// (ellie)
+<0029> ...
+
+// (mio)
+<0030> Mais je serais tellement, teeeellement déçue que ça se termine sur une note positive.
+
+// (mio)
+<0031> Je ne suis pas comme cette cruche qui aime les fins niaises. Je raffole des fins tragiques où les efforts des héros s'avèrent être vains.
+
+// (mio)
+<0032> Ellie, j'imagine que tu es heureuse, maintenant que tu es de nouveau réunie avec ta maman.
+
+// (darklulu)
+<0033> Lulu se... Lulu se sent si seule...
+
+// (darklulu)
+<0034> On s'est bien amusées, Ellie... Parce qu'elle t'aime tellement.
+
+// (darklulu)
+<0035> Mais... au fond, Lulu espérait que tu ne trouves jamais ta maman... pour que l'aventure ne s'arrête jamais.
+
+// (darklulu)
+<0036> Et maintenant que tu as trouvé ta maman... Tu vas rester avec elle et abandonner Lulu ?
+
+// (ellie)
+<0037> Lulu...
+
+// (darklulu)
+<0038> C'est à ça que Lulu pensait, même si elle savait à quel point ta maman comptait pour toi.
+
+// (darklulu)
+<0039> Désolée... désolée, Ellie...
+
+// (mio)
+<0040> Ne t'en veux pas, Lulu. Tu n'as rien fait de mal.
+
+// (mio)
+<0041> Ellie t'a embarquée dans son aventure, s'est amusée comme elle le pouvait, et s'est contentée de retrouver sa maman. Elle ne s'est jamais souciée de toi.
+
+// (mio)
+<0042> Elle s'est servie de toi tout du long.
+
+// (arnelle)
+<0043> Qu'est-ce qu'elle raconte, celle-là ?
+
+// (mio)
+<0044> Le fait est que...
+
+// (mio)
+<0045> Lulu, c'est maintenant ou jamais. Cesse de te retenir pour une fois, et accomplis ton rêve.
+
+// (mio)
+<0046> Dans un monde qui ne veut pas de toi, si le bonheur existe encore...
+
+// (mio)
+<0047> ...arrache ce bonheur, réduis-le en morceaux. Donne au monde la mauvaise fin qu'il mérite.
+
+// (darklulu)
+<0048> Kuuu... Uuaaaaah !
+
+// ========= Scene: Midpoint =========
+
+// (ellie)
+<0049> Lulu, je suis tellement désolée ! Je ne savais vraiment pas que tu te sentais seule !
+
+// (ellie)
+<0050> C'est vrai, je tenais vraiment beaucoup à retrouver ma maman, mais je t'aime tellement, Lulu...
+
+// (ellie)
+<0051> On devrait rester ensemble, toi et moi... pour toujours !
+
+// (mio)
+<0052> Hihihihihi, quoi que tu lui dises, aucune chance que ça l'atteigne.
+
+// (mio)
+<0053> Comme tu peux le voir, son esprit est submergé dans les ténèbres. Pas vrai, Lulu ?
+
+// (darklulu)
+<0054> ...
+
+// (darklulu)
+<0055> Lulu peut vraiment rester avec toi ?
+
+// (mio)
+<0056> Hein ?
+
+// (ellie)
+<0057> Bien sûr ! Maintenant que j'ai retrouvé ma maman, c'est à moi de t'accompagner dans ton aventure !
+
+// (ellie)
+<0058> J'ai toujours adoré cette aventure, moi aussi ! Parce que je t'aime, Lulu !
+
+// (darklulu)
+<0059> Tu le penses vraiment ?
+
+// (ellie)
+<0060> Depuis le temps qu'on se connaît ! Si je mentais, tu le verrais, non ?
+
+// (mio)
+<0061> Arrête ton char... Lulu sombre dans les ténèbres, tes paroles sont vaines.
+
+// (darklulu)
+<0062> Lulu croit en Ellie ! Lulu sait qu'elle ne ment pas, parce que Lulu l'aime trop !
+
+// (mio)
+<0063> Heeeeiiin !?
+
+// (ellie)
+<0064> Déesse stupide ! Notre aventure a créé des liens indestructibles !
+
+// (darklulu)
+<0065> Exactement !
+
+// (mio)
+<0066> Vous vous moquez de moi... Vraiment ?
+
+// (kai(hero))
+<0067> Hahaha, pour une déesse, tu es toujours aussi mauvaise en scénario.
+
+// (motherpoppo)
+<0068> Chéri !
+
+// (mio)
+<0069> Quoi ? Comment tu as fait pour sortir de là...?
+
+// (ellie)
+<0070> Vous êtes qui ?
+
+// (kai(hero))
+<0071> Je suis ton papa. Ta mère et moi étions tous les deux enfermés ici avant ton arrivée.
+
+// (ellie)
+<0072> !? !? !? !?
+
+// (kai(hero))
+<0073> Pour ainsi dire, mon propre esprit allait sombrer dans les ténèbres, tellement tu m'as ignoré...
+
+// (darklulu)
+<0074> C'est vrai qu'Ellie ne faisait que parler de sa maman, jamais de son papa.
+
+// (ellie)
+<0075> Oui, je sais pas pourquoi, j'y ai jamais réfléchi.
+
+// (kai(hero))
+<0076> Ça y est, je commence à sombrer...
+
+// (motherpoppo)
+<0077> Allons, ne lui en veux pas, chéri.
+
+// (kai(hero))
+<0078> Pfff... Bon.
+
+// (kai(hero))
+<0079> Pour résumer, notre chère déesse tentait de briser les liens entre Lulu et toi, de noyer son esprit dans les ténèbres, et de tourner tout ça en une fin tragique comme elle les aime.
+
+// (kai(hero))
+<0080> Mais, en réalité...
+
+// (ellie)
+<0081> J'aime Lulu plus que tout !
+
+// (darklulu)
+<0082> Et Lulu aime Ellie tout autant.
+
+// (kai(hero))
+<0083> Dans ce cas, vous savez ce qu'il vous reste à faire ?
+
+// (ellie)
+<0084> Bien sûr ! On va...
+
+// (darklulu)
+<0085> Lui donner une belle raclée.
+
+// (mio)
+<0086> Pardon ? Enfin, Lulu, tu te souviens que je suis ta maman ?
+
+// (darklulu)
+<0087> Tu rigoles !? C'est la première fois qu'on se voit, et ton premier réflexe, c'était de manipuler Lulu !
+
+// (mio)
+<0088> Mais quoiii...
+
+// (motherpoppo)
+<0089> Désolée de t'apprendre que tu es un très mauvais parent.
+
+// (mio)
+<0090> J'ai pas de leçons à recevoir venant d'une mère complètement absente !
+
+// (kai(hero))
+<0091> Rappelle-moi qui nous a retiré notre enfant ? Et qui nous a gardé captifs pendant si longtemps ?
+
+// (motherpoppo)
+<0092> Dis bien, chéri.
+
+// (darklulu)
+<0093> C'est... c'est cette déesse... qui a séparé Ellie de sa famille ?
+
+// (ellie)
+<0094> Oh, vraiment ?
+
+// (ellie)
+<0095> T'as fait du mal à Lulu, t'as voulu saccager le monde, et en plus, t'as enlevé mes parents...!?
+
+// (ellie)
+<0096> Ahaa... je crois... que je suis en super-méga rogne.
+
+// (motherpoppo)
+<0097> Elle mériterait d'être effacée et oubliée.
+
+// (kai(hero))
+<0098> Papa et maman feront de leur mieux pour t'aider à te déchaîner.
+
+// (ellie)
+<0099> Maman, papa...
+
+// (halena)
+<0100> Je dois dire que je ne m'y attendais pas.
+
+// (cook)
+<0101> Coco la déteste aussi.
+
+// (arnelle)
+<0102> Honnêtement, on serait mieux sans une déesse aussi pourrie.
+
+// (maynie)
+<0103> Parfaitement d'accord.
+
+// (pomeranius)
+<0104> Je n'en pense pas moins.
+
+// (watty)
+<0105> Pareil...
+
+// (darklulu)
+<0106> Lulu veut la combattre, elle aussi !
+
+// (ellie)
+<0107> V-vous... Ok, dans ce cas, on y va tous ensemble et...
+
+// (hyperellie)
+<0108> Ahaaa !
+
+// (hyperellie)
+<0109> On lui casse la figure !!!
+
+// ========= Scene: Intro 2 =========
+
+// (mio)
+<0110> Attendez un peu ! Dois-je vous rappeler que je suis une déesse ?
+
+// (mio)
+<0111> Si je disparais, le monde va dégénérer et s'effondrer sur lui-même.
+
+// (mio)
+<0112> Vous tenez vraiment à ce que ça arrive ?
+
+// (hyperellie)
+<0113> Hein, c'est pas des cracks ?!
+
+// (darklulu)
+<0114> Ce serait dommage.
+
+// (mio)
+<0115> Hihihi, quelle erreur de s'opposer à une déesse. Mais au vu de la situation, je pense qu'il est temps pour moi de partir.
+
+// (mio)
+<0116> Je vais vous laisser gamberger dans votre bonheur jusqu'à ce que je trouve une nouvelle idée de fin tragique.
+
+// (hyperellie)
+<0117> Oh non, elle va s'enfuir...!
+
+// (darklulu)
+<0118> Attends !
+
+// (mio)
+<0119> Allez, on se tient au courant. Bye b--
+
+// (kai(hero))
+<0120> Ça ne peut pas terminer ainsi... n'est-ce pas, "déesse" ?
+
+// (mio)
+<0121> !?
+
+// (tomomo)
+<0122> Sérieusement... Toujours à saccager mon monde, toi.
+
+// (mio)
+<0123> Tomomo... Comment t'es arrivée là...?
+
+// (tomomo)
+<0124> Je t'ai cherchée partout...
+
+// (tomomo)
+<0125> Et c'est en sentant la présence de Kai et Poppo que je t'ai trouvée.
+
+// (hyperellie)
+<0126> Euh, j'arrête pas de poser la question, mais...
+
+// (hyperellie)
+<0127> Vous êtes qui !?
+
+// (kai(hero))
+<0128> En bref, elle est la déesse de l'autre monde.
+
+// (hyperellie)
+<0129> Il y a plusieurs dieux, alors ?
+
+// (darklulu)
+<0130> Et plusieurs mondes ?
+
+// (tomomo)
+<0131> Il y a plus de mondes que de dieux, mais oui.
+
+// (tomomo)
+<0132> Écoutez-moi bien, habitants de ce monde ! J'ai une chose à vous dire !
+
+// (tomomo)
+<0133> Même si cette pouilleuse disparaît, je garderai ce monde sous mon aile.
+
+// (mio)
+<0134> Hein ?
+
+// (tomomo)
+<0135> Ne vous gênez pas pour la tabasser comme ça vous chante.
+
+// (hyperellie)
+<0136> Euh... Maman ?
+
+// (motherpoppo)
+<0137> Ne t'en fais pas. Tu peux lui faire confiance.
+
+// (kai(hero))
+<0138> Ne te retiens pas, Ellie. Dans ce monde, c'est toi, la protagoniste.
+
+// (mio)
+<0139> Je crois que je vais y aller, du coup.
+
+// (hyperellie)
+<0140> Ahaaa ♥
+
+// (hyperellie)
+<0141> Tu ne peux pas t'enfuir.
+
+// (darklulu)
+<0142> Lulu ne va pas te ménager.
+
+// (mio)
+<0143> Gyaaaaaaaah !!!
+
+// ========= Scene: Ending =========
+
+// (tomomo)
+<0144> Félicitations, habitants de ce monde, pour votre victoire face à cette imposture.
+
+// (motherpoppo)
+<0145> Sans cette déesse, nous pouvons enfin trouver le bonheur, quel qu'il soit.
+
+// (arnelle)
+<0146> Tu parles d'une happy end. On venait pour un trésor, on revient les mains vides, et épuisés.
+
+// (kai(hero))
+<0147> Eh bien, il faut dire que vous n'êtes que des personnages secondaires...
+
+// (maynie)
+<0148> C'est gonflé de dire ça quand ta propre fille t'a pas reconnu !
+
+// (halena)
+<0149> Un père humain, et une mère hamster... On dirait...
+
+// (pomeranius)
+<0150> Un sort maléfique, peut-être.
+
+// (watty)
+<0151> Ça me dit rien qui vaille... Brrr.
+
+// (kai(hero))
+<0152> C'est de la faute de cette déesse de malheur !
+
+// (hyperellie)
+<0153> Ça n'a plus d'importance, et cette fin non plus, d'ailleurs !
+
+// (lulu)
+<0154> ?
+
+// (hyperellie)
+<0155> Nos aventures avec Lulu vont continuer, on va quand même pas s'arrêter aussitôt !
+
+// (lulu)
+<0156> Ellie, t'es sûre de ce que tu dis ?
+
+// (hyperellie)
+<0157> Carrément. Maintenant, on sait qu'il existe d'autres mondes ailleurs ! Si on veut les voir, on doit s'y mettre dès maintenant.
+
+// (hyperellie)
+<0158> On va voir le plus de mondes possible et jouer autant qu'on peut !
+
+// (hyperellie)
+<0159> Enfin, tu veux venir avec moi, Lulu, hein ?
+
+// (lulu)
+<0160> Avec plaisir !
+
+// (hyperellie)
+<0161> Ahaaa ! Dans ce cas... Papa, maman !
+
+// (hyperellie)
+<0162> Je repars à l'aventure avec Lulu !
+
+// (motherpoppo)
+<0163> Prenez soin de vous, mes amours.
+
+// (kai(hero))
+<0164> Repassez à la maison de temps en temps, d'accord ?
+
+// (hyperellie)
+<0165> D'ac' !
+
+// (hyperellie)
+<0166> Ok, Lulu, on commence par quoi ?
+
+// (lulu)
+<0167> Hmm... Peut-être un endroit chaleureux, ou bien... un endroit plein de nourriture... C'est difficile !
+
+// (hyperellie)
+<0168> Ahaa, je suis d'accord ! Bougeons de là, on improvisera !
+
+// (lulu)
+<0169> Oui !!

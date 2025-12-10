@@ -114,3 +114,7 @@ descr=
 < FIELDEVENT_CONVERGENCE >
 name=收敛
 descr=当前场地将随机切换为另一个场地。\n\n频率：每6轮
+
+< FIELDEVENT_CLASHOFCAKES >
+name=蛋糕
+descr=所有玩家获得一张「魅樱的假蛋糕」。\n\n频率：每6轮

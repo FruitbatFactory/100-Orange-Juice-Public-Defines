@@ -1,0 +1,159 @@
+<0000> Hmpf.
+<0001> C'est bien frivole.
+<0002> Hmm...
+<0003> J'arriverai à mes fins.
+<0004> Je vais rendre ça plus intéressant.
+<0005> J'utilise mes cartes avec sagesse.
+<0006> Le moment est venu.
+<0007> C'est parti !
+<0008> Bien, mais... de quoi s'agit-il ?
+<0009> Hmpf. Je ne laisse jamais rien au hasard.
+<0010> Je fais ça pour notre avenir.
+<0011> Ne m'en voulez pas.
+<0012> Je suis toujours à l'affût.
+<0013> Cet atout augmente mes chances de triompher.
+<0014> Hmpf. C'est bien suffisant.
+<0015> Un risque calculé.
+<0016> Serait-ce la couleur du ciel de ce jour d'antan...
+<0017> En l'état, il m'est impossible de me reposer.
+<0018> Oh ? Le jour se lève déjà...?
+<0019> Hm... Un rêve désagréable...
+<0020> Une nouvelle journée s'annonce.
+<0021> Je vais rêver encore un peu...
+<0022> Hmmm.
+<0023> O-oh...
+<0024> Je vais rester là, et méditer...
+<0025> Canons !
+<0026> Ouvrez le feu !
+<0027> Hmpf. Tiens !
+<0028> Feu !
+<0029> Une égratinure.
+<0030> Comment est-ce possible ?
+<0031> Seigneur.
+<0032> Mgh !
+<0033> Merci bien.
+<0034> Ahh... c'est nettement mieux.
+<0035> J'en avais bien besoin.
+<0036> Hm, excellent.
+<0037> Hmm... cela change tout.
+<0038> Je vois. Je vais devoir réviser mon plan.
+<0039> Un ciel inconnu...
+<0040> Hmpf. Cela importe peu.
+<0041> Gargh !
+<0042> Mon rêve ! Non !
+<0043> Ce n'est pas encore terminé. Je reviendrai.
+<0044> Il faut savoir reconnaître sa défaite.
+<0045> Mon combat... n'est pas encore terminé.
+<0046> Tu freines mes plans, je le crains.
+<0047> Tu cherches à m'interrompre ?
+<0048> Désolé, mais il en est ainsi.
+<0049> Je t'attendais.
+<0050> Je ne ferais pas ça, si j'étais toi.
+<0051> Essaie donc de me vaincre !
+<0052> Ravi de te rencontrer. Je peux aider ?
+<0053> Mes excuses.
+<0054> Je te suggère de fuir.
+<0055> Feu !
+<0056> C'est comme ça qu'on fait.
+<0057> Hmm !
+<0058> Hm !
+<0059> Guh.
+<0060> C'est... c'est...
+<0061> Hnngaah !
+<0062> Hrguhh !
+<0063> Quelle souffrance atroce !
+<0064> J-j'ai connu bien pire... par le passé...
+<0065> Hmpf !
+<0066> Un effort inutile.
+<0067> Essaie encore.
+<0068> J'ai appris ça quand j'étais jeune.
+<0069> Rien de bien surprenant.
+<0070> Tout comme prévu.
+<0071> Je t'aurais prévenu.
+<0072> J'accepte ton abandon.
+<0073> Impossible !
+<0074> Je suis vaincu...!
+<0075> Dégâts critiques...!
+<0076> Tu as gagné, cette fois.
+<0077> Nous aurons besoin de ce budget.
+<0078> Une maigre somme, toutefois bonne à prendre.
+<0079> Je m'en servirai à bon escient.
+<0080> Je vais les garder.
+<0081> Un simple obstacle.
+<0082> Je ne m'attendais pas à ça...
+<0083> Pardon ?! C'est du vol pur et simple !
+<0084> Bien sûr, les impôts... Pft !
+<0085> Ma stratégie...!
+<0086> Qu'est-ce que- !?
+<0087> Sapristi...
+<0088> Hmm... Une erreur de ma part.
+<0089> Hmpf. Un défi à ma hauteur.
+<0090> Le ciel n'est pas assez grand pour nous deux.
+<0091> Pfeuh. Il en faut plus que ça pour m'impressionner.
+<0092> Fort intéressant.
+<0093> Il y a tant de façons de gagner.
+<0094> Hmm. Le ciel sera mien.
+<0095> La course aux étoiles... Ça me rend nostalgique.
+<0096> On peut également gagner ainsi.
+<0097> Hmpf. Je ne joue que pour gagner.
+<0098> Ma victoire est garantie.
+<0099> Cette victoire est la dernière étape\navant de réaliser mon rêve.
+<0100> Je me bats pour l'avenir.
+<0101> Appelle-moi Malt.
+<0102> Hmpf. Je te trouverai une mission.
+<0103> Hmm... C'est maintenant, mon grand retour ?
+<0104> Mon rêve... respire encore.
+<0105> Ce n'est que le début.
+<0106> L'avenir repose entre mes mains !
+<0107> Ainsi, je vais mettre mes plans en pratique.
+<0108> Tous les éléments s'assemblent.
+<0109> Le ciel est aussi beau que je l'espérais.
+<0110> Mon rêve... je le vois encore.
+<0111> Tu es le seul maître de ton futur.\nAlors bâtis-le de tes deux mains.
+<0112> Le ciel d'ici... C'est tel un rêve.
+<0113> Ne le perds pas. J'en aurai besoin.
+<0114> Un atout de plus en notre possession
+<0115> S'il en est ainsi.
+<0116> Hm-hm. C'est mérité.
+<0117> J'ai besoin de plus de temps.
+<0118> Nous avons besoin d'une diversion.
+<0119> Montre-leur ce que tu vaux.
+<0120> Hmpf. Ne me déçois pas.
+<0121> Hmm-h.
+<0122> Pas mauvais.
+<0123> Fort bien.
+<0124> Je refuse.
+<0125> Quel dommage.
+<0126> La chance nous sourit.
+<0127> Qu'est-ce que c'est que ça ?
+<0128> Décollage.
+<0129> Le dé est envoyé !
+<0130> C'est le moment !
+<0131> Bien le bonjour.
+<0132> Hmm, hmm...
+<0133> Bien, très bien.
+<0134> Magnifique.
+<0135> Sapristi !
+<0136> Un potentiel intéressant.
+<0137> Hmpf. Je vais vous montrer.
+<0138> Je vais la faire marcher.
+<0139> Fort bien. Tout atout est bon à jouer.
+<0140> Mes remerciements.
+<0141> Maître de la Guilde ? Je ne mérite plus ce titre.
+<0142> Prépare-toi, débutante !
+<0143> Essaie donc de m'arrêter, Red Barrel !
+<0144> Il revient aux doyens d'enseigner\naux plus jeunes la maîtrise de soi.
+<0145> Hmm. Tu t'es bien débrouillée.
+<0146> Tu viens t'opposer à moi, mon vieil ami ?
+<0147> T'es-tu enfin décidé à partager un verre avec moi ?
+<0148> Hmpf. Ça me rappelle quand j'étais jeune et insouciant...
+<0149> Forban ! Tu ne mérites pas mon ciel !
+<0150> Bien le bonjour, jeune demoiselle.\nEs-tu venue avec ton père ?
+<0151> Qu'est-ce qu'une si belle jeune femme\naurait à voir avec un vieil homme comme moi ?
+<0152> Tu comptes faire tes griffes sur moi ? Eh bien soit.
+<0153> Il n'est pas trop tard pour réintégrer la Guilde.\nLes pilotes talenteux sont toujours la bienvenue.
+<0154> Le symbole de la Guilde... Suis-je en train de rêver ?
+<0155> Hum ! Qu'est-ce qui t'amène ici, jeune fille ?\nCherches-tu tes parents ?
+<0156> Tout le monde, avec moi ! *tousse*\n...Hum, une vieille habitude...
+<0157> C'est ainsi qu'un gentleman mène ses combats.
+<0158> M-mademoiselle... J-je ne saurais vous regarder...

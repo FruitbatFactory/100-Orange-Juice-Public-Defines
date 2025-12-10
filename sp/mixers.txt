@@ -109,3 +109,23 @@ descr=El 1/3 de los paneles sin viscosidad son cubiertos con viscosidad por 1 ca
 < MIXER_SPORES >
 name=Esporas
 descr=Hongos aparecerán en el campo de juego.
+
+< MIXER_WILDFRIENDS >
+name=Amigos Salvajes
+descr=Todos los jugadores comienzan la partida con una convocación.
+
+< MIXER_CARDSHARK >
+name=Tahúr
+descr=Todas las cartas podrán ser usadas por todos los jugadores sin importar el nivel.
+
+< MIXER_SPEEDY_BOSS >
+name=Jefe Veloz
+descr=El Jefe recibirá +1 MOV.
+
+< MIXER_UBI_BOSS >
+name=Jefe Ubícuo
+descr=Cuando un jugador caiga en un panel de Jefe o Terror, el Jefe se teletransportará al panel de ese jugador.
+
+< MIXER_AMBUSH >
+name=Emboscada
+descr=El Jefe comienza la partida con una de sus cartas teniendo 1 nivel mayor que lo normal.

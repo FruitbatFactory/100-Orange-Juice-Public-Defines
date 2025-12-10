@@ -368,3 +368,66 @@
 2=Gosta: Pudim, justiça\nOdeia: Pudim com molho shoyu, assédio
 3=Kyupita é uma versão masculina de QP. Ele apareceu pela primeira vez no jogo de 1º de abril "QP Kiss", que apresenta versões de um universo alternativo do elenco do QP-verso.
 4=Kyupita é tão puro e honesto quanto seu típico herói de mangá shounen. Ele tem sentimentos românticos por seu senpai Kyousuke.
+
+< LORE_SWEETCREATOR >
+1=A toda-poderosa líder das Sweet Gods, Sweet Creator é responsável por todas as sobremesas que já existiram, ou que irão existir.
+2=Gosta: Pesquisa e desenvolvimento\nOdeia: Épocas atarefadas
+3=Sweet Creator é uma garota calma e de voz suave, mas egoísta e muito boa em fazer as pessoas fazerem sua vontade apenas conversando com elas com sua voz gentil.
+4=Sweet Creator usa um padrão de fala arcaico, o que leva a questionar sua verdadeira idade, que ninguém sabe.
+
+< LORE_SWEETMAKER >
+1=Uma garota animada que se tornou uma das seis deusas que governam os doces.
+2=Gosta: Bolachas caseiras, fazer o que bem entender\nOdeia: Se limpar após cozinhar
+3=Como Sweet Maker costumava ser a subordinada em um grupo, ela está se deixando levar depois de obter poderes divinos.
+4=Sweet Maker adora tanto fazer quanto comer doces - no entanto, ela engorda facilmente se comer demais. Até as deusas têm seus problemas!
+
+< LORE_SWEETBLOGGER >
+1=Uma estudante do ensino médio que, de alguma forma, se tornou uma das seis deusas que governam os doces.
+2=Gosta: Visitar restaurantes, pratos únicos\nOdeia: Tretadores, trolls
+3=O passatempo da Sweet Blogger é visitar diversos restaurantes e compartilhar suas descobertas em seu blog. As fotos que ela tira mostram 120% do charme dos doces.
+4=Tornar-se uma deusa não mudou em nada a personalidade de Natsumi; ela continua sendo uma garota gentil e de voz suave.
+
+< LORE_REIKA >
+1=Uma menina de 15 anos de um mundo não assolado pela guerra.
+2=Gosta: Cães, gatos\nOdeia: Insetos
+3=Hoshino Reika tem uma aura de outro mundo, e é difícil dizer o que ela está pensando.
+4=Ela é um pouco insistente e gosta de provocar as pessoas apenas o suficiente para deixá-las desconfortáveis.
+
+< LORE_SHIFU >
+1=Em breve!
+
+< LORE_MESCAL >
+1=A data e o local de nascimento de Mescal são desconhecidos. Sem se deixar abalar por esse fato, ela foi criada pelo pirata dos céus Capitão Tequila e seu bando de piratas barulhentos como uma garota inocente e selvagem. Como sua família sempre foi de piratas do céu, ela nem se considera uma pirata, mas acredita ser uma aviadora comum.
+2=Gosta: Baleias, aviação, tortas de maçã \nOdeia: O cheiro de gente velha dos piratas
+3=Após a queda da Guilda, Mescal vive em uma fazenda com seu pai adotivo, o que ela acha muito entediante, e agora se interessa por aviação de verdade.
+4=Devido ao fato de que só recentemente teve a oportunidade de conhecer outras garotas da sua idade, ela agora se interessa por Marc, principalmente por ela ser aviadora, e a considera uma mentora, acompanhando-a por aí. Ela chama Marc de Irmã Mais Velha e Tequila de Papai. 
+5=Depois de começar a sair com Marc, o cheiro de gente velha dos piratas começou a incomodar Mescal. A torta de maçã que Marc faz para Mescal é a favorita dela.
+
+< LORE_MALT >
+1=Um homem charmoso e cavalheiro de meia-idade que não desiste de perseguir seu sonho. Sua origem é desconhecida. Durante seu período no exército, Malt vislumbrou o crescimento da indústria da aviação e persuadiu Grain, para quem ele trabalhava, a fundar uma organização de aviadores com ele.
+2=Gosta: Eventos que evocam uma sensação de entusiasmo ou mistério, bebidas para encerrar a noite\nOdeia: Tédio
+3=Além de seus velhos amigos Grain e Bourbon, poucos entendem o que ele realmente pensa (o que não significa que ele esteja sempre cheio de pensamentos profundos). A única coisa que Malt não gosta em Grain é que este se recusa a tomar umas com ele, então ele tenta convencê-lo sempre que tem oportunidade (e acaba sendo recusado). 
+4=Malt e Bourbon trabalharam juntos para construir a Guilda, mas acabaram se opondo um ao outro; no entanto, essas visões se restringem apenas aos céus, então, se eles se encontram em um bar, passam a noite inteira bebendo juntos. Aliás, a bengala que ele usa é só para enfeitar.
+
+< LORE_FETNETNOBLE >
+1=Esta é a versão de Fernet que segue o curso esperado dos acontecimentos após a queda da Guilda Céu Azul. Fernet segue os planos de sua família e ascende aos escalões superiores da sociedade. 
+2=Gosta: Seus pais\nOdeia: Pessoas/coisas deselegantes, coisas sem sentido
+3=Por ser uma nova nobre, elevada pelo sucesso industrial e vasta riqueza de sua família, Fernet teve dificuldades para se adaptar ao papel de classe alta que lhe era esperado. No entanto, ela perseverou e, ao longo dos anos seguintes, acabou aceitando-o.
+4=Fernet conseguiu controlar melhor seu temperamento explosivo, tornando-se mais calma e aparentemente bem-educada. Contudo, agora ela usa sua inteligência e lábia para desferir ataques, em vez de suas aeronaves, e não hesita em fazer comentários mordazes, como se espera de alguém de sua posição.
+5=Fernet não tolera bobagens e é muito focada em seus objetivos e determinada a ter sucesso. Ela ainda valoriza suas conexões pessoais, incluindo sua velha amiga Marc, e tem uma mente um pouco mais aberta em relação a pessoas de todos os tipos.
+
+< LORE_HIMEMOONLIGHT >
+1=Em breve!
+
+< LORE_WATTY >
+1=Watty é uma sereia - uma criatura ancestral de idade desconhecida.
+2=Gosta: Água limpa, pessoas gentis\nOdeia: Seca, ficar suja
+3=Por muito tempo, Watty permaneceu selada em uma certa ruína. Depois que Arnelle a libertou, ela se tornou sua leal subordinada.
+4=Watty possui poderosos poderes mágicos, mas devido à sua natureza tímida, ela é incapaz de usá-los de forma eficaz.
+5=Ela é muito gentil e não deseja ferir ninguém, mas às vezes seu poder mágico, forte o suficiente para derrotar um rei demônio, pode sair do controle.
+
+< LORE_POMERANIUS >
+1=Cão mordomo de Arnelle. Sua idade é desconhecida.
+2=Gosta: Chá preto, decoro\nOdeia: Cheiros fortes
+3=Por ser um cachorro, Pomeranius tem um olfato apurado. Por isso, ele detesta cheiros fortes, como o de peixe cru. Devido a isso, ele tem dificuldades em lidar com Watty.
+4=Apenas da aparência fofucha de Pomeranius, ele tem uma personalidade elegante e meticulosa. Com sua mestra, Arnelle, ele é sempre um cavalheiro, mas seus inimigos não conhecerão um momento de paz.

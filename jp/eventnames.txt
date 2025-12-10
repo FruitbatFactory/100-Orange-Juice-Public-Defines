@@ -37,4 +37,10 @@
 < EVENTNAME_POPPO >
 ぽっぽイベント
 
+< EVENTNAME_OPERATION_HALLOWEEN >
+オペレーション・ハロウィン
+
+< EVENTNAME_SUMMER2025 >
+トリプル・トラブル
+
 [EOF]

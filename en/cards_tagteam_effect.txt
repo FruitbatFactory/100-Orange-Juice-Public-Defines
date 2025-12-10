@@ -1,0 +1,5 @@
+< CARD_COOP_GUIDANCE_EFFECT >
+name=Guidance of the Weathercock
+descr=Roll 2 dice for everything except for battle. Can only check Norma on own Home panel. This effect ends when you stop on your own Home panel or tag out.
+
+[EOF]

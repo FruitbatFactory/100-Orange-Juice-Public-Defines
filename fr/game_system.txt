@@ -1,0 +1,132 @@
+
+< GAME_SYSTEM_ROLLTOREVIVE >
+ou plus\npour vous relever !
+
+< GAME_SYSTEM_ROLL_MULTIPLE >
+Jetez\n%d dés !
+
+< GAME_SYSTEM_WINNERSCREEN_STARS >
+Étoiles
+
+< GAME_SYSTEM_WINNERSCREEN_WINS >
+Victoires
+
+< GAME_SYSTEM_WINNERSCREEN_FAME >
+Gloire
+
+// The following HUD text will require a size smaller or (more or less) equivalent to the english counterpart! Use abbreviations if needed
+// Level (current norma.)
+< GAME_SYSTEM_HUD_LVL >
+NIV
+
+< GAME_SYSTEM_HUD_HP >
+PV
+
+< GAME_SYSTEM_HUD_NORMA >
+Quota
+
+< GAME_SYSTEM_HUD_NORMA_MAX >
+MAX !
+
+< GAME_SYSTEM_HUD_CARDEFFECTS >
+Effets
+
+< GAME_SYSTEM_HUD_CARDEFFECTS_STACKS >
+Quantité
+
+< GAME_SYSTEM_HUD_CARDEFFECTS_DURATION >
+Durée
+
+< GAME_SYSTEM_SHOP_LEVEL >
+NIV. %d
+
+< GAME_SYSTEM_SHOP_NO_BONUS >
+Aucun bonus débloqué.
+
+// %% is normal here.
+< GAME_SYSTEM_SHOP_BONUS_1 >
++%d %% de chance de trouver des objets Super Rares en magasin.
+
+// %% is normal here.
+< GAME_SYSTEM_SHOP_BONUS_2 >
+-%d %% d'étoiles sur tous les objets en magasin.
+
+< GAME_SYSTEM_SHOP_BONUS_3 >
++%d étoiles en vendant une carte.
+
+< GAME_SYSTEM_SHOP_BONUS_4 >
+Les articles ont une chance d'être en +1 exemplaire.
+
+< GAME_SYSTEM_SHOP_BONUS_5 >
+Livrer des objets vous donne +%d étoiles une fois la quête achevée.
+
+< GAME_SYSTEM_SHOP_BONUS_6 >
+Les articles ont une chance d'être en +2 exemplaires.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_1_NAME >
+Art de l'Épée
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_1_DESC >
++1 ATK permanent.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_2_NAME >
+Art du Bouclier
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_2_DESC >
++1 DEF permanent.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_3_NAME >
+Art de l'Évasion
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_3_DESC >
++1 EVD permanent.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_4_NAME >
+Art de l'Auto-Persuasion
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_4_DESC >
+-1 REC permanent.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_5_NAME >
+Stimulation
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_5_DESC >
+Vous récupérez tous vos PV. +1 PV Max permanent.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_6_NAME >
+Grandes poches
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_6_DESC >
+Augmente votre maximum de cartes et de Contrats en main de 1.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_7_NAME >
+Carte de Fidélité
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_7_DESC >
+Réduction de 30% sur tous les articles de magasin (excepté le Marchand Douteux).
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_8_NAME >
+Coureur
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_8_DESC >
+Dès que vous finissez votre déplacement sans vous interrompre, vous bénéficiez de +1 MOV à votre prochain tour.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_9_NAME >
+Récolte Fructueuse
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_9_DESC >
++100 étoiles. Vous gagnez des étoiles en récompense de Primes.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_10_NAME >
+Attention\nMouette Méchante
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_10_DESC >
+Infllige 2 points de dégât aux joueurs adverses qui s'arrêtent sur votre maison.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_11_NAME >
+Commandant
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_11_DESC >
+Soigne tous les PV de votre familier. Vous prenez le contrôle de vos familiers. Ils peuvent accomplir des Quêtes. Vos invocations ont +2 PV Max.
+
+[EOF]

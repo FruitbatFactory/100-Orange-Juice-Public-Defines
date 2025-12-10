@@ -1,0 +1,164 @@
+<0000> Hop !
+<0001> Aha ♥
+<0002> Quelle case ça sera ?
+<0003> J'y vais.
+<0004> Faisons ça ♥
+<0005> J'ajoute un peu de désordre !
+<0006> Aha, comme c'est amusant.
+<0007> Ça va te coincer.
+<0008> Et un piège de posé.
+<0009> Cette case vous réserve de mauvaises surprises ♥
+<0010> Comme c'est amusant.
+<0011> Aha, que dites-vous de ça ?
+<0012> Je vais t'écraser.
+<0013> Cette partie manquait de piment ♥
+<0014> Tu vas souffrir horriblement.
+<0015> Ne m'en veux pas si je me donne un avantage.
+<0016> Je rajoute une légère pointe de chaos.
+<0017> Une fois, dix fois, je me relèverai autant que nécessaire.
+<0018> J'en avais marre d'attendre.
+<0019> C'est bon, je peux jouer, maintenant ?
+<0020> La paix ne dure jamais qu'un instant.
+<0021> Uaahh ! Comment ça ?!
+<0022> Heein ? Pourquoi ?!
+<0023> Hmph.
+<0024> Pourquoi ? Comment ça ?!
+<0025> Tombe en miettes !
+<0026> Tu souffres comme jamais, n'est-ce pas ?
+<0027> Je t'interdis de contre-attaquer.
+<0028> Kukuku, je ne pouvais pas me retenir.
+<0029> Gyuah !
+<0030> Agyagya !
+<0031> Guhah !
+<0032> Kyaah !
+<0033> Enfin du soin ♥
+<0034> Je me sens renaître !
+<0035> Je me sens mieux ♥
+<0036> Pfahaa, comme c'est bon.
+<0037> Zoom !
+<0038> Je m'envooole~
+<0039> Kyaaa !
+<0040> Oh non !
+<0041> Ah... Aaah...
+<0042> Mais je... je...
+<0043> Mgyaah !
+<0044> Impossible, impossible, impossible !
+<0045> Attaque surprise ♥
+<0046> Ne t'en fais pas, ce sera rapide ♥
+<0047> Tu n'auras même pas le temps de te préparer ♥
+<0048> Hihihi, je t'ai fait peur ?
+<0049> AH ! Hé, tu m'as fait peur !
+<0050> Oui, d'accord, on va jouer ensemble.
+<0051> Tu viens de commettre une grave erreur.
+<0052> Je vais te montrer combien tu ne fais pas le poids.
+<0053> Je vais te réduire en cendres !
+<0054> Je te préviens, ça risque de faire mal.
+<0055> Ça laissera plus qu'une égratinure ♥
+<0056> Et boum ♥
+<0057> Ogo !
+<0058> Goff !
+<0059> Gah !
+<0060> Argh !
+<0061> Igaaaahh !
+<0062> Ça fait maaal !
+<0063> Oguyah !
+<0064> Guh... gah...
+<0065> Tu ne peux pas m'avoir.
+<0066> Hihihi, je ne suis pas là.
+<0067> Trop lent, trop lent ♥
+<0068> Oh, raté ! Comme c'est dommage.
+<0069> Hihi, quelle douce sensation.
+<0070> C'est mon moment préféré dans les combats.
+<0071> Tu es pitoyable ♥
+<0072> Ça y est, tu as eu ton compte ?
+<0073> Bieeeeh !
+<0074> C'est horrible...!
+<0075> Quelle atroce souffrance...
+<0076> Tu aimes bien faire pleurer les femmes...?
+<0077> Ahh, comme c'est beau ♥
+<0078> Rien, rien, rien de mieux !
+<0079> Toutes ces chéries m'appartiennent.
+<0080> Hihihi, comme c'est mignon ♥
+<0081> Je refuse, je refuse !
+<0082> Nooooon !
+<0083> Mes chéries !
+<0084> Comme c'est horrible...!
+<0085> Comment ai-je pu tomber dans un piège aussi ridicule !
+<0086> Quel piège de fourbe !
+<0087> Oh non, non !
+<0088> Aaaahh !
+<0089> Oh... B-bon, je ne suis pas surprise.
+<0090> On va bien s'amuser... pas vrai ?
+<0091> C-c'est moi, la plus forte.
+<0092> Ce qui devait arriver arriva.
+<0093> Tant que j'ai le plus d'étoiles, ma victoire est garantie !
+<0094> Hihihi, ces chéries me vont à merveille...
+<0095> Il n'en restera rien.
+<0096> Je ne vous en laisserai pas une seule.
+<0097> Vous allez tous mordre la poussière.
+<0098> Vous n'êtes que des chatons sans défense.
+<0099> Craignez-moi ♥
+<0100> Le massacre approche à grands pas ♥
+<0101> Tu veux jouer avec moi ? Bon, pourquoi pas.
+<0102> Mais oui, bien sûr que je peux jouer avec toi ♥
+<0103> À quel jeu on va bien pouvoir jouer ?
+<0104> Je savais que tu aurais besoin de moi ♥
+<0105> Hihihi, c'est mon heure de gloire.
+<0106> J'inspire le désespoir dans tout le monde ♥
+<0107> Je vous apporte le cadeau le plus savoureux, la peur.
+<0108> Faites-moi rire, d'accord ?
+<0109> Aaahh, je me suis bien amusée ♥
+<0110> Je savais que j'étais la plus démoniaque.
+<0111> Hihi, que des vermisseaux ♥
+<0112> C'était plutôt amusant.
+<0113> Un nouvel objet ?
+<0114> Tiens, un cadeau pour toi ♥
+<0115> C'est ce que tu voulais, non ?
+<0116> C'est un chouette cadeau.
+<0117> Tiens, prends ma place ♥
+<0118> C'est ton tour.
+<0119> On échange.
+<0120> Enfin. Il était temps.
+<0121> Ok ♥
+<0122> Oh, seigneur ♥
+<0123> Mhm ♥
+<0124> Non.
+<0125> Pardon !?
+<0126> Quelle chance.
+<0127> Hein ?
+<0128> On y va.
+<0129> C'est parti.
+<0130> Courage ♥
+<0131> Bonjour !
+<0132> Hmmmm...!
+<0133> Bien joué.
+<0134> C'est époustouflant.
+<0135> Nom de dieu !
+<0136> Oui, je vais utiliser ça.
+<0137> Sois gentil et prête-moi ton pouvoir ♥
+<0138> Hihihi, ça t'étonne ?
+<0139> Même ça, c'est à ma portée ♥
+<0140> Merci ♥
+<0141> Ça m'avait manqué de jouer avec Tomomo.
+<0142> Tomomooo, viens jouer avec moiii !
+<0143> Oh, je ne joue pas avec des inconnus, cette fois ♥
+<0144> On va bien s'amuser.
+<0145> Tomomo ! Viens, amuse-moi un peu ♥
+<0146> Oh ? Tu veux que je joue avec toi, Tomomo ?
+<0147> Tu verrais la tête que tu fais, c'est trop drôle ♥
+<0148> Hein ? Pardon...? Tomomo a gagné... C'est une blague ?
+<0149> Tu vas voir ce qu'est un dessert fait avec amour.
+<0150> Pourquoi tous les desserts devraient être sucrés ?\nC'est d'un ennui.
+<0151> Hihi, c'est moi qui ferai tous\nles desserts du monde, maintenant ♥
+<0152> C'est donc ça, vos sucreries...!
+<0153> Tu devrais prendre plus souvent soin de ton apparence.
+<0154> On va faire la fête, c'est ça ?
+<0155> Enfin. Dégustons des desserts cuisinés avec amour ♥
+<0156> Je peux sentir les sucreries de tout part, c'est si bon ♥
+<0157> Sur ce, que la fête commence.
+<0158> Je suis ravie de faire équipe avec toi, Tomomo ♥
+<0159> Jouons ensemble, main dans la main ♥
+<0160> Quelle chance de pouvoir me battre à tes côtés, Tomomo ♥
+<0161> Tu as l'air si morose... Allons, fais-nous un grand sourire !
+<0162> Délicieux, n'est-ce pas ? Savoure-le.
+<0163> Hé, qu'est-ce que tu fais ?!

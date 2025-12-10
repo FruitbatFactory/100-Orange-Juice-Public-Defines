@@ -45,7 +45,7 @@
 宠物
 
 < SHOP_LABEL_ARCADE >
-街机
+街机厅
 
 < SHOP_LABEL_DLC >
 DLC

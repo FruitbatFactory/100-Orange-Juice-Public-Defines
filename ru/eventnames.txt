@@ -8,7 +8,7 @@
 Охотники за Головами
 
 < EVENTNAME_MASTER_ANGLERS >
-Мастера-Рыболовы
+Мастера-Рыбаки
 
 < EVENTNAME_BEACH_PARTY >
 Пляжная Вечеринка
@@ -17,24 +17,33 @@
 Гонка за Грибами
 
 < EVENTNAME_BOUNTY_HUNGERS >
-Охота за Голодом
-
-< EVENTNAME_SCHOOL_CRASHERS > 
-Школьные Крушилки
+Охотники за Блюдами
 
 < EVENTNAME_POOL_PARTY >
 Вечеринка у Бассейна
+
+< EVENTNAME_SCHOOL_CRASHERS > 
+Школьные Прогульщики
 
 < EVENTNAME_CHAOS_MODE >
 Режим Хаоса
 
 < EVENTNAME_S3_TAGTEAM_MODE >
-Кризис после уроков
+Внеклассный Кризис
 
 < EVENTNAME_WINTER2023 >  
-Ремесленники памяти  
+Лечащие Память 
 
 < EVENTNAME_POPPO >  
-Событие Поппо  
+Событие Поппо 
+
+< EVENTNAME_OPERATION_HALLOWEEN >
+Операция "Хэллоуин"
+
+< EVENTNAME_SUMMER2025 >
+Тройная Неприятность
+
+< EVENTNAME_WINTER2025 >
+Претенденты Комнаты Клуба
 
 [EOF]

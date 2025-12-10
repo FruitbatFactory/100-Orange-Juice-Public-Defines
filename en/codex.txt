@@ -367,3 +367,66 @@
 2=Likes: Pudding, justice\nDislikes: Soy-sauced pudding, harassment
 3=Kyupita is a male version of QP. He first appeared in the April Fools' game "QP Kiss" which features alternate universe versions of the cast of the QP-verse.
 4=Kyupita is as pure and honest as your typical shounen manga hero. He has romantic feelings for his senior Kyousuke.
+
+< LORE_SWEETCREATOR >
+1=The almighty leader of the Sweet Gods, Sweet Creator is responsible for any dessert that has ever been or ever will be born.
+2=Likes: Research and development\nDislikes: Busy times
+3=Sweet Creator is a calm and soft-spoken girl but selfish and good at making people do her bidding by just talking to them in her gentle voice.
+4=Sweet Creator uses an archaic speech pattern, making one question her real age, which no one knows.
+
+< LORE_SWEETMAKER >
+1=A peppy girl who has become one of the six gods that rule over sweets.
+2=Likes: Homemade cookies, doing as one pleases\nDislikes: Cleaning up after baking
+3=Because Sweet Maker used to be the underling in a group, she's been getting carried away after gaining divine powers.
+4=Sweet Maker loves both making and eating sweets — however, she easily gains weight if she indulges. Even gods have their problems!
+
+< LORE_SWEETBLOGGER >
+1=A high schooler who has somehow become one of the six gods that rule over sweets.
+2=Likes: Restaurant hopping, unique dishes\nDislikes: Flamers, trolls
+3=Sweet Blogger's pastime is hopping from one restaurant to another and reporting her findings on her blog. The photos taken by her show 120% of the sweets' charm.
+4=Becoming a god hasn't changed Natsumi's personality at all; she's still a gentle, soft-spoken girl.
+
+< LORE_REIKA >
+1=A 15-year old girl from a world not shrouded in war.
+2=Likes: Dogs, cats\nDislikes: Bugs
+3=Hoshino Reika has an otherworldly air about her, and it's hard to tell what she's thinking.
+4=She's a bit pushy and likes to tease people just enough to make them uncomfortable.
+
+< LORE_SHIFU >
+1=Coming soon!
+
+< LORE_MESCAL >
+1=Mescal's date and place of birth are unknown.  Without letting that fact bother her, she's been raised up by the sky pirate Captain Tequila and his rowdy pirate gang as an innocent and wild girl. Because her family have been sky pirates all her life, she doesn’t even think of herself as a pirate, but instead seems to believe she's a normal aviator.
+2=Likes: Whales, aviation, apple pies \nDislikes: The old people smell of the pirates
+3=After the fall of the Guild, Mescal lives on a farm with her adoptive father, which she finds way too boring, and she has now gotten interested in real aviation.
+4=Due to the fact that she hadn't gotten to meet other girls her age until recently, she grew interested in Marc, especially as an aviator, and took her as a mentor, following her around. She calls Marc Big Sis and Tequila Daddy. 
+5=After starting to hang out with Marc, the usual smell of the pirates has started to bother Mescal. The apple pie Marc bakes for Mescal is her favorite.
+
+< LORE_MALT >
+1=A charming, gentlemanly middle-aged man who won't stop chasing his dream. His origin is unknown. During Malt's military days, he had foresight for the growth of the aviation industry and persuaded Grain, under whom he worked, to establish an organization of aviators with him.
+2=Likes: Events that evoke a sense of excitement or mystery, nightcaps\nDislikes: Boredom
+3=Apart from his old friends Grain and Bourbon, few understand what he actually thinks (which isn't to say he's always full of deep thoughts). The only thing Malt doesn't like about Grain is that Grain refuses to grab a drink with him, so he tries to talk him into it every time he has a chance (and then gets turned down). 
+4=Malt and Bourbon worked together to build up the Guild, but ended up opposing each other; however, they do only when it comes to the skies, so if they run into each other at a bar, they spend all night drinking together. By the way, the cane he uses is just for show.
+
+< LORE_FETNETNOBLE >
+1=This is the version of Fernet that follows the expected course of events after the fall of the Blue Sky Union. Fernet follows her family’s designs and makes her entrance into the upper echelons of society. 
+2=Likes: Her parents\nDislikes: Inelegant people/things, nonsense
+3=Being new nobility, elevated by her family’s industrial success and vast wealth, Fernet had a hard time adjusting to her expected upper class role, but she perseveres and over the next few years comes to accept it.
+4=Fernet has become able to control her fiery temperament better and is more collected and outwardly well mannered. However, she now uses her wits and tongue to lash out, rather than her aircraft, and can make cutting remarks as expected of one of her station.
+5=Fernet will not take anyone’s nonsense and is very goal driven and determined to succeed. She still appreciates her personal connections, including her old friend Marc, and has a somewhat more open mind toward people of all sorts.
+
+< LORE_HIMEMOONLIGHT >
+1=Coming soon!
+
+< LORE_WATTY >
+1=Watty's a mermaid — an ancient creature of unknown age.
+2=Likes: Clean water, nice people\nDislikes: Dryness, getting dirty
+3=For a long time, Watty lay sealed away in a certain ruin. After Arnelle released her, she became her loyal subordinate.
+4=Watty possesses mighty magical powers, but due to her timid nature, she's unable to use them effectively.
+5=She's very kind and doesn't wish to hurt anyone, but sometimes her magical power that's strong enough to take down a demon lord can surge out of control.
+
+< LORE_POMERANIUS >
+1=Arnelle's butler dog. His age is unknown.
+2=Likes: Black tea, decorum\nDislikes: Strong smells
+3=As a dog, Pomeranius has a keen nose. He dislikes strong odors, such as the smell of raw fish. Because of this, he has trouble dealing with Watty.
+4=Despite Pomeranius' fluffy appearance, he has a dandy, meticulous personality. Toward his master, Arnelle, he is ever the gentlemen, but his enemies will not know a moment of peace.

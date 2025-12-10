@@ -285,3 +285,103 @@ descr=아뇨, 토마뱀인데요?
 < PET_MASHIRO >
 name=맛시로
 descr=이젠 불운하지 않아요.
+
+< PET_MARKETABLESUGURIPLUSHIE >
+name=유통되는 스구리 봉제인형
+descr=봉제인형으로 시장에 유통되는 것도 제법 괜찮아요.
+
+< PET_MINIEPOPPO >
+name=미니 폿포
+descr=또다시 마음을 훔쳐가요.
+
+< PET_COMPACTSORA >
+name=압축 소라
+descr=어느 모로나 효율적이에요.
+
+< PET_STABU >
+name=스타부
+descr=작은 짤랑소리도 나요.
+
+< PET_PLUSHQP >
+name=큐피 봉제인형
+descr=부드러운 강아지예요!
+
+< PET_HUGGYHIME >
+name=안아줘요 히메
+descr=당신을 꼭 붙들 거예요.
+
+< PET_SMOLSAKI >
+name=꼬마 사키
+descr=꼬마뱅 벨도 같이 있답니다.
+
+< PET_RAREREPA >
+name=희귀 레파
+descr=이렇게 희귀한 레파를 얻는 것도 희귀한데요.
+
+< PET_TRAVELARU >
+name=여행용 아루
+descr=이제 세상 어디든지 아루를 데리고 있을 수 있어요.
+
+< PET_MINIATUREMARC >
+name=미니어처 마르
+descr=1/16 스케일 비행사입니다.
+
+< PET_ALTEHUGTOY >
+name=알테 허그 장난감
+descr=친절하게 대해주세요.
+
+< PET_COMFORTTOMOMO >
+name=위안용 토모모
+descr=가장 럭셔리한 100% 오렌지 주스 상품의 궁극 에디션, 한정-
+
+< PET_DARKNESSKRILA >
+name=어둠 크릴라
+descr=마스터가 봉제인형이 돼버렸습니다.
+
+< PET_LUCKYLULU >
+name=행운의 룰루
+descr=여행길에 행운을 가져다줍니다.
+
+< PET_SUMIKAPLUSHIE >
+name=스미카 v0.2
+descr=조금 작은 스미카도 여전히 스미카예요.
+
+< PET_GOGOKAE >
+name=고고 카에
+descr=밤에 안전하도록 지켜줄 거예요.
+
+< PET_BUDGETKAI >
+name=저가형 카이
+descr=신사임당 한 장으로 살 수 있어요.
+
+< PET_STEALTHYTSIH >
+name=스텔스 츠이
+descr=나노-나노라로 말합니다.
+
+< PET_SWEEBO >
+name=스위부
+descr=사랑받는 아이는 많은 이름이 있습니다.
+
+< PET_MINIMIO >
+name=미니 미오
+descr=악마같이 예쁜 프리미엄 봉제인형입니다.
+
+< PET_POCKETCOACH >
+name=포켓 코치
+descr=언제 어디서든 수영 강습을.
+
+< PET_OWNGOAL >
+name=나만의 골
+descr=최고의 순간을 기억하기 위한 기념품.
+
+< PET_WATERBALLONJERK >
+name=몸짱 물풍선
+descr=짱나는 경우가 아니면 다른 사람한테 던지지 마세요.
+
+< PET_HANDRINGER >
+name=핸드 링어
+descr=욕조에서 뜰 수 있게 해줍니다.
+
+< PET_HARBY >
+name=전령이
+descr=이 불가사의한 동료로 오늘 친구들에게 겁을 줘보세요.

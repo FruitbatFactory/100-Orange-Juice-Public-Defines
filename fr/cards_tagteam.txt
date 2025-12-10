@@ -1,0 +1,11 @@
+< CARD_HYPER_TAG_POPPO >
+name=Nous Sommes Partout
+descr=Téleportez-vous sur la case d'un ennemi au choix et volez (Niv. cible) x10 ★. Vous vous déplacez après.\nDurée de l'Effet : 1 chapitre\nVos statistiques deviennent -1 ATK, DEF, EVD.
+flavor="Poppo ! Poppopopopopo !"\n―Marie Poppo
+
+< CARD_HYPER_TAG_COOK >
+name=Guidance de la Girouette
+descr=(Effet Passif)\nJetez 2 dés à chaque action hors-combat. L'effet prend fin lorsque vous vous arrêtez sur votre propre Maison ou changez de place avec votre partenaire. Vous ne pouvez pas valider votre Quota sur les Maisons des autres joueurs.
+flavor="*cui cui* ! Par là ! Coco a choisi cette direction !" ―Coco
+
+[EOF]

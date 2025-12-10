@@ -1,0 +1,105 @@
+// CampaignScenario_CodexStory_Concierge
+// (watty)
+<0000> E-euh, M. Poméranius ? Vous auriez pas vu Dame Arnelle ? O-on était censées faire les courses ensemble...
+// (pomeranius)
+<0001> Hélas, mademoiselle est embourbée dans l'insolence et l'indécence de la jeune enfant.
+// (watty)
+<0002> Oh non... C'est vrai que Marnie avait l'air jalouse que Dame Arnelle accepte de venir avec moi... Je cause encore des problèmes. Je... je vais rentrer chez moi.
+// (pomeranius)
+<0003> Que nenni ! Mademoiselle m'a honoré d'une mission. Elle veut que je sois ton guide pour la journée.
+// (watty)
+<0004> O-oh, je peux pas vous demander tout ça, M. Poméranius.
+// (pomeranius)
+<0005> Exact. Mais mademoiselle le peut. Elle m'a d'ailleurs demandé de vous traiter avec autant de respect que pour elle.
+// (watty)
+<0006> M. Poméranius, j-je peux entendre vos dents grincer...
+// (pomeranius)
+<0007> Grrr. Quelque chose est coincé entre mes crocs, c'est tout. Mais peu importe. Plus vite on s'y met, plus vite on en aura terminé.
+// (watty)
+<0008> J'aimerais autant me noyer au fond de l'océan...
+// (pomeranius)
+<0009> Si je puis demander, as-tu vraiment besoin de mademoiselle pour faire les courses ?
+// (watty)
+<0010> Ah, euh... E-en fait, je vais rarement en ville, c'est compliqué pour moi de faire les courses seule. Surtout avec mon corps.
+// (pomeranius)
+<0011> Pourquoi donc ?
+// (watty)
+<0012> R-regardez, tous ces bris de verre, et les déchets accumulés par terre.
+// (pomeranius)
+<0013> Grrr. C'est parfaitement répugnant. Ces civils sont des animaux.
+// (watty)
+<0014> Mais, M. Poméranius, vous êtes un animal, vous aussi...
+// (pomeranius)
+<0015> Aucun rapport. Même pour un chien, la dignité est un principe moral.
+// (watty)
+<0016> E-enfin, quand je me déplace, tout mon corps touche le sol, je pourrais me faire très mal. En plus, à chaque fois, je finis pleine de poussière, et ça me dégoûte.
+// (pomeranius)
+<0017> Tu ne peux pas te nettoyer avec ta magie ?
+// (watty)
+<0018> Si... si, je pourrais... mais ça fait peur aux gens de voir de la magie en pleine ville...
+// (pomeranius)
+<0019> Hmpf. Aujourd'hui, lave-toi autant qu'il le faudra. Et quiconque ose t'importuner goûtera à mes griffes.
+// (watty)
+<0020> Merci, M. Poméranius. Vous me sauvez. Quand j'entre en magasin pleine de crasse, les marchands sont si hostiles...
+// (watty)
+<0021> Je veux pas que tout le monde subisse ma saleté...
+// (pomeranius)
+<0022> Un bon commerçant traite sa clientèle avec dignité. Le problème ne repose pas chez toi.
+// (watty)
+<0023> Puis je dois prendre plein d'eau avec moi pour pas dessécher, mais c'est super lourd... Ah !
+// (pomeranius)
+<0024> Halte. Il y a du verre au sol. Je vais l'ôter du passage... Bon, petit poiss- je veux dire, "mademoiselle", par quoi commence-t-on ?
+// (watty)
+<0025> Euh... En fait, je voulais commencer par les t-shirts. J'adore les regarder, même s'il y en a aucun qui m'irait...
+// (pomeranius)
+<0026> S'il en est ainsi, nous les ferons tailler sur mesure. Viens, je vais te présenter le tailleur de mademoiselle.
+// (watty)
+<0027> Oh, merci... merci beaucoup... E-euh, attendez, le tailleur de Dame Arnelle ?
+// (pomeranius)
+<0028> Ouaf. Exact. Ses talents de couture méritent d'être admirés.
+// (watty)
+<0029> A-alors, tous les vêtements de Dame Arnelle... ils viennent de lui ?
+// (pomeranius)
+<0030> Mais tout à fait.
+// (watty)
+<0031> M-même la tenue de servante ? L'uniforme d'écolière ? E-et la... euh... la "tenue d'infiltration de casino" ?
+// (pomeranius)
+<0032> Infiltration... casino...? Ah, oui, le costume de lapin. Mademoiselle l'aime beaucoup. Pour la citer, lorsqu'elle le porte, elle n'est qu'à un pas de la sagesse.
+// (watty)
+<0033> M-m-monsieur Poméranius, on ne peut pas aller voir ce tailleur ! Les vêtements de Dame Arnelle sont trop, euh... exposés. Je pourrais jamais m'habi-
+// (pomeranius)
+<0034> Ridicule. Bombe le torse et lève les bras haut ! Tu es membre de l'Équipe Arnelle. Mademoiselle et moi nous sommes réunis pour te soutenir. Marche avec fierté, Watti.
+// (watty)
+<0035> Au mieux, je peux serpenter... Enfin, euh, c'est pas ce que je voulais dire. Je serais pas capable de m'habiller comme elle, je mourrais de honte.
+// (pomeranius)
+<0036> Hmm ? Suggères-tu que mademoiselle devrait avoir honte de ses goûts vestimentaires ?
+// (watty)
+<0037> Non, mais-
+// (pomeranius)
+<0038> Dans ce cas, suis-moi. Certes, nulle femme ne saurait égaler la beauté de mademoiselle. Toutefois, une nouvelle penderie te fera du plus grand bien.
+// (watty)
+<0039> M-merci, M. Poméranius, mais...
+// (pomeranius)
+<0040> Oho. Si tu tiens à me remercier, je te laisserai me nettoyer la prochaine fois.
+// (watty)
+<0041> M...merci...?
+// (pomeranius)
+<0042> En temps normal, seule mademoiselle y a droit... Mais le toilettage est une expérience unique. Je sais que tu sauras rendre hommage à ma fourrure.
+// (watty)
+<0043> Mais, euh...
+// (pomeranius)
+<0044> Et... bon, j'hésite un peu, mais... si tu souhaites me solliciter pour des courses ultérieures, n'hésite pas à demander.
+// (watty)
+<0045> Vraiment, vous me gâtez, M. Poméranius, c'est trop gentil, mais...
+// (pomeranius)
+<0046> Mais ?
+// (watty)
+<0047> Jamais je serais capable porter un c-costume de lapin !!!
+// (pomeranius)
+<0048> Que nenni. Vois cela comme un exercice de confiance en soi qui ne peut être ignoré.
+// (watty)
+<0049> Mais... M. Poméranius !! Je n'ai même pas de jambes ! Comment voulez-vous que je porte des résilles et des talons ?!
+// (pomeranius)
+<0050> Avec les vertus auxquelles tous les serviteurs de mademoiselle devraient se plier, en toute circonstance ; j'ai nommé Grâce et Dignité ! Viens, Watti !
+// (watty)
+<0051> Nooooon... laissez-moi partiiiir...

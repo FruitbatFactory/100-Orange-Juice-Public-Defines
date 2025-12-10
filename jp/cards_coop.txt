@@ -17,7 +17,6 @@ flavor=「さーて、どでかい賭けにでよか！」 ―ユキ
 name=タダ働き
 descr=☆1チャプター持続\nバトルやボスの能力でスターを失わない。
 flavor=「お給料はいってないんですけど！」 ―クリス
-
 < CARD_EVENT_COOP_INDISCRIMINATEFIRESUPPORT >
 name=無差別な支援爆撃
 descr=☆永続\nランダムなユニットに1ダメージを与える。\n自ターン開始時に効果が発動し、1ユニットがダウンするまで続く。味方はこのカードの効果ダメージを受けない。
@@ -60,12 +59,28 @@ flavor=「俺の金が…！」 ―カイ
 
 < CARD_BOOST_COOP_MYWILDFRIENDS >
 name=マイ野生フレンズ
+descr=エネミーマスから出現するユニットを、味方ユニットとしてランダムに自身のマスに召喚する。そのユニットはHP2を得る。召喚ユニットは敵とバトルし、自身が得たスターを召喚者に与える。既に他の召喚ユニットがいる時、そのユニットと置き換えられる。
 flavor="たまにはのんびりするのもいいもんだぞ" ―テオトラッタ
 
 < CARD_BATTLE_COOP_CONTESTOFCUTENESS >
 name=可愛さコンテスト
 descr=攻撃側しか使えない。このバトルの勝敗が可愛さコンテストで決定される。\n可愛さ ＝ 10 - 最大HP - ATK + EVD（ただし0未満にはならない）\n攻撃ダイスを振る代わりに、両ユニットはダイスを2つ振り、その合計値を自身の可愛さに加算する。より高い可愛さを持つユニットが、相手からプレイヤーのレベル×5のスターと1ウィンを得る。その後、バトルが終了する。
 flavor=「さあ　誰が一番可愛いですか！？」 ―サキ
+
+< CARD_BATTLE_COOP_MOUSSETHETHIEF >
+name=どろぼーマゥス
+descr=バトル終了時点で自身がダウンしていないとき、次のボスカードのレベル×10のスターをボスが失い、同じ量のスターを自身が得る。このカードはボスに対してのみ使用できる。
+flavor=「まってください　それは大事な」 -ソラ
+
+< CARD_BANNER_COOP_PROTECTIONFEE >
+name=ショバ代
+descr=ボスやその手下がホームマスに止まったとき、プレイヤーのレベル×5のスターをボスが失い、プレイヤーレベル×5のスターをプレイヤーが得る。
+flavor=「こんなんボッタクリなんな…」 -ルルゥ
+
+< CARD_EVENT_COOP_EXTREMEALTERATION >
+name=魔改造
+descr=☆1チャプター持続\nホームマス以外の全てのマスがドローマスに変化する。##（トリガー：恐怖マスに3回止まる{0}）：ホームマス以外の全てのマスが2倍ドローマスに変化する。
+flavor=「この世界の病気を治してあげるわ...」 -斬子
 
 < CARD_HYPER_COOP_ALTE >
 name=自爆
@@ -289,12 +304,12 @@ flavor=「コレが最強の可愛者！」 ―ソラ＆シャム
 
 < CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE >
 name=富豪(X)
-descr=ボスとバトルする。ボスのATKが富豪レベル分下がる。自身は攻撃できない。自身がダウンしなかった時、相手から富豪レベル×20のスターを奪う。または、「富豪（4）」でない時、このカードのコストを支払い、このカードをアップグレードできる。このカードがフェルネット以外の手札にある時、このカードは「社交界デビュー」になる。
+descr=全てのボスとバトルする。ボスのATKが富豪レベル分下がる。自身は攻撃できない。自身がダウンしなかった時、相手から富豪レベル×20のスターを奪う。「富豪（4）」でない時、このカードのコストを支払い、このカードをアップグレードできる。このカードがフェルネット以外の手札にある時、このカードは「社交界デビュー」になる。
 flavor=「私にお願いごとですって…？　あらあら、もちろん、友人の頼みとあれば喜んで」 ―社交界のフェルネット
 
 < CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE_V >
 name=富豪(%d)
-descr=ボスとバトルする。ボスのATKが富豪レベル分下がる。自身は攻撃できない。自身がダウンしなかったとき、相手から富豪レベル×20のスターを奪う。または、「富豪（4）」でないとき、このカードのコストを支払い、このカードをアップグレードできる。フェルネット以外の手札にある時、このカードは「社交界デビュー」になる。
+descr=全てのボスとバトルする。ボスのATKが富豪レベル分下がる。自身は攻撃できない。自身がダウンしなかったとき、相手から富豪レベル×20のスターを奪う。「富豪（4）」でないとき、このカードのコストを支払い、このカードをアップグレードできる。フェルネット以外の手札にある時、このカードは「社交界デビュー」になる。
 flavor=「私にお願いごとですって…？　あらあら、もちろん、友人の頼みとあれば喜んで」 ―社交界のフェルネット
 
 < CARD_HYPER_COOP_SHIFU >
@@ -594,7 +609,7 @@ flavor=
 
 < CARD_BOSS_COOP_UBIQUITOUS >
 name=神出鬼没
-descr=ボスは自身から最も遠いプレイヤーまでテレポートし、プレイヤーのレベル×5のスターを奪う。\n手下は自身から最も近いプレイヤーまでテレポートし、5スターを奪う。\n同距離に複数のプレイヤーがいた場合、ランダムに1人選ばれる。
+descr=ボスが自身から最も離れた範囲内にいるアクティブなプレイヤーまでランダムにワープし、そのプレイヤーのレベル×5のスターを奪う。\nアクティブな手下が自身から最も近いプレイヤーまでワープし、5スターを奪う。\n同距離に複数のプレイヤーがいた場合、ランダムに1人選ばれる。
 flavor=
 
 < CARD_BOSS_COOP_SNATCHER >
@@ -1089,7 +1104,7 @@ flavor=
 
 < CARD_BOSS_COOP_ENCOURAGE >
 name=はげまし
-descr=バルーンジャークが、自身がいる最短半径内にいるランダムなプレイヤーのマスへ移動しバトルする。このバトルの間、バルーンジャークはATK+3。プレイヤーがダウンした場合、次に近いプレイヤーに対して同様の行動をとる。
+descr=バルーンジャークが、自身がいる最短範囲内にいるランダムなプレイヤーのマスへ移動しバトルする。このバトルの間、バルーンジャークはATK+3。プレイヤーがダウンした場合、次に近い範囲内のランダムなプレイヤーに対して同様の行動をとる。
 flavor=
 
 < CARD_BOSS_COOP_MOVING_GOALPOST >
@@ -1110,6 +1125,236 @@ flavor=
 < CARD_BOSS_COOP_SWIMMING_RINGER >
 name=スイミングリンガー
 descr=MOV-1。フィールド上にいるスイミングリンガーが1体以下のとき、スイミングリンガーを1体召喚し6ダメージ受ける。
+flavor=
+
+< CARD_BOSS_COOP_SPARK >
+name=火の粉
+descr=現在いるマスを燃焼状態にする。
+flavor=
+
+< CARD_BOSS_COOP_BURN_IN_CRIMSON_FLAMES >
+name=紅い炎に焼かれなさい
+descr=周囲2マス以内にいる他のユニット全員に1ダメージ与え、そのユニットたちがいるマスを燃焼状態にする。
+flavor=
+
+< CARD_BOSS_COOP_FEAR_THE_APPROACHING_SPARKS >
+name=迫る火の粉に怯えなさい
+descr=ランダムな3〜5マスを燃焼状態にする。
+flavor=
+
+< CARD_BOSS_COOP_COUNT_YOUR_LAST_MOMENTS >
+name=最期の時を数えなさい
+descr=ランダムなアクティブプレイヤーに死の宣告を付与する。3ターン後のターン開始時にダウンする。ホームマスに止まるとこの効果は消滅する。そのプレイヤーのホームマスを燃焼状態にする。
+flavor=
+
+< CARD_BOSS_COOP_SHIVER_IN_THE_INVISIBLE_MURDEROUS_INTENT >
+name=見えない殺意に震えなさい
+descr=アクティブな味方1人につき、ランダムなマスを1つマークする。1チャプター後、そのマスにいる全てのプレイヤーをダウンさせ、そのマスを燃焼状態にする。
+flavor=
+
+< CARD_BOSS_COOP_STAR_BLASTING_FUSE >
+name=星の導火線
+descr=周囲2マス以内に他の全てのユニットにボスのレベル分のダメージを与える。周囲2マス以内の全てのマスを燃焼状態にする。
+flavor=
+
+< CARD_BOSS_COOP_BE_CHARRED_IN_THE_BURNING_DEATH_CRISIS >
+name=熱い死線に焦げなさい
+descr=☆1チャプター持続\nバトルでユニットにダメージを与えた時、周囲1マス以内にいる他の全てのユニットに同じ量のダメージを与える。
+flavor=
+
+< CARD_BOSS_COOP_MELT_IN_THE_AZURE_FLAME >
+name=蒼い炎に溶けなさい
+descr=ターン終了まで、自身が通過した各ユニットにボスのレベル分のダメージを与え、自身がバトルを挑んでも止まらない。このターンに自身が通過したマスは全て燃焼状態になる。
+flavor=
+
+< CARD_BOSS_COOP_STAR_BLASTING_LIGHT >
+name=星を焼く光
+descr=ランダムな6〜10マスを燃焼状態にする。
+flavor=
+
+< CARD_BOSS_COOP_LET_THE_SEA_OF_FLAME_EMBRACE_YOU >
+name=炎の海に抱かれなさい
+descr=ランダムな12〜20マスを燃焼状態にする。
+flavor=
+
+< CARD_BOSS_COOP_SUFFER_FROM_THE_INEVITABLE_DEATH_CRISIS >
+name=逃れぬ死線に苦しみなさい
+descr=全てのアクティブプレイヤーに死の宣告を付与する。2ターン後のターン開始時にダウンする。ホームマスに止まるとこの効果は消滅する。
+flavor=
+
+< CARD_BOSS_COOP_TAKE_YOUR_DYING_BREATH >
+name=最期の時を迎えなさい
+descr=ボスの周囲3マス以内にいない全てのプレイヤーに、アクティブプレイヤーの数だけダメージを与える。味方の周囲2マス以内の全てのマスを燃焼状態にする。
+flavor=
+
+< CARD_BOSS_COOP_ACCEPT_YOUR_DOOM >
+name=破壊の末路を受け入れなさい
+descr=ランダムなアクティブプレイヤーに死の宣告を付与する。2ターン後のターン開始時にダウンする。ホームマスに止まるとこの効果は消滅する。全てのホームマスを燃焼状態にする。
+flavor=
+
+< CARD_BOSS_COOP_BREAKER_ENRAGE >
+name=ブレイカーの激怒
+descr=ビーチビルダーとビーチバスターがどちらもダウンしている時、ATK+1、ダメージ付与効果のダメージ+1。
+flavor=
+
+< CARD_BOSS_COOP_BREAKER_ENRAGE_HYPER >
+name=ブレイカーの激怒
+descr=ビーチビルダーとビーチバスターがどちらもダウンしている時、ATK+1、ダメージ付与効果のダメージ+1。5ターン後、ビーチビルダーとビーチバスターを半分のHPで復活させる。
+flavor=
+
+< CARD_BOSS_COOP_BABYSIT >
+name=お世話
+descr=ビーチバスターの周囲2マス以内の燃焼状態を取り除く。
+flavor=
+
+< CARD_BOSS_COOP_TINKER >
+name=簡単な修理
+descr=味方のHPを1回復する。
+flavor=
+
+< CARD_BOSS_COOP_PARTY_TIME >
+name=パーティタイム
+descr=全てのユニットがランダムな同じマスにワープする。自身のターンを終了する。
+flavor=
+
+< CARD_BOSS_COOP_PAY_ATTENTION >
+name=ご注意
+descr=ランダムなプレイヤーへのストック効果（1）\nホームマスに止まる時、ボスがいるマスにワープする。
+flavor=
+
+< CARD_BOSS_COOP_CRITICAL_FAILURE >
+name=致命的な失敗
+descr=☆3チャプター持続\n移動、ボーナス、ドロップのダイスロールで敵が1以下を出した時、その敵は1ダメージ受ける。
+flavor=
+
+< CARD_BOSS_COOP_NO_BULLYING >
+name=いじめ禁止！
+descr=☆2チャプター持続\n全ての敵がATK-1。
+flavor=
+
+< CARD_BOSS_COOP_MACHINIST >
+name=機械工
+descr=味方のHPを2回復する。
+flavor=
+
+< CARD_BOSS_COOP_BRUTAL_TRAPS >
+name=残忍な罠
+descr=全プレイヤーへのストック効果（1）\n自身がトラップを発動させた時、手札を全て捨てる。
+flavor=
+
+< CARD_BOSS_COOP_BACKDOOR_SCHEME >
+name=裏取引
+descr=全プレイヤーへのストック効果（1）\n自身がのHPが1になった時、自身のレベル×10のスターを失う。ダウンでこの効果を失う。
+flavor=
+
+< CARD_BOSS_COOP_WARUDA_MACHINE >
+name=わるだマシン
+descr=ストック効果(2)\n次のバトルで、相手の手札の数×2分のATK・DEFが増加し、EVDが減少する。
+flavor=
+
+< CARD_BOSS_COOP_POWER_OF_SCIENCE >
+name=科学の力
+descr=☆2チャプター持続\n味方のATK・DEF・MOV+1。
+flavor=
+
+< CARD_BOSS_COOP_COMEUPPANCE >
+name=天罰
+descr=☆3チャプター持続\n味方がダメージを受けるたびに、最も近い範囲内にいるランダムなプレイヤーに2ダメージを与える。
+flavor=
+
+< CARD_BOSS_COOP_WATCH_OUT >
+name=気をつけて
+descr=☆3チャプター持続\n移動、ボーナス、ドロップのダイスロールで敵が5以上を出した時、その敵は2ダメージ受ける。
+flavor=
+
+< CARD_BOSS_COOP_BUILDER_ENRAGE >
+name=ビルダーの激怒
+descr=ビーチバスターがダウンしている時、ATK・MOV+1。
+flavor=
+
+< CARD_BOSS_COOP_BUILDER_ENRAGE_HYPER >
+name=ビルダーの激怒
+descr=ビーチバスターがダウンしている時、ATK・MOV+1。5ターン後、ビーチバスターを復活させる。
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_HAMMER >
+name=みみゅうちんハンマー
+descr=現在いるマスにトラップ「みみゅうちんハンマー」をセットする。
+flavor=
+
+< CARD_BOSS_COOP_PRANKSTER >
+name=いたずら好き
+descr=「みみゅうちんハンマー」を各プレイヤーの手札に追加する。\n☆1チャプター持続\nプレイヤーはカードを1枚捨てるたびに、1ダメージ受ける。
+flavor=
+
+< CARD_BOSS_COOP_ADVENTURE >
+name=冒険
+descr=全てのプレイヤーがランダムなマスにワープする。そのマスが恐怖マスだった時、1ダメージ受ける。
+flavor=
+
+< CARD_BOSS_COOP_HAMMER >
+name=ハンマー！
+descr=最も近い範囲内にいるランダムなアクティブプレイヤーに1ダメージを与える。
+flavor=
+
+< CARD_BOSS_COOP_HMM >
+name=うーん…
+descr=ストック効果（1）\n次に発動するダイレクトダメージを与える能力のダメージ量がボスのレベル分増える。
+flavor=
+
+< CARD_BOSS_COOP_EVIL_SPY_WORK >
+name=悪の工作活動
+descr=プレイヤーデッキの一番上に、「悪の工作活動～始末」を2枚追加する。
+flavor=
+
+< CARD_BOSS_COOP_SNEAKILY >
+name=こっそり
+descr=☆2チャプター持続\nバトルを挑まれない。敵にバトルを挑んだ時、ATK+2。
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_POWER >
+name=みみゅうちんパワー
+descr=ビーチバスターの周囲2マス以内に別のボスがいる時、ランダムなアクティブプレイヤーに4ダメージ与える。別のボスがいない時、1ダメージ与える。
+flavor=
+
+< CARD_BOSS_COOP_ENTERTAIN_MIMYUU >
+name=みみゅうちんを楽しませろ
+descr=ボスの周囲2マス以内にアクティブプレイヤーがいない時、一番遠い範囲内にいるランダムなプレイヤーにそのプレイヤーのHP分のダメージを与える。
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_IS_BORED >
+name=みみゅうちん、つまんない！
+descr=トラップ「みみゅうちん、つまんない！」をランダムな2〜3マスにセットする。
+flavor=
+
+< CARD_BOSS_COOP_MIMYUU_IS_BORED_TRAP >
+name=みみゅうちん、つまんない！
+descr=4ダメージ与える。
+flavor=
+
+< CARD_BOSS_COOP_BIG_HAMMER >
+name=ビッグ・ハンマー！
+descr=一番近い範囲内にいるランダムなアクティブプレイヤーに、ボスのレベル+2のダメージを与える。
+flavor=
+
+< CARD_BOSS_COOP_BORED_BORED_BORED >
+name=つまんない！ つまんない！ つまんない！
+descr=ランダムなアクティブプレイヤーにボスのレベル分のダメージを与える。そのダメージでプレイヤーがダウンしなかった場合、同じ効果を2回繰り返す。
+flavor=
+
+< CARD_BOSS_COOP_PRISON_BREAK >
+name=脱獄
+descr=☆3チャプター持続\nEVD+2。この効果が消えるまでにバトルを挑まれなかった場合、永続でATK・DEF+1。
+flavor=
+
+< CARD_BOSS_COOP_BUSTER_ENRAGE >
+name=バスターの激怒
+descr=ビーチビルダーがダウンしている時、毎ターン追加で1枚カードを引き、1枚カードを使う。
+flavor=
+
+< CARD_BOSS_COOP_BUSTER_ENRAGE_HYPER >
+name=バスターの激怒
+descr=ビーチビルダーがダウンしている時、毎ターン追加で1枚カードを引き、1枚カードを使う。5ターン後、ビーチビルダーを復活させる。
 flavor=
 
 < CARD_BOSS_COOP_HOME_SWEEPER >
@@ -1142,8 +1387,12 @@ flavor=「みみゅう！ 誰がこんな酷いことを…」 ―トマト
 < CARD_HYPER_COOP_CLASS_DEALER >
 name=サマーゲーム
 descr=ストック効果\n次に止まるマスを2倍ドローマスとして扱う。
-flavor=
+flavor=「まだだ！　俺はまだ負けていない！」 ―ピート
 
+< CARD_HYPER_COOP_CLASS_VANGUARD >
+name=熱砂の前衛
+descr=ボスやその手下から受けた効果を自身と味方全員から全て取り除く。味方全員がHPを2得る。
+flavor=「力を合わせますよー！」 ―サキ\n「おっけー！がったいだ！」 ―カエ
 
 < CARD_SKILL_COOP_ADVANTAGE >
 name=優勢
@@ -1253,4 +1502,29 @@ flavor=
 < CARD_SKILL_COOP_DEMAND >
 name=需要
 descr=次に止まるマスをドローマスとして扱う\nクールダウン：6チャプター
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_REINFORCE >
+name=援護
+descr=対象の味方が次にバトルを挑まれるか、ボスマスの効果を発動させた時、その味方の前に自身がバトルする。そのバトルで、ATK・DEF・EVD+1。そのバトルでダウンしなかった場合、対象の味方のATK・DEF・EVD+1。そのバトルでダウンした場合、対象の味方のATK+1。アクティブな時、MOV-1。
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_DEFENSEBOOST >
+name=防御ブースト
+descr=ノルマ2：DEF+1
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_HPEVASIONBOOST >
+name=HP＆回避ブースト
+descr=ノルマ4：最大HP+1、EVD+1
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_INTERCEPT >
+name=妨害
+descr=（援護バトル）このバトルで自身がダウンしなかった場合、援護を受けた味方とのバトルをスキップする\nクールタイム：8チャプター。
+flavor=
+
+< CARD_SKILL_COOP_VANGUARD_BOLSTER >
+name=補強
+descr=ボスやその手下から受けた効果を対象のプレイヤーから全て取り除く。対象のプレイヤーはHP+1。さらに、取り除かれた効果1つにつきHP+1。対象のプレイヤーが何の効果も受けていない時、代わりに浄化オーラを付与し、1チャプターの間ボスやその手下からの効果付与を防ぐ。\nクールタイム：5チャプター
 flavor=

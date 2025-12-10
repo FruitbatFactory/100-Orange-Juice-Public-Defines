@@ -1,0 +1,307 @@
+<0000> O-hoho.
+<0001> Tu sembles très heureuse, Hime.
+<0002> Regarde comme il fait beau... Comment ne pas s'en réjouir ?
+<0003> Je comprends ce que tu ressens.
+<0004> Je pourrais danser toute la journée.
+<0005> Eh bah.
+<0006> Poppo !
+<0007> Regarde, voilà une étrange créature.
+<0008> En effet... c'est un enfant ?
+<0009> Arrête-toi, espèce de voleuse !
+<0010> Et voilà un garçon.
+<0011> Poppo !
+<0012> Oh, tu veux danser, toi aussi ?
+<0013> Poppopo !
+<0014> Hé ! Cette fille m'a volé mon portefeuille, on pourrait pas commencer par ça !?
+<0015> Ton portefeuille ?
+<0016> Oui ! Ça représente toutes mes économies !
+<0017> Oh, vous jouez au chat et à la souris, c'est ça ?
+<0018> Vraiment ?
+<0019> Non !
+<0020> Poppo !
+<0021> Ça a l'air amusant.
+<0022> Hime...
+<0023> J'ai dit qu'on ne jouait pas !
+<0024> Tout à fait, au chat et à la souris, poppo.
+<0025> Que dirais-tu qu'on joue tous ensemble ?
+<0026> Poppo.
+<0027> C'était amusant.
+<0028> Suguri est la plus rapide.
+<0029> Poppo a perdu.
+<0030> Et zut.
+<0031> J'ai assez joué comme ça. Je rentre chez moi.
+<0032> Oh, vraiment ? La journée ne fait que commencer.
+<0033> Poooh !
+<0034> Comptes-tu passer toute la journée à jouer ?
+<0035> Eh bien, pourquoi pas ? Il fait si beau, après tout.
+<0036> Venez, Poppo.
+<0037> Hein ?
+<0038> Je crois qu'elle veut qu'on la suive.
+<0039> Pooh.
+<0040> Elle doit avoir un plan en tête... ça a l'air amusant.
+<0041> Poppopo.
+<0042> Très bien, je te suis.
+<0043> Ah, attendez-moi.
+<0044> Où sommes-nous ?
+<0045> Ça sent... le sucre ?
+<0046> Poppooh.
+<0047> La la la.
+<0048> Aujourd'hui, c'est pudding !
+<0049> Poppopo !
+<0050> Hiii !
+<0051> Que- !?
+<0052> Poppopo.
+<0053> Nooon ! Mon pudding !
+<0054> Cette Poppo est vraiment sans gêne.
+<0055> Méchant, Poppo !
+<0056> Popoppo !
+<0057> Mon pudding ! Rends-le moiii !
+<0058> Hé, tu me présentes tes nouveaux amis ?
+<0059> Yuki !?
+<0060> Une fille-chat ?
+<0061> Est-ce que l'un de vous peut m'aider à récupérer mon pudding ?!
+<0062> Il faut qu'on rattrape Poppo.
+<0063> Exact !
+<0064> Pfiou.
+<0065> J'ai perdu...
+<0066> Et merde...
+<0067> Poppo a perdu...
+<0068> Bon, Poppo !
+<0069> Rends-moi mon portefeuille !
+<0070> Et mon pudding !
+<0071> Je refuse, Poppo !
+<0072> Ah !
+<0073> Elle s'enfuit à nouveau !
+<0074> Rattrapons-la.
+<0075> C'est quoi, maintenant ? Un avion ?
+<0076> Poppo parée au décollage !
+<0077> Si elle décolle...
+<0078> On pourra jamais la rattraper !
+<0079> Poppo.
+<0080> Vroum ? Vroum !
+<0081> Poppo ! Non !
+<0082> Poppopo !
+<0083> Vrooum !
+<0084> L'avion va décoller !
+<0085> Hé ! Laissez Red Barrel tranquille !
+<0086> Qui es-tu...?
+<0087> C'est pas le plus important ! Red Barrel !
+<0088> Cet avion t'appartient ?
+<0089> Oui ! C'est mon partenaire de combat !
+<0090> Raison de plus de l'empêcher de décoller, alors.
+<0091> Red Barrel ! Tu vas voir, je vais gagner, cette fois !
+<0092> Blue Crow ! Tu tombes à pic !
+<0093> Hein ? Pourquoi ça ?
+<0094> Il faut que tu m'aides à arrêter cette fille !
+<0095> Hmm ?
+<0096> Elle n'a toujours pas décollé.
+<0097> On joue encore au chat, alors ?
+<0098> C'est parti !
+<0099> Je t'ai eu !
+<0100> Red Barrel !
+<0101> J-j'en peux déjà plus.
+<0102> Oups.
+<0103> Tu ne peux plus t'enfuir.
+<0104> Rends-nous nos affaires !
+<0105> D'accord.
+<0106> Red Barrel ! Dieu merci...
+<0107> Je ne pensais pas que tu finirais par obéir...
+<0108> Par ici le portefeuille !
+<0109> Sans oublier mon pudding !
+<0110> ...J'ai menti !
+<0111> *Hop !*
+<0112> Oh.
+<0113> Elle s'est encore enfuie !?
+<0114> Pas encore !
+<0115> Ahhhhhhhhhhhhhhh !!
+<0116> Qu'est-ce qu'il t'arrive ?
+<0117> Elle a pris le gros missile de Red Barrel...
+<0118> Pourquoi prendre quelque chose d'aussi dangereux !?
+<0119> Hawawa ! Mon pudding est dans un sacré pétrin !
+<0120> Dépêchons-nous de la rattraper !
+<0121> Étrange... Il fait nuit, tout à coup.
+<0122> Brrr... il fait vraiment froid...
+<0123> Il y a même de la neige.
+<0124> J-j'ai vraiment envie de me blottir dans ma couette...
+<0125> Poppopo !
+<0126> Poppo résiste bien au froid, par contre.
+<0127> *Ding-ding-ding*...
+<0128> Voilà un son de clochette...
+<0129> Poppopo !
+<0130> Regardez, en haut !
+<0131> Un traîneau volant ?
+<0132> Joyeux Noël !
+<0133> Bon Noël !
+<0134> M-mère Noël ? Fernet ?
+<0135> Voici des cadeaux pour les enfants sages !
+<0136> N'oubliez pas de dire 'merci' avant de les ouvrir.
+<0137> Qu'est-ce que tu fais, Fernet...?
+<0138> Du bénévolat.
+<0139> Si vous vouliez venir jouer, vous n'aviez qu'à demander.
+<0140> Oh-oh, c-c'était *tousse* nullement mon intention...
+<0141> Poppo !
+<0142> Revoilà Poppo !
+<0143> Hé, stop ! Pas touche à mon sac !
+<0144> Pooh ! Pooh ! Pooh !
+<0145> Arrêtez de tirer dessus, vous allez...
+<0146> Lâche-le !
+<0147> Poppii !
+<0148> Non ! Mon sac !
+<0149> *Crac* !!
+<0150> Il est tout déchiré...
+<0151> Et tous les cadeaux sont tombés par terre.
+<0152> Oh non... Mes cadeaux !
+<0153> C'est pas croyable...
+<0154> Popponn.
+<0155> Poppo est partie avec les cadeaux !
+<0156> Non, rends-les moi !
+<0157> ...Ça commence à devenir répétitif.
+<0158> S'il vous plaît, aidez-moi à récupérer les cadeaux !
+<0159> Entendu.
+<0160> On les a presque tous récupérés.
+<0161> Le reste est...
+<0162> Dans les mains de cette souris.
+<0163> Poppo n'est pas une souris !
+<0164> Tu es prise au piège, maintenant !
+<0165> Fini de jouer.
+<0166> Poppo est encerclée.
+<0167> Maintenant, rends-leur tout ce que tu as volé.
+<0168> Poppo...
+<0169> S'il te plaît... Sois sage, et tout le monde te pardonnera.
+<0170> Po...
+<0171> Poppo...
+<0172> Hmm ?
+<0173> Elle mijote quelque chose...
+<0174> Pooooh !!!
+<0175> Qu'est-ce qu'il se passe !?
+<0176> C'est...
+<0177> Que s'est-il passé ?
+<0178> Je sais pas...
+<0179> J'ai rien remarqué, à part que Poppo s'est mise à briller.
+<0180> Pareil... Où sommes-nous, maintenant ?
+<0181> Le ciel est entièrement couvert de nuages noirs...
+<0182> Poppo !
+<0183> Poppopo !
+<0184> Il y a deux Poppos, maintenant.
+<0185> Elle a une sœur jumelle ?
+<0186> Elle a dû se séparer en deux !
+<0187> À moins que l'une d'elles soit une illusion.
+<0188> Peut-être que Poppo est créée en plein d'exemplaires.
+<0189> Aru !
+<0190> J'ai vu juste, apparemment.
+<0191> En plein d'exemplaires...? Mais c'est qui, au juste ?!
+<0192> Je suis Marie Poppo !
+<0193> Oui, c'est ton nom, on le savait déjà.
+<0194> ...
+<0195> Hé, voilà quelqu'un !
+<0196> Je dois travailler sans relâche...
+<0197> Elle fonce droit vers nous !
+<0198> Attention !
+<0199> J'ai peur !
+<0200> Moi aussi !
+<0201> Arrêtons-la !
+<0202> Pfiou.
+<0203> Poppo a perdu.
+<0204> Poppo... Si mignonne.
+<0205> *caresse*
+<0206> Poppo est gênée.
+<0207> Je crois qu'elle voulait juste caresser Poppo.
+<0208> Je dois reconnaître que Poppo est mignonne.
+<0209> Pooo ! Arrêtez de regarder !
+<0210> Ne t'énerve pas, voyons.
+<0211> Poppo disait qu'elle était créée en masse. Qu'est-ce que ça signifie ?
+<0212> Si elle a été 'créée', qui est son créateur ?
+<0213> Mais oui, qui ça peut bien être...?
+<0214> Vous le saurez...
+<0215> ...au prochain monde !
+<0216> Nous voilà à nouveau dans un autre monde...
+<0217> Il paraît très instable.
+<0218> Je crois que j'ai la nausée...
+<0219> Quoi, c'est rigolo, non ?
+<0220> Pas à mon goût.
+<0221> Poppo !
+<0222> Poppopo !
+<0223> Poppopopo !
+<0224> ...Encore d'autres Poppo ?
+<0225> Ainsi, elle est vraiment créée en masse... Bigre.
+<0226> Qui les a créées, alors...?
+<0227> O-hohoho.
+<0228> Qui est-ce ?
+<0229> Toutes mes félicitations, vous êtes arrivés jusqu'au bout !
+<0230> C'est une voix de femme.
+<0231> Où êtes-vous !?
+<0232> Hohoho, mais je suis devant vous.
+<0233> M-mais depuis quand !?
+<0234> Je me cachais derrière Poppo !
+<0235> Et moi qui m'attendais à de la magie noire...
+<0236> ...
+<0237> C'est un peu décevant, en fait...
+<0238> Elle est comme moi, en fait.
+<0239> Silence !
+<0240> Je suis Tomomo, la grande magical girl !
+<0241> Et c'est moi qui ai créé ce monde !
+<0242> Créé ce monde ?
+<0243> Oui.
+<0244> Mais pourquoi ?
+<0245> Pour tous vous réunir depuis vos mondes respectifs.
+<0246> Et organiser une grande aventure à travers tous ces mondes !
+<0247> Pour enfin arriver jusqu'à moi, boss final de cette aventure.
+<0248> N'est-ce pas fantastique ?
+<0249> Honnêtement, je ne sais pas.
+<0250> Vous n'avez pas le profil type pour être un dernier boss. Là ça fait bizarre.
+<0251> Silence !
+<0252> Puisque c'est moi qui contrôle tout, ici, autant me faire remarquer !
+<0253> Qu'est-ce que c'est que ce plan...
+<0254> Arrêtez de me juger, c'est humiliant !
+<0255> Qu'on soit bien au clair ! Vous aussi, vous êtes mes créations !
+<0256> Exactement !
+<0257> Qu'est-ce que ça veut dire ?
+<0258> Le fait est que j'ai créé ce monde et tout ce qui l'occupe, vous inclus.
+<0259> Vos "mondes respectifs" n'ont servi que de modèle.
+<0260> Je vois.
+<0261> Suguri, gardienne de la Terre... N'es-tu pas bouleversée d'apprendre que ton monde est illusoire ?
+<0262> Je vais me suicider...
+<0263> Ressaisis-toi, QP !
+<0264> Enfin !
+<0265> Si vous voulez votre happy end, vous devrez me battre !
+<0266> Bien entendu.
+<0267> Ce projet a dû vous prendre tellement de temps, c'est plus poli d'y participer.
+<0268> Vous voulez pas me parler mieux !? Je suis pas une gamine !
+<0269> Voyez-moi comme votre maman !
+<0270> ...Vous aviez raison, on dirait pas un boss final.
+<0271> On a gagné ?
+<0272> Nous sommes vaincues, Poppo.
+<0273> Mais comment ? J'ai modifié mes statistiques pour garantir ma victoire...
+<0274> Hé ! Un vrai dernier boss devrait pas avoir à tricher !
+<0275> Abuser des règles, ceci dit... C'est bien ce que ferait un dernier boss.
+<0276> On peut dire qu'on a mérité notre victoire !
+<0277> Ouiiin...
+<0278> Vous pouvez être fière, Tomomo.
+<0279> Quoi ?
+<0280> Vous êtes forte et votre personnalité est unique.
+<0281> Je pense que vous avez offert à tout le monde un beau spectacle.
+<0282> Ouiin... *hic*... Suguri...
+<0283> Allons, allons, pas besoin de pleurer.
+<0284> O-oui...
+<0285> C'est mignon.
+<0286> Tu trouves ?
+<0287> Tout est bien qui finit bien, alors. Mais...
+<0288> Qu'est-ce qu'on fait, maintenant ?
+<0289> Tout juste !
+<0290> Eh bien...
+<0291> Je pense que je vais rendre ce monde libre d'accès.
+<0292> Vous pouvez retourner dans vos mondes, ou revenir ici et inviter vos amis.
+<0293> Faites ce que vous voulez.
+<0294> Madame Tomomo ! Vous vous dégonflez, où est passée votre hardeur ?!
+<0295> Vous jetez l'éponge ?
+<0296> Si je peux à nouveau jouer avec tout le monde à l'avenir...
+<0297> Ce serait magnifique.
+<0298> La prochaine fois, je viendrai avec vous !
+<0299> Préparez-vous !
+<0300> Plus de triche, d'accord ?
+<0301> Ahaha.
+<0302> Un monde où on peut tous jouer ensemble et s'amuser...
+<0303> Tout va bien, Suguri ?
+<0304> Oui, ce n'est rien.
+<0305> Dans ce cas, c'est reparti pour un tour !
+<0306> Ok !

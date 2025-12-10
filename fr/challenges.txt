@@ -1,0 +1,106 @@
+< CHALLENGE_TOOLTIP_REROLL >
+Obtenez un nouveau défi du même type pour %d étoiles.
+
+< CHALLENGE_TOOLTIP_STARCOUNT >
+Total d'Étoiles : %d
+
+< CHALLENGE_GENERIC_PLAYS >
+Participez à %d parties.
+
+< CHALLENGE_GENERIC_WINS >
+Remportez %d partie(s).
+
+< CHALLENGE_GENERIC_STARS >
+Amassez %d étoiles.
+
+< CHALLENGE_GENERIC_KOS >
+Obtenez %d Victoires.
+
+< CHALLENGE_GENERIC_STAR_WINS >
+Remportez %d partie(s) avec un Quota Étoiles.
+
+< CHALLENGE_GENERIC_KO_WINS >
+Remportez %d partie(s) avec un Quota Victoires.
+
+< CHALLENGE_GENERIC_PANELS >
+Parcourez %d cases.
+
+< CHALLENGE_GENERIC_TRAPS >
+Posez %d pièges.
+
+< CHALLENGE_GENERIC_STAR_NORMAS >
+Complétez %d Quotas Étoiles.
+
+< CHALLENGE_GENERIC_WIN_NORMAS >
+Complétez %d Quotas Victoires.
+
+< CHALLENGE_GENERIC_DAMAGE_DEALT >
+Infligez %d points de dégât.
+
+< CHALLENGE_GENERIC_HEALING >
+Soignez %d PV.
+
+< CHALLENGE_GENERIC_PLAY_BOOST >
+Utilisez %d Cartes Boost.
+
+< CHALLENGE_GENERIC_PLAY_EVENT >
+Utilisez %d Cartes Évènement.
+
+< CHALLENGE_GENERIC_PLAY_BATTLE >
+Utilisez %d Cartes Combat.
+
+< CHALLENGE_UNIT_PLAYS >
+Participez à %d parties en tant que %s.
+
+< CHALLENGE_UNIT2_PLAYS >
+Participez à %d parties en tant que %s ou %s.
+
+< CHALLENGE_UNIT_WINS >
+Remportez %d parties en tant que %s.
+
+< CHALLENGE_TYPE_UNIT_STAR_NORMAS >
+Complétez %d Quotas Étoiles en tant que %s.
+
+< CHALLENGE_TYPE_UNIT_WIN_NORMAS >
+Complétez %d Quotas Victoires en tant que %s.
+
+< CHALLENGE_CARD_BRING >
+Participez à %d parties avec %s dans votre deck.
+
+< CHALLENGE_CARD_PLAY >
+Utilisez %s %d fois.
+
+< CHALLENGE_CARD2_BRING >
+Participez à %d parties avec %s ou %s dans votre deck.
+
+< CHALLENGE_CARD2_PLAY >
+Utilisez %s ou %s %d fois.
+
+< CHALLENGE_MAP_PLAY >
+Participez à %d partie(s) sur %s.
+
+< CHALLENGE_MAP2_PLAY >
+Participez à %d partie(s) sur %s ou %s.
+
+< CHALLENGE_TYPE_EVENT_VDAY_CHOCOLATE >
+Faites tomber %d joueurs KO avec le dé chocolat.
+
+< CHALLENGE_TYPE_EVENT_VDAY_HEARTS >
+Amassez %d étoiles avec le dé cœur.
+
+< CHALLENGE_TYPE_EVENT_XMAS_ICE >
+Glissez sur %d cases gelées.
+
+< CHALLENGE_LABEL_CURRENT >
+Défis du jour
+
+< CHALLENGE_MESSAGE_EVENT_NOT_LOADED >
+Analyse du statut de l'évènement...
+
+< CHALLENGE_MESSAGE_DAYS >
+j
+
+< CHALLENGE_MESSAGE_REROLL_CONFIRM >
+Êtes-vous sûr(e) de vouloir changer ce défi ?
+
+[EOF]

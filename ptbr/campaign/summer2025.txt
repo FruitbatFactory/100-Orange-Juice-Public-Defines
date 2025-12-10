@@ -1,0 +1,130 @@
+// CampaignScenario_Event_Summer2025Intro
+// (starb)
+<0000> Eu estou aqui para ver uma mecânica genial chamada Tomato. Ela está em casa?
+// (tomato)
+<0001> Sou eu. Quem é você?
+// (starb)
+<0002> Eu sou Star Breaker. Eu quero que você me faça forte. Forte suficiente para destruir esse mundo.
+// (tomato)
+<0003> Hmm, bem. Mimyuu e eu estamos prestes a ir para a praia. Eu vou te dar o que você deseja se você vier e brincar conosco até a gente se cansar.
+// (tomato)
+<0004> Mimyuu, você não se importa dela vir junto, né?
+// (mimyuu)
+<0005> Sem problemas, Chefe! Quanto mais, melhor!
+// (starb)
+<0006> Brincar na praia? O que você vai fazer exatamente?
+// (tomato)
+<0007> Nós vamos ficar de pé em um barco de banana enquanto ele flutua na água, jogando vôlei de praia contra minha máquina Waruda, ou quebrando centenas de melancias com explosivos.
+// (mimyuu)
+<0008> Após as explosões, a praia vai parecer um banho de sangue!
+// (starb)
+<0009> Isso é completamente ridículo. Vocês duas enlouqueceram?
+// (mimyuu)
+<0010> Você não pode fazer parte dos Waruda se você tiver sanidade, garotinha inocente!
+// (tomato)
+<0011> Então, e aí? Se você brincar conosco, a gente te dá o que você quer. Caso contrário, não damos.
+// (starb)
+<0012> Ugh, certo. Vou brincar com vocês.
+// (tomato)
+<0013> Certo então, vá para casa e volte com sua roupa de banho. E quando você voltar, a gente irá para a praia.
+// (starb)
+<0014> R-roupa de banho? Eu acho que o que eu estou vestindo no momento está bom.
+// (mimyuu)
+<0015> É... não! Você precisa estar numa roupa de banho na praia!
+// (starb)
+<0016> Certo...
+// (mimyuu)
+<0017> Aí sim, chegamos!
+// (tomato)
+<0018> Certo, vamos brincar até não poder mais!
+// (starb)
+<0019> Eu sei que isto é tudo pelas minhas melhorias, mas eu ainda não acredito que vocês fizeram eu vestir isto... Melhor vocês manterem a promessa de vocês.
+// (tomato)
+<0020> Claro, eu sou uma mulher de palavra.
+// (tomomo)
+<0021> Ei, Tomato! Você realmente vai fazer a Star Breaker mais forte?
+// (tomato)
+<0022> Ãhn? Bem, sim. Apenas após ela terminar de brincar comigo e com a Mimyuu, entretanto. Espera, como você sabe disso?
+// (saki)
+<0023> Eu ouvi vocês garotas de longe, discutindo isso enquanto por um acaso eu estava andando perto do esconderijo de vocês! Eu decidi que era algo que a Tomomo deveria saber!
+// (kae)
+<0024> Eu estava com a Tomomo e meio que segui ela até aqui.
+// (starb)
+<0025> O quê, vocês estão aqui para me impedir de ficar mais forte?
+// (tomomo)
+<0026> Duh! Como se eu fosse apenas assistir você destruir meu mundo!
+// (saki)
+<0027> Por sinal, Star Breaker, sua roupa de banho é bem fofa. Onde você a comprou?
+// (kae)
+<0028> Eu estava pensando nisso também. Fica muito boa nela.
+// (starb)
+<0029> Sério? Obrigada.
+// (tomomo)
+<0030> Qual é, galera, não podemos levar isto a sério nem por um segundo!?
+// (mimyuu)
+<0031> Boo. Muchas palavras. Mimyuu está aqui pra brincar.
+// (tomato)
+<0032> Se Star Breaker manter sua promessa, então vou manter a minha. Não importa o que vocês digam!
+// (tomomo)
+<0033> Argh, pelo visto não temos escolha. Saki, Kae, se preparem para lutar!
+// (???)
+<0034> Sim!\nOkay!
+// (starb)
+<0035> Okay, venham. Vou esmagar a todos. Ahahahaha!
+// (mimyuu)
+<0036> Ooh, as coisas estão esquentando aqui!
+// (tomato)
+<0037> Desafio aceito!
+
+// CampaignScenario_Event_Summer2025Ending
+// (tomomo)
+<0038> Raios, elas nos pegaram...
+// (kae)
+<0039> Foi kaboom, e então pow pow pow, e então bang bang baaang!
+// (saki)
+<0040> Mauu... Como ela é tão forte...
+// (starb)
+<0041> Ahahaha!\nEu não acredito que fracotes como vocês acharam que tinham alguma chance!
+// (tomato)
+<0042> Uooooooh! Nós acabamos de lutar a batalha mais incrível de todas! Você não acha, Mimyuu?
+// (mimyuu)
+<0043> Sim, Chefe! Essa foi a melhor experiência de praia que Mimyuu já teve!
+// (tomato)
+<0044> Agora que Star Breaker manteve sua palavra e brincou conosco, é meu turno de dar a ela o que ela quer.
+// (starb)
+<0045> Oh, isto te fez feliz? Devia ter me dito mais cedo.
+// (tomomo)
+<0046> Tomato, não! Se o mundo for detonado, vocês também vão ficar em apuros!
+// (tomato)
+<0047> Bem, eu pensarei em algo quando isso de fato acontecer. Certo, vamos para casa trabalhar!
+// (tomato)
+<0048> ...E terminei! Coloque isto, e você terá o poder para destruir o mundo num piscar de olhos!
+// (mimyuu)
+<0049> Nossa, Chefe! Você fez uma arma monstra como se não fosse nada! Gênia absoluta!
+// (starb)
+<0050> Okay, vamos botar esta coisa... Espera um segundo. Que tipo de piada é essa?
+// (tomato)
+<0051> Qual o problema?
+// (starb)
+<0052> Isto é claramente uma roupa de banho - uma feita com uma quantia extremamente mínima de tecido.
+// (tomato)
+<0053> Aham, é sim. Eu a fiz inspirada naquela batalha épica na praia!
+// (starb)
+<0054> Você tem que parar com essas brincadeiras. Eu não vou vestir algo vergonhoso assim de jeito nenhum. Me faça outra coisa, agora.
+// (tomato)
+<0055> Não dá não. Estou sem materiais, e eu mantive minha promessa. Eu te fiz algo poderoso o suficiente para destruir o mundo todo.
+// (mimyuu)
+<0056> Ela está absolutamente correta! Ela fez sua parte perfeitamente!
+// (starb)
+<0057> Ugh, você até mesmo me fez usar minha roupa de banho para esta coisa estúpida. Desperdicei o dia todo de hoje... Vocês duas devem pagar por isto.
+// (tomato)
+<0058> O quê? Espera, por que parece que você está prestes a nos atacar?
+// (mimyuu)
+<0059> Chefe, isso é mal! Melhor a gente correr!
+// (starb)
+<0060> Ahahaha! Eu vou destruir tudo!
+// (tomato)
+<0061> Oh nãããooo! Pare com isso!
+// (mimyuu)
+<0062> Heeeeh!
+

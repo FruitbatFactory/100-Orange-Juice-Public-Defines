@@ -1,0 +1,160 @@
+<0000> Hop.
+<0001> Vas-y, mon petit.
+<0002> J'avance à grands pas.
+<0003> Allez, fais de ton mieux.
+<0004> Fuhuhu.
+<0005> Alors ?
+<0006> Renversons le cours des choses.
+<0007> Ça fera l'affaire.
+<0008> Je sais que ça me servira.
+<0009> Une petite farce rien de plus banale.
+<0010> Fufu, ce piège sera votre fléau.
+<0011> Ça, ça va ici.
+<0012> Je gagnerai par tous les moyens.
+<0013> Ne m'en veux pas.
+<0014> Je gagnerai coûte que coûte.
+<0015> C'est la bonne stratégie.
+<0016> Mes yeux sont capables de bien des choses.
+<0017> Je te ferai regretter cet affront.
+<0018> Je vais te rendre doublement la monnaie de ta pièce.
+<0019> Je n'ai point l'intention de rester au sol.
+<0020> Quelle horrible humiliation...
+<0021> On va dire que le moment n'est pas encore venu...
+<0022> Hmm ?
+<0023> J'en ai plus qu'assez de rester allongée par terre.
+<0024> Décidemment, rien ne va comme il faut.
+<0025> Prends ça !
+<0026> Et voilà ça !
+<0027> Attention, ça va faire mal.
+<0028> Tiens !
+<0029> Bien joué.
+<0030> Espèce de...
+<0031> Ugyah !
+<0032> À quoi tu joues !?
+<0033> J'avais bien besoin d'un rafraîchissement.
+<0034> Il faut savoir ménager sa santé.
+<0035> Je suis sauvée.
+<0036> Excellent, je peux retourner travailler.
+<0037> Jusqu'où je m'envole ?
+<0038> Hmm, voilà qui est intéressant.
+<0039> Quelle va être ma destination ?
+<0040> Un portail ?
+<0041> Je ne peux pas y croire...
+<0042> Oh, je ne me sens pas très bien.
+<0043> Une erreur de ma part.
+<0044> Ah, c'est déplorable...
+<0045> Je commence.
+<0046> J'écrase tous les gêneurs, sans exception.
+<0047> Prêt à mourir ?
+<0048> Voilà une cible facile.
+<0049> Tu oses t'en prendre à moi...
+<0050> Tu me cours sur les nerfs.
+<0051> Vas-y, à toi l'honneur.
+<0052> On ne joue pas dans la même cour !
+<0053> Orah !
+<0054> Je ne compte pas me retenir.
+<0055> Sorah !
+<0056> A-hahaha !
+<0057> Pft.
+<0058> Que fais-tu ?
+<0059> Aïe !
+<0060> Qu'est-ce que- !?
+<0061> Gyah !
+<0062> Gyaaah !
+<0063> Ça fait mal !!
+<0064> Guboh !
+<0065> Lent, trop lent.
+<0066> Fuhuhu.
+<0067> Ça m'a frôlée, tiens.
+<0068> Que fais-tu donc ?
+<0069> Tout s'est passé comme je l'espérais.
+<0070> Reste donc face contre terre.
+<0071> Vermisseau.
+<0072> C'est fait. Au suivant.
+<0073> Quelle grossière erreur.
+<0074> Que... D'où vient cette puissance absurde ?
+<0075> Gyaaaah !
+<0076> Diantre. Quelle impolitesse.
+<0077> Un trésor ♪
+<0078> Merveilleux, merveilleux !
+<0079> Comme c'est délicieux.
+<0080> Uhihihihi !
+<0081> Vous trouvez ça juste, vous ?
+<0082> Attendez un peu !
+<0083> Agyagyah !
+<0084> Elles sont à moi... Nooon !!
+<0085> Comment j'ai fait pour tomber dans ce piège ?
+<0086> Qui a osé mettre ça là !?
+<0087> Rien de plus humiliant que de se faire avoir ainsi.
+<0088> Bon sang ! Un piège !?
+<0089> Je sens comme une présence malfaisante.
+<0090> J'aimerais ne pas m'approcher de cette... chose.
+<0091> Honnêtement, je ne l'ai pas vu venir.
+<0092> C'est ainsi que le boss apparaît ?
+<0093> Le trésor, évidemment.
+<0094> Tous les trésors me reviennent de droit.
+<0095> Je pars chercher le trésor.
+<0096> Voyons un peu quels trésors se cachent aux alentours.
+<0097> Je ne rate jamais une occasion d'écraser mes rivaux.
+<0098> Alors, par qui on commence ?
+<0099> Qu'ils viennent donc me défier. Je m'occuperai d'eux.
+<0100> Je ne dis jamais non à un beau carnage.
+<0101> Je m'appelle Arnelle, enchantée.
+<0102> Ainsi, tu souhaites t'associer à moi ?
+<0103> Contre un paiement honnête, j'offre le meilleur service possible.
+<0104> Tu souhaites me rejoindre, alors ?
+<0105> Ainsi commence la chasse aux trésors !
+<0106> Alors, par où commencer ?
+<0107> Je m'impatientais.
+<0108> Je gagnerai à coup sûr.
+<0109> Ma foi, je me suis bien amusée.
+<0110> Tellement de trésors ! Fuhuhu, je ne peux m'empêcher de rire !
+<0111> Une autre victoire pour Dame Arnelle !
+<0112> Ce soir, nous célébrerons ma victoire.
+<0113> Bravo ! C'est une belle trouvaille.
+<0114> Hé, et si je le gardais pour moi ? Qu'en dirais-tu ?
+<0115> Comment s'en sert-on ?
+<0116> Oh, c'est une belle prise.
+<0117> Je te confie ma place.
+<0118> J'ai besoin de repos.
+<0119> Je compte sur toi.
+<0120> Échangeons !
+<0121> Bien reçu.
+<0122> Chouette.
+<0123> Soit.
+<0124> Non.
+<0125> Quel dommage.
+<0126> C'est une chance.
+<0127> Que...?
+<0128> C'est le moment d'y aller.
+<0129> Et voilà !
+<0130> Bonne chance.
+<0131> Yo.
+<0132> C'est, euh... hein ?
+<0133> Tu es doué.
+<0134> Oh, impressionnant.
+<0135> Bon sang...
+<0136> Je me permets de jouer ceci.
+<0137> Hmm, très intéressant.
+<0138> Tant qu'à faire, j'espère un résultat amusant.
+<0139> Fuhuhu, je vais jouer celle-ci.
+<0140> Tu m'as vraiment volé mon trésor !?
+<0141> Qu'est-ce que tu viens de faire, là !? Tu me le paieras !
+<0142> Mon trésor...! Espèce d'ordure !
+<0143> Mon trésor... volé ? C'est impossible...
+<0144> Tu n'avais qu'à faire plus attention.
+<0145> C'est à moi, maintenant.
+<0146> Kufufu, tu es bien imprudent.
+<0147> Tu ne le mérites pas, c'est bien trop précieux.
+<0148> Allons donc jouer un peu.
+<0149> Marnie, montre-moi donc ce que tu sais faire.
+<0150> Marnie, je vais devoir te punir.
+<0151> J'apprécie jouer avec toi de temps à autres.
+<0152> Soit. Je veux bien jouer avec toi.
+<0153> J'accepte ton invitation. Vas-y.
+<0154> Oui, oui, on va jouer ensemble.
+<0155> Hm ? Tu veux jouer avec moi, Marnie ?
+<0156> Attention, le duo le plus puissant entre en scène !
+<0157> Ensemble, nous chasserons trésors et têtes, Marnie.
+<0158> Tout va bien, Marnie ? Tu sembles nerveuse.
+<0159> À nous deux, tout est possible.

@@ -1,0 +1,160 @@
+<0000> Ey !
+<0001> Toh !
+<0002> Hop !
+<0003> Allez !
+<0004> J'utilise une carte.
+<0005> Qu'en dites-vous ?
+<0006> Comme ça !
+<0007> Celle-là !
+<0008> Je le pose là.
+<0009> Ça va être intéressant.
+<0010> Je pose une carte juste ici.
+<0011> Qui va bien pouvoir l'activer ?
+<0012> Je l'ai gardée pour ce moment !
+<0013> C'est maintenant !
+<0014> Je vais jouer cette carte !
+<0015> J'ai ce petit bijou avec moi.
+<0016> Allez, c'est parti !
+<0017> J'ai réussi à faire tourner le moteur !
+<0018> C'est bon, je suis de retour.
+<0019> Réparations terminées.
+<0020> Allez, on y retourne !
+<0021> Démarrage... raté.
+<0022> C'est pas près de bouger.
+<0023> On y est pas encore.
+<0024> Encore un petit peu.
+<0025> Prends ça !
+<0026> Feu !
+<0027> Eeey !
+<0028> Et ça, t'en dis quoi ?
+<0029> Aïe !
+<0030> Que...!
+<0031> Ça fait mal.
+<0032> On m'attaque ?
+<0033> Je vais réparer tout ça...
+<0034> Voilà, ça devrait aller...
+<0035> Oh, dieu merci.
+<0036> Quel soulagement.
+<0037> Oh, mon dieu.
+<0038> Que...
+<0039> Je vais finir où, moi, comme ça ?
+<0040> C'est ça, l'aventure !
+<0041> On m'a vaincue.
+<0042> Oh non, il est salement amoché...
+<0043> Il est grand temps de le réparer.
+<0044> Je vais pas pouvoir redécoller de sitôt.
+<0045> Au combat !
+<0046> Un combat, ça t'intéresse ?
+<0047> C'est parti !
+<0048> Je vais pas t'épargner !
+<0049> Quoi, tu veux te battre ?
+<0050> Ok, on va bien voir ce que tu vaux.
+<0051> Si tu veux te battre, c'est le moment.
+<0052> Vas-y, viens. Hésite pas.
+<0053> Attention, j'y vais !
+<0054> Esquive ça, pour voir !
+<0055> Tiens !
+<0056> Je te tiens !
+<0057> Bien joué.
+<0058> Aïe !
+<0059> On m'a touchée !?
+<0060> Touchée !
+<0061> Aïee !
+<0062> Joli tir !
+<0063> Dégâts critiques.
+<0064> Ça fait super mal !
+<0065> J'ai failli y passer...
+<0066> Je suis intouchable.
+<0067> C'est insuffisant.
+<0068> Débutant.
+<0069> Victoire !
+<0070> Un de moins !
+<0071> J'ai gagné.
+<0072> J'espère encore t'affronter à l'avenir.
+<0073> Tu m'as vaincue.
+<0074> J'ai perdu.
+<0075> Tu es doué.
+<0076> Je me rends.
+<0077> Très bien, ça.
+<0078> On avance.
+<0079> Excellent !
+<0080> J'en trouverai encore et encore.
+<0081> Oh, quel dommage.
+<0082> Pas bon, ça.
+<0083> C'est pas juste.
+<0084> Oh, oh non...
+<0085> Oh, hm...
+<0086> On m'a eue.
+<0087> Ah, quelle erreur.
+<0088> Qui a posé ça ici ?
+<0089> Moi qui voulais du défi...
+<0090> Oh, ça m'a fait peur.
+<0091> Je sens que je suis dans un sacré pétrin.
+<0092> Bon, qu'est-ce qu'il faut faire, maintenant ?
+<0093> Je pars chercher des étoiles.
+<0094> Les étoiles. C'est mieux.
+<0095> Je vais en amasser plein !
+<0096> Je choisis ça.
+<0097> Héhé, je pense que je vais faire ça.
+<0098> Je sens qu'on va bien s'amuser.
+<0099> C'est brutal, mais bon...
+<0100> C'est dans mes habitudes.
+<0101> Moi ? D'ac', pas de problème.
+<0102> Tu veux te battre à mes côtés ?
+<0103> Ensemble, on peut y arriver.
+<0104> Faisons de notre mieux.
+<0105> Je vais me donner à fond !
+<0106> Ah, j'ai hâte.
+<0107> J'en peux plus d'attendre.
+<0108> Venez vous battre !
+<0109> Eh bah, c'était plutôt amusant.
+<0110> Fastoche !
+<0111> Je vais chercher Scotch, qu'on fête ça autour d'un verre !
+<0112> Ça vous dirait, vous, une seconde manche ?
+<0113> Je savais pas que ça existait, ça.
+<0114> Oh, génial !
+<0115> Ça, ça part dans ma collection.
+<0116> Je prends ça volontiers.
+<0117> À ton tour.
+<0118> Bon, je te laisse t'en charger.
+<0119> À toi de jouer !
+<0120> Je te laisse t'en charger.
+<0121> Super.
+<0122> Bien.
+<0123> Oui.
+<0124> Non.
+<0125> C'est pas fou...
+<0126> Oh, quelle chance !
+<0127> Hm ?
+<0128> Allez, on est partis !
+<0129> Hop !
+<0130> Go, go !
+<0131> Salut !
+<0132> Hmm...
+<0133> Bien, bien.
+<0134> Impressionnant !
+<0135> Ah...
+<0136> Ça a l'air plutôt amusant.
+<0137> Tout le monde en est capable !
+<0138> Je comprends pas cette carte... tant pis, j'utilise !
+<0139> J'ai choisi de l'utiliser !
+<0140> Viens te battre, gamine !
+<0141> Hihi, ça fait un moment que j'attends ça.
+<0142> Effronté. Tu ne fais pas le poids.
+<0143> C'est la mode du moment, ces oreilles ?
+<0144> Merci de ne pas retenir vos coups.
+<0145> Tu es le parfait opposé du gentleman, sache-le.
+<0146> Tu es d'une insolence...
+<0147> Tu m'as tout l'air d'une brute.
+<0148> C'est de la magie...?
+<0149> Rien qu'à voir cette fille... Je me sens presque devenir gaga.
+<0150> Tu es le gringalet que tu penses être.
+<0151> Ça commence à vraiment devenir dangereux, par ici...
+<0152> Quelle montée d'adrénaline !
+<0153> On va régler tout ça une bonne fois pour toutes !
+<0154> À moi !
+<0155> Cible en vue.
+<0156> Attention, je te défie ! Je plaisante.
+<0157> Quel genre d'équipement je vais trouver, moi ?
+<0158> Vous ne devriez pas dormir ici.
+<0159> Je crois que j'en ai un peu trop fait.

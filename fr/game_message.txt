@@ -1,0 +1,197 @@
+
+< GAME_MESSAGE_YOURTURN >
+À votre tour.
+
+< GAME_MESSAGE_OPPONENTTURN >
+Au tour de l'adversaire.
+
+< GAME_MESSAGE_CHALLENGEBATTLE >
+Défier en combat ?
+
+< GAME_MESSAGE_HEALTEAMMATE >
+Soigner 1 PV à cet équipier ?
+
+< GAME_MESSAGE_REVIVETEAMMATE >
+Ressusciter cet équipier ? (%d étoiles)
+
+< GAME_MESSAGE_CHOOSECARDUSE >
+Choisissez une carte.
+
+< GAME_MESSAGE_CHOOSECARDDISCARD >
+Choisissez une carte à défausser.
+
+< GAME_MESSAGE_CONFIRMCARDUSE >
+Utiliser cette carte ?
+
+< GAME_MESSAGE_BOSSAPPEARED >
+Un boss apparaît !
+
+< GAME_MESSAGE_RAIDBOSS_APPEAR >
+%s descent du ciel !
+
+< GAME_MESSAGE_RAIDBOSS_UNLOCK >
+%s apprend %s !
+
+< GAME_MESSAGE_RAIDBOSS_REMOVE >
+%s oublie %s.
+
+< GAME_MESSAGE_RAIDBOSS_USE_ABILITY >
+%s active %s !
+
+< GAME_MESSAGE_RAIDBOSS_SKIP_ABILITY >
+%s n'utilisera pas %s.
+
+< GAME_MESSAGE_RAIDBOSS_ENRAGE >
+%s est énervé !
+
+< GAME_MESSAGE_COOP_TERROR_EVENT >
+%s envahit les cases !
+
+< GAME_MESSAGE_COOP_ANNOUNCE_ABILITY >
+%s prépare %s !
+
+< GAME_MESSAGE_COOP_LEVELUP_ABILITY >
+%s est remplacé par %s !
+
+< GAME_MESSAGE_TURNSKIP >
+Tour passé.
+
+< GAME_MESSAGE_CHOOSENORMA >
+Choix du prochain Quota.
+
+< GAME_MESSAGE_NORMANOTACHIEVED >
+Quota non atteint !
+
+< GAME_MESSAGE_CARDDRAWN >
+Carte piochée.
+
+< GAME_MESSAGE_TRAPSET >
+Carte Piège posée.
+
+< GAME_MESSAGE_TRAPTRIGGER >
+Carte Piège activée.
+
+< GAME_MESSAGE_BANNERSET >
+Carte Bannière posée.
+
+< GAME_MESSAGE_CARDEFFECTSTOCKED >
+Effet de carte activé.
+
+< GAME_MESSAGE_STOCKEFFECT >
+Effet passif activé.
+
+< GAME_MESSAGE_FIELDEFFECT >
+Effet de zone activé.
+
+< GAME_MESSAGE_REVIVESUCCESS >
+De retour !
+
+< GAME_MESSAGE_REVIVEFAIL >
+Toujours pas...
+
+< GAME_MESSAGE_CHOOSETARGET >
+Ciblez un joueur.
+
+< GAME_MESSAGE_CHOOSEMOVEPANEL >
+Choisissez une case vers laquelle aller.
+
+< GAME_MESSAGE_HOMESTOP >
+S'arrêter à la Maison ?
+
+< GAME_MESSAGE_HEALING >
+Soigné !
+
+< GAME_MESSAGE_EVENTPREFIX >
+
+< GAME_MESSAGE_EVENTSUFFIX >
+ !
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATEFRENZY >
+Folie Chocolatée !
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_SUCCESS >
+Chocolat déposé !
+
+< GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_FAIL >
+Pas assez de chocolat...
+
+< GAME_MESSAGE_HLWN2018_CHOOSECANDY >
+Choisissez un bonbon.
+
+< GAME_MESSAGE_HLWN2018_GIVECANDY >
+Offrir ce bonbon ?
+
+< GAME_MESSAGE_CHOOSETARGETPANEL >
+Choisissez une case.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE >
+Choisissez quelle case viser.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE_CARD >
+Choisissez quelle case viser / jouer une carte.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_MULTIPLE >
+Choisissez quelles cases viser.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND >
+Choisissez vers quelle case aller.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_DEFEND_CARD >
+Choisissez vers quelle case aller / jouer une carte.
+
+< GAME_MESSAGE_XMAS2018_SNOWFIGHT_WAITING >
+En attente des autres joueurs...
+
+< GAME_MESSAGE_XMAS2018_CASTLE_ROTATE >
+Pivoter
+
+< GAME_MESSAGE_XMAS2018_CASTLE_PLACE >
+Placer un bloc
+
+< GAME_MESSAGE_XMAS2018_CASTLE_CHANGE >
+Changer de bloc
+
+< GAME_MESSAGE_SHOPSTOP >
+S'arrêter au magasin ?
+
+< GAME_MESSAGE_MONSTERCHALLENGE >
+Affronter ce monstre ?
+
+< GAME_MESSAGE_SUMMER2020_SPEEDUP >
+On accélère !
+
+< GAME_MESSAGE_TELEPORT >
+Choisissez vers où vous téléporter.
+
+< GAME_MESSAGE_SELECT_PANEL >
+Choisissez une case.
+
+< GAME_MESSAGE_AWAIT_ACTION >
+En attente du joueur...
+
+< GAME_MESSAGE_PICK_UNIT >
+Choisissez votre Personnage
+
+< GAME_MESSAGE_PET_PLAYER >
+Caresser ce joueur ?
+
+< GAME_MESSAGE_PET_DOG >
+Caresser le chien ?
+
+< GAME_MESSAGE_CHOOSE_BLUFF >
+Quel type de carte sera joué par ce joueur ?
+
+< GAME_MESSAGE_DECLARE_BLUFF >
+Quel type de carte voulez-vous annoncer aux joueurs ?
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_1 >
+Le type de ta prochaine carte...
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_2 >
+...est celui-ci !
+
+< GAME_MESSAGE_BLUFF_NOTICE >
+Cette carte a été prédite par {} comme étant votre prochaine carte.
+
+< GAME_MESSAGE_LOCATIONFEE_FAIL >
+N'a pas pu payer la taxe de protection.

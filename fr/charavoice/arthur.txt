@@ -1,0 +1,172 @@
+<0000> Maintenant.
+<0001> Ça donne quoi, ça ?
+<0002> J'y vais.
+<0003> Allez, me déçois pas.
+<0004> J'utilise celle-là.
+<0005> C'est le bon moment pour cette carte.
+<0006> Ça va changer la donne.
+<0007> Celle-là.
+<0008> Hop, un piège.
+<0009> Je pose ça là vite fait.
+<0010> Ici, c'est pas mal.
+<0011> Un piège.
+<0012> Je devrais pas me rabaisser à ça, mais bon...
+<0013> J'vais pas laisser une miette traîner.
+<0014> J'vais te tabasser.
+<0015> On va en finir.
+<0016> Pour l'avenir de ma boutique !
+<0017> Guh...
+<0018> J'ai pas vraiment le temps de pioncer.
+<0019> Faut que je rattrape le temps perdu.
+<0020> C'est pas trop tôt...
+<0021> Grr...
+<0022> Purée...
+<0023> Je me sens minable.
+<0024> Je commence à me faire vieux.
+<0025> Hahh !
+<0026> Crève !
+<0027> Je vais t'écraser !
+<0028> Rahhh !
+<0029> Nguh.
+<0030> Agh.
+<0031> Nuh.
+<0032> Argh.
+<0033> *soupir*
+<0034> C'est bon, j'ai plus mal.
+<0035> Ok, je peux y retourner.
+<0036> Il en faudra plus que ça !
+<0037> Hm.
+<0038> Jusqu'où...?
+<0039> J'suis où, là ?
+<0040> Un portail ?
+<0041> Je me sens nul.
+<0042> Pft.
+<0043> Non, pas comme ça...
+<0044> Argh...
+<0045> Viens te battre !
+<0046> C'est mon boulot.
+<0047> Je te conseille de partir.
+<0048> Prêt à la pire raclée de ta vie ?
+<0049> Dégage de là !
+<0050> J'imagine que ça peut pas se régler autrement...
+<0051> Quoi qu'il advienne, j'y suis pour rien.
+<0052> Je vais t'apprendre la douleur.
+<0053> Rah !
+<0054> Tiens !
+<0055> Hah !
+<0056> Crève.
+<0057> Aïe !
+<0058> Argh.
+<0059> Pas mal.
+<0060> Guh.
+<0061> Qu'est-ce que- !!
+<0062> T'es pas mauvais...
+<0063> Impressionnant.
+<0064> Guooh !
+<0065> Ça risque pas de me toucher !
+<0066> Proche, mais pas assez.
+<0067> Hmpf.
+<0068> Tu visais qui, là ?
+<0069> Je n'ai pas d'autres choix.
+<0070> Je peux pas me laisser aller.
+<0071> Écroule-toi là, ça m'ira très bien.
+<0072> Nul.
+<0073> Pas comme ça...
+<0074> Espèce de...
+<0075> Tu te fiches de moi...?
+<0076> ......
+<0077> Encore.
+<0078> Je vais devoir m'en trouver d'autres.
+<0079> Donne-m'en plus.
+<0080> Il m'en faudrait encore plus.
+<0081> Je peux pas me permettre d'en perdre...
+<0082> Elles m'ont glissé des doigts...
+<0083> Mes étoiles...!
+<0084> Bon sang...
+<0085> Un piège !
+<0086> On m'a eu.
+<0087> Un piège, hein ?
+<0088> Il s'est passé quoi, là ?
+<0089> Va falloir que je redouble d'efforts.
+<0090> C'est un problème pour adultes.
+<0091> Ça va pas être évident, tiens.
+<0092> Et voilà le gros machin qui débarque.
+<0093> Les étoiles, c'est pas mal.
+<0094> J'ai choisi de chercher les étoiles.
+<0095> Bon, sur ce, je pars m'en trouver quelques-unes.
+<0096> C'est des étoiles qu'il me faut.
+<0097> J'ai encore deux-trois pélos qui me barrent la route.
+<0098> On va régler ça par la force.
+<0099> J'vais me débarrasser des gêneurs.
+<0100> J'vais vous neutraliser un à un.
+<0101> Arthur à la rescousse.
+<0102> Pour notre avenir.
+<0103> Je vais décrocher la victoire de mes deux mains.
+<0104> On fait ça en équipe.
+<0105> Ça commence, alors.
+<0106> Allez...
+<0107> Allez, au boulot.
+<0108> Ok, on peut y aller.
+<0109> J'ai gagné, alors ?
+<0110> Hmpf, fastoche.
+<0111> Un pas de plus vers l'avenir.
+<0112> Allez, je peux ouvrir le magasin.
+<0113> Ça nous fait un bel objet en réserve.
+<0114> Un nouveau produit.
+<0115> Tiens, garde-le.
+<0116> C'est un bel objet.
+<0117> Je te laisse ma place.
+<0118> Merci.
+<0119> Tu t'occupes du reste ?
+<0120> Je compte sur toi.
+<0121> Ok.
+<0122> Bien.
+<0123> D'ac'.
+<0124> Non.
+<0125> Hein...?
+<0126> Tu parles d'une chance.
+<0127> Mhm ?
+<0128> On peut y aller.
+<0129> Je jette les dés.
+<0130> C'est parti.
+<0131> Tiens, c'est toi.
+<0132> Hmpf.
+<0133> Bien.
+<0134> Beau boulot.
+<0135> Bon sang.
+<0136> Je fais pas ça souvent.
+<0137> J't'emprunte ça.
+<0138> Faut que j'essaie.
+<0139> Hé, c'est sympa, ça.
+<0140> Tous mes remerciements.
+<0141> Mère Noël...
+<0142> C'est toi...
+<0143> C'est moi qui ai gagné, cette fois.
+<0144> Je me doutais que j'allais perdre.
+<0145> Nico !
+<0146> T'es dans ta période rebelle ?
+<0147> Souffle un coup, tu veux ?
+<0148> Guh. T'as bien grandie, tu sais.
+<0149> C'est une peluche...? Nan, on dirait pas.
+<0150> Allez, une nouvelle journée de travail.
+<0151> Hé, gamine. T'aimes bien les jouets, toi, non ?
+<0152> Que... Qu'est-ce que tu fais là...?
+<0153> Ça arrive à grands pas.
+<0154> Je sens que je vais gagner gros.
+<0155> Aujourd'hui, ça risque d'être bien chargé.
+<0156> Bon, allez, faut bien que j'aide à distribuer les cadeaux.
+<0157> Hé, gamine. Si tu veux des jouets,\nil y en a plein dans ma boutique.
+<0158> C'est les jouets qui t'intéressent, gamine ?
+<0159> Hésite pas à passer à la Boutique de Loisirs Alpin.
+<0160> Guh... Je te filerai un bon de réduction de 30%.
+<0161> Bienvenue.
+<0162> T'es venu jouer un coup ?
+<0163> Hmpf.
+<0164> Bah. C'est comme ça, des fois.
+<0165> Hé, c'est plutôt pas mal.
+<0166> Pas mal.
+<0167> Bah, t'en fais pas. Tiens, c'est\nun cadeau spécial. Profites-en.
+<0168> C'est vraiment pas de chance... Tiens, en compensation.
+<0169> Qu-qu'est-ce que...
+<0170> T'en as, de la veine, toi !
+<0171> Joyeux Noël !

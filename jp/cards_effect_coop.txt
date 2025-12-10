@@ -302,4 +302,65 @@ descr=次に止まるマスを2倍ドローマスとして扱う。
 name=賢そうなハッタリ
 descr=そのタイプのカードが使われた時、プレイヤーは1枚カードを引く。
 
+< CARD_COOP_REINFORCE_EFFECT >
+name=援護受領
+descr=自身がバトルを挑まれた時、この効果が付与されたプレイヤーが先にバトルする。そのプレイヤーが援護バトルでダウンしなかった場合、ATK・DEF・EVD+1。ダウンした場合、ATK+1。
+
+< CARD_COOP_REINFORCE_PENALTY_EFFECT >
+name=援護提供
+descr=プレイヤーを援護中、MOV-1。強化済みバトルで、ATK・DEF・EVD+1。
+
+< CARD_COOP_CLEANSING_AURA_EFFECT >
+name=浄化オーラ
+descr=ボスかその手下から次に受ける効果を無効にする。
+
+< CARD_COOP_PAY_ATTENTION_EFFECT >
+name=ご注意
+descr=ホームマスに止まる時、ボスがいるマスにワープする。
+
+< CARD_COOP_BRUTAL_TRAPS_EFFECT >
+name=残忍な罠
+descr=自身がトラップを発動させた時、手札を全て捨てる。
+
+< CARD_COOP_BACKDOOR_SCHEME_EFFECT >
+name=裏取引
+descr=自身がのHPが1になった時、自身のレベル×10のスターを失う。ダウンでこの効果を失う。
+
+< CARD_COOP_WARUDA_MACHINE_EFFECT >
+name=わるだマシン
+descr=次のバトル中、バトルの相手の手札の数だけATK・DEFが増加し、EVDが減少する。
+
+< CARD_COOP_HMM_EFFECT >
+name=うーん…
+descr=次に発動するダイレクトダメージを与える能力のダメージ量がボスのレベル分増える。
+
+< CARD_COOP_SNEAKILY_EFFECT >
+name=こっそり
+descr=バトルを挑まれない。敵にバトルを挑んだ時、ATK+2。
+
+< CARD_COOP_BOSS_PRISON_BREAK_EFFECT >
+name=脱獄
+descr=EVD+2。この効果が消えるまでにバトルを挑まれなかった場合、永続でATK・DEF+1。
+
+< CARD_COOP_BOSS_FREE_BIRD_EFFECT >
+name=自由の身
+descr=ATK・DEF+1。
+
+< CARD_COOP_BREAKER_ENRAGE_EFFECT >
+name=ブレイカーの激怒
+descr=ATK+1、ダメージ付与効果のダメージ+1。
+
+< CARD_COOP_BUILDER_ENRAGE_EFFECT >
+name=ビルダーの激怒
+descr=ATK・MOV+1。
+
+< CARD_COOP_BUSTER_ENRAGE_EFFECT >
+name=バスターの激怒
+descr=毎ターン追加で1枚カードを引き、1枚カードを使う。
+
+< CARD_COOP_HIGH_ALERT_EFFECT >
+name=厳戒態勢
+descr=DEF+1。この効果は、味方がダウンしてる間有効になる。
+Gain +1 DEF. This effect will remain active while an ally is KO'd.
+
 [EOF]

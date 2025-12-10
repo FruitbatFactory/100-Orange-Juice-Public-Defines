@@ -1,0 +1,164 @@
+<0000> Nora !
+<0001> Nanora !
+<0002> Ryaah !
+<0003> J'y vais !
+<0004> Cette carte, nanora !
+<0005> Je choisis celle-là, nora !
+<0006> Yaaaay !
+<0007> Nyafufufu !
+<0008> Un piège, nanora.
+<0009> Ça va ici, nora.
+<0010> En toute discrètion.
+<0011> Nyuhihi !
+<0012> Carte Combat, nanora !
+<0013> Je vais te casser en deux, nora.
+<0014> Tu vas morfler, nora.
+<0015> Puissance max, nanora !
+<0016> D'un coup je disparais, nora.
+<0017> Je suis de retour, nanora !
+<0018> Je n'ai pas le droit de perdre, nora !
+<0019> Nyafufu ! Il en faut plus que ça pour me vaincre !
+<0020> J'arrive enfin à me relever, nora...
+<0021> C'est pas fini, nanora !?
+<0022> Oh...
+<0023> Bordel, nanora !
+<0024> Pigyahhh !
+<0025> À l'attaque, nanora !
+<0026> Tiens !!
+<0027> Ryaah !
+<0028> Bouffe ça, nanora !
+<0029> Ababah !
+<0030> Ça fait mal, nanora !
+<0031> Raargh.
+<0032> Kyaaah !
+<0033> Du soin, nanora !
+<0034> Je vais déjà mieux, nora.
+<0035> Je me sens renaître, nora.
+<0036> Nyafufufufufufu !
+<0037> Araah...
+<0038> Ça va où, noraaa...
+<0039> Un portail, nanora !
+<0040> Awawawawa.
+<0041> Mais merde !
+<0042> Geh !
+<0043> Pigyaamoh...
+<0044> Nyuuu...
+<0045> Une cible facile, nora.
+<0046> Prêt à morfler, nora ?
+<0047> Début du combat, nanora !
+<0048> Battons-nous, nora !
+<0049> Oh, tu oses m'approcher, nora ?
+<0050> Allons-y, allons-y, nora !
+<0051> Nyuhihi !
+<0052> T'as du cran pour me défier, nanora.
+<0053> Nyuraah !
+<0054> Prends ça, nora !!
+<0055> Je vais t'écraser, nanora !
+<0056> Nyahhaah !
+<0057> Pugyah !
+<0058> Nywaah !
+<0059> Ça fait mal, nora !
+<0060> Arrête ça, nora !
+<0061> Pigyaamoh !!
+<0062> Ça fait super mal, nora !!
+<0063> Qu'est-ce que tu fabriques, noraa ?!
+<0064> Guahh... nanora.
+<0065> Raté, nora !
+<0066> Nyuhihi ! Tu me visais, nora ?
+<0067> Nya ! À peu de choses près, nora !
+<0068> Hoplà !
+<0069> Ouaaiis ! J'ai gagné, nora !
+<0070> Je suis au top, nora !
+<0071> C'est trop facile, nanora.
+<0072> J'ai gagné, nora.
+<0073> Ubegueh.
+<0074> C'était horrible, nora.
+<0075> Nooooon...
+<0076> Gueh...
+<0077> Ouais ! J'en veux plus, nora !
+<0078> Encore, encore, nanora !
+<0079> Des étoiles, nanora !!
+<0080> Elles sont jolies, nanora !
+<0081> Higyaah, nanora !
+<0082> Gyowaah !
+<0083> J'ai fait une erreur, nora...
+<0084> Mes étoiiiiles !
+<0085> Qui a posé ce piège ici, nanora ?!
+<0086> J'en ai ras-le-bol, nora !!
+<0087> Un piège, nora ?!
+<0088> Merd... nora !
+<0089> Nyah ! Un gros morceau, nora !
+<0090> Hmm, ça sent les ennuis, nora.
+<0091> Il va pas être simple à écrabouiller, nanora.
+<0092> Les ennuis commencent, nora.
+<0093> Les étoiles sont à moi, nora !
+<0094> Ding ding ♪ J'arrive prendre les étoiles, nora !
+<0095> Je veux tout plein d'étoiles, nora !
+<0096> Ça sera les étoiles, nanora !
+<0097> Je vais vaincre tout le monde ! Et gagner !
+<0098> Si vous m'arrêtez, je vous écrabouille, nora !
+<0099> Ouaaiis ! J'arrive vous écraser, nora !
+<0100> Je vais vous aplatir avec des rochers, nora !
+<0101> Nanora ! Tsih est là !
+<0102> Moi, nanora ?
+<0103> Yo ! Massacrons-les ensemble, nanora !
+<0104> Je m'occupe de tout, nora !
+<0105> Nyafuu ! J'ai hâte de commencer, nora !
+<0106> Je m'occupe de tous les écraser, nora !
+<0107> Aucune chance que je perde, nora !
+<0108> Nyafuu nyafuuu ♪
+<0109> J'ai gagné, nanora ! Nyafufufu.
+<0110> J'ai réussi, nora ! Je suis la meilleure, nanora !
+<0111> Pigyaamo ! Rien ne m'arrête, nanora !
+<0112> Yafueeey ! La victoire est à moi, nanora !
+<0113> Je l'avais pas, ça, nanora.
+<0114> Oh, je connaissais pas, nanora !
+<0115> Joli, nanora !
+<0116> T'en penses quoi, nora ?
+<0117> On échange, nanora.
+<0118> Me déçois pas, nanora.
+<0119> À toi de jouer, nanora !
+<0120> Bonne chance, nora !
+<0121> Ok, nanora !
+<0122> Bien, nora.
+<0123> Oui, nanora !!
+<0124> Non !
+<0125> Uggeeh.
+<0126> La chance, nanora !
+<0127> Nyuun ?
+<0128> Allons-y !
+<0129> Un dé, nanora !
+<0130> J'suis prête, nanora !
+<0131> Coucou, nanora !
+<0132> Hmnyaan...
+<0133> Bien, nora !
+<0134> Génial, nora !
+<0135> C'est pas possible, nanora.
+<0136> Et si j'utilisais celle-là, nora ?
+<0137> Hmnyaa ! Cette carte est à moi, maintenant !
+<0138> Cette carte est pour moi, nora !
+<0139> Nyhahaha ! Je joue celle-ci aussi, nora !
+<0140> Nora ! Allons-y, Alte !
+<0141> Nyafufu, vas-y, nora ! Donne tout !
+<0142> La victoire est à moi, nanora ! Tu t'es bien battue !
+<0143> Alte... Tu as fait des progrès, nora...
+<0144> Oh, c'est cette jolie femme ! On peut s'affronter, dites !?
+<0145> Oh, c'est vous ! Je ferai de mon mieux, nanora !
+<0146> Je suis tellement fière de moi, nanora...
+<0147> Je m'y attendais... Elle est trop forte, nanora...
+<0148> J'ai rarement vu une adulte aussi paresseuse, nanora.
+<0149> Oh, t'es vraiment décevante, nanora.
+<0150> Je déteste les femmes comme elle, nora.
+<0151> Pas croyable... J'ai perdu contre une femme comme elle...
+<0152> Oh ? J'ai trouvé mon prochain casse-croûte, nanora !
+<0153> Je vais me régaler, nanora !
+<0154> Donne-moi ta place de mascotte, nora !
+<0155> Arrête de répéter "poppo poppo", nora !
+<0156> C'est moi la mascotte, maintenant, nanora !!
+<0157> Pigyaamoh ! Je me suis fait battre par ce rat, nora...
+<0158> IIIIIIIRK ! C'est ça, marre-toi, nanora ! Je vais me venger, nora !
+<0159> Tu peux pas me vaincre, nanora. Nyufufufu.
+<0160> Muoooh ! Tu vas prendre tellement cher, nanoraaa !
+<0161> Je suis puissante comme jamais, nora !!
+<0162> À l'attaaaque ! Deryaaaah !
+<0163> Pigyaaaaamoh !!!!

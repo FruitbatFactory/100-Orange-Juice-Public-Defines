@@ -114,3 +114,7 @@ descr=
 < FIELDEVENT_CONVERGENCE >
 name=Convergencia
 descr=El campo de juego actual cambiará a uno aleatorio.\n\nFrecuencia: Cada 6 capítulos.
+
+< FIELDEVENT_CLASHOFCAKES >
+name=Pasteles
+descr=Todos los jugadores recibirán la carta: "El Pastel Falso de Mio".\n\nFrecuencia: Cada 6 capítulos.

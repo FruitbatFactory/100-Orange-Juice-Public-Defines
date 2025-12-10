@@ -202,6 +202,12 @@ name=风信鸡的指引
 descr=储备效果\n除战斗外，骰子枚数变为2枚。\n当你停留在HOME格时效果结束。
 flavor=「叽叽，库克想去这边。」—库克
 
+< CARD_BOUNTY_PROTECTIONFEE >
+name=保护费
+descr=当你停留在其他玩家的HOME格时，需向对方缴纳自己等级×2的STAR。未通过目标检测时，受到1点伤害。
+flavor=「这根本就是敲诈啊……」—露露
+
+
 < CARD_BOUNTY_PLAYER >
 name=新鲜通缉
 descr=因危害社会而受到通缉。

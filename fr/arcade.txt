@@ -1,0 +1,109 @@
+< ITEMDEF_PET_DISPLAY_TYPE >
+P'tit Pote
+
+< ITEMDEF_TOKEN_DISPLAY_TYPE >
+Jeton d'Arcade
+
+
+
+
+< RARITY_COMMON >
+Commun
+
+< RARITY_UNCOMMON >
+Peu Commun
+
+< RARITY_RARE >
+Rare
+
+< RARITY_SUPER_RARE >
+Très Rare
+
+< PET_SELECT_NOPET >
+Pas de P'tit Pote
+
+
+< ARCADE_ORANGE_GET >
+You Got Oranges!
+
+< ARCADE_PET_GET >
+Vous obtenez un P'tit Pote !
+
+< ARCADE_COMMON_GET >
+Vous obtenez un objet commun !
+
+< ARCADE_NEW_PET_COLOR >
+Nouvelle Couleur Obtenue !
+
+< ARCADE_PLAY>
+JOUER
+
+< ARCADE_EXCHANGE >
+Échanger
+
+< ARCADE_LOADING >
+Chargement...
+
+
+< ARCADE_EXCHANGE_NOPET >
+Aucun P'tit Pote sélectionné.
+
+< ARCADE_EXCHANGE_CONFIRM >
+Échanger ce P'tit Pote ?
+
+< ARCADE_ERROR_STEAM >
+Vous n'êtes pas connecté(e) à Steam.
+
+< ARCADE_ERROR_MISC >
+Erreur. Réessayez plus tard.
+
+< ARCADE_ERROR_TOKEN_COUNT >
+Vous n'avez pas assez de jetons.
+
+< ARCADE_ERROR_EXCHANGE_QUANTITY >
+Pas assez de P'tit Potes à échanger.
+
+< ARCADE_ERROR_TIMEOUT >
+Problème de connexion. Réessayez plus tard.
+
+< ARCADE_TOOLTIP_PETCATCHER >
+3 jetons pour un P'tit Pote / objet commun !
+
+< ARCADE_TOOLTIP_EXCHANGE >
+Échangez deux P'tit Potes identiques contre un d'une autre couleur !
+
+< ARCADE_TOOLTIP_EMOTES >
+Obtenez de nouveaux émoticônes !
+
+< ARCADE_TOOLTIP_CONSUMABLES >
+Achetez des objets cosmétiques à utiliser en jeu !
+
+< ARCADE_TOOLTIP_GAMEMACHINE >
+Jouez à des mini-jeux d'anciens évènements !
+
+< ARCADE_MACHINE_PETCATCHER >
+Gacha-Pote
+
+< ARCADE_MACHINE_SUMMER >
+Gacha-Pote Estival
+
+< ARCADE_MACHINE_BOUNTYHUNT >
+Gacha-Pote Aventuriers
+
+< ARCADE_MACHINE_PLUSHIE >
+Gacha-Peluche
+
+< ARCADE_MACHINE_EMOTES >
+Distributeur à Émoticônes
+
+< ARCADE_MACHINE_EMOTES >
+Échange de P'tit Potes
+
+< ARCADE_MACHINE_CONSUMABLES >
+Machine à Bidules
+
+< ARCADE_MACHINE_BUILD_A_CASTLE >
+Châteaux de Glace
+
+< ARCADE_MACHINE_SCHOOL_CRASHERS >
+Rats d'École

@@ -1,0 +1,56 @@
+
+< RESULT_HEADER >
+Débrief - Étoiles Obtenues
+
+< RESULT_SCORE_OWNEDSTARS >
+Nombre d'Étoiles
+
+< RESULT_SCORE_LEVELBONUS >
+Niveau
+
+< RESULT_SCORE_ENEMYBONUS >
+Ennemis Vaincus
+
+< RESULT_SCORE_RANKBONUS >
+Classement Final
+
+< RESULT_SCORE_CAMPAIGNBONUS >
+Campagne
+
+< RESULT_SCORE_BOSSBONUS >
+Boss Vaincu
+
+< RESULT_SCORE_CARDMASTER >
+Maître des Cartes
+
+< RESULT_SCORE_TRAPMEISTER >
+Maître des Pièges
+
+< RESULT_SCORE_AVENGER >
+Rancunier
+
+< RESULT_SCORE_SURVIVOR >
+Survivant
+
+< RESULT_SCORE_MISFORTUNE >
+Malchance
+
+< RESULT_SCORE_STARDECAY >
+Perte d'Étoiles
+
+< RESULT_SCORE_TOTAL >
+Total
+
+< RESULT_EXP_LEVEL >
+Niveau
+
+< RESULT_EXP_EXPERIENCE >
+EXP
+
+< RESULT_EXP_EXPERIENCETONEXTLEVEL >
+Suivant
+
+< RESULT_SPEEDADJUST >
+Modificateur de Vitesse
+
+[EOF]

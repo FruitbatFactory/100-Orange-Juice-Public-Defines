@@ -26,7 +26,7 @@
 校園撞機
 
 < EVENTNAME_CHAOS_MODE >
-混沌模式
+愚人計
 
 < EVENTNAME_S3_TAGTEAM_MODE >
 青春多憂愁
@@ -36,5 +36,14 @@
 
 < EVENTNAME_POPPO >
 啵噗活動
+
+< EVENTNAME_OPERATION_HALLOWEEN >
+萬聖節行動
+
+< EVENTNAME_SUMMER2025 >
+三重麻煩
+
+< EVENTNAME_WINTER2025 >
+社團資格戰
 
 [EOF]

@@ -1,0 +1,156 @@
+<0000> C'est partiii !
+<0001> Sorah !
+<0002> On y va !
+<0003> Dorya !
+<0004> Hihihi, je vais jouer une carte.
+<0005> C'est le moment !
+<0006> Je choisis de l'utiliser maintenant !
+<0007> Allez, c'est maintenant ou jamais !
+<0008> Nyehihihi...
+<0009> Je pensais poser un piège ici.
+<0010> Je vais poser ça là...
+<0011> Juste là... Voilà ! Parfait !
+<0012> Pas question de perdre !
+<0013> Allez ! Prépare-toi !
+<0014> Je commence à bien m'amuser.
+<0015> Vise un peu ! J'augmente mes pouvoirs !
+<0016> Mes pouvoirs magiques me rendent invulnérable !
+<0017> Vous allez tous payer pour ça !
+<0018> 'faudra bien plus que ça pour me vaincre !
+<0019>J'suis loin d'avoir perdu !
+<0020> Allez, j'y retourne !
+<0021> Hein, quoi ? Vraiment ?
+<0022> J'ai complètement raté...
+<0023> Allez...!
+<0024> Hein ? Hein ?
+<0025> Subis ma super attaque !
+<0026> Attention !
+<0027> J'y vais !
+<0028> De toutes mes forces !
+<0029> Aïe !
+<0030> Hé, oh !
+<0031> Hé, j'suis une fille, je te rappelle !
+<0032> T'es vraiment pas correct.
+<0033> J'me sens à bloc !
+<0034> Beaucoup mieux !
+<0035> Je peux toujours y arriver !
+<0036> Super timing !
+<0037> Hein ? Un portail ?
+<0038> Ça va où, ça ?
+<0039> Ouaaah !
+<0040> Hiiiieh !
+<0041> On m'a eue...
+<0042> Pff... j'ai fait n'importe quoi.
+<0043> Hmm... ça aurait dû mieux se passer.
+<0044> *soupir* J'vais devoir faire une pause.
+<0045> Prépare-toi !
+<0046> Salut ! Tu veux jouer, dis ?
+<0047> Viens jouer avec moi !
+<0048> Tu veux te battre ?
+<0049> D'ac', je relève le défi !
+<0050> Ouah, t'es courageux, dis.
+<0051> Ok, ok, on va jouer ensemble, puisque t'en as envie.
+<0052> J'vais gagner.
+<0053> Yaah !
+<0054> Toh !
+<0055> J'y vais à fond !
+<0056> Prends ça !
+<0057> Aïe !
+<0058> Ouah !
+<0059> Pas mal !
+<0060> Ouille !
+<0061> Pas possible, ma magie...
+<0062> Heeein ? C'est impossible !
+<0063> Oh non... J'ai rien d'autre que ma solidité pour me sauver.
+<0064> Ouah ! C-c-c'est pas possible...!
+<0065> C'est pas passé loin !
+<0066> J'ai presque eu peur !
+<0067> Ouahh !
+<0068> Hé, fais gaffe !
+<0069> C'était marrant !
+<0070> Youpi !
+<0071> Ah, je me suis bien marrée.
+<0072> Hihihi, désolée.
+<0073> J'peux pas y croire...
+<0074> Non... j'ai perdu...
+<0075> Pff... j'suis dégoûtée.
+<0076> Trop fort...
+<0077> Ouah ! Trop bien !
+<0078> C'est trop génial !
+<0079> Ouaiiis ! Ouais ! Ouais !
+<0080> Youpi ! Des étoiles !
+<0081> Quooii ?
+<0082> Non, attendez ! Non...
+<0083> J'ai fait une bêtise...
+<0084> Ouiiin !
+<0085> J'aurais dû faire gaffe !
+<0086> Hein ? C'est trop méchant !
+<0087> Un piège !?
+<0088> C'est horrible !
+<0089> Ouah, il fait froid dans le dos.
+<0090> Il a pas l'air commode...
+<0091> V'là le plat de résistance...
+<0092> J'baisse ma garde une seconde, je suis fichue...
+<0093> J'vais chercher les étoiles !
+<0094> Laissez-moi faire ! Je vais en trouver plein !
+<0095> Hein, des étoiles ? Aucun problème !
+<0096> À la fin, j'aurai toutes les étoiles !
+<0097> On va jouer autant que possible !
+<0098> Personne peut résister à mes pouvoirs magiques !
+<0099> 'faut bien faire du sport, des fois !
+<0100> J'ai tout le corps qui bouillonne !
+<0101> Moi c'est Miusaki !
+<0102> Tu veux qu'on fasse ça ensemble ? Ouais, ce serait cool !
+<0103> Je commençais à mourir d'ennui ! Allez, on joue !
+<0104> Je vais faire de mon mieux !
+<0105> Et c'est parti !
+<0106> On commence !
+<0107> On va bien s'amuser !
+<0108> On peut enfin commencer !
+<0109> Hein, j'ai gagné ? Trop bien !
+<0110> Trop contente... Hihihi.
+<0111> C'était marrant ! Hé, vous voulez rejouer ?
+<0112> J'me suis bien marrée !
+<0113> Un avis sur celui-là ?
+<0114> Tiens, j'ai trouvé ça pour toi !
+<0115> Alors, t'en penses quoi ?
+<0116> J'espère que ça te plaît...
+<0117> On peut échanger, steuplaît ?
+<0118> Merci bien !
+<0119> High-five !
+<0120> J'arrête là pour le moment...
+<0121> Ok !
+<0122> Super.
+<0123> Je m'en occupe !
+<0124> Non.
+<0125> Oh, hmm...
+<0126> Trop de la chance !
+<0127> Hmeein ?
+<0128> C'est partiii !
+<0129> Jet de dés !
+<0130> Allez ! Tu peux le faire !
+<0131> Yo !
+<0132> Hm... Hm...
+<0133> Ouais ! Bravo !
+<0134> Oh ! Incroyable !
+<0135> Grrrrr... purée !
+<0136> C'est à qui, cette magie ?
+<0137> Ça fait quoi, ça...?
+<0138> Je connais pas cette magie... 'faut que j'essaie.
+<0139> Qu'est-ce que ça fait, ça ? J'veux voir !!
+<0140> Téo, t'es encore enragée ou quoi ?
+<0141> Téo ! Calme-toi, par pitié !
+<0142> Pourquoi t'as pas dit dès le début que tu voulais jouer ?
+<0143> Ghhh... Téo, t'es complètement folle.
+<0144> Hein ? Tu veux jouer avec moi ? Ouais, bien sûr !
+<0145> Si tu veux ! Grande Sœur Miu va jouer avec toi !
+<0146> Hihi, t'es vraiment trop chou.
+<0147> Hm ? Tout va bien ? T'es perdu ?
+<0148> Tu te sens fatigué ? Tiens, prends ça.
+<0149> Je préfère quand tout le monde est en forme.
+<0150> Alors ? Tu te sens mieux ?
+<0151> Bon, d'accord, je vais te donner un peu d'énergie.
+<0152> C'est inutile !
+<0153> Aucune chance que ça me fasse mal.
+<0154> Héhéhé, je suis invincible.
+<0155> Admire la puissance de ma magie !

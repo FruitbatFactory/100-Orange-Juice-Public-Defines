@@ -1,0 +1,161 @@
+<0000> J'envoie !
+<0001> Toh !
+<0002> Yah !
+<0003> Roule !
+<0004> Je choisis celle-là !
+<0005> C'est le moment opportun !
+<0006> Ça me sera utile !
+<0007> J'envoie cette carte !
+<0008> C'est un peu mesquin, mais bon...
+<0009> Je dois poser ça là, c'est ça ?
+<0010> Un piège parfait pour ces imbéciles !
+<0011> Vous êtes pas capables d'éviter ce piège !
+<0012> Je retiendrai pas mes coups !
+<0013> Je l'ai gardée pour ce combat !
+<0014> Alors, ça t'étonne, hein ?!
+<0015> Je déploie ma botte secrète !
+<0016> Je vais régler ça vite fait !
+<0017> Je suis de retour !
+<0018> Pas si vite !
+<0019> Prêt à reprendre la course !
+<0020> Pas le droit d'abandonner !
+<0021> Le redémarrage a échoué !
+<0022> Allez, démarre, bon sang !
+<0023> Bon sang !
+<0024> Ça marche pas !
+<0025> Bouffe ça !
+<0026> Feu !
+<0027> Prends ça !
+<0028> Pas besoin de plus !
+<0029> Je suis touché !
+<0030> Zut !
+<0031> Qui me tire dessus !?
+<0032> On m'attaque !?
+<0033> C'est bon, tout va mieux.
+<0034> Une pause revigorante.
+<0035> C'est pas le moment de lâcher.
+<0036> Excuse-moi, Blue Crow...
+<0037> Gah, je ne contrôle plus rien !
+<0038> Vers où ça va !?
+<0039> Qu'est-ce qu'il se passe !?
+<0040> Les commandes ne répondent plus !
+<0041> Je m'écrase ?!
+<0042> Gh...! Je m'écrase !
+<0043> Atterrissage d'urgence !
+<0044> J'aurais dû prendre des pièces de rechange...
+<0045> Au combat !
+<0046> Je vais t'abattre !
+<0047> Cible interceptée !
+<0048> Derrière toi !
+<0049> Paré au combat !
+<0050> Allons-y !
+<0051> J'accepte ton défi !
+<0052> Apprends à rester à ta place !
+<0053> Tombe !
+<0054> J'attaque !
+<0055> Paré à tirer !
+<0056> Esquive celle-là, pour voir !
+<0057> Guh !
+<0058> J'encaisse facilement !
+<0059> On m'a touché !?
+<0060> Tu t'en tireras pas comme ça !
+<0061> Gurah !
+<0062> Gaah !
+<0063> En plein dans le mille !!
+<0064> Ça fait super mal !
+<0065> Raté !
+<0066> Ça peut pas me toucher !
+<0067> Je le voyais venir !
+<0068> J'ai bien fait de l'esquiver.
+<0069> On remet ça quand tu veux !
+<0070> Ne m'en veux pas !
+<0071> J'ai gagné !
+<0072> Tu as perdu !
+<0073> C'est ridicule !
+<0074> C'est qu'un coup de chance !
+<0075> Ça ne devait pas... se passer comme ça...
+<0076> On m'a... vaincu...
+<0077> Je m'en sors bien.
+<0078> Aah, voilà ma paie !
+<0079> Elles sont à moi !
+<0080> Qui sait combien je peux en tirer ?
+<0081> Qu'est-ce que...?!
+<0082> H-hé, attendez une minute !
+<0083> Qu'est-ce qu'il s'est passé !?
+<0084> Ah !
+<0085> Qui a fait ça !?
+<0086> Je crois que j'ai fait une erreur !
+<0087> J'ai été bête.
+<0088> Non ! Quel idiot je fais !
+<0089> Un nouvel adversaire !?
+<0090> ...Il est gigantesque.
+<0091> Je peux vivre avec un adversaire en plus.
+<0092> J'imagine que je dois abattre ce colosse ?
+<0093> La mission, c'est de ramasser des étoiles ?
+<0094> Je mérite une mission plus palpitante.
+<0095> Ça risque d'être long et pénible.
+<0096> J'apporterai autant d'étoiles que possible.
+<0097> Bien reçu !
+<0098> Je vais tous les abattre, qu'importe l'effectif !
+<0099> Il en reste encore à abattre ?!
+<0100> Je vais faire un nouveau record !
+<0101> On a besoin de nous, Blue Crow !
+<0102> Compte sur moi !
+<0103> Paré au décollage.
+<0104> J'espère qu'on m'apporte du nouvel équipement.
+<0105> On décolle, Blue Crow !
+<0106> À nous de jouer, Blue Crow !
+<0107> Vous me faites marrer !
+<0108> Décollage !
+<0109> Du gâteau !
+<0110> Tout comme prévu.
+<0111> La victoire m'appartient.
+<0112> Je suis le numéro 1 !
+<0113> Du nouvel équipement !
+<0114> Je vais l'essayer !
+<0115> On va voir ce que ça donne.
+<0116> Je ne l'avais pas, celui là.
+<0117> À ton tour !
+<0118> Tu peux y arriver !
+<0119> Je te laisse t'en charger.
+<0120> Je pourrais continuer, mais j'ai la flemme.
+<0121> Ok !
+<0122> Je m'en tire pas mal.
+<0123> Oui.
+<0124> Nan.
+<0125> Quelle camelote.
+<0126> Ça, j'aime !
+<0127> Qu'est-ce...?
+<0128> On y va, Blue Crow !
+<0129> Je compte sur toi.
+<0130> Je suis prêt !
+<0131> Salut.
+<0132> Bon sang...
+<0133> Sympa.
+<0134> Génial !
+<0135> Mon dieu, non !
+<0136> C'est pas vraiment mon style, tant pis !
+<0137> J'ai plus le choix !
+<0138> J'ai déjà vu mieux, mais ça fera l'affaire !
+<0139> J'utilise toutes les ressources !
+<0140> Encore à faire mumuse avec ton avion ?
+<0141> Tu n'es pas faite pour l'aviation !
+<0142> Tu as fait des progrès ! On remettra ça plus tard.
+<0143> Grrr... Rira bien qui rira le dernier !
+<0144> J'ai encore perdu... Impossible...!
+<0145> Reste à ta place, jeune fille !
+<0146> Reste à ta place... euh, jeune fille ?
+<0147> Je... Je suis désolé, mademoiselle !
+<0148> J'ai... j'ai encore perdu...
+<0149> Pourquoi... je ne fais que perdre ?
+<0150> On est jamais trop prudents.
+<0151> Je ne me bats jamais avec les femmes, mais...
+<0152> Je me suis fait vaincre par cette gamine...!
+<0153> Je dépasse tout le monde !
+<0154> Rhabille-toi avant de te battre, c'est indécent !
+<0155> Quelle impudeur...!
+<0156> Ton vol est encore trop lent !
+<0157> Bouge de là, gros tas !
+<0158> ...c'est toi, fillette ?
+<0159> Je te défie au combat !
+<0160> Un grem...lin !?

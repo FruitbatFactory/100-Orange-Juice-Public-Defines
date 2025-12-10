@@ -114,3 +114,15 @@ descr=Um distintivo que significa associação a uma guilda de assassinos habili
 < INVENTORY_ELIXIR >
 name=Elixir
 descr=Use para se curar completamente. Também cura o usuário de efeitos de status causados por Invasores e remove maldições de contratos na mão.
+
+< INVENTORY_HARBINGERSHIELD >
+name=Escudo Destemido
+descr=Prova de ter derrotado o Prenúncio. Usar este escudo aumenta sua bravura, reduzindo todo o dano que vier de batalhas em 1.
+
+< INVENTORY_ROGUEBLADE >
+name=Lâminas Gêmeas do Vampiro
+descr=Prova de ter derrotado o Vampiro Perdido. Usar estas lâminas lhe permite fazer acertos críticos numa taxa de 20%. (Um Acerto Crítico dobra o resultado da rolagem de ataque da unidade.)
+
+< INVENTORY_DARKCHOCOMOUSSE >
+name=Estrela de Chocolate Escuro
+descr=Prova de ter derrotado a Mousse de Chocolate Escuro. Seu poder misterioso e doçura lhe garante 3 estrelas para cada ponto de dano desferido em batalha. Seus inimigos também irão perder 3 estrelas para cada ponto de dano recebido em batalha.

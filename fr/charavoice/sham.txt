@@ -1,0 +1,160 @@
+<0000> Hop !
+<0001> Aaallez !
+<0002> Héhé.
+<0003> Hop-làà !
+<0004> Celle-là !
+<0005> À moi de jouer !
+<0006> Héhé, je joue celle-ci !
+<0007> Hmm, ça ?
+<0008> Une petite farce comme on les aime.
+<0009> Héhéhé...
+<0010> Ça, ça va ici... Ok !
+<0011> J'ai, hâte de voir, qui va bien, se le prendre ♪
+<0012> C'est partiiii !
+<0013> Pas le droit de le perdre, celui-là !
+<0014> J'y vais à fond !
+<0015> Je vais gagner à coup sûr !
+<0016> Attention, ça va piquer !
+<0017> Je me sens à bloc !
+<0018> Il en faudra plus que ça !
+<0019> Je vais devoir rattraper mon retard.
+<0020> Debout à nouveau !
+<0021> Hein ? Bizarre...
+<0022> Ghh... ça a pas marché...
+<0023> Ghhhh...
+<0024> Mhhh...
+<0025> Tah !
+<0026> Sorya !
+<0027> Hah !
+<0028> Prends ça !
+<0029> Aïe !
+<0030> Ouah !!
+<0031> Hmmhii !
+<0032> Ouaaah !
+<0033> Des premiers secours !
+<0034> Je ne peux pas baisser les bras maintenant.
+<0035> Je me sens déjà mieux.
+<0036> Je me sens prête à y retourner !
+<0037> Un portail !?
+<0038> Je vais où, là ?
+<0039> Ouaawawah !
+<0040> Non-non-non-non-non...
+<0041> Aouh.
+<0042> Pas possible...
+<0043> Aouahh...
+<0044> J'ai fait une erreur...
+<0045> Que le combat commence !
+<0046> Me voilà !
+<0047> On y va !
+<0048> Hors de mon chemin !
+<0049> Laisse-moi tranquille !
+<0050> Un ennemi !?
+<0051> Hein ? Hein !?
+<0052> Tu veux te battre ?
+<0053> Là !
+<0054> Feu !
+<0055> Attaque !
+<0056> À l'attaque !
+<0057> Gukh...!
+<0058> Aouch !
+<0059> Zut !
+<0060> Je me prends des dégâts !?
+<0061> Ouaah !
+<0062> Oh non !
+<0063> Uaaah !
+<0064> C'est pas bon...
+<0065> C'était juste !
+<0066> Esquive réussie !
+<0067> Hiii !
+<0068> C'est raté !
+<0069> Pfiou, j'ai réussi...
+<0070> Bien. On continue.
+<0071> Je m'en suis sortie...
+<0072> Pfiouu...
+<0073> On m'a vaincue...?
+<0074> Guh...
+<0075> Et zut...
+<0076> J'ai échoué...!
+<0077> Chouette !
+<0078> C'est pour moi !
+<0079> Bien, très très bien !
+<0080> Hihihi.
+<0081> Aaah !
+<0082> Sérieusement !?
+<0083> Oh non !
+<0084> Vraiment !?
+<0085> Un piège !?
+<0086> Comment j'ai fait pour tomber là-dedans ?
+<0087> Non, quelle erreur...!
+<0088> Ouah ! Pourquoi ici...?
+<0089> Il a l'air dangereux... C'est pas bon.
+<0090> Oh... je suis en mauvaise posture.
+<0091> Je crois que ça dépasse un peu mon niveau...
+<0092> Hmm, j'ai un mauvais pressentiment...
+<0093> On va en trouver plein !
+<0094> La mission, c'est d'en récolter, c'est ça ?
+<0095> Je suis très douée là-dedans !
+<0096> On part chercher des étoiles !
+<0097> Pas le choix, je dois me battre.
+<0098> Je ne me bats pas très bien, mais...
+<0099> Si telle est ma mission...
+<0100> Je me battrai comme je peux.
+<0101> Je m'appelle Sham, enchantée !
+<0102> Oui ! Enchantée !
+<0103> D'accord, on y va ensemble !
+<0104> Merci de m'avoir choisie ! On va bien s'amuser !
+<0105> C'est parti !
+<0106> Mon cœur bat la chamade.
+<0107> On va leur montrer ce qu'on sait faire !
+<0108> Ça commence !
+<0109> Ahhh, on a gagné, je suis soulagée.
+<0110> On a gagné !? Trop bien !
+<0111> Tout s'est passé à la perfection...
+<0112> Ça, c'est une belle victoire !
+<0113> T'as trouvé un truc mignon ?
+<0114> Ouah, un nouvel objet !
+<0115> Est-ce que... est-ce que c'est utile ?
+<0116> Chouette ! Tu veux l'essayer maintenant ?
+<0117> Tu peux me remplacer, s'il te plaît ?
+<0118> Tu veux bien échanger ?
+<0119> Bonne chance !
+<0120> On change de rôles !
+<0121> Ok !
+<0122> Trop bien !
+<0123> Oui !
+<0124> C'est pas fou.
+<0125> Zut !
+<0126> La chance !
+<0127> Hmm ?
+<0128> Go, go !
+<0129> J'envoie les dés !
+<0130> Gooo !
+<0131> Bonjour !
+<0132> Hmmm...
+<0133> Chouette !
+<0134> C'est incroyable ! T'es génial !
+<0135> Naaan, pourquoiii !?
+<0136> Je sais pas ce que ça fait...
+<0137> Je me demande ce que ça vaut.
+<0138> C'est vraiment en libre service ?
+<0139> J'espère que je fais pas une bêtise...!
+<0140> Ah, Sora !
+<0141> Sora est là aussi ! Ah, j'ai hâte !
+<0142> Même si c'est Sora, mon adversaire,\nje me retiendrai pas.
+<0143> Attention, Sora, je vais me donner à fond !
+<0144> Sora, battons-nous !
+<0145> Ne retiens pas tes coups !
+<0146> J'ai gagné, cette fois !
+<0147> Je vois que tu t'es pas rouillée, Sora.
+<0148> V-vous comptez pas m'attaquer par derrière, hein...?
+<0149> Hein ? Sora et... moi...? Que faites-vous ?
+<0150> Nath, viens te battre !
+<0151> Hein, tu veux m'affronter, Nath ?
+<0152> Comment j'ai fait pour gagner...?
+<0153> Je savais que tu aurais l'ascendant sur moi, Nath.
+<0154> Ouaaahh !! Cette fille est trop trop mignonne !
+<0155> Hiiiii ! T-tu veux jouer avec moi, petit lapin ?
+<0156> T-tu veux jouer avec moi ? Oui, bien sûr, avec plaisir !
+<0157> C'était amusant ! Au fait,\ntu as déjà pensé à devenir une Idol ?
+<0158> Petite, mignonne, et pourtant si forte...\nTu ferais une très bonne Idol...
+<0159> Bravo... Vous brillez de mille feux, toutes les deux...

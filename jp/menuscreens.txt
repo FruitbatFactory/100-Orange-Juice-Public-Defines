@@ -19,7 +19,6 @@ CONFIGURATION
 < MAINMENU_EXIT >
 EXIT
 
-
 < MENU_BUTTON_OK >
 OK
 
@@ -253,6 +252,15 @@ EAT
 
 < MENU_BUTTON_GAME_TAG >
 TAG
+
+< MENU_BUTTON_GAME_REINFORCE >
+援護
+
+< MENU_BUTTON_GAME_INTERCEPT >
+妨害
+
+< MENU_BUTTON_GAME_BOLSTER >
+補強
 
 < MENU_BUTTON_GAME_BOUNTY >
 BOUNTY
@@ -834,10 +842,10 @@ Steam版10周年記念プレゼント！\nアバター画面で、カードア�
 ミオの水泳レッスンで泳げるようになろう！\n新CO-OPボス「スイミングコーチ」の登場です！
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_01 >
-「スイミングコーチ」へのダメージは、全体のイベント進行度に影響します。
+「{}」へのダメージで全体のイベント進行度が上昇します。
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_02 >
-他のCO-OPボスを選んでもイベント進行度は上がります。
+他のCO-OPボスと戦った場合、イベント進行度が半分の割合で上昇します。
 
 < PLAYMENU_EVENT_SUMMER2021_INSTRUCTION_COMPLETE >
 トモモが泳げるようになりました！\nイベントクリアとなりましたが、「スイミングコーチ」とはもっと練習できますよ！
@@ -1022,6 +1030,12 @@ CO-Oモード\n①ボスの手下をダウンさせる\n②高い難易度でボ
 < PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_12 >
 最強のタッグチームを作って、100おれチャンピオンを目指しましょう！
 
+< PLAYMENU_EVENT_SUMMER2025_INSTRUCTION_MAIN >
+スターブレイカー、トマト、みみゅうが海で大暴れ！　新CO-OPイベント「トラブルメーカーズ」開催！
+
+< PLAYMENU_EVENT_SUMMER2025_INSTRUCTION_COMPLETE >
+おめでとうございます！　1日に及ぶ戦いの末、トラブルメーカーズ自身にトラブルが起きて、世界は救われました！
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 次の目標：
 
@@ -1085,6 +1099,9 @@ CO-Oモード\n①ボスの手下をダウンさせる\n②高い難易度でボ
 
 < MENU_COOPCLASS_DEALER >
 ディーラー
+
+< MENU_COOPCLASS_VANGUARD >
+ヴァンガード
 
 < MENU_COOPUNLOCK_LEVEL >
 レベル%d： %s
@@ -1292,6 +1309,9 @@ OJDexではユニットのプロフィールを確認できます。
 
 < MENU_CODEXSTORY_TITLE_CONCIERGE >
 コンシェルジュ
+
+< MENU_CODEXSTORY_TITLE_ALTENICO >
+夜空の下の宝物
 
 < MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
 {1}で{0}ゲームをプレイする。

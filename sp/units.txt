@@ -131,6 +131,22 @@ descr=
 name=Nadadaro
 descr=Recibe -1 MOV.
 
+< CARD_UNIT_BOSS_BIG_THE_BREAKER >
+name=La Temible Trituradora de Playas
+descr=Habilidad especial: Quemar. Duración: 3 Capítulos. Otra unidad que empiece o termine su turno en un panel Quemado recibe 1 punto de daño.\nRecibe +1 DEF cuando un aliado es noqueado.
+
+< CARD_UNIT_BOSS_BIG_THE_BUILDER >
+name=Creadora de Playas
+descr=Recibe +1 DEF cuando un aliado es noqueado.
+
+< CARD_UNIT_BOSS_SMALL_THE_GREMLIN >
+name=Destructora de Playas
+descr=Recibe +1 DEF cuando un aliado es noqueado.
+
+< CARD_UNIT_BOSS_TROUBLEMAKERS >
+name=Alborotadoras
+descr=
+
 < CARD_UNIT_CHICKEN >
 name=Gallina
 descr=

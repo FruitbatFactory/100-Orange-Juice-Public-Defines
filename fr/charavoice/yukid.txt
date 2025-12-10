@@ -1,0 +1,161 @@
+<0000> Hop-là.
+<0001> Ora.
+<0002> Allez.
+<0003> Hop.
+<0004> Je vais faire ça.
+<0005> Allons-y !
+<0006> Allez, une carte. Pas de chichi.
+<0007> Allez, je choisis ça !
+<0008> Hi-hi-hi.
+<0009> Je pose un petit rien ici...
+<0010> Je sens que ça va être amusant.
+<0011> Allez, un piège.
+<0012> Kuhihi.
+<0013> Prépare-toi !
+<0014> Je compte pas me retenir.
+<0015> Prends ça !
+<0016> Gahahahaha ! Craignez-moi !
+<0017> Et voilà !
+<0018> Il était grand temps de se relever.
+<0019> Allez, fini de se reposer.
+<0020> Ça ne fait que commencer.
+<0021> Hein ? Vraiment ?
+<0022> Grr... hein ?
+<0023> Sérieux ?
+<0024> Oh, mais quelle plaie.
+<0025> Tiens !
+<0026> Shaahh !
+<0027> Atah !
+<0028> Uryah !
+<0029> Gah !
+<0030> Pas mal.
+<0031> Merde !
+<0032> Guh !
+<0033> Très utile, merci.
+<0034> Oh, c'est sympa.
+<0035> Ça fait du bien.
+<0036> Pas mal.
+<0037> Ouaah !?
+<0038> Owawah.
+<0039> Miaaaa !
+<0040> C'est quoi, ça !?
+<0041> Guhhh...!
+<0042> Impossible...
+<0043> Comment c'est possible ?
+<0044> Uguguh...
+<0045> Pfahaha !
+<0046> On y va !
+<0047> Trouvé !
+<0048> Viens te battre !
+<0049> T'en as, du cran, toi.
+<0050> Quoi, tu veux te battre ?
+<0051> Vas-y, viens te battre.
+<0052> T'es sûr de vouloir m'affronter...?
+<0053> Ora !
+<0054> Prends ça !
+<0055> Seï !
+<0056> Yah !
+<0057> Tsk !
+<0058> Aïe !
+<0059> Kuhhh...!
+<0060> Ça fait mal...!
+<0061> Gyaah !
+<0062> Guaaarrh !
+<0063> C'est quoi ton problème, ordure !?
+<0064> Bueeehh !
+<0065> Vise un peu comment j'esquive !
+<0066> Aucune chance que ça me touche.
+<0067> Hop.
+<0068> Hmpf. Trop lent.
+<0069> Ça finit toujours comme ça.
+<0070> *soupir* C'était pathétique.
+<0071> J'espérais que tu fasses quelques efforts.
+<0072> Trop faible.
+<0073> Co... comment ça...
+<0074> J'ai perdu...
+<0075> J'ai manqué de prudence...!
+<0076> Je peux pas y croire...
+<0077> C'est à moi.
+<0078> Je prends.
+<0079> Je prends tout, merci.
+<0080> Bien, très bien.
+<0081> Hé, attendez !
+<0082> J'ai fait une bêtise.
+<0083> C'est stupide !
+<0084> Zut !
+<0085> Espèce de...!
+<0086> Q-qu'est-ce que ça fait là !?
+<0087> Hein ? Qui a fichu ça ici !?
+<0088> Bon sang !
+<0089> Oh, sympa.
+<0090> Hm, ça m'a l'air intéressant.
+<0091> Je vois que ça s'échauffe, par ici.
+<0092> Et le voilà.
+<0093> Je vais me trouver toutes les étoiles du monde.
+<0094> Je vais me faire une jolie petite fortune.
+<0095> Héhéhé, l'argent fait tourner le monde.
+<0096> J'en veux beaucoup...
+<0097> À genoux devant mon pouvoir.
+<0098> C'est la force qui compte.
+<0099> J'ai les griffes qui me démangent.
+<0100> Battons-nous sans retenues.
+<0101> Tu penses avoir les épaules pour me rejoindre ?
+<0102> Allez. Sur ce, on y va.
+<0103> Bon, bon. Qu'est-ce que je vais faire, moi ?
+<0104> On joue pour s'amuser, hein.
+<0105> Que la partie commence.
+<0106> Héhé, c'est moi qui vais gagner.
+<0107> Allez, c'est parti.
+<0108> Je vais gagner les doigts dans le nez.
+<0109> Ma foi, rien de bien surprenant.
+<0110> Vous êtes tous mes serviteurs, maintenant.
+<0111> C'était trop facile, héhéhé.
+<0112> Héhé, tout comme prévu.
+<0113> Hmm... Oui, c'est pas mal.
+<0114> Une belle trouvaille !
+<0115> Maintenant, c'est à nous !
+<0116> Ooooohhh !
+<0117> Tiens, je te laisse ma place.
+<0118> Allez, on échange.
+<0119> Je te laisse t'occuper du reste.
+<0120> Bonne chance.
+<0121> Soit.
+<0122> Ouah.
+<0123> D'accord !
+<0124> Non, non.
+<0125> Hein ?
+<0126> On est en veine.
+<0127> Pardon ?
+<0128> Allons-y.
+<0129> Allez, roule.
+<0130> Allez, allez !
+<0131> Yo.
+<0132> Hmaaah ?
+<0133> Oh, bien joué.
+<0134> C'est encore mieux que prévu, bravo.
+<0135> Bordel !
+<0136> Je sais pas du tout ce que c'est !
+<0137> Ton pouvoir m'appartient !
+<0138> C'est pas à moi, mais qu'est-ce que ça change ?
+<0139> Première fois que je vois une carte pareille !
+<0140> Excellent.
+<0141> QP... non, qui es-tu !?
+<0142> T'es... t'es devenu un garçon ?
+<0143> C-c'était qui ce mec ?
+<0144> J'étais trop surprise...
+<0145> Héhéhé ! Je contrôle le plateau, maintenant !
+<0146> Vous pourrez plus vous défiler, maintenant !
+<0147> Voilà l'étendue de mes pouvoirs !
+<0148> Héhé, je vous conseille de fuir.
+<0149> Ça sent fort le chien...
+<0150> Toi, t'as vraiment l'air méchante, pour le coup.
+<0151> Tss, tu sens les ennuis.
+<0152> Maintenant, tu sais qui est le meilleur méchant de l'histoire.
+<0153> Tss... t'es qui au juste...?
+<0154> Sale tas de ferraille !
+<0155> Tu oses me trahir, moi !?
+<0156> Maintenant, sois sage et retourne à ta place.
+<0157> Les serviteurs se révoltent...?
+<0158> Tu seras mon repas.
+<0159> Oh, très intéressant.
+<0160> La dératiseuse est arrivée.

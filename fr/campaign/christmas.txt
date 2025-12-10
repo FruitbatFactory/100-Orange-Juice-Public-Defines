@@ -1,0 +1,74 @@
+<0000> Hé, <player> ! C'est Noël !
+<0001> Tous les enfants du monde attendent leurs cadeaux avec impatience.
+<0002> Je me suis arrangée pour que tout soit prêt à temps. C'était dur, mais ça vaut toujours le coup en voyant combien les enfants sont heureux.
+<0003> Toi aussi, tu peux avoir un cadeau, bien sûr ! Tiens, prends celui que tu veux.
+<0004> Tiens ! Alors, t'en penses quoi ?
+<0005> Attends... il est vide !
+<0006> Hmm... peut-être que tu n'as pas été sage ?
+<0007> Non, attends ! Ils sont tous vides ! Tous les cadeaux ont disparu !
+<0008> Quelqu'un a glissé une note à l'intérieur d'un des paquets. Voyons un peu.
+<0009> < Cadeaux gracieusement volés par la LOUBARDIE\nP.S. La Mère Noël est une cruche >
+<0010> ...Ouaah !! Encore ces brutes !?
+<0011> ...Hm ? Tout va bien, Aru ?
+<0012> Rennon ! Quelqu'un a volé tous les cadeaux ! Tu peux retrouver leur piste avec ton flair ?
+<0013> Je vais essayer.
+<0014> *sniff sniff*
+<0015> Trouvé ! J'ai une piste qui devrait nous amener aux cadeaux !
+<0016> Génial ! Allons-y, récupérons les cadeaux !
+<0017> <player>, ça ne te dérange pas de nous aider ? Ensemble, on peut sauver Noël !
+<0018> Bonne nouvelle, <player> ! On a trouvé la cachette de la Loubardie !
+<0019> Partons récupérer nos cadeaux !
+<0020> Leur cachette doit être par ici...
+<0021> Pas de doute, on est très proches.
+<0022> Ah, c'est bon ! Les voilà !
+<0023> Tiens, Mère Noël !
+<0024> Il t'en aura fallu, du temps, tiens.
+<0025> Bienvenue à notre petite fête, Mère Noël ! Tu peux rester, mais on garde les cadeaux.
+<0026> Pas question ! Ces cadeaux appartiennent aux enfants sages partout dans le monde !
+<0027> Négatif. Cette année, on change les règles.
+<0028> Exactement. Seuls les enfants pas sages auront des cadeaux !
+<0029> Ouais, c'est nous !
+<0030> Fête de cadeaux ! Youpi !
+<0031> Non, non et non ! Ça ne marche pas comme ça ! Rendez-moi les cadeaux tout de suite !
+<0032> Aru, calme-toi. Si tu peux leur expliquer pourquoi c'est si important, on pourrait régler ça pacifiquement.
+<0033> Tu as raison, Rennon... J'ai la situation en main.
+<0034> Dit-elle, après avoir perdu ses cadeaux sans même s'en rendre compte.
+<0035> T'es à la fois bête et débile. Y'a rien à garder !
+<0036> Boouh, débiiiile !!
+<0037> Guh...
+<0038> T'as perdu ta langue ? Si tu veux, j'ai un très bon remède.
+<0039> Ce serait du gâchis. Cette Mère Noël est bête comme un chien, aucun médicament ne peut la sauver.
+<0040> Ok, vous l'aurez voulu ! Vous allez goûter à l'esprit de Noël à l'ancienne !
+<0041> ...On laisse tomber le plan pacifique, alors ?
+<0042> Quelle défaite pitoyable...
+<0043> C'est la deuxième fois que j'ai droit à ça...
+<0044> Le lapin rouge... terrifiant, horrible...
+<0045> C'est mes vêtements qui sont rouges ! On pourrait dire la même chose de toi !
+<0046> Bon, ça va sans dire, mais rendez-moi les cadeaux, maintenant. Sains et saufs.
+<0047> Pfff. Vas-y, prends-les. Je m'en fiche.
+<0048> P-patronne ! On aura plus de cadeaux, nous !
+<0049> Pas de fête de cadeaux !
+<0050> C'était très vilain de voler les cadeaux...
+<0051> Surtout que j'avais des cadeaux pour vous, à la base !
+<0052> Heeiiin !?
+<0053> Yuki, c'est ça ? Tiens, c'est pour avoir aidé une amie à moi.
+<0054> J-j'ai rien demandé, mais bon...
+<0055> Tomato et Mimyuu, tenez ! En échange, promettez-moi de rester aussi fidèles l'une envers l'autre !
+<0056> Ouais, on est les meilleures amies du monde ! On peut avoir les cadeaux, alors ?
+<0057> Ouiii, j'ai un cadeau ! *boum*
+<0058> Et enfin, Kiriko. Je tenais à m'excuser pour t'avoir accusée à tort...
+<0059> J'espère que c'est du poison, ou un médicament dangereux !
+<0060> J'avais aussi un cadeau pour Krilalaris. Elle est avec vous ?
+<0061> Elle doit être au cirque en ce moment même.
+<0062> Donne-le à Mimyuu ! Elle lui donnera le cadeau après !
+<0063> D'accord, mais... garde-le en un morceau, s'il te plaît !
+<0064> Et voilà, c'est tout bon... Essayez d'être plus sages, l'année prochaine !
+<0065> Ho-ho-ho ! Joyeux Noël !
+<0066> Eh beh. Comme on dit, le temps ne fait rien à l'affaire.
+<0067> Mais tout est bien qui finit bien.
+<0068> Merci de nous avoir aidés à sauver Noël, <player> ! Tiens, ton vrai cadeau !
+<0069> Moi, je dois me dépêcher, il me reste encore tous ces cadeaux à livrer...
+<0070> Les enfants attendent leurs cadeaux avec impatience... Et j'ai rendez-vous avec une amie.
+<0071> Je vais avoir besoin d'aide, donc je compte sur toi, Rennon !
+<0072> Bien reçu ! On part à toute vitesse !
+<0073> Ensemble, on va protéger les rêves de tous les enfants du monde !

@@ -1,0 +1,305 @@
+<0000> La La La Laaa.
+<0001> Aujourd'hui, c'est pudding !
+<0002> Pudding demain, pudding après-demain, pudding tous les jours.
+<0003> Popoooh.
+<0004> *Po-po-po-po* !
+<0005> Stop !
+<0006> *Po-po-po-po* !
+<0007> Q-qu'est-ce qui se passe ?
+<0008> Po !?
+<0009> Poppo !
+<0010> C'est quoi, cette bestiole ?
+<0011> Hé, toi, là, aux oreilles de chien ! Arrête cette fille !
+<0012> Hein ? Hein ?
+<0013> Poooou !
+<0014> *Hop-là* !
+<0015> Oh non !
+<0016> Poppo a du pudding !
+<0017> M-mon pudding !!
+<0018> Poppo s'enfuit avec !
+<0019> Noooon !
+<0020> Il n'en est pas question !
+<0021> Popoo !
+<0022> Rends-moi mon pudding !
+<0023> Refusé, Poppo!
+<0024> Vous avez l'air de vous amuser.
+<0025> J'ai pas le temps de jouer toi, Yuki !
+<0026> Reviens un autre jour !
+<0027> D-d'accord ?...
+<0028> Elle se prend pour qui, cette QP, à la fin...
+<0029> Mais qu'est-ce que tu fais ? Poppo approche, arrête-la !
+<0030> Compris !
+<0031> Poppo !
+<0032> Ta-da ! J'ai gagné !
+<0033> Poppo a perdu.
+<0034> Dès que du pudding est en jeu, elle devient féroce.
+<0035> Maintenant, tu dois nous rendre ce que tu nous as volé.
+<0036> Oui ! Rends-moi mon pudding !
+<0037> Non ! Poppo !
+<0038> Vraiment pas ?
+<0039> Disparition Poppo !
+<0040> Aaaaaah !
+<0041> Au fait, Kai...
+<0042> Qu'est-ce qu'elle t'a volé, au juste ?
+<0043> Mon portefeuille.
+<0044> Aïe.
+<0045> C'est là que je range mes papiers et mon argent.
+<0046> C'est une question de vie ou de\nmort !
+<0047> Il faut absolument qu'on le récupère, alors !
+<0048> Ouaip.
+<0049> Où est partie Poppo, au fait ?
+<0050> Poppo !
+<0051> Là ! Je viens de l'entendre !
+<0052> Popoo !
+<0053> Regarde, là bas ! Elle est dans cet avion !
+<0054> On dirait qu'il est sur le point de décoller !
+<0055> Qu'est-ce que j'ai fait pour mériter ça...?
+<0056> Dépêche-toi, Poppo.
+<0057> D'accord, d'accord.
+<0058> Hé ! Blue Crow !
+<0059> Po ?
+<0060> Red Barrel ?
+<0061> Tu peux pas emmener une si petite fille dans ton avion ! Et si tu avais un accident ?
+<0062> Je peux tout expliquer !
+<0063> Allez, décolle ! Poppo !
+<0064> Et toi ! Descends de là, maintenant !\nC'est pas un jouet !
+<0065> Non, Poppo.
+<0066> C'est le moment d'intervenir !
+<0067> Tout juste !
+<0068> Prépare-toi, Poppo !!
+<0069> Hein ? Hein ?
+<0070> Poppo va gagner !
+<0071> Ta-da ! On a gagné !
+<0072> Poppo a perdu...
+<0073> J'ai perdu...
+<0074> Sors de cet avion tout de suite.
+<0075> D'accord Poppo.
+<0076> Pour une fois qu'elle obéit.
+<0077> Maintenant, rends-moi mon\npudding !
+<0078> Non, Poppo.
+<0079> Espèce de... D'accord, tu l'auras voulu !
+<0080> Non ! Attendez !
+<0081> Et pourquoi !?
+<0082> Ça pourrait faire exploser la roquette.
+<0083> Quelle roquette ?
+<0084> Ta-da !
+<0085> Oh... oh non !
+<0086> C'est le missile de Red Barrel !
+<0087> Exact. Elle s'en est servi pour me menacer.
+<0088> Poppo, c'est très dangereux. Repose-le.
+<0089> Poppo veut pas !
+<0090> Et voilà qu'elle s'enfuit à nouveau !
+<0091> On va pas te laisser filer !
+<0092> Mon missile... Il faut que je le récupère à tout prix !
+<0093> On a passé la journée à courir après Poppo. Il commence à faire nuit et on la cherche encore...
+<0094> J'avoue que je commence à fatiguer.
+<0095> On ne peut pas abandonner !
+<0096> Précisément ! On ne peut pas abandonner le pudding !
+<0097> Coucou.
+<0098> Qui va là ?
+<0099> Vous devriez déjà être au lit à l'heure qu'il est !
+<0100> R-regardez ses vêtements...
+<0101> Mère Noël !?
+<0102> Oui ! Je distribue des cadeaux aux enfants sages !
+<0103> Je pensais que ce n'était qu'une légende urbaine...
+<0104> Au fait, Madame Noël.
+<0105> Oui ? Tu voulais un cadeau en particulier ?
+<0106> Non, c'est pas ce que je...
+<0107> Popoou !
+<0108> Là ! Poppo !
+<0109> Aaah !!
+<0110> Poppo a des cadeaux !
+<0111> Elle a pris le sac entier !
+<0112> Oh non ! Qu'est-ce que je vais\nfaire ?!
+<0113> Ne vous en faites pas !
+<0114> Oui, QP ?
+<0115> Je vais vous ramener tous les cadeaux, c'est promis.
+<0116> Elle a l'air si déterminée, tout à coup...
+<0117> Merci, QP.
+<0118> En échange, je veux 30% de cadeaux en plus !
+<0119> Je me doutais de l'arnaque !
+<0120> Vous avez encore l'air de vous amuser.
+<0121> Yuki !? Tu veux pas nous laisser tranquille...?
+<0122> J'ai du temps libre. Je vous rejoins.
+<0123> Que quelqu'un me ramène mes cadeaux, je vous en supplie !
+<0124> Shalalalaaan ! Victoire !
+<0125> Défaite, défaite.
+<0126> C'est pas mon jour de chance.
+<0127> Poppo... Cette fois, tu ne t'en sortiras pas.
+<0128> Encerclez-la !
+<0129> Et maintenant, ne bouge plus !
+<0130> Muaa.
+<0131> Maintenant !
+<0132> Inutile !
+<0133> Elle a disparu !?
+<0134> Comment !?
+<0135> Je viens de me rappeler qu'elle était douée de ce genre de pouvoirs.
+<0136> On ne pourra jamais la rattraper.
+<0137> Ne vous en faites pas !
+<0138> ?
+<0139> J'ai beau avoir l'air humaine, je suis à moitié chien.
+<0140> Je peux la retrouver avec mon odorat hors pair !
+<0141> QP, tu es vraiment pleine de surprises.
+<0142> C'est par là.
+<0143> Allons-y !
+<0144> *renifle, renifle*...
+<0145> (On est très proches de Poppo, pas l'ombre d'un doute !)
+<0146> (Où est-elle...)
+<0147> Poppopo !
+<0148> (Là ! La voilà !)
+<0149> Je n'ai jamais vu de telle créature... Comment t'appeles-tu ?
+<0150> Marie Poppo.
+<0151> (Elle est avec quelqu'un.)
+<0152> Marie... Tu veux danser avec moi ?
+<0153> Poppo !
+<0154> (On va l'approcher discrètement...)
+<0155> (Compris !)
+<0156> Une présence !
+<0157> Voilà beaucoup... d'inconnus.
+<0158> Elles nous ont remarqués beaucoup trop vite !
+<0159> Poppo est douée... Ses oreilles animales ont dû l'aider à nous repérer.
+<0160> On a encore perdu...?
+<0161> Poppo ! Poppopo !
+<0162> Ce sont des amis à toi, Marie ?
+<0163> Pas vraiment.
+<0164> Dans ce cas, je vais avoir besoin d'une amie à moi.
+<0165> Suguri ?
+<0166> Qu'il y a-t-il ?
+<0167> Ouah ! D'où elle sort, elle ?
+<0168> De nulle part, je dirais. Quelle vitesse incroyable.
+<0169> Je vous entends, vous savez.
+<0170> Avec Marie, on parlait de réunir du monde et de jouer tous ensemble.
+<0171> Tu as du temps libre, Suguri ?
+<0172> Tu pourrais venir avec nous, si tu veux.
+<0173> Bien sûr, pas de problème.
+<0174> On dirait qu'il va falloir jouer avec elles.
+<0175> Oui... Et on pourrait profiter de la distraction pour attraper Poppo...
+<0176> Et comme ça, on récupère nos affaires !
+<0177> Magnifique !
+<0178> Poppopo !
+<0179> Eh bien sur ce, allons-y.
+<0180> Poppo !!
+<0181> Youpi ! J'ai gagné !
+<0182> Popo...
+<0183> C'est toujours un plaisir de jouer avec autant de gens.
+<0184> Oui, ça fait bien une éternité que je n'ai pas passé de temps à jouer.
+<0185> QP.
+<0186> Oui, Marc?
+<0187> C'est moi, où on s'est laissés distraire par la partie ?
+<0188> Oh non !!
+<0189> Il n'y a que moi qui ai la tête sur les épaules, ou quoi ?
+<0190> Qu'est-ce qu'on va faire ?
+<0191> On a bien vu qu'encercler Poppo ne marchait pas... Il nous faut une nouvelle approche...
+<0192> Po... Po... Po.
+<0193> Hm ?
+<0194> Quelque chose ne tourne pas rond.
+<0195> Tu as de la fièvre ?
+<0196> Poooooo !!!!!
+<0197> Ouaaah !! Qu'est-ce qu'il se\npasse ?!
+<0198> On est où, là ?
+<0199> On a atterri dans un monde complètement différent.
+<0200> Il fait vraiment sombre...
+<0201> J'ose pas imaginer l'enfer d'y voler en avion.
+<0202> Poppo !
+<0203> Poppopo.
+<0204> Voilà Poppo !
+<0205> C'est la dernière fois que tu nous échappes... Attends.
+<0206> Il y a un problème, là...
+<0207> Popo ?
+<0208> Popoo.
+<0209> J'ai la berlue, où il y a deux\nPoppos ?
+<0210> Oh non ! Comment je vais faire pour savoir laquelle a mon\npudding ?
+<0211> C'est vraiment le plus gros de nos problèmes !?
+<0212> Nouvelle créature découverte...
+<0213> Qui c'est !?
+<0214> Tu es mignonne...
+<0215> Poppo est toute gênée.
+<0216> Poppopo. Mais Poppo est plus mignonne que toi.
+<0217> C'est pas vrai ! Poppo est la plus mignonne !
+<0218> Poppopo !
+<0219> Poppopo !!!
+<0220> Elles se battent entre elles...
+<0221> Elles vont se faire mal si ça continue !
+<0222> D'autant que l'une d'elles a encore le missile.
+<0223> Ça leur exploserait à la figure !
+<0224> Ça commence à devenir dangereux.
+<0225> Arrêtons-les, vite !!
+<0226> On a frôlé la catastrophe.
+<0227> Vous ne devriez pas vous battre.
+<0228> Pooh.
+<0229> Popoooh.
+<0230> Vous êtes toutes les deux mignonnes.
+<0231> Popooh.
+<0232> Popooh.
+<0233> Voilà qui est réglé...
+<0234> On est loin d'en avoir terminé !
+<0235> D'abord, pourquoi est-ce qu'il y a deux Poppos ?
+<0236> Et comment va-t-on récupérer nos affaires ?
+<0237> Ah.
+<0238> Poppo.
+<0239> Pas de soucis-ppo.
+<0240> Hein ?
+<0241> Tout va se résoudre au prochain niveau.
+<0242> Qu'est-ce ça veut di...
+<0243> Ah ! Qu'est-ce qu'il se passe encore ?
+<0244> Le monde est en train de changer.
+<0245> On dirait presque qu'un boss s'apprête à surgir !
+<0246> C'est un monde complètement différent !
+<0247> On se croirait dans un combat final.
+<0248> Je sens arriver un désastre imminent.
+<0249> Ça me donne les chocottes...
+<0250> Tout est si instable...
+<0251> Poppo !
+<0252> Poppo !?
+<0253> Bienvenue, Ô esprits aventureux !
+<0254> C'était qui... le Roi Démon !?
+<0255> O-hohoho ! Précisément !
+<0256> Je suis Tomomo, la Grande Reine des Ténèbres !
+<0257> Hein ?
+<0258> C'est... euh...
+<0259> Quel est ce sentiment de...\ndéception ?
+<0260> Je m'attendais à quelque chose de bien plus terrible...
+<0261> Ahaha...
+<0262> Je ne ressens pas une once de charisme !
+<0263> C'est de la publicité mensongère !
+<0264> Raaaah !\nC'est fini, les insultes, oui !?
+<0265> Qu'on soit bien clairs ! C'est moi qui ai créé ce monde, ainsi que vous tous !
+<0266> Ouais ! Ça, c'est une réplique de dernier boss !
+<0267> Vous n'êtes que de pions, conçus à l'effigie de héros d'autres mondes.
+<0268> Et en tant que dernier boss, j'apparais glorieuse sous vos yeux ébahis.
+<0269> C'est ça, mon plan !
+<0270> Quoi ?
+<0271> C'est perché, comme plan !
+<0272> Vous avez pas les compétences pour être un boss final !
+<0273> Silence !
+<0274> Je n'ai qu'à vous montrer mes pouvoirs, vous comprendrez qui je suis vraiment !
+<0275> Moi, Tomomo, je vais tous vous anéhantir, et vous verrez l'étendue de mon charisme !
+<0276> Shalalalaan ! Victoire !
+<0277> C'est pas possible...
+<0278> Désolé, mais...
+<0279> Il faut vous rendre à l'évidence.
+<0280> Je me sens mal pour elle.
+<0281> Moi aussi.
+<0282> Je ne veux pas de votre pitié !
+<0283> Avant que tu commences à pleurer, il te reste une chose à faire.
+<0284> Rends-moi mon pudding !
+<0285> QP est vraiment impitoyable...
+<0286> Je... D'accord..
+<0287> Poppo, rends-leur ce que tu leur as volé.
+<0288> Poppo !
+<0289> Youpi !
+<0290> Mon portefeuille ! Je peux tenir encore un mois ou deux.
+<0291> Enfin... Je peux continuer mon travail.
+<0292> Je dois rentrer à la maison sur-le-champ !
+<0293> Ravie que tout soit réglé.
+<0294> Maintenant que j'ai mon pudding, plus de raisons de flâner !
+<0295> Je rentre à la maison savourer mon pudding !
+<0296> Hé ! Attends une seconde !
+<0297> Pas le temps d'attendre !
+<0298> J'avais encore des choses à dire...
+<0299> Yaaaaaahh !
+<0300> Elle est partie...
+<0301> Chez QP...
+<0302> J'ai eu tellement de mal à récupérer ce pudding... ça rajoute tellement de goût.
+<0303> *savoure*
+<0304> Encore une belle journée.

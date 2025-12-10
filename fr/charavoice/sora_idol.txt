@@ -1,0 +1,115 @@
+<0000> Ça marche.
+<0001> Un, deux, trois.
+<0003> Ey !
+<0004> Je dirais que c'est une bonne idée.
+<0005> Oui, allons-y.
+<0006> Sham, on devrait essayer ça.
+<0007> On peut jouer celle-là ?
+<0008> Ahhh...!
+<0009> C-c'est méchant, non ?
+<0010> Pourquoi pas celui-ci ?
+<0011> J'ai l'impression de faire quelque chose de mal...
+<0013> Oui !
+<0014> Avec toi, Sham, je pourrais peut-être...
+<0015> Je vais essayer.
+<0016> Regardez...!
+<0017> Tout va bien, Sham ?
+<0018> Merci beaucoup.
+<0019> On est pas là pour abandonner.
+<0020> Je ferai de mon mieux !
+<0023> Je peux... encore danser...
+<0024> Houff... Pffou...
+<0025> Comme à l'entraînement...!
+<0026> C-comme ça ?
+<0028> Oui, je m'en occupe !
+<0031> Aïe...
+<0032> Je perds l'équilibre...
+<0034> Aaaaah.
+<0035> Sham, ouvre la bouche.
+<0036> Moi non plus.
+<0037> Sham, prends ma main.
+<0038> U-un portail ?
+<0040> C'est une blague, c'est ça ?
+<0041> D'accord...
+<0042> Sham, tout va bien ?
+<0043> Non, c'est moi...
+<0044> Ohh...
+<0047> Ça te dirait... un combat de chant ?
+<0048> Un combat à armes égales.
+<0051> E-euh, on m'a dit que les Idols devaient pas se battre...
+<0052> Je suis prête pour le concours de danse... J'ai le trac.
+<0053> Tiens !
+<0054> Hah !
+<0055> Oui !
+<0056> Sham !
+<0059> Pueh !
+<0060> Ouah !
+<0063> Mes vêtements vont être tout chiffonnés...
+<0064> Tu vas complètement me décoiffer...
+<0067> En rythme avec la musique.
+<0068> Je me sens toute légère.
+<0069> ...les "Ultimate Weapon Girls" !
+<0070> ...la lumière étincelante !
+<0071> Ça devient vraiment amusant.
+<0072> O-on a réussi, finalement ?
+<0075> Pauvre de moi...
+<0076> Désolée...
+<0079> Elles brillent...
+<0080> Tiens, Sham, j'en mets une dans tes cheveux.
+<0083> Les étoiles ont disparu...
+<0084> Hii... J'y crois pas...
+<0085> Sham, attention !
+<0086> Hein ? Oh non !
+<0088> Je crois qu'on doit éviter ça à tout prix...
+<0090> Bien dit, Sham...
+<0091> Quelque chose vient de sortir.
+<0092> Les Idols ne fuient jamais face au danger, c'est ça ?
+<0095> On va en trouver autant que possible !
+<0096> J'ai le droit de briller, moi aussi ?
+<0099> Des Idols qui se battent... Ça pourrait marcher, non ?
+<0100> Toutes les Idols font ça dans leurs carrières ?
+<0101> Merci...
+<0102> J'ai vraiment le trac...
+<0103> Sham, je sais pas si je peux y arriver.
+<0104> Je sais pas si je suis assez belle pour ça...
+<0106> Ah- !? Mais, je suis pas prête...
+<0107> Haahh... haaah...
+<0108> Je ferai de mon mieux... en tant qu'Idol !
+<0111> Hahh... M-merci beaucoup, tout le monde !
+<0112> Je me sens vraiment comme une Idol, maintenant.
+<0115> Hm ? Tu voulais que je le signe ?
+<0116> Tu as trouvé quelque chose de bien ?
+<0117> Ok, bien reçu.
+<0118> On te laisse t'en occuper.
+<0119> Ok.
+<0120> Oh...!
+<0121> Oui...
+<0123> Ah...
+<0126> C'est parti.
+<0127> Qu'est-ce que ça donne...?
+<0128> Go.
+<0131> Ouah, c'est génial.
+<0132> Bravo.
+<0133> Je comprends pas...
+<0134> Je crois que c'est bon. Allons-y.
+<0135> Mais c'est...
+<0136> Je sais pas ce que c'est, moi...
+<0137> J'ai le cœur qui bat la chamade...
+<0138> Entendu. On va leur montrer ce qu'on sait faire.
+<0141> Je peux encore y arriver... travailler plus dur...
+<0142> Pas question de tomber, tout le monde nous regarde.
+<0145> J'entends la foule nous acclamer.
+<0146> On va continuer comme ça...
+<0147> Oui, oui.
+<0148> Oui, je suis vraiment ravie.
+<0149> Merci, merci du fond du cœur.
+<0150> Les plus connues... On doit y arriver.
+<0151> Sham, on a réussi.
+<0152> Oh... qu'il est mignon.
+<0153> Sham... C'est lui, mon préféré.
+<0154> Je l'aime bien, moi.
+<0155> Ça me détend aussi...
+<0156> H-hein, vraiment ?
+<0157> Sham, tu peux essayer celui-ci ?
+<0158> C'est parfait.
+<0159> Oh, c'est trop mignon, ça.

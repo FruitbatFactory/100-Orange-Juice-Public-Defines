@@ -83,6 +83,22 @@ descr=
 name=Boia de Natação
 descr=Ganhe -1 MOV.
 
+< CARD_UNIT_BOSS_BEACH_BREAKER >
+name=Beach Breaker
+descr=Habilidade Especial: Queimar. Duração do Efeito: 3 Capítulos. Outra unidade começando ou terminando seu turno em um painel com Queimar toma 1 de dano. \nGanhe +1 DEF enquanto um aliado estiver nocauteado.
+
+< CARD_UNIT_BOSS_BEACH_BUILDER >
+name=Construtora da Praia
+descr=Ganhe +1 DEF enquanto um aliado estiver nocauteado.
+
+< CARD_UNIT_BOSS_BEACH_BUSTER >
+name=Destruidora da Praia
+descr=Ganhe +1 DEF enquanto um aliado estiver nocauteado.
+
+< CARD_UNIT_BOSS_TROUBLEMAKERS >
+name=Encrenqueiros
+descr=
+
 < CARD_UNIT_CHICKEN >
 name=Galinha
 descr=
@@ -181,7 +197,7 @@ descr=Ao ser desafiada para uma batalha, existe 50% de chances de um Membro da T
 
 < CARD_UNIT_MIMYUU >
 name=Mimyuu
-descr=Reanime como Tomato e jogue no turno que reanimou. Quando o fizer, você pode desafiar qualquer inimigo no mesmo painel. Perca 1/4 das estrelas e dê 1 de Vitória quando nocauteada em batalha.
+descr=Reanime como Tomato. Quando o fizer, você pode desafiar qualquer inimigo no mesmo painel. Perca 1/4 das estrelas e dê 1 de Vitória quando nocauteada em batalha.
 
 < CARD_UNIT_MIRA >
 name=Mira

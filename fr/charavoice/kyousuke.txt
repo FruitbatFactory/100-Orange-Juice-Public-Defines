@@ -1,0 +1,160 @@
+<0000> Hah !
+<0001> Hey !
+<0002> Mhm !
+<0003> Hop !
+<0004> Une carte.
+<0005> Je vais avoir besoin de toi.
+<0006> C'est parti.
+<0007> Ok, je choisis celle-là.
+<0008> Un piège.
+<0009> Toi, tu vas ici.
+<0010> Hâte de voir qui va l'activer.
+<0011> Soyez prudents.
+<0012> Carte Combat.
+<0013> Je vais y consacrer corps et âme.
+<0014> Je veux bien gagner, si possible.
+<0015> C'est le bon moment.
+<0016> Ma vraie nature se révèle enfin au grand jour.
+<0017> Bien... Je vais pouvoir prendre ma revanche.
+<0018> Je peux y retourner.
+<0019> Héhé, ça devient intéressant.
+<0020> Il en faudra plus que ça.
+<0021> Mhm...
+<0022> Mon retour va devoir attendre encore un peu.
+<0023> Je peux attendre.
+<0024> Hahaha...
+<0025> J'y vais.
+<0026> Main du démon !
+<0027> Disparais !
+<0028> Je vais te rosser !
+<0029> Ngh !
+<0030> Je me suis fait toucher.
+<0031> Cette douleur va me rendre fou...
+<0032> Guah !
+<0033> Une brise agréable.
+<0034> La chaleur me recouvre.
+<0035> Comme c'est agréable...
+<0036> Héhé... C'est merveilleux.
+<0037> Qu'importe où j'atterris...!
+<0038> Où tu iras, j'irai.
+<0039> Où va-t-on comme ça ?
+<0040> Un portail, hein ?
+<0041> *soupir* J'ai besoin d'une pause...
+<0042> Ah...
+<0043> C'est le bon moment pour se reposer.
+<0044> Bon...
+<0045> Réglons ça à l'ancienne.
+<0046> J'ouvre les hostilités.
+<0047> À moi de jouer.
+<0048> Je ne peux pas rester à rien faire.
+<0049> Bien sûr... Je  serais ravi de t'affronter.
+<0050> Bonne chance, que le meilleur gagne.
+<0051> On peut y aller ?
+<0052> J'accepte. Commençons le combat.
+<0053> Sey !
+<0054> Hah !
+<0055> Esquive donc ça.
+<0056> Attaque de rose !
+<0057> Guh !
+<0058> Argh !
+<0059> Bien joué...!
+<0060> Aïe !
+<0061> Quelle fougue.
+<0062> Une douleur agréable.
+<0063> Oh, incroyable.
+<0064> Ghh... Oui, comme ça !
+<0065> Essaie encore.
+<0066> Pas comme ça.
+<0067> C'est raté.
+<0068> Hmpf.
+<0069> J'ai gagné, alors...
+<0070> Un beau combat.
+<0071> C'était amusant.
+<0072> J'espère qu'on se battra encore à l'avenir.
+<0073> Je m'y attendais.
+<0074> Hahaha... fantastique.
+<0075> Tu as gagné.
+<0076> Tu t'es bien débrouillé.
+<0077> Des étoiles.
+<0078> Les étoiles brillent d'une telle splendeur.
+<0079> Je suis englobé par la lumière.
+<0080> Brillez plus fort...!
+<0081> Vous allez toutes me quitter ?
+<0082> Oh non...
+<0083> Non... Je perds mon étoile...
+<0084> Je ne peux pas y croire.
+<0085> Je me suis fait avoir comme un bleu.
+<0086> Ah, un piège...
+<0087> J'ai fait une bêtise.
+<0088> Comment ai-je pu tomber là-dedans ?
+<0089> Hmm... Quelle puissante aura...
+<0090> En voilà un bien puissant...
+<0091> Surtout, ne pas prendre son pouvoir à la légère.
+<0092> La lutte ne risque pas de se calmer...
+<0093> Les étoiles m'appellent.
+<0094> Je vais me faire un joli tas d'étoiles.
+<0095> J'espère une lumière intense.
+<0096> Je vais laisser me tenter par les étoiles.
+<0097> Le combat est parfois enviable...
+<0098> Un homme doit savoir se battre pour gagner...
+<0099> Je choisis... le pugilat.
+<0100> J'aspire à combattre avec panache.
+<0101> Kyousuke.
+<0102> Bien le bonjour.
+<0103> Mon plaisir approche à grands pas.
+<0104> Je suis prêt à y aller.
+<0105> Que la partie commence...
+<0106> J'attends de voir ce que l'ennemi prépare.
+<0107> Je vais m'amuser autant que possible !
+<0108> Un bon bol d'air frais.
+<0109> Hmm... Douce victoire.
+<0110> Ahh, voilà qui fait du bien.
+<0111> Hm, j'ai gagné, alors ?
+<0112> Je me porte à merveille.
+<0113> Tu trouves ton bonheur ?
+<0114> Hmm, un petit bijou.
+<0115> Un nouvel objet, rien pour nous.
+<0116> Je vois... C'est...
+<0117> Peux-tu prendre ma place ?
+<0118> Je compte sur toi.
+<0119> Tu ne m'en veux pas ?
+<0120> Désolé, mais il faudrait que tu me remplaces.
+<0121> Soit.
+<0122> Bien.
+<0123> Bien, mettons-nous-y.
+<0124> Je suis... désolé....
+<0125> Quelle malchance...
+<0126> Une chance favorable.
+<0127> Pardon ?
+<0128> Allons-y...
+<0129> J'envoie mon dé.
+<0130> Allons-y...
+<0131> Bien le bonjour, comment ça va ?
+<0132> Hmm...
+<0133> Superbe.
+<0134> Fantastique !
+<0135> Oh non...
+<0136> Maintenant, ça passe ou ça casse.
+<0137> C'est plutôt prometteur.
+<0138> Je me permets de m'en servir.
+<0139> Ce pouvoir... J'espère qu'il me sera utile.
+<0140> Kyu... Kyupita...!
+<0141> Vas-y ! Viens te battre, Kyupita !
+<0142> Héhé, tu te sentais en veine, aujourd'hui ?
+<0143> Bravo, Kyupita... Je savais que\nnous étions fait l'un pour l'autre...
+<0144> On se retrouve enfin, Kyupita !
+<0145> Je sens que Kyupita est dans les parages...
+<0146> Comment- !? Il y a deux Kyupita...?
+<0147> Que-... Il y a tellement... de Kyupita...!!
+<0148> Héhé... Bravo, Kyupita.
+<0149> Bien joué. Tu gagnes en puissance.
+<0150> Kyupita... Tu es tellement... incandescent...
+<0151> Héhé... Ça devient intéressant, Kyupita...
+<0152> KYUPITAAAAAA !!
+<0153> Hm... Tu es...
+<0154> C'est donc toi, mon adversaire.
+<0155> Hm... Comment décrire cette sensation...
+<0156> Je ne regrette pas d'avoir perdu contre toi.
+<0157> Nous ne sommes que peu d'hommes.\nTravaillons ensemble.
+<0158> J'ai fini mon service.
+<0159> Aaa-tchoum ! ...Hmm, me voilà dans un pépin.

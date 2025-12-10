@@ -1,0 +1,80 @@
+// CampaignScenario_CodexStory_ClassChange
+// (cook)
+<0000> Haléna ! Haléna ! Coco finit enfin par te retrouver !
+// (halena)
+<0001> On avait rendez-vous ici, non ? Tu arrives bien en retard, quelque chose t'es arrivé ?
+// (cook)
+<0002> Tu doutes pas de la ponctualité de Coco ? Merci ! Écoute, il se passe quelque chose d'étrange !
+// (halena)
+<0003> Honnêtement, il se passe beaucoup de choses étranges dans le coin.
+// (cook)
+<0004> Écoute ! Dès que Coco est rentrée en ville, il y a plein de gens qui ont commencé à la suivre !
+// (cook)
+<0005> Ils tenaient tous des couteaux et des fourchettes ! C'était terrifiant !
+// (halena)
+<0006> Hein !? Tu n'es pas blessée, rassure-moi !?
+// (cook)
+<0007> Non, Coco a réussi à les faire courir longtemps.
+// (cook)
+<0008> Mais après, Coco était épuisée, et ils continuaient à se rapprocher... Coco pensait qu'elle allait mourir !
+// (cook)
+<0009> Et ensuite...
+// (halena)
+<0010> Oui ? Continue ! Pas la peine de faire monter la tension, tu sais que je m'inquiète !
+// (cook)
+<0011> Fahaha. Ensuite, ils ont fait la queue poliment devant Coco !
+// (cook)
+<0012> Du coup, elle leur a demandé "Hein ? Vous vouliez pas manger Coco ?"
+// (halena)
+<0013> Et ensuite ?
+// (cook)
+<0014> Ils ont dit "Non ! Qui voudrait manger le Coq Rouge Légendaire ?!"
+// (cook)
+<0015> Les vilains ! Ils savent ce qu'est un coq, au moins ? Pfft !
+// (halena)
+<0016> Mhm. Eh bien, je crois avoir compris ce qu'il se passait.
+// (cook)
+<0017> Hein !? Déjà ?\nT'as déjà tout compris ?
+// (halena)
+<0018> Une rumeur au sujet d'un excellent critique culinaire court partout en ville.
+// (cook)
+<0019> Coco ne voit pas le rapport.
+// (halena)
+<0020> En fait, elle n'écrit aucune critique, mais tous ceux qui la suivent sont certains d'obtenir un repas inoubliable.
+// (cook)
+<0021> Ah bon ?! Coco devrait la suivre, elle aussi, alors !
+// (halena)
+<0022> ...Ça risque d'être difficile.
+// (halena)
+<0023> Coco, quand tu redescends sur la terre ferme, c'est souvent pour chercher à manger, non ?
+// (cook)
+<0024> Bien sûr ! Ça fait travailler l'estomac, de voler !
+// (halena)
+<0025> Et tu sais facilement repérer les meilleurs restaurants et leurs menus du jour.
+// (cook)
+<0026> Coco peut trouver son prochain repas mieux que quiconque !
+// (halena)
+<0027> Et on t'aperçoit facilement quand tu es dans le ciel.
+// (halena)
+<0028> Tout le monde te voit voler, et quand tu atterris, c'est pour chercher la meilleure nourriture, et à bas prix...
+// (cook)
+<0029> Autrement dit...
+// (halena)
+<0030> Autrement dit...
+// (cook)
+<0031> Cui ! Coco est devenue critique culinaire sans le vouloir ?!
+// (cook)
+<0032> Et elle a fait la promotion de plein de restaurants sans être payée ?!
+// (halena)
+<0033> Ahaha. On peut dire ça.
+// (cook)
+<0034> Coco n'aime pas qu'on la regarde manger, surtout pas par autant de gens. Plus qu'une chose à faire !
+// (halena)
+<0035> Oh ?
+// (cook)
+<0036> Coco va trouver une perle rare, un endroit presque inconnu qui sert de la nourriture !
+// (halena)
+<0037> C'est ce que dirait un critique culinaire.
+// (halena)
+
+<0038> On peut dire que tu t'es trouvée une nouvelle vocation, alors !
