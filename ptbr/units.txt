@@ -639,4 +639,8 @@ descr=Se estiver com "Blefe Pseudointelectual" na mão, 50% de chance de ver o t
 name=Yuki (Dangerous)
 descr=Transforme permanentemente todas as cartas em sua mão com 'Pudim' no nome em Tragédia na Calada da Noite. Quando outro jogador ativar sua armadilha, ganhe 1 Vitória. Não ganhe Vitórias ao enfrentar inimigos selvagens.
 
+< CARD_UNIT_POPOMI >
+name=Mari Popomi
+descr=Ganhe Tensão toda vez que você rolar dados. Com 30 de Tensão, ganhe Tendinite no começo de seu próximo turno:\nDuração do Efeito: 1 Capítulo. 60% de chance para cada rolagem de dado ser 0.\nEfeito é removido ao receber um efeito de cura que pode curar 2 HP ou mais, ou jogando Rolagem de Dado Precisa.
+
 [EOF]

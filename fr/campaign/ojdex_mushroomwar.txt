@@ -1,0 +1,129 @@
+// OJDexStory_MushroomWar
+// (none)
+<0000> Il y a bien des mondes avec bien des chronologies différentes. Ce n'est là qu'une possible suite d'évènements parmi tant d'autres...
+// (maynie)
+<0001> Le voilà, Dame Arnelle ! Le champignon rouge légendaire !
+// (arnelle)
+<0002> Et nous avions déjà trouvé le champignon bleu ultra-rare... Héhéhé, notre victoire est totale !
+// (maynie)
+<0003> Hahahaha ! Alors ?! Ça vous apprendra à douter de la grandeur de Dame Arnelle, bande de nazes ! Elles doivent sûrement se lamenter et...
+// (arnelle)
+<0004> Mais où sont-elles ? On ne les a pas vues depuis un moment.
+// (ellie)
+<0005> Allez, Lulu ! Fais "aaaah" !
+// (lulu)
+<0006> Lulu est vraiment obligée ? C'est gênant.
+// (ellie)
+<0007> Et alors ? On est toutes seules dans le fin fond d'une caverne paumée, personne va nous voir ! Fais "aaah", maintenant !
+// (lulu)
+<0008> A-a-aaaah ?! *croque*
+// (ellie)
+<0009> Alors, c'est pas mal, hein ?
+// (lulu)
+<0010> Lulu trouve que ça manque de sel, mais sinon, oui. C'est trop bon, les champignons grillés.
+// (ellie)
+<0011> Ahaa~ ! À t'entendre, je me sens comme si tous mes PV étaient soignés !
+// (maynie)
+<0012> Hé, vous foutez quoi ? Vous pensez que c'est le moment de dîner !? Vous devriez vous lamenter de votre défaite à la course aux champignons !
+// (ellie)
+<0013> Hé, ferme-la ! J'essaie de profiter de la beauté de Lulu !
+// (lulu)
+<0014> Euh, ignorez Ellie. Disons qu'on cherchait les champignons pour s'acheter de quoi manger, à la base. Mais... à quoi bon ? Cette grotte est déjà pleine de champignons délicieux.
+// (ellie)
+<0015> Ouais ! On a pas besoin de vos champignons qui puent ! On a déjà tout ce qu'il faut juste ici ! Alors, z'êtes jalouses, hein ? Hein ?
+// (maynie)
+<0016> Vous avez pas le droit d'abandonner en plein concours ! C'est super frustrant !
+// (arnelle)
+<0017> Couché.
+// (maynie)
+<0018> O-oui, Dame Arnelle.
+// (arnelle)
+<0019> Si elles abandonnent, ces champignons légendaires nous reviennent sans équivoque. Attends un peu de voir comment Watti et Poméranius vont réagir !
+// (maynie)
+<0020> C'est vrai ! Dame Arnelle, c'est notre première victoire sans leur aide ! Marnie va lui montrer, à ce sale cabot !
+// (arnelle)
+<0021> Bon, sur ce, quittons cette grotte humide sans plus tarder. J'attends notre récompense avec impatience.
+// (lulu)
+<0022> Euh, excusez-moi, mais... C'était votre ventre, ça, non ?
+// (arnelle)
+<0023> G-guh... J'étais tellement concentrée sur ces champignons, j'en ai complètement oublié de manger.
+// (lulu)
+<0024> O-oh... et dire qu'on ne faisait même pas la course... C'est un peu triste.
+// (ellie)
+<0025> Quel genre de chasseur de trésors oublie de manger ? Ton corps, c'est ton plus beau trésor. Tout le monde le sait, pourtant ! Ahaa~
+// (arnelle)
+<0026> Tsk, tsk. Tu parles à la fois comme un vieillard et comme une sale gosse... C'est profondément agaçant.
+// (maynie)
+<0027> Raah ! Marnie va te faire bouffer son poing, ouais ! Espèce de sale-
+// (lulu)
+<0028> Mme. Chasseuse de Trésors, vous voulez des champignons grillés ? Lulu en a plein.
+// (ellie)
+<0029> Hé, mais c'est moi qui les ai- mmmmfpph !!
+// (lulu)
+<0030> Chut.
+// (arnelle)
+<0031> Eh bien... C'est difficile de refuser. *cronch*\nOh, mais c'est très bon.
+// (ellie)
+<0032> Héhé. Alors, tu respectes déjà un peu plus, là, hein ?
+// (arnelle)
+<0033> La nourriture est tellement meilleure lorsqu'elle est gratuite.
+// (ellie)
+<0034> ...grr. Tu pourrais au moins faire un petit compliment !
+// (arnelle)
+<0035> Oh, tu voulais quelque chose en échange ? C'est mignon. Eh bien, voyons... En gage de reconnaissance, je vais t'offrir un conseil de vétéran.
+// (maynie)
+<0036> Vous écoutez bien, hein ? Réjouissez-vous de la générosité de Dame Arnelle !
+// (arnelle)
+<0037> Si vous comptez garder tous ces champignons, faites attention à bien les cuire. Cru, un champignon peut être maladif.
+// (lulu)
+<0038> Vraiment ? Lulu avait mangé un champignon cru, tout à l'heure, mais ça a rien fait...
+// (arnelle)
+<0039> Un ou deux, ça passe encore. Mais il ne faut surtout pas en manger trop.
+// (maynie)
+<0040> Bleuh ?!
+// (ellie)
+<0041> Berk. C'était quoi, ce son, là ?
+// (maynie)
+<0042> Euh... Marnie... Eh bien, on avait sauté le dîner. Du coup, Marnie mangeait tous les champignons sur le chemin...
+// (arnelle)
+<0043> E-et combien en as-tu mangé au total ?
+// (maynie)
+<0044> Hum... Autant qu'on en a trouvé.
+// (lulu)
+<0045> Oh non. Lulu a comme un très mauvais pressentiment. Ellie, on devrait s'en aller...
+// (ellie)
+<0046> Pas question ! Imagine si elle a besoin d'aide médicale !
+// (lulu)
+<0047> Dis plutôt que tu t'attends à ce que ça soit drôle.
+// (ellie)
+<0048> Peut-être. Ahaa~
+// (maynie)
+<0049> Ah... Marnie se sent pas très bien...
+// (arnelle)
+<0050> Je ne peux pas laisser tomber un membre de l'Équipe Arnelle, surtout dans un endroit aussi insalubre.\nHop !
+// (ellie)
+<0051> T'es sûre de vouloir la porter comme ça sur ton dos ? Sa tête vire au vert, là.
+// (maynie)
+<0052> Dame Arnelle... iL y A tOuT qUi ToUrNe... Burp !
+// (ellie)
+<0053> Hein ? M-mais !! Elle a fait de toutes les couleurs !
+// (lulu)
+<0054> E-et ça s'est répandu sur les champignons rares...
+// (arnelle)
+<0055> ...
+// (lulu)
+<0056> ...
+// (arnelle)
+<0057> ...Écoutez. Si on vous demande ce qu'il est advenu des champignons, dites que vous les avez trouvés en premier.
+// (ellie)
+<0058> Hein ?
+// (arnelle)
+<0059> Si Poméranius apprend que Marnie nous a coûté les champignons, ils vont se disputer jusqu'à la fin des temps. Je tiens à pouvoir dormir la nuit, voyez-vous...
+// (lulu)
+<0060> V-vous avez de sacrés problèmes... On dira rien, Ellie, hein ?
+// (ellie)
+<0061> Oh... Bon, j'sais garder un secret.
+// (arnelle)
+<0062> M-mais attention ! L'Équipe Arnelle reviendra ! Allez, Marnie, on rentre à la maison.
+// (maynie)
+<0063> Guuuuuuuuu...

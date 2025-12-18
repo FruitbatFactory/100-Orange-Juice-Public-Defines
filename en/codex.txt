@@ -162,7 +162,7 @@
 1=Nath is a physically altered human designed to fight using her own body. Her physical age is 22.
 2=Likes: Puppies, lazing around, taking shortcuts\nDislikes: Complicated clothes, hurry, failure
 3=She was another ultimate weapon hastily produced in order to replace the initial ultimate weapon, Sora, after she had gone missing. 
-4=Nath’s body remodeling was done so roughly that both of her arms had to be removed. Regardless, she doesn't harbor any hard feelings about her body modification; she simply goes with the flow.  She's so used to being armless that she's living a lazy life without any inconvenience.
+4=Nath's body remodeling was done so roughly that both of her arms had to be removed. Regardless, she doesn't harbor any hard feelings about her body modification; she simply goes with the flow.  She's so used to being armless that she's living a lazy life without any inconvenience.
 5=Nath has a big pet dog named Noopy.
 
 < LORE_TOMATO >
@@ -393,10 +393,13 @@
 4=She's a bit pushy and likes to tease people just enough to make them uncomfortable.
 
 < LORE_SHIFU >
-1=Coming soon!
+1=Shifu is the leader of a mission of hope - a team that traveled through space for 10.000 years in search of a habitable new world after the ravages of the war of Sora's time.
+2=Likes: Nothing\nDislikes: Everything and everyone that gets in his way
+3=The man who appears to be in his early 30s is narcissistic and tyrannical in personality, but an unrivalled genius whose intellect was the only reason the inhabitants of the spaceship survived.
+4=Upon returning to Earth at the end of their journey, he created numerous weapons, including the altered humans called Shifu Brands, and planned to invade and take over Earth for the population of his spaceship to inhabit. However, he was stopped by Suguri.
 
 < LORE_MESCAL >
-1=Mescal's date and place of birth are unknown.  Without letting that fact bother her, she's been raised up by the sky pirate Captain Tequila and his rowdy pirate gang as an innocent and wild girl. Because her family have been sky pirates all her life, she doesn’t even think of herself as a pirate, but instead seems to believe she's a normal aviator.
+1=Mescal's date and place of birth are unknown.  Without letting that fact bother her, she's been raised up by the sky pirate Captain Tequila and his rowdy pirate gang as an innocent and wild girl. Because her family have been sky pirates all her life, she doesn't even think of herself as a pirate, but instead seems to believe she's a normal aviator.
 2=Likes: Whales, aviation, apple pies \nDislikes: The old people smell of the pirates
 3=After the fall of the Guild, Mescal lives on a farm with her adoptive father, which she finds way too boring, and she has now gotten interested in real aviation.
 4=Due to the fact that she hadn't gotten to meet other girls her age until recently, she grew interested in Marc, especially as an aviator, and took her as a mentor, following her around. She calls Marc Big Sis and Tequila Daddy. 
@@ -409,14 +412,16 @@
 4=Malt and Bourbon worked together to build up the Guild, but ended up opposing each other; however, they do only when it comes to the skies, so if they run into each other at a bar, they spend all night drinking together. By the way, the cane he uses is just for show.
 
 < LORE_FETNETNOBLE >
-1=This is the version of Fernet that follows the expected course of events after the fall of the Blue Sky Union. Fernet follows her family’s designs and makes her entrance into the upper echelons of society. 
+1=This is the version of Fernet that follows the expected course of events after the fall of the Blue Sky Union. Fernet follows her family's designs and makes her entrance into the upper echelons of society. 
 2=Likes: Her parents\nDislikes: Inelegant people/things, nonsense
-3=Being new nobility, elevated by her family’s industrial success and vast wealth, Fernet had a hard time adjusting to her expected upper class role, but she perseveres and over the next few years comes to accept it.
+3=Being new nobility, elevated by her family's industrial success and vast wealth, Fernet had a hard time adjusting to her expected upper class role, but she perseveres and over the next few years comes to accept it.
 4=Fernet has become able to control her fiery temperament better and is more collected and outwardly well mannered. However, she now uses her wits and tongue to lash out, rather than her aircraft, and can make cutting remarks as expected of one of her station.
-5=Fernet will not take anyone’s nonsense and is very goal driven and determined to succeed. She still appreciates her personal connections, including her old friend Marc, and has a somewhat more open mind toward people of all sorts.
+5=Fernet will not take anyone's nonsense and is very goal driven and determined to succeed. She still appreciates her personal connections, including her old friend Marc, and has a somewhat more open mind toward people of all sorts.
 
 < LORE_HIMEMOONLIGHT >
-1=Coming soon!
+1=A girl who once served as the guardian of a spaceship.
+2=Likes: Flowers of Earth\nDislikes: Conflict, sadness
+3=Although Hime posses tremendous combat power, she has a calm, collected mind, and abhors conflict. Instead, she enjoys her slow life looking over Suguri, as she works on the restoration and protection of Earth.
 
 < LORE_WATTY >
 1=Watty's a mermaid - an ancient creature of unknown age.

@@ -1130,6 +1130,9 @@ Stacking inventory items...
 < PLAYMENU_2MDOWNLOADS_MESSAGE >
 Thank you for over 2 million downloads!\nNew Extra mission available!\nWhat is Mio up to...?
 
+< PLAYMENU_3MDOWNLOADS_MESSAGE >
+3 Million Download Celebration Mission Available!\nClear Extra mission "{}" on Normal or higher difficulty as a Marie Poppo character to unlock Popomi!
+
 < MENU_BOSS_DIFFICULTY_CASUAL >
 Casual
 
@@ -1370,6 +1373,9 @@ Concierge
 
 < MENU_CODEXSTORY_TITLE_ALTENICO >
 Treasures Beneath the Night Sky
+
+< MENU_CODEXSTORY_TITLE_MUSHROOMWAR >
+Mushroom War
 
 < MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
 Play {0} games as {1}.

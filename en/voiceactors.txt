@@ -176,4 +176,7 @@ Takamori Natsumi
 < VOICEACTOR_SUGUTA_HINA >
 Suguta Hina
 
+< VOICEACTOR_TOKUI_SORA >
+Tokui Sora
+
 [EOF]

@@ -141,6 +141,12 @@
 <0140> Merci beaucoup ! Thank you !
 <0141> C'est moi qui vais gagner, Chuu.
 <0142> Je compte sur toi, Chuu.
+<0143> On va bien s'amuser, Haru !
+<0144> Ravie d'être à tes côtés, Haru !
+<0145> C'est tout de suite moins facile quand on est face à Kana...
+<0146> Ça me rassure d'avoir Kana à mes côtés.
+<0147> Je me demande à quel point Popo joue bien.
+<0148> Popo... tu es vraiment si douée à ce jeu ?
 <0149> Que cette partie en groupe commence !
 <0150> Q !! Je suis votre plus grande fan !
 <0151> Oh, c'est Q !!

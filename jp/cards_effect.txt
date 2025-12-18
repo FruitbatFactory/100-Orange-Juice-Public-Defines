@@ -575,7 +575,7 @@ descr=次のバトル開始時、ATK・DEF・EVDのいずれかが-1。
 name=プリンセスの招待状
 descr=バトルのとき、ATK-3。
 
-< CARD_BOSS_COOP_RECOVERY_DOWN >
+< CARD_RECOVERY_DOWN_EFFECT >
 name=再起低下
 descr=1ストックごとにREC+1。
 flavor=
@@ -714,8 +714,16 @@ name=元主役の活躍
 descr=★コスト：レベル×10\n自身のHPが1になる代わりに、3ターンの間ATK+4・EVD+5。
 
 < CARD_HKAIPASSIVE_EFFECT >
-name=ダディカイ
+name=セカンドウィンド
 descr=バトル以外のダメージでHPが1を下回る時、HPが1残る。代わりに次の自身のターンの終了時にHPを1失う。
+
+< CARD_WARPCONTROL_EFFECT >
+name=ワープコントロール
+descr=ワープマス、またはワープムーブマスを発動させた時、別のワープマス、またはワープムーブマスをワープ先として選ぶ。
+
+< CARD_NANAKOBIT_EFFECT >
+name=ナナコのビット
+descr=バトル開始時にATK・DEF・EVDのいずれかがランダムで+1され、7スターを失う。
 
 < CARD_CANNONBALL_EFFECT >
 name=砲弾カウンター
@@ -772,5 +780,17 @@ descr=追加で5スターを支払うことで2マス圏内にトラップカー
 name=燃えるマス
 descr=燃えているマス。このマスにいるユニットは、自身のターン開始時か終了時に1ダメージ受ける。
 This panel is on fire. Units starting or ending their turn on it will take 1 damage.
+
+< CARD_STRAIN_EFFECT >
+name=痛み
+descr=30スタックに達すると、次のターン開始時に腱鞘炎を得る。
+
+< CARD_TENDONITIS_EFFECT >
+name=腱鞘炎
+descr=ダイスの出目が60%の確率で0になる。\nHPを2以上回復する回復効果を受けるか、精密なダイスロールを使うとこの効果は失われる。
+
+< CARD_PRECISEDICEROLLS_EFFECT >
+name=精密なダイスロール
+descr=-移動、バトル、ボーナスので4以上しか出せない。\n-ドロップのダイスで2以下しか出せない。\n効果終了後、次のターン開始時に腱鞘炎を得る。
 
 [EOF]

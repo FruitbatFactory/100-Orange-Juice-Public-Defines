@@ -23,11 +23,11 @@
 <0022> Si on le livre le jour même, ils pourraient pas s'y installer avant le lendemain.
 <0023> Hein...?
 <0024> C'est vrai...!
-<0025> Un jour plus tôt, c'est faisable... non ?
+<0025> Un jour plus tôt, c'est faisable...\nNon ?
 <0026> Hum...\nC'est pas aussi simple.
 <0027> Nos pouvoirs sont au maximum uniquement les soirs de Noël.
 <0028> C'est grâce à eux qu'on peut livrer les cadeaux partout dans le monde.\nMais les autres jours...
-<0029> Le mieux qu'on puisse faire, c'est voler. Le reste, c'est impossible.
+<0029> Le mieux qu'on puisse faire, c'est s'envoler. Le reste, c'est impossible.
 <0030> Hein !?
 <0031> Un cadeau normal ne poserait aucun problème, mais un château entier...\nPuis ça demanderait un long voyage.
 <0032> Puis il faut encore le décorer avant de le livrer.
@@ -39,7 +39,7 @@
 <0038> Plus on y pense, plus ça paraît impossible.\nQu'est-ce qu'on va faire...?
 <0039> Mille enfants rêvent d'avoir ce château.\nPas le choix, il faut le livrer.
 <0040> Mais...
-<0041> C'est beaucoup trop de travail pour nous deux,\net... *marmonne*...
+<0041> C'est beaucoup trop de travail pour nous deux, et... *marmonne*...
 <0042> Vous inquiétez pas, je vais vous aider.
 <0043> Nico va aider, elle aussi !
 <0044> V-vous...

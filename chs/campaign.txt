@@ -95,6 +95,9 @@ QP　最终章
 < CAMPAIGN_EXTRA_EIGHT >
 挑战神权
 
+< CAMPAIGN_EXTRA_NINE >
+社团挑战
+
 < CAMPAIGN_STARBREAKER_ONE >
 星球破坏者　第1章
 

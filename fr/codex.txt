@@ -393,7 +393,10 @@
 4=Elle est un brin arrogante et a tendance à taquiner les gens, tout juste assez pour les rendre mal à l'aise.
 
 < LORE_SHIFU >
-1=À venir !
+1=Shifu est le superviseur d'une mission d'espoir - une équipe ayant voyagé pendant 10.000 ans dans l'espace à la recherche d'une planète habitable, après les ravages de la guerre du temps de Sora.
+2=Aime : Rien\nN'aime pas : Ceux qui le freinent dans ses plans
+3=Malgré sa nature narcissique et tyrannique, ce génie à l'apparence trentagénaire possède un intellect tel qu'il a, à lui seul, assuré la survie des habitants de son vaisseau.
+4=À terme du voyage, une fois arrivés sur Terre, Shifu s'est pressé de créer des armes en masse, incluant le Label Shifu, une série d'humains altérés, avec pour plan de coloniser la Terre pour le bien de son peuple. Cependant, son plan s'est vu contrecarré par Suguri.
 
 < LORE_MESCAL >
 1=Mescal est une jeune fille joueuse et innocente. Le contexte de sa naissance est parfaitement inconnu de tous, et elle préfère ne pas s'en soucier. Elle a grandi auprès du Capitaine Tequila et de sa cohorte de pirates du ciel. De ce fait, elle manque de recul sur le sens de "pirate" et ne se définit pas comme tel. Elle estime mener une vie d'aviatrice ordinaire.
@@ -416,7 +419,9 @@
 5=Fernet se refuse à entendre les sottises d'autrui et mène à bien ses propres objectifs avec détermination. Cela n'a pas détérioré ses relations personnelles, notamment avec son amie d'enfance Marc ; elle apprend d'ailleurs à apprécier quiconque à sa juste valeur.
 
 < LORE_HIMEMOONLIGHT >
-1=À venir !
+1=Une fille anciennement gardienne de son vaisseau.
+2=Aime : Les fleurs terrestres\nN'aime pas : La tristesse, le conflit
+3=Malgré ses impressionnantes capacités de combat, Hime est de nature calme et sereine, et a horreur du conflit. Elle préfère se concentrer sur sa vie tranquille auprès de Suguri, tandis que cette dernière s'occupe de restaurer et de protéger la Terre.
 
 < LORE_WATTY >
 1=Watti est une sirène, soit une ancienne créature à l'âge inconnu.

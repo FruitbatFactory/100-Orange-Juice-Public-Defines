@@ -830,6 +830,11 @@ name=Blefe Pseudointelectual
 descr=Tenha como alvo outro jogador.\nEscolha um tipo de carta (Batalha/Boost/Evento/Outro), e então declare um tipo de carta.\nSe a próxima carta jogada pelo jogador alvo for do tipo Escolhido: ganhe 2 Vitórias e Nvl vezes 10 em estrelas.\nApenas declarada: tome 2 de dano. 
 flavor="Eu consigo ver quais cartas você tem na mão." ―Kanata
 
+< CARD_HYPER_POPOMI >
+name=Rolagens de Dados Precisas
+descr=Duração do Efeito: 2 capítulos\n-Só pode rolar 4 ou superior para movimento, batalha e bônus.\n-Só pode rolar 2 ou inferior para perda.\nApós o efeito acabar, ganhe Tendinite no começo do próximo turno.\nElimine toda Tensão.
+flavor="Descubra por si mesmo o quão incrível são as rolagens de dados da Popo." ―Popomi
+
 < CARD_HYPER_MIOFESTIVE >
 name=Inferno de Natal
 descr=Seu HP reduz a 1. Os outros jogadores tomam dano equivalente ao HP que você perdeu. Ganhe 10 estrelas por cada jogador nocauteado por este efeito.

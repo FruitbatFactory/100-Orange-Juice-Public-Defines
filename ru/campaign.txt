@@ -1,75 +1,75 @@
 
 < CAMPAIGN_QP_ONE >
-QP. Эпизод 1
+QP - Эпизод 1
 
 < CAMPAIGN_QP_TWO >
-QP. Эпизод 2
+QP - Эпизод 2
 
 < CAMPAIGN_QP_THREE >
-QP. Эпизод 3
+QP - Эпизод 3
 
 < CAMPAIGN_QP_FOUR >
-QP. Эпизод 4
+QP - Эпизод 4
 
 < CAMPAIGN_QP_FIVE >
-QP. Эпизод 5
+QP - Эпизод 5
 
 < CAMPAIGN_QP_FINAL >
-QP. Финал
+QP - Финал
 
 < CAMPAIGN_SUGURI_ONE >
-Сугури. Эпизод 1
+Сугури - Эпизод 1
 
 < CAMPAIGN_SUGURI_TWO >
-Сугури. Эпизод 2
+Сугури - Эпизод 2
 
 < CAMPAIGN_SUGURI_THREE >
-Сугури. Эпизод 3
+Сугури - Эпизод 3
 
 < CAMPAIGN_SUGURI_FOUR >
-Сугури. Эпизод 4
+Сугури - Эпизод 4
 
 < CAMPAIGN_SUGURI_FIVE >
-Сугури. Эпизод 5
+Сугури - Эпизод 5
 
 < CAMPAIGN_SUGURI_FINAL >
-Сугури. Финал
+Сугури - Финал
 
 < CAMPAIGN_MARC_ONE >
-Марк. Эпизод 1
+Марк - Эпизод 1
 
 < CAMPAIGN_MARC_TWO >
-Марк. Эпизод 2
+Марк - Эпизод 2
 
 < CAMPAIGN_MARC_THREE >
-Марк. Эпизод 3
+Марк - Эпизод 3
 
 < CAMPAIGN_MARC_FOUR >
-Марк. Эпизод 4
+Марк - Эпизод 4
 
 < CAMPAIGN_MARC_FIVE >
-Марк. Эпизод 5
+Марк - Эпизод 5
 
 < CAMPAIGN_MARC_FINAL >
-Марк. Финал
+Марк - Финал
 
 < CAMPAIGN_KAI_ONE >
-Кай. Эпизод 1
+Кай - Эпизод 1
 
 < CAMPAIGN_KAI_TWO >
-Кай. Эпизод 2
+Кай - Эпизод 2
 
 < CAMPAIGN_KAI_THREE >
-Кай. Эпизод 3
+Кай - Эпизод 3
 
 < CAMPAIGN_KAI_FOUR >
-Кай. Эпизод 4
+Кай - Эпизод 4
 
 < CAMPAIGN_KAI_FIVE >
-Кай. Эпизод 5
+Кай - Эпизод 5
 
 < CAMPAIGN_KAI_FINAL >
-Кай. Финал
+Кай - Финал
 
 < CAMPAIGN_EXTRA_ONE >
 Полночь = Кемономими
@@ -93,141 +93,150 @@ QP. Финал
 Тайный Санта
 
 < CAMPAIGN_EXTRA_EIGHT >
-Божественное Наказание
+Божественная Кара
+
+< CAMPAIGN_EXTRA_NINE >
+Испытание Клуба
 
 < CAMPAIGN_STARBREAKER_ONE >
-Разрушитель Звёзд. Эпизод 1
+Крушитель Звёзд - Эпизод 1
 
 < CAMPAIGN_STARBREAKER_TWO >
-Разрушитель Звёзд. Эпизод 2
+Крушитель Звёзд - Эпизод 2
 
 < CAMPAIGN_STARBREAKER_THREE >
-Разрушитель Звёзд. Эпизод 3
+Крушитель Звёзд - Эпизод 3
 
 < CAMPAIGN_STARBREAKER_FOUR >
-Разрушитель Звёзд. Эпизод 4
+Крушитель Звёзд - Эпизод 4
 
 < CAMPAIGN_STARBREAKER_FIVE >
-Разрушитель Звёзд. Эпизод 5
+Крушитель Звёзд - Эпизод 5
 
 < CAMPAIGN_STARBREAKER_FINAL >
-Разрушитель Звёзд. Финал
+Крушитель Звёзд - Финал
 
 < CAMPAIGN_SWEETBREAKER_ONE >
-Разрушитель Сладостей. Эпизод 1
+Крушитель Сладостей - Эпизод 1
 
 < CAMPAIGN_SWEETBREAKER_TWO >
-Разрушитель Сладостей. Эпизод 2
+Крушитель Сладостей - Эпизод 2
 
 < CAMPAIGN_SWEETBREAKER_THREE >
-Разрушитель Сладостей. Эпизод 3
+Крушитель Сладостей - Эпизод 3
 
 < CAMPAIGN_SWEETBREAKER_FOUR >
-Разрушитель Сладостей. Эпизод 4
+Крушитель Сладостей - Эпизод 4
 
 < CAMPAIGN_SWEETBREAKER_FIVE >
-Разрушитель Сладостей. Эпизод 5
+Крушитель Сладостей - Эпизод 5
 
 < CAMPAIGN_SWEETBREAKER_FINAL >
-Разрушитель Сладостей. Финал
+Крушитель Сладостей - Финал
 
 < CAMPAIGN_BREAKER_EXTRA >
 Хаос Богов Сладостей
 
 < CAMPAIGN_MIUCEORE_ONE >
-Девичья Сила. Эпизод 1
+Девичья Сила - Эпизод 1
 
 < CAMPAIGN_MIUCEORE_TWO >
-Девичья Сила. Эпизод 2
+Девичья Сила - Эпизод 2
 
 < CAMPAIGN_MIUCEORE_THREE >
-Девичья Сила. Эпизод 3
+Девичья Сила - Эпизод 3
 
 < CAMPAIGN_MIUCEORE_FOUR >
-Девичья Сила. Эпизод 4
+Девичья Сила - Эпизод 4
 
 < CAMPAIGN_MIUCEORE_FIVE >
-Девичья Сила. Эпизод 5
+Девичья Сила - Эпизод 5
 
 < CAMPAIGN_MIUCEORE_SIX >
-Девичья Сила. Эпизод 6
+Девичья Сила - Эпизод 6
 
 < CAMPAIGN_MIUCEORE_SEVEN >
-Девичья Сила. Эпизод 7
+Девичья Сила - Эпизод 7
 
 < CAMPAIGN_MIUCEORE_EIGHT >
-Девичья Сила. Эпизод 8
+Девичья Сила - Эпизод 8
 
 < CAMPAIGN_MIUCEORE_NINE >
-Девичья Сила. Эпизод 9
+Девичья Сила - Эпизод 9
 
 < CAMPAIGN_MIUCEORE_FINAL >
-Девичья Сила. Финал
+Девичья Сила - Финал
 
 < CAMPAIGN_CHRISTMAS_2017 >
 Рождественская Вечеринка Варуда
 
 < CAMPAIGN_NICOARTHUR_ONE >
-Два Рождества. Эпизод 1
+Два Рождества - Эпизод 1
 
 < CAMPAIGN_NICOARTHUR_TWO >
-Два Рождества. Эпизод 2
+Два Рождества - Эпизод 2
 
 < CAMPAIGN_NICOARTHUR_THREE >
-Два Рождества. Эпизод 3
+Два Рождества - Эпизод 3
 
 < CAMPAIGN_NICOARTHUR_FOUR >
-Два Рождества. Эпизод 4
+Два Рождества - Эпизод 4
 
 < CAMPAIGN_NICOARTHUR_FIVE >
-Два Рождества. Эпизод 5
+Два Рождества - Эпизод 5
 
 < CAMPAIGN_NICOARTHUR_FINAL >
-Два Рождества. Финал
+Два Рождества - Финал
 
 
 < CAMPAIGN_SUGURISUMIKA_ONE >
-Древние Стражи. Эпизод 1
+Древние Стражи - Эпизод 1
 
 < CAMPAIGN_SUGURISUMIKA_TWO >
-Древние Стражи. Эпизод 2
+Древние Стражи - Эпизод 2
 
 < CAMPAIGN_SUGURISUMIKA_THREE >
-Древние Стражи. Эпизод 3
+Древние Стражи - Эпизод 3
 
 < CAMPAIGN_SUGURISUMIKA_FOUR >
-Древние Стражи. Эпизод 4
+Древние Стражи - Эпизод 4
 
 < CAMPAIGN_SUGURISUMIKA_FIVE >
-Древние Стражи. Эпизод 5
+Древние Стражи - Эпизод 5
 
 < CAMPAIGN_SUGURISUMIKA_SIX >
-Древние Стражи. Эпизод 6
+Древние Стражи - Эпизод 6
 
 < CAMPAIGN_SUGURISUMIKA_SEVEN >
-Древние Стражи. Эпизод 7
+Древние Стражи - Эпизод 7
 
 < CAMPAIGN_SUGURISUMIKA_EIGHT >
-Древние Стражи. Эпизод 8
+Древние Стражи - Эпизод 8
 
 < CAMPAIGN_SUGURISUMIKA_NINE >
-Древние Стражи. Эпизод 9
+Древние Стражи - Эпизод 9
 
 < CAMPAIGN_SUGURISUMIKA_TEN >
-Древние Стражи. Эпизод 10
+Древние Стражи - Эпизод 10
 
 < CAMPAIGN_SUGURISUMIKA_FINAL >
-Древние Стражи. Финал
+Древние Стражи - Финал
 
 
 < CAMPAIGN_ELLIELULU_NUMBER >
-Странники. Эпизод %d
+Странники - Эпизод %d
 
 < CAMPAIGN_ELLIELULU_FINAL >
-Странники. Финал
+Странники - Финал
 
 < CAMPAIGN_RONETEO >
 Ведьмина Ночь Игр
+
+< CAMPAIGN_WARUDAPRISONBREAK_NUMBER >
+Побег Варуда из Тюрьмы - Эпизод %d
+
+< CAMPAIGN_WARUDAPRISONBREAK_FINAL >
+Побег Варуда из Тюрьмы - Финал
 
 < CAMPAIGN_DIFFICULTY_CASUAL >
 Снижена эффективность всех ботов.
@@ -245,16 +254,12 @@ QP. Финал
 Назад
 
 < CAMPAIGN_RONETEO_MESSAGE >
-Доступна экстра-миссия! Советуем сначала пройти "Девичью Силу" и "Древних Стражей".
-
-< CAMPAIGN_WARUDAPRISONBREAK_FINAL >
-Варуда: Побег из тюрьмы Финальный эпизод
-
-< CAMPAIGN_WARUDAPRISONBREAK_NUMBER >
-Варуда: Побег из тюрьмы Эпизод %d
+Доступен новый Экстра-эпизод! Однако, мы советуем сначала пройти "Девичью Силу" и "Древних Стражей".
 
 < CAMPAIGN_WINTER2023_MESSAGE >
-Теперь доступны дополнительные миссии: "%s"!
+Теперь доступен новый Экстра-эпизод: "%s"!
+
 
 [EOF]
+
 

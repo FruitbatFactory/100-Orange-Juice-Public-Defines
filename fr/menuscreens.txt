@@ -281,7 +281,7 @@ BOUTIQUE
 MODE SOLO
 
 < PLAYMENU_PROFILE >
-PROFIL\nJOUEUR
+PROFIL
 
 < PLAYMENU_CODEX >
 OJDEX
@@ -1068,13 +1068,13 @@ En Mode Équipe, vous pouvez choisir un personnage supplémentaire comme Partena
 Vous pouvez procéder à un Échange pendant votre tour afin que vos deux personnages changent de place. Ainsi, c'est le Partenaire qui prend les devants !
 
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_08 >
-Après un Échange, vous devrez attendre une durée fixe avant de pouvoir Échanger à nouveau (cette durée peut être ajustée dans les paramètres du salon). Utilisez l'Échange avec prudence !
+Après un Échange, vous devrez attendre une durée fixe avant de pouvoir Échanger à nouveau.\n(Cette durée peut être ajustée dans les paramètres du salon).\nUtilisez l'Échange avec prudence !
 
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_09 >
 Si votre personnage actuel tombe KO, son Partenaire prendra sa place automatiquement, à condition de ne pas être KO également. Attention, cette action compte aussi comme un Échange !
 
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_10 >
-Votre Partenaire récupère des PV naturellement après un certain nombre de chapitres. S'il est KO, il se relèvera après un nombre de chapitres égal à sa REC.
+Votre Partenaire récupère des PV naturellement après un certain nombre de chapitres. S'il est KO, il se relèvera après un nombre de chapitres égal à sa statistique REC.
 
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_11 >
 Survoler le portrait de votre Partenaire montre la durée avant sa prochaine régénération.
@@ -1083,7 +1083,7 @@ Survoler le portrait de votre Partenaire montre la durée avant sa prochaine ré
 La durée des effets de cartes appliqués à votre Partenaire ne s'écoulent pas jusqu'à Échange.
 
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_13 >
-Si votre Partenaire possède quelconque effet pouvant affecter la partie, les effets ne seront PAS actifs jusqu'à retour sur le plateau.
+Les effets de cartes et le passif d'un personnage se désactivent tant qu'il est en retrait.
 
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_14 >
 Les effets s'appliquant à soi-même après s'être relevé d'un KO s'appliquent aussi au Partenaire dès lors qu'il se relève.
@@ -1129,6 +1129,9 @@ Compilation des objets dans l'inventaire...
 
 < PLAYMENU_2MDOWNLOADS_MESSAGE >
 Le jeu a dépassé les 2 millions de téléchargements, merci à tous !\nNouvelle mission bonus débloquée !\nQu'est-ce que Mio manigance...?
+
+< PLAYMENU_3MDOWNLOADS_MESSAGE >
+Nouvelle Mission pour les 3 Millions de téléchargements !\nComplétez l'épisode bonus "{}" en mode Normal ou plus en tant qu'une variante de Marie Poppo pour débloquer Popomi !
 
 < MENU_BOSS_DIFFICULTY_CASUAL >
 Facile
@@ -1370,6 +1373,9 @@ Guide Canin
 
 < MENU_CODEXSTORY_TITLE_ALTENICO >
 Trésors Sous le Ciel Nocturne
+
+< MENU_CODEXSTORY_TITLE_MUSHROOMWAR >
+Course aux Champis
 
 < MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
 Participez à {0} parties en tant que {1}.

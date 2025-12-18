@@ -96,6 +96,9 @@ Santa Secreto
 < CAMPAIGN_EXTRA_EIGHT >
 Castigo Divino
 
+< CAMPAIGN_EXTRA_NINE >
+Desafío del Club
+
 < CAMPAIGN_STARBREAKER_ONE >
 Star Breaker: Episodio 1
 

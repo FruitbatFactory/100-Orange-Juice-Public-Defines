@@ -1110,6 +1110,9 @@ KO 시 팀 소지 스타의 1/8을 잃습니다. 유닛은 아무 플레이어�
 < PLAYMENU_2MDOWNLOADS_MESSAGE >
 200만 다운로드 달성 감사드립니다!\n신규 엑스트라 미션이 추가되었습니다!\n미오가 무슨 꿍꿍이속일까요...?
 
+< PLAYMENU_3MDOWNLOADS_MESSAGE >
+300만 다운로드 기념 미션 출시!\n엑스트라 미션 "{}"을 노멀 이상 난이도에서 마리 폿포로 클리어하면 포포미가 해금됩니다!
+
 < MENU_BOSS_DIFFICULTY_CASUAL >
 캐주얼
 

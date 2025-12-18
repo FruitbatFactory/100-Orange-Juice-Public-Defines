@@ -95,6 +95,9 @@
 < CAMPAIGN_EXTRA_EIGHT >
 천벌
 
+< CAMPAIGN_EXTRA_NINE >
+동아리 도전
+
 < CAMPAIGN_STARBREAKER_ONE >
 스타 브레이커 제 1화
 

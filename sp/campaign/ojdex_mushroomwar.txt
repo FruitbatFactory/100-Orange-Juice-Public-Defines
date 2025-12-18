@@ -1,0 +1,130 @@
+// OJDexStory_MushroomWar
+// (none)
+<0000> Existen muchos mundos diferentes, con una gran variedad de líneas de tiempos. Esta es simplemente una posible secuencia de eventos...
+// (maynie)
+<0001> ¡Dama Arnelle, ahí está! ¡El hongo rojo legendario!
+// (arnelle)
+<0002>  con este hongo azul ultra-raro... Ku-ku-ku. ¡Es una completa victoria!
+// (maynie)
+<0003> ¡Jajajaja! ¡¿Cómo ven eso?! ¡Eso es lo que los novatos obtienen al dudar de la grandiosa Dama Arnelle! Espero que sean miserables y que...
+// (arnelle)
+<0004> Espera, ¿en dónde están? No las hemos visto en un tiempo.
+// (ellie)
+<0005> ¡Ten, Lulu! Di 'ahhhhh'!
+// (lulu)
+<0006> ¿Lulu debe hacerlo? Es un poco vergonzoso.
+// (ellie)
+<0007> ¿A quién le importa? ¡Estamos en una cueva en el medio de la nada! ¡Nadie puede vernos! ¡Di ahhh, ahora!
+// (lulu)
+<0008> Aaaa-¡¿aahhhh?! *chomp*
+// (ellie)
+<0009> Sabe bien, ¿no? ¿No?
+// (lulu)
+<0010> Lulu piensa que podría tener un poco más de sal, pero sabe bien. Los hongos asados son deliciosos.
+// (ellie)
+<0011> ¡Ajaa~! ¡Escucharte decir eso hace que todos mis PV sean curados!
+// (maynie)
+<0012> ¡Eh! ¡¿Qué es lo que están haciendo, sentándose ahí y comiendo basuras?! ¡¿Acaso no les molesta que les hayamos ganado en la Guerra de Hongos?!
+// (ellie)
+<0013> ¡Ah, ya cállate! ¡Intento disfrutar de la lindura de Lulu!
+// (lulu)
+<0014> P-por favor, ignoren a Ellie. En fin, comenzamos este concurso para obtener dinero y comprar delicias para nuestra aventura, pero... ¿Qué no estamos en una cueva llena de delicias?
+// (ellie)
+<0015> ¡Sí! No necesitamos de sus estúpidos hongos legendarios. ¡Tenemos muchos hongos que podemos comer aquí mismo! Apuesto a que eso te da celos, ¿o no? ¿Eh? ¿¿¿Eh???
+// (maynie)
+<0016> ¡No pueden abandonar el concurso a mitad de camino! ¡Eso no es para nada satisfactorio!
+// (arnelle)
+<0017> Cálmate, niña.
+// (maynie)
+<0018> S-sí, Dama Arnelle.
+// (arnelle)
+<0019> Si ellas abandonan, significa que estos hongos legendarios son todos nuestros. ¡Solo espera a que Watty y Pomeranius sepan acerca de esto!
+// (maynie)
+<0020> Es cierto! ¡¿Dama Arnelle, conseguimos nuestra primera victoria sin ellas, no es así?! ¡Maynie no puede esperar a decir eso en la cara de ese perro idiota!
+// (arnelle)
+<0021> Bueno, yo no puedo esperar para salir de esta cueva tan húmeda y conseguir mi dinero.
+// (lulu)
+<0022> Disculpe... ¿Acaso ese fue su estómago?
+// (arnelle)
+<0023> G-guh… Me concentré tanto en la carrera de hongos que olvidé todo sobre el almuerzo. 
+// (lulu)
+<0024> O-oh... y no estábamos realmente compitiendo. Lulu piensa que eso es un poco triste... 
+// (ellie)
+<0025> ¿Qué clase de cazadora de tesoros no puede comer bien? Tu cuerpo es el tesoro más grande, ¡todos lo saben! Ajaa~
+// (arnelle)
+<0026> Tch. Está entregando consejos como si fuera un viejo sabio, pero lo dice como una pequeña mocosa... Qué exasperante. 
+// (maynie)
+<0027> ¡Oooooh! ¡Ahora sí Maynie te va a dar de comer un gran puñetazo con hongos extra, tú-!
+// (lulu)
+<0028> MSeñora cazadora de tesoros, ¿quiere unos hongos asados? Lulu tiene muchos.
+// (ellie)
+<0029> ¡Eh, yo soy la que-! ¡¡Mmmmfpphh!!
+// (lulu)
+<0030> Shhh, Ellie.
+// (arnelle)
+<0031> De hecho... sí, quiero un poco. *crunch*\nVaya vaya, sí que es bueno.
+// (ellie)
+<0032> Je je~ ¿Acaso estás lista para inclinarte ante mis grandiosas habilidades culinarias?
+// (arnelle)
+<0033> La comida siempre sabe mejor cuando no tienes que pagar por ella.
+// (ellie)
+<0034> ...Grr. ¡Al menos podrías darme un cumplido o algo por el estilo!
+// (arnelle)
+<0035> Ah, ¿querías algo a cambio? Qué lindura. Bueno, ya que me siento generosa... te daré un consejo, de una cazadora de tesoros profesional a una novata.
+// (maynie)
+<0036> ¿Están escuchando? ¡Disfruten de la generosidad de la Dama Arnelle!
+// (arnelle)
+<0037> Si van a quedarse con todos estos hongos, asegúrense de cocinarlos bien. Las enfermarán si no lo hacen.
+// (lulu)
+<0038> ¿En serio? Lulu ha probado uno antes, pero no sintió ninguna diferencia...
+// (arnelle)
+<0039> OUno o dos está bien, pero comer demasiados no es bueno.
+// (maynie)
+<0040> ¡¿Bluh?!
+// (ellie)
+<0041> Ew. ¿Qué clase de sonido horrible fue ese?
+// (maynie)
+<0042> Um... Maynie... Maynie ha estado comiéndolos al momento de encontrarlos, ya que ha evitado el almuerzo...
+// (arnelle)
+<0043> ¿Y... y cuántos has encontrado?
+// (maynie)
+<0044> B-bueno... no lo sé.
+// (lulu)
+<0045> Oh no. Lulu tiene un mal presentimiento acerca de esto. Ellie, debemos salir de aquí antes de que ocurra algo malo...
+// (ellie)
+<0046> ¡Claro que no! ¿Y si necesita atención medica? 
+// (lulu)
+<0047> Tú solo piensas que será divertido.
+// (ellie)
+<0048> Quizás. Ajaa~
+// (maynie)
+<0049> Ah... Maynie no se siente muy bien...
+// (arnelle)
+<0050> Un segundo. No puedo permitir que un miembro del Equipo Arnelle caiga en un lugar como este. ¡Hup!
+// (ellie)
+<0051> ¿Estás segura de que deberías llevarla en tu espalda de esa forma? Su rostro está verde.
+// (maynie)
+<0052> Dama Arnelle… tOdOo dAa VuEltAsSss… ¡Urp!
+// (ellie)
+<0053> ¡Cielos! ¡¿Pero qué rayos?! ¡Son todos los colores del arcoíris!
+// (lulu)
+<0054> Y-y todo fue hacia esos hongos legendarios...
+// (arnelle)
+<0055> ...
+// (lulu)
+<0056> ...
+// (arnelle)
+<0057> ...Escuchen. Si alguien pregunta, nos vencieron y obtuvieron esos hongos primero.
+// (ellie)
+<0058> ¿Eh?
+// (arnelle)
+<0059> Si Pomeranius sabe que Maynie nos hizo perder los hongos, pelearán por eso hasta el fin de los tiempos. Nunca podré dormir...
+// (lulu)
+<0060> P-parece que ustedes también tienen sus propios problemas... Nos quedaremos calladas. ¿Verdad, Ellie?
+// (ellie)
+<0061> Aw... Supongo que me callaré.
+// (arnelle)
+<0062> ¡P-pero escuchen! ¡Esta no es la última vez que veran al Equipo Arnelle! Vamos, Maynie. Iremos a casa.
+// (maynie)
+<0063> Guuuuuuuuu...
+

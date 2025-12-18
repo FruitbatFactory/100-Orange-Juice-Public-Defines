@@ -1129,6 +1129,9 @@ CO-Oモード\n①ボスの手下をダウンさせる\n②高い難易度でボ
 < PLAYMENU_2MDOWNLOADS_MESSAGE >
 200万ダウンロードを祝して、新しいエクストラミッションが登場！\n今回のミオは何をするつもりのか…？
 
+< PLAYMENU_3MDOWNLOADS_MESSAGE >
+300万ダウンロード記念ミッションが登場！\nまりーぽっぽ系キャラクターを使って、エクストラミッション「{}」をノーマル以上の難易度でクリアすると、ポポミを獲得できます！
+
 < MENU_BOSS_DIFFICULTY_CASUAL >
 カジュアル
 
@@ -1369,6 +1372,9 @@ OJDexではユニットのプロフィールを確認できます。
 
 < MENU_CODEXSTORY_TITLE_ALTENICO >
 夜空の下の宝物
+
+< MENU_CODEXSTORY_TITLE_MUSHROOMWAR >
+キノコ争奪戦
 
 < MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
 {1}で{0}ゲームをプレイする。

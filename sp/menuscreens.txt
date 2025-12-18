@@ -1393,5 +1393,8 @@ Mantén presionado el botón izquierdo del mouse para avanzar
 < MENU_CSELECT_DIFFICULTY_LABEL >
 DIFICULTAD
 
+< PLAYMENU_3MDOWNLOADS_MESSAGE >
+¡La misión por la celebración de 3 Millones de Descargas ya está disponible!\n¡Completa la misión Extra "{}" en Normal o mayor dificultad como Marie Poppo para desbloquear a Popomi!
+
 
 [EOF]

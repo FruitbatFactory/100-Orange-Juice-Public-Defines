@@ -1128,6 +1128,9 @@ QP还想多玩一会！夏日野兽复活了！
 < PLAYMENU_2MDOWNLOADS_MESSAGE >
 为庆祝200万下载量，游戏更新了全新的额外\n关卡！\n魅樱这次又会有什么打算……？
 
+< PLAYMENU_3MDOWNLOADS_MESSAGE >
+300 万次下载纪念关卡已开放！\n使用一种玛丽啵噗角色完成普通或以上难度的额外关卡“{}”，即可解锁啵啵美！
+
 < MENU_BOSS_DIFFICULTY_CASUAL >
 休闲
 
@@ -1368,6 +1371,9 @@ CPU自定义
 
 < MENU_CODEXSTORY_TITLE_ALTENICO >
 夜空下的宝藏
+
+< MENU_CODEXSTORY_TITLE_MUSHROOMWAR >
+蘑菇争夺战
 
 < MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
 使用「{1}」进行{0}场游戏。

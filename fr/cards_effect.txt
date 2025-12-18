@@ -591,7 +591,7 @@ descr=En fin de durée, l'envahisseur quitte le plateau.
 
 < CARD_IDEALWORLD_EFFECT >
 name=Invasion Robotique
-descr=La prochaine case Ennemi non-boss invoque un Roboulon avec +1 ATK.
+descr=La prochaine case Ennemi non-boss invoque un Roboulon avec 0 ATK.
 
 < CARD_HARDENEDSCALES_EFFECT >
 name=Écaille Durcie
@@ -784,6 +784,18 @@ descr=Contre 5 étoiles, peut poser un piège n'importe où sur un rayon de 2 ca
 < CARD_BURNINGPANEL_EFFECT >
 name=Case Brûlée
 descr=Cette carte est en feu. Commencer ou arrêter son tour dessus inflige 1 dégât.
+
+< CARD_STRAIN_EFFECT >
+name=Tension
+descr=À 30 cumuls, obtient Tendinite en début de tour.
+
+< CARD_TENDONITIS_EFFECT >
+name=Tendinite
+descr=60% de chance que les jets de dés fassent 0.\nL'effet disparaît en se soignant 2 PV ou plus, ou en jouant Jets de Précision.
+
+< CARD_PRECISEDICEROLLS_EFFECT >
+name=Jets de Précision
+descr=Ne fait que 4 ou plus aux jets de déplacement, combat et bonus.\nNe fait que 2 ou moins aux jets de malus.\nLorsque l'effet prend fin, obtient Tendinite en début de tour.
 
 [EOF]
 

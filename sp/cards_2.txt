@@ -624,6 +624,11 @@ name=Engaño Que Suena Intelectual
 descr=Escoge a otro jugador.\nEscoge el tipo de carta (Batalla/Impulso/Evento/Otro), y decláralo.\nSi la próxima carta usada por el jugador escogido es de ese tipo: recibes 2 Victorias y Estrellas (valor: Nivel x 10)\nSi no lo es, recibes 2 puntos de daño.
 flavor="Puedo ver las cartas que tienes." ―Kanata
 
+< CARD_HYPER_POPOMI >
+name=Tiros de Dados Precisos
+descr=Duración: 2 Capítulos.\n-Los dados solo podrán caer en 4 o mayor para moverse, dentro de un combate, y en paneles de estrellas.\n-Los dados solo podrán caer en 2 o menor en paneles de pérdidas.\nAl acabarse este efecto, recibes Tendinitis en el comienzo de tu próximo turno.\nPierde todos los efectos de Tensión.
+flavor="Mira lo increíble que son los tiros de Popo."―Popomi
+
 < CARD_GIFT_RANGEDTRAPS >
 name=Mira lo Largos Que Son Mis Brazos y Piernas Ahora
 descr=Podrás pagar 5 estrellas adicionales para colocar trampas en un radio de 2 paneles. Incrementa todos los niveles de las cartas (exceptuando las cartas Trampa y de Regalo) por 1 (hasta un máximo de 5). Esta carta será descartada al ser usada o al caer sobre una trampa.

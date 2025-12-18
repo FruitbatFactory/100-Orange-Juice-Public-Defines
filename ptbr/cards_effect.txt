@@ -773,4 +773,16 @@ descr=Você pode pagar 5 estrelas a mais para colocar armadilhas em um raio de 2
 name=Painel Ardente
 descr=Este painel está pegando fogo. Unidades começando ou terminando seus turnos nele tomarão 1 de dano.
 
+< CARD_STRAIN_EFFECT >
+name=Tensão
+descr=Ao atingir 30 estoques, ganhe Tendinite no começo do seu próximo turno.
+
+< CARD_TENDONITIS_EFFECT >
+name=Tendinite
+descr=60% de chance de cada rolagem de dado ser 0.\nEfeito removido ao receber um efeito de cura que pode curar mais de 2 HP, ou ao jogar Rolagens de Dados Precisas.
+
+< CARD_PRECISEDICEROLLS_EFFECT >
+name=Rolagens de Dados Precisas
+descr=-Só pode rolar 4 ou superior para movimento, batalha e bônus.\n-Só pode rolar 2 ou inferior para perda.\nApós o efeito acabar, ganhe Tendinite no começo do próximo turno.
+
 [EOF]

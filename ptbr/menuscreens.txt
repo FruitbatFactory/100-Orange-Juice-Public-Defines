@@ -1140,6 +1140,9 @@ Ordenando os itens do inventário...
 < PLAYMENU_2MDOWNLOADS_MESSAGE >
 Obrigado pelos mais de 2 milhões de downloads!\nNova missão Extra está disponível! O que a Mio está aprontando...?
 
+< PLAYMENU_3MDOWNLOADS_MESSAGE >
+Missão de Celebração de 3 Milhões de Downloads Disponível!\nComplete missão Extra "{}" na dificuldade Normal ou superior como Marie Poppo para destravar Popomi!
+
 < MENU_BOSS_DIFFICULTY_CASUAL >
 Casual
 

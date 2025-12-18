@@ -1,0 +1,130 @@
+// OJDexStory_MushroomWar
+// (none)
+<0000> Existem diversos mundos diferentes, com diversas linhas do tempo diferentes. Essa é apenas uma das possíveis sequências de eventos...
+// (maynie)
+<0001> Lady Arnelle, aqui está! O lendário cogumelo vermelho!
+// (arnelle)
+<0002> E com este cogumelo azul ultrarraro... Ku-ku-ku. É a nossa vitória completa!
+// (maynie)
+<0003> Hahahaha! Que tal?! É o que esses amadores ganham por duvidarem da incrível Lady Arnelle! Espero que estejam sofrendo muito e...
+// (arnelle)
+<0004> Aliás, onde estão aquelas duas? Faz tempo que não as vemos.
+// (ellie)
+<0005> Aqui, Lulu! Diga 'aaaahn'!
+// (lulu)
+<0006> A Lulu precisa mesmo? É vergonhoso.
+// (ellie)
+<0007> Quem se importa? Estamos numa caverna no meio do nada! Ninguém pode ver! Diga "ahhn" agora mesmo!
+// (lulu)
+<0008> A-a-aaaahn?! *mastiga*
+// (ellie)
+<0009> É bom, né? Né?
+// (lulu)
+<0010> A Lulu acha que poderia ter um pouco mais de sal, mas está ótimo. Cogumelos grelhados são deliciosos.
+// (ellie)
+<0011> Ahaa~! Ouvir você dizer isso me faz sentir como se meu HP tivesse se recuperado completamente!
+// (maynie)
+<0012> Ei! O que vocês duas estão fazendo, sentadas aí comendo um lanche?! Não estão bravas porque a gente deu uma surra em vocês na Guerra dos Cogumelos?!
+// (ellie)
+<0013> Ei, cala a boca! Eu estou tentando aproveitar a fofura da Lulu!
+// (lulu)
+<0014> U-um, por favor ignore a Ellie. Enfim, começamos este concurso para termos dinheiro para comprar guloseimas para as nossas aventuras, mas... Esta caverna não está cheia de cogumelos deliciosos de qualquer forma?
+// (ellie)
+<0015> Sim! Nós não precisamos dos seus cogumelos lendários fedorentos. Temos tantos quantos quisermos cozinhar, bem aqui! Está com inveja? Hein? Hein?
+// (maynie)
+<0016> Você não pode simplesmente desistir no meio de uma competição! Isso não é nada satisfatório!
+// (arnelle)
+<0017> Garota, senta.
+// (maynie)
+<0018> S-sim, Senhora Arnelle.
+// (arnelle)
+<0019> Se elas estão desistindo, significa que esses cogumelos ultrarraros são todos nossos. Espere só até Watty e Pomeranius saberem disso!
+// (maynie)
+<0020> Oh, certo! Senhora Arnelle, conseguimos nossa primeira vitória sem eles, não é?! Maynie mal pode esperar para esfregar isso na cara daquele vira-lata!
+// (arnelle)
+<0021> Bem, mal posso esperar para sair desta caverna úmida e receber minha recompensa em dinheiro.
+// (lulu)
+<0022> Hum, com licença... Isso foi o seu estômago?
+// (arnelle)
+<0023> G-guh... Estava tão focada na corrida para encontrar os cogumelos que me esqueci completamente de almoçar.
+// (lulu)
+<0024> O-oh... e a gente não estava nem ao menos competindo. Lulu acha isso meio triste...
+// (ellie)
+<0025> Que tipo de caçadora de tesouros não consegue nem ao menos se alimentar direito? Seu corpo é seu maior tesouro. Todo mundo sabe disso! Ahaa~
+// (arnelle)
+<0026> Tch. Ela está dando conselhos como um velho, mas se expressa como uma pirralha mimada... Que irritante.
+// (maynie)
+<0027> Oooooh! Maynie vai aí te alimentar com uma bolacha na cara, sua-
+// (lulu)
+<0028> Senhora Caçadora de Tesouros, você gostaria de alguns cogumelos grelhados? Lulu possui vários.
+// (ellie)
+<0029> Ei, sou eu que - mmmmfpph!!
+// (lulu)
+<0030> Shhh, Ellie.
+// (arnelle)
+<0031> Na verdade... Eu acho que aceito. *mastiga*\nOh, é bom.
+// (ellie)
+<0032> Heh heh. Preparada para se curvar diante das minhas habilidades culinárias?
+// (arnelle)
+<0033> Comida sempre tem um gosto bom quando você não precisa pagar por ela.
+// (ellie)
+<0034> ...Grr. Você podia pelo menos me dar um elogio ou algo assim!
+// (arnelle)
+<0035> Oh, você quer algo de volta? Que fofo. Bem, como estou me sentindo generosa... Vou te dar uma pequena dica, de uma caçadora de tesouros profissional para uma novata.
+// (maynie)
+<0036> Ei, vocês duas estão ouvindo? Aproveitem a generosidade da Senhora Arnelle!
+// (arnelle)
+<0037> Se vocês forem guardar todos esses cogumelos, certifique-se de cozinhá-los bem. Caso contrário, eles podem te fazer mal.
+// (lulu)
+<0038> Sério? A Lulu já experimentou um antes, mas não notou nada...
+// (arnelle)
+<0039> Um ou dois não tem problema, mas exagerar é um problema.
+// (maynie)
+<0040> Bluh?!
+// (ellie)
+<0041> Ew. Que som nojento foi esse?
+// (maynie)
+<0042> Um... Maynie... A Maynie meio que andou comendo eles sempre que os encontrava, já que a gente não almoçou...
+// (arnelle)
+<0043> Q-quantos você comeu?
+// (maynie)
+<0044> U-um... Quantos a gente viu?
+// (lulu)
+<0045> Oh não. A Lulu está com um pressentimento muito ruim sobre isso. Ellie, vamos sair daqui antes que algo aconteça...
+// (ellie)
+<0046> De jeito nenhum! E se ela precisar de atendimento médico, hein?
+// (lulu)
+<0047> Você só acha que vai ser engraçado.
+// (ellie)
+<0048> Talvez. Ahaa~
+// (maynie)
+<0049> Ah... Maynie não se sente bem...
+// (arnelle)
+<0050> Calma aí. De jeito nenhum vou deixar uma integrante do Time Arnelle passar dessa para uma melhor num lugar desses. Hup!
+// (ellie)
+<0051> Tem certeza de que quer carregá-la nas costas assim? O rosto dela está ficando verde.
+// (maynie)
+<0052> Senhora Arnelle... TuDo EsTá GiRaNdO... Urp!
+// (ellie)
+<0053> Eita! Mas que raios?! São todas as cores do arco-íris!
+// (lulu)
+<0054> E-e caiu tudo naqueles cogumelos raros...
+// (arnelle)
+<0055> ...
+// (lulu)
+<0056> ...
+// (arnelle)
+<0057> ...Ouça. Se alguém perguntar, você se adiantou e pegou os cogumelos primeiro.
+// (ellie)
+<0058> Como é?
+// (arnelle)
+<0059> Se Pomeranius descobrir que Maynie nos fez perder os cogumelos, eles vão brigar por isso até o fim dos tempos. Eu nunca mais vou conseguir dormir...
+// (lulu)
+<0060> P-parece que você tem seus próprios problemas, também .. Vamos ficar quietas. Certo, Ellie?
+// (ellie)
+<0061> Aw... Creio que posso ficar calada.
+// (arnelle)
+<0062> M-mas ouça! Esta não será a última vez que você verá a Equipe Arnelle! Vamos lá, Maynie. Vamos te levar para casa.
+// (maynie)
+<0063> Guuuuuuuuu...
+

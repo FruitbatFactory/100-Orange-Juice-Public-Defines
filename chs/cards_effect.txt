@@ -785,4 +785,15 @@ descr=你可以多花5颗STAR将陷阱放置在5×5的范围内。所有非陷�
 name=燃烧中的格子
 descr=这个格子在燃烧。\n在这个格子上开始或结束回合的角色受到1点伤害。
 
+< CARD_STRAIN_EFFECT >
+name=劳损
+descr=若达到30层劳损，在你的下个回合开始时获得腱鞘炎。
+
+< CARD_TENDONITIS_EFFECT >
+name=腱鞘炎
+descr=每次掷骰有60%几率结果为0。\n该效果可由2点或以上恢复量的单次恢复效果，\n或使用「精确掷骰」消除。
+
+< CARD_PRECISEDICEROLLS_EFFECT >
+name=精确掷骰
+descr=·在移动、战斗和奖励骰时只会投出4点或以上。\n·在掉落骰时只会投出2点或以下。\n效果结束后，在下个回合开始时获得腱鞘炎。
 [EOF]

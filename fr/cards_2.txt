@@ -1,3 +1,4 @@
+
 < CARD_BOOST_AMBUSH >
 name=Embuscade
 descr=Vous défiez tous les ennemis sur votre case un par un. Passe votre jet de déplacement.
@@ -725,7 +726,7 @@ flavor="Laisse mon papa tranquille !" ―Mescal
 
 < CARD_HYPER_SHIFU >
 name=Monde Idéal
-descr=Pose le piège "Invasion" sur chaque Maison n'ayant pas déjà un piège.\n(Tous les Joueurs, Cumul : 2) Vous affrontez un Roboulon avec +1 ATK en tant que prochain ennemi sauvage.
+descr=Pose le piège "Invasion" sur chaque Maison n'ayant pas déjà un piège.\n(Tous les Joueurs, Cumul : 2) Vous affrontez un Roboulon avec 0 ATK en tant que prochain ennemi sauvage.
 flavor="La situation est entre mes mains." ―Shifu
 
 < CARD_HYPER_REIKA >
@@ -837,6 +838,11 @@ flavor="On va rendre la partie plus amusante !" ―Haruka
 name=Bluff d'Intello
 descr=Ciblez un joueur.\nDevinez le type de la prochaine carte qu'il va jouer (Combat/Boost/Évènement/Autre), et déclarez votre choix aux joueurs (vous pouvez mentir).\nSi votre prédiction est correcte, vous gagnez 2 Victoires et (votre Niv.) x10 ★.\nSi vous vous trompez et avez menti, vous subissez 2 dégâts.
 flavor="Je vois très clair dans ton jeu." ―Kanata
+
+< CARD_HYPER_POPOMI >
+name=Jets de Précision
+descr=Durée de l'Effet : 2 chapitres\n• Vous ne faites que 4 ou plus aux jets de déplacement, combat et bonus.\n• Vous ne faites que 2 ou moins aux jets de malus.\nLorsque l'effet s'estompe, vous gagnez Tendinite en début de prochain tour.\nEnlève toute la Tension.
+flavor="Voyez par vous-mêmes à quel point les jets de Popo sont incroyables !" ―Popomi
 
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=Arme Ultime au Soleil
@@ -954,3 +960,4 @@ descr=C'est une carte Bannière.
 flavor="Je vois très clair dans ton jeu." ―Kanata
 
 [EOF]
+

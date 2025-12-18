@@ -1,0 +1,160 @@
+<0000> Hoï !
+<0001> Allez !
+<0002> Soï !
+<0003> Argh !
+<0004> C'est le moment opportun !
+<0005> En tant que Miss 100% OJ, Popo est experte des cartes.
+<0006> Popo sent que c'est le moment.
+<0007> Popo tente une approche offensive.
+<0008> Piège posé !
+<0009> C'est la stratégie de Popo !
+<0010> Popo place son piège.
+<0011> Héhé, faites gaffe au piège !
+<0012> On va faire bouger les choses !
+<0013> Cette carte va t'achever.
+<0014> Popo joue une carte Combat.
+<0015> Allez, ça passe ou ça casse !
+<0016> Allez, petit bras...! Tiens bon encore un peu !
+<0017> Vous allez regretter d'avoir KO Popo.
+<0018> Pfiou. Allez, on y retourne.
+<0019> Popo compte bien gagner cette partie !
+<0020> C'est pas fini ! Popo est de retour.
+<0021> B-bon, ça fait pas de mal de se reposer un peu.
+<0022> Pourquoi Popo s'est pas déjà relevée...?
+<0023> Pft. On va dire que c'est pas grave.
+<0024> Profitez que Popo soit à terre pour essayer de gagner.
+<0025> Une attaque !
+<0026> Voyons si tu peux encaisser l'attaque de Popo !
+<0027> Popo va t'achever ici et maintenant !
+<0028> Crève !
+<0029> Gueeh !
+<0030> Gyaah !
+<0031> Pft !
+<0032> Quoi, c'est tout ?
+<0033> Pas question de tomber KO.
+<0034> 'faut prendre soin de ses PV.
+<0035> Popo tient bon !
+<0036> Du soin, parfait.
+<0037> Un portail !
+<0038> Popo vous laisse tranquille pour l'instant.
+<0039> Popo s'envole.
+<0040> Ce serait bien de pouvoir se téléporter en vrai.
+<0041> Popo a fait une bêtise !
+<0042> C'est rien qu'un KO... Popo peut encore gagner.
+<0043> Pft ! Le dé a trahi Popo.
+<0044> Popo a perdu !?
+<0045> Popo va pas te rater !
+<0046> Popo va te KO en deux-deux.
+<0047> Ce combat va rendre Popo plus forte.
+<0048> Popo vise tous ceux qui baissent leurs gardes !
+<0049> Tu te prends pour qui ?
+<0050> Tu te crois vraiment capable de vaincre Popo ?
+<0051> Popo relève le défi.
+<0052> C'est toi qui vas perdre.
+<0053> Atatatatah !
+<0054> Prends ça !
+<0055> Tombe !
+<0056> À terre.
+<0057> Ghii !
+<0058> Aïe !
+<0059> Hé, oh ! Ça fait mal !
+<0060> J'ai presque rien senti !
+<0061> Gyaaaaah !!
+<0062> C'est horrible ! Trop horrible !
+<0063> Ça fait beaucoup trop !
+<0064> Popo doit tenir jusqu'au bout !
+<0065> Tu peux pas toucher Popo.
+<0066> T'appelles ça une attaque ?
+<0067> Tu pensais que ça toucherait Popo ?
+<0068> Sans dégâts !
+<0069> Un de moins !
+<0070> Allez, bonne nuit !
+<0071> Voilà la différence entre toi et Popo.
+<0072> En cadeau, t'as le droit de faire la sieste !
+<0073> Pft. Bon, Popo doit pas s'inquiéter...
+<0074> Popo devrait se reposer un peu.
+<0075> Dans ces moments, 'faut rester calme...
+<0076> P-Popo va pas te pardonner. Popo a vu ton visage !
+<0077> Rien de plus important que les étoiles.
+<0078> V'là des étoiles !
+<0079> Génial ! Des étoiles !
+<0080> C'est vraiment génial !
+<0081> Non, pas les étoiles !
+<0082> C'est le pire du pire !
+<0083> Les étoiles de Popo !
+<0084> Gyaah ! Popo va se ruiner !
+<0085> Rah, qui a posé ce piège !?
+<0086> Mais c'est pas possible !
+<0087> Comment Popo a pu tomber dans un piège aussi nul ?
+<0088> Hé, vous voulez pas arrêter de poser des pièges ici !?
+<0089> Tout le plateau est devenu dangereux.
+<0090> Ça va changer toute la donne.
+<0091> Popo va tabasser le boss !
+<0092> ÇA, c'est l'esprit 100% OJ.
+<0093> Popo choisit le quota Étoiles.
+<0094> Dans ces conditions, seules les étoiles sont fiables.
+<0095> Hihihi, Popo adore chercher les étoiles.
+<0096> On va bien s'amuser à chercher des étoiles.
+<0097> Popo va tous vous tabasser !
+<0098> Autrement dit... Popo va gagner en frappant tout ce qui bouge.
+<0099> Petit conseil, méfiez-vous de la puissance de Popo.
+<0100> Popo va vous envoyer au tapis.
+<0101> Popo est la mascotte, Miss 100% OJ.
+<0102> Salut, c'est Popomi. Tu peux aussi dire Marie Poppo.
+<0103> Sage décision.
+<0104> Admire la puissance de Miss 100% OJ !
+<0105> Ça va encore être une victoire facile pour Popo.
+<0106> 100% OJ est un jeu très difficile. Restez en garde tout du long.
+<0107> 100% OJ, ce sport si dangereux...
+<0108> Tant que le bras de Popo tient bon, elle peut encore gagner...
+<0109> Popo a gagné.
+<0110> C'est le vrai pouvoir de Marie Poppo.
+<0111> Rien de mieux que la victoire !
+<0112> Hahaha, évidemment que Popo allait gagner !
+<0113> T'as trouvé quoi ? Allez, fais voir.
+<0114> C'est nouveau, ça, non ?
+<0115> Tu t'es trouvé un truc bien ?
+<0116> Oh, génial. On va bien s'amuser avec dans nos parties.
+<0117> Allez, on échange.
+<0118> Popo quitte le plateau pour le moment.
+<0119> Tu seras plus utile que Popo.
+<0120> Popo peut se reposer vite fait ?
+<0121> Ok.
+<0122> Hé, pas mal.
+<0123> Popo s'en occupe.
+<0124> Non ! Pas question !
+<0125> Grrr.
+<0126> Popo a toute la chance de son côté.
+<0127> Euh...
+<0128> Allez, on y va.
+<0129> Un jet, une vie !!
+<0130> Bonne chance.
+<0131> Bonjour !
+<0132> Hmm... Popo sait pas quoi faire.
+<0133> C'est génial.
+<0134> Même Popo est impressionnée.
+<0135> C'est pas juste ! Pfff !
+<0136> C'était pas dans les plans de Popo, mais...
+<0137> Popo sait jouer toutes les cartes comme une pro.
+<0138> Popo va jouer celle-ci.
+<0139> Popo parie que ça va être drôle.
+<0140> Popo te remercie.
+<0141> Popo va entraîner ses apprenties comme des gladiateurs.
+<0142> Tu veux voir à quel point Popo est forte ? Elle va te montrer !
+<0143> Un combat entre Maripos.
+<0144> En tant que Miss 100% OJ, Popo va te vaincre !
+<0145> Ce combat dira qui est la vraie Marie Poppo...!
+<0146> Il peut y avoir qu'une Marie Poppo.
+<0147> Tu veux achever Popo ?
+<0148> Quoi, t'as peur de Popo ?
+<0149> Tu te prends vraiment trop pour une mascotte.
+<0150> Popo est plus mignonne que toi.
+<0151> Popo savait que c'était elle, la vraie mascotte...
+<0152> Que toutes les Poppos s'agenouillent devant Popo.
+<0153> Bien joué, t'étais douée.
+<0154> Maintenant, Popo est la seule mascotte de 100% OJ.
+<0155> Comment Popo peut se rater au Poppo-contre-Poppo...?
+<0156> Popo a perdu sa place de mascotte !
+<0157> Gh... Popo n'est pas la vraie Marie Poppo, alors ?
+<0158> Ça va pas être facile de vaincre le favori de 100% OJ...
+<0161> Arrrgh, m-mon poignet...!

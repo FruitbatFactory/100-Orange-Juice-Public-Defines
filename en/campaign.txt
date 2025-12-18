@@ -95,6 +95,9 @@ Secret Santa
 < CAMPAIGN_EXTRA_EIGHT >
 Divine Punishment
 
+< CAMPAIGN_EXTRA_NINE >
+Club Challenge
+
 < CAMPAIGN_STARBREAKER_ONE >
 Star Breaker Episode 1
 

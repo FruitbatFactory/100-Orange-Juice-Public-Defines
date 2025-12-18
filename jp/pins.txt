@@ -213,7 +213,7 @@ name=空飛ぶミラ
 desc=ミラをたくさん使った人に贈られるピンバッジ。\nこのバッジはヒーローの印。
 artist=Azurée
 
-< PIN_FLAYING_YUUKI >
+< PIN_FLYING_YUUKI >
 name=空飛ぶユウキ
 desc=ユウキをたくさん使った人に贈られるピンバッジ。\nオラオラオラオラ。
 artist=Azurée

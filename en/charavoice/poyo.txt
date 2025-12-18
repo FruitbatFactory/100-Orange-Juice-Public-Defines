@@ -141,6 +141,12 @@
 <0140> I'm grateful! Thank you, thank you!
 <0141> I'm gonna win this game, Chuu.
 <0142> You got my back, Chuu.
+<0143> Let's have some fun, Haru!
+<0144> Happy to join forces with you, Haru!
+<0145> The game isn't easy... when Kana's an opponent.
+<0146> Kana being on my side is pretty reassuring.
+<0147> I'm not sure how well Popo plays.
+<0148> Popo... are you good with this board game?
 <0149> Alright, let's get started with our club activity!
 <0150> Oh, I'm fan of yours, Q!
 <0151> Oh, it's Q!

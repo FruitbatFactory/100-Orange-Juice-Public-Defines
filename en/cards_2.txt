@@ -839,6 +839,11 @@ name=Intellectual-Sounding Bluff
 descr=Target another player.\nChoose a card type (Battle/Boost/Event/Other), then declare a card type.\nIf the next card played by target player is the Chosen type: gain 2 Wins and Lvl x 10 stars.\nDeclared only: take 2 damage. 
 flavor="I can see what cards you're holding." ―Kanata
 
+< CARD_HYPER_POPOMI >
+name=Precise Dice Rolls
+descr=Effect Duration: 2 chapters\n-Can only roll 4 or higher for movement, battle, and bonus.\n-Can only roll 2 or lower for drop.\nAfter the effect ends, gain Tendonitis at the start of the next turn.\nRemove all Strain.
+flavor="Find out for yourself just how incredible Popo's dice rolls are." ―Popomi
+
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=Ultimate Weapon in the Sun
 descr=During this battle, gain +3 ATK.

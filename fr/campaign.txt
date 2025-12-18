@@ -95,6 +95,9 @@ Secret Santa
 < CAMPAIGN_EXTRA_EIGHT >
 Punition Divine
 
+< CAMPAIGN_EXTRA_NINE >
+Challenge Bis
+
 < CAMPAIGN_STARBREAKER_ONE >
 Star Breaker Épisode 1
 
@@ -165,7 +168,7 @@ Girl Power Épisode 9
 Girl Power Dernier Épisode
 
 < CAMPAIGN_CHRISTMAS_2017 >
-Fête de Noël de Loubardie
+Fête de Noël Loubardie
 
 < CAMPAIGN_NICOARTHUR_ONE >
 Nöels Croisés Épisode 1
@@ -258,3 +261,4 @@ Nouvelle mission disponible : "%s" !
 
 
 [EOF]
+

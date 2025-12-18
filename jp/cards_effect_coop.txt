@@ -2,6 +2,10 @@
 name=見せかけの武装解除済み
 descr=次の行動がスキップされる。
 
+< CARD_UNLUCKYBEAST_EFFECT >
+name=不運な獣
+descr=次の行動がスキップされる。
+
 < CARD_STUFFED_EFFECT >
 name=満腹
 descr=次のバトルでATK-1。

@@ -394,7 +394,10 @@
 4=Ela é um pouco insistente e gosta de provocar as pessoas apenas o suficiente para deixá-las desconfortáveis.
 
 < LORE_SHIFU >
-1=Em breve!
+1=Shifu é o líder de uma missão de esperança - uma equipe que viajou pelo espaço durante 10.000 anos em busca de um novo mundo habitável após a devastação da guerra na época de Sora.
+2=Gosta: Nada\nOdeia: Tudo e todos que estiverem em seu caminho
+3=O homem, que aparenta estar nos seus 30 e poucos anos, tem uma personalidade narcisista e tirânica, mas é um gênio inigualável cuja inteligência foi a única razão pela qual os habitantes da nave espacial sobreviveram.
+4=Ao retornar à Terra no final da jornada deles, ele criou armas numeradas, incluindo os humanos alterados chamados de Marcas Shifu, e planejou invadir e dominar a Terra para sua própria população. No entanto, ele foi impedido por Suguri.
 
 < LORE_MESCAL >
 1=A data e o local de nascimento de Mescal são desconhecidos. Sem se deixar abalar por esse fato, ela foi criada pelo pirata dos céus Capitão Tequila e seu bando de piratas barulhentos como uma garota inocente e selvagem. Como sua família sempre foi de piratas do céu, ela nem se considera uma pirata, mas acredita ser uma aviadora comum.
@@ -417,7 +420,9 @@
 5=Fernet não tolera bobagens e é muito focada em seus objetivos e determinada a ter sucesso. Ela ainda valoriza suas conexões pessoais, incluindo sua velha amiga Marc, e tem uma mente um pouco mais aberta em relação a pessoas de todos os tipos.
 
 < LORE_HIMEMOONLIGHT >
-1=Em breve!
+1=Uma garota que uma vez serviu como a guardiã de uma nave espacial.
+2=Gosta: Flores da Terra\nOdeia: Conflito, tristeza
+3=Embora Hime possua um poder de combate tremendo, ela tem uma mente calma e serena, e detesta conflitos. Em vez disso, ela desfruta de sua vida tranquila cuidando de Suguri, enquanto trabalha na restauração e proteção da Terra.
 
 < LORE_WATTY >
 1=Watty é uma sereia - uma criatura ancestral de idade desconhecida.

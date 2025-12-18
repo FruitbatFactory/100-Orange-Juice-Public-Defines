@@ -95,6 +95,9 @@ Noel Secreta
 < CAMPAIGN_EXTRA_EIGHT >
 Punição Divina
 
+< CAMPAIGN_EXTRA_NINE >
+Desafio de Clube
+
 < CAMPAIGN_STARBREAKER_ONE >
 Star Breaker Episódio 1
 

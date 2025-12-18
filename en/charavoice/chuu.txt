@@ -141,6 +141,12 @@
 <0140> Thanks.
 <0141> Gotta keep an eye on Poyo's luck.
 <0142> I'm counting on you to draw good cards.
+<0143> Don't expect any mercy from me, Haruka.
+<0144> Well, let's have some fun, okay?
+<0145> Kanata... I gotta keep my guard up at all times.
+<0146> Kanata's incredibly helpful when working together.
+<0147> How good are you at the board game?
+<0148> It's great to work with you as a team.
 <0149> Playing with the usual members is such a relief.
 <0150> Marc and I look a little bit alike, don't we?
 <0151> Oh, I thought you were me.

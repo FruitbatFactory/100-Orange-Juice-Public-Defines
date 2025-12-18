@@ -95,6 +95,9 @@ QP　最終章
 < CAMPAIGN_EXTRA_EIGHT >
 挑戰神權
 
+< CAMPAIGN_EXTRA_NINE >
+社團挑戰
+
 < CAMPAIGN_STARBREAKER_ONE >
 星球破壞者　第1章
 

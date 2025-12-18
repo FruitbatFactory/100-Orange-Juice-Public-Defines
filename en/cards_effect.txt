@@ -785,4 +785,16 @@ descr=You may pay 5 more stars to place traps within a 2 panel radius. Increase 
 name=Burning Panel
 descr=This panel is on fire. Units starting or ending their turn on it will take 1 damage.
 
+< CARD_STRAIN_EFFECT >
+name=Strain
+descr=Upon reaching 30 stacks, gain Tendonitis at the start of your next turn.
+
+< CARD_TENDONITIS_EFFECT >
+name=Tendonitis
+descr=60% chance for each die roll to be 0.\nEffect removed by receiving a heal effect that can heal 2 HP or more, or playing Precise Dice Rolls.
+
+< CARD_PRECISEDICEROLLS_EFFECT >
+name=Precise Dice Rolls
+descr=-Can only roll 4 or higher for movement, battle, and bonus.\n-Can only roll 2 or lower for drop.\nAfter the effect ends, gain Tendonitis at the start of the next turn.
+
 [EOF]

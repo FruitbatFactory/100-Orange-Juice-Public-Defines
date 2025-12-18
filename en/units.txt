@@ -639,4 +639,8 @@ descr=If holding "Intellectual-Sounding Bluff", 50% chance to see the basic card
 name=Yuki (Dangerous)
 descr=Permanently turn every Tragedy in the Dead of Night held into Pudding. When an enemy triggers your trap, gain 1 Win. Gain a maximum of 1 Win from defeating wild units.
 
+< CARD_UNIT_POPOMI >
+name=Mari Popomi
+descr=Gain Strain every time you roll dice. At 30 Strain, gain Tendonitis at the start of your next turn:\nEffect Duration: 1 Chapter. 60% chance for each die roll to be 0.\nEffect removed by receiving a heal effect that can heal 2 HP or more, or playing Precise Dice Rolls.
+
 [EOF]

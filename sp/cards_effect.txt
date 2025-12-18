@@ -783,4 +783,17 @@ descr=Esta unidad podrá pagar 5 estrellas adicionales para colocar trampas en u
 name=Panel Ardiente
 descr=Este panel está en llamas. Las unidades que empiecen o terminen su turno en este panel recibirán 1 punto de daño.
 
+< CARD_STRAIN_EFFECT >
+name=Tensión
+descr=Al obtener 30 efectos guardados de este mismo tipo, recibes el efecto de Tendinitis en el comienzo de tu próximo turno.
+
+< CARD_TENDONITIS_EFFECT >
+name=Tendinitis
+descr=60% de probabilidad de que cada dado caiga en 0.\nEl efecto será removido al recibir un efecto de curación de 2 PV o mayor, o al usar Tiros de Dados Precisos.
+
+< CARD_PRECISEDICEROLLS_EFFECT >
+name=Tiros de Dados Precisos
+descr=-El dado solo puede caer en 4 o mayor al moverse, dentro de una batalla, y en los paneles de estrellas.\nEl dado solo puede caer en 2 o menor para los paneles de pérdidas.\nAl acabarse este efecto, recibes Tendinitis en el comienzo de tu próximo turno.
+
+
 [EOF]

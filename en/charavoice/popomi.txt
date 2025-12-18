@@ -1,0 +1,160 @@
+<0000> Hoi!
+<0001> Here goes!
+<0002> Soi!
+<0003> Argh!
+<0004> Now's the time!
+<0005> As Miss 100% OJ, Popo is an expert card player.
+<0006> Popo can tell this is the time.
+<0007> It's time to go aggressive.
+<0008> Trap set!
+<0009> This is Popo's strategy!
+<0010> Here's Popo's trap.
+<0011> Kukuku, there's a trap here.
+<0012> Time to push!
+<0013> This card will knock you out.
+<0014> Popo will play this card.
+<0015> It's do or die!
+<0016> Popo's arm... you have to hold out a little longer!
+<0017> Popo'll make you regret knocking her down.
+<0018> Phew, the break's over now.
+<0019> Popo's not about to give up on this game.
+<0020> It's not over yet — Popo has returned.
+<0021> W-well, Popo doesn't mind taking a little rest.
+<0022> There's no way Popo could fail to get back up...
+<0023> Tsk. There's no need to panic yet, though.
+<0024> Good luck making good progress while Popo's out of the picture.
+<0025> Attack!
+<0026> Can you survive Popo's strike?
+<0027> Popo's gonna knock you down right here!
+<0028> Go down!
+<0029> Gueeh!
+<0030> Gyaah!
+<0031> Tsk!
+<0032> That's nothing.
+<0033> Popo can't afford to go down.
+<0034> HP management is important.
+<0035> Popo can go on.
+<0036> Alright, Popo's got her HP back.
+<0037> Warp!
+<0038> A "retreat" for now.
+<0039> Time for a flight.
+<0040> Popo wishes she could warp in real life.
+<0041> Popo messed up!
+<0042> Just one knock-out... Popo can win it back.
+<0043> Tsk! The dice betrayed Popo.
+<0044> Popo got beaten!?
+<0045> Popo'll make sure she takes you down!
+<0046> Just let Popo knock you out.
+<0047> This battle will make Popo stronger.
+<0048> Popo will snipe anyone who lets their guard down!
+<0049> You don't know your place.
+<0050> You really think you can beat Popo?
+<0051> Challenge accepted.
+<0052> You'll be the one to lose.
+<0053> Atatatatah!
+<0054> Eat this!
+<0055> Go down!
+<0056> You can just go to sleep.
+<0057> Geeh!
+<0058> Ow!
+<0059> What the heck! That hurts!
+<0060> This much damage is nothing.
+<0061> Gyaaaah!!!
+<0062> This is bad! This is so bad!
+<0063> That's way too much!
+<0064> Popo has to keep standing!
+<0065> There's no way you can hit Popo.
+<0066> That was a pretty feeble attempt at an attack.
+<0067> Think you could reach Popo?
+<0068> No damage taken!
+<0069> One down!
+<0070> Have a good rest.
+<0071> That's the difference between Popo and you.
+<0072> You may just go back to sleep for a while!
+<0073> Ugh, Popo doesn't need to freak out yet...
+<0074> Popo thinks she needs some rest.
+<0075> Th-this is exactly the time you have to stay calm...
+<0076> Po-Popo will not forgive you. Popo has your face memorized.
+<0077> Stars are what matters the most in 100% OJ.
+<0078> Got some stars!
+<0079> Yes! Got stars!
+<0080> There's nothing like this moment.
+<0081> Oh no, Popo's stars!
+<0082> Losing stars is the pits!
+<0083> Popo's stars!
+<0084> Gyaah! Popo will be broke!
+<0085> Argh, who set this trap!?
+<0086> Dang, this can't be happening.
+<0087> Popo can't believe she fell for a simple trap.
+<0088> You guys! Stop putting traps down at a place like this!
+<0089> The whole field feels tense now.
+<0090> This is going to be a pivotal turning point.
+<0091> Popo will kick the boss's butt.
+<0092> Now this feels more like "100% OJ."
+<0093> Popo chooses the star norma.
+<0094> Give the circumstances, stars is the only option.
+<0095> Fufufu, star-collecting is the best part of the board game.
+<0096> Let's have some fun gathering stars.
+<0097> Popo will knock out all of you.
+<0098> In other words... Popo will knock down everything that moves before winning.
+<0099> Don't underestimate Popo's power levels.
+<0100> Popo will make all of you lick the ground.
+<0101> Popo is the Miss 100% OJ mascot.
+<0102> Name's Popomi. You may also use "Marie Poppo."
+<0103> Smart of you to choose Popo.
+<0104> You are about to witness the strength of Miss 100% OJ.
+<0105> This is gonna be another game where Popo sweeps up an easy win.
+<0106> 100% OJ is a tough game. Make sure to keep your guard up.
+<0107> The dangerous sports known as 100% OJ...
+<0108> Popo is going to win this game while her arm lasts...
+<0109> Popo wins.
+<0110> This is what Marie Poppo is made of.
+<0111> Nothing feels better than this.
+<0112> Fufufu, of course Popo won the game!
+<0113> What'd you get? Show Popo.
+<0114> Looks like you got something new.
+<0115> Did something good come to you?
+<0116> Oh, that's a good one. It'll add more fun to our 100% OJ matches.
+<0117> Let's swap places.
+<0118> Popo'll be off the field for now.
+<0119> You don't need Popo here.
+<0120> Let Popo take a break, will you?
+<0121> OK.
+<0122> Looks good to me.
+<0123> Popo's got this.
+<0124> No! Never!
+<0125> Ugh.
+<0126> Popo even has Lady Luck on her side.
+<0127> Um...
+<0128> Alright, let's get started.
+<0129> One dice roll, one soul!!!
+<0130> Good luck.
+<0131> Good morning.
+<0132> Hmm... What should I do?
+<0133> That's fantastic.
+<0134> Even Popo's surprised.
+<0135> Popo's mad! Hmph!
+<0136> This card wasn't part of Popo's plans, but...
+<0137> Popo can play any card like a pro.
+<0138> Popo will use it.
+<0139> Popo bets something fun will happen.
+<0140> Popo will say thank you.
+<0141> Let Popo train her cute juniors Spartan style.
+<0142> You wanna know how good Popo is? She'll show you!
+<0143> It's a fight between two Maripo's.
+<0144> As Miss 100% OJ mascot, Popo will defeat you!
+<0145> The battle to determine the true Marie Poppo...!
+<0146> There can only be one Marie Poppo.
+<0147> You here to get rid of Popo?
+<0148> You're afraid of Popo as well?
+<0149> You sure like acting like you're the mascot, huh.
+<0150> Popo is more adorable than you.
+<0151> Popo knew she's the true mascot...
+<0152> All the other Poppos, bow down to Popo.
+<0153> Nice work, you were pretty strong.
+<0154> Now Popo is the only 100% OJ mascot.
+<0155> Popo lost the Poppo-against-Poppo battle...?
+<0156> Popo lost her mascot position!
+<0157> Ugh, does this mean Popo can't be the true Marie Poppo?
+<0158> Seems like it's not easy to beat the iconic face of 100% OJ...
+<0161> Arrrgh, m-my wrist...!

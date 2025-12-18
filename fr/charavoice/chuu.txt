@@ -35,7 +35,7 @@
 <0034> C'est beaucoup mieux comme ça, je crois ?
 <0035> C'est comme s'il ne s'était rien passé.
 <0036> Je crois que je me suis assez soignée\npour repartir à la charge...
-<0037> Ok, un portial, je gère.
+<0037> Ok, un portail, je gère.
 <0038> Zut, vers où ça m'emmène ?
 <0039> Oh, wow.
 <0040> Tout dépend de là où j'atterris.
@@ -141,6 +141,12 @@
 <0140> Merci.
 <0141> Faut que je fasse gaffe à Poyo et à sa chance.
 <0142> Poyo obtient toujours les meilleures cartes.
+<0143> Je te préviens, Haruka, je vais pas y aller mollo.
+<0144> On va essayer de bien s'amuser.
+<0145> Kanata... Ok, il faut surtout pas que je baisse ma garde.
+<0146> C'est toujours utile d'avoir Kanata dans son équipe.
+<0147> Tu te débrouilles comment à ce jeu ?
+<0148> Ravie d'être en équipe avec toi.
 <0149> C'est tellement mieux de jouer avec les habitués.
 <0150> C'est moi, ou on se ressemble un peu, Marc et moi ?
 <0151> Oh, je t'ai prise pour moi.

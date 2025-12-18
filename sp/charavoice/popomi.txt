@@ -1,0 +1,160 @@
+<0000> ¡Hoi!
+<0001> ¡Aquí va!
+<0002> ¡Soi!
+<0003> ¡Argh!
+<0004> ¡Ahora es el momento!
+<0005> Siendo la señorita 100% OJ, Popo es una experta en cartas.
+<0006> Popo puede sentir que es el momento.
+<0007> Hora de ser más agresiva.
+<0008> ¡Trampa colocada!
+<0009> ¡Esta es la estrategia de Popo!
+<0010> Aquí tienes la trampa de Popo.
+<0011> Kukuku, tienes una trampa aquí.
+<0012> ¡Hora de continuar!
+<0013> Esta carta te noqueará.
+<0014> Popo usará esta carta.
+<0015> ¡Es hacer o morir!
+<0016> El brazo de Popo... ¡debes aguantar un poco más!
+<0017> Popo te hará lamentar haberla noqueado.
+<0018> Phew, el descanso ha acabado.
+<0019> Popo no está a punto de rendirse en su juego.
+<0020> Esto aun no ha acabado - Popo ha regresado.
+<0021> B-bueno, a Popo no le molestará un breve descanso.
+<0022> No puede ser que Popo no se haya levantado...
+<0023> Tsk. Aun no hay razón para entrar en pánico.
+<0024> Buena suerte progresando mientras Popo no está aquí.
+<0025> ¡Ataque!
+<0026> ¿Puedes sobrevivir al ataque de Popo?
+<0027> ¡Popo te derribará aquí mismo!
+<0028> ¡Cáete!
+<0029> ¡Gueeh!
+<0030> ¡Gyaah!
+<0031> ¡Tsk!
+<0032> Eso no es nada.
+<0033> Popo no puede caerse aquí.
+<0034> El control de PV es algo importante.
+<0035> Popo puede seguir adelante.
+<0036> Muy bien, Popo ha recuperado sus PV.
+<0037> ¡Transportación!
+<0038> Una "retirada" por ahora.
+<0039> Hora del vuelo.
+<0040> Popo desearía poder teletransportarse en la vida real.
+<0041> ¡Popo ha metido la pata!
+<0042> Solo un noqueo... Popo puede volver a ganar.
+<0043> ¡Tsk! Los dados traicionaron a Popo.
+<0044> ¡¿Popo ha sido derrotada?!
+<0045> ¡Popo se encargará de derribarlos!
+<0046> Solo deja que Popo te noquee.
+<0047> Esta batalla hará que Popo sea más fuerte.
+<0048> ¡Popo acabará con todo aquél que tenga la guardia baja!
+<0049> Tú no conoces tu lugar.
+<0050> ¿Realmente piensas que puedes vencer a Popo?
+<0051> Desafío aceptado.
+<0052> Tú perderás.
+<0053> ¡Atatatatah!
+<0054> ¡Cómete esto!
+<0055> ¡Cáe!
+<0056> Puedes irte a dormir.
+<0057> ¡Geeh!
+<0058> ¡Ow!
+<0059> ¡Qué rayos! ¡Eso duele!
+<0060> Esta cantidad de daño no es nada.
+<0061> ¡¡¡Gyaaaah!!!
+<0062> ¡Esto es malo! ¡Esto es muy malo!
+<0063> ¡Eso es demasiado!
+<0064> ¡Popo tiene que seguir de pie!
+<0065> No hay forma de que puedas lastimar a Popo.
+<0066> Ese fue un intento muy pobre.
+<0067> ¿Crees que puedes alcanzar a Popo?
+<0068> ¡Ningún daño recibido!
+<0069> ¡Uno menos!
+<0070> Ten un buen descanso.
+<0071> Esa es la diferencia entre tú y Popo.
+<0072> ¡Puedes regresar a dormir por un momento!
+<0073> Ugh, Popo aun no tiene por qué entrar en pánico...
+<0074> Popo cree que necesita descansar un poco.
+<0075> E-este es el momento exacto en el que necesitas entrar en calma.
+<0076> Po-Popo nunca te perdonará. Popo recordará tu rostro.
+<0077> Las estrellas son lo que más importan en 100% OJ.
+<0078> ¡He conseguido algunas estrellas!
+<0079> ¡Sí! ¡Estrellas obtenidas!
+<0080> No hay nada como este momento.
+<0081> ¡Oh no, las estrellas de Popo!
+<0082> ¡Perdiendo estrellas en el pozo!
+<0083> ¡Las estrellas de Popo!
+<0084> ¡Gyaah! ¡Popo perderá su fortuna!
+<0085> Argh, ¡¿quién dejó esta trampa aquí?!
+<0086> Demonios, esto no puede estar pasando...
+<0087> Popo no puede creer que haya caído por una trampa tan simple...
+<0088> ¡Ustedes! ¡Deberían dejar de colocar trampas en lugares como este!
+<0089> Todo el campo se siente tenso.
+<0090> Este será un punto clave para cambiar el resultado.
+<0091> Popo pateará el trasero del jefe.
+<0092> Ahora esto sí que se siente más como "100% OJ."
+<0093> Popo escoge la norma de Estrellas.
+<0094> Dadas las circunstancias, las estrellas son la mejor opción.
+<0095> Fufufu, coleccionar estrellas es la mejor parte del juego.
+<0096> Vamos a divertirnos consiguiendo estrellas.
+<0097> Popo acabará con todos.
+<0098> En otras palabras... Popo acabará con todo lo que se mueve antes de ganar.
+<0099> No debes subestimar al nivel de poder de Popo.
+<0100> Popo hará que todos laman el suelo.
+<0101> Popo es la señorita mascota de 100% OJ.
+<0102> El nombre es Popomi. Pero también puedes decir "Marie Poppo".
+<0103> Eres inteligente al escoger a Popo.
+<0104> Estás a punto de ser testigo de la increíble fuerza de la señorita 100% OJ.
+<0105> Esta será otra partida en la que Popo obtenga una victoria fácil.
+<0106> 100% OJ es un juego difícil. Será mejor que no bajes la guardia.
+<0107> El peligroso deporte conocido como 100% OJ...
+<0108> Popo ganará esta partida mientras su brazo se encuentre bien...
+<0109> Popo gana.
+<0110> Esto es de lo que Marie Poppo está hecha.
+<0111> Nada se siente mejor que esto.
+<0112> Fufufu, ¡por supuesto que Popo gana la partida!
+<0113> ¿Qué tienes ahí? Muéstrale a Popo.
+<0114> Parece que has obtenido algo nuevo.
+<0115> ¿Acaso te tocó algo bueno?
+<0116> Ah, ese es bueno. Hará que las partidas de 100% OJ sean más divertidas.
+<0117> Vamos a cambiar de lugar.
+<0118> Popo dejará el campo de juego por ahora.
+<0119> No necesitas que Popo esté aquí.
+<0120> Deja que Popo descanse un poco, ¿de acuerdo?
+<0121> OK.
+<0122> Se ve bien para Popo.
+<0123> Popo puede hacerlo.
+<0124> ¡No! ¡Nunca!
+<0125> Ugh.
+<0126> Popo tiene a la dama de la suerte a su lado.
+<0127> Um...
+<0128> Muy bien, vamos a comenzar.
+<0129> ¡¡¡Un dado, un alma!!!
+<0130> Buena suerte.
+<0131> Buenos días.
+<0132> Hmm... ¿Qué debería hacer?
+<0133> Eso es fantástico.
+<0134> Hasta Popo está sorprendida.
+<0135> ¡Popo está enojada! ¡Hmph!
+<0136> Esta carta no estaba en los planes de Popo, pero...
+<0137> Popo puede usar cualquier carta como una profesional.
+<0138> Popo puede usarlo.
+<0139> Popo apuesta a que algo divertido va a ocurrir.
+<0140> Popo te dirá gracias.
+<0141> Deja que Popo entrene a sus aprendices al estilo Espartano. 
+<0142> ¿Quieres saber lo buena que Popo es? ¡Ella te mostrará!
+<0143> Es una pelea entre dos Maripo's.
+<0144> ¡Como la señorita 100% OJ, Popo va a derrotarte!
+<0145> ¡La batalla que determinará quién es la verdadera Marie Poppo...!
+<0146> Solo puede existir una Marie Poppo.
+<0147> ¿Estás aquí para deshacerte de Popo?
+<0148> ¿Acaso también le tienes miedo a Popo?
+<0149> Tu sí que actuas como si fueras la mascota.
+<0150> Popo es más adorable que tú.
+<0151> Popo sabía que era la verdadera mascota...
+<0152> Todas las otras Poppos, arrodíllense ante Popo.
+<0153> Buen trabajo, eres muy fuerte.
+<0154> Ahora Popo es la única mascota de 100% OJ.
+<0155> ¿Popo ha perdido en la Poppo-batalla contra Poppo...?
+<0156> ¡Popo ha perdido su posición como mascota!
+<0157> Ugh, ¿acaso esto significa que Popo no puede ser la verdadera Marie Poppo?
+<0158> Parece que el icónico rostro de 100% OJ no puede ser vencido...
+<0161> ¡Arrrrgh, mi muñeca...!

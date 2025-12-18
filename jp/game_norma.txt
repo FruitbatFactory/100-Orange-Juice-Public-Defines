@@ -8,6 +8,9 @@
 < GAME_NORMA_STARS >
 スターを<normaamount>以上所持する。
 
+< GAME_NORMA_STARS_REV >
+スターを<normaamount>以下所持する。
+
 < GAME_NORMA_STARS_10 >
 スターを10個以上所持する。
 
@@ -61,6 +64,9 @@
 
 < GAME_NORMA_WINS_14 >
 敵を14体以上撃破する。
+
+< GAME_NORMA_WINS_1_REV >
+敵を1体撃破する。
 
 < GAME_NORMA_WINS_2_REV >
 敵を2体以下撃破する。

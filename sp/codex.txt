@@ -394,7 +394,10 @@
 4=Es un poco molesta, y suele fastidiar a los demás lo suficiente para hacer que no se sientan cómodos.
 
 < LORE_SHIFU >
-1=(PRÓXIMAMENTE)
+1=Shifu es el líder de una misión con esperanza - un equipo que ha viajado a través del espacio por 10.000 años en búsqueda de un mundo habitable tras las incesantes guerras de la época de Sora.
+2=Le gusta: Nada\nNo le gusta: Todo y todo aquél que se meta en su camino
+3=El hombre que aparenta estar en sus 30s tiene una personalidad tiránica y narcisista, pero también es un genio sin rival con su intelecto siendo la única razón que los habitantes de la nave espacial sobrevivieron.
+4=Al regresar a la Tierra en el fin de su jornada, él creo una cantidad numerosa de armas, incluyendo a los humanos alterados llamados Marca Shifu, y planeó invadir y tomar la Tierra por su población. Aun así, él fue detenido por Suguri.
 
 < LORE_MESCAL >
 1=La fecha y lugar de nacimiento de Mescal son desconocidos. Sin permitir que ese hecho le moleste, ella fue criada por el pirata del cielo, el Capitán Tequila, y su pandilla de piratas como una chica inocente y salvaje. Ya que su familia siempre han sido los piratas del cielo, ella no se ve a si misma como un pirata, pero cree que es una aviadora normal. 
@@ -418,7 +421,9 @@
 5=Fernet no soportará las tonterías de nadie, siempre impulsada por sus objetivos y determinada a tener éxito. Ella sigue apreciando sus conexiones personales, incluyendo a su vieja amiga Marc, y tiene una mente abierta hacia todo tipo de persona. 
 
 < LORE_HIMEMOONLIGHT >
-1=(PRÓXIMAMENTE)
+1=Una chica que sirvió como la guardiana de una nave espacial.
+2=Le gusta: Las flores de la Tierra\nNo le gusta: El conflicto, la tristeza
+3=Aunque Hime posea un gran poder de combate, ella tiene una mente calmada y tranquila, y detesta el conflicto. En vez de eso, ella decide disfrutar su vida tranquila cuidando de Suguri, mientras trabaja en la restauración y la protección de la tierra.
 
 < LORE_WATTY >
 1=Watty es una sirena - una criatura antigua de edad desconocida.

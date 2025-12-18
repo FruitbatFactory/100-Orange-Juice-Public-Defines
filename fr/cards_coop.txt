@@ -665,7 +665,7 @@ flavor=
 
 < CARD_BOSS_COOP_VALUE_JUDGMENT >
 name=Jugement de Valeur
-descr=Calcule le total d'ATK de tous les joueurs réunis, et leur inflige le résultat en dégâts. Le Boss gagne (dégâts) x10 ★.\nSi l'ATK est négative, l'effet est inversé :\nLes joueurs sont soignés et le Boss donne de ses étoiles.
+descr=Calcule l'ATK de tous les joueurs réunis, et leur inflige la somme en dégâts, puis vole la somme x10 ★.\nSi la somme est négative, l'effet s'inverse :\nLes joueurs sont soignés et le Boss donne de ses étoiles.
 flavor=
 
 < CARD_BOSS_COOP_RANSOM_NOTE >
@@ -1529,3 +1529,4 @@ flavor=
 name=Purification
 descr=Si le joueur ciblé possède au moins un effet de Boss : Supprime tous les effets de Boss, puis soigne 1 PV, +1 par effet enlevé.\nSinon, applique l'effet "Purifié" : Empêche l'application d'effets de Boss.\nRecharge : 5 chapitres
 flavor=
+

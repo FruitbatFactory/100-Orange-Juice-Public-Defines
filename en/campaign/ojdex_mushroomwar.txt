@@ -1,0 +1,130 @@
+// OJDexStory_MushroomWar
+// (none)
+<0000> There are many different worlds, with many different timelines. This is merely one possible sequence of events...
+// (maynie)
+<0001> Lady Arnelle, there it is! The legendary red mushroom!
+// (arnelle)
+<0002> And with this ultra-rare blue mushroom... Ku-ku-ku. It's our complete victory!
+// (maynie)
+<0003> Hahahaha! How's that?! That's what those amateurs get for doubting the amazing Lady Arnelle! I hope they're miserable and...
+// (arnelle)
+<0004> Actually, where are those two? We haven't seen them in a while.
+// (ellie)
+<0005> Here, Lulu! Say 'aaaahn'!
+// (lulu)
+<0006> Does Lulu have to? It's embarrassing.
+// (ellie)
+<0007> Who the heck cares? We're in a cave in the middle of nowhere! Nobody can see! Say ahhn, right now!
+// (lulu)
+<0008> A-a-aaaahn?! *chomp*
+// (ellie)
+<0009> It's good, right? Right?
+// (lulu)
+<0010> Lulu thinks it could use a little more salt, but it's great. Grilled mushrooms are delicious.
+// (ellie)
+<0011> Ahaa~! Hearing you say that makes me feel like my HP fully recovered!
+// (maynie)
+<0012> Hey! What are you two doing, sitting around and having a snack!? Aren't you mad that we totally whupped you in the Mushroom War?!
+// (ellie)
+<0013> Hey, shut up! I'm trying to enjoy Lulu's cuteness!
+// (lulu)
+<0014> U-um, please ignore Ellie. Anyway, we started this contest so we'd have money to buy treats for our adventures, but... Isn't this cave full of delicious mushrooms anyway?
+// (ellie)
+<0015> Yeah! We don't need your stinky legendary mushrooms. We've got as many as we can cook, right here! Are you jealous? Huh? Huh?
+// (maynie)
+<0016> You can't just quit in the middle of a contest! That's not satisfying at all!
+// (arnelle)
+<0017> Down, girl.
+// (maynie)
+<0018> Y-yes, Lady Arnelle.
+// (arnelle)
+<0019> If they're quitting, it just means these ultra-rare shrooms are all ours. Just wait until Watty and Pomeranius hear about this!
+// (maynie)
+<0020> Oh, right! Lady Arnelle, we managed to get our first victory without them, didn't we?! Maynie can't wait to rub it in that mutt's face!
+// (arnelle)
+<0021> Well, I can't wait to get out of this humid cave and get my reward money.
+// (lulu)
+<0022> Um, excuse me... Was that your stomach?
+// (arnelle)
+<0023> G-guh... I was so caught up in racing to find the mushrooms that I forgot all about lunch.
+// (lulu)
+<0024> O-oh... and we weren't even really competing. Lulu thinks that's a bit sad...
+// (ellie)
+<0025> What kind of treasure hunter can't even eat right? Your body is your greatest treasure. Everybody knows that! Ahaa~
+// (arnelle)
+<0026> Tch. She's giving advice like an old man, but she phrases it like a total brat... How infuriating.
+// (maynie)
+<0027> Oooooh! Maynie's gonna come over there and feed you a knuckle sandwich, you little-
+// (lulu)
+<0028> Miss Treasure Hunter, would you like some grilled mushrooms? Lulu's got plenty.
+// (ellie)
+<0029> Hey, I'm the one who - mmmmfpph!!
+// (lulu)
+<0030> Shhh, Ellie.
+// (arnelle)
+<0031> Actually... I might take you up on that. *crunch*\nOh, it's good.
+// (ellie)
+<0032> Heh heh. Ready to bow down to my cooking skills?
+// (arnelle)
+<0033> Food always tastes good when you don't have to pay for it.
+// (ellie)
+<0034> ...Grr. You could at least give me a compliment or something!
+// (arnelle)
+<0035> Oh, you want something in return? Isn't that cute. Well, since I'm feeling generous... I'll give you a little tip, from a pro treasure hunter to a novice.
+// (maynie)
+<0036> Hey, are you two listening? Bask in Lady Arnelle's generosity!
+// (arnelle)
+<0037> If you're going to keep all these mushrooms, make sure you cook them properly. They can make you sick if you don't.
+// (lulu)
+<0038> Really? Lulu tried one before, but she didn't notice anything...
+// (arnelle)
+<0039> One or two is fine, but going overboard is bad news.
+// (maynie)
+<0040> Bluh?!
+// (ellie)
+<0041> Ew. What kind of gross sound was that?
+// (maynie)
+<0042> Um... Maynie... Maynie's kinda been eating them whenever she found them, since we were skipping lunch...
+// (arnelle)
+<0043> H-how many did you eat?
+// (maynie)
+<0044> U-um... How many did we see?
+// (lulu)
+<0045> Oh no. Lulu's got a really bad feeling about this. Ellie, let's get out of here before something happens...
+// (ellie)
+<0046> No way! What if she needs medical attention, huh?
+// (lulu)
+<0047> You just think it'll be funny.
+// (ellie)
+<0048> Maybe. Ahaa~
+// (maynie)
+<0049> Ah... Maynie doesn't feel so good...
+// (arnelle)
+<0050> Hold on. There's no way I'm letting a member of Team Arnelle go down in a place like this. Hup!
+// (ellie)
+<0051> Are you sure you wanna give her a piggyback like that? Her face is going all green.
+// (maynie)
+<0052> Lady Arnelle... eVeRyThInG's SpInNiNg... Urp!
+// (ellie)
+<0053> Whoa! What the heck?! It's all the colors of the rainbow!
+// (lulu)
+<0054> A-and it went all over those rare mushrooms...
+// (arnelle)
+<0055> ...
+// (lulu)
+<0056> ...
+// (arnelle)
+<0057> ...Listen. If anybody asks, you beat us to the punch and got the mushrooms first.
+// (ellie)
+<0058> Huh?
+// (arnelle)
+<0059> If Pomeranius finds out Maynie lost us the mushrooms, they'll be fighting over it until the end of time. I'll never get any sleep...
+// (lulu)
+<0060> I-it seems you've got your own problems, too... We'll keep quiet. Right, Ellie?
+// (ellie)
+<0061> Aw... I guess I can keep quiet.
+// (arnelle)
+<0062> B-but listen! This isn't the last you'll see of Team Arnelle! C'mon, Maynie. Let's get you home.
+// (maynie)
+<0063> Guuuuuuuuu...
+

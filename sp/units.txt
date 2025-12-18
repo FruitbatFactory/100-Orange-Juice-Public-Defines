@@ -639,4 +639,9 @@ descr=Recibe -1 ATK al comienzo de la batalla por cada aliado noqueado actualmen
 name=Kanata
 descr=Al tener en mano la carta "Engaño Que Suena Intelectual", tendrá un 50% de probabilidad de ver el tipo básico de cualquier carta que el oponente tome.
 
+< CARD_UNIT_POPOMI >
+name=Mari Popomi
+descr=Recibe un efecto de Tensión cada vez que tiras los dados. Al tener 30 efectos de Tensión, recibes el efecto de Tendinitis en el comienzo de tu próximo turno:\nDuración: 1 Capítulo. 60% de probabilidades de que cada dado caiga en 0.\nEste efecto será removido al recibir un efecto de curación de 2 PV o mayor, o al usar Tiros de Dados Precisos.
+
+
 [EOF]

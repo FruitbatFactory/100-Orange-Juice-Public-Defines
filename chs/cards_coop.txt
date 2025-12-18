@@ -1225,7 +1225,7 @@ flavor=
 
 < CARD_BOSS_COOP_CRITICAL_FAILURE >
 name=大失败
-descr=持续效果（3轮）\n当敌人在移动、奖励、掉落时骰子投出的点数为1或以下时，其受到1点伤害。
+descr=持续效果（3轮）\n当敌人在移动、奖励、掉落时，若骰子投出了1点或以下的点数，其受到1点伤害。
 flavor=
 
 < CARD_BOSS_COOP_NO_BULLYING >
@@ -1265,7 +1265,7 @@ flavor=
 
 < CARD_BOSS_COOP_WATCH_OUT >
 name=小心
-descr=持续效果（3轮）\n当敌人在移动、奖励、掉落时骰子投出的点数为5或以上时，其受到2点伤害。
+descr=持续效果（3轮）\n当敌人在移动、奖励、掉落时，若骰子投出了5点或以上的点数，其受到2点伤害。
 flavor=
 
 < CARD_BOSS_COOP_BUILDER_ENRAGE >
