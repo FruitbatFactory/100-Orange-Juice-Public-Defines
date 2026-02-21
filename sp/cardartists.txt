@@ -113,9 +113,6 @@ Yasume Yukito
 < CARD_ARTIST_LVMNOT >
 LVmNoT
 
-< CARD_ARTIST_EOKAMI >
-EOkami
-
 < CARD_ARTIST_TSUKINO >
 Tsukino
 

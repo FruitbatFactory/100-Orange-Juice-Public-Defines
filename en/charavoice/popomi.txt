@@ -18,7 +18,7 @@
 <0017> Popo'll make you regret knocking her down.
 <0018> Phew, the break's over now.
 <0019> Popo's not about to give up on this game.
-<0020> It's not over yet — Popo has returned.
+<0020> It's not over yet - Popo has returned.
 <0021> W-well, Popo doesn't mind taking a little rest.
 <0022> There's no way Popo could fail to get back up...
 <0023> Tsk. There's no need to panic yet, though.

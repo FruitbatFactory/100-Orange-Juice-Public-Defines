@@ -276,8 +276,8 @@ flavor="Qu'est-ce que je gagne à survivre...? Ce corps m'a déjà privé de ma 
 
 < CARD_GIFT_VALENTINESDAY2018 >
 name=Combat Sucré !
-descr=En main : Double vos gains de chocolat\nJouée en combat : Vous volez 200 étoiles par dégât infligé.\nCette carte est défaussée à l'usage ou en tombant KO.
-flavor="Un combat sucré tout doux et chou !" ―QP
+descr=En main : Double vos gains de chocolat\nJouée en combat : Vous volez 200 chocolats par dégât infligé.\nCette carte est défaussée à l'usage ou en tombant KO.
+flavor="Un combat tout doux tout chou, pour le sucre !" ―QP
 
 < CARD_GIFT_VALENTINESDAY2018_BINDER >
 name=Combat Sucré !

@@ -741,7 +741,7 @@ flavor="Th-that's dangerous... I'm sorry." ―Watty
 
 < CARD_HYPER_POMERANIUS >
 name=Goodest Boy
-descr=Effect duration: 3 Chapters\nImmune to instant KO effects. When staying on a panel with another player at the end of either player's turn, gain a copy of a random card in their hand. You can neither challenge nor be challenged, but opponents may stop to Pet you. Effect expires on KO.
+descr=Effect Duration: 3 Chapters\nImmune to instant KO effects. When staying on a panel with another player at the end of either player's turn, gain a copy of a random card in their hand. You can neither challenge nor be challenged, but opponents may stop to Pet you. Effect expires on KO.
 flavor="*Whimper*" ―Pomeranius
 
 < CARD_HYPER_SWEETCREATOR >

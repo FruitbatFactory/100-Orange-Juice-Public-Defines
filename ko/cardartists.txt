@@ -119,9 +119,6 @@ Yasume Yukito
 < CARD_ARTIST_LVMNOT >
 LVmNoT
 
-< CARD_ARTIST_EOKAMI >
-EOkami
-
 < CARD_ARTIST_TSUKINO >
 츠키노
 
@@ -143,9 +140,6 @@ Usanekorin
 < CARD_ARTIST_RITSU >
 Ritsu
 
-< CARD_ARTIST_PENCILCHEWING >
-pencilchewing
-
 < CARD_ARTIST_WOODCHIN >
 WoodChin
 
@@ -154,9 +148,6 @@ ScorpionCard
 
 < CARD_ARTIST_BAEDONG >
 배동
-
-< CARD_ARTIST_CALAMARIPOP >
-Calamari-Pop
 
 < CARD_ARTIST_CALAMARIPOP >
 Calamari-Pop

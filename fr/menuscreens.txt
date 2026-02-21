@@ -113,6 +113,9 @@ Effets
 < MENU_BUTTON_LOBBYLIST_FIELDNAME >
 Plateau
 
+< MENU_BUTTON_LOBBYLIST_ENABLEPRIVATELOBBIES >
+Afficher Salons Privés
+
 < MENU_BUTTON_LOBBYLIST_HW2018 >
 Sucre & Malices
 
@@ -570,10 +573,7 @@ Vous pouvez accéder au mode Co-op dans la section "Mode de jeu", aux côtés de
 Choisissez sous quelle difficulté affronter le Boss avant de commencer. Chaque palier débloque et renforce ses capacités ! La difficulté détermine aussi les oranges et l'expérience reçues.
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_03 >
-Le choix du plateau est affecté par le choix du Boss, ainsi que la difficulté sélectionnée.\n
-Facile : Jouez sur n'importe quel plateau débloqué.\n
-Normal et Extrême: Jouez sur une sélection de plateaux prévus pour le Co-op.\n
-Hyper: Jouez sur un plateau spécifique au boss.\n
+Le choix du plateau est affecté par le choix du Boss, ainsi que la difficulté sélectionnée.\nFacile : Jouez sur n'importe quel plateau débloqué.\nNormal et Extrême: Jouez sur une sélection de plateaux prévus pour le Co-op.\nHyper: Jouez sur un plateau spécifique au boss.\n
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_04 >
 Un Boss au niveau Hyper dispose de ses plus puissantes capacités... défiez-en un, n'importe lequel, et vous aurez droit à un vrai défi !

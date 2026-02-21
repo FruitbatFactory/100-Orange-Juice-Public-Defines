@@ -96,3 +96,18 @@
 <0094> Por tu ayuda, debería darte algo...\nCómo debería decirlo... Es algo así como una muestra de mi gratitud... ¡En fin!
 <0095> ¡D-dejé todo mi amor en esto!\n¡Tómalo!
 <0096> ¡Feliz día de San Valentín, <player>!
+// ValentinesEpilogue
+// (sweetblogger)
+<0097> Perdón por llegar tarde~
+// (sweetcreator)
+<0098> Ella insistía en ayudarme a crear un postre de chocolate que sea apto para perros... *suspiro*.
+// (sweetblogger)
+<0099> ¡Hice suficiente para todos, así que espero que estén hambrientas por un poco de chocolate!
+// (qp)
+<0100> Ehh...
+// (tmsw)
+<0101> ...
+// (sweetb)
+<0102> ...
+// (saki)
+<0103> Te-he~ ♥

@@ -96,3 +96,18 @@
 <0094> Since you helped me so much, I must give you something...\nHow should I put it... It's something like a token of my gratitude... Anyway!
 <0095> I-I put all my love in this!\nPlease take it!
 <0096> Happy Valentine's Day, <player>!
+// ValentinesEpilogue
+// (sweetblogger)
+<0097> Sorry we're late~
+// (sweetcreator)
+<0098> She insisted on making me help her create a chocolate dish that's OK for doggies to eat... sheesh.
+// (sweetblogger)
+<0099> I made a lot for everyone, I hope you're hungry for some chocolate!
+// (qp)
+<0100> Um...
+// (tmsw)
+<0101> ...
+// (sweetb)
+<0102> ...
+// (saki)
+<0103> Teehee♥

@@ -70,7 +70,7 @@
 <0021> Hmmmmm...
 
 // (suguri46b)
-<0022> ♪
+<0022> ♪
 // (sumika)
 <0023> Demonios. ¡Estás silbando!\n¿Acaso sabías que tu felicidad se hace visible en el momento que empiezas a ganar?
 

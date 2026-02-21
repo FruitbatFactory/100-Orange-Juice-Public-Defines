@@ -210,6 +210,9 @@ $sのミュートを解除しました。
 < CHAT_SYSTEM_CHEATDETECTED_HOST >
 「%s」は無効なカードを使ってチートを行おうとしたため、追い出されました。
 
+< CHAT_SYSTEM_DESYNCDETECTED >
+{}との同期が切れました。自動的に再接続します。
+
 // Invite = game invitation
 < GAMEINVITE_PENDING_TITLE >
 保留中の招待

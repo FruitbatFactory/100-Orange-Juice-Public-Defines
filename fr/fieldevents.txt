@@ -114,3 +114,7 @@ descr=
 < FIELDEVENT_CONVERGENCE >
 name=Convergence
 descr=Remplace le plateau actuel par un autre.\n\nFréquence : Tous les 6 chapitres
+
+< FIELDEVENT_CLASHOFCAKES >
+name=Gâteaux
+descr=Tous les joueurs piochent une carte '"Gâteau' de Mio".\n\nFréquence : Tous les 6 chapitres.

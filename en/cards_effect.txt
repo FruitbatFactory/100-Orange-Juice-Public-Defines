@@ -685,10 +685,6 @@ descr=At the start of your turn, dive to chosen panel dealing Lvl x1 damage to u
 name=Dive Fatigue
 descr=Cannot Norma while this effect is active.
 
-< CARD_BOMBIMMUNITY_EFFECT >
-name=Explosion Immunity
-descr=Take no damage from bomb explosions until the beginning of next chapter.
-
 < CARD_HOTPOTATO_EFFECT >
 name=Hold the Gremlin
 descr=It's only a matter of time before you explode!

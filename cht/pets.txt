@@ -331,7 +331,7 @@ descr=你可以帶她前往任何地方。
 
 < PET_MINIATUREMARC >
 name=縮微瑪兒
-descr=1:16比例的飛行員。
+descr=1:16小飛行員。
 
 < PET_ALTEHUGTOY >
 name=阿露特抱抱玩具
@@ -343,7 +343,7 @@ descr=最豪華的《100%鮮橙汁》終極周邊，現在訂購僅需——
 
 < PET_DARKNESSKRILA >
 name=黑暗克里拉
-descr=主人也變成了玩偶。
+descr=風水輪流轉。
 
 < PET_LUCKYLULU >
 name=幸運露露
@@ -358,7 +358,7 @@ name=勇往直前佳愛
 descr=在夜裡守護你的小夥伴。
 
 < PET_BUDGETKAI >
-name=廉價版凱
+name=廉價凱
 descr=一張諭吉就可以帶回家。
 
 < PET_STEALTHYTSIH >

@@ -685,10 +685,6 @@ descr=En début de tour, atterrit sur la case marquée, infligeant (Niv.) dégâ
 name=Atterrissage
 descr=Ne peut pas valider de Quotas.
 
-< CARD_BOMBIMMUNITY_EFFECT >
-name=Immunité aux Explosions
-descr=Les bombes ne vous infligent aucun dégât jusqu'au prochain chapitre.
-
 < CARD_HOTPOTATO_EFFECT >
 name=Gremlin en Main
 descr=Donnez-la vite à quelqu'un d'autre avant d'exploser !
@@ -798,4 +794,5 @@ name=Jets de Précision
 descr=Ne fait que 4 ou plus aux jets de déplacement, combat et bonus.\nNe fait que 2 ou moins aux jets de malus.\nLorsque l'effet prend fin, obtient Tendinite en début de tour.
 
 [EOF]
+
 

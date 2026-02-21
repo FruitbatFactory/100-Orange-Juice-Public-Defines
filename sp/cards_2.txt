@@ -784,26 +784,6 @@ name=Bis
 descr=Cuando esta carta es activada en un panel de Estrellas, Pérdidas, Cartas o Batallas, el efecto de ese panel ocurre dos veces.
 flavor="¡Otra! ¡Otra!"
 
-< CARD_MINIGAME_TURNSKIP >
-name=Poppo Para
-descr=
-flavor=
-
-< CARD_MINIGAME_REVERSEMOVEMENT >
-name=Poppo Reversa
-descr=
-flavor=
-
-< CARD_MINIGAME_DOUBLEDICE >
-name=Poppo Dado
-descr=
-flavor=
-
-< CARD_MINIGAME_FROSTWALKER >
-name=Poppo Helado
-descr=
-flavor=
-
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=El Arma Definitiva Bajo el Sol
 descr=Durante esta batalla,\nconsigues +3 ATK.
@@ -838,11 +818,6 @@ flavor="¿Estás listo para esto?" ―Arturo
 name=Devolución de Nieve
 descr=En el turno de defensa, devuélve toda bola de nieve que te toque a aquellos que la lanzaron. Ignora los efectos de las unidades que niegan el uso de esta carta.
 flavor="¡Y-y te volverá ahora mismo!" ―Aru
-
-< CARD_XMAS2018_SNOWBALLFIGHTBAN >
-name=Frío
-descr=
-flavor=
 
 < CARD_BOOST_OVERTIME >
 name=Tiempo Suplementario

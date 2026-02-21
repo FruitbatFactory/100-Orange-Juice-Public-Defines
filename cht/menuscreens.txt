@@ -113,6 +113,9 @@
 < MENU_BUTTON_LOBBYLIST_FIELDNAME >
 場地
 
+< MENU_BUTTON_LOBBYLIST_ENABLEPRIVATELOBBIES >
+顯示私密房間
+
 < MENU_BUTTON_LOBBYLIST_HW2018 >
 拿糖又搗蛋
 
@@ -169,7 +172,7 @@
 換人冷卻
 
 < MENU_LOBBYSETTING_PARTNERREGENDELAY >
-搭檔復活時間變化
+搭檔恢復延遲
 
 < MENU_BUTTON_GAME_RETURN >
 回到遊戲
@@ -567,10 +570,7 @@ NoName老師恢復了原狀，\n所有人都避免了留級危機！
 BOSS有4種難度級別可供選擇。在更高\n的難度下BOSS會使用更強大的能力！\n而你在獲勝時也可以得到更豐厚的經驗和\n橙子獎勵。
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_03 >
-可以選擇的地圖會被BOSS和難度影響。\n
-休閒：任何你擁有的常規地圖。\n
-普通和極端：一組全新的合作地圖。\n
-HYPER：一個特別的BOSS競技場地圖。\n
+可以選擇的地圖會被BOSS和難度影響。\n休閒：任何你擁有的常規地圖。\n普通和極端：一組全新的合作地圖。\nHYPER：一個特別的BOSS競技場地圖。\n
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_04 >
 HYPER難度的BOSS還會擁有獨特而又強大\n的能力……在你想要尋找真正的挑戰時\n再去試試看吧！

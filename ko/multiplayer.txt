@@ -211,6 +211,8 @@ CPU 플레이어로 대체 중입니다.
 < CHAT_SYSTEM_CHEATDETECTED_HOST >
 %s이(가) 치트로 부적절한 카드 사용을 시도하여 추방되었습니다.
 
+< CHAT_SYSTEM_DESYNCDETECTED >
+{}(으)로부터 비동기화가 감지되었습니다. 자동으로 재연결합니다.
 
 // Invite = game invitation
 < GAMEINVITE_PENDING_TITLE >

@@ -204,7 +204,7 @@ name=El Presagio
 descr=No puede ser dañado o noqueado fuera de una batalla. Desafía a todos los jugadores en su camino. Al derrotar a su oponente, roba un punto de fama, recibe un punto de Come-Almas y recupera un punto de vida (si es que no ha Despertado). Otorga 2 puntos de fama (además de la fama robada) al ser noqueado.
 
 < CARD_UNIT_EVILMOUSSE >
-name=Espumatón de Chocolate Oscuro
+name=Espumatón Oscuro
 descr=No puede ser dañada o noqueada fuera de una batalla. Si su oponente es derrotado en una batalla, roba 1 punto de Fama, recibe un efecto de Come-Estrellas y recupera un punto de vida (si es que no ha Despertado). Otorga 2 puntos de fama (además de la fama robada) al ser noqueada. Tras una batalla, se teletransporta a un panel aleatorio.
 
 < CARD_UNIT_FAE >

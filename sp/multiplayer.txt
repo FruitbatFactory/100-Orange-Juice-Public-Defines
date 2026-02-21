@@ -203,7 +203,6 @@ Se perdió la conexión con %s.
 Invitación pendiente
 
 < GAMEINVITE_JOIN_TOOLTIP >
-Go to the Main Menu to join the game.
 Ve al Menú Principal para unirte a la partida.
 
 // Game speed: <nb>
@@ -234,6 +233,9 @@ NIVEL %d
 
 < PLAYERPLATE_STEAMWINS >
 Victorias: %d
+
+< CHAT_SYSTEM_DESYNCDETECTED >
+Se ha detectado un error en la conexión de {}. Intentaremos volver a conectarte.
 
 [EOF]
 

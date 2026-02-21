@@ -173,9 +173,6 @@ Esta campaña solo puede ser jugada por los propietarios del DLC: "Escape de Pri
 < COM_FREEBATTLE_CHOOSEGAMETYPE >
 Escoja un modo de juego.
 
-< COM_FREEBATTLE_CHOOSEGAMETYPE >
-Juegue una partida en línea o en soledad.
-
 < COM_FIELDSELECT >
 Escoja un mapa.
 

@@ -67,11 +67,6 @@ descr=La creación más reciente de los famosos talabarteros, y una mejora direc
 name=Zapatos de Vendaval
 descr=Impulsados por una magia muy poderosa. Nunca te sentirás cansado al usar este par de zapatos. Añade +2 MOV, y +1 MOV adicional al tener 2 o menos contratos en mano.
 
-// Winter 2020 Event Special Item (hola)
-< INVENTORY_DELICACY >
-name=Delicadeza
-descr=Un bocado para Cook. Podrás conseguir hasta un máximo de 3 por juego.
-
 < INVENTORY_CURSEDSHOES >
 name=Zapatos Mejorados de Vendaval
 descr=Añade +4 MOV, pero solo podrás tener un contrato en mano.

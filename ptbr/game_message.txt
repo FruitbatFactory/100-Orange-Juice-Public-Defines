@@ -151,9 +151,6 @@ Colocar peça
 < GAME_MESSAGE_XMAS2018_CASTLE_CHANGE >
 Trocar peça
 
-< GAME_MESSAGE_CONFIRMCARDUSE >
-Usar esta carta?
-
 < GAME_MESSAGE_SHOPSTOP >
 Você deseja parar na Loja?
 

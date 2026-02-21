@@ -681,10 +681,6 @@ descr=No começo de seu turno, mergulhe para o painel escolhido. Unidades em um 
 name=Fadiga de Mergulho
 descr=Não pode concluir Norma enquanto este efeito estiver ativo.
 
-< CARD_BOMBIMMUNITY_EFFECT >
-name=Imunidade a Explosão
-descr=Não receba dano de explosões de bomba até o início do próximo capítulo.
-
 < CARD_HOTPOTATO_EFFECT >
 name=Segure o Gremlin
 descr=É só uma questão de tempo até que você exploda!

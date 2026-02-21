@@ -581,7 +581,7 @@ descr=Cannot use the Evade command in battle. If you would take 1 damage while u
 
 < CARD_UNIT_MIMYUUJAILBIRD >
 name=Mimyuu (Jailbird)
-descr=When KO’d in battle, move to your Home panel.
+descr=When KO'd in battle, move to your Home panel.
 
 < CARD_UNIT_MOTHERP >
 name=Mother Poppo

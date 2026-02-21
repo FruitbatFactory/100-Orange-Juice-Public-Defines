@@ -113,6 +113,9 @@
 < MENU_BUTTON_LOBBYLIST_FIELDNAME >
 场地
 
+< MENU_BUTTON_LOBBYLIST_ENABLEPRIVATELOBBIES >
+显示私密房间
+
 < MENU_BUTTON_LOBBYLIST_HW2018 >
 拿糖又捣蛋
 
@@ -169,7 +172,7 @@
 换人冷却
 
 < MENU_LOBBYSETTING_PARTNERREGENDELAY >
-搭档复活时间变化
+搭档恢复延迟
 
 < MENU_BUTTON_GAME_RETURN >
 回到游戏
@@ -567,10 +570,7 @@ NoName老师恢复了原状，\n所有人都避免了留级危机！
 BOSS有4种难度级别可供选择。在更高\n的难度下BOSS会使用更强大的能力！\n而你在获胜时也可以得到更丰厚的经验和\n橙子奖励。
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_03 >
-可以选择的地图会被BOSS和难度影响。\n
-休闲：任何你拥有的常规地图。\n
-普通和极端：一组全新的合作地图。\n
-HYPER：一个特别的BOSS竞技场地图。\n
+可以选择的地图会被BOSS和难度影响。\n休闲：任何你拥有的常规地图。\n普通和极端：一组全新的合作地图。\nHYPER：一个特别的BOSS竞技场地图。\n
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_04 >
 HYPER难度的BOSS还会拥有独特而又强大\n的能力……在你想要寻找真正的挑战时\n再去试试看吧！

@@ -31,3 +31,33 @@ NOT DEFENDER
 
 < CARD_TERM_UPDATE >
 (REPEAT (X): After cards of the same name have been played X times by any player, card gains additional effects.)
+
+< CARD_TERM_UPGRADE >
+UPGRADE: Instead of playing the card, the Upgrade cost can be played to turn this card into its upgraded version. The Upgrade uses the card use action of Standby phase.
+
+< CARD_TERM_HYPER >
+HYPER: Each unit has a unique Hyper card. By default, 8 blank Hyper cards are added to the Deck at the start of the game. Once drawn or otherwise acquired, a blank Hyper card becomes the Hyper card of the unit who drew it, until it is played or discarded and the deck is reshuffled.
+
+< CARD_TERM_BATTLE >
+BATTLE: Cards of this type can be used at the start of battle to apply effects.
+
+< CARD_TERM_EVENT >
+EVENT: Cards of this type affect all players or the field when played.
+
+< CARD_TERM_BOOST >
+BOOST: Cards of this type affect the user, or targetted player when played.
+
+< CARD_TERM_GIFT >
+GIFT: Cards of this type affect the holder when held.
+
+< CARD_TERM_CONTRACT >
+CONTRACT: Contract cards are held in a separate hand space in Bounty Hunt. They can be delivery quests, quests to hunt a particular Bounty monster, or a player. Completing contracts grants the amount of Fame printed on the contract.
+
+< CARD_TERM_MECHANIC >
+Card Mechanic
+
+< CARD_TERM_TYPE >
+Card Type
+
+< CARD_TERM_TRAP >
+TRAP: When played, sets the card face-down on the current panel. The trap will activate when a unit stops on the panel.

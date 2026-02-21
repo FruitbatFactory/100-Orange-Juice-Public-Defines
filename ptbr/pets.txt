@@ -181,11 +181,6 @@ descr=Não exatamente tão grande assim.
 name=M10
 descr=7 Natural de M10.
 
-< PET_BOSS_ROPOCHI >
-name=RoPoChi
-descr=GUPPIPOO!
-
-
 < PET_BOSS_STARDEV >
 name=Star Devourer
 descr=Consegue teleportar para qualquer lugar no mundo.

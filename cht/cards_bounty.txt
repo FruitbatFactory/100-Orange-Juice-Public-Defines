@@ -1,6 +1,6 @@
 < CARD_BOUNTY_TURNISLIME_HUNT >
 name=蕪萊姆
-descr=蕪萊姆在戰鬥時會使你ATK-1。\n當你在戰鬥開始時擁有2點或以上的ATK，\n額外ATK-1。
+descr=蕪萊姆在戰鬥時會使你ATK-1。\n當你在戰鬥開始時擁有2點或以上的ATK，額外ATK-1。
 flavor=
 
 < CARD_BOUNTY_TROLLITE_HUNT >
@@ -15,12 +15,12 @@ flavor=
 
 < CARD_BOUNTY_STRANGEMOUSSE_HUNT >
 name=青檸嘮鼠
-descr=青檸嘮鼠每次造成傷害都能偷取等級數\n的STAR。
+descr=青檸嘮鼠每次造成傷害都能偷取等級數的STAR。
 flavor=
 
 < CARD_BOUNTY_POWERMOUSSE_HUNT >
 name=草莓嘮鼠
-descr=草莓嘮鼠每次造成傷害都能偷取等級數\n的STAR。
+descr=草莓嘮鼠每次造成傷害都能偷取等級數的STAR。
 flavor=
 
 < CARD_BOUNTY_DOLL_HUNT >
@@ -30,12 +30,12 @@ flavor=
 
 < CARD_BOUNTY_HELISEED_HUNT >
 name=直升種
-descr=如果在3回合內沒有擊敗直升種，\n戰鬥將會結束。
+descr=如果在3回合內沒有擊敗直升種，戰鬥將會結束。
 flavor=
 
 < CARD_BOUNTY_BLIZARD_HUNT >
 name=兔蜥
-descr=兔蜥在每回合結束時隨機獲得1點ATK、DEF\n或EVD。
+descr=兔蜥在每回合結束時隨機獲得1點ATK、DEF或EVD。
 flavor=
 
 < CARD_BOUNTY_WOLLY_HUNT >
@@ -44,7 +44,7 @@ descr=絨絨在受到傷害時，額外受到1點傷害。
 
 < CARD_BOUNTY_TERRAWYRMER_HUNT >
 name=潛地蛟
-descr=一次受到3點及以上傷害時，\n潛地蛟ATK·DEF+1、EVD-1，\n直到戰鬥結束。\n此效果可疊加。
+descr=一次受到3點及以上傷害時，潛地蛟ATK·DEF+1、EVD-1，直到戰鬥結束。\n此效果可疊加。
 
 < CARD_BOUNTY_RUFFSHROOM_HUNT >
 name=杏鮑狗
@@ -52,19 +52,19 @@ descr=杏鮑狗被擊敗時，你獲得2點HP。
 
 < CARD_BOUNTY_GOST_HUNT >
 name=阿鬼
-descr=你的每點ATK都會使阿鬼獲得EVD+1\n的效果。
+descr=你的每點ATK都會使阿鬼獲得EVD+1的效果。
 
 < CARD_BOUNTY_EMERANGLER_HUNT >
 name=燈籠鼴
-descr=當燈籠鼴受到傷害，\n它在下次攻擊時ATK+1。\n當燈籠鼴對你造成傷害，\n它在下次防禦時DEF+1。
+descr=當燈籠鼴受到傷害，它在下次攻擊時ATK+1。\n當燈籠鼴對你造成傷害，它在下次防禦時DEF+1。
 
 < CARD_BOUNTY_GLOBBU_HUNT >
 name=火泡
-descr=每當你受到火泡攻擊時，DEF-1，\n直到戰鬥結束。
+descr=每當你受到火泡攻擊時，DEF-1，直到戰鬥結束。
 
 < CARD_BOUNTY_GRASSINFIMARY_QUEST >
 name=
-descr=我想用生長在田野上的藥草創作新菜色，你可以\n幫我去採一些嗎？
+descr=我想用生長在田野上的藥草創作新菜色，你可以幫我去採一些嗎？
 flavor=—旅店店主
 
 < CARD_BOUNTY_SWAMPINFIMARY_QUEST >
@@ -79,7 +79,7 @@ flavor=—空之糕點師
 
 < CARD_BOUNTY_CASTLEBAKERY_QUEST >
 name=
-descr=呵呵呵，我們向城堡訂了些麵粉，但一直\n沒有送來。他們一定是想被我炸飛吧？
+descr=呵呵呵，我們向城堡訂了些麵粉，但一直沒有送來。他們一定是想被我炸飛吧？
 flavor=—星之糕點師
 
 < CARD_BOUNTY_RUINARMORY_QUEST >
@@ -89,27 +89,27 @@ flavor=—鐵匠
 
 < CARD_BOUNTY_CAVEARMORY_QUEST >
 name=
-descr=小巨魔的角是做廚具的好材料，可我的庫存\n已經快用完了。\n它們每三天就會換一次角，你應該能在它們的\n巢穴裡找到一些角。
+descr=小巨魔的角是做廚具的好材料，可我的庫存已經快用完了。\n它們每三天就會換一次角，你應該能在它們的巢穴裡找到一些角。
 flavor=—鐵匠
 
 < CARD_BOUNTY_VOLCANOALCHEMER_QUEST >
 name=
-descr=我能幫你轉換出一些食物，但我需要一個\n持久的熱源。\n你可以帶只火泡來嗎？\n聽說它們喜歡幹這種活。
+descr=我能幫你轉換出一些食物，但我需要一個持久的熱源。\n你可以帶只火泡來嗎？\n聽說它們喜歡幹這種活。
 flavor=—鍊金術士
 
 < CARD_BOUNTY_FORESTINFIRMARY_QUEST >
 name=
-descr=你想要甜品？要是能把迷霧森林裡的樹液帶來，\n也許我就能給你做一些了。\n我聽說它的味道很甜。
+descr=你想要甜品？要是能把迷霧森林裡的樹液帶來，也許我就能給你做一些了。\n我聽說它的味道很甜。
 flavor=—旅店店主
 
 < CARD_BOUNTY_MOUNTAINBAKERY_QUEST >
 name=
-descr=牛奶用完了！我們店裡的麵包需要使用山上的\n絨絨所產出的奶，請快幫我帶來吧！
+descr=牛奶用完了！我們店裡的麵包需要使用山上的絨絨所產出的奶，請快幫我帶來吧！
 flavor=—空之糕點師
 
 < CARD_BOUNTY_REDFORESTALCHEMER_QUEST >
 name=
-descr=附近緋紅森林裡的鬼魂有些很有趣的特性。\n你能給我帶個樣本來嗎？我應該能用它做些\n可以食用的東西。
+descr=附近緋紅森林裡的鬼魂有些很有趣的特性。\n你能給我帶個樣本來嗎？我應該能用它做些可以食用的東西。
 flavor=—鍊金術士
 
 < CARD_BOUNTY_DESERTARMORY_QUEST >
@@ -119,7 +119,7 @@ flavor=—鐵匠
 
 < CARD_BOUNTY_SLIMEBOMB_ITEM >
 name=史萊姆炸彈
-descr=向周圍7×7範圍內的1個格子投擲\n史萊姆炸彈。\n所選擇的格子的3×3範圍內被粘液覆蓋2輪。
+descr=向周圍7×7範圍內的1個格子投擲史萊姆炸彈。\n所選擇的格子的3×3範圍內被粘液覆蓋2輪。
 flavor=「整整一罐粘液，隨時等待投擲！」\n—鍊金術士
 
 < CARD_BOUNTY_TELEPORT_ITEM >
@@ -129,8 +129,8 @@ flavor=「只消一小口，人影去無蹤！」\n—鍊金術士
 
 < CARD_BOUNTY_LURE_ITEM >
 name=誘餌
-descr=持續效果（3輪）\n向周圍7×7範圍內的1個格子投擲誘餌，\n所選擇的格子的3×3範圍內變為遭遇\n或BOSS格3輪。
-flavor=「這氣味應該足夠引來周圍的大部分\n雜魚……」—鍊金術士
+descr=持續效果（3輪）\n向周圍7×7範圍內的1個格子投擲誘餌，所選擇的格子的3×3範圍內變為遭遇\n或BOSS格3輪。
+flavor=「這氣味應該足夠引來周圍的大部分雜魚……」—鍊金術士
 
 < CARD_BOUNTY_SHOKUPAN_ITEM >
 name=生吐司
@@ -144,33 +144,33 @@ flavor=「能夠征服世界的柔軟！」—空之糕點師
 
 < CARD_BOUNTY_PUREWATER_ITEM >
 name=聖水
-descr=這場戰鬥中，獲得5點HP，\n並且ATK·DEF·EVD+1。
-flavor=「呵呵呵，這可是杯能消除乾渴的純淨水，\n信我的準沒錯！」—旅店店主
+descr=這場戰鬥中，獲得5點HP，並且ATK·DEF·EVD+1。
+flavor=「呵呵呵，這可是杯能消除乾渴的純淨水，信我的準沒錯！」—旅店店主
 
 < CARD_BOUNTY_CURSEDSYRUP_ITEM >
 name=詛咒糖漿
-descr=這場戰鬥中，獲得10點HP，\n並且ATK·DEF·EVD+2，此外戰鬥\n時長將限制為5回合。
-flavor=「你一定會想買這個的……你在乎的就只有\n獲得更強大的力量……不是嗎？」—可疑商人
+descr=這場戰鬥中，獲得10點HP，並且ATK·DEF·EVD+2，此外戰鬥時長將限制為5回合。
+flavor=「你一定會想買這個的……你在乎的就只有獲得更強大的力量……不是嗎？」—可疑商人
 
 < CARD_BOUNTY_POISONPHIAL_ITEM >
 name=毒性爆破藥
-descr=向周圍7×7範圍內的1個格子投擲毒性爆破藥。\n所有區域內被擊中的玩家中毒，2輪內每回合\n受到1點傷害。\n不會和其它爆破藥疊加。
-flavor=「我在製作的時候用了些很危險的原料……\n要小心使用啊！」—鍊金術士
+descr=向周圍7×7範圍內的1個格子投擲毒性爆破藥。\n所有區域內被擊中的玩家中毒，2輪內每回合受到1點傷害。\n不會和其它爆破藥疊加。
+flavor=「我在製作的時候用了些很危險的原料……要小心使用啊！」—鍊金術士
 
 < CARD_BOUNTY_VENOMPHIAL_ITEM >
 name=毒液爆破藥
-descr=向周圍7×7範圍內的1個格子投擲毒液爆破藥。\n所有區域內被擊中的玩家中毒，3輪內每回合\n受到1點傷害。\n不會和其它爆破藥疊加。
-flavor=「這是我用一種危險的爬行動物的毒液\n做出來的……」—鍊金術士
+descr=向周圍7×7範圍內的1個格子投擲毒液爆破藥。\n所有區域內被擊中的玩家中毒，3輪內每回合受到1點傷害。\n不會和其它爆破藥疊加。
+flavor=「這是我用一種危險的爬行動物的毒液做出來的……」—鍊金術士
 
 < CARD_BOUNTY_CORROSIONPHIAL_ITEM >
 name=腐蝕爆破藥
-descr=向周圍7×7範圍內的1個格子投擲腐蝕爆破藥。\n所有區域內被擊中的玩家中毒，3輪內每回合\n受到2點傷害。\n不會和其它爆破藥疊加。
-flavor=「腐蝕試劑是用一些可以致命的材料\n製作而成的……」—鍊金術士
+descr=向周圍7×7範圍內的1個格子投擲腐蝕爆破藥。\n所有區域內被擊中的玩家中毒，3輪內每回合受到2點傷害。\n不會和其它爆破藥疊加。
+flavor=「腐蝕試劑是用一些可以致命的材料製作而成的……」—鍊金術士
 
 < CARD_BOUNTY_SPARKLEBOMB_ITEM >
 name=火花炸彈
 descr=2輪內強制場地路線反轉。
-flavor=「如果你既想往前走又想往後走，可你又不能\n像往前走一樣往後走？\n……呃，當我沒說……」—鍊金術士
+flavor=「如果你既想往前走又想往後走，可你又不能像往前走一樣往後走？\n……呃，當我沒說……」—鍊金術士
 
 < CARD_BOUNTY_SMOKELOSTMEMORIES_ITEM >
 name=失落記憶的煙霧

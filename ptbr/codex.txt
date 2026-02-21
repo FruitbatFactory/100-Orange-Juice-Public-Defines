@@ -127,21 +127,21 @@
 
 < LORE_KYOKO >
 1=Com vinte e poucos anos, Kyoko é a mais velha das Shifu Brands, humanos alterados para lutar.
-2=Gosta: Frutas da estação\nOdeia: Nada
+2=Gosta: Frutas da estação\nOdeia: Dor
 3=Sempre parecendo calma e equilibrada, Kyoko pode parecer uma rainha do gelo inacessível, mas na realidade ela é muito carinhosa e solidária.
 4=Após uma cirurgia de modificação, ela ganhou a habilidade de manipular cristais de gelo, mas com um efeito colateral de ondas de dor em todo o corpo.
 5=Por isso, ela não gosta de usar a palavra "dor" para descrever meros aborrecimentos e prefere usar a palavra "irritante". Conseqüentemente, quando ela diz que algo é irritante, ela também pode querer dizer que é doloroso.
 
 < LORE_SHAM >
 1=Sham é uma humana fisicamente alterada, com um corpo projetado para o combate. Ela está em seus vinte e poucos anos.
-2=Gosta: Chocolate\nOdeia: Nada
+2=Gosta: Chocolate\nOdeia: Lutar
 3=Sham é a operadora que ensinou a Sora o básico do combate. Quando está de folga, ela geralmente é uma bola de energia a ponto de irritar as pessoas ao seu redor.
 4=Sua experiência de guerra a torna intransigente quando em batalha. Após o fim da guerra, Sham procura fazer algo novo.
 5=Sham não se importa com a cicatriz em seu rosto, acreditando que ela é extremamente fofa mesmo com ela.
 
 < LORE_SHERRY >
 1=Uma aviadora de 23 anos, Sherry fala de maneira calma e educada e quase nunca levanta a voz. Isso a faz parecer uma pessoa muito pacífica e distante, mas na verdade ela tem uma natureza sensível, atenciosa e competitiva por dentro.
-2=Gosta: Overhauling\nOdeia: Nada
+2=Gosta: Reformas\nOdeia: Regras e regulamentos
 3=Ela pode se perder em tudo o que decidiu fazer, e essa tendência é ainda mais amplificada quando ela está segurando o manche.
 4=Sherry costumava pertencer a uma organização piloto chamada Guild, mas a deixou para voar livremente no céu. Em seus dias de Guilda, ela costumava trabalhar com Islay, sua amiga e rival. Elas ainda se dão bem.
 5=O pai de Sherry é mecânico de aeronaves. Ajudar o pai com o trabalho a levou a decidir que poderia se tornar uma mecânica melhor tornando-se piloto, em vez de simplesmente perguntar aos pilotos sobre seus aviões - e ela o fez.

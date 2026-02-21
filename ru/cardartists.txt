@@ -140,9 +140,6 @@ Usanekorin
 < CARD_ARTIST_RITSU >
 Ritsu
 
-< CARD_ARTIST_PENCILCHEWING >
-pencilchewing
-
 < CARD_ARTIST_WOODCHIN >
 WoodChin
 

@@ -579,11 +579,6 @@ name=Observadora da Eternidade
 descr=Adiciona duas cartas aleatórias de Boost/Evento que deem dano a sua mão.\nVocê pode jogar mais uma carta neste turno.
 flavor="Certo, vamos ver qual será o resultado disso." ―Suguri
 
-< CARD_HYPER_SUMIKA >
-name=Reprodução dos Arquivos
-descr=Adicione uma cópia de cada uma das duas cartas mais recentes da pilha de descarte em sua mão. Essas cartas serão tratadas como sendo de Nível 1 e não irão possuir valor base enquanto estiverem em sua mão.
-flavor="A memória doce de Sumika!" -Sumika
-
 < CARD_HYPER_ELLIE >
 name=O Milagre de Ellie
 descr=★Custo: Nível x10\nDuração do Efeito: 2 capítulos. Ganhe +X ATK, +Y DEF, e +Z EVD, onde X = sua Norma completa total, Y = seu número de Normas de Vitória completas, e Z = seu número de Normas de Estrela completas.
@@ -649,26 +644,6 @@ flavor="Agora, vamos indo." ―Halena
 name=Conselho da Galinha Cata-Vento
 descr=Efeito de Estoque.\nRole 2 de dado para tudo menos para batalhas. Este efeito acaba ao parar no seu próprio painel de Casa. Só pode completar Norma em seu próprio painel de Casa.
 flavor="*Pia pia*! Cook deseja ir por aqui." ―Cook
-
-< CARD_MINIGAME_TURNSKIP >
-name=Poppo Pare
-descr=
-flavor=
-
-< CARD_MINIGAME_REVERSEMOVEMENT >
-name=Poppo Inverter
-descr=
-flavor=
-
-< CARD_MINIGAME_DOUBLEDICE >
-name=Poppo Dado
-descr=
-flavor=
-
-< CARD_MINIGAME_FROSTWALKER >
-name=Poppo Caminhante Gélido
-descr=
-flavor=
 
 < CARD_HYPER_LONERIDER >
 name=Marcha Para Cima
@@ -835,11 +810,6 @@ name=Rolagens de Dados Precisas
 descr=Duração do Efeito: 2 capítulos\n-Só pode rolar 4 ou superior para movimento, batalha e bônus.\n-Só pode rolar 2 ou inferior para perda.\nApós o efeito acabar, ganhe Tendinite no começo do próximo turno.\nElimine toda Tensão.
 flavor="Descubra por si mesmo o quão incrível são as rolagens de dados da Popo." ―Popomi
 
-< CARD_HYPER_MIOFESTIVE >
-name=Inferno de Natal
-descr=Seu HP reduz a 1. Os outros jogadores tomam dano equivalente ao HP que você perdeu. Ganhe 10 estrelas por cada jogador nocauteado por este efeito.
-flavor=
-
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=Banho de Sol da Arma Suprema
 descr=Durante esta batalha, ganhe +3 Ataque.
@@ -879,11 +849,6 @@ flavor="E-e volta direto para você!" ―Aru
 name=O Bolo Falso da Mio
 descr=Escolha uma das seguinte opções:\n- Coma para ganhar um efeito aleatório.\n- Jogue em um inimigo alvo para dar 1 de dano. (Se nenhum alvo estiver disponível, coma ao invés disso.)\nIgnore efeitos de unidade que pudessem impedir que esta carta fosse jogada.
 flavor="Mas que raios! Isso é nojento!" ―Tomomo
-
-< CARD_XMAS2018_SNOWBALLFIGHTBAN >
-name=Congelado
-descr=
-flavor=
 
 < CARD_CHAOS_ROOST >
 name=Galinheiro do Caos

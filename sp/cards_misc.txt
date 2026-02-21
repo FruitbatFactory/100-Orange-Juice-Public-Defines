@@ -24,10 +24,40 @@ SÓLO EN EL ATACANTE
 SÓLO EN EL DEFENSOR
 
 < CARD_TERM_BANNER >
-(PANCARTA: Colocado en tu panel actual al ser usado. El efecto de la carta permanecerá activo hasta que una unidad se detenga sobre la pancarta, lo cual la quitará.)
+PANCARTA: Colocado en tu panel actual al ser usado. El efecto de la carta permanecerá activo hasta que una unidad se detenga sobre la pancarta, lo cual la quitará.
 
 < CARD_TERM_TRIGGER >
-(ACTIVACIÓN: El efecto regular de la carta es reemplazado con un efecto de Activación al cumplir con las condiciones de la carta en mano.)
+ACTIVACIÓN: El efecto regular de la carta es reemplazado con un efecto de Activación al cumplir con las condiciones de la carta en mano.
 
 < CARD_TERM_UPDATE >
-(REPETICIÓN (X): Una vez que las cartas del mismo nombre hayan sido jugadas X número de veces por cualquier jugador, la carta recibe efectos adicionales.)
+REPETICIÓN (X): Una vez que las cartas del mismo nombre hayan sido jugadas X número de veces por cualquier jugador, la carta recibe efectos adicionales.
+
+< CARD_TERM_UPGRADE >
+MEJORA: En vez de usar la carta, el costo para Mejorarla puede ser activado para convertir esta carta en su versión mejorada. La mejora usa la acción de usar una carta durante tu turno.
+
+< CARD_TERM_HYPER >
+ESPECIAL: Cada unidad tiene una carta única Especial. Por defecto, 8 Cartas Especiales en blanco son colocadas dentro del mazo en el comienzo de la partida. Una vez que se hayan tomado u obtenido, una Carta Especial pasa de ser una carta blanca a la carta especial de la unidad que la tomó, hasta que sea usada o descartada y el mazo se vuelva a mezclar.
+
+< CARD_TERM_BATTLE >
+BATALLA: Las cartas de este tipo pueden ser usadas en el comienzo de una batalla para aplicar sus efectos.
+
+< CARD_TERM_EVENT >
+EVENTO: Las cartas de este tipo afectarán a todos los jugadores o al campo de juego al ser usadas.
+
+< CARD_TERM_BOOST >
+IMPULSO: Las cartas de este tipo afectan a la persona que vaya a usarlas, o al jugador escogido en el momento de usarlas.
+
+< CARD_TERM_GIFT >
+REGALO: Las cartas de este tipo afectan a quien lleva estas cartas en sus manos.
+
+< CARD_TERM_CONTRACT >
+CONTRATO: Las cartas de Contrato son llevadas en una mano aparte dentro del modo Caza-recompensas. Pueden ser entregadas como misiones de objetivos, de caza de monstruos o de jugadores. Completar contratos te otorgará el monto de Fama que aparece en el contrato.
+
+< CARD_TERM_MECHANIC >
+Mecánicas de la Carta
+
+< CARD_TERM_TYPE >
+Tipo de Carta
+
+< CARD_TERM_TRAP >
+TRAMPA: Al usarse, coloca esta carta boca-abajo en el panel actual. Esta trampa se activará cuando una unidad se detenga sobre este panel.

@@ -211,6 +211,9 @@ Lost connection to %s.
 < CHAT_SYSTEM_CHEATDETECTED_HOST >
 %s attempted to cheat by playing an invalid card, and was kicked.
 
+< CHAT_SYSTEM_DESYNCDETECTED >
+Desync detected from {}. An automatic reconnection will follow.
+
 // Invite = game invitation
 < GAMEINVITE_PENDING_TITLE >
 Invite Pending

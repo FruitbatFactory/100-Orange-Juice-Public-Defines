@@ -102,7 +102,7 @@
 <101> Oh, did I catch your attention?
 <102> Fu-fu, I'm Sweet Creator, the leader of the Sweet Gods.
 <103> You want to play with me?
-<104> All right, let 's go out and play!
+<104> All right, let's go out and play!
 <105> *Cracks knuckles*
 <106> I've never been more ready.
 <107> Which one of them should I start taking care of?

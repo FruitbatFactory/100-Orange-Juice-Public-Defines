@@ -113,6 +113,9 @@ Events
 < MENU_BUTTON_LOBBYLIST_FIELDNAME >
 Field Name
 
+< MENU_BUTTON_LOBBYLIST_ENABLEPRIVATELOBBIES >
+Show Private Lobbies
+
 < MENU_BUTTON_LOBBYLIST_HW2018 >
 Trick and Treat
 
@@ -570,10 +573,7 @@ To play Co-op, toggle between Normal, Co-op and Bounty Hunt when creating a new 
 The boss has 4 difficulty levels which can be freely changed. The boss will use more powerful abilities on higher difficulties! You also gain more experience and oranges as reward for winning.
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_03 >
-Your field selection is affected by boss and difficulty choice.\n
-Casual: Play on any regular field you own.\n
-Normal and Extreme: Play on a set of new Co-op fields.\n
-Hyper: Play on a specially made boss arena field.\n
+Your field selection is affected by boss and difficulty choice.\nCasual: Play on any regular field you own.\nNormal and Extreme: Play on a set of new Co-op fields.\nHyper: Play on a specially made boss arena field.\n
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_04 >
 A Hyper difficulty boss also has unique, powerful abilities... only try one if you want a real challenge!

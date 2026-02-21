@@ -27,7 +27,7 @@
 Скрыть
 
 < CONFIG_SYSTEM_GAMESPEED_LABEL >
-Скорость игры
+Скорость Игры
 
 < CONFIG_SYSTEM_GAMESPEED_SLOW >
 Медленная
@@ -42,16 +42,16 @@
 Супербыстрая
 
 < CONFIG_SYSTEM_STREAMERMODE_HEADER >
-Режим стримера
+Режим Стримера
 
 < CONFIG_SYSTEM_STREAMERMODE_USERNAMES >
-Никнейм
+Имена игроков
 
 < CONFIG_SYSTEM_STREAMERMODE_LOBBYNAMES >
-Название лобби
+Названия комнат
 
 < CONFIG_SYSTEM_CPU_LABEL >
-Персонажи-боты
+Персонажи-Боты
 
 < CONFIG_SYSTEM_CPU_RANDOM >
 Случайные
@@ -60,28 +60,28 @@
 Уникальные
 
 < CONFIG_SYSTEM_PROFANITYFILTER >
-Фильтр чата
+Фильтр Чата
 
 < CONFIG_SYSTEM_RICH_PRESENCE >
-Расширенный статус для Steam и Discord
+Расширенный Статус для Steam и Discord
 
 < CONFIG_SYSTEM_CPU_COSMETICS >
-Случайные украшения у ботов (только для хоста)
+Случайные Украшения у Ботов (только для хоста)
 
 < CONFIG_SYSTEM_ALT_MINIGAME_CONTROLS >
-Использовать альтернативного управления в мини играх.
+Альтернативное Управление в Мини-Играх
 
 < CONFIG_SYSTEM_REDUCED_CLICKS >
-Меньше кликов мышкой
+Меньше Кликов Мышкой
 
 < CONFIG_SYSTEM_MOVEMENT_ANIMATION_SPEED >
-Скорость анимации движения
+Скорость Анимации Движения
 
 < CONFIG_SYSTEM_MOVEMENT_ANIMATION_SPEED_LABEL >
 Скорость
 
 < CONFIG_SYSTEM_FIELD_LUMINOSITY >
-Яркость фона поля
+Яркость Фона Поля
 
 < CONFIG_SYSTEM_FIELD_LUMINOSITY_LABEL >
 Яркость
@@ -90,25 +90,25 @@
 Насмешки
 
 < CONFIG_SYSTEM_PLAYERINFO >
-Информация о игроке.
+Информация об Игроках
 
 < CONFIG_SYSTEM_PLAYERINFO_PLAYERSTAT_LABEL >
-Статистика игрока.
+Статистика
 
 < CONFIG_SYSTEM_PLAYERINFO_PLAYERSTAT_SHOWALL >
-Показывать всё.
+Показывать всё
 
 < CONFIG_SYSTEM_PLAYERINFO_PLAYERSTAT_SHOWLEVELONLY >
-Показывать только ЛВЛ.
+Только Уровень игрока
 
 < CONFIG_SYSTEM_PLAYERINFO_PLAYERSTAT_SHOWWINSONLY >
-Показывать только победы.
+Только кол-во побед
 
 < CONFIG_SYSTEM_PLAYERINFO_PLAYERSTAT_HIDEALL >
-Скрыть всё.
+Скрыть всё
 
 < CONFIG_SCREEN_SCREENMODE_LABEL >
-Режим окна
+Режим Окна
 
 < CONFIG_SCREEN_SCREENMODE_FULLSCREEN >
 Полный экран
@@ -120,13 +120,13 @@
 Окно без рамки
 
 < CONFIG_SCREEN_FULLCOLORSCREEN_LABEL >
-Все цвета
+Все Цвета
 
 < CONFIG_SCREEN_FULLCOLORTEXTURES_LABEL >
-Полноцветные текстуры
+Полноцветные Текстуры
 
 < CONFIG_SCREEN_BACKGROUNDANIMATION_LABEL >
-Скорость анимации фона
+Скорость Анимации Фона
 
 < CONFIG_SCREEN_LANGUAGE_LABEL >
 Язык
@@ -135,13 +135,31 @@
 Разрешение
 
 < CONFIG_SCREEN_ENABLERESIZE_LABEL >
-Разрешить изменение размера окна
+Разрешить Изменение Размера Окна
 
 < CONFIG_SCREEN_RESETWINDOWSIZE>
-Размер окна по\n   умолчанию
+Вернуть Размер 
 
 < CONFIG_SCREEN_RESTARTNOTICE >
 Некоторым опциям нужен перезапуск игры.
+
+< CONFIG_SCREEN_VISUAL_ACCESSIBILITY >
+Опции Визуальной Доступности
+
+< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_NONE >
+Выкл.
+
+< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_PROTANOPIA >
+Протанопия
+
+< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_DEUTERANOPIA >
+Дейтеранопия
+
+< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_TRITANOPIA >
+Тританопия
+
+< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_INTENSITY >
+Интенсивность
 
 < CONFIG_SOUND_SOUNDVOLUME_LABEL >
 Громкость
@@ -156,10 +174,10 @@
 Звуки
 
 < CONFIG_SOUND_SOUNDVOLUME_VOICE >
-Голос меню
+Голос в меню
 
 < CONFIG_SOUND_SYSTEMSOUND_LABEL >
-Звуки меню
+Озвучка в Меню
 
 < CONFIG_SOUND_SYSTEMSOUND_A >
 Тип А
@@ -174,25 +192,25 @@
 Тип Г
 
 < CONFIG_SOUND_SYSTEMSOUND_VA >
-(Озвучка : %s)
+(Озв. : %s)
 
 < CONFIG_SOUND_FOCUSMUTE_LABEL >
-Глушить игру, если она неактивна
+Глушить Игру, Если Она Неактивна
 
 < CONFIG_VOICE_CHARACTER_VOLUME >
-Громкость персонажа
+Громкость Персонажей
 
 < CONFIG_SOUND_SOUNDVOLUME_CHARACTERVOICE >
 Все голоса
 
 < CONFIG_VOICE_CHARACTER_ONLYME >
-Озвучка только моего персонажа
+Говорит Только Мой Персонаж
 
 < CONFIG_VOICE_DISPLAY_TEXT >
-Показывать текст
+Показывать Субтитры
 
 < CONFIG_VOICE_AVOID_OVERLAP >
-Не перебивать голоса
+Не Накладывать Голоса Друг на Друга
 
 < CONFIG_MODS_MODLIST_HEADER >
 Список модификаций — %d установлено.
@@ -204,28 +222,27 @@
 Онлайн Документация
 
 < CONFIG_MODS_NONE >
-Моды не установлены.
+Модификаций не установлено.
 
 < CONFIG_MODS_STEAMWORKSHOP >
-Псоетите Мастерскую Steam
+Посетить Мастерскую Steam
 
-< CONFIG_SCREEN_VISUAL_ACCESSIBILITY >
-Визуальная доступность
+< CONFIG_SYSTEM_CARDS_INFO >
+Карты
 
-< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_NONE >
-Отсутствует
+< CONFIG_SYSTEM_CARDS_INFO_EXTRA_INFO_POPUP >
+Окна с информацией
 
-< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_PROTANOPIA >
-Протанопия
+< CONFIG_SYSTEM_CARDS_INFO_EXTRA_INFO_POPUP_ALL >
+Все
 
-< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_DEUTERANOPIA >
-Дейтеранопия
+< CONFIG_SYSTEM_CARDS_INFO_EXTRA_INFO_POPUP_ADVANCED >
+Продвинутые
 
-< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_TRITANOPIA >
-Тританопия
+< CONFIG_SYSTEM_CARDS_INFO_EXTRA_INFO_POPUP_NEWONLY >
+Только Новые
 
-< CONFIG_SCREEN_VISUAL_ACCESSIBILITY_INTENSITY >
-Интенсивность
+< CONFIG_SYSTEM_CARDS_INFO_EXTRA_INFO_POPUP_NONE >
+Выключить
 
 [EOF]
-

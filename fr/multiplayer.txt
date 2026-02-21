@@ -211,6 +211,9 @@ Connexion à %s perdue.
 < CHAT_SYSTEM_CHEATDETECTED_HOST >
 %s a tenté de tricher en jouant une carte invalide, et a été expulsé(e).
 
+< CHAT_SYSTEM_DESYNCDETECTED >
+{} est désynchronisé(e). Reconnexion automatique imminente.
+
 // Invite = game invitation
 < GAMEINVITE_PENDING_TITLE >
 Invitation en attente

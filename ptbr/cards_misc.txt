@@ -31,3 +31,33 @@ NÃO É O DEFENSOR
 
 < CARD_TERM_UPDATE >
 (REPITA (X): Após cartas do mesmo nome forem jogadas X vezes por qualquer jogador, a carta ganha efeitos adicionais.)
+
+< CARD_TERM_UPGRADE >
+MELHORIA: Ao invés de jogar a carta, o custo da Melhoria pode ser jogado para tornar esta carta na sua versão melhorada. A Melhoria usa a ação de uso da carta da fase de Standby.
+
+< CARD_TERM_HYPER >
+HIPER: Cada unidade possui uma carta Hiper única. Por padrão, 8 cartas Hipers em branco são adicionadas ao baralho no começo do jogo. Após ser comprada ou adquirida de outra forma, a carta Hiper em branco viram a carta Hiper da unidade que a comprou, até ela ser jogada ou descartada e o deck ser embaralhado de novo.
+
+< CARD_TERM_BATTLE >
+BATALHA: Cartas desse tipo podem ser usadas no começo da batalha para aplicar seus efeitos.
+
+< CARD_TERM_EVENT >
+EVENTO: Cartas desse tipo afetam todos os jogadores ou o campo quando jogadas.
+
+< CARD_TERM_BOOST >
+BOOST: Cartas desse tipo afetam o usuário, ou o jogador alvo quando jogadas.
+
+< CARD_TERM_GIFT >
+GIFT: Cartas desse tipo afetam o jogador que está com elas na mão.
+
+< CARD_TERM_CONTRACT >
+CONTRATO: Cartas de Contrato são mantidas em um espaço separado da mão em Caça ao Tesouro. Elas podem ser missões de entrega, missões para caçar um monstro de Caça em particular, ou um jogador. Completar contratos garante a quantidade de Fama marcada no contrato.
+
+< CARD_TERM_MECHANIC >
+Mecânica da Carta
+
+< CARD_TERM_TYPE >
+Tipo de Carta
+
+< CARD_TERM_TRAP >
+ARMADILHA: Ao ser jogado, coloca a carta virada para baixo no painel atual. A armadilha será ativada quando uma unidade parar no painel.

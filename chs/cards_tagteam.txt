@@ -1,6 +1,6 @@
 < CARD_HYPER_TAG_POPPO >
 name=神出鬼没
-descr=传送至指定存活敌人所在的格子。\n从该角色处偷取其等级×10的STAR。\n持续效果（1轮）\n你的基础ATK、DEF和EVD变为-1。\n然后再投掷移动骰。
+descr=传送至指定存活敌人所在的格子。\n从该角色处偷取其等级×10的STAR。\n持续效果（1轮）\n你的基础ATK、DEF和EVD变为-1。\n然后立即投掷移动骰。
 flavor=「啵噗！啵噗噗噗噗噗～！」—玛丽啵噗
 
 < CARD_HYPER_TAG_COOK >

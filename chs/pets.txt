@@ -331,7 +331,7 @@ descr=你可以带她前往任何地方。
 
 < PET_MINIATUREMARC >
 name=缩微玛儿
-descr=1:16比例的飞行员。
+descr=1:16小飞行员。
 
 < PET_ALTEHUGTOY >
 name=阿露特抱抱玩具
@@ -343,7 +343,7 @@ descr=最豪华的《100%鲜橙汁》终极周边，现在订购仅需——
 
 < PET_DARKNESSKRILA >
 name=黑暗克里拉
-descr=主人也变成了玩偶。
+descr=风水轮流转。
 
 < PET_LUCKYLULU >
 name=幸运露露
@@ -358,7 +358,7 @@ name=勇往直前佳爱
 descr=在夜里守护你的小伙伴。
 
 < PET_BUDGETKAI >
-name=廉价版凯
+name=廉价凯
 descr=一张谕吉就可以带回家。
 
 < PET_STEALTHYTSIH >

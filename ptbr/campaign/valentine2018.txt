@@ -96,3 +96,18 @@
 <0094> Já que você me ajudou tanto, eu tenho que te dar algo...\nComo eu posso dizer... é algo como um símbolo da minha gratidão... Enfim!
 <0095> E-eu coloquei todo o meu amor nisso!\nPor favor aceite!
 <0096> Feliz dia dos Namorados, <player>!
+// ValentinesEpilogue
+// (sweetblogger)
+<0097> Desculpa pelo atraso~
+// (sweetcreator)
+<0098> Ela insistiu em me fazer ajudar ela a criar um doce de chocolate que cachorros possam comer... vixe.
+// (sweetblogger)
+<0099> Eu fiz bastante para todo mundo, eu espero que vocês estejam com fome de chocolate!
+// (qp)
+<0100> Um...
+// (tmsw)
+<0101> ...
+// (sweetb)
+<0102> ...
+// (saki)
+<0103> Te-he♥

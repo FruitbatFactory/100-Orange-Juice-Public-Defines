@@ -113,6 +113,9 @@ EXTREME
 < MENU_BUTTON_LOBBYLIST_FIELDNAME >
 フィールド名
 
+< MENU_BUTTON_LOBBYLIST_ENABLEPRIVATELOBBIES >
+プライベートロビーを表示
+
 < MENU_BUTTON_LOBBYLIST_HW2018 >
 トリック・アンド・トリート
 
@@ -570,11 +573,7 @@ CO-OPモードをプレイするには、\nオンラインロビー作成時や\
 ボスには4つの難易度があります。\n高難易度ほどボスが強くなりますが、獲得できる経験値やオレンジが増えます。
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_03 >
-フィールドはボスと難易度に影響されます。\n
-カジュアル：所持済みの通常フィールド\n
-ノーマル：CO-OP用新フィールド\n
-エクストリーム：CO-OP用新フィールド\n
-ハイパー：スペシャルボスアリーナ
+フィールドはボスと難易度に影響されます。\nカジュアル：所持済みの通常フィールド\nノーマル：CO-OP用新フィールド\nエクストリーム：CO-OP用新フィールド\nハイパー：スペシャルボスアリーナ
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_04 >
 難易度ハイパーのボスは強力な固有能力を持っています…。\n究極の腕試しがしてみたい方はぜひ挑戦してみてください！

@@ -3,16 +3,6 @@ name=Mis Amigos Salvajes
 descr=Convoca a una unidad aliada (que sea una unidad salvaje disponible) en tu panel actual.\nEsta unidad recibe 2 PV, desafiará a todos sus enemigos y otorgará las estrellas recibidas a su convocante.\nConvocaciones ya activas serán reemplazadas al usar esta carta. 
 flavor="Tomarse un descanso puede ser bueno de vez en cuando." ―Teotoratta
 
-< CARD_TRAP_COOP_BANKOFPOPPO >
-name=Bank of Poppo
-descr=El jefe pierde estrellas por un valor equivalente al Número del Capítulo x2, la misma cantidad de estrellas son depositadas en la trampa, y la misma se queda en el campo de juego..\nLa segunda unidad en activar esta trampa recibe esas estrellas.
-flavor="¡Mi dinero...!" ―Kai
-
-< CARD_BATTLE_COOP_CONTESTOFCUTENESS >
-name=Contest of Cuteness
-descr=Esta carta solo puede ser usada por el atacante. La batalla será decidida por un concurso de lindura.\nLindura = 10 - Máx. PV - ATK + EVD, pero no puede ser menos de 0.\nEn vez de atacar, ambas unidades tirarán dos dados y añadirán a su valor total de Lindura. La unidad que tenga un mayor valor de Lindura se robará estrellas equivalentes al Nivel del Jugador x 5 y una victoria. La batalla entonces acabará.
-flavor="¡Ahora dinos! ¡¿Quién es la más linda aquí?!" ―Saki
-
 < CARD_BOOST_COOP_GENTLEMANSBATTLE >
 name=Batalla de Caballeros
 descr=Escoja a un enemigo cuyos PV estén enteros. Una vez que esta batalla termina, tu turno se acabará.

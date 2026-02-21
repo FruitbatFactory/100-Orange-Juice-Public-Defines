@@ -632,10 +632,6 @@ descr=Esta unidad recibirá una reducción de costos para todas las tiendas (exc
 
 < CARD_JOGGER_EFFECT >
 name=Corredor
-descr=Esta unidad recibirá +1 MOV de forma permanente.
-
-< CARD_JOGGER_EFFECT >
-name=Corredor
 descr=Al finalizar su turno tras usar todos los puntos de movimiento, esta unidad recibirá +1 MOV la próxima vez que intente tirar dados de movimiento.
 
 < CARD_JOGGING_EFFECT >
@@ -715,8 +711,7 @@ name=Teletransportación Controlada
 descr=Al activar el efecto de Teletransportación o Teletransportación y Movimiento, este efecto será consumido y la unidad podrá escoger el panel de Teletransportación en el que caerá.
 
 < CARD_MOMENTOFGLORY_EFFECT >
-name=Ex-Protagonist's Moment of Glory
-El Momento de Gloria del Ex-Protagonista
+name=El Momento de Gloria del Ex-Protagonista
 descr=Costo: Nivel x10. Duración: 3 capítulos. Los puntos de vida de esta unidad son reducidos a 1, pero recibe +4 ATK y +5 EVD. 
 
 < CARD_HKAIPASSIVE_EFFECT >

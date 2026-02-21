@@ -24,7 +24,7 @@ Pas de P'tit Pote
 
 
 < ARCADE_ORANGE_GET >
-You Got Oranges!
+Vous trouvez des oranges !
 
 < ARCADE_PET_GET >
 Vous obtenez un P'tit Pote !
@@ -93,11 +93,11 @@ Gacha-Pote Aventuriers
 < ARCADE_MACHINE_PLUSHIE >
 Gacha-Peluche
 
-< ARCADE_MACHINE_EMOTES >
-Distributeur à Émoticônes
+< ARCADE_MACHINE_EXCHANGE >
+Échange de P'tit Potes
 
 < ARCADE_MACHINE_EMOTES >
-Échange de P'tit Potes
+Distributeur à Émoticônes
 
 < ARCADE_MACHINE_CONSUMABLES >
 Machine à Bidules

@@ -44,7 +44,7 @@
 <0043> Si c'est comme ça, je vais me donner corps et âme... et trouver tout le chocolat du monde !
 <0044> J-je vais faire de mon mieux, moi aussi !!!\nEuh, attendez... du chocolat...?
 <0045> J'suis un chien, moi !\nLes chiens supportent pas le chocolat ! Genre, du tout du tout...!!
-<0046> Une Déesse du Sucre, intolérante à une sucrerie si primaire...\nJe savais que tu n'étais pas qualifiée pour ce rôle, Guardian
+<0046> Une Déesse du Sucre, intolérante à une sucrerie si primaire...\nJe savais que tu n'étais pas qualifiée pour ce rôle, Guardian.
 <0047> Si je fais rien, le pudding va disparaître du monde... Que faire... que faire ?!
 <0048> Hm, j'ai entendu quelque chose...?
 <0049> J'entends quelqu'un qui m'appelle, tout là-haut... Cette voix... <player> ?! Oh, j'ai compris !
@@ -95,3 +95,18 @@
 <0094> Tu m'as tellement aidée, je dois te donner quelque chose en échange...\nComment dire... en remerciement... enfin, bref !
 <0095> J'y ai mis tout mon cœur !\nTiens, prends-le !
 <0096> Joyeuse Saint Valentin, <player> !
+// ValentinesEpilogue
+// (sweetblogger)
+<0097> Désolée du retard~
+// (sweetcreator)
+<0098> *soupir* Elle ne m'a pas lâchée pour que je l'aide à créer un chocolat comestible pour les chiens, nojah...
+// (sweetblogger)
+<0099> Et j'ai fait du chocolat pour tout le monde ! Vous avez intérêt à avoir faim !
+// (qp)
+<0100> Euh...
+// (tmsw)
+<0101> ...
+// (sweetb)
+<0102> ...
+// (saki)
+<0103> Ti-hi ♥

@@ -1,11 +1,6 @@
-< PLAYERPLATE_STEAMLEVEL > 
-Уровень %d 
-
-< PLAYERPLATE_STEAMWINS > 
-Победы: %d
 
 < FREEBATTLE_CREATELOBBY >
-Режим истории
+Режим кампании
 
 < FREEBATTLE_JOINLOBBY >
 Войти в комнату
@@ -65,7 +60,7 @@
 Неверный пароль.
 
 < LOBBY_BANNEDFROMLOBBY >
-Вам запрещён вход в эту комнату.
+Вас выгнали из этой комнаты.
 
 < LOBBY_VERSIONDIFFERENCE >
 Версии не совместимы.
@@ -143,7 +138,7 @@
 <Нажмите
 
 < CHAT_CONTROLLERTYPEPROMPT_2 >
-Чтобы открыть внутриигровую  клавиатуру и начать писать.>
+чтобы открыть клавиатуру в игре и печатать на ней.>
 
 // 10 characters max.
 < CHAT_NAME_SYSTEM >
@@ -190,7 +185,7 @@
 Время запроса истекло.
 
 < CHAT_SYSTEM_PLAYERTAKEOVER >
-%s стал игроком №%d.
+%s стал игроком № %d.
 
 < CHAT_SYSTEM_SWITCHEDTOPLAYER >
 Вы стали игроком!
@@ -211,14 +206,17 @@
 Потеряно соединение с %s.
 
 < CHAT_SYSTEM_CHEATDETECTED_CLIENT >
-%s попытался обмануть, разыграв недействительную карту.
+Игрок %s попытался схитрить, использовав недействительную карту.
 
 < CHAT_SYSTEM_CHEATDETECTED_HOST >
-%s попытался обмануть, разыграв недействительной картой, и был выгнан.
+Игрок %s попытался схитрить, использовав недействительную карту, и был выгнан.
+
+< CHAT_SYSTEM_DESYNCDETECTED >
+Обнаружена рассинхронизация с {}. Сейчас будет попытка переподключения.
 
 // Invite = game invitation
 < GAMEINVITE_PENDING_TITLE >
-Приглашение в ожидании
+Приглашение В Ожидании Ответа
 
 < GAMEINVITE_JOIN_TOOLTIP >
 Вернитесь в Главное меню чтобы присоединиться к игре.
@@ -234,5 +232,10 @@
 < LOBBY_QUICKJOIN_TOOLTIP >
 Быстрая игра.
 
-[EOF]
+< PLAYERPLATE_STEAMLEVEL > 
+%d Ур. Игрока
 
+< PLAYERPLATE_STEAMWINS > 
+Побед: %d
+
+[EOF]

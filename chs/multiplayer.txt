@@ -211,6 +211,9 @@
 < CHAT_SYSTEM_CHEATDETECTED_HOST >
 %s因使用无效卡片而被移出游戏，这可能是由于作弊或不同步。
 
+< CHAT_SYSTEM_DESYNCDETECTED >
+检测到{}发生了不同步。即将重连。
+
 // Invite = game invitation
 < GAMEINVITE_PENDING_TITLE >
 待定邀请

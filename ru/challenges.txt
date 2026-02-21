@@ -99,7 +99,7 @@
 
 < CHALLENGE_MESSAGE_DAYS >
  дней,
- 
+
 < CHALLENGE_MESSAGE_REROLL_CONFIRM >
 Вы точно хотите заменить это испытание?
 

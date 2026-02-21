@@ -15,7 +15,7 @@ PAS ASSEZ D'ÉTOILES
 HORS COMBAT
 
 < CARD_RESTRICT_BATTLE_LABEL >
-CARTE-COMBAT
+CARTE COMBAT
 
 < CARD_RESTRICT_OFFENSE_LABEL >
 PAS EN ATTAQUE
@@ -31,3 +31,33 @@ PAS EN DÉFENSE
 
 < CARD_TERM_UPDATE >
 (ÉCHO (X) : Les effets se débloquent en fonction du nombre de fois où un exemplaire de cette carte a été joué.)
+
+< CARD_TERM_UPGRADE >
+AMÉLIORER : Au lieu de jouer la carte, vous payez le prix d'Amélioration pour transformer la carte en sa version améliorée. Compte comme une action.
+
+< CARD_TERM_HYPER >
+HYPER : Chaque personnage possède son propre Hyper. En début de jeu, 8 cartes "blanches" sont ajoutées au Deck. Piocher une carte blanche la transforme en votre Hyper. Les cartes Hyper dans la défausse redeviennent blanches lorsque le deck est mélangé.
+
+< CARD_TERM_BATTLE >
+COMBAT : Peut être jouée en début de combat pour gagner un effet temporaire.
+
+< CARD_TERM_EVENT >
+ÉVÈNEMENT : Son effet s'applique sur tous les joueurs sur le plateau.
+
+< CARD_TERM_BOOST >
+BOOST : Son effet s'applique soit sur son utilisateur, soit sur un joueur au choix.
+
+< CARD_TERM_GIFT >
+CADEAU : Confère un effet passif tant que le joueur la garde en main.
+
+< CARD_TERM_CONTRACT >
+CONTRAT : Les Contrats du mode Chasseur de Primes comptent comme une deuxième main. Ils servent à accomplir des livraison, ou à traquer un monstre ou un joueur, et donnent le taux de Gloire indiqué en récompense.
+
+< CARD_TERM_MECHANIC >
+Mécanique de la Carte
+
+< CARD_TERM_TYPE >
+Type de Carte
+
+< CARD_TERM_TRAP >
+PIÈGE : Jouer une carte Piège la pose face cachée sur votre case. Elle s'active lorsqu'un joueur s'arrête sur la case.

@@ -146,7 +146,7 @@
 // (poyo)
 <0071> Popomi...
 // (kanata)
-<0072> You know you don't have to roll a dice ten thousand times a day in order to play 100% Orange Juice.
+<0072> You know you don't have to roll dice ten thousand times a day in order to play 100% Orange Juice.
 // (popomi)
 <0073> What!?
 // (chuu)

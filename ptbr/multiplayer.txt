@@ -212,6 +212,9 @@ Conexão perdida com %s.
 < CHAT_SYSTEM_CHEATDETECTED_HOST >
 %s tentou trapacear jogando uma carta inválida, e foi removido.
 
+< CHAT_SYSTEM_DESYNCDETECTED >
+Desync detectado vindo de {}. Uma reconexão automática irá acontecer.
+
 // Invite = game invitation
 < GAMEINVITE_PENDING_TITLE >
 Convite pendente

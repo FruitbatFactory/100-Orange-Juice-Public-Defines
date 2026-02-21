@@ -114,6 +114,9 @@ Eventos
 < MENU_BUTTON_LOBBYLIST_FIELDNAME >
 Nome do Campo
 
+< MENU_BUTTON_LOBBYLIST_ENABLEPRIVATELOBBIES >
+Mostrar Salas Privadas
+
 < MENU_BUTTON_LOBBYLIST_HW2018 >
 Gostosuras e Travessuras
 
@@ -510,7 +513,7 @@ Guardião\n\nProteger: Pague 1 HP para proteger o alvo de 2 pontos de dano em su
 
 < PLAYMENU_EVENT_SUMMER2018_CLASSINFO_SUPPORT >
 Suporte\n\nReanimar/Recuperar : Pode recuperar 1 HP ou reanimar aliados nocauteados usando estrelas se passar no mesmo painel que eles.\nNorma 2 : +1 MOV\nNorma 4: +1 MOV
-    
+
 < PLAYMENU_EVENT_SUMMER2018_CLASSINFO_AVENGER >
 Vingador\n\n+1 ATK por HP perdido em combate.\nNorma 2 : +1 Máximo HP\nNorma 4 : +1 Máximo HP\nHP do chefão + 10
 
@@ -578,10 +581,7 @@ Para jogar co-op, selecione entre os modos Normal, Caça de Recompensa e Co-op a
 O Chefão possui 4 níveis de dificuldade que podem ser alterados à vontade. O Chefão vai usar habilidades mais poderosas em níveis maiores de dificuldade! Você também ganhará mais experiência e laranjas como recompensa por ter ganho.
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_03 >
-Sua seleção de campo é afetada pela escolha de Chefão e de dificuldade.\n
-Casual: Jogue em qualquer campo comum que você possua.\n
-Normal e Extremo: Jogue num grupo de novos campos co-op.\n
-Hiper: Jogue numa arena projetada especialmente para tal Chefão.\n
+Sua seleção de campo é afetada pela escolha de Chefão e de dificuldade.\nCasual: Jogue em qualquer campo comum que você possua.\nNormal e Extremo: Jogue num grupo de novos campos co-op.\nHiper: Jogue numa arena projetada especialmente para tal Chefão.\n
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_04 >
 Um Chefão da dificuldade Hiper também tem habilidades únicas e poderosas... só tente se você quiser um desafio de verdade!
@@ -670,15 +670,6 @@ Experiencie o final da história em uma missão extra nova destravada: %s
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_MAIN >
 Novas missões te esperam no nosso novo modo de jogo de Caça de Recompensa! Ajude Ellie e Lulu alcançarem Rank B na Guilda para coletar fundos o suficiente!
-
-< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_02 >
-Locais de missões e lojas com vários itens úteis aparecerão pelo campo, e serão atualizados a cada 6 capítulos.
-
-< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_03 >
-Você pode parar em qualquer casa, loja e local de missão - embora apenas se você tiver a missão correspondente relacionada!
-
-
-
 
 // Instruction about the game mode button
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_01 >
@@ -1372,6 +1363,9 @@ Assistente
 
 < MENU_CODEXSTORY_TITLE_ALTENICO >
 Tesouros Sob o Céu Noturno
+
+< MENU_CODEXSTORY_TITLE_MUSHROOMWAR >
+Guerra Dos Cogumelos
 
 < MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
 Jogue {0} partidas como {1}.

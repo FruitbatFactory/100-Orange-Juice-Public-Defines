@@ -1502,11 +1502,6 @@ name=Impulso de Defesa 2
 descr=Norma 2: DEF +1. Norma 4: DEF +2
 flavor=
 
-< CARD_SKILL_COOP_GUARDIANSPIRIT_EFFECT >
-name=Espírito Guardião
-descr=Ganhe uma redução de dano de 1 por estoque em sua próxima batalha.
-flavor=
-
 < CARD_SKILL_COOP_GUARDIANSPIRIT1 >
 name=Espírito Guardião 1
 descr=Todos os aliados ganham Efeito de Estoque(1): Na próxima batalha, tome 1 a menos de dano.\nTempo de recarga: 10 Capítulos.
@@ -1595,11 +1590,6 @@ name=Recuperação 1
 descr=Norma 3: REC -1
 flavor=
 
-< CARD_SKILL_COOP_FROMBEYOND_EFFECT >
-name=Do Além
-descr=Se nocauteado durante a batalha, retorne para 1 x Efeito de Estoque HP.
-flavor=
-
 < CARD_SKILL_COOP_FROMBEYOND1 >
 name=Do Além 1
 descr=Duração do Efeito: 3 Capítulos\nSe nocauteado durante a batalha, retorne com 1 HP.\nTempo de recarga: 10 Capítulos.
@@ -1661,18 +1651,10 @@ name=Impulso de Ataque 2
 descr=Norma 2: ATK +1. Norma 4: ATK +2.
 flavor=
 
-< CARD_SKILL_COOP_FURY_EFFECT >
-name=Fúria
-descr=Dê +1 de dano por estoque.
-flavor=
-
 < CARD_SKILL_COOP_FURY >
 name=Fúria 1
 descr=Duração do Efeito: 1 Capítulo\nDê +1 de dano para cada ataque.\nTempo de recarga: 6 Capítulos.
 flavor=
-
-
-
 
 < CARD_SKILL_COOP_PROTECT >
 name=Proteger
@@ -1754,16 +1736,6 @@ flavor=
 < CARD_SKILL_COOP_HANDBOOST >
 name=Impulso na Mão
 descr=Na Norma 2 ganhe +1 de cartas que pode ter na mão e na Norma 4 ganhe +2 de cartas. Max 5.
-flavor=
-
-< CARD_SKILL_COOP_DEAL >
-name=Dando Cartas
-descr=Se estiver com 2 ou mais cartas na mão, envie uma carta aleatória ao jogador alvo.
-flavor=
-
-< CARD_SKILL_COOP_SUPPLY >
-name=Suplemento
-descr=Compre uma carta adicional cada vez que você iria comprar cartas.
 flavor=
 
 < CARD_SKILL_COOP_DEALER_HEALTHBOOST >

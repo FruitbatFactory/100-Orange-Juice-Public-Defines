@@ -103,25 +103,25 @@
 
 < FIELD_SCARREDLAND >
 갈라진 땅
- 
+
 < FIELD_FUNGUSCAVE >
 버섯 동굴
- 
+
 < FIELD_WINTERTOWN >
 초보자 마을 (겨울)
- 
+
 < FIELD_DESERT >
 고독한 레일웨이
- 
+
 < FIELD_CIRCUS >
 서커스
- 
+
 < FIELD_VOID >
 공허
- 
- < FIELD_PURES >
+
+< FIELD_PURES >
 퓨어즈 스탬프 랠리
- 
+
 < FIELD_SCHOOLYARD >
 교정
 
