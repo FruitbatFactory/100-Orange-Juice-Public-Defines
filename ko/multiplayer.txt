@@ -90,7 +90,7 @@
 플레이어와 연결이 두절되었습니다.
 
 < LOBBY_HOSTCONNECTIONLOST >
-호스트와 연결이 두절되었습니다.
+호스트와 연결이 두절되었습니다. 게임 재연결을 시도합니다.
 
 < LOBBY_REMOVEDFORIDLING >
 잠수로 인해 게임에서 제외되었습니다.

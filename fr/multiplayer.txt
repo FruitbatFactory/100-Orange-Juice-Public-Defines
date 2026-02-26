@@ -90,7 +90,7 @@ Expulsé(e) du salon.
 Un joueur a perdu la connexion.
 
 < LOBBY_HOSTCONNECTIONLOST >
-Connexion à l'hôte perdue.
+Connexion à l'hôte perdue. Tentative de reconnexion en cours.
 
 < LOBBY_REMOVEDFORIDLING >
 Vous avez été expulsé(e) pour inactivité.

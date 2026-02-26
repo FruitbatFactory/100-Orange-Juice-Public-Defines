@@ -330,7 +330,7 @@ flavor="Th-that's dangerous... I'm sorry." ―Watty
 
 < CARD_HYPER_COOP_POMERANIUS >
 name=Goodest Boy
-descr=Effect duration: 3 Chapters.\nIgnore Boss panels. When staying on a panel with another player at the end of either of your turns, both draw a card.\nYou can neither challenge nor be challenged. Players may stop to Pet you.
+descr=Effect Duration: 3 Chapters.\nIgnore Boss panels. When staying on a panel with another player at the end of either of your turns, both draw a card.\nYou can neither challenge nor be challenged. Players may stop to Pet you.
 flavor="*Whimper*" ―Pomeranius
 
 < CARD_HYPER_COOP_SWEETCREATOR >

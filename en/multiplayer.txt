@@ -90,7 +90,7 @@ Removed from the lobby.
 Connection to a player lost.
 
 < LOBBY_HOSTCONNECTIONLOST >
-Lost connection to host player.
+Lost connection to host player. Reconnecting...
 
 < LOBBY_REMOVEDFORIDLING >
 You have been removed for idling.

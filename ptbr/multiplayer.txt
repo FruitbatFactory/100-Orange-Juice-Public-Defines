@@ -90,7 +90,7 @@ Removido da Sala.
 Conexão com um jogador perdida.
 
 < LOBBY_HOSTCONNECTIONLOST >
-Conexão perdida com o jogador host.
+Conexão perdida com o jogador host. O jogo irá tentar reconectar agora.
 
 < LOBBY_REMOVEDFORIDLING >
 Você foi removido por inatividade.

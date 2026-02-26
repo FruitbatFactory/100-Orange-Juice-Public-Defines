@@ -90,7 +90,7 @@
 與玩家的連接已斷開。
 
 < LOBBY_HOSTCONNECTIONLOST >
-與主機的連接已斷開。
+與主機的連接已斷開。正在嘗試重連。
 
 < LOBBY_REMOVEDFORIDLING >
 因閒置時間過長，你已被移出遊戲。
