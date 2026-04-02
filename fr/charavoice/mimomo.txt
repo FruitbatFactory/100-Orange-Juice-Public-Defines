@@ -1,0 +1,161 @@
+<0000> Allez.
+<0001> Vas-y.
+<0002> Hoï.
+<0003> V'là un dé !
+<0004> C'est le bon moment pour une carte, non ?
+<0005> Héhé, ça va être marrant.
+<0006> Ora ora, vise un peu cette carte !
+<0007> Voilà ce que j'avais en main !
+<0008> Je pose mon piège.
+<0009> Un piège !
+<0010> Et pourquoi je poserais pas un piège ici ?
+<0011> Hé, il y a un piège, ici ! Faites attention.
+<0012> J'ai l'intention de gagner ce combat.
+<0013> Ça va t'achever !
+<0014> J'augmente mes pouvoirs !
+<0015> Une carte Combat pour me garantir une victoire !
+<0016> Allez, j'vais passer aux choses sérieuses.
+<0017> *soupir* J'ai cru que j'étais fichue.
+<0018> Je suis tellement de retour !
+<0019> Allez, fini de se reposer.
+<0020> Et je réapparais.
+<0021> Hein ? Pour de vrai !?
+<0022> Tu te fiches de moi !
+<0023> Je devrais p'tet me reposer, aujourd'hui.
+<0024> Oh non, c'est nul.
+<0025> Orah !
+<0026> Prends ça !
+<0027> Coup de poing !
+<0028> Je donne tout !
+<0029> Ça fait mal.
+<0030> Arrête !
+<0031> Ouaah.
+<0032> Grh, ça pique !
+<0033> Rev'là des PV.
+<0034> C'est bon, je me soigne.
+<0035> Ça me sauve la vie.
+<0036> Au moins, je suis plus en danger.
+<0037> Un portail, hein ?
+<0038> Tu m'emmènes où, là ?
+<0039> Oh ? Oh ?
+<0040> Ouah ! Une téléportation !
+<0041> Ghh, c'est fini pour moi.
+<0042> C'est un cauchemar.
+<0043> Mais quel enfer.
+<0044> Non, quelle erreur !
+<0045> Prépare-toi, j'attaque !
+<0046> J'vais te tabasser.
+<0047> Tu vas goûter à mes poings.
+<0048> Attention, je risque pas de t'épargner.
+<0049> Hein, quoi ? Maintenant ?
+<0050> Un combat ? Allez, pourquoi pas.
+<0051> Hein, tu veux te battre ? Avec plaisir.
+<0052> Oh, t'as de l'énergie à revendre, on dirait.
+<0053> Attaque !
+<0054> V'là mon attaque !
+<0055> Tiens, une super-gifle !
+<0056> Ça peut faire mal.
+<0057> Aïe.
+<0058> Arrête ça !
+<0059> Hé, oh, tu m'agresses ?
+<0060> Bueh!
+<0061> Tu parles d'une blague !
+<0062> C'est pas possible.
+<0063> Gueeeh.
+<0064> Buaaah !
+<0065> C'est pas passé loin !
+<0066> Hé, attention.
+<0067> Tu devrais te pencher sur ta précision.
+<0068> Et c'est raté~
+<0069> J'ai gagné !
+<0070> Alors, pas mal, hein ?
+<0071> Tout se passe comme prévu.
+<0072> Et c'est gagné.
+<0073> Je peux pas y croire !
+<0074> Pff, je croyais que j'allais gagner.
+<0075> Rah, c'est super dur !
+<0076> T'aurais pu y aller mollo, quand même.
+<0077> Je vais chercher les étoiles !
+<0078> Je vais devenir une star ! ...T'as compris ?
+<0079> Des étoiles ! Trop bien !
+<0080> Oh, quelle chance !
+<0081> Non, non, non !
+<0082> Hmh.
+<0083> Pff, encore une case Malus...
+<0084> C'est nul !
+<0085> Nooon ! Pas un piège !
+<0086> C'est trop nul ! Ah, ça m'énerve.
+<0087> Hé ! Qui a posé ce piège ?
+<0088> Raaah ! J'ai fait n'imp' !
+<0089> Oh, c'est un boss ?
+<0090> Ça sent les problèmes.
+<0091> Ooh, c'est mon moment de briller !
+<0092> Maintenant que le boss est là, comment la partie va changer ?
+<0093> On va les trouver, ces étoiles !
+<0094> Toutes les filles aiment les étoiles, j'ai pas raison ?
+<0095> Plus j'ai d'étoiles, mieux c'est pour moi !
+<0096> Puisque c'est ça, je vais rafler toutes les étoiles qui traînent.
+<0097> Si vous me cherchez, je vous défonce !
+<0098> J'irais bien faire du sport, d'un coup.
+<0099> J'ai une soudaine envie de me battre.
+<0100> J'vais leur montrer ce que j'sais faire !
+<0101> Moi, c'est Mimomo. Au plaisir !
+<0102> Je ressemble pas à un président ? On me le dit souvent.
+<0103> Tout ce que je veux, c'est m'amuser.
+<0104> Tu veux jouer avec moi ? Pas d'problème.
+<0105> Et  c'est parti.
+<0106> On va bien se marrer.
+<0107> C'est moi qui vais l'emporter.
+<0108> Attention, je suis trop forte au jeu.
+<0109> Ouais !! J'ai gagné !!
+<0110> Héhé, on s'est bien marrés.
+<0111> Et voilà, j'ai gagné ! Pas mal, hein ?
+<0112> Allez, on en refait une ?
+<0113> Voilà un nouvel objet.
+<0114> Oh, quelle chance.
+<0115> T'as trouvé quoi ? Montre !
+<0116> Super !
+<0117> Un échange, SVP !
+<0118> Échange !
+<0119> Tu prends ma place ?
+<0120> À toi de jouer.
+<0121> Compris !
+<0122> Pas mal du tout.
+<0123> Ouaais !
+<0124> Pas question.
+<0125> Grand moment de déception.
+<0126> Grand moment de bonheur !
+<0127> Hein ? C'est quoi, ça, encore ?
+<0128> Let's go !
+<0129> On roule !
+<0130> Bonne chance !
+<0131> Salut ! Ça va bien ?
+<0132> Pfff, j'ai fait n'imp'.
+<0133> Génial.
+<0134> Trop cool.
+<0135> Hiii ! C'est pas possible !
+<0136> J'ai encore jamais vu cette carte. Ça fait quoi ?
+<0137> Je peux sentir que ça va être marrant.
+<0138> On manque un peu de chaos.
+<0139> La carte Hyper de quelqu'un d'autre !
+<0140> Merci.
+<0141> Popomi et moi, on fait la meilleure équipe possible.
+<0142> Ça fait longtemps qu'on a pas joué ensemble.
+<0143> Popomi, on va bien s'amuser.
+<0144> Ravie d'être en équipe avec toi !
+<0145> Tu peux compter sur moi, j'suis la présidente !
+<0146> Allez, j'ai des 1ère année qui comptent sur moi !
+<0147> On va leur montrer ce qu'on sait faire.
+<0148> J'vais vous montrer comment on fait, les nouveaux.
+<0149> Z'allez voir ce que sait faire la présidente !
+<0150> J'te préviens, je vais pas y aller mollo.
+<0151> Attention, j'vais t'envoyer plein d'amour.
+<0152> Allez, on va bien s'amuser.
+<0153> Oh, j'en connais une qui va se donner à fond.
+<0154> Vas-y, amène-toi.
+<0155> On va voir ce qu'on leur apprend, aux 1ère année !
+<0156> Vu que je te dépasse encore, j'vais y aller en douceur.
+<0157> T'as encore beaucoup à apprendre.
+<0158> Tu manques encore trop d'expérience !
+<0159> C'était juste. Tu t'es bien battue.
+<0160> T'es plutôt balèze, en fait. 'va falloir que je m'entraîne aussi.

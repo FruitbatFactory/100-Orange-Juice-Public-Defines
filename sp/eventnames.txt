@@ -46,4 +46,7 @@ Triple Problema
 < EVENTNAME_WINTER2025 >
 Rivales del Club
 
+< EVENTNAME_VALENTINES >
+Chocolate Para las Diosas de los Dulces
+
 [EOF]

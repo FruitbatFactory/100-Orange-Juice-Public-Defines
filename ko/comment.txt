@@ -128,6 +128,9 @@
 < COM_SHOP_CONVERTCURRENCY >
 재화를 환전했습니다!
 
+< COM_SHOP_BOUGHTPOSE >
+새 아바타 포즈를 구매했습니다!
+
 < COM_USERINFO_PLAYERINFO >
 플레이어 정보를 표시합니다.
 

@@ -1,0 +1,62 @@
+< UNIT_TRAIT_MALE >
+masculin
+
+< UNIT_TRAIT_FEMALE >
+féminin
+
+< UNIT_TRAIT_GENDERLESS >
+non-genré
+
+< UNIT_TRAIT_BIRD >
+aviaire
+
+< UNIT_TRAIT_YOUNGLADY >
+jeune femme
+
+< UNIT_TRAIT_BRAT >
+sale gamin
+
+< UNIT_TRAIT_PRINCESS >
+princesse
+
+< UNIT_TRAIT_SWEETGOD >
+Déesse du Sucre
+
+< UNIT_TRAIT_ANIMALEAR >
+avec des oreilles d'animal
+
+< UNIT_TRAIT_WARUDA >
+membre de la Loubardie
+
+< UNIT_TRAIT_ROBOT >
+robotique
+
+< UNIT_TRAIT_DRESS >
+avec une robe
+
+< UNIT_TRAIT_GUILDMEMBER >
+membre de la Guilde
+
+< UNIT_TRAIT_SHIFUBRAND >
+du Label Shifu
+
+< UNIT_TRAIT_CATEAR >
+avec des oreilles de chat
+
+< UNIT_TRAIT_FLUFFY >
+duveteux
+
+< UNIT_TRAIT_OJCLUBMEMBER >
+membre du Club OJ
+
+< UNIT_TRAIT_SCHOOLUNIFORM >
+en uniforme d'écolier
+
+< UNIT_TRAIT_VILLAIN >
+antagoniste
+
+< UNIT_TRAIT_SHINYSPARKLING >
+de l'Académie St. Tillante
+
+< UNIT_TRAIT_TEAMARNELLE >
+de l'Équipe Arnelle

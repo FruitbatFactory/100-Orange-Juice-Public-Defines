@@ -1345,13 +1345,13 @@ El Conserje
 < MENU_CODEXSTORY_TITLE_ALTENICO >
 Tesoros Bajo la Noche Estrellada
 
-< MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
+< MENU_CODEXSTORY_TITLE_GREATPILOT >
+Un Gran Piloto
+
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES >
 Juega {0} partidas como {1}.
 
-< MENU_CODEXSTORY_UNLOCKCOND_2UNITS >
-Juega {0} partidas como {1} o {2}.
-
-< MENU_CODEXSTORY_UNLOCKCOND_NUNITS >
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES_NUNITS >
 Juega {0} partidas como una de las siguientes unidades: {1}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_EVENT >
@@ -1362,6 +1362,27 @@ Desbloquea un accesorio o color de cabello para {0}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_HATS_NUNITS >
 Desbloquea un accesorio o color de cabello para las siguientes unidades: {0}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_PLAYCARD >
+Juega {0} como {1}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_ANYCARD >
+cualquier Carta
+
+< MENU_CODEXSTORY_UNLOCKCOND_USERUNLOCK >
+Desbloquea {0}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_2UNITS >
+{0} o {1}
+
+< MENU_CODEXSTORY_UNLOCKCOND_UNITS_HASTRAIT >
+cualquier {0} personaje
+
+< MENU_CODEXSTORY_UNLOCKCOND_UNITS_FROMGAME >
+cualquier personaje de {0}
+
+< MENU_CODEXSTORY_UNLOCKCOND_ANYUNIT >
+cualquier Unidad
 
 < MENU_NORMABOARD >
 Mejora de Norma
@@ -1392,6 +1413,9 @@ DIFICULTAD
 
 < PLAYMENU_3MDOWNLOADS_MESSAGE >
 ¡La misión por la celebración de 3 Millones de Descargas ya está disponible!\n¡Completa la misión Extra "{}" en Normal o mayor dificultad como Marie Poppo para desbloquear a Popomi!
+
+< MENU_CHAOS_GM_SELECT_POWER >
+Selecciona un Poder de Maestro
 
 
 [EOF]

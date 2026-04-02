@@ -157,4 +157,6 @@
 <0156> Popo a perdu sa place de mascotte !
 <0157> Gh... Popo n'est pas la vraie Marie Poppo, alors ?
 <0158> Ça va pas être facile de vaincre le favori de 100% OJ...
+<0159> Mimo, Popo va te montrer comment on joue à 100% OJ.
+<0160> Désolée, Mimo, mais tu risques de pas beaucoup jouer.
 <0161> Arrrgh, m-mon poignet...!

@@ -207,6 +207,11 @@ name=Taxa de Proteção
 descr=Ao parar no Painel de Casa de outro jogador, pague (seu Nível) x2 estrelas a ele. Se você falhar a checagem de Norma, tome 1 de dano.
 flavor="Isso é um roubo..." ―Lulu
 
+< CARD_HYPER_BOUNTY_MIMOMO >
+name=Presidente do Conselho Estudantil Gyaru Dedicada
+descr=Role um dado extra em painéis de Perda.##(Gatilho: Ativar um painel de Perda): Role um dado extra em painéis de Bônus e de Perda.##(Gatilho: Ativar 3 painéis de Bônus{1}): Qualquer efeito que modifique seu ATK, DEF ou EVD possui seus efeitos dobrados. Este efeito não pode estocar. Não pode concluir Norma enquanto segura esta carta.
+flavor="Sou bastante habilidosa, né?" ―Mimomo
+
 < CARD_BOUNTY_PLAYER >
 name=VIVO OU MORTO
 descr=Procurado por ter cometido crimes contra a sociedade.

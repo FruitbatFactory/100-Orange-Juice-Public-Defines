@@ -173,7 +173,7 @@ descr=
 
 < CARD_UNIT_MALT >
 name=莫爾特
-descr=被戰鬥擊倒時給予3WIN。無法發起挑戰。\n可以將沒有特殊使用條件的戰鬥卡作為陷阱卡\n放置，無需COST。\n敵人在觸發它時將與你戰鬥，雙方角色皆可獲得\n該卡片的效果。\n在這場戰鬥中無法使用其它戰鬥卡。
+descr=被戰鬥擊倒時給予3WIN。無法發起挑戰。\n可以將沒有特殊使用條件的戰鬥卡作為陷阱卡\n放置，無需COST。\n敵人在觸發它時會與你戰鬥，你將獲得該卡片的效果。\n這場戰鬥中你無法使用其它戰鬥卡。
 
 < CARD_UNIT_MANAGER >
 name=店長
@@ -621,7 +621,7 @@ descr=
 
 < CARD_COOP_UNIT_POYO >
 name=啵悠
-descr=當BOSS的下一張卡為Hyper或3級卡時，\n攻擊·防禦·閃避·移動·獎勵·\n掉落骰結果+1。
+descr=當BOSS的下一張卡為HYPER或3級卡時，\n攻擊·防禦·閃避·移動·獎勵·\n掉落骰結果+1。
 
 < CARD_UNIT_HARUKA >
 name=春留果
@@ -642,5 +642,13 @@ descr=永久將手牌中的「深夜的慘劇」變為「布丁」。\n當你的
 < CARD_UNIT_POPOMI >
 name=真里啵啵美
 descr=擲骰時獲得1層勞損。若達到30層勞損，\n在你的下個回合開始時獲得腱鞘炎：\n持續效果（1輪）\n每次擲骰有60%幾率結果為0。\n該效果可由2點以上恢復量的單次恢復效果或「精確擲骰」消除。
+
+< CARD_UNIT_MIMOMO >
+name=馬路川美萌萌
+descr=先攻時ATK+1、EVD-1。\n後攻時DEF+1。
+
+< CARD_UNIT_KURIE >
+name=天津慄克莉艾
+descr=
 
 [EOF]

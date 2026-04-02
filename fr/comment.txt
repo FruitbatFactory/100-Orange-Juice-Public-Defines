@@ -66,7 +66,7 @@ Impossible de vérifier la détention du DLC sans connexion à Steam.
 Vous possédez déjà ce DLC.
 
 < COM_SHOP_BONUSITEM >
-Ce personnage est offert à ceux qui possèdent %s sur Steam.
+Ce personnage est offert à celles et ceux qui possèdent %s sur Steam.
 
 < COM_SHOP_CHARACTERITEM >
 Cet objet appartient à un personnage que vous n'avez pas.
@@ -127,6 +127,9 @@ Vous achetez un nouveau costume !
 
 < COM_SHOP_CONVERTCURRENCY >
 Monnaie convertie !
+
+< COM_SHOP_BOUGHTPOSE >
+Vous achetez une nouvelle pose !
 
 < COM_USERINFO_PLAYERINFO >
 Montre vos informations de joueur.

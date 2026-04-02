@@ -310,7 +310,7 @@ flavor="Inferno!" ―Mio
 
 < CARD_HYPER_COOP_ISLAY >
 name=Rival
-descr=Enfrente um inimigo selecionado. Você ataca primeiro. Durante a batalha, ganhe +1 ATK.
+descr=Enfrente o inimigo alvo. Você ataca primeiro. Durante a batalha, ganhe +2 ATK.
 flavor="Assim como você... Eu tenho minhas batalhas para lutar." ―Islay
 
 < CARD_HYPER_COOP_COOK >

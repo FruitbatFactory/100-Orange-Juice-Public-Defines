@@ -1,0 +1,161 @@
+<0000> Dice? Okay.
+<0001> I'll roll it.
+<0002> Here you go.
+<0003> Here goes.
+<0004> I'm going to play a card now.
+<0005> It's time for a helpful item.
+<0006> I suppose this will help me out.
+<0007> Seems like a good time to make a move.
+<0008> A trap card.
+<0009> Let's try setting something up here.
+<0010> Doesn't it make things a bit tenser when there's a trap set on the ground?
+<0011> Just a little prank.
+<0012> As a teacher, I'm not really comfortable being too aggressive about things like this.
+<0013> I hope this isn't considered a form of corporal punishment.
+<0014> Maybe it's a good idea to go a bit aggressive now and then.
+<0015> A battle card, right?
+<0016> Teachers have no time to rest.
+<0017> Recess is over.
+<0018> Okay, let's resume class.
+<0019> I'm back, guys.
+<0020> I'll do my best.
+<0021> Oh, did I miss it?
+<0022> Even teachers make mistakes.
+<0023> Whoa, I wasn't expecting that.
+<0024> This is life.
+<0025> Getting physical is against my principles, but...
+<0026> Don't make your teacher angry, okay?
+<0027> Stop!
+<0028> That's not a good thing to do - got it?
+<0029> D-did you just hit me?
+<0030> Hey.
+<0031> Settle down, okay?
+<0032> Hey now.
+<0033> Recharging is essential.
+<0034> Phew, comfort is indispensable.
+<0035> Maybe I'll get more productive after recharging?
+<0036> I feel grateful for this.
+<0037> I'll get lost.
+<0038> Where are you taking me?
+<0039> This is making me dizzy.
+<0040> Where did I end up?
+<0041> This is not good.
+<0042> I suppose this means I needed a break?
+<0043> Oh no, this isn't great.
+<0044> This isn't going well.
+<0045> I can be the one to go first.
+<0046> Now, I'll teach you how to fight in a battle.
+<0047> Tough love is a thing, you know.
+<0048> My love for you can be heavy.
+<0049> Challenged accepted. Bring it on.
+<0050> Fight and learn from me.
+<0051> How dare you!
+<0052> Hey, don't be rough, okay?
+<0053> Tough love! Tough love!
+<0054> Don't expect me to hold myself back.
+<0055> There, there.
+<0056> Karate chop...!
+<0057> That hurts.
+<0058> Would you not hit me?
+<0059> Want me to get angry and yell at you?
+<0060> Owww.
+<0061> Assault charges?
+<0062> I'm really going to be angry, okay?
+<0063> You understand this is no joking matter?
+<0064> I'm going to pass out.
+<0065> Watch it!
+<0066> That terrified me.
+<0067> Boy, that was so close.
+<0068> Oh no, I'm going to fall.
+<0069> This is what happens when I go all out.
+<0070> A lesson taught. Don't go too wild, okay?
+<0071> That was good exercise.
+<0072> Oh my goodness, I won the battle.
+<0073> This is terrible.
+<0074> This is such a mess.
+<0075> I can't keep standing anymore.
+<0076> I'll slack off for a bit.
+<0077> A bonus? Sounds fantastic.
+<0078> Extra money!
+<0079> This will enrich my life.
+<0080> This is the kind of thing that pleases me the most.
+<0081> Oh my, oh my.
+<0082> Ugh... This is depressing.
+<0083> I was gonna spend that on my living expenses...
+<0084> This is the kind of thing that saddens me the most.
+<0085> Who put a trap here?
+<0086> The one who did this - come forward. I won't scold you.
+<0087> A trap? That's unsafe.
+<0088> Whoa, that startled me.
+<0089> I can sense danger from that thing.
+<0090> Everyone, keep your distance from it.
+<0091> Ah, I can tell that thing's dangerous.
+<0092> I don't think even I can handle that thing.
+<0093> You can never have too much income.
+<0094> Teachers want money as well.
+<0095> Money talks, you know.
+<0096> Life is a series of choices, and I choose stars.
+<0097> If a student's acting out, I'm the one responsible for handling that.
+<0098> It's part of my job to sort out problems between students.
+<0099> Violence is not tolerated. I'm gonna have to stop it.
+<0100> Who's being a bad student?
+<0101> Call me Ms. Kurie, okay?
+<0102> I'm Amatsukuri Kurie.
+<0103> I'm Kurie. I'm the 100% OJ club supervisor.
+<0104> You'd like to play a game with me?
+<0105> Now, it's time for class.
+<0106> Let me teach you many things.
+<0107> Game, start!
+<0108> Alright, let's begin, shall we?
+<0109> Have I proven that I'm fit to be a teacher?
+<0110> A massive victory for me!
+<0111> Everyone, I hope you'll all be strong enough to beat me some day.
+<0112> Maybe I let go of a bit of my maturity for the sake of winning?
+<0113> What do you think? Like it?
+<0114> Oh, is that what you wanted? Good for you.
+<0115> Getting that thing makes me a little happy, too.
+<0116> Oh, I think that's great.
+<0117> Do you mind switching?
+<0118> It's time to change positions.
+<0119> I think I'd like to go back there for a while.
+<0120> I need to ask you to take my place.
+<0121> I understand.
+<0122> That's nice.
+<0123> Okay, okay, I got it.
+<0124> No, that's not gonna happen.
+<0125> That's a shame.
+<0126> Oh, it's your lucky day.
+<0127> I'm bewildered by that.
+<0128> Let's get started.
+<0129> I'm about to roll a die.
+<0130> Go!
+<0131> Hello.
+<0132> How do I put this?
+<0133> That's wonderful.
+<0134> That's fantastic.
+<0135> I'll admit I'm a bit frustrated with this.
+<0136> Well, let's see what happens.
+<0137> I don't feel so good about using someone else's card, but...
+<0138> I'm about to cause a major upset.
+<0139> Ta-da! Just kidding.
+<0140> Thank you.
+<0141> Oh my goodness, look at these boys in my favorite type of outfit.
+<0142> Fufufu, stand-up collar uniforms are the best. Absolutely a symbol of youth.
+<0143> Do you like stand-up collar uniforms? Me? I love them.
+<0144> Man, this is one of those moments I feel grateful to be a teacher.
+<0145> As club supervisor, I'm going to educate you guys on the board game.
+<0146> Shiny Sparkling 100% OJ club, go for it~
+<0147> Is it really okay for me to be part of this?
+<0148> A group of students trying hard in club activities... Just beautiful.
+<0149> There are many things to learn from people from other schools.
+<0150> So they're our rival school, huh...
+<0151> A match with another school is exciting.
+<0152> Our club has to try hard as well.
+<0153> She looks like me, more or less...
+<0154> I don't think... I have a big sister.
+<0155> I thought I was looking in a mirror.
+<0156> She's... not me, is she? Who is she?
+<0157> Are you a delinquent?
+<0158> It makes me sad to see someone who went astray.
+<0159> As someone in education, I can't let you live like that.
+<0160> Would you like to take my class, too?

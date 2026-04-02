@@ -245,4 +245,28 @@ Nouveau Seulement
 < CONFIG_SYSTEM_CARDS_INFO_EXTRA_INFO_POPUP_NONE >
 Rien
 
+< CONFIG_SCREEN_LOW >
+Bas
+
+< CONFIG_SCREEN_MEDIUM >
+Moyen
+
+< CONFIG_SCREEN_HIGH >
+Élevé
+
+< CONFIG_SCREEN_DETAILS >
+Détails
+
+< CONFIG_SCREEN_SHADOWRES >
+Res. Ombres
+
+< CONFIG_SCREEN_FILTERING >
+Filtrage
+
+< CONFIG_RESTART_TO_APPLY >
+REDÉMARRER JEU
+
+< CONFIG_YOU_CANNOT_RESTART >
+Vous ne pouvez pas redémarrer pendant une partie en ligne
+
 [EOF]

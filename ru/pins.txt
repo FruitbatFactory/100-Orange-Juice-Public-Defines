@@ -136,7 +136,7 @@ artist=Azurée
 < PIN_FLYING_STARBREAKER >
 name=Летящая Крушитель Звёзд
 desc=Награда для тех, кто много играет за Крушителя Звёзд.\nОпасайтесь взрывов.
-artist=Azurée.
+artist=Azurée
 
 < PIN_FLYING_NATH >
 name=Летящая Нат

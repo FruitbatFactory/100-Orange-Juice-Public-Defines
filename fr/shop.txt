@@ -150,7 +150,7 @@ Chris & Kyupita
 Haléna & Coco
 
 < SHOP_DLC_RIDERMERCHANT >
-Pack Chemin de Fer
+Pack Chemins de Fer
 
 < SHOP_DLC_HIMEFERNETRENEWAL >
 Pack Princesses
@@ -193,6 +193,9 @@ Haruka & Kanata
 
 < SHOP_DLC_EXTRACURRICULARPACK >
 Pack Périscolaire
+
+< SHOP_DLC_MIMOMOKURIE >
+Kurie & Mimomo
 
 < SHOP_TOOLTIP_HOME >
 Naviguez dans la boutique par catégories.
@@ -296,6 +299,4 @@ Masquer les Objets Indisponibles
 < SHOP_ERROR_INVENTORY_PURCHASE >
 Échec de transaction. Veuillez réessayer plus tard.
 
-
 [EOF]
-

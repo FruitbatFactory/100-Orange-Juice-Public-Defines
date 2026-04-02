@@ -260,7 +260,7 @@ flavor="Fear my powers!" ―Yuki
 
 < CARD_HYPER_COOP_ARTHUR >
 name=Branch Expansion Strategy
-descr=★Cost: Number of cards held x5\nTurn all your cards, including this one, into "Rbit Hobby Shop."\nYou may play one more card in this turn.
+descr=★Cost: Number of cards held x5\nTurn all your cards, including this one, into "Rbit Hobby Shop."\nYou may play one more card this turn.
 flavor="Phaaw..." ―Arthur
 
 < CARD_HYPER_COOP_MIMYUU >
@@ -285,7 +285,7 @@ flavor="Inferno!" ―Mio
 
 < CARD_HYPER_COOP_ISLAY >
 name=Rival
-descr=Battle target enemy. You attack first. During battle, gain +1 ATK.
+descr=Battle target enemy. You attack first. During battle, gain +2 ATK.
 flavor="Just like you... I have my battles to fight." ―Islay
 
 < CARD_HYPER_COOP_COOK >

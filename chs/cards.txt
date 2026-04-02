@@ -6,7 +6,7 @@ flavor=「快点！」—须玖莉
 
 < CARD_BOOST_EXTEND >
 name=残机奖励
-descr=储备效果\n倒下时在下一个你的回合复活。
+descr=储备效果\n倒下时，在下一个你的回合复活。
 flavor=「暂且可以安心了！」—玛儿
 
 < CARD_BOOST_FLIPOUT >
@@ -241,7 +241,7 @@ flavor=「谁会死去，就用这个来决定吧？」—由希
 
 < CARD_HYPER_QP >
 name=超能模式！
-descr=这场战斗中ATK+2。\n在这场战斗中倒下时，不会将STAR\n和WIN交给对方，\n且在下一个你的回合复活。
+descr=这场战斗中ATK+3。\n在这场战斗中倒下时，不会将STAR\n和WIN交给对方，\n且在下一个你的回合复活。
 flavor=「超能模式！」—QP
 
 < CARD_HYPER_TOMOMO >

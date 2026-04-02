@@ -194,6 +194,9 @@ Ultimate Weapon Girl
 < SHOP_DLC_EXTRACURRICULARPACK >
 课外活动卡包
 
+< SHOP_DLC_MIMOMOKURIE >
+克莉艾＆美萌萌
+
 < SHOP_TOOLTIP_HOME >
 按类别图标查看商店。
 

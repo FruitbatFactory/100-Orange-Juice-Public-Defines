@@ -30,7 +30,7 @@ flavor="Pourquoi il y a que des armes dans ce train ?!" ―Tomato
 
 < CARD_EVENT_COOP_PETSNACKS >
 name=Croquettes pour Monstres
-descr=(Cumulable) Le Boss et les familiers ont -1 ATK à leurs prochains combats.
+descr=(Cumulable) Le Boss et ses familiers ont -1 ATK à leurs prochains combats.
 flavor="Venez ! J'ai des croquettes pour vous !" ―Syura
 
 < CARD_BOOST_COOP_FREIGHT >
@@ -75,7 +75,7 @@ flavor="Attends, j'y tiens beaucoup, moi." ―Sora
 
 < CARD_BANNER_COOP_PROTECTIONFEE >
 name=Taxe de Protection
-descr=Lorsque le Boss ou un familier s'arrête sur une case Maison, les joueurs gagnent (Niv. joueurs) x5 ★ et le Boss en perd autant.
+descr=Lorsque le Boss ou un de ses familiers s'arrête sur une case Maison, les joueurs gagnent (Niv. joueurs) x5 ★ et le Boss en perd autant.
 flavor="C'est quoi cette arnaque ?" ―Lulu
 
 < CARD_EVENT_COOP_EXTREMEALTERATION >
@@ -285,7 +285,7 @@ flavor="Inferno !" ―Mio
 
 < CARD_HYPER_COOP_ISLAY >
 name=Rivale
-descr=Affrontez un ennemi au choix. Vous attaquez en premier. +1 ATK pour ce combat.
+descr=Affrontez un ennemi au choix. Vous attaquez en premier. +2 ATK pour ce combat.
 flavor="Moi aussi, j'ai un combat à mener." ―Scotch
 
 < CARD_HYPER_COOP_COOK >
@@ -390,7 +390,7 @@ flavor=
 
 < CARD_BOSS_COOP_GROUPUP >
 name=Rassemblement
-descr=Tous les familiers se réunissent sur une case au hasard.
+descr=Tous les familiers du Boss se réunissent sur une case au hasard.
 flavor=
 
 < CARD_BOSS_COOP_PECK >
@@ -410,7 +410,7 @@ flavor=
 
 < CARD_BOSS_COOP_PIYO_MARCH >
 name=Défilé Piyo
-descr=Le Boss et les familiers gagnent +2 EVD à leur prochain combat.
+descr=Le Boss et ses familiers gagnent +2 EVD à leurs prochains combats.
 flavor=
 
 < CARD_BOSS_COOP_REGENERATION >
@@ -435,7 +435,7 @@ flavor=
 
 < CARD_BOSS_COOP_CHICKEN_RUN >
 name=Chair de Poule
-descr=Durée de l'Effet : 2 chapitres\nTous les familiers gagnent +2 MOV et +1 EVD.
+descr=Durée de l'Effet : 2 chapitres\nTous les familiers du Boss gagnent +2 MOV et +1 EVD.
 flavor=
 
 < CARD_BOSS_COOP_HEN_PECKED >
@@ -450,7 +450,7 @@ flavor=
 
 < CARD_BOSS_COOP_SWARM >
 name=Ruée
-descr=Tous les familiers gagnent +2 ATK pour leur prochain combat et se jettent chacun sur un joueur aléatoire. Impossible de contre-attaquer.\nLe Boss utilise ensuite Dash.
+descr=Tous les familiers du Boss gagnent +2 ATK pour leur prochain combat et se jettent chacun sur un joueur aléatoire. Impossible de contre-attaquer.\nLe Boss utilise ensuite Dash.
 flavor=
 
 < CARD_BOSS_COOP_FINAL_WARNING >
@@ -605,12 +605,12 @@ flavor=
 
 < CARD_BOSS_COOP_TITHE >
 name=Dîme
-descr=Tous les joueurs dans un rayon de (Niv. Boss) cases autour du Boss ou d'un familier perdent 10 étoiles. Le Boss gagne 10 étoiles par joueur affecté.
+descr=Tous les joueurs dans un rayon de (Niv. Boss) cases autour du Boss ou d'un de ses familiers perdent 10 étoiles. Le Boss gagne 10 étoiles par joueur affecté.
 flavor=
 
 < CARD_BOSS_COOP_UBIQUITOUS >
 name=Nous Sommes Partout
-descr=Le Boss se téléporte sur un joueur au hasard (prio. plus loin) et vole (Niv. Boss) x5 ★.\nLes familiers se téléportent sur un joueur au hasard (prio. plus proche) et volent 5 étoiles chacun.
+descr=Le Boss se téléporte sur un joueur au hasard (prio. plus loin) et vole (Niv. Boss) x5 ★.\nLes familiers du Boss se téléportent sur un joueur au hasard (prio. plus proche) et volent 5 étoiles chacun.
 flavor=
 
 < CARD_BOSS_COOP_SNATCHER >
@@ -635,7 +635,7 @@ flavor=
 
 < CARD_BOSS_COOP_GREED >
 name=Avarice
-descr=Durée de l'Effet : 1 chapitre\nLe Boss et les familiers gagnent +5 étoiles par dégât infligé aux joueurs.
+descr=Durée de l'Effet : 1 chapitre\nLe Boss et ses familiers gagnent +5 étoiles par dégât infligé aux joueurs.
 flavor=
 
 < CARD_BOSS_COOP_WARP_PHENOMENON >
@@ -655,17 +655,17 @@ flavor=
 
 < CARD_BOSS_COOP_POPPO_GALAXY >
 name=Galaxie Poppo
-descr=Pour chaque 100 étoiles du Boss, inflige 1 dégât aux joueurs n'étant pas sur un rayon de 2 cases autour du Boss ou d'un familier. Ne peut pas faire tomber KO.
+descr=Pour chaque 100 étoiles du Boss, inflige 1 dégât aux joueurs n'étant pas sur un rayon de 2 cases autour du Boss ou d'un de ses familiers. Ne peut pas faire tomber KO.
 flavor=
 
 < CARD_BOSS_COOP_DEATH_AND_TAXES >
 name=Impoppôt Mortel
-descr=Pour chaque 50 étoiles de l'équipe, inflige 1 point de dégât à chaque joueur sur un rayon de 2 cases autour du Boss ou d'un familier.\nLe Boss gagne 50 étoiles par joueur KO.
+descr=Pour chaque 50 étoiles de l'équipe, inflige 1 point de dégât à chaque joueur sur un rayon de 2 cases autour du Boss ou d'un de ses familiers.\nLe Boss gagne 50 étoiles par joueur KO.
 flavor=
 
 < CARD_BOSS_COOP_VALUE_JUDGMENT >
 name=Jugement de Valeur
-descr=Calcule l'ATK de tous les joueurs réunis, et leur inflige la somme en dégâts, puis vole la somme x10 ★.\nSi la somme est négative, l'effet s'inverse :\nLes joueurs sont soignés et le Boss donne de ses étoiles.
+descr=Calcule le total d'ATK de tous les joueurs réunis, et leur inflige la somme en dégâts. Le Boss vole (dégâts) x10 étoiles.\nSi la somme est négative, l'effet s'inverse :\nLes joueurs sont soignés et le Boss donne de ses étoiles.
 flavor=
 
 < CARD_BOSS_COOP_RANSOM_NOTE >
@@ -760,7 +760,7 @@ flavor=
 
 < CARD_BOSS_COOP_SEAGULL_MASTER >
 name=Mes Serviteurs Mouettes
-descr=Pose le piège "Danse des Mouettes" sur les cases du Boss et des familiers : Inflige 2 dégâts, le Boss gagne 1 PV et 1 Hype.\n(Cumulable) -2 ATK à votre prochain combat.
+descr=Le Boss et ses familiers posent le piège "Danse des Mouettes" sur leurs cases : Inflige 2 dégâts, le Boss gagne 1 PV et 1 Hype. Ne peut être activé que par les joueurs.\n(Cumulable) -2 ATK à votre prochain combat.
 flavor=
 
 < CARD_BOSS_COOP_WATERMELON_SPLITTING >
@@ -920,7 +920,7 @@ flavor=
 
 < CARD_BOSS_COOP_ROBO_TAX >
 name=Imporobot
-descr=Tous les joueurs n'étant pas sur un rayon de 3 cases autout du Boss ou de ses familiers perdent 5 étoiles.\nPour chaque joueur affecté, le Boss gagne 5 étoiles, et +1 DEF jusqu'à son prochain tour.
+descr=Tous les joueurs n'étant pas dans un rayon de 3 cases autour du Boss ou de ses familiers perdent 5 étoiles.\nPour chaque joueur affecté, le Boss gagne 5 étoiles, et +1 DEF jusqu'à son prochain tour.
 flavor=
 
 < CARD_BOSS_COOP_PLUCK >
@@ -1010,7 +1010,7 @@ flavor=
 
 < CARD_BOSS_COOP_ROOST_BOOST >
 name=Superchoir
-descr=Le Boss invoque un familier Poulet sur sa case s'il n'y en a pas d'autres.
+descr=Le Boss invoque un familier Poulet sur sa case (1 maximum).
 flavor=
 
 < CARD_BOSS_COOP_ROOST_BOOST_HYPER >
@@ -1030,17 +1030,17 @@ flavor=
 
 < CARD_BOSS_COOP_WHIRL >
 name=Tourbillon
-descr=Chaque joueur sur un rayon de (Niv. Boss) cases autour d'un familier est téléporté vers une case au hasard.
+descr=Chaque joueur sur un rayon de (Niv. Boss) cases autour de ses familier est téléporté vers une case au hasard.
 flavor=
 
 < CARD_BOSS_COOP_BUBBLE_BATH >
 name=Bain Moussant
-descr=Un familier au hasard récupère 1 PV.
+descr=Un familier du Boss au hasard récupère 1 PV.
 flavor=
 
 < CARD_BOSS_COOP_ENTRY_FEE >
 name=Tarif d'Entrée
-descr=Chaque joueur sur un rayon de 2 cases autour d'un familier perd (Niv. Boss) ★.
+descr=Chaque joueur sur un rayon de 2 cases autour d'un familier du Boss perd (Niv. Boss) ★.
 flavor=
 
 < CARD_BOSS_COOP_GULP_OF_WATER >
@@ -1050,17 +1050,17 @@ flavor=
 
 < CARD_BOSS_COOP_COACHING >
 name=Entraînement
-descr=Tous les familiers gagnent +1 ATK jusqu'au prochain chapitre.
+descr=Tous les familiers du Boss gagnent +1 ATK jusqu'au prochain chapitre.
 flavor=
 
 < CARD_BOSS_COOP_CONFISCATE >
 name=Confisqué !
-descr=Chaque joueur se tenant sur la même case qu'un familier défausse une carte.
+descr=Chaque joueur se tenant sur la même case qu'un familier du Boss défausse une carte.
 flavor=
 
 < CARD_BOSS_COOP_SHOCK >
 name=Choc
-descr=Chaque familier inflige 1 point de dégât à tous les joueurs sur un rayon de (Niv. Boss) cases.
+descr=Chaque familier du Boss inflige 1 point de dégât à tous les joueurs sur un rayon de (Niv. Boss) cases.
 flavor=
 
 < CARD_BOSS_COOP_GO_FASTER >
@@ -1075,7 +1075,7 @@ flavor=
 
 < CARD_BOSS_COOP_PACE_UP >
 name=Plus Fort !
-descr=Durée de l'Effet : 3 chapitres\nTous les familiers gagnent +1 ATK et -1 EVD.
+descr=Durée de l'Effet : 3 chapitres\nTous les familiers du Boss gagnent +1 ATK et -1 EVD.
 flavor=
 
 < CARD_BOSS_COOP_HUSTLE >
@@ -1090,22 +1090,22 @@ flavor=
 
 < CARD_BOSS_COOP_TROPICAL_CYCLONE >
 name=Cyclone Tropical
-descr=Chaque familier marque une case au hasard (sauf Portail).\nAu prochain chapitre, ils se téléportent à cette case et infligent (Niv. Boss) dégâts à tous les joueurs sur un rayon de 2 cases.
+descr=Les familiers du Boss marquent chacun une case au hasard (sauf Portail).\nAu prochain chapitre, ils se téléportent vers leurs cases respectivent et infligent (Niv. Boss) dégâts à tous les joueurs dans un rayon de 2 cases.
 flavor=
 
 < CARD_BOSS_COOP_BUTTERFLY >
 name=Formation Papillon
-descr=Durée de l'Effet : 2 chapitres\nTous les familiers gagnent +2 ATK et +1 MOV.
+descr=Durée de l'Effet : 2 chapitres\nTous les familiers du Boss gagnent +2 ATK et +1 MOV.
 flavor=
 
 < CARD_BOSS_COOP_ZAP >
 name=Zap !
-descr=Chaque familier inflige (Niv. Boss) dégâts à tous les joueurs sur un rayon de 1 case.
+descr=Chaque familier du Boss inflige (Niv. Boss) dégâts à tous les joueurs sur un rayon de 1 case.
 flavor=
 
 < CARD_BOSS_COOP_ENCOURAGE >
 name=Encouragement
-descr=Le Brutemballons gagne +3 ATK ce tour-ci et affronte un joueur au hasard (prio. plus proche). Si le joueur ciblé tombe KO, Brutemballons affronte ensuite le deuxième joueur le plus proche.
+descr=Brutemballons gagne +3 ATK ce tour-ci et affronte un joueur au hasard (prio. plus proche). Si le joueur ciblé tombe KO, Brutemballons affronte ensuite le deuxième joueur le plus proche.
 flavor=
 
 < CARD_BOSS_COOP_MOVING_GOALPOST >
@@ -1527,6 +1527,5 @@ flavor=
 
 < CARD_SKILL_COOP_VANGUARD_BOLSTER >
 name=Purification
-descr=Si le joueur ciblé possède au moins un effet de Boss : Supprime tous les effets de Boss, puis soigne 1 PV, +1 par effet enlevé.\nSinon, applique l'effet "Purifié" : Empêche l'application d'effets de Boss.\nRecharge : 5 chapitres
+descr=Si le joueur ciblé possède au moins un effet de Boss : Supprime tous les effets de Boss, puis confère 1 PV +1 par effet enlevé.\nSinon, applique l'effet "Purifié" : Empêche l'application d'effets de Boss.\nRecharge : 5 chapitres
 flavor=
-

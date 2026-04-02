@@ -194,6 +194,9 @@ DLC
 < SHOP_DLC_EXTRACURRICULARPACK >
 Набор карт "Extracurricular"
 
+< SHOP_DLC_MIMOMOKURIE >
+Курие и Мимомо
+
 < SHOP_TOOLTIP_HOME >
 Используйте кнопки категорий для навигации по магазину.
 

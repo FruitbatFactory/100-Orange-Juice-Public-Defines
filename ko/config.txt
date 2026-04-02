@@ -245,5 +245,29 @@ Rich Presence (스팀 및 디스코드)
 < CONFIG_SYSTEM_CARDS_INFO_EXTRA_INFO_POPUP_NONE >
 없음
 
+< CONFIG_SCREEN_LOW >
+낮음
+
+< CONFIG_SCREEN_MEDIUM >
+중간
+
+< CONFIG_SCREEN_HIGH >
+높음
+
+< CONFIG_SCREEN_DETAILS >
+세부도
+
+< CONFIG_SCREEN_SHADOWRES >
+그림자 해상도
+
+< CONFIG_SCREEN_FILTERING >
+필터링
+
+< CONFIG_RESTART_TO_APPLY >
+적용하려면 재실행
+
+< CONFIG_YOU_CANNOT_RESTART > 
+온라인 매치 중에는 재실행을 할 수 없습니다
+
 [EOF]
 

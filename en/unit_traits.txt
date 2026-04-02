@@ -1,0 +1,62 @@
+< UNIT_TRAIT_MALE >
+Male
+
+< UNIT_TRAIT_FEMALE >
+Female
+
+< UNIT_TRAIT_GENDERLESS >
+Genderless
+
+< UNIT_TRAIT_BIRD >
+Bird
+
+< UNIT_TRAIT_YOUNGLADY >
+Young Lady
+
+< UNIT_TRAIT_BRAT >
+Brat
+
+< UNIT_TRAIT_PRINCESS >
+Princess
+
+< UNIT_TRAIT_SWEETGOD >
+Sweet God
+
+< UNIT_TRAIT_ANIMALEAR >
+Animal-eared
+
+< UNIT_TRAIT_WARUDA >
+Waruda
+
+< UNIT_TRAIT_ROBOT >
+Robot
+
+< UNIT_TRAIT_DRESS >
+Dress
+
+< UNIT_TRAIT_GUILDMEMBER >
+Guildmember
+
+< UNIT_TRAIT_SHIFUBRAND >
+Shifu Brand
+
+< UNIT_TRAIT_CATEAR >
+Cat-eared
+
+< UNIT_TRAIT_FLUFFY >
+Fluffy
+
+< UNIT_TRAIT_OJCLUBMEMBER >
+OJ Club Member
+
+< UNIT_TRAIT_SCHOOLUNIFORM >
+School Uniform
+
+< UNIT_TRAIT_VILLAIN >
+Villain
+
+< UNIT_TRAIT_SHINYSPARKLING >
+Shiny Sparkling Academy
+
+< UNIT_TRAIT_TEAMARNELLE >
+Team Arnelle

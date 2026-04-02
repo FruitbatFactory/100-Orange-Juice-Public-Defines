@@ -793,6 +793,206 @@ descr=60% 확률로 주사위 굴림에서 0이 나온다.\n효과는 한 번에
 name=정밀한 주사위 굴림
 descr=-이동, 전투, 보너스 굴림에서 4 이상의 값만 나온다.\n-드롭 굴림에서 2 이하의 값만 나온다.\n효과 만료 후 다음 턴을 시작할 때 건초염을 얻는다.
 
+< CARD_EFFECT_MIMOMO_DOUBLEDROP >
+name=오늘도 열심히 (A)
+descr=드롭 패널에서 주사위 하나를 더 굴린다.
+
+< CARD_EFFECT_MIMOMO_DOUBLEBONUS >
+name=오늘도 열심히 (B)
+descr=보너스와 드롭 패널에서 주사위 하나를 더 굴린다.
+
+< CARD_EFFECT_MIMOMO_DOUBLESTATS >
+name=오늘도 열심히 (C)
+descr=모든 공격력, 방어력, 회피력 보정 효과가 2배가 된다. 노르마 판정을 할 수 없다.
+
+< CARD_EFFECT_BOUNTY_MIMOMO_DOUBLESTATS >
+name=오늘도 열심히 (C)
+descr=배틀 카드로 인한 모든 공격력, 방어력, 회피력 보정 효과가 2배가 된다. 노르마 판정을 할 수 없다.
+
+< CARD_EFFECT_KURIE_ENDURE >
+name=선생님의 끈기
+descr=배틀에서 피해로 인해 KO당할 때 대신 HP가 1점까지만 감소한다.
+
+< CARD_EFFECT_KURIE_HEAL >
+name=선생님의 의지
+descr=드로우, 이동, 워프, 워프 이동, 랜덤 패널을 발동한 뒤 HP 1을 회복한다.
+
+< CARD_EFFECT_CHAOS_GM_TRAPCARD >
+name=트랩 카드
+descr=무작위 트랩이 무작위 패널에 놓인다.
+
+< CARD_EFFECT_CHAOS_GM_TARGETEDDOUBLEDROP >
+name=지정 더블 드롭
+descr=더블 드롭 디버프가 가장 많은 스타를 가진 유닛에게 적용된다.\n더블 드롭: 다음 드롭 패널에서 스타를 두 배로 잃는다.
+
+< CARD_EFFECT_CHAOS_GM_DOUBLEDROP_EFFECT >
+name=더블 드롭
+descr=다음 드롭 패널에서 스타를 두 배로 잃는다.
+
+< CARD_EFFECT_CHAOS_GM_AIRRAID >
+name=공습
+descr=모든 유닛이 즉시 피해 1점을 받는다.
+
+< CARD_EFFECT_CHAOS_GM_PAYCHECK >
+name=월급날
+descr=내 유닛이 즉시 레벨x5만큼의 스타를 얻는다.
+
+< CARD_EFFECT_CHAOS_GM_GLORYOFBATTLE >
+name=전투의 영광
+descr=내 유닛이 즉시 1승을 얻는다.
+
+< CARD_EFFECT_CHAOS_GM_SLOWDOWN >
+name=천천히!
+descr=내 유닛을 제외한 무작위 유닛이 다음 턴에 이동 굴림에서 1만 나오게 된다.
+
+< CARD_EFFECT_CHAOS_GM_SLOWDOWN_EFFECT >
+name=느림
+descr=이동 굴림에서 1만 나오게 된다.
+
+< CARD_EFFECT_CHAOS_GM_INVERSION >
+name=반전
+descr=모든 유닛의 능력치가 다음 내 턴까지 반전된다.
+
+< CARD_EFFECT_CHAOS_GM_INVERSION_EFFECT >
+name=반전됨
+descr=배틀 능력치가 반전된다.
+
+< CARD_EFFECT_CHAOS_GM_REVERSAL >
+name=역행
+descr=모든 유닛의 이동이 다음 내 턴까지 반대 방향이 된다.
+
+< CARD_EFFECT_CHAOS_GM_REVERSAL_EFFECT >
+name=역행함
+descr=유닛 이동이 반대 방향이 된다.
+
+< CARD_EFFECT_CHAOS_GM_SHARINGISCARING >
+name=나누면 기쁨이 두 배
+descr=무작위 유닛에게서 카드를 훔친다.
+
+< CARD_EFFECT_CHAOS_GM_SNACKTIME >
+name=간식시간
+descr=모든 유닛이 HP 1점을 회복한다.
+
+< CARD_EFFECT_CHAOS_GM_CAREPACKAGE >
+name=케어 패키지
+descr=내 유닛에게 무작위 카드를 준다.\n25% 확률로 그 카드가 내 하이퍼가 될 수 있다.
+
+< CARD_EFFECT_CHAOS_GM_DASH >
+name=대시!
+descr=이번 턴에 내 유닛이 대시 효과를 받는다.\n대시: 이동 시 주사위를 2개 굴린다.
+
+< CARD_EFFECT_CHAOS_GM_BULLYSHUTDOWN >
+name=불량배 단죄
+descr=기본 공격력이 가장 높은 유닛(들)은 피해 2점을 받는다.
+
+< CARD_EFFECT_CHAOS_GM_RAINOFTRAPCARDS >
+name=돌격 투하
+descr=무작위 패널 3-5곳에 돌격 트랩을 놓는다.
+
+< CARD_EFFECT_CHAOS_GM_VISIONFROMABOVE >
+name=천상의 시야
+descr=한 챕터동안 모든 플레이어의 패를 전부 드러낸다.
+
+< CARD_EFFECT_CHAOS_GM_EVASIONBOOST >
+name=회피 증진
+descr=다음 턴까지 내 유닛이 회피력 +2를 얻는다.
+
+< CARD_EFFECT_CHAOS_GM_PVPTIME >
+name=PVP의 시간이다!
+descr=홈과 워프를 제외한 모든 패널이 다음 내 턴까지 플레이어 엔카운터 패널이 된다.
+
+< CARD_EFFECT_CHAOS_GM_PUDDING >
+name=푸딩
+descr=내 유닛이 즉시 완전히 회복된다.\n내 유닛이 KO당할 시 전체 HP로 즉시 부활한다.
+
+< CARD_EFFECT_CHAOS_GM_ORBITALMISSILE >
+name=궤도 미사일
+descr=모든 유닛이 피해 1-3점을 받는다.
+
+< CARD_EFFECT_CHAOS_GM_KAILOSTWALLET >
+name=카이의 잃어버린 지갑
+descr=내 유닛이 즉시 1, 10, 15, 25, 50, 100스타 중 한 가지를 얻는다.
+
+< CARD_EFFECT_CHAOS_GM_FORCEDWARP >
+name=강제 워프
+descr=모든 유닛이 무작위 패널로 워프한다.
+
+< CARD_EFFECT_CHAOS_GM_POCKETSHERRY >
+name=100% 비타민 C
+descr=내 유닛이 다음 턴까지 공격력, 방어력, 회피력 +1을 얻는다.
+
+< CARD_EFFECT_CHAOS_GM_EXTREMEANGER >
+name=극한의 분노
+descr=다음 내 턴까지 이동에서 주사위 2개를 굴리고 공격력 +3을 얻는다. 
+
+< CARD_EFFECT_CHAOS_GM_IMMUNITY >
+name=면역
+descr=다음 내 턴까지 피해를 입지 않는다.
+
+< CARD_EFFECT_CHAOS_GM_BALANCEDUNIT >
+name=밸런스형 유닛
+descr=다음 내 턴까지 배틀 능력치가 공격력, 방어력, 회피력 +2가 된다.
+
+< CARD_EFFECT_CHAOS_GM_EMERGENCYCAREPACKAGE >
+name=응급 케어 패키지
+descr=내 유닛에게 무작위 카드 3장을 준다.\n각 카드는 75% 확률로 내 하이퍼일 수 있다.
+
+< CARD_EFFECT_CHAOS_GM_IMMEDIATECHECK >
+name=즉시 판정
+descr=내 유닛이 즉시 노르마 판정을 행한다. 노르마 레벨 5에서는 사용할 수 없다.
+
+< CARD_EFFECT_CHAOS_GM_IMMEDIATECONVERGENCE >
+name=즉시 수렴
+descr=수렴을 발동한다.
+
+< CARD_EFFECT_CHAOS_GM_OVERDRIVE >
+name=오버드라이브!!
+descr=모든 유닛이 HP 99점을 얻지만 배틀에서 받는 피해가 10배가 된다. 이 효과는 유닛이 KO될 때 끝난다.
+
+< CARD_EFFECT_CHAOS_GM_GLOBALWAR >
+name=세계 전쟁
+descr=모든 유닛이 3챕터동안 공격력 +3, 방어력 -3을 얻는다.
+
+< CARD_EFFECT_CHAOS_GM_GLOBALPEACE >
+name=세계 평화
+descr=모든 유닛이 3챕터동안 방어력 +3, 공격력 -3을 얻는다.
+
+< CARD_EFFECT_CHAOS_GM_UNFAIREXCHANGE >
+name=불공정 거래
+descr=모두의 스타를 즉시 서로 맞바꾼다.
+
+< CARD_EFFECT_CHAOS_GM_BANKRUPT >
+name=파산
+descr=모든 유닛의 스타가 0이 된다.
+
+< CARD_EFFECT_CHAOS_GM_STARSHOWER >
+name=스타샤워
+descr=홈과 워프를 제외한 모든 패널이 1챕터동안 더블 보너스 패널이 된다.
+
+< CARD_EFFECT_CHAOS_GM_GLOBALSHUTDOWN >
+name=세계 단죄
+descr=모든 유닛이 피해 50점을 받는다.
+
+< CARD_EFFECT_CHAOS_GM_UNLIMITEDLIVES >
+name=무한 목숨
+descr=모든 유닛이 익스텐드의 효과를 받는다.\n익스텐드: KO 후 다음 턴에 부활한다.
+
+< CARD_EFFECT_CHAOS_GM_HOMEBREAKER >
+name=홈 브레이커
+descr=다음 내 턴까지 모든 노르마 판정을 무효화한다.
+
+< CARD_EFFECT_CHAOS_GM_IMLITERALLYONFIRE >
+name=진짜로 불타오른다!
+descr=모든 유닛이 KO 시까지 방어력 -9를 얻는다.
+
+< CARD_EFFECT_CHAOS_GM_IMLITERALLYONFIRE_EFFECT >
+name=진짜로 불타오른다!
+descr=중첩당 방어력 -1을 얻는다.
+
+< CARD_EFFECT_CHAOS_GM_HYPERMODE >
+name=하이퍼 모드!
+descr=패를 전부 버리고 덱을 다시 채우고 모든 카드를 무작위 하이퍼로 바꾼다. 모든 유닛은 카드 3장을 뽑는다.
+
 [EOF]
 
 

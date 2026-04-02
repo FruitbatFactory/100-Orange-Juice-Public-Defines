@@ -46,4 +46,7 @@ Triple Peine
 < EVENTNAME_WINTER2025 >
 Challenge au Club
 
+< EVENTNAME_VALENTINES >
+Chocolat des Déesses du Sucre
+
 [EOF]

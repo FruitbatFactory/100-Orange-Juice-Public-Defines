@@ -1,0 +1,161 @@
+<0000> Yello.
+<0001> Alright.
+<0002> Hoy.
+<0003> Here goes a die.
+<0004> Is this a good time to play a card?
+<0005> Heheh, this'll be fun.
+<0006> Ora ora, check out this card.
+<0007> This is what I was holding!
+<0008> I'm gonna set a trap here.
+<0009> A trap!
+<0010> Why don't I put a trap down here?
+<0011> Hey, there's a trap down here. Everyone watch out.
+<0012> I've gotta win this battle.
+<0013> I'm gonna finish you with this!
+<0014> I'll buff myself!
+<0015> A battle card to give me a bigger chance of winning.
+<0016> Okay, it's time for me to get serious.
+<0017> Phew, I thought I was done for.
+<0018> I'm so back up.
+<0019> I shouldn't be resting anymore.
+<0020> I have returned.
+<0021> What? For reals!?
+<0022> You've gotta be kidding me!
+<0023> Maybe I'm having an off day today?
+<0024> Oh man, oh man.
+<0025> Orah!
+<0026> Take this!
+<0027> Eat my fist!
+<0028> This is all I've got!
+<0029> That hurts.
+<0030> Knock it off.
+<0031> Owaah.
+<0032> Ugh, this is tough.
+<0033> I got my HP back.
+<0034> Healing time.
+<0035> This helps so much.
+<0036> I guess I'm out of the tight spot for now.
+<0037> A warp, huh?
+<0038> Where are you carrying me to?
+<0039> Oh? Oh?
+<0040> Whoa, I'm warping!
+<0041> Ugh, I'm finished.
+<0042> This is a nightmare.
+<0043> This is hell.
+<0044> I messed up!
+<0045> You better brace yourself.
+<0046> I'll beat you.
+<0047> Get yourself ready for my fists.
+<0048> I'll give no quarter if you confront me.
+<0049> What the? Now?
+<0050> A battle? Okay, let's do it.
+<0051> Oh, you wanna fight me? Sounds great.
+<0052> Oh, looks like someone's got a lotta energy to burn.
+<0053> Attack!
+<0054> Here comes my attack!
+<0055> I'll give you a mildly powerful slap.
+<0056> Sorry if this hurts.
+<0057> Oww.
+<0058> Hey, cut it out.
+<0059> I'll report you.
+<0060> Bueh!
+<0061> There's no way this is a joke.
+<0062> This can't be happening.
+<0063> Gueeeh.
+<0064> Gyaaah.
+<0065> That was so close.
+<0066> Hey, stop it.
+<0067> You need to work on your aim.
+<0068> Missed me~
+<0069> I won!
+<0070> I'm pretty strong, right?
+<0071> Nice, things are going my way.
+<0072> My victory.
+<0073> I can't believe this.
+<0074> Hmm, I thought I was gonna win.
+<0075> Argh, this is pretty tough.
+<0076> You gotta go easier on me.
+<0077> I'll be a star collector.
+<0078> This'll make me a star player. Pun intended.
+<0079> Stars! I'm so happy.
+<0080> Oh, my lucky day!
+<0081> No no no.
+<0082> Hmh.
+<0083> Ugh, I hate drop panels.
+<0084> This sucks so hard.
+<0085> Ew! It's a trap.
+<0086> This sucks. I'm pissed.
+<0087> Oh my god... Who set a trap here?
+<0088> I messed up! Damn it!
+<0089> Oh, is that a boss?
+<0090> That thing looks way crazy.
+<0091> Ooh, I feel so thrilled right now.
+<0092> Now that a boss is around, how will the game shift?
+<0093> Let's start collecting those stars!
+<0094> Girls wanna shine and sparkle, am I right?
+<0095> The more stars I got, the happier I get.
+<0096> I suppose I'll gather all the stars around here.
+<0097> Get in my way and I'll kick your ass.
+<0098> I feel like exercising a bit.
+<0099> I'm feeling fired up to fight.
+<0100> I'll go nuts out here.
+<0101> I'm Mimomo. Good to meet ya.
+<0102> I don't look like a school prez? I get that a lot.
+<0103> I like everything that's fun.
+<0104> Wanna play a game with me? Sure.
+<0105> It's go time.
+<0106> We're gonna have so much fun.
+<0107> I can tell I'm the one to win this game.
+<0108> Just so you know, I'm a pretty good player.
+<0109> Yeah!!! I won!!!
+<0110> Eheh, what a blast.
+<0111> I won the game. Impressive, am I right?
+<0112> Okay, let's go play another game.
+<0113> You got a new item.
+<0114> Oh, ain't that lucky?
+<0115> What'd you get? Show me.
+<0116> That's terrific.
+<0117> Switch please.
+<0118> Change.
+<0119> Will you take my place?
+<0120> You can come out and play.
+<0121> Gotcha.
+<0122> That's pretty good.
+<0123> Yeees!
+<0124> I can't allow that.
+<0125> Biggest bummer ever, isn't it?
+<0126> Luckiest moment ever, isn't it?
+<0127> Huh? What the heck is that?
+<0128> Let's go!
+<0129> Let's roll.
+<0130> You can do it!
+<0131> Yo! How you doing?
+<0132> Argh, I'm gagging.
+<0133> Awesome.
+<0134> So freaking awesome.
+<0135> Uuuugh, I'm so mad about this.
+<0136> Never seen this card before. What's it do?
+<0137> I've got a hunch something incredible will happen.
+<0138> I'm gonna bring chaos.
+<0139> Someone else's hyper card!
+<0140> Thanks.
+<0141> Me and Popomi are the strongest team ever.
+<0142> Been a while since we last teamed up.
+<0143> Popomi, let's go have some fun.
+<0144> I'm glad I get to pair up with you.
+<0145> You can count on me cuz I'm your senior and the prez.
+<0146> Feels good to be relied on by juniors.
+<0147> Let's show them what we've got.
+<0148> I gotta impress my juniors.
+<0149> I'll show you what your senior can do.
+<0150> Don't expect me to go easy on you.
+<0151> Brace yourself for my display of love.
+<0152> Alright, let's have some fun.
+<0153> Oh, someone's full of energy, looks like.
+<0154> Okay, bring it on.
+<0155> Let's see if a junior is gonna surpass their senior.
+<0156> I'll be gentle with you.
+<0157> You still have a long way to go.
+<0158> It's too early for you to beat me.
+<0159> That was close. You did pretty good.
+<0160> Oh, you're a pretty good fighter. I gotta keep trying too.

@@ -157,4 +157,6 @@
 <0156> Popo lost her mascot position!
 <0157> Ugh, does this mean Popo can't be the true Marie Poppo?
 <0158> Seems like it's not easy to beat the iconic face of 100% OJ...
+<0159> Mimo, Popo'll show you how to play 100% OJ.
+<0160> Mimo, maybe you won't even get to play.
 <0161> Arrrgh, m-my wrist...!

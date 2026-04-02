@@ -33,7 +33,7 @@
 <0032> QP, tu sais que c'est pas en mangeant tous les ingrédients du pudding que tu en ressentiras le goût ? Il faut bien des humains pour les cuisiner !
 <0033> ...Oui !
 <0034> ...Argh.
-<0035> Aru ! Si tu ne peux pas t'occuper de tous les cadeaux, achète-les à un magasin de jouets. Comme ça, le vendeur gagne son pain, et ça réduit ton temps de travail. Tout le monde y gagne !
+<0035> Aru ! Si tu ne peux pas fabriquer les cadeaux, achète-les ! Comme ça, le vendeur gagne son pain, et tu travailles moins. Tout le monde y gagne !
 <0036> ...C'est vrai ! ...Attends, quoi ?
 <0037> Parfait ! Beau travail, Red Ba-... Attends, je vois une rayure sur ton aile. Et euh, pourquoi tu as une queue de cochon à l'arrière...?
 <0038> ...Tout va bien, Marc ?
@@ -45,6 +45,6 @@
 <0044> Exactement ! Maintenant, on va lui renvoyer l'ascenseur !
 <0045> La grande Cochonnade ne cesse de croître.
 <0046> En fin de compte, quand la vie vous surplombe, il n'y a pas de mal à être cochon et à voler de ses ailes.
-<0047> Tôt ou tard, la magie s'évaporera, et vous devrez replier vos ailes et reprendre votre vie d'humain.
+<0047> Tôt ou tard, la magie s'évaporera, vous devrez alors replier vos ailes, et reprendre votre vie d'humain.
 <0048> Pour le moment, profitez de ce beau rêve en rose.
 <0049> Fin.

@@ -21,7 +21,7 @@ flavor="Well, this sort of thing happens all the time. It was quite fun, anyway.
 
 < CARD_BOOST_PRESIDENT >
 name=President's Privilege
-descr=Effect Duration: 1 chapter\nYou may play cards without paying their cost. You may play 1 additional card this turn.
+descr=Effect Duration: 1 chapter\nYou may play cards without paying their cost. You may play 1 more card this turn.
 flavor="There you guys are... Come to the Student Council Office after school,\nwill you?" ―Himeji
 
 < CARD_BATTLE_SHIELDCOUNTER >
@@ -286,7 +286,7 @@ flavor=
 
 < CARD_HYPER_YUKIDANGEROUS >
 name=Evil Mastermind
-descr=If your panel has no active trap, set a random trap from your hand there. Then draw 3 trap cards from the deck and set all trap cards in hand on random panels.
+descr=Take 3 trap cards from the deck. If you gained 0 trap cards, gain a copy of Tragedy in the Dead of Night. Then you may select any number of held trap cards. The first one will be set on your current panel, if able, and all the others on random panels.
 flavor="Fear my powers!" ―Yuki
 
 < CARD_HYPER_TOMOMOCASUAL >
@@ -361,12 +361,12 @@ flavor="I'll shoot you all down." ―Iru
 
 < CARD_HYPER_MIRA >
 name=Leap Through Space (Marking)
-descr=Mark the panel where your unit is. When a marked panel exists, this card becomes "Leap through Space." This card is not discarded upon use.
+descr=Mark the panel where your unit is. You may play one more card this turn. When a marked panel exists, this card becomes "Leap through Space." This card is not discarded upon use.
 flavor="Poof." ―Mira
 
 < CARD_HYPER_MIRA2 >
 name=Leap Through Space
-descr=Warp to the marked panel and unmark it. Apply Binding Smoke to enemies within 1 panel radius. If no marked panels exist, this card becomes "Leap through Space (Marking)."
+descr=Warp to the marked panel and unmark it. Apply Binding Smoke to enemies within 1 panel radius. You may play one more card this turn. If no marked panels exist, this card becomes "Leap through Space (Marking)."
 flavor="Poof." ―Mira
 
 < CARD_HYPER_CUTIES >
@@ -386,7 +386,7 @@ flavor="Eat the power of the devil!" ―Yuuki
 
 < CARD_HYPER_ISLAY >
 name=Rival
-descr=Battle target player. You attack first. During battle, gain +1 ATK.
+descr=Battle target player. You attack first. During battle, gain +2 ATK.
 flavor="Just like you... I have my battles to fight." ―Islay
 
 < CARD_HYPER_MIO >
@@ -396,7 +396,7 @@ flavor="Inferno!" ―Mio
 
 < CARD_BATTLE_DESPERATEMODIFICATION >
 name=Desperate Modification
-descr=For this battle, randomly roll either a natural 1 or 6 for each attack, defense and evasion.
+descr=For this battle, If you would roll 4 or higher for attack, defense or evasion, roll a natural 6 instead. If you would roll 3 or lower, roll a natural 1 instead.
 flavor="Poor Blue Crow. You loaded him with all that heavy stuff!" ―Marc
 
 < CARD_BOOST_PATHBLOCKERS >
@@ -481,7 +481,7 @@ flavor="Kyupita... I want to see you." ―Kyousuke
 
 < CARD_TRAP_ENCORE >
 name=Encore
-descr=When this card is activated either on Bonus, Drop, Draw or Encounter, that panel's effect takes place twice.
+descr=When this card is activated either on Bonus, Drop, Draw, Encounter, Heal, Damage, Boss Encounter, or Terror panel, activate that panel twice.
 flavor="Encore! Encore!"
 
 < CARD_BOOST_OVERTIME >
@@ -646,7 +646,7 @@ flavor="All beasts! Obey me!" ―Teotoratta
 
 < CARD_HYPER_ARNELLE >
 name=Intelligence Officer
-descr=Gain one of the following effects depending on the top-of-the-deck card:\nEvent +3 ATK\nBoost +3 DEF\nOthers +3 EVD
+descr=Gain one of the following effects depending on the top-of-the-deck card:\nEvent +3 ATK\nBoost +3 DEF\nOthers +3 EVD\nAfter the battle, gain a copy of the card on top of the deck.
 flavor="I can see through everything!" ―Arnelle
 
 < CARD_HYPER_MAYNIE >
@@ -761,7 +761,7 @@ flavor="Sweets power is the best!" ―Saki
 
 < CARD_HYPER_SWEETBLOGGER >
 name=Operation: A Mountain of Sweets
-descr=Draw 3 Boost cards from the deck. You can play up to 3 more Boost cards this turn for 1/3 of their cost.
+descr=Draw 3 Boost cards from the deck. You may play up to 3 more Boost cards this turn for 1/3 of their cost.
 flavor="Ehehe, let's have a lot of delicious sweets." ―Natsumi
 
 < CARD_HYPER_MIOFESTIVE >
@@ -843,6 +843,16 @@ flavor="I can see what cards you're holding." ―Kanata
 name=Precise Dice Rolls
 descr=Effect Duration: 2 chapters\n-Can only roll 4 or higher for movement, battle, and bonus.\n-Can only roll 2 or lower for drop.\nAfter the effect ends, gain Tendonitis at the start of the next turn.\nRemove all Strain.
 flavor="Find out for yourself just how incredible Popo's dice rolls are." ―Popomi
+
+< CARD_HYPER_MIMOMO >
+name=Hardworking Gyaru Student Council President
+descr=Roll an extra die on Drop panels.##(Trigger: Activate a Drop panel): Roll an extra die on Bonus and Drop panels.##(Trigger: Activate 3 Bonus panels{1}): Any effect that modifies your ATK, DEF or EVD has its effect doubled. This effect cannot stack. Cannot Norma while holding this card.
+flavor="I'm pretty dexterous, right?" ―Mimomo
+
+< CARD_HYPER_KURIE >
+name=Because I'm a Teacher
+descr=When you would be KO'd by damage during battle, lower your HP to 1 instead. After that, discard this card.##(Trigger: Go down to 1 HP outside of battle):  Heal 1 HP after activating a Draw, Move, Warp, Warp Move, or Random panel. If you reach full HP from this heal, discard this card.
+flavor="As a teacher, I need to stay on my feet." ―Kurie
 
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=Ultimate Weapon in the Sun

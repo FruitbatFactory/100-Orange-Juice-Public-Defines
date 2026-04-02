@@ -207,6 +207,11 @@ name=Protection Fee
 descr=When you stop on another player's Home panel, pay (your Lvl) x2 stars to them. If you fail the Norma check, take 1 damage.
 flavor="This is such a rip-off..." ―Lulu
 
+< CARD_HYPER_BOUNTY_MIMOMO >
+name=Hardworking Gyaru Student Council President
+descr=Roll an extra die on Drop panels.##(Trigger: Activate a Drop panel): Roll an extra die on Bonus and Drop panels.##(Trigger: Activate 3 Bonus panels{1}): Any Battle card effect that modifies your ATK, DEF or EVD has its effect doubled. This effect cannot stack. Cannot Norma while holding this card.
+flavor="I'm pretty dexterous, right?" ―Mimomo
+
 < CARD_BOUNTY_PLAYER >
 name=Wanted Freshly Squeezed
 descr=Wanted for committing crimes against society.

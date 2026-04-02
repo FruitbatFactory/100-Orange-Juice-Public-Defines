@@ -46,4 +46,7 @@
 < EVENTNAME_WINTER2025 >
 社團資格戰
 
+< EVENTNAME_VALENTINES >
+甜點之神的巧克力
+
 [EOF]

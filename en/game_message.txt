@@ -195,3 +195,6 @@ This card has been predicted to be played next by {}.
 
 < GAME_MESSAGE_LOCATIONFEE_FAIL >
 Failed to pay the protection fee.
+
+< GAME_MESSAGE_YUKID_HYPER_SELECT_TRAPS >
+Select any amount of Trap cards to place.

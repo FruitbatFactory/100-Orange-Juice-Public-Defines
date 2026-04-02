@@ -117,3 +117,7 @@ descr=Una-se a um parceiro para se tornar o campeão de 100% Orange Juice de seu
 < MUTATOR_ULTIMATE_TAG_TEAM >
 name=Trabalho Em Equipe Supremo
 descr=Trabalho em Equipe com uma reviravolta! Tempo de espera para troca é reduzido para 1 capítulo. Troca pode ser efetuada em batalhas.
+
+< MUTATOR_SEAT_OF_THE_GAMEMASTER >
+name=Cadeira do Mestre de Jogo
+descr=Aja da cadeira do Mestre de Jogo e decida o destino de todos. REC é cortado pela metade neste modo.

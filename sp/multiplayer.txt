@@ -68,6 +68,9 @@ Por favor actualice su juego a la última versión.
 < LOBBY_HOSTHASOLDVERSION >
 La sala está usando una versión vieja del juego.
 
+< LOBBY_HOSTCONNECTIONLOST >
+Se ha perdido la conexión con el dueño de la sala. Reconectando...
+
 < LOBBY_LEAVECONFIRM >
 ¿Abandonar?
 
@@ -88,9 +91,6 @@ Has sido expulsado de esta sala.
 
 < LOBBY_PLAYERCONNECTIONLOST >
 Se perdió la conexión con otro jugador.
-
-< LOBBY_HOSTCONNECTIONLOST >
-Se perdió la conexión con el creador.
 
 < LOBBY_REMOVEDFORIDLING >
 Has sido echado por inactividad.

@@ -46,4 +46,7 @@ Triple Trouble
 < EVENTNAME_WINTER2025 >
 Clubroom Challengers
 
+< EVENTNAME_VALENTINES >
+Chocolate for the Sweet Gods
+
 [EOF]

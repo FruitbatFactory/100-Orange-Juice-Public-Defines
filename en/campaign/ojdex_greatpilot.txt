@@ -1,0 +1,122 @@
+// main
+// (peat)
+<0000> Tch... What a day. Now that the Guild has been dissolved, the pirates keep getting bolder. I need something to eat.
+// (malt)
+<0001> Such is the price of freedom, young man.
+// (peat)
+<0002> You! You're the old Guildmaster. And... is that the leader of the Resistance drinking with you?!
+// (bourbon)
+<0003> Hah hah! Not a regular at the Cloud Prairie, are you? Here, we leave all that stuff at the door.
+// (peat)
+<0004> I literally fired a machine gun at this man!
+// (bourbon)
+<0005> That right? The way I saw it, 'Blue Crow' fired a machine gun at 'Golden Falcon'. But in this bar, you ain't Blue Crow, and he ain't Golden Falcon. Leave the grudges outside.
+// (malt)
+<0006> In any event, you gave me an invigorating battle. I'm proud of how well we've trained the next generation of aviators.
+// (peat)
+<0007> Yeah... right. Red Barrel did most of the work, anyway. Even the pirates seem to like her nowadays.
+// (bourbon)
+<0008> Hah! You jealous, kid? Well, doesn't matter. Stay here long enough, and you might rub shoulders with some air pirates yourself.
+// (peat)
+<0009> I don't care. I just hope the food here is decent.
+// (malt)
+<0010> Still struggling with cooking? Keep at it. For a young man like yourself, it's a big step towards independence.
+// (peat)
+<0011> I'm... I'm getting by! It's just been a rough day. How did you know that, though...?
+// (malt)
+<0012> I remember all the pilots who flew under me. And all the comrades who no longer can.
+// (bourbon)
+<0013> Can't remember to pay me back for the last time I covered your bill, though.
+// (malt)
+<0014> I seem to be between jobs at the moment. A shame.
+// (bourbon)
+<0015> Guess I'm paying for tonight as well, eh? Better drink your fill, then. We're going late tonight.
+// (peat)
+<0016> ...This is just too weird. I can't relax at all.
+// (malt)
+<0017> Well, such is youth.
+// (bourbon)
+<0018> 'Such is youth', my rear. Don't just say stuff because it sounds good.
+// (malt)
+<0019> Very well. Simply put, I have no malice towards the victors. Our dreams differed, and we clashed. I lost. That's all.
+// (peat)
+<0020> That's all? How can you say that?
+// (bourbon)
+<0021> Because the old coot hasn't given up, that's why.
+// (malt)
+<0022> We're not so far apart in age, you know.
+// (bourbon)
+<0023> Yeah, yeah.
+// (malt)
+<0024> Or, to put it another way... Tell me, Blue Crow. What do you think makes a great pilot?
+// (peat)
+<0025> If I knew, I wouldn't be trailing behind Red Barrel all the time. Maybe... Experience?
+// (malt)
+<0026> Well, that certainly helps.
+// (bourbon)
+<0027> But if that were all, you'd beat Red Barrel every time, wouldn't ya? And this old fart never would have lost to you.
+// (malt)
+<0028> The true answer is... dreams. Inspiration. Anyone can climb into a plane and start the engine.
+// (malt)
+<0029> But a great pilot must have a great dream to lift their wings. Whether to protect their comrades, to keep the sky safe... or to free it.
+// (malt)
+<0030> I lost to Red Barrel not because of her skill, but because her dream was grander than mine.
+// (bourbon)
+<0031> That's why you lost to her too, rookie.
+// (peat)
+<0032> Geh!
+// (malt)
+<0033> But my dream still exists. I still have wind beneath my wings. A man like myself... has no time to bear grudges.
+// (peat)
+<0034> Plenty of time to sit around drinking, though.
+// (bourbon)
+<0035> You ought to try it when you get older, kid. Might help your flying.
+// (peat)
+<0036> Are you saying I'd fly better drunk? Are you trying to pick a fight?
+// (malt)
+<0037> Peat... No, Blue Crow. Your dream was to be the best, correct? To be number one.
+// (peat)
+<0038> What's wrong with that?
+// (bourbon)
+<0039> Number one, huh... That's a fine goal. But there's only so far you can go chasing a dream on your own, kid.
+// (peat)
+<0040> I don't want anyone else's help.
+// (malt)
+<0041> My dream is the opposite. An aviator should have comrades. So I made a guild. Time spent drinking and deepening bonds is an investment into my dream.
+// (bourbon)
+<0042> Wish you'd invest some cash into clearing your tab.
+// (malt)
+<0043> I always left the budgeting to Grain where I could.
+// (bourbon)
+<0044> Ain't that a surprise. Anyway, kid, a shared dream can be a powerful thing. That's how we ended up with a Guild in the first place.
+// (malt)
+<0045> And how it was torn down.
+// (bourbon)
+<0046> You flew a lot better when Red Barrel shared her dream with you, kid. Maybe you ought to consider teaming up with her.
+// (peat)
+<0047> M-me?! Team up with Red Barrel? But she's my rival!
+// (malt)
+<0048> Oho. Such is youth.
+// (bourbon)
+<0049> It actually fit that time, huh? Ha ha ha! Well, I was young too, once. I know how it is.
+// (peat)
+<0050> How what is?! What exactly are you trying to insinuate?!
+// (bourbon)
+<0051> All I'm saying is that maybe the wind beneath Red Barrel's wings might be blowin' in the same direction as yours, kiddo. Maybe if you keep following her, you'll end up where you want to go.
+// (peat)
+<0052> Gah! You've had too much to drink, old man.
+// (malt)
+<0053> Oh? Our evening has only just begun, or so I'm told.
+// (bourbon)
+<0054> Damn straight. This opportunity doesn't come around too often.
+// (peat)
+<0055> Tch. I'm just going to order and eat in peace.
+// (malt)
+<0056> Feel free. Perhaps we'll speak again sometime. Until then, I will await you in the sky... Blue Crow.
+// (peat)
+<0057> Those two get along irritatingly well... tch.
+// (peat)
+<0058> So it's a dream that makes a great pilot, huh?
+// (peat)
+<0059> (I wonder... Maybe my dream does have enough room for somebody else.)
+

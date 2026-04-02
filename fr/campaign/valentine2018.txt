@@ -61,7 +61,7 @@
 <0060> C'est pas terminé !
 <0061> Comment !?
 <0062> Q-QP...!!!
-<0063> Hah. Quelle est cette joie qui t'anime ?\nAdmire l'innombrable chocolat en ma possession, et sombre dans le désespoir !
+<0063> Hah. Pourquoi cette joie insolente ?\nAdmire l'innombrable chocolat en ma possession, et sombre dans le désespoir !
 <0064> Héhé...
 <0065> Qu'est-ce qu'il y a de drôle à ça !?
 <0066> Tu avais raison ! C'était impossible de faire ça toute seule ! Personne m'aurait donné du chocolat, c'est mauvais pour les chiens !! Même pour une Déesse du Sucre !

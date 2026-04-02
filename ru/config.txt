@@ -245,4 +245,29 @@
 < CONFIG_SYSTEM_CARDS_INFO_EXTRA_INFO_POPUP_NONE >
 Выключить
 
+< CONFIG_SCREEN_LOW >
+Низк.
+
+< CONFIG_SCREEN_MEDIUM >
+Сред.
+
+< CONFIG_SCREEN_HIGH >
+Выс.
+
+< CONFIG_SCREEN_DETAILS >
+Детали
+
+< CONFIG_SCREEN_SHADOWRES >
+Разреш. Теней
+
+< CONFIG_SCREEN_FILTERING >
+Фильтрация
+
+< CONFIG_RESTART_TO_APPLY >
+ПЕРЕЗАПУСТИТЬ ИГРУ
+
+< CONFIG_YOU_CANNOT_RESTART > 
+Нельзя перезапуститься во время игры по сети
+
 [EOF]
+

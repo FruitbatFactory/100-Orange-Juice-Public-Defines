@@ -173,7 +173,7 @@ descr=
 
 < CARD_UNIT_MALT >
 name=Malt
-descr=Dá 3 Vitórias ao ser nocauteado em batalha. Não pode desafiar para batalhas. Pode usar uma carta de Batalha sem requerimentos especiais de uso como uma carta de Armadilha sem pagar teu custo. Quando outro jogador parar nela, vocês irão batalhar e ambas unidades de jogador ganharão o efeito da carta. Nenhuma outra carta de Batalha pode ser jogada nessa batalha.
+descr=Dá 3 Vitórias ao ser nocauteado em batalha. Não pode desafiar para batalhas. Pode usar uma carta de Batalha sem requerimentos especiais de uso como uma carta de Armadilha sem pagar teu custo. Quando outro jogador parar nela, vocês irão batalhar e sua unidade ganhará o efeito da carta. Nenhuma outra carta de Batalha pode ser jogada por você nessa batalha.
 
 < CARD_UNIT_MANAGER >
 name=Gerente da Loja
@@ -642,5 +642,13 @@ descr=Transforme permanentemente todas as cartas em sua mão com 'Pudim' no nome
 < CARD_UNIT_POPOMI >
 name=Mari Popomi
 descr=Ganhe Tensão toda vez que você rolar dados. Com 30 de Tensão, ganhe Tendinite no começo de seu próximo turno:\nDuração do Efeito: 1 Capítulo. 60% de chance para cada rolagem de dado ser 0.\nEfeito é removido ao receber um efeito de cura que pode curar 2 HP ou mais, ou jogando Rolagem de Dado Precisa.
+
+< CARD_UNIT_MIMOMO >
+name=Majikawa Mimomo
+descr=Ganhe +1 ATK e -1 EVD quando atacante.\nGanhe +1 DEF quando defensor.
+
+< CARD_UNIT_KURIE >
+name=Amatsukuri Kurie
+descr=
 
 [EOF]

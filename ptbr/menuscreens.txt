@@ -1367,14 +1367,35 @@ Tesouros Sob o Céu Noturno
 < MENU_CODEXSTORY_TITLE_MUSHROOMWAR >
 Guerra Dos Cogumelos
 
-< MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
+< MENU_CODEXSTORY_TITLE_GREATPILOT >
+Uma Grande Piloto
+
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES >
 Jogue {0} partidas como {1}.
 
-< MENU_CODEXSTORY_UNLOCKCOND_2UNITS >
-Jogue {0} partidas como tanto {1} ou {2}.
-
-< MENU_CODEXSTORY_UNLOCKCOND_NUNITS >
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES_NUNITS >
 Jogue {0} partidas como qualquer uma das unidades seguintes: {1}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_PLAYCARD >
+Jogue {0} como {1}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_ANYCARD >
+qualquer Carta
+
+< MENU_CODEXSTORY_UNLOCKCOND_USERUNLOCK >
+Destrava {0}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_2UNITS >
+tanto {0} como {1}
+
+< MENU_CODEXSTORY_UNLOCKCOND_UNITS_HASTRAIT >
+qualquer personagem {0}
+
+< MENU_CODEXSTORY_UNLOCKCOND_UNITS_FROMGAME >
+qualquer personagem de {0}
+
+< MENU_CODEXSTORY_UNLOCKCOND_ANYUNIT >
+qualquer Unidade
 
 < MENU_CODEXSTORY_UNLOCKCOND_EVENT >
 Complete o evento "{0}".
@@ -1411,5 +1432,8 @@ Segure o botão esquerdo para acelerar
 
 < MENU_CSELECT_DIFFICULTY_LABEL >
 DIFFICULDADE
+
+< MENU_CHAOS_GM_SELECT_POWER >
+Selecione um Poder de Mestre de Jogo
 
 [EOF]

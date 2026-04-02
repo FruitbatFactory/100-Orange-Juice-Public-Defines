@@ -117,3 +117,7 @@ descr=Team up with a partner to become the local 100% Orange Juice champion!
 < MUTATOR_ULTIMATE_TAG_TEAM >
 name=Ultimate Tag Team
 descr=Tag Team with a twist! Tag cooldown is reduced to 1 chapter. Tag can be used in battles.
+
+< MUTATOR_SEAT_OF_THE_GAMEMASTER >
+name=Seat of the Gamemaster
+descr=Act from the Gamemaster's chair and decide everyone's fate. REC is halved in this mode.

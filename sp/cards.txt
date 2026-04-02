@@ -1,12 +1,12 @@
 
 < CARD_BOOST_DASH >
 name=¡Velocidad!
-descr=Durante este turno, tiras el doble de dados al moverte.
+descr=Durante este turno, tiras dos dados al moverte.
 flavor="¡Más rápido!" ―Suguri
 
 < CARD_BOOST_EXTEND >
 name=Renacimiento
-descr=Efecto Guardado:\nAl morir, revivirás en tu próximo turno de forma instantánea.
+descr=Efecto Guardado:\nAl morir, revivirás en tu próximo turno.
 flavor="¡Todo en orden!" ―Marc
 
 < CARD_BOOST_FLIPOUT >

@@ -1,0 +1,121 @@
+// main
+// (picon)
+<0000> Pft... Quelle journée. Depuis que la Guilde a disparu, les pirates sont devenus vraiment coriaces. J'ai besoin de manger un morceau.
+// (malt)
+<0001> C'est le prix de la liberté, jeune homme.
+// (picon)
+<0002> Mais... vous êtes l'ancien maître de la Guilde ! Et... c'est le chef de la Révolution à votre table ?!
+// (bourbon)
+<0003> Hah hah ! Tu connais pas\nl'enseigne ? Ici, à la Vallée des Nuages, on met tout de côté.
+// (picon)
+<0004> J'ai littéralement mitraillé cet homme l'autre jour !
+// (bourbon)
+<0005> Vraiment ? C'est pas plutôt "Blue Crow" qui a mitraillé "Golden Falcon" ? Dans ce bar, Blue Crow et Golden Falcon, ils existent pas. Alors détends-toi un peu.
+// (malt)
+<0006> Quoi qu'il en soit, tu t'es battu comme un diable. Si je dois en tirer une chose, c'est de la fierté. Nous avons bien formé la nouvelle génération d'aviateurs.
+// (picon)
+<0007> Ouais... Honnêtement, c'est Red Barrel qui a tout fait. Même les pirates l'admirent, maintenant.
+// (bourbon)
+<0008> Hah ! T'es jaloux ? Enfin, pour ce que ça change. Si tu traînais plus souvent ici, toi aussi, tu connaîtrais les pirates.
+// (picon)
+<0009> Je m'en fiche. Tout ce que je veux, c'est un bon repas.
+// (malt)
+<0010> Tu n'arrives toujours pas à cuisiner ? Persévère. Pour un jeune homme de ton âge, c'est un grand pas vers l'indépendance.
+// (picon)
+<0011> Je... je fais de mon mieux ! Mais là, j'ai besoin d'une pause. Comment vous savez ça, par contre...?
+// (malt)
+<0012> Je n'oublie jamais un pilote de la Guilde. Même ceux qui ne quitteront plus le ciel.
+// (bourbon)
+<0013> Par contre, t'oublies toujours de me rembourser tes dettes.
+// (malt)
+<0014> J'en suis navré. Il m'est difficile de joindre les deux bouts.
+// (bourbon)
+<0015> Je paie aussi pour ce soir, alors ? Dans ce cas, profites-en, parce qu'on en a pas fini.
+// (picon)
+<0016> ...C'est vraiment trop bizarre. Je suis pas à l'aise.
+// (malt)
+<0017> Ah, sacrée jeunesse.
+// (bourbon)
+<0018> "Sacrée jeunesse", mes fesses. Tu parles encore pour rien dire.
+// (malt)
+<0019> Disons que je n'ai pas de rancœur envers les gagnants. Nos rêves s'opposaient, et dans notre lutte, j'ai fini par échouer. Fin de l'histoire.
+// (picon)
+<0020> Comment ça, fin de l'histoire ? Vous avez du culot !
+// (bourbon)
+<0021> La vérité, c'est que ce vieux grigou a toujours pas abandonné.
+// (malt)
+<0022> Je ne suis pas bien plus âgé que toi.
+// (bourbon)
+<0023> Ouais, ouais.
+// (malt)
+<0024> Voyons, comment dire... Tiens, Blue Crow. Qu'est-ce qui définit un bon pilote, selon toi ?
+// (picon)
+<0025> Si je le savais, j'aurais déjà vaincu Red Barrel. C'est... l'expérience, j'imagine ?
+// (malt)
+<0026> Eh bien, oui, cela y contribue.
+// (bourbon)
+<0027> Pourtant, de l'expérience, t'en as plus que Red Barrel, non ? Puis si c'était vrai, tu te serais fait plier en deux par ce vieux machin.
+// (malt)
+<0028> La vraie réponse, c'est... les rêves. L'inspiration. Tout le monde peut monter dans un avion et démarrer le moteur.
+// (malt)
+<0029> Mais un grand pilote a besoin d'un grand rêve pour voler de ses ailes. Tel qu'aider ses camarades, ou protéger le ciel... ou le libérer.
+// (malt)
+<0030> J'ai perdu contre Red Barrel, non pas par manque de talent, mais parce que son rêve était plus fabuleux que le mien.
+// (bourbon)
+<0031> Ça explique aussi pourquoi toi, tu n'arrives qu'à prolonger son palmarès.
+// (picon)
+<0032> Grr...!
+// (malt)
+<0033> Mais mon rêve respire encore. Mes ailes peuvent encore battre. Un homme de ma trempe n'a pas goût à l'amertume.
+// (picon)
+<0034> Évidemment. Vous préférez le goût de l'alcool, hein ?
+// (bourbon)
+<0035> J't'invite à essayer quand tu seras plus vieux. P'tet que tu voleras mieux.
+// (picon)
+<0036> Tu dis que je volerais mieux si j'étais ivre ? C'est une insulte ?
+// (malt)
+<0037> Picon... Non, Blue Crow. Ton rêve, c'est d'atteindre le sommet, n'est-ce pas ? D'être le meilleur aviateur de tous les temps.
+// (picon)
+<0038> Ben oui, et alors ?
+// (bourbon)
+<0039> Le meilleur aviateur de tous les temps ? Hah, c'est un beau rêve. Mais c'est ambitieux. T'iras pas bien loin tout seul.
+// (picon)
+<0040> Je veux l'aide de personne.
+// (malt)
+<0041> Mon rêve est contraire au tien. Un pilote ne mène pas large en solitaire. Ainsi, j'ai fondé la Guilde. Le temps passé à boire avec mes camarades me rapproche de mon rêve.
+// (bourbon)
+<0042> Si seulement tu pouvais te rapprocher de payer ton ardoise.
+// (malt)
+<0043> J'ai toujours laissé Jorge s'occuper des finances.
+// (bourbon)
+<0044> Ben voyons. Bon, gamin, je vais te dire une chose. Un rêve, c'est puissant. Mais un rêve partagé, c'est plus fort que tout. La Guilde s'est pas fondée par un seul homme.
+// (malt)
+<0045> Et il n'en a fallu pas moins pour la détruire.
+// (bourbon)
+<0046> T'as jamais mieux volé que quand Red Barrel et toi viviez le même rêve. Tu devrais continuer sur cette lancée, tu penses pas ?
+// (picon)
+<0047> M-moi ?! Faire équipe avec Red Barrel ? Mais c'est ma rivale !
+// (malt)
+<0048> Oho. Sacrée jeunesse.
+// (bourbon)
+<0049> Tu vois, là, c'est cohérent ! Bahaha ! Enfin, j'ai été jeune, moi aussi. On est tous passés par là.
+// (picon)
+<0050> Passés par où ?! T'entends quoi par là, l'ancien ?!
+// (bourbon)
+<0051> Tout ce que j'en pense, c'est que même si Red Barrel vole si haut... à bien y regarder, vous suivez la même direction. Avec elle à tes côtés, p'tet bien que tu finirais par atteindre ton objectif.
+// (picon)
+<0052> Rah ! T'aurais pas plutôt abusé sur l'alcool ?
+// (malt)
+<0053> Il me semble pourtant que la soirée ne fait que commencer.
+// (bourbon)
+<0054> Tout à fait. On a pas cette chance tous les jours.
+// (picon)
+<0055> Tu parles. Je vais plutôt passer commande et manger en paix.
+// (malt)
+<0056> Comme tu veux. Nous nous reverrons peut-être à l'avenir. D'ici là, je vous attendrai, toi et ta machine... Blue Crow.
+// (picon)
+<0057> Décidément, ils font bien la paire, ces deux-là... pft.
+// (picon)
+<0058> Alors c'est un rêve qui fait un bon pilote ?
+// (picon)
+<0059> (Peut-être... peut-être que je suis pas obligé de rêver en solitaire, après tout.)

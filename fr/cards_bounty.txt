@@ -207,6 +207,11 @@ name=Taxe de Protection
 descr=Lorsqu'un joueur s'arrête sur la case Maison d'un autre :\n• Il donne (son Niv.) x2 ★ au joueur de cette Maison.\n• S'il ne valide pas son Quota, il subit 1 dégât.
 flavor="C'est quoi cette arnaque ?" ―Lulu
 
+< CARD_HYPER_BOUNTY_MIMOMO >
+name=Présidente Gyaru et Assidue
+descr=Jetez un dé supplémentaire sur les cases Malus.##(Activation : Marcher sur une case Malus) : Vous jetez un dé supplémentaire sur les cases Bonus et Malus.##(Activation : Marcher sur 3 cases Bonus{1}) : Les effets de cartes Combat altérant votre ATK, DEF ou EVD sont doublés.\nEffets non cumulables. Vous ne pouvez pas valider votre Quota avec cette carte en main.
+flavor="Alors ? Habile, pas vrai ?" ―Mimomo
+
 < CARD_BOUNTY_PLAYER >
 name=Avis de recherche - Écrasé ou Vif
 descr=Individu recherché pour crimes contre la société.

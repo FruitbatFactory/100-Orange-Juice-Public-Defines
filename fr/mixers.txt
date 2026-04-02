@@ -124,7 +124,7 @@ descr=Le Boss gagne +1 MOV.
 
 < MIXER_UBI_BOSS >
 name=Boss Partout
-descr=Lorsqu'un joueur s'arrête sur une case Boss ou Terreur, le Boss s'y téléporte.
+descr=Lorsqu'un joueur active une case Boss, le Boss s'y téléporte.
 
 < MIXER_AMBUSH >
 name=Ambuscade

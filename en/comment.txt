@@ -128,6 +128,9 @@ You bought a new costume!
 < COM_SHOP_CONVERTCURRENCY >
 Converted currency!
 
+< COM_SHOP_BOUGHTPOSE >
+You bought a new avatar pose!
+
 < COM_USERINFO_PLAYERINFO >
 View player information.
 

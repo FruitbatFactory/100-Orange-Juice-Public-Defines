@@ -40,6 +40,9 @@
 < EVENTNAME_SUMMER2025 >
 삼중고
 
+< EVENTNAME_VALENTINES >
+스위트 신을 위한 초콜렛
+
 < EVENTNAME_WINTER2025 >
 동아리방 도전자
 

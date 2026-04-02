@@ -793,4 +793,200 @@ descr=Бросок любого кубика с 60% шансом может ст
 name=Точные Броски
 descr=-Броски этого юнита для передвижения, боя и панелей Бонусов равны 4 или более.\n-Броски этого юнита для панелей Штрафов равны 2 или менее.\nПосле окончания действия этого эффекта накладывает эффект Тендинита.
 
+< CARD_EFFECT_MIMOMO_DOUBLEDROP >
+name=Трудолюбивая Гьяру(А)
+descr=Кидает ещё один кубик на панелях Штрафов.
+
+< CARD_EFFECT_MIMOMO_DOUBLEBONUS >
+name=Трудолюбивая Гьяру (Б)
+descr=Кидает ещё один кубик на панелях Бонусов и Штрафов.
+
+< CARD_EFFECT_MIMOMO_DOUBLESTATS >
+name=Трудолюбивая Гьяру (В)
+descr=Эффекты, влияющие на АТК, ЗЩТ и УВРТ этого юнита, действуют в два раза сильнее. Юнит не может сдавать Нормы.
+
+< CARD_EFFECT_BOUNTY_MIMOMO_DOUBLESTATS >
+name=Трудолюбивая Гьяру (Г)
+descr=Эффекты Боевых карт, влияющие на АТК, ЗЩТ и УВРТ этого юнита, действуют в два раза сильнее. Юнит не может сдавать Нормы.
+
+< CARD_EFFECT_KURIE_ENDURE >
+name=Стойкость Учителя
+descr=Когда этот юнит получит летальный урон в бою, он останется на 1 ОЗ.
+
+< CARD_EFFECT_KURIE_HEAL >
+name=Решимость Учителя
+descr=Юнит восстанавливает 1 ОЗ наступая на панели Карт, Передвижения, Телепорта, Телепорта-Передвижения или Случайные.
+
+< CARD_EFFECT_CHAOS_GM_TRAPCARD >
+name=Карта-Ловущка
+descr=Случайная ловушка размещается на случайной панели.
+
+< CARD_EFFECT_CHAOS_GM_TARGETEDDOUBLEDROP >
+name=Нацеленный Двойной Штраф
+descr=На юнита с наибольшим кол-вом звёзд накладывается эффект Двойного Штрафа.\nДвойной Штраф: На следующей панели Штрафов вы потеряете вдвое больше звёзд.
+
+< CARD_EFFECT_CHAOS_GM_DOUBLEDROP_EFFECT >
+name=Двойной Штраф
+descr=На следующей панели Штрафов этот юнит потеряет вдвое больше звёзд.
+
+< CARD_EFFECT_CHAOS_GM_AIRRAID >
+name=Авиаудар
+descr=Все юниты получат 1 урон.
+
+< CARD_EFFECT_CHAOS_GM_PAYCHECK >
+name=Жалование
+descr=Ваш юнит получит (Уровень ×5) звёзд.
+
+< CARD_EFFECT_CHAOS_GM_GLORYOFBATTLE >
+name=Боевая Слава
+descr=Ваш юнит получит 1 Победу.
+
+< CARD_EFFECT_CHAOS_GM_SLOWDOWN >
+name=Помедленнее!
+descr=У случайного юнита, кроме вашего, следующий бросок для хода будет равен 1.
+
+< CARD_EFFECT_CHAOS_GM_SLOWDOWN_EFFECT >
+name=Медленный
+descr=Следующий бросок для хода будет равен 1.
+
+< CARD_EFFECT_CHAOS_GM_INVERSION >
+name=Инверсия
+descr=Характеристики всех юнитов будут инвертированы до вашего следующего хода.
+
+< CARD_EFFECT_CHAOS_GM_INVERSION_EFFECT >
+name=Инвертирован
+descr=Боевые характеристики этого юнита инвертированы.
+
+< CARD_EFFECT_CHAOS_GM_REVERSAL >
+name=Переворот
+descr=Все юниты будут идти в обратную сторону до вашего следующего хода.
+
+< CARD_EFFECT_CHAOS_GM_REVERSAL_EFFECT >
+name=Перевёрнут
+descr=Этот юнит двигается в обратном направлении.
+
+< CARD_EFFECT_CHAOS_GM_SHARINGISCARING >
+name=Делиться - Это Хорошо
+descr=Украдите карту у случайного юнита.
+
+< CARD_EFFECT_CHAOS_GM_SNACKTIME >
+name=Пора Закусить
+descr=Все юниты восстановят 1 ОЗ.
+
+< CARD_EFFECT_CHAOS_GM_CAREPACKAGE >
+name=Пакет Помощи
+descr=Ваш юнит получит карту.\nКарта с 25% шансом может стать вашей гипер-картой.
+
+< CARD_EFFECT_CHAOS_GM_DASH >
+name=Рывок!
+descr=Ваш юнит получит эффект Рывка.\nРывок: Вы кидаете 2 кубика для передвижения.
+
+< CARD_EFFECT_CHAOS_GM_BULLYSHUTDOWN >
+name=Тормозим Задир
+descr=Юнит(ы) с самой высокой базовой АТК получат 2 урона.
+
+< CARD_EFFECT_CHAOS_GM_RAINOFTRAPCARDS >
+name=Нападнический Дождь
+descr=3-5 ловушек "Нападение" будет размещено на случайных панелях.
+
+< CARD_EFFECT_CHAOS_GM_VISIONFROMABOVE >
+name=Взгляд Свыше
+descr=Все игроки будут видеть руки всех юнитов в течение этой главы.
+
+< CARD_EFFECT_CHAOS_GM_EVASIONBOOST >
+name=Больше Уворота
+descr=Ваш юнит получит +2 к УВРТ до вашего следующего хода.
+
+< CARD_EFFECT_CHAOS_GM_PVPTIME >
+name=Пора ПвП-шиться!
+descr=Все панели, кроме Домов и Телепортов, становятся панелями Боя с Игроками до вашего следующего хода.
+
+< CARD_EFFECT_CHAOS_GM_PUDDING >
+name=Пудинг
+descr=Ваш юнит восстановит все ОЗ.\nЕсли ваш юнит в нокауте, поднимитесь с полным запасом ОЗ.
+
+< CARD_EFFECT_CHAOS_GM_ORBITALMISSILE >
+name=Орбитальная Ракета
+descr=Все юниты получат от 1 до 3 урона.
+
+< CARD_EFFECT_CHAOS_GM_KAILOSTWALLET >
+name=Потерянный Кошелёк Кая
+descr=Ваш юнит получит 1, 10, 15, 25, 50 или 100 звёзд.
+
+< CARD_EFFECT_CHAOS_GM_FORCEDWARP >
+name=Вынужденный Телепорт
+descr=Все юниты телепортируются на случайные панели.
+
+< CARD_EFFECT_CHAOS_GM_POCKETSHERRY >
+name=100% Витамин C
+descr=Ваш юнит получит +1 к АТК, ЗЩТ и УВРТ до вашего следующего хода.
+
+< CARD_EFFECT_CHAOS_GM_EXTREMEANGER >
+name=Чрезмерная Ярость
+descr=Вы кидаете два кубика для передвижения и получаете +3 к АТК до вашего следующего хода. 
+
+< CARD_EFFECT_CHAOS_GM_IMMUNITY >
+name=Иммунитет
+descr=Вы не получаете урона до вашего следующего хода.
+
+< CARD_EFFECT_CHAOS_GM_BALANCEDUNIT >
+name=Сбалансированный Юнит
+descr=Ваши хар-ки становятся равны +2 АТК, ЗЩТ и УВРТ до вашего следующего хода.
+
+< CARD_EFFECT_CHAOS_GM_EMERGENCYCAREPACKAGE >
+name=Пакет Неотложной Помощи
+descr=Ваш юнит получит 3 карты.\nКаждая карта с 75% шансом может стать вашей гипер-картой.
+
+< CARD_EFFECT_CHAOS_GM_IMMEDIATECHECK >
+name=Мгновенная Проверка
+descr=Ваш юнит проходит проверку Нормы. Нельзя использовать на 5 Норме.
+
+< CARD_EFFECT_CHAOS_GM_IMMEDIATECONVERGENCE >
+name=Немедленная Конвергенция
+descr=Срабатывает эффект поля Конвергенция.
+
+< CARD_EFFECT_CHAOS_GM_OVERDRIVE >
+name=Перегрузка!!
+descr=Все юниты получат 99 ОЗ, но будут получать в 10 раз больше урона в бою. Эффект закончится при нокауте юнита.
+
+< CARD_EFFECT_CHAOS_GM_GLOBALWAR >
+name=Глобальная Война
+descr=Все юниты получат +3 АТК и потеряют -3 ЗЩТ на 3 главы.
+
+< CARD_EFFECT_CHAOS_GM_GLOBALPEACE >
+name=Глобальное Перемирие
+descr=Все юниты получат +3 ЗЩТ и потеряют -3 АТК на 3 главы.
+
+< CARD_EFFECT_CHAOS_GM_UNFAIREXCHANGE >
+name=Несправедливый Обмен
+descr=Звёзды всех юнитов сменят своих владельцев.
+
+< CARD_EFFECT_CHAOS_GM_STARSHOWER >
+name=Звёздный Дождь
+descr=Все панели, кроме Домов и Телепортов, станут Двойными панелями Бонусов на 1 главу.
+
+< CARD_EFFECT_CHAOS_GM_GLOBALSHUTDOWN >
+name=Глобальная Отключка
+descr=Все юниты получат 50 урона.
+
+< CARD_EFFECT_CHAOS_GM_UNLIMITEDLIVES >
+name=Бесконечные Жизни
+descr=Все юниты получат эффект Продолжения.\nПродолжение: После нокаута вы подниметесь на следующем ходу.
+
+< CARD_EFFECT_CHAOS_GM_HOMEBREAKER >
+name=Домокрушитель
+descr=Все проверки Нормы не работают до вашего следующего хода.
+
+< CARD_EFFECT_CHAOS_GM_IMLITERALLYONFIRE >
+name=Да Я Буквально в Огне!
+descr=Все юниты теряют -9 ЗЩТ до своего следующего нокаута.
+
+< CARD_EFFECT_CHAOS_GM_IMLITERALLYONFIRE_EFFECT >
+name=Да Я Буквально в Огне!
+descr=Юнит теряет -1 ЗЩТ за заряд.
+
+< CARD_EFFECT_CHAOS_GM_HYPERMODE >
+name=Гипер-Режим!
+descr=Карты на руках всех юнитов сбрасываются, колода обновляется и заменяется на случайные гипер-карты. Все юниты берут по 3 карты.
+
 [EOF]

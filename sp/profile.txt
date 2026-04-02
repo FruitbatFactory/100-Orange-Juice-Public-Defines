@@ -709,6 +709,27 @@ Juega {0} partidas con los siguientes eventos activos: {1}
 <PROFILE_TRACKER_INSTRUCTION_COLLECT_MUSHROOMS>
 Colecciona {} cartas de hongos.
 
+<PROFILE_TRACKER_INSTRUCTION_PLAY_CARD>
+Usa {0}.
+
+<PROFILE_TRACKER_ANY_SWEETS_CARD>
+cualquier tipo de carta Dulce
+
+<PROFILE_TRACKER_PROGRESS_MULTIPLIER_CHOCOLATE>
+({0}x progreso al usar {1})
+
+<PROFILE_TRACKER_EXTRA_LABEL>
+Completa para desbloquear {}:
+
+<PROFILE_TRACKER_CHOCOLATE_COLOR>
+color de Chocolate para la unidad
+
+<PROFILE_TRACKER_INSTRUCTION_WIN_GAME_AS>
+Gana una partida como {}.
+
+<PROFILE_TRACKER_MOUSSE_COSTUME>
+Marie Poppo (atuendo Mousse)
+
 <PROFILE_TRACKER_NAVIGATION_GO>
 ¡Vamos!
 

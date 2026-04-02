@@ -46,4 +46,7 @@ Problema Triplo
 < EVENTNAME_WINTER2025 >
 Desafiadoras da Sala de Clube
 
+< EVENTNAME_VALENTINES >
+Chocolate para as Sweet Gods
+
 [EOF]

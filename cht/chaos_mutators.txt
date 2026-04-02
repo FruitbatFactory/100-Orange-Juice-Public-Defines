@@ -3,8 +3,8 @@ name=隨機
 descr=隨機選擇一種混沌突變。
 
 < MUTATOR_HYPER_DECK >
-name=Hyper卡組
-descr=所有卡組中的卡片都被替換為預先生成的\nHyper卡。
+name=HYPER卡組
+descr=所有卡組中的卡片都被替換為預先生成的\nHYPER卡。
 
 < MUTATOR_RANDOM_GENERATION >
 name=打亂盤面
@@ -12,7 +12,7 @@ descr=每輪隨機改變除傳送格與HOME格外的\n所有格子。
 
 < MUTATOR_POPPOMANIA >
 name=終極啵噗狂熱
-descr=所有抽取的Hyper卡都是神出鬼沒。
+descr=所有抽取的HYPER卡都是神出鬼沒。
 
 < MUTATOR_NEMESIS_DRAFT >
 name=徵敵
@@ -28,7 +28,7 @@ descr=選擇的角色將被替換為隨機角色。
 
 < MUTATOR_MIXED_JUICE >
 name=100%混成汁！
-descr=在遊戲開始時，隨機改變全部角色基礎數值。\n抽取的所有Hyper卡都將被隨機化。
+descr=在遊戲開始時，隨機改變全部角色基礎數值。\n抽取的所有HYPER卡都將被隨機化。
 
 < MUTATOR_MULTIPLICATION >
 name=感知倍增
@@ -64,7 +64,7 @@ descr=賞金獵人模式的商店將生成在隨機格子，\n銷售的商品也
 
 < MUTATOR_KNIGHTS_AND_FAERIES >
 name=騎士與妖精
-descr=在遊戲開始時，可以選擇使用守護者或奧羅拉\n進行遊戲，其能力也經過了相應調整。\n抽取的所有Hyper卡都將被隨機化，同時\n會發生一些意外事件。
+descr=在遊戲開始時，可以選擇使用守護者或奧羅拉\n進行遊戲，其能力也經過了相應調整。\n抽取的所有HYPER卡都將被隨機化，同時\n會發生一些意外事件。
 
 < MUTATOR_FOURHEAVENLYKINGS >
 name=四大天王
@@ -117,3 +117,7 @@ descr=組建自己的小隊，成為本地100%鮮橙汁\n比賽冠軍吧！
 < MUTATOR_ULTIMATE_TAG_TEAM >
 name=終極搭檔模式
 descr=搭檔模式，但不是單純的搭檔模式！\n換人冷卻時間降至1輪。\n戰鬥時也可以選擇換人。
+
+< MUTATOR_SEAT_OF_THE_GAMEMASTER >
+name=居高臨下
+descr=以遊戲主持者的身份行動，決定所有人的命運。在此模式中，REC減半。

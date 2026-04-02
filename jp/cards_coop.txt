@@ -285,7 +285,7 @@ flavor=「マジカルインフェルノ！」 ―ミオ
 
 < CARD_HYPER_COOP_ISLAY >
 name=好敵手
-descr=自身の先攻で、指定の敵とバトルする。\nこのバトルで、ATK＋1。
+descr=自身が先攻で指定の敵とバトルする。\nこのバトル中、ATK＋1。
 flavor=「私も…私の戦いがある」 ―アイラ
 
 < CARD_HYPER_COOP_COOK >

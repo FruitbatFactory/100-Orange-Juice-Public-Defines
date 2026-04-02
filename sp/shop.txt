@@ -191,6 +191,9 @@ Haruka & Kanata
 < SHOP_DLC_EXTRACURRICULARPACK >
 Paquete Extracurricular
 
+< SHOP_DLC_MIMOMOKURIE >
+Kurie & Mimomo
+
 < SHOP_TOOLTIP_HOME >
 Use las categorías para navegarse.
 

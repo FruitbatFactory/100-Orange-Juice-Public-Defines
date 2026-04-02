@@ -128,6 +128,9 @@
 < COM_SHOP_CONVERTCURRENCY >
 兌換完成！
 
+< COM_SHOP_BOUGHTPOSE >
+購買了新的姿勢！
+
 < COM_USERINFO_PLAYERINFO >
 查看玩家情報。
 

@@ -176,7 +176,7 @@ Escoja una unidad.
 < GAME_MESSAGE_PET_DOG >
 ¿Te gustaría acariciar a este perrito?
 
- < GAME_MESSAGE_CHOOSE_BLUFF >
+< GAME_MESSAGE_CHOOSE_BLUFF >
 ¿Qué tipo de carta crees que será la próxima en ser usada?
 
 < GAME_MESSAGE_DECLARE_BLUFF >

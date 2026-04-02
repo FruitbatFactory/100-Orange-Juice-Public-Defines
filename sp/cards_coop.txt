@@ -375,7 +375,7 @@ descr=Paga todos los efectos guardados de Cañón. Un enemigo aleatorio recibe 1
 flavor="Todas las armas preparadas, y... ¡FUEGO!" ―Grain
 
 < CARD_HYPER_COOP_HARUKA >
-name=Hype Bringer
+name=Portadora de Ánimos
 descr=Duración: 2 capítulos.\nCuando otro jugador sea noqueado, podrá recuperarse de forma instantánea con todos sus PV, pero tendrán que pagar Estrellas (valor: Nivel x 5).
 flavor="¡Vamos a animar el juego juntos!" ―Haruka
 

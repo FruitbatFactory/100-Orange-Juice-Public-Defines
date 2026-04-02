@@ -1,7 +1,7 @@
 
 < CARD_BOOST_DASH >
 name=ダッシュ！
-descr=このターン、移動ダイスの数が倍になる。
+descr=このターン、移動ダイスが2つになる。
 flavor=「速く！」―スグリ
 
 < CARD_BOOST_EXTEND >
@@ -241,7 +241,7 @@ flavor=「誰が逝くか、これで決めるか？」―ユキ
 
 < CARD_HYPER_QP >
 name=はいぱーもーど！
-descr=ATK+2。\nダウンしても、スターを失わず、ウィンも与えない。次の自ターンに復活する。
+descr=このバトル中、ATK+3。\nこのバトルでダウンしても、スターをウィンも与えない。次の自ターンに復活する。
 flavor=「ハイパーモード！」―きゅーぴー
 
 < CARD_HYPER_TOMOMO >

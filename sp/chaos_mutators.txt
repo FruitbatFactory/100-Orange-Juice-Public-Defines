@@ -117,3 +117,7 @@ descr=¡Forma un equipo con otro jugador para convertirte en el campeón local d
 < MUTATOR_ULTIMATE_TAG_TEAM >
 name=Equipos Definitivos
 descr=¡Equipos con un giro! Podrás cambiar de lugar cada 1 capítulo, y podrás usar el comando dentro de una batalla.
+
+< MUTATOR_SEAT_OF_THE_GAMEMASTER >
+name=El Asiento del Maestro del Juego
+descr=Actúa desde el asiento del Maestro del Juego y decide el destino de todos. El valor de REC será reducido a la mitad en este modo de juego.

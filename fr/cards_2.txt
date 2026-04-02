@@ -1,4 +1,3 @@
-
 < CARD_BOOST_AMBUSH >
 name=Embuscade
 descr=Vous défiez tous les ennemis sur votre case un par un. Passe votre jet de déplacement.
@@ -26,7 +25,7 @@ flavor="Vous voilà, vous tous... Pensez à vous rendre au Bureau des Délégué
 
 < CARD_BATTLE_SHIELDCOUNTER >
 name=Contre-Bouclier
-descr=Inflige à l'ennemi son ATK - DEF (min. 1). Met fin au combat aussitôt. Vous ne gagnez pas d'étoiles ou de Victoires en faisant tomber l'ennemi KO. Ne peut être utilisé qu'en défense.
+descr=Inflige à l'ennemi son ATK - DEF (min. 1). Met fin au combat aussitôt. Si l'ennemi tombe KO, il ne perd pas d'étoiles et vous ne gagnez pas d'étoiles ou de Victoires. Ne peut être utilisé qu'en défense.
 flavor="Inversion du bouclier !" ―Sora
 
 < CARD_BATTLE_RETREAT >
@@ -191,7 +190,7 @@ flavor="Mon précieux... pudding..." ―QP
 
 < CARD_HYPER_SORAM >
 name=Réveil du Talent Caché
-descr=Tous vos jets de dés font 5 à vos déplacements, bonus, malus et en combat. Peut être utilisé comme une carte Combat.
+descr=Durée de l'Effet : Jusqu'à la fin de votre tour\nTous vos jets de dés font 5 à vos déplacements, bonus, malus et en combat. Peut aussi s'utiliser comme une carte Combat.
 flavor="Je commence... mon opération." ―Sora
 
 < CARD_HYPER_MIXEDPOPPO >
@@ -237,12 +236,12 @@ flavor="Hahaha ! Voilà mon ami !" ―NoName
 < CARD_HYPER_CEOREPARQUE >
 name=Étreinte de Cheveux
 descr=À son prochain déplacement, le joueur ciblé s'arrête aussitôt sur place.
-flavor="Nul n'échappe à la chevelure de Repa." ―Ceoreparque
+flavor="Nul n'échappe à la chevelure de Répa." ―Cléoréparque
 
 < CARD_HYPER_MIUSAKI >
 name=Sorcière Solide
 descr=Durée de l'Effet : 1 chapitre\nVous devenez invulnérable.
-flavor="Je n'ai même pas senti cette attaque, tant elle était ridicule !" ―Miusaki
+flavor="Quelle attaque minable ! J'ai rien senti !" ―Miusaki
 
 < CARD_BATTLE_DARKSIDEOFBUSINESS >
 name=Affaires Illicites
@@ -286,7 +285,7 @@ flavor=
 
 < CARD_HYPER_YUKIDANGEROUS >
 name=Cerveau du Crime
-descr=Piochez 3 cartes Piège, puis posez tous les pièges dans votre main sur des cases au hasard.
+descr=Piochez 3 cartes Piège. Si vous n'en avez obtenu aucune, vous obtenez une copie de Tragédie Nocturne à la place. Ensuite, choisissez des cartes Piège dans votre main. La première se pose sur votre case actuelle, et toutes les autres sur des cases au hasard.
 flavor="Je contrôle TOUT !" ―Yuki
 
 < CARD_HYPER_TOMOMOCASUAL >
@@ -361,12 +360,12 @@ flavor="Vous allez tomber comme des mouches !" ―Iru
 
 < CARD_HYPER_MIRA >
 name=Disparition Ninja (Marque)
-descr=Marque votre emplacement. Cette carte devient "Disparition Ninja" s'il y a déjà une case marquée. Vous gardez cette carte après l'avoir utilisée.
+descr=Marque votre emplacement. Cette carte devient "Disparition Ninja" s'il y a déjà une case marquée. Vous gardez cette carte après l'avoir utilisée. Vous pouvez jouer une autre carte ce tour-ci.
 flavor="Pouf." ―Mira
 
 < CARD_HYPER_MIRA2 >
 name=Disparition Ninja
-descr=Vous vous téléportez à la case marquée. Enlève la marque. Les ennemis adjacents obtiennent l'effet "Fumée Épaisse". Si aucune case n'est marquée, cette carte devient Disparition Ninja (Marque).
+descr=Vous vous téléportez à la case marquée. Enlève la marque. Les ennemis adjacents obtiennent l'effet "Fumée Épaisse". Vous pouvez jouer une autre carte ce tour-ci. Si aucune case n'est marquée, cette carte devient Disparition Ninja (Marque).
 flavor="Pouf." ―Mira
 
 < CARD_HYPER_CUTIES >
@@ -386,7 +385,7 @@ flavor="Goûte au pouvoir du démon !" ―Yuuki
 
 < CARD_HYPER_ISLAY >
 name=Rivale
-descr=Affrontez un joueur au choix. Vous attaquez en premier. +1 ATK pour ce combat.
+descr=Affrontez un joueur au choix. Vous attaquez en premier. +2 ATK pour ce combat.
 flavor="Moi aussi, j'ai un combat à mener." ―Scotch
 
 < CARD_HYPER_MIO >
@@ -396,7 +395,7 @@ flavor="Inferno !" ―Mio
 
 < CARD_BATTLE_DESPERATEMODIFICATION >
 name=Ajout de Dernier Recours
-descr=Lors de ce combat, vos jets de dés donnent soit 1, soit 6.
+descr=Vos jets d'attaque, de défense et d'esquive font 1 si le dé fait 3 ou moins, et 6 si le dé fait 4 ou plus.
 flavor="Qu'est-ce que tu as encore fait à Blue Crow ? Regarde-le, le pauvre !" ―Marc
 
 < CARD_BOOST_PATHBLOCKERS >
@@ -481,7 +480,7 @@ flavor="Kyupita... Je voudrais te voir." ―Kyousuke
 
 < CARD_TRAP_ENCORE >
 name=Encore
-descr=Lorsque cette carte est activée sur une case Bonus, Malus, Pioche ou Ennemi, la case prend effet deux fois.
+descr=Lorsque cette carte est activée sur une case Bonus, Malus, Pioche, Ennemi, Soin, Dégât, Boss ou Terreur, la case prend effet deux fois.
 flavor="Encore ! Encore !"
 
 < CARD_BOOST_OVERTIME >
@@ -552,7 +551,7 @@ flavor="Personne n'échappe aux câlins de Maman." ―Maman Poppo
 < CARD_BANNER_FLUFFYANDFUZZY >
 name=Tout Doux et Trop Chou
 descr=Les cartes avec pour effet de causer des dégâts infligent +1 aux joueurs la première fois.
-flavor="Es-tu capable d'encaisser cette gracieuse attaque ?" ―Poméranius
+flavor="Peux-tu encaisser cette gracieuse attaque ?" ―Poméranius
 
 < CARD_BANNER_ENERGYDRINK >
 name=Tournée de Boisson Énergisante
@@ -646,7 +645,7 @@ flavor="Bêtes de la Forêt ! Obéissez-moi !" ―Teotoratta
 
 < CARD_HYPER_ARNELLE >
 name=Officière de l'Information
-descr=Augmente l'une de vos statistiques en fonction du type de la carte du dessus du deck.\nCarte Évènement : +3 ATK\nCarte Boost : +3 DEF\nAutres : +3 EVD
+descr=Augmente l'une de vos statistiques en fonction du type de la carte du dessus du deck.\nCarte Événement : +3 ATK\nCarte Boost : +3 DEF\nAutres : +3 EVD\nAprès le combat, vous obtenez une copie de la carte du dessus du deck.
 flavor="Absolument rien ne m'échappe !" ―Arnelle
 
 < CARD_HYPER_MAYNIE >
@@ -672,7 +671,7 @@ flavor="Patron, aidez-moi !" ―Chris
 < CARD_HYPER_HALENA >
 name=Voyage Sécurisé
 descr=Vous perdez 5 étoiles à chaque tour. Insensible aux cases Malus, aux pièges et aux dégâts de carte. L'effet prend fin lorsque vous avez moins de 5 étoiles ou que vous arrivez sur votre propre Maison.
-flavor="En route !" ―Halena
+flavor="En route !" ―Haléna
 
 < CARD_HYPER_COOK >
 name=Guidance de la Girouette
@@ -844,6 +843,16 @@ name=Jets de Précision
 descr=Durée de l'Effet : 2 chapitres\n• Vous ne faites que 4 ou plus aux jets de déplacement, combat et bonus.\n• Vous ne faites que 2 ou moins aux jets de malus.\nLorsque l'effet s'estompe, vous gagnez Tendinite en début de prochain tour.\nEnlève toute la Tension.
 flavor="Voyez par vous-mêmes à quel point les jets de Popo sont incroyables !" ―Popomi
 
+< CARD_HYPER_MIMOMO >
+name=Présidente Gyaru et Assidue
+descr=Jetez un dé supplémentaire sur les cases Malus.##(Activation : Marcher sur une case Malus) : Vous jetez un dé supplémentaire sur les cases Bonus et Malus.##(Activation : Marcher sur 3 cases Bonus{1}) : Les effets altérant votre ATK, DEF ou EVD sont doublés (non cumulable).\nVous ne pouvez pas valider votre Quota avec cette carte en main.
+flavor="Alors ? Habile, pas vrai ?" ―Mimomo
+
+< CARD_HYPER_KURIE >
+name=Enseignante Avant Tout
+descr=Si vous subissez des dégâts mortels en combat, vous restez à 1 PV à la place, et défaussez cette carte.##(Activation : Tomber à 1 PV hors-combat) : Soigne 1 PV en activant une case Pioche, Déplacement, Portail, Déplacement-Portail ou Aléatoire. Si vous atteignez vos PV max avec ce soin, défaussez cette carte.
+flavor="Je suis leur professeur, je dois tenir le coup." ―Kurie
+
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=Arme Ultime au Soleil
 descr=+3 ATK pour ce combat.
@@ -945,8 +954,8 @@ descr=C'est un piège, prudence !
 flavor="Je vois très clair dans ton jeu." ―Kanata
 
 < CARD_GENERIC_EVENT >
-name=Carte Évènement
-descr=On dirait une carte qui déclenche un évènement.
+name=Carte Événement
+descr=On dirait une carte qui déclenche un événement.
 flavor="Je vois très clair dans ton jeu." ―Kanata
 
 < CARD_GENERIC_GIFT >
@@ -960,4 +969,3 @@ descr=C'est une carte Bannière.
 flavor="Je vois très clair dans ton jeu." ―Kanata
 
 [EOF]
-

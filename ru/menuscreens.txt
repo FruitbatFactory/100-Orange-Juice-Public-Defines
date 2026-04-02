@@ -1133,6 +1133,9 @@ QP хочет ещё поиграть! Летний Зверь вернулся!
 < PLAYMENU_3MDOWNLOADS_MESSAGE >
 Доступен Новый Эпизод в Честь 3 Миллионов Загрузок!\nПройдите Экстра-эпизод "{}" на Нормальной сложности или выше за Мари Поппо, чтобы разблокировать Попоми!
 
+< PLAYMENU_200ORANGE_VOUCHER_ACQUIRE >
+Вы получили Купон на 200 Апельсинов{}! Зайдите в раздел Магазина "Остальное", чтобы обменять его.
+
 < MENU_BOSS_DIFFICULTY_CASUAL >
 Лёгкая
 
@@ -1377,11 +1380,11 @@ QP хочет ещё поиграть! Летний Зверь вернулся!
 < MENU_CODEXSTORY_TITLE_MUSHROOMWAR >
 Грибная Война
 
-< MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
-Сыграйте {0} игр(ы) за персонажа "{1}".
+< MENU_CODEXSTORY_TITLE_GREATPILOT >
+Великий Пилот
 
-< MENU_CODEXSTORY_UNLOCKCOND_2UNITS >
-Сыграйте {0} игр(ы) за персонажа "{1}" или "{2}".
+< MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
+Сыграйте {0} игр(ы) за {1}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_NUNITS >
 Сыграйте {0} игр(ы) за любого из этих персонажей: {1}.
@@ -1390,10 +1393,31 @@ QP хочет ещё поиграть! Летний Зверь вернулся!
 Пройдите Событие "{0}".
 
 < MENU_CODEXSTORY_UNLOCKCOND_HATS_1UNIT >
-Разблокируйте краску для волос или аксессуар для персонажа "{0}".
+Разблокируйте краску для волос или аксессуар для {0}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_HATS_NUNITS >
 Разблокируйте краску для волос или аксессуар для любого из этих персонажей: {0}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_PLAYCARD >
+Используйте {0} за {1}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_ANYCARD >
+любую Карту
+
+< MENU_CODEXSTORY_UNLOCKCOND_USERUNLOCK >
+Разблокируйте "{0}".
+
+< MENU_CODEXSTORY_UNLOCKCOND_2UNITS >
+{0} или {1}
+
+< MENU_CODEXSTORY_UNLOCKCOND_UNITS_HASTRAIT >
+персонажа, которого можно описать как "{0}"
+
+< MENU_CODEXSTORY_UNLOCKCOND_UNITS_FROMGAME >
+любого персонажа из "{0}"
+
+< MENU_CODEXSTORY_UNLOCKCOND_ANYUNIT >
+любого Юнита 
 
 < MENU_NORMABOARD >
 Улучшение за Нормы
@@ -1421,5 +1445,8 @@ QP хочет ещё поиграть! Летний Зверь вернулся!
 
 < MENU_CSELECT_DIFFICULTY_LABEL >
 СЛОЖНОСТЬ
+
+< MENU_CHAOS_GM_SELECT_POWER >
+Выберите Силу Гейм-мастера
 
 [EOF]

@@ -793,4 +793,200 @@ descr=60% chance for each die roll to be 0.\nEffect removed by receiving a heal 
 name=Precise Dice Rolls
 descr=-Can only roll 4 or higher for movement, battle, and bonus.\n-Can only roll 2 or lower for drop.\nAfter the effect ends, gain Tendonitis at the start of the next turn.
 
+< CARD_EFFECT_MIMOMO_DOUBLEDROP >
+name=Hardworking Gyaru (A)
+descr=Roll an extra die on Drop panels.
+
+< CARD_EFFECT_MIMOMO_DOUBLEBONUS >
+name=Hardworking Gyaru (B)
+descr=Roll an extra die on Bonus and Drop panels.
+
+< CARD_EFFECT_MIMOMO_DOUBLESTATS >
+name=Hardworking Gyaru (C)
+descr=Any effect that modifies your ATK, DEF or EVD has its effect doubled. Norma checks are disabled.
+
+< CARD_EFFECT_BOUNTY_MIMOMO_DOUBLESTATS >
+name=Hardworking Gyaru (C)
+descr=Any Battle card effect that modifies your ATK, DEF or EVD has its effect doubled. Norma checks are disabled.
+
+< CARD_EFFECT_KURIE_ENDURE >
+name=Teacher's Endurance
+descr=When you would be KO'd by damage during battle, lower your HP to 1 instead.
+
+< CARD_EFFECT_KURIE_HEAL >
+name=Teacher's Resolve
+descr=Heal 1 HP after activating a Draw, Move, Warp, Warp Move, or Random panel.
+
+< CARD_EFFECT_CHAOS_GM_TRAPCARD >
+name=Trap Card
+descr=A random trap is placed on a random panel.
+
+< CARD_EFFECT_CHAOS_GM_TARGETEDDOUBLEDROP >
+name=Targeted Double Drop
+descr=A Double Drop debuff is placed upon the unit with most stars.\nDouble Drop: Drop twice as much stars on the next Drop Panel.
+
+< CARD_EFFECT_CHAOS_GM_DOUBLEDROP_EFFECT >
+name=Double Drop
+descr=Drop twice as much stars on the next Drop Panel.
+
+< CARD_EFFECT_CHAOS_GM_AIRRAID >
+name=Air Raid
+descr=All units immediately take 1 damage.
+
+< CARD_EFFECT_CHAOS_GM_PAYCHECK >
+name=Paycheck
+descr=Your unit immediately gain Lvl x 5 stars.
+
+< CARD_EFFECT_CHAOS_GM_GLORYOFBATTLE >
+name=Glory of Battle
+descr=Your unit immediately gain 1 Win.
+
+< CARD_EFFECT_CHAOS_GM_SLOWDOWN >
+name=Slow Down!
+descr=A random unit excluding yours will be forced to roll 1 for MOV on their next turn.
+
+< CARD_EFFECT_CHAOS_GM_SLOWDOWN_EFFECT >
+name=Slow
+descr=Forced to roll 1 for MOV.
+
+< CARD_EFFECT_CHAOS_GM_INVERSION >
+name=Inversion
+descr=All units stats will be inverted until your next turn.
+
+< CARD_EFFECT_CHAOS_GM_INVERSION_EFFECT >
+name=Inversed
+descr=Battle stats are inverted.
+
+< CARD_EFFECT_CHAOS_GM_REVERSAL >
+name=Reversal
+descr=All units movement is reversed until your next turn.
+
+< CARD_EFFECT_CHAOS_GM_REVERSAL_EFFECT >
+name=Reversed
+descr=Unit movement is reversed.
+
+< CARD_EFFECT_CHAOS_GM_SHARINGISCARING >
+name=Sharing is Caring
+descr=Steal a card from a random unit.
+
+< CARD_EFFECT_CHAOS_GM_SNACKTIME >
+name=Snack Time
+descr=All units will heal 1 HP.
+
+< CARD_EFFECT_CHAOS_GM_CAREPACKAGE >
+name=Care Package
+descr=Give a random card to your unit.\nThere is a 25% chance that this card would result in your Hyper.
+
+< CARD_EFFECT_CHAOS_GM_DASH >
+name=Dash!
+descr=Your unit will gain the effect of Dash for this turn.\nDash: Roll 2 dice for movement.
+
+< CARD_EFFECT_CHAOS_GM_BULLYSHUTDOWN >
+name=Bully Shutdown
+descr=The unit(s) with the highest base attack will take 2 damage.
+
+< CARD_EFFECT_CHAOS_GM_RAINOFTRAPCARDS >
+name=Assault Rain
+descr=Place 3 to 5 Assault traps on random panels.
+
+< CARD_EFFECT_CHAOS_GM_VISIONFROMABOVE >
+name=Vision from Above
+descr=Reveal all hands to all players for the duration of the chapter.
+
+< CARD_EFFECT_CHAOS_GM_EVASIONBOOST >
+name=Evasion Boost
+descr=Your unit immediately gain +2 EVD until your next turn.
+
+< CARD_EFFECT_CHAOS_GM_PVPTIME >
+name=PVP Time!
+descr=All panels except homes and warps will change into Player Encounter panels until your next turn.
+
+< CARD_EFFECT_CHAOS_GM_PUDDING >
+name=Pudding
+descr=Your unit immediately fully heal.\nIf your unit is KO'd, immediately revive them to full HP.
+
+< CARD_EFFECT_CHAOS_GM_ORBITALMISSILE >
+name=Orbital Missile
+descr=All units immediately take 1 to 3 damage.
+
+< CARD_EFFECT_CHAOS_GM_KAILOSTWALLET >
+name=Kai's Lost Wallet
+descr=Your unit gains 1, 10, 15, 25, 50, or 100 stars.
+
+< CARD_EFFECT_CHAOS_GM_FORCEDWARP >
+name=Forced Warp
+descr=All units are forced to warp on a random panel.
+
+< CARD_EFFECT_CHAOS_GM_POCKETSHERRY >
+name=100% Vitamin C
+descr=Your unit will gain +1 ATK, DEF, EVD until your next turn.
+
+< CARD_EFFECT_CHAOS_GM_EXTREMEANGER >
+name=Extreme Anger
+descr=Roll 2 dice for movement, and gain +3 ATK until your next turn. 
+
+< CARD_EFFECT_CHAOS_GM_IMMUNITY >
+name=Immunity
+descr=Take no damage until your next turn.
+
+< CARD_EFFECT_CHAOS_GM_BALANCEDUNIT >
+name=Balanced Unit
+descr=Set battle stats to +2 ATK, DEF, EVD until your next turn.
+
+< CARD_EFFECT_CHAOS_GM_EMERGENCYCAREPACKAGE >
+name=Emergency Care Package
+descr=Give 3 random cards to your unit.\nThere is a 75% chance that each card would result in your Hyper.
+
+< CARD_EFFECT_CHAOS_GM_IMMEDIATECHECK >
+name=Immediate Check
+descr=Your unit immediately perform a Norma check. Cannot be used at Norma level 5.
+
+< CARD_EFFECT_CHAOS_GM_IMMEDIATECONVERGENCE >
+name=Immediate Convergence
+descr=Trigger Convergence.
+
+< CARD_EFFECT_CHAOS_GM_OVERDRIVE >
+name=Overdrive!!
+descr=All units gain 99 HP, but take 10x more damage in battle. This effect ends when the unit is KO'd.
+
+< CARD_EFFECT_CHAOS_GM_GLOBALWAR >
+name=Global War
+descr=All units will gain +3 ATK, and -3 DEF for 3 chapters.
+
+< CARD_EFFECT_CHAOS_GM_GLOBALPEACE >
+name=Global Peace
+descr=All units will gain +3 DEF, and -3 ATK for 3 chapters.
+
+< CARD_EFFECT_CHAOS_GM_UNFAIREXCHANGE >
+name=Unfair Exchange
+descr=Everyone's stars immediately change owners.
+
+< CARD_EFFECT_CHAOS_GM_STARSHOWER >
+name=Starshower
+descr=All panels except homes and warps will become Bonus x2 panels for 1 chapter.
+
+< CARD_EFFECT_CHAOS_GM_GLOBALSHUTDOWN >
+name=Global Shutdown
+descr=All units will take 50 damage.
+
+< CARD_EFFECT_CHAOS_GM_UNLIMITEDLIVES >
+name=Unlimited Lives
+descr=All units gain the effect of Extend.\nExtend: After suffering KO, revive on the following turn.
+
+< CARD_EFFECT_CHAOS_GM_HOMEBREAKER >
+name=Home Breaker
+descr=All norma checks are disabled until your next turn.
+
+< CARD_EFFECT_CHAOS_GM_IMLITERALLYONFIRE >
+name=I'm Literally on Fire!
+descr=All units gain -9 DEF until next KO.
+
+< CARD_EFFECT_CHAOS_GM_IMLITERALLYONFIRE_EFFECT >
+name=I'm Literally on Fire!
+descr=Gain -1 DEF for each stack.
+
+< CARD_EFFECT_CHAOS_GM_HYPERMODE >
+name=Hyper Mode!
+descr=Clear all hands, refill the deck, and transform all cards into random Hypers. All units draw 3 cards.
+
 [EOF]

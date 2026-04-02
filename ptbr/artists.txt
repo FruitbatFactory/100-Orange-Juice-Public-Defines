@@ -1,0 +1,170 @@
+
+< ARTIST_PREFIX >
+Arte: 
+
+< ARTIST_HONO >
+Hono
+
+< ARTIST_JUNPYON >
+Junpyon
+
+< ARTIST_YUUNANASE >
+Yuu Nanase
+
+< ARTIST_NERIUME >
+Neriume
+
+< ARTIST_TORI >
+Tori
+
+< ARTIST_MEGANE >
+Megane
+
+< ARTIST_MIZUKISEO >
+Mizuki Seo
+
+< ARTIST_ERINA >
+Erina
+
+< ARTIST_KITSUNE >
+Kitsune
+
+< ARTIST_TAMAKISEO >
+Tamaki Seo
+
+< ARTIST_KULAS >
+Kulas
+
+< ARTIST_CLASSICWOSHINJIRO >
+Classic wo Shinjiro
+
+< ARTIST_IKUSE >
+Ikuse
+
+< ARTIST_RAYNEW >
+RayNew
+
+< ARTIST_MARITAN >
+Maritan
+
+< ARTIST_FCROW >
+FCrow
+
+< ARTIST_EOKAMI >
+EOkami
+
+< ARTIST_LUCASSHIROI >
+Lucas-Shiroi
+
+< ARTIST_COFFGIRL >
+Coffgirl
+
+< ARTIST_ESCANDA >
+Escanda
+
+< ARTIST_HEXUN >
+hexun
+
+< ARTIST_LENDO_KHAR >
+Lendo Khar
+
+< ARTIST_YULAY_DEVLET >
+Yulay Devlet
+
+< ARTIST_FUKA_MIZNO >
+fuka mizno
+
+< ARTIST_AKISAKI >
+akisaki
+
+< ARTIST_POPPUCHAN >
+Poppuchan
+
+< ARTIST_MST >
+mst
+
+< ARTIST_SUWEEKA >
+Suweeka
+
+< ARTIST_AXES >
+Axes
+
+< ARTIST_AIRIE >
+Airie
+
+< ARTIST_AME >
+Miyazaki Shiyuri
+
+< ARTIST_KAGAWA_YUSAKU >
+Yusaku Kagawa
+
+< ARTIST_SIUMAI >
+Siumai112
+
+< ARTIST_PASU >
+Pasu
+
+< ARTIST_TAMAKI >
+Tamaki
+
+< ARTIST_YASUMEYUKITO >
+Yasume Yukito
+
+< ARTIST_LVMNOT >
+LVmNoT
+
+< ARTIST_TSUKINO >
+Tsukino
+
+< ARTIST_490 >
+490
+
+< ARTIST_TIANNYA >
+tian nya
+
+< ARTIST_KOKOROTEN >
+Kokoroten
+
+< ARTIST_SENCA >
+Senca
+
+< ARTIST_USANEKORIN >
+Usanekorin
+
+< ARTIST_MI3LI >
+mi3li
+
+< ARTIST_PENCILCHEWING >
+pencilchewing
+
+< ARTIST_RITSU >
+Ritsu
+
+< ARTIST_WOODCHIN >
+WoodChin
+
+< ARTIST_SCORPIONCARD >
+ScorpionCard
+
+< ARTIST_BAEDONG >
+Baedong
+
+< ARTIST_CALAMARIPOP >
+Calamari-Pop
+
+< ARTIST_PHLE >
+PhleBuster
+
+< ARTIST_JO >
+jo
+
+< ARTIST_TANGO >
+TangoStar
+
+< ARTIST_OYAMA >
+Oyama
+
+< ARTIST_AZUREE >
+Azurée
+
+[EOF]

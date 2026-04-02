@@ -73,7 +73,7 @@
 <0072> Te derroté... ¿Te sientes bien?
 <0073> Argh.
 <0074> Me han golpeado...
-<0075> Se que soy una persona adulta, pero quisiera llorar en este momento.
+<0075> Sé que soy una persona adulta, pero quisiera llorar en este momento.
 <0076> Gujee.
 <0077> Esto es muy pesado.
 <0078> No puedo llevar tantas.

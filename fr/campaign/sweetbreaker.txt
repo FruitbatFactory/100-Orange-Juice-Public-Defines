@@ -6,7 +6,7 @@
 <0005> Je suis Sweet Breaker, l'une des six Déesses du Sucre.
 <0006> La violence ne mène à rien... Veuillez mettre un terme à cette idiotie sur-le-champ.
 <0007> Héé ! Sweet Breaker ! Elles jouent ensemble, c'est tout ! Fiche-leur la paix !
-<0008> Voilà une autre tarée.
+<0008> Tiens, encore une autre tarée.
 <0009> C'est moi que tu traites de tarée !?
 <0010> Qui que vous soyez, écartez-vous !\nJe vais me battre pour sauver mon pudding !
 <0011> La brune a raison, on fait que jouer. Laissez-nous tranquille.
@@ -64,7 +64,7 @@
 <0063> Maintenant, veuillez faire la paix et cesser de vous battre.
 <0064> C'est hors de question.\nJe me battrai jusqu'au jour où j'arriverai à l'abattre !
 <0065> T'es vraiment qu'un idiot, Blue Crow...
-<0066> Vous n'avez donc pas retenu la leçon ?
+<0066> Vous n'avez donc point retenu la leçon ?
 <0067> Attends, attends. Ces deux-là s'entendent à leur manière. Si tu t'interposes encore, ça va compliquer les choses pour rien.
 <0068> C-cesse de me rabaisser ainsi.
 <0069> En plus, j'arrive à voir un grand combat sur le point d'éclater, par là-bas.
@@ -126,7 +126,7 @@
 <0125> Star Breaker... Quelle aura maléfique.
 <0126> Hahahaha ! Brûle ! Brûle !\nJe vais tout brûler !
 <0127> Quelle est cette plaisanterie, Tomomo ? Pourquoi avoir créé quelqu'un d'aussi dangereux ?
-<0128> Je me disais que ce serait marrant d'avoir au moins une ou deux personnes un peu tarées.
+<0128> Je me disais que ce serait marrant d'avoir au moins une ou deux personnes un peu folles.
 <0129> Pour l'amour du ciel, elle brûlera le monde entier si on la laisse faire.
 <0130> Tu as raison. On doit l'arrêter. Poppo, on y va !
 <0131> Poppo!

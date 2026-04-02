@@ -362,7 +362,7 @@ Vaincre un joueur adverse vous donnera la moitié de son Chocolat.
 Lorsque vous avez au moins 500 Chocolats, entreposez-les à une maison pour ne pas vous les faire voler.
 
 < PLAYMENU_EVENT_VALENTINE2018_COMPLETE >
-Les sucreries du monde sont sauvés !\n(Pour le moment, en tout cas...)
+Les sucreries du monde sont sauvées !\n(Pour le moment, en tout cas...)
 
 < PLAYMENU_EVENT_GAMESPLAYED >
 Nombre de parties : %d
@@ -1377,23 +1377,44 @@ Trésors Sous le Ciel Nocturne
 < MENU_CODEXSTORY_TITLE_MUSHROOMWAR >
 Course aux Champis
 
-< MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
+< MENU_CODEXSTORY_TITLE_GREATPILOT >
+Un Grand Pilote
+
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES >
 Participez à {0} parties en tant que {1}.
 
-< MENU_CODEXSTORY_UNLOCKCOND_2UNITS >
-Participez à {0} parties en tant que {1} ou {2}.
-
-< MENU_CODEXSTORY_UNLOCKCOND_NUNITS >
-Participez à {0} en tant que l'un de ces personnages : {1}.
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES_NUNITS >
+Participez à {0} parties en tant que l'un de ces personnages : {1}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_EVENT >
-Complétez l'Évènement "{0}".
+Complétez l'Événement "{0}".
 
 < MENU_CODEXSTORY_UNLOCKCOND_HATS_1UNIT >
 Débloquez un accessoire / couleur de cheveux pour {0}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_HATS_NUNITS >
-Débloquez des accessoires / couleurs de cheveux pour ces personnages : {0}.
+Débloquez un accessoire / couleur de cheveux pour l'un de ces personnages : {0}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_PLAYCARD >
+Jouez {0} en tant que {1}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_ANYCARD >
+n'importe quelle carte
+
+< MENU_CODEXSTORY_UNLOCKCOND_USERUNLOCK >
+Débloquez {0}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_2UNITS >
+{0} ou {1}
+
+< MENU_CODEXSTORY_UNLOCKCOND_UNITS_HASTRAIT >
+n'importe quel personnage {0}
+
+< MENU_CODEXSTORY_UNLOCKCOND_UNITS_FROMGAME >
+n'importe quel personnage de {0}
+
+< MENU_CODEXSTORY_UNLOCKCOND_ANYUNIT >
+n'importe quel personnage
 
 < MENU_NORMABOARD >
 Bonus Quota
@@ -1421,5 +1442,8 @@ Maintenez le clic gauche pour accélerer
 
 < MENU_CSELECT_DIFFICULTY_LABEL >
 DIFFICULTÉ
+
+< MENU_CHAOS_GM_SELECT_POWER >
+Choisir un pouvoir de Maître de Jeu
 
 [EOF]

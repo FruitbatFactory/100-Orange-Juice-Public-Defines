@@ -72,7 +72,7 @@ descr=Vous incarnez un Boss du mode Co-op au lieu des personnages de base.
 
 < MUTATOR_CHAOS_BATTLEFIELD >
 name=Champ de Bataille Chaotique
-descr=Les combats durent 2 tours par défaut. Tous les 10 chapitres, toutes les cases deviennent des Cases-Combat mettant deux joueurs en opposition. Ces combats durent 10 tours. À chaque montée en Niveau, améliorez une statistique de votre choix de +1.
+descr=Les combats durent 2 tours par défaut. Tous les 10 chapitres, toutes les cases deviennent des cases Duel, déclenchant un combat entre deux joueurs qui dure 10 tours. À chaque montée en Niveau, améliorez une statistique de votre choix de +1.
 
 < MUTATOR_HOT_POTATO >
 name=Gremlin en Main
@@ -117,3 +117,7 @@ descr=Choisissez deux personnages au lieu d'un seul et devenez le champion local
 < MUTATOR_ULTIMATE_TAG_TEAM >
 name=Mode Équipe Ultime
 descr=Mode Équipe en plus épicé ! Vous pouvez changer de personnage une fois par chapitre et en début de combat !
+
+< MUTATOR_SEAT_OF_THE_GAMEMASTER >
+name=Maître du Jeu
+descr=Prenez la place du Maître du Jeu, et choisissez l'avenir des joueurs ! REC réduite de moitié.

@@ -184,7 +184,7 @@ flavor="Facilitará tu expedición de una gran manera... ¡si es que no deja de 
 
 < CARD_HYPER_BOUNTY_ELLIE >
 name=El Milagro de Ellie
-descr=★Costo: Nivel x10. Duración: 2 capítulos. Recibe +X ATK, +Y DEF y +Z EVD. X = tu número de Normas completadas, Y = tu cantidad de Fama y Z = tu número de Estrellas / 50.
+descr=★Costo: Nivel x10.\nDuración: 2 capítulos. Recibes +X ATK, +Y DEF y +Z EVD.\nX = tu número de Normas completadas\nY = tu cantidad de Fama / 5\nZ = tu número de Estrellas / 50.
 flavor="¡Todos recibirán mi milagro!" ―Ellie
 
 < CARD_BOUNTY_SCRAMBLED_EVE >
@@ -202,10 +202,15 @@ name=La Guía de la Hada Veleta
 descr=Efecto Guardado.\nTiras 2 dados para todas tus acciones. Este efecto no se activará dentro de una batalla, y se acabará al detenerte en un hogar.
 flavor="¡*Pío, pío*! Cook quiere ir por aquí." ―Cook
 
+< CARD_HYPER_BOUNTY_MIMOMO >
+name=Presidente Gyaru del Consejo Estudiantil
+descr=Tira un dado adicional en paneles de Pérdidas.##(Activación: Activa un panel de Perdidas): Tira un dado adicional en los paneles de Estrellas y Pérdidas.##(Activación: Activa 3 paneles de Estrellas{1}): Cualquier carta de Batalla que modifique los valores de tu ATK, DEF o EVD duplicarán sus efectos. No puede guardarse más de una vez. Deshabilita la verificación de Normas mientras se encuentra en tu mano.
+flavor="Soy muy hábil, ¿no lo crees?" ―Mimomo
+
 < CARD_BOUNTY_PROTECTIONFEE >
 name=Tarifa de Protección
 descr=Al detenerte en el panel de Hogar de otro jugador, paga estrellas (tu Nivel x2) a ese jugador. Si no logras cumplir con la norma, recibes 1 punto de daño.
-flavor="This is such a rip-off..." ―Lulu
+flavor="Esta es una estafa..." ―Lulu
 
 < CARD_BOUNTY_PLAYER >
 name=Se Busca Con Urgencia

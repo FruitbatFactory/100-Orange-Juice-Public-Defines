@@ -1,0 +1,161 @@
+<0000> Dados? Certo.
+<0001> Eu vou rolar.
+<0002> Aqui está.
+<0003> Aqui vai.
+<0004> Eu vou jogar uma carta agora.
+<0005> Está na hora de um item útil.
+<0006> Eu imagino que isso vai me ajudar.
+<0007> Parece ser um bom momento para fazer um movimento.
+<0008> Uma carta armadilha.
+<0009> Vamos tentar colocar algo aqui.
+<0010> As coisas não ficam mais tensas quando uma armadilha está colocada no chão?
+<0011> É apenas uma pegadinha.
+<0012> Como uma professora, eu não me sinto confortável sendo muito agressiva sobre coisas assim.
+<0013> Eu espero que isso não seja considerado uma forma de punição corporal.
+<0014> Talvez seja uma boa ideia ser um pouco agressiva de vez em quando.
+<0015> Uma carta de batalha, certo?
+<0016> Professores não possuem tempo para descansar.
+<0017> O recreio acabou.
+<0018> Certo, vamos continuar com a aula.
+<0019> Estou de volta, galera.
+<0020> Darei o meu melhor.
+<0021> Oh, eu errei?
+<0022> Até professores cometem erros.
+<0023> Eita, eu não estava esperando por isso.
+<0024> Isto é a vida.
+<0025> Partir para agressão física é contra meus princípios, mas...
+<0026> Não faça sua professora ficar brava, beleza?
+<0027> Pare!
+<0028> Isto não é algo bom a se fazer - beleza?
+<0029> V-você acabou de me acertar?
+<0030> Ei.
+<0031> Acalme-se, certo?
+<0032> Ei ei.
+<0033> Recarregar é essencial.
+<0034> Ufa, conforto é indispensável.
+<0035> Talvez eu fique mais produtiva após recarregar?
+<0036> Eu me sinto grata por isto.
+<0037> Eu vou me perder.
+<0038> Para onde você está me levando?
+<0039> Isto está me fazendo tonta.
+<0040> Onde fui parar?
+<0041> Isso não é bom.
+<0042> Eu imagino que isso significa que eu precisava de uma pausa?
+<0043> Oh não, isto não é bom.
+<0044> Isto não está indo bem.
+<0045> Eu posso ser a primeira a ir primeiro.
+<0046> Agora, eu vou te ensinar como lutar em uma batalha.
+<0047> Amor exigente existe, sabia?
+<0048> Meu amor por você pode ser duro.
+<0049> Desafio aceito. Pode vir.
+<0050> Lute e aprenda comigo.
+<0051> Como ousa!
+<0052> Ei, não seja bruto, beleza?
+<0053> Amor exigente! Amor exigente!
+<0054> Não espere que eu vá pegar leve.
+<0055> Aqui, aqui.
+<0056> Karate chop...!
+<0057> Isto dói.
+<0058> Você não me acertaria?
+<0059> Você quer que eu fique brava e berre com você?
+<0060> Owww.
+<0061> Acusações de agressão?
+<0062> Eu vou realmente ficar brava, beleza?
+<0063> Você entende que isso não é algo que leve de forma leviana?
+<0064> Eu vou desmaiar.
+<0065> Cuidado!
+<0066> Isso me deixou apavorada.
+<0067> Mano, essa foi por pouco.
+<0068> Oh não, eu vou cair.
+<0069> Isto é o que acontece quando eu vou com tudo.
+<0070> Uma lição aprendida. Não vá com tudo, beleza?
+<0071> Este foi um bom exercício.
+<0072> Minha nossa, eu venci a batalha.
+<0073> Isto é terrível.
+<0074> Isto é uma bagunça.
+<0075> Eu não consigo mais ficar de pé.
+<0076> Eu vou pegar leve um pouco.
+<0077> Um bônus? Parece fantástico.
+<0078> Dinheiro extra!
+<0079> Isto vai enriquecer minha vida.
+<0080> Isto é o tipo de coisa que me mais me agrada.
+<0081> Oh meu, oh meu.
+<0082> Ugh... Isto é depressivo.
+<0083> Eu ia gastar isso com minhas despesas de vida...
+<0084> Esse tipo de coisa é o que mais me entristece.
+<0085> Quem colocou uma armadilha aqui?
+<0086> Quem fez isso, apareça. Não vou te repreender.
+<0087> Uma armadilha? Isso é perigoso.
+<0088> Eita, isso me assustou.
+<0089> Consigo sentir o perigo vindo dessa coisa.
+<0090> Pessoal, mantenham distância disso.
+<0091> Ah, dá para ver que essa coisa é perigosa.
+<0092> Acho que nem eu consigo lidar com isso.
+<0093> Renda nunca é demais.
+<0094> Professores também querem dinheiro.
+<0095> Dinheiro fala alto, sabe?
+<0096> A vida é uma série de escolhas, e eu escolho as estrelas.
+<0097> Se um aluno está se comportando mal, eu sou a responsável por lidar com isso.
+<0098> Faz parte do meu trabalho resolver problemas entre os alunos.
+<0099> Violência não é tolerada. Vou ter que acabar com isso.
+<0100> Quem está sendo um mau aluno?
+<0101> Me chame Ms. Kurie, beleza?
+<0102> Sou a Amatsukuri Kurie.
+<0103> Sou a Kurie. Eu sou a supervisora do clube 100% OJ.
+<0104> Você gostaria de jogar um jogo comigo?
+<0105> Agora, é hora da aula.
+<0106> Deixe-me te ensinar muitas coisas.
+<0107> Jogo, começar!
+<0108> Muito bem, vamos começar?
+<0109> Eu provei que sou capaz de ser uma professora?
+<0110> Uma grande vitória para mim!
+<0111> Pessoal, espero que todos vocês sejam fortes o suficiente para me derrotar algum dia.
+<0112> Talvez eu tenha deixado de lado um pouco da minha maturidade em prol da vitória?
+<0113> O que vocês acham? Gostaram?
+<0114> Ah, era isso que você queria? Que bom para você.
+<0115> Conseguir isso também me deixa um pouco feliz.
+<0116> Oh, eu acho ótimo.
+<0117> Você se importa de trocar de lugar?
+<0118> É hora de trocar de posição.
+<0119> Acho que gostaria de voltar para trás por um tempo.
+<0120> Preciso pedir que você fique no meu lugar.
+<0121> Eu entendo.
+<0122> Isso é bom.
+<0123> Certo, certo, eu entendi.
+<0124> Não, isso não vai acontecer.
+<0125> Que pena.
+<0126> Oh, é seu dia de sorte.
+<0127> Isso me deixa perplexa.
+<0128> Vamos começar.
+<0129> Estou prestes a rolar um dado.
+<0130> Vá!
+<0131> Olá.
+<0132> Como posso dizer isso?
+<0133> Isso é maravilhoso.
+<0134> Isso é fantástico.
+<0135> Admito que estou um pouco frustrada com isso.
+<0136> Bem, vamos ver o que acontece.
+<0137> Não me sinto muito bem em usar o cartão de outra pessoa, mas...
+<0138> Estou prestes a causar um grande transtorno.
+<0139> Ta-da! Brincadeirinha.
+<0140> Obrigada.
+<0141> Minha nossa, olha só esses meninos com o meu tipo de roupa favorito.
+<0142> Fufufu, uniformes com gola alta são os melhores. Um verdadeiro símbolo da juventude.
+<0143> Você gosta de uniformes com gola alta? Eu? Amo.
+<0144> Nossa, este é um daqueles momentos em que me sinto grata por ser professora.
+<0145> Como supervisora do clube, vou ensinar vocês a jogar o jogo de tabuleiro.
+<0146> Clube Brilhante e Cintilante 100% OJ, vamos lá~
+<0147> Será que posso mesmo participar disso?
+<0148> Um grupo de alunos se esforçando nas atividades do clube... Simplesmente lindo.
+<0149> Há muitas coisas para aprender com pessoas de outras escolas.
+<0150> Então elas são da nossa escola rival, hein...
+<0151> Uma partida contra outra escola é emocionante.
+<0152> Nosso clube também precisa se esforçar bastante.
+<0153> Ela se parece comigo, mais ou menos...
+<0154> Acho que... não tenho uma irmã mais velha.
+<0155> Pensei que estava me olhando no espelho.
+<0156> Ela... não sou eu, né? Quem é ela?
+<0157> Você é delinquente?
+<0158> Fico triste em ver alguém que se desviou do caminho.
+<0159> Como alguém da área da educação, não posso deixar você viver assim.
+<0160> Você gostaria de assistir minha aula também?

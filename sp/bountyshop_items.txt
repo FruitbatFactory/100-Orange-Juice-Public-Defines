@@ -87,7 +87,7 @@ descr=Si el jugador es noqueado dentro de una batalla, revive con 3 puntos de vi
 
 < ITEM_MELONPAN >
 name=Melonpan
-descr=Este jugador recibe +1 DEF, +1 EVD y -1 ATK de forma permanente.. Esto solo puede ser comprado una vez.
+descr=Este jugador recibe +1 DEF, +1 EVD y -1 ATK de forma permanente. Esto solo puede ser comprado una vez.
 
 < ITEM_REDBEANCREAM >
 name=Helado de Frijoles Rojos

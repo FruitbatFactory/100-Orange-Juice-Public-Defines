@@ -80,6 +80,9 @@ Você comprou um pacote de cartas!
 < COM_SHOP_CONVERTCURRENCY >
 Moeda convertida!
 
+< COM_SHOP_BOUGHTPOSE >
+Você comprou uma nova pose de avatar!
+
 < COM_SHOP_BOUGHTCARD >
 Você comprou uma única carta!
 

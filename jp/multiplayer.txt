@@ -12,10 +12,10 @@
 戻る
 
 < LOBBYLIST_RETRIEVINGLOBBIES >
-ロビーを取得しています。\nお待ちください・・・
+ロビーを取得しています。\nお待ちください…
 
 < LOBBYLIST_RETRIEVINGDATA >
-ロビー情報を取得しています・・・
+ロビー情報を取得しています…
 
 < LOBBYLIST_DATATIMEOUT >
 ロビー情報がタイムアウトしました。
@@ -24,13 +24,13 @@
 Steamに接続できませんでした。
 
 < LOBBY_CREATING >
-Steamロビーを作成しています・・・
+Steamロビーを作成しています…
 
 < LOBBY_CREATEFAILED >
 Steamロビーを作成できませんでした。
 
 < LOBBY_CONNECTING >
-ロビーに接続しています。お待ちください・・・
+ロビーに接続しています。お待ちください…
 
 < LOBBY_CONNECTED >
 ロビーに接続しました。
@@ -45,7 +45,7 @@ Steamロビーを作成できませんでした。
 ゲームが中止されました。
 
 < LOBBY_JOINRESPONSE >
-サーバーからの応答を待っています・・・
+サーバーからの応答を待っています…
 
 < LOBBY_JOINFAILED >
 ゲームに参加できませんでした。
@@ -75,7 +75,7 @@ Steamロビーを作成できませんでした。
 ロビーから退出しますか？
 
 < LOBBY_LEAVEWAIT >
-退出中です。お待ちください・・・
+退出中です。お待ちください…
 
 < LOBBY_PLAYERLEFT >
 プレイヤーがゲームから抜けました。
@@ -90,7 +90,7 @@ Steamロビーを作成できませんでした。
 プレイヤーとの接続が切れました。
 
 < LOBBY_HOSTCONNECTIONLOST >
-ホストとの接続が切れました。
+ホストとの接続が切れました。再接続しています…
 
 < LOBBY_REMOVEDFORIDLING >
 待機時間が長かったため強制退出されました。
@@ -102,14 +102,14 @@ Steamロビーを作成できませんでした。
 CPUプレイヤーと入れ替えています。
 
 < LOBBY_SPECTATOR_CONNECTING >
-観戦者が接続しています・・・
+観戦者が接続しています…
 
 // Prefix: Spectator's name. 
 < LOBBY_SPECTATOR_JOINREQUEST >
-が参加を希望しています・・・
+が参加を希望しています…
 
 < LOBBY_SPECTATOR_JOINREQUESTING >
-参加許可を求めています・・・
+参加許可を求めています…
 
 < LOBBY_SPECTATOR_JOINDENIED >
 参加を拒否されました。
@@ -123,7 +123,7 @@ CPUプレイヤーと入れ替えています。
 観戦者
 
 < LOBBY_SPECTATOR_JOIN2 >
-がプレイヤーとして参加を希望しています・・・
+がプレイヤーとして参加を希望しています…
 
 < LOBBY_PLAYERTOSPECTATOR_CONFIRM >
 観戦者になりますか？
@@ -172,10 +172,10 @@ $sのミュートを解除しました。
 ゲームが終了しました！　ロビーへ戻ります。
 
 < CHAT_SYSTEM_REQUESTEDPLAYERSLOT >
-ホストによりプレイヤー枠がリクエストされました・・・
+ホストによりプレイヤー枠がリクエストされました…
 
 < CHAT_SYSTEM_REQUESTEDSPECTATORSLOT >
-ホストにより観戦者枠がリクエストされました・・・
+ホストにより観戦者枠がリクエストされました…
 
 < CHAT_SYSTEM_PLAYERSLOTREQUESTTIMEOUT >
 プレイヤー枠のリクエストがタイムアウトしました。

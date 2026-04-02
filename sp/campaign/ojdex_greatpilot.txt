@@ -1,0 +1,122 @@
+// main
+// (peat)
+<0000> Ah... qué día. Ahora que el Gremio se ha disuelto, los piratas se han hecho cada vez más agresivos. Necesito algo de comer.
+// (malt)
+<0001> Ese es el precio de la libertad, joven.
+// (peat)
+<0002> ¡Tú! Tú eres el viejo líder del Gremio. Y... ¡¿Acaso es ese el líder de la Resistencia junto a ti?!
+// (bourbon)
+<0003> ¡Ja ja! Veo que no eres un cliente regular en la Pradera del Cielo. Ten, solemos dejar nuestras cosas en la puerta.
+// (peat)
+<0004> ¡Literalmente le he disparado a este hombre!
+// (bourbon)
+<0005> ¿En serio? Como lo veo, el 'Cuervo Azul' abrió fuego con sus ametralladoras hacia el 'Halcón Dorado'. Aun así, dentro de este bar, tú no eres el Cuervo Azul, y él no es el Halcón Dorado. Debes dejar los resentimientos afuera.
+// (malt)
+<0006> En todo evento, me has dado una batalla muy vigorizante. Me siento orgulloso de como hemos entrenado a la próxima generación de aviadores.
+// (peat)
+<0007> Sí... claro. Barril Rojo hizo la mayor parte del trabajo. Incluso los piratas suelen actuar como ella hoy en día.
+// (bourbon)
+<0008> ¡Ja! ¿Tienes celos, niño? Bueno, eso no importa. Quédate aquí por el tiempo suficiente, y podrás juntar hombros con algunos de esos piratas por tu propia cuenta.
+// (peat)
+<0009> Eso no me importa. Solo espero que la comida aquí sea decente.
+// (malt)
+<0010> ¿Aun tienes problemas con la cocina? No debes rendirte. Para un hombre tan joven como tú, es un gran paso hacia la independencia.
+// (peat)
+<0011> Yo... ¡Yo me puedo encargar de eso! Es solo que... ha sido un día duro. Aunque... ¿Cómo lo supiste?
+// (malt)
+<0012> Recuerdo a todos los pilotos que han volado bajo mi ala. Y a todos los camaradas que ya no pueden hacerlo.
+// (bourbon)
+<0013> Y aun así no puedes recordar cuando fue la última vez que pagaste por mis cuentas.
+// (malt)
+<0014> Parece que mi mente se encuentra muy dispersa entre varios trabajos por el momento. Una pena.
+// (bourbon)
+<0015> Supongo que estaré pagando hoy también, ¿eh? Entonces será mejor que tomes a fondo. Seguiremos toda la noche.
+// (peat)
+<0016> ...Esto es demasiado extraño para mí. No puedo relajarme así.
+// (malt)
+<0017> Bueno, así es la juventud.
+// (bourbon)
+<0018> 'Así es la juventud' mis polainas. No digas las cosas solo porque suenan bien en tu cabeza.
+// (malt)
+<0019> De acuerdo. Para simplificar, no siento malicia hacia los victoriosos. Nuestros sueños diferían entre sí, y nos enfrentamos. Y entonces, yo fui el perdedor. Eso es todo.
+// (peat)
+<0020> ¿Eso es todo? ¿Cómo puedes decir eso?
+// (bourbon)
+<0021> Lo que este viejo quiere decir es que aun no se ha rendido.
+// (malt)
+<0022> WSabes que no somos muy distantes con respecto a nuestra edad, ¿verdad?
+// (bourbon)
+<0023> Sí, sí, lo que tú digas.
+// (malt)
+<0024> O mejor dicho, veamos... Dime, Cuervo Azul. ¿Qué crees que hace a un gran piloto?
+// (peat)
+<0025> Si lo supiera, no estaría detrás de Barril Rojo todo el tiempo. A lo mejor... ¿Experiencia?
+// (malt)
+<0026> Bueno, eso definitivamente ayuda.
+// (bourbon)
+<0027> Pero si eso fuera todo lo que se necesite, entonces siempre vencerías a Barril Rojo. Y este viejo nunca habría perdido contra ti.
+// (malt)
+<0028> La verdadera respuesta es... el sueño. La inspiración. Todos pueden subirse a un avión y encender el motor.
+// (malt)
+<0029> Pero un gran piloto debe tener el sueño de desplegar sus alas. Ya sea para proteger a sus camaradas, o hacer que el cielo sea un lugar seguro... o un lugar libre.
+// (malt)
+<0030> Perdí contra el Barril Rojo no por su habilidad, sino que porque su sueño era más grandioso que el mío.
+// (bourbon)
+<0031> Tú también perdiste por la misma razón, novato.
+// (peat)
+<0032> ¡Geh!
+// (malt)
+<0033> Pero mi sueño aun existe. Aun tengo el viento bajo mis alas. Un hombre como yo... no tiene tiempo para los resentimientos.
+// (peat)
+<0034> Pero sí tienes tiempo para sentarte aquí y tomar.
+// (bourbon)
+<0035> Debes probarlo cuando envejezcas, niño. Podría ayudarte con tu vuelo.
+// (peat)
+<0036> ¿Dices que volaría mejor si estuviera ebrio? ¿Acaso estás intentando empezar una pelea?
+// (malt)
+<0037> Peat… No, Cuervo Azul. Tu sueño era ser el mejor, ¿no es así? Ser el número uno.
+// (peat)
+<0038> ¿Qué tiene de malo?
+// (bourbon)
+<0039> Número uno, eh... Esa es una buena meta. Pero no siempre puedes ir tan lejos persiguiendo un sueño por tu propia cuenta, niño.
+// (peat)
+<0040> No necesito de la ayuda de nadie más.
+// (malt)
+<0041> Mi sueño es lo opuesto. Un aviador tiene camaradas. Así que hice un gremio. Mi tiempo tomando y profundizando relaciones es una inversión hacia mi sueño.
+// (bourbon)
+<0042> Desearía que le hicieras una inversión a las cuentas que yo debo pagar.
+// (malt)
+<0043> Siempre le encargo eso a Grain cuando es posible.
+// (bourbon)
+<0044> Vaya sorpresa. En fin, niño, un sueño compartido puede ser algo muy poderoso. Así es como acabamos en el Gremio en primer lugar.
+// (malt)
+<0045> Y así es como cayó.
+// (bourbon)
+<0046> Volabas mucho mejor cuando Barril Rojo compartió su sueño contigo, niño. A lo mejor deberías considerar volver a volar junto a ella.
+// (peat)
+<0047> ¡¿Y-yo?! ¿Volar con Barril Rojo? ¡Pero si ella es mi rival!
+// (malt)
+<0048> Ohh. Qué bella es la juventud.
+// (bourbon)
+<0049> ¡Esta vez si tienes razón, ja ja ja! Yo también he sido joven alguna vez. Sé como se siente.
+// (peat)
+<0050> ¡¿Qué como es qué?! ¡¿Qué intentan insinuar?!
+// (bourbon)
+<0051> Todo lo que estoy diciendo es que a lo mejor el viento que sopla bajo las alas del Barril Rojo podrían volar en la misma dirección que tú, niño. A lo mejor, si continuas siguiéndola, podrías acabar en el lugar que quieres estar.
+// (peat)
+<0052> ¡Gah! Has tomado demasiado, viejo.
+// (malt)
+<0053> ¿Oh? Pero si la noche acaba de comenzar, o al menos eso dicen.
+// (bourbon)
+<0054> Claro que sí. Esta oportunidad no se presenta todos los días.
+// (peat)
+<0055> Tch. Solo me pediré algo y comeré en paz.
+// (malt)
+<0056> Como tú lo desees. A lo mejor volveremos a hablar algún otro día. Hasta ese entonces, te esperaré en el cielo... Cuervo Azul.
+// (peat)
+<0057> Esos dos se llevan demasiado bien... tch.
+// (peat)
+<0058> Así que es tu sueño lo que te hace un gran piloto, ¿eh?
+// (peat)
+<0059> (Me pregunto... si mi sueño puede tener espacio para alguien más.)
+

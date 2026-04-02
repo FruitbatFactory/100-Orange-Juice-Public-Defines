@@ -286,7 +286,7 @@ flavor=
 
 < CARD_HYPER_YUKIDANGEROUS >
 name=Mestra do Mal
-descr=Se seu painel não tiver nenhuma armadilha ativa, coloque uma armadilha aleatória de sua mão nele. E então compre 3 cartas armadilha do baralho e depois coloque todas as cartas armadilha em mãos em casas aleatórias.
+descr=Pegue 3 cartas armadilha do baralho. Se você ganhou 0 cartas armadilha, ganhe uma cópia de Tragédia na Calada da Noite. Então você pode selecionar qualquer número de cartas armadilhas da sua mão. A primeira será colocada no seu painel atual, se possível, e todas as outras em painéis aleatórios.
 flavor="Tema meus poderes!" ―Yuki
 
 < CARD_HYPER_TOMOMOCASUAL >
@@ -361,12 +361,12 @@ flavor="Eu vou atirar em todos vocês." ―Iru
 
 < CARD_HYPER_MIRA >
 name=Salto Através do Espaço (Marcando)
-descr=Marque o painel onde sua unidade está no momento. Quando uma marca já existir, esta carta se transforma em "Salto Através do Espaço.". Esta carta não é descartada após uso.
+descr=Marque o painel onde sua unidade está no momento. Você pode jogar mais uma carta neste turno. Quando uma marca já existir, esta carta se transforma em "Salto Através do Espaço.". Esta carta não é descartada após uso.
 flavor="Poof." ―Mira
 
 < CARD_HYPER_MIRA2 >
 name=Salto Através do Espaço
-descr=Teleporte para o painel marcado e ative-o normalmente. Desmarque o painel. Aplique Cortina de Fumaça em inimigos até 1 painel de distância. Se nenhum painel estiver marcado, esta carta se transforma em "Salto Através do Espaço (Marcando)."
+descr=Teleporte para o painel marcado e desmarque-o. Aplique Cortina de Fumaça em inimigos até 1 painel de distância. Se nenhum painel estiver marcado, esta carta se transforma em "Salto Através do Espaço (Marcando)."
 flavor="Poof." ―Mira
 
 < CARD_HYPER_CUTIES >
@@ -386,7 +386,7 @@ flavor="Sinta o poder do demônio!" ―Yuuki
 
 < CARD_HYPER_ISLAY >
 name=Rival
-descr=Enfrente um jogador selecionado. Você ataca primeiro. Durante a batalha, ganhe +1 ATK.
+descr=Enfrente um jogador selecionado. Você ataca primeiro. Durante a batalha, ganhe +2 ATK.
 flavor="Assim como você... Eu tenho minhas batalhas para lutar." ―Islay
 
 < CARD_HYPER_MIO >
@@ -396,7 +396,7 @@ flavor="Inferno!" ―Mio
 
 < CARD_BATTLE_DESPERATEMODIFICATION >
 name=Modificação Desesperadora
-descr=Para esta batalha, role um 1 natural ou um 6 natural para ofensiva, defensiva e evasão.
+descr=Para esta batalha, se você fosse rolar 4 ou mais para ofensiva, defensiva ou evasão, role um 6 natural ao invés disso. Se você fosse rolar 3 ou menos, role um 1 natural ao invés disso.
 flavor="Pobre Corvo Azul. Você o carregou com todas essas coisas pesadas!" ―Marc
 
 < CARD_BOOST_PATHBLOCKERS >
@@ -481,7 +481,7 @@ flavor="Kyupita... Eu quero te ver." ―Kyousuke
 
 < CARD_TRAP_ENCORE >
 name=Encore
-descr=Quando esta carta é ativada seja em Bônus, Queda, Compra ou Encontro, o efeito daquele painel acontece duas vezes.
+descr=Quando esta carta é ativada em painel que seja de Bônus, Queda, Compra, Encontro, Cura, Dano, Encontro com Chefão ou Terror, o painel ativa duas vezes.
 flavor="De novo! De novo!"
 
 < CARD_BOOST_OVERTIME >
@@ -612,7 +612,7 @@ flavor="Vá!" ―Marc
 
 < CARD_HYPER_ARNELLE >
 name=Oficial da Inteligência
-descr=Ganhe um dos efeitos seguintes dependendo da carta no topo do baralho.\nEvento +3 ATK\nBoost +3 DEF\nOutras +3 EVD
+descr=Ganhe um dos efeitos seguintes dependendo da carta no topo do baralho.\nEvento +3 ATK\nBoost +3 DEF\nOutras +3 EVD\nApós a batalha, ganhe uma cópia da carta no topo do baralho.
 flavor="Eu posso ver através de tudo!" ―Arnelle
 
 < CARD_HYPER_MAYNIE >
@@ -809,6 +809,16 @@ flavor="Eu consigo ver quais cartas você tem na mão." ―Kanata
 name=Rolagens de Dados Precisas
 descr=Duração do Efeito: 2 capítulos\n-Só pode rolar 4 ou superior para movimento, batalha e bônus.\n-Só pode rolar 2 ou inferior para perda.\nApós o efeito acabar, ganhe Tendinite no começo do próximo turno.\nElimine toda Tensão.
 flavor="Descubra por si mesmo o quão incrível são as rolagens de dados da Popo." ―Popomi
+
+< CARD_HYPER_MIMOMO >
+name=Presidente do Conselho Estudantil Gyaru Dedicada
+descr=Role um dado extra em painéis de Perda.##(Gatilho: Ativar um painel de Perda): Role um dado extra em painéis de Bônus e de Perda.##(Gatilho: Ativar 3 painéis de Bônus{1}): Qualquer efeito que modifique seu ATK, DEF ou EVD possui seus efeitos dobrados. Este efeito não pode estocar. Não pode concluir Norma enquanto segura esta carta.
+flavor="Sou bastante habilidosa, né?" ―Mimomo
+
+< CARD_HYPER_KURIE >
+name=Pois eu sou uma Professora
+descr=Quando você fosse ser nocauteado por dano durante batalha, diminua seu HP para 1 no lugar. Após isso, descarte esta carta.##(Gatilho: Caia para 1 HP fora de batalha):  Cure 1 HP após ativar um painel de Compra, Movimentação, Teleporte, Movimentação de Teleporte ou Aleatório. Se você atingir HP cheio dessa cura, descarte esta carta.
+flavor="Como uma Professora, eu preciso me manter em pé." ―Kurie
 
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=Banho de Sol da Arma Suprema

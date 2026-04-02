@@ -128,6 +128,9 @@ DLCの所持情報取得のためSteamへの接続が必要です。
 < COM_SHOP_CONVERTCURRENCY >
 変換しました！
 
+< COM_SHOP_BOUGHTPOSE >
+新しいアバターポーズを購入しました！
+
 < COM_USERINFO_PLAYERINFO >
 プレイヤー情報を確認します。
 

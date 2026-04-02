@@ -80,7 +80,7 @@
 <0079> I'll put these to good use.
 <0080> I can tell today's going to be a good day.
 <0081> Oh... well, I'll manage.
-<0082> This is a bit of an incovenience.
+<0082> This is a bit of an inconvenience.
 <0083> How unfortunate...
 <0084> I need to have a word with the tax collector...
 <0085> Ahh, what a blunder!

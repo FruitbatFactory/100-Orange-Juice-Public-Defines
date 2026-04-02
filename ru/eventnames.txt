@@ -46,4 +46,7 @@
 < EVENTNAME_WINTER2025 >
 Претенденты Комнаты Клуба
 
+< EVENTNAME_VALENTINES >
+Шоколад для Богов Сладостей
+
 [EOF]

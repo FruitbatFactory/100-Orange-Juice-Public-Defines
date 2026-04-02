@@ -1377,13 +1377,13 @@ Treasures Beneath the Night Sky
 < MENU_CODEXSTORY_TITLE_MUSHROOMWAR >
 Mushroom War
 
-< MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
+< MENU_CODEXSTORY_TITLE_GREATPILOT >
+A Great Pilot
+
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES >
 Play {0} games as {1}.
 
-< MENU_CODEXSTORY_UNLOCKCOND_2UNITS >
-Play {0} games as either {1} or {2}.
-
-< MENU_CODEXSTORY_UNLOCKCOND_NUNITS >
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES_NUNITS >
 Play {0} games as any of the following units: {1}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_EVENT >
@@ -1394,6 +1394,27 @@ Unlock an accessory or hair color for {0}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_HATS_NUNITS >
 Unlock an accessory or hair color for any of the following units: {0}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_PLAYCARD >
+Play {0} as {1}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_ANYCARD >
+any Card
+
+< MENU_CODEXSTORY_UNLOCKCOND_USERUNLOCK >
+Unlock {0}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_2UNITS >
+either {0} or {1}
+
+< MENU_CODEXSTORY_UNLOCKCOND_UNITS_HASTRAIT >
+any {0} character
+
+< MENU_CODEXSTORY_UNLOCKCOND_UNITS_FROMGAME >
+any character from {0}
+
+< MENU_CODEXSTORY_UNLOCKCOND_ANYUNIT >
+any Unit
 
 < MENU_NORMABOARD >
 Norma Upgrade
@@ -1421,5 +1442,8 @@ Hold Left-click to speed up
 
 < MENU_CSELECT_DIFFICULTY_LABEL >
 DIFFICULTY
+
+< MENU_CHAOS_GM_SELECT_POWER >
+Select a Gamemaster Power
 
 [EOF]

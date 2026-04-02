@@ -1,0 +1,161 @@
+<0000> Un dé ? Soit.
+<0001> Roule donc.
+<0002> Et voilà.
+<0003> C'est parti.
+<0004> Allez, je vais jouer une carte.
+<0005> Cet objet devrait m'aider.
+<0006> Cela devrait m'être utile.
+<0007> Le moment est opportun.
+<0008> Voilà une carte Piège.
+<0009> Posons ça là, pour voir.
+<0010> Rien qu'un petit piège au sol fait grimper la tension.
+<0011> Une petite facétie.
+<0012> Je n'aime pas avoir recours à la violence... On n'instruit pas ainsi.
+<0013> Pourvu que ça ne compte pas comme un châtiment corporel.
+<0014> Peut-être que je suis trop douce, parfois.
+<0015> Une carte Combat, c'est bien ça ?
+<0016> Un professeur ne se repose jamais.
+<0017> La récréation est terminée.
+<0018> Le cours peut reprendre.
+<0019> Et me revoilà.
+<0020> Je vais redoubler d'efforts.
+<0021> Oh, c'est raté.
+<0022> Les professeurs ne sont pas infaillibles.
+<0023> Ma foi, c'est inattendu.
+<0024> C'est la vie.
+<0025> J'ai horreur de frapper...
+<0026> N'abusez pas de ma patience.
+<0027> Ça suffit !
+<0028> Ce n'est pas bien. Ne faites pas comme moi.
+<0029> T-tu m'as frappée ?
+<0030> Hé.
+<0031> Du calme.
+<0032> Dis donc.
+<0033> Les pauses sont essentielles.
+<0034> *soupir* Toujours prendre soin de soi.
+<0035> J'espère être plus productive après cette pause.
+<0036> Vous m'en voyez ravie.
+<0037> Je vais me perdre.
+<0038> Jusqu'où on va, exactement ?
+<0039> J'ai la tête qui tourne.
+<0040> Où suis-je, maintenant ?
+<0041> Ce n'est pas bien.
+<0042> Je crois que je vais avoir besoin d'une pause.
+<0043> Oh non, ça n'a rien de bon.
+<0044> Ça ne se passe pas très bien.
+<0045> C'est à moi de commencer.
+<0046> Et maintenant, une leçon sur comment se battre.
+<0047> Je vais t'apprendre la fermeté affectueuse.
+<0048> Mon amour pèse parfois sur ceux qui le reçoivent.
+<0049> Je relève le défi. Approche.
+<0050> Bats-toi et apprends de ma technique.
+<0051> Tu oses ?
+<0052> Retourne à ta place.
+<0053> C'est pour ton bien !
+<0054> Je n'ai pas l'intention de me retenir.
+<0055> Hop, hop.
+<0056> Karate chop...!
+<0057> Ça fait mal.
+<0058> Je te prie d'arrêter de me frapper.
+<0059> Tu risques de me mettre en colère.
+<0060> Guh.
+<0061> Une agression ?
+<0062> Je vais finir par vraiment me fâcher !
+<0063> Ça n'a vraiment rien de drôle.
+<0064> Je vais m'évanouir.
+<0065> Attention !
+<0066> Oh, j'ai eu très peur.
+<0067> Ça m'a ratée de peu.
+<0068> Je crois que je vais tomber.
+<0069> Voilà ce qui arrive quand je me donne à fond.
+<0070> Une bonne leçon. Essaie de ne pas en abuser.
+<0071> Je me suis bien exercée.
+<0072> Oh, seigneur, on dirait que j'ai gagné.
+<0073> Comme c'est horrible.
+<0074> Quel chaos.
+<0075> Je ne tiens plus debout.
+<0076> J'ai vraiment besoin d'une bonne pause.
+<0077> Un bonus ? Avec plaisir.
+<0078> Une augmentation !
+<0079> J'avais bien besoin d'argent.
+<0080> C'est le genre de choses qui me donnent le sourire.
+<0081> Oh, seigneur.
+<0082> Oh... Comme c'est triste.
+<0083> Je comptais m'en servir pour le loyer...
+<0084> C'est le genre de choses qui m'attristent.
+<0085> Qui a posé ce piège ?
+<0086> Que celui qui a fait ça approche. Je ne vais pas le gronder.
+<0087> Un piège ? Allons, c'est très dangereux.
+<0088> Oh, ça m'a fait peur.
+<0089> Rien qu'à le voir, je peux sentir le danger.
+<0090> Ne vous approchez surtout pas de lui.
+<0091> Cette chose ne m'inspire pas confiance.
+<0092> Je ne sais pas si je peux le calmer...
+<0093> Tu n'as jamais trop de revenus.
+<0094> L'importance de l'argent n'échappe pas aux professeurs.
+<0095> L'argent est roi.
+<0096> La vie est une succession de choix. Moi, j'ai choisi les étoiles.
+<0097> Si un étudiant perturbe la salle, c'est à moi de m'en occuper.
+<0098> Mon devoir inclue d'apaiser les conflits entre étudiants.
+<0099> La violence n'est pas tolérée. Je vais y mettre un terme.
+<0100> Qui sème le trouble ?
+<0101> Appelle-moi Mme. Kurie.
+<0102> Je m'appelle Amatsukuri Kurie.
+<0103> Je m'appelle Kurie, et je supervise le club 100% OJ.
+<0104> Oh, tu veux jouer avec moi ?
+<0105> C'est l'heure des cours.
+<0106> Aujourd'hui, on va apprendre beaucoup de choses.
+<0107> Que la partie commence !
+<0108> Sur ce, commençons.
+<0109> Ai-je bien accompli mon devoir d'enseignant ?
+<0110> Une victoire totale !
+<0111> Je vous souhaite tous de devenir assez doués pour me vaincre.
+<0112> J'ai peut-être manqué de tact en voulant gagner.
+<0113> Qu'en penses-tu ? Tu aimes bien ?
+<0114> Oh, c'est ce que tu voulais ? J'en suis ravie.
+<0115> Je m'en réjouis tout autant que toi.
+<0116> Oh, c'est très bien.
+<0117> Peux-tu prendre ma place ?
+<0118> Je vais changer de position.
+<0119> Puis-je me retirer ?
+<0120> J'aimerais que tu me remplaces un instant.
+<0121> Oui, je vois.
+<0122> C'est bien.
+<0123> D'accord, j'ai compris.
+<0124> Non, c'est hors de question.
+<0125> Quel dommage.
+<0126> Oh, tu as beaucoup de chance.
+<0127> Ça me laisse perplexe.
+<0128> Commençons.
+<0129> Je vais lancer les dés.
+<0130> Allez !
+<0131> Bonjour.
+<0132> Euh, comment dire...
+<0133> C'est merveilleux.
+<0134> Fantastique.
+<0135> Je dois dire que c'est frustrant.
+<0136> Voyons ce qu'il en retourne.
+<0137> Je n'aime pas utiliser les cartes d'autrui, mais...
+<0138> Ça va faire changer les choses.
+<0139> Ta-da ! Je plaisante.
+<0140> Merci.
+<0141> Oh, seigneur, ces garçons sont habillés avec tant de classe.
+<0142> Hihihi, j'aime tant ces uniformes à col montant. Un vrai symbole de jeunesse.
+<0143> Tu aimes bien cet uniforme ? Je lui trouve beaucoup de charme.
+<0144> C'est dans ces moments que je me sens fière d'être enseignante.
+<0145> En tant que superviseure, je vais devoir vous éduquer sur le plateau.
+<0146> Club 100% OJ de St. Tillante, je crois en vous.
+<0147> Ai-je vraiment ma place ici ?
+<0148> Quelle joie de voir nos étudiants travailler tous ensemble.
+<0149> Il y a tant à apprendre des autres écoles.
+<0150> Ces étudiants... ils sont de l'école rivale...
+<0151> Un match contre une autre école... C'est amusant.
+<0152> Notre club va devoir faire de son mieux.
+<0153> Elle me ressemble... sur certains points.
+<0154> Je n'ai pas souvenir d'avoir une grande sœur...
+<0155> Je croyais me voir dans un miroir.
+<0156> Si ce n'est pas moi... alors qui est-elle ?
+<0157> Tu es une délinquante ?
+<0158> Qu'il est triste de voir une pauvre enfant égarée.
+<0159> Je travaille dans l'éducation. Je te ramènerai sur le droit chemin.
+<0160> Voudrais-tu venir à mes cours ?

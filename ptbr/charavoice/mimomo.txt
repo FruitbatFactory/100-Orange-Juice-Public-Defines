@@ -1,0 +1,161 @@
+<0000> Eae.
+<0001> Certo.
+<0002> Hoy.
+<0003> Aqui vai um dado.
+<0004> Essa é uma boa hora para jogar uma carta?
+<0005> Heheh, isso será divertido.
+<0006> Ora ora, se liga nessa carta.
+<0007> Era isso que eu estava segurando!
+<0008> Eu vou colocar uma armadilha aqui.
+<0009> Uma armadilha!
+<0010> Por que eu não coloco uma armadilha aqui?
+<0011> Ei, há uma armadilha aqui. Tomem cuidado galera.
+<0012> Eu preciso ganhar essa batalha.
+<0013> Eu vou te finalizar com isso!
+<0014> Eu vou dar um buff a mim mesma!
+<0015> Uma carta de batalha para me dar uma chance maior de ganhar.
+<0016> Certo, hora de levar a sério.
+<0017> Ufa, eu achei que eu já era.
+<0018> Estou demais de volta a ativa.
+<0019> Eu não devia estar descansando mais.
+<0020> Retornei.
+<0021> O quê? Serião!?
+<0022> Você só pode estar de zueira!
+<0023> Talvez eu esteja tendo um dia de folga hoje?
+<0024> Oh mano, oh mano.
+<0025> Orah!
+<0026> Tome isso!
+<0027> Tome essa bolachada na cara!
+<0028> Isso é tudo que eu tenho!
+<0029> Isso dói.
+<0030> Para com isso.
+<0031> Owaah.
+<0032> Ugh, isso é ruim.
+<0033> Recuperei meu HP.
+<0034> Hora da cura.
+<0035> Isso ajuda demais.
+<0036> Eu creio que estou fora da posição ruim por agora.
+<0037> Um teleporte, então?
+<0038> Para onde você está me levando?
+<0039> Oh? Oh?
+<0040> Eita, estou teleportando!
+<0041> Ugh, estou acabada.
+<0042> Isto é um pesadelo.
+<0043> Isto é o inferno.
+<0044> Eu errei!
+<0045> Melhor você se segurar.
+<0046> Eu vou te derrotar.
+<0047> Prepare-se para meus punhos.
+<0048> Não pegarei leve se você me confrontar.
+<0049> Mas o quê? Agora?
+<0050> Uma batalha? Certo, vamos a isto.
+<0051> Oh, você quer lutar comigo? Perfeito.
+<0052> Oh, parece que alguém está cheio de energia para queimar.
+<0053> Ataque!
+<0054> Aqui vai meu ataque!
+<0055> Eu vou te dar um tapa mediamente poderoso.
+<0056> Perdão se isso doer.
+<0057> Oww.
+<0058> Ei, para com isso.
+<0059> Ei, isso é ofensiva.
+<0060> Bueh!
+<0061> De jeito nenhum isso é uma piada.
+<0062> Isso não pode estar acontecendo.
+<0063> Gueeeh.
+<0064> Gyaaah.
+<0065> Essa foi por pouco.
+<0066> Ei, pare.
+<0067> Você precisa melhorar sua mira.
+<0068> Errou~.
+<0069> Venci!
+<0070> Eu sou bastante forte, né?
+<0071> Boa, as coisas estão indo a meu favor.
+<0072> Minha vitória.
+<0073> Eu não acredito nisso.
+<0074> Hmm, eu pensei que eu ia ganhar.
+<0075> Argh, isso é bem pesado.
+<0076> Você precisa pegar leve comigo.
+<0077> Eu serei uma coletora de estrelas.
+<0078> Isto me fará uma jogadora estelar. Trocadilho intencional.
+<0079> Estrelas! Eu estou tão feliz.
+<0080> Oh, meu dia de sorte!
+<0081> Não não não.
+<0082> Hmh.
+<0083> Ugh, eu odeio painéis de perda.
+<0084> Isto é horrível.
+<0085> Ew! É uma armadilha.
+<0086> Isto é horrível. Estou irritada.
+<0087> Oh meu deus... Quem colocou uma armadilha aqui?
+<0088> Eu errei! Raios!
+<0089> Oh, isto é um chefe?
+<0090> Aquela coisa parece muito doida.
+<0091> Ooh, eu estou tão empolgada agora.
+<0092> Agora que um chefão está por aqui, como o jogo irá seguir?
+<0093> Vamos começar coletando essas estrelas!
+<0094> Garotas querem brilhar e cintilar, não é?
+<0095> Quanto mais estrelas eu consigo, mais feliz eu fico.
+<0096> Eu creio que vou coletar todas as estrelas por aqui.
+<0097> Fique no meu caminho e eu vou chutar seu traseiro.
+<0098> Eu estou com vontade de me exercitar um pouco.
+<0099> Estou empolgada para lutar.
+<0100> Eu irei com tudo aqui.
+<0101> Sou a Mimomo. Prazer te conhecer.
+<0102> Eu não pareço com uma presidente escolar? Falam isso bastante de mim.
+<0103> Eu gosto de tudo que é divertido.
+<0104> Quer jogar um jogo comigo? Claro.
+<0105> É hora de irmos.
+<0106> Nós vamos nos divertir muito.
+<0107> Eu consigo perceber que sou eu que vou ganhar este jogo.
+<0108> Fique sabendo que eu sou uma excelente jogadora.
+<0109> Eba!!! Venci!!!
+<0110> Eheh, que incrível.
+<0111> Eu venci o jogo. Impressionante, né?
+<0112> Certo, vamos jogar outra partida.
+<0113> Você conseguiu um item novo.
+<0114> Oh, que sorte, não?
+<0115> O que você conseguiu? Me mostre.
+<0116> Isso é incrível.
+<0117> Troca por favor.
+<0118> Troca.
+<0119> Você vai tomar meu lugar?
+<0120> Você pode vir jogar.
+<0121> Te peguei.
+<0122> Isso é muito bom.
+<0123> Issssso!
+<0124> Eu não posso permitir isso.
+<0125> Maior chatice de sempre, né?
+<0126> Maior sorte de sempre, né?
+<0127> Quê? O que raios é aquilo?
+<0128> Vamos lá!
+<0129> Vamos rolar.
+<0130> Você consegue!
+<0131> Yo! Como você está?
+<0132> Argh, estou engasgando.
+<0133> Incrível.
+<0134> Tão incrivelmente incrível.
+<0135> Uuuugh, estou tão irritada com isso.
+<0136> Nunca vi essa carta antes. O que ela faz?
+<0137> Eu estou com uma sensação de que algo incrível vai acontecer.
+<0138> Eu vou trazer o caos.
+<0139> A carta hiper de outra pessoa!
+<0140> Obrigada.
+<0141> Eu e Popomi somos o time mais forte de sempre.
+<0142> Faz um tempo desde a última vez q fizemos um time.
+<0143> Popomi, vamos lá nos divertir.
+<0144> Estou grata que posso fazer um par com você.
+<0145> Você pode contar comigo pois sou sua senior e a presidente.
+<0146> É uma sensação boa ser dependida por juniors.
+<0147> Vamos mostrar a eles do que somos capazes.
+<0148> Preciso impressionar meus juniors.
+<0149> Eu vou te mostrar o que sua senior pode fazer.
+<0150> Não espere que eu pegue leve com você.
+<0151> Prepare-se para minha exibição do meu amor.
+<0152> Certo, vamos nos divertir.
+<0153> Oh, alguém está cheio de energia, aparentemente.
+<0154> Certo, vamos nessa.
+<0155> Vamos ver se um junior vai superar teu senior.
+<0156> Serei gentil contigo.
+<0157> Você ainda possui um longo caminho pela frente.
+<0158> É muito cedo para você me derrotar.
+<0159> Essa foi por pouco. Você se saiu bem.
+<0160> Oh, você é uma boa lutadora. Eu preciso continuar me esforçando também.

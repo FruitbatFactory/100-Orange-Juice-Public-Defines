@@ -790,5 +790,202 @@ descr=60% de probabilidad de que cada dado caiga en 0.\nEl efecto será removido
 name=Tiros de Dados Precisos
 descr=-El dado solo puede caer en 4 o mayor al moverse, dentro de una batalla, y en los paneles de estrellas.\nEl dado solo puede caer en 2 o menor para los paneles de pérdidas.\nAl acabarse este efecto, recibes Tendinitis en el comienzo de tu próximo turno.
 
+< CARD_EFFECT_MIMOMO_DOUBLEDROP >
+name=Presidente Gyaru (A)
+descr=Tira un dado adicional en los paneles de Pérdidas.
+
+< CARD_EFFECT_MIMOMO_DOUBLEBONUS >
+name=Presidente Gyaru (B)
+descr=Tira un dado adicional en los paneles de Estrellas y Pérdidas.
+
+< CARD_EFFECT_MIMOMO_DOUBLESTATS >
+name=Presidente Gyaru (C)
+descr=Cualquier efecto que modifique los valores de tu ATK, DEF o EVD tendrán sus efectos duplicados. Deshabilita la verificación de Normas.
+
+< CARD_EFFECT_BOUNTY_MIMOMO_DOUBLESTATS >
+name=Presidente Gyaru (C)
+descr=Cualquier carta de Batalla que modifique los valores de tu ATK, DEF o EVD tendrán sus efectos duplicados. Deshabilita la verificación de Normas.
+
+< CARD_EFFECT_KURIE_ENDURE >
+name=La Resistencia de la Maestra
+descr=En vez de ser noqueado por daño realizado durante una batalla, tus PV serán reducidos a 1.
+
+< CARD_EFFECT_KURIE_HEAL >
+name=La Resolución de la Maestra
+descr=Cura 1 PV tras activar un panel de Cartas, Movimiento, Teletransportación, Tele-Movimiento, o un panel Aleatorio.
+
+< CARD_EFFECT_CHAOS_GM_TRAPCARD >
+name=Carta Trampa
+descr=Una trampa aleatoria es colocada en un panel aleatorio.
+
+< CARD_EFFECT_CHAOS_GM_TARGETEDDOUBLEDROP >
+name=Pérdidas Dobles Dirigidas 
+descr=La unidad con más Estrellas recibirá Pérdidas Dobles. Pérdidas Dobles: Pierdes el doble de Estrellas en el próximo panel de Pérdidas.
+
+< CARD_EFFECT_CHAOS_GM_DOUBLEDROP_EFFECT >
+name=Pérdidas Dobles
+descr=Pierdes el doble de estrellas en el próximo panel de Pérdidas.
+
+< CARD_EFFECT_CHAOS_GM_AIRRAID >
+name=Ataque Aéreo
+descr=Todas las unidades recibirán un punto de daño de forma inmediata.
+
+< CARD_EFFECT_CHAOS_GM_PAYCHECK >
+name=Pago
+descr=Tu unidad recibirá Estrellas (valor: Nivel x 5) de forma inmediata.
+
+< CARD_EFFECT_CHAOS_GM_GLORYOFBATTLE >
+name=La Gloria de la Batalla
+descr=Tu unidad recibirá 1 Victoria de forma inmediata.
+
+< CARD_EFFECT_CHAOS_GM_SLOWDOWN >
+name=¡Más Lento!
+descr=Los dados de una unidad aleatoria (exceptuando la tuya) serán forzados a caer en 1 en la fase de Movimiento durante su próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_SLOWDOWN_EFFECT >
+name=Lento
+descr=Los dados caerán en 1 en la fase de Movimiento de esta unidad.
+
+< CARD_EFFECT_CHAOS_GM_INVERSION >
+name=Inversión
+descr=Los valores de todas las unidades serán invertidos durante tu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_INVERSION_EFFECT >
+name=Invertido
+descr=Los valores de Batalla están invertidos.
+
+< CARD_EFFECT_CHAOS_GM_REVERSAL >
+name=Reversa
+descr=El movimiento de todas las unidades será invertido durante tu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_REVERSAL_EFFECT >
+name=Marcha Atrás
+descr=El movimiento de esta unidad será invertido.
+
+< CARD_EFFECT_CHAOS_GM_SHARINGISCARING >
+name=Querer es Compartir
+descr=Roba una carta de una unidad aleatoria.
+
+< CARD_EFFECT_CHAOS_GM_SNACKTIME >
+name=Hora de los Bocadillos
+descr=Todas las unidades recuperan 1 PV.
+
+< CARD_EFFECT_CHAOS_GM_CAREPACKAGE >
+name=Paquete de Cuidados
+descr=Tu unidad recibirá una carta aleatoria.\nHay un 25% de probabilidades de que esta carta sea tu Carta Especial.
+
+< CARD_EFFECT_CHAOS_GM_DASH >
+name=¡Velocidad!
+descr=Tu unidad recibirá el efecto de Velocidad durante este turno.\nVelocidad: Tiras 2 dados al moverte.
+
+< CARD_EFFECT_CHAOS_GM_BULLYSHUTDOWN >
+name=Acabando con los Abusivos
+descr=La(s) unidad(es) con el valor más alto de ATK recibirá(n) 2 puntos de daño.
+
+< CARD_EFFECT_CHAOS_GM_RAINOFTRAPCARDS >
+name=Lluvia de Asaltos
+descr=Coloca 3-5 trampas de "Asalto" en paneles aleatorios.
+
+< CARD_EFFECT_CHAOS_GM_VISIONFROMABOVE >
+name=Visión del Cielo
+descr=Revela las manos de todos los jugadores durante todo el capítulo.
+
+< CARD_EFFECT_CHAOS_GM_EVASIONBOOST >
+name=Mejora de Evasión
+descr=Tu unidad recibirá +2 EVD hasta tu próximo turno de forma inmediata.
+
+< CARD_EFFECT_CHAOS_GM_PVPTIME >
+name=¡Hora de PVP!
+descr=Todos los paneles (exceptuando los hogares y de teletransportación) cambiarán a paneles de Encuentro de Jugadores hasta tu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_PUDDING >
+name=Pudín
+descr=Tu unidad será curada de inmediato. Si se encuentra noqueada, revivirá con todos sus PV.
+
+< CARD_EFFECT_CHAOS_GM_ORBITALMISSILE >
+name=Misil Orbital
+descr=Todas las unidades recibirán 1-3 puntos de daño de forma inmediata.
+
+< CARD_EFFECT_CHAOS_GM_KAILOSTWALLET >
+name=La Billetera Perdida de Kai
+descr=Tu unidad recibirá 1, 10, 15, 25, 50 o 100 Estrellas.
+
+< CARD_EFFECT_CHAOS_GM_FORCEDWARP >
+name=Teletransportación Forzada
+descr=Todas las unidades serán forzadas a teletransportarse a un panel aleatorio.
+
+< CARD_EFFECT_CHAOS_GM_POCKETSHERRY >
+name=100% Vitamina C
+descr=Tu unidad recibirá +1 ATK, DEF y EVD hasta tu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_EXTREMEANGER >
+name=Ira Extrema
+descr=Tiras 2 dados al moverte, y recibes +3 ATK hasta tu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_IMMUNITY >
+name=Inmunidad
+descr=No recibirás daño hasta tu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_BALANCEDUNIT >
+name=Unidad Balanceada
+descr=Tus valores de batalla serán +2 ATK, DEF y EVD hasta tu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_EMERGENCYCAREPACKAGE >
+name=Paquete de Cuidados de Emergencia
+descr=Tu unidad recibirá 3 cartas aleatorias.\nHay un 75% de probabilidades de que cada carta sea tu Carta Especial.
+
+< CARD_EFFECT_CHAOS_GM_IMMEDIATECHECK >
+name=Paga Inmediata
+descr=Tu unidad realizará un chequeo de Norma de forma inmediata. No puede ser usado en la 5ta Norma.
+
+< CARD_EFFECT_CHAOS_GM_IMMEDIATECONVERGENCE >
+name=Convergencia Inmediata
+descr=Activa el efecto de "Convergencia".
+
+< CARD_EFFECT_CHAOS_GM_OVERDRIVE >
+name=¡¡Sobrecarga!!
+descr=Todas las unidades reciben 99 PV y el x10 de daño dentro de una batalla. Este efecto acabará cuando una la unidad sea noqueada.
+
+< CARD_EFFECT_CHAOS_GM_GLOBALWAR >
+name=Guerra Mundial
+descr=Todas las unidades reciben +3 ATK y -3 DEF por 3 capítulos.
+
+< CARD_EFFECT_CHAOS_GM_GLOBALPEACE >
+name=Paz Mundial
+descr=Todas las unidades reciben +3 DEF y -3 ATK por 3 capítulos.
+
+< CARD_EFFECT_CHAOS_GM_UNFAIREXCHANGE >
+name=Intercambio Injusto
+descr=Las estrellas de todos cambiarán de dueño de forma inmediata.
+
+< CARD_EFFECT_CHAOS_GM_STARSHOWER >
+name=Lluvia de Estrellas
+descr=Todos los paneles (exceptuando los hogares y de teletransportación) se transformarán en paneles de Estrellas x2 por 1 capítulo.
+
+< CARD_EFFECT_CHAOS_GM_GLOBALSHUTDOWN >
+name=Apagón Mundial
+descr=Todas las unidades reciben 50 puntos de daño.
+
+< CARD_EFFECT_CHAOS_GM_UNLIMITEDLIVES >
+name=Vidas Ilimitadas
+descr=Todas las unidades recibirán el efecto de Renacimiento.\nRenacimiento: Al morir, revivirás en tu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_HOMEBREAKER >
+name=Rompe-Hogares
+descr=Todos los chequeos de Norma serán deshabilitados hasta tu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_IMLITERALLYONFIRE >
+name=¡Literalmente Estoy en Llamas!
+descr=Todas las unidades recibirán -9 DEF hasta la próxima vez que sean noqueados.
+
+< CARD_EFFECT_CHAOS_GM_IMLITERALLYONFIRE_EFFECT >
+name=¡Literalmente Estoy en Llamas!
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibe -1 DEF.
+
+< CARD_EFFECT_CHAOS_GM_HYPERMODE >
+name=¡Modo Hiper!
+descr=Vacía todas las manos, rellena el mazo, y transforma todas las cartas en Cartas Especiales aleatorias. Todas las unidades toman 3 cartas.
+
+
 
 [EOF]

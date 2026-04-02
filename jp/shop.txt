@@ -194,6 +194,9 @@ Star Baker Breaker
 < SHOP_DLC_EXTRACURRICULARPACK >
 課外活動パック
 
+< SHOP_DLC_MIMOMOKURIE >
+クリエ＆ミモモ
+
 < SHOP_TOOLTIP_HOME >
 カテゴリー別にアイテムを探す
 

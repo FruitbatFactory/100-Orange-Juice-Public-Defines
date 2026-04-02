@@ -173,7 +173,7 @@ descr=
 
 < CARD_UNIT_MALT >
 name=Malt
-descr=Give 3 Wins when KO'd in battle. Cannot challenge to battle. Can set a Battle card without special use requirements as a Trap card without paying its cost. When another enemy steps on it, they will battle you and both player units gain the card's effect. No other battle cards can be played in this battle.
+descr=Give 3 Wins when KO'd in battle. Cannot challenge to battle. Can set a Battle card without special use requirements as a Trap card without paying its cost. When an enemy steps on it, they will battle you and you gain the card's effect. You cannot play another battle card in that battle.
 
 < CARD_UNIT_MANAGER >
 name=Store Manager
@@ -642,5 +642,13 @@ descr=Permanently turn every Tragedy in the Dead of Night held into Pudding. Whe
 < CARD_UNIT_POPOMI >
 name=Mari Popomi
 descr=Gain Strain every time you roll dice. At 30 Strain, gain Tendonitis at the start of your next turn:\nEffect Duration: 1 Chapter. 60% chance for each die roll to be 0.\nEffect removed by receiving a heal effect that can heal 2 HP or more, or playing Precise Dice Rolls.
+
+< CARD_UNIT_MIMOMO >
+name=Majikawa Mimomo
+descr=Gain +1 ATK and -1 EVD when attacker.\nGain +1 DEF when defender.
+
+< CARD_UNIT_KURIE >
+name=Amatsukuri Kurie
+descr=
 
 [EOF]

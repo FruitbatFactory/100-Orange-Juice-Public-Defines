@@ -781,4 +781,200 @@ descr=60% de chance de cada rolagem de dado ser 0.\nEfeito removido ao receber u
 name=Rolagens de Dados Precisas
 descr=-Só pode rolar 4 ou superior para movimento, batalha e bônus.\n-Só pode rolar 2 ou inferior para perda.\nApós o efeito acabar, ganhe Tendinite no começo do próximo turno.
 
+< CARD_EFFECT_MIMOMO_DOUBLEDROP >
+name=Gyaru Dedicada (A)
+descr=Role um dado extra em painéis de Perda.
+
+< CARD_EFFECT_MIMOMO_DOUBLEBONUS >
+name=Gyaru Dedicada (B)
+descr=Role um dado extra em painéis de Bônus e de Perda.
+
+< CARD_EFFECT_MIMOMO_DOUBLESTATS >
+name=Gyaru Dedicada (C)
+descr=Qualquer efeito que modifique seu ATK, DEF ou EVD possui seus efeitos dobrados. Checagens de Norma são desativadas.
+
+< CARD_EFFECT_BOUNTY_MIMOMO_DOUBLESTATS >
+name=Gyaru Dedicada (C)
+descr=Qualquer efeito de carta de Batalha que modifique seu ATK, DEF ou EVD possui seus efeitos dobrados. Checagens de Norma são desativadas.
+
+< CARD_EFFECT_KURIE_ENDURE >
+name=Resistência de Professora
+descr=Quando você fosse ser nocauteado por dano durante batalha, diminua seu HP para 1 no lugar.
+
+< CARD_EFFECT_KURIE_HEAL >
+name=Resolução de Professora
+descr=Cure 1 HP após ativar um painel de Compra, Movimentação, Teleporte, Movimentação de Teleporte ou Aleatório.
+
+< CARD_EFFECT_CHAOS_GM_TRAPCARD >
+name=Carta Armadilha
+descr=Uma carta armadilha aleatória é colocada em um painel aleatório.
+
+< CARD_EFFECT_CHAOS_GM_TARGETEDDOUBLEDROP >
+name=Perda Dupla Direcionada
+descr=Um debuff de Perda Dupla é colocado na unidade com mais estrelas.\nPerda Dupla: Perca o dobro de estrelas no próximo Painel de Perda.
+
+< CARD_EFFECT_CHAOS_GM_DOUBLEDROP_EFFECT >
+name=Perda Dupla
+descr=Perca o dobro de estrelas no próximo Painel de Perda.
+
+< CARD_EFFECT_CHAOS_GM_AIRRAID >
+name=Ataque Aéreo
+descr=Todas as unidades tomam imediatamente 1 de dano.
+
+< CARD_EFFECT_CHAOS_GM_PAYCHECK >
+name=Salário
+descr=Sua unidade ganha imediatamente Nvl x 5 em estrelas.
+
+< CARD_EFFECT_CHAOS_GM_GLORYOFBATTLE >
+name=Glória da Batalha
+descr=Sua unidade ganha imediatamente 1 Vitória.
+
+< CARD_EFFECT_CHAOS_GM_SLOWDOWN >
+name=Vá Mais Devagar!
+descr=Uma unidade aleatória exceto a sua vai ser forçada a rolar 1 para MOV em seu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_SLOWDOWN_EFFECT >
+name=Devagar
+descr=Forçado a rolar 1 para MOV.
+
+< CARD_EFFECT_CHAOS_GM_INVERSION >
+name=Inversão
+descr=Todos os atributos das unidades serão invertidos até seu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_INVERSION_EFFECT >
+name=Invertido
+descr=Atributos de batalha estão invertidos.
+
+< CARD_EFFECT_CHAOS_GM_REVERSAL >
+name=Reversal
+descr=O movimento de todas as unidades será invertido até seu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_REVERSAL_EFFECT >
+name=Reverso
+descr=Movimento da unidade está reverso.
+
+< CARD_EFFECT_CHAOS_GM_SHARINGISCARING >
+name=Compartilhar é se Importar
+descr=Roube uma carta de uma unidade aleatória.
+
+< CARD_EFFECT_CHAOS_GM_SNACKTIME >
+name=Hora do Lanche
+descr=Todas as unidades irão curar 1 HP.
+
+< CARD_EFFECT_CHAOS_GM_CAREPACKAGE >
+name=Pacote de Cuidados
+descr=Dê uma carta aleatória para sua unidade.\nExiste uma chance de 25% que está carta irá resultar em seu Hiper.
+
+< CARD_EFFECT_CHAOS_GM_DASH >
+name=Impulso!
+descr=Sua unidade ganhará o efeito de Impulso para este turno.\nImpulso: Role 2 dados para movimento.
+
+< CARD_EFFECT_CHAOS_GM_BULLYSHUTDOWN >
+name=Acabando com o Bully
+descr=A(s) unidade(s) com o maior ataque base tomarão 2 de dano.
+
+< CARD_EFFECT_CHAOS_GM_RAINOFTRAPCARDS >
+name=Chuva de Assalto
+descr=3 armadilhas aleatórias são colocadas em painéis aleatórios.
+
+< CARD_EFFECT_CHAOS_GM_VISIONFROMABOVE >
+name=Visão de Cima
+descr=Revele todas as mãos de todos os jogadores pela duração deste capítulo.
+
+< CARD_EFFECT_CHAOS_GM_EVASIONBOOST >
+name=Boost de Evasão
+descr=Sua unidade ganhará imediatamente +2 EVD até seu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_PVPTIME >
+name=Hora do X1!
+descr=Todos os painéis exceto casas e teleportes vão mudar para painéis de Encontro com Jogador até seu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_PUDDING >
+name=Pudim
+descr=Sua unidade irá imediatamente se curar completamente.\nSe sua unidade está nocauteada, imediatamente reviva com HP cheio.
+
+< CARD_EFFECT_CHAOS_GM_ORBITALMISSILE >
+name=Míssil Orbital
+descr=Todas as unidades tomam imediatamente 1 a 3 de dano.
+
+< CARD_EFFECT_CHAOS_GM_KAILOSTWALLET >
+name=A Carteira Perdida do Kai
+descr=Sua unidade ganha 1, 10, 15, 25, 50, ou 100 estrelas.
+
+< CARD_EFFECT_CHAOS_GM_FORCEDWARP >
+name=Teleporte Forçado
+descr=Todas as unidades são forçadas a teleportar a um painel aleatório.
+
+< CARD_EFFECT_CHAOS_GM_POCKETSHERRY >
+name=100% Vitamina C
+descr=Sua unidade ganhará +1 ATK, DEF, EVD até seu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_EXTREMEANGER >
+name=Raiva Extrema
+descr=Role 2 dados para movimento, e ganhe +3 ATK até seu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_IMMUNITY >
+name=Immunidade
+descr=Não tome dano até seu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_BALANCEDUNIT >
+name=Unidade Balanceada
+descr=Altere os atributos de batalha para +2 ATK, DEF, EVD até seu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_EMERGENCYCAREPACKAGE >
+name=Pacote de Cuidados de Emergência
+descr=Dê 3 cartas aleatórias para sua unidade.\nExiste uma chance de 75% de que cada uma dessas cartas irão resultar em seu Hiper.
+
+< CARD_EFFECT_CHAOS_GM_IMMEDIATECHECK >
+name=Checagem Imediata
+descr=Sua unidade irá imediatemente fazer uma checagem de Norma. Não pode ser usada em Norma nível 5.
+
+< CARD_EFFECT_CHAOS_GM_IMMEDIATECONVERGENCE >
+name=Convergência Imediata
+descr=Ativa Convergência.
+
+< CARD_EFFECT_CHAOS_GM_OVERDRIVE >
+name=Overdrive!!
+descr=Todas as unidades ganham 99 HP, mas tomam 10 vezes mais dano em batalha. Este efeito acaba quando a unidade for nocauteada.
+
+< CARD_EFFECT_CHAOS_GM_GLOBALWAR >
+name=Guerra Global
+descr=Todas as unidades ganharão +3 ATK, e -3 DEF por 3 capítulos.
+
+< CARD_EFFECT_CHAOS_GM_GLOBALPEACE >
+name=Paz Global
+descr=Todas as unidades ganharão +3 DEF, e -3 ATK por 3 capítulos.
+
+< CARD_EFFECT_CHAOS_GM_UNFAIREXCHANGE >
+name=Troca Injusta
+descr=As estrelas de todo mundo trocam de dono.
+
+< CARD_EFFECT_CHAOS_GM_STARSHOWER >
+name=Chuva de Estrelas
+descr=Todos os painéis exceto casas e teleportes tornarão em painéis de Bônus x2 por 1 capítulos.
+
+< CARD_EFFECT_CHAOS_GM_GLOBALSHUTDOWN >
+name=Queda Global
+descr=Todas as unidades tomarão 50 de dano.
+
+< CARD_EFFECT_CHAOS_GM_UNLIMITEDLIVES >
+name=Vidas Ilimitadas
+descr=Todas as unidades ganharão o efeito de Extender.\nExtender: Após sofrer nocaute, reviva no próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_HOMEBREAKER >
+name=Destruição de Lares
+descr=Todas as checagens de norma estão desabilitadas até seu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_IMLITERALLYONFIRE >
+name=Estou Literalmente Pegando Fogo!
+descr=Todas as unidades ganham -9 DEF até seu próximo turno.
+
+< CARD_EFFECT_CHAOS_GM_IMLITERALLYONFIRE_EFFECT >
+name=Estou Literalmente Pegando Fogo!
+descr=Ganhe -1 DEF para cada estoque.
+
+< CARD_EFFECT_CHAOS_GM_HYPERMODE >
+name=Modo Hiper!
+descr=Limpa todas as mãos, reenche o baralho, e transforma todas as cartas em Hipers aleatórios. Todas as unidades compram 3 cartas.
+
 [EOF]

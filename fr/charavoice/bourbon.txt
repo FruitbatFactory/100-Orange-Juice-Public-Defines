@@ -14,7 +14,7 @@
 <0013> Les chances sont nôtres !
 <0014> Hah !
 <0015> Mon arme secrète !
-<0016> Passons aux choses sérieuses.
+<0016> C'est l'heure de passer à l'action !
 <0017> Raah... Une bonne sieste.
 <0018> Hrm... Je referai pas la même erreur.
 <0019> Heh... le devoir m'appelle !

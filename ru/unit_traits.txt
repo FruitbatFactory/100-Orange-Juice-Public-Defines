@@ -1,0 +1,62 @@
+< UNIT_TRAIT_MALE >
+Мужчина
+
+< UNIT_TRAIT_FEMALE >
+Женшина
+
+< UNIT_TRAIT_GENDERLESS >
+Без Пола
+
+< UNIT_TRAIT_BIRD >
+Птица
+
+< UNIT_TRAIT_YOUNGLADY >
+Юная Леди
+
+< UNIT_TRAIT_BRAT >
+Негодник
+
+< UNIT_TRAIT_PRINCESS >
+Принцесса
+
+< UNIT_TRAIT_SWEETGOD >
+Бог Сладостей
+
+< UNIT_TRAIT_ANIMALEAR >
+Со звериными ушами
+
+< UNIT_TRAIT_WARUDA >
+Варуда
+
+< UNIT_TRAIT_ROBOT >
+Робот
+
+< UNIT_TRAIT_DRESS >
+В Платье
+
+< UNIT_TRAIT_GUILDMEMBER >
+Член Гильдии
+
+< UNIT_TRAIT_SHIFUBRAND >
+Модель Шифу
+
+< UNIT_TRAIT_CATEAR >
+С кошачьими ушами
+
+< UNIT_TRAIT_FLUFFY >
+Пушистик
+
+< UNIT_TRAIT_OJCLUBMEMBER >
+Член Клуба OJ
+
+< UNIT_TRAIT_SCHOOLUNIFORM >
+В Школьной Форме
+
+< UNIT_TRAIT_VILLAIN >
+Злодей
+
+< UNIT_TRAIT_SHINYSPARKLING >
+Из Сияюще-Искристой Академии
+
+< UNIT_TRAIT_TEAMARNELLE >
+Из Команды Арнелль

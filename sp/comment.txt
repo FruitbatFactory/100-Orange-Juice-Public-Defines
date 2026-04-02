@@ -123,7 +123,10 @@ Su nivel no es lo suficientemente alto para comprar este objeto.
 ¡Has comprado un emoticon!
 
 < COM_SHOP_BOUGHTCOSTUME >
-¡Has comprado un atuendo
+¡Has comprado un atuendo!
+
+< COM_SHOP_BOUGHTPOSE >
+¡Has comprado una nueva pose para tu avatar!
 
 < COM_USERINFO_PLAYERINFO >
 Ver la información del jugador.

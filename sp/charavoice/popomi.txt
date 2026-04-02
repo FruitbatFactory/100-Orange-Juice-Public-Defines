@@ -157,4 +157,6 @@
 <0156> ¡Popo ha perdido su posición como mascota!
 <0157> Ugh, ¿acaso esto significa que Popo no puede ser la verdadera Marie Poppo?
 <0158> Parece que el icónico rostro de 100% OJ no puede ser vencido...
+<0159> Mimo, Popo te mostrará como jugar a 100% OJ.
+<0160> Mimo, creo que no podrás jugar ahora.
 <0161> ¡Arrrrgh, mi muñeca...!

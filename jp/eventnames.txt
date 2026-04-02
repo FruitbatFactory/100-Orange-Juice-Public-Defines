@@ -46,4 +46,7 @@
 < EVENTNAME_WINTER2025 >
 クラブルーム・チャレンジャーズ
 
+< EVENTNAME_VALENTINES >
+スイーツ神たちにチョコレートを
+
 [EOF]

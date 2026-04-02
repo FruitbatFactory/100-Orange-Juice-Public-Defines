@@ -241,7 +241,7 @@ flavor=Por que não usamos isto para ver quem vai primeiro?" ― Yuki
 
 < CARD_HYPER_QP >
 name=Modo Hiper
-descr=Durante esta batalha, sua unidade ganha +2 de Ataque. Caso sua unidade seja nocauteada, não dê estrelas ou vitórias e se reanimará no próximo turno.
+descr=Durante esta batalha, sua unidade ganha +3 de Ataque. Caso sua unidade seja nocauteada, não dê estrelas ou vitórias. Além disso, sua unidade se reanimará no próximo turno.
 flavor="MODO HIPER!" - QP
 
 < CARD_HYPER_TOMOMO >

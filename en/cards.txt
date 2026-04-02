@@ -241,7 +241,7 @@ flavor="Why not use this to decide whose turn it is?" ―Yuki
 
 < CARD_HYPER_QP >
 name=Hyper Mode
-descr=Gain +2 ATK during this battle. If your unit suffers KO during this battle, you give no stars or Wins and the unit will revive next turn.
+descr=Gain +3 ATK during this battle. If your unit suffers KO during this battle, you give no stars or Wins and the unit will revive next turn.
 flavor="HYPER MODE!" ―QP
 
 < CARD_HYPER_TOMOMO >

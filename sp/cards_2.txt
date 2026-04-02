@@ -151,7 +151,7 @@ flavor="¡Bailen, Bestias Orejudas!" ―Krilalaris
 
 < CARD_HYPER_ALTE >
 name=Autodestrucción
-descr=Al morir durante esta batalla, tu oponente también será noqueado.\nNo otorgarás estrellas ni victorias, pero perderás la mitad de tus estrellas.
+descr=Al ser noqueado, tu oponente también será noqueado. El enemigo no recibirá estrellas ni victorias, y perderá la mitad de sus estrellas.
 flavor="Lo siento... no podré regresar..." ―Alte
 
 < CARD_HYPER_KYOKO >
@@ -386,7 +386,7 @@ flavor="¡Cómete el poder del demonio!" ―Yuuki
 
 < CARD_HYPER_ISLAY >
 name=Rival
-descr=Desafía a un jugador. Atacarás primero. Durante la batalla, recibe +1 ATK.
+descr=Desafía a un jugador. Atacarás primero. Durante la batalla, recibe +2 ATK.
 flavor="Al igual que tú... yo también tengo combates pendientes." ―Islay
 
 < CARD_HYPER_MIO >
@@ -406,7 +406,7 @@ flavor="¡Las dulces memorias de Sumika!" -Sumika
 
 < CARD_HYPER_ELLIE >
 name=El Milagro de Ellie
-descr=★Costo: Nivel x10. Duración: 2 capítulos. Recibe +X ATK, +Y DEF y +Z EVD. X = tu número de Normas completadas, Y = tu número de Normas de Victoria completadas y Z = tu número de Normas de Estrellas completadas.
+descr=★Costo: Nivel x10.\nDuración: 2 capítulos. Recibes +X ATK, +Y DEF y +Z EVD.\nX = tu número de Normas completadas\nY = tu número de Normas de Victoria completadas\nZ = tu número de Normas de Estrellas completadas.
 flavor="¡Todos recibirán mi milagro!" ―Ellie
 
 < CARD_HYPER_LULU >
@@ -629,6 +629,16 @@ name=Tiros de Dados Precisos
 descr=Duración: 2 Capítulos.\n-Los dados solo podrán caer en 4 o mayor para moverse, dentro de un combate, y en paneles de estrellas.\n-Los dados solo podrán caer en 2 o menor en paneles de pérdidas.\nAl acabarse este efecto, recibes Tendinitis en el comienzo de tu próximo turno.\nPierde todos los efectos de Tensión.
 flavor="Mira lo increíble que son los tiros de Popo."―Popomi
 
+< CARD_HYPER_MIMOMO >
+name=Presidente Gyaru del Consejo Estudiantil
+descr=Tira un dado adicional en paneles de Pérdidas.##(Activación: Activa un panel de Perdidas): Tira un dado adicional en los paneles de Estrellas y Pérdidas.##(Activación: Activa 3 paneles de Estrellas{1}): Cualquier efecto que modifique los valores de tu ATK, DEF o EVD duplicarán sus efectos. No puede guardarse más de una vez. Deshabilita la verificación de Normas mientras se encuentra en tu mano.
+flavor"Soy muy hábil, ¿no lo crees?" ―Mimomo
+
+< CARD_HYPER_KURIE >
+name=Porque Soy Una Maestra
+descr=En vez de ser noqueado por daño realizado dentro de una batalla, tus PV serán reducidos a 1. Al activar este efecto, esta carta será descartada.##(Activación: Al tener 1 PV fuera de una batalla): Recuperas 1 PV tras activar un panel de Cartas, Movimiento, Teletransportación, Tele-Movimiento, o un panel Aleatorio. Si recuperas todos tus PV gracias a esta carta, descártala.
+flavor="Como maestra, necesito seguir de pie." ―Kurie
+
 < CARD_GIFT_RANGEDTRAPS >
 name=Mira lo Largos Que Son Mis Brazos y Piernas Ahora
 descr=Podrás pagar 5 estrellas adicionales para colocar trampas en un radio de 2 paneles. Incrementa todos los niveles de las cartas (exceptuando las cartas Trampa y de Regalo) por 1 (hasta un máximo de 5). Esta carta será descartada al ser usada o al caer sobre una trampa.
@@ -696,7 +706,7 @@ flavor="Estoy muy orgullosa de este pastel que horneé. Disfrútalo~ ♡" ―Mio
 
 < CARD_BATTLE_DESPERATEMODIFICATION >
 name=Modificación Desesperada
-descr=Durante esta batalla, el dado caerá en 1 o 6 al atacar, defender y evadir.
+descr=Durante esta batalla, si el dado cae en 4 o más al atacar, defender o evadir, el dado naturalmente caerá en 6. Si el dado cae en 3 o menor, el dado naturalmente caerá en 1.
 flavor="Pobre Cuervo Azul... ¡Está lleno de cosas pesadas!" ―Marc
 
 < CARD_BOOST_PATHBLOCKERS >
@@ -766,7 +776,7 @@ flavor="......" ―Sora
 
 < CARD_GIFT_LUCKYCHARM >
 name=Amuleto de la Suerte
-descr=Recibe estrellas equivalentes al Nivel del Jugador x 1 al comienzo de cada turno. Ninguna otra carta podrá ser usada. Esta carta es descartada al al ser usada.
+descr=Recibes Estrellas (Nivel del Jugador x1) al comienzo de tu turno. No podrás usar otras cartas. Esta carta será descartada al ser usada. Al ser derrotado, entregas más estrellas (Nivel del Jugador x3).
 flavor="¡Woo-hoo, muchísimas estrellas! ¡¡Hoy es mi día de suerte!!" ―Tomomo
 
 < CARD_GIFT_METALLICMONOCOQUE >
@@ -781,7 +791,7 @@ flavor="Kyupita... quiero verte." ―Kyousuke
 
 < CARD_TRAP_ENCORE >
 name=Bis
-descr=Cuando esta carta es activada en un panel de Estrellas, Pérdidas, Cartas o Batallas, el efecto de ese panel ocurre dos veces.
+descr=Cuando esta carta es activada en un panel de Estrellas, Pérdidas, Cartas, Batallas, Curación, Daño, Jefe o Terror, el efecto de ese panel se activará dos veces.
 flavor="¡Otra! ¡Otra!"
 
 < CARD_HYPER_SUMMER2018_ATTACKER >

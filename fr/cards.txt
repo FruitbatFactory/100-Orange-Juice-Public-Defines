@@ -240,7 +240,7 @@ flavor="Alors, à qui le tour ?" ―Yuki
 
 < CARD_HYPER_QP >
 name=Puissance Hypermétrique
-descr=Pour ce combat, gagnez +2 ATK. Si vous tombez KO durant ce combat, vous ne donnerez ni étoiles ni Victoires, et vous vous relèverez au prochain tour.
+descr=Pour ce combat, gagnez +3 ATK. Si vous tombez KO durant ce combat, vous ne donnerez ni étoiles ni Victoires, et vous vous relèverez au prochain tour.
 flavor="PUISSANCE HYPERMÉTRIQUE !" ―QP
 
 < CARD_HYPER_TOMOMO >

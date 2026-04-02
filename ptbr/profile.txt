@@ -718,6 +718,27 @@ Jogue {0} partidas com o(s) seguinte(s) evento(s) de campo: {1}
 <PROFILE_TRACKER_INSTRUCTION_COLLECT_MUSHROOMS>
 Colete {} cartas de cogumelo.
 
+<PROFILE_TRACKER_INSTRUCTION_PLAY_CARD>
+Jogue {0}.
+
+<PROFILE_TRACKER_ANY_SWEETS_CARD>
+qualquer carta do tipo Doces
+
+<PROFILE_TRACKER_PROGRESS_MULTIPLIER_CHOCOLATE>
+({0}x enquanto estiver usando {1})
+
+<PROFILE_TRACKER_EXTRA_LABEL>
+Complete para destravar {}:
+
+<PROFILE_TRACKER_CHOCOLATE_COLOR>
+unidade de cor Chocolate
+
+<PROFILE_TRACKER_INSTRUCTION_WIN_GAME_AS>
+Ganhe uma partida como {}.
+
+<PROFILE_TRACKER_MOUSSE_COSTUME>
+Marie Poppo (roupa de Mousse)
+
 <PROFILE_TRACKER_NAVIGATION_GO>
 Vá!
 

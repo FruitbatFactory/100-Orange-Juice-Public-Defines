@@ -157,4 +157,6 @@
 <0156> Popo perdeu sua posição de mascote!
 <0157> Ugh, isso significa que Popo não pode ser a verdadeira Marie Poppo?
 <0158> Parece que não é fácil derrotar a cara icônica de 100% OJ...
+<0159> Mimo, Popo vai te mostrar como se joga 100% OJ.
+<0160> Mimo, talvez você não vá nem chegar a jogar.
 <0161> Arrrgh, m-meu pulso...!

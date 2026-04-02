@@ -1,4 +1,3 @@
-
 < CARD_UNIT_ALTE >
 name=Alte
 descr=En combat, une des cartes Combat de la main de votre adversaire vous est révélée.\nPour chaque Autodestruction, gagnez +1 ATK permanent (+3 max).
@@ -173,7 +172,7 @@ descr=
 
 < CARD_UNIT_MALT >
 name=Malt
-descr=KO, donne 3 Victoires. Ne peut pas défier.\nPeut poser les cartes Combat sans condition en guise de pièges. Si un ennemi l'active, il vous affronte et vous gagnez tous les deux son effet (empêche l'usage d'autres cartes Combat).
+descr=KO, donne 3 Victoires. Ne peut pas défier.\nPeut poser les cartes Combat sans condition en guise de pièges. Si un ennemi l'active, il vous affronte, et vous obtenez l'effet de la carte (empêche l'usage d'autres cartes Combat).
 
 < CARD_UNIT_MANAGER >
 name=Patron du Magasin
@@ -412,7 +411,7 @@ name=Alicianrone
 descr=En combat, vous gagnez +1 EVD pour chaque point d'ATK positif de l'adversaire (max. 2).
 
 < CARD_UNIT_TEOTORATTA >
-name=Teotoratta
+name=Téotoratta
 descr=N'active jamais les cases Ennemi (sauf Boss).
 
 < CARD_UNIT_ARNELLE >
@@ -468,7 +467,7 @@ name=Mercenaire
 descr=Défie tous les joueurs qu'il croise. Il garde la moitié des étoiles gagnées en combat, l'autre moitié revient au joueur l'ayant invoqué.
 
 < CARD_UNIT_HALENA >
-name=Halena
+name=Haléna
 descr=Vous gagnez votre Niv. x2 ★ en arrivant sur votre propre maison.
 
 < CARD_UNIT_COOK >
@@ -642,5 +641,13 @@ descr=Chaque Tragédie Nocturne en main devient Pudding pour le restant de la pa
 < CARD_UNIT_POPOMI >
 name=Mari Popomi
 descr=À chaque jet, vous gagnez (1) Tension.\nÀ 30 de Tension, vous obtenez "Tendinite" en début de tour.\nDurée de l'Effet : 1 chapitre. 60% de chance que vos jets fassent 0. L'effet disparaît en se soignant +2 PV, ou avec Jets de Précision.
+
+< CARD_UNIT_MIMOMO >
+name=Majikawa Mimomo
+descr=+1 ATK et -1 EVD en attaquant.\n+1 DEF en vous faisant attaquer.
+
+< CARD_UNIT_KURIE >
+name=Amatsukuri Kurie
+descr=
 
 [EOF]

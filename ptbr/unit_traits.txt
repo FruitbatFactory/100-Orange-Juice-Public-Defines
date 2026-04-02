@@ -1,0 +1,62 @@
+< UNIT_TRAIT_MALE >
+Masculino
+
+< UNIT_TRAIT_FEMALE >
+Feminino
+
+< UNIT_TRAIT_GENDERLESS >
+Sem gênero
+
+< UNIT_TRAIT_BIRD >
+Pássaro(a)
+
+< UNIT_TRAIT_YOUNGLADY >
+Jovem Moça
+
+< UNIT_TRAIT_BRAT >
+Pirralho(a)
+
+< UNIT_TRAIT_PRINCESS >
+Princesa
+
+< UNIT_TRAIT_SWEETGOD >
+Sweet God
+
+< UNIT_TRAIT_ANIMALEAR >
+Com Orelhas de Animais
+
+< UNIT_TRAIT_WARUDA >
+Waruda
+
+< UNIT_TRAIT_ROBOT >
+Robô
+
+< UNIT_TRAIT_DRESS >
+Vestido
+
+< UNIT_TRAIT_GUILDMEMBER >
+Membro de guilda
+
+< UNIT_TRAIT_SHIFUBRAND >
+Marca Shifu
+
+< UNIT_TRAIT_CATEAR >
+Com Orelhas de Gato
+
+< UNIT_TRAIT_FLUFFY >
+Fofinho(a)
+
+< UNIT_TRAIT_OJCLUBMEMBER >
+Membro do Clube OJ
+
+< UNIT_TRAIT_SCHOOLUNIFORM >
+Uniforme Escolar
+
+< UNIT_TRAIT_VILLAIN >
+Vilão/Vilã
+
+< UNIT_TRAIT_SHINYSPARKLING >
+Academia Brilhante e Cintilante
+
+< UNIT_TRAIT_TEAMARNELLE >
+Time Arnelle

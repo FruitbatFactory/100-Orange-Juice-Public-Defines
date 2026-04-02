@@ -53,6 +53,9 @@
 < COM_SHOP_NOTENOUGHCURRENCY >
 У вас недостаточно валюты.
 
+< COM_SHOP_REACHEDCURRENCYCAP >
+Вы не можете иметь больше этой валюты.
+
 < COM_SHOP_NOSTEAMCONNECTION >
 Этот предмет требует соединения со Steam.
 
@@ -123,7 +126,10 @@
 Вы купили новый костюм!
 
 < COM_SHOP_CONVERTCURRENCY >
-Конвертирование завершено!
+Валюта успешно конвертирована!
+
+< COM_SHOP_BOUGHTPOSE >
+Вы купили новую позу!
 
 < COM_USERINFO_PLAYERINFO >
 Посмотрите информацию об игроке.
@@ -169,6 +175,9 @@
 
 < COM_CAMPAIGN_WANDERERPACKONLY >
 Сценарий доступен только для обладателей набора "Wanderer".
+
+< COM_CAMPAIGN_WARUDAPRISONBREAKPACKONLY >
+Сценарий доступен только для обладателей набора "Waruda Prison Break".
 
 < COM_FREEBATTLE_CHOOSEGAMETYPE >
 Выберите режим игры.
@@ -265,12 +274,6 @@
 
 < COM_LOBBY_SPECTATOR_WAITINGDECKS >
 Игра началась! Ждём, пока игроки составят колоды...
-
-< COM_SHOP_REACHEDCURRENCYCAP >
-Вы не можете получить больше этой валюты.
-
-< COM_CAMPAIGN_WARUDAPRISONBREAKPACKONLY >
-Эта кампания доступна только владельцам пака Варуда: Побег из тюрьмы.
 
 [EOF]
 

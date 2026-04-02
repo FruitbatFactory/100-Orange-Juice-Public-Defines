@@ -793,6 +793,200 @@ descr=60% de chance que les jets de dés fassent 0.\nL'effet disparaît en se so
 name=Jets de Précision
 descr=Ne fait que 4 ou plus aux jets de déplacement, combat et bonus.\nNe fait que 2 ou moins aux jets de malus.\nLorsque l'effet prend fin, obtient Tendinite en début de tour.
 
+< CARD_EFFECT_MIMOMO_DOUBLEDROP >
+name=Gyaru Assidue (A)
+descr=Jette un dé supplémentaire sur les cases Malus.
+
+< CARD_EFFECT_MIMOMO_DOUBLEBONUS >
+name=Gyaru Assidue (B)
+descr=Jette un dé supplémentaire sur les cases Bonus et Malus.
+
+< CARD_EFFECT_MIMOMO_DOUBLESTATS >
+name=Gyaru Assidue (C)
+descr=Les effets altérant ATK, DEF ou EVD sont doublés. Ne peut pas valider de Quotas.
+
+< CARD_EFFECT_BOUNTY_MIMOMO_DOUBLESTATS >
+name=Gyaru Assidue (C)
+descr=Les cartes Combat altérant ATK, DEF ou EVD sont doublés. Ne peut pas valider de Quotas.
+
+< CARD_EFFECT_KURIE_ENDURE >
+name=Endurance de l'Enseignante
+descr=Les dégâts mortels en combat laissent à 1 PV à la place.
+
+< CARD_EFFECT_KURIE_HEAL >
+name=Courage de l'Enseignante
+descr=Se soigne 1 PV en activant une case Pioche, Déplacement, Portail, Déplacement-Portail ou Aléatoire.
+
+< CARD_EFFECT_CHAOS_GM_TRAPCARD >
+name=Carte Piège
+descr=Un piège aléatoire est posé sur une case au hasard.
+
+< CARD_EFFECT_CHAOS_GM_TARGETEDDOUBLEDROP >
+name=Malédiction de Double Malus
+descr=Applique l'effet "Double Malus" au personnage avec le plus d'étoiles.\nDouble Malus : Vous perdez x2 d'étoiles sur la prochaine case Malus.
+
+< CARD_EFFECT_CHAOS_GM_DOUBLEDROP_EFFECT >
+name=Double Malus
+descr=Perd deux fois plus d'étoiles sur la prochaine case Malus.
+
+< CARD_EFFECT_CHAOS_GM_AIRRAID >
+name=Raid Aérien
+descr=Tous les personnages subissent 1 dégât.
+
+< CARD_EFFECT_CHAOS_GM_PAYCHECK >
+name=Salaire
+descr=Votre personnage gagne Niv. x5 étoiles.
+
+< CARD_EFFECT_CHAOS_GM_GLORYOFBATTLE >
+name=Gloire du Combat
+descr=Votre personnage gagne automatiquement 1 Victoire.
+
+< CARD_EFFECT_CHAOS_GM_SLOWDOWN >
+name=Doucement !
+descr=Un autre joueur au hasard est forcé à faire 1 aux jets de déplacement à son prochain tour.
+
+< CARD_EFFECT_CHAOS_GM_SLOWDOWN_EFFECT >
+name=Lent
+descr=Ne fait que des 1 aux jets de déplacement.
+
+< CARD_EFFECT_CHAOS_GM_INVERSION >
+name=Inversion
+descr=Les statistiques de tous les personnages sont inversées jusqu'à votre prochain tour.
+
+< CARD_EFFECT_CHAOS_GM_INVERSION_EFFECT >
+name=Inversé
+descr=Statistiques de combat inversées.
+
+< CARD_EFFECT_CHAOS_GM_REVERSAL >
+name=Renversement
+descr=Tous les personnages se déplacent à l'envers jusqu'à votre prochain tour.
+
+< CARD_EFFECT_CHAOS_GM_REVERSAL_EFFECT >
+name=Renversé
+descr=Se déplace à l'envers.
+
+< CARD_EFFECT_CHAOS_GM_SHARINGISCARING >
+name=Œufs et Bœufs
+descr=Volez une carte d'un personnage au hasard.
+
+< CARD_EFFECT_CHAOS_GM_SNACKTIME >
+name=Heure du Goûter
+descr=Soigne 1 PV à tous les personnages.
+
+< CARD_EFFECT_CHAOS_GM_CAREPACKAGE >
+name=Kit de Secours
+descr=Votre personnage obtient une carte au hasard, qui a 25% de chance d'être votre Hyper.
+
+< CARD_EFFECT_CHAOS_GM_DASH >
+name=Dash !
+descr=Votre personnage obtient Dash ce tour-ci.\nDash : Jetez deux dés à vos déplacements.
+
+< CARD_EFFECT_CHAOS_GM_BULLYSHUTDOWN >
+name=Intervention Karmique
+descr=Le ou les personnages avec la plus haute ATK subissent 2 dégâts.
+
+< CARD_EFFECT_CHAOS_GM_RAINOFTRAPCARDS >
+name=Pluie de Mines
+descr=Pose 3 cartes Piège aléatoires sur des cases au hasard.
+
+< CARD_EFFECT_CHAOS_GM_VISIONFROMABOVE >
+name=Vue du Dessus
+descr=Ce chapitre, les mains des joueurs sont visibles pour tous.
+
+< CARD_EFFECT_CHAOS_GM_EVASIONBOOST >
+name=Bonus d'Esquive
+descr=Votre personnage gagne +2 EVD jusqu'à votre prochain tour.
+
+< CARD_EFFECT_CHAOS_GM_PVPTIME >
+name=C'est l'Heure du Duel !
+descr=Toutes les cases (sauf Maison et Portail) deviennent des cases Duel jusqu'à votre prochain tour.
+
+< CARD_EFFECT_CHAOS_GM_PUDDING >
+name=Pudding
+descr=Votre personnage récupère tous ses PV.\nS'il est KO, il se relève aussitôt avec tous ses PV.
+
+< CARD_EFFECT_CHAOS_GM_ORBITALMISSILE >
+name=Missile Orbital
+descr=Tous les personnages subissent entre 1 et 3 dégâts.
+
+< CARD_EFFECT_CHAOS_GM_KAILOSTWALLET >
+name=Le Portefeuille de Kai
+descr=Votre personnage gagne 1, 10, 15, 25, 50 ou 100 étoiles.
+
+< CARD_EFFECT_CHAOS_GM_FORCEDWARP >
+name=Téléportation Forcée
+descr=Tous les personnages se téléportent sur une case au hasard.
+
+< CARD_EFFECT_CHAOS_GM_POCKETSHERRY >
+name=100% Vitamine C
+descr=Votre personnage gagne +1 ATK, DEF, EVD jusqu'à votre prochain tour.
+
+< CARD_EFFECT_CHAOS_GM_EXTREMEANGER >
+name=Colère Suprême
+descr=Vous jetez deux dés à vos déplacements, et gagnez +3 ATK jusqu'à votre prochain tour.
+
+< CARD_EFFECT_CHAOS_GM_IMMUNITY >
+name=Immunité
+descr=Vous ne subissez aucun dégât jusqu'à votre prochain tour.
+
+< CARD_EFFECT_CHAOS_GM_BALANCEDUNIT >
+name=Équilibrage Douteux
+descr=Vos statistiques deviennent +2 ATK, DEF, EVD jusqu'à votre prochain tour.
+
+< CARD_EFFECT_CHAOS_GM_EMERGENCYCAREPACKAGE >
+name=Kit de Secours d'Urgence
+descr=Votre personnage obtient 3 cartes aléatoires.\nChaque carte a 75% de chance d'être votre Hyper.
+
+< CARD_EFFECT_CHAOS_GM_IMMEDIATECHECK >
+name=Validation Sur Demande
+descr=Votre personnage exécute une validation de Quota. Ne peut pas être utilisé au niveau 5.
+
+< CARD_EFFECT_CHAOS_GM_IMMEDIATECONVERGENCE >
+name=Convergence Sur Demande
+descr=Déclenche une Convergence.
+
+< CARD_EFFECT_CHAOS_GM_OVERDRIVE >
+name=Charge Maximale !!
+descr=Tous les personnages gagnent 99 PV, mais subissent x10 dégâts en combat. L'effet disparaît en tombant KO.
+
+< CARD_EFFECT_CHAOS_GM_GLOBALWAR >
+name=Temps de Guerre
+descr=Pendant 3 chapitres, les personnages obtiennent +3 ATK et -3 DEF.
+
+< CARD_EFFECT_CHAOS_GM_GLOBALPEACE >
+name=Temps de Paix
+descr=Pendant 3 chapitres, les personnages obtiennent +3 DEF et -3 ATK.
+
+< CARD_EFFECT_CHAOS_GM_UNFAIREXCHANGE >
+name=Échange Malhonnête
+descr=Les joueurs échangent aléatoirement leurs étoiles.
+
+< CARD_EFFECT_CHAOS_GM_STARSHOWER >
+name=Ciel Étoilé
+descr=Pendant 1 chapitre, toutes les cases (sauf Maison et Portail) deviennent des cases Bonus x2.
+
+< CARD_EFFECT_CHAOS_GM_GLOBALSHUTDOWN >
+name=Extinction Massive
+descr=Tous les personnages subissent 50 dégâts.
+
+< CARD_EFFECT_CHAOS_GM_UNLIMITEDLIVES >
+name=Vies Illimitées
+descr=Tous les personnages obtiennent l'effet Kit de Réparation.\n(Si vous tombez KO, vous vous relevez au prochain tour)
+
+< CARD_EFFECT_CHAOS_GM_HOMEBREAKER >
+name=Casse-Baraque
+descr=Les joueurs ne peuvent pas valider leurs Quotas jusqu'à votre prochain tour.
+
+< CARD_EFFECT_CHAOS_GM_IMLITERALLYONFIRE >
+name=Je Brûle de Fou !
+descr=Tous les personnages obtiennent -9 DEF jusqu'à tomber KO.
+
+< CARD_EFFECT_CHAOS_GM_IMLITERALLYONFIRE_EFFECT >
+name=Je Brûle de Fou !
+descr=-1 DEF par unité.
+
+< CARD_EFFECT_CHAOS_GM_HYPERMODE >
+name=Hyper Mode !
+descr=Défausse chaque main, et mélange le deck. Toutes les cartes deviennent des cartes Hyper au hasard. Les joueurs piochent 3 cartes.
+
 [EOF]
-
-

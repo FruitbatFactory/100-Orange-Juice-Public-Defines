@@ -1,0 +1,122 @@
+// main
+// (peat)
+<0000> Tch... Que dia. Agora que a Guilda foi dissolvida, os piratas estão ficando cada vez mais ousados. Preciso comer alguma coisa.
+// (malt)
+<0001> Esse é o preço da liberdade, jovem.
+// (peat)
+<0002> Você! Você é o antigo Mestre da Guilda. E... aquele é o líder da Resistência bebendo com você?!
+// (bourbon)
+<0003> Hah hah! Não é um frequentador assíduo da Pradaria das Nuvens, é? Aqui, deixamos tudo isso na porta.
+// (peat)
+<0004> Eu literalmente atirei com uma metralhadora nesse homem!
+// (bourbon)
+<0005> É mesmo? Do jeito que eu vejo, 'Corvo Azul' atirou com uma metralhadora em 'Falcão Dourado'. Mas neste bar, você não é o Corvo Azul, e ele não é o Falcão Dourado. Deixem as mágoas lá fora.
+// (malt)
+<0006> De qualquer forma, você me proporcionou uma batalha revigorante. Estou orgulhoso de como treinamos bem a próxima geração de aviadores.
+// (peat)
+<0007> É... claro. A Barril Vermelho fez a maior parte do trabalho, de qualquer forma. Até os piratas parecem gostar dela hoje em dia.
+// (bourbon)
+<0008> Hah! Está com inveja, garoto? Bem, não importa. Fique aqui tempo suficiente e você poderá se deparar com alguns piratas do ar.
+// (peat)
+<0009> Não me importo. Só espero que a comida aqui seja decente.
+// (malt)
+<0010> Ainda com dificuldades na cozinha? Continue tentando. Para um jovem como você, é um grande passo rumo à independência.
+// (peat)
+<0011> Estou... Estou me virando! É apenas que foi um dia difícil. Como você sabia disso, entretanto...?
+// (malt)
+<0012> Me lembro de todos os pilotos que voaram sob meu comando. E de todos os camaradas que não podem mais.
+// (bourbon)
+<0013> Mas não se lembra de me pagar pela última vez que paguei a sua conta, entretanto.
+// (malt)
+<0014> Parece que estou desempregado no momento. Uma pena.
+// (bourbon)
+<0015> Acho que vou pagar a conta de hoje também, né? É melhor beber à vontade, então. Vamos ficar até tarde hoje.
+// (peat)
+<0016> ...Isso é muito estranho. Simplesmente não consigo relaxar.
+// (malt)
+<0017> Bem, assim é a juventude.
+// (bourbon)
+<0018> 'Assim é a juventude', uma ova. Não diga coisas só porque soam bem.
+// (malt)
+<0019> Muito bem. Resumindo, não guardo rancor dos vencedores. Nossos sonhos eram diferentes e nos desentendemos. Eu perdi. Só isso.
+// (peat)
+<0020> Só isso? Como você pode dizer isso?
+// (bourbon)
+<0021> Porque o velho rabugento não desistiu, é por isso.
+// (malt)
+<0022> Não somos tão diferentes em idade, sabia?
+// (bourbon)
+<0023> É, é.
+// (malt)
+<0024> Ou, para colocar de outra forma... Diga-me, Corvo Azul. O que você acha que faz um ótimo piloto?
+// (peat)
+<0025> Se eu soubesse, não estaria sempre atrás da Barril Vermelho. Talvez... Experiência?
+// (malt)
+<0026> Bem, isso certamente ajuda.
+// (bourbon)
+<0027> Mas se fosse só isso, você venceria a Barril Vermelho todas as vezes, não é? E este velho rabugento nunca teria perdido para você.
+// (malt)
+<0028> A verdadeira resposta é... sonhos. Inspiração. Qualquer um pode entrar em um avião e ligar o motor.
+// (malt)
+<0029> Mas um grande piloto precisa ter um grande sonho para alçar voo. Seja para proteger seus camaradas, manter o céu seguro... ou libertá-lo.
+// (malt)
+<0030> Perdi para Red Barrel não por causa de sua habilidade, mas porque o sonho dela era mais grandioso que o meu.
+// (bourbon)
+<0031> É por isso que você perdeu para ela também, novato.
+// (peat)
+<0032> Geh!
+// (malt)
+<0033> Mas meu sonho ainda existe. Ainda tenho vento sob minhas asas. Um homem como eu... não tem tempo para guardar rancor.
+// (peat)
+<0034> Mas tem bastante tempo para ficar bebendo, entretanto.
+// (bourbon)
+<0035> Você devia experimentar quando ficar mais velho, garoto. Pode ajudar no seu voo.
+// (peat)
+<0036> Está dizendo que eu voaria melhor bêbado? Está tentando arrumar briga?
+// (malt)
+<0037> Peat... Não, Corvo Azul. Seu sonho era ser o melhor, certo? Ser o número um.
+// (peat)
+<0038> Qual o problema nisso?
+// (bourbon)
+<0039> Número um, hein... É uma ótima meta. Mas você só consegue ir até certo ponto perseguindo um sonho sozinho, garoto.
+// (peat)
+<0040> Eu não quero a ajuda de ninguém.
+// (malt)
+<0041> Meu sonho é o oposto. Um aviador precisa de camaradas. Então eu criei uma guilda. O tempo gasto bebendo e fortalecendo laços é um investimento no meu sonho.
+// (bourbon)
+<0042> Gostaria que você investisse um pouco de dinheiro para quitar sua conta.
+// (malt)
+<0043> Sempre deixei o orçamento para o Grain quando pude.
+// (bourbon)
+<0044> Não é nenhuma surpresa. Enfim, garoto, um sonho compartilhado pode ser algo poderoso. Foi assim que criamos com uma Guilda.
+// (malt)
+<0045> E como ela foi destruída.
+// (bourbon)
+<0046> Você voou muito melhor quando a Barril Vermelho compartilhou o sonho dela com você, garoto. Talvez você devesse considerar se juntar a ela.
+// (peat)
+<0047> E-eu?! Me juntar à Barril Vermelho? Mas ela é minha rival!
+// (malt)
+<0048> Ah, assim é a juventude.
+// (bourbon)
+<0049> Combinou dessa vez, né? Ha ha ha! Bem, eu também já fui jovem. Sei como é.
+// (peat)
+<0050> Como é o quê?! O que exatamente você está tentando insinuar?!
+// (bourbon)
+<0051> Só estou dizendo que talvez o vento sob as asas da Barril Vermelho esteja soprando na mesma direção que o seu, garoto. Talvez se você continuar seguindo-a, você acabe onde quer ir.
+// (peat)
+<0052> Gah! Você bebeu demais, velhote.
+// (malt)
+<0053> Ah? Nossa noite mal começou, ou pelo menos é o que me disseram.
+// (bourbon)
+<0054> Com certeza. Esta oportunidade não aparece com frequência.
+// (peat)
+<0055> Tch. Vou apenas pedir e comer em paz.
+// (malt)
+<0056> Fique à vontade. Talvez nos falemos novamente algum dia. Até lá, eu o esperarei no céu... Corvo Azul.
+// (peat)
+<0057> Aqueles dois se dão irritantemente bem... tch.
+// (peat)
+<0058> Então é um sonho que faz um ótimo piloto, né?
+// (peat)
+<0059> (Eu me pergunto... Talvez meu sonho tenha espaço suficiente para mais alguém.)
+

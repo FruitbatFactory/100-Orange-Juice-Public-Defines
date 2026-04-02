@@ -194,6 +194,9 @@ Haruka & Kanata
 < SHOP_DLC_EXTRACURRICULARPACK >
 Extracurricular Pack
 
+< SHOP_DLC_MIMOMOKURIE >
+Kurie & Mimomo
+
 < SHOP_TOOLTIP_HOME >
 Navigate the shop by category icons.
 
