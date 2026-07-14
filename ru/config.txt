@@ -21,10 +21,10 @@
 Выкл.
 
 < CONFIG_SHOW >
-Показать
+Показывать
 
 < CONFIG_HIDE >
-Скрыть
+Скрывать
 
 < CONFIG_SYSTEM_GAMESPEED_LABEL >
 Скорость Игры
@@ -48,7 +48,7 @@
 Имена игроков
 
 < CONFIG_SYSTEM_STREAMERMODE_LOBBYNAMES >
-Названия комнат
+Назв. комнат
 
 < CONFIG_SYSTEM_CPU_LABEL >
 Персонажи-Боты
@@ -105,7 +105,7 @@
 Только кол-во побед
 
 < CONFIG_SYSTEM_PLAYERINFO_PLAYERSTAT_HIDEALL >
-Скрыть всё
+Скрывать всё
 
 < CONFIG_SCREEN_SCREENMODE_LABEL >
 Режим Окна
@@ -231,7 +231,7 @@
 Карты
 
 < CONFIG_SYSTEM_CARDS_INFO_EXTRA_INFO_POPUP >
-Окна с информацией
+Подсказки
 
 < CONFIG_SYSTEM_CARDS_INFO_EXTRA_INFO_POPUP_ALL >
 Все
@@ -268,6 +268,9 @@
 
 < CONFIG_YOU_CANNOT_RESTART > 
 Нельзя перезапуститься во время игры по сети
+
+< CONFIG_SCREEN_BACKGROUND_RESOLUTION >
+Разреш. Фонов
 
 [EOF]
 

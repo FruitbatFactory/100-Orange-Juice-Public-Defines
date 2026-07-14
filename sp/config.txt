@@ -269,5 +269,8 @@ REINICIA PARA APLICAR
 < CONFIG_YOU_CANNOT_RESTART > 
 No puedes reiniciar mientras juegas en línea
 
+< CONFIG_SCREEN_BACKGROUND_RESOLUTION >
+Res. Fondo
+
 [EOF]
 

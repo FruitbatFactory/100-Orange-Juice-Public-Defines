@@ -1,0 +1,219 @@
+// intro
+// (kanata)
+<0000> Purée !
+// (haruka)
+<0001> Ça alors...
+// (chuu)
+<0002> E-elle est douée !
+// (popomi)
+<0003> 'faut dire que vous êtes beaucoup trop enthousiastes. Vous pensez vraiment pouvoir vivre votre vie comme ça ?!
+// (mimomo)
+<0004> Décidément, t'es toujours aussi forte, Popomi.
+// (popomi)
+<0005> Non, pas du tout. C'est elles qui sont trop nulles au jeu.
+// (kanata)
+<0006> J'aurais bien répliqué, mais...
+// (haruka)
+<0007> Je savais pas qu'on pouvait être aussi fort à 100% OJ...
+// (chuu)
+<0008> On dirait presque que tu pioches toujours les bonnes cartes au bon moment. T'as pas volé ton titre, tu sais ?
+// (popomi)
+<0009> Gagner et perdre au jeu, ça dépend beaucoup de la chance ! Mais c'est ça, l'important - savoir lire le flot de la chance...
+// (kanata)
+<0010> Je sais même pas ce que tu racontes.
+// (popomi)
+<0011> Joue au jeu régulièrement avec plein de gens différents, tu finiras par comprendre.
+// (mimomo)
+<0012> On devrait se confronter à d'autres écoles, alors.
+// (popomi)
+<0013> Ça vaut le coup d'essayer. Popo en connaît quelques-unes...
+// (poyo)
+<0014> Les filles !! OMG !!
+// (chuu)
+<0015> Ouah ! Ça va, Poyo ?
+// (poyo)
+<0016> Il y a un lycée qui nous envoie un défi ! C'est pour un match de 100% OJ !
+// (chuu)
+<0017> Quoi, t'es sérieuse ? On a ouvert le club la semaine dernière !
+// (poyo)
+<0018> Oui, j'arrive pas à y croire ! Et le lycée en question, c'est...
+// (kanata)
+<0019> Au Vent Harmonieux ?
+// (poyo)
+<0020> Bingo ! Ils ont leur propre club de 100% OJ, apparemment, ils sont super forts, et... Comment t'as deviné, en fait ?
+// (kanata)
+<0021> Haruka et moi, on a une amie d'enfance qui étudie là-bas.
+// (haruka)
+<0022> Puis je lui ai dis qu'on avait rejoint un club de 100% OJ, mais...
+// (haruka)
+<0023> Honnêtement, je pensais pas qu'elle proposerait un match aussi vite.
+// (kanata)
+<0024> Je dirais que Rin a très envie de jouer avec nous.
+// (popomi)
+<0025> C'est parfait. Ça vous fera un adversaire digne de ce nom !
+// (popomi)
+<0026> Poyo, on relève le défi !
+// (unknown)
+<0027> Héhéhé, je savais que vous accepteriez.
+// (haruka)
+<0028> Rin !?
+// (rinse)
+<0029> Ça faisait longtemps, Haru, Kana.
+// (rinse)
+<0030> Tu as l'air d'être en forme, Marie. Tu m'en vois ravie.
+// (popomi)
+<0031> Oui, Popo va bien. Mais quand est-ce que tu vas arrêter de débarquer sans prévenir ?
+// (rinse)
+<0032> Le temps avance comme la lumière jaillit. Lorsque l'esprit veut, le corps ne tarde à agir - c'est ainsi que je vis.
+// (suishou)
+<0033> Bonjour tout le monde, veuillez nous excuser pour son numéro.
+// (mimomo)
+<0034> T'es qui ?
+// (suishou)
+<0035> Pardon, j'aurais dû me présenter. Je suis Yukimura Suishou, vice-présidente du club de 100% OJ de l'académie Au Vent Harmonieux.
+// (rinse)
+<0036> Me concernant, je suis Sudou Rinse, présidente du club de 100% OJ de l'académie Au Vent Harmonieux.
+// (rinse)
+<0037> Nous sommes venues ici pour jouer avec mes deux amours... *tousse* Pardon. Pour un combat amical de 100% OJ.
+// (haruka)
+<0038> Tu n'as pas changée, Rin.
+// (popomi)
+<0039> Bon, pas de problème, alors. Tant qu'on a le plateau et les dés, on peut jouer où on veut. On relève le défi, Sudou !
+// (rinse)
+<0040> Merci pour ton attention, Marie. Eh bien, commençons dès maintenant, voulez-vous ? Ce sera entre moi, Suishou, et...
+// (kanata)
+<0041> Visiblement, toi et moi, Haru.
+// (haruka)
+<0042> Oui, bon, j'avais compris. Elle fait que nous regarder avec des étoiles dans les yeux.
+// (rinse)
+<0043> Héhéhé.
+// (popomi)
+<0044> Linotte ! Intello ! C'est la présidente d'un club de très haut niveau ! Cette fois, vous y allez à fond, ok ?
+// (haruka(extrovert))
+<0045> Arrête de m'appeler comme ça, c'est un peu vexant...
+// (kanata(genius))
+<0046> Ce ne sera pas bien compliqué. On joue ensemble depuis notre enfance.
+// (rinse)
+<0047> Hé, Haru, Kana - je tenais à vous demander. Vous avez rejoint le club de 100% OJ pour profiter de votre jeunesse, c'est bien ça ?
+// (haruka)
+<0048> On s'est toutes mises d'accord pour ne pas rater une goutte de notre temps libre.
+// (rinse)
+<0049> Dans ce cas, pour rajouter un peu d'harmonie dans vos vies... je vais devoir changer un peu les choses.
+// (poyo)
+<0050> ...! On dirait presque une autre personne !
+// (popomi)
+<0051> Regarde bien, Poyo. Regarde comment elle joue.
+
+// ending
+// (haruka)
+<0052> J-j'ai rien pu faire.
+// (kanata)
+<0053> Comment c'est possible ? Elle nous a mis une pression impensable.
+// (chuu)
+<0054> C'était du talent ou de la chance ? Qu'est-ce que je viens de voir ?
+// (poyo)
+<0055> Je dirais que... c'est sa capacité à contrôler le court de la partie. Elle arrive à imposer son propre rythme à ses adversaires.
+// (chuu)
+<0056> Poyo ?
+// (popomi)
+<0057> Belle observation, Poyo.
+// (popomi)
+<0058> Elle arrive même à utiliser les dégâts et les KO à son avantage. On dirait pas, mais son audace la rend très coriace.
+// (haruka)
+<0059> Je savais pas que Rin était aussi forte.
+// (kanata)
+<0060> Je commence à me questionner sur toutes nos parties d'avant...
+// (rinse)
+<0061> Héhéhé. Désolées, mes chéries. Mais si votre jeunesse le veut...
+// (rinse)
+<0062> Je servirai de rempart jusqu'à ce que vous arriviez à me surpasser.
+// (kanata)
+<0063> Merci, Rin. Je pense pas pouvoir remporter la prochaine, mais...
+// (haruka)
+<0064> Cette fois, on fera de notre mieux, c'est sûr !
+// (rinse)
+<0065> J'ai hâte de voir ça.
+// (rinse)
+<0066> Eh bien, maintenant que le match est terminé, je vais pouvoir...
+// (popomi)
+<0067> Hé, oh, tu vas où comme ça ? Tu comptes quand même pas partir sans affronter Popo ?
+// (rinse)
+<0068> Oh, bien sûr que si. Nous nous affronterons que lorsque tu auras repris la main.
+// (popomi)
+<0069> Grrr...
+// (poyo)
+<0070> E-euh !
+// (poyo)
+<0071> M-moi aussi, je veux vous défier, Rinse...!
+// (rinse)
+<0072> Et tu es...?
+// (poyo)
+<0073> Poyo Onoe ! C'est ma première année à l'académie St. Tillante !
+// (rinse)
+<0074> Tu as de bons yeux, Poyo.
+// (suishou)
+<0075> Il lui a suffit d'observer un seul match pour comprendre votre technique...
+// (poyo)
+<0076> Héhéhé...!
+// (poyo)
+<0077> Et du coup, pour le match..!
+// (rinse)
+<0078> Ce sera pour une prochaine fois. J'espère vous affronter dans de meilleures conditions, toi et Marie.
+// (poyo)
+<0079> Comment ça...?
+// (rinse)
+<0080> Eh bien, désolée de vous avoir dérangées. Allons-y, Suishou.
+// (suishou)
+<0081> Oui.
+// (suishou)
+<0082> ...Oh, Mlle. Marie Poppo. Encore une chose...
+// (popomi)
+<0083> Hm ?
+// (suishou)
+<0084> (Entre nous... Dame Rinse a parlé de votre grand retour sur tous les réseaux sociaux...)
+// (popomi)
+<0085> Hein !?
+// (suishou)
+<0086> (Tant que vous n'aurez pas repris la main, certains joueurs vont sûrement en profiter pour se faire un nom sur votre dos. Faites attention.)
+// (popomi)
+<0087> Hé, Sudou ! Tu aurais pu demander à Popo avant de parler de sa vie privée à tout le monde...
+// (rinse)
+<0088> Haru, Kana, et toutes les autres - je vous promets de vous défier à l'avenir.
+// (rinse)
+<0089> Et Marie, tu as intérêt à beaucoup t'entraîner... et contre des adversaires à ta hauteur. Tu es encore trop rouillée. Sur ce, j'y vais.
+// (mimomo)
+<0090> Elle est partie sans rien demander...
+// (haruka)
+<0091> Je suis désolée ! Elle a toujours été comme ça...
+// (chuu)
+<0092> Beaucoup d'informations... Mais ce que Suishou a dit, là, ça me préoccupe.
+// (mimomo)
+<0093> À propos de ceux qui veulent se mesurer à Popo ?
+// (popomi)
+<0094> C'est pas plus mal. Il va bien nous falloir des nouveaux adversaires si on veut s'améliorer ! Popo a encore beaucoup de chemin à parcourir !
+// (popomi)
+<0095> On va toutes s'entraîner à fond ! Et ensemble, on participera...
+// (popomi)
+<0096> Au Tournoi National de 100% OJ !
+// (everyone)
+<0097> Un Tournoi de 100% OJ !?
+// (renko)
+<0098> On dirait que le match s'est terminé.
+// (unknown)
+<0099> Alors, elle va comment, la Marie ?
+// (renko)
+<0100> Elle est très rouillée, apparemment.
+// (unknown)
+<0101> Parfait. Je l'avais ratée de peu, la dernière fois. Cette fois, on la tient, Renko !
+// (renko)
+<0102> Mais... c'est pas un peu de la triche ?
+// (unknown)
+<0103> Tu rigoles ? Elle peut s'en vouloir qu'à elle-même ! Moi, je saisis ma chance, c'est tout.
+// (renko)
+<0104> Hmm... Bon, c'est pas faux, mais...
+// (unknown)
+<0105> Après, je dis pas non aux dés pipés. Ça brise pas de règles, si personne s'en rend compte.
+// (renko)
+<0106> Hein ?
+// (unknown)
+<0107> On va bientôt battre Marie Poppo. Et les champions de 100% OJ, ce sera nous ! Les Poings de Fer !

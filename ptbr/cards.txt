@@ -286,7 +286,7 @@ flavor="Com este poder, tudo nos céus será nosso." ―Mestre da Guilda
 
 < CARD_HYPER_CHICKEN >
 name=Ovo Dourado
-descr=Se o alvo for "Galinha", Efeito de Estoque (3). Painéis de Perda vão agir como painéis de Bônus. Caso não seja "Galinha", Efeito de Estoque (3). Painéis de Bônus vão agir como painéis de Perda.
+descr=Se o alvo for "Galinha", Efeito de Estoque (3). Painéis de Perda vão agir como painéis de Bônus. Caso não seja "Galinha", Efeito de Estoque (3). Painéis de Bônus vão agir como painéis de Perda. Quem botou a armadilha ganha estrelas equivalente ao número de estrelas perdidas.
 flavor="Cocóricóóóóó!" ―Galinha
 
 < CARD_HYPER_BALL >

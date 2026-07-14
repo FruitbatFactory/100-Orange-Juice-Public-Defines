@@ -53,6 +53,9 @@ Esto todavía no se ha puesto a la venta.
 < COM_SHOP_NOTENOUGHCURRENCY >
 No tienes lo que se necesita para comprar esto.
 
+< COM_SHOP_REACHEDCURRENCYCAP >
+No puedes comprar más de esto.
+
 < COM_SHOP_CONVERTCURRENCY >
 ¡Has realizado un intercambio!
 

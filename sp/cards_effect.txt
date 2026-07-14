@@ -704,15 +704,19 @@ descr=Esta unidad tirará dos dados al moverse y no podrá ser desafiada o ser e
 
 < CARD_HYPERMIRACLE_EFFECT >
 name=El Hiper Milagro de Ellie
-descr=Duración: 2 capítulos. Esta unidad recibirá +X ATK en una batalla al ser el atacante, y +1 DEF y +1 EVD al ser el defensor. X = la cantidad de Normas completadas por esta unidad.
+descr=Esta unidad recibirá +X ATK en una batalla al ser el atacante, y +X DEF y +X EVD al ser el defensor. X = la cantidad de Normas completadas por esta unidad.
 
 < CARD_WARPCONTROL_EFFECT >
 name=Teletransportación Controlada
 descr=Al activar el efecto de Teletransportación o Teletransportación y Movimiento, este efecto será consumido y la unidad podrá escoger el panel de Teletransportación en el que caerá.
 
+< CARD_NANAKOBIT_EFFECT >
+name=El Bit de Nanako
+descr=Esta unidad recibirá +1 ATK, +1 DEF, o +1 EVD y perderá 7 estrellas en el comienzo de una batalla mientras esta carta se encuentre en mano.
+
 < CARD_MOMENTOFGLORY_EFFECT >
 name=El Momento de Gloria del Ex-Protagonista
-descr=Costo: Nivel x10. Duración: 3 capítulos. Los puntos de vida de esta unidad son reducidos a 1, pero recibe +4 ATK y +5 EVD. 
+descr=Esta unidad recibe +2 ATK y +5 EVD.
 
 < CARD_HKAIPASSIVE_EFFECT >
 name=Kai (Héroe)

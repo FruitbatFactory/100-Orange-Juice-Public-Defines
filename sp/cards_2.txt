@@ -285,8 +285,8 @@ descr="¡Feliz día de San Valentín, <player>!" ―QP
 flavor=
 
 < CARD_HYPER_YUKIDANGEROUS >
-name=Evil Mastermind
-descr=Si el panel actual no tiene una trampa activa, coloca una trampa de tu mano escogida de forma aleatoria. Entonces, toma 3 trampas del mazo, y luego coloca todas las Cartas Trampa en mano en paneles aleatorios.
+name=Mente Maestra
+descr=Toma 3 trampas carta del mazo. Si no has recibido ninguna trampa, recibes una copia de Tragedia a Medianoche. Entonces, podrás seleccionar cualquier número de cartas trampa en mano. La primera será colocada en tu panel actual, y el resto (si es posible) serán colocadas en paneles aleatorios.
 flavor="¡Témanle a mis poderes!" ―Yuki
 
 < CARD_HYPER_TOMOMOCASUAL >
@@ -361,12 +361,12 @@ flavor="Les dispararé a todos ustedes." ―Iru
 
 < CARD_HYPER_MIRA >
 name=Salto A Través del Espacio (Marcando)
-descr=Marca el panel en el cual tu unidad esté actualmente. Si un panel marcado ya existe, esta carta se transforma en "Salto A Través del Espacio". Al ser usada, esta carta no será descartada.
+descr=Marca el panel en el cual tu unidad esté actualmente. Podrás usar una carta adicional durante este turno. Si un panel marcado ya existe, esta carta se transforma en "Salto A Través del Espacio". Al ser usada, esta carta no será descartada.
 flavor="Poof." ―Mira
 
 < CARD_HYPER_MIRA2 >
 name=Salto A Través del Espacio
-descr=La unidad es transportada hacia el panel marcado y lo desmarca. Si ningún panel marcado existe, esta carta se transforma en "Salto A Través del Espacio (Marcando)".
+descr=La unidad es transportada hacia el panel marcado y lo desmarca. Aplica el efecto de Humo Atrapante en los enemigos a 1 panel de distancia. Si ningún panel marcado existe, esta carta se transforma en "Salto A Través del Espacio (Marcando)".
 flavor="Poof." ―Mira
 
 < CARD_HYPER_CUTIES >
@@ -436,7 +436,7 @@ flavor="¡Todas las bestias! ¡Obedezcan!" ―Teotoratta
 
 < CARD_HYPER_ARNELLE >
 name=Oficial de Inteligencia
-descr=Recibe uno de los siguientes efectos basados en la próxima carta del mazo:\nEvento: +3 ATK\nImpulso: +3 DEF\nOtros: +3 EVD.
+descr=Recibe uno de los siguientes efectos basados en la próxima carta del mazo:\nEvento: +3 ATK\nImpulso: +3 DEF\nOtros: +3 EVD.\nTras la batalla, recibes una copia de la próxima carta en el mazo.
 flavor="¡Puedo verlo todo!" ―Arnelle
 
 < CARD_HYPER_MAYNIE >
@@ -596,7 +596,7 @@ flavor="No puedes hacer que un adulto se esfuerze demasiado." ―Kai (Héroe)
 
 < CARD_HYPER_GRAIN >
 name=Todas Las Armas Preparadas
-descr=Paga todos los efectos guardados de Cañón. Un enemigo aleatorio recibe 1 punto de daño. Si el enemigo es noqueado por este efecto, recibes 1 Victoria y Estrellas equivalentes a su Nivel x 10. Este efecto se repite por cada Cañón pagado.
+descr=Recibes un efecto de Cañón y entonces pagas todos los efectos guardados de Cañón. Un enemigo aleatorio recibe 1 punto de daño. Si el enemigo es noqueado por este efecto, recibes 1 Victoria y Estrellas equivalentes a su Nivel x 3. Este efecto se repite por cada Cañón pagado.
 flavor="Todas las armas preparadas, y... ¡FUEGO!" ―Grain
 
 < CARD_HYPER_BOURBON >
@@ -616,7 +616,7 @@ flavor="Supongo que te mostraré una pequeña parte de mi ánimo." ―Chuu
 
 < CARD_HYPER_HARUKA >
 name=Portadora de Ánimos
-descr=Duración: 3 capítulos. Revive a todos los jugadores actualmente noqueados con todos sus PV. Si otro jugador es noqueado, se recuperarán de forma instantánea con todos sus PV. Por cada jugador revivido, recibes sus Estrellas (Valor: Nivel x 5). Este efecto puede ser guardado más de una vez.
+descr=Duración: 3 capítulos. Revive a todos los jugadores actualmente noqueados con todos sus PV. Si un jugador es noqueado, se recuperarán de forma instantánea con todos sus PV. Por cada jugador revivido, recibes sus Estrellas (Valor: Nivel x 5). Este efecto puede ser guardado más de una vez.
 flavor="¡Vamos a animar el juego juntos!" ―Haruka
 
 < CARD_HYPER_KANATA >
@@ -776,7 +776,7 @@ flavor="......" ―Sora
 
 < CARD_GIFT_LUCKYCHARM >
 name=Amuleto de la Suerte
-descr=Recibes Estrellas (Nivel del Jugador x1) al comienzo de tu turno. No podrás usar otras cartas. Esta carta será descartada al ser usada. Al ser derrotado, entregas más estrellas (Nivel del Jugador x3).
+descr=Recibes Estrellas (Nivel del Jugador x1) al comienzo de tu turno. El tamaño de tu mano será reducido a 1. Esta carta será descartada al ser usada. Al ser derrotado, entregas más estrellas (Nivel del Jugador x3).
 flavor="¡Woo-hoo, muchísimas estrellas! ¡¡Hoy es mi día de suerte!!" ―Tomomo
 
 < CARD_GIFT_METALLICMONOCOQUE >
@@ -968,5 +968,10 @@ flavor="Puedo ver las cartas que tienes." ―Kanata
 name=Carta Pancarta
 descr=Esta es una carta pancarta.
 flavor="Puedo ver las cartas que tienes." ―Kanata
+
+< CARD_GENERIC_HYPER >
+name=Carta Especial
+descr=
+
 
 [EOF]

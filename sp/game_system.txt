@@ -2,6 +2,9 @@
 < GAME_SYSTEM_ROLLTOREVIVE >
 o más\npara revivir!
 
+< GAME_SYSTEM_ROLL_MULTIPLE >
+¡Tira\n%d dados!
+
 < GAME_SYSTEM_WINNERSCREEN_STARS >
 Est.
 

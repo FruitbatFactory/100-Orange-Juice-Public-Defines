@@ -50,9 +50,6 @@ Maritan
 < ARTIST_FCROW >
 FCrow
 
-< ARTIST_EOKAMI >
-EOkami
-
 < ARTIST_LUCASSHIROI >
 Lucas-Shiroi
 
@@ -95,11 +92,14 @@ Airie
 < ARTIST_AME >
 Miyazaki Shiyuri
 
-< ARTIST_KAGAWA_YUSAKU >
-Yusaku Kagawa
+< ARTIST_MI3LI >
+mi3li
 
-< ARTIST_SIUMAI >
-Siumai112
+< ARTIST_PENCILCHEWING >
+pencilchewing
+
+< ARTIST_KAGAWA_YUSAKU >
+Kagawa Yusaku
 
 < ARTIST_PASU >
 Pasu
@@ -108,10 +108,13 @@ Pasu
 Tamaki
 
 < ARTIST_YASUMEYUKITO >
-Yasume Yukito
+YasumeYukito
 
 < ARTIST_LVMNOT >
 LVmNoT
+
+< ARTIST_EOKAMI >
+EOkami
 
 < ARTIST_TSUKINO >
 Tsukino
@@ -124,12 +127,6 @@ tian nya
 
 < ARTIST_KOKOROTEN >
 Kokoroten
-
-< ARTIST_MI3LI >
-mi3li
-
-< ARTIST_PENCILCHEWING >
-pencilchewing
 
 < ARTIST_SENCA >
 Senca
@@ -169,5 +166,86 @@ Oyama
 
 < ARTIST_AZUREE >
 Azurée
+
+< ARTIST_MO >
+Mo
+
+< ARTIST_ROSUURI >
+Rosuuri
+
+< ARTIST_AYAMY >
+ayamy
+
+< ARTIST_SUNAKO >
+Sunako
+
+< ARTIST_POTE >
+Ogipote
+
+< ARTIST_MIKO >
+Miko
+
+< ARTIST_SIUMAI >
+Siumai112
+
+< ARTIST_NEKOY >
+Nekoy
+
+< ARTIST_PEAFISH >
+_peafish
+
+< ARTIST_9HF >
+9HF
+
+< ARTIST_KAZEVER >
+Kazever
+
+< ARTIST_SEIKATANIGUCHI >
+Seika Taniguchi
+
+< ARTIST_CHANMEE >
+Chan Mee
+
+< ARTIST_URUMAGIA >
+URUMA GIA
+
+< ARTIST_JADENXD >
+JadenXD
+
+< ARTIST_CALERIUS >
+calerius
+
+< ARTIST_DOUGHHEARTS >
+Dough Hearts
+
+< ARTIST_MK >
+MK
+
+< ARTIST_SPAGLE >
+Spagle
+
+< ARTIST_CMXC >
+cmxc
+
+< ARTIST_DRMOO >
+Dr.moo
+
+< ARTIST_MMK >
+MMK
+
+< ARTIST_RUBEN >
+Shinso
+
+< ARTIST_WUMALUTSUFURI >
+wumalutsufuri
+
+< ARTIST_HOIS >
+HoiS
+
+< ARTIST_PHG >
+PHG
+
+< ARTIST_NAGARE_RALF >
+nagare ralf
 
 [EOF]

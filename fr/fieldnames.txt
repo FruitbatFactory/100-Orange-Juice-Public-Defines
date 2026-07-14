@@ -125,6 +125,9 @@ Course aux Bons Pures
 < FIELD_SCHOOLYARD >
 Cour de Récré
 
+< FIELD_AMBITION >
+Ambition
+
 < FIELD_COOP_LAGOONFLIGHT >
 Au-delà des Lagunes CO
 

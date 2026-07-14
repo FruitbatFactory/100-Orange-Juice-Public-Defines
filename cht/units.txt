@@ -5,7 +5,7 @@ descr=戰鬥中隨機查看對方的1張戰鬥卡。\n「自爆」使對方倒�
 
 < CARD_UNIT_ARTHUR >
 name=亞瑟
-descr=從獎勵格或商店獲得STAR時額外獲得X個，\nX為場上你的「兔子模玩店」的數量，\n上限為你的等級數。
+descr=從獎勵格或商店獲得STAR時額外獲得X個，X為場上你的「兔子模玩店」的數量，上限為你的等級數。
 
 < CARD_UNIT_ARU >
 name=亞琉
@@ -17,19 +17,19 @@ descr=手牌上限為4張。
 
 < CARD_UNIT_BIG_THE_JONATHAN >
 name=大喬納桑
-descr=玩家倒下時，1輪內ATK+1。\n每4輪，在BOSS的回合結束時使用「發射」。\n每10輪，獲得永久ATK+1、DEF·EVD-1。
+descr=玩家倒下時，1輪內ATK+1。\n每4輪，在BOSS的回合結束時使用「發射」。\n每10輪，獲得永久ATK+1，DEF和EVD-1。
 
 < CARD_UNIT_BIG_THE_JONATHAN_HYPER >
 name=大喬納桑
-descr=玩家倒下時，1輪內ATK+1。\n每3輪，在BOSS的回合結束時使用「發射」。\n每10輪，獲得永久ATK+1、DEF·EVD-1。
+descr=玩家倒下時，1輪內ATK+1。\n每3輪，在BOSS的回合結束時使用「發射」。\n每10輪，獲得永久ATK+1，DEF和EVD-1。
 
 < CARD_UNIT_BOSS_CHICKEN >
 name=大春夫
-descr=場上每存在1只雞手下ATK·DEF-1，\n攻擊骰枚數+1。每5輪召喚1只雞手下。
+descr=場上每存在1只雞手下ATK和DEF-1，攻擊骰枚數+1。每5輪召喚1只雞手下。
 
 < CARD_UNIT_BOSS_CHICKEN_HYPER >
 name=大春夫
-descr=場上每存在1只雞手下ATK·DEF-1，\n攻擊骰枚數+1。每5輪召喚2只雞手下。
+descr=場上每存在1只雞手下ATK和DEF-1，攻擊骰枚數+1。每5輪召喚2只雞手下。
 
 < CARD_UNIT_BOSS_POPPO >
 name=星星吞噬者
@@ -53,7 +53,7 @@ descr=在BOSS的回合內，挑戰敵人時不會停步。\n在沒有受到保�
 
 < CARD_UNIT_BOSS_QP >
 name=夏日野獸
-descr=每回合召喚海鷗手下（直到BOSS等級數）。\n手下倒下時失去1點興奮。玩家倒下時獲得\n1點興奮。\n如果在BOSS的回合開始時擁有至少10點\n興奮，開始撒野。
+descr=每回合召喚海鷗手下（直到BOSS等級數）。\n手下倒下時失去1點興奮。玩家倒下時獲得1點興奮。\n如果在BOSS的回合開始時擁有至少10點興奮，開始撒野。
 
 < CARD_UNIT_BOSS_ROPOCHI >
 name=蘿啵雞
@@ -73,7 +73,7 @@ descr=每2輪使用一次「浮標」。\n若場上沒有沙灘球力士，使�
 
 < CARD_UNIT_GOALPOST >
 name=浮標
-descr=無法移動和閃避，且只能被傷害為1的攻擊\n所傷害。
+descr=無法移動和閃避，且只能被傷害為1的攻擊所傷害。
 
 < CARD_UNIT_BALLOON_JERK >
 name=沙灘球力士
@@ -137,7 +137,7 @@ descr=
 
 < CARD_UNIT_IRU >
 name=依琉
-descr=向敵人發起挑戰時，對其造成1點傷害，\n因該效果而擊倒時算作戰鬥擊倒。
+descr=向敵人發起挑戰時，對其造成1點傷害，因該效果而擊倒時算作戰鬥擊倒。
 
 < CARD_UNIT_ISLAY >
 name=艾拉
@@ -157,7 +157,7 @@ descr=
 
 < CARD_UNIT_KIRIKO >
 name=斬子
-descr=恢復效果無效。使用戰鬥卡時，戰鬥中ATK·EVD+1，獲得1層「奇怪的藥」（HP上限-1，下限為2）。
+descr=恢復效果無效。使用戰鬥卡時，戰鬥中ATK和EVD+1，獲得1層「奇怪的藥」（HP上限-1，下限為2）。
 
 < CARD_UNIT_KRILA >
 name=克里拉拉莉絲
@@ -173,7 +173,7 @@ descr=
 
 < CARD_UNIT_MALT >
 name=莫爾特
-descr=被戰鬥擊倒時給予3WIN。無法發起挑戰。\n可以將沒有特殊使用條件的戰鬥卡作為陷阱卡\n放置，無需COST。\n敵人在觸發它時會與你戰鬥，你將獲得該卡片的效果。\n這場戰鬥中你無法使用其它戰鬥卡。
+descr=被戰鬥擊倒時給予3WIN。無法發起挑戰。\n可以將沒有特殊使用條件的戰鬥卡作為陷阱卡放置，無需COST。\n敵人在觸發它時會與你戰鬥，你將獲得該卡片的效果。\n這場戰鬥中你無法使用其它戰鬥卡。
 
 < CARD_UNIT_MANAGER >
 name=店長
@@ -189,11 +189,11 @@ descr=
 
 < CARD_UNIT_MEI >
 name=梅依
-descr=如果在你的回合結束時沒有手牌，\n獲得1張「小紅＆小藍」。
+descr=如果在你的回合結束時沒有手牌，獲得1張「小紅＆小藍」。
 
 < CARD_UNIT_MESCAL >
 name=梅絲卡爾
-descr=在受到挑戰時，有50%幾率「海賊小弟」將會\n代替你進行戰鬥。\n如果這名「海賊小弟」在戰鬥中被擊倒，他將在3輪時間內無法再為你戰鬥。\n其在倒下時給予對方1WIN，\n其在戰鬥中獲得的STAR將給予你的角色。
+descr=在受到挑戰時，有50%幾率「海賊小弟」將會代替你進行戰鬥。\n如果這名「海賊小弟」在戰鬥中被擊倒，他將在3輪時間內無法再為你戰鬥。\n其在倒下時給予對方1WIN，其在戰鬥中獲得的STAR將給予你的角色。
 
 < CARD_UNIT_MIMYUU >
 name=米繆
@@ -201,7 +201,7 @@ descr=以托瑪特復活，此時你可以挑戰同一格的敵人。\n被戰鬥
 
 < CARD_UNIT_MIRA >
 name=米拉
-descr=當你的陷阱被敵人觸發時追加\n「束縛的煙幕」效果：持續效果（2輪）\n移動骰只能投出1、2或3。
+descr=當你的陷阱被敵人觸發時追加「束縛的煙幕」效果：持續效果（2輪）\n移動骰只能投出1、2或3。
 
 < CARD_UNIT_MIUSAKI >
 name=美羽咲
@@ -209,11 +209,11 @@ descr=防禦時一次攻擊最多隻會受到2點傷害。
 
 < CARD_COOP_UNIT_MIUSAKI >
 name=美羽咲
-descr=防禦時一次攻擊最多隻會受到HP上限一半\n的傷害（向上取整）。
+descr=防禦時一次攻擊最多隻會受到HP上限一半的傷害（向上取整）。
 
 < CARD_UNIT_MIXEDPOPPO >
 name=瑪麗啵噗（混成）
-descr=傳送時等級為奇數時\n獲得等級×3的STAR，為偶數時抽1張卡。\n※卡片效果或場地效果的傳送都包含。
+descr=傳送時等級為奇數時獲得等級×3的STAR，為偶數時抽1張卡。\n※卡片效果或場地效果的傳送都包含。
 
 < CARD_UNIT_MIO >
 name=魅櫻
@@ -225,19 +225,19 @@ descr=
 
 < CARD_UNIT_NATH >
 name=娜德
-descr=如在參與戰鬥時有人使用戰鬥卡，獲得1層\n「主動·部件擴張」（上限：3）。\n倒下時失去1層儲備。\n每層儲備使ATK·DEF+1，EVD-1。
+descr=如在參與戰鬥時有人使用戰鬥卡，獲得1層「主動·部件擴張」（上限：3）。\n倒下時失去1層儲備。\n每層儲備使ATK和DEF+1，EVD-1。
 
 < CARD_UNIT_NATSUMI >
 name=夏美
-descr=當你在回合結束時沒有倒下且有存活角色在\n同一格，該格的所有存活角色恢復1點HP。\n獲得由你所恢復的其他角色數×5的STAR。
+descr=當你在回合結束時沒有倒下且有存活角色在同一格，該格的所有存活角色恢復1點HP。\n獲得由你所恢復的其他角色數×5的STAR。
 
 < CARD_COOP_UNIT_NATSUMI >
 name=夏美
-descr=當你在回合結束時沒有倒下且有存活同伴在\n同一格，該格的所有存活友方恢復1點HP。\n獲得由你所恢復的其他友方數×5的STAR。
+descr=當你在回合結束時沒有倒下且有存活同伴在同一格，該格的所有存活友方恢復1點HP。\n獲得由你所恢復的其他友方數×5的STAR。
 
 < CARD_UNIT_NICO >
 name=妮可
-descr=不受禮物卡影響。\n任意來源獲得STAR時額外獲得X個，\nX為持有禮物卡的張數。手牌上限為4張。
+descr=不受禮物卡影響。\n任意來源獲得STAR時額外獲得X個，X為持有禮物卡的張數。手牌上限為4張。
 
 < CARD_UNIT_NONAME >
 name=NoName
@@ -245,7 +245,7 @@ descr=倒下時變為「NoName（頭）」。\n被戰鬥擊倒時不會給予STA
 
 < CARD_UNIT_NONAME_HEAD >
 name=NoName（頭）
-descr=在到達HOME格或倒下時\n變為「NoName」。MOV-1。
+descr=在到達HOME格或倒下時變為「NoName」。\nMOV-1。
 
 < CARD_UNIT_POPPO >
 name=瑪麗啵噗
@@ -261,7 +261,7 @@ descr=
 
 < CARD_UNIT_QPD >
 name=QP（危機）
-descr=持有名稱包含布丁的卡片時，戰鬥中獲得加成。\n危險布丁(ATK+1)、糟糕的布丁(DEF+1)、\n布丁(EVD+1)、便攜布丁(戰鬥擊倒時\n恢復1HP)。
+descr=持有名稱包含布丁的卡片時，戰鬥中獲得加成。\n危險布丁（ATK+1）、糟糕的布丁（DEF+1）、布丁（EVD+1）、便攜布丁（戰鬥擊倒時恢復1HP）。
 
 < CARD_UNIT_ROBOBALL >
 name=機器球
@@ -289,7 +289,7 @@ descr=
 
 < CARD_UNIT_SHERRY >
 name=雪莉
-descr=戰鬥時對方先攻，\n對方也是雪莉時此效果無效。
+descr=戰鬥時對方先攻，對方也是雪莉時此效果無效。
 
 < CARD_UNIT_SHIFUROBOT >
 name=希夫機器人
@@ -297,11 +297,11 @@ descr=
 
 < CARD_UNIT_SHIFUROBOT_MP >
 name=希夫機器人
-descr=以1HP和1HP的吸收外殼開始遊戲，且能夠\n以相同狀態自動復活。\n自動修復：在你的回合開始時，每3輪\n恢復1點HP並移除吸收外殼。\n復活後持續2回合MOV-1。
+descr=以1HP和1HP的吸收外殼開始遊戲，且能夠以相同狀態自動復活。\n自動修復：在你的回合開始時，每3輪恢復1點HP並移除吸收外殼。\n復活後持續2回合MOV-1。
 
 < CARD_COOP_UNIT_SHIFUROBOT >
 name=希夫機器人
-descr=以1HP和1HP的吸收外殼開始遊戲，且能夠\n以相同狀態在2回合後自動復活。\n自動修復：在你的回合開始時，每3輪\n恢復1點HP並移除吸收外殼。\n每次復活時獲得1層萎靡不振效果。\n儲備效果：每層儲備使復活延遲1回合。
+descr=以1HP和1HP的吸收外殼開始遊戲，且能夠以相同狀態在2回合後自動復活。\n自動修復：在你的回合開始時，每3輪恢復1點HP並移除吸收外殼。\n每次復活時獲得1層萎靡不振效果。\n儲備效果：每層儲備使復活延遲1回合。
 
 < CARD_UNIT_SORA >
 name=優空
@@ -309,11 +309,11 @@ descr=
 
 < CARD_UNIT_SORAMILITARY >
 name=優空（軍服）
-descr=被戰鬥擊倒時，\n在下一個你的回合以HP2的狀態復活。
+descr=被戰鬥擊倒時，在下一個你的回合以HP2的狀態復活。
 
 < CARD_COOP_UNIT_SORAMILITARY >
 name=優空（軍服）
-descr=被戰鬥擊倒時，\n在下一個你的回合以HP2的狀態復活。\n每次從戰鬥擊倒復活時獲得1層萎靡不振效果。\n儲備效果：每層儲備使復活延遲1回合。
+descr=被戰鬥擊倒時，在下一個你的回合以HP2的狀態復活。\n每次從戰鬥擊倒復活時獲得1層萎靡不振效果。\n儲備效果：每層儲備使復活延遲1回合。
 
 < CARD_UNIT_STARBREAKER >
 name=星球破壞者
@@ -329,19 +329,19 @@ descr=手牌上限為2張。\n在你的回合開始時恢復1點HP。
 
 < CARD_UNIT_SWEETBREAKER >
 name=甜點破壞者
-descr=與持有翻轉卡的對手戰鬥時，\n獲得對方翻轉卡數量的ATK·DEF·EVD。
+descr=與持有翻轉卡的對手戰鬥時，獲得對方翻轉卡數量的ATK、DEF和EVD。
 
 < CARD_COOP_UNIT_SWEETBREAKER >
 name=甜點破壞者
-descr=和處於融化的記憶效果的角色戰鬥時，ATK·DEF·EVD+1。
+descr=和處於融化的記憶效果的角色戰鬥時，ATK、DEF和EVD+1。
 
 < CARD_UNIT_SYURA >
 name=秀拉
-descr=如果戰鬥開始時HP為1，\nATK·EVD+1，\n直到戰鬥結束。
+descr=如果戰鬥開始時HP為1，ATK和EVD+1，直到戰鬥結束。
 
 < CARD_UNIT_TOMATO >
 name=托瑪特
-descr=以米繆復活並行動。\n被戰鬥擊倒時只會給予1/3的STAR。\n抽到的「陰謀的間諜行動～執行」替換成\n「陰謀機器人出動！」。
+descr=以米繆復活並行動。\n被戰鬥擊倒時只會給予1/3的STAR。\n抽到的「陰謀的間諜行動～執行」替換成「陰謀機器人出動！」。
 
 < CARD_UNIT_TEQUILA >
 name=鐵基拉
@@ -369,7 +369,7 @@ descr=
 
 < CARD_UNIT_TOMOMO_SWEETEATER >
 name=兔萌萌（甜點品嚐者）
-descr=倒下時，丟棄所有手牌\n並變回「兔萌萌（休閒）」。
+descr=倒下時，丟棄所有手牌並變回「兔萌萌（休閒）」。
 
 < CARD_UNIT_TSIH >
 name=杏
@@ -381,15 +381,15 @@ descr=
 
 < CARD_UNIT_YUKI_DANGEROUS >
 name=由希（危機）
-descr=永久將手牌中名稱包含「布丁」的卡片變為\n「深夜的慘劇」。當你的陷阱被其他人觸發時\n獲得1WIN。\n無法通過與野怪戰鬥獲取WIN。
+descr=永久將手牌中名稱包含「布丁」的卡片變為「深夜的慘劇」。當你的陷阱被其他人觸發時獲得1WIN。\n無法通過與野怪戰鬥獲取WIN。
 
 < CARD_UNIT_YUUKI >
 name=夕希
-descr=在奇數輪時，ATK-1·DEF+2。\n在偶數輪時，ATK+2·DEF-1。
+descr=在奇數輪時，ATK-1，DEF+2。\n在偶數輪時，ATK+2，DEF-1。
 
 < CARD_UNIT_SUGURI46 >
 name=須玖莉（460億年）
-descr=使用能造成傷害的增益卡或事件卡時，\n下次移動骰枚數+1。\n你可以支付1.5倍COST（向上取整）使其\n造成雙倍傷害。
+descr=使用能造成傷害的增益卡或事件卡時，下次移動骰枚數+1。\n你可以支付1.5倍COST（向上取整）使其造成雙倍傷害。
 
 < CARD_UNIT_SUMIKA >
 name=棲海花
@@ -409,7 +409,7 @@ descr=
 
 < CARD_UNIT_ALICIANRONE >
 name=亞莉希安羅妮
-descr=戰鬥對手的ATK為+1或以上時，\n在戰鬥結束前EVD+1。\n其ATK為+2或以上時，額外EVD+1。
+descr=戰鬥對手的ATK為+1或以上時，在戰鬥結束前EVD+1。\n其ATK為+2或以上時，額外EVD+1。
 
 < CARD_UNIT_TEOTORATTA >
 name=緹歐特拉塔
@@ -417,11 +417,11 @@ descr=不會觸發遭遇格。
 
 < CARD_UNIT_ARNELLE >
 name=阿妮爾
-descr=持有「情報官」時，\n能看見卡堆頂部的一張卡。
+descr=持有「情報官」時，能看見卡堆頂部的一張卡。
 
 < CARD_UNIT_MAYNIE >
 name=梅妮
-descr=在未處於狂暴模式下時，\n受到傷害獲得1點憤怒值，\n受到恢復失去1點憤怒值。
+descr=在未處於狂暴模式下時，受到傷害獲得1點憤怒值，受到恢復失去1點憤怒值。
 
 < CARD_UNIT_KYUPITA >
 name=QP太
@@ -429,7 +429,7 @@ descr=
 
 < CARD_UNIT_CHRIS >
 name=克麗絲
-descr=手牌上限為4張。\n只有當「廚師長」或「店長」在場時才能\n發起挑戰。\n使用上限為1的非禮物卡時獲得1點店長值。
+descr=手牌上限為4張。\n只有當「廚師長」或「店長」在場時才能發起挑戰。\n使用上限為1的非禮物卡時獲得1點店長值。
 
 < CARD_UNIT_CHEF >
 name=廚師長
@@ -445,23 +445,23 @@ descr=無法挑戰其他玩家。\n與召喚者共享懸賞。
 
 < CARD_UNIT_GUARDIAN_CHAOS >
 name=守護者
-descr=擊敗遭遇格的角色時額外獲得等級×1\n的STAR。
+descr=擊敗遭遇格的角色時額外獲得等級×1的STAR。
 
 < CARD_UNIT_EVILGUARDIAN >
 name=噩兆
-descr=不會在戰鬥外受到傷害或被擊倒。\n經過其他角色時會發起挑戰。\n在戰鬥中擊敗對手時竊取1點聲望，\n未覺醒時可同時獲得1層噬魂者並恢復1點HP。\n被擊敗時給予2點+其聲望竊取量的聲望。
+descr=不會在戰鬥外受到傷害或被擊倒。\n經過其他角色時會發起挑戰。\n在戰鬥中擊敗對手時竊取1點聲望，未覺醒時可同時獲得1層噬魂者並恢復1點HP。\n被擊敗時給予2點+其聲望竊取量的聲望。
 
 < CARD_UNIT_EVILMOUSSE >
 name=黑巧克力嘮鼠
-descr=不會在戰鬥外受到傷害或被擊倒。\n在戰鬥中擊敗對手時竊取1點聲望，\n未覺醒時可同時獲得1層噬星者並恢復1點HP。\n被擊敗時給予2點+其聲望竊取量的聲望。\n戰鬥後傳送至隨機格子。
+descr=不會在戰鬥外受到傷害或被擊倒。\n在戰鬥中擊敗對手時竊取1點聲望，未覺醒時可同時獲得1層噬星者並恢復1點HP。\n被擊敗時給予2點+其聲望竊取量的聲望。\n戰鬥後傳送至隨機格子。
 
 < CARD_UNIT_FAE >
 name=奧羅拉
-descr=MOV+1。無法挑戰其他玩家。\n每偶數輪恢復1點召喚者的HP，\n或是將其以一半HP復活。
+descr=MOV+1。無法挑戰其他玩家。\n每偶數輪恢復1點召喚者的HP，或是將其以一半HP復活。
 
 < CARD_UNIT_FAE_CHAOS >
 name=奧羅拉
-descr=MOV+1。每偶數輪恢復1點自己的HP，\n或是將自己以一半HP復活。\n當你在回合結束時沒有倒下且有存活玩家在\n同一格，該格的所有存活玩家恢復1點HP。\n獲得由你所恢復的其他玩家數×5的STAR。
+descr=MOV+1。每偶數輪恢復1點自己的HP，或是將自己以一半HP復活。\n當你在回合結束時沒有倒下且有存活玩家在同一格，該格的所有存活玩家恢復1點HP。\n獲得由你所恢復的其他玩家數×5的STAR。
 
 < CARD_UNIT_MERCENARY >
 name=傭兵
@@ -469,7 +469,7 @@ descr=經過其他玩家時會發起挑戰。\n戰鬥中獲得STAR的50%將給�
 
 < CARD_UNIT_HALENA >
 name=哈琳娜
-descr=停留在自己的HOME格時獲得\n等級×2的STAR。
+descr=停留在自己的HOME格時獲得等級×2的STAR。
 
 < CARD_UNIT_COOK >
 name=庫克
@@ -477,23 +477,23 @@ descr=使用閃避時獲得1層飢餓（最多3層）。\n擁有3層飢餓時EVD
 
 < CARD_UNIT_LONERIDER >
 name=孤獨車手
-descr=當你移動骰結果到達7或以上時，\nATK+1·DEF+1·EVD+2，\n直到下一個你的回合開始。
+descr=當你移動骰結果到達7或以上時，ATK+1和DEF+1，EVD+2，直到下一個你的回合開始。
 
 < CARD_UNIT_MERCHANT >
 name=商人
-descr=手牌上限為4張。\n停留在他人的HOME格時\n獲得一張「貨物」。
+descr=手牌上限為4張。\n停留在他人的HOME格時獲得一張「貨物」。
 
 < CARD_UNIT_HIMEV2 >
 name=月夜姬夢
-descr=在滿月期間（每5輪），基礎能力值\n變為ATK-1·DEF-1·EVD+3。
+descr=在滿月期間（每5輪），基礎能力值變為ATK-1，DEF-1，EVD+3。
 
 < CARD_UNIT_FERNETNOBLE >
 name=社交界的菲爾涅特
-descr=任何玩家在場上挑戰你時，必須支付其等級數\n的STAR。
+descr=任何玩家在場上挑戰你時，必須支付其等級數的STAR。
 
 < CARD_COOP_UNIT_FERNETNOBLE >
 name=社交界的菲爾涅特
-descr=任何敵人在場上挑戰你時，支付你等級數\n的STAR。
+descr=任何敵人在場上挑戰你時，支付你等級數的STAR。
 
 < CARD_UNIT_SHIFU >
 name=希夫
@@ -501,23 +501,23 @@ descr=對機械系野怪造成的戰鬥傷害+2。\n當機械系野怪擊倒其�
 
 < CARD_UNIT_REIKA >
 name=星乃麗華
-descr=只能選擇STAR目標。\n除輪初獎勵與星星收集者外，\n任意來源獲得STAR時額外獲得1個。
+descr=只能選擇STAR目標。\n除輪初獎勵與星星收集者外，任意來源獲得STAR時額外獲得1個。
 
 < CARD_UNIT_WATTY >
 name=沃緹
-descr=戰鬥結束時，防禦每抵消1點傷害獲得1層\n硬化鱗片（最多5層）。（持續3輪：每層儲備\n使ATK+1。倒下時效果結束。）
+descr=戰鬥結束時，防禦每抵消1點傷害獲得1層硬化鱗片（最多5層）。（持續3輪：每層儲備使ATK+1。倒下時效果結束。）
 
 < CARD_UNIT_POMERANIUS >
 name=波美拉尼亞斯
-descr=當你的HP為上限及以上時，不會觸發踩到的\n陷阱卡。
+descr=當你的HP為上限及以上時，不會觸發踩到的陷阱卡。
 
 < CARD_COOP_UNIT_WATTY >
 name=沃緹
-descr=戰鬥結束時，防禦每抵消2點傷害獲得1層\n硬化鱗片（最多5層）。（持續3輪：每層儲備\n使ATK+1。倒下時效果結束。）
+descr=戰鬥結束時，防禦每抵消2點傷害獲得1層硬化鱗片（最多5層）。（持續3輪：每層儲備使ATK+1。倒下時效果結束。）
 
 < CARD_UNIT_LOSTROGUE >
 name=迷失盜賊
-descr=不會在戰鬥外受到傷害或被擊倒。\n經過其他角色時會發起挑戰。\n戰鬥中有25%幾率使出暴擊。（暴擊會使\n攻擊骰結果翻倍）\n每5回合對3×3範圍內隨機3格上的角色\n造成2點傷害，隨機讓其中1張契約受到詛咒。
+descr=不會在戰鬥外受到傷害或被擊倒。\n經過其他角色時會發起挑戰。\n戰鬥中有25%幾率使出暴擊（暴擊會使攻擊骰結果翻倍）。\n每5回合對3×3範圍內隨機3格上的角色造成2點傷害，隨機讓其中1張契約受到詛咒。
 
 < CARD_UNIT_SHADYMERCHANT >
 name=可疑商人
@@ -525,15 +525,15 @@ descr=向玩家兜售物品。免疫事件與卡片效果。
 
 < CARD_UNIT_SWEETCREATOR >
 name=甜點創造者
-descr=當其他任何人使用非陷阱甜點類卡片，或觸發\n甜點類陷阱卡時，你獲得卡片等級×2的STAR。
+descr=當其他任何人使用非陷阱甜點類卡片，或觸發甜點類陷阱卡時，你獲得卡片等級×2的STAR。
 
 < CARD_UNIT_SWEETMAKER >
 name=紗季（甜點製作者）
-descr=在觸發遭遇格並存活時，\n抽取1張可用等級的甜點類卡片。
+descr=在觸發遭遇格並存活時，抽取1張可用等級的甜點類卡片。
 
 < CARD_UNIT_SWEETBLOGGER >
 name=夏美（甜點評論者）
-descr=所有甜點類卡片無需COST。\n在觸發掉落格並存活時，\n抽取1張可用等級的甜點類卡片。
+descr=所有甜點類卡片無需COST。\n在觸發掉落格並存活時，抽取1張可用等級的甜點類卡片。
 
 < CARD_UNIT_BOSSJONATHAN_CHAOS >
 name=大喬納桑
@@ -545,7 +545,7 @@ descr=
 
 < CARD_UNIT_AGGRESSIVECHICKEN_CHAOS >
 name=好鬥雞
-descr=召喚者的攻擊骰枚數+1，\nATK·DEF-2。\n如果你的對手在戰鬥中擁有多於1的基礎\nATK，ATK+1。
+descr=召喚者的攻擊骰枚數+1，ATK和DEF-2。\n如果你的對手在戰鬥中擁有多於1的基礎ATK，ATK+1。
 
 < CARD_UNIT_BOSSM10_CHAOS >
 name=M10機器人
@@ -553,15 +553,15 @@ descr=在你的回合內，挑戰敵人時不會停步。
 
 < CARD_UNIT_BOSSSTARDEV_CHAOS >
 name=星星吞噬者
-descr=戰鬥中，每造成1點傷害偷取1顆STAR，\n每受到1點傷害交出1顆STAR。\n當你擁有200顆STAR，並將其選為最終\n目標時，自動取得勝利。
+descr=戰鬥中，每造成1點傷害偷取1顆STAR，每受到1點傷害交出1顆STAR。\n當你擁有200顆STAR，並將其選為最終目標時，自動取得勝利。
 
 < CARD_UNIT_POPPO_CHAOS >
 name=混沌啵噗
-descr=造成的每點傷害改為偷取2顆STAR，並\n直接給予召喚者。\n倒下時給予2WIN，和10個召喚者的\nSTAR。
+descr=造成的每點傷害改為偷取2顆STAR，並直接給予召喚者。\n倒下時給予2WIN，和10個召喚者的STAR。
 
 < CARD_UNIT_BOSSQP_CHAOS >
 name=夏日野獸
-descr=戰鬥中，每當造成/受到傷害時獲得1點興奮。\n其他玩家倒下時獲得2點興奮。上限為10。\n當你擁有4點以上的興奮時，自動以最大HP\n復活，並將其全部消耗。
+descr=戰鬥中，每當造成/受到傷害時獲得1點興奮。\n其他玩家倒下時獲得2點興奮。上限為10。\n當你擁有4點以上的興奮時，自動以最大HP復活，並將其全部消耗。
 
 < CARD_UNIT_BOSSROPOCHI_CHAOS >
 name=蘿啵雞
@@ -577,7 +577,7 @@ descr=
 
 < CARD_UNIT_KRILAPAJAMAS >
 name=睡衣克里拉拉莉絲
-descr=戰鬥時無法選擇閃避。\n若你在使用防禦時受到的傷害為1點，\n消除此傷害，將等級數的STAR支付給對手。
+descr=戰鬥時無法選擇閃避。\n若你在使用防禦時受到的傷害為1點，消除此傷害，將等級數的STAR支付給對手。
 
 < CARD_UNIT_MIMYUUJAILBIRD >
 name=囚犯米繆
@@ -585,7 +585,7 @@ descr=被戰鬥擊倒時，移動至自己的HOME格。
 
 < CARD_UNIT_MOTHERP >
 name=母親啵噗
-descr=傳送時受到1點傷害。\n若在傳送後依然存活，抽取1張卡，獲得\n等級數的STAR。
+descr=傳送時受到1點傷害。\n若在傳送後依然存活，抽取1張卡，獲得等級數的STAR。
 
 < CARD_UNIT_DARKL >
 name=黑暗露露
@@ -597,23 +597,23 @@ descr=放棄挑戰他人時，你失去等級數×1的STAR。
 
 < CARD_UNIT_HELLIE >
 name=超能艾莉
-descr=在先攻的戰鬥中，ATK+1，\nDEF·EVD-1。
+descr=在先攻的戰鬥中，ATK+1，DEF和EVD-1。
 
 < CARD_UNIT_HKAI >
 name=勇者凱
-descr=因戰鬥外傷害使HP低於1點時，殘留1點HP；\n若在你的回合結束時依然只有1點HP，\n則會被擊倒。
+descr=因戰鬥外傷害使HP低於1點時，殘留1點HP；\n若下次你的回合結束時依然只有1點HP，則會被擊倒。
 
 < CARD_UNIT_GRAIN >
 name=格雷因
-descr=MOV-1。使用卡片時獲得1枚砲彈\n（上限為9）。
+descr=MOV-1。使用卡片時獲得1枚砲彈（上限為9）。
 
 < CARD_UNIT_BOURBON >
 name=波本
-descr=當你受到戰鬥傷害時，\nHP上限-1（下限為3），效果持續至倒下。
+descr=當你受到戰鬥傷害時，HP上限-1（下限為3），效果持續至倒下。
 
 < CARD_UNIT_POYO >
 name=啵悠
-descr=當所有玩家的總等級數為4的倍數時，\n攻擊·防禦·閃避·移動·獎勵·\n掉落骰結果+1。
+descr=當所有玩家的總等級數為4的倍數時，攻擊、防禦、閃避、移動、獎勵和掉落骰結果+1。
 
 < CARD_UNIT_CHUU >
 name=紬
@@ -621,34 +621,34 @@ descr=
 
 < CARD_COOP_UNIT_POYO >
 name=啵悠
-descr=當BOSS的下一張卡為HYPER或3級卡時，\n攻擊·防禦·閃避·移動·獎勵·\n掉落骰結果+1。
+descr=當BOSS的下一張卡為HYPER或3級卡時，攻擊、防禦、閃避、移動、獎勵和掉落骰結果+1。
 
 < CARD_UNIT_HARUKA >
 name=春留果
-descr=戰鬥開始時，每名處於倒下的玩家\n使你ATK-1。
+descr=戰鬥開始時，倒下的玩家會使你ATK-1。
 
 < CARD_COOP_UNIT_HARUKA >
 name=春留果
-descr=戰鬥開始時，每名處於倒下的同伴\n使你ATK-1。
+descr=戰鬥開始時，倒下的同伴會使你ATK-1。
 
 < CARD_UNIT_KANATA >
 name=夏奈多
-descr=持有「故弄玄虛」時，有50%概率可以看到\n對手抽取的卡片的基礎卡片類型。
+descr=持有「故弄玄虛」時，有50%概率可以看到對手抽取的卡片的基礎卡片類型。
 
 < CARD_COOP_UNIT_YUKI_DANGEROUS >
 name=由希（危機）
-descr=永久將手牌中的「深夜的慘劇」變為「布丁」。\n當你的陷阱被敵人觸發時\n獲得1WIN。\n在戰鬥中擊敗野怪時最多隻能獲取1WIN。
+descr=永久將手牌中的「深夜的慘劇」變為「布丁」。\n當你的陷阱被敵人觸發時獲得1WIN。\n在戰鬥中擊敗野怪時最多隻能獲取1WIN。
 
 < CARD_UNIT_POPOMI >
 name=真里啵啵美
-descr=擲骰時獲得1層勞損。若達到30層勞損，\n在你的下個回合開始時獲得腱鞘炎：\n持續效果（1輪）\n每次擲骰有60%幾率結果為0。\n該效果可由2點以上恢復量的單次恢復效果或「精確擲骰」消除。
+descr=擲骰時獲得1層勞損。若達到30層勞損，在你的下個回合開始時獲得腱鞘炎：\n持續效果（1輪）\n每次擲骰有60%幾率結果為0。\n該效果可由2點以上恢復量的單次恢復效果或「精確擲骰」消除。
 
 < CARD_UNIT_MIMOMO >
 name=馬路川美萌萌
 descr=先攻時ATK+1、EVD-1。\n後攻時DEF+1。
 
 < CARD_UNIT_KURIE >
-name=天津慄克莉艾
+name=天津栗克莉艾
 descr=
 
 [EOF]

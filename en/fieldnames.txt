@@ -125,6 +125,9 @@ Pures Stamp Rally
 < FIELD_SCHOOLYARD >
 Schoolyard
 
+< FIELD_AMBITION >
+Ambition
+
 < FIELD_COOP_LAGOONFLIGHT >
 Lagoon Flight CO
 

@@ -630,6 +630,9 @@ Ultimate Weapon Girl: 폿포
 <PROFILE_GALLERY_BGM_FIELD_SCHOOLYARD>
 필드 인트로: 교정
 
+<PROFILE_GALLERY_BGM_FIELD_AMBITION>
+필드 인트로: 야망
+
 <PROFILE_TRACKER_PROGRESS>
 진행도: {}%
 
@@ -676,7 +679,7 @@ Ultimate Weapon Girl: 폿포
 수수께끼 주머니
 
 <PROFILE_TRACKER_INSTRUCTION_CHARACTER_KO_BOSSES>
-{1}(으)로 {0} KO시키기.
+{1}(으)로 보스 {0}명 KO시키기.
 
 <PROFILE_TRACKER_RAD_POPPO>
 간지 폿포

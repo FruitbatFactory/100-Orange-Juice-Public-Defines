@@ -125,6 +125,9 @@ Rally De Estampas Pures
 < FIELD_SCHOOLYARD >
 Pátio Escolar
 
+< FIELD_AMBITION >
+Ambição
+
 < FIELD_COOP_LAGOONFLIGHT >
 Voo da Lagoa CO
 

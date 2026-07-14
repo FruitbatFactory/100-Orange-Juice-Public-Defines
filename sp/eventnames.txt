@@ -49,4 +49,7 @@ Rivales del Club
 < EVENTNAME_VALENTINES >
 Chocolate Para las Diosas de los Dulces
 
+< EVENTNAME_SUMMER2026 >
+Rivales Resplandecientes
+
 [EOF]

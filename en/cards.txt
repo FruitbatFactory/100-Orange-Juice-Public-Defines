@@ -286,7 +286,7 @@ flavor="With this power, everything in the sky will be ours." ―Guild Master
 
 < CARD_HYPER_CHICKEN >
 name=Golden Egg
-descr=If target is Chicken, Stock Effect (3). Drop Panels will act as Bonus Panels.\nOtherwise, Stock Effect (3).\nBonus Panels will act as Drop Panels.
+descr=If target is Chicken, Stock Effect (3). Drop Panels will act as Bonus Panels.\nOtherwise, Stock Effect (3).\nBonus Panels will act as Drop Panels. Trap setter gains stars equal to the amount of dropped stars. 
 flavor="Cluuuuck!" ―Chicken
 
 < CARD_HYPER_BALL >

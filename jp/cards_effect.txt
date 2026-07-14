@@ -707,11 +707,13 @@ descr=1ダメージ受ける度にレベル分のスターを得る。ユニッ�
 
 < CARD_HYPERMIRACLE_EFFECT >
 name=エリィ・ハイパーミラクル
-descr=☆2ターン持続\nバトルで先制時にATK+X、後攻時にDEF・EVD+X。Xは現在のノルマ達成数。
+descr=Gain +X ATK in battle when attacker, and +X DEF and +X EVD when defender. X = your total Norma completed.
+desc=バトルで攻撃する時、ATK+X。攻撃を受ける時、DEF・EVD+X。Xは現在のノルマ達成数。
 
 < CARD_MOMENTOFGLORY_EFFECT >
 name=元主役の活躍
-descr=★コスト：レベル×10\n自身のHPが1になる代わりに、3ターンの間ATK+4・EVD+5。
+descr=Gain +2 ATK and +5 EVD.
+desc=ATK+2・EVD+5。
 
 < CARD_HKAIPASSIVE_EFFECT >
 name=セカンドウィンド

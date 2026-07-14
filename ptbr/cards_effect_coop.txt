@@ -2,6 +2,10 @@
 name=Desarmamento Enganoso
 descr=Pule a próxima ação.
 
+< CARD_UNLUCKYBEAST_EFFECT >
+name=Besta Azarada
+descr=Pule sua próxima ação.
+
 < CARD_STUFFED_EFFECT >
 name=Cheia
 descr=Ganhe -1 ATK na próxima batalha.

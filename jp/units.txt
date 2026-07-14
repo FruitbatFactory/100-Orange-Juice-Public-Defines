@@ -625,11 +625,11 @@ descr=ボスが次に使うカードがハイパーかレベル3カードの時�
 
 < CARD_UNIT_HARUKA >
 name=ハルカ
-descr=現在ダウンしているプレイヤー1人につき、バトル開始時にATK-1。
+descr=ダウン状態のプレイヤーが1人いる場合、バトル開始時にATK-1。
 
 < CARD_COOP_UNIT_HARUKA >
 name=ハルカ
-descr=現在ダウンしている味方1人につき、バトル開始時にATK-1。
+descr=ダウン状態の味方が1人いる場合、バトル開始時にATK-1。
 
 < CARD_UNIT_KANATA >
 name=カナタ

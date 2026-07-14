@@ -356,6 +356,9 @@ Campo de Juego: El Vacío
 <PROFILE_GALLERY_BGM_FIELD_SCHOOLYARD>
 Campo de Juego: Patio
 
+<PROFILE_GALLERY_BGM_FIELD_AMBITION>
+Campo de Juego: Ambición
+
 <PROFILE_GALLERY_BGM_HARBINGER>
 El Presagio
 

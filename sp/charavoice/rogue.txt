@@ -87,3 +87,4 @@
 <0086> Tú eres mi objetivo. Nada personal, solo negocio.
 <0087> Vamos a divertirnos...
 <0088> ¡Este es tu fin!
+<0089> ¡El tiempo se acaba, novatos!

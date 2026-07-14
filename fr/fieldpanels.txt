@@ -1,0 +1,86 @@
+< FIELD_PANEL_NEUTRAL >
+Neutre
+
+< FIELD_PANEL_BONUS >
+Bonus
+
+< FIELD_PANEL_DROP >
+Malus
+
+< FIELD_PANEL_DRAW >
+Pioche
+
+< FIELD_PANEL_ENCOUNTER >
+Ennemi
+
+< FIELD_PANEL_BOSS >
+Boss
+
+< FIELD_PANEL_HOME >
+Maison
+
+< FIELD_PANEL_WARP >
+Portail
+
+< FIELD_PANEL_WARPMOVE >
+Portail-Déplacement
+
+< FIELD_PANEL_MOVE >
+Déplacement
+
+< FIELD_PANEL_HEAL >
+Soin
+
+< FIELD_PANEL_DAMAGE >
+Dégât
+
+< FIELD_PANEL_MUD >
+Boue
+
+< FIELD_PANEL_SNOW >
+Neige
+
+< FIELD_PANEL_PLAYGROUND >
+Jeu
+
+< FIELD_PANEL_DECORATION >
+Décoration
+
+< FIELD_PANEL_PLAYER >
+Duel
+
+< FIELD_PANEL_RANDOM >
+Aléatoire
+
+< FIELD_PANEL_BOSSHOME >
+Maison - Boss
+
+< FIELD_PANEL_DECK >
+Deck
+
+< FIELD_PANEL_SPEC >
+Spectateur
+
+< FIELD_PANEL_BONUS_DOUBLE >
+Bonus (x2)
+
+< FIELD_PANEL_DROP_DOUBLE >
+Malus (x2)
+
+< FIELD_PANEL_DRAW_DOUBLE >
+Pioche (x2)
+
+< FIELD_PANEL_ENCOUNTER_DOUBLE >
+Ennemi (X2)
+
+< FIELD_PANEL_WARPMOVE_DOUBLE >
+Portail-Déplacement (x2)
+
+< FIELD_PANEL_MOVE_DOUBLE >
+Déplacement (x2)
+
+< FIELD_PANEL_HEAL_DOUBLE >
+Soin (x2)
+
+< FIELD_PANEL_DAMAGE_DOUBLE >
+Dégât (x2)

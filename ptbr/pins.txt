@@ -198,6 +198,11 @@ name=Nico Parada
 desc=Entregue a jogadores que jogaram bastante de Nico.\nEla vai sempre tentar seu melhor!
 artist=Azurée
 
+< PIN_FLYING_CUTIES >
+name=Fofuras Voadoras
+desc=Entregue a jogadores que jogaram bastante de Fofuras.\nUma carreira no palco as espera!
+artist=Azurée
+
 < PIN_IDLE_CUTIES >
 name=Fofuras Paradas
 desc=Entregue a jogadores que jogaram bastante de Fofuras.\nUma carreira no palco as espera!

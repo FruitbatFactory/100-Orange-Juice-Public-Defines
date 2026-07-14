@@ -2,32 +2,32 @@
 Время
 
 < ARCADE_MINIGAME_RULE_NUMBER_CPU >
-Количество ботов
+Кол-во Ботов
 
 // Will also be used in memory match
 < ARCADE_MINIGAME_RULE_CARDSHUFFLE_CARD_NB >
-Количество Карт
+Кол-во Карт
 
 < ARCADE_MINIGAME_RULE_CARDSHUFFLE_SPEED >
-Скорость Тасовки
+Скорость Игры
 
 < ARCADE_MINIGAME_RULE_ROULETTE_SIZE >
 Размер Колеса
 
 < ARCADE_MINIGAME_RULE_ROULETTE_SPEED >
-Скорость Колеса
+Скор. Колеса
 
 < ARCADE_MINIGAME_RULE_WHACK_SPAWN_SPEED >
-Скорость Игры
+Скор. Появления
 
 < ARCADE_MINIGAME_RULE_SHOOT_BALLOON_AMOUNT >
-Количество Шаров
+Кол-во Шаров
 
 < ARCADE_MINIGAME_RULE_SHOOT_BALLOON_SPEED >
 Скорость Шаров
 
 < ARCADE_MINIGAME_RULE_SHOOT_DART_AMOUNT >
-Количество Дротиков
+Кол-во Дротиков
 
 < ARCADE_MINIGAME_RULE_MARCH_SPEED >
 Скорость Игры
@@ -35,22 +35,23 @@
 < ARCADE_MINIGAME_RULE_FAF_ABILITIES >
 Умения
 
-<ARCADE_MINIGAME_RULE_PROJECTMARBLE_LIFENUMBER>
-Шарики Количество Жизней
-
-<ARCADE_MINIGAME_RULE_PROJECTMARBLE_SPEED> 
-Шарики Скорость
-
-<ARCADE_MINIGAME_RULE_PEEKSHROOM_ATTEMPTS> 
-Грибогляд Число Попыток
-
-<ARCADE_MINIGAME_RULE_BAKERY_OBJECT_AMOUNT> 
-Количество объектов в пекарне 
-
-<ARCADE_MINIGAME_RULE_BAKERY_SPAWN_DELAY>
-Кулдаун появления предметов в пекарне 
 
 < ARCADE_MINIGAME_OPTION_INFINITE >
 Бесконечно
+
+< ARCADE_MINIGAME_RULE_PROJECTMARBLE_LIFENUMBER >
+Жизни
+
+< ARCADE_MINIGAME_RULE_PROJECTMARBLE_SPEED >
+Скорость Игры
+
+< ARCADE_MINIGAME_RULE_BAKERY_OBJECT_AMOUNT >
+Кол-во Вещей
+
+< ARCADE_MINIGAME_RULE_BAKERY_SPAWN_DELAY >
+Задержка
+
+< ARCADE_MINIGAME_RULE_PEEKSHROOM_ATTEMPTS >
+Попыток
 
 [EOF]

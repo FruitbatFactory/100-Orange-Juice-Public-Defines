@@ -49,4 +49,7 @@
 < EVENTNAME_VALENTINES >
 スイーツ神たちにチョコレートを
 
+< EVENTNAME_SUMMER2026 >
+絢爛なライバル
+
 [EOF]

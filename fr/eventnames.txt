@@ -49,4 +49,7 @@ Challenge au Club
 < EVENTNAME_VALENTINES >
 Chocolat des Déesses du Sucre
 
+< EVENTNAME_SUMMER2026 >
+Rivales Harmonieuses
+
 [EOF]

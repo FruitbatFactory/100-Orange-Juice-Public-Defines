@@ -1,0 +1,86 @@
+< FIELD_PANEL_NEUTRAL >
+Нейтральн. Пан.
+
+< FIELD_PANEL_BONUS >
+Пан. Бонусов
+
+< FIELD_PANEL_DROP >
+Пан. Штрафов
+
+< FIELD_PANEL_DRAW >
+Пан. Карт
+
+< FIELD_PANEL_ENCOUNTER >
+Пан. Боя
+
+< FIELD_PANEL_BOSS >
+Пан. Боя с Боссом
+
+< FIELD_PANEL_HOME >
+Пан. Дома
+
+< FIELD_PANEL_WARP >
+Пан. Телепортации
+
+< FIELD_PANEL_WARPMOVE >
+Пан. Телепорт-Передвижения
+
+< FIELD_PANEL_MOVE >
+Пан. Передвижения
+
+< FIELD_PANEL_HEAL >
+Пан. Лечения
+
+< FIELD_PANEL_DAMAGE >
+Пан. Урона
+
+< FIELD_PANEL_MUD >
+Грязь
+
+< FIELD_PANEL_SNOW >
+Снег
+
+< FIELD_PANEL_PLAYGROUND >
+Пан. Игр
+
+< FIELD_PANEL_DECORATION >
+Декоратив. Пан.
+
+< FIELD_PANEL_PLAYER >
+Пан. Боя с Игроком
+
+< FIELD_PANEL_RANDOM >
+Случайн. Панель
+
+< FIELD_PANEL_BOSSHOME >
+Пан. Дома Босса
+
+< FIELD_PANEL_DECK >
+Пан. Для Колоды
+
+< FIELD_PANEL_SPEC >
+Пан. Для Наблюдателей
+
+< FIELD_PANEL_BONUS_DOUBLE >
+Пан. Бонусов (×2)
+
+< FIELD_PANEL_DROP_DOUBLE >
+Пан. Штрафов (×2)
+
+< FIELD_PANEL_DRAW_DOUBLE >
+Пан. Карт (×2)
+
+< FIELD_PANEL_ENCOUNTER_DOUBLE >
+Пан. Боя (×2)
+
+< FIELD_PANEL_WARPMOVE_DOUBLE >
+Пан. Телепорт-Передвижения (×2)
+
+< FIELD_PANEL_MOVE_DOUBLE >
+Пан. Передвижения (×2)
+
+< FIELD_PANEL_HEAL_DOUBLE >
+Пан. Лечения (×2)
+
+< FIELD_PANEL_DAMAGE_DOUBLE >
+Пан. Урона (×2)

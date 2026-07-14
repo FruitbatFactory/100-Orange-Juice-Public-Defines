@@ -35,7 +35,7 @@
 
 // <player name>, <coop role>, Level <lvl>
 < DISCORD_INGAME_PLAYER_DETAILS_COOP >
-%s, %s — %d Уровень
+%s, %s %d Уровня 
 
 < DISCORD_INGAME_BOUNTYHUNTER_MODE >
 Охота за Головами
@@ -46,11 +46,11 @@
 < DISCORD_INGAME_SHROOM_MODE >
 Гонка за Грибами
 
-< DISCORD_INGAME_TAGTEAM_MODE >
-Режим командного боя
+< DISCORD_INGAME_SCHOOL_MODE >
+Школьные Прогульщики
 
 < DISCORD_INGAME_CHAOS_MODE >
-Режим хаоса
+Режим Хаоса
 
-< DISCORD_INGAME_SCHOOL_MODE >
-Режим «Школьные разрушители»
+< DISCORD_INGAME_TAGTEAM_MODE >
+Командный Режим

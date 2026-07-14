@@ -141,6 +141,12 @@
 <0140> ¡Estoy agradecida! ¡Gracias, gracias!
 <0141> Yo ganaré esta partida, Chuu.
 <0142> Tú cuida mi espalda, Chuu.
+<0143> ¡Vamos a divertirnos, Haru!
+<0144> ¡Me siento feliz de unir fuerzas contigo, Haru!
+<0145> El juego no es fácil... cuando Kana es tu oponente.
+<0146> Tener a Kana de mi lado se siente reconfortante.
+<0147> No estoy segura de qué tan bien juega Popo.
+<0148> Popo... ¿acaso eres buena en esto?
 <0149> ¡Muy bien, vamos a empezar con las actividades del club!
 <0150> ¡Ah, soy una gran fan de ti, Q!
 <0151> ¡Ah, es Q!

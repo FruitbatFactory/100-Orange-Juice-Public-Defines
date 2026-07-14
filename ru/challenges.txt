@@ -1,8 +1,8 @@
 < CHALLENGE_TOOLTIP_REROLL >
-Заплатите %d Звёзд, чтобы заменить испытание, на другое такого же типа.
+Заплатите %d звёзд, чтобы заменить испытание на другое такого же типа.
 
 < CHALLENGE_TOOLTIP_STARCOUNT >
-Количество ваших Звёзд: %d
+Имеется звёзд: %d
 
 < CHALLENGE_GENERIC_PLAYS >
 Сыграйте %d игр.
@@ -11,10 +11,10 @@
 Выиграйте %d игр.
 
 < CHALLENGE_GENERIC_STARS >
-Соберите %d Звёзд.
+Соберите %d звёзд.
 
 < CHALLENGE_GENERIC_KOS >
-Заработайте %d Побед.
+Получите %d Побед.
 
 < CHALLENGE_GENERIC_STAR_WINS >
 Выиграйте %d игр со Звёздными Нормами.
@@ -29,10 +29,10 @@
 Разместите %d ловушек.
 
 < CHALLENGE_GENERIC_STAR_NORMAS >
-Завершите %d Звёздных Норм.
+Сдайте %d Звёздных Норм.
 
 < CHALLENGE_GENERIC_WIN_NORMAS >
-Завершите %d Победных Норм.
+Сдайте %d Победных Норм.
 
 < CHALLENGE_GENERIC_DAMAGE_DEALT >
 Нанесите %d урона.
@@ -50,43 +50,43 @@
 Используйте %d боевых карт.
 
 < CHALLENGE_UNIT_PLAYS >
-Сыграйте %d игр за %s.
+Сыграйте %d игр за юнита %s.
 
 < CHALLENGE_UNIT2_PLAYS >
-Сыграйте %d игр за %s или %s.
+Сыграйте %d игр за юнита %s или %s.
 
 < CHALLENGE_UNIT_WINS >
-Выиграйте %d игр за %s.
+Выиграйте %d игр за юнита %s.
 
 < CHALLENGE_TYPE_UNIT_STAR_NORMAS >
-Завершите %d Звёздных Норм за %s.
+Сдайте %d Звёздных Норм за юнита %s.
 
 < CHALLENGE_TYPE_UNIT_WIN_NORMAS >
-Завершите %d Победных Норм за %s.
+Сдайте %d Победных Норм за юнита %s.
 
 < CHALLENGE_CARD_BRING >
-Возьмите с собой минимум 1 %s в %d игр.
+Возьмите с собой карту %s в %d игр.
 
 < CHALLENGE_CARD_PLAY >
-Используйте %s %d раз.
+Используйте карту %s %d раз.
 
 < CHALLENGE_CARD2_BRING >
-Возьмите с собой минимум 1 %s или %s в %d игр.
+Возьмите с собой карту %s или %s в %d игр.
 
 < CHALLENGE_CARD2_PLAY >
-Используйте %s или %s %d раз.
+Используйте карту %s или %s %d раз.
 
 < CHALLENGE_MAP_PLAY >
-Сыграйте %d игр на %s.
+Сыграйте %d игр на поле %s.
 
 < CHALLENGE_MAP2_PLAY >
-Сыграйте %d игр на %s или %s.
+Сыграйте %d игр на поле %s или %s.
 
 < CHALLENGE_TYPE_EVENT_VDAY_CHOCOLATE >
 Нокаутируйте %d игроков играя с шоколадным кубиком.
 
 < CHALLENGE_TYPE_EVENT_VDAY_HEARTS >
-Соберите с бонусных панелей %d Звёзд играя с кубиком-сердечком.
+Соберите %d звёзд с панелей Бонусов играя с кубиком-сердечком.
 
 < CHALLENGE_TYPE_EVENT_XMAS_ICE >
 Проскользите через %d ледяных панелей.

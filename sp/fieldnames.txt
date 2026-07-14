@@ -63,7 +63,7 @@ El Vórtice
 Cielos Dulces
 
 < FIELD_STARSHIP >
-Campo Estelar
+Nave Estelar
 
 < FIELD_FROSTCAVE >
 Caverna Congelada
@@ -121,6 +121,9 @@ Carrera de Estampas Pures
 
 < FIELD_SCHOOLYARD >
 Patio
+
+< FIELD_AMBITION >
+Ambición
 
 < FIELD_COOP_LAGOONFLIGHT >
 Vuelos en la Laguna (CO)

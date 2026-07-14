@@ -357,6 +357,9 @@ Ultimate Weapon Girl (まりーぽっぽ)
 <PROFILE_GALLERY_BGM_FIELD_SCHOOLYARD>
 フィールドイントロ：校庭
 
+<PROFILE_GALLERY_BGM_FIELD_AMBITION>
+フィールドイントロ：野心
+
 <PROFILE_GALLERY_BGM_HARBINGER>
 先駆者
 

@@ -291,7 +291,7 @@ flavor="¡Infierno!" ―Mio
 
 < CARD_HYPER_COOP_ISLAY >
 name=Rival
-descr=Entra en combate con un enemigo. Atacarás primero. Durante la batalla, recibes +1 ATK.
+descr=Entra en combate con un enemigo. Atacarás primero. Durante la batalla, recibes +2 ATK.
 flavor="Al igual que tú... yo también tengo combates pendientes." ―Islay
 
 < CARD_HYPER_COOP_TEOTORATTA >
@@ -376,7 +376,7 @@ flavor="Todas las armas preparadas, y... ¡FUEGO!" ―Grain
 
 < CARD_HYPER_COOP_HARUKA >
 name=Portadora de Ánimos
-descr=Duración: 2 capítulos.\nCuando otro jugador sea noqueado, podrá recuperarse de forma instantánea con todos sus PV, pero tendrán que pagar Estrellas (valor: Nivel x 5).
+descr=Duración: 2 capítulos.\nCuando un jugador sea noqueado, podrá recuperarse de forma instantánea con todos sus PV, pero tendrán que pagar Estrellas (valor: Nivel x 5).
 flavor="¡Vamos a animar el juego juntos!" ―Haruka
 
 < CARD_HYPER_COOP_KANATA >
@@ -451,7 +451,7 @@ flavor=
 
 < CARD_BOSS_COOP_SWARM >
 name=Multitud
-descr=Todos los secuaces del jefe recibirán +2 ATK en su próxima batalla, y entonces volarán hacia un jugador aleatorio y entrarán en combate con él. Los jugadores no pueden contraatacar. Una vez que las batallas terminan, el jefe correrá.
+descr=Todos los secuaces del jefe recibirán +2 ATK en su próxima batalla, y entonces volarán hacia un jugador aleatorio y entrarán en combate con él. Los jugadores no podrán contraatacar. Después de este efecto, el jefe usará la carta: '¡Velocidad!'
 flavor=
 
 < CARD_BOSS_COOP_FINAL_WARNING >
@@ -671,7 +671,7 @@ flavor=
 
 < CARD_BOSS_COOP_VALUE_JUDGMENT >
 name=El Juicio del Valor
-descr=Si el valor principal del ATK de todos los jugadores es positivo, todos los jugadores reciben esa cantidad de daño. Si es negativo, cura a todos los jugadores por la misma cantidad.\nRoba o recibe 10 estrellas por cada punto de vida curado o dañado.
+descr=Si el valor (base) total del ATK de todos los jugadores es positivo, todos los jugadores recibirán esa misma cantidad de daño.\nSi este valor es negativo, todos los jugadores serán curados por esa misma cantidad.\nLa jefa robará o otorgará 10 estrellas por cada punto de daño realizado o curado.
 flavor=
 
 < CARD_BOSS_COOP_RANSOM_NOTE >
@@ -1359,12 +1359,12 @@ name=Escape de Prisión
 descr=Duración: 3 Capítulos. Recibes +2 EVD. Si no te han desafiado antes de que el efecto se haya acabado, recibes +1 ATK y DEF de forma permanente.
 flavor=
 
-< CARD_BOSS_COOP_GREMLIN_ENRAGE >
+< CARD_BOSS_COOP_BUSTER_ENRAGE >
 name=El Enojo de la Destructora
 descr=Si la Destructora de Playas se encuentra noqueada, toma y usa una carta adicional cada turno.
 flavor=
 
-< CARD_BOSS_COOP_GREMLIN_ENRAGE_HYPER >
+< CARD_BOSS_COOP_BUSTER_ENRAGE_HYPER >
 name=El Enojo de la Destructora
 descr=Si la Destructora de Playas se encuentra noqueada, toma y usa una carta adicional cada turno. En 5 turnos, revive a la Creadora de Playas.
 flavor=

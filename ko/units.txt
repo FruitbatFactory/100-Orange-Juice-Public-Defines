@@ -631,11 +631,11 @@ descr=
 
 < CARD_UNIT_HARUKA >
 name=하루카
-descr=배틀 시작 시 현재 KO된 상대마다 공격력 -1을 얻는다.
+descr=배틀 시작 시 KO된 플레이어가 있다면 공격력 -1을 얻는다.
 
 < CARD_COOP_UNIT_HARUKA >
 name=하루카
-descr=배틀 시작 시 현재 KO된 아군마다 공격력 -1을 얻는다.
+descr=배틀 시작 시 KO된 아군이 있다면 공격력 -1을 얻는다.
 
 < CARD_UNIT_KANATA >
 name=카나타

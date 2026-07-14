@@ -141,6 +141,12 @@
 <0140> Gracias.
 <0141> Hay que prestarle atención a la suerte de Poyo.
 <0142> Contaré contigo para obtener buenas cartas.
+<0143> No esperes que tenga piedad, Haruka.
+<0144> Bueno, vamos a divertirnos un rato, ¿sí?
+<0145> Kanata... debo mantener la guardia en todo momento.
+<0146> Kanata es muy útil cuando jugamos juntas.
+<0147> ¿Qué tan buena eres en este juego?
+<0148> Es genial poder trabajar contigo en equipo.
 <0149> Jugar con los miembros de siempre suele ser muy relajante.
 <0150> Marc y yo nos parecemos un poco, ¿no lo crees?
 <0151> Oh, pensé que tú eras yo.

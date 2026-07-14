@@ -49,4 +49,7 @@
 < EVENTNAME_VALENTINES >
 甜点之神的巧克力
 
+< EVENTNAME_SUMMER2026 >
+绚烂竞争者
+
 [EOF]

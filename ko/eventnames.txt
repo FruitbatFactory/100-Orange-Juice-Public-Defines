@@ -34,6 +34,9 @@
 < EVENTNAME_WINTER2023 >
 기억 고치기
 
+< EVENTNAME_POPPO >
+폿포 이벤트
+
 < EVENTNAME_OPERATION_HALLOWEEN >
 할로윈 작전
 
@@ -45,5 +48,8 @@
 
 < EVENTNAME_WINTER2025 >
 동아리방 도전자
+
+< EVENTNAME_SUMMER2026 >
+현란풍 라이벌즈
 
 [EOF]

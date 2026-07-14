@@ -172,7 +172,13 @@ Player Bounties
 Tag Cooldown
 
 < MENU_LOBBYSETTING_PARTNERREGENDELAY >
-Partner Regen Delay
+Partner HP Regen Delay
+
+< MENU_LOBBYSETTING_CHAPTERLIMIT >
+{} Chapter Limit
+
+< MENU_LOBBYSETTING_PARTNERREVIVEDELAY >
+Partner Revive Delay
 
 < MENU_BUTTON_GAME_RETURN >
 RETURN
@@ -464,12 +470,8 @@ Instead of normal field events, Big the Jonathan uses many different abilities t
 < PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_09 >
 Keep your eye on the clock! At Chapter 30, Big the Jonathan becomes angry and will destroy all home panels and activate his most powerful abilities!
 
-< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_10 >
-If all allies are KO'd at the same time, the game is over and Big the Jonathan wins! Damage you dealt to him will still affect event progression.
-
 < PLAYMENU_EVENT_SUMMER2018_COMPLETE >
 Big the Jonathan has been pacified and the seas and beaches are safe again!
-
 
 < PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_MAIN >
 Trick and Treat to fill your belly with candy!
@@ -1094,6 +1096,30 @@ Assemble the ultimate team and prove you're worthing of starting a 100% OJ Club!
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_COMPLETE >
 Congratulations! The 100% OJ Club has been established! Enjoy your youth by playing together for even more rewards!
 
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_MAIN >
+A new challenger has appeared! Can you live up to Rinse's expectations?
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_01 >
+For the duration of this event, players will be able to play a special game mode: Tag Team! 
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_02 >
+Complete the various tasks written on the blackboard to earn points toward the event completion!
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_03 >
+New challenges appear every day, so keep checking for them!
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_04 >
+You can spend stars to reroll a challenge you already completed, or ones you don't like. But beware, the cost keeps going up!
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_05 >
+In addition, during the event, Tag Team mode has a new option: you can customize the recovery speed after your partner is defeated.
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_06 >
+Hone your skills through the challenges to show Rinse what the 100% OJ club is capable of!
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_COMPLETE >
+Congratulations! You have met Rinse's expectations and gained her approval! You can keep completing the event tasks to earn extra Oranges for each completed challenge.
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 Next goal:
 
@@ -1132,6 +1158,9 @@ Thank you for over 2 million downloads!\nNew Extra mission available!\nWhat is M
 
 < PLAYMENU_3MDOWNLOADS_MESSAGE >
 3 Million Download Celebration Mission Available!\nClear Extra mission "{}" on Normal or higher difficulty as a Marie Poppo character to unlock Popomi!
+
+< PLAYMENU_200ORANGE_VOUCHER_ACQUIRE >
+You have obtained a 200 Orange Voucher{}! Head to the Misc. section in the shop to exchange it for 200 Oranges.
 
 < MENU_BOSS_DIFFICULTY_CASUAL >
 Casual
@@ -1386,6 +1415,9 @@ Play {0} games as {1}.
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES_NUNITS >
 Play {0} games as any of the following units: {1}.
 
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE >
+Play {0} games in {1} mode.
+
 < MENU_CODEXSTORY_UNLOCKCOND_EVENT >
 Clear "{0}" event.
 
@@ -1397,6 +1429,9 @@ Unlock an accessory or hair color for any of the following units: {0}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_PLAYCARD >
 Play {0} as {1}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_PLAYCARD_ANYOF >
+Play any {0}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_ANYCARD >
 any Card
@@ -1415,6 +1450,18 @@ any character from {0}
 
 < MENU_CODEXSTORY_UNLOCKCOND_ANYUNIT >
 any Unit
+
+< MENU_CODEXSTORY_UNLOCKCOND_DAILYCHALLENGE >
+Clear {0} daily challenges.
+
+< MENU_CODEXSTORY_UNLOCKCOND_PANEL >
+Land on {0} panels.
+
+< MENU_CODEXSTORY_UNLOCKCOND_STARS >
+Earn {0} stars at the end of a game.
+
+< MENU_TASKBOARD_REROLL >
+Pay {0} stars to reroll this task?\nCurrent stars:
 
 < MENU_NORMABOARD >
 Norma Upgrade

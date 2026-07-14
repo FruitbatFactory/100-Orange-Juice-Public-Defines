@@ -61,12 +61,12 @@ flavor="Pour sauver tout le monde !"\n―Suguri & Hime
 < CARD_BATTLE_ONFIRE >
 name=Je Brûle de Joie !
 descr=+1 ATK et -1 DEF pour ce combat.
-flavor="On met nos vies sur la balance !" ―Kae
+flavor="On va jouer à fond les ballons !" ―Kae
 
 < CARD_BATTLE_RAINBOW >
 name=Cercle-en-ciel
 descr=+2 EVD et -1 DEF pour ce combat.
-flavor=C'est comme dessiner un cercle-en-ciel.
+flavor=C'est comme dessiner un cercle aux couleurs d'un arc-en-ciel.
 
 < CARD_BATTLE_RBITS >
 name=Alpins
@@ -75,13 +75,13 @@ flavor="Formation Alpha !" ―QP
 
 < CARD_BATTLE_REVERSE >
 name=Zone à Effets Contraires
-descr=Les statistiques des deux personnages sont inversées pour ce combat.
+descr=Pour ce combat, les deux personnages voient leurs statistiques négatives devenir positives, et vice-versa.
 flavor="T'en fais pas un peu trop, là ? T'es trop st... enfin, trop immature !" ―Mei
 
 < CARD_BATTLE_SHIELD >
 name=Bouclier
 descr=Ne peut être utilisé qu'en cas de défense. +3 DEF pour ce combat. Vous ne pouvez pas contre-attaquer.
-flavor="Le plus important : tous revenir en vie." ―Sham
+flavor="Et surtout : promets-moi de rester en vie." ―Sham
 
 < CARD_TRAP_ASSAULT >
 name=À l'assaut !
@@ -96,7 +96,7 @@ flavor="La sauce soja donne au pudding un goût d'oursin !" ―Yuki
 < CARD_TRAP_DANGEROUSPUDDING >
 name=Pudding Dangereux
 descr=(Effet Passif)\nPassez votre prochain tour.
-flavor='Il ne m'aura fallu qu'un regard pour que ce pudding me prenne mon cœur.'
+flavor='Il n'aura fallu qu'un regard pour que ce pudding me prenne mon cœur.'
 
 < CARD_TRAP_EXCHANGE >
 name=Échange
@@ -105,13 +105,13 @@ flavor="C'est lourd..." ―Suguri\n"J'ai l'air de quoi sans mon casque ?" ―Mar
 
 < CARD_TRAP_FLAMETHROWER >
 name=Lance-Flamme
-descr=Si vous avez des cartes en main, défaussez-les toutes. Si votre main est vide, vous tombez KO.
+descr=Si votre main est vide, vous tombez KO. Sinon, défaussez toutes vos cartes à la place.
 flavor="Yahaahaaaaah !" ―Loubard
 
 < CARD_TRAP_TOYSTORE >
-name=Pour l'Avenir du Magasin de Jouets
+name=Pour l'Avenir de la Boutique
 descr=Donnez la moitié de vos étoiles au joueur ayant posé ce piège. Cette carte ne peut être jouée qu'avec 50 étoiles ou moins.
-flavor=Sans la Mère Noël... tout irait tellement mieux !" ―Arthur
+flavor=Tout irait tellement mieux, sans Papas Noël !" ―Arthur
 
 < CARD_TRAP_GOAWAY >
 name=Va-t-en
@@ -131,7 +131,7 @@ flavor="Hein ? On m'attaque...?" ―Suguri
 < CARD_TRAP_MIMYUU >
 name=Marteau de Mimyuu
 descr=Inflige 1 point de dégât.
-flavor="Mon marteau veut te faire un bisou !" ―Mimyuu
+flavor="Crève vite et bien, ok ?" ―Mimyuu
 
 < CARD_TRAP_PIGGYBANK >
 name=Tirelire
@@ -141,7 +141,7 @@ flavor="Papa, je peux casser la tirelire ?" ―Mescal
 < CARD_TRAP_PURES >
 name=Dîner au Restaurant 'Pures'
 descr=Vous perdez la moitié de vos étoiles et récupérez tous vos PV.
-flavor="On a un client à gérer !" ―Chris
+flavor="Bienvenue, chère clientèle !" ―Chris
 
 < CARD_TRAP_TRAGEDY >
 name=Tragédie Nocturne
@@ -156,16 +156,16 @@ flavor="Couuuac !" ―Mouette
 < CARD_EVENT_DINNER >
 name=Dîner
 descr=Soigne 3 PV à tous les personnages.
-flavor="Prenons donc le dîner ensemble !" ―Natsumi
+flavor="Reste au moins le temps du repas !" ―Natsumi
 
 < CARD_EVENT_FORCEDREVIVAL >
 name=Résurrection Forcée
 descr=Tous les personnages KO se relèvent avec 1 PV.
-flavor="Vous serez debout en moins de deux." ―Kiriko
+flavor="Une piqûre et ça repart !" ―Kiriko
 
 < CARD_EVENT_GIFTEXCHANGE >
 name=Échange de Cadeaux
-descr=Toutes les cartes de chaque joueur sont réparties aléatoirement. Votre nombre de cartes reste le même.
+descr=Les cartes de chaque main sont redistribuées aléatoirement.\nChaque joueur récupère autant de cartes qu'ils en ont perdu.
 flavor="Un échange de cadeaux ? D'accord !"\n―Alpin, Rougeon & Bleuet
 
 < CARD_EVENT_HEREANDTHERE >
@@ -176,7 +176,7 @@ flavor="En route pour le prochain monde !" ―Marie Poppo
 < CARD_EVENT_HOLYNIGHT >
 name=Nuit Enchantée
 descr=Effet Permanent\nLes étoiles distribuées en début de chapitre augmentent de 1.
-flavor="Aha, je vois pourquoi vous faites la fête." ―Hime
+flavor="Ce soir est un soir de miracles." ―Hime
 
 < CARD_EVENT_LITTLEWAR >
 name=Petite Guerre
@@ -186,7 +186,7 @@ flavor="Je suis capable d'arrêter ça... Si je me bats..." ―Suguri
 < CARD_EVENT_OHMYFRIEND >
 name=Mon Bon Ami
 descr=Invoque un Boss.
-flavor="Les robots ont des amis, eux aussi." ―NoName
+flavor="Les robots ont des amis, eux aussi !" ―NoName
 
 < CARD_EVENT_OUTOFAMMO >
 name=Plus de munitions
@@ -200,7 +200,7 @@ flavor="Dis bonjour à l'Ange Gardien de ce vaisseau." ―Shifu
 
 < CARD_EVENT_ALLOUTMODE >
 name=Mode Super-Extrême
-descr=(Effet Passif)\nTous les personnages gagnent +2 ATK à leurs prochains combats.
+descr=(Effet Passif, Tous les Personnages)\nVous gagnez +2 ATK à votre prochain combat.
 flavor="Que vous le voyiez venir ou pas, ça va faire mal !!" ―Tomomo
 
 < CARD_EVENT_WARUDA >
@@ -220,7 +220,7 @@ flavor="Mourez, mourez tous." ―Fernet
 
 < CARD_HYPER_HIME >
 name=Chaînes de Stase
-descr=(Effet Passif)\nTous les personnages ennemis passent leurs prochains tours. Applique l'effet "Stase" à tous les ennemis actif\n(-2 EVD, -1 MOV).\nDurée de l'Effet : 2 chapitres.
+descr=(Effet Passif)\nTous les personnages ennemis passent leurs prochains tours. Applique l'effet "Stase" à tous les ennemis actifs\n(-2 EVD, -1 MOV).\nDurée de l'Effet : 2 chapitres
 flavor="Je n'y prends nul plaisir." ―Hime
 
 < CARD_HYPER_PEAT >
@@ -285,8 +285,8 @@ flavor="Avec ce pouvoir... tout le ciel sera nôtre." ―Maître de la Guilde
 
 < CARD_HYPER_CHICKEN >
 name=L'Œuf d'Or
-descr=Si vous êtes le Poulet : (Cumul : 3) Les cases Malus ont l'effet de cases Bonus.\nSinon, (Cumul : 3) Les cases Bonus ont l'effet de cases Malus.
-flavor="Cot cot codek !" ―Poulet
+descr=Si vous êtes la Poule : (Cumul : 3) Les cases Malus ont l'effet de cases Bonus.\nSinon, (Cumul : 3) Les cases Bonus ont l'effet de cases Malus, et le joueur ayant posé le piège récupère les étoiles perdues.
+flavor="Cot cot codek !" ―Poule
 
 < CARD_HYPER_BALL >
 name=Carapace Absorbante
@@ -299,5 +299,3 @@ descr=Vous vous déplacez jusqu'à un joueur au choix et l'attaquez.\nLa cible p
 flavor="Couaaac !" ―Mouette
 
 [EOF]
-
-

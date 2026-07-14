@@ -172,7 +172,13 @@
 換人冷卻
 
 < MENU_LOBBYSETTING_PARTNERREGENDELAY >
-搭檔恢復延遲
+搭檔HP恢復間隔
+
+< MENU_LOBBYSETTING_CHAPTERLIMIT >
+{}輪限制
+
+< MENU_LOBBYSETTING_PARTNERREVIVEDELAY >
+搭檔復活間隔
 
 < MENU_BUTTON_GAME_RETURN >
 回到遊戲
@@ -435,7 +441,7 @@ NoName老師恢復了原狀，\n所有人都避免了留級危機！
 
 
 < PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_MAIN >
-擊敗大喬納桑！
+擊敗大喬納桑吧！
 
 < PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_01 >
 在玩合作模式時，通過將大喬納桑的HP降至0或生存50輪即可將其趕走並獲得勝利！
@@ -456,13 +462,13 @@ NoName老師恢復了原狀，\n所有人都避免了留級危機！
 在合作模式下，BOSS格在場地上大量增加。在上面停留就可以向大喬納桑進行挑戰！
 
 < PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_07 >
-作為普通場地效果的替代，大喬納桑會使用各種能力來擊敗你！隨著遊戲進行它還能解鎖更多能力……
+玩家被擊倒時，你的隊伍將會失去8分之1的STAR。玩家的角色可停留在任意玩家的HOME格。
 
 < PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_08 >
-注意時間！在第30輪，大喬納桑會開始發怒並破壞所有的HOME格還會激活它最強大的能力！
+作為普通場地效果的替代，大喬納桑會使用各種能力來擊敗你！隨著遊戲進行它還能解鎖更多能力……
 
 < PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_09 >
-如果所有友方都倒下了，遊戲結束，大喬納桑獲得勝利！而你對它造成的傷害依然會影響活動完成進度。
+注意時間！在第30輪，大喬納桑會開始發怒並破壞所有的HOME格，還會激活它最強大的能力！
 
 < PLAYMENU_EVENT_SUMMER2018_COMPLETE >
 大喬納桑被制服了，大海與沙灘恢復了安全！
@@ -1092,6 +1098,30 @@ QP還想多玩一會！夏日野獸復活了！
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_COMPLETE >
 祝賀你！百橙社正式成立了！\n一起賺取更多獎勵，感受青春時光吧！
 
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_MAIN >
+新的挑戰者現身了！你可以滿足姬世的期望嗎？
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_01 >
+在此活動期間，你將能夠體驗到一種\n獨特的遊戲模式：搭檔模式！
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_02 >
+只要完成黑板上的任務，你就可以獲得點數，推進活動進度！
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_03 >
+每天都會出現新的挑戰，記得回來看看！
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_04 >
+你可以花費星星隨機刷新已經完成的挑戰。但要注意，重置費用會變得越來越高！
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_05 >
+此外，在活動期間，搭檔模式新增了一個選項：你可以自定義搭檔倒下後的復活間隔。
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_06 >
+完成挑戰精進技藝，給姬世展現一下百橙社的實力吧！
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_COMPLETE >
+恭喜你！你滿足了姬世的期望，獲得了她的認可！你還可以繼續完成任務，每完成一個任務都可以獲得額外的橙子獎勵。
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 下一個目標：
 
@@ -1130,6 +1160,9 @@ QP還想多玩一會！夏日野獸復活了！
 
 < PLAYMENU_3MDOWNLOADS_MESSAGE >
 300 萬次下載紀念關卡已開放！\n使用一種瑪麗啵噗角色完成普通或以上難度的額外關卡“{}”，即可解鎖啵啵美！
+
+< PLAYMENU_200ORANGE_VOUCHER_ACQUIRE >
+你獲得了200橙子兌換券{}！你可以在商店的“其它”分類將它們兌換成200橙子。
 
 < MENU_BOSS_DIFFICULTY_CASUAL >
 休閒
@@ -1384,6 +1417,9 @@ CPU自定義
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES_NUNITS >
 使用以下任意角色進行{0}場遊戲：{1}。
 
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE >
+進行{0}場{1}模式遊戲。
+
 < MENU_CODEXSTORY_UNLOCKCOND_EVENT >
 完成「{0}」活動。
 
@@ -1396,8 +1432,11 @@ CPU自定義
 < MENU_CODEXSTORY_UNLOCKCOND_PLAYCARD >
 作為{1}，使用{0}。
 
+< MENU_CODEXSTORY_UNLOCKCOND_PLAYCARD_ANYOF >
+使用任意{0}。
+
 < MENU_CODEXSTORY_UNLOCKCOND_ANYCARD >
-任何卡片
+任意卡片
 
 < MENU_CODEXSTORY_UNLOCKCOND_USERUNLOCK >
 解鎖{0}。
@@ -1413,6 +1452,18 @@ CPU自定義
 
 < MENU_CODEXSTORY_UNLOCKCOND_ANYUNIT >
 任意角色
+
+< MENU_CODEXSTORY_UNLOCKCOND_DAILYCHALLENGE >
+完成{0}個每日挑戰。
+
+< MENU_CODEXSTORY_UNLOCKCOND_PANEL >
+停留在{0}格上。
+
+< MENU_CODEXSTORY_UNLOCKCOND_STARS >
+獲得{0}個STAR。
+
+< MENU_TASKBOARD_REROLL >
+是否要支付{0}個星星刷新這項任務？\n當前星星數量：
 
 < MENU_NORMABOARD >
 目標達成獎勵特長

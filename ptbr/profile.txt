@@ -356,6 +356,9 @@ Introdução de Campo: O Vazio
 <PROFILE_GALLERY_BGM_FIELD_SCHOOLYARD>
 Introdução de Campo: Pátio Escolar
 
+<PROFILE_GALLERY_BGM_FIELD_AMBITION>
+Introdução de Campo: Ambição
+
 <PROFILE_GALLERY_BGM_HARBINGER>
 O Prenúncio
 

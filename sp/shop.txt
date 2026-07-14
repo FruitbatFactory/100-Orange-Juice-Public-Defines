@@ -167,6 +167,9 @@ Pudín Pop
 < SHOP_DLC_WATTYPOMERANIUS >
 Watty & Pomeranius
 
+< SHOP_DLC_SWEETGODS >
+Diosas de los Dulces
+
 < SHOP_DLC_KRILAMIMYUURENEWAL >
 Escape de Prisión Al Estilo Waruda
 

@@ -172,7 +172,13 @@ Caça de Jogadores
 Tag Cooldown
 
 < MENU_LOBBYSETTING_PARTNERREGENDELAY >
-Atraso de Regenração de Parceiro
+Atraso de Regeneração de HP do Parceiro
+
+< MENU_LOBBYSETTING_CHAPTERLIMIT >
+Limite de {} Capítulos
+
+< MENU_LOBBYSETTING_PARTNERREVIVEDELAY >
+Atraso Para Reviver o Parceiro
 
 < MENU_BUTTON_GAME_RETURN >
 RETORNAR
@@ -476,12 +482,8 @@ Ao invés de eventos de campo normais, Jonathan o Grande usa várias habilidades
 < PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_09 >
 Fique de olho no relógio! No capítulo 30, Jonathan o Grande se enfurece e destruirá todos os painéis de casa além de ativar suas habilidades mais poderosas!
 
-< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_10 >
-Se todos os aliados estiverem nocauteados, o jogo acaba e Jonathan o Grande vencerá! Todo o dano causado a ele ainda irá afetar o progresso do evento.
-
 < PLAYMENU_EVENT_SUMMER2018_COMPLETE >
 Jonathan o Grande foi acalmado. Os mares e as praias estão seguras novamente!
-
 
 < PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_MAIN >
 Faça Doçuras ou Travessuras para encher sua barriga com balas!
@@ -1095,6 +1097,30 @@ Monte o time supremo e prove que você é capaz de começar um Clube 100% OJ!
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_COMPLETE >
 Parabéns! O Clube 100% OJ foi formado! Aproveite sua juventude jogando junto com amigos para ainda mais recompensas!
 
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_MAIN >
+Uma nova desafiante apareceu! Você consegue corresponder às expectativas da Rinse?
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_01 >
+Pela duração desse evento, jogadores poderão jogar um modo de jogo especial: Time Tag! 
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_02 >
+Complete as diversas tarefas escritas no quadro negro para ganhar pontos e contribuir para a conclusão do evento!
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_03 >
+Novos desafios aparecem todos os dias, então continue de olho neles!
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_04 >
+Você pode gastar estrelas para rerolar um desafio que já concluiu ou desafios que não tiver gostado. Mas cuidado, o custo continua aumentando!
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_05 >
+Além disso, durante o evento, o modo de Time Tag possui uma nova opção: você pode customizar o atraso do nocaute após seu time ter sido varrido.
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_06 >
+Aprimore suas habilidades através dos desafios para mostrar à Rinse do que o clube 100% OJ é capaz!
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_COMPLETE >
+Parabéns! Você atendeu às expectativas de Rinse e conquistou a aprovação dela! Você pode continuar completando as tarefas do evento para ganhar Laranjas extras a cada desafio concluído.
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 Próxima meta:
 
@@ -1109,6 +1135,9 @@ Começo
 
 < PLAYMENU_EVENT_STORYREPLAYBUTTON_ENDING >
 Final
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_INTERLUDE >
+Interlúdio
 
 < PLAYMENU_EVENT_BOUNTYHUNTERS_FAME > 
 Fama: %d
@@ -1133,6 +1162,9 @@ Obrigado pelos mais de 2 milhões de downloads!\nNova missão Extra está dispon
 
 < PLAYMENU_3MDOWNLOADS_MESSAGE >
 Missão de Celebração de 3 Milhões de Downloads Disponível!\nComplete missão Extra "{}" na dificuldade Normal ou superior como Marie Poppo para destravar Popomi!
+
+< PLAYMENU_200ORANGE_VOUCHER_ACQUIRE >
+Você obteve um Voucher de 200 Laranjas{}! Vá até a seção de Outros da loja para trocá-lo por 200 Laranjas.
 
 < MENU_BOSS_DIFFICULTY_CASUAL >
 Casual
@@ -1376,8 +1408,14 @@ Jogue {0} partidas como {1}.
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES_NUNITS >
 Jogue {0} partidas como qualquer uma das unidades seguintes: {1}.
 
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE >
+Jogue {0} partidas no modo {1}.
+
 < MENU_CODEXSTORY_UNLOCKCOND_PLAYCARD >
 Jogue {0} como {1}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_PLAYCARD_ANYOF >
+Jogue qualquer {0}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_ANYCARD >
 qualquer Carta
@@ -1396,6 +1434,18 @@ qualquer personagem de {0}
 
 < MENU_CODEXSTORY_UNLOCKCOND_ANYUNIT >
 qualquer Unidade
+
+< MENU_CODEXSTORY_UNLOCKCOND_DAILYCHALLENGE >
+Complete {0} desafios diários.
+
+< MENU_CODEXSTORY_UNLOCKCOND_PANEL >
+Pare em painéis de {0}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_STARS >
+Ganhe {0} estrelas.
+
+< MENU_TASKBOARD_REROLL >
+Pagar {0} estrelas para re-rolar essa tarefa?\nEstrelas atuais:
 
 < MENU_CODEXSTORY_UNLOCKCOND_EVENT >
 Complete o evento "{0}".

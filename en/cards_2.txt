@@ -466,7 +466,7 @@ flavor="......" ―Sora
 
 < CARD_GIFT_LUCKYCHARM >
 name=Lucky Charm
-descr=Gain Lvl x1 stars at the start of your turn. You cannot use any other cards. This card is discarded upon use. On defeat, give Lvl x 3 more stars.
+descr=Gain Lvl x1 stars at the start of your turn. Reduce hand size to 1. This card is discarded upon use. On defeat, give Lvl x 3 more stars.
 flavor="Woo-hoo, so many stars! Today's my day!!" ―Tomomo
 
 < CARD_GIFT_METALLICMONOCOQUE >
@@ -811,7 +811,7 @@ flavor="You can't make an adult go overboard." ―Hero Kai
 
 < CARD_HYPER_GRAIN >
 name=All Guns at the Ready
-descr=Pay all stocked Cannonball Counters. Deal 1 damage to a random enemy. If the enemy is KO'd, gain 1 Win and Stars equal to 10x their level. Repeat this once for every Cannonball Counter paid.
+descr=Gain a Cannonball Counter and then pay all stocked Cannonball Counters. Deal 1 damage to a random enemy. If the enemy is KO'd, gain 1 Win and Stars equal to 3x their level. Repeat this once for every Cannonball Counter paid. 
 flavor="All guns at the ready... FIRE!" ―Grain
 
 < CARD_HYPER_BOURBON >
@@ -831,7 +831,7 @@ flavor="I guess I'll let you see a glimpse of my mettle." ―Chuu
 
 < CARD_HYPER_HARUKA >
 name=Hype Bringer
-descr=Effect duration: 3 chapters. Revive all players currently suffering KO with full HP. If another player suffers KO, they recover instantly with full HP. For each player revived, gain their Lvl x 5 stars. This star gain effect can stack.
+descr=Effect duration: 3 chapters. Revive all players currently suffering KO with full HP. If a player suffers KO, they recover instantly with full HP. For each player revived, gain their Lvl x 5 stars. This star gain effect can stack.
 flavor="Let's hype up the game together!" ―Haruka
 
 < CARD_HYPER_KANATA >
@@ -968,5 +968,9 @@ flavor="I can see what cards you're holding." ―Kanata
 name=Banner Card
 descr=This is a banner card.
 flavor="I can see what cards you're holding." ―Kanata
+
+< CARD_GENERIC_HYPER >
+name=Hyper Card
+descr=
 
 [EOF]

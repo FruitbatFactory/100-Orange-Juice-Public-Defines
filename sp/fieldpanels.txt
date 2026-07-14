@@ -1,0 +1,86 @@
+< FIELD_PANEL_NEUTRAL >
+Neutral
+
+< FIELD_PANEL_BONUS >
+Estrellas
+
+< FIELD_PANEL_DROP >
+Pérdidas
+
+< FIELD_PANEL_DRAW >
+Cartas
+
+< FIELD_PANEL_ENCOUNTER >
+Batalla
+
+< FIELD_PANEL_BOSS >
+Jefe
+
+< FIELD_PANEL_HOME >
+Hogar
+
+< FIELD_PANEL_WARP >
+Teletransportación
+
+< FIELD_PANEL_WARPMOVE >
+Tele+Movimiento
+
+< FIELD_PANEL_MOVE >
+Movimiento
+
+< FIELD_PANEL_HEAL >
+Curación
+
+< FIELD_PANEL_DAMAGE >
+Daño
+
+< FIELD_PANEL_MUD >
+Lodo
+
+< FIELD_PANEL_SNOW >
+Nieve
+
+< FIELD_PANEL_PLAYGROUND >
+Minijuegos
+
+< FIELD_PANEL_DECORATION >
+Decoración
+
+< FIELD_PANEL_PLAYER >
+Batalla de Jugadores
+
+< FIELD_PANEL_RANDOM >
+Aleatorio
+
+< FIELD_PANEL_BOSSHOME >
+Hogar del Jefe
+
+< FIELD_PANEL_DECK >
+Repartidor de Cartas
+
+< FIELD_PANEL_SPEC >
+Paneles de Espectadores
+
+< FIELD_PANEL_BONUS_DOUBLE >
+Estrellas (x2)
+
+< FIELD_PANEL_DROP_DOUBLE >
+Pérdidas (x2)
+
+< FIELD_PANEL_DRAW_DOUBLE >
+Cartas (x2)
+
+< FIELD_PANEL_ENCOUNTER_DOUBLE >
+Batalla (X2)
+
+< FIELD_PANEL_WARPMOVE_DOUBLE >
+Tele+Movimiento (x2)
+
+< FIELD_PANEL_MOVE_DOUBLE >
+Movimiento (x2)
+
+< FIELD_PANEL_HEAL_DOUBLE >
+Curación (x2)
+
+< FIELD_PANEL_DAMAGE_DOUBLE >
+Daño (x2)

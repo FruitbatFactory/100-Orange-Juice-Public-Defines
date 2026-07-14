@@ -198,7 +198,7 @@ name=Nico Inactiva
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Nico.\n¡Siempre dará todos sus esfuerzos!
 artist=Azurée
 
-< PIN_IDLE_CUTIES >
+< PIN_FLYING_CUTIES >
 name=Linduras Volando
 desc=Entregado a aquellos jugadores que han jugado en muchas partidas como Linduras.\n¡Una carrera en el escenario espera!
 artist=Azurée

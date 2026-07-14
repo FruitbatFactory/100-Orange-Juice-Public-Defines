@@ -1,0 +1,86 @@
+< FIELD_PANEL_NEUTRAL >
+Neutro
+
+< FIELD_PANEL_BONUS >
+Bônus
+
+< FIELD_PANEL_DROP >
+Perda
+
+< FIELD_PANEL_DRAW >
+Compra
+
+< FIELD_PANEL_ENCOUNTER >
+Encontro
+
+< FIELD_PANEL_BOSS >
+Encontro com Chefão
+
+< FIELD_PANEL_HOME >
+Casa
+
+< FIELD_PANEL_WARP >
+Teleporte
+
+< FIELD_PANEL_WARPMOVE >
+Teleporte e Movimento
+
+< FIELD_PANEL_MOVE >
+Movimento
+
+< FIELD_PANEL_HEAL >
+Cura
+
+< FIELD_PANEL_DAMAGE >
+Dano
+
+< FIELD_PANEL_MUD >
+Lama
+
+< FIELD_PANEL_SNOW >
+Neve
+
+< FIELD_PANEL_PLAYGROUND >
+Playground
+
+< FIELD_PANEL_DECORATION >
+Decoração
+
+< FIELD_PANEL_PLAYER >
+Encontro com Jogador
+
+< FIELD_PANEL_RANDOM >
+Aleatório
+
+< FIELD_PANEL_BOSSHOME >
+Casa do Chefão
+
+< FIELD_PANEL_DECK >
+Gerador de Baralho
+
+< FIELD_PANEL_SPEC >
+Gerador de Espectador
+
+< FIELD_PANEL_BONUS_DOUBLE >
+Bônus (x2)
+
+< FIELD_PANEL_DROP_DOUBLE >
+Perda (x2)
+
+< FIELD_PANEL_DRAW_DOUBLE >
+Compra (x2)
+
+< FIELD_PANEL_ENCOUNTER_DOUBLE >
+Encontro (X2)
+
+< FIELD_PANEL_WARPMOVE_DOUBLE >
+Teleporte e Movimento (x2)
+
+< FIELD_PANEL_MOVE_DOUBLE >
+Movimento (x2)
+
+< FIELD_PANEL_HEAL_DOUBLE >
+Cura (x2)
+
+< FIELD_PANEL_DAMAGE_DOUBLE >
+Dano (x2)

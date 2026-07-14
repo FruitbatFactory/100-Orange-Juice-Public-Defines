@@ -241,7 +241,7 @@ flavor="¿Por qué no usamos esto para decidir de quién será el turno?" ―Yuk
 
 < CARD_HYPER_QP >
 name=Modo Hiper
-descr=Recibes +2 ATK durante esta batalla.\nNo otorgarás estrellas ni victorias y revivirás en tu próximo turno al ser noqueado dentro del combate.
+descr=Recibes +3 ATK durante esta batalla.\nSi tu unidad es noqueada dentro de este combate, no otorgará Estrellas y Victorias, y la unidad revivirá en su próximo turno.
 flavor="¡MODO HIPER!" ―QP
 
 < CARD_HYPER_TOMOMO >
@@ -286,7 +286,7 @@ flavor="Con este poder, todo lo que se encuentre en el cielo será nuestro." ―
 
 < CARD_HYPER_CHICKEN >
 name=El Huevo Dorado
-descr=Si la unidad es Gallina:\nEfecto Guardado (3): Los paneles de Pérdidas actuarán como paneles de Estrellas.\nSi la unidad no es Gallina:\nEfecto Guardado (3): Los paneles de Estrellas actuarán como paneles de Pérdidas.
+descr=Si la unidad escogida es Gallina:\nEfecto Guardado (3): Los paneles de Pérdidas actuarán como paneles de Estrellas.\nSi la unidad escogida no es Gallina:\nEfecto Guardado (3): Los paneles de Estrellas actuarán como paneles de Pérdidas. Quien haya colocado esta trampa recibirá estrellas equivalentes a la cantidad de estrellas perdidas.
 flavor="¡Cluuuuck!" ―Gallina
 
 < CARD_HYPER_BALL >

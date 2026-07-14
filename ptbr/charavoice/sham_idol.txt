@@ -84,35 +84,35 @@
 <0115> Por favor continue daqui.
 <0116> Hora de trocar de membro!
 <0117> Sora, nós vamos recuar por agora.
-<0117> Okay!
-<0118> Isso!
-<0119> Siim!
-<0120> Isto não é nada bom.
-<0122> Que sorte!
-<0123> Mhm?
-<0125> O que nós vamos conseguir?
-<0127> Yahoo!
-<0128> Mhmmm.
-<0130> Wow, isto é incrível.
-<0132> Sora, você acha que podemos usar isto?
-<0133> O que é isto? Uma carta de fã?
-<0134> Vamos tentar jogar! Não tenha medo de coisas novas!
-<0135> Mal posso esperar para descobrir o que isto faz.
-<0136> Ídolos contra ídolos... Sora, não podemos abaixar a guarda.
-<0137> Ídolos... não desista para a adversidade.
-<0138> Tempos difíceis abrem portas para oportunidades! 
-<0141> Isto é graças a todo teu suporte!
-<0142> Certo! Ficamos em primeiro no jogo!
-<0145> Nós vamos continuar seguindo!
-<0146> Estamos indo com tudo!
-<0147> O suporte de nossos fãs nos dá forças!
-<0148> Nós estamos muito perto de se tornar ídolos populares!
-<0149> Agora nós definitivamente estamos no topo das ídolos.
-<0150> Olha, Sora! O que você acha deste aqui?
-<0151> Boa escolha.
-<0152> Oh, este aqui tem uma cara única... Fofo? ...Não tenho certeza.
-<0153> Me sinto relaxada com este aqui por perto.
-<0154> Ah, acho que este vai lhe servir bem.
-<0155> Oh, claro!
-<0156> Que tal este aqui? Fofo, não é mesmo?
-<0157> Tenho certeza que este aqui vai ficar incrível em você!
+<0120> Okay!
+<0121> Isso!
+<0122> Siim!
+<0123> Isto não é nada bom.
+<0125> Que sorte!
+<0126> Mhm?
+<0128> O que nós vamos conseguir?
+<0130> Yahoo!
+<0131> Mhmmm.
+<0133> Wow, isto é incrível.
+<0135> Sora, você acha que podemos usar isto?
+<0136> O que é isto? Uma carta de fã?
+<0137> Vamos tentar jogar! Não tenha medo de coisas novas!
+<0138> Mal posso esperar para descobrir o que isto faz.
+<0139> Ídolos contra ídolos... Sora, não podemos abaixar a guarda.
+<0140> Ídolos... não desista para a adversidade.
+<0141> Tempos difíceis abrem portas para oportunidades! 
+<0144> Isto é graças a todo teu suporte!
+<0145> Certo! Ficamos em primeiro no jogo!
+<0148> Nós vamos continuar seguindo!
+<0149> Estamos indo com tudo!
+<0150> O suporte de nossos fãs nos dá forças!
+<0151> Nós estamos muito perto de se tornar ídolos populares!
+<0152> Agora nós definitivamente estamos no topo das ídolos.
+<0153> Olha, Sora! O que você acha deste aqui?
+<0154> Boa escolha.
+<0155> Oh, este aqui tem uma cara única... Fofo? ...Não tenho certeza.
+<0156> Me sinto relaxada com este aqui por perto.
+<0157> Ah, acho que este vai lhe servir bem.
+<0158> Oh, claro!
+<0159> Que tal este aqui? Fofo, não é mesmo?
+<0160> Tenho certeza que este aqui vai ficar incrível em você!

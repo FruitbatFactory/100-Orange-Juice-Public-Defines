@@ -375,7 +375,7 @@ flavor="전 포문 개방... 파이어!" ―그레인
 
 < CARD_HYPER_COOP_HARUKA >
 name=신바람 전도사
-descr=지속 시간: 2챕터.\n다른 플레이어가 KO되면 레벨 x5만큼의 스타를 지불한다. KO당했던 플레이어는 즉시 완전히 회복한다.
+descr=지속 시간: 2챕터.\n플레이어가 KO되면 레벨 x5만큼의 스타를 지불한다. KO당했던 플레이어는 즉시 완전히 회복한다.
 flavor="우리 모두 신나게 가보자구!" ―하루카
 
 < CARD_HYPER_COOP_KANATA >
@@ -574,8 +574,8 @@ descr=보스가 피해를 받을 때 가해 플레이어에게 그만큼의 피�
 flavor=
 
 < CARD_BOSS_COOP_RECOVERY_DOWN >
-name=회복 다운
-descr=모든 플레이어의 회복값을 1 높인다.
+name=부활 다운
+descr=모든 플레이어의 부활값을 1 높인다.
 flavor=
 
 < CARD_BOSS_COOP_EMP >

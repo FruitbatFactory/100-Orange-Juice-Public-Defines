@@ -269,5 +269,8 @@ MOD列表 - 已經安裝了%d個MOD。
 < CONFIG_YOU_CANNOT_RESTART > 
 在線遊戲期間無法重啟遊戲
 
+< CONFIG_SCREEN_BACKGROUND_RESOLUTION >
+背景分辨率
+
 [EOF]
 

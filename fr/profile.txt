@@ -357,6 +357,9 @@ Plateau : Le Vide
 <PROFILE_GALLERY_BGM_FIELD_SCHOOLYARD>
 Plateau : Cour de Récré
 
+<PROFILE_GALLERY_BGM_FIELD_AMBITION>
+Plateau : Ambition
+
 <PROFILE_GALLERY_BGM_HARBINGER>
 Apocalypse
 

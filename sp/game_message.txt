@@ -71,6 +71,9 @@ Trampa colocada.
 < GAME_MESSAGE_TRAPTRIGGER >
 ¡Trampa activada!
 
+< GAME_MESSAGE_BANNERSET >
+Carta Pancarta colocada.
+
 < GAME_MESSAGE_CARDEFFECTSTOCKED >
 Efecto guardado.
 
@@ -91,6 +94,9 @@ Escoja a un jugador.
 
 < GAME_MESSAGE_CHOOSEMOVEPANEL >
 Escoja el panel al que quiere moverse.
+
+< GAME_MESSAGE_EVENT_NEXTCHAPTER >
+¡{} en el próximo capítulo!
 
 < GAME_MESSAGE_HOMESTOP >
 ¿Quiere detenerse aquí?
@@ -190,5 +196,11 @@ Escoja una unidad.
 
 < GAME_MESSAGE_BLUFF_NOTICE >
 Se ha previsto que esta carta será usada por {}.
+
+< GAME_MESSAGE_LOCATIONFEE_FAIL >
+No se ha logrado pagar la fianza de la protección.
+
+< GAME_MESSAGE_YUKID_HYPER_SELECT_TRAPS >
+Selecciona cualquier cantidad de Trampas para colocar.
 
 

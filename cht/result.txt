@@ -51,7 +51,7 @@ XP
 Next
 
 < RESULT_SPEEDADJUST >
-Speed Adjust
+加速懲罰
 
 [EOF]
 

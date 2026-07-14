@@ -23,12 +23,12 @@ name=Jonathan le Géant
 descr=+1 ATK pour 1 chapitre à chaque fois qu'un joueur tombe KO.\nTous les 3 chapitres, utilise Décollage à la fin de son tour.\nTous les 10 chapitres, obtient +1 ATK et -1 DEF & EVD permanents.
 
 < CARD_UNIT_BOSS_CHICKEN >
-name=Haruo le Géant
-descr=Pour chaque Poulet sur le plateau, perd 1 ATK, 1 DEF et gagne un dé à ses jets d'attaque.\nInvoque un familier Poulet tous les 5 chapitres.
+name=Haruo la Géante
+descr=Pour chaque Poule sur le plateau, perd 1 ATK, 1 DEF et gagne un dé à ses jets d'attaque.\nInvoque une Poule tous les 5 chapitres.
 
 < CARD_UNIT_BOSS_CHICKEN_HYPER >
-name=Haruo le Géant
-descr=Pour chaque Poulet sur le plateau, perd 1 ATK, 1 DEF et gagne un dé à ses jets d'attaque.\nInvoque deux familiers Poulet tous les 5 chapitres.
+name=Haruo la Géante
+descr=Pour chaque Poule sur le plateau, perd 1 ATK, 1 DEF et gagne un dé à ses jets d'attaque.\nInvoque deux Poules tous les 5 chapitres.
 
 < CARD_UNIT_BOSS_POPPO >
 name=Dévoreuse d'Étoiles
@@ -99,11 +99,11 @@ name=Trio d'Enfer
 descr=
 
 < CARD_UNIT_CHICKEN >
-name=Poulet
+name=Poule
 descr=
 
 < CARD_UNIT_CHICKEN_MP >
-name=Poulet
+name=Poule
 descr=Donnez 1/4 de vos étoiles et 1 Victoire en tombant KO en combat.
 
 < CARD_UNIT_CASTLE >
@@ -539,12 +539,12 @@ name=Jonathan le Géant
 descr=
 
 < CARD_UNIT_BOSSHARUO_CHAOS >
-name=Haruo le Géant
+name=Haruo la Géante
 descr=
 
 < CARD_UNIT_AGGRESSIVECHICKEN_CHAOS >
-name=Poulet Bagarreur
-descr=L'invocateur jette un dé de plus en attaquant et perd -2 ATK & DEF tant que Poulet Bagarreur est présent.\nGagne +1 ATK en combat si l'adversaire a plus de 1 ATK de base.
+name=Poule Guerrière
+descr=L'invocateur jette un dé de plus en attaquant et perd -2 ATK & DEF tant que Poule Guerrière est présente.\nGagne +1 ATK en combat si l'adversaire a plus de 1 ATK de base.
 
 < CARD_UNIT_BOSSM10_CHAOS >
 name=Robot M10
@@ -624,11 +624,11 @@ descr=Vos jets d'Attaque, de Défense, d'Esquive, de Déplacement, de Bonus et d
 
 < CARD_UNIT_HARUKA >
 name=Haruka
-descr=Vous perdez -1 ATK en début de combat par personnage actuellement KO.
+descr=Vous perdez -1 ATK en début de combat si un joueur est actuellement KO.
 
 < CARD_COOP_UNIT_HARUKA >
 name=Haruka
-descr=Vous perdez -1 ATK en début de combat par allié actuellement KO.
+descr=Vous perdez -1 ATK en début de combat si un allié est actuellement KO.
 
 < CARD_UNIT_KANATA >
 name=Kanata

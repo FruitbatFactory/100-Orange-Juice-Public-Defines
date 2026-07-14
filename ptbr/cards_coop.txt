@@ -400,7 +400,7 @@ flavor="Todas as armas preparadas... FOGO!" ―Grain
 
 < CARD_HYPER_COOP_HARUKA >
 name=Trazendo O Hype
-descr=Duração do Efeito: 2 Capítulos.\nSempre que outro jogador sofrer nocaute, pague Nvl vezes 5 em estrelas. O jogador vai recuperar instantaneamente com HP cheio.
+descr=Duração do Efeito: 2 Capítulos.\nQuando outro jogador sofrer nocaute, pague Nvl vezes 5 em estrelas. O jogador vai recuperar instantaneamente com HP cheio.
 flavor="Vamos hypar o jogo juntas!" ―Haruka
 
 < CARD_HYPER_COOP_KANATA >

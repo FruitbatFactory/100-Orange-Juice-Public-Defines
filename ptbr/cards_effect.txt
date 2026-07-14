@@ -653,6 +653,10 @@ descr=Pode tomar o controle de invocações do qual é dono.
 name=Montanha de Doces
 descr=Capaz de jogar cartas Boost adicionais por 1/3 de seu custo.
 
+< CARD_CHAOS_PROTECT_EFFECT >
+name=Proteção do Caos
+descr=Para cada dano que você tomar, consuma um estoque por cada até 2 de dano para diminuí-la para 1.
+
 < CARD_CHAOS_HYPE_EFFECT >
 name=Hype
 descr=Ela está Hypada.
@@ -699,15 +703,23 @@ descr=Não pode ser desafiada ou ser o alvo de cartas de Boost de outros jogador
 
 < CARD_HYPERMIRACLE_EFFECT >
 name=Hiper Milagre da Ellie
-descr=Duração do Efeito: 2 capítulos. Ganhe +X ATK em batalha quando for atacante, e +X DEF e +X EVD quando for defensor. X = seu total de Normas concluídas.
+descr=Ganhe +X ATK em batalha quando for atacante, e +X DEF e +X EVD quando for defensor. X = seu total de Normas concluídas.
 
 < CARD_MOMENTOFGLORY_EFFECT >
 name=Momento de Glória do Ex-Protagonista
-descr=Custo: Nvl x10. Diminua seu HP para 1. Duração do Efeito: 3 capítulos. Ganhe +4 ATK e +5 EVD.
+descr=Ganhe +2 ATK e +5 EVD.
 
 < CARD_HKAIPASSIVE_EFFECT >
 name=Segundo Vento
 descr=Se você fosse abaixo de 1 HP por conta de dano de fora de batalha, mantenha em 1 HP. Se você ainda estiver em 1 HP no seu próximo final de turno, sofra nocaute.
+
+< CARD_WARPCONTROL_EFFECT >
+name=Controle do Teleporte
+descr=Após ativar um Teleporte ou Teleporte e Movimento, consuma este efeito e escolha outro painel do tipo Teleporte de sua escolha como destino.
+
+< CARD_NANAKOBIT_EFFECT >
+name=Bit da Nanako
+descr=Ganhe aleatóriamente +1 ATK, +1 DEF, ou +1 EVD no começo da batalha quando essa carta estiver na sua mão, e perca 7 estrelas.
 
 < CARD_MOTHERPOWER_EFFECT >
 name=Poder de Mãe

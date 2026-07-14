@@ -2,6 +2,10 @@
 name=Engañosamente Engañado
 descr=La próxima carta de esta unidad no será activada.
 
+< CARD_UNLUCKYBEAST_EFFECT >
+name=Bestia Desafortunada
+descr=La próxima acción de esta unidad será omitida.
+
 < CARD_STUFFED_EFFECT >
 name=Relleno
 descr=Esta unidad recibirá -1 ATK en su próxima batalla.
@@ -66,7 +70,7 @@ descr=Unidades robóticas lucharán en el lugar de este jugador. Estas unidades 
 name=El Mejor de los Amigos
 descr=Esta unidad no podrá desafiar o ser desafiada, ignorará los paneles del jefe, y tomará una carta del mazo junto con otros jugadores al estar en el mismo panel que ellos; aun así, los jugadores podrían detenerse para acariciar a esta unidad.
 
-< CARD_PRISONBREAK_EFFECT >
+< CARD_COOP_PRISONBREAK_EFFECT >
 name=Escape de Prisión Fingido
 descr=Esta unidad tirará dos dados al moverse, no podrá ser desafiada y será inmune a las cartas Trampa y al daño recibido por las cartas del jefe. Se perderá un efecto de este mismo tipo por cada panel atravesado.
 

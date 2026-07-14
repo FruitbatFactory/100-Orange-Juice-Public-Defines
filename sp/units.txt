@@ -341,7 +341,7 @@ descr=
 
 < CARD_UNIT_MALT >
 name=Malta
-descr=Otorga 3 Victorias al ser derrotado en un combate. No puede desafiar a nadie a un combate. Puede colocar una Carta de Batalla sin requerimientos especiales como una Trampa sin pagar por su costo. Si un enemigo cae en ella, ambos entrarán en un combate y recibirán el efecto de la misma. Otras cartas no podrán ser usadas dentro del combate.
+descr=Otorga 3 Victorias al ser derrotado en un combate. No puede desafiar a nadie a un combate. Puede colocar una Carta de Batalla sin requerimientos especiales como una Trampa sin pagar por su costo. Si un enemigo cae en ella, ellos lo desafiarán y él recibirá el efecto de la misma. No podrá usar otras cartas de batalla dentro de ese combate.
 
 < CARD_UNIT_MAYNIE >
 name=Maynie
@@ -629,11 +629,11 @@ descr=Si la próxima carta del Jefe es una carta Especial o de Nivel 3, recibir�
 
 < CARD_UNIT_HARUKA >
 name=Haruka
-descr=Recibe -1 ATK al comienzo de la batalla por cada jugador noqueado actualmente.
+descr=Recibe -1 ATK al comienzo de la batalla si un jugador se encuentra noqueado actualmente.
 
 < CARD_COOP_UNIT_HARUKA >
 name=Haruka
-descr=Recibe -1 ATK al comienzo de la batalla por cada aliado noqueado actualmente.
+descr=Recibe -1 ATK al comienzo de la batalla si un aliado se encuentra noqueado actualmente.
 
 < CARD_UNIT_KANATA >
 name=Kanata

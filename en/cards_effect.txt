@@ -707,11 +707,11 @@ descr=Gain Lvl x1 stars for every point of damage you take. If the effect ends o
 
 < CARD_HYPERMIRACLE_EFFECT >
 name=Ellie's Hyper Miracle
-descr=Effect Duration: 2 chapters. Gain +X ATK in battle when attacker, and +X DEF and +X EVD when defender. X = your total Norma completed.
+descr=Gain +X ATK in battle when attacker, and +X DEF and +X EVD when defender. X = your total Norma completed.
 
 < CARD_MOMENTOFGLORY_EFFECT >
 name=Ex-Protagonist's Moment of Glory
-descr=Cost: Lvl x10. Lower your HP to 1. Effect Duration: 3 chapters. Gain +4 ATK and +5 EVD.
+descr=Gain +2 ATK and +5 EVD.
 
 < CARD_HKAIPASSIVE_EFFECT >
 name=Second Wind

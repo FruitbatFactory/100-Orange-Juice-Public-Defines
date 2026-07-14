@@ -125,6 +125,9 @@
 < FIELD_SCHOOLYARD >
 교정
 
+< FIELD_AMBITION >
+야망
+
 < FIELD_COOP_LAGOONFLIGHT >
 라군 플라이트: 협
 

@@ -49,4 +49,7 @@ Clubroom Challengers
 < EVENTNAME_VALENTINES >
 Chocolate for the Sweet Gods
 
+< EVENTNAME_SUMMER2026 >
+Resplendent Rivals
+
 [EOF]

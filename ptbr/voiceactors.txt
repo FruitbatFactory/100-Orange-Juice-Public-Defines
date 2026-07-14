@@ -176,4 +176,13 @@ Takamori Natsumi
 < VOICEACTOR_SUGUTA_HINA >
 Suguta Hina
 
+< VOICEACTOR_TOKUI_SORA >
+Tokui Sora
+
+< VOICEACTOR_SHIRASU_SAHO >
+Shirasu Saho
+
+< VOICEACTOR_OHASHI_AYAKA >
+Ohashi Ayaka
+
 [EOF]

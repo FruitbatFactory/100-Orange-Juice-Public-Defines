@@ -466,7 +466,7 @@ flavor="......" ―Sora
 
 < CARD_GIFT_LUCKYCHARM >
 name=Amuleto da Sorte
-descr=Ganhe Nível x1 em estrelas no começo de seu turno. Você não pode usar quaisquer cartas. Esta carta é descartada em uso. Ao ser derrotado, dê Lvl x 3 a mais de estrelas.
+descr=Ganhe Nível x1 em estrelas no começo de seu turno. Reduza o tamanho da sua mão para 1. Você não pode usar quaisquer cartas. Esta carta é descartada em uso. Ao ser derrotado, dê Lvl x 3 a mais de estrelas.
 flavor="Uhul, quantas estrelas! Hoje é meu dia!!" ―Tomomo
 
 < CARD_GIFT_METALLICMONOCOQUE >
@@ -777,7 +777,7 @@ flavor="Você não pode fazer um adulto exagerar." ―Pai Kai
 
 < CARD_HYPER_GRAIN >
 name=Todas as Armas Preparadas
-descr=Pague todos os Contadores de Bola de Canhão estocados. Dê 1 de dano para um inimigo aleatório. Se o inimigo é nocauteado, ganhe 1 Vitória e Estrelas equivalente a 10x o nível dele. Repita isto uma vez para cada Contador de Bola de Canhão pago.
+descr=Ganhe um Contador de Bola de Canhão e pague todos os Contadores de Bola de Canhão estocados. Dê 1 de dano para um inimigo aleatório. Se o inimigo é nocauteado, ganhe 1 Vitória e Estrelas equivalente a 3x o nível dele. Repita isto uma vez para cada Contador de Bola de Canhão pago.
 flavor="Todas as armas preparadas... FOGO!" ―Grain
 
 < CARD_HYPER_BOURBON >
@@ -877,7 +877,7 @@ flavor=
 
 < CARD_CHAOS_RAMPAGE >
 name=Fúria Caótica
-descr=Lower Hype to 0. For each 3 points of Hype, deal 1 damage to all enemies, and gain +1 ATK until next KO. For each KOed unit by this card's damage, gain +1 HP.
+descr=Diminua o Hype a 0. Para cada 3 pontos de Hype, dê 1 de dano em todos os inimigos, e ganhe +1 ATK até o próximo nocaute. Para cada unidade nocauteada pelo dano dessa carta, ganhe +1 HP.
 flavor=
 
 < CARD_CHAOS_LAUNCH >
@@ -969,6 +969,10 @@ flavor="Eu consigo ver quais cartas você tem na mão." ―Kanata
 name=Carta de Banner
 descr=Esta é uma carta de Banner.
 flavor="Eu consigo ver quais cartas você tem na mão." ―Kanata
+
+< CARD_GENERIC_HYPER >
+name=Carta Hiper
+descr=
 
 [EOF]
 

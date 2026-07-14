@@ -47,6 +47,9 @@
 < GAME_NORMA_WINS_MULTIPLE >
 적을 <normaamount>명 이상 격퇴한다.
 
+< GAME_NORMA_WINS_MULTIPLE_REV >
+적을 <normaamount>명 이하 격퇴한다.
+
 < GAME_NORMA_WINS_1 >
 적을 격퇴한다.
 

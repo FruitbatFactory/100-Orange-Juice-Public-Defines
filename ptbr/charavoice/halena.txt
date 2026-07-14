@@ -115,6 +115,7 @@
 <0114> Dê uma olhada, eu recomendo esta coisa.
 <0115> Oh, o que você acha desse aqui?
 <0116> Eu gosto desse aqui.
+<0117> Você consegue.
 <0118> Saber seu limite é uma boa coisa.
 <0119> Pessoa certa, lugar certo, hora certa.
 <0120> Vamos trocar.

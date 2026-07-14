@@ -181,7 +181,13 @@ Cazas de Jugadores
 Enfriamiento de TAG
 
 < MENU_LOBBYSETTING_PARTNERREGENDELAY >
-Demora Regeneración de Compañero
+Demora de PV Regen. de Compañero
+
+< MENU_LOBBYSETTING_PARTNERREVIVEDELAY >
+Demora de Revivir de Compañero
+
+< MENU_LOBBYSETTING_CHAPTERLIMIT >
+{} Capítulos Máx.
 
 < MENU_BUTTON_GAME_RETURN >
 VOLVER
@@ -251,6 +257,12 @@ OBJETOS
 
 < MENU_BUTTON_GAME_SELLCARDS >
 VENDER CARTAS
+
+< MENU_BUTTON_GAME_BOMB >
+BOMBA
+
+< MENU_BUTTON_GAME_DASH >
+CARRERA
 
 < MENU_BUTTON_GAME_FORECAST >
 PRONÓSTICO
@@ -455,11 +467,6 @@ Al ser noqueado, tu equipo pierde el 1/8 de sus estrellas. Las unidades también
 
 < PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_09 >
 ¡Manten un ojo sobre el reloj! En el capítulo 30, ¡Jonny el Grande se enojará y destrozará todos los hogares y activará sus habilidades más poderosas!
-
-< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_10 >
-Si todos los aliados están noqueados al mismo tiempo, el juego se acabará y Jonny el Grande ganará. El daño que él recibió contará hacia el evento de todas formas.
-
-
 
 < PLAYMENU_EVENT_SUMMER2018_COMPLETE >
 ¡Jonny el Grande fue pacificado y el océano vuelve a estar seguro otra vez!
@@ -769,6 +776,9 @@ La caza de hongos terminó con un empate(?) esta vez... ¡Pero aun así puedes s
 < PLAYMENU_1MILLIONCHARA_UNLOCK >
 ¡Felicitaciones! ¡La recompensa por 1 millón de descargas en Steam, Mio, ya se encuentra disponible!\n¡Su voz también se encuentra disponible!
 
+< PLAYMENU_TOOLTIP_10YEARANNIVERSARY >
+¡Regalo de aniversario por 10 años en Steam!\nPuedes cambiar el reverso de la carta al hacer clic sobre su icono en la selección de avatar.
+
 < PLAYMENU_SUMMER2019_RERUN_REVIVE >
 ¡QP quiere seguir jugando! ¡La Bestia Veraniega ha sido resucitada!
 
@@ -1069,6 +1079,30 @@ Los efectos que se aplican a uno mismo tras recuperarse al ser noqueado serán a
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_COMPLETE >
 ¡Felicitaciones! ¡El club de 100% OJ ha sido establecido! ¡Disfruta de tu juventud al trabajar en equipo para obtener más recompensas!
 
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_MAIN >
+¡Un nuevo rival ha aparecido! ¿Puedes alcanzar las expectativas de Rinse?
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_01 >
+Durante este evento, los jugadores podrán jugar en un modo de juego especial: ¡Trabajo en Equipo!
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_02 >
+¡Completa las tareas marcadas en la pizarra para conseguir puntos y completar el evento!
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_03 >
+¡Nuevos desafíos aparecerán todos los días, así que asegúrate de no olvidarlos!
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_04 >
+Puedes usar tus estrellas para refrescar desafíos ya completados, o aquellos que no te gusten. ¡Pero ten cuidado, los costos solo aumentarán más y más!
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_05 >
+Además, durante el evento, el modo de Trabajo en Equipo tiene una nueva opción: puedes personalizar el tiempo para Revivir una vez que tu compañero haya sido derrotado.
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_06 >
+¡Muestra tus habilidades a través de estos desafíos para mostrarle a Rinse de lo que el club de 100% OJ realmente es capaz!
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_COMPLETE >
+¡Felicidades! ¡Has alcanzado las expectativas de Rinse y conseguido su aprobación! Podrás seguir completando las tareas del evento para obtener Naranjas adicionales por cada desafío completado.
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 Próxima meta:
 
@@ -1134,6 +1168,9 @@ Vengador
 
 < MENU_COOPCLASS_DEALER >
 Negociante
+
+< MENU_COOPCLASS_VANGUARD >
+Vanguardia
 
 < MENU_COOPUNLOCK_LEVEL >
 Nivel %d: %s
@@ -1345,6 +1382,9 @@ El Conserje
 < MENU_CODEXSTORY_TITLE_ALTENICO >
 Tesoros Bajo la Noche Estrellada
 
+< MENU_CODEXSTORY_TITLE_MUSHROOMWAR >
+Guerra de Hongos
+
 < MENU_CODEXSTORY_TITLE_GREATPILOT >
 Un Gran Piloto
 
@@ -1353,6 +1393,9 @@ Juega {0} partidas como {1}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES_NUNITS >
 Juega {0} partidas como una de las siguientes unidades: {1}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE >
+Juega {0} partidas en el modo {1}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_EVENT >
 Completa "{0}" evento.
@@ -1369,6 +1412,9 @@ Juega {0} como {1}.
 < MENU_CODEXSTORY_UNLOCKCOND_ANYCARD >
 cualquier Carta
 
+< MENU_CODEXSTORY_UNLOCKCOND_PLAYCARD_ANYOF >
+Usa cualquier {0}.
+
 < MENU_CODEXSTORY_UNLOCKCOND_USERUNLOCK >
 Desbloquea {0}.
 
@@ -1383,6 +1429,18 @@ cualquier personaje de {0}
 
 < MENU_CODEXSTORY_UNLOCKCOND_ANYUNIT >
 cualquier Unidad
+
+< MENU_CODEXSTORY_UNLOCKCOND_DAILYCHALLENGE >
+Completa {0} desafíos diarios.
+
+< MENU_CODEXSTORY_UNLOCKCOND_PANEL >
+Cae en paneles de {0}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_STARS >
+Consigue {0} estrellas.
+
+< MENU_TASKBOARD_REROLL >
+¿Pagar {0} estrellas para cambiar esta tarea?\nEstrellas actuales:
 
 < MENU_NORMABOARD >
 Mejora de Norma
@@ -1416,6 +1474,9 @@ DIFICULTAD
 
 < MENU_CHAOS_GM_SELECT_POWER >
 Selecciona un Poder de Maestro
+
+< PLAYMENU_200ORANGE_VOUCHER_ACQUIRE >
+¡Has obtenido un cupón por 200 Naranjas{}! Ve a la sección de Misc. en la tienda para cambiarlo por 200 Naranjas.
 
 
 [EOF]

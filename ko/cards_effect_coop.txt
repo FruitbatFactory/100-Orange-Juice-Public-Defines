@@ -2,6 +2,10 @@
 name=사기로 무장해제됨
 descr=다음 행동을 넘긴다.
 
+< CARD_UNLUCKYBEAST_EFFECT >
+name=불운의 드래곤
+descr=다음 행동을 넘긴다.
+
 < CARD_STUFFED_EFFECT >
 name=배부름
 descr=다음 배틀에서 공격력 -1을 얻는다.
@@ -52,7 +56,7 @@ descr=다음 행동을 넘긴다.
 
 < CARD_COOP_FINALSURGERY_EFFECT >
 name=마무리 수술
-descr=부활 시까지 회복값 -2를 얻는다.
+descr=부활 시까지 부활값 -2를 얻는다.
 
 < CARD_COOP_STEALTHON_EFFECT >
 name=스텔스 온

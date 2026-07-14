@@ -195,7 +195,7 @@
 角色选择并建立卡组。
 
 < COM_DECK_NOTPREPARED >
-还没有做好准备。
+你还没有做好准备。
 
 < COM_DECK_CARDLIMITREACHED >
 已经无法再放入这种卡片了。

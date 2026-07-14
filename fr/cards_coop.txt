@@ -1,12 +1,12 @@
 < CARD_BOOST_COOP_GENTLEMANSBATTLE >
 name=Défi du Gentleman
 descr=Défiez un ennemi ayant tous ses PV au choix. Cette action met ensuite fin à votre tour.
-flavor="Prends ça !" ―Maître de la Guilde
+flavor="Réglons nos comptes à armes égales." ―Maître de la Guilde
 
 < CARD_EVENT_COOP_DINNER >
 name=Dîner
 descr=Soigne 3 PV à vous et vos alliés.
-flavor="Prenons donc le dîner ensemble !" ―Natsumi
+flavor="Reste au moins le temps du repas !" ―Natsumi
 
 < CARD_BATTLE_COOP_SINKORSWIM >
 name=Quitte ou Double
@@ -41,7 +41,7 @@ flavor="Vous pouvez garder cette cargaison. Oui, vous pouvez." ―Marchand
 < CARD_EVENT_COOP_FORCEDREVIVAL >
 name=Résurrection Forcée
 descr=Tous les personnages KO se relèvent avec la moitié haute de leurs PV.
-flavor="Vous serez debout en moins de deux." ―Kiriko
+flavor="Une piqûre et ça repart !" ―Kiriko
 
 < CARD_EVENT_COOP_REBELLION >
 name=Rébellion
@@ -80,7 +80,7 @@ flavor="C'est quoi cette arnaque ?" ―Lulu
 
 < CARD_EVENT_COOP_EXTREMEALTERATION >
 name=Cruelle Altération
-descr=Durée de l'Effet : 1 chapitre\nTransforme toutes les cases (sauf Maison) en cases Pioche.##(Activation : Marchez sur 3 cases Boss {0}):\nTransforme toutes les cases (sauf Maison) en cases Pioche x2.
+descr=Durée de l'Effet : 1 chapitre\nTransforme toutes les cases (sauf Maison) en cases Pioche.##(Activation : Tombez sur 3 cases Boss {0}) :\nTransforme toutes les cases (sauf Maison) en cases Pioche x2.
 flavor="Je vais guérir le monde de la maladie qui le gangrène..." ―Kiriko
 
 < CARD_HYPER_COOP_ALTE >
@@ -155,7 +155,7 @@ flavor="Regarde, des centaines d'avions traversent les nuages comme des oiseaux.
 
 < CARD_HYPER_COOP_MASTER >
 name=Banni à Vie
-descr=★Coût : Étoiles / 10.\nLe Boss passe son prochain tour et ne joue pas sa prochaine carte.
+descr=★Coût : Étoiles / 10.\nAnnule la prochaine carte du Boss.
 flavor="Patron, c'est votre tour !!" ―Chris
 
 < CARD_HYPER_COOP_MAYNIE >
@@ -400,11 +400,11 @@ flavor=
 
 < CARD_BOSS_COOP_FLIGHT >
 name=Envol
-descr=Le Boss se déplace à l'envers et inflige (Niv. Boss) dégâts à tous les joueurs qu'il croise.
+descr=Le Boss se déplace à l'envers et inflige (Niv. Boss) dégâts aux joueurs sur son passage.
 flavor=
 
 < CARD_BOSS_COOP_CHICKEN_ATTACK >
-name=Attaque de Poulet
+name=Maman-buscade
 descr=Le Boss attaque tous les joueurs sur la même case.
 flavor=
 
@@ -430,7 +430,7 @@ flavor=
 
 < CARD_BOSS_COOP_CALL_OF_CHICKEN >
 name=Cocorico
-descr=Joue aussitôt la prochaine carte (sauf Perchoir).
+descr=Joue aussitôt la prochaine carte (ignore Ponte Express).
 flavor=
 
 < CARD_BOSS_COOP_CHICKEN_RUN >
@@ -469,13 +469,13 @@ descr=Attaque tous les joueurs à 1 case de proximité par ordre croissant de PV
 flavor=
 
 < CARD_BOSS_COOP_ROOST >
-name=Perchoir
-descr=Le Boss invoque un familier Poulet sur sa case (4 maximum).
+name=Ponte Express
+descr=Le Boss invoque une Poule sur sa case (4 maximum).
 flavor=
 
 < CARD_BOSS_COOP_ROOST_HYPER >
-name=Perchoir
-descr=Le Boss invoque deux familiers Poulet sur sa case (4 maximum).
+name=Ponte Express
+descr=Le Boss invoque deux Poules sur sa case (4 maximum).
 flavor=
 
 < CARD_BOSS_COOP_MALFUNCTION >
@@ -1009,13 +1009,13 @@ descr=Tous les joueurs donnent au Boss leur ATK x5 ★.\nSi l'ATK est négative,
 flavor=
 
 < CARD_BOSS_COOP_ROOST_BOOST >
-name=Superchoir
-descr=Le Boss invoque un familier Poulet sur sa case (1 maximum).
+name=Poulet Plus
+descr=Le Boss invoque une Poule sur sa case (1 maximum).
 flavor=
 
 < CARD_BOSS_COOP_ROOST_BOOST_HYPER >
-name=Superchoir
-descr=Le Boss invoque un familier Poulet sur sa case (2 maximum).
+name=Poulet Plus
+descr=Le Boss invoque une Poule sur sa case (2 maximum).
 flavor=
 
 < CARD_BOSS_COOP_PO_TECT >

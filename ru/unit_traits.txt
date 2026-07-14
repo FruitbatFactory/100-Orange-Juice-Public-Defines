@@ -2,7 +2,7 @@
 Мужчина
 
 < UNIT_TRAIT_FEMALE >
-Женшина
+Женщина
 
 < UNIT_TRAIT_GENDERLESS >
 Без Пола

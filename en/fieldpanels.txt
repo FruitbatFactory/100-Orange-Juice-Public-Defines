@@ -1,0 +1,86 @@
+< FIELD_PANEL_NEUTRAL >
+Neutral
+
+< FIELD_PANEL_BONUS >
+Bonus
+
+< FIELD_PANEL_DROP >
+Drop
+
+< FIELD_PANEL_DRAW >
+Draw
+
+< FIELD_PANEL_ENCOUNTER >
+Encounter
+
+< FIELD_PANEL_BOSS >
+Boss Encounter
+
+< FIELD_PANEL_HOME >
+Home
+
+< FIELD_PANEL_WARP >
+Warp
+
+< FIELD_PANEL_WARPMOVE >
+Warp Move
+
+< FIELD_PANEL_MOVE >
+Move
+
+< FIELD_PANEL_HEAL >
+Heal
+
+< FIELD_PANEL_DAMAGE >
+Damage
+
+< FIELD_PANEL_MUD >
+Mud
+
+< FIELD_PANEL_SNOW >
+Snow
+
+< FIELD_PANEL_PLAYGROUND >
+Playground
+
+< FIELD_PANEL_DECORATION >
+Decoration
+
+< FIELD_PANEL_PLAYER >
+Player Encounter
+
+< FIELD_PANEL_RANDOM >
+Random
+
+< FIELD_PANEL_BOSSHOME >
+Boss Home
+
+< FIELD_PANEL_DECK >
+Deck Spawner
+
+< FIELD_PANEL_SPEC >
+Spectator Spawner
+
+< FIELD_PANEL_BONUS_DOUBLE >
+Bonus (x2)
+
+< FIELD_PANEL_DROP_DOUBLE >
+Drop (x2)
+
+< FIELD_PANEL_DRAW_DOUBLE >
+Draw (x2)
+
+< FIELD_PANEL_ENCOUNTER_DOUBLE >
+Encounter (X2)
+
+< FIELD_PANEL_WARPMOVE_DOUBLE >
+Warp Move (x2)
+
+< FIELD_PANEL_MOVE_DOUBLE >
+Move (x2)
+
+< FIELD_PANEL_HEAL_DOUBLE >
+Heal (x2)
+
+< FIELD_PANEL_DAMAGE_DOUBLE >
+Damage (x2)

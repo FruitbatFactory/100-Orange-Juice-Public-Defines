@@ -76,7 +76,7 @@ descr=所有友方的EVD+1。
 
 < MIXER_BLAZING >
 name=爆燃
-descr=所有角色ATK+1·DEF-1。
+descr=所有角色ATK+1，DEF-1。
 
 < MIXER_FLIPPED >
 name=翻轉

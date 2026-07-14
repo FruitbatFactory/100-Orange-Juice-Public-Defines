@@ -72,7 +72,7 @@ descr=이동력 +4 증가, 의뢰를 단 1장만 가질 수 있다.
 
 < INVENTORY_DELICACY >
 name=진미
-descr=쿡쿠에게 줄 맛있는 먹거리. 게임 한 판에 3개까지 모인다.
+descr=쿡에게 줄 맛있는 먹거리. 게임 한 판에 3개까지 모인다.
 
 < INVENTORY_ATK1 >
 name=쿠키

@@ -1,0 +1,220 @@
+// intro
+// (kanata)
+<0000> Minha nossa.
+// (haruka)
+<0001> Mano.
+// (chuu)
+<0002> E-ela é muito boa!
+// (popomi)
+<0003> A Popo tem que dizer que vocês estão todas otimistas demais. Vocês realmente acham que vão conseguir aproveitar a juventude desse jeito?!
+// (mimomo)
+<0004> Você ainda é boa, Popomi.
+// (popomi)
+<0005> Não, Popo não é. É apenas que essas garotas são muito piores que Popo.
+// (kanata)
+<0006> Estou sem resposta.
+// (haruka)
+<0007> Eu não sabia que 100% OJ podia mostrar uma diferença tão grande de habilidade entre jogadoras...
+// (chuu)
+<0008> É verdade, mas ela também compra a carta certa quando precisa também. Ela merece totalmente ser a Senhora Mascote 100% OJ.
+// (popomi)
+<0009> Ganhar ou perder em um jogo depende muito da sorte! Mas é por isso que é importante analisar a situação — entender o fluxo da sorte...
+// (kanata)
+<0010> Eu não entendo o que sequer isso significa.
+// (popomi)
+<0011> Jogue o jogo de tabuleiro com algumas pessoas, e você vai pegar o jeito.
+// (mimomo)
+<0012> Então, a gente provavelmente deveria jogar com pessoas de outras escolas também.
+// (popomi)
+<0013> Aham, deveríamos. Popo conhece algumas escolas em que podemos perguntar...
+// (poyo)
+<0014> Garotas!!! Manodocéu, garotas!!!
+// (chuu)
+<0015> Eita, Poyo, o que raios está acontecendo?
+// (poyo)
+<0016> Recebemos um desafio! Um desafio para uma partida de 100% OJ! Dessa outra escola!
+// (chuu)
+<0017> Serião? Faz menos de uma semana desde que o clube voltou.
+// (poyo)
+<0018> Aham, é por isso que minha mente explodiu! E olha só: o desafio veio da escola...
+// (kanata)
+<0019> Vento Resplandecente?
+// (poyo)
+<0020> Bingo! O clube 100% OJ de lá é dito como sendo muito bom e... Pera lá, como você sabia disso?
+// (kanata)
+<0021> É a escola que nossa amiga de infância frequenta.
+// (haruka)
+<0022> E eu contei a ela que Kana e eu entramos no clube 100% OJ daqui, mas...
+// (haruka)
+<0023> Eu não esperava que ela fosse pedir uma partida conosco tão cedo.
+// (kanata)
+<0024> Parece que Rin quer muito jogar conosco.
+// (popomi)
+<0025> De qualquer forma, Popo está grata de que conseguimos as melhores oponentes no melhor momento.
+// (popomi)
+<0026> Poyo, estamos aceitando esse desafio.
+// (unknown)
+<0027> Fufufu, eu sabia que você iria aceitar.
+// (haruka)
+<0028> Rin!?
+// (rinse)
+<0029> Há quanto tempo, Haru, Kana.
+// (rinse)
+<0030> E Marie, estou feliz de ver que você está bem.
+// (popomi)
+<0031> Sim, Popo está. Você ainda gosta de aparecer de repente, Sudou.
+// (rinse)
+<0032> O tempo passa como a luz. Eu ajo no instante em que tomo uma decisão – é assim que vivo.
+// (suishou)
+<0033> Pessoal, peço desculpas por ela ter entrado de repente e causado toda essa confusão.
+// (mimomo)
+<0034> Quem é você?
+// (suishou)
+<0035> Eu deveria ter me apresentado primeiro. Sou Yukimura Suishou, vice-capitã do clube 100% OJ da Academia Privada Vento Resplandecente.
+// (rinse)
+<0036> E eu sou Sudou Rinse, capitã do clube 100% OJ da Academia Privada Vento Resplandecente.
+// (rinse)
+<0037> Viemos aqui para jogar 100% OJ com minhas queridas Haru e Kana... *Ahem* Quer dizer, para uma partida amigável de 100% OJ.
+// (haruka)
+<0038> Você não mudou nada, Rin.
+// (popomi)
+<0039> Bem, 100% OJ é um jogo bem simples, de qualquer forma. Dá para jogar só com um tabuleiro e um dado. Se quiser nos desafiar, aceitamos!
+// (rinse)
+<0040> Obrigada por entender tão rápido, Marie. Então, podemos começar agora mesmo? As jogadoras seremos eu, Suishou e...
+// (kanata)
+<0041> Parece que ela quer eu e você, Haru.
+// (haruka)
+<0042> É, pois ela está olhando para nós com estrelas nos olhos.
+// (rinse)
+<0043> Fufufu.
+// (popomi)
+<0044> Extrovertida! Gênio! Vocês duas precisam usar tudo o que têm contra ela, ok? Ela é a capitã de uma escola top-tier.
+// (haruka(extrovert))
+<0045> Eu quero que você pare de me chamar assim. Eu nunca sei como responder a isso.
+// (kanata(genius))
+<0046> Não será um problema. Nós jogamos 100% OJ com ela diversas vezes desde que éramos crianças.
+// (rinse)
+<0047> Ei, Haru, Kana - há uma coisa que eu gostaria de perguntar. Vocês duas entraram para o clube 100% OJ para aproveitar ao máximo a juventude, não foi?
+// (haruka)
+<0048> Sim, nós todas decidimos aproveitar nossa juventude ao máximo.
+// (rinse)
+<0049> Nesse caso, para tornar sua juventude ainda mais resplandecente... talvez eu seja uma irmã mais velha um pouco diferente do habitual.
+// (poyo)
+<0050> ...! A aura ao redor dela simplesmente mudou.
+// (popomi)
+<0051> Assista com cuidado, Poyo. Assista a maneira que ela joga.
+
+// ending
+// (haruka)
+<0052> E-eu não pude fazer nada.
+// (kanata)
+<0053> Eu não fazia ideia de que você podia ficar em desvantagem a esse ponto em 100% OJ.
+// (chuu)
+<0054> Foi sorte? Habilidade? Como ela chegou a esse ponto?
+// (poyo)
+<0055> Eu acho... que é a habilidade dela de controlar o fluxo do jogo. Ela deve ser muito boa em fazer os oponentes seguirem o ritmo dela.
+// (chuu)
+<0056> Poyo?
+// (popomi)
+<0057> Percebeu bem, Poyo.
+// (popomi)
+<0058> Além disso, ela não tem medo de levar dano ou até mesmo ser nocauteada para garantir momentum. Ela pode não parecer, mas essa ousadia é o que a torna forte.
+// (haruka)
+<0059> "Eu não fazia ideia de que a Rin era tão forte."
+// (kanata)
+<0060> Parece que ela não estava levando a sério quando estava jogando com a gente antes.
+// (rinse)
+<0061> Fufufu, desculpem, meninas. Mas se a juventude de vocês brilha mais forte por me terem como uma muralha diante de vocês-
+// (rinse)
+<0062> Então irei com tudo no jogo o quanto for preciso.
+// (kanata)
+<0063> Obrigada, Rin. Não posso dizer que vencerei o próximo jogo, mas...
+// (haruka)
+<0064> Vamos nos esforçar mais para jogar um jogo melhor!
+// (rinse)
+<0065> Eu estou ansiosa por isso.
+// (rinse)
+<0066> Pois bem, agora que a partida acabou, é hora de...
+// (popomi)
+<0067> Aonde você pensa que vai? Você não vai embora sem ter uma partida com Popo, não é?
+// (rinse)
+<0068> Sim, estou. Você ainda não se livrou da ferrugem, não é?
+// (popomi)
+<0069> Ngh...
+// (poyo)
+<0070> U-um!
+// (poyo)
+<0071> E-eu também quero jogar uma partida com você, Rinse...!
+// (rinse)
+<0072> Você é...
+// (poyo)
+<0073> Oage Poyo! Sou uma aluna do primeiro ano aqui na Academia Brilhante e Cintilante.
+// (rinse)
+<0074> Fufufu, você tem bons olhos.
+// (suishou)
+<0075> Ela percebeu o estilo de jogo da Senhorita Rinse em apenas uma partida.
+// (poyo)
+<0076> Ehehe.
+// (poyo)
+<0077> Oh, então sobre a partida...!
+// (rinse)
+<0078> Vamos deixar isso para outra hora. Tenho certeza de que você e Marie me enfrentarão em um palco mais adequado.
+// (poyo)
+<0079> Um palco mais adequado...?
+// (rinse)
+<0080> Bem, então, desculpe o incômodo. Vamos, Suishou.
+// (suishou)
+<0081> Sim.
+// (suishou)
+<0082>  ...Oh, Senhorita Marie Poppo. Só mais uma última coisa.
+// (popomi)
+<0083> Hm?
+// (suishou)
+<0084> (Só entre nós, Senhorita Rinse postou em todas as redes sociais sobre o seu retorno...)
+// (popomi)
+<0085> Como é!?
+// (suishou)
+<0086> (Ao contrário de Lady Rinse, pode haver pessoas que queiram te derrotar enquanto você está enferrujada para se promoverem. Por favor, tome cuidado.)
+// (popomi)
+<0087> Ei- Sudou, como você ousa compartilhar informações pessoais da Popo sem pedir...
+// (rinse)
+<0088> Haru, Kana, e todo mundo - vamos absolutamente ter outra partida, com certeza.
+// (rinse)
+<0089> E Marie, é melhor você lutar contra oponentes fortes várias e várias e várias vezes... e se livrar da ferrugem rapidamente, ok? Até a próxima.
+// (mimomo)
+<0090> E-ela simplesmente fez o que quis e foi embora...
+// (haruka)
+<0091> Sinto muito pela nossa amiga de infância! Ela é assim mesmo.
+// (chuu)
+<0092> Muita coisa aconteceu, mas também estou curiosa sobre o que a Suishou disse no final.
+// (mimomo)
+<0093> Sobre as pessoas estarem mirando na Popo, né?
+// (popomi)
+<0094> Bom, isso também é bom para a Popo. Para aprimorar suas habilidades enferrujadas e as de suas juniores, oponentes fortes são essenciais!
+// (popomi)
+<0095> Pessoal, juntas ficaremos mais fortes! E participaremos do-
+// (popomi)
+<0096> O Torneio Nacional de 100% OJ!
+// (everyone)
+<0097> O Torneio de 100% OJ!?
+// (renko)
+<0098> Parece que a partida acabou de acabar.
+// (unknown)
+<0099> Como está a Marie Poppo?
+// (renko)
+<0100> Parece que ela ainda não voltou à sua forma de sempre.
+// (unknown)
+<0101> Que bom. Perdi minha chance de derrotá-la da última vez, mas desta vez é uma oportunidade de ouro.
+// (renko)
+<0102> Uh...  Isso não é meio que jogar sujo?
+// (unknown)
+<0103> Do que raios você está falando, Renko? Ela é que está fora de forma por conta própria. Não tem nada de sujo nisso.
+// (renko)
+<0104> Hmm... Creio que é verdade, mas...
+// (unknown)
+<0105> Além disso, eu não me importaria de ganhar com dados viciados se pudesse.
+// (renko)
+<0106> O quê?
+// (unknown)
+<0107> Enfim, quem vai derrotar a Marie Poppo e se tornar as campeãs de 100% OJ somos nós - Wallop High!
+

@@ -116,7 +116,6 @@
 <0114> Hmm, isso é algo bom.
 <0115> Então nós encontramos um novo item.
 <0116> Entendi... Isto é...
-<0116> Entendi... Isto é...
 <0117> Poderia cuidar disso?
 <0118> Eu estou contando com você.
 <0119> Se importaria?

@@ -625,11 +625,11 @@ descr=If the next Boss card is a Hyper or Level 3 card, gain +1 on Attack, Defen
 
 < CARD_UNIT_HARUKA >
 name=Haruka
-descr=Gain -1 ATK at the start of battle for each player currently KO'd.
+descr=Gain -1 ATK at the start of battle if a player is currently KO'd.
 
 < CARD_COOP_UNIT_HARUKA >
 name=Haruka
-descr=Gain -1 ATK at the start of battle for each ally currently KO'd.
+descr=Gain -1 ATK at the start of battle if an ally is currently KO'd.
 
 < CARD_UNIT_KANATA >
 name=Kanata

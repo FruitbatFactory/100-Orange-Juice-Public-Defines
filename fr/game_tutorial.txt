@@ -1,4 +1,3 @@
-
 < TUTORIAL_SECTION_BASICS >
 Introduction
 
@@ -17,7 +16,8 @@ Co-op
 < TUTORIAL_SECTION_BOUNTYHUNT >
 Chasseurs de Prime
 
-
+< TUTORIAL_VIDEO_OFFER >
+Bienvenue dans 100% Orange Juice ! Voulez-vous regarder une vidéo explicative sur le déroulement d'une partie ? (RECOMMANDÉ)\nVous pouvez toujours la regarder plus tard depuis le Guide.
 
 < TUTORIAL_00 >
 Bienvenue dans 100% Orange Juice ! Ce tutoriel couvre les bases - vous pouvez le lire en diagonale.

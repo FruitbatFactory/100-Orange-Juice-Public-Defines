@@ -106,6 +106,9 @@ Se recuperando!
 < GAME_MESSAGE_EVENTSUFFIX >
 !
 
+< GAME_MESSAGE_EVENT_NEXTCHAPTER >
+{} no próximo capítulo!
+
 < GAME_MESSAGE_VALENTINE2018_CHOCOLATEFRENZY >
 Delírio dos Chocolates!
 
@@ -195,3 +198,6 @@ Esta carta foi prevista para ser jogada a seguir por {}.
 
 < GAME_MESSAGE_LOCATIONFEE_FAIL >
 Falhou em pagar a taxa de proteção.
+
+< GAME_MESSAGE_YUKID_HYPER_SELECT_TRAPS >
+Selecione qualquer quantidade de cartas Armadilha para colocar.

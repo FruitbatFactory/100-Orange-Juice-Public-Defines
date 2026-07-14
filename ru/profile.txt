@@ -357,6 +357,9 @@ Ultimate Weapon Girl: Поппо
 <PROFILE_GALLERY_BGM_FIELD_SCHOOLYARD>
 Вступление Поля: Школьный Двор
 
+<PROFILE_GALLERY_BGM_FIELD_AMBITION>
+Вступление Поля: Амбиция
+
 <PROFILE_GALLERY_BGM_HARBINGER>
 Предвестник
 

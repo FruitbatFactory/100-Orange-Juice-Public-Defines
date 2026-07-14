@@ -76,7 +76,7 @@ flavor="Te tuer est mon devoir." ―Nath
 < CARD_BOOST_GENTLEMANSBATTLE >
 name=Défi du Gentleman
 descr=Défiez un joueur ayant tous ses PV au choix. Cette action met ensuite fin à votre tour.
-flavor="Prends ça !" ―Maître de la Guilde
+flavor="Réglons nos comptes à armes égales." ―Maître de la Guilde
 
 < CARD_EVENT_PLAYOFTHEGODS >
 name=Cadeau Divin
@@ -106,7 +106,7 @@ flavor="Une lumière capable de raser la ville entière... même la planète... 
 < CARD_GIFT_UNLUCKYCHARM >
 name=Talisman Porte-Malheur
 descr=★Coût : Niv. x5\nSi vous n'avez pas assez, cette carte devient gratuite.\nVous perdez (votre Niv.) ★ à chaque début de tour. Utiliser cette carte l'envoie à un autre joueur.
-flavor="Je me tourne vers la lumière car mon sommeil dans le noir complet se meurt..." ―Krilalaris
+flavor="Je me tourne vers la lumière, car mon sommeil n'est rien dans la pénombre..." ―Krilalaris
 
 < CARD_GIFT_WINDYENCHANTMENT >
 name=Sort de Vent
@@ -155,7 +155,7 @@ flavor="Je suis désolée... Je ne reviendrai jamais..." ―Alte
 
 < CARD_HYPER_KYOKO >
 name=Barrière Cristaline
-descr=(Cumul : 3)\nSi vous activez une carte Piège, ou une case Malus ou Combat, cette dernière s'annule. Vous prenez 1 dégât à la place et enlèvez 1 Cumul. L'effet prend fin si vous tombez KO.
+descr=(Cumul : 3)\nSi vous activez une carte Piège, ou une case Malus ou Combat, cette dernière s'annule. Vous prenez 1 dégât à la place et perdez 1 Cumul. L'effet prend fin si vous tombez KO.
 flavor="Quelle saleté..." ―Kyoko
 
 < CARD_HYPER_SHAM >
@@ -170,7 +170,7 @@ flavor="On ne demande qu'à voler librement." ―Cherry
 
 < CARD_HYPER_STARBREAKER >
 name=Mèche Étincelante
-descr=Place "Bombe Invisible" sur 3 à 5 cases au hasard.
+descr=Pose le piège "Bombe Invisible" sur 3 à 5 cases au hasard.
 flavor="Car je suis Star Breaker, la mèche étincelante de la fin du monde." ―Star Breaker
 
 < CARD_HYPER_STARBREAKER2 >
@@ -220,7 +220,7 @@ flavor="T'es tombé dans mon piège ! Prends ça !!" ―Mimyuu
 
 < CARD_HYPER_TOMATO >
 name=Méca-Loubardie, À l'Attaque !
-descr=Pour ce combat, vous obtenez +1 ATK & DEF et -1 EVD par nombre de cartes dans la main de votre adversaire.
+descr=Pour ce combat, vous obtenez (+1 ATK & DEF, -1 EVD) pour chaque carte dans la main de votre adversaire.
 flavor="Vengeance !" ―Tomato
 
 < CARD_HYPER_KIRIKO >
@@ -300,7 +300,7 @@ flavor="C'est l'heure de la vengeance !" ―Tomomo
 
 < CARD_HYPER_SUGURI_V2 >
 name=Renaissance des Étoiles
-descr=★Coût : Niv. x3\nDurée de l'Effet : 3 chapitres\nTransforme les cases Malus en cases Bonus.\nTransforme les cases Ennemi en cases Pioche.\nLes personnages sur une case transformée perdent 1 ATK.
+descr=★Coût : Niv. x3\nDurée de l'Effet : 3 chapitres\nTransforme les cases Malus en cases Bonus.\nTransforme les cases Ennemi en cases Pioche.\nChaque case transformée enlève passivement 1 ATK aux personnages qui s'y trouvent.
 flavor="Ce rêve que tu protégeais a redoré la planète entière." ―Suguri
 
 < CARD_HYPER_TSIH >
@@ -405,7 +405,7 @@ flavor="Pas sans dire bonjour à la Loubardie !" ―Tomato
 
 < CARD_EVENT_ACCELERATINGSKY >
 name=Ciel Accélérant
-descr=Durée de l'Effet : 3 chapitres.\n-1 DEF et +1 EVD pour tous les joueurs.
+descr=Durée de l'Effet : 3 chapitres\n-1 DEF et +1 EVD pour tous les joueurs.
 flavor="Est-ce que ces filles... bondissent dans les nuages ?"
 
 < CARD_TRAP_POPPOTRANSFORMATION >
@@ -465,12 +465,12 @@ flavor="......" ―Sora
 
 < CARD_GIFT_LUCKYCHARM >
 name=Talisman Porte-Bonheur
-descr=Vous gagnez (votre Niv.) ★ en début de tour. Empêche l'usage d'autres cartes. Si vous tombez KO en combat, vous donnez (votre Niv.) x3 ★ en plus. Défaussée à l'usage.
+descr=Vous gagnez (votre Niv.) ★ en début de tour. Vous ne pouvez tenir qu'une seule carte à la fois. Si vous tombez KO en combat, vous donnez (votre Niv.) x3 ★ en plus. Défaussée à l'usage.
 flavor="Il y a tellement d'étoiles ! C'est mon jour de chance !!" ―Tomomo
 
 < CARD_GIFT_METALLICMONOCOQUE >
 name=Monocoque Métallique
-descr=Réduit de 1 tous les dégâts subis hors combat, et vous \nperdez (votre Niv.) x2 ★ à la place.
+descr=Réduit de 1 tous les dégâts subis hors combat, et vous perdez (votre Niv.) x2 ★ à la place.
 flavor="Notre génération souffre d'un manque d'audace." ―Cherry
 
 < CARD_TRAP_IWANNASEEYOU >
@@ -595,12 +595,12 @@ flavor="Je vais me battre sans retenue." ―Nath
 
 < CARD_BATTLE_MOUSSETHETHIEF >
 name=Kleptomaousse
-descr=Volez une carte au hasard de la main de l'adversaire (s'il joue une carte Combat, celle-ci ne peut être volée).
+descr=Volez une carte de la main de l'adversaire au hasard (ne peut pas voler une carte Combat en train d'être jouée).
 flavor="Attends, j'y tiens beaucoup, moi." ―Sora
 
 < CARD_EVENT_EXTREMEALTERATION >
 name=Cruelle Altération
-descr=Durée de l'Effet : 2 chapitres\nLes cases Ennemi/Boss deviennent des cases Malus. Les cases Bonus deviennent des cases Pioche. Les cases Soin deviennent des cases Dégât.##(Activation : Marchez sur 3 cases Pioche, Dégât ou Malus{0}) :\nLes cases deviennent des cases Pioche x2, Dégât x2 et Malus x2.
+descr=Durée de l'Effet : 2 chapitres\nLes cases Ennemi/Boss deviennent des cases Malus. Les cases Bonus deviennent des cases Pioche. Les cases Soin deviennent des cases Dégât.##(Activation : Tomber sur 3 cases Pioche/Dégât/Malus{0}) :\nLes cases deviennent des cases Pioche x2, Dégât x2 et Malus x2.
 flavor="Je vais guérir le monde de la maladie qui le gangrène..." ―Kiriko
 
 < CARD_HYPER_SUGURI46 >
@@ -615,7 +615,7 @@ flavor="Les souvenirs chéris de Sumika !" ―Sumika
 
 < CARD_HYPER_ELLIE >
 name=Miracle d'Ellie
-descr=★Coût: Niv. x10\nDurée de l'Effet: 2 chapitres\n+1 ATK par Quota validé\n+1 DEF par Quota (victoire) validé\n+1 EVD par Quota (étoiles) validé.
+descr=★Coût: Niv. x10\nDurée de l'Effet: 2 chapitres\n+1 ATK par Quota validé\n+1 DEF par Quota (victoire) validé\n+1 EVD par Quota (étoiles) validé
 flavor="J'invoque un miracle !" ―Ellie
 
 < CARD_HYPER_LULU >
@@ -810,7 +810,7 @@ flavor="Un adulte ne pousse jamais le bouchon trop loin." ―Papa Kai
 
 < CARD_HYPER_GRAIN >
 name=Chargez les Canons
-descr=Votre Compteur - Canon tombe à 0. Inflige 1 point de dégât à un ennemi au hasard, et recommence une fois par Boulet de Canon dépensé. Chaque ennemi KO par cet effet vous donne (Niv. joueur) x10 ★ et 1 Victoire.
+descr=Votre Compteur - Canon tombe à 0. Inflige 1 point de dégât à un ennemi au hasard, et recommence une fois par Boulet de Canon dépensé. Chaque ennemi KO par cet effet vous donne (Niv. ennemi) x3 ★ et 1 Victoire.
 flavor="Chargez tous les canons... FEU !" ―Jorge
 
 < CARD_HYPER_BOURBON >
@@ -879,7 +879,7 @@ descr=Protégé par un bouclier absorbant 2 dégâts au plus.
 flavor=
 
 < CARD_XMAS2018_GROWNUPSNOWBALLFIGHT >
-name=Bataille de Boules de Neige Entre Adultes
+name=Technique d'Adulte
 descr=Vous pouvez viser deux cases sur lesquelles tirer en attaquant.\nPeut être utilisé par n'importe quel personnage, indépendamment de leurs restrictions.
 flavor="Bien, à moi de tirer, maintenant." ―Arthur
 
@@ -894,8 +894,8 @@ descr=Vous avez le choix entre :\n• Le manger et obtenir un effet au hasard.\n
 flavor="M-mais ?! C'est dégoûtant !" ―Tomomo
 
 < CARD_CHAOS_ROOST >
-name=Perchoir Chaotique
-descr=Invoque un Poulet Aggressif. Tant qu'il est sur le plateau, vous perdez -2 ATK et DEF et vous jetez deux dés à vos jets d'attaque.\nVous ne pouvez avoir qu'un seul familier à la fois.
+name=Ponte Chaotique
+descr=Invoque une Poule Guerrière. Tant qu'elle est sur le plateau, vous perdez -2 ATK et DEF et vous jetez deux dés à vos jets d'attaque.\nVous ne pouvez avoir qu'un seul familier à la fois.
 flavor=
 
 < CARD_CHAOS_PROTECT >
@@ -920,7 +920,7 @@ flavor=
 
 < CARD_CHAOS_ROULETTE >
 name=Roulette Chaotique
-descr=Vous obtenez Perchoir Chaotique, Protection Chaotique, ou Depuis l'Abysse Chaotique au hasard.\nVous pouvez jouer une autre carte ce tour-ci.
+descr=Vous obtenez Ponte Chaotique, Protection Chaotique, ou Depuis l'Abysse Chaotique au hasard.\nVous pouvez jouer une autre carte ce tour-ci.
 flavor=
 
 < CARD_CHAOS_POOL >
@@ -967,5 +967,9 @@ flavor="Je vois très clair dans ton jeu." ―Kanata
 name=Carte Bannière
 descr=C'est une carte Bannière.
 flavor="Je vois très clair dans ton jeu." ―Kanata
+
+< CARD_GENERIC_HYPER >
+name=Carte Hyper
+descr=
 
 [EOF]

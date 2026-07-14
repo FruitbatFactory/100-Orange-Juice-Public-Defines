@@ -565,7 +565,7 @@ descr=Não dê dano de combate mas roube 2 estrelas por dano dado que é dado di
 
 < CARD_UNIT_BOSSQP_CHAOS >
 name=Fera do Verão
-descr=1 Hype é adquirido ao tomar dano, e tomando dano em batalha. 2 Hype é adquirido no nocaute de outro jogador. Max 10. Automaticamente reviva com HP cheio se tiver 4 Hype ou mais, que então serão consumidos.
+descr=1 Hype é adquirido ao tomar dano, e dando dano em batalha. 2 Hype é adquirido no nocaute de outro jogador. Max 10. Automaticamente reviva com HP cheio se tiver 4 Hype ou mais, que então serão consumidos.
 
 < CARD_UNIT_BOSSROPOCHI_CHAOS >
 name=RoPoChi
@@ -623,13 +623,17 @@ descr=Toda vez que o nível total de todos os jogadores for múltiplo de 4, ganh
 name=Chuu
 descr=
 
+< CARD_COOP_UNIT_POYO >
+name=Poyo
+descr=Se a próxima carta de Chefão for um Hiper ou carta Nível 3, ganhe +1 em rolagens de Ataque, Defesa, Evasão, Movimento, Bônus e Perda.
+
 < CARD_UNIT_HARUKA >
 name=Haruka
-descr=Ganhe -1 ATK no começo da batalha para cada oponente nocauteado no momento.
+descr=Ganhe -1 ATK no começo da batalha se um oponente estiver nocauteado no momento.
 
 < CARD_COOP_UNIT_HARUKA >
 name=Haruka
-descr=Ganhe -1 ATK no começo da batalha para cada aliado nocauteado no momento.
+descr=Ganhe -1 ATK no começo da batalha se um aliado estiver nocauteado no momento.
 
 < CARD_UNIT_KANATA >
 name=Kanata

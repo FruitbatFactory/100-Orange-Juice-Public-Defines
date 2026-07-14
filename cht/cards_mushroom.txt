@@ -101,7 +101,7 @@ descr=獲得%d輪寒冰步效果。
 descr=傳送至隨機格子。
 
 < CARD_SHROOM_CONFUSION >
-descr=持續%d輪手牌翻轉。\n（你只能看到手牌背面，\n其他玩家能看到正面。）
+descr=持續%d輪手牌翻轉。\n（你只能看到手牌背面，其他玩家能看到正面。）
 
 < CARD_SHROOM_DRAW >
 descr=抽取2張卡。
@@ -113,7 +113,7 @@ descr=隨機丟棄1張手牌。
 descr=獲得1WIN。
 
 < CARD_SHROOM_LEGEND_STARS >
-descr=任意來源獲得STAR時額外獲得等級數\n的STAR。\n被戰鬥擊倒時，勝者獲得這張卡。
+descr=任意來源獲得STAR時額外獲得等級數的STAR。\n被戰鬥擊倒時，勝者獲得這張卡。
 
 < CARD_SHROOM_LEGEND_WINS >
 descr=任意來源獲得WIN時額外獲得1WIN。\n被戰鬥擊倒時，勝者獲得這張卡。

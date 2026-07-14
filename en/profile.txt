@@ -357,6 +357,9 @@ Field Intro: The Void
 <PROFILE_GALLERY_BGM_FIELD_SCHOOLYARD>
 Field Intro: Schoolyard
 
+<PROFILE_GALLERY_BGM_FIELD_AMBITION>
+Field Intro: Ambition
+
 <PROFILE_GALLERY_BGM_HARBINGER>
 The Harbinger
 

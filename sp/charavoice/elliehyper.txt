@@ -1,20 +1,3 @@
-<0117> Dejaré que sea tu turno para brillar.
-<0118> No sería justo que yo siempre sea la única con protagonismo.
-<0119> Supongo que ya es la hora...
-<0120> Claro, puedes tomar mi lugar~ ♥ 
-
-<0148> Ajaa, vamos a divertirnos un poco, Lulu~ ♥ 
-<0149> Así que eres tú, Papá...
-<0150> ¡Qué molesto!
-<0151> Cielos, déjame sola.
-
-<0157> Mamá, podemos hacer esto juntas~ ♥ 
-<0158> Wiii, estoy contigo, Mamá.
-<0159> Mamá y yo nos divertiremos mucho~
-<0160> Mamá... ¿Puedo sostener tu mano?
-<0161> ¿Acaso están listos para pelear?
-
-
 <0000> ¡Eey!
 <0001> ¡Oryah!
 <0002> ¡Yah!
@@ -132,6 +115,10 @@
 <0114> Vaya, se ve bien.
 <0115> ¿Qué traes ahí? ¡Ooh!
 <0116> Tuviste suerte gracias a mí. ¡Merezco algo de respeto!
+<0117> Dejaré que sea tu turno para brillar.
+<0118> No sería justo que yo siempre sea la única con protagonismo.
+<0119> Supongo que ya es la hora...
+<0120> Claro, puedes tomar mi lugar~ ♥ 
 <0121> Okay~ ♡
 <0122> Ajaa, eso es bueno.
 <0123> Claro~ ♡
@@ -156,6 +143,10 @@
 <0142> Lulu, ¿quieres jugar conmigo? Claro.
 <0143> Eso fue muy divertido, Lulu~ ♡
 <0144> Ajaa, es super increíble ver lo fuerte que eres ahora...
+<0145> Con Lulu, soy más fuerte que todos.
+<0146> Lulu, estaremos juntas para siempre, igual que siempre.
+<0147> ¡Lulu es la mejor! ¡Y yo también soy la mejor!
+<0148> Ajaa, vamos a divertirnos un poco, Lulu~ ♥ 
 <0149> Así que eres tú, Papá...
 <0150> ¡Qué molesto!
 <0151> Cielos, ya déjame en paz.
@@ -164,4 +155,8 @@
 <0154> Mamá, ¿vas a jugar conmigo?
 <0155> Mamá, gracias por jugar conmigo~ ♡
 <0156> Mamá es increíblemente fuerte~ ♡
+<0157> Mamá, podemos hacer esto juntas~ ♥ 
+<0158> Wiii, estoy contigo, Mamá.
+<0159> Mamá y yo nos divertiremos mucho~
+<0160> Mamá... ¿Puedo sostener tu mano?
 <0161> ¿Acaso están listos para pelear?

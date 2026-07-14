@@ -87,3 +87,4 @@
 <0086> Você é a minha caça. Nada pessoal, apenas negócios.
 <0087> Vamos se divertir juntos...
 <0088> É o teu fim!
+<0089> O tempo está passando, amadores!

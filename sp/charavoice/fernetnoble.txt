@@ -1,8 +1,3 @@
-<0117> ¿Podrías encargarte de este lío?
-<0118> *Bostezo*, con permiso.
-<0119> Confío en que podrás hacerlo bien.
-<0120> Esto no debería ser un problema para ti, ¿o sí?
-
 <0145> Una inversión inteligente siempre rendirá frutos.
 <0146> Todos están cordialmente invitados a mi debút. ¡Sean agradecidos!
 <0147> Vaya, pero si no es nada más que mi derecha.
@@ -125,6 +120,10 @@
 <0114> Esto parece ser pasable.
 <0115> Parece que has hecho un buen hallazgo.
 <0116> ¡Qué maravilla!
+<0117> ¿Podrías encargarte de este lío?
+<0118> *Bostezo*, con permiso.
+<0119> Confío en que podrás hacerlo bien.
+<0120> Esto no debería ser un problema para ti, ¿o sí?
 <0121> Muy bien.
 <0122> Excelente.
 <0123> Bien.
@@ -149,7 +148,7 @@
 <0142> Hay ciertas puertas que el dinero no puede abrir.
 <0143> Haré que mendiguen frente a mí.
 <0144> Siento pena por todo necio que se oponga ante mí.
-<0145> Una inversión inteligente siempre dará frutos.
+<0145> Una inversión inteligente siempre rendirá frutos.
 <0146> Todos serán cordialmente invitados a mi debut. ¡Deberían estar agradecidos!
 <0147> Vaya, pero si esto no va más allá de mis derechos.
 <0148> ¿No es esa espada muy pesada para ti?

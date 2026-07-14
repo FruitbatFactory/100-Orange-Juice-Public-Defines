@@ -2,6 +2,9 @@
 < GAME_SYSTEM_ROLLTOREVIVE >
 ou superior\npara reanimar!
 
+< GAME_SYSTEM_ROLL_MULTIPLE >
+Role\n%d dados!
+
 < GAME_SYSTEM_WINNERSCREEN_STARS >
 Estrelas
 

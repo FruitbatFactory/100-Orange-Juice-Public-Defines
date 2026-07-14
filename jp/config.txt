@@ -269,5 +269,8 @@ Infoポップアップ
 < CONFIG_YOU_CANNOT_RESTART > 
 オンライン対戦中は再起動できません
 
+< CONFIG_SCREEN_BACKGROUND_RESOLUTION >
+背景解像度
+
 [EOF]
 

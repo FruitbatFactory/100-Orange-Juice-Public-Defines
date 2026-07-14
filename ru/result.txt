@@ -15,7 +15,7 @@
 Бонус за ранг
 
 < RESULT_SCORE_CAMPAIGNBONUS >
-Бонус истории
+Бонус Истории
 
 < RESULT_SCORE_BOSSBONUS >
 Бонус за Боссов
@@ -24,19 +24,19 @@
 Мастер карт
 
 < RESULT_SCORE_TRAPMEISTER >
-Мастер ловушек
+Мейстер ловушек
 
 < RESULT_SCORE_AVENGER >
 Мститель
 
 < RESULT_SCORE_SURVIVOR >
-Остаться в живых
+Уцелевший
 
 < RESULT_SCORE_MISFORTUNE >
 Невезение
 
 < RESULT_SCORE_STARDECAY >
-Звёздный распад
+Распад звёзд
 
 < RESULT_SCORE_TOTAL >
 Итого
@@ -48,10 +48,10 @@
 Опыт
 
 < RESULT_EXP_EXPERIENCETONEXTLEVEL >
-Следующий
+До След.
 
 < RESULT_SPEEDADJUST >
-Итого с учётом скорости
+Штраф за Скорость
 
 [EOF]
 

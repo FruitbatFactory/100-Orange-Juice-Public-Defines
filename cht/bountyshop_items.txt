@@ -86,7 +86,7 @@ descr=儲備效果\n戰鬥中倒下時，以3HP復活並繼續戰鬥。
 
 < ITEM_MELONPAN >
 name=蜜瓜包
-descr=永久DEF·EVD+1，但ATK-1。\n只能購買一次。
+descr=永久DEF和EVD+1，但ATK-1。\n只能購買一次。
 
 < ITEM_REDBEANCREAM >
 name=紅豆冰淇淋
@@ -111,7 +111,7 @@ descr=永久ATK+1，但DEF-1。只能購買一次。
 
 < ITEM_SMOKEBOMB >
 name=煙霧炸彈
-descr=儲備效果\n在下一場戰鬥中，對方的ATK·DEF·EVD-1。
+descr=儲備效果\n在下一場戰鬥中，對方的ATK、DEF和EVD-1。
 
 < ITEM_PRECISIONGOGGLES >
 name=精準護目鏡
@@ -167,7 +167,7 @@ descr=永久ATK+1，但EVD-1。只能購買一次。
 
 < ITEM_BLACKMARKET_CURSEDSWORD >
 name=詛咒之劍
-descr=永久ATK+2，但DEF·EVD·HP上限-1。
+descr=永久ATK+2，但DEF、EVD和HP上限-1。
 
 < ITEM_BLACKMARKET_CURSEDAXE >
 name=詛咒戰斧
@@ -175,7 +175,7 @@ descr=獲得在攻擊時有20%幾率造成暴擊的能力。攻擊有10%幾率�
 
 < ITEM_BLACKMARKET_CURSEDBOUNTY >
 name=詛咒懸賞
-descr=下次懸賞獎勵的聲望+2。\n完成懸賞時將HP與HP上限設為1，直至\n倒下。
+descr=下次懸賞獎勵的聲望+2。\n完成懸賞時將HP與HP上限設為1，直至倒下。
 
 < ITEM_BLACKMARKET_CURSEDICECREAM >
 name=紫豆冰淇淋

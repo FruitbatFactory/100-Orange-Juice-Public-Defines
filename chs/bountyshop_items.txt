@@ -86,7 +86,7 @@ descr=储备效果\n战斗中倒下时，以3HP复活并继续战斗。
 
 < ITEM_MELONPAN >
 name=蜜瓜包
-descr=永久DEF·EVD+1，但ATK-1。\n只能购买一次。
+descr=永久DEF和EVD+1，但ATK-1。\n只能购买一次。
 
 < ITEM_REDBEANCREAM >
 name=红豆冰淇淋
@@ -111,7 +111,7 @@ descr=永久ATK+1，但DEF-1。只能购买一次。
 
 < ITEM_SMOKEBOMB >
 name=烟雾炸弹
-descr=储备效果\n在下一场战斗中，对方的ATK·DEF·EVD-1。
+descr=储备效果\n在下一场战斗中，对方的ATK、DEF和EVD-1。
 
 < ITEM_PRECISIONGOGGLES >
 name=精准护目镜
@@ -167,7 +167,7 @@ descr=永久ATK+1，但EVD-1。只能购买一次。
 
 < ITEM_BLACKMARKET_CURSEDSWORD >
 name=诅咒之剑
-descr=永久ATK+2，但DEF·EVD·HP上限-1。
+descr=永久ATK+2，但DEF、EVD和HP上限-1。
 
 < ITEM_BLACKMARKET_CURSEDAXE >
 name=诅咒战斧
@@ -175,7 +175,7 @@ descr=获得在攻击时有20%几率造成暴击的能力。攻击有10%几率�
 
 < ITEM_BLACKMARKET_CURSEDBOUNTY >
 name=诅咒悬赏
-descr=下次悬赏奖励的声望+2。\n完成悬赏时将HP与HP上限设为1，直至\n倒下。
+descr=下次悬赏奖励的声望+2。\n完成悬赏时将HP与HP上限设为1，直至倒下。
 
 < ITEM_BLACKMARKET_CURSEDICECREAM >
 name=紫豆冰淇淋

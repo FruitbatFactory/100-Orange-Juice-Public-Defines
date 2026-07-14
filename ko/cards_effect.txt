@@ -49,7 +49,7 @@ descr=다음 턴이 생략된다.
 
 < CARD_MAGICALMASSACRE_EFFECT >
 name=살육 마법
-descr=중첩당 다음 부활 굴림에서 회복값 -1을 얻는다.
+descr=중첩당 다음 부활 굴림에서 부활값 -1을 얻는다.
 
 < CARD_CASTOFF_EFFECT >
 name=캐스트 오프
@@ -525,7 +525,7 @@ name=퇴근
 descr=다음 턴을 넘긴다.
 
 < CARD_HOMEIMPROVER_EFFECT >
-name=집단장
+name=집 단장
 descr=효과 만료 시 무작위로 홈 패널 위치를 교환한다.
 
 < CARD_LUCKYSEVENS_EFFECT >
@@ -577,8 +577,8 @@ name=공주님의 초대
 descr=배틀 동안 공격력 -3을 얻는다.
 
 < CARD_RECOVERY_DOWN_EFFECT >
-name=회복 다운
-descr=중첩당 회복값 +1을 얻는다.
+name=부활 다운
+descr=중첩당 부활값 +1을 얻는다.
 
 < CARD_MESCAL_COOLDOWN_EFFECT >
 name=안 도와줘도 된다니까!
@@ -731,7 +731,7 @@ descr=카드를 낼 때마다 얻는다.
 
 < CARD_BOURBON_EFFECT >
 name=부러진 날갯깃
-descr=스택당 최대 HP -1. KO 시 효과 종료.
+descr=중첩당 최대 HP -1. KO 시 효과 종료.
 
 < CARD_HEART_OF_RESISTANCE_EFFECT >
 name=투쟁심
@@ -747,7 +747,7 @@ descr=중첩당 공격력 +1을 얻는다. 적을 격퇴해도 스타를 얻지 
 
 < CARD_CHAOS_SLAYER_EFFECT >
 name=도전자의 혼
-descr=당신과 동료들은 알 수 없는 유대로 이어졌다.\n회복값이 1 감소하고 이동 시 항상 주사위 2개를 굴린다. 다른 동료를 치료하고 부활시킬 수 있다.
+descr=당신과 동료들은 알 수 없는 유대로 이어졌다.\n부활값이 1 감소하고 이동 시 항상 주사위 2개를 굴린다. 다른 동료를 치료하고 부활시킬 수 있다.
 
 < CARD_CHAOS_TANK_EFFECT >
 name=탱크의 혼

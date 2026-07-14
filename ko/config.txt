@@ -108,19 +108,19 @@ Rich Presence (스팀 및 디스코드)
 모두 숨김
 
 < CONFIG_SCREEN_SCREENMODE_LABEL >
-스크린 모드
+화면 모드
 
 < CONFIG_SCREEN_SCREENMODE_FULLSCREEN >
-풀 스크린
+전체 화면
 
 < CONFIG_SCREEN_SCREENMODE_WINDOWED >
-윈도우
+창
 
 < CONFIG_SCREEN_SCREENMODE_BORDERLESS >
-보더리스 윈도우
+테두리 없는 창
 
 < CONFIG_SCREEN_FULLCOLORSCREEN_LABEL >
-풀컬러 스크린
+풀컬러 화면
 
 < CONFIG_SCREEN_FULLCOLORTEXTURES_LABEL >
 풀컬러 텍스처
@@ -264,10 +264,13 @@ Rich Presence (스팀 및 디스코드)
 필터링
 
 < CONFIG_RESTART_TO_APPLY >
-적용하려면 재실행
+적용을 위해 재실행
 
 < CONFIG_YOU_CANNOT_RESTART > 
 온라인 매치 중에는 재실행을 할 수 없습니다
+
+< CONFIG_SCREEN_BACKGROUND_RESOLUTION >
+배경 해상도
 
 [EOF]
 

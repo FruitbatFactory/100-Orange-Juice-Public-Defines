@@ -375,7 +375,7 @@ flavor="All guns at the ready... FIRE!" ―Grain
 
 < CARD_HYPER_COOP_HARUKA >
 name=Hype Bringer
-descr=Effect duration: 2 chapters.\nWhenever another player suffers KO, pay Lvl x 5 stars. The player will recover instantly with full HP.
+descr=Effect duration: 2 chapters.\nWhen a player suffers KO, pay Lvl x 5 stars. The player will recover instantly with full HP.
 flavor="Let's hype up the game together!" ―Haruka
 
 < CARD_HYPER_COOP_KANATA >

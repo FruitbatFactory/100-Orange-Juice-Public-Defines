@@ -106,6 +106,9 @@ Soigné !
 < GAME_MESSAGE_EVENTSUFFIX >
  !
 
+< GAME_MESSAGE_EVENT_NEXTCHAPTER >
+{} au prochain chapitre !
+
 < GAME_MESSAGE_VALENTINE2018_CHOCOLATEFRENZY >
 Folie Chocolatée !
 
@@ -195,3 +198,6 @@ Cette carte a été prédite par {} comme étant votre prochaine carte.
 
 < GAME_MESSAGE_LOCATIONFEE_FAIL >
 N'a pas pu payer la taxe de protection.
+
+< GAME_MESSAGE_YUKID_HYPER_SELECT_TRAPS >
+Choisissez autant de Pièges que vous voulez.

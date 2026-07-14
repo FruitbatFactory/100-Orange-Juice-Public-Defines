@@ -172,7 +172,13 @@ CPUのみのイベントをスキップ
 タッグ・クールダウン
 
 < MENU_LOBBYSETTING_PARTNERREGENDELAY >
-パートナー回復遅延
+パートナーHP回復時間
+
+< MENU_LOBBYSETTING_CHAPTERLIMIT >
+{}チャプター制限
+
+< MENU_LOBBYSETTING_PARTNERREVIVEDELAY >
+パートナー復活時間
 
 < MENU_BUTTON_GAME_RETURN >
 戻る
@@ -464,12 +470,8 @@ CO-OPモードでは、フィールド上のボスマスが次第に増えてい
 < PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_09 >
 チャプター数には注意しましょう。30チャプターになると、ビッグ・ザ・ジョナサンが怒り、ホームマスを全て破壊してしまう上、、極悪能力を発動させます。
 
-< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_10 >
-味方が同時に全員ダウンした場合、その時点でゲームオーバーとなり、ビッグ・ザ・ジョナサンの勝利となります。それまでに与えたダメージはイベントの進捗に反映されます。
-
 < PLAYMENU_EVENT_SUMMER2018_COMPLETE >
 ビッグ・ザ・ジョナサンは鎮まり、海とビーチに平和が戻った！
-
 
 < PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_MAIN >
 お菓子で満腹になるために「トリック・アンド・トリート」！
@@ -1092,6 +1094,30 @@ CO-Oモード\n①ボスの手下をダウンさせる\n②高い難易度でボ
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_COMPLETE >
 おめでとうございます！　100おれ部が設立されました！　もっとプレイして青春を謳歌しましょう！
 
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_MAIN >
+新しいチャレンジャーが現れました！ あなたはリンセの期待に応えられますか？
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_01 >
+このイベントの期間中、スペシャルゲームモード「タッグチーム」をプレイすることができます！
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_02 >
+黒板に書かれた様々なタスクをこなし、ポイントを集め、イベント完了を目指しましょう！
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_03 >
+新しいいチャレンジャーは毎日登場しますので、チェックしてくださいね！
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_04 >
+既に達成済みのチャレンジや気が向かないチャレンジは、スターを消費することで更新できます。ただし、更新のたびににコストは上がっていきます！
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_05 >
+さらに、このイベント期間中、タッグチームモードに新オプションが追加されます。チーム全滅後のダウンからの復帰時間を自由に設定できます。
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_06 >
+日々のチャレンジをこなして、100おれ部の力をリンセに見せつけてやりましょう！
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_COMPLETE >
+おめでとうございます、リンセの期待に応えて認めてもらうことができました！ 今後もイベントタスクを達成すると、各チャレンジをクリアするたびに追加のオレンジを獲得できます。
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 次の目標：
 
@@ -1130,6 +1156,9 @@ CO-Oモード\n①ボスの手下をダウンさせる\n②高い難易度でボ
 
 < PLAYMENU_3MDOWNLOADS_MESSAGE >
 300万ダウンロード記念ミッションが登場！\nまりーぽっぽ系キャラクターを使って、エクストラミッション「{}」をノーマル以上の難易度でクリアすると、ポポミを獲得できます！
+
+< PLAYMENU_200ORANGE_VOUCHER_ACQUIRE >
+200オレンジクーポン{}を獲得しました！ ショップの「その他」セクションで200オレンジと交換できます。
 
 < MENU_BOSS_DIFFICULTY_CASUAL >
 カジュアル
@@ -1384,6 +1413,9 @@ OJDexではユニットのプロフィールを確認できます。
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES_NUNITS >
 以下のいずれかのユニットで{0}ゲームをプレイする：{1}
 
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE >
+{1}モードで{0}ゲームをプレイする
+
 < MENU_CODEXSTORY_UNLOCKCOND_EVENT >
 『{0}』イベントをクリアする。
 
@@ -1395,6 +1427,9 @@ OJDexではユニットのプロフィールを確認できます。
 
 < MENU_CODEXSTORY_UNLOCKCOND_PLAYCARD >
 {1}で{0}を使う
+
+< MENU_CODEXSTORY_UNLOCKCOND_PLAYCARD_ANYOF >
+任意の{0}カードを使う
 
 < MENU_CODEXSTORY_UNLOCKCOND_ANYCARD >
 任意のカード
@@ -1413,6 +1448,18 @@ OJDexではユニットのプロフィールを確認できます。
 
 < MENU_CODEXSTORY_UNLOCKCOND_ANYUNIT >
 任意のユニット
+
+< MENU_CODEXSTORY_UNLOCKCOND_DAILYCHALLENGE >
+デイリーチャレンジを{0}つクリアする
+
+< MENU_CODEXSTORY_UNLOCKCOND_PANEL >
+{0}マスに止まる
+
+< MENU_CODEXSTORY_UNLOCKCOND_STARS >
+ゲーム終了時に{0}スターを獲得する
+
+< MENU_TASKBOARD_REROLL >
+{0}スターを消費してタスクを更新しますか？\n現在のスター数：
 
 < MENU_NORMABOARD >
 ノルマアップグレード
@@ -1440,5 +1487,8 @@ UIを表示
 
 < MENU_CSELECT_DIFFICULTY_LABEL >
 難易度
+
+< MENU_CHAOS_GM_SELECT_POWER >
+ゲームマスターのパワーを選択してください
 
 [EOF]

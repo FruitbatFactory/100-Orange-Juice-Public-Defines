@@ -269,5 +269,8 @@ REINICIE PARA APLICAR
 < CONFIG_YOU_CANNOT_RESTART > 
 Reiniciar está indisponível durante partidas online
 
+< CONFIG_SCREEN_BACKGROUND_RESOLUTION >
+Res. Fundo
+
 [EOF]
 

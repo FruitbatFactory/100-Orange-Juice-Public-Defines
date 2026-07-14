@@ -114,7 +114,7 @@
 <0113> Good for you! You got something new!
 <0114> You got something good? I'm happy for you!
 <0115> Did you get what you wanted?
-<0116> You got someting good!
+<0116> You got something good!
 <0117> It's your turn!
 <0118> Mind switching?
 <0119> Let me pass you the baton!

@@ -14,7 +14,7 @@
 계속
 
 < MAINMENU_CONFIGURATION >
-옵션
+환경설정
 
 < MAINMENU_EXIT >
 나가기
@@ -169,10 +169,16 @@ CPU 대상 이벤트 넘기기
 교대 쿨다운
 
 < MENU_LOBBYSETTING_PARTNERREGENDELAY >
-파트너 회복 지연시간
+파트너 HP 재생 지연시간
+
+< MENU_LOBBYSETTING_CHAPTERLIMIT >
+{}챕터 제한
+
+< MENU_LOBBYSETTING_PARTNERREVIVEDELAY >
+파트너 부활 지연시간
 
 < MENU_BUTTON_GAME_RETURN >
-돌아간다
+돌아가기
 
 < MENU_BUTTON_GAME_CONFIG >
 환경설정
@@ -212,7 +218,7 @@ CPU 대상 이벤트 넘기기
 소생
 
 < MENU_BUTTON_GAME_FROMBEYOND >
-저 너머
+저 편에서
 
 < MENU_BUTTON_GAME_DEAL >
 분배
@@ -323,7 +329,7 @@ CPU 대상 이벤트 넘기기
 일간 멀티플레이어 챌린지를 확인합니다.
 
 < PLAYMENU_TOOLTIP_CONFIGMENU >
-옵션 화면으로 갑니다.
+환경설정 화면으로 갑니다.
 
 < PLAYMENU_TOOLTIP_EXIT >
 타이틀 화면으로 돌아갑니다.
@@ -474,9 +480,6 @@ KO 시 팀 소지 스타의 1/8을 잃습니다. 유닛은 아무 플레이어�
 
 < PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_09 >
 시간을 잊지 말고 확인하세요! 챕터 30에서 화가 난 대왕 조나단이 모든 홈 패널을 파괴하고 가장 강력한 능력을 활성화합니다!
-
-< PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_10 >
-모든 동료가 함께 KO되면 게임에서 패배하고 대왕 조나단이 승리합니다! 패배 시에도 가한 피해는 이벤트 진행에 영향을 줍니다.
 
 < PLAYMENU_EVENT_SUMMER2018_COMPLETE >
 대왕 조나단이 얌전해지고 바다와 해변은 다시 안전해졌습니다!
@@ -1003,13 +1006,13 @@ KO 시 팀 소지 스타의 1/8을 잃습니다. 유닛은 아무 플레이어�
 패밀리 레스토랑 퓨어스에서 맛있는 식사를 걸고 한 판 붙으세요! 단골 고객에게는 단골 상품도 있습니다!
 
 < PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_01 >
-이 이벤트 기간 동안 플레이어는 신규 게임 모드 태그 팀을 플레이할 수 있습니다!
+이 이벤트 기간 동안 플레이어는 신규 게임 모드 이인조를 플레이할 수 있습니다!
 
 < PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_02 >
-태그 팀 한 판 또는 다른 게임 모드 두 판을 플레이할 때마다 패밀리 레스토랑 퓨어스 단골 카드에 도장 하나를 받습니다! 
+이인조 한 판 또는 다른 게임 모드 두 판을 플레이할 때마다 패밀리 레스토랑 퓨어스 단골 카드에 도장 하나를 받습니다! 
 
 < PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_03 >
-태그 팀에서는 파트너로 게임에 함께할 캐릭터를 한 명 더 고를 수 있습니다.
+이인조에서는 파트너로 게임에 함께할 캐릭터를 한 명 더 고를 수 있습니다.
 
 < PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_04 >
 내 턴에 교대를 골라 선택했던 캐릭터를 교대시킬 수 있습니다. 그러면 리더 캐릭터가 파트너와 자리를 바꿉니다!
@@ -1095,6 +1098,30 @@ KO 시 팀 소지 스타의 1/8을 잃습니다. 유닛은 아무 플레이어�
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_COMPLETE >
 축하합니다! 100% 오렌지 주스부가 개설되었습니다! 계속 플레이하면서 청춘도 즐기고 더 많은 보상을 챙기세요!
 
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_MAIN >
+새 도전자가 등장했습니다! 린세의 기대에 부응할 수 있겠습니까?
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_01 >
+이 이벤트 기간 동안 이인조 모드를 플레이할 수 있습니다! 
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_02 >
+칠판에 적힌 여러가지 임무를 완수해 포인트를 모아 이벤트를 완수하세요!
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_03 >
+매일 새 챌린지가 나타나니 꼬박꼬박 확인하세요!
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_04 >
+스타를 소모해 이미 완료했거나 마음에 안 드는 챌린지를 다시 굴릴 수 있지만 비용이 계속 오르니 주의하세요!
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_05 >
+더불어, 이벤트 기간 동안 이인조에 신규 옵션: 팀 전멸 시 KO 딜레이 조정이 추가됩니다.
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_06 >
+챌린지로 실력을 갈고닦아 린세에게 주스부의 역량을 보여주세요!
+
+< PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_COMPLETE >
+축하합니다! 린세의 기대에 부응해 인정을 받았습니다! 이벤트 임무를 계속 클리어해 오렌지를 더 획득할 수 있습니다.
+
 < PLAYMENU_EVENT_BOUNTYHUNTERS_FAME > 
 명성: %d
 
@@ -1112,6 +1139,9 @@ KO 시 팀 소지 스타의 1/8을 잃습니다. 유닛은 아무 플레이어�
 
 < PLAYMENU_3MDOWNLOADS_MESSAGE >
 300만 다운로드 기념 미션 출시!\n엑스트라 미션 "{}"을 노멀 이상 난이도에서 마리 폿포로 클리어하면 포포미가 해금됩니다!
+
+< PLAYMENU_200ORANGE_VOUCHER_ACQUIRE >
+200 오렌지 바우처를 획득했습니다{}! 상점의 기타 섹션에서 200오렌지와 교환하세요.
 
 < MENU_BOSS_DIFFICULTY_CASUAL >
 캐주얼
@@ -1337,6 +1367,9 @@ CPU 편집
 < MENU_CODEX_TAB_STORIES >
 사이드 스토리
 
+< MENU_CODEX_READSTORY >
+스토리 읽기
+
 < MENU_CODEXSTORY_TITLE_FAMILY >
 가족
 
@@ -1364,6 +1397,9 @@ CPU 편집
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES_NUNITS >
 {1} 중 아무 유닛으로 게임 {0}판 플레이.
 
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE >
+{1} 모드 게임 {0}판 플레이.
+
 < MENU_CODEXSTORY_UNLOCKCOND_EVENT >
 "{0}" 이벤트 클리어.
 
@@ -1375,6 +1411,9 @@ CPU 편집
 
 < MENU_CODEXSTORY_UNLOCKCOND_PLAYCARD >
 {1}(으)로 {0} 내기.
+
+< MENU_CODEXSTORY_UNLOCKCOND_PLAYCARD_ANYOF >
+아무 {0} 내기.
 
 < MENU_CODEXSTORY_UNLOCKCOND_ANYCARD >
 아무 카드
@@ -1394,6 +1433,18 @@ CPU 편집
 < MENU_CODEXSTORY_UNLOCKCOND_ANYUNIT >
 아무 유닛
 
+< MENU_CODEXSTORY_UNLOCKCOND_DAILYCHALLENGE >
+일일 챌린지 {0}개 클리어.
+
+< MENU_CODEXSTORY_UNLOCKCOND_PANEL >
+{0} 패널을 밟기.
+
+< MENU_CODEXSTORY_UNLOCKCOND_STARS >
+게임 종료 시점에서 {0}스타를 가지고 있기.
+
+< MENU_TASKBOARD_REROLL >
+{0}스타를 지불하여 이 미션을 다시 뽑을까요?\n현재 소지 스타:
+
 < MENU_NORMABOARD >
 노르마 강화
 
@@ -1402,6 +1453,9 @@ UI 숨김
 
 < MENU_SHOW_UI >
 UI 표시
+
+< MENU_CARDBACK_UNLOCK >
+새 카드 뒷면이 해금되었습니다!
 
 < MENU_CHAPTER_LABEL >
 챕터

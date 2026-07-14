@@ -49,4 +49,7 @@ Desafiadoras da Sala de Clube
 < EVENTNAME_VALENTINES >
 Chocolate para as Sweet Gods
 
+< EVENTNAME_SUMMER2026 >
+Rivais Resplandecentes
+
 [EOF]

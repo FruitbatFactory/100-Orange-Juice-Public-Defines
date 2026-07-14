@@ -269,5 +269,8 @@ RESTART TO APPLY
 < CONFIG_YOU_CANNOT_RESTART > 
 Restarting is unavailable during online matches
 
+< CONFIG_SCREEN_BACKGROUND_RESOLUTION >
+BG Res
+
 [EOF]
 

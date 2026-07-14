@@ -26,7 +26,7 @@
 Школьные Прогульщики
 
 < EVENTNAME_CHAOS_MODE >
-Режим Хаоса
+Дурацкий Гамбит
 
 < EVENTNAME_S3_TAGTEAM_MODE >
 Внеклассный Кризис
@@ -48,5 +48,8 @@
 
 < EVENTNAME_VALENTINES >
 Шоколад для Богов Сладостей
+
+< EVENTNAME_SUMMER2026 >
+Великолепные Соперники
 
 [EOF]

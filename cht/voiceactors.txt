@@ -165,7 +165,7 @@
 山崎巧
 
 < VOICEACTOR_KURISAKA_MINAMI >
-慄坂南美
+栗坂南美
 
 < VOICEACTOR_SAWADA_HIME >
 澤田姬
