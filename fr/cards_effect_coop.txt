@@ -48,7 +48,7 @@ descr=Jette 2 dés à toutes les actions hors-combat. L'effet disparaît en tomb
 
 < CARD_COOP_BEASTWITCH_EFFECT >
 name=Sorcière Bestiale
-descr=Ne peut pas perdre d'étoiles en combat face à un ennemi.
+descr=Ne peut pas perdre d'Étoiles en combat face à un ennemi.
 
 < CARD_COOP_FINALSURGERY_EFFECT >
 name=Opération Fatale
@@ -184,7 +184,7 @@ descr=Lorsqu'elle croise un joueur, le Boss gagne (Niv. Boss) x5 ★ et les joue
 
 < CARD_BOSS_STARMANIA_EFFECT >
 name=Folie des Étoiles
-descr=Le Boss gagne +1 étoile à chaque chapitre par unité.
+descr=Le Boss gagne +1 Étoile à chaque chapitre par unité.
 
 < CARD_BOSS_ROBOTAX_EFFECT >
 name=Imporobot
@@ -192,11 +192,11 @@ descr=+1 DEF par unité.
 
 < CARD_BOSS_HIGHWAYROBBERY_EFFECT >
 name=Braquage Désarmé
-descr=+3 ATK.\nSe déplace à l'envers et continue à avancer après un combat.\nChaque dégât qu'elle inflige vole 10 étoiles au lieu de blesser.
+descr=+3 ATK.\nSe déplace à l'envers et continue à avancer après un combat.\nChaque dégât qu'elle inflige vole 10 Étoiles au lieu de blesser.
 
 < CARD_BOSS_GREED_EFFECT >
 name=Avarice
-descr=+5 étoiles par dégât infligé en combat. S'applique aussi aux familiers.
+descr=+5 Étoiles par dégât infligé en combat. S'applique aussi aux familiers.
 
 < CARD_BOSS_CHASE_EFFECT >
 name=Chat !
@@ -252,7 +252,7 @@ descr=+2 EVD.
 
 < CARD_BOSS_TURBOCHICKEN_EFFECT >
 name=Turbo-Poulet
-descr=+1 dé aux jets de déplacement et continue à avancer après avoir affronté un joueur.\nPour chaque joueur défié, gagne 25 étoiles et +1 ATK.
+descr=+1 dé aux jets de déplacement et continue à avancer après avoir affronté un joueur.\nPour chaque joueur défié, gagne 25 Étoiles et +1 ATK.
 
 < CARD_BOSS_SWARM_EFFECT >
 name=Ruée
@@ -324,7 +324,7 @@ descr=Défausse toutes ses cartes en activant un piège.
 
 < CARD_COOP_BACKDOOR_SCHEME_EFFECT >
 name=Stratégie d'Attaque
-descr=Perd Niv x10 étoiles en tombant à 1 PV. L'effet disparaît en tombant KO.
+descr=Perd Niv x10 Étoiles en tombant à 1 PV. L'effet disparaît en tombant KO.
 
 < CARD_COOP_WARUDA_MACHINE_EFFECT >
 name=Méca-Loubardie

@@ -123,7 +123,7 @@ descr=将1名佣兵召唤至场上。他会攻击除召唤者外所有他经过�
 
 < ITEM_PHILOSOPHERSTONE >
 name=贤者之石
-descr=每轮获得4颗STAR，每经过5轮额外+1。\n只能购买一次，需要花费所有STAR（最低为120）。
+descr=每轮获得4颗STAR，每经过5轮额外+1。\n只能购买一次，须要花费所有STAR（最低为120）。
 
 < ITEM_REC_BOOST_LV1 >
 name=精力药水

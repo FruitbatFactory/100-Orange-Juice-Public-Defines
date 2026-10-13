@@ -325,7 +325,7 @@ descr=バトルダウン時に倍のウィンを与える。\nダウンで効果
 
 < CARD_SWEETDESTROYER_EFFECT >
 name=甘味の破壊者
-descr=デッキから引いたスイーツ系カードが「デンジャラスプリン」か「台無しプリン」にランダムに変化する。
+descr=プレイヤーの手札に加えられたハイパーでないスイーツ系カードが「デンジャラスプリン」か「台無しプリン」にランダムに永続的に変化する。
 
 < CARD_LONELYCHARIOT_EFFECT >
 name=孤独の暴走車
@@ -818,6 +818,14 @@ descr=バトルで自身がダウンするダメージを受ける時、ダウ�
 < CARD_EFFECT_KURIE_HEAL >
 name=教師の覚悟
 descr=ドロー、ムーブ、ワープムーブ、ランダムのいずれかのマスの効果を発動させたあと、HPが1回復する。
+
+< CARD_EFFECT_RINSE_YOUNGLADYPOWER >
+name=令嬢の力
+descr=自身が次にダメージを受けた時、レベル分のスターを得る。この効果は重複しない。
+
+< CARD_EFFECT_RINSE_FIERCEYOUNGLADY >
+name=猛き令嬢
+descr=次に自身がバトルでダメージを受けた時、1ダメージにつき自身のレベル×2スターを得る（上限：9ダメージ）。自身がバトルカードを使うために支払ったコストが、この効果で獲得したスター以上の時、バトル終了時にHPが全回復する。ダウンした時、この効果は失われる。
 
 < CARD_EFFECT_CHAOS_GM_TRAPCARD >
 name=トラップカード

@@ -13,11 +13,50 @@ NOVO JOGO
 < MAINMENU_LOADGAME >
 CONTINUAR
 
+< CREATE_PROFILE_IN_SLOT >
+Criar Perfil no Slot
+
+< CREATE_PROFILE_NAME >
+Nome
+
+< CREATE_PROFILE_CONFIRM >
+Confirmar
+
+< CREATE_PROFILE_CANCEL >
+Cancelar
+
+< CREATE_PROFILE_DELETE_SLOT >
+Apagar Slot de Perfil
+
+< CREATE_PROFILE_WARNING >
+Essa ação não pode ser desfeita!
+
+< CREATE_PROFILE_PROFILE >
+Perfil
+
+< CREATE_PROFILE_SELECT_UNIT >
+Selecione Unidade
+
+< SELECT_PROFILE_STARS >
+Estrelas
+
+< SELECT_PROFILE_EMPTY_SLOT >
+Slot Vazio
+
+< SELECT_PROFILE_CARDS >
+Cartas
+
+< MAINMENU_LOADGAME_SELECT >
+CARREGAR JOGO
+
 < MAINMENU_CONFIGURATION >
 CONFIGURAÇÃO
 
 < MAINMENU_EXIT >
 SAIR
+
+< LATEST_GAME_NEWS >
+ÚLTIMAS NOTÍCIAS DO JOGO
 
 
 < MENU_BUTTON_OK >
@@ -25,6 +64,9 @@ OK
 
 < MENU_BUTTON_BACK >
 VOLTAR
+
+< MAINMENU_CHANGEPROFILE >
+TROCAR PERFIL
 
 < MENU_BUTTON_HOME >
 CASA
@@ -746,13 +788,13 @@ O minigame poderá acelerar aleatóriamente. Isso inclui tanto a velocidade dos 
 Todos os jogadores são posicionados pela sua pontuação de peixe ao final da fase de pesca. Jogadores serão recompensados com Vitórias baseado em seu ranking e estrelas baseado em sua pontuação.
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_08 >
-Preste atenção na grelha! Ela sempre terá um conjunto de 3 peixes para capturar, e pegar todos garante um extra de 15 pontos!
+Preste atenção na grelha! Ela sempre terá um conjunto de 3 peixes para capturar, e pegar todos garante um extra de 50 pontos!
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_09 >
 Todo mundo tem sua própria grelha para completar, então tente completar mais conjuntos do que seus oponentes no tempo limite!
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_10 >
-Além disso, pegar o mesmo tipo de peixe diversas vezes em sequencia irá te garantir pontos extra de Combo para sua pontuação.
+Além disso, pegar o mesmo tipo de peixe diversas vezes em sequência irá te garantir pontos extras de Combo para sua pontuação.
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_11 >
 Sua pontuação total de pescaria de cada jogo irá contar para a progressão do evento. Vamos fazer um churrascão!
@@ -1402,6 +1444,9 @@ Guerra Dos Cogumelos
 < MENU_CODEXSTORY_TITLE_GREATPILOT >
 Uma Grande Piloto
 
+< MENU_CODEXSTORY_TITLE_FAMILYHOLIDAY >
+Férias em Família
+
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES >
 Jogue {0} partidas como {1}.
 
@@ -1410,6 +1455,9 @@ Jogue {0} partidas como qualquer uma das unidades seguintes: {1}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE >
 Jogue {0} partidas no modo {1}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE_UNIT >
+Jogue {0} partidas no modo {1} como {2}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_PLAYCARD >
 Jogue {0} como {1}.
@@ -1436,7 +1484,7 @@ qualquer personagem de {0}
 qualquer Unidade
 
 < MENU_CODEXSTORY_UNLOCKCOND_DAILYCHALLENGE >
-Complete {0} desafios diários.
+Complete {0} desafio(s) diário(s).
 
 < MENU_CODEXSTORY_UNLOCKCOND_PANEL >
 Pare em painéis de {0}.

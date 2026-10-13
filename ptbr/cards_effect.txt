@@ -4,11 +4,11 @@ descr=Jogue dois dados para movimento.
 
 < CARD_FLIPOUT_EFFECT >
 name=Frustração
-descr=Na próxima vez que sua personagem parar em um painel de perda, o(s) jogador(es) com a maior quantidade de estrelas vai(vão) perder a mesma quantidade de estrelas que você.
+descr=Na próxima vez que sua personagem parar em um painel de perda, o(s) jogador(es) com a maior quantidade de Estrelas vai(vão) perder a mesma quantidade de Estrelas que você.
 
 < CARD_NICEJINGLE_EFFECT >
 name=Bônus Natalino
-descr=O próximo painel de bônus lhe dará o dobro de estrelas.
+descr=O próximo painel de bônus lhe dará o dobro de Estrelas.
 
 < CARD_EXTEND_EFFECT >
 name=Vida Extra
@@ -16,7 +16,7 @@ descr=Após ser nocauteado, você irá reviver no próximo turno.
 
 < CARD_STIFFCRYSTAL_EFFECT >
 name=Cristal Resistente
-descr=Negue os efeitos de uma carta armadilha. Ganhe 5 estrelas por nível da armadilha cancelada.
+descr=Negue os efeitos de uma carta armadilha. Ganhe 5 Estrelas por Nvl da armadilha cancelada.
 
 < CARD_DANGEROUSPUDDING_EFFECT >
 name=Pudim Perigoso
@@ -180,11 +180,11 @@ descr=-1 Max HP para cada estoque.
 
 < CARD_CUTIES_EFFECT >
 name=Eventos Destroçados
-descr=+1 estrela de painéis de bônus.
+descr=+1 Estrela de painéis de bônus.
 
 < CARD_SPECIALSTAGE_EFFECT >
 name=Estágio Especial
-descr=Ganhe MOV -3, ative apenas painéis de movimento e não use cartas. Você não pode ser desafiado por outros jogadores ou ser o alvo de cartas de Boost. Se o oponente terminar seu turno em um raio de 2 painéis de distância, roube (seu Nível) x5 estrelas deles. Termina no caso de nocaute.
+descr=Ganhe MOV -3, ative apenas painéis de movimento e não use cartas. Você não pode ser desafiado por outros jogadores ou ser o alvo de cartas de Boost. Se o oponente terminar seu turno em um raio de 2 painéis de distância, roube (Seu Nvl) x5 Estrelas deles. Termina no caso de nocaute.
 
 < CARD_PATHBLOCKERS_EFFECT >
 name=Boqueadores da Caminho
@@ -208,7 +208,7 @@ descr=Ganhe -2 EVD e -1 MOV.
 
 < CARD_JOKER_EFFECT >
 name=Poppo Curinga
-descr=Cartas podem ser jogadas como se elas fossem de Nível 1 e tivessem custo base de 0.
+descr=Cartas podem ser jogadas como se elas fossem de Nvl 1 e tivessem custo base de 0.
 
 < CARD_HERBAL_REMEDY_EFFECT >
 name=Remédio de Ervas
@@ -220,7 +220,7 @@ descr=Duração do Efeito: 1 capítulo. Jogue 2 dados em qualquer ação.
 
 < CARD_COTTONCAKE_EFFECT >
 name=Bolo de Ló
-descr=Duração do Efeito: 1 capítulo. Cartas serão de graça e não irão requerer nível.
+descr=Duração do Efeito: 1 capítulo. Cartas serão de graça e não irão requerer Nvl.
 
 < CARD_REDBEANCREAM_EFFECT >
 name=Sorvete de Feijão Vermelho
@@ -321,15 +321,15 @@ flavor=
 
 < CARD_WANTED_EFFECT >
 name=Procurado
-descr=Ganhe o dobro de vitórias em nocaute em batalha. Efeito expira ao ser nocauteado.
+descr=Ganhe o dobro de Vitórias em nocaute em batalha. Efeito expira ao ser nocauteado.
 
 < CARD_SWEETDESTROYER_EFFECT >
 name=Sweet Destroyer
-descr=Quaisquer cartas do tipo Doces compradas serão permanentemente transformadas aleatoriamente em Pudim Ruim ou Pudim Perigoso.
+descr=Quaisquer cartas do tipo Doces que não sejam hipers que entrarem na mão do jogador serão permanentemente transformadas aleatoriamente em Pudim Ruim ou Pudim Perigoso.
 
 < CARD_LONELYCHARIOT_EFFECT >
 name=Carruagem Solitária
-descr=Tenha 5 garantido no dado para movimento. No término do seu turno, perca 1 HP. O efeito acaba caso a unidade seja nocauteada. Se sua unidade sofrer nocaute por este efeito, perca estrelas igual ao seu nível x5.
+descr=Tenha 5 garantido no dado para movimento. No término do seu turno, perca 1 HP. O efeito acaba caso a unidade seja nocauteada. Se sua unidade sofrer nocaute por este efeito, perca Estrelas igual ao (Seu Nvl) x5.
 
 < CARD_PRESIDENTPRIVILEGE_EFFECT >
 name=Privilégio do Presidente
@@ -337,7 +337,7 @@ descr=Pode usar cartas sem pagar o seu custo.
 
 < CARD_SANTASJOB_EFFECT >
 name=Trabalho da Noel
-descr=Durante seu tempo de espera, você pode escolher outra carta que é possível de se usar no seu nível atual da sua mão para entregar a algum jogador aleatório. Ganhe nível da carta x5 em estrelas.
+descr=Durante seu tempo de espera, você pode escolher outra carta que é possível de se usar no (Seu Nvl) atual da sua mão para entregar a algum jogador aleatório. Ganhe Nvl da carta x5 em Estrelas.
 
 < CARD_BANNEDFORLIFE_EFFECT >
 name=Banido para Sempre
@@ -357,11 +357,11 @@ descr=Ganhe +1 ATK, DEF e EVD para cada estoque.
 
 < CARD_BEASTWITCHGIFT_EFFECT >
 name=Bruxa Feroz
-descr=Quando outros jogadores perdem estrelas de batalhas de painéis de Encontro, essas estrelas irão para você ao invés de para a unidade do painel de encontro.
+descr=Quando outros jogadores perdem Estrelas de batalhas de painéis de Encontro, essas Estrelas irão para você ao invés de para a unidade do painel de encontro.
 
 < CARD_UNLUCKYCHARM_EFFECT >
 name=Amuleto do Azar
-descr=No começo do turno, perca Nível x1 em estrelas.
+descr=No começo do turno, perca Nvl x1 em Estrelas.
 
 < CARD_WINDYENCHANTMENT_EFFECT >
 name=Encantamento Ventoso
@@ -373,11 +373,11 @@ descr=Mova-se no sentido oposto enquanto estiver com essa carta. Normas são des
 
 < CARD_PRICEOFPOWER_EFFECT >
 name=Preço do Poder
-descr=Você pode pagar 5 estrelas a mais para jogar cartas de um nível superior ao seu nível atual.
+descr=Você pode pagar 5 Estrelas a mais para jogar cartas de um Nvl superior ao seu Nvl atual.
 
 < CARD_POPPOSNATCHER_EFFECT >
 name=Poppo, a Ladra
-descr=Ganhe -1 de Defesa. Sempre que passar por outro inimigo em seu turno, roube [nível do alvo x 3] estrelas dele. Normas são desabilitadas.
+descr=Ganhe -1 de Defesa. Sempre que passar por outro inimigo em seu turno, roube (Nvl do Alvo) x3 Estrelas dele. Normas são desabilitadas.
 
 < CARD_BLOODLUST_EFFECT >
 name=Sedento por Sangue
@@ -385,11 +385,11 @@ descr=Perca 1 HP no começo de seu turno. Cure 1 HP por cada dano desferido. Nor
 
 < CARD_LUCKYCHARM_EFFECT >
 name=Amuleto da Sorte
-descr=Ganhe Nível x1 em estrelas no começo de seu turno. Você não pode usar quaisquer cartas. \nSe derrotado, dê Nível x 3 mais estrelas.
+descr=Ganhe Nvl x1 em Estrelas no começo de seu turno. Você não pode usar quaisquer cartas. \nSe derrotado, dê Nvl x 3 mais Estrelas.
 
 < CARD_MONOCOQUE_EFFECT >
 name=Monocoque Metálico
-descr=Quando um efeito de carta dá qualquer dano em você, aquele dano é reduzido por 1, e você perde Nível x2 estrelas.
+descr=Quando um efeito de carta dá qualquer dano em você, aquele dano é reduzido por 1, e você perde Nvl x2 Estrelas.
 
 < CARD_SAINTEYES_EFFECT >
 name=Olhos Santos
@@ -405,7 +405,7 @@ descr=Gerente da Loja irá lutar em seu lugar. Permite Chris desafiar outras uni
 
 < CARD_MANAGERCOUNTER_EFFECT >
 name=Contador do Gerente da Loja
-descr=Recebido ao jogar uma carta de cópia limite Max 1. Coletar 4 ou mais enquanto seu nível é 4 ou superior irá melhorar "Chefe, Eu Preciso de Ajuda!" em "Gerente, Eu Preciso de Ajuda!".
+descr=Recebido ao jogar uma carta de cópia limite Max 1. Coletar 4 ou mais enquanto (Seu Nvl) é 4 ou superior irá melhorar "Chefe, Eu Preciso de Ajuda!" em "Gerente, Eu Preciso de Ajuda!".
 
 < CARD_BOSSROBOBARRIER_EFFECT >
 name=Barreira
@@ -421,7 +421,7 @@ descr=-1 MOV.
 
 < CARD_PHILOSOPHERSTONE_EFFECT >
 name=Pedra Filosofal
-descr=Quando um novo capítulo começar, ganhe 4 estrelas, com um adicional de 1 estrela a cada 5 capítulos.
+descr=Quando um novo capítulo começar, ganhe 4 Estrelas, com um adicional de 1 Estrela a cada 5 capítulos.
 
 < CARD_PERMARECREDUCTION_EFFECT >
 name=Energizado
@@ -473,7 +473,7 @@ descr=+1 Max HP, +1 ATK e -1 DEF permanentes.
 
 < CARD_CHOCOLATEDOOM_EFFECT >
 name=Te Devo Uma
-descr=Mousse de Chocolate Sombria rouba seu Nvl x 10 estrelas e ganha um estoque de Star Eater no começo do turno quando a duração atinge zero. Removido ao derrotar a fonte do efeito, ao ser nocauteado ou ao visitar um Hotel.
+descr=Mousse de Chocolate Sombria rouba (Seu Nvl) x10 Estrelas e ganha um estoque de Star Eater no começo do turno quando a duração atinge zero. Removido ao derrotar a fonte do efeito, ao ser nocauteado ou ao visitar um Hotel.
 
 < CARD_DARKCHOCOMOUSSE_FAME >
 name=Famosa Assassina de Fracotes
@@ -545,7 +545,7 @@ descr=Role 2 de dado para tudo menos para batalhas. Este efeito acaba ao parar n
 
 < CARD_SAFEJOURNEY_EFFECT >
 name=Boa Jornada
-descr=Têm que ser desse jeito!\nPerca 5 estrelas no começo de cada turno. Ignore painéis de Perda, armadilhas, e dano de carta de efeito. Este efeito é removido ao parar em seu próprio painel de casa ou ao ter menos de 5 estrelas.
+descr=Têm que ser desse jeito!\nPerca 5 Estrelas no começo de cada turno. Ignore painéis de Perda, armadilhas, e dano de carta de efeito. Este efeito é removido ao parar em seu próprio painel de casa ou ao ter menos de 5 Estrelas.
 
 < CARD_HUNGRY_EFFECT >
 name=Fome
@@ -643,7 +643,7 @@ descr=Ganhe +1 MOV na sua próxima rolagem de movimento para cada estoque.
 
 < CARD_PLENTIFULHARVEST_EFFECT >
 name=Colheita Abundante
-descr=Você ganhará estrelas ao completar Recompensas.
+descr=Você ganhará Estrelas ao completar Recompensas.
 
 < CARD_COMMANDER_EFFECT >
 name=Comandante
@@ -679,7 +679,7 @@ descr=Ganhe +1 EVD base para cada estoque (até +3 EVD base).
 
 < CARD_CHAOS_LAUNCH_EFFECT >
 name=Lançada Caótica
-descr=No começo de seu turno, mergulhe para o painel escolhido. Unidades em um raio de até 2 painéis de distância tomam Nível x1 de dano. Unidades em um raio de até 1 painel de distância tomam Nível x2 de dano.
+descr=No começo de seu turno, mergulhe para o painel escolhido. Unidades em um raio de até 2 painéis de distância tomam Nvl x1 de dano. Unidades em um raio de até 1 painel de distância tomam Nvl x2 de dano.
 
 < CARD_CHAOS_DIVE_FATIGUE_EFFECT >
 name=Fadiga de Mergulho
@@ -719,11 +719,11 @@ descr=Após ativar um Teleporte ou Teleporte e Movimento, consuma este efeito e 
 
 < CARD_NANAKOBIT_EFFECT >
 name=Bit da Nanako
-descr=Ganhe aleatóriamente +1 ATK, +1 DEF, ou +1 EVD no começo da batalha quando essa carta estiver na sua mão, e perca 7 estrelas.
+descr=Ganhe aleatóriamente +1 ATK, +1 DEF, ou +1 EVD no começo da batalha quando essa carta estiver na sua mão, e perca 7 Estrelas.
 
 < CARD_MOTHERPOWER_EFFECT >
 name=Poder de Mãe
-descr=Ganhe Nvl x1 estrelas para cada ponto de dano que você tomar. Se o efeito acabar ou ser reposto enquanto ativo, cure todo o dano tomado. Efeito acaba em nocaute.
+descr=Ganhe Nvl x1 Estrelas para cada ponto de dano que você tomar. Se o efeito acabar ou ser reposto enquanto ativo, cure todo o dano tomado. Efeito acaba em nocaute.
 
 < CARD_CANNONBALL_EFFECT >
 name=Contador de Bola de Canhão
@@ -743,7 +743,7 @@ descr=Dobre o resultado do dado que você rolar para Ataque, Defesa, Evasiva, Mo
 
 < CARD_HYPER_CHUU_EFFECT >
 name=Vou Me Dedicar Um Pouco Nisto
-descr=Até o fim do turno, ganhe +X ATK, onde X é seu nível. Não ganhe estrelas por derrotar inimigos. Na primeira vez que você derrotar um jogador em batalha com este efeito ativo, ganhe 2 Vitórias.
+descr=Até o fim do turno, ganhe +X ATK, onde X é seu Nvl. Não ganhe Estrelas por derrotar inimigos. Na primeira vez que você derrotar um jogador em batalha com este efeito ativo, ganhe 2 Vitórias.
 
 < CARD_CHAOS_SLAYER_EFFECT >
 name=Alma do Ceifador
@@ -763,11 +763,11 @@ descr=Se outro personagem sofrer nocaute, esse personagem recupera instantaneame
 
 < CARD_HYPER_HARUKA_PERSONAL_EFFECT >
 name=Hypada!
-descr=Quando outro jogador sofrer nocaute, ganhe o Nvl dele vezes 5 em estrelas. Este efeito pode estocar com múltiplos Trazendo O Hype ativos.
+descr=Quando outro jogador sofrer nocaute, ganhe o (Nvl Dele) x5 em Estrelas. Este efeito pode estocar com múltiplos Trazendo O Hype ativos.
 
 < CARD_INTELLECTUALBLUFF_EFFECT >
 name=Blefe Pseudointelectual
-descr=Se a próxima carta que você jogar for do tipo Escolhido por quem botou: Ele ganha 2 Vitórias e Nvl vezes 10 em estrelas.\nApenas declarado: Ele toma 2 de dano.
+descr=Se a próxima carta que você jogar for do tipo Escolhido por quem botou: Ele ganha 2 Vitórias e Nvl x10 em Estrelas.\nApenas declarado: Ele toma 2 de dano.
 
 < CARD_TICKEDOFF_EFFECT >
 name=Estamos irritados!
@@ -775,7 +775,7 @@ descr=Se seu HP for 1 no começo da batalha, ganhe +2 ATK.
 
 < CARD_LONGARMS_EFFECT >
 name=Olha Como Meus Braços E Pernas Estão Longos Agora
-descr=Você pode pagar 5 estrelas a mais para colocar armadilhas em um raio de 2 painéis. Aumente todos os níveis de cartas que não sejam Armadilhas e Presentes em 1 (até 5).
+descr=Você pode pagar 5 Estrelas a mais para colocar armadilhas em um raio de 2 painéis. Aumente todos os níveis de cartas que não sejam Armadilhas e Presentes em 1 (até 5).
 
 < CARD_BURNINGPANEL_EFFECT >
 name=Painel Ardente
@@ -817,17 +817,25 @@ descr=Quando você fosse ser nocauteado por dano durante batalha, diminua seu HP
 name=Resolução de Professora
 descr=Cure 1 HP após ativar um painel de Compra, Movimentação, Teleporte, Movimentação de Teleporte ou Aleatório.
 
+< CARD_EFFECT_RINSE_YOUNGLADYPOWER >
+name=Poder da Jovem Senhorita
+descr=Na próxima vez que você tomar danho, ganhe Nvl x 1 em estrelas. Não estoca.
+
+< CARD_EFFECT_RINSE_FIERCEYOUNGLADY >
+name=Jovem Senhorita Feroz
+descr=Na próxima vez que você tomar dano em batalha, ganhe Nvl x 2 em estrelas para cada ponto de dano. O efeito é removido em nocaute.
+
 < CARD_EFFECT_CHAOS_GM_TRAPCARD >
 name=Carta Armadilha
 descr=Uma carta armadilha aleatória é colocada em um painel aleatório.
 
 < CARD_EFFECT_CHAOS_GM_TARGETEDDOUBLEDROP >
 name=Perda Dupla Direcionada
-descr=Um debuff de Perda Dupla é colocado na unidade com mais estrelas.\nPerda Dupla: Perca o dobro de estrelas no próximo Painel de Perda.
+descr=Um debuff de Perda Dupla é colocado na unidade com mais Estrelas.\nPerda Dupla: Perca o dobro de Estrelas no próximo Painel de Perda.
 
 < CARD_EFFECT_CHAOS_GM_DOUBLEDROP_EFFECT >
 name=Perda Dupla
-descr=Perca o dobro de estrelas no próximo Painel de Perda.
+descr=Perca o dobro de Estrelas no próximo Painel de Perda.
 
 < CARD_EFFECT_CHAOS_GM_AIRRAID >
 name=Ataque Aéreo
@@ -835,7 +843,7 @@ descr=Todas as unidades tomam imediatamente 1 de dano.
 
 < CARD_EFFECT_CHAOS_GM_PAYCHECK >
 name=Salário
-descr=Sua unidade ganha imediatamente Nvl x 5 em estrelas.
+descr=Sua unidade ganha imediatamente Nvl x5 em Estrelas.
 
 < CARD_EFFECT_CHAOS_GM_GLORYOFBATTLE >
 name=Glória da Batalha
@@ -911,7 +919,7 @@ descr=Todas as unidades tomam imediatamente 1 a 3 de dano.
 
 < CARD_EFFECT_CHAOS_GM_KAILOSTWALLET >
 name=A Carteira Perdida do Kai
-descr=Sua unidade ganha 1, 10, 15, 25, 50, ou 100 estrelas.
+descr=Sua unidade ganha 1, 10, 15, 25, 50, ou 100 Estrelas.
 
 < CARD_EFFECT_CHAOS_GM_FORCEDWARP >
 name=Teleporte Forçado
@@ -939,7 +947,7 @@ descr=Dê 3 cartas aleatórias para sua unidade.\nExiste uma chance de 75% de qu
 
 < CARD_EFFECT_CHAOS_GM_IMMEDIATECHECK >
 name=Checagem Imediata
-descr=Sua unidade irá imediatemente fazer uma checagem de Norma. Não pode ser usada em Norma nível 5.
+descr=Sua unidade irá imediatemente fazer uma checagem de Norma. Não pode ser usada em Norma Nvl 5.
 
 < CARD_EFFECT_CHAOS_GM_IMMEDIATECONVERGENCE >
 name=Convergência Imediata
@@ -959,7 +967,7 @@ descr=Todas as unidades ganharão +3 DEF, e -3 ATK por 3 capítulos.
 
 < CARD_EFFECT_CHAOS_GM_UNFAIREXCHANGE >
 name=Troca Injusta
-descr=As estrelas de todo mundo trocam de dono.
+descr=As Estrelas de todo mundo trocam de dono.
 
 < CARD_EFFECT_CHAOS_GM_STARSHOWER >
 name=Chuva de Estrelas

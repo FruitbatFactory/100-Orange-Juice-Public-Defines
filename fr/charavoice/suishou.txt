@@ -1,0 +1,159 @@
+<0000> Je ne baisse jamais la garde.
+<0001> Hmpf.
+<0002> Faisons de notre mieux.
+<0003> Ce simple jet pourrait changer mon destin.
+<0004> Jouons donc une carte.
+<0005> Saisissons notre chance.
+<0006> Je vais changer la donne.
+<0007> À nous de jouer.
+<0008> Un piège.
+<0009> Ici et maintenant.
+<0010> Je pose un piège.
+<0011> Ne vous laisser pas effrayer.
+<0012> Je saisis le flot de la chance.
+<0013> Je vous mettrai le coup de grâce.
+<0014> Je vais vous rosser.
+<0015> Vous ne vous en relèverez point.
+<0016> Admirez la danse des Yukimura...
+<0017> Je me relèverai autant qu'il le faudra.
+<0018> La partie n'est pas encore terminée.
+<0019> Pas question de me laisser abattre.
+<0020> J'ai retrouvé mes forces.
+<0021> Aurais-je fait une erreur ?
+<0022> Est-il vraiment nécessaire de patienter ?
+<0023> Tout ne se passe pas comme prévu.
+<0024> Le flot est difficile à saisir...
+<0025> Je passe à l'attaque.
+<0026> Êtes-vous prêt ?
+<0027> Tombez.
+<0028> Plongez dans le sommeil.
+<0029> Argh.
+<0030> Je n'ai pu la repousser.
+<0031> Bien joué.
+<0032> Je crois que je prends des dégâts.
+<0033> Je reprends des forces.
+<0034> Je dois surveiller mon endurance.
+<0035> Je peux continuer.
+<0036> Repartons sur des bases solides.
+<0037> Un portail.
+<0038> Où vais-je bien atterrir ?
+<0039> Je me retire.
+<0040> Et c'est parti.
+<0041> Comment ai-je pu me laisser vaincre ?
+<0042> Quelle grossière erreur de ma part...
+<0043> Ainsi, j'ai été vaincue.
+<0044> J'ai peut-être sous-estimé l'ennemi.
+<0045> Je vais vous achever.
+<0046> Au combat.
+<0047> Un combat que vous ne pouvez refuser.
+<0048> Combattons à la loyale.
+<0049> Vous osez défier la famille Yukimura ?
+<0050> Vous me sous-estimez.
+<0051> Je relève le défi.
+<0052> Je vous prie de ne pas me décevoir.
+<0053> Seï !
+<0054> Hah !
+<0055> Je te tiens.
+<0056> Prends ça !
+<0057> Guh !
+<0058> Vous osez me frapper ?
+<0059> Une belle attaque.
+<0060> Une égratinure.
+<0061> Aurais-je baissé ma garde ?
+<0062> C'est problématique.
+<0063> Je me suis laissée avoir.
+<0064> Gh... quel talent.
+<0065> Esquive tactique Yukimura.
+<0066> Vous ne pouvez pas m'atteindre.
+<0067> Vous pensiez que ça toucherait ?
+<0068> Attaque impeccable. Précision à revoir.
+<0069> Ce fut un beau combat.
+<0070> Prière de rester au tapis.
+<0071> Telle est la technique Yukimura.
+<0072> La victoire me revient.
+<0073> Vous avez du talent.
+<0074> Je ne m'attendais pas à une telle résistance.
+<0075> Je pensais avoir levé ma garde...
+<0076> Aurais-je échoué...?
+<0077> Un flot favorable.
+<0078> Étoiles obtenues.
+<0079> Je n'ai pas à me plaindre.
+<0080> Merci bien.
+<0081> Pardon !?
+<0082> Mes étoiles...
+<0083> Ghh... un malus.
+<0084> Aurais-je perdu des étoiles ?
+<0085> Un piège ?
+<0086> Je me suis laissée surprendre.
+<0087> On m'a eue !?
+<0088> Je suis trop distraite. Ce piège était évident.
+<0089> Un adversaire redoutable fait son entrée...
+<0090> Le voilà réveillé.
+<0091> Ce ne sera pas une mince affaire.
+<0092> Ce n'est pas le moment de se laisser distraire.
+<0093> Les étoiles, c'est mieux.
+<0094> Je m'en vais acquérir quelques étoiles.
+<0095> La chasse aux étoiles est ouverte.
+<0096> Je n'en manquerai pas une seule.
+<0097> Vous allez goûter à la technique Yukimura.
+<0098> Que la lutte commence.
+<0099> De quoi me dérouiller un tantinet.
+<0100> Je m'en vais occire l'ennemi.
+<0101> Je m'appelle Suishou Yukimura. Enchantée.
+<0102> Ainsi, vous souhaitez faire équipe avec moi ?
+<0103> Je nous souhaite une bonne session.
+<0104> Vous venez la technique Yukimura à l'action ?
+<0105> Que la partie commence.
+<0106> C'est parti.
+<0107> Nous sommes en guerre.
+<0108> Amusons-nous.
+<0109> Eh bien, ce fut une belle partie.
+<0110> J'ai apprécié cette partie. J'espère vous réaffronter.
+<0111> Ainsi, j'ai gagné. Fufu.
+<0112> Voudriez-vous enchaîner avec une autre partie ?
+<0113> Gardons ce qui s'offre à nous.
+<0114> Est-ce là ce que vous vouliez ?\nJ'espère que vous l'apprécierez.
+<0115> Un objet rare ?
+<0116> Ça, pour une belle pioche...
+<0117> Prenez le relai.
+<0118> Je tire ma révérence.
+<0119> Veuillez prendre ma place.
+<0120> Le temps de récupérer mon énergie.
+<0121> Entendu.
+<0122> Bien.
+<0123> Soit.
+<0124> Je ne devrais pas.
+<0125> Quelle déception.
+<0126> Une chance.
+<0127> Eh bien, je ne m'y attendais point.
+<0128> Allons donc.
+<0129> Roule !
+<0130> Sans retenue.
+<0131> Bien le bonjour.
+<0132> Hmm...
+<0133> Remarquable.
+<0134> Magnifique.
+<0135> Gh...
+<0136> Carte Hyper.
+<0137> J'utilise la Carte Hyper.
+<0138> Que dites-vous de ça ?
+<0139> Puisse cette carte me guider sur le flot de la chance.
+<0140> Mes remerciements.
+<0141> Je m'en remets à vous, Dame Rinse.
+<0142> Oui, c'est à vous de jouer.
+<0143> Veuillez m'excuser. J'étais trop investie dans le match.
+<0144> Bien sûr.
+<0145> Je m'en charge.
+<0146> Avec plaisir. Je m'occupe du reste.
+<0147> Rien de plus motivant que d'entendre ces mots, Dame Rinse.
+<0148> Je vais faire du mieux que je peux.
+<0149> Votre vue est remarquable.
+<0150> Battez-vous sans aucune retenue.
+<0151> Poyo, je demande un duel d'honneur.
+<0152> Votre queue... si douce... hum, puis-je la caresser brièvement ?
+<0153> Mais que faites-vous, bon sang !?
+<0154> D-Devrais-je appeler les autorités ?
+<0155> U-Un satyre ?
+<0156> R-Rhabillez-vous tout de suite...!
+<0161> Voici la monnaie de votre pièce.
+<0162> Je n'ai pas pu tout renvoyer...!

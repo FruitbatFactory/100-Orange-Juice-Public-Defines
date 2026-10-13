@@ -1,179 +1,194 @@
 
 < VOICEACTOR_MATSUURA_YOSHIYUKI >
-Matsuura Yoshiyuki
+Мацуура Ёшиюки
 
 < VOICEACTOR_SATO_AZUSA >
-Sato Azusa
+Сато Азуса
 
 < VOICEACTOR_TAKAI_MAIKA >
-Takai Maika
+Такаи Маика
 
 < VOICEACTOR_YOSHIDA_SEIKO >
-Yoshida Seiko
+Ёшида Сеико 
 
 < VOICEACTOR_MOTOMIYA_KANA >
-Motomiya Kana
+Мотомия Кана
 
 < VOICEACTOR_ARANAMI_KAZUSA >
-Aranami Kazusa
+Аранами Казуса
 
 < VOICEACTOR_ATSUSHI_KOUSAKA >
-Atsushi Kousaka
+Ацуши Коусака
 
 < VOICEACTOR_KABAYAMA_MINAMI >
-Kabayama Minami
+Кабаяма Минами
 
 < VOICEACTOR_MARUYAMA_MIKI >
-Maruyama Miki
+Маруяма Мики
 
 < VOICEACTOR_HONO >
-Fujiwara Hikaru
+Фудживара Хикару
 
 < VOICEACTOR_NARUMI_TAKASHI >
-Narumi Takashi
+Наруми Такаши
 
 < VOICEACTOR_MOMOKAWA_RIKA >
-Momokawa Rika
+Момокава Рика
 
 < VOICEACTOR_YOSHIOKA_MAYA >
-Yoshioka Maya
+Йошиока Майя
 
 < VOICEACTOR_IZAWA_SHIORI >
-Izawa Shiori
+Изава Шиори
 
 < VOICEACTOR_AIYA_SAKI >
-Aiya Saki
+Айя Саки
 
 < VOICEACTOR_TAMIYASU_TOMOE >
-Tamiyasu Tomoe
+Тамиясу Томое
 
 < VOICEACTOR_SHIMIZU_AYAKA >
-Shimizu Ayaka
+Шимизу Аяка
 
 < VOICEACTOR_NUKUI_YUKA >
-Nukui Yuka
+Нукуи Юка
 
 < VOICEACTOR_SATOU_MEGUMI >
-Satou Megumi
+Сато Мегуми
 
 < VOICEACTOR_KAWASAKI_MEIKO >
-Kawasaki Meiko
+Кавасаки Меико
 
 < VOICEACTOR_FUJITA_MASAYO >
-Fujita Masayo
+Фуджита Масаё
 
 < VOICEACTOR_IMAI_FUMIYA >
-Imai Fumiya
+Имаи Фумия
 
 < VOICEACTOR_FUKUYAMA_SAORI >
-Fukuyama Saori
+Фукуяма Саори
 
 < VOICEACTOR_KAHARA_YUU >
-Kahara Yuu
+Кахара Ю
 
 < VOICEACTOR_WATANABE_MOENA >
-Watanabe Moena
+Ватанабе Моена
 
 < VOICEACTOR_SEKI_KASUMI >
-Seki Kasumi
+Секи Касуми
 
 < VOICEACTOR_KINUGAWA_RIKA >
-Kinugawa Rika
+Кинугава Рика
 
 < VOICEACTOR_HIRAYAMA_EMI >
-Hirayama Emi
+Хираяма Эми
 
 < VOICEACTOR_KIRITANI_CHOUCHO >
-Kiritani Choucho
+Киритани Чоучо
 
 < VOICEACTOR_HIYAMIZU_YUUKA >
-Hiyamizu Yuuka
+Хиямизу Юука
 
 < VOICEACTOR_YUUKI_CHISA >
-Yuuki Chisa
+Юуки Чиса
 
 < VOICEACTOR_KADOWAKI_MAI >
-Kadowaki Mai
+Кадоваки Маи
 
 < VOICEACTOR_KONDOU_YUI >
-Kondou Yui
+Кондо Юи
 
 < VOICEACTOR_MIZUSAWA_FUMIE >
-Mizusawa Fumie
+Мизусава Фумие
 
 < VOICEACTOR_KITA_NATSUKI >
-Kita Natsuki
+Кита Нацуки
 
 < VOICEACTOR_SAKURA_MIKO >
-Sakura Miko
+Сакура Мико
 
 < VOICEACTOR_AIZAWA_SAYA >
-Aizawa Saya
+Аизава Сая
 
 < VOICEACTOR_KOYAMA_MOMOYO >
-Koyama Momoyo
+Кояма Момоё
 
 < VOICEACTOR_SAKURA_TANGE >
-Tange Sakura
+Тангэ Сакура
 
 < VOICEACTOR_TODA_MEGUMI >
-Toda Megumi
+Тода Мегуми
 
 < VOICEACTOR_MURAKAMI_NATSUMI >
-Murakami Natsumi
+Мураками Нацуми
 
 < VOICEACTOR_ISHIGURO_CHIHIRO >
-Ishiguro Chihiro
+Ишигуро Чихиро
 
 < VOICEACTOR_TANAKA_TAKAKO >
-Tanaka Takako
+Танака Такако
 
 < VOICEACTOR_KOUNO_HIYORI >
-Kouno Hiyori
+Коуно Хиёри
 
 < VOICEACTOR_KAHARA_MOE >
-Kahara Moe
+Кахара Мое
 
 < VOICEACTOR_KANEMOTO_HISAKO >
-Kanemoto Hisako
+Канемото Хисако
 
 < VOICEACTOR_TERASHIMA_JUNTA >
-Terashima Junta
+Терашима Дзюнта
 
 < VOICEACTOR_YAMANAKA_MASAHIRO >
-Yamanaka Masahiro
+Яманака Масахиро
 
 < VOICEACTOR_TOKIWA_SHOUHEI >
-Tokiwa Shouhei
+Токива Шоухей
 
 < VOICEACTOR_KUWAHARA_YUUKI >
-Kuwahara Yuuki
-
-< VOICEACTOR_OGAMI_SHINNOSUKE >
-Shinnosuke Ogami
-
-< VOICEACTOR_OOTSUBO_YUKA >
-Ootsubo Yuka
-
-< VOICEACTOR_YASUHIRO_MAMIYA >
-Mamiya Yasuhiro
+Кувахара Юуки
 
 < VOICEACTOR_ONO_YUKO >
-Oono Yuuko
+Оно Юуко
+
+< VOICEACTOR_OGAMI_SHINNOSUKE >
+Шинносукэ Огами
+
+< VOICEACTOR_OOTSUBO_YUKA >
+Ооцубо Юка
+
+< VOICEACTOR_YASUHIRO_MAMIYA >
+Мамия Ясухиро
 
 < VOICEACTOR_TAKUMI_YAMAZAKI >
-Yamazaki Takumi
+Ямазаки Такуми
 
 < VOICEACTOR_KURISAKA_MINAMI >
-Kurisaka Minami
+Курисака Минами
 
 < VOICEACTOR_SAWADA_HIME >
-Sawada Hime
+Садава Химе
 
 < VOICEACTOR_TAKAMORI_NATSUMI >
-Takamori Natsumi
+Такамори Нацуми
 
 < VOICEACTOR_SUGUTA_HINA >
-Suguta Hina
+Сугута Хина
+
+< VOICEACTOR_TOKUI_SORA >
+Токуи Сора
+
+< VOICEACTOR_SHIRASU_SAHO >
+Ширасу Сахо
+
+< VOICEACTOR_OHASHI_AYAKA >
+Охаши Аяка
+
+< VOICEACTOR_TADOKORO_AZUSA >
+Тадокоро Азуса
+
+< VOICEACTOR_USUI_YURI >
+Усуи Юри
 
 [EOF]

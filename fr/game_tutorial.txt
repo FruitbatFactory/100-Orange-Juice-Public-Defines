@@ -35,22 +35,22 @@ Ceci est une Maison. Elle sert de point de départ pour les joueurs. Ils doivent
 Chaque joueur a sa propre maison au chiffre attitré. Si vous passez devant la vôtre, vous pourrez vous y arrêter. Vous pouvez aussi profiter de la maison d'un autre joueur si vous arrivez pile dessus.
 
 < TUTORIAL_05 >
-Premièrement, vous devrez accumuler 10 étoiles et atteindre une maison pour monter en niveau. Les prochains niveaux se débloquent en atteignant au choix un palier d'Étoiles ou de Victoires. Vous obtenez des Victoires en gagnant des combats.
+Premièrement, vous devrez accumuler 10 Étoiles et atteindre une maison pour monter en niveau. Les prochains niveaux se débloquent en atteignant au choix un palier d'Étoiles ou de Victoires. Vous obtenez des Victoires en gagnant des combats.
 
 < TUTORIAL_06 >
-Si vous ne savez pas vers quoi vous tourner, il est recommandé de jouer les Étoiles. Vous gagnez des étoiles à chaque chapitre, vous ne serez donc jamais coincé(e).
+Si vous ne savez pas vers quoi vous tourner, il est recommandé de jouer les Étoiles. Vous gagnez des Étoiles à chaque chapitre, vous ne serez donc jamais coincé(e).
 
 < TUTORIAL_07 >
-Les cases jaunes sont des cases Bonus. Vous y gagnerez autant d'étoiles que votre résultat à un jet de dé, multiplié par votre niveau actuel (3 maximum).
+Les cases jaunes sont des cases Bonus. Vous y gagnerez autant d'Étoiles que votre résultat à un jet de dé, multiplié par votre niveau actuel (3 maximum).
 
 < TUTORIAL_08 >
-Attention aux cases bleues ! Ce sont des cases Malus : marcher dessus vous fait perdre autant d'étoiles que votre résultat à un jet de dé, multiplié par votre niveau actuel (5 maximum).
+Attention aux cases bleues ! Ce sont des cases Malus : marcher dessus vous fait perdre autant d'Étoiles que votre résultat à un jet de dé, multiplié par votre niveau actuel (5 maximum).
 
 < TUTORIAL_09 >
 En vert, ce sont les cases Pioche. Vous piochez une carte en arrivant dessus.
 
 < TUTORIAL_10 >
-En rouge, ce sont les cases Ennemi, vous y affronterez un ennemi sauvage. Vaincre un ennemi confère des étoiles et 1 Victoire.
+En rouge, ce sont les cases Ennemi, vous y affronterez un ennemi sauvage. Vaincre un ennemi confère des Étoiles et 1 Victoire.
 
 < TUTORIAL_11 >
 Et enfin, en violet, les cases Portail : elles vous téléporteront à une autre case Portail.
@@ -77,7 +77,7 @@ Il peut également Esquiver. Si le résultat est supérieur au score de l'attaqu
 Si le Défenseur survit à l'attaque, il peut attaquer à son tour !
 
 < TUTORIAL_19 >
-Si l'un des deux joueurs arrive à 0 PV, il tombe KO et donne 50% de ses étoiles au gagnant ! Le gagnant remporte également 2 Victoires.
+Si l'un des deux joueurs arrive à 0 PV, il tombe KO et donne 50% de ses Étoiles au gagnant ! Le gagnant remporte également 2 Victoires.
 
 < TUTORIAL_20 >
 Parlons maintenant des cartes ! Avant de commencer à jouer, chaque joueur choisit 10 cartes à ajouter au jeu. Elles sont ensuite mélangées dans le Deck Central.
@@ -89,7 +89,7 @@ Parlons maintenant des cartes ! Avant de commencer à jouer, chaque joueur chois
 Chaque personnage possède son propre "Hyper", une carte à l'effet très puissant ! Il y a en tout 8 "Cartes-Hyper blanches" réparties dans le deck central. Piocher l'une d'elles la transformera en votre propre Hyper.
 
 < TUTORIAL_23 >
-Toutes les cartes ont un niveau attribué, entre 1 et 5, indiqué sur le bord gauche. Il vous faudra un niveau égal ou supérieur pour les jouer. La plupart ont également un coût en étoiles, indiqué sur le bord droit.
+Toutes les cartes ont un niveau attribué, entre 1 et 5, indiqué sur le bord gauche. Il vous faudra un niveau égal ou supérieur pour les jouer. La plupart ont également un coût en Étoiles, indiqué sur le bord droit.
 
 < TUTORIAL_24 >
 Les plateaux ont souvent des "Effets Globaux", qui s'activent une fois tous les X chapitres. Survolez le bouton "Info" à droite pour les connaître.

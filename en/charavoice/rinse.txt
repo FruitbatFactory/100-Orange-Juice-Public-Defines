@@ -1,0 +1,164 @@
+<0000> With grace.
+<0001> Beautifully.
+<0002> With resilience.
+<0003> Dazzlingly.
+<0004> Here I go.
+<0005> Fufu... I choose this card.
+<0006> I know what to do.
+<0007> This is the one.
+<0008> Trickery.
+<0009> Why don't I set a trap here?
+<0010> Everyone better watch out around here. 
+<0011> There's a trap set here, I'll have you know.
+<0012> A battle card.
+<0013> I'll draw the battle in my favor.
+<0014> I'll take you down.
+<0015> I'll finish you off.
+<0016> Do you really think you stand a chance against me?
+<0017> Phew.
+<0018> I'm not out yet.
+<0019> I'm putting a stop to this.
+<0020> I can still go.
+<0021> Hmm...
+<0022> The tide's turning against me.
+<0023> Mhm.
+<0024> Oh my...
+<0025> Let's take the offensive.
+<0026> I'll attack.
+<0027> This is where you end.
+<0028> I'll knock you down.
+<0029> Ugh.
+<0030> Oh my.
+<0031> Mmm.
+<0032> That stings.
+<0033> I'll recover.
+<0034> I can't afford to go down.
+<0035> That should cancel out the damage.
+<0036> I won't go down so easily.
+<0037> A warp.
+<0038> Off I go.
+<0039> Is that a warp?
+<0040> So I'm flying, am I?
+<0041> Me... going down...?
+<0042> My, my, my... things are getting interesting.
+<0043> To think I'd be pushed this far...
+<0044> It's hard to believe I find myself in such a predicament.
+<0045> Full offense!
+<0046> Battle time.
+<0047> Allow me to make my move.
+<0048> I'll take you down.
+<0049> If you dare challenge me, be prepared.
+<0050> I'll take you on.
+<0051> Good momentum.
+<0052> The battle begins.
+<0053> This is going to hurt.
+<0054> I'm afraid I can't hold back. My apologies.
+<0055> I'll stop you right here.
+<0056> Fufu, take this!
+<0057> Ow.
+<0058> Ngh...
+<0059> Ugh!
+<0060> My, my.
+<0061> This isn't good.
+<0062> This is quite tough.
+<0063> To think I'd be cornered like this.
+<0064> That might have been a bit too painful.
+<0065> You simply cannot hit me.
+<0066> Did you think that would land?
+<0067> That won't do.
+<0068> My, that didn't hit, did it.
+<0069> Fufu, how unfortunate for you.
+<0070> Victory is mine.
+<0071> And that's the end of that.
+<0072> Sleep for a while, won't you.
+<0073> My, my, you're quite good.
+<0074> Hmm, did I make a mistake?
+<0075> You are quite formidable.
+<0076> I'll make you pay for this.
+<0077> Fufu, star get!
+<0078> How wonderful.
+<0079> How delightful.
+<0080> I've obtained stars.
+<0081> A drop panel?!
+<0082> Oh, a drop...
+<0083> How unlucky.
+<0084> Aw, geez!
+<0085> A trap?
+<0086> I completely fell for it.
+<0087> No...
+<0088> How terrible.
+<0089> A boss has appeared.
+<0090> The tension is rising.
+<0091> I have a bad feeling about this.
+<0092> Now then, I must tread carefully.
+<0093> Should I choose a star norma?
+<0094> Yes, the flow is on my side now.
+<0095> Now is the time to go for the stars.
+<0096> I hope this is the right choice.
+<0097> Shall I take everyone down?
+<0098> I'll push for the win, even if it's a bit forceful.
+<0099> It's just a game, so a little recklessness can't hurt, right?
+<0100> I'll fight with elegance, always.
+<0101> I'm Sudou Rinse.
+<0102> Rinse from Resplendent Wind Private Academy. Pleased to meet you.
+<0103> Shall I play with you?
+<0104> Let's enjoy this together.
+<0105> Now then, it's time for the match.
+<0106> Let's enjoy this with grace and elegance.
+<0107> Fufufu, the fun is just beginning.
+<0108> I can actually be quite hot-blooded.
+<0109> How did you find my strength?
+<0110> Fufu, that was a good match.
+<0111> This moment never gets old, does it.
+<0112> My win, yes?
+<0113> New item get~♪
+<0114> My, my, did you get something good?
+<0115> You look happy. Won't you show me too?
+<0116> Congratulations. I'm happy for you too.
+<0117> Let's switch.
+<0118> I'll leave the rest to you.
+<0119> I'll fall back for now.
+<0120> It's your turn.
+<0121> Understood.
+<0122> Good.
+<0123> Sure!
+<0124> That won't do.
+<0125> That's not good.
+<0126> Fortune has smiled upon us.
+<0127> Oh... oh my.
+<0128> Here we go.
+<0129> I'll roll the dice.
+<0130> Good luck.
+<0131> Good day.
+<0132> Hmm... ugh...
+<0133> Very nice.
+<0134> Better than expected. How lovely.
+<0135> Ugh... how frustrating.
+<0136> I'll use the Hyper Card.
+<0137> Quite an unusual situation, but...
+<0138> The way to use this card is...
+<0139> Hyper Card!
+<0140> Thank you.
+<0141> Suishou, it's your turn.
+<0142> Would you mind taking over?
+<0143> I know you can handle this. I have faith in you.
+<0144> Suishou, show me your skills.
+<0145> Suishou, let me take it from here.
+<0146> Could you let me have a turn as well?
+<0147> It's not fair that you're having all the fun. I want in too.
+<0148> Suishou, fall back.
+<0149> Haru, have you been well?
+<0150> Haru, it's been a while. Come play with your big sis.
+<0151> Playing 100% OJ with Haru... I coudn't be happier...
+<0152> Playing 100% OJ together like this... it takes me back.
+<0153> Play with your big sis, Kana.
+<0154> Kana, you're as adorable as ever. 
+<0155> Kana, you've grown so much.
+<0156> I'm having so much fun playing with you, Kana.
+<0157> I never thought I'd get to fight you again, Marie.
+<0158> Marie, haven't you gotten a bit rusty?
+<0159> I won't be holding back, of course. Marie.
+<0160> I had my doubts, but... those burning eyes are just as I remember.
+<0161> Oh, that's my card.
+<0162> I really don't want to part with Haru's card, but...!
+<0163> Kana's card...! I'll have to get it back later.

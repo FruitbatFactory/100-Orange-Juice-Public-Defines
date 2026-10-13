@@ -53,10 +53,10 @@ descr=Gain +%d MOV on your next movement roll.
 descr=Gain -%d MOV on your next movement roll.
 
 < CARD_SHROOM_GAINSTARS >
-descr=Gain Lvl x %d stars.
+descr=Gain (your Lvl) x %d Stars.
 
 < CARD_SHROOM_LOSESTARS >
-descr=Lose Lvl x %d stars.
+descr=Lose (your Lvl) x %d Stars.
 
 < CARD_SHROOM_HEALTHUP >
 descr=Gain %d HP.
@@ -110,10 +110,10 @@ descr=Draw 2 cards.
 descr=Discard a random card.
 
 < CARD_SHROOM_WIN >
-descr=Gain 1 win.
+descr=Gain 1 Win.
 
 < CARD_SHROOM_LEGEND_STARS >
-descr=Gain +Lvl stars from all sources. On Battle KO, winner steals this card if it's a player.
+descr=Gain (your Lvl) more Stars from all sources. On Battle KO, winner steals this card if it's a player.
 
 < CARD_SHROOM_LEGEND_WINS >
 descr=Gain +1 Win from all sources. On Battle KO, winner steals this card if it's a player.

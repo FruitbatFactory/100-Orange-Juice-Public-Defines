@@ -1,0 +1,124 @@
+// main
+// (elliehyper)
+<0000> Hey, we finally came to visit!
+// (lulu)
+<0001> Thank you very much for having us.
+// (tomomo)
+<0002> Oh, it's you two. How's it going, kiddos? What do you think of my new beach house? Thought I'd build myself a little holiday home as a reward for helping out with the Mio stuff.
+// (lulu)
+<0003> Lulu's... more concerned that there's a beach here at all. Or an ocean. There wasn't before.
+// (tomomo)
+<0004> Oh, I just added 'em in. Mio already put this world together as a patchwork mess anyway. And it's only a small ocean.
+// (lulu)
+<0005> Please don't insult our world. Lulu thinks it's got a whole bunch of wonderful things in it, no matter where they came from.
+// (elliehyper)
+<0006> Like me and Lulu, right? Right?
+// (lulu)
+<0007> Lulu's not arrogant... um, confident enough to compliment herself out loud like you do.
+// (tomomo)
+<0008> Don't worry. I'm looking after the place now, so you don't have to sweat the small stuff.
+// (elliehyper)
+<0009> Hee hee. That's just like you, Grams.
+// (tomomo)
+<0010> G-G-Grams? Who the heck are you calling 'Grams', you little brat?
+// (elliehyper)
+<0011> Well, you're my Mama's mama, right? So what does that make you, huh?
+// (tomomo)
+<0012> Sure, I made her, but I didn't give birth to her or anything!
+// (elliehyper)
+<0013> Ahaaa~ Don't sweat the small stuff, Grand<3 Ma<3
+// (tomomo)
+<0014> Gwaah! Don't use that word! I'm not old enough to be a granny. I'm in the prime of my life!
+// (lulu)
+<0015> How long does that last?
+// (tomomo)
+<0016> Until I run out of prime numbers to count it with!
+// (lulu)
+<0017> When you say things like that, Lulu can really see the family resemblance.
+// (elliehyper)
+<0018> Come on, Grandma<3 Why don't you spoil us a little? Isn't that what grandmas are for? Ahaaa~
+// (lulu)
+<0019> Ellie, Lulu thinks you shouldn't attack people's weak spots like that.
+// (tomomo)
+<0020> Fine. You know what? I'm a mature adult lady! I don't have to get worked up over this.
+// (elliehyper)
+<0021> Yep. Veeeeeeery mature. Ahaaaa~
+// (tomomo)
+<0022> Whatever. So, you kiddos hungry? You want snacks?
+// (elliehyper)
+<0023> You're actually gonna spoil us? Heck yeah!
+// (tomomo)
+<0024> Well, you guys are the only ones who've come to visit so far, so you might as well eat.
+// (lulu)
+<0025> Thank you very much. What do you have?
+// (tomomo)
+<0026> I got ice cream, ice cream, ice cream, and ice cream. Take your pick.
+// (lulu)
+<0027> Yep, definitely related to Ellie.
+// (elliehyper)
+<0028> What about these weird cans?
+// (tomomo)
+<0029> You're a little too young for those. They're... uh. Medicine, I guess. To help my soul recover after my boss starts up a death march...
+// (lulu)
+<0030> S-somehow, even the sunshine feels bleak after you said that...
+// (tomomo)
+<0031> So, Ellie. How're your mom and pops doing? I haven't seen them at all since then.
+// (elliehyper)
+<0032> They're doing gross couple things. It makes me wanna barf! And who the heck does Papa think he is, monopolizing Mama like that? She's mine!
+// (tomomo)
+<0033> Bleh! Gonna pretend I didn't hear that. I really don't want to imagine those two being mushy.
+// (lulu)
+<0034> Um, Ellie's Mama and Papa are definitely... themselves, but they've been making Lulu feel like part of the family. For better or worse.
+// (tomomo)
+<0035> Good. Next time you see them, tell them to get their butts over here before I run out of paid time off.
+// (lulu)
+<0036> Yes, ma'am.
+// (tomomo)
+<0037> So. Uh. I've been meaning to ask this, but... What do you actually do for fun around here? I'm bored out of my mind.
+// (lulu)
+<0038> Really? Aren't you on holiday?
+// (tomomo)
+<0039> Yeah, but there's no TV here, no comic books, and there's nobody to talk to for miles around!
+// (elliehyper)
+<0040> That's because you made a random beach in the middle of nowhere, dummy.
+// (tomomo)
+<0041> What, you want me to put it in the middle of town and flood the place?! You want squid in your socks, you little brat?
+// (elliehyper)
+<0042> You could always go for a swim in that big dumb ocean you made.
+// (tomomo)
+<0043> I did learn recently, but it got boring after like half an hour. And it's only a small ocean.
+// (elliehyper)
+<0044> When I'm bored, I just go out on a quest! Or mess with Lulu's tail.
+// (lulu)
+<0045> L-Lulu really wishes you'd stop doing that, especially in public.
+// (elliehyper)
+<0046> Your reactions are so cute and funny, though! Ahaa~
+// (tomomo)
+<0047> A quest sounds good, even though it's more work... Ack! Have I become the kind of adult who can't stop working even on their days off?!
+// (lulu)
+<0048> We have a few bounties picked up already. You'd just be helping us out, ma'am.
+// (tomomo)
+<0049> Stop calling me ma'am. All that formality gives me the heebie-jeebies.
+// (lulu)
+<0050> Um... What should Lulu call you, then?
+// (elliehyper)
+<0051> Granny, of course!
+// (tomomo)
+<0052> How about literally anything but that!?
+// (lulu)
+<0053> Um... Auntie? Auntie Tomomo?
+// (tomomo)
+<0054> You mean like a cool aunt, right?
+// (lulu)
+<0055> Well, you did give us ice cream, so Lulu can allow it.
+// (tomomo)
+<0056> I'll take it! Alright, girls. I'll help you on your quests. Time to show off the power of a full-throttle magical girl!
+// (elliehyper)
+<0057> Don't break a hip, Grams. Ahaaa~
+// (tomomo)
+<0058> Quiet, kiddo. Just make sure you keep up!
+// (lulu)
+<0059> Oooh... They're both so loud. Lulu's ears are ringing already. And they'll both probably get bored after half an hour, too.
+// (lulu)
+<0060> Ah... Ellie's family are all so troublesome. Lulu had better get going, or she'll miss all the fun.
+

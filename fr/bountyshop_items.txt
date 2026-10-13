@@ -119,11 +119,11 @@ descr=Les objets jetables peuvent être jetés 2 cases plus loin. Ne peut être 
 
 < ITEM_MERCENARY >
 name=Mercenaire
-descr=Invoque un Mercenaire qui affronte tous les personnages (sauf invocateur) en les croisant. En cas de KO face au mercenaire, les étoiles sont partagées (50/50) entre l'invocateur et le mercenaire.
+descr=Invoque un Mercenaire qui affronte tous les personnages (sauf invocateur) en les croisant. En cas de KO face au Mercenaire, les Étoiles sont partagées (50/50) entre l'invocateur et le Mercenaire.
 
 < ITEM_PHILOSOPHERSTONE >
 name=Pierre Philosophale
-descr=Vous gagnez +4 étoiles bonus à chaque chapitre, et encore +1 tous les 5 chapitres. Ne peut être acheté qu'une fois, au prix de toutes vos étoiles (min. 120).
+descr=Vous gagnez +4 Étoiles bonus à chaque chapitre, et encore +1 tous les 5 chapitres. Ne peut être acheté qu'une fois, au prix de toutes vos Étoiles (min. 120).
 
 < ITEM_REC_BOOST_LV1 >
 name=Potion de Vigueur

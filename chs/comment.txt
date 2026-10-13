@@ -123,7 +123,7 @@
 购买了新的表情！
 
 < COM_SHOP_BOUGHTCOSTUME >
-购买了新的装扮！
+购买了新的服装！
 
 < COM_SHOP_CONVERTCURRENCY >
 兑换完成！

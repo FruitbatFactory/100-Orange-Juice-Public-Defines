@@ -1,9 +1,9 @@
 
 < RESULT_HEADER >
-Подсчёт полученных Звёзд
+Подсчёт Полученных Звёзд
 
 < RESULT_SCORE_OWNEDSTARS >
-Получено в игре
+Получено в Игре
 
 < RESULT_SCORE_LEVELBONUS >
 Бонус за Уровни
@@ -12,7 +12,7 @@
 Бонус за Победы
 
 < RESULT_SCORE_RANKBONUS >
-Бонус за ранг
+Бонус за Ранг
 
 < RESULT_SCORE_CAMPAIGNBONUS >
 Бонус Истории
@@ -21,10 +21,10 @@
 Бонус за Боссов
 
 < RESULT_SCORE_CARDMASTER >
-Мастер карт
+Мастер Карт
 
 < RESULT_SCORE_TRAPMEISTER >
-Мейстер ловушек
+Мейстер Ловушек
 
 < RESULT_SCORE_AVENGER >
 Мститель
@@ -36,7 +36,7 @@
 Невезение
 
 < RESULT_SCORE_STARDECAY >
-Распад звёзд
+Распад Звёзд
 
 < RESULT_SCORE_TOTAL >
 Итого
@@ -52,6 +52,12 @@
 
 < RESULT_SPEEDADJUST >
 Штраф за Скорость
+
+< RESULT_MESSAGE_CHARACTER_DISCOVER >
+{0} теперь на горизонте! Персонаж будет доступен в Магазине через {1} игр.
+
+< RESULT_MESSAGE_CHARACTER_UNLOCK >
+Вы разблокировали нового персонажа! {0} теперь есть в Магазине за {1} Звёзд.
 
 [EOF]
 

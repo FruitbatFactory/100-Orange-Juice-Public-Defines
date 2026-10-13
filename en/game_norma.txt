@@ -6,40 +6,40 @@ NORMA CLEAR!
 Norma Achieved
 
 < GAME_NORMA_STARS >
-Get <normaamount> or more stars.
+Get <normaamount> or more Stars.
 
 < GAME_NORMA_STARS_REV >
-Get <normaamount> or less stars.
+Get <normaamount> or less Stars.
 
 < GAME_NORMA_STARS_10 >
-Get 10 or more stars.
+Get 10 or more Stars.
 
 < GAME_NORMA_STARS_30 >
-Get 30 or more stars.
+Get 30 or more Stars.
 
 < GAME_NORMA_STARS_70 >
-Get 70 or more stars.
+Get 70 or more Stars.
 
 < GAME_NORMA_STARS_120 >
-Get 120 or more stars.
+Get 120 or more Stars.
 
 < GAME_NORMA_STARS_200 >
-Get 200 or more stars.
+Get 200 or more Stars.
 
 < GAME_NORMA_STARS_10_REV >
-Get 10 or less stars.
+Get 10 or less Stars.
 
 < GAME_NORMA_STARS_30_REV >
-Get 30 or less stars.
+Get 30 or less Stars.
 
 < GAME_NORMA_STARS_70_REV >
-Get 70 or less stars.
+Get 70 or less Stars.
 
 < GAME_NORMA_STARS_120_REV >
-Get 120 or less stars.
+Get 120 or less Stars.
 
 < GAME_NORMA_STARS_200_REV >
-Get 200 or less stars.
+Get 200 or less Stars.
 
 < GAME_NORMA_WINS_SINGLE >
 Defeat an enemy.

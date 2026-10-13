@@ -8,7 +8,7 @@ Reine des Monstres
 Chasseurs de Primes
 
 < EVENTNAME_MASTER_ANGLERS >
-Les Maîtres de la Pêche
+Pros de la Pêche
 
 < EVENTNAME_BEACH_PARTY >
 Plage du Carnage

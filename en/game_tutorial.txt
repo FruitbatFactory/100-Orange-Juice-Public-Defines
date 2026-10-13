@@ -35,22 +35,22 @@ This is a home panel. You always start in one, and must land on one to level up 
 Each player has their own, numbered home and you can choose to stop there. You can visit any player's home with an exact roll, though.
 
 < TUTORIAL_05 >
-Your first objective is to gather 10 stars to level up, and then land on a home. After that you can choose whether to collect stars or fight battles to get more Wins for your next level-up.
+Your first objective is to gather 10 Stars to level up, and then land on a home. After that you can choose whether to collect Stars or fight battles to get more Wins for your next level-up.
 
 < TUTORIAL_06 >
-By the way, we recommend aiming for a star norma if you're unsure which to choose. You receive more stars every chapter, so you will never get stuck.
+By the way, we recommend aiming for a Star norma if you're unsure which to choose. You receive more Stars every chapter, so you will never get stuck.
 
 < TUTORIAL_07 >
-Yellow panels are Bonus panels, and let you roll to gain stars. You will receive your current Level x rolled number stars (up to a multiplier of 3).
+Yellow panels are Bonus panels, and let you roll to gain Stars. You will receive your current Level x rolled number Stars (up to a multiplier of 3).
 
 < TUTORIAL_08 >
-Blue panels are Drop panels, and you will lose stars if you land on one. You will lose your current Level x rolled number stars (up to a multiplier of 5).
+Blue panels are Drop panels, and you will lose Stars if you land on one. You will lose your current Level x rolled number Stars (up to a multiplier of 5).
 
 < TUTORIAL_09 >
 Green is a Draw panel, and lets you draw a card.
 
 < TUTORIAL_10 >
-Red is an Encounter panel, and you will be forced to fight a wild enemy. If you win, you will receive Wins and stars.
+Red is an Encounter panel, and you will be forced to fight a wild enemy. If you win, you will receive Wins and Stars.
 
 < TUTORIAL_11 >
 Purple is a Warp panel - it will take you to another random warp panel that has an exit.
@@ -77,7 +77,7 @@ If you choose Evade, the defender must roll higher than the attack roll to take 
 After surviving the first attack, the defender then gets a chance to attack back!
 
 < TUTORIAL_19 >
-If one of the players goes down to 0 HP, they suffer KO and the winner receives 50% of their held stars, and gains 2 Wins!
+If one of the players goes down to 0 HP, they suffer KO and the winner receives 50% of their held Stars, and gains 2 Wins!
 
 < TUTORIAL_20 >
 Next, let's talk about cards! Each player chooses 10 cards to bring to the game, and they are shuffled together into the Center Deck, alongside 8 blank Hyper Cards.
@@ -89,7 +89,7 @@ You should aim to bring cards that will help your chosen unit more than they wil
 Each unit has a unique Hyper Card. If you draw a blank Hyper Card from the deck, it will turn into your unit's own Hyper Card. They usually have game-changingly powerful effects!
 
 < TUTORIAL_23 >
-Note that each card has a level from 1 to 5, marked on the left. You need to level up to the matching level to use the card. Most of them also cost stars to use (marked on the right).
+Note that each card has a level from 1 to 5, marked on the left. You need to level up to the matching level to use the card. Most of them also cost Stars to use (marked on the right).
 
 < TUTORIAL_24 >
 Many fields have 'Field Effects', which activate at certain intervals. You can hover over the 'Info' button to see field events and more.

@@ -12,7 +12,7 @@ Challenge to battle?
 Heal this teammate for 1HP?
 
 < GAME_MESSAGE_REVIVETEAMMATE >
-Revive this teammate? (%d stars)
+Revive this teammate? (%d Stars)
 
 < GAME_MESSAGE_CHOOSECARDUSE >
 Choose a card to use.
@@ -109,6 +109,9 @@ Healing!
 < GAME_MESSAGE_EVENT_NEXTCHAPTER >
 {} next chapter!
 
+< GAME_MESSAGE_EVENT_CHAPTEREND >
+{} activating at the end of this chapter!
+
 < GAME_MESSAGE_VALENTINE2018_CHOCOLATEFRENZY >
 Chocolate Frenzy!
 
@@ -159,6 +162,9 @@ Do you want to stop at the Shop?
 
 < GAME_MESSAGE_MONSTERCHALLENGE >
 Challenge this monster?
+
+< GAME_MESSAGE_SUMMER2020_SPEEDUP_WARNING >
+Speed up in {}...
 
 < GAME_MESSAGE_SUMMER2020_SPEEDUP >
 Speed Up!

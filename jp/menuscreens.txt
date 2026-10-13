@@ -13,17 +13,59 @@ NEW GAME
 < MAINMENU_LOADGAME >
 CONTINUE
 
+< CREATE_PROFILE_IN_SLOT >
+プロフィールを作成
+
+< CREATE_PROFILE_NAME >
+名前
+
+< CREATE_PROFILE_CONFIRM >
+確定
+
+< CREATE_PROFILE_CANCEL >
+キャンセル
+
+< CREATE_PROFILE_DELETE_SLOT >
+プロフィールを削除
+
+< CREATE_PROFILE_WARNING >
+この操作は元に戻せません！
+
+< CREATE_PROFILE_PROFILE >
+プロフィール
+
+< CREATE_PROFILE_SELECT_UNIT >
+ユニットを選択
+
+< SELECT_PROFILE_STARS >
+スター
+
+< SELECT_PROFILE_EMPTY_SLOT >
+空のスロット
+
+< SELECT_PROFILE_CARDS >
+カード
+
+< MAINMENU_LOADGAME_SELECT >
+LOAD GAME
+
 < MAINMENU_CONFIGURATION >
 CONFIGURATION
 
 < MAINMENU_EXIT >
 EXIT
 
+< LATEST_GAME_NEWS >
+最新ゲームニュース
+
 < MENU_BUTTON_OK >
 OK
 
 < MENU_BUTTON_BACK >
 戻る
+
+< MAINMENU_CHANGEPROFILE >
+プロフィール変更
 
 < MENU_BUTTON_HOME >
 ホーム
@@ -741,7 +783,7 @@ CO-OPモードでは、ハイパーカードの効果が通常と異なるキャ
 ミニゲームが終わると、釣った魚のスコアが高いプレイヤー順にランキング付けされます。スコア数によって獲得スター数が、ランキング順位によって獲得ウィン数が決定します。
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_08 >
-BBQグリルにも要注目です！ グリルには3種類の魚が表示されており、制限時間内に全種釣り上げると、ボーナスとして15ポイントを獲得できます。
+BBQグリルにも要注目です！ グリルには3種類の魚が表示されており、順番に全種類を釣り上げると、ボーナスとして50ポイントを獲得できます。
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_09 >
 グリルは各プレイヤーごとに用意されていますので、指定の魚をどんどん釣り上げてポイントを獲得して高スコアを狙いましょう！
@@ -1407,6 +1449,9 @@ OJDexではユニットのプロフィールを確認できます。
 < MENU_CODEXSTORY_TITLE_GREATPILOT >
 偉大な飛行士
 
+< MENU_CODEXSTORY_TITLE_FAMILYHOLIDAY >
+家族で過ごすバカンス
+
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES >
 {1}で{0}ゲームをプレイする。
 
@@ -1415,6 +1460,9 @@ OJDexではユニットのプロフィールを確認できます。
 
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE >
 {1}モードで{0}ゲームをプレイする
+
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE_UNIT >
+{2}を使い、{1}モードで{0}ゲームをプレイする
 
 < MENU_CODEXSTORY_UNLOCKCOND_EVENT >
 『{0}』イベントをクリアする。

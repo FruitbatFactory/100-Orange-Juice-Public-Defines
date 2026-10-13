@@ -10,7 +10,7 @@ flavor="¡Toma esto!" ―Maestro del Gremio
 
 < CARD_GIFT_COOP_POPPOTHESNATCHER >
 name=Poppo la Ladrona
-descr=Pierdes -1 DEF. Al encontrarte con otro enemigo en tu turno, roba estrellas equivalentes a su nivel x 3. Deshabilita la verificación de normas. Esta carta es descartada al ser usada o al morir.
+descr=Recibes -1 DEF. Al encontrarte con otro enemigo durante tu turno, roba sus Estrellas (valor: tu Nivel x 3). Deshabilita la verificación de normas mientras se tiene en mano. Esta carta es descartada al ser usada o al morir.
 flavor="Pokyakya!!" ―Poppo
 
 < CARD_BATTLE_COOP_SINKORSWIM >
@@ -30,7 +30,7 @@ flavor="¡Es la hora de la merienda! ¡A comer!" ―Syura
 
 < CARD_BOOST_COOP_FREIGHT >
 name=Mercancía
-descr=Al detenerte en tu propio hogar, esta carta será descartada y recibirás 5 estrellas.\nEsta carta será descartada al ser usada.
+descr=Al detenerte sobre tu propio Hogar, esta carta es descartada y recibes 5 Estrellas. No tiene efecto al ser usado.
 flavor="Podrás quedarte con toda esa mercancía, si, podrás hacer eso." ―Negociante
 
 < CARD_EVENT_COOP_UNPAIDWORK >
@@ -101,7 +101,7 @@ flavor="Muy bien, es hora de abrir la tienda." ―Arturo
 
 < CARD_HYPER_COOP_ARUSCRAMBLE >
 name=El Trabajo de Santa
-descr=Al comienzo de tu turno, podrás enviar una carta de nivel usable desde tu mano a la de un jugador aleatorio. Recibes estrellas equivalentes al nivel de la carta enviada x5. Esta carta se perderá al ser noqueado o al ser usada.
+descr=Antes de moverte durante tu turno, podrás escoger una carta de nivel usable desde tu mano, enviarla a la de un jugador aleatorio y recibir Estrellas (valor: Nivel de la Carta Enviada x 5). Esta carta se perderá al ser noqueado.
 flavor="¡Niños en todo el mundo, ahí vamos!" ―Aru
 
 < CARD_HYPER_COOP_CHICKEN >
@@ -124,11 +124,6 @@ name=Cadenas Unidas
 descr=Efecto Guardado\nTodos los enemigos perderán su próximo turno. Aplica el efecto de "Encadenado" a todos los enemigos afectados. (Recibe -2 EVD y -1 MOV) Duración: 2 capítulos. 
 flavor="No me gusta hacer este tipo de cosas." ―Hime
 
-< CARD_HYPER_COOP_IRU >
-name=Rifle Extendido de Fotones
-descr=★Costo: Nivel x5.\nUn enemigo escogido al azar perderá 1 PV. Si el mismo es noqueado, recibes una victoria. Este efecto se repite la misma cantidad de veces que tu nivel actual.
-flavor="Les dispararé a todos ustedes." ―Iru
-
 < CARD_HYPER_COOP_KAE >
 name=¡Ardiente!
 descr=Inflige "¡Ardiente!" en todas las unidades adyacentes a 2 paneles y restaura la duración del mismo. ¡Flameante! Duración: 2 capítulos; ATK +1 a los jugadores y -1 DEF a los enemigos. Este efecto se pierde al morir, y puede ser guardado más de una vez.
@@ -143,11 +138,6 @@ flavor="¡Este es el privilegio de un verdadero protagonista!" ―Kai
 name=La Última Cirugía
 descr=Noquea a todas las unidades que tengan 1 PV.\nPierdes un efecto de Medicina Extraña y recibes 25 estrellas por cada unidad noqueada. Los aliados noqueados reciben -2 REC.
 flavor="Tranquilízate, esto solo tomará un segundo." ―Kiriko
-
-< CARD_HYPER_COOP_KRILAEVENT >
-name=Maestra de los Títeres
-descr=Coloca la trampa: "¡Bailen, Bestias Orejudas!" en 3-5 paneles aleatorios.
-flavor="¡Bailen, Bestias Orejudas!" ―Krilalaris
 
 < CARD_HYPER_COOP_KRILATRAP >
 name=¡Bailen, Bestias Orejudas!
@@ -214,11 +204,6 @@ name=Molino Caprichoso
 descr=Entra en un combate con el jefe. El jefe ataca primero. Durante la batalla, recibes +1 EVD.
 flavor="Solo queremos volar libremente." ―Sherry
 
-< CARD_HYPER_COOP_STARBREAKER >
-name=Fusible Explota-Estrellas
-descr=Coloca la trampa: "Bomba Invisible" en 3-5 paneles aleatorios.
-flavor="Porque soy Star Breaker, el fusible que le pondrá un fin a este mundo." ―Star Breaker
-
 < CARD_HYPER_COOP_STARBREAKER2 >
 name=Bomba Invisible
 descr=Pierdes 4 PV. No afecta al jugador que colocó esta trampa. Solamente es visible para el equipo que colocó esta carta.
@@ -244,11 +229,6 @@ name=Masacre Mágica
 descr=Todos los enemigos pierden 3 PV por cada aliado noqueado.
 flavor="Desaparezcan." ―Tomomo
 
-< CARD_HYPER_COOP_TOMOMOSWEETEATER >
-name=Venganza Mágica
-descr=Por cada PV faltante, un enemigo al azar recibe un punto de daño. Si esa unidad es noqueada, recibes una victoria.\nAl no estar en la mano de Tomomo (SE), esta carta se transforma en Helado.
-flavor="¡Es hora de la venganza!" ―Tomomo
-
 < CARD_HYPER_COOP_TSIH >
 name=Invisibilidad
 descr=Duración: 3 capítulos.\nEl jugador no podrá ser desafiado por el enemigo.\nEste efecto se acabará al entrar en una batalla, pero no se activará en paneles de batalla o de un jefe.\nRecibes +2 ATK al entrar en una batalla. 
@@ -258,16 +238,6 @@ flavor="¡Mira como desaparezco!" ―Tsih
 name=¡A Jugar!
 descr=Daña al dueño de esta carta o al jefe del campo. El daño es equivalente a los puntos de vida máximos del jugador.
 flavor="¿Por qué no usamos esto para decidir de quién será el turno?" ―Yuki
-
-< CARD_HYPER_COOP_YUKIDANGEROUS >
-name=Mente Maestra
-descr=Toma 3 trampas del mazo, y luego coloca todas las Cartas Trampa en mano en paneles aleatorios.
-flavor="¡Témanle a mis poderes!" ―Yuki
-
-< CARD_HYPER_COOP_ARTHUR >
-name=Expandiendo Sucursales
-descr=★Costo: Número de cartas en mano x5.\nTransforma todas tus cartas en "Tienda de Pasatiempos Rbit". Podrás jugar una carta adicional durante este turno. 
-flavor="Haah..." ―Arturo
 
 < CARD_HYPER_COOP_MIMYUU >
 name=Plan Malévolo ― Ejecución
@@ -371,7 +341,7 @@ flavor="Estoy muy orgullosa de este pastel que horneé. Disfrútalo~ ♡" ―Mio
 
 < CARD_HYPER_COOP_GRAIN >
 name=Todas Las Armas Preparadas
-descr=Paga todos los efectos guardados de Cañón. Un enemigo aleatorio recibe 1 punto de daño. Si el enemigo es noqueado por este efecto, recibes 1 Victoria y Estrellas equivalentes a tu Nivel x 10. Este efecto se repite por cada Cañón pagado.
+descr=Recibe un efecto de Cañón y entonces pagas todos los efectos guardados de Cañón. Un enemigo aleatorio recibirá 1 punto de daño. Si el enemigo es noqueado, recibes 1 Victoria y Estrellas (valor: tu Nivel x 3). Repite este efecto por cada contador de Cañón pagado.
 flavor="Todas las armas preparadas, y... ¡FUEGO!" ―Grain
 
 < CARD_HYPER_COOP_HARUKA >
@@ -383,6 +353,11 @@ flavor="¡Vamos a animar el juego juntos!" ―Haruka
 name=Engaño Que Suena Intelectual
 descr=Duración: 3 Capítulos.\nEscoge el tipo de carta (Batalla/Impulso/Evento/Otro)\nCada vez que ese tipo de carta sea usado, el jugador toma una carta.
 flavor="Puedo ver las cartas que tienes." ―Kanata
+
+< CARD_HYPER_COOP_SUISHOU >
+name=Postura Estilo-Yukimura
+descr=Efecto Guardado: La próxima vez que recibas daño al defender dentro de una batalla, ese daño será cancelado y dañarás a la unidad que lo causó con el mismo valor, hasta un valor máximo de tus PV actuales. Este efecto se perderá al ser noqueado.
+flavor="El estilo Yukimura deja a todos los ataques de lado." ―Suishou
 
 < CARD_BOSS_COOP_DOZE >
 name=Sueño

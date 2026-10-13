@@ -125,4 +125,4 @@ descr=Trophée prouvant votre victoire face à l'Assassin Oublié. Porter ces la
 
 < INVENTORY_DARKCHOCOMOUSSE >
 name=Étoile en Chocolat Noir
-descr=Trophée prouvant votre victoire face à Maousse Chocolat Noir. Son aura mystérieuse au goût de cacao vous permet de voler 3 étoiles par dégât infligé en combat.
+descr=Trophée prouvant votre victoire face à Maousse Chocolat Noir. Son aura mystérieuse au goût de cacao vous permet de voler 3 Étoiles par dégât infligé en combat.

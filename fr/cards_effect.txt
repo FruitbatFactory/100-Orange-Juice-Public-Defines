@@ -4,7 +4,7 @@ descr=Ajoute un dé à vos jets de déplacement.
 
 < CARD_FLIPOUT_EFFECT >
 name=Partage des Pertes
-descr=La prochaine case Malus fait perdre autant d'étoiles au joueur adverse avec le plus d'étoiles.
+descr=La prochaine case Malus fait perdre autant d'Étoiles au joueur adverse avec le plus d'Étoiles.
 
 < CARD_NICEJINGLE_EFFECT >
 name=Jolis Grelots
@@ -180,11 +180,11 @@ descr=-1 PV Max par unité.
 
 < CARD_CUTIES_EFFECT >
 name=Starlette
-descr=+1 étoile sur les cases Bonus.
+descr=+1 Étoile sur les cases Bonus.
 
 < CARD_SPECIALSTAGE_EFFECT >
 name=Mode Concert
-descr=-3 MOV. N'active que les cases de déplacement. Ne peut pas utiliser de cartes.\nNe peut être ni défié ni ciblé.\nLes joueurs donnent Niv x5 étoiles s'ils terminent leur tour à deux cases de proximité.\nL'effet disparaît en tombant KO.
+descr=-3 MOV. N'active que les cases de déplacement. Ne peut pas utiliser de cartes.\nNe peut être ni défié ni ciblé.\nLes joueurs donnent Niv x5 Étoiles s'ils terminent leur tour à deux cases de proximité.\nL'effet disparaît en tombant KO.
 
 < CARD_PATHBLOCKERS_EFFECT >
 name=Pas Si Vite !
@@ -220,7 +220,7 @@ descr=Ajoute un dé à chaque jet.
 
 < CARD_COTTONCAKE_EFFECT >
 name=Cartes Gratuites
-descr=Les cartes ne nécessitent ni étoile ni niveau spécifique.
+descr=Les cartes ne nécessitent ni Étoile ni niveau spécifique.
 
 < CARD_REDBEANCREAM_EFFECT >
 name=Glace de Tomomo
@@ -325,7 +325,7 @@ descr=Double le nombre de Victoires données à l'assaillant au prochain KO.
 
 < CARD_SWEETDESTROYER_EFFECT >
 name=Sweet Destroyer
-descr=Transforme toutes les cartes Sucrerie en main en Pudding Dangereux ou Mauvais Pudding.
+descr=Transforme toutes les cartes Sucrerie (sauf Hyper) en main en Pudding Dangereux ou Mauvais Pudding jusqu'à la fin de la partie.
 
 < CARD_LONELYCHARIOT_EFFECT >
 name=Chariot Solitaire
@@ -337,7 +337,7 @@ descr=Peut jouer n'importe quelle carte gratuitement.
 
 < CARD_SANTASJOB_EFFECT >
 name=Service de la Mère Noël
-descr=Peut envoyer une carte utilisable de sa main en début de tour à un joueur au hasard, et gagne 5 étoiles par niveau de la carte.
+descr=Peut envoyer une carte utilisable de sa main en début de tour à un joueur au hasard, et gagne 5 Étoiles par niveau de la carte.
 
 < CARD_BANNEDFORLIFE_EFFECT >
 name=Banni à Vie
@@ -357,11 +357,11 @@ descr=+1 ATK/DEF/EVD par unité.
 
 < CARD_BEASTWITCHGIFT_EFFECT >
 name=Sorcière Bestiale
-descr=Le joueur reçoit les étoiles que les autres joueurs perdent en tombant KO sur une case Ennemi.
+descr=Le joueur reçoit les Étoiles que les autres joueurs perdent en tombant KO sur une case Ennemi.
 
 < CARD_UNLUCKYCHARM_EFFECT >
 name=Talisman Porte-Malheur
-descr=Perd son Niveau en étoiles à chaque début de tour.
+descr=Perd son Niveau en Étoiles à chaque début de tour.
 
 < CARD_WINDYENCHANTMENT_EFFECT >
 name=Sort de Vent
@@ -373,11 +373,11 @@ descr=Se déplace à l'envers. Ne peut pas valider de Quotas.
 
 < CARD_PRICEOFPOWER_EFFECT >
 name=Prix du Pouvoir
-descr=Peut jouer les cartes au niveau supérieur de 1 au sien. Chaque carte coûte 5 étoiles de plus.
+descr=Peut jouer les cartes au niveau supérieur de 1 au sien. Chaque carte coûte 5 Étoiles de plus.
 
 < CARD_POPPOSNATCHER_EFFECT >
 name=Poppo la Chipeuse
-descr=-1 DEF. En croisant un adversaire, vole (Niv. adv.) x3 étoiles. Ne peut pas valider de Quotas.
+descr=-1 DEF. En croisant un adversaire, vole (Niv. adv.) x3 Étoiles. Ne peut pas valider de Quotas.
 
 < CARD_BLOODLUST_EFFECT >
 name=Soif de Sang
@@ -385,7 +385,7 @@ descr=Perd 1 PV à chaque début de tour. Soigne 1 PV par dégât infligé. Ne p
 
 < CARD_LUCKYCHARM_EFFECT >
 name=Talisman Porte-Bonheur
-descr=Gagne (Niv. joueur) étoiles en début de tour. Ne peut pas utiliser d'autres cartes.\nDonne (Niv. joueur) x3 étoiles en plus en perdant un combat.
+descr=Gagne (Niv. joueur) Étoiles en début de tour. Ne peut pas utiliser d'autres cartes.\nDonne (Niv. joueur) x3 Étoiles en plus en perdant un combat.
 
 < CARD_MONOCOQUE_EFFECT >
 name=Monocoque Métallique
@@ -421,7 +421,7 @@ descr=-1 MOV.
 
 < CARD_PHILOSOPHERSTONE_EFFECT >
 name=Pierre Philosophale
-descr=À chaque chapitre, confère 4 étoiles bonus, +1 étoile tous les 5 chapitres.
+descr=À chaque chapitre, confère 4 Étoiles bonus, +1 Étoile tous les 5 chapitres.
 
 < CARD_PERMARECREDUCTION_EFFECT >
 name=Énergique
@@ -473,7 +473,7 @@ descr=+1 PV Max, +1 ATK, -1 DEF permanents.
 
 < CARD_CHOCOLATEDOOM_EFFECT >
 name=Dette
-descr=En fin de durée, vous donnez (votre Niv.) x10 étoiles à Maousse Chocolat Noir. Disparaît en vainquant Maousse Chocolat Noir, en vous arrêtant à une auberge ou en tombant KO.
+descr=En fin de durée, vous donnez (votre Niv.) x10 Étoiles à Maousse Chocolat Noir. Disparaît en vainquant Maousse Chocolat Noir, en vous arrêtant à une auberge ou en tombant KO.
 
 < CARD_DARKCHOCOMOUSSE_FAME >
 name=Tueuse de Bleus
@@ -545,7 +545,7 @@ descr=Jette 2 dés à chaque action hors-combat. L'effet prend fin en s'arrêtan
 
 < CARD_SAFEJOURNEY_EFFECT >
 name=Voyage Sécurisé
-descr=Perd 5 étoiles à chaque début de tour. Insensible aux cases Malus, aux pièges et aux dégâts de carte. Disparaît en arrivant sur sa propre Maison ou à moins de 5 étoiles.
+descr=Perd 5 Étoiles à chaque début de tour. Insensible aux cases Malus, aux pièges et aux dégâts de carte. Disparaît en arrivant sur sa propre Maison ou à moins de 5 Étoiles.
 
 < CARD_HUNGRY_EFFECT >
 name=Affamée
@@ -643,7 +643,7 @@ descr=+1 MOV au prochain jet de déplacement par unité.
 
 < CARD_PLENTIFULHARVEST_EFFECT >
 name=Récolte Fructueuse
-descr=Obtient des étoiles en récompense de Primes.
+descr=Obtient des Étoiles en récompense de Primes.
 
 < CARD_COMMANDER_EFFECT >
 name=Commandant
@@ -703,15 +703,15 @@ descr=Ne peut être ni défié, ni ciblé. N'active pas les pièges. Invulnérab
 
 < CARD_MOTHERPOWER_EFFECT >
 name=Pouvoir Maternel
-descr=Obtient son Niveau en étoiles par dégât subi.\nSoigne tous les PV lorsque la durée arrive à 0.\nL'effet disparaît en tombant KO.
+descr=Obtient son Niveau en Étoiles par dégât subi.\nSoigne tous les PV lorsque la durée arrive à 0.\nL'effet disparaît en tombant KO.
 
 < CARD_HYPERMIRACLE_EFFECT >
 name=Hyper Miracle d'Ellie
-descr=En attaque, +1 ATK par unité.\nEn défense, +1 DEF/EVD par unité.
+descr=(Quotas achevés) En attaque, +1 ATK par unité.\nEn défense, +1 DEF/EVD par unité.
 
 < CARD_MOMENTOFGLORY_EFFECT >
 name=Moment de Gloire
-descr=+2 ATK et +5 EVD.
+descr=+4 ATK et +5 EVD.
 
 < CARD_HKAIPASSIVE_EFFECT >
 name=Second Souffle
@@ -723,7 +723,7 @@ descr=Activer une case Portail laisse choisir sur quelle autre case Portail se t
 
 < CARD_NANAKOBIT_EFFECT >
 name=Crok de Nanako
-descr=+1 en ATK, DEF ou EVD au hasard en entrant en combat, et perd 7 étoiles.
+descr=+1 en ATK, DEF ou EVD au hasard en entrant en combat, et perd 7 Étoiles.
 
 < CARD_CANNONBALL_EFFECT >
 name=Boulets de Canon
@@ -743,7 +743,7 @@ descr=Double le résultat des jets de dés en Attaque, Défense, Esquive, Dépla
 
 < CARD_HYPER_CHUU_EFFECT >
 name=Concentration
-descr=+1 ATK par unité. Vaincre des ennemis ne donne aucune étoile. +2 Victoires la première fois qu'un joueur adverse est vaincu.
+descr=+1 ATK par unité. Vaincre des ennemis ne donne aucune Étoile. +2 Victoires la première fois qu'un joueur adverse est vaincu.
 
 < CARD_CHAOS_SLAYER_EFFECT >
 name=Âme du Faucheur
@@ -763,11 +763,11 @@ descr=Relève les joueurs KO avec tous leurs PV.
 
 < CARD_HYPER_HARUKA_PERSONAL_EFFECT >
 name=Quelle Ambiance !
-descr=Si un autre joueur tombe KO, gagne (Niv. joueur) x5 étoiles. Cumuler l'effet multiplie les gains d'étoiles.
+descr=Si un autre joueur tombe KO, gagne (Niv. joueur) x5 Étoiles. Cumuler l'effet multiplie les gains d'Étoiles.
 
 < CARD_INTELLECTUALBLUFF_EFFECT >
 name=Bluff d'Intello
-descr=Si la prochaine carte jouée est du type prédit par l'applicant, ce dernier gagne 2 Victoires et (Niv.) x10 étoiles.\nSi l'applicant a menti sur le type déclaré et s'est trompé, il subit 2 dégâts.
+descr=Si la prochaine carte jouée est du type prédit par l'applicant, ce dernier gagne 2 Victoires et (Niv.) x10 Étoiles.\nSi l'applicant a menti sur le type déclaré et s'est trompé, il subit 2 dégâts.
 
 < CARD_TICKEDOFF_EFFECT >
 name=Tu Me Cherches !?
@@ -775,7 +775,7 @@ descr=Gagne +2 ATK en commençant un combat à 1 PV.
 
 < CARD_LONGARMS_EFFECT >
 name=Bras Très Très Longs
-descr=Contre 5 étoiles, peut poser un piège n'importe où sur un rayon de 2 cases. Le niveau requis pour toutes les cartes (sauf Piège et Cadeau) augmente de 1 (5 max).
+descr=Contre 5 Étoiles, peut poser un piège n'importe où sur un rayon de 2 cases. Le niveau requis pour toutes les cartes (sauf Piège et Cadeau) augmente de 1 (5 max).
 
 < CARD_BURNINGPANEL_EFFECT >
 name=Case Brûlée
@@ -817,17 +817,25 @@ descr=Les dégâts mortels en combat laissent à 1 PV à la place.
 name=Courage de l'Enseignante
 descr=Se soigne 1 PV en activant une case Pioche, Déplacement, Portail, Déplacement-Portail ou Aléatoire.
 
+< CARD_EFFECT_RINSE_YOUNGLADYPOWER >
+name=Pouvoir d'une Demoiselle
+descr=Gagne (son Niv.) Étoiles en subissant des dégâts. Non cumulable.
+
+< CARD_EFFECT_RINSE_FIERCEYOUNGLADY >
+name=Demoiselle Impétueuse
+descr=Gagne (son Niv.) x2 Étoiles par point de dégât (max. 9) subi en combat. Si le gain d'étoiles ne rembourse pas le coût de la carte, le joueur récupère tous ses PV. L'effet disparaît en tombant KO.
+
 < CARD_EFFECT_CHAOS_GM_TRAPCARD >
 name=Carte Piège
 descr=Un piège aléatoire est posé sur une case au hasard.
 
 < CARD_EFFECT_CHAOS_GM_TARGETEDDOUBLEDROP >
 name=Malédiction de Double Malus
-descr=Applique l'effet "Double Malus" au personnage avec le plus d'étoiles.\nDouble Malus : Vous perdez x2 d'étoiles sur la prochaine case Malus.
+descr=Applique l'effet "Double Malus" au personnage avec le plus d'Étoiles.\nDouble Malus : Vous perdez x2 d'Étoiles sur la prochaine case Malus.
 
 < CARD_EFFECT_CHAOS_GM_DOUBLEDROP_EFFECT >
 name=Double Malus
-descr=Perd deux fois plus d'étoiles sur la prochaine case Malus.
+descr=Perd deux fois plus d'Étoiles sur la prochaine case Malus.
 
 < CARD_EFFECT_CHAOS_GM_AIRRAID >
 name=Raid Aérien
@@ -835,7 +843,7 @@ descr=Tous les personnages subissent 1 dégât.
 
 < CARD_EFFECT_CHAOS_GM_PAYCHECK >
 name=Salaire
-descr=Votre personnage gagne Niv. x5 étoiles.
+descr=Votre personnage gagne Niv. x5 Étoiles.
 
 < CARD_EFFECT_CHAOS_GM_GLORYOFBATTLE >
 name=Gloire du Combat
@@ -911,7 +919,7 @@ descr=Tous les personnages subissent entre 1 et 3 dégâts.
 
 < CARD_EFFECT_CHAOS_GM_KAILOSTWALLET >
 name=Le Portefeuille de Kai
-descr=Votre personnage gagne 1, 10, 15, 25, 50 ou 100 étoiles.
+descr=Votre personnage gagne 1, 10, 15, 25, 50 ou 100 Étoiles.
 
 < CARD_EFFECT_CHAOS_GM_FORCEDWARP >
 name=Téléportation Forcée
@@ -959,7 +967,7 @@ descr=Pendant 3 chapitres, les personnages obtiennent +3 DEF et -3 ATK.
 
 < CARD_EFFECT_CHAOS_GM_UNFAIREXCHANGE >
 name=Échange Malhonnête
-descr=Les joueurs échangent aléatoirement leurs étoiles.
+descr=Les joueurs échangent aléatoirement leurs Étoiles.
 
 < CARD_EFFECT_CHAOS_GM_STARSHOWER >
 name=Ciel Étoilé

@@ -12,7 +12,7 @@ Défier en combat ?
 Soigner 1 PV à cet équipier ?
 
 < GAME_MESSAGE_REVIVETEAMMATE >
-Ressusciter cet équipier ? (%d étoiles)
+Ressusciter cet équipier ? (%d Étoiles)
 
 < GAME_MESSAGE_CHOOSECARDUSE >
 Choisissez une carte.
@@ -109,6 +109,9 @@ Soigné !
 < GAME_MESSAGE_EVENT_NEXTCHAPTER >
 {} au prochain chapitre !
 
+< GAME_MESSAGE_EVENT_CHAPTEREND >
+{} s'activera en fin de chapitre !
+
 < GAME_MESSAGE_VALENTINE2018_CHOCOLATEFRENZY >
 Folie Chocolatée !
 
@@ -159,6 +162,9 @@ S'arrêter au magasin ?
 
 < GAME_MESSAGE_MONSTERCHALLENGE >
 Affronter ce monstre ?
+
+< GAME_MESSAGE_SUMMER2020_SPEEDUP_WARNING >
+Accélération dans {}...
 
 < GAME_MESSAGE_SUMMER2020_SPEEDUP >
 On accélère !

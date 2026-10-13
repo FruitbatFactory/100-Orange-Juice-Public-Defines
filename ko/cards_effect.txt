@@ -326,7 +326,7 @@ descr=배틀에서 KO당할 시 승리 수를 두 배로 준다. KO 시 효과�
 
 < CARD_SWEETDESTROYER_EFFECT >
 name=스위트 디스트로이어
-descr=뽑는 모든 스위트 계열 카드가 데인저러스 푸딩 또는 나쁜 푸딩으로 변한다.
+descr=뽑는 모든 스위트 계열 카드가 데인저러스 푸딩 또는 나쁜 푸딩으로 영구히 변한다.
 
 < CARD_LONELYCHARIOT_EFFECT >
 name=고독한 폭주기관차
@@ -816,6 +816,14 @@ descr=배틀에서 피해로 인해 KO당할 때 대신 HP가 1점까지만 감�
 < CARD_EFFECT_KURIE_HEAL >
 name=선생님의 의지
 descr=드로우, 이동, 워프, 워프 이동, 랜덤 패널을 발동한 뒤 HP 1을 회복한다.
+
+< CARD_EFFECT_RINSE_YOUNGLADYPOWER >
+name=아가씨력
+descr=다음에 피해를 입으면 레벨 만큼의 스타를 얻는다. 중첩되지 않는다.
+
+< CARD_EFFECT_RINSE_FIERCEYOUNGLADY >
+name=맹렬한 아가씨
+descr=다음에 배틀에서 피해를 받으면 피해 x 레벨 x 2만큼의 스타를 얻는다 (피해 최대 9점까지 적용됨). 이후 그 배틀 종료 시 내가 냈던 배틀 카드의 스타 코스트가 이 효과로 얻은 스타보다 많거나 같다면 HP를 완전히 회복한다. 이 효과는 KO시 사라진다.
 
 < CARD_EFFECT_CHAOS_GM_TRAPCARD >
 name=트랩 카드

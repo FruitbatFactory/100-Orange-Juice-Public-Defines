@@ -1,10 +1,11 @@
+
 < CARD_UNIT_ALTE >
 name=Alte
 descr=En combat, une des cartes Combat de la main de votre adversaire vous est révélée.\nPour chaque Autodestruction, gagnez +1 ATK permanent (+3 max).
 
 < CARD_UNIT_ARTHUR >
 name=Arthur
-descr=Les cases Bonus et les Boutiques vous rapportent +1 étoile par nombre de Boutiques sur le plateau.\n(Maximum : Votre niveau actuel)
+descr=Les cases Bonus et les Boutiques vous rapportent +1 Étoile par nombre de Boutiques sur le plateau.\n(Maximum : Votre niveau actuel)
 
 < CARD_UNIT_ARU >
 name=Aru
@@ -40,7 +41,7 @@ descr=☆ Gagne à 1000. Perd à 0.\nLes joueurs gagnent 2x ★ en début de cha
 
 < CARD_UNIT_BIG_POPPO >
 name=Poppo Géante
-descr=Chaque dégât que Poppo Géante inflige vole 3 étoiles au lieu de blesser. Elle partage ses étoiles avec le Boss.\nSi elle tombe KO, le Boss donne aux joueurs 100 étoiles et 3 Victoires.\n10 de REC.
+descr=Chaque dégât que Poppo Géante inflige vole 3 Étoiles au lieu de blesser. Elle partage ses Étoiles avec le Boss.\nSi elle tombe KO, le Boss donne aux joueurs 100 Étoiles et 3 Victoires.\n10 de REC.
 
 < CARD_UNIT_BIG_POPPO_NM >
 name=Poppo Géante
@@ -56,11 +57,11 @@ descr=Invoque un familier Mouette à chaque tour (max : Niv. Boss).\n+1 Hype si 
 
 < CARD_UNIT_BOSS_ROPOCHI >
 name=RoPoPou
-descr=Obtient Po-tection si "Brouillé" est inactif.\nPour chaque familier sur le plateau, perd 2 ATK et gagne un dé à ses jets d'attaques.\nActive Poulet Plus tous les 6 chapitres.\nVole 3 étoiles par dégât infligé.
+descr=Obtient Po-tection si "Brouillé" est inactif.\nPour chaque familier sur le plateau, perd 2 ATK et gagne un dé à ses jets d'attaques.\nActive Poulet Plus tous les 6 chapitres.\nVole 3 Étoiles par dégât infligé.
 
 < CARD_UNIT_BOSS_ROPOCHI_HYPER >
 name=RoPoPou
-descr=Obtient Po-tection si "Brouillé" est inactif.\nPour chaque familier sur le plateau, perd 2 ATK et gagne un dé à ses jets d'attaques.\nActive Poulet Plus tous les 6 chapitres.\nVole 5 étoiles par dégât infligé.
+descr=Obtient Po-tection si "Brouillé" est inactif.\nPour chaque familier sur le plateau, perd 2 ATK et gagne un dé à ses jets d'attaques.\nActive Poulet Plus tous les 6 chapitres.\nVole 5 Étoiles par dégât infligé.
 
 < CARD_UNIT_BOSS_COACH >
 name=Maître-Nageur
@@ -104,7 +105,7 @@ descr=
 
 < CARD_UNIT_CHICKEN_MP >
 name=Poule
-descr=Donnez 1/4 de vos étoiles et 1 Victoire en tombant KO en combat.
+descr=Donnez 1/4 de vos Étoiles et 1 Victoire en tombant KO en combat.
 
 < CARD_UNIT_CASTLE >
 name=Château Volant
@@ -124,7 +125,7 @@ descr=Esquiver une attaque inflige 1 point de dégât à l'adversaire.
 
 < CARD_UNIT_CUTIES >
 name=Sora & Sham (Idols)
-descr=Ne peut prendre que les Quotas Étoiles. Chaque carte Évènement jouée vous fait gagner +1 étoile sur toutes les prochaines cases Bonus. En combat, obtient au hasard +1 ATK ou DEF.
+descr=Ne peut prendre que les Quotas Étoiles. Chaque carte Évènement jouée vous fait gagner +1 Étoile sur toutes les prochaines cases Bonus. En combat, obtient au hasard +1 ATK ou DEF.
 
 < CARD_UNIT_FERNET >
 name=Fernet
@@ -180,7 +181,7 @@ descr=
 
 < CARD_UNIT_MANAGER_MP >
 name=Patron du Magasin
-descr=Ne gagne pas d'étoiles sur les cases Bonus. Ne peut utiliser que les cartes Cadeau. Défausser une carte inflige 1 point de dégât.
+descr=Ne gagne pas d'Étoiles sur les cases Bonus. Ne peut utiliser que les cartes Cadeau. Défausser une carte inflige 1 point de dégât.
 
 < CARD_UNIT_MARC >
 name=Marc
@@ -192,11 +193,11 @@ descr=En fin de tour, si vous n'avez pas de cartes en main, vous obtenez "Rougeo
 
 < CARD_UNIT_MESCAL >
 name=Mescal
-descr=Si vous êtes défié en combat, 50% de chance qu'un Pirate vous remplace. Si le Pirate tombe KO, il ne reviendra pas avant 3 chapitres. Les étoiles qu'il gagne en combat vous reviennent. Vaincre le Pirate donne 1 Victoire.
+descr=Si vous êtes défié en combat, 50% de chance qu'un Pirate vous remplace. Si le Pirate tombe KO, il ne reviendra pas avant 3 chapitres. Les Étoiles qu'il gagne en combat vous reviennent. Vaincre le Pirate donne 1 Victoire.
 
 < CARD_UNIT_MIMYUU >
 name=Mimyuu
-descr=KO, vous revenez en tant que Tomato, et pouvez défier tous les ennemis sur la même case.\nDonnez 1/4 de vos étoiles et 1 Victoire en tombant KO en combat.
+descr=KO, vous revenez en tant que Tomato, et pouvez défier tous les ennemis sur la même case.\nDonnez 1/4 de vos Étoiles et 1 Victoire en tombant KO en combat.
 
 < CARD_UNIT_MIRA >
 name=Mira
@@ -228,19 +229,19 @@ descr=Gagne 1 Cumul d'Extension Active (+1 ATK & DEF, -1 EVD) par combat où une
 
 < CARD_UNIT_NATSUMI >
 name=Natsumi
-descr=Si vous et au moins un autre joueur êtes sur la même case sans être KO, soigne 1 PV à tous les joueurs concernés.\nVous gagnez 5 étoiles par autre joueur soigné.
+descr=Si vous et au moins un autre joueur êtes sur la même case sans être KO, soigne 1 PV à tous les joueurs concernés.\nVous gagnez 5 Étoiles par autre joueur soigné.
 
 < CARD_COOP_UNIT_NATSUMI >
 name=Natsumi
-descr=Si vous et au moins un allié êtes sur la même case sans être KO, soigne 1 PV à tous les joueurs concernés.\nVous gagnez 5 étoiles par autre joueur soigné.
+descr=Si vous et au moins un allié êtes sur la même case sans être KO, soigne 1 PV à tous les joueurs concernés.\nVous gagnez 5 Étoiles par autre joueur soigné.
 
 < CARD_UNIT_NICO >
 name=Nico
-descr=Ignore les effets des cartes Cadeau.\nGagne +1 à chaque gain d'étoiles par carte Cadeau en main.\n+1 carte en main maximum.
+descr=Ignore les effets des cartes Cadeau.\nGagne +1 à chaque gain d'Étoiles par carte Cadeau en main.\n+1 carte en main maximum.
 
 < CARD_UNIT_NONAME >
 name=NoName
-descr=Devient NoName (Tête) en tombant KO. Ne donne pas d'étoiles ou de Victoires en étant vaincu au combat.
+descr=Devient NoName (Tête) en tombant KO. Ne donne pas d'Étoiles ou de Victoires en étant vaincu au combat.
 
 < CARD_UNIT_NONAME_HEAD >
 name=NoName (Tête)
@@ -268,7 +269,7 @@ descr=
 
 < CARD_UNIT_ROBOBALL_MP >
 name=Roboulon
-descr=Donnez 1/4 de vos étoiles et 1 Victoire en tombant KO en combat.
+descr=Donnez 1/4 de vos Étoiles et 1 Victoire en tombant KO en combat.
 
 < CARD_UNIT_SAKI >
 name=Saki
@@ -280,7 +281,7 @@ descr=
 
 < CARD_UNIT_SEAGULL_MP >
 name=Mouette
-descr=Donnez 1/4 de vos étoiles et 1 Victoire en tombant KO en combat.
+descr=Donnez 1/4 de vos Étoiles et 1 Victoire en tombant KO en combat.
 
 < CARD_UNIT_SHAM >
 name=Sham
@@ -340,19 +341,19 @@ descr=Vous gagnez +1 ATK & EVD en combat si vous êtes à 1 PV.
 
 < CARD_UNIT_TOMATO >
 name=Tomato
-descr=KO, vous revenez en tant que Mimyuu. Vous pouvez encore jouer après.\nDonnez 1/3 de vos étoiles lorsque KO en combat.\nPiocher une carte Plan d'Infiltration ― Exécution la remplace par Méca-Loubardie, À l'Attaque !
+descr=KO, vous revenez en tant que Mimyuu. Vous pouvez encore jouer après.\nDonnez 1/3 de vos Étoiles lorsque KO en combat.\nPiocher une carte Plan d'Infiltration ― Exécution la remplace par Méca-Loubardie, À l'Attaque !
 
 < CARD_UNIT_TEQUILA >
 name=Tequila
-descr=Les cases Combat ont une chance d'abriter un Pirate. Si le Pirate met un joueur KO, vous récupérez les étoiles perdues.\nEn combat, vous gagnez +1 ATK pour chaque PV que vous perdez.
+descr=Les cases Combat ont une chance d'abriter un Pirate. Si le Pirate met un joueur KO, vous récupérez les Étoiles perdues.\nEn combat, vous gagnez +1 ATK pour chaque PV que vous perdez.
 
 < CARD_UNIT_TEQUILA_BH >
 name=Tequila
-descr=Les cases Combat ont une chance d'abriter un Pirate. Si le Pirate met un joueur KO, vous récupérez les étoiles perdues.\nEn combat, vous gagnez +1 ATK si vous êtes blessé.
+descr=Les cases Combat ont une chance d'abriter un Pirate. Si le Pirate met un joueur KO, vous récupérez les Étoiles perdues.\nEn combat, vous gagnez +1 ATK si vous êtes blessé.
 
 < CARD_UNIT_TEQMINION >
 name=Pirate
-descr=Vaincre un adversaire lui fait perdre son Niv. x10 ★.\nLe joueur ayant invoqué le Pirate récupère les étoiles qu'il a volé et ne peut faire face à ce dernier.
+descr=Vaincre un adversaire lui fait perdre son Niv. x10 ★.\nLe joueur ayant invoqué le Pirate récupère les Étoiles qu'il a volé et ne peut faire face à ce dernier.
 
 < CARD_UNIT_TOMOMO >
 name=Tomomo
@@ -460,11 +461,11 @@ descr=+1 MOV. Ne peut pas défier les autres joueurs. À chaque chapitre pair, s
 
 < CARD_UNIT_FAE_CHAOS >
 name=Aurore
-descr=+1 MOV. Se soigne de 1 PV ou se relève avec la moitié de ses PV tous les chapitres pairs.\nSi vous et au moins un autre joueur êtes sur la même case sans être KO, soigne 1 PV à tous les joueurs concernés.\nVous gagnez 5 étoiles par autre joueur soigné.
+descr=+1 MOV. Se soigne de 1 PV ou se relève avec la moitié de ses PV tous les chapitres pairs.\nSi vous et au moins un autre joueur êtes sur la même case sans être KO, soigne 1 PV à tous les joueurs concernés.\nVous gagnez 5 Étoiles par autre joueur soigné.
 
 < CARD_UNIT_MERCENARY >
 name=Mercenaire
-descr=Défie tous les joueurs qu'il croise. Il garde la moitié des étoiles gagnées en combat, l'autre moitié revient au joueur l'ayant invoqué.
+descr=Défie tous les joueurs qu'il croise. Il garde la moitié des Étoiles gagnées en combat, l'autre moitié revient au joueur l'ayant invoqué.
 
 < CARD_UNIT_HALENA >
 name=Haléna
@@ -500,7 +501,7 @@ descr=Vous infligez +2 dégâts en attaquant un Roboulon sauvage.\nGagnez 1 Vict
 
 < CARD_UNIT_REIKA >
 name=Hoshino Reika
-descr=Ne peut prendre que les Quotas Étoiles.\nVous obtenez +1 ★ pour chaque gain d'étoiles (sauf bonus de Chapitre et Collectionneuse d'Étoiles).
+descr=Ne peut prendre que les Quotas Étoiles.\nVous obtenez +1 ★ pour chaque gain d'Étoiles (sauf bonus de Chapitre et Collectionneuse d'Étoiles).
 
 < CARD_UNIT_WATTY >
 name=Watti
@@ -528,11 +529,11 @@ descr=Lorsqu'un joueur utilise une carte Sucrerie qui n'est pas un piège, ou ac
 
 < CARD_UNIT_SWEETMAKER >
 name=Saki (Sweet Maker)
-descr=Si vous n'êtes pas KO après avoir activé une case Ennemi, vous piochez une carte Sucrerie au niveau égal ou inférieur au vôtre.
+descr=Si vous n'êtes pas KO après avoir activé une case Ennemi, vous obtenez une carte Sucrerie au niveau égal ou inférieur au vôtre.
 
 < CARD_UNIT_SWEETBLOGGER >
 name=Natsumi (Sweet Blogger)
-descr=Toutes les cartes de type Sucrerie vous sont gratuites.\nCase Malus : Vous piochez une carte de type Sucrerie au niveau égal ou inférieur au vôtre.
+descr=Toutes les cartes de type Sucrerie vous sont gratuites.\nCase Malus : Vous obtenez une carte de type Sucrerie au niveau égal ou inférieur au vôtre.
 
 < CARD_UNIT_BOSSJONATHAN_CHAOS >
 name=Jonathan le Géant
@@ -552,11 +553,11 @@ descr=Vous continuez à avancer après avoir défié un ennemi.
 
 < CARD_UNIT_BOSSSTARDEV_CHAOS >
 name=Dévoreuse d'Étoiles
-descr=Vole 1 étoile par dégât infligé, et donne 1 étoile par dégât subi.\nSi vous avez choisi le Quota Étoiles au Niveau 5 et atteignez les 200 étoiles, vous remportez la partie automatiquement.
+descr=Vole 1 Étoile par dégât infligé, et donne 1 Étoile par dégât subi.\nSi vous avez choisi le Quota Étoiles au Niveau 5 et atteignez les 200 Étoiles, vous remportez la partie automatiquement.
 
 < CARD_UNIT_POPPO_CHAOS >
 name=Poppo Chaotique
-descr=Chaque dégât que Poppo Chaotique inflige vole 2 étoiles au lieu de blesser, et donne les étoiles à son invocateur.\nSi elle tombe KO, l'invocateur donne 10 étoiles et 2 Victoires.
+descr=Chaque dégât que Poppo Chaotique inflige vole 2 Étoiles au lieu de blesser, et donne les Étoiles à son invocateur.\nSi elle tombe KO, l'invocateur donne 10 Étoiles et 2 Victoires.
 
 < CARD_UNIT_BOSSQP_CHAOS >
 name=Bête de l'Été
@@ -568,7 +569,7 @@ descr=
 
 < CARD_UNIT_BOSSCOACH_CHAOS >
 name=Maître-Nageur
-descr=Si ce familier est présent :\nBalise : Vous gagnez +2 ATK\nBrutemballons : Vous gagnez +2 DEF\nVilaine Bouée : +3 étoiles à chaque tour
+descr=Si ce familier est présent :\nBalise : Vous gagnez +2 ATK\nBrutemballons : Vous gagnez +2 DEF\nVilaine Bouée : +3 Étoiles à chaque tour
 
 < CARD_UNIT_MIOFESTIVE >
 name=Mio (Festive)
@@ -649,5 +650,13 @@ descr=+1 ATK et -1 EVD en attaquant.\n+1 DEF en vous faisant attaquer.
 < CARD_UNIT_KURIE >
 name=Amatsukuri Kurie
 descr=
+
+< CARD_UNIT_RINSE >
+name=Rinse
+descr=À chaque début de tour, vous obtenez "Pouvoir d'une Demoiselle"\nEffet Passif : Prochaine fois que vous subissez des dégâts, vous gagnez (votre Niv.) Étoiles. Si cela a lieu en combat, l'adversaire gagne autant d'Étoiles.
+
+< CARD_UNIT_SUISHOU >
+name=Suishou
+descr=En début de combat, vous gagnez +1 ATK pour chaque point d'ATK de l'adversaire (max. +3).
 
 [EOF]

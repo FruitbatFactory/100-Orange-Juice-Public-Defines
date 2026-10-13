@@ -6,7 +6,7 @@
 
 // Lobby: <lobby name>
 < DISCORD_LOBBY_STATE >
-Команата: %s
+Комната: %s
 
 < DISCORD_LOBBY_STATE_PRIVATE >
 В Комнате
@@ -31,7 +31,7 @@
 
 // <player name>, Level <lvl>
 < DISCORD_INGAME_PLAYER_DETAILS >
-%s — %d Уровень
+%s, %d Уровень
 
 // <player name>, <coop role>, Level <lvl>
 < DISCORD_INGAME_PLAYER_DETAILS_COOP >

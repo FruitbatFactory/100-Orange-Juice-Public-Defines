@@ -1,3 +1,4 @@
+
 < CARD_BOOST_AMBUSH >
 name=Embuscade
 descr=Vous défiez tous les ennemis sur votre case un par un. Passe votre jet de déplacement.
@@ -25,12 +26,12 @@ flavor="Vous voilà, vous tous... Pensez à vous rendre au Bureau des Délégué
 
 < CARD_BATTLE_SHIELDCOUNTER >
 name=Contre-Bouclier
-descr=Inflige à l'ennemi son ATK - DEF (min. 1). Met fin au combat aussitôt. Si l'ennemi tombe KO, il ne perd pas d'étoiles et vous ne gagnez pas d'étoiles ou de Victoires. Ne peut être utilisé qu'en défense.
+descr=Inflige à l'ennemi son ATK - DEF (min. 1). Met fin au combat aussitôt. Si l'ennemi tombe KO, il ne perd pas d'Étoiles et vous ne gagnez pas d'Étoiles ou de Victoires. Ne peut être utilisé qu'en défense.
 flavor="Inversion du bouclier !" ―Sora
 
 < CARD_BATTLE_RETREAT >
 name=Repli Stratégique
-descr=★Coût : Niv. x5\nMet fin au combat. L'ennemi gagne les étoiles dépensées. Ne peut être utilisé que lorsqu'un joueur vous défie. L'effet s'annule si l'ennemi joue une carte Combat.
+descr=★Coût : Niv. x5\nMet fin au combat. L'ennemi gagne les Étoiles dépensées. Ne peut être utilisé que lorsqu'un joueur vous défie. L'effet s'annule si l'ennemi joue une carte Combat.
 flavor="Je me tire !" ―Tomato
 
 < CARD_TRAP_PIYOPIYO >
@@ -50,7 +51,7 @@ flavor="Il semblerait que ce phénomène crée un trou dans la frontière sépar
 
 < CARD_EVENT_SOLICITATION >
 name=Solde Menaçante
-descr=Tous les joueurs adverses piochent des cartes jusqu'à ce que leurs mains soient pleines, et perdent 15 étoiles par carte piochée.
+descr=Tous les joueurs adverses piochent des cartes jusqu'à ce que leurs mains soient pleines, et perdent 15 Étoiles par carte piochée.
 flavor="Bien sûr que tu vas l'acheter. Oui, tu vas l'acheter !" ―Marchand
 
 < CARD_BATTLE_ACCELHYPER >
@@ -60,12 +61,12 @@ flavor="Charge illimitée !" ―Sora
 
 < CARD_TRAP_BRUTALPRANK >
 name=Cruauté Tordante
-descr=Défaussez toutes vos cartes Hyper en main. Soigne 1 PV et fait perdre 10 étoiles par carte défaussée.
+descr=Défaussez toutes vos cartes Hyper en main. Soigne 1 PV et fait perdre 10 Étoiles par carte défaussée.
 flavor="Noooon, M. Vache ! M. Grenouille !" ―Yuuki\n"Hahahaha ! C'est ça, chiale !!" ―Yuki
 
 < CARD_BOOST_COMPLETIONREWARD >
 name=Salaire de Fin de Semaine
-descr=Gagnez 7 étoiles par nombre de pièges que vous avez posé qui ont été activés.
+descr=Gagnez 7 Étoiles par nombre de pièges que vous avez posé qui ont été activés.
 flavor="Youpi, mon salaire !" ―Chris\n"Ne dépense pas tout d'un coup,\nd'accord ?" ―Patron
 
 < CARD_BATTLE_EXTENSION >
@@ -110,7 +111,7 @@ flavor="Je me tourne vers la lumière, car mon sommeil n'est rien dans la pénom
 
 < CARD_GIFT_WINDYENCHANTMENT >
 name=Sort de Vent
-descr=+1 MOV. Vous ne pouvez pas valider votre Quota avec cette carte en main. Jouer cette carte la défausse.
+descr=+1 MOV. Vous ne pouvez pas valider votre Quota avec cette carte en main.
 flavor=On l'appelle Alicianrone aux Pieds Nus.
 
 < CARD_HYPER_SYURA >
@@ -125,7 +126,7 @@ flavor="Personne n'échappe aux Croks." ―Nanako
 
 < CARD_HYPER_SAKI >
 name=Cloche du Big Bang
-descr=Inflige 2 points de dégât, +1 pour tous les 2 chapitres depuis le placement du piège, à tous les joueurs sur un rayon de 2 cases. Les joueurs KO donnent la moitié de leurs étoiles à l'utilisateur.
+descr=Inflige 2 points de dégât, +1 pour tous les 2 chapitres depuis le placement du piège, à tous les joueurs sur un rayon de 2 cases. Les joueurs KO donnent la moitié de leurs Étoiles à l'utilisateur.
 flavor="Mauuuuuryaaaaaaahh !" ―Saki
 
 < CARD_HYPER_KYOUSUKE >
@@ -150,7 +151,7 @@ flavor="Dansez, bêtes à longues oreilles !" ―Krilalaris
 
 < CARD_HYPER_ALTE >
 name=Autodestruction
-descr=Si vous tombez KO, l'ennemi tombe KO aussi, auquel cas vous ne perdez rien, et lui perd la moitié de ses étoiles.
+descr=Si vous tombez KO, l'ennemi tombe KO aussi, auquel cas vous ne perdez rien, et lui perd la moitié de ses Étoiles.
 flavor="Je suis désolée... Je ne reviendrai jamais..." ―Alte
 
 < CARD_HYPER_KYOKO >
@@ -185,12 +186,12 @@ flavor="Qu'il est sot de tenir tête à une Déesse. Ta défaite sera amère, je
 
 < CARD_HYPER_QPD >
 name=Sweet Guardian
-descr=Vous piochez 2 cartes du deck central avec "Pudding" dans leur nom. S'il n'y en a plus, vous obtenez "Mauvais Pudding" ou "Pudding Dangereux" au hasard à la place.
+descr=Vous prenez 2 cartes du deck central avec "Pudding" dans leur nom. S'il n'y en a pas, vous obtenez "Mauvais Pudding" ou "Pudding Dangereux" au hasard à la place.
 flavor="Mon précieux... pudding..." ―QP
 
 < CARD_HYPER_SORAM >
 name=Réveil du Talent Caché
-descr=Durée de l'Effet : Jusqu'à la fin de votre tour\nTous vos jets de dés font 5 à vos déplacements, bonus, malus et en combat. Peut aussi s'utiliser comme une carte Combat.
+descr=Durée de l'Effet : Jusqu'à la fin de votre tour\nTous vos jets de dés font 5 à vos déplacements, bonus, malus et en combat. Peut s'utiliser comme une carte Combat.
 flavor="Je commence... mon opération." ―Sora
 
 < CARD_HYPER_MIXEDPOPPO >
@@ -200,12 +201,12 @@ flavor="Po ! Po ! Po ! Popoppo !!" ―Marie Poppo
 
 < CARD_HYPER_ARUSCRAMBLE >
 name=Servi par la Mère Noël
-descr=En début de tour, vous pouvez envoyer une carte de votre main (Niv. carte <= votre Niv.) à un joueur au hasard. Vous gagnez (Niv. carte) x5 ★. Le joueur ne peut plus défier en combat jusqu'à votre prochain tour.\nCette carte est défaussée à l'usage ou en tombant KO.
+descr=En début de tour, vous pouvez envoyer une carte de votre main (Niv. carte <= votre Niv.) à un joueur au hasard. Vous gagnez (Niv. carte) x5 ★. Le joueur ne peut plus défier en combat jusqu'à votre prochain tour.\nCette carte est défaussée en tombant KO.
 flavor="Enfants du monde entier, on arrive !" ―Aru
 
 < CARD_HYPER_NATH >
 name=Une Autre Arme Ultime
-descr=★Coût : Toutes vos étoiles\nVous gagnez +1 en ATK & DEF par 20 étoiles dépensées, avec un minimum de +1.
+descr=★Coût : Toutes vos Étoiles\nVous gagnez +1 en ATK & DEF par 20 Étoiles dépensées, avec un minimum de +1.
 flavor="Depuis que tu as déserté, c'est moi, leur arme ultime." ―Nath
 
 < CARD_HYPER_MIMYUU >
@@ -225,7 +226,7 @@ flavor="Vengeance !" ―Tomato
 
 < CARD_HYPER_KIRIKO >
 name=Opération Fatale
-descr=Tous les personnages à 1 PV tombent KO. Vous gagnez 25 étoiles et enlevez une unité de Médicament Malsain par KO.
+descr=Tous les personnages à 1 PV tombent KO. Vous gagnez 25 Étoiles et enlevez une unité de Médicament Malsain par KO.
 flavor="Ne bouge pas d'un pouce, je vais te guérir !" ―Kiriko
 
 < CARD_HYPER_NONAME >
@@ -245,7 +246,7 @@ flavor="Quelle attaque minable ! J'ai rien senti !" ―Miusaki
 
 < CARD_BATTLE_DARKSIDEOFBUSINESS >
 name=Affaires Illicites
-descr=Vous gagnez +2 ATK, l'ennemi perd 2 DEF.\nChaque dégât que vous infligez vole 5 étoiles à l'adversaire au lieu de le blesser.
+descr=Vous gagnez +2 ATK, l'ennemi perd 2 DEF.\nChaque dégât que vous infligez vole 5 Étoiles à l'adversaire au lieu de le blesser.
 flavor="'Extorsion' - Obtenir la remise de fonds au moyen de violence ou menaces."
 
 < CARD_EVENT_PARTYTIME >
@@ -260,7 +261,7 @@ flavor="Pokya Po ! (Trésor en main !)" ―Marie Poppo
 
 < CARD_GIFT_LOSTCHILD >
 name=Enfant Perdu
-descr=Vous vous déplacez dans l'autre sens. Vous ne pouvez pas valider votre Quota avec cette carte en main.\nDéfaussée à l'usage ou en tombant KO.
+descr=Vous vous déplacez dans l'autre sens. Vous ne pouvez pas valider votre Quota avec cette carte en main.\nCette carte est défaussée en tombant KO.
 flavor="Où suis-je ?" ―Tsih
 
 < CARD_TRAP_WANTED >
@@ -270,12 +271,12 @@ flavor="Par ici ! Mon flair ne ment jamais !" ―QP
 
 < CARD_GIFT_PRICEOFPOWER >
 name=Prix du Pouvoir
-descr=Jouer cette carte la défausse.\nPour 5 étoiles supplémentaires, vous pouvez jouer les cartes d'un niveau supérieur de 1 au vôtre.
+descr=Pour 5 Étoiles supplémentaires, vous pouvez jouer les cartes d'un niveau supérieur de 1 au vôtre.
 flavor="Qu'est-ce que je gagne à survivre...? Ce corps m'a déjà privé de ma vie..." ―Nath
 
 < CARD_GIFT_VALENTINESDAY2018 >
 name=Combat Sucré !
-descr=En main : Double vos gains de chocolat\nJouée en combat : Vous volez 200 chocolats par dégât infligé.\nCette carte est défaussée à l'usage ou en tombant KO.
+descr=En main : Double vos gains de chocolat\nJouée en combat : Vous volez 200 chocolats par dégât infligé.\nCette carte est défaussée en tombant KO.
 flavor="Un combat tout doux tout chou, pour le sucre !" ―QP
 
 < CARD_GIFT_VALENTINESDAY2018_BINDER >
@@ -335,7 +336,7 @@ flavor="On en peut pluuus !" ―Rougeon & Bleuet
 
 < CARD_HYPER_NATSUMI >
 name=Potage Fait-Maison
-descr=★Coût : Niv. x5\nSoigne votre Niv. en PV à tous les joueurs.\nVous gagnez 5 étoiles par PV restauré.
+descr=★Coût : Niv. x5\nSoigne votre Niv. en PV à tous les joueurs.\nVous gagnez 5 Étoiles par PV restauré.
 flavor="À table !" ―Natsumi
 
 < CARD_HYPER_NICO >
@@ -375,12 +376,12 @@ flavor="On est les Idols les plus fortes au monde !" ―Sora & Sham
 
 < CARD_HYPER_YUUKI_ANGEL >
 name=Main de l'Ange
-descr=Ciblez un joueur, que vous soignez entièrement. Vous gagnez 10 étoiles par PV soigné.\nCette carte devient Main du Démon lors des chapitres pairs.
+descr=Ciblez un joueur, que vous soignez entièrement. Vous gagnez 10 Étoiles par PV soigné.\nCette carte devient Main du Démon lors des chapitres pairs.
 flavor="C'est le pouvoir de la clémence." ―Yuuki
 
 < CARD_HYPER_YUUKI_DEVIL >
 name=Main du Démon
-descr=Un joueur au hasard voit ses PV réduits à 1. Vous gagnez 10 étoiles par PV enlevé.\nCette carte devient Main de l'Ange lors des chapitres impairs.
+descr=Un joueur au hasard voit ses PV réduits à 1. Vous gagnez 10 Étoiles par PV enlevé.\nCette carte devient Main de l'Ange lors des chapitres impairs.
 flavor="Goûte au pouvoir du démon !" ―Yuuki
 
 < CARD_HYPER_ISLAY >
@@ -390,7 +391,7 @@ flavor="Moi aussi, j'ai un combat à mener." ―Scotch
 
 < CARD_HYPER_MIO >
 name=Magical Inferno
-descr=Dessine un "+" autour de vous qui s'étend jusqu'aux limites du plateau. Tous les joueurs s'y trouvant tombent KO. Vous leur volez autant d'étoiles que si vous les aviez vaincus en combat.\nMet fin à votre tour.
+descr=Dessine un "+" autour de vous qui s'étend jusqu'aux limites du plateau. Tous les joueurs s'y trouvant tombent KO. Vous leur volez autant d'Étoiles que si vous les aviez vaincus en combat.\nMet fin à votre tour.
 flavor="Inferno !" ―Mio
 
 < CARD_BATTLE_DESPERATEMODIFICATION >
@@ -415,17 +416,17 @@ flavor="Poppo ! Poppopopo !!!" ―Tout le monde
 
 < CARD_GIFT_POPPOTHESNATCHER >
 name=Poppo la Chipeuse
-descr=-1 DEF. Lorsque vous croisez un ennemi pendant votre déplacement, vous lui volez (Niv. joueur) x3 ★.\nVous ne pouvez pas valider votre Quota avec cette carte en main.\nDéfaussée à l'usage ou en tombant KO.
+descr=-1 DEF. Lorsque vous croisez un ennemi pendant votre déplacement, vous lui volez (Niv. joueur) x3 ★.\nVous ne pouvez pas valider votre Quota avec cette carte en main.\nCette carte est défaussée en tombant KO.
 flavor="Pokyakya !!" ―Poppo
 
 < CARD_GIFT_BLOODLUST >
 name=Soif de Sang
-descr=Vous perdez 1 PV à chaque début de tour. Soigne 1 PV par dégât que vous infligez. Vous ne pouvez pas valider votre Quota avec cette carte en main.\nDéfaussée à l'usage ou en tombant KO.
+descr=Vous perdez 1 PV à chaque début de tour. Soigne 1 PV par dégât que vous infligez. Vous ne pouvez pas valider votre Quota avec cette carte en main.\nCette carte est défaussée en tombant KO.
 flavor="Ma bête, une fois éveillée... Serait-elle capable de telles prouesses ?" ―Krilalaris
 
 < CARD_BATTLE_SINKORSWIM >
 name=Quitte ou Double
-descr=-1 ATK, DEF & EVD pour ce combat. Vous prenez +50% d'étoiles de votre adversaire si vous gagnez.
+descr=-1 ATK, DEF & EVD pour ce combat. Vous prenez +50% d'Étoiles de votre adversaire si vous gagnez.
 flavor="Qui ne tente rien n'a rien !" ―Yuki
 
 < CARD_BATTLE_SERIOUSBATTLE >
@@ -440,7 +441,7 @@ flavor="Ce midi, c'est pudding !" ―QP
 
 < CARD_BOOST_SWEETDESTROYER >
 name=Sucreries Détruites
-descr=Volez 1 carte de la main de chaque autre joueur avec "Pudding" dans le nom. Vous pouvez jouer une autre carte.\nDurée de l'Effet : 3 chapitres\nToutes les cartes "Sucrerie" (sauf Hyper) piochées deviennent "Mauvais Pudding" ou "Pudding Dangereux".
+descr=Volez 1 carte "pudding" de la main de chaque joueur. Vous pouvez jouer une autre carte.\nDurée de l'Effet : 3 chapitres\nLorsqu'un joueur pioche une carte "Sucrerie" (sauf Hyper), elle est changée en "Mauvais Pudding" ou "Pudding Dangereux" jusqu'à la fin de la partie.
 flavor="Certaines sucreries sèment le chaos sur le monde... et je me dois de les détruire !" ―Sweet Breaker
 
 < CARD_BOOST_BACKDOORTRADE >
@@ -455,7 +456,7 @@ flavor="On a rien à faire..." ―Sumika\n"Pourquoi ne pas profiter de ce calme 
 
 < CARD_EVENT_UNPAIDWORK >
 name=Travail Bénévole
-descr=Durée de l'Effet : 1 chapitre\nBloque tous les gains d'étoiles.
+descr=Durée de l'Effet : 1 chapitre\nBloque tous les gains d'Étoiles.
 flavor="Je ne suis pas payée ?!" ―Chris
 
 < CARD_EVENT_INDISCRIMINATEFIRESUPPORT >
@@ -465,7 +466,7 @@ flavor="......" ―Sora
 
 < CARD_GIFT_LUCKYCHARM >
 name=Talisman Porte-Bonheur
-descr=Vous gagnez (votre Niv.) ★ en début de tour. Vous ne pouvez tenir qu'une seule carte à la fois. Si vous tombez KO en combat, vous donnez (votre Niv.) x3 ★ en plus. Défaussée à l'usage.
+descr=Vous gagnez (votre Niv.) ★ en début de tour. Vous ne pouvez tenir qu'une seule carte à la fois. Si vous tombez KO en combat, vous donnez (votre Niv.) x3 ★ en plus.
 flavor="Il y a tellement d'étoiles ! C'est mon jour de chance !!" ―Tomomo
 
 < CARD_GIFT_METALLICMONOCOQUE >
@@ -525,17 +526,17 @@ flavor="Tôt ou tard, la Guilde te trahira, comme elle nous a tous trahis par le
 
 < CARD_GIFT_NANAKOBIT >
 name=Crok de Nanako
-descr=À chaque combat, vous gagnez temporairement +1 ATK, +1 DEF ou +1 EVD, et perdez 7 étoiles. Cette carte est défaussée à l'usage ou en tombant KO.
+descr=À chaque combat, vous gagnez temporairement +1 ATK, +1 DEF ou +1 EVD, et perdez 7 Étoiles. Cette carte est défaussée en tombant KO.
 flavor="Qu'est-ce que tu fais avec mon Crok ?!" ―Nanako
 
 < CARD_TRAP_BANKOFPOPPO >
 name=Banque Poppo
-descr=Le premier joueur à activer ce piège perd (Niv. joueur) x10 ★, et le piège subsiste. Le prochain joueur à activer le piège récupère toutes les étoiles perdues.
+descr=Le premier joueur à activer ce piège perd (Niv. joueur) x10 ★, et le piège subsiste. Le prochain joueur à activer le piège récupère toutes les Étoiles perdues.
 flavor="Mon argent...!" ―Kai
 
 < CARD_BOOST_MYWILDFRIENDS >
 name=Mes Amis de la Nature
-descr=Invoque un familier qui se déplace tout seul et défie les joueurs ennemis en chemin. Il gagne 1 PV bonus.\nLorsqu'il gagne un combat, vous remportez la moitié des étoiles obtenues.\nSi vous avez déjà un familier, il est remplacé par un nouveau.
+descr=Invoque un familier qui se déplace tout seul et défie les joueurs ennemis en chemin. Il gagne 1 PV bonus.\nLorsqu'il gagne un combat, vous remportez la moitié des Étoiles obtenues.\nSi vous avez déjà un familier, il est remplacé par un nouveau.
 flavor="Rien de tel que de se reposer avec ses amis." ―Teotoratta
 
 < CARD_BATTLE_CONTESTOFCUTENESS >
@@ -545,13 +546,13 @@ flavor="Alors, c'est qui la plus belle !?" ―Saki
 
 < CARD_GIFT_RANGEDTRAPS >
 name=Mes Bras et Jambes Sont Très Très Longs
-descr=Pour 5 étoiles, vous pouvez poser un piège sur n'importe quelle case dans un rayon de 2 cases.\nLe niveau requis pour toutes vos cartes (sauf Piège et Cadeau) augmente de 1 (max 5).\nDéfaussée à l'usage ou en marchant sur un piège.
+descr=Pour 5 Étoiles, vous pouvez poser un piège sur n'importe quelle case dans un rayon de 2 cases.\nLe niveau requis pour toutes vos cartes (sauf Piège et Cadeau) augmente de 1 (max 5).\nDéfaussée en marchant sur un piège.
 flavor="Personne n'échappe aux câlins de Maman." ―Maman Poppo
 
 < CARD_BANNER_FLUFFYANDFUZZY >
 name=Tout Doux et Trop Chou
 descr=Les cartes avec pour effet de causer des dégâts infligent +1 aux joueurs la première fois.
-flavor="Peux-tu encaisser cette gracieuse attaque ?" ―Poméranius
+flavor="Que dites-vous de cette gracieuse attaque ?" ―Poméranius
 
 < CARD_BANNER_ENERGYDRINK >
 name=Tournée de Boisson Énergisante
@@ -615,7 +616,7 @@ flavor="Les souvenirs chéris de Sumika !" ―Sumika
 
 < CARD_HYPER_ELLIE >
 name=Miracle d'Ellie
-descr=★Coût: Niv. x10\nDurée de l'Effet: 2 chapitres\n+1 ATK par Quota validé\n+1 DEF par Quota (victoire) validé\n+1 EVD par Quota (étoiles) validé
+descr=★Coût: Niv. x10\nDurée de l'Effet: 2 chapitres\n+1 ATK par Quota validé\n+1 DEF par Quota (victoire) validé\n+1 EVD par Quota (Étoiles) validé
 flavor="J'invoque un miracle !" ―Ellie
 
 < CARD_HYPER_LULU >
@@ -640,7 +641,7 @@ flavor="Je coupe en rondelles tout ce qui me barre le chemin !" ―Alicianrone
 
 < CARD_HYPER_TEOTORATTA >
 name=Sorcière Bestiale
-descr=Vous récupérez toutes les étoiles que les joueurs perdent en combat sur une case Ennemi. Lorsque cet effet est déclenché, défaussez cette carte à la fin de votre tour. Si plusieurs joueurs possèdent cette carte, les étoiles sont partagées entre eux.
+descr=Vous récupérez toutes les Étoiles que les joueurs perdent en combat sur une case Ennemi. Lorsque cet effet est déclenché, défaussez cette carte à la fin de votre tour. Si plusieurs joueurs possèdent cette carte, les Étoiles sont partagées entre eux.
 flavor="Bêtes de la Forêt ! Obéissez-moi !" ―Teotoratta
 
 < CARD_HYPER_ARNELLE >
@@ -660,17 +661,17 @@ flavor="J'invoque l'œil du saint !" ―Kyupita
 
 < CARD_HYPER_CHRIS_CHEF >
 name=Chef, J'ai Besoin d'Aide !
-descr=Invoque Chef Cuisinier à vos côtés. Il combat à votre place et vous donne les étoiles qu'il gagne. S'il tombe KO, l'ennemi gagne 2 Victoires et l'effet prend fin.\nCette carte devient "Patron, J'ai Besoin d'Aide !" si vous êtes Niv. 4+ et que Compteur - Patron est à 4+.
+descr=Invoque Chef Cuisinier à vos côtés. Il combat à votre place et vous donne les Étoiles qu'il gagne. S'il tombe KO, l'ennemi gagne 2 Victoires et l'effet prend fin.\nCette carte devient "Patron, J'ai Besoin d'Aide !" si vous êtes Niv. 4+ et que Compteur - Patron est à 4+.
 flavor="Chef ! Tu veux bien me filer un coup de main ?" ―Chris
 
 < CARD_HYPER_CHRIS_MANAGER >
 name=Patron, J'ai Besoin d'Aide !
-descr=Invoque Patron du Magasin à vos côtés. Il combat à votre place et vous donne les étoiles qu'il gagne. S'il tombe KO, l'ennemi gagne 2 Victoires, l'effet prend fin et votre Compteur - Patron tombe à 0.\nCette carte devient "Chef, J'ai Besoin d'Aide !" si votre Compteur - Patron est inférieur à 4.
+descr=Invoque Patron du Magasin à vos côtés. Il combat à votre place et vous donne les Étoiles qu'il gagne. S'il tombe KO, l'ennemi gagne 2 Victoires, l'effet prend fin et votre Compteur - Patron tombe à 0.\nCette carte devient "Chef, J'ai Besoin d'Aide !" si votre Compteur - Patron est inférieur à 4.
 flavor="Patron, aidez-moi !" ―Chris
 
 < CARD_HYPER_HALENA >
 name=Voyage Sécurisé
-descr=Vous perdez 5 étoiles à chaque tour. Insensible aux cases Malus, aux pièges et aux dégâts de carte. L'effet prend fin lorsque vous avez moins de 5 étoiles ou que vous arrivez sur votre propre Maison.
+descr=Vous perdez 5 Étoiles à chaque tour. Insensible aux cases Malus, aux pièges et aux dégâts de carte. L'effet prend fin lorsque vous avez moins de 5 Étoiles ou que vous arrivez sur votre propre Maison.
 flavor="En route !" ―Haléna
 
 < CARD_HYPER_COOK >
@@ -690,7 +691,7 @@ flavor="Je dépasse la limite de transport ? Mais non ! Regardez, j'ai un permis
 
 < CARD_BATTLE_FREIGHT >
 name=Cargaison
-descr=Ne peut être utilisé qu'en cas de défense. Si l'ennemi n'utilise pas de cartes Combat, donnez-lui cette carte et annulez le combat.\nLorsque vous arrivez à votre Maison, vous gagnez 5 étoiles et défaussez cette carte.
+descr=Ne peut être utilisé qu'en cas de défense. Si l'ennemi n'utilise pas de cartes Combat, donnez-lui cette carte et annulez le combat.\nLorsque vous arrivez à votre Maison, vous gagnez 5 Étoiles et défaussez cette carte.
 flavor="Vous pouvez garder cette cargaison. Oui, vous pouvez." ―Marchand
 
 < CARD_HYPER_HIMEV2 >
@@ -730,7 +731,7 @@ flavor="La situation est entre mes mains." ―Shifu
 
 < CARD_HYPER_REIKA >
 name=Collectionneuse d'Étoiles
-descr=Durée de l'Effet : 3 chapitres\nLorsqu'un adversaire obtient des étoiles en combat ou sur une case Bonus :\n• Vous obtenez (votre Niv.) ★\n• Soustrait (votre Niv.) ★ au gain de l'adversaire\nL'effet disparaît en tombant KO.
+descr=Durée de l'Effet : 3 chapitres\nLorsqu'un adversaire obtient des Étoiles en combat ou sur une case Bonus :\n• Vous obtenez (votre Niv.) ★\n• Soustrait (votre Niv.) ★ au gain de l'adversaire\nL'effet disparaît en tombant KO.
 flavor="Fufufu, regarde, j'ai tellement d'étoiles avec moi." ―Reika
 
 < CARD_HYPER_WATTY >
@@ -760,8 +761,8 @@ flavor="Il n'y a pas plus puissante magie que celle des sucreries !" ―Saki
 
 < CARD_HYPER_SWEETBLOGGER >
 name=Opération : Montagne de Sucreries
-descr=Piochez 3 cartes Boost. Vous pouvez jouer 3 cartes Boost de plus ce tour-ci et à 1/3 de leur prix de base.
-flavor="Hihihi, je vais prendre plein de délicieuses sucreries." ―Natsumi
+descr=Prenez 3 cartes Boost du deck. Vous pouvez jouer jusqu'à 3 cartes Boost de plus ce tour-ci, à 1/3 de leur prix initial.
+flavor="Hihihi, je vais me prendre plein de délicieuses sucreries." ―Natsumi
 
 < CARD_HYPER_MIOFESTIVE >
 name=Inferno Festif
@@ -795,7 +796,7 @@ flavor="Le pouvoir de l'amour maternel, poppo." ―Maman Poppo
 
 < CARD_HYPER_DARKL >
 name=Lulu Est Une Dragonne Malchanceuse
-descr=Ne peut être joué qu'avec 2 PV ou moins. Active un de ces effets au hasard :\n• Jetez un dé. Les adversaires perdent le résultat x(leur Niv.) étoiles.\n• Tous les adversaires défaussent une carte au hasard.\n• Tous les adversaires tombent à 2 PV.
+descr=Ne peut être joué qu'avec 2 PV ou moins. Active un de ces effets au hasard :\n• Jetez un dé. Les adversaires perdent le résultat x(leur Niv.) Étoiles.\n• Tous les adversaires défaussent une carte au hasard.\n• Tous les adversaires tombent à 2 PV.
 flavor="Lulu est... une dragonne malchanceuse..." ―Lulu Ténébreuse
 
 < CARD_HYPER_HELLIE >
@@ -825,7 +826,7 @@ flavor="Vivons pleinement notre jeunesse ! C'est maintenant ou jamais !" ―Poyo
 
 < CARD_HYPER_CHUU >
 name=Je Me Concentre Un Peu Plus
-descr=★Coût : Niv. x5\nDurée de l'Effet : Ce tour-ci\nVous gagnez (votre Niv.) ATK.\nVaincre un ennemi ne donne pas d'étoiles. Vaincre un joueur donne +2 Victoires bonus la première fois.
+descr=★Coût : Niv. x5\nDurée de l'Effet : Ce tour-ci\nVous gagnez (votre Niv.) ATK.\nVaincre un ennemi ne donne pas d'Étoiles. Vaincre un joueur donne +2 Victoires bonus la première fois.
 flavor="Vous allez voir ce que ça fait quand je joue sérieusement." ―Chuu
 
 < CARD_HYPER_HARUKA >
@@ -852,6 +853,17 @@ flavor="Alors ? Habile, pas vrai ?" ―Mimomo
 name=Enseignante Avant Tout
 descr=Si vous subissez des dégâts mortels en combat, vous restez à 1 PV à la place, et défaussez cette carte.##(Activation : Tomber à 1 PV hors-combat) : Soigne 1 PV en activant une case Pioche, Déplacement, Portail, Déplacement-Portail ou Aléatoire. Si vous atteignez vos PV max avec ce soin, défaussez cette carte.
 flavor="Je suis leur professeur, je dois tenir le coup." ―Kurie
+
+< CARD_HYPER_RINSE >
+name=Demoiselle Impétueuse
+descr=(Cumul : 1) Prochaine fois que vous subissez des dégâts en combat, vous gagnez (votre Niv.) x2 ★ par dégât subi (max 9). Si vous jouez une carte Combat dont le coût n'est pas entièrement remboursé par le gain d'Étoiles, vous récupérez tous vos PV en fin de combat. L'effet disparaît en tombant KO.
+flavor="On ne me vainc pas aussi facilement." ―Rinse
+
+< CARD_HYPER_SUISHOU >
+name=Pose de Combat Yukimura
+descr=Effet passif : Prochaine fois que vous vous défendez face à une attaque, tous les dégâts que vous auriez subi sont renvoyés à l'adversaire. L'effet disparaît en tombant KO.
+flavor="Aucune attaque ne traverse la Technique Yukimura." ―Suishou
+
 
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=Arme Ultime au Soleil
@@ -905,7 +917,7 @@ flavor=
 
 < CARD_CHAOS_ABYSS >
 name=Depuis l'Abysse Chaotique
-descr=Invoque un familier Poppo du Chaos. Chaque dégât qu'elle inflige vole 2 étoiles au lieu de blesser. Elle partage ses étoiles avec vous.\nSi elle tombe KO, vous donnez 10 étoiles et l'ennemi gagne 2 Victoires.\nSi vous avez déjà un familier, il se fait remplacer.
+descr=Invoque un familier Poppo du Chaos. Chaque dégât qu'elle inflige vole 2 Étoiles au lieu de blesser. Elle partage ses Étoiles avec vous.\nSi elle tombe KO, vous donnez 10 Étoiles et l'ennemi gagne 2 Victoires.\nSi vous avez déjà un familier, il se fait remplacer.
 flavor=
 
 < CARD_CHAOS_RAMPAGE >
@@ -915,7 +927,7 @@ flavor=
 
 < CARD_CHAOS_LAUNCH >
 name=Décollage Chaotique
-descr=Choisissez une case, et quittez le plateau. La case choisie n'est pas révélée. Vous atterrissez sur cette case à votre prochain tour et infligez (votre Niv. x4) aux joueurs s'y trouvant, (Niv. x2) aux cases adjacentes, et (Niv.) à 2 cases de distance.\nGagnez 20 étoiles et 2 Victoires par KO.\nEmpêche de monter en niveau pendant 1 tour.
+descr=Choisissez une case, et quittez le plateau. La case choisie n'est pas révélée. Vous atterrissez sur cette case à votre prochain tour et infligez (votre Niv. x4) aux joueurs s'y trouvant, (Niv. x2) aux cases adjacentes, et (Niv.) à 2 cases de distance.\nGagnez 20 Étoiles et 2 Victoires par KO.\nEmpêche de monter en niveau pendant 1 tour.
 flavor=
 
 < CARD_CHAOS_ROULETTE >

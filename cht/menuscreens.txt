@@ -13,17 +13,59 @@
 < MAINMENU_LOADGAME >
 繼續遊戲
 
+< CREATE_PROFILE_IN_SLOT >
+在槽位{}創建存檔
+
+< CREATE_PROFILE_NAME >
+名稱
+
+< CREATE_PROFILE_CONFIRM >
+確認
+
+< CREATE_PROFILE_CANCEL >
+取消
+
+< CREATE_PROFILE_DELETE_SLOT >
+你要刪除槽位{}的存檔嗎？
+
+< CREATE_PROFILE_WARNING >
+操作後將無法撤銷！
+
+< CREATE_PROFILE_PROFILE >
+存檔{}
+
+< CREATE_PROFILE_SELECT_UNIT >
+選擇角色
+
+< SELECT_PROFILE_STARS >
+星星
+
+< SELECT_PROFILE_EMPTY_SLOT >
+空槽位
+
+< SELECT_PROFILE_CARDS >
+卡片
+
+< MAINMENU_LOADGAME_SELECT >
+讀取存檔
+
 < MAINMENU_CONFIGURATION >
 設置
 
 < MAINMENU_EXIT >
 離開遊戲
 
+< LATEST_GAME_NEWS >
+最新遊戲新聞
+
 < MENU_BUTTON_OK >
 確定
 
 < MENU_BUTTON_BACK >
 返回
+
+< MAINMENU_CHANGEPROFILE >
+切換存檔
 
 < MENU_BUTTON_HOME >
 主頁
@@ -308,7 +350,7 @@
 在線與其他玩家進行對戰。
 
 < PLAYMENU_TOOLTIP_SHOP >
-購買卡包、角色、裝飾等物品。
+購買卡包、角色、裝扮等物品。
 
 < PLAYMENU_TOOLTIP_CAMPAIGN >
 選擇角色，並以單人遊戲體驗他們的故事。
@@ -555,7 +597,7 @@ NoName老師恢復了原狀，\n所有人都避免了留級危機！
 豬豬之心可以通過在普通或賞金獵人模式下\n完成一場遊戲、擊倒敵方玩家（每場遊戲中\n每名玩家一次），或是得到更高的結算名次，\n或是進行合作模式遊戲來獲得。
 
 < PLAYMENU_EVENT_FRB2019_INSTRUCTION_02 >
-用豬豬之心在商店解鎖豬豬裝扮，將角色\n從豬豬化的詛咒中解放出來吧！
+用豬豬之心在商店解鎖豬豬服裝，將角色\n從豬豬化的詛咒中解放出來吧！
 
 < PLAYMENU_EVENT_FRB2019_INSTRUCTION_03 >
 只有拯救了所有角色才能阻止豬豬化！
@@ -742,13 +784,13 @@ QP被太陽曬得發瘋了！與她和她的新小弟們玩到讓她累趴下吧
 在釣魚階段結束後，玩家會按照釣魚分數進行排名。玩家將會依據排名得到WIN，依據分數得到STAR。
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_08 >
-注意烤架！它總會有3條一組的魚等待捕獲，抓齊它們可以額外獲得15點分數！
+注意烤架！烤架上總會顯示3條一組的魚可供捕捉，按順序抓齊即可額外獲得50分！
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_09 >
 每個人都有各自的烤架需要填滿，所以努力在時限內比其他人完成更多組需求吧！
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_10 >
-此外，連續多次捕獲同一種魚可以得到額外的連擊分數。
+此外，連續多次捉到同一種魚可以得到額外的連擊倍率。
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_11 >
 每場遊戲的釣魚總分將會計入你的活動進度。釣個大豐收吧！
@@ -880,7 +922,7 @@ QP還想多玩一會！夏日野獸復活了！
 除遊戲結算外，每局最多可以獲得4個裝飾品。
 
 < PLAYMENU_EVENT_HALLOWEEN2021_COMPLETE >
-屋子已經裝飾好了，和朋友們一起欣賞你的\n傑作吧！你還可以收集更多裝飾品來解鎖商店裡\n的裝扮。
+屋子已經裝飾好了，和朋友們一起欣賞你的\n傑作吧！你還可以收集更多裝飾品來解鎖商店裡\n的服裝。
 
 
 < PLAYMENU_EVENT_CHAOS_INSTRUCTION_MAIN >
@@ -915,7 +957,7 @@ QP還想多玩一會！夏日野獸復活了！
 移動點數會自動用於沿當前的路線前進，\n直到遭遇岔路為止。\n你可以選擇要從哪條路線前進。
 
 < PLAYMENU_EVENT_PTS_INSTRUCTION_05 >
-經過某些格子時將獲得星星、橙子、隨機裝飾\n甚至活動獎勵！
+經過某些格子時將獲得星星、橙子、隨機裝扮\n甚至活動獎勵！
 
 < PLAYMENU_EVENT_PTS_INSTRUCTION_06 >
 誰將獲得傳說中的寶藏？讓我們拭目以待吧……
@@ -991,7 +1033,7 @@ QP還想多玩一會！夏日野獸復活了！
 記憶碎片會自動用於沿當前的路線前進，\n直到遭遇岔路為止。\n你可以選擇要從哪條路線前進。
 
 < PLAYMENU_EVENT_WINTER2023_INSTRUCTION_05 >
-經過某些格子時將獲得星星、橙子或隨機裝飾！
+經過某些格子時將獲得星星、橙子或隨機裝扮！
 
 < PLAYMENU_EVENT_WINTER2023_INSTRUCTION_06 >
 你能回想起那些記憶，幫助露露克服心中的\n黑暗嗎？
@@ -1060,7 +1102,7 @@ QP還想多玩一會！夏日野獸復活了！
 之後每場搭檔模式遊戲可以獲得2點移動點數，每場其它模式遊戲可以獲得1點移動點數。
 
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_04 >
-在活動地圖上，橙子格可獲得橙子，星星格\n可獲得星星，綠色的裝飾格可解鎖隨機裝飾，\n皇冠格可解鎖活動裝飾！
+在活動地圖上，橙子格可獲得橙子，星星格\n可獲得星星，綠色的裝扮格可解鎖隨機裝扮，\n皇冠格可解鎖活動裝扮！
 
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_05 >
 在活動地圖上走完一圈即可完成活動，繼續遊戲\n還可獲得更多獎勵！
@@ -1120,7 +1162,7 @@ QP還想多玩一會！夏日野獸復活了！
 完成挑戰精進技藝，給姬世展現一下百橙社的實力吧！
 
 < PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_COMPLETE >
-恭喜你！你滿足了姬世的期望，獲得了她的認可！你還可以繼續完成任務，每完成一個任務都可以獲得額外的橙子獎勵。
+恭喜你！你滿足了姬世的期望，獲得了她的認可！\n你還可以繼續完成任務，每完成一個任務都可以獲得額外的橙子獎勵。
 
 < PLAYMENU_EVENT_NEXT_GOAL >
 下一個目標：
@@ -1411,6 +1453,9 @@ CPU自定義
 < MENU_CODEXSTORY_TITLE_GREATPILOT >
 偉大的飛行員
 
+< MENU_CODEXSTORY_TITLE_FAMILYHOLIDAY >
+家庭假期
+
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES >
 使用{1}進行{0}場遊戲。
 
@@ -1419,6 +1464,9 @@ CPU自定義
 
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE >
 進行{0}場{1}模式遊戲。
+
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE_UNIT >
+使用{2}進行{0}場{1}模式遊戲。
 
 < MENU_CODEXSTORY_UNLOCKCOND_EVENT >
 完成「{0}」活動。
@@ -1460,10 +1508,10 @@ CPU自定義
 停留在{0}格上。
 
 < MENU_CODEXSTORY_UNLOCKCOND_STARS >
-獲得{0}個STAR。
+獲得{0}顆STAR。
 
 < MENU_TASKBOARD_REROLL >
-是否要支付{0}個星星刷新這項任務？\n當前星星數量：
+是否要支付{0}顆星星刷新這項任務？\n當前星星數量：
 
 < MENU_NORMABOARD >
 目標達成獎勵特長
@@ -1494,5 +1542,21 @@ CPU自定義
 
 < MENU_CHAOS_GM_SELECT_POWER >
 選擇一項遊戲主持者的力量
+
+< MUSIC_ULTIMATE_WEAPON >
+Ultimate Weapon Girl
+
+< MUSIC_ULTIMATE_WEAPON_INSTRUMENTAL >
+Ultimate Weapon Girl（伴奏）
+
+< MUSIC_ULTIMATE_WEAPON_SPECIAL >
+Ultimate Weapon Girl（獎勵曲目）
+
+< MUSIC_PUDDING_POP >
+布丁Pop
+
+< MUSIC_BAKER_BREAKER >
+星之糕點破壞者
+
 
 [EOF]

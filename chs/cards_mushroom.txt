@@ -53,10 +53,10 @@ descr=下次移动时MOV+%d。
 descr=下次移动时MOV-%d。
 
 < CARD_SHROOM_GAINSTARS >
-descr=获得等级数×%d颗STAR。
+descr=获得你等级×%d的STAR。
 
 < CARD_SHROOM_LOSESTARS >
-descr=失去等级数×%d颗STAR。
+descr=失去你等级×%d的STAR。
 
 < CARD_SHROOM_HEALTHUP >
 descr=获得%d点HP。
@@ -113,7 +113,7 @@ descr=随机丢弃1张手牌。
 descr=获得1WIN。
 
 < CARD_SHROOM_LEGEND_STARS >
-descr=任意来源获得STAR时额外获得等级数的STAR。\n被战斗击倒时，胜者获得这张卡。
+descr=任意来源获得STAR时额外获得你等级数的STAR。\n被战斗击倒时，胜者获得这张卡。
 
 < CARD_SHROOM_LEGEND_WINS >
 descr=任意来源获得WIN时额外获得1WIN。\n被战斗击倒时，胜者获得这张卡。

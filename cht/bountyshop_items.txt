@@ -123,7 +123,7 @@ descr=將1名傭兵召喚至場上。他會攻擊除召喚者外所有他經過�
 
 < ITEM_PHILOSOPHERSTONE >
 name=賢者之石
-descr=每輪獲得4顆STAR，每經過5輪額外+1。\n只能購買一次，需要花費所有STAR（最低為120）。
+descr=每輪獲得4顆STAR，每經過5輪額外+1。\n只能購買一次，須要花費所有STAR（最低為120）。
 
 < ITEM_REC_BOOST_LV1 >
 name=精力藥水

@@ -100,7 +100,7 @@ descr=所有卡片无需COST。
 
 < MIXER_BANKRUPT >
 name=破产
-descr=卡片COST增加10个STAR。
+descr=卡片COST增加10颗STAR。
 
 < MIXER_GOO >
 name=粘液
@@ -116,7 +116,7 @@ descr=所有玩家开场拥有一个召唤物。
 
 < MIXER_CARDSHARK >
 name=牌王
-descr=玩家的所有卡片都将作为1级使用。
+descr=所有卡片都在玩家1级时即可使用。
 
 < MIXER_SPEEDY_BOSS >
 name=迅速的BOSS

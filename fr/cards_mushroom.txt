@@ -113,7 +113,7 @@ descr=Défaussez une carte au hasard.
 descr=Vous gagnez 1 Victoire.
 
 < CARD_SHROOM_LEGEND_STARS >
-descr=+(votre Niv.) ★ à chaque gain d'étoiles.\nSi vous perdez en combat face à un joueur, donnez-lui cette carte.
+descr=+(votre Niv.) ★ à chaque gain d'Étoiles.\nSi vous perdez en combat face à un joueur, donnez-lui cette carte.
 
 < CARD_SHROOM_LEGEND_WINS >
 descr=+1 Victoire à chaque gain de Victoire.\nSi vous perdez en combat face à un joueur, donnez-lui cette carte.

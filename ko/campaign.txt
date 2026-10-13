@@ -257,6 +257,11 @@ CPU 캐릭터들의 성능이 개별적으로 커스터마이즈됩니다.
 < CAMPAIGN_WINTER2023_MESSAGE >
 추가 미션 "%s"이(가) 해금되었습니다!
 
+< CAMPAIGN_FIRST_CLEAR_MESSAGE >
+축하합니다! {}의 캠페인을 상점 화면에서 또는 캠페인을 클릭하고 해당 유닛들을 구매하여 해금할 수 있습니다.
+
+< CAMPAIGN_BUY_UNIT_CONFIRM >
+{0}의 유닛 카드를 {1}스타에 구매하여 이 캠페인을 해금하겠습니까?
 
 [EOF]
 

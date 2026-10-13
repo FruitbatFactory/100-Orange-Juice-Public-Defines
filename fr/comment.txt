@@ -216,7 +216,7 @@ En pause.
 Quitter cette partie ?
 
 < COM_RESULT_STARSGAINED >
-Total d'étoiles obtenues.
+Total d'Étoiles obtenues.
 
 < COM_CREATELOBBY_SETOPTIONS >
 Configurer les options du salon.

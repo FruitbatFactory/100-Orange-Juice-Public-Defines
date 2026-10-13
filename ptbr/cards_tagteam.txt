@@ -1,6 +1,6 @@
 < CARD_HYPER_TAG_POPPO >
 name=Onipresença
-descr=Teleporte para o painel do alvo inimigo ativo. Além disso, roube estrelas igual ao nível do alvo x10.\nDuração do Efeito: 1 Capítulo.\nSeus atributos base serão -1 ATK, DEF e EVD. E então, role para se mover.
+descr=Teleporte para o painel do alvo inimigo ativo. Além disso, roube Estrelas igual ao (Nvl do Alvo) x10.\nDuração do Efeito: 1 Capítulo.\nSeus atributos base serão -1 ATK, DEF e EVD. E então, role para se mover.
 flavor="Poppo! Poppopopopopo!"\n―Marie Poppo
 
 < CARD_HYPER_TAG_COOK >

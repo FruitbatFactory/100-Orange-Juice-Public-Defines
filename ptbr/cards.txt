@@ -11,7 +11,7 @@ flavor="Está tudo bem por enquanto!" ―Marc
 
 < CARD_BOOST_FLIPOUT >
 name=Frustração
-descr=Efeito de Estoque\nNa próxima vez que sua personagem parar em um painel de perda, o(s) jogador(es) com a maior quantidade de estrelas vai(vão) perder a mesma quantidade de estrelas que você.
+descr=Efeito de Estoque\nNa próxima vez que sua personagem parar em um painel de perda, o(s) jogador(es) com a maior quantidade de Estrelas vai(vão) perder a mesma quantidade de Estrelas que você.
 flavor="......!" ―Mei
 
 < CARD_BOOST_LONGSHOT >
@@ -21,7 +21,7 @@ flavor="Eu posso te acertar de qualquer lugar." ―Iru
 
 < CARD_BOOST_NICEJINGLE >
 name=Bônus Natalino
-descr=Efeito de Estoque.\nO próximo painel de bônus lhe dará o dobro de estrelas.
+descr=Efeito de Estoque.\nO próximo painel de bônus lhe dará o dobro de Estrelas.
 flavor="Nós temos um montão." ―Aru
 
 < CARD_BOOST_NICEPRESENT >
@@ -46,7 +46,7 @@ flavor="Pegue uns docinhos!" ―Saki
 
 < CARD_BOOST_STIFFCRYSTAL >
 name=Cristal Resistente
-descr=Efeito de Estoque.\nNegue os efeitos de uma carta armadilha. Ganhe 5 estrelas por nível da armadilha cancelada.
+descr=Efeito de Estoque.\nNegue os efeitos de uma carta armadilha. Ganhe 5 Estrelas por Nvl da armadilha cancelada.
 flavor="Isso é um saco." ―Kyoko
 
 < CARD_BATTLE_BIGMAGNUM >
@@ -101,7 +101,7 @@ flavor='Bastou um olhar para aquele pudim roubar meu coração.'
 
 < CARD_TRAP_EXCHANGE >
 name=Troca
-descr=Troque as cartas de sua mão, suas estrelas e sua posição atual no tabuleiro com o jogador que colocou essa carta.
+descr=Troque as cartas de sua mão, suas Estrelas e sua posição atual no tabuleiro com o jogador que colocou essa carta.
 flavor="Pesado..." ―Suguri\n"Que desconfortável sem meu capacete..." ― Marc
 
 < CARD_TRAP_FLAMETHROWER >
@@ -111,7 +111,7 @@ flavor="Heeehaaaaah!" ―Punk
 
 < CARD_TRAP_TOYSTORE >
 name=Pelo Futuro da Loja de Brinquedos
-descr=Perca metade de suas estrelas. O jogador que colocou esta carta ganha a quantidade de estrelas perdidas. Essa carta apenas poderá será utilizada caso o jogador possua menos de 50 estrelas.
+descr=Perca metade de suas Estrelas. O jogador que colocou esta carta ganha a quantidade de Estrelas perdidas. Essa carta apenas poderá será utilizada caso o jogador possua menos de 50 Estrelas.
 flavor="Se ao menos... se ao menos não existisse uma Mamãe Noel!" ―Arthur
 
 < CARD_TRAP_GOAWAY >
@@ -136,12 +136,12 @@ flavor="Obrigada por morrer!" ―Mimyuu
 
 < CARD_TRAP_PIGGYBANK >
 name=Cofrinho
-descr=Ganhe estrelas o equivalente a cinco vezes o número de capítulos que passaram desde que esta carta foi colocada.
+descr=Ganhe Estrelas o equivalente a cinco vezes o número de capítulos que passaram desde que esta carta foi colocada.
 flavor="Papai, já posso quebrar o porquinho?" ―Mescal
 
 < CARD_TRAP_PURES >
 name=Restaurante do Céu 'Pures'
-descr=Perca metade das suas estrelas e cure todo o seu HP.
+descr=Perca metade das suas Estrelas e cure todo o seu HP.
 flavor="Temos um convidado para servir!" ― Chris
 
 < CARD_TRAP_TRAGEDY >
@@ -176,7 +176,7 @@ flavor="Para o próximo mundo!" ― Marie Poppo
 
 < CARD_EVENT_HOLYNIGHT >
 name=Noite Feliz
-descr=Efeito Permanente\nOs bonus de estrelas no inicio de capitulo são aumentados em um.
+descr=Efeito Permanente\nOs bonus de Estrelas no inicio de capitulo são aumentados em um.
 flavor="Aha, é por isso que é uma noite de festa." ―Hime
 
 < CARD_EVENT_LITTLEWAR >
@@ -216,7 +216,7 @@ flavor="Estou acelerando." ―Suguri
 
 < CARD_HYPER_FERNET >
 name=Ataque Aéreo
-descr=Todas os inimigos recebem de 1 a 3 de dano. Ganhe 15 estrelas por cada nocaute.
+descr=Todas os inimigos recebem de 1 a 3 de dano. Ganhe 15 Estrelas por cada nocaute.
 flavor="Hmph, pereçam, todos vocês." ―Fernet
 
 < CARD_HYPER_HIME >
@@ -241,7 +241,7 @@ flavor=Por que não usamos isto para ver quem vai primeiro?" ― Yuki
 
 < CARD_HYPER_QP >
 name=Modo Hiper
-descr=Durante esta batalha, sua unidade ganha +3 de Ataque. Caso sua unidade seja nocauteada, não dê estrelas ou vitórias. Além disso, sua unidade se reanimará no próximo turno.
+descr=Durante esta batalha, sua unidade ganha +3 de Ataque. Caso sua unidade seja nocauteada, não dê Estrelas ou Vitórias. Além disso, sua unidade se reanimará no próximo turno.
 flavor="MODO HIPER!" - QP
 
 < CARD_HYPER_TOMOMO >
@@ -251,7 +251,7 @@ flavor="Desapareçam." ―Tomomo
 
 < CARD_HYPER_ARU >
 name=Presentes para Vocês
-descr=Todos os jogadores compram cartas até terem uma mão cheia. Aqueles com a mão cheia compram somente 1 carta. Ganhe estrelas igual ao número de cartas compradas x10.
+descr=Todos os jogadores compram cartas até terem uma mão cheia. Aqueles com a mão cheia compram somente 1 carta. Ganhe Estrelas igual ao número de cartas compradas x10.
 flavor="Presentes para bons garotos e garotas." ―Aru
 
 < CARD_HYPER_KAI >
@@ -261,17 +261,17 @@ flavor="Este é o privilégio do personagem principal!" ―Kai
 
 < CARD_HYPER_POPPO >
 name=Onipresença
-descr=Se teleporte para o painel da unidade escolhida. Além disso, roube estrelas igual ao nível do alvo x10.
+descr=Se teleporte para o painel da unidade escolhida. Além disso, roube Estrelas igual ao (Nvl do alvo) x10.
 flavor="Poppo! Poppopopopopo!"\n―Marie Poppo
 
 < CARD_HYPER_MARC >
 name=Grande Míssil x16
-descr=★Custo: Seu nível x10\nCause dano equivalente ao seu nível a uma unidade alvo selecionada. Um nocaute por este efeito lhe dará 2 Vitórias.
+descr=★Custo: (Seu Nvl) x10\nCause dano equivalente ao (Seu Nvl) a uma unidade alvo selecionada. Um nocaute por este efeito lhe dará 2 Vitórias.
 flavor="Preparar! Fogo!" ―Marc
 
 < CARD_HYPER_MASTER >
 name=Banido para Sempre
-descr=★Custo: Suas estrelas divididas por 10.\nSó pode jogar cartas Presente. Usar esta carta a envia para outro jogador.\nDescarte toda sua mão ao descartá-la.
+descr=★Custo: Suas Estrelas divididas por 10.\nSó pode jogar cartas Presente. Usar esta carta a envia para outro jogador.\nDescarte toda sua mão ao descartá-la.
 flavor="Gerente, é a sua vez!!" ―Chris
 
 < CARD_HYPER_BOSSROBO >
@@ -286,7 +286,7 @@ flavor="Com este poder, tudo nos céus será nosso." ―Mestre da Guilda
 
 < CARD_HYPER_CHICKEN >
 name=Ovo Dourado
-descr=Se o alvo for "Galinha", Efeito de Estoque (3). Painéis de Perda vão agir como painéis de Bônus. Caso não seja "Galinha", Efeito de Estoque (3). Painéis de Bônus vão agir como painéis de Perda. Quem botou a armadilha ganha estrelas equivalente ao número de estrelas perdidas.
+descr=Se o alvo for "Galinha", Efeito de Estoque (3). Painéis de Perda vão agir como painéis de Bônus. Caso não seja "Galinha", Efeito de Estoque (3). Painéis de Bônus vão agir como painéis de Perda. Quem botou a armadilha ganha Estrelas equivalente ao número de Estrelas perdidas.
 flavor="Cocóricóóóóó!" ―Galinha
 
 < CARD_HYPER_BALL >

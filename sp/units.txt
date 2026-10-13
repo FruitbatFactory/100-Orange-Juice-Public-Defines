@@ -417,7 +417,7 @@ descr=Si no ha sido noqueada, al final de su turno, todos los aliados con vida y
 
 < CARD_UNIT_SWEETBLOGGER >
 name=Natsumi (Sweet Blogger)
-descr=Todas las cartas relacionadas a los Dulces podrán ser usadas de forma gratuita. Al estar viva durante su turno y caer en un panel de Perdidas, toma una carta relacionada a los Dulces (de un nivel igual o menor al de esta unidad).
+descr=Todas las cartas relacionadas a los Dulces podrán ser usadas de forma gratuita. Si se encuentra con vida al activar un panel de Perdidas, toma una carta relacionada a los Dulces (de un nivel igual o menor al de esta unidad).
 
 < CARD_UNIT_NONAME >
 name=NoName
@@ -473,7 +473,7 @@ descr=
 
 < CARD_UNIT_SWEETMAKER >
 name=Saki (Sweet Maker)
-descr=Al estar viva durante su turno y caer en un panel de Batalla, toma una carta relacionada a los Dulces (de un nivel igual o menor al de esta unidad).
+descr=Si se encuentra con vida al activar un panel de Batalla, toma una carta relacionada a los Dulces (de un nivel igual o menor al de esta unidad) del mazo.
 
 < CARD_UNIT_SEAGULL >
 name=Gaviota
@@ -650,6 +650,14 @@ descr=Recibe +1 ATK y -1 EVD al ser la atacante.\nRecibe +1 DEF al ser la defens
 < CARD_UNIT_KURIE >
 name=Amatsukuri Kurie
 descr=
+
+< CARD_UNIT_RINSE >
+name=Rinse
+descr=En el comienzo de tu turno, recibes un efecto de "El Poder de Una Damisela"\nEfecto Guardado: La próxima vez que recibas daño, recibirás Estrellas (valor: tu Nivel). Si era daño dentro de una batalla, la unidad que te dañó recibirá la misma cantidad de Estrellas.
+
+< CARD_UNIT_SUISHOU >
+name=Suishou
+descr=En el comienzo de cada batalla, recibes +1 ATK por cada ATK del oponente, hasta un máximo de +3.
 
 
 

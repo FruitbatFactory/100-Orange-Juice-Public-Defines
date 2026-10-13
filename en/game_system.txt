@@ -52,13 +52,13 @@ Additional %d %% chance to have SSR items showing up.
 %d %% item price reduction after other calculations.
 
 < GAME_SYSTEM_SHOP_BONUS_3 >
-An additional %d stars will be given when selling a card.
+An additional %d Stars will be given when selling a card.
 
 < GAME_SYSTEM_SHOP_BONUS_4 >
 An additional stock of an item may be available.
 
 < GAME_SYSTEM_SHOP_BONUS_5 >
-Delivering items will give an extra %d stars upon completion of the quest.
+Delivering items will give an extra %d Stars upon completion of the quest.
 
 < GAME_SYSTEM_SHOP_BONUS_6 >
 Up to two additional stock of an item may be available.
@@ -115,7 +115,7 @@ When ending your turn after moving to the end of your final move roll, gain +1 M
 Plentiful Harvest
 
 < GAME_SYSTEM_NORMABOARD_UPGRADE_9_DESC >
-Immediately gain 100 stars, and gain the ability to receive stars upon the completion of Bounties.
+Immediately gain 100 Stars, and gain the ability to receive Stars upon the completion of Bounties.
 
 < GAME_SYSTEM_NORMABOARD_UPGRADE_10_NAME >
 Home Defense

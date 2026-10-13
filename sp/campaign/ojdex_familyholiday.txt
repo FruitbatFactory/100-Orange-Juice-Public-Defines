@@ -1,0 +1,124 @@
+// main
+// (elliehyper)
+<0000> ¡Hola, finalmente hemos llegado a visitarlas!
+// (lulu)
+<0001> Gracias por tenernos aquí.
+// (tomomo)
+<0002> Ah, son ustedes dos. ¿Cómo les va, niñas? ¿Qué opinan de mi nueva casa de playa? Pensé que podía construirme un pequeño hogar festivo como recompensa por ayudar con todo ese asunto de Mio.
+// (lulu)
+<0003> Lulu... está más preocupada de que una playa se encuentre aquí. O un océano. Eso no estaba aquí antes.
+// (tomomo)
+<0004> Ah, eso lo añadí hace un rato. Mio es un desastre construyendo mundos de todas formas. Y solo es un océano pequeño.
+// (lulu)
+<0005> PPor favor no insulte nuestro mundo. Lulu piensa que hay muchas cosas maravillosas en ella, sin importar de donde vengan.
+// (elliehyper)
+<0006> Como yo y Lulu, ¿verdad? ¿Verdad?
+// (lulu)
+<0007> Lulu no es lo suficientemente arrogante... em, segura como para hacerse un cumplido a sí misma tal como lo haces tú.
+// (tomomo)
+<0008> No te preocupes. Yo estoy a cargo de vigilar este lugar ahora, así que no tienes que preocuparte por los pequeños detalles.
+// (elliehyper)
+<0009> Jee-jee~ Eso sí es como tú, Abue.
+// (tomomo)
+<0010> ¿A-A-Abue? ¿A quién rayos le llamas 'Abue', pequeña mocosa?
+// (elliehyper)
+<0011> Bueno, tú eres la mamá de mi Mamá, ¿no es así? ¿Entonces eso en qué te convierte a ti?
+// (tomomo)
+<0012> ¡Sí la creé, pero no es como si la hubiera dado a luz!
+// (elliehyper)
+<0013> Ajaaa~ No tienes por qué preocuparte por los pequeños detalles, Abue~ Lita~
+// (tomomo)
+<0014> ¡Gwaah! ¡No uses esa palabra! No tengo la edad suficiente para ser una abuela. ¡Estoy en la mejor parte de mi vida!
+// (lulu)
+<0015> ¿Y cuánto durará esa parte?
+// (tomomo)
+<0016> ¡Hasta que yo lo diga!
+// (lulu)
+<0017> Cuando lo dices así, Lulu puede ver el parentesco familiar.
+// (elliehyper)
+<0018> Vamos, Abuelita~ ¿Por qué no nos mimas un poco? ¿No es eso lo que deberían hacer las nanas como tú? Ajaaa~
+// (lulu)
+<0019> Ellie, Lulu piensa que no deberías atacar los puntos débiles de los demás de esa forma.
+// (tomomo)
+<0020> Bien. ¿Saben qué? ¡Yo soy una mujer adulta y madura! No tengo por qué enojarme por esto.
+// (elliehyper)
+<0021> Sip. Muuuuuuy madura. Ajaaaa~
+// (tomomo)
+<0022> Como sea. Y bien, niñas, ¿tienen hambre? ¿Quieren algunas golosinas?
+// (elliehyper)
+<0023> ¿Realmente vas a mimarnos? ¡Asombroso!
+// (tomomo)
+<0024> Bueno, ustedes han sido las únicas que han venido a visitarme, así que es mejor que coman algo.
+// (lulu)
+<0025> Muchas gracias. ¿Qué es lo que tiene?
+// (tomomo)
+<0026> Veaaamooos… tengo helado, helado, helado y más helado. Será mejor que solo escojan uno.
+// (lulu)
+<0027> Sip, definitivamente se parece a Ellie.
+// (elliehyper)
+<0028> ¿Y qué hay de esas latas raras?
+// (tomomo)
+<0029> Ustedes son demasiado jóvenes para beber eso. Son... este. Medicina, supongo. Medicina para ayudarle a mi alma a recuperarse... después de que mi jefa prepare mi sentencia de muerte.
+// (lulu)
+<0030> E-el ocaso se siente más triste después de que haya dicho eso...
+// (tomomo)
+<0031> Y dime, Ellie. ¿Qué dicen tus padres? No los he vuelto a ver desde aquella vez.
+// (elliehyper)
+<0032> Hacen cosas de pareja muy cursis. ¡Me hace vomitar! ¿Y quién se creé Papá que es, monopolizando a Mamá de esa forma? ¡Ella es mía!
+// (tomomo)
+<0033> ¡Bleh! Haré de cuenta que no escuché todo eso. Realmente no me los quiero imaginar siendo tan sentimentales entre ellos.
+// (lulu)
+<0034> Em, la Mamá y el Papá de Ellie definitivamente son... ellos mismos, pero sí han hecho que Lulu se sienta como parte de la familia. Para bien o para mal.
+// (tomomo)
+<0035> Eso es bueno. La próxima vez que los veas, diles que muevan sus traseros y vengan aquí antes de que mi tiempo de descanso pagado llegue a su fin.
+// (lulu)
+<0036> Sí señora.
+// (tomomo)
+<0037> Y. Em. He querido preguntarles esto por un tiempo ya, pero... ¿Qué es lo que hacen para divertirse? Me siento super mega aburrida.
+// (lulu)
+<0038> ¿En serio? ¿Pero no acaba de decir que está en su tiempo de descanso?
+// (tomomo)
+<0039> ¡Sí, pero no hay una tele aquí, o comics, o alguien con quien hablar a diez mil metros de distancia!
+// (elliehyper)
+<0040> Es tu culpa por hacer una playa en el medio de la nada, tonta.
+// (tomomo)
+<0041> ¡¿Qué, quieres que la haga en el medio del pueblo e inundar todo el lugar?! ¡¿Acaso quieres tener un calamar en tus zapatos, pequeña mocosa?!
+// (elliehyper)
+<0042> Supongo que podrías ir a nadar en ese tonto océano que has creado.
+// (tomomo)
+<0043> Lo intenté hace poco, pero se hizo aburrido después de media hora. Y solo es un océano pequeño.
+// (elliehyper)
+<0044> ¡Cuando yo me aburro, simplemente voy en busca de aventuras! O juego con la cola de Lulu.
+// (lulu)
+<0045> L-Lulu realmente desea que dejaras de hacer eso, especialmente en público.
+// (elliehyper)
+<0046> ¡Pero si tus reacciones son muy lindas y graciosas! Ajaa~
+// (tomomo)
+<0047> Una aventura suena bien, aunque signifique más trabajo... ¡Ack! ¡¿Acaso me he convertido en el tipo de adulto que no puede dejar de trabajar incluso en sus días de descanso?!
+// (lulu)
+<0048> Tenemos algunas misiones listas. Simplemente nos estaría ayudando, señora.
+// (tomomo)
+<0049> Ya deja de decirme señora. Esa formalidad me da escalofríos.
+// (lulu)
+<0050> Em... ¿Entonces como es que Lulu debería llamarte?
+// (elliehyper)
+<0051> ¡Abuelita, por supuesto!
+// (tomomo)
+<0052> ¡¿Y qué hay de lo que sea menos eso?!
+// (lulu)
+<0053> Eeem… ¿Tía? ¿Tía Tomomo?
+// (tomomo)
+<0054> Ah, como tía de tía genial, ¿verdad?
+// (lulu)
+<0055> Bueno, nos has dado un poco de helado, así que Lulu puede verlo de esa forma.
+// (tomomo)
+<0056> ¡Lo tomaré! Muy bien, niñas, las ayudaré en sus aventuras. ¡Es hora de mostrar el poder al 100% de una chica mágica!
+// (elliehyper)
+<0057> No tan rápido o te romperás la cadera, Abuelita. Ajaaa~
+// (tomomo)
+<0058> Cállate, niñita. ¡Solo asegúrense de no quedarse atrás!
+// (lulu)
+<0059> Oooh… ambas son demasiado ruidosas. Las orejas de Lulu no paran de zumbar. Y probablemente se aburrirán después de media hora...
+// (lulu)
+<0060> Ah... la familia de Ellie es tan problemática. Será mejor que Lulu vaya, o se perderá de toda la diversión.
+

@@ -259,6 +259,11 @@ CPU角色的骰子点数较低。
 < CAMPAIGN_WINTER2023_MESSAGE >
 已解锁附加关卡：%s！
 
+< CAMPAIGN_FIRST_CLEAR_MESSAGE >
+恭喜你！接下来你可以购买{}的角色卡解锁对应战役。角色卡可以在商店购买，或是直接在这里点击对应战役购买。
+
+< CAMPAIGN_BUY_UNIT_CONFIRM >
+是否要花费{1}星星购买{0}角色卡，以便解锁此战役？
 
 [EOF]
 

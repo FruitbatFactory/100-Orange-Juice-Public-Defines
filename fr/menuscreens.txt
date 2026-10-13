@@ -13,17 +13,59 @@ NOUVELLE PARTIE
 < MAINMENU_LOADGAME >
 CONTINUER
 
+< CREATE_PROFILE_IN_SLOT >
+Créer un Profil sur cet emplacement
+
+< CREATE_PROFILE_NAME >
+Nom
+
+< CREATE_PROFILE_CONFIRM >
+Confirmer
+
+< CREATE_PROFILE_CANCEL >
+Annuler
+
+< CREATE_PROFILE_DELETE_SLOT >
+Effacer le Profil
+
+< CREATE_PROFILE_WARNING >
+Cette action est irréversible !
+
+< CREATE_PROFILE_PROFILE >
+Profil
+
+< CREATE_PROFILE_SELECT_UNIT >
+Choisir un Personnage
+
+< SELECT_PROFILE_STARS >
+Étoiles
+
+< SELECT_PROFILE_EMPTY_SLOT >
+Emplacement Vide
+
+< SELECT_PROFILE_CARDS >
+Cartes
+
+< MAINMENU_LOADGAME_SELECT >
+CHARGER
+
 < MAINMENU_CONFIGURATION >
 OPTIONS
 
 < MAINMENU_EXIT >
 QUITTER
 
+< LATEST_GAME_NEWS >
+DERNIERES NOUVELLES
+
 < MENU_BUTTON_OK >
 OK
 
 < MENU_BUTTON_BACK >
 RETOUR
+
+< MAINMENU_CHANGEPROFILE >
+CHANGER DE PROFIL
 
 < MENU_BUTTON_HOME >
 MENU
@@ -462,7 +504,7 @@ Tous les joueurs partagent leurs Quotas, Étoiles et Victoires. Monter en niveau
 En mode Co-op, les cases boss apparaissent de plus en plus. Allez sur l'une d'elles pour défier Jonathan le Géant !
 
 < PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_07 >
-Tomber KO fait perdre 1/8 des étoiles de l'équipe. Vous pouvez vous arrêter sur n'importe quelle maison.
+Tomber KO fait perdre 1/8 des Étoiles de l'équipe. Vous pouvez vous arrêter sur n'importe quelle maison.
 
 < PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_08 >
 Pas d'évènements de plateaux ! Jonathan le Géant utilisera ses propres capacités pour vous affaiblir. Il en débloque de plus en plus au fil du temps...
@@ -477,10 +519,10 @@ Jonathan le Géant est neutralisé, les mers et les plages sont de nouveau sécu
 Sucre & Malices ! La période où tout le monde mange des bonbons !
 
 < PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_01 >
-Chaque bonbon vous fait gagner +1 étoile par chapitre. Des bonbons sont distribués aléatoirement tous les 3 chapitres.
+Chaque bonbon vous fait gagner +1 Étoile par chapitre. Des bonbons sont distribués aléatoirement tous les 3 chapitres.
 
 < PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_02 >
-Si un bonbon correspond à votre plaque de profil, rendez-vous à une maison et échangez-le contre 10 étoiles et 1 Victoire.
+Si un bonbon correspond à votre plaque de profil, rendez-vous à une maison et échangez-le contre 10 Étoiles et 1 Victoire.
 
 < PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_03 >
 Si vous croisez un autre joueur, choisissez l'un de ses bonbons et menacez-le avec un sort. S'il ne vous donne pas ce bonbon, il recevra une pénalité !
@@ -688,10 +730,10 @@ Les Primes consistent à partir à la rencontre du monstre dessiné sur le contr
 Les monstres peuvent apparaître n'importe où ! Certains sont très dangereux, donc veillez à bien vous équiper ! (Le combat dure 10 tours maximum.)
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_07 >
-Pour vous aider dans votre quête de Gloire, tous les personnages commencent avec +1 de MOV et les étoiles obtenues en début de chapitre sont augmentées !
+Pour vous aider dans votre quête de Gloire, tous les personnages commencent avec +1 de MOV et les Étoiles obtenues en début de chapitre sont augmentées !
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_08 >
-Comme les lieux de Quêtes, les Échoppes apparaissent partout sur le plateau. Avec vos étoiles, vous pouvez y acheter de l'équipement, de la nourriture ou des cartess. Vous pouvez aussi vendre vos cartes !
+Comme les lieux de Quêtes, les Échoppes apparaissent partout sur le plateau. Avec vos Étoiles, vous pouvez y acheter de l'équipement, de la nourriture ou des cartess. Vous pouvez aussi vendre vos cartes !
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_09 >
 Notez que vos statistiques influent sur les prix des articles - les personnages moins puissants bénéficient de soldes, leur permettant ainsi de baser leur stratégie sur les objets !
@@ -738,16 +780,16 @@ Chaque poisson possède un poids et une vitesse variables. Les plus gros et les 
 Il arrive que le mini-jeu accélère de façon aléaatoire. Cela affecte la vitesse des poissons comme celle de votre hameçon !.
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_07 >
-À la fin, les scores totaux de tous les joueurs sont comparés. Des étoiles sont offertes en fonction du score, et les joueurs Deuxième et Premier gagnent respectivement 1 et 2 Victoires.
+À la fin, les scores totaux de tous les joueurs sont comparés. Des Étoiles sont offertes en fonction du score, et les joueurs Deuxième et Premier gagnent respectivement 1 et 2 Victoires.
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_08 >
-Gardez un œil sur le grill ! Vous y trouverez 3 poissons spécifiques à attraper, et gagnerez 15 points bonus si vous y parvenez !
+Gardez un œil sur le grill ! Vous y trouverez 3 poissons spécifiques, et gagnerez 50 points bonus si vous parvenez à les attraper dans l'ordre !
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_09 >
 Chaque joueur possède son propre grill, qui se réinitialise lorsque vous attrapez les 3 poissons. Tentez de le compléter autant de fois que possible !
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_10 >
-Il est aussi bon de noter que pêcher plusieurs fois le même poisson donne aussi des points bonus.
+Vous pouvez également multiplier votre score en faisant un Combo, c'est-à-dire en attrapant plusieurs fois le même poisson à la suite.
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_11 >
 Votre score de pêche à chaque partie permet de faire progresser l'évènement ! Sur ce, bonne pêche et régalez-vous !
@@ -831,7 +873,7 @@ Dans ce mode de jeu, afin d'aider les joueurs dans leur quête contre les monstr
 S'ajoute à ça un bonus de +1 MOV, qui peut être davantage amélioré dans les Échoppes.
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_11 >
-Vous pouvez gagner des étoiles en Échoppe en vendant vos cartes. Notez que tous les Échoppes n'achèteront pas vos cartes au même prix !
+Vous pouvez gagner des Étoiles en Échoppe en vendant vos cartes. Notez que tous les Échoppes n'achèteront pas vos cartes au même prix !
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_12 >
 Lorsqu'une Échoppe est couramment sollicitée, elle monte en niveau. Les Échoppes de haut niveau ont plus de réserve et vendent des objets plus rares !
@@ -914,7 +956,7 @@ Un Point de Mouvement vous permet d'avancer d'une case sur la carte de l'Évène
 Les Points de Mouvement sont utilisés automatiquement lorsque vous avancez en ligne droite.\nEn arrivant à un carrefour, ce sera à vous de choisir quelle direction prendre.
 
 < PLAYMENU_EVENT_PTS_INSTRUCTION_05 >
-Les cases peuvent donner des étoiles, des oranges, des cosmétiques au hasard, voire des récompenses d'évènements !
+Les cases peuvent donner des Étoiles, des oranges, des cosmétiques au hasard, voire des récompenses d'évènements !
 
 < PLAYMENU_EVENT_PTS_INSTRUCTION_06 >
 Qui trouvera le célèbre trésor ? L'avenir nous le dira...
@@ -965,7 +1007,7 @@ Les 3 primes disponibles seront toujours Maousse (facile), Maousse Pistache (moy
 Se rajoute à ça le fait que compléter une Quête de livraison nécessite de vaincre une Maousse à 2 PV après complétion pour obtenir la Gloire.
 
 < PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_05 >
-Enfin, un nouvel envahisseur, Maousse Chocolat Noir, arrive pour maudire les étoiles des joueurs...\nVaincre Maousse Chocolat Noir ajoute 3 points à la progression de l'évènement.
+Enfin, un nouvel envahisseur, Maousse Chocolat Noir, arrive pour maudire les Étoiles des joueurs...\nVaincre Maousse Chocolat Noir ajoute 3 points à la progression de l'évènement.
 
 < PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_06 >
 Quel secret est gardé par les Maousses, et pour quelle raison...?
@@ -989,7 +1031,7 @@ Un Fragment de Souvenir vous permet d'avancer d'une case sur la carte de l'Évè
 Les Fragments de Souvenirs sont utilisés automatiquement lorsque vous avancez en ligne droite.\nEn arrivant à un carrefour, ce sera à vous de choisir quelle direction prendre.
 
 < PLAYMENU_EVENT_WINTER2023_INSTRUCTION_05 >
-Les cases peuvent donner des étoiles, des oranges, ou des cosmétiques au hasard !
+Les cases peuvent donner des Étoiles, des oranges, ou des cosmétiques au hasard !
 
 < PLAYMENU_EVENT_WINTER2023_INSTRUCTION_06 >
 Parviendrez-vous à rassembler vos souvenirs d'antan et à sortir Lulu des ténèbres qui la hantent ?
@@ -1058,7 +1100,7 @@ Pour avancer sur le plateau de l'évènement, vous gagnez 3 Points de Mouvement 
 Chaque partie ultérieure donne 2 Points en Mode Équipe, ou 1 Point sur un autre mode.
 
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_04 >
-Les cases Orange du plateau donnent des oranges, les cases Étoile donnent des étoiles, les cases vertes Cosmétique ont une chance de donner un cosmétique aléatoire, et les cases Couronne donnent un cosmétique de l'évènement !
+Les cases Orange du plateau donnent des oranges, les cases Étoile donnent des Étoiles, les cases vertes Cosmétique ont une chance de donner un cosmétique aléatoire, et les cases Couronne donnent un cosmétique de l'évènement !
 
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_05 >
 Faites le tour du plateau au moins une fois pour terminer l'évènement ! Continuez à jouer pour débloquer encore plus de récompenses !
@@ -1109,7 +1151,7 @@ Venez à bout des défis écris sur le tableau pour gagner des points et progres
 De nouveaux défis apparaîtront quotidiennement, pensez à vérifier régulièrement !
 
 < PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_04 >
-Vous pouvez dépenser des étoiles pour remplacer les défis déjà complétés, ou ceux dont vous ne voulez pas. Attention, les prix ne feront qu'augmenter !
+Vous pouvez dépenser des Étoiles pour remplacer les défis déjà complétés, ou ceux dont vous ne voulez pas. Attention, les prix ne feront qu'augmenter !
 
 < PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_05 >
 En plus de ça, le Mode Équipe obtient un nouveau réglage : vous pouvez changer le temps de récupération après que vos deux personnages tombent KO.
@@ -1409,6 +1451,9 @@ Course aux Champis
 < MENU_CODEXSTORY_TITLE_GREATPILOT >
 Un Grand Pilote
 
+< MENU_CODEXSTORY_TITLE_FAMILYHOLIDAY >
+Vacances Familiales
+
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES >
 Participez à {0} parties en tant que {1}
 
@@ -1417,6 +1462,9 @@ Participez à {0} parties en tant que l'un de ces personnages : {1}
 
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE >
 Participez à {0} parties en mode {1}
+
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE_UNIT >
+Participez à {0} parties en mode {1} en tant que {2}
 
 < MENU_CODEXSTORY_UNLOCKCOND_EVENT >
 Complétez l'Événement "{0}"
@@ -1452,16 +1500,16 @@ n'importe quel personnage de {0}
 n'importe quel personnage
 
 < MENU_CODEXSTORY_UNLOCKCOND_DAILYCHALLENGE >
-Compléter {0} défis quotidiens
+Compléter {0} défi(s) quotidien(s)
 
 < MENU_CODEXSTORY_UNLOCKCOND_PANEL >
 Atterrir sur des cases {0}
 
 < MENU_CODEXSTORY_UNLOCKCOND_STARS >
-Obtenir {0} étoiles
+Obtenir {0} Étoiles
 
 < MENU_TASKBOARD_REROLL >
-Payer {0} étoiles pour changer de tâche ?\nNombre d'étoiles :
+Payer {0} Étoiles pour changer de tâche ?\nNombre d'Étoiles :
 
 < MENU_NORMABOARD >
 Bonus Quota

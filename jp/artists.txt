@@ -247,4 +247,7 @@ PHG
 < ARTIST_NAGARE_RALF >
 流ラルフ
 
+< ARTIST_MECHARI >
+Mechari
+
 [EOF]

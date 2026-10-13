@@ -10,12 +10,12 @@ flavor="Let's have supper together." ―Natsumi
 
 < CARD_BATTLE_COOP_SINKORSWIM >
 name=Sink or Swim
-descr=Gain -1 ATK, -1 DEF and -1 EVD. Gain +10 stars and +1 Win if you win the battle.
+descr=Gain -1 ATK, -1 DEF and -1 EVD. Gain +10 Stars and +1 Win if you win the battle.
 flavor="Alright, it's time to play the long odds!" ―Yuki
 
 < CARD_EVENT_COOP_UNPAIDWORK >
 name=Unpaid Work
-descr=Effect Duration: 1 Chapter.\nWhile in effect, players cannot be forced to lose stars.
+descr=Effect Duration: 1 Chapter.\nWhile in effect, players cannot be forced to lose Stars.
 flavor="Where's my payment!" ―Chris
 
 < CARD_EVENT_COOP_INDISCRIMINATEFIRESUPPORT >
@@ -35,7 +35,7 @@ flavor="Guys, it's snack time! Come eat!" ―Syura
 
 < CARD_BOOST_COOP_FREIGHT >
 name=Freight
-descr=When stopping on your Home panel, discard this card and gain 5 Stars.\nThis card is discarded upon use.
+descr=When stopping on your Home panel, discard this card and gain 5 Stars. No effect when played.
 flavor="You may keep all that freight, yes you may." ―Merchant
 
 < CARD_EVENT_COOP_FORCEDREVIVAL >
@@ -50,32 +50,32 @@ flavor="The Guild will betray you before too long... Keep that in mind." ―Sher
 
 < CARD_GIFT_COOP_POPPOTHESNATCHER >
 name=Poppo the Snatcher
-descr=Gain -1 DEF. Whenever passing an enemy on your turn, steal your Lvl x3 stars from them. Cannot Norma while holding this card. This card is discarded upon KO or use.
+descr=Gain -1 DEF. Whenever passing an enemy on your turn, steal your Lvl x3 Stars from them. Cannot Norma while holding this card. This card is discarded upon KO.
 flavor="Pokyakya!!" ―Poppo
 
 < CARD_TRAP_COOP_BANKOFPOPPO >
 name=Bank of Poppo
-descr=Boss loses Chapter number x2 stars, Chapter number x2 stars are deposited on this trap, and the trap stays on the board. The second unit to trigger this trap receives the lost stars.
+descr=Boss loses Chapter number x2 Stars, Chapter number x2 Stars are deposited on this trap, and the trap stays on the board. The second unit to trigger this trap receives the lost Stars.
 flavor="My money...!" ―Kai
 
 < CARD_BOOST_COOP_MYWILDFRIENDS >
 name=My Wild Friends
-descr=Summon a random friendly unit on your panel that is an available wild unit type. It gains 2 HP.\nThe summon will challenge any enemies and gives the stars it gains to the summoner. Replaces any previous summon.
+descr=Summon a random friendly unit on your panel that is an available wild unit type. It gains 2 HP.\nThe summon will challenge any enemies and gives the Stars it gains to the summoner. Replaces any previous summon.
 flavor="It's nice to relax once in a while." ―Teotoratta
 
 < CARD_BATTLE_COOP_CONTESTOFCUTENESS >
 name=Contest of Cuteness
-descr=May only be used by the attacker. The battle is decided by a contest of cuteness.\nCuteness = 10 - Max HP - ATK + EVD, but no less than 0.\nInstead of rolling for attack, both units roll two dice and add the total to their Cuteness. If one unit has a higher Cuteness, they steal 5x the player's Lvl stars and gain 1 Win. Then end the battle.
+descr=May only be used by the attacker. The battle is decided by a contest of cuteness.\nCuteness = 10 - Max HP - ATK + EVD, but no less than 0.\nInstead of rolling for attack, both units roll two dice and add the total to their Cuteness. If one unit has a higher Cuteness, they steal 5x the player's Lvl Stars and gain 1 Win. Then end the battle.
 flavor="Now tell us, who is the cutest here!?" ―Saki
 
 < CARD_BATTLE_COOP_MOUSSETHETHIEF >
 name=Mousse the Thief
-descr=If you are active at the end of the battle, Boss loses stars equal to 10x the Lvl of the next Boss card. Gain that many stars. Can only be played against the Boss.
+descr=If you are active at the end of the battle, Boss loses Stars equal to 10x the Lvl of the next Boss card. Gain that many Stars. Can only be played against the Boss.
 flavor="Wait up, that's something important to me." ―Sora
 
 < CARD_BANNER_COOP_PROTECTIONFEE >
 name=Protection Fee
-descr=When Boss or a minion stops on a Home panel, Boss loses (your Lvl) x5 stars and you gain (your Lvl) x5 stars.
+descr=When Boss or a minion stops on a Home panel, Boss loses (your Lvl) x5 Stars and you gain (your Lvl) x5 Stars.
 flavor="This is such a rip-off..." ―Lulu
 
 < CARD_EVENT_COOP_EXTREMEALTERATION >
@@ -85,7 +85,7 @@ flavor="I'll cure the disease this world's suffering from..." ―Kiriko
 
 < CARD_HYPER_COOP_ALTE >
 name=Self-Destruct
-descr=On KO, deal your max HP as damage to the enemy. Enemy gains no stars or wins, but loses half of their stars if KO'd from this effect.
+descr=On KO, deal your max HP as damage to the enemy. Enemy gains no Stars or Wins, but loses half of their Stars if KO'd from this effect.
 flavor="I'm sorry... I can't make it back..." ―Alte
 
 < CARD_HYPER_COOP_ARU >
@@ -100,28 +100,23 @@ flavor="All right, it's time to open the shop." ―Arthur
 
 < CARD_HYPER_COOP_ARUSCRAMBLE >
 name=Santa's Job
-descr=During standby, you may choose another card of usable Lvl to send to another random player. Gain stars equal to Card Lvl x5. This card is discarded upon KO or use.
+descr=During standby, you may choose another card of usable Lvl to send to another random player. Gain Stars equal to Card Lvl x5. This card is discarded upon KO.
 flavor="Children of the world, we are coming for you!" ―Aru
 
 < CARD_HYPER_COOP_CHICKEN >
 name=Golden Egg
-descr=Gain Level x 10 stars.
+descr=Gain Level x 10 Stars.
 flavor="Cluuuuck!" ―Chicken
 
 < CARD_HYPER_COOP_FERNET >
 name=Air Strike
-descr=All enemies take 1 to 2 damage. Gain 15 stars on every KO.
+descr=All enemies take 1 to 2 damage. Gain 15 Stars on every KO.
 flavor="Hmph, go down, all of you." ―Fernet
 
 < CARD_HYPER_COOP_HIME >
 name=Binding Chains
 descr=Stock Effect\nAll enemies skip their next turn. Apply "Bound" to all active enemies. Effect Duration: 2 Chapters. Gain -2 EVD and -1 MOV.
 flavor="I don't like doing this sort of thing." ―Hime
-
-< CARD_HYPER_COOP_IRU >
-name=Extended Photon Rifle
-descr=★Cost: Level x5\nDeal 1 damage to a random enemy. If KO'd, gain 1 win. Repeat as many times as your current level.
-flavor="I'll shoot you all down." ―Iru
 
 < CARD_HYPER_COOP_KAE >
 name=Blazing!
@@ -135,13 +130,8 @@ flavor="This is the privilege of the main character!" ―Kai
 
 < CARD_HYPER_COOP_KIRIKO >
 name=Final Surgery
-descr=KO all units with 1 HP. Remove 1 stack of Strange Medicine and gain 25 stars for each unit KO'd. KO'd allies gain -2 REC.
+descr=KO all units with 1 HP. Remove 1 stack of Strange Medicine and gain 25 Stars for each unit KO'd. KO'd allies gain -2 REC.
 flavor="Just hold still, I'll fix you up real quick." ―Kiriko
-
-< CARD_HYPER_COOP_KRILAEVENT >
-name=Plushie Master
-descr=Set "Dance, Long-Eared Beasts!" trap on 3-5 random panels.
-flavor="Dance, long-eared beasts!" ―Krilalaris
 
 < CARD_HYPER_COOP_KRILATRAP >
 name=Dance, Long-Eared Beasts!
@@ -165,17 +155,17 @@ flavor="Gyaoooh!" ―Maynie
 
 < CARD_HYPER_COOP_MEI >
 name=White Christsmasher
-descr=Discard your current hand and deal 2 damage to enemies within 1 panel of you.\nFor each enemy KO'd, gain a win and stars equal to your Lvl x5.\nWhen carrying "Red & Blue", this card becomes "True White Christsmasher".
+descr=Discard your current hand and deal 2 damage to enemies within 1 panel of you.\nFor each enemy KO'd, gain a Win and (your Lvl) x5 Stars.\nWhen carrying "Red & Blue", this card becomes "True White Christsmasher".
 flavor="White Christsmasher!" ―Mei
 
 < CARD_HYPER_COOP_MEITRUE >
 name=True White Christsmasher
-descr=Deal 4 damage to enemies within 2 panels of you.\nFor each enemy KO'd, gain 2 wins and stars equal to your Lvl x10.\nWhen not carrying "Red & Blue", this card becomes "White Christsmasher".
+descr=Deal 4 damage to enemies within 2 panels of you.\nFor each enemy KO'd, gain 2 Wins and (your Lvl) x10 Stars.\nWhen not carrying "Red & Blue", this card becomes "White Christsmasher".
 flavor="White Christsmasher!" ―Mei, Red & Blue
 
 < CARD_HYPER_COOP_NATH >
 name=Another Ultimate Weapon
-descr=★Cost: 10 stars per +1 ATK gained from effect.\nGain +1 ATK and DEF and an additional +1 ATK and DEF for every 10 stars spent on this card, up to +9 ATK.
+descr=★Cost: 10 Stars per +1 ATK gained from effect.\nGain +1 ATK and DEF and an additional +1 ATK and DEF for every 10 Stars spent on this card, up to +9 ATK.
 flavor="With you gone, I am their ultimate weapon now." ―Nath
 
 < CARD_HYPER_COOP_NONAME >
@@ -185,7 +175,7 @@ flavor="Hahaha! Here comes my friend!" ―NoName
 
 < CARD_HYPER_COOP_POPPO >
 name=Ubiquitous
-descr=Warp to target active enemy's panel. In addition, steal stars equal to 10x your level.
+descr=Warp to target active enemy's panel. In addition, steal (Your lvl) x10 Stars.
 flavor="Poppo! Poppopopopopo!"\n―Marie Poppo
 
 < CARD_HYPER_COOP_QPD >
@@ -195,7 +185,7 @@ flavor="My little... pudding..." ―QP
 
 < CARD_HYPER_COOP_SAKI >
 name=Big Bang Bell
-descr=Every enemy on this and 2 adjacent squares takes 2 damage, +1 for every 2 chapters since setting the trap. On KO, half of their stars go to the player who set this trap.
+descr=Every enemy on this and 2 adjacent squares takes 2 damage, +1 for every 2 chapters since setting the trap. On KO, half of their Stars go to the player who set this trap.
 flavor="Mauuuuuryaaaaaaahh!" ―Saki
 
 < CARD_HYPER_COOP_SHAM >
@@ -207,11 +197,6 @@ flavor="If you insist on staying here, I'll take you back no matter how!" ―Sha
 name=Whimsical Windmill
 descr=Fight all Bosses. The Boss goes first. During battle, gain +1 EVD.
 flavor="We just want to fly around freely." ―Sherry
-
-< CARD_HYPER_COOP_STARBREAKER >
-name=Star Blasting Fuse
-descr=Set "Invisible Bomb" on 3-5 random panels.
-flavor="Because I am Star Breaker, the blasting fuse to the world's end." ―Star Breaker
 
 < CARD_HYPER_COOP_STARBREAKER2 >
 name=Invisible Bomb
@@ -238,11 +223,6 @@ name=Magical Massacre
 descr=For each KO'd ally, deal 3 damage to all enemies.
 flavor="Disappear." ―Tomomo
 
-< CARD_HYPER_COOP_TOMOMOSWEETEATER >
-name=Magical Revenge
-descr=For each of your missing HP, a random enemy takes 1 damage. If KO'd by this, you gain 1 Win.\nWhen not held by Tomomo (Sweet Eater), this card becomes Miracle Red Bean Ice Cream.
-flavor="It's Magical Revenge time!" ―Tomomo
-
 < CARD_HYPER_COOP_TSIH >
 name=Stealth On
 descr=Effect Duration: 3 chapters.\nCannot be challenged by enemies.\nDo not trigger Encounter or Boss panels.\nEffect expires on entering battle.\nGain +2 ATK when entering battle.
@@ -253,16 +233,6 @@ name=Gamble!
 descr=Randomly deal your current max health in damage to either yourself or the boss.
 flavor="Why not use this to decide whose turn it is?" ―Yuki
 
-< CARD_HYPER_COOP_YUKIDANGEROUS >
-name=Evil Mastermind
-descr=Draw 3 trap cards from the deck and then set all trap cards in hand on random panels.
-flavor="Fear my powers!" ―Yuki
-
-< CARD_HYPER_COOP_ARTHUR >
-name=Branch Expansion Strategy
-descr=★Cost: Number of cards held x5\nTurn all your cards, including this one, into "Rbit Hobby Shop."\nYou may play one more card this turn.
-flavor="Phaaw..." ―Arthur
-
 < CARD_HYPER_COOP_MIMYUU >
 name=Evil Spy Work ― Execution
 descr=This card cannot be played.\nWhen holding this card, heal 2 HP at the end of your turn, and remove this card from the game.
@@ -270,17 +240,17 @@ flavor="You fell for it! Eat it!!" ―Mimyuu
 
 < CARD_HYPER_COOP_NATSUMI >
 name=Cooking Time
-descr=★Cost: Level x5\nAll players recover your Lvl x HP.
+descr=★Cost: Level x5\nAll players recover (your Lvl) HP.
 flavor="It's meal time!" ―Natsumi
 
 < CARD_HYPER_COOP_YUUKI_DEVIL >
 name=Devil Hand
-descr=Deal damage to a random enemy up to 5, down to 1 HP. Gain 10 stars per damage dealt. In odd-numbered chapters, this card turns into Angel Hand.
+descr=Deal damage to a random enemy up to 5, down to 1 HP. Gain 10 Stars per damage dealt. In odd-numbered chapters, this card turns into Angel Hand.
 flavor="Eat the power of the devil!" ―Yuuki
 
 < CARD_HYPER_COOP_MIO >
 name=Magical Inferno
-descr=Deal 5 damage to all enemy units on any other panel in the same uninterrupted column or row as the panel your unit is on. You gain stars from each KO'd enemy as though KO'd in battle. Then end your turn.
+descr=Deal 5 damage to all enemy units on any other panel in the same uninterrupted column or row as the panel your unit is on. You gain Stars from each KO'd enemy as though KO'd in battle. Then end your turn.
 flavor="Inferno!" ―Mio
 
 < CARD_HYPER_COOP_ISLAY >
@@ -295,22 +265,22 @@ flavor="*Cheep cheep*! Cook wants to go this way." ―Cook
 
 < CARD_HYPER_COOP_TEOTORATTA >
 name=Beast Witch
-descr=Prevent star loss caused by a Boss or its minion. Discard this card if this effect is triggered.
+descr=Prevent Star loss caused by a Boss or its minion. Discard this card if this effect is triggered.
 flavor="All beasts! Obey me!" ―Teotoratta
 
 < CARD_HYPER_COOP_CUTIES >
 name=Special Stage
-descr=★Cost: Level x10\nGo to Live Mode for (your Lvl) turns. Gain -3 MOV, can only trigger movement type panels and cannot use cards. Cannot be challenged by enemies. If an opponent ends their turn in 2 panel radius, steal (your Lvl) x5 stars from them. Ends on KO.
+descr=★Cost: Level x10\nGo to Live Mode for (your Lvl) turns. Gain -3 MOV, can only trigger movement type panels and cannot use cards. Cannot be challenged by enemies. If an opponent ends their turn in 2 panel radius, steal (your Lvl) x5 Stars from them. Ends on KO.
 flavor="We are the strongest idols!" ―Sora & Sham
 
 < CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE >
 name=Affluence (X)
-descr=Fight all Bosses. They gain -X ATK, where X = Affluence level. You cannot attack. If you are not KO'd, the opponent gives you X x 20 stars.\nIf not Affluence (4), you may instead pay this card's cost to upgrade it.\nIf not held by Fernet, this card becomes New Nobility.
+descr=Fight all Bosses. They gain -X ATK, where X = Affluence level. You cannot attack. If you are not KO'd, the opponent gives you X x 20 Stars.\nIf not Affluence (4), you may instead pay this card's cost to upgrade it.\nIf not held by Fernet, this card becomes New Nobility.
 flavor="You wish to ask me for a favor...? My my, of course I'd be ever so happy to help a friend." ―Fernet
 
 < CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE_V >
 name=Affluence (%d)
-descr=Fight all Bosses. They gain -X ATK, where X = Affluence level. You cannot attack. If you are not KO'd, the opponent gives you X x 20 stars.\nIf not Affluence (4), you may instead pay this card's cost to upgrade it.\nIf not held by Fernet, this card becomes New Nobility.
+descr=Fight all Bosses. They gain -X ATK, where X = Affluence level. You cannot attack. If you are not KO'd, the opponent gives you X x 20 Stars.\nIf not Affluence (4), you may instead pay this card's cost to upgrade it.\nIf not held by Fernet, this card becomes New Nobility.
 flavor="You wish to ask me for a favor...? My my, of course I'd be ever so happy to help a friend." ―Fernet
 
 < CARD_HYPER_COOP_SHIFU >
@@ -320,12 +290,12 @@ flavor="Everything's under my control." ―Shifu
 
 < CARD_HYPER_COOP_REIKA >
 name=Star Collector
-descr=Effect Duration: 3 Chapters.\nWhenever a player gains stars from a panel or battle KO, they gain an additional Lvl x stars.
+descr=Effect Duration: 3 Chapters.\nWhenever a player gains Stars from a panel or battle KO, they gain an additional (their Lvl) Stars.
 flavor="Fufufu, look how many stars I have here." ―Reika
 
 < CARD_HYPER_COOP_WATTY >
 name=Torrent of Magic
-descr=Effect Duration: 3 Chapters.\nGain +2 DEF. The maximum stacks of Hardened Scales are increased to 10.\nIf you gain 10 stacks of Hardened Scales, deal your Lvl x damage to the Boss, and half of that damage to all other enemies on the field.
+descr=Effect Duration: 3 Chapters.\nGain +2 DEF. The maximum stacks of Hardened Scales are increased to 10.\nIf you gain 10 stacks of Hardened Scales, deal (your Lvl) damage to the Boss, and half of that damage to all other enemies on the field.
 flavor="Th-that's dangerous... I'm sorry." ―Watty
 
 < CARD_HYPER_COOP_POMERANIUS >
@@ -365,23 +335,28 @@ flavor="Pitter-patter, pitter-patter!" ―Mimyuu
 
 < CARD_HYPER_COOP_DARKL >
 name=Lulu is an Unlucky Dragon
-descr=Can only be played with 2 HP or less. Trigger one of the following effects at random:\n-Roll a die. All enemies lose the die number x (your Lvl) x2 stars, then you gain the same amount.\n-The Boss will skip its next action.\n-All enemies lose 3 HP.
+descr=Can only be played with 2 HP or less. Trigger one of the following effects at random:\n-Roll a die. All enemies lose the die number x (your Lvl) x2 Stars, then you gain the same amount.\n-The Boss will skip its next action.\n-All enemies lose 3 HP.
 flavor="Lulu is... an unlucky dragon..." ―Dark Lulu
 
 < CARD_HYPER_COOP_GRAIN >
 name=All Guns at the Ready
-descr=Pay all stocked Cannonball Counters. Deal 1 damage to a random enemy. If the enemy is KO'd, gain 1 Win and Stars equal to 10x your level. Repeat this once for every Cannonball Counter paid.
+descr=Gain a Cannonball Counter and then pay all stocked Cannonball Counters. Deal 1 damage to a random enemy. If the enemy is KO'd, gain 1 Win and (your Lvl) x3 Stars. Repeat this once for every Cannonball Counter paid. 
 flavor="All guns at the ready... FIRE!" ―Grain
 
 < CARD_HYPER_COOP_HARUKA >
 name=Hype Bringer
-descr=Effect duration: 2 chapters.\nWhen a player suffers KO, pay Lvl x 5 stars. The player will recover instantly with full HP.
+descr=Effect duration: 2 chapters.\nWhen a player suffers KO, pay (your Lvl) x5 Stars. The player will recover instantly with full HP.
 flavor="Let's hype up the game together!" ―Haruka
 
 < CARD_HYPER_COOP_KANATA >
 name=Intellectual-Sounding Bluff
 descr=Effect Duration: 3 Chapters.\nChoose a card type (Battle/Boost/Event/Other).\nWhenever a card by that type is played, the player draws a card.
 flavor="I can see what cards you're holding." ―Kanata
+
+< CARD_HYPER_COOP_SUISHOU >
+name=Yukimura-Style Stance
+descr=Stock Effect: Next time you would take damage while defending in battle, cancel that damage and deal equal amount of damage to the unit that caused it, up to your current HP. This effect is removed upon KO.
+flavor="The Yukimura Style turns every attack aside." ―Suishou
 
 < CARD_BOSS_COOP_DOZE >
 name=Doze
@@ -400,7 +375,7 @@ flavor=
 
 < CARD_BOSS_COOP_FLIGHT >
 name=Flight
-descr=Move in reverse. Boss will deal damage equal to Boss Lvl to each enemy it encounters.
+descr=Move in reverse. Boss will deal (Boss Lvl) damage to each enemy it encounters.
 flavor=
 
 < CARD_BOSS_COOP_CHICKEN_ATTACK >
@@ -440,12 +415,12 @@ flavor=
 
 < CARD_BOSS_COOP_HEN_PECKED >
 name=Hen Pecked
-descr=Boss will deal damage equal to Boss Lvl to all players within 1 panel.
+descr=Boss will deal (Boss Lvl) damage to all players within 1 panel.
 flavor=
 
 < CARD_BOSS_COOP_SECOND_WING >
 name=Second Wing
-descr=All allies recover HP equal to Boss Lvl.
+descr=All allies recover (Boss Lvl) HP.
 flavor=
 
 < CARD_BOSS_COOP_SWARM >
@@ -455,7 +430,7 @@ flavor=
 
 < CARD_BOSS_COOP_FINAL_WARNING >
 name=Final Warning
-descr=Deal damage to a random player equal to their current HP. If Boss has less than 50% HP remaining, deal damage to a random player equal to Boss Lvl.
+descr=Deal damage to a random player equal to their current HP. If Boss has less than 50% HP remaining, deal (Boss Lvl) damage to a random player.
 flavor=
 
 < CARD_BOSS_COOP_SAVAGE_TALONS >
@@ -505,7 +480,7 @@ flavor=
 
 < CARD_BOSS_COOP_EXTENDED_PHOTON_RIFLE >
 name=Robo Beam
-descr=Deal 1 damage to a random player. Repeat once for every 5 chapters that have passed, up to Boss Lvl x 2 times.
+descr=Deal 1 damage to a random player. Repeat once for every 5 chapters that have passed, up to (Boss Lvl) x 2 times.
 flavor=
 
 < CARD_BOSS_COOP_PROTECT >
@@ -580,67 +555,67 @@ flavor=
 
 < CARD_BOSS_COOP_BIG_POPPO >
 name=From the Abyss
-descr=Summon a Big Poppo minion into the field. For every point of damage Big Poppo would deal, steal 3 stars instead. Shares stars with the Boss. Gives 100 stars from the Boss and 3 Wins on KO.\nREC 10.
+descr=Summon a Big Poppo minion into the field. For every point of damage Big Poppo would deal, steal 3 Stars instead. Shares Stars with the Boss. Gives 100 Stars from the Boss and 3 Wins on KO.\nREC 10.
 flavor=
 
 < CARD_BOSS_COOP_NAP >
 name=Nap
-descr=Drop 5 stars.
+descr=Drop 5 Stars.
 flavor=
 
 < CARD_BOSS_COOP_ELUSIVE >
 name=Elusive
-descr=Charity, then Random Warp. This turn, players lose 5x Boss Lvl stars and Boss gains 5x Boss Lvl stars every time the Boss or an active minion enters their panel.
+descr=Charity, then Random Warp. This turn, players lose (Boss Lvl) x5 Stars and Boss gains (Boss Lvl) x5 Stars every time the Boss or an active minion enters their panel.
 flavor=
 
 < CARD_BOSS_COOP_STAR_MANIA >
 name=Star Mania
-descr=Stock Effect(1):\nEvery chapter, Boss will gain +1 star for each Star Mania active.
+descr=Stock Effect(1):\nEvery chapter, Boss will gain +1 Star for each Star Mania active.
 flavor=
 
 < CARD_BOSS_COOP_POPPO_TAX >
 name=Poppo Tax
-descr=Each player not within 2 panel radius of the boss or an active minion loses 5 stars. Boss will gain 5 stars for each player affected. After that, a Random Warp event will occur.
+descr=Each player not within 2 panel radius of the boss or an active minion loses 5 Stars. Boss will gain 5 Stars for each player affected. After that, a Random Warp event will occur.
 flavor=
 
 < CARD_BOSS_COOP_TITHE >
 name=Tithe
-descr=Each player within Boss Lvl panels of the boss or an active minion loses 10 stars. Boss will gain 10 stars for each player affected.
+descr=Each player within (Boss Lvl) panels of the boss or an active minion loses 10 Stars. Boss will gain 10 Stars for each player affected.
 flavor=
 
 < CARD_BOSS_COOP_UBIQUITOUS >
 name=Ubiquitous
-descr=Boss will warp to a random active player within the furthest radius from Boss and steal player Lvl x 5 stars.\nActive Minions will warp to the closest active player and steal 5 stars.\nIf there are two or more players to choose from, pick a random one.
+descr=Boss will warp to a random active player within the furthest radius from Boss and steal (their Lvl) x 5 Stars.\nActive Minions will warp to the closest active player and steal 5 Stars.\nIf there are two or more players to choose from, pick a random one.
 flavor=
 
 < CARD_BOSS_COOP_SNATCHER >
 name=Snatcher
-descr=A random player will discard a card.\nBoss will gain 5 stars for each level of the discarded card.
+descr=A random player will discard a card.\nBoss will gain 5 Stars for each level of the discarded card.
 flavor=
 
 < CARD_BOSS_COOP_SKY_RESTAURANT_POPPO >
 name=Sky Restaurant 'Poppo'
-descr=Drop a "Sky Restaurant 'Poppo'" trap on panels boss and an active minion stand on: Fully restore HP. Pay 10 stars per healed HP to the Boss.
+descr=Drop a "Sky Restaurant 'Poppo'" trap on panels boss and an active minion stand on: Fully restore HP. Pay 10 Stars per healed HP to the Boss.
 flavor=
 
 < CARD_BOSS_COOP_SKY_RESTAURANT_POPPO_TRAP >
 name=Sky Restaurant 'Poppo'
-descr=Fully restore HP. Pay 10 stars per healed HP to the Boss.
+descr=Fully restore HP. Pay 10 Stars per healed HP to the Boss.
 flavor=
 
 < CARD_BOSS_COOP_HIGHWAY_ROBBERY >
 name=Highway Robbery
-descr=On this turn, the Boss will gain +3 ATK, move in reverse and not stop upon challenging an enemy.\nFor every point of damage the Boss would deal, steal 10 stars instead.
+descr=On this turn, the Boss will gain +3 ATK, move in reverse and not stop upon challenging an enemy.\nFor every point of damage the Boss would deal, steal 10 Stars instead.
 flavor=
 
 < CARD_BOSS_COOP_GREED >
 name=Greed
-descr=Effect Duration: 1 Chapter. Boss will gain +5 stars per damage boss or an active minion deals in battle against players.
+descr=Effect Duration: 1 Chapter. Boss will gain +5 Stars per damage boss or an active minion deals in battle against players.
 flavor=
 
 < CARD_BOSS_COOP_WARP_PHENOMENON >
 name=Warp Phenomenon
-descr=Random Warp event will happen 3 times.\nAfter each warp, steal 5 stars from and deal 1 damage to each player within 1 panel of the boss or an active minion.
+descr=Random Warp event will happen 3 times.\nAfter each warp, steal 5 Stars from and deal 1 damage to each player within 1 panel of the boss or an active minion.
 flavor=
 
 < CARD_BOSS_COOP_POPPOFORMATION >
@@ -650,22 +625,22 @@ flavor=
 
 < CARD_BOSS_COOP_TEMPTATION >
 name=Temptation
-descr=Until next Boss turn, all cards are free to play. Boss will gain 10x Card Lvl stars when a player plays a card.
+descr=Until next Boss turn, all cards are free to play. Boss will gain (Card Lvl) x10 Stars when a player plays a card.
 flavor=
 
 < CARD_BOSS_COOP_POPPO_GALAXY >
 name=Poppo Galaxy
-descr=For each 100 stars the Boss carries, it will deal 1 damage to all players not within 2 panels of the Boss or an active minion, down to 1 HP.
+descr=For each 100 Stars the Boss carries, it will deal 1 damage to all players not within 2 panels of the Boss or an active minion, down to 1 HP.
 flavor=
 
 < CARD_BOSS_COOP_DEATH_AND_TAXES >
 name=Death and Taxes
-descr=Boss will deal 1 damage to each player within 2 panels of the Boss or an active minion for every 50 stars they carry.\nFor each KO, Boss will gain 50 stars.
+descr=Boss will deal 1 damage to each player within 2 panels of the Boss or an active minion for every 50 Stars they carry.\nFor each KO, Boss will gain 50 Stars.
 flavor=
 
 < CARD_BOSS_COOP_VALUE_JUDGMENT >
 name=Value Judgment
-descr=If the total base ATK value of all players is positive, deal that much damage to all players.\nIf it is negative, heal all players instead for the same amount.\nSteal or give 10 stars for each damage dealt or healed.
+descr=If the total base ATK value of all players is positive, deal that much damage to all players.\nIf it is negative, heal all players instead for the same amount.\nSteal or give 10 Stars for each damage dealt or healed.
 flavor=
 
 < CARD_BOSS_COOP_RANSOM_NOTE >
@@ -680,7 +655,7 @@ flavor=
 
 < CARD_BOSS_COOP_POPPOCALYPSE >
 name=Poppocalypse
-descr=Effect Duration: 1 chapter.\nAll non-boss, non-home, non-warp panels turn into encounter panels. Every Poppo in the game gains +2 ATK. Wild Poppo give 5 stars per battle damage dealt to the Boss.
+descr=Effect Duration: 1 chapter.\nAll non-boss, non-home, non-warp panels turn into encounter panels. Every Poppo in the game gains +2 ATK. Wild Poppo give 5 Stars per battle damage dealt to the Boss.
 flavor=
 
 < CARD_BOSS_COOP_HOARDER >
@@ -800,12 +775,12 @@ flavor=
 
 < CARD_BOSS_COOP_RAMPAGE >
 name=Rampage
-descr=Lower Hype to 0. All players take 1 damage for each stack of Rampage. This turn, roll 2x for move and don't stop when challenging an enemy. Gain Boss Lvl x 1 HP.
+descr=Lower Hype to 0. All players take 1 damage for each stack of Rampage. This turn, roll 2x for move and don't stop when challenging an enemy. Gain (Boss Lvl) 1 HP.
 flavor=
 
 < CARD_BOSS_COOP_RAMPAGE_HYPER >
 name=Rampage
-descr=Lower Hype to 0. All players take 1 damage for each stack of Rampage. This turn, roll 2x for move and don't stop when challenging an enemy. Gain +1 permanent ATK and Boss Lvl x 1 HP.
+descr=Lower Hype to 0. All players take 1 damage for each stack of Rampage. This turn, roll 2x for move and don't stop when challenging an enemy. Gain +1 permanent ATK and (Boss Lvl) HP.
 flavor=
 
 < CARD_BOSS_COOP_HYPE >
@@ -915,57 +890,57 @@ flavor=
 
 < CARD_BOSS_COOP_IDENTITY_CRISIS >
 name=Identity Crisis
-descr=Deal 1 Damage to self. Gain 5 stars.
+descr=Deal 1 Damage to self. Gain 5 Stars.
 flavor=
 
 < CARD_BOSS_COOP_ROBO_TAX >
 name=Robo Tax
-descr=Each player not within 3 panel radius of the boss or a minion loses 5 stars. Gain 5 stars and +1 DEF until next Boss turn for each player affected.
+descr=Each player not within 3 panel radius of the boss or a minion loses 5 Stars. Gain 5 Stars and +1 DEF until next Boss turn for each player affected.
 flavor=
 
 < CARD_BOSS_COOP_PLUCK >
 name=Pluck
-descr=Deal 2 damage to all players on the same panel. Boss gains 10 stars per affected unit.
+descr=Deal 2 damage to all players on the same panel. Boss gains 10 Stars per affected unit.
 flavor=
 
 < CARD_BOSS_COOP_CATCHER >
 name=Catcher
-descr=A random player discards a card and then draws a card. Gain 5 stars per Lvl of drawn card.
+descr=A random player discards a card and then draws a card. Gain 5 Stars per Lvl of drawn card.
 flavor=
 
 < CARD_BOSS_COOP_POPPO_MARCH >
 name=Poppo March
-descr=Stock Effect (1) on Boss and all minions on the field.\nIn the next battle, gain +2 EVD. Boss gains 20 stars.
+descr=Stock Effect (1) on Boss and all minions on the field.\nIn the next battle, gain +2 EVD. Boss gains 20 Stars.
 flavor=
 
 < CARD_BOSS_COOP_PREMIUM_REGENERATION >
 name=Premium Regeneration
-descr=All units on the board heal 1 HP. Boss gains 20 stars.
+descr=All units on the board heal 1 HP. Boss gains 20 Stars.
 flavor=
 
 < CARD_BOSS_COOP_WIRELESS_CHICKEN >
 name=Wireless Chicken
-descr=If boss has less than 50% HP remaining, Boss and each other ally gains +2 ATK until the end of Boss turn and will attack each player within 1 panel of them. Gain 10 stars for each player affected.
+descr=If boss has less than 50% HP remaining, Boss and each other ally gains +2 ATK until the end of Boss turn and will attack each player within 1 panel of them. Gain 10 Stars for each player affected.
 flavor=
 
 < CARD_BOSS_COOP_ROPO_BARRAGE >
 name=RoPo Barrage
-descr=Cost: 30 stars. Effect Duration: Infinite. A random player takes 1 damage. At the start of each Boss turn, repeat this effect. The effect ends when a unit suffers KO. If the cost cannot be paid, gain 60 stars instead.
+descr=Cost: 30 Stars. Effect Duration: Infinite. A random player takes 1 damage. At the start of each Boss turn, repeat this effect. The effect ends when a unit suffers KO. If the cost cannot be paid, gain 60 Stars instead.
 flavor=
 
 < CARD_BOSS_COOP_DELUSIONAL_NUMBERS >
 name=Delusional Numbers
-descr=Cost: 20 stars. Effect Duration: 1 chapter. Boss will roll either a natural 0 or 7, and the minimum roll result is 0 when rolling 0. If the cost cannot be paid, gain 40 stars instead.
+descr=Cost: 20 Stars. Effect Duration: 1 chapter. Boss will roll either a natural 0 or 7, and the minimum roll result is 0 when rolling 0. If the cost cannot be paid, gain 40 Stars instead.
 flavor=
 
 < CARD_BOSS_COOP_SECOND_WING2 >
 name=Second Wing
-descr=Boss and all minions on board heal equal to boss Lvl. Steal 2 stars per healed HP.
+descr=Boss and all minions on board heal (Boss Lvl) HP. Steal 2 Stars per healed HP.
 flavor=
 
 < CARD_BOSS_COOP_PO_BOMBER >
 name=Po-Bomber
-descr=Cost: 5 stars per bomb. Create 2-3 invisible bomb traps on random panels.
+descr=Cost: 5 Stars per bomb. Create 2-3 invisible bomb traps on random panels.
 flavor=
 
 < CARD_BOSS_COOP_PO_BOMBER_TRAP >
@@ -975,37 +950,37 @@ flavor=
 
 < CARD_BOSS_COOP_POPPO_UNIVERSE >
 name=Poppo Universe
-descr=Cost: 50 stars. For each 50 stars boss carries, deal 1 damage to all players not within 3 panels of the boss or a minion. If the cost cannot be paid, gain 100 stars instead.
+descr=Cost: 50 Stars. For each 50 Stars boss carries, deal 1 damage to all players not within 3 panels of the boss or a minion. If the cost cannot be paid, gain 100 Stars instead.
 flavor=
 
 < CARD_BOSS_COOP_POPPOCARE >
 name=Poppocare
-descr=Revive all KO'd players to 1 HP. Warp to each player with 1 HP in random order and battle them. Gain 30 stars for each player KO'd.
+descr=Revive all KO'd players to 1 HP. Warp to each player with 1 HP in random order and battle them. Gain 30 Stars for each player KO'd.
 flavor=
 
 < CARD_BOSS_COOP_REFINED_TALONS >
 name=Refined Talons
-descr=Cost: 50 stars. Deal X damage to the player with the lowest HP and another random player, where X is the HP of the first player affected. If the cost cannot be paid, gain 100 stars instead.
+descr=Cost: 50 Stars. Deal X damage to the player with the lowest HP and another random player, where X is the HP of the first player affected. If the cost cannot be paid, gain 100 Stars instead.
 flavor=
 
 < CARD_BOSS_COOP_BEAK_OF_DEMIBIRD >
 name=Beak of the Demi-Bird
-descr=Until end of Boss turn, gain +2 ATK. Attack all players in 2 panel radius in order of the lowest HP. For each player KO'd, gain +100 stars.
+descr=Until end of Boss turn, gain +2 ATK. Attack all players in 2 panel radius in order of the lowest HP. For each player KO'd, gain +100 Stars.
 flavor=
 
 < CARD_BOSS_COOP_TURBO_CHICKEN >
 name=Turbo Chicken
-descr=Until end of Boss turn, gain +1 move die and do not stop when challenging an enemy. Gain +1 ATK and 25 stars for every player fought until end of turn.
+descr=Until end of Boss turn, gain +1 move die and do not stop when challenging an enemy. Gain +1 ATK and 25 Stars for every player fought until end of turn.
 flavor=
 
 < CARD_BOSS_COOP_BIG_PO_SPECIAL >
 name=Big Po's Special
-descr=Cost: 100 stars. Stock Effect (2): At the start of Boss turn, a random player takes (Boss Lvl) damage. If the cost cannot be paid, gain 200 stars instead.
+descr=Cost: 100 Stars. Stock Effect (2): At the start of Boss turn, a random player takes (Boss Lvl) damage. If the cost cannot be paid, gain 200 Stars instead.
 flavor=
 
 < CARD_BOSS_COOP_BALANCE_CURRENCY >
 name=Balance Currency
-descr=Steal 5 stars from each player for every positive ATK point they have. Give each player 5 stars for each negative ATK point they have.
+descr=Steal 5 Stars from each player for every positive ATK point they have. Give each player 5 Stars for each negative ATK point they have.
 flavor=
 
 < CARD_BOSS_COOP_ROOST_BOOST >
@@ -1020,7 +995,7 @@ flavor=
 
 < CARD_BOSS_COOP_PO_TECT >
 name=Po-tect
-descr=Cost: 20 stars. Stock Effect(Boss Lvl): For any damage you take, consume a stack for each up to 2 damage to lower it to 1.\nIf stacks are depleted, gain -1 DEF, -1 EVD AND -1 MOV for 3 chapters.
+descr=Cost: 20 Stars. Stock Effect(Boss Lvl): For any damage you take, consume a stack for each up to 2 damage to lower it to 1.\nIf stacks are depleted, gain -1 DEF, -1 EVD AND -1 MOV for 3 chapters.
 flavor=
 
 < CARD_BOSS_COOP_FLOAT >
@@ -1030,7 +1005,7 @@ flavor=
 
 < CARD_BOSS_COOP_WHIRL >
 name=Whirl
-descr=Every player within Boss Lvl panel radius of a minion warps to a random panel.
+descr=Every player within (Boss Lvl) panel radius of a minion warps to a random panel.
 flavor=
 
 < CARD_BOSS_COOP_BUBBLE_BATH >
@@ -1040,7 +1015,7 @@ flavor=
 
 < CARD_BOSS_COOP_ENTRY_FEE >
 name=Entry Fee
-descr=Every player within 2 panel radius of a minion loses stars equal to Boss Lvl.
+descr=Every player within 2 panel radius of a minion loses (Boss Lvl) Stars.
 flavor=
 
 < CARD_BOSS_COOP_GULP_OF_WATER >
@@ -1060,7 +1035,7 @@ flavor=
 
 < CARD_BOSS_COOP_SHOCK >
 name=Shock
-descr=Every minion deals 1 damage to every player within Boss Lvl panel radius.
+descr=Every minion deals 1 damage to every player within (Boss Lvl) panel radius.
 flavor=
 
 < CARD_BOSS_COOP_GO_FASTER >
@@ -1090,7 +1065,7 @@ flavor=
 
 < CARD_BOSS_COOP_TROPICAL_CYCLONE >
 name=Tropical Cyclone
-descr=Every minion marks a random non-warp panel. After 1 chapter, every minion warps to their marked panel and deals Boss Lvl damage to every player within 2 panel radius.
+descr=Every minion marks a random non-warp panel. After 1 chapter, every minion warps to their marked panel and deals (Boss Lvl) damage to every player within 2 panel radius.
 flavor=
 
 < CARD_BOSS_COOP_BUTTERFLY >
@@ -1100,7 +1075,7 @@ flavor=
 
 < CARD_BOSS_COOP_ZAP >
 name=Zap
-descr=Every minion deals Boss Lvl damage to every player within 1 panel radius.
+descr=Every minion deals (Boss Lvl) damage to every player within 1 panel radius.
 flavor=
 
 < CARD_BOSS_COOP_ENCOURAGE >
@@ -1155,7 +1130,7 @@ flavor=
 
 < CARD_BOSS_COOP_STAR_BLASTING_FUSE >
 name=Star-Blasting Fuse
-descr=Deal Boss Lvl damage to all other units in a 2 panel radius. Burn all panels in a 2 panel radius.
+descr=Deal (Boss Lvl) damage to all other units in a 2 panel radius. Burn all panels in a 2 panel radius.
 flavor=
 
 < CARD_BOSS_COOP_BE_CHARRED_IN_THE_BURNING_DEATH_CRISIS >
@@ -1165,7 +1140,7 @@ flavor=
 
 < CARD_BOSS_COOP_MELT_IN_THE_AZURE_FLAME >
 name=Melt in the Azure Flame
-descr=Until end of turn, deal damage equal to Boss Lvl to each unit you pass and don't stop when challenging an enemy. Panels you walk on this turn will Burn.
+descr=Until end of turn, deal (Boss Lvl) damage to each unit you pass and don't stop when challenging an enemy. Panels you walk on this turn will Burn.
 flavor=
 
 < CARD_BOSS_COOP_STAR_BLASTING_LIGHT >
@@ -1245,7 +1220,7 @@ flavor=
 
 < CARD_BOSS_COOP_BACKDOOR_SCHEME >
 name=Backdoor Scheme
-descr=Stock Effect (1) on all players. When you go to 1 HP, lose Lvl x10 stars. Effect expires upon KO.
+descr=Stock Effect (1) on all players. When you go to 1 HP, lose (your Lvl) x10 Stars. Effect expires upon KO.
 flavor=
 
 < CARD_BOSS_COOP_WARUDA_MACHINE >
@@ -1340,7 +1315,7 @@ flavor=
 
 < CARD_BOSS_COOP_BORED_BORED_BORED >
 name=Bored! Bored! Bored!
-descr=Deal damage equal to Boss Lvl to a random active player. If this damage doesn't KO the target, repeat the effect twice.
+descr=Deal (Boss Lvl) damage to a random active player. If this damage doesn't KO the target, repeat the effect twice.
 flavor=
 
 < CARD_BOSS_COOP_PRISON_BREAK >
@@ -1447,7 +1422,7 @@ flavor=
 
 < CARD_SKILL_COOP_REVIVE >
 name=Revive
-descr=Can revive an ally by paying 3 stars x remaining REC when entering their panel.
+descr=Can revive an ally by paying 3 Stars x remaining REC when entering their panel.
 flavor=
 
 < CARD_SKILL_COOP_EVASIONBOOST >

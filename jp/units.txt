@@ -529,11 +529,11 @@ descr=自身以外がスイーツ系非トラップカードを使用、また�
 
 < CARD_UNIT_SWEETMAKER >
 name=スイートメイカー
-descr=エネミーマスの効果後にアクティブの時、使用可能レベルのスイーツ系カードを1枚引く。
+descr=エネミーマスの効果発動後にアクティブの時、使用可能レベルのスイーツ系カードをデッキから1枚引く。
 
 < CARD_UNIT_SWEETBLOGGER >
 name=スイートブロガー
-descr=全てのスイーツ系カードをコストなしで使える。ドロップマスの効果後にアクティブの時、使用可能レベルのスイーツ系カードを1枚引く。
+descr=全てのスイーツ系カードをコストなしで使える。ドロップマスの効果発動後にアクティブの時、使用可能レベルのスイーツ系カードをデッキから1枚引く。
 
 < CARD_UNIT_BOSSJONATHAN_CHAOS >
 name=ビッグ・ザ・ジョナサン
@@ -650,5 +650,14 @@ descr=攻撃する時、ATK+1・EVD-1。防御する時、DEF+1。
 < CARD_UNIT_KURIE >
 name=天津栗クリエ
 descr=
+
+< CARD_UNIT_RINSE >
+name=リンセ
+descr=自身のターン開始時、「令嬢の力」を得る。ストック効果：自身が次にダメージを受けた時、自身のレベル分のスターを得る。バトルによるダメージだった場合、そのダメージを与えたユニットも同量のスターをえる。
+
+< CARD_UNIT_SUISHOU >
+name=スイショウ
+descr=バトル開始時、相手のATKの数値分、自身のATKが上昇する（上限：+3）。
+At the start of battle, gain +1 ATK for every ATK of the opponent, up to +3.
 
 [EOF]

@@ -36,7 +36,7 @@ descr=Toutes les statistiques et durées d'Effet sont doublées.
 
 < MUTATOR_FAERIZE >
 name=Féérisme
-descr=Tous les joueurs deviennent Aurore. Le personnage que vous avez choisi devient un CPU de votre équipe avec qui vous partagez les étoiles et Quota. Seuls les CPU sont capables de monter en niveau. Guidez vos CPU vers la victoire pour gagner !
+descr=Tous les joueurs deviennent Aurore. Le personnage que vous avez choisi devient un CPU de votre équipe avec qui vous partagez les Étoiles et Quota. Seuls les CPU sont capables de monter en niveau. Guidez vos CPU vers la victoire pour gagner !
 
 < MUTATOR_MAXTENSION >
 name=Maxtension
@@ -76,7 +76,7 @@ descr=Les combats durent 2 tours par défaut. Tous les 10 chapitres, toutes les 
 
 < MUTATOR_HOT_POTATO >
 name=Gremlin en Main
-descr=Un joueur au hasard obtient la Carte Cadeau "Gremlin en Main". La garder peut soit vous donner des étoiles, soit vous exploser à la figure avant de tomber dans la main d'un autre joueur.
+descr=Un joueur au hasard obtient la Carte Cadeau "Gremlin en Main". La garder peut soit vous donner des Étoiles, soit vous exploser à la figure avant de tomber dans la main d'un autre joueur.
 
 < MUTATOR_SHARING_IS_CARING >
 name=Partage Attentionné
@@ -108,7 +108,7 @@ descr=En tombant KO, vous vous relevez instantanément en tant qu'un nouveau per
 
 < MUTATOR_REVERSIBLE_FORTUNE >
 name=Fortune Réversible
-descr=Commencez avec 200 Étoiles et 14 Victoires. Gagnez la partie en perdant vos niveaux de Quota et en ayant le moins d'étoiles et de victoires possible. Le prix des cartes est divisé par deux et ne peut pas dépasser 30 étoiles.
+descr=Commencez avec 200 Étoiles et 14 Victoires. Gagnez la partie en perdant vos niveaux de Quota et en ayant le moins d'Étoiles et de victoires possible. Le prix des cartes est divisé par deux et ne peut pas dépasser 30 Étoiles.
 
 < MUTATOR_TAG_TEAM >
 name=Mode Équipe

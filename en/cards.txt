@@ -11,7 +11,7 @@ flavor="All good for now!" ―Marc
 
 < CARD_BOOST_FLIPOUT >
 name=Flip Out
-descr=Stock Effect\nNext time you land on a drop panel, the player(s) with the highest number of stars will lose the same number of stars as you.
+descr=Stock Effect\nNext time you land on a drop panel, the player(s) with the highest number of Stars will lose the same number of Stars as you.
 flavor="......!" ―Mei
 
 < CARD_BOOST_LONGSHOT >
@@ -21,7 +21,7 @@ flavor="I can hit you from anywhere." ―Iru
 
 < CARD_BOOST_NICEJINGLE >
 name=Nice Jingle
-descr=Stock Effect.\nThe next bonus panel gives you twice as many stars.
+descr=Stock Effect.\nThe next bonus panel gives you twice as many Stars.
 flavor="We've got a bunch." ―Aru
 
 < CARD_BOOST_NICEPRESENT >
@@ -46,7 +46,7 @@ flavor="Have a cookie!" ―Saki
 
 < CARD_BOOST_STIFFCRYSTAL >
 name=Stiff Crystal
-descr=Stock Effect\nThis card negates the effect of a trap card. Gain 5 stars per level of cancelled trap.
+descr=Stock Effect\nThis card negates the effect of a trap card. Gain 5 Stars per level of cancelled trap.
 flavor="Such a pain in the neck." ―Kyoko
 
 < CARD_BATTLE_BIGMAGNUM >
@@ -101,7 +101,7 @@ flavor='One glance is all it took for that pudding to steal my heart.'
 
 < CARD_TRAP_EXCHANGE >
 name=Exchange
-descr=Exchange the cards in your hand, your stars and your current panel position with the player who set this card.
+descr=Exchange the cards in your hand, your Stars and your current panel position with the player who set this card.
 flavor="Heavy..." ―Suguri\n"So drafty without my cap..." ―Marc
 
 < CARD_TRAP_FLAMETHROWER >
@@ -111,7 +111,7 @@ flavor="Heeehaaaaah!" ―Punk
 
 < CARD_TRAP_TOYSTORE >
 name=For the Future of the Toy Store
-descr=Lose half your stars. The player who set this card will gain the lost stars. This card can only be used with less than 50 stars.
+descr=Lose half your Stars. The player who set this card will gain the lost Stars. This card can only be used with less than 50 Stars.
 flavor="If only! If only there was no Santa!" ―Arthur
 
 < CARD_TRAP_GOAWAY >
@@ -136,12 +136,12 @@ flavor="Thank you for dying!" ―Mimyuu
 
 < CARD_TRAP_PIGGYBANK >
 name=Piggy Bank
-descr=Gain stars equal to five times the number of chapters passed since this card was set.
+descr=Gain Stars equal to five times the number of chapters passed since this card was set.
 flavor="Dad, can't I break the piggy yet?" ―Mescal
 
 < CARD_TRAP_PURES >
 name=Sky Restaurant 'Pures'
-descr=Lose half your stars and fully restore HP.
+descr=Lose half your Stars and fully restore HP.
 flavor="We have a guest to treat!" ―Chris
 
 < CARD_TRAP_TRAGEDY >
@@ -176,7 +176,7 @@ flavor="To the next world!" ―Marie Poppo
 
 < CARD_EVENT_HOLYNIGHT >
 name=Holy Night
-descr=Permanent Effect\nStart-of-chapter bonus stars are increased by one.
+descr=Permanent Effect\nStart-of-chapter bonus Stars are increased by one.
 flavor="Aha, that's why it's a party night." ―Hime
 
 < CARD_EVENT_LITTLEWAR >
@@ -216,7 +216,7 @@ flavor="I'm accelerating." ―Suguri
 
 < CARD_HYPER_FERNET >
 name=Air Strike
-descr=All enemies take 1 to 3 damage. Gain 15 stars on every KO.
+descr=All enemies take 1 to 3 damage. Gain 15 Stars on every KO.
 flavor="Hmph, go down, all of you." ―Fernet
 
 < CARD_HYPER_HIME >
@@ -241,7 +241,7 @@ flavor="Why not use this to decide whose turn it is?" ―Yuki
 
 < CARD_HYPER_QP >
 name=Hyper Mode
-descr=Gain +3 ATK during this battle. If your unit suffers KO during this battle, you give no stars or Wins and the unit will revive next turn.
+descr=Gain +3 ATK during this battle. If your unit suffers KO during this battle, you give no Stars or Wins and the unit will revive next turn.
 flavor="HYPER MODE!" ―QP
 
 < CARD_HYPER_TOMOMO >
@@ -251,7 +251,7 @@ flavor="Disappear." ―Tomomo
 
 < CARD_HYPER_ARU >
 name=Present for You
-descr=All players draw cards until they have a full hand. Those with full hand draw 1 card instead. Gain stars equal to 10x the number of all cards drawn.
+descr=All players draw cards until they have a full hand. Those with full hand draw 1 card instead. Gain Stars equal to 10x the number of all cards drawn.
 flavor="Presents for good boys and girls." ―Aru
 
 < CARD_HYPER_KAI >
@@ -261,12 +261,12 @@ flavor="This is the privilege of the main character!" ―Kai
 
 < CARD_HYPER_POPPO >
 name=Ubiquitous
-descr=Warp to target active enemy's panel. In addition, steal stars equal to 10x their level.
+descr=Warp to target active enemy's panel. In addition, steal (their Lvl) x10 Stars.
 flavor="Poppo! Poppopopopopo!"\n―Marie Poppo
 
 < CARD_HYPER_MARC >
 name=x16 Big Rocket
-descr=★Cost: Level x10\nDeal damage equal to your level to target enemy. A KO from this effect gives you 2 Wins.
+descr=★Cost: Level x10\nDeal (your Lvl) damage to target enemy. A KO from this effect gives you 2 Wins.
 flavor="Charged! Go!" ―Marc
 
 < CARD_HYPER_MASTER >
@@ -286,7 +286,7 @@ flavor="With this power, everything in the sky will be ours." ―Guild Master
 
 < CARD_HYPER_CHICKEN >
 name=Golden Egg
-descr=If target is Chicken, Stock Effect (3). Drop Panels will act as Bonus Panels.\nOtherwise, Stock Effect (3).\nBonus Panels will act as Drop Panels. Trap setter gains stars equal to the amount of dropped stars. 
+descr=If target is Chicken, Stock Effect (3). Drop Panels will act as Bonus Panels.\nOtherwise, Stock Effect (3).\nBonus Panels will act as Drop Panels. Trap setter gains Stars equal to the amount of dropped Stars. 
 flavor="Cluuuuck!" ―Chicken
 
 < CARD_HYPER_BALL >

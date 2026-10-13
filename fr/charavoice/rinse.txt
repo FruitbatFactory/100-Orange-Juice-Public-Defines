@@ -1,0 +1,164 @@
+<0000> Gracieusement.
+<0001> En toute splendeur.
+<0002> En toute harmonie.
+<0003> Telle une étoile.
+<0004> Et voici.
+<0005> Hihi... cette carte.
+<0006> Je sais quoi faire.
+<0007> Elle est parfaite.
+<0008> Une sournoiserie.
+<0009> Pourquoi ne pas y poser un piège ?
+<0010> Prudence est de mise.
+<0011> Ici se trouve un piège. Veuillez vous en souvenir.
+<0012> Une carte Combat.
+<0013> Puisse le combat tourner en ma faveur.
+<0014> C'en est fini de toi.
+<0015> Je vais t'achever.
+<0016> Nous ne jouons pas dans la même cour.
+<0017> Pfiou.
+<0018> Je suis toujours en course.
+<0019> Mettons un terme à cette sottise.
+<0020> Je mène mon chemin.
+<0021> Hmm...
+<0022> Le courant m'emporte.
+<0023> Mhm.
+<0024> Seigneur.
+<0025> J'ouvre les hostilités.
+<0026> Je passe à l'attaque.
+<0027> Ton chemin s'arrête ici.
+<0028> Tombe au sol.
+<0029> Guh.
+<0030> Seigneur.
+<0031> Mmm.
+<0032> Ça pique.
+<0033> Je reprends des forces.
+<0034> Il est hors de question de tomber.
+<0035> Cela va annuler les dégâts.
+<0036> Je ne tomberai pas aussi facilement.
+<0037> Un portail.
+<0038> Je pars loin.
+<0039> Est-ce là un portail ?
+<0040> Ainsi, je m'envole.
+<0041> Je suis... tombée...?
+<0042> Ma foi, c'est bien plus intéressant que prévu.
+<0043> Je ne m'attendais pas à une telle adversité.
+<0044> Me voilà dans une situation délicate.
+<0045> Tout sur l'attaque !
+<0046> Au combat.
+<0047> Je passe à l'action.
+<0048> Tombe donc.
+<0049> J'espère que tu t'es bien préparé.
+<0050> Je vais te corriger.
+<0051> Dans le rythme.
+<0052> Que la bataille commence.
+<0053> Ça va piquer.
+<0054> Désolée, mais je ne puis retenir mes coups.
+<0055> Tu n'iras pas plus loin.
+<0056> Hihi, prends ça !
+<0057> Aïe.
+<0058> Gh...
+<0059> Guh !
+<0060> Seigneur.
+<0061> C'est un problème.
+<0062> C'est douloureux.
+<0063> Je ne pensais pas en arriver là.
+<0064> Ça dépasse ma tolérance à la douleur.
+<0065> Je suis parfaitement intouchable.
+<0066> Tu y croyais réellement ?
+<0067> Cela ne suffira pas.
+<0068> Eh bien, on peut dire que c'est raté.
+<0069> Toutes mes excuses pour ce désagrément.
+<0070> La victoire me revient.
+<0071> Et voilà, c'est fini.
+<0072> Mais oui, c'est bien. Repose-toi.
+<0073> Ma foi, tu caches bien ton talent.
+<0074> Hmm, aurais-je fait une erreur ?
+<0075> Quelle merveilleuse performance.
+<0076> Il y aura des conséquences.
+<0077> Hihi, des étoiles pour moi !
+<0078> Comme c'est merveilleux.
+<0079> Je suis aux anges.
+<0080> Les étoiles viennent à moi.
+<0081> Une case malus !?
+<0082> Oh... un malus.
+<0083> Quelle malchance.
+<0084> Bon sang !
+<0085> Un piège ?
+<0086> Je me suis fait avoir comme un bleu.
+<0087> Non...
+<0088> Quel malheur.
+<0089> Un boss fait son entrée.
+<0090> La tension ne fait qu'escalader.
+<0091> J'ai comme un mauvais pressentiment.
+<0092> Prudence est de mise.
+<0093> Le quota étoiles, peut-être ?
+<0094> Oui, je sens la vague me guider.
+<0095> Allons décrocher les étoiles.
+<0096> J'espère faire le bon choix.
+<0097> Allons tous les clouer au sol.
+<0098> Je décrocherai la victoire, quitte à sortir mes griffes.
+<0099> Ce n'est qu'un jeu. Une petite guerre\nne peut pas faire de mal.
+<0100> Comme toujours, je me battrai dans l'élégance.
+<0101> Je m'appelle Sudou Rinse.
+<0102> Enchantée. Je suis Rinse,\nde l'académie "Au Vent Harmonieux".
+<0103> Allons donc jouer ensemble.
+<0104> Ça devrait être amusant.
+<0105> Ainsi, que la partie commence.
+<0106> Je vais gagner avec grâce et élégance.
+<0107> Hihihi, nous allons nous amuser.
+<0108> Méfiez-vous de moi.
+<0109> Qu'avez-vous pensé de mon pouvoir ?
+<0110> Hihi, une bien belle partie.
+<0111> Je ne me lasse jamais de cet instant.
+<0112> J'ai gagné, si je ne m'abuse.
+<0113> Nouvel objet obtenu~♪
+<0114> Est-ce là ce que tu voulais ?
+<0115> Tu as l'air aux anges. Montre-moi donc.
+<0116> Félicitations. Je suis contente pour toi.
+<0117> Prends donc le relai.
+<0118> Cette tâche te revient.
+<0119> Je me retire momentanément.
+<0120> À toi de jouer.
+<0121> Entendu.
+<0122> Bien.
+<0123> Bien sûr !
+<0124> C'est non.
+<0125> C'est bien mauvais.
+<0126> La chance nous sourit.
+<0127> Oh... eh bien...
+<0128> Allons.
+<0129> Le dé est lancé.
+<0130> Bonne chance.
+<0131> Bien le bonjour.
+<0132> Hmm... Pff...
+<0133> Magnifique.
+<0134> C'est bien mieux que ce que je pensais.
+<0135> Mmh... quel embarras.
+<0136> J'utilise la carte Hyper.
+<0137> Une situation fort inhabituelle...
+<0138> Cette carte s'utilise ainsi.
+<0139> Carte Hyper !
+<0140> Merci.
+<0141> Suishou, c'est à toi de jouer.
+<0142> Aurais-tu l'obligeance de me remplacer ?
+<0143> Je place tous mes espoirs en toi, Suishou.
+<0144> Suishou, montre-moi ta technique.
+<0145> Ne t'en fais point, Suishou. Je m'en occupe.
+<0146> Puis-je prendre ta place pour le moment ?
+<0147> Laisse-moi ta place un instant. J'aimerais jouer, moi aussi.
+<0148> Suishou, reviens.
+<0149> Comment vas-tu, Haru ?
+<0150> Cela faisait longtemps, Haru. Viens donc jouer avec Riri.
+<0151> Une partie de 100% OJ avec Haru... je suis comblée...
+<0152> Une partie de 100% OJ toutes les deux... ça me rend nostalgique.
+<0153> Kana chérie, viens jouer avec Riri.
+<0154> Toujours aussi adorable, Kana.
+<0155> Tu as tellement grandi, Kana.
+<0156> C'est toujours un plaisir de jouer avec toi, Kana.
+<0157> Je ne pensais pas encore croiser le fer avec toi, Marie.
+<0158> Marie, ai-je tort de croire que tu t'es rouillée ?
+<0159> Évidemment, il n'est pas question de se retenir, Marie.
+<0160> J'avais des doutes, mais... ta passion n'a décidément point changé.
+<0161> Oh, mais c'est ma carte.
+<0162> Ça me brise le cœur de me séparer de la carte d'Haru...
+<0163> La carte de Kana...! Il faut absolument que je la retrouve.

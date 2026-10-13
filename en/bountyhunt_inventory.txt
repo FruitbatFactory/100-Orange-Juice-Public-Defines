@@ -125,4 +125,4 @@ descr=Proof of defeating The Lost Rogue. Wielding these blades allows you to per
 
 < INVENTORY_DARKCHOCOMOUSSE >
 name=Dark Chocolate Star
-descr=Proof of defeating Dark Chocolate Mousse. Its mysterious power and sweetness grants you 3 stars for each point of damage dealt in battle. Your enemies will also lose 3 stars for each point of damage received in battle.
+descr=Proof of defeating Dark Chocolate Mousse. Its mysterious power and sweetness grants you 3 Stars for each point of damage dealt in battle. Your enemies will also lose 3 Stars for each point of damage received in battle.

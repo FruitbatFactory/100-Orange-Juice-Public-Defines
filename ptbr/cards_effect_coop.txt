@@ -44,7 +44,7 @@ descr=Role 2 de dado para tudo menos para batalhas. Este efeito acaba ao ser noc
 
 < CARD_COOP_BEASTWITCH_EFFECT >
 name=Bruxa Feroz
-descr=Não pode perder estrelas para um Chefão ou Capanga.
+descr=Não pode perder Estrelas para um Chefão ou Capanga.
 
 < CARD_COOP_BANNEDFORLIFE_EFFECT >
 name=Banido para Sempre
@@ -60,7 +60,7 @@ descr=Não pode ser desafiado por inimigos.\nNão ativa painéis de Encontro ou 
 
 < CARD_COOP_SPECIALSTAGE_EFFECT >
 name=Modo Ao Vivo
-descr=Ganhe -3 MOV, só pode ativar painéis do tipo de movimento e não pode usar cartas. Não pode ser desafiado por inimigos. Se um oponente terminar seu turno em um raio de 2 painéis, roube (seu Nível) x5 estrelas deles. Termina ao ser nocauteado.
+descr=Ganhe -3 MOV, só pode ativar painéis do tipo de movimento e não pode usar cartas. Não pode ser desafiado por inimigos. Se um oponente terminar seu turno em um raio de 2 painéis, roube (Seu Nvl) x5 Estrelas deles. Termina ao ser nocauteado.
 
 < CARD_COOP_IDEALWORLD_EFFECT >
 name=Parceiros Robóticos
@@ -92,7 +92,7 @@ descr=Gain +2 ATK.
 
 < CARD_BOSS_FLIGHT_EFFECT >
 name=Voo
-descr=Movimentação invertida. Dê dano equivalente ao nível de cada jogador que ultrapassar.
+descr=Movimentação invertida. Dê dano equivalente ao Nvl de cada jogador que ultrapassar.
 
 < CARD_BOSS_PIYOMARCH_EFFECT >
 name=Passeata dos Piyo
@@ -172,11 +172,11 @@ descr=Ganhe -1 DEF, EVD e MOV.
 
 < CARD_BOSS_ELUSIVE_EFFECT >
 name=Elusivo
-descr=Roube Nível do Chefão x 5 estrelas e o Chefão ganha Nível do Chefão x 5 estrelas toda vez que o Chefão ou um de seus capangas entrarem em seus painéis.
+descr=Roube (Nvl do Chefão) x5 Estrelas e o Chefão ganha (Nvl do Chefão) x5 Estrelas toda vez que o Chefão ou um de seus capangas entrarem em seus painéis.
 
 < CARD_BOSS_STARMANIA_EFFECT >
 name=Mania Estelar
-descr=Todo capítulo, ganhe estrelas equivalente ao seu estoque.
+descr=Todo capítulo, ganhe Estrelas equivalente ao seu estoque.
 
 < CARD_BOSS_ROBOTAX_EFFECT >
 name=Imposto é Robô
@@ -184,11 +184,11 @@ descr=Ganhe +1 DEF para cada estoque.
 
 < CARD_BOSS_HIGHWAYROBBERY_EFFECT >
 name=Roubo na Rodovia
-descr=Ganhe +3 ATK.\nMovimente-se em reverso e não pare até desafiar um jogador.\nPara cada ponto de dano que o Chefe teria dado, roube 10 estrelas no lugar.
+descr=Ganhe +3 ATK.\nMovimente-se em reverso e não pare até desafiar um jogador.\nPara cada ponto de dano que o Chefe teria dado, roube 10 Estrelas no lugar.
 
 < CARD_BOSS_GREED_EFFECT >
 name=Ganância
-descr=Ganhe 5 estrelas por dano que você ou capanga ativo desferir em batalha.
+descr=Ganhe 5 Estrelas por dano que você ou capanga ativo desferir em batalha.
 
 < CARD_BOSS_CHASE_EFFECT >
 name=Caça
@@ -224,7 +224,7 @@ descr=Ganhe +1 ATK, +1 DEF e -1 EVD.\nPerca 1 Hype ao tomar dano em batalha.\nPe
 
 < CARD_BOSS_RAMPAGE_EFFECT >
 name=Alvoroço
-descr=Ganhe Nível do Chefão x 1 HP.
+descr=Ganhe (Nvl do Chefão) x1 HP.
 
 < CARD_BOSS_RAMPAGEHYPER_EFFECT >
 name=Alvoroço
@@ -244,7 +244,7 @@ descr=Ganhe +2 EVD.
 
 < CARD_BOSS_TURBOCHICKEN_EFFECT >
 name=Galinha Turbo
-descr=Ganhe +1 movimento de dado e não pare ao desafiar um jogador. Ganhe +1 ATK e 25 estrelas para cada jogador enfrentado até o fim do turno.
+descr=Ganhe +1 movimento de dado e não pare ao desafiar um jogador. Ganhe +1 ATK e 25 Estrelas para cada jogador enfrentado até o fim do turno.
 
 < CARD_BOSS_SWARM_EFFECT >
 name=Enxame
@@ -296,7 +296,7 @@ descr=Move para seu painel de Casa sem ativá-lo. Não pode ser desafiada ou ser
 
 < CARD_COOP_POPPOSNATCHER_EFFECT >
 name=Poppo, a Ladra
-descr=Ganhe -1 de Defesa. Sempre que passar por um inimigo em seu turno, roube [nível do alvo x 3] estrelas dele. Não pode concluir Norma.
+descr=Ganhe -1 de Defesa. Sempre que passar por um inimigo em seu turno, roube (Nvl do Alvo) x3 Estrelas dele. Não pode concluir Norma.
 
 < CARD_COOP_INTELLECTUALBLUFF_EFFECT >
 name=Blefe Pseudointelectual
@@ -324,7 +324,7 @@ descr=Quando você ativar uma armadilha, descarte todas as cartas da sua mão.
 
 < CARD_COOP_BACKDOOR_SCHEME_EFFECT >
 name=Esquema da Porta dos Fundos
-descr=Quando você ficar com 1 HP, perca Nvl x10 estrelas. Efeito expira em nocaute.
+descr=Quando você ficar com 1 HP, perca Nvl x10 Estrelas. Efeito expira em nocaute.
 
 < CARD_COOP_WARUDA_MACHINE_EFFECT >
 name=Máquina Waruda

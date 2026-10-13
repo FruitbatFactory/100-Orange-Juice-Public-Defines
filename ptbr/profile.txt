@@ -267,13 +267,13 @@ Evento das Travessuras
 Jogadas do Tolo
 
 <PROFILE_GALLERY_SUMMER2022EVENT>
-Evento de Caminho Para Segredos
+Evento de Caminho Para os Segredos
 
 <PROFILE_GALLERY_WINTER2022EVENT>
 Choque de Bolos
 
 <PROFILE_GALLERY_SUMMER2023EVENT>
-Caudas de Tesouro
+Seguidores de Tesouro
 
 <PROFILE_GALLERY_WINTER2023EVENT>
 Reparadores de Memórias
@@ -742,11 +742,35 @@ Ganhe uma partida como {}.
 <PROFILE_TRACKER_MOUSSE_COSTUME>
 Marie Poppo (roupa de Mousse)
 
+<PROFILE_TRACKER_INSTRUCTION_TRAVERSE_PANEL_COUNT>
+Atravesse {} painéis.
+
+<PROFILE_TRACKER_INSTRUCTION_PLAY_ON_FIELDS_CONDITION>
+Jogue {0} partida(s) em campos com {1}.
+
+<PROFILE_TRACKER_INSTRUCTION_WATER_BACKGROUND>
+Um fundo com temática de água
+
 <PROFILE_TRACKER_NAVIGATION_GO>
 Vá!
 
 <PROFILE_TRACKER_NAVIGATION_GO_TO_SHOP>
 Vá para a Loja
+
+<PROFILE_MESSAGE_AUTO_CLEAR>
+Progresso para {} foi completado retroativamente.
+
+<PROFILE_TRACKER_INSTRUCTION_COMPLETE_QUESTS>
+Complete {0} {1} em Caça de Recompensa.
+
+<PROFILE_TRACKER_INSTRUCTION_BUY_ITEMS>
+Compre {0} itens de {1} em Caça de Recompensa.
+
+<PROFILE_TRACKER_INSTRUCTION_DELIVERY_QUEST>
+Missão(ões) de Entrega
+
+<PROFILE_TRACKER_INSTRUCTION_BAKERY_INN>
+a Padaria ou o Hotel
 
 [EOF]
 

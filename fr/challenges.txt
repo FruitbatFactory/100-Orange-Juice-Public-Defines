@@ -1,5 +1,5 @@
 < CHALLENGE_TOOLTIP_REROLL >
-Obtenez un nouveau défi du même type pour %d étoiles.
+Obtenez un nouveau défi du même type pour %d Étoiles.
 
 < CHALLENGE_TOOLTIP_STARCOUNT >
 Total d'Étoiles : %d
@@ -11,7 +11,7 @@ Participez à %d parties.
 Remportez %d partie(s).
 
 < CHALLENGE_GENERIC_STARS >
-Amassez %d étoiles.
+Amassez %d Étoiles.
 
 < CHALLENGE_GENERIC_KOS >
 Obtenez %d Victoires.
@@ -86,7 +86,7 @@ Participez à %d partie(s) sur %s ou %s.
 Faites tomber %d joueurs KO avec le dé chocolat.
 
 < CHALLENGE_TYPE_EVENT_VDAY_HEARTS >
-Amassez %d étoiles avec le dé cœur.
+Amassez %d Étoiles avec le dé cœur.
 
 < CHALLENGE_TYPE_EVENT_XMAS_ICE >
 Glissez sur %d cases gelées.

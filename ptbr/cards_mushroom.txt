@@ -53,10 +53,10 @@ descr=Ganhe +%d MOV na sua próxima rolagem de movimento.
 descr=Ganhe -%d MOV na sua próxima rolagem de movimento.
 
 < CARD_SHROOM_GAINSTARS >
-descr=Ganhe Nível x %d em estrelas.
+descr=Ganhe Nvl x%d em Estrelas.
 
 < CARD_SHROOM_LOSESTARS >
-descr=Perca Nível x %d em estrelas.
+descr=Perca Nvl x%d em Estrelas.
 
 < CARD_SHROOM_HEALTHUP >
 descr=Ganhe %d de vida.
@@ -110,10 +110,10 @@ descr=Compre 2 cartas.
 descr=Descarte uma carta aleatória.
 
 < CARD_SHROOM_WIN >
-descr=Ganhe 1 vitória.
+descr=Ganhe 1 Vitória.
 
 < CARD_SHROOM_LEGEND_STARS >
-descr=Ganhe +Lvl estrelas de todas as fontes. Em Nocaute de Batalha, vencedor rouba esta carta se for um jogador.
+descr=Ganhe +Lvl Estrelas de todas as fontes. Em Nocaute de Batalha, vencedor rouba esta carta se for um jogador.
 
 < CARD_SHROOM_LEGEND_WINS >
 descr=Ganhe +1 Vitória de todas as fontes. Em Nocaute de Batalha, vencedor rouba esta carta se for um jogador.

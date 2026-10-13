@@ -14,18 +14,56 @@ NUEVA PARTIDA
 < MAINMENU_LOADGAME >
 CONTINUAR
 
+< CREATE_PROFILE_IN_SLOT >
+Crear Perfil
+
+< CREATE_PROFILE_NAME >
+Nombre
+
+< CREATE_PROFILE_CONFIRM >
+Confirmar
+
+< CREATE_PROFILE_CANCEL >
+Cancelar
+
+< CREATE_PROFILE_DELETE_SLOT >
+Borrar Perfil
+
+< CREATE_PROFILE_WARNING >
+¡Esta acción no podrá revertirse!
+
+< CREATE_PROFILE_PROFILE >
+Perfil
+
+< CREATE_PROFILE_SELECT_UNIT >
+Seleccionar Unidad
+
+< SELECT_PROFILE_STARS >
+Estrellas
+
+< SELECT_PROFILE_EMPTY_SLOT >
+Perfil Vacío
+
+< SELECT_PROFILE_CARDS >
+Cartas
+
+< MAINMENU_LOADGAME_SELECT >
+CARGAR PARTIDA
+
 < MAINMENU_CONFIGURATION >
 CONFIGURACIÓN
 
 < MAINMENU_EXIT >
 SALIR
 
-
 < MENU_BUTTON_OK >
 OK
 
 < MENU_BUTTON_BACK >
 ATRÁS
+
+< MAINMENU_CHANGEPROFILE >
+CAMBIAR PERFIL
 
 < MENU_BUTTON_HOME >
 INICIO
@@ -726,13 +764,13 @@ El minijuego podrá aumentar su velocidad de forma aleatoria. Esto significa que
 Todos los jugadores son clasificados por el puntaje de sus peces al fin de la fase de pesca. Los jugadores serán recompensados con Victorias basadas en la clasificación y Estrellas basadas en la puntuación.
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_08 >
-¡Mira a la parrilla, siempre tiene un conjunto de 3 peces para atrapar! ¡Al atraparlos todos recibirás 15 puntos adicionales!
+¡Mira a la parrilla! ¡Siempre tiene un conjunto de 3 peces para atrapar, y atrapárlos a todos en orden te otorgará 50 puntos adicionales!
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_09 >
 ¡Todos tendrán su propia parrilla, así que intenta ser más rápido que los demás!
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_10 >
-Además, atrapar al mismo tipo de pez muchas veces seguidas otorgará puntos adicionales.
+Además, atrapar al mismo tipo de pez muchas veces seguidas otorgará un multiplicador de Combo que cuenta hacia tu puntaje.
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_11 >
 Tu puntuación total en cada partida será contada en tú progreso del evento. ¡A comer!
@@ -1388,6 +1426,9 @@ Guerra de Hongos
 < MENU_CODEXSTORY_TITLE_GREATPILOT >
 Un Gran Piloto
 
+< MENU_CODEXSTORY_TITLE_FAMILYHOLIDAY >
+Vacación Familiar
+
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES >
 Juega {0} partidas como {1}.
 
@@ -1396,6 +1437,9 @@ Juega {0} partidas como una de las siguientes unidades: {1}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE >
 Juega {0} partidas en el modo {1}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE_UNIT >
+Juega {0} partidas en el modo {1} como {2}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_EVENT >
 Completa "{0}" evento.
@@ -1431,7 +1475,7 @@ cualquier personaje de {0}
 cualquier Unidad
 
 < MENU_CODEXSTORY_UNLOCKCOND_DAILYCHALLENGE >
-Completa {0} desafíos diarios.
+Completa {0} desafío(s) diario(s).
 
 < MENU_CODEXSTORY_UNLOCKCOND_PANEL >
 Cae en paneles de {0}.

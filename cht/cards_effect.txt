@@ -180,7 +180,7 @@ descr=每層儲備使HP上限-1。
 
 < CARD_CUTIES_EFFECT >
 name=闖入活動
-descr=從獎勵格獲得STAR時額外獲得1個。
+descr=從獎勵格獲得STAR時額外獲得1顆。
 
 < CARD_SPECIALSTAGE_EFFECT >
 name=演唱會模式
@@ -325,7 +325,7 @@ descr=被戰鬥擊倒時對方獲得雙倍WIN。\n倒下時效果結束。
 
 < CARD_SWEETDESTROYER_EFFECT >
 name=甜點的破壞者
-descr=抽取的所有非HYPER甜點類卡片隨機永久變為「危險布丁」或「糟糕的布丁」。
+descr=所有進入手牌的非HYPER甜點類卡片隨機永久變為「危險布丁」或「糟糕的布丁」。
 
 < CARD_LONELYCHARIOT_EFFECT >
 name=孤獨的暴走車
@@ -337,7 +337,7 @@ descr=使用卡片無需COST。
 
 < CARD_SANTASJOB_EFFECT >
 name=聖誕小姐的工作
-descr=在待命時，可以選擇1張可用等級的手牌轉讓給另1名隨機玩家。\n獲得轉讓卡片的等級×5的STAR。
+descr=在待命時，可以選擇1張可用等級的手牌轉讓給另1名隨機玩家。\n你獲得轉讓卡片的等級×5的STAR。
 
 < CARD_BANNEDFORLIFE_EFFECT >
 name=永久驅逐
@@ -361,7 +361,7 @@ descr=當其他玩家在遭遇格的戰鬥中失去STAR，且這些STAR將由遭
 
 < CARD_UNLUCKYCHARM_EFFECT >
 name=不幸護符
-descr=在回合開始時失去等級數的STAR。
+descr=在回合開始時失去你等級數的STAR。
 
 < CARD_WINDYENCHANTMENT_EFFECT >
 name=疾風附魔
@@ -385,11 +385,11 @@ descr=在回合開始時失去1點HP。每造成1點傷害時恢復1點HP。\n�
 
 < CARD_LUCKYCHARM_EFFECT >
 name=幸運護符
-descr=在回合開始時獲得等級數的STAR。\n無法使用其它卡片。\n被戰鬥擊倒時，需額外給予等級×3的STAR。
+descr=在回合開始時獲得你等級數的STAR。\n無法使用其它卡片。\n被戰鬥擊倒時，須額外交出你等級×3的STAR。
 
 < CARD_MONOCOQUE_EFFECT >
 name=全金屬單體結構
-descr=受到戰鬥外效果的造成傷害時，這個傷害降低1點，失去等級×2的STAR。
+descr=受到戰鬥外效果的造成傷害時，這個傷害降低1點，失去你等級×2的STAR。
 
 < CARD_SAINTEYES_EFFECT >
 name=聖露眼
@@ -437,7 +437,7 @@ descr=在你的回合開始時，恢復儲備層數的HP。
 
 < CARD_RADAR_EFFECT >
 name=觀察者
-descr=獲悉所有怪物的所在地點。
+descr=獲悉所有魔物的所在地點。
 
 < CARD_PRECISIONGOGGLES_EFFECT >
 name=目光敏銳
@@ -703,7 +703,7 @@ descr=無法被挑戰或被其他玩家的增益卡指定為目標。\n免疫來
 
 < CARD_MOTHERPOWER_EFFECT >
 name=母親之力
-descr=你受到的每點傷害使你獲得等級數的STAR。\n當效果在存活時結束或被刷新，恢復所有HP。\n倒下時效果結束。
+descr=你受到的每點傷害使你獲得你等級數的STAR。\n當效果在存活時結束或被刷新，恢復所有HP。\n倒下時效果結束。
 
 < CARD_HYPERMIRACLE_EFFECT >
 name=艾莉的超能奇蹟
@@ -767,7 +767,7 @@ descr=當其他玩家倒下時，獲得其等級×5的STAR。\n當有多個「�
 
 < CARD_INTELLECTUALBLUFF_EFFECT >
 name=故弄玄虛
-descr=當你使用的下一張卡片：\n·符合指定者暗自選擇：其獲得2WIN和等級×10的STAR。\n·僅符合指定者宣稱：其受到2點傷害。
+descr=當你使用的下一張卡片：\n·符合指定者暗自選擇：其獲得2WIN和你等級×10的STAR。\n·僅符合指定者宣稱：其受到2點傷害。
 
 < CARD_TICKEDOFF_EFFECT >
 name=你把我惹毛了！
@@ -775,7 +775,7 @@ descr=如果你在戰鬥開始時HP為1，ATK+2。
 
 < CARD_LONGARMS_EFFECT >
 name=手長腳也長
-descr=你可以多花5顆STAR將陷阱放置在5×5的範圍內。所有非陷阱、非禮物的卡片等級+1（上限為5）。
+descr=你可以多花5顆STAR將陷阱放置在5×5的範圍內。所有非陷阱、非禮物的卡片使用等級+1（上限為5）。
 
 < CARD_BURNINGPANEL_EFFECT >
 name=燃燒中的格子
@@ -817,6 +817,14 @@ descr=在你將因戰鬥傷害倒下時，殘留1點HP。
 name=老師的決心
 descr=在觸發抽卡、移動、傳送、傳送移動或隨機格後，恢復1點HP。
 
+< CARD_EFFECT_RINSE_YOUNGLADYPOWER >
+name=千金的力量
+descr=下次受到傷害時，獲得你等級數的STAR。此效果無法疊加。
+
+< CARD_EFFECT_RINSE_FIERCEYOUNGLADY >
+name=勇猛千金
+descr=下次受到戰鬥傷害時，每點受到的傷害（超過9時按9計算）使你獲得你等級×2的STAR。若你在該場戰鬥的戰鬥卡花費大於等於此效果獲得的STAR，戰鬥結束時恢復所有HP。\n倒下時效果結束。
+
 < CARD_EFFECT_CHAOS_GM_TRAPCARD >
 name=陷阱卡
 descr=將1張隨機的陷阱卡放置在隨機的格子上。
@@ -835,7 +843,7 @@ descr=所有角色立即受到1點傷害。
 
 < CARD_EFFECT_CHAOS_GM_PAYCHECK >
 name=工資
-descr=你的角色立即獲得等級×5的STAR。
+descr=你的角色立即獲得你等級×5的STAR。
 
 < CARD_EFFECT_CHAOS_GM_GLORYOFBATTLE >
 name=戰鬥的榮耀
@@ -911,7 +919,7 @@ descr=所有角色立即受到1～3點傷害。
 
 < CARD_EFFECT_CHAOS_GM_KAILOSTWALLET >
 name=凱弄丟的錢包
-descr=你的角色立即獲得1、10、15、25、50或100個STAR。
+descr=你的角色立即獲得1、10、15、25、50或100顆STAR。
 
 < CARD_EFFECT_CHAOS_GM_FORCEDWARP >
 name=強制傳送

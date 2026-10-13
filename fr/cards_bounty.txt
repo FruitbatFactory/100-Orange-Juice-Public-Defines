@@ -10,17 +10,17 @@ flavor=
 
 < CARD_BOUNTY_MOUSSE_HUNT >
 name=Miké Maousse
-descr=En combat, Miké Maousse vole votre niveau en étoiles à chaque fois qu'elle vous touche.
+descr=En combat, Miké Maousse vole (votre Niv.) Étoiles à chaque fois qu'elle vous touche.
 flavor=
 
 < CARD_BOUNTY_STRANGEMOUSSE_HUNT >
 name=Maousse Pistache
-descr=En combat, Maousse Pistache vole votre niveau en étoiles à chaque fois qu'elle vous touche.
+descr=En combat, Maousse Pistache vole (votre Niv.) Étoiles à chaque fois qu'elle vous touche.
 flavor=
 
 < CARD_BOUNTY_POWERMOUSSE_HUNT >
 name=Maousse Framboise
-descr=En combat, Maousse Framboise vole votre niveau en étoiles à chaque fois qu'elle vous touche.
+descr=En combat, Maousse Framboise vole (votre Niv.) Étoiles à chaque fois qu'elle vous touche.
 flavor=
 
 < CARD_BOUNTY_DOLL_HUNT >
@@ -184,7 +184,7 @@ flavor="Ça facilite énormément ton voyage... le temps que ce gadget fonctionn
 
 < CARD_HYPER_BOUNTY_ELLIE >
 name=Miracle d'Ellie
-descr=★Coût: Niv. x10\nDurée de l'Effet: 2 chapitres\n+1 ATK par Quota validé\n+1 DEF par unité de Gloire / 5\n+1 EVD par étoile / 50.
+descr=★Coût: Niv. x10\nDurée de l'Effet: 2 chapitres\n+1 ATK par Quota validé\n+1 DEF par unité de Gloire / 5\n+1 EVD par Étoile / 50.
 flavor="Reçois mon miracle !" ―Ellie
 
 < CARD_BOUNTY_SCRAMBLED_EVE >

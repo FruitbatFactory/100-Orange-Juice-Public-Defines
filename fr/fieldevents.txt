@@ -73,7 +73,7 @@ descr=1/3 des cases du plateau deviennent gelées pendant un tour.\n\nFréquence
 
 < FIELDEVENT_TREASURE >
 name=Trésor
-descr=Pose un coffre enfermant des étoiles ou une Carte Hyper au hasard sur le plateau.\nArrêtez-vous sur le coffre pour l'ouvrir.\n\nFréquence : À chaque chapitre
+descr=Pose un coffre renfermant des Étoiles ou une Carte Hyper au hasard sur le plateau.\nArrêtez-vous sur le coffre pour l'ouvrir.\n\nFréquence : À chaque chapitre
 
 < FIELDEVENT_AMP >
 name=Amplification

@@ -180,7 +180,7 @@ descr=DEF、EVD和MOV-1。
 
 < CARD_BOSS_ELUSIVE_EFFECT >
 name=飘忽不定
-descr=BOSS经过敌人时偷取等级数×5的STAR。\n如果不是BOSS角色，STAR将会给予存活的BOSS。
+descr=经过敌人时偷取BOSS等级×5的STAR。\n如果不是BOSS角色，STAR将会给予存活的BOSS。
 
 < CARD_BOSS_STARMANIA_EFFECT >
 name=星星狂热
@@ -228,7 +228,7 @@ descr=ATK+5，在挑战敌人时不会停步。\n每击倒1名玩家获得2点�
 
 < CARD_BOSS_HYPEITUP_EFFECT >
 name=兴奋起来
-descr=ATK和DEF+1，EVD-1。\n在战斗中受到伤害时失去1点兴奋。\n被战斗击倒时失去2点兴奋。
+descr=ATK和DEF+1，EVD-1。\n受到战斗伤害时失去1点兴奋。\n被战斗击倒时失去2点兴奋。
 
 < CARD_BOSS_RAMPAGE_EFFECT >
 name=撒野
@@ -324,7 +324,7 @@ descr=当你触发陷阱时，丢弃所有手牌。
 
 < CARD_COOP_BACKDOOR_SCHEME_EFFECT >
 name=暗箱操作
-descr=当你HP降至1时，失去等级×10的STAR。\n倒下时效果结束。
+descr=当你HP降至1时，失去你等级×10的STAR。\n倒下时效果结束。
 
 < CARD_COOP_WARUDA_MACHINE_EFFECT >
 name=阴谋机器人

@@ -36,7 +36,7 @@ descr=All stats and durations are multiplied by 2.
 
 < MUTATOR_FAERIZE >
 name=Faerize
-descr=All players will be changed into Aurora. A friendly bot taking over the unit you chose initially will join you on your panel, and share wins and stars. Your friendly bot is the only unit capable to norma. Guide your bot to victory to win the game.
+descr=All players will be changed into Aurora. A friendly bot taking over the unit you chose initially will join you on your panel, and share Wins and Stars. Your friendly bot is the only unit capable to norma. Guide your bot to victory to win the game.
 
 < MUTATOR_MAXTENSION >
 name=Maxtension
@@ -76,7 +76,7 @@ descr=All battles last 2 rounds by default. Every 10 chapters, turn all panels i
 
 < MUTATOR_HOT_POTATO >
 name=Hold the Gremlin
-descr=A random player gains a "Hold the Gremlin" gift card. Holding onto it will either give you stars or explode before being forcibly sent to another player.
+descr=A random player gains a "Hold the Gremlin" gift card. Holding onto it will either give you Stars or explode before being forcibly sent to another player.
 
 < MUTATOR_SHARING_IS_CARING >
 name=Sharing is Caring
@@ -108,7 +108,7 @@ descr=Revive instantly when KO'd. When revived, change to a randomly designated 
 
 < MUTATOR_REVERSIBLE_FORTUNE >
 name=Reversible Fortune
-descr=Start with 200 Stars, and 14 Wins. Win the game by losing Norma levels, and reaching either 0 Stars or 0 Wins. Card cost is halved and cannot exceed 30 stars.
+descr=Start with 200 Stars, and 14 Wins. Win the game by losing Norma levels, and reaching either 0 Stars or 0 Wins. Card cost is halved and cannot exceed 30 Stars.
 
 < MUTATOR_TAG_TEAM >
 name=Tag Team

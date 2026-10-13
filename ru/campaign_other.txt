@@ -115,10 +115,10 @@
 Суишо
 
 < CAMPAIGN_CHARACTER_EXTROVERT >
-Харука (Экстроверт)
+Экстроверт
 
 < CAMPAIGN_CHARACTER_GENIUS >
-Каната (Гений)
+Гений
 
 < CAMPAIGN_CHARACTER_RENKO >
 Ренко

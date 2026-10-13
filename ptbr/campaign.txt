@@ -257,5 +257,11 @@ Missão extra está agora disponível! Nós recomendamos terminar primeiro Poder
 < CAMPAIGN_WINTER2023_MESSAGE >
 Missão extra está agora disponível: "%s"!
 
+< CAMPAIGN_FIRST_CLEAR_MESSAGE >
+Parabéns! Você agora pode destravar as campanhas de {} comprando sua carta de unidade tanto na tela de Loja ou clicando em sua campanha aqui.
+
+< CAMPAIGN_BUY_UNIT_CONFIRM >
+Deseja comprar a carta de unidade de {0} por {1} estrelas e destravar essa campanha?
+
 [EOF]
 

@@ -119,11 +119,11 @@ descr=You may throw items two panels further. This can be purchased only once.
 
 < ITEM_MERCENARY >
 name=Mercenary
-descr=Summon a Mercenary on the field. It will attack any unit (excepted the summoner) when passing them on the field. If a unit is KO'd by the Mercenary, 50% of the stars lost go to the player, and the rest to the Mercenary.
+descr=Summon a Mercenary on the field. It will attack any unit (excepted the summoner) when passing them on the field. If a unit is KO'd by the Mercenary, 50% of the Stars lost go to the player, and the rest to the Mercenary.
 
 < ITEM_PHILOSOPHERSTONE >
 name=Philosopher's Stone
-descr=Gain +4 stars each chapter, and +1 extra star every 5 chapters. Can only be purchased once, for the cost of all your stars (minimum 120).
+descr=Gain +4 Stars each chapter, and +1 extra Star every 5 chapters. Can only be purchased once, for the cost of all your Stars (minimum 120).
 
 < ITEM_REC_BOOST_LV1 >
 name=Potion of Vigor
@@ -143,7 +143,7 @@ descr=Permanently reduce your REC by 1. This can be purchased only once.
 
 < ITEM_GUARDIAN >
 name=Guardian
-descr=Summon a Guardian on the field. It will scout and fight any Bounty quests you are holding. Cannot challenge other players, but other players can challenge it.\nLevel: Your level at the time of summoning.\nHeld stars: Cost of summoning.
+descr=Summon a Guardian on the field. It will scout and fight any Bounty quests you are holding. Cannot challenge other players, but other players can challenge it.\nLevel: Your level at the time of summoning.\nHeld Stars: Cost of summoning.
 
 < ITEM_FAE >
 name=Aurora

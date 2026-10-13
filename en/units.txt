@@ -5,7 +5,7 @@ descr=In battle, see a random battle card from the opponent's hand. On Self-dest
 
 < CARD_UNIT_ARTHUR >
 name=Arthur
-descr=Gain X additional stars from Bonus panels and Shops, where X is the number of Shops in play, up to current Lvl.
+descr=Gain X additional Stars from Bonus panels and Shops, where X is the number of Shops in play, up to current Lvl.
 
 < CARD_UNIT_ARU >
 name=Aru
@@ -33,15 +33,15 @@ descr=Gain -1 ATK, -1 DEF and +1 die when rolling attack for each Chicken minion
 
 < CARD_UNIT_BOSS_POPPO >
 name=Star Devourer
-descr=Players gain 2x chapter star bonus. When damaged in battle, gain +1 DEF until end of chapter. This effect can stack. Deal +1 battle damage per 300 stars held. Gain 5 or give out 3 stars for each battle damage dealt or taken against players. Hold 1000 stars: win the game. 0 stars: lose the game.
+descr=Players gain 2x chapter Star bonus. When damaged in battle, gain +1 DEF until end of chapter. This effect can stack. Deal +1 battle damage per 300 Stars held. Gain 5 or give out 3 Stars for each battle damage dealt or taken against players. Hold 1000 Stars: win the game. 0 Stars: lose the game.
 
 < CARD_UNIT_BOSS_POPPO_HYPER >
 name=Star Devourer
-descr=Players gain 2x chapter star bonus. When damaged in battle, gain +1 DEF until end of chapter. This effect can stack. Deal +1 battle damage per 300 stars held and gain 5 stars for each battle damage dealt against players. Hold 1000 stars: win the game. 0 stars: lose the game.
+descr=Players gain 2x chapter Star bonus. When damaged in battle, gain +1 DEF until end of chapter. This effect can stack. Deal +1 battle damage per 300 Stars held and gain 5 Stars for each battle damage dealt against players. Hold 1000 Stars: win the game. 0 Stars: lose the game.
 
 < CARD_UNIT_BIG_POPPO >
 name=Big Poppo
-descr=For every point of damage Big Poppo would deal, steal 3 stars instead. Shares stars with the Boss. Gives 100 stars from the Boss and 3 Wins on KO.\nREC 10.
+descr=For every point of damage Big Poppo would deal, steal 3 Stars instead. Shares Stars with the Boss. Gives 100 Stars from the Boss and 3 Wins on KO.\nREC 10.
 
 < CARD_UNIT_BIG_POPPO_NM >
 name=Big Poppo
@@ -57,11 +57,11 @@ descr=Every turn, summon a seagull Minion (up to Boss Lvl). When a Minion is def
 
 < CARD_UNIT_BOSS_ROPOCHI >
 name=RoPoChi
-descr=When Po-tect and Scrambled are not active, use Po-tect. Gain -2 ATK and +1 die when rolling attack for each minion on the field. Use Roost Boost every 6 chapters. Gain 3 stars per combat damage dealt against players.
+descr=When Po-tect and Scrambled are not active, use Po-tect. Gain -2 ATK and +1 die when rolling attack for each minion on the field. Use Roost Boost every 6 chapters. Gain 3 Stars per combat damage dealt against players.
 
 < CARD_UNIT_BOSS_ROPOCHI_HYPER >
 name=RoPoChi
-descr=When Po-tect and Scrambled are not active, use Po-tect. Gain -2 ATK and +1 die when rolling attack for each minion on the field. Use Roost Boost every 6 chapters. Gain 5 stars per combat damage dealt against players.
+descr=When Po-tect and Scrambled are not active, use Po-tect. Gain -2 ATK and +1 die when rolling attack for each minion on the field. Use Roost Boost every 6 chapters. Gain 5 Stars per combat damage dealt against players.
 
 < CARD_UNIT_BOSS_COACH >
 name=Swimming Coach
@@ -105,7 +105,7 @@ descr=
 
 < CARD_UNIT_CHICKEN_MP >
 name=Chicken
-descr=Lose 1/4 stars and give 1 Win when KO'd in battle.
+descr=Lose 1/4 Stars and give 1 Win when KO'd in battle.
 
 < CARD_UNIT_CASTLE >
 name=Flying Castle
@@ -125,7 +125,7 @@ descr=On successful Evasion, deal 1 damage to opponent.
 
 < CARD_UNIT_CUTIES >
 name=Cuties
-descr=Can only choose Stars norma. Gain X additional stars from bonus panels, where X is the number of different Event cards you played. In battle, randomly gain +1 ATK or DEF.
+descr=Can only choose Stars norma. Gain X additional Stars from bonus panels, where X is the number of different Event cards you played. In battle, randomly gain +1 ATK or DEF.
 
 < CARD_UNIT_FERNET >
 name=Fernet
@@ -181,7 +181,7 @@ descr=
 
 < CARD_UNIT_MANAGER_MP >
 name=Store Manager
-descr=No stars from bonus panel. Can only use Gift type cards. Takes 1 damage on card discard.
+descr=No Stars from bonus panel. Can only use Gift type cards. Takes 1 damage on card discard.
 
 < CARD_UNIT_MARC >
 name=Marc
@@ -193,11 +193,11 @@ descr=Gain "Red & Blue" when holding no cards at the end of turn.
 
 < CARD_UNIT_MESCAL >
 name=Mescal
-descr=When challenged to a battle, there is a 50% chance a Pirate Crew Member will fight in your place. If this Pirate Crew Member is KO'd in battle, it will not fight for you for 3 chapters. Pirate Crew Member gives 1 Win on KO and gives stars gained in battle to your unit.
+descr=When challenged to a battle, there is a 50% chance a Pirate Crew Member will fight in your place. If this Pirate Crew Member is KO'd in battle, it will not fight for you for 3 chapters. Pirate Crew Member gives 1 Win on KO and gives Stars gained in battle to your unit.
 
 < CARD_UNIT_MIMYUU >
 name=Mimyuu
-descr=Revive as Tomato. When you do, you may challenge any enemies on the same panel. Lose 1/4 stars and give 1 Win when KO'd in battle.
+descr=Revive as Tomato. When you do, you may challenge any enemies on the same panel. Lose 1/4 Stars and give 1 Win when KO'd in battle.
 
 < CARD_UNIT_MIRA >
 name=Mira
@@ -213,7 +213,7 @@ descr=When using Defend in battle, never take more than half your max HP in dama
 
 < CARD_UNIT_MIXEDPOPPO >
 name=Marie Poppo (Mixed)
-descr=When warping from any effect: If player level is odd, gain Lvl x3 in stars. If player level is even, draw a card.
+descr=When warping from any effect: If player level is odd, gain (your Lvl) x3 Stars. If player level is even, draw a card.
 
 < CARD_UNIT_MIO >
 name=Mio
@@ -229,19 +229,19 @@ descr=Gain 1 stack of Active Extension in each battle where a battle card is pla
 
 < CARD_UNIT_NATSUMI >
 name=Natsumi
-descr=If not KO'd and standing on the same panel with other active units at the end of your turn, each active unit on the panel recovers 1 HP.\nFor each other unit you heal, gain 5 stars.
+descr=If not KO'd and standing on the same panel with other active units at the end of your turn, each active unit on the panel recovers 1 HP.\nFor each other unit you heal, gain 5 Stars.
 
 < CARD_COOP_UNIT_NATSUMI >
 name=Natsumi
-descr=If not KO'd and standing on the same panel with other active allies at the end of your turn, each active ally on the panel recovers 1 HP.\nFor each other ally you heal, gain 5 stars.
+descr=If not KO'd and standing on the same panel with other active allies at the end of your turn, each active ally on the panel recovers 1 HP.\nFor each other ally you heal, gain 5 Stars.
 
 < CARD_UNIT_NICO >
 name=Nico
-descr=No effect from Gift cards.\nGain X additional stars from all sources, where X is the number of Gift cards in hand.\nCan hold 4 cards.
+descr=No effect from Gift cards.\nGain X additional Stars from all sources, where X is the number of Gift cards in hand.\nCan hold 4 cards.
 
 < CARD_UNIT_NONAME >
 name=NoName
-descr=If KO'd, turn into NoName (Head) instead. Give no stars or Wins if KO'd in battle.
+descr=If KO'd, turn into NoName (Head) instead. Give no Stars or Wins if KO'd in battle.
 
 < CARD_UNIT_NONAME_HEAD >
 name=NoName (Head)
@@ -269,7 +269,7 @@ descr=
 
 < CARD_UNIT_ROBOBALL_MP >
 name=Robo Ball
-descr=Lose 1/4 stars and give 1 Win when KO'd in battle.
+descr=Lose 1/4 Stars and give 1 Win when KO'd in battle.
 
 < CARD_UNIT_SAKI >
 name=Saki
@@ -281,7 +281,7 @@ descr=
 
 < CARD_UNIT_SEAGULL_MP >
 name=Seagull
-descr=Lose 1/4 stars and give 1 Win when KO'd in battle.
+descr=Lose 1/4 Stars and give 1 Win when KO'd in battle.
 
 < CARD_UNIT_SHAM >
 name=Sham
@@ -341,7 +341,7 @@ descr=When at 1 HP at the start of battle, gain +1 ATK and EVD until end of batt
 
 < CARD_UNIT_TOMATO >
 name=Tomato
-descr=Revive as Mimyuu and act on revival.\nLose 1/3 stars when KO'd in battle. Draw Evil Spy Work - Execution cards as Waruda Machine, Blast Off!
+descr=Revive as Mimyuu and act on revival.\nLose 1/3 Stars when KO'd in battle. Draw Evil Spy Work - Execution cards as Waruda Machine, Blast Off!
 
 < CARD_UNIT_TEQUILA >
 name=Tequila
@@ -353,7 +353,7 @@ descr=A Pirate Crew Member appears as a wild unit.\nGain +1 ATK in a battle wher
 
 < CARD_UNIT_TEQMINION >
 name=Pirate Crew Member
-descr=Opponent loses Lvl x10 stars if defeated.\nThe player who summoned this unit gains the stars.\nDoes not appear as Encounter to the summoner. 
+descr=Opponent loses (their Lvl) x10 Stars if defeated.\nThe player who summoned this unit gains the Stars.\nDoes not appear as Encounter to the summoner. 
 
 < CARD_UNIT_TOMOMO >
 name=Tomomo
@@ -445,7 +445,7 @@ descr=Cannot challenge other players. Shares the held bounties of the summoner.
 
 < CARD_UNIT_GUARDIAN_CHAOS >
 name=Guardian
-descr=Gain Lvl x 1 additional stars upon defeating units from Encounter panels.
+descr=Gain (your Lvl) additional Stars upon defeating units from Encounter panels.
 
 < CARD_UNIT_EVILGUARDIAN >
 name=The Harbinger
@@ -461,15 +461,15 @@ descr=+1 MOV. Cannot challenge other players. Heal the summoner by 1 HP, or revi
 
 < CARD_UNIT_FAE_CHAOS >
 name=Aurora
-descr=+1 MOV. Heal self by 1 HP, or revive self with half HP every even-numbered chapters. If not KO'd and standing on the same panel with other active players at the end of your turn, each active player on the panel recovers 1 HP.\nFor each other player you heal, gain 5 stars.
+descr=+1 MOV. Heal self by 1 HP, or revive self with half HP every even-numbered chapters. If not KO'd and standing on the same panel with other active players at the end of your turn, each active player on the panel recovers 1 HP.\nFor each other player you heal, gain 5 Stars.
 
 < CARD_UNIT_MERCENARY >
 name=Mercenary
-descr=Challenges other players when passing by them. 50% of the stars gained in battle are given to the summoner.
+descr=Challenges other players when passing by them. 50% of the Stars gained in battle are given to the summoner.
 
 < CARD_UNIT_HALENA >
 name=Halena
-descr=Gain Lvl x2 stars after landing on your own home.
+descr=Gain (your Lvl) x2 Stars after landing on your own home.
 
 < CARD_UNIT_COOK >
 name=Cook
@@ -489,11 +489,11 @@ descr=During full moon (every 5 chapters), base attributes are -1 ATK, -1 DEF, +
 
 < CARD_UNIT_FERNETNOBLE >
 name=Fernet (Noble)
-descr=Any player challenging you on the field must pay their Lvl x Stars to do so.
+descr=Any player challenging you on the field must pay (their Lvl) x Stars to do so.
 
 < CARD_COOP_UNIT_FERNETNOBLE >
 name=Fernet (Noble)
-descr=Any enemy challenging you on the field will pay your Lvl x Stars. 
+descr=Any enemy challenging you on the field will pay (your Lvl) Stars. 
 
 < CARD_UNIT_SHIFU >
 name=Shifu
@@ -501,7 +501,7 @@ descr=Deal +2 battle damage to robotic wild units. When a robotic wild unit defe
 
 < CARD_UNIT_REIKA >
 name=Hoshino Reika
-descr=Can only choose Stars norma.\nGain +1 star from all sources except for chapter bonus or from Star Collector.
+descr=Can only choose Stars norma.\nGain +1 Star from all sources except for chapter bonus or from Star Collector.
 
 < CARD_UNIT_WATTY >
 name=Watty
@@ -525,15 +525,15 @@ descr=Can sell items to players. Immune to events and card effects.
 
 < CARD_UNIT_SWEETCREATOR >
 name=Sweet Creator
-descr=When anyone else plays a Sweets type non-trap card, or activates a Sweets type trap card, gain stars equal to 2x Lvl of the card.
+descr=When anyone else plays a Sweets type non-trap card, or activates a Sweets type trap card, gain (Card Lvl) x2 Stars.
 
 < CARD_UNIT_SWEETMAKER >
 name=Saki (Sweet Maker)
-descr=If active after activating an Encounter panel, draw a Sweets type card of usable level.
+descr=If active after activating an Encounter panel, take a Sweets type card of usable level from the deck.
 
 < CARD_UNIT_SWEETBLOGGER >
 name=Natsumi (Sweet Blogger)
-descr=All Sweets type cards are free to play. If active after activating a Drop panel, draw a Sweets type card of usable level.
+descr=All Sweets type cards are free to play. If active after activating a Drop panel, take a Sweets type card of usable level from the deck.
 
 < CARD_UNIT_BOSSJONATHAN_CHAOS >
 name=Big the Jonathan
@@ -553,11 +553,11 @@ descr=On your turn, do not stop when challenging an enemy.
 
 < CARD_UNIT_BOSSSTARDEV_CHAOS >
 name=Star Devourer
-descr=Steal 1 star per damage given to enemies in battle, and give 1 star per damage taken in battle. Automatically win the game if you reach 200 stars, while being on the final norma requirement.
+descr=Steal 1 Star per damage given to enemies in battle, and give 1 Star per damage taken in battle. Automatically win the game if you reach 200 Stars, while being on the final norma requirement.
 
 < CARD_UNIT_POPPO_CHAOS >
 name=Chaos Poppo
-descr=For every point of damage Chaos Poppo would deal, steal 2 stars instead and give them to the summoner. When KO'd, gives 10 Stars from the summoner and 2 Wins.
+descr=For every point of damage Chaos Poppo would deal, steal 2 Stars instead and give them to the summoner. When KO'd, gives 10 Stars from the summoner and 2 Wins.
 
 < CARD_UNIT_BOSSQP_CHAOS >
 name=Summer Beast
@@ -569,7 +569,7 @@ descr=
 
 < CARD_UNIT_BOSSCOACH_CHAOS >
 name=Swimming Coach
-descr=If Goalpost is summoned: Gain +2 ATK. If Balloon Jerk is summoned: Gain +2 DEF. If Swimming Ringer is summoned: Gain 3 stars per turn.
+descr=If Goalpost is summoned: Gain +2 ATK. If Balloon Jerk is summoned: Gain +2 DEF. If Swimming Ringer is summoned: Gain 3 Stars per turn.
 
 < CARD_UNIT_MIOFESTIVE >
 name=Mio (Festive)
@@ -577,7 +577,7 @@ descr=
 
 < CARD_UNIT_KRILAPAJAMAS >
 name=Krilalaris (Pajamas)
-descr=Cannot use the Evade command in battle. If you would take 1 damage while using the Defend command, cancel that damage and pay your Lvl x stars to the opponent.
+descr=Cannot use the Evade command in battle. If you would take 1 damage while using the Defend command, cancel that damage and pay (your Lvl) Stars to the opponent.
 
 < CARD_UNIT_MIMYUUJAILBIRD >
 name=Mimyuu (Jailbird)
@@ -585,15 +585,15 @@ descr=When KO'd in battle, move to your Home panel.
 
 < CARD_UNIT_MOTHERP >
 name=Mother Poppo
-descr=When warping, take 1 damage. If active after warping, draw a card and gain Lvl x1 stars.
+descr=When warping, take 1 damage. If active after warping, draw a card and gain (your Lvl) Stars.
 
 < CARD_UNIT_DARKL >
 name=Dark Lulu
-descr=Lose your Lvl x2 stars when declining a challenge.
+descr=Lose (your Lvl) x2 Stars when declining a challenge.
 
 < CARD_COOP_UNIT_DARKL >
 name=Dark Lulu
-descr=Lose your Lvl x1 stars when declining a challenge.
+descr=Lose (your Lvl) Stars when declining a challenge.
 
 < CARD_UNIT_HELLIE >
 name=Hyper Ellie
@@ -650,5 +650,13 @@ descr=Gain +1 ATK and -1 EVD when attacker.\nGain +1 DEF when defender.
 < CARD_UNIT_KURIE >
 name=Amatsukuri Kurie
 descr=
+
+< CARD_UNIT_RINSE >
+name=Rinse
+descr=At the start of your turn, gain the "Young Lady's Power" Stock Effect:\nNext time you take damage, gain (Your Lvl) Stars. If it was battle damage, the unit that dealt the damage gains the same amount of Stars. 
+
+< CARD_UNIT_SUISHOU >
+name=Suishou
+descr=At the start of battle, gain +1 ATK for every ATK of the opponent, up to +3.
 
 [EOF]

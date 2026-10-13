@@ -61,7 +61,7 @@ descr=Esta unidad recibirá -2 ATK en su próxima batalla.
 
 < CARD_BLAZING_EFFECT >
 name=¡Ardiente!
-descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK y -1 DEF. Este efecto también se pierde al morir.
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK y -1 DEF. Este efecto también se perderá al ser noqueado.
 
 < CARD_SEALEDMEMORIES_EFFECT >
 name=Memorias Selladas
@@ -73,7 +73,7 @@ descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK.
 
 < CARD_CRYSTALBARRIER_EFFECT >
 name=Barrera de Cristal
-descr=Esta unidad consumirá una carga del efecto guardado para cancelar una trampa, una batalla o un panel de pérdidas y tomará un punto de daño. Este efecto también se pierde al morir.
+descr=Esta unidad consumirá una carga del efecto guardado para cancelar una trampa, una batalla o un panel de pérdidas y tomará un punto de daño. Este efecto también se perderá al ser noqueado.
 
 < CARD_DELTAFIELD_EFFECT >
 name=Campo Delta
@@ -97,7 +97,7 @@ descr=Esta unidad recibirá -1 DEF.
 
 < CARD_TURBOCHARGED_EFFECT >
 name=Turbo-Carga
-descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK. Este efecto también se pierde al morir.
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK. Este efecto también se perderá al ser noqueado.
 
 < CARD_IMMOVABLEOBJECT_EFFECT >
 name=Objeto Inamovible
@@ -117,7 +117,7 @@ descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK/
 
 < CARD_NONAME_EFFECT >
 name=Encabezado
-descr=Los valores principales de esta unidad cambiarán a -1 ATK/DEF/EVD y 2 PV. Este efecto se perderá al detenerse en un hogar o al morir.
+descr=Los valores principales de esta unidad cambiarán a -1 ATK/DEF/EVD y 2 PV. Este efecto se perderá al detenerse en un hogar o al ser noqueado.
 
 < CARD_AMPATK_EFFECT >
 name=Ataque Mejorado
@@ -165,7 +165,7 @@ descr=Esta unidad no podrá ser dañada.
 
 < CARD_HYPER_SWEETEATER_EFFECT >
 name=Sweet Eater
-descr=Los valores principales de la unidad cambiarán a +3 ATK y 0 DEF/EVD. Este efecto se perderá al morir.
+descr=Los valores principales de la unidad cambiarán a +3 ATK y 0 DEF/EVD. Este efecto se perderá al ser noqueado.
 
 < CARD_STEALTHON_EFFECT >
 name=Invisibilidad
@@ -185,7 +185,7 @@ descr=Esta unidad recibirá una estrella más de todas las fuentes.
 
 < CARD_SPECIALSTAGE_EFFECT >
 name=En Vivo
-descr=Esta unidad recibirá -3 MOV, sólo podrá activar paneles de movimiento, no podrá usar cartas, ser desafiada y ser el blanco de otras cartas.\nSi el oponente acaba su turno a 2 paneles de distancia, esta unidad robará estrellas equivalentes a tu Nivel x5.\nEste efecto también se perderá al morir.
+descr=Esta unidad recibirá -3 MOV, sólo podrá activar paneles de movimiento, no podrá usar cartas, ser desafiada y ser el blanco de otras cartas.\nSi el oponente acaba su turno a 2 paneles de distancia, esta unidad robará estrellas equivalentes a tu Nivel x5.\nEste efecto también se perderá al ser noqueado.
 
 < CARD_PATHBLOCKERS_EFFECT >
 name=Camino Bloqueado
@@ -225,7 +225,7 @@ descr=Duración: 1 capítulo. Todas las cartas de esta unidad ignorarán su nive
 
 < CARD_REDBEANCREAM_EFFECT >
 name=Helado de Frijoles Rojos
-descr=Esta unidad recibirá +1 ATK. Este efecto se perderá al morir, y no puede ser activado más de una vez al mismo tiempo.
+descr=Esta unidad recibirá +1 ATK. Este efecto se perderá al ser noqueado, y no puede ser activado más de una vez al mismo tiempo.
 
 < CARD_ZAPPERSWORD_EFFECT >
 name=Espada Mágica Encantada
@@ -322,15 +322,15 @@ flavor=
 
 < CARD_WANTED_EFFECT >
 name=Se Busca
-descr=Esta unidad otorgará el doble de victorias al ser derrotada dentro de una batalla. Este efecto se perderá al morir.
+descr=Esta unidad otorgará el doble de victorias al ser derrotada dentro de una batalla. Este efecto se perderá al ser noqueado.
 
 < CARD_SWEETDESTROYER_EFFECT >
 name=Dulces Destrozados
-descr=Todas las cartas relacionadas a los Dulces tomadas del mazo se transformarán en Pudín Peligroso o Pudín en Mal Estado.
+descr=Todas las cartas relacionadas a los Dulces que entren a la mano de un jugador serán transformadas en un Pudín Peligroso o Pudín en Mal Estado de forma permanente.
 
 < CARD_LONELYCHARIOT_EFFECT >
 name=Carruaje Solitario
-descr=Al moverse, los dados de esta unidad siempre caerán en 5. Al final de su turno, esta unidad recibirá un punto de daño. Este efecto se perderá al morir.\nSi esta unidad es noqueada por este efecto, paga estrellas equivalentes a su Nivel x5.
+descr=Al moverse, los dados de esta unidad siempre caerán en 5. Al final de su turno, esta unidad recibirá un punto de daño. Este efecto se perderá al ser noqueado.\nSi esta unidad es noqueada por este efecto, paga estrellas equivalentes a su Nivel x5.
 
 < CARD_PRESIDENTPRIVILEGE_EFFECT >
 name=Privilegio de Presidente
@@ -498,7 +498,7 @@ descr=Esta unidad será condenada a fallar debido a la realización de un Objeti
 
 < CARD_CURSEDICECREAM_EFFECT >
 name=Helado Milagroso de Frijoles Púrpura
-descr=Esta unidad recibirá +2 ATK y -3 Máx. PV (min. 1). Este efecto se perderá al morir.
+descr=Esta unidad recibirá +2 ATK y -3 Máx. PV (min. 1). Este efecto se perderá al ser noqueado.
 
 < CARD_BRAVERYUP_EFFECT >
 name=Cazador Valiente
@@ -596,11 +596,11 @@ descr=Esta unidad recibirá -1 MOV.
 
 < CARD_HARDENEDSCALES_EFFECT >
 name=Escamas Endurecidas
-descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK. Este efecto se perderá al morir.
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá +1 ATK. Este efecto se perderá al ser noqueado.
 
 < CARD_GOODESTBOY_EFFECT >
 name=El Mejor de los Amigos
-descr=Esta unidad no podrá desafiar o ser desafiada a un combate, tendrá inmunidad a los efectos de noqueo instantáneos, y copiará una carta de otros jugadores al estar en el mismo panel que ellos en el fin de ambos turnos; aun así, los oponentes podrían detenerse para acariciar a esta unidad. Este efecto se perderá al morir.
+descr=Esta unidad no podrá desafiar o ser desafiada a un combate, tendrá inmunidad a los efectos de noqueo instantáneos, y copiará una carta de otros jugadores al estar en el mismo panel que ellos en el fin de ambos turnos; aun así, los oponentes podrían detenerse para acariciar a esta unidad. Este efecto se perderá al ser noqueado.
 
 < CARD_ARTOFSWORD_EFFECT >
 name=El Arte de la Espada
@@ -732,7 +732,7 @@ descr=Recibido al usar una carta.
 
 < CARD_BOURBON_EFFECT >
 name=Ala Rota
-descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá -1 Máx. PV. Este efecto se perderá al morir.
+descr=Por cada efecto guardado de este mismo tipo, esta unidad recibirá -1 Máx. PV. Este efecto se perderá al ser noqueado.
 
 < CARD_HEART_OF_RESISTANCE_EFFECT >
 name=El Corazón de la Resistencia
@@ -817,6 +817,14 @@ descr=En vez de ser noqueado por daño realizado durante una batalla, tus PV ser
 < CARD_EFFECT_KURIE_HEAL >
 name=La Resolución de la Maestra
 descr=Cura 1 PV tras activar un panel de Cartas, Movimiento, Teletransportación, Tele-Movimiento, o un panel Aleatorio.
+
+< CARD_EFFECT_RINSE_YOUNGLADYPOWER >
+name=El Poder de Una Damisela
+descr=La próxima vez que esta unidad reciba daño dentro de una batalla, esta unidad y su oponente recibirán Estrellas (valor: Nivel de Esta Unidad x 1). No puede ser guardado más de una vez.
+
+< CARD_EFFECT_RINSE_FIERCEYOUNGLADY >
+name=Damisela Feroz
+descr=La próxima vez que esta unidad reciba daño dentro de un combate, recibirá Estrellas (valor: Nivel x 2) por cada punto de daño (hasta un máximo de 9). Si pagaste la misma cantidad o más para usar una carta de batalla que la cantidad de estrellas recibidas, recuperarás todos tus PV al terminar la batalla. Este efecto se perderá al ser noqueado.
 
 < CARD_EFFECT_CHAOS_GM_TRAPCARD >
 name=Carta Trampa
@@ -972,7 +980,7 @@ descr=Todas las unidades reciben 50 puntos de daño.
 
 < CARD_EFFECT_CHAOS_GM_UNLIMITEDLIVES >
 name=Vidas Ilimitadas
-descr=Todas las unidades recibirán el efecto de Renacimiento.\nRenacimiento: Al morir, revivirás en tu próximo turno.
+descr=Todas las unidades recibirán el efecto de Renacimiento.\nRenacimiento: al ser noqueado, revivirás en tu próximo turno.
 
 < CARD_EFFECT_CHAOS_GM_HOMEBREAKER >
 name=Rompe-Hogares

@@ -53,4 +53,10 @@ Suivant
 < RESULT_SPEEDADJUST >
 Modificateur de Vitesse
 
+< RESULT_MESSAGE_CHARACTER_DISCOVER >
+Vous êtes sur le point de débloquer {0} ! Le personnage sera disponible dans la Boutique au bout de {1} parties.
+
+< RESULT_MESSAGE_CHARACTER_UNLOCK >
+Nouveau personnage débloqué ! Vous pouvez acheter {0} depuis la Boutique pour {1} Étoiles.
+
 [EOF]

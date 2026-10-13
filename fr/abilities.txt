@@ -19,7 +19,7 @@ name=Rivière d'Eau Bénite
 descr=Les poissons se déplacent 25% plus vite. Vous ne pourrez qu'utiliser Pêche pendant que l'effet est actif. Peut se cumuler. Durée : 10 secondes. Recharge : 20 secondes.
 
 < SUMMER2020_A_MASTERY >
-name=Maître de la Pêche
-descr=Rechage automatiquement toutes les capacités, à part Pêche. Usage unique.
+name=Pro de la Pêche
+descr=Rechage automatiquement toutes les capacités, à part Pêche et celles à usage unique. Usage unique.
 
 [EOF]

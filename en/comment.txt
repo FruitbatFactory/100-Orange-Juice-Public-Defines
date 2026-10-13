@@ -216,7 +216,7 @@ Paused.
 Are you sure you want to quit the game?
 
 < COM_RESULT_STARSGAINED >
-The stars you gained from this game.
+The Stars you gained from this game.
 
 < COM_CREATELOBBY_SETOPTIONS >
 Set lobby options.

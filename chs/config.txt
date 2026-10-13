@@ -141,7 +141,7 @@ CPU随机装扮（仅限房主）
 重置窗口尺寸
 
 < CONFIG_SCREEN_RESTARTNOTICE >
-部分选项修改需要在重新启动游戏后才能起效。
+部分选项修改需要在重启游戏后才能生效。
 
 < CONFIG_SCREEN_VISUAL_ACCESSIBILITY >
 视觉无障碍功能

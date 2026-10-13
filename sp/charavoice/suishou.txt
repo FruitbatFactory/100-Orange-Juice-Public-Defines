@@ -1,0 +1,159 @@
+<0000> Nunca bajaría la guardia.
+<0001> Hmph.
+<0002> Haré todo lo que pueda.
+<0003> Este tiro podría marcar mi destino.
+<0004> Permíteme usar una carta.
+<0005> Tomaré esta oportunidad.
+<0006> ¿Me permites cambiar un poco las cosas?
+<0007> Haré mi movimiento.
+<0008> Una trampa.
+<0009> La colocaré ahora.
+<0010> Colocando una trampa.
+<0011> ¿Acaso esta trampa te preocupa?
+<0012> Cambiaré la corriente por completo.
+<0013> Permíteme acabar contigo.
+<0014> Te derribaré.
+<0015> Este será el golpe final.
+<0016> Admira el estilo Yukimura...
+<0017> Me levantaré cuantas veces sea necesario.
+<0018> La partida no ha acabado aún.
+<0019> No puedo permitirme descansar eternamente.
+<0020> Parece que me he recuperado bien.
+<0021> ¿Cometí un error?
+<0022> ¿Ya puedo levantarme?
+<0023> Las cosas no están ocurriendo como lo planeé.
+<0024> Esta es una mala corriente...
+<0025> Hora del ataque.
+<0026> ¿Te has preparado?
+<0027> Te derribaré.
+<0028> Hora de que vayas a dormir.
+<0029> Ugh.
+<0030> No pude desviar el proyectil.
+<0031> Bien hecho.
+<0032> ¿Acaso estoy recibiendo daño?
+<0033> Hora de recuperarse.
+<0034> Gestionar tu resistencia es importante.
+<0035> Ahora podré continuar.
+<0036> Hora del reinicio.
+<0037> Una teletransportación.
+<0038> ¿En dónde acabaré?
+<0039> Dejaré este lugar.
+<0040> Aquí voy.
+<0041> No puedo creer que me hayan derribado.
+<0042> Para que yo cometa un error como este...
+<0043> Así que han acabado conmigo...
+<0044> Puede que haya sobreestimado a mi oponente.
+<0045> Acabaré contigo.
+<0046> Hora de la batalla.
+<0047> Aceptarás este combate.
+<0048> Permítenos pelear con honor.
+<0049> ¿Osas desafíar a Yukimura a una batalla?
+<0050> Yo soy fuerte, sabes.
+<0051> Aceptaré tu desafío.
+<0052> No hagas que este combate sea patético, ¿entendido?
+<0053> ¡Sey!
+<0054> ¡Ja!
+<0055> Te tengo.
+<0056> ¡Toma esto!
+<0057> ¡Ugh!
+<0058> ¿Realmente me has dado?
+<0059> No está mal.
+<0060> Un rose.
+<0061> ¿Acaso bajé la guardia?
+<0062> Esto puede ser malo.
+<0063> No pensé que me acorralarían de esta forma...
+<0064> Ngh... eres fuerte.
+<0065> Este es el estilo Yukimura.
+<0066> No puedes darme.
+<0067> ¿Crees que puedes lastimarme?
+<0068> Un buen ataque, pero si no te golpea...
+<0069> Ese fue un buen combate.
+<0070> Quédate ahí por un rato.
+<0071> Este es el estilo Yukimura.
+<0072> Esta es mi victoria.
+<0073> Tienes habilidad.
+<0074> No pensé que me harían llegar tan lejos.
+<0075> No pensé que había bajado la guardia...
+<0076> Yo... ¿perdí...?
+<0077> Buena corriente.
+<0078> He obtenido estrellas.
+<0079> Esto es muy placentero.
+<0080> Muy apreciado.
+<0081> ¡¿Qué?!
+<0082> Mis estrellas...
+<0083> Ngh... ¿una perdida?
+<0084> ¿He perdido estrellas?
+<0085> ¿Una trampa?
+<0086> Caí en ella.
+<0087> ¡¿Me han dado?!
+<0088> Qué descuidado de mi parte el hecho de caer en una trampa como esta.
+<0089> Siento la presencia de un enemigo formidable...
+<0090> Así que ha comenzado a moverse.
+<0091> Acabar con eso no será tarea fácil.
+<0092> Debo concentrarme otra vez.
+<0093> Iré por las estrellas.
+<0094> ¿Iré a coleccionar estrellas?
+<0095> Comenzando mi colección de estrellas.
+<0096> Coleccionaré hasta la última de ellas.
+<0097> ¿Acaso es la hora de mostrar el poder del estilo Yukimura?
+<0098> Bien, vamos a pelear.
+<0099> Debería hacer un poco de ejercicio.
+<0100> Acabaré con mis enemigos.
+<0101> Soy Suishou Yukimura. Gusto en conocerte.
+<0102> ¿Quieres formar un equipo conmigo? Muy bien.
+<0103> Vamos a disfrutar de esto juntos.
+<0104> ¿Acaso te interesa el estilo Yukimura?
+<0105> Que la partida comience.
+<0106> Ahora ha comenzado.
+<0107> Hora de una batalla.
+<0108> Ahora, vamos a disfrutar de la partida.
+<0109> Phew, esa fue una buena partida.
+<0110> Esa fue una partida agradable. Aceptaré sus desafíos en cualquier momento.
+<0111> Parece que es mi victoria. Fufu.
+<0112> ¿Vamos a comenzar con la próxima partida de inmediato?
+<0113> Conseguir objetos también es importante.
+<0114> ¿Acaso has obtenido algo bueno? Deberías cuidarlo.
+<0115> ¿Un hallazgo extraño?
+<0116> Ese es un buen objeto.
+<0117> Cambia de lugar conmigo.
+<0118> Me retiraré por el momento.
+<0119> Cambia conmigo.
+<0120> Hora de un breve descanso.
+<0121> Entendido.
+<0122> Bien.
+<0123> Muy bien.
+<0124> Esperaré.
+<0125> Qué pena.
+<0126> Qué afortunado.
+<0127> No lo había visto venir.
+<0128> Aquí vamos.
+<0129> ¡Dado!
+<0130> Sigue así.
+<0131> Hola.
+<0132> Hmm...
+<0133> Impresionante.
+<0134> Magnífico.
+<0135> Ngh...
+<0136> Carta Especial.
+<0137> Permíteme usar esta Carta Especial.
+<0138> ¿Y qué dices de esto?
+<0139> Veamos como esta carta cambiará la corriente.
+<0140> Te lo agradezco.
+<0141> Cuento con usted, Dama Rinse.
+<0142> Sí, es hora de que tú vayas a jugar.
+<0143> Mis disculpas. Estaba muy concentrada en la partida.
+<0144> Desde luego.
+<0145> Considéralo hecho.
+<0146> Desde luego, entraré.
+<0147> Escuchar eso de usted, Dama Rinse, realmente me llena de energía.
+<0148> Entonces usaré todo lo que tenga a mi disposición.
+<0149> Tienes buenos ojos.
+<0150> Ven a mí con todo lo que tengas.
+<0151> Poyo, vamos a tener una buena pelea.
+<0152> Esa cola tan vellosa que tienes... em... ¿te molestaría si la acaricio un poco?
+<0153> ¡¿Qué rayos estás haciendo?!
+<0154> ¿A-acaso debería llamar a la policía?
+<0155> ¿E-es un pervertido?
+<0156> ¡¿P-p-por qué te estás quitando la ropa?!
+<0161> Permíteme realizar una devolución completa.
+<0162> ¿¡No pude regresarlo todo..!?

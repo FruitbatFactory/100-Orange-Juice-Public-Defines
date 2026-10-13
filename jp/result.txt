@@ -53,5 +53,11 @@ XP
 < RESULT_SPEEDADJUST >
 スピード調整
 
+< RESULT_MESSAGE_CHARACTER_DISCOVER >
+{0}の解除条件を満たしました！ あと{1}ゲームをプレイすると、ショップで購入できるようになります。
+
+< RESULT_MESSAGE_CHARACTER_UNLOCK >
+新しいキャラクターが解除されました！ ショップで{0}を{1}スターで購入できます。
+
 [EOF]
 

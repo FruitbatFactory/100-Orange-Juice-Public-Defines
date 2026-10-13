@@ -1,0 +1,122 @@
+// main
+// (elliehyper)
+<0000> Ei, finalmente viemos visitar!
+// (Lulu)
+<0001> Muito obrigada por nos receberem.
+// (tomomo)
+<0002> Ah, são vocês duas. Como vão, crianças? O que acharam da minha nova casa de praia? Resolvi construir uma casinha de férias para mim como recompensa por me ajudarem com as coisas da Mio.
+// (Lulu)
+<0003> A Lulu está... mais preocupada com o fato de haver uma praia aqui. Ou um oceano. Não havia antes.
+// (Tomomo)
+<0004> Ah, eu só adicionei. A Mio já tinha montado este mundo como uma bagunça de retalhos mesmo. E é só um oceano pequeno.
+// (Lulu)
+<0005> Por favor, não insultem o nosso mundo. A Lulu acha que ele tem um monte de coisas maravilhosas, não importa de onde elas vieram.
+// (elliehyper)
+<0006> Igual a mim e à Lulu, né? Né?
+// (lulu)
+<0007> A Lulu não é arrogante... hum, confiante o suficiente para se elogiar em voz alta como você faz.
+// (tomomo)
+<0008> Não se preocupe. Estou cuidando da casa agora, então você não precisa se estressar com coisas pequenas.
+// (elliehyper)
+<0009> Hehe. É bem seu estilo mesmo, Vovó.
+// (tomomo)
+<0010> V-V-Vovó? Quem você pensa que está chamando de "vovó", sua pirralha?
+// (elliehyper)
+<0011> Bom, você é a mãe da minha mãe, né? Então, o que isso faz de você, hein?
+// (tomomo)
+<0012> Claro, eu a fiz, mas eu não dei à luz a ela nem nada!
+// (elliehyper)
+<0013> Ahaaa~ Não se preocupe com as coisas pequenas, Vozinha<3
+// (tomomo)
+<0014> Gwaah! Não use essa palavra! Eu não sou velha o bastante para ser chamada de vozinha. Eu estou no ápice da minha vida.
+// (lulu)
+<0015> E até quando isso durará?
+// (tomomo)
+<0016> Até eu começar a ter uma defesa divina e bloquear tudo.
+// (lulu)
+<0017> Quando você diz coisas assim, a Lulu realmente consegue ver a semelhança familiar.
+// (elliehyper)
+<0018> Vamos lá, vozinha <3 Por que você não nos mima um pouquinho? Não é para isso que servem as vozinhas? Ahaaa~
+// (lulu)
+<0019> Ellie, a Lulu acha que você não deveria atacar os pontos fracos das pessoas assim.
+// (tomomo)
+<0020> Tudo bem. Sabe de uma coisa? Eu sou uma adulta madura! Não preciso me estressar com isso.
+// (elliehyper)
+<0021> Aham. Beeeeeeem madura. Ahaaaa~
+// (tomomo)
+<0022> Tanto faz. Então, crianças, vocês estão com fome? Querem algo pra comer?
+// (elliehyper)
+<0023> Você vai mesmo nos mimar? Aí sim!
+// (tomomo)
+<0024> Bom, vocês são as únicas que vieram me visitar até agora, então melhor comerem também.
+// (lulu)
+<0025> Muito obrigada. O que você tem?
+// (tomomo)
+<0026> Eu tenho sorvete, sorvete, sorvete e sorvete. Escolham.
+// (lulu)
+<0027> Aham, definitivamente relacionada à Ellie.
+// (elliehyper)
+<0028> E essas latas estranhas?
+// (tomomo)
+<0029> Você é muito nova para isso. São... hum... remédios, eu acho. Para ajudar minha alma a se recuperar depois que minha chefe me obriga a ficar por horas...
+// (lulu)
+<0030> D-de alguma forma, até o sol parece sombrio depois que você disse isso...
+// (tomomo)
+<0031> Então, Ellie. Como estão seu papai e sua mamãe? Não os vejo desde então.
+// (elliehyper)
+<0032> Eles estão fazendo coisas nojentas de casal. Dá vontade de vomitar! E quem o papai pensa que é, monopolizando a mamãe desse jeito? Ela é minha!
+// (tomomo)
+<0033> Credo! Vou fingir que não ouvi isso. Eu realmente não quero imaginar os dois melosos.
+// (lulu)
+<0034> Hum, a mamãe e o papai da Ellie são definitivamente... eles mesmos, mas estão fazendo a Lulu se sentir parte da família. Para o bem ou para o mal.
+// (tomomo)
+<0035> Ótimo. Da próxima vez que você os vir, diga para eles virem logo para cá antes que minhas férias acabem.
+// (lulu)
+<0036> Sim, senhora.
+// (tomomo)
+<0038> Sério? Você não está de férias?
+// (tomomo)
+<0039> Sim, mas não tem TV aqui, nem HQs, e não tem ninguém para conversar por quilômetros ao redor!
+// (elliehyper)
+<0040> É porque você criou uma praia aleatória no meio do nada, tolinha.
+// (tomomo)
+<0041> O quê, você quer que eu coloque isso no meio da cidade e inunde o lugar?! Você quer lula nas suas meias, sua pirralha?
+// (elliehyper)
+<0042> Você sempre pode dar um mergulho naquele oceano grande e idiota que você criou.
+// (tomomo)
+<0043> Eu aprendi recentemente, mas ficou chato depois de meia hora. E é só um oceano pequeno.
+// (elliehyper)
+<0044> Quando estou entediada, eu simplesmente saio em uma aventura! Ou mexo com o rabo da Lulu.
+// (lulu)
+<0045> A L-Lulu realmente gostaria que você parasse de fazer isso, especialmente em público.
+// (elliehyper)
+<0046> Suas reações são tão fofas e engraçadas! Ahá~
+// (Tomomo)
+<0047> Uma missão parece uma boa ideia, mesmo que dê mais trabalho... Argh! Será que me tornei o tipo de adulta que não consegue parar de trabalhar nem nos dias de folga?!
+// (Lulu)
+<0048> Já temos algumas caças de recompensas preparadas. Você só estaria nos ajudando, senhora.
+// (Tomomo)
+<0049> Pare de me chamar de senhora. Toda essa formalidade me dá arrepios.
+// (Lulu)
+<0050> Hum... Como Lulu deveria te chamar, então?
+// (elliehyper)
+<0051> Vozinha, é claro!
+// (tomomo)
+<0052> Que tal literalmente qualquer coisa, menos isso!?
+// (lulu)
+<0053> Hum... Titia? Titia Tomomo?
+// (tomomo)
+<0054> Você quer dizer tipo uma tia legal, né?
+// (lulu)
+<0055> Bom, você nos deu sorvete, então a Lulu pode permitir isso.
+// (tomomo)
+<0056> Eu aceito! Muito bem, meninas. Vou ajudar vocês nas suas missões. Hora de mostrar o poder de uma garota mágica a todo vapor!
+// (elliehyper)
+<0057> Cuidado para não quebrar o quadril, vovó. Ahaaa~
+// (tomomo)
+<0058> Silêncio, garotinha. Só não se atrapalhe!
+// (lulu)
+<0059> Oooh... Elas duas são tão barulhentas. Os ouvidos da Lulu já estão zumbindo. E provavelmente as duas vão ficar entediadas depois de meia hora também.
+// (lulu)
+<0060> Ah... A família da Ellie é tão problemática. É melhor a Lulu ir logo, ou vai perder toda a diversão.
+

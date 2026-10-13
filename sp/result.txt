@@ -53,5 +53,11 @@ Próx.
 < RESULT_SPEEDADJUST >
 Ajuste de Velocidad
 
+< RESULT_MESSAGE_CHARACTER_DISCOVER >
+¡El camino para desbloquear a {0} se ha abierto! Estarán disponibles en la Tienda tras jugar {1} partidas.
+
+< RESULT_MESSAGE_CHARACTER_UNLOCK >
+¡Un nuevo personaje ha sido desbloqueado! Podrás comprar a {0} en la Tienda por {1} estrellas.
+
 [EOF]
 

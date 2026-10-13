@@ -245,4 +245,7 @@ PHG
 < ARTIST_NAGARE_RALF >
 nagare ralf
 
+< ARTIST_MECHARI >
+Mechari
+
 [EOF]

@@ -5,7 +5,7 @@ descr=战斗中随机查看对方的1张战斗卡。\n「自爆」使对方倒�
 
 < CARD_UNIT_ARTHUR >
 name=亚瑟
-descr=从奖励格或商店获得STAR时额外获得X个，X为场上你的「兔子模玩店」的数量，上限为你的等级数。
+descr=从奖励格或商店获得STAR时额外获得X颗，X为场上你的「兔子模玩店」的数量，上限为你的等级数。
 
 < CARD_UNIT_ARU >
 name=亚琉
@@ -33,11 +33,11 @@ descr=场上每存在1只鸡手下ATK和DEF-1，攻击骰枚数+1。每5轮召�
 
 < CARD_UNIT_BOSS_POPPO >
 name=星星吞噬者
-descr=玩家的轮初奖励STAR翻倍。\n战斗中受到伤害时，DEF+1直到该轮结束，此效果可叠加。\n每拥有300颗STAR战斗伤害+1，对玩家时每造成/受到1点战斗伤害获得5颗STAR/交出3颗STAR。\n拥有1000颗STAR时：获胜，没有STAR时：落败。
+descr=玩家的轮初奖励STAR翻倍。\n受到战斗伤害时，DEF+1直到该轮结束，此效果可叠加。\n每拥有300颗STAR战斗伤害+1，对玩家时每造成/受到1点战斗伤害获得5颗STAR/交出3颗STAR。\n拥有1000颗STAR时：获胜，没有STAR时：落败。
 
 < CARD_UNIT_BOSS_POPPO_HYPER >
 name=星星吞噬者
-descr=玩家的轮初奖励STAR翻倍。\n战斗中受到伤害时，DEF+1直到该轮结束，此效果可叠加。\n每拥有300颗STAR战斗伤害+1，对玩家时每造成1点战斗伤害获得5颗STAR。\n拥有1000颗STAR时：获胜，没有STAR时：落败。
+descr=玩家的轮初奖励STAR翻倍。\n受到战斗伤害时，DEF+1直到该轮结束，此效果可叠加。\n每拥有300颗STAR战斗伤害+1，对玩家时每造成1点战斗伤害获得5颗STAR。\n拥有1000颗STAR时：获胜，没有STAR时：落败。
 
 < CARD_UNIT_BIG_POPPO >
 name=大啵噗
@@ -69,7 +69,7 @@ descr=每2轮使用一次「浮标」。\n若场上没有沙滩球力士，使�
 
 < CARD_UNIT_BOSS_COACH_HYPER >
 name=游泳教练
-descr=每2轮使用一次「浮标」。\n若场上没有沙滩球力士，使用「沙滩球力士」。\n若游泳圈套少于2个，使用「游泳圈套」。\n不会在战斗中受到伤害。
+descr=每2轮使用一次「浮标」。\n若场上没有沙滩球力士，使用「沙滩球力士」。\n若游泳圈套少于2个，使用「游泳圈套」。\n不会受到战斗伤害。
 
 < CARD_UNIT_GOALPOST >
 name=浮标
@@ -125,7 +125,7 @@ descr=成功闪避时，对手受到1点伤害。
 
 < CARD_UNIT_CUTIES >
 name=优空＆夏姆（可爱者）
-descr=只能选择STAR目标。\n从奖励格获得STAR时额外获得X个，X为你使用的不同事件卡数量。\n战斗时随机ATK或DEF+1。
+descr=只能选择STAR目标。\n从奖励格获得STAR时额外获得X颗，X为你使用的不同事件卡数量。\n战斗时随机ATK或DEF+1。
 
 < CARD_UNIT_FERNET >
 name=菲尔涅特
@@ -213,7 +213,7 @@ descr=防御时一次攻击最多只会受到HP上限一半的伤害（向上取
 
 < CARD_UNIT_MIXEDPOPPO >
 name=玛丽啵噗（混成）
-descr=传送时等级为奇数时获得等级×3的STAR，为偶数时抽1张卡。\n※卡片效果或场地效果的传送都包含。
+descr=因任意效果传送时：你等级为奇数则获得你等级×3的STAR，为偶数则抽1张卡。
 
 < CARD_UNIT_MIO >
 name=魅樱
@@ -237,7 +237,7 @@ descr=当你在回合结束时没有倒下且有存活同伴在同一格，该�
 
 < CARD_UNIT_NICO >
 name=妮可
-descr=不受礼物卡影响。\n任意来源获得STAR时额外获得X个，X为持有礼物卡的张数。手牌上限为4张。
+descr=不受礼物卡影响。\n任意来源获得STAR时额外获得X颗，X为持有礼物卡的张数。手牌上限为4张。
 
 < CARD_UNIT_NONAME >
 name=NoName
@@ -353,7 +353,7 @@ descr=出现的敌方角色包含「海贼小弟」。\n在战斗中，失去HP�
 
 < CARD_UNIT_TEQMINION >
 name=海贼小弟
-descr=打倒对手时对手失去等级×10的STAR。\n召唤该角色的玩家获得这些STAR。\n不会在召唤者的遭遇战中出现。
+descr=在对手被击倒时，对手失去其等级×10的STAR。\n召唤该角色的玩家获得这些STAR。\n不会在召唤者的遭遇战中出现。
 
 < CARD_UNIT_TOMOMO >
 name=兔萌萌
@@ -445,7 +445,7 @@ descr=无法挑战其他玩家。\n与召唤者共享悬赏。
 
 < CARD_UNIT_GUARDIAN_CHAOS >
 name=守护者
-descr=击败遭遇格的角色时额外获得等级×1的STAR。
+descr=击败遭遇格的角色时额外获得你等级数的STAR。
 
 < CARD_UNIT_EVILGUARDIAN >
 name=噩兆
@@ -469,7 +469,7 @@ descr=经过其他玩家时会发起挑战。\n战斗中获得STAR的50%将给�
 
 < CARD_UNIT_HALENA >
 name=哈琳娜
-descr=停留在自己的HOME格时获得等级×2的STAR。
+descr=停留在自己的HOME格时获得你等级×2的STAR。
 
 < CARD_UNIT_COOK >
 name=库克
@@ -501,7 +501,7 @@ descr=对机械系野怪造成的战斗伤害+2。\n当机械系野怪击倒其�
 
 < CARD_UNIT_REIKA >
 name=星乃丽华
-descr=只能选择STAR目标。\n除轮初奖励与星星收集者外，任意来源获得STAR时额外获得1个。
+descr=只能选择STAR目标。\n除轮初奖励与星星收集者外，任意来源获得STAR时额外获得1颗。
 
 < CARD_UNIT_WATTY >
 name=沃缇
@@ -529,11 +529,11 @@ descr=当其他任何人使用非陷阱甜点类卡片，或触发甜点类陷�
 
 < CARD_UNIT_SWEETMAKER >
 name=纱季（甜点制作者）
-descr=在触发遭遇格并存活时，抽取1张可用等级的甜点类卡片。
+descr=在触发遭遇格并存活时，从卡堆中拿取1张可用等级的甜点类卡片。
 
 < CARD_UNIT_SWEETBLOGGER >
 name=夏美（甜点评论者）
-descr=所有甜点类卡片无需COST。\n在触发掉落格并存活时，抽取1张可用等级的甜点类卡片。
+descr=所有甜点类卡片无需COST。\n在触发掉落格并存活时，从卡堆中拿取1张可用等级的甜点类卡片。
 
 < CARD_UNIT_BOSSJONATHAN_CHAOS >
 name=大乔纳桑
@@ -553,7 +553,7 @@ descr=在你的回合内，挑战敌人时不会停步。
 
 < CARD_UNIT_BOSSSTARDEV_CHAOS >
 name=星星吞噬者
-descr=战斗中，每造成1点伤害偷取1颗STAR，每受到1点伤害交出1颗STAR。\n当你拥有200颗STAR，并将其选为最终目标时，自动取得胜利。
+descr=每造成1点战斗伤害偷取1颗STAR，每受到1点战斗伤害交出1颗STAR。\n当你拥有200颗STAR，并将其选为最终目标时，自动取得胜利。
 
 < CARD_UNIT_POPPO_CHAOS >
 name=混沌啵噗
@@ -577,7 +577,7 @@ descr=
 
 < CARD_UNIT_KRILAPAJAMAS >
 name=睡衣克里拉拉莉丝
-descr=战斗时无法选择闪避。\n若你在使用防御时受到的伤害为1点，消除此伤害，将等级数的STAR支付给对手。
+descr=战斗时无法选择闪避。\n若你在使用防御时受到的伤害为1点，消除该伤害，将你等级数的STAR支付给对手。
 
 < CARD_UNIT_MIMYUUJAILBIRD >
 name=囚犯米缪
@@ -585,15 +585,15 @@ descr=被战斗击倒时，移动至自己的HOME格。
 
 < CARD_UNIT_MOTHERP >
 name=母亲啵噗
-descr=传送时受到1点伤害。\n若在传送后依然存活，抽取1张卡，获得等级数的STAR。
+descr=传送时受到1点伤害。\n若在传送后依然存活，抽取1张卡，获得你等级数的STAR。
 
 < CARD_UNIT_DARKL >
 name=黑暗露露
-descr=放弃挑战他人时，你失去等级数×2的STAR。
+descr=放弃挑战他人时，你失去你等级×2的STAR。
 
 < CARD_COOP_UNIT_DARKL >
 name=黑暗露露
-descr=放弃挑战他人时，你失去等级数×1的STAR。
+descr=放弃挑战他人时，你失去你等级数的STAR。
 
 < CARD_UNIT_HELLIE >
 name=超能艾莉
@@ -650,5 +650,13 @@ descr=先攻时ATK+1、EVD-1。\n后攻时DEF+1。
 < CARD_UNIT_KURIE >
 name=天津栗克莉艾
 descr=
+
+< CARD_UNIT_RINSE >
+name=姬世
+descr=在你的回合开始时，获得「千金的力量」。\n储备效果：下次受到伤害时，获得你等级数的STAR。若受到的是战斗伤害，造成该伤害的角色也获得同样数量的STAR。
+
+< CARD_UNIT_SUISHOU >
+name=水晶
+descr=战斗开始时，对手每拥有1ATK，你的ATK+1，上限为3。
 
 [EOF]

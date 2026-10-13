@@ -197,6 +197,9 @@ Star Baker Breaker
 < SHOP_DLC_MIMOMOKURIE >
 クリエ＆ミモモ
 
+< SHOP_DLC_RINSEREPEAT >
+リンセ＆スイショウ
+
 < SHOP_TOOLTIP_HOME >
 カテゴリー別にアイテムを探す
 

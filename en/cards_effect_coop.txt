@@ -48,7 +48,7 @@ descr=Roll 2 dice for everything except for battle. This effect ends on KO.
 
 < CARD_COOP_BEASTWITCH_EFFECT >
 name=Beast Witch
-descr=Cannot lose stars by a Boss or minion.
+descr=Cannot lose Stars by a Boss or minion.
 
 < CARD_COOP_FINALSURGERY_EFFECT >
 name=Final Surgery
@@ -60,7 +60,7 @@ descr=Cannot be challenged by enemies.\nDo not trigger Encounter or Boss panels.
 
 < CARD_COOP_SPECIALSTAGE_EFFECT >
 name=Live Mode
-descr=Gain -3 MOV, can only trigger movement type panels and cannot use cards. Cannot be challenged by enemies. If an opponent ends their turn in 2 panel radius, steal (your Lvl) x5 stars from them. Ends on KO.
+descr=Gain -3 MOV, can only trigger movement type panels and cannot use cards. Cannot be challenged by enemies. If an opponent ends their turn in 2 panel radius, steal (your Lvl) x5 Stars from them. Ends on KO.
 
 < CARD_COOP_IDEALWORLD_EFFECT >
 name=Robo Pals
@@ -76,7 +76,7 @@ descr=Cannot be challenged. Immune to Trap cards and card damage from the Boss. 
 
 < CARD_COOP_POPPOSNATCHER_EFFECT >
 name=Poppo the Snatcher
-descr=Gain -1 DEF. When passing an enemy, steal your Lvl x3 stars from them. Norma checks are disabled.
+descr=Gain -1 DEF. When passing an enemy, steal (your Lvl) x3 Stars from them. Norma checks are disabled.
 
 < CARD_BOSS_HYPE_EFFECT >
 name=Hype
@@ -180,11 +180,11 @@ descr=Gain -1 DEF, EVD and MOV.
 
 < CARD_BOSS_ELUSIVE_EFFECT >
 name=Elusive
-descr=Steal stars equal to Boss Lvl x 5 when passing an enemy.\nIf not a boss unit, stars are given to an active boss instead.
+descr=Steal (Boss Lvl) x 5 Stars when passing an enemy.\nIf not a boss unit, Stars are given to an active boss instead.
 
 < CARD_BOSS_STARMANIA_EFFECT >
 name=Star Mania
-descr=Every chapter, gain stars equal to amount of stacks.
+descr=Every chapter, gain Stars equal to amount of stacks.
 
 < CARD_BOSS_ROBOTAX_EFFECT >
 name=Robo Tax
@@ -192,11 +192,11 @@ descr=Gain +1 DEF for each stack.
 
 < CARD_BOSS_HIGHWAYROBBERY_EFFECT >
 name=Highway Robbery
-descr=Gain +3 ATK.\nMove in reverse and do not stop upon challenging an enemy.\nFor every point of damage the Boss would deal, steal 10 stars instead.
+descr=Gain +3 ATK.\nMove in reverse and do not stop upon challenging an enemy.\nFor every point of damage the Boss would deal, steal 10 Stars instead.
 
 < CARD_BOSS_GREED_EFFECT >
 name=Greed
-descr=Gain 5 stars for each damage dealt in battle by this unit or an active minion.
+descr=Gain 5 Stars for each damage dealt in battle by this unit or an active minion.
 
 < CARD_BOSS_CHASE_EFFECT >
 name=Chase
@@ -252,7 +252,7 @@ descr=Gain +2 EVD.
 
 < CARD_BOSS_TURBOCHICKEN_EFFECT >
 name=Turbo Chicken
-descr=Gain an additional movement dice and do not stop when challenging an enemy.\nGain +1 ATK for each additional stack.\nGain 25 stars when fighting a player.
+descr=Gain an additional movement dice and do not stop when challenging an enemy.\nGain +1 ATK for each additional stack.\nGain 25 Stars when fighting a player.
 
 < CARD_BOSS_SWARM_EFFECT >
 name=Swarm
@@ -324,7 +324,7 @@ descr=When you trigger a trap, discard all held cards.
 
 < CARD_COOP_BACKDOOR_SCHEME_EFFECT >
 name=Backdoor Scheme
-descr=When you go to 1 HP, lose Lvl x10 stars. Effect expires on KO.
+descr=When you go to 1 HP, lose (your Lvl) x10 Stars. Effect expires on KO.
 
 < CARD_COOP_WARUDA_MACHINE_EFFECT >
 name=Waruda Machine

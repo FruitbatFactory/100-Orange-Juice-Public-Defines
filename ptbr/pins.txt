@@ -230,37 +230,37 @@ artist=Azurée
 
 < PIN_FLYING_SUGURI46 >
 name=Suguri (46 Bilhões de Anos) Voadora
-desc=Entregue a jogadores que jogaram bastante de Suguri (46 Bilhões de Anos)./nEla aplicou 2x de fofura a este broche.
+desc=Entregue a jogadores que jogaram bastante de Suguri (46 Bilhões de Anos).\nEla aplicou 2x de fofura a este broche.
 artist=Azurée
 
 < PIN_FLYING_SUMIKA >
 name=Sumika Voadora
-desc=Entregue a jogadores que jogaram bastante de Sumika./nEste broche da Sumika é a Sumika.
+desc=Entregue a jogadores que jogaram bastante de Sumika.\nEste broche da Sumika é a Sumika.
 artist=Azurée
 
 < PIN_FLYING_MIO >
 name=Mio Voadora
-desc=Entregue a jogadores que jogaram bastante de Mio./nA vida (e morte) de qualquer festa que ela estraga.
+desc=Entregue a jogadores que jogaram bastante de Mio.\nA vida (e morte) de qualquer festa que ela estraga.
 artist=Azurée
 
 < PIN_FLYING_LULU >
 name=Lulu Voadora
-desc=Entregue a jogadores que jogaram bastante de Lulu./nVamos continuar jogando juntos no futuro!
+desc=Entregue a jogadores que jogaram bastante de Lulu.\nVamos continuar jogando juntos no futuro!
 artist=Azurée
 
 < PIN_FLYING_ELLIE >
 name=Ellie Voadora
-desc=Entregue a jogadores que jogaram bastante de Ellie./nEstá na hora de uma aventura!
+desc=Entregue a jogadores que jogaram bastante de Ellie.\nEstá na hora de uma aventura!
 artist=Azurée
 
 < PIN_FLYING_ALICIANRONE >
 name=Alicianrone Voadora
-desc=Entregue a jogadores que jogaram bastante de Alicianrone./nA bruxa mais rápida deste lado da floresta!
+desc=Entregue a jogadores que jogaram bastante de Alicianrone.\nA bruxa mais rápida deste lado da floresta!
 artist=Azurée
 
 < PIN_FLYING_TEOTORATTA >
 name=Teotoratta Voadora
-desc=Entregue a jogadores que jogaram bastante de Teotoratta./nUm amigo em uma besta é de fato um amigo.
+desc=Entregue a jogadores que jogaram bastante de Teotoratta.\nUm amigo em uma besta é de fato um amigo.
 artist=Azurée
 
 < PIN_FLYING_ARNELLE >

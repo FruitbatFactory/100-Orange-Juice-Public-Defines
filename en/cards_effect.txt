@@ -4,11 +4,11 @@ descr=Roll two dice for movement.
 
 < CARD_FLIPOUT_EFFECT >
 name=Flip Out
-descr=When landing on a drop panel, the player(s) with the highest number of stars will lose the same number of stars as this unit.
+descr=When landing on a drop panel, the player(s) with the highest number of Stars will lose the same number of Stars as this unit.
 
 < CARD_NICEJINGLE_EFFECT >
 name=Nice Jingle
-descr=Receive double stars from bonus panels.
+descr=Receive double Stars from bonus panels.
 
 < CARD_EXTEND_EFFECT >
 name=Extend
@@ -16,7 +16,7 @@ descr=After suffering KO, revive on the following turn.
 
 < CARD_STIFFCRYSTAL_EFFECT >
 name=Stiff Crystal
-descr=Negate the effect of a trap card. Gain 5 stars per level of cancelled trap.
+descr=Negate the effect of a trap card. Gain 5 Stars per level of cancelled trap.
 
 < CARD_DANGEROUSPUDDING_EFFECT >
 name=Dangerous Pudding
@@ -180,11 +180,11 @@ descr=-1 Max HP for each stack.
 
 < CARD_CUTIES_EFFECT >
 name=Events Crashed
-descr=+1 star from bonus panels.
+descr=+1 Star from bonus panels.
 
 < CARD_SPECIALSTAGE_EFFECT >
 name=Live Mode
-descr=Gain -3 MOV, can only trigger movement type panels and cannot use cards.\nCannot be challenged to battle by enemies or targeted by Boost cards.\nIf an opponent ends their turn within 2 panels, steal Lvl x5 stars from them.\nEffect expires on KO.
+descr=Gain -3 MOV, can only trigger movement type panels and cannot use cards.\nCannot be challenged to battle by enemies or targeted by Boost cards.\nIf an opponent ends their turn within 2 panels, steal (your Lvl) x5 Stars from them.\nEffect expires on KO.
 
 < CARD_PATHBLOCKERS_EFFECT >
 name=Path Blockers
@@ -321,15 +321,15 @@ flavor=
 
 < CARD_WANTED_EFFECT >
 name=Wanted
-descr=Give double wins on KO from battle. Effect expires on KO.
+descr=Give double Wins on KO from battle. Effect expires on KO.
 
 < CARD_SWEETDESTROYER_EFFECT >
 name=Sweet Destroyer
-descr=Any drawn Sweets type cards will be permanently transformed at random into Dangerous Pudding or Bad Pudding.
+descr=All non-Hyper Sweets type cards that enter a player's hand will be permanently transformed at random into Dangerous Pudding or Bad Pudding.
 
 < CARD_LONELYCHARIOT_EFFECT >
 name=Lonely Chariot
-descr=Always roll 5 to move. On turn end, take 1 damage. Effect expires on KO.\nIf KO'd from this effect, pay Lvl x5 stars.
+descr=Always roll 5 to move. On turn end, take 1 damage. Effect expires on KO.\nIf KO'd from this effect, pay (your Lvl) x5 Stars.
 
 < CARD_PRESIDENTPRIVILEGE_EFFECT >
 name=President's Privilege
@@ -337,7 +337,7 @@ descr=May play cards without paying their cost.
 
 < CARD_SANTASJOB_EFFECT >
 name=Santa's Job
-descr=During standby, may send a card of usable Lvl from hand to another random player. Gain stars equal to Card Lvl x5.
+descr=During standby, may send a card of usable Lvl from hand to another random player. Gain (Card Lvl) x5 Stars.
 
 < CARD_BANNEDFORLIFE_EFFECT >
 name=Banned for Life
@@ -357,11 +357,11 @@ descr=Gain +1 ATK, DEF and EVD for each stack.
 
 < CARD_BEASTWITCHGIFT_EFFECT >
 name=Beast Witch
-descr=When another player loses stars from an Encounter panel battle and those stars would go to the Encounter panel unit, receive them instead.
+descr=When another player loses Stars from an Encounter panel battle and those Stars would go to the Encounter panel unit, receive them instead.
 
 < CARD_UNLUCKYCHARM_EFFECT >
 name=Unlucky Charm
-descr=On turn start, lose Lvl x1 stars.
+descr=On turn start, lose (your Lvl) Stars.
 
 < CARD_WINDYENCHANTMENT_EFFECT >
 name=Windy Enchantment
@@ -373,11 +373,11 @@ descr=Must move backwards. Norma checks are disabled.
 
 < CARD_PRICEOFPOWER_EFFECT >
 name=Price of Power
-descr=You may pay 5 more stars to play a card one level higher than your current level.
+descr=You may pay 5 more Stars to play a card one level higher than your current level.
 
 < CARD_POPPOSNATCHER_EFFECT >
 name=Poppo the Snatcher
-descr=Gain -1 DEF. When passing an enemy, steal target Lvl x3 stars from them. Norma checks are disabled.
+descr=Gain -1 DEF. When passing an enemy, steal (their Lvl) x3 Stars from them. Norma checks are disabled.
 
 < CARD_BLOODLUST_EFFECT >
 name=Bloodlust
@@ -385,11 +385,11 @@ descr=On turn start, lose 1 HP. Heal 1 HP for every damage dealt. Norma checks a
 
 < CARD_LUCKYCHARM_EFFECT >
 name=Lucky Charm
-descr=On turn start, gain Lvl x1 stars. Cannot use any other cards.\nOn defeat, give Lvl x 3 more stars.
+descr=On turn start, gain (your Lvl) Stars. Cannot use any other cards.\nOn defeat, give (your Lvl) x 3 more Stars.
 
 < CARD_MONOCOQUE_EFFECT >
 name=Metallic Monocoque
-descr=When receiving damage from a non-battle effect, that damage is reduced by 1, lose Lvl x 2 stars.
+descr=When receiving damage from a non-battle effect, that damage is reduced by 1, and you lose (your Lvl) x 2 Stars.
 
 < CARD_SAINTEYES_EFFECT >
 name=Saint Eyes
@@ -421,7 +421,7 @@ descr=-1 MOV.
 
 < CARD_PHILOSOPHERSTONE_EFFECT >
 name=Philosopher's Stone
-descr=On every chapter start, gain 4 stars, with an additional 1 star every 5 chapters.
+descr=On every chapter start, gain 4 Stars, with an additional 1 Star every 5 chapters.
 
 < CARD_PERMARECREDUCTION_EFFECT >
 name=Energized
@@ -473,7 +473,7 @@ descr=Permanent +1 Max HP, +1 ATK, -1 DEF.
 
 < CARD_CHOCOLATEDOOM_EFFECT >
 name=IOU
-descr=Dark Chocolate Mousse steals your Lvl x 10 stars and gains a stack of Star Eater at the start of turn when the duration reaches zero. Removed upon defeating the source of the effect, getting KO'd, or visiting an Inn.
+descr=Dark Chocolate Mousse steals (your Lvl) x 10 Stars and gains a stack of Star Eater at the start of turn when the duration reaches zero. Removed upon defeating the source of the effect, getting KO'd, or visiting an Inn.
 
 < CARD_DARKCHOCOMOUSSE_FAME >
 name=Famous Weakling Slayer
@@ -545,7 +545,7 @@ descr=Roll 2 dice for everything except for battle. This effect ends when you st
 
 < CARD_SAFEJOURNEY_EFFECT >
 name=Safe Journey
-descr=Lose 5 stars at the start of each turn. Ignore Drop panels, traps, and card effect damage. The effect is removed when landing on your own Home panel or having less than 5 stars.
+descr=Lose 5 Stars at the start of each turn. Ignore Drop panels, traps, and card effect damage. The effect is removed when landing on your own Home panel or having less than 5 Stars.
 
 < CARD_HUNGRY_EFFECT >
 name=Hungry
@@ -643,7 +643,7 @@ descr=Gain +1 MOV on your next movement roll for each stack.
 
 < CARD_PLENTIFULHARVEST_EFFECT >
 name=Plentiful Harvest
-descr=You will gain stars upon completing Bounties.
+descr=You will gain Stars upon completing Bounties.
 
 < CARD_COMMANDER_EFFECT >
 name=Commander
@@ -679,7 +679,7 @@ descr=Gain +1 base EVD for each stack (up to +3 base EVD).
 
 < CARD_CHAOS_LAUNCH_EFFECT >
 name=Chaos Launch
-descr=At the start of your turn, dive to chosen panel dealing Lvl x1 damage to units within 2 panel radius, and Lvl x2 damage to units within 1 panel radius.
+descr=At the start of your turn, dive to chosen panel dealing (your Lvl) damage to units within 2 panel radius, and (your Lvl) x2 damage to units within 1 panel radius.
 
 < CARD_CHAOS_DIVE_FATIGUE_EFFECT >
 name=Dive Fatigue
@@ -703,7 +703,7 @@ descr=Cannot be challenged or be the target of other players' Boost cards. Immun
 
 < CARD_MOTHERPOWER_EFFECT >
 name=Mother Power
-descr=Gain Lvl x1 stars for every point of damage you take. If the effect ends or is replaced while active, heal to full HP. Effect ends on KO.
+descr=Gain (your Lvl) Stars for every point of damage you take. If the effect ends or is replaced while active, heal to full HP. Effect ends on KO.
 
 < CARD_HYPERMIRACLE_EFFECT >
 name=Ellie's Hyper Miracle
@@ -723,7 +723,7 @@ descr=Upon triggering a Warp or Warp Move, consume this effect and choose anothe
 
 < CARD_NANAKOBIT_EFFECT >
 name=Nanako's Bit
-descr=Randomly gain +1 ATK, +1 DEF, or +1 EVD at the start of battle while this card is held, and lose 7 stars.
+descr=Randomly gain +1 ATK, +1 DEF, or +1 EVD at the start of battle while this card is held, and lose 7 Stars.
 
 < CARD_CANNONBALL_EFFECT >
 name=Cannonball Counter
@@ -743,7 +743,7 @@ descr=Double your natural die rolls for Attack, Defense, Evade, Move, Bonus and 
 
 < CARD_HYPER_CHUU_EFFECT >
 name=I'll Get a Little Into It
-descr=Gain +1 ATK for each stack. Gain no stars from defeating enemies. The first time you defeat a player in battle while this effect is active, gain 2 Wins.
+descr=Gain +1 ATK for each stack. Gain no Stars from defeating enemies. The first time you defeat a player in battle while this effect is active, gain 2 Wins.
 
 < CARD_CHAOS_SLAYER_EFFECT >
 name=Soul of the Slayer
@@ -763,11 +763,11 @@ descr=If another player suffers KO, they recover instantly with full HP.
 
 < CARD_HYPER_HARUKA_PERSONAL_EFFECT >
 name=Hyped!
-descr=When another player suffers KO, gain their Lvl x 5 stars. This effect can stack with multiple Hype Bringer active.
+descr=When another player suffers KO, gain (their Lvl) x 5 Stars. This effect can stack with multiple Hype Bringer active.
 
 < CARD_INTELLECTUALBLUFF_EFFECT >
 name=Intellectual-Sounding Bluff
-descr=If the next card you play is the setter's Chosen type: They gain 2 Wins and Lvl x 10 stars.\nDeclared only: They take 2 damage.
+descr=If the next card you play is the setter's Chosen type: They gain 2 Wins and (your Lvl) x 10 Stars.\nDeclared only: They take 2 damage.
 
 < CARD_TICKEDOFF_EFFECT >
 name=We're Ticked Off!
@@ -775,7 +775,7 @@ descr=If your HP is 1 at the start of the battle, gain +2 ATK.
 
 < CARD_LONGARMS_EFFECT >
 name=Look How Long My Arms and Legs Are Now
-descr=You may pay 5 more stars to place traps within a 2 panel radius. Increase all non-Trap, non-Gift card levels by 1 (up to 5).
+descr=You may pay 5 more Stars to place traps within a 2 panel radius. Increase all non-Trap, non-Gift card levels by 1 (up to 5).
 
 < CARD_BURNINGPANEL_EFFECT >
 name=Burning Panel
@@ -817,17 +817,25 @@ descr=When you would be KO'd by damage during battle, lower your HP to 1 instead
 name=Teacher's Resolve
 descr=Heal 1 HP after activating a Draw, Move, Warp, Warp Move, or Random panel.
 
+< CARD_EFFECT_RINSE_YOUNGLADYPOWER >
+name=Young Lady's Power
+descr=Next time you take damage, gain (your Lvl) Stars. Does not stack.
+
+< CARD_EFFECT_RINSE_FIERCEYOUNGLADY >
+name=Fierce Young Lady
+descr=Next time you take damage in battle, gain (your Lvl) x2 Stars for every point of damage (up to 9 damage). If you paid as much or more to play a battle card than gained from this effect, heal to full HP at the end of the battle. This effect is removed upon KO. 
+
 < CARD_EFFECT_CHAOS_GM_TRAPCARD >
 name=Trap Card
 descr=A random trap is placed on a random panel.
 
 < CARD_EFFECT_CHAOS_GM_TARGETEDDOUBLEDROP >
 name=Targeted Double Drop
-descr=A Double Drop debuff is placed upon the unit with most stars.\nDouble Drop: Drop twice as much stars on the next Drop Panel.
+descr=A Double Drop debuff is placed upon the unit with most Stars.\nDouble Drop: Drop twice as much Stars on the next Drop Panel.
 
 < CARD_EFFECT_CHAOS_GM_DOUBLEDROP_EFFECT >
 name=Double Drop
-descr=Drop twice as much stars on the next Drop Panel.
+descr=Drop twice as much Stars on the next Drop Panel.
 
 < CARD_EFFECT_CHAOS_GM_AIRRAID >
 name=Air Raid
@@ -835,7 +843,7 @@ descr=All units immediately take 1 damage.
 
 < CARD_EFFECT_CHAOS_GM_PAYCHECK >
 name=Paycheck
-descr=Your unit immediately gain Lvl x 5 stars.
+descr=Your unit immediately gains (your Lvl) x 5 Stars.
 
 < CARD_EFFECT_CHAOS_GM_GLORYOFBATTLE >
 name=Glory of Battle
@@ -911,7 +919,7 @@ descr=All units immediately take 1 to 3 damage.
 
 < CARD_EFFECT_CHAOS_GM_KAILOSTWALLET >
 name=Kai's Lost Wallet
-descr=Your unit gains 1, 10, 15, 25, 50, or 100 stars.
+descr=Your unit gains 1, 10, 15, 25, 50, or 100 Stars.
 
 < CARD_EFFECT_CHAOS_GM_FORCEDWARP >
 name=Forced Warp
@@ -959,7 +967,7 @@ descr=All units will gain +3 DEF, and -3 ATK for 3 chapters.
 
 < CARD_EFFECT_CHAOS_GM_UNFAIREXCHANGE >
 name=Unfair Exchange
-descr=Everyone's stars immediately change owners.
+descr=Everyone's Stars immediately change owners.
 
 < CARD_EFFECT_CHAOS_GM_STARSHOWER >
 name=Starshower

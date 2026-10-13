@@ -395,9 +395,9 @@
 
 < LORE_SHIFU >
 1=Shifu es el líder de una misión con esperanza - un equipo que ha viajado a través del espacio por 10.000 años en búsqueda de un mundo habitable tras las incesantes guerras de la época de Sora.
-2=Le gusta: Nada\nNo le gusta: Todo y todo aquél que se meta en su camino
-3=El hombre que aparenta estar en sus 30s tiene una personalidad tiránica y narcisista, pero también es un genio sin rival con su intelecto siendo la única razón que los habitantes de la nave espacial sobrevivieron.
-4=Al regresar a la Tierra en el fin de su jornada, él creo una cantidad numerosa de armas, incluyendo a los humanos alterados llamados Marca Shifu, y planeó invadir y tomar la Tierra por su población. Aun así, él fue detenido por Suguri.
+2=Le gusta: No le gusta nada\nNo le gusta: Todo y todos aquellos que se metan en su camino
+3=Él aparenta estar en sus 30s y tiene una personalidad tiránica y narcisista, pero también es un genio sin rival, su intelecto siendo la única razón por la que los habitantes de su nave espacial han sobrevivido. 
+4=Al regresar a la Tierra en el fin de su viaje, él creo una cantidad numerosa de armas, dentro de ellas estando los humanos alterados Marca Shifu, planeando invadir y conquistar a la población de la Tierra con ellos. A pesar de su plan, él fue detenido por Suguri.
 
 < LORE_MESCAL >
 1=La fecha y lugar de nacimiento de Mescal son desconocidos. Sin permitir que ese hecho le moleste, ella fue criada por el pirata del cielo, el Capitán Tequila, y su pandilla de piratas como una chica inocente y salvaje. Ya que su familia siempre han sido los piratas del cielo, ella no se ve a si misma como un pirata, pero cree que es una aviadora normal. 
@@ -405,7 +405,6 @@
 3=Tras la caída del Gremio, Mescal vive en una granja con su padre adoptivo, lo que le parece muy aburrido y la llevó a interesarse en la verdadera aviación.
 4=Debido al hecho de que no ha conocido a otras chicas de su edad hasta muy recientemente, ella se ha interesado en Marc, especialmente como aviadora, y la ve como una mentora, siguiéndola a todas partes. Ella le dice Hermana Mayor a Marc y Papito a Tequila.
 5=Tras pasar el tiempo con Marc, el olor a gente vieja de los pirates ha comenzado a molestar a Mescal. El pastel de manzana que Marc cocina para Mescal es su favorito.
-
 
 < LORE_MALT >
 1=Un hombre encantador, caballeroso de mediana edad que siempre está persiguiendo su sueño. Su origen se desconoce. Durante los días militares de Malt, el tuvo la visión necesaria para el crecimiento de la industria de aviación y convenció a Grain, con quien solía trabajar, para establecer una organización de aviadores con él.

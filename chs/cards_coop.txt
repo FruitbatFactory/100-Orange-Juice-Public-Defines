@@ -35,7 +35,7 @@ flavor=「快过来，点心时间到啦！吃吧吃吧！」—秀拉
 
 < CARD_BOOST_COOP_FREIGHT >
 name=货物
-descr=当你停留在自己的HOME格时，此卡将被丢弃，并获得5颗STAR。\n使用将丢弃这张卡。
+descr=当你停留在自己的HOME格时，此卡将被丢弃，并获得5颗STAR。\n使用时没有效果。
 flavor=「那个货物就让给你了。是的，让给你了。」\n—商人
 
 < CARD_EVENT_COOP_FORCEDREVIVAL >
@@ -50,7 +50,7 @@ flavor=「在不久的将来，公会将会背叛你。\n……记住这件事�
 
 < CARD_GIFT_COOP_POPPOTHESNATCHER >
 name=掠夺者啵噗
-descr=DEF-1。\n在你的回合，经过敌人时偷取你等级×3的STAR。\n持有时无法进行目标检测。\n在使用或倒下时，将丢弃这张卡。
+descr=DEF-1。\n在你的回合，经过敌人时偷取你等级×3的STAR。\n持有时无法进行目标检测。\n倒下时将丢弃这张卡。
 flavor=「啵嘻嘻！！」—啵噗
 
 < CARD_TRAP_COOP_BANKOFPOPPO >
@@ -70,12 +70,12 @@ flavor=「那么谁才是最可爱的人呢！？」—纱季
 
 < CARD_BATTLE_COOP_MOUSSETHETHIEF >
 name=小偷唠鼠
-descr=如果你在战斗结束时依然存活，BOSS失去X颗STAR，你获得X颗STAR。X为下一张BOSS卡的等级数×10。只能对BOSS使用。
+descr=如果你在战斗结束时依然存活，BOSS失去下一张BOSS卡等级数×10的STAR，你获得该数量的STAR。只能对BOSS使用。
 flavor=「等等，那是很重要的东西。」—优空
 
 < CARD_BANNER_COOP_PROTECTIONFEE >
 name=保护费
-descr=当BOSS或手下停留在HOME格时，BOSS失去X颗STAR，你获得X颗STAR。X为你的等级数×5。
+descr=当BOSS或手下停留在HOME格时，BOSS失去你等级数×5的STAR，你获得你等级数×5的STAR。
 flavor=「这根本就是敲诈啊……」—露露
 
 < CARD_EVENT_COOP_EXTREMEALTERATION >
@@ -100,12 +100,12 @@ flavor=「接下来该开店了。」—亚瑟
 
 < CARD_HYPER_COOP_ARUSCRAMBLE >
 name=圣诞小姐的工作
-descr=在待命时，你可以选择这张卡以外的1张可用等级的手牌转让给另1名随机玩家。\n获得转让卡片等级×5的STAR。\n在使用或倒下时，将丢弃这张卡。
+descr=在待命时，你可以选择这张卡以外的1张可用等级的手牌转让给另1名随机玩家。\n获得转让卡片等级×5的STAR。\n倒下时将丢弃这张卡。
 flavor=「等着我们吧，全世界的孩子们！」—亚琉
 
 < CARD_HYPER_COOP_CHICKEN >
 name=金蛋
-descr=获得等级×10的STAR。
+descr=获得你等级×10的STAR。
 flavor=「咯咯——！」—鸡
 
 < CARD_HYPER_COOP_FERNET >
@@ -117,11 +117,6 @@ flavor=「哼，给我击坠她。」—菲尔涅特
 name=束缚之锁
 descr=储备效果\n所有敌人跳过各自的下一个回合。\n所有存活的敌人受到束缚效果。\n持续效果（2轮）\nEVD-2，MOV-1。
 flavor=「才不是喜欢这种事呢。」—姬梦
-
-< CARD_HYPER_COOP_IRU >
-name=扩散光子步枪
-descr=★COST（等级×5）\n随机敌人受到1点伤害。\n造成击倒时获得1WIN。\n该效果发动次数为你的等级数。
-flavor=「我要把你们都击坠。」—依琉
 
 < CARD_HYPER_COOP_KAE >
 name=爆燃！
@@ -138,11 +133,6 @@ name=决杀手术
 descr=击倒所有HP为1的角色。\n每通过该效果击倒1名角色，移除1层「奇怪的药」，获得25颗STAR。\n因此倒下的同伴REC-2。
 flavor=「我这就给你治疗，乖乖待着别动。」\n—斩子
 
-< CARD_HYPER_COOP_KRILAEVENT >
-name=玩偶使
-descr=将3～5张「起舞吧长耳兽」\n放置在随机的格子上。
-flavor=「起舞吧长耳兽！」—克里拉拉莉丝
-
 < CARD_HYPER_COOP_KRILATRAP >
 name=起舞吧长耳兽
 descr=受到2点伤害。\n放置这张卡的玩家获得1点HP。\n储备效果\n在下一场战斗中ATK-2。\n友方不会触发这张卡。
@@ -150,7 +140,7 @@ flavor=「起舞吧长耳兽！」—克里拉拉莉丝
 
 < CARD_HYPER_COOP_MALT >
 name=黄昏色的梦
-descr=★COST（等级×7）\n持续效果（等级数轮）\n所有友方在BOSS格上战斗时ATK+1。\n当敌人移动到你放置了战斗卡陷阱的格子时，必须停在这一格。
+descr=★COST（等级×7）\n持续效果（你等级数的轮）\n所有友方在BOSS格上战斗时ATK+1。\n当敌人移动到你放置了战斗卡陷阱的格子时，必须停在这一格。
 flavor=「天空中飞舞着无数的飞翼。\n你不觉得这简直就是梦境般的景象吗？」\n—莫尔特
 
 < CARD_HYPER_COOP_MASTER >
@@ -175,7 +165,7 @@ flavor=「白色圣诞大粉碎！」—梅依、小红和小蓝
 
 < CARD_HYPER_COOP_NATH >
 name=另一个最终兵器
-descr=★COST（ATK每+1 10STAR）\nATK和DEF+1。\n此外，COST每消耗10颗STAR，ATK和DEF+1，ATK最高能达到+9。
+descr=★COST（增加的ATK数×10）\nATK和DEF+1。\n此外，COST每消耗10颗STAR，ATK和DEF+1，ATK最高能达到+9。
 flavor=「因为你不在了，所以我代替你成为了最终兵器。」\n—娜德
 
 < CARD_HYPER_COOP_NONAME >
@@ -208,11 +198,6 @@ name=变化无常的风车
 descr=与所有BOSS进行对方先攻的战斗。\n战斗中EVD+1。
 flavor=「我们只是，想要自由地飞翔而已。」—雪莉
 
-< CARD_HYPER_COOP_STARBREAKER >
-name=星球的导火线
-descr=将3～5个「不可视的炸弹」\n放置在随机的格子上。
-flavor=「因为我是星球破坏者，破坏星球的导火线。」\n—星球破坏者
-
 < CARD_HYPER_COOP_STARBREAKER2 >
 name=不可视的炸弹
 descr=敌人受到4点伤害。\n同伴不会触发这张卡。\n只有放置这张卡的玩家自己和同伴可以看到这张卡。
@@ -238,11 +223,6 @@ name=杀戮魔法
 descr=对所有敌人造成X点伤害。\nX为倒下的同伴人数×3。
 flavor=「消失吧。」—兔萌萌
 
-< CARD_HYPER_COOP_TOMOMOSWEETEATER >
-name=魔法复仇
-descr=你目前所缺失的每点HP，使除你以外的随机1名敌人受到1点伤害。\n造成击倒时获得1WIN。\n当持有者不是「兔萌萌（甜点品尝者）」时，此卡会变为「奇迹红豆冰淇淋」。
-flavor=「魔法复仇的时间到了！」 —兔萌萌
-
 < CARD_HYPER_COOP_TSIH >
 name=隐身启动
 descr=持续效果（3轮）\n无法被敌人挑战。\n不会触发遭遇格或BOSS格。\n进入战斗时效果结束，并且这场战斗中ATK+2。
@@ -252,16 +232,6 @@ flavor=「一下子就消失了啦！」—杏
 name=赌博！
 descr=随机对你或BOSS造成你当前HP上限的伤害。
 flavor=「谁会死去，就用这个来决定吧？」—由希
-
-< CARD_HYPER_COOP_YUKIDANGEROUS >
-name=阴谋的操纵者
-descr=从卡堆抽取3张陷阱卡，将手牌中的所有陷阱卡放置在随机的格子上。 
-flavor=「因我的力量而颤抖吧！」—由希
-
-< CARD_HYPER_COOP_ARTHUR >
-name=店铺扩张战略
-descr=★COST（手牌数×5）\n所有的手牌（包括这张卡）变为「兔子模玩店」。\n这个回合你可以再使用1张卡片。
-flavor=「哼。」—亚瑟
 
 < CARD_HYPER_COOP_MIMYUU >
 name=阴谋的间谍行动～执行
@@ -300,7 +270,7 @@ flavor=「服从我吧！野兽们！」—缇欧特拉塔
 
 < CARD_HYPER_COOP_CUTIES >
 name=特别演出
-descr=★COST（等级×10）\n进入X回合的演唱会模式，X为你的等级数。\nMOV-3，只能触发移动类型的格子，无法使用卡片。\n不会被敌人挑战。\n当对手在5×5范围内结束回合时，从其手中夺取你等级×5的STAR。\n倒下时演唱会结束。
+descr=★COST（等级×10）\n进入你等级数回合的演唱会模式。\nMOV-3，只能触发移动类型的格子，无法使用卡片。\n不会被敌人挑战。\n当对手在5×5范围内结束回合时，从其手中夺取你等级×5的STAR。\n倒下时演唱会结束。
 flavor=「这就是最强的可爱者！」—优空和夏姆
 
 < CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE >
@@ -370,18 +340,23 @@ flavor=「露露是……厄运之龙……」—黑暗露露
 
 < CARD_HYPER_COOP_GRAIN >
 name=全炮门开启
-descr=消耗所有炮弹。对随机1名敌人造成1点伤害。\n造成击倒时，你获得1WIN与你等级×10的STAR。\n每消耗1枚炮弹重复一次此行为。
+descr=获得1枚炮弹，然后消耗所有炮弹。\n对随机1名敌人造成1点伤害。\n造成击倒时，你获得1WIN与你等级×3的STAR。\n每消耗1枚炮弹重复一次此行为。
 flavor=「全炮门开启……发射！」—格雷因
 
 < CARD_HYPER_COOP_HARUKA >
 name=暖场高手
-descr=持续效果（2轮）\n每当一名玩家倒下时，支付等级×5的STAR，该玩家立即以最大HP复活。
+descr=持续效果（2轮）\n每当一名玩家倒下时，支付你等级×5的STAR，该玩家立即以最大HP复活。
 flavor=「大家都来热热闹闹地玩起来吧！」—春留果
 
 < CARD_HYPER_COOP_KANATA >
 name=故弄玄虚
 descr=持续效果（3轮）\n选择一种卡片类型（战斗、增益、事件、其它）。\n每当有玩家使用这种类型的卡片时，该玩家抽1张卡。
 flavor=「你的手牌已经被我看透了。」—夏奈多
+
+< CARD_HYPER_COOP_SUISHOU >
+name=雪村流的架势
+descr=储备效果\n下次防御战斗伤害时，消除该伤害，并向对方造成等量伤害，上限为你当前的HP。\n倒下时效果结束。
+flavor=「雪村流可以化解一切攻击。」—水晶
 
 < CARD_BOSS_COOP_DOZE >
 name=打盹
@@ -590,7 +565,7 @@ flavor=
 
 < CARD_BOSS_COOP_ELUSIVE >
 name=飘忽不定
-descr=发生恩惠和随机传送事件。\n在这个回合，BOSS或存活手下在进入玩家所在的格子时玩家失去X颗STAR，BOSS获得X颗STAR。\nX为BOSS的等级数×5。
+descr=发生恩惠和随机传送事件。\n在这个回合，BOSS或存活手下在进入玩家所在的格子时玩家失去BOSS等级×5的STAR，BOSS获得BOSS等级×5的STAR。
 flavor=
 
 < CARD_BOSS_COOP_STAR_MANIA >
@@ -680,7 +655,7 @@ flavor=
 
 < CARD_BOSS_COOP_POPPOCALYPSE >
 name=啵噗末日
-descr=持续效果（1轮）\n所有BOSS、HOME、传送以外的格子变为遭遇格。所有啵噗ATK+2。\n野生啵噗在战斗中造成的每点伤害额外给予BOSS 5颗STAR。
+descr=持续效果（1轮）\n所有BOSS、HOME、传送以外的格子变为遭遇格。所有啵噗ATK+2。\n野生啵噗在战斗中造成的每点伤害给予BOSS 5颗STAR。
 flavor=
 
 < CARD_BOSS_COOP_HOARDER >
@@ -755,7 +730,7 @@ flavor=
 
 < CARD_BOSS_COOP_PLAY_WITH_BIRDS >
 name=和鸟玩
-descr=持续效果（1轮）\n手下在战斗中受到伤害时，BOSS获得1点兴奋，并和存活的手下一起ATK+1。
+descr=持续效果（1轮）\n手下受到战斗伤害时，BOSS获得1点兴奋，并和存活的手下一起ATK+1。
 flavor=
 
 < CARD_BOSS_COOP_SEAGULL_MASTER >
@@ -785,7 +760,7 @@ flavor=
 
 < CARD_BOSS_COOP_HYPE_IT_UP >
 name=兴奋起来
-descr=获得4点兴奋。\n直到下一个BOSS的回合前，ATK和DEF+1，EVD-1，在战斗中受到伤害时失去1点兴奋，被战斗击倒时失去2点兴奋。
+descr=获得4点兴奋。\n直到下一个BOSS的回合前，ATK和DEF+1，EVD-1，受到战斗伤害时失去1点兴奋，被战斗击倒时失去2点兴奋。
 flavor=
 
 < CARD_BOSS_COOP_SANDWICH_THIEVES >
@@ -1245,7 +1220,7 @@ flavor=
 
 < CARD_BOSS_COOP_BACKDOOR_SCHEME >
 name=暗箱操作
-descr=所有玩家获得以下效果：\n储备效果（1）\n当你HP降至1时，失去等级×10的STAR。\n倒下时效果结束。
+descr=所有玩家获得以下效果：\n储备效果（1）\n当你HP降至1时，失去你等级×10的STAR。\n倒下时效果结束。
 flavor=
 
 < CARD_BOSS_COOP_WARUDA_MACHINE >

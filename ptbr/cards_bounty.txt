@@ -10,17 +10,17 @@ flavor=
 
 < CARD_BOUNTY_MOUSSE_HUNT >
 name=Mousse
-descr=Mousse irá levar seu Nível x estrelas toda vez que te der dano.
+descr=Mousse irá levar (Seu Nvl) x Estrelas toda vez que te der dano.
 flavor=
 
 < CARD_BOUNTY_STRANGEMOUSSE_HUNT >
 name=Mousse de Lima Limão
-descr=Mousse de Lima Limão vai pegar seu Nvl x estrelas toda vez que te der dano.
+descr=Mousse de Lima Limão vai pegar (Seu Nvl) x Estrelas toda vez que te der dano.
 flavor=
 
 < CARD_BOUNTY_POWERMOUSSE_HUNT >
 name=Mousse de Morango
-descr=Mousse de Morango vai pegar seu Nvl x estrelas toda vez que te der dano.
+descr=Mousse de Morango vai pegar (Seu Nvl) x Estrelas toda vez que te der dano.
 flavor=
 
 < CARD_BOUNTY_DOLL_HUNT >
@@ -184,7 +184,7 @@ flavor="Irá ajudar muito nossa expedição... se funcionar o suficiente!" ―Ar
 
 < CARD_HYPER_BOUNTY_ELLIE >
 name=O Milagre de Ellie
-descr=★Custo: Nível x10\nDuração do Efeito: 2 capítulos. Ganhe +X ATK, +Y DEF, e +Z EVD, onde X = Seu total de Norma completado, Y = Sua Fama atual / 5, e Z = Suas Estrelas atuais / 50.
+descr=★Custo: Nvl x10\nDuração do Efeito: 2 capítulos. Ganhe +X ATK, +Y DEF, e +Z EVD, onde X = Seu total de Norma completado, Y = Sua Fama atual / 5, e Z = Suas Estrelas atuais / 50.
 flavor="Receba meu milagre!" ―Ellie
 
 < CARD_BOUNTY_SCRAMBLED_EVE >
@@ -194,7 +194,7 @@ flavor="Espere! Devolva-me os presentes!" ―Aru
 
 < CARD_BOUNTY_TRAP_WANTED >
 name=Procurado
-descr=Efeito de Estoque\nDê o dobro de vitórias em nocaute por batalha. Efeito expira em nocaute.\nUma caça para o jogador alvo também é colocada no Tabuleiro de Caça, e eles recebem um Emblema de Assassino.
+descr=Efeito de Estoque\nDê o dobro de Vitórias em nocaute por batalha. Efeito expira em nocaute.\nUma caça para o jogador alvo também é colocada no Tabuleiro de Caça, e eles recebem um Emblema de Assassino.
 flavor="Por aqui! Meu nariz nunca está errado!" ―QP
 
 < CARD_HYPER_BOUNTY_COOK >
@@ -204,7 +204,7 @@ flavor="*Pia pia*! Cook deseja ir por aqui." ―Cook
 
 < CARD_BOUNTY_PROTECTIONFEE >
 name=Taxa de Proteção
-descr=Ao parar no Painel de Casa de outro jogador, pague (seu Nível) x2 estrelas a ele. Se você falhar a checagem de Norma, tome 1 de dano.
+descr=Ao parar no Painel de Casa de outro jogador, pague (Seu Nvl) x2 Estrelas a ele. Se você falhar a checagem de Norma, tome 1 de dano.
 flavor="Isso é um roubo..." ―Lulu
 
 < CARD_HYPER_BOUNTY_MIMOMO >

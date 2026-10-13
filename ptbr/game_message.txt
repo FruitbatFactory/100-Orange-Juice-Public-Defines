@@ -109,6 +109,9 @@ Se recuperando!
 < GAME_MESSAGE_EVENT_NEXTCHAPTER >
 {} no próximo capítulo!
 
+< GAME_MESSAGE_EVENT_CHAPTEREND >
+{} ativará ao final deste capítulo!
+
 < GAME_MESSAGE_VALENTINE2018_CHOCOLATEFRENZY >
 Delírio dos Chocolates!
 
@@ -159,6 +162,9 @@ Você deseja parar na Loja?
 
 < GAME_MESSAGE_MONSTERCHALLENGE >
 Desafiar este monstro?
+
+< GAME_MESSAGE_SUMMER2020_SPEEDUP_WARNING >
+Aumentando velocidade em {}...
 
 < GAME_MESSAGE_SUMMER2020_SPEEDUP >
 Aumentou velocidade!

@@ -54,7 +54,7 @@
 В комнате нет мест.
 
 < LOBBY_STEAMID_EXISTS >
-Игрок с этим SteamID уже в игре.
+Игрок с таким SteamID уже в игре.
 
 < LOBBY_WRONGPASSWORD >
 Неверный пароль.
@@ -90,7 +90,7 @@
 Связь с игроком потеряна.
 
 < LOBBY_HOSTCONNECTIONLOST >
-Связь с хостом потеряна.
+Связь с хозяином потеряна.
 
 < LOBBY_REMOVEDFORIDLING >
 Вы исключены из-за долгого отсутствия в игре.
@@ -173,10 +173,10 @@
 Игра окончена! Возвращаемся в комнату.
 
 < CHAT_SYSTEM_REQUESTEDPLAYERSLOT >
-Запрашиваем у хоста место для игрока...
+Запрашиваем у хозяина место для игрока...
 
 < CHAT_SYSTEM_REQUESTEDSPECTATORSLOT >
-Запрашиваем у хоста место для наблюдения...
+Запрашиваем у хозяина место для наблюдения...
 
 < CHAT_SYSTEM_PLAYERSLOTREQUESTTIMEOUT >
 Время запроса истекло.
@@ -219,7 +219,7 @@
 Приглашение В Ожидании Ответа
 
 < GAMEINVITE_JOIN_TOOLTIP >
-Вернитесь в Главное меню чтобы присоединиться к игре.
+Вернитесь в Главное Меню, чтобы присоединиться к игре.
 
 // Game speed: <nb>
 < GAMEINVITE_NORMAL_MODE_DETAILS >
@@ -227,7 +227,7 @@
 
 // Game speed: <nb>, <boss name> — <boss difficulty>
 < GAMEINVITE_COOP_MODE_DETAILS >
-Скорость: %d, %s, %s
+Скорость: %d, %s — %s
 
 < LOBBY_QUICKJOIN_TOOLTIP >
 Быстрая игра.
@@ -239,3 +239,4 @@
 Побед: %d
 
 [EOF]
+

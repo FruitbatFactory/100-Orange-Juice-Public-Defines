@@ -180,7 +180,7 @@ descr=每层储备使HP上限-1。
 
 < CARD_CUTIES_EFFECT >
 name=闯入活动
-descr=从奖励格获得STAR时额外获得1个。
+descr=从奖励格获得STAR时额外获得1颗。
 
 < CARD_SPECIALSTAGE_EFFECT >
 name=演唱会模式
@@ -325,7 +325,7 @@ descr=被战斗击倒时对方获得双倍WIN。\n倒下时效果结束。
 
 < CARD_SWEETDESTROYER_EFFECT >
 name=甜点的破坏者
-descr=抽取的所有非HYPER甜点类卡片随机永久变为「危险布丁」或「糟糕的布丁」。
+descr=所有进入手牌的非HYPER甜点类卡片随机永久变为「危险布丁」或「糟糕的布丁」。
 
 < CARD_LONELYCHARIOT_EFFECT >
 name=孤独的暴走车
@@ -337,7 +337,7 @@ descr=使用卡片无需COST。
 
 < CARD_SANTASJOB_EFFECT >
 name=圣诞小姐的工作
-descr=在待命时，可以选择1张可用等级的手牌转让给另1名随机玩家。\n获得转让卡片的等级×5的STAR。
+descr=在待命时，可以选择1张可用等级的手牌转让给另1名随机玩家。\n你获得转让卡片的等级×5的STAR。
 
 < CARD_BANNEDFORLIFE_EFFECT >
 name=永久驱逐
@@ -361,7 +361,7 @@ descr=当其他玩家在遭遇格的战斗中失去STAR，且这些STAR将由遭
 
 < CARD_UNLUCKYCHARM_EFFECT >
 name=不幸护符
-descr=在回合开始时失去等级数的STAR。
+descr=在回合开始时失去你等级数的STAR。
 
 < CARD_WINDYENCHANTMENT_EFFECT >
 name=疾风附魔
@@ -385,11 +385,11 @@ descr=在回合开始时失去1点HP。每造成1点伤害时恢复1点HP。\n�
 
 < CARD_LUCKYCHARM_EFFECT >
 name=幸运护符
-descr=在回合开始时获得等级数的STAR。\n无法使用其它卡片。\n被战斗击倒时，需额外给予等级×3的STAR。
+descr=在回合开始时获得你等级数的STAR。\n无法使用其它卡片。\n被战斗击倒时，须额外交出你等级×3的STAR。
 
 < CARD_MONOCOQUE_EFFECT >
 name=全金属单体结构
-descr=受到战斗外效果的造成伤害时，这个伤害降低1点，失去等级×2的STAR。
+descr=受到战斗外效果的造成伤害时，这个伤害降低1点，失去你等级×2的STAR。
 
 < CARD_SAINTEYES_EFFECT >
 name=圣露眼
@@ -437,7 +437,7 @@ descr=在你的回合开始时，恢复储备层数的HP。
 
 < CARD_RADAR_EFFECT >
 name=观察者
-descr=获悉所有怪物的所在地点。
+descr=获悉所有魔物的所在地点。
 
 < CARD_PRECISIONGOGGLES_EFFECT >
 name=目光敏锐
@@ -703,7 +703,7 @@ descr=无法被挑战或被其他玩家的增益卡指定为目标。\n免疫来
 
 < CARD_MOTHERPOWER_EFFECT >
 name=母亲之力
-descr=你受到的每点伤害使你获得等级数的STAR。\n当效果在存活时结束或被刷新，恢复所有HP。\n倒下时效果结束。
+descr=你受到的每点伤害使你获得你等级数的STAR。\n当效果在存活时结束或被刷新，恢复所有HP。\n倒下时效果结束。
 
 < CARD_HYPERMIRACLE_EFFECT >
 name=艾莉的超能奇迹
@@ -767,7 +767,7 @@ descr=当其他玩家倒下时，获得其等级×5的STAR。\n当有多个「�
 
 < CARD_INTELLECTUALBLUFF_EFFECT >
 name=故弄玄虚
-descr=当你使用的下一张卡片：\n·符合指定者暗自选择：其获得2WIN和等级×10的STAR。\n·仅符合指定者宣称：其受到2点伤害。
+descr=当你使用的下一张卡片：\n·符合指定者暗自选择：其获得2WIN和你等级×10的STAR。\n·仅符合指定者宣称：其受到2点伤害。
 
 < CARD_TICKEDOFF_EFFECT >
 name=你把我惹毛了！
@@ -775,7 +775,7 @@ descr=如果你在战斗开始时HP为1，ATK+2。
 
 < CARD_LONGARMS_EFFECT >
 name=手长脚也长
-descr=你可以多花5颗STAR将陷阱放置在5×5的范围内。所有非陷阱、非礼物的卡片等级+1（上限为5）。
+descr=你可以多花5颗STAR将陷阱放置在5×5的范围内。所有非陷阱、非礼物的卡片使用等级+1（上限为5）。
 
 < CARD_BURNINGPANEL_EFFECT >
 name=燃烧中的格子
@@ -817,6 +817,14 @@ descr=在你将因战斗伤害倒下时，残留1点HP。
 name=老师的决心
 descr=在触发抽卡、移动、传送、传送移动或随机格后，恢复1点HP。
 
+< CARD_EFFECT_RINSE_YOUNGLADYPOWER >
+name=千金的力量
+descr=下次受到伤害时，获得你等级数的STAR。此效果无法叠加。
+
+< CARD_EFFECT_RINSE_FIERCEYOUNGLADY >
+name=勇猛千金
+descr=下次受到战斗伤害时，每点受到的伤害（超过9时按9计算）使你获得你等级×2的STAR。若你在该场战斗的战斗卡花费大于等于此效果获得的STAR，战斗结束时恢复所有HP。\n倒下时效果结束。
+
 < CARD_EFFECT_CHAOS_GM_TRAPCARD >
 name=陷阱卡
 descr=将1张随机的陷阱卡放置在随机的格子上。
@@ -835,7 +843,7 @@ descr=所有角色立即受到1点伤害。
 
 < CARD_EFFECT_CHAOS_GM_PAYCHECK >
 name=工资
-descr=你的角色立即获得等级×5的STAR。
+descr=你的角色立即获得你等级×5的STAR。
 
 < CARD_EFFECT_CHAOS_GM_GLORYOFBATTLE >
 name=战斗的荣耀
@@ -911,7 +919,7 @@ descr=所有角色立即受到1～3点伤害。
 
 < CARD_EFFECT_CHAOS_GM_KAILOSTWALLET >
 name=凯弄丢的钱包
-descr=你的角色立即获得1、10、15、25、50或100个STAR。
+descr=你的角色立即获得1、10、15、25、50或100颗STAR。
 
 < CARD_EFFECT_CHAOS_GM_FORCEDWARP >
 name=强制传送

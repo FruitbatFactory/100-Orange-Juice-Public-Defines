@@ -1,5 +1,5 @@
 < CHALLENGE_TOOLTIP_REROLL >
-Pay %d stars to reroll for a different challenge of this type.
+Pay %d Stars to reroll for a different challenge of this type.
 
 < CHALLENGE_TOOLTIP_STARCOUNT >
 Current Stars: %d
@@ -11,10 +11,10 @@ Play %d games.
 Win %d game.
 
 < CHALLENGE_GENERIC_STARS >
-Collect %d stars.
+Collect %d Stars.
 
 < CHALLENGE_GENERIC_KOS >
-Earn %d wins.
+Earn %d Wins.
 
 < CHALLENGE_GENERIC_STAR_WINS >
 Win %d game with Star Norma.
@@ -29,10 +29,10 @@ Travel %d panels.
 Place %d traps.
 
 < CHALLENGE_GENERIC_STAR_NORMAS >
-Complete %d star normas.
+Complete %d Star normas.
 
 < CHALLENGE_GENERIC_WIN_NORMAS >
-Complete %d win normas.
+Complete %d Win normas.
 
 < CHALLENGE_GENERIC_DAMAGE_DEALT >
 Deal %d damage.
@@ -59,10 +59,10 @@ Play %d games as %s or %s.
 Win %d game as %s.
 
 < CHALLENGE_TYPE_UNIT_STAR_NORMAS >
-Complete %d star normas as %s.
+Complete %d Star normas as %s.
 
 < CHALLENGE_TYPE_UNIT_WIN_NORMAS >
-Complete %d win normas as %s.
+Complete %d Win normas as %s.
 
 < CHALLENGE_CARD_BRING >
 Bring at least one %s to %d games.
@@ -86,7 +86,7 @@ Play %d game on %s or %s.
 Use the chocolate dice to KO %d players.
 
 < CHALLENGE_TYPE_EVENT_VDAY_HEARTS >
-Use the heart dice to collect %d stars from bonus panels.
+Use the heart dice to collect %d Stars from bonus panels.
 
 < CHALLENGE_TYPE_EVENT_XMAS_ICE >
 Slide over %d ice panels.

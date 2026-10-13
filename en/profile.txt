@@ -145,10 +145,10 @@ Total
 
 
 < PROFILE_NAMECHANGE_STARS_REQUIRED >
-You need %d stars to change your player name.
+You need %d Stars to change your player name.
 
 < PROFILE_NAMECHANGE_CONFIRM >
-Confirm name change? Cost: %d stars
+Confirm name change? Cost: %d Stars
 
 < PROFILE_NAMECHANGE_COST >
 Cost
@@ -191,6 +191,9 @@ Sound Test
 
 <PROFILE_GALLERY_BGM>
 BGM
+
+<PROFILE_GALLERY_BGM_TITLE>
+Title Screen
 
 <PROFILE_GALLERY_VOICES>
 Voices
@@ -547,7 +550,7 @@ Clear {0} on {1} difficulty.
 ({}x progress from Multiplayer games)
 
 <PROFILE_TRACKER_INSTRUCTION_STEAL_STARS_CARD>
-Steal {0} stars with {1} as {2} or obtain {3} from the {4}.
+Steal {0} Stars with {1} as {2} or obtain {3} from the {4}.
 
 <PROFILE_TRACKER_MYSTERY_BAG>
 Mystery Bag
@@ -615,11 +618,35 @@ Win a game as {}.
 <PROFILE_TRACKER_MOUSSE_COSTUME>
 Marie Poppo (Mousse costume)
 
+<PROFILE_TRACKER_INSTRUCTION_TRAVERSE_PANEL_COUNT>
+Traverse {} panels.
+
+<PROFILE_TRACKER_INSTRUCTION_PLAY_ON_FIELDS_CONDITION>
+Play {0} game(s) on fields with {1}.
+
+<PROFILE_TRACKER_INSTRUCTION_WATER_BACKGROUND>
+a water-themed background
+
 <PROFILE_TRACKER_NAVIGATION_GO>
 Go!
 
 <PROFILE_TRACKER_NAVIGATION_GO_TO_SHOP>
 Go to Shop
+
+<PROFILE_MESSAGE_AUTO_CLEAR>
+Progress for {} has been retroactively completed.
+
+<PROFILE_TRACKER_INSTRUCTION_COMPLETE_QUESTS>
+Complete {0} {1} in Bounty Hunt.
+
+<PROFILE_TRACKER_INSTRUCTION_BUY_ITEMS>
+Purchase {0} items from {1} in Bounty Hunt.
+
+<PROFILE_TRACKER_INSTRUCTION_DELIVERY_QUEST>
+Delivery Quest(s)
+
+<PROFILE_TRACKER_INSTRUCTION_BAKERY_INN>
+the Bakery or the Inn
 
 [EOF]
 

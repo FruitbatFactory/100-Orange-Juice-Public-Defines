@@ -48,7 +48,7 @@ EVENT: Cards of this type affect all players or the field when played.
 BOOST: Cards of this type affect the user, or targetted player when played.
 
 < CARD_TERM_GIFT >
-GIFT: Cards of this type affect the holder when held.
+GIFT: Cards of this type affect the holder when held. No effect when played, unless otherwise stated on the card.
 
 < CARD_TERM_CONTRACT >
 CONTRACT: Contract cards are held in a separate hand space in Bounty Hunt. They can be delivery quests, quests to hunt a particular Bounty monster, or a player. Completing contracts grants the amount of Fame printed on the contract.

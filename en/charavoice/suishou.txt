@@ -1,0 +1,159 @@
+<0000> I never let my guard down.
+<0001> Hmph.
+<0002> I'll give it everything I've got.
+<0003> This one throw could decide my fate.
+<0004> Allow me to play a card here.
+<0005> I'll take this chance.
+<0006> Shall I shake things up?
+<0007> I'll make my move.
+<0008> A trap.
+<0009> I'm setting it now.
+<0010> Laying a trap.
+<0011> Does this trap worry you?
+<0012> I'll seize the flow completely.
+<0013> Allow me to finish you off.
+<0014> I'll take you down.
+<0015> This is the finishing blow.
+<0016> Witness the Yukimura style stance...
+<0017> I'll get back up as many times as it takes.
+<0018> The match isn't over yet.
+<0019> I can't afford to rest forever.
+<0020> Seems I've managed to recover nicely.
+<0021> Did I make a mistake?
+<0022> Can't I get up yet?
+<0023> Things aren't going as planned.
+<0024> This is a bad flow...
+<0025> Time to attack.
+<0026> Are you prepared?
+<0027> I'll take you down.
+<0028> Time for you to sleep.
+<0029> Ugh.
+<0030> I failed to deflect the attack.
+<0031> Well done.
+<0032> Taking damage, am I?
+<0033> Time to recover.
+<0034> Managing your stamina is important.
+<0035> Now I can keep going.
+<0036> Time to reset.
+<0037> A warp.
+<0038> Where will I end up?
+<0039> I'm leaving this spot.
+<0040> Here I go.
+<0041> I can't believe I got knocked down.
+<0042> For me to make a mistake like this...
+<0043> So I've been taken down.
+<0044> I might've underestimated my opponent.
+<0045> I'll finish you.
+<0046> It's battle time.
+<0047> You will accept this fight.
+<0048> Let us fight with honor.
+<0049> You dare challenge Yukimura to battle?
+<0050> I'm strong, you know.
+<0051> I'll take you on.
+<0052> Don't put up a pathetic fight, okay?
+<0053> Sey!
+<0054> Ha!
+<0055> Got you.
+<0056> Take this!
+<0057> Ugh!
+<0058> You actually hit me?
+<0059> Not bad.
+<0060> A graze.
+<0061> Did I let my guard down?
+<0062> This could be bad.
+<0063> To think I'd be so cornered.
+<0064> Ngh... you're strong.
+<0065> This is the Yukimura stance.
+<0066> You can't hit me.
+<0067> Think you can land a hit on me?
+<0068> Quite a sharp attack, but if it doesn't hit...
+<0069> That was a good fight.
+<0070> Stay down for a while.
+<0071> This is the Yukimura style.
+<0072> This is my win.
+<0073> You're good.
+<0074> I didn't expect you'd push me this far.
+<0075> I didn't think I let my guard down...
+<0076> I... lost...?
+<0077> Good flow.
+<0078> I've obtained stars.
+<0079> This is quite pleasing.
+<0080> Much appreciated.
+<0081> What?!
+<0082> My stars...
+<0083> Ngh... a drop?
+<0084> I've lost stars?
+<0085> A trap?
+<0086> I fell for it.
+<0087> I've been hit?!
+<0088> How careless of me to fall for such a trap.
+<0089> I sense the presence of a formidable foe...
+<0090> So it's begun to move.
+<0091> Dealing with that one will be no easy task.
+<0092> I must refocus myself.
+<0093> I'll go for stars.
+<0094> I'm going to collect some stars?
+<0095> Beginning star collection.
+<0096> I'll collect every last one of them.
+<0097> Is it time to show the power of the Yukimura style?
+<0098> Now then, let's fight.
+<0099> I should get a little exercise.
+<0100> I'll strike down my enemies.
+<0101> I'm Suishou Yukimura. Pleased to meet you.
+<0102> You want to team up with me? Very well.
+<0103> Let's enjoy this together.
+<0104> Are you interested in the Yukimura style?
+<0105> Let the match begin.
+<0106> Now it's on.
+<0107> It's time for battle.
+<0108> Now, let's enjoy the match.
+<0109> Phew, that was a good match.
+<0110> That was an enjoyable match. I'll take you on anytime.
+<0111> My win, it seems. Fufu.
+<0112> Shall we start the next match right away?
+<0113> Gathering items is important too.
+<0114> Did you get something good? You should cherish it.
+<0115> A rare find?
+<0116> That's quite a good item.
+<0117> Tag me out.
+<0118> I'll fall back for now.
+<0119> Switch me out.
+<0120> Time for a brief rest.
+<0121> Understood.
+<0122> Good.
+<0123> Alright.
+<0124> I'll hold off.
+<0125> What a shame.
+<0126> How fortunate.
+<0127> I did not see this coming.
+<0128> Here we go.
+<0129> Roll!
+<0130> Keep at it.
+<0131> Hi there.
+<0132> Hmm...
+<0133> Impressive.
+<0134> Magnificent.
+<0135> Ngh...
+<0136> Hyper Card.
+<0137> Allow me to use the Hyper Card.
+<0138> How about this move?
+<0139> Let's see how this card changes the flow.
+<0140> Thank you.
+<0141> I'm counting on you, Lady Rinse.
+<0142> Yes, it's time for you to play.
+<0143> My apologies. I was wrapped up in the match.
+<0144> Certainly.
+<0145> Consider it done.
+<0146> Certainly, I'll tag in.
+<0147> Hearing that from you, Lady Rinse, really fires me up.
+<0148> I'm going to use everything I have, then.
+<0149> You have good eyes.
+<0150> Come at me with everything you've got.
+<0151> Poyo, let's have a good fight.
+<0152> That fluffy tail of yours... um... would you mind if I petted it just a little?
+<0153> What on earth are you doing?!
+<0154> Sh-should I be callling the police?
+<0155> I-is he a pervert?
+<0156> Wh-what you taking off your clothes for...?!
+<0161> Allow me to return that in full.
+<0162> I couldn't send it all back..!?

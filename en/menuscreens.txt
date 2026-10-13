@@ -13,17 +13,59 @@ NEW GAME
 < MAINMENU_LOADGAME >
 CONTINUE
 
+< CREATE_PROFILE_IN_SLOT >
+Create Profile in Slot
+
+< CREATE_PROFILE_NAME >
+Name
+
+< CREATE_PROFILE_CONFIRM >
+Confirm
+
+< CREATE_PROFILE_CANCEL >
+Cancel
+
+< CREATE_PROFILE_DELETE_SLOT >
+Delete Profile Slot
+
+< CREATE_PROFILE_WARNING >
+This action cannot be undone!
+
+< CREATE_PROFILE_PROFILE >
+Profile
+
+< CREATE_PROFILE_SELECT_UNIT >
+Select Unit
+
+< SELECT_PROFILE_STARS >
+Stars
+
+< SELECT_PROFILE_EMPTY_SLOT >
+Empty Slot
+
+< SELECT_PROFILE_CARDS >
+Cards
+
+< MAINMENU_LOADGAME_SELECT >
+LOAD GAME
+
 < MAINMENU_CONFIGURATION >
 CONFIGURATION
 
 < MAINMENU_EXIT >
 EXIT
 
+< LATEST_GAME_NEWS >
+LATEST GAME NEWS
+
 < MENU_BUTTON_OK >
 OK
 
 < MENU_BUTTON_BACK >
 BACK
+
+< MAINMENU_CHANGEPROFILE >
+CHANGE PROFILE
 
 < MENU_BUTTON_HOME >
 HOME
@@ -462,7 +504,7 @@ All 4 players share Norma, Wins and Stars. Norma requirements are 1.5x normal fo
 During Co-op mode, boss panels appear on the field in increasing numbers. Land on one to challenge Big the Jonathan!
 
 < PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_07 >
-On KO, your team loses 1/8 of their stars. Units can also stop at any player's home.
+On KO, your team loses 1/8 of their Stars. Units can also stop at any player's home.
 
 < PLAYMENU_EVENT_SUMMER2018_INSTRUCTION_08 >
 Instead of normal field events, Big the Jonathan uses many different abilities to bring you down! He unlocks more as the game goes on...
@@ -477,10 +519,10 @@ Big the Jonathan has been pacified and the seas and beaches are safe again!
 Trick and Treat to fill your belly with candy!
 
 < PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_01 >
-Carry candy to receive +1 stars / candy each chapter. More candy is randomly given every 3 chapters.
+Carry candy to receive +1 Stars / candy each chapter. More candy is randomly given every 3 chapters.
 
 < PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_02 >
-If the candy matches your player plate, turn it in at a home to receive 10 stars and 1 Win.
+If the candy matches your player plate, turn it in at a home to receive 10 Stars and 1 Win.
 
 < PLAYMENU_EVENT_HALLOWEEN2018_INSTRUCTION_03 >
 If you meet another player, select a candy they are holding to trick or treat them. If they don't give you that candy, they receive a penalty!
@@ -502,7 +544,7 @@ Attacker\n\nFirst Strike: Go first in battle\nNorma 2 : +1 ATK\nNorma 4 : +1 ATK
 Guardian\n\nProtect: Pay 1 HP to protect target from 2 damage in the next battle\nNorma 2: +1 DEF\nNorma 4: +1 DEF\nBoss HP - 5
 
 < PLAYMENU_EVENT_SUMMER2018_CLASSINFO_SUPPORT >
-Supporter\n\nRevive/Heal: Can heal an ally 1 HP or revive a KO'd ally for stars by walking over them\nNorma 2: +1 Move\nNorma 4: +1 Move
+Supporter\n\nRevive/Heal: Can heal an ally 1 HP or revive a KO'd ally for Stars by walking over them\nNorma 2: +1 Move\nNorma 4: +1 Move
 
 < PLAYMENU_EVENT_SUMMER2018_CLASSINFO_AVENGER >
 Avenger\n\n+1 ATK per HP lost in combat.\nNorma 2 : +1 Max HP\nNorma 4 : +1 Max HP\nBoss HP + 10
@@ -688,7 +730,7 @@ Bounties require you to hunt the monster shown on the contract and will give a v
 Monsters can be found all over the field, and Bounty battles will last for up to 10 rounds. Make sure to gear up before you get into the fight!
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_07 >
-To help you fight the monsters infesting the land, in this mode all characters have a permanent +1 MOV and gain additional stars every chapter!
+To help you fight the monsters infesting the land, in this mode all characters have a permanent +1 MOV and gain additional Stars every chapter!
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_08 >
 Quest locations and shops with various useful items appear over the field. You can stop at any shop in order to buy items and even sell cards!
@@ -738,16 +780,16 @@ Each fish has their own weight and speed. Catch fast or big fish to gain more sc
 The minigame may speed up randomly. This includes both fish speed and your own hook speed.
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_07 >
-All players are ranked by their fish score at the end of the fishing phase. Players will be rewarded with Wins based on their ranking and stars based on score.
+All players are ranked by their fish score at the end of the fishing phase. Players will be rewarded with Wins based on their ranking and Stars based on score.
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_08 >
-Pay attention to the grill! It always has a set of 3 fish to catch, and catching them all scores an extra 15 points!
+Pay attention to the grill! It always has a set of 3 fish to catch, and catching them all in order scores an extra 50 points!
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_09 >
 Everyone has their own grill to fill, so try to complete more sets than your opponents within the time limit!
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_10 >
-Furthermore, catching the same fish type several times in a row will give extra Combo points toward your score.
+Furthermore, catching the same fish type several times in a row will give a multiplying Combo bonus toward your score.
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_11 >
 Your total fishing score from each game is counted toward your event progression. Let's have a great meal!
@@ -831,7 +873,7 @@ To help you fight the monsters infesting the land, in this mode all characters h
 In addition, players start with boots that grant +1 to MOV and can be upgraded to even better versions in the Shops.
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_11 >
-Extra stars can be earned by selling cards to a shop. Different shops may offer different prices for the cards!
+Extra Stars can be earned by selling cards to a shop. Different shops may offer different prices for the cards!
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_12 >
 Each Shop type can be upgraded several times by buying items and selling cards. Higher level Shops have improved stock and other benefits!
@@ -914,7 +956,7 @@ One Movement Point allows you to move one panel on the event map.
 Movement points will automatically be used to travel along the chosen path until a crossroads.\nIt's up to you which path you will take on the journey.
 
 < PLAYMENU_EVENT_PTS_INSTRUCTION_05 >
-Passing certain panels will grant you stars, oranges, a random cosmetic or even an event reward!
+Passing certain panels will grant you Stars, oranges, a random cosmetic or even an event reward!
 
 < PLAYMENU_EVENT_PTS_INSTRUCTION_06 >
 Who will obtain the fabled treasure? Only time will tell...
@@ -965,7 +1007,7 @@ The 3 Bounties available are always Mousse (easy), Key Lime Mousse (medium) and 
 In addition, completing a Quest will trigger a bounty fight against a 2 HP Mousse instead of granting 2 fame immediately.
 
 < PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_05 >
-Finally, a new invader, Dark Chocolate Mousse, will doom players' stars instead of their lives...\nDefeating Dark Chocolate Mousse grants 3 points of progress in the event.
+Finally, a new invader, Dark Chocolate Mousse, will doom players' Stars instead of their lives...\nDefeating Dark Chocolate Mousse grants 3 points of progress in the event.
 
 < PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_06 >
 What are the Mousse guarding, and why...?
@@ -989,7 +1031,7 @@ One Memory Fragment allows you to progress one panel on the event map.
 Memory Fragments will automatically be used to travel along the chosen path until a crossroads.\nIt's up to you which path you will take on the journey.
 
 < PLAYMENU_EVENT_WINTER2023_INSTRUCTION_05 >
-Passing certain panels will grant you stars, oranges, or a random cosmetic!
+Passing certain panels will grant you Stars, oranges, or a random cosmetic!
 
 < PLAYMENU_EVENT_WINTER2023_INSTRUCTION_06 >
 Can you recall those memories and help Lulu conquer her darkness?
@@ -1058,7 +1100,7 @@ You get 3 Move Points to progress the event by playing your first game of the da
 Keep playing to gain another 2 Move Points per Tag Team game, or 1 point for a game in a different game mode.
 
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_04 >
-Orange panels on the event map give Oranges, Star panels give stars, green Cosmetic panels have a chance to unlock a random cosmetic, and the Crown panels give an event cosmetic!
+Orange panels on the event map give Oranges, Star panels give Stars, green Cosmetic panels have a chance to unlock a random cosmetic, and the Crown panels give an event cosmetic!
 
 < PLAYMENU_EVENT_CLUBROOMCHALLENGERS_INSTRUCTION_05 >
 Loop around the event map once to finish the event, and then keep playing for even more rewards!
@@ -1109,7 +1151,7 @@ Complete the various tasks written on the blackboard to earn points toward the e
 New challenges appear every day, so keep checking for them!
 
 < PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_04 >
-You can spend stars to reroll a challenge you already completed, or ones you don't like. But beware, the cost keeps going up!
+You can spend Stars to reroll a challenge you already completed, or ones you don't like. But beware, the cost keeps going up!
 
 < PLAYMENU_EVENT_RESPLENDENTRIVALS_INSTRUCTION_05 >
 In addition, during the event, Tag Team mode has a new option: you can customize the recovery speed after your partner is defeated.
@@ -1409,6 +1451,9 @@ Mushroom War
 < MENU_CODEXSTORY_TITLE_GREATPILOT >
 A Great Pilot
 
+< MENU_CODEXSTORY_TITLE_FAMILYHOLIDAY >
+Family Holiday
+
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES >
 Play {0} games as {1}.
 
@@ -1417,6 +1462,9 @@ Play {0} games as any of the following units: {1}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE >
 Play {0} games in {1} mode.
+
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE_UNIT >
+Play {0} games in {1} mode as {2}.
 
 < MENU_CODEXSTORY_UNLOCKCOND_EVENT >
 Clear "{0}" event.
@@ -1452,16 +1500,16 @@ any character from {0}
 any Unit
 
 < MENU_CODEXSTORY_UNLOCKCOND_DAILYCHALLENGE >
-Clear {0} daily challenges.
+Clear {0} daily challenge(s).
 
 < MENU_CODEXSTORY_UNLOCKCOND_PANEL >
 Land on {0} panels.
 
 < MENU_CODEXSTORY_UNLOCKCOND_STARS >
-Earn {0} stars at the end of a game.
+Earn {0} Stars at the end of a game.
 
 < MENU_TASKBOARD_REROLL >
-Pay {0} stars to reroll this task?\nCurrent stars:
+Pay {0} Stars to reroll this task?\nCurrent Stars:
 
 < MENU_NORMABOARD >
 Norma Upgrade
@@ -1492,5 +1540,23 @@ DIFFICULTY
 
 < MENU_CHAOS_GM_SELECT_POWER >
 Select a Gamemaster Power
+
+< MUSIC_ULTIMATE_WEAPON >
+Ultimate Weapon Girl
+
+< MUSIC_ULTIMATE_WEAPON_INSTRUMENTAL >
+Ultimate Weapon Girl (Instrumental)
+
+< MUSIC_ULTIMATE_WEAPON_SPECIAL >
+Ultimate Weapon Girl (Bonus Track)
+
+< MUSIC_PUDDING_POP >
+Pudding Pop
+
+< MUSIC_BAKER_BREAKER >
+Star Baker Breaker
+
+< EXPEDITE_TITLE_SCREEN>
+Expedite Title Screen
 
 [EOF]

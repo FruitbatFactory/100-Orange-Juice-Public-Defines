@@ -6,40 +6,40 @@ QUOTA ATTEINT !
 Quota Validé
 
 < GAME_NORMA_STARS >
-Trouver <normaamount> étoiles ou plus.
+Avoir <normaamount> Étoiles ou plus.
 
 < GAME_NORMA_STARS_REV >
-Trouver <normaamount> étoiles ou moins.
+Avoir <normaamount> Étoiles ou moins.
 
 < GAME_NORMA_STARS_10 >
-Trouver 10 étoiles ou plus.
+Trouver 10 Étoiles ou plus.
 
 < GAME_NORMA_STARS_30 >
-Trouver 30 étoiles ou plus.
+Avoir 30 Étoiles ou plus.
 
 < GAME_NORMA_STARS_70 >
-Trouver 70 étoiles ou plus.
+Avoir 70 Étoiles ou plus.
 
 < GAME_NORMA_STARS_120 >
-Trouver 120 étoiles ou plus.
+Avoir 120 Étoiles ou plus.
 
 < GAME_NORMA_STARS_200 >
-Trouver 200 étoiles ou plus.
+Avoir 200 Étoiles ou plus.
 
 < GAME_NORMA_STARS_10_REV >
-Trouver 10 étoiles ou moins.
+Avoir 10 Étoiles ou moins.
 
 < GAME_NORMA_STARS_30_REV >
-Trouver 30 étoiles ou moins.
+Avoir 30 Étoiles ou moins.
 
 < GAME_NORMA_STARS_70_REV >
-Trouver 70 étoiles ou moins.
+Avoir 70 Étoiles ou moins.
 
 < GAME_NORMA_STARS_120_REV >
-Trouver 120 étoiles ou moins.
+Avoir 120 Étoiles ou moins.
 
 < GAME_NORMA_STARS_200_REV >
-Trouver 200 étoiles ou moins.
+Avoir 200 Étoiles ou moins.
 
 < GAME_NORMA_WINS_SINGLE >
 Vaincre un ennemi.

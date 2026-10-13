@@ -1,3 +1,4 @@
+
 < CARD_BOOST_DASH >
 name=Dash !
 descr=Ajoute un dé à vos jets de déplacement ce tour-ci.
@@ -5,22 +6,22 @@ flavor="Plus vite !" ―Suguri
 
 < CARD_BOOST_EXTEND >
 name=Kit de Réparation
-descr=(Effet Passif)\nEn tombant KO, vous vous relèverez aussitôt au tour suivant.
+descr=(Effet Passif)\nEn tombant KO, vous vous relèverez aussitôt au tour d'après.
 flavor="Prête à repartir !" ―Marc
 
 < CARD_BOOST_FLIPOUT >
 name=Partage des Pertes
-descr=(Effet Passif)\nEn activant une case Malus, le joueur adverse avec le plus d'étoiles perdra autant d'étoiles que vous.
+descr=(Effet Passif)\nÀ la prochaine case Malus que vous activerez, le joueur adverse avec le plus d'Étoiles perdra autant d'Étoiles que vous.
 flavor="......!" ―Mei
 
 < CARD_BOOST_LONGSHOT >
 name=Tir à Longue Distance
-descr=Cible un ennemi et lui inflige 1 point de dégât.
+descr=Ciblez un ennemi. Il subit 1 point de dégât.
 flavor="Je peux t'atteindre depuis l'autre bout du monde !" ―Iru
 
 < CARD_BOOST_NICEJINGLE >
 name=Jolis Grelots
-descr=(Effet Passif)\nEn activant une case Bonus, vous gagnerez deux fois plus d'étoiles.
+descr=(Effet Passif)\nLa prochaine case Bonus que vous activerez vous donnera deux fois plus d'Étoiles.
 flavor="On en a encore plein." ―Aru
 
 < CARD_BOOST_NICEPRESENT >
@@ -45,12 +46,12 @@ flavor="Prends donc un cookie!" ―Saki
 
 < CARD_BOOST_STIFFCRYSTAL >
 name=Cristal Tenace
-descr=(Effet Passif)\nEn vous arrêtant sur une carte Piège, son effet est annulé et vous obtenez (Niv. piège) x5 ★.
+descr=(Effet Passif)\nAnnule l'effet de la prochaine carte Piège. Vous obtenez (Niv. piège) x5 ★ à la place.
 flavor="Comme c'est agaçant." ―Kyoko
 
 < CARD_BATTLE_BIGMAGNUM >
 name=Big Magnum
-descr=Vous perdez 1 PV.\n+2 ATK pour ce combat.\nImpossible d'utiliser cette carte si elle peut vous mettre KO.
+descr=Vous perdez 1 PV.\n+2 ATK pour ce combat.\nCette carte ne peut être jouée si son effet vous mettrait KO.
 flavor="Big Magnum, feu !" ―Capitaine Tequila
 
 < CARD_BATTLE_FINALBATTLE >
@@ -80,7 +81,7 @@ flavor="T'en fais pas un peu trop, là ? T'es trop st... enfin, trop immature !"
 
 < CARD_BATTLE_SHIELD >
 name=Bouclier
-descr=Ne peut être utilisé qu'en cas de défense. +3 DEF pour ce combat. Vous ne pouvez pas contre-attaquer.
+descr=Ne peut être jouée qu'en cas de défense. +3 DEF pour ce combat. Vous ne pouvez pas contre-attaquer.
 flavor="Et surtout : promets-moi de rester en vie." ―Sham
 
 < CARD_TRAP_ASSAULT >
@@ -90,32 +91,32 @@ flavor="Aujourd'hui, tu vas quitter la Guilde pour de bon !" ―Picon
 
 < CARD_TRAP_BADPUDDING >
 name=Mauvais Pudding
-descr=Défaussez une carde au hasard.
+descr=Défaussez une carte au hasard.
 flavor="La sauce soja donne au pudding un goût d'oursin !" ―Yuki
 
 < CARD_TRAP_DANGEROUSPUDDING >
 name=Pudding Dangereux
 descr=(Effet Passif)\nPassez votre prochain tour.
-flavor='Il n'aura fallu qu'un regard pour que ce pudding me prenne mon cœur.'
+flavor='Il n'aura fallu qu'un regard pour que ce pudding prenne mon cœur.'
 
 < CARD_TRAP_EXCHANGE >
 name=Échange
-descr=Échangez vos cartes en main, vos étoiles et votre emplacement avec le joueur ayant posé ce piège.
+descr=Échangez vos cartes en main, vos Étoiles et votre emplacement avec le joueur ayant posé ce piège.
 flavor="C'est lourd..." ―Suguri\n"J'ai l'air de quoi sans mon casque ?" ―Marc
 
 < CARD_TRAP_FLAMETHROWER >
 name=Lance-Flamme
-descr=Si votre main est vide, vous tombez KO. Sinon, défaussez toutes vos cartes à la place.
+descr=Si vous avez des cartes en main, défaussez-les toutes. Si vous n'en avez pas, vous tombez KO.
 flavor="Yahaahaaaaah !" ―Loubard
 
 < CARD_TRAP_TOYSTORE >
 name=Pour l'Avenir de la Boutique
-descr=Donnez la moitié de vos étoiles au joueur ayant posé ce piège. Cette carte ne peut être jouée qu'avec 50 étoiles ou moins.
+descr=Donnez la moitié de vos Étoiles au joueur ayant posé ce piège. Ce piège ne peut être posé qu'avec 50 Étoiles ou moins.
 flavor=Tout irait tellement mieux, sans Papas Noël !" ―Arthur
 
 < CARD_TRAP_GOAWAY >
 name=Va-t-en
-descr=Vous vous téléportez à une case au hasard.
+descr=Vous vous téléportez sur une case au hasard.
 flavor="Ahaha, c'est mieux comme ça." ―Nanako
 
 < CARD_TRAP_HEAT300 >
@@ -139,9 +140,9 @@ descr=Vous obtenez 5 ★, multiplié par le nombre de chapitres qu'a passé cett
 flavor="Papa, je peux casser la tirelire ?" ―Mescal
 
 < CARD_TRAP_PURES >
-name=Dîner au Restaurant 'Pures'
-descr=Vous perdez la moitié de vos étoiles et récupérez tous vos PV.
-flavor="Bienvenue, chère clientèle !" ―Chris
+name=Restaurant Aérien 'Pures'
+descr=Vous perdez la moitié de vos Étoiles et récupérez tous vos PV.
+flavor="Bienvenue, cher client !" ―Chris
 
 < CARD_TRAP_TRAGEDY >
 name=Tragédie Nocturne
@@ -150,7 +151,7 @@ flavor='Un si beau pudding sans surveillance, ce serait dommage de le laisser l�
 
 < CARD_EVENT_SEAGULLS >
 name=Nuage de Mouettes
-descr=Un personnage au hasard se prend 2 points de dégât.
+descr=Un personnage au hasard subit 2 points de dégât.
 flavor="Couuuac !" ―Mouette
 
 < CARD_EVENT_DINNER >
@@ -165,38 +166,38 @@ flavor="Une piqûre et ça repart !" ―Kiriko
 
 < CARD_EVENT_GIFTEXCHANGE >
 name=Échange de Cadeaux
-descr=Les cartes de chaque main sont redistribuées aléatoirement.\nChaque joueur récupère autant de cartes qu'ils en ont perdu.
+descr=Les cartes de chaque main sont redistribuées aléatoirement.\nChaque joueur récupère autant de cartes qu'il en a perdu.
 flavor="Un échange de cadeaux ? D'accord !"\n―Alpin, Rougeon & Bleuet
 
 < CARD_EVENT_HEREANDTHERE >
 name=Par-ci par-là
-descr=Chaque personnage est déplacé vers une case au hasard.
+descr=Les personnages se téléportent sur des cases au hasard.
 flavor="En route pour le prochain monde !" ―Marie Poppo
 
 < CARD_EVENT_HOLYNIGHT >
 name=Nuit Enchantée
-descr=Effet Permanent\nLes étoiles distribuées en début de chapitre augmentent de 1.
+descr=Effet Permanent\nLes Étoiles distribuées en début de chapitre augmentent de 1.
 flavor="Ce soir est un soir de miracles." ―Hime
 
 < CARD_EVENT_LITTLEWAR >
 name=Petite Guerre
-descr=Durée de l'Effet: 3 chapitres\nTous les combats se font en deux tours.
+descr=Durée de l'Effet : 3 chapitres\nTous les combats se font en deux tours.
 flavor="Je suis capable d'arrêter ça... Si je me bats..." ―Suguri
 
 < CARD_EVENT_OHMYFRIEND >
 name=Mon Bon Ami
-descr=Invoque un Boss.
+descr=Invoque le Boss.
 flavor="Les robots ont des amis, eux aussi !" ―NoName
 
 < CARD_EVENT_OUTOFAMMO >
 name=Plus de munitions
-descr=Durée de l'Effet : 1 chapitre\nLes joueurs ne peuvent plus utiliser de cartes.
+descr=Durée de l'Effet : 1 chapitre\nLes joueurs ne peuvent pas utiliser de cartes.
 flavor="Je suis à court de munitions !" ―Picon
 
 < CARD_EVENT_SEALEDGUARDIAN >
 name=Protectrice Enchaînée
 descr=Réduit les PV de tous les personnages à 1.
-flavor="Dis bonjour à l'Ange Gardien de ce vaisseau." ―Shifu
+flavor="Dis bonjour à l'ange gardien du vaisseau." ―Shifu
 
 < CARD_EVENT_ALLOUTMODE >
 name=Mode Super-Extrême
@@ -215,7 +216,7 @@ flavor="J'accélère." ―Suguri
 
 < CARD_HYPER_FERNET >
 name=Attaque Aérienne
-descr=Inflige entre 1 et 3 points de dégât à tous les ennemis. +15 étoiles par ennemi KO.
+descr=Inflige entre 1 et 3 points de dégât à tous les ennemis. +15 Étoiles par ennemi KO.
 flavor="Mourez, mourez tous." ―Fernet
 
 < CARD_HYPER_HIME >
@@ -240,7 +241,7 @@ flavor="Alors, à qui le tour ?" ―Yuki
 
 < CARD_HYPER_QP >
 name=Puissance Hypermétrique
-descr=Pour ce combat, gagnez +3 ATK. Si vous tombez KO durant ce combat, vous ne donnerez ni étoiles ni Victoires, et vous vous relèverez au prochain tour.
+descr=Pour ce combat, gagnez +3 ATK. Si vous tombez KO durant ce combat, vous ne donnerez ni Étoiles ni Victoires, et vous vous relèverez au prochain tour.
 flavor="PUISSANCE HYPERMÉTRIQUE !" ―QP
 
 < CARD_HYPER_TOMOMO >
@@ -250,7 +251,7 @@ flavor="Disparais." ―Tomomo
 
 < CARD_HYPER_ARU >
 name=Cadeaux Pour Tout le Monde
-descr=Tous les joueurs piochent des cartes jusqu'à avoir la main pleine. Ceux qui ont déjà la main pleine piochent une carte supplémentaire. Obtenez 10 étoiles par carte piochée au total.
+descr=Tous les joueurs piochent des cartes jusqu'à avoir la main pleine. Ceux qui ont déjà la main pleine piochent une carte supplémentaire. Obtenez 10 Étoiles par carte piochée au total.
 flavor="Des cadeaux pour les enfants sages." ―Aru
 
 < CARD_HYPER_KAI >
@@ -285,7 +286,7 @@ flavor="Avec ce pouvoir... tout le ciel sera nôtre." ―Maître de la Guilde
 
 < CARD_HYPER_CHICKEN >
 name=L'Œuf d'Or
-descr=Si vous êtes la Poule : (Cumul : 3) Les cases Malus ont l'effet de cases Bonus.\nSinon, (Cumul : 3) Les cases Bonus ont l'effet de cases Malus, et le joueur ayant posé le piège récupère les étoiles perdues.
+descr=Si vous êtes la Poule : (Cumul : 3) Les cases Malus ont l'effet de cases Bonus.\nSinon, (Cumul : 3) Les cases Bonus ont l'effet de cases Malus, et le joueur ayant posé le piège récupère les Étoiles perdues.
 flavor="Cot cot codek !" ―Poule
 
 < CARD_HYPER_BALL >

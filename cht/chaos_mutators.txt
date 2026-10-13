@@ -40,7 +40,7 @@ descr=所有玩家變為奧羅拉。\n一個BOT將使用你原本所選擇的角
 
 < MUTATOR_MAXTENSION >
 name=全部件擴張
-descr=所有戰鬥卡替換為部件擴張，且等級\n變為1級。
+descr=所有戰鬥卡替換為部件擴張，且使用等級\n變為1級。
 
 < MUTATOR_POPPOFORMATION >
 name=啵噗化
@@ -108,7 +108,7 @@ descr=被擊倒時立即復活。復活後，切換為隨機角色。
 
 < MUTATOR_REVERSIBLE_FORTUNE >
 name=逆天改命
-descr=初始擁有200顆STAR與14WIN。\n獲勝需要清空等級、並將STAR或WIN\n降至0。\n卡片COST減半，且不超過30顆STAR。
+descr=初始擁有200顆STAR與14WIN。\n獲勝須清空等級，並將STAR或WIN\n降至0。\n卡片COST減半，且不超過30顆STAR。
 
 < MUTATOR_TAG_TEAM >
 name=搭檔模式

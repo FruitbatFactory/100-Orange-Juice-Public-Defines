@@ -39,7 +39,7 @@ Duração
 NÍVEL %d
 
 < GAME_SYSTEM_SHOP_NO_BONUS >
-Nenhuma vantagem destravadada.
+Nenhuma vantagem destravada.
 
 // %% is normal here.
 < GAME_SYSTEM_SHOP_BONUS_1 >
@@ -59,7 +59,7 @@ Um estoque adicional de item pode ficar disponível.
 Entregar itens vai lhe garantir um extra de %d estrelas após completar o desafio.
 
 < GAME_SYSTEM_SHOP_BONUS_6 >
-Até dois estoques adicionais de itens podem estar disponíveis,/ne uma loja adicional desse tipo irá aparecer no campo.
+Até dois estoques adicionais de itens podem estar disponíveis,\ne uma loja adicional desse tipo irá aparecer no campo.
 
 < GAME_SYSTEM_NORMABOARD_UPGRADE_1_NAME >
 Arte da Espada

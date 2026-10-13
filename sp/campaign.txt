@@ -258,5 +258,11 @@ Atrás
 < CAMPAIGN_WINTER2023_MESSAGE >
 ¡Una misión extra se encuentra disponible!: ¡"%s"!
 
+< CAMPAIGN_FIRST_CLEAR_MESSAGE >
+¡Felicitaciones! Ahora podrás desbloquear las campañas de {} al comprar sus cartas de unidad en la Tienda o al hacer clic sobre sus campañas aquí.
+
+< CAMPAIGN_BUY_UNIT_CONFIRM >
+¿Comprar la carta de unidad de {0} por {1} estrellas y desbloquear esta campaña?
+
 [EOF]
 

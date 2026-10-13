@@ -1,0 +1,164 @@
+<0000> Con gracia.
+<0001> Hermosamente.
+<0002> Con resiliencia.
+<0003> Deslumbrantemente.
+<0004> Aquí voy.
+<0005> Fufu... escojo esta carta.
+<0006> Sé lo que debo hacer.
+<0007> Esta es la indicada.
+<0008> Astucia.
+<0009> ¿Y si dejo una trampa aquí?
+<0010> Será mejor que tengan cuidado por este lugar. 
+<0011> Te haré saber que hay una trampa aquí.
+<0012> Una carta de batalla.
+<0013> Haré que la batalla se torne en mi favor.
+<0014> Te derribaré.
+<0015> Acabaré contigo.
+<0016> ¿Realmente piensas que tienes la oportunidad de vencerme?
+<0017> Phew.
+<0018> Aún no estoy acabada.
+<0019> Acabaré con esto.
+<0020> Aún puedo continuar.
+<0021> Hmm...
+<0022> Todo se está volviendo en mi contra.
+<0023> Mhm.
+<0024> Oh vaya...
+<0025> Vamos a tomar la ofensiva.
+<0026> Atacaré.
+<0027> Este será tu final.
+<0028> Voy a derribarte.
+<0029> Ugh.
+<0030> Oh vaya.
+<0031> Mmm.
+<0032> Eso aturde.
+<0033> Me recuperaré.
+<0034> No puedo quedarme aquí.
+<0035> Eso debería cancelar el daño.
+<0036> No me rendiré tan fácilmente.
+<0037> Una teletransportación.
+<0038> Momento de irse.
+<0039> ¿Esa es una teletranposrtación?
+<0040> Al parecer estoy volando, ¿no?
+<0041> ¿Yo... acabada...?
+<0042> Vaya, vaya, vaya... las cosas se están haciendo interesantes.
+<0043> Y pensar que me harían llegar tan lejos...
+<0044> Es dificil de creer que pueda encontrarme en tal predicamento.
+<0045> ¡Ofensa completa¡
+<0046> Hora del combate.
+<0047> Permíteme hacer mi movimiento.
+<0048> Acabaré contigo.
+<0049> Si osas desafiarme, será mejor que te prepares.
+<0050> Acepto tu reto.
+<0051> Buen impulso.
+<0052> La batalla comienza.
+<0053> Esto te va a doler.
+<0054> Lamento decir que no me podré contener. Mis disculpas.
+<0055> Te detendré ahora mismo.
+<0056> Fufu, ¡toma esto!
+<0057> Ow.
+<0058> Ngh...
+<0059> ¡Ugh!
+<0060> Vaya, vaya.
+<0061> Esto no es bueno.
+<0062> Esto se ve un poco difícil.
+<0063> Y pensar que me acorralarían de esta forma...
+<0064> Eso debió haber sido un poco muy doloroso.
+<0065> Simplemente no puedes darme.
+<0066> ¿Acaso pensaste que eso me daría?
+<0067> Eso no funcionará.
+<0068> Vaya, eso no me dió, ¿no?
+<0069> Fufu, mala suerte para ti.
+<0070> La victoria es mía.
+<0071> Y ese es el fin.
+<0072> Duérme por un rato, ¿sí?
+<0073> Vaya, vaya, tienes habilidad.
+<0074> Hmm, ¿acaso cometí un error?
+<0075> Eres un oponente formidable.
+<0076> Haré que pagues por esto.
+<0077> Fufu, ¡estrella obtenida!
+<0078> Qué maravilla.
+<0079> Qué encantador.
+<0080> He obtenido estrellas.
+<0081> ¡¿Un panel de perdidas?!
+<0082> Ah, un panel de perdidas...
+<0083> Qué mala suerte.
+<0084> ¡Aw, cielos!
+<0085> ¿Una trampa?
+<0086> Caí por completo en ella.
+<0087> No...
+<0088> Qué terrible.
+<0089> Un jefe ha aparecido.
+<0090> La tensión aumenta.
+<0091> Tengo un mal presentimiento sobre esto.
+<0092> Ahora tendré que proceder con cuidado.
+<0093> ¿Acaso debería escoger la norma de estrellas?
+<0094> Sí, la corriente ahora está de mi lado.
+<0095> Ahora es el momento para ir por unas estrellas.
+<0096> Espero que esta sea la decisión correcta.
+<0097> ¿Acaso debería acabar con todos?
+<0098> Iré por la victoria, aunque deba ser un poco ruda.
+<0099> Es solo una partida, así que puedo permitirme ser un poco imprudente, ¿no?
+<0100> Combatiré con elegancia, como siempre.
+<0101> Soy Sudou Rinse.
+<0102> Rinse de la Academia Privada Vientos Resplandecientes. Gusto en conocerte.
+<0103> ¿Vamos a jugar juntos?
+<0104> Disfrutemos de esto juntos.
+<0105> Ahora, es hora de la partida.
+<0106> Vamos a disfrutar de esto con gracia y elegancia.
+<0107> Fufufu, la diversión solo acaba de comenzar.
+<0108> Puedo llegar a ser un poco apasionada.
+<0109> ¿Cómo has visto mi fuerza?
+<0110> Fufu, esa fue una buena partida.
+<0111> Este momento nunca pasa de moda, ¿no crees?
+<0112> Mi victoria, ¿sí?
+<0113> Nuevo objeto obtenido~♪
+<0114> Vaya, vaya, ¿acaso has obtenido algo bueno?
+<0115> Pareces estar feliz. ¿Acaso me lo vas a mostrar?
+<0116> Felicitaciones. También me siento feliz por ti.
+<0117> Vamos a cambiar.
+<0118> Te dejaré el resto a ti.
+<0119> Me retiraré por ahora.
+<0120> Es tu turno.
+<0121> Entendido.
+<0122> Bien.
+<0123> ¡Claro!
+<0124> Eso no será suficiente.
+<0125> Eso no es bueno.
+<0126> La fortuna brilla sobre tú y yo.
+<0127> Oh... oh vaya.
+<0128> Aquí vamos.
+<0129> Tiraré el dado.
+<0130> Buena suerte.
+<0131> Buen día.
+<0132> Hmm... ugh...
+<0133> Muy bien.
+<0134> Mejor de lo esperado. Que afortunada.
+<0135> Ugh... qué frustrante.
+<0136> Usaré esta Carta Especial.
+<0137> Es una situación inusual, pero...
+<0138> La forma de usar esta carta es...
+<0139> ¡Carta Especial!
+<0140> Gracias.
+<0141> Suishou, es tu turno.
+<0142> ¿Te importaría seguir esto por mí?
+<0143> Sé que puedes hacer esto. Tengo fe en ti.
+<0144> Suishou, muéstrame tus habilidades.
+<0145> Suishou, permíteme seguirlo desde aquí.
+<0146> ¿Podrías permitirme jugar por un turno a mí también?
+<0147> No es justo que tú te quedes con toda la diversión. Yo también quiero participar.
+<0148> Suishou, retirada.
+<0149> Haru, ¿acaso has estado bien?
+<0150> Haru, ha pasado un largo tiempo. Ven a jugar con tu hermanita mayor.
+<0151> Jugar a 100% OJ con Haru... No podría ser más feliz...
+<0152> Jugar a 100% OJ de esta forma... me trae muchos recuerdos.
+<0153> Juega con tu hermanita mayor, Kana.
+<0154> Kana, eres tan adorable como siempre. 
+<0155> Kana, has crecido mucho.
+<0156> Me estoy divirtiendo mucho jugando contigo, Kana.
+<0157> Nunca hubiera pensado que pelearía contra ti otra vez, Marie.
+<0158> Marie, ¿acaso has perdido tu toque?
+<0159> No me contendré, por supuesto. Marie.
+<0160> Tenía mis dudas, pero... esos ojos furiosos son los mismos que yo recuerdo.
+<0161> Oh, esa es mi carta.
+<0162> ¡Realmente no quiero perder la carta de Haru, pero...!
+<0163> ¡La carta de Kana...! Tendré que conseguirla otra vez luego.

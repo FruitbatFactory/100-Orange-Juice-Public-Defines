@@ -6,7 +6,7 @@ flavor="Owwwww!!" ―Sham
 
 < CARD_BOOST_LONELYCHARIOT >
 name=Lonely Chariot
-descr=Stock Effect\nAlways roll 5 to move. After your turn, take 1 damage. Effect expires on KO.\nIf you suffer KO from this effect, pay Lvl x5 stars.
+descr=Stock Effect\nAlways roll 5 to move. After your turn, take 1 damage. Effect expires on KO.\nIf you suffer KO from this effect, pay (your Lvl) x5 Stars.
 flavor="'You guys'? You're mistaken...\nI ride alone!" ―Lone Rider
 
 < CARD_BOOST_MIMIC >
@@ -51,7 +51,7 @@ flavor="A hole in the wall-like force between dimensions... it would appear that
 
 < CARD_EVENT_SOLICITATION >
 name=Scary Solicitation
-descr=All active players except the one who played this card must draw cards, paying 15 stars per card, up to their card maximum.
+descr=All active players except the one who played this card must draw cards, paying 15 Stars per card, up to their card maximum.
 flavor="You'll buy it, of course. You'll buy it. Won't you?" ―Merchant
 
 < CARD_BATTLE_ACCELHYPER >
@@ -61,12 +61,12 @@ flavor="Unlimited Charge!" ―Sora
 
 < CARD_TRAP_BRUTALPRANK >
 name=Brutal Prank
-descr=Discard all Hyper cards in hand. Lose 10 stars and heal 1 HP for each discarded card.
+descr=Discard all Hyper cards in hand. Lose 10 Stars and heal 1 HP for each discarded card.
 flavor="Noooo, Mr. Cow! Mr. Frog!" ―Yuuki\n"Hahahaha! Wail and weep!!" ―Yuki
 
 < CARD_BOOST_COMPLETIONREWARD >
 name=Completion Reward
-descr=Gain 7 stars for every trap you have set and someone has landed on.
+descr=Gain 7 Stars for every trap you have set and someone has landed on.
 flavor="Yay, I've got my pay!" ―Chris\n"Don't waste it, okay?" ―Manager
 
 < CARD_BATTLE_EXTENSION >
@@ -106,12 +106,12 @@ flavor="A light capable of burning down the city... even the planet... I can tel
 
 < CARD_GIFT_UNLUCKYCHARM >
 name=Unlucky Charm
-descr=★Cost: Level x5\nLose Lvl x1 stars at the start of your turn. Using this card sends it to another player. If Cost is higher than your star count, you may use this card for free.
+descr=★Cost: Level x5\nLose (your Lvl) Stars at the start of your turn. Using this card sends it to another player. If Cost is higher than your Star count, you may use this card for free.
 flavor="Pitch black darkness disrupts my slumber, hence I yearn for light..." ―Krilalaris
 
 < CARD_GIFT_WINDYENCHANTMENT >
 name=Windy Enchantment
-descr=Gain +1 MOV. Cannot Norma while holding this card. Discard upon use.
+descr=Gain +1 MOV. Cannot Norma while holding this card.
 flavor=People call her Barefoot Alicianrone.
 
 < CARD_HYPER_SYURA >
@@ -126,7 +126,7 @@ flavor="No matter what, you can't escape my Bits." ―Nanako
 
 < CARD_HYPER_SAKI >
 name=Big Bang Bell
-descr=Every unit on this and 2 adjacent squares takes 2 damage, +1 for every 2 chapters since setting the trap. On KO, half of their stars go to the player who set this trap.
+descr=Every unit on this and 2 adjacent squares takes 2 damage, +1 for every 2 chapters since setting the trap. On KO, half of their Stars go to the player who set this trap.
 flavor="Mauuuuuryaaaaaaahh!" ―Saki
 
 < CARD_HYPER_KYOUSUKE >
@@ -151,7 +151,7 @@ flavor="Dance, long-eared beasts!" ―Krilalaris
 
 < CARD_HYPER_ALTE >
 name=Self-Destruct
-descr=On KO, also KO the opponent. Enemy gains no stars or wins, and loses half of their stars.
+descr=On KO, also KO the opponent. Enemy gains no Stars or Wins, and loses half of their Stars.
 flavor="I'm sorry... I can't make it back..." ―Alte
 
 < CARD_HYPER_KYOKO >
@@ -186,7 +186,7 @@ flavor="How foolish you are to have challenged a God. Prepare to taste your bitt
 
 < CARD_HYPER_QPD >
 name=Sweet Guardian
-descr=Draw 2 cards with "Pudding" in their name from the center deck. If there are no cards with "pudding" in their name in the deck, instead randomly gain 1 Dangerous Pudding or Bad Pudding.
+descr=Take 2 cards with "Pudding" in their name from the center deck. If there are no cards with "pudding" in their name in the deck, instead randomly gain 1 Dangerous Pudding or Bad Pudding.
 flavor="My little... pudding..." ―QP
 
 < CARD_HYPER_SORAM >
@@ -201,12 +201,12 @@ flavor="Po! Po! Po! Popoppo!!" ―Marie Poppo
 
 < CARD_HYPER_ARUSCRAMBLE >
 name=Santa's Job
-descr=During standby, you may choose another card of usable Lvl to send to another random player. Gain stars equal to Card Lvl x5. Target cannot challenge players to a battle until your next turn. This card is discarded upon KO or use.
+descr=During standby, you may choose another card of usable Lvl to send to another random player. Gain Stars equal to Card Lvl x5. Target cannot challenge players to a battle until your next turn. This card is discarded upon KO.
 flavor="Children of the world, we are coming for you!" ―Aru
 
 < CARD_HYPER_NATH >
 name=Another Ultimate Weapon
-descr=★Cost: All held stars.\nGain +1 ATK and DEF and an additional +1 ATK and DEF for every 20 stars spent on this card.
+descr=★Cost: All held Stars.\nGain +1 ATK and DEF and an additional +1 ATK and DEF for every 20 Stars spent on this card.
 flavor="With you gone, I am their ultimate weapon now." ―Nath
 
 < CARD_HYPER_MIMYUU >
@@ -226,7 +226,7 @@ flavor="Revenge!" ―Tomato
 
 < CARD_HYPER_KIRIKO >
 name=Final Surgery
-descr=KO all units with 1 HP. Remove 1 stack of Strange Medicine and gain 25 stars for each unit KO'd.
+descr=KO all units with 1 HP. Remove 1 stack of Strange Medicine and gain 25 Stars for each unit KO'd.
 flavor="Just hold still, I'll fix you up real quick." ―Kiriko
 
 < CARD_HYPER_NONAME >
@@ -246,7 +246,7 @@ flavor="No flimsy attacks can hurt me!" ―Miusaki
 
 < CARD_BATTLE_DARKSIDEOFBUSINESS >
 name=Dark Side of Business
-descr=Gain +2 ATK, enemy gains -2 DEF. For every point of damage you would deal, steal 5 stars from your opponent instead.
+descr=Gain +2 ATK, enemy gains -2 DEF. For every point of damage you would deal, steal 5 Stars from your opponent instead.
 flavor="'Extortion' - An act of monetary gain by inflicting violence upon a weaker target."
 
 < CARD_EVENT_PARTYTIME >
@@ -261,22 +261,22 @@ flavor="Pokya Po! (Treasure, get!)" ―Marie Poppo
 
 < CARD_GIFT_LOSTCHILD >
 name=Lost Child
-descr=Move backwards while this card is held. Cannot Norma while holding this card. This card is discarded upon KO or use.
+descr=Move backwards while this card is held. Cannot Norma while holding this card. This card is discarded upon KO.
 flavor="Where am I?" ―Tsih
 
 < CARD_TRAP_WANTED >
 name=Wanted
-descr=Stock Effect\nYou give double wins on KO from battle. Effect expires on KO.
+descr=Stock Effect\nYou give double Wins on KO from battle. Effect expires on KO.
 flavor="Over here! My nose is never wrong!" ―QP
 
 < CARD_GIFT_PRICEOFPOWER >
 name=Price of Power
-descr=You may pay 5 more stars to play a card one level higher than your current level. This card is discarded on use.
+descr=You may pay 5 more Stars to play a card one level higher than your current level.
 flavor="Even if I survive the war... With this body, there's nothing I can do." ―Nath
 
 < CARD_GIFT_VALENTINESDAY2018 >
 name=Sweet Battle!
-descr=When held: Pick up 2x chocolate.\nWhen played in battle: Steal 200 chocolate for each damage dealt.\nThis card is discarded upon KO or use.
+descr=When held: Pick up 2x chocolate.\nWhen played in battle: Steal 200 chocolate for each damage dealt.\nThis card is discarded upon KO.
 flavor="Here comes another cute and sweet battle!" ―QP
 
 < CARD_GIFT_VALENTINESDAY2018_BINDER >
@@ -291,7 +291,7 @@ flavor="Fear my powers!" ―Yuki
 
 < CARD_HYPER_TOMOMOCASUAL >
 name=Miracle Red Bean Ice Cream
-descr=+1 ATK while this card is held.\nTomomo (Casual): When played, turn into Tomomo (Sweet Eater) and fully restore HP.\nTomomo (Sweet Eater): When held, this card becomes Magical Revenge.\nDiscard upon use.
+descr=+1 ATK while this card is held.\nTomomo (Casual): When played, turn into Tomomo (Sweet Eater) and fully restore HP.\nTomomo (Sweet Eater): When held, this card becomes Magical Revenge.
 flavor="Miracle red bean ice cream!" ―Tomomo
 
 < CARD_HYPER_TOMOMOSWEETEATER >
@@ -321,12 +321,12 @@ flavor="Captain!" ―Pirate Minion
 
 < CARD_HYPER_MEI >
 name=White Christsmasher
-descr=Discard your current hand and deal 2 damage to players within 1 panel of you.\nFor each player KO'd, gain a win and KO'd Player's Lvl x5 stars.\nWhen carrying "Red & Blue", this card becomes "True White Christsmasher".
+descr=Discard your current hand and deal 2 damage to players within 1 panel of you.\nFor each player KO'd, gain a Win and (their Lvl) x5 Stars.\nWhen carrying "Red & Blue", this card becomes "True White Christsmasher".
 flavor="White Christsmasher!" ―Mei
 
 < CARD_HYPER_MEITRUE >
 name=True White Christsmasher
-descr=Deal 4 damage to players within 2 panels of you.\nFor each player KO'd, gain 2 wins and KO'd Player's Lvl x10 stars.\nWhen not carrying "Red & Blue", this card becomes "White Christsmasher".
+descr=Deal 4 damage to players within 2 panels of you.\nFor each player KO'd, gain 2 Wins and (their Lvl) x10 Stars.\nWhen not carrying "Red & Blue", this card becomes "White Christsmasher".
 flavor="White Christsmasher!" ―Mei, Red & Blue
 
 < CARD_GIFT_REDBLUE >
@@ -336,7 +336,7 @@ flavor="We can't do this anymore!" ―Red & Blue
 
 < CARD_HYPER_NATSUMI >
 name=Cooking Time
-descr=★Cost: Level x5\nAll players recover your Lvl x HP.\nGain 5 stars for each HP recovered. 
+descr=★Cost: Level x5\nAll players recover (your Lvl) HP.\nGain 5 Stars for each HP recovered. 
 flavor="It's meal time!" ―Natsumi
 
 < CARD_HYPER_NICO >
@@ -351,12 +351,12 @@ flavor="Phaaw..." ―Arthur
 
 < CARD_HYPER_ARTHUR2 >
 name=Rbit Hobby Shop
-descr=Pay X stars to the player who set this card, where X is the Lvl of the player who set this card. Draw a card from the deck. This card remains on board when triggered but can be replaced by a new trap. No effect on the player who set this trap.
+descr=Pay (their Lvl) Stars to the player who set this card. Draw a card from the deck. This card remains on board when triggered but can be replaced by a new trap. No effect on the player who set this trap.
 flavor="All right, it's time to open the shop." ―Arthur
 
 < CARD_HYPER_IRU >
 name=Extended Photon Rifle
-descr=★Cost: Level x5\nDeal 1 damage to a random enemy. If KO'd, gain 1 win. Repeat as many times as your current level.
+descr=★Cost: Level x5\nDeal 1 damage to a random enemy. If KO'd, gain 1 Win. Repeat as many times as your current level.
 flavor="I'll shoot you all down." ―Iru
 
 < CARD_HYPER_MIRA >
@@ -371,17 +371,17 @@ flavor="Poof." ―Mira
 
 < CARD_HYPER_CUTIES >
 name=Special Stage
-descr=★Cost: Level x10\nGo to Live Mode for (your Lvl) turns. Gain -3 MOV, can only trigger movement type panels and cannot use cards. Cannot be challenged or be the target of Boost cards. If an opponent ends their turn in 2 panel radius, steal (your Lvl) x5 stars from them. Ends on KO.
+descr=★Cost: Level x10\nGo to Live Mode for (your Lvl) turns. Gain -3 MOV, can only trigger movement type panels and cannot use cards. Cannot be challenged or be the target of Boost cards. If an opponent ends their turn in 2 panel radius, steal (your Lvl) x5 Stars from them. Ends on KO.
 flavor="We are the strongest idols!" ―Sora & Sham
 
 < CARD_HYPER_YUUKI_ANGEL >
 name=Angel Hand
-descr=Heal target player to full HP and gain 10 stars per healed HP. In even-numbered chapters, this card turns into Devil Hand.
+descr=Heal target player to full HP and gain 10 Stars per healed HP. In even-numbered chapters, this card turns into Devil Hand.
 flavor="This is the power of mercy." ―Yuuki
 
 < CARD_HYPER_YUUKI_DEVIL >
 name=Devil Hand
-descr=Lower a random player's HP to 1 and gain 10 stars per lowered HP. In odd-numbered chapters, this card turns into Angel Hand.
+descr=Lower a random player's HP to 1 and gain 10 Stars per lowered HP. In odd-numbered chapters, this card turns into Angel Hand.
 flavor="Eat the power of the devil!" ―Yuuki
 
 < CARD_HYPER_ISLAY >
@@ -391,7 +391,7 @@ flavor="Just like you... I have my battles to fight." ―Islay
 
 < CARD_HYPER_MIO >
 name=Magical Inferno
-descr=KO all enemies on any other panel in the same uninterrupted column or row as the panel your unit is on. You gain stars from each KO'd enemy as though KO'd in battle. Then end your turn.
+descr=KO all enemies on any other panel in the same uninterrupted column or row as the panel your unit is on. You gain Stars from each KO'd enemy as though KO'd in battle. Then end your turn.
 flavor="Inferno!" ―Mio
 
 < CARD_BATTLE_DESPERATEMODIFICATION >
@@ -416,17 +416,17 @@ flavor="Poppo! Poppopopo!!!" ―Everyone
 
 < CARD_GIFT_POPPOTHESNATCHER >
 name=Poppo the Snatcher
-descr=Gain -1 DEF. Whenever passing an enemy on your turn, steal target Lvl x3 stars from them. Cannot Norma while holding this card. This card is discarded upon KO or use.
+descr=Gain -1 DEF. Whenever passing an enemy on your turn, steal target Lvl x3 Stars from them. Cannot Norma while holding this card. This card is discarded upon KO.
 flavor="Pokyakya!!" ―Poppo
 
 < CARD_GIFT_BLOODLUST >
 name=Bloodlust
-descr=Lose 1 HP at the start of your turn. Heal 1 HP for every damage you deal. Cannot Norma while holding this card. This card is discarded upon KO or use.
+descr=Lose 1 HP at the start of your turn. Heal 1 HP for every damage you deal. Cannot Norma while holding this card. This card is discarded upon KO.
 flavor="The true power of my beast... I wonder if it's like this." ―Krilalaris
 
 < CARD_BATTLE_SINKORSWIM >
 name=Sink or Swim
-descr=Gain -1 ATK, -1 DEF and -1 EVD. If you win this battle, take 50% more of your opponent's stars.
+descr=Gain -1 ATK, -1 DEF and -1 EVD. If you win this battle, take 50% more of your opponent's Stars.
 flavor="Alright, it's time to play the long odds!" ―Yuki
 
 < CARD_BATTLE_SERIOUSBATTLE >
@@ -441,7 +441,7 @@ flavor="I've got pudding for lunch today!" ―QP
 
 < CARD_BOOST_SWEETDESTROYER >
 name=Sweet Destroyer
-descr=Steal a random "pudding" card from each other player. You may play one more card this turn. For 3 chapters, all non-Hyper Sweets type cards drawn are permanently transformed at random into Dangerous Pudding or Bad Pudding.
+descr=Steal a random "pudding" card from each other player. You may play one more card this turn. For 3 chapters, all non-Hyper Sweets type cards that enter a player's hand will be permanently transformed at random into Dangerous Pudding or Bad Pudding.
 flavor="The sweets that bring harm to the world... I will destroy them all!" ―Sweet Breaker
 
 < CARD_BOOST_BACKDOORTRADE >
@@ -456,7 +456,7 @@ flavor="We have nothing to do..." ―Sumika\n"Let's enjoy the peace and quiet." 
 
 < CARD_EVENT_UNPAIDWORK >
 name=Unpaid Work
-descr=Effect Duration: 1 Chapter.\nNo units will gain stars from any sources.
+descr=Effect Duration: 1 Chapter.\nNo units will gain Stars from any sources.
 flavor="Where's my payment!" ―Chris
 
 < CARD_EVENT_INDISCRIMINATEFIRESUPPORT >
@@ -466,12 +466,12 @@ flavor="......" ―Sora
 
 < CARD_GIFT_LUCKYCHARM >
 name=Lucky Charm
-descr=Gain Lvl x1 stars at the start of your turn. Reduce hand size to 1. This card is discarded upon use. On defeat, give Lvl x 3 more stars.
+descr=Gain Lvl x1 Stars at the start of your turn. Reduce hand size to 1. On defeat, give Lvl x 3 more stars.
 flavor="Woo-hoo, so many stars! Today's my day!!" ―Tomomo
 
 < CARD_GIFT_METALLICMONOCOQUE >
 name=Metallic Monocoque
-descr=When a non-battle effect deals any damage to you, that damage is reduced by 1, and you lose Lvl x 2 stars.
+descr=When a non-battle effect deals any damage to you, that damage is reduced by 1, and you lose (your Lvl) x 2 Stars.
 flavor="What a timid generation we live in." ―Sherry
 
 < CARD_TRAP_IWANNASEEYOU >
@@ -516,7 +516,7 @@ flavor="I can even control my dice rolls." ―Yuki
 
 < CARD_BOOST_WARPCONTROL >
 name=Warp Control
-descr=★Cost: Lvl x5\nUpon activating the next Warp or Warp Move panel, choose another Warp or Warp Move panel to warp to.
+descr=★Cost: Level x5\nUpon activating the next Warp or Warp Move panel, choose another Warp or Warp Move panel to warp to.
 flavor="There's a nice wind blowing around here!" ―Cook
 
 < CARD_EVENT_REBELLION >
@@ -526,27 +526,27 @@ flavor="The Guild will betray you before too long... Keep that in mind." ―Sher
 
 < CARD_GIFT_NANAKOBIT >
 name=Nanako's Bit
-descr=Randomly gain +1 ATK, +1 DEF, or +1 EVD at the start of battle while this card is held, and lose 7 stars. This card is discarded upon KO or use.
+descr=Randomly gain +1 ATK, +1 DEF, or +1 EVD at the start of battle while this card is held, and lose 7 Stars. This card is discarded upon KO.
 flavor="What the heck are you doing!" ―Nanako
 
 < CARD_TRAP_BANKOFPOPPO >
 name=Bank of Poppo
-descr=The first unit to activate this trap loses Lvl x10 stars. If any stars were lost, the trap stays on board and the lost stars are given to the next player to trigger the trap.
+descr=The first unit to activate this trap loses (their Lvl) x10 Stars. If any Stars were lost, the trap stays on board and the lost Stars are given to the next player to trigger the trap.
 flavor="My money...!" ―Kai
 
 < CARD_BOOST_MYWILDFRIENDS >
 name=My Wild Friends
-descr=Summon a random friendly unit on your panel that is an available wild unit type. It gains 1 HP.\nThe summon will challenge any enemies and gives half of the stars it gains to the summoner. Replaces any previous summon.
+descr=Summon a random friendly unit on your panel that is an available wild unit type. It gains 1 HP.\nThe summon will challenge any enemies and gives half of the Stars it gains to the summoner. Replaces any previous summon.
 flavor="It's nice to relax once in a while." ―Teotoratta
 
 < CARD_BATTLE_CONTESTOFCUTENESS >
 name=Contest of Cuteness
-descr=May only be used by the attacker. The battle is decided by a contest of cuteness.\nCuteness = 10 - Max HP - ATK + EVD, but no less than 0.\nInstead of rolling for attack, both units roll two dice and add the total to their Cuteness. If one unit has a higher Cuteness, they steal 5x the loser's Lvl stars and gain 1 Win. Then end the battle.\nCan only use against players.
+descr=May only be used by the attacker. The battle is decided by a contest of cuteness.\nCuteness = 10 - Max HP - ATK + EVD, but no less than 0.\nInstead of rolling for attack, both units roll two dice and add the total to their Cuteness. If one unit has a higher Cuteness, they steal 5x the loser's Lvl Stars and gain 1 Win. Then end the battle.\nCan only use against players.
 flavor="Now tell us, who is the cutest here!?" ―Saki
 
 < CARD_GIFT_RANGEDTRAPS >
 name=Look How Long My Arms and Legs Are Now
-descr=You may pay 5 more stars to place traps within a 2 panel radius. Increase all non-Trap, non-Gift card levels by 1 (up to 5). This card is discarded upon use or landing on a trap.
+descr=You may pay 5 more Stars to place traps within a 2 panel radius. Increase all non-Trap, non-Gift card levels by 1 (up to 5). This card is discarded upon landing on a trap.
 flavor="Let Mother hug you in these long arms of hers." ―Mother Poppo
 
 < CARD_BANNER_FLUFFYANDFUZZY >
@@ -561,7 +561,7 @@ flavor="Now we can have fun 'til morning!" ―Poyo
 
 < CARD_BANNER_LOCATIONFEE >
 name=Protection Fee
-descr=When you stop on another player's Home panel, pay (your Lvl) x2 stars to them. If you fail the Norma check, your next turn will be skipped.
+descr=When you stop on another player's Home panel, pay (your Lvl) x2 Stars to them. If you fail the Norma check, your next turn will be skipped.
 flavor="This is such a rip-off..." ―Lulu
 
 < CARD_BOOST_CHEF_SPECIAL >
@@ -621,17 +621,17 @@ flavor="Receive my miracle!" ―Ellie
 
 < CARD_HYPER_LULU >
 name=Lulu's Lucky Egg
-descr=Can only be played with 2 HP or less. Gain one of the following effects at random:\n-Roll a die and gain the die number x 20 stars.\n-Draw 5 cards.\n-Heal to full HP and permanently gain +1 ATK, +1 DEF, and +1 EVD. This effect can only trigger once.
+descr=Can only be played with 2 HP or less. Gain one of the following effects at random:\n-Roll a die and gain the die number x 20 Stars.\n-Draw 5 cards.\n-Heal to full HP and permanently gain +1 ATK, +1 DEF, and +1 EVD. This effect can only trigger once.
 flavor="Ugh... Lulu's about to lay an egg..." ―Lulu
 
 < CARD_HYPER_MARCPILOT_NORMAL >
 name=Rocket Cannon
-descr=Deal 1 damage to target enemy. If KO'd, you gain wins as though KO'd in battle.\nYou may instead pay this card's cost to transform this card into "Big Rocket Cannon".
+descr=Deal 1 damage to target enemy. If KO'd, you gain Wins as though KO'd in battle.\nYou may instead pay this card's cost to transform this card into "Big Rocket Cannon".
 flavor="Red Barrel... It's time to use that!" ―Marc
 
 < CARD_HYPER_MARCPILOT_UPGRADE >
 name=Big Rocket Cannon
-descr=Deal 3 damage to target enemy. If KO'd, you gain wins as though KO'd in battle.\nThis card becomes "Rocket Cannon" when you use another card or you suffer KO.
+descr=Deal 3 damage to target enemy. If KO'd, you gain Wins as though KO'd in battle.\nThis card becomes "Rocket Cannon" when you use another card or you suffer KO.
 flavor="Go!" ―Marc
 
 < CARD_HYPER_ALICIANRONE >
@@ -641,7 +641,7 @@ flavor="I'll go fast and cut my way through!" ―Alicianrone
 
 < CARD_HYPER_TEOTORATTA >
 name=Beast Witch
-descr=When another player loses stars from an Encounter panel battle and those stars would go to the Encounter panel unit, you will receive them instead. If this effect is triggered, discard this card at the end of your turn. If several players carry Beast Witch, the stars are split between them.
+descr=When another player loses Stars from an Encounter panel battle and those Stars would go to the Encounter panel unit, you will receive them instead. If this effect is triggered, discard this card at the end of your turn. If several players carry Beast Witch, the Stars are split between them.
 flavor="All beasts! Obey me!" ―Teotoratta
 
 < CARD_HYPER_ARNELLE >
@@ -661,17 +661,17 @@ flavor="I'm going to use my saint eyes!" ―Kyupita
 
 < CARD_HYPER_CHRIS_CHEF >
 name=Chef, I Could Use Some Help!
-descr=Summon Chef. Fights battles on behalf of your unit. Gives 2 Wins on KO. Gives stars gained in battle to your unit. Effect ends with Chef's KO. This card turns to "Manager, I Could Use Some Help!" if you have 4 or more Store Manager Counters and your Lvl is 4 or higher.
+descr=Summon Chef. Fights battles on behalf of your unit. Gives 2 Wins on KO. Gives Stars gained in battle to your unit. Effect ends with Chef's KO. This card turns to "Manager, I Could Use Some Help!" if you have 4 or more Store Manager Counters and your Lvl is 4 or higher.
 flavor="Chef! I'm going to need your help!" ―Chris
 
 < CARD_HYPER_CHRIS_MANAGER >
 name=Manager, I Could Use Some Help!
-descr=Summon Store Manager. Fights battles on behalf of your unit. Gives 2 Wins on KO. Gives stars gained in battle to your unit. Effect ends with Store Manager's KO, and your Store Manager Counters reset to 0. This card turns to "Chef, I Could Use Some Help!" if you have less than 4 Store Manager Counters.
+descr=Summon Store Manager. Fights battles on behalf of your unit. Gives 2 Wins on KO. Gives Stars gained in battle to your unit. Effect ends with Store Manager's KO, and your Store Manager Counters reset to 0. This card turns to "Chef, I Could Use Some Help!" if you have less than 4 Store Manager Counters.
 flavor="Manager, help me!" ―Chris
 
 < CARD_HYPER_HALENA >
 name=Safe Journey
-descr=Lose 5 stars at the start of each turn. Ignore Drop panels, traps, and card effect damage. This effect ends when you stop on your own Home panel or have less than 5 stars.
+descr=Lose 5 Stars at the start of each turn. Ignore Drop panels, traps, and card effect damage. This effect ends when you stop on your own Home panel or have less than 5 Stars.
 flavor="Now, let's get going." ―Halena
 
 < CARD_HYPER_COOK >
@@ -706,17 +706,17 @@ flavor="Pleased to make your acquaintance. I hope we can get along well in the f
 
 < CARD_HYPER_FERNET_AFFLUENCE >
 name=Affluence (X)
-descr=★Cost: (X) x10. If this card is Affluence (4):\nActive players battle you in a random order. They gain -3 ATK. You cannot attack. If you are not KO'd, opponent gives you (their Lvl) x 10 stars.\nIf not Affluence (4): Upgrade this card.\nIf not held by Fernet, this card becomes New Nobility.
+descr=★Cost: (X) x10. If this card is Affluence (4):\nActive players battle you in a random order. They gain -3 ATK. You cannot attack. If you are not KO'd, opponent gives you (their Lvl) x 10 Stars.\nIf not Affluence (4): Upgrade this card.\nIf not held by Fernet, this card becomes New Nobility.
 flavor="You wish to ask me for a favor...? My my, of course I'd be ever so happy to help a friend." ―Fernet
 
 < CARD_HYPER_FERNET_AFFLUENCE_V >
 name=Affluence (%d)
-descr=If this card is Affluence (4):\nActive players battle you in a random order. They gain -3 ATK. You cannot attack. If you are not KO'd, opponent gives you (their Lvl) x 10 stars.\nIf not Affluence (4): Upgrade this card.\nIf not held by Fernet, this card becomes New Nobility.
+descr=If this card is Affluence (4):\nActive players battle you in a random order. They gain -3 ATK. You cannot attack. If you are not KO'd, opponent gives you (their Lvl) x 10 Stars.\nIf not Affluence (4): Upgrade this card.\nIf not held by Fernet, this card becomes New Nobility.
 flavor="You wish to ask me for a favor...? My my, of course I'd be ever so happy to help a friend." ―Fernet
 
 < CARD_HYPER_MALT >
 name=Twilight-Colored Dream
-descr=★Cost: Level x7\nEffect Duration: (Your Lvl) x Chapters\nTurn all Bonus and Draw panels into Encounter panels. If an enemy moves onto an Encounter panel with a Battle card you set as a Trap, they must stop on that panel. 
+descr=★Cost: Level x7\nEffect Duration: (Your Lvl) Chapters\nTurn all Bonus and Draw panels into Encounter panels. If an enemy moves onto an Encounter panel with a Battle card you set as a Trap, they must stop on that panel. 
 flavor="Look at all those countless planes crossing the sky... It's like watching a dream, is it not?" ―Malt
 
 < CARD_HYPER_MESCAL >
@@ -731,7 +731,7 @@ flavor="Everything's under my control." ―Shifu
 
 < CARD_HYPER_REIKA >
 name=Star Collector
-descr=Effect Duration: 3 Chapters.\nWhenever another unit gains stars from a panel or battle KO, they gain up to your Lvl fewer stars, and you gain your Lvl stars. Effect expires on KO.
+descr=Effect Duration: 3 Chapters.\nWhenever another unit gains Stars from a panel or battle KO, they gain up to (your Lvl) fewer Stars, and you gain (your Lvl) Stars. Effect expires on KO.
 flavor="Fufufu, look how many stars I have here." ―Reika
 
 < CARD_HYPER_WATTY >
@@ -761,7 +761,7 @@ flavor="Sweets power is the best!" ―Saki
 
 < CARD_HYPER_SWEETBLOGGER >
 name=Operation: A Mountain of Sweets
-descr=Draw 3 Boost cards from the deck. You may play up to 3 more Boost cards this turn for 1/3 of their cost.
+descr=Take 3 Boost cards from the deck. You may play up to 3 more Boost cards this turn for 1/3 of their cost.
 flavor="Ehehe, let's have a lot of delicious sweets." ―Natsumi
 
 < CARD_HYPER_MIOFESTIVE >
@@ -791,12 +791,12 @@ flavor="Pitter-patter, pitter-patter!" ―Mimyuu
 
 < CARD_HYPER_MOTHERP >
 name=Mother Power
-descr=★Cost: Level x2\nEffect Duration: Player level.\nGain Lvl x1 stars for every point of damage you take. If the effect ends or is replaced while active, heal to full HP.\nEffect ends on KO.
+descr=★Cost: Level x2\nEffect Duration: Player level.\nGain (your Lvl) Stars for every point of damage you take. If the effect ends or is replaced while active, heal to full HP.\nEffect ends on KO.
 flavor="This is a Mother's love, poppo." ―Mother Poppo
 
 < CARD_HYPER_DARKL >
 name=Lulu is an Unlucky Dragon
-descr=Can only be played with 2 HP or less. Trigger one of the following effects at random:\n-Roll a die. All other players lose the die number x (their Lvl) stars.\n-All other players discard a card at random.\n-All other players' HP is lowered to 2.
+descr=Can only be played with 2 HP or less. Trigger one of the following effects at random:\n-Roll a die. All other players lose the die number x (their Lvl) Stars.\n-All other players discard a card at random.\n-All other players' HP is lowered to 2.
 flavor="Lulu is... an unlucky dragon..." ―Dark Lulu
 
 < CARD_HYPER_HELLIE >
@@ -806,12 +806,12 @@ flavor="I'll show you my strongest power ♡" ―Hyper Ellie
 
 < CARD_HYPER_HKAI >
 name=Ex-Protagonist's Moment of Glory
-descr=★Cost: Lvl x7. Lower your HP to 1. Effect Duration: 3 chapters. Gain +2 ATK and +5 EVD.
+descr=★Cost: Level x7. Lower your HP to 1. Effect Duration: 3 chapters. Gain +2 ATK and +5 EVD.
 flavor="You can't make an adult go overboard." ―Hero Kai
 
 < CARD_HYPER_GRAIN >
 name=All Guns at the Ready
-descr=Gain a Cannonball Counter and then pay all stocked Cannonball Counters. Deal 1 damage to a random enemy. If the enemy is KO'd, gain 1 Win and Stars equal to 3x their level. Repeat this once for every Cannonball Counter paid. 
+descr=Gain a Cannonball Counter and then pay all stocked Cannonball Counters. Deal 1 damage to a random enemy. If the enemy is KO'd, gain 1 Win and (their Lvl) x3 Stars. Repeat this once for every Cannonball Counter paid. 
 flavor="All guns at the ready... FIRE!" ―Grain
 
 < CARD_HYPER_BOURBON >
@@ -826,17 +826,17 @@ flavor="Our deep, vibrant youth begins now!" ―Poyo
 
 < CARD_HYPER_CHUU >
 name=I'll Get a Little Into It
-descr=★Cost: Lvl x5.\nUntil end of turn, gain +X ATK, where X is your level. Gain no stars from defeating enemies. The first time you defeat a player in battle while this effect is active, gain 2 Wins.
+descr=★Cost: Level x5.\nUntil end of turn, gain +(Your Lvl) ATK. Gain no Stars from defeating enemies. The first time you defeat a player in battle while this effect is active, gain 2 Wins.
 flavor="I guess I'll let you see a glimpse of my mettle." ―Chuu
 
 < CARD_HYPER_HARUKA >
 name=Hype Bringer
-descr=Effect duration: 3 chapters. Revive all players currently suffering KO with full HP. If a player suffers KO, they recover instantly with full HP. For each player revived, gain their Lvl x 5 stars. This star gain effect can stack.
+descr=Effect duration: 3 chapters. Revive all players currently suffering KO with full HP. If a player suffers KO, they recover instantly with full HP. For each player revived, gain (their Lvl) x 5 Stars. This Star gain effect can stack.
 flavor="Let's hype up the game together!" ―Haruka
 
 < CARD_HYPER_KANATA >
 name=Intellectual-Sounding Bluff
-descr=Target another player.\nChoose a card type (Battle/Boost/Event/Other), then declare a card type.\nIf the next card played by target player is the Chosen type: gain 2 Wins and Lvl x 10 stars.\nDeclared only: take 2 damage. 
+descr=Target another player.\nChoose a card type (Battle/Boost/Event/Other), then declare a card type.\nIf the next card played by target player is the Chosen type: gain 2 Wins and (your Lvl) x 10 Stars.\nDeclared only: take 2 damage. 
 flavor="I can see what cards you're holding." ―Kanata
 
 < CARD_HYPER_POPOMI >
@@ -853,6 +853,17 @@ flavor="I'm pretty dexterous, right?" ―Mimomo
 name=Because I'm a Teacher
 descr=When you would be KO'd by damage during battle, lower your HP to 1 instead. After that, discard this card.##(Trigger: Go down to 1 HP outside of battle):  Heal 1 HP after activating a Draw, Move, Warp, Warp Move, or Random panel. If you reach full HP from this heal, discard this card.
 flavor="As a teacher, I need to stay on my feet." ―Kurie
+
+< CARD_HYPER_RINSE >
+name=Fierce Young Lady
+descr=Stock Effect (1): Next time you take damage in battle, gain (your Lvl) x2 Stars for every point of damage (up to 9 damage). If you paid as much or more to play a battle card than gained from this effect, heal to full HP at the end of the battle. This effect is removed upon KO. 
+flavor="You'll find I'm not so easy to bring down." ―Rinse
+
+< CARD_HYPER_SUISHOU >
+name=Yukimura-Style Stance
+descr=Stock Effect: Next time you would take damage while defending in battle, cancel that damage and deal equal amount of damage to the unit that caused it. This effect is removed upon KO.
+flavor="The Yukimura Style turns every attack aside." ―Suishou
+
 
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=Ultimate Weapon in the Sun
@@ -906,7 +917,7 @@ flavor=
 
 < CARD_CHAOS_ABYSS >
 name=From the Chaotic Abyss
-descr=Summon Chaos Poppo minion into the field. For every point of damage Chaos Poppo would deal, steal 2 stars instead. When KO'd, gives 10 Stars from the summoner and 2 Wins. Only one summon can be on the field at a time.
+descr=Summon Chaos Poppo minion into the field. For every point of damage Chaos Poppo would deal, steal 2 Stars instead. When KO'd, gives 10 Stars from the summoner and 2 Wins. Only one summon can be on the field at a time.
 flavor=
 
 < CARD_CHAOS_RAMPAGE >
@@ -916,7 +927,7 @@ flavor=
 
 < CARD_CHAOS_LAUNCH >
 name=Chaotic Launch
-descr=Select a panel to dive on, then leave the field until next turn. That panel will not be revealed to other players. On the next turn, dive to chosen panel, and cannot perform a Norma check on the same turn. Units in 2 panel range take Lvl x1 damage. Units in 1 panel range take Lvl x2 damage instead. For each KOed unit, gain 20 Stars, and 2 Wins.
+descr=Select a panel to dive on, then leave the field until next turn. That panel will not be revealed to other players. On the next turn, dive to chosen panel, and cannot perform a Norma check on the same turn. Units in 2 panel range take (your Lvl) damage. Units in 1 panel range take (your Lvl) damage instead. For each KOed unit, gain 20 Stars, and 2 Wins.
 flavor=
 
 < CARD_CHAOS_ROULETTE >
@@ -931,7 +942,7 @@ flavor=
 
 < CARD_CHAOS_GIFT_HOTPOTATO >
 name=Hold the Gremlin
-descr=An unpredictable Mimyuu has attached herself to you. At the end of your turn, gain Lvl stars. Will lash out after a random amount of turns, reducing your HP to 1 and passing to another player. Use to pass to another player. Cannot be discarded or removed through any other means. Ignore any effects that would prevent this card's effect from being applied.
+descr=An unpredictable Mimyuu has attached herself to you. At the end of your turn, gain Lvl Stars. Will lash out after a random amount of turns, reducing your HP to 1 and passing to another player. Use to pass to another player. Cannot be discarded or removed through any other means. Ignore any effects that would prevent this card's effect from being applied.
 flavor=
 
 < CARD_CHAOS_BDTT_HYPER >

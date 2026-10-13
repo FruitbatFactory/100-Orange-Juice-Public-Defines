@@ -6,7 +6,7 @@
 Альбом
 
 < PROFILE_LABEL_COLLECTION >
-Коллекция
+О Коллекции
 
 < PROFILE_LABEL_AVATAR >
 Аватар
@@ -21,16 +21,16 @@
 Статистика
 
 < PROFILE_LABEL_EVENTS >
-Снятые События
+Архив Событий
 
 < PROFILE_STARS >
-Звёзды
+Звёзд:
 
 < PROFILE_CARDS >
-Карты
+Карт:
 
 < PROFILE_NODATA >
-Пусто
+Неизв.
 
 < PROFILE_CARDSORT_TYPE >
 Тип
@@ -84,22 +84,22 @@
 Прогресс набора "Breaker":
 
 < PROFILE_MIXEDPACKCARDS >
-Карты набора "Mixed"
+К. набора "Mixed"
 
 < PROFILE_ACCELERATIONPACKCARDS >
-Карты набора "Acceleration"
+К. набора "Acceleration"
 
 < PROFILE_COMMUNITYCARDPACKCARDS >
-Карты наборов "Community"
+К. наборов "Community"
 
 < PROFILE_SEASONALEVENTCARDS >
-Карты Сезонных Событий
+К. Сезонных Событий
 
 < PROFILE_PUDDINGPACKCARDS >
-Карты набора "Pudding"
+К. набора "Pudding"
 
 < PROFILE_EXTRACURRICULARPACKCARDS >
-Карты набора "Extracurricular"
+К. набора "Extracurricular"
 
 < PROFILE_AVATAR_CHANGECHARACTER >
 Сменить персонажа
@@ -175,7 +175,7 @@
 Форма Насмешки
 
 < PROFILE_TAUNTS_EMOTE_EDIT >
-Выражение
+Эмоция
 
 < PROFILE_TAUNTS_SOUND_EDIT >
 Звуковой эффект
@@ -191,6 +191,9 @@
 
 <PROFILE_GALLERY_BGM>
 Музыка
+
+<PROFILE_GALLERY_BGM_TITLE>
+Стартовый Экран
 
 <PROFILE_GALLERY_VOICES>
 Голоса
@@ -208,7 +211,7 @@
 Название: %s
 
 <PROFILE_GALLERY_ENDINGNAME>
-Название: %s — концовка
+Название: %s — Концовка
 
 <PROFILE_GALLERY_ARTISTNAME>
 Нарисовано: %s
@@ -379,10 +382,10 @@ Ultimate Weapon Girl: Поппо
 Использование гипер-карты
 
 <PROFILE_GALLERY_VOICES_REVIVE>
-Подьём
+Подъём
 
 <PROFILE_GALLERY_VOICES_REVIVE_FAIL>
-Неудачный подьём
+Неудачный подъём
 
 <PROFILE_GALLERY_VOICES_ATTACK>
 Атака
@@ -421,7 +424,7 @@ Ultimate Weapon Girl: Поппо
 Победа в бою
 
 <PROFILE_GALLERY_VOICES_BATTLE_LOSE>
-Проигрыш в бою
+Поражение в бою
 
 <PROFILE_GALLERY_VOICES_BONUS>
 На панели Бонусов
@@ -460,10 +463,10 @@ Ultimate Weapon Girl: Поппо
 Чужая гипер-карта
 
 <PROFILE_GALLERY_VOICES_USE_HYPER_ALTERNATIVE>
-Альтернантивная гипер-карта
+Альтернативная гипер-карта
 
 <PROFILE_GALLERY_VOICES_SWITCH>
-Обмен местами
+Смена в Команде
 
 <PROFILE_GALLERY_VOICES_SPECIAL>
 Особая фраза
@@ -496,7 +499,7 @@ Ultimate Weapon Girl: Поппо
 Игр\nВыиграно
 
 <PROFILE_STATS_GAMES>
-Игры
+Игр
 
 <PROFILE_STATS_WINS>
 Победы
@@ -517,94 +520,94 @@ Ultimate Weapon Girl: Поппо
 модуль "{}"
 
 <PROFILE_TRACKER_INSTRUCTION_PURCHASE_ITEM>
-Купите {} в магазине.
+Купите {} в Магазине.
 
 <PROFILE_TRACKER_INSTRUCTION_DEFEAT_BOSS_REPEAT>
-Победите Босса "{0}" {1} раз(а) на сложности {2}.
+Победите Босса "{0}" {1} раз на сложности {2}.
 
 <PROFILE_TRACKER_INSTRUCTION_UNLOCK_CHARACTERS>
-Разблокируйте персонаж(ей): {}
+Разблокируйте персонажей: {}
 
 <PROFILE_TRACKER_INSTRUCTION_ONLINE_PLAY>
-Сыграйте {} игр(ы) по сети за эту сессию.
+Сыграйте игр по сети за эту сессию: {} .
 
 <PROFILE_TRACKER_INSTRUCTION_DEFEAT_BOSS>
-Победите Босс(ов) "{0}" на сложности {1}.
+Победите Боссов на сложности {1}: {0}.
 
 <PROFILE_TRACKER_INSTRUCTION_COMPLETE_EVENT>
-Завершите событие "{}".
+Завершите Событие "{}".
 
 <PROFILE_TRACKER_INSTRUCTION_PLAY_GAMEMODE_REPEAT>
-Сыграйте {0} игр(ы) в режиме "{1}".
+Сыграйте {0} игр в режиме "{1}".
 
 <PROFILE_TRACKER_DIFFICULTY_HIGHER>
 "{}" или выше
 
 <PROFILE_TRACKER_INSTRUCTION_CLEAR_CAMPAIGN>
-Пройдите "{0}" на сложности {1}.
+Пройдите эпизод "{0}" на сложности {1}.
 
 <PROFILE_TRACKER_PROGRESS_MULTIPLIER>
-(В {} раз(а) больше прогресса с игр с другими гроками)
+(прогресс в ×{0} быстрее, если играть по сети)
 
 <PROFILE_TRACKER_INSTRUCTION_STEAL_STARS_CARD>
-Украдите {0} звёзд картой "{1}" за {2} или найдите "{3}", купив {4}.
+Украдите {0} Звёзд картой "{1}" за персонажа {2} или найдите вещь "{3}", купив {4}.
 
 <PROFILE_TRACKER_MYSTERY_BAG>
 Пакет Загадок
 
 <PROFILE_TRACKER_INSTRUCTION_CHARACTER_KO_BOSSES>
-Нокаутируйте Боссов {0} раз(а) за персонажа {1}.
+Нокаутируйте Боссов {0} раз, играя за персонажа {1}.
 
 <PROFILE_TRACKER_RAD_POPPO>
 Крутая Поппо
 
 <PROFILE_TRACKER_INSTRUCTION_KO_CHARACTER_AS_CHARACTER>
-Нокаутируйте персонажа "{0}" за {1}.
+Нокаутируйте юнита "{0}", играя за персонажа {1}.
 
 <PROFILE_TRACKER_INSTRUCTION_KO_POPPOMASK>
-Нокаутируйте {0} юнитов с Маской Поппо за персонажа {1}.
+Нокаутируйте {0} юнитов с Маской Поппо, играя за персонажа {1}.
 
 <PROFILE_TRACKER_CYBORG_POPPO>
 Поппо-Киборг
 
 <PROFILE_TRACKER_INSTRUCTION_DEFEAT_BOSS_AS_CHARACTER>
-Победите Босс(ов) "{0}" на сложности {1} за персонажа {2}.
+Играя за персонажа {2}, победите Боссов на сложности {1}: {0} 
 
 <PROFILE_TRACKER_TUXEDO_POPPO>
 Поппо в Смокинге
 
 <PROFILE_TRACKER_INSTRUCTION_USE_CARD_AS_CHARACTER>
-Используйте "{0}" за персонажа {1}.
+Используйте карту "{0}", играя за персонажа {1}.
 
 <PROFILE_TRACKER_DEVOURER_POPPO>
 Пожирающая Поппо
 
 <PROFILE_TRACKER_INSTRUCTION_DEFEAT_BOUNTY_REPEAT_AS_CHARACTER>
-Сдайте {0} заданий в "Охотниках за Головами" за персонажа {1}.
+Сдайте {0} заданий в "Охотниках за Головами", играя за персонажа {1}.
 
 <PROFILE_TRACKER_IDOL_POPPO>
 Айдол Поппо
 
 <PROFILE_TRACKER_INSTRUCTION_DEFEAT_BOUNTY>
-В "Охотниках за Головами" одолеть: {}
+В "Охотниках за Головами" победите врагов: {}
 
 <PROFILE_TRACKER_INSTRUCTION_PLAY_FIELDEVENT>
-Сыграть {0} игр(ы) со следующими эффектами игрового поля: {1}
+Сыграйте {0} игр с эффектами игрового поля: {1}
 
 <PROFILE_TRACKER_INSTRUCTION_COLLECT_MUSHROOMS>
-Собрать {} карт(ы)-грибов.
+Соберите {} карт-грибов.
 
 <PROFILE_TRACKER_INSTRUCTION_PLAY_CARD>
-Использовать карту {0}.
+Используйте карту {0}.
 
 <PROFILE_TRACKER_ANY_SWEETS_CARD>
 типа "сладость"
 
 <PROFILE_TRACKER_PROGRESS_MULTIPLIER_CHOCOLATE>
-(прогресс в {0} раз(а) быстрее, если носить {1})
+(прогресс в ×{0} быстрее, если носить {1})
 
 <PROFILE_TRACKER_EXTRA_LABEL>
-Пройдите, чтобы разблокировать {}:
+Сделайте, чтобы разблокировать {}:
 
 <PROFILE_TRACKER_CHOCOLATE_COLOR>
 Шоколадную раскраску
@@ -615,11 +618,35 @@ Ultimate Weapon Girl: Поппо
 <PROFILE_TRACKER_MOUSSE_COSTUME>
 Мари Поппо (В костюме Мысс)
 
+<PROFILE_TRACKER_INSTRUCTION_TRAVERSE_PANEL_COUNT>
+Пройдите {} панелей.
+
+<PROFILE_TRACKER_INSTRUCTION_PLAY_ON_FIELDS_CONDITION>
+Сыграйте {0} игр на игровых полях с {1}.
+
+<PROFILE_TRACKER_INSTRUCTION_WATER_BACKGROUND>
+задним фоном водной тематики
+
 <PROFILE_TRACKER_NAVIGATION_GO>
 Вперёд!
 
 <PROFILE_TRACKER_NAVIGATION_GO_TO_SHOP>
 В Магазин
+
+<PROFILE_MESSAGE_AUTO_CLEAR>
+Событие "{}" теперь считается пройденным, поскольку у вас уже есть все награды.
+
+<PROFILE_TRACKER_INSTRUCTION_COMPLETE_QUESTS>
+Завершите {0} {1} в "Охотниках за Головами".
+
+<PROFILE_TRACKER_INSTRUCTION_BUY_ITEMS>
+Купите {0} вещей в {1} из режима "Охотники за Головами".
+
+<PROFILE_TRACKER_INSTRUCTION_DELIVERY_QUEST>
+Заданий на Доставку
+
+<PROFILE_TRACKER_INSTRUCTION_BAKERY_INN>
+Пекарне или Трактире
 
 [EOF]
 

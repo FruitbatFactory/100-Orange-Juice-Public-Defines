@@ -145,10 +145,10 @@ Total
 
 
 < PROFILE_NAMECHANGE_STARS_REQUIRED >
-Changer votre nom de profil coûte %d étoiles.
+Changer votre nom de profil coûte %d Étoiles.
 
 < PROFILE_NAMECHANGE_CONFIRM >
-Changer de nom ? Coût : %d étoiles
+Changer de nom ? Coût : %d Étoiles
 
 < PROFILE_NAMECHANGE_COST >
 Coût
@@ -192,6 +192,9 @@ Test Sonore
 <PROFILE_GALLERY_BGM>
 Bande-son
 
+<PROFILE_GALLERY_BGM_TITLE>
+Écran-titre
+
 <PROFILE_GALLERY_VOICES>
 Voix
 
@@ -199,10 +202,10 @@ Voix
 STOP
 
 <PROFILE_GALLERY_ORIGINALBOXARTNAME>
-Original Box Art
+Boîte du Jeu Originale
 
 <PROFILE_GALLERY_NEWBOXARTNAME>
-New Box Art
+Nouvelle Boîte du Jeu
 
 <PROFILE_GALLERY_REGULARENDINGNAME>
 Nom : %s
@@ -547,7 +550,7 @@ Complétez {0} en difficulté {1}.
 (progrès x{} en Multijoueur)
 
 <PROFILE_TRACKER_INSTRUCTION_STEAL_STARS_CARD>
-Volez {0} étoiles avec {1} en tant que {2}, ou obtenez {3} dans un {4}.
+Volez {0} Étoiles avec {1} en tant que {2}, ou obtenez {3} dans un {4}.
 
 <PROFILE_TRACKER_MYSTERY_BAG>
 Paquet-Mystère
@@ -615,10 +618,34 @@ Gagnez une partie en tant que {}.
 <PROFILE_TRACKER_MOUSSE_COSTUME>
 Marie Poppo (costume Maousse)
 
+<PROFILE_TRACKER_INSTRUCTION_TRAVERSE_PANEL_COUNT>
+Traversez {} cases.
+
+<PROFILE_TRACKER_INSTRUCTION_PLAY_ON_FIELDS_CONDITION>
+Jouez à {0} partie(s) sur un plateau avec {1}.
+
+<PROFILE_TRACKER_INSTRUCTION_WATER_BACKGROUND>
+un arrière-plan aquatique
+
 <PROFILE_TRACKER_NAVIGATION_GO>
 Go !
 
 <PROFILE_TRACKER_NAVIGATION_GO_TO_SHOP>
 Ouvrir la Boutique
+
+<PROFILE_MESSAGE_AUTO_CLEAR>
+Progression sur {} automatiquement complétée.
+
+<PROFILE_TRACKER_INSTRUCTION_COMPLETE_QUESTS>
+Effectuez {0} {1} en mode Chasseurs de Prime.
+
+<PROFILE_TRACKER_INSTRUCTION_BUY_ITEMS>
+Achetez {0} objets à {1} en mode Chasseurs de Prime.
+
+<PROFILE_TRACKER_INSTRUCTION_DELIVERY_QUEST>
+Livraison(s)
+
+<PROFILE_TRACKER_INSTRUCTION_BAKERY_INN>
+la Boulangerie ou l'Auberge
 
 [EOF]

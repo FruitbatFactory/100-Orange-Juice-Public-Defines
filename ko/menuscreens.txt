@@ -13,11 +13,50 @@
 < MAINMENU_LOADGAME >
 계속
 
+< CREATE_PROFILE_IN_SLOT >
+프로필 생성: 슬롯
+
+< CREATE_PROFILE_NAME >
+이름
+
+< CREATE_PROFILE_CONFIRM >
+확인
+
+< CREATE_PROFILE_CANCEL >
+취소
+
+< CREATE_PROFILE_DELETE_SLOT >
+프로필 삭제: 슬롯
+
+< CREATE_PROFILE_WARNING >
+이 행동은 되돌릴 수 없습니다!
+
+< CREATE_PROFILE_PROFILE >
+프로필
+
+< CREATE_PROFILE_SELECT_UNIT >
+유닛 선택
+
+< SELECT_PROFILE_STARS >
+스타
+
+< SELECT_PROFILE_EMPTY_SLOT >
+빈 슬롯
+
+< SELECT_PROFILE_CARDS >
+카드
+
+< MAINMENU_LOADGAME_SELECT >
+게임 불러오기
+
 < MAINMENU_CONFIGURATION >
 환경설정
 
 < MAINMENU_EXIT >
 나가기
+
+< LATEST_GAME_NEWS >
+최근 게임 소식
 
 
 < MENU_BUTTON_OK >
@@ -739,13 +778,13 @@ KO 시 팀 소지 스타의 1/8을 잃습니다. 유닛은 아무 플레이어�
 모든 플레이어가 낚시 단계가 끝날 때 생선 점수로 등수가 매겨집니다. 등수에 따라 승리 수를 얻습니다.
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_08 >
-불판을 눈여겨보세요! 불판에서는 항상 특정한 물고기 3마리를 요구하며, 3마리 모두를 낚으면 15점을 얻습니다!
+불판을 눈여겨보세요! 불판에서는 항상 특정한 물고기 3마리를 요구하며, 3마리 모두를 낚으면 50점을 얻습니다!
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_09 >
 불판에서 요구하는 물고기는 각자 다르니 시간내로 상대보다 더 많은 세트를 완성하세요.
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_10 >
-그리고, 같은 물고기를 여러 번 연속으로 낚으면 콤보 점수를 추가로 얻습니다.
+그리고, 같은 물고기를 여러 번 연속으로 낚으면 획득 점수에 콤보 배율이 가산됩니다.
 
 < PLAYMENU_EVENT_SUMMER2020_INSTRUCTION_11 >
 각 게임에서 낚시 점수의 총합이 이벤트 진행도에 가산됩니다. 어디 한 번 진수성찬을 차려봅시다!
@@ -1391,6 +1430,9 @@ CPU 편집
 < MENU_CODEXSTORY_TITLE_GREATPILOT >
 위대한 비행사
 
+< MENU_CODEXSTORY_TITLE_FAMILYHOLIDAY >
+가족 휴가
+
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES >
 {1}(으)로 게임 {0}판 플레이.
 
@@ -1399,6 +1441,9 @@ CPU 편집
 
 < MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE >
 {1} 모드 게임 {0}판 플레이.
+
+< MENU_CODEXSTORY_UNLOCKCOND_GAMES_MODE_UNIT >
+{2}(으)로 {1} 모드 게임 {0}판 플레이.
 
 < MENU_CODEXSTORY_UNLOCKCOND_EVENT >
 "{0}" 이벤트 클리어.

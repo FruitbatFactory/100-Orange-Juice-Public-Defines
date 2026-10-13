@@ -733,11 +733,35 @@ Gana una partida como {}.
 <PROFILE_TRACKER_MOUSSE_COSTUME>
 Marie Poppo (atuendo Mousse)
 
+<PROFILE_TRACKER_INSTRUCTION_TRAVERSE_PANEL_COUNT>
+Atraviesa {} paneles.
+
+<PROFILE_TRACKER_INSTRUCTION_PLAY_ON_FIELDS_CONDITION>
+Juega {0} partida(s) en campos de juego con {1}.
+
+<PROFILE_TRACKER_INSTRUCTION_WATER_BACKGROUND>
+un fondo aquático
+
 <PROFILE_TRACKER_NAVIGATION_GO>
 ¡Vamos!
 
 <PROFILE_TRACKER_NAVIGATION_GO_TO_SHOP>
 Ir a la Tienda
+
+<PROFILE_MESSAGE_AUTO_CLEAR>
+El progreso de {} ha sido completado de forma retroactiva.
+
+<PROFILE_TRACKER_INSTRUCTION_COMPLETE_QUESTS>
+Completa {0} {1} en el modo Caza-recompensas.
+
+<PROFILE_TRACKER_INSTRUCTION_BUY_ITEMS>
+Compra {0} objetos de {1} en el modo Caza-recompensas.
+
+<PROFILE_TRACKER_INSTRUCTION_DELIVERY_QUEST>
+Misiones de Entrega(s)
+
+<PROFILE_TRACKER_INSTRUCTION_BAKERY_INN>
+la Pastelería o la Posada
 
 [EOF]
 

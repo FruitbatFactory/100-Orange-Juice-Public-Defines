@@ -48,7 +48,7 @@ EVENTO: Cartas desse tipo afetam todos os jogadores ou o campo quando jogadas.
 BOOST: Cartas desse tipo afetam o usuário, ou o jogador alvo quando jogadas.
 
 < CARD_TERM_GIFT >
-GIFT: Cartas desse tipo afetam o jogador que está com elas na mão.
+GIFT: Cartas desse tipo afetam o jogador que está com elas na mão. Nenhum efeito ao serem jogadas, ao menos que especificado o contrário na carta.
 
 < CARD_TERM_CONTRACT >
 CONTRATO: Cartas de Contrato são mantidas em um espaço separado da mão em Caça ao Tesouro. Elas podem ser missões de entrega, missões para caçar um monstro de Caça em particular, ou um jogador. Completar contratos garante a quantidade de Fama marcada no contrato.

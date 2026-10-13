@@ -6,7 +6,7 @@ ou plus\npour vous relever !
 Jetez\n%d dés !
 
 < GAME_SYSTEM_WINNERSCREEN_STARS >
-Étoiles
+Etoiles
 
 < GAME_SYSTEM_WINNERSCREEN_WINS >
 Victoires
@@ -49,16 +49,16 @@ Aucun bonus débloqué.
 
 // %% is normal here.
 < GAME_SYSTEM_SHOP_BONUS_2 >
--%d %% d'étoiles sur tous les objets en magasin.
+-%d %% d'Étoiles sur tous les objets en magasin.
 
 < GAME_SYSTEM_SHOP_BONUS_3 >
-+%d étoiles en vendant une carte.
++%d Étoiles en vendant une carte.
 
 < GAME_SYSTEM_SHOP_BONUS_4 >
 Les articles ont une chance d'être en +1 exemplaire.
 
 < GAME_SYSTEM_SHOP_BONUS_5 >
-Livrer des objets vous donne +%d étoiles une fois la quête achevée.
+Livrer des objets vous donne +%d Étoiles une fois la quête achevée.
 
 < GAME_SYSTEM_SHOP_BONUS_6 >
 Les articles ont une chance d'être en +2 exemplaires.
@@ -115,7 +115,7 @@ Dès que vous finissez votre déplacement sans vous interrompre, vous bénéfici
 Récolte Fructueuse
 
 < GAME_SYSTEM_NORMABOARD_UPGRADE_9_DESC >
-+100 étoiles. Vous gagnez des étoiles en récompense de Primes.
++100 Étoiles. Vous gagnez des Étoiles en récompense de Primes.
 
 < GAME_SYSTEM_NORMABOARD_UPGRADE_10_NAME >
 Attention\nMouette Méchante

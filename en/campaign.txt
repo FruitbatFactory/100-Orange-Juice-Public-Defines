@@ -259,6 +259,11 @@ Extra mission now available! We recommend finishing the Girl Power and Old Guard
 < CAMPAIGN_WINTER2023_MESSAGE >
 Extra mission now available: "%s"!
 
+< CAMPAIGN_FIRST_CLEAR_MESSAGE >
+Congratulations! You can unlock the campaigns of {} by buying their unit card in either the Shop screen or by clicking on their campaign here.
+
+< CAMPAIGN_BUY_UNIT_CONFIRM >
+Buy {0}'s unit card for {1} stars and unlock this campaign?
 
 [EOF]
 

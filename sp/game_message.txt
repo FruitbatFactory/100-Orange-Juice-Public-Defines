@@ -98,6 +98,9 @@ Escoja el panel al que quiere moverse.
 < GAME_MESSAGE_EVENT_NEXTCHAPTER >
 ¡{} en el próximo capítulo!
 
+< GAME_MESSAGE_EVENT_CHAPTEREND >
+¡{} en el fin de este capítulo!
+
 < GAME_MESSAGE_HOMESTOP >
 ¿Quiere detenerse aquí?
 
@@ -160,6 +163,9 @@ Cambiar pieza.
 
 < GAME_MESSAGE_MONSTERCHALLENGE >
 ¿Quieres desafiar a este monstruo?
+
+< GAME_MESSAGE_SUMMER2020_SPEEDUP_WARNING >
+La velocidad aumentará en {}...
 
 < GAME_MESSAGE_SUMMER2020_SPEEDUP >
 ¡Más rápido!

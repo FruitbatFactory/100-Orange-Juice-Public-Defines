@@ -53,5 +53,11 @@ Next
 < RESULT_SPEEDADJUST >
 加速惩罚
 
+< RESULT_MESSAGE_CHARACTER_DISCOVER >
+{0}的解锁条件已开启！进行{1}场游戏后即可在商店中购买。
+
+< RESULT_MESSAGE_CHARACTER_UNLOCK >
+新角色已解锁！你现在可以在商店中花费{1}星星购买{0}了。
+
 [EOF]
 

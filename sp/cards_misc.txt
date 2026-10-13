@@ -48,7 +48,7 @@ EVENTO: Las cartas de este tipo afectarán a todos los jugadores o al campo de j
 IMPULSO: Las cartas de este tipo afectan a la persona que vaya a usarlas, o al jugador escogido en el momento de usarlas.
 
 < CARD_TERM_GIFT >
-REGALO: Las cartas de este tipo afectan a quien lleva estas cartas en sus manos.
+REGALO: Las cartas de este tipo afectan a quien la lleve en sus manos. No tienen efecto al ser usadas, a menos que se diga lo contrario en la carta.
 
 < CARD_TERM_CONTRACT >
 CONTRATO: Las cartas de Contrato son llevadas en una mano aparte dentro del modo Caza-recompensas. Pueden ser entregadas como misiones de objetivos, de caza de monstruos o de jugadores. Completar contratos te otorgará el monto de Fama que aparece en el contrato.

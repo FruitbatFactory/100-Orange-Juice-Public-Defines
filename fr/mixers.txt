@@ -56,11 +56,11 @@ descr=Le Boss commence avec 10 PV en plus.
 
 < MIXER_STAR_CHASER >
 name=Chasse aux Étoiles
-descr=Les cases Bonus donnent deux fois plus d'étoiles.
+descr=Les cases Bonus donnent deux fois plus d'Étoiles.
 
 < MIXER_BEGGAR >
 name=Mendiant
-descr=Les cases Malus font perdre deux fois plus d'étoiles.
+descr=Les cases Malus font perdre deux fois plus d'Étoiles.
 
 < MIXER_AGGRESSIVE_HEROES >
 name=Héros Aggressifs
@@ -100,7 +100,7 @@ descr=Toutes les cartes peuvent être jouées gratuitement.
 
 < MIXER_BANKRUPT >
 name=Faillite
-descr=Le prix des cartes augmente de 10 étoiles.
+descr=Le prix des cartes augmente de 10 Étoiles.
 
 < MIXER_GOO >
 name=Boue

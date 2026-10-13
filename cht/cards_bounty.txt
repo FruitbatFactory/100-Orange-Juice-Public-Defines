@@ -10,17 +10,17 @@ flavor=
 
 < CARD_BOUNTY_MOUSSE_HUNT >
 name=嘮鼠
-descr=嘮鼠每次造成傷害都能偷取等級數的STAR。
+descr=嘮鼠每次造成傷害都能偷取你等級數的STAR。
 flavor=
 
 < CARD_BOUNTY_STRANGEMOUSSE_HUNT >
 name=青檸嘮鼠
-descr=青檸嘮鼠每次造成傷害都能偷取等級數的STAR。
+descr=青檸嘮鼠每次造成傷害都能偷取你等級數的STAR。
 flavor=
 
 < CARD_BOUNTY_POWERMOUSSE_HUNT >
 name=草莓嘮鼠
-descr=草莓嘮鼠每次造成傷害都能偷取等級數的STAR。
+descr=草莓嘮鼠每次造成傷害都能偷取你等級數的STAR。
 flavor=
 
 < CARD_BOUNTY_DOLL_HUNT >
@@ -174,12 +174,12 @@ flavor=「如果你既想往前走又想往後走，可你又不能像往前走�
 
 < CARD_BOUNTY_SMOKELOSTMEMORIES_ITEM >
 name=失落記憶的煙霧
-descr=忘卻過去犯下的錯誤，觸發一場懸賞戰。\n只能在已經發現了怪物的格子上使用。\n需要擁有懸賞才能開始戰鬥。\n使用這張卡後回合結束。
+descr=忘卻過去犯下的錯誤，觸發一場懸賞戰。\n只能在已經發現了魔物的格子上使用。\n需要擁有懸賞才能開始戰鬥。\n使用這張卡後回合結束。
 flavor=「別讓它跑了！」—鍊金術士
 
 < CARD_BOUNTY_RADAR_ITEM >
 name=冒險者用探測器
-descr=持續效果（2至5輪）\n效果持續期間可以獲悉所有怪物的所在地點。
+descr=持續效果（2至5輪）\n效果持續期間可以獲悉所有魔物的所在地點。
 flavor=「它會是你旅途中的好幫手……只要它能運作足夠久的話！」\n—鐵匠
 
 < CARD_HYPER_BOUNTY_ELLIE >
@@ -204,7 +204,7 @@ flavor=「嘰嘰，庫克想去這邊。」—庫克
 
 < CARD_BOUNTY_PROTECTIONFEE >
 name=保護費
-descr=當你停留在其他玩家的HOME格時，需向對方繳納自己等級×2的STAR。未通過目標檢測時，受到1點傷害。
+descr=當你停留在其他玩家的HOME格時，須向對方繳納自己等級×2的STAR。未通過目標檢測時，受到1點傷害。
 flavor=「這根本就是敲詐啊……」—露露
 
 < CARD_HYPER_BOUNTY_MIMOMO >

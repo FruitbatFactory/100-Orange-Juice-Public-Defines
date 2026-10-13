@@ -12,7 +12,7 @@
 Вылечить союзника на 1 ОЗ?
 
 < GAME_MESSAGE_REVIVETEAMMATE >
-Поднять союзника? (%d звёзд)
+Поднять союзника? (%d Звёзд)
 
 < GAME_MESSAGE_CHOOSECARDUSE >
 Выберите карту для использования.
@@ -78,7 +78,7 @@
 Эффект карты запасён.
 
 < GAME_MESSAGE_STOCKEFFECT >
-Запасённый эффект актвирован.
+Запасённый эффект активирован.
 
 < GAME_MESSAGE_FIELDEFFECT >
 Сработал эффект игрового поля.
@@ -109,6 +109,9 @@
 < GAME_MESSAGE_EVENT_NEXTCHAPTER >
 В след. главе будет {}!
 
+< GAME_MESSAGE_EVENT_CHAPTEREND >
+{} сработает в конце главы!
+
 < GAME_MESSAGE_VALENTINE2018_CHOCOLATEFRENZY >
 Шоколадное Безумие!
 
@@ -116,7 +119,7 @@
 Шоколад сохранён!
 
 < GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_FAIL >
-Недостатчно шоколада, чтобы его сохранить...
+Недостаточно шоколада, чтобы его сохранить...
 
 < GAME_MESSAGE_HLWN2018_CHOOSECANDY >
 Выберите конфету.
@@ -159,6 +162,9 @@
 
 < GAME_MESSAGE_MONSTERCHALLENGE >
 Сразиться с монстром?
+
+< GAME_MESSAGE_SUMMER2020_SPEEDUP_WARNING >
+Игра ускорится через {}...
 
 < GAME_MESSAGE_SUMMER2020_SPEEDUP >
 Ускорение!

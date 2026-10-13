@@ -197,6 +197,9 @@ Ultimate Weapon Girl
 < SHOP_DLC_MIMOMOKURIE >
 克莉艾＆美萌萌
 
+< SHOP_DLC_RINSEREPEAT >
+姬世＆水晶
+
 < SHOP_TOOLTIP_HOME >
 按類別圖標查看商店。
 
@@ -213,13 +216,13 @@ Ultimate Weapon Girl
 解鎖新的場地。
 
 < SHOP_TOOLTIP_HALLOWEEN >
-解鎖萬聖節活動的裝扮。
+解鎖萬聖節活動的飾品。
 
 < SHOP_TOOLTIP_CHRISTMAS >
-解鎖聖誕節活動的裝扮。
+解鎖聖誕節活動的飾品。
 
 < SHOP_TOOLTIP_PIGFORMATION >
-解鎖「小心豬豬化」活動的裝扮。
+解鎖「小心豬豬化」活動的飾品。
 
 < SHOP_TOOLTIP_COWKIGU >
 解鎖牛布偶裝。
@@ -252,7 +255,7 @@ Ultimate Weapon Girl
 查看商店裡的所有物品。
 
 < SHOP_CRATE_CONTENTS >
-~所含之物~
+~所含物品~
 
 < SHOP_CRATE_LOOT_NONE >
 無：
@@ -261,7 +264,7 @@ Ultimate Weapon Girl
 星星：
 
 < SHOP_CRATE_LOOT_HALLOWEEN >
-萬聖節裝飾：
+萬聖節飾品：
 
 < SHOP_CRATE_LOOT_CHRISTMAS >
 聖誕節裝扮：

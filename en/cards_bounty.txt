@@ -10,17 +10,17 @@ flavor=
 
 < CARD_BOUNTY_MOUSSE_HUNT >
 name=Mousse
-descr=Mousse will take your Lvl x stars every time it damages you.
+descr=Mousse will take (your Lvl) Stars every time it damages you.
 flavor=
 
 < CARD_BOUNTY_STRANGEMOUSSE_HUNT >
 name=Key Lime Mousse
-descr=Key Lime Mousse will take your Lvl x stars every time it damages you.
+descr=Key Lime Mousse will take (your Lvl) Stars every time it damages you.
 flavor=
 
 < CARD_BOUNTY_POWERMOUSSE_HUNT >
 name=Strawberry Mousse
-descr=Strawberry Mousse will take your Lvl x stars every time it damages you.
+descr=Strawberry Mousse will take (your Lvl) Stars every time it damages you.
 flavor=
 
 < CARD_BOUNTY_DOLL_HUNT >
@@ -194,7 +194,7 @@ flavor="Wait! Give me back the presents!" ―Aru
 
 < CARD_BOUNTY_TRAP_WANTED >
 name=Wanted
-descr=Stock Effect\nGive double wins on KO from battle. Effect expires on KO.\nA bounty for the target player is also placed on the Bounty Board, and they receive the Assassin's Badge.
+descr=Stock Effect\nGive double Wins on KO from battle. Effect expires on KO.\nA bounty for the target player is also placed on the Bounty Board, and they receive the Assassin's Badge.
 flavor="Over here! My nose is never wrong!" ―QP
 
 < CARD_HYPER_BOUNTY_COOK >
@@ -204,7 +204,7 @@ flavor="*Cheep cheep*! Cook wants to go this way." ―Cook
 
 < CARD_BOUNTY_PROTECTIONFEE >
 name=Protection Fee
-descr=When you stop on another player's Home panel, pay (your Lvl) x2 stars to them. If you fail the Norma check, take 1 damage.
+descr=When you stop on another player's Home panel, pay (your Lvl) x2 Stars to them. If you fail the Norma check, take 1 damage.
 flavor="This is such a rip-off..." ―Lulu
 
 < CARD_HYPER_BOUNTY_MIMOMO >

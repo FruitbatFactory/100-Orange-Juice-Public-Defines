@@ -32,7 +32,7 @@ descr=A Trap Card will be set on a randomly determined panel.
 
 < MIXER_MIRACLE >
 name=Miracle
-descr=Roll two dice for bonus, drop, move, and warp-move. Gain two wins for battles. Draw two cards. Heal 2HP.
+descr=Roll two dice for bonus, drop, move, and warp-move. Gain two Wins for battles. Draw two cards. Heal 2HP.
 
 < MIXER_RANDOM_WARP >
 name=Random Warp
@@ -56,11 +56,11 @@ descr=Boss has an additional 10 HP.
 
 < MIXER_STAR_CHASER >
 name=Star-chaser
-descr=Gain double stars on Bonus panels.
+descr=Gain double Stars on Bonus panels.
 
 < MIXER_BEGGAR >
 name=Beggar
-descr=Drop double stars on Drop panels.
+descr=Drop double Stars on Drop panels.
 
 < MIXER_AGGRESSIVE_HEROES >
 name=Aggressive Heroes
@@ -100,7 +100,7 @@ descr=All cards can be played for no cost.
 
 < MIXER_BANKRUPT >
 name=Bankrupt
-descr=Card costs are increased by 10 stars.
+descr=Card costs are increased by 10 Stars.
 
 < MIXER_GOO >
 name=Goo

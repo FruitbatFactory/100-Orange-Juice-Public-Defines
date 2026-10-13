@@ -53,5 +53,11 @@ Próximo
 < RESULT_SPEEDADJUST >
 Ajuste de Velocidade
 
+< RESULT_MESSAGE_CHARACTER_DISCOVER >
+O caminho para destravar {0} foi aberto! Ele(a) estará disponível na loja após jogar {1} partidas.
+
+< RESULT_MESSAGE_CHARACTER_UNLOCK >
+Uma nova personagem foi destravada! Você pode comprar {0} na Loja por {1} estrelas.
+
 [EOF]
 

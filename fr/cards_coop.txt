@@ -15,7 +15,7 @@ flavor="Qui ne tente rien n'a rien !" ―Yuki
 
 < CARD_EVENT_COOP_UNPAIDWORK >
 name=Travail Bénévole
-descr=Durée de l'Effet : 1 chapitre\nLes joueurs ne peuvent pas perdre d'étoiles.
+descr=Durée de l'Effet : 1 chapitre\nLes joueurs ne peuvent pas perdre d'Étoiles.
 flavor="Je ne suis pas payée ?!" ―Chris
 
 < CARD_EVENT_COOP_INDISCRIMINATEFIRESUPPORT >
@@ -35,7 +35,7 @@ flavor="Venez ! J'ai des croquettes pour vous !" ―Syura
 
 < CARD_BOOST_COOP_FREIGHT >
 name=Cargaison
-descr=Lorsque vous arrivez à votre Maison, vous gagnez 5 étoiles et défaussez cette carte.\nJouer cette carte la défausse.
+descr=Lorsque vous arrivez à votre Maison, vous gagnez 5 Étoiles et défaussez cette carte. Aucun effet en étant jouée.
 flavor="Vous pouvez garder cette cargaison. Oui, vous pouvez." ―Marchand
 
 < CARD_EVENT_COOP_FORCEDREVIVAL >
@@ -50,17 +50,17 @@ flavor="Tôt ou tard, la Guilde te trahira, comme elle nous a tous trahis par le
 
 < CARD_GIFT_COOP_POPPOTHESNATCHER >
 name=Poppo la Chipeuse
-descr=-1 DEF. Lorsque vous croisez un ennemi pendant votre déplacement, vous lui volez (votre Niv.) x3 ★.\nVous ne pouvez pas valider votre Quota avec cette carte en main.\nDéfaussée à l'usage ou en tombant KO.
+descr=-1 DEF. Lorsque vous croisez un ennemi pendant votre déplacement, vous lui volez (votre Niv.) x3 ★.\nVous ne pouvez pas valider votre Quota avec cette carte en main.\nCette carte est défaussée en tombant KO.
 flavor="Pokyakya !!" ―Poppo
 
 < CARD_TRAP_COOP_BANKOFPOPPO >
 name=Banque Poppo
-descr=Le Boss perd le Chapitre actuel x2 ★. Le prochain joueur à activer le piège récupère toutes les étoiles perdues, et le piège disparaît.
+descr=Le Boss perd le Chapitre actuel x2 ★. Le prochain joueur à activer le piège récupère toutes les Étoiles perdues, et le piège disparaît.
 flavor="Mon argent...!" ―Kai
 
 < CARD_BOOST_COOP_MYWILDFRIENDS >
 name=Mes Amis de la Nature
-descr=Invoque une version amicale d'un ennemi du plateau, qui se déplace tout seul et défie les ennemis en chemin. Il gagne 2 PV bonus.\nLorsqu'il gagne un combat, vous remportez la moitié des étoiles obtenues.\nSi vous avez déjà un familier, il est remplacé par un nouveau.
+descr=Invoque une version amicale d'un ennemi du plateau, qui se déplace tout seul et défie les ennemis en chemin. Il gagne 2 PV bonus.\nLorsqu'il gagne un combat, vous remportez la moitié des Étoiles obtenues.\nSi vous avez déjà un familier, il est remplacé par un nouveau.
 flavor="Rien de tel que de se reposer avec ses amis." ―Teotoratta
 
 < CARD_BATTLE_COOP_CONTESTOFCUTENESS >
@@ -85,7 +85,7 @@ flavor="Je vais guérir le monde de la maladie qui le gangrène..." ―Kiriko
 
 < CARD_HYPER_COOP_ALTE >
 name=Autodestruction
-descr=Inflige votre nombre de PV max à l'ennemi si vous tombez KO, auquel cas vous ne donnez rien à l'ennemi. Si cet effet le fait tomber KO, il perd la moitié de ses étoiles.
+descr=Inflige votre nombre de PV max à l'ennemi si vous tombez KO, auquel cas vous ne donnez rien à l'ennemi. Si cet effet le fait tomber KO, il perd la moitié de ses Étoiles.
 flavor="Je suis désolée... Je ne reviendrai jamais..." ―Alte
 
 < CARD_HYPER_COOP_ARU >
@@ -100,7 +100,7 @@ flavor="C'est parti pour une nouvelle journée." ―Arthur
 
 < CARD_HYPER_COOP_ARUSCRAMBLE >
 name=Servi par la Mère Noël
-descr=Cette carte est défaussée à l'usage ou en tombant KO.\nEn début de tour, vous pouvez envoyer une carte de votre main (Niv. carte <= votre Niv.) à un joueur au hasard. Vous gagnez (Niv. carte) x5 ★.
+descr=En début de tour, vous pouvez envoyer une carte de votre main (Niv. carte <= votre Niv.) à un joueur au hasard. Vous gagnez (Niv. carte) x5 ★.\nCette carte est défaussée en tombant KO.
 flavor="Enfants du monde entier, on arrive !" ―Aru
 
 < CARD_HYPER_COOP_CHICKEN >
@@ -110,18 +110,13 @@ flavor="Cot cot codek !" ―Poule
 
 < CARD_HYPER_COOP_FERNET >
 name=Attaque Aérienne
-descr=Inflige entre 1 et 2 points de dégât à tous les ennemis. +15 étoiles pour chaque KO.
+descr=Inflige entre 1 et 2 points de dégât à tous les ennemis. +15 Étoiles pour chaque KO.
 flavor="Mourez, mourez tous." ―Fernet
 
 < CARD_HYPER_COOP_HIME >
 name=Chaînes de Stase
 descr=(Effet Passif)\nTous les ennemis passent leur prochain tour. Applique l'effet "Stase" à tous les ennemis actifs\n(-2 EVD, -1 MOV).\nDurée de l'Effet : 2 chapitres
 flavor="Je n'y prends nul plaisir." ―Hime
-
-< CARD_HYPER_COOP_IRU >
-name=Tir Photon en Rafales
-descr=★Coût : Niv. x5\nInflige 1 point de dégât à un ennemi aléatoire. Recommence une fois par Quota validé. Vous gagnez 1 Victoire par KO.
-flavor="Vous allez tomber comme des mouches !" ―Iru
 
 < CARD_HYPER_COOP_KAE >
 name=Flamboyance
@@ -135,13 +130,8 @@ flavor="Le privilège du personnage principal !" ―Kai
 
 < CARD_HYPER_COOP_KIRIKO >
 name=Opération Fatale
-descr=Tous les personnages à 1 PV tombent KO. Pour chaque KO, vous gagnez 25 étoiles et enlevez une unité de Médicament Malsain. Les joueurs affectés ont -2 REC jusqu'à s'être relevés.
+descr=Tous les personnages à 1 PV tombent KO. Pour chaque KO, vous gagnez 25 Étoiles et enlevez une unité de Médicament Malsain. Les joueurs affectés ont -2 REC jusqu'à s'être relevés.
 flavor="Ne bouge pas d'un pouce,\nje vais te guérir !" ―Kiriko
-
-< CARD_HYPER_COOP_KRILAEVENT >
-name=Reine des Poupées
-descr=Pose le piège "Dansez, Bêtes à Longues Oreilles !" sur 3 à 5 cases au hasard.
-flavor="Dansez, bêtes à longues oreilles !" ―Krilalaris
 
 < CARD_HYPER_COOP_KRILATRAP >
 name=Dansez, Bêtes à Longues Oreilles !
@@ -165,17 +155,17 @@ flavor="Gyaoooh !" ―Marnie
 
 < CARD_HYPER_COOP_MEI >
 name=Infernoël Blanc
-descr=Défaussez votre main. Inflige 2 dégâts à tous les ennemis sur un rayon d'une case.\nChaque ennemi KO vous donne 1 Victoire et votre Niv x5 ★.\nCette Carte devient "Super Infernoël Blanc" si vous avez "Rougeon & Bleuet" en main.
+descr=Défaussez votre main. Inflige 2 dégâts à tous les ennemis sur un rayon d'une case.\nChaque ennemi KO vous donne 1 Victoire et (votre Niv.) x5 ★.\nCette Carte devient "Super Infernoël Blanc" si vous avez "Rougeon & Bleuet" en main.
 flavor="Infernoël Blanc !" ―Mei
 
 < CARD_HYPER_COOP_MEITRUE >
 name=Super Infernoël Blanc
-descr=Inflige 4 dégâts à tous les ennemis sur un rayon de 2 cases.\nChaque ennemi KO vous donne 2 Victoires et votre Niv x10 ★.\nCette Carte devient "Infernoël Blanc" si vous n'avez pas "Rougeon & Bleuet" en main.
+descr=Inflige 4 dégâts à tous les ennemis sur un rayon de 2 cases.\nChaque ennemi KO vous donne 2 Victoires et (votre Niv.) x10 ★.\nCette Carte devient "Infernoël Blanc" si vous n'avez pas "Rougeon & Bleuet" en main.
 flavor="Infernoël Blanc !" ―Mei, Rougeon & Bleuet
 
 < CARD_HYPER_COOP_NATH >
 name=Une Autre Arme Ultime
-descr=★Coût : ATK gagnée x10\nVous gagnez +1 ATK & DEF par 10 étoiles dépensées (max. +9 ATK).
+descr=★Coût : ATK gagnée x10\nVous gagnez +1 ATK & DEF, et encore +1 ATK & DEF par 10 Étoiles dépensées (max. +9 ATK).
 flavor="Depuis que tu as déserté, c'est moi, leur arme ultime." ―Nath
 
 < CARD_HYPER_COOP_NONAME >
@@ -195,7 +185,7 @@ flavor="Mon précieux... pudding..." ―QP
 
 < CARD_HYPER_COOP_SAKI >
 name=Cloche du Big Bang
-descr=Inflige 2 points de dégât, +1 pour tous les 2 chapitres depuis le placement du piège, à tous les ennemis sur un rayon de 2 cases. Les ennemis KO donnent la moitié de leurs étoiles à l'utilisateur.
+descr=Inflige 2 points de dégât, +1 pour tous les 2 chapitres depuis le placement du piège, à tous les ennemis sur un rayon de 2 cases. Les ennemis KO donnent la moitié de leurs Étoiles à l'utilisateur.
 flavor="Mauuuuuryaaaaaaahh !" ―Saki
 
 < CARD_HYPER_COOP_SHAM >
@@ -207,11 +197,6 @@ flavor="Si tu ne veux pas y aller, je t'y emmènerai de force !" ―Sham
 name=Envol Harmonieux
 descr=Vous affrontez le Boss, qui attaque en premier. +1 EVD lors de ce combat.
 flavor="On ne demande qu'à voler librement." ―Cherry
-
-< CARD_HYPER_COOP_STARBREAKER >
-name=Mèche Étincelante
-descr=Place "Bombe Invisible" sur 3 à 5 cases au hasard.
-flavor="Car je suis Star Breaker, la mèche étincelante de la fin du monde." ―Star Breaker
 
 < CARD_HYPER_COOP_STARBREAKER2 >
 name=Bombe Invisible
@@ -238,11 +223,6 @@ name=Magical Massacre
 descr=Inflige 3 points de dégât à tous les ennemis pour chaque joueur KO.
 flavor="Disparais." ―Tomomo
 
-< CARD_HYPER_COOP_TOMOMOSWEETEATER >
-name=Magical "Vengeance !!"
-descr=Pour chaque PV manquant, vous infligez 1 dégât à un ennemi au hasard. Vous gagnez 1 Victoire par KO.\nSi vous n'êtes pas Tomomo (Sweet Eater), cette carte devient Glace Miracle aux Haricots Rouges.
-flavor="C'est l'heure de la vengeance !" ―Tomomo
-
 < CARD_HYPER_COOP_TSIH >
 name=Mode Invisible
 descr=Durée de l'Effet : 3 chapitres\nNe peut être défié par un ennemi.\nVous ignorez les cases Ennemi.\nEn cas de combat, gagnez +2 ATK. L'effet prend fin aussitôt après.
@@ -252,16 +232,6 @@ flavor="Je disparais, nanora !" ―Tsih
 name=Roulette !
 descr=Inflige votre nombre de PV maximum, soit à vous, soit au Boss.
 flavor="Alors, à qui le tour ?" ―Yuki
-
-< CARD_HYPER_COOP_YUKIDANGEROUS >
-name=Cerveau du Crime
-descr=Piochez 3 cartes Piège, puis posez tous les pièges dans votre main sur des cases au hasard.
-flavor="Je contrôle TOUT !" ―Yuki
-
-< CARD_HYPER_COOP_ARTHUR >
-name=Succursales
-descr=★Coût : Nombre de cartes en main x5\nToutes vos cartes deviennent "Magasin de Jouets Alpin" (cette carte incluse).\nVous pouvez jouer une carte de plus ce tour-ci.
-flavor="Hffuu..." ―Arthur
 
 < CARD_HYPER_COOP_MIMYUU >
 name=Plan d'Infiltration ― Exécution
@@ -275,12 +245,12 @@ flavor="À table !" ―Natsumi
 
 < CARD_HYPER_COOP_YUUKI_DEVIL >
 name=Main du Démon
-descr=Enlève jusqu'à 5 PV à un ennemi au hasard, avec pour limite 1 PV restant. Vous gagnez 10 étoiles par PV enlevé.\nCette carte devient Main de l'Ange lors des chapitres impairs.
+descr=Enlève jusqu'à 5 PV à un ennemi au hasard, avec pour limite 1 PV restant. Vous gagnez 10 Étoiles par PV enlevé.\nCette carte devient Main de l'Ange lors des chapitres impairs.
 flavor="Goûte au pouvoir du démon !" ―Yuuki
 
 < CARD_HYPER_COOP_MIO >
 name=Magical Inferno
-descr=Dessine un "+" autour de vous qui s'étend jusqu'aux limites du plateau. Tous les ennemis s'y trouvant subissent 5 dégâts. Vous leur volez autant d'étoiles que si vous les aviez vaincus en combat.\nMet fin à votre tour.
+descr=Dessine un "+" autour de vous qui s'étend jusqu'aux limites du plateau. Tous les ennemis s'y trouvant subissent 5 dégâts. Vous leur volez autant d'Étoiles que si vous les aviez vaincus en combat.\nMet fin à votre tour.
 flavor="Inferno !" ―Mio
 
 < CARD_HYPER_COOP_ISLAY >
@@ -295,7 +265,7 @@ flavor="*cui cui* ! Par là ! Coco a choisi cette direction !" ―Coco
 
 < CARD_HYPER_COOP_TEOTORATTA >
 name=Sorcière Bestiale
-descr=Empêche les ennemis de faire perdre des étoiles à l'équipe par quelconque moyen. Cette carte est défaussée aussitôt après.
+descr=Empêche les ennemis de faire perdre des Étoiles à l'équipe par quelconque moyen. Cette carte est défaussée aussitôt après.
 flavor="Bêtes de la Forêt ! Obéissez-moi !" ―Teotoratta
 
 < CARD_HYPER_COOP_CUTIES >
@@ -320,7 +290,7 @@ flavor="La situation est entre mes mains." ―Shifu
 
 < CARD_HYPER_COOP_REIKA >
 name=Collectionneuse d'Étoiles
-descr=Durée de l'Effet : 3 chapitres\nLorsqu'un joueur obtient des étoiles en combat ou sur une case Bonus, il gagne +Niv. ★.
+descr=Durée de l'Effet : 3 chapitres\nLorsqu'un joueur obtient des Étoiles en combat ou sur une case Bonus, il gagne (Niv.) ★.
 flavor="Fufufu, regarde, j'ai tellement d'étoiles avec moi." ―Reika
 
 < CARD_HYPER_COOP_WATTY >
@@ -370,7 +340,7 @@ flavor="Lulu est... une dragonne malchanceuse..." ―Lulu Ténébreuse
 
 < CARD_HYPER_COOP_GRAIN >
 name=Chargez les Canons
-descr=Votre Compteur - Canon tombe à 0. Inflige 1 point de dégât à un ennemi au hasard, et recommence une fois par Boulet de Canon dépensé. Chaque ennemi KO par cet effet vous donne votre Niv. x10 ★ et 1 Victoire.
+descr=Vous gagnez un Compteur - Canon, puis dépensez tous vos Compteurs. Inflige 1 point de dégât à un ennemi au hasard, et recommence une fois par Boulet de Canon dépensé. Chaque ennemi KO par cet effet vous octroie (votre Niv.) x3 ★ et 1 Victoire.
 flavor="Chargez tous les canons... FEU !" ―Jorge
 
 < CARD_HYPER_COOP_HARUKA >
@@ -382,6 +352,11 @@ flavor="On va rendre la partie plus amusante !" ―Haruka
 name=Bluff d'Intello
 descr=Durée de l'Effet : 3 chapitres\nChoisissez un type de carte (Combat/Boost/Évènement/Autre).\nLorsqu'un joueur joue une carte de ce type, il pioche une carte aussitôt.
 flavor="Je vois très clair dans ton jeu." ―Kanata
+
+< CARD_HYPER_COOP_SUISHOU >
+name=Pose de Combat Yukimura
+descr=Effet passif : Prochaine fois que vous vous défendez face à une attaque, tous les dégâts que vous auriez subi sont renvoyés à l'adversaire (max. votre taux de PV actuel). L'effet disparaît en tombant KO.
+flavor="Aucune attaque ne traverse la Technique Yukimura." ―Suishou
 
 < CARD_BOSS_COOP_DOZE >
 name=Dodo
@@ -580,12 +555,12 @@ flavor=
 
 < CARD_BOSS_COOP_BIG_POPPO >
 name=Depuis l'Abysse
-descr=Invoque un familier Poppo Géante. Chaque dégât qu'elle inflige vole 3 étoiles au lieu de blesser. Elle partage ses étoiles avec le Boss.\nSi elle tombe KO, le Boss donne aux joueurs 100 étoiles et 3 Victoires.\n10 de REC.
+descr=Invoque un familier Poppo Géante. Chaque dégât qu'elle inflige vole 3 Étoiles au lieu de blesser. Elle partage ses Étoiles avec le Boss.\nSi elle tombe KO, le Boss donne aux joueurs 100 Étoiles et 3 Victoires.\n10 de REC.
 flavor=
 
 < CARD_BOSS_COOP_NAP >
 name=Sieste
-descr=Perd 5 étoiles.
+descr=Perd 5 Étoiles.
 flavor=
 
 < CARD_BOSS_COOP_ELUSIVE >
@@ -595,22 +570,22 @@ flavor=
 
 < CARD_BOSS_COOP_STAR_MANIA >
 name=Folie des Étoiles
-descr=(Cumulable) Le Boss gagne +1 étoile à chaque chapitre par unité de Folie des Étoiles.
+descr=(Cumulable) Le Boss gagne +1 Étoile à chaque chapitre par unité de Folie des Étoiles.
 flavor=
 
 < CARD_BOSS_COOP_POPPO_TAX >
 name=Impoppôt
-descr=Tous les joueurs n'étant pas sur un rayon de 2 cases autour d'un ennemi perdent 5 étoiles. Le Boss gagne 5 étoiles par joueur affecté.\nEnsuite, tout le monde se téléporte au hasard.
+descr=Tous les joueurs n'étant pas sur un rayon de 2 cases autour d'un ennemi perdent 5 Étoiles. Le Boss gagne 5 Étoiles par joueur affecté.\nEnsuite, tout le monde se téléporte au hasard.
 flavor=
 
 < CARD_BOSS_COOP_TITHE >
 name=Dîme
-descr=Tous les joueurs dans un rayon de (Niv. Boss) cases autour du Boss ou d'un de ses familiers perdent 10 étoiles. Le Boss gagne 10 étoiles par joueur affecté.
+descr=Tous les joueurs dans un rayon de (Niv. Boss) cases autour du Boss ou d'un de ses familiers perdent 10 Étoiles. Le Boss gagne 10 Étoiles par joueur affecté.
 flavor=
 
 < CARD_BOSS_COOP_UBIQUITOUS >
 name=Nous Sommes Partout
-descr=Le Boss se téléporte sur un joueur au hasard (prio. plus loin) et vole (Niv. Boss) x5 ★.\nLes familiers du Boss se téléportent sur un joueur au hasard (prio. plus proche) et volent 5 étoiles chacun.
+descr=Le Boss se téléporte sur un joueur au hasard (prio. plus loin) et vole (Niv. Boss) x5 ★.\nLes familiers du Boss se téléportent sur un joueur au hasard (prio. plus proche) et volent 5 Étoiles chacun.
 flavor=
 
 < CARD_BOSS_COOP_SNATCHER >
@@ -620,27 +595,27 @@ flavor=
 
 < CARD_BOSS_COOP_SKY_RESTAURANT_POPPO >
 name=Dîner au Restaurant 'Poppo'
-descr=Le Boss et ses familiers posent le piège "Dîner au Restaurant Poppo" sur leurs cases respectives :\nSoigne tous vos PV. Vous donnez 10 étoiles au Boss par PV soigné.
+descr=Le Boss et ses familiers posent le piège "Dîner au Restaurant Poppo" sur leurs cases respectives :\nSoigne tous vos PV. Vous donnez 10 Étoiles au Boss par PV soigné.
 flavor=
 
 < CARD_BOSS_COOP_SKY_RESTAURANT_POPPO_TRAP >
 name=Dîner au Restaurant 'Poppo'
-descr=Soigne tous vos PV. Vous donnez 10 étoiles au Boss par PV soigné.
+descr=Soigne tous vos PV. Vous donnez 10 Étoiles au Boss par PV soigné.
 flavor=
 
 < CARD_BOSS_COOP_HIGHWAY_ROBBERY >
 name=Braquage Désarmé
-descr=Ce tour ci, le Boss gagne +3 ATK, se déplace à l'envers et continue à avancer après un combat.\nChaque dégât qu'il inflige vole 10 étoiles au lieu de blesser.
+descr=Ce tour ci, le Boss gagne +3 ATK, se déplace à l'envers et continue à avancer après un combat.\nChaque dégât qu'il inflige vole 10 Étoiles au lieu de blesser.
 flavor=
 
 < CARD_BOSS_COOP_GREED >
 name=Avarice
-descr=Durée de l'Effet : 1 chapitre\nLe Boss et ses familiers gagnent +5 étoiles par dégât infligé aux joueurs.
+descr=Durée de l'Effet : 1 chapitre\nLe Boss et ses familiers gagnent +5 Étoiles par dégât infligé aux joueurs.
 flavor=
 
 < CARD_BOSS_COOP_WARP_PHENOMENON >
 name=Folie des Portails
-descr=Tout le monde se téléporte aléatoirement 3 fois de suite.\nÀ chaque téléportation, les joueurs sur des cases adjacentes aux ennemis subissent 1 dégât et donnent 5 étoiles au Boss.
+descr=Tout le monde se téléporte aléatoirement 3 fois de suite.\nÀ chaque téléportation, les joueurs sur des cases adjacentes aux ennemis subissent 1 dégât et donnent 5 Étoiles au Boss.
 flavor=
 
 < CARD_BOSS_COOP_POPPOFORMATION >
@@ -655,32 +630,32 @@ flavor=
 
 < CARD_BOSS_COOP_POPPO_GALAXY >
 name=Galaxie Poppo
-descr=Pour chaque 100 étoiles du Boss, inflige 1 dégât aux joueurs n'étant pas sur un rayon de 2 cases autour du Boss ou d'un de ses familiers. Ne peut pas faire tomber KO.
+descr=Pour chaque 100 Étoiles du Boss, inflige 1 dégât aux joueurs n'étant pas sur un rayon de 2 cases autour du Boss ou d'un de ses familiers. Ne peut pas faire tomber KO.
 flavor=
 
 < CARD_BOSS_COOP_DEATH_AND_TAXES >
 name=Impoppôt Mortel
-descr=Pour chaque 50 étoiles de l'équipe, inflige 1 point de dégât à chaque joueur sur un rayon de 2 cases autour du Boss ou d'un de ses familiers.\nLe Boss gagne 50 étoiles par joueur KO.
+descr=Pour chaque 50 Étoiles de l'équipe, inflige 1 point de dégât à chaque joueur sur un rayon de 2 cases autour du Boss ou d'un de ses familiers.\nLe Boss gagne 50 Étoiles par joueur KO.
 flavor=
 
 < CARD_BOSS_COOP_VALUE_JUDGMENT >
 name=Jugement de Valeur
-descr=Calcule le total d'ATK de tous les joueurs réunis, et leur inflige la somme en dégâts. Le Boss vole (dégâts) x10 étoiles.\nSi la somme est négative, l'effet s'inverse :\nLes joueurs sont soignés et le Boss donne de ses étoiles.
+descr=Calcule le total d'ATK de tous les joueurs réunis, et leur inflige la somme en dégâts. Le Boss vole (dégâts) x10 ★\nSi la somme est négative, l'effet s'inverse :\nLes joueurs sont soignés et le Boss donne de ses Étoiles.
 flavor=
 
 < CARD_BOSS_COOP_RANSOM_NOTE >
 name=Lettre de Rançon
-descr=Donne à tous les joueurs "Lettre de Rançon" :\n★Coût : 10x Lettres de Rançon utilisées ce chapitre.\nDéfaussée à l'usage. Les étoiles dépensées reviennent au Boss.\nSi vous avez cette carte en main en fin de tour, vous tombez KO.\nDéfausser cette carte sans la jouer défausse toute votre main.
+descr=Donne à tous les joueurs "Lettre de Rançon" :\n★Coût : 10x Lettres de Rançon utilisées ce chapitre.\nDéfaussée à l'usage. Les Étoiles dépensées reviennent au Boss.\nSi vous avez cette carte en main en fin de tour, vous tombez KO.\nDéfausser cette carte sans la jouer défausse toute votre main.
 flavor=
 
 < CARD_COOP_BOOST_RANSOM_NOTE >
 name=Lettre de Rançon
-descr=★Coût : 10x Lettres de Rançon utilisées ce chapitre.\nDéfaussée à l'usage. Les étoiles dépensées reviennent au Boss.\nSi vous avez cette carte en main en fin de tour, vous tombez KO.\nDéfausser cette carte sans la jouer défausse toute votre main.
+descr=★Coût : 10x Lettres de Rançon utilisées ce chapitre.\nDéfaussée à l'usage. Les Étoiles dépensées reviennent au Boss.\nSi vous avez cette carte en main en fin de tour, vous tombez KO.\nDéfausser cette carte sans la jouer défausse toute votre main.
 flavor=
 
 < CARD_BOSS_COOP_POPPOCALYPSE >
 name=Poppocalypse
-descr=Durée de l'Effet : 1 chapitre\nToutes les cases autre que Boss, Portail et Maisons deviennent des cases Ennemi. Chaque variation de Marie Poppo gagne +2 ATK. Les Poppos sauvages donnent 5 étoiles au Boss par dégât infligé.
+descr=Durée de l'Effet : 1 chapitre\nToutes les cases autre que Boss, Portail et Maisons deviennent des cases Ennemi. Chaque variation de Marie Poppo gagne +2 ATK. Les Poppos sauvages donnent 5 Étoiles au Boss par dégât infligé.
 flavor=
 
 < CARD_BOSS_COOP_HOARDER >
@@ -915,17 +890,17 @@ flavor=
 
 < CARD_BOSS_COOP_IDENTITY_CRISIS >
 name=Crise Identitaire
-descr=Subit 1 dégât et gagne 5 étoiles.
+descr=Subit 1 dégât et gagne 5 Étoiles.
 flavor=
 
 < CARD_BOSS_COOP_ROBO_TAX >
 name=Imporobot
-descr=Tous les joueurs n'étant pas dans un rayon de 3 cases autour du Boss ou de ses familiers perdent 5 étoiles.\nPour chaque joueur affecté, le Boss gagne 5 étoiles, et +1 DEF jusqu'à son prochain tour.
+descr=Tous les joueurs n'étant pas dans un rayon de 3 cases autour du Boss ou de ses familiers perdent 5 Étoiles.\nPour chaque joueur affecté, le Boss gagne 5 Étoiles, et +1 DEF jusqu'à son prochain tour.
 flavor=
 
 < CARD_BOSS_COOP_PLUCK >
 name=Déplumage
-descr=Tous les joueurs sur la même case que le Boss subissent 2 dégâts. Le Boss gagne 10 étoiles par joueur affecté.
+descr=Tous les joueurs sur la même case que le Boss subissent 2 dégâts. Le Boss gagne 10 Étoiles par joueur affecté.
 flavor=
 
 < CARD_BOSS_COOP_CATCHER >
@@ -935,32 +910,32 @@ flavor=
 
 < CARD_BOSS_COOP_POPPO_MARCH >
 name=Défilé Poppo
-descr=Le Boss gagne 20 étoiles.\n(Tous les Ennemis, Cumulable)\n+2 EVD à son prochain combat.
+descr=Le Boss gagne 20 Étoiles.\n(Tous les Ennemis, Cumulable)\n+2 EVD à son prochain combat.
 flavor=
 
 < CARD_BOSS_COOP_PREMIUM_REGENERATION >
 name=Régéneration Deluxe
-descr=Soigne 1 PV à tous les personnages actifs. Gagne 20 étoiles.
+descr=Soigne 1 PV à tous les personnages actifs. Gagne 20 Étoiles.
 flavor=
 
 < CARD_BOSS_COOP_WIRELESS_CHICKEN >
 name=Poulet Sans Fil
-descr=Si le Boss est à moins de la moitié de ses PV :\nLe Boss et ses familiers gagnent +2 ATK jusqu'à la fin du tour du Boss, puis attaquent tous les joueurs sur un rayon de 1 case.\nGagne 10 étoiles par joueur défié.
+descr=Si le Boss est à moins de la moitié de ses PV :\nLe Boss et ses familiers gagnent +2 ATK jusqu'à la fin du tour du Boss, puis attaquent tous les joueurs sur un rayon de 1 case.\nGagne 10 Étoiles par joueur défié.
 flavor=
 
 < CARD_BOSS_COOP_ROPO_BARRAGE >
 name=Bombardement RoPo
-descr=★Coût : 30 étoiles\nUn joueur au hasard subit 1 dégât. Recommence à chaque début de tour du Boss, jusqu'à ce qu'un joueur en tombe KO.\n☆ À moins de 30, RoPoPou gagne 60 et la carte n'est pas jouée.
+descr=★Coût : 30 Étoiles\nUn joueur au hasard subit 1 dégât. Recommence à chaque début de tour du Boss, jusqu'à ce qu'un joueur en tombe KO.\n☆ À moins de 30, RoPoPou gagne 60 et la carte n'est pas jouée.
 flavor=
 
 < CARD_BOSS_COOP_DELUSIONAL_NUMBERS >
 name=Chiffres Fantôme
-descr=★Coût : 20 étoiles\nDurée de l'Effet : 1 chapitre\nLe Boss fait soit 0, soit 7 à tous ses jets de dés, avec 0 comme score minimum au lieu de 1.\n☆ À moins de 20, RoPoPou gagne 40 et la carte n'est pas jouée.
+descr=★Coût : 20 Étoiles\nDurée de l'Effet : 1 chapitre\nLe Boss fait soit 0, soit 7 à tous ses jets de dés, avec 0 comme score minimum au lieu de 1.\n☆ À moins de 20, RoPoPou gagne 40 et la carte n'est pas jouée.
 flavor=
 
 < CARD_BOSS_COOP_SECOND_WING2 >
 name=Dîner aux Graines
-descr=Soigne (Niv. Boss) PV au Boss et à tous ses familiers. Vole 2 étoiles aux joueurs par PV soigné.
+descr=Soigne (Niv. Boss) PV au Boss et à tous ses familiers. Vole 2 Étoiles aux joueurs par PV soigné.
 flavor=
 
 < CARD_BOSS_COOP_PO_BOMBER >
@@ -975,37 +950,37 @@ flavor=
 
 < CARD_BOSS_COOP_POPPO_UNIVERSE >
 name=Univers Poppo
-descr=★Coût : 50 étoiles\nInflige (étoiles du Boss / 50) de dégât à tous les joueurs n'étant pas sur un rayon de 3 cases autour du Boss ou de ses familiers.\n☆ À moins de 50, RoPoPou gagne 100 et la carte n'est pas jouée.
+descr=★Coût : 50 Étoiles\nInflige (Étoiles du Boss / 50) de dégât à tous les joueurs n'étant pas sur un rayon de 3 cases autour du Boss ou de ses familiers.\n☆ À moins de 50, RoPoPou gagne 100 et la carte n'est pas jouée.
 flavor=
 
 < CARD_BOSS_COOP_POPPOCARE >
 name=Pomiers Secours
-descr=Tous les joueurs KO se relèvent avec 1 PV.\nLe Boss se téléporte sur chaque joueur avec 1 PV et les affronte dans un ordre aléatoire. Gagne 30 étoiles par joueur KO de cette manière.
+descr=Tous les joueurs KO se relèvent avec 1 PV.\nLe Boss se téléporte sur chaque joueur avec 1 PV et les affronte dans un ordre aléatoire. Gagne 30 Étoiles par joueur KO de cette manière.
 flavor=
 
 < CARD_BOSS_COOP_REFINED_TALONS >
 name=Griffes Raffinées
-descr=★Coût : 50 étoiles\nInflige au joueur avec le moins de PV son nombre de PV restants. Un joueur aléatoire subit le même nombre de dégâts.\n☆ À moins de 50, RoPoPou gagne 100 et la carte n'est pas jouée.
+descr=★Coût : 50 Étoiles\nInflige au joueur avec le moins de PV son nombre de PV restants. Un joueur aléatoire subit le même nombre de dégâts.\n☆ À moins de 50, RoPoPou gagne 100 et la carte n'est pas jouée.
 flavor=
 
 < CARD_BOSS_COOP_BEAK_OF_DEMIBIRD >
 name=Bec de l'Oiseau-Robot
-descr=Le Boss gagne +2 ATK jusqu'à la fin de son tour.\nAttaque tous les joueurs à 2 cases de proximité par ordre croissant de PV restants.\nGagne 100 étoiles par joueur KO par cet effet.
+descr=Le Boss gagne +2 ATK jusqu'à la fin de son tour.\nAttaque tous les joueurs à 2 cases de proximité par ordre croissant de PV restants.\nGagne 100 Étoiles par joueur KO par cet effet.
 flavor=
 
 < CARD_BOSS_COOP_TURBO_CHICKEN >
 name=Turbo-Poulet
-descr=Jusqu'à la fin de son tour, le Boss gagne +1 dé aux jets de déplacement et continue à avancer après avoir affronté un joueur.\nPour chaque joueur défié, gagne 25 étoiles, et +1 ATK jusqu'à la fin du tour.
+descr=Jusqu'à la fin de son tour, le Boss gagne +1 dé aux jets de déplacement et continue à avancer après avoir affronté un joueur.\nPour chaque joueur défié, gagne 25 Étoiles, et +1 ATK jusqu'à la fin du tour.
 flavor=
 
 < CARD_BOSS_COOP_BIG_PO_SPECIAL >
 name=Clou du Spoctacle
-descr=★Coût : 100 étoiles\nDurée de l'Effet : 2 chapitres\nUn joueur au hasard subit (Niv. Boss) dégâts au début du tour du Boss.\n☆ À moins de 100, RoPoPou gagne 200 et la carte n'est pas jouée.
+descr=★Coût : 100 Étoiles\nDurée de l'Effet : 2 chapitres\nUn joueur au hasard subit (Niv. Boss) dégâts au début du tour du Boss.\n☆ À moins de 100, RoPoPou gagne 200 et la carte n'est pas jouée.
 flavor=
 
 < CARD_BOSS_COOP_BALANCE_CURRENCY >
 name=Courbe Rase
-descr=Tous les joueurs donnent au Boss leur ATK x5 ★.\nSi l'ATK est négative, le Boss donne de ses étoiles à la place.
+descr=Tous les joueurs donnent au Boss leur ATK x5 ★.\nSi l'ATK est négative, le Boss donne de ses Étoiles à la place.
 flavor=
 
 < CARD_BOSS_COOP_ROOST_BOOST >
@@ -1020,7 +995,7 @@ flavor=
 
 < CARD_BOSS_COOP_PO_TECT >
 name=Poppotection
-descr=★Coût : 20 étoiles\n(Cumul : Niv. Boss) Réduit les dégâts de 1 (-2 max) pour un minimum de 1 et enlève un cumul par dégât subi.\nEn disparaissant, applique l'effet "Brouillée" pendant 3 chapitres.
+descr=★Coût : 20 Étoiles\n(Cumul : Niv. Boss) Réduit les dégâts de 1 (-2 max) pour un minimum de 1 et enlève un cumul par dégât subi.\nEn disparaissant, applique l'effet "Brouillée" pendant 3 chapitres.
 flavor=
 
 < CARD_BOSS_COOP_FLOAT >
@@ -1447,7 +1422,7 @@ flavor=
 
 < CARD_SKILL_COOP_REVIVE >
 name=Résurrection
-descr=Vous pouvez relever vos alliés KO en les croisant. (coût : REC restant x3 étoiles)
+descr=Vous pouvez relever vos alliés KO en les croisant. (coût : REC restant x3 Étoiles)
 flavor=
 
 < CARD_SKILL_COOP_EVASIONBOOST >

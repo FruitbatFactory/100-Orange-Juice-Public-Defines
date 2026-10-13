@@ -53,5 +53,11 @@ XP
 < RESULT_SPEEDADJUST >
 속도 조정
 
+< RESULT_MESSAGE_CHARACTER_DISCOVER >
+{0}의 해금 경로가 열렸습니다! 게임 {1}판을 더 하면 상점에 추가됩니다.
+
+< RESULT_MESSAGE_CHARACTER_UNLOCK >
+새 캐릭터가 해금되었습니다! 상점에서 {0}을(를) {1}스타에 구매할 수 있습니다.
+
 [EOF]
 

@@ -53,5 +53,11 @@ Next
 < RESULT_SPEEDADJUST >
 Speed Adjust
 
+< RESULT_MESSAGE_CHARACTER_DISCOVER >
+The path to unlock {0} has opened! They will be available in the Shop after playing {1} games.
+
+< RESULT_MESSAGE_CHARACTER_UNLOCK >
+A new character has been unlocked! You can buy {0} in the Shop for {1} Stars.
+
 [EOF]
 

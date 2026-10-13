@@ -185,5 +185,11 @@ Shirasu Saho
 < VOICEACTOR_OHASHI_AYAKA >
 Ohashi Ayaka
 
+< VOICEACTOR_TADOKORO_AZUSA >
+Tadokoro Azusa
+
+< VOICEACTOR_USUI_YURI >
+Usui Yuri
+
 
 [EOF]

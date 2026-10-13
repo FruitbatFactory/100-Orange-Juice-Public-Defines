@@ -1,0 +1,123 @@
+// main
+// (elliehyper)
+<0000> Hé, c'est nous ! On est arrivées !
+// (lulu)
+<0001> Merci de nous avoir invitées.
+// (tomomo)
+<0002> Ah, c'est vous. Ça va bien ? Un avis sur ma super maison de plage ? Vu comment j'ai sauvé vos miches la dernière fois, je me suis permise de m'installer pour les vacances.
+// (lulu)
+<0003> Lulu... se demande comment il peut y avoir une plage ici. Ou même l'océan ! Il y avait pas tout ça, avant.
+// (tomomo)
+<0004> Ah oui, c'est moi, ça ! T'inquiète, c'est pas un gros océan. Puis ce monde est déjà sans queue ni tête ! Du Mio tout craché !
+// (lulu)
+<0005> Ne dites pas de mal de notre monde, s'il vous plaît. Malgré tout, Lulu le trouve très joli et plein de merveilles.
+// (elliehyper)
+<0006> Comme toi et moi, Lulu ! Pas vrai ?
+// (lulu)
+<0007> Lulu est pas assez arrogante... euh, assez confiante pour se complimenter comme tu le fais toi.
+// (tomomo)
+<0008> Hé, pas de stress, les filles ! Votre monde, je le protège, maintenant ! Promis, je vais pas faire n'importe quoi.
+// (elliehyper)
+<0009> Hihi, c'est tout toi, Mamie.
+// (tomomo)
+<0010> M-M-Mamie ? Qu'est-c't'as à m'insulter, morveuse ?
+// (elliehyper)
+<0011> Bah réfléchis ! T'es la maman de Maman, d'abord, non ?
+// (tomomo)
+<0012> Je l'ai créée, mais c'est pas ma mioche pour autant !!
+// (elliehyper)
+<0013> Ahaaa~ Pas de stress, Grand-Mère <3
+// (tomomo)
+<0014> Gyaah ! M'appelle pas comme ça ! J'ai même pas encore la trentaine ! Je suis au top !
+// (lulu)
+<0015> Aux... taupes ? Quel rapport avec les taupes ?
+// (tomomo)
+<0016> Parce que c'est vachement fort, une taupe ! Ça travaille super dur, et... attends, de quoi on parlait ?
+// (lulu)
+<0017> À vous entendre, on dirait vraiment Ellie. Il doit bien y avoir un lien de parenté.
+// (elliehyper)
+<0018> Alleeez, Mamie <3 Tu peux faire des gâteaux ? On a faim, Mamiiie ! Ahaaa~
+// (lulu)
+<0019> Ellie, tu ne devrais pas viser les points faibles des gens comme ça.
+// (tomomo)
+<0020> Hé, tu sais quoi ? Je suis une femme adulte. Je suis trop mature pour m'énerver, surtout pas pour de telles idioties.
+// (elliehyper)
+<0021> Ouais, très trèèès mature. Ahaaaa~
+// (tomomo)
+<0022> Peu importe. Vous vouliez manger un morceau, c'est bien ça ?
+// (elliehyper)
+<0023> Haha, tu vas vraiment faire des gâteaux, alors !
+// (tomomo)
+<0024> C'est la première fois que quelqu'un vient chez moi, je vais pas vous refuser un goûter, au moins.
+// (lulu)
+<0025> Merci beaucoup. Qu'est-ce que vous avez ?
+// (tomomo)
+<0026> J'ai des glaces, des glaces, des glaces et des glaces. Une préférence ?
+// (lulu)
+<0027> Pas de doute, elles sont de la même famille.
+// (elliehyper)
+<0028> C'est quoi, ces conserves toutes lisses ?
+// (tomomo)
+<0029> Ah, hum, t'es encore trop jeune. On... on va appeler ça des médocs. C'est pour éviter le burn-out quand ton patron te traite comme un chien...
+// (lulu)
+<0030> Lulu avait chaud, mais là, vous avez vraiment jeté un froid...
+// (tomomo)
+<0031> Bon, sinon, Ellie, ils vont comment, tes parents ? J'ai pas eu l'occasion de les revoir, depuis le temps.
+// (elliehyper)
+<0032> Chaipas, ils font des trucs de couple, j'imagine ? Ça me fout la gerbe ! Et j'en ai marre que Papa s'accapare Maman comme ça ! Elle est à moi, d'abord !
+// (tomomo)
+<0033> Beurk ! On va dire que j'ai rien entendu. J'aime pas les imaginer trop près l'un de l'autre, en fait.
+// (lulu)
+<0034> Les parents d'Ellie sont... euh, disons qu'ils sont eux-mêmes. Lulu se sent de la famille, elle aussi. Allez savoir si c'est bien ou non...
+// (tomomo)
+<0035> C'est bien. Prochaine fois que tu les vois, dis-leur de se ramener ici avant la fin de mes congés payés !
+// (lulu)
+<0036> Oui, madame.
+// (tomomo)
+<0037> Je voulais vous demander... Vous faites quoi pour vous amuser, par ici ? Je m'ennuie comme un rat mort.
+// (lulu)
+<0038> Vraiment ? Lulu pensait que vous étiez en vacances.
+// (tomomo)
+<0039> Ouais, mais j'ai pas de télé, pas de bandes dessinées, et j'ai personne à qui parler sur des kilomètres !
+// (elliehyper)
+<0040> 'fallait pas mettre ta plage dans un trou paumé, andouille !
+// (tomomo)
+<0041> Quoi, tu voulais que je la mette où ? En pleine ville, peut-être ?! T'as vraiment envie de boire la tasse ?
+// (elliehyper)
+<0042> Et pourquoi tu vas pas t'y baigner, dans ton océan ?
+// (tomomo)
+<0043> J'ai appris à nager récemment, mais ça devient pénible au bout de genre une demi-heure. Et c'est un petit océan de rien.
+// (elliehyper)
+<0044> Quand je m'ennuie, je commence une nouvelle quête ! Ou des fois, je joue avec la queue de Lulu.
+// (lulu)
+<0045> L-Lulu aimerait que tu arrêtes de faire ça, surtout devant des gens.
+// (elliehyper)
+<0046> Mais c'est marrant de te voir toute gênée ! Ahaa~
+// (tomomo)
+<0047> Une quête... ça a l'air intéressant, mais c'est encore du travail... Rah, même pendant mes vacances, tout revient au travail ! Je suis maudite ou quoi ?
+// (lulu)
+<0048> On a déjà pioché quelques primes. Vous pourriez nous aider, madame.
+// (tomomo)
+<0049> Arrête de m'appeler "madame", tu veux ? C'est trop formel. J'en aurais presque la chair de poule.
+// (lulu)
+<0050> Euh... Comment Lulu doit vous appeler, alors ?
+// (elliehyper)
+<0051> Mamie !
+// (tomomo)
+<0052> Tout sauf ça, d'accord !?
+// (lulu)
+<0053> Hmm... tata ? Tata Tomomo?
+// (tomomo)
+<0054> En mode super tata, hein ?
+// (lulu)
+<0055> Vous nous avez donné de la glace, alors... oui.
+// (tomomo)
+<0056> Dans ce cas, ça roule ! Et je rejoins votre quête ! Vous allez voir la puissance d'une magical girl à plein régime !
+// (elliehyper)
+<0057> Attention aux points de côté, Mamie ! Ahaaa~
+// (tomomo)
+<0058> La ferme ! Essaie au moins de me rattraper, tiens !
+// (lulu)
+<0059> Oooh... Elles font tellement de bruit, Lulu a déjà les oreilles qui sifflent. Dire que d'ici quelques minutes, elles vont sûrement s'ennuyer...
+// (lulu)
+<0060> C'est vraiment quelque chose, la famille d'Ellie. Au moins, Lulu ne risque pas de s'ennuyer.

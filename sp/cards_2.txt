@@ -106,12 +106,12 @@ flavor="Una luz con la capacidad de quemar toda la ciudad e incluso el planeta..
 
 < CARD_GIFT_UNLUCKYCHARM >
 name=Amuleto de la Desgracia
-descr=★Costo: Nivel x 5.\nPierdes estrellas por un valor equivalente a tu Nivel al comienzo de cada turno.\nAl ser usada, esta carta será enviada a otro jugador.\nSi no puedes pagar su costo, esta carta podrá ser usada de forma gratuita.
+descr=★Costo: Nivel x 5.\nPierdes Estrellas (valor: Nivel x 1) al comienzo de tu turno. Usar esta carta la enviará a la mano de otro jugador. Si el costo excede tu cantidad de Estrellas, podrás usar esta carta de forma gratuita.
 flavor="La sombría oscuridad interrumpe mi sueño, por eso anhelo la luz..." ―Krilalaris
 
 < CARD_GIFT_WINDYENCHANTMENT >
 name=Velocidad Encantada
-descr=El valor de tus dados de movimiento es incrementado por 1.\nAl tener esta carta en mano, la verificación de Normas es deshabilitada.\nAl ser usada, esta carta es descartada.  
+descr=Recibes +1 MOV. Deshabilita la verificación de normas mientras esta carta se encuentre en tu mano.
 flavor=Le llaman Alicianrone, la chica sin zapatos.
 
 < CARD_HYPER_SYURA >
@@ -186,7 +186,7 @@ flavor="Qué imprudente eres al haber desafiado a un Dios. ¡Prepárate para sen
 
 < CARD_HYPER_QPD >
 name=Guardiana de los Dulces
-descr=Toma 2 cartas del mazo central cuyos nombres tengan "Pudín" en el mismo. Si no hay cartas con "pudín" en sus nombres dentro del mazo, recibes 1 Pudín Peligroso o Pudín en Mal Estado.
+descr=Toma 2 cartas con "Pudín" en sus nombres del mazo central. Si no hay cartas con "Pudín" en su nombre en el mazo, recibes 1 Pudín Peligroso o Pudín en Mal Estado.
 flavor="Mi pequeño... pudín..." ―QP
 
 < CARD_HYPER_SORAM >
@@ -201,7 +201,7 @@ flavor="¡Po! ¡Po! ¡Po! ¡¡Popoppo!!" ―Marie Poppo
 
 < CARD_HYPER_ARUSCRAMBLE >
 name=El Trabajo de Santa
-descr=Al comienzo de tu turno, podrás enviar una carta de nivel usable desde tu mano a la de un jugador aleatorio.\nRecibes estrellas equivalentes al nivel de la carta enviada x 5.\nEse jugador no podrá desafiar a otros hasta tu próximo turno.\nEsta carta se perderá al morir o al ser usada.
+descr=Antes de moverte durante tu turno, podrás escoger una carta de nivel usable desde tu mano, enviarla a la de un jugador aleatorio y recibir Estrellas (valor: Nivel de la Carta Enviada x 5). El jugador que reciba esa carta no podrá desafiar a otros hasta tu próximo turno. Esta carta se perderá al ser noqueado.
 flavor="¡Niños en todo el mundo, ahí vamos!" ―Aru
 
 < CARD_HYPER_NATH >
@@ -261,7 +261,7 @@ flavor="¡Pokya Po! (¡Tesoro obtenido!)" ―Marie Poppo
 
 < CARD_GIFT_LOSTCHILD >
 name=Niño Perdido
-descr=El movimiento es invertido mientras esta carta está en mano. Deshabilita la verificación de normas. Esta carta es descartada al ser usada o al morir.
+descr=Tu movimiento será invertido mientras esta carta se encuentre en tu mano. Deshabilita la verificación de normas mientras se encuentre en tu mano. Esta carta será descartada al ser noqueado.
 flavor="¿En dónde estoy?" ―Tsih
 
 < CARD_TRAP_WANTED >
@@ -271,12 +271,12 @@ flavor="¡Por aquí! ¡Mi olfato nunca se equivoca!" ―QP
 
 < CARD_GIFT_PRICEOFPOWER >
 name=El Precio del Poder
-descr=Podrás jugar cartas de un nivel mayor que tu nivel actual, pero costarán 5 estrellas más. Esta carta es descartada al ser usada.
+descr=Podrás pagar 5 estrellas adicionales para usar las cartas de un nivel mayor que tu nivel actual. 
 flavor="Incluso si sobrevivo a la guerra... Con este cuerpo, no hay nada que yo pueda hacer." ―Nath
 
 < CARD_GIFT_VALENTINESDAY2018 >
 name=¡Dulce Batalla!
-descr=Cuando está en mano: Obtienes el doble de chocolate.\nAl ser jugada en batalla: Roba 200 chocolates por cada punto de daño.\nEsta carta es descartada al morir o al ser usada.
+descr=Al tenerse en mano: Obtienes el doble de chocolate.\nAl ser ussada dentro de una batalla: Roba 200 chocolates por cada punto de daño realizado.\nEsta carta será descartada al ser noqueado.
 flavor="¡Aquí viene otra batalla dulce!" ―QP
 
 < CARD_GIFT_VALENTINESDAY2018_BINDER >
@@ -291,7 +291,7 @@ flavor="¡Témanle a mis poderes!" ―Yuki
 
 < CARD_HYPER_TOMOMOCASUAL >
 name=Helado Milagroso de Frijoles Rojos
-descr=+1 ATK mientras esta carta está en mano.\nTomomo (Casual): Al ser usada, se convierte en Tomomo (SE) y restaura todos sus puntos de vida.\nTomomo (SE): Esta carta se transformará en Venganza Mágica.\nEsta carta será descartada al ser usada.
+descr=+1 ATK mientras esta carta está en mano.\nTomomo (Casual): Al ser usada, te convertirás en Tomomo (Sweet Eater) y recuperarás todos tus PV.\nTomomo (Sweet Eater): Esta carta se transformará en Venganza Mágica.
 flavor="¡Helado!" ―Tomomo
 
 < CARD_HYPER_TOMOMOSWEETEATER >
@@ -551,7 +551,7 @@ flavor="¡El poder de los dulces es el mejor!" ―Saki
 
 < CARD_HYPER_SWEETBLOGGER >
 name=Operación: Montaña de Dulces
-descr=Toma 3 Cartas de Impulso del mazo. Puedes usar 3 otras Cartas de Impulso durante este turno con el 1/3 de su costo.
+descr=Toma 3 cartas de Impulso del mazo. Podrás usar hasta 3 cartas de Impulso adicionales durante este turno por el 1/3 de su costo.
 flavor="Jeje~, vamos a comer muchos dulces deliciosos." ―Natsumi
 
 < CARD_HYPER_MIOFESTIVE >
@@ -596,7 +596,7 @@ flavor="No puedes hacer que un adulto se esfuerze demasiado." ―Kai (Héroe)
 
 < CARD_HYPER_GRAIN >
 name=Todas Las Armas Preparadas
-descr=Recibes un efecto de Cañón y entonces pagas todos los efectos guardados de Cañón. Un enemigo aleatorio recibe 1 punto de daño. Si el enemigo es noqueado por este efecto, recibes 1 Victoria y Estrellas equivalentes a su Nivel x 3. Este efecto se repite por cada Cañón pagado.
+descr=Recibes un efecto de Cañón y entonces pagas todos los efectos guardados de Cañón. Un enemigo aleatorio recibirá 1 punto de daño. Si el enemigo es noqueado, recibes 1 Victoria y Estrellas (valor: su nivel x 3). Repite este efecto por cada contador de Cañón pagado.
 flavor="Todas las armas preparadas, y... ¡FUEGO!" ―Grain
 
 < CARD_HYPER_BOURBON >
@@ -639,9 +639,19 @@ name=Porque Soy Una Maestra
 descr=En vez de ser noqueado por daño realizado dentro de una batalla, tus PV serán reducidos a 1. Al activar este efecto, esta carta será descartada.##(Activación: Al tener 1 PV fuera de una batalla): Recuperas 1 PV tras activar un panel de Cartas, Movimiento, Teletransportación, Tele-Movimiento, o un panel Aleatorio. Si recuperas todos tus PV gracias a esta carta, descártala.
 flavor="Como maestra, necesito seguir de pie." ―Kurie
 
+< CARD_HYPER_RINSE >
+name=Damisela Feroz
+descr=Efecto Guardado (1): La próxima vez que recibas daño dentro de una batalla, recibirás Estrellas (valor: tu Nivel x 2) por cada punto de daño recibido (hasta un máximo de 9). Si pagaste la misma cantidad o más para usar una carta de batalla que la cantidad de estrellas recibidas, recuperarás todos tus PV al terminar la batalla. Este efecto se perderá al ser noqueado.
+flavor="Sabrás que derribarme no será tarea fácil." ―Rinse
+
+< CARD_HYPER_SUISHOU >
+name=Postura Estilo-Yukimura
+descr=Efecto Guardado: La próxima vez que recibas daño al defender dentro de una batalla, ese daño será cancelado y dañarás a la unidad que lo causó con el mismo valor. Este efecto se perderá al ser noqueado.
+flavor="El Estilo Yukimura deja a todos los ataques de lado." ―Suishou
+
 < CARD_GIFT_RANGEDTRAPS >
 name=Mira lo Largos Que Son Mis Brazos y Piernas Ahora
-descr=Podrás pagar 5 estrellas adicionales para colocar trampas en un radio de 2 paneles. Incrementa todos los niveles de las cartas (exceptuando las cartas Trampa y de Regalo) por 1 (hasta un máximo de 5). Esta carta será descartada al ser usada o al caer sobre una trampa.
+descr=Podrás pagar 5 estrellas adicionales para colocar trampas en un radio de 2 paneles. Incrementa los niveles de todas las cartas (exceptuando las de Trampa o Regalo) por 1 (hasta un máximo de 5). Esta carta será descartada al caer en una trampa.
 flavor="Deja que Mamá te abrace con sus brazos largos." ―Mamá Poppo
 
 < CARD_BANNER_FLUFFYANDFUZZY >
@@ -726,12 +736,12 @@ flavor="¡Poppo! ¡¡¡Poppopopo!!!" ―Everyone
 
 < CARD_GIFT_POPPOTHESNATCHER >
 name=Poppo la Ladrona
-descr=Pierdes -1 DEF. Al encontrarte con otro enemigo en tu camino, roba estrellas equivalentes a su nivel x 3. Deshabilita la verificación de normas. Esta carta es descartada al ser usada o al morir.
+descr=Recibes -1 DEF. Al encontrarte con otro enemigo durante tu turno, roba sus Estrellas (valor: su Nivel x 3). Deshabilita la verificación de normas mientras se encuentre en tu mano. Esta carta será descartada al ser noqueado.
 flavor="¡¡Pokyakya!!" ―Poppo
 
 < CARD_GIFT_BLOODLUST >
 name=Sed de Sangre
-descr=Pierdes 1 PV al comienzo de cada turno. Cura 1 PV por cada punto de daño causado. Deshabilita la verificación de normas. Esta carta es descartada al ser usada o al morir.
+descr=Pierdes 1 PV al comienzo de tu turno. Recuperas 1 PV por cada punto de daño causado. Deshabilita la verificación de normas mientras se encuentre en tu mano. Esta carta será descartada al ser noqueado.
 flavor="El verdadero poder de mi bestia... me pregunto si será de esta forma." ―Krila
 
 < CARD_BATTLE_SINKORSWIM >
@@ -751,7 +761,7 @@ flavor="¡Hoy tendré Pudín para el almuerzo!" ―QP
 
 < CARD_BOOST_SWEETDESTROYER >
 name=Dulces Destrozados
-descr=Roba una carta "pudín" de todos los otros jugadores. Podrás jugar una carta adicional durante este turno. Por 3 capítulos, todas las cartas relacionadas a los Dulces (que no sean Especiales) tomadas se transformarán en Pudín Peligroso o Pudín en Mal Estado.
+descr=Roba una carta "Pudín" de cada otro jugador. Podrás usar una carta adicional durante este turno. Por 3 capítulos, cualquier carta tipo Dulce que entre en la mano de un jugador se transformará en un Pudín Peligroso o un Pudín en Mal Estado de forma permanente.
 flavor="Los dulces que dañarán a todo el universo... ¡Los destruiré a todos!" ―Sweet Breaker
 
 < CARD_BOOST_BACKDOORTRADE >
@@ -871,7 +881,7 @@ flavor="El gremio te traicionará antes de que sea tarde... Ten eso en mente." �
 
 < CARD_GIFT_NANAKOBIT >
 name=El Bit de Nanako
-descr=Recibes +1 ATK, +1 DEF o +1 EVD de forma aleatoria al comienzo de una batalla mientras esta carta se encuentre en mano, pero también pierdes 7 estrellas.\nEsta carta será descartada al ser noqueado o al ser usada.
+descr=Recibes +1 ATK, +1 DEF o +1 EVD de forma aleatoria y pierdes 7 Estrellas al comienzo de una batalla mientras esta carta se encuentre en mano. Esta carta será descartada al ser noqueado.
 flavor="¿¡Pero qué rayos es lo que estás haciendo!?" ―Nanako
 
 < CARD_TRAP_BANKOFPOPPO >
