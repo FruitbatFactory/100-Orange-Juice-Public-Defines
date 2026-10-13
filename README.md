@@ -1,6 +1,8 @@
 # 100% Orange Juice Localization Repository
 Welcome to the official text repository for 100% Orange Juice! This repository contains all translatable in-game strings.
 
+**Current Version**: 3.30 - Present for You (Hotfix 2026/10/05)
+
 ## Purpose
 The primary goal of this repository is to facilitate high-quality, community-driven localization. We aim to bring 100% Orange Juice to players worldwide by providing the assets necessary to translate the game into languages not currently supported.
 
